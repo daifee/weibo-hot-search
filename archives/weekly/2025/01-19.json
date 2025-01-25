@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737793564575,
+  "endTime": 1737794301169,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -635,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1258395,
+      "num": 1258395,
+      "word": "乐山地震",
+      "onboard_time": 1737794238,
+      "rank": 1,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 1253564,
       "num": 366016,
       "word": "特朗普说TikTok回来了",
@@ -940,7 +948,7 @@
     },
     {
       "raw_hot": 1067626,
-      "num": 368562,
+      "num": 410621,
       "word": "赵露思请吃饭",
       "onboard_time": 1737786677,
       "rank": 15,
@@ -1180,7 +1188,7 @@
     },
     {
       "raw_hot": 955149,
-      "num": 366772,
+      "num": 397239,
       "word": "纪凌尘与女友现身机场",
       "onboard_time": 1737787877,
       "rank": 11,
@@ -1715,6 +1723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 788633,
+      "num": 606469,
+      "word": "发臭的网约车戳中中年男人的隐痛",
+      "onboard_time": 1737788357,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 778944,
       "num": 1124631,
       "word": "杨紫李现晒何惟芳蒋长扬大婚照",
@@ -1865,6 +1881,14 @@
       "onboard_time": 1737507979,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 736316,
+      "num": 736316,
+      "word": "向佐回应杨幂模仿自己",
+      "onboard_time": 1737792619,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 734994,
@@ -2051,6 +2075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 672201,
+      "num": 553844,
+      "word": "黄毛毛曝被6000万粉男艺人殴打",
+      "onboard_time": 1737789918,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 669939,
       "num": 669939,
       "word": "李小冉躲在厕所自责爆哭",
@@ -2203,20 +2235,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 637989,
+      "num": 493121,
+      "word": "曝长相清纯95小花拜高踩低",
+      "onboard_time": 1737789437,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 637651,
       "num": 637651,
       "word": "男子口含碎玻璃6次敲诈海底捞被起诉",
       "onboard_time": 1737277219,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 635708,
-      "num": 553844,
-      "word": "黄毛毛曝被6000万粉男艺人殴打",
-      "onboard_time": 1737789918,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 632806,
@@ -2411,14 +2443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 606469,
-      "num": 606469,
-      "word": "发臭的网约车戳中中年男人的隐痛",
-      "onboard_time": 1737788357,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 605728,
       "num": 605728,
       "word": "央视boys一首歌全是易错字",
@@ -2563,14 +2587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 582821,
-      "num": 493121,
-      "word": "曝长相清纯95小花拜高踩低",
-      "onboard_time": 1737789437,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 581871,
       "num": 557048,
       "word": "胡彦斌对黄圣依的回怼全是祝福",
@@ -2595,11 +2611,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 576713,
+      "num": 410044,
+      "word": "烟瘾很大的95生",
+      "onboard_time": 1737792319,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 576606,
       "num": 267014,
       "word": "女子出国做断骨增高腿喷脓",
       "onboard_time": 1737207261,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 573230,
+      "num": 573230,
+      "word": "郑州出现大暴雪",
+      "onboard_time": 1737791477,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -2953,14 +2985,6 @@
       "onboard_time": 1737360258,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 528972,
-      "num": 528972,
-      "word": "郑州出现大暴雪",
-      "onboard_time": 1737791477,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 528801,
@@ -3795,6 +3819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 437373,
+      "num": 437373,
+      "word": "Doinb道歉",
+      "onboard_time": 1737790458,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 436382,
       "num": 232187,
       "word": "曾黎的抹额火到了国外",
@@ -4259,14 +4291,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 378546,
-      "num": 364107,
-      "word": "向佐回应杨幂模仿自己",
-      "onboard_time": 1737792619,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 377322,
       "num": 377322,
       "word": "中央气象台连发4个预警",
@@ -4403,14 +4427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 369378,
-      "num": 369378,
-      "word": "Doinb道歉",
-      "onboard_time": 1737790458,
-      "rank": 49,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 368926,
       "num": 368926,
       "word": "哪吒2全新角色亮相",
@@ -4513,14 +4529,6 @@
       "onboard_time": 1737674475,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 363307,
-      "num": 363307,
-      "word": "烟瘾很大的95生",
-      "onboard_time": 1737792319,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 363300,
@@ -4737,6 +4745,14 @@
       "onboard_time": 1737538578,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 347976,
+      "num": 434692,
+      "word": "台湾台南4.9级地震",
+      "onboard_time": 1737718699,
+      "rank": 45,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 347753,
@@ -5617,6 +5633,14 @@
       "onboard_time": 1737334218,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 286684,
+      "num": 213100,
+      "word": "老员工收了1000元春节红包遭辞退",
+      "onboard_time": 1737792857,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 285837,
@@ -7523,6 +7547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 214059,
+      "num": 214059,
+      "word": "孟子义2024制片人好感度艺人",
+      "onboard_time": 1737793219,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213730,
       "num": 213730,
       "word": "谷爱凌神经系统处于超负荷状态",
@@ -8529,6 +8561,14 @@
       "onboard_time": 1737779176,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 196969,
+      "num": 233496,
+      "word": "片场发疯的95生",
+      "onboard_time": 1737791238,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 196847,
@@ -9787,6 +9827,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 180265,
+      "num": 180265,
+      "word": "虞书欣给剧组发新年红包",
+      "onboard_time": 1737793818,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180210,
       "num": 180210,
       "word": "iG投资人说Doinb伤害了iG粉丝",
@@ -10041,14 +10089,6 @@
       "onboard_time": 1737703999,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 176974,
-      "num": 233496,
-      "word": "片场发疯的95生",
-      "onboard_time": 1737791238,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 176930,
@@ -10673,14 +10713,6 @@
       "onboard_time": 1737617302,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 169019,
-      "num": 169019,
-      "word": "孟子义2024制片人好感度艺人",
-      "onboard_time": 1737793219,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 168780,
@@ -11459,6 +11491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159724,
+      "num": 159724,
+      "word": "射雕票补策略",
+      "onboard_time": 1737793878,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 159695,
       "num": 159695,
       "word": "她一言不发但眼睛会说话",
@@ -11800,14 +11840,6 @@
       "word": "广东都快干成厂东了",
       "onboard_time": 1737189137,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 155836,
-      "num": 155836,
-      "word": "老员工收了1000元春节红包遭辞退",
-      "onboard_time": 1737792857,
-      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -12803,6 +12835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145235,
+      "num": 145235,
+      "word": "新国辩回应",
+      "onboard_time": 1737793939,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 145214,
       "num": 145214,
       "word": "杨紫嘉人二月刊预热",
@@ -13313,6 +13353,14 @@
       "onboard_time": 1737520759,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139819,
+      "num": 165468,
+      "word": "iG投资人道歉",
+      "onboard_time": 1737791418,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 139780,
@@ -15235,6 +15283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120768,
+      "num": 137507,
+      "word": "爱谈恋爱的待爆00后生",
+      "onboard_time": 1737794238,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120763,
       "num": 120763,
       "word": "谢娜钟楚曦爆改杨迪",
@@ -15681,14 +15737,6 @@
       "onboard_time": 1737730579,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 116184,
-      "num": 116184,
-      "word": "台湾台南4.9级地震",
-      "onboard_time": 1737718699,
-      "rank": 45,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 116166,
@@ -16473,14 +16521,6 @@
       "onboard_time": 1737731479,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 108651,
-      "num": 108651,
-      "word": "iG投资人道歉",
-      "onboard_time": 1737791418,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 108631,
@@ -18211,6 +18251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82343,
+      "num": 195986,
+      "word": "外媒称特朗普与丹麦首相激烈通话",
+      "onboard_time": 1737793159,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 82261,
       "num": 82261,
       "word": "国色芳华27集预告",
@@ -19307,6 +19355,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 51717,
+      "num": 265518,
+      "word": "金晨4亿福利是4颗鸡蛋",
+      "onboard_time": 1737793818,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 51716,
       "num": 342720,
       "word": "多地进入雨雪鼎盛时段",
@@ -19673,14 +19729,6 @@
       "onboard_time": 1737221534,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 45972,
-      "num": 153631,
-      "word": "外媒称特朗普与丹麦首相激烈通话",
-      "onboard_time": 1737793159,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 45959,
@@ -20403,6 +20451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30145,
+      "num": 819438,
+      "word": "网信办加强互联网新闻信息服务许可管理",
+      "onboard_time": 1737792978,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 30108,
       "num": 30108,
       "word": "特朗普上任后将大规模逮捕无证移民",
@@ -20643,6 +20699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 25828,
+      "num": 196001,
+      "word": "导演谈鹊刀门2剧情讽刺娱乐圈乱象",
+      "onboard_time": 1737792677,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 25677,
       "num": 26543,
       "word": "肖战努力贴近成为角色",
@@ -20673,6 +20737,14 @@
       "onboard_time": 1737705379,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 24962,
+      "num": 234744,
+      "word": "90后小伙带全村老人坐旋转木马",
+      "onboard_time": 1737793398,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24939,
@@ -20947,20 +21019,20 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 21306,
-      "num": 556639,
-      "word": "网信办加强互联网新闻信息服务许可管理",
-      "onboard_time": 1737792978,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 21112,
       "num": 24128,
       "word": "朝朝穆穆",
       "onboard_time": 1737227651,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 21075,
+      "num": 196063,
+      "word": "凯斯18岁时曾爆冷击败李娜",
+      "onboard_time": 1737793939,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 21027,
@@ -21107,14 +21179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18975,
-      "num": 154070,
-      "word": "导演谈鹊刀门2剧情讽刺娱乐圈乱象",
-      "onboard_time": 1737792677,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 18885,
       "num": 26794,
       "word": "今天jer个样",
@@ -21217,14 +21281,6 @@
       "onboard_time": 1737215298,
       "rank": 46,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 17210,
-      "num": 143567,
-      "word": "90后小伙带全村老人坐旋转木马",
-      "onboard_time": 1737793398,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17185,
