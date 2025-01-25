@@ -1,6 +1,6 @@
 {
   "startTime": 1737736047740,
-  "endTime": 1737780034831,
+  "endTime": 1737782421374,
   "band_list": [
     {
       "raw_hot": 2134060,
@@ -75,8 +75,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 732845,
-      "num": 732845,
+      "raw_hot": 764692,
+      "num": 630565,
+      "word": "李小冉哭着对刘晓庆说我对不起你",
+      "onboard_time": 1737781337,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 739477,
+      "num": 739477,
       "word": "谷爱凌说身体已达极限",
       "onboard_time": 1737776537,
       "rank": 4,
@@ -121,6 +129,22 @@
       "onboard_time": 1737725722,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 542619,
+      "num": 542619,
+      "word": "第一批上四休三的员工开始主动加班",
+      "onboard_time": 1737777977,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 533888,
+      "num": 329978,
+      "word": "特朗普政府宣布墨西哥湾更名美国湾",
+      "onboard_time": 1737779239,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 528177,
@@ -195,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 385465,
+      "num": 299611,
+      "word": "虞书欣丁禹兮夫妻味",
+      "onboard_time": 1737778578,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 381685,
       "num": 181247,
       "word": "一条小团团自称刑满释放",
@@ -209,6 +241,14 @@
       "onboard_time": 1737767176,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 375998,
+      "num": 272494,
+      "word": "白月梵星爱奇艺近两年古偶冠军",
+      "onboard_time": 1737780857,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 367685,
@@ -235,14 +275,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 341068,
-      "num": 299611,
-      "word": "虞书欣丁禹兮夫妻味",
-      "onboard_time": 1737778578,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 339536,
       "num": 414325,
       "word": "虞书欣 小红鱼",
@@ -260,10 +292,18 @@
     },
     {
       "raw_hot": 331248,
-      "num": 216791,
+      "num": 255565,
       "word": "女子眼中插进4.5厘米树枝浑然不知",
       "onboard_time": 1737776477,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 321326,
+      "num": 321326,
+      "word": "女子带2娃被大妈请求帮忙擦眼",
+      "onboard_time": 1737777138,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -289,14 +329,6 @@
       "onboard_time": 1737733279,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 299149,
-      "num": 299149,
-      "word": "女子带2娃被大妈请求帮忙擦眼",
-      "onboard_time": 1737777138,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 294222,
@@ -331,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 267963,
+      "num": 168370,
+      "word": "三九胃泰抽象的爱",
+      "onboard_time": 1737779718,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 266038,
       "num": 62097,
       "word": "医生说6种病是衰老的表现",
@@ -353,6 +393,14 @@
       "onboard_time": 1737769577,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 261771,
+      "num": 261771,
+      "word": "迪丽热巴片场发杀青红包",
+      "onboard_time": 1737779957,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 260397,
@@ -419,6 +467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 224078,
+      "num": 255954,
+      "word": "2024制片人眼中的好感艺人TOP5",
+      "onboard_time": 1737779658,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223501,
       "num": 175246,
       "word": "打赌喝马桶水给1万后反悔起诉",
@@ -427,12 +483,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 218852,
-      "num": 218852,
-      "word": "第一批上四休三的员工开始主动加班",
-      "onboard_time": 1737777977,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 223265,
+      "num": 223265,
+      "word": "终于理解了男生看男频的快乐",
+      "onboard_time": 1737779058,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 217592,
@@ -467,20 +523,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 207551,
+      "num": 207551,
+      "word": "我家那小子",
+      "onboard_time": 1737781457,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206360,
       "num": 206360,
       "word": "倪萍说大家别轻易放弃婚姻",
       "onboard_time": 1737769278,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205182,
-      "num": 205182,
-      "word": "终于理解了男生看男频的快乐",
-      "onboard_time": 1737779058,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 203829,
@@ -531,14 +587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 197857,
-      "num": 216996,
-      "word": "2024制片人眼中的好感艺人TOP5",
-      "onboard_time": 1737779658,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 196972,
       "num": 196972,
       "word": "肖战匆匆别离思念至极",
@@ -563,12 +611,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 190150,
-      "num": 190150,
-      "word": "迪丽热巴片场发杀青红包",
-      "onboard_time": 1737779957,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 185789,
+      "num": 185789,
+      "word": "出道6个月的2NE1",
+      "onboard_time": 1737779417,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 184478,
@@ -611,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172012,
+      "num": 172012,
+      "word": "肖战说射雕最大的挑战是演郭靖",
+      "onboard_time": 1737781037,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 169440,
       "num": 169440,
       "word": "第一批拿年终奖的人已经准备好麻袋",
@@ -643,12 +699,28 @@
       "category": "电影,体育"
     },
     {
+      "raw_hot": 166357,
+      "num": 166357,
+      "word": "未定事件簿",
+      "onboard_time": 1737781158,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 165253,
       "num": 165253,
       "word": "何惟芳蒋长扬神级心动镜头",
       "onboard_time": 1737767597,
       "rank": 30,
       "category": "综艺,剧集"
+    },
+    {
+      "raw_hot": 163091,
+      "num": 325381,
+      "word": "官方通报梅大高速塌方问责",
+      "onboard_time": 1737781098,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161803,
@@ -675,14 +747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157588,
-      "num": 166996,
-      "word": "三九胃泰抽象的爱",
-      "onboard_time": 1737779718,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 156663,
       "num": 122760,
       "word": "王一博王子即视感",
@@ -707,12 +771,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 150516,
-      "num": 150516,
-      "word": "出道6个月的2NE1",
-      "onboard_time": 1737779417,
+      "raw_hot": 154410,
+      "num": 154410,
+      "word": "未定事件簿 夏彦",
+      "onboard_time": 1737780558,
       "rank": 33,
-      "category": "艺人"
+      "category": "游戏"
     },
     {
       "raw_hot": 150209,
@@ -763,12 +827,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 142513,
-      "num": 329978,
-      "word": "特朗普政府宣布墨西哥湾更名美国湾",
-      "onboard_time": 1737779239,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 142564,
+      "num": 142564,
+      "word": "韩素希南柱赫同框",
+      "onboard_time": 1737780678,
+      "rank": 36,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 142005,
@@ -809,6 +873,14 @@
       "onboard_time": 1737766456,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130974,
+      "num": 130974,
+      "word": "菲律宾船企图非法登礁被中国海警驱离",
+      "onboard_time": 1737780978,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 130752,
@@ -865,6 +937,14 @@
       "onboard_time": 1737765136,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 122913,
+      "num": 122913,
+      "word": "白鹿敖瑞鹏不语只是一味脸红",
+      "onboard_time": 1737780439,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 121529,
@@ -971,6 +1051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111827,
+      "num": 178187,
+      "word": "唐探1900德州有个旧金山",
+      "onboard_time": 1737782176,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 110877,
       "num": 176006,
       "word": "日本很多小型车站被指撞人事故频发",
@@ -1043,6 +1131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104075,
+      "num": 104075,
+      "word": "撒贝宁你也没放过尼格买提",
+      "onboard_time": 1737780678,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103064,
       "num": 103064,
       "word": "小电视遇到于适不能呼吸了",
@@ -1072,6 +1168,14 @@
       "word": "游本昌说走得慢不代表没出息",
       "onboard_time": 1737773178,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 101643,
+      "num": 101643,
+      "word": "一路繁花",
+      "onboard_time": 1737780678,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -1115,6 +1219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99045,
+      "num": 169162,
+      "word": "孙泽源演王震球也是撕漫男吧",
+      "onboard_time": 1737781277,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 96837,
       "num": 228534,
       "word": "女子36年前被堂兄卖给人贩子",
@@ -1137,6 +1249,14 @@
       "onboard_time": 1737718577,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94050,
+      "num": 94050,
+      "word": "沙一汀 官宣个巡",
+      "onboard_time": 1737781577,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 93038,
@@ -1257,6 +1377,14 @@
       "onboard_time": 1737777619,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57629,
+      "num": 308573,
+      "word": "普京称愿就乌克兰问题谈判但阻力尚存",
+      "onboard_time": 1737780978,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 53073,

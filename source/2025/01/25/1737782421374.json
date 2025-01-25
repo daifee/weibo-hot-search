@@ -1,0 +1,410 @@
+{
+  "runTime": 1737782421374,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1366055,
+        "num": 1366055,
+        "word": "何老师都接不住的烂梗出现了",
+        "onboard_time": 1737771677,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 739477,
+        "num": 739477,
+        "word": "谷爱凌说身体已达极限",
+        "onboard_time": 1737776537,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35714,
+        "num": 648794,
+        "word": "9组数据速览中国向新发力",
+        "onboard_time": 1737775456,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 764692,
+        "num": 630565,
+        "word": "李小冉哭着对刘晓庆说我对不起你",
+        "onboard_time": 1737781337,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 590228,
+        "num": 590228,
+        "word": "美国一大学被爆切分出售退伍老兵遗体",
+        "onboard_time": 1737776357,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 542619,
+        "num": 542619,
+        "word": "第一批上四休三的员工开始主动加班",
+        "onboard_time": 1737777977,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 530471,
+        "num": 530471,
+        "word": "晓华给奶奶剪王嘉尔同款造型",
+        "onboard_time": 1737777438,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 399108,
+        "num": 399108,
+        "word": "迪丽热巴携三部大剧来拜年",
+        "onboard_time": 1737774736,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330007,
+        "num": 330007,
+        "word": "近800万人申请国补买手机数码",
+        "onboard_time": 1737768438,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 163091,
+        "num": 325381,
+        "word": "官方通报梅大高速塌方问责",
+        "onboard_time": 1737781098,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 533888,
+        "num": 324235,
+        "word": "特朗普政府宣布墨西哥湾更名美国湾",
+        "onboard_time": 1737779239,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 517911,
+        "num": 323121,
+        "word": "濒危尸体花盛开数千人排队参观",
+        "onboard_time": 1737771317,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 321326,
+        "num": 321326,
+        "word": "女子带2娃被大妈请求帮忙擦眼",
+        "onboard_time": 1737777138,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 455928,
+        "num": 310088,
+        "word": "霸王茶姬发文致歉",
+        "onboard_time": 1737734719,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 57629,
+        "num": 308573,
+        "word": "普京称愿就乌克兰问题谈判但阻力尚存",
+        "onboard_time": 1737780978,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 385465,
+        "num": 294994,
+        "word": "虞书欣丁禹兮夫妻味",
+        "onboard_time": 1737778578,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377786,
+        "num": 285493,
+        "word": "女孩偷拿妈妈百万珠宝卖了60元",
+        "onboard_time": 1737765136,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 375998,
+        "num": 272494,
+        "word": "白月梵星爱奇艺近两年古偶冠军",
+        "onboard_time": 1737780857,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261771,
+        "num": 261771,
+        "word": "迪丽热巴片场发杀青红包",
+        "onboard_time": 1737779957,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224078,
+        "num": 255954,
+        "word": "2024制片人眼中的好感艺人TOP5",
+        "onboard_time": 1737779658,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255565,
+        "num": 255565,
+        "word": "女子眼中插进4.5厘米树枝浑然不知",
+        "onboard_time": 1737776477,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254016,
+        "num": 254016,
+        "word": "15岁女孩到云南边境见男网友",
+        "onboard_time": 1737768677,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223265,
+        "num": 223265,
+        "word": "终于理解了男生看男频的快乐",
+        "onboard_time": 1737779058,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209948,
+        "num": 209948,
+        "word": "禹宙中欣",
+        "onboard_time": 1737764297,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207551,
+        "num": 207551,
+        "word": "我家那小子",
+        "onboard_time": 1737781457,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185789,
+        "num": 185789,
+        "word": "出道6个月的2NE1",
+        "onboard_time": 1737779417,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111827,
+        "num": 178187,
+        "word": "唐探1900德州有个旧金山",
+        "onboard_time": 1737782176,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172012,
+        "num": 172012,
+        "word": "肖战说射雕最大的挑战是演郭靖",
+        "onboard_time": 1737781037,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99045,
+        "num": 169162,
+        "word": "孙泽源演王震球也是撕漫男吧",
+        "onboard_time": 1737781277,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267963,
+        "num": 168370,
+        "word": "三九胃泰抽象的爱",
+        "onboard_time": 1737779718,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 166357,
+        "num": 166357,
+        "word": "未定事件簿",
+        "onboard_time": 1737781158,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155297,
+        "num": 155297,
+        "word": "徐克谈黄蓉华筝选角",
+        "onboard_time": 1737777557,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164152,
+        "num": 155066,
+        "word": "网友偶遇食蚁兽洗了一下午尾巴",
+        "onboard_time": 1737779239,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154410,
+        "num": 154410,
+        "word": "未定事件簿 夏彦",
+        "onboard_time": 1737780558,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145647,
+        "num": 145647,
+        "word": "楼上爆改5个厕所楼下交涉反遭恐吓",
+        "onboard_time": 1737774618,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143149,
+        "num": 143149,
+        "word": "G社王俊凯生图",
+        "onboard_time": 1737771977,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 142564,
+        "num": 142564,
+        "word": "韩素希南柱赫同框",
+        "onboard_time": 1737780678,
+        "rank": 36,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 136541,
+        "num": 136541,
+        "word": "第一批拿年终奖的人已经准备好麻袋",
+        "onboard_time": 1737776778,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132812,
+        "num": 132812,
+        "word": "博主涉嫌恶意抹黑小米汽车被抓",
+        "onboard_time": 1737771018,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 130974,
+        "num": 130974,
+        "word": "菲律宾船企图非法登礁被中国海警驱离",
+        "onboard_time": 1737780978,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122913,
+        "num": 122913,
+        "word": "白鹿敖瑞鹏不语只是一味脸红",
+        "onboard_time": 1737780439,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60800,
+        "num": 116470,
+        "word": "王俊凯的幸运老K有球必应",
+        "onboard_time": 1737777798,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112149,
+        "num": 112149,
+        "word": "俩月男婴被偷认亲时父亲已去世2年",
+        "onboard_time": 1737769517,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109618,
+        "num": 109618,
+        "word": "葛夕妈妈说没多喜欢留几手",
+        "onboard_time": 1737765136,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107204,
+        "num": 107204,
+        "word": "花5万元处理爱犬遗体毛发都未整理",
+        "onboard_time": 1737773777,
+        "rank": 44,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 104075,
+        "num": 104075,
+        "word": "撒贝宁你也没放过尼格买提",
+        "onboard_time": 1737780678,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101643,
+        "num": 101643,
+        "word": "一路繁花",
+        "onboard_time": 1737780678,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101171,
+        "num": 101171,
+        "word": "恋与制作人 许墨设定",
+        "onboard_time": 1737774438,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 94050,
+        "num": 94050,
+        "word": "沙一汀 官宣个巡",
+        "onboard_time": 1737781577,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 92708,
+        "num": 93834,
+        "word": "宜修你早说你儿是肖战啊",
+        "onboard_time": 1737765676,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全国各族人民致新春祝福#"
+    }
+  }
+}
