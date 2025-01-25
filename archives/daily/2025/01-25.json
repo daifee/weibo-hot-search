@@ -1,10 +1,10 @@
 {
   "startTime": 1737736047740,
-  "endTime": 1737812096352,
+  "endTime": 1737814704091,
   "band_list": [
     {
-      "raw_hot": 4212168,
-      "num": 4212168,
+      "raw_hot": 9297886,
+      "num": 9297886,
       "word": "张大大被曝指使社会人士砸门恐吓",
       "onboard_time": 1737808998,
       "rank": 0,
@@ -195,6 +195,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 870052,
+      "num": 870052,
+      "word": "周杰伦ins晒与权志龙合照",
+      "onboard_time": 1737811161,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 868936,
+      "num": 868936,
+      "word": "雷军直播时突然被封",
+      "onboard_time": 1737811641,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 868668,
       "num": 666037,
       "word": "迪丽热巴携三部大剧来拜年",
@@ -355,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 657352,
+      "num": 594648,
+      "word": "陈思诚哭了",
+      "onboard_time": 1737810922,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 646664,
       "num": 646664,
       "word": "河南暴雪被困12小时车主发声",
@@ -499,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 451144,
+      "num": 451144,
+      "word": "北京下雪",
+      "onboard_time": 1737812303,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 437373,
       "num": 437373,
       "word": "Doinb道歉",
@@ -611,14 +643,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 371226,
-      "num": 244549,
-      "word": "陈思诚哭了",
-      "onboard_time": 1737810922,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 370920,
       "num": 287091,
       "word": "茯苓恶女妆",
@@ -651,7 +675,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 354326,
+      "raw_hot": 361082,
       "num": 290971,
       "word": "赵丽颖早期晋江式演技",
       "onboard_time": 1737810321,
@@ -697,6 +721,22 @@
       "onboard_time": 1737794538,
       "rank": 6,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 337035,
+      "num": 192724,
+      "word": "妲己救大王花了八条半尾巴",
+      "onboard_time": 1737813022,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 336768,
+      "num": 190736,
+      "word": "杨紫猜中李现小时候的外号",
+      "onboard_time": 1737813081,
+      "rank": 26,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 334899,
@@ -753,14 +793,6 @@
       "onboard_time": 1737724458,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 312647,
-      "num": 232045,
-      "word": "雷军直播时突然被封",
-      "onboard_time": 1737811641,
-      "rank": 26,
-      "category": "互联网"
     },
     {
       "raw_hot": 312489,
@@ -872,6 +904,14 @@
       "word": "15岁女孩到云南边境见网友被劝返",
       "onboard_time": 1737767718,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 268202,
+      "num": 188048,
+      "word": "深圳多个地铁站贴上了白头春联",
+      "onboard_time": 1737812721,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -1083,6 +1123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229184,
+      "num": 229184,
+      "word": "福气码",
+      "onboard_time": 1737814044,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 228548,
       "num": 228548,
       "word": "萨巴伦卡vs凯斯",
@@ -1251,6 +1299,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 202620,
+      "num": 202620,
+      "word": "美国叫停几乎全部对外援助",
+      "onboard_time": 1737814223,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 201825,
+      "num": 201825,
+      "word": "韩国失事客机事发前8分钟细节公布",
+      "onboard_time": 1737813382,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 201185,
       "num": 201185,
       "word": "熊大熊二不语只是一味赶高铁",
@@ -1299,12 +1363,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196665,
+      "num": 184610,
+      "word": "你好星期六下期是三周年团建特辑",
+      "onboard_time": 1737812603,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196588,
       "num": 196588,
       "word": "春联",
       "onboard_time": 1737808221,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 196217,
+      "num": 196217,
+      "word": "刘强东现身参加员工新春家宴",
+      "onboard_time": 1737812121,
+      "rank": 22,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 194443,
@@ -1499,6 +1579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170099,
+      "num": 170099,
+      "word": "何与飞奔抱虞书欣路透",
+      "onboard_time": 1737812001,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169440,
       "num": 169440,
       "word": "第一批拿年终奖的人已经准备好麻袋",
@@ -1555,6 +1643,14 @@
       "category": "电影,体育"
     },
     {
+      "raw_hot": 166612,
+      "num": 166612,
+      "word": "王星越三个角色三种类型",
+      "onboard_time": 1737813682,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166357,
       "num": 166357,
       "word": "未定事件簿",
@@ -1609,14 +1705,6 @@
       "onboard_time": 1737793939,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 162634,
-      "num": 162634,
-      "word": "何与飞奔抱虞书欣路透",
-      "onboard_time": 1737812001,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 161803,
@@ -1691,6 +1779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155205,
+      "num": 164947,
+      "word": "火车站回应座椅铺软垫拍照后被撤走",
+      "onboard_time": 1737813141,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155130,
       "num": 153999,
       "word": "春节上门喂猫收入1.5w",
@@ -1729,6 +1825,14 @@
       "onboard_time": 1737810922,
       "rank": 45,
       "category": "剧集,综艺"
+    },
+    {
+      "raw_hot": 151637,
+      "num": 151637,
+      "word": "卢昱晓新剧掌家娘子",
+      "onboard_time": 1737814343,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 151580,
@@ -1809,14 +1913,6 @@
       "onboard_time": 1737794718,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 144963,
-      "num": 232681,
-      "word": "周杰伦ins晒与权志龙合照",
-      "onboard_time": 1737811161,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 144618,
@@ -1979,6 +2075,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 135861,
+      "num": 135861,
+      "word": "射雕票补",
+      "onboard_time": 1737813562,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 134977,
       "num": 134977,
       "word": "制片人夸孟子义懂得感恩",
@@ -2028,7 +2132,7 @@
     },
     {
       "raw_hot": 130861,
-      "num": 145488,
+      "num": 173987,
       "word": "朱广权广州小蛮腰走钢丝",
       "onboard_time": 1737804620,
       "rank": 44,
@@ -2867,6 +2971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56374,
+      "num": 197963,
+      "word": "女子正吃饭卡里转进20万紧急寻人",
+      "onboard_time": 1737814044,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56117,
       "num": 148260,
       "word": "当一个打工家庭努力嵌入城市",
@@ -2985,6 +3097,14 @@
       "onboard_time": 1737804141,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 38170,
+      "num": 181136,
+      "word": "低价药能保证药效与用药安全吗",
+      "onboard_time": 1737812721,
+      "rank": 34,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 37536,

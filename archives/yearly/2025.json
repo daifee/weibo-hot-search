@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737812096352,
+  "endTime": 1737814704091,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -145,6 +145,14 @@
       "onboard_time": 1737617120,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 9297886,
+      "num": 9297886,
+      "word": "张大大被曝指使社会人士砸门恐吓",
+      "onboard_time": 1737808998,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 9123207,
@@ -319,14 +327,6 @@
       "num": 4267121,
       "word": "演员星星在泰缅边境失联",
       "onboard_time": 1736121019,
-      "rank": 0,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 4212168,
-      "num": 4212168,
-      "word": "张大大被曝指使社会人士砸门恐吓",
-      "onboard_time": 1737808998,
       "rank": 0,
       "category": "艺人"
     },
