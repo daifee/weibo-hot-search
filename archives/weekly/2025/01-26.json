@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1737825440660,
+  "endTime": 1737826506260,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 162973,
-      "num": 140879,
+      "num": 144628,
       "word": "张元英李瑞KKT聊天记录",
       "onboard_time": 1737814943,
       "rank": 29,
@@ -243,20 +243,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 121538,
+      "num": 144674,
+      "word": "电竞选手幻云称网恋被骗流露轻生念头",
+      "onboard_time": 1737821840,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121324,
       "num": 214416,
       "word": "韩国失事客机事发前8分钟细节公布",
       "onboard_time": 1737813382,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 118194,
-      "num": 118194,
-      "word": "电竞选手幻云称网恋被骗流露轻生念头",
-      "onboard_time": 1737821840,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 110949,
@@ -315,8 +315,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 101712,
-      "num": 101712,
+      "raw_hot": 101874,
+      "num": 101874,
       "word": "网友不买账霸王茶姬评论区致歉",
       "onboard_time": 1737823156,
       "rank": 31,
@@ -444,27 +444,43 @@
     },
     {
       "raw_hot": 57514,
-      "num": 62397,
+      "num": 64713,
       "word": "何与飞奔抱虞书欣路透",
       "onboard_time": 1737812001,
       "rank": 43,
       "category": "剧集"
     },
     {
+      "raw_hot": 56908,
+      "num": 64791,
+      "word": "厦门福州泉州震感",
+      "onboard_time": 1737825255,
+      "rank": 47,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 52518,
-      "num": 62349,
+      "num": 64729,
       "word": "记者调查潘宏是否涉嫌虐狗",
       "onboard_time": 1737825076,
       "rank": 44,
       "category": "网红"
     },
     {
-      "raw_hot": 48632,
-      "num": 62231,
-      "word": "厦门福州泉州震感",
-      "onboard_time": 1737825255,
+      "raw_hot": 46129,
+      "num": 64671,
+      "word": "俱乐部已找到电竞选手幻云本人",
+      "onboard_time": 1737825736,
       "rank": 47,
-      "category": "突发/灾害"
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 32909,
+      "num": 145351,
+      "word": "霸座的人已经不多了",
+      "onboard_time": 1737825555,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23062,
