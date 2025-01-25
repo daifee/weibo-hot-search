@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737847258554,
+  "endTime": 1737848132279,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -6307,6 +6307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 911735,
+      "num": 940947,
+      "word": "起底张大大背后的mcn公司",
+      "onboard_time": 1737846433,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 911342,
       "num": 433847,
       "word": "湖南卫视春晚",
@@ -10329,14 +10337,6 @@
       "onboard_time": 1736226983,
       "rank": 28,
       "category": "教育"
-    },
-    {
-      "raw_hot": 640496,
-      "num": 796923,
-      "word": "起底张大大背后的mcn公司",
-      "onboard_time": 1737846433,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 640405,
@@ -16931,6 +16931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 416771,
+      "num": 171757,
+      "word": "特朗普与洛杉矶市长爆发争吵",
+      "onboard_time": 1737846313,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 416758,
       "num": 347604,
       "word": "三只羊旗下账号直播卖年货",
@@ -22067,14 +22075,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 317558,
-      "num": 147467,
-      "word": "特朗普与洛杉矶市长爆发争吵",
-      "onboard_time": 1737846313,
-      "rank": 10,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 317531,
       "num": 317531,
       "word": "36岁女子做育儿嫂4年买车房存款30万",
@@ -24297,6 +24297,14 @@
       "onboard_time": 1737519199,
       "rank": 43,
       "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 285759,
+      "num": 285759,
+      "word": "网友不买账霸王茶姬评论区致歉",
+      "onboard_time": 1737823156,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 285653,
@@ -27729,14 +27737,6 @@
       "onboard_time": 1736226983,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 248628,
-      "num": 248628,
-      "word": "网友不买账霸王茶姬评论区致歉",
-      "onboard_time": 1737823156,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 248482,
@@ -54747,6 +54747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131919,
+      "num": 131919,
+      "word": "东北爷爷宠孙女有了新高度",
+      "onboard_time": 1737827894,
+      "rank": 48,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 131823,
       "num": 123351,
       "word": "白月梵星播放量破2亿",
@@ -56483,14 +56491,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 126372,
-      "num": 126372,
-      "word": "东北爷爷宠孙女有了新高度",
-      "onboard_time": 1737827894,
-      "rank": 48,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 126371,
       "num": 126371,
       "word": "石头赶路",
@@ -57113,6 +57113,14 @@
       "onboard_time": 1736150669,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124511,
+      "num": 147793,
+      "word": "黄毛毛控诉受到无忧传媒威胁",
+      "onboard_time": 1737846493,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 124489,
@@ -64811,6 +64819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98950,
+      "num": 98950,
+      "word": "打工宝妈在国色芳华里演上了贵人",
+      "onboard_time": 1737846193,
+      "rank": 23,
+      "category": "剧集,民生新闻"
+    },
+    {
       "raw_hot": 98939,
       "num": 169289,
       "word": "柳承敏当选韩国奥委会主席",
@@ -65497,6 +65513,14 @@
       "onboard_time": 1736040511,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95922,
+      "num": 95922,
+      "word": "14岁女孩玩挖宝花光母亲14万打工钱",
+      "onboard_time": 1737846374,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95889,
@@ -66635,6 +66659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89028,
+      "num": 89028,
+      "word": "中国队或退出农心杯",
+      "onboard_time": 1737847395,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88979,
       "num": 175975,
       "word": "洛城德比",
@@ -66817,6 +66849,14 @@
       "onboard_time": 1735724119,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 88075,
+      "num": 95950,
+      "word": "刘耀文颈部印记为痘印",
+      "onboard_time": 1737847454,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 88061,
@@ -67017,6 +67057,14 @@
       "onboard_time": 1735787180,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 86543,
+      "num": 86543,
+      "word": "举报雷军开车直播的网友回应",
+      "onboard_time": 1737847395,
+      "rank": 26,
+      "category": "互联网"
     },
     {
       "raw_hot": 86523,
@@ -69715,6 +69763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 68317,
+      "num": 84629,
+      "word": "刘宇宁直播规劝粉丝",
+      "onboard_time": 1737846374,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 68209,
       "num": 128569,
       "word": "张帅说樊振东激励我们前进",
@@ -69753,14 +69809,6 @@
       "onboard_time": 1735715359,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 67912,
-      "num": 67912,
-      "word": "打工宝妈在国色芳华里演上了贵人",
-      "onboard_time": 1737846193,
-      "rank": 23,
-      "category": "剧集,民生新闻"
     },
     {
       "raw_hot": 67871,
@@ -70065,6 +70113,14 @@
       "onboard_time": 1735653150,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65801,
+      "num": 65801,
+      "word": "河南一员工15分钟数10万现金抱走",
+      "onboard_time": 1737847695,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65796,
@@ -70969,14 +71025,6 @@
       "onboard_time": 1735992869,
       "rank": 14,
       "category": "民生新闻,电影"
-    },
-    {
-      "raw_hot": 59489,
-      "num": 59489,
-      "word": "14岁女孩玩挖宝花光母亲14万打工钱",
-      "onboard_time": 1737846374,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 59260,
@@ -72113,6 +72161,14 @@
       "onboard_time": 1736724375,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 52993,
+      "num": 52993,
+      "word": "河南暴雪亲历者发声",
+      "onboard_time": 1737828373,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52967,
@@ -73595,6 +73651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 45100,
+      "num": 45100,
+      "word": "年轻人意识到健康比赚钱更加重要",
+      "onboard_time": 1737846674,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45072,
       "num": 45072,
       "word": "肖战2025年新年台历",
@@ -73649,14 +73713,6 @@
       "onboard_time": 1736082209,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 44703,
-      "num": 44703,
-      "word": "河南暴雪亲历者发声",
-      "onboard_time": 1737828373,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 44640,
@@ -76587,14 +76643,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 30345,
-      "num": 147793,
-      "word": "黄毛毛控诉受到无忧传媒威胁",
-      "onboard_time": 1737846493,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 30323,
       "num": 285226,
       "word": "陈哲远古希腊送礼的神",
@@ -76761,14 +76809,6 @@
       "onboard_time": 1737517579,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29763,
-      "num": 84629,
-      "word": "刘宇宁直播规劝粉丝",
-      "onboard_time": 1737846374,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 29741,
@@ -77953,14 +77993,6 @@
       "onboard_time": 1736907617,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 25038,
-      "num": 34970,
-      "word": "年轻人意识到健康比赚钱更加重要",
-      "onboard_time": 1737846674,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25037,
@@ -80761,6 +80793,14 @@
       "onboard_time": 1735757352,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13078,
+      "num": 143315,
+      "word": "射雕英雄传预售仍断层领先",
+      "onboard_time": 1737846374,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 13011,
