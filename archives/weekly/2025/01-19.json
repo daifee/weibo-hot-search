@@ -1,6 +1,6 @@
 {
   "startTime": 1737217467745,
-  "endTime": 1737808670792,
+  "endTime": 1737809567640,
   "band_list": [
     {
       "raw_hot": 10158319,
@@ -17,6 +17,14 @@
       "onboard_time": 1737617120,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 4212168,
+      "num": 4212168,
+      "word": "张大大被曝指使社会人士砸门恐吓",
+      "onboard_time": 1737808998,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 3939290,
@@ -3347,6 +3355,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 502414,
+      "num": 423903,
+      "word": "医生吐槽麻药有时麻不倒病人",
+      "onboard_time": 1737804319,
+      "rank": 41,
+      "category": "舆论监督,健康医疗"
+    },
+    {
       "raw_hot": 502011,
       "num": 128915,
       "word": "李小冉气到发抖",
@@ -3931,6 +3947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 438585,
+      "num": 285333,
+      "word": "碗盆",
+      "onboard_time": 1737805581,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 438222,
       "num": 438222,
       "word": "徐克你根本没有喝中药",
@@ -4049,14 +4073,6 @@
       "onboard_time": 1737463158,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 423903,
-      "num": 423903,
-      "word": "医生吐槽麻药有时麻不倒病人",
-      "onboard_time": 1737804319,
-      "rank": 41,
-      "category": "舆论监督,健康医疗"
     },
     {
       "raw_hot": 423352,
@@ -4948,7 +4964,7 @@
     },
     {
       "raw_hot": 344649,
-      "num": 321236,
+      "num": 325581,
       "word": "央视新闻专访徐克肖战",
       "onboard_time": 1737806781,
       "rank": 14,
@@ -5128,14 +5144,6 @@
       "word": "newjeans成员声明",
       "onboard_time": 1737599657,
       "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 333047,
-      "num": 239468,
-      "word": "碗盆",
-      "onboard_time": 1737805581,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -5939,6 +5947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 283881,
+      "num": 283881,
+      "word": "五福临门开播",
+      "onboard_time": 1737806539,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 283855,
       "num": 384569,
       "word": "聂卫平说柯洁退赛比较生猛",
@@ -5985,6 +6001,14 @@
       "onboard_time": 1737432799,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 281174,
+      "num": 281174,
+      "word": "张鑫哽咽感谢白鹿鼓励",
+      "onboard_time": 1737807441,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 281145,
@@ -6251,14 +6275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 269289,
-      "num": 269289,
-      "word": "张鑫哽咽感谢白鹿鼓励",
-      "onboard_time": 1737807441,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 269229,
       "num": 269229,
       "word": "刘晓庆卖签名照",
@@ -6321,6 +6337,14 @@
       "onboard_time": 1737779718,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 267499,
+      "num": 267499,
+      "word": "五福临门",
+      "onboard_time": 1737251777,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 267258,
@@ -7043,6 +7067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 241139,
+      "num": 327916,
+      "word": "台湾5.4级左右地震",
+      "onboard_time": 1737807621,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 240837,
       "num": 240837,
       "word": "恋与深空",
@@ -7177,14 +7209,6 @@
       "onboard_time": 1737439397,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 236782,
-      "num": 236782,
-      "word": "五福临门开播",
-      "onboard_time": 1737806539,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 236778,
@@ -7833,6 +7857,14 @@
       "onboard_time": 1737300018,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 215960,
+      "num": 215960,
+      "word": "河南大学火灾事故48人被处理",
+      "onboard_time": 1737808880,
+      "rank": 25,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 215817,
@@ -9419,6 +9451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191632,
+      "num": 191632,
+      "word": "李嘉琦发文告别团建不能停",
+      "onboard_time": 1737808639,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191579,
       "num": 191579,
       "word": "英国男子称泰国监狱的条件令人作呕",
@@ -9889,6 +9929,14 @@
       "onboard_time": 1737436039,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185286,
+      "num": 185286,
+      "word": "鞠婧祎坊间最擅舞的女儿",
+      "onboard_time": 1737808458,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 185222,
@@ -11051,14 +11099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 169787,
-      "num": 327916,
-      "word": "台湾5.4级左右地震",
-      "onboard_time": 1737807621,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 169784,
       "num": 149139,
       "word": "柯洁去年对申真谞也被裁判干扰",
@@ -11089,6 +11129,14 @@
       "onboard_time": 1737439397,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 169098,
+      "num": 169098,
+      "word": "金珉奎 CK",
+      "onboard_time": 1737807800,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 169066,
@@ -11201,6 +11249,14 @@
       "onboard_time": 1737343638,
       "rank": 42,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 167815,
+      "num": 167815,
+      "word": "韩安冉再回应前夫破产",
+      "onboard_time": 1737809179,
+      "rank": 36,
+      "category": "网红"
     },
     {
       "raw_hot": 167724,
@@ -11529,14 +11585,6 @@
       "onboard_time": 1737512657,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 164943,
-      "num": 164943,
-      "word": "金珉奎 CK",
-      "onboard_time": 1737807800,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 164940,
@@ -13299,6 +13347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145410,
+      "num": 145410,
+      "word": "2025电影春节档",
+      "onboard_time": 1737805581,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 145313,
       "num": 145313,
       "word": "中方回应是否邀请特朗普访华",
@@ -13915,14 +13971,6 @@
       "category": "互联网,游戏"
     },
     {
-      "raw_hot": 139141,
-      "num": 139141,
-      "word": "2025电影春节档",
-      "onboard_time": 1737805581,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 139109,
       "num": 186818,
       "word": "王者蛇限皮肤设计首曝",
@@ -14172,7 +14220,7 @@
     },
     {
       "raw_hot": 136582,
-      "num": 246045,
+      "num": 278090,
       "word": "游戏人的蛇年福利",
       "onboard_time": 1737806060,
       "rank": 19,
@@ -15839,14 +15887,6 @@
       "num": 120996,
       "word": "致1999年的自己",
       "onboard_time": 1737458238,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 120971,
-      "num": 120971,
-      "word": "鞠婧祎坊间最擅舞的女儿",
-      "onboard_time": 1737808458,
       "rank": 42,
       "category": "剧集"
     },
@@ -17523,14 +17563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104669,
-      "num": 104669,
-      "word": "李嘉琦发文告别团建不能停",
-      "onboard_time": 1737808639,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 104624,
       "num": 218934,
       "word": "Icon力挺Doinb",
@@ -18275,6 +18307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95320,
+      "num": 186151,
+      "word": "周杰伦约王俊凯骑车",
+      "onboard_time": 1737809421,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95311,
       "num": 221163,
       "word": "Doinb复出首秀",
@@ -18883,14 +18923,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 82668,
-      "num": 82668,
-      "word": "五福临门",
-      "onboard_time": 1737251777,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 82627,
       "num": 158018,
       "word": "国乒重点着眼未来两届奥运梯队建设",
@@ -19432,6 +19464,14 @@
       "word": "张帅说樊振东激励我们前进",
       "onboard_time": 1737538278,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 67955,
+      "num": 192808,
+      "word": "澳网冠军的胜利时刻",
+      "onboard_time": 1737808939,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -20268,7 +20308,7 @@
     },
     {
       "raw_hot": 49007,
-      "num": 1071049,
+      "num": 1240492,
       "word": "春节年俗仪式感拉满",
       "onboard_time": 1737783197,
       "rank": 36,
@@ -20371,6 +20411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 47187,
+      "num": 146163,
+      "word": "网友曝火车站给座椅铺软垫疑为摆拍",
+      "onboard_time": 1737809540,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47163,
       "num": 47163,
       "word": "华晨宇演唱晨光里有你",
@@ -20400,6 +20448,14 @@
       "word": "文化中国行看火花迎新春",
       "onboard_time": 1737731900,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46394,
+      "num": 278469,
+      "word": "医疗证明有问号退机票被拒绝",
+      "onboard_time": 1737809239,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -21921,6 +21977,14 @@
       "onboard_time": 1737397452,
       "rank": 49,
       "category": "体育,民生新闻"
+    },
+    {
+      "raw_hot": 19153,
+      "num": 227031,
+      "word": "谷爱凌说现在还不能走路",
+      "onboard_time": 1737795438,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 18885,
