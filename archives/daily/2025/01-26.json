@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1737830397230,
+  "endTime": 1737832611496,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -491,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31238,
+      "num": 31807,
+      "word": "河南暴雪亲历者发声",
+      "onboard_time": 1737828373,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28226,
       "num": 31355,
       "word": "相柳白素贞合唱千年等一回",
@@ -507,6 +515,22 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 25240,
+      "num": 25240,
+      "word": "女子推理社全员空降超话",
+      "onboard_time": 1737831433,
+      "rank": 41,
+      "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 23982,
+      "num": 23982,
+      "word": "宋亚轩年末大放宋",
+      "onboard_time": 1737831972,
+      "rank": 44,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 23062,
       "num": 697232,
       "word": "2025春节假期安全提示",
@@ -515,20 +539,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17834,
+      "num": 68002,
+      "word": "墨西哥拒绝美驱逐移民军机降落请求",
+      "onboard_time": 1737830173,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 16922,
       "num": 37839,
       "word": "南京南站4天捡到1000个身份证",
       "onboard_time": 1737797777,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13766,
-      "num": 57862,
-      "word": "墨西哥拒绝美驱逐移民军机降落请求",
-      "onboard_time": 1737830173,
-      "rank": 22,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [
