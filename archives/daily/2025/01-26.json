@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1737829626757,
+  "endTime": 1737830397230,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -163,20 +163,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211342,
+      "num": 211342,
+      "word": "网友不买账霸王茶姬评论区致歉",
+      "onboard_time": 1737823156,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 209948,
       "num": 198210,
       "word": "赵露思拐杖",
       "onboard_time": 1737806960,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 208827,
-      "num": 208827,
-      "word": "网友不买账霸王茶姬评论区致歉",
-      "onboard_time": 1737823156,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 204806,
@@ -491,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28226,
+      "num": 31355,
+      "word": "相柳白素贞合唱千年等一回",
+      "onboard_time": 1737829273,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 27879,
       "num": 37887,
       "word": "东北爷爷宠孙女有了新高度",
@@ -513,6 +521,14 @@
       "onboard_time": 1737797777,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13766,
+      "num": 57862,
+      "word": "墨西哥拒绝美驱逐移民军机降落请求",
+      "onboard_time": 1737830173,
+      "rank": 22,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
