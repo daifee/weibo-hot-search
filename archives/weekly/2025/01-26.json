@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1737866314167,
+  "endTime": 1737868884684,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -75,6 +75,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 820068,
+      "num": 257426,
+      "word": "女子产后遭第三者到医院挑衅",
+      "onboard_time": 1737867497,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 811729,
       "num": 932394,
       "word": "雷军直播时突然被封",
@@ -91,8 +99,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 736771,
+      "num": 361662,
+      "word": "男子过年被催婚一句话让亲戚沉默",
+      "onboard_time": 1737865338,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 730426,
-      "num": 393062,
+      "num": 1095057,
       "word": "王冰冰首部古装剧定档",
       "onboard_time": 1737862158,
       "rank": 12,
@@ -100,7 +116,7 @@
     },
     {
       "raw_hot": 711987,
-      "num": 242670,
+      "num": 245185,
       "word": "宝马已在还贷车主无法提车",
       "onboard_time": 1737863118,
       "rank": 10,
@@ -164,11 +180,19 @@
     },
     {
       "raw_hot": 540674,
-      "num": 236199,
+      "num": 268257,
       "word": "王昶 春晚",
       "onboard_time": 1737862338,
       "rank": 41,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 526677,
+      "num": 526677,
+      "word": "春运回家有人带了一锅饭上高速",
+      "onboard_time": 1737863358,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 513993,
@@ -196,7 +220,7 @@
     },
     {
       "raw_hot": 481084,
-      "num": 228842,
+      "num": 238811,
       "word": "赵露思最初以为是鸡蛋过敏",
       "onboard_time": 1737864498,
       "rank": 11,
@@ -307,14 +331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 336108,
-      "num": 336108,
-      "word": "男子过年被催婚一句话让亲戚沉默",
-      "onboard_time": 1737865338,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 328046,
       "num": 328046,
       "word": "一句我是警察安全感满满",
@@ -363,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 268123,
+      "num": 164397,
+      "word": "和卞相壹下棋被做成游戏",
+      "onboard_time": 1737867738,
+      "rank": 35,
+      "category": "体育,游戏"
+    },
+    {
       "raw_hot": 262254,
       "num": 262254,
       "word": "美国叫停几乎全部对外援助",
@@ -387,12 +411,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 244327,
-      "num": 244327,
-      "word": "春运回家有人带了一锅饭上高速",
-      "onboard_time": 1737863358,
-      "rank": 8,
-      "category": "民生新闻"
+      "raw_hot": 245390,
+      "num": 245390,
+      "word": "周鸿祎官宣送100辆国产新能源车",
+      "onboard_time": 1737867798,
+      "rank": 9,
+      "category": "汽车"
     },
     {
       "raw_hot": 243092,
@@ -475,6 +499,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207239,
+      "num": 179526,
+      "word": "余承恩加盟我家那小子",
+      "onboard_time": 1737868279,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 206739,
+      "num": 173556,
+      "word": "蛇年央视春晚最后一次联排",
+      "onboard_time": 1737868040,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205252,
       "num": 205252,
       "word": "射雕英雄传预售仍断层领先",
@@ -499,12 +539,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199549,
+      "num": 163721,
+      "word": "白色橄榄树",
+      "onboard_time": 1737868459,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198990,
       "num": 198990,
       "word": "五福临门",
       "onboard_time": 1737809059,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198542,
+      "num": 176962,
+      "word": "射雕剧组给肖战报了多少个兴趣班",
+      "onboard_time": 1737867857,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 195001,
@@ -523,12 +579,44 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 192605,
+      "num": 162426,
+      "word": "六姊妹定档",
+      "onboard_time": 1737868638,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192578,
       "num": 192578,
       "word": "肖战春天花会开幸福向未来",
       "onboard_time": 1737860597,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190124,
+      "num": 161569,
+      "word": "2025春节档预售票房破6亿",
+      "onboard_time": 1737867378,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 184025,
+      "num": 169937,
+      "word": "对屏摄说不",
+      "onboard_time": 1737868098,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 182702,
+      "num": 160250,
+      "word": "黄毛毛主页背景是大张伟",
+      "onboard_time": 1737866478,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 177111,
@@ -611,12 +699,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159595,
+      "num": 159595,
+      "word": "赵本山乡爱20年青丝变白发",
+      "onboard_time": 1737867019,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157070,
       "num": 157070,
       "word": "网红犬哈礼鹿去世",
       "onboard_time": 1737851897,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 154684,
+      "num": 154684,
+      "word": "沈月高至霆8年前vs8年后",
+      "onboard_time": 1737868398,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 154424,
@@ -643,12 +747,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149855,
+      "num": 149855,
+      "word": "网红犬哈礼鹿身上一个褥疮也没有",
+      "onboard_time": 1737868579,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149240,
       "num": 149240,
       "word": "张钧甯骨相美人",
       "onboard_time": 1737864797,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148488,
+      "num": 178691,
+      "word": "腊月二十七宜洗刷刷",
+      "onboard_time": 1737862638,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147951,
@@ -673,6 +793,14 @@
       "onboard_time": 1737805160,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 145747,
+      "num": 145747,
+      "word": "店家回应刘亦菲带火19元奥特曼发夹",
+      "onboard_time": 1737868339,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 144572,
@@ -707,6 +835,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140363,
+      "num": 140363,
+      "word": "二胎宝妈生产时丈夫还在酒店开房",
+      "onboard_time": 1737868698,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137980,
+      "num": 137980,
+      "word": "肖战蓝色流苏外套",
+      "onboard_time": 1737867437,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136082,
       "num": 110402,
       "word": "肖战练武术画面曝光",
@@ -723,14 +867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 135896,
-      "num": 135896,
-      "word": "腊月二十七宜洗刷刷",
-      "onboard_time": 1737862638,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135495,
       "num": 135495,
       "word": "刘诗诗最强辅助",
@@ -745,6 +881,14 @@
       "onboard_time": 1737827894,
       "rank": 48,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 133230,
+      "num": 170966,
+      "word": "后天就除夕了",
+      "onboard_time": 1737863418,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133059,
@@ -772,11 +916,19 @@
     },
     {
       "raw_hot": 131874,
-      "num": 131874,
+      "num": 163504,
       "word": "科比逝世五周年",
       "onboard_time": 1737859037,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130914,
+      "num": 171571,
+      "word": "fromis9签约新所属社",
+      "onboard_time": 1737868757,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 128156,
@@ -785,6 +937,14 @@
       "onboard_time": 1737853338,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127048,
+      "num": 156235,
+      "word": "2025北京台春晚全阵容",
+      "onboard_time": 1737868819,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 125329,
@@ -881,14 +1041,6 @@
       "onboard_time": 1737810321,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 109227,
-      "num": 109227,
-      "word": "后天就除夕了",
-      "onboard_time": 1737863418,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108513,
@@ -1027,6 +1179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100334,
+      "num": 169586,
+      "word": "魏大勋温暖讲述春节里的中国",
+      "onboard_time": 1737867559,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99092,
       "num": 99092,
       "word": "女子吐槽网购买到翻新春联",
@@ -1073,6 +1233,22 @@
       "onboard_time": 1737809179,
       "rank": 43,
       "category": "网红"
+    },
+    {
+      "raw_hot": 94850,
+      "num": 167942,
+      "word": "60岁以上老人面临的租房困境",
+      "onboard_time": 1737866897,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93497,
+      "num": 165273,
+      "word": "人民网评异人之下之决战碧游村",
+      "onboard_time": 1737867019,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 91699,
@@ -1209,6 +1385,14 @@
       "onboard_time": 1737816742,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 70876,
+      "num": 166053,
+      "word": "黎深怎么这么适合中国元素",
+      "onboard_time": 1737868757,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 70616,
@@ -1387,6 +1571,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 25722,
+      "num": 177607,
+      "word": "广东人专属的新年仪式感",
+      "onboard_time": 1737868218,
+      "rank": 19,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 25449,
       "num": 34974,
       "word": "老君山的玻璃滑道太有戏了",
@@ -1464,6 +1656,14 @@
       "word": "南京南站4天捡到1000个身份证",
       "onboard_time": 1737797777,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12204,
+      "num": 383845,
+      "word": "第一批回家过年的人集合",
+      "onboard_time": 1737868517,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
