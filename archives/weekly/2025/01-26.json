@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1737927324415,
+  "endTime": 1737929975855,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -2163,6 +2163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139446,
+      "num": 40435,
+      "word": "演员大锁发文称别洗白了",
+      "onboard_time": 1737921970,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139153,
       "num": 166325,
       "word": "陈丽君60秒演绎百年越剧情",
@@ -3051,14 +3059,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 93291,
-      "num": 28694,
-      "word": "演员大锁发文称别洗白了",
-      "onboard_time": 1737921970,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 91699,
       "num": 91699,
       "word": "DeepSeek为何震动美国科技界",
@@ -3081,6 +3081,14 @@
       "onboard_time": 1737909915,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 89365,
+      "num": 37074,
+      "word": "无忧传媒称黄某视频陈述有夸张误导",
+      "onboard_time": 1737924672,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 89096,
@@ -3643,6 +3651,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48568,
+      "num": 48568,
+      "word": "8岁失踪女童亲友发声",
+      "onboard_time": 1737922812,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46471,
+      "num": 26895,
+      "word": "张大大曾因口碑问题2年无固定工作",
+      "onboard_time": 1737928872,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 46129,
       "num": 64671,
       "word": "俱乐部已找到电竞选手幻云本人",
@@ -3664,14 +3688,6 @@
       "word": "年轻人意识到健康比赚钱更加重要",
       "onboard_time": 1737846674,
       "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44383,
-      "num": 44383,
-      "word": "8岁失踪女童亲友发声",
-      "onboard_time": 1737922812,
-      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -3819,20 +3835,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31758,
-      "num": 27154,
-      "word": "无忧传媒称黄某视频陈述有夸张误导",
-      "onboard_time": 1737924672,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 31431,
       "num": 186146,
       "word": "广东人专属的新年仪式感",
       "onboard_time": 1737868218,
       "rank": 19,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 31313,
+      "num": 31313,
+      "word": "业内预测票房冠军是哪吒或唐探",
+      "onboard_time": 1737928271,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 31231,
@@ -3979,20 +3995,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 22220,
+      "num": 22220,
+      "word": "特朗普想把空军一号改为深蓝色",
+      "onboard_time": 1737918732,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 20668,
       "num": 179749,
       "word": "一起离婚财产纠纷牵出法官受贿",
       "onboard_time": 1737872598,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20285,
-      "num": 20285,
-      "word": "特朗普想把空军一号改为深蓝色",
-      "onboard_time": 1737918732,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 20264,
@@ -4075,6 +4091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16556,
+      "num": 16556,
+      "word": "韩国检方对尹锡悦提起拘留起诉",
+      "onboard_time": 1737927731,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 16393,
       "num": 16796,
       "word": "时光代理人",
@@ -4089,6 +4113,14 @@
       "onboard_time": 1737917292,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 15189,
+      "num": 28882,
+      "word": "2025春节档预售票房突破7亿",
+      "onboard_time": 1737926471,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 14803,
@@ -4123,20 +4155,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 10843,
-      "num": 28882,
-      "word": "2025春节档预售票房突破7亿",
-      "onboard_time": 1737926471,
-      "rank": 9,
-      "category": "电影"
-    },
-    {
       "raw_hot": 10823,
       "num": 18140,
       "word": "这是一份数十万吨的硬核拜年",
       "onboard_time": 1737924132,
       "rank": 32,
       "category": "军事"
+    },
+    {
+      "raw_hot": 10614,
+      "num": 30853,
+      "word": "民警救援间隙给自己喊加油",
+      "onboard_time": 1737928931,
+      "rank": 16,
+      "category": "正能量"
     },
     {
       "raw_hot": 10161,
@@ -4155,7 +4187,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 9770,
+      "raw_hot": 10075,
       "num": 21756,
       "word": "文化中国行文博日历",
       "onboard_time": 1737922512,

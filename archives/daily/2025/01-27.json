@@ -1,6 +1,6 @@
 {
   "startTime": 1737908665249,
-  "endTime": 1737927324415,
+  "endTime": 1737929975855,
   "band_list": [
     {
       "raw_hot": 2273172,
@@ -219,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139446,
+      "num": 40435,
+      "word": "演员大锁发文称别洗白了",
+      "onboard_time": 1737921970,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139153,
       "num": 166325,
       "word": "陈丽君60秒演绎百年越剧情",
@@ -315,14 +323,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 93291,
-      "num": 28694,
-      "word": "演员大锁发文称别洗白了",
-      "onboard_time": 1737921970,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 92502,
       "num": 92502,
       "word": "周深新歌麦田里的摇滚绝美高音",
@@ -353,6 +353,14 @@
       "onboard_time": 1737890538,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 89365,
+      "num": 37074,
+      "word": "无忧传媒称黄某视频陈述有夸张误导",
+      "onboard_time": 1737924672,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 88166,
@@ -515,12 +523,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 44383,
-      "num": 44383,
+      "raw_hot": 48568,
+      "num": 48568,
       "word": "8岁失踪女童亲友发声",
       "onboard_time": 1737922812,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46471,
+      "num": 26895,
+      "word": "张大大曾因口碑问题2年无固定工作",
+      "onboard_time": 1737928872,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 39043,
@@ -555,12 +571,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 31758,
-      "num": 27154,
-      "word": "无忧传媒称黄某视频陈述有夸张误导",
-      "onboard_time": 1737924672,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 31313,
+      "num": 31313,
+      "word": "业内预测票房冠军是哪吒或唐探",
+      "onboard_time": 1737928271,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 25041,
@@ -571,8 +587,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 20285,
-      "num": 20285,
+      "raw_hot": 22220,
+      "num": 22220,
       "word": "特朗普想把空军一号改为深蓝色",
       "onboard_time": 1737918732,
       "rank": 48,
@@ -585,6 +601,14 @@
       "onboard_time": 1737918132,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 16556,
+      "num": 16556,
+      "word": "韩国检方对尹锡悦提起拘留起诉",
+      "onboard_time": 1737927731,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 16393,
@@ -601,6 +625,14 @@
       "onboard_time": 1737917292,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 15189,
+      "num": 28882,
+      "word": "2025春节档预售票房突破7亿",
+      "onboard_time": 1737926471,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 12587,
@@ -627,14 +659,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 10843,
-      "num": 28882,
-      "word": "2025春节档预售票房突破7亿",
-      "onboard_time": 1737926471,
-      "rank": 9,
-      "category": "电影"
-    },
-    {
       "raw_hot": 10823,
       "num": 18140,
       "word": "这是一份数十万吨的硬核拜年",
@@ -643,7 +667,15 @@
       "category": "军事"
     },
     {
-      "raw_hot": 9770,
+      "raw_hot": 10614,
+      "num": 30853,
+      "word": "民警救援间隙给自己喊加油",
+      "onboard_time": 1737928931,
+      "rank": 16,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 10075,
       "num": 21756,
       "word": "文化中国行文博日历",
       "onboard_time": 1737922512,
