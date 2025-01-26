@@ -1,0 +1,410 @@
+{
+  "runTime": 1737875972150,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 504947,
+        "num": 1080791,
+        "word": "菲律宾船从中国海警船前横穿",
+        "onboard_time": 1737870798,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 381212,
+        "num": 381212,
+        "word": "白色橄榄树",
+        "onboard_time": 1737868459,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63019,
+        "num": 326337,
+        "word": "第一批回家过年的人集合",
+        "onboard_time": 1737868517,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 867913,
+        "num": 325750,
+        "word": "南京一柜姐评论刘亦菲微胖被辞退",
+        "onboard_time": 1737861438,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310451,
+        "num": 310451,
+        "word": "男子过年被催婚一句话让亲戚沉默",
+        "onboard_time": 1737865338,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270379,
+        "num": 270379,
+        "word": "周鸿祎官宣送100辆国产新能源车",
+        "onboard_time": 1737867798,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 824235,
+        "num": 269622,
+        "word": "王嘉尔突发胸痛住院",
+        "onboard_time": 1737870258,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247596,
+        "num": 247596,
+        "word": "这火车怎么蛇里蛇气的",
+        "onboard_time": 1737869177,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211183,
+        "num": 211183,
+        "word": "女子行李丢失男子追100公里归还",
+        "onboard_time": 1737873919,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 59363,
+        "num": 210457,
+        "word": "河南春晚不语只是一味做文化节目",
+        "onboard_time": 1737874518,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 965759,
+        "num": 209097,
+        "word": "留几手曾说张大大连麦是剧本",
+        "onboard_time": 1737872898,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437786,
+        "num": 205960,
+        "word": "女子产后遭第三者到医院挑衅",
+        "onboard_time": 1737867497,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 422381,
+        "num": 204815,
+        "word": "周杰伦瘦好多",
+        "onboard_time": 1737873018,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331919,
+        "num": 202639,
+        "word": "不婚时髦小姨成过年新人设",
+        "onboard_time": 1737873558,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319124,
+        "num": 200571,
+        "word": "Jasper在陈小春家学历最高",
+        "onboard_time": 1737870379,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296633,
+        "num": 197740,
+        "word": "网红犬哈礼鹿身上一个褥疮也没有",
+        "onboard_time": 1737868579,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293632,
+        "num": 196697,
+        "word": "无忧传媒签约主播达人超10万人",
+        "onboard_time": 1737874698,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272630,
+        "num": 193876,
+        "word": "王冰冰首部古装剧定档",
+        "onboard_time": 1737862158,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34783,
+        "num": 193324,
+        "word": "抑郁症患者流浪19年终与家人团圆",
+        "onboard_time": 1737875057,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191586,
+        "num": 191586,
+        "word": "感受流动中国的温暖每一面",
+        "onboard_time": 1737875298,
+        "rank": 19,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1375913,
+        "num": 190595,
+        "word": "曝张大大杨幂已绝交",
+        "onboard_time": 1737857357,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284216,
+        "num": 190185,
+        "word": "台湾一男子夜市上用竹签刺游客臀部",
+        "onboard_time": 1737874158,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259335,
+        "num": 188347,
+        "word": "2025春节档预售票房破6亿",
+        "onboard_time": 1737867378,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 252797,
+        "num": 187144,
+        "word": "和卞相壹下棋被做成游戏",
+        "onboard_time": 1737867738,
+        "rank": 23,
+        "category": "体育,游戏"
+      },
+      {
+        "raw_hot": 119823,
+        "num": 185646,
+        "word": "樊振东处于调整阶段",
+        "onboard_time": 1737874518,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204369,
+        "num": 184190,
+        "word": "谢娜演妈妈赢了",
+        "onboard_time": 1737875357,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86854,
+        "num": 183635,
+        "word": "偶遇王俊凯巴黎吃粤菜",
+        "onboard_time": 1737874158,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182906,
+        "num": 182906,
+        "word": "白色橄榄树定档",
+        "onboard_time": 1737875656,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86102,
+        "num": 179782,
+        "word": "年轻人流行起反向攀比",
+        "onboard_time": 1737875179,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93098,
+        "num": 179760,
+        "word": "京东除夕抽奖更壕",
+        "onboard_time": 1737875057,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 380565,
+        "num": 179754,
+        "word": "赵露思康复过程公开",
+        "onboard_time": 1737875656,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179746,
+        "num": 179746,
+        "word": "宝马已在还贷车主无法提车",
+        "onboard_time": 1737863118,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176575,
+        "num": 176575,
+        "word": "仙台有树",
+        "onboard_time": 1737874878,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167051,
+        "num": 167051,
+        "word": "两男子猥亵5名足浴店女技师被行拘",
+        "onboard_time": 1737856938,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161614,
+        "num": 161614,
+        "word": "邓为新剧定档",
+        "onboard_time": 1737872298,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167181,
+        "num": 161035,
+        "word": "赵露思最初以为是鸡蛋过敏",
+        "onboard_time": 1737864498,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159456,
+        "num": 159456,
+        "word": "黄毛毛",
+        "onboard_time": 1737874339,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142456,
+        "num": 142456,
+        "word": "张大大小黑屋事件",
+        "onboard_time": 1737875778,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141409,
+        "num": 141409,
+        "word": "恋与深空 秦彻",
+        "onboard_time": 1737871638,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141163,
+        "num": 141163,
+        "word": "杨紫为了沈梦辰提前背了三天剧本",
+        "onboard_time": 1737863897,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141097,
+        "num": 141097,
+        "word": "名侦探学院",
+        "onboard_time": 1737875357,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57873,
+        "num": 134510,
+        "word": "夫胜宽为文彬庆冥诞",
+        "onboard_time": 1737873858,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40576,
+        "num": 133978,
+        "word": "封神感谢荣誉出品人特别视频",
+        "onboard_time": 1737874458,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133785,
+        "num": 133785,
+        "word": "浙江首考",
+        "onboard_time": 1737868997,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 128950,
+        "num": 128950,
+        "word": "在梁洁这吃到现偶的细糠了",
+        "onboard_time": 1737871338,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123931,
+        "num": 123931,
+        "word": "男子徒步650公里回乡暴瘦10斤",
+        "onboard_time": 1737871997,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122071,
+        "num": 122071,
+        "word": "女子上厕所突然晕倒竟是因为痔疮",
+        "onboard_time": 1737868997,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121407,
+        "num": 121407,
+        "word": "店家回应刘亦菲带火19元奥特曼发夹",
+        "onboard_time": 1737868339,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120035,
+        "num": 120035,
+        "word": "云南8岁女童雪山失踪已超6天",
+        "onboard_time": 1737871638,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118734,
+        "num": 118734,
+        "word": "蛇年央视春晚最后一次联排",
+        "onboard_time": 1737868040,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#确保全国人民过一个欢乐安宁祥和的春节#"
+    }
+  }
+}

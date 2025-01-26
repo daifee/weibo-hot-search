@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737873663667,
+  "endTime": 1737875972150,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -7387,6 +7387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 824235,
+      "num": 1127541,
+      "word": "王嘉尔突发胸痛住院",
+      "onboard_time": 1737870258,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 824187,
       "num": 824187,
       "word": "虞书欣央视总台国际频道采访",
@@ -7768,14 +7776,6 @@
       "word": "张一山瘦了好多",
       "onboard_time": 1735883180,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 797133,
-      "num": 1127541,
-      "word": "王嘉尔突发胸痛住院",
-      "onboard_time": 1737870258,
-      "rank": 0,
       "category": "艺人"
     },
     {
@@ -13516,7 +13516,7 @@
     },
     {
       "raw_hot": 515745,
-      "num": 174753,
+      "num": 200571,
       "word": "Jasper在陈小春家学历最高",
       "onboard_time": 1737870379,
       "rank": 31,
@@ -13921,6 +13921,14 @@
       "onboard_time": 1737611600,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 504947,
+      "num": 1080791,
+      "word": "菲律宾船从中国海警船前横穿",
+      "onboard_time": 1737870798,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 504453,
@@ -16915,8 +16923,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 422381,
+      "num": 204815,
+      "word": "周杰伦瘦好多",
+      "onboard_time": 1737873018,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 421929,
-      "num": 347557,
+      "num": 381212,
       "word": "白色橄榄树",
       "onboard_time": 1737465979,
       "rank": 46,
@@ -18689,6 +18705,14 @@
       "onboard_time": 1736777062,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 380565,
+      "num": 179754,
+      "word": "赵露思康复过程公开",
+      "onboard_time": 1737875656,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 380521,
@@ -21443,6 +21467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 331919,
+      "num": 202639,
+      "word": "不婚时髦小姨成过年新人设",
+      "onboard_time": 1737873558,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 331898,
       "num": 150258,
       "word": "杨子含泪说不要再恭喜黄圣依了",
@@ -23155,14 +23187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 305626,
-      "num": 305626,
-      "word": "菲律宾船从中国海警船前横穿",
-      "onboard_time": 1737870798,
-      "rank": 5,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 305493,
       "num": 305493,
       "word": "孙颖莎回应深大幼儿园称号",
@@ -24067,6 +24091,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 293632,
+      "num": 196697,
+      "word": "无忧传媒签约主播达人超10万人",
+      "onboard_time": 1737874698,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 293627,
       "num": 338091,
       "word": "每加一箱油被偷走1.5升",
@@ -24777,6 +24809,14 @@
       "onboard_time": 1736129120,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 284216,
+      "num": 190185,
+      "word": "台湾一男子夜市上用竹签刺游客臀部",
+      "onboard_time": 1737874158,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 284141,
@@ -32731,6 +32771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211183,
+      "num": 211183,
+      "word": "女子行李丢失男子追100公里归还",
+      "onboard_time": 1737873919,
+      "rank": 8,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 211164,
       "num": 211164,
       "word": "大奉打更人片尾居然没这个人",
@@ -34200,6 +34248,14 @@
       "word": "谢娜",
       "onboard_time": 1735668618,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 204369,
+      "num": 184190,
+      "word": "谢娜演妈妈赢了",
+      "onboard_time": 1737875357,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -37771,6 +37827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191586,
+      "num": 191586,
+      "word": "感受流动中国的温暖每一面",
+      "onboard_time": 1737875298,
+      "rank": 19,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 191579,
       "num": 191579,
       "word": "英国男子称泰国监狱的条件令人作呕",
@@ -40113,6 +40177,14 @@
       "onboard_time": 1737262398,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 182906,
+      "num": 182906,
+      "word": "白色橄榄树定档",
+      "onboard_time": 1737875656,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 182885,
@@ -42744,14 +42816,6 @@
       "word": "林一生日会",
       "onboard_time": 1736685979,
       "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 172887,
-      "num": 172887,
-      "word": "周杰伦瘦好多",
-      "onboard_time": 1737873018,
-      "rank": 33,
       "category": "艺人"
     },
     {
@@ -46609,6 +46673,14 @@
       "onboard_time": 1736478982,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159456,
+      "num": 159456,
+      "word": "黄毛毛",
+      "onboard_time": 1737874339,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 159441,
@@ -51835,6 +51907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142456,
+      "num": 142456,
+      "word": "张大大小黑屋事件",
+      "onboard_time": 1737875778,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142454,
       "num": 142454,
       "word": "00后掌勺后重新定义过年硬菜",
@@ -52329,6 +52409,14 @@
       "onboard_time": 1737510978,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 141097,
+      "num": 141097,
+      "word": "名侦探学院",
+      "onboard_time": 1737268398,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 141083,
@@ -56011,14 +56099,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 130482,
-      "num": 130482,
-      "word": "名侦探学院",
-      "onboard_time": 1737268398,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 130457,
       "num": 130457,
       "word": "阿里131亿港元出售高鑫零售",
@@ -59625,6 +59705,14 @@
       "onboard_time": 1736931498,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119823,
+      "num": 185646,
+      "word": "樊振东处于调整阶段",
+      "onboard_time": 1737874518,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 119791,
@@ -67091,6 +67179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 93098,
+      "num": 179760,
+      "word": "京东除夕抽奖更壕",
+      "onboard_time": 1737875057,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 93065,
       "num": 93065,
       "word": "NSA控制我国上万网络设备窃取数据",
@@ -67995,6 +68091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86854,
+      "num": 183635,
+      "word": "偶遇王俊凯巴黎吃粤菜",
+      "onboard_time": 1737874158,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86837,
       "num": 86837,
       "word": "和王一博携手点亮亚洲",
@@ -68153,6 +68257,14 @@
       "onboard_time": 1736578102,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 86102,
+      "num": 179782,
+      "word": "年轻人流行起反向攀比",
+      "onboard_time": 1737875179,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86099,
@@ -71563,6 +71675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 63019,
+      "num": 387274,
+      "word": "第一批回家过年的人集合",
+      "onboard_time": 1737868517,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63011,
       "num": 63011,
       "word": "陈宥维谈做综艺节目MC",
@@ -72139,6 +72259,14 @@
       "category": "民生新闻,电影"
     },
     {
+      "raw_hot": 59363,
+      "num": 210457,
+      "word": "河南春晚不语只是一味做文化节目",
+      "onboard_time": 1737874518,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 59260,
       "num": 59260,
       "word": "好莱坞资深女星命丧山火",
@@ -72409,6 +72537,14 @@
       "onboard_time": 1735899440,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 57873,
+      "num": 134510,
+      "word": "夫胜宽为文彬庆冥诞",
+      "onboard_time": 1737873858,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 57866,
@@ -72697,14 +72833,6 @@
       "onboard_time": 1736593589,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 56214,
-      "num": 387274,
-      "word": "第一批回家过年的人集合",
-      "onboard_time": 1737868517,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 56157,
@@ -75619,6 +75747,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 40576,
+      "num": 133978,
+      "word": "封神感谢荣誉出品人特别视频",
+      "onboard_time": 1737874458,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 40517,
       "num": 220195,
       "word": "HPV预防从小重视",
@@ -76713,6 +76849,14 @@
       "onboard_time": 1736663899,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34783,
+      "num": 193324,
+      "word": "抑郁症患者流浪19年终与家人团圆",
+      "onboard_time": 1737875057,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34777,
@@ -82600,14 +82744,6 @@
       "word": "成都过年氛围感拉满了",
       "onboard_time": 1737836771,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9794,
-      "num": 178593,
-      "word": "不婚时髦小姨成过年新人设",
-      "onboard_time": 1737873558,
-      "rank": 28,
       "category": "民生新闻"
     },
     {
