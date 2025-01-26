@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/26 11:24:07
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/26 11:38:20
 </p>
 </blockquote>
 <p>
@@ -3597,6 +3597,12 @@ TikTok发声明（热度：1148125）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E4%B8%80%E6%9F%9C%E5%A7%90%E8%AF%84%E8%AE%BA%E5%88%98%E4%BA%A6%E8%8F%B2%E5%BE%AE%E8%83%96%E8%A2%AB%E8%BE%9E%E9%80%80%23" target="weibo">
+南京一柜姐评论刘亦菲微胖被辞退（热度：1081591）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%AE%A3%E4%BB%AA%E6%9D%A8%E8%B6%85%E8%B6%8A%E4%BA%B2%E4%BA%86%23" target="weibo">
 吴宣仪杨超越亲了（热度：1081121）
 </a>
@@ -6005,12 +6011,6 @@ B站拿下春晚转播权（热度：825759）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E5%9C%A8%E5%88%98%E5%BE%B7%E5%8D%8E%E6%BC%94%E5%94%B1%E4%BC%9A%E8%B7%A8%E5%B9%B4%23" target="weibo">
 贾玲在刘德华演唱会跨年（热度：780894）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E8%82%87%E5%BA%86%E5%B1%B1%E7%81%AB600%E4%BA%BA%E6%89%91%E6%95%91%23" target="weibo">
-广东肇庆山火600人扑救（热度：780862）
 </a>
 </li>
 

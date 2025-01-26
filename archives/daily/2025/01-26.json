@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1737861847308,
+  "endTime": 1737862700349,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -32,6 +32,14 @@
       "word": "赵露思回应胖了8斤",
       "onboard_time": 1737851357,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1081591,
+      "num": 1173054,
+      "word": "南京一柜姐评论刘亦菲微胖被辞退",
+      "onboard_time": 1737861438,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -235,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 366062,
+      "num": 234702,
+      "word": "王冰冰首部古装剧定档",
+      "onboard_time": 1737862158,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 340406,
       "num": 340406,
       "word": "迪丽热巴设计的项链",
@@ -297,14 +313,6 @@
       "onboard_time": 1737808880,
       "rank": 12,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 250946,
-      "num": 250946,
-      "word": "南京一柜姐评论刘亦菲微胖被辞退",
-      "onboard_time": 1737861438,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 250313,
@@ -379,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206131,
+      "num": 206131,
+      "word": "夫妻各回各家过年做父母的孩子",
+      "onboard_time": 1737860357,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205252,
       "num": 205252,
       "word": "射雕英雄传预售仍断层领先",
@@ -419,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186737,
+      "num": 153152,
+      "word": "张馨予晒何捷为她拍的雪地大片",
+      "onboard_time": 1737861677,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177111,
       "num": 382230,
       "word": "寒潮大风多地降温6到10摄氏度",
@@ -435,12 +459,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 167669,
-      "num": 167669,
-      "word": "夫妻各回各家过年做父母的孩子",
-      "onboard_time": 1737860357,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 170780,
+      "num": 170780,
+      "word": "徐克评价肖战还有很多可能性",
+      "onboard_time": 1737862038,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 167389,
@@ -499,6 +523,38 @@
       "category": "电影"
     },
     {
+      "raw_hot": 152601,
+      "num": 152601,
+      "word": "印有加拿大不出售的帽子热销",
+      "onboard_time": 1737861737,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 148436,
+      "num": 148436,
+      "word": "儿媳偷送金耳环婆婆笑着笑着就哭了",
+      "onboard_time": 1737862158,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147951,
+      "num": 147951,
+      "word": "特朗普称或在30天内决定TikTok未来",
+      "onboard_time": 1737860417,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 147654,
+      "num": 229439,
+      "word": "北京城区平均降雪0毫米",
+      "onboard_time": 1737859879,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147169,
       "num": 136121,
       "word": "潘宏请了50多个律师",
@@ -539,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135896,
+      "num": 135896,
+      "word": "腊月二十七宜洗刷刷",
+      "onboard_time": 1737862638,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135495,
       "num": 135495,
       "word": "刘诗诗最强辅助",
@@ -555,12 +619,28 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 133991,
+      "num": 133991,
+      "word": "00后女医生捐骨髓为患儿送去春天",
+      "onboard_time": 1737862578,
+      "rank": 39,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 133059,
       "num": 208098,
       "word": "老封地狱笑话殷寿战绩可查",
       "onboard_time": 1737859516,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 132761,
+      "num": 132761,
+      "word": "重昭知道你很急但是你先别急",
+      "onboard_time": 1737861677,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 131874,
@@ -571,12 +651,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129303,
-      "num": 229439,
-      "word": "北京城区平均降雪0毫米",
-      "onboard_time": 1737859879,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 130954,
+      "num": 130954,
+      "word": "王昶 春晚",
+      "onboard_time": 1737862338,
+      "rank": 41,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 128156,
@@ -611,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123067,
+      "num": 123067,
+      "word": "G社生图战神",
+      "onboard_time": 1737859998,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121538,
       "num": 144674,
       "word": "电竞选手幻云称网恋被骗流露轻生念头",
@@ -635,36 +723,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 119080,
-      "num": 119080,
-      "word": "G社生图战神",
-      "onboard_time": 1737859998,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 118714,
-      "num": 118714,
-      "word": "张馨予晒何捷为她拍的雪地大片",
-      "onboard_time": 1737861677,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 111465,
       "num": 111465,
       "word": "天蝎座没那么需要新鲜感",
       "onboard_time": 1737852017,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 111095,
-      "num": 111095,
-      "word": "特朗普称或在30天内决定TikTok未来",
-      "onboard_time": 1737860417,
-      "rank": 42,
-      "category": "国际时政"
     },
     {
       "raw_hot": 111043,
@@ -680,14 +744,6 @@
       "word": "王星越原声台词",
       "onboard_time": 1737821659,
       "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 110943,
-      "num": 110943,
-      "word": "重昭知道你很急但是你先别急",
-      "onboard_time": 1737861677,
-      "rank": 44,
       "category": "剧集"
     },
     {
@@ -731,12 +787,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107348,
+      "num": 195092,
+      "word": "车银优公开cover曲纪念文彬生日",
+      "onboard_time": 1737860597,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106222,
       "num": 106222,
       "word": "小伙骑行三亚把行李埋沙滩1年后取出用",
       "onboard_time": 1737814762,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105084,
+      "num": 260182,
+      "word": "朝鲜试射战略巡航导弹",
+      "onboard_time": 1737861317,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 103170,
@@ -771,14 +843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 100633,
-      "num": 100633,
-      "word": "印有加拿大不出售的帽子热销",
-      "onboard_time": 1737861737,
-      "rank": 49,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 100581,
       "num": 100581,
       "word": "台湾台南5.1级地震",
@@ -809,14 +873,6 @@
       "onboard_time": 1737840431,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 98129,
-      "num": 195092,
-      "word": "车银优公开cover曲纪念文彬生日",
-      "onboard_time": 1737860597,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 96376,
@@ -889,6 +945,14 @@
       "onboard_time": 1737817163,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 79755,
+      "num": 285792,
+      "word": "第一批春节旅游特种兵发打卡照了",
+      "onboard_time": 1737861197,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77834,
@@ -1003,20 +1067,20 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 56769,
-      "num": 285792,
-      "word": "第一批春节旅游特种兵发打卡照了",
-      "onboard_time": 1737861197,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 52993,
       "num": 52993,
       "word": "河南暴雪亲历者发声",
       "onboard_time": 1737828373,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52644,
+      "num": 201852,
+      "word": "期待大奉打更人第二季",
+      "onboard_time": 1737861917,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 52518,
@@ -1051,10 +1115,18 @@
       "category": "情感"
     },
     {
-      "raw_hot": 34096,
+      "raw_hot": 38941,
       "num": 168036,
       "word": "中央气象台回应为何天气转换如此快",
       "onboard_time": 1737860957,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37971,
+      "num": 153485,
+      "word": "为何北京城区降雪偏弱",
+      "onboard_time": 1737862097,
       "rank": 29,
       "category": "民生新闻"
     },
@@ -1065,14 +1137,6 @@
       "onboard_time": 1737825555,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29771,
-      "num": 260182,
-      "word": "朝鲜试射战略巡航导弹",
-      "onboard_time": 1737861317,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 28226,
