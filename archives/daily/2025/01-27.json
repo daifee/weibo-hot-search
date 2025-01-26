@@ -1,6 +1,6 @@
 {
   "startTime": 1737908665249,
-  "endTime": 1737929975855,
+  "endTime": 1737930955300,
   "band_list": [
     {
       "raw_hot": 2273172,
@@ -179,6 +179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 155715,
+      "num": 46120,
+      "word": "演员大锁发文称别洗白了",
+      "onboard_time": 1737921970,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155599,
       "num": 155599,
       "word": "射雕英雄传预售票房突破2.5亿",
@@ -217,14 +225,6 @@
       "onboard_time": 1737900561,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 139446,
-      "num": 40435,
-      "word": "演员大锁发文称别洗白了",
-      "onboard_time": 1737921970,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 139153,
@@ -307,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101508,
+      "num": 43036,
+      "word": "无忧传媒称黄某视频陈述有夸张误导",
+      "onboard_time": 1737924672,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100194,
       "num": 100194,
       "word": "王星越新剧送的梅花是镶金的",
@@ -353,14 +361,6 @@
       "onboard_time": 1737890538,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 89365,
-      "num": 37074,
-      "word": "无忧传媒称黄某视频陈述有夸张误导",
-      "onboard_time": 1737924672,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 88166,
@@ -459,12 +459,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73663,
+      "num": 27658,
+      "word": "张大大曾因口碑问题2年无固定工作",
+      "onboard_time": 1737928872,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71358,
       "num": 63036,
       "word": "王冰冰演短剧了",
       "onboard_time": 1737911895,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 71181,
+      "num": 60343,
+      "word": "业内预测票房冠军是哪吒或唐探",
+      "onboard_time": 1737928271,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 70924,
@@ -523,20 +539,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 48568,
-      "num": 48568,
+      "raw_hot": 50371,
+      "num": 50371,
       "word": "8岁失踪女童亲友发声",
       "onboard_time": 1737922812,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 46471,
-      "num": 26895,
-      "word": "张大大曾因口碑问题2年无固定工作",
-      "onboard_time": 1737928872,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 39043,
@@ -571,14 +579,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 31313,
-      "num": 31313,
-      "word": "业内预测票房冠军是哪吒或唐探",
-      "onboard_time": 1737928271,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 25041,
       "num": 25041,
       "word": "易烊千玺过塘live十首歌上线",
@@ -587,8 +587,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 22220,
-      "num": 22220,
+      "raw_hot": 24600,
+      "num": 24600,
       "word": "特朗普想把空军一号改为深蓝色",
       "onboard_time": 1737918732,
       "rank": 48,
@@ -603,8 +603,8 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 16556,
-      "num": 16556,
+      "raw_hot": 17610,
+      "num": 17610,
       "word": "韩国检方对尹锡悦提起拘留起诉",
       "onboard_time": 1737927731,
       "rank": 42,
@@ -619,6 +619,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 16082,
+      "num": 17586,
+      "word": "王一博愿爱在老家河南",
+      "onboard_time": 1737927851,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 15506,
       "num": 15506,
       "word": "白鹿未来的日子都不要烦心",
@@ -627,7 +635,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 15189,
+      "raw_hot": 15228,
       "num": 28882,
       "word": "2025春节档预售票房突破7亿",
       "onboard_time": 1737926471,
@@ -681,6 +689,14 @@
       "onboard_time": 1737922512,
       "rank": 21,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 8257,
+      "num": 27937,
+      "word": "河南春晚看见不一样的周深",
+      "onboard_time": 1737930613,
+      "rank": 23,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
