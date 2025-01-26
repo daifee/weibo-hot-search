@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737904884712,
+  "endTime": 1737905721716,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -729,6 +729,14 @@
       "onboard_time": 1736921058,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 2763936,
+      "num": 2763936,
+      "word": "颜十六已到案回国",
+      "onboard_time": 1737904641,
+      "rank": 29,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 2763810,
@@ -2392,14 +2400,6 @@
       "word": "赵露思谈与抑郁症斗争",
       "onboard_time": 1737696679,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1590589,
-      "num": 4829696,
-      "word": "姜尘录音",
-      "onboard_time": 1736042491,
-      "rank": 7,
       "category": "艺人"
     }
   ],
