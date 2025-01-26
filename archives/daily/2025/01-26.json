@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1737895951536,
+  "endTime": 1737897780465,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -48,6 +48,14 @@
       "word": "南京一柜姐评论刘亦菲微胖被辞退",
       "onboard_time": 1737861438,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1860006,
+      "num": 1860006,
+      "word": "张某某将可能涉嫌多项罪名",
+      "onboard_time": 1737895639,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -153,6 +161,14 @@
       "onboard_time": 1737884418,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 916211,
+      "num": 228790,
+      "word": "费翔说今年是第一年家里没人了",
+      "onboard_time": 1737895819,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 911735,
@@ -291,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 629981,
+      "num": 410521,
+      "word": "柯洁直播哭了",
+      "onboard_time": 1737895579,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 626649,
       "num": 626649,
       "word": "微信CallKit",
@@ -321,6 +345,14 @@
       "onboard_time": 1737822079,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 582203,
+      "num": 582203,
+      "word": "毛利兰从青梅竹马变女朋友",
+      "onboard_time": 1737894979,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 554633,
@@ -571,19 +603,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 399366,
+      "num": 399366,
+      "word": "李现晒国色芳华大婚胶片记忆",
+      "onboard_time": 1737891619,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 398292,
       "num": 288270,
       "word": "王鹤棣田曦薇 我心尔尔",
       "onboard_time": 1737890058,
       "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 397988,
-      "num": 397988,
-      "word": "李现晒国色芳华大婚胶片记忆",
-      "onboard_time": 1737891619,
-      "rank": 8,
       "category": "剧集"
     },
     {
@@ -651,12 +683,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 356504,
+      "num": 356504,
+      "word": "张泉灵大赞赵丽颖",
+      "onboard_time": 1737894379,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 353264,
       "num": 230379,
       "word": "比尔盖茨说离婚后成了空巢老人",
       "onboard_time": 1737879019,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 342796,
+      "num": 224403,
+      "word": "TF四代军训去了",
+      "onboard_time": 1737895519,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 340406,
@@ -699,14 +747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 328344,
-      "num": 207962,
-      "word": "张某某将可能涉嫌多项罪名",
-      "onboard_time": 1737895639,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 328046,
       "num": 328046,
       "word": "一句我是警察安全感满满",
@@ -721,14 +761,6 @@
       "onboard_time": 1737883518,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 325609,
-      "num": 230863,
-      "word": "张泉灵大赞赵丽颖",
-      "onboard_time": 1737894379,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 319619,
@@ -819,12 +851,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 283955,
-      "num": 283955,
-      "word": "毛利兰从青梅竹马变女朋友",
-      "onboard_time": 1737894979,
-      "rank": 47,
-      "category": "动漫"
+      "raw_hot": 283128,
+      "num": 283128,
+      "word": "柯洁回应决赛事件",
+      "onboard_time": 1737895998,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 277601,
@@ -897,6 +929,14 @@
       "onboard_time": 1737808880,
       "rank": 12,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 261852,
+      "num": 221463,
+      "word": "成龙Sana李马克同框",
+      "onboard_time": 1737894558,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 256619,
@@ -1003,20 +1043,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 227638,
+      "raw_hot": 227969,
+      "num": 207575,
+      "word": "杨丽萍蛇舞",
+      "onboard_time": 1737895158,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 227816,
       "num": 288579,
       "word": "射雕英雄传预售票房突破2.5亿",
       "onboard_time": 1737887718,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 223815,
-      "num": 204576,
-      "word": "TF四代军训去了",
-      "onboard_time": 1737895519,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 223192,
@@ -1049,6 +1089,14 @@
       "onboard_time": 1737816262,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 220173,
+      "num": 220173,
+      "word": "文脉华章",
+      "onboard_time": 1737896239,
+      "rank": 16,
+      "category": "正能量"
     },
     {
       "raw_hot": 218945,
@@ -1115,14 +1163,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 204870,
-      "num": 204870,
-      "word": "成龙Sana李马克同框",
-      "onboard_time": 1737894558,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 204806,
       "num": 215842,
       "word": "此沙发长文回应素人时期",
@@ -1169,6 +1209,14 @@
       "onboard_time": 1737888498,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200261,
+      "num": 188548,
+      "word": "高度近视最有效的化妆方法",
+      "onboard_time": 1737896181,
+      "rank": 32,
+      "category": "美妆"
     },
     {
       "raw_hot": 198990,
@@ -1315,6 +1363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178605,
+      "num": 178605,
+      "word": "为爱跳槽发现0人关心",
+      "onboard_time": 1737896600,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177782,
       "num": 177782,
       "word": "五福临门五娘 小小老子脾气爆",
@@ -1427,14 +1483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165950,
-      "num": 165950,
-      "word": "柯洁直播哭了",
-      "onboard_time": 1737895579,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 165875,
       "num": 165875,
       "word": "女子上厕所突然晕倒竟是因为痔疮",
@@ -1507,6 +1555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158872,
+      "num": 158872,
+      "word": "胡杏儿三个儿子近照",
+      "onboard_time": 1737897081,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158458,
       "num": 345318,
       "word": "马龙说国乒强大是集体的力量和智慧",
@@ -1539,6 +1595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156335,
+      "num": 211671,
+      "word": "王嘉尔正在住院接受治疗",
+      "onboard_time": 1737897558,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154432,
       "num": 171571,
       "word": "fromis9签约新所属社",
@@ -1553,6 +1617,14 @@
       "onboard_time": 1737855557,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154282,
+      "num": 154282,
+      "word": "无忧传媒称推动双方达成和解补偿",
+      "onboard_time": 1737896660,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 153950,
@@ -1611,14 +1683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148875,
-      "num": 148875,
-      "word": "杨丽萍蛇舞",
-      "onboard_time": 1737895158,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 148488,
       "num": 178691,
       "word": "腊月二十七宜洗刷刷",
@@ -1673,6 +1737,14 @@
       "onboard_time": 1737888858,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144701,
+      "num": 211040,
+      "word": "樊振东等自动入围多哈世乒赛",
+      "onboard_time": 1737895698,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 144572,
@@ -1883,6 +1955,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130720,
+      "num": 130720,
+      "word": "丁禹兮给剧组工作人员发红包",
+      "onboard_time": 1737896239,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 130239,
+      "num": 154318,
+      "word": "魔芋爽拌黄瓜",
+      "onboard_time": 1737896839,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 128156,
       "num": 128156,
       "word": "付航刚坐下3分钟就开始猴化",
@@ -1897,6 +1985,14 @@
       "onboard_time": 1737877337,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126166,
+      "num": 126166,
+      "word": "张杰直播",
+      "onboard_time": 1737897739,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 125329,
@@ -1955,12 +2051,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 122846,
-      "num": 122846,
-      "word": "费翔说今年是第一年家里没人了",
-      "onboard_time": 1737895819,
-      "rank": 44,
-      "category": "电影"
+      "raw_hot": 123370,
+      "num": 123370,
+      "word": "吴磊春晚彩排风衣造型",
+      "onboard_time": 1737897680,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 121950,
@@ -1985,14 +2081,6 @@
       "onboard_time": 1737813382,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 121270,
-      "num": 121270,
-      "word": "樊振东等自动入围多哈世乒赛",
-      "onboard_time": 1737895698,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 120889,
@@ -3155,6 +3243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 28063,
+      "num": 217415,
+      "word": "视障女孩被接力护送说了183个谢谢",
+      "onboard_time": 1737896961,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26948,
       "num": 122788,
       "word": "中式甜品才是浪漫的最高级",
@@ -3217,6 +3313,14 @@
       "onboard_time": 1737831972,
       "rank": 44,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 23719,
+      "num": 154718,
+      "word": "女主演说短剧让普通演员更容易被看到",
+      "onboard_time": 1737895879,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 23662,
@@ -3315,6 +3419,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 11448,
+      "num": 196507,
+      "word": "刘晓庆说我是拍立淘女孩",
+      "onboard_time": 1737896660,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 10161,
       "num": 22900,
       "word": "非遗春节大拜年",
@@ -3345,14 +3457,6 @@
       "onboard_time": 1737842832,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 8087,
-      "num": 149194,
-      "word": "女主演说短剧让普通演员更容易被看到",
-      "onboard_time": 1737895879,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 4801,
