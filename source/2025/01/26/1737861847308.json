@@ -1,0 +1,410 @@
+{
+  "runTime": 1737861847308,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 815925,
+        "num": 1130548,
+        "word": "井胧曾因父母职业自卑",
+        "onboard_time": 1737854717,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399439,
+        "num": 399439,
+        "word": "女子买短乘长高铁霸座被拘",
+        "onboard_time": 1737822079,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23736,
+        "num": 391573,
+        "word": "2025春节假期安全提示",
+        "onboard_time": 1737815362,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 783827,
+        "num": 390243,
+        "word": "付航直播被卡出素颜",
+        "onboard_time": 1737860357,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385626,
+        "num": 385626,
+        "word": "举报雷军开车直播的网友回应",
+        "onboard_time": 1737847395,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 308376,
+        "num": 308376,
+        "word": "为什么连续五年没有大年三十",
+        "onboard_time": 1737851658,
+        "rank": 5,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 595872,
+        "num": 305452,
+        "word": "赵露思坦言有过瘫痪失语症状",
+        "onboard_time": 1737855078,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 454580,
+        "num": 299700,
+        "word": "哪吒2第二支预告",
+        "onboard_time": 1737860357,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 285953,
+        "num": 285953,
+        "word": "一句我是警察安全感满满",
+        "onboard_time": 1737857418,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56769,
+        "num": 285792,
+        "word": "第一批春节旅游特种兵发打卡照了",
+        "onboard_time": 1737861197,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3408847,
+        "num": 285378,
+        "word": "曝张大大杨幂已绝交",
+        "onboard_time": 1737857357,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426368,
+        "num": 284989,
+        "word": "孟子义三线谜回拍摄前往柬埔寨",
+        "onboard_time": 1737857958,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345668,
+        "num": 284710,
+        "word": "刘耀文颈部印记为痘印",
+        "onboard_time": 1737847454,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284650,
+        "num": 284650,
+        "word": "北京的雪",
+        "onboard_time": 1737818361,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29771,
+        "num": 260182,
+        "word": "朝鲜试射战略巡航导弹",
+        "onboard_time": 1737861317,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 250946,
+        "num": 250946,
+        "word": "南京一柜姐评论刘亦菲微胖被辞退",
+        "onboard_time": 1737861438,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230125,
+        "num": 230125,
+        "word": "冷冷冷我冷冷冷",
+        "onboard_time": 1737849557,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212648,
+        "num": 212648,
+        "word": "徐莹称卞相壹形象遭毁灭性打击",
+        "onboard_time": 1737851717,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195770,
+        "num": 195770,
+        "word": "台湾一黑帮头目被枪杀",
+        "onboard_time": 1737851658,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129303,
+        "num": 195694,
+        "word": "北京城区平均降雪0毫米",
+        "onboard_time": 1737859879,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1262078,
+        "num": 195565,
+        "word": "张大大被曝指使社会人士砸门恐吓",
+        "onboard_time": 1737808998,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 509985,
+        "num": 195462,
+        "word": "赵露思回应胖了8斤",
+        "onboard_time": 1737851357,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447226,
+        "num": 195278,
+        "word": "两男子猥亵5名足浴店女技师被行拘",
+        "onboard_time": 1737856938,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202294,
+        "num": 195255,
+        "word": "黄毛毛回应无忧传媒",
+        "onboard_time": 1737851417,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98129,
+        "num": 195092,
+        "word": "车银优公开cover曲纪念文彬生日",
+        "onboard_time": 1737860597,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195001,
+        "num": 195001,
+        "word": "河南除雪火力全开",
+        "onboard_time": 1737860897,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192578,
+        "num": 192578,
+        "word": "肖战春天花会开幸福向未来",
+        "onboard_time": 1737860597,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175070,
+        "num": 175070,
+        "word": "杨天真40岁生日办告别式",
+        "onboard_time": 1737853456,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139596,
+        "num": 168764,
+        "word": "时代少年团初雪跳有你",
+        "onboard_time": 1737859516,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34096,
+        "num": 168036,
+        "word": "中央气象台回应为何天气转换如此快",
+        "onboard_time": 1737860957,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167669,
+        "num": 167669,
+        "word": "夫妻各回各家过年做父母的孩子",
+        "onboard_time": 1737860357,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144264,
+        "num": 144264,
+        "word": "林孝埈初雪大片",
+        "onboard_time": 1737861018,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138677,
+        "num": 138677,
+        "word": "微信CallKit",
+        "onboard_time": 1737816202,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 136707,
+        "num": 136707,
+        "word": "14岁女孩玩挖宝花光母亲14万打工钱",
+        "onboard_time": 1737846374,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135495,
+        "num": 135495,
+        "word": "刘诗诗最强辅助",
+        "onboard_time": 1737860357,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125581,
+        "num": 125581,
+        "word": "故宫也下雪了",
+        "onboard_time": 1737852797,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124448,
+        "num": 124448,
+        "word": "科比逝世五周年",
+        "onboard_time": 1737859037,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123543,
+        "num": 123543,
+        "word": "萧敬腾一出场雨就变大了",
+        "onboard_time": 1737860357,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120781,
+        "num": 120781,
+        "word": "2月宝宝回家过年十余人等到凌晨",
+        "onboard_time": 1737852498,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119080,
+        "num": 119080,
+        "word": "G社生图战神",
+        "onboard_time": 1737859998,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118714,
+        "num": 118714,
+        "word": "张馨予晒何捷为她拍的雪地大片",
+        "onboard_time": 1737861677,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113754,
+        "num": 113754,
+        "word": "射雕英雄传预售仍断层领先",
+        "onboard_time": 1737846374,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111095,
+        "num": 111095,
+        "word": "特朗普称或在30天内决定TikTok未来",
+        "onboard_time": 1737860417,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111043,
+        "num": 111043,
+        "word": "小朋友扮演飞天小哪吒惊艳全场",
+        "onboard_time": 1737860297,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110943,
+        "num": 110943,
+        "word": "重昭知道你很急但是你先别急",
+        "onboard_time": 1737861677,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108659,
+        "num": 108659,
+        "word": "老板发4000万现金为年会热场",
+        "onboard_time": 1737855557,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108513,
+        "num": 108513,
+        "word": "黄毛毛连发三个谢谢贵司",
+        "onboard_time": 1737860417,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105399,
+        "num": 105399,
+        "word": "雷军直播时突然被封",
+        "onboard_time": 1737811641,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 101250,
+        "num": 101250,
+        "word": "海豚吃的饺子皮是鱿鱼",
+        "onboard_time": 1737854478,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100633,
+        "num": 100633,
+        "word": "印有加拿大不出售的帽子热销",
+        "onboard_time": 1737861737,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平春节前夕视察慰问部队#"
+    }
+  }
+}

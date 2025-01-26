@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1737860382301,
+  "endTime": 1737861847308,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -73,6 +73,14 @@
       "onboard_time": 1737811641,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 783827,
+      "num": 390243,
+      "word": "付航直播被卡出素颜",
+      "onboard_time": 1737860357,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 650358,
@@ -161,6 +169,14 @@
       "onboard_time": 1737851658,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 454580,
+      "num": 299700,
+      "word": "哪吒2第二支预告",
+      "onboard_time": 1737860357,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 448883,
@@ -283,6 +299,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 250946,
+      "num": 250946,
+      "word": "南京一柜姐评论刘亦菲微胖被辞退",
+      "onboard_time": 1737861438,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250313,
       "num": 250313,
       "word": "刘亦菲带火了奥特曼发夹",
@@ -305,14 +329,6 @@
       "onboard_time": 1737852498,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 230976,
-      "num": 230976,
-      "word": "付航直播被卡出素颜",
-      "onboard_time": 1737860357,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 230299,
@@ -387,6 +403,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195001,
+      "num": 195001,
+      "word": "河南除雪火力全开",
+      "onboard_time": 1737860897,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192578,
+      "num": 192578,
+      "word": "肖战春天花会开幸福向未来",
+      "onboard_time": 1737860597,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177111,
       "num": 382230,
       "word": "寒潮大风多地降温6到10摄氏度",
@@ -403,12 +435,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 168375,
-      "num": 168375,
-      "word": "哪吒2第二支预告",
+      "raw_hot": 167669,
+      "num": 167669,
+      "word": "夫妻各回各家过年做父母的孩子",
       "onboard_time": 1737860357,
-      "rank": 25,
-      "category": "电影"
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 167389,
@@ -475,6 +507,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 144264,
+      "num": 144264,
+      "word": "林孝埈初雪大片",
+      "onboard_time": 1737861018,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143318,
       "num": 143318,
       "word": "冬日里的这一幕好温暖",
@@ -497,6 +537,14 @@
       "onboard_time": 1737848294,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135495,
+      "num": 135495,
+      "word": "刘诗诗最强辅助",
+      "onboard_time": 1737860357,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 134821,
@@ -523,6 +571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129303,
+      "num": 229439,
+      "word": "北京城区平均降雪0毫米",
+      "onboard_time": 1737859879,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128156,
       "num": 128156,
       "word": "付航刚坐下3分钟就开始猴化",
@@ -545,6 +601,14 @@
       "onboard_time": 1737846493,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123543,
+      "num": 123543,
+      "word": "萧敬腾一出场雨就变大了",
+      "onboard_time": 1737860357,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 121538,
@@ -571,12 +635,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119080,
+      "num": 119080,
+      "word": "G社生图战神",
+      "onboard_time": 1737859998,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 118714,
+      "num": 118714,
+      "word": "张馨予晒何捷为她拍的雪地大片",
+      "onboard_time": 1737861677,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111465,
       "num": 111465,
       "word": "天蝎座没那么需要新鲜感",
       "onboard_time": 1737852017,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 111095,
+      "num": 111095,
+      "word": "特朗普称或在30天内决定TikTok未来",
+      "onboard_time": 1737860417,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 111043,
+      "num": 111043,
+      "word": "小朋友扮演飞天小哪吒惊艳全场",
+      "onboard_time": 1737860297,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110949,
@@ -587,11 +683,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110943,
+      "num": 110943,
+      "word": "重昭知道你很急但是你先别急",
+      "onboard_time": 1737861677,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110497,
       "num": 110497,
       "word": "赵丽颖早期晋江式演技",
       "onboard_time": 1737810321,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 108513,
+      "num": 108513,
+      "word": "黄毛毛连发三个谢谢贵司",
+      "onboard_time": 1737860417,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -617,14 +729,6 @@
       "onboard_time": 1737851658,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107277,
-      "num": 107277,
-      "word": "刘诗诗最强辅助",
-      "onboard_time": 1737860357,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 106222,
@@ -667,12 +771,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 100963,
-      "num": 100963,
-      "word": "G社生图战神",
-      "onboard_time": 1737859998,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 100633,
+      "num": 100633,
+      "word": "印有加拿大不出售的帽子热销",
+      "onboard_time": 1737861737,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 100581,
@@ -707,12 +811,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96882,
-      "num": 96882,
-      "word": "小朋友扮演飞天小哪吒惊艳全场",
-      "onboard_time": 1737860297,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 98129,
+      "num": 195092,
+      "word": "车银优公开cover曲纪念文彬生日",
+      "onboard_time": 1737860597,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 96376,
@@ -731,14 +835,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 90533,
-      "num": 229439,
-      "word": "北京城区平均降雪0毫米",
-      "onboard_time": 1737859879,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89028,
       "num": 89028,
       "word": "中国队或退出农心杯",
@@ -752,14 +848,6 @@
       "word": "檀健次一字不错背赵本山小品",
       "onboard_time": 1737855856,
       "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 85028,
-      "num": 85028,
-      "word": "萧敬腾一出场雨就变大了",
-      "onboard_time": 1737860357,
-      "rank": 46,
       "category": "综艺"
     },
     {
@@ -833,14 +921,6 @@
       "onboard_time": 1737816742,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 72789,
-      "num": 111614,
-      "word": "夫妻各回各家过年做父母的孩子",
-      "onboard_time": 1737860357,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 70616,
@@ -923,6 +1003,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 56769,
+      "num": 285792,
+      "word": "第一批春节旅游特种兵发打卡照了",
+      "onboard_time": 1737861197,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52993,
       "num": 52993,
       "word": "河南暴雪亲历者发声",
@@ -963,12 +1051,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 34096,
+      "num": 168036,
+      "word": "中央气象台回应为何天气转换如此快",
+      "onboard_time": 1737860957,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32909,
       "num": 145351,
       "word": "霸座的人已经不多了",
       "onboard_time": 1737825555,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29771,
+      "num": 260182,
+      "word": "朝鲜试射战略巡航导弹",
+      "onboard_time": 1737861317,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 28226,
