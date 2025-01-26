@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737895067827,
+  "endTime": 1737895951536,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -2883,6 +2883,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1458544,
+      "num": 288476,
+      "word": "张大大助理发离职证明",
+      "onboard_time": 1737890718,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1456428,
       "num": 266409,
       "word": "黄毛毛 张大大",
@@ -2929,14 +2937,6 @@
       "onboard_time": 1737435739,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1449226,
-      "num": 288476,
-      "word": "张大大助理发离职证明",
-      "onboard_time": 1737890718,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1448714,
@@ -9147,6 +9147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 714830,
+      "num": 288297,
+      "word": "全糖可乐",
+      "onboard_time": 1735827921,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 714364,
       "num": 714364,
       "word": "韩国小狗与遇难家人告别全程安静",
@@ -10017,14 +10025,6 @@
       "onboard_time": 1737256938,
       "rank": 28,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 665930,
-      "num": 288297,
-      "word": "全糖可乐",
-      "onboard_time": 1735827921,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 665815,
@@ -18187,6 +18187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 397988,
+      "num": 397988,
+      "word": "李现晒国色芳华大婚胶片记忆",
+      "onboard_time": 1737891619,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 397838,
       "num": 397209,
       "word": "鹿晗高瀚宇眉钉大片",
@@ -20171,14 +20179,6 @@
       "category": "体育,作品衍生"
     },
     {
-      "raw_hot": 360503,
-      "num": 276783,
-      "word": "李现晒国色芳华大婚胶片记忆",
-      "onboard_time": 1737891619,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 360400,
       "num": 246515,
       "word": "白月梵星开分5.9",
@@ -21995,6 +21995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 328344,
+      "num": 207962,
+      "word": "张某某将可能涉嫌多项罪名",
+      "onboard_time": 1737895639,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 328275,
       "num": 328275,
       "word": "国色芳华白月梵星首日云合",
@@ -22153,6 +22161,14 @@
       "onboard_time": 1736934199,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 325609,
+      "num": 230863,
+      "word": "张泉灵大赞赵丽颖",
+      "onboard_time": 1737894379,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 325455,
@@ -25145,6 +25161,14 @@
       "onboard_time": 1736205497,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 283955,
+      "num": 283955,
+      "word": "毛利兰从青梅竹马变女朋友",
+      "onboard_time": 1737894979,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 283936,
@@ -28779,6 +28803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 245034,
+      "num": 230850,
+      "word": "白鹿驼色大衣",
+      "onboard_time": 1737892339,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 244948,
       "num": 175614,
       "word": "白敬亭微博之夜造型出图",
@@ -30355,22 +30387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 230863,
-      "num": 230863,
-      "word": "张泉灵大赞赵丽颖",
-      "onboard_time": 1737894379,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 230850,
-      "num": 230850,
-      "word": "白鹿驼色大衣",
-      "onboard_time": 1737892339,
-      "rank": 23,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 230744,
       "num": 230744,
       "word": "敖瑞鹏 内娱百里玄策",
@@ -31179,6 +31195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223815,
+      "num": 204576,
+      "word": "TF四代军训去了",
+      "onboard_time": 1737895519,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223751,
       "num": 329575,
       "word": "王楚钦7367分世排第一",
@@ -31305,6 +31329,14 @@
       "onboard_time": 1735988303,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 223192,
+      "num": 210535,
+      "word": "你好星期六拍立得",
+      "onboard_time": 1737892159,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 223165,
@@ -31537,6 +31569,14 @@
       "onboard_time": 1736739138,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 221338,
+      "num": 272234,
+      "word": "陕西蓝田县遭暴雪村庄被积雪封门",
+      "onboard_time": 1737893779,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 221324,
@@ -33219,14 +33259,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 210535,
-      "num": 210535,
-      "word": "你好星期六拍立得",
-      "onboard_time": 1737892159,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 210339,
       "num": 210339,
       "word": "樊振东棒球大片",
@@ -34505,6 +34537,14 @@
       "onboard_time": 1736404280,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 204870,
+      "num": 204870,
+      "word": "成龙Sana李马克同框",
+      "onboard_time": 1737894558,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 204822,
@@ -43659,6 +43699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171458,
+      "num": 171458,
+      "word": "过年没有年味的真正原因",
+      "onboard_time": 1737892278,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 171455,
       "num": 171455,
       "word": "LPL",
@@ -43729,6 +43777,14 @@
       "onboard_time": 1735806921,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 171161,
+      "num": 220278,
+      "word": "陈丽君戏歌一梦浮生",
+      "onboard_time": 1737891918,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 171155,
@@ -45273,6 +45329,14 @@
       "onboard_time": 1737613399,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165950,
+      "num": 165950,
+      "word": "柯洁直播哭了",
+      "onboard_time": 1737895579,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 165893,
@@ -47219,14 +47283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 159204,
-      "num": 159204,
-      "word": "成龙Sana李马克同框",
-      "onboard_time": 1737894558,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 159199,
       "num": 200495,
       "word": "张雅钦黄油小熊塑",
@@ -48233,14 +48289,6 @@
       "onboard_time": 1736169143,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 156306,
-      "num": 272234,
-      "word": "陕西蓝田县遭暴雪村庄被积雪封门",
-      "onboard_time": 1737893779,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 156267,
@@ -50379,6 +50427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 148875,
+      "num": 148875,
+      "word": "杨丽萍蛇舞",
+      "onboard_time": 1737895158,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148849,
       "num": 172882,
       "word": "年轻人不爱大包小包走亲戚了",
@@ -51571,14 +51627,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 145483,
-      "num": 145483,
-      "word": "陈丽君戏歌一梦浮生",
-      "onboard_time": 1737891918,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 145438,
       "num": 182322,
       "word": "向太写信鼓励周芯竹",
@@ -52041,6 +52089,14 @@
       "onboard_time": 1737364038,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143915,
+      "num": 143915,
+      "word": "王源古风小生",
+      "onboard_time": 1737895219,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 143898,
@@ -54121,14 +54177,6 @@
       "onboard_time": 1736816660,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 137587,
-      "num": 137587,
-      "word": "过年没有年味的真正原因",
-      "onboard_time": 1737892278,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 137573,
@@ -58435,6 +58483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125076,
+      "num": 200269,
+      "word": "2025澳网",
+      "onboard_time": 1737894319,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125045,
       "num": 125045,
       "word": "异人之下2真夫妻档",
@@ -59187,6 +59243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 122846,
+      "num": 122846,
+      "word": "费翔说今年是第一年家里没人了",
+      "onboard_time": 1737895819,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 122817,
       "num": 244191,
       "word": "当地华人称山火整整烧了两天了",
@@ -59745,6 +59809,14 @@
       "onboard_time": 1737093679,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121270,
+      "num": 121270,
+      "word": "樊振东等自动入围多哈世乒赛",
+      "onboard_time": 1737895698,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 121265,
@@ -63043,14 +63115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112053,
-      "num": 112053,
-      "word": "毛利兰从青梅竹马变女朋友",
-      "onboard_time": 1737894979,
-      "rank": 47,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 112033,
       "num": 112033,
       "word": "李昀锐清爽男高具像化",
@@ -63931,14 +63995,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 109067,
-      "num": 119069,
-      "word": "2025澳网",
-      "onboard_time": 1737894319,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 109058,
       "num": 109058,
       "word": "梵樾稳定发挥",
@@ -64457,6 +64513,14 @@
       "onboard_time": 1737010640,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 107141,
+      "num": 107141,
+      "word": "找一个本来就很好的人具象化了",
+      "onboard_time": 1737895459,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 107124,
@@ -69257,6 +69321,14 @@
       "onboard_time": 1736511079,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85544,
+      "num": 190587,
+      "word": "封神地狱笑话",
+      "onboard_time": 1737892220,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 85463,
@@ -75835,6 +75907,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 45285,
+      "num": 258225,
+      "word": "射雕游可以去哪里",
+      "onboard_time": 1737893899,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 45274,
       "num": 261798,
       "word": "任嘉伦官宣微博之夜",
@@ -81099,14 +81179,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 22035,
-      "num": 258225,
-      "word": "射雕游可以去哪里",
-      "onboard_time": 1737893899,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 21975,
       "num": 310706,
       "word": "国内数字游民或达到1亿人",
@@ -84129,6 +84201,14 @@
       "onboard_time": 1736805011,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8087,
+      "num": 149194,
+      "word": "女主演说短剧让普通演员更容易被看到",
+      "onboard_time": 1737895879,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 8052,
