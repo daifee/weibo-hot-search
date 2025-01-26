@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1737930955300,
+  "endTime": 1737933601099,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -1099,6 +1099,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 262218,
+      "num": 262218,
+      "word": "演员大锁发文称别洗白了",
+      "onboard_time": 1737921970,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 262205,
       "num": 262205,
       "word": "河南大学火灾事故48人被处理",
@@ -1323,6 +1331,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 211365,
+      "num": 60176,
+      "word": "张大大曾因口碑问题2年无固定工作",
+      "onboard_time": 1737928872,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209948,
       "num": 198210,
       "word": "赵露思拐杖",
@@ -1529,6 +1545,14 @@
       "onboard_time": 1737880698,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189529,
+      "num": 127322,
+      "word": "业内预测票房冠军是哪吒或唐探",
+      "onboard_time": 1737928271,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 189479,
@@ -1913,14 +1937,6 @@
       "onboard_time": 1737885618,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 155715,
-      "num": 46120,
-      "word": "演员大锁发文称别洗白了",
-      "onboard_time": 1737921970,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 154432,
@@ -2811,6 +2827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106032,
+      "num": 95562,
+      "word": "无忧传媒称黄某视频陈述有夸张误导",
+      "onboard_time": 1737924672,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105173,
       "num": 180885,
       "word": "库里下半场0分",
@@ -2921,14 +2945,6 @@
       "onboard_time": 1737890959,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 101508,
-      "num": 43036,
-      "word": "无忧传媒称黄某视频陈述有夸张误导",
-      "onboard_time": 1737924672,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 101357,
@@ -3081,6 +3097,14 @@
       "onboard_time": 1737883878,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 90683,
+      "num": 90683,
+      "word": "8岁失踪女童亲友发声",
+      "onboard_time": 1737922812,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90599,
@@ -3315,12 +3339,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 73663,
-      "num": 27658,
-      "word": "张大大曾因口碑问题2年无固定工作",
-      "onboard_time": 1737928872,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 74321,
+      "num": 74321,
+      "word": "合肥地震",
+      "onboard_time": 1737933313,
+      "rank": 16,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 73331,
@@ -3361,14 +3385,6 @@
       "onboard_time": 1737911895,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 71181,
-      "num": 60343,
-      "word": "业内预测票房冠军是哪吒或唐探",
-      "onboard_time": 1737928271,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 70924,
@@ -3635,14 +3651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 50371,
-      "num": 50371,
-      "word": "8岁失踪女童亲友发声",
-      "onboard_time": 1737922812,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 49845,
       "num": 294491,
       "word": "封神主创集结为大家送福",
@@ -3675,6 +3683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48083,
+      "num": 48083,
+      "word": "DeepSeek新模型火到海外",
+      "onboard_time": 1737933254,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 46129,
       "num": 64671,
       "word": "俱乐部已找到电竞选手幻云本人",
@@ -3704,6 +3720,14 @@
       "word": "美国已使用军机驱逐数百非法移民",
       "onboard_time": 1737882440,
       "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 42563,
+      "num": 42563,
+      "word": "特朗普想把空军一号改为深蓝色",
+      "onboard_time": 1737918732,
+      "rank": 48,
       "category": "国际时政"
     },
     {
@@ -3787,6 +3811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36204,
+      "num": 36204,
+      "word": "2025春节档预售票房突破7亿",
+      "onboard_time": 1737926471,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 34893,
       "num": 105272,
       "word": "众所周知泡面在火车上吃最香",
@@ -3859,6 +3891,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 30613,
+      "num": 30613,
+      "word": "韩国检方对尹锡悦提起拘留起诉",
+      "onboard_time": 1737927731,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 28780,
       "num": 201617,
       "word": "泽连斯基澄清美国对乌军援未停止",
@@ -3873,6 +3913,14 @@
       "onboard_time": 1737872718,
       "rank": 35,
       "category": "议题讨论,民生新闻"
+    },
+    {
+      "raw_hot": 28522,
+      "num": 30506,
+      "word": "王一博愿爱在老家河南",
+      "onboard_time": 1737927851,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 28226,
@@ -3939,14 +3987,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 24600,
-      "num": 24600,
-      "word": "特朗普想把空军一号改为深蓝色",
-      "onboard_time": 1737918732,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 24082,
       "num": 144190,
       "word": "晒晒你带回家的年货",
@@ -4001,6 +4041,14 @@
       "onboard_time": 1737873438,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 21878,
+      "num": 30466,
+      "word": "河南春晚看见不一样的周深",
+      "onboard_time": 1737930613,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 20668,
@@ -4083,14 +4131,6 @@
       "category": "国内时政,民生新闻"
     },
     {
-      "raw_hot": 17610,
-      "num": 17610,
-      "word": "韩国检方对尹锡悦提起拘留起诉",
-      "onboard_time": 1737927731,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 16922,
       "num": 37839,
       "word": "南京南站4天捡到1000个身份证",
@@ -4107,28 +4147,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 16082,
-      "num": 17586,
-      "word": "王一博愿爱在老家河南",
-      "onboard_time": 1737927851,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 15506,
       "num": 15506,
       "word": "白鹿未来的日子都不要烦心",
       "onboard_time": 1737917292,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 15228,
-      "num": 28882,
-      "word": "2025春节档预售票房突破7亿",
-      "onboard_time": 1737926471,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 14803,
@@ -4219,11 +4243,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 8257,
-      "num": 27937,
-      "word": "河南春晚看见不一样的周深",
-      "onboard_time": 1737930613,
-      "rank": 23,
+      "raw_hot": 7703,
+      "num": 96036,
+      "word": "2025河南春晚最期待节目",
+      "onboard_time": 1737933133,
+      "rank": 9,
       "category": "综艺"
     },
     {

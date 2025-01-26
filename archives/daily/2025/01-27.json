@@ -1,6 +1,6 @@
 {
   "startTime": 1737908665249,
-  "endTime": 1737930955300,
+  "endTime": 1737933601099,
   "band_list": [
     {
       "raw_hot": 2273172,
@@ -99,6 +99,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 262218,
+      "num": 262218,
+      "word": "演员大锁发文称别洗白了",
+      "onboard_time": 1737921970,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 255537,
       "num": 255537,
       "word": "幻云发博回应被骗",
@@ -155,12 +163,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 211365,
+      "num": 60176,
+      "word": "张大大曾因口碑问题2年无固定工作",
+      "onboard_time": 1737928872,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199619,
       "num": 218934,
       "word": "韩国铆足劲吸引中国游客",
       "onboard_time": 1737901760,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189529,
+      "num": 127322,
+      "word": "业内预测票房冠军是哪吒或唐探",
+      "onboard_time": 1737928271,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 181869,
@@ -177,14 +201,6 @@
       "onboard_time": 1737900441,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 155715,
-      "num": 46120,
-      "word": "演员大锁发文称别洗白了",
-      "onboard_time": 1737921970,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 155599,
@@ -299,19 +315,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106032,
+      "num": 95562,
+      "word": "无忧传媒称黄某视频陈述有夸张误导",
+      "onboard_time": 1737924672,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105904,
       "num": 105904,
       "word": "棍铲",
       "onboard_time": 1737905059,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 101508,
-      "num": 43036,
-      "word": "无忧传媒称黄某视频陈述有夸张误导",
-      "onboard_time": 1737924672,
-      "rank": 25,
       "category": "艺人"
     },
     {
@@ -347,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90683,
+      "num": 90683,
+      "word": "8岁失踪女童亲友发声",
+      "onboard_time": 1737922812,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90599,
       "num": 90599,
       "word": "央视新闻对话封神主创",
@@ -361,6 +385,14 @@
       "onboard_time": 1737890538,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 88527,
+      "num": 88527,
+      "word": "安徽卫视回应春晚外卖小哥身份",
+      "onboard_time": 1737901401,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 88166,
@@ -401,14 +433,6 @@
       "onboard_time": 1737910276,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 80368,
-      "num": 80368,
-      "word": "安徽卫视回应春晚外卖小哥身份",
-      "onboard_time": 1737901401,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 79684,
@@ -459,12 +483,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 73663,
-      "num": 27658,
-      "word": "张大大曾因口碑问题2年无固定工作",
-      "onboard_time": 1737928872,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 74321,
+      "num": 74321,
+      "word": "合肥地震",
+      "onboard_time": 1737933313,
+      "rank": 16,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 71358,
@@ -473,14 +497,6 @@
       "onboard_time": 1737911895,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 71181,
-      "num": 60343,
-      "word": "业内预测票房冠军是哪吒或唐探",
-      "onboard_time": 1737928271,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 70924,
@@ -539,12 +555,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 50371,
-      "num": 50371,
-      "word": "8岁失踪女童亲友发声",
-      "onboard_time": 1737922812,
+      "raw_hot": 48083,
+      "num": 48083,
+      "word": "DeepSeek新模型火到海外",
+      "onboard_time": 1737933254,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 42563,
+      "num": 42563,
+      "word": "特朗普想把空军一号改为深蓝色",
+      "onboard_time": 1737918732,
       "rank": 48,
-      "category": "民生新闻"
+      "category": "国际时政"
     },
     {
       "raw_hot": 39043,
@@ -563,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36204,
+      "num": 36204,
+      "word": "2025春节档预售票房突破7亿",
+      "onboard_time": 1737926471,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 33741,
       "num": 35158,
       "word": "晕车晕机试试这组动作",
@@ -579,6 +611,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 30613,
+      "num": 30613,
+      "word": "韩国检方对尹锡悦提起拘留起诉",
+      "onboard_time": 1737927731,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 28522,
+      "num": 30506,
+      "word": "王一博愿爱在老家河南",
+      "onboard_time": 1737927851,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25041,
       "num": 25041,
       "word": "易烊千玺过塘live十首歌上线",
@@ -587,12 +635,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 24600,
-      "num": 24600,
-      "word": "特朗普想把空军一号改为深蓝色",
-      "onboard_time": 1737918732,
-      "rank": 48,
-      "category": "国际时政"
+      "raw_hot": 21878,
+      "num": 30466,
+      "word": "河南春晚看见不一样的周深",
+      "onboard_time": 1737930613,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 17804,
@@ -603,14 +651,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 17610,
-      "num": 17610,
-      "word": "韩国检方对尹锡悦提起拘留起诉",
-      "onboard_time": 1737927731,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 16393,
       "num": 16796,
       "word": "时光代理人",
@@ -619,28 +659,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 16082,
-      "num": 17586,
-      "word": "王一博愿爱在老家河南",
-      "onboard_time": 1737927851,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 15506,
       "num": 15506,
       "word": "白鹿未来的日子都不要烦心",
       "onboard_time": 1737917292,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 15228,
-      "num": 28882,
-      "word": "2025春节档预售票房突破7亿",
-      "onboard_time": 1737926471,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 12587,
@@ -691,11 +715,11 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 8257,
-      "num": 27937,
-      "word": "河南春晚看见不一样的周深",
-      "onboard_time": 1737930613,
-      "rank": 23,
+      "raw_hot": 7703,
+      "num": 96036,
+      "word": "2025河南春晚最期待节目",
+      "onboard_time": 1737933133,
+      "rank": 9,
       "category": "综艺"
     }
   ],
