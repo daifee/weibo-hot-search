@@ -1,6 +1,6 @@
 {
   "startTime": 1737908665249,
-  "endTime": 1737909552104,
+  "endTime": 1737911907199,
   "band_list": [
     {
       "raw_hot": 2273172,
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 252905,
+      "num": 252905,
+      "word": "幻云发博回应被骗",
+      "onboard_time": 1737905720,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 234707,
       "num": 234707,
       "word": "新娘坐高铁去结婚收获全车祝福",
@@ -123,20 +131,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 228600,
+      "num": 228600,
+      "word": "为何国人偏爱大红大黄传统色",
+      "onboard_time": 1737907037,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218889,
       "num": 218889,
       "word": "王源新歌千秋一刻共赏甲骨文明之美",
       "onboard_time": 1737906977,
       "rank": 9,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 206397,
-      "num": 206397,
-      "word": "为何国人偏爱大红大黄传统色",
-      "onboard_time": 1737907037,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 199619,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 139153,
-      "num": 139153,
+      "num": 166325,
       "word": "陈丽君60秒演绎百年越剧情",
       "onboard_time": 1737906318,
       "rank": 25,
@@ -211,12 +219,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 124480,
-      "num": 124480,
-      "word": "幻云发博回应被骗",
-      "onboard_time": 1737905720,
-      "rank": 37,
-      "category": "电竞"
+      "raw_hot": 126118,
+      "num": 126118,
+      "word": "杨紫何惟芳故事走到终章",
+      "onboard_time": 1737906497,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 123832,
@@ -235,20 +243,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 115777,
-      "num": 115777,
-      "word": "杨紫何惟芳故事走到终章",
-      "onboard_time": 1737906497,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 115043,
       "num": 115043,
       "word": "李现晒国色芳华大婚胶片记忆",
       "onboard_time": 1737891619,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114525,
+      "num": 114525,
+      "word": "2025新春",
+      "onboard_time": 1737902120,
+      "rank": 40,
+      "category": "正能量"
     },
     {
       "raw_hot": 114050,
@@ -265,6 +273,14 @@
       "onboard_time": 1737906679,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107196,
+      "num": 107196,
+      "word": "网恋女友骗幻云23万挥霍刷礼物",
+      "onboard_time": 1737909436,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 105904,
@@ -299,20 +315,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 92111,
-      "num": 92111,
-      "word": "2025新春",
-      "onboard_time": 1737902120,
-      "rank": 40,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 91966,
       "num": 91966,
       "word": "樊振东获得2025世乒赛决赛参赛资格",
       "onboard_time": 1737889577,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90599,
+      "num": 90599,
+      "word": "央视新闻对话封神主创",
+      "onboard_time": 1737909915,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 90089,
@@ -353,6 +369,14 @@
       "onboard_time": 1737901401,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 80736,
+      "num": 80736,
+      "word": "柯洁说被治愈了",
+      "onboard_time": 1737910276,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 80368,
@@ -403,12 +427,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 71041,
-      "num": 71041,
-      "word": "网恋女友骗幻云23万挥霍刷礼物",
-      "onboard_time": 1737909436,
-      "rank": 45,
-      "category": "电竞"
+      "raw_hot": 70924,
+      "num": 111274,
+      "word": "柯洁说为第9冠付出了很多",
+      "onboard_time": 1737909196,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 70243,
+      "num": 70243,
+      "word": "丁禹兮参加蛇年央视春晚备播录制",
+      "onboard_time": 1737911475,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 68261,
@@ -419,12 +451,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 63823,
-      "num": 111274,
-      "word": "柯洁说为第9冠付出了很多",
-      "onboard_time": 1737909196,
-      "rank": 24,
+      "raw_hot": 60015,
+      "num": 60015,
+      "word": "柯洁鞠躬感谢支持者",
+      "onboard_time": 1737910276,
+      "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54693,
+      "num": 54693,
+      "word": "新年头像",
+      "onboard_time": 1737911475,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 53188,
+      "num": 53188,
+      "word": "你好星期六拍立得",
+      "onboard_time": 1737892159,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 52274,
+      "num": 52274,
+      "word": "永远相信河南春晚审美",
+      "onboard_time": 1737909915,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 39043,
