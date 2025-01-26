@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1737872901373,
+  "endTime": 1737873663667,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -39,6 +39,14 @@
       "num": 377745,
       "word": "赵露思回应胖了8斤",
       "onboard_time": 1737851357,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1061381,
+      "num": 238525,
+      "word": "留几手曾说张大大连麦是剧本",
+      "onboard_time": 1737872898,
       "rank": 10,
       "category": "艺人"
     },
@@ -91,6 +99,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 797133,
+      "num": 1127541,
+      "word": "王嘉尔突发胸痛住院",
+      "onboard_time": 1737870258,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 783827,
       "num": 390243,
       "word": "付航直播被卡出素颜",
@@ -113,14 +129,6 @@
       "onboard_time": 1737862158,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 712204,
-      "num": 1113952,
-      "word": "王嘉尔突发胸痛住院",
-      "onboard_time": 1737870258,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 711987,
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 515745,
-      "num": 155317,
+      "num": 174753,
       "word": "Jasper在陈小春家学历最高",
       "onboard_time": 1737870379,
       "rank": 31,
@@ -403,12 +411,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 305626,
+      "num": 305626,
+      "word": "菲律宾船从中国海警船前横穿",
+      "onboard_time": 1737870798,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 305395,
+      "num": 231107,
+      "word": "邓为新剧定档",
+      "onboard_time": 1737872298,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 303315,
       "num": 303315,
       "word": "周杰伦ins晒与权志龙合照",
       "onboard_time": 1737811161,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 292632,
+      "num": 292632,
+      "word": "这火车怎么蛇里蛇气的",
+      "onboard_time": 1737869177,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 288657,
@@ -425,14 +457,6 @@
       "onboard_time": 1737823156,
       "rank": 31,
       "category": "美食"
-    },
-    {
-      "raw_hot": 279552,
-      "num": 279552,
-      "word": "菲律宾船从中国海警船前横穿",
-      "onboard_time": 1737870798,
-      "rank": 5,
-      "category": "国内时政"
     },
     {
       "raw_hot": 277386,
@@ -491,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 241671,
+      "num": 241671,
+      "word": "恋与深空 秦彻",
+      "onboard_time": 1737871638,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 240487,
       "num": 204626,
       "word": "节目组 麦琳身世",
@@ -513,22 +545,6 @@
       "onboard_time": 1737868279,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 239430,
-      "num": 231107,
-      "word": "邓为新剧定档",
-      "onboard_time": 1737872298,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 236494,
-      "num": 236494,
-      "word": "这火车怎么蛇里蛇气的",
-      "onboard_time": 1737869177,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 230299,
@@ -715,6 +731,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175444,
+      "num": 175444,
+      "word": "在梁洁这吃到现偶的细糠了",
+      "onboard_time": 1737871338,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 172887,
+      "num": 172887,
+      "word": "周杰伦瘦好多",
+      "onboard_time": 1737873018,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172020,
       "num": 220550,
       "word": "深圳多个地铁站贴上了白头春联",
@@ -771,6 +803,14 @@
       "category": "美食,健康医疗"
     },
     {
+      "raw_hot": 163405,
+      "num": 187248,
+      "word": "张钧甯五本主流刊",
+      "onboard_time": 1737872538,
+      "rank": 18,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 162973,
       "num": 144628,
       "word": "张元英李瑞KKT聊天记录",
@@ -785,14 +825,6 @@
       "onboard_time": 1737863418,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161449,
-      "num": 161449,
-      "word": "恋与深空 秦彻",
-      "onboard_time": 1737871638,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 159848,
@@ -835,14 +867,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 154086,
-      "num": 154086,
-      "word": "在梁洁这吃到现偶的细糠了",
-      "onboard_time": 1737871338,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 153930,
       "num": 153930,
       "word": "陈思诚哭了",
@@ -857,6 +881,14 @@
       "onboard_time": 1737862699,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150502,
+      "num": 150502,
+      "word": "哈登40分",
+      "onboard_time": 1737873558,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 149240,
@@ -947,20 +979,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139041,
+      "num": 161039,
+      "word": "云南8岁女童雪山失踪已超6天",
+      "onboard_time": 1737871638,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138533,
+      "num": 158801,
+      "word": "男子徒步650公里回乡暴瘦10斤",
+      "onboard_time": 1737871997,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137980,
       "num": 137980,
       "word": "肖战蓝色流苏外套",
       "onboard_time": 1737867437,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 137738,
-      "num": 161191,
-      "word": "张钧甯五本主流刊",
-      "onboard_time": 1737872538,
-      "rank": 18,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 137264,
@@ -1067,6 +1107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124644,
+      "num": 124644,
+      "word": "吴京李连杰聚餐",
+      "onboard_time": 1737873079,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124511,
       "num": 147793,
       "word": "黄毛毛控诉受到无忧传媒威胁",
@@ -1105,6 +1153,14 @@
       "onboard_time": 1737813382,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 120889,
+      "num": 178778,
+      "word": "胡冰卿新剧是赶不走的爱人",
+      "onboard_time": 1737873438,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 120824,
@@ -1244,7 +1300,7 @@
     },
     {
       "raw_hot": 105173,
-      "num": 159474,
+      "num": 180885,
       "word": "库里下半场0分",
       "onboard_time": 1737869719,
       "rank": 49,
@@ -1368,14 +1424,6 @@
       "word": "员工数钱有零头老板加9700元凑整",
       "onboard_time": 1737865457,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 96910,
-      "num": 158801,
-      "word": "男子徒步650公里回乡暴瘦10斤",
-      "onboard_time": 1737871997,
-      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -1539,6 +1587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73331,
+      "num": 209137,
+      "word": "蛟龙行动第一场放映献给潜艇部队",
+      "onboard_time": 1737872718,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 72832,
       "num": 72832,
       "word": "胡歌刘诗诗街采路人ie分明",
@@ -1603,22 +1659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 65530,
-      "num": 161039,
-      "word": "云南8岁女童雪山失踪已超6天",
-      "onboard_time": 1737871638,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 62617,
-      "num": 140546,
-      "word": "蛟龙行动第一场放映献给潜艇部队",
-      "onboard_time": 1737872718,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 61777,
       "num": 168919,
       "word": "刘宇与粉丝双向奔赴MV",
@@ -1667,7 +1707,7 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 55319,
+      "raw_hot": 56214,
       "num": 387274,
       "word": "第一批回家过年的人集合",
       "onboard_time": 1737868517,
@@ -1755,6 +1795,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 28618,
+      "num": 180315,
+      "word": "反向驯化大数据杀熟真的有用吗",
+      "onboard_time": 1737872718,
+      "rank": 35,
+      "category": "议题讨论,民生新闻"
+    },
+    {
       "raw_hot": 28226,
       "num": 31355,
       "word": "相柳白素贞合唱千年等一回",
@@ -1819,12 +1867,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 20959,
-      "num": 151110,
-      "word": "反向驯化大数据杀熟真的有用吗",
-      "onboard_time": 1737872718,
-      "rank": 35,
-      "category": "议题讨论,民生新闻"
+      "raw_hot": 22254,
+      "num": 177932,
+      "word": "动漫最帅前辈毋庸置疑",
+      "onboard_time": 1737873438,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 20668,
+      "num": 179749,
+      "word": "一起离婚财产纠纷牵出法官受贿",
+      "onboard_time": 1737872598,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19575,
@@ -1867,14 +1923,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11298,
-      "num": 157589,
-      "word": "一起离婚财产纠纷牵出法官受贿",
-      "onboard_time": 1737872598,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 10161,
       "num": 22900,
       "word": "非遗春节大拜年",
@@ -1891,6 +1939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 9794,
+      "num": 178593,
+      "word": "不婚时髦小姨成过年新人设",
+      "onboard_time": 1737873558,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 8933,
       "num": 61517,
       "word": "用非遗剪纸打开城市地标",
@@ -1900,7 +1956,7 @@
     },
     {
       "raw_hot": 4801,
-      "num": 158656,
+      "num": 162236,
       "word": "游戏的世界不能没有小孩哥",
       "onboard_time": 1737870077,
       "rank": 28,
