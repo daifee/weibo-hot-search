@@ -1,6 +1,6 @@
 {
   "startTime": 1737908665249,
-  "endTime": 1737923707064,
+  "endTime": 1737926369291,
   "band_list": [
     {
       "raw_hot": 2273172,
@@ -411,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76704,
+      "num": 19422,
+      "word": "演员大锁发文称别洗白了",
+      "onboard_time": 1737921970,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 76561,
       "num": 76561,
       "word": "文淇 论文给我去死",
@@ -507,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 41913,
+      "num": 41913,
+      "word": "8岁失踪女童亲友发声",
+      "onboard_time": 1737922812,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39043,
       "num": 708733,
       "word": "五十六个民族各有各的特色年味儿",
@@ -529,14 +545,6 @@
       "onboard_time": 1737912554,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 33673,
-      "num": 19422,
-      "word": "演员大锁发文称别洗白了",
-      "onboard_time": 1737921970,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 32208,
@@ -563,20 +571,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 20096,
+      "num": 20096,
+      "word": "无忧传媒称黄某视频陈述有夸张误导",
+      "onboard_time": 1737924672,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 17804,
       "num": 52610,
       "word": "山东舰00后女兵是飞行员另一双眼睛",
       "onboard_time": 1737918132,
       "rank": 9,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 16857,
-      "num": 16857,
-      "word": "8岁失踪女童亲友发声",
-      "onboard_time": 1737922812,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16393,
@@ -595,12 +603,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 11442,
+      "raw_hot": 11803,
       "num": 33064,
       "word": "雨雪回家路上有交警带道的安全感",
       "onboard_time": 1737922211,
       "rank": 11,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 11605,
+      "num": 20134,
+      "word": "微视频温暖瞬间",
+      "onboard_time": 1737924432,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 11373,
@@ -609,6 +625,14 @@
       "onboard_time": 1737916274,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10823,
+      "num": 18140,
+      "word": "这是一份数十万吨的硬核拜年",
+      "onboard_time": 1737924132,
+      "rank": 32,
+      "category": "军事"
     },
     {
       "raw_hot": 9770,
