@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1737926369291,
+  "endTime": 1737927324415,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -3051,6 +3051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93291,
+      "num": 28694,
+      "word": "演员大锁发文称别洗白了",
+      "onboard_time": 1737921970,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91699,
       "num": 91699,
       "word": "DeepSeek为何震动美国科技界",
@@ -3273,14 +3281,6 @@
       "onboard_time": 1737817163,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 76704,
-      "num": 19422,
-      "word": "演员大锁发文称别洗白了",
-      "onboard_time": 1737921970,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 76402,
@@ -3667,20 +3667,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44383,
+      "num": 44383,
+      "word": "8岁失踪女童亲友发声",
+      "onboard_time": 1737922812,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43509,
       "num": 193444,
       "word": "美国已使用军机驱逐数百非法移民",
       "onboard_time": 1737882440,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 41913,
-      "num": 41913,
-      "word": "8岁失踪女童亲友发声",
-      "onboard_time": 1737922812,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 41513,
@@ -3817,6 +3817,14 @@
       "onboard_time": 1737889638,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31758,
+      "num": 27154,
+      "word": "无忧传媒称黄某视频陈述有夸张误导",
+      "onboard_time": 1737924672,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 31431,
@@ -3995,14 +4003,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 20096,
-      "num": 20096,
-      "word": "无忧传媒称黄某视频陈述有夸张误导",
-      "onboard_time": 1737924672,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 19575,
       "num": 25244,
       "word": "曼城vs切尔西",
@@ -4099,7 +4099,7 @@
       "category": "美食"
     },
     {
-      "raw_hot": 11803,
+      "raw_hot": 12587,
       "num": 33064,
       "word": "雨雪回家路上有交警带道的安全感",
       "onboard_time": 1737922211,
@@ -4121,6 +4121,14 @@
       "onboard_time": 1737916274,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10843,
+      "num": 28882,
+      "word": "2025春节档预售票房突破7亿",
+      "onboard_time": 1737926471,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 10823,

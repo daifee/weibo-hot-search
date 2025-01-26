@@ -1,6 +1,6 @@
 {
   "startTime": 1737908665249,
-  "endTime": 1737926369291,
+  "endTime": 1737927324415,
   "band_list": [
     {
       "raw_hot": 2273172,
@@ -315,6 +315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 93291,
+      "num": 28694,
+      "word": "演员大锁发文称别洗白了",
+      "onboard_time": 1737921970,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92502,
       "num": 92502,
       "word": "周深新歌麦田里的摇滚绝美高音",
@@ -408,14 +416,6 @@
       "word": "无忧前员工称张大大工作室常换人",
       "onboard_time": 1737887179,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 76704,
-      "num": 19422,
-      "word": "演员大锁发文称别洗白了",
-      "onboard_time": 1737921970,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -515,8 +515,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 41913,
-      "num": 41913,
+      "raw_hot": 44383,
+      "num": 44383,
       "word": "8岁失踪女童亲友发声",
       "onboard_time": 1737922812,
       "rank": 48,
@@ -555,6 +555,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 31758,
+      "num": 27154,
+      "word": "无忧传媒称黄某视频陈述有夸张误导",
+      "onboard_time": 1737924672,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25041,
       "num": 25041,
       "word": "易烊千玺过塘live十首歌上线",
@@ -569,14 +577,6 @@
       "onboard_time": 1737918732,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 20096,
-      "num": 20096,
-      "word": "无忧传媒称黄某视频陈述有夸张误导",
-      "onboard_time": 1737924672,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 17804,
@@ -603,7 +603,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 11803,
+      "raw_hot": 12587,
       "num": 33064,
       "word": "雨雪回家路上有交警带道的安全感",
       "onboard_time": 1737922211,
@@ -625,6 +625,14 @@
       "onboard_time": 1737916274,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10843,
+      "num": 28882,
+      "word": "2025春节档预售票房突破7亿",
+      "onboard_time": 1737926471,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 10823,
