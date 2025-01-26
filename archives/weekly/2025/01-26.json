@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1737859871175,
+  "endTime": 1737860382301,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -83,6 +83,14 @@
       "category": "艺人,演出"
     },
     {
+      "raw_hot": 634456,
+      "num": 364455,
+      "word": "赵露思坦言有过瘫痪失语症状",
+      "onboard_time": 1737855078,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 626649,
       "num": 626649,
       "word": "微信CallKit",
@@ -115,16 +123,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 534894,
-      "num": 364455,
-      "word": "赵露思坦言有过瘫痪失语症状",
-      "onboard_time": 1737855078,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 513993,
-      "num": 168449,
+      "num": 202506,
       "word": "两男子猥亵5名足浴店女技师被行拘",
       "onboard_time": 1737856938,
       "rank": 22,
@@ -307,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 230976,
+      "num": 230976,
+      "word": "付航直播被卡出素颜",
+      "onboard_time": 1737860357,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 230299,
       "num": 230299,
       "word": "金珉奎摔倒",
@@ -315,20 +323,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 228905,
+      "num": 228905,
+      "word": "徐莹称卞相壹形象遭毁灭性打击",
+      "onboard_time": 1737851717,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220907,
       "num": 220907,
       "word": "杨紫李现好六国色芳华专场收视率",
       "onboard_time": 1737816262,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 218756,
-      "num": 218756,
-      "word": "徐莹称卞相壹形象遭毁灭性打击",
-      "onboard_time": 1737851717,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 216808,
@@ -344,6 +352,14 @@
       "word": "赵露思拐杖",
       "onboard_time": 1737806960,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 209519,
+      "num": 209519,
+      "word": "时代少年团初雪跳有你",
+      "onboard_time": 1737859516,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -387,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168375,
+      "num": 168375,
+      "word": "哪吒2第二支预告",
+      "onboard_time": 1737860357,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 167389,
       "num": 167389,
       "word": "央视新闻专访徐克肖战",
@@ -425,6 +449,14 @@
       "onboard_time": 1737851897,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 154424,
+      "num": 154424,
+      "word": "老板发4000万现金为年会热场",
+      "onboard_time": 1737855557,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153930,
@@ -475,20 +507,20 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 131492,
-      "num": 131492,
-      "word": "时代少年团初雪跳有你",
+      "raw_hot": 133059,
+      "num": 208098,
+      "word": "老封地狱笑话殷寿战绩可查",
       "onboard_time": 1737859516,
-      "rank": 29,
-      "category": "艺人"
+      "rank": 18,
+      "category": "电影"
     },
     {
-      "raw_hot": 128328,
-      "num": 128328,
-      "word": "老板发4000万现金为年会热场",
-      "onboard_time": 1737855557,
+      "raw_hot": 131874,
+      "num": 131874,
+      "word": "科比逝世五周年",
+      "onboard_time": 1737859037,
       "rank": 44,
-      "category": "民生新闻"
+      "category": "体育"
     },
     {
       "raw_hot": 128156,
@@ -563,14 +595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 109856,
-      "num": 194609,
-      "word": "老封地狱笑话殷寿战绩可查",
-      "onboard_time": 1737859516,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 108356,
       "num": 108356,
       "word": "姆巴佩帽子戏法",
@@ -593,6 +617,14 @@
       "onboard_time": 1737851658,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107277,
+      "num": 107277,
+      "word": "刘诗诗最强辅助",
+      "onboard_time": 1737860357,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 106222,
@@ -635,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100963,
+      "num": 100963,
+      "word": "G社生图战神",
+      "onboard_time": 1737859998,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100581,
       "num": 100581,
       "word": "台湾台南5.1级地震",
@@ -667,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96882,
+      "num": 96882,
+      "word": "小朋友扮演飞天小哪吒惊艳全场",
+      "onboard_time": 1737860297,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96376,
       "num": 96376,
       "word": "韩安冉再回应前夫破产",
@@ -681,6 +729,14 @@
       "onboard_time": 1737857718,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 90533,
+      "num": 229439,
+      "word": "北京城区平均降雪0毫米",
+      "onboard_time": 1737859879,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89028,
@@ -699,12 +755,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 86015,
-      "num": 86015,
-      "word": "科比逝世五周年",
-      "onboard_time": 1737859037,
-      "rank": 44,
-      "category": "体育"
+      "raw_hot": 85028,
+      "num": 85028,
+      "word": "萧敬腾一出场雨就变大了",
+      "onboard_time": 1737860357,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 84992,
@@ -716,7 +772,7 @@
     },
     {
       "raw_hot": 84406,
-      "num": 186681,
+      "num": 206822,
       "word": "致敬坚守岗位的每个你",
       "onboard_time": 1737857537,
       "rank": 19,
@@ -777,6 +833,14 @@
       "onboard_time": 1737816742,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72789,
+      "num": 111614,
+      "word": "夫妻各回各家过年做父母的孩子",
+      "onboard_time": 1737860357,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70616,
@@ -915,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26093,
+      "num": 697232,
+      "word": "2025春节假期安全提示",
+      "onboard_time": 1737815362,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26052,
       "num": 108188,
       "word": "宁德时代超茅台成基金最大重仓股",
@@ -961,14 +1033,6 @@
       "onboard_time": 1737830173,
       "rank": 22,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 23062,
-      "num": 697232,
-      "word": "2025春节假期安全提示",
-      "onboard_time": 1737815362,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19575,

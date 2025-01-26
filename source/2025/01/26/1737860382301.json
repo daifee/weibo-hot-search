@@ -1,0 +1,410 @@
+{
+  "runTime": 1737860382301,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 912817,
+        "num": 1146050,
+        "word": "井胧曾因父母职业自卑",
+        "onboard_time": 1737854717,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 423761,
+        "num": 423761,
+        "word": "举报雷军开车直播的网友回应",
+        "onboard_time": 1737847395,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 26093,
+        "num": 371969,
+        "word": "2025春节假期安全提示",
+        "onboard_time": 1737815362,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 363339,
+        "num": 363339,
+        "word": "女子买短乘长高铁霸座被拘",
+        "onboard_time": 1737822079,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316384,
+        "num": 316384,
+        "word": "一句我是警察安全感满满",
+        "onboard_time": 1737857418,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 634456,
+        "num": 313302,
+        "word": "赵露思坦言有过瘫痪失语症状",
+        "onboard_time": 1737855078,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426588,
+        "num": 310118,
+        "word": "孟子义三线谜回拍摄前往柬埔寨",
+        "onboard_time": 1737857958,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302444,
+        "num": 302444,
+        "word": "为什么连续五年没有大年三十",
+        "onboard_time": 1737851658,
+        "rank": 7,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 292027,
+        "num": 292027,
+        "word": "北京的雪",
+        "onboard_time": 1737818361,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272305,
+        "num": 272305,
+        "word": "黄毛毛回应无忧传媒",
+        "onboard_time": 1737851417,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3696263,
+        "num": 261188,
+        "word": "曝张大大杨幂已绝交",
+        "onboard_time": 1737857357,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351751,
+        "num": 249236,
+        "word": "刘耀文颈部印记为痘印",
+        "onboard_time": 1737847454,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236605,
+        "num": 236605,
+        "word": "冷冷冷我冷冷冷",
+        "onboard_time": 1737849557,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230976,
+        "num": 230976,
+        "word": "付航直播被卡出素颜",
+        "onboard_time": 1737860357,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90533,
+        "num": 229439,
+        "word": "北京城区平均降雪0毫米",
+        "onboard_time": 1737859879,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228905,
+        "num": 228905,
+        "word": "徐莹称卞相壹形象遭毁灭性打击",
+        "onboard_time": 1737851717,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223460,
+        "num": 223460,
+        "word": "杨天真40岁生日办告别式",
+        "onboard_time": 1737853456,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209519,
+        "num": 209519,
+        "word": "时代少年团初雪跳有你",
+        "onboard_time": 1737859516,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133059,
+        "num": 208098,
+        "word": "老封地狱笑话殷寿战绩可查",
+        "onboard_time": 1737859516,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 66172,
+        "num": 206822,
+        "word": "致敬坚守岗位的每个你",
+        "onboard_time": 1737857537,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1175305,
+        "num": 206818,
+        "word": "张大大被曝指使社会人士砸门恐吓",
+        "onboard_time": 1737808998,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206719,
+        "num": 206719,
+        "word": "台湾一黑帮头目被枪杀",
+        "onboard_time": 1737851658,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 632216,
+        "num": 205942,
+        "word": "赵露思回应胖了8斤",
+        "onboard_time": 1737851357,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485337,
+        "num": 202506,
+        "word": "两男子猥亵5名足浴店女技师被行拘",
+        "onboard_time": 1737856938,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195055,
+        "num": 195055,
+        "word": "14岁女孩玩挖宝花光母亲14万打工钱",
+        "onboard_time": 1737846374,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168375,
+        "num": 168375,
+        "word": "哪吒2第二支预告",
+        "onboard_time": 1737860357,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160891,
+        "num": 160891,
+        "word": "微信CallKit",
+        "onboard_time": 1737816202,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 154424,
+        "num": 154424,
+        "word": "老板发4000万现金为年会热场",
+        "onboard_time": 1737855557,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151103,
+        "num": 151103,
+        "word": "2月宝宝回家过年十余人等到凌晨",
+        "onboard_time": 1737852498,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141579,
+        "num": 141579,
+        "word": "故宫也下雪了",
+        "onboard_time": 1737852797,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132391,
+        "num": 132391,
+        "word": "射雕英雄传预售仍断层领先",
+        "onboard_time": 1737846374,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131874,
+        "num": 131874,
+        "word": "科比逝世五周年",
+        "onboard_time": 1737859037,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130537,
+        "num": 130537,
+        "word": "海豚吃的饺子皮是鱿鱼",
+        "onboard_time": 1737854478,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128119,
+        "num": 128119,
+        "word": "黄子韬看萱萱爸爸快哭了很心疼",
+        "onboard_time": 1737816623,
+        "rank": 33,
+        "category": "艺人,演出"
+      },
+      {
+        "raw_hot": 114877,
+        "num": 114877,
+        "word": "东北爷爷宠孙女有了新高度",
+        "onboard_time": 1737827894,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 113003,
+        "num": 113003,
+        "word": "网红犬哈礼鹿去世",
+        "onboard_time": 1737851897,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 72789,
+        "num": 111614,
+        "word": "夫妻各回各家过年做父母的孩子",
+        "onboard_time": 1737860357,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111217,
+        "num": 111217,
+        "word": "雷军直播时突然被封",
+        "onboard_time": 1737811641,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 107277,
+        "num": 107277,
+        "word": "刘诗诗最强辅助",
+        "onboard_time": 1737860357,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107213,
+        "num": 107213,
+        "word": "谷爱凌摔倒已不能走路",
+        "onboard_time": 1737800899,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100963,
+        "num": 100963,
+        "word": "G社生图战神",
+        "onboard_time": 1737859998,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99579,
+        "num": 99579,
+        "word": "冬日里的这一幕好温暖",
+        "onboard_time": 1737855618,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97712,
+        "num": 97712,
+        "word": "迪丽热巴设计的项链",
+        "onboard_time": 1737818301,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96882,
+        "num": 96882,
+        "word": "小朋友扮演飞天小哪吒惊艳全场",
+        "onboard_time": 1737860297,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90221,
+        "num": 90221,
+        "word": "网友不买账霸王茶姬评论区致歉",
+        "onboard_time": 1737823156,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 93067,
+        "num": 89683,
+        "word": "电竞选手幻云称网恋被骗流露轻生念头",
+        "onboard_time": 1737821840,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 85028,
+        "num": 85028,
+        "word": "萧敬腾一出场雨就变大了",
+        "onboard_time": 1737860357,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82598,
+        "num": 82598,
+        "word": "女子刮彩票中奖工作人员情绪激动",
+        "onboard_time": 1737815841,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78588,
+        "num": 78588,
+        "word": "寒潮大风多地降温6到10摄氏度",
+        "onboard_time": 1737853097,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79512,
+        "num": 77835,
+        "word": "檀健次一字不错背赵本山小品",
+        "onboard_time": 1737855856,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平春节前夕视察慰问部队#"
+    }
+  }
+}
