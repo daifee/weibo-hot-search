@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1737856721651,
+  "endTime": 1737859871175,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -8,6 +8,14 @@
       "word": "张大大被曝指使社会人士砸门恐吓",
       "onboard_time": 1737808998,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 4140602,
+      "num": 294954,
+      "word": "曝张大大杨幂已绝交",
+      "onboard_time": 1737857357,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -32,6 +40,14 @@
       "word": "张大大被指暴力殴打工作人员",
       "onboard_time": 1737798499,
       "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 987998,
+      "num": 1158079,
+      "word": "井胧曾因父母职业自卑",
+      "onboard_time": 1737854717,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -99,6 +115,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 534894,
+      "num": 364455,
+      "word": "赵露思坦言有过瘫痪失语症状",
+      "onboard_time": 1737855078,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 513993,
+      "num": 168449,
+      "word": "两男子猥亵5名足浴店女技师被行拘",
+      "onboard_time": 1737856938,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 505015,
       "num": 209364,
       "word": "赵露思回应医学奇迹",
@@ -139,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 448460,
+      "num": 336671,
+      "word": "孟子义三线谜回拍摄前往柬埔寨",
+      "onboard_time": 1737857958,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 445756,
       "num": 281918,
       "word": "黄毛毛喊话无忧传媒",
@@ -161,14 +201,6 @@
       "onboard_time": 1737815841,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 414230,
-      "num": 372346,
-      "word": "井胧曾因父母职业自卑",
-      "onboard_time": 1737854717,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 394416,
@@ -195,19 +227,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 328046,
+      "num": 328046,
+      "word": "一句我是警察安全感满满",
+      "onboard_time": 1737857418,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 319619,
       "num": 319619,
       "word": "杨天真40岁生日办告别式",
       "onboard_time": 1737853456,
       "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 315697,
-      "num": 315697,
-      "word": "赵露思坦言有过瘫痪失语症状",
-      "onboard_time": 1737855078,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -291,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218756,
+      "num": 218756,
+      "word": "徐莹称卞相壹形象遭毁灭性打击",
+      "onboard_time": 1737851717,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 216808,
       "num": 216808,
       "word": "故宫也下雪了",
@@ -329,14 +369,6 @@
       "onboard_time": 1737809059,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 186287,
-      "num": 186287,
-      "word": "徐莹称卞相壹形象遭毁灭性打击",
-      "onboard_time": 1737851717,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 177111,
@@ -379,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159848,
+      "num": 159848,
+      "word": "海豚吃的饺子皮是鱿鱼",
+      "onboard_time": 1737854478,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157070,
       "num": 157070,
       "word": "网红犬哈礼鹿去世",
@@ -401,14 +441,6 @@
       "onboard_time": 1737805160,
       "rank": 30,
       "category": "网红"
-    },
-    {
-      "raw_hot": 145662,
-      "num": 145662,
-      "word": "海豚吃的饺子皮是鱿鱼",
-      "onboard_time": 1737854478,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 143318,
@@ -441,6 +473,22 @@
       "onboard_time": 1737827894,
       "rank": 48,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 131492,
+      "num": 131492,
+      "word": "时代少年团初雪跳有你",
+      "onboard_time": 1737859516,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 128328,
+      "num": 128328,
+      "word": "老板发4000万现金为年会热场",
+      "onboard_time": 1737855557,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128156,
@@ -513,6 +561,14 @@
       "onboard_time": 1737810321,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109856,
+      "num": 194609,
+      "word": "老封地狱笑话殷寿战绩可查",
+      "onboard_time": 1737859516,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 108356,
@@ -619,6 +675,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 91699,
+      "num": 91699,
+      "word": "DeepSeek为何震动美国科技界",
+      "onboard_time": 1737857718,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 89028,
       "num": 89028,
       "word": "中国队或退出农心杯",
@@ -627,12 +691,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 87820,
-      "num": 87820,
-      "word": "老板发4000万现金为年会热场",
-      "onboard_time": 1737855557,
+      "raw_hot": 86808,
+      "num": 86808,
+      "word": "檀健次一字不错背赵本山小品",
+      "onboard_time": 1737855856,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 86015,
+      "num": 86015,
+      "word": "科比逝世五周年",
+      "onboard_time": 1737859037,
       "rank": 44,
-      "category": "民生新闻"
+      "category": "体育"
     },
     {
       "raw_hot": 84992,
@@ -641,6 +713,14 @@
       "onboard_time": 1737819440,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 84406,
+      "num": 186681,
+      "word": "致敬坚守岗位的每个你",
+      "onboard_time": 1737857537,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83827,
@@ -705,6 +785,14 @@
       "onboard_time": 1737822618,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69250,
+      "num": 220351,
+      "word": "过年倒计时3天啦",
+      "onboard_time": 1737859097,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68916,
@@ -825,6 +913,14 @@
       "onboard_time": 1737829273,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26052,
+      "num": 108188,
+      "word": "宁德时代超茅台成基金最大重仓股",
+      "onboard_time": 1737852198,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 25449,

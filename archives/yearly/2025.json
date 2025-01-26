@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737856721651,
+  "endTime": 1737859871175,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -335,6 +335,14 @@
       "num": 657974,
       "word": "王星到园区第一天就挨了打",
       "onboard_time": 1736340143,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 4140602,
+      "num": 294954,
+      "word": "曝张大大杨幂已绝交",
+      "onboard_time": 1737857357,
       "rank": 10,
       "category": "艺人"
     },
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736957357,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1575211,
-      "num": 1575211,
-      "word": "黄雅琼宣布退出国家队",
-      "onboard_time": 1735725682,
-      "rank": 1,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
