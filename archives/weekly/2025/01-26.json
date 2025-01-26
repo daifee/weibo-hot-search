@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1737879870363,
+  "endTime": 1737880623228,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -19,7 +19,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1994213,
+      "raw_hot": 2055901,
       "num": 378230,
       "word": "赵露思康复过程公开",
       "onboard_time": 1737875656,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1095554,
+      "num": 296851,
+      "word": "工作人员称说刘亦菲微胖柜姐无恶意",
+      "onboard_time": 1737877577,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1061381,
       "num": 238525,
       "word": "留几手曾说张大大连麦是剧本",
@@ -67,7 +75,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1000800,
+      "raw_hot": 1006989,
       "num": 297862,
       "word": "张大大小黑屋事件",
       "onboard_time": 1737875778,
@@ -147,12 +155,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 729552,
-      "num": 296851,
-      "word": "工作人员称说刘亦菲微胖柜姐无恶意",
-      "onboard_time": 1737877577,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 724525,
+      "num": 336476,
+      "word": "亲生父亲为赌博一万元卖掉儿子",
+      "onboard_time": 1737878417,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 711987,
@@ -201,6 +209,14 @@
       "onboard_time": 1737851658,
       "rank": 3,
       "category": "民生新闻,情感"
+    },
+    {
+      "raw_hot": 598554,
+      "num": 294042,
+      "word": "王子奇",
+      "onboard_time": 1737878358,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 589698,
@@ -267,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 510866,
+      "num": 510866,
+      "word": "中央领导同志看望老同志",
+      "onboard_time": 1737877758,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 505015,
       "num": 209364,
       "word": "赵露思回应医学奇迹",
@@ -297,14 +321,6 @@
       "onboard_time": 1737864498,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 479375,
-      "num": 479375,
-      "word": "中央领导同志看望老同志",
-      "onboard_time": 1737877758,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 473157,
@@ -411,14 +427,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 392836,
-      "num": 294042,
-      "word": "王子奇",
-      "onboard_time": 1737878358,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 389065,
       "num": 389065,
       "word": "夫妻各回各家过年做父母的孩子",
@@ -459,14 +467,6 @@
       "category": "体育,游戏"
     },
     {
-      "raw_hot": 336476,
-      "num": 336476,
-      "word": "亲生父亲为赌博一万元卖掉儿子",
-      "onboard_time": 1737878417,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 333957,
       "num": 233694,
       "word": "网红犬哈礼鹿身上一个褥疮也没有",
@@ -491,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 309094,
+      "num": 309094,
+      "word": "DeepSeek彻底爆发",
+      "onboard_time": 1737876678,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 305395,
       "num": 231107,
       "word": "邓为新剧定档",
@@ -505,14 +513,6 @@
       "onboard_time": 1737811161,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 298886,
-      "num": 298886,
-      "word": "DeepSeek彻底爆发",
-      "onboard_time": 1737876678,
-      "rank": 27,
-      "category": "互联网"
     },
     {
       "raw_hot": 293375,
@@ -536,6 +536,14 @@
       "word": "沈月高至霆8年前vs8年后",
       "onboard_time": 1737868398,
       "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 288129,
+      "num": 235506,
+      "word": "将门独后主演阵容",
+      "onboard_time": 1737878598,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -587,6 +595,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 256619,
+      "num": 246344,
+      "word": "文淇也在被论文折磨",
+      "onboard_time": 1737877698,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256268,
       "num": 188503,
       "word": "六姊妹定档",
@@ -617,14 +633,6 @@
       "onboard_time": 1737871638,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 241008,
-      "num": 246344,
-      "word": "文淇也在被论文折磨",
-      "onboard_time": 1737877698,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 240487,
@@ -659,16 +667,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 235506,
-      "num": 235506,
-      "word": "将门独后主演阵容",
-      "onboard_time": 1737878598,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 234615,
-      "num": 164330,
+      "num": 200974,
       "word": "比尔盖茨说离婚后成了空巢老人",
       "onboard_time": 1737879019,
       "rank": 30,
@@ -843,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192566,
+      "num": 201619,
+      "word": "TOP登陆少年",
+      "onboard_time": 1737879558,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187549,
       "num": 153404,
       "word": "二胎宝妈生产时丈夫还在酒店开房",
@@ -889,6 +897,14 @@
       "onboard_time": 1737874878,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176291,
+      "num": 203284,
+      "word": "女子生完孩子却得知准丈夫已婚",
+      "onboard_time": 1737878899,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175444,
@@ -1067,14 +1083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 150469,
-      "num": 150469,
-      "word": "TOP登陆少年",
-      "onboard_time": 1737879558,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 150272,
       "num": 179760,
       "word": "京东除夕抽奖更壕",
@@ -1105,14 +1113,6 @@
       "onboard_time": 1737869657,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 147954,
-      "num": 147954,
-      "word": "女子生完孩子却得知准丈夫已婚",
-      "onboard_time": 1737878899,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 147951,
@@ -1299,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131463,
+      "num": 131463,
+      "word": "特朗普称或考虑重新加入世卫组织",
+      "onboard_time": 1737879019,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 128156,
       "num": 128156,
       "word": "付航刚坐下3分钟就开始猴化",
@@ -1395,6 +1403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118501,
+      "num": 118501,
+      "word": "法国市长称樊振东是传奇运动员",
+      "onboard_time": 1737878057,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118488,
       "num": 181584,
       "word": "常华森发文告别重昭",
@@ -1409,6 +1425,14 @@
       "onboard_time": 1737868757,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 118162,
+      "num": 118162,
+      "word": "郭晓东郭晓峰为村修路建桥打井",
+      "onboard_time": 1737877337,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 116646,
@@ -1435,20 +1459,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 113642,
+      "num": 113642,
+      "word": "蛇年央视春晚备播录制",
+      "onboard_time": 1737880518,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113639,
       "num": 113639,
       "word": "2025KPL春季赛大名单",
       "onboard_time": 1737862878,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 113397,
-      "num": 113397,
-      "word": "郭晓东郭晓峰为村修路建桥打井",
-      "onboard_time": 1737877337,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 111465,
@@ -1491,12 +1515,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 109483,
-      "num": 109483,
-      "word": "特朗普称或考虑重新加入世卫组织",
-      "onboard_time": 1737879019,
-      "rank": 42,
-      "category": "国际时政"
+      "raw_hot": 110137,
+      "num": 110137,
+      "word": "文淇 论文给我去死",
+      "onboard_time": 1737880578,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 109011,
+      "num": 298502,
+      "word": "广东韶关气温断崖下跌",
+      "onboard_time": 1737878538,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108513,
@@ -1555,14 +1587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 107242,
-      "num": 107242,
-      "word": "法国市长称樊振东是传奇运动员",
-      "onboard_time": 1737878057,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 107013,
       "num": 107013,
       "word": "过年很忙",
@@ -1617,6 +1641,14 @@
       "onboard_time": 1737862818,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102757,
+      "num": 102757,
+      "word": "A股春节前最后一个交易日",
+      "onboard_time": 1737879979,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 102473,
@@ -1753,14 +1785,6 @@
       "onboard_time": 1737857718,
       "rank": 40,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 89742,
-      "num": 298502,
-      "word": "广东韶关气温断崖下跌",
-      "onboard_time": 1737878538,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89028,
@@ -2011,6 +2035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58660,
+      "num": 202804,
+      "word": "辽宁东部局地有大暴雪",
+      "onboard_time": 1737877698,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57873,
       "num": 134510,
       "word": "夫胜宽为文彬庆冥诞",
@@ -2051,6 +2083,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55555,
+      "num": 295430,
+      "word": "春节去哪玩才能避免人挤人",
+      "onboard_time": 1737879198,
+      "rank": 13,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 54297,
+      "num": 201064,
+      "word": "幻云称网恋两个月被骗20多万元",
+      "onboard_time": 1737880098,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 52993,
       "num": 52993,
       "word": "河南暴雪亲历者发声",
@@ -2083,6 +2131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 46613,
+      "num": 407332,
+      "word": "拜年有哪些大讲究",
+      "onboard_time": 1737879137,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46129,
       "num": 64671,
       "word": "俱乐部已找到电竞选手幻云本人",
@@ -2099,20 +2155,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 44972,
-      "num": 407332,
-      "word": "拜年有哪些大讲究",
-      "onboard_time": 1737879137,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40576,
       "num": 133978,
       "word": "封神感谢荣誉出品人特别视频",
       "onboard_time": 1737874458,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 39288,
+      "num": 182548,
+      "word": "以军向试图回家的加沙民众开火",
+      "onboard_time": 1737879137,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 39248,
@@ -2155,20 +2211,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32183,
+      "num": 202947,
+      "word": "陕西多条高速路因暴雪管制有车主被困",
+      "onboard_time": 1737880037,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31431,
       "num": 186146,
       "word": "广东人专属的新年仪式感",
       "onboard_time": 1737868218,
       "rank": 19,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 30643,
-      "num": 165048,
-      "word": "以军向试图回家的加沙民众开火",
-      "onboard_time": 1737879137,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 28618,
@@ -2185,14 +2241,6 @@
       "onboard_time": 1737829273,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 27384,
-      "num": 295430,
-      "word": "春节去哪玩才能避免人挤人",
-      "onboard_time": 1737879198,
-      "rank": 13,
-      "category": "旅游"
     },
     {
       "raw_hot": 26093,
@@ -2283,20 +2331,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18834,
+      "num": 117787,
+      "word": "漆扇的风还是吹到了墨尔本",
+      "onboard_time": 1737876798,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 18802,
       "num": 21761,
       "word": "爱尔兰遭遇每小时183公里风暴",
       "onboard_time": 1737834551,
       "rank": 34,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 18370,
-      "num": 117787,
-      "word": "漆扇的风还是吹到了墨尔本",
-      "onboard_time": 1737876798,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 17772,

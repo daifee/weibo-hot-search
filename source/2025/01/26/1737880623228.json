@@ -1,0 +1,410 @@
+{
+  "runTime": 1737880623228,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 577635,
+        "num": 1092421,
+        "word": "无忧传媒签约主播达人超10万人",
+        "onboard_time": 1737874698,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 510866,
+        "num": 510866,
+        "word": "中央领导同志看望老同志",
+        "onboard_time": 1737877758,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 46613,
+        "num": 314437,
+        "word": "拜年有哪些大讲究",
+        "onboard_time": 1737879137,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2055901,
+        "num": 312722,
+        "word": "赵露思康复过程公开",
+        "onboard_time": 1737875656,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309094,
+        "num": 309094,
+        "word": "DeepSeek彻底爆发",
+        "onboard_time": 1737876678,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 279757,
+        "num": 279757,
+        "word": "男子过年被催婚一句话让亲戚沉默",
+        "onboard_time": 1737865338,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 598554,
+        "num": 255190,
+        "word": "王子奇",
+        "onboard_time": 1737878358,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475433,
+        "num": 249804,
+        "word": "南京一柜姐评论刘亦菲微胖被辞退",
+        "onboard_time": 1737861438,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203352,
+        "num": 203352,
+        "word": "女子行李丢失男子追100公里归还",
+        "onboard_time": 1737873919,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 176291,
+        "num": 203284,
+        "word": "女子生完孩子却得知准丈夫已婚",
+        "onboard_time": 1737878899,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1006989,
+        "num": 203199,
+        "word": "张大大小黑屋事件",
+        "onboard_time": 1737875778,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32183,
+        "num": 202947,
+        "word": "陕西多条高速路因暴雪管制有车主被困",
+        "onboard_time": 1737880037,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58660,
+        "num": 202804,
+        "word": "辽宁东部局地有大暴雪",
+        "onboard_time": 1737877698,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55555,
+        "num": 202645,
+        "word": "春节去哪玩才能避免人挤人",
+        "onboard_time": 1737879198,
+        "rank": 13,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 49612,
+        "num": 202476,
+        "word": "封神主创集结为大家送福",
+        "onboard_time": 1737878477,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174064,
+        "num": 202423,
+        "word": "菲律宾船从中国海警船前横穿",
+        "onboard_time": 1737870798,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 724525,
+        "num": 202184,
+        "word": "亲生父亲为赌博一万元卖掉儿子",
+        "onboard_time": 1737878417,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1095554,
+        "num": 202156,
+        "word": "工作人员称说刘亦菲微胖柜姐无恶意",
+        "onboard_time": 1737877577,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390937,
+        "num": 201891,
+        "word": "王嘉尔突发胸痛住院",
+        "onboard_time": 1737870258,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333943,
+        "num": 201865,
+        "word": "不婚时髦小姨成过年新人设",
+        "onboard_time": 1737873558,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192566,
+        "num": 201619,
+        "word": "TOP登陆少年",
+        "onboard_time": 1737879558,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1036654,
+        "num": 201488,
+        "word": "曝张大大杨幂已绝交",
+        "onboard_time": 1737857357,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288129,
+        "num": 201366,
+        "word": "将门独后主演阵容",
+        "onboard_time": 1737878598,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256619,
+        "num": 201216,
+        "word": "文淇也在被论文折磨",
+        "onboard_time": 1737877698,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54297,
+        "num": 201064,
+        "word": "幻云称网恋两个月被骗20多万元",
+        "onboard_time": 1737880098,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 231893,
+        "num": 200974,
+        "word": "比尔盖茨说离婚后成了空巢老人",
+        "onboard_time": 1737879019,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 219088,
+        "num": 200725,
+        "word": "毛不易上春晚嘴真严啊",
+        "onboard_time": 1737877157,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200717,
+        "num": 200717,
+        "word": "周杰伦瘦好多",
+        "onboard_time": 1737873018,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194407,
+        "num": 194407,
+        "word": "2025春节档预售票房破6亿",
+        "onboard_time": 1737867378,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 39288,
+        "num": 182548,
+        "word": "以军向试图回家的加沙民众开火",
+        "onboard_time": 1737879137,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 177789,
+        "num": 177789,
+        "word": "台湾一男子夜市上用竹签刺游客臀部",
+        "onboard_time": 1737874158,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169406,
+        "num": 169406,
+        "word": "赵露思最初以为是鸡蛋过敏",
+        "onboard_time": 1737864498,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161763,
+        "num": 161763,
+        "word": "女子产后遭第三者到医院挑衅",
+        "onboard_time": 1737867497,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159933,
+        "num": 159933,
+        "word": "Jasper在陈小春家学历最高",
+        "onboard_time": 1737870379,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143166,
+        "num": 143166,
+        "word": "幻云",
+        "onboard_time": 1737879259,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115044,
+        "num": 134158,
+        "word": "这届网友看电影就是图个吉利",
+        "onboard_time": 1737879259,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131463,
+        "num": 131463,
+        "word": "特朗普称或考虑重新加入世卫组织",
+        "onboard_time": 1737879019,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128421,
+        "num": 128421,
+        "word": "网红犬哈礼鹿身上一个褥疮也没有",
+        "onboard_time": 1737868579,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125639,
+        "num": 125639,
+        "word": "黄毛毛",
+        "onboard_time": 1737874339,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118501,
+        "num": 118501,
+        "word": "法国市长称樊振东是传奇运动员",
+        "onboard_time": 1737878057,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118162,
+        "num": 118162,
+        "word": "郭晓东郭晓峰为村修路建桥打井",
+        "onboard_time": 1737877337,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115241,
+        "num": 115241,
+        "word": "杨紫李现秒变吃瓜群众",
+        "onboard_time": 1737878057,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113642,
+        "num": 113642,
+        "word": "蛇年央视春晚备播录制",
+        "onboard_time": 1737880518,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110882,
+        "num": 110882,
+        "word": "云南8岁女童雪山失踪已超6天",
+        "onboard_time": 1737871638,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110137,
+        "num": 110137,
+        "word": "文淇 论文给我去死",
+        "onboard_time": 1737880578,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110089,
+        "num": 110089,
+        "word": "广东冷出了冰挂雾凇",
+        "onboard_time": 1737876317,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109011,
+        "num": 109011,
+        "word": "广东韶关气温断崖下跌",
+        "onboard_time": 1737878538,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106896,
+        "num": 106896,
+        "word": "王冰冰首部古装剧定档",
+        "onboard_time": 1737862158,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102757,
+        "num": 102757,
+        "word": "A股春节前最后一个交易日",
+        "onboard_time": 1737879979,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 18834,
+        "num": 100516,
+        "word": "漆扇的风还是吹到了墨尔本",
+        "onboard_time": 1737876798,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平与人民在一起的温暖瞬间#"
+    }
+  }
+}
