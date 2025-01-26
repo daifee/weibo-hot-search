@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1737897780465,
+  "endTime": 1737898503913,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -43,19 +43,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2046246,
+      "num": 1860006,
+      "word": "张某某将可能涉嫌多项罪名",
+      "onboard_time": 1737895639,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1943989,
       "num": 1943989,
       "word": "南京一柜姐评论刘亦菲微胖被辞退",
       "onboard_time": 1737861438,
       "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1860006,
-      "num": 1860006,
-      "word": "张某某将可能涉嫌多项罪名",
-      "onboard_time": 1737895639,
-      "rank": 17,
       "category": "艺人"
     },
     {
@@ -171,6 +171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 915464,
+      "num": 410521,
+      "word": "柯洁直播哭了",
+      "onboard_time": 1737895579,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 911735,
       "num": 940947,
       "word": "起底张大大背后的mcn公司",
@@ -225,6 +233,14 @@
       "onboard_time": 1737811641,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 797726,
+      "num": 1127636,
+      "word": "毛利兰从青梅竹马变女朋友",
+      "onboard_time": 1737894979,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 783827,
@@ -307,14 +323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 629981,
-      "num": 410521,
-      "word": "柯洁直播哭了",
-      "onboard_time": 1737895579,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 626649,
       "num": 626649,
       "word": "微信CallKit",
@@ -345,14 +353,6 @@
       "onboard_time": 1737822079,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 582203,
-      "num": 582203,
-      "word": "毛利兰从青梅竹马变女朋友",
-      "onboard_time": 1737894979,
-      "rank": 47,
-      "category": "动漫"
     },
     {
       "raw_hot": 554633,
@@ -579,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 420478,
+      "num": 324667,
+      "word": "王嘉尔正在住院接受治疗",
+      "onboard_time": 1737897558,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 416771,
       "num": 384509,
       "word": "特朗普与洛杉矶市长爆发争吵",
@@ -659,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 382511,
+      "num": 356504,
+      "word": "张泉灵大赞赵丽颖",
+      "onboard_time": 1737894379,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 375150,
       "num": 375150,
       "word": "幻云",
@@ -681,14 +697,6 @@
       "onboard_time": 1737867798,
       "rank": 9,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 356504,
-      "num": 356504,
-      "word": "张泉灵大赞赵丽颖",
-      "onboard_time": 1737894379,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 353264,
@@ -737,6 +745,14 @@
       "onboard_time": 1737868579,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 333144,
+      "num": 201975,
+      "word": "张杰直播",
+      "onboard_time": 1737897739,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 332612,
@@ -835,6 +851,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 286445,
+      "num": 286445,
+      "word": "柯洁回应决赛事件",
+      "onboard_time": 1737895998,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 285759,
       "num": 285759,
       "word": "网友不买账霸王茶姬评论区致歉",
@@ -851,14 +875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 283128,
-      "num": 283128,
-      "word": "柯洁回应决赛事件",
-      "onboard_time": 1737895998,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 277601,
       "num": 277601,
       "word": "特朗普称或考虑重新加入世卫组织",
@@ -873,6 +889,14 @@
       "onboard_time": 1737846374,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 273005,
+      "num": 207575,
+      "word": "杨丽萍蛇舞",
+      "onboard_time": 1737895158,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 271196,
@@ -931,7 +955,7 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 261852,
+      "raw_hot": 262144,
       "num": 221463,
       "word": "成龙Sana李马克同框",
       "onboard_time": 1737894558,
@@ -1043,14 +1067,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 227969,
-      "num": 207575,
-      "word": "杨丽萍蛇舞",
-      "onboard_time": 1737895158,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 227816,
       "num": 288579,
       "word": "射雕英雄传预售票房突破2.5亿",
@@ -1121,6 +1137,14 @@
       "onboard_time": 1737852797,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213663,
+      "num": 188548,
+      "word": "高度近视最有效的化妆方法",
+      "onboard_time": 1737896181,
+      "rank": 32,
+      "category": "美妆"
     },
     {
       "raw_hot": 209948,
@@ -1209,14 +1233,6 @@
       "onboard_time": 1737888498,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 200261,
-      "num": 188548,
-      "word": "高度近视最有效的化妆方法",
-      "onboard_time": 1737896181,
-      "rank": 32,
-      "category": "美妆"
     },
     {
       "raw_hot": 198990,
@@ -1459,6 +1475,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 168291,
+      "num": 168291,
+      "word": "魔芋爽拌黄瓜",
+      "onboard_time": 1737896839,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 167389,
       "num": 167389,
       "word": "央视新闻专访徐克肖战",
@@ -1481,6 +1505,14 @@
       "onboard_time": 1737865219,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165990,
+      "num": 165990,
+      "word": "胡杏儿三个儿子近照",
+      "onboard_time": 1737897081,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 165875,
@@ -1555,14 +1587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 158872,
-      "num": 158872,
-      "word": "胡杏儿三个儿子近照",
-      "onboard_time": 1737897081,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 158458,
       "num": 345318,
       "word": "马龙说国乒强大是集体的力量和智慧",
@@ -1593,14 +1617,6 @@
       "onboard_time": 1737885618,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 156335,
-      "num": 211671,
-      "word": "王嘉尔正在住院接受治疗",
-      "onboard_time": 1737897558,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 154432,
@@ -1691,6 +1707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148392,
+      "num": 148392,
+      "word": "小S小女儿晒自拍",
+      "onboard_time": 1737897920,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147975,
       "num": 167225,
       "word": "妈妈带白血病女儿到理发店剃光头",
@@ -1739,7 +1763,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 144701,
+      "raw_hot": 144874,
       "num": 211040,
       "word": "樊振东等自动入围多哈世乒赛",
       "onboard_time": 1737895698,
@@ -1859,6 +1883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137040,
+      "num": 137040,
+      "word": "吴磊春晚彩排风衣造型",
+      "onboard_time": 1737897680,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136082,
       "num": 110402,
       "word": "肖战练武术画面曝光",
@@ -1963,14 +1995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 130239,
-      "num": 154318,
-      "word": "魔芋爽拌黄瓜",
-      "onboard_time": 1737896839,
-      "rank": 39,
-      "category": "美食"
-    },
-    {
       "raw_hot": 128156,
       "num": 128156,
       "word": "付航刚坐下3分钟就开始猴化",
@@ -1985,14 +2009,6 @@
       "onboard_time": 1737877337,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 126166,
-      "num": 126166,
-      "word": "张杰直播",
-      "onboard_time": 1737897739,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 125329,
@@ -2051,12 +2067,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 123370,
-      "num": 123370,
-      "word": "吴磊春晚彩排风衣造型",
-      "onboard_time": 1737897680,
-      "rank": 46,
-      "category": "综艺"
+      "raw_hot": 121997,
+      "num": 121997,
+      "word": "成龙澳网再现招牌动作",
+      "onboard_time": 1737897199,
+      "rank": 45,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 121950,
@@ -2643,6 +2659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87534,
+      "num": 167787,
+      "word": "马龙的这份提醒很有意义",
+      "onboard_time": 1737894678,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86854,
       "num": 183635,
       "word": "偶遇王俊凯巴黎吃粤菜",
@@ -3019,6 +3043,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 55427,
+      "num": 217415,
+      "word": "视障女孩被接力护送说了183个谢谢",
+      "onboard_time": 1737896961,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52993,
       "num": 52993,
       "word": "河南暴雪亲历者发声",
@@ -3113,6 +3145,14 @@
       "onboard_time": 1737874458,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 40339,
+      "num": 168283,
+      "word": "刘宇宁直播",
+      "onboard_time": 1737897860,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 39288,
@@ -3243,14 +3283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 28063,
-      "num": 217415,
-      "word": "视障女孩被接力护送说了183个谢谢",
-      "onboard_time": 1737896961,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26948,
       "num": 122788,
       "word": "中式甜品才是浪漫的最高级",
@@ -3363,6 +3395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20264,
+      "num": 196507,
+      "word": "刘晓庆说我是拍立淘女孩",
+      "onboard_time": 1737896660,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 19575,
       "num": 25244,
       "word": "曼城vs切尔西",
@@ -3417,14 +3457,6 @@
       "onboard_time": 1737876317,
       "rank": 45,
       "category": "美食"
-    },
-    {
-      "raw_hot": 11448,
-      "num": 196507,
-      "word": "刘晓庆说我是拍立淘女孩",
-      "onboard_time": 1737896660,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 10161,
