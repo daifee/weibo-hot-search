@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737876972617,
+  "endTime": 1737879870363,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1411,6 +1411,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1994213,
+      "num": 378230,
+      "word": "赵露思康复过程公开",
+      "onboard_time": 1737875656,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1990564,
       "num": 1990564,
       "word": "李冰冰赵丽颖手牵手",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736756061,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1581697,
-      "num": 616727,
-      "word": "李小冉评论区",
-      "onboard_time": 1736836819,
-      "rank": 36,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1737876972617,
+  "endTime": 1737879870363,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -16,6 +16,14 @@
       "word": "曝张大大杨幂已绝交",
       "onboard_time": 1737857357,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1994213,
+      "num": 378230,
+      "word": "赵露思康复过程公开",
+      "onboard_time": 1737875656,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -43,14 +51,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1167905,
-      "num": 326395,
-      "word": "赵露思康复过程公开",
-      "onboard_time": 1737875656,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1061381,
       "num": 238525,
       "word": "留几手曾说张大大连麦是剧本",
@@ -64,6 +64,14 @@
       "word": "张大大被指暴力殴打工作人员",
       "onboard_time": 1737798499,
       "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1000800,
+      "num": 297862,
+      "word": "张大大小黑屋事件",
+      "onboard_time": 1737875778,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -139,12 +147,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 729552,
+      "num": 296851,
+      "word": "工作人员称说刘亦菲微胖柜姐无恶意",
+      "onboard_time": 1737877577,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 711987,
       "num": 245185,
       "word": "宝马已在还贷车主无法提车",
       "onboard_time": 1737863118,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 694794,
+      "num": 1111167,
+      "word": "无忧传媒签约主播达人超10万人",
+      "onboard_time": 1737874698,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 650358,
@@ -259,16 +283,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 503534,
-      "num": 503534,
-      "word": "无忧传媒签约主播达人超10万人",
-      "onboard_time": 1737874698,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 499661,
-      "num": 202639,
+      "num": 296202,
       "word": "不婚时髦小姨成过年新人设",
       "onboard_time": 1737873558,
       "rank": 28,
@@ -281,6 +297,14 @@
       "onboard_time": 1737864498,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 479375,
+      "num": 479375,
+      "word": "中央领导同志看望老同志",
+      "onboard_time": 1737877758,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 473157,
@@ -340,7 +364,7 @@
     },
     {
       "raw_hot": 422381,
-      "num": 204815,
+      "num": 241763,
       "word": "周杰伦瘦好多",
       "onboard_time": 1737873018,
       "rank": 33,
@@ -387,6 +411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 392836,
+      "num": 294042,
+      "word": "王子奇",
+      "onboard_time": 1737878358,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 389065,
       "num": 389065,
       "word": "夫妻各回各家过年做父母的孩子",
@@ -427,20 +459,20 @@
       "category": "体育,游戏"
     },
     {
+      "raw_hot": 336476,
+      "num": 336476,
+      "word": "亲生父亲为赌博一万元卖掉儿子",
+      "onboard_time": 1737878417,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 333957,
       "num": 233694,
       "word": "网红犬哈礼鹿身上一个褥疮也没有",
       "onboard_time": 1737868579,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 332650,
-      "num": 176266,
-      "word": "张大大小黑屋事件",
-      "onboard_time": 1737875778,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 328046,
@@ -475,6 +507,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 298886,
+      "num": 298886,
+      "word": "DeepSeek彻底爆发",
+      "onboard_time": 1737876678,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 293375,
+      "num": 293375,
+      "word": "女子行李丢失男子追100公里归还",
+      "onboard_time": 1737873919,
+      "rank": 8,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 292632,
       "num": 292632,
       "word": "这火车怎么蛇里蛇气的",
@@ -500,7 +548,7 @@
     },
     {
       "raw_hot": 284216,
-      "num": 190185,
+      "num": 227967,
       "word": "台湾一男子夜市上用竹签刺游客臀部",
       "onboard_time": 1737874158,
       "rank": 21,
@@ -571,6 +619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 241008,
+      "num": 246344,
+      "word": "文淇也在被论文折磨",
+      "onboard_time": 1737877698,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240487,
       "num": 204626,
       "word": "节目组 麦琳身世",
@@ -595,12 +651,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 236898,
-      "num": 236898,
-      "word": "女子行李丢失男子追100公里归还",
-      "onboard_time": 1737873919,
-      "rank": 8,
-      "category": "正能量"
+      "raw_hot": 237875,
+      "num": 237875,
+      "word": "毛不易上春晚嘴真严啊",
+      "onboard_time": 1737877157,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 235506,
+      "num": 235506,
+      "word": "将门独后主演阵容",
+      "onboard_time": 1737878598,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 234615,
+      "num": 164330,
+      "word": "比尔盖茨说离婚后成了空巢老人",
+      "onboard_time": 1737879019,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 230299,
@@ -907,6 +979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161192,
+      "num": 161192,
+      "word": "黄毛毛",
+      "onboard_time": 1737874339,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159848,
       "num": 159848,
       "word": "海豚吃的饺子皮是鱿鱼",
@@ -923,12 +1003,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 159456,
-      "num": 159456,
-      "word": "黄毛毛",
-      "onboard_time": 1737874339,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 157855,
+      "num": 269090,
+      "word": "这届网友看电影就是图个吉利",
+      "onboard_time": 1737879259,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 157070,
@@ -937,6 +1017,14 @@
       "onboard_time": 1737851897,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 156768,
+      "num": 156768,
+      "word": "幻云",
+      "onboard_time": 1737804620,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 154432,
@@ -979,6 +1067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150469,
+      "num": 150469,
+      "word": "TOP登陆少年",
+      "onboard_time": 1737879558,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150272,
       "num": 179760,
       "word": "京东除夕抽奖更壕",
@@ -1003,20 +1099,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148334,
-      "num": 148334,
-      "word": "DeepSeek彻底爆发",
-      "onboard_time": 1737876678,
-      "rank": 27,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 147975,
       "num": 167225,
       "word": "妈妈带白血病女儿到理发店剃光头",
       "onboard_time": 1737869657,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 147954,
+      "num": 147954,
+      "word": "女子生完孩子却得知准丈夫已婚",
+      "onboard_time": 1737878899,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147951,
@@ -1144,6 +1240,14 @@
       "word": "刘诗诗最强辅助",
       "onboard_time": 1737860357,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 134951,
+      "num": 134951,
+      "word": "杨紫李现秒变吃瓜群众",
+      "onboard_time": 1737878057,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -1307,6 +1411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 116646,
+      "num": 172044,
+      "word": "广东冷出了冰挂雾凇",
+      "onboard_time": 1737876317,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116087,
       "num": 116087,
       "word": "王星越回应卢昱晓",
@@ -1329,6 +1441,14 @@
       "onboard_time": 1737862878,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 113397,
+      "num": 113397,
+      "word": "郭晓东郭晓峰为村修路建桥打井",
+      "onboard_time": 1737877337,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 111465,
@@ -1371,6 +1491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109483,
+      "num": 109483,
+      "word": "特朗普称或考虑重新加入世卫组织",
+      "onboard_time": 1737879019,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 108513,
       "num": 108513,
       "word": "黄毛毛连发三个谢谢贵司",
@@ -1403,6 +1531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 107743,
+      "num": 107743,
+      "word": "旅美大熊猫宝力青宝珍贵画面",
+      "onboard_time": 1737879499,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107615,
       "num": 107615,
       "word": "禁令或使卞相壹损失近100万",
@@ -1417,6 +1553,14 @@
       "onboard_time": 1737860597,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107242,
+      "num": 107242,
+      "word": "法国市长称樊振东是传奇运动员",
+      "onboard_time": 1737878057,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 107013,
@@ -1475,14 +1619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 102638,
-      "num": 102638,
-      "word": "幻云",
-      "onboard_time": 1737804620,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 102473,
       "num": 102473,
       "word": "大奉打更人",
@@ -1529,14 +1665,6 @@
       "onboard_time": 1737867559,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 99384,
-      "num": 172044,
-      "word": "广东冷出了冰挂雾凇",
-      "onboard_time": 1737876317,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99092,
@@ -1625,6 +1753,14 @@
       "onboard_time": 1737857718,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 89742,
+      "num": 298502,
+      "word": "广东韶关气温断崖下跌",
+      "onboard_time": 1737878538,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89028,
@@ -1907,6 +2043,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 56018,
+      "num": 230868,
+      "word": "浓眉36分",
+      "onboard_time": 1737879379,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52993,
       "num": 52993,
       "word": "河南暴雪亲历者发声",
@@ -1931,6 +2075,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 49845,
+      "num": 294491,
+      "word": "封神主创集结为大家送福",
+      "onboard_time": 1737878477,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 46129,
       "num": 64671,
       "word": "俱乐部已找到电竞选手幻云本人",
@@ -1944,6 +2096,14 @@
       "word": "年轻人意识到健康比赚钱更加重要",
       "onboard_time": 1737846674,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44972,
+      "num": 407332,
+      "word": "拜年有哪些大讲究",
+      "onboard_time": 1737879137,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -2003,6 +2163,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 30643,
+      "num": 165048,
+      "word": "以军向试图回家的加沙民众开火",
+      "onboard_time": 1737879137,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 28618,
       "num": 180315,
       "word": "反向驯化大数据杀熟真的有用吗",
@@ -2017,6 +2185,14 @@
       "onboard_time": 1737829273,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 27384,
+      "num": 295430,
+      "word": "春节去哪玩才能避免人挤人",
+      "onboard_time": 1737879198,
+      "rank": 13,
+      "category": "旅游"
     },
     {
       "raw_hot": 26093,
@@ -2115,6 +2291,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 18370,
+      "num": 117787,
+      "word": "漆扇的风还是吹到了墨尔本",
+      "onboard_time": 1737876798,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 17772,
       "num": 58142,
       "word": "确保全国人民过一个欢乐安宁祥和的春节",
@@ -2131,20 +2315,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13449,
+      "raw_hot": 14803,
       "num": 107194,
       "word": "吃华莱士真能刮出好东西",
       "onboard_time": 1737876317,
       "rank": 45,
       "category": "美食"
-    },
-    {
-      "raw_hot": 10655,
-      "num": 108103,
-      "word": "漆扇的风还是吹到了墨尔本",
-      "onboard_time": 1737876798,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 10161,
@@ -2191,6 +2367,9 @@
     },
     {
       "word": "#城市更新要因地制宜#"
+    },
+    {
+      "word": "#习近平与人民在一起的温暖瞬间#"
     }
   ]
 }

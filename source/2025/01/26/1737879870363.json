@@ -1,0 +1,410 @@
+{
+  "runTime": 1737879870363,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 694794,
+        "num": 1111167,
+        "word": "无忧传媒签约主播达人超10万人",
+        "onboard_time": 1737874698,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479375,
+        "num": 479375,
+        "word": "中央领导同志看望老同志",
+        "onboard_time": 1737877758,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 44972,
+        "num": 407332,
+        "word": "拜年有哪些大讲究",
+        "onboard_time": 1737879137,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1994213,
+        "num": 378230,
+        "word": "赵露思康复过程公开",
+        "onboard_time": 1737875656,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336476,
+        "num": 336476,
+        "word": "亲生父亲为赌博一万元卖掉儿子",
+        "onboard_time": 1737878417,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302329,
+        "num": 302329,
+        "word": "男子过年被催婚一句话让亲戚沉默",
+        "onboard_time": 1737865338,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 529329,
+        "num": 301538,
+        "word": "南京一柜姐评论刘亦菲微胖被辞退",
+        "onboard_time": 1737861438,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423201,
+        "num": 301391,
+        "word": "王嘉尔突发胸痛住院",
+        "onboard_time": 1737870258,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298886,
+        "num": 298886,
+        "word": "DeepSeek彻底爆发",
+        "onboard_time": 1737876678,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 89742,
+        "num": 298502,
+        "word": "广东韶关气温断崖下跌",
+        "onboard_time": 1737878538,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1000800,
+        "num": 297862,
+        "word": "张大大小黑屋事件",
+        "onboard_time": 1737875778,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 729552,
+        "num": 296851,
+        "word": "工作人员称说刘亦菲微胖柜姐无恶意",
+        "onboard_time": 1737877577,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439896,
+        "num": 296202,
+        "word": "不婚时髦小姨成过年新人设",
+        "onboard_time": 1737873558,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27384,
+        "num": 295430,
+        "word": "春节去哪玩才能避免人挤人",
+        "onboard_time": 1737879198,
+        "rank": 13,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 49845,
+        "num": 294491,
+        "word": "封神主创集结为大家送福",
+        "onboard_time": 1737878477,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 392836,
+        "num": 294042,
+        "word": "王子奇",
+        "onboard_time": 1737878358,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293375,
+        "num": 293375,
+        "word": "女子行李丢失男子追100公里归还",
+        "onboard_time": 1737873919,
+        "rank": 16,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 157855,
+        "num": 269090,
+        "word": "这届网友看电影就是图个吉利",
+        "onboard_time": 1737879259,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 241008,
+        "num": 246344,
+        "word": "文淇也在被论文折磨",
+        "onboard_time": 1737877698,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245676,
+        "num": 245676,
+        "word": "菲律宾船从中国海警船前横穿",
+        "onboard_time": 1737870798,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1072711,
+        "num": 244911,
+        "word": "曝张大大杨幂已绝交",
+        "onboard_time": 1737857357,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241763,
+        "num": 241763,
+        "word": "周杰伦瘦好多",
+        "onboard_time": 1737873018,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237875,
+        "num": 237875,
+        "word": "毛不易上春晚嘴真严啊",
+        "onboard_time": 1737877157,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235506,
+        "num": 235506,
+        "word": "将门独后主演阵容",
+        "onboard_time": 1737878598,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56018,
+        "num": 230868,
+        "word": "浓眉36分",
+        "onboard_time": 1737879379,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227967,
+        "num": 227967,
+        "word": "台湾一男子夜市上用竹签刺游客臀部",
+        "onboard_time": 1737874158,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201179,
+        "num": 201179,
+        "word": "女子产后遭第三者到医院挑衅",
+        "onboard_time": 1737867497,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192411,
+        "num": 192411,
+        "word": "2025春节档预售票房破6亿",
+        "onboard_time": 1737867378,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186073,
+        "num": 186073,
+        "word": "Jasper在陈小春家学历最高",
+        "onboard_time": 1737870379,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30643,
+        "num": 165048,
+        "word": "以军向试图回家的加沙民众开火",
+        "onboard_time": 1737879137,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 234615,
+        "num": 164330,
+        "word": "比尔盖茨说离婚后成了空巢老人",
+        "onboard_time": 1737879019,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 161192,
+        "num": 161192,
+        "word": "黄毛毛",
+        "onboard_time": 1737874339,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156768,
+        "num": 156768,
+        "word": "幻云",
+        "onboard_time": 1737879259,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150469,
+        "num": 150469,
+        "word": "TOP登陆少年",
+        "onboard_time": 1737879558,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148386,
+        "num": 148386,
+        "word": "赵露思最初以为是鸡蛋过敏",
+        "onboard_time": 1737864498,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147954,
+        "num": 147954,
+        "word": "女子生完孩子却得知准丈夫已婚",
+        "onboard_time": 1737878899,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147534,
+        "num": 147534,
+        "word": "网红犬哈礼鹿身上一个褥疮也没有",
+        "onboard_time": 1737868579,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134951,
+        "num": 134951,
+        "word": "杨紫李现秒变吃瓜群众",
+        "onboard_time": 1737878057,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18370,
+        "num": 117787,
+        "word": "漆扇的风还是吹到了墨尔本",
+        "onboard_time": 1737876798,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116646,
+        "num": 116646,
+        "word": "广东冷出了冰挂雾凇",
+        "onboard_time": 1737876317,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113397,
+        "num": 113397,
+        "word": "郭晓东郭晓峰为村修路建桥打井",
+        "onboard_time": 1737877337,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109884,
+        "num": 109884,
+        "word": "和卞相壹下棋被做成游戏",
+        "onboard_time": 1737867738,
+        "rank": 41,
+        "category": "体育,游戏"
+      },
+      {
+        "raw_hot": 109483,
+        "num": 109483,
+        "word": "特朗普称或考虑重新加入世卫组织",
+        "onboard_time": 1737879019,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107743,
+        "num": 107743,
+        "word": "旅美大熊猫宝力青宝珍贵画面",
+        "onboard_time": 1737879499,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107242,
+        "num": 107242,
+        "word": "法国市长称樊振东是传奇运动员",
+        "onboard_time": 1737878057,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102701,
+        "num": 102701,
+        "word": "王冰冰首部古装剧定档",
+        "onboard_time": 1737862158,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101226,
+        "num": 101226,
+        "word": "这火车怎么蛇里蛇气的",
+        "onboard_time": 1737869177,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101006,
+        "num": 101006,
+        "word": "云南8岁女童雪山失踪已超6天",
+        "onboard_time": 1737871638,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100831,
+        "num": 100831,
+        "word": "冷冷冷我冷冷冷",
+        "onboard_time": 1737849557,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14803,
+        "num": 100578,
+        "word": "吃华莱士真能刮出好东西",
+        "onboard_time": 1737876317,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平与人民在一起的温暖瞬间#"
+    }
+  }
+}
