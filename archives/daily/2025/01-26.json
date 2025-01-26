@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1737883276620,
+  "endTime": 1737884122649,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -43,8 +43,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1216765,
-      "num": 217362,
+      "raw_hot": 1232147,
+      "num": 249594,
       "word": "文淇 论文给我去死",
       "onboard_time": 1737880578,
       "rank": 44,
@@ -185,6 +185,14 @@
       "onboard_time": 1737874698,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 670021,
+      "num": 1107203,
+      "word": "警方正在全力寻找电竞选手幻云",
+      "onboard_time": 1737881478,
+      "rank": 3,
+      "category": "民生新闻,电竞"
     },
     {
       "raw_hot": 650358,
@@ -339,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 467260,
+      "num": 231822,
+      "word": "虞书欣陈靖可 狭路",
+      "onboard_time": 1737883399,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 457432,
       "num": 457432,
       "word": "台湾一黑帮头目被枪杀",
@@ -388,7 +404,7 @@
     },
     {
       "raw_hot": 439884,
-      "num": 203284,
+      "num": 218106,
       "word": "女子生完孩子却得知准丈夫已婚",
       "onboard_time": 1737878899,
       "rank": 35,
@@ -443,20 +459,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 394259,
+      "num": 394259,
+      "word": "将门独后主演阵容",
+      "onboard_time": 1737878598,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 389065,
       "num": 389065,
       "word": "夫妻各回各家过年做父母的孩子",
       "onboard_time": 1737860357,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 370518,
-      "num": 370518,
-      "word": "将门独后主演阵容",
-      "onboard_time": 1737878598,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 370356,
@@ -475,8 +491,16 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 341180,
-      "num": 207302,
+      "raw_hot": 359557,
+      "num": 359557,
+      "word": "幻云",
+      "onboard_time": 1737804620,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 353264,
+      "num": 230379,
       "word": "比尔盖茨说离婚后成了空巢老人",
       "onboard_time": 1737879019,
       "rank": 30,
@@ -505,14 +529,6 @@
       "onboard_time": 1737868579,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 332657,
-      "num": 332657,
-      "word": "警方正在全力寻找电竞选手幻云",
-      "onboard_time": 1737881478,
-      "rank": 3,
-      "category": "民生新闻,电竞"
     },
     {
       "raw_hot": 328046,
@@ -619,12 +635,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 269935,
-      "num": 269935,
-      "word": "幻云",
-      "onboard_time": 1737804620,
-      "rank": 36,
-      "category": "电竞"
+      "raw_hot": 269082,
+      "num": 216357,
+      "word": "全糖可乐",
+      "onboard_time": 1737882138,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 262254,
@@ -739,14 +755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 220289,
-      "num": 191754,
-      "word": "全糖可乐",
-      "onboard_time": 1737882138,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 218945,
       "num": 173556,
       "word": "蛇年央视春晚最后一次联排",
@@ -777,6 +785,14 @@
       "onboard_time": 1737806960,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209639,
+      "num": 209639,
+      "word": "相思令15集就圆房",
+      "onboard_time": 1737883339,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 209519,
@@ -827,12 +843,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204060,
+      "num": 204060,
+      "word": "赵露思对接否认将演错世",
+      "onboard_time": 1737883757,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202998,
       "num": 180344,
       "word": "虞书欣双轨南京部分杀青",
       "onboard_time": 1737864857,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201715,
+      "num": 192531,
+      "word": "男子4年春节不回家江底守护万家灯火",
+      "onboard_time": 1737883458,
+      "rank": 30,
+      "category": "正能量"
     },
     {
       "raw_hot": 198990,
@@ -849,6 +881,14 @@
       "onboard_time": 1737867857,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 196691,
+      "num": 196691,
+      "word": "蓝盈莹英文口语",
+      "onboard_time": 1737883217,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 195001,
@@ -897,6 +937,14 @@
       "onboard_time": 1737879558,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192473,
+      "num": 192473,
+      "word": "cp二搭不在于重复而在于重逢",
+      "onboard_time": 1737882918,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 189801,
@@ -977,14 +1025,6 @@
       "onboard_time": 1737880759,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 172287,
-      "num": 172287,
-      "word": "cp二搭不在于重复而在于重逢",
-      "onboard_time": 1737882918,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 172020,
@@ -1227,6 +1267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143103,
+      "num": 143103,
+      "word": "常华森再发长文",
+      "onboard_time": 1737883638,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141303,
       "num": 141303,
       "word": "杨紫李现互戴头盔",
@@ -1248,6 +1296,14 @@
       "word": "女子推理社",
       "onboard_time": 1737865999,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 140256,
+      "num": 140256,
+      "word": "朱一龙李现将参演春晚武汉分会场",
+      "onboard_time": 1737883518,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -1451,6 +1507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121950,
+      "num": 121950,
+      "word": "电影哪吒之魔童闹海",
+      "onboard_time": 1737883817,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 121538,
       "num": 144674,
       "word": "电竞选手幻云称网恋被骗流露轻生念头",
@@ -1529,6 +1593,14 @@
       "onboard_time": 1737876317,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116381,
+      "num": 116381,
+      "word": "云合",
+      "onboard_time": 1737883098,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 116087,
@@ -1716,19 +1788,11 @@
     },
     {
       "raw_hot": 104096,
-      "num": 203282,
+      "num": 225366,
       "word": "澳大利亚怎么这么好玩",
       "onboard_time": 1737881118,
       "rank": 19,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 104002,
-      "num": 104002,
-      "word": "云合",
-      "onboard_time": 1737883098,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 103170,
@@ -1779,6 +1843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101661,
+      "num": 101661,
+      "word": "幻云修改微博昵称",
+      "onboard_time": 1737883757,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 101357,
       "num": 101357,
       "word": "北京下雪",
@@ -1800,14 +1872,6 @@
       "word": "魏大勋温暖讲述春节里的中国",
       "onboard_time": 1737867559,
       "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 99659,
-      "num": 99659,
-      "word": "蓝盈莹英文口语",
-      "onboard_time": 1737883217,
-      "rank": 49,
       "category": "艺人"
     },
     {
@@ -1841,6 +1905,14 @@
       "onboard_time": 1737865457,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96847,
+      "num": 210202,
+      "word": "幻云称网恋两个月被骗20多万元",
+      "onboard_time": 1737880098,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 96674,
@@ -2003,6 +2075,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 77914,
+      "num": 101973,
+      "word": "1分钱就能抢第一份蛇年礼物",
+      "onboard_time": 1737883998,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77834,
       "num": 77834,
       "word": "峨眉山市发生3.4级地震",
@@ -2043,12 +2123,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 73556,
-      "num": 201064,
-      "word": "幻云称网恋两个月被骗20多万元",
-      "onboard_time": 1737880098,
-      "rank": 24,
-      "category": "电竞"
+      "raw_hot": 75784,
+      "num": 251676,
+      "word": "男孩26年后与妈妈相认得知惊人真相",
+      "onboard_time": 1737883518,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73331,
@@ -2121,6 +2201,14 @@
       "onboard_time": 1737846374,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 66846,
+      "num": 238287,
+      "word": "保洁人员调包雇主价值40余万奢侈品",
+      "onboard_time": 1737882319,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66275,
@@ -2307,12 +2395,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43830,
-      "num": 210957,
-      "word": "保洁人员调包雇主价值40余万奢侈品",
-      "onboard_time": 1737882319,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 43509,
+      "num": 193444,
+      "word": "美国已使用军机驱逐数百非法移民",
+      "onboard_time": 1737882440,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 41513,
+      "num": 192569,
+      "word": "人形机器人是AI的最佳载体吗",
+      "onboard_time": 1737883217,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 40576,
@@ -2347,14 +2443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 38231,
-      "num": 109794,
-      "word": "人形机器人是AI的最佳载体吗",
-      "onboard_time": 1737883217,
-      "rank": 39,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 37971,
       "num": 153485,
       "word": "为何北京城区降雪偏弱",
@@ -2368,6 +2456,22 @@
       "word": "春节期间多地轻微交通违法不处罚",
       "onboard_time": 1737876018,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34802,
+      "num": 225932,
+      "word": "蛟龙行动预售票房破4000万",
+      "onboard_time": 1737883038,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 32971,
+      "num": 239952,
+      "word": "女子开货车最怕在路上得知父母去世",
+      "onboard_time": 1737883339,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -2467,14 +2571,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 23333,
-      "num": 179790,
-      "word": "蛟龙行动预售票房破4000万",
-      "onboard_time": 1737883038,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 22254,
       "num": 177932,
       "word": "动漫最帅前辈毋庸置疑",
@@ -2489,14 +2585,6 @@
       "onboard_time": 1737872598,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20002,
-      "num": 150234,
-      "word": "美国已使用军机驱逐数百非法移民",
-      "onboard_time": 1737882440,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 19575,
