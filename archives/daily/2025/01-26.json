@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1737901101479,
+  "endTime": 1737902104368,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1139607,
+      "num": 861547,
+      "word": "王嘉尔正在住院接受治疗",
+      "onboard_time": 1737897558,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1107028,
       "num": 1107203,
       "word": "警方正在全力寻找电竞选手幻云",
@@ -104,14 +112,6 @@
       "word": "工作人员称说刘亦菲微胖柜姐无恶意",
       "onboard_time": 1737877577,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1080657,
-      "num": 861547,
-      "word": "王嘉尔正在住院接受治疗",
-      "onboard_time": 1737897558,
-      "rank": 23,
       "category": "艺人"
     },
     {
@@ -179,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 960496,
+      "num": 1153679,
+      "word": "前SNH48成员吕相宜开赌场被抓",
+      "onboard_time": 1737899179,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 948328,
       "num": 948328,
       "word": "柯洁直播哭了",
@@ -209,14 +217,6 @@
       "onboard_time": 1737889577,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 857513,
-      "num": 857513,
-      "word": "前SNH48成员吕相宜开赌场被抓",
-      "onboard_time": 1737899179,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 853590,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 714830,
-      "num": 288297,
+      "num": 342211,
       "word": "全糖可乐",
       "onboard_time": 1737882138,
       "rank": 23,
@@ -345,6 +345,14 @@
       "onboard_time": 1737816202,
       "rank": 4,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 622420,
+      "num": 622420,
+      "word": "柬埔寨珍娜公主用中文拜年",
+      "onboard_time": 1737900441,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 618894,
@@ -531,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 454620,
+      "num": 454620,
+      "word": "魔芋爽拌黄瓜",
+      "onboard_time": 1737896839,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 454580,
       "num": 299700,
       "word": "哪吒2第二支预告",
@@ -577,14 +593,6 @@
       "onboard_time": 1737878899,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 422948,
-      "num": 422948,
-      "word": "魔芋爽拌黄瓜",
-      "onboard_time": 1737896839,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 422381,
@@ -691,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 382226,
+      "num": 382226,
+      "word": "年轻人黄金贴手机主打一个情绪价值",
+      "onboard_time": 1737900561,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 375150,
       "num": 375150,
       "word": "幻云",
@@ -721,6 +737,14 @@
       "onboard_time": 1737879019,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 347740,
+      "num": 347740,
+      "word": "射雕英雄传预售票房突破2.5亿",
+      "onboard_time": 1737887718,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 342796,
@@ -939,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 268835,
+      "num": 268835,
+      "word": "无忧传媒回应和黄毛毛解约",
+      "onboard_time": 1737898520,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267300,
       "num": 267300,
       "word": "男孩26年后与妈妈相认得知惊人真相",
@@ -979,14 +1011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 258096,
-      "num": 258096,
-      "word": "柬埔寨珍娜公主用中文拜年",
-      "onboard_time": 1737900441,
-      "rank": 11,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 256619,
       "num": 246344,
       "word": "文淇也在被论文折磨",
@@ -1009,14 +1033,6 @@
       "onboard_time": 1737797777,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 248327,
-      "num": 288579,
-      "word": "射雕英雄传预售票房突破2.5亿",
-      "onboard_time": 1737887718,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 245034,
@@ -1099,14 +1115,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 227135,
-      "num": 191969,
-      "word": "无忧传媒回应和黄毛毛解约",
-      "onboard_time": 1737898520,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 223192,
       "num": 210535,
       "word": "你好星期六拍立得",
@@ -1171,6 +1179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 216688,
+      "num": 216688,
+      "word": "柯洁说裁判说的话让人发抖",
+      "onboard_time": 1737900561,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213663,
       "num": 188548,
       "word": "高度近视最有效的化妆方法",
@@ -1193,6 +1209,14 @@
       "onboard_time": 1737859516,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209046,
+      "num": 209046,
+      "word": "买迪士尼导览导游中途被抓失联",
+      "onboard_time": 1737900259,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 208650,
@@ -1363,6 +1387,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189479,
+      "num": 189479,
+      "word": "敖瑞鹏3分钟语音告别白月梵星",
+      "onboard_time": 1737901401,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 189285,
+      "num": 189285,
+      "word": "卫视春晚节目单",
+      "onboard_time": 1737899359,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187549,
       "num": 153404,
       "word": "二胎宝妈生产时丈夫还在酒店开房",
@@ -1403,14 +1443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 181095,
-      "num": 171843,
-      "word": "柯洁说裁判说的话让人发抖",
-      "onboard_time": 1737900561,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 180238,
       "num": 180238,
       "word": "吴倩特别主演",
@@ -1425,14 +1457,6 @@
       "onboard_time": 1737886400,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 178661,
-      "num": 178661,
-      "word": "卫视春晚节目单",
-      "onboard_time": 1737899359,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 178605,
@@ -1457,6 +1481,14 @@
       "onboard_time": 1737853097,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177044,
+      "num": 177044,
+      "word": "和鹿晗过大年",
+      "onboard_time": 1737901700,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 176575,
@@ -1571,8 +1603,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166299,
+      "num": 166299,
+      "word": "五福临门妆造",
+      "onboard_time": 1737899060,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165990,
-      "num": 165990,
+      "num": 201884,
       "word": "胡杏儿三个儿子近照",
       "onboard_time": 1737897081,
       "rank": 35,
@@ -1619,6 +1659,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 163372,
+      "num": 163256,
+      "word": "吴宣仪演技",
+      "onboard_time": 1737901941,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 163143,
+      "num": 163143,
+      "word": "李子柒上河南春晚",
+      "onboard_time": 1737900799,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162973,
       "num": 144628,
       "word": "张元英李瑞KKT聊天记录",
@@ -1633,6 +1689,22 @@
       "onboard_time": 1737863418,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162676,
+      "num": 162676,
+      "word": "安徽卫视回应春晚外卖小哥身份",
+      "onboard_time": 1737901401,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 162643,
+      "num": 162643,
+      "word": "爸妈收到礼物的真实反应",
+      "onboard_time": 1737901582,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 161192,
@@ -1739,26 +1811,10 @@
       "category": "电影"
     },
     {
-      "raw_hot": 152618,
-      "num": 152618,
-      "word": "五福临门妆造",
-      "onboard_time": 1737899060,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 152200,
       "num": 152200,
       "word": "刘晓庆说贺峻霖牛在在不吃苦不成才",
       "onboard_time": 1737862699,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 151455,
-      "num": 151455,
-      "word": "李子柒上河南春晚",
-      "onboard_time": 1737900799,
       "rank": 38,
       "category": "综艺"
     },
@@ -1875,6 +1931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144509,
+      "num": 144509,
+      "word": "韩国铆足劲吸引中国游客",
+      "onboard_time": 1737901760,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144264,
       "num": 144264,
       "word": "林孝埈初雪大片",
@@ -1889,6 +1953,14 @@
       "onboard_time": 1737895219,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143474,
+      "num": 202978,
+      "word": "这是我们的中国年",
+      "onboard_time": 1737900080,
+      "rank": 18,
+      "category": "正能量"
     },
     {
       "raw_hot": 143318,
@@ -2003,6 +2075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136283,
+      "num": 136283,
+      "word": "柯洁直播称自己吃不下东西",
+      "onboard_time": 1737901220,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136082,
       "num": 110402,
       "word": "肖战练武术画面曝光",
@@ -2113,14 +2193,6 @@
       "onboard_time": 1737899900,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 128359,
-      "num": 264037,
-      "word": "年轻人黄金贴手机主打一个情绪价值",
-      "onboard_time": 1737900561,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128156,
@@ -2763,14 +2835,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 91359,
-      "num": 198215,
-      "word": "买迪士尼导览导游中途被抓失联",
-      "onboard_time": 1737900259,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90936,
       "num": 90936,
       "word": "DeepSeek崩了",
@@ -3003,6 +3067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71495,
+      "num": 197698,
+      "word": "和平精英春节双神装降临",
+      "onboard_time": 1737898520,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 70616,
       "num": 70616,
       "word": "徐莹谈卞相壹举手示意裁判片段",
@@ -3121,6 +3193,14 @@
       "onboard_time": 1737874518,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 59018,
+      "num": 185846,
+      "word": "DeepSeek热度突然飙升",
+      "onboard_time": 1737901281,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 58923,

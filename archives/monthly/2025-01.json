@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737901101479,
+  "endTime": 1737902104368,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -4379,6 +4379,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1139607,
+      "num": 861547,
+      "word": "王嘉尔正在住院接受治疗",
+      "onboard_time": 1737897558,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1139458,
       "num": 1182313,
       "word": "宁静拒绝了一路繁花邀请",
@@ -4865,14 +4873,6 @@
       "onboard_time": 1737477796,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1080657,
-      "num": 861547,
-      "word": "王嘉尔正在住院接受治疗",
-      "onboard_time": 1737897558,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 1079254,
@@ -5897,6 +5897,14 @@
       "onboard_time": 1735733721,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 960496,
+      "num": 1153679,
+      "word": "前SNH48成员吕相宜开赌场被抓",
+      "onboard_time": 1737899179,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 960257,
@@ -7113,14 +7121,6 @@
       "onboard_time": 1737390918,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 857513,
-      "num": 857513,
-      "word": "前SNH48成员吕相宜开赌场被抓",
-      "onboard_time": 1737899179,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 857450,
@@ -9196,7 +9196,7 @@
     },
     {
       "raw_hot": 714830,
-      "num": 288297,
+      "num": 342211,
       "word": "全糖可乐",
       "onboard_time": 1735827921,
       "rank": 37,
@@ -11033,6 +11033,14 @@
       "onboard_time": 1737674354,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 622420,
+      "num": 622420,
+      "word": "柬埔寨珍娜公主用中文拜年",
+      "onboard_time": 1737900441,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 621181,
@@ -15763,6 +15771,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 454620,
+      "num": 454620,
+      "word": "魔芋爽拌黄瓜",
+      "onboard_time": 1737896839,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 454580,
       "num": 299700,
       "word": "哪吒2第二支预告",
@@ -17153,14 +17169,6 @@
       "onboard_time": 1737099258,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 422948,
-      "num": 422948,
-      "word": "魔芋爽拌黄瓜",
-      "onboard_time": 1737896839,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 422894,
@@ -18977,6 +18985,14 @@
       "onboard_time": 1735673714,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 382226,
+      "num": 382226,
+      "word": "年轻人黄金贴手机主打一个情绪价值",
+      "onboard_time": 1737900561,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 382178,
@@ -20920,6 +20936,14 @@
       "word": "春节档影片你想先看哪部",
       "onboard_time": 1737269297,
       "rank": 9,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 347740,
+      "num": 347740,
+      "word": "射雕英雄传预售票房突破2.5亿",
+      "onboard_time": 1737887718,
+      "rank": 49,
       "category": "电影"
     },
     {
@@ -26619,6 +26643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 268835,
+      "num": 268835,
+      "word": "无忧传媒回应和黄毛毛解约",
+      "onboard_time": 1737898520,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268790,
       "num": 268790,
       "word": "李晨姑姑消消乐",
@@ -27593,14 +27625,6 @@
       "onboard_time": 1735648587,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 258096,
-      "num": 258096,
-      "word": "柬埔寨珍娜公主用中文拜年",
-      "onboard_time": 1737900441,
-      "rank": 11,
-      "category": "国际时政"
     },
     {
       "raw_hot": 257898,
@@ -28593,14 +28617,6 @@
       "onboard_time": 1735800562,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 248327,
-      "num": 288579,
-      "word": "射雕英雄传预售票房突破2.5亿",
-      "onboard_time": 1737887718,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 248319,
@@ -30955,14 +30971,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 227135,
-      "num": 191969,
-      "word": "无忧传媒回应和黄毛毛解约",
-      "onboard_time": 1737898520,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 227102,
       "num": 350829,
       "word": "郑钦文破发",
@@ -32411,6 +32419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 216688,
+      "num": 216688,
+      "word": "柯洁说裁判说的话让人发抖",
+      "onboard_time": 1737900561,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216676,
       "num": 207718,
       "word": "白鹿 二小姐专业户",
@@ -33553,6 +33569,14 @@
       "onboard_time": 1735726401,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 209046,
+      "num": 209046,
+      "word": "买迪士尼导览导游中途被抓失联",
+      "onboard_time": 1737900259,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 209026,
@@ -39019,6 +39043,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 189479,
+      "num": 189479,
+      "word": "敖瑞鹏3分钟语音告别白月梵星",
+      "onboard_time": 1737901401,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189476,
       "num": 189476,
       "word": "爱上陈晓的古装剧是我的宿命",
@@ -39073,6 +39105,14 @@
       "onboard_time": 1735958658,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 189285,
+      "num": 189285,
+      "word": "卫视春晚节目单",
+      "onboard_time": 1737899359,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 189244,
@@ -41267,14 +41307,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 181095,
-      "num": 171843,
-      "word": "柯洁说裁判说的话让人发抖",
-      "onboard_time": 1737900561,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 181077,
       "num": 181077,
       "word": "王昶坐上了裁判椅",
@@ -41819,14 +41851,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 178661,
-      "num": 178661,
-      "word": "卫视春晚节目单",
-      "onboard_time": 1737899359,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 178625,
       "num": 165445,
       "word": "何惟芳刘畅同一天成婚",
@@ -42225,6 +42249,14 @@
       "onboard_time": 1737516259,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177044,
+      "num": 177044,
+      "word": "和鹿晗过大年",
+      "onboard_time": 1737901700,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 177042,
@@ -45403,6 +45435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166299,
+      "num": 166299,
+      "word": "五福临门妆造",
+      "onboard_time": 1737899060,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166295,
       "num": 336289,
       "word": "6岁男童上学时独自离园2次未被发现",
@@ -45468,7 +45508,7 @@
     },
     {
       "raw_hot": 165990,
-      "num": 165990,
+      "num": 201884,
       "word": "胡杏儿三个儿子近照",
       "onboard_time": 1737897081,
       "rank": 35,
@@ -46283,6 +46323,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 163372,
+      "num": 163256,
+      "word": "吴宣仪演技",
+      "onboard_time": 1737901941,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163339,
       "num": 252782,
       "word": "果然数学的尽头是英语",
@@ -46337,6 +46385,14 @@
       "onboard_time": 1737181097,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163143,
+      "num": 163143,
+      "word": "李子柒上河南春晚",
+      "onboard_time": 1737900799,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 163135,
@@ -46459,12 +46515,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162676,
+      "num": 162676,
+      "word": "安徽卫视回应春晚外卖小哥身份",
+      "onboard_time": 1737901401,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162663,
       "num": 162663,
       "word": "赵睿致歉声明",
       "onboard_time": 1735808780,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162643,
+      "num": 162643,
+      "word": "爸妈收到礼物的真实反应",
+      "onboard_time": 1737901582,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 162616,
@@ -49483,14 +49555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 152618,
-      "num": 152618,
-      "word": "五福临门妆造",
-      "onboard_time": 1737899060,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 152600,
       "num": 152600,
       "word": "留几手回应离没离婚",
@@ -49857,14 +49921,6 @@
       "onboard_time": 1736152707,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 151455,
-      "num": 151455,
-      "word": "李子柒上河南春晚",
-      "onboard_time": 1737900799,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 151360,
@@ -52075,6 +52131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144509,
+      "num": 144509,
+      "word": "韩国铆足劲吸引中国游客",
+      "onboard_time": 1737901760,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144505,
       "num": 144505,
       "word": "王皓说亚洲杯选拔主要看排名和表现",
@@ -52401,6 +52465,14 @@
       "onboard_time": 1736234125,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 143474,
+      "num": 209860,
+      "word": "这是我们的中国年",
+      "onboard_time": 1736903717,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143442,
@@ -54840,6 +54912,14 @@
       "word": "哈尔滨亚冬会",
       "onboard_time": 1737170597,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 136283,
+      "num": 136283,
+      "word": "柯洁直播称自己吃不下东西",
+      "onboard_time": 1737901220,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -57584,14 +57664,6 @@
       "word": "新娘姐妹团5人中3个是世界冠军",
       "onboard_time": 1736805732,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 128359,
-      "num": 264037,
-      "word": "年轻人黄金贴手机主打一个情绪价值",
-      "onboard_time": 1737900561,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -63707,14 +63779,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 110907,
-      "num": 209860,
-      "word": "这是我们的中国年",
-      "onboard_time": 1736903717,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 110904,
       "num": 110904,
       "word": "刘宇异瞳蛇造型",
@@ -68563,14 +68627,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 91359,
-      "num": 198215,
-      "word": "买迪士尼导览导游中途被抓失联",
-      "onboard_time": 1737900259,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91245,
       "num": 219729,
       "word": "蒋长扬再现韩商言手势",
@@ -71739,6 +71795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 71495,
+      "num": 197698,
+      "word": "和平精英春节双神装降临",
+      "onboard_time": 1737898520,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 71476,
       "num": 71476,
       "word": "李昀锐冰湖重生高马尾骑马路透",
@@ -73561,6 +73625,14 @@
       "onboard_time": 1736499200,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 59018,
+      "num": 185846,
+      "word": "DeepSeek热度突然飙升",
+      "onboard_time": 1737901281,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 58998,
