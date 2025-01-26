@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1737902104368,
+  "endTime": 1737904884712,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -171,20 +171,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 987068,
+      "num": 1157930,
+      "word": "前SNH48成员吕相宜开赌场被抓",
+      "onboard_time": 1737899179,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 986273,
       "num": 1157803,
       "word": "北京警方刑拘8人",
       "onboard_time": 1737884418,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 960496,
-      "num": 1153679,
-      "word": "前SNH48成员吕相宜开赌场被抓",
-      "onboard_time": 1737899179,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 948328,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 916211,
-      "num": 228790,
+      "num": 239414,
       "word": "费翔说今年是第一年家里没人了",
       "onboard_time": 1737895819,
       "rank": 44,
@@ -275,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 761117,
+      "num": 423256,
+      "word": "赵露思比耶无法控制小拇指",
+      "onboard_time": 1737902120,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 744016,
       "num": 744016,
       "word": "无忧前员工称张大大工作室常换人",
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 714830,
-      "num": 342211,
+      "num": 386631,
       "word": "全糖可乐",
       "onboard_time": 1737882138,
       "rank": 23,
@@ -313,6 +321,14 @@
       "onboard_time": 1737863118,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 709606,
+      "num": 552701,
+      "word": "吴宣仪演技",
+      "onboard_time": 1737901941,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 694794,
@@ -411,12 +427,28 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 532128,
+      "num": 532128,
+      "word": "年轻人黄金贴手机主打一个情绪价值",
+      "onboard_time": 1737900561,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 530939,
       "num": 1084950,
       "word": "菲律宾船从中国海警船前横穿",
       "onboard_time": 1737870798,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 529402,
+      "num": 529402,
+      "word": "新娘坐高铁去结婚收获全车祝福",
+      "onboard_time": 1737903021,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 526677,
@@ -449,6 +481,14 @@
       "onboard_time": 1737877758,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 506666,
+      "num": 231542,
+      "word": "张大大曾对姜潮发火",
+      "onboard_time": 1737902901,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 505015,
@@ -595,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 423234,
+      "num": 423234,
+      "word": "陈小春突然想起自己签了保密协议",
+      "onboard_time": 1737904460,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 422381,
       "num": 241763,
       "word": "周杰伦瘦好多",
@@ -683,11 +731,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 389601,
+      "num": 389601,
+      "word": "无忧传媒回应和黄毛毛解约",
+      "onboard_time": 1737898520,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 389065,
       "num": 389065,
       "word": "夫妻各回各家过年做父母的孩子",
       "onboard_time": 1737860357,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 387177,
+      "num": 387177,
+      "word": "韩国铆足劲吸引中国游客",
+      "onboard_time": 1737901760,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -697,14 +761,6 @@
       "onboard_time": 1737894379,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 382226,
-      "num": 382226,
-      "word": "年轻人黄金贴手机主打一个情绪价值",
-      "onboard_time": 1737900561,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 375150,
@@ -723,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 367348,
+      "num": 367348,
+      "word": "射雕英雄传预售票房突破2.5亿",
+      "onboard_time": 1737887718,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 365624,
       "num": 365624,
       "word": "周鸿祎官宣送100辆国产新能源车",
@@ -739,12 +803,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 347740,
-      "num": 347740,
-      "word": "射雕英雄传预售票房突破2.5亿",
-      "onboard_time": 1737887718,
-      "rank": 49,
-      "category": "电影"
+      "raw_hot": 343051,
+      "num": 343051,
+      "word": "柯洁说裁判说的话让人发抖",
+      "onboard_time": 1737900561,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 342796,
@@ -753,6 +817,14 @@
       "onboard_time": 1737895519,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 341112,
+      "num": 243338,
+      "word": "王菲现身蛇年春晚备播现场",
+      "onboard_time": 1737903200,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 340406,
@@ -963,14 +1035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 268835,
-      "num": 268835,
-      "word": "无忧传媒回应和黄毛毛解约",
-      "onboard_time": 1737898520,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 267300,
       "num": 267300,
       "word": "男孩26年后与妈妈相认得知惊人真相",
@@ -985,6 +1049,14 @@
       "onboard_time": 1737888260,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 263118,
+      "num": 234477,
+      "word": "和鹿晗过大年",
+      "onboard_time": 1737901700,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 262254,
@@ -1155,6 +1227,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 219706,
+      "num": 219706,
+      "word": "这届年轻人手机贴都要黄金的",
+      "onboard_time": 1737904340,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218945,
       "num": 173556,
       "word": "蛇年央视春晚最后一次联排",
@@ -1179,20 +1259,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 216688,
-      "num": 216688,
-      "word": "柯洁说裁判说的话让人发抖",
-      "onboard_time": 1737900561,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 213663,
       "num": 188548,
       "word": "高度近视最有效的化妆方法",
       "onboard_time": 1737896181,
       "rank": 32,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 213182,
+      "num": 213182,
+      "word": "颜十六已到案回国",
+      "onboard_time": 1737904641,
+      "rank": 29,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 209948,
@@ -1248,6 +1328,14 @@
       "word": "此沙发长文回应素人时期",
       "onboard_time": 1737821420,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 204530,
+      "num": 204530,
+      "word": "网友青岛偶遇朱志鑫苏新皓",
+      "onboard_time": 1737904641,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -1353,6 +1441,14 @@
       "onboard_time": 1737868997,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 193458,
+      "num": 193458,
+      "word": "朱苏",
+      "onboard_time": 1737903739,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 192578,
@@ -1481,14 +1577,6 @@
       "onboard_time": 1737853097,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 177044,
-      "num": 177044,
-      "word": "和鹿晗过大年",
-      "onboard_time": 1737901700,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 176575,
@@ -1657,14 +1745,6 @@
       "onboard_time": 1737889036,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 163372,
-      "num": 163256,
-      "word": "吴宣仪演技",
-      "onboard_time": 1737901941,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 163143,
@@ -1860,7 +1940,7 @@
     },
     {
       "raw_hot": 148392,
-      "num": 148392,
+      "num": 256494,
       "word": "小S小女儿晒自拍",
       "onboard_time": 1737897920,
       "rank": 39,
@@ -1915,6 +1995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145079,
+      "num": 145079,
+      "word": "王俊凯生图",
+      "onboard_time": 1737904280,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144874,
       "num": 211040,
       "word": "樊振东等自动入围多哈世乒赛",
@@ -1929,14 +2017,6 @@
       "onboard_time": 1737859998,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 144509,
-      "num": 144509,
-      "word": "韩国铆足劲吸引中国游客",
-      "onboard_time": 1737901760,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 144264,
@@ -2211,6 +2291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126859,
+      "num": 126859,
+      "word": "外交部向世界推荐湖南卫视春晚",
+      "onboard_time": 1737903080,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125329,
       "num": 125329,
       "word": "打工宝妈在国色芳华里演上了贵人",
@@ -2401,6 +2489,14 @@
       "onboard_time": 1737876317,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115062,
+      "num": 115062,
+      "word": "景区商拍逼疯多少普通游客",
+      "onboard_time": 1737902541,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114241,
@@ -2625,6 +2721,14 @@
       "onboard_time": 1737881118,
       "rank": 19,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 103811,
+      "num": 423269,
+      "word": "2025新春",
+      "onboard_time": 1737902120,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 103170,
@@ -3299,6 +3403,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 52258,
+      "num": 386802,
+      "word": "智残大爷活成现实版月亮和六便士",
+      "onboard_time": 1737904519,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49845,
       "num": 294491,
       "word": "封神主创集结为大家送福",
@@ -3539,6 +3651,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 25730,
+      "num": 557675,
+      "word": "五十六个民族各有各的特色年味儿",
+      "onboard_time": 1737903860,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25449,
       "num": 34974,
       "word": "老君山的玻璃滑道太有戏了",
@@ -3659,6 +3779,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 18337,
+      "num": 151551,
+      "word": "马龙变乖乖龙",
+      "onboard_time": 1737903561,
+      "rank": 35,
+      "category": "体育,综艺"
+    },
+    {
       "raw_hot": 17772,
       "num": 58142,
       "word": "确保全国人民过一个欢乐安宁祥和的春节",
@@ -3738,6 +3866,9 @@
     },
     {
       "word": "#习近平与人民在一起的温暖瞬间#"
+    },
+    {
+      "word": "#这是我们的中国年#"
     }
   ]
 }
