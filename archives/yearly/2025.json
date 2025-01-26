@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737886886403,
+  "endTime": 1737887851918,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -904,6 +904,14 @@
       "word": "赵樱子自曝被男顶流追求过",
       "onboard_time": 1736225243,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2409810,
+      "num": 351521,
+      "word": "赵露思病发抽搐视频",
+      "onboard_time": 1737886339,
+      "rank": 7,
       "category": "艺人"
     },
     {
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736753899,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1586156,
-      "num": 1586156,
-      "word": "洛杉矶华人以为误入末日",
-      "onboard_time": 1736448793,
-      "rank": 40,
-      "category": "海外新闻"
     }
   ],
   "hotgov_list": [
