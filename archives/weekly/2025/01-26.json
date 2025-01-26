@@ -1,13 +1,29 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1737848132279,
+  "endTime": 1737855768725,
   "band_list": [
     {
       "raw_hot": 5336076,
-      "num": 212357,
+      "num": 215963,
       "word": "张大大被曝指使社会人士砸门恐吓",
       "onboard_time": 1737808998,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1772288,
+      "num": 1772288,
+      "word": "无忧传媒暂停与张大大业务",
+      "onboard_time": 1737851058,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1213186,
+      "num": 377745,
+      "word": "赵露思回应胖了8斤",
+      "onboard_time": 1737851357,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -25,6 +41,14 @@
       "onboard_time": 1737846433,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 844800,
+      "num": 844800,
+      "word": "举报雷军开车直播的网友回应",
+      "onboard_time": 1737847395,
+      "rank": 26,
+      "category": "互联网"
     },
     {
       "raw_hot": 811729,
@@ -49,6 +73,14 @@
       "onboard_time": 1737816202,
       "rank": 4,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 618894,
+      "num": 618894,
+      "word": "为什么连续五年没有大年三十",
+      "onboard_time": 1737851658,
+      "rank": 3,
+      "category": "民生新闻,情感"
     },
     {
       "raw_hot": 589698,
@@ -83,6 +115,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 473157,
+      "num": 376066,
+      "word": "刘耀文颈部印记为痘印",
+      "onboard_time": 1737847454,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 457432,
+      "num": 457432,
+      "word": "台湾一黑帮头目被枪杀",
+      "onboard_time": 1737851658,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 448883,
+      "num": 448883,
+      "word": "黄毛毛回应无忧传媒",
+      "onboard_time": 1737851417,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 445756,
       "num": 281918,
       "word": "黄毛毛喊话无忧传媒",
@@ -92,7 +148,7 @@
     },
     {
       "raw_hot": 416771,
-      "num": 171757,
+      "num": 384509,
       "word": "特朗普与洛杉矶市长爆发争吵",
       "onboard_time": 1737846313,
       "rank": 10,
@@ -107,11 +163,27 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 355261,
-      "num": 355261,
+      "raw_hot": 414230,
+      "num": 372346,
+      "word": "井胧曾因父母职业自卑",
+      "onboard_time": 1737854717,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 394416,
+      "num": 394416,
       "word": "北京的雪",
       "onboard_time": 1737818361,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 370356,
+      "num": 370356,
+      "word": "冷冷冷我冷冷冷",
+      "onboard_time": 1737849557,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -120,6 +192,22 @@
       "word": "迪丽热巴设计的项链",
       "onboard_time": 1737818301,
       "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 319619,
+      "num": 319619,
+      "word": "杨天真40岁生日办告别式",
+      "onboard_time": 1737853456,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 315697,
+      "num": 315697,
+      "word": "赵露思坦言有过瘫痪失语症状",
+      "onboard_time": 1737855078,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -137,6 +225,14 @@
       "onboard_time": 1737823156,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 277386,
+      "num": 277386,
+      "word": "14岁女孩玩挖宝花光母亲14万打工钱",
+      "onboard_time": 1737846374,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 262254,
@@ -171,6 +267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 240311,
+      "num": 214828,
+      "word": "2月宝宝回家过年十余人等到凌晨",
+      "onboard_time": 1737852498,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230299,
       "num": 230299,
       "word": "金珉奎摔倒",
@@ -187,12 +291,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216808,
+      "num": 216808,
+      "word": "故宫也下雪了",
+      "onboard_time": 1737852797,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 209948,
       "num": 198210,
       "word": "赵露思拐杖",
       "onboard_time": 1737806960,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205252,
+      "num": 205252,
+      "word": "射雕英雄传预售仍断层领先",
+      "onboard_time": 1737846374,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 204806,
@@ -209,6 +329,22 @@
       "onboard_time": 1737809059,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186287,
+      "num": 186287,
+      "word": "徐莹称卞相壹形象遭毁灭性打击",
+      "onboard_time": 1737851717,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177111,
+      "num": 382230,
+      "word": "寒潮大风多地降温6到10摄氏度",
+      "onboard_time": 1737853097,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172020,
@@ -243,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157070,
+      "num": 157070,
+      "word": "网红犬哈礼鹿去世",
+      "onboard_time": 1737851897,
+      "rank": 28,
+      "category": "网红"
+    },
+    {
       "raw_hot": 153930,
       "num": 153930,
       "word": "陈思诚哭了",
@@ -259,6 +403,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 145662,
+      "num": 145662,
+      "word": "海豚吃的饺子皮是鱿鱼",
+      "onboard_time": 1737854478,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143318,
+      "num": 143318,
+      "word": "冬日里的这一幕好温暖",
+      "onboard_time": 1737855618,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136082,
       "num": 110402,
       "word": "肖战练武术画面曝光",
@@ -267,12 +427,36 @@
       "category": "电影"
     },
     {
-      "raw_hot": 131919,
-      "num": 131919,
+      "raw_hot": 135914,
+      "num": 135914,
+      "word": "无忧传媒情况说明",
+      "onboard_time": 1737848294,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 134821,
+      "num": 134821,
       "word": "东北爷爷宠孙女有了新高度",
       "onboard_time": 1737827894,
       "rank": 48,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 128156,
+      "num": 128156,
+      "word": "付航刚坐下3分钟就开始猴化",
+      "onboard_time": 1737853338,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 125329,
+      "num": 125329,
+      "word": "打工宝妈在国色芳华里演上了贵人",
+      "onboard_time": 1737846193,
+      "rank": 23,
+      "category": "剧集,民生新闻"
     },
     {
       "raw_hot": 124511,
@@ -299,6 +483,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 120824,
+      "num": 120824,
+      "word": "河南一员工15分钟数10万现金抱走",
+      "onboard_time": 1737847695,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111465,
+      "num": 111465,
+      "word": "天蝎座没那么需要新鲜感",
+      "onboard_time": 1737852017,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 110949,
       "num": 110949,
       "word": "王星越原声台词",
@@ -315,12 +515,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108356,
+      "num": 108356,
+      "word": "姆巴佩帽子戏法",
+      "onboard_time": 1737850277,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107755,
       "num": 107755,
       "word": "陈思诚感谢射雕预售打开市场",
       "onboard_time": 1737809721,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 107615,
+      "num": 107615,
+      "word": "禁令或使卞相壹损失近100万",
+      "onboard_time": 1737851658,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 106222,
@@ -363,20 +579,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100581,
+      "num": 100581,
+      "word": "台湾台南5.1级地震",
+      "onboard_time": 1737849497,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99092,
       "num": 99092,
       "word": "女子吐槽网购买到翻新春联",
       "onboard_time": 1737817462,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 98950,
-      "num": 98950,
-      "word": "打工宝妈在国色芳华里演上了贵人",
-      "onboard_time": 1737846193,
-      "rank": 23,
-      "category": "剧集,民生新闻"
     },
     {
       "raw_hot": 98662,
@@ -403,14 +619,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 95922,
-      "num": 95922,
-      "word": "14岁女孩玩挖宝花光母亲14万打工钱",
-      "onboard_time": 1737846374,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89028,
       "num": 89028,
       "word": "中国队或退出农心杯",
@@ -419,20 +627,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88075,
-      "num": 95950,
-      "word": "刘耀文颈部印记为痘印",
-      "onboard_time": 1737847454,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 86543,
-      "num": 86543,
-      "word": "举报雷军开车直播的网友回应",
-      "onboard_time": 1737847395,
-      "rank": 26,
-      "category": "互联网"
+      "raw_hot": 87820,
+      "num": 87820,
+      "word": "老板发4000万现金为年会热场",
+      "onboard_time": 1737855557,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84992,
@@ -441,6 +641,22 @@
       "onboard_time": 1737819440,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 83827,
+      "num": 83827,
+      "word": "湖人vs勇士",
+      "onboard_time": 1737854896,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 83457,
+      "num": 83457,
+      "word": "澳网冠军说李娜曾激励了她",
+      "onboard_time": 1737851779,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 82055,
@@ -529,14 +745,6 @@
       "onboard_time": 1737823578,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 65801,
-      "num": 65801,
-      "word": "河南一员工15分钟数10万现金抱走",
-      "onboard_time": 1737847695,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 57848,
@@ -705,14 +913,6 @@
       "onboard_time": 1737797777,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13078,
-      "num": 143315,
-      "word": "射雕英雄传预售仍断层领先",
-      "onboard_time": 1737846374,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 10161,
