@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1737862700349,
+  "endTime": 1737865502419,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -19,6 +19,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1943989,
+      "num": 1943989,
+      "word": "南京一柜姐评论刘亦菲微胖被辞退",
+      "onboard_time": 1737861438,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1772288,
       "num": 1772288,
       "word": "无忧传媒暂停与张大大业务",
@@ -32,14 +40,6 @@
       "word": "赵露思回应胖了8斤",
       "onboard_time": 1737851357,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1081591,
-      "num": 1173054,
-      "word": "南京一柜姐评论刘亦菲微胖被辞退",
-      "onboard_time": 1737861438,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -91,6 +91,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 730426,
+      "num": 308506,
+      "word": "王冰冰首部古装剧定档",
+      "onboard_time": 1737862158,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 692878,
+      "num": 235174,
+      "word": "宝马已在还贷车主无法提车",
+      "onboard_time": 1737863118,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 650358,
       "num": 650358,
       "word": "黄子韬看萱萱爸爸快哭了很心疼",
@@ -131,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 551782,
+      "num": 258346,
+      "word": "杨紫为了沈梦辰提前背了三天剧本",
+      "onboard_time": 1737863897,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 551098,
       "num": 551098,
       "word": "谷爱凌摔倒已不能走路",
@@ -160,6 +184,14 @@
       "word": "碗盆",
       "onboard_time": 1737805581,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 481084,
+      "num": 228487,
+      "word": "赵露思最初以为是鸡蛋过敏",
+      "onboard_time": 1737864498,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -227,11 +259,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 412791,
+      "num": 165367,
+      "word": "王昶 春晚",
+      "onboard_time": 1737862338,
+      "rank": 41,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 394416,
       "num": 394416,
       "word": "北京的雪",
       "onboard_time": 1737818361,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 378690,
+      "num": 378690,
+      "word": "夫妻各回各家过年做父母的孩子",
+      "onboard_time": 1737860357,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -241,14 +289,6 @@
       "onboard_time": 1737849557,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 366062,
-      "num": 234702,
-      "word": "王冰冰首部古装剧定档",
-      "onboard_time": 1737862158,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 340406,
@@ -299,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 271196,
+      "num": 217111,
+      "word": "张馨予晒何捷为她拍的雪地大片",
+      "onboard_time": 1737861677,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 262254,
       "num": 262254,
       "word": "美国叫停几乎全部对外援助",
@@ -315,12 +363,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 259433,
+      "num": 259433,
+      "word": "00后女医生捐骨髓为患儿送去春天",
+      "onboard_time": 1737862578,
+      "rank": 39,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 250313,
       "num": 250313,
       "word": "刘亦菲带火了奥特曼发夹",
       "onboard_time": 1737797777,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 243092,
+      "num": 166701,
+      "word": "儿媳偷送金耳环婆婆笑着笑着就哭了",
+      "onboard_time": 1737862158,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 240487,
@@ -336,6 +400,14 @@
       "word": "2月宝宝回家过年十余人等到凌晨",
       "onboard_time": 1737852498,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 239152,
+      "num": 239152,
+      "word": "春运回家有人带了一锅饭上高速",
+      "onboard_time": 1737863358,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -387,14 +459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206131,
-      "num": 206131,
-      "word": "夫妻各回各家过年做父母的孩子",
-      "onboard_time": 1737860357,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 205252,
       "num": 205252,
       "word": "射雕英雄传预售仍断层领先",
@@ -409,6 +473,22 @@
       "onboard_time": 1737821420,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202998,
+      "num": 162964,
+      "word": "虞书欣双轨南京部分杀青",
+      "onboard_time": 1737864857,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 201769,
+      "num": 166444,
+      "word": "男子过年被催婚一句话让亲戚沉默",
+      "onboard_time": 1737865338,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198990,
@@ -427,20 +507,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194922,
+      "num": 166993,
+      "word": "印有加拿大不出售的帽子热销",
+      "onboard_time": 1737861737,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 192578,
       "num": 192578,
       "word": "肖战春天花会开幸福向未来",
       "onboard_time": 1737860597,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 186737,
-      "num": 153152,
-      "word": "张馨予晒何捷为她拍的雪地大片",
-      "onboard_time": 1737861677,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 177111,
@@ -467,6 +547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 168714,
+      "num": 168714,
+      "word": "阿云嘎蔡明倪萍全家福大片",
+      "onboard_time": 1737864498,
+      "rank": 18,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 167389,
       "num": 167389,
       "word": "央视新闻专访徐克肖战",
@@ -489,6 +577,14 @@
       "onboard_time": 1737814943,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162964,
+      "num": 162963,
+      "word": "00后夫妻各回各家过年当事人发声",
+      "onboard_time": 1737863418,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159848,
@@ -523,20 +619,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 152601,
-      "num": 152601,
-      "word": "印有加拿大不出售的帽子热销",
-      "onboard_time": 1737861737,
-      "rank": 49,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 148436,
-      "num": 148436,
-      "word": "儿媳偷送金耳环婆婆笑着笑着就哭了",
-      "onboard_time": 1737862158,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 149240,
+      "num": 149240,
+      "word": "张钧甯骨相美人",
+      "onboard_time": 1737864797,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 147951,
@@ -561,6 +649,22 @@
       "onboard_time": 1737805160,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 147161,
+      "num": 147161,
+      "word": "刘晓庆说贺峻霖牛在在不吃苦不成才",
+      "onboard_time": 1737862699,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 144572,
+      "num": 163492,
+      "word": "G社生图战神",
+      "onboard_time": 1737859998,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 144264,
@@ -619,20 +723,20 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 133991,
-      "num": 133991,
-      "word": "00后女医生捐骨髓为患儿送去春天",
-      "onboard_time": 1737862578,
-      "rank": 39,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 133059,
       "num": 208098,
       "word": "老封地狱笑话殷寿战绩可查",
       "onboard_time": 1737859516,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 132831,
+      "num": 132831,
+      "word": "李昊的辈分也是好起来了",
+      "onboard_time": 1737864618,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 132761,
@@ -649,14 +753,6 @@
       "onboard_time": 1737859037,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 130954,
-      "num": 130954,
-      "word": "王昶 春晚",
-      "onboard_time": 1737862338,
-      "rank": 41,
-      "category": "综艺,体育"
     },
     {
       "raw_hot": 128156,
@@ -691,14 +787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 123067,
-      "num": 123067,
-      "word": "G社生图战神",
-      "onboard_time": 1737859998,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 121538,
       "num": 144674,
       "word": "电竞选手幻云称网恋被骗流露轻生念头",
@@ -721,6 +809,30 @@
       "onboard_time": 1737847695,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118488,
+      "num": 129331,
+      "word": "常华森发文告别重昭",
+      "onboard_time": 1737864738,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 116964,
+      "num": 116964,
+      "word": "尼格买提cue自己春晚笑料",
+      "onboard_time": 1737865219,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 113639,
+      "num": 113639,
+      "word": "2025KPL春季赛大名单",
+      "onboard_time": 1737862878,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 111465,
@@ -753,6 +865,14 @@
       "onboard_time": 1737810321,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109227,
+      "num": 109227,
+      "word": "后天就除夕了",
+      "onboard_time": 1737863418,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108513,
@@ -835,6 +955,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101888,
+      "num": 163855,
+      "word": "年度安全感时刻",
+      "onboard_time": 1737862757,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 101730,
+      "num": 101730,
+      "word": "刘晓庆也怕豆角没熟",
+      "onboard_time": 1737863658,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101357,
       "num": 101357,
       "word": "北京下雪",
@@ -875,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98329,
+      "num": 98329,
+      "word": "员工数钱有零头老板加9700元凑整",
+      "onboard_time": 1737865457,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96376,
       "num": 96376,
       "word": "韩安冉再回应前夫破产",
@@ -889,6 +1033,14 @@
       "onboard_time": 1737857718,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 89935,
+      "num": 174250,
+      "word": "哈马斯释放4名以色列女兵",
+      "onboard_time": 1737864319,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 89028,
@@ -947,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80939,
+      "num": 169173,
+      "word": "无所畏惧2今日开播",
+      "onboard_time": 1737864376,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 79755,
       "num": 285792,
       "word": "第一批春节旅游特种兵发打卡照了",
@@ -985,6 +1145,14 @@
       "onboard_time": 1737816742,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 71288,
+      "num": 168445,
+      "word": "用最浪漫海边烟花开启2025",
+      "onboard_time": 1737862998,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70616,
@@ -1041,6 +1209,14 @@
       "onboard_time": 1737823578,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64630,
+      "num": 212291,
+      "word": "中国电影将首次呈现自己的核潜艇",
+      "onboard_time": 1737864618,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 57848,
