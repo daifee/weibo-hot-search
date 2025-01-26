@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737880623228,
+  "endTime": 1737883276620,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1299,20 +1299,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2056912,
+      "num": 378230,
+      "word": "赵露思康复过程公开",
+      "onboard_time": 1737875656,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2056686,
       "num": 2056686,
       "word": "星光大赏红毯",
       "onboard_time": 1735967359,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2055901,
-      "num": 378230,
-      "word": "赵露思康复过程公开",
-      "onboard_time": 1737875656,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 2055389,

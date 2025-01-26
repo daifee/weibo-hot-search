@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1737880623228,
+  "endTime": 1737883276620,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -19,7 +19,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2055901,
+      "raw_hot": 2056912,
       "num": 378230,
       "word": "赵露思康复过程公开",
       "onboard_time": 1737875656,
@@ -40,6 +40,14 @@
       "word": "无忧传媒暂停与张大大业务",
       "onboard_time": 1737851058,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1216765,
+      "num": 217362,
+      "word": "文淇 论文给我去死",
+      "onboard_time": 1737880578,
+      "rank": 44,
       "category": "艺人"
     },
     {
@@ -73,6 +81,14 @@
       "onboard_time": 1737798499,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1014563,
+      "num": 336476,
+      "word": "亲生父亲为赌博一万元卖掉儿子",
+      "onboard_time": 1737878417,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1006989,
@@ -153,14 +169,6 @@
       "onboard_time": 1737862158,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 724525,
-      "num": 336476,
-      "word": "亲生父亲为赌博一万元卖掉儿子",
-      "onboard_time": 1737878417,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 711987,
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 510866,
-      "num": 510866,
+      "num": 1064310,
       "word": "中央领导同志看望老同志",
       "onboard_time": 1737877758,
       "rank": 1,
@@ -379,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 439884,
+      "num": 203284,
+      "word": "女子生完孩子却得知准丈夫已婚",
+      "onboard_time": 1737878899,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 422381,
       "num": 241763,
       "word": "周杰伦瘦好多",
@@ -435,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 370518,
+      "num": 370518,
+      "word": "将门独后主演阵容",
+      "onboard_time": 1737878598,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 370356,
       "num": 370356,
       "word": "冷冷冷我冷冷冷",
@@ -449,6 +473,14 @@
       "onboard_time": 1737867798,
       "rank": 9,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 341180,
+      "num": 207302,
+      "word": "比尔盖茨说离婚后成了空巢老人",
+      "onboard_time": 1737879019,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 340406,
@@ -473,6 +505,14 @@
       "onboard_time": 1737868579,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 332657,
+      "num": 332657,
+      "word": "警方正在全力寻找电竞选手幻云",
+      "onboard_time": 1737881478,
+      "rank": 3,
+      "category": "民生新闻,电竞"
     },
     {
       "raw_hot": 328046,
@@ -539,14 +579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 288129,
-      "num": 235506,
-      "word": "将门独后主演阵容",
-      "onboard_time": 1737878598,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 285759,
       "num": 285759,
       "word": "网友不买账霸王茶姬评论区致歉",
@@ -563,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 277601,
+      "num": 277601,
+      "word": "特朗普称或考虑重新加入世卫组织",
+      "onboard_time": 1737879019,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 277386,
       "num": 277386,
       "word": "14岁女孩玩挖宝花光母亲14万打工钱",
@@ -577,6 +617,14 @@
       "onboard_time": 1737861677,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 269935,
+      "num": 269935,
+      "word": "幻云",
+      "onboard_time": 1737804620,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 262254,
@@ -667,14 +715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 234615,
-      "num": 200974,
-      "word": "比尔盖茨说离婚后成了空巢老人",
-      "onboard_time": 1737879019,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 230299,
       "num": 230299,
       "word": "金珉奎摔倒",
@@ -697,6 +737,14 @@
       "onboard_time": 1737816262,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 220289,
+      "num": 191754,
+      "word": "全糖可乐",
+      "onboard_time": 1737882138,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 218945,
@@ -851,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189801,
+      "num": 189801,
+      "word": "第一次见国产剧婆媳处成母女",
+      "onboard_time": 1737880698,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187549,
       "num": 153404,
       "word": "二胎宝妈生产时丈夫还在酒店开房",
@@ -883,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177782,
+      "num": 177782,
+      "word": "五福临门五娘 小小老子脾气爆",
+      "onboard_time": 1737882019,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177111,
       "num": 382230,
       "word": "寒潮大风多地降温6到10摄氏度",
@@ -899,19 +963,27 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 176291,
-      "num": 203284,
-      "word": "女子生完孩子却得知准丈夫已婚",
-      "onboard_time": 1737878899,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 175444,
       "num": 175444,
       "word": "在梁洁这吃到现偶的细糠了",
       "onboard_time": 1737871338,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 173725,
+      "num": 173725,
+      "word": "刘晓庆吃苦论",
+      "onboard_time": 1737880759,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 172287,
+      "num": 172287,
+      "word": "cp二搭不在于重复而在于重逢",
+      "onboard_time": 1737882918,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -1033,14 +1105,6 @@
       "onboard_time": 1737851897,
       "rank": 28,
       "category": "网红"
-    },
-    {
-      "raw_hot": 156768,
-      "num": 156768,
-      "word": "幻云",
-      "onboard_time": 1737804620,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 154432,
@@ -1203,12 +1267,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138278,
+      "num": 138278,
+      "word": "杨紫最近的生活边角",
+      "onboard_time": 1737881538,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137980,
       "num": 137980,
       "word": "肖战蓝色流苏外套",
       "onboard_time": 1737867437,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137316,
+      "num": 137316,
+      "word": "海军多舰艇新春祝福合集",
+      "onboard_time": 1737882679,
+      "rank": 32,
+      "category": "军事"
     },
     {
       "raw_hot": 137264,
@@ -1259,6 +1339,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 134260,
+      "num": 134260,
+      "word": "白烁一穿嫁衣就开虐",
+      "onboard_time": 1737882198,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133230,
       "num": 170966,
       "word": "后天就除夕了",
@@ -1299,19 +1387,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131463,
-      "num": 131463,
-      "word": "特朗普称或考虑重新加入世卫组织",
-      "onboard_time": 1737879019,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 128156,
       "num": 128156,
       "word": "付航刚坐下3分钟就开始猴化",
       "onboard_time": 1737853338,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 127173,
+      "num": 127173,
+      "word": "郭晓东郭晓峰为村修路建桥打井",
+      "onboard_time": 1737877337,
+      "rank": 40,
       "category": "艺人"
     },
     {
@@ -1403,6 +1491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118555,
+      "num": 118555,
+      "word": "过年有个不扫兴的父母有多幸福",
+      "onboard_time": 1737882499,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 118501,
       "num": 118501,
       "word": "法国市长称樊振东是传奇运动员",
@@ -1425,14 +1521,6 @@
       "onboard_time": 1737868757,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 118162,
-      "num": 118162,
-      "word": "郭晓东郭晓峰为村修路建桥打井",
-      "onboard_time": 1737877337,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 116646,
@@ -1515,12 +1603,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 110137,
-      "num": 110137,
-      "word": "文淇 论文给我去死",
-      "onboard_time": 1737880578,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 109812,
+      "num": 208693,
+      "word": "视障女孩独自返乡1200公里一路暖意",
+      "onboard_time": 1737881058,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109011,
@@ -1627,6 +1715,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104096,
+      "num": 203282,
+      "word": "澳大利亚怎么这么好玩",
+      "onboard_time": 1737881118,
+      "rank": 19,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 104002,
+      "num": 104002,
+      "word": "云合",
+      "onboard_time": 1737883098,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103170,
       "num": 103170,
       "word": "五福临门开播",
@@ -1699,6 +1803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99659,
+      "num": 99659,
+      "word": "蓝盈莹英文口语",
+      "onboard_time": 1737883217,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99092,
       "num": 99092,
       "word": "女子吐槽网购买到翻新春联",
@@ -1753,6 +1865,14 @@
       "onboard_time": 1737809179,
       "rank": 43,
       "category": "网红"
+    },
+    {
+      "raw_hot": 95858,
+      "num": 107492,
+      "word": "祝宁波市民蛇年大吉巳巳如意",
+      "onboard_time": 1737882859,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94850,
@@ -1923,6 +2043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73556,
+      "num": 201064,
+      "word": "幻云称网恋两个月被骗20多万元",
+      "onboard_time": 1737880098,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 73331,
       "num": 209137,
       "word": "蛟龙行动第一场放映献给潜艇部队",
@@ -1937,6 +2065,14 @@
       "onboard_time": 1737816742,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72559,
+      "num": 105849,
+      "word": "交警压速带道护送车辆回家",
+      "onboard_time": 1737881418,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70616,
@@ -1961,6 +2097,14 @@
       "onboard_time": 1737822798,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 68633,
+      "num": 140748,
+      "word": "电竞选手幻云最新情况",
+      "onboard_time": 1737882679,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 68380,
@@ -2035,6 +2179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58923,
+      "num": 108430,
+      "word": "回顾肖战北京台春晚惊艳舞台",
+      "onboard_time": 1737881239,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 58660,
       "num": 202804,
       "word": "辽宁东部局地有大暴雪",
@@ -2091,14 +2243,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 54297,
-      "num": 201064,
-      "word": "幻云称网恋两个月被骗20多万元",
-      "onboard_time": 1737880098,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 52993,
       "num": 52993,
       "word": "河南暴雪亲历者发声",
@@ -2131,6 +2275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 49163,
+      "num": 200736,
+      "word": "盲人女孩独自返乡收获一路暖意",
+      "onboard_time": 1737881418,
+      "rank": 20,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 46613,
       "num": 407332,
       "word": "拜年有哪些大讲究",
@@ -2152,6 +2304,14 @@
       "word": "年轻人意识到健康比赚钱更加重要",
       "onboard_time": 1737846674,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43830,
+      "num": 210957,
+      "word": "保洁人员调包雇主价值40余万奢侈品",
+      "onboard_time": 1737882319,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -2185,6 +2345,14 @@
       "onboard_time": 1737860957,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38231,
+      "num": 109794,
+      "word": "人形机器人是AI的最佳载体吗",
+      "onboard_time": 1737883217,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 37971,
@@ -2299,6 +2467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 23333,
+      "num": 179790,
+      "word": "蛟龙行动预售票房破4000万",
+      "onboard_time": 1737883038,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 22254,
       "num": 177932,
       "word": "动漫最帅前辈毋庸置疑",
@@ -2313,6 +2489,14 @@
       "onboard_time": 1737872598,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20002,
+      "num": 150234,
+      "word": "美国已使用军机驱逐数百非法移民",
+      "onboard_time": 1737882440,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 19575,

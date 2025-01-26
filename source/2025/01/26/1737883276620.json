@@ -1,0 +1,410 @@
+{
+  "runTime": 1737883276620,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 401938,
+        "num": 1064310,
+        "word": "中央领导同志看望老同志",
+        "onboard_time": 1737877758,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 370518,
+        "num": 370518,
+        "word": "将门独后主演阵容",
+        "onboard_time": 1737878598,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42163,
+        "num": 341551,
+        "word": "拜年有哪些大讲究",
+        "onboard_time": 1737879137,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332657,
+        "num": 332657,
+        "word": "警方正在全力寻找电竞选手幻云",
+        "onboard_time": 1737881478,
+        "rank": 3,
+        "category": "民生新闻,电竞"
+      },
+      {
+        "raw_hot": 277601,
+        "num": 277601,
+        "word": "特朗普称或考虑重新加入世卫组织",
+        "onboard_time": 1737879019,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 2056912,
+        "num": 274512,
+        "word": "赵露思康复过程公开",
+        "onboard_time": 1737875656,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407915,
+        "num": 274454,
+        "word": "南京一柜姐评论刘亦菲微胖被辞退",
+        "onboard_time": 1737861438,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388698,
+        "num": 273147,
+        "word": "无忧传媒签约主播达人超10万人",
+        "onboard_time": 1737874698,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269935,
+        "num": 269935,
+        "word": "幻云",
+        "onboard_time": 1737879259,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 218316,
+        "num": 218316,
+        "word": "男子过年被催婚一句话让亲戚沉默",
+        "onboard_time": 1737865338,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1216765,
+        "num": 217362,
+        "word": "文淇 论文给我去死",
+        "onboard_time": 1737880578,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1014563,
+        "num": 215392,
+        "word": "亲生父亲为赌博一万元卖掉儿子",
+        "onboard_time": 1737878417,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 708505,
+        "num": 214077,
+        "word": "工作人员称说刘亦菲微胖柜姐无恶意",
+        "onboard_time": 1737877577,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 651866,
+        "num": 212146,
+        "word": "张大大小黑屋事件",
+        "onboard_time": 1737875778,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43830,
+        "num": 210957,
+        "word": "保洁人员调包雇主价值40余万奢侈品",
+        "onboard_time": 1737882319,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109812,
+        "num": 208693,
+        "word": "视障女孩独自返乡1200公里一路暖意",
+        "onboard_time": 1737881058,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341180,
+        "num": 207302,
+        "word": "比尔盖茨说离婚后成了空巢老人",
+        "onboard_time": 1737879019,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 279083,
+        "num": 206228,
+        "word": "王嘉尔突发胸痛住院",
+        "onboard_time": 1737870258,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205182,
+        "num": 205182,
+        "word": "DeepSeek彻底爆发",
+        "onboard_time": 1737876678,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 104096,
+        "num": 203282,
+        "word": "澳大利亚怎么这么好玩",
+        "onboard_time": 1737881118,
+        "rank": 19,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 49163,
+        "num": 200736,
+        "word": "盲人女孩独自返乡收获一路暖意",
+        "onboard_time": 1737881418,
+        "rank": 20,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 439884,
+        "num": 197302,
+        "word": "女子生完孩子却得知准丈夫已婚",
+        "onboard_time": 1737878899,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 901797,
+        "num": 195062,
+        "word": "曝张大大杨幂已绝交",
+        "onboard_time": 1737857357,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220289,
+        "num": 191754,
+        "word": "全糖可乐",
+        "onboard_time": 1737882138,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189801,
+        "num": 189801,
+        "word": "第一次见国产剧婆媳处成母女",
+        "onboard_time": 1737880698,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23333,
+        "num": 179790,
+        "word": "蛟龙行动预售票房破4000万",
+        "onboard_time": 1737883038,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177782,
+        "num": 177782,
+        "word": "五福临门五娘 小小老子脾气爆",
+        "onboard_time": 1737882019,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173725,
+        "num": 173725,
+        "word": "刘晓庆吃苦论",
+        "onboard_time": 1737880759,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172287,
+        "num": 172287,
+        "word": "cp二搭不在于重复而在于重逢",
+        "onboard_time": 1737882918,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20002,
+        "num": 150234,
+        "word": "美国已使用军机驱逐数百非法移民",
+        "onboard_time": 1737882440,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 68633,
+        "num": 140748,
+        "word": "电竞选手幻云最新情况",
+        "onboard_time": 1737882679,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138278,
+        "num": 138278,
+        "word": "杨紫最近的生活边角",
+        "onboard_time": 1737881538,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137316,
+        "num": 137316,
+        "word": "海军多舰艇新春祝福合集",
+        "onboard_time": 1737882679,
+        "rank": 32,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 134665,
+        "num": 134665,
+        "word": "赵露思最初以为是鸡蛋过敏",
+        "onboard_time": 1737864498,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134260,
+        "num": 134260,
+        "word": "白烁一穿嫁衣就开虐",
+        "onboard_time": 1737882198,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127173,
+        "num": 127173,
+        "word": "郭晓东郭晓峰为村修路建桥打井",
+        "onboard_time": 1737877337,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122722,
+        "num": 122722,
+        "word": "2025春节档预售票房破6亿",
+        "onboard_time": 1737867378,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118555,
+        "num": 118555,
+        "word": "过年有个不扫兴的父母有多幸福",
+        "onboard_time": 1737882499,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110303,
+        "num": 110303,
+        "word": "菲律宾船从中国海警船前横穿",
+        "onboard_time": 1737870798,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 38231,
+        "num": 109794,
+        "word": "人形机器人是AI的最佳载体吗",
+        "onboard_time": 1737883217,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 118183,
+        "num": 108918,
+        "word": "台湾一男子夜市上用竹签刺游客臀部",
+        "onboard_time": 1737874158,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58923,
+        "num": 108430,
+        "word": "回顾肖战北京台春晚惊艳舞台",
+        "onboard_time": 1737881239,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95858,
+        "num": 107492,
+        "word": "祝宁波市民蛇年大吉巳巳如意",
+        "onboard_time": 1737882859,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73556,
+        "num": 106932,
+        "word": "幻云称网恋两个月被骗20多万元",
+        "onboard_time": 1737880098,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106746,
+        "num": 106746,
+        "word": "女子行李丢失男子追100公里归还",
+        "onboard_time": 1737873919,
+        "rank": 44,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 106394,
+        "num": 106394,
+        "word": "Jasper在陈小春家学历最高",
+        "onboard_time": 1737870379,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72559,
+        "num": 105849,
+        "word": "交警压速带道护送车辆回家",
+        "onboard_time": 1737881418,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105552,
+        "num": 105552,
+        "word": "网红犬哈礼鹿身上一个褥疮也没有",
+        "onboard_time": 1737868579,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104002,
+        "num": 104002,
+        "word": "云合",
+        "onboard_time": 1737883098,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99659,
+        "num": 99659,
+        "word": "蓝盈莹英文口语",
+        "onboard_time": 1737883217,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平与人民在一起的温暖瞬间#"
+    }
+  }
+}
