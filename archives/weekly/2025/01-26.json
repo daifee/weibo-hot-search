@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1737933601099,
+  "endTime": 1737934544623,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 811078,
-      "num": 811078,
+      "num": 903594,
       "word": "陈小春突然想起自己签了保密协议",
       "onboard_time": 1737904460,
       "rank": 11,
@@ -795,6 +795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 368682,
+      "num": 368682,
+      "word": "演员大锁发文称别洗白了",
+      "onboard_time": 1737921970,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 367348,
       "num": 367348,
       "word": "射雕英雄传预售票房突破2.5亿",
@@ -1099,14 +1107,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 262218,
-      "num": 262218,
-      "word": "演员大锁发文称别洗白了",
-      "onboard_time": 1737921970,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 262205,
       "num": 262205,
       "word": "河南大学火灾事故48人被处理",
@@ -1145,6 +1145,14 @@
       "onboard_time": 1737905720,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 251239,
+      "num": 72909,
+      "word": "张大大曾因口碑问题2年无固定工作",
+      "onboard_time": 1737928872,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 250313,
@@ -1331,14 +1339,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 211365,
-      "num": 60176,
-      "word": "张大大曾因口碑问题2年无固定工作",
-      "onboard_time": 1737928872,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 209948,
       "num": 198210,
       "word": "赵露思拐杖",
@@ -1384,6 +1384,14 @@
       "word": "射雕英雄传预售仍断层领先",
       "onboard_time": 1737846374,
       "rank": 11,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 204936,
+      "num": 156163,
+      "word": "业内预测票房冠军是哪吒或唐探",
+      "onboard_time": 1737928271,
+      "rank": 14,
       "category": "电影"
     },
     {
@@ -1545,14 +1553,6 @@
       "onboard_time": 1737880698,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189529,
-      "num": 127322,
-      "word": "业内预测票房冠军是哪吒或唐探",
-      "onboard_time": 1737928271,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 189479,
@@ -2291,6 +2291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135814,
+      "num": 135814,
+      "word": "合肥地震",
+      "onboard_time": 1737933313,
+      "rank": 16,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 135495,
       "num": 135495,
       "word": "刘诗诗最强辅助",
@@ -2539,6 +2547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118744,
+      "num": 118744,
+      "word": "年前最后一个工作日了",
+      "onboard_time": 1737933613,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118561,
       "num": 221683,
       "word": "九月退役",
@@ -2625,6 +2641,14 @@
       "onboard_time": 1737902541,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115012,
+      "num": 115012,
+      "word": "无忧传媒称黄某视频陈述有夸张误导",
+      "onboard_time": 1737924672,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 114241,
@@ -2827,14 +2851,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 106032,
-      "num": 95562,
-      "word": "无忧传媒称黄某视频陈述有夸张误导",
-      "onboard_time": 1737924672,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 105173,
       "num": 180885,
       "word": "库里下半场0分",
@@ -3019,6 +3035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96982,
+      "num": 96982,
+      "word": "8岁失踪女童亲友发声",
+      "onboard_time": 1737922812,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96847,
       "num": 210202,
       "word": "幻云称网恋两个月被骗20多万元",
@@ -3097,14 +3121,6 @@
       "onboard_time": 1737883878,
       "rank": 44,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 90683,
-      "num": 90683,
-      "word": "8岁失踪女童亲友发声",
-      "onboard_time": 1737922812,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90599,
@@ -3275,6 +3291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78284,
+      "num": 78284,
+      "word": "马斯克提议英吉利海峡更名",
+      "onboard_time": 1737933613,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 78105,
       "num": 142301,
       "word": "杨幂上城士开年刊",
@@ -3337,14 +3361,6 @@
       "onboard_time": 1737906138,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 74321,
-      "num": 74321,
-      "word": "合肥地震",
-      "onboard_time": 1737933313,
-      "rank": 16,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 73331,
@@ -3472,6 +3488,14 @@
       "word": "韩国代表团内部讨论过重赛可能性",
       "onboard_time": 1737823578,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 63774,
+      "num": 55625,
+      "word": "柯洁说对手举报后还有说有笑",
+      "onboard_time": 1737933613,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -3619,6 +3643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 53945,
+      "num": 53945,
+      "word": "DeepSeek新模型火到海外",
+      "onboard_time": 1737933254,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 52993,
       "num": 52993,
       "word": "河南暴雪亲历者发声",
@@ -3667,6 +3699,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 49158,
+      "num": 49158,
+      "word": "特朗普想把空军一号改为深蓝色",
+      "onboard_time": 1737918732,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 48962,
       "num": 863238,
       "word": "拜年有哪些大讲究",
@@ -3683,12 +3723,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 48083,
-      "num": 48083,
-      "word": "DeepSeek新模型火到海外",
-      "onboard_time": 1737933254,
-      "rank": 27,
-      "category": "互联网"
+      "raw_hot": 46875,
+      "num": 46875,
+      "word": "过年仪式感被外国人学到真精髓了",
+      "onboard_time": 1737934275,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46129,
@@ -3697,6 +3737,14 @@
       "onboard_time": 1737825736,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 46029,
+      "num": 46029,
+      "word": "王一博的年终总结",
+      "onboard_time": 1737933794,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 45285,
@@ -3720,14 +3768,6 @@
       "word": "美国已使用军机驱逐数百非法移民",
       "onboard_time": 1737882440,
       "rank": 29,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 42563,
-      "num": 42563,
-      "word": "特朗普想把空军一号改为深蓝色",
-      "onboard_time": 1737918732,
-      "rank": 48,
       "category": "国际时政"
     },
     {
@@ -3793,6 +3833,14 @@
       "onboard_time": 1737893959,
       "rank": 34,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 38170,
+      "num": 96036,
+      "word": "2025河南春晚最期待节目",
+      "onboard_time": 1737933133,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 37971,
@@ -4243,11 +4291,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 7703,
-      "num": 96036,
-      "word": "2025河南春晚最期待节目",
-      "onboard_time": 1737933133,
-      "rank": 9,
+      "raw_hot": 6933,
+      "num": 57771,
+      "word": "2025河南春晚节目单公布",
+      "onboard_time": 1737934335,
+      "rank": 26,
       "category": "综艺"
     },
     {
