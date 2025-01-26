@@ -1,0 +1,410 @@
+{
+  "runTime": 1737913057641,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 584585,
+        "num": 584585,
+        "word": "颜十六已到案回国",
+        "onboard_time": 1737904641,
+        "rank": 0,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 317582,
+        "num": 317582,
+        "word": "陈小春突然想起自己签了保密协议",
+        "onboard_time": 1737904460,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23052,
+        "num": 268563,
+        "word": "五十六个民族各有各的特色年味儿",
+        "onboard_time": 1737903860,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 411951,
+        "num": 263150,
+        "word": "王嘉尔正在住院接受治疗",
+        "onboard_time": 1737897558,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255537,
+        "num": 255537,
+        "word": "幻云发博回应被骗",
+        "onboard_time": 1737905720,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 177972,
+        "num": 177972,
+        "word": "为何国人偏爱大红大黄传统色",
+        "onboard_time": 1737907037,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158123,
+        "num": 158123,
+        "word": "前SNH48成员吕相宜开赌场被抓",
+        "onboard_time": 1737899179,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153595,
+        "num": 153595,
+        "word": "柯洁直播哭了",
+        "onboard_time": 1737895579,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152266,
+        "num": 152266,
+        "word": "毛利兰从青梅竹马变女朋友",
+        "onboard_time": 1737894979,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 41562,
+        "num": 146910,
+        "word": "永远相信河南春晚审美",
+        "onboard_time": 1737909915,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 572188,
+        "num": 146185,
+        "word": "赵露思",
+        "onboard_time": 1737906497,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144824,
+        "num": 144824,
+        "word": "网恋女友骗幻云23万挥霍刷礼物",
+        "onboard_time": 1737909436,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135490,
+        "num": 135490,
+        "word": "王源新歌千秋一刻共赏甲骨文明之美",
+        "onboard_time": 1737906977,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 113734,
+        "num": 113734,
+        "word": "王皓说樊振东是世界超一流的选手",
+        "onboard_time": 1737906378,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113229,
+        "num": 113229,
+        "word": "韩国铆足劲吸引中国游客",
+        "onboard_time": 1737901760,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231647,
+        "num": 112652,
+        "word": "赵露思比耶无法控制小拇指",
+        "onboard_time": 1737902120,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105541,
+        "num": 105541,
+        "word": "无忧传媒回应和黄毛毛解约",
+        "onboard_time": 1737898520,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105431,
+        "num": 105431,
+        "word": "吴宣仪演技",
+        "onboard_time": 1737901941,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103421,
+        "num": 103421,
+        "word": "杨紫何惟芳故事走到终章",
+        "onboard_time": 1737906497,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85934,
+        "num": 85934,
+        "word": "2025新春",
+        "onboard_time": 1737902120,
+        "rank": 19,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 395579,
+        "num": 85341,
+        "word": "张某某将可能涉嫌多项罪名",
+        "onboard_time": 1737895639,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300224,
+        "num": 84869,
+        "word": "张大大助理发离职证明",
+        "onboard_time": 1737890718,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91931,
+        "num": 84592,
+        "word": "费翔说今年是第一年家里没人了",
+        "onboard_time": 1737895819,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 84314,
+        "num": 84314,
+        "word": "这届年轻人手机贴都要黄金的",
+        "onboard_time": 1737904340,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63040,
+        "num": 63040,
+        "word": "柯洁说被治愈了",
+        "onboard_time": 1737910276,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71250,
+        "num": 63036,
+        "word": "王冰冰演短剧了",
+        "onboard_time": 1737911895,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148324,
+        "num": 62414,
+        "word": "张大大曾对姜潮发火",
+        "onboard_time": 1737902901,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70064,
+        "num": 62242,
+        "word": "周深新歌麦田里的摇滚绝美高音",
+        "onboard_time": 1737889277,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67387,
+        "num": 61975,
+        "word": "陈丽君60秒演绎百年越剧情",
+        "onboard_time": 1737906318,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61695,
+        "num": 61695,
+        "word": "丁禹兮参加蛇年央视春晚备播录制",
+        "onboard_time": 1737911475,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60542,
+        "num": 60542,
+        "word": "央视新闻对话封神主创",
+        "onboard_time": 1737909915,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 59641,
+        "num": 59641,
+        "word": "和鹿晗过大年",
+        "onboard_time": 1737901700,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56322,
+        "num": 56322,
+        "word": "柬埔寨珍娜公主用中文拜年",
+        "onboard_time": 1737900441,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 56227,
+        "num": 56227,
+        "word": "全糖可乐",
+        "onboard_time": 1737882138,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56095,
+        "num": 56095,
+        "word": "王源国风舞台演绎中式浪漫",
+        "onboard_time": 1737891078,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51295,
+        "num": 51295,
+        "word": "柯洁说为第9冠付出了很多",
+        "onboard_time": 1737909196,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51215,
+        "num": 51215,
+        "word": "射雕英雄传预售票房突破2.5亿",
+        "onboard_time": 1737887718,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 50310,
+        "num": 50310,
+        "word": "新娘坐高铁去结婚收获全车祝福",
+        "onboard_time": 1737903021,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49862,
+        "num": 49862,
+        "word": "柯洁鞠躬感谢支持者",
+        "onboard_time": 1737910276,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47585,
+        "num": 47585,
+        "word": "王菲现身蛇年春晚备播现场",
+        "onboard_time": 1737903200,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46729,
+        "num": 46729,
+        "word": "你好星期六拍立得",
+        "onboard_time": 1737892159,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45593,
+        "num": 45593,
+        "word": "棍铲",
+        "onboard_time": 1737905059,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44670,
+        "num": 44670,
+        "word": "新年头像",
+        "onboard_time": 1737911475,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39823,
+        "num": 39823,
+        "word": "IVE回归概念预告",
+        "onboard_time": 1737905298,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39662,
+        "num": 39662,
+        "word": "王星越新剧送的梅花是镶金的",
+        "onboard_time": 1737907158,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39102,
+        "num": 39102,
+        "word": "敖瑞鹏3分钟语音告别白月梵星",
+        "onboard_time": 1737901401,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37704,
+        "num": 37704,
+        "word": "抖音bug",
+        "onboard_time": 1737889459,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 36439,
+        "num": 36439,
+        "word": "河南春晚是真的蛇年春晚",
+        "onboard_time": 1737906138,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33741,
+        "num": 35158,
+        "word": "晕车晕机试试这组动作",
+        "onboard_time": 1737912554,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 31941,
+        "num": 34945,
+        "word": "樊振东获得2025世乒赛决赛参赛资格",
+        "onboard_time": 1737889577,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央领导同志看望老同志#"
+    }
+  }
+}
