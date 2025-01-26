@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737891326942,
+  "endTime": 1737895067827,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -523,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3143279,
+      "num": 351521,
+      "word": "赵露思病发抽搐视频",
+      "onboard_time": 1737886339,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3096612,
       "num": 307404,
       "word": "疑似支付宝出现重大bug",
@@ -552,14 +560,6 @@
       "word": "王星称被关在有50个中国人的建筑里",
       "onboard_time": 1736295803,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 3072079,
-      "num": 351521,
-      "word": "赵露思病发抽搐视频",
-      "onboard_time": 1737886339,
-      "rank": 7,
       "category": "艺人"
     },
     {
