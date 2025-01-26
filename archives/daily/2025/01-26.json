@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1737887851918,
+  "endTime": 1737890201799,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -19,19 +19,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2972130,
+      "num": 351521,
+      "word": "赵露思病发抽搐视频",
+      "onboard_time": 1737886339,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2970349,
       "num": 308896,
       "word": "赵露思病发抽搐",
       "onboard_time": 1737886339,
       "rank": 6,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2409810,
-      "num": 351521,
-      "word": "赵露思病发抽搐视频",
-      "onboard_time": 1737886339,
-      "rank": 7,
       "category": "艺人"
     },
     {
@@ -168,6 +168,14 @@
       "word": "王嘉尔突发胸痛住院",
       "onboard_time": 1737870258,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 817391,
+      "num": 265140,
+      "word": "曾黎帮赵露思暖手",
+      "onboard_time": 1737884478,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -355,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 504878,
+      "num": 504878,
+      "word": "春晚彩排",
+      "onboard_time": 1737885918,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 504527,
       "num": 282019,
       "word": "碗盆",
@@ -500,7 +516,7 @@
     },
     {
       "raw_hot": 408523,
-      "num": 216357,
+      "num": 226692,
       "word": "全糖可乐",
       "onboard_time": 1737882138,
       "rank": 23,
@@ -571,20 +587,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 357241,
+      "num": 275341,
+      "word": "白色橄榄树官宣12首OST",
+      "onboard_time": 1737888379,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 353264,
       "num": 230379,
       "word": "比尔盖茨说离婚后成了空巢老人",
       "onboard_time": 1737879019,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 349512,
-      "num": 349512,
-      "word": "春晚彩排",
-      "onboard_time": 1737885918,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 340406,
@@ -699,6 +715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 279750,
+      "num": 279750,
+      "word": "樊振东获得2025世乒赛决赛参赛资格",
+      "onboard_time": 1737889577,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 277601,
       "num": 277601,
       "word": "特朗普称或考虑重新加入世卫组织",
@@ -731,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 267098,
+      "num": 267098,
+      "word": "王皓马琳谈多哈世乒赛选拔标准",
+      "onboard_time": 1737888260,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 262254,
       "num": 262254,
       "word": "美国叫停几乎全部对外援助",
@@ -761,6 +793,14 @@
       "onboard_time": 1737868638,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 251758,
+      "num": 251758,
+      "word": "肖战说侠要有为国为民的心",
+      "onboard_time": 1737888078,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 250313,
@@ -875,6 +915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 210723,
+      "num": 266924,
+      "word": "仙逆",
+      "onboard_time": 1737887718,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 209948,
       "num": 198210,
       "word": "赵露思拐杖",
@@ -955,6 +1003,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 201048,
+      "num": 234150,
+      "word": "男子飞越雪山失联超72小时没带食物",
+      "onboard_time": 1737888498,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198990,
       "num": 198990,
       "word": "五福临门",
@@ -972,7 +1028,7 @@
     },
     {
       "raw_hot": 196691,
-      "num": 196691,
+      "num": 204709,
       "word": "蓝盈莹英文口语",
       "onboard_time": 1737883217,
       "rank": 49,
@@ -1147,6 +1203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 168765,
+      "num": 214033,
+      "word": "射雕英雄传预售票房突破2.5亿",
+      "onboard_time": 1737887718,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 168714,
       "num": 168714,
       "word": "阿云嘎蔡明倪萍全家福大片",
@@ -1299,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151445,
+      "num": 195186,
+      "word": "成毅莲花楼重回电视剧飙升榜第一",
+      "onboard_time": 1737888018,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150502,
       "num": 150502,
       "word": "哈登40分",
@@ -1315,12 +1387,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 149817,
+      "num": 149817,
+      "word": "抖音bug",
+      "onboard_time": 1737889459,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 149240,
       "num": 149240,
       "word": "张钧甯骨相美人",
       "onboard_time": 1737864797,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148974,
+      "num": 148974,
+      "word": "中国乒协公示多哈世乒赛选拔办法",
+      "onboard_time": 1737889879,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 148488,
@@ -1361,6 +1449,14 @@
       "onboard_time": 1737805160,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 146711,
+      "num": 146711,
+      "word": "2025湾区春晚节目单",
+      "onboard_time": 1737888858,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 144572,
@@ -1409,6 +1505,14 @@
       "onboard_time": 1737875357,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140902,
+      "num": 140902,
+      "word": "王者荣耀",
+      "onboard_time": 1737889036,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 140894,
@@ -1539,12 +1643,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132798,
+      "num": 266814,
+      "word": "周深新歌麦田里的摇滚绝美高音",
+      "onboard_time": 1737889277,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132761,
       "num": 132761,
       "word": "重昭知道你很急但是你先别急",
       "onboard_time": 1737861677,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132461,
+      "num": 132461,
+      "word": "河南大雪680公里回家路走了38小时",
+      "onboard_time": 1737887718,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131874,
@@ -1577,14 +1697,6 @@
       "onboard_time": 1737846193,
       "rank": 23,
       "category": "剧集,民生新闻"
-    },
-    {
-      "raw_hot": 125308,
-      "num": 125308,
-      "word": "河南大雪680公里回家路走了38小时",
-      "onboard_time": 1737887718,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 125021,
@@ -1675,12 +1787,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119625,
-      "num": 119625,
-      "word": "仙逆",
-      "onboard_time": 1737887718,
-      "rank": 38,
-      "category": "动漫"
+      "raw_hot": 118561,
+      "num": 221683,
+      "word": "九月退役",
+      "onboard_time": 1737889638,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 118555,
@@ -1715,12 +1827,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 117613,
+      "num": 117613,
+      "word": "知情人称失联8岁女童并非离家出走",
+      "onboard_time": 1737888978,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116646,
       "num": 172044,
       "word": "广东冷出了冰挂雾凇",
       "onboard_time": 1737876317,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116477,
+      "num": 116477,
+      "word": "你们会告诉父母你的真实存款吗",
+      "onboard_time": 1737884598,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 116381,
@@ -1995,14 +2123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102026,
-      "num": 102026,
-      "word": "你们会告诉父母你的真实存款吗",
-      "onboard_time": 1737884598,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 101888,
       "num": 180430,
       "word": "年度安全感时刻",
@@ -2059,6 +2179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98929,
+      "num": 98929,
+      "word": "王鹤棣田曦薇 我心尔尔",
+      "onboard_time": 1737890058,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98662,
       "num": 98662,
       "word": "潘宏维权",
@@ -2075,20 +2203,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98378,
+      "num": 98378,
+      "word": "辛纳2比0兹维列夫",
+      "onboard_time": 1737890177,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98329,
       "num": 98329,
       "word": "员工数钱有零头老板加9700元凑整",
       "onboard_time": 1737865457,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 97054,
-      "num": 97054,
-      "word": "射雕英雄传预售票房突破2.5亿",
-      "onboard_time": 1737887718,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 96847,
@@ -2715,6 +2843,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 31231,
+      "num": 119585,
+      "word": "老外过春节满满仪式感",
+      "onboard_time": 1737888260,
+      "rank": 40,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 28618,
       "num": 180315,
       "word": "反向驯化大数据杀熟真的有用吗",
@@ -2729,6 +2865,14 @@
       "onboard_time": 1737829273,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26948,
+      "num": 122788,
+      "word": "中式甜品才是浪漫的最高级",
+      "onboard_time": 1737889219,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 26093,
@@ -2793,6 +2937,14 @@
       "onboard_time": 1737830173,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 23313,
+      "num": 169963,
+      "word": "70秒认全大湾区32只大熊猫",
+      "onboard_time": 1737889638,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22254,
@@ -2896,6 +3048,14 @@
       "word": "用非遗剪纸打开城市地标",
       "onboard_time": 1737842832,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8400,
+      "num": 128758,
+      "word": "给老外一点舞龙舞狮震撼",
+      "onboard_time": 1737889758,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
