@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1737869856693,
+  "endTime": 1737872901373,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -115,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 712204,
+      "num": 1113952,
+      "word": "王嘉尔突发胸痛住院",
+      "onboard_time": 1737870258,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 711987,
       "num": 245185,
       "word": "宝马已在还贷车主无法提车",
@@ -193,6 +201,14 @@
       "onboard_time": 1737863358,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 515745,
+      "num": 155317,
+      "word": "Jasper在陈小春家学历最高",
+      "onboard_time": 1737870379,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 513993,
@@ -315,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 394394,
+      "num": 235274,
+      "word": "2025春节档预售票房破6亿",
+      "onboard_time": 1737867378,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 389065,
       "num": 389065,
       "word": "夫妻各回各家过年做父母的孩子",
@@ -348,11 +372,19 @@
     },
     {
       "raw_hot": 339413,
-      "num": 191711,
+      "num": 232576,
       "word": "和卞相壹下棋被做成游戏",
       "onboard_time": 1737867738,
       "rank": 35,
       "category": "体育,游戏"
+    },
+    {
+      "raw_hot": 333957,
+      "num": 233694,
+      "word": "网红犬哈礼鹿身上一个褥疮也没有",
+      "onboard_time": 1737868579,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 328046,
@@ -379,12 +411,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 288657,
+      "num": 231142,
+      "word": "沈月高至霆8年前vs8年后",
+      "onboard_time": 1737868398,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 285759,
       "num": 285759,
       "word": "网友不买账霸王茶姬评论区致歉",
       "onboard_time": 1737823156,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 279552,
+      "num": 279552,
+      "word": "菲律宾船从中国海警船前横穿",
+      "onboard_time": 1737870798,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 277386,
@@ -427,14 +475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 251074,
-      "num": 181928,
-      "word": "沈月高至霆8年前vs8年后",
-      "onboard_time": 1737868398,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 250313,
       "num": 250313,
       "word": "刘亦菲带火了奥特曼发夹",
@@ -448,14 +488,6 @@
       "word": "儿媳偷送金耳环婆婆笑着笑着就哭了",
       "onboard_time": 1737862158,
       "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 242096,
-      "num": 188089,
-      "word": "网红犬哈礼鹿身上一个褥疮也没有",
-      "onboard_time": 1737868579,
-      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -483,6 +515,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239430,
+      "num": 231107,
+      "word": "邓为新剧定档",
+      "onboard_time": 1737872298,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 236494,
+      "num": 236494,
+      "word": "这火车怎么蛇里蛇气的",
+      "onboard_time": 1737869177,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230299,
       "num": 230299,
       "word": "金珉奎摔倒",
@@ -497,14 +545,6 @@
       "onboard_time": 1737851717,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 226001,
-      "num": 226001,
-      "word": "2025春节档预售票房破6亿",
-      "onboard_time": 1737867378,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 220907,
@@ -563,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207949,
+      "num": 177733,
+      "word": "店家回应刘亦菲带火19元奥特曼发夹",
+      "onboard_time": 1737868339,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205252,
       "num": 205252,
       "word": "射雕英雄传预售仍断层领先",
@@ -585,14 +633,6 @@
       "onboard_time": 1737864857,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 201407,
-      "num": 177733,
-      "word": "店家回应刘亦菲带火19元奥特曼发夹",
-      "onboard_time": 1737868339,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 198990,
@@ -747,6 +787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161449,
+      "num": 161449,
+      "word": "恋与深空 秦彻",
+      "onboard_time": 1737871638,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 159848,
       "num": 159848,
       "word": "海豚吃的饺子皮是鱿鱼",
@@ -785,6 +833,14 @@
       "onboard_time": 1737855557,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154086,
+      "num": 154086,
+      "word": "在梁洁这吃到现偶的细糠了",
+      "onboard_time": 1737871338,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 153930,
@@ -875,6 +931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141303,
+      "num": 141303,
+      "word": "杨紫李现互戴头盔",
+      "onboard_time": 1737871459,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140894,
       "num": 140894,
       "word": "女子推理社",
@@ -889,6 +953,22 @@
       "onboard_time": 1737867437,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137738,
+      "num": 161191,
+      "word": "张钧甯五本主流刊",
+      "onboard_time": 1737872538,
+      "rank": 18,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 137264,
+      "num": 137264,
+      "word": "萨巴伦卡心态太好了吧",
+      "onboard_time": 1737871638,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 136082,
@@ -971,14 +1051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126445,
-      "num": 144041,
-      "word": "这火车怎么蛇里蛇气的",
-      "onboard_time": 1737869177,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125329,
       "num": 125329,
       "word": "打工宝妈在国色芳华里演上了贵人",
@@ -1001,6 +1073,14 @@
       "onboard_time": 1737846493,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123760,
+      "num": 123760,
+      "word": "郑钦文手书竟是可爱小学生体",
+      "onboard_time": 1737871219,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 123543,
@@ -1091,6 +1171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110931,
+      "num": 154568,
+      "word": "无所畏惧2不只是职场剧",
+      "onboard_time": 1737871758,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110497,
       "num": 110497,
       "word": "赵丽颖早期晋江式演技",
@@ -1156,7 +1244,7 @@
     },
     {
       "raw_hot": 105173,
-      "num": 105173,
+      "num": 159474,
       "word": "库里下半场0分",
       "onboard_time": 1737869719,
       "rank": 49,
@@ -1280,6 +1368,14 @@
       "word": "员工数钱有零头老板加9700元凑整",
       "onboard_time": 1737865457,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96910,
+      "num": 158801,
+      "word": "男子徒步650公里回乡暴瘦10斤",
+      "onboard_time": 1737871997,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -1507,12 +1603,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65530,
+      "num": 161039,
+      "word": "云南8岁女童雪山失踪已超6天",
+      "onboard_time": 1737871638,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62617,
+      "num": 140546,
+      "word": "蛟龙行动第一场放映献给潜艇部队",
+      "onboard_time": 1737872718,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 61777,
       "num": 168919,
       "word": "刘宇与粉丝双向奔赴MV",
       "onboard_time": 1737869358,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 60847,
+      "num": 156839,
+      "word": "河南春晚今晚播出",
+      "onboard_time": 1737869839,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 60023,
+      "num": 128634,
+      "word": "刘些宁新剧玲珑心掌家门",
+      "onboard_time": 1737872838,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 57848,
@@ -1539,6 +1667,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 55319,
+      "num": 387274,
+      "word": "第一批回家过年的人集合",
+      "onboard_time": 1737868517,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52993,
       "num": 52993,
       "word": "河南暴雪亲历者发声",
@@ -1563,14 +1699,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 47124,
-      "num": 387274,
-      "word": "第一批回家过年的人集合",
-      "onboard_time": 1737868517,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 46129,
       "num": 64671,
       "word": "俱乐部已找到电竞选手幻云本人",
@@ -1585,14 +1713,6 @@
       "onboard_time": 1737846674,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43949,
-      "num": 152563,
-      "word": "河南春晚今晚播出",
-      "onboard_time": 1737869839,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 39248,
@@ -1699,6 +1819,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 20959,
+      "num": 151110,
+      "word": "反向驯化大数据杀熟真的有用吗",
+      "onboard_time": 1737872718,
+      "rank": 35,
+      "category": "议题讨论,民生新闻"
+    },
+    {
       "raw_hot": 19575,
       "num": 25244,
       "word": "曼城vs切尔西",
@@ -1739,6 +1867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11298,
+      "num": 157589,
+      "word": "一起离婚财产纠纷牵出法官受贿",
+      "onboard_time": 1737872598,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10161,
       "num": 22900,
       "word": "非遗春节大拜年",
@@ -1761,6 +1897,14 @@
       "onboard_time": 1737842832,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 4801,
+      "num": 158656,
+      "word": "游戏的世界不能没有小孩哥",
+      "onboard_time": 1737870077,
+      "rank": 28,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
