@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1737913057641,
+  "endTime": 1737916069859,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -1305,6 +1305,14 @@
       "onboard_time": 1737852797,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214104,
+      "num": 214104,
+      "word": "柜姐评论刘亦菲微胖店铺正常运营",
+      "onboard_time": 1737913755,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 213663,
@@ -3323,7 +3331,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 71250,
+      "raw_hot": 71358,
       "num": 63036,
       "word": "王冰冰演短剧了",
       "onboard_time": 1737911895,
@@ -3817,6 +3825,14 @@
       "onboard_time": 1737829273,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 28116,
+      "num": 90569,
+      "word": "外媒称特朗普提出清理加沙计划",
+      "onboard_time": 1737914953,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 26948,
