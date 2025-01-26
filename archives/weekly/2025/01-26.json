@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1737868884684,
+  "endTime": 1737869856693,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 989818,
+      "num": 257426,
+      "word": "女子产后遭第三者到医院挑衅",
+      "onboard_time": 1737867497,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 987998,
       "num": 1158079,
       "word": "井胧曾因父母职业自卑",
@@ -75,14 +83,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 820068,
-      "num": 257426,
-      "word": "女子产后遭第三者到医院挑衅",
-      "onboard_time": 1737867497,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 811729,
       "num": 932394,
       "word": "雷军直播时突然被封",
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 736771,
-      "num": 361662,
+      "num": 375174,
       "word": "男子过年被催婚一句话让亲戚沉默",
       "onboard_time": 1737865338,
       "rank": 24,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 730426,
-      "num": 1095057,
+      "num": 1102714,
       "word": "王冰冰首部古装剧定档",
       "onboard_time": 1737862158,
       "rank": 12,
@@ -283,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 421929,
+      "num": 347557,
+      "word": "白色橄榄树",
+      "onboard_time": 1737868459,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 416771,
       "num": 384509,
       "word": "特朗普与洛杉矶市长爆发争吵",
@@ -323,12 +331,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 365624,
+      "num": 365624,
+      "word": "周鸿祎官宣送100辆国产新能源车",
+      "onboard_time": 1737867798,
+      "rank": 9,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 340406,
       "num": 340406,
       "word": "迪丽热巴设计的项链",
       "onboard_time": 1737818301,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 339413,
+      "num": 191711,
+      "word": "和卞相壹下棋被做成游戏",
+      "onboard_time": 1737867738,
+      "rank": 35,
+      "category": "体育,游戏"
     },
     {
       "raw_hot": 328046,
@@ -379,14 +403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 268123,
-      "num": 164397,
-      "word": "和卞相壹下棋被做成游戏",
-      "onboard_time": 1737867738,
-      "rank": 35,
-      "category": "体育,游戏"
-    },
-    {
       "raw_hot": 262254,
       "num": 262254,
       "word": "美国叫停几乎全部对外援助",
@@ -403,6 +419,22 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 256268,
+      "num": 188503,
+      "word": "六姊妹定档",
+      "onboard_time": 1737868638,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 251074,
+      "num": 181928,
+      "word": "沈月高至霆8年前vs8年后",
+      "onboard_time": 1737868398,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 250313,
       "num": 250313,
       "word": "刘亦菲带火了奥特曼发夹",
@@ -411,19 +443,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 245390,
-      "num": 245390,
-      "word": "周鸿祎官宣送100辆国产新能源车",
-      "onboard_time": 1737867798,
-      "rank": 9,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 243092,
       "num": 181796,
       "word": "儿媳偷送金耳环婆婆笑着笑着就哭了",
       "onboard_time": 1737862158,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 242096,
+      "num": 188089,
+      "word": "网红犬哈礼鹿身上一个褥疮也没有",
+      "onboard_time": 1737868579,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -443,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 239755,
+      "num": 179526,
+      "word": "余承恩加盟我家那小子",
+      "onboard_time": 1737868279,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230299,
       "num": 230299,
       "word": "金珉奎摔倒",
@@ -459,12 +499,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 226001,
+      "num": 226001,
+      "word": "2025春节档预售票房破6亿",
+      "onboard_time": 1737867378,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 220907,
       "num": 220907,
       "word": "杨紫李现好六国色芳华专场收视率",
       "onboard_time": 1737816262,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218945,
+      "num": 173556,
+      "word": "蛇年央视春晚最后一次联排",
+      "onboard_time": 1737868040,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 218477,
@@ -499,19 +555,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 207239,
-      "num": 179526,
-      "word": "余承恩加盟我家那小子",
-      "onboard_time": 1737868279,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 206739,
-      "num": 173556,
-      "word": "蛇年央视春晚最后一次联排",
-      "onboard_time": 1737868040,
-      "rank": 24,
+      "raw_hot": 208650,
+      "num": 179828,
+      "word": "2025北京台春晚全阵容",
+      "onboard_time": 1737868819,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -539,12 +587,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199549,
-      "num": 163721,
-      "word": "白色橄榄树",
-      "onboard_time": 1737868459,
-      "rank": 36,
-      "category": "剧集"
+      "raw_hot": 201407,
+      "num": 177733,
+      "word": "店家回应刘亦菲带火19元奥特曼发夹",
+      "onboard_time": 1737868339,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 198990,
@@ -579,12 +627,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 192605,
-      "num": 162426,
-      "word": "六姊妹定档",
-      "onboard_time": 1737868638,
-      "rank": 38,
-      "category": "剧集"
+      "raw_hot": 193630,
+      "num": 193630,
+      "word": "浙江首考",
+      "onboard_time": 1737868997,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 192578,
@@ -595,12 +643,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190124,
-      "num": 161569,
-      "word": "2025春节档预售票房破6亿",
-      "onboard_time": 1737867378,
-      "rank": 39,
-      "category": "电影"
+      "raw_hot": 187549,
+      "num": 153404,
+      "word": "二胎宝妈生产时丈夫还在酒店开房",
+      "onboard_time": 1737868698,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 184025,
@@ -667,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165875,
+      "num": 165875,
+      "word": "女子上厕所突然晕倒竟是因为痔疮",
+      "onboard_time": 1737868997,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164156,
       "num": 201954,
       "word": "冻肉不要直接泡水解冻",
@@ -715,12 +771,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 154684,
-      "num": 154684,
-      "word": "沈月高至霆8年前vs8年后",
-      "onboard_time": 1737868398,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 154432,
+      "num": 171571,
+      "word": "fromis9签约新所属社",
+      "onboard_time": 1737868757,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 154424,
@@ -747,14 +803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 149855,
-      "num": 149855,
-      "word": "网红犬哈礼鹿身上一个褥疮也没有",
-      "onboard_time": 1737868579,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 149240,
       "num": 149240,
       "word": "张钧甯骨相美人",
@@ -769,6 +817,14 @@
       "onboard_time": 1737862638,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147975,
+      "num": 167225,
+      "word": "妈妈带白血病女儿到理发店剃光头",
+      "onboard_time": 1737869657,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 147951,
@@ -793,14 +849,6 @@
       "onboard_time": 1737805160,
       "rank": 30,
       "category": "网红"
-    },
-    {
-      "raw_hot": 145747,
-      "num": 145747,
-      "word": "店家回应刘亦菲带火19元奥特曼发夹",
-      "onboard_time": 1737868339,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 144572,
@@ -833,14 +881,6 @@
       "onboard_time": 1737865999,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140363,
-      "num": 140363,
-      "word": "二胎宝妈生产时丈夫还在酒店开房",
-      "onboard_time": 1737868698,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 137980,
@@ -923,14 +963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130914,
-      "num": 171571,
-      "word": "fromis9签约新所属社",
-      "onboard_time": 1737868757,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 128156,
       "num": 128156,
       "word": "付航刚坐下3分钟就开始猴化",
@@ -939,12 +971,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127048,
-      "num": 156235,
-      "word": "2025北京台春晚全阵容",
-      "onboard_time": 1737868819,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 126445,
+      "num": 144041,
+      "word": "这火车怎么蛇里蛇气的",
+      "onboard_time": 1737869177,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125329,
@@ -953,6 +985,14 @@
       "onboard_time": 1737846193,
       "rank": 23,
       "category": "剧集,民生新闻"
+    },
+    {
+      "raw_hot": 125021,
+      "num": 125021,
+      "word": "九尾回归大名单",
+      "onboard_time": 1737869058,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 124511,
@@ -1001,6 +1041,22 @@
       "onboard_time": 1737864738,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118195,
+      "num": 166053,
+      "word": "黎深怎么这么适合中国元素",
+      "onboard_time": 1737868757,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 113927,
+      "num": 151300,
+      "word": "黎深幼稚园汇演MVP",
+      "onboard_time": 1737869537,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 113639,
@@ -1097,6 +1153,14 @@
       "onboard_time": 1737814762,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105173,
+      "num": 105173,
+      "word": "库里下半场0分",
+      "onboard_time": 1737869719,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 105084,
@@ -1387,14 +1451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 70876,
-      "num": 166053,
-      "word": "黎深怎么这么适合中国元素",
-      "onboard_time": 1737868757,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 70616,
       "num": 70616,
       "word": "徐莹谈卞相壹举手示意裁判片段",
@@ -1451,6 +1507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61777,
+      "num": 168919,
+      "word": "刘宇与粉丝双向奔赴MV",
+      "onboard_time": 1737869358,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 57848,
       "num": 57848,
       "word": "赵露思说感觉自己重新站起来了",
@@ -1499,6 +1563,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 47124,
+      "num": 387274,
+      "word": "第一批回家过年的人集合",
+      "onboard_time": 1737868517,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46129,
       "num": 64671,
       "word": "俱乐部已找到电竞选手幻云本人",
@@ -1513,6 +1585,14 @@
       "onboard_time": 1737846674,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43949,
+      "num": 152563,
+      "word": "河南春晚今晚播出",
+      "onboard_time": 1737869839,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 39248,
@@ -1547,6 +1627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31431,
+      "num": 186146,
+      "word": "广东人专属的新年仪式感",
+      "onboard_time": 1737868218,
+      "rank": 19,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 28226,
       "num": 31355,
       "word": "相柳白素贞合唱千年等一回",
@@ -1569,14 +1657,6 @@
       "onboard_time": 1737852198,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 25722,
-      "num": 177607,
-      "word": "广东人专属的新年仪式感",
-      "onboard_time": 1737868218,
-      "rank": 19,
-      "category": "正能量"
     },
     {
       "raw_hot": 25449,
@@ -1659,14 +1739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12204,
-      "num": 383845,
-      "word": "第一批回家过年的人集合",
-      "onboard_time": 1737868517,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 10161,
       "num": 22900,
       "word": "非遗春节大拜年",
@@ -1697,6 +1769,9 @@
     },
     {
       "word": "#习近平春节前夕视察慰问部队#"
+    },
+    {
+      "word": "#习近平总书记辽宁行#"
     }
   ]
 }
