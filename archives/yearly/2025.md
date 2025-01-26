@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/26 17:35:22
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/26 18:21:26
 </p>
 </blockquote>
 <p>
@@ -455,6 +455,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%8F%E5%86%89%E6%B0%94%E5%88%B0%E5%8F%91%E6%8A%96%23" target="weibo">
 李小冉气到发抖（热度：2976802）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E7%97%85%E5%8F%91%E6%8A%BD%E6%90%90%23" target="weibo">
+赵露思病发抽搐（热度：2970349）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ AG挑战者杯夺冠（热度：1652837）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%8D%8E%E4%BA%BA%E4%BB%A5%E4%B8%BA%E8%AF%AF%E5%85%A5%E6%9C%AB%E6%97%A5%23" target="weibo">
 洛杉矶华人以为误入末日（热度：1586156）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A7%81%E7%95%99%E5%93%A5%E5%93%A5%E6%AF%9B%E5%8F%91%E8%AE%A9%E4%BE%84%E5%AD%90%E5%81%9A%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A%23" target="weibo">
-男子私留哥哥毛发让侄子做亲子鉴定（热度：1582830）
 </a>
 </li>
 
