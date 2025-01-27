@@ -1,6 +1,6 @@
 {
   "startTime": 1737908665249,
-  "endTime": 1737942123943,
+  "endTime": 1737943104376,
   "band_list": [
     {
       "raw_hot": 2273172,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1000646,
-      "num": 180879,
+      "num": 185624,
       "word": "因张大大有流量老板经常给他换人",
       "onboard_time": 1737936136,
       "rank": 20,
@@ -35,7 +35,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 660477,
+      "raw_hot": 688469,
       "num": 178590,
       "word": "黄毛毛问张大大睡了吗",
       "onboard_time": 1737939557,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 657860,
-      "num": 196226,
+      "num": 234260,
       "word": "赵露思比耶无法控制小拇指",
       "onboard_time": 1737902120,
       "rank": 15,
@@ -59,8 +59,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 621939,
+      "num": 304486,
+      "word": "2025年总台春晚完成全部五次彩排",
+      "onboard_time": 1737939497,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 564099,
-      "num": 196535,
+      "num": 281434,
       "word": "战鹰发文向柯洁道歉",
       "onboard_time": 1737936255,
       "rank": 10,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 535159,
-      "num": 180363,
+      "num": 183020,
       "word": "张某某将可能涉嫌多项罪名",
       "onboard_time": 1737895639,
       "rank": 20,
@@ -83,12 +91,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 502989,
-      "num": 304486,
-      "word": "2025年总台春晚完成全部五次彩排",
-      "onboard_time": 1737939497,
-      "rank": 3,
-      "category": "综艺"
+      "raw_hot": 402188,
+      "num": 261446,
+      "word": "赵露思康复过程好多奶奶的身影",
+      "onboard_time": 1737939197,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 387416,
@@ -123,12 +131,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 299603,
-      "num": 194341,
-      "word": "赵露思康复过程好多奶奶的身影",
-      "onboard_time": 1737939197,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 307503,
+      "num": 281416,
+      "word": "业内预测票房冠军是哪吒或唐探",
+      "onboard_time": 1737928271,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 293292,
@@ -147,12 +155,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 273399,
-      "num": 229898,
-      "word": "业内预测票房冠军是哪吒或唐探",
-      "onboard_time": 1737928271,
-      "rank": 14,
-      "category": "电影"
+      "raw_hot": 290312,
+      "num": 178575,
+      "word": "无忧传媒",
+      "onboard_time": 1737939616,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 274272,
+      "num": 274272,
+      "word": "韩国空难飞机发动机吸入花脸鸭",
+      "onboard_time": 1737938355,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 271144,
@@ -169,6 +185,14 @@
       "onboard_time": 1737895579,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 261431,
+      "num": 261431,
+      "word": "国羽百灵鸟王昶唱上春晚",
+      "onboard_time": 1737941418,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 255537,
@@ -195,8 +219,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 248175,
-      "num": 248175,
+      "raw_hot": 250813,
+      "num": 250813,
       "word": "合肥地震",
       "onboard_time": 1737933313,
       "rank": 16,
@@ -217,6 +241,14 @@
       "onboard_time": 1737938477,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 234781,
+      "num": 234781,
+      "word": "明天除夕",
+      "onboard_time": 1737934815,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 231649,
@@ -251,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 199210,
+      "num": 199210,
+      "word": "自驾4000公里回家主人和狗都麻了",
+      "onboard_time": 1737940097,
+      "rank": 19,
+      "category": "民生新闻,旅游"
+    },
+    {
       "raw_hot": 199003,
       "num": 194569,
       "word": "张杰演唱会0排0号的视角",
@@ -259,28 +299,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 196661,
-      "num": 196661,
-      "word": "明天除夕",
-      "onboard_time": 1737934815,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 196230,
       "num": 196230,
       "word": "DeepSeek新模型火到海外",
       "onboard_time": 1737933254,
       "rank": 27,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 195836,
-      "num": 178174,
-      "word": "无忧传媒",
-      "onboard_time": 1737939616,
-      "rank": 26,
-      "category": "网红"
     },
     {
       "raw_hot": 194011,
@@ -299,28 +323,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 181191,
-      "num": 181191,
-      "word": "自驾4000公里回家主人和狗都麻了",
-      "onboard_time": 1737940097,
-      "rank": 19,
-      "category": "民生新闻,旅游"
-    },
-    {
-      "raw_hot": 178093,
-      "num": 178093,
-      "word": "韩国空难飞机发动机吸入花脸鸭",
-      "onboard_time": 1737938355,
-      "rank": 27,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 177925,
       "num": 177925,
       "word": "柬埔寨珍娜公主用中文拜年",
       "onboard_time": 1737900441,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 170438,
+      "num": 263694,
+      "word": "北京一车失控坠河民警跳河营救",
+      "onboard_time": 1737939257,
+      "rank": 29,
+      "category": "正能量"
     },
     {
       "raw_hot": 155599,
@@ -337,14 +353,6 @@
       "onboard_time": 1737939557,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 153676,
-      "num": 153676,
-      "word": "北京一车失控坠河民警跳河营救",
-      "onboard_time": 1737939257,
-      "rank": 29,
-      "category": "正能量"
     },
     {
       "raw_hot": 150281,
@@ -411,6 +419,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138819,
+      "num": 132087,
+      "word": "260平米只做了两房的家",
+      "onboard_time": 1737941117,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 126917,
+      "num": 126917,
+      "word": "王冰冰演短剧了",
+      "onboard_time": 1737911895,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126346,
       "num": 126346,
       "word": "和鹿晗过大年",
@@ -451,12 +475,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 116323,
-      "num": 116323,
-      "word": "王冰冰演短剧了",
-      "onboard_time": 1737911895,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 116276,
+      "num": 195514,
+      "word": "冯骥谈DeepSeek",
+      "onboard_time": 1737936556,
+      "rank": 13,
+      "category": "互联网"
     },
     {
       "raw_hot": 115043,
@@ -523,28 +547,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101341,
+      "num": 101341,
+      "word": "肖战版射雕领跑春节档预售",
+      "onboard_time": 1737935655,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 100194,
       "num": 100194,
       "word": "王星越新剧送的梅花是镶金的",
       "onboard_time": 1737907158,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 99718,
-      "num": 195514,
-      "word": "冯骥谈DeepSeek",
-      "onboard_time": 1737936556,
-      "rank": 13,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 99367,
-      "num": 99367,
-      "word": "肖战版射雕领跑春节档预售",
-      "onboard_time": 1737935655,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 98575,
@@ -561,14 +577,6 @@
       "onboard_time": 1737941477,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 97001,
-      "num": 97001,
-      "word": "260平米只做了两房的家",
-      "onboard_time": 1737941117,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 96982,
@@ -601,6 +609,14 @@
       "onboard_time": 1737889577,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90748,
+      "num": 90748,
+      "word": "卢卡申科在白俄罗斯总统选举中获胜",
+      "onboard_time": 1737941956,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 90599,
@@ -675,20 +691,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 83034,
-      "num": 83034,
-      "word": "卢卡申科在白俄罗斯总统选举中获胜",
-      "onboard_time": 1737941956,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 82894,
       "num": 82894,
       "word": "敖瑞鹏3分钟语音告别白月梵星",
       "onboard_time": 1737901401,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 82000,
+      "num": 261461,
+      "word": "全球掀DeepSeek复现狂潮",
+      "onboard_time": 1737942016,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 80736,
@@ -705,6 +721,22 @@
       "onboard_time": 1737891078,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 79197,
+      "num": 79197,
+      "word": "吃撑24小时后身体的变化",
+      "onboard_time": 1737942436,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 78729,
+      "num": 78729,
+      "word": "柯洁说为什么要这样羞辱我们",
+      "onboard_time": 1737942497,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 78227,
@@ -739,6 +771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74947,
+      "num": 179266,
+      "word": "科比去世五周年",
+      "onboard_time": 1737939317,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74799,
       "num": 74799,
       "word": "网友青岛偶遇朱志鑫苏新皓",
@@ -760,22 +800,6 @@
       "word": "丁禹兮参加蛇年央视春晚备播录制",
       "onboard_time": 1737911475,
       "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 69891,
-      "num": 179266,
-      "word": "科比去世五周年",
-      "onboard_time": 1737939317,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 68318,
-      "num": 197366,
-      "word": "国羽百灵鸟王昶唱上春晚",
-      "onboard_time": 1737941418,
-      "rank": 8,
       "category": "综艺"
     },
     {
@@ -931,12 +955,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 24411,
-      "num": 98046,
-      "word": "全球掀DeepSeek复现狂潮",
-      "onboard_time": 1737942016,
-      "rank": 40,
-      "category": "互联网"
+      "raw_hot": 24341,
+      "num": 175711,
+      "word": "柯洁称规则中未写放提子时间",
+      "onboard_time": 1737942256,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 21878,
@@ -1017,6 +1041,14 @@
       "onboard_time": 1737922512,
       "rank": 21,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 10050,
+      "num": 88756,
+      "word": "DeepSeek美区苹果下载榜超过ChatGPT",
+      "onboard_time": 1737943037,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 6933,
