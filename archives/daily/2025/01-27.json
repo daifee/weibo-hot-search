@@ -1,6 +1,6 @@
 {
   "startTime": 1737908665249,
-  "endTime": 1737970669957,
+  "endTime": 1737973469884,
   "band_list": [
     {
       "raw_hot": 2273172,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 963914,
+      "num": 1154226,
+      "word": "攻玉",
+      "onboard_time": 1737970276,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 952835,
       "num": 218920,
       "word": "赵露思",
@@ -73,6 +81,14 @@
       "onboard_time": 1737944897,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 873108,
+      "num": 873108,
+      "word": "万科",
+      "onboard_time": 1737970036,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 853148,
@@ -140,7 +156,7 @@
     },
     {
       "raw_hot": 649139,
-      "num": 483882,
+      "num": 581736,
       "word": "柯洁直播还没哭完就启动了金铲铲",
       "onboard_time": 1737964877,
       "rank": 30,
@@ -164,7 +180,7 @@
     },
     {
       "raw_hot": 637962,
-      "num": 164527,
+      "num": 175723,
       "word": "顾茜茜的保时捷卖了",
       "onboard_time": 1737960976,
       "rank": 20,
@@ -259,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 524377,
+      "num": 524377,
+      "word": "金铲铲",
+      "onboard_time": 1737971297,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 515019,
       "num": 201420,
       "word": "女主强制爱男主强制恨",
@@ -284,7 +308,7 @@
     },
     {
       "raw_hot": 459255,
-      "num": 162539,
+      "num": 350706,
       "word": "王菲55岁怎么一点姨感都没有",
       "onboard_time": 1737968597,
       "rank": 20,
@@ -315,6 +339,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 393143,
+      "num": 393143,
+      "word": "宋佳我体制内的姐",
+      "onboard_time": 1737971537,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 387416,
       "num": 387416,
       "word": "韩公布济州航空空难初步调查报告",
@@ -329,6 +361,14 @@
       "onboard_time": 1737956356,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 374602,
+      "num": 175176,
+      "word": "代露娃死嘴快憋住啊",
+      "onboard_time": 1737971056,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 368682,
@@ -457,6 +497,14 @@
       "onboard_time": 1737950537,
       "rank": 16,
       "category": "美食"
+    },
+    {
+      "raw_hot": 287302,
+      "num": 287302,
+      "word": "2025辽视春晚节目单来啦",
+      "onboard_time": 1737970396,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 281439,
@@ -747,14 +795,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 193553,
-      "num": 193553,
-      "word": "万科",
-      "onboard_time": 1737970036,
-      "rank": 17,
-      "category": "财经"
-    },
-    {
       "raw_hot": 191121,
       "num": 191121,
       "word": "红包封面",
@@ -793,6 +833,14 @@
       "onboard_time": 1737954977,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 183741,
+      "num": 183741,
+      "word": "留守猫咪",
+      "onboard_time": 1737971777,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 181869,
@@ -875,6 +923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167902,
+      "num": 167902,
+      "word": "年夜饭",
+      "onboard_time": 1737971477,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 167441,
       "num": 265180,
       "word": "想过大年三十得等到2030年",
@@ -921,14 +977,6 @@
       "onboard_time": 1737952277,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 157572,
-      "num": 157572,
-      "word": "攻玉",
-      "onboard_time": 1737970276,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 156942,
@@ -1075,6 +1123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141185,
+      "num": 114561,
+      "word": "扎克伯格说中美之间的AI差距非常小",
+      "onboard_time": 1737972977,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 140274,
       "num": 131958,
       "word": "林一蛇年限定皮肤",
@@ -1105,6 +1161,14 @@
       "onboard_time": 1737949757,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137909,
+      "num": 137909,
+      "word": "无畏 拜个早年",
+      "onboard_time": 1737972497,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 136285,
@@ -1169,6 +1233,14 @@
       "onboard_time": 1737943636,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 129321,
+      "num": 105212,
+      "word": "肖战祝大家好事花生",
+      "onboard_time": 1737973097,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 127689,
@@ -1305,6 +1377,14 @@
       "onboard_time": 1737948856,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117009,
+      "num": 117009,
+      "word": "chatgpt o3mini免费",
+      "onboard_time": 1737971537,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 116641,
@@ -1499,14 +1579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 104381,
-      "num": 104381,
-      "word": "2025辽视春晚节目单来啦",
-      "onboard_time": 1737970396,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 103904,
       "num": 103904,
       "word": "A股龙年最后一个交易日",
@@ -1529,6 +1601,22 @@
       "onboard_time": 1737951377,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 101145,
+      "num": 101145,
+      "word": "全红婵回家过年开启带娃模式",
+      "onboard_time": 1737967996,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 101030,
+      "num": 101030,
+      "word": "别人换乘恋爱你俩换乘观察",
+      "onboard_time": 1737968056,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 100942,
@@ -1611,12 +1699,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96345,
+      "num": 96345,
+      "word": "2025山东春晚节目单",
+      "onboard_time": 1737970937,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96316,
       "num": 96316,
       "word": "肖战说侠要有为国为民的心",
       "onboard_time": 1737888078,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 95770,
+      "num": 95770,
+      "word": "昆明下雪昆明人belike",
+      "onboard_time": 1737972977,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94871,
@@ -1715,14 +1819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 88818,
-      "num": 88818,
-      "word": "别人换乘恋爱你俩换乘观察",
-      "onboard_time": 1737968056,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 88513,
       "num": 88513,
       "word": "花脸鸭已经被列入ICBP世界濒危鸟类红皮书",
@@ -1787,12 +1883,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 85737,
-      "num": 85737,
-      "word": "全红婵回家过年开启带娃模式",
-      "onboard_time": 1737967996,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 84861,
+      "num": 84861,
+      "word": "DeepSeek引发科技股重估",
+      "onboard_time": 1737972977,
+      "rank": 49,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 84775,
@@ -1817,6 +1913,14 @@
       "onboard_time": 1737963256,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 83242,
+      "num": 105671,
+      "word": "被英歌舞女队员飒到了",
+      "onboard_time": 1737972016,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83125,
@@ -2003,6 +2107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 63890,
+      "num": 675446,
+      "word": "那些你不知道的北京地儿",
+      "onboard_time": 1737968236,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63774,
       "num": 55625,
       "word": "柯洁说对手举报后还有说有笑",
@@ -2017,6 +2129,14 @@
       "onboard_time": 1737910276,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54821,
+      "num": 114616,
+      "word": "这个春节有新意",
+      "onboard_time": 1737971237,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 54693,
@@ -2147,20 +2267,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 42190,
-      "num": 675446,
-      "word": "那些你不知道的北京地儿",
-      "onboard_time": 1737968236,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39778,
       "num": 98858,
       "word": "柯南小情侣卡牌门面担当",
       "onboard_time": 1737968896,
       "rank": 41,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 38919,
+      "num": 175730,
+      "word": "DeepSeek正打破算力为王行业规则",
+      "onboard_time": 1737971777,
+      "rank": 20,
+      "category": "互联网"
     },
     {
       "raw_hot": 38601,

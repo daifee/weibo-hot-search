@@ -1,0 +1,410 @@
+{
+  "runTime": 1737973469884,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 963914,
+        "num": 1154226,
+        "word": "攻玉",
+        "onboard_time": 1737970276,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 873108,
+        "num": 873108,
+        "word": "万科",
+        "onboard_time": 1737970036,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 63890,
+        "num": 621372,
+        "word": "那些你不知道的北京地儿",
+        "onboard_time": 1737968236,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 607840,
+        "num": 607840,
+        "word": "DeepSeek",
+        "onboard_time": 1737947955,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 604132,
+        "num": 604132,
+        "word": "属蛇的人在古代可能属猫",
+        "onboard_time": 1737965717,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 605561,
+        "num": 581736,
+        "word": "柯洁直播还没哭完就启动了金铲铲",
+        "onboard_time": 1737964877,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 524377,
+        "num": 524377,
+        "word": "金铲铲",
+        "onboard_time": 1737971297,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 439721,
+        "num": 439721,
+        "word": "张咪因癌切除半个舌头后能说话了",
+        "onboard_time": 1737963256,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393143,
+        "num": 393143,
+        "word": "宋佳我体制内的姐",
+        "onboard_time": 1737971537,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298130,
+        "num": 392699,
+        "word": "什么事都能年后再说但这事不行",
+        "onboard_time": 1737964816,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 392290,
+        "num": 392290,
+        "word": "新加坡偶遇郭碧婷向佐一家",
+        "onboard_time": 1737962416,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350706,
+        "num": 350706,
+        "word": "王菲55岁怎么一点姨感都没有",
+        "onboard_time": 1737968597,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287302,
+        "num": 287302,
+        "word": "2025辽视春晚节目单来啦",
+        "onboard_time": 1737970396,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274526,
+        "num": 274526,
+        "word": "泰国多名军警人员涉绑架案被拘捕",
+        "onboard_time": 1737956296,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 248563,
+        "num": 248563,
+        "word": "易烊千玺说刘春和是影响最深的角色",
+        "onboard_time": 1737968236,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 242738,
+        "num": 242738,
+        "word": "DeepSeek创始人回广东过年",
+        "onboard_time": 1737958697,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 199729,
+        "num": 199729,
+        "word": "我们的爸爸阵容官宣",
+        "onboard_time": 1737964097,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199602,
+        "num": 199602,
+        "word": "比杨紫更了解杨紫的人出现",
+        "onboard_time": 1737965657,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198586,
+        "num": 198586,
+        "word": "韩国围棋队主教练发声",
+        "onboard_time": 1737963316,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183741,
+        "num": 183741,
+        "word": "留守猫咪",
+        "onboard_time": 1737971777,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 38919,
+        "num": 175730,
+        "word": "DeepSeek正打破算力为王行业规则",
+        "onboard_time": 1737971777,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 533921,
+        "num": 175723,
+        "word": "顾茜茜的保时捷卖了",
+        "onboard_time": 1737960976,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 374602,
+        "num": 175176,
+        "word": "代露娃死嘴快憋住啊",
+        "onboard_time": 1737971056,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174630,
+        "num": 174630,
+        "word": "异人之下2豆瓣8.2",
+        "onboard_time": 1737968956,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167902,
+        "num": 167902,
+        "word": "年夜饭",
+        "onboard_time": 1737971477,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 137909,
+        "num": 137909,
+        "word": "无畏 拜个早年",
+        "onboard_time": 1737972497,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135882,
+        "num": 135882,
+        "word": "毛不易第三次上春晚又没和家人说",
+        "onboard_time": 1737966497,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130741,
+        "num": 130741,
+        "word": "肖战把小风扇给对手演员用",
+        "onboard_time": 1737966617,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117009,
+        "num": 117009,
+        "word": "chatgpt o3mini免费",
+        "onboard_time": 1737971537,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 54821,
+        "num": 114616,
+        "word": "这个春节有新意",
+        "onboard_time": 1737971237,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141185,
+        "num": 114561,
+        "word": "扎克伯格说中美之间的AI差距非常小",
+        "onboard_time": 1737972977,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 114156,
+        "num": 114156,
+        "word": "杨紫李现愤怒的小鸟真人版",
+        "onboard_time": 1737969437,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83242,
+        "num": 105671,
+        "word": "被英歌舞女队员飒到了",
+        "onboard_time": 1737972016,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129321,
+        "num": 105212,
+        "word": "肖战祝大家好事花生",
+        "onboard_time": 1737973097,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103654,
+        "num": 103654,
+        "word": "薛之谦 春晚",
+        "onboard_time": 1737953057,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101145,
+        "num": 101145,
+        "word": "全红婵回家过年开启带娃模式",
+        "onboard_time": 1737967996,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101030,
+        "num": 101030,
+        "word": "别人换乘恋爱你俩换乘观察",
+        "onboard_time": 1737968056,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99906,
+        "num": 99906,
+        "word": "DeepSeek核心成员是应届生",
+        "onboard_time": 1737961816,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 98525,
+        "num": 98525,
+        "word": "哪吒2的中式审美绝了",
+        "onboard_time": 1737967457,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96345,
+        "num": 96345,
+        "word": "2025山东春晚节目单",
+        "onboard_time": 1737970937,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95770,
+        "num": 95770,
+        "word": "昆明下雪昆明人belike",
+        "onboard_time": 1737972977,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95516,
+        "num": 95516,
+        "word": "蔡明低声些难道光彩吗",
+        "onboard_time": 1737965538,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93700,
+        "num": 93700,
+        "word": "李昀锐又在横店打篮球了",
+        "onboard_time": 1737962296,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90316,
+        "num": 90316,
+        "word": "杭州山姆超市被采购大军攻陷",
+        "onboard_time": 1737949816,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89006,
+        "num": 89006,
+        "word": "灯花笑 鞠婧祎",
+        "onboard_time": 1737951436,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88312,
+        "num": 88312,
+        "word": "6岁小朋友乘直升机回家过年",
+        "onboard_time": 1737956897,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86697,
+        "num": 86697,
+        "word": "白鹿红旗袍",
+        "onboard_time": 1737954078,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86021,
+        "num": 86021,
+        "word": "李小冉不语只洗碗",
+        "onboard_time": 1737953176,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85428,
+        "num": 85428,
+        "word": "胖东来一天狂卖1.3亿元",
+        "onboard_time": 1737952097,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 84861,
+        "num": 84861,
+        "word": "DeepSeek引发科技股重估",
+        "onboard_time": 1737972977,
+        "rank": 49,
+        "category": "互联网,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记考察足迹里的温暖瞬间#"
+    }
+  }
+}
