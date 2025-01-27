@@ -1,6 +1,6 @@
 {
   "startTime": 1737995245772,
-  "endTime": 1738003386078,
+  "endTime": 1738005479957,
   "band_list": [
     {
       "raw_hot": 3185801,
@@ -115,6 +115,14 @@
       "category": "财经,互联网"
     },
     {
+      "raw_hot": 236716,
+      "num": 236716,
+      "word": "新婚一定要回男方家过年吗",
+      "onboard_time": 1737999253,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 235608,
       "num": 144804,
       "word": "一想到明天大家都要集体洗头",
@@ -137,14 +145,6 @@
       "onboard_time": 1737979998,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 205843,
-      "num": 205843,
-      "word": "新婚一定要回男方家过年吗",
-      "onboard_time": 1737999253,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 201977,
@@ -483,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26662,
+      "num": 26662,
+      "word": "今年除夕到初三加班额外付三倍工资",
+      "onboard_time": 1738002792,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25417,
       "num": 28889,
       "word": "石凯蛇年春晚小卡",
@@ -507,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 23543,
+      "num": 23543,
+      "word": "中国在大模型上迎来弯道超车机会",
+      "onboard_time": 1738003391,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22652,
       "num": 44554,
       "word": "全国统一过年姿势",
@@ -521,6 +537,14 @@
       "onboard_time": 1737999374,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 10033,
+      "num": 59487,
+      "word": "一群人接力从死神手里救溺水男童",
+      "onboard_time": 1738004591,
+      "rank": 9,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
