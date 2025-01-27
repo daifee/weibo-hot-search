@@ -1,6 +1,6 @@
 {
   "startTime": 1737908665249,
-  "endTime": 1737963333770,
+  "endTime": 1737966558246,
   "band_list": [
     {
       "raw_hot": 2273172,
@@ -33,6 +33,14 @@
       "onboard_time": 1737949096,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1040361,
+      "num": 1166457,
+      "word": "张咪因癌切除半个舌头后能说话了",
+      "onboard_time": 1737963256,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1000646,
@@ -227,6 +235,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 462135,
+      "num": 448890,
+      "word": "韩国围棋队主教练发声",
+      "onboard_time": 1737963316,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 454686,
+      "num": 454686,
+      "word": "泰国多名军警人员涉绑架案被拘捕",
+      "onboard_time": 1737956296,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 449646,
       "num": 449646,
       "word": "DeepSeek创始人回广东过年",
@@ -249,6 +273,14 @@
       "onboard_time": 1737944776,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 434209,
+      "num": 434209,
+      "word": "新加坡偶遇郭碧婷向佐一家",
+      "onboard_time": 1737962416,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 387416,
@@ -419,11 +451,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 264433,
-      "num": 169297,
-      "word": "新加坡偶遇郭碧婷向佐一家",
-      "onboard_time": 1737962416,
-      "rank": 36,
+      "raw_hot": 265339,
+      "num": 224332,
+      "word": "李昀锐又在横店打篮球了",
+      "onboard_time": 1737962296,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -457,14 +489,6 @@
       "onboard_time": 1737904340,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 251585,
-      "num": 246294,
-      "word": "张咪因癌切除半个舌头后能说话了",
-      "onboard_time": 1737963256,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 251239,
@@ -507,14 +531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 238487,
-      "num": 193915,
-      "word": "泰国多名军警人员涉绑架案被拘捕",
-      "onboard_time": 1737956296,
-      "rank": 20,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 235682,
       "num": 179738,
       "word": "每晚必拔WiFi没苦硬吃是我爸妈没错了",
@@ -537,6 +553,14 @@
       "onboard_time": 1737907037,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 226006,
+      "num": 226006,
+      "word": "DeepSeek核心成员是应届生",
+      "onboard_time": 1737961816,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 224924,
@@ -569,6 +593,14 @@
       "onboard_time": 1737906977,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 218698,
+      "num": 218698,
+      "word": "我们的爸爸阵容官宣",
+      "onboard_time": 1737964097,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 205507,
@@ -627,6 +659,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 196006,
+      "num": 196006,
+      "word": "比杨紫更了解杨紫的人出现",
+      "onboard_time": 1737965657,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194011,
       "num": 194011,
       "word": "年前最后一个工作日了",
@@ -683,14 +723,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 181153,
-      "num": 167621,
-      "word": "韩国围棋队主教练发声",
-      "onboard_time": 1737963316,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 181072,
       "num": 161524,
       "word": "易烊千玺获2024中国银幕年度演员",
@@ -715,14 +747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 176621,
-      "num": 163642,
-      "word": "李昀锐又在横店打篮球了",
-      "onboard_time": 1737962296,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 175512,
       "num": 201487,
       "word": "经纪公司回应王嘉尔病情",
@@ -737,6 +761,14 @@
       "onboard_time": 1737942436,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 173252,
+      "num": 173252,
+      "word": "什么事都能年后再说但这事不行",
+      "onboard_time": 1737964816,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172248,
@@ -787,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163311,
+      "num": 122266,
+      "word": "柯洁直播还没哭完就启动了金铲铲",
+      "onboard_time": 1737964877,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161371,
       "num": 161371,
       "word": "赵丽颖晒过年前的剧组",
@@ -809,6 +849,14 @@
       "onboard_time": 1737950298,
       "rank": 32,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 155993,
+      "num": 155993,
+      "word": "阿云嘎包场春节档电影",
+      "onboard_time": 1737963856,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 155599,
@@ -907,6 +955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 143763,
+      "num": 122084,
+      "word": "陈小春要不直接报人名吧",
+      "onboard_time": 1737964097,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143329,
       "num": 143329,
       "word": "2025巨蟹座会发生3件好事",
@@ -929,6 +985,14 @@
       "onboard_time": 1737936435,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139348,
+      "num": 139348,
+      "word": "实测DeepSeek做奥数题写作文",
+      "onboard_time": 1737962897,
+      "rank": 26,
+      "category": "互联网"
     },
     {
       "raw_hot": 139153,
@@ -969,6 +1033,14 @@
       "onboard_time": 1737958277,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132555,
+      "num": 132555,
+      "word": "揭秘DeepSeek背后创始人",
+      "onboard_time": 1737965057,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 130751,
@@ -1153,14 +1225,6 @@
       "onboard_time": 1737924672,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 114875,
-      "num": 114875,
-      "word": "DeepSeek核心成员是应届生",
-      "onboard_time": 1737961816,
-      "rank": 37,
-      "category": "互联网"
     },
     {
       "raw_hot": 114050,
@@ -1387,6 +1451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 95819,
+      "num": 95819,
+      "word": "樊振东陈梦等奥运冠军获世乒赛资格",
+      "onboard_time": 1737964337,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94871,
       "num": 94871,
       "word": "DeepSeekHR谈招聘条件",
@@ -1433,6 +1505,14 @@
       "onboard_time": 1737959777,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 91544,
+      "num": 91544,
+      "word": "蔡明低声些难道光彩吗",
+      "onboard_time": 1737965538,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 90748,
@@ -1489,6 +1569,14 @@
       "onboard_time": 1737938295,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 88292,
+      "num": 88292,
+      "word": "NBA升级卢尼一级恶意犯规",
+      "onboard_time": 1737966077,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 88166,
@@ -1627,6 +1715,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76155,
+      "num": 76155,
+      "word": "大侦探合议庭",
+      "onboard_time": 1737966436,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 75645,
+      "num": 224703,
+      "word": "属蛇的人在古代可能属猫",
+      "onboard_time": 1737965717,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75434,
       "num": 75434,
       "word": "河南春晚是真的蛇年春晚",
@@ -1680,6 +1784,14 @@
       "word": "丁禹兮参加蛇年央视春晚备播录制",
       "onboard_time": 1737911475,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 68626,
+      "num": 68626,
+      "word": "毛不易第三次上春晚又没和家人说",
+      "onboard_time": 1737966497,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -1875,6 +1987,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 29895,
+      "num": 198146,
+      "word": "开年最强寒潮来了",
+      "onboard_time": 1737965657,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29383,
       "num": 274578,
       "word": "海警局披露挫败菲挑衅始末",
@@ -1897,6 +2017,14 @@
       "onboard_time": 1737948019,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 25882,
+      "num": 158278,
+      "word": "今天起进入年后再说阶段",
+      "onboard_time": 1737965717,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25546,
