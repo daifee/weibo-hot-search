@@ -1,0 +1,410 @@
+{
+  "runTime": 1737963333770,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1386111,
+        "num": 1386111,
+        "word": "DeepSeek",
+        "onboard_time": 1737947955,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 735605,
+        "num": 735605,
+        "word": "虞书欣林一二搭演双强古偶",
+        "onboard_time": 1737961816,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45613,
+        "num": 536010,
+        "word": "一家人都要过上好日子",
+        "onboard_time": 1737951077,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 483381,
+        "num": 483381,
+        "word": "国色芳华亲爱的热爱的共创",
+        "onboard_time": 1737957855,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 449646,
+        "num": 449646,
+        "word": "DeepSeek创始人回广东过年",
+        "onboard_time": 1737958697,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 248023,
+        "num": 248023,
+        "word": "八旬老人靠彩票中奖养活一个动物园",
+        "onboard_time": 1737949096,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251585,
+        "num": 246294,
+        "word": "张咪因癌切除半个舌头后能说话了",
+        "onboard_time": 1737963256,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243598,
+        "num": 243598,
+        "word": "薛之谦 春晚",
+        "onboard_time": 1737953057,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213930,
+        "num": 213930,
+        "word": "张纯如父亲离世",
+        "onboard_time": 1737946817,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170808,
+        "num": 170808,
+        "word": "今年除夕是大年二十九",
+        "onboard_time": 1737957855,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194866,
+        "num": 170483,
+        "word": "全红婵说出05后收红包心声",
+        "onboard_time": 1737952337,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 391935,
+        "num": 169862,
+        "word": "李小冉不语只洗碗",
+        "onboard_time": 1737953176,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316145,
+        "num": 169536,
+        "word": "想象中的豪门vs真实的豪门",
+        "onboard_time": 1737952277,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264433,
+        "num": 169297,
+        "word": "新加坡偶遇郭碧婷向佐一家",
+        "onboard_time": 1737962416,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219625,
+        "num": 168721,
+        "word": "2025年总台春晚完成全部五次彩排",
+        "onboard_time": 1737939497,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215238,
+        "num": 168017,
+        "word": "姚晨说杨丽萍蛇舞是极致东方美学",
+        "onboard_time": 1737956835,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181153,
+        "num": 167621,
+        "word": "韩国围棋队主教练发声",
+        "onboard_time": 1737963316,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167441,
+        "num": 167441,
+        "word": "想过大年三十得等到2030年",
+        "onboard_time": 1737958996,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165944,
+        "num": 165944,
+        "word": "成毅2024年终总结",
+        "onboard_time": 1737962657,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108194,
+        "num": 165728,
+        "word": "非遗版灵蛇献瑞有多绝",
+        "onboard_time": 1737961397,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37462,
+        "num": 165157,
+        "word": "春节期间全国多地推出免费公交",
+        "onboard_time": 1737961516,
+        "rank": 20,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 637962,
+        "num": 164527,
+        "word": "顾茜茜的保时捷卖了",
+        "onboard_time": 1737960976,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 184061,
+        "num": 164190,
+        "word": "白鹿红旗袍",
+        "onboard_time": 1737954078,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176621,
+        "num": 163642,
+        "word": "李昀锐又在横店打篮球了",
+        "onboard_time": 1737962296,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109835,
+        "num": 163001,
+        "word": "柯洁祝战鹰新年快乐",
+        "onboard_time": 1737962536,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210751,
+        "num": 162523,
+        "word": "泰国多名军警人员涉绑架案被拘捕",
+        "onboard_time": 1737956296,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 38812,
+        "num": 162377,
+        "word": "DeepSeek多岗位招新",
+        "onboard_time": 1737958757,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 181072,
+        "num": 161524,
+        "word": "易烊千玺获2024中国银幕年度演员",
+        "onboard_time": 1737962536,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161371,
+        "num": 161371,
+        "word": "赵丽颖晒过年前的剧组",
+        "onboard_time": 1737962177,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152916,
+        "num": 152916,
+        "word": "哥伦比亚拒绝载遭驱逐移民美军机入境",
+        "onboard_time": 1737956356,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150450,
+        "num": 150450,
+        "word": "灯花笑 鞠婧祎",
+        "onboard_time": 1737951436,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133786,
+        "num": 133786,
+        "word": "杭州山姆超市被采购大军攻陷",
+        "onboard_time": 1737949816,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124112,
+        "num": 124112,
+        "word": "胖东来一天狂卖1.3亿元",
+        "onboard_time": 1737952097,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 122077,
+        "num": 122077,
+        "word": "6岁小朋友乘直升机回家过年",
+        "onboard_time": 1737956897,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116641,
+        "num": 116641,
+        "word": "任嘉伦新剧被绑镜头梦回周生辰",
+        "onboard_time": 1737962716,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114875,
+        "num": 114875,
+        "word": "DeepSeek核心成员是应届生",
+        "onboard_time": 1737961816,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 107303,
+        "num": 107303,
+        "word": "李敏镐孔晓振太空吻戏",
+        "onboard_time": 1737960437,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106958,
+        "num": 106958,
+        "word": "老人将奶粉罐爆改成炸丸子神器",
+        "onboard_time": 1737952756,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104650,
+        "num": 104650,
+        "word": "巳巳如意中国年",
+        "onboard_time": 1737955637,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102985,
+        "num": 102985,
+        "word": "柯洁在网友评论区问我和战鹰熟吗",
+        "onboard_time": 1737957257,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98488,
+        "num": 98488,
+        "word": "DeepSeek实习生日薪最高达上千元",
+        "onboard_time": 1737960197,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 89356,
+        "num": 89356,
+        "word": "动画续作很烂的作品有哪些",
+        "onboard_time": 1737957497,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 88293,
+        "num": 88293,
+        "word": "雷军挖角的AI天才来自DeepSeek",
+        "onboard_time": 1737954977,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 85214,
+        "num": 85214,
+        "word": "OneRepublic将登上春晚",
+        "onboard_time": 1737944897,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84781,
+        "num": 84781,
+        "word": "A股龙年最后一个交易日",
+        "onboard_time": 1737956176,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 83330,
+        "num": 83330,
+        "word": "DeepSeek火爆英伟达股价不淡定了",
+        "onboard_time": 1737963256,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 82133,
+        "num": 82133,
+        "word": "央视海采发现一位爱老婆狂魔",
+        "onboard_time": 1737948197,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82019,
+        "num": 82019,
+        "word": "赵露思康复过程好多奶奶的身影",
+        "onboard_time": 1737939197,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80843,
+        "num": 80843,
+        "word": "韩国空难飞机发动机吸入花脸鸭",
+        "onboard_time": 1737938355,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 79658,
+        "num": 79658,
+        "word": "春晚都去西藏了我也要去",
+        "onboard_time": 1737953476,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记考察足迹里的温暖瞬间#"
+    }
+  }
+}

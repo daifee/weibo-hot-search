@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1737962495364,
+  "endTime": 1737963333770,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -371,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 735605,
+      "num": 735605,
+      "word": "虞书欣林一二搭演双强古偶",
+      "onboard_time": 1737961816,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 730426,
       "num": 1102714,
       "word": "王冰冰首部古装剧定档",
@@ -457,6 +465,14 @@
       "onboard_time": 1737952277,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 637962,
+      "num": 164527,
+      "word": "顾茜茜的保时捷卖了",
+      "onboard_time": 1737960976,
+      "rank": 20,
+      "category": "网红"
     },
     {
       "raw_hot": 634456,
@@ -771,6 +787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 449646,
+      "num": 449646,
+      "word": "DeepSeek创始人回广东过年",
+      "onboard_time": 1737958697,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 448883,
       "num": 448883,
       "word": "黄毛毛回应无忧传媒",
@@ -825,14 +849,6 @@
       "onboard_time": 1737944776,
       "rank": 17,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 424565,
-      "num": 424565,
-      "word": "DeepSeek创始人回广东过年",
-      "onboard_time": 1737958697,
-      "rank": 31,
-      "category": "互联网"
     },
     {
       "raw_hot": 422381,
@@ -969,14 +985,6 @@
       "onboard_time": 1737956356,
       "rank": 12,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 378090,
-      "num": 158817,
-      "word": "顾茜茜的保时捷卖了",
-      "onboard_time": 1737960976,
-      "rank": 20,
-      "category": "网红"
     },
     {
       "raw_hot": 375150,
@@ -1387,6 +1395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 264433,
+      "num": 169297,
+      "word": "新加坡偶遇郭碧婷向佐一家",
+      "onboard_time": 1737962416,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 263118,
       "num": 234477,
       "word": "和鹿晗过大年",
@@ -1459,6 +1475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 251585,
+      "num": 246294,
+      "word": "张咪因癌切除半个舌头后能说话了",
+      "onboard_time": 1737963256,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251239,
       "num": 72909,
       "word": "张大大曾因口碑问题2年无固定工作",
@@ -1513,14 +1537,6 @@
       "onboard_time": 1737862158,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 242390,
-      "num": 242390,
-      "word": "虞书欣林一二搭演双强古偶",
-      "onboard_time": 1737961816,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 241671,
@@ -2083,6 +2099,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181153,
+      "num": 167621,
+      "word": "韩国围棋队主教练发声",
+      "onboard_time": 1737963316,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 181072,
+      "num": 161524,
+      "word": "易烊千玺获2024中国银幕年度演员",
+      "onboard_time": 1737962536,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 180238,
       "num": 180238,
       "word": "吴倩特别主演",
@@ -2128,6 +2160,14 @@
       "word": "杨迪妈妈给追星人一点震撼",
       "onboard_time": 1737954016,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 176621,
+      "num": 163642,
+      "word": "李昀锐又在横店打篮球了",
+      "onboard_time": 1737962296,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -2211,6 +2251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170808,
+      "num": 243083,
+      "word": "今年除夕是大年二十九",
+      "onboard_time": 1737957855,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170780,
       "num": 170780,
       "word": "徐克评价肖战还有很多可能性",
@@ -2259,6 +2307,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 167441,
+      "num": 265180,
+      "word": "想过大年三十得等到2030年",
+      "onboard_time": 1737958996,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167389,
       "num": 167389,
       "word": "央视新闻专访徐克肖战",
@@ -2304,6 +2360,14 @@
       "word": "胡杏儿三个儿子近照",
       "onboard_time": 1737897081,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 165944,
+      "num": 165944,
+      "word": "成毅2024年终总结",
+      "onboard_time": 1737962657,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -2387,12 +2451,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 161478,
-      "num": 265180,
-      "word": "想过大年三十得等到2030年",
-      "onboard_time": 1737958996,
-      "rank": 8,
-      "category": "民生新闻"
+      "raw_hot": 161371,
+      "num": 161371,
+      "word": "赵丽颖晒过年前的剧组",
+      "onboard_time": 1737962177,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 161192,
@@ -3196,7 +3260,7 @@
     },
     {
       "raw_hot": 122778,
-      "num": 159413,
+      "num": 165728,
       "word": "非遗版灵蛇献瑞有多绝",
       "onboard_time": 1737961397,
       "rank": 19,
@@ -3347,6 +3411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116641,
+      "num": 116641,
+      "word": "任嘉伦新剧被绑镜头梦回周生辰",
+      "onboard_time": 1737962716,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116477,
       "num": 116477,
       "word": "你们会告诉父母你的真实存款吗",
@@ -3369,14 +3441,6 @@
       "onboard_time": 1737936556,
       "rank": 13,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 116259,
-      "num": 243083,
-      "word": "今年除夕是大年二十九",
-      "onboard_time": 1737957855,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116087,
@@ -3409,6 +3473,14 @@
       "onboard_time": 1737924672,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114875,
+      "num": 114875,
+      "word": "DeepSeek核心成员是应届生",
+      "onboard_time": 1737961816,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 114241,
@@ -3476,7 +3548,7 @@
     },
     {
       "raw_hot": 111054,
-      "num": 111054,
+      "num": 162377,
       "word": "DeepSeek多岗位招新",
       "onboard_time": 1737958757,
       "rank": 44,
@@ -3529,6 +3601,14 @@
       "onboard_time": 1737948197,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109835,
+      "num": 163001,
+      "word": "柯洁祝战鹰新年快乐",
+      "onboard_time": 1737962536,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 109812,
@@ -3659,14 +3739,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 106553,
-      "num": 106553,
-      "word": "李昀锐又在横店打篮球了",
-      "onboard_time": 1737962296,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 106222,
       "num": 106222,
       "word": "小伙骑行三亚把行李埋沙滩1年后取出用",
@@ -3739,22 +3811,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 103408,
-      "num": 103408,
-      "word": "新加坡偶遇郭碧婷向佐一家",
-      "onboard_time": 1737962416,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 103195,
-      "num": 103195,
-      "word": "DeepSeek核心成员是应届生",
-      "onboard_time": 1737961816,
-      "rank": 37,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 103170,
       "num": 103170,
       "word": "五福临门开播",
@@ -3825,14 +3881,6 @@
       "onboard_time": 1737883757,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 101614,
-      "num": 101614,
-      "word": "赵丽颖晒过年前的剧组",
-      "onboard_time": 1737962177,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 101589,
@@ -4273,6 +4321,14 @@
       "onboard_time": 1737851779,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83330,
+      "num": 83330,
+      "word": "DeepSeek火爆英伟达股价不淡定了",
+      "onboard_time": 1737963256,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 83298,
@@ -4979,6 +5035,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 37462,
+      "num": 209951,
+      "word": "春节期间全国多地推出免费公交",
+      "onboard_time": 1737961516,
+      "rank": 14,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 36337,
       "num": 155913,
       "word": "春节期间多地轻微交通违法不处罚",
@@ -5017,14 +5081,6 @@
       "onboard_time": 1737912554,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 33738,
-      "num": 209951,
-      "word": "春节期间全国多地推出免费公交",
-      "onboard_time": 1737961516,
-      "rank": 14,
-      "category": "正能量"
     },
     {
       "raw_hot": 32909,

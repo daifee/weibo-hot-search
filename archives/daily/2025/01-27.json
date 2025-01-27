@@ -1,6 +1,6 @@
 {
   "startTime": 1737908665249,
-  "endTime": 1737962495364,
+  "endTime": 1737963333770,
   "band_list": [
     {
       "raw_hot": 2273172,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 735605,
+      "num": 735605,
+      "word": "虞书欣林一二搭演双强古偶",
+      "onboard_time": 1737961816,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 714093,
       "num": 554395,
       "word": "尹锡悦将在牢房过年顿顿都有泡菜",
@@ -129,6 +137,14 @@
       "onboard_time": 1737952277,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 637962,
+      "num": 164527,
+      "word": "顾茜茜的保时捷卖了",
+      "onboard_time": 1737960976,
+      "rank": 20,
+      "category": "网红"
     },
     {
       "raw_hot": 628093,
@@ -211,6 +227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 449646,
+      "num": 449646,
+      "word": "DeepSeek创始人回广东过年",
+      "onboard_time": 1737958697,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 440511,
       "num": 440511,
       "word": "灯花笑 鞠婧祎",
@@ -227,14 +251,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 424565,
-      "num": 424565,
-      "word": "DeepSeek创始人回广东过年",
-      "onboard_time": 1737958697,
-      "rank": 31,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 387416,
       "num": 387416,
       "word": "韩公布济州航空空难初步调查报告",
@@ -249,14 +265,6 @@
       "onboard_time": 1737956356,
       "rank": 12,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 378090,
-      "num": 158817,
-      "word": "顾茜茜的保时捷卖了",
-      "onboard_time": 1737960976,
-      "rank": 20,
-      "category": "网红"
     },
     {
       "raw_hot": 368682,
@@ -411,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 264433,
+      "num": 169297,
+      "word": "新加坡偶遇郭碧婷向佐一家",
+      "onboard_time": 1737962416,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261431,
       "num": 261431,
       "word": "国羽百灵鸟王昶唱上春晚",
@@ -443,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 251585,
+      "num": 246294,
+      "word": "张咪因癌切除半个舌头后能说话了",
+      "onboard_time": 1737963256,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251239,
       "num": 72909,
       "word": "张大大曾因口碑问题2年无固定工作",
@@ -473,14 +497,6 @@
       "onboard_time": 1737944536,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 242390,
-      "num": 242390,
-      "word": "虞书欣林一二搭演双强古偶",
-      "onboard_time": 1737961816,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 238957,
@@ -667,6 +683,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 181153,
+      "num": 167621,
+      "word": "韩国围棋队主教练发声",
+      "onboard_time": 1737963316,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 181072,
+      "num": 161524,
+      "word": "易烊千玺获2024中国银幕年度演员",
+      "onboard_time": 1737962536,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 177925,
       "num": 177925,
       "word": "柬埔寨珍娜公主用中文拜年",
@@ -680,6 +712,14 @@
       "word": "杨迪妈妈给追星人一点震撼",
       "onboard_time": 1737954016,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 176621,
+      "num": 163642,
+      "word": "李昀锐又在横店打篮球了",
+      "onboard_time": 1737962296,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -707,12 +747,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170808,
+      "num": 243083,
+      "word": "今年除夕是大年二十九",
+      "onboard_time": 1737957855,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170440,
       "num": 178171,
       "word": "撒贝宁今年春晚会戴蛇头帽吗",
       "onboard_time": 1737952756,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167441,
+      "num": 265180,
+      "word": "想过大年三十得等到2030年",
+      "onboard_time": 1737958996,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166224,
@@ -723,12 +779,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 161478,
-      "num": 265180,
-      "word": "想过大年三十得等到2030年",
-      "onboard_time": 1737958996,
-      "rank": 8,
-      "category": "民生新闻"
+      "raw_hot": 165944,
+      "num": 165944,
+      "word": "成毅2024年终总结",
+      "onboard_time": 1737962657,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 161371,
+      "num": 161371,
+      "word": "赵丽颖晒过年前的剧组",
+      "onboard_time": 1737962177,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 160683,
@@ -1004,7 +1068,7 @@
     },
     {
       "raw_hot": 122778,
-      "num": 159413,
+      "num": 165728,
       "word": "非遗版灵蛇献瑞有多绝",
       "onboard_time": 1737961397,
       "rank": 19,
@@ -1051,20 +1115,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116641,
+      "num": 116641,
+      "word": "任嘉伦新剧被绑镜头梦回周生辰",
+      "onboard_time": 1737962716,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116276,
       "num": 195514,
       "word": "冯骥谈DeepSeek",
       "onboard_time": 1737936556,
       "rank": 13,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 116259,
-      "num": 243083,
-      "word": "今年除夕是大年二十九",
-      "onboard_time": 1737957855,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115216,
@@ -1089,6 +1153,14 @@
       "onboard_time": 1737924672,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114875,
+      "num": 114875,
+      "word": "DeepSeek核心成员是应届生",
+      "onboard_time": 1737961816,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 114050,
@@ -1116,7 +1188,7 @@
     },
     {
       "raw_hot": 111054,
-      "num": 111054,
+      "num": 162377,
       "word": "DeepSeek多岗位招新",
       "onboard_time": 1737958757,
       "rank": 44,
@@ -1137,6 +1209,14 @@
       "onboard_time": 1737948197,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109835,
+      "num": 163001,
+      "word": "柯洁祝战鹰新年快乐",
+      "onboard_time": 1737962536,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 108212,
@@ -1161,14 +1241,6 @@
       "onboard_time": 1737906679,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 106553,
-      "num": 106553,
-      "word": "李昀锐又在横店打篮球了",
-      "onboard_time": 1737962296,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 106106,
@@ -1217,30 +1289,6 @@
       "onboard_time": 1737956176,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 103408,
-      "num": 103408,
-      "word": "新加坡偶遇郭碧婷向佐一家",
-      "onboard_time": 1737962416,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 103195,
-      "num": 103195,
-      "word": "DeepSeek核心成员是应届生",
-      "onboard_time": 1737961816,
-      "rank": 37,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 101614,
-      "num": 101614,
-      "word": "赵丽颖晒过年前的剧组",
-      "onboard_time": 1737962177,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 101358,
@@ -1489,6 +1537,14 @@
       "onboard_time": 1737894379,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 83330,
+      "num": 83330,
+      "word": "DeepSeek火爆英伟达股价不淡定了",
+      "onboard_time": 1737963256,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 83125,
@@ -1779,6 +1835,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 37462,
+      "num": 209951,
+      "word": "春节期间全国多地推出免费公交",
+      "onboard_time": 1737961516,
+      "rank": 14,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 36204,
       "num": 36204,
       "word": "2025春节档预售票房突破7亿",
@@ -1793,14 +1857,6 @@
       "onboard_time": 1737912554,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 33738,
-      "num": 209951,
-      "word": "春节期间全国多地推出免费公交",
-      "onboard_time": 1737961516,
-      "rank": 14,
-      "category": "正能量"
     },
     {
       "raw_hot": 32208,
