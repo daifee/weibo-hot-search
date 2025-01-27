@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737973469884,
+  "endTime": 1737974478451,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -3979,6 +3979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1219685,
+      "num": 1219685,
+      "word": "攻玉",
+      "onboard_time": 1737970276,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1219329,
       "num": 1219329,
       "word": "赵丽颖汤唯拥抱",
@@ -5905,14 +5913,6 @@
       "onboard_time": 1737546677,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 963914,
-      "num": 1154226,
-      "word": "攻玉",
-      "onboard_time": 1737970276,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 963871,
@@ -10819,6 +10819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 640266,
+      "num": 640266,
+      "word": "王菲55岁怎么一点姨感都没有",
+      "onboard_time": 1737968597,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 640226,
       "num": 640226,
       "word": "孕照被AI生成文案脑子不够肚子来凑",
@@ -14811,6 +14819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 494776,
+      "num": 457101,
+      "word": "宋佳我体制内的姐",
+      "onboard_time": 1737971537,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 494719,
       "num": 494719,
       "word": "蔡磊感谢刘强东千万资助",
@@ -15913,14 +15929,6 @@
       "onboard_time": 1737690798,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 459255,
-      "num": 350706,
-      "word": "王菲55岁怎么一点姨感都没有",
-      "onboard_time": 1737968597,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 459203,
@@ -18043,6 +18051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 411086,
+      "num": 411086,
+      "word": "代露娃死嘴快憋住啊",
+      "onboard_time": 1737971056,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 410840,
       "num": 311981,
       "word": "内娱有自己的妍珍",
@@ -18848,14 +18864,6 @@
       "word": "吴克群在广西狂买水果",
       "onboard_time": 1736112731,
       "rank": 46,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 393143,
-      "num": 393143,
-      "word": "宋佳我体制内的姐",
-      "onboard_time": 1737971537,
-      "rank": 8,
       "category": "艺人"
     },
     {
@@ -19785,14 +19793,6 @@
       "onboard_time": 1736260044,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 374602,
-      "num": 175176,
-      "word": "代露娃死嘴快憋住啊",
-      "onboard_time": 1737971056,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 374431,
@@ -40483,6 +40483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187346,
+      "num": 187346,
+      "word": "留守猫咪",
+      "onboard_time": 1737971777,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187322,
       "num": 187322,
       "word": "代露娃常华森 厨王争霸",
@@ -41377,14 +41385,6 @@
       "onboard_time": 1735720699,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 183741,
-      "num": 183741,
-      "word": "留守猫咪",
-      "onboard_time": 1737971777,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 183732,
@@ -46033,6 +46033,14 @@
       "onboard_time": 1737370818,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167143,
+      "num": 167143,
+      "word": "藏海传包场肖战射雕",
+      "onboard_time": 1737974296,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 167123,
@@ -54787,6 +54795,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 139697,
+      "num": 172931,
+      "word": "苏新皓连续四周超话热度钻三",
+      "onboard_time": 1737974179,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139694,
       "num": 133735,
       "word": "白敬亭捐款100万驰援西藏",
@@ -55649,6 +55665,14 @@
       "onboard_time": 1737871638,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137260,
+      "num": 137260,
+      "word": "苏全孝下雪了",
+      "onboard_time": 1737973877,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 137255,
@@ -58516,7 +58540,7 @@
     },
     {
       "raw_hot": 129321,
-      "num": 105212,
+      "num": 128770,
       "word": "肖战祝大家好事花生",
       "onboard_time": 1737973097,
       "rank": 33,
@@ -61403,6 +61427,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 121207,
+      "num": 121207,
+      "word": "chatgpt o3mini免费",
+      "onboard_time": 1737971537,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 121197,
       "num": 121197,
       "word": "杨紫李现新剧云合翻3倍",
@@ -61472,6 +61504,14 @@
       "word": "蒋长扬他急了",
       "onboard_time": 1737458539,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 121075,
+      "num": 121075,
+      "word": "长夜相思入星河",
+      "onboard_time": 1737973877,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -62961,14 +63001,6 @@
       "onboard_time": 1736045249,
       "rank": 47,
       "category": "教育"
-    },
-    {
-      "raw_hot": 117009,
-      "num": 117009,
-      "word": "chatgpt o3mini免费",
-      "onboard_time": 1737971537,
-      "rank": 28,
-      "category": "互联网"
     },
     {
       "raw_hot": 117008,
@@ -65459,6 +65491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 109879,
+      "num": 109879,
+      "word": "昆明下雪昆明人belike",
+      "onboard_time": 1737972977,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109840,
       "num": 109840,
       "word": "国风巳巳如意壁纸",
@@ -67803,6 +67843,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 101923,
+      "num": 101923,
+      "word": "别人换乘恋爱你俩换乘观察",
+      "onboard_time": 1737968056,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101888,
       "num": 180430,
       "word": "年度安全感时刻",
@@ -68105,14 +68153,6 @@
       "onboard_time": 1737549319,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 101030,
-      "num": 101030,
-      "word": "别人换乘恋爱你俩换乘观察",
-      "onboard_time": 1737968056,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 100942,
@@ -69384,14 +69424,6 @@
       "word": "祝宁波市民蛇年大吉巳巳如意",
       "onboard_time": 1737882859,
       "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 95770,
-      "num": 95770,
-      "word": "昆明下雪昆明人belike",
-      "onboard_time": 1737972977,
-      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -71067,6 +71099,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 86663,
+      "num": 86663,
+      "word": "A股龙年收官",
+      "onboard_time": 1737973757,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 86656,
       "num": 290476,
       "word": "九尾打卡张远演唱会",
@@ -71460,7 +71500,7 @@
     },
     {
       "raw_hot": 84861,
-      "num": 84861,
+      "num": 109924,
       "word": "DeepSeek引发科技股重估",
       "onboard_time": 1737972977,
       "rank": 49,
@@ -71780,7 +71820,7 @@
     },
     {
       "raw_hot": 83330,
-      "num": 83330,
+      "num": 170642,
       "word": "DeepSeek火爆英伟达股价不淡定了",
       "onboard_time": 1737963256,
       "rank": 45,
@@ -71961,6 +72001,14 @@
       "onboard_time": 1735998630,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 82378,
+      "num": 175730,
+      "word": "DeepSeek正打破算力为王行业规则",
+      "onboard_time": 1737971777,
+      "rank": 20,
+      "category": "互联网"
     },
     {
       "raw_hot": 82343,
@@ -76340,7 +76388,7 @@
     },
     {
       "raw_hot": 54821,
-      "num": 114616,
+      "num": 124915,
       "word": "这个春节有新意",
       "onboard_time": 1737971237,
       "rank": 29,
@@ -76633,6 +76681,14 @@
       "onboard_time": 1736231663,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53173,
+      "num": 89749,
+      "word": "虞书欣九周钻3登榜女艺人",
+      "onboard_time": 1737973698,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 53128,
@@ -79497,14 +79553,6 @@
       "onboard_time": 1737860957,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38919,
-      "num": 175730,
-      "word": "DeepSeek正打破算力为王行业规则",
-      "onboard_time": 1737971777,
-      "rank": 20,
-      "category": "互联网"
     },
     {
       "raw_hot": 38908,
