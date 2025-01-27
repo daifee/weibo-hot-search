@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737960249069,
+  "endTime": 1737962495364,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -11011,6 +11011,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 628093,
+      "num": 628093,
+      "word": "国色芳华亲爱的热爱的共创",
+      "onboard_time": 1737957855,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 627690,
       "num": 627690,
       "word": "日本6.7级左右地震",
@@ -16747,14 +16755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 439747,
-      "num": 439747,
-      "word": "国色芳华亲爱的热爱的共创",
-      "onboard_time": 1737957855,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 439731,
       "num": 295670,
       "word": "东方茯苓和小兰花",
@@ -17337,6 +17337,14 @@
       "onboard_time": 1736742440,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 424565,
+      "num": 424565,
+      "word": "DeepSeek创始人回广东过年",
+      "onboard_time": 1737958697,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 424315,
@@ -19449,6 +19457,14 @@
       "onboard_time": 1736332941,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 378090,
+      "num": 158817,
+      "word": "顾茜茜的保时捷卖了",
+      "onboard_time": 1737960976,
+      "rank": 20,
+      "category": "网红"
     },
     {
       "raw_hot": 377742,
@@ -29667,6 +29683,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 242390,
+      "num": 242390,
+      "word": "虞书欣林一二搭演双强古偶",
+      "onboard_time": 1737961816,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 242340,
       "num": 184758,
       "word": "蔡徐坤ins",
@@ -30089,6 +30113,14 @@
       "onboard_time": 1736123001,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 238957,
+      "num": 238957,
+      "word": "姚晨说杨丽萍蛇舞是极致东方美学",
+      "onboard_time": 1737956835,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 238948,
@@ -38475,14 +38507,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 193005,
-      "num": 193005,
-      "word": "DeepSeek创始人回广东过年",
-      "onboard_time": 1737958697,
-      "rank": 31,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 192977,
       "num": 198904,
       "word": "易烊千玺送的新年苔花真的开了",
@@ -44851,14 +44875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 170278,
-      "num": 189296,
-      "word": "姚晨说杨丽萍蛇舞是极致东方美学",
-      "onboard_time": 1737956835,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 170266,
       "num": 170266,
       "word": "李现两只眼睛各演各的",
@@ -47465,6 +47481,14 @@
       "onboard_time": 1737016097,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 161478,
+      "num": 265180,
+      "word": "想过大年三十得等到2030年",
+      "onboard_time": 1737958996,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161469,
@@ -55683,6 +55707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136285,
+      "num": 136285,
+      "word": "DeepSeek实习生日薪最高达上千元",
+      "onboard_time": 1737960197,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 136283,
       "num": 139595,
       "word": "柯洁直播称自己吃不下东西",
@@ -56649,6 +56681,14 @@
       "onboard_time": 1736843958,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 133694,
+      "num": 133694,
+      "word": "李敏镐孔晓振太空吻戏",
+      "onboard_time": 1737960437,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 133659,
@@ -58811,6 +58851,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 127224,
+      "num": 127224,
+      "word": "6岁小朋友乘直升机回家过年",
+      "onboard_time": 1737956897,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127181,
       "num": 209194,
       "word": "三球无缘全明星首发",
@@ -60427,6 +60475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122778,
+      "num": 159413,
+      "word": "非遗版灵蛇献瑞有多绝",
+      "onboard_time": 1737961397,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122760,
       "num": 246920,
       "word": "WTT官方声明",
@@ -60553,14 +60609,6 @@
       "onboard_time": 1736725516,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 122314,
-      "num": 265180,
-      "word": "想过大年三十得等到2030年",
-      "onboard_time": 1737958996,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122308,
@@ -62827,6 +62875,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 116259,
+      "num": 243083,
+      "word": "今年除夕是大年二十九",
+      "onboard_time": 1737957855,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116244,
       "num": 116244,
       "word": "钟睒睒透露将捐赠400亿建大学",
@@ -63883,6 +63939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113480,
+      "num": 113480,
+      "word": "巳巳如意中国年",
+      "onboard_time": 1737955637,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113464,
       "num": 418585,
       "word": "朱志鑫春晚大赏小卡",
@@ -64473,14 +64537,6 @@
       "onboard_time": 1736373431,
       "rank": 29,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 111621,
-      "num": 111621,
-      "word": "DeepSeek实习生日薪最高达上千元",
-      "onboard_time": 1737960197,
-      "rank": 31,
-      "category": "互联网"
     },
     {
       "raw_hot": 111613,
@@ -65427,14 +65483,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 108530,
-      "num": 108530,
-      "word": "巳巳如意中国年",
-      "onboard_time": 1737955637,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 108513,
       "num": 108513,
       "word": "黄毛毛连发三个谢谢贵司",
@@ -66017,6 +66065,14 @@
       "onboard_time": 1736766140,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 106553,
+      "num": 106553,
+      "word": "李昀锐又在横店打篮球了",
+      "onboard_time": 1737962296,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 106535,
@@ -66827,6 +66883,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 103904,
+      "num": 103904,
+      "word": "A股龙年最后一个交易日",
+      "onboard_time": 1737956176,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 103842,
       "num": 103842,
       "word": "国色芳华的影响力",
@@ -66987,6 +67051,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 103408,
+      "num": 103408,
+      "word": "新加坡偶遇郭碧婷向佐一家",
+      "onboard_time": 1737962416,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103388,
       "num": 117874,
       "word": "29名运动员获全国五一劳动奖章",
@@ -67025,6 +67097,14 @@
       "onboard_time": 1737413293,
       "rank": 27,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 103195,
+      "num": 103195,
+      "word": "DeepSeek核心成员是应届生",
+      "onboard_time": 1737961816,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 103186,
@@ -67433,6 +67513,14 @@
       "onboard_time": 1737883757,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 101614,
+      "num": 101614,
+      "word": "赵丽颖晒过年前的剧组",
+      "onboard_time": 1737962177,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 101612,
@@ -68545,6 +68633,14 @@
       "onboard_time": 1737280578,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97534,
+      "num": 103548,
+      "word": "周深相声首秀",
+      "onboard_time": 1737960375,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 97531,
@@ -71059,14 +71155,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 84139,
-      "num": 84139,
-      "word": "A股龙年最后一个交易日",
-      "onboard_time": 1737956176,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
       "raw_hot": 84135,
       "num": 139055,
       "word": "诺言告别eStar",
@@ -71329,6 +71417,14 @@
       "onboard_time": 1735955296,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83125,
+      "num": 83125,
+      "word": "龙年你在A股赚了多少钱",
+      "onboard_time": 1737962056,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 82987,
@@ -71769,14 +71865,6 @@
       "onboard_time": 1736268138,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 80552,
-      "num": 80552,
-      "word": "6岁小朋友乘直升机回家过年",
-      "onboard_time": 1737956897,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80257,
@@ -77307,6 +77395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47321,
+      "num": 860448,
+      "word": "一家人都要过上好日子",
+      "onboard_time": 1737951077,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47313,
       "num": 2159324,
       "word": "快查收2025第一份宇宙级浪漫",
@@ -79259,14 +79355,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 37245,
-      "num": 860448,
-      "word": "一家人都要过上好日子",
-      "onboard_time": 1737951077,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 37239,
       "num": 120492,
       "word": "00后女警首次骑马巡边",
@@ -80057,6 +80145,14 @@
       "onboard_time": 1737912554,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 33738,
+      "num": 209951,
+      "word": "春节期间全国多地推出免费公交",
+      "onboard_time": 1737961516,
+      "rank": 14,
+      "category": "正能量"
     },
     {
       "raw_hot": 33680,
@@ -82825,6 +82921,14 @@
       "onboard_time": 1736188752,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 22860,
+      "num": 103457,
+      "word": "福原爱来成都出差啦",
+      "onboard_time": 1737961217,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 22857,
