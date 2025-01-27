@@ -1,6 +1,6 @@
 {
   "startTime": 1737908665249,
-  "endTime": 1737966558246,
+  "endTime": 1737967326616,
   "band_list": [
     {
       "raw_hot": 2273172,
@@ -35,8 +35,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1040361,
-      "num": 1166457,
+      "raw_hot": 1077718,
+      "num": 1172434,
       "word": "张咪因癌切除半个舌头后能说话了",
       "onboard_time": 1737963256,
       "rank": 6,
@@ -235,20 +235,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 462135,
-      "num": 448890,
-      "word": "韩国围棋队主教练发声",
-      "onboard_time": 1737963316,
-      "rank": 16,
-      "category": "体育"
+      "raw_hot": 510037,
+      "num": 434209,
+      "word": "新加坡偶遇郭碧婷向佐一家",
+      "onboard_time": 1737962416,
+      "rank": 36,
+      "category": "艺人"
     },
     {
-      "raw_hot": 454686,
-      "num": 454686,
+      "raw_hot": 477290,
+      "num": 477290,
       "word": "泰国多名军警人员涉绑架案被拘捕",
       "onboard_time": 1737956296,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 462135,
+      "num": 456053,
+      "word": "韩国围棋队主教练发声",
+      "onboard_time": 1737963316,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 449646,
@@ -273,14 +281,6 @@
       "onboard_time": 1737944776,
       "rank": 17,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 434209,
-      "num": 434209,
-      "word": "新加坡偶遇郭碧婷向佐一家",
-      "onboard_time": 1737962416,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 387416,
@@ -323,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 350494,
+      "num": 350494,
+      "word": "比杨紫更了解杨紫的人出现",
+      "onboard_time": 1737965657,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 348965,
       "num": 245507,
       "word": "前SNH48成员吕相宜开赌场被抓",
@@ -353,6 +361,14 @@
       "onboard_time": 1737942016,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 308451,
+      "num": 308451,
+      "word": "柯洁直播还没哭完就启动了金铲铲",
+      "onboard_time": 1737964877,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 307503,
@@ -403,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 290169,
+      "num": 322611,
+      "word": "属蛇的人在古代可能属猫",
+      "onboard_time": 1737965717,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 289048,
       "num": 289048,
       "word": "鲜活帝王蟹价格跌破千元",
@@ -449,6 +473,14 @@
       "onboard_time": 1737895579,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 267800,
+      "num": 267800,
+      "word": "我们的爸爸阵容官宣",
+      "onboard_time": 1737964097,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 265339,
@@ -547,6 +579,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 229909,
+      "num": 229909,
+      "word": "什么事都能年后再说但这事不行",
+      "onboard_time": 1737964816,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 228600,
       "num": 228600,
       "word": "为何国人偏爱大红大黄传统色",
@@ -556,7 +596,7 @@
     },
     {
       "raw_hot": 226006,
-      "num": 226006,
+      "num": 310640,
       "word": "DeepSeek核心成员是应届生",
       "onboard_time": 1737961816,
       "rank": 37,
@@ -595,14 +635,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 218698,
-      "num": 218698,
-      "word": "我们的爸爸阵容官宣",
-      "onboard_time": 1737964097,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 205507,
       "num": 205507,
       "word": "李子柒用她的方式传承非遗春节",
@@ -617,6 +649,14 @@
       "onboard_time": 1737943936,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202281,
+      "num": 202281,
+      "word": "肖战把小风扇给对手演员用",
+      "onboard_time": 1737966617,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 201668,
@@ -657,14 +697,6 @@
       "onboard_time": 1737933254,
       "rank": 27,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 196006,
-      "num": 196006,
-      "word": "比杨紫更了解杨紫的人出现",
-      "onboard_time": 1737965657,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 194011,
@@ -763,14 +795,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 173252,
-      "num": 173252,
-      "word": "什么事都能年后再说但这事不行",
-      "onboard_time": 1737964816,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 172248,
       "num": 172248,
       "word": "张康乐蛇年自拍小卡",
@@ -817,14 +841,6 @@
       "onboard_time": 1737962657,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163311,
-      "num": 122266,
-      "word": "柯洁直播还没哭完就启动了金铲铲",
-      "onboard_time": 1737964877,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 161371,
@@ -1203,6 +1219,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 115224,
+      "num": 115224,
+      "word": "巳巳如意中国年",
+      "onboard_time": 1737955637,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115216,
       "num": 115216,
       "word": "李现愿君长记芳华景",
@@ -1243,14 +1267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 113480,
-      "num": 113480,
-      "word": "巳巳如意中国年",
-      "onboard_time": 1737955637,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111054,
       "num": 162377,
       "word": "DeepSeek多岗位招新",
@@ -1283,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108943,
+      "num": 108943,
+      "word": "毛不易第三次上春晚又没和家人说",
+      "onboard_time": 1737966497,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108212,
       "num": 351436,
       "word": "尹锡悦将在单人牢房过年",
@@ -1305,6 +1329,14 @@
       "onboard_time": 1737906679,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106939,
+      "num": 119550,
+      "word": "樊振东陈梦等奥运冠军获世乒赛资格",
+      "onboard_time": 1737964337,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 106106,
@@ -1345,6 +1377,14 @@
       "onboard_time": 1737937636,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104282,
+      "num": 104282,
+      "word": "蔡明低声些难道光彩吗",
+      "onboard_time": 1737965538,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 103904,
@@ -1451,14 +1491,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 95819,
-      "num": 95819,
-      "word": "樊振东陈梦等奥运冠军获世乒赛资格",
-      "onboard_time": 1737964337,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 94871,
       "num": 94871,
       "word": "DeepSeekHR谈招聘条件",
@@ -1483,6 +1515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94497,
+      "num": 94497,
+      "word": "大侦探合议庭",
+      "onboard_time": 1737966436,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 92502,
       "num": 92502,
       "word": "周深新歌麦田里的摇滚绝美高音",
@@ -1505,14 +1545,6 @@
       "onboard_time": 1737959777,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 91544,
-      "num": 91544,
-      "word": "蔡明低声些难道光彩吗",
-      "onboard_time": 1737965538,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 90748,
@@ -1707,6 +1739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76841,
+      "num": 76841,
+      "word": "周深献唱热依扎王阳新剧主题曲",
+      "onboard_time": 1737966977,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 76561,
       "num": 76561,
       "word": "文淇 论文给我去死",
@@ -1715,20 +1755,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 76155,
-      "num": 76155,
-      "word": "大侦探合议庭",
-      "onboard_time": 1737966436,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 75645,
-      "num": 224703,
-      "word": "属蛇的人在古代可能属猫",
-      "onboard_time": 1737965717,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 75548,
+      "num": 75548,
+      "word": "檀健次喊你守岁迎新年",
+      "onboard_time": 1737967156,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 75434,
@@ -1745,6 +1777,14 @@
       "onboard_time": 1737901220,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75013,
+      "num": 75013,
+      "word": "张绍进先生将埋葬于张纯如身旁",
+      "onboard_time": 1737967278,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74947,
@@ -1784,14 +1824,6 @@
       "word": "丁禹兮参加蛇年央视春晚备播录制",
       "onboard_time": 1737911475,
       "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 68626,
-      "num": 68626,
-      "word": "毛不易第三次上春晚又没和家人说",
-      "onboard_time": 1737966497,
-      "rank": 47,
       "category": "综艺"
     },
     {
@@ -1843,6 +1875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52401,
+      "num": 158278,
+      "word": "今天起进入年后再说阶段",
+      "onboard_time": 1737965717,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52274,
       "num": 146910,
       "word": "永远相信河南春晚审美",
@@ -1865,6 +1905,14 @@
       "onboard_time": 1737918732,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 47903,
+      "num": 223356,
+      "word": "开年最强寒潮来了",
+      "onboard_time": 1737965657,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47321,
@@ -1987,14 +2035,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 29895,
-      "num": 198146,
-      "word": "开年最强寒潮来了",
-      "onboard_time": 1737965657,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29383,
       "num": 274578,
       "word": "海警局披露挫败菲挑衅始末",
@@ -2017,14 +2057,6 @@
       "onboard_time": 1737948019,
       "rank": 33,
       "category": "教育"
-    },
-    {
-      "raw_hot": 25882,
-      "num": 158278,
-      "word": "今天起进入年后再说阶段",
-      "onboard_time": 1737965717,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25546,

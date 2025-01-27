@@ -1,0 +1,410 @@
+{
+  "runTime": 1737967326616,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1077718,
+        "num": 1172434,
+        "word": "张咪因癌切除半个舌头后能说话了",
+        "onboard_time": 1737963256,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 800995,
+        "num": 800995,
+        "word": "DeepSeek",
+        "onboard_time": 1737947955,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 45204,
+        "num": 674050,
+        "word": "一家人都要过上好日子",
+        "onboard_time": 1737951077,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 568288,
+        "num": 568288,
+        "word": "虞书欣林一二搭演双强古偶",
+        "onboard_time": 1737961816,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 477290,
+        "num": 477290,
+        "word": "泰国多名军警人员涉绑架案被拘捕",
+        "onboard_time": 1737956296,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 456053,
+        "num": 456053,
+        "word": "韩国围棋队主教练发声",
+        "onboard_time": 1737963316,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 510037,
+        "num": 428200,
+        "word": "新加坡偶遇郭碧婷向佐一家",
+        "onboard_time": 1737962416,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350494,
+        "num": 350494,
+        "word": "比杨紫更了解杨紫的人出现",
+        "onboard_time": 1737965657,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290169,
+        "num": 322611,
+        "word": "属蛇的人在古代可能属猫",
+        "onboard_time": 1737965717,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197642,
+        "num": 310640,
+        "word": "DeepSeek核心成员是应届生",
+        "onboard_time": 1737961816,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 308451,
+        "num": 308451,
+        "word": "柯洁直播还没哭完就启动了金铲铲",
+        "onboard_time": 1737964877,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299418,
+        "num": 299418,
+        "word": "DeepSeek创始人回广东过年",
+        "onboard_time": 1737958697,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 267800,
+        "num": 267800,
+        "word": "我们的爸爸阵容官宣",
+        "onboard_time": 1737964097,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229909,
+        "num": 229909,
+        "word": "什么事都能年后再说但这事不行",
+        "onboard_time": 1737964816,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47903,
+        "num": 223356,
+        "word": "开年最强寒潮来了",
+        "onboard_time": 1737965657,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221619,
+        "num": 221619,
+        "word": "李昀锐又在横店打篮球了",
+        "onboard_time": 1737962296,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202281,
+        "num": 202281,
+        "word": "肖战把小风扇给对手演员用",
+        "onboard_time": 1737966617,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193763,
+        "num": 193763,
+        "word": "八旬老人靠彩票中奖养活一个动物园",
+        "onboard_time": 1737949096,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177096,
+        "num": 177096,
+        "word": "2025年总台春晚完成全部五次彩排",
+        "onboard_time": 1737939497,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52401,
+        "num": 154643,
+        "word": "今天起进入年后再说阶段",
+        "onboard_time": 1737965717,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290569,
+        "num": 154641,
+        "word": "顾茜茜的保时捷卖了",
+        "onboard_time": 1737960976,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 154149,
+        "num": 154149,
+        "word": "国色芳华亲爱的热爱的共创",
+        "onboard_time": 1737957855,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148859,
+        "num": 148859,
+        "word": "李小冉不语只洗碗",
+        "onboard_time": 1737953176,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132965,
+        "num": 132965,
+        "word": "薛之谦 春晚",
+        "onboard_time": 1737953057,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129719,
+        "num": 129719,
+        "word": "赵丽颖晒过年前的剧组",
+        "onboard_time": 1737962177,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127066,
+        "num": 127066,
+        "word": "6岁小朋友乘直升机回家过年",
+        "onboard_time": 1737956897,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119898,
+        "num": 119898,
+        "word": "今年除夕是大年二十九",
+        "onboard_time": 1737957855,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106939,
+        "num": 119550,
+        "word": "樊振东陈梦等奥运冠军获世乒赛资格",
+        "onboard_time": 1737964337,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119380,
+        "num": 119380,
+        "word": "杭州山姆超市被采购大军攻陷",
+        "onboard_time": 1737949816,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118955,
+        "num": 118955,
+        "word": "想象中的豪门vs真实的豪门",
+        "onboard_time": 1737952277,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139581,
+        "num": 118909,
+        "word": "陈小春要不直接报人名吧",
+        "onboard_time": 1737964097,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118838,
+        "num": 118838,
+        "word": "揭秘DeepSeek背后创始人",
+        "onboard_time": 1737965057,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 116475,
+        "num": 116475,
+        "word": "阿云嘎包场春节档电影",
+        "onboard_time": 1737963856,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115224,
+        "num": 115224,
+        "word": "巳巳如意中国年",
+        "onboard_time": 1737955637,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111102,
+        "num": 111102,
+        "word": "胖东来一天狂卖1.3亿元",
+        "onboard_time": 1737952097,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 108943,
+        "num": 108943,
+        "word": "毛不易第三次上春晚又没和家人说",
+        "onboard_time": 1737966497,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106413,
+        "num": 106413,
+        "word": "实测DeepSeek做奥数题写作文",
+        "onboard_time": 1737962897,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 105776,
+        "num": 105776,
+        "word": "张纯如父亲离世",
+        "onboard_time": 1737946817,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104282,
+        "num": 104282,
+        "word": "蔡明低声些难道光彩吗",
+        "onboard_time": 1737965538,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100710,
+        "num": 100710,
+        "word": "白鹿红旗袍",
+        "onboard_time": 1737954078,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99994,
+        "num": 99994,
+        "word": "灯花笑 鞠婧祎",
+        "onboard_time": 1737951436,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94497,
+        "num": 94497,
+        "word": "大侦探合议庭",
+        "onboard_time": 1737966436,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87373,
+        "num": 87373,
+        "word": "任嘉伦新剧被绑镜头梦回周生辰",
+        "onboard_time": 1737962716,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77032,
+        "num": 77032,
+        "word": "老人将奶粉罐爆改成炸丸子神器",
+        "onboard_time": 1737952756,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76841,
+        "num": 76841,
+        "word": "周深献唱热依扎王阳新剧主题曲",
+        "onboard_time": 1737966977,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76640,
+        "num": 76640,
+        "word": "柯洁祝战鹰新年快乐",
+        "onboard_time": 1737962536,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75795,
+        "num": 75795,
+        "word": "想过大年三十得等到2030年",
+        "onboard_time": 1737958996,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75548,
+        "num": 75548,
+        "word": "檀健次喊你守岁迎新年",
+        "onboard_time": 1737967156,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75013,
+        "num": 75013,
+        "word": "张绍进先生将埋葬于张纯如身旁",
+        "onboard_time": 1737967278,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73334,
+        "num": 73334,
+        "word": "NBA升级卢尼一级恶意犯规",
+        "onboard_time": 1737966077,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记考察足迹里的温暖瞬间#"
+    }
+  }
+}
