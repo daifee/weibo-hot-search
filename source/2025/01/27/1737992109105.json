@@ -1,0 +1,410 @@
+{
+  "runTime": 1737992109105,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1237966,
+        "num": 1237966,
+        "word": "女生花一个月工资给继父庆生",
+        "onboard_time": 1737988458,
+        "rank": 0,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 898742,
+        "num": 898742,
+        "word": "姜妍好漂亮",
+        "onboard_time": 1737985818,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67580,
+        "num": 690729,
+        "word": "海拔最高春晚分会场",
+        "onboard_time": 1737989419,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 620820,
+        "num": 620820,
+        "word": "DeepSeek",
+        "onboard_time": 1737947955,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 441321,
+        "num": 441321,
+        "word": "ChatGPT回应被DeepSeek超越",
+        "onboard_time": 1737988700,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 52566,
+        "num": 343531,
+        "word": "春节非遗旅游出行攻略",
+        "onboard_time": 1737988940,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 845565,
+        "num": 337110,
+        "word": "贾冰小品",
+        "onboard_time": 1737989298,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 671558,
+        "num": 334513,
+        "word": "倪萍曾救下想轻生的宋丹丹",
+        "onboard_time": 1737983178,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 320881,
+        "num": 320881,
+        "word": "春节真正需要的高效休息",
+        "onboard_time": 1737986299,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216719,
+        "num": 316935,
+        "word": "英伟达市值蒸发超3000亿美元",
+        "onboard_time": 1737985818,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 666019,
+        "num": 316776,
+        "word": "赵露思包场支持射雕英雄传",
+        "onboard_time": 1737987620,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 333472,
+        "num": 316243,
+        "word": "陈哲远 直拍来了",
+        "onboard_time": 1737984500,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 313559,
+        "num": 313559,
+        "word": "白鹿敖瑞鹏共创视频点赞破千万",
+        "onboard_time": 1737987020,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296274,
+        "num": 296274,
+        "word": "银行回应瘫痪老人被抬到银行",
+        "onboard_time": 1737985998,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141853,
+        "num": 282862,
+        "word": "消费者快被虚假快递逼疯了",
+        "onboard_time": 1737987979,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 281266,
+        "num": 281266,
+        "word": "DeepSeek预测春节档票房冠军是哪吒",
+        "onboard_time": 1737979998,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 280309,
+        "num": 280309,
+        "word": "外交部回应是否接回在美非法中国移民",
+        "onboard_time": 1737984559,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 239541,
+        "num": 239541,
+        "word": "余承东直播被封",
+        "onboard_time": 1737990797,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 221652,
+        "num": 221652,
+        "word": "美股",
+        "onboard_time": 1737979458,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 70443,
+        "num": 220946,
+        "word": "伊能静为婆婆庆生",
+        "onboard_time": 1737991098,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367501,
+        "num": 219940,
+        "word": "王菲55岁怎么一点姨感都没有",
+        "onboard_time": 1737968597,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330589,
+        "num": 218910,
+        "word": "一想到明天大家都要集体洗头",
+        "onboard_time": 1737977597,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 234030,
+        "num": 218317,
+        "word": "代露娃死嘴快憋住啊",
+        "onboard_time": 1737971056,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217969,
+        "num": 217969,
+        "word": "肖战在春晚后台套圈",
+        "onboard_time": 1737986540,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80775,
+        "num": 210499,
+        "word": "孙颖莎对奥运混双决赛印象深刻",
+        "onboard_time": 1737986479,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205345,
+        "num": 205345,
+        "word": "辽视春晚",
+        "onboard_time": 1737976996,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205008,
+        "num": 205008,
+        "word": "刘涛就是最美小姨",
+        "onboard_time": 1737990017,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198163,
+        "num": 198163,
+        "word": "金智秀出席巴黎时装周",
+        "onboard_time": 1737992058,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 196989,
+        "num": 196989,
+        "word": "东方卫视蛇年春晚阵容",
+        "onboard_time": 1737975137,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190280,
+        "num": 190280,
+        "word": "外国游客成中国游最强嘴替",
+        "onboard_time": 1737984618,
+        "rank": 29,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 172315,
+        "num": 172315,
+        "word": "沈梦辰要给国色芳华导演寄膏药",
+        "onboard_time": 1737991699,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166760,
+        "num": 166760,
+        "word": "周涛 妈咪你美",
+        "onboard_time": 1737984859,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161320,
+        "num": 161320,
+        "word": "权志龙的外套是郑亨敦在市场买的",
+        "onboard_time": 1737984020,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161265,
+        "num": 161265,
+        "word": "五福临门这是考公还是考老公",
+        "onboard_time": 1737991278,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156117,
+        "num": 156117,
+        "word": "冯巩 我想死你们了",
+        "onboard_time": 1737980296,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151724,
+        "num": 151724,
+        "word": "丁禹兮慕声式拜年",
+        "onboard_time": 1737988458,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148575,
+        "num": 148575,
+        "word": "辽视春晚小品",
+        "onboard_time": 1737984197,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145256,
+        "num": 145256,
+        "word": "旧房装修可享国家补贴",
+        "onboard_time": 1737986839,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139665,
+        "num": 139665,
+        "word": "原来代露娃还演过短剧",
+        "onboard_time": 1737989359,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136134,
+        "num": 136134,
+        "word": "OneRepublic确认将登上央视春晚",
+        "onboard_time": 1737983538,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134528,
+        "num": 134528,
+        "word": "易烊千玺第八次登台春晚了",
+        "onboard_time": 1737980717,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117821,
+        "num": 117821,
+        "word": "DeepSeek一夜掀翻美股",
+        "onboard_time": 1737989119,
+        "rank": 41,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 116120,
+        "num": 116120,
+        "word": "霉霉与男友接吻庆祝",
+        "onboard_time": 1737984679,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115780,
+        "num": 115780,
+        "word": "乐言奥斯卡首次同台唱跳",
+        "onboard_time": 1737987679,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114736,
+        "num": 114736,
+        "word": "德塔文认证杨紫抗剧能力",
+        "onboard_time": 1737987738,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103035,
+        "num": 103035,
+        "word": "50岁自驾阿姨苏敏离婚",
+        "onboard_time": 1737974776,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100542,
+        "num": 100542,
+        "word": "英伟达台积电大跌",
+        "onboard_time": 1737977178,
+        "rank": 46,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 91646,
+        "num": 91646,
+        "word": "全国统一过年姿势",
+        "onboard_time": 1737988998,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79797,
+        "num": 79797,
+        "word": "中共中央国务院27日举行春节团拜会",
+        "onboard_time": 1737979217,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 63252,
+        "num": 79251,
+        "word": "孙颖莎说会带着遗憾勇往直前",
+        "onboard_time": 1737980177,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#以蛇行千里的劲头开拓进取顽强奋斗#"
+    }
+  }
+}
