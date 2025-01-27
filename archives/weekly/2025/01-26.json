@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1737948314755,
+  "endTime": 1737949163339,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1414500,
+      "num": 1414500,
+      "word": "张纯如父亲离世",
+      "onboard_time": 1737946817,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1232147,
       "num": 344678,
       "word": "文淇 论文给我去死",
@@ -129,14 +137,6 @@
       "onboard_time": 1737872898,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1048798,
-      "num": 1167807,
-      "word": "张纯如父亲离世",
-      "onboard_time": 1737946817,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1037137,
@@ -243,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 878463,
+      "num": 878463,
+      "word": "OneRepublic将登上春晚",
+      "onboard_time": 1737944897,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 860983,
       "num": 1137757,
       "word": "樊振东获得2025世乒赛决赛参赛资格",
@@ -307,14 +315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 778542,
-      "num": 778542,
-      "word": "OneRepublic将登上春晚",
-      "onboard_time": 1737944897,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 761138,
       "num": 256792,
       "word": "谢娜曾批张大大迷之自信",
@@ -361,6 +361,14 @@
       "onboard_time": 1737882138,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 714093,
+      "num": 537672,
+      "word": "尹锡悦将在牢房过年顿顿都有泡菜",
+      "onboard_time": 1737945556,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 711987,
@@ -436,7 +444,7 @@
     },
     {
       "raw_hot": 621939,
-      "num": 390141,
+      "num": 474144,
       "word": "2025年总台春晚完成全部五次彩排",
       "onboard_time": 1737939497,
       "rank": 3,
@@ -468,7 +476,7 @@
     },
     {
       "raw_hot": 568860,
-      "num": 340324,
+      "num": 459437,
       "word": "赵露思康复过程好多奶奶的身影",
       "onboard_time": 1737939197,
       "rank": 17,
@@ -476,7 +484,7 @@
     },
     {
       "raw_hot": 564099,
-      "num": 396830,
+      "num": 476832,
       "word": "战鹰发文向柯洁道歉",
       "onboard_time": 1737936255,
       "rank": 10,
@@ -513,6 +521,14 @@
       "onboard_time": 1737885737,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 541010,
+      "num": 541010,
+      "word": "卢昱晓演技",
+      "onboard_time": 1737946877,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 540674,
@@ -553,14 +569,6 @@
       "onboard_time": 1737863358,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 524673,
-      "num": 524673,
-      "word": "尹锡悦将在牢房过年顿顿都有泡菜",
-      "onboard_time": 1737945556,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 515745,
@@ -739,7 +747,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 423491,
+      "raw_hot": 434481,
       "num": 338906,
       "word": "特朗普称将来美国可能大幅扩张",
       "onboard_time": 1737944776,
@@ -800,14 +808,6 @@
       "word": "王鹤棣田曦薇 我心尔尔",
       "onboard_time": 1737890058,
       "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 395514,
-      "num": 395514,
-      "word": "卢昱晓演技",
-      "onboard_time": 1737946877,
-      "rank": 7,
       "category": "剧集"
     },
     {
@@ -915,20 +915,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 365871,
+      "num": 365871,
+      "word": "封神解释家和家人的意义",
+      "onboard_time": 1737944837,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 365624,
       "num": 365624,
       "word": "周鸿祎官宣送100辆国产新能源车",
       "onboard_time": 1737867798,
       "rank": 9,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 360919,
-      "num": 331675,
-      "word": "封神解释家和家人的意义",
-      "onboard_time": 1737944837,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 357692,
@@ -1035,6 +1035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 320091,
+      "num": 474942,
+      "word": "DeepSeek",
+      "onboard_time": 1737947955,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 319619,
       "num": 319619,
       "word": "杨天真40岁生日办告别式",
@@ -1089,6 +1097,14 @@
       "onboard_time": 1737939257,
       "rank": 29,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 295389,
+      "num": 295389,
+      "word": "明天除夕",
+      "onboard_time": 1737934815,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 293990,
@@ -1209,14 +1225,6 @@
       "onboard_time": 1737895158,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 272536,
-      "num": 272536,
-      "word": "明天除夕",
-      "onboard_time": 1737934815,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 271196,
@@ -1356,7 +1364,7 @@
     },
     {
       "raw_hot": 244276,
-      "num": 244276,
+      "num": 475205,
       "word": "张雨霏第一次上春晚有点紧张",
       "onboard_time": 1737944536,
       "rank": 21,
@@ -1451,6 +1459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 224924,
+      "num": 164491,
+      "word": "金铲铲给柯洁疯狂刷礼物",
+      "onboard_time": 1737948317,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223192,
       "num": 210535,
       "word": "你好星期六拍立得",
@@ -1520,6 +1536,14 @@
       "word": "故宫也下雪了",
       "onboard_time": 1737852797,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 215003,
+      "num": 161782,
+      "word": "央视海采发现一位爱老婆狂魔",
+      "onboard_time": 1737948197,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -1787,6 +1811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189038,
+      "num": 347430,
+      "word": "男子遇暴雪2小时回家路开了一天",
+      "onboard_time": 1737946996,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188828,
       "num": 188828,
       "word": "A股",
@@ -1795,20 +1827,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 188275,
+      "num": 188275,
+      "word": "全红婵今年回家过年了",
+      "onboard_time": 1737946157,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 187586,
+      "num": 156827,
+      "word": "八旬老人靠彩票中奖养活一个动物园",
+      "onboard_time": 1737949096,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187549,
       "num": 153404,
       "word": "二胎宝妈生产时丈夫还在酒店开房",
       "onboard_time": 1737868698,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 184376,
-      "num": 198412,
-      "word": "DeepSeek",
-      "onboard_time": 1737947955,
-      "rank": 21,
-      "category": "互联网"
     },
     {
       "raw_hot": 184025,
@@ -2643,14 +2683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130850,
-      "num": 130850,
-      "word": "央视海采发现一位爱老婆狂魔",
-      "onboard_time": 1737948197,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 130751,
       "num": 130751,
       "word": "比尔盖茨与特朗普讨论艾滋病",
@@ -2681,6 +2713,14 @@
       "onboard_time": 1737853338,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127689,
+      "num": 127689,
+      "word": "国色芳华会员收官",
+      "onboard_time": 1737948197,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 127173,
@@ -2803,14 +2843,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 121643,
-      "num": 121643,
-      "word": "国色芳华会员收官",
-      "onboard_time": 1737948197,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 121538,
       "num": 144674,
       "word": "电竞选手幻云称网恋被骗流露轻生念头",
@@ -2865,6 +2897,14 @@
       "onboard_time": 1737874518,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119194,
+      "num": 119194,
+      "word": "农民工过年杀猪想起已逝母亲泪目",
+      "onboard_time": 1737948856,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118561,
@@ -3057,6 +3097,14 @@
       "onboard_time": 1737810321,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109986,
+      "num": 109986,
+      "word": "00后有自己的传承细糠",
+      "onboard_time": 1737948197,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109812,
@@ -3315,6 +3363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100942,
+      "num": 100942,
+      "word": "淮水竹亭岁岁欢喜花絮",
+      "onboard_time": 1737948917,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100581,
       "num": 100581,
       "word": "台湾台南5.1级地震",
@@ -3465,14 +3521,6 @@
       "onboard_time": 1737946517,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 93549,
-      "num": 93549,
-      "word": "00后有自己的传承细糠",
-      "onboard_time": 1737948197,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93497,
@@ -3651,14 +3699,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 82943,
-      "num": 88315,
-      "word": "全红婵今年回家过年了",
-      "onboard_time": 1737946157,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 82896,
       "num": 184188,
       "word": "韩东君战损肌肉力量感",
@@ -3719,14 +3759,6 @@
       "num": 285792,
       "word": "第一批春节旅游特种兵发打卡照了",
       "onboard_time": 1737861197,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 78985,
-      "num": 347430,
-      "word": "男子遇暴雪2小时回家路开了一天",
-      "onboard_time": 1737946996,
       "rank": 9,
       "category": "民生新闻"
     },
@@ -4379,6 +4411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 29383,
+      "num": 274578,
+      "word": "海警局披露挫败菲挑衅始末",
+      "onboard_time": 1737947236,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 28780,
       "num": 201617,
       "word": "泽连斯基澄清美国对乌军援未停止",
@@ -4411,20 +4451,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 27624,
-      "num": 274578,
-      "word": "海警局披露挫败菲挑衅始末",
-      "onboard_time": 1737947236,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 26948,
       "num": 122788,
       "word": "中式甜品才是浪漫的最高级",
       "onboard_time": 1737889219,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 26594,
+      "num": 154313,
+      "word": "高校有自己的SSR",
+      "onboard_time": 1737948019,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 26190,
@@ -4489,14 +4529,6 @@
       "onboard_time": 1737831972,
       "rank": 44,
       "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 23960,
-      "num": 122436,
-      "word": "高校有自己的SSR",
-      "onboard_time": 1737948019,
-      "rank": 33,
-      "category": "教育"
     },
     {
       "raw_hot": 23719,
@@ -4657,6 +4689,14 @@
       "onboard_time": 1737876317,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 14650,
+      "num": 109583,
+      "word": "DeepSeek概念集体大涨",
+      "onboard_time": 1737949096,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 12587,
