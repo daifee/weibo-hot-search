@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1737946263034,
+  "endTime": 1737946777656,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -459,8 +459,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 565811,
+      "num": 565811,
+      "word": "OneRepublic将登上春晚",
+      "onboard_time": 1737944897,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 564099,
-      "num": 313647,
+      "num": 314162,
       "word": "战鹰发文向柯洁道歉",
       "onboard_time": 1737936255,
       "rank": 10,
@@ -545,6 +553,14 @@
       "onboard_time": 1737856938,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 511906,
+      "num": 178575,
+      "word": "无忧传媒",
+      "onboard_time": 1737939616,
+      "rank": 26,
+      "category": "网红"
     },
     {
       "raw_hot": 510866,
@@ -707,14 +723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 437098,
-      "num": 178575,
-      "word": "无忧传媒",
-      "onboard_time": 1737939616,
-      "rank": 26,
-      "category": "网红"
-    },
-    {
       "raw_hot": 422381,
       "num": 241763,
       "word": "周杰伦瘦好多",
@@ -753,14 +761,6 @@
       "onboard_time": 1737888379,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 401514,
-      "num": 401514,
-      "word": "OneRepublic将登上春晚",
-      "onboard_time": 1737944897,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 399366,
@@ -891,6 +891,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 360919,
+      "num": 232484,
+      "word": "封神解释家和家人的意义",
+      "onboard_time": 1737944837,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 357692,
       "num": 357692,
       "word": "这届年轻人手机贴都要黄金的",
@@ -1003,8 +1011,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 317615,
-      "num": 317615,
+      "raw_hot": 318551,
+      "num": 318551,
       "word": "全球掀DeepSeek复现狂潮",
       "onboard_time": 1737942016,
       "rank": 40,
@@ -1131,6 +1139,14 @@
       "category": "民生新闻,旅游"
     },
     {
+      "raw_hot": 278147,
+      "num": 244214,
+      "word": "柜姐评论刘亦菲微胖店铺正常运营",
+      "onboard_time": 1737913755,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 277601,
       "num": 277601,
       "word": "特朗普称或考虑重新加入世卫组织",
@@ -1145,6 +1161,14 @@
       "onboard_time": 1737846374,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 276202,
+      "num": 243797,
+      "word": "260平米只做了两房的家",
+      "onboard_time": 1737941117,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 273005,
@@ -1195,14 +1219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 266668,
-      "num": 243797,
-      "word": "260平米只做了两房的家",
-      "onboard_time": 1737941117,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 263118,
       "num": 234477,
       "word": "和鹿晗过大年",
@@ -1241,6 +1257,14 @@
       "onboard_time": 1737941418,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 258247,
+      "num": 192631,
+      "word": "特朗普称将来美国可能大幅扩张",
+      "onboard_time": 1737944776,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 256619,
@@ -1297,14 +1321,6 @@
       "onboard_time": 1737892339,
       "rank": 23,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 244214,
-      "num": 244214,
-      "word": "柜姐评论刘亦菲微胖店铺正常运营",
-      "onboard_time": 1737913755,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 243092,
@@ -1377,14 +1393,6 @@
       "onboard_time": 1737938477,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 232484,
-      "num": 232484,
-      "word": "封神解释家和家人的意义",
-      "onboard_time": 1737944837,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 230299,
@@ -1699,12 +1707,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192631,
-      "num": 192631,
-      "word": "特朗普称将来美国可能大幅扩张",
-      "onboard_time": 1737944776,
-      "rank": 17,
-      "category": "国际时政"
+      "raw_hot": 193292,
+      "num": 193292,
+      "word": "张雨霏第一次上春晚有点紧张",
+      "onboard_time": 1737944536,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 192578,
@@ -1731,6 +1739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189960,
+      "num": 189960,
+      "word": "尹锡悦将在牢房过年顿顿都有泡菜",
+      "onboard_time": 1737945556,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 189801,
       "num": 189801,
       "word": "第一次见国产剧婆媳处成母女",
@@ -1755,20 +1771,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188828,
+      "num": 188828,
+      "word": "A股",
+      "onboard_time": 1737944356,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 187549,
       "num": 153404,
       "word": "二胎宝妈生产时丈夫还在酒店开房",
       "onboard_time": 1737868698,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 186571,
-      "num": 170873,
-      "word": "张雨霏第一次上春晚有点紧张",
-      "onboard_time": 1737944536,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 184025,
@@ -1857,14 +1873,6 @@
       "onboard_time": 1737871338,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 174752,
-      "num": 174752,
-      "word": "A股",
-      "onboard_time": 1737944356,
-      "rank": 19,
-      "category": "财经"
     },
     {
       "raw_hot": 173725,
@@ -2347,6 +2355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144070,
+      "num": 172532,
+      "word": "吃撑24小时后身体的变化",
+      "onboard_time": 1737942436,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 143915,
       "num": 143915,
       "word": "王源古风小生",
@@ -2417,14 +2433,6 @@
       "onboard_time": 1737865999,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 139958,
-      "num": 139958,
-      "word": "吃撑24小时后身体的变化",
-      "onboard_time": 1737942436,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 139153,
@@ -2667,6 +2675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126141,
+      "num": 171972,
+      "word": "19岁电竞选手幻云疑遭遇杀猪盘",
+      "onboard_time": 1737943157,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 126118,
       "num": 126118,
       "word": "杨紫何惟芳故事走到终章",
@@ -2745,14 +2761,6 @@
       "onboard_time": 1737860357,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 123209,
-      "num": 153972,
-      "word": "19岁电竞选手幻云疑遭遇杀猪盘",
-      "onboard_time": 1737943157,
-      "rank": 24,
-      "category": "电竞"
     },
     {
       "raw_hot": 121950,
@@ -3123,6 +3131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105782,
+      "num": 105782,
+      "word": "白鹿为白烁换了12次头像",
+      "onboard_time": 1737945917,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105519,
       "num": 105519,
       "word": "因暴雪新娘乘高铁前往婚礼现场",
@@ -3153,14 +3169,6 @@
       "onboard_time": 1737865518,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 104258,
-      "num": 104258,
-      "word": "尹锡悦将在牢房过年顿顿都有泡菜",
-      "onboard_time": 1737945556,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 104096,
@@ -3283,6 +3291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99518,
+      "num": 99518,
+      "word": "DeepSeek美区苹果下载榜超过ChatGPT",
+      "onboard_time": 1737943037,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 99092,
       "num": 99092,
       "word": "女子吐槽网购买到翻新春联",
@@ -3395,20 +3411,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94616,
+      "num": 94616,
+      "word": "国羽全队送上新春祝福",
+      "onboard_time": 1737946517,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93497,
       "num": 165273,
       "word": "人民网评异人之下之决战碧游村",
       "onboard_time": 1737867019,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 93240,
-      "num": 93240,
-      "word": "DeepSeek美区苹果下载榜超过ChatGPT",
-      "onboard_time": 1737943037,
-      "rank": 42,
-      "category": "互联网"
     },
     {
       "raw_hot": 91699,
@@ -3539,14 +3555,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 84975,
-      "num": 84975,
-      "word": "白鹿为白烁换了12次头像",
-      "onboard_time": 1737945917,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 84406,
       "num": 206822,
       "word": "致敬坚守岗位的每个你",
@@ -3587,6 +3595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 82943,
+      "num": 88315,
+      "word": "全红婵今年回家过年了",
+      "onboard_time": 1737946157,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82896,
       "num": 184188,
       "word": "韩东君战损肌肉力量感",
@@ -3609,6 +3625,14 @@
       "onboard_time": 1737885258,
       "rank": 49,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 81181,
+      "num": 175711,
+      "word": "柯洁称规则中未写放提子时间",
+      "onboard_time": 1737942256,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 80939,
@@ -3705,14 +3729,6 @@
       "onboard_time": 1737865938,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 75991,
-      "num": 75991,
-      "word": "全红婵今年回家过年了",
-      "onboard_time": 1737946157,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 75434,
@@ -4385,14 +4401,6 @@
       "onboard_time": 1737916393,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 24341,
-      "num": 175711,
-      "word": "柯洁称规则中未写放提子时间",
-      "onboard_time": 1737942256,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 24082,

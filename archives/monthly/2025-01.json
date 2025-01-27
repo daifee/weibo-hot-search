@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737946263034,
+  "endTime": 1737946777656,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -12459,6 +12459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 565811,
+      "num": 565811,
+      "word": "OneRepublic将登上春晚",
+      "onboard_time": 1737944897,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 565747,
       "num": 565747,
       "word": "特朗普要求加州州长就山火失控辞职",
@@ -12492,7 +12500,7 @@
     },
     {
       "raw_hot": 564099,
-      "num": 313647,
+      "num": 314162,
       "word": "战鹰发文向柯洁道歉",
       "onboard_time": 1737936255,
       "rank": 10,
@@ -13969,6 +13977,14 @@
       "onboard_time": 1737780857,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 511906,
+      "num": 178575,
+      "word": "无忧传媒",
+      "onboard_time": 1737939616,
+      "rank": 26,
+      "category": "网红"
     },
     {
       "raw_hot": 511850,
@@ -16731,14 +16747,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 437098,
-      "num": 178575,
-      "word": "无忧传媒",
-      "onboard_time": 1737939616,
-      "rank": 26,
-      "category": "网红"
-    },
-    {
       "raw_hot": 436851,
       "num": 436851,
       "word": "金世佳照顾喝醉的檀健次",
@@ -18193,14 +18201,6 @@
       "onboard_time": 1736837839,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 401514,
-      "num": 401514,
-      "word": "OneRepublic将登上春晚",
-      "onboard_time": 1737944897,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 401474,
@@ -20417,6 +20417,14 @@
       "onboard_time": 1736612183,
       "rank": 29,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 360919,
+      "num": 232484,
+      "word": "封神解释家和家人的意义",
+      "onboard_time": 1737944837,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 360400,
@@ -22891,6 +22899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 318551,
+      "num": 318551,
+      "word": "全球掀DeepSeek复现狂潮",
+      "onboard_time": 1737942016,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 318387,
       "num": 318387,
       "word": "摔倒时是孩子爬起来就是老板",
@@ -22944,14 +22960,6 @@
       "word": "下一个TikTok还是中国产",
       "onboard_time": 1736942718,
       "rank": 24,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 317615,
-      "num": 317615,
-      "word": "全球掀DeepSeek复现狂潮",
-      "onboard_time": 1737942016,
-      "rank": 40,
       "category": "互联网"
     },
     {
@@ -25915,6 +25923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 278147,
+      "num": 244214,
+      "word": "柜姐评论刘亦菲微胖店铺正常运营",
+      "onboard_time": 1737913755,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 278077,
       "num": 278077,
       "word": "胖东来不允许夫妻间家暴冷暴力",
@@ -26121,6 +26137,14 @@
       "onboard_time": 1736775922,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 276202,
+      "num": 243797,
+      "word": "260平米只做了两房的家",
+      "onboard_time": 1737941117,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 276003,
@@ -27067,14 +27091,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 266668,
-      "num": 243797,
-      "word": "260平米只做了两房的家",
-      "onboard_time": 1737941117,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 266667,
       "num": 266667,
       "word": "刘诗雯好冷静",
@@ -27841,6 +27857,14 @@
       "onboard_time": 1736161103,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258247,
+      "num": 192631,
+      "word": "特朗普称将来美国可能大幅扩张",
+      "onboard_time": 1737944776,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 258195,
@@ -29283,14 +29307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 244214,
-      "num": 244214,
-      "word": "柜姐评论刘亦菲微胖店铺正常运营",
-      "onboard_time": 1737913755,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 244150,
       "num": 244150,
       "word": "WTT感谢陈梦",
@@ -30617,14 +30633,6 @@
       "onboard_time": 1735996528,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 232484,
-      "num": 232484,
-      "word": "封神解释家和家人的意义",
-      "onboard_time": 1737944837,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 232385,
@@ -38139,6 +38147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193292,
+      "num": 193292,
+      "word": "张雨霏第一次上春晚有点紧张",
+      "onboard_time": 1737944536,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193291,
       "num": 193291,
       "word": "沈梦辰的造型师请出来挨夸",
@@ -38385,14 +38401,6 @@
       "onboard_time": 1737258258,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 192631,
-      "num": 192631,
-      "word": "特朗普称将来美国可能大幅扩张",
-      "onboard_time": 1737944776,
-      "rank": 17,
-      "category": "国际时政"
     },
     {
       "raw_hot": 192599,
@@ -39249,6 +39257,14 @@
       "onboard_time": 1737367878,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189960,
+      "num": 189960,
+      "word": "尹锡悦将在牢房过年顿顿都有泡菜",
+      "onboard_time": 1737945556,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 189893,
@@ -40225,14 +40241,6 @@
       "onboard_time": 1737363138,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 186571,
-      "num": 170873,
-      "word": "张雨霏第一次上春晚有点紧张",
-      "onboard_time": 1737944536,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 186569,
@@ -52683,6 +52691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144070,
+      "num": 172532,
+      "word": "吃撑24小时后身体的变化",
+      "onboard_time": 1737942436,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 144050,
       "num": 229956,
       "word": "樊振东12岁一篇训练日记写7页半",
@@ -54041,14 +54057,6 @@
       "onboard_time": 1736353819,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 139958,
-      "num": 139958,
-      "word": "吃撑24小时后身体的变化",
-      "onboard_time": 1737942436,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 139938,
@@ -58827,6 +58835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126141,
+      "num": 171972,
+      "word": "19岁电竞选手幻云疑遭遇杀猪盘",
+      "onboard_time": 1737943157,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 126120,
       "num": 126120,
       "word": "曝孟子义李昀锐都参加湖南卫视小年夜",
@@ -59881,14 +59897,6 @@
       "onboard_time": 1736261065,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123209,
-      "num": 153972,
-      "word": "19岁电竞选手幻云疑遭遇杀猪盘",
-      "onboard_time": 1737943157,
-      "rank": 24,
-      "category": "电竞"
     },
     {
       "raw_hot": 123207,
@@ -65747,6 +65755,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 105782,
+      "num": 105782,
+      "word": "白鹿为白烁换了12次头像",
+      "onboard_time": 1737945917,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105748,
       "num": 105748,
       "word": "本雅明模仿樊振东庆祝手势",
@@ -66241,14 +66257,6 @@
       "onboard_time": 1737630018,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104258,
-      "num": 104258,
-      "word": "尹锡悦将在牢房过年顿顿都有泡菜",
-      "onboard_time": 1737945556,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 104218,
@@ -67483,6 +67491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 99518,
+      "num": 99518,
+      "word": "DeepSeek美区苹果下载榜超过ChatGPT",
+      "onboard_time": 1737943037,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 99422,
       "num": 95373,
       "word": "sherlisa",
@@ -68651,6 +68667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94616,
+      "num": 94616,
+      "word": "国羽全队送上新春祝福",
+      "onboard_time": 1737946517,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94614,
       "num": 94614,
       "word": "中国足球64支冠军队45支解散",
@@ -68913,14 +68937,6 @@
       "onboard_time": 1737415876,
       "rank": 35,
       "category": "财经,数码"
-    },
-    {
-      "raw_hot": 93240,
-      "num": 93240,
-      "word": "DeepSeek美区苹果下载榜超过ChatGPT",
-      "onboard_time": 1737943037,
-      "rank": 42,
-      "category": "互联网"
     },
     {
       "raw_hot": 93159,
@@ -70339,14 +70355,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 84975,
-      "num": 84975,
-      "word": "白鹿为白烁换了12次头像",
-      "onboard_time": 1737945917,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 84968,
       "num": 84968,
       "word": "双鱼座的进阶是从内耗到外耗",
@@ -70731,6 +70739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82943,
+      "num": 88315,
+      "word": "全红婵今年回家过年了",
+      "onboard_time": 1737946157,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82929,
       "num": 147324,
       "word": "熊孩子能闯多大的祸",
@@ -71055,6 +71071,14 @@
       "num": 166019,
       "word": "郑钦文再回应澳网爆冷",
       "onboard_time": 1737558440,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 81181,
+      "num": 175711,
+      "word": "柯洁称规则中未写放提子时间",
+      "onboard_time": 1737942256,
       "rank": 24,
       "category": "体育"
     },
@@ -71833,14 +71857,6 @@
       "onboard_time": 1736947519,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 75991,
-      "num": 75991,
-      "word": "全红婵今年回家过年了",
-      "onboard_time": 1737946157,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 75985,
@@ -81769,14 +81785,6 @@
       "onboard_time": 1736274373,
       "rank": 49,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 24341,
-      "num": 175711,
-      "word": "柯洁称规则中未写放提子时间",
-      "onboard_time": 1737942256,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 24327,
