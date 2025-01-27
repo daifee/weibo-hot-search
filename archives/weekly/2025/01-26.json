@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1737959486994,
+  "endTime": 1737960249069,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -67,20 +67,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1844246,
+      "num": 1844246,
+      "word": "DeepSeek",
+      "onboard_time": 1737947955,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1772288,
       "num": 1772288,
       "word": "无忧传媒暂停与张大大业务",
       "onboard_time": 1737851058,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1464940,
-      "num": 1464940,
-      "word": "DeepSeek",
-      "onboard_time": 1737947955,
-      "rank": 21,
-      "category": "互联网"
     },
     {
       "raw_hot": 1458544,
@@ -811,8 +811,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 435909,
-      "num": 435909,
+      "raw_hot": 439747,
+      "num": 439747,
       "word": "国色芳华亲爱的热爱的共创",
       "onboard_time": 1737957855,
       "rank": 3,
@@ -1539,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238487,
+      "num": 193915,
+      "word": "泰国多名军警人员涉绑架案被拘捕",
+      "onboard_time": 1737956296,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 237875,
       "num": 237875,
       "word": "毛不易上春晚嘴真严啊",
@@ -1577,14 +1585,6 @@
       "onboard_time": 1737907037,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 226376,
-      "num": 193915,
-      "word": "泰国多名军警人员涉绑架案被拘捕",
-      "onboard_time": 1737956296,
-      "rank": 20,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 224924,
@@ -1923,6 +1923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193005,
+      "num": 193005,
+      "word": "DeepSeek创始人回广东过年",
+      "onboard_time": 1737958697,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 192578,
       "num": 192578,
       "word": "肖战春天花会开幸福向未来",
@@ -2009,6 +2017,14 @@
       "onboard_time": 1737868698,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187200,
+      "num": 194563,
+      "word": "雷军挖角的AI天才来自DeepSeek",
+      "onboard_time": 1737954977,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 184025,
@@ -2193,6 +2209,14 @@
       "onboard_time": 1737898999,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 170278,
+      "num": 189296,
+      "word": "姚晨说杨丽萍蛇舞是极致东方美学",
+      "onboard_time": 1737956835,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 169605,
@@ -2508,7 +2532,7 @@
     },
     {
       "raw_hot": 151264,
-      "num": 151264,
+      "num": 153674,
       "word": "柯洁在网友评论区问我和战鹰熟吗",
       "onboard_time": 1737957257,
       "rank": 25,
@@ -2539,6 +2563,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 149245,
+      "num": 265102,
+      "word": "春节宠物寄养价格赶上人住酒店了",
+      "onboard_time": 1737958037,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149240,
       "num": 149240,
       "word": "张钧甯骨相美人",
@@ -2561,14 +2593,6 @@
       "onboard_time": 1737889879,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 148971,
-      "num": 148971,
-      "word": "DeepSeek创始人回广东过年",
-      "onboard_time": 1737958697,
-      "rank": 31,
-      "category": "互联网"
     },
     {
       "raw_hot": 148488,
@@ -2752,14 +2776,6 @@
       "word": "女子推理社",
       "onboard_time": 1737865999,
       "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 140116,
-      "num": 150523,
-      "word": "姚晨说杨丽萍蛇舞是极致东方美学",
-      "onboard_time": 1737956835,
-      "rank": 27,
       "category": "综艺"
     },
     {
@@ -3131,12 +3147,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 122227,
-      "num": 194563,
-      "word": "雷军挖角的AI天才来自DeepSeek",
-      "onboard_time": 1737954977,
-      "rank": 43,
-      "category": "互联网"
+      "raw_hot": 122314,
+      "num": 265180,
+      "word": "想过大年三十得等到2030年",
+      "onboard_time": 1737958996,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121950,
@@ -3387,12 +3403,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 111621,
+      "num": 111621,
+      "word": "DeepSeek实习生日薪最高达上千元",
+      "onboard_time": 1737960197,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 111465,
       "num": 111465,
       "word": "天蝎座没那么需要新鲜感",
       "onboard_time": 1737852017,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 111054,
+      "num": 111054,
+      "word": "DeepSeek多岗位招新",
+      "onboard_time": 1737958757,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 111043,
@@ -3504,6 +3536,14 @@
       "word": "尹锡悦将在单人牢房过年",
       "onboard_time": 1737953896,
       "rank": 46,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 108063,
+      "num": 108063,
+      "word": "美国向哥伦比亚挥舞制裁大棒",
+      "onboard_time": 1737959057,
+      "rank": 45,
       "category": "国际时政"
     },
     {
@@ -3947,28 +3987,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 92572,
-      "num": 92572,
-      "word": "DeepSeek多岗位招新",
-      "onboard_time": 1737958757,
-      "rank": 44,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 91865,
-      "num": 91865,
-      "word": "美国向哥伦比亚挥舞制裁大棒",
-      "onboard_time": 1737959057,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 91699,
       "num": 91699,
       "word": "DeepSeek为何震动美国科技界",
       "onboard_time": 1737857718,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 91605,
+      "num": 91605,
+      "word": "黄杨钿甜好有灵气的一张脸",
+      "onboard_time": 1737959777,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 90936,
@@ -4003,12 +4035,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 90288,
-      "num": 265102,
-      "word": "春节宠物寄养价格赶上人住酒店了",
-      "onboard_time": 1737958037,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 89121,
+      "num": 89121,
+      "word": "TFING扑面而来的青春感",
+      "onboard_time": 1737959957,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 89096,
@@ -4091,6 +4123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 86188,
+      "num": 86188,
+      "word": "DeepSeek创始人回应爆火",
+      "onboard_time": 1737954916,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 85544,
       "num": 190587,
       "word": "封神地狱笑话",
@@ -4163,14 +4203,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 82606,
-      "num": 82606,
-      "word": "DeepSeek创始人回应爆火",
-      "onboard_time": 1737954916,
-      "rank": 47,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 82055,
       "num": 82055,
       "word": "北京台春晚阵容你最期待谁",
@@ -4217,6 +4249,14 @@
       "onboard_time": 1737910276,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80552,
+      "num": 80552,
+      "word": "6岁小朋友乘直升机回家过年",
+      "onboard_time": 1737956897,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80071,
@@ -4635,14 +4675,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 52374,
-      "num": 265180,
-      "word": "想过大年三十得等到2030年",
-      "onboard_time": 1737958996,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 52274,
       "num": 146910,
       "word": "永远相信河南春晚审美",
@@ -5036,7 +5068,7 @@
     },
     {
       "raw_hot": 25546,
-      "num": 230042,
+      "num": 245626,
       "word": "奇瑞让老外爱上中国年",
       "onboard_time": 1737957377,
       "rank": 16,
@@ -5065,6 +5097,14 @@
       "onboard_time": 1737916393,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 24567,
+      "num": 187561,
+      "word": "春晚大赏今日发健康运",
+      "onboard_time": 1737959297,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 24082,
@@ -5136,14 +5176,6 @@
       "word": "河南春晚看见不一样的周深",
       "onboard_time": 1737930613,
       "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 21617,
-      "num": 149191,
-      "word": "春晚大赏今日发健康运",
-      "onboard_time": 1737959297,
-      "rank": 30,
       "category": "综艺"
     },
     {

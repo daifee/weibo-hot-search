@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737959486994,
+  "endTime": 1737960249069,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1787,6 +1787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1844246,
+      "num": 1844246,
+      "word": "DeepSeek",
+      "onboard_time": 1737947955,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1834605,
       "num": 1834605,
       "word": "昀牵孟绕",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736815280,
       "rank": 0,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1592003,
-      "num": 368954,
-      "word": "赵露思谈与抑郁症斗争",
-      "onboard_time": 1737696679,
-      "rank": 16,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
