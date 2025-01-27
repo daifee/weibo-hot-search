@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1737934544623,
+  "endTime": 1737942123943,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1000646,
+      "num": 180879,
+      "word": "因张大大有流量老板经常给他换人",
+      "onboard_time": 1737936136,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 989818,
       "num": 257426,
       "word": "女子产后遭第三者到医院挑衅",
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 811078,
-      "num": 903594,
+      "num": 1129419,
       "word": "陈小春突然想起自己签了保密协议",
       "onboard_time": 1737904460,
       "rank": 11,
@@ -363,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 660477,
+      "num": 178590,
+      "word": "黄毛毛问张大大睡了吗",
+      "onboard_time": 1737939557,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 650358,
       "num": 650358,
       "word": "黄子韬看萱萱爸爸快哭了很心疼",
@@ -417,6 +433,14 @@
       "onboard_time": 1737822079,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 564099,
+      "num": 196535,
+      "word": "战鹰发文向柯洁道歉",
+      "onboard_time": 1737936255,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 554633,
@@ -537,6 +561,14 @@
       "onboard_time": 1737805581,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 502989,
+      "num": 304486,
+      "word": "2025年总台春晚完成全部五次彩排",
+      "onboard_time": 1737939497,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 500832,
@@ -763,6 +795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 387416,
+      "num": 387416,
+      "word": "韩公布济州航空空难初步调查报告",
+      "onboard_time": 1737936016,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 387177,
       "num": 387177,
       "word": "韩国铆足劲吸引中国游客",
@@ -955,6 +995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 299603,
+      "num": 194341,
+      "word": "赵露思康复过程好多奶奶的身影",
+      "onboard_time": 1737939197,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 293990,
       "num": 241367,
       "word": "陈哲远拦下10辆出租车",
@@ -1041,6 +1089,14 @@
       "onboard_time": 1737846374,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 273399,
+      "num": 229898,
+      "word": "业内预测票房冠军是哪吒或唐探",
+      "onboard_time": 1737928271,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 273005,
@@ -1163,6 +1219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 248175,
+      "num": 248175,
+      "word": "合肥地震",
+      "onboard_time": 1737933313,
+      "rank": 16,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 245034,
       "num": 230850,
       "word": "白鹿驼色大衣",
@@ -1233,6 +1297,14 @@
       "onboard_time": 1737913755,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 235682,
+      "num": 179738,
+      "word": "每晚必拔WiFi没苦硬吃是我爸妈没错了",
+      "onboard_time": 1737938477,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 230299,
@@ -1387,14 +1459,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 204936,
-      "num": 156163,
-      "word": "业内预测票房冠军是哪吒或唐探",
-      "onboard_time": 1737928271,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 204806,
       "num": 215842,
       "word": "此沙发长文回应素人时期",
@@ -1451,6 +1515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 199003,
+      "num": 194569,
+      "word": "张杰演唱会0排0号的视角",
+      "onboard_time": 1737935775,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 198990,
       "num": 198990,
       "word": "五福临门",
@@ -1483,6 +1555,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196661,
+      "num": 196661,
+      "word": "明天除夕",
+      "onboard_time": 1737934815,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196230,
+      "num": 196230,
+      "word": "DeepSeek新模型火到海外",
+      "onboard_time": 1737933254,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 195836,
+      "num": 178174,
+      "word": "无忧传媒",
+      "onboard_time": 1737939616,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 195001,
       "num": 195001,
       "word": "河南除雪火力全开",
@@ -1497,6 +1593,14 @@
       "onboard_time": 1737861737,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 194011,
+      "num": 194011,
+      "word": "年前最后一个工作日了",
+      "onboard_time": 1737933613,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193888,
@@ -1611,6 +1715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181191,
+      "num": 181191,
+      "word": "自驾4000公里回家主人和狗都麻了",
+      "onboard_time": 1737940097,
+      "rank": 19,
+      "category": "民生新闻,旅游"
+    },
+    {
       "raw_hot": 180238,
       "num": 180238,
       "word": "吴倩特别主演",
@@ -1633,6 +1745,14 @@
       "onboard_time": 1737896600,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178093,
+      "num": 178093,
+      "word": "韩国空难飞机发动机吸入花脸鸭",
+      "onboard_time": 1737938355,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 177782,
@@ -1939,6 +2059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155290,
+      "num": 155290,
+      "word": "周深祝你新年总有美好在路上",
+      "onboard_time": 1737939557,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154432,
       "num": 171571,
       "word": "fromis9签约新所属社",
@@ -1977,6 +2105,14 @@
       "onboard_time": 1737810922,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 153676,
+      "num": 153676,
+      "word": "北京一车失控坠河民警跳河营救",
+      "onboard_time": 1737939257,
+      "rank": 29,
+      "category": "正能量"
     },
     {
       "raw_hot": 152200,
@@ -2147,6 +2283,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 143329,
+      "num": 143329,
+      "word": "2025巨蟹座会发生3件好事",
+      "onboard_time": 1737935475,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 143318,
       "num": 143318,
       "word": "冬日里的这一幕好温暖",
@@ -2161,6 +2305,14 @@
       "onboard_time": 1737883638,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142628,
+      "num": 142628,
+      "word": "老太吃一个月甘草片止咳致全身瘫软",
+      "onboard_time": 1737936435,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141303,
@@ -2289,14 +2441,6 @@
       "onboard_time": 1737848294,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 135814,
-      "num": 135814,
-      "word": "合肥地震",
-      "onboard_time": 1737933313,
-      "rank": 16,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 135495,
@@ -2435,6 +2579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 125681,
+      "num": 125681,
+      "word": "马斯克提议英吉利海峡更名",
+      "onboard_time": 1737933613,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 125329,
       "num": 125329,
       "word": "打工宝妈在国色芳华里演上了贵人",
@@ -2547,14 +2699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118744,
-      "num": 118744,
-      "word": "年前最后一个工作日了",
-      "onboard_time": 1737933613,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 118561,
       "num": 221683,
       "word": "九月退役",
@@ -2624,6 +2768,14 @@
       "word": "云合",
       "onboard_time": 1737883098,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 116323,
+      "num": 116323,
+      "word": "王冰冰演短剧了",
+      "onboard_time": 1737911895,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -2721,6 +2873,14 @@
       "onboard_time": 1737871758,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110747,
+      "num": 110747,
+      "word": "春节年轻人爱买超小克重黄金",
+      "onboard_time": 1737934815,
+      "rank": 35,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 110497,
@@ -2848,6 +3008,14 @@
       "word": "小伙骑行三亚把行李埋沙滩1年后取出用",
       "onboard_time": 1737814762,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105519,
+      "num": 105519,
+      "word": "因暴雪新娘乘高铁前往婚礼现场",
+      "onboard_time": 1737937636,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -2995,6 +3163,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99718,
+      "num": 195514,
+      "word": "冯骥谈DeepSeek",
+      "onboard_time": 1737936556,
+      "rank": 13,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 99367,
+      "num": 99367,
+      "word": "肖战版射雕领跑春节档预售",
+      "onboard_time": 1737935655,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 99092,
       "num": 99092,
       "word": "女子吐槽网购买到翻新春联",
@@ -3009,6 +3193,14 @@
       "onboard_time": 1737817521,
       "rank": 42,
       "category": "网红"
+    },
+    {
+      "raw_hot": 98575,
+      "num": 98575,
+      "word": "韩国裁判说解释权归他所有",
+      "onboard_time": 1737936316,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 98474,
@@ -3033,6 +3225,14 @@
       "onboard_time": 1737865457,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97001,
+      "num": 97001,
+      "word": "260平米只做了两房的家",
+      "onboard_time": 1737941117,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 96982,
@@ -3131,6 +3331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 90410,
+      "num": 90410,
+      "word": "韩济州航空空难诸多问题仍待解",
+      "onboard_time": 1737936616,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 89096,
       "num": 89096,
       "word": "返乡被接力护送视障女孩发声",
@@ -3147,12 +3355,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88473,
+      "num": 88473,
+      "word": "蔡明这段就该留到春晚看",
+      "onboard_time": 1737938295,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 87623,
+      "num": 87623,
+      "word": "DeepSeek团队不到140人",
+      "onboard_time": 1737935775,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 87534,
       "num": 167787,
       "word": "马龙的这份提醒很有意义",
       "onboard_time": 1737894678,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86857,
+      "num": 86857,
+      "word": "花花的睡眠开关突然被摁开",
+      "onboard_time": 1737934815,
+      "rank": 47,
+      "category": "正能量"
     },
     {
       "raw_hot": 86854,
@@ -3235,6 +3467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 83034,
+      "num": 83034,
+      "word": "卢卡申科在白俄罗斯总统选举中获胜",
+      "onboard_time": 1737941956,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 82896,
       "num": 184188,
       "word": "韩东君战损肌肉力量感",
@@ -3289,14 +3529,6 @@
       "onboard_time": 1737861197,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 78284,
-      "num": 78284,
-      "word": "马斯克提议英吉利海峡更名",
-      "onboard_time": 1737933613,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 78105,
@@ -3395,14 +3627,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 71358,
-      "num": 63036,
-      "word": "王冰冰演短剧了",
-      "onboard_time": 1737911895,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 70924,
       "num": 111274,
       "word": "柯洁说为第9冠付出了很多",
@@ -3425,6 +3649,14 @@
       "onboard_time": 1737911475,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 69891,
+      "num": 179266,
+      "word": "科比去世五周年",
+      "onboard_time": 1737939317,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 69250,
@@ -3456,6 +3688,14 @@
       "word": "你好星期六下期是三周年团建特辑",
       "onboard_time": 1737812603,
       "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 68318,
+      "num": 197366,
+      "word": "国羽百灵鸟王昶唱上春晚",
+      "onboard_time": 1737941418,
+      "rank": 8,
       "category": "综艺"
     },
     {
@@ -3641,14 +3881,6 @@
       "onboard_time": 1737911475,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 53945,
-      "num": 53945,
-      "word": "DeepSeek新模型火到海外",
-      "onboard_time": 1737933254,
-      "rank": 27,
-      "category": "互联网"
     },
     {
       "raw_hot": 52993,
@@ -4033,6 +4265,14 @@
       "onboard_time": 1737916393,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 24411,
+      "num": 98046,
+      "word": "全球掀DeepSeek复现狂潮",
+      "onboard_time": 1737942016,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 24082,
