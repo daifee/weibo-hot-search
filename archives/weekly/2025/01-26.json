@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738012947579,
+  "endTime": 1738013735307,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -6667,6 +6667,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 28669,
+      "num": 34134,
+      "word": "辽视春晚把簪花仕女图演活了",
+      "onboard_time": 1738011612,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 28618,
       "num": 180315,
       "word": "反向驯化大数据杀熟真的有用吗",
@@ -6881,14 +6889,6 @@
       "onboard_time": 1737961217,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 22395,
-      "num": 22395,
-      "word": "辽视春晚把簪花仕女图演活了",
-      "onboard_time": 1738011612,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 22254,
