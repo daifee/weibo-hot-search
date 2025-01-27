@@ -1,0 +1,410 @@
+{
+  "runTime": 1738009451018,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 142506,
+        "num": 142506,
+        "word": "新婚一定要回男方家过年吗",
+        "onboard_time": 1737999253,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 74999,
+        "num": 74999,
+        "word": "因Deepseek日本欧洲相关股价大跌",
+        "onboard_time": 1737996615,
+        "rank": 1,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 6855,
+        "num": 70995,
+        "word": "海拔最高春晚分会场",
+        "onboard_time": 1737989419,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68811,
+        "num": 68811,
+        "word": "DeepSeek",
+        "onboard_time": 1737947955,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 67648,
+        "num": 67648,
+        "word": "蛇年怕蛇怎么办",
+        "onboard_time": 1737992597,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58249,
+        "num": 58249,
+        "word": "ChatGPT回应被DeepSeek超越",
+        "onboard_time": 1737988700,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 57723,
+        "num": 57723,
+        "word": "张踩铃一家梗太密了",
+        "onboard_time": 1737995655,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52000,
+        "num": 52000,
+        "word": "DeepSeek一夜掀翻美股",
+        "onboard_time": 1737989119,
+        "rank": 7,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 44548,
+        "num": 44548,
+        "word": "DeepSeek预测春节档票房冠军是哪吒",
+        "onboard_time": 1737979998,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 8475,
+        "num": 41168,
+        "word": "灯会是年味氛围组组长吧",
+        "onboard_time": 1738008911,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327188,
+        "num": 40829,
+        "word": "女子剁排骨失手切断4岁儿子3根手指",
+        "onboard_time": 1737993976,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39910,
+        "num": 39910,
+        "word": "养了两年的猫咪突然攻击人",
+        "onboard_time": 1737997336,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39304,
+        "num": 39304,
+        "word": "女生花一个月工资给继父庆生",
+        "onboard_time": 1737988458,
+        "rank": 12,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 38745,
+        "num": 39066,
+        "word": "拜年文案给你准备好了",
+        "onboard_time": 1737993858,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38983,
+        "num": 38983,
+        "word": "英伟达市值蒸发超3000亿美元",
+        "onboard_time": 1737985818,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 38092,
+        "num": 38092,
+        "word": "郭冬临小品 好笑",
+        "onboard_time": 1737993257,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36822,
+        "num": 36822,
+        "word": "韩国围棋队主教练称卞相壹心情沉重",
+        "onboard_time": 1737999253,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36421,
+        "num": 36421,
+        "word": "贾冰小品",
+        "onboard_time": 1737989298,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28580,
+        "num": 33472,
+        "word": "姜妍好漂亮",
+        "onboard_time": 1737985818,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25388,
+        "num": 31908,
+        "word": "赵露思包场支持射雕英雄传",
+        "onboard_time": 1737987620,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 37974,
+        "num": 31513,
+        "word": "倪萍曾救下想轻生的宋丹丹",
+        "onboard_time": 1737983178,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 30997,
+        "num": 30997,
+        "word": "王菲55岁怎么一点姨感都没有",
+        "onboard_time": 1737968597,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29714,
+        "num": 29714,
+        "word": "蛇年拜年文案",
+        "onboard_time": 1737996137,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28397,
+        "num": 28397,
+        "word": "外交部回应是否接回在美非法中国移民",
+        "onboard_time": 1737984559,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26728,
+        "num": 26728,
+        "word": "英伟达台积电大跌",
+        "onboard_time": 1737977178,
+        "rank": 24,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 25357,
+        "num": 25357,
+        "word": "美股",
+        "onboard_time": 1737979458,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 22647,
+        "num": 22647,
+        "word": "英伟达老对手力挺DeepSeek",
+        "onboard_time": 1737982938,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 22470,
+        "num": 22470,
+        "word": "一想到明天大家都要集体洗头",
+        "onboard_time": 1737977597,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22173,
+        "num": 22173,
+        "word": "今年除夕到初三加班额外付三倍工资",
+        "onboard_time": 1738002792,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19877,
+        "num": 21752,
+        "word": "肖战在春晚后台套圈",
+        "onboard_time": 1737986540,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21570,
+        "num": 21570,
+        "word": "银行回应瘫痪老人被抬到银行",
+        "onboard_time": 1737985998,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21218,
+        "num": 21218,
+        "word": "余承东直播被封",
+        "onboard_time": 1737990797,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 21204,
+        "num": 21204,
+        "word": "新加坡环球影城偶遇丁程鑫",
+        "onboard_time": 1737996256,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20746,
+        "num": 20746,
+        "word": "50岁自驾阿姨苏敏离婚",
+        "onboard_time": 1737974776,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17861,
+        "num": 20452,
+        "word": "易烊千玺第八次登台春晚了",
+        "onboard_time": 1737980717,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20438,
+        "num": 20438,
+        "word": "中国空间站换上春节皮肤",
+        "onboard_time": 1737993976,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19993,
+        "num": 19993,
+        "word": "王者蛇年限定皮肤获取攻略",
+        "onboard_time": 1737987379,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19128,
+        "num": 19128,
+        "word": "消费者快被虚假快递逼疯了",
+        "onboard_time": 1737987979,
+        "rank": 37,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 16921,
+        "num": 16921,
+        "word": "张艺兴山东春晚飞天舞台入梦敦煌",
+        "onboard_time": 1737994218,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17336,
+        "num": 16826,
+        "word": "金智秀出席巴黎时装周",
+        "onboard_time": 1737992058,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 16643,
+        "num": 16643,
+        "word": "权志龙的外套是郑亨敦在市场买的",
+        "onboard_time": 1737984020,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16508,
+        "num": 16508,
+        "word": "旧房装修可享国家补贴",
+        "onboard_time": 1737986839,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16198,
+        "num": 16508,
+        "word": "丁禹兮慕声式拜年",
+        "onboard_time": 1737988458,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15758,
+        "num": 16505,
+        "word": "王俊凯巴黎雨夜男主",
+        "onboard_time": 1737986057,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 14982,
+        "num": 16504,
+        "word": "OneRepublic确认将登上央视春晚",
+        "onboard_time": 1737983538,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14754,
+        "num": 16503,
+        "word": "孙颖莎说希望站在洛杉矶奥运会赛场上",
+        "onboard_time": 1737994697,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14090,
+        "num": 16501,
+        "word": "陈哲远 直拍来了",
+        "onboard_time": 1737984500,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 13902,
+        "num": 16501,
+        "word": "杨幂双麻花辫新年京味大片",
+        "onboard_time": 1737992477,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 13828,
+        "num": 16499,
+        "word": "代露娃死嘴快憋住啊",
+        "onboard_time": 1737971056,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12772,
+        "num": 16497,
+        "word": "中共中央国务院27日举行春节团拜会",
+        "onboard_time": 1737979217,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在2025年春节团拜会上的讲话#"
+    }
+  }
+}
