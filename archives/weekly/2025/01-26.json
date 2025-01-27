@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1737995245772,
+  "endTime": 1737996157497,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -19,20 +19,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3185801,
+      "num": 279957,
+      "word": "女子剁排骨失手切断4岁儿子3根手指",
+      "onboard_time": 1737993976,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 3143279,
       "num": 351521,
       "word": "赵露思病发抽搐视频",
       "onboard_time": 1737886339,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3063859,
-      "num": 279957,
-      "word": "女子剁排骨失手切断4岁儿子3根手指",
-      "onboard_time": 1737993976,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 2970349,
@@ -1043,6 +1043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 453392,
+      "num": 453392,
+      "word": "蛇年怕蛇怎么办",
+      "onboard_time": 1737992597,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 449646,
       "num": 449646,
       "word": "DeepSeek创始人回广东过年",
@@ -1113,14 +1121,6 @@
       "onboard_time": 1737990797,
       "rank": 37,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 427791,
-      "num": 427791,
-      "word": "蛇年怕蛇怎么办",
-      "onboard_time": 1737992597,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 422381,
@@ -1547,6 +1547,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 314299,
+      "num": 271923,
+      "word": "郭冬临小品 好笑",
+      "onboard_time": 1737993257,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 309094,
       "num": 309094,
       "word": "DeepSeek彻底爆发",
@@ -1763,14 +1771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 271923,
-      "num": 271923,
-      "word": "郭冬临小品 好笑",
-      "onboard_time": 1737993257,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 271196,
       "num": 217111,
       "word": "张馨予晒何捷为她拍的雪地大片",
@@ -1915,6 +1915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250825,
+      "num": 250825,
+      "word": "DeepSeek一夜掀翻美股",
+      "onboard_time": 1737989119,
+      "rank": 38,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 250813,
       "num": 250813,
       "word": "合肥地震",
@@ -1953,14 +1961,6 @@
       "onboard_time": 1737944536,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 244229,
-      "num": 244229,
-      "word": "DeepSeek一夜掀翻美股",
-      "onboard_time": 1737989119,
-      "rank": 38,
-      "category": "财经,互联网"
     },
     {
       "raw_hot": 243092,
@@ -2228,7 +2228,7 @@
     },
     {
       "raw_hot": 216683,
-      "num": 216683,
+      "num": 235190,
       "word": "2025粤港澳大湾区春节晚会",
       "onboard_time": 1737981138,
       "rank": 27,
@@ -2937,6 +2937,14 @@
       "onboard_time": 1737864498,
       "rank": 18,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 168056,
+      "num": 280016,
+      "word": "拜年文案给你准备好了",
+      "onboard_time": 1737993858,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 167902,
@@ -4091,6 +4099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125985,
+      "num": 212800,
+      "word": "王者蛇年限定皮肤获取攻略",
+      "onboard_time": 1737987379,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 125751,
       "num": 125751,
       "word": "今晚和陈奕迅提前过年了",
@@ -4787,14 +4803,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105273,
-      "num": 212800,
-      "word": "王者蛇年限定皮肤获取攻略",
-      "onboard_time": 1737987379,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 105173,
       "num": 180885,
       "word": "库里下半场0分",
@@ -5179,14 +5187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 96089,
-      "num": 280016,
-      "word": "拜年文案给你准备好了",
-      "onboard_time": 1737993858,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 95858,
       "num": 107492,
       "word": "祝宁波市民蛇年大吉巳巳如意",
@@ -5200,6 +5200,14 @@
       "word": "登陆少年组合加盟东方卫视春晚",
       "onboard_time": 1737983658,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 95355,
+      "num": 95355,
+      "word": "张踩铃一家梗太密了",
+      "onboard_time": 1737995655,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -5955,6 +5963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64970,
+      "num": 64970,
+      "word": "新年壁纸",
+      "onboard_time": 1737995358,
+      "rank": 46,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 63890,
       "num": 682866,
       "word": "那些你不知道的北京地儿",
@@ -5976,6 +5992,14 @@
       "word": "第一批回家过年的人集合",
       "onboard_time": 1737868517,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62262,
+      "num": 62262,
+      "word": "蛇年拜年文案",
+      "onboard_time": 1737996137,
+      "rank": 48,
       "category": "民生新闻"
     },
     {

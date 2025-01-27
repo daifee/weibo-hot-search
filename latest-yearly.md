@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/28 00:27:25
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/28 00:42:37
 </p>
 </blockquote>
 <p>
@@ -405,6 +405,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%89%81%E6%8E%92%E9%AA%A8%E5%A4%B1%E6%89%8B%E5%88%87%E6%96%AD4%E5%B2%81%E5%84%BF%E5%AD%903%E6%A0%B9%E6%89%8B%E6%8C%87%23" target="weibo">
+女子剁排骨失手切断4岁儿子3根手指（热度：3185801）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E7%97%85%E5%8F%91%E6%8A%BD%E6%90%90%E8%A7%86%E9%A2%91%23" target="weibo">
 赵露思病发抽搐视频（热度：3143279）
 </a>
@@ -431,12 +437,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E7%A7%B0%E8%A2%AB%E5%85%B3%E5%9C%A8%E6%9C%8950%E4%B8%AA%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E5%BB%BA%E7%AD%91%E9%87%8C%23" target="weibo">
 王星称被关在有50个中国人的建筑里（热度：3084192）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%89%81%E6%8E%92%E9%AA%A8%E5%A4%B1%E6%89%8B%E5%88%87%E6%96%AD4%E5%B2%81%E5%84%BF%E5%AD%903%E6%A0%B9%E6%89%8B%E6%8C%87%23" target="weibo">
-女子剁排骨失手切断4岁儿子3根手指（热度：3063859）
 </a>
 </li>
 

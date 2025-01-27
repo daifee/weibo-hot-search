@@ -1,9 +1,9 @@
 {
   "startTime": 1737995245772,
-  "endTime": 1737995245772,
+  "endTime": 1737996157497,
   "band_list": [
     {
-      "raw_hot": 3063859,
+      "raw_hot": 3185801,
       "num": 279957,
       "word": "女子剁排骨失手切断4岁儿子3根手指",
       "onboard_time": 1737993976,
@@ -27,6 +27,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 453392,
+      "num": 453392,
+      "word": "蛇年怕蛇怎么办",
+      "onboard_time": 1737992597,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 432980,
       "num": 432980,
       "word": "DeepSeek",
@@ -41,14 +49,6 @@
       "onboard_time": 1737990797,
       "rank": 4,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 427791,
-      "num": 427791,
-      "word": "蛇年怕蛇怎么办",
-      "onboard_time": 1737992597,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 410021,
@@ -75,20 +75,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 314299,
+      "num": 271923,
+      "word": "郭冬临小品 好笑",
+      "onboard_time": 1737993257,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 297392,
       "num": 297392,
       "word": "ChatGPT回应被DeepSeek超越",
       "onboard_time": 1737988700,
       "rank": 8,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 271923,
-      "num": 271923,
-      "word": "郭冬临小品 好笑",
-      "onboard_time": 1737993257,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 267553,
@@ -99,8 +99,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 244229,
-      "num": 244229,
+      "raw_hot": 250825,
+      "num": 250825,
       "word": "DeepSeek一夜掀翻美股",
       "onboard_time": 1737989119,
       "rank": 13,
@@ -131,6 +131,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 201642,
+      "num": 201642,
+      "word": "英伟达市值蒸发超3000亿美元",
+      "onboard_time": 1737985818,
+      "rank": 15,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 190221,
       "num": 144009,
       "word": "白鹿敖瑞鹏共创视频点赞破千万",
@@ -139,12 +147,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171106,
-      "num": 171106,
-      "word": "英伟达市值蒸发超3000亿美元",
-      "onboard_time": 1737985818,
-      "rank": 15,
-      "category": "互联网"
+      "raw_hot": 168056,
+      "num": 280016,
+      "word": "拜年文案给你准备好了",
+      "onboard_time": 1737993858,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153533,
@@ -211,12 +219,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125985,
+      "num": 113365,
+      "word": "王者蛇年限定皮肤获取攻略",
+      "onboard_time": 1737987379,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 117261,
       "num": 117261,
       "word": "东方卫视蛇年春晚阵容",
       "onboard_time": 1737975137,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112387,
+      "num": 112387,
+      "word": "英伟达台积电大跌",
+      "onboard_time": 1737977178,
+      "rank": 39,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 110928,
@@ -233,14 +257,6 @@
       "onboard_time": 1737987979,
       "rank": 29,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 105273,
-      "num": 105273,
-      "word": "王者蛇年限定皮肤获取攻略",
-      "onboard_time": 1737987379,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 104945,
@@ -275,12 +291,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 96089,
-      "num": 280016,
-      "word": "拜年文案给你准备好了",
-      "onboard_time": 1737993858,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 95355,
+      "num": 95355,
+      "word": "张踩铃一家梗太密了",
+      "onboard_time": 1737995655,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 93982,
@@ -307,14 +323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 86517,
-      "num": 86517,
-      "word": "英伟达台积电大跌",
-      "onboard_time": 1737977178,
-      "rank": 39,
-      "category": "财经,互联网"
-    },
-    {
       "raw_hot": 82328,
       "num": 82328,
       "word": "外国游客成中国游最强嘴替",
@@ -337,6 +345,14 @@
       "onboard_time": 1737984679,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 77768,
+      "num": 235190,
+      "word": "2025粤港澳大湾区春节晚会",
+      "onboard_time": 1737981138,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 76662,
@@ -379,20 +395,28 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 72284,
-      "num": 72284,
-      "word": "2025粤港澳大湾区春节晚会",
-      "onboard_time": 1737981138,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 67665,
       "num": 71160,
       "word": "孙颖莎说希望站在洛杉矶奥运会赛场上",
       "onboard_time": 1737994697,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64970,
+      "num": 64970,
+      "word": "新年壁纸",
+      "onboard_time": 1737995358,
+      "rank": 46,
+      "category": "休闲"
+    },
+    {
+      "raw_hot": 62262,
+      "num": 62262,
+      "word": "蛇年拜年文案",
+      "onboard_time": 1737996137,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46368,
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#以蛇行千里的劲头开拓进取顽强奋斗#"
+    },
+    {
+      "word": "#习近平在2025年春节团拜会上的讲话#"
     }
   ]
 }
