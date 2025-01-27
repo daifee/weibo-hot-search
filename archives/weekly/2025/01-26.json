@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1737976755022,
+  "endTime": 1737977757013,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -147,6 +147,14 @@
       "category": "民生新闻,电竞"
     },
     {
+      "raw_hot": 1106447,
+      "num": 411086,
+      "word": "代露娃死嘴快憋住啊",
+      "onboard_time": 1737971056,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1099217,
       "num": 1175874,
       "word": "属蛇的人在古代可能属猫",
@@ -208,14 +216,6 @@
       "word": "张大大小黑屋事件",
       "onboard_time": 1737875778,
       "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1003264,
-      "num": 411086,
-      "word": "代露娃死嘴快憋住啊",
-      "onboard_time": 1737971056,
-      "rank": 22,
       "category": "艺人"
     },
     {
@@ -579,6 +579,14 @@
       "category": "民生新闻,情感"
     },
     {
+      "raw_hot": 617948,
+      "num": 457101,
+      "word": "宋佳我体制内的姐",
+      "onboard_time": 1737971537,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 614470,
       "num": 434209,
       "word": "新加坡偶遇郭碧婷向佐一家",
@@ -755,14 +763,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 511542,
-      "num": 457101,
-      "word": "宋佳我体制内的姐",
-      "onboard_time": 1737971537,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 510866,
       "num": 1064310,
       "word": "中央领导同志看望老同志",
@@ -833,6 +833,14 @@
       "onboard_time": 1737864498,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 479101,
+      "num": 326005,
+      "word": "东方卫视蛇年春晚阵容",
+      "onboard_time": 1737975137,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 478685,
@@ -1043,6 +1051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 394237,
+      "num": 277023,
+      "word": "留守猫咪",
+      "onboard_time": 1737971777,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 391797,
       "num": 391797,
       "word": "青簪行样片",
@@ -1089,14 +1105,6 @@
       "onboard_time": 1737894379,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 380656,
-      "num": 277023,
-      "word": "留守猫咪",
-      "onboard_time": 1737971777,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 378590,
@@ -1347,14 +1355,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 297122,
-      "num": 297122,
-      "word": "东方卫视蛇年春晚阵容",
-      "onboard_time": 1737975137,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 295389,
       "num": 295389,
       "word": "明天除夕",
@@ -1467,6 +1467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 280697,
+      "num": 280697,
+      "word": "藏海传包场肖战射雕",
+      "onboard_time": 1737974296,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 278301,
       "num": 278301,
       "word": "自驾4000公里回家主人和狗都麻了",
@@ -1505,14 +1513,6 @@
       "onboard_time": 1737941117,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 273441,
-      "num": 273441,
-      "word": "藏海传包场肖战射雕",
-      "onboard_time": 1737974296,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 273005,
@@ -2003,6 +2003,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204285,
+      "num": 204285,
+      "word": "辽视春晚",
+      "onboard_time": 1737976996,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 204196,
+      "num": 225280,
+      "word": "王星越直播",
+      "onboard_time": 1737976517,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204060,
       "num": 204060,
       "word": "赵露思对接否认将演错世",
@@ -2241,6 +2257,14 @@
       "onboard_time": 1737951737,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 187551,
+      "num": 187551,
+      "word": "英伟达台积电大跌",
+      "onboard_time": 1737977178,
+      "rank": 22,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 187549,
@@ -2627,6 +2651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163074,
+      "num": 163074,
+      "word": "五福临门有自己的前夫哥",
+      "onboard_time": 1737976397,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162973,
       "num": 144628,
       "word": "张元英李瑞KKT聊天记录",
@@ -2841,14 +2873,6 @@
       "onboard_time": 1737810922,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 153229,
-      "num": 153229,
-      "word": "王星越直播",
-      "onboard_time": 1737976517,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 152574,
@@ -3387,6 +3411,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 132511,
+      "num": 132511,
+      "word": "文俊辉露腹肌",
+      "onboard_time": 1737976877,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132461,
       "num": 132461,
       "word": "河南大雪680公里回家路走了38小时",
@@ -3603,6 +3635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124282,
+      "num": 124282,
+      "word": "和平精英开门大吉",
+      "onboard_time": 1737977597,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 123760,
       "num": 123760,
       "word": "郑钦文手书竟是可爱小学生体",
@@ -3649,6 +3689,14 @@
       "onboard_time": 1737821840,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 121483,
+      "num": 247839,
+      "word": "90后小伙给全村老人办春晚",
+      "onboard_time": 1737974717,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121324,
@@ -3883,6 +3931,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 114193,
+      "num": 114193,
+      "word": "山东春晚",
+      "onboard_time": 1737977537,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113927,
       "num": 151300,
       "word": "黎深幼稚园汇演MVP",
@@ -4009,6 +4065,14 @@
       "onboard_time": 1737887420,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 109014,
+      "num": 109014,
+      "word": "2025春节团拜会举行",
+      "onboard_time": 1737977657,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 109011,
@@ -4153,6 +4217,14 @@
       "onboard_time": 1737945917,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105631,
+      "num": 105631,
+      "word": "一想到明天大家都要集体洗头",
+      "onboard_time": 1737977597,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 105519,
@@ -4449,14 +4521,6 @@
       "onboard_time": 1737960375,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 97414,
-      "num": 97414,
-      "word": "五福临门有自己的前夫哥",
-      "onboard_time": 1737976397,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 96982,
@@ -4859,14 +4923,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 82734,
-      "num": 247839,
-      "word": "90后小伙给全村老人办春晚",
-      "onboard_time": 1737974717,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82378,
       "num": 175730,
       "word": "DeepSeek正打破算力为王行业规则",
@@ -5259,6 +5315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59750,
+      "num": 133091,
+      "word": "微软CEO说DeepSeek发展非常迅速",
+      "onboard_time": 1737977537,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 59451,
       "num": 225592,
       "word": "业内称有连麦剧本贵至30000元",
@@ -5619,6 +5683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38241,
+      "num": 279562,
+      "word": "爆火的国产AI大模型背后的年轻人",
+      "onboard_time": 1737976517,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 38208,
       "num": 180561,
       "word": "不同眼疾看到的世界是怎么样的",
@@ -5803,6 +5875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26957,
+      "num": 279072,
+      "word": "柴安比萧蘅更像王星越",
+      "onboard_time": 1737976277,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 26948,
       "num": 122788,
       "word": "中式甜品才是浪漫的最高级",
@@ -5881,14 +5961,6 @@
       "onboard_time": 1737916393,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 24709,
-      "num": 151307,
-      "word": "爆火的国产AI大模型背后的年轻人",
-      "onboard_time": 1737976517,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 24567,
@@ -6080,14 +6152,6 @@
       "word": "白鹿未来的日子都不要烦心",
       "onboard_time": 1737917292,
       "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 15171,
-      "num": 279072,
-      "word": "柴安比萧蘅更像王星越",
-      "onboard_time": 1737976277,
-      "rank": 13,
       "category": "剧集"
     },
     {
