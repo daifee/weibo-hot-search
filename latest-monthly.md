@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/27 10:59:37
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/27 11:25:14
 </p>
 </blockquote>
 <p>
@@ -3879,6 +3879,12 @@ TikTok发声明感谢特朗普澄清保证（热度：1070924）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BA%AF%E5%A6%82%E7%88%B6%E4%BA%B2%E7%A6%BB%E4%B8%96%23" target="weibo">
+张纯如父亲离世（热度：1048798）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B2%81GT8586%E4%BD%A0%E7%9C%9F%E5%B8%85%23" target="weibo">
 鲁GT8586你真帅（热度：1048044）
 </a>
@@ -6005,12 +6011,6 @@ B站拿下春晚转播权（热度：825759）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%BF%94%E5%9B%BE%E9%A9%AC%E9%BE%99%E7%A4%BC%E7%89%A9%E7%90%83%E6%8B%8D%23" target="weibo">
 魏大勋返图马龙礼物球拍（热度：794612）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%8F%97%E8%B5%84%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%B4%E5%8A%9B%E4%BA%8E%E4%B8%8E%E5%85%B6%E5%85%AC%E5%8F%B8%E5%90%88%E4%BD%9C%23" target="weibo">
-周受资称特朗普致力于与其公司合作（热度：794408）
 </a>
 </li>
 

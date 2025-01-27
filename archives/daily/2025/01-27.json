@@ -1,6 +1,6 @@
 {
   "startTime": 1737908665249,
-  "endTime": 1737946777656,
+  "endTime": 1737948314755,
   "band_list": [
     {
       "raw_hot": 2273172,
@@ -11,8 +11,16 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 1048798,
+      "num": 1167807,
+      "word": "张纯如父亲离世",
+      "onboard_time": 1737946817,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1000646,
-      "num": 185624,
+      "num": 204535,
       "word": "因张大大有流量老板经常给他换人",
       "onboard_time": 1737936136,
       "rank": 20,
@@ -35,8 +43,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 778542,
+      "num": 778542,
+      "word": "OneRepublic将登上春晚",
+      "onboard_time": 1737944897,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 688469,
-      "num": 178590,
+      "num": 182688,
       "word": "黄毛毛问张大大睡了吗",
       "onboard_time": 1737939557,
       "rank": 25,
@@ -68,7 +84,7 @@
     },
     {
       "raw_hot": 621939,
-      "num": 307003,
+      "num": 390141,
       "word": "2025年总台春晚完成全部五次彩排",
       "onboard_time": 1737939497,
       "rank": 3,
@@ -76,27 +92,27 @@
     },
     {
       "raw_hot": 568860,
-      "num": 261446,
+      "num": 340324,
       "word": "赵露思康复过程好多奶奶的身影",
       "onboard_time": 1737939197,
       "rank": 17,
       "category": "艺人"
     },
     {
-      "raw_hot": 565811,
-      "num": 565811,
-      "word": "OneRepublic将登上春晚",
-      "onboard_time": 1737944897,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 564099,
-      "num": 314162,
+      "num": 396830,
       "word": "战鹰发文向柯洁道歉",
       "onboard_time": 1737936255,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 552349,
+      "num": 195999,
+      "word": "无忧传媒",
+      "onboard_time": 1737939616,
+      "rank": 26,
+      "category": "网红"
     },
     {
       "raw_hot": 535159,
@@ -115,12 +131,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 511906,
-      "num": 178575,
-      "word": "无忧传媒",
-      "onboard_time": 1737939616,
-      "rank": 26,
-      "category": "网红"
+      "raw_hot": 524673,
+      "num": 524673,
+      "word": "尹锡悦将在牢房过年顿顿都有泡菜",
+      "onboard_time": 1737945556,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 423491,
+      "num": 338906,
+      "word": "特朗普称将来美国可能大幅扩张",
+      "onboard_time": 1737944776,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 395514,
+      "num": 395514,
+      "word": "卢昱晓演技",
+      "onboard_time": 1737946877,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 387416,
@@ -140,7 +172,7 @@
     },
     {
       "raw_hot": 360919,
-      "num": 232484,
+      "num": 331675,
       "word": "封神解释家和家人的意义",
       "onboard_time": 1737944837,
       "rank": 14,
@@ -227,6 +259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 272536,
+      "num": 272536,
+      "word": "明天除夕",
+      "onboard_time": 1737934815,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 271144,
       "num": 219737,
       "word": "吴宣仪演技",
@@ -249,14 +289,6 @@
       "onboard_time": 1737941418,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 258247,
-      "num": 192631,
-      "word": "特朗普称将来美国可能大幅扩张",
-      "onboard_time": 1737944776,
-      "rank": 17,
-      "category": "国际时政"
     },
     {
       "raw_hot": 255537,
@@ -291,12 +323,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 243070,
-      "num": 243070,
-      "word": "明天除夕",
-      "onboard_time": 1737934815,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 244276,
+      "num": 244276,
+      "word": "张雨霏第一次上春晚有点紧张",
+      "onboard_time": 1737944536,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 235682,
@@ -371,28 +403,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 193292,
-      "num": 193292,
-      "word": "张雨霏第一次上春晚有点紧张",
-      "onboard_time": 1737944536,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 189960,
-      "num": 189960,
-      "word": "尹锡悦将在牢房过年顿顿都有泡菜",
-      "onboard_time": 1737945556,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 188828,
       "num": 188828,
       "word": "A股",
       "onboard_time": 1737944356,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 184376,
+      "num": 198412,
+      "word": "DeepSeek",
+      "onboard_time": 1737947955,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 181869,
@@ -409,6 +433,14 @@
       "onboard_time": 1737900441,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 175163,
+      "num": 175163,
+      "word": "吃撑24小时后身体的变化",
+      "onboard_time": 1737942436,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 155599,
@@ -467,14 +499,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 144070,
-      "num": 172532,
-      "word": "吃撑24小时后身体的变化",
-      "onboard_time": 1737942436,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 143329,
       "num": 143329,
       "word": "2025巨蟹座会发生3件好事",
@@ -505,6 +529,14 @@
       "onboard_time": 1737906318,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130850,
+      "num": 130850,
+      "word": "央视海采发现一位爱老婆狂魔",
+      "onboard_time": 1737948197,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130751,
@@ -577,6 +609,22 @@
       "onboard_time": 1737903739,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121643,
+      "num": 121643,
+      "word": "国色芳华会员收官",
+      "onboard_time": 1737948197,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 121251,
+      "num": 208087,
+      "word": "DeepSeek为何震惊硅谷",
+      "onboard_time": 1737947177,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 116276,
@@ -700,11 +748,19 @@
     },
     {
       "raw_hot": 94616,
-      "num": 94616,
+      "num": 184121,
       "word": "国羽全队送上新春祝福",
       "onboard_time": 1737946517,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93549,
+      "num": 93549,
+      "word": "00后有自己的传承细糠",
+      "onboard_time": 1737948197,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92502,
@@ -841,6 +897,14 @@
       "onboard_time": 1737891078,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 78985,
+      "num": 347430,
+      "word": "男子遇暴雪2小时回家路开了一天",
+      "onboard_time": 1737946996,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78729,
@@ -1059,12 +1123,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27624,
+      "num": 274578,
+      "word": "海警局披露挫败菲挑衅始末",
+      "onboard_time": 1737947236,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 25041,
       "num": 25041,
       "word": "易烊千玺过塘live十首歌上线",
       "onboard_time": 1737916393,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 23960,
+      "num": 122436,
+      "word": "高校有自己的SSR",
+      "onboard_time": 1737948019,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 21878,
