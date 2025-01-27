@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/27 20:42:34
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/27 20:57:45
 </p>
 </blockquote>
 <p>
@@ -5253,6 +5253,12 @@ OneRepublic将登上春晚（热度：878463）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%AF%E5%B7%A9%20%E6%88%91%E6%83%B3%E6%AD%BB%E4%BD%A0%E4%BB%AC%E4%BA%86%23" target="weibo">
+冯巩 我想死你们了（热度：875013）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%B0%E6%88%90%E9%97%AE%E5%AD%9F%E5%AD%90%E4%B9%89%E6%9D%8E%E6%98%80%E9%94%90%E4%BD%A0%E4%BB%AC%E8%A6%81%E4%B8%8D%E8%A6%81%23" target="weibo">
 张新成问孟子义李昀锐你们要不要（热度：874291）
 </a>
@@ -6005,12 +6011,6 @@ B站拿下春晚转播权（热度：825759）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%9E%E5%8D%9A%E6%96%87%20%E5%B0%8F%E6%80%A1%E5%90%8C%E5%AD%A6%23" target="weibo">
 庞博文 小怡同学（热度：802140）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%87%E7%89%88APT%20%E9%9A%BE%E5%90%AC%23" target="weibo">
-中文版APT 难听（热度：801403）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1737908665249,
-  "endTime": 1737981754670,
+  "endTime": 1737982665718,
   "band_list": [
     {
       "raw_hot": 2273172,
@@ -99,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 875013,
+      "num": 875013,
+      "word": "冯巩 我想死你们了",
+      "onboard_time": 1737980296,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 873108,
       "num": 873108,
       "word": "万科",
@@ -123,7 +131,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 768085,
+      "raw_hot": 790581,
       "num": 768085,
       "word": "王菲55岁怎么一点姨感都没有",
       "onboard_time": 1737968597,
@@ -251,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 590800,
+      "num": 590800,
+      "word": "长江首次发现寿命仅几小时的无爪蜉",
+      "onboard_time": 1737980177,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 568860,
       "num": 459437,
       "word": "赵露思康复过程好多奶奶的身影",
@@ -289,14 +305,6 @@
       "onboard_time": 1737939616,
       "rank": 26,
       "category": "网红"
-    },
-    {
-      "raw_hot": 545306,
-      "num": 287685,
-      "word": "冯巩 我想死你们了",
-      "onboard_time": 1737980296,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 541585,
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 503682,
-      "num": 179557,
+      "num": 205589,
       "word": "一想到明天大家都要集体洗头",
       "onboard_time": 1737977597,
       "rank": 40,
@@ -395,6 +403,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 427525,
+      "num": 427525,
+      "word": "美股",
+      "onboard_time": 1737979458,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 399325,
       "num": 267185,
       "word": "杜海涛刘涛于洋主持辽视春晚",
@@ -417,6 +433,22 @@
       "onboard_time": 1737936016,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 384458,
+      "num": 267932,
+      "word": "江医生他怀了死对头的崽广播剧",
+      "onboard_time": 1737980657,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 380685,
+      "num": 265414,
+      "word": "易烊千玺第八次登台春晚了",
+      "onboard_time": 1737980717,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 378590,
@@ -473,14 +505,6 @@
       "onboard_time": 1737899179,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 344610,
-      "num": 266965,
-      "word": "长江首次发现寿命仅几小时的无爪蜉",
-      "onboard_time": 1737980177,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 333099,
@@ -643,28 +667,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 267988,
-      "num": 267988,
-      "word": "美股",
-      "onboard_time": 1737979458,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 265339,
       "num": 224332,
       "word": "李昀锐又在横店打篮球了",
       "onboard_time": 1737962296,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 264697,
-      "num": 264697,
-      "word": "易烊千玺第八次登台春晚了",
-      "onboard_time": 1737980717,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 261431,
@@ -763,6 +771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 233976,
+      "num": 233976,
+      "word": "孙颖莎说会带着遗憾勇往直前",
+      "onboard_time": 1737980177,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 231649,
       "num": 231649,
       "word": "毛利兰从青梅竹马变女朋友",
@@ -817,14 +833,6 @@
       "onboard_time": 1737906977,
       "rank": 9,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 206404,
-      "num": 206404,
-      "word": "孙颖莎说会带着遗憾勇往直前",
-      "onboard_time": 1737980177,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 205507,
@@ -963,6 +971,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 186044,
+      "num": 186044,
+      "word": "杨鸣好帅",
+      "onboard_time": 1737981918,
+      "rank": 22,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 184026,
       "num": 184026,
       "word": "杨丽萍蛇舞演员每块肌肉都能动",
@@ -1035,6 +1051,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172688,
+      "num": 172688,
+      "word": "张雅钦国色片场千字笔记",
+      "onboard_time": 1737981017,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 172447,
+      "num": 172447,
+      "word": "DeepSeek预测春节档票房冠军是哪吒",
+      "onboard_time": 1737979998,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 172248,
       "num": 172248,
       "word": "张康乐蛇年自拍小卡",
@@ -1097,14 +1129,6 @@
       "onboard_time": 1737962657,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 165611,
-      "num": 165611,
-      "word": "张雅钦国色片场千字笔记",
-      "onboard_time": 1737981017,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 164441,
@@ -1196,7 +1220,7 @@
     },
     {
       "raw_hot": 154406,
-      "num": 153004,
+      "num": 175553,
       "word": "樊振东跟樊振东打球",
       "onboard_time": 1737975437,
       "rank": 29,
@@ -1323,12 +1347,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 141366,
-      "num": 141366,
-      "word": "江医生他怀了死对头的崽广播剧",
-      "onboard_time": 1737980657,
-      "rank": 35,
-      "category": "动漫"
+      "raw_hot": 141492,
+      "num": 141492,
+      "word": "王安宇武艺淋得是同一场雨吗",
+      "onboard_time": 1737979038,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 141185,
@@ -1337,6 +1361,14 @@
       "onboard_time": 1737972977,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 140960,
+      "num": 166711,
+      "word": "2025粤港澳大湾区春节晚会",
+      "onboard_time": 1737981138,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 140274,
@@ -1403,11 +1435,11 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 134325,
-      "num": 134325,
-      "word": "王安宇武艺淋得是同一场雨吗",
-      "onboard_time": 1737979038,
-      "rank": 36,
+      "raw_hot": 135996,
+      "num": 135996,
+      "word": "冯巩喝了一瓶醋",
+      "onboard_time": 1737981377,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -1563,14 +1595,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 125470,
-      "num": 125470,
-      "word": "DeepSeek预测春节档票房冠军是哪吒",
-      "onboard_time": 1737979998,
-      "rank": 39,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 125187,
       "num": 125187,
       "word": "李月汝被交易",
@@ -1601,14 +1625,6 @@
       "onboard_time": 1737882138,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 123276,
-      "num": 123276,
-      "word": "冯巩喝了一瓶醋",
-      "onboard_time": 1737981377,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 122778,
@@ -1747,6 +1763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 114701,
+      "num": 114701,
+      "word": "年轻人在过年前和父母达成共识",
+      "onboard_time": 1737982039,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114050,
       "num": 114050,
       "word": "柯洁说裁判说的话让人发抖",
@@ -1761,6 +1785,22 @@
       "onboard_time": 1737950477,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112099,
+      "num": 272300,
+      "word": "视障女孩的回家路看哭了",
+      "onboard_time": 1737981198,
+      "rank": 44,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 111257,
+      "num": 107528,
+      "word": "下一站春晚",
+      "onboard_time": 1737978618,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 111054,
@@ -1795,6 +1835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109635,
+      "num": 101031,
+      "word": "2025辽宁卫视春晚节目单",
+      "onboard_time": 1737981858,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109014,
       "num": 109014,
       "word": "2025春节团拜会举行",
@@ -1817,14 +1865,6 @@
       "onboard_time": 1737959057,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 107528,
-      "num": 107528,
-      "word": "下一站春晚",
-      "onboard_time": 1737978618,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 107447,
@@ -1936,6 +1976,14 @@
       "word": "淮水竹亭岁岁欢喜花絮",
       "onboard_time": 1737948917,
       "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 100784,
+      "num": 191180,
+      "word": "卢昱晓回眸梦回上官浅",
+      "onboard_time": 1737981138,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -2073,14 +2121,6 @@
       "onboard_time": 1737966436,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 94243,
-      "num": 94243,
-      "word": "视障女孩的回家路看哭了",
-      "onboard_time": 1737981198,
-      "rank": 44,
-      "category": "正能量"
     },
     {
       "raw_hot": 92502,
@@ -2243,6 +2283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83368,
+      "num": 83368,
+      "word": "广西大扫除难度等级TOP1",
+      "onboard_time": 1737979397,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 83330,
       "num": 170642,
       "word": "DeepSeek火爆英伟达股价不淡定了",
@@ -2289,14 +2337,6 @@
       "onboard_time": 1737971777,
       "rank": 20,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 82151,
-      "num": 166711,
-      "word": "2025粤港澳大湾区春节晚会",
-      "onboard_time": 1737981138,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 81955,
@@ -2352,6 +2392,14 @@
       "word": "无忧前员工称张大大工作室常换人",
       "onboard_time": 1737887179,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 77137,
+      "num": 112275,
+      "word": "网友科幻乐园偶遇张泽禹",
+      "onboard_time": 1737982637,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -2643,12 +2691,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39793,
-      "num": 191180,
-      "word": "卢昱晓回眸梦回上官浅",
-      "onboard_time": 1737981138,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 41649,
+      "num": 100787,
+      "word": "暴雪高速封禁新娘乘高铁去婚礼现场",
+      "onboard_time": 1737982637,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39778,
@@ -2697,6 +2745,14 @@
       "onboard_time": 1737961516,
       "rank": 14,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 37122,
+      "num": 218181,
+      "word": "蒋璐霞蛟龙行动里的每一秒都值得",
+      "onboard_time": 1737982338,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 36226,

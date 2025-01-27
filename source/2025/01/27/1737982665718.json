@@ -1,0 +1,410 @@
+{
+  "runTime": 1737982665718,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1142191,
+        "num": 1182750,
+        "word": "DeepSeek",
+        "onboard_time": 1737947955,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 875013,
+        "num": 875013,
+        "word": "冯巩 我想死你们了",
+        "onboard_time": 1737980296,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15741,
+        "num": 817289,
+        "word": "一家人都要过上好日子",
+        "onboard_time": 1737951077,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 811028,
+        "num": 811028,
+        "word": "辽视春晚",
+        "onboard_time": 1737976996,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 590800,
+        "num": 590800,
+        "word": "长江首次发现寿命仅几小时的无爪蜉",
+        "onboard_time": 1737980177,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 427525,
+        "num": 427525,
+        "word": "美股",
+        "onboard_time": 1737979458,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 790581,
+        "num": 395319,
+        "word": "王菲55岁怎么一点姨感都没有",
+        "onboard_time": 1737968597,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 777307,
+        "num": 343411,
+        "word": "代露娃死嘴快憋住啊",
+        "onboard_time": 1737971056,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274938,
+        "num": 274938,
+        "word": "中共中央国务院27日举行春节团拜会",
+        "onboard_time": 1737979217,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112099,
+        "num": 272300,
+        "word": "视障女孩的回家路看哭了",
+        "onboard_time": 1737981198,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 426720,
+        "num": 271058,
+        "word": "东方卫视蛇年春晚阵容",
+        "onboard_time": 1737975137,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 384458,
+        "num": 267932,
+        "word": "江医生他怀了死对头的崽广播剧",
+        "onboard_time": 1737980657,
+        "rank": 11,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 380685,
+        "num": 265414,
+        "word": "易烊千玺第八次登台春晚了",
+        "onboard_time": 1737980717,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 375464,
+        "num": 260531,
+        "word": "50岁自驾阿姨苏敏离婚",
+        "onboard_time": 1737974776,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296203,
+        "num": 258740,
+        "word": "杜海涛刘涛于洋主持辽视春晚",
+        "onboard_time": 1737978495,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256633,
+        "num": 256633,
+        "word": "英伟达台积电大跌",
+        "onboard_time": 1737977178,
+        "rank": 15,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 233976,
+        "num": 233976,
+        "word": "孙颖莎说会带着遗憾勇往直前",
+        "onboard_time": 1737980177,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231740,
+        "num": 231740,
+        "word": "金铲铲",
+        "onboard_time": 1737971297,
+        "rank": 17,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 37122,
+        "num": 218181,
+        "word": "蒋璐霞蛟龙行动里的每一秒都值得",
+        "onboard_time": 1737982338,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 214058,
+        "num": 214058,
+        "word": "属蛇的人在古代可能属猫",
+        "onboard_time": 1737965717,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 477050,
+        "num": 205589,
+        "word": "一想到明天大家都要集体洗头",
+        "onboard_time": 1737977597,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194180,
+        "num": 194180,
+        "word": "张咪因癌切除半个舌头后能说话了",
+        "onboard_time": 1737963256,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186044,
+        "num": 186044,
+        "word": "杨鸣好帅",
+        "onboard_time": 1737981918,
+        "rank": 22,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 182686,
+        "num": 182686,
+        "word": "宋佳我体制内的姐",
+        "onboard_time": 1737971537,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77010,
+        "num": 175553,
+        "word": "樊振东跟樊振东打球",
+        "onboard_time": 1737975437,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172688,
+        "num": 172688,
+        "word": "张雅钦国色片场千字笔记",
+        "onboard_time": 1737981017,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172447,
+        "num": 172447,
+        "word": "DeepSeek预测春节档票房冠军是哪吒",
+        "onboard_time": 1737979998,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 171189,
+        "num": 171189,
+        "word": "攻玉",
+        "onboard_time": 1737970276,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169544,
+        "num": 169544,
+        "word": "杨丽萍蛇舞演员每块肌肉都能动",
+        "onboard_time": 1737979937,
+        "rank": 28,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 145716,
+        "num": 145716,
+        "word": "杨紫国色芳华收官发文",
+        "onboard_time": 1737979578,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141492,
+        "num": 141492,
+        "word": "王安宇武艺淋得是同一场雨吗",
+        "onboard_time": 1737979038,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140960,
+        "num": 140960,
+        "word": "2025粤港澳大湾区春节晚会",
+        "onboard_time": 1737981138,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135996,
+        "num": 135996,
+        "word": "冯巩喝了一瓶醋",
+        "onboard_time": 1737981377,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125859,
+        "num": 125859,
+        "word": "DeepSeek创始人回广东过年",
+        "onboard_time": 1737958697,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 125184,
+        "num": 125184,
+        "word": "山东春晚",
+        "onboard_time": 1737977537,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114701,
+        "num": 114701,
+        "word": "年轻人在过年前和父母达成共识",
+        "onboard_time": 1737982039,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77137,
+        "num": 112275,
+        "word": "网友科幻乐园偶遇张泽禹",
+        "onboard_time": 1737982637,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111587,
+        "num": 111587,
+        "word": "藏海传包场肖战射雕",
+        "onboard_time": 1737974296,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 106434,
+        "num": 106434,
+        "word": "柯洁直播还没哭完就启动了金铲铲",
+        "onboard_time": 1737964877,
+        "rank": 38,
+        "category": "体育,游戏"
+      },
+      {
+        "raw_hot": 101195,
+        "num": 101195,
+        "word": "留守猫咪",
+        "onboard_time": 1737971777,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109635,
+        "num": 101031,
+        "word": "2025辽宁卫视春晚节目单",
+        "onboard_time": 1737981858,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111257,
+        "num": 100987,
+        "word": "下一站春晚",
+        "onboard_time": 1737978618,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100811,
+        "num": 100811,
+        "word": "张艺兴山东春晚开天舞台",
+        "onboard_time": 1737980717,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27749,
+        "num": 100796,
+        "word": "老板给做年夜饭是什么体验",
+        "onboard_time": 1737978917,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 41649,
+        "num": 100787,
+        "word": "暴雪高速封禁新娘乘高铁去婚礼现场",
+        "onboard_time": 1737982637,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100784,
+        "num": 100784,
+        "word": "卢昱晓回眸梦回上官浅",
+        "onboard_time": 1737981138,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90404,
+        "num": 90404,
+        "word": "昆明下雪昆明人belike",
+        "onboard_time": 1737972977,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88850,
+        "num": 88850,
+        "word": "文俊辉露腹肌",
+        "onboard_time": 1737976877,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84889,
+        "num": 84889,
+        "word": "国产AI登顶苹果中国及美国免费应用榜",
+        "onboard_time": 1737976337,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 83368,
+        "num": 83368,
+        "word": "广西大扫除难度等级TOP1",
+        "onboard_time": 1737979397,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记考察足迹里的温暖瞬间#"
+    }
+  }
+}

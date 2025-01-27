@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1737981754670,
+  "endTime": 1737982665718,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -307,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 875013,
+      "num": 875013,
+      "word": "冯巩 我想死你们了",
+      "onboard_time": 1737980296,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 873108,
       "num": 873108,
       "word": "万科",
@@ -379,20 +387,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 790581,
+      "num": 768085,
+      "word": "王菲55岁怎么一点姨感都没有",
+      "onboard_time": 1737968597,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 783827,
       "num": 390243,
       "word": "付航直播被卡出素颜",
       "onboard_time": 1737860357,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 768085,
-      "num": 768085,
-      "word": "王菲55岁怎么一点姨感都没有",
-      "onboard_time": 1737968597,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 761138,
@@ -619,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 590800,
+      "num": 590800,
+      "word": "长江首次发现寿命仅几小时的无爪蜉",
+      "onboard_time": 1737980177,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 589698,
       "num": 589698,
       "word": "女子买短乘长高铁霸座被拘",
@@ -689,14 +705,6 @@
       "onboard_time": 1737885737,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 545306,
-      "num": 287685,
-      "word": "冯巩 我想死你们了",
-      "onboard_time": 1737980296,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 541585,
@@ -820,7 +828,7 @@
     },
     {
       "raw_hot": 503682,
-      "num": 179557,
+      "num": 205589,
       "word": "一想到明天大家都要集体洗头",
       "onboard_time": 1737977597,
       "rank": 40,
@@ -995,6 +1003,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 427525,
+      "num": 427525,
+      "word": "美股",
+      "onboard_time": 1737979458,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 422381,
       "num": 241763,
       "word": "周杰伦瘦好多",
@@ -1131,12 +1147,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 384458,
+      "num": 267932,
+      "word": "江医生他怀了死对头的崽广播剧",
+      "onboard_time": 1737980657,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 382511,
       "num": 356504,
       "word": "张泉灵大赞赵丽颖",
       "onboard_time": 1737894379,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 380685,
+      "num": 265414,
+      "word": "易烊千玺第八次登台春晚了",
+      "onboard_time": 1737980717,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 378590,
@@ -1225,14 +1257,6 @@
       "onboard_time": 1737965657,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 344610,
-      "num": 266965,
-      "word": "长江首次发现寿命仅几小时的无爪蜉",
-      "onboard_time": 1737980177,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 343051,
@@ -1603,14 +1627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 267988,
-      "num": 267988,
-      "word": "美股",
-      "onboard_time": 1737979458,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 267300,
       "num": 267300,
       "word": "男孩26年后与妈妈相认得知惊人真相",
@@ -1633,14 +1649,6 @@
       "onboard_time": 1737962296,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 264697,
-      "num": 264697,
-      "word": "易烊千玺第八次登台春晚了",
-      "onboard_time": 1737980717,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 263118,
@@ -1851,6 +1859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 233976,
+      "num": 233976,
+      "word": "孙颖莎说会带着遗憾勇往直前",
+      "onboard_time": 1737980177,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 230299,
       "num": 230299,
       "word": "金珉奎摔倒",
@@ -2025,14 +2041,6 @@
       "onboard_time": 1737868339,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 206404,
-      "num": 206404,
-      "word": "孙颖莎说会带着遗憾勇往直前",
-      "onboard_time": 1737980177,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 205507,
@@ -2355,6 +2363,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 186044,
+      "num": 186044,
+      "word": "杨鸣好帅",
+      "onboard_time": 1737981918,
+      "rank": 22,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 184026,
       "num": 184026,
       "word": "杨丽萍蛇舞演员每块肌肉都能动",
@@ -2505,6 +2521,22 @@
       "onboard_time": 1737967336,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172688,
+      "num": 172688,
+      "word": "张雅钦国色片场千字笔记",
+      "onboard_time": 1737981017,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 172447,
+      "num": 172447,
+      "word": "DeepSeek预测春节档票房冠军是哪吒",
+      "onboard_time": 1737979998,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 172248,
@@ -2689,14 +2721,6 @@
       "onboard_time": 1737868997,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 165611,
-      "num": 165611,
-      "word": "张雅钦国色片场千字笔记",
-      "onboard_time": 1737981017,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 164624,
@@ -2940,7 +2964,7 @@
     },
     {
       "raw_hot": 154406,
-      "num": 153004,
+      "num": 175553,
       "word": "樊振东跟樊振东打球",
       "onboard_time": 1737975437,
       "rank": 29,
@@ -3235,12 +3259,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 141366,
-      "num": 141366,
-      "word": "江医生他怀了死对头的崽广播剧",
-      "onboard_time": 1737980657,
-      "rank": 35,
-      "category": "动漫"
+      "raw_hot": 141492,
+      "num": 141492,
+      "word": "王安宇武艺淋得是同一场雨吗",
+      "onboard_time": 1737979038,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 141303,
@@ -3264,6 +3288,14 @@
       "word": "名侦探学院",
       "onboard_time": 1737875357,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 140960,
+      "num": 166711,
+      "word": "2025粤港澳大湾区春节晚会",
+      "onboard_time": 1737981138,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -3427,6 +3459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 135996,
+      "num": 135996,
+      "word": "冯巩喝了一瓶醋",
+      "onboard_time": 1737981377,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135914,
       "num": 135914,
       "word": "无忧传媒情况说明",
@@ -3457,14 +3497,6 @@
       "onboard_time": 1737827894,
       "rank": 48,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 134325,
-      "num": 134325,
-      "word": "王安宇武艺淋得是同一场雨吗",
-      "onboard_time": 1737979038,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 134260,
@@ -3715,14 +3747,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 125470,
-      "num": 125470,
-      "word": "DeepSeek预测春节档票房冠军是哪吒",
-      "onboard_time": 1737979998,
-      "rank": 39,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 125329,
       "num": 125329,
       "word": "打工宝妈在国色芳华里演上了贵人",
@@ -3792,14 +3816,6 @@
       "word": "萧敬腾一出场雨就变大了",
       "onboard_time": 1737860357,
       "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 123276,
-      "num": 123276,
-      "word": "冯巩喝了一瓶醋",
-      "onboard_time": 1737981377,
-      "rank": 40,
       "category": "综艺"
     },
     {
@@ -4067,6 +4083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 114701,
+      "num": 114701,
+      "word": "年轻人在过年前和父母达成共识",
+      "onboard_time": 1737982039,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114241,
       "num": 114241,
       "word": "徐克回应射雕爆改演员",
@@ -4115,12 +4139,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 112099,
+      "num": 272300,
+      "word": "视障女孩的回家路看哭了",
+      "onboard_time": 1737981198,
+      "rank": 44,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 111465,
       "num": 111465,
       "word": "天蝎座没那么需要新鲜感",
       "onboard_time": 1737852017,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 111257,
+      "num": 107528,
+      "word": "下一站春晚",
+      "onboard_time": 1737978618,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 111054,
@@ -4193,6 +4233,14 @@
       "onboard_time": 1737881058,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109635,
+      "num": 101031,
+      "word": "2025辽宁卫视春晚节目单",
+      "onboard_time": 1737981858,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 109190,
@@ -4281,14 +4329,6 @@
       "onboard_time": 1737851658,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107528,
-      "num": 107528,
-      "word": "下一站春晚",
-      "onboard_time": 1737978618,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 107447,
@@ -4547,6 +4587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100784,
+      "num": 191180,
+      "word": "卢昱晓回眸梦回上官浅",
+      "onboard_time": 1737981138,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100581,
       "num": 100581,
       "word": "台湾台南5.1级地震",
@@ -4787,14 +4835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 94243,
-      "num": 94243,
-      "word": "视障女孩的回家路看哭了",
-      "onboard_time": 1737981198,
-      "rank": 44,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 93497,
       "num": 165273,
       "word": "人民网评异人之下之决战碧游村",
@@ -5027,6 +5067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83368,
+      "num": 83368,
+      "word": "广西大扫除难度等级TOP1",
+      "onboard_time": 1737979397,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 83330,
       "num": 170642,
       "word": "DeepSeek火爆英伟达股价不淡定了",
@@ -5081,14 +5129,6 @@
       "onboard_time": 1737971777,
       "rank": 20,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 82151,
-      "num": 166711,
-      "word": "2025粤港澳大湾区春节晚会",
-      "onboard_time": 1737981138,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 82055,
@@ -5193,6 +5233,14 @@
       "onboard_time": 1737816202,
       "rank": 46,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 77137,
+      "num": 112275,
+      "word": "网友科幻乐园偶遇张泽禹",
+      "onboard_time": 1737982637,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 76909,
@@ -5779,6 +5827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41649,
+      "num": 100787,
+      "word": "暴雪高速封禁新娘乘高铁去婚礼现场",
+      "onboard_time": 1737982637,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41513,
       "num": 192569,
       "word": "人形机器人是AI的最佳载体吗",
@@ -5801,14 +5857,6 @@
       "onboard_time": 1737897860,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 39793,
-      "num": 191180,
-      "word": "卢昱晓回眸梦回上官浅",
-      "onboard_time": 1737981138,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 39778,
@@ -5897,6 +5945,14 @@
       "onboard_time": 1737961516,
       "rank": 14,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 37122,
+      "num": 218181,
+      "word": "蒋璐霞蛟龙行动里的每一秒都值得",
+      "onboard_time": 1737982338,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 36337,
