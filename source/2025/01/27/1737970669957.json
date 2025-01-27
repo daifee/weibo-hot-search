@@ -1,0 +1,410 @@
+{
+  "runTime": 1737970669957,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1099217,
+        "num": 1175874,
+        "word": "属蛇的人在古代可能属猫",
+        "onboard_time": 1737965717,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 618947,
+        "num": 618947,
+        "word": "张咪因癌切除半个舌头后能说话了",
+        "onboard_time": 1737963256,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42190,
+        "num": 590428,
+        "word": "那些你不知道的北京地儿",
+        "onboard_time": 1737968236,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 589534,
+        "num": 589534,
+        "word": "DeepSeek",
+        "onboard_time": 1737947955,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 541585,
+        "num": 541585,
+        "word": "什么事都能年后再说但这事不行",
+        "onboard_time": 1737964816,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 649139,
+        "num": 452975,
+        "word": "柯洁直播还没哭完就启动了金铲铲",
+        "onboard_time": 1737964877,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 341139,
+        "num": 341139,
+        "word": "泰国多名军警人员涉绑架案被拘捕",
+        "onboard_time": 1737956296,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 297225,
+        "num": 297225,
+        "word": "韩国围棋队主教练发声",
+        "onboard_time": 1737963316,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285657,
+        "num": 285657,
+        "word": "我们的爸爸阵容官宣",
+        "onboard_time": 1737964097,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251755,
+        "num": 251755,
+        "word": "DeepSeek创始人回广东过年",
+        "onboard_time": 1737958697,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 614470,
+        "num": 251737,
+        "word": "新加坡偶遇郭碧婷向佐一家",
+        "onboard_time": 1737962416,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247645,
+        "num": 247645,
+        "word": "比杨紫更了解杨紫的人出现",
+        "onboard_time": 1737965657,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241435,
+        "num": 241435,
+        "word": "易烊千玺说刘春和是影响最深的角色",
+        "onboard_time": 1737968236,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 241849,
+        "num": 241018,
+        "word": "毛不易第三次上春晚又没和家人说",
+        "onboard_time": 1737966497,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52671,
+        "num": 236195,
+        "word": "7人设背贷骗局致多人背上巨额债务",
+        "onboard_time": 1737968896,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234240,
+        "num": 234240,
+        "word": "异人之下2豆瓣8.2",
+        "onboard_time": 1737968956,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197261,
+        "num": 197261,
+        "word": "杨紫李现愤怒的小鸟真人版",
+        "onboard_time": 1737969437,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193553,
+        "num": 193553,
+        "word": "万科",
+        "onboard_time": 1737970036,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 176127,
+        "num": 176127,
+        "word": "DeepSeek核心成员是应届生",
+        "onboard_time": 1737961816,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 76278,
+        "num": 162591,
+        "word": "南北方的年味是一种团圆味",
+        "onboard_time": 1737968837,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 416426,
+        "num": 162575,
+        "word": "顾茜茜的保时捷卖了",
+        "onboard_time": 1737960976,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 409144,
+        "num": 162539,
+        "word": "王菲55岁怎么一点姨感都没有",
+        "onboard_time": 1737968597,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162493,
+        "num": 162493,
+        "word": "肖战把小风扇给对手演员用",
+        "onboard_time": 1737966617,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 89976,
+        "num": 159903,
+        "word": "揭秘DeepSeek背后创始人",
+        "onboard_time": 1737965057,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 157572,
+        "num": 157572,
+        "word": "攻玉",
+        "onboard_time": 1737970276,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139966,
+        "num": 139966,
+        "word": "文俊辉新年直播",
+        "onboard_time": 1737967336,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131770,
+        "num": 131770,
+        "word": "李昀锐又在横店打篮球了",
+        "onboard_time": 1737962296,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131420,
+        "num": 131420,
+        "word": "蔡明低声些难道光彩吗",
+        "onboard_time": 1737965538,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121086,
+        "num": 121086,
+        "word": "郁亮请辞万科董事会主席",
+        "onboard_time": 1737969137,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 23253,
+        "num": 117665,
+        "word": "男子路过火场残骸竟开始扫货",
+        "onboard_time": 1737969857,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116385,
+        "num": 116385,
+        "word": "哪吒2的中式审美绝了",
+        "onboard_time": 1737967457,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116226,
+        "num": 116226,
+        "word": "白鹿红旗袍",
+        "onboard_time": 1737954078,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114944,
+        "num": 114944,
+        "word": "年后再说",
+        "onboard_time": 1737970456,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112374,
+        "num": 112374,
+        "word": "薛之谦 春晚",
+        "onboard_time": 1737953057,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110379,
+        "num": 110379,
+        "word": "6岁小朋友乘直升机回家过年",
+        "onboard_time": 1737956897,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106415,
+        "num": 106415,
+        "word": "陈小春要不直接报人名吧",
+        "onboard_time": 1737964097,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104381,
+        "num": 104381,
+        "word": "2025辽视春晚节目单来啦",
+        "onboard_time": 1737970396,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103286,
+        "num": 103286,
+        "word": "胖东来一天狂卖1.3亿元",
+        "onboard_time": 1737952097,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100627,
+        "num": 100627,
+        "word": "杭州山姆超市被采购大军攻陷",
+        "onboard_time": 1737949816,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98857,
+        "num": 98857,
+        "word": "灯花笑 鞠婧祎",
+        "onboard_time": 1737951436,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97411,
+        "num": 97411,
+        "word": "2025年总台春晚完成全部五次彩排",
+        "onboard_time": 1737939497,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96906,
+        "num": 96906,
+        "word": "八旬老人靠彩票中奖养活一个动物园",
+        "onboard_time": 1737949096,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92321,
+        "num": 92321,
+        "word": "李小冉不语只洗碗",
+        "onboard_time": 1737953176,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89458,
+        "num": 89458,
+        "word": "赵丽颖晒过年前的剧组",
+        "onboard_time": 1737962177,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88893,
+        "num": 88893,
+        "word": "明天除夕",
+        "onboard_time": 1737934815,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88818,
+        "num": 88818,
+        "word": "别人换乘恋爱你俩换乘观察",
+        "onboard_time": 1737968056,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88601,
+        "num": 88601,
+        "word": "巳巳如意中国年",
+        "onboard_time": 1737955637,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87159,
+        "num": 87159,
+        "word": "肖战笑谈第一次见到阿如那",
+        "onboard_time": 1737970577,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 85737,
+        "num": 85737,
+        "word": "全红婵回家过年开启带娃模式",
+        "onboard_time": 1737967996,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82908,
+        "num": 84211,
+        "word": "祝九胜不再担任万科任何职务",
+        "onboard_time": 1737969978,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的暖心话汇成春联送给你#"
+    }
+  }
+}
