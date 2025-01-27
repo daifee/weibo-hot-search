@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738017485956,
+  "endTime": 1738020077453,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -1315,6 +1315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 375932,
+      "num": 754593,
+      "word": "新婚一定要回男方家过年吗",
+      "onboard_time": 1737999253,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 375150,
       "num": 375150,
       "word": "幻云",
@@ -1393,6 +1401,14 @@
       "onboard_time": 1737879019,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 352564,
+      "num": 352564,
+      "word": "今年除夕到初三加班额外付三倍工资",
+      "onboard_time": 1738002792,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 350494,
@@ -2049,14 +2065,6 @@
       "onboard_time": 1737996615,
       "rank": 9,
       "category": "财经,互联网"
-    },
-    {
-      "raw_hot": 236716,
-      "num": 464100,
-      "word": "新婚一定要回男方家过年吗",
-      "onboard_time": 1737999253,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 236638,
@@ -5827,14 +5835,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 74791,
-      "num": 74791,
-      "word": "今年除夕到初三加班额外付三倍工资",
-      "onboard_time": 1738002792,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74449,
       "num": 74449,
       "word": "DeepSeek暂不对外进行项目合作",
@@ -5857,6 +5857,14 @@
       "onboard_time": 1737872718,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 73178,
+      "num": 73178,
+      "word": "韩国围棋队主教练称卞相壹心情沉重",
+      "onboard_time": 1737999253,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 72832,
@@ -5971,6 +5979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67972,
+      "num": 67972,
+      "word": "辽视春晚把簪花仕女图演活了",
+      "onboard_time": 1738011612,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 67665,
       "num": 71160,
       "word": "孙颖莎说希望站在洛杉矶奥运会赛场上",
@@ -6049,14 +6065,6 @@
       "onboard_time": 1737869358,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 61719,
-      "num": 61719,
-      "word": "韩国围棋队主教练称卞相壹心情沉重",
-      "onboard_time": 1737999253,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 61480,
@@ -6225,6 +6233,14 @@
       "onboard_time": 1737911475,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 53739,
+      "num": 53739,
+      "word": "闫妮春晚后台跳微醺蛇舞",
+      "onboard_time": 1738017251,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 52993,
@@ -6515,6 +6531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37773,
+      "num": 49958,
+      "word": "春节加班费应该怎么算",
+      "onboard_time": 1738018692,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37513,
       "num": 109150,
       "word": "IVE末放舞台",
@@ -6563,12 +6587,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 36160,
-      "num": 48915,
-      "word": "辽视春晚把簪花仕女图演活了",
-      "onboard_time": 1738011612,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 34928,
+      "num": 51997,
+      "word": "一人一句庆祝首个非遗春节",
+      "onboard_time": 1738019293,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34893,
@@ -6835,6 +6859,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 23965,
+      "num": 25367,
+      "word": "业内人士谈DeepSeek影响",
+      "onboard_time": 1738018632,
+      "rank": 48,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 23719,
       "num": 154718,
       "word": "女主演说短剧让普通演员更容易被看到",
@@ -6857,6 +6889,14 @@
       "onboard_time": 1737830173,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 23567,
+      "num": 25366,
+      "word": "孙颖莎说会坚持自己热爱的事情",
+      "onboard_time": 1738018632,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 23553,
