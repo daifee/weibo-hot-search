@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1737987692059,
+  "endTime": 1737988776739,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -219,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1017649,
+      "num": 1162823,
+      "word": "姜妍好漂亮",
+      "onboard_time": 1737985818,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1017612,
       "num": 1162817,
       "word": "毛利兰从青梅竹马变女朋友",
@@ -321,14 +329,6 @@
       "onboard_time": 1737846433,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 907234,
-      "num": 907234,
-      "word": "姜妍好漂亮",
-      "onboard_time": 1737985818,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 878463,
@@ -771,6 +771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 530330,
+      "num": 289069,
+      "word": "银行回应瘫痪老人被抬到银行",
+      "onboard_time": 1737985998,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 529402,
       "num": 529402,
       "word": "新娘坐高铁去结婚收获全车祝福",
@@ -860,7 +868,7 @@
     },
     {
       "raw_hot": 503682,
-      "num": 213214,
+      "num": 230034,
       "word": "一想到明天大家都要集体洗头",
       "onboard_time": 1737977597,
       "rank": 40,
@@ -899,8 +907,16 @@
       "category": "财经"
     },
     {
+      "raw_hot": 485891,
+      "num": 485891,
+      "word": "外交部回应是否接回在美非法中国移民",
+      "onboard_time": 1737984559,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 481536,
-      "num": 300386,
+      "num": 345350,
       "word": "陈哲远 直拍来了",
       "onboard_time": 1737984500,
       "rank": 14,
@@ -1025,14 +1041,6 @@
       "onboard_time": 1737818002,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 441274,
-      "num": 441274,
-      "word": "外交部回应是否接回在美非法中国移民",
-      "onboard_time": 1737984559,
-      "rank": 48,
-      "category": "国内时政"
     },
     {
       "raw_hot": 440511,
@@ -1219,6 +1227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 385966,
+      "num": 280664,
+      "word": "辽视春晚小品",
+      "onboard_time": 1737984197,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 382511,
       "num": 356504,
       "word": "张泉灵大赞赵丽颖",
@@ -1251,6 +1267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 369311,
+      "num": 260183,
+      "word": "周涛 妈咪你美",
+      "onboard_time": 1737984859,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 368682,
       "num": 368682,
       "word": "演员大锁发文称别洗白了",
@@ -1281,14 +1305,6 @@
       "onboard_time": 1737867798,
       "rank": 9,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 359775,
-      "num": 280664,
-      "word": "辽视春晚小品",
-      "onboard_time": 1737984197,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 357692,
@@ -1411,6 +1427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 327333,
+      "num": 253075,
+      "word": "赵露思包场支持射雕英雄传",
+      "onboard_time": 1737987620,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 325803,
       "num": 325803,
       "word": "朱一龙李现将参演春晚武汉分会场",
@@ -1427,12 +1451,28 @@
       "category": "财经,互联网"
     },
     {
+      "raw_hot": 324056,
+      "num": 228035,
+      "word": "白鹿敖瑞鹏共创视频点赞破千万",
+      "onboard_time": 1737987020,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 323245,
       "num": 288364,
       "word": "全红婵今年回家过年了",
       "onboard_time": 1737946157,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 322725,
+      "num": 244766,
+      "word": "权志龙的外套是郑亨敦在市场买的",
+      "onboard_time": 1737984020,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 319619,
@@ -1547,14 +1587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 291746,
-      "num": 214366,
-      "word": "权志龙的外套是郑亨敦在市场买的",
-      "onboard_time": 1737984020,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 289048,
       "num": 289048,
       "word": "鲜活帝王蟹价格跌破千元",
@@ -1665,22 +1697,6 @@
       "onboard_time": 1737941117,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 275360,
-      "num": 211194,
-      "word": "周涛 妈咪你美",
-      "onboard_time": 1737984859,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 273997,
-      "num": 273997,
-      "word": "银行回应瘫痪老人被抬到银行",
-      "onboard_time": 1737985998,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 273005,
@@ -1875,6 +1891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244207,
+      "num": 244207,
+      "word": "ChatGPT回应被DeepSeek超越",
+      "onboard_time": 1737988700,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 243092,
       "num": 181796,
       "word": "儿媳偷送金耳环婆婆笑着笑着就哭了",
@@ -1897,6 +1921,14 @@
       "onboard_time": 1737871638,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 240893,
+      "num": 235906,
+      "word": "春节真正需要的高效休息",
+      "onboard_time": 1737986299,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 240487,
@@ -1945,6 +1977,14 @@
       "onboard_time": 1737877157,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 237825,
+      "num": 237825,
+      "word": "英伟达老对手力挺DeepSeek",
+      "onboard_time": 1737982938,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 236638,
@@ -2028,11 +2068,11 @@
     },
     {
       "raw_hot": 222046,
-      "num": 208165,
-      "word": "白鹿敖瑞鹏共创视频点赞破千万",
-      "onboard_time": 1737987020,
-      "rank": 29,
-      "category": "剧集"
+      "num": 222046,
+      "word": "乐言奥斯卡首次同台唱跳",
+      "onboard_time": 1737987679,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 221338,
@@ -2131,6 +2171,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 211119,
+      "num": 211119,
+      "word": "肖战在春晚后台套圈",
+      "onboard_time": 1737986540,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209948,
       "num": 198210,
       "word": "赵露思拐杖",
@@ -2171,14 +2219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206868,
-      "num": 206868,
-      "word": "肖战在春晚后台套圈",
-      "onboard_time": 1737986540,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 205507,
       "num": 205507,
       "word": "李子柒用她的方式传承非遗春节",
@@ -2209,6 +2249,14 @@
       "onboard_time": 1737943936,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204877,
+      "num": 204877,
+      "word": "小猪姐姐又仿妆杨紫了",
+      "onboard_time": 1737983838,
+      "rank": 39,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 204806,
@@ -2281,14 +2329,6 @@
       "onboard_time": 1737946996,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 201232,
-      "num": 216844,
-      "word": "英伟达老对手力挺DeepSeek",
-      "onboard_time": 1737982938,
-      "rank": 37,
-      "category": "互联网"
     },
     {
       "raw_hot": 201048,
@@ -2475,6 +2515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189335,
+      "num": 186210,
+      "word": "丁禹兮慕声式拜年",
+      "onboard_time": 1737988458,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189285,
       "num": 189285,
       "word": "卫视春晚节目单",
@@ -2523,14 +2571,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 185973,
-      "num": 185973,
-      "word": "春节真正需要的高效休息",
-      "onboard_time": 1737986299,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 185568,
       "num": 185568,
       "word": "王俊凯巴黎雨夜男主",
@@ -2563,6 +2603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183216,
+      "num": 183216,
+      "word": "旧房装修可享国家补贴",
+      "onboard_time": 1737986839,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182906,
       "num": 182906,
       "word": "白色橄榄树定档",
@@ -2577,14 +2625,6 @@
       "onboard_time": 1737866478,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 181586,
-      "num": 181586,
-      "word": "小猪姐姐又仿妆杨紫了",
-      "onboard_time": 1737983838,
-      "rank": 39,
-      "category": "美妆,艺人"
     },
     {
       "raw_hot": 181323,
@@ -2787,14 +2827,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 170074,
-      "num": 170074,
-      "word": "旧房装修可享国家补贴",
-      "onboard_time": 1737986839,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 169605,
       "num": 169605,
       "word": "小伙守护全村留守老人3年",
@@ -2859,6 +2891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166624,
+      "num": 166624,
+      "word": "德塔文认证杨紫抗剧能力",
+      "onboard_time": 1737987738,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166613,
       "num": 166613,
       "word": "国际奥委会专访孙颖莎",
@@ -2905,6 +2945,14 @@
       "onboard_time": 1737868997,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165501,
+      "num": 909509,
+      "word": "外国游客成中国游最强嘴替",
+      "onboard_time": 1737984618,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 164624,
@@ -3955,14 +4003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125125,
-      "num": 909509,
-      "word": "外国游客成中国游最强嘴替",
-      "onboard_time": 1737984618,
-      "rank": 2,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 125076,
       "num": 200269,
       "word": "2025澳网",
@@ -4555,14 +4595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 107289,
-      "num": 107289,
-      "word": "赵露思包场支持射雕英雄传",
-      "onboard_time": 1737987620,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 107141,
       "num": 107141,
       "word": "找一个本来就很好的人具象化了",
@@ -4649,6 +4681,14 @@
       "onboard_time": 1737865518,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104839,
+      "num": 104839,
+      "word": "阎鹤祥妆造",
+      "onboard_time": 1737988638,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 104704,
@@ -5739,6 +5779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64298,
+      "num": 212800,
+      "word": "王者蛇年限定皮肤获取攻略",
+      "onboard_time": 1737987379,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 63890,
       "num": 682866,
       "word": "那些你不知道的北京地儿",
@@ -5769,6 +5817,14 @@
       "onboard_time": 1737869358,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 61480,
+      "num": 276181,
+      "word": "实测DeepSeek深度思考模式",
+      "onboard_time": 1737987919,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 60847,
@@ -5803,6 +5859,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 59723,
+      "num": 214615,
+      "word": "美国警方一天内逮捕近千非法移民",
+      "onboard_time": 1737987799,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 59451,
       "num": 225592,
       "word": "业内称有连麦剧本贵至30000元",
@@ -5825,6 +5889,14 @@
       "onboard_time": 1737901281,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 58949,
+      "num": 227279,
+      "word": "女生花一个月工资给继父庆生",
+      "onboard_time": 1737988458,
+      "rank": 26,
+      "category": "正能量"
     },
     {
       "raw_hot": 58923,
@@ -5897,14 +5969,6 @@
       "onboard_time": 1737896961,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 54959,
-      "num": 212800,
-      "word": "王者蛇年限定皮肤获取攻略",
-      "onboard_time": 1737987379,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 54821,
@@ -6523,6 +6587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 23075,
+      "num": 289139,
+      "word": "流动的中国2025",
+      "onboard_time": 1737988037,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 22860,
       "num": 103457,
       "word": "福原爱来成都出差啦",
@@ -6545,6 +6617,14 @@
       "onboard_time": 1737930613,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21580,
+      "num": 188006,
+      "word": "异人之下2陈朵自由的代价",
+      "onboard_time": 1737988518,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 20668,
@@ -6806,6 +6886,9 @@
     },
     {
       "word": "#总书记考察足迹里的温暖瞬间#"
+    },
+    {
+      "word": "#习近平在2025年春节团拜会上的讲话#"
     }
   ]
 }
