@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/27 16:42:06
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/27 17:24:42
 </p>
 </blockquote>
 <p>
@@ -5163,6 +5163,12 @@ D社曝金敏喜怀孕（热度：893355）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%9E%E8%9B%87%E7%9A%84%E4%BA%BA%E5%9C%A8%E5%8F%A4%E4%BB%A3%E5%8F%AF%E8%83%BD%E5%B1%9E%E7%8C%AB%23" target="weibo">
+属蛇的人在古代可能属猫（热度：885047）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%90%86%E5%8F%91%E5%B8%88%E6%99%93%E5%8D%8E%E7%88%86%E6%94%B9%E5%A4%96%E5%9B%BD%E4%BA%BA%23" target="weibo">
 理发师晓华爆改外国人（热度：883945）
 </a>
@@ -6005,12 +6011,6 @@ B站拿下春晚转播权（热度：825759）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%97%B5%E5%A1%94%E9%B2%A8%E6%96%B9%E5%B0%B1%E8%B5%B5%E4%B8%BD%E9%A2%96%E9%AB%98%E5%AE%9A%E9%81%93%E6%AD%89%23" target="weibo">
 闵塔鲨方就赵丽颖高定道歉（热度：799268）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A6%81%E5%A8%B1%E4%B8%80%E8%A7%A3%E9%99%A4%E5%B0%B1%E6%9D%A5%E6%B3%A1%E6%B3%A1%E7%9A%84%E7%88%B1%E8%B1%86%23" target="weibo">
-禁娱一解除就来泡泡的爱豆（热度：798641）
 </a>
 </li>
 

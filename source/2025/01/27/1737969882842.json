@@ -1,0 +1,410 @@
+{
+  "runTime": 1737969882842,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 885047,
+        "num": 1141607,
+        "word": "属蛇的人在古代可能属猫",
+        "onboard_time": 1737965717,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 738698,
+        "num": 738698,
+        "word": "张咪因癌切除半个舌头后能说话了",
+        "onboard_time": 1737963256,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37971,
+        "num": 675446,
+        "word": "那些你不知道的北京地儿",
+        "onboard_time": 1737968236,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 613873,
+        "num": 613873,
+        "word": "DeepSeek",
+        "onboard_time": 1737947955,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 505632,
+        "num": 505632,
+        "word": "什么事都能年后再说但这事不行",
+        "onboard_time": 1737964816,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 606365,
+        "num": 483882,
+        "word": "柯洁直播还没哭完就启动了金铲铲",
+        "onboard_time": 1737964877,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 370895,
+        "num": 370895,
+        "word": "泰国多名军警人员涉绑架案被拘捕",
+        "onboard_time": 1737956296,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 356002,
+        "num": 356002,
+        "word": "我们的爸爸阵容官宣",
+        "onboard_time": 1737964097,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315761,
+        "num": 315761,
+        "word": "韩国围棋队主教练发声",
+        "onboard_time": 1737963316,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281439,
+        "num": 281439,
+        "word": "易烊千玺说刘春和是影响最深的角色",
+        "onboard_time": 1737968236,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 603808,
+        "num": 275347,
+        "word": "新加坡偶遇郭碧婷向佐一家",
+        "onboard_time": 1737962416,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282994,
+        "num": 272339,
+        "word": "比杨紫更了解杨紫的人出现",
+        "onboard_time": 1737965657,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252889,
+        "num": 252889,
+        "word": "异人之下2豆瓣8.2",
+        "onboard_time": 1737968956,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245984,
+        "num": 245984,
+        "word": "DeepSeek创始人回广东过年",
+        "onboard_time": 1737958697,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 44137,
+        "num": 235722,
+        "word": "7人设背贷骗局致多人背上巨额债务",
+        "onboard_time": 1737968896,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225858,
+        "num": 225858,
+        "word": "毛不易第三次上春晚又没和家人说",
+        "onboard_time": 1737966497,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190328,
+        "num": 190328,
+        "word": "肖战把小风扇给对手演员用",
+        "onboard_time": 1737966617,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177985,
+        "num": 177985,
+        "word": "DeepSeek核心成员是应届生",
+        "onboard_time": 1737961816,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 173673,
+        "num": 173673,
+        "word": "文俊辉新年直播",
+        "onboard_time": 1737967336,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161327,
+        "num": 161327,
+        "word": "郁亮请辞万科董事会主席",
+        "onboard_time": 1737969137,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 459255,
+        "num": 161212,
+        "word": "王菲55岁怎么一点姨感都没有",
+        "onboard_time": 1737968597,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397337,
+        "num": 160123,
+        "word": "顾茜茜的保时捷卖了",
+        "onboard_time": 1737960976,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 158109,
+        "num": 158109,
+        "word": "李昀锐又在横店打篮球了",
+        "onboard_time": 1737962296,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153547,
+        "num": 153547,
+        "word": "杨紫李现愤怒的小鸟真人版",
+        "onboard_time": 1737969437,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132101,
+        "num": 132101,
+        "word": "八旬老人靠彩票中奖养活一个动物园",
+        "onboard_time": 1737949096,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72980,
+        "num": 131970,
+        "word": "南北方的年味是一种团圆味",
+        "onboard_time": 1737968837,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140274,
+        "num": 131958,
+        "word": "林一蛇年限定皮肤",
+        "onboard_time": 1737969017,
+        "rank": 26,
+        "category": "作品衍生,游戏"
+      },
+      {
+        "raw_hot": 133374,
+        "num": 131958,
+        "word": "哪吒2的中式审美绝了",
+        "onboard_time": 1737967457,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131934,
+        "num": 131934,
+        "word": "eStar2025新赛季集结",
+        "onboard_time": 1737968717,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131038,
+        "num": 131038,
+        "word": "蔡明低声些难道光彩吗",
+        "onboard_time": 1737965538,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129874,
+        "num": 129874,
+        "word": "陈小春要不直接报人名吧",
+        "onboard_time": 1737964097,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126047,
+        "num": 126047,
+        "word": "6岁小朋友乘直升机回家过年",
+        "onboard_time": 1737956897,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118752,
+        "num": 118752,
+        "word": "白鹿红旗袍",
+        "onboard_time": 1737954078,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116318,
+        "num": 116318,
+        "word": "罗英子说贝果是戗面大馒头",
+        "onboard_time": 1737969017,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115661,
+        "num": 115661,
+        "word": "2025年总台春晚完成全部五次彩排",
+        "onboard_time": 1737939497,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115487,
+        "num": 115487,
+        "word": "薛之谦 春晚",
+        "onboard_time": 1737953057,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105478,
+        "num": 105478,
+        "word": "胖东来一天狂卖1.3亿元",
+        "onboard_time": 1737952097,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 105045,
+        "num": 105045,
+        "word": "杭州山姆超市被采购大军攻陷",
+        "onboard_time": 1737949816,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104704,
+        "num": 104704,
+        "word": "文俊辉直播",
+        "onboard_time": 1737967637,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103689,
+        "num": 103689,
+        "word": "今年除夕是大年二十九",
+        "onboard_time": 1737957855,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99468,
+        "num": 99468,
+        "word": "赵丽颖晒过年前的剧组",
+        "onboard_time": 1737962177,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39778,
+        "num": 98858,
+        "word": "柯南小情侣卡牌门面担当",
+        "onboard_time": 1737968896,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 98785,
+        "num": 98785,
+        "word": "李小冉不语只洗碗",
+        "onboard_time": 1737953176,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96955,
+        "num": 96955,
+        "word": "第五人格",
+        "onboard_time": 1737968777,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 26033,
+        "num": 96594,
+        "word": "男子路过火场残骸竟开始扫货",
+        "onboard_time": 1737969857,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96482,
+        "num": 96482,
+        "word": "灯花笑 鞠婧祎",
+        "onboard_time": 1737951436,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96129,
+        "num": 96129,
+        "word": "巳巳如意中国年",
+        "onboard_time": 1737955637,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87019,
+        "num": 87019,
+        "word": "樊振东陈梦等奥运冠军获世乒赛资格",
+        "onboard_time": 1737964337,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82043,
+        "num": 82043,
+        "word": "张纯如父亲离世",
+        "onboard_time": 1737946817,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81541,
+        "num": 81541,
+        "word": "揭秘DeepSeek背后创始人",
+        "onboard_time": 1737965057,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的暖心话汇成春联送给你#"
+    }
+  }
+}
