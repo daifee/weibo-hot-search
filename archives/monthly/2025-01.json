@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737956301312,
+  "endTime": 1737959486994,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -16867,6 +16867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 435909,
+      "num": 435909,
+      "word": "国色芳华亲爱的热爱的共创",
+      "onboard_time": 1737957855,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 435883,
       "num": 211642,
       "word": "生化和流产的区别",
@@ -19417,6 +19425,14 @@
       "onboard_time": 1736837418,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 378590,
+      "num": 264747,
+      "word": "哥伦比亚拒绝载遭驱逐移民美军机入境",
+      "onboard_time": 1737956356,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 378361,
@@ -28883,6 +28899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 250342,
+      "num": 250342,
+      "word": "白鹿红旗袍",
+      "onboard_time": 1737954078,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250243,
       "num": 250243,
       "word": "祝绪丹没接住虞书欣卖萌",
@@ -29929,14 +29953,6 @@
       "onboard_time": 1736754139,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 240191,
-      "num": 180279,
-      "word": "白鹿红旗袍",
-      "onboard_time": 1737954078,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 240177,
@@ -31483,6 +31499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 226376,
+      "num": 193915,
+      "word": "泰国多名军警人员涉绑架案被拘捕",
+      "onboard_time": 1737956296,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 226248,
       "num": 402878,
       "word": "男子境外失联多日曾要求家人勿报警",
@@ -32364,7 +32388,7 @@
     },
     {
       "raw_hot": 220122,
-      "num": 178391,
+      "num": 198420,
       "word": "尚公主 男主",
       "onboard_time": 1737953538,
       "rank": 23,
@@ -50595,6 +50619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151264,
+      "num": 151264,
+      "word": "柯洁在网友评论区问我和战鹰熟吗",
+      "onboard_time": 1737957257,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151260,
       "num": 1227781,
       "word": "近期流感高发如何做好防护",
@@ -51289,6 +51321,14 @@
       "onboard_time": 1737889879,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148971,
+      "num": 148971,
+      "word": "DeepSeek创始人回广东过年",
+      "onboard_time": 1737958697,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 148949,
@@ -54283,6 +54323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140116,
+      "num": 150523,
+      "word": "姚晨说杨丽萍蛇舞是极致东方美学",
+      "onboard_time": 1737956835,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140115,
       "num": 140115,
       "word": "TFING养成系具象化",
@@ -56913,6 +56961,14 @@
       "onboard_time": 1735897101,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 132965,
+      "num": 150170,
+      "word": "曹恩齐祝大家巳巳如愿",
+      "onboard_time": 1737958277,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 132960,
@@ -60523,6 +60579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 122227,
+      "num": 194563,
+      "word": "雷军挖角的AI天才来自DeepSeek",
+      "onboard_time": 1737954977,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 122186,
       "num": 122186,
       "word": "陈奕迅现场收到一万颗爱心",
@@ -61585,6 +61649,14 @@
       "onboard_time": 1735917021,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119701,
+      "num": 119701,
+      "word": "动画续作很烂的作品有哪些",
+      "onboard_time": 1737957497,
+      "rank": 33,
+      "category": "动漫"
     },
     {
       "raw_hot": 119621,
@@ -65411,6 +65483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 108212,
+      "num": 351436,
+      "word": "尹锡悦将在单人牢房过年",
+      "onboard_time": 1737953896,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 108205,
       "num": 260627,
       "word": "张彬彬孙珍妮桃花芭莎大片",
@@ -67435,6 +67515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101358,
+      "num": 253331,
+      "word": "自驾回家遇暴雪电车不敢开空调",
+      "onboard_time": 1737957978,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101324,
       "num": 202198,
       "word": "秦彻我们终会重逢",
@@ -67465,14 +67553,6 @@
       "onboard_time": 1737433699,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 101242,
-      "num": 101242,
-      "word": "雷军挖角的AI天才来自DeepSeek",
-      "onboard_time": 1737954977,
-      "rank": 43,
-      "category": "互联网"
     },
     {
       "raw_hot": 101218,
@@ -69483,14 +69563,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 92720,
-      "num": 351436,
-      "word": "尹锡悦将在单人牢房过年",
-      "onboard_time": 1737953896,
-      "rank": 46,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 92704,
       "num": 281460,
       "word": "微博之夜张真源的赛博搭子",
@@ -69505,6 +69577,14 @@
       "onboard_time": 1737382159,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92572,
+      "num": 92572,
+      "word": "DeepSeek多岗位招新",
+      "onboard_time": 1737958757,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 92516,
@@ -69561,6 +69641,14 @@
       "onboard_time": 1737522139,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 91865,
+      "num": 91865,
+      "word": "美国向哥伦比亚挥舞制裁大棒",
+      "onboard_time": 1737959057,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 91852,
@@ -69883,6 +69971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90288,
+      "num": 265102,
+      "word": "春节宠物寄养价格赶上人住酒店了",
+      "onboard_time": 1737958037,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90272,
       "num": 90272,
       "word": "演员王星女友称泰国警方已备案",
@@ -70129,6 +70225,14 @@
       "onboard_time": 1737110959,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88513,
+      "num": 88513,
+      "word": "花脸鸭已经被列入ICBP世界濒危鸟类红皮书",
+      "onboard_time": 1737956537,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88511,
@@ -70913,6 +71017,14 @@
       "onboard_time": 1736659938,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 84139,
+      "num": 84139,
+      "word": "A股龙年最后一个交易日",
+      "onboard_time": 1737956176,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 84135,
@@ -71905,14 +72017,6 @@
       "onboard_time": 1736870657,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 78468,
-      "num": 78468,
-      "word": "A股龙年最后一个交易日",
-      "onboard_time": 1737956176,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 78433,
@@ -76091,6 +76195,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 52374,
+      "num": 265180,
+      "word": "想过大年三十得等到2030年",
+      "onboard_time": 1737958996,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52336,
       "num": 229804,
       "word": "德约科维奇vs巴萨瓦雷迪",
@@ -79059,6 +79171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 37513,
+      "num": 109150,
+      "word": "IVE末放舞台",
+      "onboard_time": 1737958037,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 37478,
       "num": 285899,
       "word": "美国加州新年6天发生35起山火",
@@ -79105,6 +79225,14 @@
       "onboard_time": 1736171543,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 37245,
+      "num": 860448,
+      "word": "一家人都要过上好日子",
+      "onboard_time": 1737951077,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37239,
@@ -81995,6 +82123,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 25546,
+      "num": 230042,
+      "word": "奇瑞让老外爱上中国年",
+      "onboard_time": 1737957377,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 25504,
       "num": 232697,
       "word": "你会给孩子打HPV疫苗吗",
@@ -82225,14 +82361,6 @@
       "onboard_time": 1736773041,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 24617,
-      "num": 860448,
-      "word": "一家人都要过上好日子",
-      "onboard_time": 1737951077,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24599,
@@ -82961,6 +83089,14 @@
       "onboard_time": 1735684513,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21617,
+      "num": 149191,
+      "word": "春晚大赏今日发健康运",
+      "onboard_time": 1737959297,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 21599,

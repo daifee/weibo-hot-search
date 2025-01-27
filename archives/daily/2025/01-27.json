@@ -1,6 +1,6 @@
 {
   "startTime": 1737908665249,
-  "endTime": 1737956301312,
+  "endTime": 1737959486994,
   "band_list": [
     {
       "raw_hot": 2273172,
@@ -211,6 +211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 435909,
+      "num": 435909,
+      "word": "国色芳华亲爱的热爱的共创",
+      "onboard_time": 1737957855,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 434481,
       "num": 338906,
       "word": "特朗普称将来美国可能大幅扩张",
@@ -225,6 +233,14 @@
       "onboard_time": 1737936016,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 378590,
+      "num": 264747,
+      "word": "哥伦比亚拒绝载遭驱逐移民美军机入境",
+      "onboard_time": 1737956356,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 368682,
@@ -427,20 +443,20 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 250342,
+      "num": 250342,
+      "word": "白鹿红旗袍",
+      "onboard_time": 1737954078,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244276,
       "num": 475205,
       "word": "张雨霏第一次上春晚有点紧张",
       "onboard_time": 1737944536,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 240191,
-      "num": 180279,
-      "word": "白鹿红旗袍",
-      "onboard_time": 1737954078,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 235682,
@@ -467,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 226376,
+      "num": 193915,
+      "word": "泰国多名军警人员涉绑架案被拘捕",
+      "onboard_time": 1737956296,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 224924,
       "num": 201086,
       "word": "金铲铲给柯洁疯狂刷礼物",
@@ -484,7 +508,7 @@
     },
     {
       "raw_hot": 220122,
-      "num": 178391,
+      "num": 198420,
       "word": "尚公主 男主",
       "onboard_time": 1737953538,
       "rank": 23,
@@ -707,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151264,
+      "num": 151264,
+      "word": "柯洁在网友评论区问我和战鹰熟吗",
+      "onboard_time": 1737957257,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150281,
       "num": 150281,
       "word": "无忧传媒回应和黄毛毛解约",
@@ -729,6 +761,14 @@
       "onboard_time": 1737951316,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148971,
+      "num": 148971,
+      "word": "DeepSeek创始人回广东过年",
+      "onboard_time": 1737958697,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 148814,
@@ -779,6 +819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140116,
+      "num": 150523,
+      "word": "姚晨说杨丽萍蛇舞是极致东方美学",
+      "onboard_time": 1737956835,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139153,
       "num": 166325,
       "word": "陈丽君60秒演绎百年越剧情",
@@ -792,6 +840,14 @@
       "word": "内娱异域美又有新面孔了",
       "onboard_time": 1737949757,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 132965,
+      "num": 150170,
+      "word": "曹恩齐祝大家巳巳如愿",
+      "onboard_time": 1737958277,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -883,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122227,
+      "num": 194563,
+      "word": "雷军挖角的AI天才来自DeepSeek",
+      "onboard_time": 1737954977,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 122208,
       "num": 122208,
       "word": "朱苏",
@@ -905,6 +969,14 @@
       "onboard_time": 1737951977,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119701,
+      "num": 119701,
+      "word": "动画续作很烂的作品有哪些",
+      "onboard_time": 1737957497,
+      "rank": 33,
+      "category": "动漫"
     },
     {
       "raw_hot": 119194,
@@ -987,6 +1059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108212,
+      "num": 351436,
+      "word": "尹锡悦将在单人牢房过年",
+      "onboard_time": 1737953896,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 107447,
       "num": 107447,
       "word": "张凌赫田曦薇逐玉带小孩逛街路透",
@@ -1035,20 +1115,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101358,
+      "num": 253331,
+      "word": "自驾回家遇暴雪电车不敢开空调",
+      "onboard_time": 1737957978,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101317,
       "num": 101317,
       "word": "射雕新海报郭靖力克双雄",
       "onboard_time": 1737951377,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 101242,
-      "num": 101242,
-      "word": "雷军挖角的AI天才来自DeepSeek",
-      "onboard_time": 1737954977,
-      "rank": 43,
-      "category": "互联网"
     },
     {
       "raw_hot": 100942,
@@ -1147,12 +1227,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 92720,
-      "num": 351436,
-      "word": "尹锡悦将在单人牢房过年",
-      "onboard_time": 1737953896,
-      "rank": 46,
-      "category": "国际时政"
+      "raw_hot": 92572,
+      "num": 92572,
+      "word": "DeepSeek多岗位招新",
+      "onboard_time": 1737958757,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 92502,
@@ -1169,6 +1249,14 @@
       "onboard_time": 1737889577,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91865,
+      "num": 91865,
+      "word": "美国向哥伦比亚挥舞制裁大棒",
+      "onboard_time": 1737959057,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 90748,
@@ -1195,12 +1283,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 90288,
+      "num": 265102,
+      "word": "春节宠物寄养价格赶上人住酒店了",
+      "onboard_time": 1737958037,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90089,
       "num": 90089,
       "word": "花2000元做了蛇年招财美甲",
       "onboard_time": 1737890538,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 88513,
+      "num": 88513,
+      "word": "花脸鸭已经被列入ICBP世界濒危鸟类红皮书",
+      "onboard_time": 1737956537,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88473,
@@ -1241,6 +1345,14 @@
       "onboard_time": 1737905298,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84139,
+      "num": 84139,
+      "word": "A股龙年最后一个交易日",
+      "onboard_time": 1737956176,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 83612,
@@ -1313,14 +1425,6 @@
       "onboard_time": 1737942497,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 78468,
-      "num": 78468,
-      "word": "A股龙年最后一个交易日",
-      "onboard_time": 1737956176,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 78227,
@@ -1443,6 +1547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52374,
+      "num": 265180,
+      "word": "想过大年三十得等到2030年",
+      "onboard_time": 1737958996,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52274,
       "num": 146910,
       "word": "永远相信河南春晚审美",
@@ -1531,6 +1643,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 37513,
+      "num": 109150,
+      "word": "IVE末放舞台",
+      "onboard_time": 1737958037,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 37245,
+      "num": 860448,
+      "word": "一家人都要过上好日子",
+      "onboard_time": 1737951077,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36204,
       "num": 36204,
       "word": "2025春节档预售票房突破7亿",
@@ -1587,20 +1715,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 25546,
+      "num": 230042,
+      "word": "奇瑞让老外爱上中国年",
+      "onboard_time": 1737957377,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 25041,
       "num": 25041,
       "word": "易烊千玺过塘live十首歌上线",
       "onboard_time": 1737916393,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 24617,
-      "num": 860448,
-      "word": "一家人都要过上好日子",
-      "onboard_time": 1737951077,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23839,
@@ -1616,6 +1744,14 @@
       "word": "河南春晚看见不一样的周深",
       "onboard_time": 1737930613,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 21617,
+      "num": 149191,
+      "word": "春晚大赏今日发健康运",
+      "onboard_time": 1737959297,
+      "rank": 30,
       "category": "综艺"
     },
     {
