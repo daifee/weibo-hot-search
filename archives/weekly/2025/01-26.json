@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1737984441409,
+  "endTime": 1737985129996,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -227,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1013439,
+      "num": 1162150,
+      "word": "倪萍曾救下想轻生的宋丹丹",
+      "onboard_time": 1737983178,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1006989,
       "num": 297862,
       "word": "张大大小黑屋事件",
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 931444,
-      "num": 267932,
+      "num": 295796,
       "word": "江医生他怀了死对头的崽广播剧",
       "onboard_time": 1737980657,
       "rank": 35,
@@ -497,14 +505,6 @@
       "onboard_time": 1737874698,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 690876,
-      "num": 474346,
-      "word": "倪萍曾救下想轻生的宋丹丹",
-      "onboard_time": 1737983178,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 688469,
@@ -721,6 +721,14 @@
       "onboard_time": 1737885737,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 545787,
+      "num": 545787,
+      "word": "DeepSeek预测春节档票房冠军是哪吒",
+      "onboard_time": 1737979998,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 541585,
@@ -1027,14 +1035,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 431669,
-      "num": 431669,
-      "word": "DeepSeek预测春节档票房冠军是哪吒",
-      "onboard_time": 1737979998,
-      "rank": 39,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 422381,
       "num": 241763,
       "word": "周杰伦瘦好多",
@@ -1060,7 +1060,7 @@
     },
     {
       "raw_hot": 416082,
-      "num": 243667,
+      "num": 257400,
       "word": "杨鸣好帅",
       "onboard_time": 1737981918,
       "rank": 22,
@@ -1089,6 +1089,14 @@
       "onboard_time": 1737888379,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 400952,
+      "num": 251908,
+      "word": "陈哲远 直拍来了",
+      "onboard_time": 1737984500,
+      "rank": 14,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 399366,
@@ -1457,6 +1465,14 @@
       "onboard_time": 1737939257,
       "rank": 29,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 295863,
+      "num": 295863,
+      "word": "暴雪高速封禁新娘乘高铁去婚礼现场",
+      "onboard_time": 1737982637,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 295389,
@@ -1875,6 +1891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238629,
+      "num": 143243,
+      "word": "辽视春晚小品",
+      "onboard_time": 1737984197,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237875,
       "num": 237875,
       "word": "毛不易上春晚嘴真严啊",
@@ -2161,6 +2185,14 @@
       "onboard_time": 1737966617,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 202019,
+      "num": 146542,
+      "word": "权志龙的外套是郑亨敦在市场买的",
+      "onboard_time": 1737984020,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 201715,
@@ -2499,6 +2531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177779,
+      "num": 139341,
+      "word": "徐明浩创造营亚洲2直播",
+      "onboard_time": 1737983899,
+      "rank": 36,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 177111,
       "num": 382230,
       "word": "寒潮大风多地降温6到10摄氏度",
@@ -2633,6 +2673,14 @@
       "onboard_time": 1737898999,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 169742,
+      "num": 163354,
+      "word": "OneRepublic确认将登上央视春晚",
+      "onboard_time": 1737983538,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 169605,
@@ -2787,14 +2835,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 163354,
-      "num": 163354,
-      "word": "OneRepublic确认将登上央视春晚",
-      "onboard_time": 1737983538,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 163143,
       "num": 163143,
       "word": "李子柒上河南春晚",
@@ -2905,6 +2945,14 @@
       "onboard_time": 1737884418,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157956,
+      "num": 157956,
+      "word": "年轻人在过年前和父母达成共识",
+      "onboard_time": 1737982039,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157855,
@@ -3243,14 +3291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144003,
-      "num": 144003,
-      "word": "权志龙的外套是郑亨敦在市场买的",
-      "onboard_time": 1737984020,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 143915,
       "num": 143915,
       "word": "王源古风小生",
@@ -3304,14 +3344,6 @@
       "word": "老太吃一个月甘草片止咳致全身瘫软",
       "onboard_time": 1737936435,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 141727,
-      "num": 141727,
-      "word": "年轻人在过年前和父母达成共识",
-      "onboard_time": 1737982039,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -3595,6 +3627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132763,
+      "num": 132763,
+      "word": "英伟达老对手力挺DeepSeek",
+      "onboard_time": 1737982938,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 132761,
       "num": 132761,
       "word": "重昭知道你很急但是你先别急",
@@ -3707,6 +3747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127417,
+      "num": 127417,
+      "word": "周涛 妈咪你美",
+      "onboard_time": 1737984859,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127224,
       "num": 127224,
       "word": "6岁小朋友乘直升机回家过年",
@@ -3817,14 +3865,6 @@
       "onboard_time": 1737869058,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 125020,
-      "num": 125020,
-      "word": "辽视春晚小品",
-      "onboard_time": 1737984197,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 124644,
@@ -3963,12 +4003,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 120300,
-      "num": 120300,
-      "word": "徐明浩创造营亚洲2直播",
-      "onboard_time": 1737983899,
+      "raw_hot": 120537,
+      "num": 120537,
+      "word": "霉霉与男友接吻庆祝",
+      "onboard_time": 1737984679,
       "rank": 36,
-      "category": "综艺,艺人"
+      "category": "艺人"
     },
     {
       "raw_hot": 119823,
@@ -4139,6 +4179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 114673,
+      "num": 116910,
+      "word": "小猪姐姐又仿妆杨紫了",
+      "onboard_time": 1737983838,
+      "rank": 39,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 114241,
       "num": 114241,
       "word": "徐克回应射雕爆改演员",
@@ -4241,14 +4289,6 @@
       "onboard_time": 1737934815,
       "rank": 35,
       "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 110657,
-      "num": 228570,
-      "word": "暴雪高速封禁新娘乘高铁去婚礼现场",
-      "onboard_time": 1737982637,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110497,
@@ -4491,14 +4531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 104257,
-      "num": 104257,
-      "word": "英伟达老对手力挺DeepSeek",
-      "onboard_time": 1737982938,
-      "rank": 37,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 104096,
       "num": 225366,
       "word": "澳大利亚怎么这么好玩",
@@ -4561,6 +4593,14 @@
       "onboard_time": 1737905659,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 102243,
+      "num": 116831,
+      "word": "DeepSeek表现震惊扎克伯格",
+      "onboard_time": 1737984918,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 101923,
@@ -4715,6 +4755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98800,
+      "num": 98800,
+      "word": "00后医学生接一通电话救了个患儿",
+      "onboard_time": 1737981738,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98662,
       "num": 98662,
       "word": "潘宏维权",
@@ -4827,14 +4875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 95943,
-      "num": 95943,
-      "word": "小猪姐姐又仿妆杨紫了",
-      "onboard_time": 1737983838,
-      "rank": 39,
-      "category": "美妆,艺人"
-    },
-    {
       "raw_hot": 95858,
       "num": 107492,
       "word": "祝宁波市民蛇年大吉巳巳如意",
@@ -4913,6 +4953,22 @@
       "onboard_time": 1737867019,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92728,
+      "num": 92728,
+      "word": "专访电影射雕英雄传主创",
+      "onboard_time": 1737985098,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 92671,
+      "num": 92671,
+      "word": "外交部回应是否接回在美非法中国移民",
+      "onboard_time": 1737984559,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 91699,
@@ -5089,6 +5145,14 @@
       "onboard_time": 1737892220,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 85480,
+      "num": 170584,
+      "word": "父子被困雪山好心村民收留过夜吃饭",
+      "onboard_time": 1737982878,
+      "rank": 19,
+      "category": "正能量"
     },
     {
       "raw_hot": 84992,
@@ -5347,14 +5411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 76615,
-      "num": 76615,
-      "word": "00后医学生接一通电话救了个患儿",
-      "onboard_time": 1737981738,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 76402,
       "num": 76402,
       "word": "王源一人分饰两角",
@@ -5457,14 +5513,6 @@
       "onboard_time": 1737898520,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 71231,
-      "num": 170584,
-      "word": "父子被困雪山好心村民收留过夜吃饭",
-      "onboard_time": 1737982878,
-      "rank": 19,
-      "category": "正能量"
     },
     {
       "raw_hot": 71093,
