@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738010204968,
+  "endTime": 1738012947579,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -6881,6 +6881,14 @@
       "onboard_time": 1737961217,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22395,
+      "num": 22395,
+      "word": "辽视春晚把簪花仕女图演活了",
+      "onboard_time": 1738011612,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 22254,
