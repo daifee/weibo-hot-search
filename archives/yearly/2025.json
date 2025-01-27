@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737992109105,
+  "endTime": 1737995245772,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -561,6 +561,14 @@
       "onboard_time": 1736295803,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3063859,
+      "num": 279957,
+      "word": "女子剁排骨失手切断4岁儿子3根手指",
+      "onboard_time": 1737993976,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 3045584,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736056169,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1592347,
-      "num": 1592347,
-      "word": "曝英伟达一半员工净资产破亿",
-      "onboard_time": 1736815280,
-      "rank": 0,
-      "category": "财经"
     }
   ],
   "hotgov_list": [
