@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/27 20:57:45
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/27 21:27:21
 </p>
 </blockquote>
 <p>
@@ -3915,6 +3915,12 @@ TikTok发声明感谢特朗普澄清保证（热度：1070924）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%AF%E5%B7%A9%20%E6%88%91%E6%83%B3%E6%AD%BB%E4%BD%A0%E4%BB%AC%E4%BA%86%23" target="weibo">
+冯巩 我想死你们了（热度：1051267）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%B9%E7%BF%94%E6%8A%BD%E4%B8%AD%E4%BA%86%E6%B1%A4%E5%94%AF%E7%88%B6%E4%BA%B2%E7%9A%84%E5%A2%A8%E5%AE%9D%23" target="weibo">
 费翔抽中了汤唯父亲的墨宝（热度：1050259）
 </a>
@@ -4785,6 +4791,12 @@ TikTok难民涌入国产APP后表白中国（热度：937746）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E5%8C%BB%E7%94%9F%E4%BB%96%E6%80%80%E4%BA%86%E6%AD%BB%E5%AF%B9%E5%A4%B4%E7%9A%84%E5%B4%BD%E5%B9%BF%E6%92%AD%E5%89%A7%23" target="weibo">
+江医生他怀了死对头的崽广播剧（热度：931444）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%83%E8%BD%A6%E5%8E%98%E5%AD%90%E4%B8%8D%E8%A6%81%E5%92%AC%E7%A0%B4%E6%9E%9C%E6%A0%B8%23" target="weibo">
 吃车厘子不要咬破果核（热度：930933）
 </a>
@@ -5249,12 +5261,6 @@ OneRepublic将登上春晚（热度：878463）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%8B%B1%E4%B8%AD%E8%8B%A6%E8%AF%BB24%E5%B9%B4%E8%8E%B7%E5%8D%9A%E5%A3%AB%E5%AD%A6%E4%BD%8D%23" target="weibo">
 男子狱中苦读24年获博士学位（热度：876104）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%AF%E5%B7%A9%20%E6%88%91%E6%83%B3%E6%AD%BB%E4%BD%A0%E4%BB%AC%E4%BA%86%23" target="weibo">
-冯巩 我想死你们了（热度：875013）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ B站拿下春晚转播权（热度：825759）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%8D%96%E6%97%A9%E9%A4%906%E5%B2%81%E5%A5%B3%E5%84%BF%E7%8B%AC%E8%87%AA%E5%9C%A8%E5%AE%B6%E5%9D%A0%E6%A5%BC%23" target="weibo">
 父亲卖早餐6岁女儿独自在家坠楼（热度：803669）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BA%9E%E5%8D%9A%E6%96%87%20%E5%B0%8F%E6%80%A1%E5%90%8C%E5%AD%A6%23" target="weibo">
-庞博文 小怡同学（热度：802140）
 </a>
 </li>
 

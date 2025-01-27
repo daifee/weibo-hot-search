@@ -1,6 +1,6 @@
 {
   "startTime": 1737908665249,
-  "endTime": 1737982665718,
+  "endTime": 1737984441409,
   "band_list": [
     {
       "raw_hot": 2273172,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1051267,
+      "num": 1051267,
+      "word": "冯巩 我想死你们了",
+      "onboard_time": 1737980296,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1000646,
       "num": 204535,
       "word": "因张大大有流量老板经常给他换人",
@@ -91,19 +99,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 931444,
+      "num": 267932,
+      "word": "江医生他怀了死对头的崽广播剧",
+      "onboard_time": 1737980657,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 878463,
       "num": 878463,
       "word": "OneRepublic将登上春晚",
       "onboard_time": 1737944897,
       "rank": 3,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 875013,
-      "num": 875013,
-      "word": "冯巩 我想死你们了",
-      "onboard_time": 1737980296,
-      "rank": 7,
       "category": "综艺"
     },
     {
@@ -153,6 +161,14 @@
       "onboard_time": 1737945556,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 690876,
+      "num": 474346,
+      "word": "倪萍曾救下想轻生的宋丹丹",
+      "onboard_time": 1737983178,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 688469,
@@ -355,6 +371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 492116,
+      "num": 492116,
+      "word": "美股",
+      "onboard_time": 1737979458,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 479101,
       "num": 326005,
       "word": "东方卫视蛇年春晚阵容",
@@ -403,12 +427,28 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 427525,
-      "num": 427525,
-      "word": "美股",
-      "onboard_time": 1737979458,
-      "rank": 9,
-      "category": "财经"
+      "raw_hot": 431669,
+      "num": 431669,
+      "word": "DeepSeek预测春节档票房冠军是哪吒",
+      "onboard_time": 1737979998,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 416082,
+      "num": 243667,
+      "word": "杨鸣好帅",
+      "onboard_time": 1737981918,
+      "rank": 22,
+      "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 410963,
+      "num": 265414,
+      "word": "易烊千玺第八次登台春晚了",
+      "onboard_time": 1737980717,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 399325,
@@ -433,22 +473,6 @@
       "onboard_time": 1737936016,
       "rank": 1,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 384458,
-      "num": 267932,
-      "word": "江医生他怀了死对头的崽广播剧",
-      "onboard_time": 1737980657,
-      "rank": 35,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 380685,
-      "num": 265414,
-      "word": "易烊千玺第八次登台春晚了",
-      "onboard_time": 1737980717,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 378590,
@@ -683,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257988,
+      "num": 257988,
+      "word": "孙颖莎说会带着遗憾勇往直前",
+      "onboard_time": 1737980177,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 256403,
       "num": 187068,
       "word": "胖东来一天狂卖1.3亿元",
@@ -771,14 +803,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 233976,
-      "num": 233976,
-      "word": "孙颖莎说会带着遗憾勇往直前",
-      "onboard_time": 1737980177,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 231649,
       "num": 231649,
       "word": "毛利兰从青梅竹马变女朋友",
@@ -835,12 +859,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 216683,
+      "num": 216683,
+      "word": "2025粤港澳大湾区春节晚会",
+      "onboard_time": 1737981138,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205507,
       "num": 205507,
       "word": "李子柒用她的方式传承非遗春节",
       "onboard_time": 1737951077,
       "rank": 34,
       "category": "网红"
+    },
+    {
+      "raw_hot": 205479,
+      "num": 172688,
+      "word": "张雅钦国色片场千字笔记",
+      "onboard_time": 1737981017,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 204911,
@@ -881,6 +921,14 @@
       "onboard_time": 1737901760,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199059,
+      "num": 165336,
+      "word": "王安宇武艺淋得是同一场雨吗",
+      "onboard_time": 1737979038,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 199003,
@@ -971,14 +1019,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 186044,
-      "num": 186044,
-      "word": "杨鸣好帅",
-      "onboard_time": 1737981918,
-      "rank": 22,
-      "category": "综艺,体育"
-    },
-    {
       "raw_hot": 184026,
       "num": 184026,
       "word": "杨丽萍蛇舞演员每块肌肉都能动",
@@ -1049,22 +1089,6 @@
       "onboard_time": 1737967336,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 172688,
-      "num": 172688,
-      "word": "张雅钦国色片场千字笔记",
-      "onboard_time": 1737981017,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 172447,
-      "num": 172447,
-      "word": "DeepSeek预测春节档票房冠军是哪吒",
-      "onboard_time": 1737979998,
-      "rank": 39,
-      "category": "互联网"
     },
     {
       "raw_hot": 172248,
@@ -1139,6 +1163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 163354,
+      "num": 163354,
+      "word": "OneRepublic确认将登上央视春晚",
+      "onboard_time": 1737983538,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163074,
       "num": 163074,
       "word": "五福临门有自己的前夫哥",
@@ -1193,6 +1225,14 @@
       "onboard_time": 1737950298,
       "rank": 32,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 156724,
+      "num": 143519,
+      "word": "冯巩喝了一瓶醋",
+      "onboard_time": 1737981377,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 155993,
@@ -1315,6 +1355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 144003,
+      "num": 144003,
+      "word": "权志龙的外套是郑亨敦在市场买的",
+      "onboard_time": 1737984020,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143763,
       "num": 129874,
       "word": "陈小春要不直接报人名吧",
@@ -1347,12 +1395,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 141492,
-      "num": 141492,
-      "word": "王安宇武艺淋得是同一场雨吗",
-      "onboard_time": 1737979038,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 141727,
+      "num": 141727,
+      "word": "年轻人在过年前和父母达成共识",
+      "onboard_time": 1737982039,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141185,
@@ -1361,14 +1409,6 @@
       "onboard_time": 1737972977,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 140960,
-      "num": 166711,
-      "word": "2025粤港澳大湾区春节晚会",
-      "onboard_time": 1737981138,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 140274,
@@ -1435,12 +1475,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 135996,
-      "num": 135996,
-      "word": "冯巩喝了一瓶醋",
-      "onboard_time": 1737981377,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 135847,
+      "num": 272300,
+      "word": "视障女孩的回家路看哭了",
+      "onboard_time": 1737981198,
+      "rank": 44,
+      "category": "正能量"
     },
     {
       "raw_hot": 133694,
@@ -1603,6 +1643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125020,
+      "num": 125020,
+      "word": "辽视春晚小品",
+      "onboard_time": 1737984197,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124282,
       "num": 167939,
       "word": "和平精英开门大吉",
@@ -1681,6 +1729,14 @@
       "onboard_time": 1737951977,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120300,
+      "num": 120300,
+      "word": "徐明浩创造营亚洲2直播",
+      "onboard_time": 1737983899,
+      "rank": 36,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 119701,
@@ -1763,14 +1819,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 114701,
-      "num": 114701,
-      "word": "年轻人在过年前和父母达成共识",
-      "onboard_time": 1737982039,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 114050,
       "num": 114050,
       "word": "柯洁说裁判说的话让人发抖",
@@ -1785,14 +1833,6 @@
       "onboard_time": 1737950477,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 112099,
-      "num": 272300,
-      "word": "视障女孩的回家路看哭了",
-      "onboard_time": 1737981198,
-      "rank": 44,
-      "category": "正能量"
     },
     {
       "raw_hot": 111257,
@@ -1817,6 +1857,14 @@
       "onboard_time": 1737934815,
       "rank": 35,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 110657,
+      "num": 228570,
+      "word": "暴雪高速封禁新娘乘高铁去婚礼现场",
+      "onboard_time": 1737982637,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109986,
@@ -1929,6 +1977,14 @@
       "onboard_time": 1737967637,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104257,
+      "num": 104257,
+      "word": "英伟达老对手力挺DeepSeek",
+      "onboard_time": 1737982938,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 103904,
@@ -2081,6 +2137,22 @@
       "onboard_time": 1737888078,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 95943,
+      "num": 95943,
+      "word": "小猪姐姐又仿妆杨紫了",
+      "onboard_time": 1737983838,
+      "rank": 39,
+      "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 95723,
+      "num": 95723,
+      "word": "登陆少年组合加盟东方卫视春晚",
+      "onboard_time": 1737983658,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 95121,
@@ -2347,6 +2419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 81840,
+      "num": 81840,
+      "word": "这个糯米团子怎么会自己上糖霜",
+      "onboard_time": 1737983418,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 81181,
       "num": 175711,
       "word": "柯洁称规则中未写放提子时间",
@@ -2409,6 +2489,14 @@
       "onboard_time": 1737966977,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 76615,
+      "num": 76615,
+      "word": "00后医学生接一通电话救了个患儿",
+      "onboard_time": 1737981738,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76561,
@@ -2489,6 +2577,22 @@
       "onboard_time": 1737956056,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 71231,
+      "num": 170584,
+      "word": "父子被困雪山好心村民收留过夜吃饭",
+      "onboard_time": 1737982878,
+      "rank": 19,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 71093,
+      "num": 71093,
+      "word": "家人回应苏敏正式离婚",
+      "onboard_time": 1737984379,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71014,
@@ -2688,14 +2792,6 @@
       "word": "本次寒潮为什么成为今冬最强",
       "onboard_time": 1737950956,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 41649,
-      "num": 100787,
-      "word": "暴雪高速封禁新娘乘高铁去婚礼现场",
-      "onboard_time": 1737982637,
-      "rank": 44,
       "category": "民生新闻"
     },
     {
