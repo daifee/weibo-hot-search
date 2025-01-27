@@ -1,6 +1,6 @@
 {
   "startTime": 1737995245772,
-  "endTime": 1738009451018,
+  "endTime": 1738010204968,
   "band_list": [
     {
       "raw_hot": 3185801,
@@ -555,19 +555,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 9706,
+      "num": 19372,
+      "word": "戍边民警吃到家乡菜激动落泪",
+      "onboard_time": 1738008190,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9537,
+      "num": 41168,
+      "word": "灯会是年味氛围组组长吧",
+      "onboard_time": 1738008911,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 9356,
       "num": 21384,
       "word": "2025家装厨卫焕新政策",
       "onboard_time": 1738006512,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 8475,
-      "num": 41168,
-      "word": "灯会是年味氛围组组长吧",
-      "onboard_time": 1738008911,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
