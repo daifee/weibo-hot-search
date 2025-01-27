@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738005479957,
+  "endTime": 1738006539018,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -6611,6 +6611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31811,
+      "num": 31811,
+      "word": "今年除夕到初三加班额外付三倍工资",
+      "onboard_time": 1738002792,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31431,
       "num": 186146,
       "word": "广东人专属的新年仪式感",
@@ -6697,14 +6705,6 @@
       "onboard_time": 1737889219,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 26662,
-      "num": 26662,
-      "word": "今年除夕到初三加班额外付三倍工资",
-      "onboard_time": 1738002792,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26594,
@@ -7131,11 +7131,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 9356,
+      "num": 21384,
+      "word": "2025家装厨卫焕新政策",
+      "onboard_time": 1738006512,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 8933,
       "num": 61517,
       "word": "用非遗剪纸打开城市地标",
       "onboard_time": 1737842832,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8378,
+      "num": 44896,
+      "word": "年味灯会把中式浪漫拉满了",
+      "onboard_time": 1738005791,
+      "rank": 14,
       "category": "民生新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1737995245772,
-  "endTime": 1738005479957,
+  "endTime": 1738006539018,
   "band_list": [
     {
       "raw_hot": 3185801,
@@ -483,8 +483,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 26662,
-      "num": 26662,
+      "raw_hot": 31811,
+      "num": 31811,
       "word": "今年除夕到初三加班额外付三倍工资",
       "onboard_time": 1738002792,
       "rank": 35,
@@ -544,6 +544,22 @@
       "word": "一群人接力从死神手里救溺水男童",
       "onboard_time": 1738004591,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9356,
+      "num": 21384,
+      "word": "2025家装厨卫焕新政策",
+      "onboard_time": 1738006512,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8378,
+      "num": 44896,
+      "word": "年味灯会把中式浪漫拉满了",
+      "onboard_time": 1738005791,
+      "rank": 14,
       "category": "民生新闻"
     }
   ],
