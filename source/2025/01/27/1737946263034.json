@@ -1,0 +1,410 @@
+{
+  "runTime": 1737946263034,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 712028,
+        "num": 1113924,
+        "word": "陈小春突然想起自己签了保密协议",
+        "onboard_time": 1737904460,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 658477,
+        "num": 658477,
+        "word": "韩国空难飞机发动机吸入花脸鸭",
+        "onboard_time": 1737938355,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 37858,
+        "num": 446920,
+        "word": "五十六个民族各有各的特色年味儿",
+        "onboard_time": 1737903860,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401514,
+        "num": 401514,
+        "word": "OneRepublic将登上春晚",
+        "onboard_time": 1737944897,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317615,
+        "num": 317615,
+        "word": "全球掀DeepSeek复现狂潮",
+        "onboard_time": 1737942016,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 432185,
+        "num": 313647,
+        "word": "战鹰发文向柯洁道歉",
+        "onboard_time": 1737936255,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 354140,
+        "num": 307003,
+        "word": "2025年总台春晚完成全部五次彩排",
+        "onboard_time": 1737939497,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300117,
+        "num": 300117,
+        "word": "北京一车失控坠河民警跳河营救",
+        "onboard_time": 1737939257,
+        "rank": 7,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 278301,
+        "num": 278301,
+        "word": "自驾4000公里回家主人和狗都麻了",
+        "onboard_time": 1737940097,
+        "rank": 8,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 244214,
+        "num": 244214,
+        "word": "柜姐评论刘亦菲微胖店铺正常运营",
+        "onboard_time": 1737913755,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 568860,
+        "num": 244086,
+        "word": "赵露思康复过程好多奶奶的身影",
+        "onboard_time": 1737939197,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266668,
+        "num": 243797,
+        "word": "260平米只做了两房的家",
+        "onboard_time": 1737941117,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243070,
+        "num": 243070,
+        "word": "明天除夕",
+        "onboard_time": 1737934815,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234309,
+        "num": 234309,
+        "word": "国羽百灵鸟王昶唱上春晚",
+        "onboard_time": 1737941418,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232484,
+        "num": 232484,
+        "word": "封神解释家和家人的意义",
+        "onboard_time": 1737944837,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204911,
+        "num": 204911,
+        "word": "佳偶天成杀青",
+        "onboard_time": 1737943936,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199997,
+        "num": 199997,
+        "word": "新娘坐高铁去结婚收获全车祝福",
+        "onboard_time": 1737903021,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192631,
+        "num": 192631,
+        "word": "特朗普称将来美国可能大幅扩张",
+        "onboard_time": 1737944776,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 191972,
+        "num": 191972,
+        "word": "业内预测票房冠军是哪吒或唐探",
+        "onboard_time": 1737928271,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174752,
+        "num": 174752,
+        "word": "A股",
+        "onboard_time": 1737944356,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 768701,
+        "num": 172862,
+        "word": "因张大大有流量老板经常给他换人",
+        "onboard_time": 1737936136,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186571,
+        "num": 170873,
+        "word": "张雨霏第一次上春晚有点紧张",
+        "onboard_time": 1737944536,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 437098,
+        "num": 165036,
+        "word": "无忧传媒",
+        "onboard_time": 1737939616,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 154112,
+        "num": 154112,
+        "word": "肖战版射雕领跑春节档预售",
+        "onboard_time": 1737935655,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123209,
+        "num": 153972,
+        "word": "19岁电竞选手幻云疑遭遇杀猪盘",
+        "onboard_time": 1737943157,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 540088,
+        "num": 153905,
+        "word": "黄毛毛问张大大睡了吗",
+        "onboard_time": 1737939557,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175151,
+        "num": 153704,
+        "word": "赵露思比耶无法控制小拇指",
+        "onboard_time": 1737902120,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331589,
+        "num": 153459,
+        "word": "张某某将可能涉嫌多项罪名",
+        "onboard_time": 1737895639,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153398,
+        "num": 153398,
+        "word": "合肥地震",
+        "onboard_time": 1737933313,
+        "rank": 28,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 153052,
+        "num": 153052,
+        "word": "这届年轻人手机贴都要黄金的",
+        "onboard_time": 1737904340,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152964,
+        "num": 152964,
+        "word": "张杰演唱会0排0号的视角",
+        "onboard_time": 1737935775,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145962,
+        "num": 145962,
+        "word": "演员大锁发文称别洗白了",
+        "onboard_time": 1737921970,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139958,
+        "num": 139958,
+        "word": "吃撑24小时后身体的变化",
+        "onboard_time": 1737942436,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 130751,
+        "num": 130751,
+        "word": "比尔盖茨与特朗普讨论艾滋病",
+        "onboard_time": 1737943636,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127301,
+        "num": 127301,
+        "word": "年前最后一个工作日了",
+        "onboard_time": 1737933613,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126811,
+        "num": 126811,
+        "word": "老太吃一个月甘草片止咳致全身瘫软",
+        "onboard_time": 1737936435,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123977,
+        "num": 123977,
+        "word": "五福临门",
+        "onboard_time": 1737941477,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112605,
+        "num": 112605,
+        "word": "周深祝你新年总有美好在路上",
+        "onboard_time": 1737939557,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109341,
+        "num": 109341,
+        "word": "每晚必拔WiFi没苦硬吃是我爸妈没错了",
+        "onboard_time": 1737938477,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107756,
+        "num": 107756,
+        "word": "王冰冰演短剧了",
+        "onboard_time": 1737911895,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107143,
+        "num": 107143,
+        "word": "王嘉尔正在住院接受治疗",
+        "onboard_time": 1737897558,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104258,
+        "num": 104258,
+        "word": "尹锡悦将在牢房过年顿顿都有泡菜",
+        "onboard_time": 1737945556,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102588,
+        "num": 102588,
+        "word": "2025巨蟹座会发生3件好事",
+        "onboard_time": 1737935475,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95007,
+        "num": 95007,
+        "word": "2025新春",
+        "onboard_time": 1737902120,
+        "rank": 43,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 93240,
+        "num": 93240,
+        "word": "DeepSeek美区苹果下载榜超过ChatGPT",
+        "onboard_time": 1737943037,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 86302,
+        "num": 86302,
+        "word": "因暴雪新娘乘高铁前往婚礼现场",
+        "onboard_time": 1737937636,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84975,
+        "num": 84975,
+        "word": "白鹿为白烁换了12次头像",
+        "onboard_time": 1737945917,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76199,
+        "num": 76199,
+        "word": "春节年轻人爱买超小克重黄金",
+        "onboard_time": 1737934815,
+        "rank": 47,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 75991,
+        "num": 75991,
+        "word": "全红婵今年回家过年了",
+        "onboard_time": 1737946157,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72174,
+        "num": 72174,
+        "word": "韩公布济州航空空难初步调查报告",
+        "onboard_time": 1737936016,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#这是我们的中国年#"
+    }
+  }
+}

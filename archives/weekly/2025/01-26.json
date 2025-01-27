@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1737943104376,
+  "endTime": 1737946263034,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -379,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 658477,
+      "num": 658477,
+      "word": "韩国空难飞机发动机吸入花脸鸭",
+      "onboard_time": 1737938355,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 650358,
       "num": 650358,
       "word": "黄子韬看萱萱爸爸快哭了很心疼",
@@ -412,7 +420,7 @@
     },
     {
       "raw_hot": 621939,
-      "num": 304486,
+      "num": 307003,
       "word": "2025年总台春晚完成全部五次彩排",
       "onboard_time": 1737939497,
       "rank": 3,
@@ -443,8 +451,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 568860,
+      "num": 261446,
+      "word": "赵露思康复过程好多奶奶的身影",
+      "onboard_time": 1737939197,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 564099,
-      "num": 281434,
+      "num": 313647,
       "word": "战鹰发文向柯洁道歉",
       "onboard_time": 1737936255,
       "rank": 10,
@@ -691,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 437098,
+      "num": 178575,
+      "word": "无忧传媒",
+      "onboard_time": 1737939616,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 422381,
       "num": 241763,
       "word": "周杰伦瘦好多",
@@ -731,12 +755,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 402188,
-      "num": 261446,
-      "word": "赵露思康复过程好多奶奶的身影",
-      "onboard_time": 1737939197,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 401514,
+      "num": 401514,
+      "word": "OneRepublic将登上春晚",
+      "onboard_time": 1737944897,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 399366,
@@ -979,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 317615,
+      "num": 317615,
+      "word": "全球掀DeepSeek复现狂潮",
+      "onboard_time": 1737942016,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 309094,
       "num": 309094,
       "word": "DeepSeek彻底爆发",
@@ -1011,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300117,
+      "num": 300117,
+      "word": "北京一车失控坠河民警跳河营救",
+      "onboard_time": 1737939257,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 293990,
       "num": 241367,
       "word": "陈哲远拦下10辆出租车",
@@ -1041,14 +1081,6 @@
       "onboard_time": 1737869177,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 290312,
-      "num": 178575,
-      "word": "无忧传媒",
-      "onboard_time": 1737939616,
-      "rank": 26,
-      "category": "网红"
     },
     {
       "raw_hot": 288657,
@@ -1091,6 +1123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 278301,
+      "num": 278301,
+      "word": "自驾4000公里回家主人和狗都麻了",
+      "onboard_time": 1737940097,
+      "rank": 19,
+      "category": "民生新闻,旅游"
+    },
+    {
       "raw_hot": 277601,
       "num": 277601,
       "word": "特朗普称或考虑重新加入世卫组织",
@@ -1105,14 +1145,6 @@
       "onboard_time": 1737846374,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 274272,
-      "num": 274272,
-      "word": "韩国空难飞机发动机吸入花脸鸭",
-      "onboard_time": 1737938355,
-      "rank": 27,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 273005,
@@ -1161,6 +1193,14 @@
       "onboard_time": 1737888260,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 266668,
+      "num": 243797,
+      "word": "260平米只做了两房的家",
+      "onboard_time": 1737941117,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 263118,
@@ -1259,11 +1299,27 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 244214,
+      "num": 244214,
+      "word": "柜姐评论刘亦菲微胖店铺正常运营",
+      "onboard_time": 1737913755,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 243092,
       "num": 181796,
       "word": "儿媳偷送金耳环婆婆笑着笑着就哭了",
       "onboard_time": 1737862158,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 243070,
+      "num": 243070,
+      "word": "明天除夕",
+      "onboard_time": 1737934815,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1315,14 +1371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 236593,
-      "num": 236593,
-      "word": "柜姐评论刘亦菲微胖店铺正常运营",
-      "onboard_time": 1737913755,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 235682,
       "num": 179738,
       "word": "每晚必拔WiFi没苦硬吃是我爸妈没错了",
@@ -1331,12 +1379,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 234781,
-      "num": 234781,
-      "word": "明天除夕",
-      "onboard_time": 1737934815,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 232484,
+      "num": 232484,
+      "word": "封神解释家和家人的意义",
+      "onboard_time": 1737944837,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 230299,
@@ -1491,6 +1539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 204911,
+      "num": 204911,
+      "word": "佳偶天成杀青",
+      "onboard_time": 1737943936,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204806,
       "num": 215842,
       "word": "此沙发长文回应素人时期",
@@ -1545,14 +1601,6 @@
       "onboard_time": 1737888498,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 199210,
-      "num": 199210,
-      "word": "自驾4000公里回家主人和狗都麻了",
-      "onboard_time": 1737940097,
-      "rank": 19,
-      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 199003,
@@ -1651,6 +1699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192631,
+      "num": 192631,
+      "word": "特朗普称将来美国可能大幅扩张",
+      "onboard_time": 1737944776,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 192578,
       "num": 192578,
       "word": "肖战春天花会开幸福向未来",
@@ -1705,6 +1761,14 @@
       "onboard_time": 1737868698,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186571,
+      "num": 170873,
+      "word": "张雨霏第一次上春晚有点紧张",
+      "onboard_time": 1737944536,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 184025,
@@ -1795,6 +1859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174752,
+      "num": 174752,
+      "word": "A股",
+      "onboard_time": 1737944356,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 173725,
       "num": 173725,
       "word": "刘晓庆吃苦论",
@@ -1841,14 +1913,6 @@
       "onboard_time": 1737862038,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 170438,
-      "num": 263694,
-      "word": "北京一车失控坠河民警跳河营救",
-      "onboard_time": 1737939257,
-      "rank": 29,
-      "category": "正能量"
     },
     {
       "raw_hot": 170294,
@@ -2107,6 +2171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154112,
+      "num": 154112,
+      "word": "肖战版射雕领跑春节档预售",
+      "onboard_time": 1737935655,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 153950,
       "num": 153950,
       "word": "朴彩英首唱vampirehollie",
@@ -2347,6 +2419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139958,
+      "num": 139958,
+      "word": "吃撑24小时后身体的变化",
+      "onboard_time": 1737942436,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 139153,
       "num": 166325,
       "word": "陈丽君60秒演绎百年越剧情",
@@ -2361,14 +2441,6 @@
       "onboard_time": 1737871638,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 138819,
-      "num": 132087,
-      "word": "260平米只做了两房的家",
-      "onboard_time": 1737941117,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 138533,
@@ -2539,6 +2611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130751,
+      "num": 130751,
+      "word": "比尔盖茨与特朗普讨论艾滋病",
+      "onboard_time": 1737943636,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 130720,
       "num": 130720,
       "word": "丁禹兮给剧组工作人员发红包",
@@ -2665,6 +2745,14 @@
       "onboard_time": 1737860357,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123209,
+      "num": 153972,
+      "word": "19岁电竞选手幻云疑遭遇杀猪盘",
+      "onboard_time": 1737943157,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 121950,
@@ -3067,6 +3155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104258,
+      "num": 104258,
+      "word": "尹锡悦将在牢房过年顿顿都有泡菜",
+      "onboard_time": 1737945556,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 104096,
       "num": 225366,
       "word": "澳大利亚怎么这么好玩",
@@ -3161,14 +3257,6 @@
       "onboard_time": 1737812303,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 101341,
-      "num": 101341,
-      "word": "肖战版射雕领跑春节档预售",
-      "onboard_time": 1737935655,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 100581,
@@ -3315,6 +3403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93240,
+      "num": 93240,
+      "word": "DeepSeek美区苹果下载榜超过ChatGPT",
+      "onboard_time": 1737943037,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 91699,
       "num": 91699,
       "word": "DeepSeek为何震动美国科技界",
@@ -3443,6 +3539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 84975,
+      "num": 84975,
+      "word": "白鹿为白烁换了12次头像",
+      "onboard_time": 1737945917,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 84406,
       "num": 206822,
       "word": "致敬坚守岗位的每个你",
@@ -3499,14 +3603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 82000,
-      "num": 261461,
-      "word": "全球掀DeepSeek复现狂潮",
-      "onboard_time": 1737942016,
-      "rank": 40,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 81456,
       "num": 81456,
       "word": "杨紫 我怕你赶不上飞机",
@@ -3545,14 +3641,6 @@
       "onboard_time": 1737861197,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 79197,
-      "num": 79197,
-      "word": "吃撑24小时后身体的变化",
-      "onboard_time": 1737942436,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 78729,
@@ -3617,6 +3705,14 @@
       "onboard_time": 1737865938,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 75991,
+      "num": 75991,
+      "word": "全红婵今年回家过年了",
+      "onboard_time": 1737946157,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 75434,
@@ -4537,14 +4633,6 @@
       "onboard_time": 1737922512,
       "rank": 21,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 10050,
-      "num": 88756,
-      "word": "DeepSeek美区苹果下载榜超过ChatGPT",
-      "onboard_time": 1737943037,
-      "rank": 42,
-      "category": "互联网"
     },
     {
       "raw_hot": 9598,
