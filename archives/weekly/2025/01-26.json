@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1737955307859,
+  "endTime": 1737956301312,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1464940,
+      "num": 1464940,
+      "word": "DeepSeek",
+      "onboard_time": 1737947955,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1458544,
       "num": 288476,
       "word": "张大大助理发离职证明",
@@ -89,14 +97,6 @@
       "onboard_time": 1737946817,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1400204,
-      "num": 1400204,
-      "word": "DeepSeek",
-      "onboard_time": 1737947955,
-      "rank": 21,
-      "category": "互联网"
     },
     {
       "raw_hot": 1232147,
@@ -283,20 +283,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 853148,
+      "num": 844496,
+      "word": "李小冉不语只洗碗",
+      "onboard_time": 1737953176,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 844800,
       "num": 844800,
       "word": "举报雷军开车直播的网友回应",
       "onboard_time": 1737847395,
       "rank": 26,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 844496,
-      "num": 844496,
-      "word": "李小冉不语只洗碗",
-      "onboard_time": 1737953176,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 824235,
@@ -443,6 +443,22 @@
       "category": "艺人,演出"
     },
     {
+      "raw_hot": 647049,
+      "num": 647049,
+      "word": "全红婵说出05后收红包心声",
+      "onboard_time": 1737952337,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 644141,
+      "num": 407338,
+      "word": "想象中的豪门vs真实的豪门",
+      "onboard_time": 1737952277,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 634456,
       "num": 364455,
       "word": "赵露思坦言有过瘫痪失语症状",
@@ -465,14 +481,6 @@
       "onboard_time": 1737900441,
       "rank": 11,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 622313,
-      "num": 407338,
-      "word": "想象中的豪门vs真实的豪门",
-      "onboard_time": 1737952277,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 621939,
@@ -499,20 +507,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 597730,
+      "num": 597730,
+      "word": "薛之谦 春晚",
+      "onboard_time": 1737953057,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 589698,
       "num": 589698,
       "word": "女子买短乘长高铁霸座被拘",
       "onboard_time": 1737822079,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 586721,
-      "num": 586721,
-      "word": "薛之谦 春晚",
-      "onboard_time": 1737953057,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 568860,
@@ -729,14 +737,6 @@
       "onboard_time": 1737883399,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 466651,
-      "num": 466651,
-      "word": "全红婵说出05后收红包心声",
-      "onboard_time": 1737952337,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 457432,
@@ -1499,6 +1499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 240191,
+      "num": 180279,
+      "word": "白鹿红旗袍",
+      "onboard_time": 1737954078,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239907,
       "num": 239907,
       "word": "河南春晚",
@@ -1609,6 +1617,14 @@
       "onboard_time": 1737896239,
       "rank": 16,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 220122,
+      "num": 178391,
+      "word": "尚公主 男主",
+      "onboard_time": 1737953538,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 218945,
@@ -1915,6 +1931,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 190507,
+      "num": 155226,
+      "word": "上城士杨幂开年封面",
+      "onboard_time": 1737956056,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 189801,
       "num": 189801,
       "word": "第一次见国产剧婆媳处成母女",
@@ -1995,14 +2019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 180279,
-      "num": 180279,
-      "word": "白鹿红旗袍",
-      "onboard_time": 1737954078,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 180238,
       "num": 180238,
       "word": "吴倩特别主演",
@@ -2024,14 +2040,6 @@
       "word": "为爱跳槽发现0人关心",
       "onboard_time": 1737896600,
       "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 178391,
-      "num": 178391,
-      "word": "尚公主 男主",
-      "onboard_time": 1737953538,
-      "rank": 23,
       "category": "剧集"
     },
     {
@@ -2148,7 +2156,7 @@
     },
     {
       "raw_hot": 170440,
-      "num": 170440,
+      "num": 178171,
       "word": "撒贝宁今年春晚会戴蛇头帽吗",
       "onboard_time": 1737952756,
       "rank": 43,
@@ -2217,6 +2225,14 @@
       "onboard_time": 1737899060,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166224,
+      "num": 157985,
+      "word": "张远真能藏啊",
+      "onboard_time": 1737952877,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 165990,
@@ -2315,6 +2331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160683,
+      "num": 208195,
+      "word": "余承东直播开车备案了",
+      "onboard_time": 1737952277,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 159883,
       "num": 159883,
       "word": "白鹿说阿烁别哭向前走吧",
@@ -2345,14 +2369,6 @@
       "onboard_time": 1737884418,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 157985,
-      "num": 157985,
-      "word": "张远真能藏啊",
-      "onboard_time": 1737952877,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 157855,
@@ -2449,6 +2465,14 @@
       "onboard_time": 1737810922,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 152574,
+      "num": 152574,
+      "word": "老人将奶粉罐爆改成炸丸子神器",
+      "onboard_time": 1737952756,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152200,
@@ -2779,14 +2803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136950,
-      "num": 136950,
-      "word": "老人将奶粉罐爆改成炸丸子神器",
-      "onboard_time": 1737952756,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136283,
       "num": 139595,
       "word": "柯洁直播称自己吃不下东西",
@@ -2825,14 +2841,6 @@
       "onboard_time": 1737878057,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134939,
-      "num": 208195,
-      "word": "余承东直播开车备案了",
-      "onboard_time": 1737952277,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 134821,
@@ -3387,6 +3395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108530,
+      "num": 108530,
+      "word": "巳巳如意中国年",
+      "onboard_time": 1737955637,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108513,
       "num": 108513,
       "word": "黄毛毛连发三个谢谢贵司",
@@ -3635,6 +3651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 101242,
+      "num": 101242,
+      "word": "雷军挖角的AI天才来自DeepSeek",
+      "onboard_time": 1737954977,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 100942,
       "num": 100942,
       "word": "淮水竹亭岁岁欢喜花絮",
@@ -3819,6 +3843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94669,
+      "num": 94669,
+      "word": "罗爷爷的动物园",
+      "onboard_time": 1737955577,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94616,
       "num": 184121,
       "word": "国羽全队送上新春祝福",
@@ -3835,12 +3867,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 92326,
-      "num": 92326,
-      "word": "雷军挖角的AI天才来自DeepSeek",
-      "onboard_time": 1737954977,
-      "rank": 43,
-      "category": "互联网"
+      "raw_hot": 92720,
+      "num": 351436,
+      "word": "尹锡悦将在单人牢房过年",
+      "onboard_time": 1737953896,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 91699,
@@ -3953,14 +3985,6 @@
       "onboard_time": 1737893359,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 85923,
-      "num": 85923,
-      "word": "尹锡悦将在单人牢房过年",
-      "onboard_time": 1737953896,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 85544,
@@ -4115,6 +4139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78468,
+      "num": 78468,
+      "word": "A股龙年最后一个交易日",
+      "onboard_time": 1737956176,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 78105,
       "num": 142301,
       "word": "杨幂上城士开年刊",
@@ -4185,6 +4217,14 @@
       "onboard_time": 1737939317,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73445,
+      "num": 144777,
+      "word": "韩东君这次训练真上强度了",
+      "onboard_time": 1737956056,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 73331,
@@ -4891,7 +4931,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 24227,
+      "raw_hot": 24617,
       "num": 860448,
       "word": "一家人都要过上好日子",
       "onboard_time": 1737951077,
@@ -5009,6 +5049,14 @@
       "onboard_time": 1737827834,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18846,
+      "num": 94864,
+      "word": "百财饺子",
+      "onboard_time": 1737955757,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 18834,
