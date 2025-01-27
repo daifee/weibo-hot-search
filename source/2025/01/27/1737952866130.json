@@ -1,0 +1,410 @@
+{
+  "runTime": 1737952866130,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1230680,
+        "num": 1230680,
+        "word": "八旬老人靠彩票中奖养活一个动物园",
+        "onboard_time": 1737949096,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 938817,
+        "num": 938817,
+        "word": "张纯如父亲离世",
+        "onboard_time": 1737946817,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16814,
+        "num": 628266,
+        "word": "一家人都要过上好日子",
+        "onboard_time": 1737951077,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 518264,
+        "num": 518264,
+        "word": "OneRepublic将登上春晚",
+        "onboard_time": 1737944897,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 508531,
+        "num": 508531,
+        "word": "卢昱晓演技",
+        "onboard_time": 1737946877,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 553656,
+        "num": 507875,
+        "word": "尹锡悦将在牢房过年顿顿都有泡菜",
+        "onboard_time": 1737945556,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 506572,
+        "num": 506572,
+        "word": "DeepSeek",
+        "onboard_time": 1737947955,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 469216,
+        "num": 469216,
+        "word": "2025年总台春晚完成全部五次彩排",
+        "onboard_time": 1737939497,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413197,
+        "num": 413197,
+        "word": "韩国空难飞机发动机吸入花脸鸭",
+        "onboard_time": 1737938355,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 23839,
+        "num": 369812,
+        "word": "你的年味氛围组已就位",
+        "onboard_time": 1737951737,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 416337,
+        "num": 359182,
+        "word": "赵露思康复过程好多奶奶的身影",
+        "onboard_time": 1737939197,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344973,
+        "num": 344973,
+        "word": "灯花笑 鞠婧祎",
+        "onboard_time": 1737951436,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80071,
+        "num": 304029,
+        "word": "巳升升耍了一下杂技",
+        "onboard_time": 1737950537,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292325,
+        "num": 292325,
+        "word": "王鹤润领衔主演佳偶天成",
+        "onboard_time": 1737949816,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289048,
+        "num": 289048,
+        "word": "鲜活帝王蟹价格跌破千元",
+        "onboard_time": 1737950537,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 286706,
+        "num": 286706,
+        "word": "陈小春突然想起自己签了保密协议",
+        "onboard_time": 1737904460,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248676,
+        "num": 248676,
+        "word": "全红婵今年回家过年了",
+        "onboard_time": 1737946157,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221198,
+        "num": 221198,
+        "word": "战鹰发文向柯洁道歉",
+        "onboard_time": 1737936255,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205507,
+        "num": 205507,
+        "word": "李子柒用她的方式传承非遗春节",
+        "onboard_time": 1737951077,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 197040,
+        "num": 197040,
+        "word": "员工多次值班期间上厕所被开除",
+        "onboard_time": 1737951077,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 531352,
+        "num": 196549,
+        "word": "因张大大有流量老板经常给他换人",
+        "onboard_time": 1737936136,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342773,
+        "num": 196069,
+        "word": "女主强制爱男主强制恨",
+        "onboard_time": 1737949698,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292953,
+        "num": 194703,
+        "word": "杭州山姆超市被采购大军攻陷",
+        "onboard_time": 1737949816,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237317,
+        "num": 194498,
+        "word": "想象中的豪门vs真实的豪门",
+        "onboard_time": 1737952277,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200110,
+        "num": 192925,
+        "word": "全红婵说出05后收红包心声",
+        "onboard_time": 1737952337,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290807,
+        "num": 192241,
+        "word": "黄毛毛问张大大睡了吗",
+        "onboard_time": 1737939557,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203500,
+        "num": 191947,
+        "word": "封神解释家和家人的意义",
+        "onboard_time": 1737944837,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191121,
+        "num": 191121,
+        "word": "红包封面",
+        "onboard_time": 1737952157,
+        "rank": 27,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 187566,
+        "num": 187566,
+        "word": "中国银幕封面肖战",
+        "onboard_time": 1737951737,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177647,
+        "num": 177647,
+        "word": "央视海采发现一位爱老婆狂魔",
+        "onboard_time": 1737948197,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171041,
+        "num": 171041,
+        "word": "胖东来一天狂卖1.3亿元",
+        "onboard_time": 1737952097,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 43027,
+        "num": 165442,
+        "word": "春联文化知识点",
+        "onboard_time": 1737935295,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164585,
+        "num": 164585,
+        "word": "金铲铲给柯洁疯狂刷礼物",
+        "onboard_time": 1737948317,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159197,
+        "num": 159197,
+        "word": "经纪公司回应王嘉尔病情",
+        "onboard_time": 1737950898,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145329,
+        "num": 145329,
+        "word": "明天除夕",
+        "onboard_time": 1737934815,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133799,
+        "num": 133799,
+        "word": "男子遇暴雪2小时回家路开了一天",
+        "onboard_time": 1737946996,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132174,
+        "num": 132174,
+        "word": "内娱异域美又有新面孔了",
+        "onboard_time": 1737949757,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131197,
+        "num": 131197,
+        "word": "以为是肖申克结果是兔刀乐",
+        "onboard_time": 1737951316,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120544,
+        "num": 120544,
+        "word": "第一批回家的人已经上桌了",
+        "onboard_time": 1737951977,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119672,
+        "num": 119672,
+        "word": "无忧传媒",
+        "onboard_time": 1737939616,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 115376,
+        "num": 115376,
+        "word": "李月汝被交易",
+        "onboard_time": 1737951557,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113599,
+        "num": 113599,
+        "word": "余承东直播自驾回家",
+        "onboard_time": 1737950298,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 112124,
+        "num": 112124,
+        "word": "余承东直播开车备案了",
+        "onboard_time": 1737952277,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 103621,
+        "num": 103621,
+        "word": "撒贝宁今年春晚会戴蛇头帽吗",
+        "onboard_time": 1737952756,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102773,
+        "num": 102773,
+        "word": "敖瑞鹏收官文",
+        "onboard_time": 1737950117,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101532,
+        "num": 101532,
+        "word": "送你蛇年超绝福字",
+        "onboard_time": 1737950417,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99135,
+        "num": 99135,
+        "word": "黄圣池新剧娇夫感",
+        "onboard_time": 1737952097,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98869,
+        "num": 98869,
+        "word": "A股",
+        "onboard_time": 1737944356,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 96670,
+        "num": 96670,
+        "word": "老人将奶粉罐爆改成炸丸子神器",
+        "onboard_time": 1737952756,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95816,
+        "num": 95816,
+        "word": "年前最后一个工作日了",
+        "onboard_time": 1737933613,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记考察足迹里的温暖瞬间#"
+    }
+  }
+}
