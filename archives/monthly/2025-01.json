@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737996157497,
+  "endTime": 1737998390429,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -16332,7 +16332,7 @@
     },
     {
       "raw_hot": 453392,
-      "num": 453392,
+      "num": 520111,
       "word": "蛇年怕蛇怎么办",
       "onboard_time": 1737992597,
       "rank": 5,
@@ -36435,6 +36435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 201977,
+      "num": 280016,
+      "word": "拜年文案给你准备好了",
+      "onboard_time": 1737993858,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201928,
       "num": 201928,
       "word": "尹锡悦正式进入拘留所",
@@ -41065,6 +41073,14 @@
       "onboard_time": 1736426782,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186752,
+      "num": 186752,
+      "word": "张踩铃一家梗太密了",
+      "onboard_time": 1737995655,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 186725,
@@ -46123,14 +46139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 168056,
-      "num": 280016,
-      "word": "拜年文案给你准备好了",
-      "onboard_time": 1737993858,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 168038,
       "num": 168038,
       "word": "张康乐说马柏全爱招惹他",
@@ -47217,6 +47225,14 @@
       "onboard_time": 1737512657,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 164998,
+      "num": 164998,
+      "word": "新加坡环球影城偶遇丁程鑫",
+      "onboard_time": 1737996256,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 164971,
@@ -50931,6 +50947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153254,
+      "num": 195102,
+      "word": "因Deepseek日本欧洲相关股价大跌",
+      "onboard_time": 1737996615,
+      "rank": 9,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 153110,
       "num": 153110,
       "word": "第一次见疯批洗脑把自己洗哭了",
@@ -52425,6 +52449,14 @@
       "onboard_time": 1736514203,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 148112,
+      "num": 148112,
+      "word": "蛇年拜年文案",
+      "onboard_time": 1737996137,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148095,
@@ -70251,14 +70283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 95355,
-      "num": 95355,
-      "word": "张踩铃一家梗太密了",
-      "onboard_time": 1737995655,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 95349,
       "num": 255690,
       "word": "孙颖莎继续世排第1",
@@ -72865,6 +72889,14 @@
       "onboard_time": 1737347299,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 82020,
+      "num": 82020,
+      "word": "养了两年的猫咪突然攻击人",
+      "onboard_time": 1737997336,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81955,
@@ -75851,14 +75883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 62262,
-      "num": 62262,
-      "word": "蛇年拜年文案",
-      "onboard_time": 1737996137,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 62210,
       "num": 337817,
       "word": "银川地震亲历者发声",
@@ -76601,6 +76625,14 @@
       "onboard_time": 1736563521,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 58331,
+      "num": 58331,
+      "word": "肖战谈什么是真正的英雄",
+      "onboard_time": 1737997214,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 58179,

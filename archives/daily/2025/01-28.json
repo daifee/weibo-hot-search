@@ -1,6 +1,6 @@
 {
   "startTime": 1737995245772,
-  "endTime": 1737996157497,
+  "endTime": 1737998390429,
   "band_list": [
     {
       "raw_hot": 3185801,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 453392,
-      "num": 453392,
+      "num": 520111,
       "word": "蛇年怕蛇怎么办",
       "onboard_time": 1737992597,
       "rank": 5,
@@ -131,6 +131,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 201977,
+      "num": 280016,
+      "word": "拜年文案给你准备好了",
+      "onboard_time": 1737993858,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201642,
       "num": 201642,
       "word": "英伟达市值蒸发超3000亿美元",
@@ -147,12 +155,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 168056,
-      "num": 280016,
-      "word": "拜年文案给你准备好了",
-      "onboard_time": 1737993858,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 186752,
+      "num": 186752,
+      "word": "张踩铃一家梗太密了",
+      "onboard_time": 1737995655,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 164998,
+      "num": 164998,
+      "word": "新加坡环球影城偶遇丁程鑫",
+      "onboard_time": 1737996256,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 153533,
@@ -171,12 +187,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 153254,
+      "num": 195102,
+      "word": "因Deepseek日本欧洲相关股价大跌",
+      "onboard_time": 1737996615,
+      "rank": 9,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 148781,
       "num": 148781,
       "word": "外交部回应是否接回在美非法中国移民",
       "onboard_time": 1737984559,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 148112,
+      "num": 148112,
+      "word": "蛇年拜年文案",
+      "onboard_time": 1737996137,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146014,
@@ -291,14 +323,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 95355,
-      "num": 95355,
-      "word": "张踩铃一家梗太密了",
-      "onboard_time": 1737995655,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 93982,
       "num": 93982,
       "word": "五福临门这是考公还是考老公",
@@ -329,6 +353,14 @@
       "onboard_time": 1737984618,
       "rank": 40,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 82020,
+      "num": 82020,
+      "word": "养了两年的猫咪突然攻击人",
+      "onboard_time": 1737997336,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80306,
@@ -411,12 +443,20 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 62262,
-      "num": 62262,
-      "word": "蛇年拜年文案",
-      "onboard_time": 1737996137,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 59251,
+      "num": 59251,
+      "word": "英伟达老对手力挺DeepSeek",
+      "onboard_time": 1737982938,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 58331,
+      "num": 58331,
+      "word": "肖战谈什么是真正的英雄",
+      "onboard_time": 1737997214,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 46368,

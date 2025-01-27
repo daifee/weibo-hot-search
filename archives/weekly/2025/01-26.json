@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1737996157497,
+  "endTime": 1737998390429,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -1044,7 +1044,7 @@
     },
     {
       "raw_hot": 453392,
-      "num": 453392,
+      "num": 520111,
       "word": "蛇年怕蛇怎么办",
       "onboard_time": 1737992597,
       "rank": 5,
@@ -2395,6 +2395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 201977,
+      "num": 280016,
+      "word": "拜年文案给你准备好了",
+      "onboard_time": 1737993858,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201715,
       "num": 192531,
       "word": "男子4年春节不回家江底守护万家灯火",
@@ -2657,6 +2665,14 @@
       "onboard_time": 1737954977,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 186752,
+      "num": 186752,
+      "word": "张踩铃一家梗太密了",
+      "onboard_time": 1737995655,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 185568,
@@ -2939,14 +2955,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 168056,
-      "num": 280016,
-      "word": "拜年文案给你准备好了",
-      "onboard_time": 1737993858,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 167902,
       "num": 167902,
       "word": "年夜饭",
@@ -3041,6 +3049,14 @@
       "onboard_time": 1737868997,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164998,
+      "num": 164998,
+      "word": "新加坡环球影城偶遇丁程鑫",
+      "onboard_time": 1737996256,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 164624,
@@ -3347,6 +3363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 153254,
+      "num": 195102,
+      "word": "因Deepseek日本欧洲相关股价大跌",
+      "onboard_time": 1737996615,
+      "rank": 9,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 152574,
       "num": 152574,
       "word": "老人将奶粉罐爆改成炸丸子神器",
@@ -3441,6 +3465,14 @@
       "onboard_time": 1737897920,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148112,
+      "num": 148112,
+      "word": "蛇年拜年文案",
+      "onboard_time": 1737996137,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147975,
@@ -5203,14 +5235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 95355,
-      "num": 95355,
-      "word": "张踩铃一家梗太密了",
-      "onboard_time": 1737995655,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 95121,
       "num": 95121,
       "word": "国产AI登顶苹果中国及美国免费应用榜",
@@ -5585,6 +5609,14 @@
       "onboard_time": 1737817163,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 82020,
+      "num": 82020,
+      "word": "养了两年的猫咪突然攻击人",
+      "onboard_time": 1737997336,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81955,
@@ -5995,14 +6027,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 62262,
-      "num": 62262,
-      "word": "蛇年拜年文案",
-      "onboard_time": 1737996137,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 61777,
       "num": 168919,
       "word": "刘宇与粉丝双向奔赴MV",
@@ -6097,6 +6121,14 @@
       "onboard_time": 1737877698,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58331,
+      "num": 58331,
+      "word": "肖战谈什么是真正的英雄",
+      "onboard_time": 1737997214,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 57873,
