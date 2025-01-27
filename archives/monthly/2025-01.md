@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/27 18:41:18
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/27 19:19:15
 </p>
 </blockquote>
 <p>
@@ -4161,6 +4161,12 @@ D3014次列车因撞鸟临时停车（热度：1020662）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A3%E9%9C%B2%E5%A8%83%E6%AD%BB%E5%98%B4%E5%BF%AB%E6%86%8B%E4%BD%8F%E5%95%8A%23" target="weibo">
+代露娃死嘴快憋住啊（热度：1003264）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E9%87%8C%E6%96%AF%E5%AE%A3%E5%B8%83%E7%89%B9%E6%9C%97%E6%99%AE%E5%BD%93%E9%80%89%E5%90%8E%E6%8E%8F%E5%87%BA%E7%BA%B8%E5%B7%BE%23" target="weibo">
 哈里斯宣布特朗普当选后掏出纸巾（热度：1002962）
 </a>
@@ -6005,12 +6011,6 @@ B站拿下春晚转播权（热度：825759）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%8E%E5%BE%B7%20%E6%AA%80%E5%81%A5%E6%AC%A1%23" target="weibo">
 李明德 檀健次（热度：801179）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E7%BB%8F%E6%A3%A3%E4%B9%89%23" target="weibo">
-天经棣义（热度：800840）
 </a>
 </li>
 

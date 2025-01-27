@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1737974478451,
+  "endTime": 1737976755022,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1003264,
+      "num": 411086,
+      "word": "代露娃死嘴快憋住啊",
+      "onboard_time": 1737971056,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1000646,
       "num": 204535,
       "word": "因张大大有流量老板经常给他换人",
@@ -371,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 768085,
+      "num": 768085,
+      "word": "王菲55岁怎么一点姨感都没有",
+      "onboard_time": 1737968597,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 761138,
       "num": 256792,
       "word": "谢娜曾批张大大迷之自信",
@@ -507,16 +523,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 640266,
-      "num": 640266,
-      "word": "王菲55岁怎么一点姨感都没有",
-      "onboard_time": 1737968597,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 637962,
-      "num": 175723,
+      "num": 246050,
       "word": "顾茜茜的保时捷卖了",
       "onboard_time": 1737960976,
       "rank": 20,
@@ -691,6 +699,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 529541,
+      "num": 281375,
+      "word": "50岁自驾阿姨苏敏离婚",
+      "onboard_time": 1737974776,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 529402,
       "num": 529402,
       "word": "新娘坐高铁去结婚收获全车祝福",
@@ -737,6 +753,14 @@
       "onboard_time": 1737856938,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 511542,
+      "num": 457101,
+      "word": "宋佳我体制内的姐",
+      "onboard_time": 1737971537,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 510866,
@@ -801,14 +825,6 @@
       "onboard_time": 1737885378,
       "rank": 3,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 494776,
-      "num": 457101,
-      "word": "宋佳我体制内的姐",
-      "onboard_time": 1737971537,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 481084,
@@ -979,14 +995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 411086,
-      "num": 411086,
-      "word": "代露娃死嘴快憋住啊",
-      "onboard_time": 1737971056,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 406521,
       "num": 299789,
       "word": "白色橄榄树官宣12首OST",
@@ -1081,6 +1089,14 @@
       "onboard_time": 1737894379,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 380656,
+      "num": 277023,
+      "word": "留守猫咪",
+      "onboard_time": 1737971777,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 378590,
@@ -1331,6 +1347,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 297122,
+      "num": 297122,
+      "word": "东方卫视蛇年春晚阵容",
+      "onboard_time": 1737975137,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 295389,
       "num": 295389,
       "word": "明天除夕",
@@ -1481,6 +1505,14 @@
       "onboard_time": 1737941117,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 273441,
+      "num": 273441,
+      "word": "藏海传包场肖战射雕",
+      "onboard_time": 1737974296,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 273005,
@@ -2219,14 +2251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 187346,
-      "num": 187346,
-      "word": "留守猫咪",
-      "onboard_time": 1737971777,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 187200,
       "num": 194563,
       "word": "雷军挖角的AI天才来自DeepSeek",
@@ -2491,14 +2515,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 167143,
-      "num": 167143,
-      "word": "藏海传包场肖战射雕",
-      "onboard_time": 1737974296,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 167067,
       "num": 195186,
       "word": "成毅莲花楼重回电视剧飙升榜第一",
@@ -2513,6 +2529,14 @@
       "onboard_time": 1737865219,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166613,
+      "num": 166613,
+      "word": "国际奥委会专访孙颖莎",
+      "onboard_time": 1737975137,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 166299,
@@ -2707,6 +2731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 157645,
+      "num": 157645,
+      "word": "长夜相思入星河",
+      "onboard_time": 1737973877,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157070,
       "num": 157070,
       "word": "网红犬哈礼鹿去世",
@@ -2771,6 +2803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154406,
+      "num": 153004,
+      "word": "樊振东跟樊振东打球",
+      "onboard_time": 1737975437,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154282,
       "num": 154282,
       "word": "无忧传媒称推动双方达成和解补偿",
@@ -2801,6 +2841,14 @@
       "onboard_time": 1737810922,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 153229,
+      "num": 153229,
+      "word": "王星越直播",
+      "onboard_time": 1737976517,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 152574,
@@ -3419,6 +3467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127580,
+      "num": 127580,
+      "word": "李现红衣持扇收官海报",
+      "onboard_time": 1737976037,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127224,
       "num": 127224,
       "word": "6岁小朋友乘直升机回家过年",
@@ -3433,6 +3489,14 @@
       "onboard_time": 1737877337,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127044,
+      "num": 127044,
+      "word": "昆明下雪昆明人belike",
+      "onboard_time": 1737972977,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126917,
@@ -3563,6 +3627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122582,
+      "num": 122582,
+      "word": "虞书欣九周钻3登榜女艺人",
+      "onboard_time": 1737973698,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 121950,
       "num": 121950,
       "word": "电影哪吒之魔童闹海",
@@ -3601,14 +3673,6 @@
       "onboard_time": 1737971537,
       "rank": 28,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 121075,
-      "num": 121075,
-      "word": "长夜相思入星河",
-      "onboard_time": 1737973877,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 120889,
@@ -3920,14 +3984,6 @@
       "word": "00后有自己的传承细糠",
       "onboard_time": 1737948197,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 109879,
-      "num": 109879,
-      "word": "昆明下雪昆明人belike",
-      "onboard_time": 1737972977,
-      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -4291,6 +4347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100377,
+      "num": 100377,
+      "word": "卢卡申科称白俄罗斯永远不会反华",
+      "onboard_time": 1737975856,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 100334,
       "num": 169586,
       "word": "魏大勋温暖讲述春节里的中国",
@@ -4385,6 +4449,14 @@
       "onboard_time": 1737960375,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97414,
+      "num": 97414,
+      "word": "五福临门有自己的前夫哥",
+      "onboard_time": 1737976397,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 96982,
@@ -4787,6 +4859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 82734,
+      "num": 247839,
+      "word": "90后小伙给全村老人办春晚",
+      "onboard_time": 1737974717,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82378,
       "num": 175730,
       "word": "DeepSeek正打破算力为王行业规则",
@@ -4979,6 +5059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74449,
+      "num": 74449,
+      "word": "DeepSeek暂不对外进行项目合作",
+      "onboard_time": 1737975677,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 73445,
       "num": 144777,
       "word": "韩东君这次训练真上强度了",
@@ -5017,6 +5105,14 @@
       "onboard_time": 1737898520,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 71014,
+      "num": 278332,
+      "word": "被接力护送返乡视障女孩发微博",
+      "onboard_time": 1737975557,
+      "rank": 14,
+      "category": "正能量"
     },
     {
       "raw_hot": 70924,
@@ -5273,14 +5369,6 @@
       "onboard_time": 1737911475,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 53173,
-      "num": 89749,
-      "word": "虞书欣九周钻3登榜女艺人",
-      "onboard_time": 1737973698,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 52993,
@@ -5675,6 +5763,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 29068,
+      "num": 369812,
+      "word": "你的年味氛围组已就位",
+      "onboard_time": 1737951737,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28780,
       "num": 201617,
       "word": "泽连斯基澄清美国对乌军援未停止",
@@ -5787,6 +5883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 24709,
+      "num": 151307,
+      "word": "爆火的国产AI大模型背后的年轻人",
+      "onboard_time": 1737976517,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 24567,
       "num": 187561,
       "word": "春晚大赏今日发健康运",
@@ -5809,14 +5913,6 @@
       "onboard_time": 1737831972,
       "rank": 44,
       "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 23839,
-      "num": 369812,
-      "word": "你的年味氛围组已就位",
-      "onboard_time": 1737951737,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23719,
@@ -5984,6 +6080,14 @@
       "word": "白鹿未来的日子都不要烦心",
       "onboard_time": 1737917292,
       "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 15171,
+      "num": 279072,
+      "word": "柴安比萧蘅更像王星越",
+      "onboard_time": 1737976277,
+      "rank": 13,
       "category": "剧集"
     },
     {
