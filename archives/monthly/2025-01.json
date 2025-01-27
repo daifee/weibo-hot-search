@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1737985129996,
+  "endTime": 1737987692059,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -4203,6 +4203,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1175257,
+      "num": 1188041,
+      "word": "倪萍曾救下想轻生的宋丹丹",
+      "onboard_time": 1737983178,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1173665,
       "num": 534422,
       "word": "国色芳华 知否味",
@@ -5459,14 +5467,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1013439,
-      "num": 1162150,
-      "word": "倪萍曾救下想轻生的宋丹丹",
-      "onboard_time": 1737983178,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1011705,
       "num": 1011705,
       "word": "大奉打更人第二季",
@@ -6665,6 +6665,14 @@
       "onboard_time": 1736483542,
       "rank": 37,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 907234,
+      "num": 907234,
+      "word": "姜妍好漂亮",
+      "onboard_time": 1737985818,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 906235,
@@ -14564,7 +14572,7 @@
     },
     {
       "raw_hot": 503682,
-      "num": 205589,
+      "num": 213214,
       "word": "一想到明天大家都要集体洗头",
       "onboard_time": 1737977597,
       "rank": 40,
@@ -15257,6 +15265,14 @@
       "onboard_time": 1737342378,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 481536,
+      "num": 300386,
+      "word": "陈哲远 直拍来了",
+      "onboard_time": 1737984500,
+      "rank": 14,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 481438,
@@ -16873,6 +16889,14 @@
       "onboard_time": 1735960518,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 441274,
+      "num": 441274,
+      "word": "外交部回应是否接回在美非法中国移民",
+      "onboard_time": 1737984559,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 441011,
@@ -18555,14 +18579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 400952,
-      "num": 251908,
-      "word": "陈哲远 直拍来了",
-      "onboard_time": 1737984500,
-      "rank": 14,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 400864,
       "num": 400864,
       "word": "李昀锐张真源又见面了",
@@ -19121,6 +19137,14 @@
       "onboard_time": 1735773675,
       "rank": 21,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 389719,
+      "num": 389719,
+      "word": "暴雪高速封禁新娘乘高铁去婚礼现场",
+      "onboard_time": 1737982637,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 389705,
@@ -20809,6 +20833,14 @@
       "onboard_time": 1737516259,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 359775,
+      "num": 280664,
+      "word": "辽视春晚小品",
+      "onboard_time": 1737984197,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 359625,
@@ -24939,14 +24971,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 295863,
-      "num": 295863,
-      "word": "暴雪高速封禁新娘乘高铁去婚礼现场",
-      "onboard_time": 1737982637,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 295389,
       "num": 295389,
       "word": "明天除夕",
@@ -25249,6 +25273,14 @@
       "onboard_time": 1736831179,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 291746,
+      "num": 214366,
+      "word": "权志龙的外套是郑亨敦在市场买的",
+      "onboard_time": 1737984020,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 291676,
@@ -26643,6 +26675,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 275360,
+      "num": 211194,
+      "word": "周涛 妈咪你美",
+      "onboard_time": 1737984859,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275346,
       "num": 225459,
       "word": "李昀锐断眉",
@@ -26777,6 +26817,14 @@
       "onboard_time": 1736499141,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 273997,
+      "num": 273997,
+      "word": "银行回应瘫痪老人被抬到银行",
+      "onboard_time": 1737985998,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 273995,
@@ -30483,14 +30531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 238629,
-      "num": 143243,
-      "word": "辽视春晚小品",
-      "onboard_time": 1737984197,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 238614,
       "num": 238614,
       "word": "柯洁再次提子未放盒盖上",
@@ -30713,6 +30753,14 @@
       "onboard_time": 1736687842,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 236638,
+      "num": 215996,
+      "word": "霉霉与男友接吻庆祝",
+      "onboard_time": 1737984679,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 236486,
@@ -31289,6 +31337,14 @@
       "onboard_time": 1737024378,
       "rank": 19,
       "category": "数码,民生新闻"
+    },
+    {
+      "raw_hot": 231040,
+      "num": 209464,
+      "word": "OneRepublic确认将登上央视春晚",
+      "onboard_time": 1737983538,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 230936,
@@ -32371,6 +32427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 222046,
+      "num": 208165,
+      "word": "白鹿敖瑞鹏共创视频点赞破千万",
+      "onboard_time": 1737987020,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222002,
       "num": 197021,
       "word": "当韩国人第一次去逛中国菜市场",
@@ -32952,6 +33016,14 @@
       "word": "河南一地要求理发店做空气检测",
       "onboard_time": 1737580451,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 218400,
+      "num": 218400,
+      "word": "年轻人在过年前和父母达成共识",
+      "onboard_time": 1737982039,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -34971,6 +35043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206868,
+      "num": 206868,
+      "word": "肖战在春晚后台套圈",
+      "onboard_time": 1737986540,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206817,
       "num": 206817,
       "word": "淄博职业学院升本",
@@ -36203,14 +36283,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 202019,
-      "num": 146542,
-      "word": "权志龙的外套是郑亨敦在市场买的",
-      "onboard_time": 1737984020,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 201997,
       "num": 201997,
       "word": "张馨予养的蜥蜴会wink",
@@ -36425,6 +36497,14 @@
       "onboard_time": 1736503640,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201232,
+      "num": 216844,
+      "word": "英伟达老对手力挺DeepSeek",
+      "onboard_time": 1737982938,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 201203,
@@ -41083,6 +41163,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 185973,
+      "num": 185973,
+      "word": "春节真正需要的高效休息",
+      "onboard_time": 1737986299,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185953,
       "num": 195132,
       "word": "TTG久哲正式连接",
@@ -41169,6 +41257,14 @@
       "onboard_time": 1736847018,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 185568,
+      "num": 185568,
+      "word": "王俊凯巴黎雨夜男主",
+      "onboard_time": 1737986057,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 185560,
@@ -42187,6 +42283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 181586,
+      "num": 181586,
+      "word": "小猪姐姐又仿妆杨紫了",
+      "onboard_time": 1737983838,
+      "rank": 39,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 181579,
       "num": 181579,
       "word": "10岁女孩俩小时被假明星骗5万元",
@@ -42313,6 +42417,14 @@
       "onboard_time": 1735706360,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181166,
+      "num": 181166,
+      "word": "英伟达市值蒸发超3000亿美元",
+      "onboard_time": 1737985818,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 181108,
@@ -45371,6 +45483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 170074,
+      "num": 170074,
+      "word": "旧房装修可享国家补贴",
+      "onboard_time": 1737986839,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170073,
       "num": 170073,
       "word": "杨紫摸哪吒的小脸蛋",
@@ -45449,14 +45569,6 @@
       "onboard_time": 1737674295,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 169742,
-      "num": 163354,
-      "word": "OneRepublic确认将登上央视春晚",
-      "onboard_time": 1737983538,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 169671,
@@ -49121,14 +49233,6 @@
       "onboard_time": 1736122821,
       "rank": 35,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 157956,
-      "num": 157956,
-      "word": "年轻人在过年前和父母达成共识",
-      "onboard_time": 1737982039,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 157925,
@@ -52969,6 +53073,14 @@
       "onboard_time": 1737794718,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 146007,
+      "num": 146007,
+      "word": "田曦薇逐玉赶猪路透",
+      "onboard_time": 1737986540,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 145977,
@@ -57723,20 +57835,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132763,
-      "num": 132763,
-      "word": "英伟达老对手力挺DeepSeek",
-      "onboard_time": 1737982938,
-      "rank": 37,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 132761,
       "num": 132761,
       "word": "重昭知道你很急但是你先别急",
       "onboard_time": 1737861677,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132748,
+      "num": 132748,
+      "word": "孙颖莎对奥运混双决赛印象深刻",
+      "onboard_time": 1737986479,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 132731,
@@ -59451,14 +59563,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 127417,
-      "num": 127417,
-      "word": "周涛 妈咪你美",
-      "onboard_time": 1737984859,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 127394,
       "num": 104049,
       "word": "国色芳华名场面callback",
@@ -60361,6 +60465,14 @@
       "onboard_time": 1737951557,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125125,
+      "num": 909509,
+      "word": "外国游客成中国游最强嘴替",
+      "onboard_time": 1737984618,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 125111,
@@ -62065,14 +62177,6 @@
       "onboard_time": 1737951977,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 120537,
-      "num": 120537,
-      "word": "霉霉与男友接吻庆祝",
-      "onboard_time": 1737984679,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 120534,
@@ -64203,14 +64307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 114673,
-      "num": 116910,
-      "word": "小猪姐姐又仿妆杨紫了",
-      "onboard_time": 1737983838,
-      "rank": 39,
-      "category": "美妆,艺人"
-    },
-    {
       "raw_hot": 114657,
       "num": 114657,
       "word": "耿爽在联合国当面戳穿美方3点谎言",
@@ -65331,6 +65427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 111353,
+      "num": 111353,
+      "word": "家装厨卫焕新补贴标准明确",
+      "onboard_time": 1737987020,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111319,
       "num": 387121,
       "word": "NBA榜一大哥之战",
@@ -66027,6 +66131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109289,
+      "num": 109289,
+      "word": "天才少女罗福莉参与开发DeepSeek",
+      "onboard_time": 1737986057,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 109241,
       "num": 109241,
       "word": "当00后开始掌握过年点灯笼大权",
@@ -66041,6 +66153,14 @@
       "onboard_time": 1737541577,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 109210,
+      "num": 109210,
+      "word": "九华山雾凇",
+      "onboard_time": 1737987020,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 109190,
@@ -66593,6 +66713,14 @@
       "onboard_time": 1736255545,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107289,
+      "num": 107289,
+      "word": "赵露思包场支持射雕英雄传",
+      "onboard_time": 1737987620,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 107288,
@@ -70561,14 +70689,6 @@
       "onboard_time": 1735885340,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 92671,
-      "num": 92671,
-      "word": "外交部回应是否接回在美非法中国移民",
-      "onboard_time": 1737984559,
-      "rank": 48,
-      "category": "国内时政"
     },
     {
       "raw_hot": 92572,
@@ -76881,6 +77001,14 @@
       "onboard_time": 1736165542,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54959,
+      "num": 212800,
+      "word": "王者蛇年限定皮肤获取攻略",
+      "onboard_time": 1737987379,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 54932,
