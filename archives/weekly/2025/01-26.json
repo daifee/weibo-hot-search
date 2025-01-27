@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1737988776739,
+  "endTime": 1737991262832,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -137,6 +137,14 @@
       "onboard_time": 1737983178,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1144947,
+      "num": 1183191,
+      "word": "女生花一个月工资给继父庆生",
+      "onboard_time": 1737988458,
+      "rank": 26,
+      "category": "正能量"
     },
     {
       "raw_hot": 1139607,
@@ -451,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 737477,
+      "num": 278285,
+      "word": "赵露思包场支持射雕英雄传",
+      "onboard_time": 1737987620,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 736771,
       "num": 375174,
       "word": "男子过年被催婚一句话让亲戚沉默",
@@ -521,6 +537,14 @@
       "onboard_time": 1737939557,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 684010,
+      "num": 276703,
+      "word": "贾冰小品",
+      "onboard_time": 1737989298,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 658477,
@@ -979,6 +1003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 458537,
+      "num": 458537,
+      "word": "ChatGPT回应被DeepSeek超越",
+      "onboard_time": 1737988700,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 457432,
       "num": 457432,
       "word": "台湾一黑帮头目被枪杀",
@@ -1251,6 +1283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 377640,
+      "num": 263890,
+      "word": "白鹿敖瑞鹏共创视频点赞破千万",
+      "onboard_time": 1737987020,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 375150,
       "num": 375150,
       "word": "幻云",
@@ -1427,14 +1467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 327333,
-      "num": 253075,
-      "word": "赵露思包场支持射雕英雄传",
-      "onboard_time": 1737987620,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 325803,
       "num": 325803,
       "word": "朱一龙李现将参演春晚武汉分会场",
@@ -1449,14 +1481,6 @@
       "onboard_time": 1737977178,
       "rank": 22,
       "category": "财经,互联网"
-    },
-    {
-      "raw_hot": 324056,
-      "num": 228035,
-      "word": "白鹿敖瑞鹏共创视频点赞破千万",
-      "onboard_time": 1737987020,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 323245,
@@ -1835,6 +1859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 253631,
+      "num": 253631,
+      "word": "春节真正需要的高效休息",
+      "onboard_time": 1737986299,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 252889,
       "num": 252889,
       "word": "异人之下2豆瓣8.2",
@@ -1891,14 +1923,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 244207,
-      "num": 244207,
-      "word": "ChatGPT回应被DeepSeek超越",
-      "onboard_time": 1737988700,
-      "rank": 19,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 243092,
       "num": 181796,
       "word": "儿媳偷送金耳环婆婆笑着笑着就哭了",
@@ -1921,14 +1945,6 @@
       "onboard_time": 1737871638,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 240893,
-      "num": 235906,
-      "word": "春节真正需要的高效休息",
-      "onboard_time": 1737986299,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 240487,
@@ -2163,6 +2179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215878,
+      "num": 211119,
+      "word": "肖战在春晚后台套圈",
+      "onboard_time": 1737986540,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213663,
       "num": 188548,
       "word": "高度近视最有效的化妆方法",
@@ -2171,20 +2195,28 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 211119,
-      "num": 211119,
-      "word": "肖战在春晚后台套圈",
-      "onboard_time": 1737986540,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 209948,
       "num": 198210,
       "word": "赵露思拐杖",
       "onboard_time": 1737806960,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209717,
+      "num": 199010,
+      "word": "刘涛就是最美小姨",
+      "onboard_time": 1737990017,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 209642,
+      "num": 909509,
+      "word": "外国游客成中国游最强嘴替",
+      "onboard_time": 1737984618,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 209519,
@@ -2337,6 +2369,14 @@
       "onboard_time": 1737888498,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199919,
+      "num": 199919,
+      "word": "英伟达市值蒸发超3000亿美元",
+      "onboard_time": 1737985818,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 199059,
@@ -2604,7 +2644,7 @@
     },
     {
       "raw_hot": 183216,
-      "num": 183216,
+      "num": 197048,
       "word": "旧房装修可享国家补贴",
       "onboard_time": 1737986839,
       "rank": 37,
@@ -2633,14 +2673,6 @@
       "onboard_time": 1737891560,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 181166,
-      "num": 181166,
-      "word": "英伟达市值蒸发超3000亿美元",
-      "onboard_time": 1737985818,
-      "rank": 35,
-      "category": "互联网"
     },
     {
       "raw_hot": 181072,
@@ -2947,14 +2979,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 165501,
-      "num": 909509,
-      "word": "外国游客成中国游最强嘴替",
-      "onboard_time": 1737984618,
-      "rank": 2,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 164624,
       "num": 172204,
       "word": "周鸿祎官宣请吃10年帝王蟹",
@@ -3128,6 +3152,14 @@
       "word": "长夜相思入星河",
       "onboard_time": 1737973877,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 157243,
+      "num": 157243,
+      "word": "原来代露娃还演过短剧",
+      "onboard_time": 1737989359,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -3731,6 +3763,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 134716,
+      "num": 134716,
+      "word": "阎鹤祥妆造",
+      "onboard_time": 1737988638,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134260,
       "num": 134260,
       "word": "白烁一穿嫁衣就开虐",
@@ -3881,6 +3921,14 @@
       "onboard_time": 1737973097,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129309,
+      "num": 141091,
+      "word": "余承东直播被封",
+      "onboard_time": 1737990797,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 128156,
@@ -4121,6 +4169,14 @@
       "onboard_time": 1737971537,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 120931,
+      "num": 140021,
+      "word": "DeepSeek一夜掀翻美股",
+      "onboard_time": 1737989119,
+      "rank": 38,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 120889,
@@ -4571,6 +4627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107657,
+      "num": 107657,
+      "word": "全国统一过年姿势",
+      "onboard_time": 1737988998,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107615,
       "num": 107615,
       "word": "禁令或使卞相壹损失近100万",
@@ -4681,14 +4745,6 @@
       "onboard_time": 1737865518,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 104839,
-      "num": 104839,
-      "word": "阎鹤祥妆造",
-      "onboard_time": 1737988638,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 104704,
@@ -4857,6 +4913,14 @@
       "onboard_time": 1737981138,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100784,
+      "num": 259628,
+      "word": "消费者快被虚假快递逼疯了",
+      "onboard_time": 1737987979,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 100581,
@@ -5835,6 +5899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 60052,
+      "num": 800198,
+      "word": "海拔最高春晚分会场",
+      "onboard_time": 1737989419,
+      "rank": 2,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 60023,
       "num": 128634,
       "word": "刘些宁新剧玲珑心掌家门",
@@ -5889,14 +5961,6 @@
       "onboard_time": 1737901281,
       "rank": 29,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 58949,
-      "num": 227279,
-      "word": "女生花一个月工资给继父庆生",
-      "onboard_time": 1737988458,
-      "rank": 26,
-      "category": "正能量"
     },
     {
       "raw_hot": 58923,
@@ -5969,6 +6033,14 @@
       "onboard_time": 1737896961,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55192,
+      "num": 196526,
+      "word": "伊能静为婆婆庆生",
+      "onboard_time": 1737991098,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 54821,
@@ -6224,6 +6296,14 @@
       "word": "中央气象台回应为何天气转换如此快",
       "onboard_time": 1737860957,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38834,
+      "num": 349789,
+      "word": "春节非遗旅游出行攻略",
+      "onboard_time": 1737988940,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
