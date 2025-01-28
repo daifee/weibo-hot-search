@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738068102933,
+  "endTime": 1738069019859,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -35,8 +35,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 18156868,
-      "num": 18156868,
+      "raw_hot": 18652211,
+      "num": 18652211,
       "word": "春晚",
       "onboard_time": 1738064609,
       "rank": 0,
@@ -81,6 +81,14 @@
       "onboard_time": 1736148990,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 12270044,
+      "num": 12270044,
+      "word": "撒贝宁的眉毛是谁画的",
+      "onboard_time": 1738067265,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 11945070,
@@ -299,11 +307,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 5859746,
-      "num": 5859746,
-      "word": "撒贝宁的眉毛是谁画的",
-      "onboard_time": 1738067265,
-      "rank": 4,
+      "raw_hot": 5278509,
+      "num": 3142398,
+      "word": "赵雅芝叶童太配了",
+      "onboard_time": 1738067987,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -529,6 +537,14 @@
       "onboard_time": 1736484203,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3354192,
+      "num": 3354192,
+      "word": "莫文蔚毛不易 天才搭配",
+      "onboard_time": 1738068157,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 3339900,
@@ -3251,6 +3267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1410693,
+      "num": 2662429,
+      "word": "凤凰传奇给我唱爽了",
+      "onboard_time": 1738067203,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1407785,
       "num": 1407785,
       "word": "外交部回应X不被允许在中国运营",
@@ -3977,6 +4001,14 @@
       "onboard_time": 1737799759,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1255979,
+      "num": 1255979,
+      "word": "时代少年团亮相春晚重庆分会场",
+      "onboard_time": 1738061426,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 1255753,
@@ -5083,14 +5115,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 1084276,
-      "num": 2662429,
-      "word": "凤凰传奇给我唱爽了",
-      "onboard_time": 1738067203,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1083980,
       "num": 1083980,
       "word": "卞相壹不接受重赛",
@@ -5385,14 +5409,6 @@
       "onboard_time": 1735960937,
       "rank": 25,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 1058226,
-      "num": 3137396,
-      "word": "赵雅芝叶童太配了",
-      "onboard_time": 1738067987,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 1056877,
@@ -6523,6 +6539,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 943592,
+      "num": 943592,
+      "word": "谁家古风小品",
+      "onboard_time": 1738067805,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 942900,
       "num": 704506,
       "word": "30岁博士生杜梅病逝遗书让人泪目",
@@ -6633,6 +6657,14 @@
       "onboard_time": 1737519499,
       "rank": 45,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 929602,
+      "num": 3524548,
+      "word": "陈丽君和白蛇青蛇同台",
+      "onboard_time": 1738067746,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 929336,
@@ -8604,7 +8636,7 @@
     },
     {
       "raw_hot": 781551,
-      "num": 663282,
+      "num": 705962,
       "word": "0713春晚表演登高",
       "onboard_time": 1738066488,
       "rank": 15,
@@ -9080,14 +9112,6 @@
       "word": "一路繁花窒息七分钟",
       "onboard_time": 1737285498,
       "rank": 10,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 747634,
-      "num": 747634,
-      "word": "时代少年团亮相春晚重庆分会场",
-      "onboard_time": 1738061426,
-      "rank": 21,
       "category": "综艺"
     },
     {
@@ -10563,6 +10587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 668744,
+      "num": 668744,
+      "word": "孙千春晚素颜出发图",
+      "onboard_time": 1738065150,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 668726,
       "num": 668726,
       "word": "鹿晗杂志取消预售",
@@ -10584,6 +10616,14 @@
       "word": "棋圣聂卫平女儿怒怼不陪你们玩了",
       "onboard_time": 1737624978,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 666804,
+      "num": 4964121,
+      "word": "孙颖莎王楚钦来送新春祝福啦",
+      "onboard_time": 1738065391,
+      "rank": 3,
       "category": "体育"
     },
     {
@@ -13987,14 +14027,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 533629,
-      "num": 4964121,
-      "word": "孙颖莎王楚钦来送新春祝福啦",
-      "onboard_time": 1738065391,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 532792,
       "num": 532792,
       "word": "永夜星河获奖",
@@ -14555,6 +14587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 515678,
+      "num": 515678,
+      "word": "DeepSeek已被多方申请注册商标",
+      "onboard_time": 1738064789,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 515656,
       "num": 515656,
       "word": "虞书欣主动加宋雨琦联系方式",
@@ -14761,14 +14801,6 @@
       "onboard_time": 1736857578,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 510187,
-      "num": 510187,
-      "word": "孙千春晚素颜出发图",
-      "onboard_time": 1738065150,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 510174,
@@ -15161,14 +15193,6 @@
       "onboard_time": 1737089598,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 501870,
-      "num": 501870,
-      "word": "DeepSeek已被多方申请注册商标",
-      "onboard_time": 1738064789,
-      "rank": 21,
-      "category": "互联网"
     },
     {
       "raw_hot": 501658,
@@ -16003,6 +16027,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 478009,
+      "num": 478009,
+      "word": "马凡舒真的漂亮",
+      "onboard_time": 1738067383,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 477423,
       "num": 411804,
       "word": "李昀锐不语 只是一味地升辈分",
@@ -16635,14 +16667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 459733,
-      "num": 459733,
-      "word": "陈丽君和白蛇青蛇同台",
-      "onboard_time": 1738067746,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 459203,
       "num": 329729,
       "word": "星星被曝赴泰国前曾想咨询当地朋友",
@@ -16908,7 +16932,7 @@
     },
     {
       "raw_hot": 453392,
-      "num": 688937,
+      "num": 4232240,
       "word": "蛇年怕蛇怎么办",
       "onboard_time": 1737992597,
       "rank": 5,
@@ -19691,14 +19715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 392753,
-      "num": 392753,
-      "word": "谁家古风小品",
-      "onboard_time": 1738067805,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 392656,
       "num": 428822,
       "word": "Kpop艺人TikTok年涨幅",
@@ -20209,6 +20225,14 @@
       "onboard_time": 1736408901,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 382737,
+      "num": 372131,
+      "word": "李子柒十个勤天春晚同台",
+      "onboard_time": 1738062447,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 382716,
@@ -20739,14 +20763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 373390,
-      "num": 373390,
-      "word": "马凡舒真的漂亮",
-      "onboard_time": 1738067383,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 373186,
       "num": 298523,
       "word": "寄明月",
@@ -20833,14 +20849,6 @@
       "onboard_time": 1736611223,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 372131,
-      "num": 372131,
-      "word": "李子柒十个勤天春晚同台",
-      "onboard_time": 1738062447,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 372012,
@@ -21569,6 +21577,14 @@
       "onboard_time": 1737334997,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 361306,
+      "num": 361306,
+      "word": "新年文案",
+      "onboard_time": 1738063409,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 361254,
@@ -22739,6 +22755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 340426,
+      "num": 334885,
+      "word": "毛晓彤金晨白鹿宋雨琦央视同框",
+      "onboard_time": 1738068396,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 340406,
       "num": 340406,
       "word": "迪丽热巴设计的项链",
@@ -22971,6 +22995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 335829,
+      "num": 335829,
+      "word": "0713应到6人实到6人",
+      "onboard_time": 1738058783,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 335759,
       "num": 335759,
       "word": "庄达菲说肖战在剧组像班长",
@@ -23025,6 +23057,14 @@
       "onboard_time": 1736502920,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 335396,
+      "num": 3596387,
+      "word": "星汉耀江城",
+      "onboard_time": 1738066909,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 335364,
@@ -23657,14 +23697,6 @@
       "onboard_time": 1736690061,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 326330,
-      "num": 326330,
-      "word": "0713应到6人实到6人",
-      "onboard_time": 1738058783,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 325803,
@@ -24659,6 +24691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 312064,
+      "num": 312064,
+      "word": "钟楚曦穿自己画的裙子上春晚",
+      "onboard_time": 1738068458,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 311813,
       "num": 311813,
       "word": "洪尚秀妻子回应金敏喜怀孕",
@@ -25355,6 +25395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 302493,
+      "num": 302493,
+      "word": "春晚分会场",
+      "onboard_time": 1738068396,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 302353,
       "num": 302353,
       "word": "央视曝光克隆网站黑幕",
@@ -25713,14 +25761,6 @@
       "onboard_time": 1736904978,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 298196,
-      "num": 298196,
-      "word": "新年文案",
-      "onboard_time": 1738063409,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 298127,
@@ -30787,6 +30827,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 245676,
+      "num": 245676,
+      "word": "王俊凯回家牌年夜饭",
+      "onboard_time": 1738066909,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 245395,
       "num": 245395,
       "word": "林心如49岁庆生照",
@@ -32571,14 +32619,6 @@
       "category": "体育,作品衍生"
     },
     {
-      "raw_hot": 230207,
-      "num": 3596387,
-      "word": "星汉耀江城",
-      "onboard_time": 1738066909,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 230199,
       "num": 232180,
       "word": "澳网",
@@ -34001,6 +34041,14 @@
       "onboard_time": 1737175938,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 220043,
+      "num": 671100,
+      "word": "身边的年味",
+      "onboard_time": 1737360018,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 219952,
@@ -54963,14 +55011,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 145088,
-      "num": 666513,
-      "word": "身边的年味",
-      "onboard_time": 1737360018,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 145079,
       "num": 145079,
       "word": "王俊凯生图",
@@ -56928,6 +56968,14 @@
       "word": "记者调查山东惠民超百亩地被挖坑取土",
       "onboard_time": 1736583563,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139574,
+      "num": 327424,
+      "word": "吃饺子",
+      "onboard_time": 1738067805,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -58953,6 +59001,14 @@
       "onboard_time": 1736909659,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134340,
+      "num": 5425723,
+      "word": "文化中国行过年的仪式感",
+      "onboard_time": 1738053981,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134260,
@@ -65507,14 +65563,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 116530,
-      "num": 290357,
-      "word": "吃饺子",
-      "onboard_time": 1738067805,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 116506,
       "num": 384172,
       "word": "用温暖告别2024",
@@ -70073,14 +70121,6 @@
       "onboard_time": 1737770057,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 102933,
-      "num": 5425723,
-      "word": "文化中国行过年的仪式感",
-      "onboard_time": 1738053981,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102880,
@@ -75083,6 +75123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80324,
+      "num": 1385116,
+      "word": "用vivo直播神器看春晚后台",
+      "onboard_time": 1738067086,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80257,
       "num": 102615,
       "word": "赵丽颖拍张碧晨",
@@ -75875,6 +75923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75692,
+      "num": 469602,
+      "word": "许墨缤纷心愿",
+      "onboard_time": 1738067684,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 75679,
       "num": 411444,
       "word": "网红带货牛肉卷检疫标识鉴定为假",
@@ -75953,14 +76009,6 @@
       "onboard_time": 1736686399,
       "rank": 9,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 75330,
-      "num": 465193,
-      "word": "用vivo直播神器看春晚后台",
-      "onboard_time": 1738067086,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 75235,
@@ -78321,14 +78369,6 @@
       "onboard_time": 1736566340,
       "rank": 24,
       "category": "体育,海外新闻"
-    },
-    {
-      "raw_hot": 60312,
-      "num": 469602,
-      "word": "许墨缤纷心愿",
-      "onboard_time": 1738067684,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 60122,

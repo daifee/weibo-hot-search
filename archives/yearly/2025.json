@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738068102933,
+  "endTime": 1738069019859,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -35,8 +35,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 18156868,
-      "num": 18156868,
+      "raw_hot": 18652211,
+      "num": 18652211,
       "word": "春晚",
       "onboard_time": 1738064609,
       "rank": 0,
@@ -81,6 +81,14 @@
       "onboard_time": 1736148990,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 12270044,
+      "num": 12270044,
+      "word": "撒贝宁的眉毛是谁画的",
+      "onboard_time": 1738067265,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 11945070,
@@ -299,11 +307,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 5859746,
-      "num": 5859746,
-      "word": "撒贝宁的眉毛是谁画的",
-      "onboard_time": 1738067265,
-      "rank": 4,
+      "raw_hot": 5278509,
+      "num": 3142398,
+      "word": "赵雅芝叶童太配了",
+      "onboard_time": 1738067987,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -529,6 +537,14 @@
       "onboard_time": 1736484203,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3354192,
+      "num": 3354192,
+      "word": "莫文蔚毛不易 天才搭配",
+      "onboard_time": 1738068157,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 3339900,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1736592090,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1644179,
-      "num": 1235387,
-      "word": "吴昕直播间突然涌入大量外国网友",
-      "onboard_time": 1736918120,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1643035,
-      "num": 873302,
-      "word": "潘宏回应",
-      "onboard_time": 1737336198,
-      "rank": 19,
-      "category": "网红,体育"
     }
   ],
   "hotgov_list": [
