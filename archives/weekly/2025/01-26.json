@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738029352634,
+  "endTime": 1738032502487,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -331,8 +331,8 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 921177,
-      "num": 1147388,
+      "raw_hot": 921691,
+      "num": 1147470,
       "word": "前DeepSeek天才少女从农村走向TOP开发者",
       "onboard_time": 1738026976,
       "rank": 3,
@@ -353,6 +353,14 @@
       "onboard_time": 1737846433,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 903130,
+      "num": 226234,
+      "word": "丈母娘上厕所被女婿忘在高速上",
+      "onboard_time": 1738030397,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 878463,
@@ -803,6 +811,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 537439,
+      "num": 224332,
+      "word": "昀牵孟绕",
+      "onboard_time": 1738030516,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 532128,
       "num": 532128,
       "word": "年轻人黄金贴手机主打一个情绪价值",
@@ -833,6 +849,14 @@
       "onboard_time": 1737903021,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 528305,
+      "num": 528305,
+      "word": "英伟达股价暴跌后迅速发声",
+      "onboard_time": 1738028716,
+      "rank": 9,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 526677,
@@ -947,12 +971,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 496026,
+      "num": 548434,
+      "word": "除夕",
+      "onboard_time": 1738029916,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 492116,
       "num": 492116,
       "word": "美股",
       "onboard_time": 1737979458,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 489502,
+      "num": 489502,
+      "word": "王者荣耀充值",
+      "onboard_time": 1738030635,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 485891,
@@ -1025,6 +1065,14 @@
       "onboard_time": 1737883399,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 462331,
+      "num": 222028,
+      "word": "特朗普称DeepSeek给美企敲响警钟",
+      "onboard_time": 1738030937,
+      "rank": 13,
+      "category": "互联网"
     },
     {
       "raw_hot": 462135,
@@ -1435,6 +1483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 354572,
+      "num": 354572,
+      "word": "DeepSeek是啥",
+      "onboard_time": 1738028716,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 353264,
       "num": 230379,
       "word": "比尔盖茨说离婚后成了空巢老人",
@@ -1724,7 +1780,7 @@
     },
     {
       "raw_hot": 288031,
-      "num": 288031,
+      "num": 407233,
       "word": "反向春运人群规模增长10%",
       "onboard_time": 1738025836,
       "rank": 9,
@@ -1971,6 +2027,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 255258,
+      "num": 243573,
+      "word": "蛇年拜年文案",
+      "onboard_time": 1737996137,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 252889,
       "num": 252889,
       "word": "异人之下2豆瓣8.2",
@@ -2011,6 +2075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249473,
+      "num": 249473,
+      "word": "赵露思包场支持肖战新片",
+      "onboard_time": 1738029137,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 247167,
       "num": 247167,
       "word": "包场射雕英雄传的明星们",
@@ -2033,14 +2105,6 @@
       "onboard_time": 1737944536,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 243573,
-      "num": 243573,
-      "word": "蛇年拜年文案",
-      "onboard_time": 1737996137,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 243092,
@@ -2153,14 +2217,6 @@
       "onboard_time": 1737983538,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 230490,
-      "num": 230490,
-      "word": "英伟达股价暴跌后迅速发声",
-      "onboard_time": 1738028716,
-      "rank": 9,
-      "category": "数码,互联网"
     },
     {
       "raw_hot": 230299,
@@ -2331,12 +2387,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 216267,
+      "num": 216267,
+      "word": "除夕到初三加班不能用事后调休替代",
+      "onboard_time": 1738030697,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215787,
       "num": 215787,
       "word": "英伟达市值一夜蒸发5890亿美元",
       "onboard_time": 1738021455,
       "rank": 13,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 214736,
+      "num": 214736,
+      "word": "代号鸢暗号",
+      "onboard_time": 1738031417,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 213663,
@@ -2521,6 +2593,22 @@
       "onboard_time": 1737888498,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200572,
+      "num": 200572,
+      "word": "全红婵老家增设无人机反制设备",
+      "onboard_time": 1738030156,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 199888,
+      "num": 229713,
+      "word": "美媒惊问DeepSeek是谁",
+      "onboard_time": 1738030697,
+      "rank": 9,
+      "category": "数码"
     },
     {
       "raw_hot": 199059,
@@ -3155,6 +3243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164671,
+      "num": 164671,
+      "word": "永远会被生活中的暖心瞬间击中",
+      "onboard_time": 1738032436,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 164624,
       "num": 172204,
       "word": "周鸿祎官宣请吃10年帝王蟹",
@@ -3241,6 +3337,14 @@
       "onboard_time": 1737901582,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 162423,
+      "num": 214990,
+      "word": "射雕专属红包封面",
+      "onboard_time": 1738031776,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 161371,
@@ -4139,6 +4243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129210,
+      "num": 129210,
+      "word": "DeepSeek称遭到大规模恶意攻击",
+      "onboard_time": 1738032317,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 128627,
       "num": 128627,
       "word": "非遗春节好像一个绚烂的万花筒",
@@ -4427,14 +4539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 120540,
-      "num": 120540,
-      "word": "DeepSeek是啥",
-      "onboard_time": 1738028716,
-      "rank": 24,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 119823,
       "num": 185646,
       "word": "樊振东处于调整阶段",
@@ -4609,6 +4713,14 @@
       "onboard_time": 1737970456,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 114307,
+      "num": 114307,
+      "word": "多吃5种蔬菜能抗炎",
+      "onboard_time": 1738028236,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 114241,
@@ -4899,14 +5011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 107169,
-      "num": 164546,
-      "word": "赵露思包场支持肖战新片",
-      "onboard_time": 1738029137,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 107141,
       "num": 107141,
       "word": "找一个本来就很好的人具象化了",
@@ -5025,14 +5129,6 @@
       "onboard_time": 1737956176,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 103567,
-      "num": 103567,
-      "word": "多吃5种蔬菜能抗炎",
-      "onboard_time": 1738028236,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 103170,
@@ -5291,6 +5387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97774,
+      "num": 97774,
+      "word": "金蛇迎春红红火火壁纸",
+      "onboard_time": 1738024695,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97584,
       "num": 97584,
       "word": "马龙祝新年在人生赛场勇敢挥拍",
@@ -5475,14 +5579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 92920,
-      "num": 92920,
-      "word": "金蛇迎春红红火火壁纸",
-      "onboard_time": 1738024695,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 92728,
       "num": 92728,
       "word": "专访电影射雕英雄传主创",
@@ -5497,6 +5593,14 @@
       "onboard_time": 1738026736,
       "rank": 31,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 92216,
+      "num": 92216,
+      "word": "内马尔与利雅得新月解约",
+      "onboard_time": 1738031716,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 92070,
@@ -5691,6 +5795,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 85877,
+      "num": 85877,
+      "word": "2025国际乒联第5周排名",
+      "onboard_time": 1738032256,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85544,
       "num": 190587,
       "word": "封神地狱笑话",
@@ -5811,6 +5923,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 82472,
+      "num": 82472,
+      "word": "DeepSeek深夜再放大招",
+      "onboard_time": 1738030756,
+      "rank": 39,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 82378,
       "num": 175730,
       "word": "DeepSeek正打破算力为王行业规则",
@@ -5875,6 +5995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80358,
+      "num": 800198,
+      "word": "海拔最高春晚分会场",
+      "onboard_time": 1737989419,
+      "rank": 2,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80071,
       "num": 304029,
       "word": "巳升升耍了一下杂技",
@@ -5915,6 +6043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78674,
+      "num": 132549,
+      "word": "射雕英雄传预售票房进入中国影史前五",
+      "onboard_time": 1738030815,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 78105,
       "num": 142301,
       "word": "杨幂上城士开年刊",
@@ -5953,6 +6089,14 @@
       "onboard_time": 1737862998,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76897,
+      "num": 76897,
+      "word": "浓眉也过年了",
+      "onboard_time": 1738029616,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 76841,
@@ -6083,6 +6227,30 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 71483,
+      "num": 71483,
+      "word": "韩方教练称卞相壹被剥夺了应得的荣誉",
+      "onboard_time": 1738029677,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 71170,
+      "num": 71443,
+      "word": "除夕文案",
+      "onboard_time": 1738030815,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 71157,
+      "num": 71157,
+      "word": "深国资称有足够子弹支持万科",
+      "onboard_time": 1738031657,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 71093,
       "num": 71093,
       "word": "家人回应苏敏正式离婚",
@@ -6195,12 +6363,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 67580,
-      "num": 800198,
-      "word": "海拔最高春晚分会场",
-      "onboard_time": 1737989419,
-      "rank": 2,
-      "category": "综艺"
+      "raw_hot": 67566,
+      "num": 67566,
+      "word": "孙颖莎想专注于当下",
+      "onboard_time": 1738032256,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 66846,
@@ -6468,7 +6636,7 @@
     },
     {
       "raw_hot": 53621,
-      "num": 53621,
+      "num": 169024,
       "word": "巴特勒至少被禁赛五场",
       "onboard_time": 1738026976,
       "rank": 49,
