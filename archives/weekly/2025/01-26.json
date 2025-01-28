@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738048849302,
+  "endTime": 1738049740484,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -11,20 +11,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4264272,
+      "num": 4264272,
+      "word": "红包",
+      "onboard_time": 1738041197,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 4140602,
       "num": 294954,
       "word": "曝张大大杨幂已绝交",
       "onboard_time": 1737857357,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3980288,
-      "num": 3980288,
-      "word": "红包",
-      "onboard_time": 1738041197,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 3185801,
@@ -51,20 +51,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2850242,
+      "num": 2850242,
+      "word": "陈哲远 红包",
+      "onboard_time": 1738032856,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2763936,
       "num": 2763936,
       "word": "颜十六已到案回国",
       "onboard_time": 1737904641,
       "rank": 29,
       "category": "民生新闻,艺人"
-    },
-    {
-      "raw_hot": 2330900,
-      "num": 2330900,
-      "word": "陈哲远 红包",
-      "onboard_time": 1738032856,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 2056912,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1486365,
+      "num": 1486365,
+      "word": "敖瑞鹏预告红包",
+      "onboard_time": 1738039278,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1458544,
       "num": 288476,
       "word": "张大大助理发离职证明",
@@ -129,14 +137,6 @@
       "onboard_time": 1738035917,
       "rank": 3,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1261383,
-      "num": 1261383,
-      "word": "敖瑞鹏预告红包",
-      "onboard_time": 1738039278,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 1237966,
@@ -208,6 +208,14 @@
       "word": "代露娃死嘴快憋住啊",
       "onboard_time": 1737971056,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1105240,
+      "num": 517385,
+      "word": "梁洁发红包",
+      "onboard_time": 1738048218,
+      "rank": 6,
       "category": "艺人"
     },
     {
@@ -955,14 +963,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 517385,
-      "num": 517385,
-      "word": "梁洁发红包",
-      "onboard_time": 1738048218,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 515745,
       "num": 200571,
       "word": "Jasper在陈小春家学历最高",
@@ -1003,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 505455,
+      "num": 505455,
+      "word": "DeepSeek最想问人类什么问题",
+      "onboard_time": 1738046358,
+      "rank": 19,
+      "category": "科学科普,互联网"
+    },
+    {
       "raw_hot": 505015,
       "num": 209364,
       "word": "赵露思回应医学奇迹",
@@ -1033,6 +1041,14 @@
       "onboard_time": 1737977597,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 503664,
+      "num": 503664,
+      "word": "明天要看的第一部电影",
+      "onboard_time": 1738046958,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 500832,
@@ -1196,7 +1212,7 @@
     },
     {
       "raw_hot": 460038,
-      "num": 254228,
+      "num": 365033,
       "word": "沙溢胡可两个儿子近照",
       "onboard_time": 1738046117,
       "rank": 33,
@@ -1348,7 +1364,7 @@
     },
     {
       "raw_hot": 424134,
-      "num": 246928,
+      "num": 367395,
       "word": "李子柒将首登总台春晚",
       "onboard_time": 1738045277,
       "rank": 34,
@@ -1441,6 +1457,14 @@
       "onboard_time": 1737890058,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 397804,
+      "num": 368314,
+      "word": "迪丽热巴年度收官朋友圈",
+      "onboard_time": 1738049359,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 394434,
@@ -1667,14 +1691,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 352732,
-      "num": 259400,
-      "word": "DeepSeek最想问人类什么问题",
-      "onboard_time": 1738046358,
-      "rank": 19,
-      "category": "科学科普,互联网"
-    },
-    {
       "raw_hot": 350494,
       "num": 350494,
       "word": "比杨紫更了解杨紫的人出现",
@@ -1820,7 +1836,7 @@
     },
     {
       "raw_hot": 322453,
-      "num": 232397,
+      "num": 265346,
       "word": "尤长靖说NINEPERCENT还有联系",
       "onboard_time": 1738043596,
       "rank": 25,
@@ -1857,14 +1873,6 @@
       "onboard_time": 1737993257,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 312107,
-      "num": 220682,
-      "word": "明天要看的第一部电影",
-      "onboard_time": 1738046958,
-      "rank": 20,
-      "category": "电影"
     },
     {
       "raw_hot": 309094,
@@ -2331,6 +2339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249889,
+      "num": 365891,
+      "word": "猪皮冻",
+      "onboard_time": 1738047739,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 249523,
       "num": 249523,
       "word": "赵露思包场支持肖战新片",
@@ -2353,6 +2369,14 @@
       "onboard_time": 1738021274,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 245395,
+      "num": 245395,
+      "word": "林心如49岁庆生照",
+      "onboard_time": 1738046836,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 245034,
@@ -2537,6 +2561,14 @@
       "onboard_time": 1737907037,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 227432,
+      "num": 227432,
+      "word": "郭帆 MOSS",
+      "onboard_time": 1738048098,
+      "rank": 19,
+      "category": "互联网,作品衍生"
     },
     {
       "raw_hot": 226006,
@@ -2833,14 +2865,6 @@
       "onboard_time": 1737846374,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 205176,
-      "num": 220140,
-      "word": "林心如49岁庆生照",
-      "onboard_time": 1738046836,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 204911,
@@ -3235,6 +3259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189013,
+      "num": 174846,
+      "word": "花7小时做的千元蛇年美甲",
+      "onboard_time": 1738047918,
+      "rank": 32,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 188828,
       "num": 188828,
       "word": "A股",
@@ -3491,6 +3523,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 174822,
+      "num": 416784,
+      "word": "今夜让世界看到重庆",
+      "onboard_time": 1738046177,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173725,
       "num": 173725,
       "word": "刘晓庆吃苦论",
@@ -3601,6 +3641,14 @@
       "onboard_time": 1737898881,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168883,
+      "num": 168883,
+      "word": "颜人中一支185的口红",
+      "onboard_time": 1738047377,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 168818,
@@ -3811,14 +3859,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 162446,
-      "num": 162446,
-      "word": "颜人中一支185的口红",
-      "onboard_time": 1738047377,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 162074,
       "num": 162074,
       "word": "王星越卢昱晓微博互动",
@@ -3891,19 +3931,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 159676,
-      "num": 159676,
-      "word": "花7小时做的千元蛇年美甲",
-      "onboard_time": 1738047918,
-      "rank": 32,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 159595,
       "num": 159595,
       "word": "赵本山乡爱20年青丝变白发",
       "onboard_time": 1737867019,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 159003,
+      "num": 159003,
+      "word": "王星越抢人妻DNA动了",
+      "onboard_time": 1738047678,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -4067,14 +4107,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 153998,
-      "num": 153998,
-      "word": "猪皮冻",
-      "onboard_time": 1738047739,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 153950,
       "num": 153950,
       "word": "朴彩英首唱vampirehollie",
@@ -4108,7 +4140,7 @@
     },
     {
       "raw_hot": 151588,
-      "num": 155450,
+      "num": 174934,
       "word": "春节摄影大赛",
       "onboard_time": 1738045337,
       "rank": 39,
@@ -4129,14 +4161,6 @@
       "onboard_time": 1737902120,
       "rank": 9,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 150518,
-      "num": 416784,
-      "word": "今夜让世界看到重庆",
-      "onboard_time": 1738046177,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 150502,
@@ -4411,6 +4435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142056,
+      "num": 155332,
+      "word": "登陆少年空降",
+      "onboard_time": 1738049299,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142021,
       "num": 302927,
       "word": "蛇年专属福卡",
@@ -4537,14 +4569,6 @@
       "onboard_time": 1737871997,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 138469,
-      "num": 138469,
-      "word": "王星越抢人妻DNA动了",
-      "onboard_time": 1738047678,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 138464,
@@ -5611,6 +5635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110404,
+      "num": 110404,
+      "word": "周翊然发了2个20250元红包",
+      "onboard_time": 1738049719,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110367,
       "num": 110367,
       "word": "韩国围棋队主教练称卞相壹心情沉重",
@@ -5857,6 +5889,14 @@
       "onboard_time": 1737945917,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105622,
+      "num": 105622,
+      "word": "Deepseek 文笔",
+      "onboard_time": 1738049599,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 105519,
@@ -6995,14 +7035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 75387,
-      "num": 221474,
-      "word": "郭帆 MOSS",
-      "onboard_time": 1738048098,
-      "rank": 19,
-      "category": "互联网,作品衍生"
-    },
-    {
       "raw_hot": 75013,
       "num": 75013,
       "word": "张绍进先生将埋葬于张纯如身旁",
@@ -7443,6 +7475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 57125,
+      "num": 1639409,
+      "word": "中国年惊艳世界",
+      "onboard_time": 1738045758,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56908,
       "num": 64791,
       "word": "厦门福州泉州震感",
@@ -7457,14 +7497,6 @@
       "onboard_time": 1737879379,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 55867,
-      "num": 1507185,
-      "word": "中国年惊艳世界",
-      "onboard_time": 1738045758,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 55555,
