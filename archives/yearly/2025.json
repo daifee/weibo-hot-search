@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738053676870,
+  "endTime": 1738056214967,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -267,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 5394848,
+      "num": 5394848,
+      "word": "红包",
+      "onboard_time": 1738041197,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 4913394,
       "num": 4076214,
       "word": "泰国喊话中国游客",
@@ -323,12 +331,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 4508899,
-      "num": 4508899,
-      "word": "红包",
-      "onboard_time": 1738041197,
-      "rank": 1,
-      "category": "民生新闻"
+      "raw_hot": 4271465,
+      "num": 4271465,
+      "word": "王星越的红包",
+      "onboard_time": 1738053560,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 4269334,
@@ -2227,6 +2235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1666497,
+      "num": 407798,
+      "word": "明星红包",
+      "onboard_time": 1738049958,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1666195,
       "num": 1028926,
       "word": "胖东来员工不许靠父母积蓄买房买车",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1736401162,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1614743,
-      "num": 1614743,
-      "word": "2万吨智利车厘子运抵中国",
-      "onboard_time": 1736740700,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1609470,
-      "num": 1609470,
-      "word": "杨子 我又不是找不着更好的",
-      "onboard_time": 1736408481,
-      "rank": 0,
-      "category": "艺人,作品衍生"
     }
   ],
   "hotgov_list": [

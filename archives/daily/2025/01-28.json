@@ -1,6 +1,6 @@
 {
   "startTime": 1737995245772,
-  "endTime": 1738053676870,
+  "endTime": 1738056214967,
   "band_list": [
     {
       "raw_hot": 11462625,
@@ -11,12 +11,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 4508899,
-      "num": 4508899,
+      "raw_hot": 5394848,
+      "num": 5394848,
       "word": "红包",
       "onboard_time": 1738041197,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 4271465,
+      "num": 4271465,
+      "word": "王星越的红包",
+      "onboard_time": 1738053560,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 3185801,
@@ -43,19 +51,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1666497,
+      "num": 407798,
+      "word": "明星红包",
+      "onboard_time": 1738049958,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1486365,
       "num": 1486365,
       "word": "敖瑞鹏预告红包",
       "onboard_time": 1738039278,
       "rank": 4,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1452881,
-      "num": 336627,
-      "word": "明星红包",
-      "onboard_time": 1738049958,
-      "rank": 7,
       "category": "艺人"
     },
     {
@@ -65,6 +73,14 @@
       "onboard_time": 1738035917,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1312982,
+      "num": 355917,
+      "word": "柴安五花大绑俏新郎",
+      "onboard_time": 1738041138,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 1105240,
@@ -123,6 +139,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 681780,
+      "num": 312094,
+      "word": "卢昱晓发红包",
+      "onboard_time": 1738055962,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 642794,
       "num": 477057,
       "word": "抖音副总裁回应雷军余承东直播被封",
@@ -137,6 +161,14 @@
       "onboard_time": 1738041316,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 620052,
+      "num": 277944,
+      "word": "张凌赫送祝福视听双享受",
+      "onboard_time": 1738047018,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 601540,
@@ -163,12 +195,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 577726,
-      "num": 232451,
-      "word": "王星越的红包",
-      "onboard_time": 1738053560,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 568445,
+      "num": 219901,
+      "word": "丁禹兮以为上春晚可以瞒着父母",
+      "onboard_time": 1738054342,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 562045,
@@ -201,6 +233,14 @@
       "onboard_time": 1738051942,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 531773,
+      "num": 219142,
+      "word": "度华年拜年视频",
+      "onboard_time": 1738035497,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 528305,
@@ -291,12 +331,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 466780,
+      "num": 466780,
+      "word": "年夜饭",
+      "onboard_time": 1738052900,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 460038,
       "num": 365033,
       "word": "沙溢胡可两个儿子近照",
       "onboard_time": 1738046117,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 458596,
+      "num": 218265,
+      "word": "十个勤天春晚第一个节目",
+      "onboard_time": 1738053262,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 455343,
@@ -331,12 +387,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 436323,
-      "num": 218119,
-      "word": "柴安五花大绑俏新郎",
-      "onboard_time": 1738041138,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 449655,
+      "num": 218173,
+      "word": "周深春晚开始文化输出",
+      "onboard_time": 1738055120,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 432980,
@@ -379,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 411477,
+      "num": 217344,
+      "word": "沈腾马丽这次演什么关系",
+      "onboard_time": 1738053379,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 410021,
       "num": 410021,
       "word": "赵露思包场支持射雕英雄传",
@@ -400,6 +464,14 @@
       "word": "DeepSeek让美国有些人诧异了",
       "onboard_time": 1738041017,
       "rank": 37,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 390350,
+      "num": 390350,
+      "word": "DeepSeek创始人17岁成学校状元考入浙大",
+      "onboard_time": 1738050859,
+      "rank": 5,
       "category": "互联网"
     },
     {
@@ -435,12 +507,12 @@
       "category": "财经,互联网"
     },
     {
-      "raw_hot": 357230,
-      "num": 357230,
-      "word": "DeepSeek创始人17岁成学校状元考入浙大",
-      "onboard_time": 1738050859,
-      "rank": 5,
-      "category": "互联网"
+      "raw_hot": 360105,
+      "num": 217042,
+      "word": "张艺兴陈伟霆苏有朋如意舞步",
+      "onboard_time": 1738053742,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 353663,
@@ -497,6 +569,14 @@
       "onboard_time": 1738043596,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 320718,
+      "num": 267553,
+      "word": "陈哲远 直拍来了",
+      "onboard_time": 1737984500,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 314299,
@@ -579,20 +659,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 278758,
-      "num": 160957,
-      "word": "沈腾马丽这次演什么关系",
-      "onboard_time": 1738053379,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 268865,
-      "num": 267553,
-      "word": "陈哲远 直拍来了",
-      "onboard_time": 1737984500,
-      "rank": 12,
-      "category": "作品衍生,时尚"
+      "raw_hot": 267266,
+      "num": 267266,
+      "word": "两根菜薹卖18888元引质疑",
+      "onboard_time": 1738052661,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 264825,
@@ -601,6 +673,14 @@
       "onboard_time": 1737993858,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 260926,
+      "num": 214404,
+      "word": "王一博紫色丝绒西装",
+      "onboard_time": 1738054942,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 259595,
@@ -617,6 +697,14 @@
       "onboard_time": 1737996137,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 251968,
+      "num": 214067,
+      "word": "表演嘉宾最多的一个节目",
+      "onboard_time": 1738055480,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 249523,
@@ -643,11 +731,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 245566,
-      "num": 131711,
-      "word": "十个勤天春晚第一个节目",
-      "onboard_time": 1738053262,
-      "rank": 40,
+      "raw_hot": 246714,
+      "num": 213744,
+      "word": "薛之谦春晚独唱",
+      "onboard_time": 1738055240,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -707,14 +795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 233543,
-      "num": 233543,
-      "word": "年夜饭",
-      "onboard_time": 1738052900,
-      "rank": 9,
-      "category": "美食"
-    },
-    {
       "raw_hot": 231735,
       "num": 231735,
       "word": "永远会被生活中的暖心瞬间击中",
@@ -753,14 +833,6 @@
       "onboard_time": 1738040778,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 220538,
-      "num": 158594,
-      "word": "张凌赫送祝福视听双享受",
-      "onboard_time": 1738047018,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 218042,
@@ -923,16 +995,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190068,
-      "num": 190068,
-      "word": "度华年拜年视频",
-      "onboard_time": 1738035497,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 189013,
-      "num": 174846,
+      "num": 216651,
       "word": "花7小时做的千元蛇年美甲",
       "onboard_time": 1738047918,
       "rank": 32,
@@ -1108,11 +1172,19 @@
     },
     {
       "raw_hot": 151588,
-      "num": 174934,
+      "num": 213153,
       "word": "春节摄影大赛",
       "onboard_time": 1738045337,
       "rank": 39,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 150504,
+      "num": 217828,
+      "word": "小狗被踩狗妈一秒冲出护崽开骂",
+      "onboard_time": 1738055120,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150237,
@@ -1371,6 +1443,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 120612,
+      "num": 215239,
+      "word": "一人一道年夜菜",
+      "onboard_time": 1738055420,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 120067,
       "num": 120067,
       "word": "男孩玩烟花引燃轿车家长赔15万",
@@ -1492,7 +1572,7 @@
     },
     {
       "raw_hot": 108130,
-      "num": 115246,
+      "num": 212614,
       "word": "Deepseek 文笔",
       "onboard_time": 1738049599,
       "rank": 48,
@@ -1620,7 +1700,7 @@
     },
     {
       "raw_hot": 92070,
-      "num": 181092,
+      "num": 416730,
       "word": "过年是刻在中国人DNA里的仪式感",
       "onboard_time": 1738022474,
       "rank": 32,
@@ -1649,14 +1729,6 @@
       "onboard_time": 1738017251,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 88879,
-      "num": 226375,
-      "word": "两根菜薹卖18888元引质疑",
-      "onboard_time": 1738052661,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88033,
@@ -1924,7 +1996,7 @@
     },
     {
       "raw_hot": 63446,
-      "num": 63446,
+      "num": 378718,
       "word": "文化中国行一起过大年",
       "onboard_time": 1738022474,
       "rank": 43,
@@ -1961,6 +2033,14 @@
       "onboard_time": 1738019293,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57445,
+      "num": 218449,
+      "word": "留几手求网友放过李行亮",
+      "onboard_time": 1738055720,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 57395,
@@ -2003,11 +2083,27 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 41506,
+      "num": 288157,
+      "word": "嗑瓜子为什么停不下来",
+      "onboard_time": 1738055061,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41459,
       "num": 871949,
       "word": "祝你蛇转乾坤巳巳如意",
       "onboard_time": 1738044377,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37830,
+      "num": 4798228,
+      "word": "文化中国行过年的仪式感",
+      "onboard_time": 1738053981,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -2025,6 +2121,14 @@
       "onboard_time": 1738017372,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26950,
+      "num": 218873,
+      "word": "暖暖祝大家蛇来运转",
+      "onboard_time": 1738055600,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 25417,
@@ -2194,6 +2298,9 @@
     },
     {
       "word": "#知心暖心福进万家#"
+    },
+    {
+      "word": "#总书记深入基层的春暖情长#"
     }
   ]
 }

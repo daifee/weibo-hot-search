@@ -1,0 +1,410 @@
+{
+  "runTime": 1738056214967,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8858145,
+        "num": 8858145,
+        "word": "春晚节目单",
+        "onboard_time": 1738050440,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 5394848,
+        "num": 5394848,
+        "word": "红包",
+        "onboard_time": 1738041197,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37830,
+        "num": 4798228,
+        "word": "文化中国行过年的仪式感",
+        "onboard_time": 1738053981,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4271465,
+        "num": 4271465,
+        "word": "王星越的红包",
+        "onboard_time": 1738053560,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466780,
+        "num": 466780,
+        "word": "年夜饭",
+        "onboard_time": 1738052900,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 15666,
+        "num": 416730,
+        "word": "过年是刻在中国人DNA里的仪式感",
+        "onboard_time": 1738022474,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2149026,
+        "num": 416252,
+        "word": "陈哲远 红包",
+        "onboard_time": 1738032856,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1666497,
+        "num": 407798,
+        "word": "明星红包",
+        "onboard_time": 1738049958,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390350,
+        "num": 390350,
+        "word": "DeepSeek创始人17岁成学校状元考入浙大",
+        "onboard_time": 1738050859,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 17644,
+        "num": 378718,
+        "word": "文化中国行一起过大年",
+        "onboard_time": 1738022474,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1312982,
+        "num": 355917,
+        "word": "柴安五花大绑俏新郎",
+        "onboard_time": 1738041138,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1053297,
+        "num": 341230,
+        "word": "敖瑞鹏预告红包",
+        "onboard_time": 1738039278,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1038408,
+        "num": 334478,
+        "word": "祝绪丹发红包",
+        "onboard_time": 1738050679,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 681780,
+        "num": 312094,
+        "word": "卢昱晓发红包",
+        "onboard_time": 1738055962,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41506,
+        "num": 288157,
+        "word": "嗑瓜子为什么停不下来",
+        "onboard_time": 1738055061,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 620052,
+        "num": 277944,
+        "word": "张凌赫送祝福视听双享受",
+        "onboard_time": 1738047018,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267266,
+        "num": 267266,
+        "word": "两根菜薹卖18888元引质疑",
+        "onboard_time": 1738052661,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220420,
+        "num": 220420,
+        "word": "蛇年怕蛇怎么办",
+        "onboard_time": 1737992597,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152476,
+        "num": 220238,
+        "word": "DeepSeek让美国有些人诧异了",
+        "onboard_time": 1738041017,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 150131,
+        "num": 220013,
+        "word": "猪皮冻",
+        "onboard_time": 1738047739,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 568445,
+        "num": 219901,
+        "word": "丁禹兮以为上春晚可以瞒着父母",
+        "onboard_time": 1738054342,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 556403,
+        "num": 219503,
+        "word": "李宇春易烊千玺合作舞台",
+        "onboard_time": 1738052181,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 538789,
+        "num": 219243,
+        "word": "王一博萧敬腾春晚我可以",
+        "onboard_time": 1738051942,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 531773,
+        "num": 219142,
+        "word": "度华年拜年视频",
+        "onboard_time": 1738035497,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26950,
+        "num": 218873,
+        "word": "暖暖祝大家蛇来运转",
+        "onboard_time": 1738055600,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 57445,
+        "num": 218449,
+        "word": "留几手求网友放过李行亮",
+        "onboard_time": 1738055720,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458596,
+        "num": 218265,
+        "word": "十个勤天春晚第一个节目",
+        "onboard_time": 1738053262,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 449655,
+        "num": 218173,
+        "word": "周深春晚开始文化输出",
+        "onboard_time": 1738055120,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150504,
+        "num": 217828,
+        "word": "小狗被踩狗妈一秒冲出护崽开骂",
+        "onboard_time": 1738055120,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148160,
+        "num": 217453,
+        "word": "DeepSeek最想问人类什么问题",
+        "onboard_time": 1738046358,
+        "rank": 29,
+        "category": "科学科普,互联网"
+      },
+      {
+        "raw_hot": 411477,
+        "num": 217344,
+        "word": "沈腾马丽这次演什么关系",
+        "onboard_time": 1738053379,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360105,
+        "num": 217042,
+        "word": "张艺兴陈伟霆苏有朋如意舞步",
+        "onboard_time": 1738053742,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354088,
+        "num": 216702,
+        "word": "迪丽热巴年度收官朋友圈",
+        "onboard_time": 1738049359,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144685,
+        "num": 216651,
+        "word": "花7小时做的千元蛇年美甲",
+        "onboard_time": 1738047918,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 132897,
+        "num": 216350,
+        "word": "郭帆 MOSS",
+        "onboard_time": 1738048098,
+        "rank": 34,
+        "category": "互联网,作品衍生"
+      },
+      {
+        "raw_hot": 353133,
+        "num": 215999,
+        "word": "梁洁发红包",
+        "onboard_time": 1738048218,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320718,
+        "num": 215887,
+        "word": "陈哲远 直拍来了",
+        "onboard_time": 1737984500,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 124281,
+        "num": 215497,
+        "word": "集五福",
+        "onboard_time": 1738035017,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 120612,
+        "num": 215239,
+        "word": "一人一道年夜菜",
+        "onboard_time": 1738055420,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 116041,
+        "num": 215130,
+        "word": "除夕",
+        "onboard_time": 1738029916,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 312650,
+        "num": 214819,
+        "word": "陈都灵 偶遇一条萌萌蛇",
+        "onboard_time": 1738037958,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308678,
+        "num": 214685,
+        "word": "周翊然发了2个20250元红包",
+        "onboard_time": 1738049719,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260926,
+        "num": 214404,
+        "word": "王一博紫色丝绒西装",
+        "onboard_time": 1738054942,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251968,
+        "num": 214067,
+        "word": "表演嘉宾最多的一个节目",
+        "onboard_time": 1738055480,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246714,
+        "num": 213744,
+        "word": "薛之谦春晚独唱",
+        "onboard_time": 1738055240,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103507,
+        "num": 213451,
+        "word": "王者荣耀充值",
+        "onboard_time": 1738030635,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 101743,
+        "num": 213217,
+        "word": "未过门的女婿比驴还能干",
+        "onboard_time": 1738044257,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100528,
+        "num": 213153,
+        "word": "春节摄影大赛",
+        "onboard_time": 1738045337,
+        "rank": 47,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 100096,
+        "num": 212744,
+        "word": "全球同庆中国年",
+        "onboard_time": 1738041496,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99723,
+        "num": 212614,
+        "word": "Deepseek 文笔",
+        "onboard_time": 1738049599,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记深入基层的春暖情长#"
+    }
+  }
+}
