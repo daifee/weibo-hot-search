@@ -1,6 +1,6 @@
 {
   "startTime": 1738081671448,
-  "endTime": 1738096594143,
+  "endTime": 1738099238488,
   "band_list": [
     {
       "raw_hot": 10062879,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 456856,
-      "num": 181967,
+      "num": 234181,
       "word": "春晚收视率",
       "onboard_time": 1738086677,
       "rank": 20,
@@ -691,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 28657,
+      "num": 28657,
+      "word": "新年星祝福",
+      "onboard_time": 1738060705,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28629,
       "num": 28629,
       "word": "放鞭炮",
@@ -723,12 +731,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 22162,
+      "num": 22162,
+      "word": "开眼看试卷的红包",
+      "onboard_time": 1738098612,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 21487,
+      "num": 21487,
+      "word": "陈伟霆看emoji猜春联",
+      "onboard_time": 1738098732,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 12358,
       "num": 127260,
       "word": "陈奕迅带张雨霏唱孤勇者",
       "onboard_time": 1738092432,
       "rank": 9,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 9846,
+      "num": 21504,
+      "word": "属蛇的喜乐祝你蛇年喜乐",
+      "onboard_time": 1738096751,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9488,
@@ -743,6 +775,14 @@
       "num": 76784,
       "word": "康辉郑丽拜大年",
       "onboard_time": 1738096032,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8245,
+      "num": 80424,
+      "word": "我家的蛇年春联",
+      "onboard_time": 1738098191,
       "rank": 9,
       "category": "民生新闻"
     }

@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738096594143,
+  "endTime": 1738099238488,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -2172,7 +2172,7 @@
     },
     {
       "raw_hot": 456856,
-      "num": 181967,
+      "num": 234181,
       "word": "春晚收视率",
       "onboard_time": 1738086677,
       "rank": 20,
@@ -10227,6 +10227,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 22162,
+      "num": 22162,
+      "word": "开眼看试卷的红包",
+      "onboard_time": 1738098612,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
       "raw_hot": 21878,
       "num": 30466,
       "word": "河南春晚看见不一样的周深",
@@ -10241,6 +10249,14 @@
       "onboard_time": 1737988518,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 21487,
+      "num": 21487,
+      "word": "陈伟霆看emoji猜春联",
+      "onboard_time": 1738098732,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 20668,
@@ -10507,6 +10523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 9846,
+      "num": 21504,
+      "word": "属蛇的喜乐祝你蛇年喜乐",
+      "onboard_time": 1738096751,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 9706,
       "num": 19372,
       "word": "戍边民警吃到家乡菜激动落泪",
@@ -10568,6 +10592,14 @@
       "word": "年味灯会把中式浪漫拉满了",
       "onboard_time": 1738005791,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8245,
+      "num": 80424,
+      "word": "我家的蛇年春联",
+      "onboard_time": 1738098191,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
