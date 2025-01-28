@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738081671448,
+  "endTime": 1738082578890,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1011,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2579460,
+      "num": 2579460,
+      "word": "丁禹兮王安宇帅一大跳",
+      "onboard_time": 1738080267,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2578366,
       "num": 395633,
       "word": "赵露思走不动想去捶打腿",
@@ -1040,6 +1048,22 @@
       "word": "留几手长文",
       "onboard_time": 1736494280,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2550026,
+      "num": 2550026,
+      "word": "小明一家 老师好",
+      "onboard_time": 1738081590,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2549490,
+      "num": 2549490,
+      "word": "周深高音",
+      "onboard_time": 1738081830,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -1185,6 +1209,14 @@
       "onboard_time": 1737645799,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 2377253,
+      "num": 2377253,
+      "word": "丁禹兮挑眉",
+      "onboard_time": 1738080388,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 2376681,
@@ -1513,14 +1545,6 @@
       "onboard_time": 1738071094,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2119601,
-      "num": 2119601,
-      "word": "丁禹兮挑眉",
-      "onboard_time": 1738080388,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 2106610,
@@ -2035,14 +2059,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1869246,
-      "num": 1869246,
-      "word": "丁禹兮王安宇帅一大跳",
-      "onboard_time": 1738080267,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1868618,
       "num": 1868618,
       "word": "希尔顿等名人豪宅已被烧成平地",
@@ -2384,22 +2400,6 @@
       "word": "微博之夜节目单",
       "onboard_time": 1736519842,
       "rank": 23,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1701466,
-      "num": 954739,
-      "word": "麦琳李行亮都下车了",
-      "onboard_time": 1736397023,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1698328,
-      "num": 1698328,
-      "word": "我的紫在哪 我的昕在哪",
-      "onboard_time": 1736596588,
-      "rank": 8,
       "category": "作品衍生"
     }
   ],

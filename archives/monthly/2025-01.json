@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738081671448,
+  "endTime": 1738082578890,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1011,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2579460,
+      "num": 2579460,
+      "word": "丁禹兮王安宇帅一大跳",
+      "onboard_time": 1738080267,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2578366,
       "num": 395633,
       "word": "赵露思走不动想去捶打腿",
@@ -1040,6 +1048,22 @@
       "word": "留几手长文",
       "onboard_time": 1736494280,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2550026,
+      "num": 2550026,
+      "word": "小明一家 老师好",
+      "onboard_time": 1738081590,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2549490,
+      "num": 2549490,
+      "word": "周深高音",
+      "onboard_time": 1738081830,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -1185,6 +1209,14 @@
       "onboard_time": 1737645799,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 2377253,
+      "num": 2377253,
+      "word": "丁禹兮挑眉",
+      "onboard_time": 1738080388,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 2376681,
@@ -1513,14 +1545,6 @@
       "onboard_time": 1738071094,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2119601,
-      "num": 2119601,
-      "word": "丁禹兮挑眉",
-      "onboard_time": 1738080388,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 2106610,
@@ -2033,14 +2057,6 @@
       "onboard_time": 1736574381,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1869246,
-      "num": 1869246,
-      "word": "丁禹兮王安宇帅一大跳",
-      "onboard_time": 1738080267,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 1868618,
@@ -2851,6 +2867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1566457,
+      "num": 1566457,
+      "word": "十年前priest就成功预测了25年春晚",
+      "onboard_time": 1738079795,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1565917,
       "num": 1565917,
       "word": "杨幂别打鼓了 打我",
@@ -3460,7 +3484,7 @@
     },
     {
       "raw_hot": 1415945,
-      "num": 953263,
+      "num": 1212296,
       "word": "春意红包各有各的美",
       "onboard_time": 1738080146,
       "rank": 24,
@@ -3681,6 +3705,14 @@
       "onboard_time": 1735659086,
       "rank": 5,
       "category": "体育,综艺"
+    },
+    {
+      "raw_hot": 1356521,
+      "num": 1356521,
+      "word": "小明妈妈变爷爷",
+      "onboard_time": 1738082130,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 1356151,
@@ -4515,6 +4547,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1204108,
+      "num": 1204108,
+      "word": "孙千腿好长",
+      "onboard_time": 1738079079,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1201521,
       "num": 2439843,
       "word": "韩国空难客机黑匣子撞墙前4分钟停录",
@@ -4851,14 +4891,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1142618,
-      "num": 1142618,
-      "word": "十年前priest就成功预测了25年春晚",
-      "onboard_time": 1738079795,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1142346,
       "num": 1142346,
       "word": "微博之夜大合照",
@@ -4921,14 +4953,6 @@
       "onboard_time": 1737191538,
       "rank": 13,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1137329,
-      "num": 949386,
-      "word": "小明一家 老师好",
-      "onboard_time": 1738081590,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 1137100,
@@ -6739,14 +6763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 948565,
-      "num": 948565,
-      "word": "孙千腿好长",
-      "onboard_time": 1738079079,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 948452,
       "num": 948452,
       "word": "王宝强发言时的王一博",
@@ -7137,6 +7153,14 @@
       "onboard_time": 1735741642,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 913540,
+      "num": 2203214,
+      "word": "DeepSeek创始人回广东过年要躲起来",
+      "onboard_time": 1738080630,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 913485,
@@ -7787,6 +7811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 864606,
+      "num": 864606,
+      "word": "Angelababy的红包",
+      "onboard_time": 1738080029,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 863615,
       "num": 863615,
       "word": "春晚一口气发了168小时视频",
@@ -8217,6 +8249,14 @@
       "onboard_time": 1737776357,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 827220,
+      "num": 827220,
+      "word": "谁给李宇春穿的裙子",
+      "onboard_time": 1738079795,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 827156,
@@ -9427,6 +9467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 748495,
+      "num": 2148226,
+      "word": "塞尔维亚总理辞职",
+      "onboard_time": 1738077333,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 748336,
       "num": 546656,
       "word": "沈腾人生照片",
@@ -9841,14 +9889,6 @@
       "onboard_time": 1736560938,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 728588,
-      "num": 728588,
-      "word": "Angelababy的红包",
-      "onboard_time": 1738080029,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 728301,
@@ -10715,14 +10755,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 684248,
-      "num": 2148226,
-      "word": "塞尔维亚总理辞职",
-      "onboard_time": 1738077333,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 683778,
       "num": 683778,
       "word": "冲动订购19800元内衣隔天能退吗",
@@ -11099,14 +11131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 664509,
-      "num": 664509,
-      "word": "谁给李宇春穿的裙子",
-      "onboard_time": 1738079795,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 664109,
       "num": 664109,
       "word": "上海地铁",
@@ -11395,6 +11419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 651209,
+      "num": 1011352,
+      "word": "武汉分会场 凤凰涅槃浴火重生",
+      "onboard_time": 1738078421,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 650847,
       "num": 395463,
       "word": "孟子义控诉和李昀锐毫无默契",
@@ -11625,14 +11657,6 @@
       "onboard_time": 1736391681,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 642926,
-      "num": 1011352,
-      "word": "武汉分会场 凤凰涅槃浴火重生",
-      "onboard_time": 1738078421,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 642794,
@@ -13480,6 +13504,14 @@
       "word": "傅菁后背痣好大方的美",
       "onboard_time": 1735975341,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 568924,
+      "num": 568924,
+      "word": "和OneRepublic一起数星星",
+      "onboard_time": 1738081230,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -16129,14 +16161,6 @@
       "onboard_time": 1737520219,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 488709,
-      "num": 488709,
-      "word": "和OneRepublic一起数星星",
-      "onboard_time": 1738081230,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 488306,
@@ -20739,6 +20763,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 382993,
+      "num": 382993,
+      "word": "低频的红包",
+      "onboard_time": 1738079138,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 382851,
       "num": 420113,
       "word": "河南一男孩课堂上被同学狂扇耳光",
@@ -22476,7 +22508,7 @@
     },
     {
       "raw_hot": 354125,
-      "num": 1184045,
+      "num": 1357124,
       "word": "程潇珍珠美人妆",
       "onboard_time": 1738078421,
       "rank": 45,
@@ -23625,14 +23657,6 @@
       "onboard_time": 1735660942,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 335179,
-      "num": 1395212,
-      "word": "DeepSeek创始人回广东过年要躲起来",
-      "onboard_time": 1738080630,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 335118,
@@ -24849,14 +24873,6 @@
       "onboard_time": 1735786941,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 318000,
-      "num": 318000,
-      "word": "低频的红包",
-      "onboard_time": 1738079138,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 317955,
@@ -28060,7 +28076,7 @@
     },
     {
       "raw_hot": 277954,
-      "num": 1065944,
+      "num": 1245522,
       "word": "蛇年",
       "onboard_time": 1738080146,
       "rank": 18,
@@ -28305,6 +28321,14 @@
       "onboard_time": 1737295820,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 275289,
+      "num": 1360958,
+      "word": "淘宝真的让我上春晚了",
+      "onboard_time": 1738080086,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 275280,
@@ -38123,6 +38147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202714,
+      "num": 1373070,
+      "word": "张智霖陈小春周柏豪同台",
+      "onboard_time": 1738080267,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202704,
       "num": 643715,
       "word": "向鱼 不甘心",
@@ -40529,6 +40561,14 @@
       "onboard_time": 1736661499,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 194271,
+      "num": 1225562,
+      "word": "香奈儿珍珠妆",
+      "onboard_time": 1738080267,
+      "rank": 20,
+      "category": "美妆"
     },
     {
       "raw_hot": 194259,
@@ -44739,14 +44779,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 180105,
-      "num": 1155742,
-      "word": "淘宝真的让我上春晚了",
-      "onboard_time": 1738080086,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 180053,
       "num": 180053,
       "word": "张雨绮 太阳女神",
@@ -45945,14 +45977,6 @@
       "onboard_time": 1737501614,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 175759,
-      "num": 1118993,
-      "word": "张智霖陈小春周柏豪同台",
-      "onboard_time": 1738080267,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 175747,
@@ -55635,6 +55659,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 145285,
+      "num": 494880,
+      "word": "巳巳如意拜大年",
+      "onboard_time": 1738081529,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145269,
       "num": 145269,
       "word": "孩子被护送绕160多道弯回到家",
@@ -56713,14 +56745,6 @@
       "onboard_time": 1735911742,
       "rank": 48,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 142030,
-      "num": 964388,
-      "word": "香奈儿珍珠妆",
-      "onboard_time": 1738080267,
-      "rank": 20,
-      "category": "美妆"
     },
     {
       "raw_hot": 142021,
@@ -73492,7 +73516,7 @@
     },
     {
       "raw_hot": 92693,
-      "num": 957570,
+      "num": 1241636,
       "word": "坐什么车能溜进春晚现场",
       "onboard_time": 1738080267,
       "rank": 22,
@@ -73697,14 +73721,6 @@
       "onboard_time": 1736558778,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 91245,
-      "num": 230680,
-      "word": "巳巳如意拜大年",
-      "onboard_time": 1738081529,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91189,
@@ -76609,6 +76625,14 @@
       "onboard_time": 1736700255,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76197,
+      "num": 481660,
+      "word": "盘点DeepSeek创始人梁文锋商业版图",
+      "onboard_time": 1738080691,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 76117,
