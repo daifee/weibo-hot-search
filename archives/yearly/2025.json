@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738057020774,
+  "endTime": 1738059800556,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 15419175,
+      "num": 15419175,
+      "word": "红包",
+      "onboard_time": 1738041197,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11945070,
       "num": 11945070,
       "word": "杨紫李现 纯元CP结婚",
@@ -113,14 +121,6 @@
       "onboard_time": 1735660407,
       "rank": 0,
       "category": "情感,民生新闻"
-    },
-    {
-      "raw_hot": 10383417,
-      "num": 10383417,
-      "word": "红包",
-      "onboard_time": 1738041197,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10158319,
@@ -387,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3950238,
+      "num": 3950238,
+      "word": "陈哲远 红包",
+      "onboard_time": 1738032856,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3939290,
       "num": 3939290,
       "word": "柯洁暴怒问裁判",
@@ -457,6 +465,14 @@
       "onboard_time": 1735978403,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3556279,
+      "num": 757392,
+      "word": "张凌赫的红包",
+      "onboard_time": 1738057404,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 3518848,
@@ -688,14 +704,6 @@
       "word": "赵露思疑似将复工",
       "onboard_time": 1736922259,
       "rank": 0,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2850242,
-      "num": 2850242,
-      "word": "陈哲远 红包",
-      "onboard_time": 1738032856,
-      "rank": 7,
       "category": "艺人"
     },
     {
@@ -1668,7 +1676,7 @@
     },
     {
       "raw_hot": 1906556,
-      "num": 370323,
+      "num": 497183,
       "word": "祝绪丹发红包",
       "onboard_time": 1738050679,
       "rank": 6,
@@ -2244,7 +2252,7 @@
     },
     {
       "raw_hot": 1666497,
-      "num": 407798,
+      "num": 718738,
       "word": "明星红包",
       "onboard_time": 1738049958,
       "rank": 7,
@@ -2289,6 +2297,14 @@
       "onboard_time": 1736142803,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1661596,
+      "num": 748395,
+      "word": "李昀锐红包",
+      "onboard_time": 1738058362,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 1652837,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1736503700,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1616886,
-      "num": 1616886,
-      "word": "星光大赏这谁啊",
-      "onboard_time": 1735999949,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1615883,
-      "num": 1615883,
-      "word": "老来得King",
-      "onboard_time": 1736611344,
-      "rank": 3,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
