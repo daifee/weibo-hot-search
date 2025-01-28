@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738095812819,
+  "endTime": 1738096594143,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -17292,7 +17292,7 @@
     },
     {
       "raw_hot": 456856,
-      "num": 160407,
+      "num": 181967,
       "word": "春晚收视率",
       "onboard_time": 1738086677,
       "rank": 20,
@@ -83459,6 +83459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 39540,
+      "num": 39536,
+      "word": "分会场好震撼",
+      "onboard_time": 1738095372,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 39510,
       "num": 640083,
       "word": "大街小巷上新中国红",
@@ -84473,14 +84481,6 @@
       "onboard_time": 1736663899,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 34804,
-      "num": 34804,
-      "word": "分会场好震撼",
-      "onboard_time": 1738095372,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 34802,
@@ -87001,6 +87001,14 @@
       "onboard_time": 1736413940,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 25579,
+      "num": 25466,
+      "word": "朱志鑫特别早的年夜饭",
+      "onboard_time": 1738096520,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 25546,
@@ -91079,6 +91087,14 @@
       "num": 61517,
       "word": "用非遗剪纸打开城市地标",
       "onboard_time": 1737842832,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8884,
+      "num": 76784,
+      "word": "康辉郑丽拜大年",
+      "onboard_time": 1738096032,
       "rank": 9,
       "category": "民生新闻"
     },

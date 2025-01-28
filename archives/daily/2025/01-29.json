@@ -1,6 +1,6 @@
 {
   "startTime": 1738081671448,
-  "endTime": 1738095812819,
+  "endTime": 1738096594143,
   "band_list": [
     {
       "raw_hot": 10062879,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 456856,
-      "num": 160407,
+      "num": 181967,
       "word": "春晚收视率",
       "onboard_time": 1738086677,
       "rank": 20,
@@ -643,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 39540,
+      "num": 39536,
+      "word": "分会场好震撼",
+      "onboard_time": 1738095372,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 39286,
       "num": 45994,
       "word": "恋与深空",
@@ -656,14 +664,6 @@
       "word": "淘宝带1亿网友上春晚了",
       "onboard_time": 1738084821,
       "rank": 19,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 34804,
-      "num": 34804,
-      "word": "分会场好震撼",
-      "onboard_time": 1738095372,
-      "rank": 35,
       "category": "综艺"
     },
     {
@@ -715,6 +715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25579,
+      "num": 25466,
+      "word": "朱志鑫特别早的年夜饭",
+      "onboard_time": 1738096520,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 12358,
       "num": 127260,
       "word": "陈奕迅带张雨霏唱孤勇者",
@@ -727,6 +735,14 @@
       "num": 89766,
       "word": "春节是中国节也是世界节",
       "onboard_time": 1738094832,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8884,
+      "num": 76784,
+      "word": "康辉郑丽拜大年",
+      "onboard_time": 1738096032,
       "rank": 9,
       "category": "民生新闻"
     }
