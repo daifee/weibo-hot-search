@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738082578890,
+  "endTime": 1738084763791,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -2347,6 +2347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1719422,
+      "num": 1719422,
+      "word": "十年前priest就成功预测了25年春晚",
+      "onboard_time": 1738079795,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1717774,
       "num": 1717774,
       "word": "雷军 小米YU7",
@@ -2577,6 +2585,14 @@
       "onboard_time": 1736600907,
       "rank": 6,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1650366,
+      "num": 1650366,
+      "word": "小明妈妈变爷爷",
+      "onboard_time": 1738082130,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 1650334,
@@ -2863,14 +2879,6 @@
       "num": 908271,
       "word": "李小冉 都说了让你说话注意点",
       "onboard_time": 1735895179,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1566457,
-      "num": 1566457,
-      "word": "十年前priest就成功预测了25年春晚",
-      "onboard_time": 1738079795,
       "rank": 15,
       "category": "综艺"
     },
@@ -3705,14 +3713,6 @@
       "onboard_time": 1735659086,
       "rank": 5,
       "category": "体育,综艺"
-    },
-    {
-      "raw_hot": 1356521,
-      "num": 1356521,
-      "word": "小明妈妈变爷爷",
-      "onboard_time": 1738082130,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 1356151,
@@ -5219,6 +5219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1107858,
+      "num": 1107858,
+      "word": "谁给李宇春穿的裙子",
+      "onboard_time": 1738079795,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1107028,
       "num": 1107203,
       "word": "警方正在全力寻找电竞选手幻云",
@@ -5241,6 +5249,14 @@
       "onboard_time": 1738048218,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1102512,
+      "num": 1102512,
+      "word": "难忘今宵",
+      "onboard_time": 1738082966,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 1101856,
@@ -5905,6 +5921,14 @@
       "onboard_time": 1736401821,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1020804,
+      "num": 2203214,
+      "word": "DeepSeek创始人回广东过年要躲起来",
+      "onboard_time": 1738080630,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1020662,
@@ -7155,14 +7179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 913540,
-      "num": 2203214,
-      "word": "DeepSeek创始人回广东过年要躲起来",
-      "onboard_time": 1738080630,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 913485,
       "num": 2351706,
       "word": "王楚钦微博年度影响力体育人物",
@@ -8249,14 +8265,6 @@
       "onboard_time": 1737776357,
       "rank": 1,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 827220,
-      "num": 827220,
-      "word": "谁给李宇春穿的裙子",
-      "onboard_time": 1738079795,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 827156,
@@ -19347,6 +19355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 412635,
+      "num": 412635,
+      "word": "低频的红包",
+      "onboard_time": 1738079138,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 412623,
       "num": 412623,
       "word": "夏以昼",
@@ -20761,14 +20777,6 @@
       "onboard_time": 1737730339,
       "rank": 13,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 382993,
-      "num": 382993,
-      "word": "低频的红包",
-      "onboard_time": 1738079138,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 382851,
@@ -29409,6 +29417,14 @@
       "onboard_time": 1737993858,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 264550,
+      "num": 264550,
+      "word": "把艾伦还给沈腾马丽",
+      "onboard_time": 1738084522,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 264453,
@@ -51363,6 +51379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158444,
+      "num": 767765,
+      "word": "巳巳如意拜大年",
+      "onboard_time": 1738081529,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158427,
       "num": 158427,
       "word": "作者被疯狂催婚后做出的游戏",
@@ -51976,6 +52000,14 @@
       "word": "救援民警在震区继续开展救援善后工作",
       "onboard_time": 1736512881,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156845,
+      "num": 763149,
+      "word": "大年初一",
+      "onboard_time": 1738084163,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -55657,14 +55689,6 @@
       "onboard_time": 1737454758,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 145285,
-      "num": 494880,
-      "word": "巳巳如意拜大年",
-      "onboard_time": 1738081529,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 145269,
@@ -73171,6 +73195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 94418,
+      "num": 305160,
+      "word": "蛇年送你长长长长长祝福",
+      "onboard_time": 1738083983,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94406,
       "num": 94406,
       "word": "景德镇车祸家属抑郁服药也无法缓解",
@@ -75057,6 +75089,14 @@
       "onboard_time": 1737210261,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84475,
+      "num": 1332005,
+      "word": "DeepSeek从出租屋起步走向世界",
+      "onboard_time": 1738083744,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 84406,

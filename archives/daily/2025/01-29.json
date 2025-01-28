@@ -1,6 +1,6 @@
 {
   "startTime": 1738081671448,
-  "endTime": 1738082578890,
+  "endTime": 1738084763791,
   "band_list": [
     {
       "raw_hot": 10062879,
@@ -83,11 +83,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1566457,
-      "num": 1566457,
+      "raw_hot": 1719422,
+      "num": 1719422,
       "word": "十年前priest就成功预测了25年春晚",
       "onboard_time": 1738079795,
       "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1650366,
+      "num": 1650366,
+      "word": "小明妈妈变爷爷",
+      "onboard_time": 1738082130,
+      "rank": 16,
       "category": "综艺"
     },
     {
@@ -123,20 +131,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1356521,
-      "num": 1356521,
-      "word": "小明妈妈变爷爷",
-      "onboard_time": 1738082130,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1204108,
       "num": 1204108,
       "word": "孙千腿好长",
       "onboard_time": 1738079079,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1107858,
+      "num": 1107858,
+      "word": "谁给李宇春穿的裙子",
+      "onboard_time": 1738079795,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1102512,
+      "num": 1102512,
+      "word": "难忘今宵",
+      "onboard_time": 1738082966,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1020804,
+      "num": 2203214,
+      "word": "DeepSeek创始人回广东过年要躲起来",
+      "onboard_time": 1738080630,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 958176,
@@ -147,28 +171,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 913540,
-      "num": 2203214,
-      "word": "DeepSeek创始人回广东过年要躲起来",
-      "onboard_time": 1738080630,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 864606,
       "num": 864606,
       "word": "Angelababy的红包",
       "onboard_time": 1738080029,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 827220,
-      "num": 827220,
-      "word": "谁给李宇春穿的裙子",
-      "onboard_time": 1738079795,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 792527,
@@ -283,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 412635,
+      "num": 412635,
+      "word": "低频的红包",
+      "onboard_time": 1738079138,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 388554,
       "num": 388554,
       "word": "韩国釜山金海机场飞机失火",
@@ -297,14 +313,6 @@
       "onboard_time": 1738061125,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 382993,
-      "num": 382993,
-      "word": "低频的红包",
-      "onboard_time": 1738079138,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 367807,
@@ -339,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264550,
+      "num": 264550,
+      "word": "把艾伦还给沈腾马丽",
+      "onboard_time": 1738084522,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 257174,
       "num": 864633,
       "word": "陈梦晒年夜饭",
@@ -361,6 +377,14 @@
       "onboard_time": 1738062626,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 218125,
+      "num": 218125,
+      "word": "关晓彤咋这么美",
+      "onboard_time": 1738070560,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 202714,
@@ -395,11 +419,19 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 145285,
-      "num": 494880,
+      "raw_hot": 158444,
+      "num": 767765,
       "word": "巳巳如意拜大年",
       "onboard_time": 1738081529,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156845,
+      "num": 763149,
+      "word": "大年初一",
+      "onboard_time": 1738084163,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -419,12 +451,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 94418,
+      "num": 305160,
+      "word": "蛇年送你长长长长长祝福",
+      "onboard_time": 1738083983,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92693,
       "num": 1241636,
       "word": "坐什么车能溜进春晚现场",
       "onboard_time": 1738080267,
       "rank": 22,
       "category": "综艺,汽车"
+    },
+    {
+      "raw_hot": 84475,
+      "num": 1332005,
+      "word": "DeepSeek从出租屋起步走向世界",
+      "onboard_time": 1738083744,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 76197,
