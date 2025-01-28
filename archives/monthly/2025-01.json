@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738106443719,
+  "endTime": 1738107355253,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -6115,6 +6115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1005489,
+      "num": 1005489,
+      "word": "春晚收视率",
+      "onboard_time": 1738086677,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1004763,
       "num": 1004763,
       "word": "国考",
@@ -6369,14 +6377,6 @@
       "onboard_time": 1735953197,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 985456,
-      "num": 985456,
-      "word": "春晚收视率",
-      "onboard_time": 1738086677,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 985426,
@@ -10427,6 +10427,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 696332,
+      "num": 696332,
+      "word": "金晨你怎么可以捅这么大的篓子",
+      "onboard_time": 1738090873,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 696318,
       "num": 696318,
       "word": "目前流感病毒99%以上是甲流",
@@ -13417,14 +13425,6 @@
       "onboard_time": 1735873700,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 576171,
-      "num": 576171,
-      "word": "金晨你怎么可以捅这么大的篓子",
-      "onboard_time": 1738090873,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 576040,
@@ -33283,6 +33283,14 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 230306,
+      "num": 230306,
+      "word": "春晚首个显眼包出现了",
+      "onboard_time": 1738092014,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230199,
       "num": 232180,
       "word": "澳网",
@@ -33617,6 +33625,14 @@
       "onboard_time": 1736242342,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 227714,
+      "num": 145382,
+      "word": "央视春晚四大美女",
+      "onboard_time": 1738101732,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 227662,
@@ -34353,14 +34369,6 @@
       "onboard_time": 1735739482,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 221759,
-      "num": 108991,
-      "word": "央视春晚四大美女",
-      "onboard_time": 1738101732,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 221732,
@@ -35289,6 +35297,14 @@
       "onboard_time": 1735767612,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216612,
+      "num": 138805,
+      "word": "她1小时写完王菲新歌的词",
+      "onboard_time": 1738106295,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 216610,
@@ -39920,14 +39936,6 @@
       "word": "桐心薇泯十指紧扣",
       "onboard_time": 1738045577,
       "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 196775,
-      "num": 196775,
-      "word": "春晚首个显眼包出现了",
-      "onboard_time": 1738092014,
-      "rank": 41,
       "category": "综艺"
     },
     {
@@ -47235,6 +47243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171818,
+      "num": 763149,
+      "word": "大年初一",
+      "onboard_time": 1738084163,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171739,
       "num": 171739,
       "word": "Origin停运",
@@ -50611,6 +50627,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 160946,
+      "num": 160946,
+      "word": "马斯克质疑DeepSeek低成本训练",
+      "onboard_time": 1738102161,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 160943,
       "num": 160943,
       "word": "流星雨",
@@ -52056,14 +52080,6 @@
       "word": "救援民警在震区继续开展救援善后工作",
       "onboard_time": 1736512881,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 156845,
-      "num": 763149,
-      "word": "大年初一",
-      "onboard_time": 1738084163,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -53611,6 +53627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151595,
+      "num": 151595,
+      "word": "机器人跳完舞被搀扶有序下台",
+      "onboard_time": 1738089374,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151588,
       "num": 359140,
       "word": "春节摄影大赛",
@@ -54873,6 +54897,14 @@
       "onboard_time": 1736405300,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 147778,
+      "num": 147778,
+      "word": "射雕",
+      "onboard_time": 1738105815,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 147759,
@@ -56328,6 +56360,14 @@
       "word": "家属称老人信养生馆治癌拒就医去世",
       "onboard_time": 1735722258,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143606,
+      "num": 165673,
+      "word": "领舞7岁娃是英歌舞传人",
+      "onboard_time": 1738106055,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -58169,14 +58209,6 @@
       "onboard_time": 1737700878,
       "rank": 44,
       "category": "数码"
-    },
-    {
-      "raw_hot": 138392,
-      "num": 138392,
-      "word": "射雕",
-      "onboard_time": 1738105815,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 138353,
@@ -61507,14 +61539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129587,
-      "num": 129587,
-      "word": "机器人跳完舞被搀扶有序下台",
-      "onboard_time": 1738089374,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129556,
       "num": 129556,
       "word": "第二天醒来头顶停个车就老实了",
@@ -63051,6 +63075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125386,
+      "num": 125386,
+      "word": "撒贝宁尼格买提春晚后台共用氧气瓶",
+      "onboard_time": 1738086796,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125343,
       "num": 125343,
       "word": "华晨宇新专销量破3000万",
@@ -63153,14 +63185,6 @@
       "onboard_time": 1737951557,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125185,
-      "num": 125185,
-      "word": "撒贝宁尼格买提春晚后台共用氧气瓶",
-      "onboard_time": 1738086796,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 125179,
@@ -66683,14 +66707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 115866,
-      "num": 115866,
-      "word": "马斯克质疑DeepSeek低成本训练",
-      "onboard_time": 1738102161,
-      "rank": 38,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 115856,
       "num": 115856,
       "word": "名侦探的假期",
@@ -68625,6 +68641,14 @@
       "onboard_time": 1735999712,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110585,
+      "num": 89027,
+      "word": "岳云鹏春晚换搭档了",
+      "onboard_time": 1738105935,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 110570,
@@ -72891,14 +72915,6 @@
       "category": "体育,作品衍生"
     },
     {
-      "raw_hot": 96039,
-      "num": 96039,
-      "word": "她1小时写完王菲新歌的词",
-      "onboard_time": 1738106295,
-      "rank": 29,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 96025,
       "num": 988871,
       "word": "林高远称会扛起家的责任",
@@ -74371,6 +74387,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 88628,
+      "num": 88628,
+      "word": "朱一龙李现夜跑",
+      "onboard_time": 1738104134,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 88551,
       "num": 308752,
       "word": "警方回应上海男子5元出让地铁高峰座位",
@@ -75339,6 +75363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 83976,
+      "num": 83976,
+      "word": "王一博春晚后的第一个采访",
+      "onboard_time": 1738105334,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83971,
       "num": 383904,
       "word": "震中帮同学撤离4人每人被奖1万",
@@ -76251,6 +76283,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 79183,
+      "num": 74601,
+      "word": "十个勤天春晚后台只有九个人",
+      "onboard_time": 1738106535,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 79145,
       "num": 239166,
       "word": "发育路扁鹊",
@@ -76297,6 +76337,14 @@
       "onboard_time": 1736149770,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 79025,
+      "num": 74510,
+      "word": "还好王一博腿长",
+      "onboard_time": 1738106596,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 79019,
@@ -76707,14 +76755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 76707,
-      "num": 76707,
-      "word": "王一博春晚后的第一个采访",
-      "onboard_time": 1738105334,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 76613,
       "num": 336163,
       "word": "檀健次的规划是进组",
@@ -77075,14 +77115,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 74622,
-      "num": 74622,
-      "word": "朱一龙李现夜跑",
-      "onboard_time": 1738104134,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 74600,
       "num": 247601,
       "word": "归期给道崽买车",
@@ -77097,6 +77129,14 @@
       "onboard_time": 1735851138,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74538,
+      "num": 74538,
+      "word": "早安我的中国",
+      "onboard_time": 1738107255,
+      "rank": 41,
+      "category": "正能量"
     },
     {
       "raw_hot": 74531,
@@ -77955,14 +77995,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 69090,
-      "num": 69090,
-      "word": "岳云鹏春晚换搭档了",
-      "onboard_time": 1738105935,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 69074,
       "num": 69074,
       "word": "国色芳华有效播放量破3亿",
@@ -78747,6 +78779,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 63857,
+      "num": 63857,
+      "word": "被跳舞的易烊千玺帅到了",
+      "onboard_time": 1738101971,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 63847,
       "num": 206052,
       "word": "千朵桃花热辣滚炕",
@@ -79179,14 +79219,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 61449,
-      "num": 61449,
-      "word": "被跳舞的易烊千玺帅到了",
-      "onboard_time": 1738101971,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 61346,
       "num": 121403,
       "word": "BLGwhzy夸王俊凯打游戏",
@@ -79577,14 +79609,6 @@
       "onboard_time": 1736499200,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 59040,
-      "num": 105538,
-      "word": "领舞7岁娃是英歌舞传人",
-      "onboard_time": 1738106055,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 59018,
@@ -85555,6 +85579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 31063,
+      "num": 107947,
+      "word": "谷爱凌祝大家蛇年快乐",
+      "onboard_time": 1738107136,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 31036,
       "num": 379746,
       "word": "了不起的马尾绣妈妈",
@@ -87521,6 +87553,14 @@
       "onboard_time": 1737886879,
       "rank": 29,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 24069,
+      "num": 103427,
+      "word": "九尾除夕开播",
+      "onboard_time": 1738106055,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 24053,
@@ -90241,14 +90281,6 @@
       "onboard_time": 1737660132,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 13315,
-      "num": 103427,
-      "word": "九尾除夕开播",
-      "onboard_time": 1738106055,
-      "rank": 24,
-      "category": "电竞"
     },
     {
       "raw_hot": 13277,

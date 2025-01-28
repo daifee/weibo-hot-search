@@ -1,6 +1,6 @@
 {
   "startTime": 1738081671448,
-  "endTime": 1738106443719,
+  "endTime": 1738107355253,
   "band_list": [
     {
       "raw_hot": 10062879,
@@ -163,8 +163,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 985456,
-      "num": 985456,
+      "raw_hot": 1005489,
+      "num": 1005489,
       "word": "春晚收视率",
       "onboard_time": 1738086677,
       "rank": 20,
@@ -235,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 696332,
+      "num": 696332,
+      "word": "金晨你怎么可以捅这么大的篓子",
+      "onboard_time": 1738090873,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 651209,
       "num": 1011352,
       "word": "武汉分会场 凤凰涅槃浴火重生",
@@ -248,14 +256,6 @@
       "word": "王菲嗓子无敌了",
       "onboard_time": 1738072539,
       "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 576171,
-      "num": 576171,
-      "word": "金晨你怎么可以捅这么大的篓子",
-      "onboard_time": 1738090873,
-      "rank": 0,
       "category": "综艺"
     },
     {
@@ -403,8 +403,16 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 221759,
-      "num": 108991,
+      "raw_hot": 230306,
+      "num": 230306,
+      "word": "春晚首个显眼包出现了",
+      "onboard_time": 1738092014,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 227714,
+      "num": 145382,
       "word": "央视春晚四大美女",
       "onboard_time": 1738101732,
       "rank": 20,
@@ -417,6 +425,14 @@
       "onboard_time": 1738070560,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 216612,
+      "num": 138805,
+      "word": "她1小时写完王菲新歌的词",
+      "onboard_time": 1738106295,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 202714,
@@ -433,14 +449,6 @@
       "onboard_time": 1738089674,
       "rank": 19,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 196775,
-      "num": 196775,
-      "word": "春晚首个显眼包出现了",
-      "onboard_time": 1738092014,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 195004,
@@ -475,19 +483,27 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 171818,
+      "num": 763149,
+      "word": "大年初一",
+      "onboard_time": 1738084163,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160946,
+      "num": 160946,
+      "word": "马斯克质疑DeepSeek低成本训练",
+      "onboard_time": 1738102161,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 158444,
       "num": 767765,
       "word": "巳巳如意拜大年",
       "onboard_time": 1738081529,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 156845,
-      "num": 763149,
-      "word": "大年初一",
-      "onboard_time": 1738084163,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -499,20 +515,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151595,
+      "num": 151595,
+      "word": "机器人跳完舞被搀扶有序下台",
+      "onboard_time": 1738089374,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147778,
+      "num": 147778,
+      "word": "射雕",
+      "onboard_time": 1738105815,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 143606,
+      "num": 165673,
+      "word": "领舞7岁娃是英歌舞传人",
+      "onboard_time": 1738106055,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141237,
       "num": 150704,
       "word": "妥妥的",
       "onboard_time": 1738087635,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 138392,
-      "num": 138392,
-      "word": "射雕",
-      "onboard_time": 1738105815,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 136074,
@@ -523,14 +555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129587,
-      "num": 129587,
-      "word": "机器人跳完舞被搀扶有序下台",
-      "onboard_time": 1738089374,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129144,
       "num": 897009,
       "word": "蛇年送你长长长长长祝福",
@@ -539,8 +563,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125185,
-      "num": 125185,
+      "raw_hot": 125386,
+      "num": 125386,
       "word": "撒贝宁尼格买提春晚后台共用氧气瓶",
       "onboard_time": 1738086796,
       "rank": 40,
@@ -555,14 +579,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 115866,
-      "num": 115866,
-      "word": "马斯克质疑DeepSeek低成本训练",
-      "onboard_time": 1738102161,
-      "rank": 38,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 114097,
       "num": 95259,
       "word": "李子柒春晚战袍揭秘",
@@ -571,20 +587,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110585,
+      "num": 89027,
+      "word": "岳云鹏春晚换搭档了",
+      "onboard_time": 1738105935,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101134,
       "num": 230797,
       "word": "年夜饭",
       "onboard_time": 1738052900,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 96039,
-      "num": 96039,
-      "word": "她1小时写完王菲新歌的词",
-      "onboard_time": 1738106295,
-      "rank": 29,
-      "category": "音乐"
     },
     {
       "raw_hot": 94169,
@@ -603,6 +619,14 @@
       "category": "综艺,汽车"
     },
     {
+      "raw_hot": 88628,
+      "num": 88628,
+      "word": "朱一龙李现夜跑",
+      "onboard_time": 1738104134,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 85622,
       "num": 102244,
       "word": "零点鞭炮",
@@ -619,11 +643,27 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 76707,
-      "num": 76707,
+      "raw_hot": 83976,
+      "num": 83976,
       "word": "王一博春晚后的第一个采访",
       "onboard_time": 1738105334,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 79183,
+      "num": 74601,
+      "word": "十个勤天春晚后台只有九个人",
+      "onboard_time": 1738106535,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 79025,
+      "num": 74510,
+      "word": "还好王一博腿长",
+      "onboard_time": 1738106596,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -643,20 +683,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 74622,
-      "num": 74622,
-      "word": "朱一龙李现夜跑",
-      "onboard_time": 1738104134,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 69090,
-      "num": 69090,
-      "word": "岳云鹏春晚换搭档了",
-      "onboard_time": 1738105935,
-      "rank": 39,
-      "category": "综艺"
+      "raw_hot": 74538,
+      "num": 74538,
+      "word": "早安我的中国",
+      "onboard_time": 1738107255,
+      "rank": 41,
+      "category": "正能量"
     },
     {
       "raw_hot": 67363,
@@ -683,28 +715,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 62644,
-      "num": 62644,
-      "word": "李子柒春晚开场",
-      "onboard_time": 1738076447,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 61449,
-      "num": 61449,
+      "raw_hot": 63857,
+      "num": 63857,
       "word": "被跳舞的易烊千玺帅到了",
       "onboard_time": 1738101971,
       "rank": 46,
       "category": "综艺"
     },
     {
-      "raw_hot": 59040,
-      "num": 105538,
-      "word": "领舞7岁娃是英歌舞传人",
-      "onboard_time": 1738106055,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 62644,
+      "num": 62644,
+      "word": "李子柒春晚开场",
+      "onboard_time": 1738076447,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 58398,
@@ -811,6 +835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 31063,
+      "num": 107947,
+      "word": "谷爱凌祝大家蛇年快乐",
+      "onboard_time": 1738107136,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28629,
       "num": 28629,
       "word": "放鞭炮",
@@ -843,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 24069,
+      "num": 103427,
+      "word": "九尾除夕开播",
+      "onboard_time": 1738106055,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 22471,
       "num": 24869,
       "word": "假如",
@@ -865,14 +905,6 @@
       "onboard_time": 1738098732,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 13315,
-      "num": 103427,
-      "word": "九尾除夕开播",
-      "onboard_time": 1738106055,
-      "rank": 24,
-      "category": "电竞"
     },
     {
       "raw_hot": 12358,
