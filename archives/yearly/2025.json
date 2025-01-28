@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738077854711,
+  "endTime": 1738078680545,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -275,6 +275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 7381465,
+      "num": 7381465,
+      "word": "易烊千玺李宇春怎么把邓超踢了",
+      "onboard_time": 1738072834,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 7367204,
       "num": 7367204,
       "word": "微博之夜红毯",
@@ -315,11 +323,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 6856616,
-      "num": 6856616,
-      "word": "易烊千玺李宇春怎么把邓超踢了",
-      "onboard_time": 1738072834,
-      "rank": 7,
+      "raw_hot": 6765399,
+      "num": 6765399,
+      "word": "沈腾马丽小品 戛然而止",
+      "onboard_time": 1738076680,
+      "rank": 4,
       "category": "综艺"
     },
     {
@@ -529,14 +537,6 @@
       "onboard_time": 1736860218,
       "rank": 0,
       "category": "教育"
-    },
-    {
-      "raw_hot": 3642564,
-      "num": 3642564,
-      "word": "沈腾马丽小品 戛然而止",
-      "onboard_time": 1738076680,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 3638223,
@@ -795,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2964716,
+      "num": 2964716,
+      "word": "陈奕迅 真唱",
+      "onboard_time": 1738074999,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2944850,
       "num": 601524,
       "word": "自称赵露思前工作人员喊话赵露思",
@@ -929,14 +937,6 @@
       "onboard_time": 1735728622,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2758598,
-      "num": 2758598,
-      "word": "陈奕迅 真唱",
-      "onboard_time": 1738074999,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 2740253,
