@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738088991121,
+  "endTime": 1738089856165,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -6051,6 +6051,14 @@
       "category": "作品衍生,游戏"
     },
     {
+      "raw_hot": 140133,
+      "num": 289498,
+      "word": "唢呐与南美排箫共同奏响",
+      "onboard_time": 1738089674,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139697,
       "num": 172931,
       "word": "苏新皓连续四周超话热度钻三",
@@ -6417,6 +6425,14 @@
       "onboard_time": 1737859037,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131699,
+      "num": 131699,
+      "word": "蛇年第一天接好运",
+      "onboard_time": 1738089674,
+      "rank": 19,
+      "category": "正能量"
     },
     {
       "raw_hot": 131667,
@@ -8355,6 +8371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85151,
+      "num": 85151,
+      "word": "程潇完全是洋娃娃",
+      "onboard_time": 1738088655,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 84992,
       "num": 84992,
       "word": "射雕小说与电影一起热销",
@@ -8529,14 +8553,6 @@
       "onboard_time": 1737864376,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 80825,
-      "num": 80825,
-      "word": "程潇完全是洋娃娃",
-      "onboard_time": 1738088655,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 80736,
@@ -9459,6 +9475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47044,
+      "num": 157253,
+      "word": "特朗普回应DeepSeek崛起",
+      "onboard_time": 1738088715,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 46875,
       "num": 46875,
       "word": "过年仪式感被外国人学到真精髓了",
@@ -10219,14 +10243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16534,
-      "num": 157253,
-      "word": "特朗普回应DeepSeek崛起",
-      "onboard_time": 1738088715,
-      "rank": 23,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 16393,
       "num": 16796,
       "word": "时光代理人",
@@ -10416,6 +10432,14 @@
       "word": "年味灯会把中式浪漫拉满了",
       "onboard_time": 1738005791,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7315,
+      "num": 54884,
+      "word": "小明年纪轻轻就干脆面自由",
+      "onboard_time": 1738089793,
+      "rank": 48,
       "category": "民生新闻"
     },
     {

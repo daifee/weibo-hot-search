@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738088991121,
+  "endTime": 1738089856165,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -57539,6 +57539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140133,
+      "num": 289498,
+      "word": "唢呐与南美排箫共同奏响",
+      "onboard_time": 1738089674,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140115,
       "num": 140115,
       "word": "TFING养成系具象化",
@@ -60753,6 +60761,14 @@
       "onboard_time": 1736002535,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 131699,
+      "num": 131699,
+      "word": "蛇年第一天接好运",
+      "onboard_time": 1738089674,
+      "rank": 19,
+      "category": "正能量"
     },
     {
       "raw_hot": 131667,
@@ -75019,6 +75035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85151,
+      "num": 85151,
+      "word": "程潇完全是洋娃娃",
+      "onboard_time": 1738088655,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 85120,
       "num": 85120,
       "word": "明白小说里一眼看出天才的感觉了",
@@ -75913,14 +75937,6 @@
       "onboard_time": 1736656098,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 80825,
-      "num": 80825,
-      "word": "程潇完全是洋娃娃",
-      "onboard_time": 1738088655,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 80776,
@@ -81993,6 +82009,14 @@
       "onboard_time": 1737811342,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 47044,
+      "num": 157253,
+      "word": "特朗普回应DeepSeek崛起",
+      "onboard_time": 1738088715,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 47008,
@@ -89243,14 +89267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 16534,
-      "num": 157253,
-      "word": "特朗普回应DeepSeek崛起",
-      "onboard_time": 1738088715,
-      "rank": 23,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 16499,
       "num": 22262,
       "word": "肖战谈演员最大的成就感",
@@ -91161,6 +91177,14 @@
       "onboard_time": 1736591849,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 7315,
+      "num": 54884,
+      "word": "小明年纪轻轻就干脆面自由",
+      "onboard_time": 1738089793,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 7287,

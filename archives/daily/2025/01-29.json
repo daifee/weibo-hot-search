@@ -1,6 +1,6 @@
 {
   "startTime": 1738081671448,
-  "endTime": 1738088991121,
+  "endTime": 1738089856165,
   "band_list": [
     {
       "raw_hot": 10062879,
@@ -467,12 +467,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140133,
+      "num": 289498,
+      "word": "唢呐与南美排箫共同奏响",
+      "onboard_time": 1738089674,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136074,
       "num": 136074,
       "word": "OneRepublic真唱",
       "onboard_time": 1738085540,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131699,
+      "num": 131699,
+      "word": "蛇年第一天接好运",
+      "onboard_time": 1738089674,
+      "rank": 19,
+      "category": "正能量"
     },
     {
       "raw_hot": 129144,
@@ -523,8 +539,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80825,
-      "num": 80825,
+      "raw_hot": 85151,
+      "num": 85151,
       "word": "程潇完全是洋娃娃",
       "onboard_time": 1738088655,
       "rank": 46,
@@ -555,7 +571,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 61235,
+      "raw_hot": 64196,
       "num": 151100,
       "word": "身边的年味",
       "onboard_time": 1738057583,
@@ -569,6 +585,14 @@
       "onboard_time": 1738071222,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47044,
+      "num": 157253,
+      "word": "特朗普回应DeepSeek崛起",
+      "onboard_time": 1738088715,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 35797,
@@ -587,12 +611,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16534,
-      "num": 157253,
-      "word": "特朗普回应DeepSeek崛起",
-      "onboard_time": 1738088715,
-      "rank": 23,
-      "category": "互联网"
+      "raw_hot": 7315,
+      "num": 54884,
+      "word": "小明年纪轻轻就干脆面自由",
+      "onboard_time": 1738089793,
+      "rank": 48,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
