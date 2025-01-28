@@ -1,0 +1,410 @@
+{
+  "runTime": 1738042676063,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1332833,
+        "num": 1332833,
+        "word": "陈哲远 红包",
+        "onboard_time": 1738032856,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1275854,
+        "num": 1275854,
+        "word": "红包",
+        "onboard_time": 1738041197,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36393,
+        "num": 1066817,
+        "word": "海拔最高春晚分会场",
+        "onboard_time": 1737989419,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 906577,
+        "num": 906577,
+        "word": "全国洗头日",
+        "onboard_time": 1738035917,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 523489,
+        "num": 523489,
+        "word": "韩国棋院就LG杯事件发公告致歉",
+        "onboard_time": 1738033877,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 408638,
+        "num": 408638,
+        "word": "集五福",
+        "onboard_time": 1738035017,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1006679,
+        "num": 407424,
+        "word": "敖瑞鹏预告红包",
+        "onboard_time": 1738039278,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418132,
+        "num": 399182,
+        "word": "陈都灵 偶遇一条萌萌蛇",
+        "onboard_time": 1738037958,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324079,
+        "num": 324079,
+        "word": "除夕到初三加班不能用事后调休替代",
+        "onboard_time": 1738030697,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296558,
+        "num": 296558,
+        "word": "前DeepSeek天才少女从农村走向TOP开发者",
+        "onboard_time": 1738026976,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 642794,
+        "num": 289583,
+        "word": "抖音副总裁回应雷军余承东直播被封",
+        "onboard_time": 1738037597,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 279943,
+        "num": 279943,
+        "word": "蛇年怕蛇怎么办",
+        "onboard_time": 1737992597,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292386,
+        "num": 279119,
+        "word": "易烊千玺晒春晚云参演证",
+        "onboard_time": 1738040356,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197351,
+        "num": 278163,
+        "word": "DeepSeek让美国有些人诧异了",
+        "onboard_time": 1738041017,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 278109,
+        "num": 278109,
+        "word": "王一博祝大家自在且松弛",
+        "onboard_time": 1738033097,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288201,
+        "num": 277786,
+        "word": "赵丽颖带三部待播作品拜年",
+        "onboard_time": 1738040118,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 274326,
+        "num": 274326,
+        "word": "英伟达股价暴跌后迅速发声",
+        "onboard_time": 1738028716,
+        "rank": 16,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 267768,
+        "num": 267768,
+        "word": "春晚等着你",
+        "onboard_time": 1738041316,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229712,
+        "num": 262333,
+        "word": "美股开盘英伟达股价大跌",
+        "onboard_time": 1738034357,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 108027,
+        "num": 262114,
+        "word": "全球同庆中国年",
+        "onboard_time": 1738041496,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 435288,
+        "num": 262112,
+        "word": "穆婷婷说不喜欢周迅了",
+        "onboard_time": 1738032916,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262083,
+        "num": 262083,
+        "word": "楼晚",
+        "onboard_time": 1738034657,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248961,
+        "num": 248961,
+        "word": "封神片尾曲唱出中国人心中的家园",
+        "onboard_time": 1738032737,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 246304,
+        "num": 246304,
+        "word": "丈母娘上厕所被女婿忘在高速上",
+        "onboard_time": 1738030397,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58200,
+        "num": 223559,
+        "word": "阿门汤普森绝杀凯尔特人",
+        "onboard_time": 1738039216,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221402,
+        "num": 221402,
+        "word": "重庆一对新人结婚仅隔一面墙接亲",
+        "onboard_time": 1738040778,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214499,
+        "num": 214499,
+        "word": "昀牵孟绕",
+        "onboard_time": 1738030516,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208865,
+        "num": 208865,
+        "word": "DeepSeek是啥",
+        "onboard_time": 1738028716,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 140933,
+        "num": 196481,
+        "word": "王楚钦T中文版",
+        "onboard_time": 1738035257,
+        "rank": 28,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 192722,
+        "num": 194317,
+        "word": "沈月福娃妆造",
+        "onboard_time": 1738041678,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193790,
+        "num": 193790,
+        "word": "王者荣耀充值",
+        "onboard_time": 1738030635,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176710,
+        "num": 176710,
+        "word": "十个勤天下一站春晚",
+        "onboard_time": 1738038317,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170926,
+        "num": 170926,
+        "word": "如鸢暗号",
+        "onboard_time": 1738032737,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161492,
+        "num": 161492,
+        "word": "留几手回应麦琳是否签约无忧传媒",
+        "onboard_time": 1738033396,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10630,
+        "num": 159273,
+        "word": "蛇年送你9个美好祝愿",
+        "onboard_time": 1738023674,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158760,
+        "num": 158760,
+        "word": "美媒惊问DeepSeek是谁",
+        "onboard_time": 1738030697,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 152516,
+        "num": 152516,
+        "word": "十个勤天一人一句祝福不重样",
+        "onboard_time": 1738042398,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144006,
+        "num": 144006,
+        "word": "费加罗抽奖",
+        "onboard_time": 1738042098,
+        "rank": 37,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 141593,
+        "num": 141593,
+        "word": "特朗普称DeepSeek给美企敲响警钟",
+        "onboard_time": 1738030937,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 138464,
+        "num": 138464,
+        "word": "福宝吃上了春节大餐",
+        "onboard_time": 1738041617,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134433,
+        "num": 134433,
+        "word": "日本富士台再爆性丑闻",
+        "onboard_time": 1738035437,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 134247,
+        "num": 134247,
+        "word": "苏醒发红包的热情写在脸上了",
+        "onboard_time": 1738039877,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124997,
+        "num": 124997,
+        "word": "柴安五花大绑俏新郎",
+        "onboard_time": 1738041138,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120321,
+        "num": 120321,
+        "word": "Deepseek锐评",
+        "onboard_time": 1738040418,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 120067,
+        "num": 120067,
+        "word": "男孩玩烟花引燃轿车家长赔15万",
+        "onboard_time": 1738041077,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117466,
+        "num": 117466,
+        "word": "全红婵老家增设无人机反制设备",
+        "onboard_time": 1738030156,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115841,
+        "num": 115841,
+        "word": "度华年拜年视频",
+        "onboard_time": 1738035497,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114841,
+        "num": 114841,
+        "word": "72岁的奶奶鼓起勇气离家过年",
+        "onboard_time": 1738035137,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107485,
+        "num": 107485,
+        "word": "巳巳如意生生不息",
+        "onboard_time": 1738042636,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106367,
+        "num": 106367,
+        "word": "白鹿白月梵星剧照",
+        "onboard_time": 1738035378,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#以蛇行千里的劲头开拓进取顽强奋斗#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1737995245772,
-  "endTime": 1738041675864,
+  "endTime": 1738042676063,
   "band_list": [
     {
       "raw_hot": 3185801,
@@ -27,7 +27,15 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 989581,
+      "raw_hot": 1275854,
+      "num": 1275854,
+      "word": "红包",
+      "onboard_time": 1738041197,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1006679,
       "num": 989581,
       "word": "敖瑞鹏预告红包",
       "onboard_time": 1738039278,
@@ -48,14 +56,6 @@
       "word": "丈母娘上厕所被女婿忘在高速上",
       "onboard_time": 1738030397,
       "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 840477,
-      "num": 1014911,
-      "word": "红包",
-      "onboard_time": 1738041197,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -83,7 +83,7 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 635884,
+      "raw_hot": 642794,
       "num": 380142,
       "word": "抖音副总裁回应雷军余承东直播被封",
       "onboard_time": 1738037597,
@@ -227,20 +227,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 418132,
+      "num": 401574,
+      "word": "陈都灵 偶遇一条萌萌蛇",
+      "onboard_time": 1738037958,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 410021,
       "num": 410021,
       "word": "赵露思包场支持射雕英雄传",
       "onboard_time": 1737987620,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 401574,
-      "num": 401574,
-      "word": "陈都灵 偶遇一条萌萌蛇",
-      "onboard_time": 1738037958,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 394434,
@@ -323,6 +323,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 292386,
+      "num": 279119,
+      "word": "易烊千玺晒春晚云参演证",
+      "onboard_time": 1738040356,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 288201,
+      "num": 277786,
+      "word": "赵丽颖带三部待播作品拜年",
+      "onboard_time": 1738040118,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 288031,
       "num": 407233,
       "word": "反向春运人群规模增长10%",
@@ -339,6 +355,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 267768,
+      "num": 267768,
+      "word": "春晚等着你",
+      "onboard_time": 1738041316,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 267553,
       "num": 267553,
       "word": "陈哲远 直拍来了",
@@ -353,14 +377,6 @@
       "onboard_time": 1737993858,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 264452,
-      "num": 264452,
-      "word": "赵丽颖带三部待播作品拜年",
-      "onboard_time": 1738040118,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 255258,
@@ -395,14 +411,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 237682,
-      "num": 237682,
-      "word": "易烊千玺晒春晚云参演证",
-      "onboard_time": 1738040356,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 237549,
       "num": 301410,
       "word": "王楚钦T中文版",
@@ -435,6 +443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 229712,
+      "num": 406001,
+      "word": "美股开盘英伟达股价大跌",
+      "onboard_time": 1738034357,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 226501,
       "num": 144652,
       "word": "王菲55岁怎么一点姨感都没有",
@@ -443,12 +459,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 223463,
-      "num": 406001,
-      "word": "美股开盘英伟达股价大跌",
-      "onboard_time": 1738034357,
-      "rank": 18,
-      "category": "财经"
+      "raw_hot": 221402,
+      "num": 221402,
+      "word": "重庆一对新人结婚仅隔一面墙接亲",
+      "onboard_time": 1738040778,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 220308,
@@ -515,6 +531,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 197351,
+      "num": 278163,
+      "word": "DeepSeek让美国有些人诧异了",
+      "onboard_time": 1738041017,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 195423,
       "num": 235871,
       "word": "韩国棋院称将尽快制定统一规则",
@@ -553,6 +577,14 @@
       "onboard_time": 1738038317,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192722,
+      "num": 194317,
+      "word": "沈月福娃妆造",
+      "onboard_time": 1738041678,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 190559,
@@ -595,14 +627,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 187283,
-      "num": 187283,
-      "word": "春晚等着你",
-      "onboard_time": 1738041316,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 186788,
       "num": 186788,
       "word": "DeepSeek预测周鸿祎可能会送SU7",
@@ -643,7 +667,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 161856,
+      "raw_hot": 170926,
       "num": 241462,
       "word": "如鸢暗号",
       "onboard_time": 1738032737,
@@ -699,12 +723,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 153047,
-      "num": 153047,
-      "word": "重庆一对新人结婚仅隔一面墙接亲",
-      "onboard_time": 1738040778,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 152516,
+      "num": 152516,
+      "word": "十个勤天一人一句祝福不重样",
+      "onboard_time": 1738042398,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 150237,
@@ -731,14 +755,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 147957,
-      "num": 147957,
-      "word": "DeepSeek让美国有些人诧异了",
-      "onboard_time": 1738041017,
-      "rank": 37,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 146014,
       "num": 146014,
       "word": "肖战在春晚后台套圈",
@@ -761,6 +777,14 @@
       "onboard_time": 1738032796,
       "rank": 43,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 144006,
+      "num": 144006,
+      "word": "费加罗抽奖",
+      "onboard_time": 1738042098,
+      "rank": 37,
+      "category": "时尚"
     },
     {
       "raw_hot": 143968,
@@ -800,6 +824,14 @@
       "word": "72岁的奶奶鼓起勇气离家过年",
       "onboard_time": 1738035137,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138464,
+      "num": 138464,
+      "word": "福宝吃上了春节大餐",
+      "onboard_time": 1738041617,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -923,6 +955,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 120067,
+      "num": 120067,
+      "word": "男孩玩烟花引燃轿车家长赔15万",
+      "onboard_time": 1738041077,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118928,
       "num": 118928,
       "word": "王楚钦孙颖莎继续领跑男女单世一",
@@ -1027,6 +1067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108027,
+      "num": 262114,
+      "word": "全球同庆中国年",
+      "onboard_time": 1738041496,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108013,
       "num": 108013,
       "word": "消费者快被虚假快递逼疯了",
@@ -1035,28 +1083,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 107863,
-      "num": 107863,
-      "word": "全球同庆中国年",
-      "onboard_time": 1738041496,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107388,
-      "num": 107388,
-      "word": "福宝吃上了春节大餐",
-      "onboard_time": 1738041617,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107158,
-      "num": 107158,
-      "word": "男孩玩烟花引燃轿车家长赔15万",
-      "onboard_time": 1738041077,
+      "raw_hot": 107485,
+      "num": 107485,
+      "word": "巳巳如意生生不息",
+      "onboard_time": 1738042636,
       "rank": 48,
-      "category": "民生新闻"
+      "category": "综艺"
     },
     {
       "raw_hot": 104945,
@@ -1467,20 +1499,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 58200,
+      "num": 223559,
+      "word": "阿门汤普森绝杀凯尔特人",
+      "onboard_time": 1738039216,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58109,
       "num": 127449,
       "word": "一人一句庆祝首个非遗春节",
       "onboard_time": 1738019293,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 54769,
-      "num": 107108,
-      "word": "阿门汤普森绝杀凯尔特人",
-      "onboard_time": 1738039216,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 53621,
@@ -1585,6 +1617,14 @@
       "onboard_time": 1737999374,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 10630,
+      "num": 159273,
+      "word": "蛇年送你9个美好祝愿",
+      "onboard_time": 1738023674,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10033,

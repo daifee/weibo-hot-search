@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738041675864,
+  "endTime": 1738042676063,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -3723,6 +3723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1275854,
+      "num": 1275854,
+      "word": "红包",
+      "onboard_time": 1738041197,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1274107,
       "num": 1020426,
       "word": "15岁女孩以买方身份入院产子卖6万8",
@@ -5587,6 +5595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1006679,
+      "num": 989581,
+      "word": "敖瑞鹏预告红包",
+      "onboard_time": 1738039278,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1006152,
       "num": 739614,
       "word": "金靖孕反吐了十个月",
@@ -5761,14 +5777,6 @@
       "onboard_time": 1736823618,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 989581,
-      "num": 989581,
-      "word": "敖瑞鹏预告红包",
-      "onboard_time": 1738039278,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 988394,
@@ -7529,14 +7537,6 @@
       "onboard_time": 1737421279,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 840477,
-      "num": 1014911,
-      "word": "红包",
-      "onboard_time": 1738041197,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 839939,
@@ -10923,6 +10923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 642794,
+      "num": 380142,
+      "word": "抖音副总裁回应雷军余承东直播被封",
+      "onboard_time": 1738037597,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 642706,
       "num": 642706,
       "word": "SM新男团",
@@ -11065,14 +11073,6 @@
       "onboard_time": 1735896619,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 635884,
-      "num": 380142,
-      "word": "抖音副总裁回应雷军余承东直播被封",
-      "onboard_time": 1738037597,
-      "rank": 25,
-      "category": "互联网"
     },
     {
       "raw_hot": 635660,
@@ -18067,6 +18067,14 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 418132,
+      "num": 401574,
+      "word": "陈都灵 偶遇一条萌萌蛇",
+      "onboard_time": 1738037958,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 418114,
       "num": 418114,
       "word": "白色橄榄树春节档",
@@ -18769,14 +18777,6 @@
       "onboard_time": 1735974921,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 401574,
-      "num": 401574,
-      "word": "陈都灵 偶遇一条萌萌蛇",
-      "onboard_time": 1738037958,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 401526,
@@ -25539,6 +25539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 292386,
+      "num": 279119,
+      "word": "易烊千玺晒春晚云参演证",
+      "onboard_time": 1738040356,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 292369,
       "num": 283133,
       "word": "韩国贡献了零胜夺冠的闹剧",
@@ -25881,6 +25889,14 @@
       "onboard_time": 1735904299,
       "rank": 14,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 288201,
+      "num": 277786,
+      "word": "赵丽颖带三部待播作品拜年",
+      "onboard_time": 1738040118,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 288190,
@@ -27827,6 +27843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267768,
+      "num": 267768,
+      "word": "春晚等着你",
+      "onboard_time": 1738041316,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 267694,
       "num": 267694,
       "word": "贺峻霖这个是真大学生",
@@ -28089,14 +28113,6 @@
       "onboard_time": 1737446898,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 264452,
-      "num": 264452,
-      "word": "赵丽颖带三部待播作品拜年",
-      "onboard_time": 1738040118,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 264115,
@@ -31003,14 +31019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 237682,
-      "num": 237682,
-      "word": "易烊千玺晒春晚云参演证",
-      "onboard_time": 1738040356,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 237676,
       "num": 237676,
       "word": "守望先锋",
@@ -31899,6 +31907,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 229712,
+      "num": 406001,
+      "word": "美股开盘英伟达股价大跌",
+      "onboard_time": 1738034357,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 229666,
       "num": 989084,
       "word": "9个表现是身体释放的缺觉信号",
@@ -32659,14 +32675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 223463,
-      "num": 406001,
-      "word": "美股开盘英伟达股价大跌",
-      "onboard_time": 1738034357,
-      "rank": 18,
-      "category": "财经"
-    },
-    {
       "raw_hot": 223431,
       "num": 223431,
       "word": "张艺兴直播",
@@ -32953,6 +32961,14 @@
       "onboard_time": 1737416117,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 221402,
+      "num": 221402,
+      "word": "重庆一对新人结婚仅隔一面墙接亲",
+      "onboard_time": 1738040778,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 221397,
@@ -38123,6 +38139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197351,
+      "num": 278163,
+      "word": "DeepSeek让美国有些人诧异了",
+      "onboard_time": 1738041017,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 197340,
       "num": 197340,
       "word": "澳门偶遇叶祖新",
@@ -39593,6 +39617,14 @@
       "onboard_time": 1735883540,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192722,
+      "num": 194317,
+      "word": "沈月福娃妆造",
+      "onboard_time": 1738041678,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 192689,
@@ -41345,14 +41377,6 @@
       "onboard_time": 1736301440,
       "rank": 47,
       "category": "网红"
-    },
-    {
-      "raw_hot": 187283,
-      "num": 187283,
-      "word": "春晚等着你",
-      "onboard_time": 1738041316,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 187240,
@@ -45779,6 +45803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170926,
+      "num": 241462,
+      "word": "如鸢暗号",
+      "onboard_time": 1738032737,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 170920,
       "num": 202069,
       "word": "许光汉去了柯佳嬿生日派对",
@@ -48585,14 +48617,6 @@
       "onboard_time": 1737198618,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161856,
-      "num": 241462,
-      "word": "如鸢暗号",
-      "onboard_time": 1738032737,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 161831,
@@ -51443,14 +51467,6 @@
       "category": "剧集,综艺"
     },
     {
-      "raw_hot": 153047,
-      "num": 153047,
-      "word": "重庆一对新人结婚仅隔一面墙接亲",
-      "onboard_time": 1738040778,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153005,
       "num": 153005,
       "word": "一顿饭做完冰箱干净多了",
@@ -51600,6 +51616,14 @@
       "word": "你好星期六开年咖是杨紫李现",
       "onboard_time": 1736079928,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 152516,
+      "num": 152516,
+      "word": "十个勤天一人一句祝福不重样",
+      "onboard_time": 1738042398,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -53035,14 +53059,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147957,
-      "num": 147957,
-      "word": "DeepSeek让美国有些人诧异了",
-      "onboard_time": 1738041017,
-      "rank": 37,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 147951,
       "num": 147951,
       "word": "特朗普称或在30天内决定TikTok未来",
@@ -54425,6 +54441,14 @@
       "onboard_time": 1735972341,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144006,
+      "num": 144006,
+      "word": "费加罗抽奖",
+      "onboard_time": 1738042098,
+      "rank": 37,
+      "category": "时尚"
     },
     {
       "raw_hot": 143974,
@@ -56336,6 +56360,14 @@
       "word": "贪官用多个家人当受贿收款员",
       "onboard_time": 1736298382,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138464,
+      "num": 138464,
+      "word": "福宝吃上了春节大餐",
+      "onboard_time": 1738041617,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -63195,6 +63227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120067,
+      "num": 120067,
+      "word": "男孩玩烟花引燃轿车家长赔15万",
+      "onboard_time": 1738041077,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120060,
       "num": 179077,
       "word": "裴擒虎祥瑞亨通新皮肤",
@@ -67435,6 +67475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108027,
+      "num": 262114,
+      "word": "全球同庆中国年",
+      "onboard_time": 1738041496,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108005,
       "num": 319296,
       "word": "美国加州因山火进入紧急状态",
@@ -67457,14 +67505,6 @@
       "onboard_time": 1737626420,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 107863,
-      "num": 107863,
-      "word": "全球同庆中国年",
-      "onboard_time": 1738041496,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107849,
@@ -67587,20 +67627,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 107485,
+      "num": 107485,
+      "word": "巳巳如意生生不息",
+      "onboard_time": 1738042636,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107447,
       "num": 107447,
       "word": "张凌赫田曦薇逐玉带小孩逛街路透",
       "onboard_time": 1737906679,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 107388,
-      "num": 107388,
-      "word": "福宝吃上了春节大餐",
-      "onboard_time": 1738041617,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107362,
@@ -67681,14 +67721,6 @@
       "onboard_time": 1736831718,
       "rank": 18,
       "category": "财经"
-    },
-    {
-      "raw_hot": 107158,
-      "num": 107158,
-      "word": "男孩玩烟花引燃轿车家长赔15万",
-      "onboard_time": 1738041077,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107157,
@@ -77579,6 +77611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 58200,
+      "num": 223559,
+      "word": "阿门汤普森绝杀凯尔特人",
+      "onboard_time": 1738039216,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58179,
       "num": 320679,
       "word": "航拍视角看日喀则震区目前现状",
@@ -78265,14 +78305,6 @@
       "onboard_time": 1736082630,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 54769,
-      "num": 107108,
-      "word": "阿门汤普森绝杀凯尔特人",
-      "onboard_time": 1738039216,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 54731,
@@ -88488,6 +88520,14 @@
       "word": "贪官为挪用资金开出假票3000多张",
       "onboard_time": 1736101934,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10630,
+      "num": 159273,
+      "word": "蛇年送你9个美好祝愿",
+      "onboard_time": 1738023674,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
