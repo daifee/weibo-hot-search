@@ -1,6 +1,6 @@
 {
   "startTime": 1738081671448,
-  "endTime": 1738089856165,
+  "endTime": 1738091891844,
   "band_list": [
     {
       "raw_hot": 10062879,
@@ -291,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 478886,
+      "num": 478886,
+      "word": "金晨你怎么可以捅这么大的篓子",
+      "onboard_time": 1738090873,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 456856,
       "num": 160407,
       "word": "春晚收视率",
@@ -459,6 +467,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152553,
+      "num": 289498,
+      "word": "唢呐与南美排箫共同奏响",
+      "onboard_time": 1738089674,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146293,
+      "num": 146293,
+      "word": "蛇年第一天接好运",
+      "onboard_time": 1738089674,
+      "rank": 19,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 141237,
       "num": 150704,
       "word": "妥妥的",
@@ -467,28 +491,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 140133,
-      "num": 289498,
-      "word": "唢呐与南美排箫共同奏响",
-      "onboard_time": 1738089674,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136074,
       "num": 136074,
       "word": "OneRepublic真唱",
       "onboard_time": 1738085540,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 131699,
-      "num": 131699,
-      "word": "蛇年第一天接好运",
-      "onboard_time": 1738089674,
-      "rank": 19,
-      "category": "正能量"
     },
     {
       "raw_hot": 129144,
@@ -571,12 +579,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 65174,
+      "num": 65174,
+      "word": "薛之谦 真唱",
+      "onboard_time": 1738090393,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 64196,
       "num": 151100,
       "word": "身边的年味",
       "onboard_time": 1738057583,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58573,
+      "num": 68327,
+      "word": "机器人跳完舞被搀扶有序下台",
+      "onboard_time": 1738089374,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58398,
+      "num": 157253,
+      "word": "特朗普回应DeepSeek崛起",
+      "onboard_time": 1738088715,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 57244,
@@ -587,12 +619,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 47044,
-      "num": 157253,
-      "word": "特朗普回应DeepSeek崛起",
-      "onboard_time": 1738088715,
-      "rank": 23,
-      "category": "互联网"
+      "raw_hot": 53319,
+      "num": 53319,
+      "word": "蛇年大吉",
+      "onboard_time": 1738090692,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 39286,
+      "num": 45994,
+      "word": "恋与深空",
+      "onboard_time": 1738090153,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 35797,
@@ -611,8 +651,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 7315,
-      "num": 54884,
+      "raw_hot": 27438,
+      "num": 60737,
       "word": "小明年纪轻轻就干脆面自由",
       "onboard_time": 1738089793,
       "rank": 48,
@@ -625,6 +665,9 @@
     },
     {
       "word": "#总书记的新春牵挂#"
+    },
+    {
+      "word": "#浓浓年味儿间是总书记最深的惦念#"
     }
   ]
 }
