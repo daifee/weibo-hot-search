@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738020948064,
+  "endTime": 1738028390543,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -731,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 560138,
+      "num": 754593,
+      "word": "新婚一定要回男方家过年吗",
+      "onboard_time": 1737999253,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 554633,
       "num": 330216,
       "word": "杨紫为了沈梦辰提前背了三天剧本",
@@ -947,6 +955,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 483166,
+      "num": 1077306,
+      "word": "今年除夕到初三加班额外付三倍工资",
+      "onboard_time": 1738002792,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 481536,
       "num": 345350,
       "word": "陈哲远 直拍来了",
@@ -995,14 +1011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 472432,
-      "num": 754593,
-      "word": "新婚一定要回男方家过年吗",
-      "onboard_time": 1737999253,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 467260,
       "num": 343968,
       "word": "虞书欣陈靖可 狭路",
@@ -1033,6 +1041,14 @@
       "onboard_time": 1737851658,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 455343,
+      "num": 455343,
+      "word": "DeepSeek爆火网友热议广东AI三杰",
+      "onboard_time": 1738023674,
+      "rank": 1,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 454620,
@@ -1115,14 +1131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 436351,
-      "num": 872333,
-      "word": "今年除夕到初三加班额外付三倍工资",
-      "onboard_time": 1738002792,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 434481,
       "num": 338906,
       "word": "特朗普称将来美国可能大幅扩张",
@@ -1193,6 +1201,14 @@
       "onboard_time": 1737888379,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 402662,
+      "num": 402662,
+      "word": "前DeepSeek天才少女从农村走向TOP开发者",
+      "onboard_time": 1738026976,
+      "rank": 3,
+      "category": "互联网"
     },
     {
       "raw_hot": 399366,
@@ -1337,6 +1353,14 @@
       "onboard_time": 1737804620,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 374538,
+      "num": 374538,
+      "word": "DeepSeek一夜掀翻美股",
+      "onboard_time": 1737989119,
+      "rank": 38,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 370356,
@@ -1723,6 +1747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 282830,
+      "num": 282830,
+      "word": "中国AI人才缺口或将达400万",
+      "onboard_time": 1738022474,
+      "rank": 5,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 281439,
       "num": 281439,
       "word": "易烊千玺说刘春和是影响最深的角色",
@@ -1931,14 +1963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 250825,
-      "num": 250825,
-      "word": "DeepSeek一夜掀翻美股",
-      "onboard_time": 1737989119,
-      "rank": 38,
-      "category": "财经,互联网"
-    },
-    {
       "raw_hot": 250813,
       "num": 250813,
       "word": "合肥地震",
@@ -1963,6 +1987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247167,
+      "num": 247167,
+      "word": "包场射雕英雄传的明星们",
+      "onboard_time": 1738021274,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 245034,
       "num": 230850,
       "word": "白鹿驼色大衣",
@@ -1977,6 +2009,14 @@
       "onboard_time": 1737944536,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 243573,
+      "num": 243573,
+      "word": "蛇年拜年文案",
+      "onboard_time": 1737996137,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 243092,
@@ -2155,6 +2195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 221572,
+      "num": 280016,
+      "word": "拜年文案给你准备好了",
+      "onboard_time": 1737993858,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 221338,
       "num": 272234,
       "word": "陕西蓝田县遭暴雪村庄被积雪封门",
@@ -2257,6 +2305,14 @@
       "onboard_time": 1737981138,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 215787,
+      "num": 215787,
+      "word": "英伟达市值一夜蒸发5890亿美元",
+      "onboard_time": 1738021455,
+      "rank": 13,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 213663,
@@ -2419,14 +2475,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 201977,
-      "num": 280016,
-      "word": "拜年文案给你准备好了",
-      "onboard_time": 1737993858,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 201715,
       "num": 192531,
       "word": "男子4年春节不回家江底守护万家灯火",
@@ -2449,6 +2497,14 @@
       "onboard_time": 1737888498,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200272,
+      "num": 200272,
+      "word": "王俊凯ins晒粉丝应援",
+      "onboard_time": 1738027577,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 199059,
@@ -2489,6 +2545,14 @@
       "onboard_time": 1737867857,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 198270,
+      "num": 231247,
+      "word": "反向春运人群规模增长10%",
+      "onboard_time": 1738025836,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198163,
@@ -3483,14 +3547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 148112,
-      "num": 148112,
-      "word": "蛇年拜年文案",
-      "onboard_time": 1737996137,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 147975,
       "num": 167225,
       "word": "妈妈带白血病女儿到理发店剃光头",
@@ -4003,6 +4059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132056,
+      "num": 132056,
+      "word": "李子柒舞台展示25项非遗",
+      "onboard_time": 1738021694,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131934,
       "num": 131934,
       "word": "eStar2025新赛季集结",
@@ -4057,6 +4121,14 @@
       "onboard_time": 1737973097,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128627,
+      "num": 128627,
+      "word": "非遗春节好像一个绚烂的万花筒",
+      "onboard_time": 1738025655,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128156,
@@ -4507,6 +4579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 114248,
+      "num": 128841,
+      "word": "罗云熙把初心唱给你听",
+      "onboard_time": 1738023136,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114241,
       "num": 114241,
       "word": "徐克回应射雕爆改演员",
@@ -4625,6 +4705,14 @@
       "onboard_time": 1737810321,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110367,
+      "num": 110367,
+      "word": "韩国围棋队主教练称卞相壹心情沉重",
+      "onboard_time": 1737999253,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 109986,
@@ -5163,12 +5251,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97584,
+      "num": 97584,
+      "word": "马龙祝新年在人生赛场勇敢挥拍",
+      "onboard_time": 1738023195,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97534,
       "num": 103548,
       "word": "周深相声首秀",
       "onboard_time": 1737960375,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96994,
+      "num": 96994,
+      "word": "多吃5种蔬菜能抗炎",
+      "onboard_time": 1738028236,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 96982,
@@ -5185,6 +5289,14 @@
       "onboard_time": 1737968777,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 96874,
+      "num": 96874,
+      "word": "请查收来自马龙的新春祝福",
+      "onboard_time": 1738025655,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 96847,
@@ -5232,6 +5344,14 @@
       "word": "2025山东春晚节目单",
       "onboard_time": 1737970937,
       "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 96186,
+      "num": 96186,
+      "word": "丁禹兮口才",
+      "onboard_time": 1738021215,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -5323,12 +5443,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92920,
+      "num": 92920,
+      "word": "金蛇迎春红红火火壁纸",
+      "onboard_time": 1738024695,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92728,
       "num": 92728,
       "word": "专访电影射雕英雄传主创",
       "onboard_time": 1737985098,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 92725,
+      "num": 92725,
+      "word": "DeepSeek进军文生图领域",
+      "onboard_time": 1738026736,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 92070,
+      "num": 92070,
+      "word": "过年是刻在中国人DNA里的仪式感",
+      "onboard_time": 1738022474,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 91699,
@@ -5377,6 +5521,14 @@
       "onboard_time": 1737936616,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 90309,
+      "num": 94326,
+      "word": "彭昱畅包场支持好朋友肖战",
+      "onboard_time": 1738026915,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 89121,
@@ -5715,6 +5867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79127,
+      "num": 79127,
+      "word": "春节加班费应该怎么算",
+      "onboard_time": 1738018692,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78729,
       "num": 78729,
       "word": "柯洁说为什么要这样羞辱我们",
@@ -5777,14 +5937,6 @@
       "onboard_time": 1737817163,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 76682,
-      "num": 76682,
-      "word": "韩国围棋队主教练称卞相壹心情沉重",
-      "onboard_time": 1737999253,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 76402,
@@ -5947,6 +6099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 69340,
+      "num": 69340,
+      "word": "你知道除夕的来历吗",
+      "onboard_time": 1738026435,
+      "rank": 41,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 69250,
       "num": 220351,
       "word": "过年倒计时3天啦",
@@ -6043,6 +6203,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 64007,
+      "num": 64007,
+      "word": "内马尔即将重返桑托斯",
+      "onboard_time": 1738026855,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63890,
       "num": 682866,
       "word": "那些你不知道的北京地儿",
@@ -6057,6 +6225,14 @@
       "onboard_time": 1737933613,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63446,
+      "num": 63446,
+      "word": "文化中国行一起过大年",
+      "onboard_time": 1738022474,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63019,
@@ -6251,12 +6427,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 53023,
-      "num": 53023,
-      "word": "春节加班费应该怎么算",
-      "onboard_time": 1738018692,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 53621,
+      "num": 53621,
+      "word": "巴特勒至少被禁赛五场",
+      "onboard_time": 1738026976,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 52993,
