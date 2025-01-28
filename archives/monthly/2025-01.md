@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/28 12:26:54
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/28 12:40:10
 </p>
 </blockquote>
 <p>
@@ -2619,6 +2619,12 @@ TikTok禁令引发美国网友众怒（热度：1325910）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E6%B4%97%E5%A4%B4%E6%97%A5%23" target="weibo">
+全国洗头日（热度：1324668）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E6%98%9F%E6%98%9F%23" target="weibo">
 演员星星（热度：1323200）
 </a>
@@ -4763,12 +4769,6 @@ Angelababy王安宇新剧将上线（热度：953205）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E5%A5%BD%E5%A4%9A%E4%BA%BA%E5%95%8A%23" target="weibo">
 微博之夜好多人啊（热度：939633）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E6%B4%97%E5%A4%B4%E6%97%A5%23" target="weibo">
-全国洗头日（热度：939235）
 </a>
 </li>
 
