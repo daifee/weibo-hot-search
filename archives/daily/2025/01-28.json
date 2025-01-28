@@ -1,6 +1,6 @@
 {
   "startTime": 1737995245772,
-  "endTime": 1738033040849,
+  "endTime": 1738034646122,
   "band_list": [
     {
       "raw_hot": 3185801,
@@ -9,6 +9,14 @@
       "onboard_time": 1737993976,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1328940,
+      "num": 1328940,
+      "word": "陈哲远 红包",
+      "onboard_time": 1738032856,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 921691,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 903130,
-      "num": 244700,
+      "num": 395944,
       "word": "丈母娘上厕所被女婿忘在高速上",
       "onboard_time": 1738030397,
       "rank": 11,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 586530,
-      "num": 244037,
+      "num": 395923,
       "word": "昀牵孟绕",
       "onboard_time": 1738030516,
       "rank": 12,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 500201,
-      "num": 239284,
+      "num": 395278,
       "word": "特朗普称DeepSeek给美企敲响警钟",
       "onboard_time": 1738030937,
       "rank": 13,
@@ -88,6 +96,14 @@
       "word": "除夕",
       "onboard_time": 1738029916,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 492775,
+      "num": 977309,
+      "word": "除夕到初三加班不能用事后调休替代",
+      "onboard_time": 1738030697,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -147,12 +163,44 @@
       "category": "电影"
     },
     {
+      "raw_hot": 398206,
+      "num": 398206,
+      "word": "王一博祝大家自在且松弛",
+      "onboard_time": 1738033097,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 396664,
+      "num": 396664,
+      "word": "穆婷婷说不喜欢周迅了",
+      "onboard_time": 1738032916,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 394434,
+      "num": 394434,
+      "word": "DeepSeek是啥",
+      "onboard_time": 1738028716,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 386677,
       "num": 386677,
       "word": "姜妍好漂亮",
       "onboard_time": 1737985818,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 386500,
+      "num": 386500,
+      "word": "封神片尾曲唱出中国人心中的家园",
+      "onboard_time": 1738032737,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 374538,
@@ -163,14 +211,6 @@
       "category": "财经,互联网"
     },
     {
-      "raw_hot": 362800,
-      "num": 362800,
-      "word": "DeepSeek是啥",
-      "onboard_time": 1738028716,
-      "rank": 24,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 353663,
       "num": 145061,
       "word": "倪萍曾救下想轻生的宋丹丹",
@@ -179,28 +219,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 330406,
-      "num": 426717,
-      "word": "除夕到初三加班不能用事后调休替代",
-      "onboard_time": 1738030697,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 314299,
       "num": 271923,
       "word": "郭冬临小品 好笑",
       "onboard_time": 1737993257,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 309461,
-      "num": 309461,
-      "word": "陈哲远 红包",
-      "onboard_time": 1738032856,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 297392,
@@ -251,8 +275,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 249473,
-      "num": 249473,
+      "raw_hot": 249523,
+      "num": 249523,
       "word": "赵露思包场支持肖战新片",
       "onboard_time": 1738029137,
       "rank": 18,
@@ -299,7 +323,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 218817,
+      "raw_hot": 225104,
+      "num": 225104,
+      "word": "留几手回应麦琳是否签约无忧传媒",
+      "onboard_time": 1738033396,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 220308,
       "num": 229713,
       "word": "美媒惊问DeepSeek是谁",
       "onboard_time": 1738030697,
@@ -339,6 +371,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207555,
+      "num": 207555,
+      "word": "美股开盘英伟达股价大跌",
+      "onboard_time": 1738034357,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 207017,
+      "num": 207017,
+      "word": "韩国棋院就LG杯事件发公告致歉",
+      "onboard_time": 1738033877,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201642,
       "num": 201642,
       "word": "英伟达市值蒸发超3000亿美元",
@@ -355,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190303,
+      "num": 190303,
+      "word": "骄阳似我",
+      "onboard_time": 1738033638,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190221,
       "num": 144009,
       "word": "白鹿敖瑞鹏共创视频点赞破千万",
@@ -363,11 +419,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188326,
+      "num": 188326,
+      "word": "如鸢",
+      "onboard_time": 1738034416,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 185720,
       "num": 221617,
       "word": "射雕专属红包封面",
       "onboard_time": 1738031776,
       "rank": 17,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 183227,
+      "num": 183227,
+      "word": "射雕预售",
+      "onboard_time": 1738033338,
+      "rank": 26,
       "category": "电影"
     },
     {
@@ -379,12 +451,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 159121,
-      "num": 209830,
-      "word": "穆婷婷说不喜欢周迅了",
-      "onboard_time": 1738032916,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 175624,
+      "num": 175624,
+      "word": "王者荣耀 嫦娥",
+      "onboard_time": 1738033157,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 170450,
+      "num": 171201,
+      "word": "难哄",
+      "onboard_time": 1738034237,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 167421,
+      "num": 167421,
+      "word": "KPOP爱豆著作权协会登记曲数最新排名",
+      "onboard_time": 1738033997,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 156601,
@@ -451,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141576,
+      "num": 141576,
+      "word": "湖人战胜黄蜂",
+      "onboard_time": 1738034057,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138406,
       "num": 138406,
       "word": "代露娃死嘴快憋住啊",
@@ -459,12 +555,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137443,
+      "num": 137443,
+      "word": "00后女生卖创意福字7天赚5千",
+      "onboard_time": 1738032976,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137188,
       "num": 137188,
       "word": "DeepSeek称遭到大规模恶意攻击",
       "onboard_time": 1738032317,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 132801,
+      "num": 183465,
+      "word": "杨幂工作日记",
+      "onboard_time": 1738032796,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 132056,
@@ -491,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126329,
+      "num": 126329,
+      "word": "多吃5种蔬菜能抗炎",
+      "onboard_time": 1738028236,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 125985,
       "num": 113365,
       "word": "王者蛇年限定皮肤获取攻略",
@@ -505,6 +625,22 @@
       "onboard_time": 1738028475,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122980,
+      "num": 122980,
+      "word": "掌心",
+      "onboard_time": 1738034297,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 121456,
+      "num": 121456,
+      "word": "抽奖",
+      "onboard_time": 1738034537,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 117261,
@@ -523,20 +659,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 114307,
-      "num": 114307,
-      "word": "多吃5种蔬菜能抗炎",
-      "onboard_time": 1738028236,
-      "rank": 25,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 112387,
       "num": 112387,
       "word": "英伟达台积电大跌",
       "onboard_time": 1737977178,
       "rank": 39,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 111743,
+      "num": 168004,
+      "word": "生活处处有侠气",
+      "onboard_time": 1738032617,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 111734,
+      "num": 111734,
+      "word": "除夕图片",
+      "onboard_time": 1738033817,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 110928,
@@ -547,12 +691,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110823,
+      "num": 110823,
+      "word": "这种屎黄色的猫最有心机了",
+      "onboard_time": 1738033338,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110367,
       "num": 110367,
       "word": "韩国围棋队主教练称卞相壹心情沉重",
       "onboard_time": 1737999253,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109223,
+      "num": 109223,
+      "word": "王者荣耀崩了",
+      "onboard_time": 1738032375,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 108247,
@@ -569,14 +729,6 @@
       "onboard_time": 1737987979,
       "rank": 29,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 105826,
-      "num": 168004,
-      "word": "生活处处有侠气",
-      "onboard_time": 1738032617,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 104945,
@@ -601,6 +753,14 @@
       "onboard_time": 1737983538,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100810,
+      "num": 100810,
+      "word": "梁靖崑世界排名上升至第4",
+      "onboard_time": 1738034116,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 97774,
@@ -651,14 +811,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 94619,
-      "num": 219399,
-      "word": "封神片尾曲唱出中国人心中的家园",
-      "onboard_time": 1738032737,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 93982,
       "num": 93982,
       "word": "五福临门这是考公还是考老公",
@@ -676,7 +828,7 @@
     },
     {
       "raw_hot": 92216,
-      "num": 92216,
+      "num": 184769,
       "word": "内马尔与利雅得新月解约",
       "onboard_time": 1738031716,
       "rank": 37,
@@ -705,14 +857,6 @@
       "onboard_time": 1738017251,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 88849,
-      "num": 88849,
-      "word": "杨幂工作日记",
-      "onboard_time": 1738032796,
-      "rank": 43,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 88033,
@@ -771,16 +915,8 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 80954,
-      "num": 80954,
-      "word": "00后女生卖创意福字7天赚5千",
-      "onboard_time": 1738032976,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80358,
-      "num": 557670,
+      "num": 762106,
       "word": "海拔最高春晚分会场",
       "onboard_time": 1737989419,
       "rank": 2,
@@ -977,6 +1113,14 @@
       "onboard_time": 1738023736,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61937,
+      "num": 110352,
+      "word": "胡歌到底有几个身份",
+      "onboard_time": 1738034477,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 58331,

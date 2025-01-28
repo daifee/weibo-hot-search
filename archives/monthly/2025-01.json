@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738033040849,
+  "endTime": 1738034646122,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -3435,6 +3435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1328940,
+      "num": 1328940,
+      "word": "陈哲远 红包",
+      "onboard_time": 1738032856,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1328816,
       "num": 935294,
       "word": "韩国人顺产头",
@@ -6724,7 +6732,7 @@
     },
     {
       "raw_hot": 903130,
-      "num": 244700,
+      "num": 395944,
       "word": "丈母娘上厕所被女婿忘在高速上",
       "onboard_time": 1738030397,
       "rank": 11,
@@ -14812,7 +14820,7 @@
     },
     {
       "raw_hot": 500201,
-      "num": 239284,
+      "num": 395278,
       "word": "特朗普称DeepSeek给美企敲响警钟",
       "onboard_time": 1738030937,
       "rank": 13,
@@ -15049,6 +15057,14 @@
       "onboard_time": 1735876040,
       "rank": 15,
       "category": "体育,汽车"
+    },
+    {
+      "raw_hot": 492775,
+      "num": 977309,
+      "word": "除夕到初三加班不能用事后调休替代",
+      "onboard_time": 1738030697,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 492373,
@@ -18891,6 +18907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 398206,
+      "num": 398206,
+      "word": "王一博祝大家自在且松弛",
+      "onboard_time": 1738033097,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 397838,
       "num": 397209,
       "word": "鹿晗高瀚宇眉钉大片",
@@ -18945,6 +18969,14 @@
       "onboard_time": 1736681359,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 396664,
+      "num": 396664,
+      "word": "穆婷婷说不喜欢周迅了",
+      "onboard_time": 1738032916,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 396028,
@@ -19033,6 +19065,14 @@
       "onboard_time": 1737290779,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 394434,
+      "num": 394434,
+      "word": "DeepSeek是啥",
+      "onboard_time": 1738028716,
+      "rank": 24,
+      "category": "互联网"
     },
     {
       "raw_hot": 394416,
@@ -19521,6 +19561,14 @@
       "onboard_time": 1735998928,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 386500,
+      "num": 386500,
+      "word": "封神片尾曲唱出中国人心中的家园",
+      "onboard_time": 1738032737,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 386387,
@@ -20881,14 +20929,6 @@
       "onboard_time": 1735728681,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 362800,
-      "num": 362800,
-      "word": "DeepSeek是啥",
-      "onboard_time": 1738028716,
-      "rank": 24,
-      "category": "互联网"
     },
     {
       "raw_hot": 362317,
@@ -22715,14 +22755,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 330406,
-      "num": 426717,
-      "word": "除夕到初三加班不能用事后调休替代",
-      "onboard_time": 1738030697,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 330157,
       "num": 2706757,
       "word": "娱乐圈没有女明星可怎么办",
@@ -24161,14 +24193,6 @@
       "onboard_time": 1737696379,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 309461,
-      "num": 309461,
-      "word": "陈哲远 红包",
-      "onboard_time": 1738032856,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 309152,
@@ -29603,8 +29627,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 249473,
-      "num": 249473,
+      "raw_hot": 249523,
+      "num": 249523,
       "word": "赵露思包场支持肖战新片",
       "onboard_time": 1738029137,
       "rank": 18,
@@ -32315,6 +32339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 225104,
+      "num": 225104,
+      "word": "留几手回应麦琳是否签约无忧传媒",
+      "onboard_time": 1738033396,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225099,
       "num": 225099,
       "word": "小米已投资健身公司",
@@ -33003,6 +33035,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 220308,
+      "num": 229713,
+      "word": "美媒惊问DeepSeek是谁",
+      "onboard_time": 1738030697,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
       "raw_hot": 220299,
       "num": 292173,
       "word": "babymonster首尔演唱会",
@@ -33249,14 +33289,6 @@
       "onboard_time": 1735892240,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 218817,
-      "num": 229713,
-      "word": "美媒惊问DeepSeek是谁",
-      "onboard_time": 1738030697,
-      "rank": 9,
-      "category": "数码"
     },
     {
       "raw_hot": 218725,
@@ -35187,6 +35219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207555,
+      "num": 207555,
+      "word": "美股开盘英伟达股价大跌",
+      "onboard_time": 1738034357,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 207553,
       "num": 227254,
       "word": "卞相壹出席颁奖典礼",
@@ -35337,6 +35377,14 @@
       "onboard_time": 1736347583,
       "rank": 34,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 207017,
+      "num": 207017,
+      "word": "韩国棋院就LG杯事件发公告致歉",
+      "onboard_time": 1738033877,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 206953,
@@ -40203,6 +40251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190303,
+      "num": 190303,
+      "word": "骄阳似我",
+      "onboard_time": 1737526519,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190294,
       "num": 190294,
       "word": "朱志鑫苏新皓Guilty双人part",
@@ -42163,6 +42219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183227,
+      "num": 183227,
+      "word": "射雕预售",
+      "onboard_time": 1738033338,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 183216,
       "num": 197048,
       "word": "旧房装修可享国家补贴",
@@ -43643,14 +43707,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 177237,
-      "num": 177237,
-      "word": "骄阳似我",
-      "onboard_time": 1737526519,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 177196,
       "num": 173475,
       "word": "张新成微博之夜造型",
@@ -44193,6 +44249,14 @@
       "onboard_time": 1736839338,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175624,
+      "num": 175624,
+      "word": "王者荣耀 嫦娥",
+      "onboard_time": 1738033157,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 175512,
@@ -46633,6 +46697,14 @@
       "onboard_time": 1737958996,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167421,
+      "num": 167421,
+      "word": "KPOP爱豆著作权协会登记曲数最新排名",
+      "onboard_time": 1738033997,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 167404,
@@ -49185,14 +49257,6 @@
       "onboard_time": 1737170059,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 159121,
-      "num": 209830,
-      "word": "穆婷婷说不喜欢周迅了",
-      "onboard_time": 1738032916,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 159069,
@@ -54987,6 +55051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141576,
+      "num": 141576,
+      "word": "湖人战胜黄蜂",
+      "onboard_time": 1738034057,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141560,
       "num": 141560,
       "word": "虞书欣人生欣体验",
@@ -56400,6 +56472,14 @@
       "word": "提前回村过年的年轻人放不下续命咖啡",
       "onboard_time": 1736140584,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137443,
+      "num": 137443,
+      "word": "00后女生卖创意福字7天赚5千",
+      "onboard_time": 1738032976,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -58249,6 +58329,14 @@
       "onboard_time": 1737617420,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132801,
+      "num": 183465,
+      "word": "杨幂工作日记",
+      "onboard_time": 1738032796,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 132775,
@@ -60435,6 +60523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 126329,
+      "num": 126329,
+      "word": "多吃5种蔬菜能抗炎",
+      "onboard_time": 1738028236,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 126295,
       "num": 126295,
       "word": "大侦探第十季叫拾光季",
@@ -61659,6 +61755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122980,
+      "num": 122980,
+      "word": "掌心",
+      "onboard_time": 1738034297,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122967,
       "num": 122967,
       "word": "国际乒联主席说孙颖莎家喻户晓",
@@ -62217,6 +62321,14 @@
       "onboard_time": 1736094262,
       "rank": 29,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 121456,
+      "num": 121456,
+      "word": "抽奖",
+      "onboard_time": 1738034537,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 121452,
@@ -64891,14 +65003,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 114307,
-      "num": 114307,
-      "word": "多吃5种蔬菜能抗炎",
-      "onboard_time": 1738028236,
-      "rank": 25,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 114270,
       "num": 114270,
       "word": "震区这句金珠玛米亚古都很暖心",
@@ -65811,6 +65915,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 111743,
+      "num": 168004,
+      "word": "生活处处有侠气",
+      "onboard_time": 1738032617,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 111734,
+      "num": 111734,
+      "word": "除夕图片",
+      "onboard_time": 1738033817,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 111731,
       "num": 111731,
       "word": "宠物可以火车托运吗",
@@ -66153,6 +66273,14 @@
       "onboard_time": 1735715898,
       "rank": 49,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 110823,
+      "num": 110823,
+      "word": "这种屎黄色的猫最有心机了",
+      "onboard_time": 1738033338,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 110776,
@@ -66625,6 +66753,14 @@
       "onboard_time": 1737541577,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 109223,
+      "num": 109223,
+      "word": "王者荣耀崩了",
+      "onboard_time": 1738032375,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 109210,
@@ -67673,14 +67809,6 @@
       "onboard_time": 1736761339,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105826,
-      "num": 168004,
-      "word": "生活处处有侠气",
-      "onboard_time": 1738032617,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 105810,
@@ -69217,6 +69345,14 @@
       "onboard_time": 1736304621,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 100810,
+      "num": 100810,
+      "word": "梁靖崑世界排名上升至第4",
+      "onboard_time": 1738034116,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 100784,
@@ -70819,14 +70955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 94619,
-      "num": 219399,
-      "word": "封神片尾曲唱出中国人心中的家园",
-      "onboard_time": 1738032737,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 94616,
       "num": 184121,
       "word": "国羽全队送上新春祝福",
@@ -71276,7 +71404,7 @@
     },
     {
       "raw_hot": 92216,
-      "num": 92216,
+      "num": 184769,
       "word": "内马尔与利雅得新月解约",
       "onboard_time": 1738031716,
       "rank": 37,
@@ -71857,14 +71985,6 @@
       "onboard_time": 1737797598,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 88849,
-      "num": 88849,
-      "word": "杨幂工作日记",
-      "onboard_time": 1738032796,
-      "rank": 43,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 88801,
@@ -73481,14 +73601,6 @@
       "onboard_time": 1737433819,
       "rank": 29,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 80954,
-      "num": 80954,
-      "word": "00后女生卖创意福字7天赚5千",
-      "onboard_time": 1738032976,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80939,
@@ -76441,6 +76553,14 @@
       "onboard_time": 1736712070,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61937,
+      "num": 110352,
+      "word": "胡歌到底有几个身份",
+      "onboard_time": 1738034477,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 61926,
