@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738056214967,
+  "endTime": 1738057020774,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -113,6 +113,14 @@
       "onboard_time": 1735660407,
       "rank": 0,
       "category": "情感,民生新闻"
+    },
+    {
+      "raw_hot": 10383417,
+      "num": 10383417,
+      "word": "红包",
+      "onboard_time": 1738041197,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10158319,
@@ -265,14 +273,6 @@
       "onboard_time": 1736063187,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 5394848,
-      "num": 5394848,
-      "word": "红包",
-      "onboard_time": 1738041197,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 4913394,
@@ -1267,6 +1267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2128275,
+      "num": 1486365,
+      "word": "敖瑞鹏预告红包",
+      "onboard_time": 1738039278,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2127395,
       "num": 2127395,
       "word": "王菲 春晚",
@@ -1660,7 +1668,7 @@
     },
     {
       "raw_hot": 1906556,
-      "num": 338395,
+      "num": 370323,
       "word": "祝绪丹发红包",
       "onboard_time": 1738050679,
       "rank": 6,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736611344,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1615409,
-      "num": 1615409,
-      "word": "麦琳说自己是父母捡来的",
-      "onboard_time": 1736401162,
-      "rank": 3,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
