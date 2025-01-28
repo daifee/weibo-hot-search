@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738063122425,
+  "endTime": 1738064156430,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -35,6 +35,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 16704808,
+      "num": 16704808,
+      "word": "红包",
+      "onboard_time": 1738041197,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16645237,
       "num": 16645237,
       "word": "鹿晗社交平台被禁止关注",
@@ -49,14 +57,6 @@
       "onboard_time": 1735726580,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 16100138,
-      "num": 16100138,
-      "word": "红包",
-      "onboard_time": 1738041197,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16088904,
@@ -112,6 +112,14 @@
       "word": "李明德晒聊天记录",
       "onboard_time": 1736063366,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 11051062,
+      "num": 11051062,
+      "word": "陈哲远 红包",
+      "onboard_time": 1738032856,
+      "rank": 7,
       "category": "艺人"
     },
     {
@@ -233,14 +241,6 @@
       "onboard_time": 1736605829,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 7522961,
-      "num": 7522961,
-      "word": "陈哲远 红包",
-      "onboard_time": 1738032856,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 7367204,
@@ -1523,6 +1523,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1994171,
+      "num": 1994171,
+      "word": "陈鹤一 本人是自愿发红包给大家的",
+      "onboard_time": 1738062626,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1990564,
       "num": 1990564,
       "word": "李冰冰赵丽颖手牵手",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1737439818,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1626736,
-      "num": 1626736,
-      "word": "孙颖莎钱天一擦边球争议",
-      "onboard_time": 1735714041,
-      "rank": 0,
-      "category": "体育"
     }
   ],
   "hotgov_list": [

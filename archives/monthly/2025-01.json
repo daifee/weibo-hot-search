@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738063122425,
+  "endTime": 1738064156430,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -35,6 +35,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 16704808,
+      "num": 16704808,
+      "word": "红包",
+      "onboard_time": 1738041197,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16645237,
       "num": 16645237,
       "word": "鹿晗社交平台被禁止关注",
@@ -49,14 +57,6 @@
       "onboard_time": 1735726580,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 16100138,
-      "num": 16100138,
-      "word": "红包",
-      "onboard_time": 1738041197,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16088904,
@@ -112,6 +112,14 @@
       "word": "李明德晒聊天记录",
       "onboard_time": 1736063366,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 11051062,
+      "num": 11051062,
+      "word": "陈哲远 红包",
+      "onboard_time": 1738032856,
+      "rank": 7,
       "category": "艺人"
     },
     {
@@ -233,14 +241,6 @@
       "onboard_time": 1736605829,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 7522961,
-      "num": 7522961,
-      "word": "陈哲远 红包",
-      "onboard_time": 1738032856,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 7367204,
@@ -1521,6 +1521,14 @@
       "onboard_time": 1737518960,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1994171,
+      "num": 1994171,
+      "word": "陈鹤一 本人是自愿发红包给大家的",
+      "onboard_time": 1738062626,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 1990564,
@@ -3244,7 +3252,7 @@
     },
     {
       "raw_hot": 1403523,
-      "num": 1082608,
+      "num": 1135590,
       "word": "红包分组",
       "onboard_time": 1738058423,
       "rank": 20,
@@ -7740,7 +7748,7 @@
     },
     {
       "raw_hot": 832654,
-      "num": 832654,
+      "num": 2024340,
       "word": "李宇春易烊千玺合作舞台",
       "onboard_time": 1738052181,
       "rank": 15,
@@ -9008,6 +9016,14 @@
       "word": "一路繁花窒息七分钟",
       "onboard_time": 1737285498,
       "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 747634,
+      "num": 747634,
+      "word": "时代少年团亮相春晚重庆分会场",
+      "onboard_time": 1738061426,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -12611,14 +12627,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 585832,
-      "num": 585832,
-      "word": "时代少年团亮相春晚重庆分会场",
-      "onboard_time": 1738061426,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 585743,
       "num": 570587,
       "word": "医生谈赵露思将复工",
@@ -14451,6 +14459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 516671,
+      "num": 3085220,
+      "word": "烟花",
+      "onboard_time": 1738062146,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 515745,
       "num": 200571,
       "word": "Jasper在陈小春家学历最高",
@@ -14553,6 +14569,14 @@
       "onboard_time": 1736759421,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 512870,
+      "num": 500369,
+      "word": "红包封面",
+      "onboard_time": 1737952157,
+      "rank": 27,
+      "category": "休闲"
     },
     {
       "raw_hot": 512646,
@@ -15115,14 +15139,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 500369,
-      "num": 500369,
-      "word": "红包封面",
-      "onboard_time": 1737952157,
-      "rank": 27,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 500343,
       "num": 500343,
       "word": "十个勤天一人一句祝福不重样",
@@ -15635,20 +15651,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 483585,
+      "num": 483585,
+      "word": "宋佳只有高跟鞋不是红色",
+      "onboard_time": 1738063829,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 483504,
       "num": 406958,
       "word": "穆婷婷说不喜欢周迅了",
       "onboard_time": 1738032916,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 483418,
-      "num": 3085220,
-      "word": "烟花",
-      "onboard_time": 1738062146,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 483166,
@@ -17601,14 +17617,6 @@
       "onboard_time": 1737011358,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 436543,
-      "num": 436543,
-      "word": "陈鹤一 本人是自愿发红包给大家的",
-      "onboard_time": 1738062626,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 436382,
@@ -21603,6 +21611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 357496,
+      "num": 357496,
+      "word": "何猷君奚梦瑶一家澳洲过年",
+      "onboard_time": 1738062927,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 357194,
       "num": 334621,
       "word": "连侯佩岑都失去表情管理了",
@@ -23435,6 +23451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 327152,
+      "num": 327152,
+      "word": "祝绪丹有钱就是任性",
+      "onboard_time": 1738061906,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 327137,
       "num": 327137,
       "word": "加州一发电厂爆炸起火释放大量毒气",
@@ -24507,14 +24531,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 311413,
-      "num": 311413,
-      "word": "祝绪丹有钱就是任性",
-      "onboard_time": 1738061906,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 311401,
       "num": 311401,
       "word": "三花不愧是猫届美女",
@@ -24932,7 +24948,7 @@
     },
     {
       "raw_hot": 305486,
-      "num": 1101785,
+      "num": 2075044,
       "word": "新年祝福",
       "onboard_time": 1738062325,
       "rank": 8,
@@ -25113,6 +25129,14 @@
       "onboard_time": 1735983323,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 303024,
+      "num": 303024,
+      "word": "DeepSeek续写红楼梦后四十回",
+      "onboard_time": 1738060887,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 302866,
@@ -25297,14 +25321,6 @@
       "onboard_time": 1736383942,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 300832,
-      "num": 300832,
-      "word": "DeepSeek续写红楼梦后四十回",
-      "onboard_time": 1738060887,
-      "rank": 33,
-      "category": "互联网"
     },
     {
       "raw_hot": 300826,
@@ -25515,6 +25531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 298405,
+      "num": 298405,
+      "word": "孙千春晚小手办",
+      "onboard_time": 1738063287,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 298241,
       "num": 5341852,
       "word": "江苏一地最新公布新生儿爆款名字",
@@ -25529,6 +25553,14 @@
       "onboard_time": 1736904978,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 298196,
+      "num": 298196,
+      "word": "新年文案",
+      "onboard_time": 1738063409,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 298127,
@@ -26563,6 +26595,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 285098,
+      "num": 285098,
+      "word": "唐探1900登顶大年初一预售票房榜",
+      "onboard_time": 1738063888,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 285056,
       "num": 285056,
       "word": "谢娜曾说杨紫拍一部火一部",
@@ -27137,6 +27177,14 @@
       "onboard_time": 1735823420,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 278708,
+      "num": 278708,
+      "word": "周深千万粉丝送粉丝三个千万",
+      "onboard_time": 1738063648,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 278701,
@@ -32163,14 +32211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 231928,
-      "num": 231928,
-      "word": "何猷君奚梦瑶一家澳洲过年",
-      "onboard_time": 1738062927,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 231920,
       "num": 434411,
       "word": "人民日报专访李宇春",
@@ -35763,6 +35803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 208285,
+      "num": 208285,
+      "word": "黄子弘凡首登央视春晚",
+      "onboard_time": 1738063348,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208261,
       "num": 208261,
       "word": "TES 久酷",
@@ -38353,6 +38401,14 @@
       "onboard_time": 1735828042,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198554,
+      "num": 198554,
+      "word": "许凯丁禹兮王安宇演我被老师点名",
+      "onboard_time": 1738063829,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 198542,
@@ -60347,6 +60403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129806,
+      "num": 365884,
+      "word": "体育团拜会",
+      "onboard_time": 1738063948,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129783,
       "num": 158661,
       "word": "为什么吃汤圆在南方人眼里很重要",
@@ -78385,6 +78449,14 @@
       "onboard_time": 1737877698,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58620,
+      "num": 209122,
+      "word": "绳匠新年快乐",
+      "onboard_time": 1738063108,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 58564,

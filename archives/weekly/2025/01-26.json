@@ -1,10 +1,10 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738063122425,
+  "endTime": 1738064156430,
   "band_list": [
     {
-      "raw_hot": 16100138,
-      "num": 16100138,
+      "raw_hot": 16704808,
+      "num": 16704808,
       "word": "红包",
       "onboard_time": 1738041197,
       "rank": 1,
@@ -19,8 +19,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 7522961,
-      "num": 7522961,
+      "raw_hot": 11051062,
+      "num": 11051062,
       "word": "陈哲远 红包",
       "onboard_time": 1738032856,
       "rank": 7,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1994171,
+      "num": 1994171,
+      "word": "陈鹤一 本人是自愿发红包给大家的",
+      "onboard_time": 1738062626,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1943989,
       "num": 1943989,
       "word": "南京一柜姐评论刘亦菲微胖被辞退",
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 1403523,
-      "num": 1082608,
+      "num": 1135590,
       "word": "红包分组",
       "onboard_time": 1738058423,
       "rank": 20,
@@ -588,7 +596,7 @@
     },
     {
       "raw_hot": 832654,
-      "num": 832654,
+      "num": 2024340,
       "word": "李宇春易烊千玺合作舞台",
       "onboard_time": 1738052181,
       "rank": 15,
@@ -665,6 +673,14 @@
       "onboard_time": 1737902120,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 747634,
+      "num": 747634,
+      "word": "时代少年团亮相春晚重庆分会场",
+      "onboard_time": 1738061426,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 744016,
@@ -955,14 +971,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 585832,
-      "num": 585832,
-      "word": "时代少年团亮相春晚重庆分会场",
-      "onboard_time": 1738061426,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 583938,
       "num": 977309,
       "word": "除夕到初三加班不能用事后调休替代",
@@ -1155,6 +1163,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 516671,
+      "num": 3085220,
+      "word": "烟花",
+      "onboard_time": 1738062146,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 515745,
       "num": 200571,
       "word": "Jasper在陈小春家学历最高",
@@ -1177,6 +1193,14 @@
       "onboard_time": 1737856938,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 512870,
+      "num": 500369,
+      "word": "红包封面",
+      "onboard_time": 1737952157,
+      "rank": 27,
+      "category": "休闲"
     },
     {
       "raw_hot": 512537,
@@ -1259,14 +1283,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 500369,
-      "num": 500369,
-      "word": "红包封面",
-      "onboard_time": 1737952157,
-      "rank": 27,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 500343,
       "num": 500343,
       "word": "十个勤天一人一句祝福不重样",
@@ -1347,20 +1363,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 483585,
+      "num": 483585,
+      "word": "宋佳只有高跟鞋不是红色",
+      "onboard_time": 1738063829,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 483504,
       "num": 406958,
       "word": "穆婷婷说不喜欢周迅了",
       "onboard_time": 1738032916,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 483418,
-      "num": 3085220,
-      "word": "烟花",
-      "onboard_time": 1738062146,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 483166,
@@ -1577,14 +1593,6 @@
       "onboard_time": 1737878899,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 436543,
-      "num": 436543,
-      "word": "陈鹤一 本人是自愿发红包给大家的",
-      "onboard_time": 1738062626,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 434481,
@@ -1947,6 +1955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 357496,
+      "num": 357496,
+      "word": "何猷君奚梦瑶一家澳洲过年",
+      "onboard_time": 1738062927,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 356002,
       "num": 356002,
       "word": "我们的爸爸阵容官宣",
@@ -2075,6 +2091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 327152,
+      "num": 327152,
+      "word": "祝绪丹有钱就是任性",
+      "onboard_time": 1738061906,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 326633,
       "num": 326633,
       "word": "易烊千玺晒春晚云参演证",
@@ -2171,14 +2195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 311413,
-      "num": 311413,
-      "word": "祝绪丹有钱就是任性",
-      "onboard_time": 1738061906,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 309094,
       "num": 309094,
       "word": "DeepSeek彻底爆发",
@@ -2204,7 +2220,7 @@
     },
     {
       "raw_hot": 305486,
-      "num": 1101785,
+      "num": 2075044,
       "word": "新年祝福",
       "onboard_time": 1738062325,
       "rank": 8,
@@ -2243,20 +2259,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 303024,
+      "num": 303024,
+      "word": "DeepSeek续写红楼梦后四十回",
+      "onboard_time": 1738060887,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 301580,
       "num": 301580,
       "word": "中共中央国务院27日举行春节团拜会",
       "onboard_time": 1737979217,
       "rank": 5,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 300832,
-      "num": 300832,
-      "word": "DeepSeek续写红楼梦后四十回",
-      "onboard_time": 1738060887,
-      "rank": 33,
-      "category": "互联网"
     },
     {
       "raw_hot": 300727,
@@ -2273,6 +2289,22 @@
       "onboard_time": 1737939257,
       "rank": 29,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 298405,
+      "num": 298405,
+      "word": "孙千春晚小手办",
+      "onboard_time": 1738063287,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 298196,
+      "num": 298196,
+      "word": "新年文案",
+      "onboard_time": 1738063409,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 295389,
@@ -2395,6 +2427,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 285098,
+      "num": 285098,
+      "word": "唐探1900登顶大年初一预售票房榜",
+      "onboard_time": 1738063888,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 284216,
       "num": 227967,
       "word": "台湾一男子夜市上用竹签刺游客臀部",
@@ -2433,6 +2473,14 @@
       "onboard_time": 1737974296,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 278708,
+      "num": 278708,
+      "word": "周深千万粉丝送粉丝三个千万",
+      "onboard_time": 1738063648,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 278301,
@@ -2907,14 +2955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 231928,
-      "num": 231928,
-      "word": "何猷君奚梦瑶一家澳洲过年",
-      "onboard_time": 1738062927,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 231735,
       "num": 231735,
       "word": "永远会被生活中的暖心瞬间击中",
@@ -3235,6 +3275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208285,
+      "num": 208285,
+      "word": "黄子弘凡首登央视春晚",
+      "onboard_time": 1738063348,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207949,
       "num": 177733,
       "word": "店家回应刘亦菲带火19元奥特曼发夹",
@@ -3441,6 +3489,14 @@
       "onboard_time": 1737897199,
       "rank": 45,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 198554,
+      "num": 198554,
+      "word": "许凯丁禹兮王安宇演我被老师点名",
+      "onboard_time": 1738063829,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 198542,
@@ -5385,6 +5441,14 @@
       "onboard_time": 1737899900,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 129806,
+      "num": 365884,
+      "word": "体育团拜会",
+      "onboard_time": 1738063948,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 129327,
@@ -7993,6 +8057,14 @@
       "onboard_time": 1737877698,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58620,
+      "num": 209122,
+      "word": "绳匠新年快乐",
+      "onboard_time": 1738063108,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 58331,
