@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738028390543,
+  "endTime": 1738029352634,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -6481,6 +6481,14 @@
       "onboard_time": 1735654950,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 921177,
+      "num": 1147388,
+      "word": "前DeepSeek天才少女从农村走向TOP开发者",
+      "onboard_time": 1738026976,
+      "rank": 3,
+      "category": "互联网"
     },
     {
       "raw_hot": 919172,
@@ -16555,6 +16563,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 450573,
+      "num": 223399,
+      "word": "王俊凯ins晒粉丝应援",
+      "onboard_time": 1738027577,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 450469,
       "num": 286999,
       "word": "虞书欣丁禹兮新春版剧照",
@@ -18593,14 +18609,6 @@
       "onboard_time": 1735706360,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 402662,
-      "num": 402662,
-      "word": "前DeepSeek天才少女从农村走向TOP开发者",
-      "onboard_time": 1738026976,
-      "rank": 3,
-      "category": "互联网"
     },
     {
       "raw_hot": 402497,
@@ -25715,6 +25723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 288031,
+      "num": 288031,
+      "word": "反向春运人群规模增长10%",
+      "onboard_time": 1738025836,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 287710,
       "num": 287710,
       "word": "花8000元送去宠物学校的狗挨了打",
@@ -27889,6 +27905,14 @@
       "onboard_time": 1737171796,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 264825,
+      "num": 280016,
+      "word": "拜年文案给你准备好了",
+      "onboard_time": 1737993858,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 264453,
@@ -31587,6 +31611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 230490,
+      "num": 230490,
+      "word": "英伟达股价暴跌后迅速发声",
+      "onboard_time": 1738028716,
+      "rank": 9,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 230430,
       "num": 289897,
       "word": "马龙微博年度体育人物",
@@ -32689,14 +32721,6 @@
       "onboard_time": 1736487021,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 221572,
-      "num": 280016,
-      "word": "拜年文案给你准备好了",
-      "onboard_time": 1737993858,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 221548,
@@ -36979,14 +37003,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 200272,
-      "num": 200272,
-      "word": "王俊凯ins晒粉丝应援",
-      "onboard_time": 1738027577,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 200259,
       "num": 200259,
       "word": "星月净渊老一辈的爱情",
@@ -37545,14 +37561,6 @@
       "onboard_time": 1736511981,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 198270,
-      "num": 231247,
-      "word": "反向春运人群规模增长10%",
-      "onboard_time": 1738025836,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 198269,
@@ -38964,7 +38972,7 @@
     },
     {
       "raw_hot": 193686,
-      "num": 193686,
+      "num": 225861,
       "word": "张踩铃一家梗太密了",
       "onboard_time": 1737995655,
       "rank": 32,
@@ -50355,6 +50363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155326,
+      "num": 155326,
+      "word": "父母到孩子工作城市过年成新趋势",
+      "onboard_time": 1738028716,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155305,
       "num": 155305,
       "word": "演员邓友称曾遭遇相似泰国拍戏骗局",
@@ -58388,7 +58404,7 @@
     },
     {
       "raw_hot": 132056,
-      "num": 132056,
+      "num": 175575,
       "word": "李子柒舞台展示25项非遗",
       "onboard_time": 1738021694,
       "rank": 17,
@@ -62475,6 +62491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120540,
+      "num": 120540,
+      "word": "DeepSeek是啥",
+      "onboard_time": 1738028716,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 120534,
       "num": 265774,
       "word": "汪苏泷去年微博之夜的发言做到了",
@@ -63907,6 +63931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116590,
+      "num": 223986,
+      "word": "罗云熙把初心唱给你听",
+      "onboard_time": 1738023136,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116589,
       "num": 116589,
       "word": "大疆Flip",
@@ -64737,14 +64769,6 @@
       "onboard_time": 1736295861,
       "rank": 34,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 114248,
-      "num": 128841,
-      "word": "罗云熙把初心唱给你听",
-      "onboard_time": 1738023136,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 114241,
@@ -67075,6 +67099,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 107169,
+      "num": 164546,
+      "word": "赵露思包场支持肖战新片",
+      "onboard_time": 1738029137,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 107157,
       "num": 107157,
       "word": "实测美国手机号无法注册抖音",
@@ -68233,6 +68265,14 @@
       "onboard_time": 1736926700,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103567,
+      "num": 103567,
+      "word": "多吃5种蔬菜能抗炎",
+      "onboard_time": 1738028236,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 103523,
@@ -69993,14 +70033,6 @@
       "onboard_time": 1737103759,
       "rank": 47,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 96994,
-      "num": 96994,
-      "word": "多吃5种蔬菜能抗炎",
-      "onboard_time": 1738028236,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 96982,
@@ -75993,6 +76025,14 @@
       "onboard_time": 1737126379,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 63061,
+      "num": 63061,
+      "word": "林高远是小林设计师",
+      "onboard_time": 1738023736,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 63019,

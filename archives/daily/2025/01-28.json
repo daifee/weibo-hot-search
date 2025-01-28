@@ -1,6 +1,6 @@
 {
   "startTime": 1737995245772,
-  "endTime": 1738028390543,
+  "endTime": 1738029352634,
   "band_list": [
     {
       "raw_hot": 3185801,
@@ -9,6 +9,14 @@
       "onboard_time": 1737993976,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 921177,
+      "num": 1147388,
+      "word": "前DeepSeek天才少女从农村走向TOP开发者",
+      "onboard_time": 1738026976,
+      "rank": 3,
+      "category": "互联网"
     },
     {
       "raw_hot": 702376,
@@ -59,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 450573,
+      "num": 223399,
+      "word": "王俊凯ins晒粉丝应援",
+      "onboard_time": 1738027577,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 432980,
       "num": 432980,
       "word": "DeepSeek",
@@ -81,14 +97,6 @@
       "onboard_time": 1737987620,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 402662,
-      "num": 402662,
-      "word": "前DeepSeek天才少女从农村走向TOP开发者",
-      "onboard_time": 1738026976,
-      "rank": 3,
-      "category": "互联网"
     },
     {
       "raw_hot": 386677,
@@ -131,6 +139,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 288031,
+      "num": 288031,
+      "word": "反向春运人群规模增长10%",
+      "onboard_time": 1738025836,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 282830,
       "num": 282830,
       "word": "中国AI人才缺口或将达400万",
@@ -145,6 +161,14 @@
       "onboard_time": 1737984500,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 264825,
+      "num": 280016,
+      "word": "拜年文案给你准备好了",
+      "onboard_time": 1737993858,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 247167,
@@ -179,20 +203,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 230490,
+      "num": 230490,
+      "word": "英伟达股价暴跌后迅速发声",
+      "onboard_time": 1738028716,
+      "rank": 9,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 226501,
       "num": 144652,
       "word": "王菲55岁怎么一点姨感都没有",
       "onboard_time": 1737968597,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 221572,
-      "num": 280016,
-      "word": "拜年文案给你准备好了",
-      "onboard_time": 1737993858,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 215787,
@@ -219,24 +243,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 200272,
-      "num": 200272,
-      "word": "王俊凯ins晒粉丝应援",
-      "onboard_time": 1738027577,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 198270,
-      "num": 231247,
-      "word": "反向春运人群规模增长10%",
-      "onboard_time": 1738025836,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 193686,
-      "num": 193686,
+      "num": 225861,
       "word": "张踩铃一家梗太密了",
       "onboard_time": 1737995655,
       "rank": 32,
@@ -257,6 +265,14 @@
       "onboard_time": 1737996256,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155326,
+      "num": 155326,
+      "word": "父母到孩子工作城市过年成新趋势",
+      "onboard_time": 1738028716,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153533,
@@ -316,7 +332,7 @@
     },
     {
       "raw_hot": 132056,
-      "num": 132056,
+      "num": 175575,
       "word": "李子柒舞台展示25项非遗",
       "onboard_time": 1738021694,
       "rank": 17,
@@ -347,6 +363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 120540,
+      "num": 120540,
+      "word": "DeepSeek是啥",
+      "onboard_time": 1738028716,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 117261,
       "num": 117261,
       "word": "东方卫视蛇年春晚阵容",
@@ -355,8 +379,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 114248,
-      "num": 128841,
+      "raw_hot": 116590,
+      "num": 223986,
       "word": "罗云熙把初心唱给你听",
       "onboard_time": 1738023136,
       "rank": 19,
@@ -395,6 +419,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 107169,
+      "num": 164546,
+      "word": "赵露思包场支持肖战新片",
+      "onboard_time": 1738029137,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 104945,
       "num": 104945,
       "word": "杨幂双麻花辫新年京味大片",
@@ -409,6 +441,14 @@
       "onboard_time": 1737984020,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103567,
+      "num": 103567,
+      "word": "多吃5种蔬菜能抗炎",
+      "onboard_time": 1738028236,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 103020,
@@ -433,14 +473,6 @@
       "onboard_time": 1738023195,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 96994,
-      "num": 96994,
-      "word": "多吃5种蔬菜能抗炎",
-      "onboard_time": 1738028236,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 96874,
@@ -643,6 +675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66616,
+      "num": 510978,
+      "word": "海拔最高春晚分会场",
+      "onboard_time": 1737989419,
+      "rank": 2,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 64970,
       "num": 64970,
       "word": "新年壁纸",
@@ -667,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63061,
+      "num": 63061,
+      "word": "林高远是小林设计师",
+      "onboard_time": 1738023736,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58331,
       "num": 58331,
       "word": "肖战谈什么是真正的英雄",
@@ -681,14 +729,6 @@
       "onboard_time": 1738019293,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 56830,
-      "num": 507246,
-      "word": "海拔最高春晚分会场",
-      "onboard_time": 1737989419,
-      "rank": 2,
-      "category": "综艺"
     },
     {
       "raw_hot": 53621,
