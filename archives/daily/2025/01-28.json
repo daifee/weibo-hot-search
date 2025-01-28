@@ -1,6 +1,6 @@
 {
   "startTime": 1737995245772,
-  "endTime": 1738034646122,
+  "endTime": 1738035496873,
   "band_list": [
     {
       "raw_hot": 3185801,
@@ -11,8 +11,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1328940,
-      "num": 1328940,
+      "raw_hot": 1841501,
+      "num": 1841501,
       "word": "陈哲远 红包",
       "onboard_time": 1738032856,
       "rank": 7,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 903130,
-      "num": 395944,
+      "num": 405335,
       "word": "丈母娘上厕所被女婿忘在高速上",
       "onboard_time": 1738030397,
       "rank": 11,
@@ -52,11 +52,19 @@
     },
     {
       "raw_hot": 586530,
-      "num": 395923,
+      "num": 404483,
       "word": "昀牵孟绕",
       "onboard_time": 1738030516,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 583938,
+      "num": 977309,
+      "word": "除夕到初三加班不能用事后调休替代",
+      "onboard_time": 1738030697,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 560138,
@@ -65,6 +73,14 @@
       "onboard_time": 1737999253,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 554017,
+      "num": 405040,
+      "word": "韩国棋院就LG杯事件发公告致歉",
+      "onboard_time": 1738033877,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 528305,
@@ -76,7 +92,7 @@
     },
     {
       "raw_hot": 500201,
-      "num": 395278,
+      "num": 403939,
       "word": "特朗普称DeepSeek给美企敲响警钟",
       "onboard_time": 1738030937,
       "rank": 13,
@@ -99,12 +115,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 492775,
-      "num": 977309,
-      "word": "除夕到初三加班不能用事后调休替代",
-      "onboard_time": 1738030697,
-      "rank": 16,
-      "category": "民生新闻"
+      "raw_hot": 483504,
+      "num": 406958,
+      "word": "穆婷婷说不喜欢周迅了",
+      "onboard_time": 1738032916,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 483166,
@@ -164,27 +180,27 @@
     },
     {
       "raw_hot": 398206,
-      "num": 398206,
+      "num": 405777,
       "word": "王一博祝大家自在且松弛",
       "onboard_time": 1738033097,
       "rank": 8,
       "category": "艺人"
     },
     {
-      "raw_hot": 396664,
-      "num": 396664,
-      "word": "穆婷婷说不喜欢周迅了",
-      "onboard_time": 1738032916,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 394434,
-      "num": 394434,
+      "num": 404077,
       "word": "DeepSeek是啥",
       "onboard_time": 1738028716,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 387408,
+      "num": 387408,
+      "word": "封神片尾曲唱出中国人心中的家园",
+      "onboard_time": 1738032737,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 386677,
@@ -193,14 +209,6 @@
       "onboard_time": 1737985818,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 386500,
-      "num": 386500,
-      "word": "封神片尾曲唱出中国人心中的家园",
-      "onboard_time": 1738032737,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 374538,
@@ -227,12 +235,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 311195,
+      "num": 311195,
+      "word": "楼晚",
+      "onboard_time": 1738034657,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 307805,
+      "num": 307805,
+      "word": "王者荣耀 嫦娥",
+      "onboard_time": 1738033157,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 297392,
       "num": 297392,
       "word": "ChatGPT回应被DeepSeek超越",
       "onboard_time": 1737988700,
       "rank": 8,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 290180,
+      "num": 290180,
+      "word": "留几手回应麦琳是否签约无忧传媒",
+      "onboard_time": 1738033396,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 288031,
@@ -323,14 +355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 225104,
-      "num": 225104,
-      "word": "留几手回应麦琳是否签约无忧传媒",
-      "onboard_time": 1738033396,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 220308,
       "num": 229713,
       "word": "美媒惊问DeepSeek是谁",
@@ -371,20 +395,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 207555,
-      "num": 207555,
+      "raw_hot": 208239,
+      "num": 406001,
       "word": "美股开盘英伟达股价大跌",
       "onboard_time": 1738034357,
       "rank": 18,
       "category": "财经"
     },
     {
-      "raw_hot": 207017,
-      "num": 207017,
-      "word": "韩国棋院就LG杯事件发公告致歉",
-      "onboard_time": 1738033877,
-      "rank": 19,
-      "category": "体育"
+      "raw_hot": 204783,
+      "num": 204783,
+      "word": "KPOP爱豆著作权协会登记曲数最新排名",
+      "onboard_time": 1738033997,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 201642,
@@ -393,6 +417,14 @@
       "onboard_time": 1737985818,
       "rank": 15,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 194888,
+      "num": 194888,
+      "word": "掌心",
+      "onboard_time": 1738034297,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 193686,
@@ -427,6 +459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 186114,
+      "num": 186114,
+      "word": "难哄",
+      "onboard_time": 1738034237,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185720,
       "num": 221617,
       "word": "射雕专属红包封面",
@@ -451,28 +491,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 175624,
-      "num": 175624,
-      "word": "王者荣耀 嫦娥",
-      "onboard_time": 1738033157,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 170450,
-      "num": 171201,
-      "word": "难哄",
-      "onboard_time": 1738034237,
-      "rank": 29,
+      "raw_hot": 160391,
+      "num": 160391,
+      "word": "李昀锐拜年",
+      "onboard_time": 1738035017,
+      "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 167421,
-      "num": 167421,
-      "word": "KPOP爱豆著作权协会登记曲数最新排名",
-      "onboard_time": 1738033997,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 156601,
@@ -489,6 +513,14 @@
       "onboard_time": 1738028716,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154971,
+      "num": 154971,
+      "word": "白鹿白月梵星剧照",
+      "onboard_time": 1738035378,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 153533,
@@ -523,12 +555,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145154,
+      "num": 136448,
+      "word": "白鹿程潇下一站春晚同框",
+      "onboard_time": 1738035017,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145112,
       "num": 145112,
       "word": "春节真正需要的高效休息",
       "onboard_time": 1737986299,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144965,
+      "num": 291013,
+      "word": "杨幂工作日记",
+      "onboard_time": 1738032796,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 143968,
@@ -545,6 +593,14 @@
       "onboard_time": 1738034057,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138731,
+      "num": 138731,
+      "word": "日本富士台再爆性丑闻",
+      "onboard_time": 1738035437,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 138406,
@@ -571,12 +627,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 132801,
-      "num": 183465,
-      "word": "杨幂工作日记",
-      "onboard_time": 1738032796,
-      "rank": 43,
-      "category": "作品衍生,时尚"
+      "raw_hot": 132524,
+      "num": 132524,
+      "word": "集五福",
+      "onboard_time": 1738035017,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 132056,
@@ -603,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126870,
+      "num": 126870,
+      "word": "抽奖",
+      "onboard_time": 1738034537,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 126329,
       "num": 126329,
       "word": "多吃5种蔬菜能抗炎",
@@ -627,19 +691,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 122980,
-      "num": 122980,
-      "word": "掌心",
-      "onboard_time": 1738034297,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 121456,
-      "num": 121456,
-      "word": "抽奖",
-      "onboard_time": 1738034537,
-      "rank": 39,
+      "raw_hot": 121328,
+      "num": 121328,
+      "word": "AI天才少女父母觉得女生不适合学计算机",
+      "onboard_time": 1738035257,
+      "rank": 42,
       "category": "互联网"
     },
     {
@@ -651,12 +707,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117192,
+      "num": 117192,
+      "word": "突然发现王鹤棣还当了回群演",
+      "onboard_time": 1738034357,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116590,
       "num": 223986,
       "word": "罗云熙把初心唱给你听",
       "onboard_time": 1738023136,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112800,
+      "num": 112800,
+      "word": "72岁的奶奶鼓起勇气离家过年",
+      "onboard_time": 1738035137,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112387,
@@ -683,20 +755,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 111559,
+      "num": 111559,
+      "word": "王楚钦T中文版",
+      "onboard_time": 1738035257,
+      "rank": 46,
+      "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 110948,
+      "num": 110948,
+      "word": "这种屎黄色的猫最有心机了",
+      "onboard_time": 1738033338,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110928,
       "num": 106897,
       "word": "易烊千玺第八次登台春晚了",
       "onboard_time": 1737980717,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 110823,
-      "num": 110823,
-      "word": "这种屎黄色的猫最有心机了",
-      "onboard_time": 1738033338,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 110367,
@@ -931,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79742,
+      "num": 191597,
+      "word": "胡歌到底有几个身份",
+      "onboard_time": 1738034477,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79406,
       "num": 79406,
       "word": "Meta员工称高管薪资比DeepSeek成本还高",
@@ -1113,14 +1201,6 @@
       "onboard_time": 1738023736,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 61937,
-      "num": 110352,
-      "word": "胡歌到底有几个身份",
-      "onboard_time": 1738034477,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 58331,

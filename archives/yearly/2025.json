@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738034646122,
+  "endTime": 1738035496873,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1803,6 +1803,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1841501,
+      "num": 1841501,
+      "word": "陈哲远 红包",
+      "onboard_time": 1738032856,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1834605,
       "num": 1834605,
       "word": "昀牵孟绕",
@@ -2392,14 +2400,6 @@
       "word": "黄子韬发文回应送车事件",
       "onboard_time": 1736815280,
       "rank": 1,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1597104,
-      "num": 239114,
-      "word": "微博删下",
-      "onboard_time": 1736056169,
-      "rank": 32,
       "category": "艺人"
     }
   ],
