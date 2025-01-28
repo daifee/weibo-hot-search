@@ -1,6 +1,6 @@
 {
   "startTime": 1737995245772,
-  "endTime": 1738032502487,
+  "endTime": 1738033040849,
   "band_list": [
     {
       "raw_hot": 3185801,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 903130,
-      "num": 226234,
+      "num": 244700,
       "word": "丈母娘上厕所被女婿忘在高速上",
       "onboard_time": 1738030397,
       "rank": 11,
@@ -43,20 +43,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 586530,
+      "num": 244037,
+      "word": "昀牵孟绕",
+      "onboard_time": 1738030516,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 560138,
       "num": 754593,
       "word": "新婚一定要回男方家过年吗",
       "onboard_time": 1737999253,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 537439,
-      "num": 224332,
-      "word": "昀牵孟绕",
-      "onboard_time": 1738030516,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 528305,
@@ -67,20 +67,28 @@
       "category": "数码,互联网"
     },
     {
-      "raw_hot": 496026,
-      "num": 548434,
-      "word": "除夕",
-      "onboard_time": 1738029916,
-      "rank": 1,
-      "category": "民生新闻"
+      "raw_hot": 500201,
+      "num": 239284,
+      "word": "特朗普称DeepSeek给美企敲响警钟",
+      "onboard_time": 1738030937,
+      "rank": 13,
+      "category": "互联网"
     },
     {
-      "raw_hot": 489502,
-      "num": 489502,
+      "raw_hot": 496616,
+      "num": 496616,
       "word": "王者荣耀充值",
       "onboard_time": 1738030635,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 496026,
+      "num": 661415,
+      "word": "除夕",
+      "onboard_time": 1738029916,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 483166,
@@ -89,14 +97,6 @@
       "onboard_time": 1738002792,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 462331,
-      "num": 222028,
-      "word": "特朗普称DeepSeek给美企敲响警钟",
-      "onboard_time": 1738030937,
-      "rank": 13,
-      "category": "互联网"
     },
     {
       "raw_hot": 455343,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 450573,
-      "num": 223399,
+      "num": 234164,
       "word": "王俊凯ins晒粉丝应援",
       "onboard_time": 1738027577,
       "rank": 14,
@@ -163,8 +163,8 @@
       "category": "财经,互联网"
     },
     {
-      "raw_hot": 354572,
-      "num": 354572,
+      "raw_hot": 362800,
+      "num": 362800,
       "word": "DeepSeek是啥",
       "onboard_time": 1738028716,
       "rank": 24,
@@ -179,12 +179,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 330406,
+      "num": 426717,
+      "word": "除夕到初三加班不能用事后调休替代",
+      "onboard_time": 1738030697,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 314299,
       "num": 271923,
       "word": "郭冬临小品 好笑",
       "onboard_time": 1737993257,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 309461,
+      "num": 309461,
+      "word": "陈哲远 红包",
+      "onboard_time": 1738032856,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 297392,
@@ -267,6 +283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 231735,
+      "num": 231735,
+      "word": "永远会被生活中的暖心瞬间击中",
+      "onboard_time": 1738032436,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 226501,
       "num": 144652,
       "word": "王菲55岁怎么一点姨感都没有",
@@ -275,12 +299,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 216267,
-      "num": 216267,
-      "word": "除夕到初三加班不能用事后调休替代",
+      "raw_hot": 218817,
+      "num": 229713,
+      "word": "美媒惊问DeepSeek是谁",
       "onboard_time": 1738030697,
-      "rank": 16,
-      "category": "民生新闻"
+      "rank": 9,
+      "category": "数码"
     },
     {
       "raw_hot": 215787,
@@ -307,28 +331,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 201642,
-      "num": 201642,
-      "word": "英伟达市值蒸发超3000亿美元",
-      "onboard_time": 1737985818,
-      "rank": 15,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 200572,
-      "num": 200572,
+      "raw_hot": 212298,
+      "num": 212298,
       "word": "全红婵老家增设无人机反制设备",
       "onboard_time": 1738030156,
       "rank": 21,
       "category": "体育"
     },
     {
-      "raw_hot": 199888,
-      "num": 229713,
-      "word": "美媒惊问DeepSeek是谁",
-      "onboard_time": 1738030697,
-      "rank": 9,
-      "category": "数码"
+      "raw_hot": 201642,
+      "num": 201642,
+      "word": "英伟达市值蒸发超3000亿美元",
+      "onboard_time": 1737985818,
+      "rank": 15,
+      "category": "互联网"
     },
     {
       "raw_hot": 193686,
@@ -347,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185720,
+      "num": 221617,
+      "word": "射雕专属红包封面",
+      "onboard_time": 1738031776,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 178970,
       "num": 164998,
       "word": "新加坡环球影城偶遇丁程鑫",
@@ -355,20 +379,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 164671,
-      "num": 164671,
-      "word": "永远会被生活中的暖心瞬间击中",
-      "onboard_time": 1738032436,
-      "rank": 25,
-      "category": "情感"
+      "raw_hot": 159121,
+      "num": 209830,
+      "word": "穆婷婷说不喜欢周迅了",
+      "onboard_time": 1738032916,
+      "rank": 22,
+      "category": "艺人"
     },
     {
-      "raw_hot": 162423,
-      "num": 214990,
-      "word": "射雕专属红包封面",
-      "onboard_time": 1738031776,
-      "rank": 17,
-      "category": "电影"
+      "raw_hot": 156601,
+      "num": 156601,
+      "word": "如鸢暗号",
+      "onboard_time": 1738032737,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 155326,
@@ -435,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137188,
+      "num": 137188,
+      "word": "DeepSeek称遭到大规模恶意攻击",
+      "onboard_time": 1738032317,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 132056,
       "num": 175575,
       "word": "李子柒舞台展示25项非遗",
@@ -451,14 +483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 129210,
-      "num": 129210,
-      "word": "DeepSeek称遭到大规模恶意攻击",
-      "onboard_time": 1738032317,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 128627,
       "num": 128627,
       "word": "非遗春节好像一个绚烂的万花筒",
@@ -473,6 +497,14 @@
       "onboard_time": 1737987379,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 125179,
+      "num": 209269,
+      "word": "华晨宇想看大家的年夜饭",
+      "onboard_time": 1738028475,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 117261,
@@ -523,12 +555,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108247,
+      "num": 108247,
+      "word": "福字",
+      "onboard_time": 1738032737,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108013,
       "num": 108013,
       "word": "消费者快被虚假快递逼疯了",
       "onboard_time": 1737987979,
       "rank": 29,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 105826,
+      "num": 168004,
+      "word": "生活处处有侠气",
+      "onboard_time": 1738032617,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 104945,
@@ -603,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94619,
+      "num": 219399,
+      "word": "封神片尾曲唱出中国人心中的家园",
+      "onboard_time": 1738032737,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 93982,
       "num": 93982,
       "word": "五福临门这是考公还是考老公",
@@ -651,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88849,
+      "num": 88849,
+      "word": "杨幂工作日记",
+      "onboard_time": 1738032796,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 88033,
       "num": 88033,
       "word": "丁禹兮慕声式拜年",
@@ -665,6 +729,14 @@
       "onboard_time": 1737990017,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86790,
+      "num": 109762,
+      "word": "蛟龙出海唱出热血澎湃的蛟龙气概",
+      "onboard_time": 1738032617,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 85877,
@@ -699,8 +771,16 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 80954,
+      "num": 80954,
+      "word": "00后女生卖创意福字7天赚5千",
+      "onboard_time": 1738032976,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80358,
-      "num": 537772,
+      "num": 557670,
       "word": "海拔最高春晚分会场",
       "onboard_time": 1737989419,
       "rank": 2,
@@ -715,12 +795,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79406,
+      "num": 79406,
+      "word": "Meta员工称高管薪资比DeepSeek成本还高",
+      "onboard_time": 1738032557,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 79127,
       "num": 79127,
       "word": "春节加班费应该怎么算",
       "onboard_time": 1738018692,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79030,
+      "num": 79030,
+      "word": "第五人格",
+      "onboard_time": 1738031237,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 78674,
@@ -745,14 +841,6 @@
       "onboard_time": 1737981138,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 77148,
-      "num": 77148,
-      "word": "第五人格",
-      "onboard_time": 1738031237,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 76897,
@@ -908,7 +996,7 @@
     },
     {
       "raw_hot": 53621,
-      "num": 169024,
+      "num": 208764,
       "word": "巴特勒至少被禁赛五场",
       "onboard_time": 1738026976,
       "rank": 49,

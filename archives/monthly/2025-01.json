@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738032502487,
+  "endTime": 1738033040849,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -6724,7 +6724,7 @@
     },
     {
       "raw_hot": 903130,
-      "num": 226234,
+      "num": 244700,
       "word": "丈母娘上厕所被女婿忘在高速上",
       "onboard_time": 1738030397,
       "rank": 11,
@@ -14811,6 +14811,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 500201,
+      "num": 239284,
+      "word": "特朗普称DeepSeek给美企敲响警钟",
+      "onboard_time": 1738030937,
+      "rank": 13,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 499883,
       "num": 499883,
       "word": "杂志销售额排行榜",
@@ -14939,6 +14947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 496616,
+      "num": 496616,
+      "word": "王者荣耀充值",
+      "onboard_time": 1738030635,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 496150,
       "num": 496150,
       "word": "孙俪女儿是四嬛党",
@@ -14948,7 +14964,7 @@
     },
     {
       "raw_hot": 496026,
-      "num": 548434,
+      "num": 661415,
       "word": "除夕",
       "onboard_time": 1738029916,
       "rank": 1,
@@ -15121,14 +15137,6 @@
       "onboard_time": 1736079328,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 489502,
-      "num": 489502,
-      "word": "王者荣耀充值",
-      "onboard_time": 1738030635,
-      "rank": 4,
-      "category": "游戏"
     },
     {
       "raw_hot": 489488,
@@ -16043,14 +16051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 462331,
-      "num": 222028,
-      "word": "特朗普称DeepSeek给美企敲响警钟",
-      "onboard_time": 1738030937,
-      "rank": 13,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 462135,
       "num": 456053,
       "word": "韩国围棋队主教练发声",
@@ -16604,7 +16604,7 @@
     },
     {
       "raw_hot": 450573,
-      "num": 223399,
+      "num": 234164,
       "word": "王俊凯ins晒粉丝应援",
       "onboard_time": 1738027577,
       "rank": 14,
@@ -20883,6 +20883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 362800,
+      "num": 362800,
+      "word": "DeepSeek是啥",
+      "onboard_time": 1738028716,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 362317,
       "num": 362317,
       "word": "1月1日天安门广场升旗仪式",
@@ -21281,14 +21289,6 @@
       "onboard_time": 1737544398,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 354572,
-      "num": 354572,
-      "word": "DeepSeek是啥",
-      "onboard_time": 1738028716,
-      "rank": 24,
-      "category": "互联网"
     },
     {
       "raw_hot": 354284,
@@ -22713,6 +22713,14 @@
       "onboard_time": 1736521642,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 330406,
+      "num": 426717,
+      "word": "除夕到初三加班不能用事后调休替代",
+      "onboard_time": 1738030697,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 330157,
@@ -24153,6 +24161,14 @@
       "onboard_time": 1737696379,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 309461,
+      "num": 309461,
+      "word": "陈哲远 红包",
+      "onboard_time": 1738032856,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 309152,
@@ -31499,6 +31515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 231735,
+      "num": 231735,
+      "word": "永远会被生活中的暖心瞬间击中",
+      "onboard_time": 1738032436,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 231572,
       "num": 231572,
       "word": "虞书欣mike合照",
@@ -33227,6 +33251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218817,
+      "num": 229713,
+      "word": "美媒惊问DeepSeek是谁",
+      "onboard_time": 1738030697,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
       "raw_hot": 218725,
       "num": 218725,
       "word": "曾黎7米非遗剪纸裙设计者发声",
@@ -33665,14 +33697,6 @@
       "onboard_time": 1737812603,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 216267,
-      "num": 216267,
-      "word": "除夕到初三加班不能用事后调休替代",
-      "onboard_time": 1738030697,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 216261,
@@ -34329,6 +34353,14 @@
       "onboard_time": 1735789462,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 212298,
+      "num": 212298,
+      "word": "全红婵老家增设无人机反制设备",
+      "onboard_time": 1738030156,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 212294,
@@ -36987,14 +37019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200572,
-      "num": 200572,
-      "word": "全红婵老家增设无人机反制设备",
-      "onboard_time": 1738030156,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 200547,
       "num": 200547,
       "word": "甄珍逃出来了吗",
@@ -37201,14 +37225,6 @@
       "onboard_time": 1736741600,
       "rank": 35,
       "category": "财经"
-    },
-    {
-      "raw_hot": 199888,
-      "num": 229713,
-      "word": "美媒惊问DeepSeek是谁",
-      "onboard_time": 1738030697,
-      "rank": 9,
-      "category": "数码"
     },
     {
       "raw_hot": 199872,
@@ -41545,6 +41561,14 @@
       "onboard_time": 1737779417,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185720,
+      "num": 221617,
+      "word": "射雕专属红包封面",
+      "onboard_time": 1738031776,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 185671,
@@ -47563,14 +47587,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 164671,
-      "num": 164671,
-      "word": "永远会被生活中的暖心瞬间击中",
-      "onboard_time": 1738032436,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 164624,
       "num": 172204,
       "word": "周鸿祎官宣请吃10年帝王蟹",
@@ -48153,14 +48169,6 @@
       "onboard_time": 1736570301,
       "rank": 18,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 162423,
-      "num": 214990,
-      "word": "射雕专属红包封面",
-      "onboard_time": 1738031776,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 162385,
@@ -49179,6 +49187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 159121,
+      "num": 209830,
+      "word": "穆婷婷说不喜欢周迅了",
+      "onboard_time": 1738032916,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159069,
       "num": 159069,
       "word": "贺峻霖接到一路繁花通告也很懵",
@@ -50121,6 +50137,14 @@
       "onboard_time": 1737379818,
       "rank": 31,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 156601,
+      "num": 156601,
+      "word": "如鸢暗号",
+      "onboard_time": 1738032737,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 156583,
@@ -56467,6 +56491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137188,
+      "num": 137188,
+      "word": "DeepSeek称遭到大规模恶意攻击",
+      "onboard_time": 1738032317,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 137173,
       "num": 199420,
       "word": "成毅被风吹得东倒西歪",
@@ -59403,14 +59435,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 129210,
-      "num": 129210,
-      "word": "DeepSeek称遭到大规模恶意攻击",
-      "onboard_time": 1738032317,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 129172,
       "num": 129172,
       "word": "Flandre长文感谢粉丝",
@@ -60889,6 +60913,14 @@
       "onboard_time": 1737951557,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125179,
+      "num": 209269,
+      "word": "华晨宇想看大家的年夜饭",
+      "onboard_time": 1738028475,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 125111,
@@ -67643,6 +67675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105826,
+      "num": 168004,
+      "word": "生活处处有侠气",
+      "onboard_time": 1738032617,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 105810,
       "num": 225972,
       "word": "费翔说票房越大我们胆子越大",
@@ -70779,6 +70819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94619,
+      "num": 219399,
+      "word": "封神片尾曲唱出中国人心中的家园",
+      "onboard_time": 1738032737,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 94616,
       "num": 184121,
       "word": "国羽全队送上新春祝福",
@@ -71811,6 +71859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88849,
+      "num": 88849,
+      "word": "杨幂工作日记",
+      "onboard_time": 1738032796,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 88801,
       "num": 180047,
       "word": "尹锡悦说在看守所一切安好",
@@ -72177,6 +72233,14 @@
       "onboard_time": 1737078377,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86790,
+      "num": 109762,
+      "word": "蛟龙出海唱出热血澎湃的蛟龙气概",
+      "onboard_time": 1738032617,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 86777,
@@ -73419,6 +73483,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 80954,
+      "num": 80954,
+      "word": "00后女生卖创意福字7天赚5千",
+      "onboard_time": 1738032976,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80939,
       "num": 169173,
       "word": "无所畏惧2今日开播",
@@ -73625,6 +73697,14 @@
       "onboard_time": 1737236771,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 79406,
+      "num": 79406,
+      "word": "Meta员工称高管薪资比DeepSeek成本还高",
+      "onboard_time": 1738032557,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 79398,
@@ -77932,7 +78012,7 @@
     },
     {
       "raw_hot": 53621,
-      "num": 169024,
+      "num": 208764,
       "word": "巴特勒至少被禁赛五场",
       "onboard_time": 1738026976,
       "rank": 49,
