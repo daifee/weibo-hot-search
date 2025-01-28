@@ -1,6 +1,6 @@
 {
   "startTime": 1737995245772,
-  "endTime": 1738035496873,
+  "endTime": 1738038414263,
   "band_list": [
     {
       "raw_hot": 3185801,
@@ -19,6 +19,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 939235,
+      "num": 939235,
+      "word": "全国洗头日",
+      "onboard_time": 1738035917,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 921691,
       "num": 1147470,
       "word": "前DeepSeek天才少女从农村走向TOP开发者",
@@ -35,12 +43,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 835877,
+      "num": 1305455,
+      "word": "韩国棋院就LG杯事件发公告致歉",
+      "onboard_time": 1738033877,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 702376,
       "num": 907449,
       "word": "女生花一个月工资给继父庆生",
       "onboard_time": 1737988458,
       "rank": 0,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 639453,
+      "num": 639453,
+      "word": "集五福",
+      "onboard_time": 1738035017,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 601540,
@@ -73,14 +97,6 @@
       "onboard_time": 1737999253,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 554017,
-      "num": 405040,
-      "word": "韩国棋院就LG杯事件发公告致歉",
-      "onboard_time": 1738033877,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 528305,
@@ -139,6 +155,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 454888,
+      "num": 454888,
+      "word": "楼晚",
+      "onboard_time": 1738034657,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 453392,
       "num": 520111,
       "word": "蛇年怕蛇怎么办",
@@ -171,20 +195,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 425600,
+      "num": 425600,
+      "word": "王一博祝大家自在且松弛",
+      "onboard_time": 1738033097,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 410021,
       "num": 410021,
       "word": "赵露思包场支持射雕英雄传",
       "onboard_time": 1737987620,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 398206,
-      "num": 405777,
-      "word": "王一博祝大家自在且松弛",
-      "onboard_time": 1738033097,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 394434,
@@ -227,19 +251,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 323556,
+      "num": 290180,
+      "word": "留几手回应麦琳是否签约无忧传媒",
+      "onboard_time": 1738033396,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 314299,
       "num": 271923,
       "word": "郭冬临小品 好笑",
       "onboard_time": 1737993257,
       "rank": 11,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 311195,
-      "num": 311195,
-      "word": "楼晚",
-      "onboard_time": 1738034657,
-      "rank": 16,
       "category": "综艺"
     },
     {
@@ -257,14 +281,6 @@
       "onboard_time": 1737988700,
       "rank": 8,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 290180,
-      "num": 290180,
-      "word": "留几手回应麦琳是否签约无忧传媒",
-      "onboard_time": 1738033396,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 288031,
@@ -307,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 254835,
+      "num": 254835,
+      "word": "周深人民日报撰文",
+      "onboard_time": 1738037777,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249523,
       "num": 249523,
       "word": "赵露思包场支持肖战新片",
@@ -321,6 +345,14 @@
       "onboard_time": 1738021274,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 237549,
+      "num": 256717,
+      "word": "王楚钦T中文版",
+      "onboard_time": 1738035257,
+      "rank": 46,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 237511,
@@ -347,12 +379,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 229234,
+      "num": 229234,
+      "word": "抖音副总裁回应雷军余承东直播被封",
+      "onboard_time": 1738037597,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 226501,
       "num": 144652,
       "word": "王菲55岁怎么一点姨感都没有",
       "onboard_time": 1737968597,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223463,
+      "num": 406001,
+      "word": "美股开盘英伟达股价大跌",
+      "onboard_time": 1738034357,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 220308,
@@ -369,6 +417,14 @@
       "onboard_time": 1738021455,
       "rank": 13,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 215512,
+      "num": 215512,
+      "word": "KPOP爱豆著作权协会登记曲数最新排名",
+      "onboard_time": 1738033997,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 214736,
@@ -395,20 +451,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 208239,
-      "num": 406001,
-      "word": "美股开盘英伟达股价大跌",
-      "onboard_time": 1738034357,
-      "rank": 18,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 204783,
-      "num": 204783,
-      "word": "KPOP爱豆著作权协会登记曲数最新排名",
-      "onboard_time": 1738033997,
-      "rank": 31,
-      "category": "作品衍生"
+      "raw_hot": 204597,
+      "num": 204597,
+      "word": "白鹿白月梵星剧照",
+      "onboard_time": 1738035378,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 201642,
@@ -417,6 +465,14 @@
       "onboard_time": 1737985818,
       "rank": 15,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 195423,
+      "num": 235871,
+      "word": "韩国棋院称将尽快制定统一规则",
+      "onboard_time": 1738037297,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 194888,
@@ -451,12 +507,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190068,
+      "num": 190068,
+      "word": "度华年拜年视频",
+      "onboard_time": 1738035497,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188326,
       "num": 188326,
       "word": "如鸢",
       "onboard_time": 1738034416,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 186788,
+      "num": 186788,
+      "word": "DeepSeek预测周鸿祎可能会送SU7",
+      "onboard_time": 1738035736,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 186114,
@@ -491,12 +563,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172970,
+      "num": 172970,
+      "word": "陈都灵 偶遇一条萌萌蛇",
+      "onboard_time": 1738037958,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 160717,
+      "num": 160717,
+      "word": "日本富士台再爆性丑闻",
+      "onboard_time": 1738035437,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 160391,
       "num": 160391,
       "word": "李昀锐拜年",
       "onboard_time": 1738035017,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157112,
+      "num": 157112,
+      "word": "AI天才少女父母觉得女生不适合学计算机",
+      "onboard_time": 1738035257,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 156601,
@@ -513,14 +609,6 @@
       "onboard_time": 1738028716,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 154971,
-      "num": 154971,
-      "word": "白鹿白月梵星剧照",
-      "onboard_time": 1738035378,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 153533,
@@ -556,7 +644,7 @@
     },
     {
       "raw_hot": 145154,
-      "num": 136448,
+      "num": 143433,
       "word": "白鹿程潇下一站春晚同框",
       "onboard_time": 1738035017,
       "rank": 38,
@@ -595,12 +683,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 138731,
-      "num": 138731,
-      "word": "日本富士台再爆性丑闻",
-      "onboard_time": 1738035437,
-      "rank": 37,
-      "category": "海外新闻"
+      "raw_hot": 140826,
+      "num": 140826,
+      "word": "72岁的奶奶鼓起勇气离家过年",
+      "onboard_time": 1738035137,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138406,
@@ -619,19 +707,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137369,
+      "num": 137369,
+      "word": "蔡徐坤蛇年新春祝福私信",
+      "onboard_time": 1738036217,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137188,
       "num": 137188,
       "word": "DeepSeek称遭到大规模恶意攻击",
       "onboard_time": 1738032317,
       "rank": 30,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 132524,
-      "num": 132524,
-      "word": "集五福",
-      "onboard_time": 1738035017,
-      "rank": 39,
       "category": "互联网"
     },
     {
@@ -649,6 +737,14 @@
       "onboard_time": 1737985998,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128813,
+      "num": 128813,
+      "word": "李宇春第一次上春晚已是十年前",
+      "onboard_time": 1738036996,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 128627,
@@ -691,12 +787,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 121328,
-      "num": 121328,
-      "word": "AI天才少女父母觉得女生不适合学计算机",
-      "onboard_time": 1738035257,
-      "rank": 42,
-      "category": "互联网"
+      "raw_hot": 121340,
+      "num": 121340,
+      "word": "十个勤天下一站春晚",
+      "onboard_time": 1738038317,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 118928,
+      "num": 118928,
+      "word": "王楚钦孙颖莎继续领跑男女单世一",
+      "onboard_time": 1738038077,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 117261,
@@ -723,12 +827,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 112800,
-      "num": 112800,
-      "word": "72岁的奶奶鼓起勇气离家过年",
-      "onboard_time": 1738035137,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 115611,
+      "num": 115611,
+      "word": "没想到杭帮菜才是年夜饭的王炸",
+      "onboard_time": 1738037297,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 114539,
+      "num": 114539,
+      "word": "哪吒敖丙首发新年单曲",
+      "onboard_time": 1738038377,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 112387,
@@ -753,14 +865,6 @@
       "onboard_time": 1738033817,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 111559,
-      "num": 111559,
-      "word": "王楚钦T中文版",
-      "onboard_time": 1738035257,
-      "rank": 46,
-      "category": "体育,时尚"
     },
     {
       "raw_hot": 110948,
@@ -996,7 +1100,7 @@
     },
     {
       "raw_hot": 80358,
-      "num": 762106,
+      "num": 974030,
       "word": "海拔最高春晚分会场",
       "onboard_time": 1737989419,
       "rank": 2,
@@ -1012,7 +1116,7 @@
     },
     {
       "raw_hot": 79742,
-      "num": 191597,
+      "num": 276449,
       "word": "胡歌到底有几个身份",
       "onboard_time": 1738034477,
       "rank": 44,
@@ -1227,6 +1331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35051,
+      "num": 347160,
+      "word": "今年值班还是我",
+      "onboard_time": 1738037477,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28636,
       "num": 28636,
       "word": "蛇年春晚满满惊喜等你发现",
@@ -1265,6 +1377,14 @@
       "onboard_time": 1738018632,
       "rank": 48,
       "category": "互联网,数码"
+    },
+    {
+      "raw_hot": 23830,
+      "num": 396862,
+      "word": "电子榨菜里藏着好多新年祝福",
+      "onboard_time": 1738037297,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 23567,

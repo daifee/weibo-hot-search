@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/28 11:38:16
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/28 12:26:54
 </p>
 </blockquote>
 <p>
@@ -4767,6 +4767,12 @@ Angelababy王安宇新剧将上线（热度：953205）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E6%B4%97%E5%A4%B4%E6%97%A5%23" target="weibo">
+全国洗头日（热度：939235）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%94%E5%8F%94%E8%AE%A9%E4%BE%84%E5%AD%90%E5%81%9A%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A%E6%89%8D%E8%83%BD%E7%BB%A7%E6%89%BF%E9%81%97%E4%BA%A7%23" target="weibo">
 叔叔让侄子做亲子鉴定才能继承遗产（热度：938647）
 </a>
@@ -5673,6 +5679,12 @@ Doinb说跪下（热度：854922）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%A3%8B%E9%99%A2%E5%B0%B1LG%E6%9D%AF%E4%BA%8B%E4%BB%B6%E5%8F%91%E5%85%AC%E5%91%8A%E8%87%B4%E6%AD%89%23" target="weibo">
+韩国棋院就LG杯事件发公告致歉（热度：835877）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%A4%A7%E5%AD%A6%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%8548%E4%BA%BA%E8%A2%AB%E5%A4%84%E7%90%86%23" target="weibo">
 河南大学火灾事故48人被处理（热度：835620）
 </a>
@@ -5999,18 +6011,6 @@ B站拿下春晚转播权（热度：825759）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%99%93%E5%BA%86%E8%BF%9F%E5%88%B0%E4%B8%A4%E5%B0%8F%E6%97%B6%E5%85%A8%E5%91%98%E7%AD%89%E5%BE%85%23" target="weibo">
 刘晓庆迟到两小时全员等待（热度：807806）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E4%B9%8B%E5%AD%902%E4%B8%87%E7%BE%8E%E5%85%83%E6%9C%88%E7%A7%9F%E8%B1%AA%E5%AE%85%E7%83%A7%E6%88%90%E7%A2%8E%E7%9F%B3%23" target="weibo">
-拜登之子2万美元月租豪宅烧成碎石（热度：807157）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%95%99%E5%87%A0%E6%89%8B%E4%B8%8D%E6%83%B3%E7%9C%8B%E8%91%9B%E5%A4%95%E7%9A%84%E6%97%A5%E8%AE%B0%23" target="weibo">
-留几手不想看葛夕的日记（热度：807097）
 </a>
 </li>
 
