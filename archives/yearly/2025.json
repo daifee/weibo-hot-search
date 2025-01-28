@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738045831025,
+  "endTime": 1738046606911,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1259,6 +1259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2109349,
+      "num": 2109349,
+      "word": "红包",
+      "onboard_time": 1738041197,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2106610,
       "num": 400917,
       "word": "王星目前还不能离开泰国",
@@ -1848,14 +1856,6 @@
       "word": "上2休1再上2好潮",
       "onboard_time": 1735777638,
       "rank": 0,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1818158,
-      "num": 1818158,
-      "word": "红包",
-      "onboard_time": 1738041197,
-      "rank": 1,
       "category": "民生新闻"
     },
     {

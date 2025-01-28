@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738045831025,
+  "endTime": 1738046606911,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -51,6 +51,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 2109349,
+      "num": 2109349,
+      "word": "红包",
+      "onboard_time": 1738041197,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2056912,
       "num": 378230,
       "word": "赵露思康复过程公开",
@@ -89,14 +97,6 @@
       "onboard_time": 1738032856,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1818158,
-      "num": 1818158,
-      "word": "红包",
-      "onboard_time": 1738041197,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1772288,
@@ -243,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1054349,
+      "num": 1054349,
+      "word": "敖瑞鹏预告红包",
+      "onboard_time": 1738039278,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1051267,
       "num": 1051267,
       "word": "冯巩 我想死你们了",
@@ -288,14 +296,6 @@
       "word": "张大大小黑屋事件",
       "onboard_time": 1737875778,
       "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1006679,
-      "num": 989581,
-      "word": "敖瑞鹏预告红包",
-      "onboard_time": 1738039278,
-      "rank": 4,
       "category": "艺人"
     },
     {
@@ -507,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 775522,
+      "num": 775522,
+      "word": "未过门的女婿比驴还能干",
+      "onboard_time": 1738044257,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 761138,
       "num": 256792,
       "word": "谢娜曾批张大大迷之自信",
@@ -715,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 621657,
+      "num": 621657,
+      "word": "春晚等着你",
+      "onboard_time": 1738041316,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 618894,
       "num": 618894,
       "word": "为什么连续五年没有大年三十",
@@ -784,14 +800,6 @@
       "word": "除夕到初三加班不能用事后调休替代",
       "onboard_time": 1738030697,
       "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 570670,
-      "num": 570670,
-      "word": "未过门的女婿比驴还能干",
-      "onboard_time": 1738044257,
-      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -945,14 +953,6 @@
       "onboard_time": 1737971297,
       "rank": 6,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 520664,
-      "num": 520664,
-      "word": "春晚等着你",
-      "onboard_time": 1738041316,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 515745,
@@ -1355,6 +1355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 416657,
+      "num": 416657,
+      "word": "巳巳如意生生不息",
+      "onboard_time": 1738042636,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 416082,
       "num": 257400,
       "word": "杨鸣好帅",
@@ -1459,6 +1467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 391167,
+      "num": 391167,
+      "word": "DeepSeek让美国有些人诧异了",
+      "onboard_time": 1738041017,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 389719,
       "num": 389719,
       "word": "暴雪高速封禁新娘乘高铁去婚礼现场",
@@ -1513,14 +1529,6 @@
       "onboard_time": 1737984197,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 382866,
-      "num": 382866,
-      "word": "DeepSeek让美国有些人诧异了",
-      "onboard_time": 1738041017,
-      "rank": 37,
-      "category": "互联网"
     },
     {
       "raw_hot": 382511,
@@ -1843,6 +1851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 303673,
+      "num": 303673,
+      "word": "美媒惊问DeepSeek是谁",
+      "onboard_time": 1738030697,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
       "raw_hot": 303315,
       "num": 303315,
       "word": "周杰伦ins晒与权志龙合照",
@@ -1971,6 +1987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 286824,
+      "num": 259930,
+      "word": "杨紫李现锦绣芳华剧照",
+      "onboard_time": 1738045037,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 286445,
       "num": 286445,
       "word": "柯洁回应决赛事件",
@@ -1985,6 +2009,14 @@
       "onboard_time": 1737823156,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 284299,
+      "num": 246928,
+      "word": "李子柒将首登总台春晚",
+      "onboard_time": 1738045277,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 284216,
@@ -2075,14 +2107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 270423,
-      "num": 270423,
-      "word": "美媒惊问DeepSeek是谁",
-      "onboard_time": 1738030697,
-      "rank": 9,
-      "category": "数码"
-    },
-    {
       "raw_hot": 270284,
       "num": 270284,
       "word": "肖战说侠要有为国为民的心",
@@ -2131,14 +2155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 263737,
-      "num": 263737,
-      "word": "巳巳如意生生不息",
-      "onboard_time": 1738042636,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 263118,
       "num": 234477,
       "word": "和鹿晗过大年",
@@ -2179,15 +2195,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 259930,
-      "num": 259930,
-      "word": "杨紫李现锦绣芳华剧照",
-      "onboard_time": 1738045037,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 259358,
+      "raw_hot": 259595,
       "num": 263753,
       "word": "周深2024年度结算画面",
       "onboard_time": 1738043897,
@@ -2321,6 +2329,14 @@
       "onboard_time": 1737944536,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 243355,
+      "num": 243355,
+      "word": "刘亦菲除夕大片",
+      "onboard_time": 1738043897,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 243092,
@@ -2483,6 +2499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 227488,
+      "num": 211082,
+      "word": "尤长靖说NINEPERCENT还有联系",
+      "onboard_time": 1738043596,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226006,
       "num": 310640,
       "word": "DeepSeek核心成员是应届生",
@@ -2603,6 +2627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218042,
+      "num": 218042,
+      "word": "孟子义除夕快乐呀",
+      "onboard_time": 1738045696,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217969,
       "num": 217969,
       "word": "肖战在春晚后台套圈",
@@ -2651,14 +2683,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 214989,
-      "num": 214989,
-      "word": "刘亦菲除夕大片",
-      "onboard_time": 1738043897,
-      "rank": 23,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 214736,
       "num": 214736,
       "word": "代号鸢暗号",
@@ -2691,20 +2715,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 211082,
-      "num": 211082,
-      "word": "尤长靖说NINEPERCENT还有联系",
-      "onboard_time": 1738043596,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 209948,
       "num": 198210,
       "word": "赵露思拐杖",
       "onboard_time": 1737806960,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209813,
+      "num": 259400,
+      "word": "DeepSeek最想问人类什么问题",
+      "onboard_time": 1738046358,
+      "rank": 19,
+      "category": "科学科普,互联网"
     },
     {
       "raw_hot": 209717,
@@ -2953,6 +2977,14 @@
       "onboard_time": 1737951077,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196784,
+      "num": 196784,
+      "word": "桐心薇泯十指紧扣",
+      "onboard_time": 1738045577,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 196691,
@@ -3227,14 +3259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 186097,
-      "num": 186097,
-      "word": "桐心薇泯十指紧扣",
-      "onboard_time": 1738045577,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 185720,
       "num": 221617,
       "word": "射雕专属红包封面",
@@ -3249,6 +3273,14 @@
       "onboard_time": 1737986057,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 184328,
+      "num": 208802,
+      "word": "花70多万救下了700百多只猫",
+      "onboard_time": 1738042756,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 184026,
@@ -3307,6 +3339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181526,
+      "num": 181526,
+      "word": "沙溢胡可两个儿子近照",
+      "onboard_time": 1738046117,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181323,
       "num": 181323,
       "word": "朱志鑫 青岛",
@@ -3321,14 +3361,6 @@
       "onboard_time": 1737962536,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 180657,
-      "num": 180657,
-      "word": "李子柒将首登总台春晚",
-      "onboard_time": 1738045277,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 180238,
@@ -3651,6 +3683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165181,
+      "num": 506616,
+      "word": "今天就是除夕了",
+      "onboard_time": 1738044677,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164624,
       "num": 172204,
       "word": "周鸿祎官宣请吃10年帝王蟹",
@@ -3665,14 +3705,6 @@
       "onboard_time": 1737974056,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 164417,
-      "num": 164417,
-      "word": "花70多万救下了700百多只猫",
-      "onboard_time": 1738042756,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 164156,
@@ -4019,6 +4051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151588,
+      "num": 155450,
+      "word": "春节摄影大赛",
+      "onboard_time": 1738045337,
+      "rank": 39,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 151264,
       "num": 153674,
       "word": "柯洁在网友评论区问我和战鹰熟吗",
@@ -4057,14 +4097,6 @@
       "onboard_time": 1738040418,
       "rank": 36,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 149865,
-      "num": 155450,
-      "word": "春节摄影大赛",
-      "onboard_time": 1738045337,
-      "rank": 39,
-      "category": "正能量"
     },
     {
       "raw_hot": 149825,
@@ -4569,14 +4601,6 @@
       "onboard_time": 1737804561,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 135988,
-      "num": 182228,
-      "word": "孟子义除夕快乐呀",
-      "onboard_time": 1738045696,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 135914,
@@ -5315,6 +5339,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 115417,
+      "num": 147256,
+      "word": "一声小鬼也老了是跨越70多年的战友情",
+      "onboard_time": 1738046057,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115224,
       "num": 115224,
       "word": "巳巳如意中国年",
@@ -5393,6 +5425,14 @@
       "onboard_time": 1737862878,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 113394,
+      "num": 416784,
+      "word": "今夜让世界看到重庆",
+      "onboard_time": 1738046177,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 112995,
@@ -7371,14 +7411,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 54611,
-      "num": 506616,
-      "word": "今天就是除夕了",
-      "onboard_time": 1738044677,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 53621,
       "num": 208764,
       "word": "巴特勒至少被禁赛五场",
@@ -7595,6 +7627,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 41459,
+      "num": 871949,
+      "word": "祝你蛇转乾坤巳巳如意",
+      "onboard_time": 1738044377,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40576,
       "num": 133978,
       "word": "封神感谢荣誉出品人特别视频",
@@ -7747,6 +7787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 33898,
+      "num": 1114416,
+      "word": "中国年惊艳世界",
+      "onboard_time": 1738045758,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33741,
       "num": 35158,
       "word": "晕车晕机试试这组动作",
@@ -7865,14 +7913,6 @@
       "onboard_time": 1737829273,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 27079,
-      "num": 614779,
-      "word": "祝你蛇转乾坤巳巳如意",
-      "onboard_time": 1738044377,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26957,
@@ -8107,14 +8147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 21178,
-      "num": 1092657,
-      "word": "中国年惊艳世界",
-      "onboard_time": 1738045758,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20668,
       "num": 179749,
       "word": "一起离婚财产纠纷牵出法官受贿",
@@ -8185,6 +8217,14 @@
       "onboard_time": 1737834551,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 18768,
+      "num": 204274,
+      "word": "我们为什么爱这个哪吒",
+      "onboard_time": 1738045637,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 18337,
@@ -8395,14 +8435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 8072,
-      "num": 187569,
-      "word": "我们为什么爱这个哪吒",
-      "onboard_time": 1738045637,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 6933,
       "num": 57771,
       "word": "2025河南春晚节目单公布",
@@ -8455,6 +8487,9 @@
     },
     {
       "word": "#祝大家阖家幸福蛇年吉祥#"
+    },
+    {
+      "word": "#让大家笑容更多心里更暖#"
     }
   ]
 }
