@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738092944443,
+  "endTime": 1738095812819,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -78099,6 +78099,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 67584,
+      "num": 67584,
+      "word": "春晚首个显眼包出现了",
+      "onboard_time": 1738092014,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 67566,
       "num": 67566,
       "word": "孙颖莎想专注于当下",
@@ -81715,14 +81723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 48425,
-      "num": 48425,
-      "word": "春晚首个显眼包出现了",
-      "onboard_time": 1738092014,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 48338,
       "num": 225075,
       "word": "高芙爆冷出局",
@@ -84475,6 +84475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34804,
+      "num": 34804,
+      "word": "分会场好震撼",
+      "onboard_time": 1738095372,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 34802,
       "num": 225932,
       "word": "蛟龙行动预售票房破4000万",
@@ -84825,6 +84833,14 @@
       "onboard_time": 1736418680,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 33641,
+      "num": 33641,
+      "word": "住在心里的人",
+      "onboard_time": 1738094771,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 33477,
@@ -85417,6 +85433,14 @@
       "onboard_time": 1737223873,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 31070,
+      "num": 31070,
+      "word": "王源忘拍年夜饭",
+      "onboard_time": 1738095252,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 31036,
@@ -86177,6 +86201,14 @@
       "onboard_time": 1738017372,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 28629,
+      "num": 28629,
+      "word": "放鞭炮",
+      "onboard_time": 1738095131,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28618,
@@ -90921,6 +90953,14 @@
       "onboard_time": 1736177423,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 9488,
+      "num": 89766,
+      "word": "春节是中国节也是世界节",
+      "onboard_time": 1738094832,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9467,

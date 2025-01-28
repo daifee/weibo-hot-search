@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/26 00:26:10 ~ 2025/01/29 03:35:44
+本榜单时间：2025/01/26 00:26:10 ~ 2025/01/29 04:23:32
 </p>
 </blockquote>
 <p>
@@ -6771,6 +6771,12 @@ DeepSeek暂不对外进行项目合作（热度：74449）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E9%A6%96%E4%B8%AA%E6%98%BE%E7%9C%BC%E5%8C%85%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
+春晚首个显眼包出现了（热度：67584）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E6%83%B3%E4%B8%93%E6%B3%A8%E4%BA%8E%E5%BD%93%E4%B8%8B%23" target="weibo">
 孙颖莎想专注于当下（热度：67566）
 </a>
@@ -7137,12 +7143,6 @@ DeepSeek热度突然飙升（热度：59018）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E9%A6%96%E4%B8%AA%E6%98%BE%E7%9C%BC%E5%8C%85%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
-春晚首个显眼包出现了（热度：48425）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B9%B4%E6%9C%80%E5%BC%BA%E5%AF%92%E6%BD%AE%E6%9D%A5%E4%BA%86%23" target="weibo">
 开年最强寒潮来了（热度：47903）
 </a>
@@ -7359,6 +7359,12 @@ IVE末放舞台（热度：37513）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%86%E4%BC%9A%E5%9C%BA%E5%A5%BD%E9%9C%87%E6%92%BC%23" target="weibo">
+分会场好震撼（热度：34804）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%9B%9F%E9%BE%99%E8%A1%8C%E5%8A%A8%E9%A2%84%E5%94%AE%E7%A5%A8%E6%88%BF%E7%A0%B44000%E4%B8%87%23" target="weibo">
 蛟龙行动预售票房破4000万（热度：34802）
 </a>
@@ -7373,6 +7379,18 @@ IVE末放舞台（热度：37513）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E6%BC%94%E5%91%98%E4%B8%8A%E7%8F%AD%E5%BA%A7%E9%A9%BE%E8%B7%AF%E9%80%8F%23" target="weibo">
 春晚演员上班座驾路透（热度：33678）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%8F%E5%9C%A8%E5%BF%83%E9%87%8C%E7%9A%84%E4%BA%BA%23" target="weibo">
+住在心里的人（热度：33641）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%B4%E9%98%B3%E5%B8%88%23" target="weibo">
+阴阳师（热度：32944）
 </a>
 </li>
 
@@ -7409,6 +7427,12 @@ IVE末放舞台（热度：37513）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%A4%96%E8%BF%87%E6%98%A5%E8%8A%82%E6%BB%A1%E6%BB%A1%E4%BB%AA%E5%BC%8F%E6%84%9F%23" target="weibo">
 老外过春节满满仪式感（热度：31231）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E5%BF%98%E6%8B%8D%E5%B9%B4%E5%A4%9C%E9%A5%AD%23" target="weibo">
+王源忘拍年夜饭（热度：31070）
 </a>
 </li>
 
@@ -7451,6 +7475,12 @@ IVE末放舞台（热度：37513）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%9B%87%E5%B9%B4%E6%98%A5%E6%99%9A%E6%BB%A1%E6%BB%A1%E6%83%8A%E5%96%9C%E7%AD%89%E4%BD%A0%E5%8F%91%E7%8E%B0%23" target="weibo">
 蛇年春晚满满惊喜等你发现（热度：28636）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%94%BE%E9%9E%AD%E7%82%AE%23" target="weibo">
+放鞭炮（热度：28629）
 </a>
 </li>
 
@@ -7871,6 +7901,12 @@ DeepSeek概念集体大涨（热度：14650）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%81%AF%E4%BC%9A%E6%98%AF%E5%B9%B4%E5%91%B3%E6%B0%9B%E5%9B%B4%E7%BB%84%E7%BB%84%E9%95%BF%E5%90%A7%23" target="weibo">
 灯会是年味氛围组组长吧（热度：9537）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%82%E6%98%AF%E4%B8%AD%E5%9B%BD%E8%8A%82%E4%B9%9F%E6%98%AF%E4%B8%96%E7%95%8C%E8%8A%82%23" target="weibo">
+春节是中国节也是世界节（热度：9488）
 </a>
 </li>
 

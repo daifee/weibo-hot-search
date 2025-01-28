@@ -1,6 +1,6 @@
 {
   "startTime": 1738081671448,
-  "endTime": 1738092944443,
+  "endTime": 1738095812819,
   "band_list": [
     {
       "raw_hot": 10062879,
@@ -571,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 67584,
+      "num": 67584,
+      "word": "春晚首个显眼包出现了",
+      "onboard_time": 1738092014,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 67363,
       "num": 152058,
       "word": "是谁敢动腾哥的八盒香菜面",
@@ -627,14 +635,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 48425,
-      "num": 48425,
-      "word": "春晚首个显眼包出现了",
-      "onboard_time": 1738092014,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 40624,
       "num": 40624,
       "word": "杨紫带着piu仔给大家拜年啦",
@@ -659,6 +659,46 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 34804,
+      "num": 34804,
+      "word": "分会场好震撼",
+      "onboard_time": 1738095372,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 33641,
+      "num": 33641,
+      "word": "住在心里的人",
+      "onboard_time": 1738094771,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 32944,
+      "num": 32944,
+      "word": "阴阳师",
+      "onboard_time": 1738094051,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 31070,
+      "num": 31070,
+      "word": "王源忘拍年夜饭",
+      "onboard_time": 1738095252,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 28629,
+      "num": 28629,
+      "word": "放鞭炮",
+      "onboard_time": 1738095131,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27829,
       "num": 136598,
       "word": "给住在心里的人一个拥抱吧",
@@ -681,6 +721,14 @@
       "onboard_time": 1738092432,
       "rank": 9,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 9488,
+      "num": 89766,
+      "word": "春节是中国节也是世界节",
+      "onboard_time": 1738094832,
+      "rank": 9,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
