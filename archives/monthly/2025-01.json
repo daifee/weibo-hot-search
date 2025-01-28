@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738069019859,
+  "endTime": 1738070795853,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -81,6 +81,14 @@
       "onboard_time": 1736148990,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 12275995,
+      "num": 12275995,
+      "word": "建议岳云鹏别上春晚",
+      "onboard_time": 1738069185,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 12270044,
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 5278509,
-      "num": 3142398,
+      "num": 3677090,
       "word": "赵雅芝叶童太配了",
       "onboard_time": 1738067987,
       "rank": 7,
@@ -369,6 +377,14 @@
       "onboard_time": 1736231182,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 4441461,
+      "num": 4441461,
+      "word": "撒贝宁 机器人缺两条眉毛",
+      "onboard_time": 1738069063,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 4271465,
@@ -979,6 +995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2482895,
+      "num": 2482895,
+      "word": "沈腾马丽 你们怎么在唱歌",
+      "onboard_time": 1738070443,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2479162,
       "num": 2479162,
       "word": "宝格丽晚宴",
@@ -1177,6 +1201,14 @@
       "onboard_time": 1736914699,
       "rank": 16,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 2282142,
+      "num": 2282142,
+      "word": "闫妮殷桃宋佳蒋欣 我的妈妈们",
+      "onboard_time": 1738070017,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 2277571,
@@ -1673,6 +1705,14 @@
       "onboard_time": 1737861438,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1943566,
+      "num": 1554992,
+      "word": "机器人扭秧歌",
+      "onboard_time": 1738069428,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 1939080,
@@ -2555,6 +2595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1596154,
+      "num": 1596154,
+      "word": "春晚 用心",
+      "onboard_time": 1738069837,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1592347,
       "num": 1592347,
       "word": "曝英伟达一半员工净资产破亿",
@@ -2979,6 +3027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1478128,
+      "num": 1478128,
+      "word": "闫妮蒋欣宋佳殷桃 妈妈四次方",
+      "onboard_time": 1738069723,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1475823,
       "num": 1475823,
       "word": "王一博方辟谣",
@@ -3001,6 +3057,14 @@
       "onboard_time": 1735665801,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1471329,
+      "num": 1471329,
+      "word": "时代少年团亮相春晚重庆分会场",
+      "onboard_time": 1738061426,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 1471307,
@@ -3192,6 +3256,14 @@
       "word": "金希澈残疾等级",
       "onboard_time": 1736841318,
       "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1432517,
+      "num": 1432517,
+      "word": "孟子义红包",
+      "onboard_time": 1738069004,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -4003,14 +4075,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1255979,
-      "num": 1255979,
-      "word": "时代少年团亮相春晚重庆分会场",
-      "onboard_time": 1738061426,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1255753,
       "num": 545457,
       "word": "24岁小伙吃外卖后睡觉突然去世",
@@ -4161,6 +4225,14 @@
       "onboard_time": 1736609546,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1227093,
+      "num": 1227093,
+      "word": "时代少年团镜头",
+      "onboard_time": 1738069428,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 1224866,
@@ -4393,6 +4465,14 @@
       "onboard_time": 1736403380,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1187189,
+      "num": 1187189,
+      "word": "机器人怎么不穿裤子",
+      "onboard_time": 1738069485,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 1183197,
@@ -4691,6 +4771,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1137084,
+      "num": 1137084,
+      "word": "赵雅芝叶童 国宴开席",
+      "onboard_time": 1738069428,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1135342,
       "num": 608469,
       "word": "韩国空难最小遇难者生前最后照片",
@@ -4873,6 +4961,14 @@
       "onboard_time": 1737039500,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1111032,
+      "num": 3524548,
+      "word": "陈丽君和白蛇青蛇同台",
+      "onboard_time": 1738067746,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 1110762,
@@ -5593,6 +5689,14 @@
       "onboard_time": 1736345423,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1030652,
+      "num": 1030652,
+      "word": "谁家古风小品",
+      "onboard_time": 1738067805,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 1028719,
@@ -6539,14 +6643,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 943592,
-      "num": 943592,
-      "word": "谁家古风小品",
-      "onboard_time": 1738067805,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 942900,
       "num": 704506,
       "word": "30岁博士生杜梅病逝遗书让人泪目",
@@ -6657,14 +6753,6 @@
       "onboard_time": 1737519499,
       "rank": 45,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 929602,
-      "num": 3524548,
-      "word": "陈丽君和白蛇青蛇同台",
-      "onboard_time": 1738067746,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 929336,
@@ -7072,6 +7160,14 @@
       "word": "D社曝金敏喜怀孕",
       "onboard_time": 1737078137,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 893161,
+      "num": 400709,
+      "word": "单依纯发红包",
+      "onboard_time": 1738069124,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -10043,6 +10139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 694116,
+      "num": 351945,
+      "word": "借伞",
+      "onboard_time": 1738069661,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 693614,
       "num": 443466,
       "word": "朴世荣怀孕",
@@ -10169,6 +10273,14 @@
       "onboard_time": 1736085511,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 689401,
+      "num": 319552,
+      "word": "重庆分会场 时代少年团来了",
+      "onboard_time": 1738069124,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 688873,
@@ -12017,6 +12129,14 @@
       "onboard_time": 1738060345,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 608549,
+      "num": 1471903,
+      "word": "DeepSeek已被多方申请注册商标",
+      "onboard_time": 1738064789,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 608087,
@@ -14587,14 +14707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 515678,
-      "num": 515678,
-      "word": "DeepSeek已被多方申请注册商标",
-      "onboard_time": 1738064789,
-      "rank": 21,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 515656,
       "num": 515656,
       "word": "虞书欣主动加宋雨琦联系方式",
@@ -16915,6 +17027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 453513,
+      "num": 4232240,
+      "word": "蛇年怕蛇怎么办",
+      "onboard_time": 1737992597,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 453443,
       "num": 453443,
       "word": "拍照时左右脸不对称的人有福了",
@@ -16929,14 +17049,6 @@
       "onboard_time": 1737699618,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 453392,
-      "num": 4232240,
-      "word": "蛇年怕蛇怎么办",
-      "onboard_time": 1737992597,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 453354,
@@ -17553,6 +17665,14 @@
       "onboard_time": 1737328995,
       "rank": 6,
       "category": "国际时政,互联网"
+    },
+    {
+      "raw_hot": 441618,
+      "num": 441618,
+      "word": "蛇年第一条微博",
+      "onboard_time": 1738061125,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 441456,
@@ -19209,6 +19329,14 @@
       "onboard_time": 1735706360,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 402692,
+      "num": 297563,
+      "word": "关晓彤咋这么美",
+      "onboard_time": 1738070560,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 402497,
@@ -25156,7 +25284,7 @@
     },
     {
       "raw_hot": 305486,
-      "num": 2075044,
+      "num": 2459932,
       "word": "新年祝福",
       "onboard_time": 1738062325,
       "rank": 8,
@@ -28107,6 +28235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 271587,
+      "num": 1705815,
+      "word": "身边的年味",
+      "onboard_time": 1737360018,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 271579,
       "num": 228982,
       "word": "孟子义将赔偿款捐赠公益",
@@ -30449,6 +30585,14 @@
       "onboard_time": 1736490260,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 249614,
+      "num": 249614,
+      "word": "喜上枝头好美",
+      "onboard_time": 1738070739,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 249609,
@@ -34043,14 +34187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 220043,
-      "num": 671100,
-      "word": "身边的年味",
-      "onboard_time": 1737360018,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 219952,
       "num": 195803,
       "word": "白月梵星爱奇艺热度破9500",
@@ -35361,6 +35497,14 @@
       "onboard_time": 1735796242,
       "rank": 23,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 212193,
+      "num": 1772405,
+      "word": "刘晓庆42年前春晚同款在淘宝爆火",
+      "onboard_time": 1738069246,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 212071,
@@ -45172,7 +45316,7 @@
     },
     {
       "raw_hot": 176173,
-      "num": 463953,
+      "num": 1432576,
       "word": "除夕快乐",
       "onboard_time": 1738066429,
       "rank": 28,
@@ -63579,6 +63723,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 121538,
+      "num": 2151824,
+      "word": "用vivo直播神器看春晚后台",
+      "onboard_time": 1738067086,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121529,
       "num": 121529,
       "word": "黄景瑜送来蛇年新春祝福",
@@ -67665,6 +67817,14 @@
       "onboard_time": 1735715898,
       "rank": 49,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 110783,
+      "num": 250624,
+      "word": "过年聚会别一不小心透露工作秘密",
+      "onboard_time": 1738070324,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110776,
@@ -75123,14 +75283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 80324,
-      "num": 1385116,
-      "word": "用vivo直播神器看春晚后台",
-      "onboard_time": 1738067086,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 80257,
       "num": 102615,
       "word": "赵丽颖拍张碧晨",
@@ -76265,6 +76417,14 @@
       "onboard_time": 1737956056,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 73369,
+      "num": 5201259,
+      "word": "喜乐安宁中国年",
+      "onboard_time": 1738070560,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73342,

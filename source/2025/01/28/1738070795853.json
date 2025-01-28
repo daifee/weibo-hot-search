@@ -1,0 +1,410 @@
+{
+  "runTime": 1738070795853,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 14243241,
+        "num": 14243241,
+        "word": "春晚",
+        "onboard_time": 1738064609,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12275995,
+        "num": 12275995,
+        "word": "建议岳云鹏别上春晚",
+        "onboard_time": 1738069185,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73369,
+        "num": 5201259,
+        "word": "喜乐安宁中国年",
+        "onboard_time": 1738070560,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9369916,
+        "num": 9369916,
+        "word": "撒贝宁的眉毛是谁画的",
+        "onboard_time": 1738067265,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4441461,
+        "num": 4441461,
+        "word": "撒贝宁 机器人缺两条眉毛",
+        "onboard_time": 1738069063,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 453513,
+        "num": 3683431,
+        "word": "蛇年怕蛇怎么办",
+        "onboard_time": 1737992597,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3677090,
+        "num": 3677090,
+        "word": "赵雅芝叶童太配了",
+        "onboard_time": 1738067987,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3245750,
+        "num": 3245750,
+        "word": "春晚节目单",
+        "onboard_time": 1738050440,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2482895,
+        "num": 2482895,
+        "word": "沈腾马丽 你们怎么在唱歌",
+        "onboard_time": 1738070443,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287976,
+        "num": 2459932,
+        "word": "新年祝福",
+        "onboard_time": 1738062325,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2446842,
+        "num": 2446842,
+        "word": "莫文蔚毛不易 天才搭配",
+        "onboard_time": 1738068157,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2282142,
+        "num": 2282142,
+        "word": "闫妮殷桃宋佳蒋欣 我的妈妈们",
+        "onboard_time": 1738070017,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121538,
+        "num": 2151824,
+        "word": "用vivo直播神器看春晚后台",
+        "onboard_time": 1738067086,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1111032,
+        "num": 2105805,
+        "word": "陈丽君和白蛇青蛇同台",
+        "onboard_time": 1738067746,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212193,
+        "num": 1772405,
+        "word": "刘晓庆42年前春晚同款在淘宝爆火",
+        "onboard_time": 1738069246,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271587,
+        "num": 1705815,
+        "word": "身边的年味",
+        "onboard_time": 1738057583,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1596154,
+        "num": 1596154,
+        "word": "春晚 用心",
+        "onboard_time": 1738069837,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1943566,
+        "num": 1554992,
+        "word": "机器人扭秧歌",
+        "onboard_time": 1738069428,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1478128,
+        "num": 1478128,
+        "word": "闫妮蒋欣宋佳殷桃 妈妈四次方",
+        "onboard_time": 1738069723,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 608549,
+        "num": 1471903,
+        "word": "DeepSeek已被多方申请注册商标",
+        "onboard_time": 1738064789,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 7062574,
+        "num": 1471880,
+        "word": "红包",
+        "onboard_time": 1738041197,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1471329,
+        "num": 1471329,
+        "word": "时代少年团亮相春晚重庆分会场",
+        "onboard_time": 1738061426,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102551,
+        "num": 1434049,
+        "word": "文化中国行过年的仪式感",
+        "onboard_time": 1738053981,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166442,
+        "num": 1432576,
+        "word": "除夕快乐",
+        "onboard_time": 1738066429,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1432517,
+        "num": 1432517,
+        "word": "孟子义红包",
+        "onboard_time": 1738069004,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1227093,
+        "num": 1227093,
+        "word": "时代少年团镜头",
+        "onboard_time": 1738069428,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1187189,
+        "num": 1187189,
+        "word": "机器人怎么不穿裤子",
+        "onboard_time": 1738069485,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1137084,
+        "num": 1137084,
+        "word": "赵雅芝叶童 国宴开席",
+        "onboard_time": 1738069428,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376502,
+        "num": 1050465,
+        "word": "烟花",
+        "onboard_time": 1738062146,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 496281,
+        "num": 1040246,
+        "word": "孙颖莎王楚钦来送新春祝福啦",
+        "onboard_time": 1738065391,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1030652,
+        "num": 1030652,
+        "word": "谁家古风小品",
+        "onboard_time": 1738067805,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 998586,
+        "num": 998586,
+        "word": "凤凰传奇给我唱爽了",
+        "onboard_time": 1738067203,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 995544,
+        "num": 995544,
+        "word": "十个勤天开场",
+        "onboard_time": 1738066248,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 955875,
+        "num": 955875,
+        "word": "陈哲远 红包",
+        "onboard_time": 1738032856,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 441618,
+        "num": 441618,
+        "word": "蛇年第一条微博",
+        "onboard_time": 1738061125,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 893161,
+        "num": 400709,
+        "word": "单依纯发红包",
+        "onboard_time": 1738069124,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 743913,
+        "num": 367702,
+        "word": "陈伟霆张艺兴苏有朋 好帅",
+        "onboard_time": 1738066552,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 694116,
+        "num": 351945,
+        "word": "借伞",
+        "onboard_time": 1738069661,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323361,
+        "num": 323361,
+        "word": "新年文案",
+        "onboard_time": 1738063409,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126520,
+        "num": 321052,
+        "word": "中国乒乓球队新春祝福",
+        "onboard_time": 1738061004,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 689401,
+        "num": 319552,
+        "word": "重庆分会场 时代少年团来了",
+        "onboard_time": 1738069124,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 451845,
+        "num": 317555,
+        "word": "孙千春晚素颜出发图",
+        "onboard_time": 1738065150,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 420600,
+        "num": 314824,
+        "word": "马凡舒真的漂亮",
+        "onboard_time": 1738067383,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314044,
+        "num": 314044,
+        "word": "360宣布无偿为DeepSeek提供安全服务",
+        "onboard_time": 1738065449,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 402692,
+        "num": 297563,
+        "word": "关晓彤咋这么美",
+        "onboard_time": 1738070560,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 393588,
+        "num": 286705,
+        "word": "宋雨琦春晚造型",
+        "onboard_time": 1738059624,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 386857,
+        "num": 284397,
+        "word": "凤凰传奇好像两瓶梦之蓝",
+        "onboard_time": 1738067443,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253242,
+        "num": 253242,
+        "word": "红包封面",
+        "onboard_time": 1738062626,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 110783,
+        "num": 250624,
+        "word": "过年聚会别一不小心透露工作秘密",
+        "onboard_time": 1738070324,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249614,
+        "num": 249614,
+        "word": "喜上枝头好美",
+        "onboard_time": 1738070739,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#与总书记一起感受中国年味#"
+    }
+  }
+}
