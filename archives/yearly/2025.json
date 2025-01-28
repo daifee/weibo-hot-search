@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738059800556,
+  "endTime": 1738060828707,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -51,20 +51,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 16100138,
+      "num": 16100138,
+      "word": "红包",
+      "onboard_time": 1738041197,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16088904,
       "num": 16088904,
       "word": "鹿晗道歉",
       "onboard_time": 1736148990,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 15419175,
-      "num": 15419175,
-      "word": "红包",
-      "onboard_time": 1738041197,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11945070,
@@ -299,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4826667,
+      "num": 4826667,
+      "word": "陈哲远 红包",
+      "onboard_time": 1738032856,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 4591252,
       "num": 603372,
       "word": "演员王星在飞机上自述剃头过程",
@@ -384,14 +392,6 @@
       "word": "星星疑被剃去头发腿上有红斑",
       "onboard_time": 1736237304,
       "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 3950238,
-      "num": 3950238,
-      "word": "陈哲远 红包",
-      "onboard_time": 1738032856,
-      "rank": 7,
       "category": "艺人"
     },
     {
@@ -720,6 +720,14 @@
       "word": "王星说被迫接受了两三天诈骗培训",
       "onboard_time": 1736319203,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2833461,
+      "num": 815843,
+      "word": "敖瑞鹏发了三个红包",
+      "onboard_time": 1738060044,
+      "rank": 6,
       "category": "艺人"
     },
     {
@@ -2393,14 +2401,6 @@
       "onboard_time": 1737626179,
       "rank": 0,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 1623312,
-      "num": 1141453,
-      "word": "工资8千1年攒7万多男子被指啃老",
-      "onboard_time": 1736503700,
-      "rank": 31,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

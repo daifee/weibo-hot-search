@@ -1,10 +1,10 @@
 {
   "startTime": 1737995245772,
-  "endTime": 1738059800556,
+  "endTime": 1738060828707,
   "band_list": [
     {
-      "raw_hot": 15419175,
-      "num": 15419175,
+      "raw_hot": 16100138,
+      "num": 16100138,
       "word": "红包",
       "onboard_time": 1738041197,
       "rank": 1,
@@ -19,19 +19,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 4826667,
+      "num": 4826667,
+      "word": "陈哲远 红包",
+      "onboard_time": 1738032856,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 4271465,
       "num": 4271465,
       "word": "王星越的红包",
       "onboard_time": 1738053560,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 3950238,
-      "num": 3950238,
-      "word": "陈哲远 红包",
-      "onboard_time": 1738032856,
-      "rank": 7,
       "category": "艺人"
     },
     {
@@ -49,6 +49,14 @@
       "onboard_time": 1737993976,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2833461,
+      "num": 815843,
+      "word": "敖瑞鹏发了三个红包",
+      "onboard_time": 1738060044,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 2128275,
@@ -83,20 +91,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1403523,
-      "num": 650563,
-      "word": "红包分组",
-      "onboard_time": 1738058423,
-      "rank": 20,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 1374023,
-      "num": 729513,
+      "raw_hot": 1546208,
+      "num": 769441,
       "word": "卢昱晓抢到了王星越的红包",
       "onboard_time": 1738057945,
       "rank": 10,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 1403523,
+      "num": 1082608,
+      "word": "红包分组",
+      "onboard_time": 1738058423,
+      "rank": 20,
+      "category": "互联网"
     },
     {
       "raw_hot": 1324668,
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 1312982,
-      "num": 460715,
+      "num": 612272,
       "word": "柴安五花大绑俏新郎",
       "onboard_time": 1738041138,
       "rank": 31,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 967513,
-      "num": 629176,
+      "num": 668270,
       "word": "顾茜茜 红包",
       "onboard_time": 1738057524,
       "rank": 22,
@@ -171,8 +179,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 771339,
-      "num": 771339,
+      "raw_hot": 818092,
+      "num": 818092,
       "word": "年夜饭",
       "onboard_time": 1738052900,
       "rank": 9,
@@ -219,12 +227,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 609841,
+      "num": 609841,
+      "word": "陈都灵空降",
+      "onboard_time": 1738060345,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 601540,
       "num": 601540,
       "word": "贾冰小品",
       "onboard_time": 1737989298,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 594606,
+      "num": 594606,
+      "word": "宋雨琦春晚造型",
+      "onboard_time": 1738059624,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 590073,
+      "num": 590073,
+      "word": "陈哲远 直拍来了",
+      "onboard_time": 1737984500,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 586530,
@@ -252,7 +284,7 @@
     },
     {
       "raw_hot": 562045,
-      "num": 428338,
+      "num": 449985,
       "word": "李宇春易烊千玺合作舞台",
       "onboard_time": 1738052181,
       "rank": 15,
@@ -297,6 +329,14 @@
       "onboard_time": 1738028716,
       "rank": 9,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 512537,
+      "num": 640974,
+      "word": "张凌赫翻牌",
+      "onboard_time": 1738060404,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 505455,
@@ -380,7 +420,7 @@
     },
     {
       "raw_hot": 481003,
-      "num": 402511,
+      "num": 636334,
       "word": "周深春晚开始文化输出",
       "onboard_time": 1738055120,
       "rank": 27,
@@ -489,14 +529,6 @@
       "onboard_time": 1738053379,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 410923,
-      "num": 410923,
-      "word": "陈哲远 直拍来了",
-      "onboard_time": 1737984500,
-      "rank": 12,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 410021,
@@ -868,7 +900,7 @@
     },
     {
       "raw_hot": 227432,
-      "num": 278782,
+      "num": 295997,
       "word": "郭帆 MOSS",
       "onboard_time": 1738048098,
       "rank": 19,
@@ -1123,6 +1155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 179795,
+      "num": 652863,
+      "word": "DeepSeek暂时限制部分注册",
+      "onboard_time": 1738055720,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 178970,
       "num": 164998,
       "word": "新加坡环球影城偶遇丁程鑫",
@@ -1236,15 +1276,15 @@
     },
     {
       "raw_hot": 151588,
-      "num": 331998,
+      "num": 359140,
       "word": "春节摄影大赛",
       "onboard_time": 1738045337,
       "rank": 39,
       "category": "正能量"
     },
     {
-      "raw_hot": 150504,
-      "num": 460685,
+      "raw_hot": 150769,
+      "num": 597088,
       "word": "小狗被踩狗妈一秒冲出护崽开骂",
       "onboard_time": 1738055120,
       "rank": 28,
@@ -1369,14 +1409,6 @@
       "onboard_time": 1738035137,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140288,
-      "num": 652863,
-      "word": "DeepSeek暂时限制部分注册",
-      "onboard_time": 1738055720,
-      "rank": 19,
-      "category": "互联网"
     },
     {
       "raw_hot": 138464,
@@ -1531,6 +1563,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 122585,
+      "num": 594738,
+      "word": "京阿尼纵火案嫌犯死刑确定",
+      "onboard_time": 1738059444,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120612,
       "num": 215239,
       "word": "一人一道年夜菜",
@@ -1571,7 +1611,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 116696,
+      "raw_hot": 116878,
       "num": 460631,
       "word": "拍照眼白过多的女生有福了",
       "onboard_time": 1738058124,
@@ -1604,7 +1644,7 @@
     },
     {
       "raw_hot": 114483,
-      "num": 404234,
+      "num": 489432,
       "word": "凌肖加入拜年",
       "onboard_time": 1738058484,
       "rank": 34,
@@ -1683,6 +1723,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 108034,
+      "num": 373639,
+      "word": "新年星祝福",
+      "onboard_time": 1738060705,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108027,
       "num": 329761,
       "word": "全球同庆中国年",
@@ -1721,14 +1769,6 @@
       "onboard_time": 1737983538,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 101645,
-      "num": 304276,
-      "word": "京阿尼纵火案嫌犯死刑确定",
-      "onboard_time": 1738059444,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 100810,
@@ -1800,6 +1840,14 @@
       "word": "养了两年的猫咪突然攻击人",
       "onboard_time": 1737997336,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94973,
+      "num": 297378,
+      "word": "回家的路最美了",
+      "onboard_time": 1738058904,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -1889,14 +1937,6 @@
       "onboard_time": 1738032256,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 84585,
-      "num": 268423,
-      "word": "回家的路最美了",
-      "onboard_time": 1738058904,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84285,
@@ -2131,6 +2171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65133,
+      "num": 704752,
+      "word": "没有年三十儿都是月亮惹的祸",
+      "onboard_time": 1738059323,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64970,
       "num": 64970,
       "word": "新年壁纸",
@@ -2244,7 +2292,7 @@
     },
     {
       "raw_hot": 39015,
-      "num": 4798228,
+      "num": 5201588,
       "word": "文化中国行过年的仪式感",
       "onboard_time": 1738053981,
       "rank": 2,
@@ -2257,6 +2305,14 @@
       "onboard_time": 1738052480,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33678,
+      "num": 460621,
+      "word": "春晚演员上班座驾路透",
+      "onboard_time": 1738058663,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 30389,
@@ -2273,14 +2329,6 @@
       "onboard_time": 1738056982,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 29124,
-      "num": 460621,
-      "word": "春晚演员上班座驾路透",
-      "onboard_time": 1738058663,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 28636,
@@ -2313,14 +2361,6 @@
       "onboard_time": 1738002613,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 23977,
-      "num": 704752,
-      "word": "没有年三十儿都是月亮惹的祸",
-      "onboard_time": 1738059323,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23965,
@@ -2469,6 +2509,9 @@
     },
     {
       "word": "#总书记深入基层的春暖情长#"
+    },
+    {
+      "word": "#与总书记一起感受中国年味#"
     }
   ]
 }
