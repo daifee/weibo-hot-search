@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738102848927,
+  "endTime": 1738103923466,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -1595,6 +1595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 583972,
+      "num": 583972,
+      "word": "春晚收视率",
+      "onboard_time": 1738086677,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 583938,
       "num": 977309,
       "word": "除夕到初三加班不能用事后调休替代",
@@ -2048,14 +2056,6 @@
       "word": "把艾伦还给沈腾马丽",
       "onboard_time": 1738084522,
       "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 481297,
-      "num": 481297,
-      "word": "春晚收视率",
-      "onboard_time": 1738086677,
-      "rank": 20,
       "category": "综艺"
     },
     {
@@ -6883,6 +6883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120761,
+      "num": 68214,
+      "word": "央视春晚四大美女",
+      "onboard_time": 1738101732,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120612,
       "num": 215239,
       "word": "一人一道年夜菜",
@@ -7360,6 +7368,14 @@
       "word": "广东韶关气温断崖下跌",
       "onboard_time": 1737878538,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108822,
+      "num": 51394,
+      "word": "李子柒春晚战袍揭秘",
+      "onboard_time": 1738099631,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -7979,6 +7995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95913,
+      "num": 95913,
+      "word": "春晚首个显眼包出现了",
+      "onboard_time": 1738092014,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95885,
       "num": 95885,
       "word": "养了两年的猫咪突然攻击人",
@@ -8267,14 +8291,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 87589,
-      "num": 41821,
-      "word": "李子柒春晚战袍揭秘",
-      "onboard_time": 1738099631,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87534,
       "num": 167787,
       "word": "马龙的这份提醒很有意义",
@@ -8441,6 +8457,14 @@
       "onboard_time": 1737851779,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83386,
+      "num": 83386,
+      "word": "机器人跳完舞被搀扶有序下台",
+      "onboard_time": 1738089374,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83368,
@@ -8691,14 +8715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 77530,
-      "num": 60202,
-      "word": "央视春晚四大美女",
-      "onboard_time": 1738101732,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 77137,
       "num": 112275,
       "word": "网友科幻乐园偶遇张泽禹",
@@ -8809,14 +8825,6 @@
       "onboard_time": 1737967278,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 74984,
-      "num": 74984,
-      "word": "春晚首个显眼包出现了",
-      "onboard_time": 1738092014,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 74947,
@@ -8969,14 +8977,6 @@
       "onboard_time": 1737911475,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 69948,
-      "num": 82724,
-      "word": "机器人跳完舞被搀扶有序下台",
-      "onboard_time": 1738089374,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 69340,
@@ -9403,6 +9403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53544,
+      "num": 53544,
+      "word": "马斯克质疑DeepSeek低成本训练",
+      "onboard_time": 1738102161,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 53319,
       "num": 53319,
       "word": "蛇年大吉",
@@ -9537,6 +9545,14 @@
       "onboard_time": 1737951077,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47291,
+      "num": 47291,
+      "word": "薛之谦蛇年春晚唯一的独唱男歌手",
+      "onboard_time": 1738101252,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 46875,
@@ -9755,6 +9771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37763,
+      "num": 37763,
+      "word": "王一博春晚舞台太燃了",
+      "onboard_time": 1738102812,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 37513,
       "num": 109150,
       "word": "IVE末放舞台",
@@ -9777,14 +9801,6 @@
       "onboard_time": 1737982338,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 36483,
-      "num": 36483,
-      "word": "马斯克质疑DeepSeek低成本训练",
-      "onboard_time": 1738102161,
-      "rank": 38,
-      "category": "互联网"
     },
     {
       "raw_hot": 36337,
@@ -9833,6 +9849,14 @@
       "onboard_time": 1737883038,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 34742,
+      "num": 34742,
+      "word": "被跳舞的易烊千玺帅到了",
+      "onboard_time": 1738101971,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 33741,
@@ -9897,14 +9921,6 @@
       "onboard_time": 1737889638,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31860,
-      "num": 31860,
-      "word": "薛之谦蛇年春晚唯一的独唱男歌手",
-      "onboard_time": 1738101252,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 31431,
@@ -10057,14 +10073,6 @@
       "onboard_time": 1737948019,
       "rank": 33,
       "category": "教育"
-    },
-    {
-      "raw_hot": 26515,
-      "num": 26515,
-      "word": "王一博春晚舞台太燃了",
-      "onboard_time": 1738102812,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 26190,
