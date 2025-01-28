@@ -1,0 +1,410 @@
+{
+  "runTime": 1738045831025,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1818158,
+        "num": 1818158,
+        "word": "红包",
+        "onboard_time": 1738041197,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1252134,
+        "num": 1252134,
+        "word": "陈哲远 红包",
+        "onboard_time": 1738032856,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21178,
+        "num": 1092657,
+        "word": "中国年惊艳世界",
+        "onboard_time": 1738045758,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 958683,
+        "num": 958683,
+        "word": "敖瑞鹏预告红包",
+        "onboard_time": 1738039278,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 902326,
+        "num": 902326,
+        "word": "全国洗头日",
+        "onboard_time": 1738035917,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 27079,
+        "num": 614779,
+        "word": "祝你蛇转乾坤巳巳如意",
+        "onboard_time": 1738044377,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 570670,
+        "num": 570670,
+        "word": "未过门的女婿比驴还能干",
+        "onboard_time": 1738044257,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 520664,
+        "num": 520664,
+        "word": "春晚等着你",
+        "onboard_time": 1738041316,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54611,
+        "num": 506616,
+        "word": "今天就是除夕了",
+        "onboard_time": 1738044677,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 500343,
+        "num": 500343,
+        "word": "十个勤天一人一句祝福不重样",
+        "onboard_time": 1738042398,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 477057,
+        "num": 477057,
+        "word": "抖音副总裁回应雷军余承东直播被封",
+        "onboard_time": 1738037597,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 425599,
+        "num": 425599,
+        "word": "蛇年怕蛇怎么办",
+        "onboard_time": 1737992597,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382866,
+        "num": 382866,
+        "word": "DeepSeek让美国有些人诧异了",
+        "onboard_time": 1738041017,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 344897,
+        "num": 344897,
+        "word": "韩国棋院就LG杯事件发公告致歉",
+        "onboard_time": 1738033877,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 326633,
+        "num": 326633,
+        "word": "易烊千玺晒春晚云参演证",
+        "onboard_time": 1738040356,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326541,
+        "num": 326541,
+        "word": "陈都灵 偶遇一条萌萌蛇",
+        "onboard_time": 1738037958,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270423,
+        "num": 270423,
+        "word": "美媒惊问DeepSeek是谁",
+        "onboard_time": 1738030697,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 264748,
+        "num": 264748,
+        "word": "除夕到初三加班不能用事后调休替代",
+        "onboard_time": 1738030697,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263804,
+        "num": 263804,
+        "word": "赵丽颖带三部待播作品拜年",
+        "onboard_time": 1738040118,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 259358,
+        "num": 263753,
+        "word": "周深2024年度结算画面",
+        "onboard_time": 1738043897,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263737,
+        "num": 263737,
+        "word": "巳巳如意生生不息",
+        "onboard_time": 1738042636,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259930,
+        "num": 259930,
+        "word": "杨紫李现锦绣芳华剧照",
+        "onboard_time": 1738045037,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227454,
+        "num": 227454,
+        "word": "集五福",
+        "onboard_time": 1738035017,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 214989,
+        "num": 214989,
+        "word": "刘亦菲除夕大片",
+        "onboard_time": 1738043897,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 214382,
+        "num": 214382,
+        "word": "DeepSeek搅动纳斯达克",
+        "onboard_time": 1738043657,
+        "rank": 24,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 211082,
+        "num": 211082,
+        "word": "尤长靖说NINEPERCENT还有联系",
+        "onboard_time": 1738043596,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204438,
+        "num": 204438,
+        "word": "穆婷婷说不喜欢周迅了",
+        "onboard_time": 1738032916,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199382,
+        "num": 199382,
+        "word": "丁禹兮谈第一次上春晚",
+        "onboard_time": 1738044737,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196388,
+        "num": 196388,
+        "word": "丈母娘上厕所被女婿忘在高速上",
+        "onboard_time": 1738030397,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8072,
+        "num": 187569,
+        "word": "我们为什么爱这个哪吒",
+        "onboard_time": 1738045637,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186097,
+        "num": 186097,
+        "word": "桐心薇泯十指紧扣",
+        "onboard_time": 1738045577,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182686,
+        "num": 182686,
+        "word": "前DeepSeek天才少女从农村走向TOP开发者",
+        "onboard_time": 1738026976,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 135988,
+        "num": 182228,
+        "word": "孟子义除夕快乐呀",
+        "onboard_time": 1738045696,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182114,
+        "num": 182114,
+        "word": "重庆一对新人结婚仅隔一面墙接亲",
+        "onboard_time": 1738040778,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180657,
+        "num": 180657,
+        "word": "李子柒将首登总台春晚",
+        "onboard_time": 1738045277,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179855,
+        "num": 179855,
+        "word": "昀牵孟绕",
+        "onboard_time": 1738030516,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164417,
+        "num": 164417,
+        "word": "花70多万救下了700百多只猫",
+        "onboard_time": 1738042756,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162074,
+        "num": 162074,
+        "word": "王星越卢昱晓微博互动",
+        "onboard_time": 1738044617,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159215,
+        "num": 159215,
+        "word": "DeepSeek是啥",
+        "onboard_time": 1738028716,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 149865,
+        "num": 155450,
+        "word": "春节摄影大赛",
+        "onboard_time": 1738045337,
+        "rank": 39,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 54667,
+        "num": 155378,
+        "word": "王铮亮给蛇年写了首歌",
+        "onboard_time": 1738045216,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155328,
+        "num": 155328,
+        "word": "王者荣耀充值",
+        "onboard_time": 1738030635,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153946,
+        "num": 153946,
+        "word": "英伟达股价暴跌后迅速发声",
+        "onboard_time": 1738028716,
+        "rank": 42,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 153144,
+        "num": 153144,
+        "word": "封神片尾曲唱出中国人心中的家园",
+        "onboard_time": 1738032737,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141073,
+        "num": 141073,
+        "word": "度华年拜年视频",
+        "onboard_time": 1738035497,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136526,
+        "num": 136526,
+        "word": "王一博祝大家自在且松弛",
+        "onboard_time": 1738033097,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131667,
+        "num": 131667,
+        "word": "马斯克评论了两条帖子",
+        "onboard_time": 1738045397,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 129327,
+        "num": 129327,
+        "word": "王楚然除夕仕女图",
+        "onboard_time": 1738043237,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126221,
+        "num": 126221,
+        "word": "美股开盘英伟达股价大跌",
+        "onboard_time": 1738034357,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 101341,
+        "num": 124846,
+        "word": "除夕",
+        "onboard_time": 1738029916,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#祝大家阖家幸福蛇年吉祥#"
+    }
+  }
+}

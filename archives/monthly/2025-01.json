@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738042676063,
+  "endTime": 1738045831025,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1848,6 +1848,14 @@
       "word": "上2休1再上2好潮",
       "onboard_time": 1735777638,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1818158,
+      "num": 1818158,
+      "word": "红包",
+      "onboard_time": 1738041197,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -3721,14 +3729,6 @@
       "onboard_time": 1736228961,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1275854,
-      "num": 1275854,
-      "word": "红包",
-      "onboard_time": 1738041197,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1274107,
@@ -10924,7 +10924,7 @@
     },
     {
       "raw_hot": 642794,
-      "num": 380142,
+      "num": 477057,
       "word": "抖音副总裁回应雷军余承东直播被封",
       "onboard_time": 1738037597,
       "rank": 25,
@@ -12667,6 +12667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 570670,
+      "num": 570670,
+      "word": "未过门的女婿比驴还能干",
+      "onboard_time": 1738044257,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 570636,
       "num": 570636,
       "word": "女子刮彩票中奖工作人员情绪激动",
@@ -14035,6 +14043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 520664,
+      "num": 520664,
+      "word": "春晚等着你",
+      "onboard_time": 1738041316,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 520414,
       "num": 457391,
       "word": "五福临门官宣定档",
@@ -14873,6 +14889,14 @@
       "onboard_time": 1737266176,
       "rank": 17,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 500343,
+      "num": 500343,
+      "word": "十个勤天一人一句祝福不重样",
+      "onboard_time": 1738042398,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 500201,
@@ -19715,6 +19739,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 382866,
+      "num": 382866,
+      "word": "DeepSeek让美国有些人诧异了",
+      "onboard_time": 1738041017,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 382851,
       "num": 420113,
       "word": "河南一男孩课堂上被同学狂扇耳光",
@@ -23083,6 +23115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 326633,
+      "num": 326633,
+      "word": "易烊千玺晒春晚云参演证",
+      "onboard_time": 1738040356,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 326535,
       "num": 326535,
       "word": "李昀锐一分钟800个小动作",
@@ -25539,14 +25579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 292386,
-      "num": 279119,
-      "word": "易烊千玺晒春晚云参演证",
-      "onboard_time": 1738040356,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 292369,
       "num": 283133,
       "word": "韩国贡献了零胜夺冠的闹剧",
@@ -27539,6 +27571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 270423,
+      "num": 270423,
+      "word": "美媒惊问DeepSeek是谁",
+      "onboard_time": 1738030697,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
       "raw_hot": 270403,
       "num": 270403,
       "word": "杨紫说出了我的心声",
@@ -27843,14 +27883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 267768,
-      "num": 267768,
-      "word": "春晚等着你",
-      "onboard_time": 1738041316,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 267694,
       "num": 267694,
       "word": "贺峻霖这个是真大学生",
@@ -28137,6 +28169,14 @@
       "onboard_time": 1735663227,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 263737,
+      "num": 263737,
+      "word": "巳巳如意生生不息",
+      "onboard_time": 1738042636,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 263702,
@@ -28571,6 +28611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 259930,
+      "num": 259930,
+      "word": "杨紫李现锦绣芳华剧照",
+      "onboard_time": 1738045037,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 259799,
       "num": 234530,
       "word": "SM现役女团合照",
@@ -28617,6 +28665,14 @@
       "onboard_time": 1735662986,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 259358,
+      "num": 263753,
+      "word": "周深2024年度结算画面",
+      "onboard_time": 1738043897,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 259217,
@@ -33163,14 +33219,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 220308,
-      "num": 229713,
-      "word": "美媒惊问DeepSeek是谁",
-      "onboard_time": 1738030697,
-      "rank": 9,
-      "category": "数码"
-    },
-    {
       "raw_hot": 220299,
       "num": 292173,
       "word": "babymonster首尔演唱会",
@@ -34019,6 +34067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214989,
+      "num": 214989,
+      "word": "刘亦菲除夕大片",
+      "onboard_time": 1738043897,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 214941,
       "num": 214941,
       "word": "敖瑞鹏告诉你们梵樾的故事",
@@ -34089,6 +34145,14 @@
       "onboard_time": 1736985318,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 214382,
+      "num": 214382,
+      "word": "DeepSeek搅动纳斯达克",
+      "onboard_time": 1738043657,
+      "rank": 24,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 214297,
@@ -34729,6 +34793,14 @@
       "onboard_time": 1736172623,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211082,
+      "num": 211082,
+      "word": "尤长靖说NINEPERCENT还有联系",
+      "onboard_time": 1738043596,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 210995,
@@ -37515,6 +37587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199382,
+      "num": 199382,
+      "word": "丁禹兮谈第一次上春晚",
+      "onboard_time": 1738044737,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199376,
       "num": 199376,
       "word": "今起广州正式解禁土狗",
@@ -38137,14 +38217,6 @@
       "onboard_time": 1737551418,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 197351,
-      "num": 278163,
-      "word": "DeepSeek让美国有些人诧异了",
-      "onboard_time": 1738041017,
-      "rank": 37,
-      "category": "互联网"
     },
     {
       "raw_hot": 197340,
@@ -41731,6 +41803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186097,
+      "num": 186097,
+      "word": "桐心薇泯十指紧扣",
+      "onboard_time": 1738045577,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186050,
       "num": 186050,
       "word": "李昀锐 追星星的人",
@@ -43121,6 +43201,14 @@
       "onboard_time": 1737643999,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180657,
+      "num": 180657,
+      "word": "李子柒将首登总台春晚",
+      "onboard_time": 1738045277,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 180598,
@@ -47899,6 +47987,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 164417,
+      "num": 164417,
+      "word": "花70多万救下了700百多只猫",
+      "onboard_time": 1738042756,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 164406,
       "num": 419777,
       "word": "研究发现责任心强的人爱存钱",
@@ -48576,6 +48672,14 @@
       "word": "TOP回应是否回归BIGBANG",
       "onboard_time": 1736997138,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 162074,
+      "num": 162074,
+      "word": "王星越卢昱晓微博互动",
+      "onboard_time": 1738044617,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -51619,14 +51723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 152516,
-      "num": 152516,
-      "word": "十个勤天一人一句祝福不重样",
-      "onboard_time": 1738042398,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 152454,
       "num": 240243,
       "word": "汉武帝最后一位丞相墓疑被发现",
@@ -52369,6 +52465,14 @@
       "onboard_time": 1737532638,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149865,
+      "num": 155450,
+      "word": "春节摄影大赛",
+      "onboard_time": 1737557058,
+      "rank": 35,
+      "category": "正能量,互联网"
     },
     {
       "raw_hot": 149825,
@@ -53777,14 +53881,6 @@
       "onboard_time": 1737169818,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 145973,
-      "num": 145973,
-      "word": "春节摄影大赛",
-      "onboard_time": 1737557058,
-      "rank": 35,
-      "category": "正能量,互联网"
     },
     {
       "raw_hot": 145955,
@@ -57379,6 +57475,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 135988,
+      "num": 182228,
+      "word": "孟子义除夕快乐呀",
+      "onboard_time": 1738045696,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135983,
       "num": 1062200,
       "word": "那些你不知道的北京地儿",
@@ -58995,6 +59099,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 131667,
+      "num": 131667,
+      "word": "马斯克评论了两条帖子",
+      "onboard_time": 1738045397,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 131590,
       "num": 161914,
       "word": "哪吒2番外先来了",
@@ -59760,6 +59872,14 @@
       "word": "演员星星的现实版孤注一掷将终结",
       "onboard_time": 1736243842,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 129327,
+      "num": 129327,
+      "word": "王楚然除夕仕女图",
+      "onboard_time": 1738043237,
+      "rank": 47,
       "category": "艺人"
     },
     {
@@ -67625,14 +67745,6 @@
       "onboard_time": 1737508818,
       "rank": 39,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 107485,
-      "num": 107485,
-      "word": "巳巳如意生生不息",
-      "onboard_time": 1738042636,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 107447,
@@ -78339,6 +78451,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 54667,
+      "num": 155378,
+      "word": "王铮亮给蛇年写了首歌",
+      "onboard_time": 1738045216,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 54611,
+      "num": 506616,
+      "word": "今天就是除夕了",
+      "onboard_time": 1738044677,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54589,
       "num": 261805,
       "word": "贾玲这次热辣滚烫的是鱼汤",
@@ -84435,6 +84563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27079,
+      "num": 614779,
+      "word": "祝你蛇转乾坤巳巳如意",
+      "onboard_time": 1738044377,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27072,
       "num": 54803,
       "word": "刘宇宁祝大家新年快乐",
@@ -85993,6 +86129,14 @@
       "onboard_time": 1736231963,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21178,
+      "num": 1092657,
+      "word": "中国年惊艳世界",
+      "onboard_time": 1738045758,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21112,
@@ -88955,6 +89099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 8072,
+      "num": 187569,
+      "word": "我们为什么爱这个哪吒",
+      "onboard_time": 1738045637,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 8052,
       "num": 41638,
       "word": "沈星回遇见下一个春天",
@@ -89474,6 +89626,9 @@
     },
     {
       "word": "#以蛇行千里的劲头开拓进取顽强奋斗#"
+    },
+    {
+      "word": "#祝大家阖家幸福蛇年吉祥#"
     }
   ]
 }

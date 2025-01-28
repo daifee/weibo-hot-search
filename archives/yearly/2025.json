@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738042676063,
+  "endTime": 1738045831025,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1851,6 +1851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1818158,
+      "num": 1818158,
+      "word": "红包",
+      "onboard_time": 1738041197,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1812315,
       "num": 1812315,
       "word": "杨子崩溃大哭",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1737603617,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1600190,
-      "num": 1406314,
-      "word": "黄子韬发文回应送车事件",
-      "onboard_time": 1736815280,
-      "rank": 1,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
