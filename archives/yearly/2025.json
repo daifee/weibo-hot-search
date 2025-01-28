@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738071475488,
+  "endTime": 1738074061087,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -307,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 5922209,
+      "num": 5922209,
+      "word": "王菲嗓子无敌了",
+      "onboard_time": 1738072539,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 5865317,
       "num": 509455,
       "word": "李明德解释为什么暴力损害酒店财物",
@@ -347,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4801086,
+      "num": 4801086,
+      "word": "沈腾马丽 你们怎么在唱歌",
+      "onboard_time": 1738070443,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 4591252,
       "num": 603372,
       "word": "演员王星在飞机上自述剃头过程",
@@ -384,14 +400,6 @@
       "word": "撒贝宁 机器人缺两条眉毛",
       "onboard_time": 1738069063,
       "rank": 4,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 4397423,
-      "num": 4397423,
-      "word": "沈腾马丽 你们怎么在唱歌",
-      "onboard_time": 1738070443,
-      "rank": 8,
       "category": "综艺"
     },
     {
@@ -513,6 +521,14 @@
       "onboard_time": 1736597067,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 3600743,
+      "num": 3600743,
+      "word": "王菲 如听仙乐耳暂明",
+      "onboard_time": 1738072834,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 3594619,
@@ -843,6 +859,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2781831,
+      "num": 2781831,
+      "word": "易烊千玺李宇春怎么把邓超踢了",
+      "onboard_time": 1738072834,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2766963,
       "num": 2766963,
       "word": "网红小狗艾特去世",
@@ -873,6 +897,14 @@
       "onboard_time": 1735728622,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2740253,
+      "num": 2740253,
+      "word": "刘涛 妈祖援藏",
+      "onboard_time": 1738071886,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 2738765,
@@ -1403,6 +1435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2123012,
+      "num": 2123012,
+      "word": "刘涛 母神降临",
+      "onboard_time": 1738071094,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2106610,
       "num": 400917,
       "word": "王星目前还不能离开泰国",
@@ -1867,6 +1907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1883713,
+      "num": 1883713,
+      "word": "B站弹幕",
+      "onboard_time": 1738071644,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1879239,
       "num": 1879239,
       "word": "警犬在战友床上尿尿连续4周被通报",
@@ -2043,6 +2091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1796827,
+      "num": 1796827,
+      "word": "任敏美甲",
+      "onboard_time": 1738072362,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1793831,
       "num": 1793831,
       "word": "跨年收视率",
@@ -2139,6 +2195,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 1759352,
+      "num": 1759352,
+      "word": "春晚 用心",
+      "onboard_time": 1738069837,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1753374,
       "num": 430928,
       "word": "律师称收到刘强东红包的乡亲需缴税",
@@ -2169,14 +2233,6 @@
       "onboard_time": 1737614179,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1733466,
-      "num": 1733466,
-      "word": "刘涛 母神降临",
-      "onboard_time": 1738071094,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 1731317,
@@ -2345,62 +2401,6 @@
       "onboard_time": 1736598568,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1679135,
-      "num": 658746,
-      "word": "宋佳钟楚曦亲了",
-      "onboard_time": 1735980442,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1675295,
-      "num": 1675295,
-      "word": "手机尾号0000000成交价70万",
-      "onboard_time": 1736769859,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1672015,
-      "num": 1672015,
-      "word": "美国网友涌入小红书交猫税",
-      "onboard_time": 1736909359,
-      "rank": 37,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1670595,
-      "num": 1670595,
-      "word": "昊磊复婚",
-      "onboard_time": 1736593888,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1670209,
-      "num": 1599709,
-      "word": "4名中国演员侥幸逃脱泰国试戏骗局",
-      "onboard_time": 1736242523,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1666195,
-      "num": 1028926,
-      "word": "胖东来员工不许靠父母积蓄买房买车",
-      "onboard_time": 1735904900,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1665912,
-      "num": 572795,
-      "word": "谢娜李小冉闹掰的原因",
-      "onboard_time": 1736897897,
-      "rank": 10,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

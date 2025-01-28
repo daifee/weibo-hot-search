@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738071475488,
+  "endTime": 1738074061087,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 5922209,
+      "num": 5922209,
+      "word": "王菲嗓子无敌了",
+      "onboard_time": 1738072539,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 5336076,
       "num": 215963,
       "word": "张大大被曝指使社会人士砸门恐吓",
@@ -75,19 +83,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 4801086,
+      "num": 4801086,
+      "word": "沈腾马丽 你们怎么在唱歌",
+      "onboard_time": 1738070443,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 4441461,
       "num": 4441461,
       "word": "撒贝宁 机器人缺两条眉毛",
       "onboard_time": 1738069063,
       "rank": 4,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 4397423,
-      "num": 4397423,
-      "word": "沈腾马丽 你们怎么在唱歌",
-      "onboard_time": 1738070443,
-      "rank": 8,
       "category": "综艺"
     },
     {
@@ -105,6 +113,14 @@
       "onboard_time": 1737857357,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3600743,
+      "num": 3600743,
+      "word": "王菲 如听仙乐耳暂明",
+      "onboard_time": 1738072834,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 3556279,
@@ -163,12 +179,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2781831,
+      "num": 2781831,
+      "word": "易烊千玺李宇春怎么把邓超踢了",
+      "onboard_time": 1738072834,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2763936,
       "num": 2763936,
       "word": "颜十六已到案回国",
       "onboard_time": 1737904641,
       "rank": 29,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 2740253,
+      "num": 2740253,
+      "word": "刘涛 妈祖援藏",
+      "onboard_time": 1738071886,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 2324052,
@@ -193,6 +225,14 @@
       "onboard_time": 1738039278,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2123012,
+      "num": 2123012,
+      "word": "刘涛 母神降临",
+      "onboard_time": 1738071094,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 2056912,
@@ -243,12 +283,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1883713,
+      "num": 1883713,
+      "word": "B站弹幕",
+      "onboard_time": 1738071644,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1844246,
       "num": 1844246,
       "word": "DeepSeek",
       "onboard_time": 1737947955,
       "rank": 21,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1796827,
+      "num": 1796827,
+      "word": "任敏美甲",
+      "onboard_time": 1738072362,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 1792033,
@@ -275,11 +331,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1733466,
-      "num": 1733466,
-      "word": "刘涛 母神降临",
-      "onboard_time": 1738071094,
-      "rank": 15,
+      "raw_hot": 1759352,
+      "num": 1759352,
+      "word": "春晚 用心",
+      "onboard_time": 1738069837,
+      "rank": 16,
       "category": "综艺"
     },
     {
@@ -291,11 +347,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1596154,
-      "num": 1596154,
-      "word": "春晚 用心",
-      "onboard_time": 1738069837,
-      "rank": 16,
+      "raw_hot": 1640869,
+      "num": 734347,
+      "word": "刘谦 我董卿呢",
+      "onboard_time": 1738073081,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -385,6 +441,14 @@
       "onboard_time": 1738041138,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1293971,
+      "num": 1293971,
+      "word": "尼格买提成功了",
+      "onboard_time": 1738071585,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 1237966,
@@ -747,6 +811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 854012,
+      "num": 854012,
+      "word": "刘谦旁边还是尼格买提",
+      "onboard_time": 1738071820,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 853590,
       "num": 200653,
       "word": "抖音bug",
@@ -833,6 +905,14 @@
       "onboard_time": 1737904460,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 810139,
+      "num": 810139,
+      "word": "春晚小品",
+      "onboard_time": 1738069723,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 790581,
@@ -929,6 +1009,14 @@
       "onboard_time": 1737945556,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 712187,
+      "num": 712187,
+      "word": "春晚魔术",
+      "onboard_time": 1738072657,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 711987,
@@ -1449,6 +1537,14 @@
       "onboard_time": 1737949698,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 514099,
+      "num": 514099,
+      "word": "春晚像开了倍速",
+      "onboard_time": 1738070975,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 513993,
@@ -2417,6 +2513,14 @@
       "onboard_time": 1737888978,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 332254,
+      "num": 332254,
+      "word": "闫妮 春晚微醺",
+      "onboard_time": 1738071949,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 330833,
@@ -4067,6 +4171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192060,
+      "num": 724958,
+      "word": "尊界S800中国超豪华汽车时代标杆",
+      "onboard_time": 1738073202,
+      "rank": 31,
+      "category": "综艺,汽车"
+    },
+    {
       "raw_hot": 191794,
       "num": 191794,
       "word": "左航在街上有拍了拍",
@@ -4449,6 +4561,14 @@
       "onboard_time": 1737967336,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172655,
+      "num": 1885605,
+      "word": "中国超豪华汽车时代标杆上春晚",
+      "onboard_time": 1738072898,
+      "rank": 14,
+      "category": "综艺,汽车"
     },
     {
       "raw_hot": 172315,
@@ -5153,6 +5273,14 @@
       "onboard_time": 1737889879,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148764,
+      "num": 203930,
+      "word": "夏以昼一起回家吧",
+      "onboard_time": 1738072775,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 148488,
@@ -7699,6 +7827,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 85417,
+      "num": 556690,
+      "word": "重庆分会场的鸿蒙赛博大秀",
+      "onboard_time": 1738071036,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 84992,
       "num": 84992,
       "word": "射雕小说与电影一起热销",
@@ -7817,6 +7953,14 @@
       "onboard_time": 1737971777,
       "rank": 20,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 82073,
+      "num": 1195280,
+      "word": "张艺兴开场硬帅",
+      "onboard_time": 1738073081,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 82055,
@@ -7953,6 +8097,14 @@
       "onboard_time": 1738030815,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 78435,
+      "num": 3810014,
+      "word": "春联一出场年味蹭蹭涨",
+      "onboard_time": 1738071094,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78105,
@@ -8129,6 +8281,14 @@
       "onboard_time": 1737816742,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72761,
+      "num": 5248064,
+      "word": "蛇年新春里的中国",
+      "onboard_time": 1738071222,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72559,
@@ -8409,6 +8569,14 @@
       "onboard_time": 1737987919,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 61392,
+      "num": 2693117,
+      "word": "中国人从太空发回拜年视频",
+      "onboard_time": 1738072597,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60847,
@@ -9035,14 +9203,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 32564,
-      "num": 410819,
-      "word": "重庆分会场的鸿蒙赛博大秀",
-      "onboard_time": 1738071036,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 32208,
       "num": 90569,
       "word": "外媒称特朗普提出清理加沙计划",
@@ -9355,14 +9515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23130,
-      "num": 1992456,
-      "word": "春联一出场年味蹭蹭涨",
-      "onboard_time": 1738071094,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23075,
       "num": 289139,
       "word": "流动的中国2025",
@@ -9489,14 +9641,6 @@
       "onboard_time": 1737903561,
       "rank": 35,
       "category": "体育,综艺"
-    },
-    {
-      "raw_hot": 17975,
-      "num": 5159143,
-      "word": "蛇年新春里的中国",
-      "onboard_time": 1738071222,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17804,
@@ -9782,6 +9926,9 @@
     },
     {
       "word": "#浓浓年味儿间是总书记最深的惦念#"
+    },
+    {
+      "word": "#总书记的新春牵挂#"
     }
   ]
 }
