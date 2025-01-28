@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738046606911,
+  "endTime": 1738048849302,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -17,6 +17,14 @@
       "onboard_time": 1737857357,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3980288,
+      "num": 3980288,
+      "word": "红包",
+      "onboard_time": 1738041197,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 3185801,
@@ -51,12 +59,12 @@
       "category": "民生新闻,艺人"
     },
     {
-      "raw_hot": 2109349,
-      "num": 2109349,
-      "word": "红包",
-      "onboard_time": 1738041197,
-      "rank": 1,
-      "category": "民生新闻"
+      "raw_hot": 2330900,
+      "num": 2330900,
+      "word": "陈哲远 红包",
+      "onboard_time": 1738032856,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 2056912,
@@ -91,14 +99,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1841501,
-      "num": 1841501,
-      "word": "陈哲远 红包",
-      "onboard_time": 1738032856,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1772288,
       "num": 1772288,
       "word": "无忧传媒暂停与张大大业务",
@@ -129,6 +129,14 @@
       "onboard_time": 1738035917,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1261383,
+      "num": 1261383,
+      "word": "敖瑞鹏预告红包",
+      "onboard_time": 1738039278,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1237966,
@@ -240,14 +248,6 @@
       "word": "留几手曾说张大大连麦是剧本",
       "onboard_time": 1737872898,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1054349,
-      "num": 1054349,
-      "word": "敖瑞鹏预告红包",
-      "onboard_time": 1738039278,
-      "rank": 4,
       "category": "艺人"
     },
     {
@@ -411,6 +411,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 867387,
+      "num": 867387,
+      "word": "未过门的女婿比驴还能干",
+      "onboard_time": 1738044257,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 860983,
       "num": 1137757,
       "word": "樊振东获得2025世乒赛决赛参赛资格",
@@ -505,14 +513,6 @@
       "onboard_time": 1737860357,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 775522,
-      "num": 775522,
-      "word": "未过门的女婿比驴还能干",
-      "onboard_time": 1738044257,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 761138,
@@ -955,6 +955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 517385,
+      "num": 517385,
+      "word": "梁洁发红包",
+      "onboard_time": 1738048218,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 515745,
       "num": 200571,
       "word": "Jasper在陈小春家学历最高",
@@ -1091,6 +1099,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 486525,
+      "num": 401574,
+      "word": "陈都灵 偶遇一条萌萌蛇",
+      "onboard_time": 1738037958,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 485891,
       "num": 485891,
       "word": "外交部回应是否接回在美非法中国移民",
@@ -1177,6 +1193,14 @@
       "onboard_time": 1737963316,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 460038,
+      "num": 254228,
+      "word": "沙溢胡可两个儿子近照",
+      "onboard_time": 1738046117,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 458537,
@@ -1323,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 424134,
+      "num": 246928,
+      "word": "李子柒将首登总台春晚",
+      "onboard_time": 1738045277,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 422381,
       "num": 241763,
       "word": "周杰伦瘦好多",
@@ -1337,14 +1369,6 @@
       "onboard_time": 1737868459,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 418132,
-      "num": 401574,
-      "word": "陈都灵 偶遇一条萌萌蛇",
-      "onboard_time": 1738037958,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 416771,
@@ -1643,6 +1667,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 352732,
+      "num": 259400,
+      "word": "DeepSeek最想问人类什么问题",
+      "onboard_time": 1738046358,
+      "rank": 19,
+      "category": "科学科普,互联网"
+    },
+    {
       "raw_hot": 350494,
       "num": 350494,
       "word": "比杨紫更了解杨紫的人出现",
@@ -1787,6 +1819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 322453,
+      "num": 232397,
+      "word": "尤长靖说NINEPERCENT还有联系",
+      "onboard_time": 1738043596,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 320881,
       "num": 320881,
       "word": "春节真正需要的高效休息",
@@ -1817,6 +1857,14 @@
       "onboard_time": 1737993257,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 312107,
+      "num": 220682,
+      "word": "明天要看的第一部电影",
+      "onboard_time": 1738046958,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 309094,
@@ -2009,14 +2057,6 @@
       "onboard_time": 1737823156,
       "rank": 31,
       "category": "美食"
-    },
-    {
-      "raw_hot": 284299,
-      "num": 246928,
-      "word": "李子柒将首登总台春晚",
-      "onboard_time": 1738045277,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 284216,
@@ -2499,14 +2539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 227488,
-      "num": 211082,
-      "word": "尤长靖说NINEPERCENT还有联系",
-      "onboard_time": 1738043596,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 226006,
       "num": 310640,
       "word": "DeepSeek核心成员是应届生",
@@ -2715,20 +2747,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211766,
+      "num": 211766,
+      "word": "陈乔恩Alan马来西亚逛街",
+      "onboard_time": 1738047678,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209948,
       "num": 198210,
       "word": "赵露思拐杖",
       "onboard_time": 1737806960,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 209813,
-      "num": 259400,
-      "word": "DeepSeek最想问人类什么问题",
-      "onboard_time": 1738046358,
-      "rank": 19,
-      "category": "科学科普,互联网"
     },
     {
       "raw_hot": 209717,
@@ -2801,6 +2833,14 @@
       "onboard_time": 1737846374,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 205176,
+      "num": 220140,
+      "word": "林心如49岁庆生照",
+      "onboard_time": 1738046836,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 204911,
@@ -3339,14 +3379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 181526,
-      "num": 181526,
-      "word": "沙溢胡可两个儿子近照",
-      "onboard_time": 1738046117,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 181323,
       "num": 181323,
       "word": "朱志鑫 青岛",
@@ -3779,6 +3811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 162446,
+      "num": 162446,
+      "word": "颜人中一支185的口红",
+      "onboard_time": 1738047377,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162074,
       "num": 162074,
       "word": "王星越卢昱晓微博互动",
@@ -3849,6 +3889,14 @@
       "onboard_time": 1737854478,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159676,
+      "num": 159676,
+      "word": "花7小时做的千元蛇年美甲",
+      "onboard_time": 1738047918,
+      "rank": 32,
+      "category": "美妆"
     },
     {
       "raw_hot": 159595,
@@ -4019,6 +4067,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 153998,
+      "num": 153998,
+      "word": "猪皮冻",
+      "onboard_time": 1738047739,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 153950,
       "num": 153950,
       "word": "朴彩英首唱vampirehollie",
@@ -4073,6 +4129,14 @@
       "onboard_time": 1737902120,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 150518,
+      "num": 416784,
+      "word": "今夜让世界看到重庆",
+      "onboard_time": 1738046177,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 150502,
@@ -4473,6 +4537,14 @@
       "onboard_time": 1737871997,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138469,
+      "num": 138469,
+      "word": "王星越抢人妻DNA动了",
+      "onboard_time": 1738047678,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 138464,
@@ -5027,6 +5099,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124782,
+      "num": 124782,
+      "word": "时代少年团2025楼晚节目单",
+      "onboard_time": 1738047258,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 124644,
       "num": 130496,
       "word": "吴京李连杰聚餐",
@@ -5425,14 +5505,6 @@
       "onboard_time": 1737862878,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 113394,
-      "num": 416784,
-      "word": "今夜让世界看到重庆",
-      "onboard_time": 1738046177,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 112995,
@@ -6355,6 +6427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91256,
+      "num": 137204,
+      "word": "添好运卡",
+      "onboard_time": 1738047517,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90936,
       "num": 90936,
       "word": "DeepSeek崩了",
@@ -6915,6 +6995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75387,
+      "num": 221474,
+      "word": "郭帆 MOSS",
+      "onboard_time": 1738048098,
+      "rank": 19,
+      "category": "互联网,作品衍生"
+    },
+    {
       "raw_hot": 75013,
       "num": 75013,
       "word": "张绍进先生将埋葬于张纯如身旁",
@@ -7371,6 +7459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55867,
+      "num": 1507185,
+      "word": "中国年惊艳世界",
+      "onboard_time": 1738045758,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55555,
       "num": 295430,
       "word": "春节去哪玩才能避免人挤人",
@@ -7785,14 +7881,6 @@
       "onboard_time": 1737883038,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 33898,
-      "num": 1114416,
-      "word": "中国年惊艳世界",
-      "onboard_time": 1738045758,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33741,
