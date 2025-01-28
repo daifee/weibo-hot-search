@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738039210997,
+  "endTime": 1738041675864,
   "band_list": [
     {
       "raw_hot": 5336076,
@@ -299,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 989581,
+      "num": 989581,
+      "word": "敖瑞鹏预告红包",
+      "onboard_time": 1738039278,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 987998,
       "num": 1158079,
       "word": "井胧曾因父母职业自卑",
@@ -433,6 +441,14 @@
       "onboard_time": 1737847395,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 840477,
+      "num": 1014911,
+      "word": "红包",
+      "onboard_time": 1738041197,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 835877,
@@ -649,6 +665,14 @@
       "onboard_time": 1737960976,
       "rank": 20,
       "category": "网红"
+    },
+    {
+      "raw_hot": 635884,
+      "num": 380142,
+      "word": "抖音副总裁回应雷军余承东直播被封",
+      "onboard_time": 1738037597,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 634456,
@@ -1329,6 +1353,14 @@
       "onboard_time": 1737888379,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 401574,
+      "num": 401574,
+      "word": "陈都灵 偶遇一条萌萌蛇",
+      "onboard_time": 1738037958,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 399366,
@@ -2043,6 +2075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 264452,
+      "num": 264452,
+      "word": "赵丽颖带三部待播作品拜年",
+      "onboard_time": 1738040118,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 263118,
       "num": 234477,
       "word": "和鹿晗过大年",
@@ -2129,14 +2169,6 @@
       "onboard_time": 1737996137,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 253656,
-      "num": 253656,
-      "word": "抖音副总裁回应雷军余承东直播被封",
-      "onboard_time": 1738037597,
-      "rank": 25,
-      "category": "互联网"
     },
     {
       "raw_hot": 252889,
@@ -2297,6 +2329,14 @@
       "onboard_time": 1737982938,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 237682,
+      "num": 237682,
+      "word": "易烊千玺晒春晚云参演证",
+      "onboard_time": 1738040356,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 237549,
@@ -2915,20 +2955,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193034,
+      "num": 193034,
+      "word": "十个勤天下一站春晚",
+      "onboard_time": 1738038317,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192578,
       "num": 192578,
       "word": "肖战春天花会开幸福向未来",
       "onboard_time": 1737860597,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192574,
-      "num": 173089,
-      "word": "陈都灵 偶遇一条萌萌蛇",
-      "onboard_time": 1738037958,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 192566,
@@ -2953,6 +2993,14 @@
       "onboard_time": 1737952157,
       "rank": 27,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 190559,
+      "num": 190559,
+      "word": "柴安五花大绑俏新郎",
+      "onboard_time": 1738041138,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 190507,
@@ -3049,6 +3097,14 @@
       "onboard_time": 1737868698,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187283,
+      "num": 187283,
+      "word": "春晚等着你",
+      "onboard_time": 1738041316,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 187200,
@@ -3355,14 +3411,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 169879,
-      "num": 169879,
-      "word": "十个勤天下一站春晚",
-      "onboard_time": 1738038317,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 169605,
       "num": 169605,
       "word": "小伙守护全村留守老人3年",
@@ -3571,6 +3619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 161856,
+      "num": 241462,
+      "word": "如鸢暗号",
+      "onboard_time": 1738032737,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 161371,
       "num": 161371,
       "word": "赵丽颖晒过年前的剧组",
@@ -3675,6 +3731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157372,
+      "num": 193106,
+      "word": "苏醒发红包的热情写在脸上了",
+      "onboard_time": 1738039877,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157243,
       "num": 157243,
       "word": "原来代露娃还演过短剧",
@@ -3729,14 +3793,6 @@
       "onboard_time": 1737981377,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 156601,
-      "num": 156601,
-      "word": "如鸢暗号",
-      "onboard_time": 1738032737,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 155993,
@@ -3819,6 +3875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 153047,
+      "num": 153047,
+      "word": "重庆一对新人结婚仅隔一面墙接亲",
+      "onboard_time": 1738040778,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152574,
       "num": 152574,
       "word": "老人将奶粉罐爆改成炸丸子神器",
@@ -3864,6 +3928,14 @@
       "word": "京东除夕抽奖更壕",
       "onboard_time": 1737875057,
       "rank": 29,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 150237,
+      "num": 150237,
+      "word": "Deepseek锐评",
+      "onboard_time": 1738040418,
+      "rank": 36,
       "category": "互联网"
     },
     {
@@ -3929,6 +4001,14 @@
       "onboard_time": 1737869657,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 147957,
+      "num": 147957,
+      "word": "DeepSeek让美国有些人诧异了",
+      "onboard_time": 1738041017,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 147951,
@@ -5387,6 +5467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 107863,
+      "num": 107863,
+      "word": "全球同庆中国年",
+      "onboard_time": 1738041496,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107755,
       "num": 107755,
       "word": "陈思诚感谢射雕预售打开市场",
@@ -5427,12 +5515,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107388,
+      "num": 107388,
+      "word": "福宝吃上了春节大餐",
+      "onboard_time": 1738041617,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107348,
       "num": 195092,
       "word": "车银优公开cover曲纪念文彬生日",
       "onboard_time": 1737860597,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107158,
+      "num": 107158,
+      "word": "男孩玩烟花引燃轿车家长赔15万",
+      "onboard_time": 1738041077,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107141,
@@ -7091,6 +7195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 54769,
+      "num": 107108,
+      "word": "阿门汤普森绝杀凯尔特人",
+      "onboard_time": 1738039216,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 54693,
       "num": 54693,
       "word": "新年头像",
@@ -7937,6 +8049,14 @@
       "onboard_time": 1737917292,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 14804,
+      "num": 254575,
+      "word": "辛芷蕾的年终总结",
+      "onboard_time": 1738041138,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 14803,
