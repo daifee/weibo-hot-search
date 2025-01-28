@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738084763791,
+  "endTime": 1738085795359,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -427,8 +427,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1719422,
-      "num": 1719422,
+      "raw_hot": 1761345,
+      "num": 1761345,
       "word": "十年前priest就成功预测了25年春晚",
       "onboard_time": 1738079795,
       "rank": 15,
@@ -505,6 +505,14 @@
       "onboard_time": 1738069004,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1425783,
+      "num": 1425783,
+      "word": "谁给李宇春穿的裙子",
+      "onboard_time": 1738079795,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 1415945,
@@ -656,14 +664,6 @@
       "word": "陈丽君和白蛇青蛇同台",
       "onboard_time": 1738067746,
       "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1107858,
-      "num": 1107858,
-      "word": "谁给李宇春穿的裙子",
-      "onboard_time": 1738079795,
-      "rank": 34,
       "category": "综艺"
     },
     {
@@ -2579,6 +2579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 381362,
+      "num": 264550,
+      "word": "把艾伦还给沈腾马丽",
+      "onboard_time": 1738084522,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 378796,
       "num": 193212,
       "word": "蛇年春晚节目单公布",
@@ -3419,11 +3427,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 264550,
-      "num": 264550,
-      "word": "把艾伦还给沈腾马丽",
-      "onboard_time": 1738084522,
-      "rank": 42,
+      "raw_hot": 263909,
+      "num": 122614,
+      "word": "吴磊胡子都等出来了",
+      "onboard_time": 1738084761,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -4825,6 +4833,14 @@
       "onboard_time": 1737962536,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 180360,
+      "num": 1332005,
+      "word": "DeepSeek从出租屋起步走向世界",
+      "onboard_time": 1738083744,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 180238,
@@ -7996,7 +8012,7 @@
     },
     {
       "raw_hot": 94418,
-      "num": 305160,
+      "num": 897009,
       "word": "蛇年送你长长长长长祝福",
       "onboard_time": 1738083983,
       "rank": 39,
@@ -8275,6 +8291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85622,
+      "num": 102244,
+      "word": "零点鞭炮",
+      "onboard_time": 1738085000,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85544,
       "num": 190587,
       "word": "封神地狱笑话",
@@ -8313,14 +8337,6 @@
       "onboard_time": 1737972977,
       "rank": 49,
       "category": "互联网,财经"
-    },
-    {
-      "raw_hot": 84475,
-      "num": 1332005,
-      "word": "DeepSeek从出租屋起步走向世界",
-      "onboard_time": 1738083744,
-      "rank": 9,
-      "category": "互联网"
     },
     {
       "raw_hot": 84406,
@@ -9633,6 +9649,14 @@
       "onboard_time": 1737926471,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 35797,
+      "num": 262015,
+      "word": "淘宝带1亿网友上春晚了",
+      "onboard_time": 1738084821,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 34893,
