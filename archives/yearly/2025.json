@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738078680545,
+  "endTime": 1738081671448,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -345,6 +345,14 @@
       "onboard_time": 1736063187,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 5557391,
+      "num": 5557391,
+      "word": "沈腾马丽小品",
+      "onboard_time": 1738076680,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 5278509,
@@ -1123,6 +1131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2432486,
+      "num": 2432486,
+      "word": "薛之谦唱了赵英俊的歌",
+      "onboard_time": 1738080508,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2409556,
       "num": 2409556,
       "word": "王源跨年晚会音准",
@@ -1497,6 +1513,14 @@
       "onboard_time": 1738071094,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2119601,
+      "num": 2119601,
+      "word": "丁禹兮挑眉",
+      "onboard_time": 1738080388,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 2106610,
@@ -2011,6 +2035,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1869246,
+      "num": 1869246,
+      "word": "丁禹兮王安宇帅一大跳",
+      "onboard_time": 1738080267,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1868618,
       "num": 1868618,
       "word": "希尔顿等名人豪宅已被烧成平地",
@@ -2369,38 +2401,6 @@
       "onboard_time": 1736596588,
       "rank": 8,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1696812,
-      "num": 598984,
-      "word": "小红书连夜招聘英文内容审核员",
-      "onboard_time": 1736921058,
-      "rank": 21,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 1693432,
-      "num": 1693432,
-      "word": "祝绪丹 玛丽猫",
-      "onboard_time": 1736579001,
-      "rank": 4,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1692193,
-      "num": 323288,
-      "word": "至此已成艺术",
-      "onboard_time": 1736085449,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1689347,
-      "num": 1689347,
-      "word": "女生确诊渐冻症一年容貌巨变",
-      "onboard_time": 1736496921,
-      "rank": 1,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
