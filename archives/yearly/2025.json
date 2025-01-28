@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738075150537,
+  "endTime": 1738077854711,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -299,11 +299,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 7020821,
+      "num": 7020821,
+      "word": "马丽演上沈腾丈母娘了",
+      "onboard_time": 1738076070,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 6975199,
       "num": 6975199,
       "word": "王菲嗓子无敌了",
       "onboard_time": 1738072539,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 6856616,
+      "num": 6856616,
+      "word": "易烊千玺李宇春怎么把邓超踢了",
+      "onboard_time": 1738072834,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -400,14 +416,6 @@
       "word": "撒贝宁 机器人缺两条眉毛",
       "onboard_time": 1738069063,
       "rank": 4,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 4373993,
-      "num": 4373993,
-      "word": "易烊千玺李宇春怎么把邓超踢了",
-      "onboard_time": 1738072834,
-      "rank": 7,
       "category": "综艺"
     },
     {
@@ -521,6 +529,14 @@
       "onboard_time": 1736860218,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 3642564,
+      "num": 3642564,
+      "word": "沈腾马丽小品 戛然而止",
+      "onboard_time": 1738076680,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 3638223,
@@ -731,6 +747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 3011890,
+      "num": 3011890,
+      "word": "王一博rap",
+      "onboard_time": 1738076625,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2996452,
       "num": 2996452,
       "word": "三人行 李明德",
@@ -905,6 +929,14 @@
       "onboard_time": 1735728622,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2758598,
+      "num": 2758598,
+      "word": "陈奕迅 真唱",
+      "onboard_time": 1738074999,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 2740253,
@@ -2369,38 +2401,6 @@
       "onboard_time": 1736496921,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1687435,
-      "num": 1687435,
-      "word": "123岁老人林蛇母家中去世",
-      "onboard_time": 1735825641,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1681965,
-      "num": 1681965,
-      "word": "为什么车厘子一个月到中国却不腐烂",
-      "onboard_time": 1736857099,
-      "rank": 1,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 1681041,
-      "num": 1479162,
-      "word": "黄子韬回应持续掉粉",
-      "onboard_time": 1736676920,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1679798,
-      "num": 571840,
-      "word": "白鹿 怪不得我们四个总被黑",
-      "onboard_time": 1736598568,
-      "rank": 15,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [

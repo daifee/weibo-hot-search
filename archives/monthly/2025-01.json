@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738075150537,
+  "endTime": 1738077854711,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -299,11 +299,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 7020821,
+      "num": 7020821,
+      "word": "马丽演上沈腾丈母娘了",
+      "onboard_time": 1738076070,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 6975199,
       "num": 6975199,
       "word": "王菲嗓子无敌了",
       "onboard_time": 1738072539,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 6856616,
+      "num": 6856616,
+      "word": "易烊千玺李宇春怎么把邓超踢了",
+      "onboard_time": 1738072834,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -400,14 +416,6 @@
       "word": "撒贝宁 机器人缺两条眉毛",
       "onboard_time": 1738069063,
       "rank": 4,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 4373993,
-      "num": 4373993,
-      "word": "易烊千玺李宇春怎么把邓超踢了",
-      "onboard_time": 1738072834,
-      "rank": 7,
       "category": "综艺"
     },
     {
@@ -521,6 +529,14 @@
       "onboard_time": 1736860218,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 3642564,
+      "num": 3642564,
+      "word": "沈腾马丽小品 戛然而止",
+      "onboard_time": 1738076680,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 3638223,
@@ -731,6 +747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 3011890,
+      "num": 3011890,
+      "word": "王一博rap",
+      "onboard_time": 1738076625,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2996452,
       "num": 2996452,
       "word": "三人行 李明德",
@@ -905,6 +929,14 @@
       "onboard_time": 1735728622,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2758598,
+      "num": 2758598,
+      "word": "陈奕迅 真唱",
+      "onboard_time": 1738074999,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 2740253,
@@ -3851,6 +3883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1312153,
+      "num": 1312153,
+      "word": "沈马",
+      "onboard_time": 1736622793,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1311830,
       "num": 1311830,
       "word": "魏大勋不语 只是一味地公关",
@@ -6579,6 +6619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 951797,
+      "num": 951797,
+      "word": "韩国釜山金海机场飞机失火",
+      "onboard_time": 1738074151,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 951574,
       "num": 951574,
       "word": "恋与深空强制下线",
@@ -6889,6 +6937,14 @@
       "onboard_time": 1737277818,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 921868,
+      "num": 921868,
+      "word": "沈马 小妈文学",
+      "onboard_time": 1738077036,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 921839,
@@ -10147,6 +10203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 699478,
+      "num": 699478,
+      "word": "无锡分会场 盛世繁华",
+      "onboard_time": 1738076070,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 699402,
       "num": 699402,
       "word": "捐10元家长称收到明嘲暗讽式道歉",
@@ -11859,6 +11923,14 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 624427,
+      "num": 624427,
+      "word": "薛凯琪好美",
+      "onboard_time": 1738077816,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 623921,
       "num": 623921,
       "word": "aespa宁宁减肥前后对比",
@@ -12697,6 +12769,14 @@
       "onboard_time": 1738059624,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 593726,
+      "num": 3197473,
+      "word": "包饺子",
+      "onboard_time": 1738074514,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 593539,
@@ -13777,6 +13857,14 @@
       "onboard_time": 1738070739,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 552410,
+      "num": 552410,
+      "word": "撒贝宁 夹带私货",
+      "onboard_time": 1738076263,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 552349,
@@ -15545,6 +15633,14 @@
       "onboard_time": 1738030937,
       "rank": 13,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 500055,
+      "num": 500055,
+      "word": "陈奕迅在春晚打碟",
+      "onboard_time": 1738074999,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 499883,
@@ -19251,14 +19347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 408512,
-      "num": 408512,
-      "word": "陈奕迅 真唱",
-      "onboard_time": 1738074999,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 408000,
       "num": 408000,
       "word": "李现来到了谢之遥的有风小院",
@@ -19449,6 +19537,14 @@
       "onboard_time": 1736587826,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 403382,
+      "num": 403382,
+      "word": "春晚第一个镜头给了李子柒",
+      "onboard_time": 1738076447,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 403373,
@@ -20483,14 +20579,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 384390,
-      "num": 350887,
-      "word": "韩国釜山金海机场飞机失火",
-      "onboard_time": 1738074151,
-      "rank": 47,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 384260,
       "num": 384260,
       "word": "360宣布无偿为DeepSeek提供安全服务",
@@ -21395,6 +21483,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 368158,
+      "num": 368158,
+      "word": "新年文案",
+      "onboard_time": 1738063409,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 368134,
       "num": 368134,
       "word": "乒超解说",
@@ -21875,14 +21971,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 361306,
-      "num": 361306,
-      "word": "新年文案",
-      "onboard_time": 1738063409,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 361254,
       "num": 361254,
       "word": "警方通报一男子跨年夜人群里点烟花",
@@ -22097,14 +22185,6 @@
       "onboard_time": 1737618020,
       "rank": 14,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 356810,
-      "num": 356810,
-      "word": "陈奕迅在春晚打碟",
-      "onboard_time": 1738074999,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 356702,
@@ -25483,6 +25563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 305540,
+      "num": 1978100,
+      "word": "陈梦晒年夜饭",
+      "onboard_time": 1738075178,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 305493,
       "num": 305493,
       "word": "孙颖莎回应深大幼儿园称号",
@@ -25668,7 +25756,7 @@
     },
     {
       "raw_hot": 303024,
-      "num": 303024,
+      "num": 1903301,
       "word": "DeepSeek续写红楼梦后四十回",
       "onboard_time": 1738060887,
       "rank": 33,
@@ -29347,6 +29435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 262018,
+      "num": 262018,
+      "word": "倪妮 我的玉墨",
+      "onboard_time": 1738077635,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262006,
       "num": 260194,
       "word": "陈哲远 吃了有文化的亏",
@@ -29537,6 +29633,14 @@
       "onboard_time": 1736762059,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 260490,
+      "num": 436928,
+      "word": "问界M9灯光秀排面拉满",
+      "onboard_time": 1738075768,
+      "rank": 34,
+      "category": "综艺,汽车"
     },
     {
       "raw_hot": 260484,
@@ -35811,6 +35915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 211526,
+      "num": 261362,
+      "word": "蛇年造梗大赛",
+      "onboard_time": 1738075588,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 211522,
       "num": 211522,
       "word": "特朗普说不在美生产就要缴巨额关税",
@@ -39537,6 +39649,14 @@
       "onboard_time": 1737791238,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196918,
+      "num": 259917,
+      "word": "塞尔维亚总理辞职",
+      "onboard_time": 1738077333,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 196902,
@@ -46019,14 +46139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 174366,
-      "num": 1492059,
-      "word": "包饺子",
-      "onboard_time": 1738074514,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 174352,
       "num": 341789,
       "word": "封神片尾万人名单含金量还在上升",
@@ -48025,6 +48137,14 @@
       "onboard_time": 1737137233,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 167835,
+      "num": 1298433,
+      "word": "华为手机有多抢镜",
+      "onboard_time": 1738074636,
+      "rank": 40,
+      "category": "综艺,数码"
     },
     {
       "raw_hot": 167818,
@@ -50697,6 +50817,14 @@
       "onboard_time": 1736578460,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 159413,
+      "num": 274135,
+      "word": "我的年夜饭",
+      "onboard_time": 1738059205,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 159412,
@@ -71547,14 +71675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 99225,
-      "num": 274135,
-      "word": "我的年夜饭",
-      "onboard_time": 1738059205,
-      "rank": 43,
-      "category": "美食"
-    },
-    {
       "raw_hot": 99210,
       "num": 111924,
       "word": "广州已经48天滴雨未下",
@@ -77707,14 +77827,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 67221,
-      "num": 413943,
-      "word": "华为手机有多抢镜",
-      "onboard_time": 1738074636,
-      "rank": 40,
-      "category": "综艺,数码"
-    },
-    {
       "raw_hot": 67165,
       "num": 442135,
       "word": "国色芳华满屏有风老演员",
@@ -79891,6 +80003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 54803,
+      "num": 1161220,
+      "word": "春晚后台变大型淘宝许愿现场",
+      "onboard_time": 1738076680,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 54795,
       "num": 236218,
       "word": "DRG终结AG小局连胜",
@@ -81771,14 +81891,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 45465,
-      "num": 33346,
-      "word": "沈马",
-      "onboard_time": 1736622793,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 45460,
       "num": 45460,
       "word": "放假去埃及玩的人嘴真严",
@@ -83657,6 +83769,14 @@
       "onboard_time": 1735730903,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 36297,
+      "num": 297265,
+      "word": "春晚的华流才是顶流",
+      "onboard_time": 1738076738,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 36281,

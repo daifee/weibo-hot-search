@@ -1,0 +1,410 @@
+{
+  "runTime": 1738077854711,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 13590818,
+        "num": 13590818,
+        "word": "春晚",
+        "onboard_time": 1738064609,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 7020821,
+        "num": 7020821,
+        "word": "马丽演上沈腾丈母娘了",
+        "onboard_time": 1738076070,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58824,
+        "num": 4995439,
+        "word": "蛇年新春里的中国",
+        "onboard_time": 1738071222,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6856616,
+        "num": 6856616,
+        "word": "易烊千玺李宇春怎么把邓超踢了",
+        "onboard_time": 1738072834,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3642564,
+        "num": 3642564,
+        "word": "沈腾马丽小品 戛然而止",
+        "onboard_time": 1738076680,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 593726,
+        "num": 3197473,
+        "word": "包饺子",
+        "onboard_time": 1738074514,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3011890,
+        "num": 3011890,
+        "word": "王一博rap",
+        "onboard_time": 1738076625,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2758598,
+        "num": 2758598,
+        "word": "陈奕迅 真唱",
+        "onboard_time": 1738074999,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305540,
+        "num": 1978100,
+        "word": "陈梦晒年夜饭",
+        "onboard_time": 1738075178,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241615,
+        "num": 1903301,
+        "word": "DeepSeek续写红楼梦后四十回",
+        "onboard_time": 1738060887,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 3075744,
+        "num": 1901787,
+        "word": "春晚节目单",
+        "onboard_time": 1738050440,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1899686,
+        "num": 1899686,
+        "word": "任敏美甲",
+        "onboard_time": 1738072362,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1891292,
+        "num": 1891292,
+        "word": "王菲嗓子无敌了",
+        "onboard_time": 1738072539,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1658817,
+        "num": 1658817,
+        "word": "春晚 用心",
+        "onboard_time": 1738069837,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1314151,
+        "num": 1314151,
+        "word": "刘涛 妈祖援藏",
+        "onboard_time": 1738071886,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1312153,
+        "num": 1312153,
+        "word": "沈马",
+        "onboard_time": 1738075889,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167835,
+        "num": 1298433,
+        "word": "华为手机有多抢镜",
+        "onboard_time": 1738074636,
+        "rank": 16,
+        "category": "综艺,数码"
+      },
+      {
+        "raw_hot": 269043,
+        "num": 1236101,
+        "word": "新年祝福",
+        "onboard_time": 1738062325,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158411,
+        "num": 1208675,
+        "word": "蛇年怕蛇怎么办",
+        "onboard_time": 1737992597,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54803,
+        "num": 1161220,
+        "word": "春晚后台变大型淘宝许愿现场",
+        "onboard_time": 1738076680,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1129257,
+        "num": 1129257,
+        "word": "撒贝宁的眉毛是谁画的",
+        "onboard_time": 1738067265,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 951797,
+        "num": 951797,
+        "word": "韩国釜山金海机场飞机失火",
+        "onboard_time": 1738074151,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 921868,
+        "num": 921868,
+        "word": "沈马 小妈文学",
+        "onboard_time": 1738077036,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 699478,
+        "num": 699478,
+        "word": "无锡分会场 盛世繁华",
+        "onboard_time": 1738076070,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 687948,
+        "num": 687948,
+        "word": "刘涛 母神降临",
+        "onboard_time": 1738071094,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 624427,
+        "num": 624427,
+        "word": "薛凯琪好美",
+        "onboard_time": 1738077816,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 593821,
+        "num": 593821,
+        "word": "孤勇者 儿童节目",
+        "onboard_time": 1738074514,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 560745,
+        "num": 560745,
+        "word": "花架子小品 好敢说",
+        "onboard_time": 1738074092,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 481790,
+        "num": 554366,
+        "word": "烟花",
+        "onboard_time": 1738062146,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82742,
+        "num": 552559,
+        "word": "除夕",
+        "onboard_time": 1738029916,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 552410,
+        "num": 552410,
+        "word": "撒贝宁 夹带私货",
+        "onboard_time": 1738076263,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 539299,
+        "num": 539299,
+        "word": "王菲 如听仙乐耳暂明",
+        "onboard_time": 1738072834,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 500055,
+        "num": 500055,
+        "word": "陈奕迅在春晚打碟",
+        "onboard_time": 1738074999,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 481803,
+        "num": 481803,
+        "word": "关晓彤咋这么美",
+        "onboard_time": 1738070560,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260490,
+        "num": 436928,
+        "word": "问界M9灯光秀排面拉满",
+        "onboard_time": 1738075768,
+        "rank": 34,
+        "category": "综艺,汽车"
+      },
+      {
+        "raw_hot": 403382,
+        "num": 403382,
+        "word": "春晚第一个镜头给了李子柒",
+        "onboard_time": 1738076447,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 368158,
+        "num": 368158,
+        "word": "新年文案",
+        "onboard_time": 1738063409,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 298154,
+        "num": 298154,
+        "word": "DeepSeek已被多方申请注册商标",
+        "onboard_time": 1738064789,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 36297,
+        "num": 297265,
+        "word": "春晚的华流才是顶流",
+        "onboard_time": 1738076738,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72520,
+        "num": 282779,
+        "word": "身边的年味",
+        "onboard_time": 1738057583,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403147,
+        "num": 275005,
+        "word": "机器人怎么不穿裤子",
+        "onboard_time": 1738069485,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369686,
+        "num": 269885,
+        "word": "赵雅芝叶童太配了",
+        "onboard_time": 1738067987,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262018,
+        "num": 262018,
+        "word": "倪妮 我的玉墨",
+        "onboard_time": 1738077635,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211526,
+        "num": 261362,
+        "word": "蛇年造梗大赛",
+        "onboard_time": 1738075588,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196918,
+        "num": 259917,
+        "word": "塞尔维亚总理辞职",
+        "onboard_time": 1738077333,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 178370,
+        "num": 259021,
+        "word": "红包封面",
+        "onboard_time": 1738062626,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 159413,
+        "num": 257612,
+        "word": "我的年夜饭",
+        "onboard_time": 1738059205,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 136944,
+        "num": 256849,
+        "word": "年夜饭",
+        "onboard_time": 1738052900,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 70733,
+        "num": 255496,
+        "word": "中国人从太空发回拜年视频",
+        "onboard_time": 1738072597,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59140,
+        "num": 253737,
+        "word": "除夕快乐",
+        "onboard_time": 1738066429,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的新春牵挂#"
+    }
+  }
+}
