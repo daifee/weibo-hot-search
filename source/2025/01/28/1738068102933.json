@@ -1,0 +1,410 @@
+{
+  "runTime": 1738068102933,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 18156868,
+        "num": 18156868,
+        "word": "春晚",
+        "onboard_time": 1738064609,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14301467,
+        "num": 14301467,
+        "word": "红包",
+        "onboard_time": 1738041197,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102933,
+        "num": 5425723,
+        "word": "文化中国行过年的仪式感",
+        "onboard_time": 1738053981,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 533629,
+        "num": 4964121,
+        "word": "孙颖莎王楚钦来送新春祝福啦",
+        "onboard_time": 1738065391,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5859746,
+        "num": 5859746,
+        "word": "撒贝宁的眉毛是谁画的",
+        "onboard_time": 1738067265,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 634947,
+        "num": 3799063,
+        "word": "烟花",
+        "onboard_time": 1738062146,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230207,
+        "num": 3596387,
+        "word": "星汉耀江城",
+        "onboard_time": 1738066909,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1058226,
+        "num": 3137396,
+        "word": "赵雅芝叶童太配了",
+        "onboard_time": 1738067987,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1084276,
+        "num": 2662429,
+        "word": "凤凰传奇给我唱爽了",
+        "onboard_time": 1738067203,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2324052,
+        "num": 2324052,
+        "word": "十个勤天开场",
+        "onboard_time": 1738066248,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16104723,
+        "num": 16104723,
+        "word": "陈哲远骨折",
+        "onboard_time": 1738067265,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 8935892,
+        "num": 2133358,
+        "word": "陈哲远 红包",
+        "onboard_time": 1738032856,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 6796310,
+        "num": 2095861,
+        "word": "春晚节目单",
+        "onboard_time": 1738050440,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1792033,
+        "num": 1792033,
+        "word": "陈伟霆张艺兴苏有朋 好帅",
+        "onboard_time": 1738066552,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 665033,
+        "num": 665033,
+        "word": "十个勤天春晚第一个节目",
+        "onboard_time": 1738053262,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 781551,
+        "num": 663282,
+        "word": "0713春晚表演登高",
+        "onboard_time": 1738066488,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 629433,
+        "num": 629433,
+        "word": "时代少年团亮相春晚重庆分会场",
+        "onboard_time": 1738061426,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 510187,
+        "num": 510187,
+        "word": "孙千春晚素颜出发图",
+        "onboard_time": 1738065150,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268076,
+        "num": 505084,
+        "word": "新年祝福",
+        "onboard_time": 1738062325,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249988,
+        "num": 502416,
+        "word": "蛇年怕蛇怎么办",
+        "onboard_time": 1737992597,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 780362,
+        "num": 502399,
+        "word": "王星越的红包",
+        "onboard_time": 1738053560,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501870,
+        "num": 501870,
+        "word": "DeepSeek已被多方申请注册商标",
+        "onboard_time": 1738064789,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 481869,
+        "num": 481869,
+        "word": "李宇春易烊千玺合作舞台",
+        "onboard_time": 1738052181,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 470422,
+        "num": 470422,
+        "word": "凤凰传奇好像两瓶梦之蓝",
+        "onboard_time": 1738067443,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60312,
+        "num": 469602,
+        "word": "许墨缤纷心愿",
+        "onboard_time": 1738067684,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1301327,
+        "num": 467780,
+        "word": "敖瑞鹏发了三个红包",
+        "onboard_time": 1738060044,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 481739,
+        "num": 466426,
+        "word": "卢昱晓抢到了王星越的红包",
+        "onboard_time": 1738057945,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75330,
+        "num": 465193,
+        "word": "用vivo直播神器看春晚后台",
+        "onboard_time": 1738067086,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176173,
+        "num": 463953,
+        "word": "除夕快乐",
+        "onboard_time": 1738066429,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155132,
+        "num": 463572,
+        "word": "中国乒乓球队新春祝福",
+        "onboard_time": 1738061004,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 599453,
+        "num": 461791,
+        "word": "顾茜茜 红包",
+        "onboard_time": 1738057524,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1108544,
+        "num": 460855,
+        "word": "红包分组",
+        "onboard_time": 1738058423,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 459733,
+        "num": 459733,
+        "word": "陈丽君和白蛇青蛇同台",
+        "onboard_time": 1738067746,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 422912,
+        "num": 422912,
+        "word": "小尼说魔术失误没扣工资还发奖金了",
+        "onboard_time": 1738065880,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1452505,
+        "num": 420159,
+        "word": "明星红包",
+        "onboard_time": 1738049958,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414733,
+        "num": 414733,
+        "word": "红包封面",
+        "onboard_time": 1738062626,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 392753,
+        "num": 392753,
+        "word": "谁家古风小品",
+        "onboard_time": 1738067805,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 884206,
+        "num": 392545,
+        "word": "白鹿红包",
+        "onboard_time": 1738061184,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145088,
+        "num": 389358,
+        "word": "身边的年味",
+        "onboard_time": 1738057583,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389265,
+        "num": 389265,
+        "word": "卢昱晓发红包",
+        "onboard_time": 1738055962,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384260,
+        "num": 384260,
+        "word": "360宣布无偿为DeepSeek提供安全服务",
+        "onboard_time": 1738065449,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 373390,
+        "num": 373390,
+        "word": "马凡舒真的漂亮",
+        "onboard_time": 1738067383,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372131,
+        "num": 372131,
+        "word": "李子柒十个勤天春晚同台",
+        "onboard_time": 1738062447,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355905,
+        "num": 355905,
+        "word": "宋雨琦春晚造型",
+        "onboard_time": 1738059624,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327652,
+        "num": 327652,
+        "word": "肖战新年快乐我们射雕见",
+        "onboard_time": 1738066787,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 326330,
+        "num": 326330,
+        "word": "0713应到6人实到6人",
+        "onboard_time": 1738058783,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308756,
+        "num": 308756,
+        "word": "赛琳娜哭谈美国非法移民被驱逐",
+        "onboard_time": 1738067322,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292277,
+        "num": 292277,
+        "word": "新年文案",
+        "onboard_time": 1738063409,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116530,
+        "num": 290357,
+        "word": "吃饺子",
+        "onboard_time": 1738067805,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113359,
+        "num": 284476,
+        "word": "除夕",
+        "onboard_time": 1738029916,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记深入基层的春暖情长#"
+    }
+  }
+}

@@ -1,7 +1,15 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738064156430,
+  "endTime": 1738068102933,
   "band_list": [
+    {
+      "raw_hot": 18156868,
+      "num": 18156868,
+      "word": "春晚",
+      "onboard_time": 1738064609,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 16704808,
       "num": 16704808,
@@ -9,6 +17,14 @@
       "onboard_time": 1738041197,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16104723,
+      "num": 16104723,
+      "word": "陈哲远骨折",
+      "onboard_time": 1738067265,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 11462625,
@@ -25,6 +41,14 @@
       "onboard_time": 1738032856,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 5859746,
+      "num": 5859746,
+      "word": "撒贝宁的眉毛是谁画的",
+      "onboard_time": 1738067265,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 5336076,
@@ -107,6 +131,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 2324052,
+      "num": 2324052,
+      "word": "十个勤天开场",
+      "onboard_time": 1738066248,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2128275,
       "num": 1486365,
       "word": "敖瑞鹏预告红包",
@@ -161,6 +193,14 @@
       "onboard_time": 1737947955,
       "rank": 21,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1792033,
+      "num": 1792033,
+      "word": "陈伟霆张艺兴苏有朋 好帅",
+      "onboard_time": 1738066552,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 1777241,
@@ -339,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1084276,
+      "num": 2662429,
+      "word": "凤凰传奇给我唱爽了",
+      "onboard_time": 1738067203,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1077718,
       "num": 1172434,
       "word": "张咪因癌切除半个舌头后能说话了",
@@ -361,6 +409,14 @@
       "onboard_time": 1737872898,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1058226,
+      "num": 3137396,
+      "word": "赵雅芝叶童太配了",
+      "onboard_time": 1738067987,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 1051267,
@@ -659,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 781551,
+      "num": 663282,
+      "word": "0713春晚表演登高",
+      "onboard_time": 1738066488,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 761138,
       "num": 256792,
       "word": "谢娜曾批张大大迷之自信",
@@ -779,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 665033,
+      "num": 665033,
+      "word": "十个勤天春晚第一个节目",
+      "onboard_time": 1738053262,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 658477,
       "num": 658477,
       "word": "韩国空难飞机发动机吸入花脸鸭",
@@ -833,6 +905,14 @@
       "onboard_time": 1737960976,
       "rank": 20,
       "category": "网红"
+    },
+    {
+      "raw_hot": 634947,
+      "num": 3799063,
+      "word": "烟花",
+      "onboard_time": 1738062146,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 634456,
@@ -1099,6 +1179,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 533629,
+      "num": 4964121,
+      "word": "孙颖莎王楚钦来送新春祝福啦",
+      "onboard_time": 1738065391,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 532128,
       "num": 532128,
       "word": "年轻人黄金贴手机主打一个情绪价值",
@@ -1163,14 +1251,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 516671,
-      "num": 3085220,
-      "word": "烟花",
-      "onboard_time": 1738062146,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 515745,
       "num": 200571,
       "word": "Jasper在陈小春家学历最高",
@@ -1217,6 +1297,14 @@
       "onboard_time": 1737877758,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 510187,
+      "num": 510187,
+      "word": "孙千春晚素颜出发图",
+      "onboard_time": 1738065150,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 506666,
@@ -1273,6 +1361,14 @@
       "onboard_time": 1738046958,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 501870,
+      "num": 501870,
+      "word": "DeepSeek已被多方申请注册商标",
+      "onboard_time": 1738064789,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 500832,
@@ -1435,6 +1531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 470422,
+      "num": 470422,
+      "word": "凤凰传奇好像两瓶梦之蓝",
+      "onboard_time": 1738067443,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 467260,
       "num": 343968,
       "word": "虞书欣陈靖可 狭路",
@@ -1467,11 +1571,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 458596,
-      "num": 332508,
-      "word": "十个勤天春晚第一个节目",
-      "onboard_time": 1738053262,
-      "rank": 40,
+      "raw_hot": 459733,
+      "num": 459733,
+      "word": "陈丽君和白蛇青蛇同台",
+      "onboard_time": 1738067746,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -1627,6 +1731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 422912,
+      "num": 422912,
+      "word": "小尼说魔术失误没扣工资还发奖金了",
+      "onboard_time": 1738065880,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 422381,
       "num": 241763,
       "word": "周杰伦瘦好多",
@@ -1763,6 +1875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 392753,
+      "num": 392753,
+      "word": "谁家古风小品",
+      "onboard_time": 1738067805,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 391797,
       "num": 391797,
       "word": "青簪行样片",
@@ -1843,6 +1963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 384260,
+      "num": 384260,
+      "word": "360宣布无偿为DeepSeek提供安全服务",
+      "onboard_time": 1738065449,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 382511,
       "num": 356504,
       "word": "张泉灵大赞赵丽颖",
@@ -1889,6 +2017,22 @@
       "onboard_time": 1737989119,
       "rank": 38,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 373390,
+      "num": 373390,
+      "word": "马凡舒真的漂亮",
+      "onboard_time": 1738067383,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 372131,
+      "num": 372131,
+      "word": "李子柒十个勤天春晚同台",
+      "onboard_time": 1738062447,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 370356,
@@ -2091,6 +2235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 327652,
+      "num": 327652,
+      "word": "肖战新年快乐我们射雕见",
+      "onboard_time": 1738066787,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 327152,
       "num": 327152,
       "word": "祝绪丹有钱就是任性",
@@ -2104,6 +2256,14 @@
       "word": "易烊千玺晒春晚云参演证",
       "onboard_time": 1738040356,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 326330,
+      "num": 326330,
+      "word": "0713应到6人实到6人",
+      "onboard_time": 1738058783,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -2203,6 +2363,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 308756,
+      "num": 308756,
+      "word": "赛琳娜哭谈美国非法移民被驱逐",
+      "onboard_time": 1738067322,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 307805,
       "num": 307805,
       "word": "王者荣耀 嫦娥",
@@ -2233,14 +2401,6 @@
       "onboard_time": 1737872298,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 304032,
-      "num": 304032,
-      "word": "0713应到6人实到6人",
-      "onboard_time": 1738058783,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 303673,
@@ -2977,6 +3137,14 @@
       "onboard_time": 1737816503,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 230207,
+      "num": 3596387,
+      "word": "星汉耀江城",
+      "onboard_time": 1738066909,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 229712,
@@ -4003,6 +4171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176173,
+      "num": 463953,
+      "word": "除夕快乐",
+      "onboard_time": 1738066429,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175512,
       "num": 201487,
       "word": "经纪公司回应王嘉尔病情",
@@ -4356,7 +4532,7 @@
     },
     {
       "raw_hot": 162267,
-      "num": 329213,
+      "num": 463572,
       "word": "中国乒乓球队新春祝福",
       "onboard_time": 1738061004,
       "rank": 28,
@@ -4835,6 +5011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145088,
+      "num": 666513,
+      "word": "身边的年味",
+      "onboard_time": 1738057583,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145079,
       "num": 145079,
       "word": "王俊凯生图",
@@ -4897,14 +5081,6 @@
       "onboard_time": 1738042098,
       "rank": 37,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 143991,
-      "num": 666513,
-      "word": "身边的年味",
-      "onboard_time": 1738057583,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 143968,
@@ -5963,6 +6139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116530,
+      "num": 290357,
+      "word": "吃饺子",
+      "onboard_time": 1738067805,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116477,
       "num": 116477,
       "word": "你们会告诉父母你的真实存款吗",
@@ -6545,6 +6729,14 @@
       "onboard_time": 1737806539,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102933,
+      "num": 5425723,
+      "word": "文化中国行过年的仪式感",
+      "onboard_time": 1738053981,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102812,
@@ -7651,6 +7843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75330,
+      "num": 465193,
+      "word": "用vivo直播神器看春晚后台",
+      "onboard_time": 1738067086,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 75013,
       "num": 75013,
       "word": "张绍进先生将埋葬于张纯如身旁",
@@ -7985,6 +8185,14 @@
       "onboard_time": 1737869839,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 60312,
+      "num": 469602,
+      "word": "许墨缤纷心愿",
+      "onboard_time": 1738067684,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 60023,
@@ -8457,14 +8665,6 @@
       "onboard_time": 1737827354,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 39015,
-      "num": 5201588,
-      "word": "文化中国行过年的仪式感",
-      "onboard_time": 1738053981,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 38941,

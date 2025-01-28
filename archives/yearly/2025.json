@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738064156430,
+  "endTime": 1738068102933,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -35,6 +35,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 18156868,
+      "num": 18156868,
+      "word": "春晚",
+      "onboard_time": 1738064609,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 16704808,
       "num": 16704808,
       "word": "红包",
@@ -56,6 +64,14 @@
       "word": "赵露思发长文回应",
       "onboard_time": 1735726580,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 16104723,
+      "num": 16104723,
+      "word": "陈哲远骨折",
+      "onboard_time": 1738067265,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -281,6 +297,14 @@
       "onboard_time": 1736063187,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 5859746,
+      "num": 5859746,
+      "word": "撒贝宁的眉毛是谁画的",
+      "onboard_time": 1738067265,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 4913394,
@@ -1112,6 +1136,14 @@
       "word": "田亮女儿进行下巴后缩矫正",
       "onboard_time": 1735874540,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2324052,
+      "num": 2324052,
+      "word": "十个勤天开场",
+      "onboard_time": 1737722299,
+      "rank": 39,
       "category": "综艺"
     },
     {
@@ -1963,6 +1995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1792033,
+      "num": 1792033,
+      "word": "陈伟霆张艺兴苏有朋 好帅",
+      "onboard_time": 1738066552,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1790804,
       "num": 1790804,
       "word": "星光大赏 民政局",
@@ -2361,46 +2401,6 @@
       "onboard_time": 1737336198,
       "rank": 19,
       "category": "网红,体育"
-    },
-    {
-      "raw_hot": 1634437,
-      "num": 1634437,
-      "word": "西藏定日县地震已致53人遇难",
-      "onboard_time": 1736220502,
-      "rank": 4,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 1633549,
-      "num": 690060,
-      "word": "女游客在泰国给大象洗澡被刺死",
-      "onboard_time": 1736300240,
-      "rank": 11,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1632493,
-      "num": 1632493,
-      "word": "微博之夜四大才子",
-      "onboard_time": 1736603368,
-      "rank": 10,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1630212,
-      "num": 1630212,
-      "word": "苹果官网突然降价",
-      "onboard_time": 1735786459,
-      "rank": 25,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 1627715,
-      "num": 433548,
-      "word": "吴奇隆刘诗诗结婚十周年",
-      "onboard_time": 1737439818,
-      "rank": 10,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
