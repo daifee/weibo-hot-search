@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738099238488,
+  "endTime": 1738100143100,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -17292,7 +17292,7 @@
     },
     {
       "raw_hot": 456856,
-      "num": 234181,
+      "num": 272802,
       "word": "春晚收视率",
       "onboard_time": 1738086677,
       "rank": 20,
@@ -87811,6 +87811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22471,
+      "num": 24869,
+      "word": "假如",
+      "onboard_time": 1738099271,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 22435,
       "num": 22435,
       "word": "集采药疗效医生怎么看",
@@ -88289,6 +88297,14 @@
       "onboard_time": 1737778518,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20964,
+      "num": 24862,
+      "word": "李子柒春晚战袍揭秘",
+      "onboard_time": 1738099631,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20928,
@@ -91339,6 +91355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 7247,
+      "num": 37383,
+      "word": "倪妮祝大家蛇年大吉",
+      "onboard_time": 1738099631,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 7181,
       "num": 21004,
       "word": "阿条姐山海经萌兽新年citywalk",
@@ -91385,6 +91409,14 @@
       "onboard_time": 1736360533,
       "rank": 39,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 6888,
+      "num": 32082,
+      "word": "王安宇希望新年带来更好的作品",
+      "onboard_time": 1738099992,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 6750,
