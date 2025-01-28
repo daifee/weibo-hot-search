@@ -1,6 +1,6 @@
 {
   "startTime": 1738081671448,
-  "endTime": 1738100143100,
+  "endTime": 1738102848927,
   "band_list": [
     {
       "raw_hot": 10062879,
@@ -291,19 +291,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 481297,
+      "num": 481297,
+      "word": "春晚收视率",
+      "onboard_time": 1738086677,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 478886,
       "num": 478886,
       "word": "金晨你怎么可以捅这么大的篓子",
       "onboard_time": 1738090873,
       "rank": 0,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 456856,
-      "num": 272802,
-      "word": "春晚收视率",
-      "onboard_time": 1738086677,
-      "rank": 20,
       "category": "综艺"
     },
     {
@@ -539,6 +539,14 @@
       "category": "综艺,汽车"
     },
     {
+      "raw_hot": 87589,
+      "num": 41821,
+      "word": "李子柒春晚战袍揭秘",
+      "onboard_time": 1738099631,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85622,
       "num": 102244,
       "word": "零点鞭炮",
@@ -552,6 +560,14 @@
       "word": "程潇完全是洋娃娃",
       "onboard_time": 1738088655,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 77530,
+      "num": 60202,
+      "word": "央视春晚四大美女",
+      "onboard_time": 1738101732,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -571,12 +587,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 67584,
-      "num": 67584,
+      "raw_hot": 74984,
+      "num": 74984,
       "word": "春晚首个显眼包出现了",
       "onboard_time": 1738092014,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 69948,
+      "num": 82724,
+      "word": "机器人跳完舞被搀扶有序下台",
+      "onboard_time": 1738089374,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67363,
@@ -593,14 +617,6 @@
       "onboard_time": 1738090393,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 64215,
-      "num": 82724,
-      "word": "机器人跳完舞被搀扶有序下台",
-      "onboard_time": 1738089374,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 64196,
@@ -659,6 +675,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 39159,
+      "num": 39159,
+      "word": "新年星祝福",
+      "onboard_time": 1738060705,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 36483,
+      "num": 36483,
+      "word": "马斯克质疑DeepSeek低成本训练",
+      "onboard_time": 1738102161,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 35797,
       "num": 262015,
       "word": "淘宝带1亿网友上春晚了",
@@ -683,19 +715,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 31860,
+      "num": 31860,
+      "word": "薛之谦蛇年春晚唯一的独唱男歌手",
+      "onboard_time": 1738101252,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 31070,
       "num": 31070,
       "word": "王源忘拍年夜饭",
       "onboard_time": 1738095252,
       "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 28657,
-      "num": 28657,
-      "word": "新年星祝福",
-      "onboard_time": 1738060705,
-      "rank": 37,
       "category": "艺人"
     },
     {
@@ -721,6 +753,14 @@
       "onboard_time": 1738089793,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26515,
+      "num": 26515,
+      "word": "王一博春晚舞台太燃了",
+      "onboard_time": 1738102812,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 25579,
@@ -753,14 +793,6 @@
       "onboard_time": 1738098732,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 20964,
-      "num": 24862,
-      "word": "李子柒春晚战袍揭秘",
-      "onboard_time": 1738099631,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12358,

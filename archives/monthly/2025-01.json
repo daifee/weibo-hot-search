@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738100143100,
+  "endTime": 1738102848927,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -16411,6 +16411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 481297,
+      "num": 481297,
+      "word": "春晚收视率",
+      "onboard_time": 1738086677,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 481084,
       "num": 238811,
       "word": "赵露思最初以为是鸡蛋过敏",
@@ -17289,14 +17297,6 @@
       "onboard_time": 1735902019,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 456856,
-      "num": 272802,
-      "word": "春晚收视率",
-      "onboard_time": 1738086677,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 456855,
@@ -74483,6 +74483,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 87589,
+      "num": 41821,
+      "word": "李子柒春晚战袍揭秘",
+      "onboard_time": 1738099631,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87534,
       "num": 167787,
       "word": "马龙的这份提醒很有意义",
@@ -76483,6 +76491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77530,
+      "num": 60202,
+      "word": "央视春晚四大美女",
+      "onboard_time": 1738101732,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 77420,
       "num": 108307,
       "word": "缴过社保也能算应届毕业生",
@@ -76977,6 +76993,14 @@
       "onboard_time": 1737967278,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74984,
+      "num": 74984,
+      "word": "春晚首个显眼包出现了",
+      "onboard_time": 1738092014,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 74947,
@@ -77755,6 +77779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69948,
+      "num": 82724,
+      "word": "机器人跳完舞被搀扶有序下台",
+      "onboard_time": 1738089374,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69923,
       "num": 79654,
       "word": "射雕英雄传大年初一预售票房破亿",
@@ -78097,14 +78129,6 @@
       "onboard_time": 1736679319,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 67584,
-      "num": 67584,
-      "word": "春晚首个显眼包出现了",
-      "onboard_time": 1738092014,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 67566,
@@ -78600,14 +78624,6 @@
       "word": "2025以旧换新补贴范围更广力度更大",
       "onboard_time": 1736375834,
       "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 64215,
-      "num": 82724,
-      "word": "机器人跳完舞被搀扶有序下台",
-      "onboard_time": 1738089374,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -84139,6 +84155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 36483,
+      "num": 36483,
+      "word": "马斯克质疑DeepSeek低成本训练",
+      "onboard_time": 1738102161,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 36405,
       "num": 381845,
       "word": "适合小寒节气的壁纸",
@@ -85233,6 +85257,14 @@
       "onboard_time": 1736451011,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 31860,
+      "num": 31860,
+      "word": "薛之谦蛇年春晚唯一的独唱男歌手",
+      "onboard_time": 1738101252,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 31846,
@@ -86803,6 +86835,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 26515,
+      "num": 26515,
+      "word": "王一博春晚舞台太燃了",
+      "onboard_time": 1738102812,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 26454,
       "num": 290637,
       "word": "时代少年团满载星光与梦想",
@@ -88297,14 +88337,6 @@
       "onboard_time": 1737778518,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 20964,
-      "num": 24862,
-      "word": "李子柒春晚战袍揭秘",
-      "onboard_time": 1738099631,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20928,

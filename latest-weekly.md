@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/26 00:26:10 ~ 2025/01/29 05:35:43
+本榜单时间：2025/01/26 00:26:10 ~ 2025/01/29 06:20:48
 </p>
 </blockquote>
 <p>
@@ -1551,6 +1551,12 @@ DeepSeek最想问人类什么问题（热度：505455）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E6%94%B6%E8%A7%86%E7%8E%87%23" target="weibo">
+春晚收视率（热度：481297）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%9C%80%E5%88%9D%E4%BB%A5%E4%B8%BA%E6%98%AF%E9%B8%A1%E8%9B%8B%E8%BF%87%E6%95%8F%23" target="weibo">
 赵露思最初以为是鸡蛋过敏（热度：481084）
 </a>
@@ -1637,12 +1643,6 @@ ChatGPT回应被DeepSeek超越（热度：458537）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E4%B8%80%E9%BB%91%E5%B8%AE%E5%A4%B4%E7%9B%AE%E8%A2%AB%E6%9E%AA%E6%9D%80%23" target="weibo">
 台湾一黑帮头目被枪杀（热度：457432）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E6%94%B6%E8%A7%86%E7%8E%87%23" target="weibo">
-春晚收视率（热度：456856）
 </a>
 </li>
 
@@ -6213,6 +6213,12 @@ DeepSeek团队不到140人（热度：87623）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AD%90%E6%9F%92%E6%98%A5%E6%99%9A%E6%88%98%E8%A2%8D%E6%8F%AD%E7%A7%98%23" target="weibo">
+李子柒春晚战袍揭秘（热度：87589）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E7%9A%84%E8%BF%99%E4%BB%BD%E6%8F%90%E9%86%92%E5%BE%88%E6%9C%89%E6%84%8F%E4%B9%89%23" target="weibo">
 马龙的这份提醒很有意义（热度：87534）
 </a>
@@ -6525,6 +6531,12 @@ Meta员工称高管薪资比DeepSeek成本还高（热度：79406）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E5%9B%9B%E5%A4%A7%E7%BE%8E%E5%A5%B3%23" target="weibo">
+央视春晚四大美女（热度：77530）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E7%A7%91%E5%B9%BB%E4%B9%90%E5%9B%AD%E5%81%B6%E9%81%87%E5%BC%A0%E6%B3%BD%E7%A6%B9%23" target="weibo">
 网友科幻乐园偶遇张泽禹（热度：77137）
 </a>
@@ -6605,6 +6617,12 @@ Meta员工称高管薪资比DeepSeek成本还高（热度：79406）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%8D%E8%BF%9B%E5%85%88%E7%94%9F%E5%B0%86%E5%9F%8B%E8%91%AC%E4%BA%8E%E5%BC%A0%E7%BA%AF%E5%A6%82%E8%BA%AB%E6%97%81%23" target="weibo">
 张绍进先生将埋葬于张纯如身旁（热度：75013）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E9%A6%96%E4%B8%AA%E6%98%BE%E7%9C%BC%E5%8C%85%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
+春晚首个显眼包出现了（热度：74984）
 </a>
 </li>
 
@@ -6723,6 +6741,12 @@ DeepSeek暂不对外进行项目合作（热度：74449）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%B3%E5%AE%8C%E8%88%9E%E8%A2%AB%E6%90%80%E6%89%B6%E6%9C%89%E5%BA%8F%E4%B8%8B%E5%8F%B0%23" target="weibo">
+机器人跳完舞被搀扶有序下台（热度：69948）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9F%A5%E9%81%93%E9%99%A4%E5%A4%95%E7%9A%84%E6%9D%A5%E5%8E%86%E5%90%97%23" target="weibo">
 你知道除夕的来历吗（热度：69340）
 </a>
@@ -6771,12 +6795,6 @@ DeepSeek暂不对外进行项目合作（热度：74449）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E9%A6%96%E4%B8%AA%E6%98%BE%E7%9C%BC%E5%8C%85%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
-春晚首个显眼包出现了（热度：67584）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E6%83%B3%E4%B8%93%E6%B3%A8%E4%BA%8E%E5%BD%93%E4%B8%8B%23" target="weibo">
 孙颖莎想专注于当下（热度：67566）
 </a>
@@ -6821,12 +6839,6 @@ DeepSeek暂不对外进行项目合作（热度：74449）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%B9%B4%E5%A3%81%E7%BA%B8%23" target="weibo">
 新年壁纸（热度：64970）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%B3%E5%AE%8C%E8%88%9E%E8%A2%AB%E6%90%80%E6%89%B6%E6%9C%89%E5%BA%8F%E4%B8%8B%E5%8F%B0%23" target="weibo">
-机器人跳完舞被搀扶有序下台（热度：64215）
 </a>
 </li>
 
@@ -7335,6 +7347,12 @@ IVE末放舞台（热度：37513）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%B4%A8%E7%96%91DeepSeek%E4%BD%8E%E6%88%90%E6%9C%AC%E8%AE%AD%E7%BB%83%23" target="weibo">
+马斯克质疑DeepSeek低成本训练（热度：36483）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%82%E6%9C%9F%E9%97%B4%E5%A4%9A%E5%9C%B0%E8%BD%BB%E5%BE%AE%E4%BA%A4%E9%80%9A%E8%BF%9D%E6%B3%95%E4%B8%8D%E5%A4%84%E7%BD%9A%23" target="weibo">
 春节期间多地轻微交通违法不处罚（热度：36337）
 </a>
@@ -7415,6 +7433,12 @@ IVE末放舞台（热度：37513）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2370%E7%A7%92%E8%AE%A4%E5%85%A8%E5%A4%A7%E6%B9%BE%E5%8C%BA32%E5%8F%AA%E5%A4%A7%E7%86%8A%E7%8C%AB%23" target="weibo">
 70秒认全大湾区32只大熊猫（热度：31910）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E8%9B%87%E5%B9%B4%E6%98%A5%E6%99%9A%E5%94%AF%E4%B8%80%E7%9A%84%E7%8B%AC%E5%94%B1%E7%94%B7%E6%AD%8C%E6%89%8B%23" target="weibo">
+薛之谦蛇年春晚唯一的独唱男歌手（热度：31860）
 </a>
 </li>
 
@@ -7529,6 +7553,12 @@ IVE末放舞台（热度：37513）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84SSR%23" target="weibo">
 高校有自己的SSR（热度：26594）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%98%A5%E6%99%9A%E8%88%9E%E5%8F%B0%E5%A4%AA%E7%87%83%E4%BA%86%23" target="weibo">
+王一博春晚舞台太燃了（热度：26515）
 </a>
 </li>
 
@@ -7709,12 +7739,6 @@ IVE末放舞台（热度：37513）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E7%9C%8Bemoji%E7%8C%9C%E6%98%A5%E8%81%94%23" target="weibo">
 陈伟霆看emoji猜春联（热度：21487）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AD%90%E6%9F%92%E6%98%A5%E6%99%9A%E6%88%98%E8%A2%8D%E6%8F%AD%E7%A7%98%23" target="weibo">
-李子柒春晚战袍揭秘（热度：20964）
 </a>
 </li>
 
