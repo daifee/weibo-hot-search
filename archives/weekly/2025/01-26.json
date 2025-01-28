@@ -1,10 +1,10 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738052892394,
+  "endTime": 1738053676870,
   "band_list": [
     {
-      "raw_hot": 11389672,
-      "num": 11389672,
+      "raw_hot": 11462625,
+      "num": 11462625,
       "word": "春晚节目单",
       "onboard_time": 1738050440,
       "rank": 0,
@@ -19,8 +19,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 4264272,
-      "num": 4264272,
+      "raw_hot": 4508899,
+      "num": 4508899,
       "word": "红包",
       "onboard_time": 1738041197,
       "rank": 1,
@@ -835,6 +835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 577726,
+      "num": 232451,
+      "word": "王星越的红包",
+      "onboard_time": 1738053560,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 568860,
       "num": 459437,
       "word": "赵露思康复过程好多奶奶的身影",
@@ -857,6 +865,14 @@
       "onboard_time": 1737936255,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 562045,
+      "num": 297044,
+      "word": "李宇春易烊千玺合作舞台",
+      "onboard_time": 1738052181,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 560484,
@@ -905,6 +921,14 @@
       "onboard_time": 1737800899,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 549624,
+      "num": 228654,
+      "word": "王一博萧敬腾春晚我可以",
+      "onboard_time": 1738051942,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 545945,
@@ -1219,14 +1243,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 477951,
-      "num": 297044,
-      "word": "李宇春易烊千玺合作舞台",
-      "onboard_time": 1738052181,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 477290,
       "num": 477290,
       "word": "泰国多名军警人员涉绑架案被拘捕",
@@ -1385,6 +1401,14 @@
       "onboard_time": 1737878899,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 436323,
+      "num": 218119,
+      "word": "柴安五花大绑俏新郎",
+      "onboard_time": 1738041138,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 434481,
@@ -1699,14 +1723,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 366781,
-      "num": 179974,
-      "word": "王一博萧敬腾春晚我可以",
-      "onboard_time": 1738051942,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 365871,
       "num": 365871,
       "word": "封神解释家和家人的意义",
@@ -1729,6 +1745,14 @@
       "onboard_time": 1737904340,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 357230,
+      "num": 357230,
+      "word": "DeepSeek创始人17岁成学校状元考入浙大",
+      "onboard_time": 1738050859,
+      "rank": 5,
+      "category": "互联网"
     },
     {
       "raw_hot": 356002,
@@ -1761,14 +1785,6 @@
       "onboard_time": 1737965657,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 345800,
-      "num": 345800,
-      "word": "DeepSeek创始人17岁成学校状元考入浙大",
-      "onboard_time": 1738050859,
-      "rank": 5,
-      "category": "互联网"
     },
     {
       "raw_hot": 343051,
@@ -1884,7 +1900,7 @@
     },
     {
       "raw_hot": 325732,
-      "num": 191885,
+      "num": 223889,
       "word": "封神里的神仙还是太全面了",
       "onboard_time": 1738051642,
       "rank": 22,
@@ -2171,6 +2187,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 282216,
+      "num": 168890,
+      "word": "春晚大赏明星红包名单",
+      "onboard_time": 1738052121,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 281439,
       "num": 281439,
       "word": "易烊千玺说刘春和是影响最深的角色",
@@ -2185,6 +2209,14 @@
       "onboard_time": 1737974296,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 278758,
+      "num": 160957,
+      "word": "沈腾马丽这次演什么关系",
+      "onboard_time": 1738053379,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 278301,
@@ -2371,14 +2403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 255868,
-      "num": 168890,
-      "word": "春晚大赏明星红包名单",
-      "onboard_time": 1738052121,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 255537,
       "num": 255537,
       "word": "幻云发博回应被骗",
@@ -2457,6 +2481,14 @@
       "onboard_time": 1738021274,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 245566,
+      "num": 131711,
+      "word": "十个勤天春晚第一个节目",
+      "onboard_time": 1738053262,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 245395,
@@ -2619,6 +2651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233543,
+      "num": 233543,
+      "word": "年夜饭",
+      "onboard_time": 1737971477,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 231735,
       "num": 231735,
       "word": "永远会被生活中的暖心瞬间击中",
@@ -2745,6 +2785,14 @@
       "onboard_time": 1737816262,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 220538,
+      "num": 158594,
+      "word": "张凌赫送祝福视听双享受",
+      "onboard_time": 1738047018,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 220173,
@@ -2884,7 +2932,7 @@
     },
     {
       "raw_hot": 211766,
-      "num": 211766,
+      "num": 224416,
       "word": "陈乔恩Alan马来西亚逛街",
       "onboard_time": 1738047678,
       "rank": 23,
@@ -3179,14 +3227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195369,
-      "num": 158594,
-      "word": "张凌赫送祝福视听双享受",
-      "onboard_time": 1738047018,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 195001,
       "num": 195001,
       "word": "河南除雪火力全开",
@@ -3307,14 +3347,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 190559,
-      "num": 190559,
-      "word": "柴安五花大绑俏新郎",
-      "onboard_time": 1738041138,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 190507,
       "num": 155226,
       "word": "上城士杨幂开年封面",
@@ -3377,6 +3409,14 @@
       "onboard_time": 1738047918,
       "rank": 32,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 188862,
+      "num": 228243,
+      "word": "一人一句迎接蛇年春节",
+      "onboard_time": 1738052542,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 188828,
@@ -3785,14 +3825,6 @@
       "onboard_time": 1737864498,
       "rank": 18,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 167902,
-      "num": 167902,
-      "word": "年夜饭",
-      "onboard_time": 1737971477,
-      "rank": 24,
-      "category": "美食"
     },
     {
       "raw_hot": 167441,
@@ -5099,14 +5131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 127178,
-      "num": 151705,
-      "word": "一人一句迎接蛇年春节",
-      "onboard_time": 1738052542,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 127173,
       "num": 127173,
       "word": "郭晓东郭晓峰为村修路建桥打井",
@@ -5891,6 +5915,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 108130,
+      "num": 115246,
+      "word": "Deepseek 文笔",
+      "onboard_time": 1738049599,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 108063,
       "num": 108063,
       "word": "美国向哥伦比亚挥舞制裁大棒",
@@ -5993,14 +6025,6 @@
       "onboard_time": 1737814762,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 106093,
-      "num": 106093,
-      "word": "Deepseek 文笔",
-      "onboard_time": 1738049599,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 106046,
@@ -6564,7 +6588,7 @@
     },
     {
       "raw_hot": 92070,
-      "num": 92070,
+      "num": 181092,
       "word": "过年是刻在中国人DNA里的仪式感",
       "onboard_time": 1738022474,
       "rank": 32,
@@ -6665,6 +6689,14 @@
       "onboard_time": 1738017251,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 88879,
+      "num": 226375,
+      "word": "两根菜薹卖18888元引质疑",
+      "onboard_time": 1738052661,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88513,
@@ -7603,6 +7635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 57395,
+      "num": 301855,
+      "word": "广西两地倡议春节少发压岁钱",
+      "onboard_time": 1738052421,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56908,
       "num": 64791,
       "word": "厦门福州泉州震感",
@@ -7843,20 +7883,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44116,
+      "num": 172681,
+      "word": "AI创作大赛",
+      "onboard_time": 1738052600,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 43509,
       "num": 193444,
       "word": "美国已使用军机驱逐数百非法移民",
       "onboard_time": 1737882440,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 43086,
-      "num": 172681,
-      "word": "AI创作大赛",
-      "onboard_time": 1738052600,
-      "rank": 29,
-      "category": "互联网"
     },
     {
       "raw_hot": 43027,
@@ -7979,6 +8019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37791,
+      "num": 2790548,
+      "word": "春联中藏着中国年独有的浪漫与美好",
+      "onboard_time": 1738052480,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37513,
       "num": 109150,
       "word": "IVE末放舞台",
@@ -8049,14 +8097,6 @@
       "onboard_time": 1737912554,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 33115,
-      "num": 301855,
-      "word": "广西两地倡议春节少发压岁钱",
-      "onboard_time": 1738052421,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32909,
@@ -8313,14 +8353,6 @@
       "onboard_time": 1738018632,
       "rank": 48,
       "category": "互联网,数码"
-    },
-    {
-      "raw_hot": 23728,
-      "num": 177841,
-      "word": "两根菜薹卖18888元引质疑",
-      "onboard_time": 1738052661,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23719,
@@ -8611,14 +8643,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 10747,
-      "num": 2241419,
-      "word": "春联中藏着中国年独有的浪漫与美好",
-      "onboard_time": 1738052480,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 10738,
       "num": 45389,
       "word": "外交部向全球推介2025河南春晚",
@@ -8778,6 +8802,9 @@
     },
     {
       "word": "#让大家笑容更多心里更暖#"
+    },
+    {
+      "word": "#知心暖心福进万家#"
     }
   ]
 }
