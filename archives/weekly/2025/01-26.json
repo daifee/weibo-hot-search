@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738103923466,
+  "endTime": 1738106443719,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -867,6 +867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 985456,
+      "num": 985456,
+      "word": "春晚收视率",
+      "onboard_time": 1738086677,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 967513,
       "num": 803352,
       "word": "顾茜茜 红包",
@@ -1595,14 +1603,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 583972,
-      "num": 583972,
-      "word": "春晚收视率",
-      "onboard_time": 1738086677,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 583938,
       "num": 977309,
       "word": "除夕到初三加班不能用事后调休替代",
@@ -1616,6 +1616,14 @@
       "word": "丁禹兮以为上春晚可以瞒着父母",
       "onboard_time": 1738054342,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 576171,
+      "num": 576171,
+      "word": "金晨你怎么可以捅这么大的篓子",
+      "onboard_time": 1738090873,
+      "rank": 0,
       "category": "综艺"
     },
     {
@@ -2080,14 +2088,6 @@
       "word": "东方卫视蛇年春晚阵容",
       "onboard_time": 1737975137,
       "rank": 6,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 478886,
-      "num": 478886,
-      "word": "金晨你怎么可以捅这么大的篓子",
-      "onboard_time": 1738090873,
-      "rank": 0,
       "category": "综艺"
     },
     {
@@ -3939,6 +3939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 221759,
+      "num": 108991,
+      "word": "央视春晚四大美女",
+      "onboard_time": 1738101732,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221402,
       "num": 221402,
       "word": "重庆一对新人结婚仅隔一面墙接亲",
@@ -4379,6 +4387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199684,
+      "num": 199684,
+      "word": "蛇年第一天接好运",
+      "onboard_time": 1738089674,
+      "rank": 19,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 199382,
       "num": 199382,
       "word": "丁禹兮谈第一次上春晚",
@@ -4472,6 +4488,14 @@
       "word": "桐心薇泯十指紧扣",
       "onboard_time": 1738045577,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 196775,
+      "num": 196775,
+      "word": "春晚首个显眼包出现了",
+      "onboard_time": 1738092014,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -5827,14 +5851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146293,
-      "num": 146293,
-      "word": "蛇年第一天接好运",
-      "onboard_time": 1738089674,
-      "rank": 19,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 146007,
       "num": 146007,
       "word": "田曦薇逐玉赶猪路透",
@@ -6137,6 +6153,14 @@
       "onboard_time": 1738041617,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138392,
+      "num": 138392,
+      "word": "射雕",
+      "onboard_time": 1738105815,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 138278,
@@ -6489,6 +6513,14 @@
       "onboard_time": 1738063948,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129587,
+      "num": 129587,
+      "word": "机器人跳完舞被搀扶有序下台",
+      "onboard_time": 1738089374,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129327,
@@ -6883,14 +6915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 120761,
-      "num": 68214,
-      "word": "央视春晚四大美女",
-      "onboard_time": 1738101732,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 120612,
       "num": 215239,
       "word": "一人一道年夜菜",
@@ -7075,6 +7099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115866,
+      "num": 115866,
+      "word": "马斯克质疑DeepSeek低成本训练",
+      "onboard_time": 1738102161,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 115611,
       "num": 115611,
       "word": "没想到杭帮菜才是年夜饭的王炸",
@@ -7145,6 +7177,14 @@
       "onboard_time": 1737887297,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 114097,
+      "num": 95259,
+      "word": "李子柒春晚战袍揭秘",
+      "onboard_time": 1738099631,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113927,
@@ -7368,14 +7408,6 @@
       "word": "广东韶关气温断崖下跌",
       "onboard_time": 1737878538,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 108822,
-      "num": 51394,
-      "word": "李子柒春晚战袍揭秘",
-      "onboard_time": 1738099631,
-      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -7995,12 +8027,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 95913,
-      "num": 95913,
-      "word": "春晚首个显眼包出现了",
-      "onboard_time": 1738092014,
-      "rank": 41,
-      "category": "综艺"
+      "raw_hot": 96039,
+      "num": 96039,
+      "word": "她1小时写完王菲新歌的词",
+      "onboard_time": 1738106295,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 95885,
@@ -8096,6 +8128,14 @@
       "word": "大侦探合议庭",
       "onboard_time": 1737966436,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 94169,
+      "num": 94169,
+      "word": "薛之谦蛇年春晚唯一的独唱男歌手",
+      "onboard_time": 1738101252,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -8459,14 +8499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 83386,
-      "num": 83386,
-      "word": "机器人跳完舞被搀扶有序下台",
-      "onboard_time": 1738089374,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 83368,
       "num": 83368,
       "word": "广西大扫除难度等级TOP1",
@@ -8755,6 +8787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76707,
+      "num": 76707,
+      "word": "王一博春晚后的第一个采访",
+      "onboard_time": 1738105334,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 76402,
       "num": 76402,
       "word": "王源一人分饰两角",
@@ -8833,6 +8873,14 @@
       "onboard_time": 1737939317,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74622,
+      "num": 74622,
+      "word": "朱一龙李现夜跑",
+      "onboard_time": 1738104134,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 74449,
@@ -8995,6 +9043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69090,
+      "num": 69090,
+      "word": "岳云鹏春晚换搭档了",
+      "onboard_time": 1738105935,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 68916,
       "num": 68916,
       "word": "敖瑞鹏 宽肩窄腰",
@@ -9155,6 +9211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62644,
+      "num": 62644,
+      "word": "李子柒春晚开场",
+      "onboard_time": 1738076447,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 61777,
       "num": 168919,
       "word": "刘宇与粉丝双向奔赴MV",
@@ -9169,6 +9233,14 @@
       "onboard_time": 1737987919,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 61449,
+      "num": 61449,
+      "word": "被跳舞的易烊千玺帅到了",
+      "onboard_time": 1738101971,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 60847,
@@ -9225,6 +9297,14 @@
       "onboard_time": 1737874518,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 59040,
+      "num": 105538,
+      "word": "领舞7岁娃是英歌舞传人",
+      "onboard_time": 1738106055,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59018,
@@ -9403,14 +9483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 53544,
-      "num": 53544,
-      "word": "马斯克质疑DeepSeek低成本训练",
-      "onboard_time": 1738102161,
-      "rank": 38,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 53319,
       "num": 53319,
       "word": "蛇年大吉",
@@ -9547,12 +9619,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 47291,
-      "num": 47291,
-      "word": "薛之谦蛇年春晚唯一的独唱男歌手",
-      "onboard_time": 1738101252,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 47211,
+      "num": 55625,
+      "word": "电子榨菜祝福语集锦",
+      "onboard_time": 1738106115,
+      "rank": 49,
+      "category": "正能量"
     },
     {
       "raw_hot": 46875,
@@ -9849,14 +9921,6 @@
       "onboard_time": 1737883038,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 34742,
-      "num": 34742,
-      "word": "被跳舞的易烊千玺帅到了",
-      "onboard_time": 1738101971,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 33741,
@@ -10473,6 +10537,14 @@
       "onboard_time": 1737949096,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 13315,
+      "num": 103427,
+      "word": "九尾除夕开播",
+      "onboard_time": 1738106055,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 13062,
