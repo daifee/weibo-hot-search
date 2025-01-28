@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738049740484,
+  "endTime": 1738052892394,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -89,6 +89,14 @@
       "onboard_time": 1736053351,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 11389672,
+      "num": 11389672,
+      "word": "春晚节目单",
+      "onboard_time": 1738050440,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 11170639,
@@ -1643,6 +1651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1906556,
+      "num": 338395,
+      "word": "祝绪丹发红包",
+      "onboard_time": 1738050679,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1902331,
       "num": 1902331,
       "word": "刘畅 人设",
@@ -2977,6 +2993,14 @@
       "onboard_time": 1737676337,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1452881,
+      "num": 336627,
+      "word": "明星红包",
+      "onboard_time": 1738049958,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 1451273,
@@ -13083,6 +13107,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 555670,
+      "num": 312422,
+      "word": "周翊然发了2个20250元红包",
+      "onboard_time": 1738049719,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 555618,
       "num": 555618,
       "word": "王者荣耀甄姬",
@@ -15131,6 +15163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 494210,
+      "num": 368314,
+      "word": "迪丽热巴年度收官朋友圈",
+      "onboard_time": 1738049359,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 494036,
       "num": 494036,
       "word": "成都Wolves对战MRC",
@@ -15665,6 +15705,14 @@
       "onboard_time": 1737379818,
       "rank": 18,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 477951,
+      "num": 297044,
+      "word": "李宇春易烊千玺合作舞台",
+      "onboard_time": 1738052181,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 477423,
@@ -19067,14 +19115,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 397804,
-      "num": 368314,
-      "word": "迪丽热巴年度收官朋友圈",
-      "onboard_time": 1738049359,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 397692,
       "num": 397692,
       "word": "张曼玉梁朝伟只拿到了两页剧本",
@@ -20035,6 +20075,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 378796,
+      "num": 193212,
+      "word": "蛇年春晚节目单公布",
+      "onboard_time": 1738050980,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 378634,
       "num": 378634,
       "word": "爱奇艺排播",
@@ -20809,6 +20857,14 @@
       "onboard_time": 1736851098,
       "rank": 44,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 366781,
+      "num": 179974,
+      "word": "王一博萧敬腾春晚我可以",
+      "onboard_time": 1738051942,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 366609,
@@ -21659,6 +21715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 351363,
+      "num": 179709,
+      "word": "时代少年团央视春晚有两个节目",
+      "onboard_time": 1738051039,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 351139,
       "num": 462195,
       "word": "大奉打更人正被翻译成13种语言",
@@ -21993,6 +22057,14 @@
       "onboard_time": 1736065047,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 345800,
+      "num": 345800,
+      "word": "DeepSeek创始人17岁成学校状元考入浙大",
+      "onboard_time": 1738050859,
+      "rank": 5,
+      "category": "互联网"
     },
     {
       "raw_hot": 345772,
@@ -22867,6 +22939,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 330833,
+      "num": 365891,
+      "word": "猪皮冻",
+      "onboard_time": 1738047739,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 330712,
       "num": 330712,
       "word": "苏醒 住宿条件断崖式下降",
@@ -23209,6 +23289,14 @@
       "onboard_time": 1737534897,
       "rank": 21,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 325732,
+      "num": 191885,
+      "word": "封神里的神仙还是太全面了",
+      "onboard_time": 1738051642,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 325642,
@@ -29099,6 +29187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 255868,
+      "num": 168890,
+      "word": "春晚大赏明星红包名单",
+      "onboard_time": 1738052121,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255786,
       "num": 255786,
       "word": "雷军把内部大奖升级到千万",
@@ -29801,14 +29897,6 @@
       "onboard_time": 1737435138,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 249889,
-      "num": 365891,
-      "word": "猪皮冻",
-      "onboard_time": 1738047739,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 249790,
@@ -31499,6 +31587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234254,
+      "num": 163448,
+      "word": "陷入我们的热恋",
+      "onboard_time": 1738051761,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 234243,
       "num": 234243,
       "word": "车厘子是血糖友好型水果",
@@ -31537,6 +31633,14 @@
       "onboard_time": 1736827278,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 234053,
+      "num": 160609,
+      "word": "葛夕晒和黄圣依小酌照片",
+      "onboard_time": 1738051341,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 234044,
@@ -38843,6 +38947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195369,
+      "num": 158594,
+      "word": "张凌赫送祝福视听双享受",
+      "onboard_time": 1738047018,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195355,
       "num": 200916,
       "word": "王楚钦2025首战开门红",
@@ -44457,6 +44569,14 @@
       "onboard_time": 1737601818,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176268,
+      "num": 176268,
+      "word": "老外被春节硬控了一次又一次",
+      "onboard_time": 1738051642,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176167,
@@ -60715,6 +60835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127178,
+      "num": 151705,
+      "word": "一人一句迎接蛇年春节",
+      "onboard_time": 1738052542,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127173,
       "num": 127173,
       "word": "郭晓东郭晓峰为村修路建桥打井",
@@ -66987,14 +67115,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 110404,
-      "num": 110404,
-      "word": "周翊然发了2个20250元红包",
-      "onboard_time": 1738049719,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 110374,
       "num": 110374,
       "word": "我的洗澡搭子是只猫",
@@ -67740,7 +67860,7 @@
     },
     {
       "raw_hot": 108027,
-      "num": 262114,
+      "num": 329761,
       "word": "全球同庆中国年",
       "onboard_time": 1738041496,
       "rank": 46,
@@ -68299,6 +68419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106093,
+      "num": 106093,
+      "word": "Deepseek 文笔",
+      "onboard_time": 1738049599,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 106069,
       "num": 106069,
       "word": "谁懂文淇眼神的杀伤力",
@@ -68505,14 +68633,6 @@
       "onboard_time": 1737765858,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 105622,
-      "num": 105622,
-      "word": "Deepseek 文笔",
-      "onboard_time": 1738049599,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 105618,
@@ -74283,6 +74403,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 80660,
+      "num": 1639409,
+      "word": "中国年惊艳世界",
+      "onboard_time": 1738045758,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80632,
       "num": 143040,
       "word": "央行继续买金",
@@ -78099,14 +78227,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 57125,
-      "num": 1639409,
-      "word": "中国年惊艳世界",
-      "onboard_time": 1738045758,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 57122,
       "num": 85221,
       "word": "请永远将自己的感觉置顶",
@@ -80899,6 +81019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43086,
+      "num": 172681,
+      "word": "AI创作大赛",
+      "onboard_time": 1738052600,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 43080,
       "num": 97532,
       "word": "赵睿被驱逐",
@@ -83089,6 +83217,14 @@
       "onboard_time": 1735813579,
       "rank": 19,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 33115,
+      "num": 301855,
+      "word": "广西两地倡议春节少发压岁钱",
+      "onboard_time": 1738052421,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33035,
@@ -85571,6 +85707,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 23728,
+      "num": 177841,
+      "word": "两根菜薹卖18888元引质疑",
+      "onboard_time": 1738052661,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23719,
       "num": 154718,
       "word": "女主演说短剧让普通演员更容易被看到",
@@ -87747,6 +87891,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 15245,
+      "num": 182471,
+      "word": "陈梦祝大家新春快乐",
+      "onboard_time": 1738051820,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 15234,
       "num": 18960,
       "word": "刘耀文熊猫玩偶自拍",
@@ -88248,6 +88400,14 @@
       "word": "陶喆唱的满头大汗",
       "onboard_time": 1735757352,
       "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 13062,
+      "num": 296170,
+      "word": "骑着雅迪上春晚",
+      "onboard_time": 1738050199,
+      "rank": 16,
       "category": "综艺"
     },
     {
@@ -88784,6 +88944,14 @@
       "word": "辽宁大叔一个人一把锹造出一片林",
       "onboard_time": 1736277372,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10747,
+      "num": 2241419,
+      "word": "春联中藏着中国年独有的浪漫与美好",
+      "onboard_time": 1738052480,
+      "rank": 2,
       "category": "民生新闻"
     },
     {

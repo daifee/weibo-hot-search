@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738049740484,
+  "endTime": 1738052892394,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -89,6 +89,14 @@
       "onboard_time": 1736053351,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 11389672,
+      "num": 11389672,
+      "word": "春晚节目单",
+      "onboard_time": 1738050440,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 11170639,
@@ -1643,6 +1651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1906556,
+      "num": 338395,
+      "word": "祝绪丹发红包",
+      "onboard_time": 1738050679,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1902331,
       "num": 1902331,
       "word": "刘畅 人设",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1736408481,
       "rank": 0,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 1606249,
-      "num": 1606249,
-      "word": "马斯克称X不被允许在中国运营需改变",
-      "onboard_time": 1737366617,
-      "rank": 3,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 1601150,
-      "num": 1601150,
-      "word": "广东1岁男婴吃果冻窒息身亡",
-      "onboard_time": 1737603617,
-      "rank": 0,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
