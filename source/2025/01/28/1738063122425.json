@@ -1,0 +1,410 @@
+{
+  "runTime": 1738063122425,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 14756759,
+        "num": 14756759,
+        "word": "红包",
+        "onboard_time": 1738041197,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 7522961,
+        "num": 7522961,
+        "word": "陈哲远 红包",
+        "onboard_time": 1738032856,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32441,
+        "num": 4763057,
+        "word": "文化中国行过年的仪式感",
+        "onboard_time": 1738053981,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5730249,
+        "num": 5730249,
+        "word": "春晚节目单",
+        "onboard_time": 1738050440,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3128307,
+        "num": 3128307,
+        "word": "敖瑞鹏发了三个红包",
+        "onboard_time": 1738060044,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483418,
+        "num": 3085220,
+        "word": "烟花",
+        "onboard_time": 1738062146,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3055513,
+        "num": 3055513,
+        "word": "白鹿红包",
+        "onboard_time": 1738061184,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1777241,
+        "num": 1777241,
+        "word": "明星红包",
+        "onboard_time": 1738049958,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305486,
+        "num": 1101785,
+        "word": "新年祝福",
+        "onboard_time": 1738062325,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1058185,
+        "num": 1058185,
+        "word": "红包分组",
+        "onboard_time": 1738058423,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1037031,
+        "num": 1037031,
+        "word": "王星越的红包",
+        "onboard_time": 1738053560,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 995735,
+        "num": 995735,
+        "word": "陈哲远 直拍来了",
+        "onboard_time": 1737984500,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 832654,
+        "num": 832654,
+        "word": "李宇春易烊千玺合作舞台",
+        "onboard_time": 1738052181,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 803352,
+        "num": 803352,
+        "word": "顾茜茜 红包",
+        "onboard_time": 1738057524,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 752847,
+        "num": 752847,
+        "word": "年夜饭",
+        "onboard_time": 1738052900,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 965827,
+        "num": 707276,
+        "word": "卢昱晓抢到了王星越的红包",
+        "onboard_time": 1738057945,
+        "rank": 15,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 592132,
+        "num": 592132,
+        "word": "宋雨琦春晚造型",
+        "onboard_time": 1738059624,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79214,
+        "num": 590629,
+        "word": "新年星祝福",
+        "onboard_time": 1738060705,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205566,
+        "num": 590426,
+        "word": "除夕",
+        "onboard_time": 1738029916,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194318,
+        "num": 587536,
+        "word": "两根菜薹卖18888元引质疑",
+        "onboard_time": 1738052661,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 653804,
+        "num": 586538,
+        "word": "柴安五花大绑俏新郎",
+        "onboard_time": 1738041138,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 585832,
+        "num": 585832,
+        "word": "时代少年团亮相春晚重庆分会场",
+        "onboard_time": 1738061426,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 518997,
+        "num": 518997,
+        "word": "陈都灵空降",
+        "onboard_time": 1738060345,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 500369,
+        "num": 500369,
+        "word": "红包封面",
+        "onboard_time": 1738062626,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 154852,
+        "num": 463616,
+        "word": "AG年夜饭的仪式感",
+        "onboard_time": 1738061004,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 436543,
+        "num": 436543,
+        "word": "陈鹤一 本人是自愿发红包给大家的",
+        "onboard_time": 1738062626,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342336,
+        "num": 342336,
+        "word": "卢昱晓发红包",
+        "onboard_time": 1738055962,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173184,
+        "num": 330366,
+        "word": "蛇年怕蛇怎么办",
+        "onboard_time": 1737992597,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162267,
+        "num": 329213,
+        "word": "中国乒乓球队新春祝福",
+        "onboard_time": 1738061004,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 328378,
+        "num": 328378,
+        "word": "张凌赫送祝福视听双享受",
+        "onboard_time": 1738047018,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325181,
+        "num": 325181,
+        "word": "丁禹兮以为上春晚可以瞒着父母",
+        "onboard_time": 1738054342,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311413,
+        "num": 311413,
+        "word": "祝绪丹有钱就是任性",
+        "onboard_time": 1738061906,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307236,
+        "num": 307236,
+        "word": "王一博萧敬腾春晚我可以",
+        "onboard_time": 1738051942,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300832,
+        "num": 300832,
+        "word": "DeepSeek续写红楼梦后四十回",
+        "onboard_time": 1738060887,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 296890,
+        "num": 296890,
+        "word": "春晚5个小品",
+        "onboard_time": 1738056442,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284675,
+        "num": 284675,
+        "word": "周深春晚开始文化输出",
+        "onboard_time": 1738055120,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263418,
+        "num": 263418,
+        "word": "王菲真的来了",
+        "onboard_time": 1738056744,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250523,
+        "num": 250523,
+        "word": "王安宇穿家乡非遗上春晚",
+        "onboard_time": 1738061966,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231928,
+        "num": 231928,
+        "word": "何猷君奚梦瑶一家澳洲过年",
+        "onboard_time": 1738062927,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112989,
+        "num": 229339,
+        "word": "小狗被踩狗妈一秒冲出护崽开骂",
+        "onboard_time": 1738055120,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227900,
+        "num": 227900,
+        "word": "周翊然发了2个20250元红包",
+        "onboard_time": 1738049719,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223501,
+        "num": 223501,
+        "word": "梁洁发红包",
+        "onboard_time": 1738048218,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207380,
+        "num": 207380,
+        "word": "迪丽热巴年度收官朋友圈",
+        "onboard_time": 1738049359,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203878,
+        "num": 203878,
+        "word": "程潇美得像个年画娃娃",
+        "onboard_time": 1738060945,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201622,
+        "num": 201622,
+        "word": "王一博2025蛇年央视春晚造型",
+        "onboard_time": 1738062026,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201564,
+        "num": 201564,
+        "word": "拜年",
+        "onboard_time": 1738063048,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200989,
+        "num": 200989,
+        "word": "薛之谦说春晚歌曲和方言有关",
+        "onboard_time": 1738061906,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191794,
+        "num": 191794,
+        "word": "左航在街上有拍了拍",
+        "onboard_time": 1738062507,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107830,
+        "num": 190962,
+        "word": "身边的年味",
+        "onboard_time": 1738057583,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93421,
+        "num": 190962,
+        "word": "春节摄影大赛",
+        "onboard_time": 1738045337,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#知心暖心福进万家#"
+    }
+  }
+}
