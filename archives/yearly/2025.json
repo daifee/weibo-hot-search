@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738070795853,
+  "endTime": 1738071475488,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -83,8 +83,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 12275995,
-      "num": 12275995,
+      "raw_hot": 12629127,
+      "num": 12629127,
       "word": "建议岳云鹏别上春晚",
       "onboard_time": 1738069185,
       "rank": 1,
@@ -384,6 +384,14 @@
       "word": "撒贝宁 机器人缺两条眉毛",
       "onboard_time": 1738069063,
       "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 4397423,
+      "num": 4397423,
+      "word": "沈腾马丽 你们怎么在唱歌",
+      "onboard_time": 1738070443,
+      "rank": 8,
       "category": "综艺"
     },
     {
@@ -993,14 +1001,6 @@
       "onboard_time": 1736326824,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2482895,
-      "num": 2482895,
-      "word": "沈腾马丽 你们怎么在唱歌",
-      "onboard_time": 1738070443,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 2479162,
@@ -2171,6 +2171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1733466,
+      "num": 1733466,
+      "word": "刘涛 母神降临",
+      "onboard_time": 1738071094,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1731317,
       "num": 1731317,
       "word": "蛇钞",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736897897,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1665379,
-      "num": 1665379,
-      "word": "本科毕业入伍不到1年立一等功",
-      "onboard_time": 1737105860,
-      "rank": 24,
-      "category": "正能量"
     }
   ],
   "hotgov_list": [

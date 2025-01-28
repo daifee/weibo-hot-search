@@ -1,6 +1,6 @@
 {
   "startTime": 1737995245772,
-  "endTime": 1738070795853,
+  "endTime": 1738071475488,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -27,8 +27,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 12275995,
-      "num": 12275995,
+      "raw_hot": 12629127,
+      "num": 12629127,
       "word": "建议岳云鹏别上春晚",
       "onboard_time": 1738069185,
       "rank": 1,
@@ -72,6 +72,14 @@
       "word": "撒贝宁 机器人缺两条眉毛",
       "onboard_time": 1738069063,
       "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 4397423,
+      "num": 4397423,
+      "word": "沈腾马丽 你们怎么在唱歌",
+      "onboard_time": 1738070443,
+      "rank": 8,
       "category": "综艺"
     },
     {
@@ -121,14 +129,6 @@
       "onboard_time": 1738061184,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2482895,
-      "num": 2482895,
-      "word": "沈腾马丽 你们怎么在唱歌",
-      "onboard_time": 1738070443,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 2324052,
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1733466,
+      "num": 1733466,
+      "word": "刘涛 母神降临",
+      "onboard_time": 1738071094,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1661596,
       "num": 748395,
       "word": "李昀锐红包",
@@ -217,6 +225,14 @@
       "onboard_time": 1738057945,
       "rank": 10,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 1535833,
+      "num": 1323832,
+      "word": "机器人怎么不穿裤子",
+      "onboard_time": 1738069485,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 1478128,
@@ -280,14 +296,6 @@
       "word": "时代少年团镜头",
       "onboard_time": 1738069428,
       "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1187189,
-      "num": 1187189,
-      "word": "机器人怎么不穿裤子",
-      "onboard_time": 1738069485,
-      "rank": 26,
       "category": "综艺"
     },
     {
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 893161,
-      "num": 400709,
+      "num": 590007,
       "word": "单依纯发红包",
       "onboard_time": 1738069124,
       "rank": 35,
@@ -436,10 +444,18 @@
     },
     {
       "raw_hot": 689401,
-      "num": 319552,
+      "num": 361653,
       "word": "重庆分会场 时代少年团来了",
       "onboard_time": 1738069124,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 685722,
+      "num": 685722,
+      "word": "刘宇藏族少年",
+      "onboard_time": 1738070854,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -555,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 565898,
+      "num": 565898,
+      "word": "关晓彤咋这么美",
+      "onboard_time": 1738070560,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 560138,
       "num": 754593,
       "word": "新婚一定要回男方家过年吗",
@@ -569,6 +593,14 @@
       "onboard_time": 1738049719,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 552895,
+      "num": 371107,
+      "word": "喜上枝头好美",
+      "onboard_time": 1738070739,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 549624,
@@ -843,14 +875,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 402692,
-      "num": 297563,
-      "word": "关晓彤咋这么美",
-      "onboard_time": 1738070560,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 394434,
       "num": 404077,
       "word": "DeepSeek是啥",
@@ -937,6 +961,14 @@
       "onboard_time": 1738053742,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 358654,
+      "num": 358654,
+      "word": "张朝阳 红包",
+      "onboard_time": 1738069599,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 357496,
@@ -1041,6 +1073,14 @@
       "onboard_time": 1738043596,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 322368,
+      "num": 2226492,
+      "word": "身边的年味",
+      "onboard_time": 1738057583,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 314299,
@@ -1187,14 +1227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 271587,
-      "num": 1705815,
-      "word": "身边的年味",
-      "onboard_time": 1738057583,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 267266,
       "num": 745203,
       "word": "两根菜薹卖18888元引质疑",
@@ -1257,14 +1289,6 @@
       "onboard_time": 1738061966,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 249614,
-      "num": 249614,
-      "word": "喜上枝头好美",
-      "onboard_time": 1738070739,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 249523,
@@ -1395,6 +1419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225569,
+      "num": 1781027,
+      "word": "刘晓庆42年前春晚同款在淘宝爆火",
+      "onboard_time": 1738069246,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221402,
       "num": 221402,
       "word": "重庆一对新人结婚仅隔一面墙接亲",
@@ -1457,14 +1489,6 @@
       "onboard_time": 1738030156,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 212193,
-      "num": 1772405,
-      "word": "刘晓庆42年前春晚同款在淘宝爆火",
-      "onboard_time": 1738069246,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 211766,
@@ -1739,6 +1763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174047,
+      "num": 1330180,
+      "word": "过年聚会别一不小心透露工作秘密",
+      "onboard_time": 1738070324,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170926,
       "num": 241462,
       "word": "如鸢暗号",
@@ -1849,6 +1881,14 @@
       "onboard_time": 1738045337,
       "rank": 39,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 151340,
+      "num": 5201259,
+      "word": "喜乐安宁中国年",
+      "onboard_time": 1738070560,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150769,
@@ -2283,14 +2323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 110783,
-      "num": 250624,
-      "word": "过年聚会别一不小心透露工作秘密",
-      "onboard_time": 1738070324,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 110367,
       "num": 110367,
       "word": "韩国围棋队主教练称卞相壹心情沉重",
@@ -2707,14 +2739,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 73369,
-      "num": 5201259,
-      "word": "喜乐安宁中国年",
-      "onboard_time": 1738070560,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 72012,
       "num": 347160,
       "word": "今年值班还是我",
@@ -2931,6 +2955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32564,
+      "num": 410819,
+      "word": "重庆分会场的鸿蒙赛博大秀",
+      "onboard_time": 1738071036,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 30389,
       "num": 254477,
       "word": "暖暖祝大家蛇来运转",
@@ -3003,6 +3035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23130,
+      "num": 1992456,
+      "word": "春联一出场年味蹭蹭涨",
+      "onboard_time": 1738071094,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22652,
       "num": 44554,
       "word": "全国统一过年姿势",
@@ -3017,6 +3057,14 @@
       "onboard_time": 1738045637,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 17975,
+      "num": 5159143,
+      "word": "蛇年新春里的中国",
+      "onboard_time": 1738071222,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16725,
@@ -3128,6 +3176,9 @@
     },
     {
       "word": "#与总书记一起感受中国年味#"
+    },
+    {
+      "word": "#浓浓年味儿间是总书记最深的惦念#"
     }
   ]
 }
