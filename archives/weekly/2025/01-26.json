@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738135234703,
+  "endTime": 1738136149762,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -708,7 +708,7 @@
     },
     {
       "raw_hot": 1161019,
-      "num": 498751,
+      "num": 500616,
       "word": "全红婵发文说理智一点吧",
       "onboard_time": 1738131678,
       "rank": 34,
@@ -1819,6 +1819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 571510,
+      "num": 571510,
+      "word": "美国正对DeepSeek开展国家安全调查",
+      "onboard_time": 1738133599,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 568924,
       "num": 568924,
       "word": "和OneRepublic一起数星星",
@@ -2379,14 +2387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 462788,
-      "num": 462788,
-      "word": "美国正对DeepSeek开展国家安全调查",
-      "onboard_time": 1738133599,
-      "rank": 12,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 462135,
       "num": 456053,
       "word": "韩国围棋队主教练发声",
@@ -2657,6 +2657,14 @@
       "onboard_time": 1738079138,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 411987,
+      "num": 411987,
+      "word": "魔术成功原因之一是刘谦力气大",
+      "onboard_time": 1738133897,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 411477,
@@ -3360,14 +3368,6 @@
       "word": "钟楚曦穿自己画的裙子上春晚",
       "onboard_time": 1738068458,
       "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 310134,
-      "num": 310134,
-      "word": "魔术成功原因之一是刘谦力气大",
-      "onboard_time": 1738133897,
-      "rank": 22,
       "category": "综艺"
     },
     {
@@ -5211,6 +5211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191539,
+      "num": 336177,
+      "word": "唐探让尹正的野人路越走越远",
+      "onboard_time": 1738135638,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 190507,
       "num": 155226,
       "word": "上城士杨幂开年封面",
@@ -6163,6 +6171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158765,
+      "num": 158765,
+      "word": "哪吒彩蛋",
+      "onboard_time": 1738135758,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 158458,
       "num": 345318,
       "word": "马龙说国乒强大是集体的力量和智慧",
@@ -6259,6 +6275,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 156848,
+      "num": 156848,
+      "word": "射雕BGM一出海外华人跟着吼哈",
+      "onboard_time": 1738135758,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 156724,
       "num": 143519,
       "word": "冯巩喝了一瓶醋",
@@ -6273,6 +6297,14 @@
       "onboard_time": 1737963856,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 155986,
+      "num": 155986,
+      "word": "闲鱼买券反要求按原价AA",
+      "onboard_time": 1738133299,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 155326,
@@ -7131,6 +7163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134358,
+      "num": 134358,
+      "word": "全红婵呼吁不要打扰家人",
+      "onboard_time": 1738132818,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134340,
       "num": 5425723,
       "word": "文化中国行过年的仪式感",
@@ -7297,14 +7337,6 @@
       "onboard_time": 1737943636,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 130723,
-      "num": 154000,
-      "word": "闲鱼买券反要求按原价AA",
-      "onboard_time": 1738133299,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 130720,
@@ -8531,6 +8563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102900,
+      "num": 334832,
+      "word": "美国夸完DeepSeek后称其是偷窃",
+      "onboard_time": 1738135758,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 102812,
       "num": 102812,
       "word": "无忧传媒坚决反对一切职场霸凌",
@@ -8923,6 +8963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96126,
+      "num": 414236,
+      "word": "外卖小哥除夕一天挣800块",
+      "onboard_time": 1738133418,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95885,
       "num": 95885,
       "word": "养了两年的猫咪突然攻击人",
@@ -9121,14 +9169,6 @@
       "onboard_time": 1737959777,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 91578,
-      "num": 414236,
-      "word": "外卖小哥除夕一天挣800块",
-      "onboard_time": 1738133418,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91256,
@@ -10531,6 +10571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 50925,
+      "num": 209003,
+      "word": "70秒速览春节天气",
+      "onboard_time": 1738131499,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49845,
       "num": 294491,
       "word": "封神主创集结为大家送福",
@@ -10873,14 +10921,6 @@
       "onboard_time": 1737961516,
       "rank": 14,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 37147,
-      "num": 209003,
-      "word": "70秒速览春节天气",
-      "onboard_time": 1738131499,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37122,

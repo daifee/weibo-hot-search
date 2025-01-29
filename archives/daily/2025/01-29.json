@@ -1,6 +1,6 @@
 {
   "startTime": 1738081671448,
-  "endTime": 1738135234703,
+  "endTime": 1738136149762,
   "band_list": [
     {
       "raw_hot": 10062879,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 1161019,
-      "num": 498751,
+      "num": 500616,
       "word": "全红婵发文说理智一点吧",
       "onboard_time": 1738131678,
       "rank": 34,
@@ -451,6 +451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 571510,
+      "num": 571510,
+      "word": "美国正对DeepSeek开展国家安全调查",
+      "onboard_time": 1738133599,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 568924,
       "num": 568924,
       "word": "和OneRepublic一起数星星",
@@ -539,14 +547,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 462788,
-      "num": 462788,
-      "word": "美国正对DeepSeek开展国家安全调查",
-      "onboard_time": 1738133599,
-      "rank": 12,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 437209,
       "num": 437209,
       "word": "沈马 背德cp感",
@@ -585,6 +585,14 @@
       "onboard_time": 1738079138,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 411987,
+      "num": 411987,
+      "word": "魔术成功原因之一是刘谦力气大",
+      "onboard_time": 1738133897,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 388554,
@@ -681,14 +689,6 @@
       "onboard_time": 1738115839,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 310134,
-      "num": 310134,
-      "word": "魔术成功原因之一是刘谦力气大",
-      "onboard_time": 1738133897,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 303619,
@@ -1027,6 +1027,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 191539,
+      "num": 336177,
+      "word": "唐探让尹正的野人路越走越远",
+      "onboard_time": 1738135638,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 190326,
       "num": 179382,
       "word": "刘谦后面的苏有朋",
@@ -1203,12 +1211,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158765,
+      "num": 158765,
+      "word": "哪吒彩蛋",
+      "onboard_time": 1738135758,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 158444,
       "num": 767765,
       "word": "巳巳如意拜大年",
       "onboard_time": 1738081529,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156848,
+      "num": 156848,
+      "word": "射雕BGM一出海外华人跟着吼哈",
+      "onboard_time": 1738135758,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 155986,
+      "num": 155986,
+      "word": "闲鱼买券反要求按原价AA",
+      "onboard_time": 1738133299,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 154057,
@@ -1323,6 +1355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134358,
+      "num": 134358,
+      "word": "全红婵呼吁不要打扰家人",
+      "onboard_time": 1738132818,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132197,
       "num": 132197,
       "word": "代号鸢",
@@ -1337,14 +1377,6 @@
       "onboard_time": 1738128560,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 130723,
-      "num": 154000,
-      "word": "闲鱼买券反要求按原价AA",
-      "onboard_time": 1738133299,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 129144,
@@ -1451,6 +1483,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 102900,
+      "num": 334832,
+      "word": "美国夸完DeepSeek后称其是偷窃",
+      "onboard_time": 1738135758,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 101242,
       "num": 225951,
       "word": "印度大壶节突发踩踏致15死",
@@ -1481,6 +1521,14 @@
       "onboard_time": 1738133478,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96126,
+      "num": 414236,
+      "word": "外卖小哥除夕一天挣800块",
+      "onboard_time": 1738133418,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95392,
@@ -1521,14 +1569,6 @@
       "onboard_time": 1738080267,
       "rank": 22,
       "category": "综艺,汽车"
-    },
-    {
-      "raw_hot": 91578,
-      "num": 414236,
-      "word": "外卖小哥除夕一天挣800块",
-      "onboard_time": 1738133418,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90994,
@@ -1707,6 +1747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 50925,
+      "num": 209003,
+      "word": "70秒速览春节天气",
+      "onboard_time": 1738131499,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50221,
       "num": 50221,
       "word": "新年星祝福",
@@ -1793,14 +1841,6 @@
       "onboard_time": 1738102812,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 37147,
-      "num": 209003,
-      "word": "70秒速览春节天气",
-      "onboard_time": 1738131499,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35797,
