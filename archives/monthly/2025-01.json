@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738150557829,
+  "endTime": 1738154452883,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -337,6 +337,14 @@
       "onboard_time": 1736005415,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 6007866,
+      "num": 6007866,
+      "word": "赵露思长文谈抑郁症",
+      "onboard_time": 1738151061,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 5865317,
@@ -2513,6 +2521,14 @@
       "onboard_time": 1735825641,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1687370,
+      "num": 1687370,
+      "word": "赵露思换了想了十年的发色",
+      "onboard_time": 1738153161,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1681965,
@@ -6667,6 +6683,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 963423,
+      "num": 634663,
+      "word": "嬷童降世",
+      "onboard_time": 1738149019,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 962735,
       "num": 288653,
       "word": "男子被火锅烫伤用白糖敷好了",
@@ -9516,7 +9540,7 @@
     },
     {
       "raw_hot": 761343,
-      "num": 274228,
+      "num": 422001,
       "word": "全红婵家已增设安全围栏等设备",
       "onboard_time": 1738148420,
       "rank": 18,
@@ -12115,14 +12139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 634663,
-      "num": 634663,
-      "word": "嬷童降世",
-      "onboard_time": 1738149019,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
       "raw_hot": 634456,
       "num": 364455,
       "word": "赵露思坦言有过瘫痪失语症状",
@@ -12641,6 +12657,14 @@
       "onboard_time": 1736694320,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 613769,
+      "num": 613769,
+      "word": "看完唐探1900的我belike",
+      "onboard_time": 1738151421,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 613549,
@@ -16611,6 +16635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 486353,
+      "num": 486353,
+      "word": "北京春晚一开场就狂包饺子",
+      "onboard_time": 1738152380,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 485891,
       "num": 485891,
       "word": "外交部回应是否接回在美非法中国移民",
@@ -17140,7 +17172,7 @@
     },
     {
       "raw_hot": 474629,
-      "num": 343578,
+      "num": 419955,
       "word": "北京台春晚",
       "onboard_time": 1737885679,
       "rank": 2,
@@ -20489,6 +20521,14 @@
       "onboard_time": 1737110238,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 397461,
+      "num": 397461,
+      "word": "哪吒票房",
+      "onboard_time": 1738149140,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 397387,
@@ -26867,6 +26907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 299073,
+      "num": 242166,
+      "word": "00后女生给妈妈磕888个头获1000元红包",
+      "onboard_time": 1738151899,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 299005,
       "num": 299005,
       "word": "男子被绑至缅甸称拉5人才能出去",
@@ -27081,14 +27129,6 @@
       "onboard_time": 1736247325,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 296612,
-      "num": 221446,
-      "word": "哪吒票房",
-      "onboard_time": 1738149140,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 296540,
@@ -32323,6 +32363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 244164,
+      "num": 244164,
+      "word": "九重紫",
+      "onboard_time": 1736047769,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 244150,
       "num": 244150,
       "word": "WTT感谢陈梦",
@@ -35025,6 +35073,14 @@
       "onboard_time": 1737789857,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 222761,
+      "num": 222761,
+      "word": "姬发 恋爱脑",
+      "onboard_time": 1738153818,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 222561,
@@ -40675,6 +40731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197261,
+      "num": 434374,
+      "word": "看射雕听肖战唱灯塔",
+      "onboard_time": 1738152499,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 197243,
       "num": 197243,
       "word": "檀健次第一次参加自己的男主剧庆功宴",
@@ -42289,6 +42353,14 @@
       "onboard_time": 1736588369,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 192206,
+      "num": 192206,
+      "word": "邓婵玉 没有男人配得上",
+      "onboard_time": 1738151121,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 192192,
@@ -44083,6 +44155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186878,
+      "num": 186878,
+      "word": "檀健次唱跳气场全开",
+      "onboard_time": 1738153581,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186856,
       "num": 173838,
       "word": "柯洁决赛因相同原因中断",
@@ -44547,6 +44627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185184,
+      "num": 185184,
+      "word": "射雕女性角色",
+      "onboard_time": 1738154060,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 185175,
       "num": 185175,
       "word": "王俊凯默默提醒田华老师",
@@ -44785,14 +44873,6 @@
       "onboard_time": 1736605349,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 184339,
-      "num": 184339,
-      "word": "九重紫",
-      "onboard_time": 1736047769,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 184328,
@@ -47195,6 +47275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 175262,
+      "num": 461810,
+      "word": "山西真的没有一棵树会黑着过年吗",
+      "onboard_time": 1738151179,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175179,
       "num": 175179,
       "word": "何与飞奔抱虞书欣路透",
@@ -47361,6 +47449,14 @@
       "onboard_time": 1737717018,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174561,
+      "num": 161892,
+      "word": "没想到射雕电影藏着春节祝福",
+      "onboard_time": 1738153640,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 174541,
@@ -49763,6 +49859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167015,
+      "num": 243965,
+      "word": "广州烟花",
+      "onboard_time": 1738151962,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166994,
       "num": 166994,
       "word": "美国妈妈为儿子向中国网友求食谱",
@@ -51201,6 +51305,14 @@
       "onboard_time": 1738139120,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 162434,
+      "num": 162434,
+      "word": "还得是冯巩",
+      "onboard_time": 1738151899,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 162430,
@@ -65371,6 +65483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 122561,
+      "num": 243102,
+      "word": "郭晶晶霍启刚一起做汤圆元宵",
+      "onboard_time": 1738152561,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122517,
       "num": 122517,
       "word": "檀健次多鉴一次云访谈",
@@ -68627,6 +68747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114114,
+      "num": 193100,
+      "word": "糖葫芦",
+      "onboard_time": 1738150701,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 114097,
       "num": 95259,
       "word": "李子柒春晚战袍揭秘",
@@ -71664,6 +71792,14 @@
       "word": "库里下半场0分",
       "onboard_time": 1737869719,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 105167,
+      "num": 192444,
+      "word": "郑钦文晒年夜饭",
+      "onboard_time": 1738151899,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -79707,6 +79843,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 67083,
+      "num": 185470,
+      "word": "韩国客机起火顶部一个大洞",
+      "onboard_time": 1738148840,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 67049,
       "num": 193473,
       "word": "蛟龙小队韩东君请伊利上桌",
@@ -80089,6 +80233,14 @@
       "onboard_time": 1737704239,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64448,
+      "num": 185204,
+      "word": "DeepSeek能否改写AI战局",
+      "onboard_time": 1738150940,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 64349,
@@ -90889,6 +91041,14 @@
       "onboard_time": 1736971332,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 17238,
+      "num": 143809,
+      "word": "给老外做一张中国菜推荐清单",
+      "onboard_time": 1738154060,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17214,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/29 19:35:57
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/29 20:40:52
 </p>
 </blockquote>
 <p>
@@ -263,6 +263,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%96%23" target="weibo">
 林高远父亲去世（热度：6585357）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%95%BF%E6%96%87%E8%B0%88%E6%8A%91%E9%83%81%E7%97%87%23" target="weibo">
+赵露思长文谈抑郁症（热度：6007866）
 </a>
 </li>
 
@@ -1895,6 +1901,12 @@ TikTok难民来啦（热度：1761821）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23123%E5%B2%81%E8%80%81%E4%BA%BA%E6%9E%97%E8%9B%87%E6%AF%8D%E5%AE%B6%E4%B8%AD%E5%8E%BB%E4%B8%96%23" target="weibo">
 123岁老人林蛇母家中去世（热度：1687435）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%8D%A2%E4%BA%86%E6%83%B3%E4%BA%86%E5%8D%81%E5%B9%B4%E7%9A%84%E5%8F%91%E8%89%B2%23" target="weibo">
+赵露思换了想了十年的发色（热度：1687370）
 </a>
 </li>
 
@@ -5013,6 +5025,12 @@ R1SE合体（热度：994873）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AC%B7%E7%AB%A5%E9%99%8D%E4%B8%96%23" target="weibo">
+嬷童降世（热度：963423）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E7%81%AB%E9%94%85%E7%83%AB%E4%BC%A4%E7%94%A8%E7%99%BD%E7%B3%96%E6%95%B7%E5%A5%BD%E4%BA%86%23" target="weibo">
 男子被火锅烫伤用白糖敷好了（热度：962735）
 </a>
@@ -5993,24 +6011,6 @@ DeepSeek遭美国IP网攻暴力破解（热度：866833）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E6%B5%81%E8%A1%8C%E5%B0%86%E9%BB%84%E9%87%91%E8%B4%B4%E5%9C%A8%E6%89%8B%E6%9C%BA%E4%B8%8A%23" target="weibo">
 年轻人开始流行将黄金贴在手机上（热度：865531）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%9D%80%E6%AD%BB%E4%BA%86%E5%89%A7%E5%AE%A3%E6%AF%94%E8%B5%9B%23" target="weibo">
-杨紫杀死了剧宣比赛（热度：865293）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E8%B6%8A%E6%BC%94%E6%88%91%E5%97%91%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B8%81%E7%A6%B9%E5%85%AE%23" target="weibo">
-王星越演我嗑虞书欣丁禹兮（热度：864780）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Angelababy%E7%9A%84%E7%BA%A2%E5%8C%85%23" target="weibo">
-Angelababy的红包（热度：864606）
 </a>
 </li>
 
