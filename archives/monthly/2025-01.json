@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738118846884,
+  "endTime": 1738119409198,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -681,6 +681,14 @@
       "onboard_time": 1737993976,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3152316,
+      "num": 3152316,
+      "word": "导演组回应沈腾马丽小品没演完",
+      "onboard_time": 1738118841,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 3143279,
@@ -4044,7 +4052,7 @@
     },
     {
       "raw_hot": 1295246,
-      "num": 418312,
+      "num": 505730,
       "word": "Angelababy发和儿子合照",
       "onboard_time": 1738115781,
       "rank": 10,
@@ -6185,6 +6193,14 @@
       "onboard_time": 1737786257,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 997788,
+      "num": 492293,
+      "word": "春晚总导演回应邓超缺席",
+      "onboard_time": 1738118901,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 996924,
@@ -15347,6 +15363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 511521,
+      "num": 511521,
+      "word": "春节档票房",
+      "onboard_time": 1738117581,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 511068,
       "num": 533354,
       "word": "手机补贴不用交旧手机",
@@ -16859,6 +16883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 472104,
+      "num": 472104,
+      "word": "哪吒",
+      "onboard_time": 1738117581,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 472087,
       "num": 472087,
       "word": "特朗普罪名成立但不予惩罚",
@@ -17273,14 +17305,6 @@
       "onboard_time": 1737690798,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 459727,
-      "num": 459727,
-      "word": "春节档票房",
-      "onboard_time": 1738117581,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 459203,
@@ -23955,14 +23979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 332400,
-      "num": 332400,
-      "word": "哪吒",
-      "onboard_time": 1738117581,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
       "raw_hot": 332293,
       "num": 332293,
       "word": "我国人造太阳进度再刷新",
@@ -25244,7 +25260,7 @@
     },
     {
       "raw_hot": 315280,
-      "num": 264301,
+      "num": 309511,
       "word": "欢天喜地七帅哥",
       "onboard_time": 1738115839,
       "rank": 20,
@@ -25889,6 +25905,14 @@
       "onboard_time": 1737255977,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 305656,
+      "num": 305656,
+      "word": "唐探1900",
+      "onboard_time": 1738115899,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 305493,
@@ -28811,6 +28835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 272122,
+      "num": 272122,
+      "word": "射雕",
+      "onboard_time": 1738105815,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 272067,
       "num": 272067,
       "word": "微博之夜明星造型预告",
@@ -29409,6 +29441,14 @@
       "onboard_time": 1736336240,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 266634,
+      "num": 266634,
+      "word": "小狗春晚",
+      "onboard_time": 1738114099,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 266465,
@@ -30336,14 +30376,6 @@
       "word": "误杀3闭眼佛",
       "onboard_time": 1736657659,
       "rank": 25,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 257180,
-      "num": 257180,
-      "word": "唐探1900",
-      "onboard_time": 1738115899,
-      "rank": 21,
       "category": "电影"
     },
     {
@@ -33547,14 +33579,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 229375,
-      "num": 229375,
-      "word": "射雕",
-      "onboard_time": 1738105815,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 229308,
       "num": 307050,
       "word": "敖瑞鹏另一只手帮白鹿提鞋",
@@ -33761,14 +33785,6 @@
       "onboard_time": 1736647761,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 228101,
-      "num": 228101,
-      "word": "小狗春晚",
-      "onboard_time": 1738114099,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 228088,
@@ -45075,6 +45091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179901,
+      "num": 179901,
+      "word": "封神",
+      "onboard_time": 1738112420,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 179881,
       "num": 387826,
       "word": "滑翔伞坠落致2死知情人发声",
@@ -46897,14 +46921,6 @@
       "onboard_time": 1737702797,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 173424,
-      "num": 173424,
-      "word": "封神",
-      "onboard_time": 1738112420,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 173413,
@@ -55651,6 +55667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 146509,
+      "num": 146509,
+      "word": "谁说内娱没有齐舞",
+      "onboard_time": 1738117460,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146506,
       "num": 206024,
       "word": "手机补贴采用支付立减方式",
@@ -58505,14 +58529,6 @@
       "onboard_time": 1737814044,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 138147,
-      "num": 138147,
-      "word": "谁说内娱没有齐舞",
-      "onboard_time": 1738117460,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 138028,
@@ -63660,7 +63676,7 @@
     },
     {
       "raw_hot": 124541,
-      "num": 124541,
+      "num": 176683,
       "word": "非遗春节大拜年",
       "onboard_time": 1737510798,
       "rank": 46,
@@ -67515,6 +67531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114293,
+      "num": 114293,
+      "word": "雷军大年初一还在健身",
+      "onboard_time": 1738116980,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 114270,
       "num": 114270,
       "word": "震区这句金珠玛米亚古都很暖心",
@@ -67593,14 +67617,6 @@
       "onboard_time": 1737101120,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 114115,
-      "num": 114115,
-      "word": "雷军大年初一还在健身",
-      "onboard_time": 1738116980,
-      "rank": 46,
-      "category": "互联网"
     },
     {
       "raw_hot": 114097,
@@ -85155,6 +85171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 33812,
+      "num": 219034,
+      "word": "蒋奇明情绪张力",
+      "onboard_time": 1738118180,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 33795,
       "num": 345357,
       "word": "章若楠官宣微博之夜",
@@ -89729,14 +89753,6 @@
       "onboard_time": 1737047055,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 16733,
-      "num": 217848,
-      "word": "蒋奇明情绪张力",
-      "onboard_time": 1738118180,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 16709,

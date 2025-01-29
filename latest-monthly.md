@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/29 10:47:26
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/29 10:56:49
 </p>
 </blockquote>
 <p>
@@ -521,6 +521,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%89%81%E6%8E%92%E9%AA%A8%E5%A4%B1%E6%89%8B%E5%88%87%E6%96%AD4%E5%B2%81%E5%84%BF%E5%AD%903%E6%A0%B9%E6%89%8B%E6%8C%87%23" target="weibo">
 女子剁排骨失手切断4岁儿子3根手指（热度：3185801）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AF%BC%E6%BC%94%E7%BB%84%E5%9B%9E%E5%BA%94%E6%B2%88%E8%85%BE%E9%A9%AC%E4%B8%BD%E5%B0%8F%E5%93%81%E6%B2%A1%E6%BC%94%E5%AE%8C%23" target="weibo">
+导演组回应沈腾马丽小品没演完（热度：3152316）
 </a>
 </li>
 
@@ -4653,6 +4659,12 @@ D3014次列车因撞鸟临时停车（热度：1020662）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E6%80%BB%E5%AF%BC%E6%BC%94%E5%9B%9E%E5%BA%94%E9%82%93%E8%B6%85%E7%BC%BA%E5%B8%AD%23" target="weibo">
+春晚总导演回应邓超缺席（热度：997788）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%96%80%E5%88%99%E5%9C%B0%E9%9C%87%E5%90%8E%E7%AC%AC3%E5%A4%A9%23" target="weibo">
 日喀则地震后第3天（热度：996924）
 </a>
@@ -5999,18 +6011,6 @@ Doinb说跪下（热度：854922）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E4%BD%A0%E5%AB%82%E5%AD%90%E8%B5%A2%E4%BA%86%23" target="weibo">
 王鹤棣你嫂子赢了（热度：854184）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%9C%AC%E5%B1%B1%E5%A5%B3%E5%84%BF%E7%90%83%E7%90%83%E4%B8%BA%E5%84%BF%E5%AD%90%E5%BA%86%E7%A5%9D%E4%B8%80%E5%91%A8%E5%B2%81%23" target="weibo">
-赵本山女儿球球为儿子庆祝一周岁（热度：854183）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%B0%A6%E6%97%81%E8%BE%B9%E8%BF%98%E6%98%AF%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%23" target="weibo">
-刘谦旁边还是尼格买提（热度：854012）
 </a>
 </li>
 

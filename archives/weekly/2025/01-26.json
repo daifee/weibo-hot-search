@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738118846884,
+  "endTime": 1738119409198,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -185,6 +185,14 @@
       "onboard_time": 1737993976,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3152316,
+      "num": 3152316,
+      "word": "导演组回应沈腾马丽小品没演完",
+      "onboard_time": 1738118841,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 3143279,
@@ -588,7 +596,7 @@
     },
     {
       "raw_hot": 1295246,
-      "num": 418312,
+      "num": 505730,
       "word": "Angelababy发和儿子合照",
       "onboard_time": 1738115781,
       "rank": 10,
@@ -841,6 +849,14 @@
       "onboard_time": 1737936136,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 997788,
+      "num": 492293,
+      "word": "春晚总导演回应邓超缺席",
+      "onboard_time": 1738118901,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 995735,
@@ -1923,6 +1939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 511521,
+      "num": 511521,
+      "word": "春节档票房",
+      "onboard_time": 1738117581,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 510866,
       "num": 1064310,
       "word": "中央领导同志看望老同志",
@@ -2179,6 +2203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 472104,
+      "num": 472104,
+      "word": "哪吒",
+      "onboard_time": 1738117581,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 470422,
       "num": 470422,
       "word": "凤凰传奇好像两瓶梦之蓝",
@@ -2217,14 +2249,6 @@
       "onboard_time": 1738046117,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 459727,
-      "num": 459727,
-      "word": "春节档票房",
-      "onboard_time": 1738117581,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 458537,
@@ -2971,14 +2995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 332400,
-      "num": 332400,
-      "word": "哪吒",
-      "onboard_time": 1738117581,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
       "raw_hot": 332254,
       "num": 332254,
       "word": "闫妮 春晚微醺",
@@ -3124,7 +3140,7 @@
     },
     {
       "raw_hot": 315280,
-      "num": 264301,
+      "num": 309511,
       "word": "欢天喜地七帅哥",
       "onboard_time": 1738115839,
       "rank": 20,
@@ -3176,6 +3192,14 @@
       "word": "业内预测票房冠军是哪吒或唐探",
       "onboard_time": 1737928271,
       "rank": 14,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 305656,
+      "num": 305656,
+      "word": "唐探1900",
+      "onboard_time": 1738115899,
+      "rank": 21,
       "category": "电影"
     },
     {
@@ -3507,6 +3531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 272122,
+      "num": 272122,
+      "word": "射雕",
+      "onboard_time": 1738105815,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 271196,
       "num": 217111,
       "word": "张馨予晒何捷为她拍的雪地大片",
@@ -3553,6 +3585,14 @@
       "onboard_time": 1737888260,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 266634,
+      "num": 266634,
+      "word": "小狗春晚",
+      "onboard_time": 1738114099,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 265339,
@@ -3649,14 +3689,6 @@
       "onboard_time": 1737980177,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 257180,
-      "num": 257180,
-      "word": "唐探1900",
-      "onboard_time": 1738115899,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 256619,
@@ -4019,14 +4051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 229375,
-      "num": 229375,
-      "word": "射雕",
-      "onboard_time": 1738105815,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 228905,
       "num": 228905,
       "word": "徐莹称卞相壹形象遭毁灭性打击",
@@ -4041,14 +4065,6 @@
       "onboard_time": 1737907037,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 228101,
-      "num": 228101,
-      "word": "小狗春晚",
-      "onboard_time": 1738114099,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 228088,
@@ -5107,6 +5123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179901,
+      "num": 179901,
+      "word": "封神",
+      "onboard_time": 1738112420,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 179795,
       "num": 652863,
       "word": "DeepSeek暂时限制部分注册",
@@ -5249,14 +5273,6 @@
       "onboard_time": 1737967336,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 173424,
-      "num": 173424,
-      "word": "封神",
-      "onboard_time": 1738112420,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 172315,
@@ -6099,6 +6115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146509,
+      "num": 146509,
+      "word": "谁说内娱没有齐舞",
+      "onboard_time": 1738117460,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146007,
       "num": 146007,
       "word": "田曦薇逐玉赶猪路透",
@@ -6411,14 +6435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 138147,
-      "num": 138147,
-      "word": "谁说内娱没有齐舞",
-      "onboard_time": 1738117460,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 137980,
       "num": 137980,
       "word": "肖战蓝色流苏外套",
@@ -6697,6 +6713,14 @@
       "onboard_time": 1737887718,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132197,
+      "num": 132197,
+      "word": "代号鸢",
+      "onboard_time": 1738119139,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 132056,
@@ -7036,7 +7060,7 @@
     },
     {
       "raw_hot": 124541,
-      "num": 124541,
+      "num": 176683,
       "word": "非遗春节大拜年",
       "onboard_time": 1737836293,
       "rank": 30,
@@ -7435,20 +7459,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 114293,
+      "num": 114293,
+      "word": "雷军大年初一还在健身",
+      "onboard_time": 1738116980,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 114241,
       "num": 114241,
       "word": "徐克回应射雕爆改演员",
       "onboard_time": 1737887297,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 114115,
-      "num": 114115,
-      "word": "雷军大年初一还在健身",
-      "onboard_time": 1738116980,
-      "rank": 46,
-      "category": "互联网"
     },
     {
       "raw_hot": 114097,
@@ -10219,6 +10243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 33812,
+      "num": 219034,
+      "word": "蒋奇明情绪张力",
+      "onboard_time": 1738118180,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 33741,
       "num": 35158,
       "word": "晕车晕机试试这组动作",
@@ -10801,14 +10833,6 @@
       "onboard_time": 1737797777,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16733,
-      "num": 217848,
-      "word": "蒋奇明情绪张力",
-      "onboard_time": 1738118180,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 16393,

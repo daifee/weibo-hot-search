@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738118846884,
+  "endTime": 1738119409198,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -681,6 +681,14 @@
       "onboard_time": 1737993976,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3152316,
+      "num": 3152316,
+      "word": "导演组回应沈腾马丽小品没演完",
+      "onboard_time": 1738118841,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 3143279,
@@ -2392,14 +2400,6 @@
       "word": "贵人鸟正式更名金鹤农业",
       "onboard_time": 1736752338,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1711336,
-      "num": 1533594,
-      "word": "西藏日喀则6.8级地震",
-      "onboard_time": 1736213180,
-      "rank": 1,
       "category": "民生新闻"
     }
   ],

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/26 00:26:10 ~ 2025/01/29 10:47:26
+本榜单时间：2025/01/26 00:26:10 ~ 2025/01/29 10:56:49
 </p>
 </blockquote>
 <p>
@@ -149,6 +149,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%89%81%E6%8E%92%E9%AA%A8%E5%A4%B1%E6%89%8B%E5%88%87%E6%96%AD4%E5%B2%81%E5%84%BF%E5%AD%903%E6%A0%B9%E6%89%8B%E6%8C%87%23" target="weibo">
 女子剁排骨失手切断4岁儿子3根手指（热度：3185801）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AF%BC%E6%BC%94%E7%BB%84%E5%9B%9E%E5%BA%94%E6%B2%88%E8%85%BE%E9%A9%AC%E4%B8%BD%E5%B0%8F%E5%93%81%E6%B2%A1%E6%BC%94%E5%AE%8C%23" target="weibo">
+导演组回应沈腾马丽小品没演完（热度：3152316）
 </a>
 </li>
 
@@ -641,6 +647,12 @@ DeepSeek创始人回广东过年要躲起来（热度：1020804）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%A0%E5%BC%A0%E5%A4%A7%E5%A4%A7%E6%9C%89%E6%B5%81%E9%87%8F%E8%80%81%E6%9D%BF%E7%BB%8F%E5%B8%B8%E7%BB%99%E4%BB%96%E6%8D%A2%E4%BA%BA%23" target="weibo">
 因张大大有流量老板经常给他换人（热度：1000646）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E6%80%BB%E5%AF%BC%E6%BC%94%E5%9B%9E%E5%BA%94%E9%82%93%E8%B6%85%E7%BC%BA%E5%B8%AD%23" target="weibo">
+春晚总导演回应邓超缺席（热度：997788）
 </a>
 </li>
 
@@ -1455,6 +1467,12 @@ Jasper在陈小春家学历最高（热度：515745）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%82%E6%A1%A3%E7%A5%A8%E6%88%BF%23" target="weibo">
+春节档票房（热度：511521）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E9%A2%86%E5%AF%BC%E5%90%8C%E5%BF%97%E7%9C%8B%E6%9C%9B%E8%80%81%E5%90%8C%E5%BF%97%23" target="weibo">
 中央领导同志看望老同志（热度：510866）
 </a>
@@ -1647,6 +1665,12 @@ DeepSeek最想问人类什么问题（热度：505455）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%92%23" target="weibo">
+哪吒（热度：472104）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E5%A5%BD%E5%83%8F%E4%B8%A4%E7%93%B6%E6%A2%A6%E4%B9%8B%E8%93%9D%23" target="weibo">
 凤凰传奇好像两瓶梦之蓝（热度：470422）
 </a>
@@ -1673,12 +1697,6 @@ DeepSeek最想问人类什么问题（热度：505455）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%99%E6%BA%A2%E8%83%A1%E5%8F%AF%E4%B8%A4%E4%B8%AA%E5%84%BF%E5%AD%90%E8%BF%91%E7%85%A7%23" target="weibo">
 沙溢胡可两个儿子近照（热度：460038）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%82%E6%A1%A3%E7%A5%A8%E6%88%BF%23" target="weibo">
-春节档票房（热度：459727）
 </a>
 </li>
 
@@ -2241,12 +2259,6 @@ TF四代军训去了（热度：342796）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%92%23" target="weibo">
-哪吒（热度：332400）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%97%AB%E5%A6%AE%20%E6%98%A5%E6%99%9A%E5%BE%AE%E9%86%BA%23" target="weibo">
 闫妮 春晚微醺（热度：332254）
 </a>
@@ -2393,6 +2405,12 @@ DeepSeek彻底爆发（热度：309094）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9A%E5%86%85%E9%A2%84%E6%B5%8B%E7%A5%A8%E6%88%BF%E5%86%A0%E5%86%9B%E6%98%AF%E5%93%AA%E5%90%92%E6%88%96%E5%94%90%E6%8E%A2%23" target="weibo">
 业内预测票房冠军是哪吒或唐探（热度：307503）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E6%8E%A21900%23" target="weibo">
+唐探1900（热度：305656）
 </a>
 </li>
 
@@ -2643,6 +2661,12 @@ DeepSeek彻底爆发（热度：309094）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%84%E9%9B%95%23" target="weibo">
+射雕（热度：272122）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A6%A8%E4%BA%88%E6%99%92%E4%BD%95%E6%8D%B7%E4%B8%BA%E5%A5%B9%E6%8B%8D%E7%9A%84%E9%9B%AA%E5%9C%B0%E5%A4%A7%E7%89%87%23" target="weibo">
 张馨予晒何捷为她拍的雪地大片（热度：271196）
 </a>
@@ -2675,6 +2699,12 @@ DeepSeek彻底爆发（热度：309094）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%9A%93%E9%A9%AC%E7%90%B3%E8%B0%88%E5%A4%9A%E5%93%88%E4%B8%96%E4%B9%92%E8%B5%9B%E9%80%89%E6%8B%94%E6%A0%87%E5%87%86%23" target="weibo">
 王皓马琳谈多哈世乒赛选拔标准（热度：267098）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E6%98%A5%E6%99%9A%23" target="weibo">
+小狗春晚（热度：266634）
 </a>
 </li>
 
@@ -2747,12 +2777,6 @@ DeepSeek彻底爆发（热度：309094）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%AF%B4%E4%BC%9A%E5%B8%A6%E7%9D%80%E9%81%97%E6%86%BE%E5%8B%87%E5%BE%80%E7%9B%B4%E5%89%8D%23" target="weibo">
 孙颖莎说会带着遗憾勇往直前（热度：257988）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E6%8E%A21900%23" target="weibo">
-唐探1900（热度：257180）
 </a>
 </li>
 
@@ -3027,12 +3051,6 @@ OneRepublic确认将登上央视春晚（热度：231040）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%84%E9%9B%95%23" target="weibo">
-射雕（热度：229375）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%8E%B9%E7%A7%B0%E5%8D%9E%E7%9B%B8%E5%A3%B9%E5%BD%A2%E8%B1%A1%E9%81%AD%E6%AF%81%E7%81%AD%E6%80%A7%E6%89%93%E5%87%BB%23" target="weibo">
 徐莹称卞相壹形象遭毁灭性打击（热度：228905）
 </a>
@@ -3041,12 +3059,6 @@ OneRepublic确认将登上央视春晚（热度：231040）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BD%95%E5%9B%BD%E4%BA%BA%E5%81%8F%E7%88%B1%E5%A4%A7%E7%BA%A2%E5%A4%A7%E9%BB%84%E4%BC%A0%E7%BB%9F%E8%89%B2%23" target="weibo">
 为何国人偏爱大红大黄传统色（热度：228600）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E6%98%A5%E6%99%9A%23" target="weibo">
-小狗春晚（热度：228101）
 </a>
 </li>
 
@@ -3843,6 +3855,12 @@ DeepSeek从出租屋起步走向世界（热度：180360）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%23" target="weibo">
+封神（热度：179901）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23DeepSeek%E6%9A%82%E6%97%B6%E9%99%90%E5%88%B6%E9%83%A8%E5%88%86%E6%B3%A8%E5%86%8C%23" target="weibo">
 DeepSeek暂时限制部分注册（热度：179795）
 </a>
@@ -3947,12 +3965,6 @@ DeepSeek暂时限制部分注册（热度：179795）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E4%BF%8A%E8%BE%89%E6%96%B0%E5%B9%B4%E7%9B%B4%E6%92%AD%23" target="weibo">
 文俊辉新年直播（热度：173673）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%23" target="weibo">
-封神（热度：173424）
 </a>
 </li>
 
@@ -4587,6 +4599,12 @@ Deepseek锐评（热度：150237）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E8%AF%B4%E5%86%85%E5%A8%B1%E6%B2%A1%E6%9C%89%E9%BD%90%E8%88%9E%23" target="weibo">
+谁说内娱没有齐舞（热度：146509）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E9%80%90%E7%8E%89%E8%B5%B6%E7%8C%AA%E8%B7%AF%E9%80%8F%23" target="weibo">
 田曦薇逐玉赶猪路透（热度：146007）
 </a>
@@ -4821,12 +4839,6 @@ G社生图战神（热度：144572）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E8%AF%B4%E5%86%85%E5%A8%B1%E6%B2%A1%E6%9C%89%E9%BD%90%E8%88%9E%23" target="weibo">
-谁说内娱没有齐舞（热度：138147）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%93%9D%E8%89%B2%E6%B5%81%E8%8B%8F%E5%A4%96%E5%A5%97%23" target="weibo">
 肖战蓝色流苏外套（热度：137980）
 </a>
@@ -5033,6 +5045,12 @@ OneRepublic真唱（热度：136074）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%A4%A7%E9%9B%AA680%E5%85%AC%E9%87%8C%E5%9B%9E%E5%AE%B6%E8%B7%AF%E8%B5%B0%E4%BA%8638%E5%B0%8F%E6%97%B6%23" target="weibo">
 河南大雪680公里回家路走了38小时（热度：132461）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A3%E5%8F%B7%E9%B8%A2%23" target="weibo">
+代号鸢（热度：132197）
 </a>
 </li>
 
@@ -5589,14 +5607,14 @@ chatgpt o3mini免费（热度：121207）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%85%8B%E5%9B%9E%E5%BA%94%E5%B0%84%E9%9B%95%E7%88%86%E6%94%B9%E6%BC%94%E5%91%98%23" target="weibo">
-徐克回应射雕爆改演员（热度：114241）
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%80%E8%BF%98%E5%9C%A8%E5%81%A5%E8%BA%AB%23" target="weibo">
+雷军大年初一还在健身（热度：114293）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%80%E8%BF%98%E5%9C%A8%E5%81%A5%E8%BA%AB%23" target="weibo">
-雷军大年初一还在健身（热度：114115）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%85%8B%E5%9B%9E%E5%BA%94%E5%B0%84%E9%9B%95%E7%88%86%E6%94%B9%E6%BC%94%E5%91%98%23" target="weibo">
+徐克回应射雕爆改演员（热度：114241）
 </a>
 </li>
 
@@ -7677,6 +7695,12 @@ IVE末放舞台（热度：37513）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%92%8B%E5%A5%87%E6%98%8E%E6%83%85%E7%BB%AA%E5%BC%A0%E5%8A%9B%23" target="weibo">
+蒋奇明情绪张力（热度：33812）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%95%E8%BD%A6%E6%99%95%E6%9C%BA%E8%AF%95%E8%AF%95%E8%BF%99%E7%BB%84%E5%8A%A8%E4%BD%9C%23" target="weibo">
 晕车晕机试试这组动作（热度：33741）
 </a>
@@ -8111,12 +8135,6 @@ GAI2025新专辑（热度：20423）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E5%8D%97%E7%AB%994%E5%A4%A9%E6%8D%A1%E5%88%B01000%E4%B8%AA%E8%BA%AB%E4%BB%BD%E8%AF%81%23" target="weibo">
 南京南站4天捡到1000个身份证（热度：16922）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%92%8B%E5%A5%87%E6%98%8E%E6%83%85%E7%BB%AA%E5%BC%A0%E5%8A%9B%23" target="weibo">
-蒋奇明情绪张力（热度：16733）
 </a>
 </li>
 
