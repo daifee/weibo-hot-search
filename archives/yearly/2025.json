@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738114806001,
+  "endTime": 1738115747323,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -2315,12 +2315,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1741726,
+      "num": 1741726,
+      "word": "金晨你怎么可以捅这么大的篓子",
+      "onboard_time": 1738090873,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1741684,
       "num": 1741684,
       "word": "中国代表团正在交涉",
       "onboard_time": 1737614179,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1735808,
+      "num": 1735808,
+      "word": "春晚收视率",
+      "onboard_time": 1738086677,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 1731317,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1736213180,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1708721,
-      "num": 1708721,
-      "word": "大学生开房洗衣服被吐槽薅羊毛",
-      "onboard_time": 1737363078,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1707343,
-      "num": 1707343,
-      "word": "金晨你怎么可以捅这么大的篓子",
-      "onboard_time": 1738090873,
-      "rank": 0,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

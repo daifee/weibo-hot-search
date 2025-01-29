@@ -1,6 +1,6 @@
 {
   "startTime": 1738081671448,
-  "endTime": 1738114806001,
+  "endTime": 1738115747323,
   "band_list": [
     {
       "raw_hot": 10062879,
@@ -91,11 +91,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1707343,
-      "num": 1707343,
+      "raw_hot": 1741726,
+      "num": 1741726,
       "word": "金晨你怎么可以捅这么大的篓子",
       "onboard_time": 1738090873,
       "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1735808,
+      "num": 1735808,
+      "word": "春晚收视率",
+      "onboard_time": 1738086677,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -104,14 +112,6 @@
       "word": "小明妈妈变爷爷",
       "onboard_time": 1738082130,
       "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1637571,
-      "num": 1637571,
-      "word": "春晚收视率",
-      "onboard_time": 1738086677,
-      "rank": 20,
       "category": "综艺"
     },
     {
@@ -184,6 +184,14 @@
       "word": "撒贝宁的眉毛是谁画的",
       "onboard_time": 1738067265,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 937319,
+      "num": 937319,
+      "word": "扶着点咱奶别摔了",
+      "onboard_time": 1738112720,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -307,14 +315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 506098,
-      "num": 506098,
-      "word": "扶着点咱奶别摔了",
-      "onboard_time": 1738112720,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 494589,
       "num": 494589,
       "word": "DeepSeek",
@@ -347,20 +347,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 413937,
+      "num": 522425,
+      "word": "韩国起火客机原定飞往中国香港",
+      "onboard_time": 1738111820,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 412635,
       "num": 412635,
       "word": "低频的红包",
       "onboard_time": 1738079138,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 409963,
-      "num": 409963,
-      "word": "韩国起火客机原定飞往中国香港",
-      "onboard_time": 1738111820,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 388554,
@@ -419,8 +419,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 303619,
+      "num": 303619,
+      "word": "拜年",
+      "onboard_time": 1738112479,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 293163,
-      "num": 214954,
+      "num": 276138,
       "word": "她1小时写完王菲新歌的词",
       "onboard_time": 1738106295,
       "rank": 29,
@@ -443,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 267858,
+      "num": 483952,
+      "word": "大年初一起床时间",
+      "onboard_time": 1738114401,
+      "rank": 49,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 257174,
       "num": 864633,
       "word": "陈梦晒年夜饭",
@@ -457,6 +473,14 @@
       "onboard_time": 1738064789,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 245817,
+      "num": 245817,
+      "word": "撒贝宁说浓眉和化妆师没关系",
+      "onboard_time": 1738112840,
+      "rank": 25,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 231446,
@@ -491,28 +515,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 217161,
-      "num": 217161,
-      "word": "拜年",
-      "onboard_time": 1738112479,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
       "raw_hot": 212483,
       "num": 212483,
       "word": "谭维维20厘米高跟鞋",
       "onboard_time": 1738111580,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 210558,
-      "num": 210558,
-      "word": "撒贝宁说浓眉和化妆师没关系",
-      "onboard_time": 1738112840,
-      "rank": 25,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 202714,
@@ -523,12 +531,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200765,
+      "num": 160368,
+      "word": "王一博的头身比",
+      "onboard_time": 1738114161,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199684,
       "num": 199684,
       "word": "蛇年第一天接好运",
       "onboard_time": 1738089674,
       "rank": 19,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 197762,
+      "num": 174603,
+      "word": "射雕",
+      "onboard_time": 1738105815,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 195004,
@@ -545,6 +569,14 @@
       "onboard_time": 1738080267,
       "rank": 20,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 190326,
+      "num": 179382,
+      "word": "刘谦后面的苏有朋",
+      "onboard_time": 1738113800,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 188943,
@@ -571,22 +603,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 179382,
-      "num": 179382,
-      "word": "刘谦后面的苏有朋",
-      "onboard_time": 1738113800,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 174603,
-      "num": 174603,
-      "word": "射雕",
-      "onboard_time": 1738105815,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 171994,
       "num": 171994,
       "word": "岳云鹏春晚换搭档了",
@@ -603,20 +619,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162137,
+      "num": 187461,
+      "word": "今天是乙巳蛇年第一天",
+      "onboard_time": 1738114580,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 158444,
       "num": 767765,
       "word": "巳巳如意拜大年",
       "onboard_time": 1738081529,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 155833,
-      "num": 155833,
-      "word": "王一博的头身比",
-      "onboard_time": 1738114161,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 155581,
@@ -659,12 +675,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140099,
+      "num": 140099,
+      "word": "封神",
+      "onboard_time": 1738112420,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 136074,
       "num": 136074,
       "word": "OneRepublic真唱",
       "onboard_time": 1738085540,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135475,
+      "num": 144170,
+      "word": "湖人vs76人",
+      "onboard_time": 1738115180,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 129144,
@@ -683,28 +715,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126174,
-      "num": 187461,
-      "word": "今天是乙巳蛇年第一天",
-      "onboard_time": 1738114580,
-      "rank": 29,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 126019,
-      "num": 126019,
-      "word": "封神",
-      "onboard_time": 1738112420,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
       "raw_hot": 125876,
       "num": 125876,
       "word": "丁禹兮唱斗柄指东天下春",
       "onboard_time": 1738114161,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121782,
+      "num": 121782,
+      "word": "春节第一张电影票买哪场",
+      "onboard_time": 1738115420,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 118614,
@@ -731,6 +755,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 100989,
+      "num": 100989,
+      "word": "英伟达回应DeepSeek全球爆火",
+      "onboard_time": 1738115600,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 95392,
       "num": 95392,
       "word": "英伟达一夜跌掉2个半茅台",
@@ -745,14 +777,6 @@
       "onboard_time": 1738101252,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 93617,
-      "num": 93617,
-      "word": "大年初一起床时间",
-      "onboard_time": 1738114401,
-      "rank": 49,
-      "category": "正能量"
     },
     {
       "raw_hot": 92693,
@@ -947,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 35735,
+      "num": 283626,
+      "word": "今年春晚含面量太高了吧",
+      "onboard_time": 1738113500,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 33641,
       "num": 33641,
       "word": "住在心里的人",
@@ -977,14 +1009,6 @@
       "onboard_time": 1738107136,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 30100,
-      "num": 216252,
-      "word": "今年春晚含面量太高了吧",
-      "onboard_time": 1738113500,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 28629,

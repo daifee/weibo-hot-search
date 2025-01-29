@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738114806001,
+  "endTime": 1738115747323,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -2315,12 +2315,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1741726,
+      "num": 1741726,
+      "word": "金晨你怎么可以捅这么大的篓子",
+      "onboard_time": 1738090873,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1741684,
       "num": 1741684,
       "word": "中国代表团正在交涉",
       "onboard_time": 1737614179,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1735808,
+      "num": 1735808,
+      "word": "春晚收视率",
+      "onboard_time": 1738086677,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 1731317,
@@ -2393,14 +2409,6 @@
       "onboard_time": 1737363078,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1707343,
-      "num": 1707343,
-      "word": "金晨你怎么可以捅这么大的篓子",
-      "onboard_time": 1738090873,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1703411,
@@ -2632,14 +2640,6 @@
       "word": "刘谦 我董卿呢",
       "onboard_time": 1738073081,
       "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1637571,
-      "num": 1637571,
-      "word": "春晚收视率",
-      "onboard_time": 1738086677,
-      "rank": 20,
       "category": "综艺"
     },
     {
@@ -6929,6 +6929,14 @@
       "onboard_time": 1736999840,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 937319,
+      "num": 937319,
+      "word": "扶着点咱奶别摔了",
+      "onboard_time": 1738112720,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 936848,
@@ -15547,14 +15555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 506098,
-      "num": 506098,
-      "word": "扶着点咱奶别摔了",
-      "onboard_time": 1738112720,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 506081,
       "num": 209490,
       "word": "虞书欣裙子就是要叉着腰才好看",
@@ -19355,6 +19355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 413937,
+      "num": 522425,
+      "word": "韩国起火客机原定飞往中国香港",
+      "onboard_time": 1738111820,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 413821,
       "num": 413821,
       "word": "国考进面名单",
@@ -19537,14 +19545,6 @@
       "onboard_time": 1735967659,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 409963,
-      "num": 409963,
-      "word": "韩国起火客机原定飞往中国香港",
-      "onboard_time": 1738111820,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 409412,
@@ -25971,6 +25971,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 303619,
+      "num": 303619,
+      "word": "拜年",
+      "onboard_time": 1738063048,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 303507,
       "num": 303507,
       "word": "王曼昱回应决胜场争议判罚",
@@ -26852,7 +26860,7 @@
     },
     {
       "raw_hot": 293163,
-      "num": 214954,
+      "num": 276138,
       "word": "她1小时写完王菲新歌的词",
       "onboard_time": 1738106295,
       "rank": 29,
@@ -29243,6 +29251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 267858,
+      "num": 483952,
+      "word": "大年初一起床时间",
+      "onboard_time": 1738114401,
+      "rank": 49,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 267789,
       "num": 267789,
       "word": "王星泰国获救最该感谢谁",
@@ -31545,6 +31561,14 @@
       "onboard_time": 1737289939,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 245817,
+      "num": 245817,
+      "word": "撒贝宁说浓眉和化妆师没关系",
+      "onboard_time": 1738112840,
+      "rank": 25,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 245679,
@@ -35251,14 +35275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 217161,
-      "num": 217161,
-      "word": "拜年",
-      "onboard_time": 1738063048,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 217142,
       "num": 217142,
       "word": "爸爸带娃买了一斤豆坐飞机",
@@ -36361,14 +36377,6 @@
       "onboard_time": 1737195198,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 210558,
-      "num": 210558,
-      "word": "撒贝宁说浓眉和化妆师没关系",
-      "onboard_time": 1738112840,
-      "rank": 25,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 210537,
@@ -38763,6 +38771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200765,
+      "num": 160368,
+      "word": "王一博的头身比",
+      "onboard_time": 1738114161,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200758,
       "num": 200758,
       "word": "王鹤棣问心哭戏破碎感",
@@ -39673,6 +39689,14 @@
       "onboard_time": 1737208821,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197762,
+      "num": 174603,
+      "word": "射雕",
+      "onboard_time": 1738105815,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 197739,
@@ -42105,6 +42129,14 @@
       "onboard_time": 1737202637,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190326,
+      "num": 179382,
+      "word": "刘谦后面的苏有朋",
+      "onboard_time": 1738113800,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 190315,
@@ -45067,14 +45099,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 179382,
-      "num": 179382,
-      "word": "刘谦后面的苏有朋",
-      "onboard_time": 1738113800,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 179370,
       "num": 179370,
       "word": "都四九天了今年还会冷吗",
@@ -46401,14 +46425,6 @@
       "onboard_time": 1736424527,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 174603,
-      "num": 174603,
-      "word": "射雕",
-      "onboard_time": 1738105815,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 174583,
@@ -50347,6 +50363,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 162137,
+      "num": 187461,
+      "word": "今天是乙巳蛇年第一天",
+      "onboard_time": 1738114580,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 162128,
       "num": 162128,
       "word": "TTG 向鱼",
@@ -52457,14 +52481,6 @@
       "onboard_time": 1735896619,
       "rank": 19,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 155833,
-      "num": 155833,
-      "word": "王一博的头身比",
-      "onboard_time": 1738114161,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 155818,
@@ -57739,6 +57755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140099,
+      "num": 140099,
+      "word": "封神",
+      "onboard_time": 1738112420,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 140086,
       "num": 140086,
       "word": "莫兰特隔扣文班亚马",
@@ -59513,6 +59537,14 @@
       "onboard_time": 1737860357,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135475,
+      "num": 144170,
+      "word": "湖人vs76人",
+      "onboard_time": 1738115180,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 135451,
@@ -62851,14 +62883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126174,
-      "num": 187461,
-      "word": "今天是乙巳蛇年第一天",
-      "onboard_time": 1738114580,
-      "rank": 29,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 126160,
       "num": 645421,
       "word": "希望期末周的老师belike",
@@ -62921,14 +62945,6 @@
       "onboard_time": 1736407701,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 126019,
-      "num": 126019,
-      "word": "封神",
-      "onboard_time": 1738112420,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 126018,
@@ -64473,6 +64489,14 @@
       "onboard_time": 1737624019,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121782,
+      "num": 121782,
+      "word": "春节第一张电影票买哪场",
+      "onboard_time": 1738115420,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 121779,
@@ -71715,6 +71739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100989,
+      "num": 100989,
+      "word": "英伟达回应DeepSeek全球爆火",
+      "onboard_time": 1738115600,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 100942,
       "num": 100942,
       "word": "淮水竹亭岁岁欢喜花絮",
@@ -73625,14 +73657,6 @@
       "onboard_time": 1736726177,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 93617,
-      "num": 93617,
-      "word": "大年初一起床时间",
-      "onboard_time": 1738114401,
-      "rank": 49,
-      "category": "正能量"
     },
     {
       "raw_hot": 93611,
@@ -84595,6 +84619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 35735,
+      "num": 283626,
+      "word": "今年春晚含面量太高了吧",
+      "onboard_time": 1738113500,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 35680,
       "num": 291079,
       "word": "戒毒和缉毒一样都是至死方休的战争",
@@ -86009,14 +86041,6 @@
       "onboard_time": 1735738764,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 30100,
-      "num": 216252,
-      "word": "今年春晚含面量太高了吧",
-      "onboard_time": 1738113500,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 30081,
