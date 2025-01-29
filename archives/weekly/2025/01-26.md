@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/26 00:26:10 ~ 2025/01/30 03:18:37
+本榜单时间：2025/01/26 00:26:10 ~ 2025/01/30 03:35:41
 </p>
 </blockquote>
 <p>
@@ -9663,6 +9663,12 @@ IVE末放舞台（热度：37513）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E5%88%B6%E4%BD%9C%E4%BA%BA%E5%BC%A0%E6%9D%B0%E6%9C%89%E4%BA%86%E5%AE%9E%E6%84%9F%23" target="weibo">
+对制作人张杰有了实感（热度：20426）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23GAI2025%E6%96%B0%E4%B8%93%E8%BE%91%23" target="weibo">
 GAI2025新专辑（热度：20423）
 </a>
@@ -9815,6 +9821,12 @@ DeepSeek概念集体大涨（热度：14650）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%A8%E9%9B%AA%E5%9B%9E%E5%AE%B6%E8%B7%AF%E4%B8%8A%E6%9C%89%E4%BA%A4%E8%AD%A6%E5%B8%A6%E9%81%93%E7%9A%84%E5%AE%89%E5%85%A8%E6%84%9F%23" target="weibo">
 雨雪回家路上有交警带道的安全感（热度：12587）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BC%E5%9F%8Evs%E5%B8%83%E9%B2%81%E6%97%A5%23" target="weibo">
+曼城vs布鲁日（热度：12396）
 </a>
 </li>
 

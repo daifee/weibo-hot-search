@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738178317788,
+  "endTime": 1738179341330,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -11084,7 +11084,7 @@
     },
     {
       "raw_hot": 71635,
-      "num": 90416,
+      "num": 124701,
       "word": "南苏丹一架飞机坠毁18人死亡",
       "onboard_time": 1738166777,
       "rank": 46,
@@ -12867,6 +12867,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 20426,
+      "num": 21507,
+      "word": "对制作人张杰有了实感",
+      "onboard_time": 1738178351,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 20423,
       "num": 165937,
       "word": "GAI2025新专辑",
@@ -13073,6 +13081,14 @@
       "onboard_time": 1737922211,
       "rank": 11,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 12396,
+      "num": 21499,
+      "word": "曼城vs布鲁日",
+      "onboard_time": 1738178711,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 12358,
