@@ -1,6 +1,6 @@
 {
   "startTime": 1738081671448,
-  "endTime": 1738139302388,
+  "endTime": 1738140081969,
   "band_list": [
     {
       "raw_hot": 10062879,
@@ -235,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1025979,
+      "num": 1025979,
+      "word": "马天宇晒三人行合照",
+      "onboard_time": 1738136178,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1020804,
       "num": 2203214,
       "word": "DeepSeek创始人回广东过年要躲起来",
@@ -249,14 +257,6 @@
       "onboard_time": 1738117581,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 972190,
-      "num": 972190,
-      "word": "马天宇晒三人行合照",
-      "onboard_time": 1738136178,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 958176,
@@ -411,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 659280,
+      "num": 659280,
+      "word": "方太初点头",
+      "onboard_time": 1738137198,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 651209,
       "num": 1011352,
       "word": "武汉分会场 凤凰涅槃浴火重生",
@@ -555,14 +563,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 475991,
-      "num": 475991,
-      "word": "方太初点头",
-      "onboard_time": 1738137198,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 437209,
       "num": 437209,
       "word": "沈马 背德cp感",
@@ -611,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 408926,
+      "num": 408926,
+      "word": "中纪委严肃查处的问题上春晚了",
+      "onboard_time": 1738137258,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 388554,
       "num": 388554,
       "word": "韩国釜山金海机场飞机失火",
@@ -632,6 +640,14 @@
       "word": "美国海军禁用DeepSeek",
       "onboard_time": 1738131320,
       "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 383462,
+      "num": 383462,
+      "word": "美国夸完DeepSeek后称其是偷窃",
+      "onboard_time": 1738135758,
+      "rank": 21,
       "category": "国际时政"
     },
     {
@@ -699,6 +715,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 317888,
+      "num": 317888,
+      "word": "人形机器人失误是有意为之",
+      "onboard_time": 1738139177,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 315454,
+      "num": 315454,
+      "word": "娜然封神首映再现妲己花瓣妆",
+      "onboard_time": 1738137799,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 315280,
       "num": 309511,
       "word": "欢天喜地七帅哥",
@@ -715,28 +747,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 302137,
-      "num": 334832,
-      "word": "美国夸完DeepSeek后称其是偷窃",
-      "onboard_time": 1738135758,
-      "rank": 21,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 293163,
       "num": 276138,
       "word": "她1小时写完王菲新歌的词",
       "onboard_time": 1738106295,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 283938,
-      "num": 139135,
-      "word": "中纪委严肃查处的问题上春晚了",
-      "onboard_time": 1738137258,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 277962,
@@ -763,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269256,
+      "num": 269256,
+      "word": "陈梦发的球尼格买提一个也没接住",
+      "onboard_time": 1738138758,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 268688,
       "num": 489001,
       "word": "喻言加入天娱传媒",
@@ -779,16 +803,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 260001,
-      "num": 260001,
-      "word": "娜然封神首映再现妲己花瓣妆",
-      "onboard_time": 1738137799,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 258867,
-      "num": 153592,
+      "num": 233507,
       "word": "朱一龙晒春晚照片",
       "onboard_time": 1738137258,
       "rank": 25,
@@ -889,6 +905,14 @@
       "onboard_time": 1738126100,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 236507,
+      "num": 476172,
+      "word": "今年春晚印象最深的歌曲",
+      "onboard_time": 1738136958,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 234474,
@@ -992,14 +1016,6 @@
       "word": "谭维维20厘米高跟鞋",
       "onboard_time": 1738111580,
       "rank": 24,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 211326,
-      "num": 106448,
-      "word": "陈梦发的球尼格买提一个也没接住",
-      "onboard_time": 1738138758,
-      "rank": 37,
       "category": "综艺"
     },
     {
@@ -1107,6 +1123,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 192865,
+      "num": 99696,
+      "word": "票房",
+      "onboard_time": 1738139658,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 191539,
       "num": 336177,
       "word": "唐探让尹正的野人路越走越远",
@@ -1140,7 +1164,7 @@
     },
     {
       "raw_hot": 188390,
-      "num": 999011,
+      "num": 1040406,
       "word": "北京台春晚节目单",
       "onboard_time": 1738117701,
       "rank": 34,
@@ -1152,6 +1176,14 @@
       "word": "王一博攀岩拜年照",
       "onboard_time": 1738138218,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 187300,
+      "num": 96992,
+      "word": "吴昕对烟花的解读好大女主",
+      "onboard_time": 1738139539,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -1219,6 +1251,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 177644,
+      "num": 89883,
+      "word": "建议封神3马上上映",
+      "onboard_time": 1738139719,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 177452,
       "num": 177452,
       "word": "邓超out",
@@ -1280,6 +1320,14 @@
       "word": "邓婵玉 女人中的女人",
       "onboard_time": 1738126400,
       "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 162502,
+      "num": 355035,
+      "word": "于适把路演观众养得很好",
+      "onboard_time": 1738139120,
+      "rank": 29,
       "category": "电影"
     },
     {
@@ -1361,14 +1409,6 @@
       "onboard_time": 1738106055,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 147795,
-      "num": 147795,
-      "word": "于适把路演观众养得很好",
-      "onboard_time": 1738139120,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 146981,
@@ -1547,14 +1587,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 116370,
-      "num": 476172,
-      "word": "今年春晚印象最深的歌曲",
-      "onboard_time": 1738136958,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 114293,
       "num": 114293,
       "word": "雷军大年初一还在健身",
@@ -1612,7 +1644,7 @@
     },
     {
       "raw_hot": 96262,
-      "num": 150098,
+      "num": 272242,
       "word": "WTT新加坡大满贯",
       "onboard_time": 1738133478,
       "rank": 43,
@@ -1867,6 +1899,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 43671,
+      "num": 94154,
+      "word": "乌尔善谈国民神话的意义",
+      "onboard_time": 1738139358,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 40624,
       "num": 40624,
       "word": "杨紫带着piu仔给大家拜年啦",
@@ -2043,6 +2083,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 23346,
+      "num": 316470,
+      "word": "极狐汽车有自己发红包的方式",
+      "onboard_time": 1738139418,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 22471,
       "num": 24869,
       "word": "假如",
@@ -2075,6 +2123,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 20588,
+      "num": 108734,
+      "word": "创意剪纸致敬家国守护者",
+      "onboard_time": 1738140020,
+      "rank": 36,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 18601,
+      "num": 92837,
+      "word": "挑战用中国汉堡做出四菜一汤",
+      "onboard_time": 1738139418,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14965,
       "num": 352689,
       "word": "福克斯申请交易",
@@ -2089,6 +2153,14 @@
       "onboard_time": 1738092432,
       "rank": 9,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 9855,
+      "num": 339338,
+      "word": "微博上新蛇年新福",
+      "onboard_time": 1738139238,
+      "rank": 38,
+      "category": "其它"
     },
     {
       "raw_hot": 9846,
@@ -2145,14 +2217,6 @@
       "onboard_time": 1738099992,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 5598,
-      "num": 105558,
-      "word": "微博上新蛇年新福",
-      "onboard_time": 1738139238,
-      "rank": 38,
-      "category": "其它"
     }
   ],
   "hotgov_list": [
