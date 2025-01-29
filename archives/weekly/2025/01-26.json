@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738192845369,
+  "endTime": 1738193738157,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -2667,6 +2667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 466169,
+      "num": 877104,
+      "word": "杭州雷峰塔真的有压了千年的小白",
+      "onboard_time": 1738192934,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 466070,
       "num": 560635,
       "word": "00后女生给妈妈磕888个头获1000元红包",
@@ -3385,6 +3393,14 @@
       "onboard_time": 1737964097,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 354690,
+      "num": 354690,
+      "word": "美国对deepseek下手了",
+      "onboard_time": 1738192934,
+      "rank": 1,
+      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 354484,
@@ -7467,6 +7483,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 150054,
+      "num": 150054,
+      "word": "应采儿两个儿子近照",
+      "onboard_time": 1738192873,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149825,
       "num": 149825,
       "word": "白鹿程潇下一站春晚同框",
@@ -7825,6 +7849,14 @@
       "onboard_time": 1737987979,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 141583,
+      "num": 141583,
+      "word": "大年初二",
+      "onboard_time": 1738192873,
+      "rank": 11,
+      "category": "正能量"
     },
     {
       "raw_hot": 141576,
@@ -9299,6 +9331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109949,
+      "num": 158622,
+      "word": "易烊千玺回应一年没接新角色",
+      "onboard_time": 1738192934,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109835,
       "num": 163001,
       "word": "柯洁祝战鹰新年快乐",
@@ -9651,6 +9691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102882,
+      "num": 102882,
+      "word": "欧冠",
+      "onboard_time": 1738192873,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102837,
       "num": 939936,
       "word": "大年初一省服时装周",
@@ -9724,7 +9772,7 @@
     },
     {
       "raw_hot": 101936,
-      "num": 81224,
+      "num": 98695,
       "word": "黄轩女友夸蒋璐霞非常酷",
       "onboard_time": 1738189032,
       "rank": 40,
@@ -9841,6 +9889,14 @@
       "onboard_time": 1737849497,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100545,
+      "num": 100545,
+      "word": "春晚导演组回应机器人是有裤子的",
+      "onboard_time": 1738192873,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 100377,
@@ -11803,6 +11859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 49661,
+      "num": 49661,
+      "word": "两岁宝宝的理解太棒了",
+      "onboard_time": 1738192993,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49217,
       "num": 209769,
       "word": "蛟龙行动大开眼界",
@@ -11865,6 +11929,14 @@
       "onboard_time": 1737965657,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47645,
+      "num": 47645,
+      "word": "中国电影史单日票房破纪录",
+      "onboard_time": 1738175112,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 47321,
@@ -11995,12 +12067,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 42012,
+      "num": 151563,
+      "word": "县城2888一顿的年夜饭是谁在吃",
+      "onboard_time": 1738192993,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41513,
       "num": 192569,
       "word": "人形机器人是AI的最佳载体吗",
       "onboard_time": 1737883217,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 41471,
+      "num": 41471,
+      "word": "苏醒转身就走像下定了某种决心",
+      "onboard_time": 1738180213,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 41459,
@@ -12011,20 +12099,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41396,
+      "num": 41396,
+      "word": "春晚机器人创始人与浙大失之交臂",
+      "onboard_time": 1738193594,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 40624,
       "num": 40624,
       "word": "杨紫带着piu仔给大家拜年啦",
       "onboard_time": 1738092192,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 40618,
-      "num": 40618,
-      "word": "中国电影史单日票房破纪录",
-      "onboard_time": 1738175112,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 40576,
@@ -12259,6 +12347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 35117,
+      "num": 35117,
+      "word": "人民网评封神第二部",
+      "onboard_time": 1738192273,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 34893,
       "num": 105272,
       "word": "众所周知泡面在火车上吃最香",
@@ -12273,14 +12369,6 @@
       "onboard_time": 1737883038,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 34799,
-      "num": 34799,
-      "word": "苏醒转身就走像下定了某种决心",
-      "onboard_time": 1738180213,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 33741,
@@ -12779,14 +12867,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23366,
-      "num": 32725,
-      "word": "人民网评封神第二部",
-      "onboard_time": 1738192273,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 23291,
       "num": 735594,
       "word": "来自文物的祝福",
@@ -12897,6 +12977,14 @@
       "onboard_time": 1738182132,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20971,
+      "num": 72286,
+      "word": "河北骄傲孙颖莎给大家拜年了",
+      "onboard_time": 1738192934,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 20668,

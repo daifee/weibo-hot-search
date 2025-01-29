@@ -1,6 +1,6 @@
 {
   "startTime": 1738168091636,
-  "endTime": 1738192845369,
+  "endTime": 1738193738157,
   "band_list": [
     {
       "raw_hot": 1259141,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 466169,
+      "num": 877104,
+      "word": "杭州雷峰塔真的有压了千年的小白",
+      "onboard_time": 1738192934,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 458157,
       "num": 458157,
       "word": "看完唐探1900的我belike",
@@ -81,6 +89,14 @@
       "onboard_time": 1738161500,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 354690,
+      "num": 354690,
+      "word": "美国对deepseek下手了",
+      "onboard_time": 1738192934,
+      "rank": 1,
+      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 354484,
@@ -179,7 +195,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 160815,
+      "raw_hot": 164069,
       "num": 298763,
       "word": "县城年夜饭快倒挂一线饭店了",
       "onboard_time": 1738155079,
@@ -193,6 +209,14 @@
       "onboard_time": 1738167318,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150054,
+      "num": 150054,
+      "word": "应采儿两个儿子近照",
+      "onboard_time": 1738192873,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 149457,
@@ -217,6 +241,14 @@
       "onboard_time": 1738160360,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141583,
+      "num": 141583,
+      "word": "大年初二",
+      "onboard_time": 1738192873,
+      "rank": 11,
+      "category": "正能量"
     },
     {
       "raw_hot": 138949,
@@ -299,6 +331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 109949,
+      "num": 158622,
+      "word": "易烊千玺回应一年没接新角色",
+      "onboard_time": 1738192934,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109796,
       "num": 109796,
       "word": "看完唐探我先替陈思诚哭两声",
@@ -307,12 +347,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 102882,
+      "num": 102882,
+      "word": "欧冠",
+      "onboard_time": 1738192873,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101936,
-      "num": 81224,
+      "num": 98695,
       "word": "黄轩女友夸蒋璐霞非常酷",
       "onboard_time": 1738189032,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 100545,
+      "num": 100545,
+      "word": "春晚导演组回应机器人是有裤子的",
+      "onboard_time": 1738192873,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 96417,
@@ -331,7 +387,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 83863,
+      "raw_hot": 86161,
       "num": 111888,
       "word": "女生给妈妈磕888个头获千元红包",
       "onboard_time": 1738151899,
@@ -371,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66241,
+      "num": 66241,
+      "word": "哪吒票房",
+      "onboard_time": 1738149140,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 65006,
       "num": 80962,
       "word": "哪吒 又温情又热血",
@@ -385,14 +449,6 @@
       "onboard_time": 1738139177,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 61906,
-      "num": 61906,
-      "word": "哪吒票房",
-      "onboard_time": 1738149140,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 60593,
@@ -435,12 +491,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51968,
+      "num": 51968,
+      "word": "黄圣依 姐就是女王",
+      "onboard_time": 1738155079,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 49661,
+      "num": 49661,
+      "word": "两岁宝宝的理解太棒了",
+      "onboard_time": 1738192993,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48260,
       "num": 89841,
       "word": "景区回应美人鱼表演者遭鲟鱼袭击",
       "onboard_time": 1738166418,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47645,
+      "num": 47645,
+      "word": "中国电影史单日票房破纪录",
+      "onboard_time": 1738175112,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 44053,
@@ -451,20 +531,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42012,
+      "num": 151563,
+      "word": "县城2888一顿的年夜饭是谁在吃",
+      "onboard_time": 1738192993,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41471,
+      "num": 41471,
+      "word": "苏醒转身就走像下定了某种决心",
+      "onboard_time": 1738180213,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 41396,
+      "num": 41396,
+      "word": "春晚机器人创始人与浙大失之交臂",
+      "onboard_time": 1738193594,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 40946,
       "num": 89288,
       "word": "外国人不语只是一味交才艺税",
       "onboard_time": 1738160242,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 40618,
-      "num": 40618,
-      "word": "中国电影史单日票房破纪录",
-      "onboard_time": 1738175112,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 38533,
@@ -475,12 +571,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 34799,
-      "num": 34799,
-      "word": "苏醒转身就走像下定了某种决心",
-      "onboard_time": 1738180213,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 35117,
+      "num": 35117,
+      "word": "人民网评封神第二部",
+      "onboard_time": 1738192273,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 32633,
@@ -531,14 +627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 23366,
-      "num": 32725,
-      "word": "人民网评封神第二部",
-      "onboard_time": 1738192273,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 22971,
       "num": 100852,
       "word": "春节宝宝来了",
@@ -561,6 +649,14 @@
       "onboard_time": 1738182132,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20971,
+      "num": 72286,
+      "word": "河北骄傲孙颖莎给大家拜年了",
+      "onboard_time": 1738192934,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 20426,
