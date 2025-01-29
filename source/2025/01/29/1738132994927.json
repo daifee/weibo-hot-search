@@ -1,0 +1,410 @@
+{
+  "runTime": 1738132994927,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1989363,
+        "num": 1989363,
+        "word": "马丽 甲状腺",
+        "onboard_time": 1738128082,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 746813,
+        "num": 987126,
+        "word": "蛇宝宝出生",
+        "onboard_time": 1738127960,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81705,
+        "num": 845736,
+        "word": "北京台春晚节目单",
+        "onboard_time": 1738117701,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 782562,
+        "num": 782562,
+        "word": "导演组回应沈腾马丽小品没演完",
+        "onboard_time": 1738118841,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 772991,
+        "num": 772991,
+        "word": "金晨给被砸中的小孩儿道歉",
+        "onboard_time": 1738124839,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159268,
+        "num": 729324,
+        "word": "大年初一起床时间",
+        "onboard_time": 1738114401,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 715696,
+        "num": 715696,
+        "word": "任敏差点成为下一个尼格买提",
+        "onboard_time": 1738125500,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 652660,
+        "num": 652660,
+        "word": "春节档票房",
+        "onboard_time": 1738117581,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117335,
+        "num": 559494,
+        "word": "大年初一福气满满",
+        "onboard_time": 1738127840,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 211952,
+        "num": 544188,
+        "word": "美国海军禁用DeepSeek",
+        "onboard_time": 1738131320,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 668001,
+        "num": 538966,
+        "word": "张雨绮刘子琪分手",
+        "onboard_time": 1738126880,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 529006,
+        "num": 529006,
+        "word": "肖战你们的岁数好像还没到",
+        "onboard_time": 1738131439,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 526319,
+        "num": 526319,
+        "word": "敖光 东海尤物",
+        "onboard_time": 1738130120,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 517706,
+        "num": 517706,
+        "word": "春晚总导演回应邓超缺席",
+        "onboard_time": 1738118901,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 391359,
+        "num": 498751,
+        "word": "全红婵发文说理智一点吧",
+        "onboard_time": 1738131678,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 488249,
+        "num": 488249,
+        "word": "1分钟我要知道邓婵玉全部信息",
+        "onboard_time": 1738127600,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114558,
+        "num": 481481,
+        "word": "新年快乐",
+        "onboard_time": 1738082248,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96332,
+        "num": 467558,
+        "word": "正月初一过年好",
+        "onboard_time": 1738123280,
+        "rank": 17,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 277962,
+        "num": 454173,
+        "word": "春节档影评大赛",
+        "onboard_time": 1738131980,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 8611,
+        "num": 441801,
+        "word": "揭秘上春晚扭秧歌机器人背后公司",
+        "onboard_time": 1738132699,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252810,
+        "num": 435135,
+        "word": "DeepSeek遭美国IP网攻暴力破解",
+        "onboard_time": 1738117581,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 428181,
+        "num": 428181,
+        "word": "张雨绮男友晒合照官宣恋情",
+        "onboard_time": 1738123700,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366805,
+        "num": 366805,
+        "word": "Angelababy发和儿子合照",
+        "onboard_time": 1738115781,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337272,
+        "num": 337272,
+        "word": "南方人不看春晚",
+        "onboard_time": 1738127900,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230843,
+        "num": 230843,
+        "word": "美军f35坠毁现场升腾起蘑菇云",
+        "onboard_time": 1738123700,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 306988,
+        "num": 229506,
+        "word": "姬发邓婵玉感情线",
+        "onboard_time": 1738124178,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 294055,
+        "num": 221816,
+        "word": "哪吒",
+        "onboard_time": 1738117581,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 91128,
+        "num": 216874,
+        "word": "网络中国节",
+        "onboard_time": 1738118180,
+        "rank": 27,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 87909,
+        "num": 212187,
+        "word": "非遗春节大拜年",
+        "onboard_time": 1738117820,
+        "rank": 28,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 182348,
+        "num": 206357,
+        "word": "卢昱晓王星越初一拜年",
+        "onboard_time": 1738132037,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286268,
+        "num": 201793,
+        "word": "殷郊法相",
+        "onboard_time": 1738127058,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 284654,
+        "num": 196218,
+        "word": "唐探1900",
+        "onboard_time": 1738115899,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 232495,
+        "num": 191291,
+        "word": "赵雅芝71岁状态比我21的还精神",
+        "onboard_time": 1738131919,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190807,
+        "num": 190807,
+        "word": "美F35战机坠毁视频",
+        "onboard_time": 1738130960,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 177973,
+        "num": 188441,
+        "word": "特朗普给马斯克下任务接滞留宇航员",
+        "onboard_time": 1738131078,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 186094,
+        "num": 186094,
+        "word": "射雕主创空降陪观众看第一场电影",
+        "onboard_time": 1738127600,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180303,
+        "num": 180303,
+        "word": "敖丙他爸好帅",
+        "onboard_time": 1738132219,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152731,
+        "num": 179869,
+        "word": "俄外长称DeepSeek超越美国",
+        "onboard_time": 1738131140,
+        "rank": 37,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 136087,
+        "num": 179654,
+        "word": "春节偏财运爆表星座",
+        "onboard_time": 1738130898,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 69589,
+        "num": 179615,
+        "word": "蛇年第一天接好运",
+        "onboard_time": 1738089674,
+        "rank": 39,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 179606,
+        "num": 179606,
+        "word": "沈腾凭什么演马丽女婿",
+        "onboard_time": 1738120339,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178356,
+        "num": 178356,
+        "word": "华筝 英姿飒爽",
+        "onboard_time": 1738129280,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173110,
+        "num": 173110,
+        "word": "封神",
+        "onboard_time": 1738112420,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38207,
+        "num": 171955,
+        "word": "胡歌的新年推荐",
+        "onboard_time": 1738132519,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 88697,
+        "num": 170474,
+        "word": "塞尔维亚总理辞职武契奇表态",
+        "onboard_time": 1738131618,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70569,
+        "num": 168847,
+        "word": "沈星回星星生气啦",
+        "onboard_time": 1738132037,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 67693,
+        "num": 168374,
+        "word": "故宫发布开门红壁纸",
+        "onboard_time": 1738126339,
+        "rank": 46,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 61541,
+        "num": 166402,
+        "word": "2025春节假期天气地图",
+        "onboard_time": 1738131320,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47932,
+        "num": 164875,
+        "word": "孙颖莎祝福大家吉祥如意",
+        "onboard_time": 1738126280,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82812,
+        "num": 163455,
+        "word": "美国正式通知联合国退出巴黎协定",
+        "onboard_time": 1738126280,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的新春牵挂#"
+    }
+  }
+}
