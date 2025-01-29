@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738157906641,
+  "endTime": 1738160445260,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -2243,6 +2243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1791596,
+      "num": 1791596,
+      "word": "虞书欣 在干嘛呀",
+      "onboard_time": 1738158020,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1790804,
       "num": 1790804,
       "word": "星光大赏 民政局",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735870699,
       "rank": 1,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1723954,
-      "num": 332112,
-      "word": "艾特经历40次火龙果12次心肺复苏",
-      "onboard_time": 1737383180,
-      "rank": 16,
-      "category": "民生新闻,网红"
     }
   ],
   "hotgov_list": [
