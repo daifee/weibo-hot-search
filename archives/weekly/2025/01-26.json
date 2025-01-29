@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738140081969,
+  "endTime": 1738142583995,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -715,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1148324,
+      "num": 1148324,
+      "word": "票房",
+      "onboard_time": 1738139658,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1145044,
       "num": 1145044,
       "word": "金晨给被砸中的小孩儿道歉",
@@ -800,6 +808,14 @@
       "word": "辽视春晚",
       "onboard_time": 1737976996,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1083948,
+      "num": 1083948,
+      "word": "人形机器人失误是有意为之",
+      "onboard_time": 1738139177,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -1947,6 +1963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 549190,
+      "num": 514104,
+      "word": "中纪委严肃查处的问题上春晚了",
+      "onboard_time": 1738137258,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 547367,
       "num": 547367,
       "word": "姬发邓婵玉感情线",
@@ -2089,6 +2113,14 @@
       "onboard_time": 1737856938,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 513883,
+      "num": 513883,
+      "word": "哪吒特效",
+      "onboard_time": 1738141459,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 512870,
@@ -2563,6 +2595,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 433204,
+      "num": 433204,
+      "word": "簪中录",
+      "onboard_time": 1738141399,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 431365,
       "num": 431365,
       "word": "余承东直播被封",
@@ -2696,14 +2736,6 @@
       "word": "易烊千玺第八次登台春晚了",
       "onboard_time": 1737980717,
       "rank": 14,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 408926,
-      "num": 408926,
-      "word": "中纪委严肃查处的问题上春晚了",
-      "onboard_time": 1738137258,
-      "rank": 31,
       "category": "综艺"
     },
     {
@@ -2985,6 +3017,14 @@
       "onboard_time": 1737921970,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 368199,
+      "num": 228325,
+      "word": "唐探1900格局",
+      "onboard_time": 1738141639,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 367807,
@@ -3379,14 +3419,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 317888,
-      "num": 317888,
-      "word": "人形机器人失误是有意为之",
-      "onboard_time": 1738139177,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 315454,
       "num": 315454,
       "word": "娜然封神首映再现妲己花瓣妆",
@@ -3497,6 +3529,14 @@
       "onboard_time": 1737979217,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 300821,
+      "num": 227282,
+      "word": "射雕英雄传",
+      "onboard_time": 1738141340,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 300727,
@@ -3624,6 +3664,14 @@
       "word": "2025辽视春晚节目单来啦",
       "onboard_time": 1737970396,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 287289,
+      "num": 476172,
+      "word": "今年春晚印象最深的歌曲",
+      "onboard_time": 1738136958,
+      "rank": 9,
       "category": "综艺"
     },
     {
@@ -4323,14 +4371,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 236507,
-      "num": 476172,
-      "word": "今年春晚印象最深的歌曲",
-      "onboard_time": 1738136958,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 235682,
       "num": 179738,
       "word": "每晚必拔WiFi没苦硬吃是我爸妈没错了",
@@ -4491,12 +4531,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 223632,
+      "num": 223632,
+      "word": "MBC歌谣大祭典",
+      "onboard_time": 1738140078,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 223192,
       "num": 210535,
       "word": "你好星期六拍立得",
       "onboard_time": 1737892159,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222430,
+      "num": 847493,
+      "word": "苏州蛇年小宝宝出生啦",
+      "onboard_time": 1738140438,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 222046,
@@ -5267,14 +5323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192865,
-      "num": 99696,
-      "word": "票房",
-      "onboard_time": 1738139658,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 192722,
       "num": 194317,
       "word": "沈月福娃妆造",
@@ -5412,7 +5460,7 @@
     },
     {
       "raw_hot": 188390,
-      "num": 1040406,
+      "num": 1152146,
       "word": "北京台春晚节目单",
       "onboard_time": 1738117701,
       "rank": 34,
@@ -6436,7 +6484,7 @@
     },
     {
       "raw_hot": 155986,
-      "num": 155986,
+      "num": 223121,
       "word": "闲鱼买券反要求按原价AA",
       "onboard_time": 1738133299,
       "rank": 39,
@@ -7300,7 +7348,7 @@
     },
     {
       "raw_hot": 134358,
-      "num": 134358,
+      "num": 225079,
       "word": "全红婵呼吁不要打扰家人",
       "onboard_time": 1738132818,
       "rank": 42,
@@ -8403,6 +8451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109367,
+      "num": 225174,
+      "word": "女孩穿校服跳拉丁舞上央视",
+      "onboard_time": 1738140979,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109289,
       "num": 109289,
       "word": "天才少女罗福莉参与开发DeepSeek",
@@ -8697,6 +8753,14 @@
       "onboard_time": 1737956176,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 103837,
+      "num": 226814,
+      "word": "会长是女仆大人漫画新作",
+      "onboard_time": 1738140858,
+      "rank": 23,
+      "category": "动漫"
     },
     {
       "raw_hot": 103170,
@@ -9204,7 +9268,7 @@
     },
     {
       "raw_hot": 93846,
-      "num": 170474,
+      "num": 217436,
       "word": "塞尔维亚总理辞职武契奇表态",
       "onboard_time": 1738131618,
       "rank": 44,
@@ -9249,6 +9313,14 @@
       "onboard_time": 1738080267,
       "rank": 22,
       "category": "综艺,汽车"
+    },
+    {
+      "raw_hot": 92640,
+      "num": 226014,
+      "word": "山东人大年初一拜年磕头队伍数百米",
+      "onboard_time": 1738141038,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92440,
@@ -10899,6 +10971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 40021,
+      "num": 215522,
+      "word": "挑战用中国汉堡做出四菜一汤",
+      "onboard_time": 1738139418,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39892,
       "num": 240692,
       "word": "福原爱一身红衣拜年",
@@ -11347,6 +11427,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 26806,
+      "num": 316470,
+      "word": "极狐汽车有自己发红包的方式",
+      "onboard_time": 1738139418,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 26594,
       "num": 154313,
       "word": "高校有自己的SSR",
@@ -11547,14 +11635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23346,
-      "num": 316470,
-      "word": "极狐汽车有自己发红包的方式",
-      "onboard_time": 1738139418,
-      "rank": 24,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 23075,
       "num": 289139,
       "word": "流动的中国2025",
@@ -11571,12 +11651,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22476,
+      "num": 224825,
+      "word": "蛇年巳巳如意壁纸",
+      "onboard_time": 1738141639,
+      "rank": 34,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 22471,
       "num": 24869,
       "word": "假如",
       "onboard_time": 1738099271,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 22362,
+      "num": 225704,
+      "word": "熊出没11年票房超78亿",
+      "onboard_time": 1738141759,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 22254,
@@ -11715,14 +11811,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 18601,
-      "num": 92837,
-      "word": "挑战用中国汉堡做出四菜一汤",
-      "onboard_time": 1738139418,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 18337,
       "num": 151551,
       "word": "马龙变乖乖龙",
@@ -11809,6 +11897,14 @@
       "onboard_time": 1737949096,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 14352,
+      "num": 223865,
+      "word": "林超贤是懂意想不到的",
+      "onboard_time": 1738136838,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 13062,
@@ -11963,6 +12059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 9286,
+      "num": 224112,
+      "word": "灵珠版哪吒爆笑亮相",
+      "onboard_time": 1738142538,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 8933,
       "num": 61517,
       "word": "用非遗剪纸打开城市地标",
@@ -12025,6 +12129,14 @@
       "onboard_time": 1738099992,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 5913,
+      "num": 218665,
+      "word": "乌尔善镜头里的呼伦贝尔",
+      "onboard_time": 1738142419,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 4801,
