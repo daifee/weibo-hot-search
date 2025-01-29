@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738142583995,
+  "endTime": 1738143396384,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -5235,6 +5235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1115527,
+      "num": 1115527,
+      "word": "人形机器人失误是有意为之",
+      "onboard_time": 1738139177,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1112785,
       "num": 378058,
       "word": "杨子回归家庭的日子",
@@ -5513,14 +5521,6 @@
       "onboard_time": 1737619042,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1083948,
-      "num": 1083948,
-      "word": "人形机器人失误是有意为之",
-      "onboard_time": 1738139177,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 1083676,
@@ -8153,6 +8153,14 @@
       "onboard_time": 1736437882,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 851366,
+      "num": 851366,
+      "word": "哪吒特效",
+      "onboard_time": 1738141459,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 850734,
@@ -11916,7 +11924,7 @@
     },
     {
       "raw_hot": 640509,
-      "num": 640509,
+      "num": 702424,
       "word": "美国正对DeepSeek开展国家安全调查",
       "onboard_time": 1738133599,
       "rank": 12,
@@ -14219,6 +14227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 554313,
+      "num": 554313,
+      "word": "簪中录",
+      "onboard_time": 1738141399,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 554269,
       "num": 532761,
       "word": "小水你美",
@@ -14364,7 +14380,7 @@
     },
     {
       "raw_hot": 549190,
-      "num": 514104,
+      "num": 517314,
       "word": "中纪委严肃查处的问题上春晚了",
       "onboard_time": 1738137258,
       "rank": 31,
@@ -15465,14 +15481,6 @@
       "onboard_time": 1735804100,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 513883,
-      "num": 513883,
-      "word": "哪吒特效",
-      "onboard_time": 1738141459,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 512951,
@@ -17041,6 +17049,14 @@
       "onboard_time": 1736774180,
       "rank": 39,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 474226,
+      "num": 474226,
+      "word": "唐探1900格局",
+      "onboard_time": 1738141639,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 474212,
@@ -18683,6 +18699,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 434773,
+      "num": 227282,
+      "word": "射雕英雄传",
+      "onboard_time": 1737342618,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 434706,
       "num": 392752,
       "word": "李昀锐嘟嘟嘴",
@@ -18729,14 +18753,6 @@
       "onboard_time": 1736121320,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 433204,
-      "num": 433204,
-      "word": "簪中录",
-      "onboard_time": 1738141399,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 432837,
@@ -22041,14 +22057,6 @@
       "onboard_time": 1737288858,
       "rank": 9,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 368199,
-      "num": 228325,
-      "word": "唐探1900格局",
-      "onboard_time": 1738141639,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 368134,
@@ -26579,14 +26587,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 300821,
-      "num": 227282,
-      "word": "射雕英雄传",
-      "onboard_time": 1737342618,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
       "raw_hot": 300796,
       "num": 300796,
       "word": "夏以昼兄妹关系解除",
@@ -26729,6 +26729,14 @@
       "onboard_time": 1737605478,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 299394,
+      "num": 860951,
+      "word": "苏州蛇年小宝宝出生啦",
+      "onboard_time": 1738140438,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 299207,
@@ -27248,6 +27256,14 @@
       "word": "网络春晚节目单",
       "onboard_time": 1737516318,
       "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 292720,
+      "num": 117219,
+      "word": "宋雨琦手链好美",
+      "onboard_time": 1738142899,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -34873,14 +34889,6 @@
       "onboard_time": 1737597857,
       "rank": 14,
       "category": "国内时政,财经"
-    },
-    {
-      "raw_hot": 222430,
-      "num": 847493,
-      "word": "苏州蛇年小宝宝出生啦",
-      "onboard_time": 1738140438,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 222369,
@@ -50923,6 +50931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162762,
+      "num": 118290,
+      "word": "陈哲远锁骨骨折手术",
+      "onboard_time": 1738142719,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162726,
       "num": 199865,
       "word": "王鹤棣 请杨千幻给个正面感谢机会",
@@ -65555,6 +65571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121465,
+      "num": 226014,
+      "word": "山东人大年初一拜年磕头队伍数百米",
+      "onboard_time": 1738141038,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121459,
       "num": 183463,
       "word": "danking直播",
@@ -67171,6 +67195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117239,
+      "num": 226814,
+      "word": "会长是女仆大人漫画新作",
+      "onboard_time": 1738140858,
+      "rank": 23,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 117207,
       "num": 117207,
       "word": "第5个人民警察节",
@@ -67809,6 +67841,14 @@
       "onboard_time": 1736647459,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 115649,
+      "num": 225174,
+      "word": "女孩穿校服跳拉丁舞上央视",
+      "onboard_time": 1738140979,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115633,
@@ -70051,14 +70091,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 109367,
-      "num": 225174,
-      "word": "女孩穿校服跳拉丁舞上央视",
-      "onboard_time": 1738140979,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109289,
       "num": 109289,
       "word": "天才少女罗福莉参与开发DeepSeek",
@@ -71795,14 +71827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 103837,
-      "num": 226814,
-      "word": "会长是女仆大人漫画新作",
-      "onboard_time": 1738140858,
-      "rank": 23,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 103799,
       "num": 103799,
       "word": "陈梦被评为人物2024年度运动员",
@@ -72289,6 +72313,14 @@
       "onboard_time": 1735832839,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 102249,
+      "num": 102249,
+      "word": "射雕英雄传金戈铁马具象化了",
+      "onboard_time": 1738143320,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 102243,
@@ -74811,14 +74843,6 @@
       "category": "综艺,汽车"
     },
     {
-      "raw_hot": 92640,
-      "num": 226014,
-      "word": "山东人大年初一拜年磕头队伍数百米",
-      "onboard_time": 1738141038,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 92572,
       "num": 276870,
       "word": "中国人的情义都藏在酒里",
@@ -75193,6 +75217,14 @@
       "onboard_time": 1737909915,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 90576,
+      "num": 103868,
+      "word": "睡梦中被戴上没舍得买的金手链",
+      "onboard_time": 1738143079,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90568,
@@ -76249,6 +76281,14 @@
       "onboard_time": 1736267539,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 85285,
+      "num": 218665,
+      "word": "乌尔善镜头里的呼伦贝尔",
+      "onboard_time": 1738142419,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 85151,
@@ -79153,6 +79193,14 @@
       "onboard_time": 1737822798,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 68815,
+      "num": 102188,
+      "word": "武契奇用中文拜年",
+      "onboard_time": 1738143020,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 68793,
@@ -84163,6 +84211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 42334,
+      "num": 225704,
+      "word": "熊出没11年票房超78亿",
+      "onboard_time": 1738141759,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 42314,
       "num": 251112,
       "word": "加拿大准备从美购买更多商品",
@@ -88651,6 +88707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 24736,
+      "num": 108356,
+      "word": "蒋璐霞的糖从红海带到了蛟龙",
+      "onboard_time": 1738142899,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 24700,
       "num": 460960,
       "word": "张凌赫怕金靖产前焦虑",
@@ -89257,14 +89321,6 @@
       "onboard_time": 1735822400,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 22362,
-      "num": 225704,
-      "word": "熊出没11年票房超78亿",
-      "onboard_time": 1738141759,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 22266,
@@ -92929,14 +92985,6 @@
       "onboard_time": 1736535552,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 5913,
-      "num": 218665,
-      "word": "乌尔善镜头里的呼伦贝尔",
-      "onboard_time": 1738142419,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 5844,
