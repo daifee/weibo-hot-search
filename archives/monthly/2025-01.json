@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738176179728,
+  "endTime": 1738178317788,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -90283,6 +90283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22562,
+      "num": 22562,
+      "word": "我命由我不由天",
+      "onboard_time": 1738177273,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 22510,
       "num": 150684,
       "word": "真的是动漫映入现实了",
@@ -91289,6 +91297,14 @@
       "onboard_time": 1736794151,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 19048,
+      "num": 22557,
+      "word": "熊出没",
+      "onboard_time": 1738178292,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 18981,
