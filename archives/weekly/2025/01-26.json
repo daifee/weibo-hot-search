@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738157218482,
+  "endTime": 1738157906641,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -1291,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 812092,
+      "num": 812092,
+      "word": "看完唐探1900的我belike",
+      "onboard_time": 1738151421,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 811729,
       "num": 932394,
       "word": "雷军直播时突然被封",
@@ -1361,14 +1369,6 @@
       "onboard_time": 1738066488,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 776919,
-      "num": 776919,
-      "word": "看完唐探1900的我belike",
-      "onboard_time": 1738151421,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 769338,
@@ -2227,6 +2227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 515512,
+      "num": 515512,
+      "word": "姬发 恋爱脑",
+      "onboard_time": 1738153818,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 515019,
       "num": 201420,
       "word": "女主强制爱男主强制恨",
@@ -2409,14 +2417,6 @@
       "onboard_time": 1737979458,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 491846,
-      "num": 491846,
-      "word": "姬发 恋爱脑",
-      "onboard_time": 1738153818,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 486525,
@@ -3043,6 +3043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 387708,
+      "num": 387708,
+      "word": "赵雅芝 蛇年最忙",
+      "onboard_time": 1738155739,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 387416,
       "num": 387416,
       "word": "韩公布济州航空空难初步调查报告",
@@ -3651,14 +3659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 310850,
-      "num": 220611,
-      "word": "赵雅芝 蛇年最忙",
-      "onboard_time": 1738155739,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 309094,
       "num": 309094,
       "word": "DeepSeek彻底爆发",
@@ -3825,6 +3825,14 @@
       "onboard_time": 1737869177,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 289211,
+      "num": 289211,
+      "word": "战机坠毁美国空军禁止观看传播视频",
+      "onboard_time": 1738154601,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 289048,
@@ -4115,6 +4123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 266170,
+      "num": 245268,
+      "word": "春节档电影虎扑评分出炉",
+      "onboard_time": 1738157001,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 265339,
       "num": 224332,
       "word": "李昀锐又在横店打篮球了",
@@ -4395,6 +4411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246533,
+      "num": 246533,
+      "word": "广州烟花",
+      "onboard_time": 1738151962,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 245817,
       "num": 245817,
       "word": "撒贝宁说浓眉和化妆师没关系",
@@ -4484,7 +4508,7 @@
     },
     {
       "raw_hot": 241628,
-      "num": 213509,
+      "num": 223460,
       "word": "邓婵玉 没有男人配得上",
       "onboard_time": 1738151121,
       "rank": 35,
@@ -4545,14 +4569,6 @@
       "onboard_time": 1737868279,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 239444,
-      "num": 243965,
-      "word": "广州烟花",
-      "onboard_time": 1738151962,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 238957,
@@ -4745,14 +4761,6 @@
       "onboard_time": 1738048098,
       "rank": 19,
       "category": "互联网,作品衍生"
-    },
-    {
-      "raw_hot": 226016,
-      "num": 226016,
-      "word": "战机坠毁美国空军禁止观看传播视频",
-      "onboard_time": 1738154601,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 226006,
@@ -4948,7 +4956,7 @@
     },
     {
       "raw_hot": 217501,
-      "num": 217501,
+      "num": 287544,
       "word": "平均年龄5岁小朋友跳英歌舞",
       "onboard_time": 1738155441,
       "rank": 14,
@@ -5691,12 +5699,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191622,
+      "num": 166613,
+      "word": "王冰冰演小品真卖力",
+      "onboard_time": 1738156762,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191539,
       "num": 336177,
       "word": "唐探让尹正的野人路越走越远",
       "onboard_time": 1738135638,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 190533,
+      "num": 155498,
+      "word": "别让我在大年初一生气",
+      "onboard_time": 1738157121,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 190507,
@@ -5803,6 +5827,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 188759,
+      "num": 155365,
+      "word": "丁禹兮少年音",
+      "onboard_time": 1738157060,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188390,
       "num": 1152146,
       "word": "北京台春晚节目单",
@@ -5875,6 +5907,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 187105,
+      "num": 187105,
+      "word": "县城年夜饭快倒挂一线饭店了",
+      "onboard_time": 1738155079,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186878,
       "num": 186878,
       "word": "檀健次唱跳气场全开",
@@ -5897,6 +5937,14 @@
       "onboard_time": 1738034237,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186071,
+      "num": 176191,
+      "word": "时代少年团 得意的笑",
+      "onboard_time": 1738156700,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 185720,
@@ -6001,22 +6049,6 @@
       "onboard_time": 1738132037,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 182367,
-      "num": 176191,
-      "word": "时代少年团 得意的笑",
-      "onboard_time": 1738156700,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 181475,
-      "num": 185533,
-      "word": "县城年夜饭快倒挂一线饭店了",
-      "onboard_time": 1738155079,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 181323,
@@ -6331,6 +6363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171877,
+      "num": 153745,
+      "word": "射雕英雄传累计票房破4亿",
+      "onboard_time": 1738157840,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 171818,
       "num": 763149,
       "word": "大年初一",
@@ -6491,14 +6531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 166613,
-      "num": 166613,
-      "word": "王冰冰演小品真卖力",
-      "onboard_time": 1738156762,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 166299,
       "num": 166299,
       "word": "五福临门妆造",
@@ -6513,14 +6545,6 @@
       "onboard_time": 1737952877,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 166149,
-      "num": 166149,
-      "word": "春节档电影虎扑评分出炉",
-      "onboard_time": 1738157001,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 165990,
@@ -6811,12 +6835,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158230,
+      "num": 152608,
+      "word": "黄晓明包场射雕英雄传",
+      "onboard_time": 1738157659,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 157855,
       "num": 269090,
       "word": "这届网友看电影就是图个吉利",
       "onboard_time": 1737879259,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 157806,
+      "num": 157806,
+      "word": "美国政府鼓励主动辞职",
+      "onboard_time": 1738155801,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 157797,
@@ -6881,14 +6921,6 @@
       "onboard_time": 1737905059,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 157007,
-      "num": 126643,
-      "word": "丁禹兮少年音",
-      "onboard_time": 1738157060,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 157001,
@@ -7444,7 +7476,7 @@
     },
     {
       "raw_hot": 142818,
-      "num": 142818,
+      "num": 157559,
       "word": "全红婵全副武装和家人逛吃",
       "onboard_time": 1738155499,
       "rank": 34,
@@ -7851,20 +7883,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134244,
-      "num": 120888,
-      "word": "别让我在大年初一生气",
-      "onboard_time": 1738157121,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 133694,
       "num": 133694,
       "word": "李敏镐孔晓振太空吻戏",
       "onboard_time": 1737960437,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133618,
+      "num": 133618,
+      "word": "丁禹兮重塑舞台的国风美学",
+      "onboard_time": 1738157840,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 133374,
@@ -8105,14 +8137,6 @@
       "onboard_time": 1737948197,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 127681,
-      "num": 127681,
-      "word": "美国政府鼓励主动辞职",
-      "onboard_time": 1738155801,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 127638,
@@ -8963,6 +8987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109598,
+      "num": 156001,
+      "word": "南昌烟花",
+      "onboard_time": 1738156160,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109289,
       "num": 109289,
       "word": "天才少女罗福莉参与开发DeepSeek",
@@ -9580,7 +9612,7 @@
     },
     {
       "raw_hot": 98000,
-      "num": 98000,
+      "num": 133221,
       "word": "真正的卷王是雷军",
       "onboard_time": 1738156281,
       "rank": 47,

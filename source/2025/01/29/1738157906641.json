@@ -1,0 +1,410 @@
+{
+  "runTime": 1738157906641,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1104315,
+        "num": 1176690,
+        "word": "票房",
+        "onboard_time": 1738139658,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 812092,
+        "num": 812092,
+        "word": "看完唐探1900的我belike",
+        "onboard_time": 1738151421,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 71438,
+        "num": 532104,
+        "word": "大年初一省服时装周",
+        "onboard_time": 1738143800,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 515512,
+        "num": 515512,
+        "word": "姬发 恋爱脑",
+        "onboard_time": 1738153818,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 447846,
+        "num": 447846,
+        "word": "黄亦玫你女儿上春晚了",
+        "onboard_time": 1738146559,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 434450,
+        "num": 434450,
+        "word": "00后女生给妈妈磕888个头获1000元红包",
+        "onboard_time": 1738151899,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387708,
+        "num": 387708,
+        "word": "赵雅芝 蛇年最忙",
+        "onboard_time": 1738155739,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372420,
+        "num": 372420,
+        "word": "北京台春晚",
+        "onboard_time": 1738149499,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289211,
+        "num": 289211,
+        "word": "战机坠毁美国空军禁止观看传播视频",
+        "onboard_time": 1738154601,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 208863,
+        "num": 287544,
+        "word": "平均年龄5岁小朋友跳英歌舞",
+        "onboard_time": 1738155441,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 432264,
+        "num": 280121,
+        "word": "全红婵家已增设安全围栏等设备",
+        "onboard_time": 1738148420,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 312776,
+        "num": 270856,
+        "word": "黄圣依 姐就是女王",
+        "onboard_time": 1738155079,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302270,
+        "num": 259418,
+        "word": "哪吒特效",
+        "onboard_time": 1738141459,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 298210,
+        "num": 248520,
+        "word": "北京春晚一开场就狂包饺子",
+        "onboard_time": 1738152380,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246533,
+        "num": 246533,
+        "word": "广州烟花",
+        "onboard_time": 1738151962,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266170,
+        "num": 245268,
+        "word": "春节档电影虎扑评分出炉",
+        "onboard_time": 1738157001,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 223460,
+        "num": 223460,
+        "word": "邓婵玉 没有男人配得上",
+        "onboard_time": 1738151121,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210853,
+        "num": 210853,
+        "word": "哪吒票房",
+        "onboard_time": 1738149140,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198274,
+        "num": 198274,
+        "word": "DeepSeek",
+        "onboard_time": 1738154000,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 187105,
+        "num": 187105,
+        "word": "县城年夜饭快倒挂一线饭店了",
+        "onboard_time": 1738155079,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5703785,
+        "num": 5703785,
+        "word": "赵露思长文谈抑郁症",
+        "onboard_time": 1738151061,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176219,
+        "num": 176219,
+        "word": "山西真的没有一棵树会黑着过年吗",
+        "onboard_time": 1738151179,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157806,
+        "num": 157806,
+        "word": "美国政府鼓励主动辞职",
+        "onboard_time": 1738155801,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125292,
+        "num": 157559,
+        "word": "全红婵全副武装和家人逛吃",
+        "onboard_time": 1738155499,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59265,
+        "num": 157346,
+        "word": "一诺新春首播",
+        "onboard_time": 1738157001,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 2479129,
+        "num": 157060,
+        "word": "赵露思换了想了十年的发色",
+        "onboard_time": 1738153161,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 553331,
+        "num": 156792,
+        "word": "嬷童降世",
+        "onboard_time": 1738149019,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 426002,
+        "num": 156386,
+        "word": "春晚 女导演",
+        "onboard_time": 1738144819,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191622,
+        "num": 156279,
+        "word": "王冰冰演小品真卖力",
+        "onboard_time": 1738156762,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109598,
+        "num": 156001,
+        "word": "南昌烟花",
+        "onboard_time": 1738156160,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190533,
+        "num": 155498,
+        "word": "别让我在大年初一生气",
+        "onboard_time": 1738157121,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188759,
+        "num": 155365,
+        "word": "丁禹兮少年音",
+        "onboard_time": 1738157060,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187594,
+        "num": 154946,
+        "word": "看射雕听肖战唱灯塔",
+        "onboard_time": 1738152499,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186071,
+        "num": 154800,
+        "word": "时代少年团 得意的笑",
+        "onboard_time": 1738156700,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175560,
+        "num": 154338,
+        "word": "刘端端演小品",
+        "onboard_time": 1738154780,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173988,
+        "num": 153932,
+        "word": "人形机器人失误是有意为之",
+        "onboard_time": 1738139177,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171877,
+        "num": 153745,
+        "word": "射雕英雄传累计票房破4亿",
+        "onboard_time": 1738157840,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 106769,
+        "num": 153399,
+        "word": "山东人大年初一拜年磕头队伍数百米",
+        "onboard_time": 1738141038,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104856,
+        "num": 153255,
+        "word": "郭晶晶霍启刚一起做汤圆元宵",
+        "onboard_time": 1738152561,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96694,
+        "num": 152918,
+        "word": "睡梦中被戴上没舍得买的金手链",
+        "onboard_time": 1738143079,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158230,
+        "num": 152608,
+        "word": "黄晓明包场射雕英雄传",
+        "onboard_time": 1738157659,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152414,
+        "num": 152414,
+        "word": "九重紫",
+        "onboard_time": 1738152800,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151342,
+        "num": 151342,
+        "word": "春晚 不太会烧菜的爹妈",
+        "onboard_time": 1738144519,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147226,
+        "num": 147226,
+        "word": "马天宇晒三人行合照",
+        "onboard_time": 1738136178,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135421,
+        "num": 135421,
+        "word": "哪吒2打破国漫天花板",
+        "onboard_time": 1738147938,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133618,
+        "num": 133618,
+        "word": "丁禹兮重塑舞台的国风美学",
+        "onboard_time": 1738157840,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93590,
+        "num": 133221,
+        "word": "真正的卷王是雷军",
+        "onboard_time": 1738156281,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 93052,
+        "num": 132758,
+        "word": "大年初一福气满满",
+        "onboard_time": 1738127840,
+        "rank": 47,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 84682,
+        "num": 132070,
+        "word": "3分钟看懂为什么DeepSeek能震惊世界",
+        "onboard_time": 1738148779,
+        "rank": 48,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 28133,
+        "num": 131405,
+        "word": "给老外做一张中国菜推荐清单",
+        "onboard_time": 1738154060,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#在蛇年书写新的荣耀篇章#"
+    }
+  }
+}
