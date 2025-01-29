@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/26 00:26:10 ~ 2025/01/30 01:37:11
+本榜单时间：2025/01/26 00:26:10 ~ 2025/01/30 02:30:11
 </p>
 </blockquote>
 <p>
@@ -9093,6 +9093,12 @@ AI创作大赛（热度：44116）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%82%E6%A1%A3%E8%A7%82%E5%BD%B1%E6%8E%92%E5%BA%8F%23" target="weibo">
+春节档观影排序（热度：38533）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%86%E7%81%AB%E7%9A%84%E5%9B%BD%E4%BA%A7AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%83%8C%E5%90%8E%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%23" target="weibo">
 爆火的国产AI大模型背后的年轻人（热度：38241）
 </a>
@@ -9299,6 +9305,12 @@ IVE末放舞台（热度：37513）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9A%96%E6%9A%96%E7%A5%9D%E5%A4%A7%E5%AE%B6%E8%9B%87%E6%9D%A5%E8%BF%90%E8%BD%AC%23" target="weibo">
 暖暖祝大家蛇来运转（热度：30389）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E5%8F%B2%E5%8D%95%E6%97%A5%E7%A5%A8%E6%88%BF%E7%A0%B4%E7%BA%AA%E5%BD%95%23" target="weibo">
+中国电影史单日票房破纪录（热度：29792）
 </a>
 </li>
 
@@ -9803,6 +9815,12 @@ DeepSeek概念集体大涨（热度：14650）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E4%B8%80%E4%BB%BD%E6%95%B0%E5%8D%81%E4%B8%87%E5%90%A8%E7%9A%84%E7%A1%AC%E6%A0%B8%E6%8B%9C%E5%B9%B4%23" target="weibo">
 这是一份数十万吨的硬核拜年（热度：10823）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%82%E5%AE%9D%E5%AE%9D%E6%9D%A5%E4%BA%86%23" target="weibo">
+春节宝宝来了（热度：10815）
 </a>
 </li>
 

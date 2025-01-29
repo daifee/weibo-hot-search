@@ -1,6 +1,6 @@
 {
   "startTime": 1738168091636,
-  "endTime": 1738172231976,
+  "endTime": 1738175411802,
   "band_list": [
     {
       "raw_hot": 1259141,
@@ -451,12 +451,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 38533,
+      "num": 34239,
+      "word": "春节档观影排序",
+      "onboard_time": 1738173792,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 32633,
       "num": 54790,
       "word": "DeepSeek能否改写AI战局",
       "onboard_time": 1738150940,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 29792,
+      "num": 31219,
+      "word": "中国电影史单日票房破纪录",
+      "onboard_time": 1738175112,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 27965,
@@ -472,6 +488,14 @@
       "word": "今夜南昌绝美梦幻蓝",
       "onboard_time": 1738170735,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10815,
+      "num": 100852,
+      "word": "春节宝宝来了",
+      "onboard_time": 1738174274,
+      "rank": 9,
       "category": "民生新闻"
     },
     {

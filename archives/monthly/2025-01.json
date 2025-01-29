@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738172231976,
+  "endTime": 1738175411802,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -86051,6 +86051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38533,
+      "num": 34239,
+      "word": "春节档观影排序",
+      "onboard_time": 1738173792,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 38513,
       "num": 640552,
       "word": "打卡中华文化种子库",
@@ -88201,6 +88209,14 @@
       "onboard_time": 1735790542,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29792,
+      "num": 31219,
+      "word": "中国电影史单日票房破纪录",
+      "onboard_time": 1738175112,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 29775,
@@ -93265,6 +93281,14 @@
       "onboard_time": 1737924132,
       "rank": 32,
       "category": "军事"
+    },
+    {
+      "raw_hot": 10815,
+      "num": 100852,
+      "word": "春节宝宝来了",
+      "onboard_time": 1738174274,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10796,

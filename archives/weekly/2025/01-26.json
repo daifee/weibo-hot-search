@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738172231976,
+  "endTime": 1738175411802,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -12107,6 +12107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38533,
+      "num": 34239,
+      "word": "春节档观影排序",
+      "onboard_time": 1738173792,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 38241,
       "num": 279562,
       "word": "爆火的国产AI大模型背后的年轻人",
@@ -12385,6 +12393,14 @@
       "onboard_time": 1738055600,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 29792,
+      "num": 31219,
+      "word": "中国电影史单日票房破纪录",
+      "onboard_time": 1738175112,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 29397,
@@ -13057,6 +13073,14 @@
       "onboard_time": 1737924132,
       "rank": 32,
       "category": "军事"
+    },
+    {
+      "raw_hot": 10815,
+      "num": 100852,
+      "word": "春节宝宝来了",
+      "onboard_time": 1738174274,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10738,

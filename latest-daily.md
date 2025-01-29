@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/30 00:28:11 ~ 2025/01/30 01:37:11
+本榜单时间：2025/01/30 00:28:11 ~ 2025/01/30 02:30:11
 </p>
 </blockquote>
 <p>
@@ -351,8 +351,20 @@ DeepSeek（热度：113430）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%82%E6%A1%A3%E8%A7%82%E5%BD%B1%E6%8E%92%E5%BA%8F%23" target="weibo">
+春节档观影排序（热度：38533）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23DeepSeek%E8%83%BD%E5%90%A6%E6%94%B9%E5%86%99AI%E6%88%98%E5%B1%80%23" target="weibo">
 DeepSeek能否改写AI战局（热度：32633）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E5%8F%B2%E5%8D%95%E6%97%A5%E7%A5%A8%E6%88%BF%E7%A0%B4%E7%BA%AA%E5%BD%95%23" target="weibo">
+中国电影史单日票房破纪录（热度：29792）
 </a>
 </li>
 
@@ -365,6 +377,12 @@ DeepSeek能否改写AI战局（热度：32633）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%9C%E5%8D%97%E6%98%8C%E7%BB%9D%E7%BE%8E%E6%A2%A6%E5%B9%BB%E8%93%9D%23" target="weibo">
 今夜南昌绝美梦幻蓝（热度：17145）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%82%E5%AE%9D%E5%AE%9D%E6%9D%A5%E4%BA%86%23" target="weibo">
+春节宝宝来了（热度：10815）
 </a>
 </li>
 
