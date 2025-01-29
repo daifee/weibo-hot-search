@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738175411802,
+  "endTime": 1738176179728,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -86052,7 +86052,7 @@
     },
     {
       "raw_hot": 38533,
-      "num": 34239,
+      "num": 34739,
       "word": "春节档观影排序",
       "onboard_time": 1738173792,
       "rank": 33,
@@ -88212,7 +88212,7 @@
     },
     {
       "raw_hot": 29792,
-      "num": 31219,
+      "num": 34711,
       "word": "中国电影史单日票房破纪录",
       "onboard_time": 1738175112,
       "rank": 44,
@@ -89089,6 +89089,14 @@
       "onboard_time": 1735772713,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 27031,
+      "num": 34676,
+      "word": "海南春晚",
+      "onboard_time": 1738175411,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 27030,
@@ -90177,6 +90185,14 @@
       "onboard_time": 1736411002,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 22971,
+      "num": 100852,
+      "word": "春节宝宝来了",
+      "onboard_time": 1738174274,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22914,
@@ -93283,14 +93299,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 10815,
-      "num": 100852,
-      "word": "春节宝宝来了",
-      "onboard_time": 1738174274,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 10796,
       "num": 50928,
       "word": "辽宁大叔一个人一把锹造出一片林",
@@ -93841,6 +93849,14 @@
       "onboard_time": 1737568633,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 8009,
+      "num": 86136,
+      "word": "山西人有自己的赛博朋克年",
+      "onboard_time": 1738175472,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 7760,
