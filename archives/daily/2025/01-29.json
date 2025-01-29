@@ -1,6 +1,6 @@
 {
   "startTime": 1738081671448,
-  "endTime": 1738121054060,
+  "endTime": 1738121913217,
   "band_list": [
     {
       "raw_hot": 10062879,
@@ -91,8 +91,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1807549,
-      "num": 1807549,
+      "raw_hot": 2163560,
+      "num": 2163560,
       "word": "春晚总导演回应邓超缺席",
       "onboard_time": 1738118901,
       "rank": 11,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 1295246,
-      "num": 563559,
+      "num": 682063,
       "word": "Angelababy发和儿子合照",
       "onboard_time": 1738115781,
       "rank": 10,
@@ -251,8 +251,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 833048,
-      "num": 833048,
+      "raw_hot": 863638,
+      "num": 863638,
       "word": "春节档票房",
       "onboard_time": 1738117581,
       "rank": 8,
@@ -315,12 +315,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 665525,
-      "num": 665525,
+      "raw_hot": 692583,
+      "num": 692583,
       "word": "哪吒",
       "onboard_time": 1738117581,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 677450,
+      "num": 677450,
+      "word": "沈马 背德",
+      "onboard_time": 1738119860,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 651209,
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 595192,
-      "num": 595192,
+      "num": 684189,
       "word": "机器人跳完舞被搀扶有序下台",
       "onboard_time": 1738089374,
       "rank": 29,
@@ -371,20 +379,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 546717,
+      "num": 546717,
+      "word": "唐探1900",
+      "onboard_time": 1738115899,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 494589,
       "num": 494589,
       "word": "DeepSeek",
       "onboard_time": 1738079735,
       "rank": 38,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 485980,
-      "num": 485980,
-      "word": "唐探1900",
-      "onboard_time": 1738115899,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 485733,
@@ -403,12 +411,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 438931,
+      "num": 301816,
+      "word": "陈哲远一天涨粉350万",
+      "onboard_time": 1738120401,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 430644,
       "num": 430644,
       "word": "王菲 如听仙乐耳暂明",
       "onboard_time": 1738072834,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 425280,
+      "num": 425280,
+      "word": "射雕",
+      "onboard_time": 1738105815,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 413937,
@@ -425,22 +449,6 @@
       "onboard_time": 1738079138,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 401678,
-      "num": 301816,
-      "word": "陈哲远一天涨粉350万",
-      "onboard_time": 1738120401,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 396904,
-      "num": 396904,
-      "word": "射雕",
-      "onboard_time": 1738105815,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 388554,
@@ -483,14 +491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 362888,
-      "num": 362888,
-      "word": "沈马 背德",
-      "onboard_time": 1738119860,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 354125,
       "num": 1357124,
       "word": "程潇珍珠美人妆",
@@ -521,6 +521,14 @@
       "onboard_time": 1738112479,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 293411,
+      "num": 293411,
+      "word": "封神",
+      "onboard_time": 1738112420,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 293163,
@@ -579,20 +587,20 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 238958,
-      "num": 238958,
-      "word": "封神",
-      "onboard_time": 1738112420,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
       "raw_hot": 234474,
       "num": 234474,
       "word": "机器人是被舞蹈演员押下去",
       "onboard_time": 1738112420,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 231740,
+      "num": 231740,
+      "word": "桑延温以凡现在是一家五口",
+      "onboard_time": 1738121481,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 231446,
@@ -673,6 +681,14 @@
       "onboard_time": 1738080267,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200579,
+      "num": 200579,
+      "word": "藕饼",
+      "onboard_time": 1738121239,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 200359,
@@ -779,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177452,
+      "num": 177452,
+      "word": "邓超out",
+      "onboard_time": 1738120821,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171994,
       "num": 171994,
       "word": "岳云鹏春晚换搭档了",
@@ -811,6 +835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154057,
+      "num": 154057,
+      "word": "谁说内娱没有齐舞",
+      "onboard_time": 1738117460,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152553,
       "num": 289498,
       "word": "唢呐与南美排箫共同奏响",
@@ -827,12 +859,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 146509,
-      "num": 146509,
-      "word": "谁说内娱没有齐舞",
-      "onboard_time": 1738117460,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 144946,
+      "num": 581618,
+      "word": "2025过年进行时",
+      "onboard_time": 1738120339,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 141237,
@@ -875,14 +907,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 128673,
-      "num": 128673,
-      "word": "邓超out",
-      "onboard_time": 1738120821,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 127808,
       "num": 188460,
       "word": "孙颖莎除夕还在训练",
@@ -921,14 +945,6 @@
       "onboard_time": 1738069599,
       "rank": 47,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 117135,
-      "num": 581618,
-      "word": "2025过年进行时",
-      "onboard_time": 1738120339,
-      "rank": 9,
-      "category": "正能量"
     },
     {
       "raw_hot": 114293,
@@ -1097,6 +1113,14 @@
       "onboard_time": 1738076447,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 59976,
+      "num": 219498,
+      "word": "广东擀面杖都用来跳英歌舞了",
+      "onboard_time": 1738121541,
+      "rank": 25,
+      "category": "正能量"
     },
     {
       "raw_hot": 58398,

@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738121054060,
+  "endTime": 1738121913217,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -339,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2163560,
+      "num": 2163560,
+      "word": "春晚总导演回应邓超缺席",
+      "onboard_time": 1738118901,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2128275,
       "num": 1486365,
       "word": "敖瑞鹏预告红包",
@@ -409,14 +417,6 @@
       "onboard_time": 1737947955,
       "rank": 21,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1807549,
-      "num": 1807549,
-      "word": "春晚总导演回应邓超缺席",
-      "onboard_time": 1738118901,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 1792033,
@@ -604,7 +604,7 @@
     },
     {
       "raw_hot": 1295246,
-      "num": 563559,
+      "num": 682063,
       "word": "Angelababy发和儿子合照",
       "onboard_time": 1738115781,
       "rank": 10,
@@ -1067,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 863638,
+      "num": 863638,
+      "word": "春节档票房",
+      "onboard_time": 1738117581,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 860983,
       "num": 1137757,
       "word": "樊振东获得2025世乒赛决赛参赛资格",
@@ -1129,14 +1137,6 @@
       "onboard_time": 1738033877,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 833048,
-      "num": 833048,
-      "word": "春节档票房",
-      "onboard_time": 1738117581,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 832654,
@@ -1387,6 +1387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 692583,
+      "num": 692583,
+      "word": "哪吒",
+      "onboard_time": 1738117581,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 691301,
       "num": 691301,
       "word": "集五福",
@@ -1419,6 +1427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 677450,
+      "num": 677450,
+      "word": "沈马 背德",
+      "onboard_time": 1738119860,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 668744,
       "num": 668744,
       "word": "孙千春晚素颜出发图",
@@ -1433,14 +1449,6 @@
       "onboard_time": 1738065391,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 665525,
-      "num": 665525,
-      "word": "哪吒",
-      "onboard_time": 1738117581,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 665033,
@@ -1652,7 +1660,7 @@
     },
     {
       "raw_hot": 595192,
-      "num": 595192,
+      "num": 684189,
       "word": "机器人跳完舞被搀扶有序下台",
       "onboard_time": 1738089374,
       "rank": 29,
@@ -1817,6 +1825,14 @@
       "onboard_time": 1738051942,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 546717,
+      "num": 546717,
+      "word": "唐探1900",
+      "onboard_time": 1738115899,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 545945,
@@ -2107,14 +2123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 485980,
-      "num": 485980,
-      "word": "唐探1900",
-      "onboard_time": 1738115899,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 485891,
       "num": 485891,
       "word": "外交部回应是否接回在美非法中国移民",
@@ -2387,6 +2395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 438931,
+      "num": 301816,
+      "word": "陈哲远一天涨粉350万",
+      "onboard_time": 1738120401,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 434481,
       "num": 338906,
       "word": "特朗普称将来美国可能大幅扩张",
@@ -2409,6 +2425,14 @@
       "onboard_time": 1738033097,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 425280,
+      "num": 425280,
+      "word": "射雕",
+      "onboard_time": 1738105815,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 424134,
@@ -2523,14 +2547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 401678,
-      "num": 301816,
-      "word": "陈哲远一天涨粉350万",
-      "onboard_time": 1738120401,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 399366,
       "num": 399366,
       "word": "李现晒国色芳华大婚胶片记忆",
@@ -2553,14 +2569,6 @@
       "onboard_time": 1737890058,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 396904,
-      "num": 396904,
-      "word": "射雕",
-      "onboard_time": 1738105815,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 394434,
@@ -2833,14 +2841,6 @@
       "onboard_time": 1737867798,
       "rank": 9,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 362888,
-      "num": 362888,
-      "word": "沈马 背德",
-      "onboard_time": 1738119860,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 360105,
@@ -3313,6 +3313,14 @@
       "onboard_time": 1737893059,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 293411,
+      "num": 293411,
+      "word": "封神",
+      "onboard_time": 1738112420,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 293375,
@@ -3947,14 +3955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 238958,
-      "num": 238958,
-      "word": "封神",
-      "onboard_time": 1738112420,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
       "raw_hot": 238957,
       "num": 238957,
       "word": "姚晨说杨丽萍蛇舞是极致东方美学",
@@ -4033,6 +4033,14 @@
       "onboard_time": 1738051341,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 231740,
+      "num": 231740,
+      "word": "桑延温以凡现在是一家五口",
+      "onboard_time": 1738121481,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 231735,
@@ -4625,6 +4633,14 @@
       "onboard_time": 1738061906,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200579,
+      "num": 200579,
+      "word": "藕饼",
+      "onboard_time": 1738121239,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 200359,
@@ -5233,6 +5249,14 @@
       "onboard_time": 1737983899,
       "rank": 36,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 177452,
+      "num": 177452,
+      "word": "邓超out",
+      "onboard_time": 1738120821,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 177111,
@@ -5939,6 +5963,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 154057,
+      "num": 154057,
+      "word": "谁说内娱没有齐舞",
+      "onboard_time": 1738117460,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153950,
       "num": 153950,
       "word": "朴彩英首唱vampirehollie",
@@ -6171,14 +6203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146509,
-      "num": 146509,
-      "word": "谁说内娱没有齐舞",
-      "onboard_time": 1738117460,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 146007,
       "num": 146007,
       "word": "田曦薇逐玉赶猪路透",
@@ -6209,6 +6233,14 @@
       "onboard_time": 1738032796,
       "rank": 43,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 144946,
+      "num": 581618,
+      "word": "2025过年进行时",
+      "onboard_time": 1738120339,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 144874,
@@ -6883,14 +6915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 128673,
-      "num": 128673,
-      "word": "邓超out",
-      "onboard_time": 1738120821,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 128627,
       "num": 128627,
       "word": "非遗春节好像一个绚烂的万花筒",
@@ -7385,14 +7409,6 @@
       "onboard_time": 1738034357,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 117135,
-      "num": 581618,
-      "word": "2025过年进行时",
-      "onboard_time": 1738120339,
-      "rank": 9,
-      "category": "正能量"
     },
     {
       "raw_hot": 116878,
@@ -9657,6 +9673,14 @@
       "onboard_time": 1737910276,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 59976,
+      "num": 219498,
+      "word": "广东擀面杖都用来跳英歌舞了",
+      "onboard_time": 1738121541,
+      "rank": 25,
+      "category": "正能量"
     },
     {
       "raw_hot": 59750,
