@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738107355253,
+  "endTime": 1738114806001,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -435,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1707343,
+      "num": 1707343,
+      "word": "金晨你怎么可以捅这么大的篓子",
+      "onboard_time": 1738090873,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1661596,
       "num": 748395,
       "word": "李昀锐红包",
@@ -456,6 +464,14 @@
       "word": "刘谦 我董卿呢",
       "onboard_time": 1738073081,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1637571,
+      "num": 1637571,
+      "word": "春晚收视率",
+      "onboard_time": 1738086677,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -811,14 +827,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1005489,
-      "num": 1005489,
-      "word": "春晚收视率",
-      "onboard_time": 1738086677,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1000646,
       "num": 204535,
       "word": "因张大大有流量老板经常给他换人",
@@ -953,6 +961,22 @@
       "onboard_time": 1738030397,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 902721,
+      "num": 902721,
+      "word": "王菲发际线腮红",
+      "onboard_time": 1738108157,
+      "rank": 3,
+      "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 899713,
+      "num": 899713,
+      "word": "央视春晚四大美女",
+      "onboard_time": 1738101732,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 894149,
@@ -1291,14 +1315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 696332,
-      "num": 696332,
-      "word": "金晨你怎么可以捅这么大的篓子",
-      "onboard_time": 1738090873,
-      "rank": 0,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 694794,
       "num": 1111167,
       "word": "无忧传媒签约主播达人超10万人",
@@ -1569,6 +1585,14 @@
       "onboard_time": 1737953057,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 595192,
+      "num": 595192,
+      "word": "机器人跳完舞被搀扶有序下台",
+      "onboard_time": 1738089374,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 594606,
@@ -1881,6 +1905,14 @@
       "onboard_time": 1737902901,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 506098,
+      "num": 506098,
+      "word": "扶着点咱奶别摔了",
+      "onboard_time": 1738112720,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 505455,
@@ -2411,6 +2443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 409963,
+      "num": 409963,
+      "word": "韩国起火客机原定飞往中国香港",
+      "onboard_time": 1738111820,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 406521,
       "num": 299789,
       "word": "白色橄榄树官宣12首OST",
@@ -2627,6 +2667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 375673,
+      "num": 375673,
+      "word": "春晚首个显眼包出现了",
+      "onboard_time": 1738092014,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 375150,
       "num": 375150,
       "word": "幻云",
@@ -2761,6 +2809,14 @@
       "onboard_time": 1738051039,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 350997,
+      "num": 350997,
+      "word": "英伟达大涨近9%",
+      "onboard_time": 1738110319,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 350494,
@@ -3169,6 +3225,14 @@
       "onboard_time": 1737906378,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 293163,
+      "num": 214954,
+      "word": "她1小时写完王菲新歌的词",
+      "onboard_time": 1738106295,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 292953,
@@ -3843,19 +3907,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 231446,
+      "num": 213761,
+      "word": "撒贝宁尼格买提春晚后台共用氧气瓶",
+      "onboard_time": 1738086796,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231040,
       "num": 209464,
       "word": "OneRepublic确认将登上央视春晚",
       "onboard_time": 1737983538,
       "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 230306,
-      "num": 230306,
-      "word": "春晚首个显眼包出现了",
-      "onboard_time": 1738092014,
-      "rank": 41,
       "category": "综艺"
     },
     {
@@ -3875,6 +3939,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 229689,
+      "num": 213349,
+      "word": "还好王一博腿长",
+      "onboard_time": 1738106596,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228905,
       "num": 228905,
       "word": "徐莹称卞相壹形象遭毁灭性打击",
@@ -3889,14 +3961,6 @@
       "onboard_time": 1737907037,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 227714,
-      "num": 145382,
-      "word": "央视春晚四大美女",
-      "onboard_time": 1738101732,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 227432,
@@ -4067,6 +4131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217161,
+      "num": 217161,
+      "word": "拜年",
+      "onboard_time": 1738063048,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 216808,
       "num": 216808,
       "word": "故宫也下雪了",
@@ -4089,14 +4161,6 @@
       "onboard_time": 1737981138,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 216612,
-      "num": 138805,
-      "word": "她1小时写完王菲新歌的词",
-      "onboard_time": 1738106295,
-      "rank": 29,
-      "category": "音乐"
     },
     {
       "raw_hot": 215787,
@@ -4139,6 +4203,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 212483,
+      "num": 212483,
+      "word": "谭维维20厘米高跟鞋",
+      "onboard_time": 1738111580,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212298,
       "num": 212298,
       "word": "全红婵老家增设无人机反制设备",
@@ -4161,6 +4233,14 @@
       "onboard_time": 1738075588,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 210558,
+      "num": 210558,
+      "word": "撒贝宁说浓眉和化妆师没关系",
+      "onboard_time": 1738112840,
+      "rank": 25,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 209948,
@@ -4377,14 +4457,6 @@
       "onboard_time": 1738062026,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 201564,
-      "num": 201564,
-      "word": "拜年",
-      "onboard_time": 1738063048,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 201048,
@@ -4827,6 +4899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 183677,
+      "num": 187833,
+      "word": "马斯克质疑DeepSeek低成本训练",
+      "onboard_time": 1738102161,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 183476,
       "num": 167137,
       "word": "山东春晚",
@@ -4905,6 +4985,14 @@
       "onboard_time": 1738055720,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 179382,
+      "num": 179382,
+      "word": "刘谦后面的苏有朋",
+      "onboard_time": 1738113800,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 178973,
@@ -5019,6 +5107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174603,
+      "num": 174603,
+      "word": "射雕",
+      "onboard_time": 1738105815,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 174047,
       "num": 1330180,
       "word": "过年聚会别一不小心透露工作秘密",
@@ -5065,6 +5161,14 @@
       "onboard_time": 1737812721,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171994,
+      "num": 171994,
+      "word": "岳云鹏春晚换搭档了",
+      "onboard_time": 1738105935,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 171818,
@@ -5403,14 +5507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 160946,
-      "num": 160946,
-      "word": "马斯克质疑DeepSeek低成本训练",
-      "onboard_time": 1738102161,
-      "rank": 38,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 160683,
       "num": 208195,
       "word": "余承东直播开车备案了",
@@ -5579,6 +5675,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 155833,
+      "num": 155833,
+      "word": "王一博的头身比",
+      "onboard_time": 1738114161,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 155581,
+      "num": 155581,
+      "word": "小狗春晚",
+      "onboard_time": 1738114099,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 155326,
       "num": 155326,
       "word": "父母到孩子工作城市过年成新趋势",
@@ -5601,6 +5713,14 @@
       "onboard_time": 1738061004,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 154641,
+      "num": 154641,
+      "word": "机器人是被舞蹈演员押下去",
+      "onboard_time": 1738112420,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 154432,
@@ -5681,14 +5801,6 @@
       "onboard_time": 1737862699,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 151595,
-      "num": 151595,
-      "word": "机器人跳完舞被搀扶有序下台",
-      "onboard_time": 1738089374,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 151588,
@@ -5819,6 +5931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148052,
+      "num": 165673,
+      "word": "领舞7岁娃是英歌舞传人",
+      "onboard_time": 1738106055,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147975,
       "num": 167225,
       "word": "妈妈带白血病女儿到理发店剃光头",
@@ -5833,14 +5953,6 @@
       "onboard_time": 1737860417,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 147778,
-      "num": 147778,
-      "word": "射雕",
-      "onboard_time": 1738105815,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 147735,
@@ -5985,14 +6097,6 @@
       "onboard_time": 1737964097,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143606,
-      "num": 165673,
-      "word": "领舞7岁娃是英歌舞传人",
-      "onboard_time": 1738106055,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 143474,
@@ -6595,6 +6699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127808,
+      "num": 188460,
+      "word": "孙颖莎除夕还在训练",
+      "onboard_time": 1738109599,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127689,
       "num": 127689,
       "word": "国色芳华会员收官",
@@ -6683,6 +6795,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 126174,
+      "num": 187461,
+      "word": "今天是乙巳蛇年第一天",
+      "onboard_time": 1738114580,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 126141,
       "num": 171972,
       "word": "19岁电竞选手幻云疑遭遇杀猪盘",
@@ -6699,12 +6819,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126019,
+      "num": 126019,
+      "word": "封神",
+      "onboard_time": 1738112420,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 125985,
       "num": 212800,
       "word": "王者蛇年限定皮肤获取攻略",
       "onboard_time": 1737987379,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 125876,
+      "num": 125876,
+      "word": "丁禹兮唱斗柄指东天下春",
+      "onboard_time": 1738114161,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 125751,
@@ -6721,14 +6857,6 @@
       "onboard_time": 1737933613,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 125386,
-      "num": 125386,
-      "word": "撒贝宁尼格买提春晚后台共用氧气瓶",
-      "onboard_time": 1738086796,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 125329,
@@ -7329,14 +7457,6 @@
       "onboard_time": 1737934815,
       "rank": 35,
       "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 110585,
-      "num": 89027,
-      "word": "岳云鹏春晚换搭档了",
-      "onboard_time": 1738105935,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 110497,
@@ -8075,6 +8195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95392,
+      "num": 95392,
+      "word": "英伟达一夜跌掉2个半茅台",
+      "onboard_time": 1738107977,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 95121,
       "num": 95121,
       "word": "国产AI登顶苹果中国及美国免费应用榜",
@@ -8153,6 +8281,14 @@
       "onboard_time": 1738101252,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93617,
+      "num": 93617,
+      "word": "大年初一起床时间",
+      "onboard_time": 1738114401,
+      "rank": 49,
+      "category": "正能量"
     },
     {
       "raw_hot": 93497,
@@ -8737,14 +8873,6 @@
       "onboard_time": 1738018692,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 79025,
-      "num": 74510,
-      "word": "还好王一博腿长",
-      "onboard_time": 1738106596,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 78729,
@@ -10057,6 +10185,14 @@
       "onboard_time": 1738055600,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 30100,
+      "num": 216252,
+      "word": "今年春晚含面量太高了吧",
+      "onboard_time": 1738113500,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 29397,

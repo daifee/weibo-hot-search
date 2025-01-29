@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738107355253,
+  "endTime": 1738114806001,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -2395,6 +2395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1707343,
+      "num": 1707343,
+      "word": "金晨你怎么可以捅这么大的篓子",
+      "onboard_time": 1738090873,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1703411,
       "num": 1703411,
       "word": "医生解读森碟下巴后缩",
@@ -2624,6 +2632,14 @@
       "word": "刘谦 我董卿呢",
       "onboard_time": 1738073081,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1637571,
+      "num": 1637571,
+      "word": "春晚收视率",
+      "onboard_time": 1738086677,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -6115,14 +6131,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1005489,
-      "num": 1005489,
-      "word": "春晚收视率",
-      "onboard_time": 1738086677,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1004763,
       "num": 1004763,
       "word": "国考",
@@ -7315,6 +7323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 902721,
+      "num": 902721,
+      "word": "王菲发际线腮红",
+      "onboard_time": 1738108157,
+      "rank": 3,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 902676,
       "num": 902676,
       "word": "四川内江4.4级地震",
@@ -7329,6 +7345,14 @@
       "onboard_time": 1737254657,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 899713,
+      "num": 899713,
+      "word": "央视春晚四大美女",
+      "onboard_time": 1738101732,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 899500,
@@ -10427,14 +10451,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 696332,
-      "num": 696332,
-      "word": "金晨你怎么可以捅这么大的篓子",
-      "onboard_time": 1738090873,
-      "rank": 0,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 696318,
       "num": 696318,
       "word": "目前流感病毒99%以上是甲流",
@@ -12905,6 +12921,14 @@
       "onboard_time": 1736526439,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 595192,
+      "num": 595192,
+      "word": "机器人跳完舞被搀扶有序下台",
+      "onboard_time": 1738089374,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 594846,
@@ -15520,6 +15544,14 @@
       "word": "TF家族新音出图",
       "onboard_time": 1737188478,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 506098,
+      "num": 506098,
+      "word": "扶着点咱奶别摔了",
+      "onboard_time": 1738112720,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -19507,6 +19539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 409963,
+      "num": 409963,
+      "word": "韩国起火客机原定飞往中国香港",
+      "onboard_time": 1738111820,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 409412,
       "num": 409412,
       "word": "种地吧",
@@ -21235,6 +21275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 375673,
+      "num": 375673,
+      "word": "春晚首个显眼包出现了",
+      "onboard_time": 1738092014,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 375622,
       "num": 249386,
       "word": "确认被爱后面相都变了",
@@ -22729,6 +22777,14 @@
       "onboard_time": 1736325622,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 350997,
+      "num": 350997,
+      "word": "英伟达大涨近9%",
+      "onboard_time": 1738110319,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 350853,
@@ -26793,6 +26849,14 @@
       "onboard_time": 1735911198,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 293163,
+      "num": 214954,
+      "word": "她1小时写完王菲新歌的词",
+      "onboard_time": 1738106295,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 293050,
@@ -33139,6 +33203,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 231446,
+      "num": 213761,
+      "word": "撒贝宁尼格买提春晚后台共用氧气瓶",
+      "onboard_time": 1738086796,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231373,
       "num": 231373,
       "word": "虞书欣古典红裙",
@@ -33283,14 +33355,6 @@
       "category": "体育,作品衍生"
     },
     {
-      "raw_hot": 230306,
-      "num": 230306,
-      "word": "春晚首个显眼包出现了",
-      "onboard_time": 1738092014,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 230199,
       "num": 232180,
       "word": "澳网",
@@ -33361,6 +33425,14 @@
       "onboard_time": 1738034357,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 229689,
+      "num": 213349,
+      "word": "还好王一博腿长",
+      "onboard_time": 1738106596,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 229666,
@@ -33625,14 +33697,6 @@
       "onboard_time": 1736242342,
       "rank": 9,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 227714,
-      "num": 145382,
-      "word": "央视春晚四大美女",
-      "onboard_time": 1738101732,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 227662,
@@ -35187,6 +35251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217161,
+      "num": 217161,
+      "word": "拜年",
+      "onboard_time": 1738063048,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 217142,
       "num": 217142,
       "word": "爸爸带娃买了一斤豆坐飞机",
@@ -35297,14 +35369,6 @@
       "onboard_time": 1735767612,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 216612,
-      "num": 138805,
-      "word": "她1小时写完王菲新歌的词",
-      "onboard_time": 1738106295,
-      "rank": 29,
-      "category": "音乐"
     },
     {
       "raw_hot": 216610,
@@ -36003,6 +36067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212483,
+      "num": 212483,
+      "word": "谭维维20厘米高跟鞋",
+      "onboard_time": 1738111580,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212466,
       "num": 361778,
       "word": "西安低温灾害和雪灾风险预警来了",
@@ -36289,6 +36361,14 @@
       "onboard_time": 1737195198,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 210558,
+      "num": 210558,
+      "word": "撒贝宁说浓眉和化妆师没关系",
+      "onboard_time": 1738112840,
+      "rank": 25,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 210537,
@@ -38489,14 +38569,6 @@
       "onboard_time": 1735910240,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 201564,
-      "num": 201564,
-      "word": "拜年",
-      "onboard_time": 1738063048,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 201542,
@@ -43939,6 +44011,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 183677,
+      "num": 187833,
+      "word": "马斯克质疑DeepSeek低成本训练",
+      "onboard_time": 1738102161,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 183632,
       "num": 322209,
       "word": "寒假未成年仅15小时游戏时间",
@@ -44985,6 +45065,14 @@
       "onboard_time": 1737462737,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 179382,
+      "num": 179382,
+      "word": "刘谦后面的苏有朋",
+      "onboard_time": 1738113800,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 179370,
@@ -46315,6 +46403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174603,
+      "num": 174603,
+      "word": "射雕",
+      "onboard_time": 1738105815,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 174583,
       "num": 153190,
       "word": "李昀锐新剧出场镜头",
@@ -47169,6 +47265,14 @@
       "onboard_time": 1737781037,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 171994,
+      "num": 171994,
+      "word": "岳云鹏春晚换搭档了",
+      "onboard_time": 1738105935,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 171976,
@@ -50627,14 +50731,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 160946,
-      "num": 160946,
-      "word": "马斯克质疑DeepSeek低成本训练",
-      "onboard_time": 1738102161,
-      "rank": 38,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 160943,
       "num": 160943,
       "word": "流星雨",
@@ -52363,6 +52459,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 155833,
+      "num": 155833,
+      "word": "王一博的头身比",
+      "onboard_time": 1738114161,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155818,
       "num": 191313,
       "word": "查收檀健次的年终总结",
@@ -52409,6 +52513,14 @@
       "onboard_time": 1736424502,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155581,
+      "num": 155581,
+      "word": "小狗春晚",
+      "onboard_time": 1738114099,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 155516,
@@ -52721,6 +52833,14 @@
       "onboard_time": 1737214759,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 154641,
+      "num": 154641,
+      "word": "机器人是被舞蹈演员押下去",
+      "onboard_time": 1738112420,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 154628,
@@ -53625,14 +53745,6 @@
       "onboard_time": 1737814343,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 151595,
-      "num": 151595,
-      "word": "机器人跳完舞被搀扶有序下台",
-      "onboard_time": 1738089374,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 151588,
@@ -54779,6 +54891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 148052,
+      "num": 165673,
+      "word": "领舞7岁娃是英歌舞传人",
+      "onboard_time": 1738106055,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148025,
       "num": 148025,
       "word": "尼龙孟子义2025开年刊",
@@ -54897,14 +55017,6 @@
       "onboard_time": 1736405300,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 147778,
-      "num": 147778,
-      "word": "射雕",
-      "onboard_time": 1738105815,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 147759,
@@ -56360,14 +56472,6 @@
       "word": "家属称老人信养生馆治癌拒就医去世",
       "onboard_time": 1735722258,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 143606,
-      "num": 165673,
-      "word": "领舞7岁娃是英歌舞传人",
-      "onboard_time": 1738106055,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -62139,6 +62243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127808,
+      "num": 188460,
+      "word": "孙颖莎除夕还在训练",
+      "onboard_time": 1738109599,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127773,
       "num": 127773,
       "word": "余宇涵翻跳NoDoubt",
@@ -62739,6 +62851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126174,
+      "num": 187461,
+      "word": "今天是乙巳蛇年第一天",
+      "onboard_time": 1738114580,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 126160,
       "num": 645421,
       "word": "希望期末周的老师belike",
@@ -62803,6 +62923,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 126019,
+      "num": 126019,
+      "word": "封神",
+      "onboard_time": 1738112420,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 126018,
       "num": 133142,
       "word": "过年才有的装扮",
@@ -62865,6 +62993,14 @@
       "onboard_time": 1737604159,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 125876,
+      "num": 125876,
+      "word": "丁禹兮唱斗柄指东天下春",
+      "onboard_time": 1738114161,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 125858,
@@ -63073,14 +63209,6 @@
       "onboard_time": 1736293879,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 125386,
-      "num": 125386,
-      "word": "撒贝宁尼格买提春晚后台共用氧气瓶",
-      "onboard_time": 1738086796,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 125343,
@@ -68643,14 +68771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 110585,
-      "num": 89027,
-      "word": "岳云鹏春晚换搭档了",
-      "onboard_time": 1738105935,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 110570,
       "num": 114236,
       "word": "李聪李广苏英雄航天员",
@@ -73043,6 +73163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95392,
+      "num": 95392,
+      "word": "英伟达一夜跌掉2个半茅台",
+      "onboard_time": 1738107977,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 95349,
       "num": 255690,
       "word": "孙颖莎继续世排第1",
@@ -73497,6 +73625,14 @@
       "onboard_time": 1736726177,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 93617,
+      "num": 93617,
+      "word": "大年初一起床时间",
+      "onboard_time": 1738114401,
+      "rank": 49,
+      "category": "正能量"
     },
     {
       "raw_hot": 93611,
@@ -76337,14 +76473,6 @@
       "onboard_time": 1736149770,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 79025,
-      "num": 74510,
-      "word": "还好王一博腿长",
-      "onboard_time": 1738106596,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 79019,
@@ -85881,6 +86009,14 @@
       "onboard_time": 1735738764,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 30100,
+      "num": 216252,
+      "word": "今年春晚含面量太高了吧",
+      "onboard_time": 1738113500,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 30081,

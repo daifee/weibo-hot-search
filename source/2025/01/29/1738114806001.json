@@ -1,0 +1,410 @@
+{
+  "runTime": 1738114806001,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1707343,
+        "num": 1707343,
+        "word": "金晨你怎么可以捅这么大的篓子",
+        "onboard_time": 1738090873,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1637571,
+        "num": 1637571,
+        "word": "春晚收视率",
+        "onboard_time": 1738086677,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21451,
+        "num": 974254,
+        "word": "蛇年新春里的中国",
+        "onboard_time": 1738071222,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 902721,
+        "num": 902721,
+        "word": "王菲发际线腮红",
+        "onboard_time": 1738108157,
+        "rank": 3,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 899713,
+        "num": 899713,
+        "word": "央视春晚四大美女",
+        "onboard_time": 1738101732,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 595192,
+        "num": 595192,
+        "word": "机器人跳完舞被搀扶有序下台",
+        "onboard_time": 1738089374,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 531872,
+        "num": 531872,
+        "word": "沈腾马丽小品",
+        "onboard_time": 1738076680,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 506098,
+        "num": 506098,
+        "word": "扶着点咱奶别摔了",
+        "onboard_time": 1738112720,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 488812,
+        "num": 488812,
+        "word": "十年前priest就成功预测了25年春晚",
+        "onboard_time": 1738079795,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 409963,
+        "num": 409963,
+        "word": "韩国起火客机原定飞往中国香港",
+        "onboard_time": 1738111820,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 487197,
+        "num": 407314,
+        "word": "谁给李宇春穿的裙子",
+        "onboard_time": 1738079795,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 395799,
+        "num": 395799,
+        "word": "春晚",
+        "onboard_time": 1738064609,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 375673,
+        "num": 375673,
+        "word": "春晚首个显眼包出现了",
+        "onboard_time": 1738092014,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371431,
+        "num": 371431,
+        "word": "易烊千玺李宇春怎么把邓超踢了",
+        "onboard_time": 1738072834,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364587,
+        "num": 364587,
+        "word": "把艾伦还给沈腾马丽",
+        "onboard_time": 1738084522,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350997,
+        "num": 350997,
+        "word": "英伟达大涨近9%",
+        "onboard_time": 1738110319,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 338051,
+        "num": 338051,
+        "word": "小明一家 老师好",
+        "onboard_time": 1738081590,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227176,
+        "num": 227176,
+        "word": "新年快乐",
+        "onboard_time": 1738082248,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217161,
+        "num": 217161,
+        "word": "拜年",
+        "onboard_time": 1738112479,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30100,
+        "num": 216252,
+        "word": "今年春晚含面量太高了吧",
+        "onboard_time": 1738113500,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335478,
+        "num": 215928,
+        "word": "陈奕迅 真唱",
+        "onboard_time": 1738074999,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293163,
+        "num": 214954,
+        "word": "她1小时写完王菲新歌的词",
+        "onboard_time": 1738106295,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231446,
+        "num": 213761,
+        "word": "撒贝宁尼格买提春晚后台共用氧气瓶",
+        "onboard_time": 1738086796,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229689,
+        "num": 213349,
+        "word": "还好王一博腿长",
+        "onboard_time": 1738106596,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212483,
+        "num": 212483,
+        "word": "谭维维20厘米高跟鞋",
+        "onboard_time": 1738111580,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210558,
+        "num": 210558,
+        "word": "撒贝宁说浓眉和化妆师没关系",
+        "onboard_time": 1738112840,
+        "rank": 25,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 192341,
+        "num": 192341,
+        "word": "春晚 用心",
+        "onboard_time": 1738069837,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127808,
+        "num": 188460,
+        "word": "孙颖莎除夕还在训练",
+        "onboard_time": 1738109599,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183677,
+        "num": 187833,
+        "word": "马斯克质疑DeepSeek低成本训练",
+        "onboard_time": 1738102161,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 126174,
+        "num": 187461,
+        "word": "今天是乙巳蛇年第一天",
+        "onboard_time": 1738114580,
+        "rank": 29,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 187339,
+        "num": 187339,
+        "word": "刘涛 妈祖援藏",
+        "onboard_time": 1738071886,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184675,
+        "num": 184675,
+        "word": "吴磊胡子都等出来了",
+        "onboard_time": 1738084761,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121716,
+        "num": 180158,
+        "word": "蛇年第一天接好运",
+        "onboard_time": 1738089674,
+        "rank": 32,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 179382,
+        "num": 179382,
+        "word": "刘谦后面的苏有朋",
+        "onboard_time": 1738113800,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174603,
+        "num": 174603,
+        "word": "射雕",
+        "onboard_time": 1738105815,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172612,
+        "num": 172612,
+        "word": "丁禹兮王安宇帅一大跳",
+        "onboard_time": 1738080267,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171994,
+        "num": 171994,
+        "word": "岳云鹏春晚换搭档了",
+        "onboard_time": 1738105935,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155833,
+        "num": 155833,
+        "word": "王一博的头身比",
+        "onboard_time": 1738114161,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155581,
+        "num": 155581,
+        "word": "小狗春晚",
+        "onboard_time": 1738114099,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154641,
+        "num": 154641,
+        "word": "机器人是被舞蹈演员押下去",
+        "onboard_time": 1738112420,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148052,
+        "num": 148052,
+        "word": "领舞7岁娃是英歌舞传人",
+        "onboard_time": 1738106055,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139700,
+        "num": 139700,
+        "word": "任敏美甲",
+        "onboard_time": 1738072362,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135285,
+        "num": 135285,
+        "word": "薛之谦唱了赵英俊的歌",
+        "onboard_time": 1738080508,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126019,
+        "num": 126019,
+        "word": "封神",
+        "onboard_time": 1738112420,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125876,
+        "num": 125876,
+        "word": "丁禹兮唱斗柄指东天下春",
+        "onboard_time": 1738114161,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123075,
+        "num": 123075,
+        "word": "孙千腿好长",
+        "onboard_time": 1738079079,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119353,
+        "num": 119353,
+        "word": "DeepSeek从出租屋起步走向世界",
+        "onboard_time": 1738083744,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 95392,
+        "num": 95392,
+        "word": "英伟达一夜跌掉2个半茅台",
+        "onboard_time": 1738107977,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 95320,
+        "num": 95320,
+        "word": "DeepSeek",
+        "onboard_time": 1738079735,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 93617,
+        "num": 93617,
+        "word": "大年初一起床时间",
+        "onboard_time": 1738114401,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的新春牵挂#"
+    }
+  }
+}
