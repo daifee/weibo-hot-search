@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738121913217,
+  "endTime": 1738124763592,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -875,6 +875,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 989867,
+      "num": 989867,
+      "word": "春节档票房",
+      "onboard_time": 1738117581,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 989818,
       "num": 257426,
       "word": "女子产后遭第三者到医院挑衅",
@@ -1067,14 +1075,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 863638,
-      "num": 863638,
-      "word": "春节档票房",
-      "onboard_time": 1738117581,
-      "rank": 8,
-      "category": "电影"
-    },
-    {
       "raw_hot": 860983,
       "num": 1137757,
       "word": "樊振东获得2025世乒赛决赛参赛资格",
@@ -1195,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 806913,
+      "num": 806913,
+      "word": "陈哲远一天涨粉350万",
+      "onboard_time": 1738120401,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 792527,
       "num": 3799063,
       "word": "烟花",
@@ -1227,6 +1235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 769338,
+      "num": 769338,
+      "word": "沈腾凭什么演马丽女婿",
+      "onboard_time": 1738120339,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 761138,
       "num": 256792,
       "word": "谢娜曾批张大大迷之自信",
@@ -1239,6 +1255,14 @@
       "num": 423256,
       "word": "赵露思比耶无法控制小拇指",
       "onboard_time": 1737902120,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 760955,
+      "num": 562791,
+      "word": "张雨绮男友晒合照官宣恋情",
+      "onboard_time": 1738123700,
       "rank": 10,
       "category": "艺人"
     },
@@ -1819,6 +1843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 549981,
+      "num": 549981,
+      "word": "藕饼",
+      "onboard_time": 1738121239,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 549624,
       "num": 737362,
       "word": "王一博萧敬腾春晚我可以",
@@ -2211,6 +2243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 477727,
+      "num": 477727,
+      "word": "射雕",
+      "onboard_time": 1738105815,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 477290,
       "num": 477290,
       "word": "泰国多名军警人员涉绑架案被拘捕",
@@ -2395,12 +2435,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 438931,
-      "num": 301816,
-      "word": "陈哲远一天涨粉350万",
-      "onboard_time": 1738120401,
-      "rank": 20,
-      "category": "艺人"
+      "raw_hot": 437209,
+      "num": 437209,
+      "word": "沈马 背德cp感",
+      "onboard_time": 1738119860,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 434481,
@@ -2425,14 +2465,6 @@
       "onboard_time": 1738033097,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 425280,
-      "num": 425280,
-      "word": "射雕",
-      "onboard_time": 1738105815,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 424134,
@@ -2465,6 +2497,14 @@
       "onboard_time": 1737868459,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 420398,
+      "num": 420398,
+      "word": "射雕路演",
+      "onboard_time": 1738122319,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 416771,
@@ -2697,6 +2737,14 @@
       "onboard_time": 1737901760,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 386544,
+      "num": 386544,
+      "word": "美军f35坠毁现场升腾起蘑菇云",
+      "onboard_time": 1738123700,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 385966,
@@ -2993,6 +3041,14 @@
       "onboard_time": 1738066909,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 335358,
+      "num": 335358,
+      "word": "封神",
+      "onboard_time": 1738112420,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 333957,
@@ -3313,14 +3369,6 @@
       "onboard_time": 1737893059,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 293411,
-      "num": 293411,
-      "word": "封神",
-      "onboard_time": 1738112420,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 293375,
@@ -3787,6 +3835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 251020,
+      "num": 251020,
+      "word": "鞠婧祎 天宫仙女造型",
+      "onboard_time": 1738123579,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 250813,
       "num": 250813,
       "word": "合肥地震",
@@ -3923,6 +3979,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 240758,
+      "num": 240758,
+      "word": "毛晓彤国泰民安的娃娃脸",
+      "onboard_time": 1738123400,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 240660,
+      "num": 240660,
+      "word": "桑延温以凡现在是一家五口",
+      "onboard_time": 1738121481,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 240487,
       "num": 204626,
       "word": "节目组 麦琳身世",
@@ -4033,14 +4105,6 @@
       "onboard_time": 1738051341,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 231740,
-      "num": 231740,
-      "word": "桑延温以凡现在是一家五口",
-      "onboard_time": 1738121481,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 231735,
@@ -4435,6 +4499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209110,
+      "num": 209110,
+      "word": "王安宇胡先煦拥抱",
+      "onboard_time": 1738123341,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209046,
       "num": 209046,
       "word": "买迪士尼导览导游中途被抓失联",
@@ -4587,6 +4659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202401,
+      "num": 202401,
+      "word": "宇树科技",
+      "onboard_time": 1738123640,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202281,
       "num": 202281,
       "word": "肖战把小风扇给对手演员用",
@@ -4635,20 +4715,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200579,
-      "num": 200579,
-      "word": "藕饼",
-      "onboard_time": 1738121239,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 200359,
       "num": 200359,
       "word": "撒贝宁背后的观众C位是谁",
       "onboard_time": 1738116620,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199914,
+      "num": 199914,
+      "word": "喻言加入天娱传媒",
+      "onboard_time": 1738124299,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 199684,
@@ -4811,14 +4891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 194655,
-      "num": 194655,
-      "word": "沈腾凭什么演马丽女婿",
-      "onboard_time": 1738120339,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 194271,
       "num": 1225562,
       "word": "香奈儿珍珠妆",
@@ -4913,6 +4985,14 @@
       "onboard_time": 1737882918,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192445,
+      "num": 192445,
+      "word": "张子枫首登春晚",
+      "onboard_time": 1738122081,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 191794,
@@ -5235,6 +5315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178502,
+      "num": 178502,
+      "word": "赵露思新春大片",
+      "onboard_time": 1738122560,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 177782,
       "num": 177782,
       "word": "五福临门五娘 小小老子脾气爆",
@@ -5337,6 +5425,14 @@
       "onboard_time": 1738070324,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173841,
+      "num": 173841,
+      "word": "肖战北京台春晚首唱灯塔",
+      "onboard_time": 1738123880,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 173725,
@@ -5609,6 +5705,14 @@
       "onboard_time": 1737819921,
       "rank": 23,
       "category": "美食,健康医疗"
+    },
+    {
+      "raw_hot": 163684,
+      "num": 163684,
+      "word": "姬发邓婵玉感情线",
+      "onboard_time": 1738124178,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 163405,
@@ -6009,6 +6113,14 @@
       "onboard_time": 1737862699,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151643,
+      "num": 144628,
+      "word": "肖战电影广州路演",
+      "onboard_time": 1738124480,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 151588,
@@ -6491,6 +6603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138668,
+      "num": 138668,
+      "word": "唐汉霄唱不妥协的人就是哪吒",
+      "onboard_time": 1738124299,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 138615,
       "num": 138615,
       "word": "内娱异域美又有新面孔了",
@@ -6505,6 +6625,14 @@
       "onboard_time": 1737871997,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138516,
+      "num": 570259,
+      "word": "正月初一过年好",
+      "onboard_time": 1738123280,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 138464,
@@ -6657,6 +6785,14 @@
       "onboard_time": 1737981198,
       "rank": 44,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 135732,
+      "num": 135732,
+      "word": "f35",
+      "onboard_time": 1738124240,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 135495,
@@ -7217,6 +7353,14 @@
       "onboard_time": 1737883817,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 121874,
+      "num": 241186,
+      "word": "梁伟铿希望今年冠军多多",
+      "onboard_time": 1738121121,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 121782,
@@ -9443,6 +9587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 69904,
+      "num": 140751,
+      "word": "马龙新春惊喜拍立得",
+      "onboard_time": 1738122141,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69340,
       "num": 69340,
       "word": "你知道除夕的来历吗",
@@ -10155,6 +10307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 39892,
+      "num": 240692,
+      "word": "福原爱一身红衣拜年",
+      "onboard_time": 1738122259,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39778,
       "num": 98858,
       "word": "柯南小情侣卡牌门面担当",
@@ -10531,6 +10691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 27896,
+      "num": 1003631,
+      "word": "文化中国行共庆首个非遗春节",
+      "onboard_time": 1738108577,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 27829,
       "num": 136598,
       "word": "给住在心里的人一个拥抱吧",
@@ -10905,6 +11073,14 @@
       "onboard_time": 1737903561,
       "rank": 35,
       "category": "体育,综艺"
+    },
+    {
+      "raw_hot": 18213,
+      "num": 172380,
+      "word": "春晚同款已经火了42年",
+      "onboard_time": 1738123400,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 17804,

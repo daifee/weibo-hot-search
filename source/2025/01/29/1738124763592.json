@@ -1,0 +1,410 @@
+{
+  "runTime": 1738124763592,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2178860,
+        "num": 2178860,
+        "word": "导演组回应沈腾马丽小品没演完",
+        "onboard_time": 1738118841,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1289584,
+        "num": 1289584,
+        "word": "春晚总导演回应邓超缺席",
+        "onboard_time": 1738118901,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27896,
+        "num": 1003631,
+        "word": "文化中国行共庆首个非遗春节",
+        "onboard_time": 1738108577,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 989867,
+        "num": 989867,
+        "word": "春节档票房",
+        "onboard_time": 1738117581,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 806913,
+        "num": 806913,
+        "word": "陈哲远一天涨粉350万",
+        "onboard_time": 1738120401,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294079,
+        "num": 780619,
+        "word": "大年初一起床时间",
+        "onboard_time": 1738114401,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 769338,
+        "num": 769338,
+        "word": "沈腾凭什么演马丽女婿",
+        "onboard_time": 1738120339,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 698068,
+        "num": 698068,
+        "word": "金晨你怎么可以捅这么大的篓子",
+        "onboard_time": 1738090873,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 677227,
+        "num": 677227,
+        "word": "哪吒",
+        "onboard_time": 1738117581,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138516,
+        "num": 570259,
+        "word": "正月初一过年好",
+        "onboard_time": 1738123280,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 760955,
+        "num": 562791,
+        "word": "张雨绮男友晒合照官宣恋情",
+        "onboard_time": 1738123700,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 549981,
+        "num": 549981,
+        "word": "藕饼",
+        "onboard_time": 1738121239,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 533079,
+        "num": 533079,
+        "word": "Angelababy发和儿子合照",
+        "onboard_time": 1738115781,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514551,
+        "num": 514551,
+        "word": "DeepSeek遭美国IP网攻暴力破解",
+        "onboard_time": 1738117581,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 483991,
+        "num": 483991,
+        "word": "唐探1900",
+        "onboard_time": 1738115899,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 477727,
+        "num": 477727,
+        "word": "射雕",
+        "onboard_time": 1738105815,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 437209,
+        "num": 437209,
+        "word": "沈马 背德cp感",
+        "onboard_time": 1738119860,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 433003,
+        "num": 433003,
+        "word": "春晚收视率",
+        "onboard_time": 1738086677,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249551,
+        "num": 422916,
+        "word": "机器人跳完舞被搀扶有序下台",
+        "onboard_time": 1738089374,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136295,
+        "num": 421209,
+        "word": "韩国起火客机原定飞往中国香港",
+        "onboard_time": 1738111820,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 420398,
+        "num": 420398,
+        "word": "射雕路演",
+        "onboard_time": 1738122319,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 386544,
+        "num": 386544,
+        "word": "美军f35坠毁现场升腾起蘑菇云",
+        "onboard_time": 1738123700,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 370308,
+        "num": 370308,
+        "word": "王菲发际线腮红",
+        "onboard_time": 1738108157,
+        "rank": 22,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 335358,
+        "num": 335358,
+        "word": "封神",
+        "onboard_time": 1738112420,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 333295,
+        "num": 333295,
+        "word": "央视春晚四大美女",
+        "onboard_time": 1738101732,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271345,
+        "num": 271345,
+        "word": "春晚",
+        "onboard_time": 1738064609,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251020,
+        "num": 251020,
+        "word": "鞠婧祎 天宫仙女造型",
+        "onboard_time": 1738123579,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123274,
+        "num": 244025,
+        "word": "新年快乐",
+        "onboard_time": 1738082248,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121874,
+        "num": 241186,
+        "word": "梁伟铿希望今年冠军多多",
+        "onboard_time": 1738121121,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240758,
+        "num": 240758,
+        "word": "毛晓彤国泰民安的娃娃脸",
+        "onboard_time": 1738123400,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39892,
+        "num": 240692,
+        "word": "福原爱一身红衣拜年",
+        "onboard_time": 1738122259,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240660,
+        "num": 240660,
+        "word": "桑延温以凡现在是一家五口",
+        "onboard_time": 1738121481,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209110,
+        "num": 209110,
+        "word": "王安宇胡先煦拥抱",
+        "onboard_time": 1738123341,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202401,
+        "num": 202401,
+        "word": "宇树科技",
+        "onboard_time": 1738123640,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199914,
+        "num": 199914,
+        "word": "喻言加入天娱传媒",
+        "onboard_time": 1738124299,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192445,
+        "num": 192445,
+        "word": "张子枫首登春晚",
+        "onboard_time": 1738122081,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178502,
+        "num": 178502,
+        "word": "赵露思新春大片",
+        "onboard_time": 1738122560,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 173841,
+        "num": 173841,
+        "word": "肖战北京台春晚首唱灯塔",
+        "onboard_time": 1738123880,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18213,
+        "num": 172380,
+        "word": "春晚同款已经火了42年",
+        "onboard_time": 1738123400,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172031,
+        "num": 172031,
+        "word": "程潇跟宋雨琦站一起拜年",
+        "onboard_time": 1738120339,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163684,
+        "num": 163684,
+        "word": "姬发邓婵玉感情线",
+        "onboard_time": 1738124178,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150392,
+        "num": 150392,
+        "word": "机器人是被舞蹈演员押下去",
+        "onboard_time": 1738112420,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151643,
+        "num": 144628,
+        "word": "肖战电影广州路演",
+        "onboard_time": 1738124480,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 69904,
+        "num": 140751,
+        "word": "马龙新春惊喜拍立得",
+        "onboard_time": 1738122141,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138668,
+        "num": 138668,
+        "word": "唐汉霄唱不妥协的人就是哪吒",
+        "onboard_time": 1738124299,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136671,
+        "num": 136671,
+        "word": "谁给李宇春穿的裙子",
+        "onboard_time": 1738079795,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135732,
+        "num": 135732,
+        "word": "f35",
+        "onboard_time": 1738124240,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129898,
+        "num": 129898,
+        "word": "邓超out",
+        "onboard_time": 1738120821,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93187,
+        "num": 129400,
+        "word": "非遗春节大拜年",
+        "onboard_time": 1738117820,
+        "rank": 48,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 128923,
+        "num": 128923,
+        "word": "春意红包各有各的美",
+        "onboard_time": 1738080146,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的新春牵挂#"
+    }
+  }
+}
