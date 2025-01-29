@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738179341330,
+  "endTime": 1738182229207,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -90667,6 +90667,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 21396,
+      "num": 20868,
+      "word": "今日童步",
+      "onboard_time": 1738182132,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 21385,
       "num": 21385,
       "word": "张婧仪侧脸杀",
@@ -91593,6 +91601,14 @@
       "onboard_time": 1736133861,
       "rank": 39,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 17840,
+      "num": 18863,
+      "word": "苏醒转身就走像下定了某种决心",
+      "onboard_time": 1738180213,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 17804,
@@ -92795,6 +92811,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 12905,
+      "num": 21499,
+      "word": "曼城vs布鲁日",
+      "onboard_time": 1738178711,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 12877,
       "num": 29840,
       "word": "尹锡悦将转移至首尔拘留所",
@@ -92896,14 +92920,6 @@
       "word": "雅思的胜利之约",
       "onboard_time": 1735982543,
       "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 12396,
-      "num": 21499,
-      "word": "曼城vs布鲁日",
-      "onboard_time": 1738178711,
-      "rank": 49,
       "category": "体育"
     },
     {

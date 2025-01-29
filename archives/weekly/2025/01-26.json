@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738179341330,
+  "endTime": 1738182229207,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -12851,6 +12851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 21396,
+      "num": 20868,
+      "word": "今日童步",
+      "onboard_time": 1738182132,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 20668,
       "num": 179749,
       "word": "一起离婚财产纠纷牵出法官受贿",
@@ -12971,6 +12979,14 @@
       "category": "体育,综艺"
     },
     {
+      "raw_hot": 17840,
+      "num": 18863,
+      "word": "苏醒转身就走像下定了某种决心",
+      "onboard_time": 1738180213,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 17804,
       "num": 52610,
       "word": "山东舰00后女兵是飞行员另一双眼睛",
@@ -13075,20 +13091,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 12905,
+      "num": 21499,
+      "word": "曼城vs布鲁日",
+      "onboard_time": 1738178711,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 12787,
+      "num": 18834,
+      "word": "朝朝穆穆",
+      "onboard_time": 1738182191,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 12587,
       "num": 33064,
       "word": "雨雪回家路上有交警带道的安全感",
       "onboard_time": 1737922211,
       "rank": 11,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 12396,
-      "num": 21499,
-      "word": "曼城vs布鲁日",
-      "onboard_time": 1738178711,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 12358,
