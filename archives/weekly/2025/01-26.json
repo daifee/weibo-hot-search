@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738124763592,
+  "endTime": 1738125571787,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -577,6 +577,14 @@
       "onboard_time": 1738058423,
       "rank": 20,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1337627,
+      "num": 679702,
+      "word": "张雨绮男友晒合照官宣恋情",
+      "onboard_time": 1738123700,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1324668,
@@ -1259,14 +1267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 760955,
-      "num": 562791,
-      "word": "张雨绮男友晒合照官宣恋情",
-      "onboard_time": 1738123700,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 748679,
       "num": 878338,
       "word": "大年初一起床时间",
@@ -1683,6 +1683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 596382,
+      "num": 596382,
+      "word": "藕饼",
+      "onboard_time": 1738121239,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 595192,
       "num": 684189,
       "word": "机器人跳完舞被搀扶有序下台",
@@ -1771,6 +1779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 564201,
+      "num": 679826,
+      "word": "美军f35坠毁现场升腾起蘑菇云",
+      "onboard_time": 1738123700,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 564099,
       "num": 476832,
       "word": "战鹰发文向柯洁道歉",
@@ -1841,14 +1857,6 @@
       "onboard_time": 1737800899,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 549981,
-      "num": 549981,
-      "word": "藕饼",
-      "onboard_time": 1738121239,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 549624,
@@ -2001,6 +2009,14 @@
       "onboard_time": 1738060404,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 511504,
+      "num": 511504,
+      "word": "任敏差点成为下一个尼格买提",
+      "onboard_time": 1738125500,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 510866,
@@ -2739,14 +2755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 386544,
-      "num": 386544,
-      "word": "美军f35坠毁现场升腾起蘑菇云",
-      "onboard_time": 1738123700,
-      "rank": 21,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 385966,
       "num": 280664,
       "word": "辽视春晚小品",
@@ -2968,6 +2976,14 @@
       "word": "比杨紫更了解杨紫的人出现",
       "onboard_time": 1737965657,
       "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 348081,
+      "num": 348081,
+      "word": "金晨给被砸中的小孩儿道歉",
+      "onboard_time": 1738124839,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -3201,6 +3217,14 @@
       "onboard_time": 1738057583,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 321854,
+      "num": 321854,
+      "word": "姬发邓婵玉感情线",
+      "onboard_time": 1738124178,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 320881,
@@ -3633,6 +3657,14 @@
       "onboard_time": 1737889277,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 268688,
+      "num": 489001,
+      "word": "喻言加入天娱传媒",
+      "onboard_time": 1738124299,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 267300,
@@ -4483,6 +4515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209713,
+      "num": 209713,
+      "word": "张子枫首登春晚",
+      "onboard_time": 1738122081,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209642,
       "num": 909509,
       "word": "外国游客成中国游最强嘴替",
@@ -4715,20 +4755,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200649,
+      "num": 314710,
+      "word": "肖战电影广州路演",
+      "onboard_time": 1738124480,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 200359,
       "num": 200359,
       "word": "撒贝宁背后的观众C位是谁",
       "onboard_time": 1738116620,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199914,
-      "num": 199914,
-      "word": "喻言加入天娱传媒",
-      "onboard_time": 1738124299,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 199684,
@@ -4985,14 +5025,6 @@
       "onboard_time": 1737882918,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 192445,
-      "num": 192445,
-      "word": "张子枫首登春晚",
-      "onboard_time": 1738122081,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 191794,
@@ -5451,6 +5483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172876,
+      "num": 172876,
+      "word": "f35",
+      "onboard_time": 1738124240,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 172315,
       "num": 172315,
       "word": "沈梦辰要给国色芳华导演寄膏药",
@@ -5707,14 +5747,6 @@
       "category": "美食,健康医疗"
     },
     {
-      "raw_hot": 163684,
-      "num": 163684,
-      "word": "姬发邓婵玉感情线",
-      "onboard_time": 1738124178,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 163405,
       "num": 187248,
       "word": "张钧甯五本主流刊",
@@ -5849,6 +5881,14 @@
       "onboard_time": 1738035017,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159918,
+      "num": 159918,
+      "word": "上台太赶没穿裤 这就是我说的漏电保护",
+      "onboard_time": 1738124898,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 159883,
@@ -6115,14 +6155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151643,
-      "num": 144628,
-      "word": "肖战电影广州路演",
-      "onboard_time": 1738124480,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 151588,
       "num": 359140,
       "word": "春节摄影大赛",
@@ -6297,6 +6329,14 @@
       "onboard_time": 1737805160,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 146981,
+      "num": 146981,
+      "word": "唐汉霄唱不妥协的人就是哪吒",
+      "onboard_time": 1738124299,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 146930,
@@ -6603,14 +6643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 138668,
-      "num": 138668,
-      "word": "唐汉霄唱不妥协的人就是哪吒",
-      "onboard_time": 1738124299,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 138615,
       "num": 138615,
       "word": "内娱异域美又有新面孔了",
@@ -6628,7 +6660,7 @@
     },
     {
       "raw_hot": 138516,
-      "num": 570259,
+      "num": 748345,
       "word": "正月初一过年好",
       "onboard_time": 1738123280,
       "rank": 9,
@@ -6785,14 +6817,6 @@
       "onboard_time": 1737981198,
       "rank": 44,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 135732,
-      "num": 135732,
-      "word": "f35",
-      "onboard_time": 1738124240,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 135495,
@@ -8761,6 +8785,14 @@
       "onboard_time": 1738047517,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90994,
+      "num": 137961,
+      "word": "布朗尼第一节就上了",
+      "onboard_time": 1738125500,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 90936,
@@ -10771,6 +10803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25805,
+      "num": 172767,
+      "word": "春晚同款已经火了42年",
+      "onboard_time": 1738123400,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 25579,
       "num": 25466,
       "word": "朱志鑫特别早的年夜饭",
@@ -11075,14 +11115,6 @@
       "category": "体育,综艺"
     },
     {
-      "raw_hot": 18213,
-      "num": 172380,
-      "word": "春晚同款已经火了42年",
-      "onboard_time": 1738123400,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 17804,
       "num": 52610,
       "word": "山东舰00后女兵是飞行员另一双眼睛",
@@ -11127,6 +11159,14 @@
       "num": 182471,
       "word": "陈梦祝大家新春快乐",
       "onboard_time": 1738051820,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 14965,
+      "num": 352689,
+      "word": "福克斯申请交易",
+      "onboard_time": 1738117041,
       "rank": 24,
       "category": "体育"
     },
@@ -11417,6 +11457,9 @@
     },
     {
       "word": "#总书记的新春牵挂#"
+    },
+    {
+      "word": "#在蛇年书写新的荣耀篇章#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1738125571787,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1959102,
+        "num": 1959102,
+        "word": "导演组回应沈腾马丽小品没演完",
+        "onboard_time": 1738118841,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1151055,
+        "num": 1151055,
+        "word": "春晚总导演回应邓超缺席",
+        "onboard_time": 1738118901,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24653,
+        "num": 912943,
+        "word": "文化中国行共庆首个非遗春节",
+        "onboard_time": 1738108577,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 831280,
+        "num": 831280,
+        "word": "春节档票房",
+        "onboard_time": 1738117581,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 778405,
+        "num": 778405,
+        "word": "陈哲远一天涨粉350万",
+        "onboard_time": 1738120401,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269865,
+        "num": 749416,
+        "word": "大年初一起床时间",
+        "onboard_time": 1738114401,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 53121,
+        "num": 748345,
+        "word": "正月初一过年好",
+        "onboard_time": 1738123280,
+        "rank": 6,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 747572,
+        "num": 747572,
+        "word": "沈腾凭什么演马丽女婿",
+        "onboard_time": 1738120339,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229496,
+        "num": 683497,
+        "word": "机器人跳完舞被搀扶有序下台",
+        "onboard_time": 1738089374,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 564201,
+        "num": 679826,
+        "word": "美军f35坠毁现场升腾起蘑菇云",
+        "onboard_time": 1738123700,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1337627,
+        "num": 679702,
+        "word": "张雨绮男友晒合照官宣恋情",
+        "onboard_time": 1738123700,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 678316,
+        "num": 678316,
+        "word": "金晨你怎么可以捅这么大的篓子",
+        "onboard_time": 1738090873,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 635879,
+        "num": 635879,
+        "word": "哪吒",
+        "onboard_time": 1738117581,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 596382,
+        "num": 596382,
+        "word": "藕饼",
+        "onboard_time": 1738121239,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 578101,
+        "num": 578101,
+        "word": "Angelababy发和儿子合照",
+        "onboard_time": 1738115781,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 527100,
+        "num": 527100,
+        "word": "唐探1900",
+        "onboard_time": 1738115899,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 511504,
+        "num": 511504,
+        "word": "任敏差点成为下一个尼格买提",
+        "onboard_time": 1738125500,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129637,
+        "num": 492373,
+        "word": "韩国起火客机原定飞往中国香港",
+        "onboard_time": 1738111820,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 118683,
+        "num": 489466,
+        "word": "新年快乐",
+        "onboard_time": 1738082248,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268688,
+        "num": 489001,
+        "word": "喻言加入天娱传媒",
+        "onboard_time": 1738124299,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 488926,
+        "num": 488926,
+        "word": "DeepSeek遭美国IP网攻暴力破解",
+        "onboard_time": 1738117581,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 454378,
+        "num": 454378,
+        "word": "射雕",
+        "onboard_time": 1738105815,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 381945,
+        "num": 381945,
+        "word": "春晚收视率",
+        "onboard_time": 1738086677,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358969,
+        "num": 358969,
+        "word": "射雕路演",
+        "onboard_time": 1738122319,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 14965,
+        "num": 352689,
+        "word": "福克斯申请交易",
+        "onboard_time": 1738117041,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 348081,
+        "num": 348081,
+        "word": "金晨给被砸中的小孩儿道歉",
+        "onboard_time": 1738124839,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342121,
+        "num": 342121,
+        "word": "沈马 背德cp感",
+        "onboard_time": 1738119860,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335577,
+        "num": 335577,
+        "word": "王菲发际线腮红",
+        "onboard_time": 1738108157,
+        "rank": 27,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 321854,
+        "num": 321854,
+        "word": "姬发邓婵玉感情线",
+        "onboard_time": 1738124178,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200649,
+        "num": 314710,
+        "word": "肖战电影广州路演",
+        "onboard_time": 1738124480,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 313427,
+        "num": 313427,
+        "word": "封神",
+        "onboard_time": 1738112420,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 300195,
+        "num": 300195,
+        "word": "春晚",
+        "onboard_time": 1738064609,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277002,
+        "num": 277002,
+        "word": "央视春晚四大美女",
+        "onboard_time": 1738101732,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209713,
+        "num": 209713,
+        "word": "张子枫首登春晚",
+        "onboard_time": 1738122081,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199505,
+        "num": 199505,
+        "word": "宇树科技",
+        "onboard_time": 1738123640,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189256,
+        "num": 189256,
+        "word": "桑延温以凡现在是一家五口",
+        "onboard_time": 1738121481,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181445,
+        "num": 181445,
+        "word": "王安宇胡先煦拥抱",
+        "onboard_time": 1738123341,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172876,
+        "num": 172876,
+        "word": "f35",
+        "onboard_time": 1738124240,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25805,
+        "num": 172767,
+        "word": "春晚同款已经火了42年",
+        "onboard_time": 1738123400,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94731,
+        "num": 172748,
+        "word": "非遗春节大拜年",
+        "onboard_time": 1738117820,
+        "rank": 39,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 172747,
+        "num": 172747,
+        "word": "鞠婧祎 天宫仙女造型",
+        "onboard_time": 1738123579,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171251,
+        "num": 171251,
+        "word": "毛晓彤国泰民安的娃娃脸",
+        "onboard_time": 1738123400,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160393,
+        "num": 160393,
+        "word": "赵露思新春大片",
+        "onboard_time": 1738122560,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 88875,
+        "num": 160058,
+        "word": "梁伟铿希望今年冠军多多",
+        "onboard_time": 1738121121,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159918,
+        "num": 159918,
+        "word": "上台太赶没穿裤 这就是我说的漏电保护",
+        "onboard_time": 1738124898,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150876,
+        "num": 150876,
+        "word": "程潇跟宋雨琦站一起拜年",
+        "onboard_time": 1738120339,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146981,
+        "num": 146981,
+        "word": "唐汉霄唱不妥协的人就是哪吒",
+        "onboard_time": 1738124299,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142360,
+        "num": 142360,
+        "word": "机器人是被舞蹈演员押下去",
+        "onboard_time": 1738112420,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90994,
+        "num": 137961,
+        "word": "布朗尼第一节就上了",
+        "onboard_time": 1738125500,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83607,
+        "num": 137744,
+        "word": "网络中国节",
+        "onboard_time": 1738118180,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#在蛇年书写新的荣耀篇章#"
+    }
+  }
+}
