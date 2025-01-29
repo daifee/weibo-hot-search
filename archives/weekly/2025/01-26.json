@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738136149762,
+  "endTime": 1738139302388,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -955,6 +955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 972190,
+      "num": 972190,
+      "word": "马天宇晒三人行合照",
+      "onboard_time": 1738136178,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 967513,
       "num": 803352,
       "word": "顾茜茜 红包",
@@ -1595,6 +1603,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 640509,
+      "num": 640509,
+      "word": "美国正对DeepSeek开展国家安全调查",
+      "onboard_time": 1738133599,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 637962,
       "num": 246050,
       "word": "顾茜茜的保时捷卖了",
@@ -1817,14 +1833,6 @@
       "onboard_time": 1738054342,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 571510,
-      "num": 571510,
-      "word": "美国正对DeepSeek开展国家安全调查",
-      "onboard_time": 1738133599,
-      "rank": 12,
-      "category": "国际时政"
     },
     {
       "raw_hot": 568924,
@@ -2353,6 +2361,14 @@
       "onboard_time": 1737956296,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 475991,
+      "num": 475991,
+      "word": "方太初点头",
+      "onboard_time": 1738137198,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 473157,
@@ -3443,6 +3459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 302137,
+      "num": 334832,
+      "word": "美国夸完DeepSeek后称其是偷窃",
+      "onboard_time": 1738135758,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 301580,
       "num": 301580,
       "word": "中共中央国务院27日举行春节团拜会",
@@ -3617,6 +3641,14 @@
       "onboard_time": 1737874158,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 283938,
+      "num": 139135,
+      "word": "中纪委严肃查处的问题上春晚了",
+      "onboard_time": 1738137258,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 282830,
@@ -3883,12 +3915,28 @@
       "category": "综艺,汽车"
     },
     {
+      "raw_hot": 260001,
+      "num": 260001,
+      "word": "娜然封神首映再现妲己花瓣妆",
+      "onboard_time": 1738137799,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 259595,
       "num": 263753,
       "word": "周深2024年度结算画面",
       "onboard_time": 1738043897,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 258867,
+      "num": 153592,
+      "word": "朱一龙晒春晚照片",
+      "onboard_time": 1738137258,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 257988,
@@ -3961,6 +4009,14 @@
       "onboard_time": 1738072898,
       "rank": 14,
       "category": "综艺,汽车"
+    },
+    {
+      "raw_hot": 253481,
+      "num": 648396,
+      "word": "印度大壶节突发踩踏致15死",
+      "onboard_time": 1738133778,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 252889,
@@ -4667,6 +4723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 211326,
+      "num": 106448,
+      "word": "陈梦发的球尼格买提一个也没接住",
+      "onboard_time": 1738138758,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209948,
       "num": 198210,
       "word": "赵露思拐杖",
@@ -4739,6 +4803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208527,
+      "num": 135501,
+      "word": "这个武侠味真让徐克拍出来了",
+      "onboard_time": 1738137919,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 208285,
       "num": 208285,
       "word": "黄子弘凡首登央视春晚",
@@ -4761,6 +4833,14 @@
       "onboard_time": 1738074636,
       "rank": 40,
       "category": "综艺,数码"
+    },
+    {
+      "raw_hot": 205670,
+      "num": 104708,
+      "word": "真怕白鹿金晨一对视笑出来",
+      "onboard_time": 1738136658,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 205507,
@@ -5345,6 +5425,14 @@
       "onboard_time": 1737868698,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187400,
+      "num": 103862,
+      "word": "王一博攀岩拜年照",
+      "onboard_time": 1738138218,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 187200,
@@ -6579,6 +6667,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 147795,
+      "num": 147795,
+      "word": "于适把路演观众养得很好",
+      "onboard_time": 1738139120,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 147735,
       "num": 591386,
       "word": "春晚都去西藏了我也要去",
@@ -7563,6 +7659,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 125719,
+      "num": 414236,
+      "word": "外卖小哥除夕一天挣800块",
+      "onboard_time": 1738133418,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125681,
       "num": 125681,
       "word": "马斯克提议英吉利海峡更名",
@@ -7953,6 +8057,14 @@
       "onboard_time": 1737883098,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116370,
+      "num": 476172,
+      "word": "今年春晚印象最深的歌曲",
+      "onboard_time": 1738136958,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 116318,
@@ -8563,14 +8675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102900,
-      "num": 334832,
-      "word": "美国夸完DeepSeek后称其是偷窃",
-      "onboard_time": 1738135758,
-      "rank": 21,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 102812,
       "num": 102812,
       "word": "无忧传媒坚决反对一切职场霸凌",
@@ -8681,14 +8785,6 @@
       "onboard_time": 1737951377,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 101242,
-      "num": 225951,
-      "word": "印度大壶节突发踩踏致15死",
-      "onboard_time": 1738133778,
-      "rank": 27,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 101145,
@@ -8948,7 +9044,7 @@
     },
     {
       "raw_hot": 96262,
-      "num": 132674,
+      "num": 150098,
       "word": "WTT新加坡大满贯",
       "onboard_time": 1738133478,
       "rank": 43,
@@ -8961,14 +9057,6 @@
       "onboard_time": 1738021215,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 96126,
-      "num": 414236,
-      "word": "外卖小哥除夕一天挣800块",
-      "onboard_time": 1738133418,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95885,
@@ -11067,6 +11155,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 31124,
+      "num": 147946,
+      "word": "闻太师说坐墨麒麟比云霄飞车还可怕",
+      "onboard_time": 1738137919,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 31070,
       "num": 31070,
       "word": "王源忘拍年夜饭",
@@ -11857,6 +11953,14 @@
       "onboard_time": 1738099992,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 5598,
+      "num": 105558,
+      "word": "微博上新蛇年新福",
+      "onboard_time": 1738139238,
+      "rank": 38,
+      "category": "其它"
     },
     {
       "raw_hot": 4801,
