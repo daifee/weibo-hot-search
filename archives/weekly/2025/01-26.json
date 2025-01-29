@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738168941031,
+  "endTime": 1738171198012,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -3387,6 +3387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 354484,
+      "num": 354484,
+      "word": "殷郊 阿凡达",
+      "onboard_time": 1738166719,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 354125,
       "num": 1357124,
       "word": "程潇珍珠美人妆",
@@ -4721,14 +4729,6 @@
       "onboard_time": 1737956835,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 238705,
-      "num": 124534,
-      "word": "殷郊 阿凡达",
-      "onboard_time": 1738166719,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 237875,
@@ -9963,6 +9963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97087,
+      "num": 97087,
+      "word": "特朗普称DeepSeek传递积极信号",
+      "onboard_time": 1738168997,
+      "rank": 13,
+      "category": "国际时政,互联网"
+    },
+    {
       "raw_hot": 96982,
       "num": 96982,
       "word": "8岁失踪女童亲友发声",
@@ -10873,6 +10881,14 @@
       "onboard_time": 1738055720,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 77620,
+      "num": 57285,
+      "word": "唐探彩蛋",
+      "onboard_time": 1738170135,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 77137,
@@ -12985,6 +13001,14 @@
       "onboard_time": 1738136838,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 13670,
+      "num": 84174,
+      "word": "今夜南昌绝美梦幻蓝",
+      "onboard_time": 1738170735,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13062,

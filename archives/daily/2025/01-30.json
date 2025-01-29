@@ -1,6 +1,6 @@
 {
   "startTime": 1738168091636,
-  "endTime": 1738168941031,
+  "endTime": 1738171198012,
   "band_list": [
     {
       "raw_hot": 1259141,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 354484,
+      "num": 354484,
+      "word": "殷郊 阿凡达",
+      "onboard_time": 1738166719,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 323992,
       "num": 323992,
       "word": "姬发 恋爱脑",
@@ -129,14 +137,6 @@
       "onboard_time": 1738161561,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 238705,
-      "num": 124534,
-      "word": "殷郊 阿凡达",
-      "onboard_time": 1738166719,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 234233,
@@ -299,6 +299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 97087,
+      "num": 97087,
+      "word": "特朗普称DeepSeek传递积极信号",
+      "onboard_time": 1738168997,
+      "rank": 13,
+      "category": "国际时政,互联网"
+    },
+    {
       "raw_hot": 96417,
       "num": 424575,
       "word": "美议员警告别被特朗普离职补贴骗了",
@@ -328,6 +336,14 @@
       "word": "邓婵玉能不能复活",
       "onboard_time": 1738166597,
       "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 77620,
+      "num": 57285,
+      "word": "唐探彩蛋",
+      "onboard_time": 1738170135,
+      "rank": 34,
       "category": "电影"
     },
     {
@@ -425,6 +441,30 @@
       "onboard_time": 1738160242,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 32633,
+      "num": 54790,
+      "word": "DeepSeek能否改写AI战局",
+      "onboard_time": 1738150940,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 27965,
+      "num": 54790,
+      "word": "睡梦中被戴上没舍得买的金手链",
+      "onboard_time": 1738143079,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13670,
+      "num": 84174,
+      "word": "今夜南昌绝美梦幻蓝",
+      "onboard_time": 1738170735,
+      "rank": 16,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

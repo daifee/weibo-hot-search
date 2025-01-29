@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738168941031,
+  "endTime": 1738171198012,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -23171,6 +23171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 354484,
+      "num": 354484,
+      "word": "殷郊 阿凡达",
+      "onboard_time": 1738166719,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 354284,
       "num": 339125,
       "word": "张凌赫 190男模",
@@ -33273,14 +33281,6 @@
       "onboard_time": 1737397332,
       "rank": 35,
       "category": "网红"
-    },
-    {
-      "raw_hot": 238705,
-      "num": 124534,
-      "word": "殷郊 阿凡达",
-      "onboard_time": 1738166719,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 238669,
@@ -74523,6 +74523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97087,
+      "num": 97087,
+      "word": "特朗普称DeepSeek传递积极信号",
+      "onboard_time": 1738168997,
+      "rank": 13,
+      "category": "国际时政,互联网"
+    },
+    {
       "raw_hot": 97076,
       "num": 97076,
       "word": "9种颜色偏好能看出性格",
@@ -78593,6 +78601,14 @@
       "onboard_time": 1735848791,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 77620,
+      "num": 57285,
+      "word": "唐探彩蛋",
+      "onboard_time": 1738170135,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 77605,
@@ -92497,6 +92513,14 @@
       "onboard_time": 1736630050,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13670,
+      "num": 84174,
+      "word": "今夜南昌绝美梦幻蓝",
+      "onboard_time": 1738170735,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13659,
