@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/29 20:40:52
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/29 20:56:28
 </p>
 </blockquote>
 <p>
@@ -629,6 +629,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%20%E7%9C%9F%E5%94%B1%23" target="weibo">
 陈奕迅 真唱（热度：2964716）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%8D%A2%E4%BA%86%E6%83%B3%E4%BA%86%E5%8D%81%E5%B9%B4%E7%9A%84%E5%8F%91%E8%89%B2%23" target="weibo">
+赵露思换了想了十年的发色（热度：2946760）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ TikTok难民来啦（热度：1761821）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%89%BE%E7%89%B9%E7%BB%8F%E5%8E%8640%E6%AC%A1%E7%81%AB%E9%BE%99%E6%9E%9C12%E6%AC%A1%E5%BF%83%E8%82%BA%E5%A4%8D%E8%8B%8F%23" target="weibo">
 艾特经历40次火龙果12次心肺复苏（热度：1723954）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B8%81%E7%A6%B9%E5%85%AE%E4%BD%A0%E4%BF%A9%E5%9C%A8%E8%AF%B4%E4%BB%80%E4%B9%88%23" target="weibo">
-虞书欣丁禹兮你俩在说什么（热度：1723920）
 </a>
 </li>
 

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/29 20:40:52
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/29 20:56:28
 </p>
 </blockquote>
 <p>
@@ -629,6 +629,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%20%E7%9C%9F%E5%94%B1%23" target="weibo">
 陈奕迅 真唱（热度：2964716）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%8D%A2%E4%BA%86%E6%83%B3%E4%BA%86%E5%8D%81%E5%B9%B4%E7%9A%84%E5%8F%91%E8%89%B2%23" target="weibo">
+赵露思换了想了十年的发色（热度：2946760）
 </a>
 </li>
 
@@ -1901,12 +1907,6 @@ TikTok难民来啦（热度：1761821）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23123%E5%B2%81%E8%80%81%E4%BA%BA%E6%9E%97%E8%9B%87%E6%AF%8D%E5%AE%B6%E4%B8%AD%E5%8E%BB%E4%B8%96%23" target="weibo">
 123岁老人林蛇母家中去世（热度：1687435）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%8D%A2%E4%BA%86%E6%83%B3%E4%BA%86%E5%8D%81%E5%B9%B4%E7%9A%84%E5%8F%91%E8%89%B2%23" target="weibo">
-赵露思换了想了十年的发色（热度：1687370）
 </a>
 </li>
 

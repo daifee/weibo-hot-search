@@ -1,6 +1,6 @@
 {
   "startTime": 1738081671448,
-  "endTime": 1738154452883,
+  "endTime": 1738155388971,
   "band_list": [
     {
       "raw_hot": 10062879,
@@ -41,6 +41,14 @@
       "onboard_time": 1738118841,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2946760,
+      "num": 2946760,
+      "word": "赵露思换了想了十年的发色",
+      "onboard_time": 1738153161,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 2702662,
@@ -145,14 +153,6 @@
       "onboard_time": 1738086677,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1687370,
-      "num": 1687370,
-      "word": "赵露思换了想了十年的发色",
-      "onboard_time": 1738153161,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 1650366,
@@ -515,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 656534,
+      "num": 656534,
+      "word": "看完唐探1900的我belike",
+      "onboard_time": 1738151421,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 651209,
       "num": 1011352,
       "word": "武汉分会场 凤凰涅槃浴火重生",
@@ -537,14 +545,6 @@
       "onboard_time": 1738133599,
       "rank": 12,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 613769,
-      "num": 613769,
-      "word": "看完唐探1900的我belike",
-      "onboard_time": 1738151421,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 596382,
@@ -724,7 +724,7 @@
     },
     {
       "raw_hot": 474629,
-      "num": 419955,
+      "num": 456927,
       "word": "北京台春晚",
       "onboard_time": 1738149499,
       "rank": 13,
@@ -801,6 +801,14 @@
       "onboard_time": 1738149140,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 394320,
+      "num": 560635,
+      "word": "00后女生给妈妈磕888个头获1000元红包",
+      "onboard_time": 1738151899,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 388554,
@@ -923,6 +931,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 328023,
+      "num": 222761,
+      "word": "姬发 恋爱脑",
+      "onboard_time": 1738153818,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 315454,
       "num": 315454,
       "word": "娜然封神首映再现妲己花瓣妆",
@@ -953,14 +969,6 @@
       "onboard_time": 1738112479,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 299073,
-      "num": 242166,
-      "word": "00后女生给妈妈磕888个头获1000元红包",
-      "onboard_time": 1738151899,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 293163,
@@ -1211,6 +1219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228215,
+      "num": 192206,
+      "word": "邓婵玉 没有男人配得上",
+      "onboard_time": 1738151121,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 228088,
       "num": 228088,
       "word": "王一博的头身比",
@@ -1243,14 +1259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 222761,
-      "num": 222761,
-      "word": "姬发 恋爱脑",
-      "onboard_time": 1738153818,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 218269,
       "num": 218269,
       "word": "金智秀签约华纳唱片",
@@ -1264,6 +1272,14 @@
       "word": "关晓彤咋这么美",
       "onboard_time": 1738070560,
       "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 217443,
+      "num": 187300,
+      "word": "还得是冯巩",
+      "onboard_time": 1738151899,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -1289,6 +1305,14 @@
       "onboard_time": 1738118180,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 213253,
+      "num": 434374,
+      "word": "看射雕听肖战唱灯塔",
+      "onboard_time": 1738152499,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 212894,
@@ -1355,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203272,
+      "num": 461810,
+      "word": "山西真的没有一棵树会黑着过年吗",
+      "onboard_time": 1738151179,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202714,
       "num": 1373070,
       "word": "张智霖陈小春周柏豪同台",
@@ -1379,6 +1411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201258,
+      "num": 181055,
+      "word": "中国电视剧年度盛典",
+      "onboard_time": 1738154421,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200649,
       "num": 314710,
       "word": "肖战电影广州路演",
@@ -1401,14 +1441,6 @@
       "onboard_time": 1738089674,
       "rank": 19,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 197261,
-      "num": 434374,
-      "word": "看射雕听肖战唱灯塔",
-      "onboard_time": 1738152499,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 195215,
@@ -1443,12 +1475,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 192206,
-      "num": 192206,
-      "word": "邓婵玉 没有男人配得上",
-      "onboard_time": 1738151121,
-      "rank": 35,
-      "category": "电影"
+      "raw_hot": 192709,
+      "num": 243965,
+      "word": "广州烟花",
+      "onboard_time": 1738151962,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191539,
@@ -1603,6 +1635,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 178270,
+      "num": 178270,
+      "word": "黄圣依 姐就是女王",
+      "onboard_time": 1738155079,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177973,
       "num": 188441,
       "word": "特朗普给马斯克下任务接滞留宇航员",
@@ -1635,12 +1675,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175262,
-      "num": 461810,
-      "word": "山西真的没有一棵树会黑着过年吗",
-      "onboard_time": 1738151179,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 174742,
+      "num": 174742,
+      "word": "白敬亭年度突破男演员",
+      "onboard_time": 1738155020,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 174561,
@@ -1656,6 +1696,14 @@
       "word": "肖战北京台春晚首唱灯塔",
       "onboard_time": 1738123880,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 173745,
+      "num": 173745,
+      "word": "刘端端演小品",
+      "onboard_time": 1738154780,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -1683,12 +1731,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 167015,
-      "num": 243965,
-      "word": "广州烟花",
-      "onboard_time": 1738151962,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 168542,
+      "num": 168542,
+      "word": "张艺兴分享应对春节催婚的办法",
+      "onboard_time": 1738154839,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 165697,
@@ -1713,14 +1761,6 @@
       "onboard_time": 1738139120,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 162434,
-      "num": 162434,
-      "word": "还得是冯巩",
-      "onboard_time": 1738151899,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 162137,
@@ -1819,6 +1859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147229,
+      "num": 243102,
+      "word": "郭晶晶霍启刚一起做汤圆元宵",
+      "onboard_time": 1738152561,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146981,
       "num": 146981,
       "word": "唐汉霄唱不妥协的人就是哪吒",
@@ -1841,14 +1889,6 @@
       "onboard_time": 1738120339,
       "rank": 9,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 143592,
-      "num": 143592,
-      "word": "中国电视剧年度盛典",
-      "onboard_time": 1738154421,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 143314,
@@ -1985,14 +2025,6 @@
       "onboard_time": 1738133418,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 122561,
-      "num": 243102,
-      "word": "郭晶晶霍启刚一起做汤圆元宵",
-      "onboard_time": 1738152561,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 121874,
@@ -2235,6 +2267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 82584,
+      "num": 175164,
+      "word": "战机坠毁美国空军禁止观看传播视频",
+      "onboard_time": 1738154601,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 81083,
       "num": 168847,
       "word": "沈星回星星生气啦",
@@ -2339,6 +2379,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 63984,
+      "num": 165391,
+      "word": "幼儿园妹妹非要等孤勇者唱完再睡",
+      "onboard_time": 1738154722,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63857,
       "num": 63857,
       "word": "被跳舞的易烊千玺帅到了",
@@ -2400,6 +2448,14 @@
       "word": "70秒速览春节天气",
       "onboard_time": 1738131499,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50901,
+      "num": 185533,
+      "word": "县城年夜饭快倒挂一线饭店了",
+      "onboard_time": 1738155079,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -2603,6 +2659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28416,
+      "num": 168933,
+      "word": "给老外做一张中国菜推荐清单",
+      "onboard_time": 1738154060,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27896,
       "num": 1227527,
       "word": "文化中国行共庆首个非遗春节",
@@ -2728,14 +2792,6 @@
       "word": "女孩干电工曾扛100斤线爬20楼",
       "onboard_time": 1738145238,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17238,
-      "num": 143809,
-      "word": "给老外做一张中国菜推荐清单",
-      "onboard_time": 1738154060,
-      "rank": 45,
       "category": "民生新闻"
     },
     {
