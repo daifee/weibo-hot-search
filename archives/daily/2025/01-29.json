@@ -1,6 +1,6 @@
 {
   "startTime": 1738081671448,
-  "endTime": 1738161542660,
+  "endTime": 1738164221121,
   "band_list": [
     {
       "raw_hot": 10062879,
@@ -571,6 +571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 626888,
+      "num": 626888,
+      "word": "孙颖莎 给大家拜年啦",
+      "onboard_time": 1738161561,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 596382,
       "num": 596382,
       "word": "藕饼",
@@ -593,6 +601,14 @@
       "onboard_time": 1738142719,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 593493,
+      "num": 593493,
+      "word": "谢娜小品",
+      "onboard_time": 1738160061,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 585855,
@@ -633,6 +649,14 @@
       "onboard_time": 1738081230,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 568644,
+      "num": 296737,
+      "word": "云南一美人鱼表演者突遭鲟鱼咬头",
+      "onboard_time": 1738160660,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 560668,
@@ -763,6 +787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 474727,
+      "num": 286093,
+      "word": "央视专访易烊千玺",
+      "onboard_time": 1738161500,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 474629,
       "num": 456927,
       "word": "北京台春晚",
@@ -816,14 +848,6 @@
       "word": "王菲 如听仙乐耳暂明",
       "onboard_time": 1738072834,
       "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 423567,
-      "num": 423567,
-      "word": "谢娜小品",
-      "onboard_time": 1738160061,
-      "rank": 27,
       "category": "综艺"
     },
     {
@@ -931,6 +955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 370750,
+      "num": 258074,
+      "word": "鞠婧祎 神女",
+      "onboard_time": 1738163179,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 367807,
       "num": 1265365,
       "word": "新年祝福",
@@ -969,6 +1001,14 @@
       "onboard_time": 1738110319,
       "rank": 15,
       "category": "财经"
+    },
+    {
+      "raw_hot": 341604,
+      "num": 250540,
+      "word": "迪丽热巴 烟花噼里啪啦",
+      "onboard_time": 1738161801,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 339715,
@@ -1033,6 +1073,14 @@
       "onboard_time": 1738115839,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 312582,
+      "num": 312582,
+      "word": "易烊千玺谈作为演员的蜕变",
+      "onboard_time": 1738161561,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 311549,
@@ -1563,6 +1611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202058,
+      "num": 139247,
+      "word": "看完唐探我先替陈思诚哭两声",
+      "onboard_time": 1738162760,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 201258,
       "num": 181055,
       "word": "中国电视剧年度盛典",
@@ -1633,6 +1689,14 @@
       "onboard_time": 1738080267,
       "rank": 20,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 192394,
+      "num": 138427,
+      "word": "肖战蓝羽会客厅",
+      "onboard_time": 1738163237,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 191697,
@@ -1795,6 +1859,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 182781,
+      "num": 182781,
+      "word": "张桂梅的14届毕业生同台一下泪目",
+      "onboard_time": 1738163000,
+      "rank": 19,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 182576,
       "num": 182576,
       "word": "申公豹彩蛋",
@@ -1857,6 +1929,14 @@
       "onboard_time": 1738122560,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 178285,
+      "num": 135921,
+      "word": "孙颖莎说蛇年我们一起加油",
+      "onboard_time": 1738164019,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 177973,
@@ -1939,6 +2019,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 172007,
+      "num": 133982,
+      "word": "鞠婧祎壁上观舞台开口跪",
+      "onboard_time": 1738163898,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171994,
       "num": 171994,
       "word": "岳云鹏春晚换搭档了",
@@ -1961,14 +2049,6 @@
       "onboard_time": 1738154839,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167151,
-      "num": 144384,
-      "word": "央视专访易烊千玺",
-      "onboard_time": 1738161500,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 166877,
@@ -2115,6 +2195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148589,
+      "num": 148589,
+      "word": "DeepSeek在意大利应用商店下架",
+      "onboard_time": 1738162400,
+      "rank": 22,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 148052,
       "num": 165673,
       "word": "领舞7岁娃是英歌舞传人",
@@ -2129,14 +2217,6 @@
       "onboard_time": 1738152561,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 147030,
-      "num": 147030,
-      "word": "云南一美人鱼表演者突遭鲟鱼咬头",
-      "onboard_time": 1738160660,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 146981,
@@ -2161,6 +2241,14 @@
       "onboard_time": 1738120339,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 144409,
+      "num": 125189,
+      "word": "周深发了发了又发了",
+      "onboard_time": 1738163959,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 143314,
@@ -2257,6 +2345,14 @@
       "onboard_time": 1738128560,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130207,
+      "num": 130207,
+      "word": "一年内父母离世男子看春节监控泪目",
+      "onboard_time": 1738163839,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129144,
@@ -2409,6 +2505,14 @@
       "onboard_time": 1738156281,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 103653,
+      "num": 143481,
+      "word": "张博恒3年后再次回家过年",
+      "onboard_time": 1738163303,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 102837,
@@ -2603,6 +2707,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 72568,
+      "num": 139952,
+      "word": "返乡客入住县城酒店不代表感情淡了",
+      "onboard_time": 1738161921,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 72362,
       "num": 185204,
       "word": "DeepSeek能否改写AI战局",
@@ -2729,6 +2841,14 @@
       "onboard_time": 1738090692,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 52004,
+      "num": 103067,
+      "word": "英歌为什么要与蛇共舞",
+      "onboard_time": 1738161980,
+      "rank": 49,
+      "category": "正能量"
     },
     {
       "raw_hot": 50925,

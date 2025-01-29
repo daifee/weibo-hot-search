@@ -1,0 +1,410 @@
+{
+  "runTime": 1738164221121,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1514361,
+        "num": 1514361,
+        "word": "票房",
+        "onboard_time": 1738139658,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1292026,
+        "num": 1292026,
+        "word": "虞书欣 在干嘛呀",
+        "onboard_time": 1738158020,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122480,
+        "num": 942761,
+        "word": "北京台春晚蛇么都好",
+        "onboard_time": 1738158680,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 785513,
+        "num": 785513,
+        "word": "春节档电影虎扑评分出炉",
+        "onboard_time": 1738157001,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 626888,
+        "num": 626888,
+        "word": "孙颖莎 给大家拜年啦",
+        "onboard_time": 1738161561,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 593493,
+        "num": 593493,
+        "word": "谢娜小品",
+        "onboard_time": 1738160061,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 591746,
+        "num": 591746,
+        "word": "看完唐探1900的我belike",
+        "onboard_time": 1738151421,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 537873,
+        "num": 537873,
+        "word": "姬发 恋爱脑",
+        "onboard_time": 1738153818,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 301929,
+        "num": 359297,
+        "word": "县城年夜饭快倒挂一线饭店了",
+        "onboard_time": 1738155079,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354173,
+        "num": 354173,
+        "word": "战机坠毁美国空军禁止观看传播视频",
+        "onboard_time": 1738154601,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 312582,
+        "num": 312582,
+        "word": "易烊千玺谈作为演员的蜕变",
+        "onboard_time": 1738161561,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 623032,
+        "num": 303003,
+        "word": "全红婵家已增设安全围栏等设备",
+        "onboard_time": 1738148420,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 568644,
+        "num": 296737,
+        "word": "云南一美人鱼表演者突遭鲟鱼咬头",
+        "onboard_time": 1738160660,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 474727,
+        "num": 286093,
+        "word": "央视专访易烊千玺",
+        "onboard_time": 1738161500,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410082,
+        "num": 281267,
+        "word": "黄亦玫你女儿上春晚了",
+        "onboard_time": 1738146559,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401484,
+        "num": 272645,
+        "word": "肖战 灯塔",
+        "onboard_time": 1738160360,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370750,
+        "num": 258074,
+        "word": "鞠婧祎 神女",
+        "onboard_time": 1738163179,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341604,
+        "num": 250540,
+        "word": "迪丽热巴 烟花噼里啪啦",
+        "onboard_time": 1738161801,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243221,
+        "num": 243221,
+        "word": "南昌烟花",
+        "onboard_time": 1738156160,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182781,
+        "num": 182781,
+        "word": "张桂梅的14届毕业生同台一下泪目",
+        "onboard_time": 1738163000,
+        "rank": 19,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1965620,
+        "num": 179823,
+        "word": "赵露思换了想了十年的发色",
+        "onboard_time": 1738153161,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174054,
+        "num": 174054,
+        "word": "恋与深空 秦彻",
+        "onboard_time": 1738159280,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148589,
+        "num": 148589,
+        "word": "DeepSeek在意大利应用商店下架",
+        "onboard_time": 1738162400,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 144156,
+        "num": 144156,
+        "word": "DeepSeek",
+        "onboard_time": 1738154000,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 103653,
+        "num": 143481,
+        "word": "张博恒3年后再次回家过年",
+        "onboard_time": 1738163303,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1003106,
+        "num": 142799,
+        "word": "赵露思长文谈抑郁症",
+        "onboard_time": 1738151061,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299462,
+        "num": 142137,
+        "word": "哪吒特效",
+        "onboard_time": 1738141459,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 246572,
+        "num": 141055,
+        "word": "赵雅芝 蛇年最忙",
+        "onboard_time": 1738155739,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217890,
+        "num": 140430,
+        "word": "嬷童降世",
+        "onboard_time": 1738149019,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 72568,
+        "num": 139952,
+        "word": "返乡客入住县城酒店不代表感情淡了",
+        "onboard_time": 1738161921,
+        "rank": 29,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 202058,
+        "num": 139247,
+        "word": "看完唐探我先替陈思诚哭两声",
+        "onboard_time": 1738162760,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192394,
+        "num": 138427,
+        "word": "肖战蓝羽会客厅",
+        "onboard_time": 1738163237,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188706,
+        "num": 137688,
+        "word": "春晚 女导演",
+        "onboard_time": 1738144819,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182435,
+        "num": 136238,
+        "word": "林志玲姚晨好美",
+        "onboard_time": 1738158561,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178285,
+        "num": 135921,
+        "word": "孙颖莎说蛇年我们一起加油",
+        "onboard_time": 1738164019,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181151,
+        "num": 134876,
+        "word": "吴京说射雕沉浸又激奋",
+        "onboard_time": 1738160900,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172007,
+        "num": 133982,
+        "word": "鞠婧祎壁上观舞台开口跪",
+        "onboard_time": 1738163898,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170836,
+        "num": 133544,
+        "word": "邓婵玉 没有男人配得上",
+        "onboard_time": 1738151121,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132927,
+        "num": 132927,
+        "word": "外国人不语只是一味交才艺税",
+        "onboard_time": 1738160242,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130207,
+        "num": 130207,
+        "word": "一年内父母离世男子看春节监控泪目",
+        "onboard_time": 1738163839,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165814,
+        "num": 129780,
+        "word": "人形机器人失误是有意为之",
+        "onboard_time": 1738139177,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147716,
+        "num": 128332,
+        "word": "北京台春晚",
+        "onboard_time": 1738149499,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145616,
+        "num": 127129,
+        "word": "申公豹彩蛋",
+        "onboard_time": 1738159280,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144571,
+        "num": 125725,
+        "word": "春晚 不太会烧菜的爹妈",
+        "onboard_time": 1738144519,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144409,
+        "num": 125189,
+        "word": "周深发了发了又发了",
+        "onboard_time": 1738163959,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124056,
+        "num": 124056,
+        "word": "春节期间近4成人群选择出游",
+        "onboard_time": 1738158381,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116936,
+        "num": 116936,
+        "word": "王曼昱 祝大家新年快乐",
+        "onboard_time": 1738159280,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104650,
+        "num": 104650,
+        "word": "女生给妈妈磕888个头获千元红包",
+        "onboard_time": 1738151899,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103428,
+        "num": 103428,
+        "word": "广州烟花",
+        "onboard_time": 1738151962,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52004,
+        "num": 103067,
+        "word": "英歌为什么要与蛇共舞",
+        "onboard_time": 1738161980,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记牵挂的头等大事#"
+    }
+  }
+}
