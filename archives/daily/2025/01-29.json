@@ -1,6 +1,6 @@
 {
   "startTime": 1738081671448,
-  "endTime": 1738125571787,
+  "endTime": 1738128070690,
   "band_list": [
     {
       "raw_hot": 10062879,
@@ -131,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1607711,
+      "num": 1607711,
+      "word": "任敏差点成为下一个尼格买提",
+      "onboard_time": 1738125500,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1431353,
       "num": 1393298,
       "word": "春晚节目单",
@@ -192,6 +200,14 @@
       "word": "孙千腿好长",
       "onboard_time": 1738079079,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1145044,
+      "num": 1145044,
+      "word": "金晨给被砸中的小孩儿道歉",
+      "onboard_time": 1738124839,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -387,20 +403,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 585855,
+      "num": 679826,
+      "word": "美军f35坠毁现场升腾起蘑菇云",
+      "onboard_time": 1738123700,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 568924,
       "num": 568924,
       "word": "和OneRepublic一起数星星",
       "onboard_time": 1738081230,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 564201,
-      "num": 679826,
-      "word": "美军f35坠毁现场升腾起蘑菇云",
-      "onboard_time": 1738123700,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 560668,
@@ -419,20 +435,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 547367,
+      "num": 547367,
+      "word": "姬发邓婵玉感情线",
+      "onboard_time": 1738124178,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 546717,
       "num": 546717,
       "word": "唐探1900",
       "onboard_time": 1738115899,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 511504,
-      "num": 511504,
-      "word": "任敏差点成为下一个尼格买提",
-      "onboard_time": 1738125500,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 494589,
@@ -449,6 +465,14 @@
       "onboard_time": 1738076263,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 483591,
+      "num": 483591,
+      "word": "张雨绮刘子琪分手",
+      "onboard_time": 1738126880,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 482988,
@@ -563,27 +587,11 @@
       "category": "财经"
     },
     {
-      "raw_hot": 348081,
-      "num": 348081,
-      "word": "金晨给被砸中的小孩儿道歉",
-      "onboard_time": 1738124839,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 335358,
       "num": 335358,
       "word": "封神",
       "onboard_time": 1738112420,
       "rank": 43,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 321854,
-      "num": 321854,
-      "word": "姬发邓婵玉感情线",
-      "onboard_time": 1738124178,
-      "rank": 40,
       "category": "电影"
     },
     {
@@ -625,6 +633,14 @@
       "onboard_time": 1738080086,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 274190,
+      "num": 274190,
+      "word": "殷郊法相",
+      "onboard_time": 1738127058,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 268688,
@@ -675,6 +691,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 242319,
+      "num": 353826,
+      "word": "周深春晚海外评价",
+      "onboard_time": 1738127360,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240758,
       "num": 240758,
       "word": "毛晓彤国泰民安的娃娃脸",
@@ -689,6 +713,14 @@
       "onboard_time": 1738121481,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 236574,
+      "num": 236574,
+      "word": "哪吒2是什么起点爽文",
+      "onboard_time": 1738126100,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 234474,
@@ -747,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217163,
+      "num": 390019,
+      "word": "恋与制作人火辣开年",
+      "onboard_time": 1738127661,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 215652,
       "num": 215652,
       "word": "郁可唯新歌零点压轴的含金量",
@@ -785,6 +825,14 @@
       "onboard_time": 1738123341,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205451,
+      "num": 205451,
+      "word": "1分钟我要知道邓婵玉全部信息",
+      "onboard_time": 1738127600,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 202714,
@@ -923,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174660,
+      "num": 174660,
+      "word": "王菲双手合十",
+      "onboard_time": 1738125260,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173841,
       "num": 173841,
       "word": "肖战北京台春晚首唱灯塔",
@@ -953,6 +1009,22 @@
       "onboard_time": 1738084163,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164842,
+      "num": 164842,
+      "word": "邓婵玉 女人中的女人",
+      "onboard_time": 1738126400,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 164652,
+      "num": 164652,
+      "word": "南方人不看春晚",
+      "onboard_time": 1738127900,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 162137,
@@ -1019,6 +1091,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 143112,
+      "num": 628737,
+      "word": "孙颖莎祝福大家吉祥如意",
+      "onboard_time": 1738126280,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141237,
       "num": 150704,
       "word": "妥妥的",
@@ -1033,6 +1113,14 @@
       "onboard_time": 1738123280,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 138147,
+      "num": 484785,
+      "word": "射雕主创空降陪观众看第一场电影",
+      "onboard_time": 1738127600,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 136074,
@@ -1080,6 +1168,14 @@
       "word": "非遗春节大拜年",
       "onboard_time": 1738117820,
       "rank": 45,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 126274,
+      "num": 373056,
+      "word": "大年初一福气满满",
+      "onboard_time": 1738127840,
+      "rank": 26,
       "category": "正能量"
     },
     {
@@ -1131,6 +1227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113507,
+      "num": 518725,
+      "word": "故宫发布开门红壁纸",
+      "onboard_time": 1738126339,
+      "rank": 15,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 110281,
       "num": 110281,
       "word": "正月初一",
@@ -1155,6 +1259,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 95898,
+      "num": 160031,
+      "word": "蛇宝宝出生",
+      "onboard_time": 1738127960,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95392,
       "num": 95392,
       "word": "英伟达一夜跌掉2个半茅台",
@@ -1169,6 +1281,14 @@
       "onboard_time": 1738101252,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92972,
+      "num": 531415,
+      "word": "支付宝集福别忘合成福卡",
+      "onboard_time": 1738126880,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 92693,
@@ -1331,6 +1451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 52674,
+      "num": 333183,
+      "word": "刘晓庆是第一个春晚同款带货女王",
+      "onboard_time": 1738125560,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 50221,
       "num": 50221,
       "word": "新年星祝福",
@@ -1345,6 +1473,14 @@
       "onboard_time": 1738106115,
       "rank": 49,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 45958,
+      "num": 605680,
+      "word": "美国正式通知联合国退出巴黎协定",
+      "onboard_time": 1738126280,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 40624,
@@ -1393,6 +1529,14 @@
       "onboard_time": 1738102812,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 37275,
+      "num": 463498,
+      "word": "淘宝被春晚明星同款霸屏了",
+      "onboard_time": 1738125680,
+      "rank": 19,
+      "category": "综艺,互联网"
     },
     {
       "raw_hot": 35797,
@@ -1452,7 +1596,7 @@
     },
     {
       "raw_hot": 27896,
-      "num": 1003631,
+      "num": 1180774,
       "word": "文化中国行共庆首个非遗春节",
       "onboard_time": 1738108577,
       "rank": 2,
