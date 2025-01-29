@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738171198012,
+  "endTime": 1738172231976,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -62771,6 +62771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131288,
+      "num": 131288,
+      "word": "特朗普称DeepSeek传递积极信号",
+      "onboard_time": 1738168997,
+      "rank": 13,
+      "category": "国际时政,互联网"
+    },
+    {
       "raw_hot": 131229,
       "num": 390652,
       "word": "新年第1个拥抱",
@@ -74521,14 +74529,6 @@
       "onboard_time": 1737711260,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 97087,
-      "num": 97087,
-      "word": "特朗普称DeepSeek传递积极信号",
-      "onboard_time": 1738168997,
-      "rank": 13,
-      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 97076,
@@ -91699,6 +91699,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 17145,
+      "num": 84174,
+      "word": "今夜南昌绝美梦幻蓝",
+      "onboard_time": 1738170735,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17133,
       "num": 135307,
       "word": "对象雪雕走红哈尔滨",
@@ -92513,14 +92521,6 @@
       "onboard_time": 1736630050,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 13670,
-      "num": 84174,
-      "word": "今夜南昌绝美梦幻蓝",
-      "onboard_time": 1738170735,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13659,
@@ -93568,6 +93568,14 @@
       "word": "2025家装厨卫焕新政策",
       "onboard_time": 1738006512,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9291,
+      "num": 59046,
+      "word": "BGM一响山东人过年最高礼仪登场",
+      "onboard_time": 1738170674,
+      "rank": 26,
       "category": "民生新闻"
     },
     {

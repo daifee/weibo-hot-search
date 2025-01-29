@@ -1,6 +1,6 @@
 {
   "startTime": 1738168091636,
-  "endTime": 1738171198012,
+  "endTime": 1738172231976,
   "band_list": [
     {
       "raw_hot": 1259141,
@@ -251,6 +251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 131288,
+      "num": 131288,
+      "word": "特朗普称DeepSeek传递积极信号",
+      "onboard_time": 1738168997,
+      "rank": 13,
+      "category": "国际时政,互联网"
+    },
+    {
       "raw_hot": 127789,
       "num": 109863,
       "word": "邓婵玉 没有男人配得上",
@@ -297,14 +305,6 @@
       "onboard_time": 1738162760,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 97087,
-      "num": 97087,
-      "word": "特朗普称DeepSeek传递积极信号",
-      "onboard_time": 1738168997,
-      "rank": 13,
-      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 96417,
@@ -419,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49606,
+      "num": 49606,
+      "word": "哪吒票房",
+      "onboard_time": 1738149140,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 48260,
       "num": 89841,
       "word": "景区回应美人鱼表演者遭鲟鱼袭击",
@@ -459,11 +467,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13670,
+      "raw_hot": 17145,
       "num": 84174,
       "word": "今夜南昌绝美梦幻蓝",
       "onboard_time": 1738170735,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9291,
+      "num": 59046,
+      "word": "BGM一响山东人过年最高礼仪登场",
+      "onboard_time": 1738170674,
+      "rank": 26,
       "category": "民生新闻"
     }
   ],

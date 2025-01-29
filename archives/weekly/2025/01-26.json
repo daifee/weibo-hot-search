@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738171198012,
+  "endTime": 1738172231976,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -8355,6 +8355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131288,
+      "num": 131288,
+      "word": "特朗普称DeepSeek传递积极信号",
+      "onboard_time": 1738168997,
+      "rank": 13,
+      "category": "国际时政,互联网"
+    },
+    {
       "raw_hot": 130751,
       "num": 130751,
       "word": "比尔盖茨与特朗普讨论艾滋病",
@@ -9961,14 +9969,6 @@
       "onboard_time": 1737960375,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 97087,
-      "num": 97087,
-      "word": "特朗普称DeepSeek传递积极信号",
-      "onboard_time": 1738168997,
-      "rank": 13,
-      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 96982,
@@ -12931,6 +12931,14 @@
       "category": "国内时政,民生新闻"
     },
     {
+      "raw_hot": 17145,
+      "num": 84174,
+      "word": "今夜南昌绝美梦幻蓝",
+      "onboard_time": 1738170735,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16922,
       "num": 37839,
       "word": "南京南站4天捡到1000个身份证",
@@ -13001,14 +13009,6 @@
       "onboard_time": 1738136838,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 13670,
-      "num": 84174,
-      "word": "今夜南昌绝美梦幻蓝",
-      "onboard_time": 1738170735,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13062,
@@ -13160,6 +13160,14 @@
       "word": "2025家装厨卫焕新政策",
       "onboard_time": 1738006512,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9291,
+      "num": 59046,
+      "word": "BGM一响山东人过年最高礼仪登场",
+      "onboard_time": 1738170674,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
