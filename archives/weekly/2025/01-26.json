@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738147204970,
+  "endTime": 1738149512772,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -467,20 +467,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1736361,
+      "num": 1736361,
+      "word": "票房",
+      "onboard_time": 1738139658,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1735808,
       "num": 1735808,
       "word": "春晚收视率",
       "onboard_time": 1738086677,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1705475,
-      "num": 1705475,
-      "word": "票房",
-      "onboard_time": 1738139658,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 1661596,
@@ -507,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1608098,
+      "num": 1608098,
+      "word": "马丽回应甲状腺肿大",
+      "onboard_time": 1738145419,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1607711,
       "num": 1607711,
       "word": "任敏差点成为下一个尼格买提",
@@ -528,14 +536,6 @@
       "word": "机器人怎么不穿裤子",
       "onboard_time": 1738069485,
       "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1498699,
-      "num": 1498699,
-      "word": "马丽回应甲状腺肿大",
-      "onboard_time": 1738145419,
-      "rank": 10,
       "category": "综艺"
     },
     {
@@ -712,6 +712,14 @@
       "word": "孙千腿好长",
       "onboard_time": 1738079079,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1196153,
+      "num": 897455,
+      "word": "春晚 女导演",
+      "onboard_time": 1738144819,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -1099,14 +1107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 897455,
-      "num": 897455,
-      "word": "春晚 女导演",
-      "onboard_time": 1738144819,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 894149,
       "num": 894149,
       "word": "薛凯琪好美",
@@ -1297,6 +1297,14 @@
       "onboard_time": 1738120401,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 798961,
+      "num": 798961,
+      "word": "黄亦玫你女儿上春晚了",
+      "onboard_time": 1738146559,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 792527,
@@ -1883,6 +1891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 582096,
+      "num": 333153,
+      "word": "春晚 不太会烧菜的爹妈",
+      "onboard_time": 1738144519,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 579300,
       "num": 579300,
       "word": "敖光 东海尤物",
@@ -2449,14 +2465,6 @@
       "onboard_time": 1737956296,
       "rank": 20,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 475118,
-      "num": 333153,
-      "word": "春晚 不太会烧菜的爹妈",
-      "onboard_time": 1738144519,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 474226,
@@ -3243,6 +3251,14 @@
       "category": "体育,游戏"
     },
     {
+      "raw_hot": 339312,
+      "num": 329704,
+      "word": "睡梦中被戴上没舍得买的金手链",
+      "onboard_time": 1738143079,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 339117,
       "num": 251117,
       "word": "王源国风舞台演绎中式浪漫",
@@ -3425,6 +3441,14 @@
       "onboard_time": 1737946157,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 322932,
+      "num": 276256,
+      "word": "哪吒2打破国漫天花板",
+      "onboard_time": 1738147938,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 322725,
@@ -3683,6 +3707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 290769,
+      "num": 274228,
+      "word": "全红婵家已增设安全围栏等设备",
+      "onboard_time": 1738148420,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 289048,
       "num": 289048,
       "word": "鲜活帝王蟹价格跌破千元",
@@ -3721,6 +3753,14 @@
       "onboard_time": 1738025836,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 287668,
+      "num": 269928,
+      "word": "嬷童降世",
+      "onboard_time": 1738149019,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 287302,
@@ -3785,6 +3825,14 @@
       "onboard_time": 1738022474,
       "rank": 5,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 282647,
+      "num": 269055,
+      "word": "封神 伏地魔",
+      "onboard_time": 1738148300,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 282316,
@@ -3939,6 +3987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267963,
+      "num": 267963,
+      "word": "沈腾回春",
+      "onboard_time": 1738145301,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267300,
       "num": 267300,
       "word": "男孩26年后与妈妈相认得知惊人真相",
@@ -3969,14 +4025,6 @@
       "onboard_time": 1738114099,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 266355,
-      "num": 329704,
-      "word": "睡梦中被戴上没舍得买的金手链",
-      "onboard_time": 1738143079,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 265339,
@@ -4435,6 +4483,14 @@
       "category": "财经,互联网"
     },
     {
+      "raw_hot": 236690,
+      "num": 236690,
+      "word": "毛不易像我这样憋笑的人",
+      "onboard_time": 1738148239,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236638,
       "num": 215996,
       "word": "霉霉与男友接吻庆祝",
@@ -4649,6 +4705,14 @@
       "onboard_time": 1737987679,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221446,
+      "num": 221446,
+      "word": "哪吒票房",
+      "onboard_time": 1738149140,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 221402,
@@ -5033,14 +5097,6 @@
       "onboard_time": 1737846374,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 205178,
-      "num": 205178,
-      "word": "黄亦玫你女儿上春晚了",
-      "onboard_time": 1738146559,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 204911,
@@ -5483,6 +5539,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 190329,
+      "num": 190329,
+      "word": "迪丽热巴祝新的一年红红火火",
+      "onboard_time": 1738148659,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190326,
       "num": 179382,
       "word": "刘谦后面的苏有朋",
@@ -5537,6 +5601,14 @@
       "onboard_time": 1737899359,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189232,
+      "num": 196080,
+      "word": "哪吒2",
+      "onboard_time": 1738148659,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 189013,
@@ -8763,6 +8835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 107031,
+      "num": 236597,
+      "word": "哈尔滨会宠幸每一个大馋丫头",
+      "onboard_time": 1738148899,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107013,
       "num": 107013,
       "word": "过年很忙",
@@ -9611,6 +9691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88361,
+      "num": 939936,
+      "word": "大年初一省服时装周",
+      "onboard_time": 1738143800,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88292,
       "num": 88292,
       "word": "NBA升级卢尼一级恶意犯规",
@@ -9769,14 +9857,6 @@
       "onboard_time": 1737819440,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 84955,
-      "num": 922307,
-      "word": "大年初一省服时装周",
-      "onboard_time": 1738143800,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84861,
@@ -10995,6 +11075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47376,
+      "num": 278209,
+      "word": "3分钟看懂为什么DeepSeek能震惊世界",
+      "onboard_time": 1738148779,
+      "rank": 14,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 47321,
       "num": 1022009,
       "word": "一家人都要过上好日子",
@@ -12041,6 +12129,14 @@
       "onboard_time": 1737797777,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16547,
+      "num": 281183,
+      "word": "盛世如你我所愿",
+      "onboard_time": 1738149080,
+      "rank": 11,
+      "category": "正能量"
     },
     {
       "raw_hot": 16393,

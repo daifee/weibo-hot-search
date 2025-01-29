@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738147204970,
+  "endTime": 1738149512772,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -2355,6 +2355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1736361,
+      "num": 1736361,
+      "word": "票房",
+      "onboard_time": 1738139658,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1735808,
       "num": 1735808,
       "word": "春晚收视率",
@@ -2433,14 +2441,6 @@
       "onboard_time": 1737363078,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1705475,
-      "num": 1705475,
-      "word": "票房",
-      "onboard_time": 1738139658,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 1703411,
@@ -2777,6 +2777,14 @@
       "onboard_time": 1736408481,
       "rank": 0,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 1608098,
+      "num": 1608098,
+      "word": "马丽回应甲状腺肿大",
+      "onboard_time": 1738145419,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1607711,
@@ -3185,14 +3193,6 @@
       "onboard_time": 1736914639,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1498699,
-      "num": 1498699,
-      "word": "马丽回应甲状腺肿大",
-      "onboard_time": 1738145419,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 1497293,
@@ -4673,6 +4673,14 @@
       "onboard_time": 1736221581,
       "rank": 4,
       "category": "国际时政,艺人"
+    },
+    {
+      "raw_hot": 1196153,
+      "num": 897455,
+      "word": "春晚 女导演",
+      "onboard_time": 1738144819,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 1195226,
@@ -7523,14 +7531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 897455,
-      "num": 897455,
-      "word": "春晚 女导演",
-      "onboard_time": 1738144819,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 896866,
       "num": 491974,
       "word": "四川一动物园卖虎尿50元1瓶",
@@ -8945,6 +8945,14 @@
       "onboard_time": 1736059288,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 798961,
+      "num": 798961,
+      "word": "黄亦玫你女儿上春晚了",
+      "onboard_time": 1738146559,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 798641,
@@ -13571,6 +13579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 582096,
+      "num": 333153,
+      "word": "春晚 不太会烧菜的爹妈",
+      "onboard_time": 1738144519,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 581871,
       "num": 557048,
       "word": "胡彦斌对黄圣依的回怼全是祝福",
@@ -17081,14 +17097,6 @@
       "onboard_time": 1737797777,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 475118,
-      "num": 333153,
-      "word": "春晚 不太会烧菜的爹妈",
-      "onboard_time": 1738144519,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 475108,
@@ -23843,6 +23851,14 @@
       "category": "体育,游戏"
     },
     {
+      "raw_hot": 339312,
+      "num": 329704,
+      "word": "睡梦中被戴上没舍得买的金手链",
+      "onboard_time": 1738143079,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 339117,
       "num": 251117,
       "word": "王源国风舞台演绎中式浪漫",
@@ -24953,6 +24969,14 @@
       "onboard_time": 1737445579,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 322932,
+      "num": 276256,
+      "word": "哪吒2打破国漫天花板",
+      "onboard_time": 1738147938,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 322781,
@@ -27515,6 +27539,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 290769,
+      "num": 274228,
+      "word": "全红婵家已增设安全围栏等设备",
+      "onboard_time": 1738148420,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 290746,
       "num": 290746,
       "word": "胡歌连发三条微博",
@@ -27713,6 +27745,14 @@
       "onboard_time": 1736067745,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 287668,
+      "num": 269928,
+      "word": "嬷童降世",
+      "onboard_time": 1738149019,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 287554,
@@ -28233,6 +28273,14 @@
       "onboard_time": 1736327602,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 282647,
+      "num": 269055,
+      "word": "封神 伏地魔",
+      "onboard_time": 1738148300,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 282378,
@@ -29699,6 +29747,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 267963,
+      "num": 267963,
+      "word": "沈腾回春",
+      "onboard_time": 1738145301,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267892,
       "num": 267892,
       "word": "湘潭大学投毒案受害者是秋水仙碱中毒",
@@ -29841,14 +29897,6 @@
       "onboard_time": 1736831058,
       "rank": 30,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 266355,
-      "num": 329704,
-      "word": "睡梦中被戴上没舍得买的金手链",
-      "onboard_time": 1738143079,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 266301,
@@ -33211,6 +33259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 236690,
+      "num": 236690,
+      "word": "毛不易像我这样憋笑的人",
+      "onboard_time": 1738148239,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236638,
       "num": 215996,
       "word": "霉霉与男友接吻庆祝",
@@ -35129,6 +35185,14 @@
       "onboard_time": 1737416117,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 221446,
+      "num": 221446,
+      "word": "哪吒票房",
+      "onboard_time": 1738149140,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 221402,
@@ -38313,14 +38377,6 @@
       "onboard_time": 1736118196,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 205178,
-      "num": 205178,
-      "word": "黄亦玫你女儿上春晚了",
-      "onboard_time": 1738146559,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 205175,
@@ -42843,6 +42899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190329,
+      "num": 190329,
+      "word": "迪丽热巴祝新的一年红红火火",
+      "onboard_time": 1738148659,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190326,
       "num": 179382,
       "word": "刘谦后面的苏有朋",
@@ -43193,6 +43257,14 @@
       "onboard_time": 1736576242,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 189232,
+      "num": 196080,
+      "word": "哪吒2",
+      "onboard_time": 1736216720,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 189230,
@@ -53241,14 +53313,6 @@
       "onboard_time": 1736169143,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 156267,
-      "num": 156267,
-      "word": "哪吒2",
-      "onboard_time": 1736216720,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 156249,
@@ -70899,6 +70963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107031,
+      "num": 236597,
+      "word": "哈尔滨会宠幸每一个大馋丫头",
+      "onboard_time": 1738148899,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107013,
       "num": 107013,
       "word": "过年很忙",
@@ -75723,6 +75795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88361,
+      "num": 939936,
+      "word": "大年初一省服时装周",
+      "onboard_time": 1738143800,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88303,
       "num": 224067,
       "word": "杨紫祝大家花开富贵",
@@ -76449,14 +76529,6 @@
       "onboard_time": 1737162618,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 84955,
-      "num": 922307,
-      "word": "大年初一省服时装周",
-      "onboard_time": 1738143800,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84867,
@@ -83401,6 +83473,14 @@
       "onboard_time": 1735700899,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47376,
+      "num": 278209,
+      "word": "3分钟看懂为什么DeepSeek能震惊世界",
+      "onboard_time": 1738148779,
+      "rank": 14,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 47365,
@@ -91017,6 +91097,14 @@
       "onboard_time": 1736503220,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 16547,
+      "num": 281183,
+      "word": "盛世如你我所愿",
+      "onboard_time": 1738149080,
+      "rank": 11,
+      "category": "正能量"
     },
     {
       "raw_hot": 16499,

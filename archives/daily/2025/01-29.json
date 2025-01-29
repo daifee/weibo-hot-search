@@ -1,6 +1,6 @@
 {
   "startTime": 1738081671448,
-  "endTime": 1738147204970,
+  "endTime": 1738149512772,
   "band_list": [
     {
       "raw_hot": 10062879,
@@ -123,20 +123,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1736361,
+      "num": 1736361,
+      "word": "票房",
+      "onboard_time": 1738139658,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1735808,
       "num": 1735808,
       "word": "春晚收视率",
       "onboard_time": 1738086677,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1705475,
-      "num": 1705475,
-      "word": "票房",
-      "onboard_time": 1738139658,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 1650366,
@@ -147,19 +147,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1608098,
+      "num": 1608098,
+      "word": "马丽回应甲状腺肿大",
+      "onboard_time": 1738145419,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1607711,
       "num": 1607711,
       "word": "任敏差点成为下一个尼格买提",
       "onboard_time": 1738125500,
       "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1498699,
-      "num": 1498699,
-      "word": "马丽回应甲状腺肿大",
-      "onboard_time": 1738145419,
-      "rank": 10,
       "category": "综艺"
     },
     {
@@ -224,6 +224,14 @@
       "word": "孙千腿好长",
       "onboard_time": 1738079079,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1196153,
+      "num": 897455,
+      "word": "春晚 女导演",
+      "onboard_time": 1738144819,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -323,14 +331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 897455,
-      "num": 897455,
-      "word": "春晚 女导演",
-      "onboard_time": 1738144819,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 866833,
       "num": 866833,
       "word": "DeepSeek遭美国IP网攻暴力破解",
@@ -361,6 +361,14 @@
       "onboard_time": 1738120401,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 798961,
+      "num": 798961,
+      "word": "黄亦玫你女儿上春晚了",
+      "onboard_time": 1738146559,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 792527,
@@ -523,6 +531,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 582096,
+      "num": 333153,
+      "word": "春晚 不太会烧菜的爹妈",
+      "onboard_time": 1738144519,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 579300,
       "num": 579300,
       "word": "敖光 东海尤物",
@@ -641,14 +657,6 @@
       "onboard_time": 1738105815,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 475118,
-      "num": 333153,
-      "word": "春晚 不太会烧菜的爹妈",
-      "onboard_time": 1738144519,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 474226,
@@ -779,6 +787,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 339312,
+      "num": 329704,
+      "word": "睡梦中被戴上没舍得买的金手链",
+      "onboard_time": 1738143079,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 337272,
       "num": 337272,
       "word": "南方人不看春晚",
@@ -808,6 +824,14 @@
       "word": "殷郊法相",
       "onboard_time": 1738127058,
       "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 322932,
+      "num": 276256,
+      "word": "哪吒2打破国漫天花板",
+      "onboard_time": 1738147938,
+      "rank": 16,
       "category": "电影"
     },
     {
@@ -859,12 +883,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 290769,
+      "num": 274228,
+      "word": "全红婵家已增设安全围栏等设备",
+      "onboard_time": 1738148420,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 287668,
+      "num": 269928,
+      "word": "嬷童降世",
+      "onboard_time": 1738149019,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 287289,
       "num": 476172,
       "word": "今年春晚印象最深的歌曲",
       "onboard_time": 1738136958,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 282647,
+      "num": 269055,
+      "word": "封神 伏地魔",
+      "onboard_time": 1738148300,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 277962,
@@ -907,20 +955,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267963,
+      "num": 267963,
+      "word": "沈腾回春",
+      "onboard_time": 1738145301,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 266634,
       "num": 266634,
       "word": "小狗春晚",
       "onboard_time": 1738114099,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 266355,
-      "num": 329704,
-      "word": "睡梦中被戴上没舍得买的金手链",
-      "onboard_time": 1738143079,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 262202,
@@ -1027,6 +1075,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 236690,
+      "num": 236690,
+      "word": "毛不易像我这样憋笑的人",
+      "onboard_time": 1738148239,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236574,
       "num": 236574,
       "word": "哪吒2是什么起点爽文",
@@ -1113,6 +1169,14 @@
       "onboard_time": 1738141038,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 221446,
+      "num": 221446,
+      "word": "哪吒票房",
+      "onboard_time": 1738149140,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 218269,
@@ -1211,14 +1275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205178,
-      "num": 205178,
-      "word": "黄亦玫你女儿上春晚了",
-      "onboard_time": 1738146559,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 202714,
       "num": 1373070,
       "word": "张智霖陈小春周柏豪同台",
@@ -1291,6 +1347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 190329,
+      "num": 190329,
+      "word": "迪丽热巴祝新的一年红红火火",
+      "onboard_time": 1738148659,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190326,
       "num": 179382,
       "word": "刘谦后面的苏有朋",
@@ -1305,6 +1369,14 @@
       "onboard_time": 1738120221,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 189232,
+      "num": 196080,
+      "word": "哪吒2",
+      "onboard_time": 1738148659,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 188943,
@@ -1803,6 +1875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 107031,
+      "num": 236597,
+      "word": "哈尔滨会宠幸每一个大馋丫头",
+      "onboard_time": 1738148899,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105984,
       "num": 605680,
       "word": "美国正式通知联合国退出巴黎协定",
@@ -1907,6 +1987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88361,
+      "num": 939936,
+      "word": "大年初一省服时装周",
+      "onboard_time": 1738143800,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87303,
       "num": 180438,
       "word": "姬发在水里更是帅到没边",
@@ -1937,14 +2025,6 @@
       "onboard_time": 1738088655,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 84955,
-      "num": 922307,
-      "word": "大年初一省服时装周",
-      "onboard_time": 1738143800,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83976,
@@ -2129,6 +2209,14 @@
       "onboard_time": 1738133540,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 47376,
+      "num": 278209,
+      "word": "3分钟看懂为什么DeepSeek能震惊世界",
+      "onboard_time": 1738148779,
+      "rank": 14,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 47211,
@@ -2425,6 +2513,14 @@
       "onboard_time": 1738145238,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16547,
+      "num": 281183,
+      "word": "盛世如你我所愿",
+      "onboard_time": 1738149080,
+      "rank": 11,
+      "category": "正能量"
     },
     {
       "raw_hot": 14965,

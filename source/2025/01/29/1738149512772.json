@@ -1,0 +1,410 @@
+{
+  "runTime": 1738149512772,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1736361,
+        "num": 1736361,
+        "word": "票房",
+        "onboard_time": 1738139658,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1608098,
+        "num": 1608098,
+        "word": "马丽回应甲状腺肿大",
+        "onboard_time": 1738145419,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88361,
+        "num": 939936,
+        "word": "大年初一省服时装周",
+        "onboard_time": 1738143800,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 798961,
+        "num": 798961,
+        "word": "黄亦玫你女儿上春晚了",
+        "onboard_time": 1738146559,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287409,
+        "num": 287409,
+        "word": "美国正对DeepSeek开展国家安全调查",
+        "onboard_time": 1738133599,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 192053,
+        "num": 287023,
+        "word": "山东人大年初一拜年磕头队伍数百米",
+        "onboard_time": 1738141038,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1196153,
+        "num": 285568,
+        "word": "春晚 女导演",
+        "onboard_time": 1738144819,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 582096,
+        "num": 285219,
+        "word": "春晚 不太会烧菜的爹妈",
+        "onboard_time": 1738144519,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 571430,
+        "num": 284218,
+        "word": "人形机器人失误是有意为之",
+        "onboard_time": 1738139177,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149397,
+        "num": 283362,
+        "word": "苏州蛇年小宝宝出生啦",
+        "onboard_time": 1738140438,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 488825,
+        "num": 281842,
+        "word": "哪吒特效",
+        "onboard_time": 1738141459,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16547,
+        "num": 281183,
+        "word": "盛世如你我所愿",
+        "onboard_time": 1738149080,
+        "rank": 11,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 428575,
+        "num": 280416,
+        "word": "马丽 紫啧",
+        "onboard_time": 1738143978,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 421172,
+        "num": 278743,
+        "word": "射雕英雄传",
+        "onboard_time": 1738141340,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 47376,
+        "num": 278209,
+        "word": "3分钟看懂为什么DeepSeek能震惊世界",
+        "onboard_time": 1738148779,
+        "rank": 14,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 339312,
+        "num": 276809,
+        "word": "睡梦中被戴上没舍得买的金手链",
+        "onboard_time": 1738143079,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322932,
+        "num": 276256,
+        "word": "哪吒2打破国漫天花板",
+        "onboard_time": 1738147938,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 291710,
+        "num": 274802,
+        "word": "马天宇晒三人行合照",
+        "onboard_time": 1738136178,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290769,
+        "num": 274228,
+        "word": "全红婵家已增设安全围栏等设备",
+        "onboard_time": 1738148420,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144415,
+        "num": 272913,
+        "word": "大年初一福气满满",
+        "onboard_time": 1738127840,
+        "rank": 19,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 476807,
+        "num": 272171,
+        "word": "陈哲远锁骨骨折手术",
+        "onboard_time": 1738142719,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297092,
+        "num": 270839,
+        "word": "张雨绮刘子琪分手",
+        "onboard_time": 1738126880,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287668,
+        "num": 269928,
+        "word": "嬷童降世",
+        "onboard_time": 1738149019,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 269732,
+        "num": 269732,
+        "word": "金晨给被砸中的小孩儿道歉",
+        "onboard_time": 1738124839,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282647,
+        "num": 269055,
+        "word": "封神 伏地魔",
+        "onboard_time": 1738148300,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 267963,
+        "num": 267963,
+        "word": "沈腾回春",
+        "onboard_time": 1738145301,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236690,
+        "num": 236690,
+        "word": "毛不易像我这样憋笑的人",
+        "onboard_time": 1738148239,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107031,
+        "num": 236597,
+        "word": "哈尔滨会宠幸每一个大馋丫头",
+        "onboard_time": 1738148899,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88201,
+        "num": 236372,
+        "word": "蛇宝宝出生",
+        "onboard_time": 1738127960,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73066,
+        "num": 236032,
+        "word": "WTT新加坡大满贯",
+        "onboard_time": 1738133478,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201425,
+        "num": 235723,
+        "word": "美国夸完DeepSeek后称其是偷窃",
+        "onboard_time": 1738135758,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 235473,
+        "num": 235473,
+        "word": "中纪委严肃查处的问题上春晚了",
+        "onboard_time": 1738137258,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230460,
+        "num": 230460,
+        "word": "唐探1900格局",
+        "onboard_time": 1738141639,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111675,
+        "num": 224182,
+        "word": "全红婵呼吁不要打扰家人",
+        "onboard_time": 1738132818,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77565,
+        "num": 222257,
+        "word": "美国海军禁用DeepSeek",
+        "onboard_time": 1738131320,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 221750,
+        "num": 221750,
+        "word": "簪中录",
+        "onboard_time": 1738141399,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221446,
+        "num": 221446,
+        "word": "哪吒票房",
+        "onboard_time": 1738149140,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 72486,
+        "num": 211269,
+        "word": "会长是女仆大人漫画新作",
+        "onboard_time": 1738140858,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 71888,
+        "num": 208982,
+        "word": "塞尔维亚总理辞职武契奇表态",
+        "onboard_time": 1738131618,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 69072,
+        "num": 208675,
+        "word": "新年快乐",
+        "onboard_time": 1738082248,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208479,
+        "num": 208479,
+        "word": "马丽 甲状腺",
+        "onboard_time": 1738128082,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199690,
+        "num": 199690,
+        "word": "王一博一步一座山",
+        "onboard_time": 1738146140,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189232,
+        "num": 196080,
+        "word": "哪吒2",
+        "onboard_time": 1738148659,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193631,
+        "num": 193631,
+        "word": "任敏差点成为下一个尼格买提",
+        "onboard_time": 1738125500,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190329,
+        "num": 190329,
+        "word": "迪丽热巴祝新的一年红红火火",
+        "onboard_time": 1738148659,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185514,
+        "num": 185514,
+        "word": "哪吒",
+        "onboard_time": 1738117581,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 66228,
+        "num": 181745,
+        "word": "印度大壶节突发踩踏致15死",
+        "onboard_time": 1738133778,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 58372,
+        "num": 176249,
+        "word": "武契奇用中文拜年",
+        "onboard_time": 1738143020,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 57647,
+        "num": 167557,
+        "word": "正月初一过年好",
+        "onboard_time": 1738123280,
+        "rank": 48,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 56867,
+        "num": 161859,
+        "word": "外国人过中国春节有多抽象",
+        "onboard_time": 1738141399,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的新春牵挂#"
+    }
+  }
+}

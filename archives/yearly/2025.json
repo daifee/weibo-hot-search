@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738147204970,
+  "endTime": 1738149512772,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -2355,6 +2355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1736361,
+      "num": 1736361,
+      "word": "票房",
+      "onboard_time": 1738139658,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1735808,
       "num": 1735808,
       "word": "春晚收视率",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736341523,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1717774,
-      "num": 1717774,
-      "word": "雷军 小米YU7",
-      "onboard_time": 1736475198,
-      "rank": 1,
-      "category": "汽车"
     }
   ],
   "hotgov_list": [
