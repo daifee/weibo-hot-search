@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738129095412,
+  "endTime": 1738132212949,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -1020,7 +1020,7 @@
     },
     {
       "raw_hot": 915442,
-      "num": 483685,
+      "num": 730313,
       "word": "张雨绮刘子琪分手",
       "onboard_time": 1738126880,
       "rank": 18,
@@ -1481,6 +1481,14 @@
       "onboard_time": 1738070854,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 682730,
+      "num": 1259105,
+      "word": "蛇宝宝出生",
+      "onboard_time": 1738127960,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 677450,
@@ -2115,6 +2123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 503156,
+      "num": 503156,
+      "word": "1分钟我要知道邓婵玉全部信息",
+      "onboard_time": 1738127600,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 500832,
       "num": 500832,
       "word": "电竞选手幻云已找到",
@@ -2625,6 +2641,14 @@
       "onboard_time": 1737980717,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 406687,
+      "num": 262602,
+      "word": "敖光 东海尤物",
+      "onboard_time": 1738130120,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 406521,
@@ -3315,6 +3339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 308066,
+      "num": 261038,
+      "word": "南方人不看春晚",
+      "onboard_time": 1738127900,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 307805,
       "num": 307805,
       "word": "王者荣耀 嫦娥",
@@ -3403,12 +3435,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 297523,
-      "num": 783261,
-      "word": "蛇宝宝出生",
-      "onboard_time": 1738127960,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 295436,
+      "num": 250761,
+      "word": "肖战你们的岁数好像还没到",
+      "onboard_time": 1738131439,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 295389,
@@ -3465,14 +3497,6 @@
       "onboard_time": 1737869177,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 290536,
-      "num": 254238,
-      "word": "1分钟我要知道邓婵玉全部信息",
-      "onboard_time": 1738127600,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 289048,
@@ -3884,7 +3908,7 @@
     },
     {
       "raw_hot": 255006,
-      "num": 485128,
+      "num": 746145,
       "word": "大年初一福气满满",
       "onboard_time": 1738127840,
       "rank": 26,
@@ -4115,6 +4139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239763,
+      "num": 732515,
+      "word": "美F35战机坠毁视频",
+      "onboard_time": 1738130960,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 239755,
       "num": 179526,
       "word": "余承恩加盟我家那小子",
@@ -4241,6 +4273,14 @@
       "onboard_time": 1737816503,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 230285,
+      "num": 230285,
+      "word": "华筝 英姿飒爽",
+      "onboard_time": 1738129280,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 229712,
@@ -4795,6 +4835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 202061,
+      "num": 202061,
+      "word": "赵雅芝71岁状态比我21的还精神",
+      "onboard_time": 1738131919,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201715,
       "num": 192531,
       "word": "男子4年春节不回家江底守护万家灯火",
@@ -5204,7 +5252,7 @@
     },
     {
       "raw_hot": 188390,
-      "num": 188390,
+      "num": 999011,
       "word": "北京台春晚节目单",
       "onboard_time": 1738117701,
       "rank": 34,
@@ -5353,6 +5401,14 @@
       "onboard_time": 1737866478,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182408,
+      "num": 199998,
+      "word": "卢昱晓王星越初一拜年",
+      "onboard_time": 1738132037,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 181323,
@@ -5569,14 +5625,6 @@
       "onboard_time": 1737967336,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 173148,
-      "num": 173148,
-      "word": "南方人不看春晚",
-      "onboard_time": 1738127900,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 172876,
@@ -5811,6 +5859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165697,
+      "num": 165697,
+      "word": "电影哪吒之魔童闹海今日上映",
+      "onboard_time": 1738125379,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 165181,
       "num": 506616,
       "word": "今天就是除夕了",
@@ -5971,6 +6027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161130,
+      "num": 199693,
+      "word": "全红婵发文说理智一点吧",
+      "onboard_time": 1738131678,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160683,
       "num": 208195,
       "word": "余承东直播开车备案了",
@@ -6009,6 +6073,14 @@
       "onboard_time": 1737854478,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159678,
+      "num": 176939,
+      "word": "特朗普给马斯克下任务接滞留宇航员",
+      "onboard_time": 1738131078,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 159595,
@@ -6955,6 +7027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135006,
+      "num": 260873,
+      "word": "春节档影评大赛",
+      "onboard_time": 1738131980,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 134951,
       "num": 134951,
       "word": "杨紫李现秒变吃瓜群众",
@@ -7097,6 +7177,14 @@
       "onboard_time": 1738021694,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131990,
+      "num": 131990,
+      "word": "春节偏财运爆表星座",
+      "onboard_time": 1738130898,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 131934,
@@ -8091,6 +8179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 109114,
+      "num": 109114,
+      "word": "美国海军禁用DeepSeek",
+      "onboard_time": 1738131320,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 109014,
       "num": 109014,
       "word": "2025春节团拜会举行",
@@ -8273,6 +8369,14 @@
       "onboard_time": 1737950417,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105984,
+      "num": 605680,
+      "word": "美国正式通知联合国退出巴黎协定",
+      "onboard_time": 1738126280,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 105782,
@@ -9355,6 +9459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81083,
+      "num": 106104,
+      "word": "沈星回星星生气啦",
+      "onboard_time": 1738132037,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 80939,
       "num": 169173,
       "word": "无所畏惧2今日开播",
@@ -9827,6 +9939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 67693,
+      "num": 105977,
+      "word": "2025春节假期天气地图",
+      "onboard_time": 1738131320,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67665,
       "num": 71160,
       "word": "孙颖莎说希望站在洛杉矶奥运会赛场上",
@@ -10139,6 +10259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 57497,
+      "num": 730367,
+      "word": "俄外长称DeepSeek超越美国",
+      "onboard_time": 1738131140,
+      "rank": 9,
+      "category": "国际时政,互联网"
+    },
+    {
       "raw_hot": 57395,
       "num": 301855,
       "word": "广西两地倡议春节少发压岁钱",
@@ -10401,14 +10529,6 @@
       "onboard_time": 1737949157,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 45958,
-      "num": 605680,
-      "word": "美国正式通知联合国退出巴黎协定",
-      "onboard_time": 1738126280,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 45285,
