@@ -1,6 +1,6 @@
 {
   "startTime": 1738081671448,
-  "endTime": 1738146185940,
+  "endTime": 1738147204970,
   "band_list": [
     {
       "raw_hot": 10062879,
@@ -131,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1705475,
+      "num": 1705475,
+      "word": "票房",
+      "onboard_time": 1738139658,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1650366,
       "num": 1650366,
       "word": "小明妈妈变爷爷",
@@ -144,6 +152,14 @@
       "word": "任敏差点成为下一个尼格买提",
       "onboard_time": 1738125500,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1498699,
+      "num": 1498699,
+      "word": "马丽回应甲状腺肿大",
+      "onboard_time": 1738145419,
+      "rank": 10,
       "category": "综艺"
     },
     {
@@ -161,14 +177,6 @@
       "onboard_time": 1738079795,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1420952,
-      "num": 1420952,
-      "word": "票房",
-      "onboard_time": 1738139658,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 1415945,
@@ -312,6 +320,14 @@
       "word": "央视春晚四大美女",
       "onboard_time": 1738101732,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 897455,
+      "num": 897455,
+      "word": "春晚 女导演",
+      "onboard_time": 1738144819,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -475,14 +491,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 629387,
-      "num": 302774,
-      "word": "马丽回应甲状腺肿大",
-      "onboard_time": 1738145419,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 596382,
       "num": 596382,
       "word": "藕饼",
@@ -588,7 +596,7 @@
     },
     {
       "raw_hot": 517192,
-      "num": 227282,
+      "num": 331212,
       "word": "射雕英雄传",
       "onboard_time": 1738141340,
       "rank": 21,
@@ -609,14 +617,6 @@
       "onboard_time": 1738079735,
       "rank": 38,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 487084,
-      "num": 184871,
-      "word": "春晚 女导演",
-      "onboard_time": 1738144819,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 485733,
@@ -643,20 +643,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 475118,
+      "num": 333153,
+      "word": "春晚 不太会烧菜的爹妈",
+      "onboard_time": 1738144519,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 474226,
       "num": 474226,
       "word": "唐探1900格局",
       "onboard_time": 1738141639,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 445460,
-      "num": 176910,
-      "word": "春晚 不太会烧菜的爹妈",
-      "onboard_time": 1738144519,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 437209,
@@ -828,7 +828,7 @@
     },
     {
       "raw_hot": 311549,
-      "num": 156684,
+      "num": 251562,
       "word": "0713春晚下班后去苏醒家聚餐",
       "onboard_time": 1738143619,
       "rank": 30,
@@ -913,6 +913,22 @@
       "onboard_time": 1738114099,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 266355,
+      "num": 329704,
+      "word": "睡梦中被戴上没舍得买的金手链",
+      "onboard_time": 1738143079,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 262202,
+      "num": 262202,
+      "word": "王一博一步一座山",
+      "onboard_time": 1738146140,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 258867,
@@ -1092,7 +1108,7 @@
     },
     {
       "raw_hot": 222908,
-      "num": 226014,
+      "num": 803218,
       "word": "山东人大年初一拜年磕头队伍数百米",
       "onboard_time": 1738141038,
       "rank": 27,
@@ -1137,6 +1153,14 @@
       "onboard_time": 1738118180,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 212894,
+      "num": 212894,
+      "word": "NewJeans制服Attention舞台",
+      "onboard_time": 1738146079,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 212483,
@@ -1187,10 +1211,10 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 203899,
-      "num": 156488,
-      "word": "王一博一步一座山",
-      "onboard_time": 1738146140,
+      "raw_hot": 205178,
+      "num": 205178,
+      "word": "黄亦玫你女儿上春晚了",
+      "onboard_time": 1738146559,
       "rank": 43,
       "category": "综艺"
     },
@@ -1307,20 +1331,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187345,
+      "num": 187345,
+      "word": "肖战就是奶奶外婆严选",
+      "onboard_time": 1738147099,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 187300,
       "num": 96992,
       "word": "吴昕对烟花的解读好大女主",
       "onboard_time": 1738139539,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 185192,
-      "num": 185192,
-      "word": "睡梦中被戴上没舍得买的金手链",
-      "onboard_time": 1738143079,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 183677,
@@ -1508,7 +1532,7 @@
     },
     {
       "raw_hot": 156786,
-      "num": 226814,
+      "num": 307804,
       "word": "会长是女仆大人漫画新作",
       "onboard_time": 1738140858,
       "rank": 23,
@@ -1579,6 +1603,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 143314,
+      "num": 311763,
+      "word": "周润发不语只是一味的拜",
+      "onboard_time": 1738146980,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 143112,
       "num": 628737,
       "word": "孙颖莎祝福大家吉祥如意",
@@ -1636,7 +1668,7 @@
     },
     {
       "raw_hot": 134358,
-      "num": 225079,
+      "num": 310785,
       "word": "全红婵呼吁不要打扰家人",
       "onboard_time": 1738132818,
       "rank": 42,
@@ -1780,7 +1812,7 @@
     },
     {
       "raw_hot": 102625,
-      "num": 156638,
+      "num": 228715,
       "word": "外国人过中国春节有多抽象",
       "onboard_time": 1738141399,
       "rank": 33,
@@ -1812,7 +1844,7 @@
     },
     {
       "raw_hot": 96262,
-      "num": 272242,
+      "num": 303487,
       "word": "WTT新加坡大满贯",
       "onboard_time": 1738133478,
       "rank": 43,
@@ -1892,7 +1924,7 @@
     },
     {
       "raw_hot": 85285,
-      "num": 218665,
+      "num": 320568,
       "word": "乌尔善镜头里的呼伦贝尔",
       "onboard_time": 1738142419,
       "rank": 46,
@@ -1905,6 +1937,14 @@
       "onboard_time": 1738088655,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 84955,
+      "num": 922307,
+      "word": "大年初一省服时装周",
+      "onboard_time": 1738143800,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83976,
@@ -1929,14 +1969,6 @@
       "onboard_time": 1738106535,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 77800,
-      "num": 909700,
-      "word": "大年初一省服时装周",
-      "onboard_time": 1738143800,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 76197,
@@ -1972,7 +2004,7 @@
     },
     {
       "raw_hot": 68815,
-      "num": 156405,
+      "num": 224417,
       "word": "武契奇用中文拜年",
       "onboard_time": 1738143020,
       "rank": 48,
@@ -2083,6 +2115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49217,
+      "num": 209769,
+      "word": "蛟龙行动大开眼界",
+      "onboard_time": 1738146620,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 48727,
       "num": 265573,
       "word": "对弈竞猜",
@@ -2097,6 +2137,14 @@
       "onboard_time": 1738106115,
       "rank": 49,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 44887,
+      "num": 208504,
+      "word": "过年就要穿上新年战袍",
+      "onboard_time": 1738145840,
+      "rank": 19,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 43671,
@@ -2275,14 +2323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27062,
-      "num": 179128,
-      "word": "过年就要穿上新年战袍",
-      "onboard_time": 1738145840,
-      "rank": 19,
-      "category": "情感,民生新闻"
-    },
-    {
       "raw_hot": 26806,
       "num": 316470,
       "word": "极狐汽车有自己发红包的方式",
@@ -2321,6 +2361,14 @@
       "onboard_time": 1738106055,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 23291,
+      "num": 735594,
+      "word": "来自文物的祝福",
+      "onboard_time": 1738144458,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22476,
@@ -2371,16 +2419,8 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 20058,
-      "num": 735594,
-      "word": "来自文物的祝福",
-      "onboard_time": 1738144458,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18164,
-      "num": 156707,
+      "raw_hot": 19772,
+      "num": 187303,
       "word": "女孩干电工曾扛100斤线爬20楼",
       "onboard_time": 1738145238,
       "rank": 29,
