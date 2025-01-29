@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738189278205,
+  "endTime": 1738190285185,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -89659,6 +89659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24950,
+      "num": 24950,
+      "word": "黄轩女友夸蒋璐霞非常酷",
+      "onboard_time": 1738189032,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 24949,
       "num": 49555,
       "word": "国色芳华5步做出牡丹香粉",
@@ -91395,11 +91403,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 18716,
+      "num": 18863,
+      "word": "苏醒转身就走像下定了某种决心",
+      "onboard_time": 1738180213,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 18649,
       "num": 30693,
       "word": "詹杜库的最后一舞",
       "onboard_time": 1737735079,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 18595,
+      "num": 24956,
+      "word": "欧冠春晚今夜上演",
+      "onboard_time": 1738184291,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -91523,14 +91547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 18047,
-      "num": 18863,
-      "word": "苏醒转身就走像下定了某种决心",
-      "onboard_time": 1738180213,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 18022,
       "num": 347927,
       "word": "不讨好的人生应是一场开放麦",
@@ -91609,14 +91625,6 @@
       "onboard_time": 1736133861,
       "rank": 39,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 17822,
-      "num": 22961,
-      "word": "欧冠春晚今夜上演",
-      "onboard_time": 1738184291,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 17804,
@@ -91980,7 +91988,7 @@
     },
     {
       "raw_hot": 16436,
-      "num": 16436,
+      "num": 18712,
       "word": "北京台小品",
       "onboard_time": 1738182431,
       "rank": 46,
@@ -92049,14 +92057,6 @@
       "onboard_time": 1737056590,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 16103,
-      "num": 16103,
-      "word": "黄轩女友夸蒋璐霞非常酷",
-      "onboard_time": 1738189032,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 16037,
@@ -92137,6 +92137,14 @@
       "onboard_time": 1736847319,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 15754,
+      "num": 18712,
+      "word": "萌兰硬控无敌年味仪式感",
+      "onboard_time": 1738180871,
+      "rank": 34,
+      "category": "正能量"
     },
     {
       "raw_hot": 15694,
@@ -92369,14 +92377,6 @@
       "onboard_time": 1735762931,
       "rank": 49,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 14910,
-      "num": 16176,
-      "word": "萌兰硬控无敌年味仪式感",
-      "onboard_time": 1738180871,
-      "rank": 34,
-      "category": "正能量"
     },
     {
       "raw_hot": 14804,
@@ -93177,6 +93177,14 @@
       "onboard_time": 1736016855,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11662,
+      "num": 18707,
+      "word": "春节仪式感刻进了国宝DNA",
+      "onboard_time": 1738186091,
+      "rank": 48,
+      "category": "正能量"
     },
     {
       "raw_hot": 11606,

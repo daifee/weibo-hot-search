@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738189278205,
+  "endTime": 1738190285185,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -12643,6 +12643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 24950,
+      "num": 24950,
+      "word": "黄轩女友夸蒋璐霞非常酷",
+      "onboard_time": 1738189032,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 24736,
       "num": 108356,
       "word": "蒋璐霞的糖从红海带到了蛟龙",
@@ -12971,15 +12979,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 18337,
-      "num": 151551,
-      "word": "马龙变乖乖龙",
-      "onboard_time": 1737903561,
-      "rank": 35,
-      "category": "体育,综艺"
-    },
-    {
-      "raw_hot": 18047,
+      "raw_hot": 18716,
       "num": 18863,
       "word": "苏醒转身就走像下定了某种决心",
       "onboard_time": 1738180213,
@@ -12987,12 +12987,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 17822,
-      "num": 22961,
+      "raw_hot": 18595,
+      "num": 24956,
       "word": "欧冠春晚今夜上演",
       "onboard_time": 1738184291,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18337,
+      "num": 151551,
+      "word": "马龙变乖乖龙",
+      "onboard_time": 1737903561,
+      "rank": 35,
+      "category": "体育,综艺"
     },
     {
       "raw_hot": 17804,
@@ -13028,7 +13036,7 @@
     },
     {
       "raw_hot": 16436,
-      "num": 16436,
+      "num": 18712,
       "word": "北京台小品",
       "onboard_time": 1738182431,
       "rank": 46,
@@ -13043,12 +13051,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 16103,
-      "num": 16103,
-      "word": "黄轩女友夸蒋璐霞非常酷",
-      "onboard_time": 1738189032,
-      "rank": 40,
-      "category": "电影"
+      "raw_hot": 15754,
+      "num": 18712,
+      "word": "萌兰硬控无敌年味仪式感",
+      "onboard_time": 1738180871,
+      "rank": 34,
+      "category": "正能量"
     },
     {
       "raw_hot": 15640,
@@ -13081,14 +13089,6 @@
       "onboard_time": 1738117041,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 14910,
-      "num": 16176,
-      "word": "萌兰硬控无敌年味仪式感",
-      "onboard_time": 1738180871,
-      "rank": 34,
-      "category": "正能量"
     },
     {
       "raw_hot": 14804,
@@ -13161,6 +13161,14 @@
       "onboard_time": 1738092432,
       "rank": 9,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 11662,
+      "num": 18707,
+      "word": "春节仪式感刻进了国宝DNA",
+      "onboard_time": 1738186091,
+      "rank": 48,
+      "category": "正能量"
     },
     {
       "raw_hot": 11605,
