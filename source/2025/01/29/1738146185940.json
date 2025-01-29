@@ -1,0 +1,410 @@
+{
+  "runTime": 1738146185940,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1420952,
+        "num": 1420952,
+        "word": "票房",
+        "onboard_time": 1738139658,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1103465,
+        "num": 1103465,
+        "word": "人形机器人失误是有意为之",
+        "onboard_time": 1738139177,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77800,
+        "num": 909700,
+        "word": "大年初一省服时装周",
+        "onboard_time": 1738143800,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 893502,
+        "num": 893502,
+        "word": "马丽 甲状腺",
+        "onboard_time": 1738128082,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 822826,
+        "num": 822826,
+        "word": "哪吒特效",
+        "onboard_time": 1738141459,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20058,
+        "num": 735594,
+        "word": "来自文物的祝福",
+        "onboard_time": 1738144458,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 701688,
+        "num": 701688,
+        "word": "马丽 紫啧",
+        "onboard_time": 1738143978,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 594879,
+        "num": 594879,
+        "word": "陈哲远锁骨骨折手术",
+        "onboard_time": 1738142719,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355891,
+        "num": 355891,
+        "word": "美国正对DeepSeek开展国家安全调查",
+        "onboard_time": 1738133599,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 330126,
+        "num": 330126,
+        "word": "苏州蛇年小宝宝出生啦",
+        "onboard_time": 1738140438,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 629387,
+        "num": 302774,
+        "word": "马丽回应甲状腺肿大",
+        "onboard_time": 1738145419,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222908,
+        "num": 222908,
+        "word": "山东人大年初一拜年磕头队伍数百米",
+        "onboard_time": 1738141038,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42974,
+        "num": 192682,
+        "word": "乌尔善镜头里的呼伦贝尔",
+        "onboard_time": 1738142419,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 517192,
+        "num": 192067,
+        "word": "射雕英雄传",
+        "onboard_time": 1738141340,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185192,
+        "num": 185192,
+        "word": "睡梦中被戴上没舍得买的金手链",
+        "onboard_time": 1738143079,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 487084,
+        "num": 184871,
+        "word": "春晚 女导演",
+        "onboard_time": 1738144819,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 455094,
+        "num": 183731,
+        "word": "马天宇晒三人行合照",
+        "onboard_time": 1738136178,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127114,
+        "num": 182625,
+        "word": "蛇宝宝出生",
+        "onboard_time": 1738127960,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87303,
+        "num": 180438,
+        "word": "姬发在水里更是帅到没边",
+        "onboard_time": 1738145419,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27062,
+        "num": 179128,
+        "word": "过年就要穿上新年战袍",
+        "onboard_time": 1738145840,
+        "rank": 19,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 481982,
+        "num": 178641,
+        "word": "张雨绮刘子琪分手",
+        "onboard_time": 1738126880,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445460,
+        "num": 176910,
+        "word": "春晚 不太会烧菜的爹妈",
+        "onboard_time": 1738144519,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176519,
+        "num": 176519,
+        "word": "美国夸完DeepSeek后称其是偷窃",
+        "onboard_time": 1738135758,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156786,
+        "num": 156786,
+        "word": "会长是女仆大人漫画新作",
+        "onboard_time": 1738140858,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 120133,
+        "num": 156774,
+        "word": "大年初一福气满满",
+        "onboard_time": 1738127840,
+        "rank": 24,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 405954,
+        "num": 156762,
+        "word": "簪中录",
+        "onboard_time": 1738141399,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 402223,
+        "num": 156749,
+        "word": "中纪委严肃查处的问题上春晚了",
+        "onboard_time": 1738137258,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400012,
+        "num": 156733,
+        "word": "唐探1900格局",
+        "onboard_time": 1738141639,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 342264,
+        "num": 156710,
+        "word": "金晨给被砸中的小孩儿道歉",
+        "onboard_time": 1738124839,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18164,
+        "num": 156707,
+        "word": "女孩干电工曾扛100斤线爬20楼",
+        "onboard_time": 1738145238,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311549,
+        "num": 156684,
+        "word": "0713春晚下班后去苏醒家聚餐",
+        "onboard_time": 1738143619,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255678,
+        "num": 156665,
+        "word": "宋雨琦手链好美",
+        "onboard_time": 1738142899,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109805,
+        "num": 156663,
+        "word": "全红婵呼吁不要打扰家人",
+        "onboard_time": 1738132818,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102625,
+        "num": 156638,
+        "word": "外国人过中国春节有多抽象",
+        "onboard_time": 1738141399,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94020,
+        "num": 156624,
+        "word": "WTT新加坡大满贯",
+        "onboard_time": 1738133478,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254473,
+        "num": 156605,
+        "word": "敖光 东海尤物",
+        "onboard_time": 1738130120,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 82538,
+        "num": 156587,
+        "word": "印度大壶节突发踩踏致15死",
+        "onboard_time": 1738133778,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 79501,
+        "num": 156583,
+        "word": "塞尔维亚总理辞职武契奇表态",
+        "onboard_time": 1738131618,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 76242,
+        "num": 156564,
+        "word": "美F35战机坠毁视频",
+        "onboard_time": 1738130960,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 76168,
+        "num": 156539,
+        "word": "新年快乐",
+        "onboard_time": 1738082248,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234453,
+        "num": 156534,
+        "word": "任敏差点成为下一个尼格买提",
+        "onboard_time": 1738125500,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231259,
+        "num": 156518,
+        "word": "哪吒",
+        "onboard_time": 1738117581,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 225128,
+        "num": 156495,
+        "word": "封神三部曲",
+        "onboard_time": 1738145179,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203899,
+        "num": 156488,
+        "word": "王一博一步一座山",
+        "onboard_time": 1738146140,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74042,
+        "num": 156468,
+        "word": "美军f35坠毁现场升腾起蘑菇云",
+        "onboard_time": 1738123700,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 71705,
+        "num": 156448,
+        "word": "女孩穿校服跳拉丁舞上央视",
+        "onboard_time": 1738140979,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71536,
+        "num": 156434,
+        "word": "美国海军禁用DeepSeek",
+        "onboard_time": 1738131320,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 66153,
+        "num": 156419,
+        "word": "正月初一过年好",
+        "onboard_time": 1738123280,
+        "rank": 47,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 65436,
+        "num": 156405,
+        "word": "武契奇用中文拜年",
+        "onboard_time": 1738143020,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 46992,
+        "num": 156391,
+        "word": "DeepSeek遭美国IP网攻暴力破解",
+        "onboard_time": 1738117581,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#在蛇年书写新的荣耀篇章#"
+    }
+  }
+}

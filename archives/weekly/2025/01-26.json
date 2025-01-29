@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738143396384,
+  "endTime": 1738146185940,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -563,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1420952,
+      "num": 1420952,
+      "word": "票房",
+      "onboard_time": 1738139658,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1415945,
       "num": 1212296,
       "word": "春意红包各有各的美",
@@ -713,14 +721,6 @@
       "onboard_time": 1738131678,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1148324,
-      "num": 1148324,
-      "word": "票房",
-      "onboard_time": 1738139658,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 1145044,
@@ -1459,6 +1459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 701688,
+      "num": 701688,
+      "word": "马丽 紫啧",
+      "onboard_time": 1738143978,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 699478,
       "num": 699478,
       "word": "无锡分会场 盛世繁华",
@@ -1659,6 +1667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 629387,
+      "num": 302774,
+      "word": "马丽回应甲状腺肿大",
+      "onboard_time": 1738145419,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 628093,
       "num": 628093,
       "word": "国色芳华亲爱的热爱的共创",
@@ -1793,6 +1809,14 @@
       "onboard_time": 1738089374,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 594879,
+      "num": 594879,
+      "word": "陈哲远锁骨骨折手术",
+      "onboard_time": 1738142719,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 594606,
@@ -2107,6 +2131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 517192,
+      "num": 227282,
+      "word": "射雕英雄传",
+      "onboard_time": 1738141340,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 515745,
       "num": 200571,
       "word": "Jasper在陈小春家学历最高",
@@ -2297,6 +2329,14 @@
       "onboard_time": 1737979458,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 487084,
+      "num": 184871,
+      "word": "春晚 女导演",
+      "onboard_time": 1738144819,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 486525,
@@ -2571,6 +2611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 445460,
+      "num": 176910,
+      "word": "春晚 不太会烧菜的爹妈",
+      "onboard_time": 1738144519,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 441618,
       "num": 441618,
       "word": "蛇年第一条微博",
@@ -2601,14 +2649,6 @@
       "onboard_time": 1738119860,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 434773,
-      "num": 227282,
-      "word": "射雕英雄传",
-      "onboard_time": 1738141340,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 434481,
@@ -3291,6 +3331,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 330126,
+      "num": 860951,
+      "word": "苏州蛇年小宝宝出生啦",
+      "onboard_time": 1738140438,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 329035,
       "num": 1195280,
       "word": "张艺兴开场硬帅",
@@ -3459,6 +3507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 311549,
+      "num": 156684,
+      "word": "0713春晚下班后去苏醒家聚餐",
+      "onboard_time": 1738143619,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 309094,
       "num": 309094,
       "word": "DeepSeek彻底爆发",
@@ -3555,14 +3611,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 299394,
-      "num": 860951,
-      "word": "苏州蛇年小宝宝出生啦",
-      "onboard_time": 1738140438,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 298405,
       "num": 298405,
       "word": "孙千春晚小手办",
@@ -3620,7 +3668,7 @@
     },
     {
       "raw_hot": 292720,
-      "num": 117219,
+      "num": 156665,
       "word": "宋雨琦手链好美",
       "onboard_time": 1738142899,
       "rank": 25,
@@ -4531,6 +4579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225128,
+      "num": 156495,
+      "word": "封神三部曲",
+      "onboard_time": 1738145179,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 224924,
       "num": 201086,
       "word": "金铲铲给柯洁疯狂刷礼物",
@@ -4561,6 +4617,14 @@
       "onboard_time": 1737892159,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222908,
+      "num": 226014,
+      "word": "山东人大年初一拜年磕头队伍数百米",
+      "onboard_time": 1738141038,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 222046,
@@ -5009,6 +5073,14 @@
       "onboard_time": 1737883757,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203899,
+      "num": 156488,
+      "word": "王一博一步一座山",
+      "onboard_time": 1738146140,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 203878,
@@ -5561,6 +5633,14 @@
       "onboard_time": 1737986057,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 185192,
+      "num": 185192,
+      "word": "睡梦中被戴上没舍得买的金手链",
+      "onboard_time": 1738143079,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 184328,
@@ -6219,14 +6299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 162762,
-      "num": 118290,
-      "word": "陈哲远锁骨骨折手术",
-      "onboard_time": 1738142719,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 162676,
       "num": 162676,
       "word": "安徽卫视回应春晚外卖小哥身份",
@@ -6481,6 +6553,14 @@
       "onboard_time": 1738135758,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 156786,
+      "num": 226814,
+      "word": "会长是女仆大人漫画新作",
+      "onboard_time": 1738140858,
+      "rank": 23,
+      "category": "动漫"
     },
     {
       "raw_hot": 156724,
@@ -7955,14 +8035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 121465,
-      "num": 226014,
-      "word": "山东人大年初一拜年磕头队伍数百米",
-      "onboard_time": 1738141038,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121324,
       "num": 214416,
       "word": "韩国失事客机事发前8分钟细节公布",
@@ -8113,14 +8185,6 @@
       "onboard_time": 1737868757,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 117239,
-      "num": 226814,
-      "word": "会长是女仆大人漫画新作",
-      "onboard_time": 1738140858,
-      "rank": 23,
-      "category": "动漫"
     },
     {
       "raw_hot": 117192,
@@ -8811,6 +8875,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 102625,
+      "num": 156638,
+      "word": "外国人过中国春节有多抽象",
+      "onboard_time": 1738141399,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 102473,
       "num": 102473,
       "word": "大奉打更人",
@@ -9427,14 +9499,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 90576,
-      "num": 103868,
-      "word": "睡梦中被戴上没舍得买的金手链",
-      "onboard_time": 1738143079,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90410,
       "num": 90410,
       "word": "韩济州航空空难诸多问题仍待解",
@@ -9537,6 +9601,14 @@
       "onboard_time": 1737894678,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87303,
+      "num": 180438,
+      "word": "姬发在水里更是帅到没边",
+      "onboard_time": 1738145419,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 87159,
@@ -9971,6 +10043,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 77800,
+      "num": 909700,
+      "word": "大年初一省服时装周",
+      "onboard_time": 1738143800,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77788,
       "num": 347320,
       "word": "留几手求网友放过李行亮",
@@ -10284,7 +10364,7 @@
     },
     {
       "raw_hot": 68815,
-      "num": 102188,
+      "num": 156405,
       "word": "武契奇用中文拜年",
       "onboard_time": 1738143020,
       "rank": 48,
@@ -11467,6 +11547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27062,
+      "num": 179128,
+      "word": "过年就要穿上新年战袍",
+      "onboard_time": 1738145840,
+      "rank": 19,
+      "category": "情感,民生新闻"
+    },
+    {
       "raw_hot": 26957,
       "num": 279072,
       "word": "柴安比萧蘅更像王星越",
@@ -11811,6 +11899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 20058,
+      "num": 735594,
+      "word": "来自文物的祝福",
+      "onboard_time": 1738144458,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19575,
       "num": 25244,
       "word": "曼城vs切尔西",
@@ -11873,6 +11969,14 @@
       "onboard_time": 1737903561,
       "rank": 35,
       "category": "体育,综艺"
+    },
+    {
+      "raw_hot": 18164,
+      "num": 156707,
+      "word": "女孩干电工曾扛100斤线爬20楼",
+      "onboard_time": 1738145238,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17804,
