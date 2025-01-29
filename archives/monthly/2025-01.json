@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738132994927,
+  "endTime": 1738135234703,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -4833,6 +4833,14 @@
       "onboard_time": 1736171844,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1161019,
+      "num": 498751,
+      "word": "全红婵发文说理智一点吧",
+      "onboard_time": 1738131678,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 1160038,
@@ -13563,6 +13571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 579300,
+      "num": 579300,
+      "word": "敖光 东海尤物",
+      "onboard_time": 1738130120,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 578083,
       "num": 578083,
       "word": "拜登疑在卡特葬礼上睡着",
@@ -14953,14 +14969,6 @@
       "onboard_time": 1736051129,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 526319,
-      "num": 526319,
-      "word": "敖光 东海尤物",
-      "onboard_time": 1738130120,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 525589,
@@ -17321,6 +17329,14 @@
       "onboard_time": 1735821261,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 462788,
+      "num": 462788,
+      "word": "美国正对DeepSeek开展国家安全调查",
+      "onboard_time": 1738133599,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 462719,
@@ -20587,14 +20603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 391359,
-      "num": 498751,
-      "word": "全红婵发文说理智一点吧",
-      "onboard_time": 1738131678,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 391249,
       "num": 391249,
       "word": "2025春节档预售不到一天超一亿",
@@ -21049,6 +21057,14 @@
       "onboard_time": 1738065449,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 383493,
+      "num": 544188,
+      "word": "美国海军禁用DeepSeek",
+      "onboard_time": 1738131320,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 383235,
@@ -25777,6 +25793,14 @@
       "onboard_time": 1737551118,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 310134,
+      "num": 310134,
+      "word": "魔术成功原因之一是刘谦力气大",
+      "onboard_time": 1738133897,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 310112,
@@ -36579,14 +36603,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 211952,
-      "num": 544188,
-      "word": "美国海军禁用DeepSeek",
-      "onboard_time": 1738131320,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 211913,
       "num": 315591,
       "word": "朱雨玲说乒乓球格局全变了",
@@ -37105,6 +37121,14 @@
       "onboard_time": 1736058628,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208693,
+      "num": 208693,
+      "word": "BLACKPINK个人唱片公司",
+      "onboard_time": 1738134139,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 208661,
@@ -45297,6 +45321,14 @@
       "onboard_time": 1737634398,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180787,
+      "num": 380189,
+      "word": "封神2邓婵玉没有官配",
+      "onboard_time": 1738133658,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 180743,
@@ -56219,6 +56251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146085,
+      "num": 146085,
+      "word": "姬发人设",
+      "onboard_time": 1738129760,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 146083,
       "num": 146083,
       "word": "斯瓦泰克vs凯斯",
@@ -61915,6 +61955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130723,
+      "num": 154000,
+      "word": "闲鱼买券反要求按原价AA",
+      "onboard_time": 1738133299,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130720,
       "num": 130720,
       "word": "丁禹兮给剧组工作人员发红包",
@@ -63185,6 +63233,14 @@
       "onboard_time": 1736652799,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126876,
+      "num": 126876,
+      "word": "铁甲小宝春节番外",
+      "onboard_time": 1738134499,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 126873,
@@ -72291,6 +72347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 101242,
+      "num": 225951,
+      "word": "印度大壶节突发踩踏致15死",
+      "onboard_time": 1738133778,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 101218,
       "num": 154528,
       "word": "12306回应春运出现几块钱车票",
@@ -73627,6 +73691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96262,
+      "num": 132674,
+      "word": "WTT新加坡大满贯",
+      "onboard_time": 1738133478,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96244,
       "num": 172040,
       "word": "央行行长回应人民币近期贬值情况",
@@ -74227,6 +74299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93846,
+      "num": 170474,
+      "word": "塞尔维亚总理辞职武契奇表态",
+      "onboard_time": 1738131618,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 93845,
       "num": 93845,
       "word": "留几手上脱口秀了",
@@ -74657,6 +74737,14 @@
       "onboard_time": 1736697620,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91578,
+      "num": 414236,
+      "word": "外卖小哥除夕一天挣800块",
+      "onboard_time": 1738133418,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91534,
@@ -75185,14 +75273,6 @@
       "onboard_time": 1735918998,
       "rank": 49,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 88697,
-      "num": 170474,
-      "word": "塞尔维亚总理辞职武契奇表态",
-      "onboard_time": 1738131618,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 88659,
@@ -79028,7 +79108,7 @@
     },
     {
       "raw_hot": 67693,
-      "num": 166402,
+      "num": 376284,
       "word": "2025春节假期天气地图",
       "onboard_time": 1738131320,
       "rank": 48,
@@ -82667,6 +82747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48727,
+      "num": 265573,
+      "word": "对弈竞猜",
+      "onboard_time": 1738133540,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 48618,
       "num": 213449,
       "word": "国产单机日子真的好起来了",
@@ -84740,7 +84828,7 @@
     },
     {
       "raw_hot": 38207,
-      "num": 171955,
+      "num": 379389,
       "word": "胡歌的新年推荐",
       "onboard_time": 1738132519,
       "rank": 43,
@@ -85041,6 +85129,14 @@
       "onboard_time": 1736147602,
       "rank": 13,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 37147,
+      "num": 209003,
+      "word": "70秒速览春节天气",
+      "onboard_time": 1738131499,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37122,
@@ -89017,6 +89113,14 @@
       "onboard_time": 1735817301,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22079,
+      "num": 223901,
+      "word": "北京推出超1600场精品演出",
+      "onboard_time": 1738134559,
+      "rank": 29,
+      "category": "正能量"
     },
     {
       "raw_hot": 22038,
