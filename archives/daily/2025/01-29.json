@@ -1,6 +1,6 @@
 {
   "startTime": 1738081671448,
-  "endTime": 1738149512772,
+  "endTime": 1738150557829,
   "band_list": [
     {
       "raw_hot": 10062879,
@@ -219,19 +219,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1261398,
+      "num": 897455,
+      "word": "春晚 女导演",
+      "onboard_time": 1738144819,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1204108,
       "num": 1204108,
       "word": "孙千腿好长",
       "onboard_time": 1738079079,
       "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1196153,
-      "num": 897455,
-      "word": "春晚 女导演",
-      "onboard_time": 1738144819,
-      "rank": 15,
       "category": "综艺"
     },
     {
@@ -403,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 761343,
+      "num": 274228,
+      "word": "全红婵家已增设安全围栏等设备",
+      "onboard_time": 1738148420,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 748679,
       "num": 878338,
       "word": "大年初一起床时间",
@@ -459,6 +467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 683846,
+      "num": 683846,
+      "word": "东方卫视春晚",
+      "onboard_time": 1738149980,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 677450,
       "num": 677450,
       "word": "沈马 背德",
@@ -499,6 +515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 634663,
+      "num": 634663,
+      "word": "嬷童降世",
+      "onboard_time": 1738149019,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 596382,
       "num": 596382,
       "word": "藕饼",
@@ -532,7 +556,7 @@
     },
     {
       "raw_hot": 582096,
-      "num": 333153,
+      "num": 531279,
       "word": "春晚 不太会烧菜的爹妈",
       "onboard_time": 1738144519,
       "rank": 21,
@@ -611,6 +635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 520390,
+      "num": 276256,
+      "word": "哪吒2打破国漫天花板",
+      "onboard_time": 1738147938,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 517192,
       "num": 331212,
       "word": "射雕英雄传",
@@ -657,6 +689,14 @@
       "onboard_time": 1738105815,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 474629,
+      "num": 258115,
+      "word": "北京台春晚",
+      "onboard_time": 1738149499,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 474226,
@@ -713,6 +753,14 @@
       "onboard_time": 1738133897,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 399933,
+      "num": 269055,
+      "word": "封神 伏地魔",
+      "onboard_time": 1738148300,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 388554,
@@ -779,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 352003,
+      "num": 267963,
+      "word": "沈腾回春",
+      "onboard_time": 1738145301,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 350997,
       "num": 350997,
       "word": "英伟达大涨近9%",
@@ -827,14 +883,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 322932,
-      "num": 276256,
-      "word": "哪吒2打破国漫天花板",
-      "onboard_time": 1738147938,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 315454,
       "num": 315454,
       "word": "娜然封神首映再现妲己花瓣妆",
@@ -867,6 +915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 296612,
+      "num": 221446,
+      "word": "哪吒票房",
+      "onboard_time": 1738149140,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 293163,
       "num": 276138,
       "word": "她1小时写完王菲新歌的词",
@@ -883,36 +939,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 290769,
-      "num": 274228,
-      "word": "全红婵家已增设安全围栏等设备",
-      "onboard_time": 1738148420,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 287668,
-      "num": 269928,
-      "word": "嬷童降世",
-      "onboard_time": 1738149019,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
       "raw_hot": 287289,
       "num": 476172,
       "word": "今年春晚印象最深的歌曲",
       "onboard_time": 1738136958,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 282647,
-      "num": 269055,
-      "word": "封神 伏地魔",
-      "onboard_time": 1738148300,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 277962,
@@ -952,14 +984,6 @@
       "word": "喻言加入天娱传媒",
       "onboard_time": 1738124299,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 267963,
-      "num": 267963,
-      "word": "沈腾回春",
-      "onboard_time": 1738145301,
-      "rank": 25,
       "category": "艺人"
     },
     {
@@ -1171,14 +1195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 221446,
-      "num": 221446,
-      "word": "哪吒票房",
-      "onboard_time": 1738149140,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
       "raw_hot": 218269,
       "num": 218269,
       "word": "金智秀签约华纳唱片",
@@ -1283,6 +1299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202404,
+      "num": 168447,
+      "word": "江苏卫视春晚",
+      "onboard_time": 1738150160,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202401,
       "num": 202401,
       "word": "宇树科技",
@@ -1329,6 +1353,14 @@
       "onboard_time": 1738074514,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194694,
+      "num": 168332,
+      "word": "周深春晚站位的含义",
+      "onboard_time": 1738149740,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 194271,
@@ -1593,6 +1625,14 @@
       "onboard_time": 1738081529,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157460,
+      "num": 278209,
+      "word": "3分钟看懂为什么DeepSeek能震惊世界",
+      "onboard_time": 1738148779,
+      "rank": 14,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 156848,
@@ -1891,6 +1931,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 102837,
+      "num": 939936,
+      "word": "大年初一省服时装周",
+      "onboard_time": 1738143800,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102625,
       "num": 228715,
       "word": "外国人过中国春节有多抽象",
@@ -1985,14 +2033,6 @@
       "onboard_time": 1738104134,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 88361,
-      "num": 939936,
-      "word": "大年初一省服时装周",
-      "onboard_time": 1738143800,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87303,
@@ -2211,14 +2251,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 47376,
-      "num": 278209,
-      "word": "3分钟看懂为什么DeepSeek能震惊世界",
-      "onboard_time": 1738148779,
-      "rank": 14,
-      "category": "互联网,数码"
-    },
-    {
       "raw_hot": 47211,
       "num": 55625,
       "word": "电子榨菜祝福语集锦",
@@ -2379,6 +2411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28825,
+      "num": 281183,
+      "word": "盛世如你我所愿",
+      "onboard_time": 1738149080,
+      "rank": 11,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 28629,
       "num": 28629,
       "word": "放鞭炮",
@@ -2515,14 +2555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16547,
-      "num": 281183,
-      "word": "盛世如你我所愿",
-      "onboard_time": 1738149080,
-      "rank": 11,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 14965,
       "num": 352689,
       "word": "福克斯申请交易",
@@ -2631,6 +2663,9 @@
     },
     {
       "word": "#在蛇年书写新的荣耀篇章#"
+    },
+    {
+      "word": "#跟着总书记一起感受传统年味#"
     }
   ]
 }

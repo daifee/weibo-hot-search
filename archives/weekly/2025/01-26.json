@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738149512772,
+  "endTime": 1738150557829,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -659,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1261398,
+      "num": 897455,
+      "word": "春晚 女导演",
+      "onboard_time": 1738144819,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1237966,
       "num": 1237966,
       "word": "女生花一个月工资给继父庆生",
@@ -712,14 +720,6 @@
       "word": "孙千腿好长",
       "onboard_time": 1738079079,
       "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1196153,
-      "num": 897455,
-      "word": "春晚 女导演",
-      "onboard_time": 1738144819,
-      "rank": 15,
       "category": "综艺"
     },
     {
@@ -1347,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 761343,
+      "num": 274228,
+      "word": "全红婵家已增设安全围栏等设备",
+      "onboard_time": 1738148420,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 761138,
       "num": 256792,
       "word": "谢娜曾批张大大迷之自信",
@@ -1563,6 +1571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 683846,
+      "num": 683846,
+      "word": "东方卫视春晚",
+      "onboard_time": 1738149980,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 677450,
       "num": 677450,
       "word": "沈马 背德",
@@ -1681,6 +1697,14 @@
       "onboard_time": 1737960976,
       "rank": 20,
       "category": "网红"
+    },
+    {
+      "raw_hot": 634663,
+      "num": 634663,
+      "word": "嬷童降世",
+      "onboard_time": 1738149019,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 634456,
@@ -1892,7 +1916,7 @@
     },
     {
       "raw_hot": 582096,
-      "num": 333153,
+      "num": 531279,
       "word": "春晚 不太会烧菜的爹妈",
       "onboard_time": 1738144519,
       "rank": 21,
@@ -2153,6 +2177,14 @@
       "onboard_time": 1737971297,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 520390,
+      "num": 276256,
+      "word": "哪吒2打破国漫天花板",
+      "onboard_time": 1738147938,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 517192,
@@ -2465,6 +2497,14 @@
       "onboard_time": 1737956296,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 474629,
+      "num": 343578,
+      "word": "北京台春晚",
+      "onboard_time": 1737885679,
+      "rank": 2,
+      "category": "综艺"
     },
     {
       "raw_hot": 474226,
@@ -2809,6 +2849,14 @@
       "onboard_time": 1737888379,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 399933,
+      "num": 269055,
+      "word": "封神 伏地魔",
+      "onboard_time": 1738148300,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 399366,
@@ -3179,6 +3227,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 352003,
+      "num": 267963,
+      "word": "沈腾回春",
+      "onboard_time": 1738145301,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 351363,
       "num": 179709,
       "word": "时代少年团央视春晚有两个节目",
@@ -3443,14 +3499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 322932,
-      "num": 276256,
-      "word": "哪吒2打破国漫天花板",
-      "onboard_time": 1738147938,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 322725,
       "num": 244766,
       "word": "权志龙的外套是郑亨敦在市场买的",
@@ -3643,6 +3691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 296612,
+      "num": 221446,
+      "word": "哪吒票房",
+      "onboard_time": 1738149140,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 295389,
       "num": 295389,
       "word": "明天除夕",
@@ -3707,14 +3763,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 290769,
-      "num": 274228,
-      "word": "全红婵家已增设安全围栏等设备",
-      "onboard_time": 1738148420,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 289048,
       "num": 289048,
       "word": "鲜活帝王蟹价格跌破千元",
@@ -3753,14 +3801,6 @@
       "onboard_time": 1738025836,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 287668,
-      "num": 269928,
-      "word": "嬷童降世",
-      "onboard_time": 1738149019,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 287302,
@@ -3825,14 +3865,6 @@
       "onboard_time": 1738022474,
       "rank": 5,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 282647,
-      "num": 269055,
-      "word": "封神 伏地魔",
-      "onboard_time": 1738148300,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 282316,
@@ -3984,14 +4016,6 @@
       "word": "喻言加入天娱传媒",
       "onboard_time": 1738124299,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 267963,
-      "num": 267963,
-      "word": "沈腾回春",
-      "onboard_time": 1738145301,
-      "rank": 25,
       "category": "艺人"
     },
     {
@@ -4707,14 +4731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 221446,
-      "num": 221446,
-      "word": "哪吒票房",
-      "onboard_time": 1738149140,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
       "raw_hot": 221402,
       "num": 221402,
       "word": "重庆一对新人结婚仅隔一面墙接亲",
@@ -5187,6 +5203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202404,
+      "num": 168447,
+      "word": "江苏卫视春晚",
+      "onboard_time": 1738150160,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202401,
       "num": 202401,
       "word": "宇树科技",
@@ -5417,6 +5441,14 @@
       "onboard_time": 1738034297,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194694,
+      "num": 168332,
+      "word": "周深春晚站位的含义",
+      "onboard_time": 1738149740,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 194271,
@@ -6585,6 +6617,14 @@
       "onboard_time": 1737973877,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157460,
+      "num": 278209,
+      "word": "3分钟看懂为什么DeepSeek能震惊世界",
+      "onboard_time": 1738148779,
+      "rank": 14,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 157372,
@@ -8971,6 +9011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102837,
+      "num": 939936,
+      "word": "大年初一省服时装周",
+      "onboard_time": 1738143800,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102812,
       "num": 102812,
       "word": "无忧传媒坚决反对一切职场霸凌",
@@ -9691,14 +9739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 88361,
-      "num": 939936,
-      "word": "大年初一省服时装周",
-      "onboard_time": 1738143800,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88292,
       "num": 88292,
       "word": "NBA升级卢尼一级恶意犯规",
@@ -10072,14 +10112,6 @@
       "word": "巳升升耍了一下杂技",
       "onboard_time": 1737950537,
       "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 80059,
-      "num": 343578,
-      "word": "北京台春晚",
-      "onboard_time": 1737885679,
-      "rank": 2,
       "category": "综艺"
     },
     {
@@ -11075,14 +11107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 47376,
-      "num": 278209,
-      "word": "3分钟看懂为什么DeepSeek能震惊世界",
-      "onboard_time": 1738148779,
-      "rank": 14,
-      "category": "互联网,数码"
-    },
-    {
       "raw_hot": 47321,
       "num": 1022009,
       "word": "一家人都要过上好日子",
@@ -11611,6 +11635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28825,
+      "num": 281183,
+      "word": "盛世如你我所愿",
+      "onboard_time": 1738149080,
+      "rank": 11,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 28780,
       "num": 201617,
       "word": "泽连斯基澄清美国对乌军援未停止",
@@ -12131,14 +12163,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16547,
-      "num": 281183,
-      "word": "盛世如你我所愿",
-      "onboard_time": 1738149080,
-      "rank": 11,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 16393,
       "num": 16796,
       "word": "时光代理人",
@@ -12492,6 +12516,9 @@
     },
     {
       "word": "#在蛇年书写新的荣耀篇章#"
+    },
+    {
+      "word": "#跟着总书记一起感受传统年味#"
     }
   ]
 }
