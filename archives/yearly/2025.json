@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738128070690,
+  "endTime": 1738129095412,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1451,6 +1451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2174149,
+      "num": 2174149,
+      "word": "马丽 甲状腺",
+      "onboard_time": 1738128082,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2166099,
       "num": 2166099,
       "word": "杨子黄圣依彻底分开了",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736475198,
       "rank": 1,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 1717034,
-      "num": 448486,
-      "word": "潘宏曾说母狗死后会卖狗肉车",
-      "onboard_time": 1737362118,
-      "rank": 27,
-      "category": "网红"
     }
   ],
   "hotgov_list": [

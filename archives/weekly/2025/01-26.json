@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738128070690,
+  "endTime": 1738129095412,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -337,6 +337,14 @@
       "onboard_time": 1738071644,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2174149,
+      "num": 2174149,
+      "word": "马丽 甲状腺",
+      "onboard_time": 1738128082,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 2163560,
@@ -1009,6 +1017,14 @@
       "onboard_time": 1737895819,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 915442,
+      "num": 483685,
+      "word": "张雨绮刘子琪分手",
+      "onboard_time": 1738126880,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 911735,
@@ -2203,14 +2219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 483591,
-      "num": 483591,
-      "word": "张雨绮刘子琪分手",
-      "onboard_time": 1738126880,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 483585,
       "num": 483585,
       "word": "宋佳只有高跟鞋不是红色",
@@ -3139,6 +3147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 328711,
+      "num": 328711,
+      "word": "殷郊法相",
+      "onboard_time": 1738127058,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 328046,
       "num": 328046,
       "word": "一句我是警察安全感满满",
@@ -3387,6 +3403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 297523,
+      "num": 783261,
+      "word": "蛇宝宝出生",
+      "onboard_time": 1738127960,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 295389,
       "num": 295389,
       "word": "明天除夕",
@@ -3441,6 +3465,14 @@
       "onboard_time": 1737869177,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 290536,
+      "num": 254238,
+      "word": "1分钟我要知道邓婵玉全部信息",
+      "onboard_time": 1738127600,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 289048,
@@ -3633,14 +3665,6 @@
       "onboard_time": 1738080086,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 274190,
-      "num": 274190,
-      "word": "殷郊法相",
-      "onboard_time": 1738127058,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 273005,
@@ -3843,12 +3867,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 255335,
+      "num": 484785,
+      "word": "射雕主创空降陪观众看第一场电影",
+      "onboard_time": 1738127600,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 255258,
       "num": 243573,
       "word": "蛇年拜年文案",
       "onboard_time": 1737996137,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 255006,
+      "num": 485128,
+      "word": "大年初一福气满满",
+      "onboard_time": 1738127840,
+      "rank": 26,
+      "category": "正能量"
     },
     {
       "raw_hot": 253609,
@@ -4643,14 +4683,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 205451,
-      "num": 205451,
-      "word": "1分钟我要知道邓婵玉全部信息",
-      "onboard_time": 1738127600,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 205252,
       "num": 205252,
       "word": "射雕英雄传预售仍断层领先",
@@ -5443,6 +5475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176873,
+      "num": 176873,
+      "word": "王菲双手合十",
+      "onboard_time": 1738125260,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176575,
       "num": 176575,
       "word": "仙台有树",
@@ -5499,14 +5539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 174660,
-      "num": 174660,
-      "word": "王菲双手合十",
-      "onboard_time": 1738125260,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 174047,
       "num": 1330180,
       "word": "过年聚会别一不小心透露工作秘密",
@@ -5537,6 +5569,14 @@
       "onboard_time": 1737967336,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173148,
+      "num": 173148,
+      "word": "南方人不看春晚",
+      "onboard_time": 1738127900,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 172876,
@@ -5785,14 +5825,6 @@
       "onboard_time": 1738126400,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 164652,
-      "num": 164652,
-      "word": "南方人不看春晚",
-      "onboard_time": 1738127900,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 164624,
@@ -6627,6 +6659,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 141306,
+      "num": 141306,
+      "word": "封神彩蛋",
+      "onboard_time": 1738127300,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 141303,
       "num": 141303,
       "word": "杨紫李现互戴头盔",
@@ -6761,14 +6801,6 @@
       "onboard_time": 1737881538,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 138147,
-      "num": 484785,
-      "word": "射雕主创空降陪观众看第一场电影",
-      "onboard_time": 1738127600,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 137980,
@@ -7083,6 +7115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131872,
+      "num": 226114,
+      "word": "白宇不语只是一味的吃面",
+      "onboard_time": 1738128560,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131667,
       "num": 131667,
       "word": "马斯克评论了两条帖子",
@@ -7188,7 +7228,7 @@
     },
     {
       "raw_hot": 127769,
-      "num": 219608,
+      "num": 222337,
       "word": "非遗春节大拜年",
       "onboard_time": 1737836293,
       "rank": 30,
@@ -7281,14 +7321,6 @@
       "onboard_time": 1738028236,
       "rank": 25,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 126274,
-      "num": 373056,
-      "word": "大年初一福气满满",
-      "onboard_time": 1738127840,
-      "rank": 26,
-      "category": "正能量"
     },
     {
       "raw_hot": 126141,
@@ -8699,14 +8731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 95898,
-      "num": 160031,
-      "word": "蛇宝宝出生",
-      "onboard_time": 1738127960,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 95885,
       "num": 95885,
       "word": "养了两年的猫咪突然攻击人",
@@ -8908,7 +8932,7 @@
     },
     {
       "raw_hot": 90994,
-      "num": 137961,
+      "num": 226380,
       "word": "布朗尼第一节就上了",
       "onboard_time": 1738125500,
       "rank": 48,
@@ -9939,6 +9963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 61849,
+      "num": 333183,
+      "word": "刘晓庆是第一个春晚同款带货女王",
+      "onboard_time": 1738125560,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 61777,
       "num": 168919,
       "word": "刘宇与粉丝双向奔赴MV",
@@ -10209,14 +10241,6 @@
       "onboard_time": 1737828373,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 52674,
-      "num": 333183,
-      "word": "刘晓庆是第一个春晚同款带货女王",
-      "onboard_time": 1738125560,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 52671,
@@ -10491,6 +10515,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 39679,
+      "num": 463498,
+      "word": "淘宝被春晚明星同款霸屏了",
+      "onboard_time": 1738125680,
+      "rank": 19,
+      "category": "综艺,互联网"
+    },
+    {
       "raw_hot": 39540,
       "num": 39536,
       "word": "分会场好震撼",
@@ -10609,14 +10641,6 @@
       "onboard_time": 1737961516,
       "rank": 14,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 37275,
-      "num": 463498,
-      "word": "淘宝被春晚明星同款霸屏了",
-      "onboard_time": 1738125680,
-      "rank": 19,
-      "category": "综艺,互联网"
     },
     {
       "raw_hot": 37122,
@@ -10868,7 +10892,7 @@
     },
     {
       "raw_hot": 27896,
-      "num": 1180774,
+      "num": 1227527,
       "word": "文化中国行共庆首个非遗春节",
       "onboard_time": 1738108577,
       "rank": 2,

@@ -1,6 +1,6 @@
 {
   "startTime": 1738081671448,
-  "endTime": 1738128070690,
+  "endTime": 1738129095412,
   "band_list": [
     {
       "raw_hot": 10062879,
@@ -89,6 +89,14 @@
       "onboard_time": 1738072834,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2174149,
+      "num": 2174149,
+      "word": "马丽 甲状腺",
+      "onboard_time": 1738128082,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 2163560,
@@ -249,6 +257,14 @@
       "onboard_time": 1738112720,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 915442,
+      "num": 483685,
+      "word": "张雨绮刘子琪分手",
+      "onboard_time": 1738126880,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 902721,
@@ -467,14 +483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 483591,
-      "num": 483591,
-      "word": "张雨绮刘子琪分手",
-      "onboard_time": 1738126880,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 482988,
       "num": 482988,
       "word": "把艾伦还给沈腾马丽",
@@ -595,6 +603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 328711,
+      "num": 328711,
+      "word": "殷郊法相",
+      "onboard_time": 1738127058,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 315280,
       "num": 309511,
       "word": "欢天喜地七帅哥",
@@ -611,12 +627,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 297523,
+      "num": 783261,
+      "word": "蛇宝宝出生",
+      "onboard_time": 1738127960,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 293163,
       "num": 276138,
       "word": "她1小时写完王菲新歌的词",
       "onboard_time": 1738106295,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 290536,
+      "num": 254238,
+      "word": "1分钟我要知道邓婵玉全部信息",
+      "onboard_time": 1738127600,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 277954,
@@ -633,14 +665,6 @@
       "onboard_time": 1738080086,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 274190,
-      "num": 274190,
-      "word": "殷郊法相",
-      "onboard_time": 1738127058,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 268688,
@@ -665,6 +689,22 @@
       "onboard_time": 1738075178,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 255335,
+      "num": 484785,
+      "word": "射雕主创空降陪观众看第一场电影",
+      "onboard_time": 1738127600,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 255006,
+      "num": 485128,
+      "word": "大年初一福气满满",
+      "onboard_time": 1738127840,
+      "rank": 26,
+      "category": "正能量"
     },
     {
       "raw_hot": 251020,
@@ -827,14 +867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205451,
-      "num": 205451,
-      "word": "1分钟我要知道邓婵玉全部信息",
-      "onboard_time": 1738127600,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 202714,
       "num": 1373070,
       "word": "张智霖陈小春周柏豪同台",
@@ -971,8 +1003,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 174660,
-      "num": 174660,
+      "raw_hot": 176873,
+      "num": 176873,
       "word": "王菲双手合十",
       "onboard_time": 1738125260,
       "rank": 44,
@@ -984,6 +1016,14 @@
       "word": "肖战北京台春晚首唱灯塔",
       "onboard_time": 1738123880,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 173148,
+      "num": 173148,
+      "word": "南方人不看春晚",
+      "onboard_time": 1738127900,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -1017,14 +1057,6 @@
       "onboard_time": 1738126400,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 164652,
-      "num": 164652,
-      "word": "南方人不看春晚",
-      "onboard_time": 1738127900,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 162137,
@@ -1099,6 +1131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141306,
+      "num": 141306,
+      "word": "封神彩蛋",
+      "onboard_time": 1738127300,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 141237,
       "num": 150704,
       "word": "妥妥的",
@@ -1113,14 +1153,6 @@
       "onboard_time": 1738123280,
       "rank": 9,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 138147,
-      "num": 484785,
-      "word": "射雕主创空降陪观众看第一场电影",
-      "onboard_time": 1738127600,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 136074,
@@ -1147,6 +1179,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 131872,
+      "num": 226114,
+      "word": "白宇不语只是一味的吃面",
+      "onboard_time": 1738128560,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129144,
       "num": 897009,
       "word": "蛇年送你长长长长长祝福",
@@ -1164,18 +1204,10 @@
     },
     {
       "raw_hot": 127769,
-      "num": 219608,
+      "num": 222337,
       "word": "非遗春节大拜年",
       "onboard_time": 1738117820,
       "rank": 45,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 126274,
-      "num": 373056,
-      "word": "大年初一福气满满",
-      "onboard_time": 1738127840,
-      "rank": 26,
       "category": "正能量"
     },
     {
@@ -1259,14 +1291,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 95898,
-      "num": 160031,
-      "word": "蛇宝宝出生",
-      "onboard_time": 1738127960,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 95392,
       "num": 95392,
       "word": "英伟达一夜跌掉2个半茅台",
@@ -1300,7 +1324,7 @@
     },
     {
       "raw_hot": 90994,
-      "num": 137961,
+      "num": 226380,
       "word": "布朗尼第一节就上了",
       "onboard_time": 1738125500,
       "rank": 48,
@@ -1419,6 +1443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 61849,
+      "num": 333183,
+      "word": "刘晓庆是第一个春晚同款带货女王",
+      "onboard_time": 1738125560,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 59976,
       "num": 219498,
       "word": "广东擀面杖都用来跳英歌舞了",
@@ -1449,14 +1481,6 @@
       "onboard_time": 1738090692,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 52674,
-      "num": 333183,
-      "word": "刘晓庆是第一个春晚同款带货女王",
-      "onboard_time": 1738125560,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 50221,
@@ -1499,6 +1523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39679,
+      "num": 463498,
+      "word": "淘宝被春晚明星同款霸屏了",
+      "onboard_time": 1738125680,
+      "rank": 19,
+      "category": "综艺,互联网"
+    },
+    {
       "raw_hot": 39540,
       "num": 39536,
       "word": "分会场好震撼",
@@ -1529,14 +1561,6 @@
       "onboard_time": 1738102812,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 37275,
-      "num": 463498,
-      "word": "淘宝被春晚明星同款霸屏了",
-      "onboard_time": 1738125680,
-      "rank": 19,
-      "category": "综艺,互联网"
     },
     {
       "raw_hot": 35797,
@@ -1596,7 +1620,7 @@
     },
     {
       "raw_hot": 27896,
-      "num": 1180774,
+      "num": 1227527,
       "word": "文化中国行共庆首个非遗春节",
       "onboard_time": 1738108577,
       "rank": 2,
