@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738186538638,
+  "endTime": 1738189278205,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -11084,7 +11084,7 @@
     },
     {
       "raw_hot": 71635,
-      "num": 124701,
+      "num": 210843,
       "word": "南苏丹一架飞机坠毁18人死亡",
       "onboard_time": 1738166777,
       "rank": 46,
@@ -12987,6 +12987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 17822,
+      "num": 22961,
+      "word": "欧冠春晚今夜上演",
+      "onboard_time": 1738184291,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 17804,
       "num": 52610,
       "word": "山东舰00后女兵是飞行员另一双眼睛",
@@ -13019,12 +13027,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16436,
+      "num": 16436,
+      "word": "北京台小品",
+      "onboard_time": 1738182431,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 16393,
       "num": 16796,
       "word": "时光代理人",
       "onboard_time": 1737918671,
       "rank": 45,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 16103,
+      "num": 16103,
+      "word": "黄轩女友夸蒋璐霞非常酷",
+      "onboard_time": 1738189032,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 15640,
@@ -13059,6 +13083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 14910,
+      "num": 16176,
+      "word": "萌兰硬控无敌年味仪式感",
+      "onboard_time": 1738180871,
+      "rank": 34,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 14804,
       "num": 254575,
       "word": "辛芷蕾的年终总结",
@@ -13091,27 +13123,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 14279,
-      "num": 15607,
-      "word": "欧冠春晚今夜上演",
-      "onboard_time": 1738184291,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 14082,
-      "num": 16084,
-      "word": "萌兰硬控无敌年味仪式感",
-      "onboard_time": 1738180871,
-      "rank": 34,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 13609,
-      "num": 15573,
-      "word": "北京台小品",
-      "onboard_time": 1738182431,
-      "rank": 46,
+      "raw_hot": 13746,
+      "num": 14682,
+      "word": "王一博用攀登比喻进步",
+      "onboard_time": 1738188071,
+      "rank": 47,
       "category": "综艺"
     },
     {
