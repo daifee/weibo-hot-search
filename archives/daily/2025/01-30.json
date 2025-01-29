@@ -1,6 +1,6 @@
 {
   "startTime": 1738168091636,
-  "endTime": 1738168091636,
+  "endTime": 1738168941031,
   "band_list": [
     {
       "raw_hot": 1259141,
@@ -51,8 +51,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 444938,
-      "num": 444938,
+      "raw_hot": 458157,
+      "num": 458157,
       "word": "看完唐探1900的我belike",
       "onboard_time": 1738151421,
       "rank": 6,
@@ -107,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 283871,
+      "num": 283871,
+      "word": "杨幂 大年初一 拜年啦",
+      "onboard_time": 1738165937,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 265551,
       "num": 110628,
       "word": "云南一美人鱼表演者突遭鲟鱼咬头",
@@ -123,8 +131,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 238705,
+      "num": 124534,
+      "word": "殷郊 阿凡达",
+      "onboard_time": 1738166719,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 234233,
-      "num": 494378,
+      "num": 564586,
       "word": "孙颖莎 给大家拜年啦",
       "onboard_time": 1738161561,
       "rank": 5,
@@ -137,14 +153,6 @@
       "onboard_time": 1738146559,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 210119,
-      "num": 210119,
-      "word": "杨幂 大年初一 拜年啦",
-      "onboard_time": 1738165937,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 187661,
@@ -169,14 +177,6 @@
       "onboard_time": 1738161801,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 173438,
-      "num": 111640,
-      "word": "殷郊 阿凡达",
-      "onboard_time": 1738166719,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 160815,
@@ -227,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137804,
+      "num": 109994,
+      "word": "日常见肖战",
+      "onboard_time": 1738167497,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137045,
       "num": 110701,
       "word": "赵雅芝 蛇年最忙",
@@ -243,20 +251,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 130885,
-      "num": 109994,
-      "word": "日常见肖战",
-      "onboard_time": 1738167497,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 127789,
       "num": 109863,
       "word": "邓婵玉 没有男人配得上",
       "onboard_time": 1738151121,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 119819,
+      "num": 152141,
+      "word": "张博恒3年后再次回家过年",
+      "onboard_time": 1738163303,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 114626,
@@ -291,12 +299,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 103267,
-      "num": 152141,
-      "word": "张博恒3年后再次回家过年",
-      "onboard_time": 1738163303,
-      "rank": 19,
-      "category": "体育"
+      "raw_hot": 96417,
+      "num": 424575,
+      "word": "美议员警告别被特朗普离职补贴骗了",
+      "onboard_time": 1738166118,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 90383,
@@ -315,12 +323,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81745,
+      "num": 81745,
+      "word": "邓婵玉能不能复活",
+      "onboard_time": 1738166597,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 71635,
+      "num": 90416,
+      "word": "南苏丹一架飞机坠毁18人死亡",
+      "onboard_time": 1738166777,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 71136,
       "num": 111726,
       "word": "广州烟花",
       "onboard_time": 1738151962,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65006,
+      "num": 80962,
+      "word": "哪吒 又温情又热血",
+      "onboard_time": 1738168636,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 62044,
+      "num": 80889,
+      "word": "人形机器人失误是有意为之",
+      "onboard_time": 1738139177,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 60022,
@@ -337,14 +377,6 @@
       "onboard_time": 1738161921,
       "rank": 38,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 59008,
-      "num": 424575,
-      "word": "美议员警告别被特朗普离职补贴骗了",
-      "onboard_time": 1738166118,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 58338,
@@ -371,15 +403,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 49227,
-      "num": 90050,
-      "word": "南苏丹一架飞机坠毁18人死亡",
-      "onboard_time": 1738166777,
-      "rank": 46,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 44183,
+      "raw_hot": 48260,
       "num": 89841,
       "word": "景区回应美人鱼表演者遭鲟鱼袭击",
       "onboard_time": 1738166418,
