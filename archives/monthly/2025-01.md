@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/29 10:56:49
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/29 11:24:14
 </p>
 </blockquote>
 <p>
@@ -1643,6 +1643,12 @@ DeepSeek（热度：1844246）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8F%A0%E6%B5%B7%E9%A9%BE%E8%BD%A6%E6%92%9E%E4%BA%BA%E6%A1%88%E7%BD%AA%E7%8A%AF%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
 珠海驾车撞人案罪犯被执行死刑（热度：1807619）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E6%80%BB%E5%AF%BC%E6%BC%94%E5%9B%9E%E5%BA%94%E9%82%93%E8%B6%85%E7%BC%BA%E5%B8%AD%23" target="weibo">
+春晚总导演回应邓超缺席（热度：1807549）
 </a>
 </li>
 
@@ -4659,12 +4665,6 @@ D3014次列车因撞鸟临时停车（热度：1020662）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E6%80%BB%E5%AF%BC%E6%BC%94%E5%9B%9E%E5%BA%94%E9%82%93%E8%B6%85%E7%BC%BA%E5%B8%AD%23" target="weibo">
-春晚总导演回应邓超缺席（热度：997788）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%96%80%E5%88%99%E5%9C%B0%E9%9C%87%E5%90%8E%E7%AC%AC3%E5%A4%A9%23" target="weibo">
 日喀则地震后第3天（热度：996924）
 </a>
@@ -5907,14 +5907,14 @@ R1SE舞台（热度：868936）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E6%B2%A7%E5%B7%9E3.4%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
-河北沧州3.4级地震（热度：866002）
+<a href="https://s.weibo.com/weibo?q=%23DeepSeek%E9%81%AD%E7%BE%8E%E5%9B%BDIP%E7%BD%91%E6%94%BB%E6%9A%B4%E5%8A%9B%E7%A0%B4%E8%A7%A3%23" target="weibo">
+DeepSeek遭美国IP网攻暴力破解（热度：866833）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23DeepSeek%E9%81%AD%E7%BE%8E%E5%9B%BDIP%E7%BD%91%E6%94%BB%E6%9A%B4%E5%8A%9B%E7%A0%B4%E8%A7%A3%23" target="weibo">
-DeepSeek遭美国IP网攻暴力破解（热度：865944）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E6%B2%A7%E5%B7%9E3.4%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
+河北沧州3.4级地震（热度：866002）
 </a>
 </li>
 

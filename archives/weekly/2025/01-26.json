@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738119409198,
+  "endTime": 1738121054060,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -411,6 +411,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1807549,
+      "num": 1807549,
+      "word": "春晚总导演回应邓超缺席",
+      "onboard_time": 1738118901,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1792033,
       "num": 1792033,
       "word": "陈伟霆张艺兴苏有朋 好帅",
@@ -596,7 +604,7 @@
     },
     {
       "raw_hot": 1295246,
-      "num": 505730,
+      "num": 563559,
       "word": "Angelababy发和儿子合照",
       "onboard_time": 1738115781,
       "rank": 10,
@@ -851,14 +859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 997788,
-      "num": 492293,
-      "word": "春晚总导演回应邓超缺席",
-      "onboard_time": 1738118901,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 995735,
       "num": 995735,
       "word": "陈哲远 直拍来了",
@@ -1051,8 +1051,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 865944,
-      "num": 865944,
+      "raw_hot": 866833,
+      "num": 866833,
       "word": "DeepSeek遭美国IP网攻暴力破解",
       "onboard_time": 1738117581,
       "rank": 3,
@@ -1129,6 +1129,14 @@
       "onboard_time": 1738033877,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 833048,
+      "num": 833048,
+      "word": "春节档票房",
+      "onboard_time": 1738117581,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 832654,
@@ -1236,7 +1244,7 @@
     },
     {
       "raw_hot": 748679,
-      "num": 748679,
+      "num": 878338,
       "word": "大年初一起床时间",
       "onboard_time": 1738114401,
       "rank": 49,
@@ -1425,6 +1433,14 @@
       "onboard_time": 1738065391,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 665525,
+      "num": 665525,
+      "word": "哪吒",
+      "onboard_time": 1738117581,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 665033,
@@ -1939,14 +1955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 511521,
-      "num": 511521,
-      "word": "春节档票房",
-      "onboard_time": 1738117581,
-      "rank": 8,
-      "category": "电影"
-    },
-    {
       "raw_hot": 510866,
       "num": 1064310,
       "word": "中央领导同志看望老同志",
@@ -2099,6 +2107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 485980,
+      "num": 485980,
+      "word": "唐探1900",
+      "onboard_time": 1738115899,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 485891,
       "num": 485891,
       "word": "外交部回应是否接回在美非法中国移民",
@@ -2201,14 +2217,6 @@
       "onboard_time": 1737847454,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 472104,
-      "num": 472104,
-      "word": "哪吒",
-      "onboard_time": 1738117581,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 470422,
@@ -2515,6 +2523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 401678,
+      "num": 301816,
+      "word": "陈哲远一天涨粉350万",
+      "onboard_time": 1738120401,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 399366,
       "num": 399366,
       "word": "李现晒国色芳华大婚胶片记忆",
@@ -2537,6 +2553,14 @@
       "onboard_time": 1737890058,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 396904,
+      "num": 396904,
+      "word": "射雕",
+      "onboard_time": 1738105815,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 394434,
@@ -2809,6 +2833,14 @@
       "onboard_time": 1737867798,
       "rank": 9,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 362888,
+      "num": 362888,
+      "word": "沈马 背德",
+      "onboard_time": 1738119860,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 360105,
@@ -3195,14 +3227,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 305656,
-      "num": 305656,
-      "word": "唐探1900",
-      "onboard_time": 1738115899,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 305395,
       "num": 231107,
       "word": "邓为新剧定档",
@@ -3529,14 +3553,6 @@
       "onboard_time": 1737895158,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 272122,
-      "num": 272122,
-      "word": "射雕",
-      "onboard_time": 1738105815,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 271196,
@@ -3931,6 +3947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238958,
+      "num": 238958,
+      "word": "封神",
+      "onboard_time": 1738112420,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 238957,
       "num": 238957,
       "word": "姚晨说杨丽萍蛇舞是极致东方美学",
@@ -3985,6 +4009,14 @@
       "onboard_time": 1737938477,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 234474,
+      "num": 234474,
+      "word": "机器人是被舞蹈演员押下去",
+      "onboard_time": 1738112420,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 234254,
@@ -4227,6 +4259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218269,
+      "num": 218269,
+      "word": "金智秀签约华纳唱片",
+      "onboard_time": 1738120640,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218042,
       "num": 218042,
       "word": "孟子义除夕快乐呀",
@@ -4273,6 +4313,14 @@
       "onboard_time": 1738021455,
       "rank": 13,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 215652,
+      "num": 215652,
+      "word": "郁可唯新歌零点压轴的含金量",
+      "onboard_time": 1738120281,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 215512,
@@ -4667,14 +4715,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 197924,
-      "num": 197924,
-      "word": "机器人是被舞蹈演员押下去",
-      "onboard_time": 1738112420,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 197261,
       "num": 197261,
       "word": "杨紫李现愤怒的小鸟真人版",
@@ -4753,6 +4793,14 @@
       "onboard_time": 1738034297,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194655,
+      "num": 194655,
+      "word": "沈腾凭什么演马丽女婿",
+      "onboard_time": 1738120339,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 194271,
@@ -4905,6 +4953,14 @@
       "onboard_time": 1737988458,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189294,
+      "num": 189294,
+      "word": "走亲戚",
+      "onboard_time": 1738120221,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 189285,
@@ -5123,14 +5179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 179901,
-      "num": 179901,
-      "word": "封神",
-      "onboard_time": 1738112420,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
       "raw_hot": 179795,
       "num": 652863,
       "word": "DeepSeek暂时限制部分注册",
@@ -5153,6 +5201,14 @@
       "onboard_time": 1737996256,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178701,
+      "num": 178701,
+      "word": "程潇跟宋雨琦站一起拜年",
+      "onboard_time": 1738120339,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 178605,
@@ -6827,6 +6883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128673,
+      "num": 128673,
+      "word": "邓超out",
+      "onboard_time": 1738120821,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128627,
       "num": 128627,
       "word": "非遗春节好像一个绚烂的万花筒",
@@ -6849,6 +6913,14 @@
       "onboard_time": 1738109599,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127769,
+      "num": 219608,
+      "word": "非遗春节大拜年",
+      "onboard_time": 1737836293,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127689,
@@ -7057,14 +7129,6 @@
       "onboard_time": 1738039037,
       "rank": 42,
       "category": "美食"
-    },
-    {
-      "raw_hot": 124541,
-      "num": 176683,
-      "word": "非遗春节大拜年",
-      "onboard_time": 1737836293,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124511,
@@ -7321,6 +7385,14 @@
       "onboard_time": 1738034357,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117135,
+      "num": 581618,
+      "word": "2025过年进行时",
+      "onboard_time": 1738120339,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 116878,
@@ -10139,6 +10211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 38067,
+      "num": 219034,
+      "word": "蒋奇明情绪张力",
+      "onboard_time": 1738118180,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 37971,
       "num": 153485,
       "word": "为何北京城区降雪偏弱",
@@ -10241,14 +10321,6 @@
       "onboard_time": 1737883038,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 33812,
-      "num": 219034,
-      "word": "蒋奇明情绪张力",
-      "onboard_time": 1738118180,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 33741,

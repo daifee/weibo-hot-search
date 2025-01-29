@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738119409198,
+  "endTime": 1738121054060,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -2179,6 +2179,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 1807549,
+      "num": 1807549,
+      "word": "春晚总导演回应邓超缺席",
+      "onboard_time": 1738118901,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1807004,
       "num": 962240,
       "word": "演员王星女友更新最新情况",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1737362118,
       "rank": 27,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1712484,
-      "num": 1712484,
-      "word": "贵人鸟正式更名金鹤农业",
-      "onboard_time": 1736752338,
-      "rank": 17,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
