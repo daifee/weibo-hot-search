@@ -1,6 +1,6 @@
 {
   "startTime": 1738254491138,
-  "endTime": 1738255385235,
+  "endTime": 1738257569116,
   "band_list": [
     {
       "raw_hot": 1427134,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 407725,
-      "num": 185263,
+      "num": 223754,
       "word": "王俊凯你快回我呀",
       "onboard_time": 1738251257,
       "rank": 13,
@@ -155,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216802,
+      "num": 139875,
+      "word": "2025春节档首部10亿电影诞生",
+      "onboard_time": 1738253537,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 212049,
       "num": 180495,
       "word": "邓婵玉撕掉了女性被凝视困境",
@@ -208,14 +216,6 @@
       "word": "刘昊然好帅",
       "onboard_time": 1738241478,
       "rank": 30,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 139875,
-      "num": 139875,
-      "word": "2025春节档首部10亿电影诞生",
-      "onboard_time": 1738253537,
-      "rank": 32,
       "category": "电影"
     },
     {
@@ -275,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97633,
+      "num": 97633,
+      "word": "于适回应姬发邓婵玉共舞",
+      "onboard_time": 1738256294,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 95805,
       "num": 183366,
       "word": "脑瘫少年连续9年收到房东的压岁包",
@@ -313,6 +321,14 @@
       "onboard_time": 1738229658,
       "rank": 38,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 91913,
+      "num": 91913,
+      "word": "ChinaDaily发了虞书欣拜年视频",
+      "onboard_time": 1738255937,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 91505,
@@ -356,7 +372,7 @@
     },
     {
       "raw_hot": 79986,
-      "num": 79986,
+      "num": 123581,
       "word": "原来小狗也喜欢看烟花",
       "onboard_time": 1738241118,
       "rank": 45,
@@ -364,7 +380,7 @@
     },
     {
       "raw_hot": 74983,
-      "num": 74983,
+      "num": 124208,
       "word": "当我竟然在12点前睡觉",
       "onboard_time": 1738248138,
       "rank": 46,
@@ -376,6 +392,14 @@
       "word": "美军用飞机频繁穿越民航航线酿大祸",
       "onboard_time": 1738243099,
       "rank": 47,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 66677,
+      "num": 66677,
+      "word": "外媒称失事客机上至少14名运动员",
+      "onboard_time": 1738255156,
+      "rank": 37,
       "category": "海外新闻"
     },
     {
@@ -403,12 +427,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 52022,
+      "num": 64153,
+      "word": "美国1995年以来发生过7次重大空难",
+      "onboard_time": 1738255815,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 42348,
+      "num": 64087,
+      "word": "3种相处模式让家越来越兴旺",
+      "onboard_time": 1738256715,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34207,
       "num": 787274,
       "word": "文化中国行非遗贺新春",
       "onboard_time": 1738247660,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14647,
+      "num": 127606,
+      "word": "刘谦跟机器人握手时遇碰瓷",
+      "onboard_time": 1738256715,
+      "rank": 9,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
