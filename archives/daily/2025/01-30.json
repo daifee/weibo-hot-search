@@ -1,6 +1,6 @@
 {
   "startTime": 1738168091636,
-  "endTime": 1738243578125,
+  "endTime": 1738244265954,
   "band_list": [
     {
       "raw_hot": 2432743,
@@ -27,6 +27,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 2130996,
+      "num": 1352318,
+      "word": "电影院给退票场观众补了一场新电影",
+      "onboard_time": 1738242139,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1919364,
       "num": 1919364,
       "word": "藕饼",
@@ -49,14 +57,6 @@
       "onboard_time": 1738207638,
       "rank": 4,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1352318,
-      "num": 1352318,
-      "word": "电影院给退票场观众补了一场新电影",
-      "onboard_time": 1738242139,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1303817,
@@ -131,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 979052,
+      "num": 945904,
+      "word": "谢霆锋和两个儿子背影照",
+      "onboard_time": 1738241778,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 969311,
       "num": 384724,
       "word": "哪吒3",
@@ -177,14 +185,6 @@
       "onboard_time": 1738154000,
       "rank": 23,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 945904,
-      "num": 945904,
-      "word": "谢霆锋和两个儿子背影照",
-      "onboard_time": 1738241778,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 929199,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 855677,
-      "num": 287739,
+      "num": 317039,
       "word": "颜安 女寝",
       "onboard_time": 1738236138,
       "rank": 10,
@@ -380,7 +380,7 @@
     },
     {
       "raw_hot": 626498,
-      "num": 239080,
+      "num": 317528,
       "word": "邓婵玉撕掉了女性被凝视困境",
       "onboard_time": 1738239379,
       "rank": 31,
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 494459,
-      "num": 239208,
+      "num": 302819,
       "word": "敖光敖闰",
       "onboard_time": 1738239977,
       "rank": 12,
@@ -483,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 461852,
+      "num": 317236,
+      "word": "刘昊然好帅",
+      "onboard_time": 1738241478,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 458157,
       "num": 458157,
       "word": "看完唐探1900的我belike",
@@ -500,7 +508,7 @@
     },
     {
       "raw_hot": 454818,
-      "num": 208268,
+      "num": 315605,
       "word": "有点阴招全使自家人身上了",
       "onboard_time": 1738240099,
       "rank": 30,
@@ -585,6 +593,14 @@
       "onboard_time": 1738197015,
       "rank": 12,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 425728,
+      "num": 330515,
+      "word": "春晚哪首歌是你心中最佳",
+      "onboard_time": 1738234517,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 424562,
@@ -675,14 +691,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 372586,
-      "num": 237809,
-      "word": "春晚哪首歌是你心中最佳",
-      "onboard_time": 1738234517,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 366494,
       "num": 366494,
       "word": "DeepSeek遭受海外攻击未来将持续",
@@ -763,20 +771,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 342759,
+      "num": 342759,
+      "word": "过年在家不玩手机还能干什么",
+      "onboard_time": 1738229658,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 337819,
       "num": 349318,
       "word": "台湾嘉义县5.2级地震",
       "onboard_time": 1738204697,
       "rank": 15,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 337297,
-      "num": 337297,
-      "word": "过年在家不玩手机还能干什么",
-      "onboard_time": 1738229658,
-      "rank": 9,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 336413,
@@ -793,14 +801,6 @@
       "onboard_time": 1738228398,
       "rank": 7,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 326395,
-      "num": 207222,
-      "word": "刘昊然好帅",
-      "onboard_time": 1738241478,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 323992,
@@ -915,6 +915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 265370,
+      "num": 315175,
+      "word": "美国撞机可能无人生还",
+      "onboard_time": 1738242620,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 263103,
       "num": 166679,
       "word": "2025春节档票房破26亿",
@@ -995,14 +1003,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 249472,
-      "num": 207999,
-      "word": "美国撞机可能无人生还",
-      "onboard_time": 1738242620,
-      "rank": 18,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 244485,
       "num": 244485,
       "word": "王楚钦祝大家日进斗金",
@@ -1043,6 +1043,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 225828,
+      "num": 225828,
+      "word": "第一批外地女婿已经到娘家了",
+      "onboard_time": 1738243159,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 224462,
+      "num": 278972,
+      "word": "曾舜晞说24年没有达到预期",
+      "onboard_time": 1738241718,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224257,
       "num": 224257,
       "word": "美坠河客机上有64人",
@@ -1051,20 +1067,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 222415,
+      "num": 222415,
+      "word": "唐探上座率",
+      "onboard_time": 1738243818,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 222403,
       "num": 158125,
       "word": "今年春节含金量最高的小品",
       "onboard_time": 1738209917,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 218879,
-      "num": 206120,
-      "word": "第一批外地女婿已经到娘家了",
-      "onboard_time": 1738243159,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 215645,
@@ -1379,20 +1395,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 175520,
+      "num": 175520,
+      "word": "欧阳锋 险胜",
+      "onboard_time": 1738243759,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 174388,
       "num": 174388,
       "word": "华筝意难平",
       "onboard_time": 1738222637,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 173571,
-      "num": 204977,
-      "word": "曾舜晞说24年没有达到预期",
-      "onboard_time": 1738241718,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 173171,
@@ -1499,6 +1515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 160251,
+      "num": 160251,
+      "word": "王菲世界赠予我的武汉浪漫",
+      "onboard_time": 1738233558,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159614,
       "num": 114180,
       "word": "虞书欣舞台收视率登顶",
@@ -1520,14 +1544,6 @@
       "word": "沈腾马丽十二年形成闭环",
       "onboard_time": 1738205717,
       "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 157036,
-      "num": 157036,
-      "word": "王菲世界赠予我的武汉浪漫",
-      "onboard_time": 1738233558,
-      "rank": 41,
       "category": "综艺"
     },
     {
@@ -1561,6 +1577,14 @@
       "onboard_time": 1738198517,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 152702,
+      "num": 206875,
+      "word": "恋与深空",
+      "onboard_time": 1738242259,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 152414,
@@ -1601,6 +1625,14 @@
       "onboard_time": 1738242799,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150788,
+      "num": 150788,
+      "word": "武侠学者评徐克版射雕",
+      "onboard_time": 1738244179,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 150662,
@@ -1705,6 +1737,14 @@
       "onboard_time": 1738220178,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139961,
+      "num": 139961,
+      "word": "女子初二回娘家返程塞满300斤特产",
+      "onboard_time": 1738243278,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139262,
@@ -1827,6 +1867,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 130787,
+      "num": 316710,
+      "word": "美军用飞机频繁穿越民航航线酿大祸",
+      "onboard_time": 1738243099,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 128987,
       "num": 128987,
       "word": "春晚机器人创始人与浙大失之交臂",
@@ -1873,14 +1921,6 @@
       "onboard_time": 1738151121,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 125361,
-      "num": 206875,
-      "word": "恋与深空",
-      "onboard_time": 1738242259,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 125264,
@@ -2227,14 +2267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99528,
-      "num": 128415,
-      "word": "女子初二回娘家返程塞满300斤特产",
-      "onboard_time": 1738243278,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 99042,
       "num": 99042,
       "word": "广东人的红包是多有实力",
@@ -2555,6 +2587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 62931,
+      "num": 315034,
+      "word": "西湖人从众保安一天捡七八个小孩",
+      "onboard_time": 1738243219,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 62742,
       "num": 108895,
       "word": "埃文凯尔知道大年初二要回娘家",
@@ -2601,6 +2641,14 @@
       "onboard_time": 1738158680,
       "rank": 2,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 57646,
+      "num": 218760,
+      "word": "一县城影院推无座票售价与有座相同",
+      "onboard_time": 1738243759,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54594,
@@ -2657,14 +2705,6 @@
       "onboard_time": 1738166418,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 47967,
-      "num": 208646,
-      "word": "美军用飞机频繁穿越民航航线酿大祸",
-      "onboard_time": 1738243099,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 47645,
@@ -2763,12 +2803,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33170,
+      "num": 166007,
+      "word": "孙颖莎出发新加坡大满贯",
+      "onboard_time": 1738244239,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32633,
       "num": 54790,
       "word": "DeepSeek能否改写AI战局",
       "onboard_time": 1738150940,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 30889,
+      "num": 160268,
+      "word": "黄金白银集体拉涨",
+      "onboard_time": 1738238358,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 27965,
@@ -2825,14 +2881,6 @@
       "onboard_time": 1738180871,
       "rank": 34,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 23581,
-      "num": 207862,
-      "word": "西湖人从众保安一天捡七八个小孩",
-      "onboard_time": 1738243219,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 23573,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/30 21:26:18
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/30 21:37:45
 </p>
 </blockquote>
 <p>
@@ -1191,6 +1191,12 @@ B站弹幕（热度：2270595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E9%99%A2%E7%BB%99%E9%80%80%E7%A5%A8%E5%9C%BA%E8%A7%82%E4%BC%97%E8%A1%A5%E4%BA%86%E4%B8%80%E5%9C%BA%E6%96%B0%E7%94%B5%E5%BD%B1%23" target="weibo">
+电影院给退票场观众补了一场新电影（热度：2130996）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%96%E7%91%9E%E9%B9%8F%E9%A2%84%E5%91%8A%E7%BA%A2%E5%8C%85%23" target="weibo">
 敖瑞鹏预告红包（热度：2128275）
 </a>
@@ -1805,12 +1811,6 @@ TikTok难民来啦（热度：1761821）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%9F%E6%98%9F%E5%A5%B3%E5%8F%8B%E5%91%BC%E5%90%81%E4%B8%8D%E8%A6%81%E5%90%AC%E4%BF%A1%E8%B0%A3%E8%A8%80%23" target="weibo">
 星星女友呼吁不要听信谣言（热度：1743248）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E4%BD%A0%E6%80%8E%E4%B9%88%E5%8F%AF%E4%BB%A5%E6%8D%85%E8%BF%99%E4%B9%88%E5%A4%A7%E7%9A%84%E7%AF%93%E5%AD%90%23" target="weibo">
-金晨你怎么可以捅这么大的篓子（热度：1741726）
 </a>
 </li>
 

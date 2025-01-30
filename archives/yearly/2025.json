@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738243578125,
+  "endTime": 1738244265954,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1571,6 +1571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2130996,
+      "num": 1352318,
+      "word": "电影院给退票场观众补了一场新电影",
+      "onboard_time": 1738242139,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2128275,
       "num": 1486365,
       "word": "敖瑞鹏预告红包",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736145021,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1741726,
-      "num": 1741726,
-      "word": "金晨你怎么可以捅这么大的篓子",
-      "onboard_time": 1738090873,
-      "rank": 0,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
