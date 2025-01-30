@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738193738157,
+  "endTime": 1738201118401,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -6995,6 +6995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 947076,
+      "num": 1151532,
+      "word": "杭州雷峰塔真的有压了千年的小白",
+      "onboard_time": 1738192934,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 945862,
       "num": 333216,
       "word": "卞相壹称裁判判罚时才知道新规",
@@ -9787,6 +9795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 747741,
+      "num": 747741,
+      "word": "春晚导演组回应机器人是有裤子的",
+      "onboard_time": 1738192873,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 747624,
       "num": 726977,
       "word": "网传星光大赏红毯出场顺序",
@@ -11857,6 +11873,14 @@
       "onboard_time": 1737707779,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 647727,
+      "num": 647727,
+      "word": "哪吒票房领跑",
+      "onboard_time": 1738196715,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 647671,
@@ -16635,6 +16659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 489687,
+      "num": 246713,
+      "word": "马思纯接春晚邀约经纪人差点喜极而泣",
+      "onboard_time": 1738199537,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 489488,
       "num": 489488,
       "word": "杨紫无眉造型",
@@ -17537,14 +17569,6 @@
       "onboard_time": 1737605239,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 466169,
-      "num": 877104,
-      "word": "杭州雷峰塔真的有压了千年的小白",
-      "onboard_time": 1738192934,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 466070,
@@ -19593,6 +19617,14 @@
       "onboard_time": 1736220861,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 419370,
+      "num": 419370,
+      "word": "唐探1900豆瓣开分6.7",
+      "onboard_time": 1738196535,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 419208,
@@ -22505,6 +22537,14 @@
       "onboard_time": 1737622160,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 366494,
+      "num": 366494,
+      "word": "DeepSeek遭受海外攻击未来将持续",
+      "onboard_time": 1738196175,
+      "rank": 6,
+      "category": "互联网"
     },
     {
       "raw_hot": 366470,
@@ -25531,6 +25571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 319882,
+      "num": 319882,
+      "word": "埃文凯尔父母羡慕儿子上春晚",
+      "onboard_time": 1738194914,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 319807,
       "num": 319807,
       "word": "日料店的进口鳗鱼来自江西瑞金",
@@ -27411,6 +27459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 295146,
+      "num": 170139,
+      "word": "是不是全国女婿到丈母娘家都这样",
+      "onboard_time": 1738197677,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 295089,
       "num": 409645,
       "word": "外交部回应韩国29吨核废水泄漏",
@@ -28625,6 +28681,14 @@
       "onboard_time": 1737508698,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 281811,
+      "num": 205764,
+      "word": "易烊千玺回应一年没接新角色",
+      "onboard_time": 1738192934,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 281699,
@@ -30507,6 +30571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 262187,
+      "num": 380077,
+      "word": "南苏丹坠机遇难者中有2名中国公民",
+      "onboard_time": 1738196477,
+      "rank": 5,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 262154,
       "num": 358551,
       "word": "时装主编评丁禹兮的表现力",
@@ -31099,6 +31171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 257284,
+      "num": 257284,
+      "word": "县城2888一顿的年夜饭是谁在吃",
+      "onboard_time": 1738192993,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 256864,
       "num": 243068,
       "word": "异人之下2大结局",
@@ -31467,6 +31547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253884,
+      "num": 205691,
+      "word": "饺子首次回应哪吒2做五年",
+      "onboard_time": 1738196477,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 253861,
       "num": 253861,
       "word": "王者荣耀嫦娥抽奖",
@@ -31721,6 +31809,14 @@
       "onboard_time": 1737008957,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 252168,
+      "num": 252168,
+      "word": "易烊千玺为啥说不做男主角了",
+      "onboard_time": 1738200076,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 252070,
@@ -34811,6 +34907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 226417,
+      "num": 226417,
+      "word": "女生捡到奶茶袋一看有10万现金",
+      "onboard_time": 1738197015,
+      "rank": 12,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 226248,
       "num": 402878,
       "word": "男子境外失联多日曾要求家人勿报警",
@@ -36577,6 +36681,14 @@
       "onboard_time": 1738033997,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 215435,
+      "num": 215435,
+      "word": "大年初二回门日",
+      "onboard_time": 1738196477,
+      "rank": 13,
+      "category": "正能量"
     },
     {
       "raw_hot": 215409,
@@ -38577,6 +38689,14 @@
       "onboard_time": 1737556639,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205556,
+      "num": 205556,
+      "word": "特朗普称DeepSeek传递积极信号",
+      "onboard_time": 1738168997,
+      "rank": 13,
+      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 205540,
@@ -44291,6 +44411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187487,
+      "num": 187487,
+      "word": "初二回娘家",
+      "onboard_time": 1738193775,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187484,
       "num": 187484,
       "word": "李现苦笑",
@@ -48345,6 +48473,14 @@
       "onboard_time": 1737724639,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173171,
+      "num": 173171,
+      "word": "应采儿两个儿子近照",
+      "onboard_time": 1738192873,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 173150,
@@ -53435,6 +53571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 157490,
+      "num": 157490,
+      "word": "射雕拍的是战争其实讲反战",
+      "onboard_time": 1738197376,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 157485,
       "num": 536514,
       "word": "刘宇微博之夜与蛇共舞",
@@ -55779,14 +55923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150054,
-      "num": 150054,
-      "word": "应采儿两个儿子近照",
-      "onboard_time": 1738192873,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 150045,
       "num": 150045,
       "word": "大主播称忙到没生活要睡在公司",
@@ -55817,6 +55953,14 @@
       "onboard_time": 1736658139,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 149942,
+      "num": 149942,
+      "word": "封神2好看吗",
+      "onboard_time": 1738199537,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 149935,
@@ -59073,6 +59217,14 @@
       "onboard_time": 1737268398,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141093,
+      "num": 141093,
+      "word": "迪丽热巴工作室换了头像背景",
+      "onboard_time": 1738200017,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 141083,
@@ -62803,14 +62955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131288,
-      "num": 131288,
-      "word": "特朗普称DeepSeek传递积极信号",
-      "onboard_time": 1738168997,
-      "rank": 13,
-      "category": "国际时政,互联网"
-    },
-    {
       "raw_hot": 131229,
       "num": 390652,
       "word": "新年第1个拥抱",
@@ -63553,6 +63697,14 @@
       "onboard_time": 1736253444,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128987,
+      "num": 128987,
+      "word": "春晚机器人创始人与浙大失之交臂",
+      "onboard_time": 1738193594,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 128972,
@@ -67619,6 +67771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118298,
+      "num": 118298,
+      "word": "梁文锋知乎发文网友说AI写的",
+      "onboard_time": 1738198157,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 118278,
       "num": 118278,
       "word": "特朗普称没有人比我更懂北约",
@@ -69019,6 +69179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114659,
+      "num": 114659,
+      "word": "DeepSeek将接入微软AI电脑",
+      "onboard_time": 1738200017,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 114657,
       "num": 114657,
       "word": "耿爽在联合国当面戳穿美方3点谎言",
@@ -69545,6 +69713,14 @@
       "onboard_time": 1738126339,
       "rank": 15,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 113493,
+      "num": 113493,
+      "word": "四川的蛇在杭州谈恋爱淹了江苏的寺",
+      "onboard_time": 1738197436,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 113464,
@@ -70089,6 +70265,14 @@
       "onboard_time": 1736478800,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 111746,
+      "num": 111746,
+      "word": "马斯克质疑DeepSeek",
+      "onboard_time": 1738196477,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 111743,
@@ -70739,14 +70923,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 109949,
-      "num": 158622,
-      "word": "易烊千玺回应一年没接新角色",
-      "onboard_time": 1738192934,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 109942,
       "num": 109942,
       "word": "丁海寅翻栏杆",
@@ -70785,6 +70961,14 @@
       "onboard_time": 1737386898,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109813,
+      "num": 109813,
+      "word": "大年初二拜年计划",
+      "onboard_time": 1738193775,
+      "rank": 38,
+      "category": "正能量"
     },
     {
       "raw_hot": 109812,
@@ -71896,6 +72080,14 @@
       "word": "小寒",
       "onboard_time": 1736039490,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106194,
+      "num": 106194,
+      "word": "两岁宝宝的理解太棒了",
+      "onboard_time": 1738192993,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -73715,14 +73907,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 100545,
-      "num": 100545,
-      "word": "春晚导演组回应机器人是有裤子的",
-      "onboard_time": 1738192873,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 100502,
       "num": 100502,
       "word": "杨子头像",
@@ -74561,6 +74745,14 @@
       "onboard_time": 1737203358,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97435,
+      "num": 97435,
+      "word": "虞书欣好像一个小手办",
+      "onboard_time": 1738200378,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 97416,
@@ -75947,6 +76139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91248,
+      "num": 91248,
+      "word": "哪吒2豆瓣开分8.5",
+      "onboard_time": 1738198338,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 91245,
       "num": 219729,
       "word": "蒋长扬再现韩商言手势",
@@ -76187,6 +76387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90388,
+      "num": 90388,
+      "word": "特朗普给马斯克下了个命令",
+      "onboard_time": 1738200437,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 90309,
       "num": 94326,
       "word": "彭昱畅包场支持好朋友肖战",
@@ -76233,6 +76441,14 @@
       "onboard_time": 1736377035,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89993,
+      "num": 205765,
+      "word": "微软CEO说DeepSeek有真创新",
+      "onboard_time": 1738199596,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 89987,
@@ -76627,6 +76843,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 87558,
+      "num": 87558,
+      "word": "城里狗子回老家被鞭炮吓得要开车走",
+      "onboard_time": 1738199777,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 87534,
       "num": 167787,
       "word": "马龙的这份提醒很有意义",
@@ -76921,6 +77145,14 @@
       "onboard_time": 1737185658,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86333,
+      "num": 86333,
+      "word": "张艺兴给梁家辉肖战黄渤云包场",
+      "onboard_time": 1738200977,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 86291,
@@ -77315,6 +77547,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 84560,
+      "num": 84560,
+      "word": "周深唱出了她的一生",
+      "onboard_time": 1738200797,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 84525,
       "num": 343207,
       "word": "妇幼保健院后勤招播音主持应届生",
@@ -77593,6 +77833,14 @@
       "onboard_time": 1737979397,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 83360,
+      "num": 83360,
+      "word": "杭州灵隐寺人山人海",
+      "onboard_time": 1738198517,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 83350,
@@ -83859,14 +84107,6 @@
       "category": "舆论监督,健康医疗"
     },
     {
-      "raw_hot": 49661,
-      "num": 49661,
-      "word": "两岁宝宝的理解太棒了",
-      "onboard_time": 1738192993,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 49657,
       "num": 135940,
       "word": "火星工作人员为赵露思发声",
@@ -85347,14 +85587,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 42012,
-      "num": 151563,
-      "word": "县城2888一顿的年夜饭是谁在吃",
-      "onboard_time": 1738192993,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41938,
       "num": 231253,
       "word": "河南多条高速因降雪采取管制措施",
@@ -85513,14 +85745,6 @@
       "onboard_time": 1736651659,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 41396,
-      "num": 41396,
-      "word": "春晚机器人创始人与浙大失之交臂",
-      "onboard_time": 1738193594,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 41324,
@@ -87281,6 +87505,14 @@
       "onboard_time": 1736778921,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 33763,
+      "num": 160420,
+      "word": "马龙摇身一变成为文物发布官",
+      "onboard_time": 1738200076,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 33745,
