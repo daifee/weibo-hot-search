@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738233591407,
+  "endTime": 1738235990749,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -627,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1439286,
+      "num": 1439286,
+      "word": "金价",
+      "onboard_time": 1738233497,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1432517,
       "num": 1432517,
       "word": "孟子义红包",
@@ -740,7 +748,7 @@
     },
     {
       "raw_hot": 1258410,
-      "num": 653877,
+      "num": 1025006,
       "word": "射雕口碑",
       "onboard_time": 1738227257,
       "rank": 6,
@@ -1108,7 +1116,7 @@
     },
     {
       "raw_hot": 969311,
-      "num": 339205,
+      "num": 384724,
       "word": "哪吒3",
       "onboard_time": 1738227556,
       "rank": 12,
@@ -1201,6 +1209,14 @@
       "onboard_time": 1737980657,
       "rank": 35,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 929199,
+      "num": 334155,
+      "word": "影院回应母子看电影霸座",
+      "onboard_time": 1738232058,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 924714,
@@ -3084,7 +3100,7 @@
     },
     {
       "raw_hot": 453460,
-      "num": 212122,
+      "num": 218157,
       "word": "射雕票房",
       "onboard_time": 1738229658,
       "rank": 40,
@@ -4083,6 +4099,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 335008,
+      "num": 147033,
+      "word": "乌尔善",
+      "onboard_time": 1738234577,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 333957,
       "num": 233694,
       "word": "网红犬哈礼鹿身上一个褥疮也没有",
@@ -4265,6 +4289,14 @@
       "onboard_time": 1737986299,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 320453,
+      "num": 146371,
+      "word": "丁禹兮看自己春晚挑眉害羞了",
+      "onboard_time": 1738234459,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 319882,
@@ -4955,6 +4987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 261407,
+      "num": 188316,
+      "word": "大张伟 干噎酸奶",
+      "onboard_time": 1738232177,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 260926,
       "num": 214404,
       "word": "王一博紫色丝绒西装",
@@ -5089,6 +5129,14 @@
       "onboard_time": 1738127840,
       "rank": 26,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 254466,
+      "num": 147653,
+      "word": "范丞丞直播",
+      "onboard_time": 1738233918,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 253609,
@@ -5507,6 +5555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 231459,
+      "num": 306782,
+      "word": "过年在家不玩手机还能干什么",
+      "onboard_time": 1738229658,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 231446,
       "num": 213761,
       "word": "撒贝宁尼格买提春晚后台共用氧气瓶",
@@ -5779,14 +5835,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 218341,
-      "num": 188316,
-      "word": "大张伟 干噎酸奶",
-      "onboard_time": 1738232177,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 218303,
       "num": 355893,
       "word": "倪妮好美",
@@ -5932,7 +5980,7 @@
     },
     {
       "raw_hot": 213480,
-      "num": 419111,
+      "num": 1099358,
       "word": "网络中国节",
       "onboard_time": 1738118180,
       "rank": 9,
@@ -6011,22 +6059,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 210798,
-      "num": 334155,
-      "word": "影院回应母子看电影霸座",
-      "onboard_time": 1738232058,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 210111,
-      "num": 306782,
-      "word": "过年在家不玩手机还能干什么",
-      "onboard_time": 1738229658,
-      "rank": 9,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 209948,
       "num": 198210,
       "word": "赵露思拐杖",
@@ -6097,6 +6129,14 @@
       "onboard_time": 1738214718,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208710,
+      "num": 143235,
+      "word": "杭州断桥挤爆了啊但来都来了",
+      "onboard_time": 1738233198,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 208693,
@@ -6771,6 +6811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192150,
+      "num": 141369,
+      "word": "虞书欣檀健次预制联动",
+      "onboard_time": 1738235419,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191794,
       "num": 191794,
       "word": "左航在街上有拍了拍",
@@ -6913,6 +6961,14 @@
       "onboard_time": 1738047918,
       "rank": 32,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 189008,
+      "num": 141739,
+      "word": "春晚哪首歌是你心中最佳",
+      "onboard_time": 1738234517,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 188862,
@@ -9291,6 +9347,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 136633,
+      "num": 136633,
+      "word": "周深用一首歌唱出妈妈们的一生",
+      "onboard_time": 1738232298,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136618,
       "num": 192520,
       "word": "黄誉博直播",
@@ -9401,6 +9465,14 @@
       "onboard_time": 1737988638,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134544,
+      "num": 134544,
+      "word": "千万不要趁猫打哈欠把手指塞猫嘴里",
+      "onboard_time": 1738235778,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 134358,
@@ -9643,6 +9715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129213,
+      "num": 113508,
+      "word": "哪吒2彩蛋",
+      "onboard_time": 1738235119,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 129144,
       "num": 897009,
       "word": "蛇年送你长长长长长祝福",
@@ -9697,6 +9777,14 @@
       "onboard_time": 1737853338,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127937,
+      "num": 115810,
+      "word": "Guiltywith泰民",
+      "onboard_time": 1738234758,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 127808,
@@ -9929,6 +10017,14 @@
       "onboard_time": 1737869058,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 125002,
+      "num": 113178,
+      "word": "刘昊然不语只是一味地发红包",
+      "onboard_time": 1738233678,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 124782,
@@ -10203,14 +10299,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 119516,
-      "num": 119516,
-      "word": "周深用一首歌唱出妈妈们的一生",
-      "onboard_time": 1738232298,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 119194,
       "num": 119194,
       "word": "农民工过年杀猪想起已逝母亲泪目",
@@ -10401,14 +10489,6 @@
       "onboard_time": 1737876317,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 115694,
-      "num": 115694,
-      "word": "杭州断桥挤爆了啊但来都来了",
-      "onboard_time": 1738233198,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115649,
@@ -10793,6 +10873,14 @@
       "onboard_time": 1737962536,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109814,
+      "num": 139583,
+      "word": "母子看电影霸座警方已介入",
+      "onboard_time": 1738234338,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109812,
@@ -12417,14 +12505,6 @@
       "onboard_time": 1737983418,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 81746,
-      "num": 81746,
-      "word": "金价",
-      "onboard_time": 1738233497,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 81745,
