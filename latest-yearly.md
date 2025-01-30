@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/30 14:42:47
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/30 15:20:16
 </p>
 </blockquote>
 <p>
@@ -909,6 +909,12 @@ TikTok停止在美服务（热度：2463156）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8D%E5%AD%90%E7%9C%8B%E5%94%90%E6%8E%A2%E5%BC%BA%E8%A1%8C%E5%8D%A0%E5%BA%A7%E8%87%B4300%E5%A4%9A%E4%BA%BA%E9%80%80%E7%A5%A8%23" target="weibo">
+母子看唐探强行占座致300多人退票（热度：2418743）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E9%9F%B3%E5%87%86%23" target="weibo">
 王源跨年晚会音准（热度：2409556）
 </a>
@@ -1001,12 +1007,6 @@ TikTok停止在美服务（热度：2463156）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E5%B0%98%E6%99%92%E5%BD%95%E9%9F%B3%E6%8F%90%E5%BC%A0%E9%A2%82%E6%96%87%E5%90%8D%E5%AD%97%23" target="weibo">
 姜尘晒录音提张颂文名字（热度：2334084）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8D%E5%AD%90%E7%9C%8B%E5%94%90%E6%8E%A2%E5%BC%BA%E8%A1%8C%E5%8D%A0%E5%BA%A7%E8%87%B4300%E5%A4%9A%E4%BA%BA%E9%80%80%E7%A5%A8%23" target="weibo">
-母子看唐探强行占座致300多人退票（热度：2329836）
 </a>
 </li>
 

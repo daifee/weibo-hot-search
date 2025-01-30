@@ -1,0 +1,410 @@
+{
+  "runTime": 1738221616348,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2418743,
+        "num": 2418743,
+        "word": "母子看唐探强行占座致300多人退票",
+        "onboard_time": 1738216577,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 477424,
+        "num": 477424,
+        "word": "纸嫁衣",
+        "onboard_time": 1738215977,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 65246,
+        "num": 476357,
+        "word": "英歌舞跳出对新年的美好祝福",
+        "onboard_time": 1738214777,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 924506,
+        "num": 476337,
+        "word": "疑似陈思诚自己找的群演",
+        "onboard_time": 1738217177,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 919577,
+        "num": 476330,
+        "word": "大年初一票房排名",
+        "onboard_time": 1738205058,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 476304,
+        "num": 476304,
+        "word": "美国撞机已致18人遇难",
+        "onboard_time": 1738214178,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 798139,
+        "num": 458888,
+        "word": "曾黎推着赵露思",
+        "onboard_time": 1738217057,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429004,
+        "num": 429004,
+        "word": "法国耗资540亿欧元AI推出3天后下架",
+        "onboard_time": 1738217897,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 346989,
+        "num": 346989,
+        "word": "射雕英雄传上映首日打破14个纪录",
+        "onboard_time": 1738215616,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 330472,
+        "num": 330472,
+        "word": "白色橄榄树",
+        "onboard_time": 1738218676,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 661734,
+        "num": 329988,
+        "word": "偶遇沈腾一家三口海南过年",
+        "onboard_time": 1738214897,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326923,
+        "num": 326923,
+        "word": "哪吒",
+        "onboard_time": 1738206558,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 321050,
+        "num": 321050,
+        "word": "中国AI取名字都甩美国几条街",
+        "onboard_time": 1738208957,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 301548,
+        "num": 301548,
+        "word": "媒体评徐克版射雕解题失败",
+        "onboard_time": 1738220297,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153622,
+        "num": 299348,
+        "word": "美国两天三架飞机失事",
+        "onboard_time": 1738217598,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 133907,
+        "num": 298581,
+        "word": "王者荣耀联动国色芳华",
+        "onboard_time": 1738209378,
+        "rank": 15,
+        "category": "游戏,剧集"
+      },
+      {
+        "raw_hot": 252450,
+        "num": 294392,
+        "word": "美国一架客机坠河",
+        "onboard_time": 1738207638,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 127962,
+        "num": 292288,
+        "word": "大年初二回门日",
+        "onboard_time": 1738196477,
+        "rank": 17,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 109687,
+        "num": 290048,
+        "word": "秦风结巴原来是因为老祖宗话痨",
+        "onboard_time": 1738220357,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150069,
+        "num": 286979,
+        "word": "特朗普透露美国撞机细节",
+        "onboard_time": 1738218797,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 285461,
+        "num": 285461,
+        "word": "韩网评价陈哲远发红包",
+        "onboard_time": 1738210696,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302097,
+        "num": 283357,
+        "word": "春节档票价过高引吐槽",
+        "onboard_time": 1738210877,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40765,
+        "num": 278743,
+        "word": "印度大壶节踩踏事件幸存者发声",
+        "onboard_time": 1738221257,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 277402,
+        "num": 277402,
+        "word": "李子柒春晚战袍人工吊染6小时",
+        "onboard_time": 1738207217,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89175,
+        "num": 252660,
+        "word": "孙颖莎体能训练好认真",
+        "onboard_time": 1738217417,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240427,
+        "num": 240427,
+        "word": "封神 北海到底有谁在啊",
+        "onboard_time": 1738215077,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 238923,
+        "num": 238923,
+        "word": "张艺兴谈EXO回归",
+        "onboard_time": 1738211117,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207936,
+        "num": 207936,
+        "word": "坏了外国人这次真信了中国有武术秘籍",
+        "onboard_time": 1738220837,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197528,
+        "num": 197528,
+        "word": "全球热拍的王一博",
+        "onboard_time": 1738212437,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194523,
+        "num": 194523,
+        "word": "大年初二女婿又开始汗流浃背了",
+        "onboard_time": 1738220417,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117871,
+        "num": 192520,
+        "word": "黄誉博直播",
+        "onboard_time": 1738221436,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190909,
+        "num": 190909,
+        "word": "藕饼",
+        "onboard_time": 1738221257,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186905,
+        "num": 186905,
+        "word": "TF家族新年音乐会",
+        "onboard_time": 1738221077,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193452,
+        "num": 186296,
+        "word": "春节档电影口碑分化严重",
+        "onboard_time": 1738216457,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190938,
+        "num": 186160,
+        "word": "陈丽君演贾宝玉像从书中走出来",
+        "onboard_time": 1738211056,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183814,
+        "num": 183814,
+        "word": "春晚听障演员因感受不到节奏偷偷哭泣",
+        "onboard_time": 1738216457,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179164,
+        "num": 179164,
+        "word": "孙千晒与沈腾马丽合照",
+        "onboard_time": 1738213877,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136701,
+        "num": 136701,
+        "word": "MiuMiu2025春夏系列",
+        "onboard_time": 1738217478,
+        "rank": 37,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 122215,
+        "num": 122215,
+        "word": "孙颖莎出征WTT新加坡大满贯",
+        "onboard_time": 1738219218,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105933,
+        "num": 105933,
+        "word": "大年初二回家是喜团聚是福",
+        "onboard_time": 1738202717,
+        "rank": 39,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 169624,
+        "num": 104542,
+        "word": "好消息光头强有娃了",
+        "onboard_time": 1738220417,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144952,
+        "num": 104368,
+        "word": "虞书欣林一这个视频没有退出键",
+        "onboard_time": 1738218556,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140555,
+        "num": 103674,
+        "word": "马丽回应上了内娱家族族谱",
+        "onboard_time": 1738220178,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102308,
+        "num": 102308,
+        "word": "美媒称事故客机断成两截",
+        "onboard_time": 1738219517,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98004,
+        "num": 98004,
+        "word": "压岁钱和红包其实不是一回事",
+        "onboard_time": 1738220958,
+        "rank": 44,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 91119,
+        "num": 91119,
+        "word": "广东人的红包是多有实力",
+        "onboard_time": 1738218498,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88785,
+        "num": 88785,
+        "word": "韩国客机烧出一个洞可能因充电宝",
+        "onboard_time": 1738205537,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 86555,
+        "num": 88779,
+        "word": "人人人灵隐寺人人人",
+        "onboard_time": 1738213157,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80538,
+        "num": 88733,
+        "word": "外国人扭秧歌",
+        "onboard_time": 1738221497,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 71418,
+        "num": 88667,
+        "word": "库里专挑硬柿子捏",
+        "onboard_time": 1738217958,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记牵挂的头等大事#"
+    }
+  }
+}

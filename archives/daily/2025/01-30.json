@@ -1,6 +1,6 @@
 {
   "startTime": 1738168091636,
-  "endTime": 1738219367348,
+  "endTime": 1738221616348,
   "band_list": [
     {
       "raw_hot": 2432743,
@@ -11,8 +11,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 2329836,
-      "num": 2329836,
+      "raw_hot": 2418743,
+      "num": 2418743,
       "word": "母子看唐探强行占座致300多人退票",
       "onboard_time": 1738216577,
       "rank": 0,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1008811,
-      "num": 299662,
+      "num": 329988,
       "word": "偶遇沈腾一家三口海南过年",
       "onboard_time": 1738214897,
       "rank": 20,
@@ -81,6 +81,14 @@
       "onboard_time": 1738192934,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 924506,
+      "num": 476337,
+      "word": "疑似陈思诚自己找的群演",
+      "onboard_time": 1738217177,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 913057,
@@ -129,6 +137,14 @@
       "onboard_time": 1738165099,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 798139,
+      "num": 638759,
+      "word": "曾黎推着赵露思",
+      "onboard_time": 1738217057,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 747741,
@@ -187,14 +203,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 638759,
-      "num": 638759,
-      "word": "曾黎推着赵露思",
-      "onboard_time": 1738217057,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 631119,
       "num": 194305,
       "word": "赵露思长文谈抑郁症",
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 597163,
-      "num": 453340,
+      "num": 476304,
       "word": "美国撞机已致18人遇难",
       "onboard_time": 1738214178,
       "rank": 9,
@@ -243,20 +251,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 475695,
-      "num": 475695,
+      "raw_hot": 477424,
+      "num": 477424,
       "word": "纸嫁衣",
       "onboard_time": 1738215977,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 471178,
-      "num": 397433,
-      "word": "疑似陈思诚自己找的群演",
-      "onboard_time": 1738217177,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 458157,
@@ -308,11 +308,19 @@
     },
     {
       "raw_hot": 431147,
-      "num": 253922,
+      "num": 346989,
       "word": "射雕英雄传上映首日打破14个纪录",
       "onboard_time": 1738215616,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 429004,
+      "num": 429004,
+      "word": "法国耗资540亿欧元AI推出3天后下架",
+      "onboard_time": 1738217897,
+      "rank": 24,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 428682,
@@ -411,14 +419,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 356907,
-      "num": 356907,
-      "word": "法国耗资540亿欧元AI推出3天后下架",
-      "onboard_time": 1738217897,
-      "rank": 24,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 354690,
       "num": 354690,
       "word": "美国对deepseek下手了",
@@ -452,7 +452,7 @@
     },
     {
       "raw_hot": 345091,
-      "num": 223935,
+      "num": 285461,
       "word": "韩网评价陈哲远发红包",
       "onboard_time": 1738210696,
       "rank": 31,
@@ -472,6 +472,22 @@
       "word": "封神第二部让我学会延迟满足",
       "onboard_time": 1738209678,
       "rank": 22,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 330472,
+      "num": 330472,
+      "word": "白色橄榄树",
+      "onboard_time": 1738218676,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 326923,
+      "num": 326923,
+      "word": "哪吒",
+      "onboard_time": 1738206558,
+      "rank": 28,
       "category": "电影"
     },
     {
@@ -500,7 +516,7 @@
     },
     {
       "raw_hot": 313644,
-      "num": 165523,
+      "num": 240427,
       "word": "封神 北海到底有谁在啊",
       "onboard_time": 1738215077,
       "rank": 27,
@@ -521,6 +537,14 @@
       "onboard_time": 1738197677,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 301548,
+      "num": 301548,
+      "word": "媒体评徐克版射雕解题失败",
+      "onboard_time": 1738220297,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 301218,
@@ -604,7 +628,7 @@
     },
     {
       "raw_hot": 252840,
-      "num": 252840,
+      "num": 292288,
       "word": "大年初二回门日",
       "onboard_time": 1738196477,
       "rank": 13,
@@ -628,7 +652,7 @@
     },
     {
       "raw_hot": 236253,
-      "num": 136678,
+      "num": 186296,
       "word": "春节档电影口碑分化严重",
       "onboard_time": 1738216457,
       "rank": 29,
@@ -660,7 +684,7 @@
     },
     {
       "raw_hot": 215501,
-      "num": 141918,
+      "num": 183814,
       "word": "春晚听障演员因感受不到节奏偷偷哭泣",
       "onboard_time": 1738216457,
       "rank": 28,
@@ -691,12 +715,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206426,
-      "num": 182193,
-      "word": "哪吒",
-      "onboard_time": 1738206558,
-      "rank": 28,
-      "category": "电影"
+      "raw_hot": 207936,
+      "num": 207936,
+      "word": "坏了外国人这次真信了中国有武术秘籍",
+      "onboard_time": 1738220837,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 205556,
@@ -731,12 +755,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195218,
-      "num": 118633,
-      "word": "白色橄榄树",
-      "onboard_time": 1738218676,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 194523,
+      "num": 194523,
+      "word": "大年初二女婿又开始汗流浃背了",
+      "onboard_time": 1738220417,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193062,
@@ -779,6 +803,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 190909,
+      "num": 190909,
+      "word": "藕饼",
+      "onboard_time": 1738221257,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 187968,
       "num": 147062,
       "word": "我愿拥护邓婵玉为天下共主",
@@ -801,6 +833,14 @@
       "onboard_time": 1738193775,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186905,
+      "num": 186905,
+      "word": "TF家族新年音乐会",
+      "onboard_time": 1738221077,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 183557,
@@ -857,6 +897,14 @@
       "onboard_time": 1738210457,
       "rank": 38,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 169624,
+      "num": 104542,
+      "word": "好消息光头强有娃了",
+      "onboard_time": 1738220417,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 169029,
@@ -931,6 +979,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 153622,
+      "num": 299348,
+      "word": "美国两天三架飞机失事",
+      "onboard_time": 1738217598,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 152887,
       "num": 150965,
       "word": "MiuMiu2025春夏系列",
@@ -977,6 +1033,14 @@
       "onboard_time": 1738210815,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 150069,
+      "num": 286979,
+      "word": "特朗普透露美国撞机细节",
+      "onboard_time": 1738218797,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 149942,
@@ -1049,6 +1113,14 @@
       "onboard_time": 1738192873,
       "rank": 11,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 140555,
+      "num": 103674,
+      "word": "马丽回应上了内娱家族族谱",
+      "onboard_time": 1738220178,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 138949,
@@ -1163,6 +1235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122215,
+      "num": 122215,
+      "word": "孙颖莎出征WTT新加坡大满贯",
+      "onboard_time": 1738219218,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121186,
       "num": 121186,
       "word": "梁文锋知乎发文网友说AI写的",
@@ -1211,12 +1291,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118534,
-      "num": 118534,
-      "word": "孙颖莎出征WTT新加坡大满贯",
-      "onboard_time": 1738219218,
-      "rank": 36,
-      "category": "体育"
+      "raw_hot": 117871,
+      "num": 192520,
+      "word": "黄誉博直播",
+      "onboard_time": 1738221436,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 117491,
@@ -1316,7 +1396,7 @@
     },
     {
       "raw_hot": 111787,
-      "num": 111787,
+      "num": 252660,
       "word": "孙颖莎体能训练好认真",
       "onboard_time": 1738217417,
       "rank": 38,
@@ -1336,6 +1416,14 @@
       "word": "看完唐探我先替陈思诚哭两声",
       "onboard_time": 1738162760,
       "rank": 43,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 109687,
+      "num": 290048,
+      "word": "秦风结巴原来是因为老祖宗话痨",
+      "onboard_time": 1738220357,
+      "rank": 18,
       "category": "电影"
     },
     {
@@ -1371,6 +1459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102308,
+      "num": 102308,
+      "word": "美媒称事故客机断成两截",
+      "onboard_time": 1738219517,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 101936,
       "num": 98695,
       "word": "黄轩女友夸蒋璐霞非常酷",
@@ -1379,12 +1475,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 98365,
-      "num": 161108,
-      "word": "特朗普透露美国撞机细节",
-      "onboard_time": 1738218797,
-      "rank": 14,
-      "category": "国际时政"
+      "raw_hot": 98004,
+      "num": 98004,
+      "word": "压岁钱和红包其实不是一回事",
+      "onboard_time": 1738220958,
+      "rank": 44,
+      "category": "正能量"
     },
     {
       "raw_hot": 97866,
@@ -1435,6 +1531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 91119,
+      "num": 91119,
+      "word": "广东人的红包是多有实力",
+      "onboard_time": 1738218498,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 90383,
       "num": 90383,
       "word": "申公豹彩蛋",
@@ -1452,7 +1556,7 @@
     },
     {
       "raw_hot": 88199,
-      "num": 88199,
+      "num": 88667,
       "word": "库里专挑硬柿子捏",
       "onboard_time": 1738217958,
       "rank": 46,
@@ -1507,14 +1611,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 82442,
-      "num": 82442,
-      "word": "广东人的红包是多有实力",
-      "onboard_time": 1738218498,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 82056,
       "num": 189388,
       "word": "勇士大丰收",
@@ -1529,6 +1625,14 @@
       "onboard_time": 1738166597,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 80538,
+      "num": 88733,
+      "word": "外国人扭秧歌",
+      "onboard_time": 1738221497,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 80437,
@@ -1697,6 +1801,14 @@
       "onboard_time": 1738160242,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 40765,
+      "num": 278743,
+      "word": "印度大壶节踩踏事件幸存者发声",
+      "onboard_time": 1738221257,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 40596,
