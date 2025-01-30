@@ -1,0 +1,410 @@
+{
+  "runTime": 1738233591407,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1892196,
+        "num": 1892196,
+        "word": "藕饼",
+        "onboard_time": 1738221257,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 946577,
+        "num": 946577,
+        "word": "DeepSeek",
+        "onboard_time": 1738227139,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 60097,
+        "num": 671620,
+        "word": "英歌舞跳出对新年的美好祝福",
+        "onboard_time": 1738214777,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1101704,
+        "num": 653877,
+        "word": "射雕口碑",
+        "onboard_time": 1738227257,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 431625,
+        "num": 431625,
+        "word": "多国给DeepSeek使用设限",
+        "onboard_time": 1738231038,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 341239,
+        "num": 341239,
+        "word": "压岁钱和红包其实不是一回事",
+        "onboard_time": 1738220958,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 969311,
+        "num": 339205,
+        "word": "哪吒3",
+        "onboard_time": 1738227556,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 478845,
+        "num": 338672,
+        "word": "肖战演郭靖用一招就看热血了",
+        "onboard_time": 1738227678,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210798,
+        "num": 334155,
+        "word": "影院回应母子看电影霸座",
+        "onboard_time": 1738232058,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331519,
+        "num": 331519,
+        "word": "联合国建议日本允许女性继承皇位",
+        "onboard_time": 1738228398,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 773802,
+        "num": 324596,
+        "word": "哪吒目前年度票房第一",
+        "onboard_time": 1738226658,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 645410,
+        "num": 309004,
+        "word": "赵丽颖新年第一条微博",
+        "onboard_time": 1738227317,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 611018,
+        "num": 276177,
+        "word": "不走亲戚",
+        "onboard_time": 1738227016,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 548805,
+        "num": 267616,
+        "word": "美国男子在飞机相撞前收到妻子短信",
+        "onboard_time": 1738228398,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 256953,
+        "num": 256953,
+        "word": "费翔谈在封神拍摄期间的遗憾",
+        "onboard_time": 1738231817,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210111,
+        "num": 210111,
+        "word": "过年在家不玩手机还能干什么",
+        "onboard_time": 1738229658,
+        "rank": 15,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 323643,
+        "num": 209716,
+        "word": "俄花滑世界冠军在美坠河客机上",
+        "onboard_time": 1738226117,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 221902,
+        "num": 206621,
+        "word": "美国撞机已致18人遇难",
+        "onboard_time": 1738214178,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13070,
+        "num": 193285,
+        "word": "曹弘浪打哪个",
+        "onboard_time": 1738227858,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188959,
+        "num": 188959,
+        "word": "健康的甲状腺其实是摸不到的",
+        "onboard_time": 1738222876,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 541514,
+        "num": 188894,
+        "word": "陈哲远证明是本人单手抱的梁洁",
+        "onboard_time": 1738228818,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 451225,
+        "num": 188871,
+        "word": "大年初一票房排名",
+        "onboard_time": 1738205058,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 415363,
+        "num": 188723,
+        "word": "射雕票房",
+        "onboard_time": 1738229658,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 374820,
+        "num": 188660,
+        "word": "曾黎推着赵露思",
+        "onboard_time": 1738217057,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96441,
+        "num": 188562,
+        "word": "王楚钦王曼昱参加抽签仪式",
+        "onboard_time": 1738229357,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 357193,
+        "num": 188540,
+        "word": "哪吒",
+        "onboard_time": 1738206558,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 218888,
+        "num": 188400,
+        "word": "大年初二女婿又开始汗流浃背了",
+        "onboard_time": 1738220417,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218341,
+        "num": 188316,
+        "word": "大张伟 干噎酸奶",
+        "onboard_time": 1738232177,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188302,
+        "num": 188302,
+        "word": "偶遇沈腾一家三口海南过年",
+        "onboard_time": 1738214897,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187883,
+        "num": 187883,
+        "word": "王宝强影史首位票房破200亿80后男主演",
+        "onboard_time": 1738229956,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180297,
+        "num": 180297,
+        "word": "2025年非遗晚会",
+        "onboard_time": 1738225818,
+        "rank": 30,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 177095,
+        "num": 177095,
+        "word": "小谢说被赵露思的积极乐观感染",
+        "onboard_time": 1738221857,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167224,
+        "num": 167224,
+        "word": "任天堂禁止非日本信用卡买日服游戏",
+        "onboard_time": 1738229537,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157418,
+        "num": 157418,
+        "word": "蛇年过年快胖成肥蛇了",
+        "onboard_time": 1738228398,
+        "rank": 33,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 157148,
+        "num": 157148,
+        "word": "贺峻霖走亲戚要唱自己的歌",
+        "onboard_time": 1738229419,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142250,
+        "num": 142250,
+        "word": "中国人的衣服花纹简直是宝藏",
+        "onboard_time": 1738230738,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132592,
+        "num": 132592,
+        "word": "疑似陈思诚自己找的群演",
+        "onboard_time": 1738217177,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121890,
+        "num": 121890,
+        "word": "尤长靖分享马来西亚春节风俗",
+        "onboard_time": 1738232058,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123429,
+        "num": 121593,
+        "word": "小小的我",
+        "onboard_time": 1738230678,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119599,
+        "num": 119599,
+        "word": "YEJI吉赛尔JULIE合作舞台",
+        "onboard_time": 1738228098,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 119516,
+        "num": 119516,
+        "word": "周深用一首歌唱出妈妈们的一生",
+        "onboard_time": 1738232298,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116844,
+        "num": 116844,
+        "word": "王菲世界赠予我的武汉浪漫",
+        "onboard_time": 1738233558,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115694,
+        "num": 115694,
+        "word": "杭州断桥挤爆了啊但来都来了",
+        "onboard_time": 1738233198,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114340,
+        "num": 114340,
+        "word": "美国一架客机坠河",
+        "onboard_time": 1738207638,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 111791,
+        "num": 111791,
+        "word": "易烊千玺自曝曾走不出角色",
+        "onboard_time": 1738226717,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 53914,
+        "num": 111656,
+        "word": "过年必须吃香菜是啥习俗",
+        "onboard_time": 1738231518,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111638,
+        "num": 111638,
+        "word": "唐探",
+        "onboard_time": 1738227497,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 98729,
+        "num": 98729,
+        "word": "中国AI取名字都甩美国几条街",
+        "onboard_time": 1738208957,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 89356,
+        "num": 89356,
+        "word": "纸嫁衣",
+        "onboard_time": 1738215977,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 81746,
+        "num": 81746,
+        "word": "金价",
+        "onboard_time": 1738233497,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记牵挂的头等大事#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738232578314,
+  "endTime": 1738233591407,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -740,7 +740,7 @@
     },
     {
       "raw_hot": 1258410,
-      "num": 475314,
+      "num": 653877,
       "word": "射雕口碑",
       "onboard_time": 1738227257,
       "rank": 6,
@@ -1105,6 +1105,14 @@
       "onboard_time": 1737884418,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 969311,
+      "num": 339205,
+      "word": "哪吒3",
+      "onboard_time": 1738227556,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 967513,
@@ -1971,14 +1979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 649129,
-      "num": 277706,
-      "word": "哪吒3",
-      "onboard_time": 1738227556,
-      "rank": 12,
-      "category": "电影"
-    },
-    {
       "raw_hot": 647727,
       "num": 647727,
       "word": "哪吒票房领跑",
@@ -2156,7 +2156,7 @@
     },
     {
       "raw_hot": 603553,
-      "num": 286184,
+      "num": 338672,
       "word": "肖战演郭靖用一招就看热血了",
       "onboard_time": 1738227678,
       "rank": 23,
@@ -3227,6 +3227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 431625,
+      "num": 431625,
+      "word": "多国给DeepSeek使用设限",
+      "onboard_time": 1738231038,
+      "rank": 5,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 431365,
       "num": 431365,
       "word": "余承东直播被封",
@@ -3577,14 +3585,6 @@
       "onboard_time": 1737860357,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 389039,
-      "num": 389039,
-      "word": "多国给DeepSeek使用设限",
-      "onboard_time": 1738231038,
-      "rank": 5,
-      "category": "互联网"
     },
     {
       "raw_hot": 387416,
@@ -4123,6 +4123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 331519,
+      "num": 331519,
+      "word": "联合国建议日本允许女性继承皇位",
+      "onboard_time": 1738228398,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 330833,
       "num": 365891,
       "word": "猪皮冻",
@@ -4353,14 +4361,6 @@
       "onboard_time": 1737876678,
       "rank": 27,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 308820,
-      "num": 308820,
-      "word": "联合国建议日本允许女性继承皇位",
-      "onboard_time": 1738228398,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 308756,
@@ -5025,6 +5025,14 @@
       "onboard_time": 1738192993,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 256953,
+      "num": 265906,
+      "word": "费翔谈在封神拍摄期间的遗憾",
+      "onboard_time": 1738231817,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 256619,
@@ -5771,6 +5779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218341,
+      "num": 188316,
+      "word": "大张伟 干噎酸奶",
+      "onboard_time": 1738232177,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218303,
       "num": 355893,
       "word": "倪妮好美",
@@ -5993,6 +6009,22 @@
       "onboard_time": 1738214178,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 210798,
+      "num": 334155,
+      "word": "影院回应母子看电影霸座",
+      "onboard_time": 1738232058,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 210111,
+      "num": 306782,
+      "word": "过年在家不玩手机还能干什么",
+      "onboard_time": 1738229658,
+      "rank": 9,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 209948,
@@ -6939,6 +6971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 187883,
+      "num": 187883,
+      "word": "王宝强影史首位票房破200亿80后男主演",
+      "onboard_time": 1738229956,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 187566,
       "num": 187566,
       "word": "中国银幕封面肖战",
@@ -7715,14 +7755,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 168171,
-      "num": 168171,
-      "word": "王宝强影史首位票房破200亿80后男主演",
-      "onboard_time": 1738229956,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
       "raw_hot": 167441,
       "num": 265180,
       "word": "想过大年三十得等到2030年",
@@ -7737,6 +7769,14 @@
       "onboard_time": 1737806781,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 167224,
+      "num": 210224,
+      "word": "任天堂禁止非日本信用卡买日服游戏",
+      "onboard_time": 1738229537,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 167067,
@@ -9547,36 +9587,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 131575,
-      "num": 265906,
-      "word": "费翔谈在封神拍摄期间的遗憾",
-      "onboard_time": 1738231817,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 131420,
       "num": 131420,
       "word": "蔡明低声些难道光彩吗",
       "onboard_time": 1737965538,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 131154,
-      "num": 131154,
-      "word": "大张伟 干噎酸奶",
-      "onboard_time": 1738232177,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 130952,
-      "num": 306782,
-      "word": "过年在家不玩手机还能干什么",
-      "onboard_time": 1738229658,
-      "rank": 9,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 130751,
@@ -9633,14 +9649,6 @@
       "onboard_time": 1738083983,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129038,
-      "num": 210224,
-      "word": "任天堂禁止非日本信用卡买日服游戏",
-      "onboard_time": 1738229537,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 128987,
@@ -9923,14 +9931,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 124841,
-      "num": 124841,
-      "word": "影院回应母子看电影霸座",
-      "onboard_time": 1738232058,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124782,
       "num": 124782,
       "word": "时代少年团2025楼晚节目单",
@@ -9993,6 +9993,14 @@
       "onboard_time": 1737860357,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123429,
+      "num": 121593,
+      "word": "小小的我",
+      "onboard_time": 1738230678,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 123422,
@@ -10195,6 +10203,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 119516,
+      "num": 119516,
+      "word": "周深用一首歌唱出妈妈们的一生",
+      "onboard_time": 1738232298,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119194,
       "num": 119194,
       "word": "农民工过年杀猪想起已逝母亲泪目",
@@ -10315,6 +10331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 116844,
+      "num": 116844,
+      "word": "王菲世界赠予我的武汉浪漫",
+      "onboard_time": 1738233558,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116646,
       "num": 172044,
       "word": "广东冷出了冰挂雾凇",
@@ -10377,6 +10401,14 @@
       "onboard_time": 1737876317,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115694,
+      "num": 115694,
+      "word": "杭州断桥挤爆了啊但来都来了",
+      "onboard_time": 1738233198,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115649,
@@ -10665,14 +10697,6 @@
       "onboard_time": 1737978618,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 111151,
-      "num": 111151,
-      "word": "小小的我",
-      "onboard_time": 1738230678,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 111054,
@@ -11396,7 +11420,7 @@
     },
     {
       "raw_hot": 99952,
-      "num": 99952,
+      "num": 188562,
       "word": "王楚钦王曼昱参加抽签仪式",
       "onboard_time": 1738229357,
       "rank": 48,
@@ -12393,6 +12417,14 @@
       "onboard_time": 1737983418,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 81746,
+      "num": 81746,
+      "word": "金价",
+      "onboard_time": 1738233497,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 81745,
@@ -13435,6 +13467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53914,
+      "num": 213568,
+      "word": "过年必须吃香菜是啥习俗",
+      "onboard_time": 1738231518,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53621,
       "num": 208764,
       "word": "巴特勒至少被禁赛五场",
@@ -13664,14 +13704,6 @@
       "word": "过年仪式感被外国人学到真精髓了",
       "onboard_time": 1737934275,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 46866,
-      "num": 213568,
-      "word": "过年必须吃香菜是啥习俗",
-      "onboard_time": 1738231518,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -14985,6 +15017,14 @@
       "onboard_time": 1738188071,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13070,
+      "num": 193285,
+      "word": "曹弘浪打哪个",
+      "onboard_time": 1738227858,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 13062,
