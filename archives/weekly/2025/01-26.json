@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738235990749,
+  "endTime": 1738236941841,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -443,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1938083,
+      "num": 1938083,
+      "word": "金价",
+      "onboard_time": 1738233497,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1919364,
       "num": 1919364,
       "word": "藕饼",
@@ -627,14 +635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1439286,
-      "num": 1439286,
-      "word": "金价",
-      "onboard_time": 1738233497,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
       "raw_hot": 1432517,
       "num": 1432517,
       "word": "孟子义红包",
@@ -748,7 +748,7 @@
     },
     {
       "raw_hot": 1258410,
-      "num": 1025006,
+      "num": 1059249,
       "word": "射雕口碑",
       "onboard_time": 1738227257,
       "rank": 6,
@@ -1385,6 +1385,14 @@
       "onboard_time": 1737889577,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 855677,
+      "num": 287739,
+      "word": "颜安 女寝",
+      "onboard_time": 1738236138,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 854012,
@@ -2651,6 +2659,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 512862,
+      "num": 331777,
+      "word": "梁家辉在春晚后台哭了3次",
+      "onboard_time": 1738236259,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 512537,
       "num": 640974,
       "word": "张凌赫翻牌",
@@ -2745,6 +2761,14 @@
       "onboard_time": 1737886218,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 500427,
+      "num": 150577,
+      "word": "乌尔善",
+      "onboard_time": 1738234577,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 500343,
@@ -3225,6 +3249,14 @@
       "onboard_time": 1738217897,
       "rank": 24,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 436218,
+      "num": 269693,
+      "word": "丁禹兮看自己春晚挑眉害羞了",
+      "onboard_time": 1738234459,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 435786,
@@ -4099,14 +4131,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 335008,
-      "num": 147033,
-      "word": "乌尔善",
-      "onboard_time": 1738234577,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
       "raw_hot": 333957,
       "num": 233694,
       "word": "网红犬哈礼鹿身上一个褥疮也没有",
@@ -4291,14 +4315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 320453,
-      "num": 146371,
-      "word": "丁禹兮看自己春晚挑眉害羞了",
-      "onboard_time": 1738234459,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 319882,
       "num": 319882,
       "word": "埃文凯尔父母羡慕儿子上春晚",
@@ -4441,6 +4457,14 @@
       "onboard_time": 1738030697,
       "rank": 9,
       "category": "数码"
+    },
+    {
+      "raw_hot": 303670,
+      "num": 175593,
+      "word": "虞书欣檀健次预制联动",
+      "onboard_time": 1738235419,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 303619,
@@ -5132,7 +5156,7 @@
     },
     {
       "raw_hot": 254466,
-      "num": 147653,
+      "num": 176905,
       "word": "范丞丞直播",
       "onboard_time": 1738233918,
       "rank": 21,
@@ -5193,6 +5217,14 @@
       "onboard_time": 1737928872,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251081,
+      "num": 306782,
+      "word": "过年在家不玩手机还能干什么",
+      "onboard_time": 1738229658,
+      "rank": 9,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 251020,
@@ -5555,14 +5587,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 231459,
-      "num": 306782,
-      "word": "过年在家不玩手机还能干什么",
-      "onboard_time": 1738229658,
-      "rank": 9,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 231446,
       "num": 213761,
       "word": "撒贝宁尼格买提春晚后台共用氧气瓶",
@@ -5688,6 +5712,14 @@
       "word": "央视海采发现一位爱老婆狂魔",
       "onboard_time": 1737948197,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 224454,
+      "num": 164463,
+      "word": "杭州断桥挤爆了啊但来都来了",
+      "onboard_time": 1738233198,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -6131,14 +6163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208710,
-      "num": 143235,
-      "word": "杭州断桥挤爆了啊但来都来了",
-      "onboard_time": 1738233198,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 208693,
       "num": 208693,
       "word": "BLACKPINK个人唱片公司",
@@ -6515,6 +6539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198675,
+      "num": 160505,
+      "word": "春晚哪首歌是你心中最佳",
+      "onboard_time": 1738234517,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198658,
       "num": 198658,
       "word": "成龙澳网再现招牌动作",
@@ -6811,14 +6843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 192150,
-      "num": 141369,
-      "word": "虞书欣檀健次预制联动",
-      "onboard_time": 1738235419,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 191794,
       "num": 191794,
       "word": "左航在街上有拍了拍",
@@ -6961,14 +6985,6 @@
       "onboard_time": 1738047918,
       "rank": 32,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 189008,
-      "num": 141739,
-      "word": "春晚哪首歌是你心中最佳",
-      "onboard_time": 1738234517,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 188862,
@@ -8323,6 +8339,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 157036,
+      "num": 157036,
+      "word": "王菲世界赠予我的武汉浪漫",
+      "onboard_time": 1738233558,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157029,
       "num": 157029,
       "word": "棍铲",
@@ -8337,6 +8361,14 @@
       "onboard_time": 1737885618,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156971,
+      "num": 156971,
+      "word": "张艺兴陈伟霆苏有朋高清图",
+      "onboard_time": 1738236259,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 156957,
@@ -8609,6 +8641,14 @@
       "onboard_time": 1738055120,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150662,
+      "num": 150662,
+      "word": "潘展乐蛇年第一条微博",
+      "onboard_time": 1738236498,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 150502,
@@ -9219,6 +9259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138317,
+      "num": 138317,
+      "word": "通天教主",
+      "onboard_time": 1738236799,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 138278,
       "num": 138278,
       "word": "杨紫最近的生活边角",
@@ -9427,6 +9475,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 135634,
+      "num": 135634,
+      "word": "千万不要趁猫打哈欠把手指塞猫嘴里",
+      "onboard_time": 1738235778,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135495,
       "num": 135495,
       "word": "刘诗诗最强辅助",
@@ -9465,14 +9521,6 @@
       "onboard_time": 1737988638,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134544,
-      "num": 134544,
-      "word": "千万不要趁猫打哈欠把手指塞猫嘴里",
-      "onboard_time": 1738235778,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 134358,
@@ -9667,6 +9715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131158,
+      "num": 131158,
+      "word": "哪吒2彩蛋",
+      "onboard_time": 1738235119,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 130751,
       "num": 130751,
       "word": "比尔盖茨与特朗普讨论艾滋病",
@@ -9713,14 +9769,6 @@
       "onboard_time": 1737973097,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129213,
-      "num": 113508,
-      "word": "哪吒2彩蛋",
-      "onboard_time": 1738235119,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 129144,
@@ -10000,6 +10048,14 @@
       "word": "樱桃琥珀新春祝福",
       "onboard_time": 1738039097,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 125097,
+      "num": 125097,
+      "word": "无所畏惧渣男开会",
+      "onboard_time": 1738236558,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -10417,14 +10473,6 @@
       "onboard_time": 1738058124,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 116844,
-      "num": 116844,
-      "word": "王菲世界赠予我的武汉浪漫",
-      "onboard_time": 1738233558,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 116646,
@@ -14835,6 +14883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 21392,
+      "num": 294717,
+      "word": "神十九乘组太空出差三个月收获满满",
+      "onboard_time": 1738236379,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20971,
       "num": 72286,
       "word": "河北骄傲孙颖莎给大家拜年了",
@@ -14921,6 +14977,14 @@
       "onboard_time": 1738178292,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 19033,
+      "num": 1159309,
+      "word": "文化中国行看故宫蛇年主题文物",
+      "onboard_time": 1738236138,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18846,

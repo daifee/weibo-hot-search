@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738235990749,
+  "endTime": 1738236941841,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1923,6 +1923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1938083,
+      "num": 1938083,
+      "word": "金价",
+      "onboard_time": 1738233497,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1930199,
       "num": 1930199,
       "word": "第一批解放军已抵达西藏震中",
@@ -3547,14 +3555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1439286,
-      "num": 1439286,
-      "word": "金价",
-      "onboard_time": 1738233497,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
       "raw_hot": 1436773,
       "num": 1226187,
       "word": "金希澈残疾等级",
@@ -4436,7 +4436,7 @@
     },
     {
       "raw_hot": 1258410,
-      "num": 1025006,
+      "num": 1059249,
       "word": "射雕口碑",
       "onboard_time": 1738227257,
       "rank": 6,
@@ -8281,6 +8281,14 @@
       "onboard_time": 1737190818,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 855677,
+      "num": 287739,
+      "word": "颜安 女寝",
+      "onboard_time": 1738236138,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 855492,
@@ -16011,6 +16019,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 512862,
+      "num": 331777,
+      "word": "梁家辉在春晚后台哭了3次",
+      "onboard_time": 1738236259,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 512646,
       "num": 505414,
       "word": "泰国影视圈人士发声",
@@ -16585,6 +16601,14 @@
       "onboard_time": 1737266176,
       "rank": 17,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 500427,
+      "num": 150577,
+      "word": "乌尔善",
+      "onboard_time": 1738234577,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 500343,
@@ -19249,6 +19273,14 @@
       "onboard_time": 1738217897,
       "rank": 24,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 436218,
+      "num": 269693,
+      "word": "丁禹兮看自己春晚挑眉害羞了",
+      "onboard_time": 1738234459,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 435929,
@@ -24955,14 +24987,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 335008,
-      "num": 147033,
-      "word": "乌尔善",
-      "onboard_time": 1738234577,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
       "raw_hot": 334908,
       "num": 334908,
       "word": "西飞",
@@ -26001,14 +26025,6 @@
       "onboard_time": 1736950280,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 320453,
-      "num": 146371,
-      "word": "丁禹兮看自己春晚挑眉害羞了",
-      "onboard_time": 1738234459,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 320382,
@@ -27257,6 +27273,14 @@
       "onboard_time": 1738030697,
       "rank": 9,
       "category": "数码"
+    },
+    {
+      "raw_hot": 303670,
+      "num": 175593,
+      "word": "虞书欣檀健次预制联动",
+      "onboard_time": 1738235419,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 303619,
@@ -32060,7 +32084,7 @@
     },
     {
       "raw_hot": 254466,
-      "num": 147653,
+      "num": 176905,
       "word": "范丞丞直播",
       "onboard_time": 1738233918,
       "rank": 21,
@@ -32513,6 +32537,14 @@
       "onboard_time": 1737928872,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251081,
+      "num": 306782,
+      "word": "过年在家不玩手机还能干什么",
+      "onboard_time": 1738229658,
+      "rank": 9,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 251070,
@@ -34835,14 +34867,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 231459,
-      "num": 306782,
-      "word": "过年在家不玩手机还能干什么",
-      "onboard_time": 1738229658,
-      "rank": 9,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 231456,
       "num": 231456,
       "word": "洛杉矶日落大道被烧成废墟",
@@ -35760,6 +35784,14 @@
       "word": "男子高速超速100%追尾前车",
       "onboard_time": 1737696199,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 224454,
+      "num": 164463,
+      "word": "杭州断桥挤爆了啊但来都来了",
+      "onboard_time": 1738233198,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -38488,14 +38520,6 @@
       "word": "今天南方小年",
       "onboard_time": 1737609860,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 208710,
-      "num": 143235,
-      "word": "杭州断桥挤爆了啊但来都来了",
-      "onboard_time": 1738233198,
-      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -41323,6 +41347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 198675,
+      "num": 160505,
+      "word": "春晚哪首歌是你心中最佳",
+      "onboard_time": 1738234517,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198658,
       "num": 198658,
       "word": "成龙澳网再现招牌动作",
@@ -43531,14 +43563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 192150,
-      "num": 141369,
-      "word": "虞书欣檀健次预制联动",
-      "onboard_time": 1738235419,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 192091,
       "num": 182298,
       "word": "WTT世界排名越高违规罚款越多",
@@ -44633,14 +44657,6 @@
       "onboard_time": 1738047918,
       "rank": 32,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 189008,
-      "num": 141739,
-      "word": "春晚哪首歌是你心中最佳",
-      "onboard_time": 1738234517,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 188956,
@@ -54723,6 +54739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157036,
+      "num": 157036,
+      "word": "王菲世界赠予我的武汉浪漫",
+      "onboard_time": 1738233558,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157029,
       "num": 157029,
       "word": "棍铲",
@@ -54745,6 +54769,14 @@
       "onboard_time": 1736407821,
       "rank": 45,
       "category": "军事"
+    },
+    {
+      "raw_hot": 156971,
+      "num": 156971,
+      "word": "张艺兴陈伟霆苏有朋高清图",
+      "onboard_time": 1738236259,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 156968,
@@ -56681,6 +56713,14 @@
       "onboard_time": 1735661005,
       "rank": 45,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 150662,
+      "num": 150662,
+      "word": "潘展乐蛇年第一条微博",
+      "onboard_time": 1738236498,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 150645,
@@ -61179,6 +61219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 138317,
+      "num": 138317,
+      "word": "通天教主",
+      "onboard_time": 1738236799,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 138279,
       "num": 138279,
       "word": "郭京飞直播憋屈爆了",
@@ -62371,6 +62419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135634,
+      "num": 135634,
+      "word": "千万不要趁猫打哈欠把手指塞猫嘴里",
+      "onboard_time": 1738235778,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135599,
       "num": 135599,
       "word": "71岁张艾嘉状态",
@@ -62801,14 +62857,6 @@
       "onboard_time": 1736000430,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 134544,
-      "num": 134544,
-      "word": "千万不要趁猫打哈欠把手指塞猫嘴里",
-      "onboard_time": 1738235778,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 134543,
@@ -64083,6 +64131,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 131158,
+      "num": 131158,
+      "word": "哪吒2彩蛋",
+      "onboard_time": 1738235119,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 131145,
       "num": 131145,
       "word": "封神第二部视效团队",
@@ -64729,14 +64785,6 @@
       "onboard_time": 1736901139,
       "rank": 40,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 129213,
-      "num": 113508,
-      "word": "哪吒2彩蛋",
-      "onboard_time": 1738235119,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 129172,
@@ -66369,6 +66417,14 @@
       "onboard_time": 1736724737,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 125097,
+      "num": 125097,
+      "word": "无所畏惧渣男开会",
+      "onboard_time": 1738236558,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 125079,
@@ -69601,14 +69657,6 @@
       "onboard_time": 1737625037,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 116844,
-      "num": 116844,
-      "word": "王菲世界赠予我的武汉浪漫",
-      "onboard_time": 1738233558,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 116840,
@@ -92611,6 +92659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 21392,
+      "num": 294717,
+      "word": "神十九乘组太空出差三个月收获满满",
+      "onboard_time": 1738236379,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21385,
       "num": 21385,
       "word": "张婧仪侧脸杀",
@@ -93265,6 +93321,14 @@
       "onboard_time": 1738178292,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 19033,
+      "num": 1159309,
+      "word": "文化中国行看故宫蛇年主题文物",
+      "onboard_time": 1738236138,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18981,

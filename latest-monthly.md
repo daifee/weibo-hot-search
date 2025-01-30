@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/30 19:19:50
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/30 19:35:41
 </p>
 </blockquote>
 <p>
@@ -1455,6 +1455,12 @@ Ok 咱们线上（热度：2051932）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%23" target="weibo">
+金价（热度：1938083）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E8%A7%A3%E6%94%BE%E5%86%9B%E5%B7%B2%E6%8A%B5%E8%BE%BE%E8%A5%BF%E8%97%8F%E9%9C%87%E4%B8%AD%23" target="weibo">
 第一批解放军已抵达西藏震中（热度：1930199）
 </a>
@@ -2669,12 +2675,6 @@ Angelababy相思令出场镜头（热度：1447714）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%E7%AC%AC%E4%BA%8C%E5%AD%A3%23" target="weibo">
 国色芳华第二季（热度：1439809）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%23" target="weibo">
-金价（热度：1439286）
 </a>
 </li>
 

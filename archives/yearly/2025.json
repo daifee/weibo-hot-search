@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738235990749,
+  "endTime": 1738236941841,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1923,6 +1923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1938083,
+      "num": 1938083,
+      "word": "金价",
+      "onboard_time": 1738233497,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1930199,
       "num": 1930199,
       "word": "第一批解放军已抵达西藏震中",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1738090873,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1741684,
-      "num": 1741684,
-      "word": "中国代表团正在交涉",
-      "onboard_time": 1737614179,
-      "rank": 33,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
