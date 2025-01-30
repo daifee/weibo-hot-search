@@ -1,0 +1,410 @@
+{
+  "runTime": 1738250608816,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1525802,
+        "num": 1525802,
+        "word": "金价",
+        "onboard_time": 1738233497,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 904995,
+        "num": 904995,
+        "word": "藕饼",
+        "onboard_time": 1738221257,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 39406,
+        "num": 734680,
+        "word": "文化中国行非遗贺新春",
+        "onboard_time": 1738247660,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 718305,
+        "num": 718305,
+        "word": "谢霆锋和两个儿子背影照",
+        "onboard_time": 1738241778,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 546166,
+        "num": 546166,
+        "word": "一县城影院推无座票售价与有座相同",
+        "onboard_time": 1738243759,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310560,
+        "num": 310560,
+        "word": "脑瘫少年连续9年收到房东的压岁包",
+        "onboard_time": 1738246879,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 486301,
+        "num": 286559,
+        "word": "范丞丞直播角度太暧昧了",
+        "onboard_time": 1738247838,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261348,
+        "num": 261348,
+        "word": "男孩井盖点鞭炮汽车被炸翻",
+        "onboard_time": 1738246760,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253093,
+        "num": 253093,
+        "word": "过年在家不玩手机还能干什么",
+        "onboard_time": 1738229658,
+        "rank": 8,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 236365,
+        "num": 236365,
+        "word": "中新网专访肖战",
+        "onboard_time": 1738249638,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 468456,
+        "num": 236231,
+        "word": "票房",
+        "onboard_time": 1738247598,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 467711,
+        "num": 235840,
+        "word": "美国客机坠河已找到30多具遗体",
+        "onboard_time": 1738238958,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 251892,
+        "num": 235556,
+        "word": "汕头烟花",
+        "onboard_time": 1738241297,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 446232,
+        "num": 235196,
+        "word": "邓婵玉撕掉了女性被凝视困境",
+        "onboard_time": 1738239379,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 441925,
+        "num": 235092,
+        "word": "射雕口碑",
+        "onboard_time": 1738227257,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 428784,
+        "num": 234456,
+        "word": "哪吒3",
+        "onboard_time": 1738227556,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 258452,
+        "num": 234242,
+        "word": "美国撞机可能无人生还",
+        "onboard_time": 1738242620,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 172022,
+        "num": 234082,
+        "word": "陈凯歌一家四口拜妈祖",
+        "onboard_time": 1738245978,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179672,
+        "num": 233753,
+        "word": "美国男子在飞机相撞前收到妻子短信",
+        "onboard_time": 1738228398,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 113066,
+        "num": 233268,
+        "word": "原来小狗也喜欢看烟花",
+        "onboard_time": 1738241118,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 411938,
+        "num": 233160,
+        "word": "唐探上座率",
+        "onboard_time": 1738243818,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 400335,
+        "num": 232841,
+        "word": "陈丽君春晚许仙",
+        "onboard_time": 1738247959,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398268,
+        "num": 232236,
+        "word": "周润发称拍唐探1900是圆梦",
+        "onboard_time": 1738245619,
+        "rank": 22,
+        "category": "电影,艺人"
+      },
+      {
+        "raw_hot": 370864,
+        "num": 232082,
+        "word": "颜安 女寝",
+        "onboard_time": 1738236138,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153256,
+        "num": 231803,
+        "word": "美军用飞机频繁穿越民航航线酿大祸",
+        "onboard_time": 1738243099,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 355693,
+        "num": 231581,
+        "word": "梁家辉在春晚后台哭了3次",
+        "onboard_time": 1738236259,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345204,
+        "num": 230990,
+        "word": "原来经济独立是可以过好年的",
+        "onboard_time": 1738248558,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 339124,
+        "num": 230655,
+        "word": "肖战 郭靖",
+        "onboard_time": 1738248079,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 293207,
+        "num": 230420,
+        "word": "春晚哪首歌是你心中最佳",
+        "onboard_time": 1738234517,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266245,
+        "num": 230269,
+        "word": "刘昊然好帅",
+        "onboard_time": 1738241478,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 230004,
+        "num": 230004,
+        "word": "大哪吒帅了不止一点点",
+        "onboard_time": 1738249759,
+        "rank": 30,
+        "category": "电影,作品衍生"
+      },
+      {
+        "raw_hot": 197639,
+        "num": 197639,
+        "word": "李昀锐演的肖涵又争又抢",
+        "onboard_time": 1738245259,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201594,
+        "num": 196950,
+        "word": "哪吒",
+        "onboard_time": 1738206558,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167774,
+        "num": 192648,
+        "word": "第一批外地女婿已经到娘家了",
+        "onboard_time": 1738243159,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19640,
+        "num": 191037,
+        "word": "神农架地标神农坛穿上粉红新装",
+        "onboard_time": 1738250536,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190993,
+        "num": 190993,
+        "word": "李云霄把公主的娇俏与可爱演活了",
+        "onboard_time": 1738249398,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171569,
+        "num": 171569,
+        "word": "封神",
+        "onboard_time": 1738242919,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123488,
+        "num": 123488,
+        "word": "因为静电小猫和我冷战三天",
+        "onboard_time": 1738247539,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110848,
+        "num": 110848,
+        "word": "巳巳如意中国年",
+        "onboard_time": 1738236018,
+        "rank": 38,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 110415,
+        "num": 110415,
+        "word": "第一次见人仗狗势的",
+        "onboard_time": 1738245799,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151000,
+        "num": 110350,
+        "word": "刘宇郑业成演年轻人过年状态",
+        "onboard_time": 1738238119,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149952,
+        "num": 110291,
+        "word": "叶澜依再现甄嬛传名场面",
+        "onboard_time": 1738244660,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147201,
+        "num": 110201,
+        "word": "唐朝公主夫妻吵架不用夜叩宫门",
+        "onboard_time": 1738248138,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122020,
+        "num": 110087,
+        "word": "曾舜晞给粉丝发了3w红包",
+        "onboard_time": 1738246638,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84967,
+        "num": 109937,
+        "word": "压岁钱和红包其实不是一回事",
+        "onboard_time": 1738220958,
+        "rank": 44,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 116414,
+        "num": 109823,
+        "word": "王菲世界赠予我的武汉浪漫",
+        "onboard_time": 1738233558,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82742,
+        "num": 109727,
+        "word": "女子初二回娘家返程塞满300斤特产",
+        "onboard_time": 1738243278,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80744,
+        "num": 109636,
+        "word": "王楚钦林诗栋搭档出战男双",
+        "onboard_time": 1738248799,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80372,
+        "num": 109609,
+        "word": "英伟达认为禁售增强中国科技自主决心",
+        "onboard_time": 1738239379,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 79157,
+        "num": 109472,
+        "word": "麻辣王子家过年被小朋友挤爆",
+        "onboard_time": 1738250536,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#团圆年#"
+    }
+  }
+}
