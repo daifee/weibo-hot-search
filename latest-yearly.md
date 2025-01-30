@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/30 11:39:00
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/30 12:26:08
 </p>
 </blockquote>
 <p>
@@ -897,6 +897,12 @@ TikTok停止在美服务（热度：2463156）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%80%E7%A5%A8%E6%88%BF%E6%8E%92%E5%90%8D%23" target="weibo">
+大年初一票房排名（热度：2432743）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%94%B1%E4%BA%86%E8%B5%B5%E8%8B%B1%E4%BF%8A%E7%9A%84%E6%AD%8C%23" target="weibo">
 薛之谦唱了赵英俊的歌（热度：2432486）
 </a>
@@ -1331,12 +1337,6 @@ Ok 咱们线上（热度：2051932）
 <li>
 <a href="https://s.weibo.com/weibo?q=%236000%E5%85%83%E4%BB%A5%E4%B8%8B%E6%89%8B%E6%9C%BA%E8%A1%A5%E8%B4%B4%E6%9C%80%E7%BB%88%E4%BB%B7%E6%A0%BC%E7%9A%8415%25%23" target="weibo">
 6000元以下手机补贴最终价格的15%（热度：2013584）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%80%E7%A5%A8%E6%88%BF%E6%8E%92%E5%90%8D%23" target="weibo">
-大年初一票房排名（热度：2010560）
 </a>
 </li>
 
