@@ -1,10 +1,10 @@
 {
   "startTime": 1738254491138,
-  "endTime": 1738254491138,
+  "endTime": 1738255385235,
   "band_list": [
     {
-      "raw_hot": 1278484,
-      "num": 1278484,
+      "raw_hot": 1427134,
+      "num": 1427134,
       "word": "敖丙他爸出场 哇声一片",
       "onboard_time": 1738251139,
       "rank": 0,
@@ -19,8 +19,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 745586,
-      "num": 745586,
+      "raw_hot": 770934,
+      "num": 770934,
       "word": "肖战 郭靖",
       "onboard_time": 1738248079,
       "rank": 3,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 573395,
-      "num": 192070,
+      "num": 329272,
       "word": "刘谦 真的不是我干的",
       "onboard_time": 1738251018,
       "rank": 6,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 407725,
+      "num": 185263,
+      "word": "王俊凯你快回我呀",
+      "onboard_time": 1738251257,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 395409,
       "num": 185902,
       "word": "美国客机坠河已找到30多具遗体",
@@ -75,12 +83,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 350942,
-      "num": 185263,
-      "word": "王俊凯你快回我呀",
-      "onboard_time": 1738251257,
-      "rank": 13,
+      "raw_hot": 363423,
+      "num": 272732,
+      "word": "乌尔善说姬发邓婵玉是惺惺相惜",
+      "onboard_time": 1738253059,
+      "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 343975,
+      "num": 343975,
+      "word": "麻辣王子家过年被小朋友挤爆",
+      "onboard_time": 1738250536,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 331789,
@@ -89,14 +105,6 @@
       "onboard_time": 1738247838,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 300632,
-      "num": 185003,
-      "word": "麻辣王子家过年被小朋友挤爆",
-      "onboard_time": 1738250536,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 274249,
@@ -131,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228578,
+      "num": 184099,
+      "word": "徐志胜Pro徐志胜Max",
+      "onboard_time": 1738251797,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 224501,
       "num": 180941,
       "word": "颜安 女寝",
@@ -147,20 +163,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194248,
+      "num": 194248,
+      "word": "特朗普将就撞机事件发表讲话",
+      "onboard_time": 1738251858,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 192606,
       "num": 192606,
       "word": "汕头烟花",
       "onboard_time": 1738241297,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 187232,
-      "num": 187232,
-      "word": "乌尔善说姬发邓婵玉是惺惺相惜",
-      "onboard_time": 1738253059,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 180462,
@@ -187,14 +203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142325,
-      "num": 184099,
-      "word": "徐志胜Pro徐志胜Max",
-      "onboard_time": 1738251797,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 140063,
       "num": 140063,
       "word": "刘昊然好帅",
@@ -203,20 +211,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 136629,
-      "num": 136629,
+      "raw_hot": 139875,
+      "num": 139875,
+      "word": "2025春节档首部10亿电影诞生",
+      "onboard_time": 1738253537,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 138112,
+      "num": 138112,
       "word": "汕头上演国内规模最大烟花秀",
       "onboard_time": 1738252098,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 135201,
-      "num": 186948,
-      "word": "特朗普将就撞机事件发表讲话",
-      "onboard_time": 1738251858,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 135050,
@@ -233,14 +241,6 @@
       "onboard_time": 1738242620,
       "rank": 17,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 130246,
-      "num": 130246,
-      "word": "2025春节档首部10亿电影诞生",
-      "onboard_time": 1738253537,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 128640,
@@ -291,6 +291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 93602,
+      "num": 93602,
+      "word": "答案预售中",
+      "onboard_time": 1738254076,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 92246,
       "num": 92246,
       "word": "DeepSeek仍是APP商店榜首",
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 92023,
-      "num": 92023,
+      "num": 177030,
       "word": "过年在家不玩手机还能干什么",
       "onboard_time": 1738229658,
       "rank": 38,
@@ -323,12 +331,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 89734,
-      "num": 89734,
-      "word": "答案预售中",
-      "onboard_time": 1738254076,
-      "rank": 41,
-      "category": "音乐"
+      "raw_hot": 87107,
+      "num": 82817,
+      "word": "虞书欣檀健次预制联动",
+      "onboard_time": 1738235419,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 84459,
@@ -337,14 +345,6 @@
       "onboard_time": 1738245259,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 82817,
-      "num": 82817,
-      "word": "虞书欣檀健次预制联动",
-      "onboard_time": 1738235419,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 82418,
@@ -379,6 +379,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 66548,
+      "num": 66548,
+      "word": "易烊千玺在有意识地改变肢体习惯",
+      "onboard_time": 1738255216,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 60605,
       "num": 71635,
       "word": "英伟达认为禁售增强中国科技自主决心",
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 34207,
-      "num": 782252,
+      "num": 787274,
       "word": "文化中国行非遗贺新春",
       "onboard_time": 1738247660,
       "rank": 2,
@@ -406,6 +414,9 @@
   "hotgov_list": [
     {
       "word": "#行之所向心之所系#"
+    },
+    {
+      "word": "#团圆年#"
     }
   ]
 }

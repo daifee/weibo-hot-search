@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738254491138,
+  "endTime": 1738255385235,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -651,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1427134,
+      "num": 1427134,
+      "word": "敖丙他爸出场 哇声一片",
+      "onboard_time": 1738251139,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1425783,
       "num": 1425783,
       "word": "谁给李宇春穿的裙子",
@@ -745,14 +753,6 @@
       "onboard_time": 1738071585,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1278484,
-      "num": 1278484,
-      "word": "敖丙他爸出场 哇声一片",
-      "onboard_time": 1738251139,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 1261398,
@@ -1643,6 +1643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 770934,
+      "num": 770934,
+      "word": "肖战 郭靖",
+      "onboard_time": 1738248079,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 769338,
       "num": 769338,
       "word": "沈腾凭什么演马丽女婿",
@@ -1705,14 +1713,6 @@
       "onboard_time": 1738127960,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 745586,
-      "num": 745586,
-      "word": "肖战 郭靖",
-      "onboard_time": 1738248079,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 744016,
@@ -2428,7 +2428,7 @@
     },
     {
       "raw_hot": 573395,
-      "num": 192070,
+      "num": 329272,
       "word": "刘谦 真的不是我干的",
       "onboard_time": 1738251018,
       "rank": 35,
@@ -3635,6 +3635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 407725,
+      "num": 185263,
+      "word": "王俊凯你快回我呀",
+      "onboard_time": 1738251257,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 406521,
       "num": 299789,
       "word": "白色橄榄树官宣12首OST",
@@ -4051,6 +4059,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 363423,
+      "num": 272732,
+      "word": "乌尔善说姬发邓婵玉是惺惺相惜",
+      "onboard_time": 1738253059,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 361296,
       "num": 276302,
       "word": "全球热拍的王一博",
@@ -4163,14 +4179,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 350942,
-      "num": 185263,
-      "word": "王俊凯你快回我呀",
-      "onboard_time": 1738251257,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 350494,
       "num": 350494,
       "word": "比杨紫更了解杨紫的人出现",
@@ -4209,6 +4217,14 @@
       "onboard_time": 1738210696,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 343975,
+      "num": 343975,
+      "word": "麻辣王子家过年被小朋友挤爆",
+      "onboard_time": 1738250536,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 343051,
@@ -4753,14 +4769,6 @@
       "onboard_time": 1738037777,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 300632,
-      "num": 185003,
-      "word": "麻辣王子家过年被小朋友挤爆",
-      "onboard_time": 1738250536,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 300117,
@@ -5915,6 +5923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 228578,
+      "num": 184099,
+      "word": "徐志胜Pro徐志胜Max",
+      "onboard_time": 1738251797,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 228088,
       "num": 228088,
       "word": "王一博的头身比",
@@ -7035,6 +7051,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 194248,
+      "num": 194248,
+      "word": "特朗普将就撞机事件发表讲话",
+      "onboard_time": 1738251858,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 194052,
       "num": 170264,
       "word": "日本富士台再爆性丑闻",
@@ -7433,14 +7457,6 @@
       "onboard_time": 1738139539,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 187232,
-      "num": 187232,
-      "word": "乌尔善说姬发邓婵玉是惺惺相惜",
-      "onboard_time": 1738253059,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 187205,
@@ -9435,14 +9451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 142325,
-      "num": 184099,
-      "word": "徐志胜Pro徐志胜Max",
-      "onboard_time": 1738251797,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 142194,
       "num": 152141,
       "word": "张博恒3年后再次回家过年",
@@ -9579,6 +9587,14 @@
       "category": "作品衍生,游戏"
     },
     {
+      "raw_hot": 139875,
+      "num": 139875,
+      "word": "2025春节档首部10亿电影诞生",
+      "onboard_time": 1738253537,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 139697,
       "num": 172931,
       "word": "苏新皓连续四周超话热度钻三",
@@ -9681,6 +9697,14 @@
       "onboard_time": 1738200378,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138112,
+      "num": 138112,
+      "word": "汕头上演国内规模最大烟花秀",
+      "onboard_time": 1738252098,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137980,
@@ -9803,14 +9827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136629,
-      "num": 136629,
-      "word": "汕头上演国内规模最大烟花秀",
-      "onboard_time": 1738252098,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136618,
       "num": 192520,
       "word": "黄誉博直播",
@@ -9905,14 +9921,6 @@
       "onboard_time": 1738115180,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135201,
-      "num": 186948,
-      "word": "特朗普将就撞机事件发表讲话",
-      "onboard_time": 1738251858,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 134951,
@@ -10177,14 +10185,6 @@
       "onboard_time": 1737899900,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 130246,
-      "num": 130246,
-      "word": "2025春节档首部10亿电影诞生",
-      "onboard_time": 1738253537,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 129806,
@@ -12443,6 +12443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 93602,
+      "num": 93602,
+      "word": "答案预售中",
+      "onboard_time": 1738254076,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 93497,
       "num": 165273,
       "word": "人民网评异人之下之决战碧游村",
@@ -12617,14 +12625,6 @@
       "onboard_time": 1738199596,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 89734,
-      "num": 89734,
-      "word": "答案预售中",
-      "onboard_time": 1738254076,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 89121,
@@ -13721,6 +13721,14 @@
       "onboard_time": 1737882319,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66548,
+      "num": 66548,
+      "word": "易烊千玺在有意识地改变肢体习惯",
+      "onboard_time": 1738255216,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 66275,
