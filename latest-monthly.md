@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/30 12:40:56
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/30 13:22:39
 </p>
 </blockquote>
 <p>
@@ -1997,6 +1997,12 @@ TikTok难民来啦（热度：1761821）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%96%E9%9F%B3%E5%89%AF%E6%80%BB%E8%A3%81%E5%9B%9E%E5%BA%94%E7%94%A8%E6%88%B7%E5%B0%86%E9%92%B1%E8%AF%BB%E6%88%90%E7%B1%B3%23" target="weibo">
 抖音副总裁回应用户将钱读成米（热度：1662707）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%82%E6%A1%A3%E7%A5%A8%E4%BB%B7%E8%BF%87%E9%AB%98%E5%BC%95%E5%90%90%E6%A7%BD%23" target="weibo">
+春节档票价过高引吐槽（热度：1662003）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ OneRepublic将登上春晚（热度：878463）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23R1SE%E8%88%9E%E5%8F%B0%23" target="weibo">
 R1SE舞台（热度：868936）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%90%BA%E4%B8%89%E9%83%A8%E5%A4%A7%E5%89%A7%E6%9D%A5%E6%8B%9C%E5%B9%B4%23" target="weibo">
-迪丽热巴携三部大剧来拜年（热度：868668）
 </a>
 </li>
 

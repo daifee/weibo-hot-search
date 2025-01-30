@@ -1,0 +1,410 @@
+{
+  "runTime": 1738214559063,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1909583,
+        "num": 1909583,
+        "word": "大年初一票房排名",
+        "onboard_time": 1738205058,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1662003,
+        "num": 1662003,
+        "word": "春节档票价过高引吐槽",
+        "onboard_time": 1738210877,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6723,
+        "num": 1168119,
+        "word": "文化中国行中国年味浓",
+        "onboard_time": 1738214477,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 784656,
+        "num": 784656,
+        "word": "李子柒春晚战袍人工吊染6小时",
+        "onboard_time": 1738207217,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 693272,
+        "num": 693272,
+        "word": "中国AI取名字都甩美国几条街",
+        "onboard_time": 1738208957,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 716634,
+        "num": 693165,
+        "word": "美国一架客机坠河",
+        "onboard_time": 1738207638,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 688142,
+        "num": 688142,
+        "word": "张艺兴谈EXO回归",
+        "onboard_time": 1738211117,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351906,
+        "num": 351906,
+        "word": "王者荣耀联动国色芳华",
+        "onboard_time": 1738209378,
+        "rank": 7,
+        "category": "游戏,剧集"
+      },
+      {
+        "raw_hot": 303327,
+        "num": 303327,
+        "word": "光与夜之恋",
+        "onboard_time": 1738212558,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172614,
+        "num": 299740,
+        "word": "美国撞机已致18人遇难",
+        "onboard_time": 1738214178,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23526,
+        "num": 297810,
+        "word": "北京台春晚蛇么都好",
+        "onboard_time": 1738158680,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 488442,
+        "num": 292405,
+        "word": "张艺兴说和肖战很投缘",
+        "onboard_time": 1738210516,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 431085,
+        "num": 287012,
+        "word": "孙千晒与沈腾马丽合照",
+        "onboard_time": 1738213877,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359822,
+        "num": 283454,
+        "word": "美国客机与军机相撞现场视频",
+        "onboard_time": 1738211537,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 346046,
+        "num": 276302,
+        "word": "全球热拍的王一博",
+        "onboard_time": 1738212437,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346733,
+        "num": 274037,
+        "word": "美国被撞飞机有60名左右乘客",
+        "onboard_time": 1738208177,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 270988,
+        "num": 270988,
+        "word": "侯明昊边吸氧边跳舞",
+        "onboard_time": 1738210156,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246777,
+        "num": 246777,
+        "word": "日本乒坛名将赌博被捕",
+        "onboard_time": 1738203917,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149151,
+        "num": 230759,
+        "word": "靖蓉在彼此身上看到了更宽阔的世界",
+        "onboard_time": 1738214178,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 224257,
+        "num": 224257,
+        "word": "美坠河客机上有64人",
+        "onboard_time": 1738210757,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 388904,
+        "num": 223965,
+        "word": "赵露思换了想了十年的发色",
+        "onboard_time": 1738153161,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312137,
+        "num": 223935,
+        "word": "韩网评价陈哲远发红包",
+        "onboard_time": 1738210696,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261163,
+        "num": 223543,
+        "word": "易烊千玺为啥说不做男主角了",
+        "onboard_time": 1738200076,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258489,
+        "num": 223162,
+        "word": "Jennie海王星连衣裙",
+        "onboard_time": 1738213758,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223023,
+        "num": 223023,
+        "word": "大年初二回门日",
+        "onboard_time": 1738196477,
+        "rank": 24,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 257073,
+        "num": 214939,
+        "word": "哪吒敖丙cp",
+        "onboard_time": 1738207398,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 236362,
+        "num": 213179,
+        "word": "陈丽君演贾宝玉像从书中走出来",
+        "onboard_time": 1738211056,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202955,
+        "num": 202955,
+        "word": "单身的埃文凯尔羡慕中国女婿",
+        "onboard_time": 1738205058,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204540,
+        "num": 200841,
+        "word": "封神第二部让我学会延迟满足",
+        "onboard_time": 1738209678,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162184,
+        "num": 195289,
+        "word": "哪吒2吒儿又双叒叕燃爆了",
+        "onboard_time": 1738213457,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193062,
+        "num": 193062,
+        "word": "大张伟说易烊千玺是一生的老师",
+        "onboard_time": 1738213636,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192375,
+        "num": 192375,
+        "word": "这次嗑到的又是男二",
+        "onboard_time": 1738212437,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9222,
+        "num": 153224,
+        "word": "有一种温暖叫相亲相爱一家人",
+        "onboard_time": 1738214477,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151253,
+        "num": 151575,
+        "word": "韩国客机烧出一个洞可能因充电宝",
+        "onboard_time": 1738205537,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 151362,
+        "num": 151362,
+        "word": "DeepSeek预测春节档票房冠军是哪吒",
+        "onboard_time": 1738210815,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 192299,
+        "num": 147433,
+        "word": "赵露思长文谈抑郁症",
+        "onboard_time": 1738151061,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183557,
+        "num": 146997,
+        "word": "于适说黄景瑜内娱服役太有名了",
+        "onboard_time": 1738211836,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141962,
+        "num": 141962,
+        "word": "王楚钦祝大家日进斗金",
+        "onboard_time": 1738210457,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176896,
+        "num": 136560,
+        "word": "哪吒排片",
+        "onboard_time": 1738201277,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124806,
+        "num": 124806,
+        "word": "美国撞机尚未救出任何幸存者",
+        "onboard_time": 1738214537,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 174618,
+        "num": 124533,
+        "word": "哪吒",
+        "onboard_time": 1738206558,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168415,
+        "num": 124141,
+        "word": "钮祜禄氏全是狠人",
+        "onboard_time": 1738211117,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140528,
+        "num": 123983,
+        "word": "我愿拥护邓婵玉为天下共主",
+        "onboard_time": 1738214237,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123422,
+        "num": 123422,
+        "word": "你支持NBA改成10分钟一节吗",
+        "onboard_time": 1738212916,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128428,
+        "num": 122965,
+        "word": "吴磊在春晚后台炫饺子",
+        "onboard_time": 1738207937,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113365,
+        "num": 113365,
+        "word": "女生捡到奶茶袋一看有10万现金",
+        "onboard_time": 1738197015,
+        "rank": 45,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 112159,
+        "num": 112159,
+        "word": "人人人灵隐寺人人人",
+        "onboard_time": 1738213157,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107299,
+        "num": 107299,
+        "word": "大年初二回家是喜团聚是福",
+        "onboard_time": 1738202717,
+        "rank": 47,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 107123,
+        "num": 107123,
+        "word": "勇士挑战联盟第一",
+        "onboard_time": 1738214115,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103873,
+        "num": 103873,
+        "word": "是不是全国女婿到丈母娘家都这样",
+        "onboard_time": 1738197677,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#聆听总书记的新春祝福#"
+    }
+  }
+}

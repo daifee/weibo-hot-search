@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738212056282,
+  "endTime": 1738214559063,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -513,6 +513,14 @@
       "onboard_time": 1738086677,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1662003,
+      "num": 1662003,
+      "word": "春节档票价过高引吐槽",
+      "onboard_time": 1738210877,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1661596,
@@ -1164,7 +1172,7 @@
     },
     {
       "raw_hot": 913057,
-      "num": 434654,
+      "num": 784656,
       "word": "李子柒春晚战袍人工吊染6小时",
       "onboard_time": 1738207217,
       "rank": 29,
@@ -1675,6 +1683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 693272,
+      "num": 693272,
+      "word": "中国AI取名字都甩美国几条街",
+      "onboard_time": 1738208957,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 692583,
       "num": 692583,
       "word": "哪吒",
@@ -1704,6 +1720,14 @@
       "word": "黄毛毛问张大大睡了吗",
       "onboard_time": 1737939557,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 688142,
+      "num": 688142,
+      "word": "张艺兴谈EXO回归",
+      "onboard_time": 1738211117,
+      "rank": 40,
       "category": "艺人"
     },
     {
@@ -2603,14 +2627,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 496496,
-      "num": 496496,
-      "word": "中国AI取名字都甩美国几条街",
-      "onboard_time": 1738208957,
-      "rank": 8,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 496026,
       "num": 682193,
       "word": "除夕",
@@ -3025,6 +3041,14 @@
       "onboard_time": 1737990797,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 431085,
+      "num": 287012,
+      "word": "孙千晒与沈腾马丽合照",
+      "onboard_time": 1738213877,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 428682,
@@ -3563,6 +3587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 359822,
+      "num": 298575,
+      "word": "美国客机与军机相撞现场视频",
+      "onboard_time": 1738211537,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 358654,
       "num": 443937,
       "word": "张朝阳 红包",
@@ -3683,6 +3715,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 346733,
+      "num": 282199,
+      "word": "美国被撞飞机有60名左右乘客",
+      "onboard_time": 1738208177,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 346046,
+      "num": 276302,
+      "word": "全球热拍的王一博",
+      "onboard_time": 1738212437,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 343051,
       "num": 343051,
       "word": "柯洁说裁判说的话让人发抖",
@@ -3697,14 +3745,6 @@
       "onboard_time": 1737895519,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 342723,
-      "num": 342723,
-      "word": "春节档票价过高引吐槽",
-      "onboard_time": 1738210877,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 341112,
@@ -3780,7 +3820,7 @@
     },
     {
       "raw_hot": 336413,
-      "num": 194854,
+      "num": 200841,
       "word": "封神第二部让我学会延迟满足",
       "onboard_time": 1738209678,
       "rank": 22,
@@ -4043,19 +4083,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 312672,
-      "num": 196933,
-      "word": "张艺兴谈EXO回归",
-      "onboard_time": 1738211117,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 312582,
       "num": 514850,
       "word": "易烊千玺谈作为演员的蜕变",
       "onboard_time": 1738161561,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 312137,
+      "num": 223935,
+      "word": "韩网评价陈哲远发红包",
+      "onboard_time": 1738210696,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -4139,6 +4179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 303327,
+      "num": 303327,
+      "word": "光与夜之恋",
+      "onboard_time": 1737953718,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 303315,
       "num": 303315,
       "word": "周杰伦ins晒与权志龙合照",
@@ -4153,14 +4201,6 @@
       "onboard_time": 1738197677,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 302496,
-      "num": 193303,
-      "word": "韩网评价陈哲远发红包",
-      "onboard_time": 1738210696,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 302493,
@@ -4212,7 +4252,7 @@
     },
     {
       "raw_hot": 294946,
-      "num": 186267,
+      "num": 270988,
       "word": "侯明昊边吸氧边跳舞",
       "onboard_time": 1738210156,
       "rank": 23,
@@ -4417,14 +4457,6 @@
       "onboard_time": 1738052121,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 282199,
-      "num": 282199,
-      "word": "美国被撞飞机有60名左右乘客",
-      "onboard_time": 1738208177,
-      "rank": 25,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 281811,
@@ -4721,6 +4753,14 @@
       "onboard_time": 1738137258,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 258489,
+      "num": 223162,
+      "word": "Jennie海王星连衣裙",
+      "onboard_time": 1738213758,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 257988,
@@ -5147,6 +5187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 236362,
+      "num": 213179,
+      "word": "陈丽君演贾宝玉像从书中走出来",
+      "onboard_time": 1738211056,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235682,
       "num": 179738,
       "word": "每晚必拔WiFi没苦硬吃是我爸妈没错了",
@@ -5315,6 +5363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 224257,
+      "num": 224257,
+      "word": "美坠河客机上有64人",
+      "onboard_time": 1738210757,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 223805,
       "num": 155241,
       "word": "宋小宝李沐宸演许仙白娘子",
@@ -5345,14 +5401,6 @@
       "onboard_time": 1738141038,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 222796,
-      "num": 182586,
-      "word": "陈丽君演贾宝玉像从书中走出来",
-      "onboard_time": 1738211056,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 222403,
@@ -6259,6 +6307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193062,
+      "num": 193062,
+      "word": "大张伟说易烊千玺是一生的老师",
+      "onboard_time": 1738213636,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193034,
       "num": 193034,
       "word": "十个勤天下一站春晚",
@@ -6313,6 +6369,14 @@
       "onboard_time": 1738163237,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 192375,
+      "num": 192375,
+      "word": "这次嗑到的又是男二",
+      "onboard_time": 1738212437,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 191794,
@@ -6667,6 +6731,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 183557,
+      "num": 152434,
+      "word": "于适说黄景瑜内娱服役太有名了",
+      "onboard_time": 1738211836,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 183476,
       "num": 167137,
       "word": "山东春晚",
@@ -6729,14 +6801,6 @@
       "onboard_time": 1738132037,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 182172,
-      "num": 182172,
-      "word": "美坠河客机上有64人",
-      "onboard_time": 1738210757,
-      "rank": 42,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 181323,
@@ -7059,6 +7123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 172614,
+      "num": 299740,
+      "word": "美国撞机已致18人遇难",
+      "onboard_time": 1738214178,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 172315,
       "num": 172315,
       "word": "沈梦辰要给国色芳华导演寄膏药",
@@ -7217,6 +7289,14 @@
       "onboard_time": 1738154839,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168415,
+      "num": 213598,
+      "word": "钮祜禄氏全是狠人",
+      "onboard_time": 1738211117,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 167441,
@@ -7441,6 +7521,14 @@
       "onboard_time": 1738061004,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162184,
+      "num": 195289,
+      "word": "哪吒2吒儿又双叒叕燃爆了",
+      "onboard_time": 1738213457,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 162137,
@@ -7851,14 +7939,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 153520,
-      "num": 298575,
-      "word": "美国客机与军机相撞现场视频",
-      "onboard_time": 1738211537,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 152778,
       "num": 154744,
       "word": "杭州灵隐寺人山人海",
@@ -7891,14 +7971,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 152434,
-      "num": 152434,
-      "word": "于适说黄景瑜内娱服役太有名了",
-      "onboard_time": 1738211836,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 152414,
       "num": 111473,
       "word": "檀健次 唱跳俱佳",
@@ -7913,14 +7985,6 @@
       "onboard_time": 1737862699,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 152038,
-      "num": 213598,
-      "word": "钮祜禄氏全是狠人",
-      "onboard_time": 1738211117,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 151694,
@@ -8041,6 +8105,14 @@
       "onboard_time": 1737951316,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149151,
+      "num": 230759,
+      "word": "靖蓉在彼此身上看到了更宽阔的世界",
+      "onboard_time": 1738214178,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 148974,
@@ -8457,6 +8529,14 @@
       "onboard_time": 1738035137,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140528,
+      "num": 123983,
+      "word": "我愿拥护邓婵玉为天下共主",
+      "onboard_time": 1738214237,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 140274,
@@ -9259,6 +9339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124806,
+      "num": 124806,
+      "word": "美国撞机尚未救出任何幸存者",
+      "onboard_time": 1738214537,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 124782,
       "num": 124782,
       "word": "时代少年团2025楼晚节目单",
@@ -9321,6 +9409,14 @@
       "onboard_time": 1737860357,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123422,
+      "num": 123422,
+      "word": "你支持NBA改成10分钟一节吗",
+      "onboard_time": 1738212916,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 122778,
@@ -9867,6 +9963,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 112159,
+      "num": 112159,
+      "word": "人人人灵隐寺人人人",
+      "onboard_time": 1738213157,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111746,
       "num": 111746,
       "word": "马斯克质疑DeepSeek",
@@ -10193,6 +10297,14 @@
       "onboard_time": 1737895459,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 107123,
+      "num": 107123,
+      "word": "勇士挑战联盟第一",
+      "onboard_time": 1738214115,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 107031,
@@ -11505,14 +11617,6 @@
       "onboard_time": 1737817163,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 81955,
-      "num": 81955,
-      "word": "光与夜之恋",
-      "onboard_time": 1737953718,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 81840,
@@ -14171,6 +14275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 9222,
+      "num": 153224,
+      "word": "有一种温暖叫相亲相爱一家人",
+      "onboard_time": 1738214477,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 8933,
       "num": 61517,
       "word": "用非遗剪纸打开城市地标",
@@ -14241,6 +14353,14 @@
       "onboard_time": 1738099992,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 6723,
+      "num": 1168119,
+      "word": "文化中国行中国年味浓",
+      "onboard_time": 1738214477,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 4801,
