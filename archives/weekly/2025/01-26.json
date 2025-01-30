@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738272040780,
+  "endTime": 1738272952248,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -15531,6 +15531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 22337,
+      "num": 18901,
+      "word": "美国撞机事件空中音频曝光",
+      "onboard_time": 1738271891,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 22254,
       "num": 177932,
       "word": "动漫最帅前辈毋庸置疑",
@@ -15691,20 +15699,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 18890,
+      "num": 18890,
+      "word": "为何美国两日坠三机",
+      "onboard_time": 1738267092,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 18865,
       "num": 33572,
       "word": "陈丽君穿10公分戏靴连转25米彩绸",
       "onboard_time": 1738268890,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 18857,
-      "num": 18857,
-      "word": "为何美国两日坠三机",
-      "onboard_time": 1738267092,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 18846,
@@ -15899,14 +15907,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 13776,
-      "num": 13776,
-      "word": "美国撞机事件空中音频曝光",
-      "onboard_time": 1738271891,
-      "rank": 46,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 13746,
       "num": 14682,
       "word": "王一博用攀登比喻进步",
@@ -16075,6 +16075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 9630,
+      "num": 30403,
+      "word": "张艺兴陈伟霆苏有朋春晚直拍",
+      "onboard_time": 1738272550,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 9598,
       "num": 113434,
       "word": "范德比尔特复出",
@@ -16201,6 +16209,14 @@
       "onboard_time": 1738214477,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 6446,
+      "num": 29258,
+      "word": "黄轩问人夫感是人的丈夫吗",
+      "onboard_time": 1738272491,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 4801,
