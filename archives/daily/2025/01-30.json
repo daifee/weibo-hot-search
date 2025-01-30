@@ -1,6 +1,6 @@
 {
   "startTime": 1738168091636,
-  "endTime": 1738211168675,
+  "endTime": 1738212056282,
   "band_list": [
     {
       "raw_hot": 2432743,
@@ -123,6 +123,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 653208,
+      "num": 385505,
+      "word": "张艺兴说和肖战很投缘",
+      "onboard_time": 1738210516,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 647727,
       "num": 647727,
       "word": "哪吒票房领跑",
@@ -161,6 +169,14 @@
       "onboard_time": 1738205058,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 496496,
+      "num": 496496,
+      "word": "中国AI取名字都甩美国几条街",
+      "onboard_time": 1738208957,
+      "rank": 8,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 494574,
@@ -219,14 +235,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 426007,
-      "num": 426007,
-      "word": "中国AI取名字都甩美国几条街",
-      "onboard_time": 1738208957,
-      "rank": 8,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 424562,
       "num": 424562,
       "word": "鞠婧祎 神女",
@@ -241,14 +249,6 @@
       "onboard_time": 1738196535,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 417205,
-      "num": 385505,
-      "word": "张艺兴说和肖战很投缘",
-      "onboard_time": 1738210516,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 401708,
@@ -323,12 +323,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 342723,
+      "num": 342723,
+      "word": "春节档票价过高引吐槽",
+      "onboard_time": 1738210877,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 337819,
       "num": 349318,
       "word": "台湾嘉义县5.2级地震",
       "onboard_time": 1738204697,
       "rank": 15,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 336413,
+      "num": 194854,
+      "word": "封神第二部让我学会延迟满足",
+      "onboard_time": 1738209678,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 323992,
@@ -355,12 +371,36 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 312672,
+      "num": 196933,
+      "word": "张艺兴谈EXO回归",
+      "onboard_time": 1738211117,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 303158,
       "num": 235595,
       "word": "是不是全国女婿到丈母娘家都这样",
       "onboard_time": 1738197677,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 302496,
+      "num": 193303,
+      "word": "韩网评价陈哲远发红包",
+      "onboard_time": 1738210696,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 294946,
+      "num": 186267,
+      "word": "侯明昊边吸氧边跳舞",
+      "onboard_time": 1738210156,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 284619,
@@ -387,20 +427,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 282199,
+      "num": 282199,
+      "word": "美国被撞飞机有60名左右乘客",
+      "onboard_time": 1738208177,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 281811,
       "num": 208872,
       "word": "易烊千玺回应一年没接新角色",
       "onboard_time": 1738192934,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 281250,
-      "num": 281250,
-      "word": "美国被撞飞机有60名左右乘客",
-      "onboard_time": 1738208177,
-      "rank": 25,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 265551,
@@ -435,20 +475,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 254157,
-      "num": 168755,
-      "word": "封神第二部让我学会延迟满足",
-      "onboard_time": 1738209678,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
       "raw_hot": 252840,
       "num": 252840,
       "word": "大年初二回门日",
       "onboard_time": 1738196477,
       "rank": 13,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 244485,
+      "num": 244485,
+      "word": "王楚钦祝大家日进斗金",
+      "onboard_time": 1738210457,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 240868,
@@ -467,16 +507,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 232475,
-      "num": 165360,
-      "word": "侯明昊边吸氧边跳舞",
-      "onboard_time": 1738210156,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 222796,
-      "num": 158239,
+      "num": 182586,
       "word": "陈丽君演贾宝玉像从书中走出来",
       "onboard_time": 1738211056,
       "rank": 25,
@@ -507,14 +539,6 @@
       "category": "国际时政,互联网"
     },
     {
-      "raw_hot": 203583,
-      "num": 149713,
-      "word": "韩网评价陈哲远发红包",
-      "onboard_time": 1738210696,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 200951,
       "num": 161128,
       "word": "迪丽热巴工作室换了头像背景",
@@ -524,7 +548,7 @@
     },
     {
       "raw_hot": 200471,
-      "num": 145631,
+      "num": 154006,
       "word": "黄圣依孙茜在小品里互呛",
       "onboard_time": 1738208658,
       "rank": 32,
@@ -532,7 +556,7 @@
     },
     {
       "raw_hot": 199870,
-      "num": 180759,
+      "num": 182193,
       "word": "哪吒",
       "onboard_time": 1738206558,
       "rank": 28,
@@ -552,14 +576,6 @@
       "word": "WTT",
       "onboard_time": 1738207638,
       "rank": 29,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 191708,
-      "num": 191708,
-      "word": "王楚钦祝大家日进斗金",
-      "onboard_time": 1738210457,
-      "rank": 18,
       "category": "体育"
     },
     {
@@ -601,6 +617,14 @@
       "onboard_time": 1738200017,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 182172,
+      "num": 182172,
+      "word": "美坠河客机上有64人",
+      "onboard_time": 1738210757,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 180335,
@@ -659,6 +683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 153520,
+      "num": 298575,
+      "word": "美国客机与军机相撞现场视频",
+      "onboard_time": 1738211537,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 152778,
       "num": 154744,
       "word": "杭州灵隐寺人山人海",
@@ -667,12 +699,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 152434,
+      "num": 152434,
+      "word": "于适说黄景瑜内娱服役太有名了",
+      "onboard_time": 1738211836,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 152414,
       "num": 111473,
       "word": "檀健次 唱跳俱佳",
       "onboard_time": 1738167318,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152038,
+      "num": 213598,
+      "word": "钮祜禄氏全是狠人",
+      "onboard_time": 1738211117,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 151694,
@@ -795,12 +843,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 132311,
-      "num": 132311,
-      "word": "美坠河客机上有64人",
-      "onboard_time": 1738210757,
-      "rank": 42,
-      "category": "海外新闻"
+      "raw_hot": 129735,
+      "num": 129735,
+      "word": "DeepSeek预测春节档票房冠军是哪吒",
+      "onboard_time": 1738210815,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 128987,
@@ -827,6 +875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 124710,
+      "num": 124710,
+      "word": "美客机与军机相撞瞬间",
+      "onboard_time": 1738210996,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 122216,
       "num": 122216,
       "word": "薛之谦不小心露出了活泼的马脚",
@@ -843,14 +899,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 121132,
-      "num": 121132,
-      "word": "春节档票价过高引吐槽",
-      "onboard_time": 1738210877,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120579,
       "num": 120579,
       "word": "封神2豆瓣开分6.5",
@@ -865,14 +913,6 @@
       "onboard_time": 1738163303,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119472,
-      "num": 120475,
-      "word": "钮祜禄氏全是狠人",
-      "onboard_time": 1738211117,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 119186,
@@ -899,14 +939,6 @@
       "category": "民生新闻,幽默"
     },
     {
-      "raw_hot": 117120,
-      "num": 117120,
-      "word": "DeepSeek预测春节档票房冠军是哪吒",
-      "onboard_time": 1738210815,
-      "rank": 46,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 114626,
       "num": 114626,
       "word": "DeepSeek在意大利应用商店下架",
@@ -929,6 +961,14 @@
       "onboard_time": 1738154000,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 113258,
+      "num": 113258,
+      "word": "小婉管乐演的白蛇青蛇",
+      "onboard_time": 1738209017,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 112962,
@@ -995,14 +1035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104531,
-      "num": 104531,
-      "word": "美客机与军机相撞瞬间",
-      "onboard_time": 1738210996,
-      "rank": 49,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 102882,
       "num": 102882,
       "word": "欧冠",
@@ -1017,6 +1049,14 @@
       "onboard_time": 1738189032,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 97866,
+      "num": 349043,
+      "word": "美一客机与黑鹰直升机相撞变火球",
+      "onboard_time": 1738211117,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 97277,
@@ -1116,7 +1156,7 @@
     },
     {
       "raw_hot": 82056,
-      "num": 103634,
+      "num": 189388,
       "word": "勇士大丰收",
       "onboard_time": 1738207338,
       "rank": 49,
@@ -1147,20 +1187,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 73009,
+      "num": 182788,
+      "word": "丞磊的红包",
+      "onboard_time": 1738211177,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71136,
       "num": 111726,
       "word": "广州烟花",
       "onboard_time": 1738151962,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 67181,
-      "num": 137885,
-      "word": "张艺兴谈EXO回归",
-      "onboard_time": 1738211117,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 66241,
@@ -1283,28 +1323,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 40596,
+      "num": 182755,
+      "word": "胡歌新片幕后花絮",
+      "onboard_time": 1738208837,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 38533,
       "num": 34739,
       "word": "春节档观影排序",
       "onboard_time": 1738173792,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 38488,
-      "num": 141104,
-      "word": "美一客机与黑鹰直升机相撞变火球",
-      "onboard_time": 1738211117,
-      "rank": 36,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 38211,
-      "num": 155268,
-      "word": "胡歌新片幕后花絮",
-      "onboard_time": 1738208837,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 35117,
@@ -1355,6 +1387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25359,
+      "num": 152725,
+      "word": "当中国汉堡遇上吃不完的年夜饭",
+      "onboard_time": 1738208837,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 24016,
       "num": 32782,
       "word": "萌兰硬控无敌年味仪式感",
@@ -1385,14 +1425,6 @@
       "onboard_time": 1738177273,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 21618,
-      "num": 140437,
-      "word": "当中国汉堡遇上吃不完的年夜饭",
-      "onboard_time": 1738208837,
-      "rank": 37,
-      "category": "美食"
     },
     {
       "raw_hot": 21396,
