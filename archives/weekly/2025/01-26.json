@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738251462851,
+  "endTime": 1738254491138,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -745,6 +745,14 @@
       "onboard_time": 1738071585,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1278484,
+      "num": 1278484,
+      "word": "敖丙他爸出场 哇声一片",
+      "onboard_time": 1738251139,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 1261398,
@@ -1699,6 +1707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 745586,
+      "num": 745586,
+      "word": "肖战 郭靖",
+      "onboard_time": 1738248079,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 744016,
       "num": 744016,
       "word": "无忧前员工称张大大工作室常换人",
@@ -2235,6 +2251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 607808,
+      "num": 607808,
+      "word": "一县城影院推无座票需自带板凳观影",
+      "onboard_time": 1738250958,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 603553,
       "num": 338672,
       "word": "肖战演郭靖用一招就看热血了",
@@ -2401,6 +2425,14 @@
       "onboard_time": 1738221857,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 573395,
+      "num": 192070,
+      "word": "刘谦 真的不是我干的",
+      "onboard_time": 1738251018,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 568924,
@@ -2785,14 +2817,6 @@
       "onboard_time": 1738161500,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 506960,
-      "num": 253752,
-      "word": "肖战 郭靖",
-      "onboard_time": 1738248079,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 506666,
@@ -4139,6 +4163,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 350942,
+      "num": 185263,
+      "word": "王俊凯你快回我呀",
+      "onboard_time": 1738251257,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 350494,
       "num": 350494,
       "word": "比杨紫更了解杨紫的人出现",
@@ -4721,6 +4753,14 @@
       "onboard_time": 1738037777,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 300632,
+      "num": 185003,
+      "word": "麻辣王子家过年被小朋友挤爆",
+      "onboard_time": 1738250536,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 300117,
@@ -7395,6 +7435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187232,
+      "num": 187232,
+      "word": "乌尔善说姬发邓婵玉是惺惺相惜",
+      "onboard_time": 1738253059,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 187205,
       "num": 165320,
       "word": "李现在春晚说了谢之遥的台词",
@@ -7480,14 +7528,6 @@
       "word": "射雕女性角色",
       "onboard_time": 1738154060,
       "rank": 40,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 185015,
-      "num": 185015,
-      "word": "敖丙他爸出场 哇声一片",
-      "onboard_time": 1738251139,
-      "rank": 32,
       "category": "电影"
     },
     {
@@ -8097,14 +8137,6 @@
       "onboard_time": 1737905298,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 168729,
-      "num": 168729,
-      "word": "刘谦 真的不是我干的",
-      "onboard_time": 1738251018,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 168714,
@@ -9403,6 +9435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142325,
+      "num": 184099,
+      "word": "徐志胜Pro徐志胜Max",
+      "onboard_time": 1738251797,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142194,
       "num": 152141,
       "word": "张博恒3年后再次回家过年",
@@ -9763,6 +9803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136629,
+      "num": 136629,
+      "word": "汕头上演国内规模最大烟花秀",
+      "onboard_time": 1738252098,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136618,
       "num": 192520,
       "word": "黄誉博直播",
@@ -9857,6 +9905,14 @@
       "onboard_time": 1738115180,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135201,
+      "num": 186948,
+      "word": "特朗普将就撞机事件发表讲话",
+      "onboard_time": 1738251858,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 134951,
@@ -10115,20 +10171,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 130602,
-      "num": 170149,
-      "word": "麻辣王子家过年被小朋友挤爆",
-      "onboard_time": 1738250536,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 130510,
       "num": 130510,
       "word": "买年货",
       "onboard_time": 1737899900,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 130246,
+      "num": 130246,
+      "word": "2025春节档首部10亿电影诞生",
+      "onboard_time": 1738253537,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 129806,
@@ -10825,14 +10881,6 @@
       "onboard_time": 1737864738,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 118456,
-      "num": 112555,
-      "word": "王俊凯你快回我呀",
-      "onboard_time": 1738251257,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 118272,
@@ -12459,6 +12507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92246,
+      "num": 92246,
+      "word": "DeepSeek仍是APP商店榜首",
+      "onboard_time": 1738253297,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 92216,
       "num": 184769,
       "word": "内马尔与利雅得新月解约",
@@ -12561,6 +12617,14 @@
       "onboard_time": 1738199596,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 89734,
+      "num": 89734,
+      "word": "答案预售中",
+      "onboard_time": 1738254076,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 89121,
@@ -13851,6 +13915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60015,
+      "num": 71454,
+      "word": "背景图",
+      "onboard_time": 1738254137,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 59976,
       "num": 219498,
       "word": "广东擀面杖都用来跳英歌舞了",
@@ -13873,14 +13945,6 @@
       "onboard_time": 1737987799,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 59649,
-      "num": 259355,
-      "word": "一县城影院推无座票需自带板凳观影",
-      "onboard_time": 1738250958,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 59451,
