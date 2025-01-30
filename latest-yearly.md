@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/30 20:41:49
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/30 20:56:41
 </p>
 </blockquote>
 <p>
@@ -1119,6 +1119,12 @@ B站弹幕（热度：2270595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%23" target="weibo">
+金价（热度：2187832）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E4%BB%A5%E8%8B%A5%E5%BE%8B%E5%B8%88%E5%A3%B0%E6%98%8E%23" target="weibo">
 徐以若律师声明（热度：2183435）
 </a>
@@ -1169,12 +1175,6 @@ B站弹幕（热度：2270595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E9%AD%8F%E6%99%A8%20%E5%B7%B2%E5%A9%9A%E7%94%B7%E4%BA%BA%E7%9A%84%E8%87%AA%E8%A7%89%23" target="weibo">
 张若昀魏晨 已婚男人的自觉（热度：2150978）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%23" target="weibo">
-金价（热度：2139874）
 </a>
 </li>
 
