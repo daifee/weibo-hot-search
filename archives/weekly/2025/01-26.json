@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738218607996,
+  "endTime": 1738219367348,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -996,7 +996,7 @@
     },
     {
       "raw_hot": 1008811,
-      "num": 177122,
+      "num": 299662,
       "word": "偶遇沈腾一家三口海南过年",
       "onboard_time": 1738214897,
       "rank": 20,
@@ -1907,6 +1907,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 638759,
+      "num": 638759,
+      "word": "曾黎推着赵露思",
+      "onboard_time": 1738217057,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 637962,
       "num": 246050,
       "word": "顾茜茜的保时捷卖了",
@@ -2691,14 +2699,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 491846,
-      "num": 491846,
-      "word": "曾黎推着赵露思",
-      "onboard_time": 1738217057,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 486525,
       "num": 401574,
       "word": "陈都灵 偶遇一条萌萌蛇",
@@ -2849,6 +2849,14 @@
       "onboard_time": 1737847454,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 471178,
+      "num": 397433,
+      "word": "疑似陈思诚自己找的群演",
+      "onboard_time": 1738217177,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 470422,
@@ -3099,6 +3107,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 431147,
+      "num": 253922,
+      "word": "射雕英雄传上映首日打破14个纪录",
+      "onboard_time": 1738215616,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 428682,
       "num": 428682,
       "word": "女生捡到奶茶袋一看有10万现金",
@@ -3243,6 +3259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 408567,
+      "num": 217003,
+      "word": "射雕 男女主手拉手挡大军",
+      "onboard_time": 1738217417,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 406521,
       "num": 299789,
       "word": "白色橄榄树官宣12首OST",
@@ -3353,14 +3377,6 @@
       "onboard_time": 1737971777,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 392322,
-      "num": 174973,
-      "word": "射雕英雄传上映首日打破14个纪录",
-      "onboard_time": 1738215616,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 391797,
@@ -3689,6 +3705,14 @@
       "onboard_time": 1738062927,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 356907,
+      "num": 356907,
+      "word": "法国耗资540亿欧元AI推出3天后下架",
+      "onboard_time": 1738217897,
+      "rank": 24,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 356002,
@@ -4059,14 +4083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 323206,
-      "num": 168564,
-      "word": "疑似陈思诚自己找的群演",
-      "onboard_time": 1738217177,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 322725,
       "num": 244766,
       "word": "权志龙的外套是郑亨敦在市场买的",
@@ -4185,14 +4201,6 @@
       "onboard_time": 1738143619,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 309119,
-      "num": 151418,
-      "word": "射雕 男女主手拉手挡大军",
-      "onboard_time": 1738217417,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 309094,
@@ -5267,6 +5275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 236253,
+      "num": 136678,
+      "word": "春节档电影口碑分化严重",
+      "onboard_time": 1738216457,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 235682,
       "num": 179738,
       "word": "每晚必拔WiFi没苦硬吃是我爸妈没错了",
@@ -5697,14 +5713,6 @@
       "onboard_time": 1738216457,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 215078,
-      "num": 136678,
-      "word": "春节档电影口碑分化严重",
-      "onboard_time": 1738216457,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 214736,
@@ -7123,6 +7131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176139,
+      "num": 118145,
+      "word": "肖战感谢黄晓明",
+      "onboard_time": 1738218018,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 176004,
       "num": 185102,
       "word": "外国人不语只是一味交才艺税",
@@ -7369,6 +7385,14 @@
       "onboard_time": 1737898881,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169029,
+      "num": 118554,
+      "word": "虞书欣林一这个视频没有退出键",
+      "onboard_time": 1738218556,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 168883,
@@ -7745,6 +7769,14 @@
       "onboard_time": 1737854478,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159614,
+      "num": 114180,
+      "word": "虞书欣舞台收视率登顶",
+      "onboard_time": 1738218257,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 159595,
@@ -8171,14 +8203,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 150716,
-      "num": 150716,
-      "word": "法国耗资540亿欧元AI推出3天后下架",
-      "onboard_time": 1738217897,
-      "rank": 24,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 150502,
       "num": 150502,
       "word": "哈登40分",
@@ -8393,6 +8417,14 @@
       "onboard_time": 1737986540,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145839,
+      "num": 106769,
+      "word": "赵本山一家为儿女庆生",
+      "onboard_time": 1738218918,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 145458,
@@ -8697,14 +8729,6 @@
       "onboard_time": 1738067805,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 139421,
-      "num": 114180,
-      "word": "虞书欣舞台收视率登顶",
-      "onboard_time": 1738218257,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 139348,
@@ -9105,14 +9129,6 @@
       "onboard_time": 1737976877,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 132485,
-      "num": 108262,
-      "word": "肖战感谢黄晓明",
-      "onboard_time": 1738218018,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 132461,
@@ -9731,14 +9747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 120210,
-      "num": 105245,
-      "word": "虞书欣林一这个视频没有退出键",
-      "onboard_time": 1738218556,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 120067,
       "num": 120067,
       "word": "男孩玩烟花引燃轿车家长赔15万",
@@ -9787,6 +9795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118918,
+      "num": 118918,
+      "word": "刘昊然白月光的白是皮肤白",
+      "onboard_time": 1738216338,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 118561,
       "num": 221683,
       "word": "九月退役",
@@ -9808,6 +9824,14 @@
       "word": "勇士挑战联盟第一",
       "onboard_time": 1738214115,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 118534,
+      "num": 118534,
+      "word": "孙颖莎出征WTT新加坡大满贯",
+      "onboard_time": 1738219218,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -10579,6 +10603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105129,
+      "num": 105129,
+      "word": "谁家cp名叫狗富贵啊",
+      "onboard_time": 1738219337,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 105084,
       "num": 260182,
       "word": "朝鲜试射战略巡航导弹",
@@ -10945,6 +10977,14 @@
       "onboard_time": 1737890177,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98365,
+      "num": 161108,
+      "word": "特朗普透露美国撞机细节",
+      "onboard_time": 1738218797,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 98329,
@@ -12795,6 +12835,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 54594,
+      "num": 114543,
+      "word": "初二看电影逛商圈成新年俗",
+      "onboard_time": 1738216878,
+      "rank": 39,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 54578,
       "num": 334670,
       "word": "嗑瓜子为什么停不下来",
@@ -12809,14 +12857,6 @@
       "onboard_time": 1738026976,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 53425,
-      "num": 110629,
-      "word": "初二看电影逛商圈成新年俗",
-      "onboard_time": 1738216878,
-      "rank": 39,
-      "category": "正能量"
     },
     {
       "raw_hot": 53319,
