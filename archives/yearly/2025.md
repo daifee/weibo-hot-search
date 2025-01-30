@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/30 11:24:48
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/30 11:39:00
 </p>
 </blockquote>
 <p>
@@ -1335,6 +1335,12 @@ Ok 咱们线上（热度：2051932）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%80%E7%A5%A8%E6%88%BF%E6%8E%92%E5%90%8D%23" target="weibo">
+大年初一票房排名（热度：2010560）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%20%E7%99%BE%E8%BE%BE%E7%BF%A1%E4%B8%BD%23" target="weibo">
 王楚钦 百达翡丽（热度：2008219）
 </a>
@@ -1805,12 +1811,6 @@ TikTok难民来啦（热度：1761821）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E6%94%B6%E8%A7%86%E7%8E%87%23" target="weibo">
 春晚收视率（热度：1735808）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%9B%87%E9%92%9E%23" target="weibo">
-蛇钞（热度：1731317）
 </a>
 </li>
 

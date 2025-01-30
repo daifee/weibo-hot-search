@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/30 00:28:11 ~ 2025/01/30 11:24:48
+本榜单时间：2025/01/30 00:28:11 ~ 2025/01/30 11:39:00
 </p>
 </blockquote>
 <p>
@@ -16,7 +16,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%80%E7%A5%A8%E6%88%BF%E6%8E%92%E5%90%8D%23" target="weibo">
-大年初一票房排名（热度：1548212）
+大年初一票房排名（热度：2010560）
 </a>
 </li>
 
@@ -87,6 +87,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%AE%A2%E6%9C%BA%E7%83%A7%E5%87%BA%E4%B8%80%E4%B8%AA%E6%B4%9E%E5%8F%AF%E8%83%BD%E5%9B%A0%E5%85%85%E7%94%B5%E5%AE%9D%23" target="weibo">
+韩国客机烧出一个洞可能因充电宝（热度：676312）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%92%E7%A5%A8%E6%88%BF%E9%A2%86%E8%B7%91%23" target="weibo">
 哪吒票房领跑（热度：647727）
 </a>
@@ -112,13 +118,13 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E8%BA%AB%E7%9A%84%E5%9F%83%E6%96%87%E5%87%AF%E5%B0%94%E7%BE%A1%E6%85%95%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%A9%BF%23" target="weibo">
-单身的埃文凯尔羡慕中国女婿（热度：485193）
+单身的埃文凯尔羡慕中国女婿（热度：496815）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%BB%A3%E8%A1%A8%E4%BA%86%E7%94%B5%E5%BD%B1%E8%A1%8C%E4%B8%9A%E7%9A%84%E6%83%B3%E8%B1%A1%E5%8F%AF%E8%83%BD%23" target="weibo">
-肖战代表了电影行业的想象可能（热度：462806）
+肖战代表了电影行业的想象可能（热度：494574）
 </a>
 </li>
 
@@ -171,8 +177,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%AE%A2%E6%9C%BA%E7%83%A7%E5%87%BA%E4%B8%80%E4%B8%AA%E6%B4%9E%E5%8F%AF%E8%83%BD%E5%9B%A0%E5%85%85%E7%94%B5%E5%AE%9D%23" target="weibo">
-韩国客机烧出一个洞可能因充电宝（热度：399847）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E6%9E%B6%E5%AE%A2%E6%9C%BA%E5%9D%A0%E6%B2%B3%23" target="weibo">
+美国一架客机坠河（热度：400040）
 </a>
 </li>
 
@@ -184,7 +190,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%B0%E6%88%90%E6%BC%94%E6%8A%80%23" target="weibo">
-张新成演技（热度：380919）
+张新成演技（热度：382108）
 </a>
 </li>
 
@@ -243,6 +249,12 @@ DeepSeek遭受海外攻击未来将持续（热度：366494）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AD%90%E6%9F%92%E6%98%A5%E6%99%9A%E6%88%98%E8%A2%8D%E4%BA%BA%E5%B7%A5%E5%90%8A%E6%9F%936%E5%B0%8F%E6%97%B6%23" target="weibo">
+李子柒春晚战袍人工吊染6小时（热度：308277）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%AF%E4%B8%8D%E6%98%AF%E5%85%A8%E5%9B%BD%E5%A5%B3%E5%A9%BF%E5%88%B0%E4%B8%88%E6%AF%8D%E5%A8%98%E5%AE%B6%E9%83%BD%E8%BF%99%E6%A0%B7%23" target="weibo">
 是不是全国女婿到丈母娘家都这样（热度：303158）
 </a>
@@ -263,6 +275,12 @@ DeepSeek遭受海外攻击未来将持续（热度：366494）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%9B%9E%E5%BA%94%E4%B8%80%E5%B9%B4%E6%B2%A1%E6%8E%A5%E6%96%B0%E8%A7%92%E8%89%B2%23" target="weibo">
 易烊千玺回应一年没接新角色（热度：281811）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%92%E6%95%96%E4%B8%99cp%23" target="weibo">
+哪吒敖丙cp（热度：276264）
 </a>
 </li>
 
@@ -321,12 +339,6 @@ DeepSeek遭受海外攻击未来将持续（热度：366494）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%92%E6%95%96%E4%B8%99cp%23" target="weibo">
-哪吒敖丙cp（热度：203405）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%8D%A2%E4%BA%86%E5%A4%B4%E5%83%8F%E8%83%8C%E6%99%AF%23" target="weibo">
 迪丽热巴工作室换了头像背景（热度：200951）
 </a>
@@ -341,6 +353,12 @@ DeepSeek遭受海外攻击未来将持续（热度：366494）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E5%9B%9E%E5%90%8E%E5%8F%B0%E4%B8%80%E7%9C%8B%E5%85%A8%E6%98%AF%E8%87%AA%E5%B7%B1%E5%B8%A6%E5%87%BA%E7%9A%84%E5%85%B5%23" target="weibo">
 沈腾回后台一看全是自己带出的兵（热度：192881）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23WTT%23" target="weibo">
+WTT（热度：191741）
 </a>
 </li>
 
@@ -381,8 +399,20 @@ DeepSeek将接入微软AI电脑（热度：182822）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E5%9C%A8%E6%98%A5%E6%99%9A%E5%90%8E%E5%8F%B0%E7%82%AB%E9%A5%BA%E5%AD%90%23" target="weibo">
+吴磊在春晚后台炫饺子（热度：169815）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%BF%E5%9F%8E%E5%B9%B4%E5%A4%9C%E9%A5%AD%E5%BF%AB%E5%80%92%E6%8C%82%E4%B8%80%E7%BA%BF%E9%A5%AD%E5%BA%97%E4%BA%86%23" target="weibo">
 县城年夜饭快倒挂一线饭店了（热度：164069）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%A6%96%E9%83%BD%E9%87%8C%E6%A0%B9%E5%9B%BD%E5%AE%B6%E6%9C%BA%E5%9C%BA%E6%9A%82%E6%97%B6%E5%85%B3%E9%97%AD%23" target="weibo">
+美国首都里根国家机场暂时关闭（热度：160368）
 </a>
 </li>
 
@@ -401,6 +431,12 @@ DeepSeek将接入微软AI电脑（热度：182822）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%95%BF%E7%94%B0%E5%BF%AB%E6%92%95%E6%8E%92%E7%89%87%23" target="weibo">
 王长田快撕排片（热度：153743）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E7%81%B5%E9%9A%90%E5%AF%BA%E4%BA%BA%E5%B1%B1%E4%BA%BA%E6%B5%B7%23" target="weibo">
+杭州灵隐寺人山人海（热度：152778）
 </a>
 </li>
 
@@ -431,6 +467,12 @@ DeepSeek将接入微软AI电脑（热度：182822）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%98%E6%9C%BA%E5%9D%A0%E6%AF%81%E7%BE%8E%E5%9B%BD%E7%A9%BA%E5%86%9B%E7%A6%81%E6%AD%A2%E8%A7%82%E7%9C%8B%E4%BC%A0%E6%92%AD%E8%A7%86%E9%A2%91%23" target="weibo">
 战机坠毁美国空军禁止观看传播视频（热度：147193）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%E6%98%A5%E6%99%9A%E5%90%B9%E7%AC%9B%E5%AD%90%E5%8C%85%E5%96%9C%E5%BA%86%E7%9A%84%23" target="weibo">
+黄子弘凡春晚吹笛子包喜庆的（热度：147127）
 </a>
 </li>
 
@@ -489,20 +531,26 @@ DeepSeek将接入微软AI电脑（热度：182822）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E7%81%B5%E9%9A%90%E5%AF%BA%E4%BA%BA%E5%B1%B1%E4%BA%BA%E6%B5%B7%23" target="weibo">
-杭州灵隐寺人山人海（热度：131953）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%88%9B%E5%A7%8B%E4%BA%BA%E4%B8%8E%E6%B5%99%E5%A4%A7%E5%A4%B1%E4%B9%8B%E4%BA%A4%E8%87%82%23" target="weibo">
 春晚机器人创始人与浙大失之交臂（热度：128987）
 </a>
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E5%A9%B5%E7%8E%89%E4%BA%BA%E8%AE%BE%23" target="weibo">
+邓婵玉人设（热度：128185）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E5%A9%B5%E7%8E%89%20%E6%B2%A1%E6%9C%89%E7%94%B7%E4%BA%BA%E9%85%8D%E5%BE%97%E4%B8%8A%23" target="weibo">
 邓婵玉 没有男人配得上（热度：127789）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E4%B8%8D%E5%B0%8F%E5%BF%83%E9%9C%B2%E5%87%BA%E4%BA%86%E6%B4%BB%E6%B3%BC%E7%9A%84%E9%A9%AC%E8%84%9A%23" target="weibo">
+薛之谦不小心露出了活泼的马脚（热度：122216）
 </a>
 </li>
 
@@ -521,6 +569,12 @@ DeepSeek将接入微软AI电脑（热度：182822）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%8D%9A%E6%81%923%E5%B9%B4%E5%90%8E%E5%86%8D%E6%AC%A1%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4%23" target="weibo">
 张博恒3年后再次回家过年（热度：119819）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E6%96%B0%E7%BC%96%E5%89%94%E9%AA%A8%E5%89%8A%E8%82%89%23" target="weibo">
+哪吒2新编剔骨削肉（热度：119186）
 </a>
 </li>
 
@@ -593,12 +647,6 @@ DeepSeek（热度：113430）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%89%E9%81%87%23" target="weibo">
 光遇（热度：109256）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%E6%98%A5%E6%99%9A%E5%90%B9%E7%AC%9B%E5%AD%90%E5%8C%85%E5%96%9C%E5%BA%86%E7%9A%84%23" target="weibo">
-黄子弘凡春晚吹笛子包喜庆的（热度：108524）
 </a>
 </li>
 
@@ -717,12 +765,6 @@ DeepSeek（热度：113430）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AD%90%E6%9F%92%E6%98%A5%E6%99%9A%E6%88%98%E8%A2%8D%E4%BA%BA%E5%B7%A5%E5%90%8A%E6%9F%936%E5%B0%8F%E6%97%B6%23" target="weibo">
-李子柒春晚战袍人工吊染6小时（热度：77130）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E7%83%9F%E8%8A%B1%23" target="weibo">
 广州烟花（热度：71136）
 </a>
@@ -821,6 +863,12 @@ DeepSeek（热度：113430）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%82%E6%A1%A3%E8%A7%82%E5%BD%B1%E6%8E%92%E5%BA%8F%23" target="weibo">
 春节档观影排序（热度：38533）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A2%AB%E6%92%9E%E9%A3%9E%E6%9C%BA%E6%9C%8960%E5%90%8D%E5%B7%A6%E5%8F%B3%E4%B9%98%E5%AE%A2%23" target="weibo">
+美国被撞飞机有60名左右乘客（热度：37441）
 </a>
 </li>
 

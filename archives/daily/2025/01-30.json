@@ -1,10 +1,10 @@
 {
   "startTime": 1738168091636,
-  "endTime": 1738207488052,
+  "endTime": 1738208340806,
   "band_list": [
     {
-      "raw_hot": 1548212,
-      "num": 1548212,
+      "raw_hot": 2010560,
+      "num": 2010560,
       "word": "大年初一票房排名",
       "onboard_time": 1738205058,
       "rank": 32,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1259141,
-      "num": 174300,
+      "num": 199742,
       "word": "赵露思换了想了十年的发色",
       "onboard_time": 1738153161,
       "rank": 20,
@@ -99,6 +99,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 676312,
+      "num": 676312,
+      "word": "韩国客机烧出一个洞可能因充电宝",
+      "onboard_time": 1738205537,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 647727,
       "num": 647727,
       "word": "哪吒票房领跑",
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 631119,
-      "num": 163406,
+      "num": 194305,
       "word": "赵露思长文谈抑郁症",
       "onboard_time": 1738151061,
       "rank": 25,
@@ -131,16 +139,16 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 485193,
-      "num": 485193,
+      "raw_hot": 496815,
+      "num": 496815,
       "word": "单身的埃文凯尔羡慕中国女婿",
       "onboard_time": 1738205058,
       "rank": 48,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 462806,
-      "num": 264319,
+      "raw_hot": 494574,
+      "num": 307104,
       "word": "肖战代表了电影行业的想象可能",
       "onboard_time": 1738205417,
       "rank": 30,
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 437599,
-      "num": 170554,
+      "num": 386559,
       "word": "日本乒坛名将赌博被捕",
       "onboard_time": 1738203917,
       "rank": 22,
@@ -211,11 +219,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 399847,
-      "num": 399847,
-      "word": "韩国客机烧出一个洞可能因充电宝",
-      "onboard_time": 1738205537,
-      "rank": 45,
+      "raw_hot": 400040,
+      "num": 400040,
+      "word": "美国一架客机坠河",
+      "onboard_time": 1738207638,
+      "rank": 4,
       "category": "海外新闻"
     },
     {
@@ -227,8 +235,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 380919,
-      "num": 263414,
+      "raw_hot": 382108,
+      "num": 312365,
       "word": "张新成演技",
       "onboard_time": 1738204097,
       "rank": 25,
@@ -307,8 +315,16 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 308277,
+      "num": 199171,
+      "word": "李子柒春晚战袍人工吊染6小时",
+      "onboard_time": 1738207217,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
       "raw_hot": 303158,
-      "num": 170139,
+      "num": 235595,
       "word": "是不是全国女婿到丈母娘家都这样",
       "onboard_time": 1738197677,
       "rank": 21,
@@ -337,6 +353,14 @@
       "onboard_time": 1738192934,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 276264,
+      "num": 198074,
+      "word": "哪吒敖丙cp",
+      "onboard_time": 1738207398,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 265551,
@@ -411,14 +435,6 @@
       "category": "国际时政,互联网"
     },
     {
-      "raw_hot": 203405,
-      "num": 154476,
-      "word": "哪吒敖丙cp",
-      "onboard_time": 1738207398,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 200951,
       "num": 161128,
       "word": "迪丽热巴工作室换了头像背景",
@@ -428,7 +444,7 @@
     },
     {
       "raw_hot": 199870,
-      "num": 154227,
+      "num": 180759,
       "word": "哪吒",
       "onboard_time": 1738206558,
       "rank": 28,
@@ -436,11 +452,19 @@
     },
     {
       "raw_hot": 192881,
-      "num": 154372,
+      "num": 192868,
       "word": "沈腾回后台一看全是自己带出的兵",
       "onboard_time": 1738206135,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191741,
+      "num": 191741,
+      "word": "WTT",
+      "onboard_time": 1738207638,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 187661,
@@ -491,12 +515,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169815,
+      "num": 169815,
+      "word": "吴磊在春晚后台炫饺子",
+      "onboard_time": 1738207937,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164069,
       "num": 298763,
       "word": "县城年夜饭快倒挂一线饭店了",
       "onboard_time": 1738155079,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160368,
+      "num": 160368,
+      "word": "美国首都里根国家机场暂时关闭",
+      "onboard_time": 1738207698,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 157490,
@@ -521,6 +561,14 @@
       "onboard_time": 1738206318,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 152778,
+      "num": 154744,
+      "word": "杭州灵隐寺人山人海",
+      "onboard_time": 1738198517,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 152414,
@@ -561,6 +609,14 @@
       "onboard_time": 1738154601,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 147127,
+      "num": 147127,
+      "word": "黄子弘凡春晚吹笛子包喜庆的",
+      "onboard_time": 1738207038,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 143364,
@@ -635,14 +691,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 131953,
-      "num": 154744,
-      "word": "杭州灵隐寺人山人海",
-      "onboard_time": 1738198517,
-      "rank": 49,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 128987,
       "num": 128987,
       "word": "春晚机器人创始人与浙大失之交臂",
@@ -651,12 +699,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128185,
+      "num": 147509,
+      "word": "邓婵玉人设",
+      "onboard_time": 1738207937,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 127789,
       "num": 109863,
       "word": "邓婵玉 没有男人配得上",
       "onboard_time": 1738151121,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 122216,
+      "num": 122216,
+      "word": "薛之谦不小心露出了活泼的马脚",
+      "onboard_time": 1738207638,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 121186,
@@ -681,6 +745,14 @@
       "onboard_time": 1738163303,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119186,
+      "num": 119186,
+      "word": "哪吒2新编剔骨削肉",
+      "onboard_time": 1738207997,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 117491,
@@ -777,14 +849,6 @@
       "onboard_time": 1738206678,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 108524,
-      "num": 108523,
-      "word": "黄子弘凡春晚吹笛子包喜庆的",
-      "onboard_time": 1738207038,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 106194,
@@ -939,14 +1003,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 77130,
-      "num": 154111,
-      "word": "李子柒春晚战袍人工吊染6小时",
-      "onboard_time": 1738207217,
-      "rank": 29,
-      "category": "网红"
-    },
-    {
       "raw_hot": 71136,
       "num": 111726,
       "word": "广州烟花",
@@ -1081,6 +1137,14 @@
       "onboard_time": 1738173792,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 37441,
+      "num": 195129,
+      "word": "美国被撞飞机有60名左右乘客",
+      "onboard_time": 1738208177,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 35117,

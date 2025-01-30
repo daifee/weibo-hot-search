@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738207488052,
+  "endTime": 1738208340806,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -403,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2010560,
+      "num": 2010560,
+      "word": "大年初一票房排名",
+      "onboard_time": 1738205058,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1994171,
       "num": 1994171,
       "word": "陈鹤一 本人是自愿发红包给大家的",
@@ -545,14 +553,6 @@
       "onboard_time": 1738125500,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1548212,
-      "num": 1548212,
-      "word": "大年初一票房排名",
-      "onboard_time": 1738205058,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 1546208,
@@ -1715,6 +1715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 676312,
+      "num": 676312,
+      "word": "韩国客机烧出一个洞可能因充电宝",
+      "onboard_time": 1738205537,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 668744,
       "num": 668744,
       "word": "孙千春晚素颜出发图",
@@ -2555,6 +2563,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 496815,
+      "num": 496815,
+      "word": "单身的埃文凯尔羡慕中国女婿",
+      "onboard_time": 1738205058,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 496616,
       "num": 496616,
       "word": "王者荣耀充值",
@@ -2569,6 +2585,14 @@
       "onboard_time": 1738029916,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 494574,
+      "num": 307104,
+      "word": "肖战代表了电影行业的想象可能",
+      "onboard_time": 1738205417,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 494210,
@@ -2617,14 +2641,6 @@
       "onboard_time": 1738076447,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 485193,
-      "num": 485193,
-      "word": "单身的埃文凯尔羡慕中国女婿",
-      "onboard_time": 1738205058,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 483585,
@@ -2769,14 +2785,6 @@
       "onboard_time": 1738056442,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 462806,
-      "num": 264319,
-      "word": "肖战代表了电影行业的想象可能",
-      "onboard_time": 1738205417,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 462135,
@@ -2940,7 +2948,7 @@
     },
     {
       "raw_hot": 437599,
-      "num": 170554,
+      "num": 386559,
       "word": "日本乒坛名将赌博被捕",
       "onboard_time": 1738203917,
       "rank": 22,
@@ -3139,20 +3147,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 400040,
+      "num": 400040,
+      "word": "美国一架客机坠河",
+      "onboard_time": 1738207638,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 399933,
       "num": 269055,
       "word": "封神 伏地魔",
       "onboard_time": 1738148300,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 399847,
-      "num": 399847,
-      "word": "韩国客机烧出一个洞可能因充电宝",
-      "onboard_time": 1738205537,
-      "rank": 45,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 399366,
@@ -3379,8 +3387,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 380919,
-      "num": 263414,
+      "raw_hot": 382108,
+      "num": 312365,
       "word": "张新成演技",
       "onboard_time": 1738204097,
       "rank": 25,
@@ -4019,6 +4027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 308277,
+      "num": 199171,
+      "word": "李子柒春晚战袍人工吊染6小时",
+      "onboard_time": 1738207217,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
       "raw_hot": 307805,
       "num": 307805,
       "word": "王者荣耀 嫦娥",
@@ -4076,7 +4092,7 @@
     },
     {
       "raw_hot": 303158,
-      "num": 170139,
+      "num": 235595,
       "word": "是不是全国女婿到丈母娘家都这样",
       "onboard_time": 1738197677,
       "rank": 21,
@@ -4401,6 +4417,14 @@
       "onboard_time": 1737846374,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 276264,
+      "num": 198074,
+      "word": "哪吒敖丙cp",
+      "onboard_time": 1738207398,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 276202,
@@ -5779,14 +5803,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 203405,
-      "num": 154476,
-      "word": "哪吒敖丙cp",
-      "onboard_time": 1738207398,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 202998,
       "num": 180344,
       "word": "虞书欣双轨南京部分杀青",
@@ -6140,7 +6156,7 @@
     },
     {
       "raw_hot": 192881,
-      "num": 154372,
+      "num": 192868,
       "word": "沈腾回后台一看全是自己带出的兵",
       "onboard_time": 1738206135,
       "rank": 27,
@@ -6193,6 +6209,14 @@
       "onboard_time": 1738062507,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191741,
+      "num": 191741,
+      "word": "WTT",
+      "onboard_time": 1738207638,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 191697,
@@ -7019,6 +7043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 169815,
+      "num": 169815,
+      "word": "吴磊在春晚后台炫饺子",
+      "onboard_time": 1738207937,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169605,
       "num": 169605,
       "word": "小伙守护全村留守老人3年",
@@ -7353,6 +7385,14 @@
       "onboard_time": 1738035017,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160368,
+      "num": 160368,
+      "word": "美国首都里根国家机场暂时关闭",
+      "onboard_time": 1738207698,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 159918,
@@ -7691,6 +7731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 152778,
+      "num": 154744,
+      "word": "杭州灵隐寺人山人海",
+      "onboard_time": 1738198517,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 152731,
       "num": 730367,
       "word": "俄外长称DeepSeek超越美国",
@@ -7929,6 +7977,14 @@
       "onboard_time": 1737805160,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 147127,
+      "num": 147127,
+      "word": "黄子弘凡春晚吹笛子包喜庆的",
+      "onboard_time": 1738207038,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 146981,
@@ -8691,14 +8747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 131953,
-      "num": 154744,
-      "word": "杭州灵隐寺人山人海",
-      "onboard_time": 1738198517,
-      "rank": 49,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 131934,
       "num": 131934,
       "word": "eStar2025新赛季集结",
@@ -8817,6 +8865,14 @@
       "onboard_time": 1738025655,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128185,
+      "num": 147509,
+      "word": "邓婵玉人设",
+      "onboard_time": 1738207937,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 128156,
@@ -9131,6 +9187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 122216,
+      "num": 122216,
+      "word": "薛之谦不小心露出了活泼的马脚",
+      "onboard_time": 1738207638,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121950,
       "num": 121950,
       "word": "电影哪吒之魔童闹海",
@@ -9289,6 +9353,14 @@
       "onboard_time": 1737948856,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119186,
+      "num": 119186,
+      "word": "哪吒2新编剔骨削肉",
+      "onboard_time": 1738207997,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 118928,
@@ -9825,14 +9897,6 @@
       "onboard_time": 1737878538,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 108524,
-      "num": 108523,
-      "word": "黄子弘凡春晚吹笛子包喜庆的",
-      "onboard_time": 1738207038,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 108513,
@@ -11475,14 +11539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 77130,
-      "num": 154111,
-      "word": "李子柒春晚战袍人工吊染6小时",
-      "onboard_time": 1738207217,
-      "rank": 29,
-      "category": "网红"
-    },
-    {
       "raw_hot": 76909,
       "num": 184025,
       "word": "用最浪漫海边烟花开启2025",
@@ -12793,6 +12849,14 @@
       "onboard_time": 1737961516,
       "rank": 14,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 37441,
+      "num": 195129,
+      "word": "美国被撞飞机有60名左右乘客",
+      "onboard_time": 1738208177,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 37122,

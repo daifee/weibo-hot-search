@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/26 00:26:10 ~ 2025/01/30 11:24:48
+本榜单时间：2025/01/26 00:26:10 ~ 2025/01/30 11:39:00
 </p>
 </blockquote>
 <p>
@@ -315,6 +315,12 @@ B站弹幕（热度：2270595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%80%E7%A5%A8%E6%88%BF%E6%8E%92%E5%90%8D%23" target="weibo">
+大年初一票房排名（热度：2010560）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%B9%A4%E4%B8%80%20%E6%9C%AC%E4%BA%BA%E6%98%AF%E8%87%AA%E6%84%BF%E5%8F%91%E7%BA%A2%E5%8C%85%E7%BB%99%E5%A4%A7%E5%AE%B6%E7%9A%84%23" target="weibo">
 陈鹤一 本人是自愿发红包给大家的（热度：1994171）
 </a>
@@ -419,12 +425,6 @@ DeepSeek（热度：1844246）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%BB%E6%95%8F%E5%B7%AE%E7%82%B9%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%23" target="weibo">
 任敏差点成为下一个尼格买提（热度：1607711）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%80%E7%A5%A8%E6%88%BF%E6%8E%92%E5%90%8D%23" target="weibo">
-大年初一票房排名（热度：1548212）
 </a>
 </li>
 
@@ -1299,6 +1299,12 @@ Angelababy的红包（热度：864606）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%AE%A2%E6%9C%BA%E7%83%A7%E5%87%BA%E4%B8%80%E4%B8%AA%E6%B4%9E%E5%8F%AF%E8%83%BD%E5%9B%A0%E5%85%85%E7%94%B5%E5%AE%9D%23" target="weibo">
+韩国客机烧出一个洞可能因充电宝（热度：676312）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%83%E6%98%A5%E6%99%9A%E7%B4%A0%E9%A2%9C%E5%87%BA%E5%8F%91%E5%9B%BE%23" target="weibo">
 孙千春晚素颜出发图（热度：668744）
 </a>
@@ -1929,6 +1935,12 @@ DeepSeek最想问人类什么问题（热度：505455）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E8%BA%AB%E7%9A%84%E5%9F%83%E6%96%87%E5%87%AF%E5%B0%94%E7%BE%A1%E6%85%95%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%A9%BF%23" target="weibo">
+单身的埃文凯尔羡慕中国女婿（热度：496815）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%85%85%E5%80%BC%23" target="weibo">
 王者荣耀充值（热度：496616）
 </a>
@@ -1937,6 +1949,12 @@ DeepSeek最想问人类什么问题（热度：505455）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%A4%E5%A4%95%23" target="weibo">
 除夕（热度：496026）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%BB%A3%E8%A1%A8%E4%BA%86%E7%94%B5%E5%BD%B1%E8%A1%8C%E4%B8%9A%E7%9A%84%E6%83%B3%E8%B1%A1%E5%8F%AF%E8%83%BD%23" target="weibo">
+肖战代表了电影行业的想象可能（热度：494574）
 </a>
 </li>
 
@@ -1973,12 +1991,6 @@ DeepSeek最想问人类什么问题（热度：505455）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%95%9C%E5%A4%B4%E7%BB%99%E4%BA%86%E6%9D%8E%E5%AD%90%E6%9F%92%23" target="weibo">
 春晚第一个镜头给了李子柒（热度：485566）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E8%BA%AB%E7%9A%84%E5%9F%83%E6%96%87%E5%87%AF%E5%B0%94%E7%BE%A1%E6%85%95%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%A9%BF%23" target="weibo">
-单身的埃文凯尔羡慕中国女婿（热度：485193）
 </a>
 </li>
 
@@ -2087,12 +2099,6 @@ DeepSeek最想问人类什么问题（热度：505455）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A5%E4%B8%AA%E5%B0%8F%E5%93%81%23" target="weibo">
 春晚5个小品（热度：464316）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%BB%A3%E8%A1%A8%E4%BA%86%E7%94%B5%E5%BD%B1%E8%A1%8C%E4%B8%9A%E7%9A%84%E6%83%B3%E8%B1%A1%E5%8F%AF%E8%83%BD%23" target="weibo">
-肖战代表了电影行业的想象可能（热度：462806）
 </a>
 </li>
 
@@ -2367,14 +2373,14 @@ DeepSeek创始人回广东过年（热度：449646）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%20%E4%BC%8F%E5%9C%B0%E9%AD%94%23" target="weibo">
-封神 伏地魔（热度：399933）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E6%9E%B6%E5%AE%A2%E6%9C%BA%E5%9D%A0%E6%B2%B3%23" target="weibo">
+美国一架客机坠河（热度：400040）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%AE%A2%E6%9C%BA%E7%83%A7%E5%87%BA%E4%B8%80%E4%B8%AA%E6%B4%9E%E5%8F%AF%E8%83%BD%E5%9B%A0%E5%85%85%E7%94%B5%E5%AE%9D%23" target="weibo">
-韩国客机烧出一个洞可能因充电宝（热度：399847）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%20%E4%BC%8F%E5%9C%B0%E9%AD%94%23" target="weibo">
+封神 伏地魔（热度：399933）
 </a>
 </li>
 
@@ -2548,7 +2554,7 @@ DeepSeek续写红楼梦后四十回（热度：389239）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%B0%E6%88%90%E6%BC%94%E6%8A%80%23" target="weibo">
-张新成演技（热度：380919）
+张新成演技（热度：382108）
 </a>
 </li>
 
@@ -3027,6 +3033,12 @@ DeepSeek彻底爆发（热度：309094）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AD%90%E6%9F%92%E6%98%A5%E6%99%9A%E6%88%98%E8%A2%8D%E4%BA%BA%E5%B7%A5%E5%90%8A%E6%9F%936%E5%B0%8F%E6%97%B6%23" target="weibo">
+李子柒春晚战袍人工吊染6小时（热度：308277）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%20%E5%AB%A6%E5%A8%A5%23" target="weibo">
 王者荣耀 嫦娥（热度：307805）
 </a>
@@ -3311,6 +3323,12 @@ DeepSeek彻底爆发（热度：309094）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2314%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%8E%A9%E6%8C%96%E5%AE%9D%E8%8A%B1%E5%85%89%E6%AF%8D%E4%BA%B214%E4%B8%87%E6%89%93%E5%B7%A5%E9%92%B1%23" target="weibo">
 14岁女孩玩挖宝花光母亲14万打工钱（热度：277386）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%92%E6%95%96%E4%B8%99cp%23" target="weibo">
+哪吒敖丙cp（热度：276264）
 </a>
 </li>
 
@@ -4347,12 +4365,6 @@ BLACKPINK个人唱片公司（热度：208693）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%92%E6%95%96%E4%B8%99cp%23" target="weibo">
-哪吒敖丙cp（热度：203405）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%8F%8C%E8%BD%A8%E5%8D%97%E4%BA%AC%E9%83%A8%E5%88%86%E6%9D%80%E9%9D%92%23" target="weibo">
 虞书欣双轨南京部分杀青（热度：202998）
 </a>
@@ -4655,6 +4667,12 @@ cp二搭不在于重复而在于重逢（热度：192473）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%A6%E8%88%AA%E5%9C%A8%E8%A1%97%E4%B8%8A%E6%9C%89%E6%8B%8D%E4%BA%86%E6%8B%8D%23" target="weibo">
 左航在街上有拍了拍（热度：191794）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23WTT%23" target="weibo">
+WTT（热度：191741）
 </a>
 </li>
 
@@ -5277,6 +5295,12 @@ Gemini新年歌友会（热度：170294）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E5%9C%A8%E6%98%A5%E6%99%9A%E5%90%8E%E5%8F%B0%E7%82%AB%E9%A5%BA%E5%AD%90%23" target="weibo">
+吴磊在春晚后台炫饺子（热度：169815）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E5%AE%88%E6%8A%A4%E5%85%A8%E6%9D%91%E7%95%99%E5%AE%88%E8%80%81%E4%BA%BA3%E5%B9%B4%23" target="weibo">
 小伙守护全村留守老人3年（热度：169605）
 </a>
@@ -5525,6 +5549,12 @@ IVE回归概念预告（热度：168818）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%80%E9%94%90%E6%8B%9C%E5%B9%B4%23" target="weibo">
 李昀锐拜年（热度：160391）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%A6%96%E9%83%BD%E9%87%8C%E6%A0%B9%E5%9B%BD%E5%AE%B6%E6%9C%BA%E5%9C%BA%E6%9A%82%E6%97%B6%E5%85%B3%E9%97%AD%23" target="weibo">
+美国首都里根国家机场暂时关闭（热度：160368）
 </a>
 </li>
 
@@ -5781,6 +5811,12 @@ fromis9签约新所属社（热度：154432）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E7%81%B5%E9%9A%90%E5%AF%BA%E4%BA%BA%E5%B1%B1%E4%BA%BA%E6%B5%B7%23" target="weibo">
+杭州灵隐寺人山人海（热度：152778）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E5%A4%96%E9%95%BF%E7%A7%B0DeepSeek%E8%B6%85%E8%B6%8A%E7%BE%8E%E5%9B%BD%23" target="weibo">
 俄外长称DeepSeek超越美国（热度：152731）
 </a>
@@ -5957,6 +5993,12 @@ Deepseek锐评（热度：150237）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BD%98%E5%AE%8F%E8%AF%B7%E4%BA%8650%E5%A4%9A%E4%B8%AA%E5%BE%8B%E5%B8%88%23" target="weibo">
 潘宏请了50多个律师（热度：147169）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%E6%98%A5%E6%99%9A%E5%90%B9%E7%AC%9B%E5%AD%90%E5%8C%85%E5%96%9C%E5%BA%86%E7%9A%84%23" target="weibo">
+黄子弘凡春晚吹笛子包喜庆的（热度：147127）
 </a>
 </li>
 
@@ -6531,12 +6573,6 @@ OneRepublic真唱（热度：136074）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E7%81%B5%E9%9A%90%E5%AF%BA%E4%BA%BA%E5%B1%B1%E4%BA%BA%E6%B5%B7%23" target="weibo">
-杭州灵隐寺人山人海（热度：131953）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23eStar2025%E6%96%B0%E8%B5%9B%E5%AD%A3%E9%9B%86%E7%BB%93%23" target="weibo">
 eStar2025新赛季集结（热度：131934）
 </a>
@@ -6623,6 +6659,12 @@ eStar2025新赛季集结（热度：131934）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9D%9E%E9%81%97%E6%98%A5%E8%8A%82%E5%A5%BD%E5%83%8F%E4%B8%80%E4%B8%AA%E7%BB%9A%E7%83%82%E7%9A%84%E4%B8%87%E8%8A%B1%E7%AD%92%23" target="weibo">
 非遗春节好像一个绚烂的万花筒（热度：128627）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E5%A9%B5%E7%8E%89%E4%BA%BA%E8%AE%BE%23" target="weibo">
+邓婵玉人设（热度：128185）
 </a>
 </li>
 
@@ -6861,6 +6903,12 @@ eStar2025新赛季集结（热度：131934）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E4%B8%8D%E5%B0%8F%E5%BF%83%E9%9C%B2%E5%87%BA%E4%BA%86%E6%B4%BB%E6%B3%BC%E7%9A%84%E9%A9%AC%E8%84%9A%23" target="weibo">
+薛之谦不小心露出了活泼的马脚（热度：122216）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E5%93%AA%E5%90%92%E4%B9%8B%E9%AD%94%E7%AB%A5%E9%97%B9%E6%B5%B7%23" target="weibo">
 电影哪吒之魔童闹海（热度：121950）
 </a>
@@ -6977,6 +7025,12 @@ chatgpt o3mini免费（热度：121207）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%9C%E6%B0%91%E5%B7%A5%E8%BF%87%E5%B9%B4%E6%9D%80%E7%8C%AA%E6%83%B3%E8%B5%B7%E5%B7%B2%E9%80%9D%E6%AF%8D%E4%BA%B2%E6%B3%AA%E7%9B%AE%23" target="weibo">
 农民工过年杀猪想起已逝母亲泪目（热度：119194）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E6%96%B0%E7%BC%96%E5%89%94%E9%AA%A8%E5%89%8A%E8%82%89%23" target="weibo">
+哪吒2新编剔骨削肉（热度：119186）
 </a>
 </li>
 
@@ -7379,12 +7433,6 @@ DeepSeek多岗位招新（热度：111054）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E9%9F%B6%E5%85%B3%E6%B0%94%E6%B8%A9%E6%96%AD%E5%B4%96%E4%B8%8B%E8%B7%8C%23" target="weibo">
 广东韶关气温断崖下跌（热度：109011）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%E6%98%A5%E6%99%9A%E5%90%B9%E7%AC%9B%E5%AD%90%E5%8C%85%E5%96%9C%E5%BA%86%E7%9A%84%23" target="weibo">
-黄子弘凡春晚吹笛子包喜庆的（热度：108524）
 </a>
 </li>
 
@@ -8619,12 +8667,6 @@ Meta员工称高管薪资比DeepSeek成本还高（热度：79406）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AD%90%E6%9F%92%E6%98%A5%E6%99%9A%E6%88%98%E8%A2%8D%E4%BA%BA%E5%B7%A5%E5%90%8A%E6%9F%936%E5%B0%8F%E6%97%B6%23" target="weibo">
-李子柒春晚战袍人工吊染6小时（热度：77130）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%A8%E6%9C%80%E6%B5%AA%E6%BC%AB%E6%B5%B7%E8%BE%B9%E7%83%9F%E8%8A%B1%E5%BC%80%E5%90%AF2025%23" target="weibo">
 用最浪漫海边烟花开启2025（热度：76909）
 </a>
@@ -9605,6 +9647,12 @@ IVE末放舞台（热度：37513）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%82%E6%9C%9F%E9%97%B4%E5%85%A8%E5%9B%BD%E5%A4%9A%E5%9C%B0%E6%8E%A8%E5%87%BA%E5%85%8D%E8%B4%B9%E5%85%AC%E4%BA%A4%23" target="weibo">
 春节期间全国多地推出免费公交（热度：37462）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A2%AB%E6%92%9E%E9%A3%9E%E6%9C%BA%E6%9C%8960%E5%90%8D%E5%B7%A6%E5%8F%B3%E4%B9%98%E5%AE%A2%23" target="weibo">
+美国被撞飞机有60名左右乘客（热度：37441）
 </a>
 </li>
 

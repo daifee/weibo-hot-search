@@ -1,0 +1,410 @@
+{
+  "runTime": 1738208340806,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2010560,
+        "num": 2010560,
+        "word": "大年初一票房排名",
+        "onboard_time": 1738205058,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 676312,
+        "num": 676312,
+        "word": "韩国客机烧出一个洞可能因充电宝",
+        "onboard_time": 1738205537,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 38688,
+        "num": 513891,
+        "word": "北京台春晚蛇么都好",
+        "onboard_time": 1738158680,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 496815,
+        "num": 496815,
+        "word": "单身的埃文凯尔羡慕中国女婿",
+        "onboard_time": 1738205058,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 400040,
+        "num": 400040,
+        "word": "美国一架客机坠河",
+        "onboard_time": 1738207638,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 386559,
+        "num": 386559,
+        "word": "日本乒坛名将赌博被捕",
+        "onboard_time": 1738203917,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 975207,
+        "num": 380792,
+        "word": "哪吒排片",
+        "onboard_time": 1738201277,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 505091,
+        "num": 372042,
+        "word": "易烊千玺为啥说不做男主角了",
+        "onboard_time": 1738200076,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327603,
+        "num": 327603,
+        "word": "台湾嘉义县5.2级地震",
+        "onboard_time": 1738204697,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 313919,
+        "num": 313919,
+        "word": "特朗普称准备了3万床位拘留非法移民",
+        "onboard_time": 1738201337,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 450365,
+        "num": 313831,
+        "word": "马思纯接春晚邀约经纪人差点喜极而泣",
+        "onboard_time": 1738199537,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382108,
+        "num": 312365,
+        "word": "张新成演技",
+        "onboard_time": 1738204097,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 377939,
+        "num": 311647,
+        "word": "春节档3部电影豆瓣开分",
+        "onboard_time": 1738201217,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 354651,
+        "num": 310297,
+        "word": "杭州雷峰塔真的有压了千年的小白",
+        "onboard_time": 1738192934,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309512,
+        "num": 309512,
+        "word": "台湾地震",
+        "onboard_time": 1738203738,
+        "rank": 14,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 494574,
+        "num": 307104,
+        "word": "肖战代表了电影行业的想象可能",
+        "onboard_time": 1738205417,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 262459,
+        "num": 262459,
+        "word": "女生捡到奶茶袋一看有10万现金",
+        "onboard_time": 1738197015,
+        "rank": 16,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 257151,
+        "num": 257151,
+        "word": "大年初二回家是喜团聚是福",
+        "onboard_time": 1738202717,
+        "rank": 17,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 235595,
+        "num": 235595,
+        "word": "是不是全国女婿到丈母娘家都这样",
+        "onboard_time": 1738197677,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200020,
+        "num": 200020,
+        "word": "大年初二回门日",
+        "onboard_time": 1738196477,
+        "rank": 19,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 643959,
+        "num": 199742,
+        "word": "赵露思换了想了十年的发色",
+        "onboard_time": 1738153161,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308277,
+        "num": 199171,
+        "word": "李子柒春晚战袍人工吊染6小时",
+        "onboard_time": 1738207217,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 291174,
+        "num": 198909,
+        "word": "申公豹好惨",
+        "onboard_time": 1738202057,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 276264,
+        "num": 198074,
+        "word": "哪吒敖丙cp",
+        "onboard_time": 1738207398,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198044,
+        "num": 198044,
+        "word": "南苏丹坠机遇难者中有2名中国公民",
+        "onboard_time": 1738196477,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 37441,
+        "num": 195129,
+        "word": "美国被撞飞机有60名左右乘客",
+        "onboard_time": 1738208177,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 216650,
+        "num": 194305,
+        "word": "赵露思长文谈抑郁症",
+        "onboard_time": 1738151061,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193270,
+        "num": 193270,
+        "word": "虞书欣 在干嘛呀",
+        "onboard_time": 1738158020,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192868,
+        "num": 192868,
+        "word": "沈腾回后台一看全是自己带出的兵",
+        "onboard_time": 1738206135,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191741,
+        "num": 191741,
+        "word": "WTT",
+        "onboard_time": 1738207638,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180759,
+        "num": 180759,
+        "word": "哪吒",
+        "onboard_time": 1738206558,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169815,
+        "num": 169815,
+        "word": "吴磊在春晚后台炫饺子",
+        "onboard_time": 1738207937,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160860,
+        "num": 160860,
+        "word": "迪丽热巴工作室换了头像背景",
+        "onboard_time": 1738200017,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160368,
+        "num": 160368,
+        "word": "美国首都里根国家机场暂时关闭",
+        "onboard_time": 1738207698,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 152778,
+        "num": 152778,
+        "word": "杭州灵隐寺人山人海",
+        "onboard_time": 1738198517,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 147892,
+        "num": 147892,
+        "word": "薛之谦自曝在家拿衣架彩排",
+        "onboard_time": 1738205178,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128185,
+        "num": 147509,
+        "word": "邓婵玉人设",
+        "onboard_time": 1738207937,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147127,
+        "num": 147127,
+        "word": "黄子弘凡春晚吹笛子包喜庆的",
+        "onboard_time": 1738207038,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141785,
+        "num": 141785,
+        "word": "2025春节档票房破26亿",
+        "onboard_time": 1738201696,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141702,
+        "num": 141702,
+        "word": "DeepSeek将接入微软AI电脑",
+        "onboard_time": 1738200017,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 139137,
+        "num": 139137,
+        "word": "鞠婧祎 神女",
+        "onboard_time": 1738163179,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138658,
+        "num": 138658,
+        "word": "埃文凯尔父母羡慕儿子上春晚",
+        "onboard_time": 1738194914,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127863,
+        "num": 127863,
+        "word": "沈腾马丽十二年形成闭环",
+        "onboard_time": 1738205717,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122216,
+        "num": 122216,
+        "word": "薛之谦不小心露出了活泼的马脚",
+        "onboard_time": 1738207638,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119186,
+        "num": 119186,
+        "word": "哪吒2新编剔骨削肉",
+        "onboard_time": 1738207997,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104029,
+        "num": 104029,
+        "word": "特朗普称DeepSeek传递积极信号",
+        "onboard_time": 1738168997,
+        "rank": 45,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 99648,
+        "num": 99648,
+        "word": "初二拜年祝福",
+        "onboard_time": 1738205058,
+        "rank": 46,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 98103,
+        "num": 98103,
+        "word": "大年初二拜年计划",
+        "onboard_time": 1738193775,
+        "rank": 47,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 93920,
+        "num": 93920,
+        "word": "光遇",
+        "onboard_time": 1738206678,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 58422,
+        "num": 93908,
+        "word": "埃文凯尔知道大年初二要回娘家",
+        "onboard_time": 1738206737,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#聆听总书记的新春祝福#"
+    }
+  }
+}
