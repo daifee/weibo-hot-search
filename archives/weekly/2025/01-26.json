@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738205750286,
+  "endTime": 1738207488052,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -547,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1548212,
+      "num": 1548212,
+      "word": "大年初一票房排名",
+      "onboard_time": 1738205058,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1546208,
       "num": 769441,
       "word": "卢昱晓抢到了王星越的红包",
@@ -665,6 +673,14 @@
       "onboard_time": 1738075889,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1303817,
+      "num": 1171845,
+      "word": "哪吒排片",
+      "onboard_time": 1738201277,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 1295246,
@@ -865,14 +881,6 @@
       "onboard_time": 1737963256,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1074031,
-      "num": 1171845,
-      "word": "哪吒排片",
-      "onboard_time": 1738201277,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 1065312,
@@ -2611,6 +2619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 485193,
+      "num": 485193,
+      "word": "单身的埃文凯尔羡慕中国女婿",
+      "onboard_time": 1738205058,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 483585,
       "num": 483585,
       "word": "宋佳只有高跟鞋不是红色",
@@ -2753,6 +2769,14 @@
       "onboard_time": 1738056442,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 462806,
+      "num": 264319,
+      "word": "肖战代表了电影行业的想象可能",
+      "onboard_time": 1738205417,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 462135,
@@ -2913,6 +2937,14 @@
       "onboard_time": 1737878899,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 437599,
+      "num": 170554,
+      "word": "日本乒坛名将赌博被捕",
+      "onboard_time": 1738203917,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 437209,
@@ -3113,6 +3145,14 @@
       "onboard_time": 1738148300,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 399847,
+      "num": 399847,
+      "word": "韩国客机烧出一个洞可能因充电宝",
+      "onboard_time": 1738205537,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 399366,
@@ -3339,6 +3379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 380919,
+      "num": 263414,
+      "word": "张新成演技",
+      "onboard_time": 1738204097,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 378796,
       "num": 193212,
       "word": "蛇年春晚节目单公布",
@@ -3457,6 +3505,14 @@
       "onboard_time": 1737867798,
       "rank": 9,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 365487,
+      "num": 346345,
+      "word": "申公豹好惨",
+      "onboard_time": 1738202057,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 360105,
@@ -3579,14 +3635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 346345,
-      "num": 346345,
-      "word": "申公豹好惨",
-      "onboard_time": 1738202057,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 343051,
       "num": 343051,
       "word": "柯洁说裁判说的话让人发抖",
@@ -3657,6 +3705,14 @@
       "onboard_time": 1737891078,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 337819,
+      "num": 349318,
+      "word": "台湾嘉义县5.2级地震",
+      "onboard_time": 1738204697,
+      "rank": 15,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 337272,
@@ -3913,14 +3969,6 @@
       "onboard_time": 1738115839,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 314642,
-      "num": 170554,
-      "word": "日本乒坛名将赌博被捕",
-      "onboard_time": 1738203917,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 314299,
@@ -4736,14 +4784,6 @@
       "word": "赵露思包场支持肖战新片",
       "onboard_time": 1738029137,
       "rank": 18,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 249261,
-      "num": 165012,
-      "word": "张新成演技",
-      "onboard_time": 1738204097,
-      "rank": 25,
       "category": "电影"
     },
     {
@@ -5731,19 +5771,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 203493,
-      "num": 349318,
-      "word": "台湾嘉义县5.2级地震",
-      "onboard_time": 1738204697,
-      "rank": 15,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 203454,
       "num": 200393,
       "word": "电影射雕英雄传侠之大者开分",
       "onboard_time": 1738160360,
       "rank": 34,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 203405,
+      "num": 154476,
+      "word": "哪吒敖丙cp",
+      "onboard_time": 1738207398,
+      "rank": 26,
       "category": "电影"
     },
     {
@@ -6096,6 +6136,14 @@
       "word": "十个勤天下一站春晚",
       "onboard_time": 1738038317,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 192881,
+      "num": 154372,
+      "word": "沈腾回后台一看全是自己带出的兵",
+      "onboard_time": 1738206135,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -6979,14 +7027,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 169031,
-      "num": 132658,
-      "word": "肖战代表了电影行业的想象可能",
-      "onboard_time": 1738205417,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 168883,
       "num": 168883,
       "word": "颜人中一支185的口红",
@@ -7459,6 +7499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157118,
+      "num": 153837,
+      "word": "沈腾马丽十二年形成闭环",
+      "onboard_time": 1738205717,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157112,
       "num": 157112,
       "word": "AI天才少女父母觉得女生不适合学计算机",
@@ -7635,6 +7683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 153743,
+      "num": 153743,
+      "word": "王长田快撕排片",
+      "onboard_time": 1738206318,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 152731,
       "num": 730367,
       "word": "俄外长称DeepSeek超越美国",
@@ -7752,6 +7808,14 @@
       "word": "白鹿程潇下一站春晚同框",
       "onboard_time": 1738035017,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 149268,
+      "num": 149268,
+      "word": "薛之谦自曝在家拿衣架彩排",
+      "onboard_time": 1738205178,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -7889,14 +7953,6 @@
       "onboard_time": 1737888858,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 146360,
-      "num": 132605,
-      "word": "大年初一票房排名",
-      "onboard_time": 1738205058,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 146085,
@@ -8563,14 +8619,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 132967,
-      "num": 132967,
-      "word": "单身的埃文凯尔羡慕中国女婿",
-      "onboard_time": 1738205058,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 132965,
       "num": 150170,
       "word": "曹恩齐祝大家巳巳如愿",
@@ -8644,7 +8692,7 @@
     },
     {
       "raw_hot": 131953,
-      "num": 131953,
+      "num": 154744,
       "word": "杭州灵隐寺人山人海",
       "onboard_time": 1738198517,
       "rank": 49,
@@ -9299,20 +9347,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 117532,
-      "num": 114210,
-      "word": "薛之谦自曝在家拿衣架彩排",
-      "onboard_time": 1738205178,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 117491,
       "num": 117491,
       "word": "大年初二拜年计划",
       "onboard_time": 1738193775,
       "rank": 38,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 117407,
+      "num": 117407,
+      "word": "第一批拍好春节预制游客照的人已经用上了",
+      "onboard_time": 1738206318,
+      "rank": 38,
+      "category": "民生新闻,幽默"
     },
     {
       "raw_hot": 117192,
@@ -9563,6 +9611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112653,
+      "num": 108524,
+      "word": "登陆少年物料",
+      "onboard_time": 1738206616,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112182,
       "num": 112182,
       "word": "特朗普给马斯克下了个命令",
@@ -9769,6 +9825,14 @@
       "onboard_time": 1737878538,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108524,
+      "num": 108523,
+      "word": "黄子弘凡春晚吹笛子包喜庆的",
+      "onboard_time": 1738207038,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 108513,
@@ -10115,14 +10179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102423,
-      "num": 102423,
-      "word": "沈腾马丽十二年形成闭环",
-      "onboard_time": 1738205717,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 102359,
       "num": 102359,
       "word": "年轻人过年焦虑怎么办",
@@ -10217,14 +10273,6 @@
       "onboard_time": 1737951377,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 101284,
-      "num": 101284,
-      "word": "韩国客机烧出一个洞可能因充电宝",
-      "onboard_time": 1738205537,
-      "rank": 45,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 101145,
@@ -11179,6 +11227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 82891,
+      "num": 103664,
+      "word": "大年初二祭财神",
+      "onboard_time": 1738207398,
+      "rank": 48,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 82472,
       "num": 82472,
       "word": "DeepSeek深夜再放大招",
@@ -11193,6 +11249,14 @@
       "onboard_time": 1737971777,
       "rank": 20,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 82056,
+      "num": 103634,
+      "word": "勇士大丰收",
+      "onboard_time": 1738207338,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 82055,
@@ -11409,6 +11473,14 @@
       "onboard_time": 1737982637,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 77130,
+      "num": 154111,
+      "word": "李子柒春晚战袍人工吊染6小时",
+      "onboard_time": 1738207217,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 76909,
@@ -11913,6 +11985,14 @@
       "onboard_time": 1737868517,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62742,
+      "num": 108895,
+      "word": "埃文凯尔知道大年初二要回娘家",
+      "onboard_time": 1738206737,
+      "rank": 41,
+      "category": "正能量"
     },
     {
       "raw_hot": 62644,

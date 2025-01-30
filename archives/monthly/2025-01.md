@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/30 10:55:50
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/30 11:24:48
 </p>
 </blockquote>
 <p>
@@ -2301,6 +2301,12 @@ TikTok难民称中国网友非常热情（热度：1548219）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%80%E7%A5%A8%E6%88%BF%E6%8E%92%E5%90%8D%23" target="weibo">
+大年初一票房排名（热度：1548212）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%98%B1%E6%99%93%E6%8A%A2%E5%88%B0%E4%BA%86%E7%8E%8B%E6%98%9F%E8%B6%8A%E7%9A%84%E7%BA%A2%E5%8C%85%23" target="weibo">
 卢昱晓抢到了王星越的红包（热度：1546208）
 </a>
@@ -3083,6 +3089,12 @@ TikTok禁令引发美国网友众怒（热度：1325910）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%9B%E5%A4%95%E7%95%99%E5%87%A0%E6%89%8B%E8%BF%9B%E5%85%A5%E7%A6%BB%E5%A9%9A%E7%A8%8B%E5%BA%8F%23" target="weibo">
 葛夕留几手进入离婚程序（热度：1304116）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%92%E6%8E%92%E7%89%87%23" target="weibo">
+哪吒排片（热度：1303817）
 </a>
 </li>
 
@@ -4265,12 +4277,6 @@ TikTok发声明（热度：1148125）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BA%A6%E7%90%B3%20%E5%A9%9A%E5%A7%BB%E7%9A%84%E6%B8%85%E5%88%9B%E6%89%8B%E6%9C%AF%E5%A4%AA%E7%97%9B%E4%BA%86%23" target="weibo">
 麦琳 婚姻的清创手术太痛了（热度：1075242）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%92%E6%8E%92%E7%89%87%23" target="weibo">
-哪吒排片（热度：1074031）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ R1SE舞台（热度：868936）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E4%B8%80%E5%B7%B2%E5%A9%9A%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E9%AA%97%E4%BA%BA%E6%81%8B%E7%88%B1%E8%A2%AB%E8%AE%B0%E5%A4%A7%E8%BF%87%23" target="weibo">
 郑州一已婚公职人员骗人恋爱被记大过（热度：867691）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%20%20Model%20Y%E4%B9%9F%E4%B8%8D%E9%94%99%23" target="weibo">
-雷军  Model Y也不错（热度：867601）
 </a>
 </li>
 
