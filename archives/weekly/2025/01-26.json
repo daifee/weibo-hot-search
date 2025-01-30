@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738268624543,
+  "endTime": 1738269410306,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -14483,6 +14483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 45934,
+      "num": 39727,
+      "word": "赵露思新发色好美",
+      "onboard_time": 1738263251,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 45285,
       "num": 258225,
       "word": "射雕游可以去哪里",
@@ -14545,14 +14553,6 @@
       "onboard_time": 1738256715,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 43061,
-      "num": 39727,
-      "word": "赵露思新发色好美",
-      "onboard_time": 1738263251,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 43027,
@@ -15747,6 +15747,14 @@
       "category": "国内时政,民生新闻"
     },
     {
+      "raw_hot": 17677,
+      "num": 17677,
+      "word": "美国撞机事故目击者发声",
+      "onboard_time": 1738268531,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 17170,
       "num": 17170,
       "word": "4万香客排队10小时进雍和宫烧头香",
@@ -15827,6 +15835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 15243,
+      "num": 15243,
+      "word": "为何美国两日坠三机",
+      "onboard_time": 1738267092,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 14965,
       "num": 352689,
       "word": "福克斯申请交易",
@@ -15875,28 +15891,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 14150,
-      "num": 14150,
-      "word": "为何美国两日坠三机",
-      "onboard_time": 1738267092,
-      "rank": 47,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 13746,
       "num": 14682,
       "word": "王一博用攀登比喻进步",
       "onboard_time": 1738188071,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 13659,
-      "num": 13659,
-      "word": "美国撞机事故目击者发声",
-      "onboard_time": 1738268531,
-      "rank": 49,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 13070,
@@ -15912,6 +15912,14 @@
       "word": "骑着雅迪上春晚",
       "onboard_time": 1738050199,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 12991,
+      "num": 33572,
+      "word": "陈丽君穿10公分戏靴连转25米彩绸",
+      "onboard_time": 1738268890,
+      "rank": 12,
       "category": "综艺"
     },
     {

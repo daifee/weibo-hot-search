@@ -1,6 +1,6 @@
 {
   "startTime": 1738254491138,
-  "endTime": 1738268624543,
+  "endTime": 1738269410306,
   "band_list": [
     {
       "raw_hot": 1427134,
@@ -459,6 +459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 45934,
+      "num": 39727,
+      "word": "赵露思新发色好美",
+      "onboard_time": 1738263251,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 45663,
       "num": 51894,
       "word": "丁禹兮看自己春晚挑眉害羞了",
@@ -473,14 +481,6 @@
       "onboard_time": 1738256715,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 43061,
-      "num": 39727,
-      "word": "赵露思新发色好美",
-      "onboard_time": 1738263251,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 42348,
@@ -531,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 17677,
+      "num": 17677,
+      "word": "美国撞机事故目击者发声",
+      "onboard_time": 1738268531,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 17170,
       "num": 17170,
       "word": "4万香客排队10小时进雍和宫烧头香",
@@ -547,20 +555,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 14150,
-      "num": 14150,
+      "raw_hot": 15243,
+      "num": 15243,
       "word": "为何美国两日坠三机",
       "onboard_time": 1738267092,
       "rank": 47,
       "category": "海外新闻"
     },
     {
-      "raw_hot": 13659,
-      "num": 13659,
-      "word": "美国撞机事故目击者发声",
-      "onboard_time": 1738268531,
-      "rank": 49,
-      "category": "海外新闻"
+      "raw_hot": 12991,
+      "num": 33572,
+      "word": "陈丽君穿10公分戏靴连转25米彩绸",
+      "onboard_time": 1738268890,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 12761,
