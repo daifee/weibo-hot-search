@@ -1,6 +1,6 @@
 {
   "startTime": 1738168091636,
-  "endTime": 1738214559063,
+  "endTime": 1738215534756,
   "band_list": [
     {
       "raw_hot": 2432743,
@@ -73,6 +73,14 @@
       "onboard_time": 1738207217,
       "rank": 29,
       "category": "网红"
+    },
+    {
+      "raw_hot": 876843,
+      "num": 876843,
+      "word": "孙千晒与沈腾马丽合照",
+      "onboard_time": 1738213877,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 871051,
@@ -243,11 +251,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 431085,
-      "num": 287012,
-      "word": "孙千晒与沈腾马丽合照",
-      "onboard_time": 1738213877,
-      "rank": 12,
+      "raw_hot": 435786,
+      "num": 274440,
+      "word": "陈丽君演贾宝玉像从书中走出来",
+      "onboard_time": 1738211056,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -275,6 +283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 404888,
+      "num": 404888,
+      "word": "美国撞机已致18人遇难",
+      "onboard_time": 1738214178,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 401708,
       "num": 401708,
       "word": "央视专访易烊千玺",
@@ -289,6 +305,14 @@
       "onboard_time": 1738196477,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 382968,
+      "num": 298575,
+      "word": "美国客机与军机相撞现场视频",
+      "onboard_time": 1738211537,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 382108,
@@ -315,12 +339,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 359822,
-      "num": 298575,
-      "word": "美国客机与军机相撞现场视频",
-      "onboard_time": 1738211537,
+      "raw_hot": 361296,
+      "num": 276302,
+      "word": "全球热拍的王一博",
+      "onboard_time": 1738212437,
       "rank": 14,
-      "category": "国际时政"
+      "category": "艺人"
     },
     {
       "raw_hot": 358324,
@@ -363,11 +387,11 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 346046,
-      "num": 276302,
-      "word": "全球热拍的王一博",
-      "onboard_time": 1738212437,
-      "rank": 14,
+      "raw_hot": 338529,
+      "num": 158938,
+      "word": "偶遇沈腾一家三口海南过年",
+      "onboard_time": 1738214897,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -435,7 +459,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 294946,
+      "raw_hot": 301218,
       "num": 270988,
       "word": "侯明昊边吸氧边跳舞",
       "onboard_time": 1738210156,
@@ -539,14 +563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 236362,
-      "num": 213179,
-      "word": "陈丽君演贾宝玉像从书中走出来",
-      "onboard_time": 1738211056,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 234233,
       "num": 564586,
       "word": "孙颖莎 给大家拜年啦",
@@ -579,6 +595,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211240,
+      "num": 230759,
+      "word": "靖蓉在彼此身上看到了更宽阔的世界",
+      "onboard_time": 1738214178,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 208782,
+      "num": 149877,
+      "word": "万妮达女rapper首登春晚",
+      "onboard_time": 1738214718,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 206969,
+      "num": 148868,
+      "word": "封神 北海到底有谁在啊",
+      "onboard_time": 1738215077,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 205556,
       "num": 205556,
       "word": "特朗普称DeepSeek传递积极信号",
@@ -609,6 +649,14 @@
       "onboard_time": 1738206558,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 198794,
+      "num": 147403,
+      "word": "五福临门第十二集三个反转",
+      "onboard_time": 1738214718,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 193062,
@@ -649,6 +697,14 @@
       "onboard_time": 1738207698,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 187968,
+      "num": 147062,
+      "word": "我愿拥护邓婵玉为天下共主",
+      "onboard_time": 1738214237,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 187661,
@@ -707,14 +763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 172614,
-      "num": 299740,
-      "word": "美国撞机已致18人遇难",
-      "onboard_time": 1738214178,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 172042,
       "num": 139589,
       "word": "一家一户一秦彻",
@@ -728,6 +776,14 @@
       "word": "钮祜禄氏全是狠人",
       "onboard_time": 1738211117,
       "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 165277,
+      "num": 145789,
+      "word": "娜然妲己秒切侠女",
+      "onboard_time": 1738215017,
+      "rank": 35,
       "category": "电影"
     },
     {
@@ -803,6 +859,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 150087,
+      "num": 145406,
+      "word": "美国撞机尚未救出任何幸存者",
+      "onboard_time": 1738214537,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 149942,
       "num": 149942,
       "word": "封神2好看吗",
@@ -825,14 +889,6 @@
       "onboard_time": 1738205178,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 149151,
-      "num": 230759,
-      "word": "靖蓉在彼此身上看到了更宽阔的世界",
-      "onboard_time": 1738214178,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 147193,
@@ -865,14 +921,6 @@
       "onboard_time": 1738192873,
       "rank": 11,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 140528,
-      "num": 123983,
-      "word": "我愿拥护邓婵玉为天下共主",
-      "onboard_time": 1738214237,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 138949,
@@ -955,12 +1003,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 124806,
-      "num": 124806,
-      "word": "美国撞机尚未救出任何幸存者",
-      "onboard_time": 1738214537,
-      "rank": 39,
-      "category": "海外新闻"
+      "raw_hot": 126899,
+      "num": 123108,
+      "word": "韦雪带男友回老家过年",
+      "onboard_time": 1738215317,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 124710,
@@ -1451,6 +1499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 37564,
+      "num": 530584,
+      "word": "有一种温暖叫相亲相爱一家人",
+      "onboard_time": 1738214477,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 35117,
       "num": 35117,
       "word": "人民网评封神第二部",
@@ -1473,6 +1529,14 @@
       "onboard_time": 1738150940,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 32333,
+      "num": 1021044,
+      "word": "英歌舞跳出对新年的美好祝福",
+      "onboard_time": 1738214777,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27965,
@@ -1635,14 +1699,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 9222,
-      "num": 153224,
-      "word": "有一种温暖叫相亲相爱一家人",
-      "onboard_time": 1738214477,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 8009,
       "num": 86136,
       "word": "山西人有自己的赛博朋克年",
@@ -1665,6 +1721,9 @@
     },
     {
       "word": "#总书记牵挂的头等大事#"
+    },
+    {
+      "word": "#让大家笑容更多心里更暖#"
     }
   ]
 }

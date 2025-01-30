@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738214559063,
+  "endTime": 1738215534756,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -1232,6 +1232,14 @@
       "word": "OneRepublic将登上春晚",
       "onboard_time": 1737944897,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 876843,
+      "num": 876843,
+      "word": "孙千晒与沈腾马丽合照",
+      "onboard_time": 1738213877,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -3027,6 +3035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 435786,
+      "num": 274440,
+      "word": "陈丽君演贾宝玉像从书中走出来",
+      "onboard_time": 1738211056,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 434481,
       "num": 338906,
       "word": "特朗普称将来美国可能大幅扩张",
@@ -3041,14 +3057,6 @@
       "onboard_time": 1737990797,
       "rank": 37,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 431085,
-      "num": 287012,
-      "word": "孙千晒与沈腾马丽合照",
-      "onboard_time": 1738213877,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 428682,
@@ -3209,6 +3217,14 @@
       "onboard_time": 1738155079,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 404888,
+      "num": 404888,
+      "word": "美国撞机已致18人遇难",
+      "onboard_time": 1738214178,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 399933,
@@ -3427,6 +3443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 382968,
+      "num": 298575,
+      "word": "美国客机与军机相撞现场视频",
+      "onboard_time": 1738211537,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 382737,
       "num": 372131,
       "word": "李子柒十个勤天春晚同台",
@@ -3579,20 +3603,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 361296,
+      "num": 276302,
+      "word": "全球热拍的王一博",
+      "onboard_time": 1738212437,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 360105,
       "num": 322964,
       "word": "张艺兴陈伟霆苏有朋如意舞步",
       "onboard_time": 1738053742,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 359822,
-      "num": 298575,
-      "word": "美国客机与军机相撞现场视频",
-      "onboard_time": 1738211537,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 358654,
@@ -3723,14 +3747,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 346046,
-      "num": 276302,
-      "word": "全球热拍的王一博",
-      "onboard_time": 1738212437,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 343051,
       "num": 343051,
       "word": "柯洁说裁判说的话让人发抖",
@@ -3801,6 +3817,14 @@
       "onboard_time": 1737891078,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 338529,
+      "num": 158938,
+      "word": "偶遇沈腾一家三口海南过年",
+      "onboard_time": 1738214897,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 337819,
@@ -4219,6 +4243,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 301218,
+      "num": 270988,
+      "word": "侯明昊边吸氧边跳舞",
+      "onboard_time": 1738210156,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 300727,
       "num": 300727,
       "word": "周深人民日报撰文",
@@ -4249,14 +4281,6 @@
       "onboard_time": 1737934815,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 294946,
-      "num": 270988,
-      "word": "侯明昊边吸氧边跳舞",
-      "onboard_time": 1738210156,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 293990,
@@ -5187,14 +5211,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 236362,
-      "num": 213179,
-      "word": "陈丽君演贾宝玉像从书中走出来",
-      "onboard_time": 1738211056,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 235682,
       "num": 179738,
       "word": "每晚必拔WiFi没苦硬吃是我爸妈没错了",
@@ -5699,6 +5715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 211240,
+      "num": 230759,
+      "word": "靖蓉在彼此身上看到了更宽阔的世界",
+      "onboard_time": 1738214178,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 209948,
       "num": 198210,
       "word": "赵露思拐杖",
@@ -5763,6 +5787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208782,
+      "num": 149877,
+      "word": "万妮达女rapper首登春晚",
+      "onboard_time": 1738214718,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208693,
       "num": 208693,
       "word": "BLACKPINK个人唱片公司",
@@ -5809,6 +5841,14 @@
       "onboard_time": 1737809059,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206969,
+      "num": 148868,
+      "word": "封神 北海到底有谁在啊",
+      "onboard_time": 1738215077,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 206168,
@@ -6113,6 +6153,14 @@
       "onboard_time": 1737935775,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 198794,
+      "num": 147403,
+      "word": "五福临门第十二集三个反转",
+      "onboard_time": 1738214718,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 198658,
@@ -6569,6 +6617,14 @@
       "onboard_time": 1737980717,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187968,
+      "num": 147062,
+      "word": "我愿拥护邓婵玉为天下共主",
+      "onboard_time": 1738214237,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 187566,
@@ -7123,14 +7179,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 172614,
-      "num": 299740,
-      "word": "美国撞机已致18人遇难",
-      "onboard_time": 1738214178,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 172315,
       "num": 172315,
       "word": "沈梦辰要给国色芳华导演寄膏药",
@@ -7400,6 +7448,14 @@
       "word": "电影哪吒之魔童闹海今日上映",
       "onboard_time": 1738125379,
       "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 165277,
+      "num": 145789,
+      "word": "娜然妲己秒切侠女",
+      "onboard_time": 1738215017,
+      "rank": 35,
       "category": "电影"
     },
     {
@@ -8059,6 +8115,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 150087,
+      "num": 145406,
+      "word": "美国撞机尚未救出任何幸存者",
+      "onboard_time": 1738214537,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 149942,
       "num": 149942,
       "word": "封神2好看吗",
@@ -8105,14 +8169,6 @@
       "onboard_time": 1737951316,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 149151,
-      "num": 230759,
-      "word": "靖蓉在彼此身上看到了更宽阔的世界",
-      "onboard_time": 1738214178,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 148974,
@@ -8529,14 +8585,6 @@
       "onboard_time": 1738035137,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140528,
-      "num": 123983,
-      "word": "我愿拥护邓婵玉为天下共主",
-      "onboard_time": 1738214237,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 140274,
@@ -9187,6 +9235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126899,
+      "num": 123108,
+      "word": "韦雪带男友回老家过年",
+      "onboard_time": 1738215317,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126876,
       "num": 126876,
       "word": "铁甲小宝春节番外",
@@ -9337,14 +9393,6 @@
       "onboard_time": 1737869058,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 124806,
-      "num": 124806,
-      "word": "美国撞机尚未救出任何幸存者",
-      "onboard_time": 1738214537,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 124782,
@@ -13131,6 +13179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 37564,
+      "num": 530584,
+      "word": "有一种温暖叫相亲相爱一家人",
+      "onboard_time": 1738214477,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 37513,
       "num": 109150,
       "word": "IVE末放舞台",
@@ -13264,6 +13320,14 @@
       "word": "霸座的人已经不多了",
       "onboard_time": 1737825555,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32333,
+      "num": 1021044,
+      "word": "英歌舞跳出对新年的美好祝福",
+      "onboard_time": 1738214777,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -14273,14 +14337,6 @@
       "onboard_time": 1738142538,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 9222,
-      "num": 153224,
-      "word": "有一种温暖叫相亲相爱一家人",
-      "onboard_time": 1738214477,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 8933,
