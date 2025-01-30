@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738215534756,
+  "endTime": 1738218607996,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -329,6 +329,14 @@
       "onboard_time": 1738080388,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2329836,
+      "num": 2329836,
+      "word": "母子看唐探强行占座致300多人退票",
+      "onboard_time": 1738216577,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2324052,
@@ -985,6 +993,14 @@
       "onboard_time": 1737878417,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1008811,
+      "num": 177122,
+      "word": "偶遇沈腾一家三口海南过年",
+      "onboard_time": 1738214897,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1006989,
@@ -2043,6 +2059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 597163,
+      "num": 453340,
+      "word": "美国撞机已致18人遇难",
+      "onboard_time": 1738214178,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 596382,
       "num": 596382,
       "word": "藕饼",
@@ -2667,6 +2691,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 491846,
+      "num": 491846,
+      "word": "曾黎推着赵露思",
+      "onboard_time": 1738217057,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 486525,
       "num": 401574,
       "word": "陈都灵 偶遇一条萌萌蛇",
@@ -2785,6 +2817,14 @@
       "onboard_time": 1737956296,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 475695,
+      "num": 475695,
+      "word": "纸嫁衣",
+      "onboard_time": 1738215977,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 474629,
@@ -3036,7 +3076,7 @@
     },
     {
       "raw_hot": 435786,
-      "num": 274440,
+      "num": 321095,
       "word": "陈丽君演贾宝玉像从书中走出来",
       "onboard_time": 1738211056,
       "rank": 25,
@@ -3219,14 +3259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 404888,
-      "num": 404888,
-      "word": "美国撞机已致18人遇难",
-      "onboard_time": 1738214178,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 399933,
       "num": 269055,
       "word": "封神 伏地魔",
@@ -3321,6 +3353,14 @@
       "onboard_time": 1737971777,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 392322,
+      "num": 174973,
+      "word": "射雕英雄传上映首日打破14个纪录",
+      "onboard_time": 1738215616,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 391797,
@@ -3747,6 +3787,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 345091,
+      "num": 223935,
+      "word": "韩网评价陈哲远发红包",
+      "onboard_time": 1738210696,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 343051,
       "num": 343051,
       "word": "柯洁说裁判说的话让人发抖",
@@ -3817,14 +3865,6 @@
       "onboard_time": 1737891078,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 338529,
-      "num": 158938,
-      "word": "偶遇沈腾一家三口海南过年",
-      "onboard_time": 1738214897,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 337819,
@@ -4019,6 +4059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 323206,
+      "num": 168564,
+      "word": "疑似陈思诚自己找的群演",
+      "onboard_time": 1738217177,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 322725,
       "num": 244766,
       "word": "权志龙的外套是郑亨敦在市场买的",
@@ -4107,19 +4155,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 313644,
+      "num": 165523,
+      "word": "封神 北海到底有谁在啊",
+      "onboard_time": 1738215077,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 312582,
       "num": 514850,
       "word": "易烊千玺谈作为演员的蜕变",
       "onboard_time": 1738161561,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 312137,
-      "num": 223935,
-      "word": "韩网评价陈哲远发红包",
-      "onboard_time": 1738210696,
-      "rank": 31,
       "category": "艺人"
     },
     {
@@ -4137,6 +4185,14 @@
       "onboard_time": 1738143619,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 309119,
+      "num": 151418,
+      "word": "射雕 男女主手拉手挡大军",
+      "onboard_time": 1738217417,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 309094,
@@ -5635,6 +5691,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 215501,
+      "num": 141918,
+      "word": "春晚听障演员因感受不到节奏偷偷哭泣",
+      "onboard_time": 1738216457,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 215078,
+      "num": 136678,
+      "word": "春节档电影口碑分化严重",
+      "onboard_time": 1738216457,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 214736,
       "num": 214736,
       "word": "代号鸢暗号",
@@ -5841,14 +5913,6 @@
       "onboard_time": 1737809059,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 206969,
-      "num": 148868,
-      "word": "封神 北海到底有谁在啊",
-      "onboard_time": 1738215077,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 206168,
@@ -7995,6 +8059,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 152887,
+      "num": 150965,
+      "word": "MiuMiu2025春夏系列",
+      "onboard_time": 1738217478,
+      "rank": 23,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 152778,
       "num": 154744,
       "word": "杭州灵隐寺人山人海",
@@ -8041,6 +8113,14 @@
       "onboard_time": 1737862699,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151799,
+      "num": 151799,
+      "word": "美国撞机尚未救出任何幸存者",
+      "onboard_time": 1738214537,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 151694,
@@ -8091,6 +8171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150716,
+      "num": 150716,
+      "word": "法国耗资540亿欧元AI推出3天后下架",
+      "onboard_time": 1738217897,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 150502,
       "num": 150502,
       "word": "哈登40分",
@@ -8113,14 +8201,6 @@
       "onboard_time": 1738040418,
       "rank": 36,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 150087,
-      "num": 145406,
-      "word": "美国撞机尚未救出任何幸存者",
-      "onboard_time": 1738214537,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 149942,
@@ -8265,6 +8345,14 @@
       "onboard_time": 1738207038,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146988,
+      "num": 146988,
+      "word": "陈牧驰殷郊法相逐渐抽象了起来",
+      "onboard_time": 1738217298,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 146981,
@@ -8611,6 +8699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139421,
+      "num": 114180,
+      "word": "虞书欣舞台收视率登顶",
+      "onboard_time": 1738218257,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139348,
       "num": 139348,
       "word": "实测DeepSeek做奥数题写作文",
@@ -8923,6 +9019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133445,
+      "num": 123108,
+      "word": "韦雪带男友回老家过年",
+      "onboard_time": 1738215317,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133374,
       "num": 131958,
       "word": "哪吒2的中式审美绝了",
@@ -9001,6 +9105,14 @@
       "onboard_time": 1737976877,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132485,
+      "num": 108262,
+      "word": "肖战感谢黄晓明",
+      "onboard_time": 1738218018,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 132461,
@@ -9233,14 +9345,6 @@
       "onboard_time": 1737911895,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 126899,
-      "num": 123108,
-      "word": "韦雪带男友回老家过年",
-      "onboard_time": 1738215317,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 126876,
@@ -9627,6 +9731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120210,
+      "num": 105245,
+      "word": "虞书欣林一这个视频没有退出键",
+      "onboard_time": 1738218556,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120067,
       "num": 120067,
       "word": "男孩玩烟花引燃轿车家长赔15万",
@@ -9689,6 +9801,14 @@
       "onboard_time": 1737882499,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 118537,
+      "num": 118537,
+      "word": "勇士挑战联盟第一",
+      "onboard_time": 1738214115,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 118501,
@@ -9833,6 +9953,14 @@
       "onboard_time": 1738037297,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 115492,
+      "num": 103907,
+      "word": "赵丽颖抱哪吒玩偶",
+      "onboard_time": 1738215918,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 115417,
@@ -10017,6 +10145,14 @@
       "onboard_time": 1738213157,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111787,
+      "num": 111787,
+      "word": "孙颖莎体能训练好认真",
+      "onboard_time": 1738217417,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 111746,
@@ -10345,14 +10481,6 @@
       "onboard_time": 1737895459,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 107123,
-      "num": 107123,
-      "word": "勇士挑战联盟第一",
-      "onboard_time": 1738214115,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 107031,
@@ -11331,6 +11459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88199,
+      "num": 88199,
+      "word": "库里专挑硬柿子捏",
+      "onboard_time": 1738217958,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87623,
       "num": 87623,
       "word": "DeepSeek团队不到140人",
@@ -11641,6 +11777,14 @@
       "onboard_time": 1738030756,
       "rank": 39,
       "category": "互联网,数码"
+    },
+    {
+      "raw_hot": 82442,
+      "num": 82442,
+      "word": "广东人的红包是多有实力",
+      "onboard_time": 1738218498,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 82378,
@@ -12211,6 +12355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68016,
+      "num": 1021044,
+      "word": "英歌舞跳出对新年的美好祝福",
+      "onboard_time": 1738214777,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67972,
       "num": 67972,
       "word": "辽视春晚把簪花仕女图演活了",
@@ -12657,6 +12809,14 @@
       "onboard_time": 1738026976,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53425,
+      "num": 110629,
+      "word": "初二看电影逛商圈成新年俗",
+      "onboard_time": 1738216878,
+      "rank": 39,
+      "category": "正能量"
     },
     {
       "raw_hot": 53319,
@@ -13320,14 +13480,6 @@
       "word": "霸座的人已经不多了",
       "onboard_time": 1737825555,
       "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32333,
-      "num": 1021044,
-      "word": "英歌舞跳出对新年的美好祝福",
-      "onboard_time": 1738214777,
-      "rank": 2,
       "category": "民生新闻"
     },
     {

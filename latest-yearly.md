@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/30 13:38:54
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/30 14:30:07
 </p>
 </blockquote>
 <p>
@@ -1005,6 +1005,12 @@ TikTok停止在美服务（热度：2463156）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8D%E5%AD%90%E7%9C%8B%E5%94%90%E6%8E%A2%E5%BC%BA%E8%A1%8C%E5%8D%A0%E5%BA%A7%E8%87%B4300%E5%A4%9A%E4%BA%BA%E9%80%80%E7%A5%A8%23" target="weibo">
+母子看唐探强行占座致300多人退票（热度：2329836）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E4%BA%AE%E5%A5%B3%E5%84%BF%E8%BF%9B%E8%A1%8C%E4%B8%8B%E5%B7%B4%E5%90%8E%E7%BC%A9%E7%9F%AB%E6%AD%A3%23" target="weibo">
 田亮女儿进行下巴后缩矫正（热度：2324326）
 </a>
@@ -1805,12 +1811,6 @@ TikTok难民来啦（热度：1761821）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A5%A8%E6%88%BF%23" target="weibo">
 票房（热度：1736361）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E6%94%B6%E8%A7%86%E7%8E%87%23" target="weibo">
-春晚收视率（热度：1735808）
 </a>
 </li>
 
