@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738261789265,
+  "endTime": 1738262560673,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -13363,6 +13363,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 75989,
+      "num": 52722,
+      "word": "特朗普考虑英伟达特供版也不卖中国",
+      "onboard_time": 1738260073,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 75692,
       "num": 469602,
       "word": "许墨缤纷心愿",
@@ -14401,14 +14409,6 @@
       "onboard_time": 1738258274,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 47493,
-      "num": 47493,
-      "word": "特朗普考虑英伟达特供版也不卖中国",
-      "onboard_time": 1738260073,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 47321,
@@ -15553,6 +15553,14 @@
       "onboard_time": 1737988518,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 21545,
+      "num": 30361,
+      "word": "当留学生瞒着家人突然回家过年",
+      "onboard_time": 1738262292,
+      "rank": 48,
+      "category": "正能量"
     },
     {
       "raw_hot": 21487,
