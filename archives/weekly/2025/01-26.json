@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738221616348,
+  "endTime": 1738222541401,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -1091,6 +1091,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 966728,
+      "num": 476337,
+      "word": "疑似陈思诚自己找的群演",
+      "onboard_time": 1738217177,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 963423,
       "num": 634663,
       "word": "嬷童降世",
@@ -1153,14 +1161,6 @@
       "onboard_time": 1738074092,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 924506,
-      "num": 476337,
-      "word": "疑似陈思诚自己找的群演",
-      "onboard_time": 1738217177,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 921868,
@@ -2057,6 +2057,14 @@
       "onboard_time": 1738070560,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 607305,
+      "num": 350375,
+      "word": "媒体评徐克版射雕解题失败",
+      "onboard_time": 1738220297,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 598554,
@@ -3083,6 +3091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 436337,
+      "num": 436337,
+      "word": "法国耗资540亿欧元AI推出3天后下架",
+      "onboard_time": 1738217897,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 435786,
       "num": 321095,
       "word": "陈丽君演贾宝玉像从书中走出来",
@@ -3113,14 +3129,6 @@
       "onboard_time": 1738215616,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 429004,
-      "num": 429004,
-      "word": "法国耗资540亿欧元AI推出3天后下架",
-      "onboard_time": 1738217897,
-      "rank": 24,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 428682,
@@ -3561,6 +3569,14 @@
       "onboard_time": 1737987020,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 376434,
+      "num": 194523,
+      "word": "大年初二女婿又开始汗流浃背了",
+      "onboard_time": 1738220417,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 375673,
@@ -4305,14 +4321,6 @@
       "onboard_time": 1737979217,
       "rank": 5,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 301548,
-      "num": 301548,
-      "word": "媒体评徐克版射雕解题失败",
-      "onboard_time": 1738220297,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 301218,
@@ -5763,6 +5771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213133,
+      "num": 156547,
+      "word": "好消息光头强有娃了",
+      "onboard_time": 1738220417,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 212894,
       "num": 212894,
       "word": "NewJeans制服Attention舞台",
@@ -6323,6 +6339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196599,
+      "num": 299348,
+      "word": "美国两天三架飞机失事",
+      "onboard_time": 1738217598,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 196230,
       "num": 196230,
       "word": "DeepSeek新模型火到海外",
@@ -6385,14 +6409,6 @@
       "onboard_time": 1738149740,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 194523,
-      "num": 194523,
-      "word": "大年初二女婿又开始汗流浃背了",
-      "onboard_time": 1738220417,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 194271,
@@ -7027,6 +7043,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 179257,
+      "num": 155373,
+      "word": "小谢说被赵露思的积极乐观感染",
+      "onboard_time": 1738221857,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178973,
       "num": 164959,
       "word": "航禹",
@@ -7411,12 +7435,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 169624,
-      "num": 104542,
-      "word": "好消息光头强有娃了",
-      "onboard_time": 1738220417,
-      "rank": 40,
-      "category": "电影"
+      "raw_hot": 169759,
+      "num": 169759,
+      "word": "压岁钱和红包其实不是一回事",
+      "onboard_time": 1738220958,
+      "rank": 44,
+      "category": "正能量"
     },
     {
       "raw_hot": 169605,
@@ -7428,7 +7452,7 @@
     },
     {
       "raw_hot": 169029,
-      "num": 118554,
+      "num": 144862,
       "word": "虞书欣林一这个视频没有退出键",
       "onboard_time": 1738218556,
       "rank": 42,
@@ -7464,6 +7488,14 @@
       "word": "张艺兴分享应对春节催婚的办法",
       "onboard_time": 1738154839,
       "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 168482,
+      "num": 154781,
+      "word": "赵雅芝隔空回应沈腾",
+      "onboard_time": 1738222277,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -8131,16 +8163,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 153622,
-      "num": 299348,
-      "word": "美国两天三架飞机失事",
-      "onboard_time": 1738217598,
-      "rank": 14,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 152887,
-      "num": 150965,
+      "num": 153753,
       "word": "MiuMiu2025春夏系列",
       "onboard_time": 1738217478,
       "rank": 23,
@@ -8803,6 +8827,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 139262,
+      "num": 139262,
+      "word": "制片人谈哪吒2为何打动观众",
+      "onboard_time": 1738221618,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 139153,
       "num": 166325,
       "word": "陈丽君60秒演绎百年越剧情",
@@ -8969,6 +9001,14 @@
       "onboard_time": 1738205058,
       "rank": 31,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 136618,
+      "num": 192520,
+      "word": "黄誉博直播",
+      "onboard_time": 1738221436,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 136285,
@@ -9684,7 +9724,7 @@
     },
     {
       "raw_hot": 122215,
-      "num": 122215,
+      "num": 159182,
       "word": "孙颖莎出征WTT新加坡大满贯",
       "onboard_time": 1738219218,
       "rank": 36,
@@ -9929,14 +9969,6 @@
       "onboard_time": 1737868757,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 117871,
-      "num": 192520,
-      "word": "黄誉博直播",
-      "onboard_time": 1738221436,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 117491,
@@ -10457,6 +10489,14 @@
       "onboard_time": 1737878538,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108610,
+      "num": 153464,
+      "word": "外国人扭秧歌",
+      "onboard_time": 1738221497,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 108513,
@@ -11019,6 +11059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99042,
+      "num": 99042,
+      "word": "广东人的红包是多有实力",
+      "onboard_time": 1738218498,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 98800,
       "num": 98800,
       "word": "00后医学生接一通电话救了个患儿",
@@ -11073,14 +11121,6 @@
       "onboard_time": 1737865457,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 98004,
-      "num": 98004,
-      "word": "压岁钱和红包其实不是一回事",
-      "onboard_time": 1738220958,
-      "rank": 44,
-      "category": "正能量"
     },
     {
       "raw_hot": 97866,
@@ -11459,14 +11499,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 91119,
-      "num": 91119,
-      "word": "广东人的红包是多有实力",
-      "onboard_time": 1738218498,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 90994,
       "num": 226380,
       "word": "布朗尼第一节就上了",
@@ -11596,7 +11628,7 @@
     },
     {
       "raw_hot": 88199,
-      "num": 88667,
+      "num": 158090,
       "word": "库里专挑硬柿子捏",
       "onboard_time": 1738217958,
       "rank": 46,
@@ -12011,14 +12043,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80538,
-      "num": 88733,
-      "word": "外国人扭秧歌",
-      "onboard_time": 1738221497,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 80437,
       "num": 210843,
       "word": "南苏丹一架飞机坠毁18人死亡",
@@ -12097,6 +12121,14 @@
       "onboard_time": 1738030815,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 78224,
+      "num": 278743,
+      "word": "印度大壶节踩踏事件幸存者发声",
+      "onboard_time": 1738221257,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 78105,
@@ -13291,14 +13323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40765,
-      "num": 278743,
-      "word": "印度大壶节踩踏事件幸存者发声",
-      "onboard_time": 1738221257,
-      "rank": 22,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 40624,
       "num": 40624,
       "word": "杨紫带着piu仔给大家拜年啦",
@@ -13849,6 +13873,14 @@
       "onboard_time": 1737889219,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 26807,
+      "num": 157098,
+      "word": "飞机高铁上何时能看高清视频",
+      "onboard_time": 1738222218,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26806,
@@ -14537,6 +14569,14 @@
       "onboard_time": 1737928931,
       "rank": 16,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 10301,
+      "num": 160401,
+      "word": "翟宇佳走了十四年走到了蛟龙行动",
+      "onboard_time": 1738222037,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 10109,
