@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738276659231,
+  "endTime": 1738279323267,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -5715,6 +5715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 240261,
+      "num": 33707,
+      "word": "一群印度人煮4800公斤食物场面震撼",
+      "onboard_time": 1738279273,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 239907,
       "num": 239907,
       "word": "河南春晚",
@@ -7657,6 +7665,14 @@
       "onboard_time": 1738132037,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182283,
+      "num": 69610,
+      "word": "特朗普考虑英伟达特供版也不卖中国",
+      "onboard_time": 1738260073,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 181323,
@@ -12523,14 +12539,6 @@
       "category": "综艺,汽车"
     },
     {
-      "raw_hot": 92449,
-      "num": 52722,
-      "word": "特朗普考虑英伟达特供版也不卖中国",
-      "onboard_time": 1738260073,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 92440,
       "num": 3124773,
       "word": "中国人从太空发回拜年视频",
@@ -12643,6 +12651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 90066,
+      "num": 90066,
+      "word": "正月初五新一轮冷空气来袭",
+      "onboard_time": 1738276391,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89993,
       "num": 205765,
       "word": "微软CEO说DeepSeek有真创新",
@@ -12713,6 +12729,14 @@
       "onboard_time": 1738071094,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88294,
+      "num": 69353,
+      "word": "外媒称失事客机上至少14名运动员",
+      "onboard_time": 1738255156,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 88292,
@@ -13603,6 +13627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69704,
+      "num": 69704,
+      "word": "当留学生瞒着家人突然回家过年",
+      "onboard_time": 1738262292,
+      "rank": 48,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 69530,
       "num": 89474,
       "word": "许凯赞樊振东的运动精神",
@@ -13641,6 +13673,14 @@
       "onboard_time": 1738143020,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 68771,
+      "num": 33592,
+      "word": "黄晓明湄洲岛",
+      "onboard_time": 1738277050,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 68717,
@@ -13699,14 +13739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 67865,
-      "num": 67865,
-      "word": "外媒称失事客机上至少14名运动员",
-      "onboard_time": 1738255156,
-      "rank": 37,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 67693,
       "num": 376284,
       "word": "2025春节假期天气地图",
@@ -13721,6 +13753,14 @@
       "onboard_time": 1737994697,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67597,
+      "num": 67597,
+      "word": "大年初三",
+      "onboard_time": 1738279215,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67566,
@@ -14291,14 +14331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 52249,
-      "num": 52249,
-      "word": "当留学生瞒着家人突然回家过年",
-      "onboard_time": 1738262292,
-      "rank": 48,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 52004,
       "num": 103067,
       "word": "英歌为什么要与蛇共舞",
@@ -14484,7 +14516,7 @@
     },
     {
       "raw_hot": 45934,
-      "num": 39727,
+      "num": 41335,
       "word": "赵露思新发色好美",
       "onboard_time": 1738263251,
       "rank": 23,
@@ -14585,6 +14617,14 @@
       "onboard_time": 1738141759,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 42263,
+      "num": 42263,
+      "word": "美国坠河客机上有花滑世界冠军",
+      "onboard_time": 1738273871,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 41513,
@@ -14875,6 +14915,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 36121,
+      "num": 34021,
+      "word": "美国撞机事件空中音频曝光",
+      "onboard_time": 1738271891,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 35797,
       "num": 262015,
       "word": "淘宝带1亿网友上春晚了",
@@ -15091,12 +15139,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 29898,
-      "num": 29334,
-      "word": "美国撞机事件空中音频曝光",
-      "onboard_time": 1738271891,
+      "raw_hot": 29715,
+      "num": 29715,
+      "word": "4万香客排队10小时进雍和宫烧头香",
+      "onboard_time": 1738265412,
       "rank": 46,
-      "category": "国际时政"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29397,
@@ -15137,6 +15185,14 @@
       "onboard_time": 1737893299,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 28735,
+      "num": 33572,
+      "word": "陈丽君穿10公分戏靴连转25米彩绸",
+      "onboard_time": 1738268890,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 28636,
@@ -15209,6 +15265,14 @@
       "onboard_time": 1738089793,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27339,
+      "num": 27339,
+      "word": "今年春节档票房有望再创新高",
+      "onboard_time": 1738273750,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 27031,
@@ -15361,6 +15425,14 @@
       "onboard_time": 1737916393,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 24837,
+      "num": 24837,
+      "word": "为何美国两日坠三机",
+      "onboard_time": 1738267092,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 24736,
@@ -15563,14 +15635,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 21949,
-      "num": 21949,
-      "word": "美国坠河客机上有花滑世界冠军",
-      "onboard_time": 1738273871,
-      "rank": 34,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 21878,
       "num": 30466,
       "word": "河南春晚看见不一样的周深",
@@ -15627,11 +15691,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20600,
-      "num": 20600,
-      "word": "为何美国两日坠三机",
-      "onboard_time": 1738267092,
-      "rank": 47,
+      "raw_hot": 20640,
+      "num": 24832,
+      "word": "美国撞机事故目击者发声",
+      "onboard_time": 1738268531,
+      "rank": 49,
       "category": "海外新闻"
     },
     {
@@ -15657,14 +15721,6 @@
       "onboard_time": 1737980358,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 20404,
-      "num": 24654,
-      "word": "4万香客排队10小时进雍和宫烧头香",
-      "onboard_time": 1738265412,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20264,
@@ -15705,22 +15761,6 @@
       "onboard_time": 1737827834,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19364,
-      "num": 19364,
-      "word": "美国撞机事故目击者发声",
-      "onboard_time": 1738268531,
-      "rank": 49,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 19227,
-      "num": 33572,
-      "word": "陈丽君穿10公分戏靴连转25米彩绸",
-      "onboard_time": 1738268890,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 19048,
@@ -15768,14 +15808,6 @@
       "word": "我们为什么爱这个哪吒",
       "onboard_time": 1738045637,
       "rank": 29,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 18700,
-      "num": 18700,
-      "word": "今年春节档票房有望再创新高",
-      "onboard_time": 1738273750,
-      "rank": 37,
       "category": "电影"
     },
     {
@@ -15921,14 +15953,6 @@
       "onboard_time": 1738136838,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 14327,
-      "num": 16806,
-      "word": "正月初五新一轮冷空气来袭",
-      "onboard_time": 1738276391,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13746,
