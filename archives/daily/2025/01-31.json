@@ -1,6 +1,6 @@
 {
   "startTime": 1738254491138,
-  "endTime": 1738258636057,
+  "endTime": 1738261789265,
   "band_list": [
     {
       "raw_hot": 1427134,
@@ -411,6 +411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 63277,
+      "num": 64153,
+      "word": "美国1995年以来发生过7次重大空难",
+      "onboard_time": 1738255815,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 60605,
       "num": 71635,
       "word": "英伟达认为禁售增强中国科技自主决心",
@@ -427,20 +435,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 53544,
-      "num": 64153,
-      "word": "美国1995年以来发生过7次重大空难",
-      "onboard_time": 1738255815,
-      "rank": 44,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 47635,
       "num": 51910,
       "word": "福气码",
       "onboard_time": 1738258274,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 47493,
+      "num": 47493,
+      "word": "特朗普考虑英伟达特供版也不卖中国",
+      "onboard_time": 1738260073,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 45663,
@@ -483,12 +491,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27505,
+      "num": 31035,
+      "word": "陈丽君 越剧春晚",
+      "onboard_time": 1738260612,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 25955,
+      "num": 31022,
+      "word": "美花滑运动员因狗逃过致命航班",
+      "onboard_time": 1738246459,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 18790,
+      "num": 35595,
+      "word": "黄子弘凡春晚表演一个三折叠",
+      "onboard_time": 1738258453,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 15426,
       "num": 66726,
       "word": "易烊千玺曾长时间处于刘春和状态",
       "onboard_time": 1738258513,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 4994,
+      "num": 98048,
+      "word": "英歌舞跳出对新年的美好祝福",
+      "onboard_time": 1738214777,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
