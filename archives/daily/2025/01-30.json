@@ -1,6 +1,6 @@
 {
   "startTime": 1738168091636,
-  "endTime": 1738241801850,
+  "endTime": 1738243578125,
   "band_list": [
     {
       "raw_hot": 2432743,
@@ -49,6 +49,14 @@
       "onboard_time": 1738207638,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1352318,
+      "num": 1352318,
+      "word": "电影院给退票场观众补了一场新电影",
+      "onboard_time": 1738242139,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1303817,
@@ -169,6 +177,14 @@
       "onboard_time": 1738154000,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 945904,
+      "num": 945904,
+      "word": "谢霆锋和两个儿子背影照",
+      "onboard_time": 1738241778,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 929199,
@@ -363,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 626498,
+      "num": 239080,
+      "word": "邓婵玉撕掉了女性被凝视困境",
+      "onboard_time": 1738239379,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 612253,
       "num": 609869,
       "word": "易烊千玺为啥说不做男主角了",
@@ -475,6 +499,14 @@
       "category": "游戏,剧集"
     },
     {
+      "raw_hot": 454818,
+      "num": 208268,
+      "word": "有点阴招全使自家人身上了",
+      "onboard_time": 1738240099,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 453460,
       "num": 218157,
       "word": "射雕票房",
@@ -571,14 +603,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 417900,
-      "num": 239080,
-      "word": "邓婵玉撕掉了女性被凝视困境",
-      "onboard_time": 1738239379,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 415736,
       "num": 415736,
       "word": "健康的甲状腺其实是摸不到的",
@@ -620,7 +644,7 @@
     },
     {
       "raw_hot": 393451,
-      "num": 238778,
+      "num": 336824,
       "word": "英伟达认为禁售增强中国科技自主决心",
       "onboard_time": 1738239379,
       "rank": 13,
@@ -649,6 +673,14 @@
       "onboard_time": 1738204097,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 372586,
+      "num": 237809,
+      "word": "春晚哪首歌是你心中最佳",
+      "onboard_time": 1738234517,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 366494,
@@ -739,6 +771,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 337297,
+      "num": 337297,
+      "word": "过年在家不玩手机还能干什么",
+      "onboard_time": 1738229658,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 336413,
       "num": 200841,
       "word": "封神第二部让我学会延迟满足",
@@ -755,20 +795,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 326395,
+      "num": 207222,
+      "word": "刘昊然好帅",
+      "onboard_time": 1738241478,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 323992,
       "num": 323992,
       "word": "姬发 恋爱脑",
       "onboard_time": 1738153818,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 322282,
-      "num": 322282,
-      "word": "过年在家不玩手机还能干什么",
-      "onboard_time": 1738229658,
-      "rank": 9,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 319882,
@@ -825,14 +865,6 @@
       "onboard_time": 1738210156,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 295752,
-      "num": 191391,
-      "word": "有点阴招全使自家人身上了",
-      "onboard_time": 1738240099,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 286993,
@@ -931,14 +963,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 257051,
-      "num": 237809,
-      "word": "春晚哪首歌是你心中最佳",
-      "onboard_time": 1738234517,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 256953,
       "num": 265906,
       "word": "费翔谈在封神拍摄期间的遗憾",
@@ -969,6 +993,14 @@
       "onboard_time": 1738196477,
       "rank": 13,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 249472,
+      "num": 207999,
+      "word": "美国撞机可能无人生还",
+      "onboard_time": 1738242620,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 244485,
@@ -1025,6 +1057,14 @@
       "onboard_time": 1738209917,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 218879,
+      "num": 206120,
+      "word": "第一批外地女婿已经到娘家了",
+      "onboard_time": 1738243159,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 215645,
@@ -1099,12 +1139,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205931,
+      "num": 205931,
+      "word": "五福临门不知妻美陈鹤一",
+      "onboard_time": 1738240938,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 205763,
+      "num": 205763,
+      "word": "封神",
+      "onboard_time": 1738242919,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 205556,
       "num": 205556,
       "word": "特朗普称DeepSeek传递积极信号",
       "onboard_time": 1738168997,
       "rank": 13,
       "category": "国际时政,互联网"
+    },
+    {
+      "raw_hot": 204423,
+      "num": 204423,
+      "word": "原来小狗也喜欢看烟花",
+      "onboard_time": 1738241118,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 203507,
@@ -1299,6 +1363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177760,
+      "num": 177760,
+      "word": "汕头烟花",
+      "onboard_time": 1738241297,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176139,
       "num": 118145,
       "word": "肖战感谢黄晓明",
@@ -1313,6 +1385,14 @@
       "onboard_time": 1738222637,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 173571,
+      "num": 204977,
+      "word": "曾舜晞说24年没有达到预期",
+      "onboard_time": 1738241718,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 173171,
@@ -1347,14 +1427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 169816,
-      "num": 169816,
-      "word": "五福临门不知妻美陈鹤一",
-      "onboard_time": 1738240938,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 169029,
       "num": 144862,
       "word": "虞书欣林一这个视频没有退出键",
@@ -1385,14 +1457,6 @@
       "onboard_time": 1738229537,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 166055,
-      "num": 166055,
-      "word": "原来小狗也喜欢看烟花",
-      "onboard_time": 1738241118,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 165277,
@@ -1531,6 +1595,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 151288,
+      "num": 151288,
+      "word": "望寿华姐姐疼疼我",
+      "onboard_time": 1738242799,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150662,
       "num": 150662,
       "word": "潘展乐蛇年第一条微博",
@@ -1603,28 +1675,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145541,
-      "num": 145541,
-      "word": "刘昊然好帅",
-      "onboard_time": 1738241478,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 143364,
       "num": 111262,
       "word": "肖战 灯塔",
       "onboard_time": 1738160360,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141731,
-      "num": 141731,
-      "word": "谢霆锋和两个儿子背影照",
-      "onboard_time": 1738241778,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 141727,
@@ -1771,14 +1827,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 129606,
-      "num": 165085,
-      "word": "曾舜晞说24年没有达到预期",
-      "onboard_time": 1738241718,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 128987,
       "num": 128987,
       "word": "春晚机器人创始人与浙大失之交臂",
@@ -1825,6 +1873,14 @@
       "onboard_time": 1738151121,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 125361,
+      "num": 206875,
+      "word": "恋与深空",
+      "onboard_time": 1738242259,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 125264,
@@ -2171,6 +2227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99528,
+      "num": 128415,
+      "word": "女子初二回娘家返程塞满300斤特产",
+      "onboard_time": 1738243278,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99042,
       "num": 99042,
       "word": "广东人的红包是多有实力",
@@ -2308,7 +2372,7 @@
     },
     {
       "raw_hot": 87329,
-      "num": 87329,
+      "num": 128238,
       "word": "巳巳如意中国年",
       "onboard_time": 1738236018,
       "rank": 48,
@@ -2595,6 +2659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47967,
+      "num": 208646,
+      "word": "美军用飞机频繁穿越民航航线酿大祸",
+      "onboard_time": 1738243099,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 47645,
       "num": 47645,
       "word": "中国电影史单日票房破纪录",
@@ -2632,6 +2704,14 @@
       "word": "胡歌新片幕后花絮",
       "onboard_time": 1738208837,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 39702,
+      "num": 156358,
+      "word": "黄轩直播",
+      "onboard_time": 1738242139,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -2745,6 +2825,14 @@
       "onboard_time": 1738180871,
       "rank": 34,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 23581,
+      "num": 207862,
+      "word": "西湖人从众保安一天捡七八个小孩",
+      "onboard_time": 1738243219,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 23573,
