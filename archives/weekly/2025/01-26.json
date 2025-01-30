@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738272952248,
+  "endTime": 1738275628851,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -15251,6 +15251,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 26494,
+      "num": 26494,
+      "word": "美国撞机事件空中音频曝光",
+      "onboard_time": 1738271891,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 26190,
       "num": 161338,
       "word": "给老外一点舞龙舞狮震撼",
@@ -15531,14 +15539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 22337,
-      "num": 18901,
-      "word": "美国撞机事件空中音频曝光",
-      "onboard_time": 1738271891,
-      "rank": 46,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 22254,
       "num": 177932,
       "word": "动漫最帅前辈毋庸置疑",
@@ -15643,12 +15643,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 20404,
+      "num": 24654,
+      "word": "4万香客排队10小时进雍和宫烧头香",
+      "onboard_time": 1738265412,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20264,
       "num": 196507,
       "word": "刘晓庆说我是拍立淘女孩",
       "onboard_time": 1737896660,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 20169,
+      "num": 20169,
+      "word": "为何美国两日坠三机",
+      "onboard_time": 1738267092,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 19772,
@@ -15699,11 +15715,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 18890,
-      "num": 18890,
-      "word": "为何美国两日坠三机",
-      "onboard_time": 1738267092,
-      "rank": 47,
+      "raw_hot": 19009,
+      "num": 19009,
+      "word": "美国坠河客机上有花滑世界冠军",
+      "onboard_time": 1738273871,
+      "rank": 34,
       "category": "海外新闻"
     },
     {
@@ -15779,12 +15795,12 @@
       "category": "国内时政,民生新闻"
     },
     {
-      "raw_hot": 17170,
-      "num": 24654,
-      "word": "4万香客排队10小时进雍和宫烧头香",
-      "onboard_time": 1738265412,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 17736,
+      "num": 17736,
+      "word": "今年春节档票房有望再创新高",
+      "onboard_time": 1738273750,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 17145,
@@ -16153,6 +16169,14 @@
       "onboard_time": 1738132699,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 8541,
+      "num": 17059,
+      "word": "哪吒导演曾要当一名医务人员",
+      "onboard_time": 1738273930,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 8378,
