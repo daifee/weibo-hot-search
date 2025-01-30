@@ -1,6 +1,6 @@
 {
   "startTime": 1738254491138,
-  "endTime": 1738264654742,
+  "endTime": 1738265741341,
   "band_list": [
     {
       "raw_hot": 1427134,
@@ -467,20 +467,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43061,
+      "num": 36679,
+      "word": "赵露思新发色好美",
+      "onboard_time": 1738263251,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 42348,
       "num": 64087,
       "word": "3种相处模式让家越来越兴旺",
       "onboard_time": 1738256715,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39685,
-      "num": 34343,
-      "word": "赵露思新发色好美",
-      "onboard_time": 1738263251,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 37297,
@@ -507,7 +507,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 26494,
+      "raw_hot": 26960,
       "num": 30361,
       "word": "当留学生瞒着家人突然回家过年",
       "onboard_time": 1738262292,
@@ -529,6 +529,14 @@
       "onboard_time": 1738258453,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 17170,
+      "num": 17170,
+      "word": "4万香客排队10小时进雍和宫烧头香",
+      "onboard_time": 1738265412,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15426,

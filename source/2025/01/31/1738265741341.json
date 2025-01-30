@@ -1,0 +1,410 @@
+{
+  "runTime": 1738265741341,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 164227,
+        "num": 164227,
+        "word": "敖丙他爸出场 哇声一片",
+        "onboard_time": 1738251139,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137975,
+        "num": 137975,
+        "word": "金价",
+        "onboard_time": 1738233497,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 4680,
+        "num": 120764,
+        "word": "英歌舞跳出对新年的美好祝福",
+        "onboard_time": 1738214777,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120620,
+        "num": 120620,
+        "word": "肖战 郭靖",
+        "onboard_time": 1738248079,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 61726,
+        "num": 61726,
+        "word": "一县城影院推无座票需自带板凳观影",
+        "onboard_time": 1738250958,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51053,
+        "num": 51053,
+        "word": "麻辣王子家过年被小朋友挤爆",
+        "onboard_time": 1738250536,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94767,
+        "num": 47795,
+        "word": "藕饼",
+        "onboard_time": 1738221257,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 59738,
+        "num": 47138,
+        "word": "乌尔善说姬发邓婵玉是惺惺相惜",
+        "onboard_time": 1738253059,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19275,
+        "num": 43737,
+        "word": "过年在家不玩手机还能干什么",
+        "onboard_time": 1738229658,
+        "rank": 8,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 42239,
+        "num": 42239,
+        "word": "汕头烟花",
+        "onboard_time": 1738241297,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90292,
+        "num": 42141,
+        "word": "特朗普考虑英伟达特供版也不卖中国",
+        "onboard_time": 1738260073,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81428,
+        "num": 41066,
+        "word": "2025春节档首部10亿电影诞生",
+        "onboard_time": 1738253537,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 71313,
+        "num": 40609,
+        "word": "美国客机坠河已找到30多具遗体",
+        "onboard_time": 1738238958,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 64634,
+        "num": 40017,
+        "word": "邓婵玉撕掉了女性被凝视困境",
+        "onboard_time": 1738239379,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 60902,
+        "num": 39123,
+        "word": "票房",
+        "onboard_time": 1738247598,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 51511,
+        "num": 38177,
+        "word": "王俊凯你快回我呀",
+        "onboard_time": 1738251257,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 49462,
+        "num": 37924,
+        "word": "美国男子在飞机相撞前收到妻子短信",
+        "onboard_time": 1738228398,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 43061,
+        "num": 36679,
+        "word": "赵露思新发色好美",
+        "onboard_time": 1738263251,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36611,
+        "num": 36611,
+        "word": "美国1995年以来发生过7次重大空难",
+        "onboard_time": 1738255815,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 33158,
+        "num": 33158,
+        "word": "当我竟然在12点前睡觉",
+        "onboard_time": 1738248138,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 55783,
+        "num": 32766,
+        "word": "谢霆锋和两个儿子背影照",
+        "onboard_time": 1738241778,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49590,
+        "num": 32739,
+        "word": "范丞丞直播角度太暧昧了",
+        "onboard_time": 1738247838,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42933,
+        "num": 32707,
+        "word": "梁家辉在春晚后台哭了3次",
+        "onboard_time": 1738236259,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32320,
+        "num": 32320,
+        "word": "汕头上演国内规模最大烟花秀",
+        "onboard_time": 1738252098,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32158,
+        "num": 32158,
+        "word": "原来经济独立是可以过好年的",
+        "onboard_time": 1738248558,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31147,
+        "num": 31147,
+        "word": "大哪吒帅了不止一点点",
+        "onboard_time": 1738249759,
+        "rank": 25,
+        "category": "电影,作品衍生"
+      },
+      {
+        "raw_hot": 30180,
+        "num": 30180,
+        "word": "美军用飞机频繁穿越民航航线酿大祸",
+        "onboard_time": 1738243099,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 29082,
+        "num": 29082,
+        "word": "ChinaDaily发了虞书欣拜年视频",
+        "onboard_time": 1738255937,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29978,
+        "num": 29004,
+        "word": "美国撞机可能无人生还",
+        "onboard_time": 1738242620,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 28668,
+        "num": 28668,
+        "word": "封神",
+        "onboard_time": 1738242919,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 28012,
+        "num": 28012,
+        "word": "徐志胜Pro徐志胜Max",
+        "onboard_time": 1738251797,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27370,
+        "num": 27370,
+        "word": "刘谦 真的不是我干的",
+        "onboard_time": 1738251018,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26960,
+        "num": 26960,
+        "word": "当留学生瞒着家人突然回家过年",
+        "onboard_time": 1738262292,
+        "rank": 32,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 26427,
+        "num": 26427,
+        "word": "周润发称拍唐探1900是圆梦",
+        "onboard_time": 1738245619,
+        "rank": 33,
+        "category": "电影,艺人"
+      },
+      {
+        "raw_hot": 24805,
+        "num": 24805,
+        "word": "外媒称失事客机上至少14名运动员",
+        "onboard_time": 1738255156,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25633,
+        "num": 24789,
+        "word": "刘昊然好帅",
+        "onboard_time": 1738241478,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24072,
+        "num": 24072,
+        "word": "射雕口碑",
+        "onboard_time": 1738227257,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23647,
+        "num": 23647,
+        "word": "答案预售中",
+        "onboard_time": 1738254076,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 20559,
+        "num": 20559,
+        "word": "颜安 女寝",
+        "onboard_time": 1738236138,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19376,
+        "num": 19376,
+        "word": "虞书欣檀健次预制联动",
+        "onboard_time": 1738235419,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19340,
+        "num": 19340,
+        "word": "于适回应姬发邓婵玉共舞",
+        "onboard_time": 1738256294,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18406,
+        "num": 18406,
+        "word": "春晚哪首歌是你心中最佳",
+        "onboard_time": 1738234517,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18176,
+        "num": 18176,
+        "word": "美花滑运动员因狗逃过致命航班",
+        "onboard_time": 1738246459,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 18011,
+        "num": 18011,
+        "word": "英伟达认为禁售增强中国科技自主决心",
+        "onboard_time": 1738239379,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 17440,
+        "num": 17440,
+        "word": "DeepSeek仍是APP商店榜首",
+        "onboard_time": 1738253297,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 17360,
+        "num": 17360,
+        "word": "一县城影院推无座票售价与有座相同",
+        "onboard_time": 1738243759,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17170,
+        "num": 17170,
+        "word": "4万香客排队10小时进雍和宫烧头香",
+        "onboard_time": 1738265412,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16857,
+        "num": 16857,
+        "word": "背景图",
+        "onboard_time": 1738254137,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16728,
+        "num": 16728,
+        "word": "丁禹兮看自己春晚挑眉害羞了",
+        "onboard_time": 1738234459,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16617,
+        "num": 16617,
+        "word": "王菲世界赠予我的武汉浪漫",
+        "onboard_time": 1738233558,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#行之所向心之所系#"
+    }
+  }
+}
