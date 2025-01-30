@@ -1,6 +1,6 @@
 {
   "startTime": 1738168091636,
-  "endTime": 1738250608816,
+  "endTime": 1738251462851,
   "band_list": [
     {
       "raw_hot": 2432743,
@@ -459,12 +459,44 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 548417,
+      "num": 334884,
+      "word": "范丞丞直播角度太暧昧了",
+      "onboard_time": 1738247838,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 546166,
       "num": 546166,
       "word": "一县城影院推无座票售价与有座相同",
       "onboard_time": 1738243759,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 542764,
+      "num": 284177,
+      "word": "周润发称拍唐探1900是圆梦",
+      "onboard_time": 1738245619,
+      "rank": 14,
+      "category": "电影,艺人"
+    },
+    {
+      "raw_hot": 526563,
+      "num": 526563,
+      "word": "男孩井盖点鞭炮汽车被炸翻",
+      "onboard_time": 1738246760,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 506960,
+      "num": 253752,
+      "word": "肖战 郭靖",
+      "onboard_time": 1738248079,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 500427,
@@ -497,14 +529,6 @@
       "onboard_time": 1738239977,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 486301,
-      "num": 286559,
-      "word": "范丞丞直播角度太暧昧了",
-      "onboard_time": 1738247838,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 477424,
@@ -659,6 +683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 418443,
+      "num": 232841,
+      "word": "陈丽君春晚许仙",
+      "onboard_time": 1738247959,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 415736,
       "num": 415736,
       "word": "健康的甲状腺其实是摸不到的",
@@ -691,22 +723,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 400335,
-      "num": 232841,
-      "word": "陈丽君春晚许仙",
-      "onboard_time": 1738247959,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 398268,
-      "num": 284177,
-      "word": "周润发称拍唐探1900是圆梦",
-      "onboard_time": 1738245619,
-      "rank": 14,
-      "category": "电影,艺人"
-    },
-    {
       "raw_hot": 395478,
       "num": 395478,
       "word": "南苏丹坠机遇难者中有2名中国公民",
@@ -721,6 +737,14 @@
       "onboard_time": 1738239379,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 388534,
+      "num": 230990,
+      "word": "原来经济独立是可以过好年的",
+      "onboard_time": 1738248558,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 384121,
@@ -819,14 +843,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 345204,
-      "num": 230990,
-      "word": "原来经济独立是可以过好年的",
-      "onboard_time": 1738248558,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 345091,
       "num": 285461,
       "word": "韩网评价陈哲远发红包",
@@ -841,14 +857,6 @@
       "onboard_time": 1738229658,
       "rank": 9,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 339124,
-      "num": 230655,
-      "word": "肖战 郭靖",
-      "onboard_time": 1738248079,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 337819,
@@ -971,6 +979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 288838,
+      "num": 230004,
+      "word": "大哪吒帅了不止一点点",
+      "onboard_time": 1738249759,
+      "rank": 30,
+      "category": "电影,作品衍生"
+    },
+    {
       "raw_hot": 286993,
       "num": 238664,
       "word": "杭州断桥挤爆了啊但来都来了",
@@ -1033,14 +1049,6 @@
       "onboard_time": 1738232177,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 261348,
-      "num": 261348,
-      "word": "男孩井盖点鞭炮汽车被炸翻",
-      "onboard_time": 1738246760,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 260300,
@@ -1145,14 +1153,6 @@
       "onboard_time": 1738161561,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 230004,
-      "num": 230004,
-      "word": "大哪吒帅了不止一点点",
-      "onboard_time": 1738249759,
-      "rank": 30,
-      "category": "电影,作品衍生"
     },
     {
       "raw_hot": 227826,
@@ -1331,6 +1331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199864,
+      "num": 234082,
+      "word": "陈凯歌一家四口拜妈祖",
+      "onboard_time": 1738245978,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199213,
       "num": 158158,
       "word": "射雕",
@@ -1483,6 +1491,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 185015,
+      "num": 185015,
+      "word": "敖丙他爸出场 哇声一片",
+      "onboard_time": 1738251139,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 183557,
       "num": 152434,
       "word": "于适说黄景瑜内娱服役太有名了",
@@ -1512,14 +1528,6 @@
       "word": "迪丽热巴 烟花噼里啪啦",
       "onboard_time": 1738161801,
       "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 178940,
-      "num": 234082,
-      "word": "陈凯歌一家四口拜妈祖",
-      "onboard_time": 1738245978,
-      "rank": 41,
       "category": "艺人"
     },
     {
@@ -1585,6 +1593,14 @@
       "onboard_time": 1738218556,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168729,
+      "num": 168729,
+      "word": "刘谦 真的不是我干的",
+      "onboard_time": 1738251018,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 168482,
@@ -1828,7 +1844,7 @@
     },
     {
       "raw_hot": 147201,
-      "num": 110201,
+      "num": 111362,
       "word": "唐朝公主夫妻吵架不用夜叩宫门",
       "onboard_time": 1738248138,
       "rank": 42,
@@ -2027,12 +2043,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 131666,
+      "num": 280603,
+      "word": "曾舜晞给粉丝发了3w红包",
+      "onboard_time": 1738246638,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131158,
       "num": 131158,
       "word": "哪吒2彩蛋",
       "onboard_time": 1738235119,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 130602,
+      "num": 170149,
+      "word": "麻辣王子家过年被小朋友挤爆",
+      "onboard_time": 1738250536,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128987,
@@ -2155,14 +2187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122020,
-      "num": 280603,
-      "word": "曾舜晞给粉丝发了3w红包",
-      "onboard_time": 1738246638,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 121186,
       "num": 121186,
       "word": "梁文锋知乎发文网友说AI写的",
@@ -2209,6 +2233,14 @@
       "onboard_time": 1738214115,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118456,
+      "num": 112555,
+      "word": "王俊凯你快回我呀",
+      "onboard_time": 1738251257,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 117491,
@@ -2451,6 +2483,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 101462,
+      "num": 101462,
+      "word": "当我竟然在12点前睡觉",
+      "onboard_time": 1738248138,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 99986,
+      "num": 99986,
+      "word": "五福临门12",
+      "onboard_time": 1738251438,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99952,
       "num": 188562,
       "word": "王楚钦王曼昱参加抽签仪式",
@@ -2691,14 +2739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 79157,
-      "num": 109472,
-      "word": "麻辣王子家过年被小朋友挤爆",
-      "onboard_time": 1738250536,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77620,
       "num": 57285,
       "word": "唐探彩蛋",
@@ -2835,6 +2875,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 59649,
+      "num": 259355,
+      "word": "一县城影院推无座票需自带板凳观影",
+      "onboard_time": 1738250958,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58338,
       "num": 110271,
       "word": "全红婵全副武装和家人逛吃",
@@ -2923,6 +2971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 44146,
+      "num": 849428,
+      "word": "文化中国行非遗贺新春",
+      "onboard_time": 1738247660,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44053,
       "num": 89383,
       "word": "王曼昱 祝大家新年快乐",
@@ -2961,14 +3017,6 @@
       "onboard_time": 1738242139,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 39406,
-      "num": 849428,
-      "word": "文化中国行非遗贺新春",
-      "onboard_time": 1738247660,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 38533,
@@ -3041,6 +3089,14 @@
       "onboard_time": 1738150940,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 32176,
+      "num": 191037,
+      "word": "神农架地标神农坛穿上粉红新装",
+      "onboard_time": 1738250536,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30889,
@@ -3161,14 +3217,6 @@
       "onboard_time": 1738178351,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 19640,
-      "num": 191037,
-      "word": "神农架地标神农坛穿上粉红新装",
-      "onboard_time": 1738250536,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19048,
