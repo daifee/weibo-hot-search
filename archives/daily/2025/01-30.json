@@ -1,6 +1,6 @@
 {
   "startTime": 1738168091636,
-  "endTime": 1738244265954,
+  "endTime": 1738246867519,
   "band_list": [
     {
       "raw_hot": 2432743,
@@ -259,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 833425,
+      "num": 833425,
+      "word": "第一批外地女婿已经到娘家了",
+      "onboard_time": 1738243159,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 833012,
       "num": 334912,
       "word": "赵丽颖新年第一条微博",
@@ -411,6 +419,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 582243,
+      "num": 582243,
+      "word": "刘昊然好帅",
+      "onboard_time": 1738241478,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 574632,
       "num": 406080,
       "word": "小谢说被赵露思的积极乐观感染",
@@ -425,6 +441,14 @@
       "onboard_time": 1738228818,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 563559,
+      "num": 315175,
+      "word": "美国撞机可能无人生还",
+      "onboard_time": 1738242620,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 552596,
@@ -481,14 +505,6 @@
       "onboard_time": 1738238119,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 461852,
-      "num": 317236,
-      "word": "刘昊然好帅",
-      "onboard_time": 1738241478,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 458157,
@@ -569,6 +585,14 @@
       "onboard_time": 1738211056,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 435385,
+      "num": 280404,
+      "word": "唐探上座率",
+      "onboard_time": 1738243818,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 431625,
@@ -827,6 +851,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 317459,
+      "num": 175520,
+      "word": "欧阳锋 险胜",
+      "onboard_time": 1738243759,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 313644,
       "num": 240427,
       "word": "封神 北海到底有谁在啊",
@@ -907,20 +939,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 275702,
+      "num": 275702,
+      "word": "汕头烟花",
+      "onboard_time": 1738241297,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 265551,
       "num": 110628,
       "word": "云南一美人鱼表演者突遭鲟鱼咬头",
       "onboard_time": 1738160660,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 265370,
-      "num": 315175,
-      "word": "美国撞机可能无人生还",
-      "onboard_time": 1738242620,
-      "rank": 18,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 263103,
@@ -1011,12 +1043,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 242795,
+      "num": 316710,
+      "word": "美军用飞机频繁穿越民航航线酿大祸",
+      "onboard_time": 1738243099,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 240868,
       "num": 195204,
       "word": "易烊千玺谈作为演员的蜕变",
       "onboard_time": 1738161561,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 239833,
+      "num": 279318,
+      "word": "周润发称拍唐探1900是圆梦",
+      "onboard_time": 1738245619,
+      "rank": 14,
+      "category": "电影,艺人"
     },
     {
       "raw_hot": 236253,
@@ -1043,14 +1091,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 225828,
-      "num": 225828,
-      "word": "第一批外地女婿已经到娘家了",
-      "onboard_time": 1738243159,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 224462,
       "num": 278972,
       "word": "曾舜晞说24年没有达到预期",
@@ -1067,12 +1107,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 222415,
-      "num": 222415,
-      "word": "唐探上座率",
-      "onboard_time": 1738243818,
-      "rank": 28,
-      "category": "电影"
+      "raw_hot": 224041,
+      "num": 171314,
+      "word": "叶澜依再现甄嬛传名场面",
+      "onboard_time": 1738244660,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 222403,
@@ -1187,6 +1227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 204142,
+      "num": 151732,
+      "word": "李昀锐演的肖涵又争又抢",
+      "onboard_time": 1738245259,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203507,
       "num": 203507,
       "word": "中国人的衣服花纹简直是宝藏",
@@ -1241,6 +1289,14 @@
       "onboard_time": 1738217598,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 195989,
+      "num": 133505,
+      "word": "说好一起当骗子你却变了心",
+      "onboard_time": 1738245978,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 195628,
@@ -1379,12 +1435,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 177760,
-      "num": 177760,
-      "word": "汕头烟花",
-      "onboard_time": 1738241297,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 178940,
+      "num": 131417,
+      "word": "陈凯歌一家四口拜妈祖",
+      "onboard_time": 1738245978,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 176791,
+      "num": 130420,
+      "word": "唐探1900",
+      "onboard_time": 1738245859,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 176139,
@@ -1392,14 +1456,6 @@
       "word": "肖战感谢黄晓明",
       "onboard_time": 1738218018,
       "rank": 41,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 175520,
-      "num": 175520,
-      "word": "欧阳锋 险胜",
-      "onboard_time": 1738243759,
-      "rank": 36,
       "category": "电影"
     },
     {
@@ -1627,12 +1683,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151120,
+      "num": 218760,
+      "word": "一县城影院推无座票售价与有座相同",
+      "onboard_time": 1738243759,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150788,
       "num": 150788,
       "word": "武侠学者评徐克版射雕",
       "onboard_time": 1738244179,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 150684,
+      "num": 150684,
+      "word": "女子初二回娘家返程塞满300斤特产",
+      "onboard_time": 1738243278,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150662,
@@ -1739,14 +1811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 139961,
-      "num": 139961,
-      "word": "女子初二回娘家返程塞满300斤特产",
-      "onboard_time": 1738243278,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 139262,
       "num": 139262,
       "word": "制片人谈哪吒2为何打动观众",
@@ -1843,6 +1907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 133934,
+      "num": 133934,
+      "word": "巳巳如意中国年",
+      "onboard_time": 1738236018,
+      "rank": 48,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 133445,
       "num": 123108,
       "word": "韦雪带男友回老家过年",
@@ -1865,14 +1937,6 @@
       "onboard_time": 1738235119,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 130787,
-      "num": 316710,
-      "word": "美军用飞机频繁穿越民航航线酿大祸",
-      "onboard_time": 1738243099,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 128987,
@@ -1985,6 +2049,14 @@
       "onboard_time": 1738219218,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121398,
+      "num": 121398,
+      "word": "第一次见人仗狗势的",
+      "onboard_time": 1738245799,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 121186,
@@ -2227,6 +2299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106157,
+      "num": 106157,
+      "word": "美花滑运动员因狗逃过致命航班",
+      "onboard_time": 1738246459,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 105129,
       "num": 105129,
       "word": "谁家cp名叫狗富贵啊",
@@ -2401,14 +2481,6 @@
       "onboard_time": 1738215797,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 87329,
-      "num": 128238,
-      "word": "巳巳如意中国年",
-      "onboard_time": 1738236018,
-      "rank": 48,
-      "category": "正能量"
     },
     {
       "raw_hot": 86882,
@@ -2643,14 +2715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 57646,
-      "num": 218760,
-      "word": "一县城影院推无座票售价与有座相同",
-      "onboard_time": 1738243759,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 54594,
       "num": 114543,
       "word": "初二看电影逛商圈成新年俗",
@@ -2715,12 +2779,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 47059,
+      "num": 150825,
+      "word": "哪吒2四龙出海",
+      "onboard_time": 1738241118,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 44053,
       "num": 89383,
       "word": "王曼昱 祝大家新年快乐",
       "onboard_time": 1738159280,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 43375,
+      "num": 287452,
+      "word": "原来过年的年有这么美好的寓意",
+      "onboard_time": 1738245619,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41471,
@@ -2787,6 +2867,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35592,
+      "num": 127624,
+      "word": "奥运冠军足迹路新增樊振东足印",
+      "onboard_time": 1738239859,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 35318,
+      "num": 170389,
+      "word": "曾舜晞给粉丝发了3w红包",
+      "onboard_time": 1738246638,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35117,
       "num": 35117,
       "word": "人民网评封神第二部",
@@ -2820,7 +2916,7 @@
     },
     {
       "raw_hot": 30889,
-      "num": 160268,
+      "num": 171687,
       "word": "黄金白银集体拉涨",
       "onboard_time": 1738238358,
       "rank": 42,
@@ -3060,6 +3156,9 @@
     },
     {
       "word": "#让大家笑容更多心里更暖#"
+    },
+    {
+      "word": "#团圆年#"
     }
   ]
 }
