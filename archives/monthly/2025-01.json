@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738257569116,
+  "endTime": 1738258636057,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -33291,6 +33291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246689,
+      "num": 139875,
+      "word": "2025春节档首部10亿电影诞生",
+      "onboard_time": 1738253537,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 246619,
       "num": 246619,
       "word": "韩安冉再回应前夫破产",
@@ -37409,14 +37417,6 @@
       "onboard_time": 1737852797,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 216802,
-      "num": 139875,
-      "word": "2025春节档首部10亿电影诞生",
-      "onboard_time": 1738253537,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 216719,
@@ -77779,6 +77779,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 93077,
+      "num": 93077,
+      "word": "ChinaDaily发了虞书欣拜年视频",
+      "onboard_time": 1738255937,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93065,
       "num": 93065,
       "word": "NSA控制我国上万网络设备窃取数据",
@@ -78009,14 +78017,6 @@
       "onboard_time": 1735671914,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 91913,
-      "num": 91913,
-      "word": "ChinaDaily发了虞书欣拜年视频",
-      "onboard_time": 1738255937,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 91903,
@@ -82635,6 +82635,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 67865,
+      "num": 67865,
+      "word": "外媒称失事客机上至少14名运动员",
+      "onboard_time": 1738255156,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 67828,
       "num": 67828,
       "word": "黄友政vs张本智和",
@@ -82857,14 +82865,6 @@
       "onboard_time": 1736938639,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 66677,
-      "num": 66677,
-      "word": "外媒称失事客机上至少14名运动员",
-      "onboard_time": 1738255156,
-      "rank": 37,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 66614,
@@ -85315,6 +85315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 53544,
+      "num": 64153,
+      "word": "美国1995年以来发生过7次重大空难",
+      "onboard_time": 1738255815,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 53529,
       "num": 376580,
       "word": "北京春运首趟列车凌晨启程",
@@ -85649,14 +85657,6 @@
       "onboard_time": 1736932638,
       "rank": 41,
       "category": "教育"
-    },
-    {
-      "raw_hot": 52022,
-      "num": 64153,
-      "word": "美国1995年以来发生过7次重大空难",
-      "onboard_time": 1738255815,
-      "rank": 44,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 52004,
@@ -87547,6 +87547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43072,
+      "num": 127606,
+      "word": "刘谦跟机器人握手时遇碰瓷",
+      "onboard_time": 1738256715,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 43027,
       "num": 745946,
       "word": "春联文化知识点",
@@ -88913,6 +88921,14 @@
       "onboard_time": 1736171543,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 37297,
+      "num": 51822,
+      "word": "珍贵的好友就要多多见面",
+      "onboard_time": 1738256894,
+      "rank": 48,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 37239,
@@ -94859,6 +94875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 15426,
+      "num": 66726,
+      "word": "易烊千玺曾长时间处于刘春和状态",
+      "onboard_time": 1738258513,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 15416,
       "num": 61664,
       "word": "杨紫李现谈二搭感受",
@@ -95081,14 +95105,6 @@
       "onboard_time": 1737949096,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 14647,
-      "num": 127606,
-      "word": "刘谦跟机器人握手时遇碰瓷",
-      "onboard_time": 1738256715,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 14627,

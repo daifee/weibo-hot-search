@@ -1,6 +1,6 @@
 {
   "startTime": 1738254491138,
-  "endTime": 1738257569116,
+  "endTime": 1738258636057,
   "band_list": [
     {
       "raw_hot": 1427134,
@@ -131,6 +131,14 @@
       "category": "电影,作品衍生"
     },
     {
+      "raw_hot": 246689,
+      "num": 139875,
+      "word": "2025春节档首部10亿电影诞生",
+      "onboard_time": 1738253537,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 238225,
       "num": 181188,
       "word": "梁家辉在春晚后台哭了3次",
@@ -153,14 +161,6 @@
       "onboard_time": 1738236138,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 216802,
-      "num": 139875,
-      "word": "2025春节档首部10亿电影诞生",
-      "onboard_time": 1738253537,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 212049,
@@ -307,6 +307,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 93077,
+      "num": 93077,
+      "word": "ChinaDaily发了虞书欣拜年视频",
+      "onboard_time": 1738255937,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92246,
       "num": 92246,
       "word": "DeepSeek仍是APP商店榜首",
@@ -321,14 +329,6 @@
       "onboard_time": 1738229658,
       "rank": 38,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 91913,
-      "num": 91913,
-      "word": "ChinaDaily发了虞书欣拜年视频",
-      "onboard_time": 1738255937,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 91505,
@@ -379,7 +379,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 74983,
+      "raw_hot": 78763,
       "num": 124208,
       "word": "当我竟然在12点前睡觉",
       "onboard_time": 1738248138,
@@ -395,8 +395,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 66677,
-      "num": 66677,
+      "raw_hot": 67865,
+      "num": 67865,
       "word": "外媒称失事客机上至少14名运动员",
       "onboard_time": 1738255156,
       "rank": 37,
@@ -427,12 +427,36 @@
       "category": "情感"
     },
     {
-      "raw_hot": 52022,
+      "raw_hot": 53544,
       "num": 64153,
       "word": "美国1995年以来发生过7次重大空难",
       "onboard_time": 1738255815,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 47635,
+      "num": 51910,
+      "word": "福气码",
+      "onboard_time": 1738258274,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 45663,
+      "num": 51894,
+      "word": "丁禹兮看自己春晚挑眉害羞了",
+      "onboard_time": 1738234459,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 43072,
+      "num": 127606,
+      "word": "刘谦跟机器人握手时遇碰瓷",
+      "onboard_time": 1738256715,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 42348,
@@ -443,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37297,
+      "num": 51822,
+      "word": "珍贵的好友就要多多见面",
+      "onboard_time": 1738256894,
+      "rank": 48,
+      "category": "情感,民生新闻"
+    },
+    {
       "raw_hot": 34207,
       "num": 787274,
       "word": "文化中国行非遗贺新春",
@@ -451,12 +483,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14647,
-      "num": 127606,
-      "word": "刘谦跟机器人握手时遇碰瓷",
-      "onboard_time": 1738256715,
-      "rank": 9,
-      "category": "综艺"
+      "raw_hot": 15426,
+      "num": 66726,
+      "word": "易烊千玺曾长时间处于刘春和状态",
+      "onboard_time": 1738258513,
+      "rank": 34,
+      "category": "电影"
     }
   ],
   "hotgov_list": [

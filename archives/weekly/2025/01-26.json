@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738257569116,
+  "endTime": 1738258636057,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -5563,6 +5563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246689,
+      "num": 139875,
+      "word": "2025春节档首部10亿电影诞生",
+      "onboard_time": 1738253537,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 246533,
       "num": 246533,
       "word": "广州烟花",
@@ -6225,14 +6233,6 @@
       "onboard_time": 1737852797,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 216802,
-      "num": 139875,
-      "word": "2025春节档首部10亿电影诞生",
-      "onboard_time": 1738253537,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 216719,
@@ -12467,6 +12467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93077,
+      "num": 93077,
+      "word": "ChinaDaily发了虞书欣拜年视频",
+      "onboard_time": 1738255937,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93022,
       "num": 93022,
       "word": "当城里猫遇到村里猫",
@@ -12545,14 +12553,6 @@
       "onboard_time": 1738022474,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 91913,
-      "num": 91913,
-      "word": "ChinaDaily发了虞书欣拜年视频",
-      "onboard_time": 1738255937,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 91699,
@@ -13691,6 +13691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 67865,
+      "num": 67865,
+      "word": "外媒称失事客机上至少14名运动员",
+      "onboard_time": 1738255156,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 67693,
       "num": 376284,
       "word": "2025春节假期天气地图",
@@ -13737,14 +13745,6 @@
       "onboard_time": 1737882319,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 66677,
-      "num": 66677,
-      "word": "外媒称失事客机上至少14名运动员",
-      "onboard_time": 1738255156,
-      "rank": 37,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 66548,
@@ -14195,6 +14195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53544,
+      "num": 64153,
+      "word": "美国1995年以来发生过7次重大空难",
+      "onboard_time": 1738255815,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 53319,
       "num": 53319,
       "word": "蛇年大吉",
@@ -14273,14 +14281,6 @@
       "onboard_time": 1737909915,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 52022,
-      "num": 64153,
-      "word": "美国1995年以来发生过7次重大空难",
-      "onboard_time": 1738255815,
-      "rank": 44,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 52004,
@@ -14393,6 +14393,14 @@
       "onboard_time": 1738175112,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 47635,
+      "num": 51910,
+      "word": "福气码",
+      "onboard_time": 1738258274,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 47321,
@@ -14513,6 +14521,14 @@
       "onboard_time": 1737882440,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 43072,
+      "num": 127606,
+      "word": "刘谦跟机器人握手时遇碰瓷",
+      "onboard_time": 1738256715,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 43027,
@@ -14777,6 +14793,14 @@
       "onboard_time": 1737961516,
       "rank": 14,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 37297,
+      "num": 51822,
+      "word": "珍贵的好友就要多多见面",
+      "onboard_time": 1738256894,
+      "rank": 48,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 37128,
@@ -15739,6 +15763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 15426,
+      "num": 66726,
+      "word": "易烊千玺曾长时间处于刘春和状态",
+      "onboard_time": 1738258513,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 15245,
       "num": 182471,
       "word": "陈梦祝大家新春快乐",
@@ -15785,14 +15817,6 @@
       "onboard_time": 1737949096,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 14647,
-      "num": 127606,
-      "word": "刘谦跟机器人握手时遇碰瓷",
-      "onboard_time": 1738256715,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 14352,
