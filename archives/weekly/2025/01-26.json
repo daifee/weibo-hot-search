@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738265741341,
+  "endTime": 1738268624543,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -14291,6 +14291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 52249,
+      "num": 52249,
+      "word": "当留学生瞒着家人突然回家过年",
+      "onboard_time": 1738262292,
+      "rank": 48,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 52004,
       "num": 103067,
       "word": "英歌为什么要与蛇共舞",
@@ -14540,7 +14548,7 @@
     },
     {
       "raw_hot": 43061,
-      "num": 36679,
+      "num": 39727,
       "word": "赵露思新发色好美",
       "onboard_time": 1738263251,
       "rank": 23,
@@ -15201,14 +15209,6 @@
       "onboard_time": 1738175411,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 26960,
-      "num": 30361,
-      "word": "当留学生瞒着家人突然回家过年",
-      "onboard_time": 1738262292,
-      "rank": 48,
-      "category": "正能量"
     },
     {
       "raw_hot": 26957,
@@ -15875,12 +15875,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 14150,
+      "num": 14150,
+      "word": "为何美国两日坠三机",
+      "onboard_time": 1738267092,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 13746,
       "num": 14682,
       "word": "王一博用攀登比喻进步",
       "onboard_time": 1738188071,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13659,
+      "num": 13659,
+      "word": "美国撞机事故目击者发声",
+      "onboard_time": 1738268531,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 13070,

@@ -1,6 +1,6 @@
 {
   "startTime": 1738254491138,
-  "endTime": 1738265741341,
+  "endTime": 1738268624543,
   "band_list": [
     {
       "raw_hot": 1427134,
@@ -443,6 +443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 52249,
+      "num": 52249,
+      "word": "当留学生瞒着家人突然回家过年",
+      "onboard_time": 1738262292,
+      "rank": 48,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 47635,
       "num": 51910,
       "word": "福气码",
@@ -468,7 +476,7 @@
     },
     {
       "raw_hot": 43061,
-      "num": 36679,
+      "num": 39727,
       "word": "赵露思新发色好美",
       "onboard_time": 1738263251,
       "rank": 23,
@@ -507,14 +515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 26960,
-      "num": 30361,
-      "word": "当留学生瞒着家人突然回家过年",
-      "onboard_time": 1738262292,
-      "rank": 48,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 25955,
       "num": 31022,
       "word": "美花滑运动员因狗逃过致命航班",
@@ -545,6 +545,30 @@
       "onboard_time": 1738258513,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 14150,
+      "num": 14150,
+      "word": "为何美国两日坠三机",
+      "onboard_time": 1738267092,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 13659,
+      "num": 13659,
+      "word": "美国撞机事故目击者发声",
+      "onboard_time": 1738268531,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 12761,
+      "num": 41105,
+      "word": "文脉华章",
+      "onboard_time": 1738267212,
+      "rank": 14,
+      "category": "正能量"
     },
     {
       "raw_hot": 5108,
