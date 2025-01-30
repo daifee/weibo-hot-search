@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738225631688,
+  "endTime": 1738226394579,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -996,7 +996,7 @@
     },
     {
       "raw_hot": 1008811,
-      "num": 329988,
+      "num": 405432,
       "word": "偶遇沈腾一家三口海南过年",
       "onboard_time": 1738214897,
       "rank": 20,
@@ -1113,6 +1113,14 @@
       "onboard_time": 1737906497,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 950631,
+      "num": 950631,
+      "word": "DeepSeek算命",
+      "onboard_time": 1738223898,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 948328,
@@ -1299,6 +1307,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 865177,
+      "num": 865177,
+      "word": "压岁钱和红包其实不是一回事",
+      "onboard_time": 1738220958,
+      "rank": 44,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 864606,
       "num": 864606,
       "word": "Angelababy的红包",
@@ -1353,14 +1369,6 @@
       "onboard_time": 1738199537,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 849201,
-      "num": 849201,
-      "word": "压岁钱和红包其实不是一回事",
-      "onboard_time": 1738220958,
-      "rank": 44,
-      "category": "正能量"
     },
     {
       "raw_hot": 845565,
@@ -1796,7 +1804,7 @@
     },
     {
       "raw_hot": 684813,
-      "num": 370486,
+      "num": 612500,
       "word": "李雪琴首次回应春晚没打开春联",
       "onboard_time": 1738223056,
       "rank": 6,
@@ -2100,7 +2108,7 @@
     },
     {
       "raw_hot": 597163,
-      "num": 476304,
+      "num": 629981,
       "word": "美国撞机已致18人遇难",
       "onboard_time": 1738214178,
       "rank": 9,
@@ -2481,6 +2489,14 @@
       "onboard_time": 1738028716,
       "rank": 9,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 527831,
+      "num": 406080,
+      "word": "小谢说被赵露思的积极乐观感染",
+      "onboard_time": 1738221857,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 526677,
@@ -3083,14 +3099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 438434,
-      "num": 348541,
-      "word": "小谢说被赵露思的积极乐观感染",
-      "onboard_time": 1738221857,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 437599,
       "num": 435509,
       "word": "日本乒坛名将赌博被捕",
@@ -3249,6 +3257,14 @@
       "onboard_time": 1738075178,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 415736,
+      "num": 415736,
+      "word": "健康的甲状腺其实是摸不到的",
+      "onboard_time": 1738222876,
+      "rank": 4,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 415045,
@@ -3513,14 +3529,6 @@
       "onboard_time": 1737984197,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 384901,
-      "num": 384901,
-      "word": "健康的甲状腺其实是摸不到的",
-      "onboard_time": 1738222876,
-      "rank": 4,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 384260,
@@ -4033,14 +4041,6 @@
       "onboard_time": 1738047739,
       "rank": 35,
       "category": "美食"
-    },
-    {
-      "raw_hot": 330700,
-      "num": 330700,
-      "word": "DeepSeek算命",
-      "onboard_time": 1738223898,
-      "rank": 9,
-      "category": "互联网"
     },
     {
       "raw_hot": 330126,
@@ -4995,6 +4995,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 252986,
+      "num": 220552,
+      "word": "哪吒10秒穿心咒做了一年",
+      "onboard_time": 1738224378,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 252889,
       "num": 252889,
       "word": "异人之下2豆瓣8.2",
@@ -5601,14 +5609,6 @@
       "onboard_time": 1737816262,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 220552,
-      "num": 220552,
-      "word": "哪吒10秒穿心咒做了一年",
-      "onboard_time": 1738224378,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 220173,
@@ -7091,6 +7091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180137,
+      "num": 180137,
+      "word": "2025年非遗晚会",
+      "onboard_time": 1738225818,
+      "rank": 20,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 179795,
       "num": 652863,
       "word": "DeepSeek暂时限制部分注册",
@@ -7315,6 +7323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174388,
+      "num": 174388,
+      "word": "华筝意难平",
+      "onboard_time": 1738222637,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 174047,
       "num": 1330180,
       "word": "过年聚会别一不小心透露工作秘密",
@@ -7473,14 +7489,6 @@
       "onboard_time": 1737952756,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 170393,
-      "num": 170393,
-      "word": "华筝意难平",
-      "onboard_time": 1738222637,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 170294,
@@ -8233,6 +8241,14 @@
       "onboard_time": 1738217478,
       "rank": 23,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 152854,
+      "num": 152854,
+      "word": "嘘国王在冬眠",
+      "onboard_time": 1738223958,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 152778,
@@ -9147,14 +9163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135320,
-      "num": 100844,
-      "word": "嘘国王在冬眠",
-      "onboard_time": 1738223958,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 134951,
       "num": 134951,
       "word": "杨紫李现秒变吃瓜群众",
@@ -9435,6 +9443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128821,
+      "num": 109124,
+      "word": "没一个人的表情是不好笑的",
+      "onboard_time": 1738226117,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128813,
       "num": 128813,
       "word": "李宇春第一次上春晚已是十年前",
@@ -9649,6 +9665,14 @@
       "onboard_time": 1737846193,
       "rank": 23,
       "category": "剧集,民生新闻"
+    },
+    {
+      "raw_hot": 125264,
+      "num": 181536,
+      "word": "唐探1900彩蛋里6个细节",
+      "onboard_time": 1738225757,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 125187,
@@ -10332,7 +10356,7 @@
     },
     {
       "raw_hot": 112237,
-      "num": 99520,
+      "num": 112079,
       "word": "特朗普称华盛顿空难本应避免",
       "onboard_time": 1738223537,
       "rank": 38,
@@ -10521,6 +10545,14 @@
       "onboard_time": 1737981858,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109631,
+      "num": 220747,
+      "word": "王曼昱登WTT新加坡大满贯海报",
+      "onboard_time": 1738224796,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 109289,
@@ -11243,6 +11275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 97101,
+      "num": 265991,
+      "word": "今天我们为什么还要走亲戚",
+      "onboard_time": 1738224438,
+      "rank": 14,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 96982,
       "num": 96982,
       "word": "8岁失踪女童亲友发声",
@@ -11563,12 +11603,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 91314,
-      "num": 220747,
-      "word": "王曼昱登WTT新加坡大满贯海报",
-      "onboard_time": 1738224796,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 91377,
+      "num": 91377,
+      "word": "中国三艘航空母舰同框大合唱",
+      "onboard_time": 1738225397,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 91256,
@@ -11723,6 +11763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87725,
+      "num": 87725,
+      "word": "小猫咪也会打瞌睡",
+      "onboard_time": 1738223778,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 87623,
       "num": 87623,
       "word": "DeepSeek团队不到140人",
@@ -11753,6 +11801,14 @@
       "onboard_time": 1737970577,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 86984,
+      "num": 144284,
+      "word": "俄花滑世界冠军在美坠河客机上",
+      "onboard_time": 1738226117,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 86882,
@@ -11889,14 +11945,6 @@
       "onboard_time": 1737819440,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 84916,
-      "num": 84916,
-      "word": "小猫咪也会打瞌睡",
-      "onboard_time": 1738223778,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 84861,
@@ -12123,14 +12171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 80701,
-      "num": 80701,
-      "word": "中国三艘航空母舰同框大合唱",
-      "onboard_time": 1738225397,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 80693,
       "num": 139952,
       "word": "返乡客入住县城酒店不代表感情淡了",
@@ -12177,14 +12217,6 @@
       "onboard_time": 1737950537,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 80034,
-      "num": 237267,
-      "word": "今天我们为什么还要走亲戚",
-      "onboard_time": 1738224438,
-      "rank": 14,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 79755,
@@ -12257,6 +12289,14 @@
       "onboard_time": 1737883998,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77909,
+      "num": 84821,
+      "word": "美国客机坠河已有4人被救出",
+      "onboard_time": 1738225998,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 77834,
@@ -12417,6 +12457,14 @@
       "onboard_time": 1737975677,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 74243,
+      "num": 225422,
+      "word": "哪吒角色设计师谈哪吒的美与丑",
+      "onboard_time": 1738224856,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 73445,
@@ -13651,6 +13699,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 37128,
+      "num": 139245,
+      "word": "孙颖莎新春祝大家吉祥如意",
+      "onboard_time": 1738226237,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37122,
       "num": 218181,
       "word": "蒋璐霞蛟龙行动里的每一秒都值得",
@@ -14425,14 +14481,6 @@
       "onboard_time": 1737905361,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19568,
-      "num": 225422,
-      "word": "哪吒角色设计师谈哪吒的美与丑",
-      "onboard_time": 1738224856,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 19451,

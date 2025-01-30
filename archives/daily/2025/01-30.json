@@ -1,6 +1,6 @@
 {
   "startTime": 1738168091636,
-  "endTime": 1738225631688,
+  "endTime": 1738226394579,
   "band_list": [
     {
       "raw_hot": 2432743,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1008811,
-      "num": 329988,
+      "num": 405432,
       "word": "偶遇沈腾一家三口海南过年",
       "onboard_time": 1738214897,
       "rank": 20,
@@ -81,6 +81,14 @@
       "onboard_time": 1738217177,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 950631,
+      "num": 950631,
+      "word": "DeepSeek算命",
+      "onboard_time": 1738223898,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 947076,
@@ -123,20 +131,20 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 865177,
+      "num": 865177,
+      "word": "压岁钱和红包其实不是一回事",
+      "onboard_time": 1738220958,
+      "rank": 44,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 850835,
       "num": 850835,
       "word": "马思纯接春晚邀约经纪人差点喜极而泣",
       "onboard_time": 1738199537,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 849201,
-      "num": 849201,
-      "word": "压岁钱和红包其实不是一回事",
-      "onboard_time": 1738220958,
-      "rank": 44,
-      "category": "正能量"
     },
     {
       "raw_hot": 844646,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 684813,
-      "num": 370486,
+      "num": 612500,
       "word": "李雪琴首次回应春晚没打开春联",
       "onboard_time": 1738223056,
       "rank": 6,
@@ -244,15 +252,15 @@
     },
     {
       "raw_hot": 597163,
-      "num": 476304,
+      "num": 629981,
       "word": "美国撞机已致18人遇难",
       "onboard_time": 1738214178,
       "rank": 9,
       "category": "国际时政"
     },
     {
-      "raw_hot": 557765,
-      "num": 324111,
+      "raw_hot": 571522,
+      "num": 571522,
       "word": "藕饼",
       "onboard_time": 1738221257,
       "rank": 31,
@@ -265,6 +273,14 @@
       "onboard_time": 1738204156,
       "rank": 3,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 527831,
+      "num": 406080,
+      "word": "小谢说被赵露思的积极乐观感染",
+      "onboard_time": 1738221857,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 496815,
@@ -313,14 +329,6 @@
       "onboard_time": 1738201337,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 438434,
-      "num": 348541,
-      "word": "小谢说被赵露思的积极乐观感染",
-      "onboard_time": 1738221857,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 437599,
@@ -387,6 +395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 415736,
+      "num": 415736,
+      "word": "健康的甲状腺其实是摸不到的",
+      "onboard_time": 1738222876,
+      "rank": 4,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 408567,
       "num": 217003,
       "word": "射雕 男女主手拉手挡大军",
@@ -409,14 +425,6 @@
       "onboard_time": 1738196477,
       "rank": 5,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 384901,
-      "num": 384901,
-      "word": "健康的甲状腺其实是摸不到的",
-      "onboard_time": 1738222876,
-      "rank": 4,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 384121,
@@ -523,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 341726,
+      "num": 341726,
+      "word": "哪吒",
+      "onboard_time": 1738206558,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 337819,
       "num": 349318,
       "word": "台湾嘉义县5.2级地震",
@@ -536,22 +552,6 @@
       "word": "封神第二部让我学会延迟满足",
       "onboard_time": 1738209678,
       "rank": 22,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 330700,
-      "num": 330700,
-      "word": "DeepSeek算命",
-      "onboard_time": 1738223898,
-      "rank": 9,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 328162,
-      "num": 326923,
-      "word": "哪吒",
-      "onboard_time": 1738206558,
-      "rank": 28,
       "category": "电影"
     },
     {
@@ -683,6 +683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 252986,
+      "num": 220552,
+      "word": "哪吒10秒穿心咒做了一年",
+      "onboard_time": 1738224378,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 252840,
       "num": 292288,
       "word": "大年初二回门日",
@@ -745,14 +753,6 @@
       "onboard_time": 1738209917,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 220552,
-      "num": 220552,
-      "word": "哪吒10秒穿心咒做了一年",
-      "onboard_time": 1738224378,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 215501,
@@ -947,11 +947,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180137,
+      "num": 180137,
+      "word": "2025年非遗晚会",
+      "onboard_time": 1738225818,
+      "rank": 20,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 176139,
       "num": 118145,
       "word": "肖战感谢黄晓明",
       "onboard_time": 1738218018,
       "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 174388,
+      "num": 174388,
+      "word": "华筝意难平",
+      "onboard_time": 1738222637,
+      "rank": 29,
       "category": "电影"
     },
     {
@@ -969,14 +985,6 @@
       "onboard_time": 1738210457,
       "rank": 38,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 170393,
-      "num": 170393,
-      "word": "华筝意难平",
-      "onboard_time": 1738222637,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 169029,
@@ -1081,6 +1089,14 @@
       "onboard_time": 1738217478,
       "rank": 23,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 152854,
+      "num": 152854,
+      "word": "嘘国王在冬眠",
+      "onboard_time": 1738223958,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 152778,
@@ -1267,14 +1283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 135320,
-      "num": 100844,
-      "word": "嘘国王在冬眠",
-      "onboard_time": 1738223958,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 134958,
       "num": 110170,
       "word": "嬷童降世",
@@ -1307,6 +1315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128821,
+      "num": 109124,
+      "word": "没一个人的表情是不好笑的",
+      "onboard_time": 1738226117,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128185,
       "num": 147509,
       "word": "邓婵玉人设",
@@ -1320,6 +1336,14 @@
       "word": "邓婵玉 没有男人配得上",
       "onboard_time": 1738151121,
       "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 125264,
+      "num": 181536,
+      "word": "唐探1900彩蛋里6个细节",
+      "onboard_time": 1738225757,
+      "rank": 18,
       "category": "电影"
     },
     {
@@ -1484,7 +1508,7 @@
     },
     {
       "raw_hot": 112237,
-      "num": 99520,
+      "num": 112079,
       "word": "特朗普称华盛顿空难本应避免",
       "onboard_time": 1738223537,
       "rank": 38,
@@ -1537,6 +1561,14 @@
       "onboard_time": 1738220357,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 109631,
+      "num": 220747,
+      "word": "王曼昱登WTT新加坡大满贯海报",
+      "onboard_time": 1738224796,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 109256,
@@ -1619,6 +1651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 97101,
+      "num": 265991,
+      "word": "今天我们为什么还要走亲戚",
+      "onboard_time": 1738224438,
+      "rank": 14,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 96417,
       "num": 424575,
       "word": "美议员警告别被特朗普离职补贴骗了",
@@ -1643,12 +1683,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 91314,
-      "num": 220747,
-      "word": "王曼昱登WTT新加坡大满贯海报",
-      "onboard_time": 1738224796,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 91377,
+      "num": 91377,
+      "word": "中国三艘航空母舰同框大合唱",
+      "onboard_time": 1738225397,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 91248,
@@ -1691,6 +1731,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87725,
+      "num": 87725,
+      "word": "小猫咪也会打瞌睡",
+      "onboard_time": 1738223778,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 86984,
+      "num": 144284,
+      "word": "俄花滑世界冠军在美坠河客机上",
+      "onboard_time": 1738226117,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 86882,
       "num": 86882,
       "word": "库里当选美国男篮最佳运动员",
@@ -1713,14 +1769,6 @@
       "onboard_time": 1738151899,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 84916,
-      "num": 84916,
-      "word": "小猫咪也会打瞌睡",
-      "onboard_time": 1738223778,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 84560,
@@ -1755,14 +1803,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 80701,
-      "num": 80701,
-      "word": "中国三艘航空母舰同框大合唱",
-      "onboard_time": 1738225397,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 80437,
       "num": 210843,
       "word": "南苏丹一架飞机坠毁18人死亡",
@@ -1779,12 +1819,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 80034,
-      "num": 237267,
-      "word": "今天我们为什么还要走亲戚",
-      "onboard_time": 1738224438,
-      "rank": 14,
-      "category": "议题讨论"
+      "raw_hot": 77909,
+      "num": 84821,
+      "word": "美国客机坠河已有4人被救出",
+      "onboard_time": 1738225998,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 77620,
@@ -1792,6 +1832,14 @@
       "word": "唐探彩蛋",
       "onboard_time": 1738170135,
       "rank": 34,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 74243,
+      "num": 225422,
+      "word": "哪吒角色设计师谈哪吒的美与丑",
+      "onboard_time": 1738224856,
+      "rank": 19,
       "category": "电影"
     },
     {
@@ -1979,6 +2027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37128,
+      "num": 139245,
+      "word": "孙颖莎新春祝大家吉祥如意",
+      "onboard_time": 1738226237,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 35117,
       "num": 35117,
       "word": "人民网评封神第二部",
@@ -2097,14 +2153,6 @@
       "onboard_time": 1738178351,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 19568,
-      "num": 225422,
-      "word": "哪吒角色设计师谈哪吒的美与丑",
-      "onboard_time": 1738224856,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 19048,
