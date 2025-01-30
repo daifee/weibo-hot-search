@@ -1,6 +1,6 @@
 {
   "startTime": 1738168091636,
-  "endTime": 1738228971988,
+  "endTime": 1738229760618,
   "band_list": [
     {
       "raw_hot": 2432743,
@@ -19,6 +19,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1899344,
+      "num": 1899344,
+      "word": "藕饼",
+      "onboard_time": 1738221257,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1662003,
       "num": 1662003,
       "word": "春节档票价过高引吐槽",
@@ -33,14 +41,6 @@
       "onboard_time": 1738207638,
       "rank": 4,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1489101,
-      "num": 1489101,
-      "word": "藕饼",
-      "onboard_time": 1738221257,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 1303817,
@@ -59,12 +59,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1164243,
+      "num": 426912,
+      "word": "射雕口碑",
+      "onboard_time": 1738227257,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1104165,
       "num": 1104165,
       "word": "票房",
       "onboard_time": 1738139658,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1075225,
+      "num": 288436,
+      "word": "不走亲戚",
+      "onboard_time": 1738227016,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 1008811,
@@ -115,14 +131,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 896384,
-      "num": 232209,
-      "word": "射雕口碑",
-      "onboard_time": 1738227257,
-      "rank": 6,
-      "category": "电影"
-    },
-    {
       "raw_hot": 876843,
       "num": 876843,
       "word": "孙千晒与沈腾马丽合照",
@@ -171,6 +179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 833012,
+      "num": 287855,
+      "word": "赵丽颖新年第一条微博",
+      "onboard_time": 1738227317,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 798139,
       "num": 638759,
       "word": "曾黎推着赵露思",
@@ -179,12 +195,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 783480,
-      "num": 194883,
-      "word": "赵丽颖新年第一条微博",
-      "onboard_time": 1738227317,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 776742,
+      "num": 287237,
+      "word": "哪吒目前年度票房第一",
+      "onboard_time": 1738226658,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 747741,
@@ -209,14 +225,6 @@
       "onboard_time": 1738220297,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 699574,
-      "num": 193132,
-      "word": "不走亲戚",
-      "onboard_time": 1738227016,
-      "rank": 11,
-      "category": "幽默"
     },
     {
       "raw_hot": 693272,
@@ -251,6 +259,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 673552,
+      "num": 286700,
+      "word": "俄花滑世界冠军在美坠河客机上",
+      "onboard_time": 1738226117,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 653208,
       "num": 385505,
       "word": "张艺兴说和肖战很投缘",
@@ -265,14 +281,6 @@
       "onboard_time": 1738196715,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 642813,
-      "num": 191851,
-      "word": "俄花滑世界冠军在美坠河客机上",
-      "onboard_time": 1738226117,
-      "rank": 32,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 631119,
@@ -291,20 +299,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 597548,
+      "num": 286184,
+      "word": "肖战演郭靖用一招就看热血了",
+      "onboard_time": 1738227678,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 597163,
       "num": 629981,
       "word": "美国撞机已致18人遇难",
       "onboard_time": 1738214178,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 576907,
-      "num": 188575,
-      "word": "哪吒目前年度票房第一",
-      "onboard_time": 1738226658,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 574632,
@@ -459,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 400642,
+      "num": 341726,
+      "word": "哪吒",
+      "onboard_time": 1738206558,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 395478,
       "num": 395478,
       "word": "南苏丹坠机遇难者中有2名中国公民",
@@ -467,8 +483,16 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 387937,
+      "num": 387937,
+      "word": "DeepSeek",
+      "onboard_time": 1738154000,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 384121,
-      "num": 222489,
+      "num": 261992,
       "word": "大年初二女婿又开始汗流浃背了",
       "onboard_time": 1738220417,
       "rank": 29,
@@ -555,14 +579,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 347211,
-      "num": 181195,
-      "word": "肖战演郭靖用一招就看热血了",
-      "onboard_time": 1738227678,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 346733,
       "num": 282199,
       "word": "美国被撞飞机有60名左右乘客",
@@ -579,14 +595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 342700,
-      "num": 341726,
-      "word": "哪吒",
-      "onboard_time": 1738206558,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 337819,
       "num": 349318,
       "word": "台湾嘉义县5.2级地震",
@@ -601,6 +609,14 @@
       "onboard_time": 1738209678,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 336225,
+      "num": 282901,
+      "word": "美国男子在飞机相撞前收到妻子短信",
+      "onboard_time": 1738228398,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 323992,
@@ -659,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 289476,
+      "num": 289476,
+      "word": "联合国建议日本允许女性继承皇位",
+      "onboard_time": 1738228398,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 284619,
       "num": 284619,
       "word": "吴磊在春晚后台炫饺子",
@@ -715,6 +739,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 259982,
+      "num": 259982,
+      "word": "陈哲远证明是本人单手抱的梁洁",
+      "onboard_time": 1738228818,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258521,
       "num": 185300,
       "word": "于适不语只是一味突突突",
@@ -769,14 +801,6 @@
       "onboard_time": 1738161561,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 238924,
-      "num": 238924,
-      "word": "DeepSeek",
-      "onboard_time": 1738154000,
-      "rank": 23,
-      "category": "互联网"
     },
     {
       "raw_hot": 236253,
@@ -836,7 +860,7 @@
     },
     {
       "raw_hot": 211711,
-      "num": 173673,
+      "num": 181219,
       "word": "易烊千玺自曝曾走不出角色",
       "onboard_time": 1738226717,
       "rank": 34,
@@ -883,14 +907,6 @@
       "category": "国际时政,互联网"
     },
     {
-      "raw_hot": 205381,
-      "num": 205381,
-      "word": "联合国建议日本允许女性继承皇位",
-      "onboard_time": 1738228398,
-      "rank": 7,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 200951,
       "num": 161128,
       "word": "迪丽热巴工作室换了头像背景",
@@ -913,6 +929,14 @@
       "onboard_time": 1738214718,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197800,
+      "num": 197800,
+      "word": "贺峻霖走亲戚要唱自己的歌",
+      "onboard_time": 1738229419,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 196599,
@@ -995,20 +1019,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 187228,
+      "num": 289424,
+      "word": "2025年非遗晚会",
+      "onboard_time": 1738225818,
+      "rank": 20,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 186905,
       "num": 186905,
       "word": "TF家族新年音乐会",
       "onboard_time": 1738221077,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 184028,
-      "num": 184028,
-      "word": "2025年非遗晚会",
-      "onboard_time": 1738225818,
-      "rank": 20,
-      "category": "正能量"
     },
     {
       "raw_hot": 183557,
@@ -1067,8 +1091,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 172358,
-      "num": 172358,
+      "raw_hot": 172757,
+      "num": 172757,
       "word": "蛇年过年快胖成肥蛇了",
       "onboard_time": 1738228398,
       "rank": 36,
@@ -1105,14 +1129,6 @@
       "onboard_time": 1738211117,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 166810,
-      "num": 166810,
-      "word": "美国男子在飞机相撞前收到妻子短信",
-      "onboard_time": 1738228398,
-      "rank": 37,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 165277,
@@ -1177,6 +1193,14 @@
       "onboard_time": 1738205717,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154701,
+      "num": 154701,
+      "word": "射雕票房",
+      "onboard_time": 1738229658,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 153743,
@@ -1289,14 +1313,6 @@
       "onboard_time": 1738207038,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 146997,
-      "num": 146997,
-      "word": "陈哲远证明是本人单手抱的梁洁",
-      "onboard_time": 1738228818,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 146988,
@@ -1579,6 +1595,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 114264,
+      "num": 284072,
+      "word": "元宇宙支付特朗普2500万",
+      "onboard_time": 1738227738,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 113493,
       "num": 113493,
       "word": "四川的蛇在杭州谈恋爱淹了江苏的寺",
@@ -1755,6 +1779,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99029,
+      "num": 284449,
+      "word": "于适说痛苦是姬发成长过程宝贵的财富",
+      "onboard_time": 1738227918,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 98292,
+      "num": 98292,
+      "word": "任天堂禁止非日本信用卡买日服游戏",
+      "onboard_time": 1738229537,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 97911,
       "num": 97911,
       "word": "小猫咪也会打瞌睡",
@@ -1793,6 +1833,14 @@
       "onboard_time": 1738166118,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 96308,
+      "num": 96308,
+      "word": "美坠河客机系庞巴迪喷气式飞机",
+      "onboard_time": 1738229717,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 94581,
@@ -1841,22 +1889,6 @@
       "onboard_time": 1738199596,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 89948,
-      "num": 179205,
-      "word": "元宇宙支付特朗普2500万",
-      "onboard_time": 1738227738,
-      "rank": 26,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 89149,
-      "num": 191612,
-      "word": "于适说痛苦是姬发成长过程宝贵的财富",
-      "onboard_time": 1738227918,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 88199,
@@ -1908,7 +1940,7 @@
     },
     {
       "raw_hot": 82893,
-      "num": 180852,
+      "num": 249141,
       "word": "王曼昱穿运动卫衣出征",
       "onboard_time": 1738227377,
       "rank": 24,
@@ -2003,6 +2035,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 68384,
+      "num": 286260,
+      "word": "美空管员描述飞机相撞瞬间",
+      "onboard_time": 1738228398,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 68016,
       "num": 1021044,
       "word": "英歌舞跳出对新年的美好祝福",
@@ -2016,6 +2056,14 @@
       "word": "哪吒票房",
       "onboard_time": 1738149140,
       "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 65125,
+      "num": 288730,
+      "word": "蛟龙行动让深藏海底的潜艇兵被看见",
+      "onboard_time": 1738228158,
+      "rank": 9,
       "category": "电影"
     },
     {
@@ -2099,11 +2147,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 50941,
-      "num": 196131,
-      "word": "蛟龙行动让深藏海底的潜艇兵被看见",
-      "onboard_time": 1738228158,
-      "rank": 9,
+      "raw_hot": 51473,
+      "num": 262580,
+      "word": "看完哪吒2为中国大片骄傲",
+      "onboard_time": 1738229537,
+      "rank": 26,
       "category": "电影"
     },
     {
@@ -2179,6 +2227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36795,
+      "num": 162314,
+      "word": "国乒集体手写新春祝福",
+      "onboard_time": 1738229717,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 35117,
       "num": 35117,
       "word": "人民网评封神第二部",
@@ -2201,14 +2257,6 @@
       "onboard_time": 1738150940,
       "rank": 48,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 29998,
-      "num": 190029,
-      "word": "美空管员描述飞机相撞瞬间",
-      "onboard_time": 1738228398,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 27965,
