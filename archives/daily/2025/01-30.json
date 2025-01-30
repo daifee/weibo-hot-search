@@ -1,6 +1,6 @@
 {
   "startTime": 1738168091636,
-  "endTime": 1738246867519,
+  "endTime": 1738247831898,
   "band_list": [
     {
       "raw_hot": 2432743,
@@ -507,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 458291,
+      "num": 282879,
+      "word": "唐探上座率",
+      "onboard_time": 1738243818,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 458157,
       "num": 458157,
       "word": "看完唐探1900的我belike",
@@ -585,14 +593,6 @@
       "onboard_time": 1738211056,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 435385,
-      "num": 280404,
-      "word": "唐探上座率",
-      "onboard_time": 1738243818,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 431625,
@@ -819,6 +819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 334384,
+      "num": 284177,
+      "word": "周润发称拍唐探1900是圆梦",
+      "onboard_time": 1738245619,
+      "rank": 14,
+      "category": "电影,艺人"
+    },
+    {
       "raw_hot": 331519,
       "num": 331519,
       "word": "联合国建议日本允许女性继承皇位",
@@ -852,7 +860,7 @@
     },
     {
       "raw_hot": 317459,
-      "num": 175520,
+      "num": 278371,
       "word": "欧阳锋 险胜",
       "onboard_time": 1738243759,
       "rank": 36,
@@ -899,6 +907,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 296847,
+      "num": 316710,
+      "word": "美军用飞机频繁穿越民航航线酿大祸",
+      "onboard_time": 1738243099,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 289149,
+      "num": 289149,
+      "word": "汕头烟花",
+      "onboard_time": 1738241297,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 286993,
       "num": 238664,
       "word": "杭州断桥挤爆了啊但来都来了",
@@ -937,14 +961,6 @@
       "onboard_time": 1738192934,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 275702,
-      "num": 275702,
-      "word": "汕头烟花",
-      "onboard_time": 1738241297,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 265551,
@@ -1043,28 +1059,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 242795,
-      "num": 316710,
-      "word": "美军用飞机频繁穿越民航航线酿大祸",
-      "onboard_time": 1738243099,
-      "rank": 14,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 240868,
       "num": 195204,
       "word": "易烊千玺谈作为演员的蜕变",
       "onboard_time": 1738161561,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 239833,
-      "num": 279318,
-      "word": "周润发称拍唐探1900是圆梦",
-      "onboard_time": 1738245619,
-      "rank": 14,
-      "category": "电影,艺人"
     },
     {
       "raw_hot": 236253,
@@ -1081,6 +1081,14 @@
       "onboard_time": 1738161561,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227826,
+      "num": 227826,
+      "word": "叶澜依再现甄嬛传名场面",
+      "onboard_time": 1738244660,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 227287,
@@ -1107,20 +1115,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 224041,
-      "num": 171314,
-      "word": "叶澜依再现甄嬛传名场面",
-      "onboard_time": 1738244660,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 222403,
       "num": 158125,
       "word": "今年春节含金量最高的小品",
       "onboard_time": 1738209917,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221579,
+      "num": 221579,
+      "word": "李昀锐演的肖涵又争又抢",
+      "onboard_time": 1738245259,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 215645,
@@ -1227,18 +1235,18 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 204142,
-      "num": 151732,
-      "word": "李昀锐演的肖涵又争又抢",
-      "onboard_time": 1738245259,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 203507,
       "num": 203507,
       "word": "中国人的衣服花纹简直是宝藏",
       "onboard_time": 1738230738,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202220,
+      "num": 218760,
+      "word": "一县城影院推无座票售价与有座相同",
+      "onboard_time": 1738243759,
       "rank": 29,
       "category": "民生新闻"
     },
@@ -1531,6 +1539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 166077,
+      "num": 166077,
+      "word": "因为静电小猫和我冷战三天",
+      "onboard_time": 1738247539,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 165277,
       "num": 145789,
       "word": "娜然妲己秒切侠女",
@@ -1683,14 +1699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151120,
-      "num": 218760,
-      "word": "一县城影院推无座票售价与有座相同",
-      "onboard_time": 1738243759,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 150788,
       "num": 150788,
       "word": "武侠学者评徐克版射雕",
@@ -1816,6 +1824,14 @@
       "word": "制片人谈哪吒2为何打动观众",
       "onboard_time": 1738221618,
       "rank": 43,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 139078,
+      "num": 124111,
+      "word": "封神2超过三分之二的镜头有视效",
+      "onboard_time": 1738247420,
+      "rank": 44,
       "category": "电影"
     },
     {
@@ -2019,6 +2035,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 123868,
+      "num": 123868,
+      "word": "第一次见人仗狗势的",
+      "onboard_time": 1738245799,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 123429,
       "num": 121593,
       "word": "小小的我",
@@ -2051,14 +2075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121398,
-      "num": 121398,
-      "word": "第一次见人仗狗势的",
-      "onboard_time": 1738245799,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 121186,
       "num": 121186,
       "word": "梁文锋知乎发文网友说AI写的",
@@ -2081,6 +2097,14 @@
       "onboard_time": 1738163303,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119725,
+      "num": 280112,
+      "word": "脑瘫少年连续9年收到房东的压岁包",
+      "onboard_time": 1738246879,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119186,
@@ -2121,6 +2145,14 @@
       "onboard_time": 1738206318,
       "rank": 38,
       "category": "民生新闻,幽默"
+    },
+    {
+      "raw_hot": 116677,
+      "num": 116677,
+      "word": "美花滑运动员因狗逃过致命航班",
+      "onboard_time": 1738246459,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 115492,
@@ -2299,20 +2331,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 106157,
-      "num": 106157,
-      "word": "美花滑运动员因狗逃过致命航班",
-      "onboard_time": 1738246459,
-      "rank": 49,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 105129,
       "num": 105129,
       "word": "谁家cp名叫狗富贵啊",
       "onboard_time": 1738219337,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 104634,
+      "num": 115722,
+      "word": "欧洲央行再降息",
+      "onboard_time": 1738247358,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 102882,
@@ -2603,6 +2635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70472,
+      "num": 564802,
+      "word": "原来过年的年有这么美好的寓意",
+      "onboard_time": 1738245619,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69530,
       "num": 89474,
       "word": "许凯赞樊振东的运动精神",
@@ -2633,6 +2673,14 @@
       "onboard_time": 1738214777,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66315,
+      "num": 280603,
+      "word": "曾舜晞给粉丝发了3w红包",
+      "onboard_time": 1738246638,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 66241,
@@ -2795,14 +2843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 43375,
-      "num": 287452,
-      "word": "原来过年的年有这么美好的寓意",
-      "onboard_time": 1738245619,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41471,
       "num": 41471,
       "word": "苏醒转身就走像下定了某种决心",
@@ -2873,14 +2913,6 @@
       "onboard_time": 1738239859,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 35318,
-      "num": 170389,
-      "word": "曾舜晞给粉丝发了3w红包",
-      "onboard_time": 1738246638,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 35117,
@@ -3123,6 +3155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 10032,
+      "num": 849428,
+      "word": "文化中国行非遗贺新春",
+      "onboard_time": 1738247660,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 9291,
       "num": 59046,
       "word": "BGM一响山东人过年最高礼仪登场",
@@ -3159,6 +3199,9 @@
     },
     {
       "word": "#团圆年#"
+    },
+    {
+      "word": "#行之所向心之所系#"
     }
   ]
 }
