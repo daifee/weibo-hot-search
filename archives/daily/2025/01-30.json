@@ -1,6 +1,6 @@
 {
   "startTime": 1738168091636,
-  "endTime": 1738236941841,
+  "endTime": 1738240909544,
   "band_list": [
     {
       "raw_hot": 2432743,
@@ -19,8 +19,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1938083,
-      "num": 1938083,
+      "raw_hot": 2139874,
+      "num": 2139874,
       "word": "金价",
       "onboard_time": 1738233497,
       "rank": 49,
@@ -83,6 +83,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1082957,
+      "num": 1082957,
+      "word": "肖俊红包",
+      "onboard_time": 1738237939,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1075225,
       "num": 294860,
       "word": "不走亲戚",
@@ -105,6 +113,14 @@
       "onboard_time": 1738163839,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 975160,
+      "num": 975160,
+      "word": "美国客机坠河已找到30多具遗体",
+      "onboard_time": 1738238958,
+      "rank": 3,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 969311,
@@ -251,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 736354,
+      "num": 331777,
+      "word": "梁家辉在春晚后台哭了3次",
+      "onboard_time": 1738236259,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 733337,
       "num": 692295,
       "word": "春节档3部电影豆瓣开分",
@@ -387,14 +411,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 512862,
-      "num": 331777,
-      "word": "梁家辉在春晚后台哭了3次",
-      "onboard_time": 1738236259,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 500427,
       "num": 150577,
       "word": "乌尔善",
@@ -416,6 +432,14 @@
       "word": "肖战代表了电影行业的想象可能",
       "onboard_time": 1738205417,
       "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 494459,
+      "num": 227640,
+      "word": "敖光敖闰",
+      "onboard_time": 1738239977,
+      "rank": 12,
       "category": "电影"
     },
     {
@@ -488,6 +512,14 @@
       "word": "丁禹兮看自己春晚挑眉害羞了",
       "onboard_time": 1738234459,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 435913,
+      "num": 435913,
+      "word": "刘宇郑业成演年轻人过年状态",
+      "onboard_time": 1738238119,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -577,6 +609,14 @@
       "onboard_time": 1738196477,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 393451,
+      "num": 224029,
+      "word": "英伟达认为禁售增强中国科技自主决心",
+      "onboard_time": 1738239379,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 384121,
@@ -715,6 +755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 322282,
+      "num": 322282,
+      "word": "过年在家不玩手机还能干什么",
+      "onboard_time": 1738229658,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 319882,
       "num": 319882,
       "word": "埃文凯尔父母羡慕儿子上春晚",
@@ -811,6 +859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 264823,
+      "num": 215553,
+      "word": "杭州断桥挤爆了啊但来都来了",
+      "onboard_time": 1738233198,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 263103,
       "num": 166679,
       "word": "2025春节档票房破26亿",
@@ -859,6 +915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 257051,
+      "num": 160505,
+      "word": "春晚哪首歌是你心中最佳",
+      "onboard_time": 1738234517,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256953,
       "num": 265906,
       "word": "费翔谈在封神拍摄期间的遗憾",
@@ -889,14 +953,6 @@
       "onboard_time": 1738196477,
       "rank": 13,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 251081,
-      "num": 306782,
-      "word": "过年在家不玩手机还能干什么",
-      "onboard_time": 1738229658,
-      "rank": 9,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 244485,
@@ -939,20 +995,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 224454,
-      "num": 164463,
-      "word": "杭州断桥挤爆了啊但来都来了",
-      "onboard_time": 1738233198,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 224257,
       "num": 224257,
       "word": "美坠河客机上有64人",
       "onboard_time": 1738210757,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 222914,
+      "num": 133578,
+      "word": "有点阴招全使自家人身上了",
+      "onboard_time": 1738240099,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 222403,
@@ -1019,12 +1075,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206299,
+      "num": 156971,
+      "word": "张艺兴陈伟霆苏有朋高清图",
+      "onboard_time": 1738236259,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205556,
       "num": 205556,
       "word": "特朗普称DeepSeek传递积极信号",
       "onboard_time": 1738168997,
       "rank": 13,
       "category": "国际时政,互联网"
+    },
+    {
+      "raw_hot": 203722,
+      "num": 123103,
+      "word": "邓婵玉撕掉了女性被凝视困境",
+      "onboard_time": 1738239379,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 203507,
@@ -1051,6 +1123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199780,
+      "num": 138317,
+      "word": "通天教主",
+      "onboard_time": 1738236799,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 199213,
       "num": 158158,
       "word": "射雕",
@@ -1065,14 +1145,6 @@
       "onboard_time": 1738214718,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 198675,
-      "num": 160505,
-      "word": "春晚哪首歌是你心中最佳",
-      "onboard_time": 1738234517,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 197800,
@@ -1177,6 +1249,14 @@
       "onboard_time": 1738193775,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187205,
+      "num": 100459,
+      "word": "李现在春晚说了谢之遥的台词",
+      "onboard_time": 1738237817,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 186905,
@@ -1371,14 +1451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156971,
-      "num": 156971,
-      "word": "张艺兴陈伟霆苏有朋高清图",
-      "onboard_time": 1738236259,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 153743,
       "num": 153743,
       "word": "王长田快撕排片",
@@ -1523,6 +1595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141727,
+      "num": 141727,
+      "word": "小猫留守在家叫个不停",
+      "onboard_time": 1738237699,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141583,
       "num": 141583,
       "word": "大年初二",
@@ -1553,14 +1633,6 @@
       "onboard_time": 1738144819,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 138317,
-      "num": 138317,
-      "word": "通天教主",
-      "onboard_time": 1738236799,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 138143,
@@ -2131,6 +2203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 93022,
+      "num": 93022,
+      "word": "当城里猫遇到村里猫",
+      "onboard_time": 1738240398,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 92897,
       "num": 92897,
       "word": "武汉影迷赶着看早场射雕",
@@ -2177,6 +2257,14 @@
       "onboard_time": 1738215797,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87329,
+      "num": 87329,
+      "word": "巳巳如意中国年",
+      "onboard_time": 1738236018,
+      "rank": 48,
+      "category": "正能量"
     },
     {
       "raw_hot": 86882,
@@ -2241,6 +2329,14 @@
       "onboard_time": 1738166597,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 81196,
+      "num": 81196,
+      "word": "养大一只小羊到底有多难",
+      "onboard_time": 1738240338,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 80437,
@@ -2425,6 +2521,14 @@
       "onboard_time": 1738155079,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 51658,
+      "num": 1159309,
+      "word": "文化中国行看故宫蛇年主题文物",
+      "onboard_time": 1738236138,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51473,
@@ -2657,14 +2761,6 @@
       "onboard_time": 1738178292,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 19033,
-      "num": 1159309,
-      "word": "文化中国行看故宫蛇年主题文物",
-      "onboard_time": 1738236138,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17145,

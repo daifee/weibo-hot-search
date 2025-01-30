@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/30 19:35:41
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/30 20:41:49
 </p>
 </blockquote>
 <p>
@@ -1173,6 +1173,12 @@ B站弹幕（热度：2270595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%23" target="weibo">
+金价（热度：2139874）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%89%AB%E5%B8%9A%E6%8F%90%E5%90%8D%E5%90%8D%E5%8D%95%23" target="weibo">
 金扫帚提名名单（热度：2136319）
 </a>
@@ -1451,12 +1457,6 @@ Ok 咱们线上（热度：2051932）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E5%9C%B0%E9%9C%87%23" target="weibo">
 银川地震（热度：1939080）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%23" target="weibo">
-金价（热度：1938083）
 </a>
 </li>
 

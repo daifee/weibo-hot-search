@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738236941841,
+  "endTime": 1738240909544,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1547,6 +1547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2139874,
+      "num": 2139874,
+      "word": "金价",
+      "onboard_time": 1738233497,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 2136319,
       "num": 2136319,
       "word": "金扫帚提名名单",
@@ -1921,14 +1929,6 @@
       "onboard_time": 1735783819,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1938083,
-      "num": 1938083,
-      "word": "金价",
-      "onboard_time": 1738233497,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 1930199,
