@@ -1,0 +1,410 @@
+{
+  "runTime": 1738202087182,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 835404,
+        "num": 1133664,
+        "word": "杭州雷峰塔真的有压了千年的小白",
+        "onboard_time": 1738192934,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 688227,
+        "num": 688227,
+        "word": "春晚导演组回应机器人是有裤子的",
+        "onboard_time": 1738192873,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51083,
+        "num": 680838,
+        "word": "北京台春晚蛇么都好",
+        "onboard_time": 1738158680,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 675238,
+        "num": 675238,
+        "word": "马思纯接春晚邀约经纪人差点喜极而泣",
+        "onboard_time": 1738199537,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 629544,
+        "num": 629544,
+        "word": "哪吒票房领跑",
+        "onboard_time": 1738196715,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 395478,
+        "num": 395478,
+        "word": "南苏丹坠机遇难者中有2名中国公民",
+        "onboard_time": 1738196477,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 420127,
+        "num": 387868,
+        "word": "易烊千玺为啥说不做男主角了",
+        "onboard_time": 1738200076,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374974,
+        "num": 374974,
+        "word": "唐探1900豆瓣开分6.7",
+        "onboard_time": 1738196535,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 334938,
+        "num": 334938,
+        "word": "女生捡到奶茶袋一看有10万现金",
+        "onboard_time": 1738197015,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 334474,
+        "num": 334474,
+        "word": "DeepSeek遭受海外攻击未来将持续",
+        "onboard_time": 1738196175,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 358324,
+        "num": 318376,
+        "word": "饺子首次回应哪吒2做五年",
+        "onboard_time": 1738196477,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 284803,
+        "num": 284803,
+        "word": "埃文凯尔父母羡慕儿子上春晚",
+        "onboard_time": 1738194914,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274472,
+        "num": 274472,
+        "word": "虞书欣 在干嘛呀",
+        "onboard_time": 1738158020,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251146,
+        "num": 251146,
+        "word": "大年初二回门日",
+        "onboard_time": 1738196477,
+        "rank": 13,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 218022,
+        "num": 218022,
+        "word": "县城2888一顿的年夜饭是谁在吃",
+        "onboard_time": 1738192993,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249794,
+        "num": 208872,
+        "word": "易烊千玺回应一年没接新角色",
+        "onboard_time": 1738192934,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189175,
+        "num": 189175,
+        "word": "哪吒排片",
+        "onboard_time": 1738201277,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186849,
+        "num": 186849,
+        "word": "特朗普称DeepSeek传递积极信号",
+        "onboard_time": 1738168997,
+        "rank": 17,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 184962,
+        "num": 184962,
+        "word": "春节档3部电影豆瓣开分",
+        "onboard_time": 1738201217,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125335,
+        "num": 125335,
+        "word": "初二回娘家",
+        "onboard_time": 1738193775,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 676261,
+        "num": 124184,
+        "word": "赵露思换了想了十年的发色",
+        "onboard_time": 1738153161,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303158,
+        "num": 123064,
+        "word": "是不是全国女婿到丈母娘家都这样",
+        "onboard_time": 1738197677,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184694,
+        "num": 122378,
+        "word": "一年内父母离世男子看春节监控泪目",
+        "onboard_time": 1738163839,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121186,
+        "num": 121186,
+        "word": "梁文锋知乎发文网友说AI写的",
+        "onboard_time": 1738198157,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 114587,
+        "num": 114587,
+        "word": "大年初二拜年计划",
+        "onboard_time": 1738193775,
+        "rank": 24,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 247083,
+        "num": 114543,
+        "word": "赵露思长文谈抑郁症",
+        "onboard_time": 1738151061,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167030,
+        "num": 114054,
+        "word": "迪丽热巴工作室换了头像背景",
+        "onboard_time": 1738200017,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165620,
+        "num": 113703,
+        "word": "应采儿两个儿子近照",
+        "onboard_time": 1738192873,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148544,
+        "num": 113214,
+        "word": "快给刘亦菲宋佳都整害羞了",
+        "onboard_time": 1738165099,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141827,
+        "num": 112970,
+        "word": "封神2好看吗",
+        "onboard_time": 1738199537,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127635,
+        "num": 112618,
+        "word": "赵雅芝 蛇年最忙",
+        "onboard_time": 1738155739,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127488,
+        "num": 112288,
+        "word": "鞠婧祎 神女",
+        "onboard_time": 1738163179,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112182,
+        "num": 112182,
+        "word": "特朗普给马斯克下了个命令",
+        "onboard_time": 1738200437,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110980,
+        "num": 110980,
+        "word": "DeepSeek将接入微软AI电脑",
+        "onboard_time": 1738200017,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 110554,
+        "num": 110554,
+        "word": "杭州灵隐寺人山人海",
+        "onboard_time": 1738198517,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 109106,
+        "num": 109106,
+        "word": "射雕拍的是战争其实讲反战",
+        "onboard_time": 1738197376,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108659,
+        "num": 108659,
+        "word": "春晚机器人创始人与浙大失之交臂",
+        "onboard_time": 1738193594,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103377,
+        "num": 103377,
+        "word": "黄亦玫你女儿上春晚了",
+        "onboard_time": 1738146559,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100477,
+        "num": 100477,
+        "word": "大年初二",
+        "onboard_time": 1738192873,
+        "rank": 38,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 99440,
+        "num": 99440,
+        "word": "四川的蛇在杭州谈恋爱淹了江苏的寺",
+        "onboard_time": 1738197436,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97865,
+        "num": 97865,
+        "word": "虞书欣好像一个小手办",
+        "onboard_time": 1738200378,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97277,
+        "num": 97277,
+        "word": "还以为是小羊要进屋避雪",
+        "onboard_time": 1738201576,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93939,
+        "num": 93939,
+        "word": "马斯克质疑DeepSeek",
+        "onboard_time": 1738196477,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 93836,
+        "num": 93836,
+        "word": "票房",
+        "onboard_time": 1738139658,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92925,
+        "num": 92925,
+        "word": "特朗普称准备了3万床位拘留非法移民",
+        "onboard_time": 1738201337,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91785,
+        "num": 91785,
+        "word": "2025春节档票房破26亿",
+        "onboard_time": 1738201696,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 86882,
+        "num": 86882,
+        "word": "库里当选美国男篮最佳运动员",
+        "onboard_time": 1738202057,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85372,
+        "num": 85372,
+        "word": "申公豹好惨",
+        "onboard_time": 1738202057,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 84571,
+        "num": 84571,
+        "word": "微软CEO说DeepSeek有真创新",
+        "onboard_time": 1738199596,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 83735,
+        "num": 83735,
+        "word": "两岁宝宝的理解太棒了",
+        "onboard_time": 1738192993,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#聆听总书记的新春祝福#"
+    }
+  }
+}
