@@ -1,0 +1,410 @@
+{
+  "runTime": 1738205146676,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 885589,
+        "num": 1141694,
+        "word": "哪吒排片",
+        "onboard_time": 1738201277,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 870385,
+        "num": 870385,
+        "word": "台湾地震",
+        "onboard_time": 1738203738,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 49926,
+        "num": 869611,
+        "word": "北京台春晚蛇么都好",
+        "onboard_time": 1738158680,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 552596,
+        "num": 864955,
+        "word": "台湾5.1级左右地震",
+        "onboard_time": 1738204156,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 451773,
+        "num": 858659,
+        "word": "特朗普称准备了3万床位拘留非法移民",
+        "onboard_time": 1738201337,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 533993,
+        "num": 851834,
+        "word": "杭州雷峰塔真的有压了千年的小白",
+        "onboard_time": 1738192934,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 850835,
+        "num": 850835,
+        "word": "马思纯接春晚邀约经纪人差点喜极而泣",
+        "onboard_time": 1738199537,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 692295,
+        "num": 692295,
+        "word": "春节档3部电影豆瓣开分",
+        "onboard_time": 1738201217,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 609869,
+        "num": 609869,
+        "word": "易烊千玺为啥说不做男主角了",
+        "onboard_time": 1738200076,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428682,
+        "num": 428682,
+        "word": "女生捡到奶茶袋一看有10万现金",
+        "onboard_time": 1738197015,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 369572,
+        "num": 369572,
+        "word": "南苏丹坠机遇难者中有2名中国公民",
+        "onboard_time": 1738196477,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 322185,
+        "num": 322185,
+        "word": "饺子首次回应哪吒2做五年",
+        "onboard_time": 1738196477,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 310201,
+        "num": 310201,
+        "word": "申公豹好惨",
+        "onboard_time": 1738202057,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 297895,
+        "num": 297895,
+        "word": "哪吒票房领跑",
+        "onboard_time": 1738196715,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 253125,
+        "num": 253125,
+        "word": "大年初二回家是喜团聚是福",
+        "onboard_time": 1738202717,
+        "rank": 14,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 178610,
+        "num": 252869,
+        "word": "台湾嘉义县5.2级地震",
+        "onboard_time": 1738204697,
+        "rank": 15,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 276525,
+        "num": 252865,
+        "word": "春晚导演组回应机器人是有裤子的",
+        "onboard_time": 1738192873,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252840,
+        "num": 252840,
+        "word": "大年初二回门日",
+        "onboard_time": 1738196477,
+        "rank": 17,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 192902,
+        "num": 192902,
+        "word": "特朗普称DeepSeek传递积极信号",
+        "onboard_time": 1738168997,
+        "rank": 18,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 174517,
+        "num": 174517,
+        "word": "DeepSeek将接入微软AI电脑",
+        "onboard_time": 1738200017,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 674824,
+        "num": 174300,
+        "word": "赵露思换了想了十年的发色",
+        "onboard_time": 1738153161,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292767,
+        "num": 172453,
+        "word": "虞书欣 在干嘛呀",
+        "onboard_time": 1738158020,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277533,
+        "num": 170554,
+        "word": "日本乒坛名将赌博被捕",
+        "onboard_time": 1738203917,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266578,
+        "num": 168473,
+        "word": "是不是全国女婿到丈母娘家都这样",
+        "onboard_time": 1738197677,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259109,
+        "num": 166679,
+        "word": "2025春节档票房破26亿",
+        "onboard_time": 1738201696,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 249261,
+        "num": 165012,
+        "word": "张新成演技",
+        "onboard_time": 1738204097,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 237282,
+        "num": 163406,
+        "word": "赵露思长文谈抑郁症",
+        "onboard_time": 1738151061,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194327,
+        "num": 161128,
+        "word": "迪丽热巴工作室换了头像背景",
+        "onboard_time": 1738200017,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183425,
+        "num": 160189,
+        "word": "埃文凯尔父母羡慕儿子上春晚",
+        "onboard_time": 1738194914,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158424,
+        "num": 158424,
+        "word": "DeepSeek遭受海外攻击未来将持续",
+        "onboard_time": 1738196175,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 168369,
+        "num": 151949,
+        "word": "唐探1900豆瓣开分6.7",
+        "onboard_time": 1738196535,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136836,
+        "num": 136836,
+        "word": "初二拜年祝福",
+        "onboard_time": 1738205058,
+        "rank": 31,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 131953,
+        "num": 131953,
+        "word": "杭州灵隐寺人山人海",
+        "onboard_time": 1738198517,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 128723,
+        "num": 128723,
+        "word": "虞书欣好像一个小手办",
+        "onboard_time": 1738200378,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127164,
+        "num": 127164,
+        "word": "鞠婧祎 神女",
+        "onboard_time": 1738163179,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121513,
+        "num": 121513,
+        "word": "易烊千玺回应一年没接新角色",
+        "onboard_time": 1738192934,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120579,
+        "num": 120579,
+        "word": "封神2豆瓣开分6.5",
+        "onboard_time": 1738204338,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119848,
+        "num": 119848,
+        "word": "快给刘亦菲宋佳都整害羞了",
+        "onboard_time": 1738165099,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117647,
+        "num": 117647,
+        "word": "封神2好看吗",
+        "onboard_time": 1738199537,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114303,
+        "num": 114303,
+        "word": "一年内父母离世男子看春节监控泪目",
+        "onboard_time": 1738163839,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110065,
+        "num": 110065,
+        "word": "大年初二拜年计划",
+        "onboard_time": 1738193775,
+        "rank": 40,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 106124,
+        "num": 106124,
+        "word": "封神2",
+        "onboard_time": 1738204878,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105788,
+        "num": 105788,
+        "word": "射雕拍的是战争其实讲反战",
+        "onboard_time": 1738197376,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104794,
+        "num": 104794,
+        "word": "赵雅芝有自己的春节档",
+        "onboard_time": 1738203196,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100246,
+        "num": 100246,
+        "word": "特朗普给马斯克下了个命令",
+        "onboard_time": 1738200437,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93943,
+        "num": 93943,
+        "word": "城里狗子回老家被鞭炮吓得要开车走",
+        "onboard_time": 1738199777,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92897,
+        "num": 92897,
+        "word": "武汉影迷赶着看早场射雕",
+        "onboard_time": 1738203917,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92802,
+        "num": 92802,
+        "word": "票房",
+        "onboard_time": 1738139658,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 86263,
+        "num": 86263,
+        "word": "单身的埃文凯尔羡慕中国女婿",
+        "onboard_time": 1738205058,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82104,
+        "num": 82104,
+        "word": "大年初二",
+        "onboard_time": 1738192873,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记牵挂的头等大事#"
+    }
+  }
+}

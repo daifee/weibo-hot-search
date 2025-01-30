@@ -1,10 +1,10 @@
 {
   "startTime": 1738168091636,
-  "endTime": 1738202087182,
+  "endTime": 1738205146676,
   "band_list": [
     {
       "raw_hot": 1259141,
-      "num": 172925,
+      "num": 174300,
       "word": "赵露思换了想了十年的发色",
       "onboard_time": 1738153161,
       "rank": 20,
@@ -35,11 +35,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 885589,
+      "num": 1141694,
+      "word": "哪吒排片",
+      "onboard_time": 1738201277,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 871051,
       "num": 871051,
       "word": "虞书欣 在干嘛呀",
       "onboard_time": 1738158020,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 870385,
+      "num": 870385,
+      "word": "台湾地震",
+      "onboard_time": 1738203738,
+      "rank": 1,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 850835,
+      "num": 850835,
+      "word": "马思纯接春晚邀约经纪人差点喜极而泣",
+      "onboard_time": 1738199537,
+      "rank": 10,
       "category": "综艺"
     },
     {
@@ -59,12 +83,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 675238,
-      "num": 675238,
-      "word": "马思纯接春晚邀约经纪人差点喜极而泣",
-      "onboard_time": 1738199537,
-      "rank": 10,
-      "category": "综艺"
+      "raw_hot": 692295,
+      "num": 692295,
+      "word": "春节档3部电影豆瓣开分",
+      "onboard_time": 1738201217,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 647727,
@@ -76,11 +100,27 @@
     },
     {
       "raw_hot": 631119,
-      "num": 159711,
+      "num": 163406,
       "word": "赵露思长文谈抑郁症",
       "onboard_time": 1738151061,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 609869,
+      "num": 609869,
+      "word": "易烊千玺为啥说不做男主角了",
+      "onboard_time": 1738200076,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 552596,
+      "num": 864955,
+      "word": "台湾5.1级左右地震",
+      "onboard_time": 1738204156,
+      "rank": 3,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 458157,
@@ -91,6 +131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 451773,
+      "num": 858659,
+      "word": "特朗普称准备了3万床位拘留非法移民",
+      "onboard_time": 1738201337,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 436634,
       "num": 436634,
       "word": "春节档电影虎扑评分出炉",
@@ -99,20 +147,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 428682,
+      "num": 428682,
+      "word": "女生捡到奶茶袋一看有10万现金",
+      "onboard_time": 1738197015,
+      "rank": 12,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 424562,
       "num": 424562,
       "word": "鞠婧祎 神女",
       "onboard_time": 1738163179,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 420127,
-      "num": 387868,
-      "word": "易烊千玺为啥说不做男主角了",
-      "onboard_time": 1738200076,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 419370,
@@ -148,7 +196,7 @@
     },
     {
       "raw_hot": 358324,
-      "num": 318376,
+      "num": 322185,
       "word": "饺子首次回应哪吒2做五年",
       "onboard_time": 1738196477,
       "rank": 16,
@@ -169,14 +217,6 @@
       "onboard_time": 1738166719,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 334938,
-      "num": 334938,
-      "word": "女生捡到奶茶袋一看有10万现金",
-      "onboard_time": 1738197015,
-      "rank": 12,
-      "category": "正能量"
     },
     {
       "raw_hot": 323992,
@@ -201,6 +241,14 @@
       "onboard_time": 1738163000,
       "rank": 1,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 310201,
+      "num": 310201,
+      "word": "申公豹好惨",
+      "onboard_time": 1738202057,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 303158,
@@ -235,12 +283,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 277533,
+      "num": 170554,
+      "word": "日本乒坛名将赌博被捕",
+      "onboard_time": 1738203917,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 265551,
       "num": 110628,
       "word": "云南一美人鱼表演者突遭鲟鱼咬头",
       "onboard_time": 1738160660,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 259109,
+      "num": 166679,
+      "word": "2025春节档票房破26亿",
+      "onboard_time": 1738201696,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 257284,
@@ -251,12 +315,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 251146,
-      "num": 251146,
+      "raw_hot": 253125,
+      "num": 253125,
+      "word": "大年初二回家是喜团聚是福",
+      "onboard_time": 1738202717,
+      "rank": 14,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 252840,
+      "num": 252840,
       "word": "大年初二回门日",
       "onboard_time": 1738196477,
       "rank": 13,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 249261,
+      "num": 165012,
+      "word": "张新成演技",
+      "onboard_time": 1738204097,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 240868,
@@ -291,12 +371,12 @@
       "category": "国际时政,互联网"
     },
     {
-      "raw_hot": 189175,
-      "num": 189175,
-      "word": "哪吒排片",
-      "onboard_time": 1738201277,
-      "rank": 16,
-      "category": "电影"
+      "raw_hot": 194327,
+      "num": 161128,
+      "word": "迪丽热巴工作室换了头像背景",
+      "onboard_time": 1738200017,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 187661,
@@ -315,14 +395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 184962,
-      "num": 184962,
-      "word": "春节档3部电影豆瓣开分",
-      "onboard_time": 1738201217,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 183282,
       "num": 112175,
       "word": "哪吒特效",
@@ -339,19 +411,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178610,
+      "num": 252869,
+      "word": "台湾嘉义县5.2级地震",
+      "onboard_time": 1738204697,
+      "rank": 15,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 174517,
+      "num": 174517,
+      "word": "DeepSeek将接入微软AI电脑",
+      "onboard_time": 1738200017,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 173171,
       "num": 173171,
       "word": "应采儿两个儿子近照",
       "onboard_time": 1738192873,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 167030,
-      "num": 141093,
-      "word": "迪丽热巴工作室换了头像背景",
-      "onboard_time": 1738200017,
-      "rank": 28,
       "category": "艺人"
     },
     {
@@ -443,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136836,
+      "num": 136836,
+      "word": "初二拜年祝福",
+      "onboard_time": 1738205058,
+      "rank": 31,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 134958,
       "num": 110170,
       "word": "嬷童降世",
@@ -451,11 +539,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 131953,
+      "num": 131953,
+      "word": "杭州灵隐寺人山人海",
+      "onboard_time": 1738198517,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 128987,
       "num": 128987,
       "word": "春晚机器人创始人与浙大失之交臂",
       "onboard_time": 1738193594,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 128723,
+      "num": 128723,
+      "word": "虞书欣好像一个小手办",
+      "onboard_time": 1738200378,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -475,20 +579,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 120579,
+      "num": 120579,
+      "word": "封神2豆瓣开分6.5",
+      "onboard_time": 1738204338,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 119819,
       "num": 152141,
       "word": "张博恒3年后再次回家过年",
       "onboard_time": 1738163303,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 114659,
-      "num": 114659,
-      "word": "DeepSeek将接入微软AI电脑",
-      "onboard_time": 1738200017,
-      "rank": 34,
-      "category": "互联网"
     },
     {
       "raw_hot": 114626,
@@ -547,14 +651,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 110554,
-      "num": 110554,
-      "word": "杭州灵隐寺人山人海",
-      "onboard_time": 1738198517,
-      "rank": 49,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 109796,
       "num": 109796,
       "word": "看完唐探我先替陈思诚哭两声",
@@ -569,6 +665,22 @@
       "onboard_time": 1738192993,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106124,
+      "num": 106124,
+      "word": "封神2",
+      "onboard_time": 1738204878,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 104794,
+      "num": 104794,
+      "word": "赵雅芝有自己的春节档",
+      "onboard_time": 1738203196,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 102882,
@@ -587,14 +699,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 97865,
-      "num": 97865,
-      "word": "虞书欣好像一个小手办",
-      "onboard_time": 1738200378,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 97277,
       "num": 97277,
       "word": "还以为是小羊要进屋避雪",
@@ -611,19 +715,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 92925,
-      "num": 92925,
-      "word": "特朗普称准备了3万床位拘留非法移民",
-      "onboard_time": 1738201337,
+      "raw_hot": 93943,
+      "num": 93943,
+      "word": "城里狗子回老家被鞭炮吓得要开车走",
+      "onboard_time": 1738199777,
       "rank": 44,
-      "category": "国际时政"
+      "category": "幽默"
     },
     {
-      "raw_hot": 91785,
-      "num": 91785,
-      "word": "2025春节档票房破26亿",
-      "onboard_time": 1738201696,
-      "rank": 45,
+      "raw_hot": 92897,
+      "num": 92897,
+      "word": "武汉影迷赶着看早场射雕",
+      "onboard_time": 1738203917,
+      "rank": 46,
       "category": "电影"
     },
     {
@@ -651,14 +755,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 87558,
-      "num": 87558,
-      "word": "城里狗子回老家被鞭炮吓得要开车走",
-      "onboard_time": 1738199777,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 86882,
       "num": 86882,
       "word": "库里当选美国男篮最佳运动员",
@@ -675,20 +771,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 86263,
+      "num": 86263,
+      "word": "单身的埃文凯尔羡慕中国女婿",
+      "onboard_time": 1738205058,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86161,
       "num": 111888,
       "word": "女生给妈妈磕888个头获千元红包",
       "onboard_time": 1738151899,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85372,
-      "num": 85372,
-      "word": "申公豹好惨",
-      "onboard_time": 1738202057,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 84560,

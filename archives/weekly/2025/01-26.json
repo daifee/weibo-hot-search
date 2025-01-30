@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738202087182,
+  "endTime": 1738205146676,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -1187,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 885589,
+      "num": 1141694,
+      "word": "哪吒排片",
+      "onboard_time": 1738201277,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 878463,
       "num": 878463,
       "word": "OneRepublic将登上春晚",
@@ -1201,6 +1209,14 @@
       "onboard_time": 1737970036,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 870385,
+      "num": 870385,
+      "word": "台湾地震",
+      "onboard_time": 1738203738,
+      "rank": 1,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 867387,
@@ -1265,6 +1281,14 @@
       "onboard_time": 1738141459,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 850835,
+      "num": 850835,
+      "word": "马思纯接春晚邀约经纪人差点喜极而泣",
+      "onboard_time": 1738199537,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 845565,
@@ -1627,6 +1651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 692295,
+      "num": 692295,
+      "word": "春节档3部电影豆瓣开分",
+      "onboard_time": 1738201217,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 691301,
       "num": 691301,
       "word": "集五福",
@@ -1672,14 +1704,6 @@
       "word": "沈马 背德",
       "onboard_time": 1738119860,
       "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 675238,
-      "num": 675238,
-      "word": "马思纯接春晚邀约经纪人差点喜极而泣",
-      "onboard_time": 1738199537,
-      "rank": 10,
       "category": "综艺"
     },
     {
@@ -1896,6 +1920,14 @@
       "word": "新加坡偶遇郭碧婷向佐一家",
       "onboard_time": 1737962416,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 609869,
+      "num": 609869,
+      "word": "易烊千玺为啥说不做男主角了",
+      "onboard_time": 1738200076,
+      "rank": 9,
       "category": "艺人"
     },
     {
@@ -2161,6 +2193,14 @@
       "onboard_time": 1738070739,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 552596,
+      "num": 864955,
+      "word": "台湾5.1级左右地震",
+      "onboard_time": 1738204156,
+      "rank": 3,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 552349,
@@ -2787,6 +2827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 451773,
+      "num": 858659,
+      "word": "特朗普称准备了3万床位拘留非法移民",
+      "onboard_time": 1738201337,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 450573,
       "num": 234164,
       "word": "王俊凯ins晒粉丝应援",
@@ -2899,6 +2947,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 428682,
+      "num": 428682,
+      "word": "女生捡到奶茶袋一看有10万现金",
+      "onboard_time": 1738197015,
+      "rank": 12,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 425600,
       "num": 425600,
       "word": "王一博祝大家自在且松弛",
@@ -2945,14 +3001,6 @@
       "onboard_time": 1738122319,
       "rank": 20,
       "category": "电影"
-    },
-    {
-      "raw_hot": 420127,
-      "num": 387868,
-      "word": "易烊千玺为啥说不做男主角了",
-      "onboard_time": 1738200076,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 419370,
@@ -3428,7 +3476,7 @@
     },
     {
       "raw_hot": 358324,
-      "num": 318376,
+      "num": 322185,
       "word": "饺子首次回应哪吒2做五年",
       "onboard_time": 1738196477,
       "rank": 16,
@@ -3633,14 +3681,6 @@
       "onboard_time": 1738112420,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 334938,
-      "num": 334938,
-      "word": "女生捡到奶茶袋一看有10万现金",
-      "onboard_time": 1738197015,
-      "rank": 12,
-      "category": "正能量"
     },
     {
       "raw_hot": 333957,
@@ -3897,6 +3937,14 @@
       "onboard_time": 1738143619,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 310201,
+      "num": 310201,
+      "word": "申公豹好惨",
+      "onboard_time": 1738202057,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 309094,
@@ -4291,6 +4339,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 277533,
+      "num": 170554,
+      "word": "日本乒坛名将赌博被捕",
+      "onboard_time": 1738203917,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 277386,
       "num": 277386,
       "word": "14岁女孩玩挖宝花光母亲14万打工钱",
@@ -4491,6 +4547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259109,
+      "num": 166679,
+      "word": "2025春节档票房破26亿",
+      "onboard_time": 1738201696,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 258867,
       "num": 233507,
       "word": "朱一龙晒春晚照片",
@@ -4587,12 +4651,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 253125,
+      "num": 253125,
+      "word": "大年初二回家是喜团聚是福",
+      "onboard_time": 1738202717,
+      "rank": 14,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 252889,
       "num": 252889,
       "word": "异人之下2豆瓣8.2",
       "onboard_time": 1737968956,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 252840,
+      "num": 252840,
+      "word": "大年初二回门日",
+      "onboard_time": 1738196477,
+      "rank": 13,
+      "category": "正能量"
     },
     {
       "raw_hot": 251968,
@@ -4609,14 +4689,6 @@
       "onboard_time": 1737928872,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 251146,
-      "num": 251146,
-      "word": "大年初二回门日",
-      "onboard_time": 1738196477,
-      "rank": 13,
-      "category": "正能量"
     },
     {
       "raw_hot": 251020,
@@ -4664,6 +4736,14 @@
       "word": "赵露思包场支持肖战新片",
       "onboard_time": 1738029137,
       "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 249261,
+      "num": 165012,
+      "word": "张新成演技",
+      "onboard_time": 1738204097,
+      "rank": 25,
       "category": "电影"
     },
     {
@@ -5939,6 +6019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194327,
+      "num": 161128,
+      "word": "迪丽热巴工作室换了头像背景",
+      "onboard_time": 1738200017,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194271,
       "num": 1225562,
       "word": "香奈儿珍珠妆",
@@ -6163,14 +6251,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 189175,
-      "num": 189175,
-      "word": "哪吒排片",
-      "onboard_time": 1738201277,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 189013,
       "num": 337000,
       "word": "花7小时做的千元蛇年美甲",
@@ -6355,14 +6435,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 184962,
-      "num": 184962,
-      "word": "春节档3部电影豆瓣开分",
-      "onboard_time": 1738201217,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 184328,
       "num": 208802,
       "word": "花70多万救下了700百多只猫",
@@ -6539,6 +6611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178610,
+      "num": 252869,
+      "word": "台湾嘉义县5.2级地震",
+      "onboard_time": 1738204697,
+      "rank": 15,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 178605,
       "num": 178605,
       "word": "为爱跳槽发现0人关心",
@@ -6713,6 +6793,14 @@
       "onboard_time": 1738153640,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 174517,
+      "num": 174517,
+      "word": "DeepSeek将接入微软AI电脑",
+      "onboard_time": 1738200017,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 174477,
@@ -6945,14 +7033,6 @@
       "onboard_time": 1737888018,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 167030,
-      "num": 141093,
-      "word": "迪丽热巴工作室换了头像背景",
-      "onboard_time": 1738200017,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 166877,
@@ -8283,6 +8363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136836,
+      "num": 136836,
+      "word": "初二拜年祝福",
+      "onboard_time": 1738205058,
+      "rank": 31,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 136285,
       "num": 136285,
       "word": "DeepSeek实习生日薪最高达上千元",
@@ -8515,6 +8603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131953,
+      "num": 131953,
+      "word": "杭州灵隐寺人山人海",
+      "onboard_time": 1738198517,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 131934,
       "num": 131934,
       "word": "eStar2025新赛季集结",
@@ -8623,6 +8719,14 @@
       "num": 128813,
       "word": "李宇春第一次上春晚已是十年前",
       "onboard_time": 1738036996,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 128723,
+      "num": 128723,
+      "word": "虞书欣好像一个小手办",
+      "onboard_time": 1738200378,
       "rank": 41,
       "category": "综艺"
     },
@@ -9059,6 +9163,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 120579,
+      "num": 120579,
+      "word": "封神2豆瓣开分6.5",
+      "onboard_time": 1738204338,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 120544,
       "num": 120544,
       "word": "第一批回家的人已经上桌了",
@@ -9299,14 +9411,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 114659,
-      "num": 114659,
-      "word": "DeepSeek将接入微软AI电脑",
-      "onboard_time": 1738200017,
-      "rank": 34,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 114587,
       "num": 114587,
       "word": "大年初二拜年计划",
@@ -9513,14 +9617,6 @@
       "onboard_time": 1737934815,
       "rank": 35,
       "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 110554,
-      "num": 110554,
-      "word": "杭州灵隐寺人山人海",
-      "onboard_time": 1738198517,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 110497,
@@ -9803,6 +9899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106124,
+      "num": 106124,
+      "word": "封神2",
+      "onboard_time": 1738204878,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 106046,
       "num": 112935,
       "word": "送你蛇年超绝福字",
@@ -9873,6 +9977,14 @@
       "onboard_time": 1737865518,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104794,
+      "num": 104794,
+      "word": "赵雅芝有自己的春节档",
+      "onboard_time": 1738203196,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 104704,
@@ -10227,14 +10339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97865,
-      "num": 97865,
-      "word": "虞书欣好像一个小手办",
-      "onboard_time": 1738200378,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 97774,
       "num": 97774,
       "word": "金蛇迎春红红火火壁纸",
@@ -10483,6 +10587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93943,
+      "num": 93943,
+      "word": "城里狗子回老家被鞭炮吓得要开车走",
+      "onboard_time": 1738199777,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 93846,
       "num": 217436,
       "word": "塞尔维亚总理辞职武契奇表态",
@@ -10507,12 +10619,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 92925,
-      "num": 92925,
-      "word": "特朗普称准备了3万床位拘留非法移民",
-      "onboard_time": 1738201337,
-      "rank": 44,
-      "category": "国际时政"
+      "raw_hot": 92897,
+      "num": 92897,
+      "word": "武汉影迷赶着看早场射雕",
+      "onboard_time": 1738203917,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 92728,
@@ -10561,14 +10673,6 @@
       "onboard_time": 1738022474,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 91785,
-      "num": 91785,
-      "word": "2025春节档票房破26亿",
-      "onboard_time": 1738201696,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 91699,
@@ -10739,14 +10843,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 87558,
-      "num": 87558,
-      "word": "城里狗子回老家被鞭炮吓得要开车走",
-      "onboard_time": 1738199777,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 87534,
       "num": 167787,
       "word": "马龙的这份提醒很有意义",
@@ -10835,6 +10931,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 86263,
+      "num": 86263,
+      "word": "单身的埃文凯尔羡慕中国女婿",
+      "onboard_time": 1738205058,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86188,
       "num": 86188,
       "word": "DeepSeek创始人回应爆火",
@@ -10881,14 +10985,6 @@
       "onboard_time": 1738071036,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 85372,
-      "num": 85372,
-      "word": "申公豹好惨",
-      "onboard_time": 1738202057,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 85285,
