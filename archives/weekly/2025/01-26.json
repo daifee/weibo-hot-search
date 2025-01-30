@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738205146676,
+  "endTime": 1738205750286,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -867,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1074031,
+      "num": 1171845,
+      "word": "哪吒排片",
+      "onboard_time": 1738201277,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1065312,
       "num": 628466,
       "word": "卢昱晓发红包",
@@ -1185,14 +1193,6 @@
       "onboard_time": 1738069124,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 885589,
-      "num": 1141694,
-      "word": "哪吒排片",
-      "onboard_time": 1738201277,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 878463,
@@ -1539,6 +1539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 733337,
+      "num": 692295,
+      "word": "春节档3部电影豆瓣开分",
+      "onboard_time": 1738201217,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 730426,
       "num": 1102714,
       "word": "王冰冰首部古装剧定档",
@@ -1648,14 +1656,6 @@
       "word": "哪吒",
       "onboard_time": 1738117581,
       "rank": 15,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 692295,
-      "num": 692295,
-      "word": "春节档3部电影豆瓣开分",
-      "onboard_time": 1738201217,
-      "rank": 18,
       "category": "电影"
     },
     {
@@ -1923,7 +1923,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 609869,
+      "raw_hot": 612253,
       "num": 609869,
       "word": "易烊千玺为啥说不做男主角了",
       "onboard_time": 1738200076,
@@ -3579,6 +3579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 346345,
+      "num": 346345,
+      "word": "申公豹好惨",
+      "onboard_time": 1738202057,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 343051,
       "num": 343051,
       "word": "柯洁说裁判说的话让人发抖",
@@ -3907,6 +3915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 314642,
+      "num": 170554,
+      "word": "日本乒坛名将赌博被捕",
+      "onboard_time": 1738203917,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 314299,
       "num": 271923,
       "word": "郭冬临小品 好笑",
@@ -3937,14 +3953,6 @@
       "onboard_time": 1738143619,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 310201,
-      "num": 310201,
-      "word": "申公豹好惨",
-      "onboard_time": 1738202057,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 309094,
@@ -4339,14 +4347,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 277533,
-      "num": 170554,
-      "word": "日本乒坛名将赌博被捕",
-      "onboard_time": 1738203917,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 277386,
       "num": 277386,
       "word": "14岁女孩玩挖宝花光母亲14万打工钱",
@@ -4483,6 +4483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263103,
+      "num": 166679,
+      "word": "2025春节档票房破26亿",
+      "onboard_time": 1738201696,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 262254,
       "num": 262254,
       "word": "美国叫停几乎全部对外援助",
@@ -4539,20 +4547,20 @@
       "category": "综艺,汽车"
     },
     {
+      "raw_hot": 260300,
+      "num": 260300,
+      "word": "大年初二回家是喜团聚是福",
+      "onboard_time": 1738202717,
+      "rank": 14,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 259595,
       "num": 263753,
       "word": "周深2024年度结算画面",
       "onboard_time": 1738043897,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 259109,
-      "num": 166679,
-      "word": "2025春节档票房破26亿",
-      "onboard_time": 1738201696,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 258867,
@@ -4649,14 +4657,6 @@
       "onboard_time": 1738133778,
       "rank": 27,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 253125,
-      "num": 253125,
-      "word": "大年初二回家是喜团聚是福",
-      "onboard_time": 1738202717,
-      "rank": 14,
-      "category": "正能量"
     },
     {
       "raw_hot": 252889,
@@ -5731,6 +5731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203493,
+      "num": 349318,
+      "word": "台湾嘉义县5.2级地震",
+      "onboard_time": 1738204697,
+      "rank": 15,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 203454,
       "num": 200393,
       "word": "电影射雕英雄传侠之大者开分",
@@ -5833,6 +5841,14 @@
       "onboard_time": 1738061906,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200951,
+      "num": 161128,
+      "word": "迪丽热巴工作室换了头像背景",
+      "onboard_time": 1738200017,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 200649,
@@ -6017,14 +6033,6 @@
       "onboard_time": 1738149740,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 194327,
-      "num": 161128,
-      "word": "迪丽热巴工作室换了头像背景",
-      "onboard_time": 1738200017,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 194271,
@@ -6499,6 +6507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182822,
+      "num": 182822,
+      "word": "DeepSeek将接入微软AI电脑",
+      "onboard_time": 1738200017,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 182702,
       "num": 160250,
       "word": "黄毛毛主页背景是大张伟",
@@ -6609,14 +6625,6 @@
       "onboard_time": 1738120339,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 178610,
-      "num": 252869,
-      "word": "台湾嘉义县5.2级地震",
-      "onboard_time": 1738204697,
-      "rank": 15,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 178605,
@@ -6795,14 +6803,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 174517,
-      "num": 174517,
-      "word": "DeepSeek将接入微软AI电脑",
-      "onboard_time": 1738200017,
-      "rank": 34,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 174477,
       "num": 149681,
       "word": "丁禹兮重塑",
@@ -6977,6 +6977,14 @@
       "onboard_time": 1737898881,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169031,
+      "num": 132658,
+      "word": "肖战代表了电影行业的想象可能",
+      "onboard_time": 1738205417,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 168883,
@@ -7883,6 +7891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146360,
+      "num": 132605,
+      "word": "大年初一票房排名",
+      "onboard_time": 1738205058,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 146085,
       "num": 146085,
       "word": "姬发人设",
@@ -8267,6 +8283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138143,
+      "num": 132588,
+      "word": "虞书欣好像一个小手办",
+      "onboard_time": 1738200378,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137980,
       "num": 137980,
       "word": "肖战蓝色流苏外套",
@@ -8531,6 +8555,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 132982,
+      "num": 132521,
+      "word": "封神2",
+      "onboard_time": 1738204878,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 132967,
+      "num": 132967,
+      "word": "单身的埃文凯尔羡慕中国女婿",
+      "onboard_time": 1738205058,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132965,
       "num": 150170,
       "word": "曹恩齐祝大家巳巳如愿",
@@ -8719,14 +8759,6 @@
       "num": 128813,
       "word": "李宇春第一次上春晚已是十年前",
       "onboard_time": 1738036996,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 128723,
-      "num": 128723,
-      "word": "虞书欣好像一个小手办",
-      "onboard_time": 1738200378,
       "rank": 41,
       "category": "综艺"
     },
@@ -9267,6 +9299,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 117532,
+      "num": 114210,
+      "word": "薛之谦自曝在家拿衣架彩排",
+      "onboard_time": 1738205178,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 117491,
+      "num": 117491,
+      "word": "大年初二拜年计划",
+      "onboard_time": 1738193775,
+      "rank": 38,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 117192,
       "num": 117192,
       "word": "突然发现王鹤棣还当了回群演",
@@ -9411,14 +9459,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 114587,
-      "num": 114587,
-      "word": "大年初二拜年计划",
-      "onboard_time": 1738193775,
-      "rank": 38,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 114483,
       "num": 489432,
       "word": "凌肖加入拜年",
@@ -9513,6 +9553,14 @@
       "onboard_time": 1737885557,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112962,
+      "num": 112962,
+      "word": "赵雅芝有自己的春节档",
+      "onboard_time": 1738203196,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 112182,
@@ -9899,14 +9947,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 106124,
-      "num": 106124,
-      "word": "封神2",
-      "onboard_time": 1738204878,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 106046,
       "num": 112935,
       "word": "送你蛇年超绝福字",
@@ -9977,14 +10017,6 @@
       "onboard_time": 1737865518,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 104794,
-      "num": 104794,
-      "word": "赵雅芝有自己的春节档",
-      "onboard_time": 1738203196,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 104704,
@@ -10083,6 +10115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102423,
+      "num": 102423,
+      "word": "沈腾马丽十二年形成闭环",
+      "onboard_time": 1738205717,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102359,
       "num": 102359,
       "word": "年轻人过年焦虑怎么办",
@@ -10177,6 +10217,14 @@
       "onboard_time": 1737951377,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 101284,
+      "num": 101284,
+      "word": "韩国客机烧出一个洞可能因充电宝",
+      "onboard_time": 1738205537,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 101145,
@@ -10929,14 +10977,6 @@
       "onboard_time": 1738200977,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 86263,
-      "num": 86263,
-      "word": "单身的埃文凯尔羡慕中国女婿",
-      "onboard_time": 1738205058,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 86188,
