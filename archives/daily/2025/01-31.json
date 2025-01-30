@@ -1,6 +1,6 @@
 {
   "startTime": 1738254491138,
-  "endTime": 1738279323267,
+  "endTime": 1738280133803,
   "band_list": [
     {
       "raw_hot": 1427134,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 770934,
-      "num": 770934,
+      "num": 869627,
       "word": "肖战 郭靖",
       "onboard_time": 1738248079,
       "rank": 3,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 240261,
-      "num": 33707,
+      "num": 47100,
       "word": "一群印度人煮4800公斤食物场面震撼",
       "onboard_time": 1738279273,
       "rank": 30,
@@ -153,6 +153,14 @@
       "onboard_time": 1738236259,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 237863,
+      "num": 90098,
+      "word": "特朗普考虑英伟达特供版也不卖中国",
+      "onboard_time": 1738260073,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 228578,
@@ -195,14 +203,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 182283,
-      "num": 69610,
-      "word": "特朗普考虑英伟达特供版也不卖中国",
-      "onboard_time": 1738260073,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 180462,
       "num": 180462,
       "word": "哪吒3",
@@ -225,6 +225,14 @@
       "onboard_time": 1738247959,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144903,
+      "num": 144903,
+      "word": "大年初三",
+      "onboard_time": 1738279215,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140063,
@@ -275,6 +283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 119025,
+      "num": 87450,
+      "word": "外媒称失事客机上至少14名运动员",
+      "onboard_time": 1738255156,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 113756,
       "num": 113756,
       "word": "射雕口碑",
@@ -291,12 +307,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97769,
+      "num": 83018,
+      "word": "美军用飞机频繁穿越民航航线酿大祸",
+      "onboard_time": 1738243099,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 97633,
       "num": 97633,
       "word": "于适回应姬发邓婵玉共舞",
       "onboard_time": 1738256294,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 96784,
+      "num": 46798,
+      "word": "黄晓明湄洲岛",
+      "onboard_time": 1738277050,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 95805,
@@ -355,6 +387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 90806,
+      "num": 90806,
+      "word": "正月初五新一轮冷空气来袭",
+      "onboard_time": 1738276391,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90403,
       "num": 90403,
       "word": "刘宇郑业成演年轻人过年状态",
@@ -363,28 +403,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 90066,
-      "num": 90066,
-      "word": "正月初五新一轮冷空气来袭",
-      "onboard_time": 1738276391,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 88294,
-      "num": 69353,
-      "word": "外媒称失事客机上至少14名运动员",
-      "onboard_time": 1738255156,
-      "rank": 37,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 87107,
       "num": 82817,
       "word": "虞书欣檀健次预制联动",
       "onboard_time": 1738235419,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 85163,
+      "num": 85163,
+      "word": "当留学生瞒着家人突然回家过年",
+      "onboard_time": 1738262292,
+      "rank": 48,
+      "category": "正能量"
     },
     {
       "raw_hot": 84459,
@@ -419,36 +451,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 74697,
-      "num": 72957,
-      "word": "美军用飞机频繁穿越民航航线酿大祸",
-      "onboard_time": 1738243099,
-      "rank": 47,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 69704,
-      "num": 69704,
-      "word": "当留学生瞒着家人突然回家过年",
-      "onboard_time": 1738262292,
-      "rank": 48,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 68771,
-      "num": 33592,
-      "word": "黄晓明湄洲岛",
-      "onboard_time": 1738277050,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 67597,
-      "num": 67597,
-      "word": "大年初三",
-      "onboard_time": 1738279215,
-      "rank": 14,
+      "raw_hot": 74355,
+      "num": 46411,
+      "word": "大年初三宜好好休息",
+      "onboard_time": 1738279752,
+      "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72201,
+      "num": 72201,
+      "word": "哪吒2",
+      "onboard_time": 1738279215,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 66548,
@@ -483,6 +499,30 @@
       "category": "情感"
     },
     {
+      "raw_hot": 59308,
+      "num": 59308,
+      "word": "赵露思新发色好美",
+      "onboard_time": 1738263251,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 50018,
+      "num": 50018,
+      "word": "李现在春晚说了谢之遥的台词",
+      "onboard_time": 1738237817,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 48946,
+      "num": 46076,
+      "word": "一个不想拜一个不想走",
+      "onboard_time": 1738279333,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 47635,
       "num": 51910,
       "word": "福气码",
@@ -491,12 +531,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 45934,
-      "num": 41335,
-      "word": "赵露思新发色好美",
-      "onboard_time": 1738263251,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 47594,
+      "num": 47594,
+      "word": "叶澜依再现甄嬛传名场面",
+      "onboard_time": 1738244660,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 45741,
+      "num": 45741,
+      "word": "美国坠河客机上有花滑世界冠军",
+      "onboard_time": 1738273871,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 45663,
@@ -505,6 +553,14 @@
       "onboard_time": 1738234459,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 45114,
+      "num": 45114,
+      "word": "射雕票房",
+      "onboard_time": 1738229658,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 43072,
@@ -523,20 +579,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 42263,
-      "num": 42263,
-      "word": "美国坠河客机上有花滑世界冠军",
-      "onboard_time": 1738273871,
-      "rank": 34,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 41387,
-      "num": 41387,
-      "word": "哪吒2",
-      "onboard_time": 1738279215,
-      "rank": 24,
-      "category": "电影"
+      "raw_hot": 38914,
+      "num": 47588,
+      "word": "美国撞机事件空中音频曝光",
+      "onboard_time": 1738271891,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 37297,
@@ -547,12 +595,12 @@
       "category": "情感,民生新闻"
     },
     {
-      "raw_hot": 36121,
-      "num": 34021,
-      "word": "美国撞机事件空中音频曝光",
-      "onboard_time": 1738271891,
-      "rank": 46,
-      "category": "国际时政"
+      "raw_hot": 35687,
+      "num": 35687,
+      "word": "第一批外地女婿已经到娘家了",
+      "onboard_time": 1738243159,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 34207,
@@ -563,20 +611,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 29715,
-      "num": 29715,
+      "raw_hot": 33410,
+      "num": 33410,
       "word": "4万香客排队10小时进雍和宫烧头香",
       "onboard_time": 1738265412,
       "rank": 46,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28735,
+      "raw_hot": 32845,
       "num": 33572,
       "word": "陈丽君穿10公分戏靴连转25米彩绸",
       "onboard_time": 1738268890,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 32214,
+      "num": 32214,
+      "word": "倪夏莲称2个手都来不及防孙颖莎",
+      "onboard_time": 1738279393,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 27505,
@@ -667,20 +723,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 8573,
+      "num": 261412,
+      "word": "英歌舞跳出对新年的美好祝福",
+      "onboard_time": 1738214777,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 8541,
       "num": 17059,
       "word": "哪吒导演曾要当一名医务人员",
       "onboard_time": 1738273930,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 8412,
-      "num": 241383,
-      "word": "英歌舞跳出对新年的美好祝福",
-      "onboard_time": 1738214777,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 6446,
