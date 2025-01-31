@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738336855875,
+  "endTime": 1738337778564,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -3676,7 +3676,7 @@
     },
     {
       "raw_hot": 1418717,
-      "num": 595153,
+      "num": 1112168,
       "word": "黑妮曝王菲父母哥哥均已离世",
       "onboard_time": 1738332320,
       "rank": 11,
@@ -5249,6 +5249,14 @@
       "onboard_time": 1735712780,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1137467,
+      "num": 1137467,
+      "word": "哪吒2票房逆跌",
+      "onboard_time": 1738334779,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 1137369,
@@ -8977,14 +8985,6 @@
       "onboard_time": 1737174860,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 824693,
-      "num": 346870,
-      "word": "哪吒2票房逆跌",
-      "onboard_time": 1738334779,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 824383,
@@ -17075,6 +17075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 500227,
+      "num": 500227,
+      "word": "真的不要把鞭炮扔进下水道",
+      "onboard_time": 1738334001,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 500201,
       "num": 403939,
       "word": "特朗普称DeepSeek给美企敲响警钟",
@@ -18384,6 +18392,14 @@
       "word": "张凌赫李昀锐一起吃饭",
       "onboard_time": 1737605239,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 466193,
+      "num": 301197,
+      "word": "李昀锐挑染",
+      "onboard_time": 1738336339,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -24995,6 +25011,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 346039,
+      "num": 346039,
+      "word": "WTT抽签仪式主持人用LunarNewYear",
+      "onboard_time": 1738334480,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 345894,
       "num": 345894,
       "word": "扎克伯格称仍在消化DeepSeek的成果",
@@ -25049,14 +25073,6 @@
       "onboard_time": 1736701095,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 345314,
-      "num": 345314,
-      "word": "WTT抽签仪式主持人用LunarNewYear",
-      "onboard_time": 1738334480,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 345091,
@@ -25328,14 +25344,6 @@
       "word": "00后男生耐得住寂寞一天做上百条女裤",
       "onboard_time": 1735742241,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 340996,
-      "num": 340996,
-      "word": "真的不要把鞭炮扔进下水道",
-      "onboard_time": 1738334001,
-      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -28484,7 +28492,7 @@
     },
     {
       "raw_hot": 300388,
-      "num": 242565,
+      "num": 243069,
       "word": "封神2妲己严选的女孩是艾米",
       "onboard_time": 1738323319,
       "rank": 30,
@@ -35755,6 +35763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 232814,
+      "num": 232814,
+      "word": "黄晓明晒妈妈炸的鱼",
+      "onboard_time": 1738334241,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232776,
       "num": 232776,
       "word": "赵丽颖向阳生长大片",
@@ -39907,14 +39923,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 208010,
-      "num": 208010,
-      "word": "李昀锐挑染",
-      "onboard_time": 1738336339,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208006,
       "num": 234538,
       "word": "江苏90后姑娘成央视蛇年春晚主持人",
@@ -42857,14 +42865,6 @@
       "onboard_time": 1735886058,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 197903,
-      "num": 197903,
-      "word": "黄晓明晒妈妈炸的鱼",
-      "onboard_time": 1738334241,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 197897,
@@ -46003,6 +46003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189209,
+      "num": 189209,
+      "word": "刘耀文答上了宋亚轩的抽象题",
+      "onboard_time": 1738336699,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189174,
       "num": 526072,
       "word": "钟意FMVP皮肤",
@@ -46921,6 +46929,14 @@
       "onboard_time": 1737637160,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186632,
+      "num": 248800,
+      "word": "火锅店4年春节发了150万给员工",
+      "onboard_time": 1738336579,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186587,
@@ -51451,6 +51467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171130,
+      "num": 171130,
+      "word": "易烊千玺单依纯双语唱响亚冬会",
+      "onboard_time": 1738333640,
+      "rank": 28,
+      "category": "演出,体育"
+    },
+    {
       "raw_hot": 171110,
       "num": 171110,
       "word": "齐司礼ppv",
@@ -52059,14 +52083,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 169247,
-      "num": 169247,
-      "word": "火锅店4年春节发了150万给员工",
-      "onboard_time": 1738336579,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 169213,
       "num": 233051,
       "word": "岳云鹏who会讲Chinese语",
@@ -52273,14 +52289,6 @@
       "onboard_time": 1737536779,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 168584,
-      "num": 168584,
-      "word": "易烊千玺单依纯双语唱响亚冬会",
-      "onboard_time": 1738333640,
-      "rank": 28,
-      "category": "演出,体育"
     },
     {
       "raw_hot": 168542,
@@ -55721,6 +55729,14 @@
       "onboard_time": 1737544097,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 158637,
+      "num": 158637,
+      "word": "于适 我们只想要公平",
+      "onboard_time": 1738337421,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 158618,
@@ -60563,14 +60579,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 145125,
-      "num": 145125,
-      "word": "刘耀文答上了宋亚轩的抽象题",
-      "onboard_time": 1738336699,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 145100,
       "num": 320432,
       "word": "女子100元买的裤子褪色双腿被染紫",
@@ -60705,6 +60713,14 @@
       "onboard_time": 1737909436,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 144753,
+      "num": 144753,
+      "word": "时代少年团要红包零帧起手",
+      "onboard_time": 1738337479,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 144751,
@@ -63555,6 +63571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137438,
+      "num": 137438,
+      "word": "世人皆知周武王无人唤我姬发郎",
+      "onboard_time": 1738336521,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 137424,
       "num": 137424,
       "word": "泽连斯基称愿意帮助加州灭火",
@@ -64777,6 +64801,14 @@
       "onboard_time": 1736749279,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134660,
+      "num": 134660,
+      "word": "饼渣",
+      "onboard_time": 1738337058,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 134648,
@@ -67548,7 +67580,7 @@
     },
     {
       "raw_hot": 127248,
-      "num": 923838,
+      "num": 1122250,
       "word": "中国人的春节传统走向世界了",
       "onboard_time": 1738324099,
       "rank": 46,
@@ -68105,6 +68137,14 @@
       "onboard_time": 1737987379,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 125962,
+      "num": 220875,
+      "word": "蛇年春晚你还在循环播放哪首歌",
+      "onboard_time": 1738335801,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 125951,
@@ -68689,14 +68729,6 @@
       "onboard_time": 1737343758,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 124698,
-      "num": 124698,
-      "word": "蛇年春晚你还在循环播放哪首歌",
-      "onboard_time": 1738335801,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 124687,
@@ -71907,14 +71939,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 116768,
-      "num": 116768,
-      "word": "世人皆知周武王无人唤我姬发郎",
-      "onboard_time": 1738336521,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
       "raw_hot": 116747,
       "num": 177348,
       "word": "玄彬孙艺珍夫妇捐3亿韩元",
@@ -73347,6 +73371,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 113369,
+      "num": 113369,
+      "word": "蛇是怎么混进十二生肖的",
+      "onboard_time": 1738335260,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113367,
       "num": 294975,
       "word": "黎深 脸红的蘑菇",
@@ -74417,14 +74449,6 @@
       "onboard_time": 1738279333,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 110427,
-      "num": 112142,
-      "word": "蛇是怎么混进十二生肖的",
-      "onboard_time": 1738335260,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110374,

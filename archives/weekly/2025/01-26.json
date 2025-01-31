@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738336855875,
+  "endTime": 1738337778564,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -700,7 +700,7 @@
     },
     {
       "raw_hot": 1418717,
-      "num": 595153,
+      "num": 1112168,
       "word": "黑妮曝王菲父母哥哥均已离世",
       "onboard_time": 1738332320,
       "rank": 11,
@@ -945,6 +945,14 @@
       "onboard_time": 1737897558,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1137467,
+      "num": 1137467,
+      "word": "哪吒2票房逆跌",
+      "onboard_time": 1738334779,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 1137084,
@@ -1697,14 +1705,6 @@
       "onboard_time": 1738052181,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 824693,
-      "num": 346870,
-      "word": "哪吒2票房逆跌",
-      "onboard_time": 1738334779,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 824383,
@@ -3235,6 +3235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 500227,
+      "num": 500227,
+      "word": "真的不要把鞭炮扔进下水道",
+      "onboard_time": 1738334001,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 500201,
       "num": 403939,
       "word": "特朗普称DeepSeek给美企敲响警钟",
@@ -3521,6 +3529,14 @@
       "onboard_time": 1737883399,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 466193,
+      "num": 301197,
+      "word": "李昀锐挑染",
+      "onboard_time": 1738336339,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 466070,
@@ -4715,20 +4731,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 346039,
+      "num": 346039,
+      "word": "WTT抽签仪式主持人用LunarNewYear",
+      "onboard_time": 1738334480,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 345894,
       "num": 345894,
       "word": "扎克伯格称仍在消化DeepSeek的成果",
       "onboard_time": 1738292776,
       "rank": 19,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 345314,
-      "num": 345314,
-      "word": "WTT抽签仪式主持人用LunarNewYear",
-      "onboard_time": 1738334480,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 345091,
@@ -4801,14 +4817,6 @@
       "onboard_time": 1737903200,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 340996,
-      "num": 340996,
-      "word": "真的不要把鞭炮扔进下水道",
-      "onboard_time": 1738334001,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 340426,
@@ -5404,7 +5412,7 @@
     },
     {
       "raw_hot": 300388,
-      "num": 242565,
+      "num": 243069,
       "word": "封神2妲己严选的女孩是艾米",
       "onboard_time": 1738323319,
       "rank": 30,
@@ -6603,6 +6611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232814,
+      "num": 232814,
+      "word": "黄晓明晒妈妈炸的鱼",
+      "onboard_time": 1738334241,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232495,
       "num": 202061,
       "word": "赵雅芝71岁状态比我21的还精神",
@@ -7371,14 +7387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208010,
-      "num": 208010,
-      "word": "李昀锐挑染",
-      "onboard_time": 1738336339,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 207949,
       "num": 177733,
       "word": "店家回应刘亦菲带火19元奥特曼发夹",
@@ -7857,14 +7865,6 @@
       "onboard_time": 1738056201,
       "rank": 19,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 197903,
-      "num": 197903,
-      "word": "黄晓明晒妈妈炸的鱼",
-      "onboard_time": 1738334241,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 197800,
@@ -8371,6 +8371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189209,
+      "num": 189209,
+      "word": "刘耀文答上了宋亚轩的抽象题",
+      "onboard_time": 1738336699,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189013,
       "num": 337000,
       "word": "花7小时做的千元蛇年美甲",
@@ -8561,6 +8569,14 @@
       "onboard_time": 1738035736,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 186632,
+      "num": 248800,
+      "word": "火锅店4年春节发了150万给员工",
+      "onboard_time": 1738336579,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186114,
@@ -9171,6 +9187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171130,
+      "num": 171130,
+      "word": "易烊千玺单依纯双语唱响亚冬会",
+      "onboard_time": 1738333640,
+      "rank": 28,
+      "category": "演出,体育"
+    },
+    {
       "raw_hot": 170926,
       "num": 241462,
       "word": "如鸢暗号",
@@ -9267,14 +9291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 169247,
-      "num": 169247,
-      "word": "火锅店4年春节发了150万给员工",
-      "onboard_time": 1738336579,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 169029,
       "num": 144862,
       "word": "虞书欣林一这个视频没有退出键",
@@ -9313,14 +9329,6 @@
       "onboard_time": 1738329500,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168584,
-      "num": 168584,
-      "word": "易烊千玺单依纯双语唱响亚冬会",
-      "onboard_time": 1738333640,
-      "rank": 28,
-      "category": "演出,体育"
     },
     {
       "raw_hot": 168542,
@@ -9864,6 +9872,14 @@
       "word": "哪吒彩蛋",
       "onboard_time": 1738135758,
       "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 158637,
+      "num": 158637,
+      "word": "于适 我们只想要公平",
+      "onboard_time": 1738337421,
+      "rank": 30,
       "category": "电影"
     },
     {
@@ -10715,14 +10731,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 145125,
-      "num": 145125,
-      "word": "刘耀文答上了宋亚轩的抽象题",
-      "onboard_time": 1738336699,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 145079,
       "num": 145079,
       "word": "王俊凯生图",
@@ -10769,6 +10777,14 @@
       "onboard_time": 1737909436,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 144753,
+      "num": 144753,
+      "word": "时代少年团要红包零帧起手",
+      "onboard_time": 1738337479,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 144572,
@@ -11283,6 +11299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137438,
+      "num": 137438,
+      "word": "世人皆知周武王无人唤我姬发郎",
+      "onboard_time": 1738336521,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 137369,
       "num": 137369,
       "word": "蔡徐坤蛇年新春祝福私信",
@@ -11497,6 +11521,14 @@
       "onboard_time": 1737988638,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134660,
+      "num": 134660,
+      "word": "饼渣",
+      "onboard_time": 1738337058,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 134440,
@@ -11948,7 +11980,7 @@
     },
     {
       "raw_hot": 127248,
-      "num": 923838,
+      "num": 1122250,
       "word": "中国人的春节传统走向世界了",
       "onboard_time": 1738324099,
       "rank": 46,
@@ -12081,6 +12113,14 @@
       "onboard_time": 1737987379,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 125962,
+      "num": 220875,
+      "word": "蛇年春晚你还在循环播放哪首歌",
+      "onboard_time": 1738335801,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 125876,
@@ -12217,14 +12257,6 @@
       "onboard_time": 1738299436,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 124698,
-      "num": 124698,
-      "word": "蛇年春晚你还在循环播放哪首歌",
-      "onboard_time": 1738335801,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 124644,
@@ -12723,14 +12755,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 116768,
-      "num": 116768,
-      "word": "世人皆知周武王无人唤我姬发郎",
-      "onboard_time": 1738336521,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
       "raw_hot": 116735,
       "num": 112678,
       "word": "黑兔老师画德克萨斯",
@@ -13003,6 +13027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113369,
+      "num": 113369,
+      "word": "蛇是怎么混进十二生肖的",
+      "onboard_time": 1738335260,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113258,
       "num": 113258,
       "word": "小婉管乐演的白蛇青蛇",
@@ -13233,14 +13265,6 @@
       "onboard_time": 1738279333,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 110427,
-      "num": 112142,
-      "word": "蛇是怎么混进十二生肖的",
-      "onboard_time": 1738335260,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110367,
@@ -13753,6 +13777,14 @@
       "onboard_time": 1738314619,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103546,
+      "num": 190856,
+      "word": "OOTD",
+      "onboard_time": 1738336938,
+      "rank": 24,
+      "category": "时尚"
     },
     {
       "raw_hot": 103245,
