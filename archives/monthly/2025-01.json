@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738308033571,
+  "endTime": 1738308929717,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -11531,6 +11531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 680315,
+      "num": 680315,
+      "word": "金饰价格飙至835元一克",
+      "onboard_time": 1738306097,
+      "rank": 1,
+      "category": "财经"
+    },
+    {
       "raw_hot": 680183,
       "num": 680183,
       "word": "北外严正声明",
@@ -16457,14 +16465,6 @@
       "onboard_time": 1738298837,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 508645,
-      "num": 508645,
-      "word": "金饰价格飙至835元一克",
-      "onboard_time": 1738306097,
-      "rank": 1,
-      "category": "财经"
     },
     {
       "raw_hot": 508608,
@@ -43779,6 +43779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193741,
+      "num": 190901,
+      "word": "朱一龙春晚接窗花镜头录了20次",
+      "onboard_time": 1738306816,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193734,
       "num": 843700,
       "word": "2025新年签",
@@ -45963,6 +45971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187777,
+      "num": 187777,
+      "word": "春节爬完黄山看非遗表演太City了",
+      "onboard_time": 1738299257,
+      "rank": 19,
+      "category": "正能量,旅游"
+    },
+    {
       "raw_hot": 187758,
       "num": 187758,
       "word": "腾讯你是会排版的",
@@ -45977,6 +45993,14 @@
       "onboard_time": 1736252484,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187742,
+      "num": 189327,
+      "word": "美国会办公室被警告勿使用DeepSeek",
+      "onboard_time": 1738307357,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 187724,
@@ -47265,14 +47289,6 @@
       "onboard_time": 1736867480,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 183199,
-      "num": 183728,
-      "word": "春节爬完黄山看非遗表演太City了",
-      "onboard_time": 1738299257,
-      "rank": 19,
-      "category": "正能量,旅游"
     },
     {
       "raw_hot": 183176,
@@ -50961,14 +50977,6 @@
       "onboard_time": 1737189198,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 170899,
-      "num": 151922,
-      "word": "朱一龙春晚接窗花镜头录了20次",
-      "onboard_time": 1738306816,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 170873,
@@ -56363,6 +56371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154975,
+      "num": 147073,
+      "word": "牛在在说贺峻霖有点卷",
+      "onboard_time": 1738308438,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154954,
       "num": 170448,
       "word": "王楚钦亚洲杯见",
@@ -60875,6 +60891,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 142116,
+      "num": 142116,
+      "word": "哪吒2豆瓣升至8.6",
+      "onboard_time": 1738308077,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 142096,
       "num": 142096,
       "word": "元旦让打工人实现了上四休三",
@@ -61729,6 +61753,14 @@
       "onboard_time": 1737386898,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139986,
+      "num": 160752,
+      "word": "辛巴带货的海鲜大礼包疑似翻车",
+      "onboard_time": 1738306037,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 139963,
@@ -63649,6 +63681,14 @@
       "onboard_time": 1736925020,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 135396,
+      "num": 135396,
+      "word": "苏醒一己之力得罪所有人",
+      "onboard_time": 1738308557,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 135368,
@@ -68393,14 +68433,6 @@
       "onboard_time": 1737091998,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 123056,
-      "num": 123056,
-      "word": "辛巴带货的海鲜大礼包疑似翻车",
-      "onboard_time": 1738306037,
-      "rank": 29,
-      "category": "网红"
     },
     {
       "raw_hot": 123042,
@@ -74371,6 +74403,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 107560,
+      "num": 107560,
+      "word": "孟子义二月行程",
+      "onboard_time": 1738308496,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107548,
       "num": 107548,
       "word": "何惟芳两种情绪一手拿捏",
@@ -74987,6 +75027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 105727,
+      "num": 105727,
+      "word": "埃文凯尔上春晚后收到信息轰炸",
+      "onboard_time": 1738306336,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105722,
       "num": 105722,
       "word": "陈奕迅佛山有影脚创始人",
@@ -75137,14 +75185,6 @@
       "onboard_time": 1736767880,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105382,
-      "num": 95328,
-      "word": "埃文凯尔上春晚后收到信息轰炸",
-      "onboard_time": 1738306336,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 105342,
@@ -77467,6 +77507,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97749,
+      "num": 97749,
+      "word": "敖瑞鹏二月行程图",
+      "onboard_time": 1738308857,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 97748,
+      "num": 97747,
+      "word": "短剧赛道已经卷到这种程度了吗",
+      "onboard_time": 1738308557,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97725,
       "num": 287518,
       "word": "马龙当之无愧的GOAT",
@@ -78780,7 +78836,7 @@
     },
     {
       "raw_hot": 92975,
-      "num": 96573,
+      "num": 97748,
       "word": "新兰新婚夫妻感",
       "onboard_time": 1738304895,
       "rank": 49,
@@ -82931,6 +82987,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 72223,
+      "num": 90029,
+      "word": "三亚西岛大量游客滞留高喊退票",
+      "onboard_time": 1738308737,
+      "rank": 47,
+      "category": "民生新闻,旅游"
+    },
+    {
       "raw_hot": 72193,
       "num": 205892,
       "word": "曼谷空气污染严重学校停课",
@@ -83137,14 +83201,6 @@
       "onboard_time": 1736394922,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 71128,
-      "num": 189327,
-      "word": "美国会办公室被警告勿使用DeepSeek",
-      "onboard_time": 1738307357,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 71093,
@@ -84411,6 +84467,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 63858,
+      "num": 88586,
+      "word": "普通人化妆最有效的一步",
+      "onboard_time": 1738308798,
+      "rank": 49,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 63857,
       "num": 63857,
       "word": "被跳舞的易烊千玺帅到了",
@@ -85227,6 +85291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59381,
+      "num": 157981,
+      "word": "吴汉坤封神有效抬人",
+      "onboard_time": 1738306517,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 59363,
       "num": 210457,
       "word": "河南春晚不语只是一味做文化节目",
@@ -86033,14 +86105,6 @@
       "onboard_time": 1736233223,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 55434,
-      "num": 81076,
-      "word": "吴汉坤封神有效抬人",
-      "onboard_time": 1738306517,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 55427,
@@ -93235,6 +93299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25719,
+      "num": 158515,
+      "word": "春节档打起玄学商战",
+      "onboard_time": 1738307957,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 25677,
       "num": 26543,
       "word": "肖战努力贴近成为角色",
@@ -95217,14 +95289,6 @@
       "onboard_time": 1736407340,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 18951,
-      "num": 85118,
-      "word": "春节档打起玄学商战",
-      "onboard_time": 1738307957,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 18934,

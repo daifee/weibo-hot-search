@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/31 00:28:11 ~ 2025/01/31 15:20:33
+本榜单时间：2025/01/31 00:28:11 ~ 2025/01/31 15:35:29
 </p>
 </blockquote>
 <p>
@@ -87,6 +87,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E9%A3%99%E8%87%B3835%E5%85%83%E4%B8%80%E5%85%8B%23" target="weibo">
+金饰价格飙至835元一克（热度：680315）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E7%BB%88%E4%BA%8E%E5%8A%A0%E5%88%B0%E4%BA%86%E5%AE%8B%E4%BD%B3%E5%BE%AE%E4%BF%A1%23" target="weibo">
 白鹿终于加到了宋佳微信（热度：656578）
 </a>
@@ -149,12 +155,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%84%9F%E8%B0%A2%E9%99%88%E5%93%B2%E8%BF%9C%23" target="weibo">
 白鹿感谢陈哲远（热度：508973）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E9%A3%99%E8%87%B3835%E5%85%83%E4%B8%80%E5%85%8B%23" target="weibo">
-金饰价格飙至835元一克（热度：508645）
 </a>
 </li>
 
@@ -495,6 +495,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E6%98%A5%E6%99%9A%E6%8E%A5%E7%AA%97%E8%8A%B1%E9%95%9C%E5%A4%B4%E5%BD%95%E4%BA%8620%E6%AC%A1%23" target="weibo">
+朱一龙春晚接窗花镜头录了20次（热度：193741）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%A4%A7%E5%90%8E%E5%92%8C%E7%94%B3%E5%85%AC%E8%B1%B9%E6%B7%B1%E6%B7%B1%E5%85%B1%E6%83%85%E4%BA%86%23" target="weibo">
 长大后和申公豹深深共情了（热度：193167）
 </a>
@@ -526,7 +532,13 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%82%E7%88%AC%E5%AE%8C%E9%BB%84%E5%B1%B1%E7%9C%8B%E9%9D%9E%E9%81%97%E8%A1%A8%E6%BC%94%E5%A4%AACity%E4%BA%86%23" target="weibo">
-春节爬完黄山看非遗表演太City了（热度：183199）
+春节爬完黄山看非遗表演太City了（热度：187777）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BC%9A%E5%8A%9E%E5%85%AC%E5%AE%A4%E8%A2%AB%E8%AD%A6%E5%91%8A%E5%8B%BF%E4%BD%BF%E7%94%A8DeepSeek%23" target="weibo">
+美国会办公室被警告勿使用DeepSeek（热度：187742）
 </a>
 </li>
 
@@ -563,12 +575,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%231%E6%9C%88%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9%23" target="weibo">
 1月的最后一天（热度：173261）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E6%98%A5%E6%99%9A%E6%8E%A5%E7%AA%97%E8%8A%B1%E9%95%9C%E5%A4%B4%E5%BD%95%E4%BA%8620%E6%AC%A1%23" target="weibo">
-朱一龙春晚接窗花镜头录了20次（热度：170899）
 </a>
 </li>
 
@@ -633,6 +639,12 @@ SM新男团将下半年出道（热度：170410）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%9B%E5%9C%A8%E5%9C%A8%E8%AF%B4%E8%B4%BA%E5%B3%BB%E9%9C%96%E6%9C%89%E7%82%B9%E5%8D%B7%23" target="weibo">
+牛在在说贺峻霖有点卷（热度：154975）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%89%8B%E8%89%BA%E4%BA%BA%E6%8A%8A%E8%9B%8B%E5%A3%B3%E5%8F%98%E9%95%82%E7%A9%BA%E8%89%BA%E6%9C%AF%E5%93%81%23" target="weibo">
 中国手艺人把蛋壳变镂空艺术品（热度：153833）
 </a>
@@ -693,8 +705,20 @@ SM新男团将下半年出道（热度：170410）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E8%B1%86%E7%93%A3%E5%8D%87%E8%87%B38.6%23" target="weibo">
+哪吒2豆瓣升至8.6（热度：142116）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%98%8A%E7%84%B6%E5%A5%BD%E5%B8%85%23" target="weibo">
 刘昊然好帅（热度：140063）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E5%B7%B4%E5%B8%A6%E8%B4%A7%E7%9A%84%E6%B5%B7%E9%B2%9C%E5%A4%A7%E7%A4%BC%E5%8C%85%E7%96%91%E4%BC%BC%E7%BF%BB%E8%BD%A6%23" target="weibo">
+辛巴带货的海鲜大礼包疑似翻车（热度：139986）
 </a>
 </li>
 
@@ -719,6 +743,12 @@ SM新男团将下半年出道（热度：170410）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232025%E6%98%A5%E8%8A%82%E6%A1%A3%E7%A5%A8%E6%88%BF%E7%A0%B438%E4%BA%BF%23" target="weibo">
 2025春节档票房破38亿（热度：138018）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E4%B8%80%E5%B7%B1%E4%B9%8B%E5%8A%9B%E5%BE%97%E7%BD%AA%E6%89%80%E6%9C%89%E4%BA%BA%23" target="weibo">
+苏醒一己之力得罪所有人（热度：135396）
 </a>
 </li>
 
@@ -813,12 +843,6 @@ SM新男团将下半年出道（热度：170410）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E5%B7%B4%E5%B8%A6%E8%B4%A7%E7%9A%84%E6%B5%B7%E9%B2%9C%E5%A4%A7%E7%A4%BC%E5%8C%85%E7%96%91%E4%BC%BC%E7%BF%BB%E8%BD%A6%23" target="weibo">
-辛巴带货的海鲜大礼包疑似翻车（热度：123056）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23Jennie%E6%96%B0%E5%8D%95%E6%9B%B2MV%23" target="weibo">
 Jennie新单曲MV（热度：122840）
 </a>
@@ -903,6 +927,12 @@ Jennie新单曲MV（热度：122840）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E4%BA%8C%E6%9C%88%E8%A1%8C%E7%A8%8B%23" target="weibo">
+孟子义二月行程（热度：107560）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E7%A7%B0%E4%BB%8D%E5%9C%A8%E6%B6%88%E5%8C%96DeepSeek%E6%88%90%E6%9E%9C%23" target="weibo">
 扎克伯格称仍在消化DeepSeek成果（热度：106701）
 </a>
@@ -910,7 +940,7 @@ Jennie新单曲MV（热度：122840）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9F%83%E6%96%87%E5%87%AF%E5%B0%94%E4%B8%8A%E6%98%A5%E6%99%9A%E5%90%8E%E6%94%B6%E5%88%B0%E4%BF%A1%E6%81%AF%E8%BD%B0%E7%82%B8%23" target="weibo">
-埃文凯尔上春晚后收到信息轰炸（热度：105382）
+埃文凯尔上春晚后收到信息轰炸（热度：105727）
 </a>
 </li>
 
@@ -929,6 +959,18 @@ Jennie新单曲MV（热度：122840）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E7%94%A8%E9%A3%9E%E6%9C%BA%E9%A2%91%E7%B9%81%E7%A9%BF%E8%B6%8A%E6%B0%91%E8%88%AA%E8%88%AA%E7%BA%BF%E9%85%BF%E5%A4%A7%E7%A5%B8%23" target="weibo">
 美军用飞机频繁穿越民航航线酿大祸（热度：97769）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%96%E7%91%9E%E9%B9%8F%E4%BA%8C%E6%9C%88%E8%A1%8C%E7%A8%8B%E5%9B%BE%23" target="weibo">
+敖瑞鹏二月行程图（热度：97749）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E8%B5%9B%E9%81%93%E5%B7%B2%E7%BB%8F%E5%8D%B7%E5%88%B0%E8%BF%99%E7%A7%8D%E7%A8%8B%E5%BA%A6%E4%BA%86%E5%90%97%23" target="weibo">
+短剧赛道已经卷到这种程度了吗（热度：97748）
 </a>
 </li>
 
@@ -1173,8 +1215,8 @@ Jennie二单预告（热度：89144）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BC%9A%E5%8A%9E%E5%85%AC%E5%AE%A4%E8%A2%AB%E8%AD%A6%E5%91%8A%E5%8B%BF%E4%BD%BF%E7%94%A8DeepSeek%23" target="weibo">
-美国会办公室被警告勿使用DeepSeek（热度：71128）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BA%9A%E8%A5%BF%E5%B2%9B%E5%A4%A7%E9%87%8F%E6%B8%B8%E5%AE%A2%E6%BB%9E%E7%95%99%E9%AB%98%E5%96%8A%E9%80%80%E7%A5%A8%23" target="weibo">
+三亚西岛大量游客滞留高喊退票（热度：72223）
 </a>
 </li>
 
@@ -1215,6 +1257,12 @@ Jennie二单预告（热度：89144）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E9%80%9A%E4%BA%BA%E5%8C%96%E5%A6%86%E6%9C%80%E6%9C%89%E6%95%88%E7%9A%84%E4%B8%80%E6%AD%A5%23" target="weibo">
+普通人化妆最有效的一步（热度：63858）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD1995%E5%B9%B4%E4%BB%A5%E6%9D%A5%E5%8F%91%E7%94%9F%E8%BF%877%E6%AC%A1%E9%87%8D%E5%A4%A7%E7%A9%BA%E9%9A%BE%23" target="weibo">
 美国1995年以来发生过7次重大空难（热度：63277）
 </a>
@@ -1234,7 +1282,7 @@ Jennie二单预告（热度：89144）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%B1%89%E5%9D%A4%E5%B0%81%E7%A5%9E%E6%9C%89%E6%95%88%E6%8A%AC%E4%BA%BA%23" target="weibo">
-吴汉坤封神有效抬人（热度：55434）
+吴汉坤封神有效抬人（热度：59381）
 </a>
 </li>
 
@@ -1347,6 +1395,12 @@ Jennie二单预告（热度：89144）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%82%E6%A1%A3%E6%89%93%E8%B5%B7%E7%8E%84%E5%AD%A6%E5%95%86%E6%88%98%23" target="weibo">
+春节档打起玄学商战（热度：25719）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BD%95%E7%BE%8E%E5%9B%BD%E4%B8%A4%E6%97%A5%E5%9D%A0%E4%B8%89%E6%9C%BA%23" target="weibo">
 为何美国两日坠三机（热度：24837）
 </a>
@@ -1367,12 +1421,6 @@ Jennie二单预告（热度：89144）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%92%9E%E6%9C%BA%E4%BA%8B%E6%95%85%E7%9B%AE%E5%87%BB%E8%80%85%E5%8F%91%E5%A3%B0%23" target="weibo">
 美国撞机事故目击者发声（热度：20640）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%82%E6%A1%A3%E6%89%93%E8%B5%B7%E7%8E%84%E5%AD%A6%E5%95%86%E6%88%98%23" target="weibo">
-春节档打起玄学商战（热度：18951）
 </a>
 </li>
 

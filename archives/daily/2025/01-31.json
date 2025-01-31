@@ -1,6 +1,6 @@
 {
   "startTime": 1738254491138,
-  "endTime": 1738308033571,
+  "endTime": 1738308929717,
   "band_list": [
     {
       "raw_hot": 3591172,
@@ -99,6 +99,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 680315,
+      "num": 680315,
+      "word": "金饰价格飙至835元一克",
+      "onboard_time": 1738306097,
+      "rank": 1,
+      "category": "财经"
+    },
+    {
       "raw_hot": 656578,
       "num": 656578,
       "word": "白鹿终于加到了宋佳微信",
@@ -185,14 +193,6 @@
       "onboard_time": 1738298837,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 508645,
-      "num": 508645,
-      "word": "金饰价格飙至835元一克",
-      "onboard_time": 1738306097,
-      "rank": 1,
-      "category": "财经"
     },
     {
       "raw_hot": 485979,
@@ -643,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 193741,
+      "num": 190901,
+      "word": "朱一龙春晚接窗花镜头录了20次",
+      "onboard_time": 1738306816,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193167,
       "num": 209872,
       "word": "长大后和申公豹深深共情了",
@@ -683,12 +691,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 183199,
-      "num": 183728,
+      "raw_hot": 187777,
+      "num": 187777,
       "word": "春节爬完黄山看非遗表演太City了",
       "onboard_time": 1738299257,
       "rank": 19,
       "category": "正能量,旅游"
+    },
+    {
+      "raw_hot": 187742,
+      "num": 189327,
+      "word": "美国会办公室被警告勿使用DeepSeek",
+      "onboard_time": 1738307357,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 180462,
@@ -737,14 +753,6 @@
       "onboard_time": 1738281075,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 170899,
-      "num": 151922,
-      "word": "朱一龙春晚接窗花镜头录了20次",
-      "onboard_time": 1738306816,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 170410,
@@ -827,6 +835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154975,
+      "num": 147073,
+      "word": "牛在在说贺峻霖有点卷",
+      "onboard_time": 1738308438,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153833,
       "num": 153833,
       "word": "中国手艺人把蛋壳变镂空艺术品",
@@ -907,12 +923,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142116,
+      "num": 142116,
+      "word": "哪吒2豆瓣升至8.6",
+      "onboard_time": 1738308077,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 140063,
       "num": 140063,
       "word": "刘昊然好帅",
       "onboard_time": 1738241478,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 139986,
+      "num": 160752,
+      "word": "辛巴带货的海鲜大礼包疑似翻车",
+      "onboard_time": 1738306037,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 139014,
@@ -945,6 +977,14 @@
       "onboard_time": 1738293017,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 135396,
+      "num": 135396,
+      "word": "苏醒一己之力得罪所有人",
+      "onboard_time": 1738308557,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 135160,
@@ -1067,14 +1107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123056,
-      "num": 123056,
-      "word": "辛巴带货的海鲜大礼包疑似翻车",
-      "onboard_time": 1738306037,
-      "rank": 29,
-      "category": "网红"
-    },
-    {
       "raw_hot": 122840,
       "num": 117471,
       "word": "Jennie新单曲MV",
@@ -1187,6 +1219,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 107560,
+      "num": 107560,
+      "word": "孟子义二月行程",
+      "onboard_time": 1738308496,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106701,
       "num": 106701,
       "word": "扎克伯格称仍在消化DeepSeek成果",
@@ -1195,8 +1235,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 105382,
-      "num": 95328,
+      "raw_hot": 105727,
+      "num": 105727,
       "word": "埃文凯尔上春晚后收到信息轰炸",
       "onboard_time": 1738306336,
       "rank": 35,
@@ -1225,6 +1265,22 @@
       "onboard_time": 1738243099,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 97749,
+      "num": 97749,
+      "word": "敖瑞鹏二月行程图",
+      "onboard_time": 1738308857,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 97748,
+      "num": 97747,
+      "word": "短剧赛道已经卷到这种程度了吗",
+      "onboard_time": 1738308557,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 97633,
@@ -1316,7 +1372,7 @@
     },
     {
       "raw_hot": 92975,
-      "num": 96573,
+      "num": 97748,
       "word": "新兰新婚夫妻感",
       "onboard_time": 1738304895,
       "rank": 49,
@@ -1547,12 +1603,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 71128,
-      "num": 189327,
-      "word": "美国会办公室被警告勿使用DeepSeek",
-      "onboard_time": 1738307357,
-      "rank": 14,
-      "category": "互联网"
+      "raw_hot": 72223,
+      "num": 90029,
+      "word": "三亚西岛大量游客滞留高喊退票",
+      "onboard_time": 1738308737,
+      "rank": 47,
+      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 70578,
@@ -1603,6 +1659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 63858,
+      "num": 88586,
+      "word": "普通人化妆最有效的一步",
+      "onboard_time": 1738308798,
+      "rank": 49,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 63277,
       "num": 64153,
       "word": "美国1995年以来发生过7次重大空难",
@@ -1627,8 +1691,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 55434,
-      "num": 81076,
+      "raw_hot": 59381,
+      "num": 157981,
       "word": "吴汉坤封神有效抬人",
       "onboard_time": 1738306517,
       "rank": 42,
@@ -1779,6 +1843,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 25719,
+      "num": 158515,
+      "word": "春节档打起玄学商战",
+      "onboard_time": 1738307957,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 24837,
       "num": 24837,
       "word": "为何美国两日坠三机",
@@ -1809,14 +1881,6 @@
       "onboard_time": 1738268531,
       "rank": 49,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 18951,
-      "num": 85118,
-      "word": "春节档打起玄学商战",
-      "onboard_time": 1738307957,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 18790,
