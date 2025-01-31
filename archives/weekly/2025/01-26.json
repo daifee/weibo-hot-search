@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738340814351,
+  "endTime": 1738341781019,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -5811,6 +5811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 271701,
+      "num": 186268,
+      "word": "哪吒2票房破18亿",
+      "onboard_time": 1738340297,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 271196,
       "num": 217111,
       "word": "张馨予晒何捷为她拍的雪地大片",
@@ -6595,6 +6603,14 @@
       "category": "电竞,游戏"
     },
     {
+      "raw_hot": 235108,
+      "num": 235108,
+      "word": "蛇是怎么混进十二生肖的",
+      "onboard_time": 1738335260,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 234474,
       "num": 234474,
       "word": "机器人是被舞蹈演员押下去",
@@ -7257,14 +7273,6 @@
       "onboard_time": 1738075588,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 211478,
-      "num": 139715,
-      "word": "哪吒2票房破18亿",
-      "onboard_time": 1738340297,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 211240,
@@ -8065,14 +8073,6 @@
       "onboard_time": 1738294338,
       "rank": 49,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 194119,
-      "num": 194119,
-      "word": "蛇是怎么混进十二生肖的",
-      "onboard_time": 1738335260,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 194052,
@@ -9012,7 +9012,7 @@
     },
     {
       "raw_hot": 175207,
-      "num": 78014,
+      "num": 113685,
       "word": "哪吒五年里一直打工",
       "onboard_time": 1738338799,
       "rank": 47,
@@ -10115,6 +10115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156044,
+      "num": 133273,
+      "word": "朋友圈背景图",
+      "onboard_time": 1738339518,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 155993,
       "num": 155993,
       "word": "阿云嘎包场春节档电影",
@@ -10539,6 +10547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149187,
+      "num": 131296,
+      "word": "二月最幸运星座",
+      "onboard_time": 1738338018,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 148974,
       "num": 148974,
       "word": "中国乒协公示多哈世乒赛选拔办法",
@@ -10713,6 +10729,14 @@
       "onboard_time": 1737888858,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146704,
+      "num": 134660,
+      "word": "饼渣",
+      "onboard_time": 1738337058,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 146085,
@@ -10955,28 +10979,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 142682,
-      "num": 133273,
-      "word": "朋友圈背景图",
-      "onboard_time": 1738339518,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 142628,
       "num": 142628,
       "word": "老太吃一个月甘草片止咳致全身瘫软",
       "onboard_time": 1737936435,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 142561,
-      "num": 131296,
-      "word": "二月最幸运星座",
-      "onboard_time": 1738338018,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 142437,
@@ -11579,14 +11587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 134660,
-      "num": 134660,
-      "word": "饼渣",
-      "onboard_time": 1738337058,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 134440,
       "num": 134440,
       "word": "张新成 那么大张脸",
@@ -11672,6 +11672,14 @@
       "word": "后天就除夕了",
       "onboard_time": 1737863418,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133216,
+      "num": 672624,
+      "word": "乙巳蛇年为啥会出现两头春",
+      "onboard_time": 1738329259,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -12953,14 +12961,6 @@
       "onboard_time": 1738058484,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 114454,
-      "num": 672624,
-      "word": "乙巳蛇年为啥会出现两头春",
-      "onboard_time": 1738329259,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 114293,
@@ -14803,6 +14803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91745,
+      "num": 138544,
+      "word": "王楚钦孙颖莎出战WTT新加坡大满贯",
+      "onboard_time": 1738339518,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91699,
       "num": 91699,
       "word": "DeepSeek为何震动美国科技界",
@@ -14929,6 +14937,14 @@
       "onboard_time": 1737959957,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 89119,
+      "num": 89119,
+      "word": "丁禹兮杠上花",
+      "onboard_time": 1738340477,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 89096,
@@ -15603,20 +15619,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 80250,
-      "num": 80250,
-      "word": "丁禹兮杠上花",
-      "onboard_time": 1738340477,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 80071,
       "num": 304029,
       "word": "巳升升耍了一下杂技",
       "onboard_time": 1737950537,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 80010,
+      "num": 80010,
+      "word": "于冬 给我们打一星的全是黑水",
+      "onboard_time": 1738338079,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 79755,
@@ -15673,14 +15689,6 @@
       "onboard_time": 1738030815,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 78456,
-      "num": 138544,
-      "word": "王楚钦孙颖莎出战WTT新加坡大满贯",
-      "onboard_time": 1738339518,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 78105,
@@ -15857,14 +15865,6 @@
       "onboard_time": 1738312517,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 75145,
-      "num": 75145,
-      "word": "于冬 给我们打一星的全是黑水",
-      "onboard_time": 1738338079,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 75013,
@@ -16657,6 +16657,14 @@
       "onboard_time": 1737833652,
       "rank": 28,
       "category": "艺人,艺人"
+    },
+    {
+      "raw_hot": 57633,
+      "num": 185848,
+      "word": "宠物们一定也知道过年了吧",
+      "onboard_time": 1738341257,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 57514,

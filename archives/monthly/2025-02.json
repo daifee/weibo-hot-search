@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738340814351,
+  "endTime": 1738341781019,
   "band_list": [
     {
       "raw_hot": 1281311,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 716626,
-      "num": 215825,
+      "num": 231412,
       "word": "黑妮曝王菲父母哥哥均已离世",
       "onboard_time": 1738332320,
       "rank": 6,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 381732,
-      "num": 206525,
+      "num": 226108,
       "word": "申公豹 丑强惨",
       "onboard_time": 1738327638,
       "rank": 7,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 280742,
-      "num": 182794,
+      "num": 185387,
       "word": "哪吒2或将进入影史票房前三",
       "onboard_time": 1738314798,
       "rank": 14,
@@ -81,6 +81,14 @@
       "onboard_time": 1738318877,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 271701,
+      "num": 186268,
+      "word": "哪吒2票房破18亿",
+      "onboard_time": 1738340297,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 258797,
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 250611,
-      "num": 174288,
+      "num": 186255,
       "word": "封神2妲己严选的女孩是艾米",
       "onboard_time": 1738323319,
       "rank": 15,
@@ -115,6 +123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 235108,
+      "num": 235108,
+      "word": "蛇是怎么混进十二生肖的",
+      "onboard_time": 1738335260,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230232,
       "num": 230232,
       "word": "WTT抽签仪式主持人用LunarNewYear",
@@ -123,28 +139,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 211478,
-      "num": 139715,
-      "word": "哪吒2票房破18亿",
-      "onboard_time": 1738340297,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
       "raw_hot": 207365,
       "num": 146008,
       "word": "黄晓明晒妈妈炸的鱼",
       "onboard_time": 1738334241,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 194119,
-      "num": 194119,
-      "word": "蛇是怎么混进十二生肖的",
-      "onboard_time": 1738335260,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 192846,
@@ -163,8 +163,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 187249,
-      "num": 187249,
+      "raw_hot": 187704,
+      "num": 187704,
       "word": "蛇是很多医学院校徽的主角",
       "onboard_time": 1738327158,
       "rank": 13,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 175207,
-      "num": 78014,
+      "num": 113685,
       "word": "哪吒五年里一直打工",
       "onboard_time": 1738338799,
       "rank": 47,
@@ -203,7 +203,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142682,
+      "raw_hot": 156044,
       "num": 133273,
       "word": "朋友圈背景图",
       "onboard_time": 1738339518,
@@ -211,12 +211,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 142561,
+      "raw_hot": 149187,
       "num": 131296,
       "word": "二月最幸运星座",
       "onboard_time": 1738338018,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 146704,
+      "num": 131217,
+      "word": "饼渣",
+      "onboard_time": 1738337058,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 141837,
@@ -243,12 +251,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 131217,
-      "num": 131217,
-      "word": "饼渣",
-      "onboard_time": 1738337058,
-      "rank": 30,
-      "category": "电影"
+      "raw_hot": 133216,
+      "num": 133216,
+      "word": "乙巳蛇年为啥会出现两头春",
+      "onboard_time": 1738329259,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120284,
@@ -273,14 +281,6 @@
       "onboard_time": 1738333640,
       "rank": 33,
       "category": "演出,体育"
-    },
-    {
-      "raw_hot": 114454,
-      "num": 114454,
-      "word": "乙巳蛇年为啥会出现两头春",
-      "onboard_time": 1738329259,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 114156,
@@ -331,6 +331,30 @@
       "category": "国际时政,互联网"
     },
     {
+      "raw_hot": 91745,
+      "num": 138544,
+      "word": "王楚钦孙颖莎出战WTT新加坡大满贯",
+      "onboard_time": 1738339518,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 89119,
+      "num": 89119,
+      "word": "丁禹兮杠上花",
+      "onboard_time": 1738340477,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 85787,
+      "num": 85787,
+      "word": "特朗普称撞机事故都怪奥巴马和拜登",
+      "onboard_time": 1738336278,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 85705,
       "num": 85705,
       "word": "刘耀文答上了宋亚轩的抽象题",
@@ -339,20 +363,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 82727,
-      "num": 82727,
-      "word": "特朗普称撞机事故都怪奥巴马和拜登",
-      "onboard_time": 1738336278,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 80250,
-      "num": 80250,
-      "word": "丁禹兮杠上花",
-      "onboard_time": 1738340477,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 80010,
+      "num": 80010,
+      "word": "于冬 给我们打一星的全是黑水",
+      "onboard_time": 1738338079,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 78842,
@@ -361,14 +377,6 @@
       "onboard_time": 1738321997,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 78456,
-      "num": 138544,
-      "word": "王楚钦孙颖莎出战WTT新加坡大满贯",
-      "onboard_time": 1738339518,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 78232,
@@ -387,20 +395,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 75145,
-      "num": 75145,
-      "word": "于冬 给我们打一星的全是黑水",
-      "onboard_time": 1738338079,
-      "rank": 49,
-      "category": "电影"
+      "raw_hot": 68955,
+      "num": 68955,
+      "word": "大年初三大街小巷热热闹闹",
+      "onboard_time": 1738316719,
+      "rank": 48,
+      "category": "正能量"
     },
     {
-      "raw_hot": 63695,
+      "raw_hot": 65265,
       "num": 114241,
       "word": "王一博萧敬腾春晚我可以",
       "onboard_time": 1738332860,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 57633,
+      "num": 185848,
+      "word": "宠物们一定也知道过年了吧",
+      "onboard_time": 1738341257,
+      "rank": 15,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
