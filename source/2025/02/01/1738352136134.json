@@ -1,0 +1,410 @@
+{
+  "runTime": 1738352136134,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 186892,
+        "num": 186892,
+        "word": "哪吒2票房逆跌",
+        "onboard_time": 1738334779,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 69646,
+        "num": 69646,
+        "word": "美国打压DeepSeek的后果",
+        "onboard_time": 1738326858,
+        "rank": 1,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 24333,
+        "num": 62638,
+        "word": "中国人的春节传统走向世界了",
+        "onboard_time": 1738324099,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 124619,
+        "num": 61891,
+        "word": "春晚带火了四大城市",
+        "onboard_time": 1738344614,
+        "rank": 3,
+        "category": "综艺,旅游"
+      },
+      {
+        "raw_hot": 57929,
+        "num": 57929,
+        "word": "真的不要把鞭炮扔进下水道",
+        "onboard_time": 1738334001,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55609,
+        "num": 55609,
+        "word": "俄乌冲突让乌克兰倒退100年",
+        "onboard_time": 1738323799,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115306,
+        "num": 54970,
+        "word": "黑妮曝王菲父母哥哥均已离世",
+        "onboard_time": 1738332320,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108654,
+        "num": 52816,
+        "word": "于适 我们只想要公平",
+        "onboard_time": 1738337421,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 45115,
+        "num": 45115,
+        "word": "蛇是怎么混进十二生肖的",
+        "onboard_time": 1738335260,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45009,
+        "num": 45009,
+        "word": "火锅店3天净赚53.2万全给员工",
+        "onboard_time": 1738309697,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12595,
+        "num": 44644,
+        "word": "院士为学知识3天抄了1本书",
+        "onboard_time": 1738351332,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80000,
+        "num": 44442,
+        "word": "藕饼",
+        "onboard_time": 1738334961,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 61112,
+        "num": 43373,
+        "word": "吐排片",
+        "onboard_time": 1738323498,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 54762,
+        "num": 43022,
+        "word": "哪吒2票房破18亿",
+        "onboard_time": 1738340297,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 42766,
+        "num": 42766,
+        "word": "DeepSeek",
+        "onboard_time": 1738331600,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 48348,
+        "num": 41237,
+        "word": "哪吒2",
+        "onboard_time": 1738328359,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 45522,
+        "num": 40201,
+        "word": "封神2妲己严选的女孩是艾米",
+        "onboard_time": 1738323319,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 37937,
+        "num": 37937,
+        "word": "蛇是很多医学院校徽的主角",
+        "onboard_time": 1738327158,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 37708,
+        "num": 37708,
+        "word": "初三走亲戚为什么回家要早",
+        "onboard_time": 1738318877,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34581,
+        "num": 34581,
+        "word": "再也不去理发店洗头了",
+        "onboard_time": 1738331420,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 42011,
+        "num": 34550,
+        "word": "申公豹 丑强惨",
+        "onboard_time": 1738327638,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 34653,
+        "num": 34537,
+        "word": "于冬 给我们打一星的全是黑水",
+        "onboard_time": 1738338079,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 34492,
+        "num": 34492,
+        "word": "李昀锐挑染",
+        "onboard_time": 1738336339,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32466,
+        "num": 32466,
+        "word": "张康乐江浙沪潮男",
+        "onboard_time": 1738335679,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28409,
+        "num": 32227,
+        "word": "二月最幸运星座",
+        "onboard_time": 1738338018,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32124,
+        "num": 32124,
+        "word": "哪吒1",
+        "onboard_time": 1738351391,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30869,
+        "num": 30869,
+        "word": "唐探获中国影史系列电影票房冠军",
+        "onboard_time": 1738343175,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30223,
+        "num": 30223,
+        "word": "桃黑黑",
+        "onboard_time": 1738351213,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 29668,
+        "num": 29668,
+        "word": "哪吒2或将进入影史票房前三",
+        "onboard_time": 1738314798,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25476,
+        "num": 29443,
+        "word": "越南从韩国进口的无人机大批坠机",
+        "onboard_time": 1738320799,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 29227,
+        "num": 29227,
+        "word": "饼渣",
+        "onboard_time": 1738337058,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27405,
+        "num": 27405,
+        "word": "GOT7演唱会",
+        "onboard_time": 1738338259,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 27355,
+        "num": 27355,
+        "word": "WTT抽签仪式主持人用LunarNewYear",
+        "onboard_time": 1738334480,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27328,
+        "num": 27328,
+        "word": "打麻将摸到电话号码了",
+        "onboard_time": 1738329919,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26356,
+        "num": 26356,
+        "word": "大年初四接灶王",
+        "onboard_time": 1738345094,
+        "rank": 34,
+        "category": "健康医疗,运动健身"
+      },
+      {
+        "raw_hot": 26302,
+        "num": 26302,
+        "word": "给妹妹1000元帮我扛下所有战火",
+        "onboard_time": 1738329799,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25655,
+        "num": 25655,
+        "word": "光头强做了微整形还偷偷洗白了",
+        "onboard_time": 1738325359,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23915,
+        "num": 23915,
+        "word": "朋友圈背景图",
+        "onboard_time": 1738339518,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23911,
+        "num": 23911,
+        "word": "黄晓明与陈凯歌一家聚餐",
+        "onboard_time": 1738349592,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21728,
+        "num": 23031,
+        "word": "三亚西岛致歉",
+        "onboard_time": 1738332920,
+        "rank": 39,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 11063,
+        "num": 22926,
+        "word": "使千千万万个家庭成为梦想启航的地方",
+        "onboard_time": 1738350612,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22863,
+        "num": 22863,
+        "word": "DeepSeek满血版高速专线",
+        "onboard_time": 1738332740,
+        "rank": 41,
+        "category": "电竞,游戏"
+      },
+      {
+        "raw_hot": 22252,
+        "num": 22252,
+        "word": "程潇和妹妹新加坡度假",
+        "onboard_time": 1738333640,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21365,
+        "num": 21365,
+        "word": "乙巳蛇年为啥会出现两头春",
+        "onboard_time": 1738329259,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19994,
+        "num": 19994,
+        "word": "只要没结婚就能一直收红包",
+        "onboard_time": 1738334719,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19770,
+        "num": 19770,
+        "word": "哪吒2特效",
+        "onboard_time": 1738349952,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19461,
+        "num": 19461,
+        "word": "特朗普称撞机时黑鹰直升机高度过高",
+        "onboard_time": 1738349415,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18956,
+        "num": 18956,
+        "word": "黄晓明晒妈妈炸的鱼",
+        "onboard_time": 1738334241,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18902,
+        "num": 18902,
+        "word": "朕与嬛嬛何时有过嫌隙",
+        "onboard_time": 1738321997,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18814,
+        "num": 18814,
+        "word": "特朗普称撞机事故都怪奥巴马和拜登",
+        "onboard_time": 1738336278,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#注重家庭注重家教注重家风#"
+    }
+  }
+}

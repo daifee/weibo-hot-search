@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738351067715,
+  "endTime": 1738352136134,
   "band_list": [
     {
       "raw_hot": 1281311,
@@ -491,6 +491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 32124,
+      "num": 32124,
+      "word": "哪吒1",
+      "onboard_time": 1738351391,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 32081,
       "num": 75905,
       "word": "埃文凯尔说中国是他第二个家",
@@ -505,6 +513,14 @@
       "onboard_time": 1738332920,
       "rank": 42,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 30223,
+      "num": 30223,
+      "word": "桃黑黑",
+      "onboard_time": 1738351213,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 27833,
@@ -547,7 +563,15 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 10664,
+      "raw_hot": 12595,
+      "num": 44644,
+      "word": "院士为学知识3天抄了1本书",
+      "onboard_time": 1738351332,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11063,
       "num": 47973,
       "word": "使千千万万个家庭成为梦想启航的地方",
       "onboard_time": 1738350612,
