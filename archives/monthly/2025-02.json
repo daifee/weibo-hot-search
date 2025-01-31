@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738343959692,
+  "endTime": 1738344971666,
   "band_list": [
     {
       "raw_hot": 1281311,
@@ -315,6 +315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 93645,
+      "num": 93645,
+      "word": "唐探获中国影史系列电影票房冠军",
+      "onboard_time": 1738343175,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 93621,
       "num": 320292,
       "word": "中国人的春节传统走向世界了",
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 91970,
-      "num": 91970,
+      "num": 93897,
       "word": "美国打压DeepSeek的后果",
       "onboard_time": 1738326858,
       "rank": 41,
@@ -345,6 +353,14 @@
       "onboard_time": 1738340477,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86870,
+      "num": 101307,
+      "word": "春晚带火了四大城市",
+      "onboard_time": 1738344614,
+      "rank": 11,
+      "category": "综艺,旅游"
     },
     {
       "raw_hot": 85787,
@@ -403,14 +419,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 67317,
-      "num": 67317,
-      "word": "唐探获中国影史系列电影票房冠军",
-      "onboard_time": 1738343175,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 65265,
       "num": 114241,
       "word": "王一博萧敬腾春晚我可以",
@@ -427,6 +435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 57518,
+      "num": 57518,
+      "word": "越南从韩国进口的无人机大批坠机",
+      "onboard_time": 1738320799,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 55787,
       "num": 55787,
       "word": "藕饼交融",
@@ -435,12 +451,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 55183,
-      "num": 55183,
-      "word": "越南从韩国进口的无人机大批坠机",
-      "onboard_time": 1738320799,
-      "rank": 43,
-      "category": "海外新闻"
+      "raw_hot": 53116,
+      "num": 136004,
+      "word": "2025春节假期过半了",
+      "onboard_time": 1738342456,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46990,
@@ -451,12 +467,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31498,
-      "num": 136004,
-      "word": "2025春节假期过半了",
-      "onboard_time": 1738342456,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 43982,
+      "num": 43982,
+      "word": "那尔那茜八年空窗期都干了什么",
+      "onboard_time": 1738324699,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 23946,
