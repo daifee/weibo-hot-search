@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738291710993,
+  "endTime": 1738292249855,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1193,6 +1193,14 @@
       "onboard_time": 1738080508,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2431764,
+      "num": 2431764,
+      "word": "扔鞭炮进化粪池的男孩已被警方带走",
+      "onboard_time": 1738289537,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2418743,
@@ -2392,14 +2400,6 @@
       "word": "戚薇李承铉二胎儿子正脸照",
       "onboard_time": 1737703698,
       "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1743248,
-      "num": 505541,
-      "word": "星星女友呼吁不要听信谣言",
-      "onboard_time": 1736145021,
-      "rank": 3,
       "category": "艺人"
     }
   ],

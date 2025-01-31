@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/31 10:48:30
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/31 10:57:29
 </p>
 </blockquote>
 <p>
@@ -909,6 +909,12 @@ TikTok停止在美服务（热度：2463156）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%89%94%E9%9E%AD%E7%82%AE%E8%BF%9B%E5%8C%96%E7%B2%AA%E6%B1%A0%E7%9A%84%E7%94%B7%E5%AD%A9%E5%B7%B2%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%B8%A6%E8%B5%B0%23" target="weibo">
+扔鞭炮进化粪池的男孩已被警方带走（热度：2431764）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%8D%E5%AD%90%E7%9C%8B%E5%94%90%E6%8E%A2%E5%BC%BA%E8%A1%8C%E5%8D%A0%E5%BA%A7%E8%87%B4300%E5%A4%9A%E4%BA%BA%E9%80%80%E7%A5%A8%23" target="weibo">
 母子看唐探强行占座致300多人退票（热度：2418743）
 </a>
@@ -1805,12 +1811,6 @@ TikTok难民来啦（热度：1761821）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E6%9D%8E%E6%89%BF%E9%93%89%E4%BA%8C%E8%83%8E%E5%84%BF%E5%AD%90%E6%AD%A3%E8%84%B8%E7%85%A7%23" target="weibo">
 戚薇李承铉二胎儿子正脸照（热度：1753181）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%9F%E6%98%9F%E5%A5%B3%E5%8F%8B%E5%91%BC%E5%90%81%E4%B8%8D%E8%A6%81%E5%90%AC%E4%BF%A1%E8%B0%A3%E8%A8%80%23" target="weibo">
-星星女友呼吁不要听信谣言（热度：1743248）
 </a>
 </li>
 

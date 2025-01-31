@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738291710993,
+  "endTime": 1738292249855,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -321,6 +321,14 @@
       "onboard_time": 1738080508,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2431764,
+      "num": 2431764,
+      "word": "扔鞭炮进化粪池的男孩已被警方带走",
+      "onboard_time": 1738289537,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2418743,
@@ -763,14 +771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1258841,
-      "num": 1258841,
-      "word": "扔鞭炮进化粪池的男孩已被警方带走",
-      "onboard_time": 1738289537,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1258410,
       "num": 1059249,
       "word": "射雕口碑",
@@ -897,6 +897,14 @@
       "onboard_time": 1737881478,
       "rank": 3,
       "category": "民生新闻,电竞"
+    },
+    {
+      "raw_hot": 1106953,
+      "num": 1106953,
+      "word": "哪吒2票房",
+      "onboard_time": 1738288816,
+      "rank": 1,
+      "category": "电影"
     },
     {
       "raw_hot": 1106447,
@@ -1057,14 +1065,6 @@
       "onboard_time": 1737894979,
       "rank": 47,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 1017454,
-      "num": 1017454,
-      "word": "哪吒2票房",
-      "onboard_time": 1738288816,
-      "rank": 1,
-      "category": "电影"
     },
     {
       "raw_hot": 1014563,
@@ -3619,6 +3619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 417610,
+      "num": 273155,
+      "word": "睡懒觉",
+      "onboard_time": 1738289956,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 416771,
       "num": 384509,
       "word": "特朗普与洛杉矶市长爆发争吵",
@@ -3777,6 +3785,14 @@
       "onboard_time": 1738158561,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 398861,
+      "num": 398861,
+      "word": "初三宅家才是过年顶级仪式感",
+      "onboard_time": 1738282156,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 398292,
@@ -4745,14 +4761,6 @@
       "onboard_time": 1738143619,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 311323,
-      "num": 330753,
-      "word": "初三宅家才是过年顶级仪式感",
-      "onboard_time": 1738282156,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 310560,
@@ -5979,14 +5987,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 235125,
-      "num": 235125,
-      "word": "睡懒觉",
-      "onboard_time": 1738289956,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 234474,
       "num": 234474,
       "word": "机器人是被舞蹈演员押下去",
@@ -6273,6 +6273,14 @@
       "onboard_time": 1737883339,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221004,
+      "num": 254495,
+      "word": "朱一龙祝你新年有梦追梦圆梦",
+      "onboard_time": 1738290917,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 220907,
@@ -6849,6 +6857,14 @@
       "onboard_time": 1737883757,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204018,
+      "num": 204018,
+      "word": "埃文凯尔已启程回美国",
+      "onboard_time": 1738291516,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 203932,
@@ -7473,6 +7489,14 @@
       "onboard_time": 1738033638,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189974,
+      "num": 189974,
+      "word": "大年初三休息好",
+      "onboard_time": 1738290917,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189801,
@@ -8339,14 +8363,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 170056,
-      "num": 254495,
-      "word": "朱一龙祝你新年有梦追梦圆梦",
-      "onboard_time": 1738290917,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 169605,
       "num": 169605,
       "word": "小伙守护全村留守老人3年",
@@ -8473,14 +8489,6 @@
       "onboard_time": 1737975137,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 166530,
-      "num": 166530,
-      "word": "埃文凯尔已启程回美国",
-      "onboard_time": 1738291516,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 166299,
@@ -8859,6 +8867,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 158020,
+      "num": 221243,
+      "word": "男孩下水道扔鞭炮致爆炸多车被掀翻",
+      "onboard_time": 1738291155,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157855,
       "num": 269090,
       "word": "这届网友看电影就是图个吉利",
@@ -9113,6 +9129,14 @@
       "onboard_time": 1738206318,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 153605,
+      "num": 121868,
+      "word": "金店挂牌价涨至835元",
+      "onboard_time": 1738290796,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 152887,
@@ -9593,14 +9617,6 @@
       "onboard_time": 1738058962,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 144177,
-      "num": 144177,
-      "word": "大年初三休息好",
-      "onboard_time": 1738290917,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 144006,
@@ -10169,14 +10185,6 @@
       "onboard_time": 1738115180,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135335,
-      "num": 135335,
-      "word": "男孩下水道扔鞭炮致爆炸多车被掀翻",
-      "onboard_time": 1738291155,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134951,
@@ -10923,6 +10931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121967,
+      "num": 121967,
+      "word": "吴莫愁出道13年才登上春晚",
+      "onboard_time": 1738291876,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121950,
       "num": 121950,
       "word": "电影哪吒之魔童闹海",
@@ -11275,14 +11291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115727,
-      "num": 115727,
-      "word": "金店挂牌价涨至835元",
-      "onboard_time": 1738290796,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 115649,
       "num": 225174,
       "word": "女孩穿校服跳拉丁舞上央视",
@@ -11627,6 +11635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110460,
+      "num": 110460,
+      "word": "一个不想拜一个不想走",
+      "onboard_time": 1738279333,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110367,
       "num": 110367,
       "word": "韩国围棋队主教练称卞相壹心情沉重",
@@ -11931,6 +11947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106082,
+      "num": 106082,
+      "word": "丫丫开心吃饺子",
+      "onboard_time": 1738291576,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106046,
       "num": 112935,
       "word": "送你蛇年超绝福字",
@@ -12211,14 +12235,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 101390,
-      "num": 101390,
-      "word": "一个不想拜一个不想走",
-      "onboard_time": 1738279333,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 101358,
       "num": 253331,
       "word": "自驾回家遇暴雪电车不敢开空调",
@@ -12489,6 +12505,14 @@
       "onboard_time": 1737960375,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97514,
+      "num": 97514,
+      "word": "过年天天洗碗崩溃了",
+      "onboard_time": 1738284075,
+      "rank": 45,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 97277,
@@ -12771,6 +12795,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 93654,
+      "num": 93654,
+      "word": "春节档影片豆瓣开分哪吒暂列第一",
+      "onboard_time": 1738290196,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 93602,
       "num": 93602,
       "word": "答案预售中",
@@ -12903,14 +12935,6 @@
       "num": 91248,
       "word": "哪吒2豆瓣开分8.5",
       "onboard_time": 1738198338,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 91191,
-      "num": 91191,
-      "word": "春节档影片豆瓣开分哪吒暂列第一",
-      "onboard_time": 1738290196,
       "rank": 42,
       "category": "电影"
     },
@@ -13065,6 +13089,14 @@
       "onboard_time": 1738217958,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87887,
+      "num": 87887,
+      "word": "男子过年走亲戚遇户主撒土",
+      "onboard_time": 1738290917,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87623,
@@ -13281,14 +13313,6 @@
       "onboard_time": 1738238958,
       "rank": 42,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 84036,
-      "num": 84036,
-      "word": "过年天天洗碗崩溃了",
-      "onboard_time": 1738284075,
-      "rank": 45,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 83976,
@@ -13539,14 +13563,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 80390,
-      "num": 80390,
-      "word": "男子过年走亲戚遇户主撒土",
-      "onboard_time": 1738290917,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80370,
       "num": 80370,
       "word": "王楚钦手写日进斗金",
@@ -13625,14 +13641,6 @@
       "onboard_time": 1738030815,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 78170,
-      "num": 78170,
-      "word": "丫丫开心吃饺子",
-      "onboard_time": 1738291576,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 78105,
@@ -13801,6 +13809,14 @@
       "onboard_time": 1738287196,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 74576,
+      "num": 74576,
+      "word": "极限运动博主超级流浪师已失联1周",
+      "onboard_time": 1738290737,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74538,
@@ -14003,6 +14019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 69929,
+      "num": 265139,
+      "word": "春节档的第一波惊喜是哪吒给的",
+      "onboard_time": 1738289897,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 69904,
       "num": 140751,
       "word": "马龙新春惊喜拍立得",
@@ -14032,6 +14056,14 @@
       "word": "过年倒计时3天啦",
       "onboard_time": 1737859097,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69176,
+      "num": 74637,
+      "word": "熊孩子往下水道丢鞭炮地面被炸大坑",
+      "onboard_time": 1738292176,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -14065,14 +14097,6 @@
       "onboard_time": 1737882679,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 68623,
-      "num": 244974,
-      "word": "春节档的第一波惊喜是哪吒给的",
-      "onboard_time": 1738289897,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 68384,
@@ -14164,7 +14188,7 @@
     },
     {
       "raw_hot": 66836,
-      "num": 246654,
+      "num": 268187,
       "word": "美30天内发布撞机事故初步报告",
       "onboard_time": 1738289298,
       "rank": 14,
@@ -15257,6 +15281,14 @@
       "onboard_time": 1737982338,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 36981,
+      "num": 97728,
+      "word": "国际金价创下盘中新高",
+      "onboard_time": 1738292236,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 36795,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/31 10:48:30
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/31 10:57:29
 </p>
 </blockquote>
 <p>
@@ -905,6 +905,12 @@ TikTok停止在美服务（热度：2463156）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%94%B1%E4%BA%86%E8%B5%B5%E8%8B%B1%E4%BF%8A%E7%9A%84%E6%AD%8C%23" target="weibo">
 薛之谦唱了赵英俊的歌（热度：2432486）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%89%94%E9%9E%AD%E7%82%AE%E8%BF%9B%E5%8C%96%E7%B2%AA%E6%B1%A0%E7%9A%84%E7%94%B7%E5%AD%A9%E5%B7%B2%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%B8%A6%E8%B5%B0%23" target="weibo">
+扔鞭炮进化粪池的男孩已被警方带走（热度：2431764）
 </a>
 </li>
 
@@ -3351,12 +3357,6 @@ Angelababy发和儿子合照（热度：1295246）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%89%94%E9%9E%AD%E7%82%AE%E8%BF%9B%E5%8C%96%E7%B2%AA%E6%B1%A0%E7%9A%84%E7%94%B7%E5%AD%A9%E5%B7%B2%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%B8%A6%E8%B5%B0%23" target="weibo">
-扔鞭炮进化粪池的男孩已被警方带走（热度：1258841）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%84%E9%9B%95%E5%8F%A3%E7%A2%91%23" target="weibo">
 射雕口碑（热度：1258410）
 </a>
@@ -4107,6 +4107,12 @@ TikTok发声明（热度：1148125）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E7%A5%A8%E6%88%BF%23" target="weibo">
+哪吒2票房（热度：1106953）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A3%E9%9C%B2%E5%A8%83%E6%AD%BB%E5%98%B4%E5%BF%AB%E6%86%8B%E4%BD%8F%E5%95%8A%23" target="weibo">
 代露娃死嘴快憋住啊（热度：1106447）
 </a>
@@ -4697,12 +4703,6 @@ D3014次列车因撞鸟临时停车（热度：1020662）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%9B%E5%88%A9%E5%85%B0%E4%BB%8E%E9%9D%92%E6%A2%85%E7%AB%B9%E9%A9%AC%E5%8F%98%E5%A5%B3%E6%9C%8B%E5%8F%8B%23" target="weibo">
 毛利兰从青梅竹马变女朋友（热度：1017612）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E7%A5%A8%E6%88%BF%23" target="weibo">
-哪吒2票房（热度：1017454）
 </a>
 </li>
 
