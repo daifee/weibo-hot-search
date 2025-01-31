@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738297583179,
+  "endTime": 1738298383749,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -2595,6 +2595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 555412,
+      "num": 325952,
+      "word": "日本政府就DeepSeek表态",
+      "onboard_time": 1738295177,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 554633,
       "num": 330216,
       "word": "杨紫为了沈梦辰提前背了三天剧本",
@@ -3073,14 +3081,6 @@
       "onboard_time": 1738049359,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 493282,
-      "num": 189136,
-      "word": "日本政府就DeepSeek表态",
-      "onboard_time": 1738295177,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 492116,
@@ -4363,6 +4363,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 345894,
+      "num": 345894,
+      "word": "扎克伯格称仍在消化DeepSeek的成果",
+      "onboard_time": 1738292776,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 345091,
       "num": 285461,
       "word": "韩网评价陈哲远发红包",
@@ -4459,20 +4467,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 338873,
-      "num": 338873,
-      "word": "扎克伯格称仍在消化DeepSeek的成果",
-      "onboard_time": 1738292776,
-      "rank": 19,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 337819,
       "num": 349318,
       "word": "台湾嘉义县5.2级地震",
       "onboard_time": 1738204697,
       "rank": 15,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 337495,
+      "num": 337495,
+      "word": "徐志胜在哪都好认除了家里",
+      "onboard_time": 1738292356,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 337272,
@@ -4729,14 +4737,6 @@
       "onboard_time": 1738163000,
       "rank": 19,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 317891,
-      "num": 317891,
-      "word": "徐志胜在哪都好认除了家里",
-      "onboard_time": 1738292356,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 317696,
@@ -5299,6 +5299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 275552,
+      "num": 275552,
+      "word": "吴莫愁出道13年才登上春晚",
+      "onboard_time": 1738291876,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 275289,
       "num": 1360958,
       "word": "淘宝真的让我上春晚了",
@@ -5851,14 +5859,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 242468,
-      "num": 242468,
-      "word": "吴莫愁出道13年才登上春晚",
-      "onboard_time": 1738291876,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 242441,
       "num": 221243,
       "word": "男孩下水道扔鞭炮致爆炸多车被掀翻",
@@ -5953,6 +5953,14 @@
       "onboard_time": 1737868279,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 239131,
+      "num": 239131,
+      "word": "美国撞机事故两名中国公民遇难",
+      "onboard_time": 1738293917,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 238957,
@@ -6075,6 +6083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233748,
+      "num": 233748,
+      "word": "谁把许仙的中药换成冰美式了",
+      "onboard_time": 1738297936,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232495,
       "num": 202061,
       "word": "赵雅芝71岁状态比我21的还精神",
@@ -6112,6 +6128,14 @@
       "word": "OneRepublic确认将登上央视春晚",
       "onboard_time": 1737983538,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 231000,
+      "num": 231000,
+      "word": "第一次上大学就上春晚是什么感受",
+      "onboard_time": 1738296976,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -6355,6 +6379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220625,
+      "num": 220625,
+      "word": "黄蓉眼神",
+      "onboard_time": 1738297336,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 220173,
       "num": 220173,
       "word": "文脉华章",
@@ -6499,6 +6531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 216249,
+      "num": 216249,
+      "word": "邓婵玉",
+      "onboard_time": 1738296796,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 216071,
       "num": 216071,
       "word": "杭州70岁肖战粉去影院看射雕",
@@ -6555,6 +6595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 214513,
+      "num": 214513,
+      "word": "哪吒2",
+      "onboard_time": 1738148659,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 214382,
       "num": 214382,
       "word": "DeepSeek搅动纳斯达克",
@@ -6569,6 +6617,14 @@
       "onboard_time": 1737896181,
       "rank": 32,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 213660,
+      "num": 213660,
+      "word": "给我多年的英语功底整没了",
+      "onboard_time": 1738294398,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 213480,
@@ -6835,14 +6891,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 205346,
-      "num": 196594,
-      "word": "美国撞机事故两名中国公民遇难",
-      "onboard_time": 1738293917,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 205320,
       "num": 756383,
       "word": "春节期间近4成人群选择出游",
@@ -6897,14 +6945,6 @@
       "onboard_time": 1737904641,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204477,
-      "num": 194520,
-      "word": "给我多年的英语功底整没了",
-      "onboard_time": 1738294398,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 204423,
@@ -7355,6 +7395,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 194211,
+      "num": 331847,
+      "word": "美撞机事故前一飞机曾因直升机绕道",
+      "onboard_time": 1738294338,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 194052,
       "num": 170264,
       "word": "日本富士台再爆性丑闻",
@@ -7547,14 +7595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190737,
-      "num": 196080,
-      "word": "哪吒2",
-      "onboard_time": 1738148659,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 190533,
       "num": 155498,
       "word": "别让我在大年初一生气",
@@ -7651,14 +7691,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 188887,
-      "num": 188887,
-      "word": "第一次上大学就上春晚是什么感受",
-      "onboard_time": 1738296976,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 188862,
       "num": 228243,
       "word": "一人一句迎接蛇年春节",
@@ -7705,6 +7737,14 @@
       "onboard_time": 1737980717,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188085,
+      "num": 188085,
+      "word": "二刷国色芳华看懂的细节",
+      "onboard_time": 1738297157,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 187968,
@@ -8000,6 +8040,14 @@
       "word": "封神2邓婵玉没有官配",
       "onboard_time": 1738133658,
       "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 180612,
+      "num": 209872,
+      "word": "长大后和申公豹深深共情了",
+      "onboard_time": 1738297818,
+      "rank": 29,
       "category": "电影"
     },
     {
@@ -8339,14 +8387,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 172762,
-      "num": 189205,
-      "word": "邓婵玉",
-      "onboard_time": 1738296796,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 172757,
       "num": 172757,
       "word": "蛇年过年快胖成肥蛇了",
@@ -8496,14 +8536,6 @@
       "word": "虞书欣林一这个视频没有退出键",
       "onboard_time": 1738218556,
       "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 168960,
-      "num": 168960,
-      "word": "二刷国色芳华看懂的细节",
-      "onboard_time": 1738297157,
-      "rank": 33,
       "category": "剧集"
     },
     {
@@ -8793,6 +8825,14 @@
       "onboard_time": 1737901582,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 162532,
+      "num": 162532,
+      "word": "陈思诚分享唐探十年独家花絮",
+      "onboard_time": 1738298176,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 162502,
@@ -9499,6 +9539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149500,
+      "num": 149500,
+      "word": "郭靖去了趟中原什么都懂了",
+      "onboard_time": 1738297877,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 149268,
       "num": 149268,
       "word": "薛之谦自曝在家拿衣架彩排",
@@ -10139,6 +10187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138018,
+      "num": 138018,
+      "word": "2025春节档票房破38亿",
+      "onboard_time": 1738293017,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 137980,
       "num": 137980,
       "word": "肖战蓝色流苏外套",
@@ -10355,6 +10411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135160,
+      "num": 336337,
+      "word": "外交部回应美国客机和军机相撞",
+      "onboard_time": 1738297217,
+      "rank": 26,
+      "category": "国内时政,国际时政"
+    },
+    {
       "raw_hot": 134951,
       "num": 134951,
       "word": "杨紫李现秒变吃瓜群众",
@@ -10377,14 +10441,6 @@
       "onboard_time": 1737988638,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134611,
-      "num": 125510,
-      "word": "2025春节档票房破38亿",
-      "onboard_time": 1738293017,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 134358,
@@ -11353,14 +11409,6 @@
       "onboard_time": 1737864738,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 118488,
-      "num": 118488,
-      "word": "黄蓉眼神",
-      "onboard_time": 1738297336,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 118272,
@@ -12555,14 +12603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99641,
-      "num": 193498,
-      "word": "外交部回应美国客机和军机相撞",
-      "onboard_time": 1738297217,
-      "rank": 26,
-      "category": "国内时政,国际时政"
-    },
-    {
       "raw_hot": 99518,
       "num": 99518,
       "word": "DeepSeek美区苹果下载榜超过ChatGPT",
@@ -12657,14 +12697,6 @@
       "onboard_time": 1737865457,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 97941,
-      "num": 317741,
-      "word": "美撞机事故前一飞机曾因直升机绕道",
-      "onboard_time": 1738294338,
-      "rank": 49,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 97911,
@@ -12948,7 +12980,7 @@
     },
     {
       "raw_hot": 94744,
-      "num": 94744,
+      "num": 222771,
       "word": "明日方舟",
       "onboard_time": 1738295477,
       "rank": 45,
@@ -13201,6 +13233,14 @@
       "onboard_time": 1737909915,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 90566,
+      "num": 90566,
+      "word": "蛇年为什么有384天",
+      "onboard_time": 1738298357,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90510,
@@ -15172,7 +15212,7 @@
     },
     {
       "raw_hot": 45429,
-      "num": 316105,
+      "num": 340630,
       "word": "非遗版春节年味壁纸",
       "onboard_time": 1738296017,
       "rank": 9,
@@ -16155,6 +16195,14 @@
       "category": "互联网,数码"
     },
     {
+      "raw_hot": 23731,
+      "num": 234471,
+      "word": "美容店向未成年人提供文身服务被罚",
+      "onboard_time": 1738296916,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23719,
       "num": 154718,
       "word": "女主演说短剧让普通演员更容易被看到",
@@ -16249,6 +16297,14 @@
       "onboard_time": 1738177273,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 22494,
+      "num": 233943,
+      "word": "起底美国撞机事故涉事直升机",
+      "onboard_time": 1738298176,
+      "rank": 21,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 22476,
@@ -16473,14 +16529,6 @@
       "onboard_time": 1737903561,
       "rank": 35,
       "category": "体育,综艺"
-    },
-    {
-      "raw_hot": 17915,
-      "num": 203437,
-      "word": "美容店向未成年人提供文身服务被罚",
-      "onboard_time": 1738296916,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17804,

@@ -1,6 +1,6 @@
 {
   "startTime": 1738254491138,
-  "endTime": 1738297583179,
+  "endTime": 1738298383749,
   "band_list": [
     {
       "raw_hot": 3591172,
@@ -115,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 555412,
+      "num": 325952,
+      "word": "日本政府就DeepSeek表态",
+      "onboard_time": 1738295177,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 554158,
       "num": 554158,
       "word": "正月初三扫一扫",
@@ -129,14 +137,6 @@
       "onboard_time": 1738286296,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 493282,
-      "num": 189136,
-      "word": "日本政府就DeepSeek表态",
-      "onboard_time": 1738295177,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 485979,
@@ -251,6 +251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 345894,
+      "num": 345894,
+      "word": "扎克伯格称仍在消化DeepSeek的成果",
+      "onboard_time": 1738292776,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 343975,
       "num": 343975,
       "word": "麻辣王子家过年被小朋友挤爆",
@@ -259,26 +267,18 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 338873,
-      "num": 338873,
-      "word": "扎克伯格称仍在消化DeepSeek的成果",
-      "onboard_time": 1738292776,
-      "rank": 19,
-      "category": "互联网"
+      "raw_hot": 337495,
+      "num": 337495,
+      "word": "徐志胜在哪都好认除了家里",
+      "onboard_time": 1738292356,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 331789,
       "num": 182518,
       "word": "范丞丞直播角度太暧昧了",
       "onboard_time": 1738247838,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 317891,
-      "num": 317891,
-      "word": "徐志胜在哪都好认除了家里",
-      "onboard_time": 1738292356,
       "rank": 21,
       "category": "艺人"
     },
@@ -297,6 +297,14 @@
       "onboard_time": 1738282815,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 275552,
+      "num": 275552,
+      "word": "吴莫愁出道13年才登上春晚",
+      "onboard_time": 1738291876,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 274249,
@@ -339,14 +347,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 242468,
-      "num": 242468,
-      "word": "吴莫愁出道13年才登上春晚",
-      "onboard_time": 1738291876,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 242441,
       "num": 221243,
       "word": "男孩下水道扔鞭炮致爆炸多车被掀翻",
@@ -361,6 +361,14 @@
       "onboard_time": 1738279273,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 239131,
+      "num": 239131,
+      "word": "美国撞机事故两名中国公民遇难",
+      "onboard_time": 1738293917,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 238225,
@@ -379,12 +387,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 233748,
+      "num": 233748,
+      "word": "谁把许仙的中药换成冰美式了",
+      "onboard_time": 1738297936,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231909,
       "num": 168292,
       "word": "小孩放鞭炮扔下水道引发爆炸",
       "onboard_time": 1738285576,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 231000,
+      "num": 231000,
+      "word": "第一次上大学就上春晚是什么感受",
+      "onboard_time": 1738296976,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 228578,
@@ -411,6 +435,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220625,
+      "num": 220625,
+      "word": "黄蓉眼神",
+      "onboard_time": 1738297336,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 216249,
+      "num": 216249,
+      "word": "邓婵玉",
+      "onboard_time": 1738296796,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 216071,
       "num": 216071,
       "word": "杭州70岁肖战粉去影院看射雕",
@@ -419,28 +459,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 214513,
+      "num": 214513,
+      "word": "哪吒2",
+      "onboard_time": 1738279215,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 213660,
+      "num": 213660,
+      "word": "给我多年的英语功底整没了",
+      "onboard_time": 1738294398,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 212049,
       "num": 180495,
       "word": "邓婵玉撕掉了女性被凝视困境",
       "onboard_time": 1738239379,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 205346,
-      "num": 196594,
-      "word": "美国撞机事故两名中国公民遇难",
-      "onboard_time": 1738293917,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 204477,
-      "num": 194520,
-      "word": "给我多年的英语功底整没了",
-      "onboard_time": 1738294398,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 204018,
@@ -475,6 +515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 194211,
+      "num": 331847,
+      "word": "美撞机事故前一飞机曾因直升机绕道",
+      "onboard_time": 1738294338,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 193879,
       "num": 170120,
       "word": "拍全家福时仙女棒意外引燃鞭炮",
@@ -491,14 +539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 190737,
-      "num": 190737,
-      "word": "哪吒2",
-      "onboard_time": 1738279215,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 189974,
       "num": 189974,
       "word": "大年初三休息好",
@@ -507,12 +547,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 188887,
-      "num": 188887,
-      "word": "第一次上大学就上春晚是什么感受",
-      "onboard_time": 1738296976,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 188085,
+      "num": 188085,
+      "word": "二刷国色芳华看懂的细节",
+      "onboard_time": 1738297157,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 180612,
+      "num": 209872,
+      "word": "长大后和申公豹深深共情了",
+      "onboard_time": 1738297818,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 180462,
@@ -555,28 +603,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 172762,
-      "num": 189205,
-      "word": "邓婵玉",
-      "onboard_time": 1738296796,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 168960,
-      "num": 168960,
-      "word": "二刷国色芳华看懂的细节",
-      "onboard_time": 1738297157,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 167863,
       "num": 167863,
       "word": "春晚哪首歌是你心中最佳",
       "onboard_time": 1738234517,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162532,
+      "num": 162532,
+      "word": "陈思诚分享唐探十年独家花絮",
+      "onboard_time": 1738298176,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 160623,
@@ -624,6 +664,14 @@
       "word": "吉克隽逸一开口我满脑子都是邓婵玉",
       "onboard_time": 1738296976,
       "rank": 37,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 149500,
+      "num": 149500,
+      "word": "郭靖去了趟中原什么都懂了",
+      "onboard_time": 1738297877,
+      "rank": 39,
       "category": "电影"
     },
     {
@@ -675,20 +723,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138018,
+      "num": 138018,
+      "word": "2025春节档票房破38亿",
+      "onboard_time": 1738293017,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 135160,
+      "num": 336337,
+      "word": "外交部回应美国客机和军机相撞",
+      "onboard_time": 1738297217,
+      "rank": 26,
+      "category": "国内时政,国际时政"
+    },
+    {
       "raw_hot": 135050,
       "num": 186571,
       "word": "一县城影院推无座票售价与有座相同",
       "onboard_time": 1738243759,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 134611,
-      "num": 125510,
-      "word": "2025春节档票房破38亿",
-      "onboard_time": 1738293017,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 133283,
@@ -747,14 +803,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 118488,
-      "num": 118488,
-      "word": "黄蓉眼神",
-      "onboard_time": 1738297336,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 113768,
       "num": 113768,
       "word": "丫丫开心吃饺子",
@@ -801,22 +849,6 @@
       "onboard_time": 1738280714,
       "rank": 35,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 99641,
-      "num": 193498,
-      "word": "外交部回应美国客机和军机相撞",
-      "onboard_time": 1738297217,
-      "rank": 26,
-      "category": "国内时政,国际时政"
-    },
-    {
-      "raw_hot": 97941,
-      "num": 317741,
-      "word": "美撞机事故前一飞机曾因直升机绕道",
-      "onboard_time": 1738294338,
-      "rank": 49,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 97769,
@@ -876,7 +908,7 @@
     },
     {
       "raw_hot": 94744,
-      "num": 94744,
+      "num": 222771,
       "word": "明日方舟",
       "onboard_time": 1738295477,
       "rank": 45,
@@ -944,6 +976,14 @@
       "word": "正月初五新一轮冷空气来袭",
       "onboard_time": 1738276391,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90566,
+      "num": 90566,
+      "word": "蛇年为什么有384天",
+      "onboard_time": 1738298357,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -1204,7 +1244,7 @@
     },
     {
       "raw_hot": 45429,
-      "num": 316105,
+      "num": 340630,
       "word": "非遗版春节年味壁纸",
       "onboard_time": 1738296017,
       "rank": 9,
@@ -1315,6 +1355,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 23731,
+      "num": 234471,
+      "word": "美容店向未成年人提供文身服务被罚",
+      "onboard_time": 1738296916,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22494,
+      "num": 233943,
+      "word": "起底美国撞机事故涉事直升机",
+      "onboard_time": 1738298176,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 20640,
       "num": 24832,
       "word": "美国撞机事故目击者发声",
@@ -1329,14 +1385,6 @@
       "onboard_time": 1738258453,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 17915,
-      "num": 203437,
-      "word": "美容店向未成年人提供文身服务被罚",
-      "onboard_time": 1738296916,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15426,
