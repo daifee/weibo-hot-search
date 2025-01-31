@@ -1,6 +1,6 @@
 {
   "startTime": 1738254491138,
-  "endTime": 1738305821171,
+  "endTime": 1738308033571,
   "band_list": [
     {
       "raw_hot": 3591172,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 615178,
-      "num": 208305,
+      "num": 281821,
       "word": "射雕 删减",
       "onboard_time": 1738302317,
       "rank": 7,
@@ -185,6 +185,14 @@
       "onboard_time": 1738298837,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 508645,
+      "num": 508645,
+      "word": "金饰价格飙至835元一克",
+      "onboard_time": 1738306097,
+      "rank": 1,
+      "category": "财经"
     },
     {
       "raw_hot": 485979,
@@ -363,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 308285,
+      "num": 308285,
+      "word": "趵突泉猪鲤减肥失败",
+      "onboard_time": 1738302497,
+      "rank": 14,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 289691,
       "num": 268743,
       "word": "刘昊然影史首位票房200亿90后男主演",
@@ -539,14 +555,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 214989,
-      "num": 205177,
-      "word": "趵突泉猪鲤减肥失败",
-      "onboard_time": 1738302497,
-      "rank": 14,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 214513,
       "num": 214513,
       "word": "哪吒2",
@@ -651,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191000,
+      "num": 155316,
+      "word": "于适说姬发从来没有退缩过",
+      "onboard_time": 1738306097,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 189974,
       "num": 189974,
       "word": "大年初三休息好",
@@ -665,6 +681,14 @@
       "onboard_time": 1738297157,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183199,
+      "num": 183728,
+      "word": "春节爬完黄山看非遗表演太City了",
+      "onboard_time": 1738299257,
+      "rank": 19,
+      "category": "正能量,旅游"
     },
     {
       "raw_hot": 180462,
@@ -713,6 +737,22 @@
       "onboard_time": 1738281075,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170899,
+      "num": 151922,
+      "word": "朱一龙春晚接窗花镜头录了20次",
+      "onboard_time": 1738306816,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 170410,
+      "num": 151647,
+      "word": "SM新男团将下半年出道",
+      "onboard_time": 1738305798,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 167863,
@@ -779,6 +819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 156193,
+      "num": 156193,
+      "word": "欧阳娜娜抱外甥",
+      "onboard_time": 1738303816,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153833,
       "num": 153833,
       "word": "中国手艺人把蛋壳变镂空艺术品",
@@ -811,14 +859,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 151038,
-      "num": 183728,
-      "word": "春节爬完黄山看非遗表演太City了",
-      "onboard_time": 1738299257,
-      "rank": 19,
-      "category": "正能量,旅游"
-    },
-    {
       "raw_hot": 149500,
       "num": 149500,
       "word": "郭靖去了趟中原什么都懂了",
@@ -827,12 +867,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 148494,
-      "num": 132806,
-      "word": "欧阳娜娜抱外甥",
-      "onboard_time": 1738303816,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 149030,
+      "num": 149030,
+      "word": "三亚西岛景区回应大量游客滞留",
+      "onboard_time": 1738306158,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148350,
@@ -1027,6 +1067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123056,
+      "num": 123056,
+      "word": "辛巴带货的海鲜大礼包疑似翻车",
+      "onboard_time": 1738306037,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
       "raw_hot": 122840,
       "num": 117471,
       "word": "Jennie新单曲MV",
@@ -1147,6 +1195,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 105382,
+      "num": 95328,
+      "word": "埃文凯尔上春晚后收到信息轰炸",
+      "onboard_time": 1738306336,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103945,
       "num": 103945,
       "word": "杨玉环新皮肤特效",
@@ -1193,14 +1249,6 @@
       "onboard_time": 1738293437,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 97077,
-      "num": 96484,
-      "word": "SM新男团将下半年出道",
-      "onboard_time": 1738305798,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 96784,
@@ -1265,6 +1313,14 @@
       "onboard_time": 1738255937,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92975,
+      "num": 96573,
+      "word": "新兰新婚夫妻感",
+      "onboard_time": 1738304895,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 92246,
@@ -1347,6 +1403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 88298,
+      "num": 78307,
+      "word": "单依纯粤语清唱情人",
+      "onboard_time": 1738307237,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 87210,
       "num": 87210,
       "word": "未来都市再会",
@@ -1377,6 +1441,14 @@
       "onboard_time": 1738285276,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85490,
+      "num": 85490,
+      "word": "李豪凌",
+      "onboard_time": 1738306877,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 85327,
@@ -1443,14 +1515,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 77148,
-      "num": 96573,
-      "word": "新兰新婚夫妻感",
-      "onboard_time": 1738304895,
-      "rank": 49,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 74865,
       "num": 74865,
       "word": "金智秀新专回归预告",
@@ -1481,6 +1545,14 @@
       "onboard_time": 1738287736,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 71128,
+      "num": 189327,
+      "word": "美国会办公室被警告勿使用DeepSeek",
+      "onboard_time": 1738307357,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 70578,
@@ -1553,6 +1625,14 @@
       "onboard_time": 1738254137,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 55434,
+      "num": 81076,
+      "word": "吴汉坤封神有效抬人",
+      "onboard_time": 1738306517,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 50018,
@@ -1729,6 +1809,14 @@
       "onboard_time": 1738268531,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 18951,
+      "num": 85118,
+      "word": "春节档打起玄学商战",
+      "onboard_time": 1738307957,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 18790,

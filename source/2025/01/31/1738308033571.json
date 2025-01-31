@@ -1,0 +1,410 @@
+{
+  "runTime": 1738308033571,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 991325,
+        "num": 1158612,
+        "word": "薛凯琪春晚的妆是钟楚曦画的",
+        "onboard_time": 1738301897,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 508645,
+        "num": 508645,
+        "word": "金饰价格飙至835元一克",
+        "onboard_time": 1738306097,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 70918,
+        "num": 494645,
+        "word": "一条视频看懂正月初三年俗",
+        "onboard_time": 1738295356,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 490824,
+        "num": 490824,
+        "word": "乌尔善回应封神2争议",
+        "onboard_time": 1738300817,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 483171,
+        "num": 483171,
+        "word": "日本政府就DeepSeek表态",
+        "onboard_time": 1738295177,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 308285,
+        "num": 308285,
+        "word": "趵突泉猪鲤减肥失败",
+        "onboard_time": 1738302497,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 481478,
+        "num": 281821,
+        "word": "射雕 删减",
+        "onboard_time": 1738302317,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 395698,
+        "num": 280984,
+        "word": "李宇春第一时间取消连续包月",
+        "onboard_time": 1738300217,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200416,
+        "num": 200416,
+        "word": "正月初三扫一扫",
+        "onboard_time": 1738289236,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 161787,
+        "num": 199984,
+        "word": "东部战区海军发布视频踏浪横戈",
+        "onboard_time": 1738304476,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 326024,
+        "num": 199983,
+        "word": "哪吒2票房",
+        "onboard_time": 1738288816,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199837,
+        "num": 199837,
+        "word": "白鹿终于加到了宋佳微信",
+        "onboard_time": 1738293077,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293384,
+        "num": 197524,
+        "word": "2025春节档票房破40亿",
+        "onboard_time": 1738299377,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 194914,
+        "num": 194914,
+        "word": "初三宅家才是过年顶级仪式感",
+        "onboard_time": 1738282156,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71128,
+        "num": 189327,
+        "word": "美国会办公室被警告勿使用DeepSeek",
+        "onboard_time": 1738307357,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 189216,
+        "num": 189216,
+        "word": "美国撞机事故两名中国公民遇难",
+        "onboard_time": 1738293917,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 183199,
+        "num": 183199,
+        "word": "春节爬完黄山看非遗表演太City了",
+        "onboard_time": 1738299257,
+        "rank": 16,
+        "category": "正能量,旅游"
+      },
+      {
+        "raw_hot": 172643,
+        "num": 172643,
+        "word": "正月初三睡到饱",
+        "onboard_time": 1738301597,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156855,
+        "num": 156855,
+        "word": "蛇年为什么有384天",
+        "onboard_time": 1738298357,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156193,
+        "num": 156193,
+        "word": "欧阳娜娜抱外甥",
+        "onboard_time": 1738303816,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191000,
+        "num": 155316,
+        "word": "于适说姬发从来没有退缩过",
+        "onboard_time": 1738306097,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 343059,
+        "num": 153504,
+        "word": "李雨霏自曝童年曾被舅舅猥亵",
+        "onboard_time": 1738293137,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170899,
+        "num": 151922,
+        "word": "朱一龙春晚接窗花镜头录了20次",
+        "onboard_time": 1738306816,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170410,
+        "num": 151647,
+        "word": "SM新男团将下半年出道",
+        "onboard_time": 1738305798,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168806,
+        "num": 149873,
+        "word": "哪吒2",
+        "onboard_time": 1738279215,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149030,
+        "num": 149030,
+        "word": "三亚西岛景区回应大量游客滞留",
+        "onboard_time": 1738306158,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131402,
+        "num": 131402,
+        "word": "小伙到女友家过年撞脸丈母娘",
+        "onboard_time": 1738304117,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130079,
+        "num": 130079,
+        "word": "外甥给1岁八个月小姨拜年要红包",
+        "onboard_time": 1738299436,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123072,
+        "num": 123072,
+        "word": "白鹿感谢陈哲远",
+        "onboard_time": 1738298837,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123056,
+        "num": 123056,
+        "word": "辛巴带货的海鲜大礼包疑似翻车",
+        "onboard_time": 1738306037,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 118366,
+        "num": 118366,
+        "word": "娜然妲己归来是什么美强惨",
+        "onboard_time": 1738303037,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115117,
+        "num": 115117,
+        "word": "周冬雨素颜生日照",
+        "onboard_time": 1738303697,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108119,
+        "num": 108119,
+        "word": "敖丙他爸出场 哇声一片",
+        "onboard_time": 1738251139,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105988,
+        "num": 105988,
+        "word": "余承恩家人觉得他不帅",
+        "onboard_time": 1738299976,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96733,
+        "num": 96733,
+        "word": "国内足金首饰1克突破846元",
+        "onboard_time": 1738292836,
+        "rank": 34,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 105382,
+        "num": 95328,
+        "word": "埃文凯尔上春晚后收到信息轰炸",
+        "onboard_time": 1738306336,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92975,
+        "num": 92975,
+        "word": "新兰新婚夫妻感",
+        "onboard_time": 1738304895,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 86357,
+        "num": 86357,
+        "word": "美国24年来最严重空难",
+        "onboard_time": 1738281314,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 85490,
+        "num": 85490,
+        "word": "李豪凌",
+        "onboard_time": 1738306877,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 18951,
+        "num": 85118,
+        "word": "春节档打起玄学商战",
+        "onboard_time": 1738307957,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105093,
+        "num": 82942,
+        "word": "泰国偶遇沙溢胡可一家",
+        "onboard_time": 1738303458,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93993,
+        "num": 82493,
+        "word": "唐探1900名字隐喻",
+        "onboard_time": 1738304297,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 55434,
+        "num": 81076,
+        "word": "吴汉坤封神有效抬人",
+        "onboard_time": 1738306517,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92147,
+        "num": 79188,
+        "word": "谁把许仙的中药换成冰美式了",
+        "onboard_time": 1738297936,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88298,
+        "num": 78307,
+        "word": "单依纯粤语清唱情人",
+        "onboard_time": 1738307237,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77281,
+        "num": 77281,
+        "word": "扎克伯格称仍在消化DeepSeek的成果",
+        "onboard_time": 1738292776,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 76204,
+        "num": 77273,
+        "word": "初三送穷鬼",
+        "onboard_time": 1738298656,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 66773,
+        "num": 77269,
+        "word": "孙颖莎王楚钦抵达新加坡",
+        "onboard_time": 1738300398,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65825,
+        "num": 77257,
+        "word": "1月的最后一天",
+        "onboard_time": 1738281075,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61500,
+        "num": 77251,
+        "word": "印度部长举例DeepSeek回应质疑",
+        "onboard_time": 1738301897,
+        "rank": 49,
+        "category": "国际时政,互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#和总书记一起感受浓浓年味#"
+    }
+  }
+}
