@@ -1,6 +1,6 @@
 {
   "startTime": 1738254491138,
-  "endTime": 1738319995573,
+  "endTime": 1738322319285,
   "band_list": [
     {
       "raw_hot": 3591172,
@@ -123,6 +123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 799390,
+      "num": 799390,
+      "word": "初三走亲戚为什么回家要早",
+      "onboard_time": 1738318877,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 773929,
       "num": 869627,
       "word": "肖战 郭靖",
@@ -219,6 +227,14 @@
       "category": "民生新闻,旅游"
     },
     {
+      "raw_hot": 555592,
+      "num": 555592,
+      "word": "爷爷去世七年砍的柴还没用",
+      "onboard_time": 1738317678,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 554158,
       "num": 554158,
       "word": "正月初三扫一扫",
@@ -241,14 +257,6 @@
       "onboard_time": 1738315999,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 518921,
-      "num": 362030,
-      "word": "爷爷去世七年砍的柴还没用",
-      "onboard_time": 1738317678,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 513939,
@@ -305,6 +313,14 @@
       "onboard_time": 1738309756,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 448507,
+      "num": 448507,
+      "word": "永川地震",
+      "onboard_time": 1738318337,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 445223,
@@ -395,6 +411,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 392633,
+      "num": 392633,
+      "word": "英伟达上线DeepSeek",
+      "onboard_time": 1738316599,
+      "rank": 13,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 387819,
       "num": 324819,
       "word": "全红婵晒百张照片请网友看烟花",
@@ -409,14 +433,6 @@
       "onboard_time": 1738311197,
       "rank": 10,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 370306,
-      "num": 370306,
-      "word": "英伟达上线DeepSeek",
-      "onboard_time": 1738316599,
-      "rank": 13,
-      "category": "互联网"
     },
     {
       "raw_hot": 363423,
@@ -537,14 +553,6 @@
       "onboard_time": 1738282815,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 282400,
-      "num": 282400,
-      "word": "永川地震",
-      "onboard_time": 1738318337,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 281985,
@@ -721,14 +729,6 @@
       "onboard_time": 1738236138,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 223381,
-      "num": 200371,
-      "word": "初三走亲戚为什么回家要早",
-      "onboard_time": 1738318877,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 221004,
@@ -1003,6 +1003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168031,
+      "num": 168031,
+      "word": "徐明浩直播",
+      "onboard_time": 1738320859,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167863,
       "num": 167863,
       "word": "春晚哪首歌是你心中最佳",
@@ -1017,6 +1025,14 @@
       "onboard_time": 1738303458,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 163773,
+      "num": 163773,
+      "word": "王楚钦首轮对阵宇田幸矢",
+      "onboard_time": 1738320319,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 162647,
@@ -1499,12 +1515,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118559,
+      "num": 118559,
+      "word": "北海打了十年的原因",
+      "onboard_time": 1738320978,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 116735,
+      "num": 112678,
+      "word": "黑兔老师画德克萨斯",
+      "onboard_time": 1738322120,
+      "rank": 30,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 114854,
       "num": 114854,
       "word": "破太岁",
       "onboard_time": 1738313538,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 113886,
+      "num": 113886,
+      "word": "朕与嬛嬛何时有过嫌隙",
+      "onboard_time": 1738321997,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 113768,
@@ -1523,12 +1563,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 113744,
+      "num": 113744,
+      "word": "王鹤棣大奉打更人集均破5000万",
+      "onboard_time": 1738321098,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112800,
       "num": 108224,
       "word": "王一博春晚高清大图",
       "onboard_time": 1738299798,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112538,
+      "num": 112538,
+      "word": "Minnie初一位",
+      "onboard_time": 1738321759,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 112360,
@@ -1577,6 +1633,14 @@
       "onboard_time": 1738301476,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109934,
+      "num": 112695,
+      "word": "越南从韩国进口的无人机大批坠机",
+      "onboard_time": 1738320799,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 108272,
@@ -1689,6 +1753,14 @@
       "onboard_time": 1738308857,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98444,
+      "num": 98444,
+      "word": "易烊千玺演脑瘫患者经历了什么",
+      "onboard_time": 1738322120,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 98416,
@@ -1971,6 +2043,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 86883,
+      "num": 98591,
+      "word": "王楚钦回应如何保持冷静",
+      "onboard_time": 1738320799,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 86842,
+      "num": 86842,
+      "word": "王楚钦说很少有机会与家人团聚",
+      "onboard_time": 1738321160,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86788,
       "num": 86788,
       "word": "王铮亮成迪拜新晋打卡点",
@@ -2065,6 +2153,14 @@
       "onboard_time": 1738245978,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81778,
+      "num": 81778,
+      "word": "肖战版射雕如何焕新中国武侠",
+      "onboard_time": 1738322300,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 79986,
@@ -2489,6 +2585,14 @@
       "onboard_time": 1738270151,
       "rank": 25,
       "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 11270,
+      "num": 332789,
+      "word": "人民网评春节档票房创纪录",
+      "onboard_time": 1738321578,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 10908,
