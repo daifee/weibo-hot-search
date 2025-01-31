@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/31 15:35:29
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/31 16:27:28
 </p>
 </blockquote>
 <p>
@@ -5805,6 +5805,12 @@ iG（热度：923121）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E9%A3%99%E8%87%B3835%E5%85%83%E4%B8%80%E5%85%8B%23" target="weibo">
+金饰价格飙至835元一克（热度：906987）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%E5%88%98%E7%95%85%E5%AE%B6%E6%9A%B4%23" target="weibo">
 国色芳华刘畅家暴（热度：906235）
 </a>
@@ -6005,12 +6011,6 @@ D社曝金敏喜怀孕（热度：893355）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%AD%90%E8%A6%81%E5%9B%9E%E5%BD%92%E8%B0%81%E7%9A%84%E5%AE%B6%E5%BA%AD%23" target="weibo">
 杨子要回归谁的家庭（热度：886362）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AB%B9%E6%9E%97%E5%9B%9B%E4%BE%A0%20%E6%88%90%E5%8F%8C%E6%88%90%E5%AF%B9%23" target="weibo">
-竹林四侠 成双成对（热度：886200）
 </a>
 </li>
 

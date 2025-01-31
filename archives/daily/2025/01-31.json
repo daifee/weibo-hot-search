@@ -1,6 +1,6 @@
 {
   "startTime": 1738254491138,
-  "endTime": 1738308929717,
+  "endTime": 1738312048727,
   "band_list": [
     {
       "raw_hot": 3591172,
@@ -91,20 +91,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 906987,
+      "num": 1145117,
+      "word": "金饰价格飙至835元一克",
+      "onboard_time": 1738306097,
+      "rank": 1,
+      "category": "财经"
+    },
+    {
       "raw_hot": 773929,
       "num": 869627,
       "word": "肖战 郭靖",
       "onboard_time": 1738248079,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 680315,
-      "num": 680315,
-      "word": "金饰价格飙至835元一克",
-      "onboard_time": 1738306097,
-      "rank": 1,
-      "category": "财经"
     },
     {
       "raw_hot": 656578,
@@ -155,6 +155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 576631,
+      "num": 576631,
+      "word": "火锅店3天净赚53.2万全给员工",
+      "onboard_time": 1738309697,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 574074,
       "num": 574074,
       "word": "谁把许仙的中药换成冰美式了",
@@ -169,6 +177,14 @@
       "onboard_time": 1738251018,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 559293,
+      "num": 559293,
+      "word": "赵本山这两句话抵得上一个小品了",
+      "onboard_time": 1738309217,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 554158,
@@ -267,6 +283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 398993,
+      "num": 175229,
+      "word": "当你有一个扫兴的孩子",
+      "onboard_time": 1738309756,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 398861,
       "num": 398861,
       "word": "初三宅家才是过年顶级仪式感",
@@ -347,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 335322,
+      "num": 335322,
+      "word": "苏醒一己之力得罪所有人",
+      "onboard_time": 1738308557,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 331789,
       "num": 182518,
       "word": "范丞丞直播角度太暧昧了",
@@ -371,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 312371,
+      "num": 174761,
+      "word": "普通人化妆最有效的一步",
+      "onboard_time": 1738308798,
+      "rank": 49,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 308285,
       "num": 308285,
       "word": "趵突泉猪鲤减肥失败",
@@ -385,6 +425,14 @@
       "onboard_time": 1738282815,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 281985,
+      "num": 553856,
+      "word": "三亚西岛景区回应大量游客滞留",
+      "onboard_time": 1738306158,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 275552,
@@ -441,6 +489,14 @@
       "onboard_time": 1738249759,
       "rank": 22,
       "category": "电影,作品衍生"
+    },
+    {
+      "raw_hot": 252965,
+      "num": 168240,
+      "word": "导演回应什么时候能看到哪吒3",
+      "onboard_time": 1738310237,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 246854,
@@ -763,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169749,
+      "num": 137521,
+      "word": "白色橄榄树月下浪漫共舞",
+      "onboard_time": 1738311377,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167863,
       "num": 167863,
       "word": "春晚哪首歌是你心中最佳",
@@ -793,6 +857,14 @@
       "onboard_time": 1738303697,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161016,
+      "num": 137269,
+      "word": "IVE新歌登顶Melon实时一位",
+      "onboard_time": 1738311437,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 160623,
@@ -883,14 +955,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 149030,
-      "num": 149030,
-      "word": "三亚西岛景区回应大量游客滞留",
-      "onboard_time": 1738306158,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 148350,
       "num": 193815,
       "word": "哪吒2特效镜头超哪吒1全片镜头数量",
@@ -955,6 +1019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138914,
+      "num": 138914,
+      "word": "三亚西岛大量游客滞留高喊退票",
+      "onboard_time": 1738308737,
+      "rank": 47,
+      "category": "民生新闻,旅游"
+    },
+    {
       "raw_hot": 138774,
       "num": 138774,
       "word": "娜然妲己归来是什么美强惨",
@@ -979,10 +1051,18 @@
       "category": "电影"
     },
     {
-      "raw_hot": 135396,
-      "num": 135396,
-      "word": "苏醒一己之力得罪所有人",
-      "onboard_time": 1738308557,
+      "raw_hot": 137038,
+      "num": 137038,
+      "word": "乌干达一男护士感染埃博拉死亡",
+      "onboard_time": 1738310356,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 136672,
+      "num": 136672,
+      "word": "关晓彤穿星辰大海唱星辰大海",
+      "onboard_time": 1738309877,
       "rank": 29,
       "category": "综艺"
     },
@@ -1203,6 +1283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109860,
+      "num": 109860,
+      "word": "马龙太可爱了",
+      "onboard_time": 1738309816,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108272,
       "num": 108272,
       "word": "王菲世界赠予我的武汉浪漫",
@@ -1251,6 +1339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 102217,
+      "num": 179964,
+      "word": "中方要求美方尽快查明撞机事故原因",
+      "onboard_time": 1738311197,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 101308,
       "num": 101308,
       "word": "英伟达说禁售将损害在最大市场的收入",
@@ -1259,20 +1355,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 97893,
+      "num": 97893,
+      "word": "敖瑞鹏二月行程图",
+      "onboard_time": 1738308857,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97769,
       "num": 83018,
       "word": "美军用飞机频繁穿越民航航线酿大祸",
       "onboard_time": 1738243099,
       "rank": 47,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 97749,
-      "num": 97749,
-      "word": "敖瑞鹏二月行程图",
-      "onboard_time": 1738308857,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 97748,
@@ -1483,6 +1579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86788,
+      "num": 86788,
+      "word": "王铮亮成迪拜新晋打卡点",
+      "onboard_time": 1738311197,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 86619,
       "num": 331889,
       "word": "国际金价创下盘中新高",
@@ -1497,6 +1601,14 @@
       "onboard_time": 1738285276,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85616,
+      "num": 85616,
+      "word": "张新成水中贵族",
+      "onboard_time": 1738310657,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 85490,
@@ -1539,6 +1651,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 83642,
+      "num": 83642,
+      "word": "黄金价格刷新历史高位",
+      "onboard_time": 1738311917,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 82627,
       "num": 82627,
       "word": "印度部长举例DeepSeek回应质疑",
@@ -1569,6 +1689,22 @@
       "onboard_time": 1738248138,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 78670,
+      "num": 78670,
+      "word": "老妈让小猫来叫我起床",
+      "onboard_time": 1738310237,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 77950,
+      "num": 77950,
+      "word": "靖筝遗憾是会呼吸的痛",
+      "onboard_time": 1738311437,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 74865,
@@ -1603,20 +1739,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 72223,
-      "num": 90029,
-      "word": "三亚西岛大量游客滞留高喊退票",
-      "onboard_time": 1738308737,
-      "rank": 47,
-      "category": "民生新闻,旅游"
-    },
-    {
       "raw_hot": 70578,
       "num": 70578,
       "word": "易烊千玺回应5年前的愿望",
       "onboard_time": 1738282696,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 67868,
+      "num": 108744,
+      "word": "亚冬会开幕还有一周",
+      "onboard_time": 1738306517,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 67847,
@@ -1643,6 +1779,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 66735,
+      "num": 76942,
+      "word": "一个AI还能抢另一个AI饭碗",
+      "onboard_time": 1738309816,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 66548,
       "num": 66548,
       "word": "易烊千玺在有意识地改变肢体习惯",
@@ -1659,14 +1803,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 63858,
-      "num": 88586,
-      "word": "普通人化妆最有效的一步",
-      "onboard_time": 1738308798,
-      "rank": 49,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 63277,
       "num": 64153,
       "word": "美国1995年以来发生过7次重大空难",
@@ -1681,6 +1817,14 @@
       "onboard_time": 1738239379,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 60034,
+      "num": 139046,
+      "word": "封神2上演鸡蛋的诱惑",
+      "onboard_time": 1738311318,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 60015,
