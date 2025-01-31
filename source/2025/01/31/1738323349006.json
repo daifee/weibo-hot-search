@@ -1,0 +1,410 @@
+{
+  "runTime": 1738323349006,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1214437,
+        "num": 1214437,
+        "word": "哪吒2或将进入影史票房前三",
+        "onboard_time": 1738314798,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1197205,
+        "num": 1197205,
+        "word": "初三走亲戚为什么回家要早",
+        "onboard_time": 1738318877,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57008,
+        "num": 939715,
+        "word": "大年初三大街小巷热热闹闹",
+        "onboard_time": 1738316719,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 820171,
+        "num": 820171,
+        "word": "爷爷去世七年砍的柴还没用",
+        "onboard_time": 1738317678,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 682864,
+        "num": 682864,
+        "word": "火锅店3天净赚53.2万全给员工",
+        "onboard_time": 1738309697,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 450690,
+        "num": 450690,
+        "word": "乌尔善回应封神2争议",
+        "onboard_time": 1738300817,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 445764,
+        "num": 445764,
+        "word": "朕与嬛嬛何时有过嫌隙",
+        "onboard_time": 1738321997,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 424045,
+        "num": 424045,
+        "word": "永川地震",
+        "onboard_time": 1738318337,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 405069,
+        "num": 405069,
+        "word": "英伟达上线DeepSeek",
+        "onboard_time": 1738316599,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 74640,
+        "num": 377485,
+        "word": "人民网评春节档票房创纪录",
+        "onboard_time": 1738321578,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 491910,
+        "num": 377299,
+        "word": "花140万捡漏的230平房子",
+        "onboard_time": 1738315339,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 376658,
+        "num": 376658,
+        "word": "900多块压岁钱发出了10万的感觉",
+        "onboard_time": 1738315818,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 344509,
+        "num": 344509,
+        "word": "杨洋坐村头台阶看打篮球",
+        "onboard_time": 1738316119,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343162,
+        "num": 343162,
+        "word": "越南从韩国进口的无人机大批坠机",
+        "onboard_time": 1738320799,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 280232,
+        "num": 280232,
+        "word": "薛凯琪春晚的妆是钟楚曦画的",
+        "onboard_time": 1738301897,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256421,
+        "num": 256421,
+        "word": "票房",
+        "onboard_time": 1738315277,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 230697,
+        "num": 230697,
+        "word": "哪吒2为什么比哪吒1更好看",
+        "onboard_time": 1738314857,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 208304,
+        "num": 208304,
+        "word": "王楚钦首轮对阵宇田幸矢",
+        "onboard_time": 1738320319,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187688,
+        "num": 187688,
+        "word": "清华硕士拿到蓝翔毕业证",
+        "onboard_time": 1738315697,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118193,
+        "num": 184268,
+        "word": "王安宇回应被蒋欣私下叫儿子",
+        "onboard_time": 1738312398,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183660,
+        "num": 183660,
+        "word": "赵本山这两句话抵得上一个小品了",
+        "onboard_time": 1738309217,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167526,
+        "num": 167526,
+        "word": "许凯回应跟田曦薇公主抱出圈",
+        "onboard_time": 1738318518,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160686,
+        "num": 160686,
+        "word": "易烊千玺演脑瘫患者经历了什么",
+        "onboard_time": 1738322120,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147577,
+        "num": 147577,
+        "word": "哪吒票房",
+        "onboard_time": 1738318278,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131280,
+        "num": 131280,
+        "word": "正月初三扫一扫",
+        "onboard_time": 1738289236,
+        "rank": 24,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 142437,
+        "num": 130696,
+        "word": "肖战版射雕如何焕新中国武侠",
+        "onboard_time": 1738322300,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140365,
+        "num": 130439,
+        "word": "Minnie初一位",
+        "onboard_time": 1738321759,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 139938,
+        "num": 130358,
+        "word": "哪吒2",
+        "onboard_time": 1738279215,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130099,
+        "num": 130099,
+        "word": "江西一奔驰车被旁车殃及烧成空架",
+        "onboard_time": 1738313238,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127985,
+        "num": 127985,
+        "word": "一只土狗救了我90岁的姥爷",
+        "onboard_time": 1738318337,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135784,
+        "num": 126802,
+        "word": "封神2妲己严选的女孩是艾米",
+        "onboard_time": 1738323319,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130009,
+        "num": 126589,
+        "word": "射雕英雄传累计票房破5亿",
+        "onboard_time": 1738319839,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123949,
+        "num": 123949,
+        "word": "北海打了十年的原因",
+        "onboard_time": 1738320978,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120144,
+        "num": 122986,
+        "word": "2025WTT新加坡大满贯抽签",
+        "onboard_time": 1738315999,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122364,
+        "num": 122364,
+        "word": "哪吒之魔童闹海单日票房逆跌",
+        "onboard_time": 1738317977,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121727,
+        "num": 121727,
+        "word": "春节爬完黄山看非遗表演太City了",
+        "onboard_time": 1738299257,
+        "rank": 35,
+        "category": "正能量,旅游"
+      },
+      {
+        "raw_hot": 110986,
+        "num": 110986,
+        "word": "2月十二星座注意事项",
+        "onboard_time": 1738319360,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109160,
+        "num": 109160,
+        "word": "王楚钦说很少有机会与家人团聚",
+        "onboard_time": 1738321160,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108928,
+        "num": 108928,
+        "word": "孙颖莎首轮对阵徐孝元",
+        "onboard_time": 1738318697,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105085,
+        "num": 105085,
+        "word": "金饰价格飙至835元一克",
+        "onboard_time": 1738306097,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 103190,
+        "num": 103190,
+        "word": "中方要求美方尽快查明撞机事故原因",
+        "onboard_time": 1738311197,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101105,
+        "num": 101105,
+        "word": "射雕 删减",
+        "onboard_time": 1738302317,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95390,
+        "num": 95390,
+        "word": "徐明浩直播",
+        "onboard_time": 1738320859,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95389,
+        "num": 95389,
+        "word": "王安宇给闫妮唱醒酒了",
+        "onboard_time": 1738317558,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94447,
+        "num": 94447,
+        "word": "亚连史诗皮肤",
+        "onboard_time": 1738317018,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 94026,
+        "num": 94026,
+        "word": "第一次见到豺长什么样",
+        "onboard_time": 1738323018,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93203,
+        "num": 93203,
+        "word": "时代少年团假期经典剧集展演",
+        "onboard_time": 1738323258,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87577,
+        "num": 91244,
+        "word": "黑兔老师画德克萨斯",
+        "onboard_time": 1738322120,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 90909,
+        "num": 90909,
+        "word": "张新成叫哥哥不行叫小哥哥可以",
+        "onboard_time": 1738319179,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 88571,
+        "num": 89979,
+        "word": "日本政府就DeepSeek表态",
+        "onboard_time": 1738295177,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#和总书记一起感受浓浓年味#"
+    }
+  }
+}
