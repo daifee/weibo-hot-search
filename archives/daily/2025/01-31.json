@@ -1,6 +1,6 @@
 {
   "startTime": 1738254491138,
-  "endTime": 1738330633891,
+  "endTime": 1738333210241,
   "band_list": [
     {
       "raw_hot": 3591172,
@@ -9,6 +9,14 @@
       "onboard_time": 1738289537,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3196191,
+      "num": 314542,
+      "word": "李小冉退群",
+      "onboard_time": 1738331539,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 1992190,
@@ -75,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1186462,
+      "num": 410723,
+      "word": "过年 无聊",
+      "onboard_time": 1738330518,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1114811,
       "num": 487969,
       "word": "李雨霏自曝童年曾被舅舅猥亵",
@@ -89,6 +105,14 @@
       "onboard_time": 1738281314,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1001532,
+      "num": 582488,
+      "word": "大哪吒 黄子韬",
+      "onboard_time": 1738329559,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 994394,
@@ -171,6 +195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 758473,
+      "num": 324732,
+      "word": "黑妮曝王菲父母哥哥均已离世",
+      "onboard_time": 1738332320,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 677305,
       "num": 677305,
       "word": "俄乌冲突让乌克兰倒退100年",
@@ -217,14 +249,6 @@
       "onboard_time": 1738250958,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 602248,
-      "num": 410723,
-      "word": "过年 无聊",
-      "onboard_time": 1738330518,
-      "rank": 11,
-      "category": "情感"
     },
     {
       "raw_hot": 598154,
@@ -515,6 +539,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 371752,
+      "num": 329239,
+      "word": "敖光",
+      "onboard_time": 1738326919,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 363423,
       "num": 272732,
       "word": "乌尔善说姬发邓婵玉是惺惺相惜",
@@ -611,12 +643,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 329239,
-      "num": 329239,
-      "word": "敖光",
-      "onboard_time": 1738326919,
-      "rank": 25,
-      "category": "电影"
+      "raw_hot": 330394,
+      "num": 330394,
+      "word": "老板回应净赚53.2万全给员工",
+      "onboard_time": 1738328599,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 317696,
@@ -643,6 +675,22 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 312318,
+      "num": 312318,
+      "word": "00后小伙狂追5分钟截停起火货车",
+      "onboard_time": 1738327757,
+      "rank": 14,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 309522,
+      "num": 309522,
+      "word": "美国打压DeepSeek的后果",
+      "onboard_time": 1738326858,
+      "rank": 27,
+      "category": "国际时政,互联网"
+    },
+    {
       "raw_hot": 308285,
       "num": 308285,
       "word": "趵突泉猪鲤减肥失败",
@@ -652,11 +700,19 @@
     },
     {
       "raw_hot": 300388,
-      "num": 216487,
+      "num": 242565,
       "word": "封神2妲己严选的女孩是艾米",
       "onboard_time": 1738323319,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 298252,
+      "num": 298252,
+      "word": "再也不去理发店洗头了",
+      "onboard_time": 1738331420,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 289691,
@@ -673,6 +729,14 @@
       "onboard_time": 1738306158,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 280655,
+      "num": 280655,
+      "word": "给妹妹1000元帮我扛下所有战火",
+      "onboard_time": 1738329799,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 275552,
@@ -705,14 +769,6 @@
       "onboard_time": 1738298357,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 257048,
-      "num": 305241,
-      "word": "00后小伙狂追5分钟截停起火货车",
-      "onboard_time": 1738327757,
-      "rank": 14,
-      "category": "正能量"
     },
     {
       "raw_hot": 256389,
@@ -803,14 +859,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 236590,
-      "num": 236590,
-      "word": "大哪吒 黄子韬",
-      "onboard_time": 1738329559,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 235507,
       "num": 220625,
       "word": "黄蓉眼神",
@@ -835,6 +883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 231230,
+      "num": 231230,
+      "word": "易烊千玺网站更新",
+      "onboard_time": 1738332019,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228578,
       "num": 184099,
       "word": "徐志胜Pro徐志胜Max",
@@ -851,14 +907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 222656,
-      "num": 222656,
-      "word": "老板回应净赚53.2万全给员工",
-      "onboard_time": 1738328599,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 221004,
       "num": 254495,
       "word": "朱一龙祝你新年有梦追梦圆梦",
@@ -873,6 +921,14 @@
       "onboard_time": 1738299257,
       "rank": 19,
       "category": "正能量,旅游"
+    },
+    {
+      "raw_hot": 218878,
+      "num": 218878,
+      "word": "打麻将摸到电话号码了",
+      "onboard_time": 1738329919,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 216249,
@@ -1011,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195370,
+      "num": 195370,
+      "word": "刘耀文过年钓鱼空军",
+      "onboard_time": 1738332620,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194500,
       "num": 194500,
       "word": "这才是我要的古风小生",
@@ -1115,14 +1179,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 181862,
-      "num": 181862,
-      "word": "美国打压DeepSeek的后果",
-      "onboard_time": 1738326858,
-      "rank": 27,
-      "category": "国际时政,互联网"
-    },
-    {
       "raw_hot": 180462,
       "num": 180462,
       "word": "哪吒3",
@@ -1179,8 +1235,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170204,
+      "num": 170204,
+      "word": "凌晨四五点吃年夜饭全家一脸困意",
+      "onboard_time": 1738327578,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169751,
-      "num": 169751,
+      "num": 293652,
       "word": "光头强做了微整形还偷偷洗白了",
       "onboard_time": 1738325359,
       "rank": 33,
@@ -1217,14 +1281,6 @@
       "onboard_time": 1738320859,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 168019,
-      "num": 168019,
-      "word": "给妹妹1000元帮我扛下所有战火",
-      "onboard_time": 1738329799,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 167863,
@@ -1315,6 +1371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159535,
+      "num": 159535,
+      "word": "徐明浩说我想上春晚",
+      "onboard_time": 1738332680,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158961,
       "num": 132201,
       "word": "赵丽颖手绘蛇年祝福书签",
@@ -1347,12 +1411,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 156432,
-      "num": 156432,
-      "word": "凌晨四五点吃年夜饭全家一脸困意",
-      "onboard_time": 1738327578,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 157422,
+      "num": 157422,
+      "word": "DeepSeek",
+      "onboard_time": 1738331600,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 156193,
@@ -1419,6 +1483,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 149913,
+      "num": 149913,
+      "word": "李瓒手臂青筋",
+      "onboard_time": 1738333039,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149500,
       "num": 149500,
       "word": "郭靖去了趟中原什么都懂了",
@@ -1441,6 +1513,14 @@
       "onboard_time": 1738295657,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 147825,
+      "num": 147825,
+      "word": "难哄",
+      "onboard_time": 1738329679,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 147536,
@@ -1691,14 +1771,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 129661,
-      "num": 129661,
-      "word": "难哄",
-      "onboard_time": 1738329679,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 129496,
       "num": 129496,
       "word": "申公豹好惨",
@@ -1761,6 +1833,14 @@
       "onboard_time": 1738282094,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126704,
+      "num": 923838,
+      "word": "中国人的春节传统走向世界了",
+      "onboard_time": 1738324099,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126476,
@@ -1843,12 +1923,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 121030,
-      "num": 121030,
-      "word": "打麻将摸到电话号码了",
-      "onboard_time": 1738329919,
+      "raw_hot": 121919,
+      "num": 121919,
+      "word": "DeepSeek满血版高速专线",
+      "onboard_time": 1738332740,
       "rank": 46,
-      "category": "幽默"
+      "category": "电竞,游戏"
     },
     {
       "raw_hot": 120633,
@@ -1897,14 +1977,6 @@
       "onboard_time": 1738315037,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 118469,
-      "num": 923838,
-      "word": "中国人的春节传统走向世界了",
-      "onboard_time": 1738324099,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116735,
@@ -2115,6 +2187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102263,
+      "num": 102263,
+      "word": "我的嘴要是能这么有种就好了",
+      "onboard_time": 1738333160,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 101736,
       "num": 101736,
       "word": "扎克伯格公司支付特朗普2500万美元",
@@ -2212,7 +2292,7 @@
     },
     {
       "raw_hot": 95231,
-      "num": 95231,
+      "num": 207658,
       "word": "孙颖莎跑出幻影了",
       "onboard_time": 1738326858,
       "rank": 48,
@@ -2545,6 +2625,14 @@
       "onboard_time": 1738311917,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 82745,
+      "num": 302208,
+      "word": "三亚西岛致歉",
+      "onboard_time": 1738332920,
+      "rank": 17,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 82627,

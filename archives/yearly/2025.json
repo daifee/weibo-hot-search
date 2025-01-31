@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738330633891,
+  "endTime": 1738333210241,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -689,6 +689,14 @@
       "onboard_time": 1736935939,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3196191,
+      "num": 314542,
+      "word": "李小冉退群",
+      "onboard_time": 1738331539,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 3185801,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736323583,
       "rank": 1,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 1753374,
-      "num": 430928,
-      "word": "律师称收到刘强东红包的乡亲需缴税",
-      "onboard_time": 1736350821,
-      "rank": 11,
-      "category": "互联网"
     }
   ],
   "hotgov_list": [

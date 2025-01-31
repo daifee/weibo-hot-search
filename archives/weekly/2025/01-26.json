@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738330633891,
+  "endTime": 1738333210241,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -192,6 +192,14 @@
       "word": "莫文蔚毛不易 天才搭配",
       "onboard_time": 1738068157,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 3196191,
+      "num": 314542,
+      "word": "李小冉退群",
+      "onboard_time": 1738331539,
+      "rank": 14,
       "category": "综艺"
     },
     {
@@ -891,6 +899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1186462,
+      "num": 410723,
+      "word": "过年 无聊",
+      "onboard_time": 1738330518,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1175257,
       "num": 1188041,
       "word": "倪萍曾救下想轻生的宋丹丹",
@@ -1153,6 +1169,14 @@
       "onboard_time": 1737875778,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1001532,
+      "num": 582488,
+      "word": "大哪吒 黄子韬",
+      "onboard_time": 1738329559,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 1000646,
@@ -1827,6 +1851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 758473,
+      "num": 324732,
+      "word": "黑妮曝王菲父母哥哥均已离世",
+      "onboard_time": 1738332320,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 748679,
       "num": 878338,
       "word": "大年初一起床时间",
@@ -2449,14 +2481,6 @@
       "onboard_time": 1738227678,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 602248,
-      "num": 410723,
-      "word": "过年 无聊",
-      "onboard_time": 1738330518,
-      "rank": 11,
-      "category": "情感"
     },
     {
       "raw_hot": 598554,
@@ -4403,6 +4427,14 @@
       "category": "财经,互联网"
     },
     {
+      "raw_hot": 371752,
+      "num": 329239,
+      "word": "敖光",
+      "onboard_time": 1738326919,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 370356,
       "num": 370356,
       "word": "冷冷冷我冷冷冷",
@@ -4907,20 +4939,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 330394,
+      "num": 330394,
+      "word": "老板回应净赚53.2万全给员工",
+      "onboard_time": 1738328599,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 330126,
       "num": 860951,
       "word": "苏州蛇年小宝宝出生啦",
       "onboard_time": 1738140438,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 329239,
-      "num": 329239,
-      "word": "敖光",
-      "onboard_time": 1738326919,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 329035,
@@ -5147,6 +5179,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 312318,
+      "num": 312318,
+      "word": "00后小伙狂追5分钟截停起火货车",
+      "onboard_time": 1738327757,
+      "rank": 14,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 312064,
       "num": 312064,
       "word": "钟楚曦穿自己画的裙子上春晚",
@@ -5169,6 +5209,14 @@
       "onboard_time": 1738246879,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 309522,
+      "num": 309522,
+      "word": "美国打压DeepSeek的后果",
+      "onboard_time": 1738326858,
+      "rank": 27,
+      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 309094,
@@ -5308,7 +5356,7 @@
     },
     {
       "raw_hot": 300388,
-      "num": 216487,
+      "num": 242565,
       "word": "封神2妲己严选的女孩是艾米",
       "onboard_time": 1738323319,
       "rank": 30,
@@ -5329,6 +5377,14 @@
       "onboard_time": 1738063287,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 298252,
+      "num": 298252,
+      "word": "再也不去理发店洗头了",
+      "onboard_time": 1738331420,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 296847,
@@ -5609,6 +5665,14 @@
       "onboard_time": 1737974296,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 280655,
+      "num": 280655,
+      "word": "给妹妹1000元帮我扛下所有战火",
+      "onboard_time": 1738329799,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 278708,
@@ -5937,14 +6001,6 @@
       "onboard_time": 1738192993,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 257048,
-      "num": 305241,
-      "word": "00后小伙狂追5分钟截停起火货车",
-      "onboard_time": 1738327757,
-      "rank": 14,
-      "category": "正能量"
     },
     {
       "raw_hot": 256953,
@@ -6443,14 +6499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 236590,
-      "num": 236590,
-      "word": "大哪吒 黄子韬",
-      "onboard_time": 1738329559,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 236574,
       "num": 236574,
       "word": "哪吒2是什么起点爽文",
@@ -6553,6 +6601,14 @@
       "onboard_time": 1738086796,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231230,
+      "num": 231230,
+      "word": "易烊千玺网站更新",
+      "onboard_time": 1738332019,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 231040,
@@ -6739,14 +6795,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 222656,
-      "num": 222656,
-      "word": "老板回应净赚53.2万全给员工",
-      "onboard_time": 1738328599,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 222403,
       "num": 158125,
       "word": "今年春节含金量最高的小品",
@@ -6857,6 +6905,14 @@
       "onboard_time": 1737906977,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 218878,
+      "num": 218878,
+      "word": "打麻将摸到电话号码了",
+      "onboard_time": 1738329919,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 218477,
@@ -7827,6 +7883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195370,
+      "num": 195370,
+      "word": "刘耀文过年钓鱼空军",
+      "onboard_time": 1738332620,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195215,
       "num": 195215,
       "word": "赵丽颖向阳花贴片",
@@ -8563,14 +8627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 181862,
-      "num": 181862,
-      "word": "美国打压DeepSeek的后果",
-      "onboard_time": 1738326858,
-      "rank": 27,
-      "category": "国际时政,互联网"
-    },
-    {
       "raw_hot": 181323,
       "num": 181323,
       "word": "朱志鑫 青岛",
@@ -9091,8 +9147,16 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 170204,
+      "num": 170204,
+      "word": "凌晨四五点吃年夜饭全家一脸困意",
+      "onboard_time": 1738327578,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169751,
-      "num": 169751,
+      "num": 293652,
       "word": "光头强做了微整形还偷偷洗白了",
       "onboard_time": 1738325359,
       "rank": 33,
@@ -9193,14 +9257,6 @@
       "onboard_time": 1738320859,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 168019,
-      "num": 168019,
-      "word": "给妹妹1000元帮我扛下所有战火",
-      "onboard_time": 1738329799,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 167441,
@@ -9659,6 +9715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159535,
+      "num": 159535,
+      "word": "徐明浩说我想上春晚",
+      "onboard_time": 1738332680,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159413,
       "num": 274135,
       "word": "我的年夜饭",
@@ -9881,14 +9945,6 @@
       "onboard_time": 1737981377,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 156432,
-      "num": 156432,
-      "word": "凌晨四五点吃年夜饭全家一脸困意",
-      "onboard_time": 1738327578,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 156193,
@@ -10265,6 +10321,14 @@
       "onboard_time": 1738199537,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 149913,
+      "num": 149913,
+      "word": "李瓒手臂青筋",
+      "onboard_time": 1738333039,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 149825,
@@ -11843,6 +11907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126704,
+      "num": 923838,
+      "word": "中国人的春节传统走向世界了",
+      "onboard_time": 1738324099,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126476,
       "num": 184434,
       "word": "梁永安称射雕拍出武侠的理想主义",
@@ -12203,6 +12275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 121919,
+      "num": 121919,
+      "word": "DeepSeek满血版高速专线",
+      "onboard_time": 1738332740,
+      "rank": 46,
+      "category": "电竞,游戏"
+    },
+    {
       "raw_hot": 121874,
       "num": 241186,
       "word": "梁伟铿希望今年冠军多多",
@@ -12273,14 +12353,6 @@
       "onboard_time": 1738198157,
       "rank": 33,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 121030,
-      "num": 121030,
-      "word": "打麻将摸到电话号码了",
-      "onboard_time": 1738329919,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 120889,
@@ -12465,14 +12537,6 @@
       "onboard_time": 1737864738,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 118469,
-      "num": 923838,
-      "word": "中国人的春节传统走向世界了",
-      "onboard_time": 1738324099,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 118272,
@@ -13627,6 +13691,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 102263,
+      "num": 102263,
+      "word": "我的嘴要是能这么有种就好了",
+      "onboard_time": 1738333160,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 102249,
       "num": 102249,
       "word": "射雕英雄传金戈铁马具象化了",
@@ -14196,7 +14268,7 @@
     },
     {
       "raw_hot": 95231,
-      "num": 95231,
+      "num": 207658,
       "word": "孙颖莎跑出幻影了",
       "onboard_time": 1738326858,
       "rank": 48,
@@ -15137,6 +15209,14 @@
       "onboard_time": 1738207398,
       "rank": 48,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 82745,
+      "num": 302208,
+      "word": "三亚西岛致歉",
+      "onboard_time": 1738332920,
+      "rank": 17,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 82627,

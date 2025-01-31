@@ -1,0 +1,410 @@
+{
+  "runTime": 1738333210241,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1154653,
+        "num": 1184744,
+        "word": "申公豹 丑强惨",
+        "onboard_time": 1738327638,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 706878,
+        "num": 706878,
+        "word": "蛇是很多医学院校徽的主角",
+        "onboard_time": 1738327158,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126704,
+        "num": 616601,
+        "word": "中国人的春节传统走向世界了",
+        "onboard_time": 1738324099,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1001532,
+        "num": 582488,
+        "word": "大哪吒 黄子韬",
+        "onboard_time": 1738329559,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 546582,
+        "num": 546582,
+        "word": "初三走亲戚为什么回家要早",
+        "onboard_time": 1738318877,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 431316,
+        "num": 431316,
+        "word": "火锅店3天净赚53.2万全给员工",
+        "onboard_time": 1738309697,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 570480,
+        "num": 392510,
+        "word": "哪吒2或将进入影史票房前三",
+        "onboard_time": 1738314798,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 336931,
+        "num": 336931,
+        "word": "龙爹表面上和私底下",
+        "onboard_time": 1738324638,
+        "rank": 7,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 381582,
+        "num": 334971,
+        "word": "哪吒2",
+        "onboard_time": 1738328359,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 330394,
+        "num": 330394,
+        "word": "老板回应净赚53.2万全给员工",
+        "onboard_time": 1738328599,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1186462,
+        "num": 328426,
+        "word": "过年 无聊",
+        "onboard_time": 1738330518,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 758473,
+        "num": 324732,
+        "word": "黑妮曝王菲父母哥哥均已离世",
+        "onboard_time": 1738332320,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 580620,
+        "num": 319675,
+        "word": "吐排片",
+        "onboard_time": 1738323498,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 371752,
+        "num": 318333,
+        "word": "敖光",
+        "onboard_time": 1738326919,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 3196191,
+        "num": 314542,
+        "word": "李小冉退群",
+        "onboard_time": 1738331539,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312318,
+        "num": 312318,
+        "word": "00后小伙狂追5分钟截停起火货车",
+        "onboard_time": 1738327757,
+        "rank": 15,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 309522,
+        "num": 309522,
+        "word": "美国打压DeepSeek的后果",
+        "onboard_time": 1738326858,
+        "rank": 16,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 82745,
+        "num": 302208,
+        "word": "三亚西岛致歉",
+        "onboard_time": 1738332920,
+        "rank": 17,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 298252,
+        "num": 298252,
+        "word": "再也不去理发店洗头了",
+        "onboard_time": 1738331420,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104584,
+        "num": 293652,
+        "word": "光头强做了微整形还偷偷洗白了",
+        "onboard_time": 1738325359,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 291359,
+        "num": 291359,
+        "word": "爷爷去世七年砍的柴还没用",
+        "onboard_time": 1738317678,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 280655,
+        "num": 280655,
+        "word": "给妹妹1000元帮我扛下所有战火",
+        "onboard_time": 1738329799,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 271551,
+        "num": 271551,
+        "word": "藕饼交融",
+        "onboard_time": 1738325778,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 245724,
+        "num": 245724,
+        "word": "俄乌冲突让乌克兰倒退100年",
+        "onboard_time": 1738323799,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 242565,
+        "num": 242565,
+        "word": "封神2妲己严选的女孩是艾米",
+        "onboard_time": 1738323319,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 234757,
+        "num": 234757,
+        "word": "朕与嬛嬛何时有过嫌隙",
+        "onboard_time": 1738321997,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 231230,
+        "num": 231230,
+        "word": "易烊千玺网站更新",
+        "onboard_time": 1738332019,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218878,
+        "num": 218878,
+        "word": "打麻将摸到电话号码了",
+        "onboard_time": 1738329919,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32591,
+        "num": 207658,
+        "word": "孙颖莎跑出幻影了",
+        "onboard_time": 1738326858,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203520,
+        "num": 203520,
+        "word": "票房",
+        "onboard_time": 1738315277,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195370,
+        "num": 195370,
+        "word": "刘耀文过年钓鱼空军",
+        "onboard_time": 1738332620,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184920,
+        "num": 184920,
+        "word": "英伟达上线DeepSeek",
+        "onboard_time": 1738316599,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 183161,
+        "num": 183161,
+        "word": "乌尔善回应封神2争议",
+        "onboard_time": 1738300817,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176691,
+        "num": 176691,
+        "word": "那尔那茜八年空窗期都干了什么",
+        "onboard_time": 1738324699,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170204,
+        "num": 170204,
+        "word": "凌晨四五点吃年夜饭全家一脸困意",
+        "onboard_time": 1738327578,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159535,
+        "num": 159535,
+        "word": "徐明浩说我想上春晚",
+        "onboard_time": 1738332680,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157422,
+        "num": 157422,
+        "word": "DeepSeek",
+        "onboard_time": 1738331600,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 152351,
+        "num": 152351,
+        "word": "孙颖莎微博粉丝破千万",
+        "onboard_time": 1738329500,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152133,
+        "num": 152133,
+        "word": "杨洋坐村头台阶看打篮球",
+        "onboard_time": 1738316119,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149913,
+        "num": 149913,
+        "word": "李瓒手臂青筋",
+        "onboard_time": 1738333039,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147825,
+        "num": 147825,
+        "word": "难哄",
+        "onboard_time": 1738329679,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146146,
+        "num": 146146,
+        "word": "卢昱晓吴宣仪亲亲",
+        "onboard_time": 1738327518,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144848,
+        "num": 144848,
+        "word": "余承东后备箱裸装鸡蛋",
+        "onboard_time": 1738329738,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 143009,
+        "num": 143009,
+        "word": "900多块压岁钱发出了10万的感觉",
+        "onboard_time": 1738315818,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126367,
+        "num": 126367,
+        "word": "哪吒2为什么比哪吒1更好看",
+        "onboard_time": 1738314857,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122616,
+        "num": 122616,
+        "word": "越南从韩国进口的无人机大批坠机",
+        "onboard_time": 1738320799,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 121919,
+        "num": 121919,
+        "word": "DeepSeek满血版高速专线",
+        "onboard_time": 1738332740,
+        "rank": 46,
+        "category": "电竞,游戏"
+      },
+      {
+        "raw_hot": 116206,
+        "num": 116206,
+        "word": "大年初三大街小巷热热闹闹",
+        "onboard_time": 1738316719,
+        "rank": 47,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 114791,
+        "num": 114791,
+        "word": "0713在马思纯春晚vlog说相声",
+        "onboard_time": 1738328959,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102263,
+        "num": 102263,
+        "word": "我的嘴要是能这么有种就好了",
+        "onboard_time": 1738333160,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#注重家庭注重家教注重家风#"
+    }
+  }
+}
