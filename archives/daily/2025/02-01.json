@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738348945056,
+  "endTime": 1738351067715,
   "band_list": [
     {
       "raw_hot": 1281311,
@@ -475,6 +475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 37688,
+      "num": 37688,
+      "word": "哪吒2特效",
+      "onboard_time": 1738349952,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 33254,
       "num": 33254,
       "word": "光头强做了微整形还偷偷洗白了",
@@ -515,12 +523,36 @@
       "category": "健康医疗,运动健身"
     },
     {
+      "raw_hot": 24973,
+      "num": 24973,
+      "word": "黄晓明与陈凯歌一家聚餐",
+      "onboard_time": 1738349592,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 23946,
       "num": 58100,
       "word": "假如美对华制裁是一场直播带货",
       "onboard_time": 1738335559,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 22643,
+      "num": 22643,
+      "word": "特朗普称撞机时黑鹰直升机高度过高",
+      "onboard_time": 1738349415,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 10664,
+      "num": 47973,
+      "word": "使千千万万个家庭成为梦想启航的地方",
+      "onboard_time": 1738350612,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 9709,

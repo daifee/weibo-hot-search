@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738348945056,
+  "endTime": 1738351067715,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -17411,6 +17411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 37688,
+      "num": 37688,
+      "word": "哪吒2特效",
+      "onboard_time": 1738349952,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 37564,
       "num": 530584,
       "word": "有一种温暖叫相亲相爱一家人",
@@ -18043,6 +18051,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 24973,
+      "num": 24973,
+      "word": "黄晓明与陈凯歌一家聚餐",
+      "onboard_time": 1738349592,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 24837,
       "num": 24837,
       "word": "为何美国两日坠三机",
@@ -18217,6 +18233,14 @@
       "onboard_time": 1737961217,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22643,
+      "num": 22643,
+      "word": "特朗普称撞机时黑鹰直升机高度过高",
+      "onboard_time": 1738349415,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 22562,
@@ -18689,6 +18713,14 @@
       "onboard_time": 1737999374,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 10664,
+      "num": 47973,
+      "word": "使千千万万个家庭成为梦想启航的地方",
+      "onboard_time": 1738350612,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 10630,
