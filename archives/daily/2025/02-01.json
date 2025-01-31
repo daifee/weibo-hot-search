@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738348160514,
+  "endTime": 1738348945056,
   "band_list": [
     {
       "raw_hot": 1281311,
@@ -475,20 +475,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 33254,
+      "num": 33254,
+      "word": "光头强做了微整形还偷偷洗白了",
+      "onboard_time": 1738325359,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 32081,
+      "num": 75905,
+      "word": "埃文凯尔说中国是他第二个家",
+      "onboard_time": 1738347014,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31379,
       "num": 31379,
       "word": "三亚西岛致歉",
       "onboard_time": 1738332920,
       "rank": 42,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 28440,
-      "num": 28440,
-      "word": "光头强做了微整形还偷偷洗白了",
-      "onboard_time": 1738325359,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 27833,
@@ -515,10 +523,10 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 22554,
-      "num": 75905,
-      "word": "埃文凯尔说中国是他第二个家",
-      "onboard_time": 1738347014,
+      "raw_hot": 9709,
+      "num": 68842,
+      "word": "老外在中国过年0点赶去敲钟",
+      "onboard_time": 1738348213,
       "rank": 9,
       "category": "民生新闻"
     }
