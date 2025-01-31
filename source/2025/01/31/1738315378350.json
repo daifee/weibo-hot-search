@@ -1,0 +1,410 @@
+{
+  "runTime": 1738315378350,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1992190,
+        "num": 1992190,
+        "word": "火锅店3天净赚53.2万全给员工",
+        "onboard_time": 1738309697,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 472362,
+        "num": 472362,
+        "word": "金饰价格飙至835元一克",
+        "onboard_time": 1738306097,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 58191,
+        "num": 440459,
+        "word": "一条视频看懂正月初三年俗",
+        "onboard_time": 1738295356,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 562973,
+        "num": 437618,
+        "word": "三亚西岛大量游客滞留高喊退票",
+        "onboard_time": 1738308737,
+        "rank": 3,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 426490,
+        "num": 426490,
+        "word": "乌尔善回应封神2争议",
+        "onboard_time": 1738300817,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 416207,
+        "num": 416207,
+        "word": "赵本山这两句话抵得上一个小品了",
+        "onboard_time": 1738309217,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372071,
+        "num": 372071,
+        "word": "中方要求美方尽快查明撞机事故原因",
+        "onboard_time": 1738311197,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 371091,
+        "num": 371091,
+        "word": "薛凯琪春晚的妆是钟楚曦画的",
+        "onboard_time": 1738301897,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312820,
+        "num": 312820,
+        "word": "2025春节档票房破40亿",
+        "onboard_time": 1738299377,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 310106,
+        "num": 310106,
+        "word": "乌干达一男护士感染埃博拉死亡",
+        "onboard_time": 1738310356,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 378266,
+        "num": 306438,
+        "word": "江西一奔驰车被旁车殃及烧成空架",
+        "onboard_time": 1738313238,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301804,
+        "num": 301804,
+        "word": "哪吒2为什么比哪吒1更好看",
+        "onboard_time": 1738314857,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 247484,
+        "num": 247484,
+        "word": "普通人化妆最有效的一步",
+        "onboard_time": 1738308798,
+        "rank": 12,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 240012,
+        "num": 240012,
+        "word": "导演回应什么时候能看到哪吒3",
+        "onboard_time": 1738310237,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 238651,
+        "num": 238651,
+        "word": "正月初三扫一扫",
+        "onboard_time": 1738289236,
+        "rank": 14,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 236041,
+        "num": 236041,
+        "word": "哪吒2",
+        "onboard_time": 1738279215,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215764,
+        "num": 215764,
+        "word": "射雕 删减",
+        "onboard_time": 1738302317,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 181865,
+        "num": 181865,
+        "word": "当你有一个扫兴的孩子",
+        "onboard_time": 1738309756,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174848,
+        "num": 174848,
+        "word": "春节爬完黄山看非遗表演太City了",
+        "onboard_time": 1738299257,
+        "rank": 18,
+        "category": "正能量,旅游"
+      },
+      {
+        "raw_hot": 121411,
+        "num": 121411,
+        "word": "正月初三睡到饱",
+        "onboard_time": 1738301597,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232463,
+        "num": 120708,
+        "word": "王安宇回应被蒋欣私下叫儿子",
+        "onboard_time": 1738312398,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205593,
+        "num": 120462,
+        "word": "李宇春第一时间取消连续包月",
+        "onboard_time": 1738300217,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200178,
+        "num": 119462,
+        "word": "李雨霏自曝童年曾被舅舅猥亵",
+        "onboard_time": 1738293137,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184660,
+        "num": 118987,
+        "word": "哪吒2或将进入影史票房前三",
+        "onboard_time": 1738314798,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176438,
+        "num": 117806,
+        "word": "日本政府就DeepSeek表态",
+        "onboard_time": 1738295177,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162243,
+        "num": 117453,
+        "word": "票房",
+        "onboard_time": 1738315277,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150927,
+        "num": 116911,
+        "word": "苏醒一己之力得罪所有人",
+        "onboard_time": 1738308557,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150163,
+        "num": 115583,
+        "word": "朱一龙春晚接窗花镜头录了20次",
+        "onboard_time": 1738306816,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139664,
+        "num": 115371,
+        "word": "相思令追妻追了23集",
+        "onboard_time": 1738314138,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114854,
+        "num": 114854,
+        "word": "破太岁",
+        "onboard_time": 1738313538,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 75777,
+        "num": 106899,
+        "word": "王楚钦梁靖崑新加坡适应场地训练",
+        "onboard_time": 1738314677,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123258,
+        "num": 106855,
+        "word": "刘昊然 白白嫩嫩",
+        "onboard_time": 1738314437,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 106658,
+        "num": 106658,
+        "word": "IVE新歌登顶Melon实时一位",
+        "onboard_time": 1738311437,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 98093,
+        "num": 98093,
+        "word": "初三宅家才是过年顶级仪式感",
+        "onboard_time": 1738282156,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97400,
+        "num": 97400,
+        "word": "春晚机器人丢在我家了",
+        "onboard_time": 1738314619,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96880,
+        "num": 96880,
+        "word": "扎克伯格公司支付特朗普2500万美元",
+        "onboard_time": 1738313719,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96131,
+        "num": 96131,
+        "word": "青春有你的售后",
+        "onboard_time": 1738315037,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96093,
+        "num": 96093,
+        "word": "哪吒2票房",
+        "onboard_time": 1738288816,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 93444,
+        "num": 93444,
+        "word": "第一次见在家里收过路费的",
+        "onboard_time": 1738313358,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91923,
+        "num": 93061,
+        "word": "尤长靖想邀请石凯回家过年",
+        "onboard_time": 1738313778,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92869,
+        "num": 92869,
+        "word": "射雕剧组悄悄给肖战准备生日惊喜",
+        "onboard_time": 1738313118,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92168,
+        "num": 92168,
+        "word": "周鸿祎称DeepSeek已让西方坐立难安",
+        "onboard_time": 1738314798,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 89829,
+        "num": 89829,
+        "word": "没劲你伸什么胳膊",
+        "onboard_time": 1738313838,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88713,
+        "num": 88713,
+        "word": "饺子",
+        "onboard_time": 1738314198,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 87647,
+        "num": 87647,
+        "word": "花140万捡漏的230平房子",
+        "onboard_time": 1738315339,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85121,
+        "num": 85121,
+        "word": "白鹿终于加到了宋佳微信",
+        "onboard_time": 1738293077,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80501,
+        "num": 80501,
+        "word": "马龙太可爱了",
+        "onboard_time": 1738309816,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79748,
+        "num": 79748,
+        "word": "多位冠军现身全红婵评论区",
+        "onboard_time": 1738313118,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77147,
+        "num": 77147,
+        "word": "小狗去哪都要叼着它的阿贝贝",
+        "onboard_time": 1738315339,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 75662,
+        "num": 75662,
+        "word": "关晓彤穿星辰大海唱星辰大海",
+        "onboard_time": 1738309877,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#和总书记一起感受浓浓年味#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738312824940,
+  "endTime": 1738315378350,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1835,6 +1835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1992190,
+      "num": 1992190,
+      "word": "火锅店3天净赚53.2万全给员工",
+      "onboard_time": 1738309697,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1990564,
       "num": 1990564,
       "word": "李冰冰赵丽颖手牵手",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736350821,
       "rank": 11,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1753181,
-      "num": 637099,
-      "word": "戚薇李承铉二胎儿子正脸照",
-      "onboard_time": 1737703698,
-      "rank": 20,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

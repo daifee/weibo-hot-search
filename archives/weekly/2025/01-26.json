@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738312824940,
+  "endTime": 1738315378350,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -451,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1992190,
+      "num": 1992190,
+      "word": "火锅店3天净赚53.2万全给员工",
+      "onboard_time": 1738309697,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1943989,
       "num": 1943989,
       "word": "南京一柜姐评论刘亦菲微胖被辞退",
@@ -577,14 +585,6 @@
       "onboard_time": 1738082130,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1646685,
-      "num": 1646685,
-      "word": "火锅店3天净赚53.2万全给员工",
-      "onboard_time": 1738309697,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1640869,
@@ -2635,6 +2635,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 562973,
+      "num": 437618,
+      "word": "三亚西岛大量游客滞留高喊退票",
+      "onboard_time": 1738308737,
+      "rank": 47,
+      "category": "民生新闻,旅游"
+    },
+    {
       "raw_hot": 560668,
       "num": 2145123,
       "word": "新年文案",
@@ -4171,6 +4179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 378266,
+      "num": 306438,
+      "word": "江西一奔驰车被旁车殃及烧成空架",
+      "onboard_time": 1738313238,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 377640,
       "num": 313559,
       "word": "白鹿敖瑞鹏共创视频点赞破千万",
@@ -4201,6 +4217,14 @@
       "onboard_time": 1737989119,
       "rank": 38,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 372071,
+      "num": 485357,
+      "word": "中方要求美方尽快查明撞机事故原因",
+      "onboard_time": 1738311197,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 370356,
@@ -4500,7 +4524,7 @@
     },
     {
       "raw_hot": 341285,
-      "num": 306152,
+      "num": 312820,
       "word": "2025春节档票房破40亿",
       "onboard_time": 1738299377,
       "rank": 15,
@@ -4939,6 +4963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 310106,
+      "num": 310106,
+      "word": "乌干达一男护士感染埃博拉死亡",
+      "onboard_time": 1738310356,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 309094,
       "num": 309094,
       "word": "DeepSeek彻底爆发",
@@ -4995,14 +5027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 303703,
-      "num": 485357,
-      "word": "中方要求美方尽快查明撞机事故原因",
-      "onboard_time": 1738311197,
-      "rank": 10,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 303673,
       "num": 303673,
       "word": "美媒惊问DeepSeek是谁",
@@ -5057,6 +5081,14 @@
       "onboard_time": 1738068396,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 301804,
+      "num": 301804,
+      "word": "哪吒2为什么比哪吒1更好看",
+      "onboard_time": 1738314857,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 301580,
@@ -6227,6 +6259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 236041,
+      "num": 236041,
+      "word": "哪吒2",
+      "onboard_time": 1738148659,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 235682,
       "num": 179738,
       "word": "每晚必拔WiFi没苦硬吃是我爸妈没错了",
@@ -6273,6 +6313,14 @@
       "onboard_time": 1738131919,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232463,
+      "num": 120708,
+      "word": "王安宇回应被蒋欣私下叫儿子",
+      "onboard_time": 1738312398,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 231909,
@@ -6761,14 +6809,6 @@
       "onboard_time": 1738031417,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 214513,
-      "num": 214513,
-      "word": "哪吒2",
-      "onboard_time": 1738148659,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 214382,
@@ -7307,14 +7347,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 200727,
-      "num": 200727,
-      "word": "乌干达一男护士感染埃博拉死亡",
-      "onboard_time": 1738310356,
-      "rank": 28,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 200649,
       "num": 314710,
       "word": "肖战电影广州路演",
@@ -7795,14 +7827,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 191196,
-      "num": 191196,
-      "word": "三亚西岛大量游客滞留高喊退票",
-      "onboard_time": 1738308737,
-      "rank": 47,
-      "category": "民生新闻,旅游"
-    },
-    {
       "raw_hot": 191000,
       "num": 155316,
       "word": "于适说姬发从来没有退缩过",
@@ -8136,6 +8160,14 @@
       "word": "射雕女性角色",
       "onboard_time": 1738154060,
       "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 184660,
+      "num": 118987,
+      "word": "哪吒2或将进入影史票房前三",
+      "onboard_time": 1738314798,
+      "rank": 23,
       "category": "电影"
     },
     {
@@ -10403,6 +10435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139664,
+      "num": 115371,
+      "word": "相思令追妻追了23集",
+      "onboard_time": 1738314138,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139574,
       "num": 327424,
       "word": "吃饺子",
@@ -11539,6 +11579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123258,
+      "num": 106855,
+      "word": "刘昊然 白白嫩嫩",
+      "onboard_time": 1738314437,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 122840,
       "num": 117471,
       "word": "Jennie新单曲MV",
@@ -12016,6 +12064,14 @@
       "word": "年后再说",
       "onboard_time": 1737970456,
       "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 114854,
+      "num": 114854,
+      "word": "破太岁",
+      "onboard_time": 1738313538,
+      "rank": 29,
       "category": "情感"
     },
     {
@@ -13275,6 +13331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 97400,
+      "num": 97400,
+      "word": "春晚机器人丢在我家了",
+      "onboard_time": 1738314619,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97277,
       "num": 97277,
       "word": "还以为是小羊要进屋避雪",
@@ -13305,6 +13369,14 @@
       "onboard_time": 1737968777,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 96880,
+      "num": 96880,
+      "word": "扎克伯格公司支付特朗普2500万美元",
+      "onboard_time": 1738313719,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 96874,
@@ -13411,12 +13483,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 96181,
-      "num": 96181,
-      "word": "王安宇回应被蒋欣私下叫儿子",
-      "onboard_time": 1738312398,
-      "rank": 34,
-      "category": "作品衍生"
+      "raw_hot": 96131,
+      "num": 96131,
+      "word": "青春有你的售后",
+      "onboard_time": 1738315037,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 96002,
@@ -13603,6 +13675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93444,
+      "num": 93444,
+      "word": "第一次见在家里收过路费的",
+      "onboard_time": 1738313358,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 93077,
       "num": 93077,
       "word": "ChinaDaily发了虞书欣拜年视频",
@@ -13640,6 +13720,14 @@
       "word": "武汉影迷赶着看早场射雕",
       "onboard_time": 1738203917,
       "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 92869,
+      "num": 92869,
+      "word": "射雕剧组悄悄给肖战准备生日惊喜",
+      "onboard_time": 1738313118,
+      "rank": 40,
       "category": "电影"
     },
     {
@@ -13691,12 +13779,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92168,
+      "num": 92168,
+      "word": "周鸿祎称DeepSeek已让西方坐立难安",
+      "onboard_time": 1738314798,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 92070,
       "num": 416730,
       "word": "过年是刻在中国人DNA里的仪式感",
       "onboard_time": 1738022474,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 91923,
+      "num": 93061,
+      "word": "尤长靖想邀请石凯回家过年",
+      "onboard_time": 1738313778,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 91699,
@@ -13803,6 +13907,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 89829,
+      "num": 89829,
+      "word": "没劲你伸什么胳膊",
+      "onboard_time": 1738313838,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 89144,
       "num": 89144,
       "word": "Jennie二单预告",
@@ -13849,6 +13961,14 @@
       "onboard_time": 1738017251,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 88713,
+      "num": 88713,
+      "word": "饺子",
+      "onboard_time": 1738314198,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 88628,
@@ -13913,6 +14033,14 @@
       "onboard_time": 1738217958,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87647,
+      "num": 87647,
+      "word": "花140万捡漏的230平房子",
+      "onboard_time": 1738315339,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 87623,
@@ -14483,6 +14611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79748,
+      "num": 79748,
+      "word": "多位冠军现身全红婵评论区",
+      "onboard_time": 1738313118,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79742,
       "num": 276449,
       "word": "胡歌到底有几个身份",
@@ -14587,6 +14723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 77147,
+      "num": 77147,
+      "word": "小狗去哪都要叼着它的阿贝贝",
+      "onboard_time": 1738315339,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 77137,
       "num": 112275,
       "word": "网友科幻乐园偶遇张泽禹",
@@ -14665,6 +14809,14 @@
       "onboard_time": 1738080691,
       "rank": 41,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 75777,
+      "num": 106899,
+      "word": "王楚钦梁靖崑新加坡适应场地训练",
+      "onboard_time": 1738314677,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 75692,
