@@ -1,6 +1,6 @@
 {
   "startTime": 1738254491138,
-  "endTime": 1738328184183,
+  "endTime": 1738329930518,
   "band_list": [
     {
       "raw_hot": 3591172,
@@ -36,11 +36,19 @@
     },
     {
       "raw_hot": 1411529,
-      "num": 475745,
+      "num": 476049,
       "word": "吐排片",
       "onboard_time": 1738323498,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1303552,
+      "num": 1303552,
+      "word": "蛇是很多医学院校徽的主角",
+      "onboard_time": 1738327158,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1268212,
@@ -129,6 +137,14 @@
       "onboard_time": 1738306097,
       "rank": 1,
       "category": "财经"
+    },
+    {
+      "raw_hot": 857094,
+      "num": 857094,
+      "word": "申公豹 丑强惨",
+      "onboard_time": 1738327638,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 824383,
@@ -283,6 +299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 517911,
+      "num": 475736,
+      "word": "龙爹表面上和私底下",
+      "onboard_time": 1738324638,
+      "rank": 30,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 514978,
       "num": 514978,
       "word": "越南从韩国进口的无人机大批坠机",
@@ -315,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 489095,
+      "num": 489095,
+      "word": "藕饼交融",
+      "onboard_time": 1738325778,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 485979,
       "num": 360954,
       "word": "哪吒排片",
@@ -331,28 +363,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 481515,
-      "num": 481515,
-      "word": "蛇是很多医学院校徽的主角",
-      "onboard_time": 1738327158,
-      "rank": 19,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 476983,
-      "num": 476983,
-      "word": "藕饼交融",
-      "onboard_time": 1738325778,
-      "rank": 12,
+      "raw_hot": 472564,
+      "num": 472564,
+      "word": "哪吒2",
+      "onboard_time": 1738279215,
+      "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 475736,
-      "num": 475736,
-      "word": "龙爹表面上和私底下",
-      "onboard_time": 1738324638,
-      "rank": 30,
-      "category": "动漫"
     },
     {
       "raw_hot": 461044,
@@ -675,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 257048,
+      "num": 305241,
+      "word": "00后小伙狂追5分钟截停起火货车",
+      "onboard_time": 1738327757,
+      "rank": 14,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 256389,
       "num": 231000,
       "word": "第一次上大学就上春晚是什么感受",
@@ -763,22 +787,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 237090,
-      "num": 237090,
-      "word": "申公豹 丑强惨",
-      "onboard_time": 1738327638,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 236041,
-      "num": 236041,
-      "word": "哪吒2",
-      "onboard_time": 1738279215,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 235507,
       "num": 220625,
       "word": "黄蓉眼神",
@@ -817,6 +825,14 @@
       "onboard_time": 1738236138,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224459,
+      "num": 224459,
+      "word": "敖光",
+      "onboard_time": 1738326919,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 221004,
@@ -883,12 +899,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208573,
+      "num": 241204,
+      "word": "蛟龙行动排片",
+      "onboard_time": 1738324938,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 208304,
       "num": 208304,
       "word": "王楚钦首轮对阵宇田幸矢",
       "onboard_time": 1738320319,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205875,
+      "num": 205875,
+      "word": "卢昱晓吴宣仪亲亲",
+      "onboard_time": 1738327518,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 205542,
@@ -921,14 +953,6 @@
       "onboard_time": 1738291516,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 203434,
-      "num": 182531,
-      "word": "敖光",
-      "onboard_time": 1738326919,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 201037,
@@ -1027,6 +1051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 190627,
+      "num": 190627,
+      "word": "时代少年团直播",
+      "onboard_time": 1738325837,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189974,
       "num": 189974,
       "word": "大年初三休息好",
@@ -1049,14 +1081,6 @@
       "onboard_time": 1738307357,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 186042,
-      "num": 168559,
-      "word": "时代少年团直播",
-      "onboard_time": 1738325837,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 180462,
@@ -1091,6 +1115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174723,
+      "num": 174723,
+      "word": "余承东后备箱裸装鸡蛋",
+      "onboard_time": 1738329738,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 174189,
       "num": 332390,
       "word": "春节假期已到一半",
@@ -1121,6 +1153,14 @@
       "onboard_time": 1738305798,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169751,
+      "num": 169751,
+      "word": "光头强做了微整形还偷偷洗白了",
+      "onboard_time": 1738325359,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 169749,
@@ -1177,14 +1217,6 @@
       "onboard_time": 1738325478,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 162768,
-      "num": 162768,
-      "word": "卢昱晓吴宣仪亲亲",
-      "onboard_time": 1738327518,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 162647,
@@ -1323,19 +1355,19 @@
       "category": "电影"
     },
     {
+      "raw_hot": 151024,
+      "num": 939715,
+      "word": "大年初三大街小巷热热闹闹",
+      "onboard_time": 1738316719,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 149500,
       "num": 149500,
       "word": "郭靖去了趟中原什么都懂了",
       "onboard_time": 1738297877,
       "rank": 39,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 148862,
-      "num": 148862,
-      "word": "光头强做了微整形还偷偷洗白了",
-      "onboard_time": 1738325359,
-      "rank": 33,
       "category": "电影"
     },
     {
@@ -1417,6 +1449,14 @@
       "onboard_time": 1738293798,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144199,
+      "num": 144199,
+      "word": "大哪吒 黄子韬",
+      "onboard_time": 1738329559,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 143965,
@@ -1523,12 +1563,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135839,
+      "num": 135839,
+      "word": "凌晨四五点吃年夜饭全家一脸困意",
+      "onboard_time": 1738327578,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135651,
       "num": 135651,
       "word": "小侯爷姬发实在貌美",
       "onboard_time": 1738325478,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 135162,
+      "num": 135162,
+      "word": "自己已经是能赚100张一百的大人了",
+      "onboard_time": 1738328359,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 135160,
@@ -1561,6 +1617,14 @@
       "onboard_time": 1738242620,
       "rank": 17,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 131392,
+      "num": 131392,
+      "word": "孙颖莎微博粉丝破千万",
+      "onboard_time": 1738329500,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 131199,
@@ -1659,6 +1723,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 125551,
+      "num": 125551,
+      "word": "老板回应净赚53.2万全给员工",
+      "onboard_time": 1738328599,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124936,
+      "num": 124936,
+      "word": "锐不可当",
+      "onboard_time": 1738329438,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124700,
       "num": 143742,
       "word": "崩坏星穹铁道",
@@ -1755,6 +1835,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 118674,
+      "num": 114222,
+      "word": "申公豹好惨",
+      "onboard_time": 1738329617,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 118657,
       "num": 118657,
       "word": "曼城 皇马",
@@ -1777,6 +1865,22 @@
       "onboard_time": 1738322120,
       "rank": 30,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 116479,
+      "num": 116479,
+      "word": "给妹妹1000元帮我扛下所有战火",
+      "onboard_time": 1738329799,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 115877,
+      "num": 115877,
+      "word": "0713在马思纯春晚vlog说相声",
+      "onboard_time": 1738328959,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 114854,
@@ -1875,6 +1979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109121,
+      "num": 883155,
+      "word": "中国人的春节传统走向世界了",
+      "onboard_time": 1738324099,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108272,
       "num": 108272,
       "word": "王菲世界赠予我的武汉浪漫",
@@ -1939,14 +2051,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104012,
-      "num": 104012,
-      "word": "中国人的春节传统走向世界了",
-      "onboard_time": 1738324099,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 103945,
       "num": 103945,
       "word": "杨玉环新皮肤特效",
@@ -1961,14 +2065,6 @@
       "onboard_time": 1738314619,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 103802,
-      "num": 103802,
-      "word": "凌晨四五点吃年夜饭全家一脸困意",
-      "onboard_time": 1738327578,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 103245,
@@ -2515,6 +2611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71627,
+      "num": 200539,
+      "word": "欧冠抽签",
+      "onboard_time": 1738329259,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70578,
       "num": 70578,
       "word": "易烊千玺回应5年前的愿望",
@@ -2611,12 +2715,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 58210,
-      "num": 939715,
-      "word": "大年初三大街小巷热热闹闹",
-      "onboard_time": 1738316719,
-      "rank": 2,
-      "category": "正能量"
+      "raw_hot": 59379,
+      "num": 672624,
+      "word": "乙巳蛇年为啥会出现两头春",
+      "onboard_time": 1738329259,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50897,
@@ -2803,14 +2907,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23066,
-      "num": 305241,
-      "word": "00后小伙狂追5分钟截停起火货车",
-      "onboard_time": 1738327757,
-      "rank": 14,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 22494,
       "num": 233943,
       "word": "起底美国撞机事故涉事直升机",
@@ -2911,6 +3007,9 @@
     },
     {
       "word": "#总书记新春考察的温暖瞬间#"
+    },
+    {
+      "word": "#注重家庭注重家教注重家风#"
     }
   ]
 }
