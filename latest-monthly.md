@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/31 10:57:29
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/31 11:23:39
 </p>
 </blockquote>
 <p>
@@ -443,6 +443,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B8%81%E7%A6%B9%E5%85%AE%E6%89%8B%E6%8C%BD%E6%89%8B%23" target="weibo">
 虞书欣丁禹兮手挽手（热度：3594619）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%89%94%E9%9E%AD%E7%82%AE%E8%BF%9B%E5%8C%96%E7%B2%AA%E6%B1%A0%E7%9A%84%E7%94%B7%E5%AD%A9%E5%B7%B2%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%B8%A6%E8%B5%B0%23" target="weibo">
+扔鞭炮进化粪池的男孩已被警方带走（热度：3591172）
 </a>
 </li>
 
@@ -905,12 +911,6 @@ TikTok停止在美服务（热度：2463156）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%94%B1%E4%BA%86%E8%B5%B5%E8%8B%B1%E4%BF%8A%E7%9A%84%E6%AD%8C%23" target="weibo">
 薛之谦唱了赵英俊的歌（热度：2432486）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%89%94%E9%9E%AD%E7%82%AE%E8%BF%9B%E5%8C%96%E7%B2%AA%E6%B1%A0%E7%9A%84%E7%94%B7%E5%AD%A9%E5%B7%B2%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%B8%A6%E8%B5%B0%23" target="weibo">
-扔鞭炮进化粪池的男孩已被警方带走（热度：2431764）
 </a>
 </li>
 
@@ -3411,6 +3411,12 @@ Angelababy发和儿子合照（热度：1295246）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E7%A5%A8%E6%88%BF%23" target="weibo">
+哪吒2票房（热度：1244483）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E8%83%BD%E9%9D%99%E6%9B%BE%E6%95%85%E6%84%8F%E7%81%8C%E9%86%89%E6%81%A9%E5%88%A9%23" target="weibo">
 伊能静曾故意灌醉恩利（热度：1241779）
 </a>
@@ -4103,12 +4109,6 @@ TikTok发声明（热度：1148125）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E6%AD%A3%E5%9C%A8%E5%85%A8%E5%8A%9B%E5%AF%BB%E6%89%BE%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B%E5%B9%BB%E4%BA%91%23" target="weibo">
 警方正在全力寻找电竞选手幻云（热度：1107028）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E7%A5%A8%E6%88%BF%23" target="weibo">
-哪吒2票房（热度：1106953）
 </a>
 </li>
 
@@ -5571,6 +5571,12 @@ A股（热度：927066）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9D%A1%E6%87%92%E8%A7%89%23" target="weibo">
+睡懒觉（热度：924552）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%AE%A2%E6%9C%BA%E5%A4%B1%E4%BA%8B%E5%89%8D%E7%96%91%E6%92%9E%E4%B8%8A%E9%B8%9F%E7%BE%A4%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89%23" target="weibo">
 韩国客机失事前疑撞上鸟群画面曝光（热度：924324）
 </a>
@@ -6005,12 +6011,6 @@ D社曝金敏喜怀孕（热度：893355）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%8B%9C%E7%99%BB%E5%BF%98%E4%BA%86%E8%B5%A6%E5%85%8D%E8%87%AA%E5%B7%B1%23" target="weibo">
 特朗普称拜登忘了赦免自己（热度：882889）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E9%9F%A9%E5%9B%BD%E6%A3%8B%E9%99%A2%E9%95%BF%E8%84%91%E5%AD%90%E4%BA%86%E5%90%97%23" target="weibo">
-韩国网友吐槽韩国棋院长脑子了吗（热度：882572）
 </a>
 </li>
 

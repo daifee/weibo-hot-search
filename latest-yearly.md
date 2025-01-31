@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/31 10:57:29
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/31 11:23:39
 </p>
 </blockquote>
 <p>
@@ -443,6 +443,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B8%81%E7%A6%B9%E5%85%AE%E6%89%8B%E6%8C%BD%E6%89%8B%23" target="weibo">
 虞书欣丁禹兮手挽手（热度：3594619）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%89%94%E9%9E%AD%E7%82%AE%E8%BF%9B%E5%8C%96%E7%B2%AA%E6%B1%A0%E7%9A%84%E7%94%B7%E5%AD%A9%E5%B7%B2%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%B8%A6%E8%B5%B0%23" target="weibo">
+扔鞭炮进化粪池的男孩已被警方带走（热度：3591172）
 </a>
 </li>
 
@@ -905,12 +911,6 @@ TikTok停止在美服务（热度：2463156）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%94%B1%E4%BA%86%E8%B5%B5%E8%8B%B1%E4%BF%8A%E7%9A%84%E6%AD%8C%23" target="weibo">
 薛之谦唱了赵英俊的歌（热度：2432486）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%89%94%E9%9E%AD%E7%82%AE%E8%BF%9B%E5%8C%96%E7%B2%AA%E6%B1%A0%E7%9A%84%E7%94%B7%E5%AD%A9%E5%B7%B2%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%B8%A6%E8%B5%B0%23" target="weibo">
-扔鞭炮进化粪池的男孩已被警方带走（热度：2431764）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1738293819327,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1244483,
+        "num": 1244483,
+        "word": "哪吒2票房",
+        "onboard_time": 1738288816,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 3591172,
+        "num": 966409,
+        "word": "扔鞭炮进化粪池的男孩已被警方带走",
+        "onboard_time": 1738289537,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10631,
+        "num": 650245,
+        "word": "英歌舞跳出对新年的美好祝福",
+        "onboard_time": 1738214777,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 511097,
+        "num": 511097,
+        "word": "敖丙他爸出场 哇声一片",
+        "onboard_time": 1738251139,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 381507,
+        "num": 381507,
+        "word": "蛇为啥会把四肢进化没了",
+        "onboard_time": 1738282756,
+        "rank": 4,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 367660,
+        "num": 367660,
+        "word": "正月初三扫一扫",
+        "onboard_time": 1738289236,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 410294,
+        "num": 360954,
+        "word": "哪吒排片",
+        "onboard_time": 1738289656,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 379396,
+        "num": 356705,
+        "word": "王俊凯催什么催牌都很一般",
+        "onboard_time": 1738286296,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 332272,
+        "num": 332272,
+        "word": "初三宅家才是过年顶级仪式感",
+        "onboard_time": 1738282156,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77441,
+        "num": 331889,
+        "word": "国际金价创下盘中新高",
+        "onboard_time": 1738292236,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 84343,
+        "num": 329980,
+        "word": "春节档的第一波惊喜是哪吒给的",
+        "onboard_time": 1738289897,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 924552,
+        "num": 329487,
+        "word": "睡懒觉",
+        "onboard_time": 1738289956,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 717453,
+        "num": 327445,
+        "word": "美国24年来最严重空难",
+        "onboard_time": 1738281314,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 476400,
+        "num": 326018,
+        "word": "李雨霏自曝童年曾被舅舅猥亵",
+        "onboard_time": 1738293137,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340441,
+        "num": 324633,
+        "word": "肖战 郭靖",
+        "onboard_time": 1738248079,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 324399,
+        "num": 324399,
+        "word": "郭敬明晒了鞠婧祎田嘉瑞原始帧",
+        "onboard_time": 1738283656,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262334,
+        "num": 262334,
+        "word": "金价",
+        "onboard_time": 1738233497,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 252140,
+        "num": 252140,
+        "word": "哪吒2 隐喻",
+        "onboard_time": 1738293376,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 228127,
+        "num": 244918,
+        "word": "美国撞机事故中有2名中国公民遇难",
+        "onboard_time": 1738281014,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 218582,
+        "num": 244603,
+        "word": "扎克伯格称仍在消化DeepSeek的成果",
+        "onboard_time": 1738292776,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 244449,
+        "num": 244449,
+        "word": "敖丙传",
+        "onboard_time": 1738281375,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 243803,
+        "num": 243803,
+        "word": "徐志胜在哪都好认除了家里",
+        "onboard_time": 1738292356,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231171,
+        "num": 231171,
+        "word": "林茉茉 董礼怡",
+        "onboard_time": 1738285816,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222700,
+        "num": 222700,
+        "word": "吴莫愁出道13年才登上春晚",
+        "onboard_time": 1738291876,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172524,
+        "num": 172524,
+        "word": "大年初三宜好好休息",
+        "onboard_time": 1738279752,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205803,
+        "num": 170894,
+        "word": "白鹿终于加到了宋佳微信",
+        "onboard_time": 1738293077,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197699,
+        "num": 169590,
+        "word": "行程图",
+        "onboard_time": 1738292537,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166144,
+        "num": 166144,
+        "word": "哪吒2",
+        "onboard_time": 1738279215,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143186,
+        "num": 143186,
+        "word": "金店挂牌价涨至835元",
+        "onboard_time": 1738290796,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131444,
+        "num": 131444,
+        "word": "新一轮大范围雨雪开启",
+        "onboard_time": 1738287318,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159323,
+        "num": 128014,
+        "word": "朱一龙祝你新年有梦追梦圆梦",
+        "onboard_time": 1738290917,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157695,
+        "num": 127258,
+        "word": "杭州70岁肖战粉去影院看射雕",
+        "onboard_time": 1738288036,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153041,
+        "num": 126198,
+        "word": "岳云鹏过年不语一味的炫饭",
+        "onboard_time": 1738293017,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122758,
+        "num": 122758,
+        "word": "大年初三休息好",
+        "onboard_time": 1738290917,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242441,
+        "num": 121086,
+        "word": "男孩下水道扔鞭炮致爆炸多车被掀翻",
+        "onboard_time": 1738291155,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145192,
+        "num": 120422,
+        "word": "赵露思新发色好美",
+        "onboard_time": 1738263251,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143103,
+        "num": 117080,
+        "word": "埃文凯尔已启程回美国",
+        "onboard_time": 1738291516,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134611,
+        "num": 116000,
+        "word": "2025春节档票房破38亿",
+        "onboard_time": 1738293017,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113768,
+        "num": 113768,
+        "word": "丫丫开心吃饺子",
+        "onboard_time": 1738291576,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110090,
+        "num": 110090,
+        "word": "国内足金首饰1克突破846元",
+        "onboard_time": 1738292836,
+        "rank": 39,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 107675,
+        "num": 107675,
+        "word": "男子过年走亲戚遇户主撒土",
+        "onboard_time": 1738290917,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104407,
+        "num": 104407,
+        "word": "春节假期已到一半",
+        "onboard_time": 1738281075,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97468,
+        "num": 97468,
+        "word": "aespaMBC舞台",
+        "onboard_time": 1738293437,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 94614,
+        "num": 94614,
+        "word": "刘昊然影史首位票房200亿90后男主演",
+        "onboard_time": 1738282815,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92764,
+        "num": 92764,
+        "word": "春节假期返程天气",
+        "onboard_time": 1738293798,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90510,
+        "num": 90510,
+        "word": "熊孩子往下水道丢鞭炮地面被炸大坑",
+        "onboard_time": 1738292176,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87312,
+        "num": 87312,
+        "word": "原来经济独立是可以过好年的",
+        "onboard_time": 1738248558,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87209,
+        "num": 87209,
+        "word": "1月的最后一天",
+        "onboard_time": 1738281075,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85756,
+        "num": 85756,
+        "word": "200多个山村父母的共享后备箱",
+        "onboard_time": 1738293736,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84839,
+        "num": 84839,
+        "word": "乌尔善说姬发邓婵玉是惺惺相惜",
+        "onboard_time": 1738253059,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#团圆年#"
+    }
+  }
+}
