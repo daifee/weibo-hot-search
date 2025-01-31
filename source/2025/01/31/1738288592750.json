@@ -1,0 +1,410 @@
+{
+  "runTime": 1738288592750,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 992562,
+        "num": 1158809,
+        "word": "蛇为啥会把四肢进化没了",
+        "onboard_time": 1738282756,
+        "rank": 0,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 773929,
+        "num": 773929,
+        "word": "肖战 郭靖",
+        "onboard_time": 1738248079,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13559,
+        "num": 668556,
+        "word": "英歌舞跳出对新年的美好祝福",
+        "onboard_time": 1738214777,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 662775,
+        "num": 662775,
+        "word": "敖丙他爸出场 哇声一片",
+        "onboard_time": 1738251139,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 277342,
+        "num": 277342,
+        "word": "初三宅家才是过年顶级仪式感",
+        "onboard_time": 1738282156,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1029997,
+        "num": 276787,
+        "word": "美国24年来最严重空难",
+        "onboard_time": 1738281314,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 630822,
+        "num": 275922,
+        "word": "郭敬明晒了鞠婧祎田嘉瑞原始帧",
+        "onboard_time": 1738283656,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 490612,
+        "num": 275178,
+        "word": "美国撞机事故中有2名中国公民遇难",
+        "onboard_time": 1738281014,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 438364,
+        "num": 274036,
+        "word": "林茉茉 董礼怡",
+        "onboard_time": 1738285816,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202901,
+        "num": 272681,
+        "word": "新一轮大范围雨雪开启",
+        "onboard_time": 1738287318,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254793,
+        "num": 272438,
+        "word": "大年初三宜好好休息",
+        "onboard_time": 1738279752,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388311,
+        "num": 271251,
+        "word": "王俊凯催什么催牌都很一般",
+        "onboard_time": 1738286296,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 387819,
+        "num": 270620,
+        "word": "全红婵晒百张照片请网友看烟花",
+        "onboard_time": 1738282876,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 326209,
+        "num": 269073,
+        "word": "敖丙传",
+        "onboard_time": 1738281375,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 288648,
+        "num": 268743,
+        "word": "刘昊然影史首位票房200亿90后男主演",
+        "onboard_time": 1738282815,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 267888,
+        "num": 267888,
+        "word": "金价",
+        "onboard_time": 1738233497,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 265180,
+        "num": 265180,
+        "word": "一县城影院推无座票需自带板凳观影",
+        "onboard_time": 1738250958,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225088,
+        "num": 225088,
+        "word": "特朗普称撞机无人生还",
+        "onboard_time": 1738282156,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 209729,
+        "num": 209729,
+        "word": "2025春节档首部10亿电影诞生",
+        "onboard_time": 1738253537,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174189,
+        "num": 174189,
+        "word": "春节假期已到一半",
+        "onboard_time": 1738281075,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 440774,
+        "num": 171152,
+        "word": "王楚钦调侃全红婵百张烟花照上传费劲",
+        "onboard_time": 1738286596,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231909,
+        "num": 159825,
+        "word": "小孩放鞭炮扔下水道引发爆炸",
+        "onboard_time": 1738285576,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193561,
+        "num": 155119,
+        "word": "原来经济独立是可以过好年的",
+        "onboard_time": 1738248558,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182787,
+        "num": 147818,
+        "word": "票房",
+        "onboard_time": 1738247598,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142623,
+        "num": 142623,
+        "word": "拍全家福时仙女棒意外引燃鞭炮",
+        "onboard_time": 1738282213,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142001,
+        "num": 142001,
+        "word": "刘谦 真的不是我干的",
+        "onboard_time": 1738251018,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139946,
+        "num": 139946,
+        "word": "赵露思新发色好美",
+        "onboard_time": 1738263251,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139014,
+        "num": 139014,
+        "word": "春晚6把西湖绸伞制作近20天",
+        "onboard_time": 1738284856,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135689,
+        "num": 135689,
+        "word": "杭州70岁肖战粉去影院看射雕",
+        "onboard_time": 1738288036,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121301,
+        "num": 121301,
+        "word": "1月的最后一天",
+        "onboard_time": 1738281075,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121002,
+        "num": 121002,
+        "word": "哪吒2",
+        "onboard_time": 1738279215,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115313,
+        "num": 115313,
+        "word": "麻辣王子家过年被小朋友挤爆",
+        "onboard_time": 1738250536,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114746,
+        "num": 114746,
+        "word": "大哪吒帅了不止一点点",
+        "onboard_time": 1738249759,
+        "rank": 32,
+        "category": "电影,作品衍生"
+      },
+      {
+        "raw_hot": 103945,
+        "num": 103945,
+        "word": "杨玉环新皮肤特效",
+        "onboard_time": 1738284255,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 101109,
+        "num": 101109,
+        "word": "王俊凯你快回我呀",
+        "onboard_time": 1738251257,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 93303,
+        "num": 93303,
+        "word": "乌尔善说姬发邓婵玉是惺惺相惜",
+        "onboard_time": 1738253059,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92346,
+        "num": 92346,
+        "word": "范丞丞直播角度太暧昧了",
+        "onboard_time": 1738247838,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91103,
+        "num": 91103,
+        "word": "邓婵玉撕掉了女性被凝视困境",
+        "onboard_time": 1738239379,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 90249,
+        "num": 90249,
+        "word": "英伟达说禁售将损害在最大市场的收入",
+        "onboard_time": 1738280714,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 85054,
+        "num": 85054,
+        "word": "梁家辉在春晚后台哭了3次",
+        "onboard_time": 1738236259,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82117,
+        "num": 82117,
+        "word": "大年初三",
+        "onboard_time": 1738279215,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77322,
+        "num": 77322,
+        "word": "过年天天洗碗崩溃了",
+        "onboard_time": 1738284075,
+        "rank": 41,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 76909,
+        "num": 76909,
+        "word": "欧文东契奇落选全明星",
+        "onboard_time": 1738285276,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76509,
+        "num": 76509,
+        "word": "谢霆锋和两个儿子背影照",
+        "onboard_time": 1738241778,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76480,
+        "num": 76480,
+        "word": "第一批外地女婿已经到娘家了",
+        "onboard_time": 1738243159,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75655,
+        "num": 75655,
+        "word": "美国撞机已找到约40具遗体",
+        "onboard_time": 1738238958,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 73700,
+        "num": 73700,
+        "word": "金智秀新专回归预告",
+        "onboard_time": 1738287196,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 72376,
+        "num": 72376,
+        "word": "五福临门",
+        "onboard_time": 1738287736,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71440,
+        "num": 71440,
+        "word": "当留学生瞒着家人突然回家过年",
+        "onboard_time": 1738262292,
+        "rank": 48,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 70578,
+        "num": 70578,
+        "word": "易烊千玺回应5年前的愿望",
+        "onboard_time": 1738282696,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#行之所向心之所系#"
+    }
+  }
+}
