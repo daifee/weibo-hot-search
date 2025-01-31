@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738363064130,
+  "endTime": 1738365634494,
   "band_list": [
     {
       "raw_hot": 1281311,
@@ -75,6 +75,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 315810,
+      "num": 744974,
+      "word": "春晚带火了四大城市",
+      "onboard_time": 1738344614,
+      "rank": 11,
+      "category": "综艺,旅游"
+    },
+    {
       "raw_hot": 280742,
       "num": 185387,
       "word": "哪吒2或将进入影史票房前三",
@@ -89,14 +97,6 @@
       "onboard_time": 1738318877,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 259038,
-      "num": 456346,
-      "word": "春晚带火了四大城市",
-      "onboard_time": 1738344614,
-      "rank": 11,
-      "category": "综艺,旅游"
     },
     {
       "raw_hot": 258797,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165449,
+      "num": 165449,
+      "word": "美国打压DeepSeek的后果",
+      "onboard_time": 1738326858,
+      "rank": 41,
+      "category": "国际时政,互联网"
+    },
+    {
       "raw_hot": 163937,
       "num": 134369,
       "word": "蛇年春晚你还在循环播放哪首歌",
@@ -307,6 +315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 100554,
+      "num": 100554,
+      "word": "三亚一游客拿走祈福钱放自己包中",
+      "onboard_time": 1738364771,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100542,
       "num": 100542,
       "word": "GOT7演唱会",
@@ -339,12 +355,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 91970,
-      "num": 93897,
-      "word": "美国打压DeepSeek的后果",
-      "onboard_time": 1738326858,
-      "rank": 41,
-      "category": "国际时政,互联网"
+      "raw_hot": 92395,
+      "num": 92395,
+      "word": "特朗普称撞机事故都怪奥巴马和拜登",
+      "onboard_time": 1738336278,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 91745,
@@ -361,14 +377,6 @@
       "onboard_time": 1738340477,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 85787,
-      "num": 85787,
-      "word": "特朗普称撞机事故都怪奥巴马和拜登",
-      "onboard_time": 1738336278,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 85705,
@@ -459,11 +467,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 53269,
+      "num": 53269,
+      "word": "大年初四接灶王",
+      "onboard_time": 1738345094,
+      "rank": 48,
+      "category": "健康医疗,运动健身"
+    },
+    {
       "raw_hot": 53116,
       "num": 136004,
       "word": "2025春节假期过半了",
       "onboard_time": 1738342456,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48212,
+      "num": 35795,
+      "word": "女子除夕错转1万元红包给陌生人",
+      "onboard_time": 1738365553,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -484,19 +508,19 @@
     },
     {
       "raw_hot": 41620,
-      "num": 33381,
+      "num": 40013,
       "word": "李雨霏回应",
       "onboard_time": 1738353912,
       "rank": 36,
       "category": "艺人"
     },
     {
-      "raw_hot": 40666,
-      "num": 40666,
-      "word": "大年初四接灶王",
-      "onboard_time": 1738345094,
-      "rank": 48,
-      "category": "健康医疗,运动健身"
+      "raw_hot": 37754,
+      "num": 37754,
+      "word": "三亚西岛致歉",
+      "onboard_time": 1738332920,
+      "rank": 42,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 37688,
@@ -505,6 +529,14 @@
       "onboard_time": 1738349952,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 37284,
+      "num": 35792,
+      "word": "黄晓明与陈凯歌一家聚餐",
+      "onboard_time": 1738349592,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 33526,
@@ -531,12 +563,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31379,
-      "num": 31379,
-      "word": "三亚西岛致歉",
-      "onboard_time": 1738332920,
-      "rank": 42,
-      "category": "辟谣/通报"
+      "raw_hot": 28851,
+      "num": 28851,
+      "word": "小沈阳你说中国人不骗中国人",
+      "onboard_time": 1738364112,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 27833,
@@ -547,12 +579,28 @@
       "category": "电竞,体育"
     },
     {
-      "raw_hot": 24973,
-      "num": 24973,
-      "word": "黄晓明与陈凯歌一家聚餐",
-      "onboard_time": 1738349592,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 26482,
+      "num": 26482,
+      "word": "票房",
+      "onboard_time": 1738315277,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 24802,
+      "num": 24802,
+      "word": "电影蛟龙行动",
+      "onboard_time": 1738359971,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 24583,
+      "num": 24583,
+      "word": "埃文凯尔哭着告别中国3月还来",
+      "onboard_time": 1738365132,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23946,
@@ -569,14 +617,6 @@
       "onboard_time": 1738349415,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 21300,
-      "num": 21300,
-      "word": "电影蛟龙行动",
-      "onboard_time": 1738359971,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 14292,
@@ -627,6 +667,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 10683,
+      "num": 27852,
+      "word": "春节平均每家产生近2kg剩菜剩饭",
+      "onboard_time": 1738365613,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 9709,
       "num": 68842,
       "word": "老外在中国过年0点赶去敲钟",
@@ -641,6 +689,14 @@
       "onboard_time": 1738355411,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 6953,
+      "num": 40350,
+      "word": "全英公开赛名单",
+      "onboard_time": 1738365313,
+      "rank": 24,
+      "category": "体育"
     }
   ],
   "hotgov_list": [

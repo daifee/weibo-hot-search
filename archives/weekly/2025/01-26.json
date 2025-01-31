@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738363064130,
+  "endTime": 1738365634494,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -5195,6 +5195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 315810,
+      "num": 744974,
+      "word": "春晚带火了四大城市",
+      "onboard_time": 1738344614,
+      "rank": 11,
+      "category": "综艺,旅游"
+    },
+    {
       "raw_hot": 315454,
       "num": 315454,
       "word": "娜然封神首映再现妲己花瓣妆",
@@ -6017,14 +6025,6 @@
       "onboard_time": 1738043897,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 259038,
-      "num": 456346,
-      "word": "春晚带火了四大城市",
-      "onboard_time": 1738344614,
-      "rank": 11,
-      "category": "综艺,旅游"
     },
     {
       "raw_hot": 258867,
@@ -14091,6 +14091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100554,
+      "num": 100554,
+      "word": "三亚一游客拿走祈福钱放自己包中",
+      "onboard_time": 1738364771,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100542,
       "num": 100542,
       "word": "GOT7演唱会",
@@ -16819,6 +16827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 53269,
+      "num": 53269,
+      "word": "大年初四接灶王",
+      "onboard_time": 1738345094,
+      "rank": 48,
+      "category": "健康医疗,运动健身"
+    },
+    {
       "raw_hot": 53116,
       "num": 136004,
       "word": "2025春节假期过半了",
@@ -17000,6 +17016,14 @@
       "word": "景区回应美人鱼表演者遭鲟鱼袭击",
       "onboard_time": 1738166418,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48212,
+      "num": 35795,
+      "word": "女子除夕错转1万元红包给陌生人",
+      "onboard_time": 1738365553,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -17204,7 +17228,7 @@
     },
     {
       "raw_hot": 41620,
-      "num": 33381,
+      "num": 40013,
       "word": "李雨霏回应",
       "onboard_time": 1738353912,
       "rank": 36,
@@ -17233,14 +17257,6 @@
       "onboard_time": 1738044377,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 40666,
-      "num": 40666,
-      "word": "大年初四接灶王",
-      "onboard_time": 1738345094,
-      "rank": 48,
-      "category": "健康医疗,运动健身"
     },
     {
       "raw_hot": 40624,
@@ -17473,6 +17489,14 @@
       "onboard_time": 1738256894,
       "rank": 48,
       "category": "情感,民生新闻"
+    },
+    {
+      "raw_hot": 37284,
+      "num": 35792,
+      "word": "黄晓明与陈凯歌一家聚餐",
+      "onboard_time": 1738349592,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 37262,
@@ -17811,6 +17835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28851,
+      "num": 28851,
+      "word": "小沈阳你说中国人不骗中国人",
+      "onboard_time": 1738364112,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 28825,
       "num": 281183,
       "word": "盛世如你我所愿",
@@ -18075,14 +18107,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 24973,
-      "num": 24973,
-      "word": "黄晓明与陈凯歌一家聚餐",
-      "onboard_time": 1738349592,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 24837,
       "num": 24837,
       "word": "为何美国两日坠三机",
@@ -18091,12 +18115,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 24802,
+      "num": 24802,
+      "word": "电影蛟龙行动",
+      "onboard_time": 1738359971,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 24736,
       "num": 108356,
       "word": "蒋璐霞的糖从红海带到了蛟龙",
       "onboard_time": 1738142899,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 24583,
+      "num": 24583,
+      "word": "埃文凯尔哭着告别中国3月还来",
+      "onboard_time": 1738365132,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24567,
@@ -18361,14 +18401,6 @@
       "onboard_time": 1738236379,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21300,
-      "num": 21300,
-      "word": "电影蛟龙行动",
-      "onboard_time": 1738359971,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 20971,
@@ -18795,6 +18827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 10683,
+      "num": 27852,
+      "word": "春节平均每家产生近2kg剩菜剩饭",
+      "onboard_time": 1738365613,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10630,
       "num": 159273,
       "word": "蛇年送你9个美好祝愿",
@@ -19001,6 +19041,14 @@
       "onboard_time": 1738099631,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 6953,
+      "num": 40350,
+      "word": "全英公开赛名单",
+      "onboard_time": 1738365313,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 6933,
