@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738329930518,
+  "endTime": 1738330633891,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -795,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1285196,
+      "num": 1285196,
+      "word": "申公豹 丑强惨",
+      "onboard_time": 1738327638,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1268212,
       "num": 1268212,
       "word": "哪吒2票房",
@@ -1545,14 +1553,6 @@
       "onboard_time": 1737889577,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 857094,
-      "num": 857094,
-      "word": "申公豹 丑强惨",
-      "onboard_time": 1738327638,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 855677,
@@ -2451,6 +2451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 602248,
+      "num": 410723,
+      "word": "过年 无聊",
+      "onboard_time": 1738330518,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 598554,
       "num": 294042,
       "word": "王子奇",
@@ -3012,7 +3020,7 @@
     },
     {
       "raw_hot": 517911,
-      "num": 475736,
+      "num": 500721,
       "word": "龙爹表面上和私底下",
       "onboard_time": 1738324638,
       "rank": 30,
@@ -4907,6 +4915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 329239,
+      "num": 329239,
+      "word": "敖光",
+      "onboard_time": 1738326919,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 329035,
       "num": 1195280,
       "word": "张艺兴开场硬帅",
@@ -6427,6 +6443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236590,
+      "num": 236590,
+      "word": "大哪吒 黄子韬",
+      "onboard_time": 1738329559,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 236574,
       "num": 236574,
       "word": "哪吒2是什么起点爽文",
@@ -6675,14 +6699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 224459,
-      "num": 224459,
-      "word": "敖光",
-      "onboard_time": 1738326919,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 224257,
       "num": 224257,
       "word": "美坠河客机上有64人",
@@ -6720,6 +6736,14 @@
       "word": "山东人大年初一拜年磕头队伍数百米",
       "onboard_time": 1738141038,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 222656,
+      "num": 222656,
+      "word": "老板回应净赚53.2万全给员工",
+      "onboard_time": 1738328599,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -8235,6 +8259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188341,
+      "num": 188341,
+      "word": "余承东后备箱裸装鸡蛋",
+      "onboard_time": 1738329738,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 188326,
       "num": 188326,
       "word": "如鸢",
@@ -8531,6 +8563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181862,
+      "num": 181862,
+      "word": "美国打压DeepSeek的后果",
+      "onboard_time": 1738326858,
+      "rank": 27,
+      "category": "国际时政,互联网"
+    },
+    {
       "raw_hot": 181323,
       "num": 181323,
       "word": "朱志鑫 青岛",
@@ -8593,14 +8633,6 @@
       "onboard_time": 1738055720,
       "rank": 19,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 179200,
-      "num": 179200,
-      "word": "美国打压DeepSeek的后果",
-      "onboard_time": 1738326858,
-      "rank": 27,
-      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 178973,
@@ -8817,14 +8849,6 @@
       "onboard_time": 1738155020,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 174723,
-      "num": 174723,
-      "word": "余承东后备箱裸装鸡蛋",
-      "onboard_time": 1738329738,
-      "rank": 29,
-      "category": "互联网"
     },
     {
       "raw_hot": 174561,
@@ -9123,6 +9147,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 168640,
+      "num": 208114,
+      "word": "孙颖莎微博粉丝破千万",
+      "onboard_time": 1738329500,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168542,
       "num": 168542,
       "word": "张艺兴分享应对春节催婚的办法",
@@ -9161,6 +9193,14 @@
       "onboard_time": 1738320859,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168019,
+      "num": 168019,
+      "word": "给妹妹1000元帮我扛下所有战火",
+      "onboard_time": 1738329799,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 167441,
@@ -9843,6 +9883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156432,
+      "num": 156432,
+      "word": "凌晨四五点吃年夜饭全家一脸困意",
+      "onboard_time": 1738327578,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156193,
       "num": 156193,
       "word": "欧阳娜娜抱外甥",
@@ -10073,6 +10121,14 @@
       "onboard_time": 1738296976,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 152116,
+      "num": 152116,
+      "word": "0713在马思纯春晚vlog说相声",
+      "onboard_time": 1738328959,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 151799,
@@ -10571,14 +10627,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 144199,
-      "num": 144199,
-      "word": "大哪吒 黄子韬",
-      "onboard_time": 1738329559,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 144006,
       "num": 144006,
       "word": "费加罗抽奖",
@@ -10769,6 +10817,14 @@
       "onboard_time": 1738038377,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 141331,
+      "num": 141331,
+      "word": "自己已经是能赚100张一百的大人了",
+      "onboard_time": 1738328359,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 141306,
@@ -11203,14 +11259,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 135839,
-      "num": 135839,
-      "word": "凌晨四五点吃年夜饭全家一脸困意",
-      "onboard_time": 1738327578,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135651,
       "num": 135651,
       "word": "小侯爷姬发实在貌美",
@@ -11241,14 +11289,6 @@
       "onboard_time": 1738115180,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135162,
-      "num": 135162,
-      "word": "自己已经是能赚100张一百的大人了",
-      "onboard_time": 1738328359,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 135160,
@@ -11497,14 +11537,6 @@
       "onboard_time": 1737965538,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 131392,
-      "num": 131392,
-      "word": "孙颖莎微博粉丝破千万",
-      "onboard_time": 1738329500,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 131199,
@@ -11891,14 +11923,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 125551,
-      "num": 125551,
-      "word": "老板回应净赚53.2万全给员工",
-      "onboard_time": 1738328599,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125329,
       "num": 125329,
       "word": "打工宝妈在国色芳华里演上了贵人",
@@ -12251,6 +12275,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 121030,
+      "num": 121030,
+      "word": "打麻将摸到电话号码了",
+      "onboard_time": 1738329919,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120889,
       "num": 178778,
       "word": "胡冰卿新剧是赶不走的爱人",
@@ -12435,6 +12467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118469,
+      "num": 923838,
+      "word": "中国人的春节传统走向世界了",
+      "onboard_time": 1738324099,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118272,
       "num": 142402,
       "word": "兹维列夫大满贯三亚",
@@ -12523,14 +12563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116479,
-      "num": 116479,
-      "word": "给妹妹1000元帮我扛下所有战火",
-      "onboard_time": 1738329799,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 116477,
       "num": 116477,
       "word": "你们会告诉父母你的真实存款吗",
@@ -12569,14 +12601,6 @@
       "onboard_time": 1737876317,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 115877,
-      "num": 115877,
-      "word": "0713在马思纯春晚vlog说相声",
-      "onboard_time": 1738328959,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 115649,
@@ -12720,6 +12744,14 @@
       "word": "丫丫开心吃饺子",
       "onboard_time": 1738291576,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113762,
+      "num": 672624,
+      "word": "乙巳蛇年为啥会出现两头春",
+      "onboard_time": 1738329259,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -13113,14 +13145,6 @@
       "onboard_time": 1738321160,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 109121,
-      "num": 883155,
-      "word": "中国人的春节传统走向世界了",
-      "onboard_time": 1738324099,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 109014,
@@ -16209,14 +16233,6 @@
       "onboard_time": 1738306517,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 59379,
-      "num": 672624,
-      "word": "乙巳蛇年为啥会出现两头春",
-      "onboard_time": 1738329259,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 59363,

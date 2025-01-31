@@ -1,0 +1,410 @@
+{
+  "runTime": 1738330633891,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1285196,
+        "num": 1285196,
+        "word": "申公豹 丑强惨",
+        "onboard_time": 1738327638,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1275737,
+        "num": 1275737,
+        "word": "蛇是很多医学院校徽的主角",
+        "onboard_time": 1738327158,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 118469,
+        "num": 923838,
+        "word": "中国人的春节传统走向世界了",
+        "onboard_time": 1738324099,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 831843,
+        "num": 831843,
+        "word": "初三走亲戚为什么回家要早",
+        "onboard_time": 1738318877,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 679234,
+        "num": 679234,
+        "word": "哪吒2或将进入影史票房前三",
+        "onboard_time": 1738314798,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113762,
+        "num": 659044,
+        "word": "乙巳蛇年为啥会出现两头春",
+        "onboard_time": 1738329259,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 640234,
+        "num": 640234,
+        "word": "火锅店3天净赚53.2万全给员工",
+        "onboard_time": 1738309697,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 500721,
+        "num": 500721,
+        "word": "龙爹表面上和私底下",
+        "onboard_time": 1738324638,
+        "rank": 7,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 439526,
+        "num": 439526,
+        "word": "爷爷去世七年砍的柴还没用",
+        "onboard_time": 1738317678,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 412190,
+        "num": 412190,
+        "word": "俄乌冲突让乌克兰倒退100年",
+        "onboard_time": 1738323799,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 906883,
+        "num": 410811,
+        "word": "吐排片",
+        "onboard_time": 1738323498,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 602248,
+        "num": 410723,
+        "word": "过年 无聊",
+        "onboard_time": 1738330518,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 409269,
+        "num": 409269,
+        "word": "藕饼交融",
+        "onboard_time": 1738325778,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 403624,
+        "num": 403624,
+        "word": "哪吒2",
+        "onboard_time": 1738328359,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 329239,
+        "num": 329239,
+        "word": "敖光",
+        "onboard_time": 1738326919,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 317528,
+        "num": 317528,
+        "word": "朕与嬛嬛何时有过嫌隙",
+        "onboard_time": 1738321997,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 286771,
+        "num": 286771,
+        "word": "英伟达上线DeepSeek",
+        "onboard_time": 1738316599,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 274218,
+        "num": 274218,
+        "word": "那尔那茜八年空窗期都干了什么",
+        "onboard_time": 1738324699,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 256929,
+        "num": 256929,
+        "word": "900多块压岁钱发出了10万的感觉",
+        "onboard_time": 1738315818,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226568,
+        "num": 251341,
+        "word": "00后小伙狂追5分钟截停起火货车",
+        "onboard_time": 1738327757,
+        "rank": 19,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 249213,
+        "num": 249213,
+        "word": "乌尔善回应封神2争议",
+        "onboard_time": 1738300817,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 236590,
+        "num": 236590,
+        "word": "大哪吒 黄子韬",
+        "onboard_time": 1738329559,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 222656,
+        "num": 222656,
+        "word": "老板回应净赚53.2万全给员工",
+        "onboard_time": 1738328599,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222598,
+        "num": 222598,
+        "word": "票房",
+        "onboard_time": 1738315277,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168640,
+        "num": 208114,
+        "word": "孙颖莎微博粉丝破千万",
+        "onboard_time": 1738329500,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204980,
+        "num": 204980,
+        "word": "卢昱晓吴宣仪亲亲",
+        "onboard_time": 1738327518,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201783,
+        "num": 201783,
+        "word": "越南从韩国进口的无人机大批坠机",
+        "onboard_time": 1738320799,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 199163,
+        "num": 199163,
+        "word": "封神2妲己严选的女孩是艾米",
+        "onboard_time": 1738323319,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188341,
+        "num": 188341,
+        "word": "余承东后备箱裸装鸡蛋",
+        "onboard_time": 1738329738,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 181862,
+        "num": 181862,
+        "word": "美国打压DeepSeek的后果",
+        "onboard_time": 1738326858,
+        "rank": 29,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 176050,
+        "num": 176050,
+        "word": "时代少年团直播",
+        "onboard_time": 1738325837,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168019,
+        "num": 168019,
+        "word": "给妹妹1000元帮我扛下所有战火",
+        "onboard_time": 1738329799,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163165,
+        "num": 163165,
+        "word": "申小豹死了吗",
+        "onboard_time": 1738323379,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163153,
+        "num": 163153,
+        "word": "杨洋坐村头台阶看打篮球",
+        "onboard_time": 1738316119,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156432,
+        "num": 156432,
+        "word": "凌晨四五点吃年夜饭全家一脸困意",
+        "onboard_time": 1738327578,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152116,
+        "num": 152116,
+        "word": "0713在马思纯春晚vlog说相声",
+        "onboard_time": 1738328959,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149799,
+        "num": 149799,
+        "word": "光头强做了微整形还偷偷洗白了",
+        "onboard_time": 1738325359,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149431,
+        "num": 149431,
+        "word": "大年初三大街小巷热热闹闹",
+        "onboard_time": 1738316719,
+        "rank": 37,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 141331,
+        "num": 141331,
+        "word": "自己已经是能赚100张一百的大人了",
+        "onboard_time": 1738328359,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136259,
+        "num": 136259,
+        "word": "蛟龙行动排片",
+        "onboard_time": 1738324938,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133049,
+        "num": 133049,
+        "word": "李一桐冷脸绝杀",
+        "onboard_time": 1738323858,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129661,
+        "num": 129661,
+        "word": "难哄",
+        "onboard_time": 1738329679,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129496,
+        "num": 129496,
+        "word": "申公豹好惨",
+        "onboard_time": 1738329617,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 58972,
+        "num": 125689,
+        "word": "欧冠抽签",
+        "onboard_time": 1738329259,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124029,
+        "num": 124029,
+        "word": "清华硕士拿到蓝翔毕业证",
+        "onboard_time": 1738315697,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122588,
+        "num": 122588,
+        "word": "哪吒2为什么比哪吒1更好看",
+        "onboard_time": 1738314857,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121030,
+        "num": 121030,
+        "word": "打麻将摸到电话号码了",
+        "onboard_time": 1738329919,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120880,
+        "num": 120880,
+        "word": "哪吒敖丙好配",
+        "onboard_time": 1738325478,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116824,
+        "num": 116824,
+        "word": "锐不可当",
+        "onboard_time": 1738329438,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113253,
+        "num": 113253,
+        "word": "田嘉瑞闫桉双男主",
+        "onboard_time": 1738326498,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#注重家庭注重家教注重家风#"
+    }
+  }
+}
