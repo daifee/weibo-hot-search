@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738298383749,
+  "endTime": 1738300895090,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -13563,6 +13563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 598154,
+      "num": 598154,
+      "word": "日本政府就DeepSeek表态",
+      "onboard_time": 1738295177,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 598094,
       "num": 598094,
       "word": "中美网友聊嗨了",
@@ -14307,6 +14315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 574074,
+      "num": 574074,
+      "word": "谁把许仙的中药换成冰美式了",
+      "onboard_time": 1738297936,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 573840,
       "num": 366695,
       "word": "傅宣 再见爱人2025",
@@ -14825,14 +14841,6 @@
       "onboard_time": 1736481620,
       "rank": 8,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 555412,
-      "num": 325952,
-      "word": "日本政府就DeepSeek表态",
-      "onboard_time": 1738295177,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 555170,
@@ -16411,6 +16419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 508973,
+      "num": 396049,
+      "word": "白鹿感谢陈哲远",
+      "onboard_time": 1738298837,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 508608,
       "num": 508608,
       "word": "全力捣毁境外电诈窝点",
@@ -17433,6 +17449,14 @@
       "onboard_time": 1738084522,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 482676,
+      "num": 482676,
+      "word": "美国撞机事故两名中国公民遇难",
+      "onboard_time": 1738293917,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 482604,
@@ -26251,6 +26275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 322320,
+      "num": 179999,
+      "word": "李宇春第一时间取消连续包月",
+      "onboard_time": 1738300217,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 322317,
       "num": 322317,
       "word": "留几手说自己文笔一般般",
@@ -26571,6 +26603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 318740,
+      "num": 173431,
+      "word": "2025春节档票房破40亿",
+      "onboard_time": 1738299377,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 318576,
       "num": 222464,
       "word": "陈情令温晁爆改韩慕之",
@@ -26697,6 +26737,14 @@
       "onboard_time": 1737645260,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 316969,
+      "num": 150528,
+      "word": "外甥给1岁八个月小姨拜年要红包",
+      "onboard_time": 1738299436,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 316967,
@@ -32323,6 +32371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 256389,
+      "num": 231000,
+      "word": "第一次上大学就上春晚是什么感受",
+      "onboard_time": 1738296976,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256298,
       "num": 256298,
       "word": "娜然 短发撕漫女",
@@ -34451,14 +34507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 239131,
-      "num": 239131,
-      "word": "美国撞机事故两名中国公民遇难",
-      "onboard_time": 1738293917,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 239084,
       "num": 2754062,
       "word": "大奉打更人17集20分03秒",
@@ -34915,6 +34963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 235507,
+      "num": 220625,
+      "word": "黄蓉眼神",
+      "onboard_time": 1738297336,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 235427,
       "num": 235427,
       "word": "WTT权力过大滋生恶法",
@@ -35129,14 +35185,6 @@
       "onboard_time": 1735861997,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 233748,
-      "num": 233748,
-      "word": "谁把许仙的中药换成冰美式了",
-      "onboard_time": 1738297936,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 233631,
@@ -35464,14 +35512,6 @@
       "word": "OneRepublic确认将登上央视春晚",
       "onboard_time": 1737983538,
       "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 231000,
-      "num": 231000,
-      "word": "第一次上大学就上春晚是什么感受",
-      "onboard_time": 1738296976,
-      "rank": 31,
       "category": "综艺"
     },
     {
@@ -36963,20 +37003,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 220625,
-      "num": 220625,
-      "word": "黄蓉眼神",
-      "onboard_time": 1738297336,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 220622,
       "num": 220622,
       "word": "柯洁形势不利",
       "onboard_time": 1737607039,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220603,
+      "num": 149331,
+      "word": "初三送穷鬼",
+      "onboard_time": 1738298656,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 220514,
@@ -41643,6 +41683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199979,
+      "num": 146878,
+      "word": "余承恩家人觉得他不帅",
+      "onboard_time": 1738299976,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199975,
       "num": 185116,
       "word": "Jennie专辑配置公开",
@@ -45211,6 +45259,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 189511,
+      "num": 209872,
+      "word": "长大后和申公豹深深共情了",
+      "onboard_time": 1738297818,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 189479,
       "num": 189479,
       "word": "敖瑞鹏3分钟语音告别白月梵星",
@@ -47857,14 +47913,6 @@
       "onboard_time": 1737643999,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 180612,
-      "num": 209872,
-      "word": "长大后和申公豹深深共情了",
-      "onboard_time": 1738297818,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 180598,
@@ -57459,6 +57507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151038,
+      "num": 151038,
+      "word": "春节爬完黄山看非遗表演太City了",
+      "onboard_time": 1738299257,
+      "rank": 19,
+      "category": "正能量,旅游"
+    },
+    {
       "raw_hot": 151006,
       "num": 227256,
       "word": "国际乒联将举办球员论坛",
@@ -58801,6 +58857,14 @@
       "onboard_time": 1737717617,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147330,
+      "num": 147330,
+      "word": "王楚钦新加坡大满贯备战视频",
+      "onboard_time": 1738299018,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 147321,
@@ -65147,6 +65211,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 130932,
+      "num": 108917,
+      "word": "卢昱晓给王星越的备注是桃子",
+      "onboard_time": 1738300577,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130904,
       "num": 130904,
       "word": "第1个工作日",
@@ -66331,6 +66403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 127548,
+      "num": 147399,
+      "word": "虞书欣二月行程送达",
+      "onboard_time": 1738299856,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127489,
       "num": 127489,
       "word": "Bin称自己收入属第一梯队",
@@ -66433,6 +66513,14 @@
       "onboard_time": 1737956897,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127193,
+      "num": 108559,
+      "word": "秦唐",
+      "onboard_time": 1738299436,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 127181,
@@ -72235,6 +72323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112800,
+      "num": 108224,
+      "word": "王一博春晚高清大图",
+      "onboard_time": 1738299798,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112798,
       "num": 112798,
       "word": "封神第二部上线开年封神表情",
@@ -73419,6 +73515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109624,
+      "num": 109624,
+      "word": "蛇年为什么有384天",
+      "onboard_time": 1738298357,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109599,
       "num": 109599,
       "word": "异人之下第8集0帧起燃",
@@ -74323,6 +74427,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 106701,
+      "num": 106701,
+      "word": "扎克伯格称仍在消化DeepSeek成果",
+      "onboard_time": 1738295057,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 106688,
       "num": 106688,
       "word": "祝绪丹人晕了但嘴还甜",
@@ -74385,6 +74497,14 @@
       "onboard_time": 1736163084,
       "rank": 45,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 106434,
+      "num": 106434,
+      "word": "孙颖莎王楚钦抵达新加坡",
+      "onboard_time": 1738300398,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 106420,
@@ -78939,14 +79059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 90566,
-      "num": 90566,
-      "word": "蛇年为什么有384天",
-      "onboard_time": 1738298357,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90510,
       "num": 296857,
       "word": "熊孩子往下水道丢鞭炮地面被炸大坑",
@@ -79587,6 +79699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87038,
+      "num": 147831,
+      "word": "乌尔善回应封神2争议",
+      "onboard_time": 1738300817,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 86985,
       "num": 86985,
       "word": "太阳黄蜂交易",
@@ -80009,6 +80129,14 @@
       "onboard_time": 1737892220,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 85520,
+      "num": 85520,
+      "word": "东部战区正月初三新春献礼视频",
+      "onboard_time": 1738300876,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 85480,
