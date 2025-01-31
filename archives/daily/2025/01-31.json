@@ -1,6 +1,6 @@
 {
   "startTime": 1738254491138,
-  "endTime": 1738315378350,
+  "endTime": 1738316174715,
   "band_list": [
     {
       "raw_hot": 3591172,
@@ -211,6 +211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 513939,
+      "num": 513939,
+      "word": "哪吒2为什么比哪吒1更好看",
+      "onboard_time": 1738314857,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 508973,
       "num": 396049,
       "word": "白鹿感谢陈哲远",
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 445223,
-      "num": 185507,
+      "num": 225021,
       "word": "票房",
       "onboard_time": 1738247598,
       "rank": 12,
@@ -283,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 424756,
+      "num": 354322,
+      "word": "江西一奔驰车被旁车殃及烧成空架",
+      "onboard_time": 1738313238,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 407725,
       "num": 223754,
       "word": "王俊凯你快回我呀",
@@ -307,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 395957,
+      "num": 395957,
+      "word": "乌干达一男护士感染埃博拉死亡",
+      "onboard_time": 1738310356,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 395409,
       "num": 185902,
       "word": "美国客机坠河已找到30多具遗体",
@@ -323,15 +347,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 378266,
-      "num": 306438,
-      "word": "江西一奔驰车被旁车殃及烧成空架",
-      "onboard_time": 1738313238,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 372071,
+      "raw_hot": 375449,
       "num": 485357,
       "word": "中方要求美方尽快查明撞机事故原因",
       "onboard_time": 1738311197,
@@ -411,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 327494,
+      "num": 327494,
+      "word": "哪吒2或将进入影史票房前三",
+      "onboard_time": 1738314798,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 317696,
       "num": 317696,
       "word": "特朗普称撞机无人生还",
@@ -435,28 +459,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 310106,
-      "num": 310106,
-      "word": "乌干达一男护士感染埃博拉死亡",
-      "onboard_time": 1738310356,
-      "rank": 28,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 308285,
       "num": 308285,
       "word": "趵突泉猪鲤减肥失败",
       "onboard_time": 1738302497,
       "rank": 14,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 301804,
-      "num": 301804,
-      "word": "哪吒2为什么比哪吒1更好看",
-      "onboard_time": 1738314857,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 289691,
@@ -612,7 +620,7 @@
     },
     {
       "raw_hot": 232463,
-      "num": 120708,
+      "num": 140994,
       "word": "王安宇回应被蒋欣私下叫儿子",
       "onboard_time": 1738312398,
       "rank": 34,
@@ -811,14 +819,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 184660,
-      "num": 118987,
-      "word": "哪吒2或将进入影史票房前三",
-      "onboard_time": 1738314798,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 180462,
       "num": 180462,
       "word": "哪吒3",
@@ -897,6 +897,22 @@
       "onboard_time": 1738303458,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 165763,
+      "num": 129678,
+      "word": "花140万捡漏的230平房子",
+      "onboard_time": 1738315339,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 162647,
+      "num": 140085,
+      "word": "WTT",
+      "onboard_time": 1738315878,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 162532,
@@ -1131,6 +1147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134867,
+      "num": 134867,
+      "word": "刘昊然 白白嫩嫩",
+      "onboard_time": 1738314437,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 133283,
       "num": 183761,
       "word": "美国撞机可能无人生还",
@@ -1153,6 +1177,14 @@
       "onboard_time": 1738300577,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129698,
+      "num": 129698,
+      "word": "饺子",
+      "onboard_time": 1738314198,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 128640,
@@ -1211,6 +1243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 125736,
+      "num": 125736,
+      "word": "900多块压岁钱发出了10万的感觉",
+      "onboard_time": 1738315818,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124700,
       "num": 143742,
       "word": "崩坏星穹铁道",
@@ -1233,14 +1273,6 @@
       "onboard_time": 1738300398,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123258,
-      "num": 106855,
-      "word": "刘昊然 白白嫩嫩",
-      "onboard_time": 1738314437,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 122840,
@@ -1281,6 +1313,14 @@
       "onboard_time": 1738255156,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 118596,
+      "num": 118596,
+      "word": "青春有你的售后",
+      "onboard_time": 1738315037,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 114854,
@@ -1379,6 +1419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107468,
+      "num": 107468,
+      "word": "孙颖莎赛前训练好欢乐",
+      "onboard_time": 1738315397,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106701,
       "num": 106701,
       "word": "扎克伯格称仍在消化DeepSeek成果",
@@ -1403,6 +1451,30 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 103877,
+      "num": 103877,
+      "word": "春晚机器人丢在我家了",
+      "onboard_time": 1738314619,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 103245,
+      "num": 103245,
+      "word": "小狗去哪都要叼着它的阿贝贝",
+      "onboard_time": 1738315339,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 101736,
+      "num": 101736,
+      "word": "扎克伯格公司支付特朗普2500万美元",
+      "onboard_time": 1738313719,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 101308,
       "num": 101308,
       "word": "英伟达说禁售将损害在最大市场的收入",
@@ -1417,6 +1489,14 @@
       "onboard_time": 1738308857,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98416,
+      "num": 98416,
+      "word": "多位冠军现身全红婵评论区",
+      "onboard_time": 1738313118,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 97769,
@@ -1459,36 +1539,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 97400,
-      "num": 97400,
-      "word": "春晚机器人丢在我家了",
-      "onboard_time": 1738314619,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 96880,
-      "num": 96880,
-      "word": "扎克伯格公司支付特朗普2500万美元",
-      "onboard_time": 1738313719,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 96784,
       "num": 46798,
       "word": "黄晓明湄洲岛",
       "onboard_time": 1738277050,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 96131,
-      "num": 96131,
-      "word": "青春有你的售后",
-      "onboard_time": 1738315037,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 96002,
@@ -1505,6 +1561,14 @@
       "onboard_time": 1738246879,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95065,
+      "num": 95065,
+      "word": "射雕剧组悄悄给肖战准备生日惊喜",
+      "onboard_time": 1738313118,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 94744,
@@ -1569,14 +1633,6 @@
       "onboard_time": 1738304895,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 92869,
-      "num": 92869,
-      "word": "射雕剧组悄悄给肖战准备生日惊喜",
-      "onboard_time": 1738313118,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 92246,
@@ -1675,14 +1731,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 88713,
-      "num": 88713,
-      "word": "饺子",
-      "onboard_time": 1738314198,
-      "rank": 43,
-      "category": "美食"
-    },
-    {
       "raw_hot": 88567,
       "num": 123590,
       "word": "射雕英雄传锋批美学",
@@ -1697,14 +1745,6 @@
       "onboard_time": 1738307237,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 87647,
-      "num": 87647,
-      "word": "花140万捡漏的230平房子",
-      "onboard_time": 1738315339,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 87210,
@@ -1827,6 +1867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 80798,
+      "num": 80798,
+      "word": "杨洋坐村头台阶看打篮球",
+      "onboard_time": 1738316119,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79986,
       "num": 123581,
       "word": "原来小狗也喜欢看烟花",
@@ -1835,11 +1883,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 79748,
-      "num": 79748,
-      "word": "多位冠军现身全红婵评论区",
-      "onboard_time": 1738313118,
-      "rank": 47,
+      "raw_hot": 79054,
+      "num": 103872,
+      "word": "2025WTT新加坡大满贯抽签",
+      "onboard_time": 1738315999,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -1867,16 +1915,16 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 77147,
-      "num": 77147,
-      "word": "小狗去哪都要叼着它的阿贝贝",
-      "onboard_time": 1738315339,
-      "rank": 48,
-      "category": "情感"
+      "raw_hot": 76278,
+      "num": 141162,
+      "word": "清华硕士拿到蓝翔毕业证",
+      "onboard_time": 1738315697,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75777,
-      "num": 106899,
+      "num": 140457,
       "word": "王楚钦梁靖崑新加坡适应场地训练",
       "onboard_time": 1738314677,
       "rank": 30,
@@ -2088,6 +2136,14 @@
       "word": "3种相处模式让家越来越兴旺",
       "onboard_time": 1738256715,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39631,
+      "num": 104539,
+      "word": "爷爷豪掷上万压岁钱孙子任性拒收",
+      "onboard_time": 1738316057,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
