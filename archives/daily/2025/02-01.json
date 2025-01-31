@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738362066061,
+  "endTime": 1738363064130,
   "band_list": [
     {
       "raw_hot": 1281311,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 259038,
-      "num": 363202,
+      "num": 456346,
       "word": "春晚带火了四大城市",
       "onboard_time": 1738344614,
       "rank": 11,
@@ -491,8 +491,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 38913,
-      "num": 38913,
+      "raw_hot": 40666,
+      "num": 40666,
       "word": "大年初四接灶王",
       "onboard_time": 1738345094,
       "rank": 48,
@@ -507,8 +507,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 33254,
-      "num": 33254,
+      "raw_hot": 33526,
+      "num": 33526,
       "word": "光头强做了微整形还偷偷洗白了",
       "onboard_time": 1738325359,
       "rank": 45,
@@ -571,11 +571,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 19447,
-      "num": 19447,
+      "raw_hot": 21300,
+      "num": 21300,
       "word": "电影蛟龙行动",
       "onboard_time": 1738359971,
       "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 14292,
+      "num": 19277,
+      "word": "春节档连续3天单日票房破10亿",
+      "onboard_time": 1738357151,
+      "rank": 40,
       "category": "电影"
     },
     {
@@ -617,14 +625,6 @@
       "onboard_time": 1738350612,
       "rank": 12,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 10386,
-      "num": 15111,
-      "word": "春节档连续3天单日票房破10亿",
-      "onboard_time": 1738357151,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 9709,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/02/01 00:26:54 ~ 2025/02/01 06:21:06
+本榜单时间：2025/02/01 00:26:54 ~ 2025/02/01 06:37:44
 </p>
 </blockquote>
 <p>
@@ -382,7 +382,7 @@ GOT7演唱会（热度：100542）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%B9%B4%E5%88%9D%E5%9B%9B%E6%8E%A5%E7%81%B6%E7%8E%8B%23" target="weibo">
-大年初四接灶王（热度：38913）
+大年初四接灶王（热度：40666）
 </a>
 </li>
 
@@ -394,7 +394,7 @@ GOT7演唱会（热度：100542）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%89%E5%A4%B4%E5%BC%BA%E5%81%9A%E4%BA%86%E5%BE%AE%E6%95%B4%E5%BD%A2%E8%BF%98%E5%81%B7%E5%81%B7%E6%B4%97%E7%99%BD%E4%BA%86%23" target="weibo">
-光头强做了微整形还偷偷洗白了（热度：33254）
+光头强做了微整形还偷偷洗白了（热度：33526）
 </a>
 </li>
 
@@ -442,7 +442,13 @@ GOT7演唱会（热度：100542）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E8%9B%9F%E9%BE%99%E8%A1%8C%E5%8A%A8%23" target="weibo">
-电影蛟龙行动（热度：19447）
+电影蛟龙行动（热度：21300）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%82%E6%A1%A3%E8%BF%9E%E7%BB%AD3%E5%A4%A9%E5%8D%95%E6%97%A5%E7%A5%A8%E6%88%BF%E7%A0%B410%E4%BA%BF%23" target="weibo">
+春节档连续3天单日票房破10亿（热度：14292）
 </a>
 </li>
 
@@ -473,12 +479,6 @@ GOT7演唱会（热度：100542）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%BF%E5%8D%83%E5%8D%83%E4%B8%87%E4%B8%87%E4%B8%AA%E5%AE%B6%E5%BA%AD%E6%88%90%E4%B8%BA%E6%A2%A6%E6%83%B3%E5%90%AF%E8%88%AA%E7%9A%84%E5%9C%B0%E6%96%B9%23" target="weibo">
 使千千万万个家庭成为梦想启航的地方（热度：11063）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%82%E6%A1%A3%E8%BF%9E%E7%BB%AD3%E5%A4%A9%E5%8D%95%E6%97%A5%E7%A5%A8%E6%88%BF%E7%A0%B410%E4%BA%BF%23" target="weibo">
-春节档连续3天单日票房破10亿（热度：10386）
 </a>
 </li>
 
