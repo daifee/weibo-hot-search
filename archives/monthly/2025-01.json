@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738333210241,
+  "endTime": 1738334285953,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -3673,6 +3673,14 @@
       "onboard_time": 1736670201,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1418717,
+      "num": 507749,
+      "word": "黑妮曝王菲父母哥哥均已离世",
+      "onboard_time": 1738332320,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1417923,
@@ -10057,14 +10065,6 @@
       "onboard_time": 1735716379,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 758473,
-      "num": 324732,
-      "word": "黑妮曝王菲父母哥哥均已离世",
-      "onboard_time": 1738332320,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 758269,
@@ -23228,7 +23228,7 @@
     },
     {
       "raw_hot": 371752,
-      "num": 329239,
+      "num": 349534,
       "word": "敖光",
       "onboard_time": 1738326919,
       "rank": 25,
@@ -23281,6 +23281,14 @@
       "onboard_time": 1737785658,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 370764,
+      "num": 350345,
+      "word": "给妹妹1000元帮我扛下所有战火",
+      "onboard_time": 1738329799,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 370561,
@@ -28291,6 +28299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 301754,
+      "num": 301754,
+      "word": "再也不去理发店洗头了",
+      "onboard_time": 1738331420,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 301728,
       "num": 541964,
       "word": "反腐为了人民第一集",
@@ -28601,14 +28617,6 @@
       "onboard_time": 1738063287,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 298252,
-      "num": 298252,
-      "word": "再也不去理发店洗头了",
-      "onboard_time": 1738331420,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 298241,
@@ -30233,14 +30241,6 @@
       "onboard_time": 1737974296,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 280655,
-      "num": 280655,
-      "word": "给妹妹1000元帮我扛下所有战火",
-      "onboard_time": 1738329799,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 280633,
@@ -38131,6 +38131,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 217051,
+      "num": 361166,
+      "word": "三亚西岛致歉",
+      "onboard_time": 1738332920,
+      "rank": 17,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 217035,
       "num": 646892,
       "word": "张家口一冬泳者被困冰层下",
@@ -39915,6 +39923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 207922,
+      "num": 207922,
+      "word": "DeepSeek满血版高速专线",
+      "onboard_time": 1738332740,
+      "rank": 46,
+      "category": "电竞,游戏"
+    },
+    {
       "raw_hot": 207881,
       "num": 469110,
       "word": "餐馆老板带15只羊100只鸡去震区做饭",
@@ -41081,6 +41097,14 @@
       "onboard_time": 1738060945,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203877,
+      "num": 203877,
+      "word": "程潇和妹妹新加坡度假",
+      "onboard_time": 1738333640,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 203852,
@@ -44145,6 +44169,14 @@
       "onboard_time": 1736433323,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 193918,
+      "num": 193918,
+      "word": "徐明浩说我想上春晚",
+      "onboard_time": 1738332680,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 193914,
@@ -55259,14 +55291,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 159535,
-      "num": 159535,
-      "word": "徐明浩说我想上春晚",
-      "onboard_time": 1738332680,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 159482,
       "num": 159482,
       "word": "李雪琴 我的孩子只要快乐就行",
@@ -55345,6 +55369,14 @@
       "onboard_time": 1737343398,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159337,
+      "num": 159337,
+      "word": "甜哥陈哲远最甜的一次",
+      "onboard_time": 1738333220,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 159214,
@@ -66355,6 +66387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130290,
+      "num": 130290,
+      "word": "真的不要把鞭炮扔进下水道",
+      "onboard_time": 1738334001,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130285,
       "num": 130285,
       "word": "陈赫自己吓自己林更新飞踹",
@@ -69611,14 +69651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121919,
-      "num": 121919,
-      "word": "DeepSeek满血版高速专线",
-      "onboard_time": 1738332740,
-      "rank": 46,
-      "category": "电竞,游戏"
-    },
-    {
       "raw_hot": 121900,
       "num": 121900,
       "word": "其实睡不着的是张怀民",
@@ -70857,6 +70889,14 @@
       "onboard_time": 1737502816,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 119093,
+      "num": 119093,
+      "word": "孙英宰Whiplash",
+      "onboard_time": 1738334179,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 119062,
@@ -72321,6 +72361,14 @@
       "onboard_time": 1737122420,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115351,
+      "num": 115351,
+      "word": "黄晓明晒妈妈炸的鱼",
+      "onboard_time": 1738334241,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 115338,
@@ -81755,6 +81803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84098,
+      "num": 209273,
+      "word": "王楚钦王曼昱体验捞鱼生",
+      "onboard_time": 1738332441,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84065,
       "num": 315193,
       "word": "大学生入招聘陷阱上4天班欠5万4",
@@ -82129,14 +82185,6 @@
       "onboard_time": 1737069015,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 82745,
-      "num": 302208,
-      "word": "三亚西岛致歉",
-      "onboard_time": 1738332920,
-      "rank": 17,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 82715,
