@@ -1,6 +1,6 @@
 {
   "startTime": 1738254491138,
-  "endTime": 1738334285953,
+  "endTime": 1738336855875,
   "band_list": [
     {
       "raw_hot": 3591172,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1418717,
-      "num": 507749,
+      "num": 595153,
       "word": "黑妮曝王菲父母哥哥均已离世",
       "onboard_time": 1738332320,
       "rank": 11,
@@ -179,6 +179,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 824693,
+      "num": 346870,
+      "word": "哪吒2票房逆跌",
+      "onboard_time": 1738334779,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 824383,
       "num": 377299,
       "word": "花140万捡漏的230平房子",
@@ -193,6 +201,14 @@
       "onboard_time": 1738317678,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 801731,
+      "num": 801731,
+      "word": "DeepSeek",
+      "onboard_time": 1738331600,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 773929,
@@ -363,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 508310,
+      "num": 340557,
+      "word": "藕饼",
+      "onboard_time": 1738221257,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 493321,
       "num": 493321,
       "word": "清华硕士拿到蓝翔毕业证",
@@ -403,12 +427,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 461044,
-      "num": 186340,
-      "word": "藕饼",
-      "onboard_time": 1738221257,
-      "rank": 10,
-      "category": "电影"
+      "raw_hot": 463936,
+      "num": 339078,
+      "word": "程潇和妹妹新加坡度假",
+      "onboard_time": 1738333640,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 460120,
@@ -595,6 +619,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 345314,
+      "num": 345314,
+      "word": "WTT抽签仪式主持人用LunarNewYear",
+      "onboard_time": 1738334480,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 343975,
       "num": 343975,
       "word": "麻辣王子家过年被小朋友挤爆",
@@ -625,6 +657,14 @@
       "onboard_time": 1738299377,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 340996,
+      "num": 340996,
+      "word": "真的不要把鞭炮扔进下水道",
+      "onboard_time": 1738334001,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 337495,
@@ -673,14 +713,6 @@
       "onboard_time": 1738299436,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 315294,
-      "num": 315294,
-      "word": "DeepSeek",
-      "onboard_time": 1738331600,
-      "rank": 36,
-      "category": "互联网"
     },
     {
       "raw_hot": 312371,
@@ -875,6 +907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 235164,
+      "num": 214014,
+      "word": "DeepSeek满血版高速专线",
+      "onboard_time": 1738332740,
+      "rank": 46,
+      "category": "电竞,游戏"
+    },
+    {
       "raw_hot": 232463,
       "num": 184268,
       "word": "王安宇回应被蒋欣私下叫儿子",
@@ -1011,12 +1051,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 207922,
-      "num": 207922,
-      "word": "DeepSeek满血版高速专线",
-      "onboard_time": 1738332740,
-      "rank": 46,
-      "category": "电竞,游戏"
+      "raw_hot": 208010,
+      "num": 208010,
+      "word": "李昀锐挑染",
+      "onboard_time": 1738336339,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 205875,
@@ -1059,14 +1099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 203877,
-      "num": 203877,
-      "word": "程潇和妹妹新加坡度假",
-      "onboard_time": 1738333640,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 201037,
       "num": 200743,
       "word": "哪吒之魔童闹海单日票房逆跌",
@@ -1091,10 +1123,34 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 198882,
+      "num": 198882,
+      "word": "丁程鑫被侄子要求跳街舞",
+      "onboard_time": 1738335920,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 197903,
+      "num": 197903,
+      "word": "黄晓明晒妈妈炸的鱼",
+      "onboard_time": 1738334241,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197699,
       "num": 169590,
       "word": "行程图",
       "onboard_time": 1738292537,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 195691,
+      "num": 195691,
+      "word": "张康乐江浙沪潮男",
+      "onboard_time": 1738335679,
       "rank": 26,
       "category": "艺人"
     },
@@ -1299,12 +1355,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169247,
+      "num": 169247,
+      "word": "火锅店4年春节发了150万给员工",
+      "onboard_time": 1738336579,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168640,
       "num": 208114,
       "word": "孙颖莎微博粉丝破千万",
       "onboard_time": 1738329500,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168584,
+      "num": 168584,
+      "word": "易烊千玺单依纯双语唱响亚冬会",
+      "onboard_time": 1738333640,
+      "rank": 28,
+      "category": "演出,体育"
     },
     {
       "raw_hot": 168495,
@@ -1603,6 +1675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145125,
+      "num": 145125,
+      "word": "刘耀文答上了宋亚轩的抽象题",
+      "onboard_time": 1738336699,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144903,
       "num": 144903,
       "word": "大年初三",
@@ -1625,6 +1705,14 @@
       "onboard_time": 1738317018,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 142605,
+      "num": 142605,
+      "word": "五福临门",
+      "onboard_time": 1738287736,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 142437,
@@ -1755,6 +1843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134440,
+      "num": 134440,
+      "word": "张新成 那么大张脸",
+      "onboard_time": 1738336160,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 133953,
       "num": 163015,
       "word": "中方回应日本拟对华半导体等出口管制",
@@ -1785,14 +1881,6 @@
       "onboard_time": 1738300577,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 130290,
-      "num": 130290,
-      "word": "真的不要把鞭炮扔进下水道",
-      "onboard_time": 1738334001,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 129775,
@@ -1859,6 +1947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127248,
+      "num": 923838,
+      "word": "中国人的春节传统走向世界了",
+      "onboard_time": 1738324099,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127193,
       "num": 108559,
       "word": "秦唐",
@@ -1873,14 +1969,6 @@
       "onboard_time": 1738282094,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126704,
-      "num": 923838,
-      "word": "中国人的春节传统走向世界了",
-      "onboard_time": 1738324099,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126476,
@@ -1905,6 +1993,14 @@
       "onboard_time": 1738299436,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 124698,
+      "num": 124698,
+      "word": "蛇年春晚你还在循环播放哪首歌",
+      "onboard_time": 1738335801,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 124635,
@@ -1963,6 +2059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121159,
+      "num": 121159,
+      "word": "只要没结婚就能一直收红包",
+      "onboard_time": 1738334719,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 120633,
       "num": 120633,
       "word": "男子过年走亲戚遇户主撒土",
@@ -2019,20 +2123,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116768,
+      "num": 116768,
+      "word": "世人皆知周武王无人唤我姬发郎",
+      "onboard_time": 1738336521,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 116735,
       "num": 112678,
       "word": "黑兔老师画德克萨斯",
       "onboard_time": 1738322120,
       "rank": 30,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 115351,
-      "num": 115351,
-      "word": "黄晓明晒妈妈炸的鱼",
-      "onboard_time": 1738334241,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 114854,
@@ -2123,6 +2227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110427,
+      "num": 112142,
+      "word": "蛇是怎么混进十二生肖的",
+      "onboard_time": 1738335260,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110278,
       "num": 132450,
       "word": "许凯说一起健身的都会相互摸腹肌",
@@ -2171,20 +2283,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107400,
+      "num": 107400,
+      "word": "特朗普称撞机事故都怪奥巴马和拜登",
+      "onboard_time": 1738336278,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 106701,
       "num": 106701,
       "word": "扎克伯格称仍在消化DeepSeek成果",
       "onboard_time": 1738295057,
       "rank": 43,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 106078,
-      "num": 106078,
-      "word": "五福临门",
-      "onboard_time": 1738287736,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 105727,
@@ -3113,6 +3225,14 @@
       "onboard_time": 1738267212,
       "rank": 14,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 12136,
+      "num": 196583,
+      "word": "盛李豪祝潘展乐新年快乐",
+      "onboard_time": 1738332740,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 12035,

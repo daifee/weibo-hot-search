@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738334285953,
+  "endTime": 1738336855875,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -700,7 +700,7 @@
     },
     {
       "raw_hot": 1418717,
-      "num": 507749,
+      "num": 595153,
       "word": "黑妮曝王菲父母哥哥均已离世",
       "onboard_time": 1738332320,
       "rank": 11,
@@ -1697,6 +1697,14 @@
       "onboard_time": 1738052181,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 824693,
+      "num": 346870,
+      "word": "哪吒2票房逆跌",
+      "onboard_time": 1738334779,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 824383,
@@ -3531,6 +3539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 463936,
+      "num": 339078,
+      "word": "程潇和妹妹新加坡度假",
+      "onboard_time": 1738333640,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 463755,
       "num": 435913,
       "word": "刘宇郑业成演年轻人过年状态",
@@ -4707,6 +4723,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 345314,
+      "num": 345314,
+      "word": "WTT抽签仪式主持人用LunarNewYear",
+      "onboard_time": 1738334480,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 345091,
       "num": 285461,
       "word": "韩网评价陈哲远发红包",
@@ -4777,6 +4801,14 @@
       "onboard_time": 1737903200,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 340996,
+      "num": 340996,
+      "word": "真的不要把鞭炮扔进下水道",
+      "onboard_time": 1738334001,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 340426,
@@ -6539,6 +6571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 235164,
+      "num": 214014,
+      "word": "DeepSeek满血版高速专线",
+      "onboard_time": 1738332740,
+      "rank": 46,
+      "category": "电竞,游戏"
+    },
+    {
       "raw_hot": 234474,
       "num": 234474,
       "word": "机器人是被舞蹈演员押下去",
@@ -7331,6 +7371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208010,
+      "num": 208010,
+      "word": "李昀锐挑染",
+      "onboard_time": 1738336339,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207949,
       "num": 177733,
       "word": "店家回应刘亦菲带火19元奥特曼发夹",
@@ -7345,14 +7393,6 @@
       "onboard_time": 1738220837,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 207922,
-      "num": 207922,
-      "word": "DeepSeek满血版高速专线",
-      "onboard_time": 1738332740,
-      "rank": 46,
-      "category": "电竞,游戏"
     },
     {
       "raw_hot": 207908,
@@ -7553,14 +7593,6 @@
       "onboard_time": 1738060945,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 203877,
-      "num": 203877,
-      "word": "程潇和妹妹新加坡度假",
-      "onboard_time": 1738333640,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 203507,
@@ -7771,6 +7803,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 198882,
+      "num": 198882,
+      "word": "丁程鑫被侄子要求跳街舞",
+      "onboard_time": 1738335920,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198794,
       "num": 147403,
       "word": "五福临门第十二集三个反转",
@@ -7817,6 +7857,14 @@
       "onboard_time": 1738056201,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 197903,
+      "num": 197903,
+      "word": "黄晓明晒妈妈炸的鱼",
+      "onboard_time": 1738334241,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 197800,
@@ -7889,6 +7937,14 @@
       "onboard_time": 1738245978,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195691,
+      "num": 195691,
+      "word": "张康乐江浙沪潮男",
+      "onboard_time": 1738335679,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 195628,
@@ -9211,6 +9267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169247,
+      "num": 169247,
+      "word": "火锅店4年春节发了150万给员工",
+      "onboard_time": 1738336579,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169029,
       "num": 144862,
       "word": "虞书欣林一这个视频没有退出键",
@@ -9249,6 +9313,14 @@
       "onboard_time": 1738329500,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168584,
+      "num": 168584,
+      "word": "易烊千玺单依纯双语唱响亚冬会",
+      "onboard_time": 1738333640,
+      "rank": 28,
+      "category": "演出,体育"
     },
     {
       "raw_hot": 168542,
@@ -10643,6 +10715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145125,
+      "num": 145125,
+      "word": "刘耀文答上了宋亚轩的抽象题",
+      "onboard_time": 1738336699,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145079,
       "num": 145079,
       "word": "王俊凯生图",
@@ -11419,6 +11499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134440,
+      "num": 134440,
+      "word": "张新成 那么大张脸",
+      "onboard_time": 1738336160,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 134358,
       "num": 310785,
       "word": "全红婵呼吁不要打扰家人",
@@ -11683,14 +11771,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 130290,
-      "num": 130290,
-      "word": "真的不要把鞭炮扔进下水道",
-      "onboard_time": 1738334001,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129806,
       "num": 365884,
       "word": "体育团拜会",
@@ -11867,6 +11947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127248,
+      "num": 923838,
+      "word": "中国人的春节传统走向世界了",
+      "onboard_time": 1738324099,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127224,
       "num": 127224,
       "word": "6岁小朋友乘直升机回家过年",
@@ -11945,14 +12033,6 @@
       "onboard_time": 1737950117,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 126704,
-      "num": 923838,
-      "word": "中国人的春节传统走向世界了",
-      "onboard_time": 1738324099,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126476,
@@ -12137,6 +12217,14 @@
       "onboard_time": 1738299436,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 124698,
+      "num": 124698,
+      "word": "蛇年春晚你还在循环播放哪首歌",
+      "onboard_time": 1738335801,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 124644,
@@ -12387,6 +12475,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 121159,
+      "num": 121159,
+      "word": "只要没结婚就能一直收红包",
+      "onboard_time": 1738334719,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 120889,
       "num": 178778,
       "word": "胡冰卿新剧是赶不走的爱人",
@@ -12627,6 +12723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 116768,
+      "num": 116768,
+      "word": "世人皆知周武王无人唤我姬发郎",
+      "onboard_time": 1738336521,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 116735,
       "num": 112678,
       "word": "黑兔老师画德克萨斯",
@@ -12737,14 +12841,6 @@
       "onboard_time": 1738046057,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 115351,
-      "num": 115351,
-      "word": "黄晓明晒妈妈炸的鱼",
-      "onboard_time": 1738334241,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 115216,
@@ -13139,6 +13235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110427,
+      "num": 112142,
+      "word": "蛇是怎么混进十二生肖的",
+      "onboard_time": 1738335260,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110367,
       "num": 110367,
       "word": "韩国围棋队主教练称卞相壹心情沉重",
@@ -13417,6 +13521,14 @@
       "onboard_time": 1737906679,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107400,
+      "num": 107400,
+      "word": "特朗普称撞机事故都怪奥巴马和拜登",
+      "onboard_time": 1738336278,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 107348,
@@ -18361,6 +18473,14 @@
       "onboard_time": 1738092432,
       "rank": 9,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 12136,
+      "num": 196583,
+      "word": "盛李豪祝潘展乐新年快乐",
+      "onboard_time": 1738332740,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 12035,
