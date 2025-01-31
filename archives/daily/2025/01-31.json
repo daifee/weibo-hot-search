@@ -1,6 +1,6 @@
 {
   "startTime": 1738254491138,
-  "endTime": 1738312048727,
+  "endTime": 1738312824940,
   "band_list": [
     {
       "raw_hot": 3591172,
@@ -8,6 +8,14 @@
       "word": "扔鞭炮进化粪池的男孩已被警方带走",
       "onboard_time": 1738289537,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1646685,
+      "num": 1646685,
+      "word": "火锅店3天净赚53.2万全给员工",
+      "onboard_time": 1738309697,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -155,12 +163,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 576631,
-      "num": 576631,
-      "word": "火锅店3天净赚53.2万全给员工",
-      "onboard_time": 1738309697,
-      "rank": 1,
-      "category": "民生新闻"
+      "raw_hot": 580147,
+      "num": 580147,
+      "word": "赵本山这两句话抵得上一个小品了",
+      "onboard_time": 1738309217,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 574074,
@@ -177,14 +185,6 @@
       "onboard_time": 1738251018,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 559293,
-      "num": 559293,
-      "word": "赵本山这两句话抵得上一个小品了",
-      "onboard_time": 1738309217,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 554158,
@@ -235,6 +235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 460120,
+      "num": 280579,
+      "word": "当你有一个扫兴的孩子",
+      "onboard_time": 1738309756,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 445223,
       "num": 185507,
       "word": "票房",
@@ -281,14 +289,6 @@
       "onboard_time": 1738281375,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 398993,
-      "num": 175229,
-      "word": "当你有一个扫兴的孩子",
-      "onboard_time": 1738309756,
-      "rank": 11,
-      "category": "情感"
     },
     {
       "raw_hot": 398861,
@@ -356,7 +356,7 @@
     },
     {
       "raw_hot": 341285,
-      "num": 235732,
+      "num": 306152,
       "word": "2025春节档票房破40亿",
       "onboard_time": 1738299377,
       "rank": 15,
@@ -404,7 +404,7 @@
     },
     {
       "raw_hot": 312371,
-      "num": 174761,
+      "num": 289956,
       "word": "普通人化妆最有效的一步",
       "onboard_time": 1738308798,
       "rank": 49,
@@ -417,6 +417,14 @@
       "onboard_time": 1738302497,
       "rank": 14,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 303703,
+      "num": 485357,
+      "word": "中方要求美方尽快查明撞机事故原因",
+      "onboard_time": 1738311197,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 289691,
@@ -492,7 +500,7 @@
     },
     {
       "raw_hot": 252965,
-      "num": 168240,
+      "num": 248947,
       "word": "导演回应什么时候能看到哪吒3",
       "onboard_time": 1738310237,
       "rank": 14,
@@ -595,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220334,
+      "num": 220334,
+      "word": "春节爬完黄山看非遗表演太City了",
+      "onboard_time": 1738299257,
+      "rank": 19,
+      "category": "正能量,旅游"
+    },
+    {
       "raw_hot": 216249,
       "num": 216249,
       "word": "邓婵玉",
@@ -657,6 +673,14 @@
       "onboard_time": 1738304476,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 200727,
+      "num": 200727,
+      "word": "乌干达一男护士感染埃博拉死亡",
+      "onboard_time": 1738310356,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 197699,
@@ -723,6 +747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191196,
+      "num": 191196,
+      "word": "三亚西岛大量游客滞留高喊退票",
+      "onboard_time": 1738308737,
+      "rank": 47,
+      "category": "民生新闻,旅游"
+    },
+    {
       "raw_hot": 191000,
       "num": 155316,
       "word": "于适说姬发从来没有退缩过",
@@ -745,14 +777,6 @@
       "onboard_time": 1738297157,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 187777,
-      "num": 187777,
-      "word": "春节爬完黄山看非遗表演太City了",
-      "onboard_time": 1738299257,
-      "rank": 19,
-      "category": "正能量,旅游"
     },
     {
       "raw_hot": 187742,
@@ -1019,14 +1043,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 138914,
-      "num": 138914,
-      "word": "三亚西岛大量游客滞留高喊退票",
-      "onboard_time": 1738308737,
-      "rank": 47,
-      "category": "民生新闻,旅游"
-    },
-    {
       "raw_hot": 138774,
       "num": 138774,
       "word": "娜然妲己归来是什么美强惨",
@@ -1049,14 +1065,6 @@
       "onboard_time": 1738293017,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 137038,
-      "num": 137038,
-      "word": "乌干达一男护士感染埃博拉死亡",
-      "onboard_time": 1738310356,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 136672,
@@ -1203,6 +1211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120383,
+      "num": 120383,
+      "word": "马龙太可爱了",
+      "onboard_time": 1738309816,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119822,
       "num": 97739,
       "word": "哪吒彩蛋",
@@ -1283,14 +1299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 109860,
-      "num": 109860,
-      "word": "马龙太可爱了",
-      "onboard_time": 1738309816,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 108272,
       "num": 108272,
       "word": "王菲世界赠予我的武汉浪漫",
@@ -1339,14 +1347,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 102217,
-      "num": 179964,
-      "word": "中方要求美方尽快查明撞机事故原因",
-      "onboard_time": 1738311197,
-      "rank": 10,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 101308,
       "num": 101308,
       "word": "英伟达说禁售将损害在最大市场的收入",
@@ -1355,8 +1355,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 97893,
-      "num": 97893,
+      "raw_hot": 99973,
+      "num": 99973,
       "word": "敖瑞鹏二月行程图",
       "onboard_time": 1738308857,
       "rank": 42,
@@ -1411,6 +1411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96181,
+      "num": 96181,
+      "word": "王安宇回应被蒋欣私下叫儿子",
+      "onboard_time": 1738312398,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 96002,
       "num": 96002,
       "word": "DeepSeek有自己命理剧本",
@@ -1433,6 +1441,14 @@
       "onboard_time": 1738295477,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 94401,
+      "num": 142233,
+      "word": "封神2上演鸡蛋的诱惑",
+      "onboard_time": 1738311318,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 94016,
@@ -1579,6 +1595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87071,
+      "num": 87071,
+      "word": "老妈让小猫来叫我起床",
+      "onboard_time": 1738310237,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86788,
       "num": 86788,
       "word": "王铮亮成迪拜新晋打卡点",
@@ -1691,20 +1715,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 78670,
-      "num": 78670,
-      "word": "老妈让小猫来叫我起床",
-      "onboard_time": 1738310237,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 77950,
       "num": 77950,
       "word": "靖筝遗憾是会呼吸的痛",
       "onboard_time": 1738311437,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 77883,
+      "num": 77883,
+      "word": "用红包袋做一个新年灯笼",
+      "onboard_time": 1738312218,
+      "rank": 43,
+      "category": "休闲"
+    },
+    {
+      "raw_hot": 75153,
+      "num": 75153,
+      "word": "周深回应自己是小砂糖橘",
+      "onboard_time": 1738312517,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 74865,
@@ -1748,7 +1780,7 @@
     },
     {
       "raw_hot": 67868,
-      "num": 108744,
+      "num": 134742,
       "word": "亚冬会开幕还有一周",
       "onboard_time": 1738306517,
       "rank": 33,
@@ -1817,14 +1849,6 @@
       "onboard_time": 1738239379,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 60034,
-      "num": 139046,
-      "word": "封神2上演鸡蛋的诱惑",
-      "onboard_time": 1738311318,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 60015,

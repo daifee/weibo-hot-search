@@ -1,0 +1,410 @@
+{
+  "runTime": 1738312824940,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1646685,
+        "num": 1646685,
+        "word": "火锅店3天净赚53.2万全给员工",
+        "onboard_time": 1738309697,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 786883,
+        "num": 786883,
+        "word": "金饰价格飙至835元一克",
+        "onboard_time": 1738306097,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 63909,
+        "num": 622421,
+        "word": "一条视频看懂正月初三年俗",
+        "onboard_time": 1738295356,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 580147,
+        "num": 580147,
+        "word": "赵本山这两句话抵得上一个小品了",
+        "onboard_time": 1738309217,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 495424,
+        "num": 495424,
+        "word": "薛凯琪春晚的妆是钟楚曦画的",
+        "onboard_time": 1738301897,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303703,
+        "num": 485357,
+        "word": "中方要求美方尽快查明撞机事故原因",
+        "onboard_time": 1738311197,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 475711,
+        "num": 475711,
+        "word": "乌尔善回应封神2争议",
+        "onboard_time": 1738300817,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 318307,
+        "num": 318307,
+        "word": "苏醒一己之力得罪所有人",
+        "onboard_time": 1738308557,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306152,
+        "num": 306152,
+        "word": "2025春节档票房破40亿",
+        "onboard_time": 1738299377,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 289956,
+        "num": 289956,
+        "word": "普通人化妆最有效的一步",
+        "onboard_time": 1738308798,
+        "rank": 9,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 460120,
+        "num": 280579,
+        "word": "当你有一个扫兴的孩子",
+        "onboard_time": 1738309756,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 260765,
+        "num": 260765,
+        "word": "射雕 删减",
+        "onboard_time": 1738302317,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 254649,
+        "num": 254649,
+        "word": "三亚西岛景区回应大量游客滞留",
+        "onboard_time": 1738306158,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253939,
+        "num": 253939,
+        "word": "正月初三扫一扫",
+        "onboard_time": 1738289236,
+        "rank": 13,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 248947,
+        "num": 248947,
+        "word": "导演回应什么时候能看到哪吒3",
+        "onboard_time": 1738310237,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 220334,
+        "num": 220334,
+        "word": "春节爬完黄山看非遗表演太City了",
+        "onboard_time": 1738299257,
+        "rank": 15,
+        "category": "正能量,旅游"
+      },
+      {
+        "raw_hot": 200727,
+        "num": 200727,
+        "word": "乌干达一男护士感染埃博拉死亡",
+        "onboard_time": 1738310356,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 191196,
+        "num": 191196,
+        "word": "三亚西岛大量游客滞留高喊退票",
+        "onboard_time": 1738308737,
+        "rank": 17,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 94401,
+        "num": 142233,
+        "word": "封神2上演鸡蛋的诱惑",
+        "onboard_time": 1738311318,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137460,
+        "num": 137460,
+        "word": "初三宅家才是过年顶级仪式感",
+        "onboard_time": 1738282156,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232824,
+        "num": 137188,
+        "word": "李宇春第一时间取消连续包月",
+        "onboard_time": 1738300217,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239842,
+        "num": 136535,
+        "word": "李雨霏自曝童年曾被舅舅猥亵",
+        "onboard_time": 1738293137,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226476,
+        "num": 135521,
+        "word": "日本政府就DeepSeek表态",
+        "onboard_time": 1738295177,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 191117,
+        "num": 135217,
+        "word": "哪吒2",
+        "onboard_time": 1738279215,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 60607,
+        "num": 134742,
+        "word": "亚冬会开幕还有一周",
+        "onboard_time": 1738306517,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190632,
+        "num": 134120,
+        "word": "哪吒2票房",
+        "onboard_time": 1738288816,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149645,
+        "num": 133217,
+        "word": "朱一龙春晚接窗花镜头录了20次",
+        "onboard_time": 1738306816,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143191,
+        "num": 132908,
+        "word": "IVE新歌登顶Melon实时一位",
+        "onboard_time": 1738311437,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 132287,
+        "num": 132287,
+        "word": "关晓彤穿星辰大海唱星辰大海",
+        "onboard_time": 1738309877,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120383,
+        "num": 120383,
+        "word": "马龙太可爱了",
+        "onboard_time": 1738309816,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117830,
+        "num": 117830,
+        "word": "白色橄榄树月下浪漫共舞",
+        "onboard_time": 1738311377,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115004,
+        "num": 115004,
+        "word": "正月初三睡到饱",
+        "onboard_time": 1738301597,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99973,
+        "num": 99973,
+        "word": "敖瑞鹏二月行程图",
+        "onboard_time": 1738308857,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98945,
+        "num": 98945,
+        "word": "外甥给1岁八个月小姨拜年要红包",
+        "onboard_time": 1738299436,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96181,
+        "num": 96181,
+        "word": "王安宇回应被蒋欣私下叫儿子",
+        "onboard_time": 1738312398,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 93803,
+        "num": 93803,
+        "word": "白鹿终于加到了宋佳微信",
+        "onboard_time": 1738293077,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89256,
+        "num": 89256,
+        "word": "趵突泉猪鲤减肥失败",
+        "onboard_time": 1738302497,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 87071,
+        "num": 87071,
+        "word": "老妈让小猫来叫我起床",
+        "onboard_time": 1738310237,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86925,
+        "num": 86925,
+        "word": "辛巴带货的海鲜大礼包疑似翻车",
+        "onboard_time": 1738306037,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 86914,
+        "num": 86914,
+        "word": "美国撞机事故两名中国公民遇难",
+        "onboard_time": 1738293917,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 80694,
+        "num": 80694,
+        "word": "孟子义二月行程",
+        "onboard_time": 1738308496,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79935,
+        "num": 79935,
+        "word": "埃文凯尔上春晚后收到信息轰炸",
+        "onboard_time": 1738306336,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78782,
+        "num": 78782,
+        "word": "牛在在说贺峻霖有点卷",
+        "onboard_time": 1738308438,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77883,
+        "num": 77883,
+        "word": "用红包袋做一个新年灯笼",
+        "onboard_time": 1738312218,
+        "rank": 43,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 75153,
+        "num": 75153,
+        "word": "周深回应自己是小砂糖橘",
+        "onboard_time": 1738312517,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74200,
+        "num": 74200,
+        "word": "乌尔善谈殷郊法相被指抽象",
+        "onboard_time": 1738303396,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 71378,
+        "num": 71378,
+        "word": "小伙到女友家过年撞脸丈母娘",
+        "onboard_time": 1738304117,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70608,
+        "num": 70608,
+        "word": "黄金价格刷新历史高位",
+        "onboard_time": 1738311917,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 68874,
+        "num": 70603,
+        "word": "国内足金首饰1克突破846元",
+        "onboard_time": 1738292836,
+        "rank": 48,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 62896,
+        "num": 70548,
+        "word": "美国24年来最严重空难",
+        "onboard_time": 1738281314,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#和总书记一起感受浓浓年味#"
+    }
+  }
+}
