@@ -1,6 +1,6 @@
 {
   "startTime": 1738254491138,
-  "endTime": 1738327287992,
+  "endTime": 1738328184183,
   "band_list": [
     {
       "raw_hot": 3591172,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1411529,
-      "num": 345346,
+      "num": 475745,
       "word": "吐排片",
       "onboard_time": 1738323498,
       "rank": 10,
@@ -155,20 +155,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 677305,
+      "num": 677305,
+      "word": "俄乌冲突让乌克兰倒退100年",
+      "onboard_time": 1738323799,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 670588,
       "num": 670588,
       "word": "900多块压岁钱发出了10万的感觉",
       "onboard_time": 1738315818,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 669007,
-      "num": 669007,
-      "word": "俄乌冲突让乌克兰倒退100年",
-      "onboard_time": 1738323799,
-      "rank": 3,
-      "category": "国际时政"
     },
     {
       "raw_hot": 656578,
@@ -331,6 +331,30 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 481515,
+      "num": 481515,
+      "word": "蛇是很多医学院校徽的主角",
+      "onboard_time": 1738327158,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 476983,
+      "num": 476983,
+      "word": "藕饼交融",
+      "onboard_time": 1738325778,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 475736,
+      "num": 475736,
+      "word": "龙爹表面上和私底下",
+      "onboard_time": 1738324638,
+      "rank": 30,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 461044,
       "num": 186340,
       "word": "藕饼",
@@ -412,7 +436,7 @@
     },
     {
       "raw_hot": 405069,
-      "num": 405069,
+      "num": 475752,
       "word": "英伟达上线DeepSeek",
       "onboard_time": 1738316599,
       "rank": 13,
@@ -459,14 +483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 382950,
-      "num": 148963,
-      "word": "龙爹表面上和私底下",
-      "onboard_time": 1738324638,
-      "rank": 30,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 375449,
       "num": 485357,
       "word": "中方要求美方尽快查明撞机事故原因",
@@ -480,6 +496,14 @@
       "word": "乌尔善说姬发邓婵玉是惺惺相惜",
       "onboard_time": 1738253059,
       "rank": 7,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 359393,
+      "num": 359393,
+      "word": "那尔那茜八年空窗期都干了什么",
+      "onboard_time": 1738324699,
+      "rank": 13,
       "category": "电影"
     },
     {
@@ -539,14 +563,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 340420,
-      "num": 340420,
-      "word": "藕饼交融",
-      "onboard_time": 1738325778,
-      "rank": 12,
-      "category": "电影"
-    },
-    {
       "raw_hot": 337495,
       "num": 337495,
       "word": "徐志胜在哪都好认除了家里",
@@ -587,14 +603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 313839,
-      "num": 313839,
-      "word": "那尔那茜八年空窗期都干了什么",
-      "onboard_time": 1738324699,
-      "rank": 13,
-      "category": "电影"
-    },
-    {
       "raw_hot": 312371,
       "num": 289956,
       "word": "普通人化妆最有效的一步",
@@ -612,7 +620,7 @@
     },
     {
       "raw_hot": 300388,
-      "num": 149315,
+      "num": 216487,
       "word": "封神2妲己严选的女孩是艾米",
       "onboard_time": 1738323319,
       "rank": 30,
@@ -753,6 +761,14 @@
       "onboard_time": 1738260073,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 237090,
+      "num": 237090,
+      "word": "申公豹 丑强惨",
+      "onboard_time": 1738327638,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 236041,
@@ -907,6 +923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203434,
+      "num": 182531,
+      "word": "敖光",
+      "onboard_time": 1738326919,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 201037,
       "num": 200743,
       "word": "哪吒之魔童闹海单日票房逆跌",
@@ -995,14 +1019,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 191087,
-      "num": 149144,
-      "word": "敖光",
-      "onboard_time": 1738326919,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 191000,
       "num": 155316,
       "word": "于适说姬发从来没有退缩过",
@@ -1036,7 +1052,7 @@
     },
     {
       "raw_hot": 186042,
-      "num": 149110,
+      "num": 168559,
       "word": "时代少年团直播",
       "onboard_time": 1738325837,
       "rank": 26,
@@ -1049,6 +1065,14 @@
       "onboard_time": 1738227556,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 179200,
+      "num": 179200,
+      "word": "美国打压DeepSeek的后果",
+      "onboard_time": 1738326858,
+      "rank": 27,
+      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 177190,
@@ -1107,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168495,
+      "num": 168495,
+      "word": "白客拍的张新成",
+      "onboard_time": 1738327757,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 168031,
       "num": 168031,
       "word": "徐明浩直播",
@@ -1124,7 +1156,7 @@
     },
     {
       "raw_hot": 167254,
-      "num": 148989,
+      "num": 155556,
       "word": "李一桐冷脸绝杀",
       "onboard_time": 1738323858,
       "rank": 29,
@@ -1137,6 +1169,22 @@
       "onboard_time": 1738303458,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 164534,
+      "num": 164534,
+      "word": "哪吒敖丙好配",
+      "onboard_time": 1738325478,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 162768,
+      "num": 162768,
+      "word": "卢昱晓吴宣仪亲亲",
+      "onboard_time": 1738327518,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 162647,
@@ -1161,14 +1209,6 @@
       "onboard_time": 1738303697,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 161129,
-      "num": 148930,
-      "word": "哪吒敖丙好配",
-      "onboard_time": 1738325478,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 161016,
@@ -1291,14 +1331,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 149323,
-      "num": 149323,
-      "word": "蛇是很多医学院校徽的主角",
-      "onboard_time": 1738327158,
-      "rank": 19,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 148862,
       "num": 148862,
       "word": "光头强做了微整形还偷偷洗白了",
@@ -1412,7 +1444,7 @@
     },
     {
       "raw_hot": 141779,
-      "num": 141779,
+      "num": 142163,
       "word": "国乒新加坡大满贯完整签表",
       "onboard_time": 1738325719,
       "rank": 36,
@@ -1515,20 +1547,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133953,
+      "num": 163015,
+      "word": "中方回应日本拟对华半导体等出口管制",
+      "onboard_time": 1738325059,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 133283,
       "num": 183761,
       "word": "美国撞机可能无人生还",
       "onboard_time": 1738242620,
       "rank": 17,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 131242,
-      "num": 149011,
-      "word": "中方回应日本拟对华半导体等出口管制",
-      "onboard_time": 1738325059,
-      "rank": 28,
-      "category": "国内时政"
     },
     {
       "raw_hot": 131199,
@@ -1627,14 +1659,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 126104,
-      "num": 149040,
-      "word": "美国打压DeepSeek的后果",
-      "onboard_time": 1738326858,
-      "rank": 27,
-      "category": "国际时政,互联网"
-    },
-    {
       "raw_hot": 124700,
       "num": 143742,
       "word": "崩坏星穹铁道",
@@ -1729,6 +1753,14 @@
       "onboard_time": 1738255156,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 118657,
+      "num": 118657,
+      "word": "曼城 皇马",
+      "onboard_time": 1738323919,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 118596,
@@ -1843,14 +1875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 108648,
-      "num": 108648,
-      "word": "曼城 皇马",
-      "onboard_time": 1738323919,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 108272,
       "num": 108272,
       "word": "王菲世界赠予我的武汉浪漫",
@@ -1937,6 +1961,14 @@
       "onboard_time": 1738314619,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103802,
+      "num": 103802,
+      "word": "凌晨四五点吃年夜饭全家一脸困意",
+      "onboard_time": 1738327578,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103245,
@@ -2267,7 +2299,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 87264,
+      "raw_hot": 87393,
       "num": 149156,
       "word": "冯骥公司群说大家都去看哪吒",
       "onboard_time": 1738326739,
@@ -2769,6 +2801,14 @@
       "onboard_time": 1738296916,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23066,
+      "num": 305241,
+      "word": "00后小伙狂追5分钟截停起火货车",
+      "onboard_time": 1738327757,
+      "rank": 14,
+      "category": "正能量"
     },
     {
       "raw_hot": 22494,

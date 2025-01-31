@@ -1,0 +1,410 @@
+{
+  "runTime": 1738328184183,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1060054,
+        "num": 1169608,
+        "word": "初三走亲戚为什么回家要早",
+        "onboard_time": 1738318877,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 823472,
+        "num": 823472,
+        "word": "哪吒2或将进入影史票房前三",
+        "onboard_time": 1738314798,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 55319,
+        "num": 747366,
+        "word": "大年初三大街小巷热热闹闹",
+        "onboard_time": 1738316719,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 704491,
+        "num": 704491,
+        "word": "火锅店3天净赚53.2万全给员工",
+        "onboard_time": 1738309697,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 677305,
+        "num": 677305,
+        "word": "俄乌冲突让乌克兰倒退100年",
+        "onboard_time": 1738323799,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 535005,
+        "num": 535005,
+        "word": "爷爷去世七年砍的柴还没用",
+        "onboard_time": 1738317678,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 509722,
+        "num": 509722,
+        "word": "朕与嬛嬛何时有过嫌隙",
+        "onboard_time": 1738321997,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 481515,
+        "num": 481515,
+        "word": "蛇是很多医学院校徽的主角",
+        "onboard_time": 1738327158,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 476983,
+        "num": 476983,
+        "word": "藕饼交融",
+        "onboard_time": 1738325778,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 337416,
+        "num": 475752,
+        "word": "英伟达上线DeepSeek",
+        "onboard_time": 1738316599,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1236335,
+        "num": 475745,
+        "word": "吐排片",
+        "onboard_time": 1738323498,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 475736,
+        "num": 475736,
+        "word": "龙爹表面上和私底下",
+        "onboard_time": 1738324638,
+        "rank": 11,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 402145,
+        "num": 402145,
+        "word": "越南从韩国进口的无人机大批坠机",
+        "onboard_time": 1738320799,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 359393,
+        "num": 359393,
+        "word": "那尔那茜八年空窗期都干了什么",
+        "onboard_time": 1738324699,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23066,
+        "num": 305241,
+        "word": "00后小伙狂追5分钟截停起火货车",
+        "onboard_time": 1738327757,
+        "rank": 14,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 300318,
+        "num": 300318,
+        "word": "申小豹死了吗",
+        "onboard_time": 1738323379,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 293256,
+        "num": 293256,
+        "word": "乌尔善回应封神2争议",
+        "onboard_time": 1738300817,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 247679,
+        "num": 247679,
+        "word": "900多块压岁钱发出了10万的感觉",
+        "onboard_time": 1738315818,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 237090,
+        "num": 237090,
+        "word": "申公豹 丑强惨",
+        "onboard_time": 1738327638,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 220505,
+        "num": 220505,
+        "word": "杨洋坐村头台阶看打篮球",
+        "onboard_time": 1738316119,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288269,
+        "num": 216487,
+        "word": "封神2妲己严选的女孩是艾米",
+        "onboard_time": 1738323319,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209046,
+        "num": 209046,
+        "word": "票房",
+        "onboard_time": 1738315277,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185133,
+        "num": 185133,
+        "word": "清华硕士拿到蓝翔毕业证",
+        "onboard_time": 1738315697,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203434,
+        "num": 182531,
+        "word": "敖光",
+        "onboard_time": 1738326919,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179200,
+        "num": 179200,
+        "word": "美国打压DeepSeek的后果",
+        "onboard_time": 1738326858,
+        "rank": 24,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 168559,
+        "num": 168559,
+        "word": "时代少年团直播",
+        "onboard_time": 1738325837,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168495,
+        "num": 168495,
+        "word": "白客拍的张新成",
+        "onboard_time": 1738327757,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165595,
+        "num": 165595,
+        "word": "花140万捡漏的230平房子",
+        "onboard_time": 1738315339,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164534,
+        "num": 164534,
+        "word": "哪吒敖丙好配",
+        "onboard_time": 1738325478,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133953,
+        "num": 163015,
+        "word": "中方回应日本拟对华半导体等出口管制",
+        "onboard_time": 1738325059,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 162768,
+        "num": 162768,
+        "word": "卢昱晓吴宣仪亲亲",
+        "onboard_time": 1738327518,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155556,
+        "num": 155556,
+        "word": "李一桐冷脸绝杀",
+        "onboard_time": 1738323858,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143537,
+        "num": 143537,
+        "word": "汪苏泷夸孟子义",
+        "onboard_time": 1738324758,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143138,
+        "num": 143138,
+        "word": "光头强做了微整形还偷偷洗白了",
+        "onboard_time": 1738325359,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142982,
+        "num": 142982,
+        "word": "theboyz",
+        "onboard_time": 1738324997,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130304,
+        "num": 142163,
+        "word": "国乒新加坡大满贯完整签表",
+        "onboard_time": 1738325719,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142158,
+        "num": 142158,
+        "word": "田嘉瑞闫桉双男主",
+        "onboard_time": 1738326498,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142058,
+        "num": 142058,
+        "word": "哪吒2为什么比哪吒1更好看",
+        "onboard_time": 1738314857,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135351,
+        "num": 135351,
+        "word": "许凯回应跟田曦薇公主抱出圈",
+        "onboard_time": 1738318518,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 87393,
+        "num": 133339,
+        "word": "冯骥公司群说大家都去看哪吒",
+        "onboard_time": 1738326739,
+        "rank": 39,
+        "category": "电影,游戏"
+      },
+      {
+        "raw_hot": 133017,
+        "num": 133017,
+        "word": "哪吒2何以打破续集魔咒领跑春节档",
+        "onboard_time": 1738325599,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126354,
+        "num": 126354,
+        "word": "王安宇回应被蒋欣私下叫儿子",
+        "onboard_time": 1738312398,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118657,
+        "num": 118657,
+        "word": "曼城 皇马",
+        "onboard_time": 1738323919,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117935,
+        "num": 117935,
+        "word": "薛凯琪春晚的妆是钟楚曦画的",
+        "onboard_time": 1738301897,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106270,
+        "num": 106270,
+        "word": "小侯爷姬发实在貌美",
+        "onboard_time": 1738325478,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 46624,
+        "num": 104989,
+        "word": "亚连史诗皮肤",
+        "onboard_time": 1738317018,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 103802,
+        "num": 103802,
+        "word": "凌晨四五点吃年夜饭全家一脸困意",
+        "onboard_time": 1738327578,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103770,
+        "num": 103770,
+        "word": "五福临门",
+        "onboard_time": 1738327158,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99284,
+        "num": 102556,
+        "word": "哈尔滨亚冬会",
+        "onboard_time": 1738326798,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102162,
+        "num": 102162,
+        "word": "易烊千玺演脑瘫患者经历了什么",
+        "onboard_time": 1738322120,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记新春考察的温暖瞬间#"
+    }
+  }
+}
