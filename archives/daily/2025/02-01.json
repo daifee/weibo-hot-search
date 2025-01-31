@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738355743730,
+  "endTime": 1738358418357,
   "band_list": [
     {
       "raw_hot": 1281311,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 259038,
-      "num": 101307,
+      "num": 124957,
       "word": "春晚带火了四大城市",
       "onboard_time": 1738344614,
       "rank": 11,
@@ -499,6 +499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 32312,
+      "num": 32312,
+      "word": "李雨霏回应",
+      "onboard_time": 1738353912,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 32124,
       "num": 32124,
       "word": "哪吒1",
@@ -515,20 +523,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31902,
+      "num": 31902,
+      "word": "大年初四接灶王",
+      "onboard_time": 1738345094,
+      "rank": 48,
+      "category": "健康医疗,运动健身"
+    },
+    {
       "raw_hot": 31379,
       "num": 31379,
       "word": "三亚西岛致歉",
       "onboard_time": 1738332920,
       "rank": 42,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 28859,
-      "num": 27355,
-      "word": "大年初四接灶王",
-      "onboard_time": 1738345094,
-      "rank": 48,
-      "category": "健康医疗,运动健身"
     },
     {
       "raw_hot": 27833,
@@ -561,14 +569,6 @@
       "onboard_time": 1738349415,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 20727,
-      "num": 20727,
-      "word": "李雨霏回应",
-      "onboard_time": 1738353912,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 12595,
@@ -609,6 +609,14 @@
       "onboard_time": 1738348213,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9324,
+      "num": 15111,
+      "word": "春节档连续3天单日票房破10亿",
+      "onboard_time": 1738357151,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 7794,
