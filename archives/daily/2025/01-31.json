@@ -1,6 +1,6 @@
 {
   "startTime": 1738254491138,
-  "endTime": 1738305085333,
+  "endTime": 1738305821171,
   "band_list": [
     {
       "raw_hot": 3591172,
@@ -43,6 +43,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 994394,
+      "num": 1159103,
+      "word": "薛凯琪春晚的妆是钟楚曦画的",
+      "onboard_time": 1738301897,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 992562,
       "num": 1158809,
       "word": "蛇为啥会把四肢进化没了",
@@ -83,14 +91,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 894910,
-      "num": 290570,
-      "word": "薛凯琪春晚的妆是钟楚曦画的",
-      "onboard_time": 1738301897,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 773929,
       "num": 869627,
       "word": "肖战 郭靖",
@@ -113,6 +113,14 @@
       "onboard_time": 1738283656,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 615178,
+      "num": 208305,
+      "word": "射雕 删减",
+      "onboard_time": 1738302317,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 607808,
@@ -168,14 +176,6 @@
       "word": "王俊凯催什么催牌都很一般",
       "onboard_time": 1738286296,
       "rank": 16,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 530145,
-      "num": 208305,
-      "word": "射雕 删减",
-      "onboard_time": 1738302317,
-      "rank": 7,
       "category": "电影"
     },
     {
@@ -356,7 +356,7 @@
     },
     {
       "raw_hot": 316969,
-      "num": 150528,
+      "num": 180416,
       "word": "外甥给1岁八个月小姨拜年要红包",
       "onboard_time": 1738299436,
       "rank": 21,
@@ -428,7 +428,7 @@
     },
     {
       "raw_hot": 246854,
-      "num": 146878,
+      "num": 149606,
       "word": "余承恩家人觉得他不帅",
       "onboard_time": 1738299976,
       "rank": 31,
@@ -539,6 +539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 214989,
+      "num": 205177,
+      "word": "趵突泉猪鲤减肥失败",
+      "onboard_time": 1738302497,
+      "rank": 14,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 214513,
       "num": 214513,
       "word": "哪吒2",
@@ -571,20 +579,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 205177,
-      "num": 205177,
-      "word": "趵突泉猪鲤减肥失败",
-      "onboard_time": 1738302497,
-      "rank": 14,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 204018,
       "num": 204018,
       "word": "埃文凯尔已启程回美国",
       "onboard_time": 1738291516,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200882,
+      "num": 207374,
+      "word": "东部战区海军发布视频踏浪横戈",
+      "onboard_time": 1738304476,
+      "rank": 9,
+      "category": "军事"
     },
     {
       "raw_hot": 197699,
@@ -676,7 +684,7 @@
     },
     {
       "raw_hot": 174988,
-      "num": 124809,
+      "num": 158071,
       "word": "胡一天内娱有自己的心软的神",
       "onboard_time": 1738304176,
       "rank": 25,
@@ -716,7 +724,7 @@
     },
     {
       "raw_hot": 166380,
-      "num": 124298,
+      "num": 133740,
       "word": "刘昊然感觉身上背了三部唐仁",
       "onboard_time": 1738303458,
       "rank": 27,
@@ -729,6 +737,14 @@
       "onboard_time": 1738298176,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 161829,
+      "num": 182246,
+      "word": "周冬雨素颜生日照",
+      "onboard_time": 1738303697,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 160623,
@@ -747,6 +763,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158776,
+      "num": 158776,
+      "word": "小伙到女友家过年撞脸丈母娘",
+      "onboard_time": 1738304117,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157903,
+      "num": 157903,
+      "word": "地球村春晚外国人都吻上来了",
+      "onboard_time": 1738305616,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 153833,
       "num": 153833,
       "word": "中国手艺人把蛋壳变镂空艺术品",
@@ -761,14 +793,6 @@
       "onboard_time": 1738290796,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 153260,
-      "num": 123847,
-      "word": "小伙到女友家过年撞脸丈母娘",
-      "onboard_time": 1738304117,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153041,
@@ -788,7 +812,7 @@
     },
     {
       "raw_hot": 151038,
-      "num": 151038,
+      "num": 183728,
       "word": "春节爬完黄山看非遗表演太City了",
       "onboard_time": 1738299257,
       "rank": 19,
@@ -804,7 +828,7 @@
     },
     {
       "raw_hot": 148494,
-      "num": 120972,
+      "num": 132806,
       "word": "欧阳娜娜抱外甥",
       "onboard_time": 1738303816,
       "rank": 32,
@@ -843,14 +867,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 143460,
-      "num": 125656,
-      "word": "周冬雨素颜生日照",
-      "onboard_time": 1738303697,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 140063,
       "num": 140063,
       "word": "刘昊然好帅",
@@ -865,6 +881,14 @@
       "onboard_time": 1738284856,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138774,
+      "num": 138774,
+      "word": "娜然妲己归来是什么美强惨",
+      "onboard_time": 1738303037,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 138112,
@@ -908,7 +932,7 @@
     },
     {
       "raw_hot": 131199,
-      "num": 120266,
+      "num": 124383,
       "word": "唐探1900名字隐喻",
       "onboard_time": 1738304297,
       "rank": 33,
@@ -921,14 +945,6 @@
       "onboard_time": 1738300577,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 130581,
-      "num": 117531,
-      "word": "娜然妲己归来是什么美强惨",
-      "onboard_time": 1738303037,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 128640,
@@ -955,6 +971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127517,
+      "num": 127517,
+      "word": "泰国偶遇沙溢胡可一家",
+      "onboard_time": 1738303458,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127193,
       "num": 108559,
       "word": "秦唐",
@@ -963,20 +987,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 127181,
-      "num": 207374,
-      "word": "东部战区海军发布视频踏浪横戈",
-      "onboard_time": 1738304476,
-      "rank": 9,
-      "category": "军事"
-    },
-    {
       "raw_hot": 126719,
       "num": 165940,
       "word": "哈登入选全明星替补名单",
       "onboard_time": 1738282094,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126476,
+      "num": 184434,
+      "word": "梁永安称射雕拍出武侠的理想主义",
+      "onboard_time": 1738304716,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 124700,
@@ -996,7 +1020,7 @@
     },
     {
       "raw_hot": 123540,
-      "num": 123540,
+      "num": 183427,
       "word": "孙颖莎王楚钦抵达新加坡",
       "onboard_time": 1738300398,
       "rank": 44,
@@ -1035,14 +1059,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 117191,
-      "num": 89934,
-      "word": "泰国偶遇沙溢胡可一家",
-      "onboard_time": 1738303458,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 113768,
       "num": 113768,
       "word": "丫丫开心吃饺子",
@@ -1076,10 +1092,18 @@
     },
     {
       "raw_hot": 111406,
-      "num": 86318,
+      "num": 96531,
       "word": "谁是春节档电影黑马",
       "onboard_time": 1738304476,
       "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 110542,
+      "num": 96524,
+      "word": "乌尔善谈殷郊法相被指抽象",
+      "onboard_time": 1738303396,
+      "rank": 42,
       "category": "电影"
     },
     {
@@ -1139,14 +1163,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 97834,
-      "num": 126492,
-      "word": "梁永安称射雕拍出武侠的理想主义",
-      "onboard_time": 1738304716,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 97769,
       "num": 83018,
       "word": "美军用飞机频繁穿越民航航线酿大祸",
@@ -1177,6 +1193,14 @@
       "onboard_time": 1738293437,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 97077,
+      "num": 96484,
+      "word": "SM新男团将下半年出道",
+      "onboard_time": 1738305798,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 96784,
@@ -1387,6 +1411,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 82627,
+      "num": 82627,
+      "word": "印度部长举例DeepSeek回应质疑",
+      "onboard_time": 1738301897,
+      "rank": 45,
+      "category": "国际时政,互联网"
+    },
+    {
       "raw_hot": 82418,
       "num": 82418,
       "word": "陈凯歌一家四口拜妈祖",
@@ -1409,6 +1441,14 @@
       "onboard_time": 1738248138,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 77148,
+      "num": 96573,
+      "word": "新兰新婚夫妻感",
+      "onboard_time": 1738304895,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 74865,
@@ -1435,14 +1475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 73496,
-      "num": 79516,
-      "word": "印度部长举例DeepSeek回应质疑",
-      "onboard_time": 1738301897,
-      "rank": 45,
-      "category": "国际时政,互联网"
-    },
-    {
       "raw_hot": 72376,
       "num": 72376,
       "word": "五福临门",
@@ -1464,6 +1496,14 @@
       "word": "原来哪吒上台也会紧张到手抖",
       "onboard_time": 1738296256,
       "rank": 12,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 67496,
+      "num": 181859,
+      "word": "姬发被指优柔寡断",
+      "onboard_time": 1738305077,
+      "rank": 21,
       "category": "电影"
     },
     {
@@ -1497,14 +1537,6 @@
       "onboard_time": 1738255815,
       "rank": 44,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 61813,
-      "num": 79414,
-      "word": "新兰新婚夫妻感",
-      "onboard_time": 1738304895,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 60605,

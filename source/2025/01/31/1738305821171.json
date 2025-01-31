@@ -1,0 +1,410 @@
+{
+  "runTime": 1738305821171,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 994394,
+        "num": 1159103,
+        "word": "薛凯琪春晚的妆是钟楚曦画的",
+        "onboard_time": 1738301897,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 518438,
+        "num": 518438,
+        "word": "日本政府就DeepSeek表态",
+        "onboard_time": 1738295177,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 75896,
+        "num": 333259,
+        "word": "一条视频看懂正月初三年俗",
+        "onboard_time": 1738295356,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 755806,
+        "num": 302981,
+        "word": "乌尔善回应封神2争议",
+        "onboard_time": 1738300817,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 250172,
+        "num": 250172,
+        "word": "蛇年为什么有384天",
+        "onboard_time": 1738298357,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204956,
+        "num": 204956,
+        "word": "初三宅家才是过年顶级仪式感",
+        "onboard_time": 1738282156,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 615178,
+        "num": 204684,
+        "word": "射雕 删减",
+        "onboard_time": 1738302317,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 250789,
+        "num": 204676,
+        "word": "2025春节档票房破40亿",
+        "onboard_time": 1738299377,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204261,
+        "num": 204261,
+        "word": "正月初三睡到饱",
+        "onboard_time": 1738301597,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200882,
+        "num": 200882,
+        "word": "东部战区海军发布视频踏浪横戈",
+        "onboard_time": 1738304476,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 524075,
+        "num": 200707,
+        "word": "李宇春第一时间取消连续包月",
+        "onboard_time": 1738300217,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367413,
+        "num": 200536,
+        "word": "哪吒2票房",
+        "onboard_time": 1738288816,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 263277,
+        "num": 200338,
+        "word": "白鹿终于加到了宋佳微信",
+        "onboard_time": 1738293077,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214989,
+        "num": 200191,
+        "word": "趵突泉猪鲤减肥失败",
+        "onboard_time": 1738302497,
+        "rank": 13,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 200139,
+        "num": 200139,
+        "word": "美国撞机事故两名中国公民遇难",
+        "onboard_time": 1738293917,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 184738,
+        "num": 184738,
+        "word": "正月初三扫一扫",
+        "onboard_time": 1738289236,
+        "rank": 15,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 126476,
+        "num": 184434,
+        "word": "梁永安称射雕拍出武侠的理想主义",
+        "onboard_time": 1738304716,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113255,
+        "num": 183728,
+        "word": "春节爬完黄山看非遗表演太City了",
+        "onboard_time": 1738299257,
+        "rank": 17,
+        "category": "正能量,旅游"
+      },
+      {
+        "raw_hot": 103592,
+        "num": 183427,
+        "word": "孙颖莎王楚钦抵达新加坡",
+        "onboard_time": 1738300398,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101420,
+        "num": 183019,
+        "word": "美国24年来最严重空难",
+        "onboard_time": 1738281314,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 161829,
+        "num": 182246,
+        "word": "周冬雨素颜生日照",
+        "onboard_time": 1738303697,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67496,
+        "num": 181859,
+        "word": "姬发被指优柔寡断",
+        "onboard_time": 1738305077,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 374267,
+        "num": 181448,
+        "word": "李雨霏自曝童年曾被舅舅猥亵",
+        "onboard_time": 1738293137,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177158,
+        "num": 180534,
+        "word": "敖丙他爸出场 哇声一片",
+        "onboard_time": 1738251139,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180416,
+        "num": 180416,
+        "word": "外甥给1岁八个月小姨拜年要红包",
+        "onboard_time": 1738299436,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177853,
+        "num": 177853,
+        "word": "谁把许仙的中药换成冰美式了",
+        "onboard_time": 1738297936,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175881,
+        "num": 175881,
+        "word": "哪吒2",
+        "onboard_time": 1738279215,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159830,
+        "num": 159830,
+        "word": "白鹿感谢陈哲远",
+        "onboard_time": 1738298837,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158776,
+        "num": 158776,
+        "word": "小伙到女友家过年撞脸丈母娘",
+        "onboard_time": 1738304117,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125928,
+        "num": 158071,
+        "word": "胡一天内娱有自己的心软的神",
+        "onboard_time": 1738304176,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157903,
+        "num": 157903,
+        "word": "地球村春晚外国人都吻上来了",
+        "onboard_time": 1738305616,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149606,
+        "num": 149606,
+        "word": "余承恩家人觉得他不帅",
+        "onboard_time": 1738299976,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138774,
+        "num": 138774,
+        "word": "娜然妲己归来是什么美强惨",
+        "onboard_time": 1738303037,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133740,
+        "num": 133740,
+        "word": "刘昊然感觉身上背了三部唐仁",
+        "onboard_time": 1738303458,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132806,
+        "num": 132806,
+        "word": "欧阳娜娜抱外甥",
+        "onboard_time": 1738303816,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127517,
+        "num": 127517,
+        "word": "泰国偶遇沙溢胡可一家",
+        "onboard_time": 1738303458,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124383,
+        "num": 124383,
+        "word": "唐探1900名字隐喻",
+        "onboard_time": 1738304297,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96986,
+        "num": 96986,
+        "word": "初三送穷鬼",
+        "onboard_time": 1738298656,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96582,
+        "num": 96582,
+        "word": "东部战区正月初三新春献礼视频",
+        "onboard_time": 1738300876,
+        "rank": 38,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 77148,
+        "num": 96573,
+        "word": "新兰新婚夫妻感",
+        "onboard_time": 1738304895,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 117785,
+        "num": 96562,
+        "word": "Jennie新单曲MV",
+        "onboard_time": 1738302196,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 110607,
+        "num": 96531,
+        "word": "谁是春节档电影黑马",
+        "onboard_time": 1738304476,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110542,
+        "num": 96524,
+        "word": "乌尔善谈殷郊法相被指抽象",
+        "onboard_time": 1738303396,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110410,
+        "num": 96490,
+        "word": "第一次上大学就上春晚是什么感受",
+        "onboard_time": 1738296976,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97077,
+        "num": 96484,
+        "word": "SM新男团将下半年出道",
+        "onboard_time": 1738305798,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96470,
+        "num": 96470,
+        "word": "睡懒觉",
+        "onboard_time": 1738289956,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83612,
+        "num": 83612,
+        "word": "蛇为啥会把四肢进化没了",
+        "onboard_time": 1738282756,
+        "rank": 46,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 82627,
+        "num": 82627,
+        "word": "印度部长举例DeepSeek回应质疑",
+        "onboard_time": 1738301897,
+        "rank": 47,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 69577,
+        "num": 69577,
+        "word": "扎克伯格称仍在消化DeepSeek的成果",
+        "onboard_time": 1738292776,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 64801,
+        "num": 64801,
+        "word": "国内足金首饰1克突破846元",
+        "onboard_time": 1738292836,
+        "rank": 49,
+        "category": "财经,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#和总书记一起感受浓浓年味#"
+    }
+  }
+}
