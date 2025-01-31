@@ -1,6 +1,6 @@
 {
   "startTime": 1738254491138,
-  "endTime": 1738294680882,
+  "endTime": 1738297583179,
   "band_list": [
     {
       "raw_hot": 3591172,
@@ -27,7 +27,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1088264,
+      "raw_hot": 1114811,
       "num": 487969,
       "word": "李雨霏自曝童年曾被舅舅猥亵",
       "onboard_time": 1738293137,
@@ -73,6 +73,14 @@
       "onboard_time": 1738248079,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 656578,
+      "num": 656578,
+      "word": "白鹿终于加到了宋佳微信",
+      "onboard_time": 1738293077,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 630822,
@@ -123,20 +131,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 493282,
+      "num": 189136,
+      "word": "日本政府就DeepSeek表态",
+      "onboard_time": 1738295177,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 485979,
       "num": 360954,
       "word": "哪吒排片",
       "onboard_time": 1738289656,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 468715,
-      "num": 310426,
-      "word": "白鹿终于加到了宋佳微信",
-      "onboard_time": 1738293077,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 461044,
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 348827,
-      "num": 295312,
+      "num": 313023,
       "word": "哪吒2 隐喻",
       "onboard_time": 1738293376,
       "rank": 17,
@@ -251,10 +259,26 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 338873,
+      "num": 338873,
+      "word": "扎克伯格称仍在消化DeepSeek的成果",
+      "onboard_time": 1738292776,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 331789,
       "num": 182518,
       "word": "范丞丞直播角度太暧昧了",
       "onboard_time": 1738247838,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 317891,
+      "num": 317891,
+      "word": "徐志胜在哪都好认除了家里",
+      "onboard_time": 1738292356,
       "rank": 21,
       "category": "艺人"
     },
@@ -265,14 +289,6 @@
       "onboard_time": 1738282156,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 311125,
-      "num": 243803,
-      "word": "徐志胜在哪都好认除了家里",
-      "onboard_time": 1738292356,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 289691,
@@ -323,6 +339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 242468,
+      "num": 242468,
+      "word": "吴莫愁出道13年才登上春晚",
+      "onboard_time": 1738291876,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242441,
       "num": 221243,
       "word": "男孩下水道扔鞭炮致爆炸多车被掀翻",
@@ -337,14 +361,6 @@
       "onboard_time": 1738279273,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 238452,
-      "num": 244603,
-      "word": "扎克伯格称仍在消化DeepSeek的成果",
-      "onboard_time": 1738292776,
-      "rank": 19,
-      "category": "互联网"
     },
     {
       "raw_hot": 238225,
@@ -387,14 +403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 222700,
-      "num": 222700,
-      "word": "吴莫愁出道13年才登上春晚",
-      "onboard_time": 1738291876,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 221004,
       "num": 254495,
       "word": "朱一龙祝你新年有梦追梦圆梦",
@@ -419,6 +427,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 205346,
+      "num": 196594,
+      "word": "美国撞机事故两名中国公民遇难",
+      "onboard_time": 1738293917,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 204477,
+      "num": 194520,
+      "word": "给我多年的英语功底整没了",
+      "onboard_time": 1738294398,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 204018,
       "num": 204018,
       "word": "埃文凯尔已启程回美国",
@@ -433,6 +457,14 @@
       "onboard_time": 1738292537,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194500,
+      "num": 194500,
+      "word": "这才是我要的古风小生",
+      "onboard_time": 1738296438,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 194248,
@@ -459,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190737,
+      "num": 190737,
+      "word": "哪吒2",
+      "onboard_time": 1738279215,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 189974,
       "num": 189974,
       "word": "大年初三休息好",
@@ -467,12 +507,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 180860,
-      "num": 132458,
-      "word": "给我多年的英语功底整没了",
-      "onboard_time": 1738294398,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 188887,
+      "num": 188887,
+      "word": "第一次上大学就上春晚是什么感受",
+      "onboard_time": 1738296976,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 180462,
@@ -481,6 +521,14 @@
       "onboard_time": 1738227556,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 177190,
+      "num": 177190,
+      "word": "国内足金首饰1克突破846元",
+      "onboard_time": 1738292836,
+      "rank": 39,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 174189,
@@ -507,12 +555,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 171273,
-      "num": 166144,
-      "word": "哪吒2",
-      "onboard_time": 1738279215,
-      "rank": 24,
+      "raw_hot": 172762,
+      "num": 189205,
+      "word": "邓婵玉",
+      "onboard_time": 1738296796,
+      "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 168960,
+      "num": 168960,
+      "word": "二刷国色芳华看懂的细节",
+      "onboard_time": 1738297157,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 167863,
@@ -539,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153833,
+      "num": 153833,
+      "word": "中国手艺人把蛋壳变镂空艺术品",
+      "onboard_time": 1738295177,
+      "rank": 36,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 153605,
       "num": 143186,
       "word": "金店挂牌价涨至835元",
@@ -552,6 +616,22 @@
       "word": "岳云鹏过年不语一味的炫饭",
       "onboard_time": 1738293017,
       "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 152169,
+      "num": 152169,
+      "word": "吉克隽逸一开口我满脑子都是邓婵玉",
+      "onboard_time": 1738296976,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 148350,
+      "num": 193815,
+      "word": "哪吒2特效镜头超哪吒1全片镜头数量",
+      "onboard_time": 1738295657,
+      "rank": 25,
       "category": "电影"
     },
     {
@@ -595,14 +675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 135184,
-      "num": 135184,
-      "word": "国内足金首饰1克突破846元",
-      "onboard_time": 1738292836,
-      "rank": 39,
-      "category": "财经,民生新闻"
-    },
-    {
       "raw_hot": 135050,
       "num": 186571,
       "word": "一县城影院推无座票售价与有座相同",
@@ -612,7 +684,7 @@
     },
     {
       "raw_hot": 134611,
-      "num": 116000,
+      "num": 125510,
       "word": "2025春节档票房破38亿",
       "onboard_time": 1738293017,
       "rank": 37,
@@ -651,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123595,
+      "num": 727753,
+      "word": "一条视频看懂正月初三年俗",
+      "onboard_time": 1738295356,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120633,
       "num": 120633,
       "word": "男子过年走亲戚遇户主撒土",
@@ -667,6 +747,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 118488,
+      "num": 118488,
+      "word": "黄蓉眼神",
+      "onboard_time": 1738297336,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 113768,
       "num": 113768,
       "word": "丫丫开心吃饺子",
@@ -681,14 +769,6 @@
       "onboard_time": 1738227257,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 112106,
-      "num": 112106,
-      "word": "美国撞机事故两名中国公民遇难",
-      "onboard_time": 1738293917,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 110460,
@@ -721,6 +801,22 @@
       "onboard_time": 1738280714,
       "rank": 35,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 99641,
+      "num": 193498,
+      "word": "外交部回应美国客机和军机相撞",
+      "onboard_time": 1738297217,
+      "rank": 26,
+      "category": "国内时政,国际时政"
+    },
+    {
+      "raw_hot": 97941,
+      "num": 317741,
+      "word": "美撞机事故前一飞机曾因直升机绕道",
+      "onboard_time": 1738294338,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 97769,
@@ -777,6 +873,14 @@
       "onboard_time": 1738246879,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94744,
+      "num": 94744,
+      "word": "明日方舟",
+      "onboard_time": 1738295477,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 94016,
@@ -883,6 +987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 87210,
+      "num": 87210,
+      "word": "未来都市再会",
+      "onboard_time": 1738296916,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 87107,
       "num": 82817,
       "word": "虞书欣檀健次预制联动",
@@ -936,14 +1048,6 @@
       "word": "美国撞机已找到约40具遗体",
       "onboard_time": 1738238958,
       "rank": 42,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 83936,
-      "num": 83936,
-      "word": "美撞机事故前一飞机曾因直升机绕道",
-      "onboard_time": 1738294338,
-      "rank": 49,
       "category": "海外新闻"
     },
     {
@@ -1008,6 +1112,14 @@
       "word": "易烊千玺回应5年前的愿望",
       "onboard_time": 1738282696,
       "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 67847,
+      "num": 313734,
+      "word": "原来哪吒上台也会紧张到手抖",
+      "onboard_time": 1738296256,
+      "rank": 12,
       "category": "电影"
     },
     {
@@ -1089,6 +1201,14 @@
       "onboard_time": 1738234459,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 45429,
+      "num": 316105,
+      "word": "非遗版春节年味壁纸",
+      "onboard_time": 1738296017,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45114,
@@ -1211,6 +1331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 17915,
+      "num": 203437,
+      "word": "美容店向未成年人提供文身服务被罚",
+      "onboard_time": 1738296916,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15426,
       "num": 66726,
       "word": "易烊千玺曾长时间处于刘春和状态",
@@ -1281,6 +1409,9 @@
     },
     {
       "word": "#团圆年#"
+    },
+    {
+      "word": "#和总书记一起感受浓浓年味#"
     }
   ]
 }
