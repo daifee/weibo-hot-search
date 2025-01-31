@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738280133803,
+  "endTime": 1738287616671,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -1107,6 +1107,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 990721,
+      "num": 1158515,
+      "word": "蛇为啥会把四肢进化没了",
+      "onboard_time": 1738282756,
+      "rank": 0,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 989867,
       "num": 989867,
       "word": "春节档票房",
@@ -1225,6 +1233,14 @@
       "onboard_time": 1738192934,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 939551,
+      "num": 353921,
+      "word": "美国24年来最严重空难",
+      "onboard_time": 1738281314,
+      "rank": 5,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 937319,
@@ -2315,6 +2331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 593897,
+      "num": 348300,
+      "word": "郭敬明晒了鞠婧祎田嘉瑞原始帧",
+      "onboard_time": 1738283656,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 593493,
       "num": 593493,
       "word": "谢娜小品",
@@ -2345,6 +2369,14 @@
       "onboard_time": 1737822079,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 588844,
+      "num": 346073,
+      "word": "美国撞机事故中有2名中国公民遇难",
+      "onboard_time": 1738281014,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 586530,
@@ -3659,6 +3691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 404638,
+      "num": 337216,
+      "word": "敖丙传",
+      "onboard_time": 1738281375,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 399933,
       "num": 269055,
       "word": "封神 伏地魔",
@@ -3761,6 +3801,14 @@
       "onboard_time": 1738239379,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 392949,
+      "num": 172197,
+      "word": "王楚钦调侃全红婵百张烟花照上传费劲",
+      "onboard_time": 1738286596,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 391797,
@@ -3971,6 +4019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 375053,
+      "num": 324819,
+      "word": "全红婵晒百张照片请网友看烟花",
+      "onboard_time": 1738282876,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 374538,
       "num": 374538,
       "word": "DeepSeek一夜掀翻美股",
@@ -4083,6 +4139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 358956,
+      "num": 321090,
+      "word": "林茉茉 董礼怡",
+      "onboard_time": 1738285816,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 358654,
       "num": 443937,
       "word": "张朝阳 红包",
@@ -4121,6 +4185,14 @@
       "onboard_time": 1737964097,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 355566,
+      "num": 355566,
+      "word": "大年初三宜好好休息",
+      "onboard_time": 1738279752,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 354690,
@@ -4571,6 +4643,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 317696,
+      "num": 317696,
+      "word": "特朗普称撞机无人生还",
+      "onboard_time": 1738282156,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 317459,
       "num": 278371,
       "word": "欧阳锋 险胜",
@@ -4859,6 +4939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 289691,
+      "num": 263959,
+      "word": "刘昊然影史首位票房200亿90后男主演",
+      "onboard_time": 1738282815,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 289149,
       "num": 289149,
       "word": "汕头烟花",
@@ -5104,6 +5192,14 @@
       "word": "14岁女孩玩挖宝花光母亲14万打工钱",
       "onboard_time": 1737846374,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 276232,
+      "num": 330753,
+      "word": "初三宅家才是过年顶级仪式感",
+      "onboard_time": 1738282156,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -5564,7 +5660,7 @@
     },
     {
       "raw_hot": 246689,
-      "num": 139875,
+      "num": 229433,
       "word": "2025春节档首部10亿电影诞生",
       "onboard_time": 1738253537,
       "rank": 32,
@@ -5665,6 +5761,14 @@
       "onboard_time": 1738127360,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 242141,
+      "num": 242141,
+      "word": "王俊凯催什么催牌都很一般",
+      "onboard_time": 1738286296,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 241849,
@@ -7107,6 +7211,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 193879,
+      "num": 170120,
+      "word": "拍全家福时仙女棒意外引燃鞭炮",
+      "onboard_time": 1738282213,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193686,
       "num": 225861,
       "word": "张踩铃一家梗太密了",
@@ -7819,6 +7931,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 177505,
+      "num": 168292,
+      "word": "小孩放鞭炮扔下水道引发爆炸",
+      "onboard_time": 1738285576,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177452,
       "num": 177452,
       "word": "邓超out",
@@ -7993,6 +8113,14 @@
       "onboard_time": 1737967336,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173261,
+      "num": 173261,
+      "word": "1月的最后一天",
+      "onboard_time": 1738281075,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173171,
@@ -8640,6 +8768,14 @@
       "word": "巳巳如意拜大年",
       "onboard_time": 1738081529,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158393,
+      "num": 332390,
+      "word": "春节假期已到一半",
+      "onboard_time": 1738281075,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -10355,6 +10491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127215,
+      "num": 127215,
+      "word": "赵露思新发色好美",
+      "onboard_time": 1738263251,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127173,
       "num": 127173,
       "word": "郭晓东郭晓峰为村修路建桥打井",
@@ -10369,6 +10513,14 @@
       "onboard_time": 1737972977,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127022,
+      "num": 127022,
+      "word": "春晚6把西湖绸伞制作近20天",
+      "onboard_time": 1738284856,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 126917,
@@ -10401,6 +10553,14 @@
       "onboard_time": 1737903080,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126719,
+      "num": 165940,
+      "word": "哈登入选全明星替补名单",
+      "onboard_time": 1738282094,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 126714,
@@ -11955,6 +12115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 101431,
+      "num": 101431,
+      "word": "新一轮大范围雨雪开启",
+      "onboard_time": 1738287318,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101358,
       "num": 253331,
       "word": "自驾回家遇暴雪电车不敢开空调",
@@ -11977,6 +12145,14 @@
       "onboard_time": 1737951377,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 101308,
+      "num": 101308,
+      "word": "英伟达说禁售将损害在最大市场的收入",
+      "onboard_time": 1738280714,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 101145,
@@ -12659,6 +12835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 90668,
+      "num": 90668,
+      "word": "杨玉环新皮肤特效",
+      "onboard_time": 1738284255,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 90599,
       "num": 90599,
       "word": "央视新闻对话封神主创",
@@ -12969,6 +13153,14 @@
       "onboard_time": 1737857537,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84188,
+      "num": 84188,
+      "word": "美国撞机已找到约40具遗体",
+      "onboard_time": 1738238958,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 83976,
@@ -13299,6 +13491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 78454,
+      "num": 78454,
+      "word": "过年天天洗碗崩溃了",
+      "onboard_time": 1738284075,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 78105,
       "num": 142301,
       "word": "杨幂上城士开年刊",
@@ -13473,14 +13673,6 @@
       "onboard_time": 1737975677,
       "rank": 48,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 74355,
-      "num": 46411,
-      "word": "大年初三宜好好休息",
-      "onboard_time": 1738279752,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 74243,
@@ -13683,6 +13875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68934,
+      "num": 68934,
+      "word": "金智秀新专回归预告",
+      "onboard_time": 1738287196,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 68916,
       "num": 68916,
       "word": "敖瑞鹏 宽肩窄腰",
@@ -13771,6 +13971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67624,
+      "num": 67624,
+      "word": "易烊千玺回应5年前的愿望",
+      "onboard_time": 1738282696,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 67566,
       "num": 67566,
       "word": "孙颖莎想专注于当下",
@@ -13833,6 +14041,14 @@
       "onboard_time": 1738090393,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 65140,
+      "num": 65140,
+      "word": "欧文东契奇落选全明星",
+      "onboard_time": 1738285276,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 65133,
@@ -14057,14 +14273,6 @@
       "onboard_time": 1737874518,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 59308,
-      "num": 59308,
-      "word": "赵露思新发色好美",
-      "onboard_time": 1738263251,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 59018,
