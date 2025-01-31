@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738293819327,
+  "endTime": 1738294680882,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -763,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1268212,
+      "num": 1268212,
+      "word": "哪吒2票房",
+      "onboard_time": 1738288816,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1261398,
       "num": 897455,
       "word": "春晚 女导演",
@@ -776,14 +784,6 @@
       "word": "射雕口碑",
       "onboard_time": 1738227257,
       "rank": 6,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 1244483,
-      "num": 1244483,
-      "word": "哪吒2票房",
-      "onboard_time": 1738288816,
-      "rank": 1,
       "category": "电影"
     },
     {
@@ -953,6 +953,14 @@
       "onboard_time": 1737976996,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1088264,
+      "num": 487969,
+      "word": "李雨霏自曝童年曾被舅舅猥亵",
+      "onboard_time": 1738293137,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1082957,
@@ -1131,6 +1139,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 992057,
+      "num": 992057,
+      "word": "睡懒觉",
+      "onboard_time": 1738289956,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 991095,
       "num": 991095,
       "word": "韩国釜山金海机场飞机失火",
@@ -1297,14 +1313,6 @@
       "onboard_time": 1738074092,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 924552,
-      "num": 329487,
-      "word": "睡懒觉",
-      "onboard_time": 1738289956,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 921868,
@@ -3195,14 +3203,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 476400,
-      "num": 326018,
-      "word": "李雨霏自曝童年曾被舅舅猥亵",
-      "onboard_time": 1738293137,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 474629,
       "num": 456927,
       "word": "北京台春晚",
@@ -3232,6 +3232,14 @@
       "word": "凤凰传奇好像两瓶梦之蓝",
       "onboard_time": 1738067443,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 468715,
+      "num": 310426,
+      "word": "白鹿终于加到了宋佳微信",
+      "onboard_time": 1738293077,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -4323,6 +4331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 348827,
+      "num": 295312,
+      "word": "哪吒2 隐喻",
+      "onboard_time": 1738293376,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 348154,
       "num": 348154,
       "word": "哪吒敖丙cp",
@@ -4769,6 +4785,14 @@
       "onboard_time": 1738143619,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 311125,
+      "num": 243803,
+      "word": "徐志胜在哪都好认除了家里",
+      "onboard_time": 1738292356,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 310560,
@@ -5627,14 +5651,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 252140,
-      "num": 252140,
-      "word": "哪吒2 隐喻",
-      "onboard_time": 1738293376,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 251968,
       "num": 214067,
       "word": "表演嘉宾最多的一个节目",
@@ -5795,14 +5811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 243803,
-      "num": 243803,
-      "word": "徐志胜在哪都好认除了家里",
-      "onboard_time": 1738292356,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 243377,
       "num": 243377,
       "word": "刘端端演小品",
@@ -5929,6 +5937,14 @@
       "onboard_time": 1737956835,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 238452,
+      "num": 244603,
+      "word": "扎克伯格称仍在消化DeepSeek的成果",
+      "onboard_time": 1738292776,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 237875,
@@ -6371,14 +6387,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 218582,
-      "num": 244603,
-      "word": "扎克伯格称仍在消化DeepSeek的成果",
-      "onboard_time": 1738292776,
-      "rank": 19,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 218477,
       "num": 218477,
       "word": "光遇",
@@ -6785,14 +6793,6 @@
       "onboard_time": 1738240938,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 205803,
-      "num": 170894,
-      "word": "白鹿终于加到了宋佳微信",
-      "onboard_time": 1738293077,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 205670,
@@ -7955,6 +7955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180860,
+      "num": 132458,
+      "word": "给我多年的英语功底整没了",
+      "onboard_time": 1738294398,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 180787,
       "num": 380189,
       "word": "封神2邓婵玉没有官配",
@@ -8899,6 +8907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158961,
+      "num": 132201,
+      "word": "赵丽颖手绘蛇年祝福书签",
+      "onboard_time": 1738294217,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158765,
       "num": 158765,
       "word": "哪吒彩蛋",
@@ -9667,6 +9683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144457,
+      "num": 144457,
+      "word": "春节假期返程天气",
+      "onboard_time": 1738293798,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144264,
       "num": 144264,
       "word": "林孝埈初雪大片",
@@ -10249,6 +10273,14 @@
       "onboard_time": 1738115180,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135184,
+      "num": 135184,
+      "word": "国内足金首饰1克突破846元",
+      "onboard_time": 1738292836,
+      "rank": 39,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 134951,
@@ -11107,6 +11139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120633,
+      "num": 120633,
+      "word": "男子过年走亲戚遇户主撒土",
+      "onboard_time": 1738290917,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120612,
       "num": 215239,
       "word": "一人一道年夜菜",
@@ -11579,6 +11619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112106,
+      "num": 112106,
+      "word": "美国撞机事故两名中国公民遇难",
+      "onboard_time": 1738293917,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 112088,
       "num": 112088,
       "word": "美国客机坠河已有4人被救出",
@@ -11729,14 +11777,6 @@
       "onboard_time": 1738117761,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 110090,
-      "num": 110090,
-      "word": "国内足金首饰1克突破846元",
-      "onboard_time": 1738292836,
-      "rank": 39,
-      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 109986,
@@ -11936,14 +11976,6 @@
       "word": "旅美大熊猫宝力青宝珍贵画面",
       "onboard_time": 1737879499,
       "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107675,
-      "num": 107675,
-      "word": "男子过年走亲戚遇户主撒土",
-      "onboard_time": 1738290917,
-      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -12939,14 +12971,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 92764,
-      "num": 92764,
-      "word": "春节假期返程天气",
-      "onboard_time": 1738293798,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 92728,
       "num": 92728,
       "word": "专访电影射雕英雄传主创",
@@ -13076,7 +13100,7 @@
     },
     {
       "raw_hot": 90510,
-      "num": 90510,
+      "num": 296857,
       "word": "熊孩子往下水道丢鞭炮地面被炸大坑",
       "onboard_time": 1738292176,
       "rank": 48,
@@ -13129,6 +13153,14 @@
       "onboard_time": 1737886519,
       "rank": 48,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 89058,
+      "num": 89058,
+      "word": "200多个山村父母的共享后备箱",
+      "onboard_time": 1738293736,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89028,
@@ -13275,6 +13307,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 86619,
+      "num": 331889,
+      "word": "国际金价创下盘中新高",
+      "onboard_time": 1738292236,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 86618,
       "num": 244888,
       "word": "蛟龙行动上座率超七成",
@@ -13315,14 +13355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 85756,
-      "num": 85756,
-      "word": "200多个山村父母的共享后备箱",
-      "onboard_time": 1738293736,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85622,
       "num": 102244,
       "word": "零点鞭炮",
@@ -13353,6 +13385,14 @@
       "onboard_time": 1738071036,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 85327,
+      "num": 329980,
+      "word": "春节档的第一波惊喜是哪吒给的",
+      "onboard_time": 1738289897,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 85285,
@@ -13411,14 +13451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 84343,
-      "num": 329980,
-      "word": "春节档的第一波惊喜是哪吒给的",
-      "onboard_time": 1738289897,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
       "raw_hot": 84188,
       "num": 84188,
       "word": "美国撞机已找到约40具遗体",
@@ -13433,6 +13465,14 @@
       "onboard_time": 1738105334,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 83936,
+      "num": 83936,
+      "word": "美撞机事故前一飞机曾因直升机绕道",
+      "onboard_time": 1738294338,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 83837,
@@ -13793,14 +13833,6 @@
       "onboard_time": 1738170135,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 77441,
-      "num": 331889,
-      "word": "国际金价创下盘中新高",
-      "onboard_time": 1738292236,
-      "rank": 38,
-      "category": "财经"
     },
     {
       "raw_hot": 77137,
