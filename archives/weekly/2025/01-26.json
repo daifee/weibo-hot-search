@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738358418357,
+  "endTime": 1738359393841,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -6020,7 +6020,7 @@
     },
     {
       "raw_hot": 259038,
-      "num": 124957,
+      "num": 177870,
       "word": "春晚带火了四大城市",
       "onboard_time": 1738344614,
       "rank": 11,
@@ -17203,6 +17203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 41620,
+      "num": 33381,
+      "word": "李雨霏回应",
+      "onboard_time": 1738353912,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 41513,
       "num": 192569,
       "word": "人形机器人是AI的最佳载体吗",
@@ -17635,12 +17643,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 32312,
-      "num": 32312,
-      "word": "李雨霏回应",
-      "onboard_time": 1738353912,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 32735,
+      "num": 32735,
+      "word": "大年初四接灶王",
+      "onboard_time": 1738345094,
+      "rank": 48,
+      "category": "健康医疗,运动健身"
     },
     {
       "raw_hot": 32214,
@@ -17705,14 +17713,6 @@
       "onboard_time": 1737889638,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31902,
-      "num": 31902,
-      "word": "大年初四接灶王",
-      "onboard_time": 1738345094,
-      "rank": 48,
-      "category": "健康医疗,运动健身"
     },
     {
       "raw_hot": 31431,
@@ -18787,6 +18787,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 10386,
+      "num": 15111,
+      "word": "春节档连续3天单日票房破10亿",
+      "onboard_time": 1738357151,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 10301,
       "num": 226352,
       "word": "翟宇佳走了十四年走到了蛟龙行动",
@@ -18889,14 +18897,6 @@
       "onboard_time": 1738006512,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9324,
-      "num": 15111,
-      "word": "春节档连续3天单日票房破10亿",
-      "onboard_time": 1738357151,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 9291,
