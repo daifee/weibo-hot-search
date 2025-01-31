@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738323349006,
+  "endTime": 1738327287992,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -705,6 +705,14 @@
       "onboard_time": 1737946817,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1411529,
+      "num": 345346,
+      "word": "吐排片",
+      "onboard_time": 1738323498,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 1410693,
@@ -2115,6 +2123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 669007,
+      "num": 669007,
+      "word": "俄乌冲突让乌克兰倒退100年",
+      "onboard_time": 1738323799,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 668744,
       "num": 668744,
       "word": "孙千春晚素颜出发图",
@@ -2619,6 +2635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 569913,
+      "num": 569913,
+      "word": "朕与嬛嬛何时有过嫌隙",
+      "onboard_time": 1738321997,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 568924,
       "num": 568924,
       "word": "和OneRepublic一起数星星",
@@ -2993,6 +3017,14 @@
       "onboard_time": 1737949698,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 514978,
+      "num": 514978,
+      "word": "越南从韩国进口的无人机大批坠机",
+      "onboard_time": 1738320799,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 513993,
@@ -3601,14 +3633,6 @@
       "onboard_time": 1737862578,
       "rank": 39,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 445764,
-      "num": 445764,
-      "word": "朕与嬛嬛何时有过嫌隙",
-      "onboard_time": 1738321997,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 445756,
@@ -4251,6 +4275,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 382950,
+      "num": 148963,
+      "word": "龙爹表面上和私底下",
+      "onboard_time": 1738324638,
+      "rank": 30,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 382737,
       "num": 372131,
       "word": "李子柒十个勤天春晚同台",
@@ -4603,20 +4635,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 343557,
+      "num": 343557,
+      "word": "申小豹死了吗",
+      "onboard_time": 1738323379,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 343200,
       "num": 343200,
       "word": "孙颖莎首轮对阵徐孝元",
       "onboard_time": 1738318697,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 343162,
-      "num": 343162,
-      "word": "越南从韩国进口的无人机大批坠机",
-      "onboard_time": 1738320799,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 343051,
@@ -4665,6 +4697,14 @@
       "onboard_time": 1738068396,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 340420,
+      "num": 340420,
+      "word": "藕饼交融",
+      "onboard_time": 1738325778,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 340406,
@@ -5035,6 +5075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 313839,
+      "num": 313839,
+      "word": "那尔那茜八年空窗期都干了什么",
+      "onboard_time": 1738324699,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 313644,
       "num": 240427,
       "word": "封神 北海到底有谁在啊",
@@ -5217,6 +5265,14 @@
       "onboard_time": 1738037777,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 300388,
+      "num": 149315,
+      "word": "封神2妲己严选的女孩是艾米",
+      "onboard_time": 1738323319,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 300117,
@@ -7211,6 +7267,14 @@
       "category": "国际时政,互联网"
     },
     {
+      "raw_hot": 205542,
+      "num": 149272,
+      "word": "田嘉瑞闫桉双男主",
+      "onboard_time": 1738326498,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205507,
       "num": 205507,
       "word": "李子柒用她的方式传承非遗春节",
@@ -7971,6 +8035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 191087,
+      "num": 149144,
+      "word": "敖光",
+      "onboard_time": 1738326919,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 191000,
       "num": 155316,
       "word": "于适说姬发从来没有退缩过",
@@ -8273,6 +8345,14 @@
       "onboard_time": 1738156700,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186042,
+      "num": 149110,
+      "word": "时代少年团直播",
+      "onboard_time": 1738325837,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 185720,
@@ -9027,6 +9107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 167254,
+      "num": 148989,
+      "word": "李一桐冷脸绝杀",
+      "onboard_time": 1738323858,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167224,
       "num": 210224,
       "word": "任天堂禁止非日本信用卡买日服游戏",
@@ -9355,6 +9443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161129,
+      "num": 148930,
+      "word": "哪吒敖丙好配",
+      "onboard_time": 1738325478,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 161016,
       "num": 137269,
       "word": "IVE新歌登顶Melon实时一位",
@@ -9408,6 +9504,14 @@
       "word": "上台太赶没穿裤 这就是我说的漏电保护",
       "onboard_time": 1738124898,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 159917,
+      "num": 148886,
+      "word": "汪苏泷夸孟子义",
+      "onboard_time": 1738324758,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -9497,6 +9601,14 @@
       "onboard_time": 1738081529,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158393,
+      "num": 149193,
+      "word": "哈尔滨亚冬会",
+      "onboard_time": 1738326798,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 158230,
@@ -10035,6 +10147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 149323,
+      "num": 149323,
+      "word": "蛇是很多医学院校徽的主角",
+      "onboard_time": 1738327158,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 149268,
       "num": 149268,
       "word": "薛之谦自曝在家拿衣架彩排",
@@ -10075,6 +10195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148862,
+      "num": 148862,
+      "word": "光头强做了微整形还偷偷洗白了",
+      "onboard_time": 1738325359,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 148764,
       "num": 203930,
       "word": "夏以昼一起回家吧",
@@ -10089,6 +10217,14 @@
       "onboard_time": 1737862638,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148412,
+      "num": 148412,
+      "word": "theboyz",
+      "onboard_time": 1738324997,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 148392,
@@ -10257,6 +10393,14 @@
       "onboard_time": 1738318579,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145858,
+      "num": 346302,
+      "word": "哪吒2何以打破续集魔咒领跑春节档",
+      "onboard_time": 1738325599,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 145839,
@@ -10513,6 +10657,14 @@
       "onboard_time": 1737987979,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 141779,
+      "num": 141779,
+      "word": "国乒新加坡大满贯完整签表",
+      "onboard_time": 1738325719,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 141727,
@@ -10979,11 +11131,11 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 135784,
-      "num": 126802,
-      "word": "封神2妲己严选的女孩是艾米",
-      "onboard_time": 1738323319,
-      "rank": 30,
+      "raw_hot": 135651,
+      "num": 135651,
+      "word": "小侯爷姬发实在貌美",
+      "onboard_time": 1738325478,
+      "rank": 38,
       "category": "电影"
     },
     {
@@ -11249,6 +11401,14 @@
       "onboard_time": 1737965538,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131242,
+      "num": 149011,
+      "word": "中方回应日本拟对华半导体等出口管制",
+      "onboard_time": 1738325059,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 131199,
@@ -11593,6 +11753,14 @@
       "onboard_time": 1737906497,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126104,
+      "num": 149040,
+      "word": "美国打压DeepSeek的后果",
+      "onboard_time": 1738326858,
+      "rank": 27,
+      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 125985,
@@ -12835,6 +13003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108648,
+      "num": 108648,
+      "word": "曼城 皇马",
+      "onboard_time": 1738323919,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108610,
       "num": 153464,
       "word": "外国人扭秧歌",
@@ -13177,6 +13353,14 @@
       "onboard_time": 1737881118,
       "rank": 19,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 104012,
+      "num": 104012,
+      "word": "中国人的春节传统走向世界了",
+      "onboard_time": 1738324099,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103945,
@@ -13867,6 +14051,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 95231,
+      "num": 95231,
+      "word": "孙颖莎跑出幻影了",
+      "onboard_time": 1738326858,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95121,
       "num": 95121,
       "word": "国产AI登顶苹果中国及美国免费应用榜",
@@ -14073,6 +14265,14 @@
       "onboard_time": 1738126880,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 92950,
+      "num": 92950,
+      "word": "低头一秒就跟不上节奏的潜艇大片",
+      "onboard_time": 1738324520,
+      "rank": 49,
+      "category": "民生新闻,幽默"
     },
     {
       "raw_hot": 92897,
@@ -14401,6 +14601,14 @@
       "onboard_time": 1738145419,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 87264,
+      "num": 149156,
+      "word": "冯骥公司群说大家都去看哪吒",
+      "onboard_time": 1738326739,
+      "rank": 24,
+      "category": "电影,游戏"
     },
     {
       "raw_hot": 87210,
