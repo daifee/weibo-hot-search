@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738301877460,
+  "endTime": 1738305085333,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -1275,6 +1275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 937603,
+      "num": 1150016,
+      "word": "乌尔善回应封神2争议",
+      "onboard_time": 1738300817,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 937319,
       "num": 937319,
       "word": "扶着点咱奶别摔了",
@@ -1392,6 +1400,14 @@
       "word": "央视春晚四大美女",
       "onboard_time": 1738101732,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 894910,
+      "num": 290570,
+      "word": "薛凯琪春晚的妆是钟楚曦画的",
+      "onboard_time": 1738301897,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -2811,6 +2827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 530145,
+      "num": 208305,
+      "word": "射雕 删减",
+      "onboard_time": 1738302317,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 529402,
       "num": 529402,
       "word": "新娘坐高铁去结婚收获全车祝福",
@@ -3913,14 +3937,6 @@
       "onboard_time": 1737971777,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 393815,
-      "num": 243356,
-      "word": "乌尔善回应封神2争议",
-      "onboard_time": 1738300817,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 393451,
@@ -5563,6 +5579,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 260183,
+      "num": 260183,
+      "word": "蛇年为什么有384天",
+      "onboard_time": 1738298357,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 259595,
       "num": 263753,
       "word": "周深2024年度结算画面",
@@ -6827,6 +6851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208822,
+      "num": 208822,
+      "word": "正月初三睡到饱",
+      "onboard_time": 1738301597,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208782,
       "num": 149877,
       "word": "万妮达女rapper首登春晚",
@@ -6961,6 +6993,14 @@
       "onboard_time": 1737846374,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 205177,
+      "num": 205177,
+      "word": "趵突泉猪鲤减肥失败",
+      "onboard_time": 1738302497,
+      "rank": 14,
+      "category": "旅游"
     },
     {
       "raw_hot": 204911,
@@ -8331,6 +8371,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 174988,
+      "num": 124809,
+      "word": "胡一天内娱有自己的心软的神",
+      "onboard_time": 1738304176,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174822,
       "num": 416784,
       "word": "今夜让世界看到重庆",
@@ -8705,6 +8753,14 @@
       "onboard_time": 1737975137,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166380,
+      "num": 124298,
+      "word": "刘昊然感觉身上背了三部唐仁",
+      "onboard_time": 1738303458,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 166299,
@@ -9371,6 +9427,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 153260,
+      "num": 123847,
+      "word": "小伙到女友家过年撞脸丈母娘",
+      "onboard_time": 1738304117,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153041,
       "num": 126198,
       "word": "岳云鹏过年不语一味的炫饭",
@@ -9657,6 +9721,14 @@
       "onboard_time": 1738072775,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 148494,
+      "num": 120972,
+      "word": "欧阳娜娜抱外甥",
+      "onboard_time": 1738303816,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 148488,
@@ -9953,6 +10025,14 @@
       "onboard_time": 1737900080,
       "rank": 18,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 143460,
+      "num": 125656,
+      "word": "周冬雨素颜生日照",
+      "onboard_time": 1738303697,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 143329,
@@ -10723,6 +10803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131199,
+      "num": 120266,
+      "word": "唐探1900名字隐喻",
+      "onboard_time": 1738304297,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 131158,
       "num": 131158,
       "word": "哪吒2彩蛋",
@@ -10753,6 +10841,14 @@
       "onboard_time": 1737896239,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130581,
+      "num": 117531,
+      "word": "娜然妲己归来是什么美强惨",
+      "onboard_time": 1738303037,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 130510,
@@ -10921,6 +11017,14 @@
       "onboard_time": 1738299436,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 127181,
+      "num": 207374,
+      "word": "东部战区海军发布视频踏浪横戈",
+      "onboard_time": 1738304476,
+      "rank": 9,
+      "category": "军事"
     },
     {
       "raw_hot": 127173,
@@ -11219,6 +11323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123540,
+      "num": 123540,
+      "word": "孙颖莎王楚钦抵达新加坡",
+      "onboard_time": 1738300398,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123429,
       "num": 121593,
       "word": "小小的我",
@@ -11233,6 +11345,14 @@
       "onboard_time": 1738212916,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122840,
+      "num": 117471,
+      "word": "Jennie新单曲MV",
+      "onboard_time": 1738302196,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 122778,
@@ -11377,14 +11497,6 @@
       "onboard_time": 1737900980,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 120670,
-      "num": 132457,
-      "word": "蛇年为什么有384天",
-      "onboard_time": 1738298357,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 120633,
@@ -11561,6 +11673,14 @@
       "onboard_time": 1738034357,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117191,
+      "num": 89934,
+      "word": "泰国偶遇沙溢胡可一家",
+      "onboard_time": 1738303458,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 116878,
@@ -11931,6 +12051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 111406,
+      "num": 86318,
+      "word": "谁是春节档电影黑马",
+      "onboard_time": 1738304476,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 111353,
       "num": 111353,
       "word": "家装厨卫焕新补贴标准明确",
@@ -12147,14 +12275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 108741,
-      "num": 108741,
-      "word": "孙颖莎王楚钦抵达新加坡",
-      "onboard_time": 1738300398,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 108610,
       "num": 153464,
       "word": "外国人扭秧歌",
@@ -12233,6 +12353,14 @@
       "onboard_time": 1738041496,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107830,
+      "num": 107830,
+      "word": "东部战区正月初三新春献礼视频",
+      "onboard_time": 1738300876,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 107755,
@@ -12867,6 +12995,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 97834,
+      "num": 126492,
+      "word": "梁永安称射雕拍出武侠的理想主义",
+      "onboard_time": 1738304716,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 97774,
       "num": 97774,
       "word": "金蛇迎春红红火火壁纸",
@@ -13475,6 +13611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88567,
+      "num": 123590,
+      "word": "射雕英雄传锋批美学",
+      "onboard_time": 1738304117,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 88513,
       "num": 88513,
       "word": "花脸鸭已经被列入ICBP世界濒危鸟类红皮书",
@@ -13665,14 +13809,6 @@
       "onboard_time": 1737892220,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 85520,
-      "num": 85520,
-      "word": "东部战区正月初三新春献礼视频",
-      "onboard_time": 1738300876,
-      "rank": 49,
-      "category": "军事"
     },
     {
       "raw_hot": 85480,
@@ -14131,14 +14267,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 77619,
-      "num": 77619,
-      "word": "正月初三睡到饱",
-      "onboard_time": 1738301597,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77137,
       "num": 112275,
       "word": "网友科幻乐园偶遇张泽禹",
@@ -14305,6 +14433,14 @@
       "onboard_time": 1738288816,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73496,
+      "num": 79516,
+      "word": "印度部长举例DeepSeek回应质疑",
+      "onboard_time": 1738301897,
+      "rank": 45,
+      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 73445,
@@ -14707,6 +14843,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 64612,
+      "num": 79455,
+      "word": "宠物新年照",
+      "onboard_time": 1738303876,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 64007,
       "num": 64007,
       "word": "内马尔即将重返桑托斯",
@@ -14809,6 +14953,14 @@
       "onboard_time": 1738125560,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 61813,
+      "num": 79414,
+      "word": "新兰新婚夫妻感",
+      "onboard_time": 1738304895,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 61777,
