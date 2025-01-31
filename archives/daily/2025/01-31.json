@@ -1,6 +1,6 @@
 {
   "startTime": 1738254491138,
-  "endTime": 1738300895090,
+  "endTime": 1738301877460,
   "band_list": [
     {
       "raw_hot": 3591172,
@@ -65,6 +65,14 @@
       "onboard_time": 1738233497,
       "rank": 1,
       "category": "财经"
+    },
+    {
+      "raw_hot": 930858,
+      "num": 487181,
+      "word": "李宇春第一时间取消连续包月",
+      "onboard_time": 1738300217,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 773929,
@@ -243,6 +251,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 393815,
+      "num": 243356,
+      "word": "乌尔善回应封神2争议",
+      "onboard_time": 1738300817,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 387819,
       "num": 324819,
       "word": "全红婵晒百张照片请网友看烟花",
@@ -291,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 341285,
+      "num": 235732,
+      "word": "2025春节档票房破40亿",
+      "onboard_time": 1738299377,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 337495,
       "num": 337495,
       "word": "徐志胜在哪都好认除了家里",
@@ -305,22 +329,6 @@
       "onboard_time": 1738247838,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 322320,
-      "num": 179999,
-      "word": "李宇春第一时间取消连续包月",
-      "onboard_time": 1738300217,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 318740,
-      "num": 173431,
-      "word": "2025春节档票房破40亿",
-      "onboard_time": 1738299377,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 317696,
@@ -395,6 +403,14 @@
       "category": "电影,作品衍生"
     },
     {
+      "raw_hot": 246854,
+      "num": 146878,
+      "word": "余承恩家人觉得他不帅",
+      "onboard_time": 1738299976,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246689,
       "num": 229433,
       "word": "2025春节档首部10亿电影诞生",
@@ -409,6 +425,14 @@
       "onboard_time": 1738291155,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 240639,
+      "num": 149331,
+      "word": "初三送穷鬼",
+      "onboard_time": 1738298656,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 240261,
@@ -475,14 +499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 220603,
-      "num": 149331,
-      "word": "初三送穷鬼",
-      "onboard_time": 1738298656,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 216249,
       "num": 216249,
       "word": "邓婵玉",
@@ -531,14 +547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199979,
-      "num": 146878,
-      "word": "余承恩家人觉得他不帅",
-      "onboard_time": 1738299976,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197699,
       "num": 169590,
       "word": "行程图",
@@ -579,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 193167,
+      "num": 209872,
+      "word": "长大后和申公豹深深共情了",
+      "onboard_time": 1738297818,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 192606,
       "num": 192606,
       "word": "汕头烟花",
@@ -593,14 +609,6 @@
       "onboard_time": 1738290917,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 189511,
-      "num": 209872,
-      "word": "长大后和申公豹深深共情了",
-      "onboard_time": 1738297818,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 188085,
@@ -883,12 +891,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120670,
+      "num": 132457,
+      "word": "蛇年为什么有384天",
+      "onboard_time": 1738298357,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120633,
       "num": 120633,
       "word": "男子过年走亲戚遇户主撒土",
       "onboard_time": 1738290917,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119822,
+      "num": 97739,
+      "word": "哪吒彩蛋",
+      "onboard_time": 1738301295,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 119025,
@@ -923,6 +947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112360,
+      "num": 97517,
+      "word": "快乐再出发",
+      "onboard_time": 1738299018,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110460,
       "num": 110460,
       "word": "一个不想拜一个不想走",
@@ -931,12 +963,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 109624,
-      "num": 109624,
-      "word": "蛇年为什么有384天",
-      "onboard_time": 1738298357,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 110278,
+      "num": 132450,
+      "word": "许凯说一起健身的都会相互摸腹肌",
+      "onboard_time": 1738301476,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 108741,
+      "num": 108741,
+      "word": "孙颖莎王楚钦抵达新加坡",
+      "onboard_time": 1738300398,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 108272,
@@ -953,14 +993,6 @@
       "onboard_time": 1738295057,
       "rank": 43,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 106434,
-      "num": 106434,
-      "word": "孙颖莎王楚钦抵达新加坡",
-      "onboard_time": 1738300398,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 103945,
@@ -1163,14 +1195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 87038,
-      "num": 147831,
-      "word": "乌尔善回应封神2争议",
-      "onboard_time": 1738300817,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 86619,
       "num": 331889,
       "word": "国际金价创下盘中新高",
@@ -1249,6 +1273,14 @@
       "onboard_time": 1738248138,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 77619,
+      "num": 77619,
+      "word": "正月初三睡到饱",
+      "onboard_time": 1738301597,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74865,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1738301877460,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1024883,
+        "num": 1163981,
+        "word": "哪吒2票房",
+        "onboard_time": 1738288816,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 561367,
+        "num": 561367,
+        "word": "日本政府就DeepSeek表态",
+        "onboard_time": 1738295177,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91448,
+        "num": 490700,
+        "word": "一条视频看懂正月初三年俗",
+        "onboard_time": 1738295356,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 930858,
+        "num": 487181,
+        "word": "李宇春第一时间取消连续包月",
+        "onboard_time": 1738300217,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438972,
+        "num": 438972,
+        "word": "美国撞机事故两名中国公民遇难",
+        "onboard_time": 1738293917,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 307897,
+        "num": 307897,
+        "word": "睡懒觉",
+        "onboard_time": 1738289956,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 549456,
+        "num": 307880,
+        "word": "谁把许仙的中药换成冰美式了",
+        "onboard_time": 1738297936,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 456719,
+        "num": 306404,
+        "word": "白鹿感谢陈哲远",
+        "onboard_time": 1738298837,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300757,
+        "num": 300757,
+        "word": "正月初三扫一扫",
+        "onboard_time": 1738289236,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 248140,
+        "num": 248140,
+        "word": "初三宅家才是过年顶级仪式感",
+        "onboard_time": 1738282156,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393815,
+        "num": 243356,
+        "word": "乌尔善回应封神2争议",
+        "onboard_time": 1738300817,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 341285,
+        "num": 235732,
+        "word": "2025春节档票房破40亿",
+        "onboard_time": 1738299377,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 390876,
+        "num": 234309,
+        "word": "白鹿终于加到了宋佳微信",
+        "onboard_time": 1738293077,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301235,
+        "num": 227500,
+        "word": "敖丙他爸出场 哇声一片",
+        "onboard_time": 1738251139,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 222736,
+        "num": 222736,
+        "word": "第一次上大学就上春晚是什么感受",
+        "onboard_time": 1738296976,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182832,
+        "num": 182832,
+        "word": "美国24年来最严重空难",
+        "onboard_time": 1738281314,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 167271,
+        "num": 167271,
+        "word": "扎克伯格称仍在消化DeepSeek的成果",
+        "onboard_time": 1738292776,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 158369,
+        "num": 158369,
+        "word": "金价",
+        "onboard_time": 1738233497,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 156610,
+        "num": 156610,
+        "word": "蛇为啥会把四肢进化没了",
+        "onboard_time": 1738282756,
+        "rank": 18,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 132502,
+        "num": 132502,
+        "word": "春节爬完黄山看非遗表演太City了",
+        "onboard_time": 1738299257,
+        "rank": 19,
+        "category": "正能量,旅游"
+      },
+      {
+        "raw_hot": 745008,
+        "num": 132498,
+        "word": "李雨霏自曝童年曾被舅舅猥亵",
+        "onboard_time": 1738293137,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271122,
+        "num": 132493,
+        "word": "外甥给1岁八个月小姨拜年要红包",
+        "onboard_time": 1738299436,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22769,
+        "num": 132487,
+        "word": "原来哪吒上台也会紧张到手抖",
+        "onboard_time": 1738296256,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 246854,
+        "num": 132486,
+        "word": "余承恩家人觉得他不帅",
+        "onboard_time": 1738299976,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240639,
+        "num": 132481,
+        "word": "初三送穷鬼",
+        "onboard_time": 1738298656,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218949,
+        "num": 132470,
+        "word": "黄蓉眼神",
+        "onboard_time": 1738297336,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203087,
+        "num": 132468,
+        "word": "哪吒2",
+        "onboard_time": 1738279215,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193167,
+        "num": 132461,
+        "word": "长大后和申公豹深深共情了",
+        "onboard_time": 1738297818,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120670,
+        "num": 132457,
+        "word": "蛇年为什么有384天",
+        "onboard_time": 1738298357,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110278,
+        "num": 132450,
+        "word": "许凯说一起健身的都会相互摸腹肌",
+        "onboard_time": 1738301476,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191956,
+        "num": 132445,
+        "word": "徐志胜在哪都好认除了家里",
+        "onboard_time": 1738292356,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166222,
+        "num": 132441,
+        "word": "吴莫愁出道13年才登上春晚",
+        "onboard_time": 1738291876,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152705,
+        "num": 132433,
+        "word": "哪吒2 隐喻",
+        "onboard_time": 1738293376,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110741,
+        "num": 132432,
+        "word": "国内足金首饰1克突破846元",
+        "onboard_time": 1738292836,
+        "rank": 33,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 132428,
+        "num": 132428,
+        "word": "邓婵玉",
+        "onboard_time": 1738296796,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128967,
+        "num": 128967,
+        "word": "王俊凯催什么催牌都很一般",
+        "onboard_time": 1738286296,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122035,
+        "num": 122035,
+        "word": "郭敬明晒了鞠婧祎田嘉瑞原始帧",
+        "onboard_time": 1738283656,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108741,
+        "num": 108741,
+        "word": "孙颖莎王楚钦抵达新加坡",
+        "onboard_time": 1738300398,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97459,
+        "num": 101696,
+        "word": "崩坏星穹铁道",
+        "onboard_time": 1738299436,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97837,
+        "num": 97837,
+        "word": "王楚钦新加坡大满贯备战视频",
+        "onboard_time": 1738299018,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119822,
+        "num": 97739,
+        "word": "哪吒彩蛋",
+        "onboard_time": 1738301295,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117874,
+        "num": 97606,
+        "word": "虞书欣二月行程送达",
+        "onboard_time": 1738299856,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112360,
+        "num": 97517,
+        "word": "快乐再出发",
+        "onboard_time": 1738299018,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112044,
+        "num": 97386,
+        "word": "朱一龙祝你新年有梦追梦圆梦",
+        "onboard_time": 1738290917,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97341,
+        "num": 97341,
+        "word": "给我多年的英语功底整没了",
+        "onboard_time": 1738294398,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85523,
+        "num": 85523,
+        "word": "扎克伯格称仍在消化DeepSeek成果",
+        "onboard_time": 1738295057,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 78312,
+        "num": 78312,
+        "word": "大年初三休息好",
+        "onboard_time": 1738290917,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78083,
+        "num": 78083,
+        "word": "1月的最后一天",
+        "onboard_time": 1738281075,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77942,
+        "num": 77942,
+        "word": "东部战区正月初三新春献礼视频",
+        "onboard_time": 1738300876,
+        "rank": 48,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 77619,
+        "num": 77619,
+        "word": "正月初三睡到饱",
+        "onboard_time": 1738301597,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#和总书记一起感受浓浓年味#"
+    }
+  }
+}
