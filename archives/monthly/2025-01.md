@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/01/31 17:36:14
+本榜单时间：2025/01/01 00:26:38 ~ 2025/01/31 18:23:07
 </p>
 </blockquote>
 <p>
@@ -3741,6 +3741,12 @@ Angelababy发和儿子合照（热度：1295246）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E6%88%96%E5%B0%86%E8%BF%9B%E5%85%A5%E5%BD%B1%E5%8F%B2%E7%A5%A8%E6%88%BF%E5%89%8D%E4%B8%89%23" target="weibo">
+哪吒2或将进入影史票房前三（热度：1164295）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B1%B9%E8%B1%B9%E7%8C%AB%E7%8C%AB%E6%88%91%E5%87%BA%E7%94%9F%E4%BA%86%23" target="weibo">
 豹豹猫猫我出生了（热度：1162455）
 </a>
@@ -6005,12 +6011,6 @@ D社曝金敏喜怀孕（热度：893355）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%AD%E7%8A%AC%E5%B8%88%E8%B0%88%E7%BD%91%E7%BA%A2%E7%8B%97%E8%89%BE%E7%89%B9%E6%B4%97%E6%BE%A1%E6%AD%BB%E4%BA%A1%23" target="weibo">
 训犬师谈网红狗艾特洗澡死亡（热度：886623）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%92%8C%E8%AE%B8%E6%98%95%E5%84%BF%E5%AD%90%E5%90%88%E7%85%A7%23" target="weibo">
-王楚钦和许昕儿子合照（热度：886438）
 </a>
 </li>
 

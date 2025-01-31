@@ -1,6 +1,6 @@
 {
   "startTime": 1738254491138,
-  "endTime": 1738316174715,
+  "endTime": 1738318987329,
   "band_list": [
     {
       "raw_hot": 3591172,
@@ -32,6 +32,14 @@
       "word": "哪吒2票房",
       "onboard_time": 1738288816,
       "rank": 1,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1164295,
+      "num": 1164295,
+      "word": "哪吒2或将进入影史票房前三",
+      "onboard_time": 1738314798,
+      "rank": 23,
       "category": "电影"
     },
     {
@@ -105,6 +113,14 @@
       "onboard_time": 1738306097,
       "rank": 1,
       "category": "财经"
+    },
+    {
+      "raw_hot": 824383,
+      "num": 353279,
+      "word": "花140万捡漏的230平房子",
+      "onboard_time": 1738315339,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 773929,
@@ -211,6 +227,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 539928,
+      "num": 539928,
+      "word": "900多块压岁钱发出了10万的感觉",
+      "onboard_time": 1738315818,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 529011,
+      "num": 529011,
+      "word": "2025WTT新加坡大满贯抽签",
+      "onboard_time": 1738315999,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 513939,
       "num": 513939,
       "word": "哪吒2为什么比哪吒1更好看",
@@ -260,11 +292,19 @@
     },
     {
       "raw_hot": 445223,
-      "num": 225021,
+      "num": 352584,
       "word": "票房",
       "onboard_time": 1738247598,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 443588,
+      "num": 443588,
+      "word": "清华硕士拿到蓝翔毕业证",
+      "onboard_time": 1738315697,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 440774,
@@ -313,6 +353,14 @@
       "onboard_time": 1738281375,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 398968,
+      "num": 353018,
+      "word": "杨洋坐村头台阶看打篮球",
+      "onboard_time": 1738316119,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 398861,
@@ -387,6 +435,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 344922,
+      "num": 344922,
+      "word": "英伟达上线DeepSeek",
+      "onboard_time": 1738316599,
+      "rank": 13,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 343975,
       "num": 343975,
       "word": "麻辣王子家过年被小朋友挤爆",
@@ -427,14 +483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 327494,
-      "num": 327494,
-      "word": "哪吒2或将进入影史票房前三",
-      "onboard_time": 1738314798,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 317696,
       "num": 317696,
       "word": "特朗普称撞机无人生还",
@@ -473,6 +521,14 @@
       "onboard_time": 1738282815,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 282400,
+      "num": 282400,
+      "word": "永川地震",
+      "onboard_time": 1738318337,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 281985,
@@ -563,6 +619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 244842,
+      "num": 244842,
+      "word": "爷爷去世七年砍的柴还没用",
+      "onboard_time": 1738317678,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 242441,
       "num": 221243,
       "word": "男孩下水道扔鞭炮致爆炸多车被掀翻",
@@ -620,7 +684,7 @@
     },
     {
       "raw_hot": 232463,
-      "num": 140994,
+      "num": 152075,
       "word": "王安宇回应被蒋欣私下叫儿子",
       "onboard_time": 1738312398,
       "rank": 34,
@@ -707,6 +771,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205531,
+      "num": 205531,
+      "word": "哪吒票房",
+      "onboard_time": 1738318278,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 204681,
+      "num": 204681,
+      "word": "时光代理人",
+      "onboard_time": 1738318458,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 204018,
       "num": 204018,
       "word": "埃文凯尔已启程回美国",
@@ -715,12 +795,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201037,
+      "num": 200743,
+      "word": "哪吒之魔童闹海单日票房逆跌",
+      "onboard_time": 1738317977,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 200882,
       "num": 207374,
       "word": "东部战区海军发布视频踏浪横戈",
       "onboard_time": 1738304476,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 199959,
+      "num": 199959,
+      "word": "许凯回应跟田曦薇公主抱出圈",
+      "onboard_time": 1738318518,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 197699,
@@ -899,14 +995,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 165763,
-      "num": 129678,
-      "word": "花140万捡漏的230平房子",
-      "onboard_time": 1738315339,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 162647,
       "num": 140085,
       "word": "WTT",
@@ -1035,12 +1123,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 147536,
+      "num": 147536,
+      "word": "汪苏泷过年回家第一天就被嫌弃",
+      "onboard_time": 1738318218,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147330,
       "num": 147330,
       "word": "王楚钦新加坡大满贯备战视频",
       "onboard_time": 1738299018,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145882,
+      "num": 206454,
+      "word": "黄誉博年度总结太抽象了",
+      "onboard_time": 1738318579,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 144903,
@@ -1052,11 +1156,19 @@
     },
     {
       "raw_hot": 144457,
-      "num": 144457,
+      "num": 353934,
       "word": "春节假期返程天气",
       "onboard_time": 1738293798,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143965,
+      "num": 143965,
+      "word": "亚连史诗皮肤",
+      "onboard_time": 1738317018,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 142116,
@@ -1243,20 +1355,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 125736,
-      "num": 125736,
-      "word": "900多块压岁钱发出了10万的感觉",
-      "onboard_time": 1738315818,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 124700,
       "num": 143742,
       "word": "崩坏星穹铁道",
       "onboard_time": 1738299436,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 124635,
+      "num": 124635,
+      "word": "国乒双打首轮全部轮空",
+      "onboard_time": 1738317318,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 123595,
@@ -1307,6 +1419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 119135,
+      "num": 119135,
+      "word": "王安宇给闫妮唱醒酒了",
+      "onboard_time": 1738317558,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119025,
       "num": 87450,
       "word": "外媒称失事客机上至少14名运动员",
@@ -1321,6 +1441,22 @@
       "onboard_time": 1738315037,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115769,
+      "num": 115769,
+      "word": "一只土狗救了我90岁的姥爷",
+      "onboard_time": 1738318337,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 114903,
+      "num": 114903,
+      "word": "初三走亲戚为什么回家要早",
+      "onboard_time": 1738318877,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114854,
@@ -1369,6 +1505,14 @@
       "onboard_time": 1738304476,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 111225,
+      "num": 111225,
+      "word": "孙颖莎笑容感染力",
+      "onboard_time": 1738318638,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 110542,
@@ -1443,6 +1587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104549,
+      "num": 104549,
+      "word": "爷爷豪掷上万压岁钱孙子任性拒收",
+      "onboard_time": 1738316057,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103945,
       "num": 103945,
       "word": "杨玉环新皮肤特效",
@@ -1465,6 +1617,14 @@
       "onboard_time": 1738315339,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103179,
+      "num": 103179,
+      "word": "WTT新加坡大满贯双打签表",
+      "onboard_time": 1738316538,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 101736,
@@ -1867,28 +2027,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 80798,
-      "num": 80798,
-      "word": "杨洋坐村头台阶看打篮球",
-      "onboard_time": 1738316119,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 79986,
       "num": 123581,
       "word": "原来小狗也喜欢看烟花",
       "onboard_time": 1738241118,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 79054,
-      "num": 103872,
-      "word": "2025WTT新加坡大满贯抽签",
-      "onboard_time": 1738315999,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 78763,
@@ -1913,14 +2057,6 @@
       "onboard_time": 1738312218,
       "rank": 43,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 76278,
-      "num": 141162,
-      "word": "清华硕士拿到蓝翔毕业证",
-      "onboard_time": 1738315697,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75777,
@@ -1977,6 +2113,14 @@
       "onboard_time": 1738282696,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 69847,
+      "num": 201186,
+      "word": "孙颖莎首轮对阵徐孝元",
+      "onboard_time": 1738318697,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 67868,
@@ -2067,6 +2211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 54160,
+      "num": 770139,
+      "word": "大年初三大街小巷热热闹闹",
+      "onboard_time": 1738316719,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 50018,
       "num": 50018,
       "word": "李现在春晚说了谢之遥的台词",
@@ -2136,14 +2288,6 @@
       "word": "3种相处模式让家越来越兴旺",
       "onboard_time": 1738256715,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39631,
-      "num": 104539,
-      "word": "爷爷豪掷上万压岁钱孙子任性拒收",
-      "onboard_time": 1738316057,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
