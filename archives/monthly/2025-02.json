@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738399111459,
+  "endTime": 1738401692211,
   "band_list": [
     {
       "raw_hot": 1597648,
@@ -35,8 +35,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1273773,
+      "num": 1273773,
+      "word": "全网都知道苏醒在迪拜买贵了",
+      "onboard_time": 1738398076,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1047525,
-      "num": 343855,
+      "num": 451692,
       "word": "虞书欣张凌赫聚餐合照",
       "onboard_time": 1738394656,
       "rank": 11,
@@ -75,6 +83,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 899823,
+      "num": 899823,
+      "word": "徐福记成时代眼泪了吗",
+      "onboard_time": 1738396218,
+      "rank": 4,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 876498,
       "num": 1140239,
       "word": "金价",
@@ -107,6 +123,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 743601,
+      "num": 443965,
+      "word": "哪吒2",
+      "onboard_time": 1738328359,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 718820,
+      "num": 442619,
+      "word": "美国4天内4机坠毁",
+      "onboard_time": 1738397178,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 716626,
       "num": 347968,
       "word": "黑妮曝王菲父母哥哥均已离世",
@@ -124,7 +156,7 @@
     },
     {
       "raw_hot": 672745,
-      "num": 279140,
+      "num": 334926,
       "word": "哪吒之魔童闹海票房破20亿",
       "onboard_time": 1738389557,
       "rank": 10,
@@ -148,7 +180,7 @@
     },
     {
       "raw_hot": 579106,
-      "num": 262449,
+      "num": 299406,
       "word": "有这样的卧室我能一个月不出门",
       "onboard_time": 1738394837,
       "rank": 30,
@@ -244,7 +276,7 @@
     },
     {
       "raw_hot": 445345,
-      "num": 265620,
+      "num": 312462,
       "word": "虞书欣又给Jennie打歌了",
       "onboard_time": 1738395796,
       "rank": 8,
@@ -296,14 +328,6 @@
       "word": "哪吒2或成影史新票房冠军",
       "onboard_time": 1738372516,
       "rank": 27,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 409680,
-      "num": 279636,
-      "word": "哪吒2",
-      "onboard_time": 1738328359,
-      "rank": 16,
       "category": "电影"
     },
     {
@@ -371,6 +395,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 361452,
+      "num": 361452,
+      "word": "刘耀文弟弟对宋亚轩说新年快乐",
+      "onboard_time": 1738397056,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 353904,
       "num": 353904,
       "word": "DeepSeek在美商标被梁文锋校友抢注",
@@ -411,20 +443,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 335186,
-      "num": 335186,
-      "word": "徐福记成时代眼泪了吗",
-      "onboard_time": 1738396218,
-      "rank": 4,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 334972,
       "num": 334972,
       "word": "腾讯视频二月大剧片单",
       "onboard_time": 1738382718,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 334861,
+      "num": 334861,
+      "word": "余承恩死嘴快憋住啊",
+      "onboard_time": 1738400297,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 332405,
@@ -459,12 +491,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 320002,
-      "num": 122587,
-      "word": "全网都知道苏醒在迪拜买贵了",
-      "onboard_time": 1738398076,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 312561,
+      "num": 312561,
+      "word": "9岁女孩独自参观爬宠展遭鳄鱼咬伤",
+      "onboard_time": 1738398917,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 309395,
@@ -523,11 +555,11 @@
       "category": "综艺,体育"
     },
     {
-      "raw_hot": 270002,
-      "num": 132850,
-      "word": "刘耀文弟弟对宋亚轩说新年快乐",
-      "onboard_time": 1738397056,
-      "rank": 26,
+      "raw_hot": 261761,
+      "num": 187864,
+      "word": "台媒讨论赵露思生病事件",
+      "onboard_time": 1738395437,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -540,7 +572,7 @@
     },
     {
       "raw_hot": 257830,
-      "num": 133273,
+      "num": 177397,
       "word": "结婚以后过年成了一件孤独的事",
       "onboard_time": 1738397417,
       "rank": 24,
@@ -627,14 +659,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 232173,
-      "num": 133402,
-      "word": "台媒讨论赵露思生病事件",
-      "onboard_time": 1738395437,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 231304,
       "num": 210235,
       "word": "SM新男团开设新账号",
@@ -683,6 +707,14 @@
       "category": "国际时政,互联网"
     },
     {
+      "raw_hot": 217427,
+      "num": 123375,
+      "word": "唐探是真扛老啊",
+      "onboard_time": 1738400897,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 215117,
       "num": 215117,
       "word": "大年初四接灶王",
@@ -692,7 +724,7 @@
     },
     {
       "raw_hot": 212628,
-      "num": 122519,
+      "num": 194286,
       "word": "赵一博直播",
       "onboard_time": 1738397956,
       "rank": 36,
@@ -723,14 +755,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 208105,
-      "num": 232447,
-      "word": "美国4天内4机坠毁",
-      "onboard_time": 1738397178,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 207365,
       "num": 146008,
       "word": "黄晓明晒妈妈炸的鱼",
@@ -745,6 +769,14 @@
       "onboard_time": 1738390637,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205690,
+      "num": 205690,
+      "word": "春节第一零食好像卖不动了",
+      "onboard_time": 1738399338,
+      "rank": 17,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 203361,
@@ -1075,6 +1107,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 156104,
+      "num": 122465,
+      "word": "春节档票房预测",
+      "onboard_time": 1738396277,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 156044,
       "num": 133273,
       "word": "朋友圈背景图",
@@ -1089,6 +1129,14 @@
       "onboard_time": 1738394117,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 152039,
+      "num": 122321,
+      "word": "刘诗诗只是一味的吊人胃口",
+      "onboard_time": 1738399037,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 149301,
@@ -1267,6 +1315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 131112,
+      "num": 102819,
+      "word": "于适遭大罪偷偷哭",
+      "onboard_time": 1738399098,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 131013,
       "num": 131013,
       "word": "易烊千玺5年变化",
@@ -1283,28 +1339,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 129948,
-      "num": 101690,
-      "word": "春节档票房预测",
-      "onboard_time": 1738396277,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 128776,
       "num": 97043,
       "word": "张婧仪的电台",
       "onboard_time": 1738386496,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 127898,
-      "num": 99246,
-      "word": "刘诗诗只是一味的吊人胃口",
-      "onboard_time": 1738399037,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 127333,
@@ -1339,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124081,
+      "num": 92015,
+      "word": "余承恩就一个鸡柳哥别给我玩坏了",
+      "onboard_time": 1738399277,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123928,
       "num": 123928,
       "word": "救人小哥说这是退伍军人的本能",
@@ -1369,6 +1417,14 @@
       "onboard_time": 1738392077,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121946,
+      "num": 91843,
+      "word": "敖光敖丙爱会带我找回你",
+      "onboard_time": 1738399458,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 120284,
@@ -1555,14 +1611,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 104654,
-      "num": 104654,
-      "word": "9岁女孩独自参观爬宠展遭鳄鱼咬伤",
-      "onboard_time": 1738398917,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 103893,
       "num": 77695,
       "word": "海芋恋一开口就回到了盛夏",
@@ -1659,6 +1707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91601,
+      "num": 91601,
+      "word": "T1战胜GEN",
+      "onboard_time": 1738401556,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 90703,
       "num": 143646,
       "word": "李雨霏再发文",
@@ -1731,6 +1787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83275,
+      "num": 83275,
+      "word": "女孩参展被鳄鱼咬伤商家要赔吗",
+      "onboard_time": 1738401617,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82705,
       "num": 290050,
       "word": "大年初四北京下雪",
@@ -1748,11 +1812,19 @@
     },
     {
       "raw_hot": 81832,
-      "num": 349225,
+      "num": 795132,
       "word": "2025冰雪之约",
       "onboard_time": 1738376177,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80474,
+      "num": 80474,
+      "word": "山东大集物价震惊日本导演竹内亮",
+      "onboard_time": 1738399757,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80010,
@@ -1803,11 +1875,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72172,
+      "num": 110980,
+      "word": "王俊凯谈出演蛟龙行动声呐兵角色",
+      "onboard_time": 1738401617,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 71523,
       "num": 71523,
       "word": "白衣小哥一次次冲进海中救人太帅了",
       "onboard_time": 1738384758,
       "rank": 49,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 70024,
+      "num": 416509,
+      "word": "春节假期已过半",
+      "onboard_time": 1738400955,
+      "rank": 9,
       "category": "正能量"
     },
     {
@@ -1825,6 +1913,14 @@
       "onboard_time": 1738316719,
       "rank": 48,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 66878,
+      "num": 117803,
+      "word": "多方回应网传乘客在飞机上捡到鞭炮",
+      "onboard_time": 1738401556,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65265,
@@ -1849,6 +1945,14 @@
       "onboard_time": 1738379777,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58802,
+      "num": 114738,
+      "word": "王楚钦大年初五蛇年首秀",
+      "onboard_time": 1738395557,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 57633,
@@ -1881,6 +1985,14 @@
       "onboard_time": 1738342456,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51877,
+      "num": 200484,
+      "word": "阿鬼演我随地大小看运势",
+      "onboard_time": 1738401377,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 46990,
@@ -2129,6 +2241,14 @@
       "onboard_time": 1738351332,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12228,
+      "num": 109196,
+      "word": "内马尔回归桑托斯",
+      "onboard_time": 1738401257,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 11607,
