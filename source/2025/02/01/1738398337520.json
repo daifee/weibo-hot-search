@@ -1,0 +1,410 @@
+{
+  "runTime": 1738398337520,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 909264,
+        "num": 1145482,
+        "word": "县城的物价为什么这么谜",
+        "onboard_time": 1738394777,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 711254,
+        "num": 711254,
+        "word": "金价",
+        "onboard_time": 1738376776,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 36813,
+        "num": 272428,
+        "word": "大年初四接好运攻略",
+        "onboard_time": 1738381578,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1047525,
+        "num": 264817,
+        "word": "虞书欣张凌赫聚餐合照",
+        "onboard_time": 1738394656,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244966,
+        "num": 244966,
+        "word": "徐福记成时代眼泪了吗",
+        "onboard_time": 1738396218,
+        "rank": 4,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 598627,
+        "num": 244490,
+        "word": "蒋欣自曝保持身材的秘诀",
+        "onboard_time": 1738390157,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518117,
+        "num": 239390,
+        "word": "向佐自曝曾被郭碧婷狠狠拒绝",
+        "onboard_time": 1738381276,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234285,
+        "num": 234285,
+        "word": "三家美国巨头同日接入DeepSeek",
+        "onboard_time": 1738385358,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 421311,
+        "num": 234258,
+        "word": "虞书欣又给Jennie打歌了",
+        "onboard_time": 1738395796,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 112200,
+        "num": 232447,
+        "word": "美国4天内4机坠毁",
+        "onboard_time": 1738397178,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 579106,
+        "num": 231750,
+        "word": "有这样的卧室我能一个月不出门",
+        "onboard_time": 1738394837,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 380455,
+        "num": 230508,
+        "word": "欣诚则凌",
+        "onboard_time": 1738393756,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378142,
+        "num": 229339,
+        "word": "李小冉回应退繁花群",
+        "onboard_time": 1738370415,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377050,
+        "num": 228016,
+        "word": "哪吒之魔童闹海票房破20亿",
+        "onboard_time": 1738389557,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 294432,
+        "num": 225859,
+        "word": "马斯克点赞无锡拈花湾景区视频",
+        "onboard_time": 1738392015,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 355584,
+        "num": 225053,
+        "word": "哪吒2",
+        "onboard_time": 1738386858,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 224415,
+        "num": 224415,
+        "word": "费城飞机坠毁许多车辆房屋被毁",
+        "onboard_time": 1738392316,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 207343,
+        "num": 207343,
+        "word": "王楚钦可爱童年照",
+        "onboard_time": 1738392316,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142029,
+        "num": 142029,
+        "word": "农村为何普遍早婚早育",
+        "onboard_time": 1738388656,
+        "rank": 18,
+        "category": "民生新闻,母婴育儿"
+      },
+      {
+        "raw_hot": 134031,
+        "num": 134031,
+        "word": "摆烂减肥法",
+        "onboard_time": 1738394656,
+        "rank": 19,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 346054,
+        "num": 133922,
+        "word": "夏雨透露申公豹在第三部魔心高涨",
+        "onboard_time": 1738392556,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 272551,
+        "num": 133846,
+        "word": "王耀庆被世界冠军公主抱了",
+        "onboard_time": 1738394416,
+        "rank": 21,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 238652,
+        "num": 133528,
+        "word": "王宝强说唐探4踩好点了",
+        "onboard_time": 1738390997,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 218554,
+        "num": 133402,
+        "word": "台媒讨论赵露思生病事件",
+        "onboard_time": 1738395437,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182895,
+        "num": 133273,
+        "word": "结婚以后过年成了一件孤独的事",
+        "onboard_time": 1738397417,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 209874,
+        "num": 133068,
+        "word": "哪吒大热离不开电影人的死磕到底",
+        "onboard_time": 1738396158,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204993,
+        "num": 132850,
+        "word": "刘耀文弟弟对宋亚轩说新年快乐",
+        "onboard_time": 1738397056,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195116,
+        "num": 132772,
+        "word": "你好星期六全员为了修图权豁出去了",
+        "onboard_time": 1738396757,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192714,
+        "num": 132635,
+        "word": "云起时",
+        "onboard_time": 1738397956,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189487,
+        "num": 132398,
+        "word": "云秀行",
+        "onboard_time": 1738397297,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186858,
+        "num": 132232,
+        "word": "李昀锐哭的让人心痛",
+        "onboard_time": 1738396516,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186403,
+        "num": 132143,
+        "word": "哪吒2票房逆跌",
+        "onboard_time": 1738334779,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131988,
+        "num": 131988,
+        "word": "大年初四全国人民都挺忙",
+        "onboard_time": 1738373236,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127333,
+        "num": 127333,
+        "word": "瓜子",
+        "onboard_time": 1738392676,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110682,
+        "num": 110682,
+        "word": "身边的年味",
+        "onboard_time": 1738392077,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177857,
+        "num": 110268,
+        "word": "唐探安娜从油画里走出来的公主",
+        "onboard_time": 1738397417,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172821,
+        "num": 110226,
+        "word": "赵一博直播",
+        "onboard_time": 1738397956,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161819,
+        "num": 110159,
+        "word": "全网都知道苏醒在迪拜买贵了",
+        "onboard_time": 1738398076,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109592,
+        "num": 109592,
+        "word": "记者实探金饰价格飙升",
+        "onboard_time": 1738396037,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 92195,
+        "num": 92195,
+        "word": "美国四天四架飞机失事",
+        "onboard_time": 1738372276,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 144456,
+        "num": 91873,
+        "word": "哪吒2票房占比超过6成",
+        "onboard_time": 1738392676,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126215,
+        "num": 90851,
+        "word": "春节档票房预测",
+        "onboard_time": 1738396277,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142027,
+        "num": 90298,
+        "word": "苏醒不怕花钱怕被老婆骂",
+        "onboard_time": 1738395198,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122233,
+        "num": 88812,
+        "word": "李小冉说我是没有一个官司在身上的",
+        "onboard_time": 1738385598,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20181,
+        "num": 87941,
+        "word": "假期后程新一股冷空气来袭",
+        "onboard_time": 1738396938,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87679,
+        "num": 87679,
+        "word": "大年初四灶王爷是C位",
+        "onboard_time": 1738376597,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84981,
+        "num": 84981,
+        "word": "T1对战GEN",
+        "onboard_time": 1738392737,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 84479,
+        "num": 84479,
+        "word": "第五人格",
+        "onboard_time": 1738394777,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 83429,
+        "num": 83429,
+        "word": "美军拒绝公开坠机丧生的女飞行员身份",
+        "onboard_time": 1738394176,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 82635,
+        "num": 82635,
+        "word": "83岁院士说美国封锁不住中国的",
+        "onboard_time": 1738393098,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记感受春节年味儿#"
+    }
+  }
+}

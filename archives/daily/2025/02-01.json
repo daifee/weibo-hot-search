@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738395390392,
+  "endTime": 1738398337520,
   "band_list": [
     {
       "raw_hot": 1597648,
@@ -35,6 +35,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1047525,
+      "num": 264817,
+      "word": "虞书欣张凌赫聚餐合照",
+      "onboard_time": 1738394656,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1034483,
       "num": 1165517,
       "word": "DeepSeek成精",
@@ -57,6 +65,14 @@
       "onboard_time": 1738337421,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 909264,
+      "num": 1145482,
+      "word": "县城的物价为什么这么谜",
+      "onboard_time": 1738394777,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 876498,
@@ -131,6 +147,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 579106,
+      "num": 231750,
+      "word": "有这样的卧室我能一个月不出门",
+      "onboard_time": 1738394837,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 577560,
       "num": 276079,
       "word": "欣诚则凌",
@@ -184,14 +208,6 @@
       "word": "我奶让我牵线白鹿和我二叔相亲",
       "onboard_time": 1738382295,
       "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 492976,
-      "num": 263549,
-      "word": "虞书欣张凌赫聚餐合照",
-      "onboard_time": 1738394656,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -273,6 +289,14 @@
       "onboard_time": 1738372516,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 421311,
+      "num": 234258,
+      "word": "虞书欣又给Jennie打歌了",
+      "onboard_time": 1738395796,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 409680,
@@ -363,6 +387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 346054,
+      "num": 178445,
+      "word": "夏雨透露申公豹在第三部魔心高涨",
+      "onboard_time": 1738392556,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 339821,
       "num": 272694,
       "word": "九重紫短剧",
@@ -443,14 +475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 284629,
-      "num": 178445,
-      "word": "夏雨透露申公豹在第三部魔心高涨",
-      "onboard_time": 1738392556,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 280742,
       "num": 185387,
       "word": "哪吒2或将进入影史票房前三",
@@ -473,6 +497,14 @@
       "onboard_time": 1738318877,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 272551,
+      "num": 154643,
+      "word": "王耀庆被世界冠军公主抱了",
+      "onboard_time": 1738394416,
+      "rank": 46,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 258751,
@@ -513,6 +545,14 @@
       "onboard_time": 1738383317,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 244966,
+      "num": 244966,
+      "word": "徐福记成时代眼泪了吗",
+      "onboard_time": 1738396218,
+      "rank": 4,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 242395,
@@ -595,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224415,
+      "num": 254306,
+      "word": "费城飞机坠毁许多车辆房屋被毁",
+      "onboard_time": 1738392316,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 221623,
       "num": 221623,
       "word": "美国打压DeepSeek的后果",
@@ -603,12 +651,12 @@
       "category": "国际时政,互联网"
     },
     {
-      "raw_hot": 218280,
-      "num": 254306,
-      "word": "费城飞机坠毁许多车辆房屋被毁",
-      "onboard_time": 1738392316,
-      "rank": 9,
-      "category": "海外新闻"
+      "raw_hot": 218554,
+      "num": 133402,
+      "word": "台媒讨论赵露思生病事件",
+      "onboard_time": 1738395437,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 215117,
@@ -625,6 +673,14 @@
       "onboard_time": 1738380857,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209874,
+      "num": 133068,
+      "word": "哪吒大热离不开电影人的死磕到底",
+      "onboard_time": 1738396158,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 209564,
@@ -651,12 +707,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 203525,
-      "num": 154643,
-      "word": "王耀庆被世界冠军公主抱了",
-      "onboard_time": 1738394416,
-      "rank": 46,
-      "category": "综艺,体育"
+      "raw_hot": 204993,
+      "num": 132850,
+      "word": "刘耀文弟弟对宋亚轩说新年快乐",
+      "onboard_time": 1738397056,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 203361,
@@ -675,14 +731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199491,
-      "num": 132061,
-      "word": "有这样的卧室我能一个月不出门",
-      "onboard_time": 1738394837,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 195537,
       "num": 179955,
       "word": "父亲离世儿子过年回家独坐门口落泪",
@@ -697,6 +745,14 @@
       "onboard_time": 1738365553,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195116,
+      "num": 132772,
+      "word": "你好星期六全员为了修图权豁出去了",
+      "onboard_time": 1738396757,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 193693,
@@ -715,6 +771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192714,
+      "num": 132635,
+      "word": "云起时",
+      "onboard_time": 1738397956,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191704,
       "num": 137269,
       "word": "只要没结婚就能一直收红包",
@@ -728,6 +792,14 @@
       "word": "谁懂暗恋成真的含金量",
       "onboard_time": 1738382897,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 189487,
+      "num": 132398,
+      "word": "云秀行",
+      "onboard_time": 1738397297,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -763,6 +835,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 186858,
+      "num": 132232,
+      "word": "李昀锐哭的让人心痛",
+      "onboard_time": 1738396516,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185679,
       "num": 225108,
       "word": "封神第二部已成功打入小孩圈",
@@ -785,6 +865,14 @@
       "onboard_time": 1738371557,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 182895,
+      "num": 133273,
+      "word": "结婚以后过年成了一件孤独的事",
+      "onboard_time": 1738397417,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 182665,
@@ -819,6 +907,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 177857,
+      "num": 110268,
+      "word": "唐探安娜从油画里走出来的公主",
+      "onboard_time": 1738397417,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 175207,
       "num": 113685,
       "word": "哪吒五年里一直打工",
@@ -833,6 +929,14 @@
       "onboard_time": 1738326919,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 172821,
+      "num": 110226,
+      "word": "赵一博直播",
+      "onboard_time": 1738397956,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 172775,
@@ -921,6 +1025,14 @@
       "onboard_time": 1738377856,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 161819,
+      "num": 110159,
+      "word": "全网都知道苏醒在迪拜买贵了",
+      "onboard_time": 1738398076,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 160444,
@@ -1035,6 +1147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142027,
+      "num": 117563,
+      "word": "苏醒不怕花钱怕被老婆骂",
+      "onboard_time": 1738395198,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141837,
       "num": 141837,
       "word": "给妹妹1000元帮我扛下所有战火",
@@ -1107,6 +1227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134031,
+      "num": 134031,
+      "word": "摆烂减肥法",
+      "onboard_time": 1738394656,
+      "rank": 47,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 133216,
       "num": 133216,
       "word": "乙巳蛇年为啥会出现两头春",
@@ -1155,12 +1283,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127194,
-      "num": 117563,
-      "word": "苏醒不怕花钱怕被老婆骂",
-      "onboard_time": 1738395198,
-      "rank": 41,
-      "category": "综艺"
+      "raw_hot": 127333,
+      "num": 127333,
+      "word": "瓜子",
+      "onboard_time": 1738392676,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 126773,
@@ -1177,6 +1305,14 @@
       "onboard_time": 1738375217,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126215,
+      "num": 90851,
+      "word": "春节档票房预测",
+      "onboard_time": 1738396277,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 125653,
@@ -1217,14 +1353,6 @@
       "onboard_time": 1738392077,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 121291,
-      "num": 121291,
-      "word": "瓜子",
-      "onboard_time": 1738392676,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 120284,
@@ -1315,6 +1443,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 112200,
+      "num": 232447,
+      "word": "美国4天内4机坠毁",
+      "onboard_time": 1738397178,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 111684,
       "num": 111684,
       "word": "迎灶神接好运",
@@ -1345,6 +1481,14 @@
       "onboard_time": 1738389796,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 109592,
+      "num": 109592,
+      "word": "记者实探金饰价格飙升",
+      "onboard_time": 1738396037,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 109043,
@@ -1419,14 +1563,6 @@
       "category": "国内时政,互联网"
     },
     {
-      "raw_hot": 102282,
-      "num": 102282,
-      "word": "摆烂减肥法",
-      "onboard_time": 1738394656,
-      "rank": 47,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 100542,
       "num": 100542,
       "word": "GOT7演唱会",
@@ -1441,14 +1577,6 @@
       "onboard_time": 1738394176,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 98811,
-      "num": 233212,
-      "word": "县城的物价为什么这么谜",
-      "onboard_time": 1738394777,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98780,
@@ -1929,6 +2057,14 @@
       "onboard_time": 1738382837,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20181,
+      "num": 87941,
+      "word": "假期后程新一股冷空气来袭",
+      "onboard_time": 1738396938,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18153,

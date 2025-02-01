@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738395390392,
+  "endTime": 1738398337520,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -1115,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1047525,
+      "num": 264817,
+      "word": "虞书欣张凌赫聚餐合照",
+      "onboard_time": 1738394656,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1037137,
       "num": 1037137,
       "word": "张大大被指暴力殴打工作人员",
@@ -1521,6 +1529,14 @@
       "onboard_time": 1737846433,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 909264,
+      "num": 1145482,
+      "word": "县城的物价为什么这么谜",
+      "onboard_time": 1738394777,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 906987,
@@ -2739,6 +2755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 579106,
+      "num": 231750,
+      "word": "有这样的卧室我能一个月不出门",
+      "onboard_time": 1738394837,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 578992,
       "num": 578992,
       "word": "鞠婧祎 神女",
@@ -3475,14 +3499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 492976,
-      "num": 263549,
-      "word": "虞书欣张凌赫聚餐合照",
-      "onboard_time": 1738394656,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 492116,
       "num": 492116,
       "word": "美股",
@@ -4169,6 +4185,14 @@
       "onboard_time": 1738372516,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 421311,
+      "num": 234258,
+      "word": "虞书欣又给Jennie打歌了",
+      "onboard_time": 1738395796,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 420398,
@@ -5025,6 +5049,14 @@
       "onboard_time": 1738208177,
       "rank": 25,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 346054,
+      "num": 178445,
+      "word": "夏雨透露申公豹在第三部魔心高涨",
+      "onboard_time": 1738392556,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 346039,
@@ -5995,14 +6027,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 284629,
-      "num": 178445,
-      "word": "夏雨透露申公豹在第三部魔心高涨",
-      "onboard_time": 1738392556,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 284619,
       "num": 284619,
       "word": "吴磊在春晚后台炫饺子",
@@ -6185,6 +6209,14 @@
       "onboard_time": 1737895158,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 272551,
+      "num": 154643,
+      "word": "王耀庆被世界冠军公主抱了",
+      "onboard_time": 1738394416,
+      "rank": 46,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 271196,
@@ -6731,6 +6763,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 244966,
+      "num": 244966,
+      "word": "徐福记成时代眼泪了吗",
+      "onboard_time": 1738396218,
+      "rank": 4,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 244485,
       "num": 244485,
       "word": "王楚钦祝大家日进斗金",
@@ -7275,6 +7315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224415,
+      "num": 254306,
+      "word": "费城飞机坠毁许多车辆房屋被毁",
+      "onboard_time": 1738392316,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 224257,
       "num": 224257,
       "word": "美坠河客机上有64人",
@@ -7435,6 +7483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 218554,
+      "num": 133402,
+      "word": "台媒讨论赵露思生病事件",
+      "onboard_time": 1738395437,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218477,
       "num": 218477,
       "word": "光遇",
@@ -7457,14 +7513,6 @@
       "onboard_time": 1738074999,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 218280,
-      "num": 254306,
-      "word": "费城飞机坠毁许多车辆房屋被毁",
-      "onboard_time": 1738392316,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 218269,
@@ -7755,6 +7803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209874,
+      "num": 133068,
+      "word": "哪吒大热离不开电影人的死磕到底",
+      "onboard_time": 1738396158,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 209717,
       "num": 205008,
       "word": "刘涛就是最美小姨",
@@ -8003,6 +8059,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 204993,
+      "num": 132850,
+      "word": "刘耀文弟弟对宋亚轩说新年快乐",
+      "onboard_time": 1738397056,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204911,
       "num": 204911,
       "word": "佳偶天成杀青",
@@ -8105,14 +8169,6 @@
       "onboard_time": 1738060945,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 203525,
-      "num": 154643,
-      "word": "王耀庆被世界冠军公主抱了",
-      "onboard_time": 1738394416,
-      "rank": 46,
-      "category": "综艺,体育"
     },
     {
       "raw_hot": 203507,
@@ -8315,14 +8371,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 199491,
-      "num": 132061,
-      "word": "有这样的卧室我能一个月不出门",
-      "onboard_time": 1738394837,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 199382,
       "num": 199382,
       "word": "丁禹兮谈第一次上春晚",
@@ -8521,6 +8569,14 @@
       "onboard_time": 1738118541,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 195116,
+      "num": 132772,
+      "word": "你好星期六全员为了修图权豁出去了",
+      "onboard_time": 1738396757,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 195001,
@@ -8723,6 +8779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192714,
+      "num": 132635,
+      "word": "云起时",
+      "onboard_time": 1738397956,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192578,
       "num": 192578,
       "word": "肖战春天花会开幸福向未来",
@@ -8904,6 +8968,14 @@
       "word": "第一次见国产剧婆媳处成母女",
       "onboard_time": 1737880698,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 189487,
+      "num": 132398,
+      "word": "云秀行",
+      "onboard_time": 1738397297,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -9147,6 +9219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186858,
+      "num": 132232,
+      "word": "李昀锐哭的让人心痛",
+      "onboard_time": 1738396516,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186788,
       "num": 186788,
       "word": "DeepSeek预测周鸿祎可能会送SU7",
@@ -9297,6 +9377,14 @@
       "onboard_time": 1737875656,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182895,
+      "num": 133273,
+      "word": "结婚以后过年成了一件孤独的事",
+      "onboard_time": 1738397417,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 182822,
@@ -9473,6 +9561,14 @@
       "onboard_time": 1738131078,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 177857,
+      "num": 110268,
+      "word": "唐探安娜从油画里走出来的公主",
+      "onboard_time": 1738397417,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 177782,
@@ -9737,6 +9833,14 @@
       "onboard_time": 1738124240,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 172821,
+      "num": 110226,
+      "word": "赵一博直播",
+      "onboard_time": 1738397956,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 172775,
@@ -10409,6 +10513,14 @@
       "onboard_time": 1738303697,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161819,
+      "num": 110159,
+      "word": "全网都知道苏醒在迪拜买贵了",
+      "onboard_time": 1738398076,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 161371,
@@ -11763,6 +11875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142027,
+      "num": 117563,
+      "word": "苏醒不怕花钱怕被老婆骂",
+      "onboard_time": 1738395198,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142021,
       "num": 302927,
       "word": "蛇年专属福卡",
@@ -12411,6 +12531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134031,
+      "num": 134031,
+      "word": "摆烂减肥法",
+      "onboard_time": 1738394656,
+      "rank": 47,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 133953,
       "num": 163015,
       "word": "中方回应日本拟对华半导体等出口管制",
@@ -12875,6 +13003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127333,
+      "num": 127333,
+      "word": "瓜子",
+      "onboard_time": 1738392676,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127248,
       "num": 1122250,
       "word": "中国人的春节传统走向世界了",
@@ -12889,14 +13025,6 @@
       "onboard_time": 1737956897,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127194,
-      "num": 117563,
-      "word": "苏醒不怕花钱怕被老婆骂",
-      "onboard_time": 1738395198,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 127193,
@@ -13009,6 +13137,14 @@
       "onboard_time": 1738165039,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126215,
+      "num": 90851,
+      "word": "春节档票房预测",
+      "onboard_time": 1738396277,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 126141,
@@ -13425,14 +13561,6 @@
       "onboard_time": 1737813382,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 121291,
-      "num": 121291,
-      "word": "瓜子",
-      "onboard_time": 1738392676,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 121251,
@@ -14067,6 +14195,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 112200,
+      "num": 232447,
+      "word": "美国4天内4机坠毁",
+      "onboard_time": 1738397178,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 112182,
       "num": 112182,
       "word": "特朗普给马斯克下了个命令",
@@ -14353,6 +14489,14 @@
       "onboard_time": 1738224796,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109592,
+      "num": 109592,
+      "word": "记者实探金饰价格飙升",
+      "onboard_time": 1738396037,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 109289,
@@ -14947,14 +15091,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 102282,
-      "num": 102282,
-      "word": "摆烂减肥法",
-      "onboard_time": 1738394656,
-      "rank": 47,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 102263,
       "num": 102263,
       "word": "我的嘴要是能这么有种就好了",
@@ -15225,14 +15361,6 @@
       "onboard_time": 1738227918,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 98811,
-      "num": 233212,
-      "word": "县城的物价为什么这么谜",
-      "onboard_time": 1738394777,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98800,
@@ -19689,6 +19817,14 @@
       "onboard_time": 1737896660,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 20181,
+      "num": 87941,
+      "word": "假期后程新一股冷空气来袭",
+      "onboard_time": 1738396938,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19772,
