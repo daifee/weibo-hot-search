@@ -1,0 +1,410 @@
+{
+  "runTime": 1738375255300,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 793139,
+        "num": 1126902,
+        "word": "哪吒导演回应啃老三年",
+        "onboard_time": 1738369276,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 499165,
+        "num": 499165,
+        "word": "小女孩被海浪卷走小哥不顾危险救人",
+        "onboard_time": 1738367654,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 72177,
+        "num": 391403,
+        "word": "中国人的春节传统走向世界了",
+        "onboard_time": 1738324099,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1493250,
+        "num": 386520,
+        "word": "李小冉回应退繁花群",
+        "onboard_time": 1738370415,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380441,
+        "num": 380441,
+        "word": "一架小型飞机在美国费城坠毁",
+        "onboard_time": 1738369935,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 344468,
+        "num": 344468,
+        "word": "DeepSeek成精",
+        "onboard_time": 1738371496,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 991425,
+        "num": 338038,
+        "word": "马丽方律师声明",
+        "onboard_time": 1738372997,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388379,
+        "num": 335796,
+        "word": "哪吒2预测总票房超67.4亿",
+        "onboard_time": 1738368434,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 279868,
+        "num": 279868,
+        "word": "警方通报电瓶车高速逆行致汽车撞护栏",
+        "onboard_time": 1738368916,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 237726,
+        "num": 237726,
+        "word": "春节平均每家产生近2kg剩菜剩饭",
+        "onboard_time": 1738365613,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 637759,
+        "num": 232891,
+        "word": "哪吒2票房逆跌",
+        "onboard_time": 1738334779,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 413400,
+        "num": 227107,
+        "word": "春晚带火了四大城市",
+        "onboard_time": 1738344614,
+        "rank": 11,
+        "category": "综艺,旅游"
+      },
+      {
+        "raw_hot": 348554,
+        "num": 218383,
+        "word": "特朗普将会见黄仁勋",
+        "onboard_time": 1738368495,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 302360,
+        "num": 211045,
+        "word": "黑妮曝王菲父母哥哥均已离世",
+        "onboard_time": 1738332320,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292783,
+        "num": 200406,
+        "word": "于适 我们只想要公平",
+        "onboard_time": 1738337421,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195458,
+        "num": 195458,
+        "word": "大年初四接灶王",
+        "onboard_time": 1738345094,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165074,
+        "num": 165074,
+        "word": "美国打压DeepSeek的后果",
+        "onboard_time": 1738326858,
+        "rank": 16,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 161358,
+        "num": 161358,
+        "word": "韦德因癌症切除部分肾脏",
+        "onboard_time": 1738367054,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153174,
+        "num": 153174,
+        "word": "美官方称有能力恢复失事飞机黑匣子数据",
+        "onboard_time": 1738373236,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 123928,
+        "num": 123928,
+        "word": "救人小哥说这是退伍军人的本能",
+        "onboard_time": 1738374496,
+        "rank": 19,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 460311,
+        "num": 123818,
+        "word": "正月初一男子在女友家饭桌上被带走",
+        "onboard_time": 1738366272,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335785,
+        "num": 123593,
+        "word": "女子除夕错转1万元红包给陌生人",
+        "onboard_time": 1738365553,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209564,
+        "num": 123400,
+        "word": "2025春节档总票房超50亿",
+        "onboard_time": 1738370055,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199004,
+        "num": 123139,
+        "word": "哪吒2或成影史新票房冠军",
+        "onboard_time": 1738372516,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195260,
+        "num": 122885,
+        "word": "白色橄榄树",
+        "onboard_time": 1738365553,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140102,
+        "num": 122643,
+        "word": "特朗普称撞机事故都怪奥巴马和拜登",
+        "onboard_time": 1738336278,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 185562,
+        "num": 122409,
+        "word": "徐克好奇金庸看侠之大者反应",
+        "onboard_time": 1738371375,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182929,
+        "num": 122255,
+        "word": "乌尔善",
+        "onboard_time": 1738371557,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148147,
+        "num": 122062,
+        "word": "李昀锐挑染",
+        "onboard_time": 1738336339,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135993,
+        "num": 121831,
+        "word": "唐探获中国影史系列电影票房冠军",
+        "onboard_time": 1738343175,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 252805,
+        "num": 121389,
+        "word": "三亚一游客拿走祈福钱放自己包中",
+        "onboard_time": 1738364771,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121368,
+        "num": 121368,
+        "word": "只要没结婚就能一直收红包",
+        "onboard_time": 1738334719,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92938,
+        "num": 120361,
+        "word": "DeepSeek冲击华尔街",
+        "onboard_time": 1738373837,
+        "rank": 32,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 120069,
+        "num": 120069,
+        "word": "哪吒2上座率",
+        "onboard_time": 1738372336,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118342,
+        "num": 118342,
+        "word": "石破茂呼吁审视日本为何发动战争",
+        "onboard_time": 1738370895,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107683,
+        "num": 107683,
+        "word": "迎灶神接好运",
+        "onboard_time": 1738366754,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105291,
+        "num": 105291,
+        "word": "大年初四迎灶神啦",
+        "onboard_time": 1738371917,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103763,
+        "num": 103763,
+        "word": "哪吒2",
+        "onboard_time": 1738328359,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103411,
+        "num": 103411,
+        "word": "春节假期还有4天",
+        "onboard_time": 1738366754,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102150,
+        "num": 102150,
+        "word": "美国对墨西哥和加拿大商品征收25%关税",
+        "onboard_time": 1738367234,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99896,
+        "num": 99896,
+        "word": "美坠机事故28名遇难者遗体身份已确认",
+        "onboard_time": 1738371977,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 99796,
+        "num": 99796,
+        "word": "大年初四全国人民都挺忙",
+        "onboard_time": 1738373236,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98608,
+        "num": 98608,
+        "word": "蛇是很多医学院校徽的主角",
+        "onboard_time": 1738327158,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 95742,
+        "num": 95742,
+        "word": "退伍军人顶着海浪连救2人",
+        "onboard_time": 1738369335,
+        "rank": 43,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 95480,
+        "num": 95480,
+        "word": "内马尔回归母队掩面而泣",
+        "onboard_time": 1738375096,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94325,
+        "num": 94325,
+        "word": "蛇是怎么混进十二生肖的",
+        "onboard_time": 1738335260,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88785,
+        "num": 88785,
+        "word": "我是老君山肚子里的洞",
+        "onboard_time": 1738373477,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88537,
+        "num": 88537,
+        "word": "一片洗碗的丝瓜络海外能售五刀乐",
+        "onboard_time": 1738368254,
+        "rank": 47,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 85160,
+        "num": 85160,
+        "word": "县城正在消失的老头乐",
+        "onboard_time": 1738375217,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80761,
+        "num": 80761,
+        "word": "女婿回老丈人家的统一行为",
+        "onboard_time": 1738367174,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#注重家庭注重家教注重家风#"
+    }
+  }
+}

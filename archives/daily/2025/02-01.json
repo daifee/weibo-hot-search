@@ -1,10 +1,10 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738374292408,
+  "endTime": 1738375255300,
   "band_list": [
     {
-      "raw_hot": 1461513,
-      "num": 382165,
+      "raw_hot": 1493250,
+      "num": 386520,
       "word": "李小冉回应退繁花群",
       "onboard_time": 1738370415,
       "rank": 3,
@@ -17,6 +17,14 @@
       "onboard_time": 1738334779,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 991425,
+      "num": 350131,
+      "word": "马丽方律师声明",
+      "onboard_time": 1738372997,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 968225,
@@ -59,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 499165,
+      "num": 499165,
+      "word": "小女孩被海浪卷走小哥不顾危险救人",
+      "onboard_time": 1738367654,
+      "rank": 1,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 492024,
       "num": 182346,
       "word": "正月初一男子在女友家饭桌上被带走",
@@ -83,28 +99,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 425682,
-      "num": 425682,
-      "word": "小女孩被海浪卷走小哥不顾危险救人",
-      "onboard_time": 1738367654,
-      "rank": 1,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 421979,
       "num": 351095,
       "word": "特朗普将会见黄仁勋",
       "onboard_time": 1738368495,
       "rank": 10,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 407171,
-      "num": 350131,
-      "word": "马丽方律师声明",
-      "onboard_time": 1738372997,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 399068,
@@ -123,6 +123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 380441,
+      "num": 380441,
+      "word": "一架小型飞机在美国费城坠毁",
+      "onboard_time": 1738369935,
+      "rank": 5,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 372551,
       "num": 372551,
       "word": "警方通报电瓶车高速逆行致汽车撞护栏",
@@ -131,12 +139,20 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 357494,
-      "num": 357494,
-      "word": "一架小型飞机在美国费城坠毁",
-      "onboard_time": 1738369935,
-      "rank": 5,
-      "category": "海外新闻"
+      "raw_hot": 344468,
+      "num": 344468,
+      "word": "DeepSeek成精",
+      "onboard_time": 1738371496,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 335785,
+      "num": 182341,
+      "word": "女子除夕错转1万元红包给陌生人",
+      "onboard_time": 1738365553,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 332405,
@@ -161,14 +177,6 @@
       "onboard_time": 1738334961,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 314560,
-      "num": 182341,
-      "word": "女子除夕错转1万元红包给陌生人",
-      "onboard_time": 1738365553,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 280742,
@@ -267,12 +275,36 @@
       "category": "健康医疗,运动健身"
     },
     {
+      "raw_hot": 209564,
+      "num": 182331,
+      "word": "2025春节档总票房超50亿",
+      "onboard_time": 1738370055,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 207365,
       "num": 146008,
       "word": "黄晓明晒妈妈炸的鱼",
       "onboard_time": 1738334241,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199004,
+      "num": 158336,
+      "word": "哪吒2或成影史新票房冠军",
+      "onboard_time": 1738372516,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 195260,
+      "num": 179546,
+      "word": "白色橄榄树",
+      "onboard_time": 1738365553,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 192846,
@@ -299,12 +331,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 185860,
-      "num": 185860,
-      "word": "DeepSeek成精",
-      "onboard_time": 1738371496,
-      "rank": 18,
-      "category": "互联网"
+      "raw_hot": 185562,
+      "num": 159613,
+      "word": "徐克好奇金庸看侠之大者反应",
+      "onboard_time": 1738371375,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 182929,
+      "num": 165719,
+      "word": "乌尔善",
+      "onboard_time": 1738371557,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 182350,
@@ -313,22 +353,6 @@
       "onboard_time": 1738367054,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 182331,
-      "num": 182331,
-      "word": "2025春节档总票房超50亿",
-      "onboard_time": 1738370055,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 179546,
-      "num": 179546,
-      "word": "白色橄榄树",
-      "onboard_time": 1738365553,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 178175,
@@ -363,36 +387,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 165719,
-      "num": 165719,
-      "word": "乌尔善",
-      "onboard_time": 1738371557,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 163937,
       "num": 134369,
       "word": "蛇年春晚你还在循环播放哪首歌",
       "onboard_time": 1738335801,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 159613,
-      "num": 159613,
-      "word": "徐克好奇金庸看侠之大者反应",
-      "onboard_time": 1738371375,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 158336,
-      "num": 158336,
-      "word": "哪吒2或成影史新票房冠军",
-      "onboard_time": 1738372516,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 156044,
@@ -443,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135993,
+      "num": 130743,
+      "word": "唐探获中国影史系列电影票房冠军",
+      "onboard_time": 1738343175,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 134979,
       "num": 134979,
       "word": "大年初四迎灶神啦",
@@ -459,12 +467,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130743,
-      "num": 130743,
-      "word": "唐探获中国影史系列电影票房冠军",
-      "onboard_time": 1738343175,
-      "rank": 35,
-      "category": "电影"
+      "raw_hot": 123928,
+      "num": 123928,
+      "word": "救人小哥说这是退伍军人的本能",
+      "onboard_time": 1738374496,
+      "rank": 19,
+      "category": "正能量"
     },
     {
       "raw_hot": 120284,
@@ -473,6 +481,22 @@
       "onboard_time": 1738332740,
       "rank": 31,
       "category": "电竞,游戏"
+    },
+    {
+      "raw_hot": 120069,
+      "num": 120069,
+      "word": "哪吒2上座率",
+      "onboard_time": 1738372336,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 118342,
+      "num": 118342,
+      "word": "石破茂呼吁审视日本为何发动战争",
+      "onboard_time": 1738370895,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 116365,
@@ -513,14 +537,6 @@
       "onboard_time": 1738368254,
       "rank": 33,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 113252,
-      "num": 113252,
-      "word": "石破茂呼吁审视日本为何发动战争",
-      "onboard_time": 1738370895,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 112984,
@@ -571,6 +587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 102150,
+      "num": 102150,
+      "word": "美国对墨西哥和加拿大商品征收25%关税",
+      "onboard_time": 1738367234,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 100542,
       "num": 100542,
       "word": "GOT7演唱会",
@@ -579,28 +603,36 @@
       "category": "演出"
     },
     {
-      "raw_hot": 96404,
-      "num": 96404,
-      "word": "美国对墨西哥和加拿大商品征收25%关税",
-      "onboard_time": 1738367234,
-      "rank": 45,
-      "category": "国际时政"
+      "raw_hot": 95742,
+      "num": 95742,
+      "word": "退伍军人顶着海浪连救2人",
+      "onboard_time": 1738369335,
+      "rank": 47,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 95480,
+      "num": 95480,
+      "word": "内马尔回归母队掩面而泣",
+      "onboard_time": 1738375096,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 93621,
-      "num": 383604,
+      "num": 391403,
       "word": "中国人的春节传统走向世界了",
       "onboard_time": 1738324099,
       "rank": 2,
       "category": "正能量"
     },
     {
-      "raw_hot": 91771,
-      "num": 91771,
-      "word": "退伍军人顶着海浪连救2人",
-      "onboard_time": 1738369335,
-      "rank": 47,
-      "category": "正能量"
+      "raw_hot": 92938,
+      "num": 354695,
+      "word": "DeepSeek冲击华尔街",
+      "onboard_time": 1738373837,
+      "rank": 8,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 91745,
@@ -635,12 +667,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88785,
+      "num": 88785,
+      "word": "我是老君山肚子里的洞",
+      "onboard_time": 1738373477,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85705,
       "num": 85705,
       "word": "刘耀文答上了宋亚轩的抽象题",
       "onboard_time": 1738336699,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85160,
+      "num": 85160,
+      "word": "县城正在消失的老头乐",
+      "onboard_time": 1738375217,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80010,
@@ -785,14 +833,6 @@
       "onboard_time": 1738353912,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 39202,
-      "num": 354695,
-      "word": "DeepSeek冲击华尔街",
-      "onboard_time": 1738373837,
-      "rank": 8,
-      "category": "互联网,财经"
     },
     {
       "raw_hot": 37688,

@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738374292408,
+  "endTime": 1738375255300,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -643,6 +643,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1493250,
+      "num": 386520,
+      "word": "李小冉回应退繁花群",
+      "onboard_time": 1738370415,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1478128,
       "num": 1478128,
       "word": "闫妮蒋欣宋佳殷桃 妈妈四次方",
@@ -657,14 +665,6 @@
       "onboard_time": 1738061426,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1461513,
-      "num": 382165,
-      "word": "李小冉回应退繁花群",
-      "onboard_time": 1738370415,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1458544,
@@ -1249,6 +1249,14 @@
       "onboard_time": 1738289956,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 991425,
+      "num": 350131,
+      "word": "马丽方律师声明",
+      "onboard_time": 1738372997,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 991095,
@@ -3299,6 +3307,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 499165,
+      "num": 499165,
+      "word": "小女孩被海浪卷走小哥不顾危险救人",
+      "onboard_time": 1738367654,
+      "rank": 1,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 496815,
       "num": 496815,
       "word": "单身的埃文凯尔羡慕中国女婿",
@@ -3939,14 +3955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 425682,
-      "num": 425682,
-      "word": "小女孩被海浪卷走小哥不顾危险救人",
-      "onboard_time": 1738367654,
-      "rank": 1,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 425600,
       "num": 425600,
       "word": "王一博祝大家自在且松弛",
@@ -4129,14 +4137,6 @@
       "onboard_time": 1738251257,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 407171,
-      "num": 350131,
-      "word": "马丽方律师声明",
-      "onboard_time": 1738372997,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 406521,
@@ -4475,6 +4475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 380441,
+      "num": 380441,
+      "word": "一架小型飞机在美国费城坠毁",
+      "onboard_time": 1738369935,
+      "rank": 5,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 378796,
       "num": 193212,
       "word": "蛇年春晚节目单公布",
@@ -4699,14 +4707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 357494,
-      "num": 357494,
-      "word": "一架小型飞机在美国费城坠毁",
-      "onboard_time": 1738369935,
-      "rank": 5,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 356002,
       "num": 356002,
       "word": "我们的爸爸阵容官宣",
@@ -4841,6 +4841,14 @@
       "onboard_time": 1738210696,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 344468,
+      "num": 344468,
+      "word": "DeepSeek成精",
+      "onboard_time": 1738371496,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 343975,
@@ -4993,6 +5001,14 @@
       "onboard_time": 1738058783,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 335785,
+      "num": 182341,
+      "word": "女子除夕错转1万元红包给陌生人",
+      "onboard_time": 1738365553,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 335396,
@@ -5297,14 +5313,6 @@
       "onboard_time": 1738115839,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 314560,
-      "num": 182341,
-      "word": "女子除夕错转1万元红包给陌生人",
-      "onboard_time": 1738365553,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 314299,
@@ -7435,6 +7443,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 209564,
+      "num": 182331,
+      "word": "2025春节档总票房超50亿",
+      "onboard_time": 1738370055,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 209519,
       "num": 209519,
       "word": "时代少年团初雪跳有你",
@@ -7945,6 +7961,14 @@
       "onboard_time": 1737979038,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199004,
+      "num": 158336,
+      "word": "哪吒2或成影史新票房冠军",
+      "onboard_time": 1738372516,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 199003,
@@ -8747,14 +8771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 185860,
-      "num": 185860,
-      "word": "DeepSeek成精",
-      "onboard_time": 1738371496,
-      "rank": 18,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 185720,
       "num": 221617,
       "word": "射雕专属红包封面",
@@ -8769,6 +8785,14 @@
       "onboard_time": 1737986057,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 185562,
+      "num": 159613,
+      "word": "徐克好奇金庸看侠之大者反应",
+      "onboard_time": 1738371375,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 185452,
@@ -8897,14 +8921,6 @@
       "onboard_time": 1738367054,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 182331,
-      "num": 182331,
-      "word": "2025春节档总票房超50亿",
-      "onboard_time": 1738370055,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 181323,
@@ -10019,14 +10035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159613,
-      "num": 159613,
-      "word": "徐克好奇金庸看侠之大者反应",
-      "onboard_time": 1738371375,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 159595,
       "num": 159595,
       "word": "赵本山乡爱20年青丝变白发",
@@ -10105,14 +10113,6 @@
       "onboard_time": 1738326798,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 158336,
-      "num": 158336,
-      "word": "哪吒2或成影史新票房冠军",
-      "onboard_time": 1738372516,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 158230,
@@ -11675,6 +11675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135993,
+      "num": 130743,
+      "word": "唐探获中国影史系列电影票房冠军",
+      "onboard_time": 1738343175,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 135914,
       "num": 135914,
       "word": "无忧传媒情况说明",
@@ -12025,14 +12033,6 @@
       "onboard_time": 1737943636,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 130743,
-      "num": 130743,
-      "word": "唐探获中国影史系列电影票房冠军",
-      "onboard_time": 1738343175,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 130720,
@@ -12555,6 +12555,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 123928,
+      "num": 123928,
+      "word": "救人小哥说这是退伍军人的本能",
+      "onboard_time": 1738374496,
+      "rank": 19,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 123868,
       "num": 123868,
       "word": "第一次见人仗狗势的",
@@ -12811,6 +12819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120069,
+      "num": 120069,
+      "word": "哪吒2上座率",
+      "onboard_time": 1738372336,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 120067,
       "num": 120067,
       "word": "男孩玩烟花引燃轿车家长赔15万",
@@ -12937,6 +12953,14 @@
       "onboard_time": 1737864738,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118342,
+      "num": 118342,
+      "word": "石破茂呼吁审视日本为何发动战争",
+      "onboard_time": 1738370895,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 118272,
@@ -13265,14 +13289,6 @@
       "onboard_time": 1738209017,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 113252,
-      "num": 113252,
-      "word": "石破茂呼吁审视日本为何发动战争",
-      "onboard_time": 1738370895,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 112995,
@@ -14171,6 +14187,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 102150,
+      "num": 102150,
+      "word": "美国对墨西哥和加拿大商品征收25%关税",
+      "onboard_time": 1738367234,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 101936,
       "num": 98695,
       "word": "黄轩女友夸蒋璐霞非常酷",
@@ -14643,14 +14667,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 96404,
-      "num": 96404,
-      "word": "美国对墨西哥和加拿大商品征收25%关税",
-      "onboard_time": 1738367234,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 96397,
       "num": 96397,
       "word": "印度大壶节踩踏已致30人死亡",
@@ -14723,12 +14739,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95742,
+      "num": 95742,
+      "word": "退伍军人顶着海浪连救2人",
+      "onboard_time": 1738369335,
+      "rank": 47,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 95723,
       "num": 95723,
       "word": "登陆少年组合加盟东方卫视春晚",
       "onboard_time": 1737983658,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95480,
+      "num": 95480,
+      "word": "内马尔回归母队掩面而泣",
+      "onboard_time": 1738375096,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 95392,
@@ -14963,6 +14995,14 @@
       "category": "民生新闻,幽默"
     },
     {
+      "raw_hot": 92938,
+      "num": 354695,
+      "word": "DeepSeek冲击华尔街",
+      "onboard_time": 1738373837,
+      "rank": 8,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 92897,
       "num": 92897,
       "word": "武汉影迷赶着看早场射雕",
@@ -15041,14 +15081,6 @@
       "onboard_time": 1738313778,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 91771,
-      "num": 91771,
-      "word": "退伍军人顶着海浪连救2人",
-      "onboard_time": 1738369335,
-      "rank": 47,
-      "category": "正能量"
     },
     {
       "raw_hot": 91745,
@@ -15241,6 +15273,14 @@
       "onboard_time": 1738017251,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 88785,
+      "num": 88785,
+      "word": "我是老君山肚子里的洞",
+      "onboard_time": 1738373477,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88628,
@@ -15545,6 +15585,14 @@
       "onboard_time": 1738262292,
       "rank": 48,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 85160,
+      "num": 85160,
+      "word": "县城正在消失的老头乐",
+      "onboard_time": 1738375217,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85151,
@@ -17601,14 +17649,6 @@
       "onboard_time": 1737827354,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 39202,
-      "num": 354695,
-      "word": "DeepSeek冲击华尔街",
-      "onboard_time": 1738373837,
-      "rank": 8,
-      "category": "互联网,财经"
     },
     {
       "raw_hot": 38941,
