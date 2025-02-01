@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738380393472,
+  "endTime": 1738381207379,
   "band_list": [
     {
       "raw_hot": 1493250,
@@ -99,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 514405,
+      "num": 514405,
+      "word": "九重紫番外昭世录",
+      "onboard_time": 1738379597,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 499165,
       "num": 499165,
       "word": "小女孩被海浪卷走小哥不顾危险救人",
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 492024,
-      "num": 182346,
+      "num": 187445,
       "word": "正月初一男子在女友家饭桌上被带走",
       "onboard_time": 1738366272,
       "rank": 31,
@@ -131,12 +139,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 427786,
-      "num": 427786,
+      "raw_hot": 440989,
+      "num": 440989,
       "word": "美国四天四架飞机失事",
       "onboard_time": 1738372276,
       "rank": 35,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 425460,
+      "num": 425460,
+      "word": "春运期间退票为啥这么贵",
+      "onboard_time": 1738378817,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 421979,
@@ -147,8 +163,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 402735,
-      "num": 272912,
+      "raw_hot": 421386,
+      "num": 421386,
       "word": "哪吒2或成影史新票房冠军",
       "onboard_time": 1738372516,
       "rank": 27,
@@ -188,7 +204,7 @@
     },
     {
       "raw_hot": 335785,
-      "num": 182341,
+      "num": 187243,
       "word": "女子除夕错转1万元红包给陌生人",
       "onboard_time": 1738365553,
       "rank": 30,
@@ -201,14 +217,6 @@
       "onboard_time": 1738364771,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 328866,
-      "num": 265297,
-      "word": "九重紫番外昭世录",
-      "onboard_time": 1738379597,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 327194,
@@ -235,12 +243,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 279713,
+      "num": 279713,
+      "word": "印度称DeepSeek很快部署在当地服务器",
+      "onboard_time": 1738377978,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 277893,
       "num": 277893,
       "word": "初三走亲戚为什么回家要早",
       "onboard_time": 1738318877,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 263213,
+      "num": 263213,
+      "word": "4D哪吒",
+      "onboard_time": 1738380557,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 258797,
@@ -281,14 +305,6 @@
       "onboard_time": 1738323319,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 243647,
-      "num": 243647,
-      "word": "春运期间退票为啥这么贵",
-      "onboard_time": 1738378817,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 242395,
@@ -363,12 +379,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 200365,
-      "num": 200365,
-      "word": "印度称DeepSeek很快部署在当地服务器",
-      "onboard_time": 1738377978,
-      "rank": 40,
-      "category": "互联网"
+      "raw_hot": 199886,
+      "num": 199886,
+      "word": "埃文凯尔原定来华30天待90天不愿走",
+      "onboard_time": 1738378576,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197611,
+      "num": 186275,
+      "word": "王一博再度跨界主持",
+      "onboard_time": 1738380857,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 195260,
@@ -379,12 +403,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193693,
+      "num": 186046,
+      "word": "白色橄榄树开播",
+      "onboard_time": 1738378636,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192846,
       "num": 192846,
       "word": "火锅店3天净赚53.2万全给员工",
       "onboard_time": 1738309697,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191917,
+      "num": 191917,
+      "word": "DeepSeek在美商标被梁文锋校友抢注",
+      "onboard_time": 1738376837,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 191704,
@@ -401,6 +441,14 @@
       "onboard_time": 1738373477,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187835,
+      "num": 187835,
+      "word": "封神的哈基米上新了",
+      "onboard_time": 1738380137,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 187704,
@@ -467,14 +515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 165777,
-      "num": 143030,
-      "word": "白色橄榄树开播",
-      "onboard_time": 1738378636,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 163937,
       "num": 134369,
       "word": "蛇年春晚你还在循环播放哪首歌",
@@ -491,11 +531,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 159915,
-      "num": 142514,
-      "word": "封神的哈基米上新了",
-      "onboard_time": 1738380137,
-      "rank": 28,
+      "raw_hot": 162045,
+      "num": 162045,
+      "word": "唐探拍摄地火得不像样",
+      "onboard_time": 1738377856,
+      "rank": 35,
       "category": "电影"
     },
     {
@@ -507,20 +547,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 152620,
-      "num": 152620,
-      "word": "埃文凯尔原定来华30天待90天不愿走",
-      "onboard_time": 1738378576,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 150394,
-      "num": 150394,
-      "word": "DeepSeek在美商标被梁文锋校友抢注",
-      "onboard_time": 1738376837,
-      "rank": 30,
-      "category": "互联网"
+      "raw_hot": 149965,
+      "num": 149965,
+      "word": "创造营亚洲",
+      "onboard_time": 1738380977,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 149301,
@@ -555,14 +587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141986,
-      "num": 141986,
-      "word": "唐探拍摄地火得不像样",
-      "onboard_time": 1738377856,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 141837,
       "num": 141837,
       "word": "给妹妹1000元帮我扛下所有战火",
@@ -595,12 +619,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139189,
+      "num": 139189,
+      "word": "FBI大裁员",
+      "onboard_time": 1738379898,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 138987,
       "num": 138987,
       "word": "火锅店4年春节发了150万给员工",
       "onboard_time": 1738336579,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137092,
+      "num": 137092,
+      "word": "何惟芳美貌大赏",
+      "onboard_time": 1738380437,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 135993,
@@ -643,20 +683,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130551,
+      "num": 130551,
+      "word": "刘昊然 振邦哥哥别笑了我害怕",
+      "onboard_time": 1738377497,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 126558,
       "num": 126558,
       "word": "县城正在消失的老头乐",
       "onboard_time": 1738375217,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 124377,
-      "num": 124377,
-      "word": "刘昊然 振邦哥哥别笑了我害怕",
-      "onboard_time": 1738377497,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 123928,
@@ -715,6 +755,14 @@
       "category": "演出,体育"
     },
     {
+      "raw_hot": 114275,
+      "num": 114275,
+      "word": "男子晒家里过年前后视频对比明显",
+      "onboard_time": 1738378817,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114156,
       "num": 114156,
       "word": "张新成 那么大张脸",
@@ -729,14 +777,6 @@
       "onboard_time": 1738368254,
       "rank": 33,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 112650,
-      "num": 112650,
-      "word": "FBI大裁员",
-      "onboard_time": 1738379898,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 112546,
@@ -760,14 +800,6 @@
       "word": "春节假期还有4天",
       "onboard_time": 1738366754,
       "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 108500,
-      "num": 108500,
-      "word": "男子晒家里过年前后视频对比明显",
-      "onboard_time": 1738378817,
-      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -809,6 +841,14 @@
       "onboard_time": 1738338259,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 98780,
+      "num": 98780,
+      "word": "熊出没",
+      "onboard_time": 1738381157,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 95742,
@@ -865,6 +905,14 @@
       "onboard_time": 1738340477,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87805,
+      "num": 111052,
+      "word": "四川警方除夕侦破特大贩毒案",
+      "onboard_time": 1738380497,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85705,
@@ -987,6 +1035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46785,
+      "num": 137111,
+      "word": "哈尔滨亚冬会观赛日历来啦",
+      "onboard_time": 1738381097,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45943,
       "num": 107715,
       "word": "黄晓明与陈凯歌一家聚餐",
@@ -1049,6 +1105,22 @@
       "onboard_time": 1738366272,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 36371,
+      "num": 187783,
+      "word": "从小逛到大的庙会",
+      "onboard_time": 1738380617,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 36288,
+      "num": 460571,
+      "word": "deepseek拿捏人情世故",
+      "onboard_time": 1738380557,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 33526,
