@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738408599912,
+  "endTime": 1738409742215,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -1443,6 +1443,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 2232738,
+      "num": 2232738,
+      "word": "敖丙",
+      "onboard_time": 1738402697,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 2227928,
       "num": 2227928,
       "word": "节目组 麦琳身世",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1738079795,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1760610,
-      "num": 1760610,
-      "word": "青海玛多县5.5级地震",
-      "onboard_time": 1736323583,
-      "rank": 1,
-      "category": "突发/灾害"
     }
   ],
   "hotgov_list": [

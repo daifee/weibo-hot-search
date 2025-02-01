@@ -1,7 +1,15 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738408599912,
+  "endTime": 1738409742215,
   "band_list": [
+    {
+      "raw_hot": 2232738,
+      "num": 2232738,
+      "word": "敖丙",
+      "onboard_time": 1738402697,
+      "rank": 6,
+      "category": "电影"
+    },
     {
       "raw_hot": 1597648,
       "num": 712601,
@@ -35,14 +43,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1297692,
-      "num": 1297692,
-      "word": "敖丙",
-      "onboard_time": 1738402697,
-      "rank": 6,
-      "category": "电影"
-    },
-    {
       "raw_hot": 1281311,
       "num": 1281311,
       "word": "哪吒2票房逆跌",
@@ -57,6 +57,14 @@
       "onboard_time": 1738402577,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1158844,
+      "num": 376129,
+      "word": "孟子义上节目穿几十块的衣服",
+      "onboard_time": 1738405697,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 1047525,
@@ -139,8 +147,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 817908,
-      "num": 817908,
+      "raw_hot": 842623,
+      "num": 842623,
       "word": "肖战回复蔡少芬",
       "onboard_time": 1738405097,
       "rank": 41,
@@ -169,14 +177,6 @@
       "onboard_time": 1738397178,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 796029,
-      "num": 376129,
-      "word": "孟子义上节目穿几十块的衣服",
-      "onboard_time": 1738405697,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 735941,
@@ -227,6 +227,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 584163,
+      "num": 303593,
+      "word": "哪吒",
+      "onboard_time": 1738409000,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 579106,
       "num": 299406,
       "word": "有这样的卧室我能一个月不出门",
@@ -257,6 +265,14 @@
       "onboard_time": 1738401737,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 572852,
+      "num": 274208,
+      "word": "于冬 蛟龙行动绝不撤档",
+      "onboard_time": 1738406539,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 568780,
@@ -337,6 +353,14 @@
       "onboard_time": 1738388656,
       "rank": 4,
       "category": "民生新闻,母婴育儿"
+    },
+    {
+      "raw_hot": 488153,
+      "num": 488153,
+      "word": "小伙去女友家过年撞脸丈母娘",
+      "onboard_time": 1738404618,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 460868,
@@ -435,14 +459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 399817,
-      "num": 399817,
-      "word": "小伙去女友家过年撞脸丈母娘",
-      "onboard_time": 1738404618,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 399068,
       "num": 357214,
       "word": "哪吒2预测总票房超67.4亿",
@@ -451,20 +467,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 393218,
+      "num": 258856,
+      "word": "梁洁的戏把陈哲远看哭了",
+      "onboard_time": 1738407557,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 388366,
       "num": 388366,
       "word": "埃文凯尔原定来华30天待90天不愿走",
       "onboard_time": 1738378576,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 387695,
-      "num": 249322,
-      "word": "于冬 蛟龙行动绝不撤档",
-      "onboard_time": 1738406539,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 381732,
@@ -539,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 337518,
+      "num": 142141,
+      "word": "没想过是梁洁但意外合适",
+      "onboard_time": 1738408637,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 335785,
       "num": 189045,
       "word": "女子除夕错转1万元红包给陌生人",
@@ -569,6 +593,14 @@
       "onboard_time": 1738364771,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 331555,
+      "num": 257304,
+      "word": "敖光",
+      "onboard_time": 1738326919,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 330551,
@@ -619,14 +651,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 306876,
-      "num": 133675,
-      "word": "敖光",
-      "onboard_time": 1738326919,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 304984,
       "num": 304984,
       "word": "哪吒2敖丙和他爸要帅到一个底子上",
@@ -649,6 +673,14 @@
       "onboard_time": 1738314798,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 280305,
+      "num": 140974,
+      "word": "吴磊骑车一直骑到涮肉变熟",
+      "onboard_time": 1738408699,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 279713,
@@ -715,20 +747,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 252915,
-      "num": 132692,
-      "word": "梁洁的戏把陈哲远看哭了",
-      "onboard_time": 1738407557,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 252881,
       "num": 252881,
       "word": "春节平均每家产生近2kg剩菜剩饭",
       "onboard_time": 1738365613,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 251519,
+      "num": 139392,
+      "word": "哪吒2女龙王一听钟情",
+      "onboard_time": 1738408458,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 250611,
@@ -769,6 +801,14 @@
       "onboard_time": 1738387637,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 236821,
+      "num": 139226,
+      "word": "顶尖舞者",
+      "onboard_time": 1738408878,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 235108,
@@ -995,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192636,
+      "num": 286752,
+      "word": "美国费城失事飞机以201公里时速坠地",
+      "onboard_time": 1738408517,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 192151,
       "num": 192151,
       "word": "王一珩直播",
@@ -1219,6 +1267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166429,
+      "num": 166429,
+      "word": "特朗普称涉事军机飞行高度远超限制",
+      "onboard_time": 1738406778,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 166336,
       "num": 130578,
       "word": "李宇春说想念邓超的热情",
@@ -1427,6 +1483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 143873,
+      "num": 143873,
+      "word": "男孩第一次见丈母娘秒变认亲现场",
+      "onboard_time": 1738407017,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142899,
       "num": 142899,
       "word": "孙颖莎备战边训练边做数学题",
@@ -1491,14 +1555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 138702,
-      "num": 127352,
-      "word": "哪吒2女龙王一听钟情",
-      "onboard_time": 1738408458,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 138269,
       "num": 138269,
       "word": "用研究生奖学金给妈妈准备新年惊喜",
@@ -1513,14 +1569,6 @@
       "onboard_time": 1738380437,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136363,
-      "num": 136363,
-      "word": "男孩第一次见丈母娘秒变认亲现场",
-      "onboard_time": 1738407017,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 135993,
@@ -1747,6 +1795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116045,
+      "num": 116045,
+      "word": "翔霖",
+      "onboard_time": 1738409660,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115785,
       "num": 115785,
       "word": "俄乌冲突让乌克兰倒退100年",
@@ -1809,14 +1865,6 @@
       "onboard_time": 1738394236,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 111185,
-      "num": 135989,
-      "word": "特朗普称涉事军机飞行高度远超限制",
-      "onboard_time": 1738406778,
-      "rank": 20,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 111054,
@@ -1889,6 +1937,14 @@
       "onboard_time": 1738392316,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106067,
+      "num": 106067,
+      "word": "谁家男女主初遇是踩地雷啊",
+      "onboard_time": 1738409718,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 105830,
@@ -1971,6 +2027,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 98514,
+      "num": 98514,
+      "word": "解放军位中国黄岩岛领海领空战备警巡",
+      "onboard_time": 1738406418,
+      "rank": 44,
+      "category": "军事"
+    },
+    {
       "raw_hot": 96868,
       "num": 339049,
       "word": "春节聚餐警惕吃出来的病",
@@ -2041,14 +2105,6 @@
       "onboard_time": 1738390577,
       "rank": 9,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 89721,
-      "num": 89721,
-      "word": "解放军位中国黄岩岛领海领空战备警巡",
-      "onboard_time": 1738406418,
-      "rank": 44,
-      "category": "军事"
     },
     {
       "raw_hot": 89119,
@@ -2123,16 +2179,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 81447,
-      "num": 129648,
-      "word": "美国费城失事飞机以201公里时速坠地",
-      "onboard_time": 1738408517,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 80630,
-      "num": 855484,
+      "num": 915533,
       "word": "大年初四去哪玩",
       "onboard_time": 1738402036,
       "rank": 2,
@@ -2145,6 +2193,14 @@
       "onboard_time": 1738399757,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80449,
+      "num": 89900,
+      "word": "美国FBI离职潮或涉政治报复",
+      "onboard_time": 1738409359,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 80010,
@@ -2233,6 +2289,14 @@
       "onboard_time": 1738316719,
       "rank": 48,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 68316,
+      "num": 194722,
+      "word": "蛟龙行动演员经历严酷水下训练",
+      "onboard_time": 1738407918,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 66756,
@@ -2551,14 +2615,6 @@
       "num": 256652,
       "word": "加州有的旧金山德州也有",
       "onboard_time": 1738398558,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 14697,
-      "num": 194722,
-      "word": "蛟龙行动演员经历严酷水下训练",
-      "onboard_time": 1738407918,
       "rank": 14,
       "category": "电影"
     },

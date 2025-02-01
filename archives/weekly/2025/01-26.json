@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738408599912,
+  "endTime": 1738409742215,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -385,6 +385,14 @@
       "onboard_time": 1738071644,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2232738,
+      "num": 2232738,
+      "word": "敖丙",
+      "onboard_time": 1738402697,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 2187832,
@@ -827,14 +835,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 1297692,
-      "num": 1297692,
-      "word": "敖丙",
-      "onboard_time": 1738402697,
-      "rank": 6,
-      "category": "电影"
-    },
-    {
       "raw_hot": 1295246,
       "num": 682063,
       "word": "Angelababy发和儿子合照",
@@ -985,6 +985,14 @@
       "onboard_time": 1738402577,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1158844,
+      "num": 376129,
+      "word": "孟子义上节目穿几十块的衣服",
+      "onboard_time": 1738405697,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 1145044,
@@ -1795,6 +1803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 842623,
+      "num": 842623,
+      "word": "肖战回复蔡少芬",
+      "onboard_time": 1738405097,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 835877,
       "num": 1358224,
       "word": "韩国棋院就LG杯事件发公告致歉",
@@ -1857,14 +1873,6 @@
       "onboard_time": 1737971477,
       "rank": 24,
       "category": "美食"
-    },
-    {
-      "raw_hot": 817908,
-      "num": 817908,
-      "word": "肖战回复蔡少芬",
-      "onboard_time": 1738405097,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 817391,
@@ -1945,14 +1953,6 @@
       "onboard_time": 1738217057,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 796029,
-      "num": 376129,
-      "word": "孟子义上节目穿几十块的衣服",
-      "onboard_time": 1738405697,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 792527,
@@ -2915,6 +2915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 572852,
+      "num": 274208,
+      "word": "于冬 蛟龙行动绝不撤档",
+      "onboard_time": 1738406539,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 569913,
       "num": 569913,
       "word": "朕与嬛嬛何时有过嫌隙",
@@ -3641,6 +3649,14 @@
       "onboard_time": 1738388656,
       "rank": 4,
       "category": "民生新闻,母婴育儿"
+    },
+    {
+      "raw_hot": 488153,
+      "num": 488153,
+      "word": "小伙去女友家过年撞脸丈母娘",
+      "onboard_time": 1738404618,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 486525,
@@ -4483,14 +4499,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 399817,
-      "num": 399817,
-      "word": "小伙去女友家过年撞脸丈母娘",
-      "onboard_time": 1738404618,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 399366,
       "num": 399366,
       "word": "李现晒国色芳华大婚胶片记忆",
@@ -4611,6 +4619,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 393218,
+      "num": 258856,
+      "word": "梁洁的戏把陈哲远看哭了",
+      "onboard_time": 1738407557,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 391797,
       "num": 391797,
       "word": "青簪行样片",
@@ -4697,14 +4713,6 @@
       "onboard_time": 1738282876,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 387695,
-      "num": 249322,
-      "word": "于冬 蛟龙行动绝不撤档",
-      "onboard_time": 1738406539,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 387416,
@@ -5337,6 +5345,14 @@
       "onboard_time": 1738204697,
       "rank": 15,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 337518,
+      "num": 142141,
+      "word": "没想过是梁洁但意外合适",
+      "onboard_time": 1738408637,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 337495,
@@ -6267,6 +6283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 280305,
+      "num": 140974,
+      "word": "吴磊骑车一直骑到涮肉变熟",
+      "onboard_time": 1738408699,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279713,
       "num": 279713,
       "word": "印度称DeepSeek很快部署在当地服务器",
@@ -6763,14 +6787,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 252915,
-      "num": 132692,
-      "word": "梁洁的戏把陈哲远看哭了",
-      "onboard_time": 1738407557,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 252889,
       "num": 252889,
       "word": "异人之下2豆瓣8.2",
@@ -6801,6 +6817,14 @@
       "onboard_time": 1738055480,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 251519,
+      "num": 139392,
+      "word": "哪吒2女龙王一听钟情",
+      "onboard_time": 1738408458,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 251239,
@@ -7153,6 +7177,14 @@
       "onboard_time": 1737996615,
       "rank": 9,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 236821,
+      "num": 139226,
+      "word": "顶尖舞者",
+      "onboard_time": 1738408878,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 236690,
@@ -8995,6 +9027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192636,
+      "num": 286752,
+      "word": "美国费城失事飞机以201公里时速坠地",
+      "onboard_time": 1738408517,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 192578,
       "num": 192578,
       "word": "肖战春天花会开幸福向未来",
@@ -10449,6 +10489,14 @@
       "onboard_time": 1737975137,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166429,
+      "num": 166429,
+      "word": "特朗普称涉事军机飞行高度远超限制",
+      "onboard_time": 1738406778,
+      "rank": 20,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 166380,
@@ -12059,6 +12107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143873,
+      "num": 143873,
+      "word": "男孩第一次见丈母娘秒变认亲现场",
+      "onboard_time": 1738407017,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143763,
       "num": 129874,
       "word": "陈小春要不直接报人名吧",
@@ -12427,14 +12483,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 138702,
-      "num": 127352,
-      "word": "哪吒2女龙王一听钟情",
-      "onboard_time": 1738408458,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 138615,
       "num": 138615,
       "word": "内娱异域美又有新面孔了",
@@ -12657,14 +12705,6 @@
       "onboard_time": 1738221436,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 136363,
-      "num": 136363,
-      "word": "男孩第一次见丈母娘秒变认亲现场",
-      "onboard_time": 1738407017,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 136285,
@@ -14283,6 +14323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116045,
+      "num": 116045,
+      "word": "翔霖",
+      "onboard_time": 1738409660,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115649,
       "num": 225174,
       "word": "女孩穿校服跳拉丁舞上央视",
@@ -14657,14 +14705,6 @@
       "onboard_time": 1738394236,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 111185,
-      "num": 135989,
-      "word": "特朗普称涉事军机飞行高度远超限制",
-      "onboard_time": 1738406778,
-      "rank": 20,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 111054,
@@ -15169,6 +15209,14 @@
       "onboard_time": 1738392316,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106067,
+      "num": 106067,
+      "word": "谁家男女主初遇是踩地雷啊",
+      "onboard_time": 1738409718,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 106046,
@@ -15777,6 +15825,14 @@
       "onboard_time": 1737936316,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98514,
+      "num": 98514,
+      "word": "解放军位中国黄岩岛领海领空战备警巡",
+      "onboard_time": 1738406418,
+      "rank": 44,
+      "category": "军事"
     },
     {
       "raw_hot": 98474,
@@ -16539,14 +16595,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 89721,
-      "num": 89721,
-      "word": "解放军位中国黄岩岛领海领空战备警巡",
-      "onboard_time": 1738406418,
-      "rank": 44,
-      "category": "军事"
-    },
-    {
       "raw_hot": 89144,
       "num": 89144,
       "word": "Jennie二单预告",
@@ -17211,14 +17259,6 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 81447,
-      "num": 129648,
-      "word": "美国费城失事飞机以201公里时速坠地",
-      "onboard_time": 1738408517,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 81196,
       "num": 81196,
       "word": "养大一只小羊到底有多难",
@@ -17284,7 +17324,7 @@
     },
     {
       "raw_hot": 80630,
-      "num": 855484,
+      "num": 915533,
       "word": "大年初四去哪玩",
       "onboard_time": 1738402036,
       "rank": 2,
@@ -17297,6 +17337,14 @@
       "onboard_time": 1738399757,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80449,
+      "num": 89900,
+      "word": "美国FBI离职潮或涉政治报复",
+      "onboard_time": 1738409359,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 80437,
@@ -17953,6 +18001,14 @@
       "onboard_time": 1737846374,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 68316,
+      "num": 194722,
+      "word": "蛟龙行动演员经历严酷水下训练",
+      "onboard_time": 1738407918,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 68016,
@@ -20503,14 +20559,6 @@
       "num": 256652,
       "word": "加州有的旧金山德州也有",
       "onboard_time": 1738398558,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 14697,
-      "num": 194722,
-      "word": "蛟龙行动演员经历严酷水下训练",
-      "onboard_time": 1738407918,
       "rank": 14,
       "category": "电影"
     },
