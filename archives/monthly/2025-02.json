@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738424207928,
+  "endTime": 1738427071997,
   "band_list": [
     {
       "raw_hot": 2254313,
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 733012,
-      "num": 338498,
+      "num": 561751,
       "word": "石矶娘娘整座山最美的女人",
       "onboard_time": 1738421719,
       "rank": 11,
@@ -281,6 +281,22 @@
       "onboard_time": 1738371496,
       "rank": 5,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 701613,
+      "num": 701613,
+      "word": "五路财神",
+      "onboard_time": 1738422739,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 676106,
+      "num": 676106,
+      "word": "梁洁居然还戴着白色橄榄树红绳",
+      "onboard_time": 1738423158,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 672745,
@@ -355,6 +371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 572368,
+      "num": 572368,
+      "word": "饺子又要隆重登场啦",
+      "onboard_time": 1738421900,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 568780,
       "num": 432769,
       "word": "唐探是真扛老啊",
@@ -369,6 +393,14 @@
       "onboard_time": 1738410798,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 543740,
+      "num": 543740,
+      "word": "石矶娘娘",
+      "onboard_time": 1738424178,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 541536,
@@ -787,12 +819,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 319412,
-      "num": 319412,
-      "word": "饺子又要隆重登场啦",
-      "onboard_time": 1738421900,
-      "rank": 15,
-      "category": "民生新闻"
+      "raw_hot": 322240,
+      "num": 149635,
+      "word": "敖丙传",
+      "onboard_time": 1738420759,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 318130,
@@ -833,14 +865,6 @@
       "onboard_time": 1738408458,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 305041,
-      "num": 119396,
-      "word": "梁洁居然还戴着白色橄榄树红绳",
-      "onboard_time": 1738423158,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 304984,
@@ -897,14 +921,6 @@
       "onboard_time": 1738414397,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 269557,
-      "num": 149635,
-      "word": "敖丙传",
-      "onboard_time": 1738420759,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 268978,
@@ -1027,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237897,
+      "num": 140200,
+      "word": "于冬反问无名只配6.6分吗",
+      "onboard_time": 1738426457,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 237621,
       "num": 237621,
       "word": "三专",
@@ -1048,6 +1072,14 @@
       "word": "蛇是怎么混进十二生肖的",
       "onboard_time": 1738335260,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 234723,
+      "num": 140315,
+      "word": "正月初五为啥又叫破五",
+      "onboard_time": 1738423639,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1171,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211766,
+      "num": 211766,
+      "word": "一个回头救了一个家庭",
+      "onboard_time": 1738420699,
+      "rank": 19,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 209874,
       "num": 133068,
       "word": "哪吒大热离不开电影人的死磕到底",
@@ -1233,14 +1273,6 @@
       "onboard_time": 1738376597,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 202577,
-      "num": 202577,
-      "word": "一个回头救了一个家庭",
-      "onboard_time": 1738420699,
-      "rank": 19,
-      "category": "正能量"
     },
     {
       "raw_hot": 201061,
@@ -1531,14 +1563,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 174432,
-      "num": 107751,
-      "word": "石矶娘娘",
-      "onboard_time": 1738424178,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 172775,
       "num": 172775,
       "word": "娜然说妲己是殷寿欲望的放大镜",
@@ -1548,7 +1572,7 @@
     },
     {
       "raw_hot": 172738,
-      "num": 129680,
+      "num": 138165,
       "word": "王一博一句话概括了所有选手年龄",
       "onboard_time": 1738421060,
       "rank": 35,
@@ -1689,14 +1713,6 @@
       "onboard_time": 1738419200,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161238,
-      "num": 161238,
-      "word": "五路财神",
-      "onboard_time": 1738422739,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 161070,
@@ -1905,6 +1921,14 @@
       "onboard_time": 1738374976,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142663,
+      "num": 142663,
+      "word": "初五过年习俗",
+      "onboard_time": 1738426938,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142027,
@@ -2171,6 +2195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 123439,
+      "num": 89224,
+      "word": "贺峻霖能不能开个情商班",
+      "onboard_time": 1738424838,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123373,
       "num": 280483,
       "word": "比伯海莉带儿子外出",
@@ -2403,6 +2435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107704,
+      "num": 139704,
+      "word": "DeepSeek创始人同乡回应游客打卡",
+      "onboard_time": 1738424418,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107240,
       "num": 274522,
       "word": "特朗普称黑鹰直升机飞得太高",
@@ -2467,6 +2507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103845,
+      "num": 86153,
+      "word": "哪吒2票房破25亿",
+      "onboard_time": 1738422559,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 103150,
       "num": 103150,
       "word": "再也不去理发店洗头了",
@@ -2491,14 +2539,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 102036,
-      "num": 102036,
-      "word": "正月初五为啥又叫破五",
-      "onboard_time": 1738423639,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 100542,
       "num": 100542,
       "word": "GOT7演唱会",
@@ -2521,6 +2561,14 @@
       "onboard_time": 1738381157,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 98721,
+      "num": 98721,
+      "word": "让你越来越有福气的4件事",
+      "onboard_time": 1738424958,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 98655,
