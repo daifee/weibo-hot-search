@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738442230098,
+  "endTime": 1738444791070,
   "band_list": [
     {
       "raw_hot": 1154235,
@@ -435,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67702,
+      "num": 67702,
+      "word": "夫妻狂追5分钟截停起火货车",
+      "onboard_time": 1738438871,
+      "rank": 17,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 64425,
       "num": 91057,
       "word": "高速上为救人女子喊到声音嘶哑",
@@ -491,20 +499,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 44348,
-      "num": 44348,
-      "word": "夫妻狂追5分钟截停起火货车",
-      "onboard_time": 1738438871,
-      "rank": 17,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 43348,
       "num": 89355,
       "word": "金价大涨点燃春节购金热",
       "onboard_time": 1738419140,
       "rank": 49,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 40017,
+      "num": 41143,
+      "word": "费城空难目前无法确认是否有幸存者",
+      "onboard_time": 1738441390,
+      "rank": 13,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 34822,
@@ -571,7 +579,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 12485,
+      "raw_hot": 16833,
+      "num": 16833,
+      "word": "闫妮至今不知道沙溢家在哪",
+      "onboard_time": 1738443320,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 14840,
       "num": 16360,
       "word": "6年前的这个场景真暖",
       "onboard_time": 1738442170,
@@ -579,12 +595,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12051,
-      "num": 41143,
-      "word": "费城空难目前无法确认是否有幸存者",
-      "onboard_time": 1738441390,
-      "rank": 13,
-      "category": "海外新闻"
+      "raw_hot": 14453,
+      "num": 46955,
+      "word": "春节摄影大赛",
+      "onboard_time": 1738443920,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13240,
+      "num": 15791,
+      "word": "封神",
+      "onboard_time": 1738436414,
+      "rank": 48,
+      "category": "电影"
     }
   ],
   "hotgov_list": [
