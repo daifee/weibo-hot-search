@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738420524310,
+  "endTime": 1738423403387,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -1131,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1086385,
+      "num": 1086385,
+      "word": "后排观众太吵男子忍到电影结束开麦了",
+      "onboard_time": 1738419200,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1082957,
       "num": 1082957,
       "word": "肖俊红包",
@@ -1161,14 +1169,6 @@
       "onboard_time": 1738055962,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1062991,
-      "num": 1062991,
-      "word": "后排观众太吵男子忍到电影结束开麦了",
-      "onboard_time": 1738419200,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1061381,
@@ -1553,6 +1553,14 @@
       "onboard_time": 1738151421,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 931807,
+      "num": 931807,
+      "word": "DeepSeek创始人老家村口拉起横幅",
+      "onboard_time": 1738419980,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 931444,
@@ -2168,6 +2176,14 @@
       "word": "春节档3部电影豆瓣开分",
       "onboard_time": 1738201217,
       "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 732733,
+      "num": 732733,
+      "word": "哪吒之魔童闹海票房破25亿",
+      "onboard_time": 1738418779,
+      "rank": 30,
       "category": "电影"
     },
     {
@@ -3291,6 +3307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 531637,
+      "num": 338498,
+      "word": "石矶娘娘整座山最美的女人",
+      "onboard_time": 1738421719,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 530939,
       "num": 1084950,
       "word": "菲律宾船从中国海警船前横穿",
@@ -3529,6 +3553,14 @@
       "onboard_time": 1738046958,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 503263,
+      "num": 331224,
+      "word": "徐明浩直播突现双重人格",
+      "onboard_time": 1738420341,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 503156,
@@ -5235,6 +5267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 351905,
+      "num": 351905,
+      "word": "儿媳过年在家爆改婆婆",
+      "onboard_time": 1738419140,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 351363,
       "num": 179709,
       "word": "时代少年团央视春晚有两个节目",
@@ -5747,14 +5787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 321456,
-      "num": 151332,
-      "word": "哪吒之魔童闹海票房破25亿",
-      "onboard_time": 1738418779,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 320881,
       "num": 320881,
       "word": "春节真正需要的高效休息",
@@ -5793,6 +5825,14 @@
       "onboard_time": 1738163000,
       "rank": 19,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 318130,
+      "num": 318130,
+      "word": "国乒欢迎晚宴",
+      "onboard_time": 1738420699,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 317696,
@@ -7739,14 +7779,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 222847,
-      "num": 222847,
-      "word": "儿媳过年在家爆改婆婆",
-      "onboard_time": 1738419140,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 222403,
       "num": 158125,
       "word": "今年春节含金量最高的小品",
@@ -9483,6 +9515,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 188982,
+      "num": 133285,
+      "word": "射雕英雄传为何今天仍能触动人心",
+      "onboard_time": 1738422739,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 188862,
       "num": 228243,
       "word": "一人一句迎接蛇年春节",
@@ -9777,6 +9817,14 @@
       "onboard_time": 1738154060,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 184365,
+      "num": 184365,
+      "word": "饺子又要隆重登场啦",
+      "onboard_time": 1738421900,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 184328,
@@ -10355,6 +10403,14 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 172738,
+      "num": 129680,
+      "word": "王一博一句话概括了所有选手年龄",
+      "onboard_time": 1738421060,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172315,
       "num": 172315,
       "word": "沈梦辰要给国色芳华导演寄膏药",
@@ -10417,6 +10473,14 @@
       "onboard_time": 1738084163,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171759,
+      "num": 119396,
+      "word": "梁洁居然还戴着白色橄榄树红绳",
+      "onboard_time": 1738423158,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 171458,
@@ -11083,6 +11147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161238,
+      "num": 161238,
+      "word": "五路财神",
+      "onboard_time": 1738422739,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161192,
       "num": 161192,
       "word": "黄毛毛",
@@ -11289,6 +11361,14 @@
       "onboard_time": 1738390637,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158396,
+      "num": 158396,
+      "word": "一个回头救了一个家庭",
+      "onboard_time": 1738420699,
+      "rank": 19,
+      "category": "正能量"
     },
     {
       "raw_hot": 158393,
@@ -11513,14 +11593,6 @@
       "onboard_time": 1738133299,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 155777,
-      "num": 136988,
-      "word": "徐明浩直播突现双重人格",
-      "onboard_time": 1738420341,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 155326,
@@ -12003,14 +12075,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148439,
-      "num": 148439,
-      "word": "DeepSeek创始人老家村口拉起横幅",
-      "onboard_time": 1738419980,
-      "rank": 19,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 148412,
       "num": 148412,
       "word": "theboyz",
@@ -12185,6 +12249,14 @@
       "onboard_time": 1738337058,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 146214,
+      "num": 119155,
+      "word": "孟子义这张嘴借我用用",
+      "onboard_time": 1738422799,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 146085,
@@ -13499,6 +13571,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 130172,
+      "num": 130172,
+      "word": "被猫妈强行抱在怀里的小狗",
+      "onboard_time": 1738419260,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129806,
       "num": 365884,
       "word": "体育团拜会",
@@ -13803,6 +13883,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 126337,
+      "num": 118869,
+      "word": "申公豹",
+      "onboard_time": 1738423277,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 126329,
       "num": 126329,
       "word": "多吃5种蔬菜能抗炎",
@@ -14025,14 +14113,6 @@
       "onboard_time": 1737846493,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 124450,
-      "num": 124450,
-      "word": "被猫妈强行抱在怀里的小狗",
-      "onboard_time": 1738419260,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 124282,
@@ -14417,6 +14497,14 @@
       "onboard_time": 1737957497,
       "rank": 33,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 119627,
+      "num": 119627,
+      "word": "吃胖的小肚子最怕这三个动作",
+      "onboard_time": 1738418419,
+      "rank": 37,
+      "category": "运动健身"
     },
     {
       "raw_hot": 119194,
@@ -16507,6 +16595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95558,
+      "num": 119605,
+      "word": "新能源车企1月成绩单出炉",
+      "onboard_time": 1738422200,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 95392,
       "num": 95392,
       "word": "英伟达一夜跌掉2个半茅台",
@@ -17419,6 +17515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84426,
+      "num": 119460,
+      "word": "首次进国补的洗碗机受欢迎",
+      "onboard_time": 1738421298,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84406,
       "num": 206822,
       "word": "致敬坚守岗位的每个你",
@@ -17891,6 +17995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 77400,
+      "num": 118696,
+      "word": "三巨头同日接入DeepSeek",
+      "onboard_time": 1738422860,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 77137,
       "num": 112275,
       "word": "网友科幻乐园偶遇张泽禹",
@@ -17921,6 +18033,14 @@
       "onboard_time": 1737966977,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 76836,
+      "num": 138603,
+      "word": "韩上万民众集会要求释放尹锡悦",
+      "onboard_time": 1738420219,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 76772,
@@ -18523,6 +18643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 66362,
+      "num": 118547,
+      "word": "国乒新加坡大满贯晚宴图集",
+      "onboard_time": 1738420939,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66275,
       "num": 100814,
       "word": "赵小童把相册照片抖一抖",
@@ -18537,6 +18665,14 @@
       "onboard_time": 1737823578,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65231,
+      "num": 118390,
+      "word": "耗时一年制作的慈禧同款大拉翅",
+      "onboard_time": 1738421839,
+      "rank": 49,
+      "category": "休闲"
     },
     {
       "raw_hot": 65174,
@@ -20291,6 +20427,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 26750,
+      "num": 1107083,
+      "word": "文化中国行非遗雅韵中国年",
+      "onboard_time": 1738420759,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 26594,
       "num": 154313,
       "word": "高校有自己的SSR",
@@ -20753,14 +20897,6 @@
       "onboard_time": 1737980358,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 20310,
-      "num": 138603,
-      "word": "韩上万民众集会要求释放尹锡悦",
-      "onboard_time": 1738420219,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 20264,

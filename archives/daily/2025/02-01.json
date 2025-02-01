@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738420524310,
+  "endTime": 1738423403387,
   "band_list": [
     {
       "raw_hot": 2254313,
@@ -99,8 +99,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1062991,
-      "num": 1062991,
+      "raw_hot": 1086385,
+      "num": 1086385,
       "word": "后排观众太吵男子忍到电影结束开麦了",
       "onboard_time": 1738419200,
       "rank": 14,
@@ -179,6 +179,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 931807,
+      "num": 931807,
+      "word": "DeepSeek创始人老家村口拉起横幅",
+      "onboard_time": 1738419980,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 876498,
       "num": 1140239,
       "word": "金价",
@@ -241,6 +249,14 @@
       "onboard_time": 1738401556,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 732733,
+      "num": 732733,
+      "word": "哪吒之魔童闹海票房破25亿",
+      "onboard_time": 1738418779,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 716626,
@@ -371,12 +387,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 531637,
+      "num": 338498,
+      "word": "石矶娘娘整座山最美的女人",
+      "onboard_time": 1738421719,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 514405,
       "num": 514405,
       "word": "九重紫番外昭世录",
       "onboard_time": 1738379597,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 503263,
+      "num": 331224,
+      "word": "徐明浩直播突现双重人格",
+      "onboard_time": 1738420341,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 499165,
@@ -659,6 +691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 351905,
+      "num": 351905,
+      "word": "儿媳过年在家爆改婆婆",
+      "onboard_time": 1738419140,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 346054,
       "num": 178445,
       "word": "夏雨透露申公豹在第三部魔心高涨",
@@ -747,12 +787,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 321456,
-      "num": 151332,
-      "word": "哪吒之魔童闹海票房破25亿",
-      "onboard_time": 1738418779,
-      "rank": 30,
-      "category": "电影"
+      "raw_hot": 318130,
+      "num": 318130,
+      "word": "国乒欢迎晚宴",
+      "onboard_time": 1738420699,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 316783,
@@ -987,6 +1027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 234800,
+      "num": 149635,
+      "word": "敖丙传",
+      "onboard_time": 1738420759,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 234236,
       "num": 283286,
       "word": "春节第一零食好像卖不动了",
@@ -1057,14 +1105,6 @@
       "onboard_time": 1738384398,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 222847,
-      "num": 222847,
-      "word": "儿媳过年在家爆改婆婆",
-      "onboard_time": 1738419140,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 221623,
@@ -1299,6 +1339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 188982,
+      "num": 133285,
+      "word": "射雕英雄传为何今天仍能触动人心",
+      "onboard_time": 1738422739,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 188146,
       "num": 172240,
       "word": "陈哲远面罩下的脸对得起眉眼",
@@ -1361,6 +1409,14 @@
       "onboard_time": 1738371375,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 184365,
+      "num": 184365,
+      "word": "饺子又要隆重登场啦",
+      "onboard_time": 1738421900,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 184265,
@@ -1467,6 +1523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 172738,
+      "num": 129680,
+      "word": "王一博一句话概括了所有选手年龄",
+      "onboard_time": 1738421060,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172246,
       "num": 135417,
       "word": "张康乐江浙沪潮男",
@@ -1481,6 +1545,14 @@
       "onboard_time": 1738405998,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171759,
+      "num": 119396,
+      "word": "梁洁居然还戴着白色橄榄树红绳",
+      "onboard_time": 1738423158,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 169665,
@@ -1595,6 +1667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161238,
+      "num": 161238,
+      "word": "五路财神",
+      "onboard_time": 1738422739,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161070,
       "num": 149348,
       "word": "一时分不清孟子义王鹤棣谁更难懂",
@@ -1635,6 +1715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158396,
+      "num": 158396,
+      "word": "一个回头救了一个家庭",
+      "onboard_time": 1738420699,
+      "rank": 19,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 157413,
       "num": 310776,
       "word": "男孩第一次见丈母娘秒变认亲现场",
@@ -1665,14 +1753,6 @@
       "onboard_time": 1738339518,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 155777,
-      "num": 136988,
-      "word": "徐明浩直播突现双重人格",
-      "onboard_time": 1738420341,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 154983,
@@ -1723,14 +1803,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 148439,
-      "num": 148439,
-      "word": "DeepSeek创始人老家村口拉起横幅",
-      "onboard_time": 1738419980,
-      "rank": 19,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 147625,
       "num": 132240,
       "word": "建议所有导演都向饺子学习",
@@ -1761,6 +1833,14 @@
       "onboard_time": 1738337058,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 146214,
+      "num": 119155,
+      "word": "孟子义这张嘴借我用用",
+      "onboard_time": 1738422799,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 146054,
@@ -1979,6 +2059,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 130172,
+      "num": 130172,
+      "word": "被猫妈强行抱在怀里的小狗",
+      "onboard_time": 1738419260,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 128776,
       "num": 97043,
       "word": "张婧仪的电台",
@@ -2011,6 +2099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126337,
+      "num": 118869,
+      "word": "申公豹",
+      "onboard_time": 1738423277,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 125830,
       "num": 125830,
       "word": "苏敏阿姨说对射雕的江湖观很有感触",
@@ -2025,14 +2121,6 @@
       "onboard_time": 1738389917,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 124450,
-      "num": 124450,
-      "word": "被猫妈强行抱在怀里的小狗",
-      "onboard_time": 1738419260,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 124081,
@@ -2129,6 +2217,14 @@
       "onboard_time": 1738419200,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119627,
+      "num": 119627,
+      "word": "吃胖的小肚子最怕这三个动作",
+      "onboard_time": 1738418419,
+      "rank": 37,
+      "category": "运动健身"
     },
     {
       "raw_hot": 118342,
@@ -2451,6 +2547,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 95558,
+      "num": 119605,
+      "word": "新能源车企1月成绩单出炉",
+      "onboard_time": 1738422200,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 93621,
       "num": 815934,
       "word": "中国人的春节传统走向世界了",
@@ -2571,6 +2675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84426,
+      "num": 119460,
+      "word": "首次进国补的洗碗机受欢迎",
+      "onboard_time": 1738421298,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82705,
       "num": 290050,
       "word": "大年初四北京下雪",
@@ -2633,6 +2745,22 @@
       "onboard_time": 1738337479,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 77400,
+      "num": 118696,
+      "word": "三巨头同日接入DeepSeek",
+      "onboard_time": 1738422860,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 76836,
+      "num": 138603,
+      "word": "韩上万民众集会要求释放尹锡悦",
+      "onboard_time": 1738420219,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 76133,
@@ -2715,12 +2843,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66362,
+      "num": 118547,
+      "word": "国乒新加坡大满贯晚宴图集",
+      "onboard_time": 1738420939,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65265,
       "num": 114241,
       "word": "王一博萧敬腾春晚我可以",
       "onboard_time": 1738332860,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 65231,
+      "num": 118390,
+      "word": "耗时一年制作的慈禧同款大拉翅",
+      "onboard_time": 1738421839,
+      "rank": 49,
+      "category": "休闲"
     },
     {
       "raw_hot": 65046,
@@ -3011,6 +3155,14 @@
       "category": "电竞,体育"
     },
     {
+      "raw_hot": 26750,
+      "num": 1107083,
+      "word": "文化中国行非遗雅韵中国年",
+      "onboard_time": 1738420759,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 24802,
       "num": 24802,
       "word": "电影蛟龙行动",
@@ -3041,14 +3193,6 @@
       "onboard_time": 1738382837,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 20310,
-      "num": 138603,
-      "word": "韩上万民众集会要求释放尹锡悦",
-      "onboard_time": 1738420219,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 20181,
