@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738449456299,
+  "endTime": 1738452013874,
   "band_list": [
     {
       "raw_hot": 1154235,
@@ -195,6 +195,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194413,
+      "num": 194413,
+      "word": "夫妻狂追5分钟截停起火货车",
+      "onboard_time": 1738438871,
+      "rank": 17,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 171354,
+      "num": 171354,
+      "word": "大年初五迎财神",
+      "onboard_time": 1738451652,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161008,
       "num": 139975,
       "word": "哪吒2",
@@ -307,6 +323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 110439,
+      "num": 53474,
+      "word": "宝妈着急上厕所把孩子交给武警",
+      "onboard_time": 1738430475,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 109690,
       "num": 95863,
       "word": "陈哲远听到冉冉对李瓒一见钟情的反应",
@@ -361,14 +385,6 @@
       "onboard_time": 1738422799,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 96535,
-      "num": 96535,
-      "word": "夫妻狂追5分钟截停起火货车",
-      "onboard_time": 1738438871,
-      "rank": 17,
-      "category": "正能量"
     },
     {
       "raw_hot": 92946,
@@ -459,12 +475,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 57827,
-      "num": 38474,
-      "word": "宝妈着急上厕所把孩子交给武警",
-      "onboard_time": 1738430475,
-      "rank": 29,
-      "category": "正能量"
+      "raw_hot": 57047,
+      "num": 57047,
+      "word": "吴磊骑车一直骑到涮肉变熟",
+      "onboard_time": 1738408699,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 55529,
@@ -480,6 +496,30 @@
       "word": "新女婿喝4碗自家酿酒醉倒被抬进屋",
       "onboard_time": 1738403717,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53712,
+      "num": 53712,
+      "word": "好友揭秘王菲春晚落泪",
+      "onboard_time": 1738417579,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 53094,
+      "num": 53094,
+      "word": "禹事不慌张",
+      "onboard_time": 1738451713,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 50636,
+      "num": 39174,
+      "word": "今年年夜饭预制菜在一片骂声中卖爆",
+      "onboard_time": 1738451652,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -507,12 +547,44 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 40463,
+      "num": 40463,
+      "word": "一路繁花给蔡明整出花钱PTSD了",
+      "onboard_time": 1738450512,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 40017,
       "num": 41143,
       "word": "费城空难目前无法确认是否有幸存者",
       "onboard_time": 1738441390,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 38008,
+      "num": 38008,
+      "word": "闫妮至今不知道沙溢家在哪",
+      "onboard_time": 1738443320,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 36093,
+      "num": 36093,
+      "word": "李雪琴自曝过年爱走亲戚",
+      "onboard_time": 1738414397,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 35604,
+      "num": 35604,
+      "word": "春晚机器人蒸的煮的还有活的",
+      "onboard_time": 1738446671,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 34822,
@@ -523,12 +595,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 29048,
-      "num": 24494,
-      "word": "好友揭秘王菲春晚落泪",
-      "onboard_time": 1738417579,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 32757,
+      "num": 32757,
+      "word": "中国将担任联合国安理会轮值主席国",
+      "onboard_time": 1738451652,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 29678,
+      "num": 49429,
+      "word": "华山环卫工手抓铁链背对悬崖扫雪",
+      "onboard_time": 1738445111,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28083,
@@ -539,15 +619,7 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 25246,
-      "num": 25246,
-      "word": "一路繁花",
-      "onboard_time": 1738436592,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 25077,
+      "raw_hot": 27556,
       "num": 54643,
       "word": "儿媳过年为婆婆化妆最开心的是公公",
       "onboard_time": 1738440191,
@@ -555,20 +627,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24917,
-      "num": 24132,
-      "word": "春晚机器人蒸的煮的还有活的",
-      "onboard_time": 1738446671,
-      "rank": 37,
+      "raw_hot": 25246,
+      "num": 25246,
+      "word": "一路繁花",
+      "onboard_time": 1738436592,
+      "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 24703,
-      "num": 24069,
-      "word": "闫妮至今不知道沙溢家在哪",
-      "onboard_time": 1738443320,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 23200,
@@ -592,14 +656,6 @@
       "word": "三亚就游客滞留码头事件发布措施",
       "onboard_time": 1738434492,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20536,
-      "num": 49429,
-      "word": "华山环卫工手抓铁链背对悬崖扫雪",
-      "onboard_time": 1738445111,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
