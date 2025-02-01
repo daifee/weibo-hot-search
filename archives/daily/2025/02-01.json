@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738413476656,
+  "endTime": 1738414352768,
   "band_list": [
     {
       "raw_hot": 2232738,
@@ -67,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1063811,
+      "num": 399582,
+      "word": "没想过是梁洁但意外合适",
+      "onboard_time": 1738408637,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1047525,
       "num": 452087,
       "word": "虞书欣张凌赫聚餐合照",
@@ -81,14 +89,6 @@
       "onboard_time": 1738371496,
       "rank": 18,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1017473,
-      "num": 328557,
-      "word": "没想过是梁洁但意外合适",
-      "onboard_time": 1738408637,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 1012427,
@@ -129,6 +129,14 @@
       "onboard_time": 1738396218,
       "rank": 4,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 923294,
+      "num": 324583,
+      "word": "哪吒3",
+      "onboard_time": 1738410378,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 876498,
@@ -211,14 +219,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 695811,
-      "num": 288937,
-      "word": "哪吒3",
-      "onboard_time": 1738410378,
-      "rank": 10,
-      "category": "电影"
-    },
-    {
       "raw_hot": 672745,
       "num": 363196,
       "word": "哪吒之魔童闹海票房破20亿",
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 584163,
-      "num": 303593,
+      "num": 315267,
       "word": "哪吒",
       "onboard_time": 1738409000,
       "rank": 7,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 572852,
-      "num": 282036,
+      "num": 305960,
       "word": "于冬 蛟龙行动绝不撤档",
       "onboard_time": 1738406539,
       "rank": 11,
@@ -297,6 +297,14 @@
       "onboard_time": 1738400897,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 546700,
+      "num": 313981,
+      "word": "白色橄榄树热度",
+      "onboard_time": 1738410798,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 541536,
@@ -387,14 +395,6 @@
       "category": "综艺,旅游"
     },
     {
-      "raw_hot": 459658,
-      "num": 285856,
-      "word": "白色橄榄树热度",
-      "onboard_time": 1738410798,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 458059,
       "num": 281798,
       "word": "白鹿过年也得给家人表演节目",
@@ -452,7 +452,7 @@
     },
     {
       "raw_hot": 421784,
-      "num": 282489,
+      "num": 307837,
       "word": "吴磊骑车一直骑到涮肉变熟",
       "onboard_time": 1738408699,
       "rank": 25,
@@ -497,6 +497,14 @@
       "onboard_time": 1738368434,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 395644,
+      "num": 395644,
+      "word": "美国FBI离职潮或涉政治报复",
+      "onboard_time": 1738409359,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 393218,
@@ -667,6 +675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 316783,
+      "num": 316783,
+      "word": "四川扔鞭炮男孩奶奶发声道歉",
+      "onboard_time": 1738413259,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 312561,
       "num": 312561,
       "word": "9岁女孩独自参观爬宠展遭鳄鱼咬伤",
@@ -683,19 +699,19 @@
       "category": "电影"
     },
     {
+      "raw_hot": 305796,
+      "num": 305796,
+      "word": "哪吒2女龙王一听钟情",
+      "onboard_time": 1738408458,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 304984,
       "num": 304984,
       "word": "哪吒2敖丙和他爸要帅到一个底子上",
       "onboard_time": 1738383077,
       "rank": 35,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 298764,
-      "num": 280327,
-      "word": "哪吒2女龙王一听钟情",
-      "onboard_time": 1738408458,
-      "rank": 40,
       "category": "电影"
     },
     {
@@ -707,12 +723,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 285518,
-      "num": 285518,
-      "word": "美国FBI离职潮或涉政治报复",
-      "onboard_time": 1738409359,
-      "rank": 48,
-      "category": "国际时政"
+      "raw_hot": 282700,
+      "num": 282700,
+      "word": "赵露思新旧混发日常",
+      "onboard_time": 1738413317,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 280742,
@@ -1011,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206022,
+      "num": 306660,
+      "word": "刘宇宁直播",
+      "onboard_time": 1738413438,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205735,
       "num": 173345,
       "word": "云包场",
@@ -1033,6 +1057,14 @@
       "onboard_time": 1738391178,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199699,
+      "num": 237628,
+      "word": "5个孩子凑2000压岁钱给奶奶买手机",
+      "onboard_time": 1738411578,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 199576,
@@ -1267,22 +1299,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 177171,
-      "num": 177171,
-      "word": "赵露思新旧混发日常",
-      "onboard_time": 1738413317,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 176904,
-      "num": 237628,
-      "word": "5个孩子凑2000压岁钱给奶奶买手机",
-      "onboard_time": 1738411578,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 176872,
       "num": 171795,
       "word": "电影射雕英雄传侠之大者",
@@ -1460,7 +1476,7 @@
     },
     {
       "raw_hot": 157413,
-      "num": 285383,
+      "num": 310776,
       "word": "男孩第一次见丈母娘秒变认亲现场",
       "onboard_time": 1738407017,
       "rank": 18,
@@ -1489,6 +1505,14 @@
       "onboard_time": 1738339518,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 154983,
+      "num": 141662,
+      "word": "王宝强邪恶双马尾",
+      "onboard_time": 1738413917,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 152445,
@@ -1617,6 +1641,14 @@
       "onboard_time": 1738329919,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 141005,
+      "num": 212386,
+      "word": "拍射雕的3个初衷",
+      "onboard_time": 1738410199,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 140514,
@@ -1763,6 +1795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125811,
+      "num": 309908,
+      "word": "人民日报整版聚焦春节档",
+      "onboard_time": 1738413079,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125653,
       "num": 87495,
       "word": "刘晓庆不服输也不扶人",
@@ -1897,6 +1937,14 @@
       "onboard_time": 1738333640,
       "rank": 33,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 114841,
+      "num": 114841,
+      "word": "外国人看唐探1900的反应belike",
+      "onboard_time": 1738410917,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 114275,
@@ -2115,14 +2163,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 98634,
-      "num": 176051,
-      "word": "刘宇宁直播",
-      "onboard_time": 1738413438,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 98514,
       "num": 98514,
       "word": "解放军位中国黄岩岛领海领空战备警巡",
@@ -2161,14 +2201,6 @@
       "onboard_time": 1738324099,
       "rank": 2,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 93424,
-      "num": 140743,
-      "word": "四川扔鞭炮男孩奶奶发声道歉",
-      "onboard_time": 1738413259,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93229,
@@ -2363,6 +2395,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 74831,
+      "num": 316601,
+      "word": "OpenAI首席执行官谈DeepSeek",
+      "onboard_time": 1738413438,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 74646,
       "num": 74646,
       "word": "斗破苍穹",
@@ -2505,6 +2545,14 @@
       "onboard_time": 1738381097,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46663,
+      "num": 308965,
+      "word": "deepseek点亮了科技树的分枝",
+      "onboard_time": 1738413618,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 45943,
@@ -2793,14 +2841,6 @@
       "onboard_time": 1738348213,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9586,
-      "num": 192652,
-      "word": "OpenAI首席执行官谈DeepSeek",
-      "onboard_time": 1738413438,
-      "rank": 34,
-      "category": "互联网"
     },
     {
       "raw_hot": 8100,

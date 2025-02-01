@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738413476656,
+  "endTime": 1738414352768,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -1131,6 +1131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1063811,
+      "num": 399582,
+      "word": "没想过是梁洁但意外合适",
+      "onboard_time": 1738408637,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1061381,
       "num": 238525,
       "word": "留几手曾说张大大连麦是剧本",
@@ -1225,14 +1233,6 @@
       "onboard_time": 1737894979,
       "rank": 47,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 1017473,
-      "num": 328557,
-      "word": "没想过是梁洁但意外合适",
-      "onboard_time": 1738408637,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 1014563,
@@ -2924,7 +2924,7 @@
     },
     {
       "raw_hot": 572852,
-      "num": 282036,
+      "num": 305960,
       "word": "于冬 蛟龙行动绝不撤档",
       "onboard_time": 1738406539,
       "rank": 11,
@@ -3137,6 +3137,14 @@
       "onboard_time": 1738115899,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 546700,
+      "num": 313981,
+      "word": "白色橄榄树热度",
+      "onboard_time": 1738410798,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 546166,
@@ -3915,14 +3923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 459658,
-      "num": 285856,
-      "word": "白色橄榄树热度",
-      "onboard_time": 1738410798,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 458537,
       "num": 458537,
       "word": "ChatGPT回应被DeepSeek超越",
@@ -4316,7 +4316,7 @@
     },
     {
       "raw_hot": 421784,
-      "num": 282489,
+      "num": 307837,
       "word": "吴磊骑车一直骑到涮肉变熟",
       "onboard_time": 1738408699,
       "rank": 25,
@@ -4584,6 +4584,14 @@
       "word": "乌干达一男护士感染埃博拉死亡",
       "onboard_time": 1738310356,
       "rank": 28,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 395644,
+      "num": 395644,
+      "word": "美国FBI离职潮或涉政治报复",
+      "onboard_time": 1738409359,
+      "rank": 48,
       "category": "国际时政"
     },
     {
@@ -5739,6 +5747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 316783,
+      "num": 316783,
+      "word": "四川扔鞭炮男孩奶奶发声道歉",
+      "onboard_time": 1738413259,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 315454,
       "num": 315454,
       "word": "娜然封神首映再现妲己花瓣妆",
@@ -5891,6 +5907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 305796,
+      "num": 305796,
+      "word": "哪吒2女龙王一听钟情",
+      "onboard_time": 1738408458,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 305395,
       "num": 231107,
       "word": "邓为新剧定档",
@@ -6009,14 +6033,6 @@
       "onboard_time": 1737939257,
       "rank": 29,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 298764,
-      "num": 280327,
-      "word": "哪吒2女龙王一听钟情",
-      "onboard_time": 1738408458,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 298405,
@@ -6219,14 +6235,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 285518,
-      "num": 285518,
-      "word": "美国FBI离职潮或涉政治报复",
-      "onboard_time": 1738409359,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 285098,
       "num": 285098,
       "word": "唐探1900登顶大年初一预售票房榜",
@@ -6273,6 +6281,14 @@
       "onboard_time": 1738022474,
       "rank": 5,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 282700,
+      "num": 282700,
+      "word": "赵露思新旧混发日常",
+      "onboard_time": 1738413317,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 282316,
@@ -8259,6 +8275,14 @@
       "category": "综艺,数码"
     },
     {
+      "raw_hot": 206022,
+      "num": 306660,
+      "word": "刘宇宁直播",
+      "onboard_time": 1737897860,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205931,
       "num": 205931,
       "word": "五福临门不知妻美陈鹤一",
@@ -8633,6 +8657,14 @@
       "onboard_time": 1738245978,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199699,
+      "num": 237628,
+      "word": "5个孩子凑2000压岁钱给奶奶买手机",
+      "onboard_time": 1738411578,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 199684,
@@ -9939,14 +9971,6 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 177171,
-      "num": 177171,
-      "word": "赵露思新旧混发日常",
-      "onboard_time": 1738413317,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 177111,
       "num": 382230,
       "word": "寒潮大风多地降温6到10摄氏度",
@@ -9961,14 +9985,6 @@
       "onboard_time": 1737954016,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 176904,
-      "num": 237628,
-      "word": "5个孩子凑2000压岁钱给奶奶买手机",
-      "onboard_time": 1738411578,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 176873,
@@ -11188,7 +11204,7 @@
     },
     {
       "raw_hot": 157413,
-      "num": 285383,
+      "num": 310776,
       "word": "男孩第一次见丈母娘秒变认亲现场",
       "onboard_time": 1738407017,
       "rank": 18,
@@ -11361,6 +11377,14 @@
       "onboard_time": 1737939557,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154983,
+      "num": 141662,
+      "word": "王宝强邪恶双马尾",
+      "onboard_time": 1738413917,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 154975,
@@ -12417,6 +12441,14 @@
       "onboard_time": 1737875357,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141005,
+      "num": 212386,
+      "word": "拍射雕的3个初衷",
+      "onboard_time": 1738410199,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 140894,
@@ -13611,6 +13643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125811,
+      "num": 309908,
+      "word": "人民日报整版聚焦春节档",
+      "onboard_time": 1738413079,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125751,
       "num": 125751,
       "word": "今晚和陈奕迅提前过年了",
@@ -14473,6 +14513,14 @@
       "onboard_time": 1738313538,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 114841,
+      "num": 114841,
+      "word": "外国人看唐探1900的反应belike",
+      "onboard_time": 1738410917,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 114483,
@@ -15899,14 +15947,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 98634,
-      "num": 176051,
-      "word": "刘宇宁直播",
-      "onboard_time": 1737897860,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 98575,
       "num": 98575,
       "word": "韩国裁判说解释权归他所有",
@@ -16401,14 +16441,6 @@
       "onboard_time": 1738313358,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 93424,
-      "num": 140743,
-      "word": "四川扔鞭炮男孩奶奶发声道歉",
-      "onboard_time": 1738413259,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93229,
@@ -17763,6 +17795,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 74831,
+      "num": 316601,
+      "word": "OpenAI首席执行官谈DeepSeek",
+      "onboard_time": 1738413438,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 74646,
       "num": 74646,
       "word": "斗破苍穹",
@@ -19001,6 +19041,14 @@
       "onboard_time": 1738381097,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46663,
+      "num": 308965,
+      "word": "deepseek点亮了科技树的分枝",
+      "onboard_time": 1738413618,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 46129,
@@ -20929,14 +20977,6 @@
       "onboard_time": 1737887118,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 9586,
-      "num": 192652,
-      "word": "OpenAI首席执行官谈DeepSeek",
-      "onboard_time": 1738413438,
-      "rank": 34,
-      "category": "互联网"
     },
     {
       "raw_hot": 9537,
