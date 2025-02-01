@@ -1,0 +1,410 @@
+{
+  "runTime": 1738394478626,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 865288,
+        "num": 1138446,
+        "word": "金价",
+        "onboard_time": 1738376776,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 817025,
+        "num": 817025,
+        "word": "蒋欣自曝保持身材的秘诀",
+        "onboard_time": 1738390157,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41077,
+        "num": 750610,
+        "word": "大年初四接好运攻略",
+        "onboard_time": 1738381578,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 712601,
+        "num": 712601,
+        "word": "向佐自曝曾被郭碧婷狠狠拒绝",
+        "onboard_time": 1738381276,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410732,
+        "num": 410732,
+        "word": "农村为何普遍早婚早育",
+        "onboard_time": 1738388656,
+        "rank": 4,
+        "category": "民生新闻,母婴育儿"
+      },
+      {
+        "raw_hot": 286629,
+        "num": 286629,
+        "word": "王楚钦可爱童年照",
+        "onboard_time": 1738392316,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 664214,
+        "num": 279140,
+        "word": "哪吒之魔童闹海票房破20亿",
+        "onboard_time": 1738389557,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 541536,
+        "num": 279018,
+        "word": "王宝强说唐探4踩好点了",
+        "onboard_time": 1738390997,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 271491,
+        "num": 271491,
+        "word": "三家美国巨头同日接入DeepSeek",
+        "onboard_time": 1738385358,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 148313,
+        "num": 254306,
+        "word": "费城飞机坠毁许多车辆房屋被毁",
+        "onboard_time": 1738392316,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 534567,
+        "num": 240567,
+        "word": "马斯克点赞无锡拈花湾景区视频",
+        "onboard_time": 1738392015,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 436924,
+        "num": 231173,
+        "word": "李小冉回应退繁花群",
+        "onboard_time": 1738370415,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 368099,
+        "num": 210681,
+        "word": "哪吒2票房逆跌",
+        "onboard_time": 1738334779,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200003,
+        "num": 200003,
+        "word": "大年初四全国人民都挺忙",
+        "onboard_time": 1738373236,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272941,
+        "num": 195475,
+        "word": "哪吒2",
+        "onboard_time": 1738386858,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187990,
+        "num": 187990,
+        "word": "美国一小型飞机坠机瞬间强光乍现",
+        "onboard_time": 1738389737,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 246324,
+        "num": 186653,
+        "word": "李小冉说我是没有一个官司在身上的",
+        "onboard_time": 1738385598,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181450,
+        "num": 181450,
+        "word": "杜润旺已婚",
+        "onboard_time": 1738388656,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158582,
+        "num": 158582,
+        "word": "T1对战GEN",
+        "onboard_time": 1738392737,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 146086,
+        "num": 146086,
+        "word": "美国四天四架飞机失事",
+        "onboard_time": 1738372276,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 352348,
+        "num": 146002,
+        "word": "小姨摘下眼罩时明显慌了",
+        "onboard_time": 1738391358,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223626,
+        "num": 145802,
+        "word": "夏雨透露申公豹在第三部魔心高涨",
+        "onboard_time": 1738392556,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 208407,
+        "num": 145711,
+        "word": "陈哲远梁洁五年前vs五年后",
+        "onboard_time": 1738385537,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187174,
+        "num": 145532,
+        "word": "欣诚则凌",
+        "onboard_time": 1738393756,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185961,
+        "num": 145297,
+        "word": "我奶让我牵线白鹿和我二叔相亲",
+        "onboard_time": 1738382295,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182665,
+        "num": 145251,
+        "word": "尤长靖7年前后荧幕变化",
+        "onboard_time": 1738393337,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177721,
+        "num": 144937,
+        "word": "老敖这一家子顶级魅魔",
+        "onboard_time": 1738384696,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160080,
+        "num": 144779,
+        "word": "封神第二部已成功打入小孩圈",
+        "onboard_time": 1738390277,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147615,
+        "num": 144745,
+        "word": "正月不能理发有解释了",
+        "onboard_time": 1738388777,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175232,
+        "num": 144549,
+        "word": "白鹿过年也得给家人表演节目",
+        "onboard_time": 1738384459,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149181,
+        "num": 144378,
+        "word": "我家那小子",
+        "onboard_time": 1738386139,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117694,
+        "num": 144172,
+        "word": "身边的年味",
+        "onboard_time": 1738392077,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144104,
+        "num": 144104,
+        "word": "九重紫短剧",
+        "onboard_time": 1738381878,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106073,
+        "num": 139205,
+        "word": "马刺大交易",
+        "onboard_time": 1738392316,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138269,
+        "num": 138269,
+        "word": "用研究生奖学金给妈妈准备新年惊喜",
+        "onboard_time": 1738392917,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137620,
+        "num": 137620,
+        "word": "SM新男团开设新账号",
+        "onboard_time": 1738391418,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128629,
+        "num": 128629,
+        "word": "哪吒2票房占比超过6成",
+        "onboard_time": 1738392676,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92467,
+        "num": 92467,
+        "word": "大年初四灶王爷是C位",
+        "onboard_time": 1738376597,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87271,
+        "num": 87271,
+        "word": "瓜子",
+        "onboard_time": 1738392676,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79644,
+        "num": 79644,
+        "word": "大年初四迎灶神啦",
+        "onboard_time": 1738371917,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127031,
+        "num": 79329,
+        "word": "五福临门全是男妲己",
+        "onboard_time": 1738390637,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124943,
+        "num": 78872,
+        "word": "陈哲远 阿瓒我爱你",
+        "onboard_time": 1738391178,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121635,
+        "num": 78541,
+        "word": "哪吒2里的反父权",
+        "onboard_time": 1738394117,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111225,
+        "num": 78002,
+        "word": "撒贝宁想到一会要发生什么我就想笑",
+        "onboard_time": 1738394236,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101469,
+        "num": 77572,
+        "word": "射雕",
+        "onboard_time": 1738384038,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92995,
+        "num": 77172,
+        "word": "李小冉战斗力",
+        "onboard_time": 1738387637,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87212,
+        "num": 76657,
+        "word": "王耀庆被世界冠军公主抱了",
+        "onboard_time": 1738394416,
+        "rank": 46,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 76373,
+        "num": 76373,
+        "word": "美军拒绝公开坠机丧生的女飞行员身份",
+        "onboard_time": 1738394176,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 73921,
+        "num": 73921,
+        "word": "官方通报罐车侧翻致粗苯泄漏",
+        "onboard_time": 1738387697,
+        "rank": 48,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 72885,
+        "num": 72885,
+        "word": "女子除夕错转1万元红包给陌生人",
+        "onboard_time": 1738365553,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记感受春节年味儿#"
+    }
+  }
+}

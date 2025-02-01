@@ -1,10 +1,10 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738392120546,
+  "endTime": 1738394478626,
   "band_list": [
     {
       "raw_hot": 1597648,
-      "num": 519167,
+      "num": 712601,
       "word": "向佐自曝曾被郭碧婷狠狠拒绝",
       "onboard_time": 1738381276,
       "rank": 3,
@@ -83,6 +83,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 817025,
+      "num": 817025,
+      "word": "蒋欣自曝保持身材的秘诀",
+      "onboard_time": 1738390157,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 716626,
       "num": 347968,
       "word": "黑妮曝王菲父母哥哥均已离世",
@@ -97,6 +105,14 @@
       "onboard_time": 1738371496,
       "rank": 5,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 664214,
+      "num": 279140,
+      "word": "哪吒之魔童闹海票房破20亿",
+      "onboard_time": 1738389557,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 592280,
@@ -115,11 +131,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 567295,
-      "num": 263637,
-      "word": "哪吒之魔童闹海票房破20亿",
-      "onboard_time": 1738389557,
-      "rank": 10,
+      "raw_hot": 541536,
+      "num": 279018,
+      "word": "王宝强说唐探4踩好点了",
+      "onboard_time": 1738390997,
+      "rank": 40,
       "category": "电影"
     },
     {
@@ -131,20 +147,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 534567,
+      "num": 240567,
+      "word": "马斯克点赞无锡拈花湾景区视频",
+      "onboard_time": 1738392015,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 514405,
       "num": 514405,
       "word": "九重紫番外昭世录",
       "onboard_time": 1738379597,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 504510,
-      "num": 220964,
-      "word": "蒋欣自曝保持身材的秘诀",
-      "onboard_time": 1738390157,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 499165,
@@ -323,6 +339,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 352348,
+      "num": 187929,
+      "word": "小姨摘下眼罩时明显慌了",
+      "onboard_time": 1738391358,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 339821,
       "num": 272694,
       "word": "九重紫短剧",
@@ -395,12 +419,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 303617,
-      "num": 205631,
-      "word": "王宝强说唐探4踩好点了",
-      "onboard_time": 1738390997,
-      "rank": 40,
-      "category": "电影"
+      "raw_hot": 286629,
+      "num": 286629,
+      "word": "王楚钦可爱童年照",
+      "onboard_time": 1738392316,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 280742,
@@ -457,14 +481,6 @@
       "onboard_time": 1738323319,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 247378,
-      "num": 187929,
-      "word": "小姨摘下眼罩时明显慌了",
-      "onboard_time": 1738391358,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 245937,
@@ -553,6 +569,14 @@
       "onboard_time": 1738384398,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223626,
+      "num": 145802,
+      "word": "夏雨透露申公豹在第三部魔心高涨",
+      "onboard_time": 1738392556,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 221623,
@@ -699,6 +723,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 187174,
+      "num": 145532,
+      "word": "欣诚则凌",
+      "onboard_time": 1738393756,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185562,
       "num": 159613,
       "word": "徐克好奇金庸看侠之大者反应",
@@ -713,6 +745,14 @@
       "onboard_time": 1738371557,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 182665,
+      "num": 145251,
+      "word": "尤长靖7年前后荧幕变化",
+      "onboard_time": 1738393337,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 182474,
@@ -843,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158582,
+      "num": 158582,
+      "word": "T1对战GEN",
+      "onboard_time": 1738392737,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 158436,
       "num": 221453,
       "word": "此沙二月第一天剪了个春",
@@ -881,6 +929,14 @@
       "onboard_time": 1738338018,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 148313,
+      "num": 254306,
+      "word": "费城飞机坠毁许多车辆房屋被毁",
+      "onboard_time": 1738392316,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 146722,
@@ -963,6 +1019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138269,
+      "num": 138269,
+      "word": "用研究生奖学金给妈妈准备新年惊喜",
+      "onboard_time": 1738392917,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 137092,
       "num": 137092,
       "word": "何惟芳美貌大赏",
@@ -1035,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128629,
+      "num": 128629,
+      "word": "哪吒2票房占比超过6成",
+      "onboard_time": 1738392676,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 126773,
       "num": 88683,
       "word": "张若昀祝你有所爱亦被爱",
@@ -1083,6 +1155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 121635,
+      "num": 78541,
+      "word": "哪吒2里的反父权",
+      "onboard_time": 1738394117,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 120284,
       "num": 120284,
       "word": "DeepSeek满血版高速专线",
@@ -1113,6 +1193,14 @@
       "onboard_time": 1738381816,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117694,
+      "num": 152995,
+      "word": "身边的年味",
+      "onboard_time": 1738392077,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116365,
@@ -1179,6 +1267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111225,
+      "num": 78002,
+      "word": "撒贝宁想到一会要发生什么我就想笑",
+      "onboard_time": 1738394236,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110553,
       "num": 110553,
       "word": "春节假期还有4天",
@@ -1216,6 +1312,14 @@
       "word": "穆雷跟腱撕裂赛季报销",
       "onboard_time": 1738383498,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 106073,
+      "num": 139205,
+      "word": "马刺大交易",
+      "onboard_time": 1738392316,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -1371,20 +1475,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 87783,
-      "num": 152995,
-      "word": "身边的年味",
-      "onboard_time": 1738392077,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87408,
       "num": 87408,
       "word": "OpenAI奥特曼承认开源策略失误",
       "onboard_time": 1738387938,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 87271,
+      "num": 87271,
+      "word": "瓜子",
+      "onboard_time": 1738392676,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 87212,
+      "num": 76657,
+      "word": "王耀庆被世界冠军公主抱了",
+      "onboard_time": 1738394416,
+      "rank": 46,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 85705,
@@ -1443,6 +1555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 76373,
+      "num": 76373,
+      "word": "美军拒绝公开坠机丧生的女飞行员身份",
+      "onboard_time": 1738394176,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 76133,
       "num": 207303,
       "word": "黄友政3比1特奥多罗",
@@ -1457,14 +1577,6 @@
       "onboard_time": 1738327578,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 73486,
-      "num": 73486,
-      "word": "马斯克点赞无锡拈花湾景区视频",
-      "onboard_time": 1738392015,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 71523,
@@ -1548,7 +1660,7 @@
     },
     {
       "raw_hot": 51736,
-      "num": 544509,
+      "num": 750610,
       "word": "大年初四接好运攻略",
       "onboard_time": 1738381578,
       "rank": 2,
