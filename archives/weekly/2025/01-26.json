@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738381207379,
+  "endTime": 1738383933355,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -617,6 +617,14 @@
       "onboard_time": 1738125500,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1597648,
+      "num": 465485,
+      "word": "向佐自曝曾被郭碧婷狠狠拒绝",
+      "onboard_time": 1738381276,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1546208,
@@ -1289,6 +1297,14 @@
       "onboard_time": 1737867497,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 988369,
+      "num": 1158139,
+      "word": "向太每天转发恶评到繁花群",
+      "onboard_time": 1738382598,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 987998,
@@ -3563,6 +3579,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 476277,
+      "num": 117239,
+      "word": "我奶让我牵线白鹿和我二叔相亲",
+      "onboard_time": 1738382295,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 474629,
       "num": 456927,
       "word": "北京台春晚",
@@ -4425,6 +4449,14 @@
       "onboard_time": 1738248558,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 388366,
+      "num": 388366,
+      "word": "埃文凯尔原定来华30天待90天不愿走",
+      "onboard_time": 1738378576,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 387819,
@@ -5475,6 +5507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 307136,
+      "num": 307136,
+      "word": "DeepSeek在美商标被梁文锋校友抢注",
+      "onboard_time": 1738376837,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 305941,
       "num": 424946,
       "word": "南昌烟花",
@@ -5595,6 +5635,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 300029,
+      "num": 263213,
+      "word": "4D哪吒",
+      "onboard_time": 1738380557,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 298405,
       "num": 298405,
       "word": "孙千春晚小手办",
@@ -5657,6 +5705,14 @@
       "onboard_time": 1737949816,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 292872,
+      "num": 115472,
+      "word": "九重紫短剧",
+      "onboard_time": 1738381878,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 292720,
@@ -5875,6 +5931,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 281162,
+      "num": 115959,
+      "word": "腾讯视频二月大剧片单",
+      "onboard_time": 1738382718,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 280697,
       "num": 280697,
       "word": "藏海传包场肖战射雕",
@@ -6073,14 +6137,6 @@
       "onboard_time": 1738056744,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 263213,
-      "num": 263213,
-      "word": "4D哪吒",
-      "onboard_time": 1738380557,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 263118,
@@ -6489,6 +6545,14 @@
       "onboard_time": 1738151962,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 245937,
+      "num": 101631,
+      "word": "黄子韬徐艺洋为武勋打call",
+      "onboard_time": 1738383317,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 245817,
@@ -7643,6 +7707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207813,
+      "num": 186275,
+      "word": "王一博再度跨界主持",
+      "onboard_time": 1738380857,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206299,
       "num": 170024,
       "word": "张艺兴陈伟霆苏有朋高清图",
@@ -8011,14 +8083,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 199886,
-      "num": 199886,
-      "word": "埃文凯尔原定来华30天待90天不愿走",
-      "onboard_time": 1738378576,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 199864,
       "num": 234082,
       "word": "陈凯歌一家四口拜妈祖",
@@ -8129,14 +8193,6 @@
       "onboard_time": 1738292537,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 197611,
-      "num": 186275,
-      "word": "王一博再度跨界主持",
-      "onboard_time": 1738380857,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 197261,
@@ -8475,14 +8531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 191917,
-      "num": 191917,
-      "word": "DeepSeek在美商标被梁文锋校友抢注",
-      "onboard_time": 1738376837,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 191794,
       "num": 191794,
       "word": "左航在街上有拍了拍",
@@ -8600,6 +8648,14 @@
       "word": "骄阳似我",
       "onboard_time": 1738033638,
       "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 190052,
+      "num": 113676,
+      "word": "谁懂暗恋成真的含金量",
+      "onboard_time": 1738382897,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -8817,6 +8873,14 @@
       "onboard_time": 1738147099,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 187316,
+      "num": 112526,
+      "word": "赵丽颖新年放烟花",
+      "onboard_time": 1738382295,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 187300,
@@ -9883,6 +9947,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 164189,
+      "num": 149965,
+      "word": "创造营亚洲",
+      "onboard_time": 1738380977,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164156,
       "num": 201954,
       "word": "冻肉不要直接泡水解冻",
@@ -10563,6 +10635,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 153437,
+      "num": 153437,
+      "word": "FBI大裁员",
+      "onboard_time": 1738379898,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 153041,
       "num": 126198,
       "word": "岳云鹏过年不语一味的炫饭",
@@ -10785,14 +10865,6 @@
       "onboard_time": 1738218797,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 149965,
-      "num": 149965,
-      "word": "创造营亚洲",
-      "onboard_time": 1738380977,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 149942,
@@ -11251,6 +11323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143693,
+      "num": 109303,
+      "word": "哪吒2敖丙和他爸要帅到一个底子上",
+      "onboard_time": 1738383077,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 143474,
       "num": 202978,
       "word": "这是我们的中国年",
@@ -11539,6 +11619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139352,
+      "num": 110014,
+      "word": "父亲离世儿子过年回家独坐门口落泪",
+      "onboard_time": 1738382777,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139348,
       "num": 139348,
       "word": "实测DeepSeek做奥数题写作文",
@@ -11553,14 +11641,6 @@
       "onboard_time": 1738221618,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 139189,
-      "num": 139189,
-      "word": "FBI大裁员",
-      "onboard_time": 1738379898,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 139153,
@@ -13515,6 +13595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113369,
+      "num": 101084,
+      "word": "罗云熙和天津非遗一起唱新年祝福",
+      "onboard_time": 1738381816,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113258,
       "num": 113258,
       "word": "小婉管乐演的白蛇青蛇",
@@ -13891,6 +13979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109043,
+      "num": 109043,
+      "word": "过年在家哪里都能待就是不能待床上",
+      "onboard_time": 1738381276,
+      "rank": 37,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 109014,
       "num": 109014,
       "word": "2025春节团拜会举行",
@@ -14099,6 +14195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 106705,
+      "num": 106705,
+      "word": "穆雷跟腱撕裂赛季报销",
+      "onboard_time": 1738383498,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106701,
       "num": 106701,
       "word": "扎克伯格称仍在消化DeepSeek成果",
@@ -14233,6 +14337,14 @@
       "onboard_time": 1737967637,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104651,
+      "num": 100468,
+      "word": "娜然说妲己是殷寿欲望的放大镜",
+      "onboard_time": 1738383738,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 104634,
@@ -14745,6 +14857,14 @@
       "onboard_time": 1738223778,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 97880,
+      "num": 97880,
+      "word": "曝苹果接近确定折叠显示屏供应商",
+      "onboard_time": 1738381998,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 97866,
@@ -17435,6 +17555,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 51736,
+      "num": 467779,
+      "word": "大年初四接好运攻略",
+      "onboard_time": 1738381578,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 51473,
       "num": 262580,
       "word": "看完哪吒2为中国大片骄傲",
@@ -17737,6 +17865,14 @@
       "onboard_time": 1737935295,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42871,
+      "num": 339049,
+      "word": "春节聚餐警惕吃出来的病",
+      "onboard_time": 1738382358,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 42492,
