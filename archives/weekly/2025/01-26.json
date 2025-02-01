@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738423403387,
+  "endTime": 1738424207928,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -2171,6 +2171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 734408,
+      "num": 734408,
+      "word": "哪吒之魔童闹海票房破25亿",
+      "onboard_time": 1738418779,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 733337,
       "num": 692295,
       "word": "春节档3部电影豆瓣开分",
@@ -2179,11 +2187,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 732733,
-      "num": 732733,
-      "word": "哪吒之魔童闹海票房破25亿",
-      "onboard_time": 1738418779,
-      "rank": 30,
+      "raw_hot": 733012,
+      "num": 338498,
+      "word": "石矶娘娘整座山最美的女人",
+      "onboard_time": 1738421719,
+      "rank": 11,
       "category": "电影"
     },
     {
@@ -3307,14 +3315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 531637,
-      "num": 338498,
-      "word": "石矶娘娘整座山最美的女人",
-      "onboard_time": 1738421719,
-      "rank": 11,
-      "category": "电影"
-    },
-    {
       "raw_hot": 530939,
       "num": 1084950,
       "word": "菲律宾船从中国海警船前横穿",
@@ -3507,6 +3507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 506110,
+      "num": 331224,
+      "word": "徐明浩直播突现双重人格",
+      "onboard_time": 1738420341,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 505455,
       "num": 505455,
       "word": "DeepSeek最想问人类什么问题",
@@ -3553,14 +3561,6 @@
       "onboard_time": 1738046958,
       "rank": 20,
       "category": "电影"
-    },
-    {
-      "raw_hot": 503263,
-      "num": 331224,
-      "word": "徐明浩直播突现双重人格",
-      "onboard_time": 1738420341,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 503156,
@@ -5811,6 +5811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 319412,
+      "num": 319412,
+      "word": "饺子又要隆重登场啦",
+      "onboard_time": 1738421900,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 318551,
       "num": 318551,
       "word": "全球掀DeepSeek复现狂潮",
@@ -6032,6 +6040,14 @@
       "word": "邓为新剧定档",
       "onboard_time": 1737872298,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 305041,
+      "num": 119396,
+      "word": "梁洁居然还戴着白色橄榄树红绳",
+      "onboard_time": 1738423158,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -8659,6 +8675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202577,
+      "num": 202577,
+      "word": "一个回头救了一个家庭",
+      "onboard_time": 1738420699,
+      "rank": 19,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 202404,
       "num": 168447,
       "word": "江苏卫视春晚",
@@ -9819,14 +9843,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 184365,
-      "num": 184365,
-      "word": "饺子又要隆重登场啦",
-      "onboard_time": 1738421900,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 184328,
       "num": 208802,
       "word": "花70多万救下了700百多只猫",
@@ -10307,6 +10323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174432,
+      "num": 107751,
+      "word": "石矶娘娘",
+      "onboard_time": 1738424178,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 174388,
       "num": 174388,
       "word": "华筝意难平",
@@ -10473,14 +10497,6 @@
       "onboard_time": 1738084163,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 171759,
-      "num": 119396,
-      "word": "梁洁居然还戴着白色橄榄树红绳",
-      "onboard_time": 1738423158,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 171458,
@@ -10680,6 +10696,14 @@
       "word": "钮祜禄氏全是狠人",
       "onboard_time": 1738211117,
       "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 168085,
+      "num": 118869,
+      "word": "申公豹",
+      "onboard_time": 1738423277,
+      "rank": 45,
       "category": "电影"
     },
     {
@@ -11361,14 +11385,6 @@
       "onboard_time": 1738390637,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 158396,
-      "num": 158396,
-      "word": "一个回头救了一个家庭",
-      "onboard_time": 1738420699,
-      "rank": 19,
-      "category": "正能量"
     },
     {
       "raw_hot": 158393,
@@ -13883,14 +13899,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 126337,
-      "num": 118869,
-      "word": "申公豹",
-      "onboard_time": 1738423277,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 126329,
       "num": 126329,
       "word": "多吃5种蔬菜能抗炎",
@@ -16003,6 +16011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 102036,
+      "num": 102036,
+      "word": "正月初五为啥又叫破五",
+      "onboard_time": 1738423639,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101936,
       "num": 98695,
       "word": "黄轩女友夸蒋璐霞非常酷",
@@ -16563,6 +16579,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 95894,
+      "num": 119605,
+      "word": "新能源车企1月成绩单出炉",
+      "onboard_time": 1738422200,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 95885,
       "num": 95885,
       "word": "养了两年的猫咪突然攻击人",
@@ -16593,14 +16617,6 @@
       "onboard_time": 1737983658,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 95558,
-      "num": 119605,
-      "word": "新能源车企1月成绩单出炉",
-      "onboard_time": 1738422200,
-      "rank": 38,
-      "category": "汽车"
     },
     {
       "raw_hot": 95392,
@@ -17891,6 +17907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79526,
+      "num": 138603,
+      "word": "韩上万民众集会要求释放尹锡悦",
+      "onboard_time": 1738420219,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 79406,
       "num": 79406,
       "word": "Meta员工称高管薪资比DeepSeek成本还高",
@@ -18033,14 +18057,6 @@
       "onboard_time": 1737966977,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 76836,
-      "num": 138603,
-      "word": "韩上万民众集会要求释放尹锡悦",
-      "onboard_time": 1738420219,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 76772,
@@ -18449,6 +18465,14 @@
       "onboard_time": 1737859097,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69146,
+      "num": 69146,
+      "word": "金价大涨点燃春节购金热",
+      "onboard_time": 1738419140,
+      "rank": 49,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 69095,
