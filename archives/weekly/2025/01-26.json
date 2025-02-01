@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738383933355,
+  "endTime": 1738384776981,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -763,6 +763,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1355089,
+      "num": 1355089,
+      "word": "向太每天转发恶评到繁花群",
+      "onboard_time": 1738382598,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1337627,
       "num": 679702,
       "word": "张雨绮男友晒合照官宣恋情",
@@ -1297,14 +1305,6 @@
       "onboard_time": 1737867497,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 988369,
-      "num": 1158139,
-      "word": "向太每天转发恶评到繁花群",
-      "onboard_time": 1738382598,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 987998,
@@ -3363,6 +3363,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 497916,
+      "num": 188079,
+      "word": "我奶让我牵线白鹿和我二叔相亲",
+      "onboard_time": 1738382295,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 496815,
       "num": 496815,
       "word": "单身的埃文凯尔羡慕中国女婿",
@@ -3577,14 +3585,6 @@
       "onboard_time": 1737956296,
       "rank": 20,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 476277,
-      "num": 117239,
-      "word": "我奶让我牵线白鹿和我二叔相亲",
-      "onboard_time": 1738382295,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 474629,
@@ -5115,6 +5115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 334972,
+      "num": 334972,
+      "word": "腾讯视频二月大剧片单",
+      "onboard_time": 1738382718,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 333957,
       "num": 233694,
       "word": "网红犬哈礼鹿身上一个褥疮也没有",
@@ -5201,6 +5209,14 @@
       "onboard_time": 1738073081,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 328990,
+      "num": 328990,
+      "word": "DeepSeek在美商标被梁文锋校友抢注",
+      "onboard_time": 1738376837,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 328711,
@@ -5467,6 +5483,14 @@
       "category": "国际时政,互联网"
     },
     {
+      "raw_hot": 309395,
+      "num": 263213,
+      "word": "4D哪吒",
+      "onboard_time": 1738380557,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 309094,
       "num": 309094,
       "word": "DeepSeek彻底爆发",
@@ -5505,14 +5529,6 @@
       "onboard_time": 1737928271,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 307136,
-      "num": 307136,
-      "word": "DeepSeek在美商标被梁文锋校友抢注",
-      "onboard_time": 1738376837,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 305941,
@@ -5635,14 +5651,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 300029,
-      "num": 263213,
-      "word": "4D哪吒",
-      "onboard_time": 1738380557,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 298405,
       "num": 298405,
       "word": "孙千春晚小手办",
@@ -5708,7 +5716,7 @@
     },
     {
       "raw_hot": 292872,
-      "num": 115472,
+      "num": 187588,
       "word": "九重紫短剧",
       "onboard_time": 1738381878,
       "rank": 23,
@@ -5929,14 +5937,6 @@
       "onboard_time": 1737968236,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 281162,
-      "num": 115959,
-      "word": "腾讯视频二月大剧片单",
-      "onboard_time": 1738382718,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 280697,
@@ -7059,6 +7059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225408,
+      "num": 185004,
+      "word": "赵丽颖新年放烟花",
+      "onboard_time": 1738382295,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225128,
       "num": 156495,
       "word": "封神三部曲",
@@ -7499,6 +7507,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 212626,
+      "num": 186275,
+      "word": "王一博再度跨界主持",
+      "onboard_time": 1738380857,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212483,
       "num": 212483,
       "word": "谭维维20厘米高跟鞋",
@@ -7707,12 +7723,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 207813,
-      "num": 186275,
-      "word": "王一博再度跨界主持",
-      "onboard_time": 1738380857,
-      "rank": 24,
-      "category": "综艺"
+      "raw_hot": 206525,
+      "num": 179385,
+      "word": "白鹿过年也得给家人表演节目",
+      "onboard_time": 1738384459,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 206299,
@@ -8652,7 +8668,7 @@
     },
     {
       "raw_hot": 190052,
-      "num": 113676,
+      "num": 139147,
       "word": "谁懂暗恋成真的含金量",
       "onboard_time": 1738382897,
       "rank": 27,
@@ -8873,14 +8889,6 @@
       "onboard_time": 1738147099,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 187316,
-      "num": 112526,
-      "word": "赵丽颖新年放烟花",
-      "onboard_time": 1738382295,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 187300,
@@ -9161,6 +9169,14 @@
       "onboard_time": 1737891619,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179955,
+      "num": 179955,
+      "word": "父亲离世儿子过年回家独坐门口落泪",
+      "onboard_time": 1738382777,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179795,
@@ -9499,6 +9515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 172775,
+      "num": 172775,
+      "word": "娜然说妲己是殷寿欲望的放大镜",
+      "onboard_time": 1738383738,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 172757,
       "num": 172757,
       "word": "蛇年过年快胖成肥蛇了",
@@ -9617,6 +9641,14 @@
       "onboard_time": 1737862038,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 170542,
+      "num": 99653,
+      "word": "颜安帮助理姐征婚",
+      "onboard_time": 1738384398,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 170536,
@@ -10467,6 +10499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 156844,
+      "num": 156844,
+      "word": "FBI大裁员",
+      "onboard_time": 1738379898,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 156786,
       "num": 307804,
       "word": "会长是女仆大人漫画新作",
@@ -10633,14 +10673,6 @@
       "onboard_time": 1738290796,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 153437,
-      "num": 153437,
-      "word": "FBI大裁员",
-      "onboard_time": 1738379898,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 153041,
@@ -11139,6 +11171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 146054,
+      "num": 188497,
+      "word": "李小冉否认制片人老公",
+      "onboard_time": 1738384398,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146007,
       "num": 146007,
       "word": "田曦薇逐玉赶猪路透",
@@ -11616,14 +11656,6 @@
       "word": "吃饺子",
       "onboard_time": 1738067805,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 139352,
-      "num": 110014,
-      "word": "父亲离世儿子过年回家独坐门口落泪",
-      "onboard_time": 1738382777,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -12332,7 +12364,7 @@
     },
     {
       "raw_hot": 130551,
-      "num": 130551,
+      "num": 175337,
       "word": "刘昊然 振邦哥哥别笑了我害怕",
       "onboard_time": 1738377497,
       "rank": 37,
@@ -13283,6 +13315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 117752,
+      "num": 335014,
+      "word": "罗云熙和天津非遗一起唱新年祝福",
+      "onboard_time": 1738381816,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117491,
       "num": 117491,
       "word": "大年初二拜年计划",
@@ -13593,14 +13633,6 @@
       "onboard_time": 1738197436,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 113369,
-      "num": 101084,
-      "word": "罗云熙和天津非遗一起唱新年祝福",
-      "onboard_time": 1738381816,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 113258,
@@ -14337,14 +14369,6 @@
       "onboard_time": 1737967637,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 104651,
-      "num": 100468,
-      "word": "娜然说妲己是殷寿欲望的放大镜",
-      "onboard_time": 1738383738,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 104634,
@@ -16347,6 +16371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 78384,
+      "num": 78384,
+      "word": "OpenAI奥特曼因DeepSeek反思",
+      "onboard_time": 1738384278,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 78105,
       "num": 142301,
       "word": "杨幂上城士开年刊",
@@ -16667,6 +16699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71523,
+      "num": 71523,
+      "word": "白衣小哥一次次冲进海中救人太帅了",
+      "onboard_time": 1738384758,
+      "rank": 49,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 71495,
       "num": 197698,
       "word": "和平精英春节双神装降临",
@@ -16937,6 +16977,14 @@
       "onboard_time": 1738148840,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 66987,
+      "num": 339049,
+      "word": "春节聚餐警惕吃出来的病",
+      "onboard_time": 1738382358,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 66846,
@@ -17865,14 +17913,6 @@
       "onboard_time": 1737935295,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 42871,
-      "num": 339049,
-      "word": "春节聚餐警惕吃出来的病",
-      "onboard_time": 1738382358,
-      "rank": 9,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 42492,
@@ -19852,6 +19892,9 @@
     },
     {
       "word": "#注重家庭注重家教注重家风#"
+    },
+    {
+      "word": "#跟着总书记感受春节年味儿#"
     }
   ]
 }
