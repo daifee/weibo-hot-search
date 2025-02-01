@@ -1,7 +1,15 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738366535645,
+  "endTime": 1738374292408,
   "band_list": [
+    {
+      "raw_hot": 1461513,
+      "num": 382165,
+      "word": "李小冉回应退繁花群",
+      "onboard_time": 1738370415,
+      "rank": 3,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1281311,
       "num": 1281311,
@@ -19,8 +27,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 844095,
+      "num": 1135055,
+      "word": "哪吒导演回应啃老三年",
+      "onboard_time": 1738369276,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 716626,
-      "num": 231412,
+      "num": 347968,
       "word": "黑妮曝王菲父母哥哥均已离世",
       "onboard_time": 1738332320,
       "rank": 6,
@@ -43,12 +59,60 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 492024,
+      "num": 182346,
+      "word": "正月初一男子在女友家饭桌上被带走",
+      "onboard_time": 1738366272,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 460868,
+      "num": 858592,
+      "word": "春晚带火了四大城市",
+      "onboard_time": 1738344614,
+      "rank": 11,
+      "category": "综艺,旅游"
+    },
+    {
       "raw_hot": 441563,
       "num": 189201,
       "word": "李昀锐挑染",
       "onboard_time": 1738336339,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 425682,
+      "num": 425682,
+      "word": "小女孩被海浪卷走小哥不顾危险救人",
+      "onboard_time": 1738367654,
+      "rank": 1,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 421979,
+      "num": 351095,
+      "word": "特朗普将会见黄仁勋",
+      "onboard_time": 1738368495,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 407171,
+      "num": 350131,
+      "word": "马丽方律师声明",
+      "onboard_time": 1738372997,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 399068,
+      "num": 348718,
+      "word": "哪吒2预测总票房超67.4亿",
+      "onboard_time": 1738368434,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 381732,
@@ -59,15 +123,23 @@
       "category": "电影"
     },
     {
-      "raw_hot": 350467,
-      "num": 858592,
-      "word": "春晚带火了四大城市",
-      "onboard_time": 1738344614,
-      "rank": 11,
-      "category": "综艺,旅游"
+      "raw_hot": 372551,
+      "num": 372551,
+      "word": "警方通报电瓶车高速逆行致汽车撞护栏",
+      "onboard_time": 1738368916,
+      "rank": 4,
+      "category": "辟谣/通报"
     },
     {
-      "raw_hot": 329067,
+      "raw_hot": 357494,
+      "num": 357494,
+      "word": "一架小型飞机在美国费城坠毁",
+      "onboard_time": 1738369935,
+      "rank": 5,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 332405,
       "num": 329067,
       "word": "三亚一游客拿走祈福钱放自己包中",
       "onboard_time": 1738364771,
@@ -89,6 +161,14 @@
       "onboard_time": 1738334961,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 314560,
+      "num": 182341,
+      "word": "女子除夕错转1万元红包给陌生人",
+      "onboard_time": 1738365553,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 280742,
@@ -123,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252881,
+      "num": 252881,
+      "word": "春节平均每家产生近2kg剩菜剩饭",
+      "onboard_time": 1738365613,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 250611,
       "num": 186255,
       "word": "封神2妲己严选的女孩是艾米",
@@ -153,6 +241,30 @@
       "onboard_time": 1738334480,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 228799,
+      "num": 353327,
+      "word": "美官方称有能力恢复失事飞机黑匣子数据",
+      "onboard_time": 1738373236,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 221623,
+      "num": 221623,
+      "word": "美国打压DeepSeek的后果",
+      "onboard_time": 1738326858,
+      "rank": 41,
+      "category": "国际时政,互联网"
+    },
+    {
+      "raw_hot": 215117,
+      "num": 215117,
+      "word": "大年初四接灶王",
+      "onboard_time": 1738345094,
+      "rank": 48,
+      "category": "健康医疗,运动健身"
     },
     {
       "raw_hot": 207365,
@@ -187,6 +299,46 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 185860,
+      "num": 185860,
+      "word": "DeepSeek成精",
+      "onboard_time": 1738371496,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 182350,
+      "num": 182350,
+      "word": "韦德因癌症切除部分肾脏",
+      "onboard_time": 1738367054,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 182331,
+      "num": 182331,
+      "word": "2025春节档总票房超50亿",
+      "onboard_time": 1738370055,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 179546,
+      "num": 179546,
+      "word": "白色橄榄树",
+      "onboard_time": 1738365553,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 178175,
+      "num": 178175,
+      "word": "特朗普称撞机事故都怪奥巴马和拜登",
+      "onboard_time": 1738336278,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 175207,
       "num": 113685,
       "word": "哪吒五年里一直打工",
@@ -211,20 +363,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166046,
-      "num": 45277,
-      "word": "女子除夕错转1万元红包给陌生人",
-      "onboard_time": 1738365553,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 165449,
-      "num": 165449,
-      "word": "美国打压DeepSeek的后果",
-      "onboard_time": 1738326858,
-      "rank": 41,
-      "category": "国际时政,互联网"
+      "raw_hot": 165719,
+      "num": 165719,
+      "word": "乌尔善",
+      "onboard_time": 1738371557,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 163937,
@@ -233,6 +377,22 @@
       "onboard_time": 1738335801,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159613,
+      "num": 159613,
+      "word": "徐克好奇金庸看侠之大者反应",
+      "onboard_time": 1738371375,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 158336,
+      "num": 158336,
+      "word": "哪吒2或成影史新票房冠军",
+      "onboard_time": 1738372516,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 156044,
@@ -283,12 +443,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134979,
+      "num": 134979,
+      "word": "大年初四迎灶神啦",
+      "onboard_time": 1738371917,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133216,
       "num": 133216,
       "word": "乙巳蛇年为啥会出现两头春",
       "onboard_time": 1738329259,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130743,
+      "num": 130743,
+      "word": "唐探获中国影史系列电影票房冠军",
+      "onboard_time": 1738343175,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 120284,
@@ -331,6 +507,62 @@
       "category": "电影"
     },
     {
+      "raw_hot": 114039,
+      "num": 114039,
+      "word": "一片洗碗的丝瓜络海外能售五刀乐",
+      "onboard_time": 1738368254,
+      "rank": 33,
+      "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 113252,
+      "num": 113252,
+      "word": "石破茂呼吁审视日本为何发动战争",
+      "onboard_time": 1738370895,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 112984,
+      "num": 112984,
+      "word": "美国四天四架飞机失事",
+      "onboard_time": 1738372276,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 112546,
+      "num": 112546,
+      "word": "美坠机事故28名遇难者遗体身份已确认",
+      "onboard_time": 1738371977,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 111684,
+      "num": 111684,
+      "word": "迎灶神接好运",
+      "onboard_time": 1738366754,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110553,
+      "num": 110553,
+      "word": "春节假期还有4天",
+      "onboard_time": 1738366754,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106098,
+      "num": 106098,
+      "word": "大年初四全国人民都挺忙",
+      "onboard_time": 1738373236,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103150,
       "num": 103150,
       "word": "再也不去理发店洗头了",
@@ -347,27 +579,27 @@
       "category": "演出"
     },
     {
-      "raw_hot": 96878,
-      "num": 96878,
-      "word": "特朗普称撞机事故都怪奥巴马和拜登",
-      "onboard_time": 1738336278,
-      "rank": 43,
+      "raw_hot": 96404,
+      "num": 96404,
+      "word": "美国对墨西哥和加拿大商品征收25%关税",
+      "onboard_time": 1738367234,
+      "rank": 45,
       "category": "国际时政"
     },
     {
-      "raw_hot": 93645,
-      "num": 93645,
-      "word": "唐探获中国影史系列电影票房冠军",
-      "onboard_time": 1738343175,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 93621,
-      "num": 320292,
+      "num": 383604,
       "word": "中国人的春节传统走向世界了",
       "onboard_time": 1738324099,
       "rank": 2,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 91771,
+      "num": 91771,
+      "word": "退伍军人顶着海浪连救2人",
+      "onboard_time": 1738369335,
+      "rank": 47,
       "category": "正能量"
     },
     {
@@ -377,6 +609,22 @@
       "onboard_time": 1738339518,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90703,
+      "num": 90703,
+      "word": "李雨霏再发文",
+      "onboard_time": 1738373596,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 90559,
+      "num": 90559,
+      "word": "女婿回老丈人家的统一行为",
+      "onboard_time": 1738367174,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89119,
@@ -427,14 +675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74863,
-      "num": 45152,
-      "word": "正月初一男子在女友家饭桌上被带走",
-      "onboard_time": 1738366272,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 68955,
       "num": 68955,
       "word": "大年初三大街小巷热热闹闹",
@@ -457,14 +697,6 @@
       "onboard_time": 1738351213,
       "rank": 27,
       "category": "网红"
-    },
-    {
-      "raw_hot": 60186,
-      "num": 60186,
-      "word": "白色橄榄树",
-      "onboard_time": 1738365553,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 57633,
@@ -491,14 +723,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 53269,
-      "num": 53269,
-      "word": "大年初四接灶王",
-      "onboard_time": 1738345094,
-      "rank": 48,
-      "category": "健康医疗,运动健身"
-    },
-    {
       "raw_hot": 53116,
       "num": 136004,
       "word": "2025春节假期过半了",
@@ -516,11 +740,19 @@
     },
     {
       "raw_hot": 45943,
-      "num": 45138,
+      "num": 107715,
       "word": "黄晓明与陈凯歌一家聚餐",
       "onboard_time": 1738349592,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 45294,
+      "num": 110716,
+      "word": "人人人应县木塔人人",
+      "onboard_time": 1738370895,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 44348,
@@ -553,6 +785,14 @@
       "onboard_time": 1738353912,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 39202,
+      "num": 354695,
+      "word": "DeepSeek冲击华尔街",
+      "onboard_time": 1738373837,
+      "rank": 8,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 37688,
@@ -649,14 +889,6 @@
       "onboard_time": 1738349415,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 20853,
-      "num": 77829,
-      "word": "春节平均每家产生近2kg剩菜剩饭",
-      "onboard_time": 1738365613,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18153,
