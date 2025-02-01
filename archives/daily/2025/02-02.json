@@ -1,7 +1,15 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738430314867,
+  "endTime": 1738431309058,
   "band_list": [
+    {
+      "raw_hot": 1154235,
+      "num": 1154235,
+      "word": "三亚紧急发布6条措施明日实施",
+      "onboard_time": 1738430234,
+      "rank": 1,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1061357,
       "num": 1061357,
@@ -67,14 +75,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 572613,
-      "num": 572613,
-      "word": "三亚紧急发布6条措施明日实施",
-      "onboard_time": 1738430234,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 572368,
       "num": 572368,
       "word": "饺子又要隆重登场啦",
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 385681,
-      "num": 185906,
+      "num": 227520,
       "word": "哪吒",
       "onboard_time": 1738409000,
       "rank": 20,
@@ -171,7 +171,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 219929,
+      "raw_hot": 245646,
       "num": 349745,
       "word": "初五过年习俗",
       "onboard_time": 1738426938,
@@ -291,7 +291,7 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 115775,
+      "raw_hot": 117273,
       "num": 98119,
       "word": "陈哲远憋不了一点",
       "onboard_time": 1738427298,
@@ -403,6 +403,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 75868,
+      "num": 70146,
+      "word": "敖光",
+      "onboard_time": 1738407137,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 68398,
       "num": 95223,
       "word": "吃胖的小肚子最怕这三个动作",
@@ -427,12 +435,20 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 57078,
+      "raw_hot": 58376,
       "num": 73564,
       "word": "高速逆行致轿车撞护栏的骑车人已被挡获",
       "onboard_time": 1738428735,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55529,
+      "num": 71224,
+      "word": "伯恩茅斯0比2利物浦",
+      "onboard_time": 1738430655,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 53729,
@@ -441,6 +457,14 @@
       "onboard_time": 1738403717,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49618,
+      "num": 70546,
+      "word": "初五财蛇到",
+      "onboard_time": 1738430715,
+      "rank": 33,
+      "category": "民生新闻,幽默"
     },
     {
       "raw_hot": 49202,

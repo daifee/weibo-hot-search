@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738430314867,
+  "endTime": 1738431309058,
   "band_list": [
     {
       "raw_hot": 2254313,
@@ -89,6 +89,14 @@
       "onboard_time": 1738405697,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1154235,
+      "num": 1154235,
+      "word": "三亚紧急发布6条措施明日实施",
+      "onboard_time": 1738430234,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1090797,
@@ -385,14 +393,6 @@
       "onboard_time": 1738406539,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 572613,
-      "num": 572613,
-      "word": "三亚紧急发布6条措施明日实施",
-      "onboard_time": 1738430234,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 572368,
@@ -1035,6 +1035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245646,
+      "num": 349745,
+      "word": "初五过年习俗",
+      "onboard_time": 1738426938,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 245337,
       "num": 153471,
       "word": "各省特色饮料",
@@ -1169,14 +1177,6 @@
       "onboard_time": 1738326858,
       "rank": 41,
       "category": "国际时政,互联网"
-    },
-    {
-      "raw_hot": 219929,
-      "num": 349745,
-      "word": "初五过年习俗",
-      "onboard_time": 1738426938,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 218905,
@@ -2299,6 +2299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117273,
+      "num": 98119,
+      "word": "陈哲远憋不了一点",
+      "onboard_time": 1738427298,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116365,
       "num": 116365,
       "word": "丁程鑫被侄子要求跳街舞",
@@ -2313,14 +2321,6 @@
       "onboard_time": 1738323799,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 115775,
-      "num": 98119,
-      "word": "陈哲远憋不了一点",
-      "onboard_time": 1738427298,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 115290,
@@ -3011,6 +3011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58376,
+      "num": 73564,
+      "word": "高速逆行致轿车撞护栏的骑车人已被挡获",
+      "onboard_time": 1738428735,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57633,
       "num": 185848,
       "word": "宠物们一定也知道过年了吧",
@@ -3027,14 +3035,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 57078,
-      "num": 73564,
-      "word": "高速逆行致轿车撞护栏的骑车人已被挡获",
-      "onboard_time": 1738428735,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 55927,
       "num": 350097,
       "word": "这些文物都与蛇有关",
@@ -3049,6 +3049,14 @@
       "onboard_time": 1738325778,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 55529,
+      "num": 71224,
+      "word": "伯恩茅斯0比2利物浦",
+      "onboard_time": 1738430655,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 53116,
@@ -3073,6 +3081,14 @@
       "onboard_time": 1738416558,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49618,
+      "num": 70546,
+      "word": "初五财蛇到",
+      "onboard_time": 1738430715,
+      "rank": 33,
+      "category": "民生新闻,幽默"
     },
     {
       "raw_hot": 46990,
