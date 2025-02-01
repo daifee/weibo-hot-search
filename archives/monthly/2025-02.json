@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738414352768,
+  "endTime": 1738416102453,
   "band_list": [
     {
       "raw_hot": 2232738,
@@ -67,12 +67,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1063811,
-      "num": 399582,
+      "raw_hot": 1090797,
+      "num": 470404,
       "word": "没想过是梁洁但意外合适",
       "onboard_time": 1738408637,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1077179,
+      "num": 379749,
+      "word": "哪吒3",
+      "onboard_time": 1738410378,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 1047525,
@@ -129,14 +137,6 @@
       "onboard_time": 1738396218,
       "rank": 4,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 923294,
-      "num": 324583,
-      "word": "哪吒3",
-      "onboard_time": 1738410378,
-      "rank": 10,
-      "category": "电影"
     },
     {
       "raw_hot": 876498,
@@ -241,6 +241,14 @@
       "onboard_time": 1738331600,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 587879,
+      "num": 587879,
+      "word": "女生一觉醒来相亲对象已站床边",
+      "onboard_time": 1738415179,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 584163,
@@ -411,6 +419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 444388,
+      "num": 444388,
+      "word": "机场调查乘客疑似飞机上捡到鞭炮",
+      "onboard_time": 1738414458,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 441563,
       "num": 189201,
       "word": "李昀锐挑染",
@@ -432,6 +448,14 @@
       "word": "李小冉说我是没有一个官司在身上的",
       "onboard_time": 1738385598,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 427196,
+      "num": 282700,
+      "word": "赵露思新旧混发日常",
+      "onboard_time": 1738413317,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -715,20 +739,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 294843,
+      "num": 294843,
+      "word": "费城坠毁飞机上的女孩刚做了救命手术",
+      "onboard_time": 1738415417,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 286629,
       "num": 286629,
       "word": "王楚钦可爱童年照",
       "onboard_time": 1738392316,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 282700,
-      "num": 282700,
-      "word": "赵露思新旧混发日常",
-      "onboard_time": 1738413317,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 280742,
@@ -761,6 +785,14 @@
       "onboard_time": 1738394416,
       "rank": 46,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 270127,
+      "num": 175127,
+      "word": "李雪琴自曝过年爱走亲戚",
+      "onboard_time": 1738414397,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 266062,
@@ -1155,6 +1187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189568,
+      "num": 309908,
+      "word": "人民日报整版聚焦春节档",
+      "onboard_time": 1738413079,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189487,
       "num": 145927,
       "word": "云秀行",
@@ -1459,6 +1499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159125,
+      "num": 159125,
+      "word": "憋一周就为这一秒爽",
+      "onboard_time": 1738414397,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158582,
       "num": 158582,
       "word": "T1对战GEN",
@@ -1515,6 +1563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 154727,
+      "num": 212386,
+      "word": "拍射雕的3个初衷",
+      "onboard_time": 1738410199,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 152445,
       "num": 122204,
       "word": "哪吒2里的反父权",
@@ -1561,6 +1617,14 @@
       "onboard_time": 1738337058,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 146664,
+      "num": 146664,
+      "word": "山东一道名菜被全网盯上了",
+      "onboard_time": 1738414878,
+      "rank": 34,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 146067,
@@ -1643,14 +1707,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 141005,
-      "num": 212386,
-      "word": "拍射雕的3个初衷",
-      "onboard_time": 1738410199,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 140514,
       "num": 140514,
       "word": "北京下雪",
@@ -1713,6 +1769,14 @@
       "onboard_time": 1738394656,
       "rank": 47,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 133222,
+      "num": 316601,
+      "word": "OpenAI首席执行官谈DeepSeek",
+      "onboard_time": 1738413438,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 133216,
@@ -1795,12 +1859,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125811,
-      "num": 309908,
-      "word": "人民日报整版聚焦春节档",
-      "onboard_time": 1738413079,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 125830,
+      "num": 125830,
+      "word": "苏敏阿姨说对射雕的江湖观很有感触",
+      "onboard_time": 1738415960,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 125653,
@@ -2227,6 +2291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90882,
+      "num": 140338,
+      "word": "高速上为救人女子喊到声音嘶哑",
+      "onboard_time": 1738413438,
+      "rank": 49,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 90703,
       "num": 143646,
       "word": "李雨霏再发文",
@@ -2387,22 +2459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 75486,
-      "num": 140338,
-      "word": "高速上为救人女子喊到声音嘶哑",
-      "onboard_time": 1738413438,
-      "rank": 49,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 74831,
-      "num": 316601,
-      "word": "OpenAI首席执行官谈DeepSeek",
-      "onboard_time": 1738413438,
-      "rank": 34,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 74646,
       "num": 74646,
       "word": "斗破苍穹",
@@ -2417,6 +2473,22 @@
       "onboard_time": 1738404857,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74227,
+      "num": 181265,
+      "word": "黄友政3比1法尔克",
+      "onboard_time": 1738415060,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 73080,
+      "num": 247355,
+      "word": "美军用直升机撞机时在执行重要任务",
+      "onboard_time": 1738414937,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 71523,
@@ -2473,6 +2545,14 @@
       "onboard_time": 1738351213,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 62498,
+      "num": 308965,
+      "word": "deepseek点亮了科技树的分枝",
+      "onboard_time": 1738413618,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 61650,
@@ -2545,14 +2625,6 @@
       "onboard_time": 1738381097,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 46663,
-      "num": 308965,
-      "word": "deepseek点亮了科技树的分枝",
-      "onboard_time": 1738413618,
-      "rank": 19,
-      "category": "互联网"
     },
     {
       "raw_hot": 45943,
