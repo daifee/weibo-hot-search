@@ -1,0 +1,410 @@
+{
+  "runTime": 1738380393472,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 860989,
+        "num": 1137758,
+        "word": "哪吒2票房逆跌",
+        "onboard_time": 1738334779,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 839289,
+        "num": 839289,
+        "word": "大年初四全国人民都挺忙",
+        "onboard_time": 1738373236,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52306,
+        "num": 815934,
+        "word": "中国人的春节传统走向世界了",
+        "onboard_time": 1738324099,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1392477,
+        "num": 815358,
+        "word": "李小冉回应退繁花群",
+        "onboard_time": 1738370415,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 814293,
+        "num": 814293,
+        "word": "金价",
+        "onboard_time": 1738376776,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 711363,
+        "num": 711363,
+        "word": "DeepSeek高情商",
+        "onboard_time": 1738371496,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 706839,
+        "num": 706839,
+        "word": "马丽方律师声明",
+        "onboard_time": 1738372997,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427786,
+        "num": 427786,
+        "word": "美国四天四架飞机失事",
+        "onboard_time": 1738372276,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 294080,
+        "num": 294080,
+        "word": "小女孩被海浪卷走小哥不顾危险救人",
+        "onboard_time": 1738367654,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 274729,
+        "num": 274729,
+        "word": "哪吒2预测总票房超67.4亿",
+        "onboard_time": 1738368434,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 402735,
+        "num": 272912,
+        "word": "哪吒2或成影史新票房冠军",
+        "onboard_time": 1738372516,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 452237,
+        "num": 265996,
+        "word": "哪吒导演回应啃老三年",
+        "onboard_time": 1738369276,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 328866,
+        "num": 265297,
+        "word": "九重紫番外昭世录",
+        "onboard_time": 1738379597,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258751,
+        "num": 258751,
+        "word": "李小冉深夜回怼网友",
+        "onboard_time": 1738375757,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243647,
+        "num": 243647,
+        "word": "春运期间退票为啥这么贵",
+        "onboard_time": 1738378817,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218237,
+        "num": 218237,
+        "word": "一架小型飞机在美国费城坠毁",
+        "onboard_time": 1738369935,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 200365,
+        "num": 200365,
+        "word": "印度称DeepSeek很快部署在当地服务器",
+        "onboard_time": 1738377978,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 181553,
+        "num": 181553,
+        "word": "我是老君山肚子里的洞",
+        "onboard_time": 1738373477,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152620,
+        "num": 152620,
+        "word": "埃文凯尔原定来华30天待90天不愿走",
+        "onboard_time": 1738378576,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150394,
+        "num": 150394,
+        "word": "DeepSeek在美商标被梁文锋校友抢注",
+        "onboard_time": 1738376837,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 327441,
+        "num": 149901,
+        "word": "正月初一男子在女友家饭桌上被带走",
+        "onboard_time": 1738366272,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266651,
+        "num": 148735,
+        "word": "女子除夕错转1万元红包给陌生人",
+        "onboard_time": 1738365553,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256192,
+        "num": 147665,
+        "word": "黑妮曝王菲父母哥哥均已离世",
+        "onboard_time": 1738332320,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205534,
+        "num": 147158,
+        "word": "于适 我们只想要公平",
+        "onboard_time": 1738337421,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 61650,
+        "num": 146038,
+        "word": "媒人成农村婚配市场的关键人物",
+        "onboard_time": 1738379777,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171910,
+        "num": 145287,
+        "word": "2025春节档总票房超50亿",
+        "onboard_time": 1738370055,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 166989,
+        "num": 144626,
+        "word": "春晚带火了四大城市",
+        "onboard_time": 1738344614,
+        "rank": 26,
+        "category": "综艺,旅游"
+      },
+      {
+        "raw_hot": 165777,
+        "num": 143030,
+        "word": "白色橄榄树开播",
+        "onboard_time": 1738378636,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159915,
+        "num": 142514,
+        "word": "封神的哈基米上新了",
+        "onboard_time": 1738380137,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141986,
+        "num": 141986,
+        "word": "唐探拍摄地火得不像样",
+        "onboard_time": 1738377856,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140514,
+        "num": 140514,
+        "word": "北京下雪",
+        "onboard_time": 1738378517,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139668,
+        "num": 139668,
+        "word": "钟辰乐空降",
+        "onboard_time": 1738379477,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135151,
+        "num": 135151,
+        "word": "徐克好奇金庸看侠之大者反应",
+        "onboard_time": 1738371375,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132018,
+        "num": 132018,
+        "word": "金智秀专辑封面",
+        "onboard_time": 1738379597,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 131013,
+        "num": 131013,
+        "word": "易烊千玺5年变化",
+        "onboard_time": 1738378936,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128781,
+        "num": 128781,
+        "word": "美官方称有能力恢复失事飞机黑匣子数据",
+        "onboard_time": 1738373236,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 124377,
+        "num": 124377,
+        "word": "刘昊然 振邦哥哥别笑了我害怕",
+        "onboard_time": 1738377497,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120902,
+        "num": 120902,
+        "word": "孙颖莎备战边训练边做数学题",
+        "onboard_time": 1738374976,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114605,
+        "num": 114605,
+        "word": "县城正在消失的老头乐",
+        "onboard_time": 1738375217,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112650,
+        "num": 112650,
+        "word": "FBI大裁员",
+        "onboard_time": 1738379898,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 122540,
+        "num": 112117,
+        "word": "李昀锐挑染",
+        "onboard_time": 1738336339,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114379,
+        "num": 110668,
+        "word": "白色橄榄树",
+        "onboard_time": 1738365553,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108500,
+        "num": 108500,
+        "word": "男子晒家里过年前后视频对比明显",
+        "onboard_time": 1738378817,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110505,
+        "num": 107657,
+        "word": "苹果很甜",
+        "onboard_time": 1738377737,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105463,
+        "num": 105463,
+        "word": "唐探拍摄地客流暴涨",
+        "onboard_time": 1738376955,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104884,
+        "num": 104884,
+        "word": "美国对墨西哥和加拿大商品征收25%关税",
+        "onboard_time": 1738367234,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104715,
+        "num": 104715,
+        "word": "大年初四接灶王",
+        "onboard_time": 1738345094,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102342,
+        "num": 102342,
+        "word": "藕饼",
+        "onboard_time": 1738334961,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101377,
+        "num": 101377,
+        "word": "春节平均每家产生近2kg剩菜剩饭",
+        "onboard_time": 1738365613,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100284,
+        "num": 100284,
+        "word": "大年初四灶王爷是C位",
+        "onboard_time": 1738376597,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#注重家庭注重家教注重家风#"
+    }
+  }
+}

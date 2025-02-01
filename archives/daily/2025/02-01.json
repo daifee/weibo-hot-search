@@ -1,10 +1,10 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738378911815,
+  "endTime": 1738380393472,
   "band_list": [
     {
       "raw_hot": 1493250,
-      "num": 666207,
+      "num": 815358,
       "word": "李小冉回应退繁花群",
       "onboard_time": 1738370415,
       "rank": 3,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 991425,
-      "num": 522737,
+      "num": 706839,
       "word": "马丽方律师声明",
       "onboard_time": 1738372997,
       "rank": 11,
@@ -59,12 +59,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 814293,
+      "num": 814293,
+      "word": "金价",
+      "onboard_time": 1738376776,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 716626,
       "num": 347968,
       "word": "黑妮曝王菲父母哥哥均已离世",
       "onboard_time": 1738332320,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 711363,
+      "num": 711363,
+      "word": "DeepSeek高情商",
+      "onboard_time": 1738371496,
+      "rank": 5,
+      "category": "互联网"
     },
     {
       "raw_hot": 592280,
@@ -81,14 +97,6 @@
       "onboard_time": 1738334001,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 516270,
-      "num": 516270,
-      "word": "金价",
-      "onboard_time": 1738376776,
-      "rank": 8,
-      "category": "财经"
     },
     {
       "raw_hot": 499165,
@@ -123,12 +131,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 427786,
+      "num": 427786,
+      "word": "美国四天四架飞机失事",
+      "onboard_time": 1738372276,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 421979,
       "num": 351095,
       "word": "特朗普将会见黄仁勋",
       "onboard_time": 1738368495,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 402735,
+      "num": 272912,
+      "word": "哪吒2或成影史新票房冠军",
+      "onboard_time": 1738372516,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 399068,
@@ -179,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 328866,
+      "num": 265297,
+      "word": "九重紫番外昭世录",
+      "onboard_time": 1738379597,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 327194,
       "num": 186268,
       "word": "哪吒2票房破18亿",
@@ -211,20 +243,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 273616,
-      "num": 273616,
-      "word": "美国四天四架飞机失事",
-      "onboard_time": 1738372276,
-      "rank": 35,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 258797,
       "num": 153519,
       "word": "哪吒2",
       "onboard_time": 1738328359,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 258751,
+      "num": 258751,
+      "word": "李小冉深夜回怼网友",
+      "onboard_time": 1738375757,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 256172,
@@ -235,14 +267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 254755,
-      "num": 254755,
-      "word": "哪吒2或成影史新票房冠军",
-      "onboard_time": 1738372516,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 252881,
       "num": 252881,
       "word": "春节平均每家产生近2kg剩菜剩饭",
@@ -251,20 +275,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 252746,
-      "num": 252746,
-      "word": "李小冉深夜回怼网友",
-      "onboard_time": 1738375757,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 250611,
       "num": 186255,
       "word": "封神2妲己严选的女孩是艾米",
       "onboard_time": 1738323319,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 243647,
+      "num": 243647,
+      "word": "春运期间退票为啥这么贵",
+      "onboard_time": 1738378817,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 242395,
@@ -339,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200365,
+      "num": 200365,
+      "word": "印度称DeepSeek很快部署在当地服务器",
+      "onboard_time": 1738377978,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 195260,
       "num": 179546,
       "word": "白色橄榄树",
@@ -361,14 +393,6 @@
       "onboard_time": 1738334719,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 188089,
-      "num": 188089,
-      "word": "印度称DeepSeek很快部署在当地服务器",
-      "onboard_time": 1738377978,
-      "rank": 40,
-      "category": "互联网"
     },
     {
       "raw_hot": 187837,
@@ -443,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165777,
+      "num": 143030,
+      "word": "白色橄榄树开播",
+      "onboard_time": 1738378636,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163937,
       "num": 134369,
       "word": "蛇年春晚你还在循环播放哪首歌",
@@ -459,12 +491,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 161197,
-      "num": 142682,
-      "word": "白色橄榄树开播",
-      "onboard_time": 1738378636,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 159915,
+      "num": 142514,
+      "word": "封神的哈基米上新了",
+      "onboard_time": 1738380137,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 156044,
@@ -473,6 +505,22 @@
       "onboard_time": 1738339518,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 152620,
+      "num": 152620,
+      "word": "埃文凯尔原定来华30天待90天不愿走",
+      "onboard_time": 1738378576,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150394,
+      "num": 150394,
+      "word": "DeepSeek在美商标被梁文锋校友抢注",
+      "onboard_time": 1738376837,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 149301,
@@ -507,6 +555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141986,
+      "num": 141986,
+      "word": "唐探拍摄地火得不像样",
+      "onboard_time": 1738377856,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 141837,
       "num": 141837,
       "word": "给妹妹1000元帮我扛下所有战火",
@@ -521,6 +577,22 @@
       "onboard_time": 1738329919,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 140514,
+      "num": 140514,
+      "word": "北京下雪",
+      "onboard_time": 1738378517,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139668,
+      "num": 139668,
+      "word": "钟辰乐空降",
+      "onboard_time": 1738379477,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 138987,
@@ -547,14 +619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 134116,
-      "num": 131726,
-      "word": "DeepSeek在美商标被梁文锋校友抢注",
-      "onboard_time": 1738376837,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 133216,
       "num": 133216,
       "word": "乙巳蛇年为啥会出现两头春",
@@ -563,12 +627,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132018,
+      "num": 132018,
+      "word": "金智秀专辑封面",
+      "onboard_time": 1738379597,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 131013,
+      "num": 131013,
+      "word": "易烊千玺5年变化",
+      "onboard_time": 1738378936,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126558,
       "num": 126558,
       "word": "县城正在消失的老头乐",
       "onboard_time": 1738375217,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124377,
+      "num": 124377,
+      "word": "刘昊然 振邦哥哥别笑了我害怕",
+      "onboard_time": 1738377497,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 123928,
@@ -603,14 +691,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 118082,
-      "num": 118082,
-      "word": "唐探拍摄地火得不像样",
-      "onboard_time": 1738377856,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 116365,
       "num": 116365,
       "word": "丁程鑫被侄子要求跳街舞",
@@ -635,14 +715,6 @@
       "category": "演出,体育"
     },
     {
-      "raw_hot": 114780,
-      "num": 112982,
-      "word": "刘昊然 振邦哥哥别笑了我害怕",
-      "onboard_time": 1738377497,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 114156,
       "num": 114156,
       "word": "张新成 那么大张脸",
@@ -659,12 +731,12 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 112971,
-      "num": 112971,
-      "word": "埃文凯尔原定来华30天待90天不愿走",
-      "onboard_time": 1738378576,
+      "raw_hot": 112650,
+      "num": 112650,
+      "word": "FBI大裁员",
+      "onboard_time": 1738379898,
       "rank": 39,
-      "category": "民生新闻"
+      "category": "海外新闻"
     },
     {
       "raw_hot": 112546,
@@ -691,11 +763,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105865,
-      "num": 105865,
-      "word": "北京下雪",
-      "onboard_time": 1738378517,
-      "rank": 43,
+      "raw_hot": 108500,
+      "num": 108500,
+      "word": "男子晒家里过年前后视频对比明显",
+      "onboard_time": 1738378817,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -705,6 +777,14 @@
       "onboard_time": 1738375096,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104884,
+      "num": 104884,
+      "word": "美国对墨西哥和加拿大商品征收25%关税",
+      "onboard_time": 1738367234,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 103150,
@@ -721,22 +801,6 @@
       "onboard_time": 1738375336,
       "rank": 47,
       "category": "国内时政,互联网"
-    },
-    {
-      "raw_hot": 102150,
-      "num": 102150,
-      "word": "美国对墨西哥和加拿大商品征收25%关税",
-      "onboard_time": 1738367234,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 100845,
-      "num": 100845,
-      "word": "男子晒家里过年前后视频对比明显",
-      "onboard_time": 1738378817,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 100542,
@@ -756,7 +820,7 @@
     },
     {
       "raw_hot": 93621,
-      "num": 671970,
+      "num": 815934,
       "word": "中国人的春节传统走向世界了",
       "onboard_time": 1738324099,
       "rank": 2,
@@ -859,14 +923,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 67553,
-      "num": 139108,
-      "word": "春运期间退票为啥这么贵",
-      "onboard_time": 1738378817,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 65265,
       "num": 114241,
       "word": "王一博萧敬腾春晚我可以",
@@ -881,6 +937,14 @@
       "onboard_time": 1738351213,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 61650,
+      "num": 146038,
+      "word": "媒人成农村婚配市场的关键人物",
+      "onboard_time": 1738379777,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57633,
