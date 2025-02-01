@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738434412499,
+  "endTime": 1738435179187,
   "band_list": [
     {
       "raw_hot": 1154235,
@@ -443,6 +443,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 64030,
+      "num": 35074,
+      "word": "哪吒2魔童闹海",
+      "onboard_time": 1738434314,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 55529,
       "num": 71224,
       "word": "伯恩茅斯0比2利物浦",
@@ -457,6 +465,14 @@
       "onboard_time": 1738403717,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53103,
+      "num": 38474,
+      "word": "宝妈着急上厕所把孩子交给武警",
+      "onboard_time": 1738430475,
+      "rank": 29,
+      "category": "正能量"
     },
     {
       "raw_hot": 49618,
@@ -483,14 +499,6 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 35074,
-      "num": 35074,
-      "word": "哪吒2魔童闹海",
-      "onboard_time": 1738434314,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 34822,
       "num": 61663,
       "word": "DeepSeek下载量霸占140多个国家榜首",
@@ -499,20 +507,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 32867,
-      "num": 38474,
-      "word": "宝妈着急上厕所把孩子交给武警",
-      "onboard_time": 1738430475,
-      "rank": 29,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 28083,
       "num": 686128,
       "word": "文化中国行非遗雅韵中国年",
       "onboard_time": 1738420759,
       "rank": 2,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 21938,
+      "num": 30809,
+      "word": "三亚就游客滞留码头事件发布措施",
+      "onboard_time": 1738434492,
+      "rank": 49,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
