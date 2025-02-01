@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738427935197,
+  "endTime": 1738430314867,
   "band_list": [
     {
       "raw_hot": 1061357,
@@ -9,6 +9,14 @@
       "onboard_time": 1738415179,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 744060,
+      "num": 744060,
+      "word": "于冬反问无名只配6.6分吗",
+      "onboard_time": 1738426457,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 701613,
@@ -27,7 +35,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 643532,
+      "raw_hot": 664744,
       "num": 643532,
       "word": "石矶娘娘",
       "onboard_time": 1738424178,
@@ -57,6 +65,14 @@
       "onboard_time": 1738417221,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 572613,
+      "num": 572613,
+      "word": "三亚紧急发布6条措施明日实施",
+      "onboard_time": 1738430234,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 572368,
@@ -99,16 +115,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 426729,
-      "num": 318646,
-      "word": "于冬反问无名只配6.6分吗",
-      "onboard_time": 1738426457,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 385681,
-      "num": 140911,
+      "num": 185906,
       "word": "哪吒",
       "onboard_time": 1738409000,
       "rank": 20,
@@ -283,12 +291,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 114006,
+      "raw_hot": 115775,
       "num": 98119,
       "word": "陈哲远憋不了一点",
       "onboard_time": 1738427298,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113066,
+      "num": 113066,
+      "word": "封神第二部票房破8亿",
+      "onboard_time": 1738428677,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 109690,
@@ -411,6 +427,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 57078,
+      "num": 73564,
+      "word": "高速逆行致轿车撞护栏的骑车人已被挡获",
+      "onboard_time": 1738428735,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53729,
       "num": 92164,
       "word": "新女婿喝4碗自家酿酒醉倒被抬进屋",
@@ -433,6 +457,14 @@
       "onboard_time": 1738419140,
       "rank": 49,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 34822,
+      "num": 61663,
+      "word": "DeepSeek下载量霸占140多个国家榜首",
+      "onboard_time": 1738418119,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 28083,

@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738427935197,
+  "endTime": 1738430314867,
   "band_list": [
     {
       "raw_hot": 2254313,
@@ -243,6 +243,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 744060,
+      "num": 744060,
+      "word": "于冬反问无名只配6.6分吗",
+      "onboard_time": 1738426457,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 735941,
       "num": 735941,
       "word": "多方回应网传乘客在飞机上捡到鞭炮",
@@ -307,7 +315,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 643532,
+      "raw_hot": 664744,
       "num": 643532,
       "word": "石矶娘娘",
       "onboard_time": 1738424178,
@@ -377,6 +385,14 @@
       "onboard_time": 1738406539,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 572613,
+      "num": 572613,
+      "word": "三亚紧急发布6条措施明日实施",
+      "onboard_time": 1738430234,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 572368,
@@ -561,14 +577,6 @@
       "onboard_time": 1738385598,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 426729,
-      "num": 318646,
-      "word": "于冬反问无名只配6.6分吗",
-      "onboard_time": 1738426457,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 425460,
@@ -2307,6 +2315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 115775,
+      "num": 98119,
+      "word": "陈哲远憋不了一点",
+      "onboard_time": 1738427298,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115290,
       "num": 115290,
       "word": "易烊千玺单依纯双语唱响亚冬会",
@@ -2355,12 +2371,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 114006,
-      "num": 98119,
-      "word": "陈哲远憋不了一点",
-      "onboard_time": 1738427298,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 113066,
+      "num": 113066,
+      "word": "封神第二部票房破8亿",
+      "onboard_time": 1738428677,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 112546,
@@ -3009,6 +3025,14 @@
       "onboard_time": 1738320799,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 57078,
+      "num": 73564,
+      "word": "高速逆行致轿车撞护栏的骑车人已被挡获",
+      "onboard_time": 1738428735,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55927,
