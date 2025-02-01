@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738384776981,
+  "endTime": 1738387225134,
   "band_list": [
     {
       "raw_hot": 1597648,
@@ -19,8 +19,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1355089,
-      "num": 1355089,
+      "raw_hot": 1411944,
+      "num": 1411944,
       "word": "向太每天转发恶评到繁花群",
       "onboard_time": 1738382598,
       "rank": 0,
@@ -115,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 521656,
+      "num": 283389,
+      "word": "陈哲远梁洁五年前vs五年后",
+      "onboard_time": 1738385537,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 514405,
       "num": 514405,
       "word": "九重紫番外昭世录",
@@ -153,6 +161,14 @@
       "onboard_time": 1738344614,
       "rank": 11,
       "category": "综艺,旅游"
+    },
+    {
+      "raw_hot": 454265,
+      "num": 281798,
+      "word": "白鹿过年也得给家人表演节目",
+      "onboard_time": 1738384459,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 441563,
@@ -235,6 +251,30 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 353904,
+      "num": 353904,
+      "word": "DeepSeek在美商标被梁文锋校友抢注",
+      "onboard_time": 1738376837,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 349950,
+      "num": 279636,
+      "word": "哪吒2",
+      "onboard_time": 1738328359,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 339821,
+      "num": 272694,
+      "word": "九重紫短剧",
+      "onboard_time": 1738381878,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 335785,
       "num": 187243,
       "word": "女子除夕错转1万元红包给陌生人",
@@ -259,12 +299,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 328990,
-      "num": 328990,
-      "word": "DeepSeek在美商标被梁文锋校友抢注",
-      "onboard_time": 1738376837,
-      "rank": 30,
-      "category": "互联网"
+      "raw_hot": 328218,
+      "num": 161758,
+      "word": "老敖这一家子顶级魅魔",
+      "onboard_time": 1738384696,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 327194,
@@ -291,12 +331,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 292872,
-      "num": 187588,
-      "word": "九重紫短剧",
-      "onboard_time": 1738381878,
-      "rank": 23,
-      "category": "剧集"
+      "raw_hot": 304984,
+      "num": 304984,
+      "word": "哪吒2敖丙和他爸要帅到一个底子上",
+      "onboard_time": 1738383077,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 280742,
@@ -323,12 +363,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 258797,
-      "num": 153519,
-      "word": "哪吒2",
-      "onboard_time": 1738328359,
+      "raw_hot": 271123,
+      "num": 271123,
+      "word": "李小冉说我是没有一个官司在身上的",
+      "onboard_time": 1738385598,
       "rank": 16,
-      "category": "电影"
+      "category": "艺人"
     },
     {
       "raw_hot": 258751,
@@ -379,6 +419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 240536,
+      "num": 174140,
+      "word": "射雕",
+      "onboard_time": 1738384038,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 235108,
       "num": 235108,
       "word": "蛇是怎么混进十二生肖的",
@@ -409,6 +457,22 @@
       "onboard_time": 1738382295,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224813,
+      "num": 114794,
+      "word": "颜安帮助理姐征婚",
+      "onboard_time": 1738384398,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 221692,
+      "num": 221692,
+      "word": "三家美国巨头同日接入DeepSeek",
+      "onboard_time": 1738385358,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 221623,
@@ -451,19 +515,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206525,
-      "num": 179385,
-      "word": "白鹿过年也得给家人表演节目",
-      "onboard_time": 1738384459,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 203361,
       "num": 203361,
       "word": "大年初四灶王爷是C位",
       "onboard_time": 1738376597,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195537,
+      "num": 179955,
+      "word": "父亲离世儿子过年回家独坐门口落泪",
+      "onboard_time": 1738382777,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -481,6 +545,14 @@
       "onboard_time": 1738378636,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193349,
+      "num": 98407,
+      "word": "我家那小子",
+      "onboard_time": 1738386139,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 192846,
@@ -555,14 +627,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 182840,
-      "num": 174140,
-      "word": "射雕",
-      "onboard_time": 1738384038,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
       "raw_hot": 182350,
       "num": 182350,
       "word": "韦德因癌症切除部分肾脏",
@@ -571,12 +635,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 179955,
-      "num": 179955,
-      "word": "父亲离世儿子过年回家独坐门口落泪",
-      "onboard_time": 1738382777,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 181605,
+      "num": 98070,
+      "word": "九重紫",
+      "onboard_time": 1738386618,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 178175,
@@ -619,11 +683,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 170542,
-      "num": 99653,
-      "word": "颜安帮助理姐征婚",
-      "onboard_time": 1738384398,
-      "rank": 40,
+      "raw_hot": 166171,
+      "num": 111096,
+      "word": "迪丽热巴二月行程送达",
+      "onboard_time": 1738385598,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -640,6 +704,14 @@
       "word": "蛇年春晚你还在循环播放哪首歌",
       "onboard_time": 1738335801,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 163500,
+      "num": 97198,
+      "word": "向佐感谢薛之谦",
+      "onboard_time": 1738385059,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -707,12 +779,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 143693,
-      "num": 109303,
-      "word": "哪吒2敖丙和他爸要帅到一个底子上",
-      "onboard_time": 1738383077,
-      "rank": 35,
-      "category": "电影"
+      "raw_hot": 143717,
+      "num": 92945,
+      "word": "你好星期六",
+      "onboard_time": 1738386798,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 142899,
@@ -817,6 +889,14 @@
       "onboard_time": 1738377497,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 128776,
+      "num": 97043,
+      "word": "张婧仪的电台",
+      "onboard_time": 1738386496,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 126558,
@@ -1003,12 +1083,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 97880,
-      "num": 97880,
+      "raw_hot": 98655,
+      "num": 98655,
       "word": "曝苹果接近确定折叠显示屏供应商",
       "onboard_time": 1738381998,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 96868,
+      "num": 339049,
+      "word": "春节聚餐警惕吃出来的病",
+      "onboard_time": 1738382358,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 95742,
@@ -1108,7 +1196,7 @@
     },
     {
       "raw_hot": 78384,
-      "num": 78384,
+      "num": 81237,
       "word": "OpenAI奥特曼因DeepSeek反思",
       "onboard_time": 1738384278,
       "rank": 45,
@@ -1147,14 +1235,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 66987,
-      "num": 339049,
-      "word": "春节聚餐警惕吃出来的病",
-      "onboard_time": 1738382358,
-      "rank": 9,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 65265,
       "num": 114241,
       "word": "王一博萧敬腾春晚我可以",
@@ -1179,6 +1259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59814,
+      "num": 274522,
+      "word": "特朗普称黑鹰直升机飞得太高",
+      "onboard_time": 1738385778,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 57633,
       "num": 185848,
       "word": "宠物们一定也知道过年了吧",
@@ -1201,6 +1289,14 @@
       "onboard_time": 1738325778,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 53816,
+      "num": 290050,
+      "word": "大年初四北京下雪",
+      "onboard_time": 1738385839,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53116,

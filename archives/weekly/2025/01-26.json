@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738384776981,
+  "endTime": 1738387225134,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -739,6 +739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1411944,
+      "num": 1411944,
+      "word": "向太每天转发恶评到繁花群",
+      "onboard_time": 1738382598,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1411529,
       "num": 476049,
       "word": "吐排片",
@@ -761,14 +769,6 @@
       "onboard_time": 1738058423,
       "rank": 20,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1355089,
-      "num": 1355089,
-      "word": "向太每天转发恶评到繁花群",
-      "onboard_time": 1738382598,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1337627,
@@ -3123,6 +3123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 521656,
+      "num": 283389,
+      "word": "陈哲远梁洁五年前vs五年后",
+      "onboard_time": 1738385537,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 520390,
       "num": 276256,
       "word": "哪吒2打破国漫天花板",
@@ -3777,6 +3785,14 @@
       "onboard_time": 1737860357,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 454265,
+      "num": 281798,
+      "word": "白鹿过年也得给家人表演节目",
+      "onboard_time": 1738384459,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 453513,
@@ -4835,6 +4851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 353904,
+      "num": 353904,
+      "word": "DeepSeek在美商标被梁文锋校友抢注",
+      "onboard_time": 1738376837,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 353264,
       "num": 230379,
       "word": "比尔盖茨说离婚后成了空巢老人",
@@ -5009,6 +5033,14 @@
       "onboard_time": 1737818301,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 339821,
+      "num": 272694,
+      "word": "九重紫短剧",
+      "onboard_time": 1738381878,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 339715,
@@ -5211,19 +5243,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 328990,
-      "num": 328990,
-      "word": "DeepSeek在美商标被梁文锋校友抢注",
-      "onboard_time": 1738376837,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 328711,
       "num": 328711,
       "word": "殷郊法相",
       "onboard_time": 1738127058,
       "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 328218,
+      "num": 161758,
+      "word": "老敖这一家子顶级魅魔",
+      "onboard_time": 1738384696,
+      "rank": 21,
       "category": "电影"
     },
     {
@@ -5547,6 +5579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 304984,
+      "num": 304984,
+      "word": "哪吒2敖丙和他爸要帅到一个底子上",
+      "onboard_time": 1738383077,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 303673,
       "num": 303673,
       "word": "美媒惊问DeepSeek是谁",
@@ -5713,14 +5753,6 @@
       "onboard_time": 1737949816,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 292872,
-      "num": 187588,
-      "word": "九重紫短剧",
-      "onboard_time": 1738381878,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 292720,
@@ -6048,6 +6080,14 @@
       "word": "张馨予晒何捷为她拍的雪地大片",
       "onboard_time": 1737861677,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 271123,
+      "num": 271123,
+      "word": "李小冉说我是没有一个官司在身上的",
+      "onboard_time": 1738385598,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -7083,6 +7123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224813,
+      "num": 114794,
+      "word": "颜安帮助理姐征婚",
+      "onboard_time": 1738384398,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224740,
       "num": 201171,
       "word": "央视海采发现一位爱老婆狂魔",
@@ -7153,6 +7201,14 @@
       "onboard_time": 1737987679,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221692,
+      "num": 221692,
+      "word": "三家美国巨头同日接入DeepSeek",
+      "onboard_time": 1738385358,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 221579,
@@ -7723,14 +7779,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 206525,
-      "num": 179385,
-      "word": "白鹿过年也得给家人表演节目",
-      "onboard_time": 1738384459,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 206299,
       "num": 170024,
       "word": "张艺兴陈伟霆苏有朋高清图",
@@ -8283,6 +8331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 195537,
+      "num": 179955,
+      "word": "父亲离世儿子过年回家独坐门口落泪",
+      "onboard_time": 1738382777,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 195423,
       "num": 235871,
       "word": "韩国棋院称将尽快制定统一规则",
@@ -8457,6 +8513,14 @@
       "onboard_time": 1737903739,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193349,
+      "num": 98407,
+      "word": "我家那小子",
+      "onboard_time": 1738386139,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 193197,
@@ -9171,14 +9235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 179955,
-      "num": 179955,
-      "word": "父亲离世儿子过年回家独坐门口落泪",
-      "onboard_time": 1738382777,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 179795,
       "num": 652863,
       "word": "DeepSeek暂时限制部分注册",
@@ -9643,14 +9699,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 170542,
-      "num": 99653,
-      "word": "颜安帮助理姐征婚",
-      "onboard_time": 1738384398,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 170536,
       "num": 214799,
       "word": "尤长靖分享马来西亚春节风俗",
@@ -9891,6 +9939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166171,
+      "num": 111096,
+      "word": "迪丽热巴二月行程送达",
+      "onboard_time": 1738385598,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166077,
       "num": 166077,
       "word": "因为静电小猫和我冷战三天",
@@ -10000,6 +10056,14 @@
       "word": "蛇年春晚你还在循环播放哪首歌",
       "onboard_time": 1738335801,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 163500,
+      "num": 97198,
+      "word": "向佐感谢薛之谦",
+      "onboard_time": 1738385059,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -11363,12 +11427,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 143693,
-      "num": 109303,
-      "word": "哪吒2敖丙和他爸要帅到一个底子上",
-      "onboard_time": 1738383077,
-      "rank": 35,
-      "category": "电影"
+      "raw_hot": 143717,
+      "num": 92945,
+      "word": "你好星期六",
+      "onboard_time": 1738386798,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 143474,
@@ -12449,6 +12513,14 @@
       "onboard_time": 1738036996,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128776,
+      "num": 97043,
+      "word": "张婧仪的电台",
+      "onboard_time": 1738386496,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 128627,
@@ -14827,6 +14899,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 98655,
+      "num": 98655,
+      "word": "曝苹果接近确定折叠显示屏供应商",
+      "onboard_time": 1738381998,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 98575,
       "num": 98575,
       "word": "韩国裁判说解释权归他所有",
@@ -14881,14 +14961,6 @@
       "onboard_time": 1738223778,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 97880,
-      "num": 97880,
-      "word": "曝苹果接近确定折叠显示屏供应商",
-      "onboard_time": 1738381998,
-      "rank": 48,
-      "category": "数码"
     },
     {
       "raw_hot": 97866,
@@ -14993,6 +15065,14 @@
       "onboard_time": 1738025655,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96868,
+      "num": 339049,
+      "word": "春节聚餐警惕吃出来的病",
+      "onboard_time": 1738382358,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 96847,
@@ -16372,7 +16452,7 @@
     },
     {
       "raw_hot": 78384,
-      "num": 78384,
+      "num": 81237,
       "word": "OpenAI奥特曼因DeepSeek反思",
       "onboard_time": 1738384278,
       "rank": 45,
@@ -16979,14 +17059,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 66987,
-      "num": 339049,
-      "word": "春节聚餐警惕吃出来的病",
-      "onboard_time": 1738382358,
-      "rank": 9,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 66846,
       "num": 238287,
       "word": "保洁人员调包雇主价值40余万奢侈品",
@@ -17259,6 +17331,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 59814,
+      "num": 274522,
+      "word": "特朗普称黑鹰直升机飞得太高",
+      "onboard_time": 1738385778,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 59750,
       "num": 133091,
       "word": "微软CEO说DeepSeek发展非常迅速",
@@ -17496,6 +17576,14 @@
       "word": "过年必须吃香菜是啥习俗",
       "onboard_time": 1738231518,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53816,
+      "num": 290050,
+      "word": "大年初四北京下雪",
+      "onboard_time": 1738385839,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
