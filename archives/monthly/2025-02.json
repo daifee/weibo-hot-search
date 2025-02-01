@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738452013874,
+  "endTime": 1738452932795,
   "band_list": [
     {
       "raw_hot": 2254313,
@@ -579,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 428670,
+      "num": 428670,
+      "word": "大年初五迎财神",
+      "onboard_time": 1738451652,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 425460,
       "num": 425460,
       "word": "春运期间退票为啥这么贵",
@@ -1147,6 +1155,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 227123,
+      "num": 227123,
+      "word": "夫妻狂追5分钟截停起火货车",
+      "onboard_time": 1738438871,
+      "rank": 17,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 226269,
       "num": 226269,
       "word": "中国刺绣把老虎毛绣得根根分明",
@@ -1337,14 +1353,6 @@
       "onboard_time": 1738396757,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 194413,
-      "num": 194413,
-      "word": "夫妻狂追5分钟截停起火货车",
-      "onboard_time": 1738438871,
-      "rank": 17,
-      "category": "正能量"
     },
     {
       "raw_hot": 193693,
@@ -1617,14 +1625,6 @@
       "onboard_time": 1738405998,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 171354,
-      "num": 171354,
-      "word": "大年初五迎财神",
-      "onboard_time": 1738451652,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 169665,
@@ -2107,6 +2107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 132007,
+      "num": 70176,
+      "word": "宝妈着急上厕所把孩子交给武警",
+      "onboard_time": 1738430475,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 131013,
       "num": 131013,
       "word": "易烊千玺5年变化",
@@ -2137,6 +2145,14 @@
       "onboard_time": 1738386496,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127711,
+      "num": 47526,
+      "word": "今年年夜饭预制菜在一片骂声中卖爆",
+      "onboard_time": 1738451652,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127333,
@@ -2433,14 +2449,6 @@
       "onboard_time": 1738366754,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 110439,
-      "num": 53474,
-      "word": "宝妈着急上厕所把孩子交给武警",
-      "onboard_time": 1738430475,
-      "rank": 29,
-      "category": "正能量"
     },
     {
       "raw_hot": 110011,
@@ -2867,6 +2875,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 79420,
+      "num": 79420,
+      "word": "一路繁花给蔡明整出花钱PTSD了",
+      "onboard_time": 1738450512,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 78842,
       "num": 78842,
       "word": "朕与嬛嬛何时有过嫌隙",
@@ -2939,12 +2955,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73957,
+      "num": 73957,
+      "word": "中国将担任联合国安理会轮值主席国",
+      "onboard_time": 1738451652,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 71523,
       "num": 71523,
       "word": "白衣小哥一次次冲进海中救人太帅了",
       "onboard_time": 1738384758,
       "rank": 49,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 69396,
+      "num": 69396,
+      "word": "禹事不慌张",
+      "onboard_time": 1738451713,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 69146,
@@ -3099,14 +3131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 53094,
-      "num": 53094,
-      "word": "禹事不慌张",
-      "onboard_time": 1738451713,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 51877,
       "num": 200484,
       "word": "阿鬼演我随地大小看运势",
@@ -3123,20 +3147,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 50636,
-      "num": 39174,
-      "word": "今年年夜饭预制菜在一片骂声中卖爆",
-      "onboard_time": 1738451652,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 49618,
       "num": 70546,
       "word": "初五财蛇到",
       "onboard_time": 1738430715,
       "rank": 33,
       "category": "民生新闻,幽默"
+    },
+    {
+      "raw_hot": 47462,
+      "num": 47462,
+      "word": "春晚机器人蒸的煮的还有活的",
+      "onboard_time": 1738446671,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 46990,
@@ -3169,6 +3193,14 @@
       "onboard_time": 1738370895,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 45262,
+      "num": 45262,
+      "word": "哪吒之魔童闹海",
+      "onboard_time": 1738452074,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 44348,
@@ -3219,6 +3251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 40513,
+      "num": 40513,
+      "word": "闫妮至今不知道沙溢家在哪",
+      "onboard_time": 1738443320,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40477,
       "num": 216734,
       "word": "短剧剧组春节在横店抢雪景",
@@ -3227,28 +3267,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40463,
-      "num": 40463,
-      "word": "一路繁花给蔡明整出花钱PTSD了",
-      "onboard_time": 1738450512,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 40017,
       "num": 41143,
       "word": "费城空难目前无法确认是否有幸存者",
       "onboard_time": 1738441390,
       "rank": 13,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 38008,
-      "num": 38008,
-      "word": "闫妮至今不知道沙溢家在哪",
-      "onboard_time": 1738443320,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 37688,
@@ -3283,14 +3307,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 35604,
-      "num": 35604,
-      "word": "春晚机器人蒸的煮的还有活的",
-      "onboard_time": 1738446671,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 34411,
       "num": 151533,
       "word": "郭靖被亲妈当面蛐蛐",
@@ -3321,14 +3337,6 @@
       "onboard_time": 1738315277,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 32757,
-      "num": 32757,
-      "word": "中国将担任联合国安理会轮值主席国",
-      "onboard_time": 1738451652,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 32438,
@@ -3363,6 +3371,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 31816,
+      "num": 54643,
+      "word": "儿媳过年为婆婆化妆最开心的是公公",
+      "onboard_time": 1738440191,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30668,
       "num": 30668,
       "word": "埃文凯尔哭着告别中国3月还来",
@@ -3393,14 +3409,6 @@
       "onboard_time": 1738347492,
       "rank": 47,
       "category": "电竞,体育"
-    },
-    {
-      "raw_hot": 27556,
-      "num": 54643,
-      "word": "儿媳过年为婆婆化妆最开心的是公公",
-      "onboard_time": 1738440191,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25246,

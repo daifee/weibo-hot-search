@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738452013874,
+  "endTime": 1738452932795,
   "band_list": [
     {
       "raw_hot": 1154235,
@@ -115,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 428670,
+      "num": 428670,
+      "word": "大年初五迎财神",
+      "onboard_time": 1738451652,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 385681,
       "num": 227520,
       "word": "哪吒",
@@ -179,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 227123,
+      "num": 227123,
+      "word": "夫妻狂追5分钟截停起火货车",
+      "onboard_time": 1738438871,
+      "rank": 17,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 211766,
       "num": 211766,
       "word": "一个回头救了一个家庭",
@@ -193,22 +209,6 @@
       "onboard_time": 1738408637,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 194413,
-      "num": 194413,
-      "word": "夫妻狂追5分钟截停起火货车",
-      "onboard_time": 1738438871,
-      "rank": 17,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 171354,
-      "num": 171354,
-      "word": "大年初五迎财神",
-      "onboard_time": 1738451652,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 161008,
@@ -259,12 +259,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 132007,
+      "num": 70176,
+      "word": "宝妈着急上厕所把孩子交给武警",
+      "onboard_time": 1738430475,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 128039,
       "num": 100459,
       "word": "于冬 蛟龙行动绝不撤档",
       "onboard_time": 1738406539,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 127711,
+      "num": 47526,
+      "word": "今年年夜饭预制菜在一片骂声中卖爆",
+      "onboard_time": 1738451652,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126264,
@@ -321,14 +337,6 @@
       "onboard_time": 1738428677,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 110439,
-      "num": 53474,
-      "word": "宝妈着急上厕所把孩子交给武警",
-      "onboard_time": 1738430475,
-      "rank": 29,
-      "category": "正能量"
     },
     {
       "raw_hot": 109690,
@@ -427,6 +435,14 @@
       "category": "民生新闻,美食"
     },
     {
+      "raw_hot": 79420,
+      "num": 79420,
+      "word": "一路繁花给蔡明整出花钱PTSD了",
+      "onboard_time": 1738450512,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 76102,
       "num": 96942,
       "word": "三巨头同日接入DeepSeek",
@@ -441,6 +457,22 @@
       "onboard_time": 1738407137,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 73957,
+      "num": 73957,
+      "word": "中国将担任联合国安理会轮值主席国",
+      "onboard_time": 1738451652,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 69396,
+      "num": 69396,
+      "word": "禹事不慌张",
+      "onboard_time": 1738451713,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 68398,
@@ -507,22 +539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 53094,
-      "num": 53094,
-      "word": "禹事不慌张",
-      "onboard_time": 1738451713,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 50636,
-      "num": 39174,
-      "word": "今年年夜饭预制菜在一片骂声中卖爆",
-      "onboard_time": 1738451652,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 49618,
       "num": 70546,
       "word": "初五财蛇到",
@@ -539,6 +555,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 47462,
+      "num": 47462,
+      "word": "春晚机器人蒸的煮的还有活的",
+      "onboard_time": 1738446671,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 46670,
+      "num": 46670,
+      "word": "李雪琴自曝过年爱走亲戚",
+      "onboard_time": 1738414397,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 45262,
+      "num": 45262,
+      "word": "哪吒之魔童闹海",
+      "onboard_time": 1738452074,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 43348,
       "num": 89355,
       "word": "金价大涨点燃春节购金热",
@@ -547,12 +587,12 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 40463,
-      "num": 40463,
-      "word": "一路繁花给蔡明整出花钱PTSD了",
-      "onboard_time": 1738450512,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 40513,
+      "num": 40513,
+      "word": "闫妮至今不知道沙溢家在哪",
+      "onboard_time": 1738443320,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 40017,
@@ -563,30 +603,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 38008,
-      "num": 38008,
-      "word": "闫妮至今不知道沙溢家在哪",
-      "onboard_time": 1738443320,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 36093,
-      "num": 36093,
-      "word": "李雪琴自曝过年爱走亲戚",
-      "onboard_time": 1738414397,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 35604,
-      "num": 35604,
-      "word": "春晚机器人蒸的煮的还有活的",
-      "onboard_time": 1738446671,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 34822,
       "num": 61663,
       "word": "DeepSeek下载量霸占140多个国家榜首",
@@ -595,12 +611,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 32757,
-      "num": 32757,
-      "word": "中国将担任联合国安理会轮值主席国",
-      "onboard_time": 1738451652,
-      "rank": 39,
-      "category": "国际时政"
+      "raw_hot": 31816,
+      "num": 54643,
+      "word": "儿媳过年为婆婆化妆最开心的是公公",
+      "onboard_time": 1738440191,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29678,
@@ -617,14 +633,6 @@
       "onboard_time": 1738420759,
       "rank": 2,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 27556,
-      "num": 54643,
-      "word": "儿媳过年为婆婆化妆最开心的是公公",
-      "onboard_time": 1738440191,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25246,
