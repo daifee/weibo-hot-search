@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738401692211,
+  "endTime": 1738402518079,
   "band_list": [
     {
       "raw_hot": 1597648,
@@ -27,6 +27,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1395375,
+      "num": 1395375,
+      "word": "全网都知道苏醒在迪拜买贵了",
+      "onboard_time": 1738398076,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1281311,
       "num": 1281311,
       "word": "哪吒2票房逆跌",
@@ -35,16 +43,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1273773,
-      "num": 1273773,
-      "word": "全网都知道苏醒在迪拜买贵了",
-      "onboard_time": 1738398076,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1047525,
-      "num": 451692,
+      "num": 452087,
       "word": "虞书欣张凌赫聚餐合照",
       "onboard_time": 1738394656,
       "rank": 11,
@@ -83,8 +83,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 899823,
-      "num": 899823,
+      "raw_hot": 941168,
+      "num": 941168,
       "word": "徐福记成时代眼泪了吗",
       "onboard_time": 1738396218,
       "rank": 4,
@@ -123,20 +123,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 804661,
+      "num": 450623,
+      "word": "美国4天内4机坠毁",
+      "onboard_time": 1738397178,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 743601,
       "num": 443965,
       "word": "哪吒2",
       "onboard_time": 1738328359,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 718820,
-      "num": 442619,
-      "word": "美国4天内4机坠毁",
-      "onboard_time": 1738397178,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 716626,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 672745,
-      "num": 334926,
+      "num": 363196,
       "word": "哪吒之魔童闹海票房破20亿",
       "onboard_time": 1738389557,
       "rank": 10,
@@ -201,6 +201,14 @@
       "onboard_time": 1738334001,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 568780,
+      "num": 432769,
+      "word": "唐探是真扛老啊",
+      "onboard_time": 1738400897,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 541536,
@@ -403,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 359939,
+      "num": 359939,
+      "word": "余承恩死嘴快憋住啊",
+      "onboard_time": 1738400297,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 353904,
       "num": 353904,
       "word": "DeepSeek在美商标被梁文锋校友抢注",
@@ -449,14 +465,6 @@
       "onboard_time": 1738382718,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 334861,
-      "num": 334861,
-      "word": "余承恩死嘴快憋住啊",
-      "onboard_time": 1738400297,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 332405,
@@ -555,6 +563,22 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 276131,
+      "num": 146115,
+      "word": "陈小春我何德何能有机会上春晚",
+      "onboard_time": 1738401857,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 266062,
+      "num": 177397,
+      "word": "结婚以后过年成了一件孤独的事",
+      "onboard_time": 1738397417,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 261761,
       "num": 187864,
       "word": "台媒讨论赵露思生病事件",
@@ -569,14 +593,6 @@
       "onboard_time": 1738375757,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 257830,
-      "num": 177397,
-      "word": "结婚以后过年成了一件孤独的事",
-      "onboard_time": 1738397417,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 256172,
@@ -707,12 +723,12 @@
       "category": "国际时政,互联网"
     },
     {
-      "raw_hot": 217427,
-      "num": 123375,
-      "word": "唐探是真扛老啊",
-      "onboard_time": 1738400897,
-      "rank": 26,
-      "category": "电影"
+      "raw_hot": 220733,
+      "num": 146021,
+      "word": "白色橄榄树直播",
+      "onboard_time": 1738401737,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 215117,
@@ -795,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196840,
+      "num": 437059,
+      "word": "多方回应网传乘客在飞机上捡到鞭炮",
+      "onboard_time": 1738401556,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 195537,
       "num": 179955,
       "word": "父亲离世儿子过年回家独坐门口落泪",
@@ -860,7 +884,7 @@
     },
     {
       "raw_hot": 189487,
-      "num": 132398,
+      "num": 145927,
       "word": "云秀行",
       "onboard_time": 1738397297,
       "rank": 29,
@@ -873,6 +897,14 @@
       "onboard_time": 1738383856,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188728,
+      "num": 145971,
+      "word": "张馨予一个月胖了9斤",
+      "onboard_time": 1738401978,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 187837,
@@ -1108,7 +1140,7 @@
     },
     {
       "raw_hot": 156104,
-      "num": 122465,
+      "num": 133788,
       "word": "春节档票房预测",
       "onboard_time": 1738396277,
       "rank": 41,
@@ -1132,7 +1164,7 @@
     },
     {
       "raw_hot": 152039,
-      "num": 122321,
+      "num": 132513,
       "word": "刘诗诗只是一味的吊人胃口",
       "onboard_time": 1738399037,
       "rank": 42,
@@ -1195,6 +1227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 144080,
+      "num": 144080,
+      "word": "电影射雕英雄传侠之大者",
+      "onboard_time": 1738402397,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 142899,
       "num": 142899,
       "word": "孙颖莎备战边训练边做数学题",
@@ -1217,6 +1257,14 @@
       "onboard_time": 1738329799,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 141613,
+      "num": 141613,
+      "word": "陈哲远希望大家都能感受到李瓒的美好",
+      "onboard_time": 1738401918,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 141108,
@@ -1299,6 +1347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133210,
+      "num": 133210,
+      "word": "于适遭大罪偷偷哭",
+      "onboard_time": 1738399098,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 132214,
       "num": 83953,
       "word": "春晚竟然还有结局BE的小品",
@@ -1313,14 +1369,6 @@
       "onboard_time": 1738379597,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 131112,
-      "num": 102819,
-      "word": "于适遭大罪偷偷哭",
-      "onboard_time": 1738399098,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 131013,
@@ -1403,6 +1451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123572,
+      "num": 123572,
+      "word": "敖光敖丙爱会带我找回你",
+      "onboard_time": 1738399458,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 122989,
       "num": 122989,
       "word": "苹果很甜",
@@ -1417,14 +1473,6 @@
       "onboard_time": 1738392077,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 121946,
-      "num": 91843,
-      "word": "敖光敖丙爱会带我找回你",
-      "onboard_time": 1738399458,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 120284,
@@ -1481,6 +1529,14 @@
       "onboard_time": 1738333640,
       "rank": 33,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 114481,
+      "num": 141769,
+      "word": "徐克新黄蓉亮点是侠气",
+      "onboard_time": 1738402397,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 114275,
@@ -1595,6 +1651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105830,
+      "num": 132546,
+      "word": "T1战胜GEN",
+      "onboard_time": 1738401556,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 105804,
       "num": 105804,
       "word": "内马尔回归母队掩面而泣",
@@ -1667,6 +1731,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 97252,
+      "num": 351673,
+      "word": "王俊凯谈出演蛟龙行动声呐兵角色",
+      "onboard_time": 1738401617,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 96868,
       "num": 339049,
       "word": "春节聚餐警惕吃出来的病",
@@ -1691,6 +1763,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 93229,
+      "num": 93229,
+      "word": "女孩参展被鳄鱼咬伤商家要赔吗",
+      "onboard_time": 1738401617,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92938,
       "num": 354695,
       "word": "DeepSeek冲击华尔街",
@@ -1705,14 +1785,6 @@
       "onboard_time": 1738339518,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 91601,
-      "num": 91601,
-      "word": "T1战胜GEN",
-      "onboard_time": 1738401556,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 90703,
@@ -1787,12 +1859,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 83275,
-      "num": 83275,
-      "word": "女孩参展被鳄鱼咬伤商家要赔吗",
-      "onboard_time": 1738401617,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 82962,
+      "num": 446878,
+      "word": "春节假期已过半",
+      "onboard_time": 1738400955,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 82705,
@@ -1875,27 +1947,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 72172,
-      "num": 110980,
-      "word": "王俊凯谈出演蛟龙行动声呐兵角色",
-      "onboard_time": 1738401617,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
       "raw_hot": 71523,
       "num": 71523,
       "word": "白衣小哥一次次冲进海中救人太帅了",
       "onboard_time": 1738384758,
       "rank": 49,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 70024,
-      "num": 416509,
-      "word": "春节假期已过半",
-      "onboard_time": 1738400955,
-      "rank": 9,
       "category": "正能量"
     },
     {
@@ -1913,14 +1969,6 @@
       "onboard_time": 1738316719,
       "rank": 48,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 66878,
-      "num": 117803,
-      "word": "多方回应网传乘客在飞机上捡到鞭炮",
-      "onboard_time": 1738401556,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 65265,
@@ -1948,7 +1996,7 @@
     },
     {
       "raw_hot": 58802,
-      "num": 114738,
+      "num": 146078,
       "word": "王楚钦大年初五蛇年首秀",
       "onboard_time": 1738395557,
       "rank": 32,
@@ -2187,6 +2235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 23666,
+      "num": 777979,
+      "word": "大年初四去哪玩",
+      "onboard_time": 1738402036,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22643,
       "num": 22643,
       "word": "特朗普称撞机时黑鹰直升机高度过高",
@@ -2313,6 +2369,9 @@
     },
     {
       "word": "#跟着总书记感受春节年味儿#"
+    },
+    {
+      "word": "#把实现家庭梦融入民族梦之中#"
     }
   ]
 }
