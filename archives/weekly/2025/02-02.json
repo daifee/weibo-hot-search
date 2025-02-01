@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738427071997,
+  "endTime": 1738427935197,
   "band_list": [
     {
       "raw_hot": 1061357,
@@ -25,6 +25,14 @@
       "onboard_time": 1738423158,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 643532,
+      "num": 643532,
+      "word": "石矶娘娘",
+      "onboard_time": 1738424178,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 628097,
@@ -67,14 +75,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 543740,
-      "num": 543740,
-      "word": "石矶娘娘",
-      "onboard_time": 1738424178,
-      "rank": 10,
-      "category": "电影"
-    },
-    {
       "raw_hot": 489464,
       "num": 489464,
       "word": "哪吒之魔童闹海票房破25亿",
@@ -97,6 +97,14 @@
       "onboard_time": 1738405697,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 426729,
+      "num": 318646,
+      "word": "于冬反问无名只配6.6分吗",
+      "onboard_time": 1738426457,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 385681,
@@ -123,6 +131,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 357589,
+      "num": 357589,
+      "word": "正月初五为啥又叫破五",
+      "onboard_time": 1738423639,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 343711,
       "num": 546439,
       "word": "后排观众太吵男子忍到电影结束开麦了",
@@ -147,19 +163,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 237897,
-      "num": 140200,
-      "word": "于冬反问无名只配6.6分吗",
-      "onboard_time": 1738426457,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 234723,
-      "num": 140315,
-      "word": "正月初五为啥又叫破五",
-      "onboard_time": 1738423639,
-      "rank": 24,
+      "raw_hot": 219929,
+      "num": 349745,
+      "word": "初五过年习俗",
+      "onboard_time": 1738426938,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -195,14 +203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 142663,
-      "num": 142663,
-      "word": "初五过年习俗",
-      "onboard_time": 1738426938,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 141121,
       "num": 141121,
       "word": "儿媳过年在家爆改婆婆",
@@ -236,15 +236,23 @@
     },
     {
       "raw_hot": 128039,
-      "num": 91552,
+      "num": 100459,
       "word": "于冬 蛟龙行动绝不撤档",
       "onboard_time": 1738406539,
       "rank": 35,
       "category": "电影"
     },
     {
+      "raw_hot": 126264,
+      "num": 100772,
+      "word": "刘昊然嘴在前面飞脑子在后面追",
+      "onboard_time": 1738427237,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 123439,
-      "num": 89224,
+      "num": 98815,
       "word": "贺峻霖能不能开个情商班",
       "onboard_time": 1738424838,
       "rank": 36,
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 121751,
-      "num": 88583,
+      "num": 96504,
       "word": "白色橄榄树热度",
       "onboard_time": 1738410798,
       "rank": 37,
@@ -275,6 +283,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 114006,
+      "num": 98119,
+      "word": "陈哲远憋不了一点",
+      "onboard_time": 1738427298,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 109690,
+      "num": 95863,
+      "word": "陈哲远听到冉冉对李瓒一见钟情的反应",
+      "onboard_time": 1738427535,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107704,
       "num": 139704,
       "word": "DeepSeek创始人同乡回应游客打卡",
@@ -284,7 +308,7 @@
     },
     {
       "raw_hot": 106268,
-      "num": 86368,
+      "num": 94994,
       "word": "赵露思新旧混发日常",
       "onboard_time": 1738413317,
       "rank": 40,
@@ -331,8 +355,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 92860,
+      "num": 92860,
+      "word": "申公豹",
+      "onboard_time": 1738423277,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 92541,
-      "num": 92541,
+      "num": 99658,
       "word": "新能源车企1月成绩单出炉",
       "onboard_time": 1738422200,
       "rank": 34,
@@ -340,7 +372,7 @@
     },
     {
       "raw_hot": 86466,
-      "num": 86466,
+      "num": 97357,
       "word": "山东一道名菜被全网盯上了",
       "onboard_time": 1738414878,
       "rank": 38,
@@ -348,7 +380,7 @@
     },
     {
       "raw_hot": 76102,
-      "num": 86440,
+      "num": 96942,
       "word": "三巨头同日接入DeepSeek",
       "onboard_time": 1738422860,
       "rank": 39,
@@ -356,31 +388,31 @@
     },
     {
       "raw_hot": 68398,
-      "num": 85924,
+      "num": 95223,
       "word": "吃胖的小肚子最怕这三个动作",
       "onboard_time": 1738418419,
       "rank": 45,
       "category": "运动健身"
     },
     {
-      "raw_hot": 64425,
-      "num": 85793,
-      "word": "高速上为救人女子喊到声音嘶哑",
-      "onboard_time": 1738413438,
-      "rank": 46,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 63109,
-      "num": 85726,
+      "raw_hot": 68310,
+      "num": 99002,
       "word": "5个孩子凑2000压岁钱给奶奶买手机",
       "onboard_time": 1738411578,
       "rank": 47,
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64425,
+      "num": 91057,
+      "word": "高速上为救人女子喊到声音嘶哑",
+      "onboard_time": 1738413438,
+      "rank": 46,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 53729,
-      "num": 85670,
+      "num": 92164,
       "word": "新女婿喝4碗自家酿酒醉倒被抬进屋",
       "onboard_time": 1738403717,
       "rank": 48,
@@ -395,7 +427,15 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 26080,
+      "raw_hot": 43348,
+      "num": 89355,
+      "word": "金价大涨点燃春节购金热",
+      "onboard_time": 1738419140,
+      "rank": 49,
+      "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 28083,
       "num": 686128,
       "word": "文化中国行非遗雅韵中国年",
       "onboard_time": 1738420759,
