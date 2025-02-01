@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738438511507,
+  "endTime": 1738441383385,
   "band_list": [
     {
       "raw_hot": 2254313,
@@ -3195,6 +3195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39636,
+      "num": 39636,
+      "word": "夫妻狂追5分钟截停起火货车",
+      "onboard_time": 1738438871,
+      "rank": 17,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 37688,
       "num": 37688,
       "word": "哪吒2特效",
@@ -3393,6 +3401,14 @@
       "onboard_time": 1738356851,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 16156,
+      "num": 54643,
+      "word": "儿媳过年为婆婆化妆最开心的是公公",
+      "onboard_time": 1738440191,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14723,
