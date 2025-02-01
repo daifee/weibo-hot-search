@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738405283248,
+  "endTime": 1738406262641,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -1355,6 +1355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 984784,
+      "num": 627680,
+      "word": "白色橄榄树",
+      "onboard_time": 1737868459,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 979052,
       "num": 945904,
       "word": "谢霆锋和两个儿子背影照",
@@ -1601,6 +1609,14 @@
       "onboard_time": 1738069124,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 886988,
+      "num": 480070,
+      "word": "敖丙",
+      "onboard_time": 1738402697,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 878463,
@@ -2051,20 +2067,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 736494,
-      "num": 480070,
-      "word": "敖丙",
-      "onboard_time": 1738402697,
-      "rank": 6,
-      "category": "电影"
-    },
-    {
       "raw_hot": 736354,
       "num": 331777,
       "word": "梁家辉在春晚后台哭了3次",
       "onboard_time": 1738236259,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 735941,
+      "num": 735941,
+      "word": "多方回应网传乘客在飞机上捡到鞭炮",
+      "onboard_time": 1738401556,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 735605,
@@ -2313,14 +2329,6 @@
       "onboard_time": 1738226117,
       "rank": 32,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 673436,
-      "num": 673436,
-      "word": "多方回应网传乘客在飞机上捡到鞭炮",
-      "onboard_time": 1738401556,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 672745,
@@ -2611,14 +2619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 610207,
-      "num": 466547,
-      "word": "白色橄榄树",
-      "onboard_time": 1737868459,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 609841,
       "num": 609841,
       "word": "陈都灵空降",
@@ -2721,6 +2721,14 @@
       "onboard_time": 1738160061,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 593472,
+      "num": 593472,
+      "word": "飞机上捡到鞭炮无论真假都要有人担责",
+      "onboard_time": 1738402577,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 592693,
@@ -3179,12 +3187,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 533316,
-      "num": 533316,
-      "word": "飞机上捡到鞭炮无论真假都要有人担责",
-      "onboard_time": 1738402577,
-      "rank": 4,
-      "category": "民生新闻"
+      "raw_hot": 535963,
+      "num": 328235,
+      "word": "陈小春我何德何能有机会上春晚",
+      "onboard_time": 1738401857,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 532128,
@@ -3376,14 +3384,6 @@
       "word": "白鹿感谢陈哲远",
       "onboard_time": 1738298837,
       "rank": 6,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 508110,
-      "num": 328235,
-      "word": "陈小春我何德何能有机会上春晚",
-      "onboard_time": 1738401857,
-      "rank": 22,
       "category": "综艺"
     },
     {
@@ -4585,6 +4585,14 @@
       "onboard_time": 1738239379,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 392386,
+      "num": 168538,
+      "word": "肖战回复蔡少芬",
+      "onboard_time": 1738405097,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 391797,
@@ -6699,6 +6707,14 @@
       "category": "综艺,汽车"
     },
     {
+      "raw_hot": 253600,
+      "num": 167967,
+      "word": "孟子义上节目穿几十块的衣服",
+      "onboard_time": 1738405697,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253481,
       "num": 648396,
       "word": "印度大壶节突发踩踏致15死",
@@ -7051,6 +7067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239327,
+      "num": 173078,
+      "word": "封神2收获海外观众好评",
+      "onboard_time": 1738402518,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 238957,
       "num": 238957,
       "word": "姚晨说杨丽萍蛇舞是极致东方美学",
@@ -7321,6 +7345,14 @@
       "onboard_time": 1738106596,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229237,
+      "num": 173574,
+      "word": "哪吒2一条锁链就做了近4个月",
+      "onboard_time": 1738403717,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 228905,
@@ -7923,14 +7955,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 211081,
-      "num": 173574,
-      "word": "哪吒2一条锁链就做了近4个月",
-      "onboard_time": 1738403717,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 209948,
       "num": 198210,
       "word": "赵露思拐杖",
@@ -8371,14 +8395,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 202270,
-      "num": 173078,
-      "word": "封神2收获海外观众好评",
-      "onboard_time": 1738402518,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 202058,
       "num": 139247,
       "word": "看完唐探我先替陈思诚哭两声",
@@ -8515,6 +8531,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 199576,
+      "num": 167708,
+      "word": "看唐探1900以为走错厅了",
+      "onboard_time": 1738405276,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 199382,
       "num": 199382,
       "word": "丁禹兮谈第一次上春晚",
@@ -8577,6 +8601,14 @@
       "onboard_time": 1737867857,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 198407,
+      "num": 167628,
+      "word": "smtr25",
+      "onboard_time": 1738405276,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 198163,
@@ -9483,6 +9515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 184265,
+      "num": 167473,
+      "word": "樊振东登上CCTV10",
+      "onboard_time": 1738405038,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184026,
       "num": 184026,
       "word": "杨丽萍蛇舞演员每块肌肉都能动",
@@ -10227,6 +10267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168852,
+      "num": 168852,
+      "word": "小伙去女友家过年撞脸丈母娘",
+      "onboard_time": 1738404618,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168818,
       "num": 168818,
       "word": "IVE回归概念预告",
@@ -10289,6 +10337,14 @@
       "onboard_time": 1738320859,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167462,
+      "num": 167462,
+      "word": "王安宇说小巷人家上春晚出息了",
+      "onboard_time": 1738406058,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 167441,
@@ -12731,14 +12787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134037,
-      "num": 134037,
-      "word": "樊振东登上CCTV10",
-      "onboard_time": 1738405038,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 134031,
       "num": 134031,
       "word": "摆烂减肥法",
@@ -13411,6 +13459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 125674,
+      "num": 92462,
+      "word": "陈哲远报平安",
+      "onboard_time": 1738405998,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125653,
       "num": 87495,
       "word": "刘晓庆不服输也不扶人",
@@ -13667,6 +13723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123373,
+      "num": 92163,
+      "word": "比伯海莉带儿子外出",
+      "onboard_time": 1738404978,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122989,
       "num": 122989,
       "word": "苹果很甜",
@@ -13897,14 +13961,6 @@
       "onboard_time": 1737874518,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119722,
-      "num": 98699,
-      "word": "肖战回复蔡少芬",
-      "onboard_time": 1738405097,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 119701,
@@ -15547,14 +15603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 100191,
-      "num": 100191,
-      "word": "小伙去女友家过年撞脸丈母娘",
-      "onboard_time": 1738404618,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 99986,
       "num": 99986,
       "word": "五福临门12",
@@ -16035,6 +16083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94653,
+      "num": 94653,
+      "word": "上过大学的就是不一样",
+      "onboard_time": 1738405097,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 94616,
       "num": 184121,
       "word": "国羽全队送上新春祝福",
@@ -16489,14 +16545,6 @@
       "onboard_time": 1738304117,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 88562,
-      "num": 88562,
-      "word": "上过大学的就是不一样",
-      "onboard_time": 1738405097,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 88513,
@@ -17913,6 +17961,14 @@
       "onboard_time": 1738289298,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 66756,
+      "num": 91399,
+      "word": "90岁奶奶在哥哥身边也是女孩",
+      "onboard_time": 1738405817,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66735,
@@ -19721,6 +19777,14 @@
       "onboard_time": 1738307957,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 25673,
+      "num": 92938,
+      "word": "张婉婷谈李小冉",
+      "onboard_time": 1738406058,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 25579,

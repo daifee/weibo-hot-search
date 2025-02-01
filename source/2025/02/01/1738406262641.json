@@ -1,0 +1,410 @@
+{
+  "runTime": 1738406262641,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1167547,
+        "num": 1186807,
+        "word": "全网都知道苏醒在迪拜买贵了",
+        "onboard_time": 1738398076,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 735941,
+        "num": 735941,
+        "word": "多方回应网传乘客在飞机上捡到鞭炮",
+        "onboard_time": 1738401556,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73209,
+        "num": 639398,
+        "word": "大年初四去哪玩",
+        "onboard_time": 1738402036,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 984784,
+        "num": 627680,
+        "word": "白色橄榄树",
+        "onboard_time": 1738404497,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 593472,
+        "num": 593472,
+        "word": "飞机上捡到鞭炮无论真假都要有人担责",
+        "onboard_time": 1738402577,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 429378,
+        "num": 429378,
+        "word": "美国4天内4机坠毁",
+        "onboard_time": 1738397178,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 886988,
+        "num": 423126,
+        "word": "敖丙",
+        "onboard_time": 1738402697,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 670618,
+        "num": 421695,
+        "word": "哪吒2",
+        "onboard_time": 1738386858,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 411590,
+        "num": 411590,
+        "word": "徐福记成时代眼泪了吗",
+        "onboard_time": 1738396218,
+        "rank": 8,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 286448,
+        "num": 286448,
+        "word": "金价",
+        "onboard_time": 1738376776,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 535963,
+        "num": 270005,
+        "word": "陈小春我何德何能有机会上春晚",
+        "onboard_time": 1738401857,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 465402,
+        "num": 257175,
+        "word": "余承恩死嘴快憋住啊",
+        "onboard_time": 1738400297,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424479,
+        "num": 227472,
+        "word": "唐探是真扛老啊",
+        "onboard_time": 1738400897,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 396596,
+        "num": 202954,
+        "word": "白色橄榄树直播",
+        "onboard_time": 1738401737,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192052,
+        "num": 192052,
+        "word": "春节第一零食好像卖不动了",
+        "onboard_time": 1738399338,
+        "rank": 14,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 168852,
+        "num": 168852,
+        "word": "小伙去女友家过年撞脸丈母娘",
+        "onboard_time": 1738404618,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168818,
+        "num": 168818,
+        "word": "王一珩直播",
+        "onboard_time": 1738403478,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140624,
+        "num": 168756,
+        "word": "贵州人用仙人掌炒腊肉",
+        "onboard_time": 1738402637,
+        "rank": 17,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 108231,
+        "num": 168689,
+        "word": "春节假期已过半",
+        "onboard_time": 1738400955,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95305,
+        "num": 168650,
+        "word": "身边的年味",
+        "onboard_time": 1738392077,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 392386,
+        "num": 168538,
+        "word": "肖战回复蔡少芬",
+        "onboard_time": 1738405097,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 656729,
+        "num": 168498,
+        "word": "虞书欣张凌赫聚餐合照",
+        "onboard_time": 1738394656,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396020,
+        "num": 168419,
+        "word": "向佐自曝曾被郭碧婷狠狠拒绝",
+        "onboard_time": 1738381276,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379491,
+        "num": 168259,
+        "word": "张馨予一个月胖了9斤",
+        "onboard_time": 1738401978,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239327,
+        "num": 168201,
+        "word": "封神2收获海外观众好评",
+        "onboard_time": 1738402518,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 283219,
+        "num": 168122,
+        "word": "新女婿喝4碗自家酿酒醉倒被抬进屋",
+        "onboard_time": 1738403717,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277305,
+        "num": 168029,
+        "word": "哪吒之魔童闹海票房破20亿",
+        "onboard_time": 1738389557,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 253600,
+        "num": 167967,
+        "word": "孟子义上节目穿几十块的衣服",
+        "onboard_time": 1738405697,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92163,
+        "num": 167935,
+        "word": "三家美国巨头同日接入DeepSeek",
+        "onboard_time": 1738385358,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 229237,
+        "num": 167797,
+        "word": "哪吒2一条锁链就做了近4个月",
+        "onboard_time": 1738403717,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199576,
+        "num": 167708,
+        "word": "看唐探1900以为走错厅了",
+        "onboard_time": 1738405276,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198407,
+        "num": 167628,
+        "word": "smtr25",
+        "onboard_time": 1738405276,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185471,
+        "num": 167595,
+        "word": "结婚以后过年成了一件孤独的事",
+        "onboard_time": 1738397417,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184265,
+        "num": 167473,
+        "word": "樊振东登上CCTV10",
+        "onboard_time": 1738405038,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167462,
+        "num": 167462,
+        "word": "王安宇说小巷人家上春晚出息了",
+        "onboard_time": 1738406058,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149564,
+        "num": 149564,
+        "word": "刘耀文弟弟对宋亚轩说新年快乐",
+        "onboard_time": 1738397056,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148125,
+        "num": 148125,
+        "word": "虞书欣又给Jennie打歌了",
+        "onboard_time": 1738395796,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 146626,
+        "num": 146626,
+        "word": "电影射雕英雄传侠之大者",
+        "onboard_time": 1738402397,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 94653,
+        "num": 94653,
+        "word": "上过大学的就是不一样",
+        "onboard_time": 1738405097,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93218,
+        "num": 93218,
+        "word": "T1战胜GEN",
+        "onboard_time": 1738401556,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 146354,
+        "num": 93196,
+        "word": "云包场",
+        "onboard_time": 1738404497,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25673,
+        "num": 92938,
+        "word": "张婉婷谈李小冉",
+        "onboard_time": 1738406058,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141720,
+        "num": 92529,
+        "word": "王俊凯谈出演蛟龙行动声呐兵角色",
+        "onboard_time": 1738401617,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125674,
+        "num": 92462,
+        "word": "陈哲远报平安",
+        "onboard_time": 1738405998,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123373,
+        "num": 92163,
+        "word": "比伯海莉带儿子外出",
+        "onboard_time": 1738404978,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123260,
+        "num": 91943,
+        "word": "张艺兴我也想试试",
+        "onboard_time": 1738404678,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129878,
+        "num": 91756,
+        "word": "李小冉回应退繁花群",
+        "onboard_time": 1738370415,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91594,
+        "num": 91594,
+        "word": "马斯克点赞无锡拈花湾景区视频",
+        "onboard_time": 1738392015,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70092,
+        "num": 91491,
+        "word": "有这样的卧室我能一个月不出门",
+        "onboard_time": 1738394837,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66756,
+        "num": 91399,
+        "word": "90岁奶奶在哥哥身边也是女孩",
+        "onboard_time": 1738405817,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#把实现家庭梦融入民族梦之中#"
+    }
+  }
+}

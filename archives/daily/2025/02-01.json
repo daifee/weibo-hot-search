@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738405283248,
+  "endTime": 1738406262641,
   "band_list": [
     {
       "raw_hot": 1597648,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 984784,
+      "num": 627680,
+      "word": "白色橄榄树",
+      "onboard_time": 1738365553,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 968225,
       "num": 308167,
       "word": "于适 我们只想要公平",
@@ -89,6 +97,14 @@
       "onboard_time": 1738396218,
       "rank": 4,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 886988,
+      "num": 480070,
+      "word": "敖丙",
+      "onboard_time": 1738402697,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 876498,
@@ -139,12 +155,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 736494,
-      "num": 480070,
-      "word": "敖丙",
-      "onboard_time": 1738402697,
-      "rank": 6,
-      "category": "电影"
+      "raw_hot": 735941,
+      "num": 735941,
+      "word": "多方回应网传乘客在飞机上捡到鞭炮",
+      "onboard_time": 1738401556,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 716626,
@@ -163,14 +179,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 673436,
-      "num": 673436,
-      "word": "多方回应网传乘客在飞机上捡到鞭炮",
-      "onboard_time": 1738401556,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 672745,
       "num": 363196,
       "word": "哪吒之魔童闹海票房破20亿",
@@ -187,12 +195,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 610207,
-      "num": 466547,
-      "word": "白色橄榄树",
-      "onboard_time": 1738365553,
-      "rank": 17,
-      "category": "剧集"
+      "raw_hot": 593472,
+      "num": 593472,
+      "word": "飞机上捡到鞭炮无论真假都要有人担责",
+      "onboard_time": 1738402577,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 592280,
@@ -259,12 +267,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 533316,
-      "num": 533316,
-      "word": "飞机上捡到鞭炮无论真假都要有人担责",
-      "onboard_time": 1738402577,
-      "rank": 4,
-      "category": "民生新闻"
+      "raw_hot": 535963,
+      "num": 328235,
+      "word": "陈小春我何德何能有机会上春晚",
+      "onboard_time": 1738401857,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 514405,
@@ -273,14 +281,6 @@
       "onboard_time": 1738379597,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 508110,
-      "num": 328235,
-      "word": "陈小春我何德何能有机会上春晚",
-      "onboard_time": 1738401857,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 499165,
@@ -424,6 +424,14 @@
       "word": "哪吒2预测总票房超67.4亿",
       "onboard_time": 1738368434,
       "rank": 12,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 392386,
+      "num": 168538,
+      "word": "肖战回复蔡少芬",
+      "onboard_time": 1738405097,
+      "rank": 41,
       "category": "电影"
     },
     {
@@ -667,6 +675,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 253600,
+      "num": 167967,
+      "word": "孟子义上节目穿几十块的衣服",
+      "onboard_time": 1738405697,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252881,
       "num": 252881,
       "word": "春节平均每家产生近2kg剩菜剩饭",
@@ -704,6 +720,14 @@
       "word": "射雕",
       "onboard_time": 1738384038,
       "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 239327,
+      "num": 173078,
+      "word": "封神2收获海外观众好评",
+      "onboard_time": 1738402518,
+      "rank": 29,
       "category": "电影"
     },
     {
@@ -753,6 +777,14 @@
       "onboard_time": 1738334480,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 229237,
+      "num": 173574,
+      "word": "哪吒2一条锁链就做了近4个月",
+      "onboard_time": 1738403717,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 228799,
@@ -811,14 +843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211081,
-      "num": 173574,
-      "word": "哪吒2一条锁链就做了近4个月",
-      "onboard_time": 1738403717,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 209874,
       "num": 133068,
       "word": "哪吒大热离不开电影人的死磕到底",
@@ -867,20 +891,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 202270,
-      "num": 173078,
-      "word": "封神2收获海外观众好评",
-      "onboard_time": 1738402518,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 201061,
       "num": 201061,
       "word": "陈哲远 阿瓒我爱你",
       "onboard_time": 1738391178,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199576,
+      "num": 167708,
+      "word": "看唐探1900以为走错厅了",
+      "onboard_time": 1738405276,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 198407,
+      "num": 167628,
+      "word": "smtr25",
+      "onboard_time": 1738405276,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 195537,
@@ -1027,6 +1059,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 184265,
+      "num": 167473,
+      "word": "樊振东登上CCTV10",
+      "onboard_time": 1738405038,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182929,
       "num": 165719,
       "word": "乌尔善",
@@ -1129,6 +1169,22 @@
       "onboard_time": 1738401617,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 168852,
+      "num": 168852,
+      "word": "小伙去女友家过年撞脸丈母娘",
+      "onboard_time": 1738404618,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167462,
+      "num": 167462,
+      "word": "王安宇说小巷人家上春晚出息了",
+      "onboard_time": 1738406058,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 166336,
@@ -1427,14 +1483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 134037,
-      "num": 134037,
-      "word": "樊振东登上CCTV10",
-      "onboard_time": 1738405038,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 134031,
       "num": 134031,
       "word": "摆烂减肥法",
@@ -1523,6 +1571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125674,
+      "num": 92462,
+      "word": "陈哲远报平安",
+      "onboard_time": 1738405998,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125653,
       "num": 87495,
       "word": "刘晓庆不服输也不扶人",
@@ -1563,6 +1619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 123373,
+      "num": 92163,
+      "word": "比伯海莉带儿子外出",
+      "onboard_time": 1738404978,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122989,
       "num": 122989,
       "word": "苹果很甜",
@@ -1572,7 +1636,7 @@
     },
     {
       "raw_hot": 122229,
-      "num": 152995,
+      "num": 168650,
       "word": "身边的年味",
       "onboard_time": 1738392077,
       "rank": 36,
@@ -1593,14 +1657,6 @@
       "onboard_time": 1738387697,
       "rank": 28,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 119722,
-      "num": 98699,
-      "word": "肖战回复蔡少芬",
-      "onboard_time": 1738405097,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 118342,
@@ -1827,14 +1883,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 100191,
-      "num": 100191,
-      "word": "小伙去女友家过年撞脸丈母娘",
-      "onboard_time": 1738404618,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 98780,
       "num": 98780,
       "word": "熊出没",
@@ -1865,6 +1913,14 @@
       "onboard_time": 1738369335,
       "rank": 47,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 94653,
+      "num": 94653,
+      "word": "上过大学的就是不一样",
+      "onboard_time": 1738405097,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 93621,
@@ -1929,14 +1985,6 @@
       "onboard_time": 1738340477,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 88562,
-      "num": 88562,
-      "word": "上过大学的就是不一样",
-      "onboard_time": 1738405097,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 87817,
@@ -2097,6 +2145,14 @@
       "onboard_time": 1738316719,
       "rank": 48,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 66756,
+      "num": 91399,
+      "word": "90岁奶奶在哥哥身边也是女孩",
+      "onboard_time": 1738405817,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65265,
@@ -2345,6 +2401,14 @@
       "onboard_time": 1738347492,
       "rank": 47,
       "category": "电竞,体育"
+    },
+    {
+      "raw_hot": 25673,
+      "num": 92938,
+      "word": "张婉婷谈李小冉",
+      "onboard_time": 1738406058,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 24802,
