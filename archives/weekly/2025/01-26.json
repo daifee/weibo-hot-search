@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738387225134,
+  "endTime": 1738388213966,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -3035,6 +3035,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 540448,
+      "num": 283389,
+      "word": "陈哲远梁洁五年前vs五年后",
+      "onboard_time": 1738385537,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 532128,
       "num": 532128,
       "word": "年轻人黄金贴手机主打一个情绪价值",
@@ -3121,14 +3129,6 @@
       "onboard_time": 1737971297,
       "rank": 6,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 521656,
-      "num": 283389,
-      "word": "陈哲远梁洁五年前vs五年后",
-      "onboard_time": 1738385537,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 520390,
@@ -3731,6 +3731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 458059,
+      "num": 281798,
+      "word": "白鹿过年也得给家人表演节目",
+      "onboard_time": 1738384459,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 457521,
       "num": 457521,
       "word": "王者荣耀联动国色芳华",
@@ -3785,14 +3793,6 @@
       "onboard_time": 1737860357,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 454265,
-      "num": 281798,
-      "word": "白鹿过年也得给家人表演节目",
-      "onboard_time": 1738384459,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 453513,
@@ -4249,6 +4249,14 @@
       "onboard_time": 1738155079,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 405185,
+      "num": 204424,
+      "word": "老敖这一家子顶级魅魔",
+      "onboard_time": 1738384696,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 405069,
@@ -5203,6 +5211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 332077,
+      "num": 98407,
+      "word": "我家那小子",
+      "onboard_time": 1738386139,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 331519,
       "num": 331519,
       "word": "联合国建议日本允许女性继承皇位",
@@ -5251,14 +5267,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 328218,
-      "num": 161758,
-      "word": "老敖这一家子顶级魅魔",
-      "onboard_time": 1738384696,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 328046,
       "num": 328046,
       "word": "一句我是警察安全感满满",
@@ -5297,6 +5305,14 @@
       "onboard_time": 1738040356,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 326232,
+      "num": 271123,
+      "word": "李小冉说我是没有一个官司在身上的",
+      "onboard_time": 1738385598,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 325803,
@@ -5561,6 +5577,14 @@
       "onboard_time": 1737928271,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 307284,
+      "num": 307284,
+      "word": "三家美国巨头同日接入DeepSeek",
+      "onboard_time": 1738385358,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 305941,
@@ -6080,14 +6104,6 @@
       "word": "张馨予晒何捷为她拍的雪地大片",
       "onboard_time": 1737861677,
       "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 271123,
-      "num": 271123,
-      "word": "李小冉说我是没有一个官司在身上的",
-      "onboard_time": 1738385598,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -7201,14 +7217,6 @@
       "onboard_time": 1737987679,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 221692,
-      "num": 221692,
-      "word": "三家美国巨头同日接入DeepSeek",
-      "onboard_time": 1738385358,
-      "rank": 17,
-      "category": "互联网"
     },
     {
       "raw_hot": 221579,
@@ -8355,6 +8363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195298,
+      "num": 92207,
+      "word": "李小冉战斗力",
+      "onboard_time": 1738387637,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195215,
       "num": 195215,
       "word": "赵丽颖向阳花贴片",
@@ -8513,14 +8529,6 @@
       "onboard_time": 1737903739,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 193349,
-      "num": 98407,
-      "word": "我家那小子",
-      "onboard_time": 1738386139,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 193197,
@@ -10283,6 +10291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 160444,
+      "num": 92945,
+      "word": "你好星期六",
+      "onboard_time": 1738386798,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160391,
       "num": 160391,
       "word": "李昀锐拜年",
@@ -11427,14 +11443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 143717,
-      "num": 92945,
-      "word": "你好星期六",
-      "onboard_time": 1738386798,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 143474,
       "num": 202978,
       "word": "这是我们的中国年",
@@ -12307,6 +12315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132214,
+      "num": 83953,
+      "word": "春晚竟然还有结局BE的小品",
+      "onboard_time": 1738387997,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132197,
       "num": 132197,
       "word": "代号鸢",
@@ -12699,6 +12715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126773,
+      "num": 88683,
+      "word": "张若昀祝你有所爱亦被爱",
+      "onboard_time": 1738387338,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126719,
       "num": 165940,
       "word": "哈登入选全明星替补名单",
@@ -12985,6 +13009,14 @@
       "onboard_time": 1737871219,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123658,
+      "num": 82937,
+      "word": "赵丽颖的二月行程已送达",
+      "onboard_time": 1738387338,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 123595,
@@ -14257,6 +14289,14 @@
       "onboard_time": 1737860597,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107240,
+      "num": 274522,
+      "word": "特朗普称黑鹰直升机飞得太高",
+      "onboard_time": 1738385778,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 107141,
@@ -16219,6 +16259,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 82705,
+      "num": 290050,
+      "word": "大年初四北京下雪",
+      "onboard_time": 1738385839,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82627,
       "num": 82627,
       "word": "印度部长举例DeepSeek回应质疑",
@@ -16513,6 +16561,14 @@
       "onboard_time": 1738170135,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 77462,
+      "num": 82677,
+      "word": "OpenAI奥特曼承认开源策略失误",
+      "onboard_time": 1738387938,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 77137,
@@ -17331,14 +17387,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 59814,
-      "num": 274522,
-      "word": "特朗普称黑鹰直升机飞得太高",
-      "onboard_time": 1738385778,
-      "rank": 14,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 59750,
       "num": 133091,
       "word": "微软CEO说DeepSeek发展非常迅速",
@@ -17579,14 +17627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 53816,
-      "num": 290050,
-      "word": "大年初四北京下雪",
-      "onboard_time": 1738385839,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 53621,
       "num": 208764,
       "word": "巴特勒至少被禁赛五场",
@@ -17692,7 +17732,7 @@
     },
     {
       "raw_hot": 51736,
-      "num": 467779,
+      "num": 482743,
       "word": "大年初四接好运攻略",
       "onboard_time": 1738381578,
       "rank": 2,
