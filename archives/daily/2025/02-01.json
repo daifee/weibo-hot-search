@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738378326754,
+  "endTime": 1738378911815,
   "band_list": [
     {
       "raw_hot": 1493250,
@@ -19,8 +19,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1034483,
+      "num": 1165517,
+      "word": "DeepSeek成精",
+      "onboard_time": 1738371496,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 991425,
-      "num": 464693,
+      "num": 522737,
       "word": "马丽方律师声明",
       "onboard_time": 1738372997,
       "rank": 11,
@@ -35,12 +43,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 942924,
-      "num": 1150867,
-      "word": "DeepSeek成精",
-      "onboard_time": 1738371496,
-      "rank": 18,
-      "category": "互联网"
+      "raw_hot": 855783,
+      "num": 855783,
+      "word": "大年初四全国人民都挺忙",
+      "onboard_time": 1738373236,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 844095,
@@ -59,14 +67,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 657849,
-      "num": 657849,
-      "word": "大年初四全国人民都挺忙",
-      "onboard_time": 1738373236,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 592280,
       "num": 190182,
       "word": "DeepSeek",
@@ -81,6 +81,14 @@
       "onboard_time": 1738334001,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 516270,
+      "num": 516270,
+      "word": "金价",
+      "onboard_time": 1738376776,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 499165,
@@ -187,14 +195,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 287129,
-      "num": 287129,
-      "word": "金价",
-      "onboard_time": 1738376776,
-      "rank": 8,
-      "category": "财经"
-    },
-    {
       "raw_hot": 280742,
       "num": 185387,
       "word": "哪吒2或将进入影史票房前三",
@@ -211,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 273616,
+      "num": 273616,
+      "word": "美国四天四架飞机失事",
+      "onboard_time": 1738372276,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 258797,
       "num": 153519,
       "word": "哪吒2",
@@ -225,6 +233,14 @@
       "onboard_time": 1738333640,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 254755,
+      "num": 254755,
+      "word": "哪吒2或成影史新票房冠军",
+      "onboard_time": 1738372516,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 252881,
@@ -283,28 +299,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 225879,
-      "num": 158336,
-      "word": "哪吒2或成影史新票房冠军",
-      "onboard_time": 1738372516,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 221623,
       "num": 221623,
       "word": "美国打压DeepSeek的后果",
       "onboard_time": 1738326858,
       "rank": 41,
       "category": "国际时政,互联网"
-    },
-    {
-      "raw_hot": 219996,
-      "num": 219996,
-      "word": "美国四天四架飞机失事",
-      "onboard_time": 1738372276,
-      "rank": 35,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 215117,
@@ -361,6 +361,22 @@
       "onboard_time": 1738334719,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188089,
+      "num": 188089,
+      "word": "印度称DeepSeek很快部署在当地服务器",
+      "onboard_time": 1738377978,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 187837,
+      "num": 187837,
+      "word": "我是老君山肚子里的洞",
+      "onboard_time": 1738373477,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187704,
@@ -436,11 +452,19 @@
     },
     {
       "raw_hot": 163362,
-      "num": 140064,
+      "num": 142665,
       "word": "哪吒2上座率",
       "onboard_time": 1738372336,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 161197,
+      "num": 142682,
+      "word": "白色橄榄树开播",
+      "onboard_time": 1738378636,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 156044,
@@ -449,6 +473,14 @@
       "onboard_time": 1738339518,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 149301,
+      "num": 205616,
+      "word": "唐探拍摄地客流暴涨",
+      "onboard_time": 1738376955,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 149187,
@@ -467,12 +499,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 144074,
-      "num": 144074,
-      "word": "我是老君山肚子里的洞",
-      "onboard_time": 1738373477,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 142899,
+      "num": 142899,
+      "word": "孙颖莎备战边训练边做数学题",
+      "onboard_time": 1738374976,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 141837,
@@ -508,7 +540,7 @@
     },
     {
       "raw_hot": 134979,
-      "num": 134979,
+      "num": 235378,
       "word": "大年初四迎灶神啦",
       "onboard_time": 1738371917,
       "rank": 29,
@@ -531,14 +563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 131137,
-      "num": 131137,
-      "word": "孙颖莎备战边训练边做数学题",
-      "onboard_time": 1738374976,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 126558,
       "num": 126558,
       "word": "县城正在消失的老头乐",
@@ -553,6 +577,14 @@
       "onboard_time": 1738374496,
       "rank": 19,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 122989,
+      "num": 122989,
+      "word": "苹果很甜",
+      "onboard_time": 1738377737,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 120284,
@@ -627,6 +659,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 112971,
+      "num": 112971,
+      "word": "埃文凯尔原定来华30天待90天不愿走",
+      "onboard_time": 1738378576,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112546,
       "num": 112546,
       "word": "美坠机事故28名遇难者遗体身份已确认",
@@ -651,12 +691,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 109087,
-      "num": 109087,
-      "word": "印度称DeepSeek很快部署在当地服务器",
-      "onboard_time": 1738377978,
-      "rank": 40,
-      "category": "互联网"
+      "raw_hot": 105865,
+      "num": 105865,
+      "word": "北京下雪",
+      "onboard_time": 1738378517,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105804,
@@ -675,12 +715,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 103109,
+      "num": 103109,
+      "word": "台当局也跳出来对DeepSeek指手画脚",
+      "onboard_time": 1738375336,
+      "rank": 47,
+      "category": "国内时政,互联网"
+    },
+    {
       "raw_hot": 102150,
       "num": 102150,
       "word": "美国对墨西哥和加拿大商品征收25%关税",
       "onboard_time": 1738367234,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 100845,
+      "num": 100845,
+      "word": "男子晒家里过年前后视频对比明显",
+      "onboard_time": 1738378817,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100542,
@@ -691,28 +747,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 96551,
-      "num": 96551,
-      "word": "苹果很甜",
-      "onboard_time": 1738377737,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 95742,
       "num": 95742,
       "word": "退伍军人顶着海浪连救2人",
       "onboard_time": 1738369335,
       "rank": 47,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 93816,
-      "num": 93816,
-      "word": "台当局也跳出来对DeepSeek指手画脚",
-      "onboard_time": 1738375336,
-      "rank": 47,
-      "category": "国内时政,互联网"
     },
     {
       "raw_hot": 93621,
@@ -740,7 +780,7 @@
     },
     {
       "raw_hot": 90703,
-      "num": 90703,
+      "num": 143646,
       "word": "李雨霏再发文",
       "onboard_time": 1738373596,
       "rank": 48,
@@ -803,14 +843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 77420,
-      "num": 205616,
-      "word": "唐探拍摄地客流暴涨",
-      "onboard_time": 1738376955,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 75718,
       "num": 75718,
       "word": "凌晨四五点吃年夜饭全家一脸困意",
@@ -825,6 +857,14 @@
       "onboard_time": 1738316719,
       "rank": 48,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 67553,
+      "num": 139108,
+      "word": "春运期间退票为啥这么贵",
+      "onboard_time": 1738378817,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65265,
