@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738394478626,
+  "endTime": 1738395390392,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -2259,6 +2259,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 672745,
+      "num": 279140,
+      "word": "哪吒之魔童闹海票房破20亿",
+      "onboard_time": 1738389557,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 670588,
       "num": 670588,
       "word": "900多块压岁钱发出了10万的感觉",
@@ -2289,14 +2297,6 @@
       "onboard_time": 1738053262,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 664214,
-      "num": 279140,
-      "word": "哪吒之魔童闹海票房破20亿",
-      "onboard_time": 1738389557,
-      "rank": 10,
-      "category": "电影"
     },
     {
       "raw_hot": 659280,
@@ -2457,6 +2457,14 @@
       "onboard_time": 1738239379,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 624843,
+      "num": 267900,
+      "word": "马斯克点赞无锡拈花湾景区视频",
+      "onboard_time": 1738392015,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 623652,
@@ -2737,6 +2745,14 @@
       "onboard_time": 1738163179,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 577560,
+      "num": 276079,
+      "word": "欣诚则凌",
+      "onboard_time": 1738393756,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 577457,
@@ -3065,14 +3081,6 @@
       "onboard_time": 1738385537,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 534567,
-      "num": 240567,
-      "word": "马斯克点赞无锡拈花湾景区视频",
-      "onboard_time": 1738392015,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 532128,
@@ -3465,6 +3473,14 @@
       "onboard_time": 1738315697,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 492976,
+      "num": 263549,
+      "word": "虞书欣张凌赫聚餐合照",
+      "onboard_time": 1738394656,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 492116,
@@ -5979,6 +5995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 284629,
+      "num": 178445,
+      "word": "夏雨透露申公豹在第三部魔心高涨",
+      "onboard_time": 1738392556,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 284619,
       "num": 284619,
       "word": "吴磊在春晚后台炫饺子",
@@ -7275,14 +7299,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 223626,
-      "num": 145802,
-      "word": "夏雨透露申公豹在第三部魔心高涨",
-      "onboard_time": 1738392556,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 223192,
       "num": 210535,
       "word": "你好星期六拍立得",
@@ -7441,6 +7457,14 @@
       "onboard_time": 1738074999,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 218280,
+      "num": 254306,
+      "word": "费城飞机坠毁许多车辆房屋被毁",
+      "onboard_time": 1738392316,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 218269,
@@ -8083,6 +8107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203525,
+      "num": 154643,
+      "word": "王耀庆被世界冠军公主抱了",
+      "onboard_time": 1738394416,
+      "rank": 46,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 203507,
       "num": 203507,
       "word": "中国人的衣服花纹简直是宝藏",
@@ -8281,6 +8313,14 @@
       "onboard_time": 1738089674,
       "rank": 19,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 199491,
+      "num": 132061,
+      "word": "有这样的卧室我能一个月不出门",
+      "onboard_time": 1738394837,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 199382,
@@ -9091,14 +9131,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 187174,
-      "num": 145532,
-      "word": "欣诚则凌",
-      "onboard_time": 1738393756,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 186905,
       "num": 186905,
       "word": "TF家族新年音乐会",
@@ -9151,6 +9183,14 @@
       "num": 221617,
       "word": "射雕专属红包封面",
       "onboard_time": 1738031776,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 185679,
+      "num": 225108,
+      "word": "封神第二部已成功打入小孩圈",
+      "onboard_time": 1738390277,
       "rank": 17,
       "category": "电影"
     },
@@ -9288,14 +9328,6 @@
       "word": "申公豹彩蛋",
       "onboard_time": 1738159280,
       "rank": 41,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 182474,
-      "num": 225108,
-      "word": "封神第二部已成功打入小孩圈",
-      "onboard_time": 1738390277,
-      "rank": 17,
       "category": "电影"
     },
     {
@@ -10059,6 +10091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 166336,
+      "num": 130578,
+      "word": "李宇春说想念邓超的热情",
+      "onboard_time": 1738395198,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166299,
       "num": 166299,
       "word": "五福临门妆造",
@@ -10265,6 +10305,14 @@
       "onboard_time": 1738225037,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162731,
+      "num": 162731,
+      "word": "第五人格",
+      "onboard_time": 1737968777,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 162676,
@@ -10971,6 +11019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152445,
+      "num": 122204,
+      "word": "哪吒2里的反父权",
+      "onboard_time": 1738394117,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 152414,
       "num": 111473,
       "word": "檀健次 唱跳俱佳",
@@ -11259,14 +11315,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 148313,
-      "num": 254306,
-      "word": "费城飞机坠毁许多车辆房屋被毁",
-      "onboard_time": 1738392316,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 148052,
       "num": 165673,
       "word": "领舞7岁娃是英歌舞传人",
@@ -11449,6 +11497,14 @@
       "onboard_time": 1738218918,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145724,
+      "num": 128629,
+      "word": "哪吒2票房占比超过6成",
+      "onboard_time": 1738392676,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 145458,
@@ -12715,14 +12771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 128629,
-      "num": 128629,
-      "word": "哪吒2票房占比超过6成",
-      "onboard_time": 1738392676,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
       "raw_hot": 128627,
       "num": 128627,
       "word": "非遗春节好像一个绚烂的万花筒",
@@ -12841,6 +12889,14 @@
       "onboard_time": 1737956897,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127194,
+      "num": 117563,
+      "word": "苏醒不怕花钱怕被老婆骂",
+      "onboard_time": 1738395198,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 127193,
@@ -13339,14 +13395,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 121635,
-      "num": 78541,
-      "word": "哪吒2里的反父权",
-      "onboard_time": 1738394117,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 121538,
       "num": 144674,
       "word": "电竞选手幻云称网恋被骗流露轻生念头",
@@ -13377,6 +13425,14 @@
       "onboard_time": 1737813382,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 121291,
+      "num": 121291,
+      "word": "瓜子",
+      "onboard_time": 1738392676,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 121251,
@@ -14891,6 +14947,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 102282,
+      "num": 102282,
+      "word": "摆烂减肥法",
+      "onboard_time": 1738394656,
+      "rank": 47,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 102263,
       "num": 102263,
       "word": "我的嘴要是能这么有种就好了",
@@ -15059,6 +15123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 100396,
+      "num": 100396,
+      "word": "美军拒绝公开坠机丧生的女飞行员身份",
+      "onboard_time": 1738394176,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 100377,
       "num": 100377,
       "word": "卢卡申科称白俄罗斯永远不会反华",
@@ -15153,6 +15225,14 @@
       "onboard_time": 1738227918,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98811,
+      "num": 233212,
+      "word": "县城的物价为什么这么谜",
+      "onboard_time": 1738394777,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98800,
@@ -15329,14 +15409,6 @@
       "onboard_time": 1737922812,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 96955,
-      "num": 96955,
-      "word": "第五人格",
-      "onboard_time": 1737968777,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 96874,
@@ -16131,22 +16203,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 87271,
-      "num": 87271,
-      "word": "瓜子",
-      "onboard_time": 1738392676,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 87212,
-      "num": 76657,
-      "word": "王耀庆被世界冠军公主抱了",
-      "onboard_time": 1738394416,
-      "rank": 46,
-      "category": "综艺,体育"
-    },
-    {
       "raw_hot": 87210,
       "num": 87210,
       "word": "未来都市再会",
@@ -16385,6 +16441,14 @@
       "onboard_time": 1738200797,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 84475,
+      "num": 269141,
+      "word": "83岁院士说美国封锁不住中国的",
+      "onboard_time": 1738393098,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84406,
@@ -16897,14 +16961,6 @@
       "onboard_time": 1737865938,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 76373,
-      "num": 76373,
-      "word": "美军拒绝公开坠机丧生的女飞行员身份",
-      "onboard_time": 1738394176,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 76360,
@@ -18833,6 +18889,14 @@
       "onboard_time": 1738268890,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 32438,
+      "num": 195275,
+      "word": "白色橄榄树里的宋冉梁洁都对上了",
+      "onboard_time": 1738394598,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 32214,

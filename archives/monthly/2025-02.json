@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738394478626,
+  "endTime": 1738395390392,
   "band_list": [
     {
       "raw_hot": 1597648,
@@ -107,12 +107,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 664214,
+      "raw_hot": 672745,
       "num": 279140,
       "word": "哪吒之魔童闹海票房破20亿",
       "onboard_time": 1738389557,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 624843,
+      "num": 267900,
+      "word": "马斯克点赞无锡拈花湾景区视频",
+      "onboard_time": 1738392015,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 592280,
@@ -121,6 +129,14 @@
       "onboard_time": 1738331600,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 577560,
+      "num": 276079,
+      "word": "欣诚则凌",
+      "onboard_time": 1738393756,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 577385,
@@ -147,14 +163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 534567,
-      "num": 240567,
-      "word": "马斯克点赞无锡拈花湾景区视频",
-      "onboard_time": 1738392015,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 514405,
       "num": 514405,
       "word": "九重紫番外昭世录",
@@ -176,6 +184,14 @@
       "word": "我奶让我牵线白鹿和我二叔相亲",
       "onboard_time": 1738382295,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 492976,
+      "num": 263549,
+      "word": "虞书欣张凌赫聚餐合照",
+      "onboard_time": 1738394656,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -427,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 284629,
+      "num": 178445,
+      "word": "夏雨透露申公豹在第三部魔心高涨",
+      "onboard_time": 1738392556,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 280742,
       "num": 185387,
       "word": "哪吒2或将进入影史票房前三",
@@ -571,20 +595,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 223626,
-      "num": 145802,
-      "word": "夏雨透露申公豹在第三部魔心高涨",
-      "onboard_time": 1738392556,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 221623,
       "num": 221623,
       "word": "美国打压DeepSeek的后果",
       "onboard_time": 1738326858,
       "rank": 41,
       "category": "国际时政,互联网"
+    },
+    {
+      "raw_hot": 218280,
+      "num": 254306,
+      "word": "费城飞机坠毁许多车辆房屋被毁",
+      "onboard_time": 1738392316,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 215117,
@@ -627,6 +651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203525,
+      "num": 154643,
+      "word": "王耀庆被世界冠军公主抱了",
+      "onboard_time": 1738394416,
+      "rank": 46,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 203361,
       "num": 203361,
       "word": "大年初四灶王爷是C位",
@@ -641,6 +673,14 @@
       "onboard_time": 1738391178,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199491,
+      "num": 132061,
+      "word": "有这样的卧室我能一个月不出门",
+      "onboard_time": 1738394837,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 195537,
@@ -723,12 +763,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 187174,
-      "num": 145532,
-      "word": "欣诚则凌",
-      "onboard_time": 1738393756,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 185679,
+      "num": 225108,
+      "word": "封神第二部已成功打入小孩圈",
+      "onboard_time": 1738390277,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 185562,
@@ -753,14 +793,6 @@
       "onboard_time": 1738393337,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 182474,
-      "num": 225108,
-      "word": "封神第二部已成功打入小孩圈",
-      "onboard_time": 1738390277,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 182350,
@@ -819,6 +851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166336,
+      "num": 130578,
+      "word": "李宇春说想念邓超的热情",
+      "onboard_time": 1738395198,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166171,
       "num": 111096,
       "word": "迪丽热巴二月行程送达",
@@ -857,6 +897,14 @@
       "onboard_time": 1738372336,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 162731,
+      "num": 162731,
+      "word": "第五人格",
+      "onboard_time": 1738394777,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 162061,
@@ -915,6 +963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152445,
+      "num": 122204,
+      "word": "哪吒2里的反父权",
+      "onboard_time": 1738394117,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 149301,
       "num": 205616,
       "word": "唐探拍摄地客流暴涨",
@@ -929,14 +985,6 @@
       "onboard_time": 1738338018,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 148313,
-      "num": 254306,
-      "word": "费城飞机坠毁许多车辆房屋被毁",
-      "onboard_time": 1738392316,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 146722,
@@ -961,6 +1009,14 @@
       "onboard_time": 1738384398,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145724,
+      "num": 128629,
+      "word": "哪吒2票房占比超过6成",
+      "onboard_time": 1738392676,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 144298,
@@ -1099,12 +1155,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 128629,
-      "num": 128629,
-      "word": "哪吒2票房占比超过6成",
-      "onboard_time": 1738392676,
-      "rank": 36,
-      "category": "电影"
+      "raw_hot": 127194,
+      "num": 117563,
+      "word": "苏醒不怕花钱怕被老婆骂",
+      "onboard_time": 1738395198,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 126773,
@@ -1155,12 +1211,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 121635,
-      "num": 78541,
-      "word": "哪吒2里的反父权",
-      "onboard_time": 1738394117,
-      "rank": 42,
-      "category": "电影"
+      "raw_hot": 122229,
+      "num": 152995,
+      "word": "身边的年味",
+      "onboard_time": 1738392077,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121291,
+      "num": 121291,
+      "word": "瓜子",
+      "onboard_time": 1738392676,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 120284,
@@ -1193,14 +1257,6 @@
       "onboard_time": 1738381816,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 117694,
-      "num": 152995,
-      "word": "身边的年味",
-      "onboard_time": 1738392077,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116365,
@@ -1363,12 +1419,36 @@
       "category": "国内时政,互联网"
     },
     {
+      "raw_hot": 102282,
+      "num": 102282,
+      "word": "摆烂减肥法",
+      "onboard_time": 1738394656,
+      "rank": 47,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 100542,
       "num": 100542,
       "word": "GOT7演唱会",
       "onboard_time": 1738338259,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 100396,
+      "num": 100396,
+      "word": "美军拒绝公开坠机丧生的女飞行员身份",
+      "onboard_time": 1738394176,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 98811,
+      "num": 233212,
+      "word": "县城的物价为什么这么谜",
+      "onboard_time": 1738394777,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98780,
@@ -1483,28 +1563,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 87271,
-      "num": 87271,
-      "word": "瓜子",
-      "onboard_time": 1738392676,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 87212,
-      "num": 76657,
-      "word": "王耀庆被世界冠军公主抱了",
-      "onboard_time": 1738394416,
-      "rank": 46,
-      "category": "综艺,体育"
-    },
-    {
       "raw_hot": 85705,
       "num": 85705,
       "word": "刘耀文答上了宋亚轩的抽象题",
       "onboard_time": 1738336699,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84475,
+      "num": 269141,
+      "word": "83岁院士说美国封锁不住中国的",
+      "onboard_time": 1738393098,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82705,
@@ -1553,14 +1625,6 @@
       "onboard_time": 1738337479,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 76373,
-      "num": 76373,
-      "word": "美军拒绝公开坠机丧生的女飞行员身份",
-      "onboard_time": 1738394176,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 76133,
@@ -1785,6 +1849,14 @@
       "onboard_time": 1738315277,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 32438,
+      "num": 195275,
+      "word": "白色橄榄树里的宋冉梁洁都对上了",
+      "onboard_time": 1738394598,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 32124,
