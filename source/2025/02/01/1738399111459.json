@@ -1,0 +1,410 @@
+{
+  "runTime": 1738399111459,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1012427,
+        "num": 1161988,
+        "word": "县城的物价为什么这么谜",
+        "onboard_time": 1738394777,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 627683,
+        "num": 627683,
+        "word": "金价",
+        "onboard_time": 1738376776,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 18877,
+        "num": 349225,
+        "word": "2025冰雪之约",
+        "onboard_time": 1738376177,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 960722,
+        "num": 343855,
+        "word": "虞书欣张凌赫聚餐合照",
+        "onboard_time": 1738394656,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335186,
+        "num": 335186,
+        "word": "徐福记成时代眼泪了吗",
+        "onboard_time": 1738396218,
+        "rank": 4,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 592773,
+        "num": 329598,
+        "word": "蒋欣自曝保持身材的秘诀",
+        "onboard_time": 1738390157,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 520472,
+        "num": 319584,
+        "word": "向佐自曝曾被郭碧婷狠狠拒绝",
+        "onboard_time": 1738381276,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265862,
+        "num": 265862,
+        "word": "三家美国巨头同日接入DeepSeek",
+        "onboard_time": 1738385358,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 445345,
+        "num": 265620,
+        "word": "虞书欣又给Jennie打歌了",
+        "onboard_time": 1738395796,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 33181,
+        "num": 263699,
+        "word": "白衣小哥讲述海边救人细节",
+        "onboard_time": 1738398497,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 545659,
+        "num": 262449,
+        "word": "有这样的卧室我能一个月不出门",
+        "onboard_time": 1738394837,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 389432,
+        "num": 260153,
+        "word": "哪吒2",
+        "onboard_time": 1738386858,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 366964,
+        "num": 259268,
+        "word": "李小冉回应退繁花群",
+        "onboard_time": 1738370415,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370094,
+        "num": 258441,
+        "word": "哪吒之魔童闹海票房破20亿",
+        "onboard_time": 1738389557,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 14723,
+        "num": 256652,
+        "word": "加州有的旧金山德州也有",
+        "onboard_time": 1738398558,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 255832,
+        "num": 255832,
+        "word": "费城飞机坠毁许多车辆房屋被毁",
+        "onboard_time": 1738392316,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 223627,
+        "num": 223627,
+        "word": "马斯克点赞无锡拈花湾景区视频",
+        "onboard_time": 1738392015,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 208105,
+        "num": 208105,
+        "word": "美国4天内4机坠毁",
+        "onboard_time": 1738397178,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 174890,
+        "num": 174890,
+        "word": "王楚钦可爱童年照",
+        "onboard_time": 1738392316,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122627,
+        "num": 122627,
+        "word": "农村为何普遍早婚早育",
+        "onboard_time": 1738388656,
+        "rank": 19,
+        "category": "民生新闻,母婴育儿"
+      },
+      {
+        "raw_hot": 333951,
+        "num": 122601,
+        "word": "夏雨透露申公豹在第三部魔心高涨",
+        "onboard_time": 1738392556,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 320002,
+        "num": 122587,
+        "word": "全网都知道苏醒在迪拜买贵了",
+        "onboard_time": 1738398076,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212628,
+        "num": 122519,
+        "word": "赵一博直播",
+        "onboard_time": 1738397956,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295391,
+        "num": 122507,
+        "word": "欣诚则凌",
+        "onboard_time": 1738393756,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257830,
+        "num": 122444,
+        "word": "结婚以后过年成了一件孤独的事",
+        "onboard_time": 1738397417,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277214,
+        "num": 122415,
+        "word": "王耀庆被世界冠军公主抱了",
+        "onboard_time": 1738394416,
+        "rank": 25,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 111054,
+        "num": 122376,
+        "word": "大年初四接好运攻略",
+        "onboard_time": 1738381578,
+        "rank": 26,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 270002,
+        "num": 122354,
+        "word": "刘耀文弟弟对宋亚轩说新年快乐",
+        "onboard_time": 1738397056,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232173,
+        "num": 122329,
+        "word": "台媒讨论赵露思生病事件",
+        "onboard_time": 1738395437,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188994,
+        "num": 122293,
+        "word": "云起时",
+        "onboard_time": 1738397956,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186579,
+        "num": 122242,
+        "word": "云秀行",
+        "onboard_time": 1738397297,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183012,
+        "num": 122208,
+        "word": "哪吒大热离不开电影人的死磕到底",
+        "onboard_time": 1738396158,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171659,
+        "num": 122152,
+        "word": "王宝强说唐探4踩好点了",
+        "onboard_time": 1738390997,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122150,
+        "num": 122150,
+        "word": "摆烂减肥法",
+        "onboard_time": 1738394656,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 118338,
+        "num": 118338,
+        "word": "大年初四全国人民都挺忙",
+        "onboard_time": 1738373236,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152066,
+        "num": 116758,
+        "word": "哪吒2票房逆跌",
+        "onboard_time": 1738334779,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138108,
+        "num": 115816,
+        "word": "你好星期六全员为了修图权豁出去了",
+        "onboard_time": 1738396757,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135799,
+        "num": 115031,
+        "word": "哪吒2票房占比超过6成",
+        "onboard_time": 1738392676,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111342,
+        "num": 111342,
+        "word": "身边的年味",
+        "onboard_time": 1738392077,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104654,
+        "num": 104654,
+        "word": "9岁女孩独自参观爬宠展遭鳄鱼咬伤",
+        "onboard_time": 1738398917,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135552,
+        "num": 103688,
+        "word": "李昀锐哭的让人心痛",
+        "onboard_time": 1738396516,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129948,
+        "num": 101690,
+        "word": "春节档票房预测",
+        "onboard_time": 1738396277,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127898,
+        "num": 99246,
+        "word": "刘诗诗只是一味的吊人胃口",
+        "onboard_time": 1738399037,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95953,
+        "num": 95953,
+        "word": "瓜子",
+        "onboard_time": 1738392676,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92955,
+        "num": 92955,
+        "word": "T1对战GEN",
+        "onboard_time": 1738392737,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 91268,
+        "num": 91268,
+        "word": "美军拒绝公开坠机丧生的女飞行员身份",
+        "onboard_time": 1738394176,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91113,
+        "num": 91113,
+        "word": "记者实探金饰价格飙升",
+        "onboard_time": 1738396037,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 82338,
+        "num": 82338,
+        "word": "亚冬会公众门票赛时销售启动",
+        "onboard_time": 1738398558,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77468,
+        "num": 77468,
+        "word": "第五人格",
+        "onboard_time": 1738394777,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 74601,
+        "num": 74601,
+        "word": "美国四天四架飞机失事",
+        "onboard_time": 1738372276,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记感受春节年味儿#"
+    }
+  }
+}
