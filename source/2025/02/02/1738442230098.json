@@ -1,0 +1,410 @@
+{
+  "runTime": 1738442230098,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 322758,
+        "num": 322758,
+        "word": "三亚紧急发布6条措施明日实施",
+        "onboard_time": 1738430234,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120380,
+        "num": 120380,
+        "word": "石矶娘娘",
+        "onboard_time": 1738424178,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 14095,
+        "num": 113543,
+        "word": "文化中国行非遗雅韵中国年",
+        "onboard_time": 1738420759,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 107758,
+        "num": 107758,
+        "word": "于冬反问无名只配6.6分吗",
+        "onboard_time": 1738426457,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102639,
+        "num": 102639,
+        "word": "女生一觉醒来相亲对象已站床边",
+        "onboard_time": 1738415179,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80156,
+        "num": 80156,
+        "word": "初五过年习俗",
+        "onboard_time": 1738426938,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68850,
+        "num": 68850,
+        "word": "饺子又要隆重登场啦",
+        "onboard_time": 1738421900,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65190,
+        "num": 65190,
+        "word": "孟子义上节目穿几十块的衣服",
+        "onboard_time": 1738405697,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53679,
+        "num": 53679,
+        "word": "哪吒",
+        "onboard_time": 1738409000,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 44348,
+        "num": 44348,
+        "word": "夫妻狂追5分钟截停起火货车",
+        "onboard_time": 1738438871,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 52825,
+        "num": 44341,
+        "word": "费城坠毁飞机上的女孩刚做了救命手术",
+        "onboard_time": 1738415417,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 44334,
+        "num": 44334,
+        "word": "后排观众太吵男子忍到电影结束开麦了",
+        "onboard_time": 1738419200,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41802,
+        "num": 41802,
+        "word": "正月初五为啥又叫破五",
+        "onboard_time": 1738423639,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12051,
+        "num": 41143,
+        "word": "费城空难目前无法确认是否有幸存者",
+        "onboard_time": 1738441390,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 40603,
+        "num": 40603,
+        "word": "DeepSeek创始人同乡回应游客打卡",
+        "onboard_time": 1738424418,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40268,
+        "num": 40268,
+        "word": "梁洁居然还戴着白色橄榄树红绳",
+        "onboard_time": 1738423158,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38220,
+        "num": 38220,
+        "word": "王鹤棣谈恋爱更喜欢姐姐",
+        "onboard_time": 1738417221,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37380,
+        "num": 37380,
+        "word": "哪吒3",
+        "onboard_time": 1738410378,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 37089,
+        "num": 37089,
+        "word": "孤注一掷",
+        "onboard_time": 1738416378,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27153,
+        "num": 27153,
+        "word": "五路财神",
+        "onboard_time": 1738422739,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36124,
+        "num": 27146,
+        "word": "徐明浩直播突现双重人格",
+        "onboard_time": 1738420341,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31368,
+        "num": 27014,
+        "word": "白色橄榄树",
+        "onboard_time": 1738404497,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31009,
+        "num": 26946,
+        "word": "宝妈着急上厕所把孩子交给武警",
+        "onboard_time": 1738430475,
+        "rank": 22,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 29305,
+        "num": 26907,
+        "word": "哪吒之魔童闹海票房破25亿",
+        "onboard_time": 1738418779,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26867,
+        "num": 26867,
+        "word": "敖丙传",
+        "onboard_time": 1738420759,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26432,
+        "num": 26432,
+        "word": "OpenAI首席执行官承认站在历史错误一边",
+        "onboard_time": 1738415360,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 25077,
+        "num": 25077,
+        "word": "儿媳过年为婆婆化妆最开心的是公公",
+        "onboard_time": 1738440191,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24716,
+        "num": 24716,
+        "word": "申公豹",
+        "onboard_time": 1738423277,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23880,
+        "num": 23880,
+        "word": "陈哲远憋不了一点",
+        "onboard_time": 1738427298,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21506,
+        "num": 21506,
+        "word": "全网都知道苏醒在迪拜买贵了",
+        "onboard_time": 1738398076,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21378,
+        "num": 21378,
+        "word": "拍射雕的3个初衷",
+        "onboard_time": 1738410199,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 21312,
+        "num": 21312,
+        "word": "敖光",
+        "onboard_time": 1738407137,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20932,
+        "num": 20932,
+        "word": "初五财蛇到",
+        "onboard_time": 1738430715,
+        "rank": 32,
+        "category": "民生新闻,幽默"
+      },
+      {
+        "raw_hot": 20877,
+        "num": 20877,
+        "word": "一个回头救了一个家庭",
+        "onboard_time": 1738420699,
+        "rank": 33,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 19967,
+        "num": 19967,
+        "word": "好友揭秘王菲春晚落泪",
+        "onboard_time": 1738417579,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19727,
+        "num": 19727,
+        "word": "敖丙",
+        "onboard_time": 1738402697,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19347,
+        "num": 19347,
+        "word": "新女婿喝4碗自家酿酒醉倒被抬进屋",
+        "onboard_time": 1738403717,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18414,
+        "num": 18414,
+        "word": "儿媳过年在家爆改婆婆",
+        "onboard_time": 1738419140,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18377,
+        "num": 18377,
+        "word": "哪吒2",
+        "onboard_time": 1738386858,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17885,
+        "num": 17885,
+        "word": "三巨头同日接入DeepSeek",
+        "onboard_time": 1738422860,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 16459,
+        "num": 16459,
+        "word": "susu福福",
+        "onboard_time": 1738437971,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12485,
+        "num": 16360,
+        "word": "6年前的这个场景真暖",
+        "onboard_time": 1738442170,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16287,
+        "num": 16287,
+        "word": "各省特色饮料",
+        "onboard_time": 1738414519,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 16041,
+        "num": 16041,
+        "word": "王一博一句话概括了所有选手年龄",
+        "onboard_time": 1738421060,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15870,
+        "num": 15870,
+        "word": "哪吒2魔童闹海",
+        "onboard_time": 1738434314,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15834,
+        "num": 15834,
+        "word": "吃胖的小肚子最怕这三个动作",
+        "onboard_time": 1738418419,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 15338,
+        "num": 15338,
+        "word": "高速逆行致轿车撞护栏的骑车人已被挡获",
+        "onboard_time": 1738428735,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15058,
+        "num": 15058,
+        "word": "白色橄榄树热度",
+        "onboard_time": 1738410798,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15043,
+        "num": 15043,
+        "word": "5个孩子凑2000压岁钱给奶奶买手机",
+        "onboard_time": 1738411578,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14776,
+        "num": 15043,
+        "word": "被猫妈强行抱在怀里的小狗",
+        "onboard_time": 1738419260,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#6年前的这个场景真暖#"
+    }
+  }
+}
