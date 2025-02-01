@@ -1,0 +1,410 @@
+{
+  "runTime": 1738391350681,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 876498,
+        "num": 1140239,
+        "word": "金价",
+        "onboard_time": 1738376776,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 629225,
+        "num": 629225,
+        "word": "哪吒2票房逆跌",
+        "onboard_time": 1738334779,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41971,
+        "num": 529452,
+        "word": "大年初四接好运攻略",
+        "onboard_time": 1738381578,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 835519,
+        "num": 511262,
+        "word": "向佐自曝曾被郭碧婷狠狠拒绝",
+        "onboard_time": 1738381276,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 488694,
+        "num": 488694,
+        "word": "农村为何普遍早婚早育",
+        "onboard_time": 1738388656,
+        "rank": 4,
+        "category": "民生新闻,母婴育儿"
+      },
+      {
+        "raw_hot": 363747,
+        "num": 363747,
+        "word": "三家美国巨头同日接入DeepSeek",
+        "onboard_time": 1738385358,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 624829,
+        "num": 352976,
+        "word": "李小冉回应退繁花群",
+        "onboard_time": 1738370415,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229491,
+        "num": 229491,
+        "word": "美国四天四架飞机失事",
+        "onboard_time": 1738372276,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 86044,
+        "num": 229444,
+        "word": "哪吒导演饺子谈创作的痛苦",
+        "onboard_time": 1738389796,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30314,
+        "num": 229205,
+        "word": "假还没过完已经有节后综合征了",
+        "onboard_time": 1738390577,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 459407,
+        "num": 229007,
+        "word": "哪吒之魔童闹海票房破20亿",
+        "onboard_time": 1738389557,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 432818,
+        "num": 228553,
+        "word": "李小冉说我是没有一个官司在身上的",
+        "onboard_time": 1738385598,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402724,
+        "num": 228338,
+        "word": "我家那小子",
+        "onboard_time": 1738386139,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374365,
+        "num": 228202,
+        "word": "老敖这一家子顶级魅魔",
+        "onboard_time": 1738384696,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100369,
+        "num": 227892,
+        "word": "美国一小型飞机坠机瞬间强光乍现",
+        "onboard_time": 1738389737,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 315774,
+        "num": 227689,
+        "word": "杜润旺已婚",
+        "onboard_time": 1738388656,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227555,
+        "num": 227555,
+        "word": "大年初四全国人民都挺忙",
+        "onboard_time": 1738373236,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147562,
+        "num": 225108,
+        "word": "封神第二部已成功打入小孩圈",
+        "onboard_time": 1738390277,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158436,
+        "num": 221453,
+        "word": "此沙二月第一天剪了个春",
+        "onboard_time": 1738390637,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40477,
+        "num": 216734,
+        "word": "短剧剧组春节在横店抢雪景",
+        "onboard_time": 1738389917,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355702,
+        "num": 213507,
+        "word": "陈哲远梁洁五年前vs五年后",
+        "onboard_time": 1738385537,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307911,
+        "num": 209764,
+        "word": "蒋欣自曝保持身材的秘诀",
+        "onboard_time": 1738390157,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209148,
+        "num": 209148,
+        "word": "DeepSeek在美商标被梁文锋校友抢注",
+        "onboard_time": 1738376837,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 162061,
+        "num": 162061,
+        "word": "正月不能理发有解释了",
+        "onboard_time": 1738388777,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21750,
+        "num": 158946,
+        "word": "塔图姆绝杀鹈鹕",
+        "onboard_time": 1738382837,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281209,
+        "num": 150921,
+        "word": "白鹿过年也得给家人表演节目",
+        "onboard_time": 1738384459,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 243267,
+        "num": 131412,
+        "word": "哪吒2",
+        "onboard_time": 1738386858,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170733,
+        "num": 125760,
+        "word": "五福临门全是男妲己",
+        "onboard_time": 1738390637,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120185,
+        "num": 120185,
+        "word": "官方通报罐车侧翻致粗苯泄漏",
+        "onboard_time": 1738387697,
+        "rank": 28,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 119887,
+        "num": 119887,
+        "word": "女子除夕错转1万元红包给陌生人",
+        "onboard_time": 1738365553,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238795,
+        "num": 119623,
+        "word": "李小冉战斗力",
+        "onboard_time": 1738387637,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 744401,
+        "num": 119019,
+        "word": "向太每天转发恶评到繁花群",
+        "onboard_time": 1738382598,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227642,
+        "num": 118111,
+        "word": "哪吒2敖丙和他爸要帅到一个底子上",
+        "onboard_time": 1738383077,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201701,
+        "num": 117743,
+        "word": "我奶让我牵线白鹿和我二叔相亲",
+        "onboard_time": 1738382295,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170072,
+        "num": 116790,
+        "word": "九重紫短剧",
+        "onboard_time": 1738381878,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163482,
+        "num": 115822,
+        "word": "陈哲远 阿瓒我爱你",
+        "onboard_time": 1738391178,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115790,
+        "num": 115790,
+        "word": "正月初一男子在女友家饭桌上被带走",
+        "onboard_time": 1738366272,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88567,
+        "num": 88567,
+        "word": "大年初四灶王爷是C位",
+        "onboard_time": 1738376597,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88117,
+        "num": 88117,
+        "word": "父亲离世儿子过年回家独坐门口落泪",
+        "onboard_time": 1738382777,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87817,
+        "num": 87817,
+        "word": "库里隐身",
+        "onboard_time": 1738389197,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162184,
+        "num": 87790,
+        "word": "王宝强说唐探4踩好点了",
+        "onboard_time": 1738390997,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146722,
+        "num": 87627,
+        "word": "唐探1900",
+        "onboard_time": 1738390879,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146618,
+        "num": 87567,
+        "word": "射雕",
+        "onboard_time": 1738384038,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125653,
+        "num": 87495,
+        "word": "刘晓庆不服输也不扶人",
+        "onboard_time": 1738389917,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87408,
+        "num": 87408,
+        "word": "OpenAI奥特曼承认开源策略失误",
+        "onboard_time": 1738387938,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 82318,
+        "num": 82318,
+        "word": "大年初四迎灶神啦",
+        "onboard_time": 1738371917,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70135,
+        "num": 82198,
+        "word": "大年初四接灶王",
+        "onboard_time": 1738345094,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69095,
+        "num": 82154,
+        "word": "初五迎财神",
+        "onboard_time": 1738390397,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67839,
+        "num": 82005,
+        "word": "春运期间退票为啥这么贵",
+        "onboard_time": 1738378817,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66650,
+        "num": 81847,
+        "word": "埃文凯尔原定来华30天待90天不愿走",
+        "onboard_time": 1738378576,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#注重家庭注重家教注重家风#"
+    }
+  }
+}

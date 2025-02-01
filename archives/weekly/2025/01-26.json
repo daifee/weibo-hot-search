@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738388213966,
+  "endTime": 1738391350681,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -620,7 +620,7 @@
     },
     {
       "raw_hot": 1597648,
-      "num": 465485,
+      "num": 511262,
       "word": "向佐自曝曾被郭碧婷狠狠拒绝",
       "onboard_time": 1738381276,
       "rank": 3,
@@ -3459,6 +3459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 488694,
+      "num": 488694,
+      "word": "农村为何普遍早婚早育",
+      "onboard_time": 1738388656,
+      "rank": 4,
+      "category": "民生新闻,母婴育儿"
+    },
+    {
       "raw_hot": 486525,
       "num": 401574,
       "word": "陈都灵 偶遇一条萌萌蛇",
@@ -3713,6 +3721,14 @@
       "onboard_time": 1738046117,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 459407,
+      "num": 229007,
+      "word": "哪吒之魔童闹海票房破20亿",
+      "onboard_time": 1738389557,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 458537,
@@ -3987,6 +4003,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 432818,
+      "num": 271123,
+      "word": "李小冉说我是没有一个官司在身上的",
+      "onboard_time": 1738385598,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 431625,
       "num": 431625,
       "word": "多国给DeepSeek使用设限",
@@ -4252,7 +4276,7 @@
     },
     {
       "raw_hot": 405185,
-      "num": 204424,
+      "num": 228202,
       "word": "老敖这一家子顶级魅魔",
       "onboard_time": 1738384696,
       "rank": 21,
@@ -4273,6 +4297,14 @@
       "onboard_time": 1738281375,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 402724,
+      "num": 228338,
+      "word": "我家那小子",
+      "onboard_time": 1738386139,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 399933,
@@ -4755,6 +4787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 363747,
+      "num": 363747,
+      "word": "三家美国巨头同日接入DeepSeek",
+      "onboard_time": 1738385358,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 363423,
       "num": 272732,
       "word": "乌尔善说姬发邓婵玉是惺惺相惜",
@@ -5211,14 +5251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 332077,
-      "num": 98407,
-      "word": "我家那小子",
-      "onboard_time": 1738386139,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 331519,
       "num": 331519,
       "word": "联合国建议日本允许女性继承皇位",
@@ -5305,14 +5337,6 @@
       "onboard_time": 1738040356,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 326232,
-      "num": 271123,
-      "word": "李小冉说我是没有一个官司在身上的",
-      "onboard_time": 1738385598,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 325803,
@@ -5443,6 +5467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 315774,
+      "num": 227689,
+      "word": "杜润旺已婚",
+      "onboard_time": 1738388656,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 315454,
       "num": 315454,
       "word": "娜然封神首映再现妲己花瓣妆",
@@ -5563,6 +5595,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 307911,
+      "num": 209764,
+      "word": "蒋欣自曝保持身材的秘诀",
+      "onboard_time": 1738390157,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 307805,
       "num": 307805,
       "word": "王者荣耀 嫦娥",
@@ -5577,14 +5617,6 @@
       "onboard_time": 1737928271,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 307284,
-      "num": 307284,
-      "word": "三家美国巨头同日接入DeepSeek",
-      "onboard_time": 1738385358,
-      "rank": 17,
-      "category": "互联网"
     },
     {
       "raw_hot": 305941,
@@ -6801,6 +6833,14 @@
       "onboard_time": 1737956835,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 238795,
+      "num": 119623,
+      "word": "李小冉战斗力",
+      "onboard_time": 1738387637,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 237875,
@@ -8363,14 +8403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195298,
-      "num": 92207,
-      "word": "李小冉战斗力",
-      "onboard_time": 1738387637,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 195215,
       "num": 195215,
       "word": "赵丽颖向阳花贴片",
@@ -9707,6 +9739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 170733,
+      "num": 125760,
+      "word": "五福临门全是男妲己",
+      "onboard_time": 1738390637,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170536,
       "num": 214799,
       "word": "尤长靖分享马来西亚春节风俗",
@@ -10075,6 +10115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163482,
+      "num": 115822,
+      "word": "陈哲远 阿瓒我爱你",
+      "onboard_time": 1738391178,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163405,
       "num": 187248,
       "word": "张钧甯五本主流刊",
@@ -10187,6 +10235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 162184,
+      "num": 87790,
+      "word": "王宝强说唐探4踩好点了",
+      "onboard_time": 1738390997,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 162137,
       "num": 187461,
       "word": "今天是乙巳蛇年第一天",
@@ -10201,6 +10257,14 @@
       "onboard_time": 1738044617,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162061,
+      "num": 162061,
+      "word": "正月不能理发有解释了",
+      "onboard_time": 1738388777,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162045,
@@ -10425,6 +10489,14 @@
       "onboard_time": 1738081529,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158436,
+      "num": 221453,
+      "word": "此沙二月第一天剪了个春",
+      "onboard_time": 1738390637,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 158393,
@@ -11145,6 +11217,14 @@
       "onboard_time": 1737859879,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147562,
+      "num": 225108,
+      "word": "封神第二部已成功打入小孩圈",
+      "onboard_time": 1738390277,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 147536,
@@ -12827,6 +12907,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 125653,
+      "num": 87495,
+      "word": "刘晓庆不服输也不扶人",
+      "onboard_time": 1738389917,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125329,
       "num": 125329,
       "word": "打工宝妈在国色芳华里演上了贵人",
@@ -13265,6 +13353,14 @@
       "onboard_time": 1738309816,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120185,
+      "num": 120185,
+      "word": "官方通报罐车侧翻致粗苯泄漏",
+      "onboard_time": 1738387697,
+      "rank": 28,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 120067,
@@ -14827,6 +14923,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 100369,
+      "num": 227892,
+      "word": "美国一小型飞机坠机瞬间强光乍现",
+      "onboard_time": 1738389737,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 100334,
       "num": 169586,
       "word": "魏大勋温暖讲述春节里的中国",
@@ -15827,6 +15931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87817,
+      "num": 87817,
+      "word": "库里隐身",
+      "onboard_time": 1738389197,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87805,
       "num": 111052,
       "word": "四川警方除夕侦破特大贩毒案",
@@ -15849,6 +15961,14 @@
       "onboard_time": 1737894678,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87408,
+      "num": 87408,
+      "word": "OpenAI奥特曼承认开源策略失误",
+      "onboard_time": 1738387938,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 87393,
@@ -15993,6 +16113,14 @@
       "onboard_time": 1738285276,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86044,
+      "num": 229444,
+      "word": "哪吒导演饺子谈创作的痛苦",
+      "onboard_time": 1738389796,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 85877,
@@ -16563,14 +16691,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 77462,
-      "num": 82677,
-      "word": "OpenAI奥特曼承认开源策略失误",
-      "onboard_time": 1738387938,
-      "rank": 47,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 77137,
       "num": 112275,
       "word": "网友科幻乐园偶遇张泽禹",
@@ -16977,6 +17097,14 @@
       "onboard_time": 1737859097,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69095,
+      "num": 82154,
+      "word": "初五迎财神",
+      "onboard_time": 1738390397,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 68916,
@@ -17732,7 +17860,7 @@
     },
     {
       "raw_hot": 51736,
-      "num": 482743,
+      "num": 529452,
       "word": "大年初四接好运攻略",
       "onboard_time": 1738381578,
       "rank": 2,
@@ -18121,6 +18249,14 @@
       "onboard_time": 1737874458,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 40477,
+      "num": 216734,
+      "word": "短剧剧组春节在横店抢雪景",
+      "onboard_time": 1738389917,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40339,
@@ -18683,6 +18819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 30314,
+      "num": 229205,
+      "word": "假还没过完已经有节后综合征了",
+      "onboard_time": 1738390577,
+      "rank": 9,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 29397,
       "num": 279911,
       "word": "曾舜晞米兰vlog",
@@ -19225,6 +19369,14 @@
       "onboard_time": 1737930613,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21750,
+      "num": 158946,
+      "word": "塔图姆绝杀鹈鹕",
+      "onboard_time": 1738382837,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 21580,
