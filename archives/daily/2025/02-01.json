@@ -1,10 +1,10 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738375255300,
+  "endTime": 1738378326754,
   "band_list": [
     {
       "raw_hot": 1493250,
-      "num": 386520,
+      "num": 666207,
       "word": "李小冉回应退繁花群",
       "onboard_time": 1738370415,
       "rank": 3,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 991425,
-      "num": 350131,
+      "num": 464693,
       "word": "马丽方律师声明",
       "onboard_time": 1738372997,
       "rank": 11,
@@ -33,6 +33,14 @@
       "onboard_time": 1738337421,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 942924,
+      "num": 1150867,
+      "word": "DeepSeek成精",
+      "onboard_time": 1738371496,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 844095,
@@ -49,6 +57,14 @@
       "onboard_time": 1738332320,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 657849,
+      "num": 657849,
+      "word": "大年初四全国人民都挺忙",
+      "onboard_time": 1738373236,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 592280,
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 399068,
-      "num": 348718,
+      "num": 357214,
       "word": "哪吒2预测总票房超67.4亿",
       "onboard_time": 1738368434,
       "rank": 12,
@@ -137,14 +153,6 @@
       "onboard_time": 1738368916,
       "rank": 4,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 344468,
-      "num": 344468,
-      "word": "DeepSeek成精",
-      "onboard_time": 1738371496,
-      "rank": 18,
-      "category": "互联网"
     },
     {
       "raw_hot": 335785,
@@ -177,6 +185,14 @@
       "onboard_time": 1738334961,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 287129,
+      "num": 287129,
+      "word": "金价",
+      "onboard_time": 1738376776,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 280742,
@@ -219,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 252746,
+      "num": 252746,
+      "word": "李小冉深夜回怼网友",
+      "onboard_time": 1738375757,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250611,
       "num": 186255,
       "word": "封神2妲己严选的女孩是艾米",
@@ -259,12 +283,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 225879,
+      "num": 158336,
+      "word": "哪吒2或成影史新票房冠军",
+      "onboard_time": 1738372516,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 221623,
       "num": 221623,
       "word": "美国打压DeepSeek的后果",
       "onboard_time": 1738326858,
       "rank": 41,
       "category": "国际时政,互联网"
+    },
+    {
+      "raw_hot": 219996,
+      "num": 219996,
+      "word": "美国四天四架飞机失事",
+      "onboard_time": 1738372276,
+      "rank": 35,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 215117,
@@ -291,12 +331,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199004,
-      "num": 158336,
-      "word": "哪吒2或成影史新票房冠军",
-      "onboard_time": 1738372516,
-      "rank": 27,
-      "category": "电影"
+      "raw_hot": 203361,
+      "num": 203361,
+      "word": "大年初四灶王爷是C位",
+      "onboard_time": 1738376597,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195260,
@@ -395,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163362,
+      "num": 140064,
+      "word": "哪吒2上座率",
+      "onboard_time": 1738372336,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 156044,
       "num": 133273,
       "word": "朋友圈背景图",
@@ -417,6 +465,14 @@
       "onboard_time": 1738337058,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 144074,
+      "num": 144074,
+      "word": "我是老君山肚子里的洞",
+      "onboard_time": 1738373477,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141837,
@@ -459,11 +515,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134116,
+      "num": 131726,
+      "word": "DeepSeek在美商标被梁文锋校友抢注",
+      "onboard_time": 1738376837,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 133216,
       "num": 133216,
       "word": "乙巳蛇年为啥会出现两头春",
       "onboard_time": 1738329259,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131137,
+      "num": 131137,
+      "word": "孙颖莎备战边训练边做数学题",
+      "onboard_time": 1738374976,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 126558,
+      "num": 126558,
+      "word": "县城正在消失的老头乐",
+      "onboard_time": 1738375217,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -483,20 +563,20 @@
       "category": "电竞,游戏"
     },
     {
-      "raw_hot": 120069,
-      "num": 120069,
-      "word": "哪吒2上座率",
-      "onboard_time": 1738372336,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 118342,
       "num": 118342,
       "word": "石破茂呼吁审视日本为何发动战争",
       "onboard_time": 1738370895,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 118082,
+      "num": 118082,
+      "word": "唐探拍摄地火得不像样",
+      "onboard_time": 1738377856,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 116365,
@@ -523,6 +603,14 @@
       "category": "演出,体育"
     },
     {
+      "raw_hot": 114780,
+      "num": 112982,
+      "word": "刘昊然 振邦哥哥别笑了我害怕",
+      "onboard_time": 1738377497,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 114156,
       "num": 114156,
       "word": "张新成 那么大张脸",
@@ -537,14 +625,6 @@
       "onboard_time": 1738368254,
       "rank": 33,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 112984,
-      "num": 112984,
-      "word": "美国四天四架飞机失事",
-      "onboard_time": 1738372276,
-      "rank": 35,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 112546,
@@ -571,12 +651,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 106098,
-      "num": 106098,
-      "word": "大年初四全国人民都挺忙",
-      "onboard_time": 1738373236,
+      "raw_hot": 109087,
+      "num": 109087,
+      "word": "印度称DeepSeek很快部署在当地服务器",
+      "onboard_time": 1738377978,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 105804,
+      "num": 105804,
+      "word": "内马尔回归母队掩面而泣",
+      "onboard_time": 1738375096,
       "rank": 44,
-      "category": "民生新闻"
+      "category": "体育"
     },
     {
       "raw_hot": 103150,
@@ -603,6 +691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 96551,
+      "num": 96551,
+      "word": "苹果很甜",
+      "onboard_time": 1738377737,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 95742,
       "num": 95742,
       "word": "退伍军人顶着海浪连救2人",
@@ -611,16 +707,16 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 95480,
-      "num": 95480,
-      "word": "内马尔回归母队掩面而泣",
-      "onboard_time": 1738375096,
-      "rank": 44,
-      "category": "体育"
+      "raw_hot": 93816,
+      "num": 93816,
+      "word": "台当局也跳出来对DeepSeek指手画脚",
+      "onboard_time": 1738375336,
+      "rank": 47,
+      "category": "国内时政,互联网"
     },
     {
       "raw_hot": 93621,
-      "num": 391403,
+      "num": 671970,
       "word": "中国人的春节传统走向世界了",
       "onboard_time": 1738324099,
       "rank": 2,
@@ -667,14 +763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 88785,
-      "num": 88785,
-      "word": "我是老君山肚子里的洞",
-      "onboard_time": 1738373477,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85705,
       "num": 85705,
       "word": "刘耀文答上了宋亚轩的抽象题",
@@ -683,12 +771,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 85160,
-      "num": 85160,
-      "word": "县城正在消失的老头乐",
-      "onboard_time": 1738375217,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 81832,
+      "num": 141971,
+      "word": "2025冰雪之约",
+      "onboard_time": 1738376177,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 80010,
@@ -713,6 +801,14 @@
       "onboard_time": 1738337479,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 77420,
+      "num": 205616,
+      "word": "唐探拍摄地客流暴涨",
+      "onboard_time": 1738376955,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 75718,
