@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738431309058,
+  "endTime": 1738434412499,
   "band_list": [
     {
       "raw_hot": 1154235,
@@ -387,6 +387,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 91399,
+      "num": 91399,
+      "word": "高速逆行致轿车撞护栏的骑车人已被挡获",
+      "onboard_time": 1738428735,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86466,
       "num": 97357,
       "word": "山东一道名菜被全网盯上了",
@@ -435,14 +443,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 58376,
-      "num": 73564,
-      "word": "高速逆行致轿车撞护栏的骑车人已被挡获",
-      "onboard_time": 1738428735,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 55529,
       "num": 71224,
       "word": "伯恩茅斯0比2利物浦",
@@ -483,12 +483,28 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 35074,
+      "num": 35074,
+      "word": "哪吒2魔童闹海",
+      "onboard_time": 1738434314,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 34822,
       "num": 61663,
       "word": "DeepSeek下载量霸占140多个国家榜首",
       "onboard_time": 1738418119,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 32867,
+      "num": 38474,
+      "word": "宝妈着急上厕所把孩子交给武警",
+      "onboard_time": 1738430475,
+      "rank": 29,
+      "category": "正能量"
     },
     {
       "raw_hot": 28083,
