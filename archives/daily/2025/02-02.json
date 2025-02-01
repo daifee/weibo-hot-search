@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738437380268,
+  "endTime": 1738438511507,
   "band_list": [
     {
       "raw_hot": 1154235,
@@ -451,7 +451,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 56523,
+      "raw_hot": 57827,
       "num": 38474,
       "word": "宝妈着急上厕所把孩子交给武警",
       "onboard_time": 1738430475,
@@ -521,6 +521,22 @@
       "onboard_time": 1738436592,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23200,
+      "num": 19919,
+      "word": "丁禹兮新春写真",
+      "onboard_time": 1738437791,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 22284,
+      "num": 19743,
+      "word": "susu福福",
+      "onboard_time": 1738437971,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 21938,
