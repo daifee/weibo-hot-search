@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738416102453,
+  "endTime": 1738416921530,
   "band_list": [
     {
       "raw_hot": 2232738,
@@ -17,6 +17,14 @@
       "onboard_time": 1738381276,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1548658,
+      "num": 1548658,
+      "word": "女生一觉醒来相亲对象已站床边",
+      "onboard_time": 1738415179,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1493250,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 1158844,
-      "num": 409696,
+      "num": 486466,
       "word": "孟子义上节目穿几十块的衣服",
       "onboard_time": 1738405697,
       "rank": 27,
@@ -68,15 +76,15 @@
     },
     {
       "raw_hot": 1090797,
-      "num": 470404,
+      "num": 495720,
       "word": "没想过是梁洁但意外合适",
       "onboard_time": 1738408637,
       "rank": 23,
       "category": "剧集"
     },
     {
-      "raw_hot": 1077179,
-      "num": 379749,
+      "raw_hot": 1090341,
+      "num": 1090341,
       "word": "哪吒3",
       "onboard_time": 1738410378,
       "rank": 10,
@@ -219,6 +227,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 704590,
+      "num": 704590,
+      "word": "费城坠毁飞机上的女孩刚做了救命手术",
+      "onboard_time": 1738415417,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 672745,
       "num": 363196,
       "word": "哪吒之魔童闹海票房破20亿",
@@ -243,16 +259,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 587879,
-      "num": 587879,
-      "word": "女生一觉醒来相亲对象已站床边",
-      "onboard_time": 1738415179,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 584163,
-      "num": 315267,
+      "num": 455312,
       "word": "哪吒",
       "onboard_time": 1738409000,
       "rank": 7,
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 546700,
-      "num": 313981,
+      "num": 446393,
       "word": "白色橄榄树热度",
       "onboard_time": 1738410798,
       "rank": 13,
@@ -353,6 +361,14 @@
       "onboard_time": 1738367654,
       "rank": 1,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 498661,
+      "num": 498661,
+      "word": "机场调查乘客疑似飞机上捡到鞭炮",
+      "onboard_time": 1738414458,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 497916,
@@ -419,14 +435,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 444388,
-      "num": 444388,
-      "word": "机场调查乘客疑似飞机上捡到鞭炮",
-      "onboard_time": 1738414458,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 441563,
       "num": 189201,
       "word": "李昀锐挑染",
@@ -443,19 +451,19 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 438619,
+      "num": 282700,
+      "word": "赵露思新旧混发日常",
+      "onboard_time": 1738413317,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 432818,
       "num": 271123,
       "word": "李小冉说我是没有一个官司在身上的",
       "onboard_time": 1738385598,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 427196,
-      "num": 282700,
-      "word": "赵露思新旧混发日常",
-      "onboard_time": 1738413317,
-      "rank": 37,
       "category": "艺人"
     },
     {
@@ -739,14 +747,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 294843,
-      "num": 294843,
-      "word": "费城坠毁飞机上的女孩刚做了救命手术",
-      "onboard_time": 1738415417,
-      "rank": 8,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 286629,
       "num": 286629,
       "word": "王楚钦可爱童年照",
@@ -987,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221896,
+      "num": 150033,
+      "word": "孤注一掷",
+      "onboard_time": 1738416378,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 221623,
       "num": 221623,
       "word": "美国打压DeepSeek的后果",
@@ -1083,6 +1091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 202062,
+      "num": 202062,
+      "word": "山东一道名菜被全网盯上了",
+      "onboard_time": 1738414878,
+      "rank": 34,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 201061,
       "num": 201061,
       "word": "陈哲远 阿瓒我爱你",
@@ -1113,6 +1129,14 @@
       "onboard_time": 1738405276,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197854,
+      "num": 460981,
+      "word": "人民日报整版聚焦春节档",
+      "onboard_time": 1738413079,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195537,
@@ -1185,14 +1209,6 @@
       "onboard_time": 1738382897,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189568,
-      "num": 309908,
-      "word": "人民日报整版聚焦春节档",
-      "onboard_time": 1738413079,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 189487,
@@ -1345,6 +1361,14 @@
       "onboard_time": 1738402397,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 176537,
+      "num": 176537,
+      "word": "福气码",
+      "onboard_time": 1738416438,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 175622,
@@ -1563,6 +1587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 154731,
+      "num": 247355,
+      "word": "美军用直升机撞机时在执行重要任务",
+      "onboard_time": 1738414937,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 154727,
       "num": 212386,
       "word": "拍射雕的3个初衷",
@@ -1603,6 +1635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 147609,
+      "num": 147609,
+      "word": "jayjay镜头",
+      "onboard_time": 1738411097,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146722,
       "num": 135750,
       "word": "唐探1900",
@@ -1617,22 +1657,6 @@
       "onboard_time": 1738337058,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 146664,
-      "num": 146664,
-      "word": "山东一道名菜被全网盯上了",
-      "onboard_time": 1738414878,
-      "rank": 34,
-      "category": "民生新闻,美食"
-    },
-    {
-      "raw_hot": 146067,
-      "num": 146067,
-      "word": "jayjay镜头",
-      "onboard_time": 1738411097,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 146054,
@@ -2011,6 +2035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 114516,
+      "num": 114516,
+      "word": "各省特色饮料",
+      "onboard_time": 1738414519,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 114275,
       "num": 114275,
       "word": "男子晒家里过年前后视频对比明显",
@@ -2097,6 +2129,14 @@
       "onboard_time": 1738396037,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 109103,
+      "num": 915533,
+      "word": "大年初四去哪玩",
+      "onboard_time": 1738402036,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109043,
@@ -2388,19 +2428,11 @@
     },
     {
       "raw_hot": 81832,
-      "num": 795132,
+      "num": 1065485,
       "word": "2025冰雪之约",
       "onboard_time": 1738376177,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 80630,
-      "num": 915533,
-      "word": "大年初四去哪玩",
-      "onboard_time": 1738402036,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80474,
@@ -2481,14 +2513,6 @@
       "onboard_time": 1738415060,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 73080,
-      "num": 247355,
-      "word": "美军用直升机撞机时在执行重要任务",
-      "onboard_time": 1738414937,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 71523,
@@ -2609,6 +2633,14 @@
       "onboard_time": 1738401377,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 50977,
+      "num": 150779,
+      "word": "哈尔滨亚冬会赛事日历",
+      "onboard_time": 1738416558,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 46990,

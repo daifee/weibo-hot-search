@@ -1,6 +1,6 @@
 {
   "startTime": 1737822370823,
-  "endTime": 1738416102453,
+  "endTime": 1738416921530,
   "band_list": [
     {
       "raw_hot": 18652211,
@@ -635,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1548658,
+      "num": 1548658,
+      "word": "女生一觉醒来相亲对象已站床边",
+      "onboard_time": 1738415179,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1546208,
       "num": 769441,
       "word": "卢昱晓抢到了王星越的红包",
@@ -988,7 +996,7 @@
     },
     {
       "raw_hot": 1158844,
-      "num": 409696,
+      "num": 486466,
       "word": "孟子义上节目穿几十块的衣服",
       "onboard_time": 1738405697,
       "rank": 27,
@@ -1100,11 +1108,19 @@
     },
     {
       "raw_hot": 1090797,
-      "num": 470404,
+      "num": 495720,
       "word": "没想过是梁洁但意外合适",
       "onboard_time": 1738408637,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1090341,
+      "num": 1090341,
+      "word": "哪吒3",
+      "onboard_time": 1738227556,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 1082957,
@@ -1121,14 +1137,6 @@
       "onboard_time": 1737963256,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1077179,
-      "num": 384724,
-      "word": "哪吒3",
-      "onboard_time": 1738227556,
-      "rank": 12,
-      "category": "电影"
     },
     {
       "raw_hot": 1075225,
@@ -2203,6 +2211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 704590,
+      "num": 704590,
+      "word": "费城坠毁飞机上的女孩刚做了救命手术",
+      "onboard_time": 1738415417,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 702383,
       "num": 285836,
       "word": "美国男子在飞机相撞前收到妻子短信",
@@ -2787,14 +2803,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 587879,
-      "num": 587879,
-      "word": "女生一觉醒来相亲对象已站床边",
-      "onboard_time": 1738415179,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 586530,
       "num": 404483,
       "word": "昀牵孟绕",
@@ -3148,7 +3156,7 @@
     },
     {
       "raw_hot": 546700,
-      "num": 313981,
+      "num": 446393,
       "word": "白色橄榄树热度",
       "onboard_time": 1738410798,
       "rank": 13,
@@ -3569,6 +3577,14 @@
       "onboard_time": 1738367654,
       "rank": 1,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 498661,
+      "num": 498661,
+      "word": "机场调查乘客疑似飞机上捡到鞭炮",
+      "onboard_time": 1738414458,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 497916,
@@ -4099,14 +4115,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 444388,
-      "num": 444388,
-      "word": "机场调查乘客疑似飞机上捡到鞭炮",
-      "onboard_time": 1738414458,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 441618,
       "num": 441618,
       "word": "蛇年第一条微博",
@@ -4153,6 +4161,14 @@
       "onboard_time": 1737878899,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 438619,
+      "num": 282700,
+      "word": "赵露思新旧混发日常",
+      "onboard_time": 1738413317,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 438364,
@@ -4265,14 +4281,6 @@
       "onboard_time": 1738197015,
       "rank": 12,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 427196,
-      "num": 282700,
-      "word": "赵露思新旧混发日常",
-      "onboard_time": 1738413317,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 425728,
@@ -6083,14 +6091,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 294843,
-      "num": 294843,
-      "word": "费城坠毁飞机上的女孩刚做了救命手术",
-      "onboard_time": 1738415417,
-      "rank": 8,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 293990,
       "num": 241367,
       "word": "陈哲远拦下10辆出租车",
@@ -7691,6 +7691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 221896,
+      "num": 150033,
+      "word": "孤注一掷",
+      "onboard_time": 1738416378,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 221579,
       "num": 221579,
       "word": "李昀锐演的肖涵又争又抢",
@@ -8563,6 +8571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 202062,
+      "num": 202062,
+      "word": "山东一道名菜被全网盯上了",
+      "onboard_time": 1738414878,
+      "rank": 34,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 202058,
       "num": 139247,
       "word": "看完唐探我先替陈思诚哭两声",
@@ -8801,6 +8817,14 @@
       "onboard_time": 1738056201,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 197854,
+      "num": 460981,
+      "word": "人民日报整版聚焦春节档",
+      "onboard_time": 1738413079,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 197800,
@@ -9337,14 +9361,6 @@
       "onboard_time": 1737880698,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189568,
-      "num": 309908,
-      "word": "人民日报整版聚焦春节档",
-      "onboard_time": 1738413079,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 189487,
@@ -10049,6 +10065,14 @@
       "onboard_time": 1737874878,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176537,
+      "num": 176537,
+      "word": "福气码",
+      "onboard_time": 1738258274,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 176268,
@@ -11451,6 +11475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 154731,
+      "num": 247355,
+      "word": "美军用直升机撞机时在执行重要任务",
+      "onboard_time": 1738414937,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 154727,
       "num": 212386,
       "word": "拍射雕的3个初衷",
@@ -11955,6 +11987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147609,
+      "num": 147609,
+      "word": "jayjay镜头",
+      "onboard_time": 1738411097,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147536,
       "num": 147536,
       "word": "汪苏泷过年回家第一天就被嫌弃",
@@ -12051,28 +12091,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 146664,
-      "num": 146664,
-      "word": "山东一道名菜被全网盯上了",
-      "onboard_time": 1738414878,
-      "rank": 34,
-      "category": "民生新闻,美食"
-    },
-    {
       "raw_hot": 146085,
       "num": 146085,
       "word": "姬发人设",
       "onboard_time": 1738129760,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 146067,
-      "num": 146067,
-      "word": "jayjay镜头",
-      "onboard_time": 1738411097,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 146054,
@@ -14587,6 +14611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 114516,
+      "num": 114516,
+      "word": "各省特色饮料",
+      "onboard_time": 1738414519,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 114483,
       "num": 489432,
       "word": "凌肖加入拜年",
@@ -15129,6 +15161,14 @@
       "onboard_time": 1738321160,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109103,
+      "num": 915533,
+      "word": "大年初四去哪玩",
+      "onboard_time": 1738402036,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109043,
@@ -17444,7 +17484,7 @@
     },
     {
       "raw_hot": 81832,
-      "num": 795132,
+      "num": 1065485,
       "word": "2025冰雪之约",
       "onboard_time": 1738376177,
       "rank": 24,
@@ -17527,14 +17567,6 @@
       "num": 1639409,
       "word": "中国年惊艳世界",
       "onboard_time": 1738045758,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 80630,
-      "num": 915533,
-      "word": "大年初四去哪玩",
-      "onboard_time": 1738402036,
       "rank": 2,
       "category": "民生新闻"
     },
@@ -17945,14 +17977,6 @@
       "onboard_time": 1737872718,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 73080,
-      "num": 247355,
-      "word": "美军用直升机撞机时在执行重要任务",
-      "onboard_time": 1738414937,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 73009,
@@ -18963,6 +18987,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 50977,
+      "num": 150779,
+      "word": "哈尔滨亚冬会赛事日历",
+      "onboard_time": 1738416558,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50925,
       "num": 209003,
       "word": "70秒速览春节天气",
@@ -19065,14 +19097,6 @@
       "onboard_time": 1738175112,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 47635,
-      "num": 51910,
-      "word": "福气码",
-      "onboard_time": 1738258274,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 47321,

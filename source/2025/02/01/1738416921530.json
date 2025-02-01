@@ -1,0 +1,410 @@
+{
+  "runTime": 1738416921530,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1548658,
+        "num": 1548658,
+        "word": "女生一觉醒来相亲对象已站床边",
+        "onboard_time": 1738415179,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1090341,
+        "num": 1090341,
+        "word": "哪吒3",
+        "onboard_time": 1738410378,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 14003,
+        "num": 1065485,
+        "word": "2025冰雪之约",
+        "onboard_time": 1738376177,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1060468,
+        "num": 1060468,
+        "word": "敖丙",
+        "onboard_time": 1738402697,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 704590,
+        "num": 704590,
+        "word": "费城坠毁飞机上的女孩刚做了救命手术",
+        "onboard_time": 1738415417,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 498661,
+        "num": 498661,
+        "word": "机场调查乘客疑似飞机上捡到鞭炮",
+        "onboard_time": 1738414458,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1008787,
+        "num": 495720,
+        "word": "没想过是梁洁但意外合适",
+        "onboard_time": 1738408637,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 790143,
+        "num": 486466,
+        "word": "孟子义上节目穿几十块的衣服",
+        "onboard_time": 1738405697,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 587339,
+        "num": 473599,
+        "word": "白色橄榄树",
+        "onboard_time": 1738404497,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197854,
+        "num": 460981,
+        "word": "人民日报整版聚焦春节档",
+        "onboard_time": 1738413079,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 511937,
+        "num": 455312,
+        "word": "哪吒",
+        "onboard_time": 1738409000,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 446393,
+        "num": 446393,
+        "word": "白色橄榄树热度",
+        "onboard_time": 1738410798,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298807,
+        "num": 298807,
+        "word": "小伙去女友家过年撞脸丈母娘",
+        "onboard_time": 1738404618,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393810,
+        "num": 274520,
+        "word": "肖战回复蔡少芬",
+        "onboard_time": 1738405097,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210164,
+        "num": 210164,
+        "word": "徐福记成时代眼泪了吗",
+        "onboard_time": 1738396218,
+        "rank": 14,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 202062,
+        "num": 202062,
+        "word": "山东一道名菜被全网盯上了",
+        "onboard_time": 1738414878,
+        "rank": 15,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 176537,
+        "num": 176537,
+        "word": "福气码",
+        "onboard_time": 1738416438,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154731,
+        "num": 154731,
+        "word": "美军用直升机撞机时在执行重要任务",
+        "onboard_time": 1738414937,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 152146,
+        "num": 152146,
+        "word": "美国4天内4机坠毁",
+        "onboard_time": 1738397178,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 117674,
+        "num": 151619,
+        "word": "美国费城失事飞机以201公里时速坠地",
+        "onboard_time": 1738408517,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 438619,
+        "num": 151510,
+        "word": "赵露思新旧混发日常",
+        "onboard_time": 1738413317,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151289,
+        "num": 151289,
+        "word": "刘宇宁直播",
+        "onboard_time": 1738413438,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363688,
+        "num": 151128,
+        "word": "全网都知道苏醒在迪拜买贵了",
+        "onboard_time": 1738398076,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290701,
+        "num": 150963,
+        "word": "哪吒2",
+        "onboard_time": 1738386858,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 50977,
+        "num": 150779,
+        "word": "哈尔滨亚冬会赛事日历",
+        "onboard_time": 1738416558,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256592,
+        "num": 150597,
+        "word": "李雪琴自曝过年爱走亲戚",
+        "onboard_time": 1738414397,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247743,
+        "num": 150442,
+        "word": "吴磊骑车一直骑到涮肉变熟",
+        "onboard_time": 1738408699,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168362,
+        "num": 150206,
+        "word": "5个孩子凑2000压岁钱给奶奶买手机",
+        "onboard_time": 1738411578,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221896,
+        "num": 150033,
+        "word": "孤注一掷",
+        "onboard_time": 1738416378,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209508,
+        "num": 149815,
+        "word": "于冬 蛟龙行动绝不撤档",
+        "onboard_time": 1738406539,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170926,
+        "num": 149432,
+        "word": "虞书欣张凌赫聚餐合照",
+        "onboard_time": 1738394656,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165127,
+        "num": 149295,
+        "word": "梁洁你说吧反正也剪不掉",
+        "onboard_time": 1738412719,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149207,
+        "num": 149207,
+        "word": "哪吒2女龙王一听钟情",
+        "onboard_time": 1738408458,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148391,
+        "num": 148391,
+        "word": "三专",
+        "onboard_time": 1738410979,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147609,
+        "num": 147609,
+        "word": "jayjay镜头",
+        "onboard_time": 1738411097,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145119,
+        "num": 145119,
+        "word": "拍射雕的3个初衷",
+        "onboard_time": 1738410199,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144990,
+        "num": 144990,
+        "word": "哪吒2一条锁链就做了近4个月",
+        "onboard_time": 1738403717,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109103,
+        "num": 141470,
+        "word": "大年初四去哪玩",
+        "onboard_time": 1738402036,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140834,
+        "num": 140834,
+        "word": "憋一周就为这一秒爽",
+        "onboard_time": 1738414397,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138896,
+        "num": 138896,
+        "word": "新女婿喝4碗自家酿酒醉倒被抬进屋",
+        "onboard_time": 1738403717,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137131,
+        "num": 137131,
+        "word": "敖光",
+        "onboard_time": 1738407137,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130200,
+        "num": 130200,
+        "word": "结婚以后过年成了一件孤独的事",
+        "onboard_time": 1738397417,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129120,
+        "num": 129120,
+        "word": "向佐自曝曾被郭碧婷狠狠拒绝",
+        "onboard_time": 1738381276,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182897,
+        "num": 128416,
+        "word": "美国FBI离职潮或涉政治报复",
+        "onboard_time": 1738409359,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121468,
+        "num": 121468,
+        "word": "看唐探1900以为走错厅了",
+        "onboard_time": 1738405276,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118420,
+        "num": 118420,
+        "word": "苏敏阿姨说对射雕的江湖观很有感触",
+        "onboard_time": 1738415960,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117532,
+        "num": 117532,
+        "word": "朱志鑫苏新皓青岛双人行",
+        "onboard_time": 1738413019,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114516,
+        "num": 114516,
+        "word": "各省特色饮料",
+        "onboard_time": 1738414519,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 103873,
+        "num": 103873,
+        "word": "春节第一零食好像卖不动了",
+        "onboard_time": 1738399338,
+        "rank": 48,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 100055,
+        "num": 100055,
+        "word": "OpenAI首席执行官谈DeepSeek",
+        "onboard_time": 1738413438,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#把实现家庭梦融入民族梦之中#"
+    }
+  }
+}
