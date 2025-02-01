@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738444791070,
+  "endTime": 1738445719024,
   "band_list": [
     {
       "raw_hot": 2254313,
@@ -3411,6 +3411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18947,
+      "num": 18947,
+      "word": "闫妮至今不知道沙溢家在哪",
+      "onboard_time": 1738443320,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 18153,
       "num": 34448,
       "word": "哪吒2出品方称对观众期待很忐忑",
@@ -3419,12 +3427,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 16833,
-      "num": 16833,
-      "word": "闫妮至今不知道沙溢家在哪",
-      "onboard_time": 1738443320,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 15236,
+      "num": 15791,
+      "word": "封神",
+      "onboard_time": 1738436414,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 14840,
@@ -3456,14 +3464,6 @@
       "word": "春节档连续3天单日票房破10亿",
       "onboard_time": 1738357151,
       "rank": 40,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 13240,
-      "num": 15791,
-      "word": "封神",
-      "onboard_time": 1738436414,
-      "rank": 48,
       "category": "电影"
     },
     {
@@ -3513,6 +3513,14 @@
       "onboard_time": 1738350612,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10880,
+      "num": 49429,
+      "word": "华山环卫工手抓铁链背对悬崖扫雪",
+      "onboard_time": 1738445111,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9709,

@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738444791070,
+  "endTime": 1738445719024,
   "band_list": [
     {
       "raw_hot": 1154235,
@@ -579,12 +579,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 16833,
-      "num": 16833,
+      "raw_hot": 18947,
+      "num": 18947,
       "word": "闫妮至今不知道沙溢家在哪",
       "onboard_time": 1738443320,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 15236,
+      "num": 15791,
+      "word": "封神",
+      "onboard_time": 1738436414,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 14840,
@@ -603,12 +611,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13240,
-      "num": 15791,
-      "word": "封神",
-      "onboard_time": 1738436414,
-      "rank": 48,
-      "category": "电影"
+      "raw_hot": 10880,
+      "num": 49429,
+      "word": "华山环卫工手抓铁链背对悬崖扫雪",
+      "onboard_time": 1738445111,
+      "rank": 9,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
