@@ -1,0 +1,410 @@
+{
+  "runTime": 1738420524310,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1980197,
+        "num": 1980197,
+        "word": "女生一觉醒来相亲对象已站床边",
+        "onboard_time": 1738415179,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1380457,
+        "num": 1380457,
+        "word": "王鹤棣谈恋爱更喜欢姐姐",
+        "onboard_time": 1738417221,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15005,
+        "num": 1246167,
+        "word": "2025冰雪之约",
+        "onboard_time": 1738376177,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1222136,
+        "num": 1222136,
+        "word": "哪吒3",
+        "onboard_time": 1738410378,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1062991,
+        "num": 1062991,
+        "word": "后排观众太吵男子忍到电影结束开麦了",
+        "onboard_time": 1738419200,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 760823,
+        "num": 760823,
+        "word": "费城坠毁飞机上的女孩刚做了救命手术",
+        "onboard_time": 1738415417,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 958481,
+        "num": 759347,
+        "word": "孤注一掷",
+        "onboard_time": 1738416378,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 740950,
+        "num": 740950,
+        "word": "孟子义上节目穿几十块的衣服",
+        "onboard_time": 1738405697,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363428,
+        "num": 363428,
+        "word": "山东一道名菜被全网盯上了",
+        "onboard_time": 1738414878,
+        "rank": 8,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 55927,
+        "num": 350097,
+        "word": "这些文物都与蛇有关",
+        "onboard_time": 1738419499,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 548862,
+        "num": 342592,
+        "word": "没想过是梁洁但意外合适",
+        "onboard_time": 1738408637,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 499098,
+        "num": 324938,
+        "word": "哪吒",
+        "onboard_time": 1738409000,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 525088,
+        "num": 302589,
+        "word": "白色橄榄树",
+        "onboard_time": 1738404497,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41398,
+        "num": 285677,
+        "word": "央视记者探访费城坠机事故现场",
+        "onboard_time": 1738419980,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 493453,
+        "num": 273186,
+        "word": "哪吒2票房",
+        "onboard_time": 1738418059,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 255713,
+        "num": 255713,
+        "word": "OpenAI首席执行官承认站在历史错误一边",
+        "onboard_time": 1738415360,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 232004,
+        "num": 232004,
+        "word": "人民日报整版聚焦春节档",
+        "onboard_time": 1738413079,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222847,
+        "num": 222847,
+        "word": "儿媳过年在家爆改婆婆",
+        "onboard_time": 1738419140,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214584,
+        "num": 214584,
+        "word": "机场调查乘客疑似飞机上捡到鞭炮",
+        "onboard_time": 1738414458,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148439,
+        "num": 148439,
+        "word": "DeepSeek创始人老家村口拉起横幅",
+        "onboard_time": 1738419980,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 477304,
+        "num": 147549,
+        "word": "敖丙",
+        "onboard_time": 1738402697,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 327492,
+        "num": 145523,
+        "word": "全网都知道苏醒在迪拜买贵了",
+        "onboard_time": 1738398076,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321456,
+        "num": 145274,
+        "word": "哪吒之魔童闹海票房破25亿",
+        "onboard_time": 1738418779,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143153,
+        "num": 143153,
+        "word": "张博恒初四恢复训练",
+        "onboard_time": 1738419200,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308530,
+        "num": 142419,
+        "word": "肖战回复蔡少芬",
+        "onboard_time": 1738405097,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 273169,
+        "num": 142218,
+        "word": "赵露思新旧混发日常",
+        "onboard_time": 1738413317,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255715,
+        "num": 141245,
+        "word": "哪吒2",
+        "onboard_time": 1738386858,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 234506,
+        "num": 140833,
+        "word": "各省特色饮料",
+        "onboard_time": 1738414519,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 211327,
+        "num": 139866,
+        "word": "李雪琴自曝过年爱走亲戚",
+        "onboard_time": 1738414397,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207631,
+        "num": 139040,
+        "word": "白色橄榄树热度",
+        "onboard_time": 1738410798,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20310,
+        "num": 138603,
+        "word": "韩上万民众集会要求释放尹锡悦",
+        "onboard_time": 1738420219,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 204925,
+        "num": 137561,
+        "word": "吴磊骑车一直骑到涮肉变熟",
+        "onboard_time": 1738408699,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155777,
+        "num": 136988,
+        "word": "徐明浩直播突现双重人格",
+        "onboard_time": 1738420341,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109033,
+        "num": 136026,
+        "word": "周柯宇直播",
+        "onboard_time": 1738419140,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200416,
+        "num": 135586,
+        "word": "好友揭秘王菲春晚落泪",
+        "onboard_time": 1738417579,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194404,
+        "num": 134787,
+        "word": "拍射雕的3个初衷",
+        "onboard_time": 1738410199,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161669,
+        "num": 133984,
+        "word": "5个孩子凑2000压岁钱给奶奶买手机",
+        "onboard_time": 1738411578,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155110,
+        "num": 132976,
+        "word": "于冬 蛟龙行动绝不撤档",
+        "onboard_time": 1738406539,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143206,
+        "num": 132240,
+        "word": "建议所有导演都向饺子学习",
+        "onboard_time": 1738419018,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131964,
+        "num": 131964,
+        "word": "徐福记成时代眼泪了吗",
+        "onboard_time": 1738396218,
+        "rank": 39,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 142603,
+        "num": 131328,
+        "word": "丁程鑫被问恋爱相关问题不敢动",
+        "onboard_time": 1738417698,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139558,
+        "num": 128354,
+        "word": "哪吒2一条锁链就做了近4个月",
+        "onboard_time": 1738403717,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137439,
+        "num": 127628,
+        "word": "梁洁新剧两集哭三次",
+        "onboard_time": 1738420158,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132420,
+        "num": 124853,
+        "word": "孟子义超耿直",
+        "onboard_time": 1738420341,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124450,
+        "num": 124450,
+        "word": "被猫妈强行抱在怀里的小狗",
+        "onboard_time": 1738419260,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121483,
+        "num": 121483,
+        "word": "小伙去女友家过年撞脸丈母娘",
+        "onboard_time": 1738404618,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121138,
+        "num": 121138,
+        "word": "新女婿喝4碗自家酿酒醉倒被抬进屋",
+        "onboard_time": 1738403717,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119805,
+        "num": 119805,
+        "word": "虞书欣张凌赫聚餐合照",
+        "onboard_time": 1738394656,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114020,
+        "num": 114020,
+        "word": "DeepSeek下载量霸占140多个国家榜首",
+        "onboard_time": 1738418119,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 93987,
+        "num": 93987,
+        "word": "美国4天内4机坠毁",
+        "onboard_time": 1738397178,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#6年前的这个场景真暖#"
+    }
+  }
+}
