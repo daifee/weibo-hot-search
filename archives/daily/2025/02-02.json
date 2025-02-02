@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738496125484,
+  "endTime": 1738499860510,
   "band_list": [
     {
       "raw_hot": 3232536,
@@ -187,6 +187,14 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 788596,
+      "num": 417877,
+      "word": "辰亦儒曾之乔得子",
+      "onboard_time": 1738498639,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 787836,
       "num": 787836,
       "word": "饺子导演肉眼可见的变老",
@@ -331,6 +339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 581065,
+      "num": 581065,
+      "word": "王楚钦vs宇田幸矢",
+      "onboard_time": 1738494979,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 572368,
       "num": 572368,
       "word": "饺子又要隆重登场啦",
@@ -403,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 466514,
+      "num": 466514,
+      "word": "男孩井盖点鞭炮8辆车定损28.5万元",
+      "onboard_time": 1738496120,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 461178,
       "num": 460808,
       "word": "哪吒2已破14项影史纪录",
@@ -417,6 +441,14 @@
       "onboard_time": 1738482918,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 451238,
+      "num": 212463,
+      "word": "建议过年在家不要总穿睡衣",
+      "onboard_time": 1738496598,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 445497,
@@ -659,14 +691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 325461,
-      "num": 325461,
-      "word": "王楚钦vs宇田幸矢",
-      "onboard_time": 1738494979,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 322240,
       "num": 140620,
       "word": "敖丙传",
@@ -716,7 +740,7 @@
     },
     {
       "raw_hot": 296658,
-      "num": 228699,
+      "num": 293672,
       "word": "原来微信视频的美颜只有自己能看到",
       "onboard_time": 1738480217,
       "rank": 37,
@@ -763,6 +787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 268445,
+      "num": 268445,
+      "word": "王楚钦3比0宇田幸矢",
+      "onboard_time": 1738498698,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 267426,
       "num": 267426,
       "word": "湖人交易惊呆NBA群星",
@@ -803,20 +835,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 248507,
+      "num": 248507,
+      "word": "王楚钦希望WTT多听听运动员的声音",
+      "onboard_time": 1738494377,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 247833,
       "num": 247833,
       "word": "哪吒之魔童闹海",
       "onboard_time": 1738452074,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 245484,
-      "num": 245484,
-      "word": "王楚钦希望WTT多听听运动员的声音",
-      "onboard_time": 1738494377,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 244445,
@@ -931,6 +963,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 216360,
+      "num": 216360,
+      "word": "春节档连续5天破10亿",
+      "onboard_time": 1738498579,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 214643,
       "num": 214643,
       "word": "大年初五恭喜发财",
@@ -963,8 +1003,8 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 209668,
-      "num": 209668,
+      "raw_hot": 211763,
+      "num": 211763,
       "word": "哪吒2",
       "onboard_time": 1738386858,
       "rank": 27,
@@ -1123,6 +1163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191883,
+      "num": 191883,
+      "word": "网友喊哪吒2出导剪版",
+      "onboard_time": 1738495998,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 191773,
       "num": 207665,
       "word": "鹭卓Snipper",
@@ -1211,6 +1259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182461,
+      "num": 182461,
+      "word": "于冬看了哪吒2",
+      "onboard_time": 1738498459,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 181838,
       "num": 181838,
       "word": "倪夏莲组合11比0",
@@ -1241,6 +1297,22 @@
       "onboard_time": 1738468578,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176872,
+      "num": 176872,
+      "word": "李瓒 你在就好了",
+      "onboard_time": 1738497799,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 175407,
+      "num": 212554,
+      "word": "王楚钦晋级32强",
+      "onboard_time": 1738498997,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 175190,
@@ -1467,6 +1539,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 150406,
+      "num": 150406,
+      "word": "湖人管理层不满浓眉",
+      "onboard_time": 1738498159,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 150333,
+      "num": 150333,
+      "word": "梁洁微醺表白戏这60秒",
+      "onboard_time": 1738499598,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149348,
       "num": 149348,
       "word": "王曼昱3比0梅谢芙",
@@ -1497,6 +1585,22 @@
       "onboard_time": 1738464017,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146523,
+      "num": 144945,
+      "word": "JYP前练习生因职场霸凌自杀去世",
+      "onboard_time": 1738499720,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 145765,
+      "num": 145765,
+      "word": "王者荣耀",
+      "onboard_time": 1738498040,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 145458,
@@ -1579,6 +1683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143161,
+      "num": 183536,
+      "word": "王俊凯才是春节档最大彩蛋",
+      "onboard_time": 1738495520,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 142943,
       "num": 142943,
       "word": "农村的面子经济学",
@@ -1641,6 +1753,14 @@
       "onboard_time": 1738480457,
       "rank": 42,
       "category": "电竞,艺人"
+    },
+    {
+      "raw_hot": 138633,
+      "num": 138633,
+      "word": "唐探给我语言系统干崩溃了",
+      "onboard_time": 1738499478,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 138165,
@@ -1803,6 +1923,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 124913,
+      "num": 124913,
+      "word": "徐明浩卡点控制力",
+      "onboard_time": 1738499179,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124558,
       "num": 159438,
       "word": "杜华与程潇姐妹自拍",
@@ -1835,6 +1963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121230,
+      "num": 128067,
+      "word": "cpgz",
+      "onboard_time": 1738498278,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 120944,
       "num": 139855,
       "word": "各省特色饮料",
@@ -1849,6 +1985,14 @@
       "onboard_time": 1738457897,
       "rank": 48,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 119157,
+      "num": 119157,
+      "word": "朱雨玲3比0杜凯琹",
+      "onboard_time": 1738499240,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 118928,
@@ -1913,14 +2057,6 @@
       "onboard_time": 1738451652,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 107992,
-      "num": 183536,
-      "word": "王俊凯才是春节档最大彩蛋",
-      "onboard_time": 1738495520,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 107798,
@@ -2009,14 +2145,6 @@
       "onboard_time": 1738461377,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 100347,
-      "num": 149773,
-      "word": "网友喊哪吒2出导剪版",
-      "onboard_time": 1738495998,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 98721,
