@@ -1,0 +1,410 @@
+{
+  "runTime": 1738473658170,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1316956,
+        "num": 1316956,
+        "word": "引爆沼气小孩家庭付天价赔偿系谣言",
+        "onboard_time": 1738456816,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 964848,
+        "num": 964848,
+        "word": "射雕票房",
+        "onboard_time": 1738462818,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32270,
+        "num": 765188,
+        "word": "这些文物故事真的很配春节",
+        "onboard_time": 1738468458,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 728866,
+        "num": 728866,
+        "word": "从春晚配角到主角他熬了20年",
+        "onboard_time": 1738468757,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 656478,
+        "num": 656478,
+        "word": "大年初五迎财神",
+        "onboard_time": 1738451652,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1204179,
+        "num": 630501,
+        "word": "DeepSeek",
+        "onboard_time": 1738462458,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 585455,
+        "num": 585455,
+        "word": "哪吒票房",
+        "onboard_time": 1738467317,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 477634,
+        "num": 477634,
+        "word": "在暴雪时分",
+        "onboard_time": 1738464678,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168968,
+        "num": 474830,
+        "word": "中方强烈不满坚决反对",
+        "onboard_time": 1738473198,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 319513,
+        "num": 473180,
+        "word": "孙杨称从未与马布里单独接触",
+        "onboard_time": 1738471517,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 820027,
+        "num": 467542,
+        "word": "武艺结婚要求伴郎170以上",
+        "onboard_time": 1738467618,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 723871,
+        "num": 465861,
+        "word": "阐教 截教",
+        "onboard_time": 1738468277,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 483412,
+        "num": 461628,
+        "word": "谢娜晒7岁的跳跳俏俏",
+        "onboard_time": 1738460659,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44677,
+        "num": 458589,
+        "word": "新的一年蛇么都好",
+        "onboard_time": 1738472659,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53032,
+        "num": 454045,
+        "word": "一代人有一代人接财神的方式",
+        "onboard_time": 1738472478,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 340983,
+        "num": 449881,
+        "word": "中方将对美采取相应反制措施",
+        "onboard_time": 1738467317,
+        "rank": 15,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 449610,
+        "num": 449610,
+        "word": "哄孩子的小姨为了打麻将有多拼",
+        "onboard_time": 1738471577,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 366818,
+        "num": 366818,
+        "word": "王猛 马布里已报警",
+        "onboard_time": 1738471158,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 357575,
+        "num": 357575,
+        "word": "伊能静 暴力的人都是懦夫",
+        "onboard_time": 1738469118,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267641,
+        "num": 267641,
+        "word": "张杰谢娜带双胞胎女儿游迪士尼",
+        "onboard_time": 1738469059,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269029,
+        "num": 267615,
+        "word": "SM新练习生年龄公开",
+        "onboard_time": 1738465217,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266449,
+        "num": 266449,
+        "word": "哪吒导演说认没认真观众一眼就看得出",
+        "onboard_time": 1738463778,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 246036,
+        "num": 246036,
+        "word": "哪吒之魔童闹海",
+        "onboard_time": 1738452074,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 239385,
+        "num": 239385,
+        "word": "生理性喜欢消失的原因",
+        "onboard_time": 1738464497,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194085,
+        "num": 194085,
+        "word": "无世界排名无法参加ITTF澳门世界杯",
+        "onboard_time": 1738470198,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186543,
+        "num": 186543,
+        "word": "小蛇糕",
+        "onboard_time": 1738462637,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 184687,
+        "num": 184687,
+        "word": "国产剧终于有不撕不吵的婆媳了",
+        "onboard_time": 1738471457,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167546,
+        "num": 167546,
+        "word": "接财神需要注意什么",
+        "onboard_time": 1738462577,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170483,
+        "num": 167529,
+        "word": "终于有全女性家族的国产剧了",
+        "onboard_time": 1738466178,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167213,
+        "num": 167213,
+        "word": "哪吒2导演曾因特效与团队产生严重分歧",
+        "onboard_time": 1738472957,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161962,
+        "num": 161962,
+        "word": "刘晓庆 爱看短剧",
+        "onboard_time": 1738472297,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152693,
+        "num": 152693,
+        "word": "美国对中国商品加征10%关税",
+        "onboard_time": 1738453994,
+        "rank": 31,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 149342,
+        "num": 149342,
+        "word": "孙杨发声明",
+        "onboard_time": 1738472718,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130528,
+        "num": 144198,
+        "word": "黄圣池演技反差感",
+        "onboard_time": 1738473198,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115774,
+        "num": 144110,
+        "word": "邓为新剧是灭世版涂山璟",
+        "onboard_time": 1738465336,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144089,
+        "num": 144089,
+        "word": "石矶娘娘",
+        "onboard_time": 1738424178,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144068,
+        "num": 144068,
+        "word": "再婚的爸强势的妈破碎的她",
+        "onboard_time": 1738470437,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142943,
+        "num": 142943,
+        "word": "农村的面子经济学",
+        "onboard_time": 1738470618,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138470,
+        "num": 138470,
+        "word": "哪吒2已破14项影史纪录",
+        "onboard_time": 1738456094,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137987,
+        "num": 137987,
+        "word": "国际社会广泛反对美对中国加征关税",
+        "onboard_time": 1738473438,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137092,
+        "num": 137092,
+        "word": "大年初五恭喜发财",
+        "onboard_time": 1738457956,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136311,
+        "num": 136311,
+        "word": "哪吒",
+        "onboard_time": 1738409000,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131979,
+        "num": 131979,
+        "word": "金智秀好美",
+        "onboard_time": 1738461075,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131498,
+        "num": 131498,
+        "word": "梁洁演晋江女主适配度",
+        "onboard_time": 1738470738,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131322,
+        "num": 131322,
+        "word": "尹子维的大勺下一秒要敲徐冬冬头上了",
+        "onboard_time": 1738473317,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127761,
+        "num": 127761,
+        "word": "詹姆斯",
+        "onboard_time": 1738470797,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127385,
+        "num": 127385,
+        "word": "美国关税战遭南北夹击",
+        "onboard_time": 1738472838,
+        "rank": 46,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 125590,
+        "num": 125590,
+        "word": "商务部回应美方对中国产品加征10%关税",
+        "onboard_time": 1738466537,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 115778,
+        "num": 115778,
+        "word": "春节假期开始倒数",
+        "onboard_time": 1738468578,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115280,
+        "num": 115280,
+        "word": "湖人vs尼克斯",
+        "onboard_time": 1738469238,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记感受春节年味儿#"
+    }
+  }
+}

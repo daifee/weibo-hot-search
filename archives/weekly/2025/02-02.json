@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738471108806,
+  "endTime": 1738473658170,
   "band_list": [
     {
       "raw_hot": 3232536,
@@ -123,6 +123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 728866,
+      "num": 728866,
+      "word": "从春晚配角到主角他熬了20年",
+      "onboard_time": 1738468757,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 701613,
       "num": 701613,
       "word": "五路财神",
@@ -145,14 +153,6 @@
       "onboard_time": 1738424178,
       "rank": 10,
       "category": "电影"
-    },
-    {
-      "raw_hot": 657481,
-      "num": 657481,
-      "word": "从春晚配角到主角他熬了20年",
-      "onboard_time": 1738468757,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 641071,
@@ -185,6 +185,14 @@
       "onboard_time": 1738417221,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 585455,
+      "num": 585455,
+      "word": "哪吒票房",
+      "onboard_time": 1738467317,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 572368,
@@ -249,6 +257,14 @@
       "onboard_time": 1738456094,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 449610,
+      "num": 449610,
+      "word": "哄孩子的小姨为了打麻将有多拼",
+      "onboard_time": 1738471577,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 439289,
@@ -347,12 +363,28 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 366818,
+      "num": 366818,
+      "word": "王猛 马布里已报警",
+      "onboard_time": 1738471158,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 365356,
       "num": 365356,
       "word": "费城坠毁飞机上的女孩刚做了救命手术",
       "onboard_time": 1738415417,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 357575,
+      "num": 357575,
+      "word": "伊能静 暴力的人都是懦夫",
+      "onboard_time": 1738469118,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 353412,
@@ -387,14 +419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 335617,
-      "num": 335617,
-      "word": "哪吒票房",
-      "onboard_time": 1738467317,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
       "raw_hot": 332778,
       "num": 332778,
       "word": "背刺何惟芳的店员成了杨紫的粉丝",
@@ -419,20 +443,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 328188,
-      "num": 328188,
-      "word": "伊能静 暴力的人都是懦夫",
-      "onboard_time": 1738469118,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 322240,
       "num": 140620,
       "word": "敖丙传",
       "onboard_time": 1738420759,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 319513,
+      "num": 473180,
+      "word": "孙杨称从未与马布里单独接触",
+      "onboard_time": 1738471517,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 312545,
@@ -449,6 +473,14 @@
       "onboard_time": 1738404497,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 246036,
+      "num": 246036,
+      "word": "哪吒之魔童闹海",
+      "onboard_time": 1738452074,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 244445,
@@ -481,14 +513,6 @@
       "onboard_time": 1738438871,
       "rank": 17,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 225533,
-      "num": 225533,
-      "word": "哪吒之魔童闹海",
-      "onboard_time": 1738452074,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 225239,
@@ -571,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194085,
+      "num": 194085,
+      "word": "无世界排名无法参加ITTF澳门世界杯",
+      "onboard_time": 1738470198,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191773,
       "num": 207665,
       "word": "鹭卓Snipper",
@@ -611,12 +643,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 177904,
-      "num": 177904,
-      "word": "无世界排名无法参加ITTF澳门世界杯",
-      "onboard_time": 1738470198,
-      "rank": 34,
-      "category": "体育"
+      "raw_hot": 184687,
+      "num": 184687,
+      "word": "国产剧终于有不撕不吵的婆媳了",
+      "onboard_time": 1738471457,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 177530,
@@ -643,6 +675,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168968,
+      "num": 474830,
+      "word": "中方强烈不满坚决反对",
+      "onboard_time": 1738473198,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 167213,
+      "num": 167213,
+      "word": "哪吒2导演曾因特效与团队产生严重分歧",
+      "onboard_time": 1738472957,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 164091,
       "num": 164091,
       "word": "陈哲远现偶",
@@ -657,6 +705,14 @@
       "onboard_time": 1738465877,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161962,
+      "num": 161962,
+      "word": "刘晓庆 爱看短剧",
+      "onboard_time": 1738472297,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 161008,
@@ -713,6 +769,14 @@
       "onboard_time": 1738461138,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 149342,
+      "num": 149342,
+      "word": "孙杨发声明",
+      "onboard_time": 1738472718,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 147215,
@@ -795,8 +859,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 142737,
-      "num": 142737,
+      "raw_hot": 142943,
+      "num": 142943,
       "word": "农村的面子经济学",
       "onboard_time": 1738470618,
       "rank": 44,
@@ -851,6 +915,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 137987,
+      "num": 137987,
+      "word": "国际社会广泛反对美对中国加征关税",
+      "onboard_time": 1738473438,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 136537,
       "num": 136537,
       "word": "藕饼",
@@ -865,6 +937,22 @@
       "onboard_time": 1738466897,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 131322,
+      "num": 131322,
+      "word": "尹子维的大勺下一秒要敲徐冬冬头上了",
+      "onboard_time": 1738473317,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 130528,
+      "num": 144198,
+      "word": "黄圣池演技反差感",
+      "onboard_time": 1738473198,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 130107,
@@ -889,6 +977,14 @@
       "onboard_time": 1738459336,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127385,
+      "num": 127385,
+      "word": "美国关税战遭南北夹击",
+      "onboard_time": 1738472838,
+      "rank": 46,
+      "category": "国际时政,财经"
     },
     {
       "raw_hot": 126264,
@@ -1243,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 53032,
+      "num": 454045,
+      "word": "一代人有一代人接财神的方式",
+      "onboard_time": 1738472478,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 49618,
       "num": 70546,
       "word": "初五财蛇到",
@@ -1275,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44677,
+      "num": 458589,
+      "word": "新的一年蛇么都好",
+      "onboard_time": 1738472659,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43792,
       "num": 606835,
       "word": "大年初五祝你有求币应",
@@ -1292,7 +1404,7 @@
     },
     {
       "raw_hot": 42442,
-      "num": 751433,
+      "num": 765188,
       "word": "这些文物故事真的很配春节",
       "onboard_time": 1738468458,
       "rank": 2,
