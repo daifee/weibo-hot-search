@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738514428986,
+  "endTime": 1738516710552,
   "band_list": [
     {
       "raw_hot": 3232536,
@@ -177,6 +177,14 @@
       "onboard_time": 1738430234,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1122036,
+      "num": 288831,
+      "word": "韩泰山",
+      "onboard_time": 1738513578,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 1109967,
@@ -475,6 +483,14 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 788740,
+      "num": 788740,
+      "word": "影院回应一天排99场哪吒2",
+      "onboard_time": 1738515616,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 787836,
       "num": 787836,
       "word": "饺子导演肉眼可见的变老",
@@ -665,14 +681,6 @@
       "onboard_time": 1738392015,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 613428,
-      "num": 288831,
-      "word": "韩泰山",
-      "onboard_time": 1738513578,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 595826,
@@ -873,6 +881,14 @@
       "onboard_time": 1738382295,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 496694,
+      "num": 129233,
+      "word": "特朗普下令对索马里发动空袭",
+      "onboard_time": 1738515616,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 493453,
@@ -1592,6 +1608,14 @@
       "word": "哪吒2女龙王一听钟情",
       "onboard_time": 1738408458,
       "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 305099,
+      "num": 113031,
+      "word": "钟楚曦说哪吒太牛了",
+      "onboard_time": 1738513277,
+      "rank": 37,
       "category": "电影"
     },
     {
@@ -4011,14 +4035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132961,
-      "num": 113031,
-      "word": "钟楚曦说哪吒太牛了",
-      "onboard_time": 1738513277,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 132576,
       "num": 132576,
       "word": "黎深招财咪",
@@ -5187,6 +5203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80491,
+      "num": 86779,
+      "word": "10岁男孩用海姆立克法救妈妈",
+      "onboard_time": 1738514955,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80474,
       "num": 80474,
       "word": "山东大集物价震惊日本导演竹内亮",
@@ -5755,6 +5779,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 39941,
+      "num": 51785,
+      "word": "国乒对WTT建议各有侧重",
+      "onboard_time": 1738511357,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37688,
       "num": 37688,
       "word": "哪吒2特效",
@@ -6121,6 +6153,14 @@
       "onboard_time": 1738401257,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12119,
+      "num": 72541,
+      "word": "立春不等于入春",
+      "onboard_time": 1738516515,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11732,
