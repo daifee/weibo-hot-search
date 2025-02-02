@@ -1,6 +1,6 @@
 {
   "startTime": 1738513501648,
-  "endTime": 1738538424793,
+  "endTime": 1738539337959,
   "band_list": [
     {
       "raw_hot": 1266714,
@@ -195,12 +195,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 207441,
+      "num": 207441,
+      "word": "立春",
+      "onboard_time": 1738538353,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200518,
       "num": 141443,
       "word": "桐心薇泯",
       "onboard_time": 1738502780,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191084,
+      "num": 124360,
+      "word": "赵本山纽约演出第一排1400美元",
+      "onboard_time": 1738538834,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 188070,
@@ -251,6 +267,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 130646,
+      "num": 130646,
+      "word": "大年初六逢立春",
+      "onboard_time": 1738529650,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125556,
       "num": 125556,
       "word": "为了相亲把照片设置成了红包封面",
@@ -273,6 +297,14 @@
       "onboard_time": 1738517774,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 121116,
+      "num": 121116,
+      "word": "拜托这可是陈哲远亲自选的女主",
+      "onboard_time": 1738519154,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 120607,
@@ -347,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102340,
+      "num": 71319,
+      "word": "亲戚未经同意抱走没断奶小狗",
+      "onboard_time": 1738537513,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 101075,
       "num": 101075,
       "word": "哪吒2票房",
@@ -387,27 +427,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 87438,
-      "num": 87438,
-      "word": "立春",
-      "onboard_time": 1738538353,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 86673,
-      "num": 86673,
-      "word": "拜托这可是陈哲远亲自选的女主",
-      "onboard_time": 1738519154,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 81893,
-      "num": 81893,
-      "word": "大年初六逢立春",
-      "onboard_time": 1738529650,
-      "rank": 20,
+      "raw_hot": 84224,
+      "num": 84224,
+      "word": "女生醒来相亲对象站床边系摆拍",
+      "onboard_time": 1738538894,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -451,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68305,
+      "num": 68305,
+      "word": "初六",
+      "onboard_time": 1738539074,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66069,
       "num": 69834,
       "word": "刘国梁对WTT提出4点建议",
@@ -467,12 +499,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 58273,
+      "raw_hot": 59603,
       "num": 60934,
       "word": "宋佳不想被夸漂亮那是爸妈的功劳",
       "onboard_time": 1738518974,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 53729,
+      "num": 53729,
+      "word": "阿森纳5比1曼城",
+      "onboard_time": 1738538834,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 53642,
@@ -483,6 +523,46 @@
       "category": "演出"
     },
     {
+      "raw_hot": 49487,
+      "num": 49487,
+      "word": "江浙沪爸爸对猫都是这个态度吗",
+      "onboard_time": 1738538894,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 49384,
+      "num": 49384,
+      "word": "春节假期遇立春节气",
+      "onboard_time": 1738485436,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43663,
+      "num": 43663,
+      "word": "90后北大选调生任乡镇党委书记",
+      "onboard_time": 1738538894,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42484,
+      "num": 42484,
+      "word": "仙台有树全员抱树等开播",
+      "onboard_time": 1738525570,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 41752,
+      "num": 41752,
+      "word": "文殊院的尽头居然是奶龙",
+      "onboard_time": 1738539074,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 39941,
       "num": 51785,
       "word": "国乒对WTT建议各有侧重",
@@ -491,11 +571,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 38692,
-      "num": 38692,
-      "word": "亲戚未经同意抱走没断奶小狗",
-      "onboard_time": 1738537513,
-      "rank": 33,
+      "raw_hot": 39670,
+      "num": 39670,
+      "word": "乙巳蛇年还是个双春年",
+      "onboard_time": 1738539134,
+      "rank": 47,
       "category": "情感"
     },
     {
@@ -521,14 +601,6 @@
       "onboard_time": 1738504758,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32163,
-      "num": 32163,
-      "word": "仙台有树全员抱树等开播",
-      "onboard_time": 1738525570,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 30278,
