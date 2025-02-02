@@ -1,0 +1,410 @@
+{
+  "runTime": 1738506923854,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1393770,
+        "num": 1393770,
+        "word": "哪吒2因为时长砍掉镜头",
+        "onboard_time": 1738486578,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 920534,
+        "num": 920534,
+        "word": "肯德基满地垃圾无人收",
+        "onboard_time": 1738501940,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41846,
+        "num": 638677,
+        "word": "文化中国行二十四节气经典美食",
+        "onboard_time": 1738504758,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1229679,
+        "num": 593261,
+        "word": "哪吒2爆火后唯一受害者出现",
+        "onboard_time": 1738503980,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 519419,
+        "num": 519419,
+        "word": "美方曾请求我国整类列管芬太尼类物质",
+        "onboard_time": 1738502359,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 422562,
+        "num": 422562,
+        "word": "孙颖莎提出目前赛历安排过于密集",
+        "onboard_time": 1738500858,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 994810,
+        "num": 401886,
+        "word": "杨天真瘦了",
+        "onboard_time": 1738501579,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 849081,
+        "num": 401771,
+        "word": "哪吒",
+        "onboard_time": 1738504758,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 361856,
+        "num": 361856,
+        "word": "男孩井盖点鞭炮8辆车定损28.5万元",
+        "onboard_time": 1738496120,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123224,
+        "num": 361043,
+        "word": "这个春节最忙的是嘴吧",
+        "onboard_time": 1738505180,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 646674,
+        "num": 360297,
+        "word": "肖战对接回应包机问题",
+        "onboard_time": 1738504520,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 643145,
+        "num": 359120,
+        "word": "内娱又要多一个7人男团了",
+        "onboard_time": 1738486517,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 519116,
+        "num": 357328,
+        "word": "辰亦儒曾之乔得子",
+        "onboard_time": 1738498639,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 467533,
+        "num": 357145,
+        "word": "桐心薇泯",
+        "onboard_time": 1738502780,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356134,
+        "num": 356134,
+        "word": "您的五块正在骂您的三千块",
+        "onboard_time": 1738480338,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 340305,
+        "num": 340305,
+        "word": "刘国梁建议隐藏世界排名",
+        "onboard_time": 1738500138,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259944,
+        "num": 259944,
+        "word": "躲春",
+        "onboard_time": 1738489639,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217285,
+        "num": 217285,
+        "word": "大年初五迎财神",
+        "onboard_time": 1738451652,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191085,
+        "num": 217256,
+        "word": "加拿大总理宣布反制措施",
+        "onboard_time": 1738505359,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131852,
+        "num": 217225,
+        "word": "澳洲偶遇奚梦瑶何猷君带女儿出游",
+        "onboard_time": 1738503860,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351558,
+        "num": 217198,
+        "word": "孟子义翻牌",
+        "onboard_time": 1738500978,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330592,
+        "num": 217129,
+        "word": "张佳宁晒合照为宋茜庆生",
+        "onboard_time": 1738503800,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323599,
+        "num": 217086,
+        "word": "建议过年在家不要总穿睡衣",
+        "onboard_time": 1738496598,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 273049,
+        "num": 217064,
+        "word": "哪吒2票房",
+        "onboard_time": 1738505719,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 74679,
+        "num": 217021,
+        "word": "后詹姆斯时代真要来了",
+        "onboard_time": 1738505900,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240772,
+        "num": 216980,
+        "word": "剪毁了刘海却意外变成人生发型",
+        "onboard_time": 1738503980,
+        "rank": 25,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 235745,
+        "num": 216928,
+        "word": "饺子导演手绘破亿海报笔要画冒烟了",
+        "onboard_time": 1738487057,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 216919,
+        "num": 216919,
+        "word": "JYP前练习生因职场霸凌自杀去世",
+        "onboard_time": 1738499720,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182308,
+        "num": 205349,
+        "word": "立春躲春的正确方式",
+        "onboard_time": 1738500920,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199669,
+        "num": 199669,
+        "word": "鹿童配音演员回应因反派被骂",
+        "onboard_time": 1738501700,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 196340,
+        "num": 196340,
+        "word": "陈哲远演技",
+        "onboard_time": 1738506320,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173869,
+        "num": 173869,
+        "word": "哪吒2",
+        "onboard_time": 1738481718,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169557,
+        "num": 169557,
+        "word": "口臭可能是肝在求救",
+        "onboard_time": 1738502599,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 167357,
+        "num": 167357,
+        "word": "申公豹斯内普",
+        "onboard_time": 1738489337,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164788,
+        "num": 164788,
+        "word": "诗情画奕",
+        "onboard_time": 1738505240,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153310,
+        "num": 153310,
+        "word": "相关部门正调查乘客飞机捡鞭炮事件",
+        "onboard_time": 1738503200,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152239,
+        "num": 152239,
+        "word": "突然懂得学好英语的重要性了",
+        "onboard_time": 1738500619,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151004,
+        "num": 151004,
+        "word": "蒋欣夸杨紫很可爱",
+        "onboard_time": 1738504339,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147586,
+        "num": 147586,
+        "word": "李宇春去亲戚火锅店聚餐",
+        "onboard_time": 1738504401,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146852,
+        "num": 146852,
+        "word": "王楚钦建议提高WTT总决赛奖金",
+        "onboard_time": 1738503200,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146529,
+        "num": 146529,
+        "word": "丁禹兮春晚高清大图",
+        "onboard_time": 1738482918,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145126,
+        "num": 145126,
+        "word": "孙颖莎王楚钦王曼昱等集体发声",
+        "onboard_time": 1738505900,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143422,
+        "num": 143422,
+        "word": "在极深地下2400米追光是什么体验",
+        "onboard_time": 1738487239,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134211,
+        "num": 134211,
+        "word": "春节档连续5天破10亿",
+        "onboard_time": 1738498579,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126307,
+        "num": 126307,
+        "word": "墨西哥加拿大报复美国加征关税",
+        "onboard_time": 1738500319,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122867,
+        "num": 122867,
+        "word": "原来穿裙子和鞋子是有公式的",
+        "onboard_time": 1738488558,
+        "rank": 45,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 120877,
+        "num": 120877,
+        "word": "04年清华学生拿的是男频爽文剧本",
+        "onboard_time": 1738505840,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112105,
+        "num": 112105,
+        "word": "涮火锅时丸子浮起来别马上捞",
+        "onboard_time": 1738503380,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 101898,
+        "num": 110889,
+        "word": "美对华加征10%关税背后真相",
+        "onboard_time": 1738504700,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110637,
+        "num": 110637,
+        "word": "河南一影院10分钟一场哪吒2",
+        "onboard_time": 1738479437,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#在古城古巷感受文化脉动#"
+    }
+  }
+}

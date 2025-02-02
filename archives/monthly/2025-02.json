@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738505905361,
+  "endTime": 1738506923854,
   "band_list": [
     {
       "raw_hot": 3232536,
@@ -128,6 +128,14 @@
       "word": "哪吒2票房逆跌",
       "onboard_time": 1738334779,
       "rank": 0,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1229679,
+      "num": 593261,
+      "word": "哪吒2爆火后唯一受害者出现",
+      "onboard_time": 1738503980,
+      "rank": 11,
       "category": "电影"
     },
     {
@@ -595,6 +603,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 646674,
+      "num": 453289,
+      "word": "肖战对接回应包机问题",
+      "onboard_time": 1738504520,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 641071,
       "num": 641071,
       "word": "中方将对美采取相应反制措施",
@@ -707,14 +723,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 554625,
-      "num": 455270,
-      "word": "哪吒2爆火后唯一受害者出现",
-      "onboard_time": 1738503980,
-      "rank": 11,
-      "category": "电影"
-    },
-    {
       "raw_hot": 546700,
       "num": 446393,
       "word": "白色橄榄树热度",
@@ -753,6 +761,14 @@
       "onboard_time": 1738401857,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 519419,
+      "num": 519419,
+      "word": "美方曾请求我国整类列管芬太尼类物质",
+      "onboard_time": 1738502359,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 514405,
@@ -827,14 +843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 490633,
-      "num": 453289,
-      "word": "肖战对接回应包机问题",
-      "onboard_time": 1738504520,
-      "rank": 12,
-      "category": "电影"
-    },
-    {
       "raw_hot": 490069,
       "num": 359939,
       "word": "余承恩死嘴快憋住啊",
@@ -867,14 +875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 487570,
-      "num": 487570,
-      "word": "美方曾请求我国整类列管芬太尼类物质",
-      "onboard_time": 1738502359,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 485536,
       "num": 288055,
       "word": "生理性喜欢消失的原因",
@@ -897,6 +897,14 @@
       "onboard_time": 1738462577,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 467533,
+      "num": 451935,
+      "word": "桐心薇泯",
+      "onboard_time": 1738502780,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 461178,
@@ -929,14 +937,6 @@
       "onboard_time": 1738482918,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 451935,
-      "num": 451935,
-      "word": "桐心薇泯",
-      "onboard_time": 1738502780,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 451238,
@@ -1419,6 +1419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 330592,
+      "num": 322067,
+      "word": "张佳宁晒合照为宋茜庆生",
+      "onboard_time": 1738503800,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 330551,
       "num": 227689,
       "word": "杜润旺已婚",
@@ -1473,14 +1481,6 @@
       "onboard_time": 1738420759,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 322067,
-      "num": 322067,
-      "word": "张佳宁晒合照为宋茜庆生",
-      "onboard_time": 1738503800,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 318130,
@@ -1849,6 +1849,14 @@
       "onboard_time": 1738469898,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 240772,
+      "num": 216980,
+      "word": "剪毁了刘海却意外变成人生发型",
+      "onboard_time": 1738503980,
+      "rank": 31,
+      "category": "美妆"
     },
     {
       "raw_hot": 240536,
@@ -2347,6 +2355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196340,
+      "num": 196340,
+      "word": "陈哲远演技",
+      "onboard_time": 1738506320,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195950,
       "num": 183121,
       "word": "王鹤棣孟子义偷吃花生米",
@@ -2489,6 +2505,14 @@
       "onboard_time": 1738404678,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 191085,
+      "num": 217256,
+      "word": "加拿大总理宣布反制措施",
+      "onboard_time": 1738505359,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 190249,
@@ -2667,14 +2691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 184429,
-      "num": 184429,
-      "word": "剪毁了刘海却意外变成人生发型",
-      "onboard_time": 1738503980,
-      "rank": 31,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 184265,
       "num": 167473,
       "word": "樊振东登上CCTV10",
@@ -2723,6 +2739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182308,
+      "num": 205349,
+      "word": "立春躲春的正确方式",
+      "onboard_time": 1738500920,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181838,
       "num": 181838,
       "word": "倪夏莲组合11比0",
@@ -2753,14 +2777,6 @@
       "onboard_time": 1738412598,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 180595,
-      "num": 180595,
-      "word": "立春躲春的正确方式",
-      "onboard_time": 1738500920,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 180517,
@@ -3355,6 +3371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 152239,
+      "num": 152239,
+      "word": "突然懂得学好英语的重要性了",
+      "onboard_time": 1738500619,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 152039,
       "num": 132513,
       "word": "刘诗诗只是一味的吊人胃口",
@@ -3447,6 +3471,14 @@
       "num": 147609,
       "word": "jayjay镜头",
       "onboard_time": 1738411097,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 147586,
+      "num": 147586,
+      "word": "李宇春去亲戚火锅店聚餐",
+      "onboard_time": 1738504401,
       "rank": 46,
       "category": "艺人"
     },
@@ -3547,20 +3579,20 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 145126,
+      "num": 145126,
+      "word": "孙颖莎王楚钦王曼昱等集体发声",
+      "onboard_time": 1738505900,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144641,
       "num": 131328,
       "word": "丁程鑫被问恋爱相关问题不敢动",
       "onboard_time": 1738417698,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 144505,
-      "num": 144505,
-      "word": "突然懂得学好英语的重要性了",
-      "onboard_time": 1738500619,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 144298,
@@ -3772,7 +3804,7 @@
     },
     {
       "raw_hot": 138184,
-      "num": 138184,
+      "num": 217225,
       "word": "澳洲偶遇奚梦瑶何猷君带女儿出游",
       "onboard_time": 1738503860,
       "rank": 44,
@@ -3995,14 +4027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127964,
-      "num": 127964,
-      "word": "李宇春去亲戚火锅店聚餐",
-      "onboard_time": 1738504401,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 127466,
       "num": 127466,
       "word": "女子记录自己一年掉发39357根",
@@ -4177,6 +4201,14 @@
       "onboard_time": 1738404978,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123224,
+      "num": 466863,
+      "word": "这个春节最忙的是嘴吧",
+      "onboard_time": 1738505180,
+      "rank": 8,
+      "category": "正能量"
     },
     {
       "raw_hot": 122989,
@@ -4393,6 +4425,14 @@
       "onboard_time": 1738454174,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112105,
+      "num": 112105,
+      "word": "涮火锅时丸子浮起来别马上捞",
+      "onboard_time": 1738503380,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 111684,
@@ -4651,7 +4691,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 101884,
+      "raw_hot": 101898,
       "num": 461717,
       "word": "美对华加征10%关税背后真相",
       "onboard_time": 1738504700,
@@ -4987,14 +5027,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 80642,
-      "num": 187422,
-      "word": "加拿大总理宣布反制措施",
-      "onboard_time": 1738505359,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 80474,
       "num": 80474,
       "word": "山东大集物价震惊日本导演竹内亮",
@@ -5081,6 +5113,14 @@
       "onboard_time": 1738327578,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74679,
+      "num": 217021,
+      "word": "后詹姆斯时代真要来了",
+      "onboard_time": 1738505900,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 74646,
@@ -5427,14 +5467,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 44643,
-      "num": 466863,
-      "word": "这个春节最忙的是嘴吧",
-      "onboard_time": 1738505180,
-      "rank": 8,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 44348,
       "num": 44348,
       "word": "小沈阳你说中国人不骗中国人",
@@ -5473,6 +5505,14 @@
       "onboard_time": 1738468458,
       "rank": 2,
       "category": "民生新闻,正能量"
+    },
+    {
+      "raw_hot": 41846,
+      "num": 638677,
+      "word": "文化中国行二十四节气经典美食",
+      "onboard_time": 1738504758,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41620,
@@ -5583,14 +5623,6 @@
       "num": 770004,
       "word": "锣鼓一响敲出新年满满精气神",
       "onboard_time": 1738486398,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33847,
-      "num": 519110,
-      "word": "文化中国行二十四节气经典美食",
-      "onboard_time": 1738504758,
       "rank": 2,
       "category": "民生新闻"
     },
