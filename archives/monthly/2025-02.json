@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738477683366,
+  "endTime": 1738478580397,
   "band_list": [
     {
       "raw_hot": 3232536,
@@ -291,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 848560,
+      "num": 848560,
+      "word": "白色橄榄树 四川农村",
+      "onboard_time": 1738474097,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 844095,
       "num": 1135055,
       "word": "哪吒导演回应啃老三年",
@@ -313,14 +321,6 @@
       "onboard_time": 1738468277,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 836505,
-      "num": 836505,
-      "word": "白色橄榄树 四川农村",
-      "onboard_time": 1738474097,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 817025,
@@ -603,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 501201,
+      "num": 501201,
+      "word": "Kanye唯一关注Taylor Swift",
+      "onboard_time": 1738476138,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 499165,
       "num": 499165,
       "word": "小女孩被海浪卷走小哥不顾危险救人",
@@ -763,11 +771,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 428965,
+      "num": 428965,
+      "word": "哪吒2导演曾因特效与团队产生严重分歧",
+      "onboard_time": 1738472957,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 425460,
       "num": 425460,
       "word": "春运期间退票为啥这么贵",
       "onboard_time": 1738378817,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 425049,
+      "num": 425049,
+      "word": "男孩井盖点鞭炮受损车主回应",
+      "onboard_time": 1738474397,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -907,14 +931,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 380099,
-      "num": 309043,
-      "word": "Kanye唯一关注Taylor Swift",
-      "onboard_time": 1738476138,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 379707,
       "num": 287969,
       "word": "SM新练习生年龄公开",
@@ -995,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 356641,
+      "num": 356641,
+      "word": "浓眉",
+      "onboard_time": 1738474457,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 353904,
       "num": 353904,
       "word": "DeepSeek在美商标被梁文锋校友抢注",
@@ -1025,14 +1049,6 @@
       "onboard_time": 1738419140,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 350213,
-      "num": 350213,
-      "word": "浓眉",
-      "onboard_time": 1738474457,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 346054,
@@ -1243,14 +1259,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 289515,
-      "num": 289515,
-      "word": "男孩井盖点鞭炮受损车主回应",
-      "onboard_time": 1738474397,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 286629,
       "num": 286629,
       "word": "王楚钦可爱童年照",
@@ -1379,6 +1387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 251019,
+      "num": 251019,
+      "word": "湖人交易",
+      "onboard_time": 1738474338,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 250611,
       "num": 186255,
       "word": "封神2妲己严选的女孩是艾米",
@@ -1387,11 +1403,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 249841,
-      "num": 249841,
-      "word": "湖人交易",
-      "onboard_time": 1738474338,
-      "rank": 28,
+      "raw_hot": 248523,
+      "num": 224401,
+      "word": "樊振东陈梦确定无缘世界杯",
+      "onboard_time": 1738477938,
+      "rank": 21,
       "category": "体育"
     },
     {
@@ -1441,14 +1457,6 @@
       "onboard_time": 1738469898,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 240692,
-      "num": 348836,
-      "word": "哪吒2导演曾因特效与团队产生严重分歧",
-      "onboard_time": 1738472957,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 240536,
@@ -1731,6 +1739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205091,
+      "num": 205091,
+      "word": "宋亚轩手电筒",
+      "onboard_time": 1738477337,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203702,
       "num": 203702,
       "word": "金智秀好美",
@@ -1809,6 +1825,14 @@
       "onboard_time": 1738405276,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195589,
+      "num": 195589,
+      "word": "刘昊然叫张新成哥哥停不下来",
+      "onboard_time": 1738477517,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 195537,
@@ -2003,6 +2027,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 187124,
+      "num": 187124,
+      "word": "曾之乔新年晒孕肚",
+      "onboard_time": 1738478178,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186858,
       "num": 132232,
       "word": "李昀锐哭的让人心痛",
@@ -2041,6 +2073,14 @@
       "onboard_time": 1738405038,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184017,
+      "num": 184017,
+      "word": "肖战小红马吃醋了",
+      "onboard_time": 1738478178,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 182929,
@@ -2225,14 +2265,6 @@
       "onboard_time": 1738401617,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 168545,
-      "num": 188871,
-      "word": "宋亚轩手电筒",
-      "onboard_time": 1738477337,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 168085,
@@ -2441,6 +2473,14 @@
       "onboard_time": 1738390637,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158388,
+      "num": 178577,
+      "word": "设计师回应春晚机器人不穿裤子",
+      "onboard_time": 1738477517,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 157413,
@@ -2955,6 +2995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129738,
+      "num": 129738,
+      "word": "不敢相信浓眉换东契奇",
+      "onboard_time": 1738475718,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128776,
       "num": 97043,
       "word": "张婧仪的电台",
@@ -3048,14 +3096,6 @@
       "word": "刘晓庆不服输也不扶人",
       "onboard_time": 1738389917,
       "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 124123,
-      "num": 124123,
-      "word": "设计师回应春晚机器人不穿裤子",
-      "onboard_time": 1738477517,
-      "rank": 45,
       "category": "综艺"
     },
     {
@@ -3195,14 +3235,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 118266,
-      "num": 118266,
-      "word": "刘昊然叫张新成哥哥停不下来",
-      "onboard_time": 1738477517,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 117752,
       "num": 335014,
       "word": "罗云熙和天津非遗一起唱新年祝福",
@@ -3249,14 +3281,6 @@
       "onboard_time": 1738410917,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 114368,
-      "num": 114368,
-      "word": "不敢相信浓眉换东契奇",
-      "onboard_time": 1738475718,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 114275,
@@ -4137,6 +4161,14 @@
       "onboard_time": 1738430715,
       "rank": 33,
       "category": "民生新闻,幽默"
+    },
+    {
+      "raw_hot": 48422,
+      "num": 453519,
+      "word": "美国关税战被南北夹击",
+      "onboard_time": 1738477817,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 47462,
