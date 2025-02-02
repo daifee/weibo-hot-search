@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738461624119,
+  "endTime": 1738464663458,
   "band_list": [
     {
       "raw_hot": 3232536,
@@ -43,8 +43,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 827788,
+      "num": 827788,
+      "word": "射雕票房",
+      "onboard_time": 1738462818,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 791825,
-      "num": 525710,
+      "num": 553118,
       "word": "美国对中国商品加征10%关税",
       "onboard_time": 1738453994,
       "rank": 5,
@@ -65,6 +73,14 @@
       "onboard_time": 1738422739,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 677427,
+      "num": 677427,
+      "word": "饺子导演肉眼可见的变老",
+      "onboard_time": 1738461977,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 676106,
@@ -123,6 +139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 509714,
+      "num": 406306,
+      "word": "谢娜晒7岁的跳跳俏俏",
+      "onboard_time": 1738460659,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 489464,
       "num": 489464,
       "word": "哪吒之魔童闹海票房破25亿",
@@ -140,7 +164,7 @@
     },
     {
       "raw_hot": 461178,
-      "num": 390317,
+      "num": 460808,
       "word": "哪吒2已破14项影史纪录",
       "onboard_time": 1738456094,
       "rank": 11,
@@ -161,6 +185,14 @@
       "onboard_time": 1738405697,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 417041,
+      "num": 417041,
+      "word": "墨西哥官员称加税将由美消费者埋单",
+      "onboard_time": 1738463058,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 401178,
@@ -193,6 +225,14 @@
       "onboard_time": 1738420341,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 375815,
+      "num": 375815,
+      "word": "全网关注的白衣小哥获表彰",
+      "onboard_time": 1738458857,
+      "rank": 29,
+      "category": "正能量"
     },
     {
       "raw_hot": 375312,
@@ -275,12 +315,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 301812,
+      "num": 226676,
+      "word": "小蛇糕",
+      "onboard_time": 1738462637,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 248567,
       "num": 140496,
       "word": "白色橄榄树",
       "onboard_time": 1738404497,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 247004,
+      "num": 247004,
+      "word": "接财神需要注意什么",
+      "onboard_time": 1738462577,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 246352,
+      "num": 223169,
+      "word": "哪吒导演说认没认真观众一眼就看得出",
+      "onboard_time": 1738463778,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 237930,
@@ -297,6 +361,22 @@
       "onboard_time": 1738438871,
       "rank": 17,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 222835,
+      "num": 222835,
+      "word": "外甥女悄悄给未婚小姨塞压岁钱",
+      "onboard_time": 1738461737,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 218916,
+      "num": 218916,
+      "word": "梁洁演技",
+      "onboard_time": 1738461557,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 214643,
@@ -347,12 +427,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 168354,
-      "num": 364941,
-      "word": "全网关注的白衣小哥获表彰",
-      "onboard_time": 1738458857,
-      "rank": 29,
-      "category": "正能量"
+      "raw_hot": 169228,
+      "num": 169228,
+      "word": "金智秀好美",
+      "onboard_time": 1738461075,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 161008,
@@ -361,6 +441,22 @@
       "onboard_time": 1738386858,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 153932,
+      "num": 153932,
+      "word": "DeepSeek",
+      "onboard_time": 1738462458,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 147897,
+      "num": 147897,
+      "word": "英语好是大学生最大的刻板印象",
+      "onboard_time": 1738462037,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 145458,
@@ -387,12 +483,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143862,
+      "num": 143862,
+      "word": "墨西哥总统强硬回应",
+      "onboard_time": 1738462396,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 143741,
       "num": 143741,
       "word": "国乒欢迎晚宴",
       "onboard_time": 1738420699,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143705,
+      "num": 143705,
+      "word": "2月5号回公司的我",
+      "onboard_time": 1738462217,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 141121,
@@ -451,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129633,
+      "num": 129633,
+      "word": "当代年轻人过年统一现状",
+      "onboard_time": 1738464017,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 128039,
       "num": 100459,
       "word": "于冬 蛟龙行动绝不撤档",
@@ -472,6 +592,14 @@
       "word": "刘昊然嘴在前面飞脑子在后面追",
       "onboard_time": 1738427237,
       "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 125069,
+      "num": 125069,
+      "word": "哪吒之魔童闹海",
+      "onboard_time": 1738452074,
+      "rank": 34,
       "category": "电影"
     },
     {
@@ -507,6 +635,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 119839,
+      "num": 119839,
+      "word": "国防部发布当那一天来临MV",
+      "onboard_time": 1738461798,
+      "rank": 43,
+      "category": "军事"
+    },
+    {
       "raw_hot": 119596,
       "num": 119596,
       "word": "英伟达市值一周缩水超5000亿美元",
@@ -528,14 +664,6 @@
       "word": "陈哲远憋不了一点",
       "onboard_time": 1738427298,
       "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 116020,
-      "num": 116020,
-      "word": "金智秀好美",
-      "onboard_time": 1738461075,
-      "rank": 40,
       "category": "艺人"
     },
     {
@@ -563,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112318,
+      "num": 112318,
+      "word": "墨西哥总统宣布将对美国加征关税",
+      "onboard_time": 1738463238,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 109690,
       "num": 95863,
       "word": "陈哲远听到冉冉对李瓒一见钟情的反应",
@@ -577,6 +713,14 @@
       "onboard_time": 1738451652,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 107798,
+      "num": 107798,
+      "word": "为什么现在年轻人这么抵制相亲",
+      "onboard_time": 1738464437,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 107704,
@@ -627,6 +771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 101160,
+      "num": 101160,
+      "word": "生理性喜欢消失的原因",
+      "onboard_time": 1738464497,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 98721,
       "num": 98721,
       "word": "让你越来越有福气的4件事",
@@ -641,14 +793,6 @@
       "onboard_time": 1738422799,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 94862,
-      "num": 94862,
-      "word": "梁洁演技",
-      "onboard_time": 1738461557,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 92946,
@@ -681,14 +825,6 @@
       "onboard_time": 1738428735,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 87276,
-      "num": 241446,
-      "word": "谢娜晒7岁的跳跳俏俏",
-      "onboard_time": 1738460659,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 86466,
@@ -827,14 +963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 45262,
-      "num": 45262,
-      "word": "哪吒之魔童闹海",
-      "onboard_time": 1738452074,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
       "raw_hot": 43348,
       "num": 89355,
       "word": "金价大涨点燃春节购金热",
@@ -868,7 +996,7 @@
     },
     {
       "raw_hot": 33064,
-      "num": 735407,
+      "num": 835815,
       "word": "文化中国行非遗雅韵中国年",
       "onboard_time": 1738420759,
       "rank": 2,
@@ -889,6 +1017,14 @@
       "onboard_time": 1738445111,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27735,
+      "num": 233591,
+      "word": "哪吒彩蛋",
+      "onboard_time": 1738464137,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 25246,
