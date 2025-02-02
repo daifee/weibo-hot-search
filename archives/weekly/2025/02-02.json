@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738467577745,
+  "endTime": 1738470275157,
   "band_list": [
     {
       "raw_hot": 3232536,
@@ -9,6 +9,14 @@
       "onboard_time": 1738456816,
       "rank": 0,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1708063,
+      "num": 804983,
+      "word": "DeepSeek",
+      "onboard_time": 1738462458,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 1222674,
@@ -35,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1068760,
+      "num": 581574,
+      "word": "武艺结婚要求伴郎170以上",
+      "onboard_time": 1738467618,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1061357,
       "num": 1061357,
       "word": "女生一觉醒来相亲对象已站床边",
@@ -52,7 +68,7 @@
     },
     {
       "raw_hot": 873649,
-      "num": 432278,
+      "num": 554747,
       "word": "谢娜晒7岁的跳跳俏俏",
       "onboard_time": 1738460659,
       "rank": 19,
@@ -67,12 +83,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 804983,
-      "num": 804983,
-      "word": "DeepSeek",
-      "onboard_time": 1738462458,
-      "rank": 30,
-      "category": "互联网"
+      "raw_hot": 793035,
+      "num": 572264,
+      "word": "阐教 截教",
+      "onboard_time": 1738468277,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 791825,
@@ -131,6 +147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 641071,
+      "num": 641071,
+      "word": "中方将对美采取相应反制措施",
+      "onboard_time": 1738467317,
+      "rank": 22,
+      "category": "国际时政,国内时政"
+    },
+    {
       "raw_hot": 628097,
       "num": 623217,
       "word": "DeepSeek创始人老家村口拉起横幅",
@@ -171,8 +195,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 530877,
-      "num": 414657,
+      "raw_hot": 537034,
+      "num": 537034,
       "word": "终于有全女性家族的国产剧了",
       "onboard_time": 1738466178,
       "rank": 28,
@@ -188,7 +212,7 @@
     },
     {
       "raw_hot": 485536,
-      "num": 229541,
+      "num": 288055,
       "word": "生理性喜欢消失的原因",
       "onboard_time": 1738464497,
       "rank": 49,
@@ -209,6 +233,14 @@
       "onboard_time": 1738462577,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 470848,
+      "num": 470848,
+      "word": "从春晚配角到主角他熬了20年",
+      "onboard_time": 1738468757,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 461178,
@@ -268,7 +300,7 @@
     },
     {
       "raw_hot": 379707,
-      "num": 229634,
+      "num": 287969,
       "word": "SM新练习生年龄公开",
       "onboard_time": 1738465217,
       "rank": 20,
@@ -371,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 329344,
+      "num": 329344,
+      "word": "张杰谢娜带双胞胎女儿游迪士尼",
+      "onboard_time": 1738469059,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 322240,
       "num": 140620,
       "word": "敖丙传",
@@ -387,12 +427,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 287746,
+      "num": 287746,
+      "word": "伊能静 暴力的人都是懦夫",
+      "onboard_time": 1738469118,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 274855,
+      "num": 274855,
+      "word": "哪吒票房",
+      "onboard_time": 1738467317,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 248567,
       "num": 140496,
       "word": "白色橄榄树",
       "onboard_time": 1738404497,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 244445,
+      "num": 356805,
+      "word": "点赞微博有小财神特效",
+      "onboard_time": 1738466657,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 237930,
@@ -411,6 +475,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 225533,
+      "num": 225533,
+      "word": "哪吒之魔童闹海",
+      "onboard_time": 1738452074,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 225239,
       "num": 225239,
       "word": "外甥女悄悄给未婚小姨塞压岁钱",
@@ -425,14 +497,6 @@
       "onboard_time": 1738461557,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 222965,
-      "num": 356805,
-      "word": "点赞微博有小财神特效",
-      "onboard_time": 1738466657,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 214643,
@@ -475,14 +539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203337,
-      "num": 198519,
-      "word": "哪吒之魔童闹海",
-      "onboard_time": 1738452074,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
       "raw_hot": 203185,
       "num": 203185,
       "word": "马布里",
@@ -496,6 +552,14 @@
       "word": "林孝埈出征亚冬会",
       "onboard_time": 1738465877,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 199441,
+      "num": 199441,
+      "word": "湖人vs尼克斯",
+      "onboard_time": 1738469238,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -515,14 +579,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 185973,
-      "num": 185973,
-      "word": "哪吒票房",
-      "onboard_time": 1738467317,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
       "raw_hot": 175190,
       "num": 175190,
       "word": "邓为新剧是灭世版涂山璟",
@@ -536,6 +592,30 @@
       "word": "白色橄榄树滤镜",
       "onboard_time": 1738456455,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 168751,
+      "num": 207665,
+      "word": "鹭卓Snipper",
+      "onboard_time": 1738470078,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 164091,
+      "num": 164091,
+      "word": "陈哲远现偶",
+      "onboard_time": 1738468037,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 164048,
+      "num": 164048,
+      "word": "女追男算是遇到棉花了",
+      "onboard_time": 1738469898,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -579,12 +659,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 155195,
-      "num": 224141,
-      "word": "中方将对美采取相应反制措施",
-      "onboard_time": 1738467317,
-      "rank": 22,
-      "category": "国际时政,国内时政"
+      "raw_hot": 155429,
+      "num": 155429,
+      "word": "打开朋友圈以为到了天庭",
+      "onboard_time": 1738468578,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 150942,
@@ -715,6 +795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 136537,
+      "num": 136537,
+      "word": "藕饼",
+      "onboard_time": 1738469718,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 134700,
       "num": 134700,
       "word": "王者荣耀灵宝市集",
@@ -771,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122345,
+      "num": 122345,
+      "word": "恋与制作人",
+      "onboard_time": 1738469478,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 122051,
       "num": 122051,
       "word": "射雕里肖战台词发音",
@@ -817,6 +913,14 @@
       "onboard_time": 1738427298,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113987,
+      "num": 622486,
+      "word": "春节假期开始倒数",
+      "onboard_time": 1738468578,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113150,
@@ -889,6 +993,14 @@
       "onboard_time": 1738405097,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 105172,
+      "num": 164065,
+      "word": "惠英红65岁摇滚拽妈",
+      "onboard_time": 1738469958,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 103845,
@@ -1139,12 +1251,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 38259,
+      "num": 751433,
+      "word": "这些文物故事真的很配春节",
+      "onboard_time": 1738468458,
+      "rank": 2,
+      "category": "民生新闻,正能量"
+    },
+    {
       "raw_hot": 34822,
       "num": 61663,
       "word": "DeepSeek下载量霸占140多个国家榜首",
       "onboard_time": 1738418119,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 34423,
+      "num": 500825,
+      "word": "在蚂蚁财富接财神今年财气拉满了",
+      "onboard_time": 1738468878,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33064,
@@ -1163,10 +1291,26 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30535,
+      "num": 156830,
+      "word": "今年你收到蛇形红包了吗",
+      "onboard_time": 1738468878,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 29678,
       "num": 49429,
       "word": "华山环卫工手抓铁链背对悬崖扫雪",
       "onboard_time": 1738445111,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25333,
+      "num": 606835,
+      "word": "大年初五祝你有求币应",
+      "onboard_time": 1738469417,
       "rank": 9,
       "category": "民生新闻"
     },
@@ -1246,6 +1390,9 @@
   "hotgov_list": [
     {
       "word": "#6年前的这个场景真暖#"
+    },
+    {
+      "word": "#人间烟火气红火中国年#"
     }
   ]
 }

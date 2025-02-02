@@ -1,0 +1,410 @@
+{
+  "runTime": 1738470275157,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1591236,
+        "num": 1591236,
+        "word": "引爆沼气小孩家庭付天价赔偿系谣言",
+        "onboard_time": 1738456816,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 822266,
+        "num": 822266,
+        "word": "大年初五迎财神",
+        "onboard_time": 1738451652,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38259,
+        "num": 751433,
+        "word": "这些文物故事真的很配春节",
+        "onboard_time": 1738468458,
+        "rank": 2,
+        "category": "民生新闻,正能量"
+      },
+      {
+        "raw_hot": 721199,
+        "num": 721199,
+        "word": "射雕票房",
+        "onboard_time": 1738462818,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 652934,
+        "num": 652934,
+        "word": "在暴雪时分",
+        "onboard_time": 1738464678,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1708063,
+        "num": 650941,
+        "word": "DeepSeek",
+        "onboard_time": 1738462458,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 641071,
+        "num": 641071,
+        "word": "中方将对美采取相应反制措施",
+        "onboard_time": 1738467317,
+        "rank": 6,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 627002,
+        "num": 627002,
+        "word": "哪吒导演说认没认真观众一眼就看得出",
+        "onboard_time": 1738463778,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113987,
+        "num": 622486,
+        "word": "春节假期开始倒数",
+        "onboard_time": 1738468578,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25333,
+        "num": 606835,
+        "word": "大年初五祝你有求币应",
+        "onboard_time": 1738469417,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1068760,
+        "num": 581574,
+        "word": "武艺结婚要求伴郎170以上",
+        "onboard_time": 1738467618,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 793035,
+        "num": 572264,
+        "word": "阐教 截教",
+        "onboard_time": 1738468277,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 658465,
+        "num": 554747,
+        "word": "谢娜晒7岁的跳跳俏俏",
+        "onboard_time": 1738460659,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 537034,
+        "num": 537034,
+        "word": "终于有全女性家族的国产剧了",
+        "onboard_time": 1738466178,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34423,
+        "num": 500825,
+        "word": "在蚂蚁财富接财神今年财气拉满了",
+        "onboard_time": 1738468878,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 470848,
+        "num": 470848,
+        "word": "从春晚配角到主角他熬了20年",
+        "onboard_time": 1738468757,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330180,
+        "num": 330180,
+        "word": "美国对中国商品加征10%关税",
+        "onboard_time": 1738453994,
+        "rank": 16,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 329344,
+        "num": 329344,
+        "word": "张杰谢娜带双胞胎女儿游迪士尼",
+        "onboard_time": 1738469059,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311309,
+        "num": 311309,
+        "word": "商务部回应美方对中国产品加征10%关税",
+        "onboard_time": 1738466537,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 288173,
+        "num": 288173,
+        "word": "接财神需要注意什么",
+        "onboard_time": 1738462577,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 441003,
+        "num": 288055,
+        "word": "生理性喜欢消失的原因",
+        "onboard_time": 1738464497,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 374404,
+        "num": 287969,
+        "word": "SM新练习生年龄公开",
+        "onboard_time": 1738465217,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287746,
+        "num": 287746,
+        "word": "伊能静 暴力的人都是懦夫",
+        "onboard_time": 1738469118,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274855,
+        "num": 274855,
+        "word": "哪吒票房",
+        "onboard_time": 1738467317,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 258719,
+        "num": 258719,
+        "word": "小蛇糕",
+        "onboard_time": 1738462637,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 272914,
+        "num": 256495,
+        "word": "石矶娘娘",
+        "onboard_time": 1738424178,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 244445,
+        "num": 244445,
+        "word": "点赞微博有小财神特效",
+        "onboard_time": 1738466657,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272173,
+        "num": 240897,
+        "word": "哪吒2已破14项影史纪录",
+        "onboard_time": 1738456094,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 225533,
+        "num": 225533,
+        "word": "哪吒之魔童闹海",
+        "onboard_time": 1738452074,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168751,
+        "num": 207665,
+        "word": "鹭卓Snipper",
+        "onboard_time": 1738470078,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 203356,
+        "num": 203356,
+        "word": "大年初五和0713男团一起登高",
+        "onboard_time": 1738454654,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199441,
+        "num": 199441,
+        "word": "湖人vs尼克斯",
+        "onboard_time": 1738469238,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179719,
+        "num": 179719,
+        "word": "饺子导演肉眼可见的变老",
+        "onboard_time": 1738461977,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176189,
+        "num": 176189,
+        "word": "梁洁演技",
+        "onboard_time": 1738461557,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164723,
+        "num": 164723,
+        "word": "宝妈着急上厕所把孩子交给武警",
+        "onboard_time": 1738430475,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 164091,
+        "num": 164091,
+        "word": "陈哲远现偶",
+        "onboard_time": 1738468037,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105172,
+        "num": 164065,
+        "word": "惠英红65岁摇滚拽妈",
+        "onboard_time": 1738469958,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164048,
+        "num": 164048,
+        "word": "女追男算是遇到棉花了",
+        "onboard_time": 1738469898,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160797,
+        "num": 160797,
+        "word": "正月初五为啥又叫破五",
+        "onboard_time": 1738423639,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30535,
+        "num": 156830,
+        "word": "今年你收到蛇形红包了吗",
+        "onboard_time": 1738468878,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 155429,
+        "num": 155429,
+        "word": "打开朋友圈以为到了天庭",
+        "onboard_time": 1738468578,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141165,
+        "num": 141165,
+        "word": "墨西哥官员称加税将由美消费者埋单",
+        "onboard_time": 1738463058,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136537,
+        "num": 136537,
+        "word": "藕饼",
+        "onboard_time": 1738469718,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134211,
+        "num": 136455,
+        "word": "格莱美",
+        "onboard_time": 1738466717,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136447,
+        "num": 136447,
+        "word": "三亚紧急发布6条措施明日实施",
+        "onboard_time": 1738430234,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135917,
+        "num": 135917,
+        "word": "大年初五恭喜发财",
+        "onboard_time": 1738457956,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134192,
+        "num": 134192,
+        "word": "票房",
+        "onboard_time": 1738457717,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129241,
+        "num": 129241,
+        "word": "朱雨玲发博吐槽签位",
+        "onboard_time": 1738465877,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128818,
+        "num": 128818,
+        "word": "金智秀好美",
+        "onboard_time": 1738461075,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122345,
+        "num": 122345,
+        "word": "恋与制作人",
+        "onboard_time": 1738469478,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#人间烟火气红火中国年#"
+    }
+  }
+}
