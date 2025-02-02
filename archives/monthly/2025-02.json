@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738473658170,
+  "endTime": 1738474622740,
   "band_list": [
     {
       "raw_hot": 3232536,
@@ -323,6 +323,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 803552,
+      "num": 803552,
+      "word": "中方强烈不满坚决反对",
+      "onboard_time": 1738473198,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 791825,
       "num": 739710,
       "word": "美国对中国商品加征10%关税",
@@ -627,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 490050,
+      "num": 490050,
+      "word": "哄孩子的小姨为了打麻将有多拼",
+      "onboard_time": 1738471577,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 488694,
       "num": 488694,
       "word": "农村为何普遍早婚早育",
@@ -689,14 +705,6 @@
       "onboard_time": 1738384459,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 449610,
-      "num": 449610,
-      "word": "哄孩子的小姨为了打麻将有多拼",
-      "onboard_time": 1738471577,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 445345,
@@ -785,6 +793,14 @@
       "onboard_time": 1738401978,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 405360,
+      "num": 405360,
+      "word": "王猛 马布里已报警",
+      "onboard_time": 1738471158,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 405185,
@@ -923,14 +939,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 366818,
-      "num": 366818,
-      "word": "王猛 马布里已报警",
-      "onboard_time": 1738471158,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 363747,
       "num": 363747,
       "word": "三家美国巨头同日接入DeepSeek",
@@ -1003,6 +1011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 345938,
+      "num": 473180,
+      "word": "孙杨称从未与马布里单独接触",
+      "onboard_time": 1738471517,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 344784,
       "num": 344784,
       "word": "今年年夜饭预制菜在一片骂声中卖爆",
@@ -1017,6 +1033,14 @@
       "onboard_time": 1738426938,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 342567,
+      "num": 342567,
+      "word": "詹姆斯",
+      "onboard_time": 1738470797,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 339821,
@@ -1049,6 +1073,14 @@
       "onboard_time": 1738402518,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 333275,
+      "num": 333275,
+      "word": "浓眉",
+      "onboard_time": 1738474457,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 332778,
@@ -1129,14 +1161,6 @@
       "onboard_time": 1738420759,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 319513,
-      "num": 473180,
-      "word": "孙杨称从未与马布里单独接触",
-      "onboard_time": 1738471517,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 318130,
@@ -1267,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261553,
+      "num": 261553,
+      "word": "白色橄榄树 四川农村",
+      "onboard_time": 1738474097,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258751,
       "num": 258751,
       "word": "李小冉深夜回怼网友",
@@ -1323,8 +1355,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 246036,
-      "num": 246036,
+      "raw_hot": 247833,
+      "num": 247833,
       "word": "哪吒之魔童闹海",
       "onboard_time": 1738452074,
       "rank": 34,
@@ -1707,6 +1739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199435,
+      "num": 199435,
+      "word": "湖人交易",
+      "onboard_time": 1738474338,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198407,
       "num": 167628,
       "word": "smtr25",
@@ -2036,7 +2076,7 @@
     },
     {
       "raw_hot": 175190,
-      "num": 175190,
+      "num": 184562,
       "word": "邓为新剧是灭世版涂山璟",
       "onboard_time": 1738465336,
       "rank": 35,
@@ -2083,20 +2123,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171042,
+      "num": 171042,
+      "word": "尹子维的大勺下一秒要敲徐冬冬头上了",
+      "onboard_time": 1738473317,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169665,
       "num": 351673,
       "word": "王俊凯谈出演蛟龙行动声呐兵角色",
       "onboard_time": 1738401617,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 168968,
-      "num": 474830,
-      "word": "中方强烈不满坚决反对",
-      "onboard_time": 1738473198,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 168085,
@@ -2377,14 +2417,6 @@
       "onboard_time": 1738399037,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 151635,
-      "num": 151635,
-      "word": "詹姆斯",
-      "onboard_time": 1738470797,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 150942,
@@ -2747,6 +2779,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 132576,
+      "num": 132576,
+      "word": "黎深招财咪",
+      "onboard_time": 1738474457,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 132420,
       "num": 124853,
       "word": "孟子义超耿直",
@@ -2769,14 +2809,6 @@
       "onboard_time": 1738379597,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 131322,
-      "num": 131322,
-      "word": "尹子维的大勺下一秒要敲徐冬冬头上了",
-      "onboard_time": 1738473317,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 131013,
@@ -2849,6 +2881,14 @@
       "onboard_time": 1738392676,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 126798,
+      "num": 126798,
+      "word": "蔡明对时代少年团了如指掌",
+      "onboard_time": 1738474277,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 126773,
@@ -3041,6 +3081,14 @@
       "onboard_time": 1738381816,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117471,
+      "num": 146012,
+      "word": "男孩井盖点鞭炮受损车主回应",
+      "onboard_time": 1738474397,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117273,
@@ -3803,6 +3851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65284,
+      "num": 458589,
+      "word": "新的一年蛇么都好",
+      "onboard_time": 1738472659,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65265,
       "num": 114241,
       "word": "王一博萧敬腾春晚我可以",
@@ -3987,14 +4043,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 44677,
-      "num": 458589,
-      "word": "新的一年蛇么都好",
-      "onboard_time": 1738472659,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 44348,
       "num": 44348,
       "word": "小沈阳你说中国人不骗中国人",
@@ -4028,7 +4076,7 @@
     },
     {
       "raw_hot": 42442,
-      "num": 765188,
+      "num": 877839,
       "word": "这些文物故事真的很配春节",
       "onboard_time": 1738468458,
       "rank": 2,
@@ -4401,6 +4449,14 @@
       "onboard_time": 1738350612,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10489,
+      "num": 226989,
+      "word": "打麻将带王宝强周润发包发的",
+      "onboard_time": 1738474338,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 9942,

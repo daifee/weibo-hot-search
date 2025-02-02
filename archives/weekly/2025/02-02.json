@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738473658170,
+  "endTime": 1738474622740,
   "band_list": [
     {
       "raw_hot": 3232536,
@@ -89,6 +89,14 @@
       "onboard_time": 1738468277,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 803552,
+      "num": 803552,
+      "word": "中方强烈不满坚决反对",
+      "onboard_time": 1738473198,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 791825,
@@ -219,6 +227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 490050,
+      "num": 490050,
+      "word": "哄孩子的小姨为了打麻将有多拼",
+      "onboard_time": 1738471577,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 489464,
       "num": 489464,
       "word": "哪吒之魔童闹海票房破25亿",
@@ -259,14 +275,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 449610,
-      "num": 449610,
-      "word": "哄孩子的小姨为了打麻将有多拼",
-      "onboard_time": 1738471577,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
       "raw_hot": 439289,
       "num": 439289,
       "word": "孤注一掷",
@@ -289,6 +297,14 @@
       "onboard_time": 1738463058,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 405360,
+      "num": 405360,
+      "word": "王猛 马布里已报警",
+      "onboard_time": 1738471158,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 401178,
@@ -363,14 +379,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 366818,
-      "num": 366818,
-      "word": "王猛 马布里已报警",
-      "onboard_time": 1738471158,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 365356,
       "num": 365356,
       "word": "费城坠毁飞机上的女孩刚做了救命手术",
@@ -395,6 +403,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 345938,
+      "num": 473180,
+      "word": "孙杨称从未与马布里单独接触",
+      "onboard_time": 1738471517,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 344784,
       "num": 344784,
       "word": "今年年夜饭预制菜在一片骂声中卖爆",
@@ -417,6 +433,22 @@
       "onboard_time": 1738426938,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 342567,
+      "num": 342567,
+      "word": "詹姆斯",
+      "onboard_time": 1738470797,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 333275,
+      "num": 333275,
+      "word": "浓眉",
+      "onboard_time": 1738474457,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 332778,
@@ -451,20 +483,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 319513,
-      "num": 473180,
-      "word": "孙杨称从未与马布里单独接触",
-      "onboard_time": 1738471517,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 312545,
       "num": 312545,
       "word": "票房",
       "onboard_time": 1738457717,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 261553,
+      "num": 261553,
+      "word": "白色橄榄树 四川农村",
+      "onboard_time": 1738474097,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 248567,
@@ -475,8 +507,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 246036,
-      "num": 246036,
+      "raw_hot": 247833,
+      "num": 247833,
       "word": "哪吒之魔童闹海",
       "onboard_time": 1738452074,
       "rank": 34,
@@ -595,6 +627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199435,
+      "num": 199435,
+      "word": "湖人交易",
+      "onboard_time": 1738474338,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194085,
       "num": 194085,
       "word": "无世界排名无法参加ITTF澳门世界杯",
@@ -660,7 +700,7 @@
     },
     {
       "raw_hot": 175190,
-      "num": 175190,
+      "num": 184562,
       "word": "邓为新剧是灭世版涂山璟",
       "onboard_time": 1738465336,
       "rank": 35,
@@ -675,12 +715,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 168968,
-      "num": 474830,
-      "word": "中方强烈不满坚决反对",
-      "onboard_time": 1738473198,
-      "rank": 8,
-      "category": "国际时政"
+      "raw_hot": 171042,
+      "num": 171042,
+      "word": "尹子维的大勺下一秒要敲徐冬冬头上了",
+      "onboard_time": 1738473317,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 167213,
@@ -753,14 +793,6 @@
       "onboard_time": 1738468578,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 151635,
-      "num": 151635,
-      "word": "詹姆斯",
-      "onboard_time": 1738470797,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 150942,
@@ -939,12 +971,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 131322,
-      "num": 131322,
-      "word": "尹子维的大勺下一秒要敲徐冬冬头上了",
-      "onboard_time": 1738473317,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 132576,
+      "num": 132576,
+      "word": "黎深招财咪",
+      "onboard_time": 1738474457,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 130528,
@@ -985,6 +1017,14 @@
       "onboard_time": 1738472838,
       "rank": 46,
       "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 126798,
+      "num": 126798,
+      "word": "蔡明对时代少年团了如指掌",
+      "onboard_time": 1738474277,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 126264,
@@ -1049,6 +1089,14 @@
       "onboard_time": 1738415360,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 117471,
+      "num": 146012,
+      "word": "男孩井盖点鞭炮受损车主回应",
+      "onboard_time": 1738474397,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117273,
@@ -1291,6 +1339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65284,
+      "num": 458589,
+      "word": "新的一年蛇么都好",
+      "onboard_time": 1738472659,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64030,
       "num": 35074,
       "word": "哪吒2魔童闹海",
@@ -1379,14 +1435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 44677,
-      "num": 458589,
-      "word": "新的一年蛇么都好",
-      "onboard_time": 1738472659,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43792,
       "num": 606835,
       "word": "大年初五祝你有求币应",
@@ -1404,7 +1452,7 @@
     },
     {
       "raw_hot": 42442,
-      "num": 765188,
+      "num": 877839,
       "word": "这些文物故事真的很配春节",
       "onboard_time": 1738468458,
       "rank": 2,
@@ -1537,6 +1585,14 @@
       "onboard_time": 1738443920,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10489,
+      "num": 226989,
+      "word": "打麻将带王宝强周润发包发的",
+      "onboard_time": 1738474338,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 9942,
