@@ -1,0 +1,410 @@
+{
+  "runTime": 1738480760296,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1142850,
+        "num": 1182856,
+        "word": "中方强烈不满坚决反对",
+        "onboard_time": 1738473198,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 914033,
+        "num": 914033,
+        "word": "东契奇加盟湖人",
+        "onboard_time": 1738475118,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31399,
+        "num": 858952,
+        "word": "这些文物故事真的很配春节",
+        "onboard_time": 1738468458,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 858340,
+        "num": 858340,
+        "word": "男孩井盖点鞭炮受损车主回应",
+        "onboard_time": 1738474397,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 767465,
+        "num": 767465,
+        "word": "异人之下2导演致歉",
+        "onboard_time": 1738478837,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 658133,
+        "num": 658133,
+        "word": "射雕票房",
+        "onboard_time": 1738462818,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 595826,
+        "num": 595826,
+        "word": "哪吒2导演曾因特效与团队产生严重分歧",
+        "onboard_time": 1738472957,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 575049,
+        "num": 575049,
+        "word": "从春晚配角到主角他熬了20年",
+        "onboard_time": 1738468757,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 544838,
+        "num": 544838,
+        "word": "大年初五迎财神",
+        "onboard_time": 1738451652,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209070,
+        "num": 520276,
+        "word": "腹部增大可能是肝病加重",
+        "onboard_time": 1738478898,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 517130,
+        "num": 517130,
+        "word": "白色橄榄树 四川农村",
+        "onboard_time": 1738474097,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 495245,
+        "num": 495245,
+        "word": "引爆沼气小孩家庭付天价赔偿系谣言",
+        "onboard_time": 1738456816,
+        "rank": 11,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 441822,
+        "num": 441822,
+        "word": "武艺结婚要求伴郎170以上",
+        "onboard_time": 1738467618,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 433150,
+        "num": 433150,
+        "word": "河南一影院10分钟一场哪吒2",
+        "onboard_time": 1738479437,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 31240,
+        "num": 403387,
+        "word": "金饰挂牌价逼近850元",
+        "onboard_time": 1738480037,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 373874,
+        "num": 373874,
+        "word": "曾之乔新年晒孕肚",
+        "onboard_time": 1738478178,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224760,
+        "num": 224760,
+        "word": "浓眉",
+        "onboard_time": 1738474457,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213642,
+        "num": 213642,
+        "word": "唐探1900开头十分钟的信息量",
+        "onboard_time": 1738478837,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187947,
+        "num": 187947,
+        "word": "美国关税战被南北夹击",
+        "onboard_time": 1738477817,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39819,
+        "num": 187860,
+        "word": "今年普通人还能买黄金挣大钱吗",
+        "onboard_time": 1738480217,
+        "rank": 19,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 373830,
+        "num": 187339,
+        "word": "樊振东陈梦确定无缘世界杯",
+        "onboard_time": 1738477938,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81408,
+        "num": 186541,
+        "word": "卫视蛇年春晚你最喜欢谁的舞台",
+        "onboard_time": 1738479617,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350850,
+        "num": 186205,
+        "word": "赵本山纽约演出",
+        "onboard_time": 1738480217,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 333209,
+        "num": 185787,
+        "word": "Kanye唯一关注Taylor Swift",
+        "onboard_time": 1738476138,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327993,
+        "num": 185462,
+        "word": "谢娜晒7岁的跳跳俏俏",
+        "onboard_time": 1738460659,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279409,
+        "num": 184896,
+        "word": "生理性喜欢消失的原因",
+        "onboard_time": 1738464497,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 264519,
+        "num": 184121,
+        "word": "阐教 截教",
+        "onboard_time": 1738468277,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211629,
+        "num": 183778,
+        "word": "哪吒票房",
+        "onboard_time": 1738467317,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198640,
+        "num": 183385,
+        "word": "哪吒之魔童闹海",
+        "onboard_time": 1738452074,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195950,
+        "num": 183121,
+        "word": "王鹤棣孟子义偷吃花生米",
+        "onboard_time": 1738476437,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182650,
+        "num": 182650,
+        "word": "中方将对美采取相应反制措施",
+        "onboard_time": 1738467317,
+        "rank": 30,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 170091,
+        "num": 170091,
+        "word": "正房的地位妾室的气量勾栏的做派",
+        "onboard_time": 1738476198,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169431,
+        "num": 169431,
+        "word": "小蛇糕",
+        "onboard_time": 1738462637,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 156625,
+        "num": 156625,
+        "word": "您的五块正在骂您的三千块",
+        "onboard_time": 1738480338,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156593,
+        "num": 156593,
+        "word": "独行侠主动要求交易东契奇",
+        "onboard_time": 1738478837,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148061,
+        "num": 148061,
+        "word": "SM新练习生年龄公开",
+        "onboard_time": 1738465217,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144642,
+        "num": 144642,
+        "word": "詹姆斯",
+        "onboard_time": 1738470797,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140892,
+        "num": 140892,
+        "word": "原来微信视频的美颜只有自己能看到",
+        "onboard_time": 1738480217,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135917,
+        "num": 135917,
+        "word": "接财神需要注意什么",
+        "onboard_time": 1738462577,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35077,
+        "num": 135313,
+        "word": "双马尾角色中的上古真神",
+        "onboard_time": 1738480517,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 135284,
+        "num": 135284,
+        "word": "WTT",
+        "onboard_time": 1738480636,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134071,
+        "num": 134071,
+        "word": "湖人交易",
+        "onboard_time": 1738474338,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133765,
+        "num": 133765,
+        "word": "王一珩和平精英",
+        "onboard_time": 1738480457,
+        "rank": 42,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 132282,
+        "num": 132282,
+        "word": "在暴雪时分",
+        "onboard_time": 1738464678,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130227,
+        "num": 130227,
+        "word": "刘晓庆听到六十岁算老年人的反应",
+        "onboard_time": 1738475359,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127466,
+        "num": 127466,
+        "word": "女子记录自己一年掉发39357根",
+        "onboard_time": 1738479078,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116602,
+        "num": 116602,
+        "word": "张杰谢娜带双胞胎女儿游迪士尼",
+        "onboard_time": 1738469059,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113408,
+        "num": 113408,
+        "word": "藕饼",
+        "onboard_time": 1738469718,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110481,
+        "num": 110481,
+        "word": "肖战小红马吃醋了",
+        "onboard_time": 1738478178,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109396,
+        "num": 109396,
+        "word": "终于有全女性家族的国产剧了",
+        "onboard_time": 1738466178,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记感受春节年味儿#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738478580397,
+  "endTime": 1738480760296,
   "band_list": [
     {
       "raw_hot": 3232536,
@@ -283,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 858340,
+      "num": 858340,
+      "word": "男孩井盖点鞭炮受损车主回应",
+      "onboard_time": 1738474397,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 855783,
       "num": 855783,
       "word": "大年初四全国人民都挺忙",
@@ -369,6 +377,14 @@
       "onboard_time": 1738463778,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 767465,
+      "num": 767465,
+      "word": "异人之下2导演致歉",
+      "onboard_time": 1738478837,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 744060,
@@ -473,6 +489,14 @@
       "onboard_time": 1738392015,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 595826,
+      "num": 595826,
+      "word": "哪吒2导演曾因特效与团队产生严重分歧",
+      "onboard_time": 1738472957,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 585455,
@@ -763,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 433150,
+      "num": 433150,
+      "word": "河南一影院10分钟一场哪吒2",
+      "onboard_time": 1738479437,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 432818,
       "num": 271123,
       "word": "李小冉说我是没有一个官司在身上的",
@@ -771,27 +803,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 428965,
-      "num": 428965,
-      "word": "哪吒2导演曾因特效与团队产生严重分歧",
-      "onboard_time": 1738472957,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 425460,
       "num": 425460,
       "word": "春运期间退票为啥这么贵",
       "onboard_time": 1738378817,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 425049,
-      "num": 425049,
-      "word": "男孩井盖点鞭炮受损车主回应",
-      "onboard_time": 1738474397,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -963,6 +979,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 373874,
+      "num": 373874,
+      "word": "曾之乔新年晒孕肚",
+      "onboard_time": 1738478178,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 373830,
+      "num": 224401,
+      "word": "樊振东陈梦确定无缘世界杯",
+      "onboard_time": 1738477938,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 372551,
       "num": 372551,
       "word": "警方通报电瓶车高速逆行致汽车撞护栏",
@@ -1049,6 +1081,14 @@
       "onboard_time": 1738419140,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 350850,
+      "num": 186205,
+      "word": "赵本山纽约演出",
+      "onboard_time": 1738480217,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 346054,
@@ -1403,14 +1443,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 248523,
-      "num": 224401,
-      "word": "樊振东陈梦确定无缘世界杯",
-      "onboard_time": 1738477938,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 247833,
       "num": 247833,
       "word": "哪吒之魔童闹海",
@@ -1651,6 +1683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 213642,
+      "num": 213642,
+      "word": "唐探1900开头十分钟的信息量",
+      "onboard_time": 1738478837,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 212628,
       "num": 194286,
       "word": "赵一博直播",
@@ -1697,6 +1737,14 @@
       "onboard_time": 1738467017,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209070,
+      "num": 520276,
+      "word": "腹部增大可能是肝病加重",
+      "onboard_time": 1738478898,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 207365,
@@ -1825,6 +1873,14 @@
       "onboard_time": 1738405276,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195950,
+      "num": 183121,
+      "word": "王鹤棣孟子义偷吃花生米",
+      "onboard_time": 1738476437,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 195589,
@@ -1995,6 +2051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187947,
+      "num": 453519,
+      "word": "美国关税战被南北夹击",
+      "onboard_time": 1738477817,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 187900,
       "num": 187900,
       "word": "翔霖",
@@ -2025,14 +2089,6 @@
       "onboard_time": 1738327158,
       "rank": 13,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 187124,
-      "num": 187124,
-      "word": "曾之乔新年晒孕肚",
-      "onboard_time": 1738478178,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 186858,
@@ -2137,14 +2193,6 @@
       "onboard_time": 1738336278,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 178044,
-      "num": 178044,
-      "word": "王鹤棣孟子义偷吃花生米",
-      "onboard_time": 1738476437,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 177857,
@@ -2499,6 +2547,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 156625,
+      "num": 156625,
+      "word": "您的五块正在骂您的三千块",
+      "onboard_time": 1738480338,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 156593,
+      "num": 156593,
+      "word": "独行侠主动要求交易东契奇",
+      "onboard_time": 1738478837,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156153,
       "num": 156153,
       "word": "梁洁 天选宋冉",
@@ -2811,6 +2875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140892,
+      "num": 140892,
+      "word": "原来微信视频的美颜只有自己能看到",
+      "onboard_time": 1738480217,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 140514,
       "num": 140514,
       "word": "北京下雪",
@@ -2875,6 +2947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 135284,
+      "num": 135284,
+      "word": "WTT",
+      "onboard_time": 1738480636,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134979,
       "num": 235378,
       "word": "大年初四迎灶神啦",
@@ -2897,6 +2977,14 @@
       "onboard_time": 1738394656,
       "rank": 47,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 133765,
+      "num": 133765,
+      "word": "王一珩和平精英",
+      "onboard_time": 1738480457,
+      "rank": 42,
+      "category": "电竞,艺人"
     },
     {
       "raw_hot": 133222,
@@ -3017,6 +3105,14 @@
       "onboard_time": 1738459336,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127466,
+      "num": 127466,
+      "word": "女子记录自己一年掉发39357根",
+      "onboard_time": 1738479078,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127385,
@@ -3827,6 +3923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81408,
+      "num": 186541,
+      "word": "卫视蛇年春晚你最喜欢谁的舞台",
+      "onboard_time": 1738479617,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80474,
       "num": 80474,
       "word": "山东大集物价震惊日本导演竹内亮",
@@ -4163,14 +4267,6 @@
       "category": "民生新闻,幽默"
     },
     {
-      "raw_hot": 48422,
-      "num": 453519,
-      "word": "美国关税战被南北夹击",
-      "onboard_time": 1738477817,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 47462,
       "num": 47462,
       "word": "春晚机器人蒸的煮的还有活的",
@@ -4299,6 +4395,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 39819,
+      "num": 187860,
+      "word": "今年普通人还能买黄金挣大钱吗",
+      "onboard_time": 1738480217,
+      "rank": 19,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 37688,
       "num": 37688,
       "word": "哪吒2特效",
@@ -4329,6 +4433,14 @@
       "onboard_time": 1738380557,
       "rank": 8,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 35077,
+      "num": 135313,
+      "word": "双马尾角色中的上古真神",
+      "onboard_time": 1738480517,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 34423,
@@ -4417,6 +4529,14 @@
       "onboard_time": 1738468878,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 31240,
+      "num": 403387,
+      "word": "金饰挂牌价逼近850元",
+      "onboard_time": 1738480037,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 30668,
