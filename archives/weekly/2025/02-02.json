@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738510594520,
+  "endTime": 1738513501648,
   "band_list": [
     {
       "raw_hot": 3232536,
@@ -129,6 +129,14 @@
       "onboard_time": 1738457235,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1049738,
+      "num": 1049738,
+      "word": "哪吒2进入影史票房前二十",
+      "onboard_time": 1738509379,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 1040634,
@@ -347,6 +355,14 @@
       "category": "国际时政,国内时政"
     },
     {
+      "raw_hot": 637372,
+      "num": 637372,
+      "word": "孙颖莎王楚钦王曼昱等集体发声",
+      "onboard_time": 1738505900,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 632377,
       "num": 632377,
       "word": "赵本山纽约演出",
@@ -467,14 +483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 494169,
-      "num": 494169,
-      "word": "孙颖莎王楚钦王曼昱等集体发声",
-      "onboard_time": 1738505900,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 490050,
       "num": 490050,
       "word": "哄孩子的小姨为了打麻将有多拼",
@@ -593,14 +601,6 @@
       "onboard_time": 1738477938,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 426871,
-      "num": 426871,
-      "word": "哪吒2进入影史票房前二十",
-      "onboard_time": 1738509379,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 417041,
@@ -803,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 338341,
+      "num": 338341,
+      "word": "美国自己生病却让别人吃药",
+      "onboard_time": 1738510759,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 332778,
       "num": 332778,
       "word": "背刺何惟芳的店员成了杨紫的粉丝",
@@ -867,6 +875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 304759,
+      "num": 282634,
+      "word": "陈瑶 AI",
+      "onboard_time": 1738512798,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 299570,
       "num": 299570,
       "word": "颜人中曾用迪丽热巴照片当壁纸",
@@ -920,6 +936,22 @@
       "word": "陈牧驰说强烈的郊感在召唤",
       "onboard_time": 1738492458,
       "rank": 36,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 284422,
+      "num": 426970,
+      "word": "立春咬春病不沾身",
+      "onboard_time": 1738507459,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 281377,
+      "num": 281377,
+      "word": "申公豹一家有话要说",
+      "onboard_time": 1738508721,
+      "rank": 40,
       "category": "电影"
     },
     {
@@ -1147,6 +1179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 215637,
+      "num": 142778,
+      "word": "敖光一款过于美貌的爹",
+      "onboard_time": 1738511118,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 214643,
       "num": 214643,
       "word": "大年初五恭喜发财",
@@ -1321,14 +1361,6 @@
       "onboard_time": 1738476437,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195809,
-      "num": 426970,
-      "word": "立春咬春病不沾身",
-      "onboard_time": 1738507459,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 195589,
@@ -1835,14 +1867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 153985,
-      "num": 153985,
-      "word": "申公豹一家有话要说",
-      "onboard_time": 1738508721,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 153396,
       "num": 153396,
       "word": "李宇春去亲戚火锅店聚餐",
@@ -2065,6 +2089,14 @@
       "onboard_time": 1738490658,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 139649,
+      "num": 270084,
+      "word": "公安部回应美方以芬太尼等为由加征关税",
+      "onboard_time": 1738511719,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 139615,
@@ -2507,6 +2539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106253,
+      "num": 106253,
+      "word": "钟楚曦说哪吒太牛了",
+      "onboard_time": 1738513277,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 105906,
       "num": 86209,
       "word": "肖战回复蔡少芬",
@@ -2529,6 +2569,14 @@
       "onboard_time": 1738484537,
       "rank": 43,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 104103,
+      "num": 104103,
+      "word": "为了相亲把照片设置成了红包封面",
+      "onboard_time": 1738512318,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 103853,
@@ -2627,6 +2675,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 93859,
+      "num": 125667,
+      "word": "大年初六22点10分迎来立春",
+      "onboard_time": 1738512918,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93090,
+      "num": 211629,
+      "word": "摄影师记录独属于杨妞花的团圆时刻",
+      "onboard_time": 1738509080,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92946,
       "num": 85974,
       "word": "敖丙",
@@ -2657,6 +2721,14 @@
       "onboard_time": 1738428735,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90106,
+      "num": 79445,
+      "word": "陈哲远连麦",
+      "onboard_time": 1738511118,
+      "rank": 44,
+      "category": "综艺,剧集"
     },
     {
       "raw_hot": 89462,
@@ -2715,14 +2787,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 83185,
-      "num": 211629,
-      "word": "摄影师记录独属于杨妞花的团圆时刻",
-      "onboard_time": 1738509080,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 81408,
       "num": 186541,
       "word": "卫视蛇年春晚你最喜欢谁的舞台",
@@ -2736,6 +2800,14 @@
       "word": "年后全国父母的统一行为",
       "onboard_time": 1738487539,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79787,
+      "num": 79787,
+      "word": "妈妈20年前用60盒录像带记录儿子",
+      "onboard_time": 1738512136,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -2801,6 +2873,14 @@
       "onboard_time": 1738411578,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66069,
+      "num": 66069,
+      "word": "刘国梁对WTT提出4点建议",
+      "onboard_time": 1738513338,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 65284,
@@ -3081,6 +3161,14 @@
       "onboard_time": 1738481836,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27494,
+      "num": 142412,
+      "word": "芬太尼问题的本质是美国的问题",
+      "onboard_time": 1738512557,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 26021,
