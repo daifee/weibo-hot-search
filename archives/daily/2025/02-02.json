@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738495042766,
+  "endTime": 1738496125484,
   "band_list": [
     {
       "raw_hot": 3232536,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1534740,
-      "num": 713966,
+      "num": 750366,
       "word": "内娱又要多一个7人男团了",
       "onboard_time": 1738486517,
       "rank": 6,
@@ -235,6 +235,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 692764,
+      "num": 692764,
+      "word": "躲春",
+      "onboard_time": 1738489639,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 676106,
       "num": 676106,
       "word": "梁洁居然还戴着白色橄榄树红绳",
@@ -339,14 +347,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 540670,
-      "num": 540670,
-      "word": "躲春",
-      "onboard_time": 1738489639,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 537034,
       "num": 537034,
       "word": "终于有全女性家族的国产剧了",
@@ -417,6 +417,14 @@
       "onboard_time": 1738482918,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 445497,
+      "num": 445497,
+      "word": "这辈子买房最莫名其妙的一次",
+      "onboard_time": 1738494619,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 444651,
@@ -651,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 325461,
+      "num": 325461,
+      "word": "王楚钦vs宇田幸矢",
+      "onboard_time": 1738494979,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 322240,
       "num": 140620,
       "word": "敖丙传",
@@ -683,6 +699,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 299570,
+      "num": 299570,
+      "word": "颜人中曾用迪丽热巴照片当壁纸",
+      "onboard_time": 1738494738,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 298029,
+      "num": 268992,
+      "word": "哪吒2敖闰的反派暴烈美学",
+      "onboard_time": 1738491018,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 296658,
       "num": 228699,
       "word": "原来微信视频的美颜只有自己能看到",
@@ -699,12 +731,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 292151,
+      "num": 292151,
+      "word": "樊振东获得世界杯参赛资格",
+      "onboard_time": 1738492038,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 291205,
       "num": 291205,
       "word": "金店店主怕金价不涨又怕涨得太快",
       "onboard_time": 1738485557,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 285147,
+      "num": 180653,
+      "word": "陈牧驰说强烈的郊感在召唤",
+      "onboard_time": 1738492458,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 278035,
@@ -715,27 +763,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 268992,
-      "num": 268992,
-      "word": "哪吒2敖闰的反派暴烈美学",
-      "onboard_time": 1738491018,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 267426,
       "num": 267426,
       "word": "湖人交易惊呆NBA群星",
       "onboard_time": 1738489998,
       "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 255392,
-      "num": 255392,
-      "word": "樊振东获得世界杯参赛资格",
-      "onboard_time": 1738492038,
-      "rank": 26,
       "category": "体育"
     },
     {
@@ -777,6 +809,14 @@
       "onboard_time": 1738452074,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 245484,
+      "num": 245484,
+      "word": "王楚钦希望WTT多听听运动员的声音",
+      "onboard_time": 1738494377,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 244445,
@@ -915,28 +955,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 212264,
-      "num": 212264,
-      "word": "颜人中曾用迪丽热巴照片当壁纸",
-      "onboard_time": 1738494738,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 211766,
       "num": 211766,
       "word": "一个回头救了一个家庭",
       "onboard_time": 1738420699,
       "rank": 15,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 211224,
-      "num": 211224,
-      "word": "这辈子买房最莫名其妙的一次",
-      "onboard_time": 1738494619,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 209668,
@@ -1139,6 +1163,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 189409,
+      "num": 155417,
+      "word": "殷郊是你吗",
+      "onboard_time": 1738494859,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 188201,
       "num": 188201,
       "word": "shams",
@@ -1211,22 +1243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 176097,
-      "num": 176097,
-      "word": "陈牧驰说强烈的郊感在召唤",
-      "onboard_time": 1738492458,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 175734,
-      "num": 175734,
-      "word": "王楚钦希望WTT多听听运动员的声音",
-      "onboard_time": 1738494377,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 175190,
       "num": 184562,
       "word": "邓为新剧是灭世版涂山璟",
@@ -1272,6 +1288,14 @@
       "word": "国际乒联",
       "onboard_time": 1738492518,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 166011,
+      "num": 151873,
+      "word": "2025乒乓球世界杯",
+      "onboard_time": 1738495458,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -1371,6 +1395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157953,
+      "num": 205766,
+      "word": "梁家辉肖战手挽手",
+      "onboard_time": 1738493658,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 156593,
       "num": 156593,
       "word": "独行侠主动要求交易东契奇",
@@ -1401,14 +1433,6 @@
       "onboard_time": 1738468578,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 155417,
-      "num": 155417,
-      "word": "殷郊是你吗",
-      "onboard_time": 1738494859,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 154899,
@@ -1443,12 +1467,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 149348,
+      "num": 149348,
+      "word": "王曼昱3比0梅谢芙",
+      "onboard_time": 1738495398,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149342,
       "num": 149342,
       "word": "孙杨发声明",
       "onboard_time": 1738472718,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149018,
+      "num": 149018,
+      "word": "仙逆",
+      "onboard_time": 1738494138,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 147215,
@@ -1635,14 +1675,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 135397,
-      "num": 205766,
-      "word": "梁家辉肖战手挽手",
-      "onboard_time": 1738493658,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 134700,
       "num": 134700,
       "word": "王者荣耀灵宝市集",
@@ -1699,6 +1731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128091,
+      "num": 160401,
+      "word": "春节假期返程高峰来了",
+      "onboard_time": 1738493959,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128039,
       "num": 100459,
       "word": "于冬 蛟龙行动绝不撤档",
@@ -1753,14 +1793,6 @@
       "onboard_time": 1738427237,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 126080,
-      "num": 160401,
-      "word": "春节假期返程高峰来了",
-      "onboard_time": 1738493959,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126078,
@@ -1883,6 +1915,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 107992,
+      "num": 183536,
+      "word": "王俊凯才是春节档最大彩蛋",
+      "onboard_time": 1738495520,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 107798,
       "num": 107798,
       "word": "为什么现在年轻人这么抵制相亲",
@@ -1971,6 +2011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 100347,
+      "num": 149773,
+      "word": "网友喊哪吒2出导剪版",
+      "onboard_time": 1738495998,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 98721,
       "num": 98721,
       "word": "让你越来越有福气的4件事",
@@ -2049,6 +2097,14 @@
       "onboard_time": 1738481957,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87512,
+      "num": 149119,
+      "word": "2月4日前后是首个返程高峰",
+      "onboard_time": 1738495819,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86466,
@@ -2529,14 +2585,6 @@
       "onboard_time": 1738447451,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9307,
-      "num": 194940,
-      "word": "王楚钦vs宇田幸矢",
-      "onboard_time": 1738494979,
-      "rank": 34,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
