@@ -1,0 +1,410 @@
+{
+  "runTime": 1738467577745,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2259337,
+        "num": 2259337,
+        "word": "引爆沼气小孩家庭付天价赔偿系谣言",
+        "onboard_time": 1738456816,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1203103,
+        "num": 1203103,
+        "word": "射雕票房",
+        "onboard_time": 1738462818,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26913,
+        "num": 1103114,
+        "word": "文化中国行非遗雅韵中国年",
+        "onboard_time": 1738420759,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1025079,
+        "num": 1025079,
+        "word": "大年初五迎财神",
+        "onboard_time": 1738451652,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 861420,
+        "num": 861420,
+        "word": "在暴雪时分",
+        "onboard_time": 1738464678,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 804983,
+        "num": 804983,
+        "word": "DeepSeek",
+        "onboard_time": 1738462458,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 772767,
+        "num": 772767,
+        "word": "哪吒导演说认没认真观众一眼就看得出",
+        "onboard_time": 1738463778,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 600831,
+        "num": 600831,
+        "word": "饺子导演肉眼可见的变老",
+        "onboard_time": 1738461977,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 537693,
+        "num": 537693,
+        "word": "美国对中国商品加征10%关税",
+        "onboard_time": 1738453994,
+        "rank": 8,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 473457,
+        "num": 473457,
+        "word": "接财神需要注意什么",
+        "onboard_time": 1738462577,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 849725,
+        "num": 432278,
+        "word": "谢娜晒7岁的跳跳俏俏",
+        "onboard_time": 1738460659,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 530877,
+        "num": 414657,
+        "word": "终于有全女性家族的国产剧了",
+        "onboard_time": 1738466178,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 374828,
+        "num": 374828,
+        "word": "小蛇糕",
+        "onboard_time": 1738462637,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 366710,
+        "num": 366710,
+        "word": "哪吒2已破14项影史纪录",
+        "onboard_time": 1738456094,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 222965,
+        "num": 356805,
+        "word": "点赞微博有小财神特效",
+        "onboard_time": 1738466657,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353412,
+        "num": 353412,
+        "word": "商务部回应美方对中国产品加征10%关税",
+        "onboard_time": 1738466537,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 321337,
+        "num": 321337,
+        "word": "石矶娘娘",
+        "onboard_time": 1738424178,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 300166,
+        "num": 300166,
+        "word": "三亚紧急发布6条措施明日实施",
+        "onboard_time": 1738430234,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245936,
+        "num": 245936,
+        "word": "墨西哥官员称加税将由美消费者埋单",
+        "onboard_time": 1738463058,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 231341,
+        "num": 231341,
+        "word": "正月初五为啥又叫破五",
+        "onboard_time": 1738423639,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 485536,
+        "num": 229541,
+        "word": "生理性喜欢消失的原因",
+        "onboard_time": 1738464497,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 379707,
+        "num": 226469,
+        "word": "SM新练习生年龄公开",
+        "onboard_time": 1738465217,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155195,
+        "num": 224141,
+        "word": "中方将对美采取相应反制措施",
+        "onboard_time": 1738467317,
+        "rank": 22,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 277870,
+        "num": 222474,
+        "word": "大年初五和0713男团一起登高",
+        "onboard_time": 1738454654,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221544,
+        "num": 221544,
+        "word": "我竟然是申公豹说的大山",
+        "onboard_time": 1738457356,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 217590,
+        "num": 217590,
+        "word": "宝妈着急上厕所把孩子交给武警",
+        "onboard_time": 1738430475,
+        "rank": 25,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 215570,
+        "num": 215570,
+        "word": "全网关注的白衣小哥获表彰",
+        "onboard_time": 1738458857,
+        "rank": 26,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 211766,
+        "num": 211766,
+        "word": "外甥女悄悄给未婚小姨塞压岁钱",
+        "onboard_time": 1738461737,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209273,
+        "num": 209273,
+        "word": "邓为新剧妲己身魔子命",
+        "onboard_time": 1738467017,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204901,
+        "num": 204901,
+        "word": "梁洁演技",
+        "onboard_time": 1738461557,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201086,
+        "num": 201086,
+        "word": "林孝埈出征亚冬会",
+        "onboard_time": 1738465877,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203337,
+        "num": 198519,
+        "word": "哪吒之魔童闹海",
+        "onboard_time": 1738452074,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185973,
+        "num": 185973,
+        "word": "哪吒票房",
+        "onboard_time": 1738467317,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177783,
+        "num": 177783,
+        "word": "背刺何惟芳的店员成了杨紫的粉丝",
+        "onboard_time": 1738458137,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176998,
+        "num": 176998,
+        "word": "大年初五恭喜发财",
+        "onboard_time": 1738457956,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170476,
+        "num": 170476,
+        "word": "墨西哥总统宣布将对美国加征关税",
+        "onboard_time": 1738463238,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160161,
+        "num": 160161,
+        "word": "格莱美",
+        "onboard_time": 1738466717,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 158381,
+        "num": 158381,
+        "word": "朱雨玲发博吐槽签位",
+        "onboard_time": 1738465877,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157476,
+        "num": 157476,
+        "word": "金智秀好美",
+        "onboard_time": 1738461075,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157087,
+        "num": 157087,
+        "word": "邓为新剧是灭世版涂山璟",
+        "onboard_time": 1738465336,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155746,
+        "num": 155746,
+        "word": "谢娜女儿",
+        "onboard_time": 1738457235,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145586,
+        "num": 145586,
+        "word": "女生一觉醒来相亲对象已站床边",
+        "onboard_time": 1738415179,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143697,
+        "num": 143697,
+        "word": "关税战没有赢家",
+        "onboard_time": 1738463117,
+        "rank": 42,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 134905,
+        "num": 134905,
+        "word": "2025摩羯座会发生的3件好事",
+        "onboard_time": 1738461138,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134700,
+        "num": 134700,
+        "word": "王者荣耀灵宝市集",
+        "onboard_time": 1738466897,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129916,
+        "num": 129916,
+        "word": "英语好是大学生最大的刻板印象",
+        "onboard_time": 1738462037,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129599,
+        "num": 129599,
+        "word": "马布里",
+        "onboard_time": 1738455016,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126853,
+        "num": 126853,
+        "word": "初五过年习俗",
+        "onboard_time": 1738426938,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125529,
+        "num": 125529,
+        "word": "国防部发布当那一天来临MV",
+        "onboard_time": 1738461798,
+        "rank": 48,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 125170,
+        "num": 125170,
+        "word": "明天就到立春了",
+        "onboard_time": 1738464976,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#6年前的这个场景真暖#"
+    }
+  }
+}

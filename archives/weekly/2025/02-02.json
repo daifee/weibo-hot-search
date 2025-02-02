@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738466684203,
+  "endTime": 1738467577745,
   "band_list": [
     {
       "raw_hot": 3232536,
@@ -52,11 +52,27 @@
     },
     {
       "raw_hot": 873649,
-      "num": 406306,
+      "num": 432278,
       "word": "谢娜晒7岁的跳跳俏俏",
       "onboard_time": 1738460659,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 861420,
+      "num": 861420,
+      "word": "在暴雪时分",
+      "onboard_time": 1738464678,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 804983,
+      "num": 804983,
+      "word": "DeepSeek",
+      "onboard_time": 1738462458,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 791825,
@@ -75,6 +91,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 772767,
+      "num": 772767,
+      "word": "哪吒导演说认没认真观众一眼就看得出",
+      "onboard_time": 1738463778,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 744060,
       "num": 744060,
       "word": "于冬反问无名只配6.6分吗",
@@ -89,14 +113,6 @@
       "onboard_time": 1738422739,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 694756,
-      "num": 694756,
-      "word": "哪吒导演说认没认真观众一眼就看得出",
-      "onboard_time": 1738463778,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 676106,
@@ -155,11 +171,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 552019,
-      "num": 552019,
-      "word": "在暴雪时分",
-      "onboard_time": 1738464678,
-      "rank": 39,
+      "raw_hot": 530877,
+      "num": 414657,
+      "word": "终于有全女性家族的国产剧了",
+      "onboard_time": 1738466178,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -171,6 +187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 485536,
+      "num": 229541,
+      "word": "生理性喜欢消失的原因",
+      "onboard_time": 1738464497,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 485514,
       "num": 485514,
       "word": "我竟然是申公豹说的大山",
@@ -179,20 +203,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 473457,
+      "num": 473457,
+      "word": "接财神需要注意什么",
+      "onboard_time": 1738462577,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 461178,
       "num": 460808,
       "word": "哪吒2已破14项影史纪录",
       "onboard_time": 1738456094,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 445876,
-      "num": 445876,
-      "word": "DeepSeek",
-      "onboard_time": 1738462458,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 439289,
@@ -243,6 +267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 379707,
+      "num": 229634,
+      "word": "SM新练习生年龄公开",
+      "onboard_time": 1738465217,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 377272,
       "num": 146171,
       "word": "徐明浩直播突现双重人格",
@@ -267,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 374828,
+      "num": 374828,
+      "word": "小蛇糕",
+      "onboard_time": 1738462637,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 371856,
       "num": 253541,
       "word": "宝妈着急上厕所把孩子交给武警",
@@ -275,20 +315,20 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 369263,
-      "num": 369263,
-      "word": "接财神需要注意什么",
-      "onboard_time": 1738462577,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 365356,
       "num": 365356,
       "word": "费城坠毁飞机上的女孩刚做了救命手术",
       "onboard_time": 1738415417,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 353412,
+      "num": 353412,
+      "word": "商务部回应美方对中国产品加征10%关税",
+      "onboard_time": 1738466537,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 344784,
@@ -331,14 +371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 324941,
-      "num": 229634,
-      "word": "SM新练习生年龄公开",
-      "onboard_time": 1738465217,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 322240,
       "num": 140620,
       "word": "敖丙传",
@@ -353,22 +385,6 @@
       "onboard_time": 1738457717,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 301812,
-      "num": 262897,
-      "word": "小蛇糕",
-      "onboard_time": 1738462637,
-      "rank": 21,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 256737,
-      "num": 200915,
-      "word": "生理性喜欢消失的原因",
-      "onboard_time": 1738464497,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 248567,
@@ -411,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222965,
+      "num": 356805,
+      "word": "点赞微博有小财神特效",
+      "onboard_time": 1738466657,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 214643,
       "num": 214643,
       "word": "大年初五恭喜发财",
@@ -425,6 +449,14 @@
       "onboard_time": 1738420699,
       "rank": 15,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 209273,
+      "num": 209273,
+      "word": "邓为新剧妲己身魔子命",
+      "onboard_time": 1738467017,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 209190,
@@ -443,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203337,
+      "num": 198519,
+      "word": "哪吒之魔童闹海",
+      "onboard_time": 1738452074,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 203185,
       "num": 203185,
       "word": "马布里",
@@ -451,12 +491,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 202845,
-      "num": 202845,
-      "word": "终于有全女性家族的国产剧了",
-      "onboard_time": 1738466178,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 201086,
+      "num": 201086,
+      "word": "林孝埈出征亚冬会",
+      "onboard_time": 1738465877,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 189817,
@@ -475,11 +515,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 187882,
-      "num": 187882,
-      "word": "哪吒之魔童闹海",
-      "onboard_time": 1738452074,
-      "rank": 34,
+      "raw_hot": 185973,
+      "num": 185973,
+      "word": "哪吒票房",
+      "onboard_time": 1738467317,
+      "rank": 32,
       "category": "电影"
     },
     {
@@ -531,12 +571,20 @@
       "category": "军事"
     },
     {
-      "raw_hot": 160251,
-      "num": 192225,
-      "word": "商务部回应美方对中国产品加征10%关税",
-      "onboard_time": 1738466537,
-      "rank": 31,
-      "category": "国内时政"
+      "raw_hot": 160161,
+      "num": 160161,
+      "word": "格莱美",
+      "onboard_time": 1738466717,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 155195,
+      "num": 224141,
+      "word": "中方将对美采取相应反制措施",
+      "onboard_time": 1738467317,
+      "rank": 22,
+      "category": "国际时政,国内时政"
     },
     {
       "raw_hot": 150942,
@@ -665,6 +713,14 @@
       "onboard_time": 1738410199,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 134700,
+      "num": 134700,
+      "word": "王者荣耀灵宝市集",
+      "onboard_time": 1738466897,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 130107,
@@ -1033,14 +1089,6 @@
       "onboard_time": 1738430715,
       "rank": 33,
       "category": "民生新闻,幽默"
-    },
-    {
-      "raw_hot": 49367,
-      "num": 144840,
-      "word": "点赞微博有小财神特效",
-      "onboard_time": 1738466657,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 49202,
