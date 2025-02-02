@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738506923854,
+  "endTime": 1738509732985,
   "band_list": [
     {
       "raw_hot": 3232536,
@@ -35,6 +35,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1695283,
+      "num": 1695283,
+      "word": "哪吒2爆火后唯一受害者出现",
+      "onboard_time": 1738503980,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1560657,
       "num": 1560657,
       "word": "东契奇加盟湖人",
@@ -57,14 +65,6 @@
       "onboard_time": 1738486517,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1229679,
-      "num": 593261,
-      "word": "哪吒2爆火后唯一受害者出现",
-      "onboard_time": 1738503980,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 1222674,
@@ -313,6 +313,14 @@
       "onboard_time": 1738489998,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 650007,
+      "num": 650007,
+      "word": "加拿大总理宣布反制措施",
+      "onboard_time": 1738505359,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 649165,
@@ -611,6 +619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 385600,
+      "num": 289275,
+      "word": "蔡徐坤开工",
+      "onboard_time": 1738507580,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 379707,
       "num": 287969,
       "word": "SM新练习生年龄公开",
@@ -667,6 +683,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 366686,
+      "num": 284969,
+      "word": "哪吒2票房",
+      "onboard_time": 1738505719,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 365356,
       "num": 365356,
       "word": "费城坠毁飞机上的女孩刚做了救命手术",
@@ -697,6 +721,14 @@
       "onboard_time": 1738466537,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 351256,
+      "num": 351256,
+      "word": "孙颖莎王楚钦王曼昱等集体发声",
+      "onboard_time": 1738505900,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 350894,
@@ -891,11 +923,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 273049,
-      "num": 217064,
-      "word": "哪吒2票房",
-      "onboard_time": 1738505719,
-      "rank": 37,
+      "raw_hot": 272809,
+      "num": 272809,
+      "word": "立春躲春的正确方式",
+      "onboard_time": 1738500920,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 270078,
+      "num": 209723,
+      "word": "哪吒2进入影史票房前二十",
+      "onboard_time": 1738509379,
+      "rank": 23,
       "category": "电影"
     },
     {
@@ -1033,6 +1073,14 @@
       "onboard_time": 1738438871,
       "rank": 17,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 226782,
+      "num": 208118,
+      "word": "哪吒之魔童闹海单日票房突破8亿",
+      "onboard_time": 1738507999,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 226266,
@@ -1339,14 +1387,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 191085,
-      "num": 217256,
-      "word": "加拿大总理宣布反制措施",
-      "onboard_time": 1738505359,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 190249,
       "num": 190249,
       "word": "梁洁演晋江女主适配度",
@@ -1441,14 +1481,6 @@
       "onboard_time": 1738478178,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 182308,
-      "num": 205349,
-      "word": "立春躲春的正确方式",
-      "onboard_time": 1738500920,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 181838,
@@ -1571,6 +1603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168991,
+      "num": 273259,
+      "word": "立春咬春病不沾身",
+      "onboard_time": 1738507459,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166011,
       "num": 181791,
       "word": "2025乒乓球世界杯",
@@ -1584,6 +1624,14 @@
       "word": "哪吒之魔童闹海票房30亿",
       "onboard_time": 1738482198,
       "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 164224,
+      "num": 164224,
+      "word": "哪吒敖丙",
+      "onboard_time": 1738508721,
+      "rank": 30,
       "category": "电影"
     },
     {
@@ -1689,6 +1737,14 @@
       "onboard_time": 1738493658,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 157901,
+      "num": 157901,
+      "word": "它满足了我对中餐的所有幻想",
+      "onboard_time": 1738509619,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 156593,
@@ -1883,14 +1939,6 @@
       "category": "国际时政,财经"
     },
     {
-      "raw_hot": 145126,
-      "num": 145126,
-      "word": "孙颖莎王楚钦王曼昱等集体发声",
-      "onboard_time": 1738505900,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 144212,
       "num": 144212,
       "word": "恋与制作人",
@@ -1955,6 +2003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143640,
+      "num": 143640,
+      "word": "蔡明直播说很感谢刘晓庆",
+      "onboard_time": 1738509498,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143161,
       "num": 183536,
       "word": "王俊凯才是春节档最大彩蛋",
@@ -1969,6 +2025,14 @@
       "onboard_time": 1738470618,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142864,
+      "num": 129803,
+      "word": "申公豹一家有话要说",
+      "onboard_time": 1738508721,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 142029,
@@ -2195,6 +2259,14 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 126893,
+      "num": 126893,
+      "word": "04年清华学生拿的是男频爽文剧本",
+      "onboard_time": 1738505840,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126804,
       "num": 126804,
       "word": "兵马俑有好挤游客称羽绒服被挤出绒",
@@ -2225,14 +2297,6 @@
       "onboard_time": 1738465757,
       "rank": 47,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 125444,
-      "num": 125444,
-      "word": "04年清华学生拿的是男频爽文剧本",
-      "onboard_time": 1738505840,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 124913,
@@ -2483,6 +2547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102030,
+      "num": 209000,
+      "word": "东契奇浓眉互换",
+      "onboard_time": 1738508061,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101898,
       "num": 461717,
       "word": "美对华加征10%关税背后真相",
@@ -2715,6 +2787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66246,
+      "num": 211629,
+      "word": "摄影师记录独属于杨妞花的团圆时刻",
+      "onboard_time": 1738509080,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65284,
       "num": 458589,
       "word": "新的一年蛇么都好",
@@ -2803,6 +2883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 52622,
+      "num": 638677,
+      "word": "文化中国行二十四节气经典美食",
+      "onboard_time": 1738504758,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50971,
       "num": 172657,
       "word": "恋与深空",
@@ -2889,14 +2977,6 @@
       "onboard_time": 1738468458,
       "rank": 2,
       "category": "民生新闻,正能量"
-    },
-    {
-      "raw_hot": 41846,
-      "num": 638677,
-      "word": "文化中国行二十四节气经典美食",
-      "onboard_time": 1738504758,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 40513,
