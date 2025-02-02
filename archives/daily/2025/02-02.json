@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738481741282,
+  "endTime": 1738484749184,
   "band_list": [
     {
       "raw_hot": 3232536,
@@ -19,6 +19,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1702755,
+      "num": 1702755,
+      "word": "河南一影院10分钟一场哪吒2",
+      "onboard_time": 1738479437,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1560657,
       "num": 1560657,
       "word": "东契奇加盟湖人",
@@ -33,14 +41,6 @@
       "onboard_time": 1738473198,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1243956,
-      "num": 1243956,
-      "word": "河南一影院10分钟一场哪吒2",
-      "onboard_time": 1738479437,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 1222674,
@@ -81,6 +81,14 @@
       "onboard_time": 1738415179,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1056741,
+      "num": 708942,
+      "word": "哪吒2票房破30亿",
+      "onboard_time": 1738481718,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 1051629,
@@ -185,6 +193,14 @@
       "onboard_time": 1738422739,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 698591,
+      "num": 698591,
+      "word": "腹部增大可能是肝病加重",
+      "onboard_time": 1738478898,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 676106,
@@ -347,6 +363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 437447,
+      "num": 159662,
+      "word": "您的五块正在骂您的三千块",
+      "onboard_time": 1738480338,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 435758,
       "num": 435758,
       "word": "孟子义上节目穿几十块的衣服",
@@ -355,20 +379,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 426712,
-      "num": 159662,
-      "word": "您的五块正在骂您的三千块",
-      "onboard_time": 1738480338,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 417041,
       "num": 417041,
       "word": "墨西哥官员称加税将由美消费者埋单",
       "onboard_time": 1738463058,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 410469,
+      "num": 410469,
+      "word": "樊振东陈梦确定无缘世界杯",
+      "onboard_time": 1738477938,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 405360,
@@ -451,14 +475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 373830,
-      "num": 224401,
-      "word": "樊振东陈梦确定无缘世界杯",
-      "onboard_time": 1738477938,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 371856,
       "num": 253541,
       "word": "宝妈着急上厕所把孩子交给武警",
@@ -497,6 +513,14 @@
       "onboard_time": 1738466537,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 348641,
+      "num": 348641,
+      "word": "丁禹兮春晚高清大图",
+      "onboard_time": 1738482918,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 345938,
@@ -579,12 +603,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 307159,
-      "num": 520276,
-      "word": "腹部增大可能是肝病加重",
-      "onboard_time": 1738478898,
-      "rank": 9,
-      "category": "健康医疗"
+      "raw_hot": 296658,
+      "num": 157284,
+      "word": "原来微信视频的美颜只有自己能看到",
+      "onboard_time": 1738480217,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 253128,
@@ -635,14 +659,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 238196,
-      "num": 157284,
-      "word": "原来微信视频的美颜只有自己能看到",
-      "onboard_time": 1738480217,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 237930,
       "num": 237930,
       "word": "肖战射雕武汉路演",
@@ -683,11 +699,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 217385,
-      "num": 156585,
-      "word": "哪吒2票房破30亿",
-      "onboard_time": 1738481718,
-      "rank": 29,
+      "raw_hot": 217356,
+      "num": 137979,
+      "word": "饺子",
+      "onboard_time": 1738483578,
+      "rank": 23,
       "category": "电影"
     },
     {
@@ -737,6 +753,14 @@
       "onboard_time": 1738477337,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204021,
+      "num": 137476,
+      "word": "肖战现场回应愤怒的脏脏包",
+      "onboard_time": 1738482497,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 203702,
@@ -931,6 +955,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168424,
+      "num": 139975,
+      "word": "哪吒2",
+      "onboard_time": 1738386858,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 164734,
+      "num": 135790,
+      "word": "哪吒之魔童闹海票房30亿",
+      "onboard_time": 1738482198,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 164091,
       "num": 164091,
       "word": "陈哲远现偶",
@@ -961,14 +1001,6 @@
       "onboard_time": 1738476858,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 161008,
-      "num": 139975,
-      "word": "哪吒2",
-      "onboard_time": 1738386858,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 160760,
@@ -1267,6 +1299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130053,
+      "num": 130053,
+      "word": "陈哲远好像不会用智能手机",
+      "onboard_time": 1738482438,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129738,
       "num": 129738,
       "word": "不敢相信浓眉换东契奇",
@@ -1337,6 +1377,14 @@
       "onboard_time": 1738465757,
       "rank": 47,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 125376,
+      "num": 125376,
+      "word": "宋亚轩回应手电筒打光",
+      "onboard_time": 1738484297,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 124558,
@@ -1419,6 +1467,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 113006,
+      "num": 113006,
+      "word": "向太怕被倪萍催起床把门堵了",
+      "onboard_time": 1738484418,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 112437,
+      "num": 112437,
+      "word": "人人人人人你人人人人人",
+      "onboard_time": 1738484477,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112381,
       "num": 112381,
       "word": "财神爷 财神奶",
@@ -1481,6 +1545,14 @@
       "onboard_time": 1738469958,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103853,
+      "num": 103853,
+      "word": "火箭",
+      "onboard_time": 1738483278,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 103845,
@@ -1561,6 +1633,30 @@
       "onboard_time": 1738428735,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89462,
+      "num": 104723,
+      "word": "马布里回应",
+      "onboard_time": 1738483216,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 89446,
+      "num": 113693,
+      "word": "詹姆斯事先不知道交易",
+      "onboard_time": 1738481957,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 88063,
+      "num": 135120,
+      "word": "湖人图啥",
+      "onboard_time": 1738482438,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 86466,
@@ -1689,6 +1785,14 @@
       "onboard_time": 1738408699,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 56863,
+      "num": 127033,
+      "word": "关晓彤为哪吒2国漫打call",
+      "onboard_time": 1738484716,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 55529,
@@ -1833,6 +1937,14 @@
       "onboard_time": 1738420759,
       "rank": 2,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 31987,
+      "num": 112622,
+      "word": "极狐汽车才是车企界的真财神",
+      "onboard_time": 1738484537,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 31816,
