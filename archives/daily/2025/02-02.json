@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738509732985,
+  "endTime": 1738510594520,
   "band_list": [
     {
       "raw_hot": 3232536,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 985336,
-      "num": 473543,
+      "num": 482319,
       "word": "哪吒",
       "onboard_time": 1738409000,
       "rank": 20,
@@ -443,6 +443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 509091,
+      "num": 426963,
+      "word": "蔡徐坤开工",
+      "onboard_time": 1738507580,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 504850,
       "num": 334241,
       "word": "孟子义翻牌",
@@ -457,6 +465,14 @@
       "onboard_time": 1738476138,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 494169,
+      "num": 494169,
+      "word": "孙颖莎王楚钦王曼昱等集体发声",
+      "onboard_time": 1738505900,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 490050,
@@ -579,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 426871,
+      "num": 426871,
+      "word": "哪吒2进入影史票房前二十",
+      "onboard_time": 1738509379,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 417041,
       "num": 417041,
       "word": "墨西哥官员称加税将由美消费者埋单",
@@ -617,14 +641,6 @@
       "onboard_time": 1738423639,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 385600,
-      "num": 289275,
-      "word": "蔡徐坤开工",
-      "onboard_time": 1738507580,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 379707,
@@ -721,14 +737,6 @@
       "onboard_time": 1738466537,
       "rank": 31,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 351256,
-      "num": 351256,
-      "word": "孙颖莎王楚钦王曼昱等集体发声",
-      "onboard_time": 1738505900,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 350894,
@@ -931,14 +939,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 270078,
-      "num": 209723,
-      "word": "哪吒2进入影史票房前二十",
-      "onboard_time": 1738509379,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 268445,
       "num": 268445,
       "word": "王楚钦3比0宇田幸矢",
@@ -1131,6 +1131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 219288,
+      "num": 188740,
+      "word": "哪吒敖丙",
+      "onboard_time": 1738508721,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 217356,
       "num": 165572,
       "word": "饺子",
@@ -1313,6 +1321,14 @@
       "onboard_time": 1738476437,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195809,
+      "num": 426970,
+      "word": "立春咬春病不沾身",
+      "onboard_time": 1738507459,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195589,
@@ -1563,6 +1579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172095,
+      "num": 172095,
+      "word": "肖战郭靖迎财神涨好运",
+      "onboard_time": 1738509979,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 171875,
       "num": 171875,
       "word": "蒋欣夸杨紫很可爱",
@@ -1603,14 +1627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168991,
-      "num": 273259,
-      "word": "立春咬春病不沾身",
-      "onboard_time": 1738507459,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 166011,
       "num": 181791,
       "word": "2025乒乓球世界杯",
@@ -1627,20 +1643,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 164224,
-      "num": 164224,
-      "word": "哪吒敖丙",
-      "onboard_time": 1738508721,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 164091,
       "num": 164091,
       "word": "陈哲远现偶",
       "onboard_time": 1738468037,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163637,
+      "num": 163637,
+      "word": "蔡明直播说很感谢刘晓庆",
+      "onboard_time": 1738509498,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 162788,
@@ -1819,6 +1835,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153985,
+      "num": 153985,
+      "word": "申公豹一家有话要说",
+      "onboard_time": 1738508721,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 153396,
+      "num": 153396,
+      "word": "李宇春去亲戚火锅店聚餐",
+      "onboard_time": 1738504401,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152239,
       "num": 152239,
       "word": "突然懂得学好英语的重要性了",
@@ -1881,14 +1913,6 @@
       "onboard_time": 1738494138,
       "rank": 43,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 147586,
-      "num": 147586,
-      "word": "李宇春去亲戚火锅店聚餐",
-      "onboard_time": 1738504401,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 147535,
@@ -2003,14 +2027,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 143640,
-      "num": 143640,
-      "word": "蔡明直播说很感谢刘晓庆",
-      "onboard_time": 1738509498,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 143161,
       "num": 183536,
       "word": "王俊凯才是春节档最大彩蛋",
@@ -2025,14 +2041,6 @@
       "onboard_time": 1738470618,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 142864,
-      "num": 129803,
-      "word": "申公豹一家有话要说",
-      "onboard_time": 1738508721,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 142029,
@@ -2707,6 +2715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 83185,
+      "num": 211629,
+      "word": "摄影师记录独属于杨妞花的团圆时刻",
+      "onboard_time": 1738509080,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81408,
       "num": 186541,
       "word": "卫视蛇年春晚你最喜欢谁的舞台",
@@ -2784,14 +2800,6 @@
       "word": "5个孩子凑2000压岁钱给奶奶买手机",
       "onboard_time": 1738411578,
       "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 66246,
-      "num": 211629,
-      "word": "摄影师记录独属于杨妞花的团圆时刻",
-      "onboard_time": 1738509080,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
