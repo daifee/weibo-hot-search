@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738484749184,
+  "endTime": 1738485517286,
   "band_list": [
     {
       "raw_hot": 3232536,
@@ -155,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1109967,
+      "num": 708942,
+      "word": "哪吒2票房破30亿",
+      "onboard_time": 1738481718,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1090797,
       "num": 495720,
       "word": "没想过是梁洁但意外合适",
@@ -177,14 +185,6 @@
       "onboard_time": 1738467618,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1056741,
-      "num": 708942,
-      "word": "哪吒2票房破30亿",
-      "onboard_time": 1738481718,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 1051629,
@@ -795,6 +795,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 442743,
+      "num": 425241,
+      "word": "丁禹兮春晚高清大图",
+      "onboard_time": 1738482918,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 441563,
       "num": 189201,
       "word": "李昀锐挑染",
@@ -833,6 +841,14 @@
       "onboard_time": 1738385598,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 430652,
+      "num": 430652,
+      "word": "樊振东陈梦确定无缘世界杯",
+      "onboard_time": 1738477938,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 425460,
@@ -881,14 +897,6 @@
       "onboard_time": 1738401978,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 410469,
-      "num": 410469,
-      "word": "樊振东陈梦确定无缘世界杯",
-      "onboard_time": 1738477938,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 405360,
@@ -1113,14 +1121,6 @@
       "onboard_time": 1738419140,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 348641,
-      "num": 348641,
-      "word": "丁禹兮春晚高清大图",
-      "onboard_time": 1738482918,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 346054,
@@ -1691,6 +1691,14 @@
       "category": "国际时政,互联网"
     },
     {
+      "raw_hot": 221032,
+      "num": 145582,
+      "word": "肖战现场回应愤怒的脏脏包",
+      "onboard_time": 1738482497,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 218905,
       "num": 150879,
       "word": "好友揭秘王菲春晚落泪",
@@ -1708,7 +1716,7 @@
     },
     {
       "raw_hot": 217356,
-      "num": 137979,
+      "num": 144078,
       "word": "饺子",
       "onboard_time": 1738483578,
       "rank": 23,
@@ -1833,14 +1841,6 @@
       "onboard_time": 1738477337,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204021,
-      "num": 137476,
-      "word": "肖战现场回应愤怒的脏脏包",
-      "onboard_time": 1738482497,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 203702,
@@ -2025,6 +2025,14 @@
       "onboard_time": 1738404678,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 191447,
+      "num": 145191,
+      "word": "向太怕被倪萍催起床把门堵了",
+      "onboard_time": 1738484418,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 190249,
@@ -2243,6 +2251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 180009,
+      "num": 144366,
+      "word": "哪吒票房海报都是导演亲手画的",
+      "onboard_time": 1738485138,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 178175,
       "num": 178175,
       "word": "特朗普称撞机事故都怪奥巴马和拜登",
@@ -2360,6 +2376,14 @@
       "word": "尹子维的大勺下一秒要敲徐冬冬头上了",
       "onboard_time": 1738473317,
       "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 171035,
+      "num": 143946,
+      "word": "宋亚轩回应手电筒打光",
+      "onboard_time": 1738484297,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -2891,6 +2915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143021,
+      "num": 143021,
+      "word": "人人人人人你人人人人人",
+      "onboard_time": 1738484477,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142943,
       "num": 142943,
       "word": "农村的面子经济学",
@@ -3275,14 +3307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 125376,
-      "num": 125376,
-      "word": "宋亚轩回应手电筒打光",
-      "onboard_time": 1738484297,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 124558,
       "num": 159438,
       "word": "杜华与程潇姐妹自拍",
@@ -3377,6 +3401,14 @@
       "onboard_time": 1738457776,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 121889,
+      "num": 121889,
+      "word": "杜兰特惊呼东契奇交易太疯狂",
+      "onboard_time": 1738485199,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 120284,
@@ -3523,28 +3555,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 113006,
-      "num": 113006,
-      "word": "向太怕被倪萍催起床把门堵了",
-      "onboard_time": 1738484418,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 112546,
       "num": 112546,
       "word": "美坠机事故28名遇难者遗体身份已确认",
       "onboard_time": 1738371977,
       "rank": 37,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 112437,
-      "num": 112437,
-      "word": "人人人人人你人人人人人",
-      "onboard_time": 1738484477,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 112381,
@@ -3585,6 +3601,14 @@
       "onboard_time": 1738366754,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110412,
+      "num": 110412,
+      "word": "河南台辉高速发生多车追尾事故",
+      "onboard_time": 1738485018,
+      "rank": 46,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 110011,
@@ -3657,6 +3681,14 @@
       "onboard_time": 1738464437,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 107767,
+      "num": 107767,
+      "word": "蛟龙行动票房惨遭滑铁卢",
+      "onboard_time": 1738485318,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 107704,
@@ -3964,7 +3996,7 @@
     },
     {
       "raw_hot": 89446,
-      "num": 113693,
+      "num": 146287,
       "word": "詹姆斯事先不知道交易",
       "onboard_time": 1738481957,
       "rank": 41,
@@ -4427,6 +4459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49776,
+      "num": 145981,
+      "word": "极狐汽车才是车企界的真财神",
+      "onboard_time": 1738484537,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 49618,
       "num": 70546,
       "word": "初五财蛇到",
@@ -4667,14 +4707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31987,
-      "num": 112622,
-      "word": "极狐汽车才是车企界的真财神",
-      "onboard_time": 1738484537,
-      "rank": 43,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 31832,
       "num": 31832,
       "word": "美坠机事故空中交通指挥人员被调查",
@@ -4707,11 +4739,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29858,
+      "num": 143119,
+      "word": "春节假期遇立春节气",
+      "onboard_time": 1738485436,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29678,
       "num": 49429,
       "word": "华山环卫工手抓铁链背对悬崖扫雪",
       "onboard_time": 1738445111,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28882,
+      "num": 146717,
+      "word": "资中辟谣扔鞭炮男孩家属追责网帖",
+      "onboard_time": 1738481836,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -4857,6 +4905,14 @@
       "onboard_time": 1738351332,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12433,
+      "num": 145022,
+      "word": "我是不是方圆十里最漂亮的女人",
+      "onboard_time": 1738485138,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 12228,

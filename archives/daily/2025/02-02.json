@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738484749184,
+  "endTime": 1738485517286,
   "band_list": [
     {
       "raw_hot": 3232536,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1109967,
+      "num": 708942,
+      "word": "哪吒2票房破30亿",
+      "onboard_time": 1738481718,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1068760,
       "num": 581574,
       "word": "武艺结婚要求伴郎170以上",
@@ -81,14 +89,6 @@
       "onboard_time": 1738415179,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1056741,
-      "num": 708942,
-      "word": "哪吒2票房破30亿",
-      "onboard_time": 1738481718,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 1051629,
@@ -355,6 +355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 442743,
+      "num": 425241,
+      "word": "丁禹兮春晚高清大图",
+      "onboard_time": 1738482918,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 439289,
       "num": 439289,
       "word": "孤注一掷",
@@ -379,20 +387,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 430652,
+      "num": 430652,
+      "word": "樊振东陈梦确定无缘世界杯",
+      "onboard_time": 1738477938,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 417041,
       "num": 417041,
       "word": "墨西哥官员称加税将由美消费者埋单",
       "onboard_time": 1738463058,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 410469,
-      "num": 410469,
-      "word": "樊振东陈梦确定无缘世界杯",
-      "onboard_time": 1738477938,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 405360,
@@ -513,14 +521,6 @@
       "onboard_time": 1738466537,
       "rank": 31,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 348641,
-      "num": 348641,
-      "word": "丁禹兮春晚高清大图",
-      "onboard_time": 1738482918,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 345938,
@@ -699,8 +699,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221032,
+      "num": 145582,
+      "word": "肖战现场回应愤怒的脏脏包",
+      "onboard_time": 1738482497,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 217356,
-      "num": 137979,
+      "num": 144078,
       "word": "饺子",
       "onboard_time": 1738483578,
       "rank": 23,
@@ -753,14 +761,6 @@
       "onboard_time": 1738477337,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204021,
-      "num": 137476,
-      "word": "肖战现场回应愤怒的脏脏包",
-      "onboard_time": 1738482497,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 203702,
@@ -843,6 +843,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 191447,
+      "num": 145191,
+      "word": "向太怕被倪萍催起床把门堵了",
+      "onboard_time": 1738484418,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190249,
       "num": 190249,
       "word": "梁洁演晋江女主适配度",
@@ -891,6 +899,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 185213,
+      "num": 144728,
+      "word": "哪吒2",
+      "onboard_time": 1738386858,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 184687,
       "num": 184687,
       "word": "国产剧终于有不撕不吵的婆媳了",
@@ -913,6 +929,14 @@
       "onboard_time": 1738477096,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180009,
+      "num": 144366,
+      "word": "哪吒票房海报都是导演亲手画的",
+      "onboard_time": 1738485138,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 177530,
@@ -955,12 +979,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 168424,
-      "num": 139975,
-      "word": "哪吒2",
-      "onboard_time": 1738386858,
-      "rank": 27,
-      "category": "电影"
+      "raw_hot": 171035,
+      "num": 143946,
+      "word": "宋亚轩回应手电筒打光",
+      "onboard_time": 1738484297,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 164734,
@@ -1179,6 +1203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143021,
+      "num": 143021,
+      "word": "人人人人人你人人人人人",
+      "onboard_time": 1738484477,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142943,
       "num": 142943,
       "word": "农村的面子经济学",
@@ -1379,14 +1411,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 125376,
-      "num": 125376,
-      "word": "宋亚轩回应手电筒打光",
-      "onboard_time": 1738484297,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 124558,
       "num": 159438,
       "word": "杜华与程潇姐妹自拍",
@@ -1409,6 +1433,14 @@
       "onboard_time": 1738457776,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 121889,
+      "num": 121889,
+      "word": "杜兰特惊呼东契奇交易太疯狂",
+      "onboard_time": 1738485199,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 121751,
@@ -1467,28 +1499,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 113006,
-      "num": 113006,
-      "word": "向太怕被倪萍催起床把门堵了",
-      "onboard_time": 1738484418,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 112437,
-      "num": 112437,
-      "word": "人人人人人你人人人人人",
-      "onboard_time": 1738484477,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112381,
       "num": 112381,
       "word": "财神爷 财神奶",
       "onboard_time": 1738454174,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110412,
+      "num": 110412,
+      "word": "河南台辉高速发生多车追尾事故",
+      "onboard_time": 1738485018,
+      "rank": 46,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 109690,
@@ -1513,6 +1537,14 @@
       "onboard_time": 1738464437,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 107767,
+      "num": 107767,
+      "word": "蛟龙行动票房惨遭滑铁卢",
+      "onboard_time": 1738485318,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 107704,
@@ -1644,7 +1676,7 @@
     },
     {
       "raw_hot": 89446,
-      "num": 113693,
+      "num": 146287,
       "word": "詹姆斯事先不知道交易",
       "onboard_time": 1738481957,
       "rank": 41,
@@ -1835,6 +1867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49776,
+      "num": 145981,
+      "word": "极狐汽车才是车企界的真财神",
+      "onboard_time": 1738484537,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 49618,
       "num": 70546,
       "word": "初五财蛇到",
@@ -1939,14 +1979,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 31987,
-      "num": 112622,
-      "word": "极狐汽车才是车企界的真财神",
-      "onboard_time": 1738484537,
-      "rank": 43,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 31816,
       "num": 54643,
       "word": "儿媳过年为婆婆化妆最开心的是公公",
@@ -1963,11 +1995,27 @@
       "category": "美食"
     },
     {
+      "raw_hot": 29858,
+      "num": 143119,
+      "word": "春节假期遇立春节气",
+      "onboard_time": 1738485436,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29678,
       "num": 49429,
       "word": "华山环卫工手抓铁链背对悬崖扫雪",
       "onboard_time": 1738445111,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28882,
+      "num": 146717,
+      "word": "资中辟谣扔鞭炮男孩家属追责网帖",
+      "onboard_time": 1738481836,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -2035,6 +2083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12433,
+      "num": 145022,
+      "word": "我是不是方圆十里最漂亮的女人",
+      "onboard_time": 1738485138,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 10489,
       "num": 226989,
       "word": "打麻将带王宝强周润发包发的",
@@ -2060,6 +2116,9 @@
     },
     {
       "word": "#跟着总书记感受春节年味儿#"
+    },
+    {
+      "word": "#把实现家庭梦融入民族梦之中#"
     }
   ]
 }
