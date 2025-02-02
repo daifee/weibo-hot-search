@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738488930597,
+  "endTime": 1738491674320,
   "band_list": [
     {
       "raw_hot": 3232536,
@@ -51,8 +51,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1341239,
-      "num": 599207,
+      "raw_hot": 1534740,
+      "num": 608564,
       "word": "内娱又要多一个7人男团了",
       "onboard_time": 1738486517,
       "rank": 6,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1040634,
+      "num": 1040634,
+      "word": "您的五块正在骂您的三千块",
+      "onboard_time": 1738480338,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 873649,
       "num": 554747,
       "word": "谢娜晒7岁的跳跳俏俏",
@@ -153,6 +161,14 @@
       "onboard_time": 1738468277,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 831609,
+      "num": 324016,
+      "word": "饺子导演手绘破亿海报笔要画冒烟了",
+      "onboard_time": 1738487057,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 820000,
@@ -203,14 +219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 712122,
-      "num": 712122,
-      "word": "您的五块正在骂您的三千块",
-      "onboard_time": 1738480338,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 701613,
       "num": 701613,
       "word": "五路财神",
@@ -241,6 +249,14 @@
       "onboard_time": 1738424178,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 656854,
+      "num": 302913,
+      "word": "梁洁试戏片段演哭剧组所有人",
+      "onboard_time": 1738489998,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 641071,
@@ -451,14 +467,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 380922,
-      "num": 324016,
-      "word": "饺子导演手绘破亿海报笔要画冒烟了",
-      "onboard_time": 1738487057,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 379707,
       "num": 287969,
       "word": "SM新练习生年龄公开",
@@ -547,6 +555,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 352042,
+      "num": 287991,
+      "word": "申公豹斯内普",
+      "onboard_time": 1738489337,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 347169,
+      "num": 284057,
+      "word": "原来王安宇动作指导是太乙真人",
+      "onboard_time": 1738486757,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 345938,
       "num": 473180,
       "word": "孙杨称从未与马布里单独接触",
@@ -611,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 327058,
+      "num": 283075,
+      "word": "原来穿裙子和鞋子是有公式的",
+      "onboard_time": 1738488558,
+      "rank": 39,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 322240,
       "num": 140620,
       "word": "敖丙传",
@@ -628,7 +660,7 @@
     },
     {
       "raw_hot": 305957,
-      "num": 246236,
+      "num": 281736,
       "word": "关晓彤为哪吒2国漫打call",
       "onboard_time": 1738484716,
       "rank": 36,
@@ -651,23 +683,31 @@
       "category": "体育"
     },
     {
-      "raw_hot": 289894,
-      "num": 289894,
+      "raw_hot": 291205,
+      "num": 291205,
       "word": "金店店主怕金价不涨又怕涨得太快",
       "onboard_time": 1738485557,
       "rank": 17,
       "category": "财经"
     },
     {
-      "raw_hot": 278574,
-      "num": 237895,
-      "word": "原来王安宇动作指导是太乙真人",
-      "onboard_time": 1738486757,
-      "rank": 27,
-      "category": "电影"
+      "raw_hot": 278035,
+      "num": 267318,
+      "word": "不要因为花父母的钱而感到内疚",
+      "onboard_time": 1738485978,
+      "rank": 26,
+      "category": "情感"
     },
     {
-      "raw_hot": 260545,
+      "raw_hot": 267426,
+      "num": 267426,
+      "word": "湖人交易惊呆NBA群星",
+      "onboard_time": 1738489998,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 267093,
       "num": 382602,
       "word": "在极深地下2400米追光是什么体验",
       "onboard_time": 1738487239,
@@ -739,14 +779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 238778,
-      "num": 229611,
-      "word": "不要因为花父母的钱而感到内疚",
-      "onboard_time": 1738485978,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 237930,
       "num": 237930,
       "word": "肖战射雕武汉路演",
@@ -800,6 +832,14 @@
       "word": "肖战现场回应愤怒的脏脏包",
       "onboard_time": 1738482497,
       "rank": 24,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 223023,
+      "num": 211658,
+      "word": "河南一影院一天88场哪吒2",
+      "onboard_time": 1738485018,
+      "rank": 25,
       "category": "电影"
     },
     {
@@ -875,12 +915,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202878,
+      "num": 202878,
+      "word": "哪吒2",
+      "onboard_time": 1738386858,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 202083,
       "num": 202083,
       "word": "独行侠",
       "onboard_time": 1738477096,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201740,
+      "num": 194118,
+      "word": "哪吒2敖闰的反派暴烈美学",
+      "onboard_time": 1738491018,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 201086,
@@ -929,6 +985,14 @@
       "onboard_time": 1738488378,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 194827,
+      "num": 194827,
+      "word": "SM新男团出道方式",
+      "onboard_time": 1738491318,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 194670,
@@ -987,6 +1051,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 188938,
+      "num": 188938,
+      "word": "躲春",
+      "onboard_time": 1738489639,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188201,
       "num": 188201,
       "word": "shams",
@@ -1003,20 +1075,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 185213,
-      "num": 166921,
-      "word": "哪吒2",
-      "onboard_time": 1738386858,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 184687,
       "num": 184687,
       "word": "国产剧终于有不撕不吵的婆媳了",
       "onboard_time": 1738471457,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184047,
+      "num": 184047,
+      "word": "小狗被亲戚抱走母女连夜冒雨接回",
+      "onboard_time": 1738489998,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 184017,
@@ -1033,6 +1105,14 @@
       "onboard_time": 1738477096,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181565,
+      "num": 181565,
+      "word": "死丫头演够了没该我了吧",
+      "onboard_time": 1738490118,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 180009,
@@ -1347,6 +1427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141107,
+      "num": 141107,
+      "word": "汪苏泷又双叒叕把人钓成翘嘴了",
+      "onboard_time": 1738490658,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 139615,
       "num": 139615,
       "word": "全网都知道苏醒在迪拜买贵了",
@@ -1427,14 +1515,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 131394,
-      "num": 159462,
-      "word": "原来穿裙子和鞋子是有公式的",
-      "onboard_time": 1738488558,
-      "rank": 39,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 130528,
       "num": 144198,
       "word": "黄圣池演技反差感",
@@ -1476,7 +1556,7 @@
     },
     {
       "raw_hot": 129523,
-      "num": 151265,
+      "num": 290739,
       "word": "河南台辉高速发生多车追尾事故",
       "onboard_time": 1738485018,
       "rank": 46,
@@ -1843,6 +1923,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 83363,
+      "num": 94850,
+      "word": "原来这就是立体相片",
+      "onboard_time": 1738491259,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 81408,
       "num": 186541,
       "word": "卫视蛇年春晚你最喜欢谁的舞台",
@@ -1889,6 +1977,14 @@
       "onboard_time": 1738461977,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69445,
+      "num": 284880,
+      "word": "春运返程客流已进入高峰期",
+      "onboard_time": 1738490538,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69396,
@@ -2108,7 +2204,7 @@
     },
     {
       "raw_hot": 33862,
-      "num": 606438,
+      "num": 707592,
       "word": "锣鼓一响敲出新年满满精气神",
       "onboard_time": 1738486398,
       "rank": 2,
