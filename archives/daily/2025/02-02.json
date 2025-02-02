@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738485517286,
+  "endTime": 1738488023544,
   "band_list": [
     {
       "raw_hot": 3232536,
@@ -9,6 +9,14 @@
       "onboard_time": 1738456816,
       "rank": 0,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1828566,
+      "num": 1828566,
+      "word": "哪吒2因为时长砍掉镜头",
+      "onboard_time": 1738486578,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 1708063,
@@ -179,6 +187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 737071,
+      "num": 437201,
+      "word": "内娱又要多一个7人男团了",
+      "onboard_time": 1738486517,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 728866,
       "num": 728866,
       "word": "从春晚配角到主角他熬了20年",
@@ -323,6 +339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 486219,
+      "num": 486219,
+      "word": "您的五块正在骂您的三千块",
+      "onboard_time": 1738480338,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 485536,
       "num": 288055,
       "word": "生理性喜欢消失的原因",
@@ -355,7 +379,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 442743,
+      "raw_hot": 457252,
       "num": 425241,
       "word": "丁禹兮春晚高清大图",
       "onboard_time": 1738482918,
@@ -369,14 +393,6 @@
       "onboard_time": 1738416378,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 437447,
-      "num": 159662,
-      "word": "您的五块正在骂您的三千块",
-      "onboard_time": 1738480338,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 435758,
@@ -604,11 +620,19 @@
     },
     {
       "raw_hot": 296658,
-      "num": 157284,
+      "num": 171654,
       "word": "原来微信视频的美颜只有自己能看到",
       "onboard_time": 1738480217,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 253307,
+      "num": 177251,
+      "word": "马龙夏露日本逛街",
+      "onboard_time": 1738486157,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 253128,
@@ -617,6 +641,14 @@
       "onboard_time": 1738473438,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 251428,
+      "num": 251428,
+      "word": "人人人人人你人人人人人",
+      "onboard_time": 1738484477,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 251019,
@@ -643,12 +675,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 246740,
+      "num": 246740,
+      "word": "金店店主怕金价不涨又怕涨得太快",
+      "onboard_time": 1738485557,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 244445,
       "num": 356805,
       "word": "点赞微博有小财神特效",
       "onboard_time": 1738466657,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 243394,
+      "num": 176259,
+      "word": "饺子导演手绘破亿海报笔要画冒烟了",
+      "onboard_time": 1738487057,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 241248,
@@ -659,11 +707,51 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 240294,
+      "num": 175796,
+      "word": "关晓彤为哪吒2国漫打call",
+      "onboard_time": 1738484716,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 239992,
+      "num": 174632,
+      "word": "向太怕被倪萍催起床把门堵了",
+      "onboard_time": 1738484418,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 238778,
+      "num": 173929,
+      "word": "不要因为花父母的钱而感到内疚",
+      "onboard_time": 1738485978,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 237930,
       "num": 237930,
       "word": "肖战射雕武汉路演",
       "onboard_time": 1738458616,
       "rank": 19,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 236160,
+      "num": 236160,
+      "word": "哪吒敖丙都没生气",
+      "onboard_time": 1738485857,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 227438,
+      "num": 173381,
+      "word": "原来王安宇动作指导是太乙真人",
+      "onboard_time": 1738486757,
+      "rank": 27,
       "category": "电影"
     },
     {
@@ -700,7 +788,7 @@
     },
     {
       "raw_hot": 221032,
-      "num": 145582,
+      "num": 169370,
       "word": "肖战现场回应愤怒的脏脏包",
       "onboard_time": 1738482497,
       "rank": 24,
@@ -708,7 +796,7 @@
     },
     {
       "raw_hot": 217356,
-      "num": 144078,
+      "num": 165572,
       "word": "饺子",
       "onboard_time": 1738483578,
       "rank": 23,
@@ -843,12 +931,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 191447,
-      "num": 145191,
-      "word": "向太怕被倪萍催起床把门堵了",
-      "onboard_time": 1738484418,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 190697,
+      "num": 165858,
+      "word": "掌心",
+      "onboard_time": 1738486157,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 190249,
@@ -900,7 +988,7 @@
     },
     {
       "raw_hot": 185213,
-      "num": 144728,
+      "num": 145896,
       "word": "哪吒2",
       "onboard_time": 1738386858,
       "rank": 27,
@@ -932,7 +1020,7 @@
     },
     {
       "raw_hot": 180009,
-      "num": 144366,
+      "num": 149402,
       "word": "哪吒票房海报都是导演亲手画的",
       "onboard_time": 1738485138,
       "rank": 31,
@@ -1107,6 +1195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 150421,
+      "num": 382602,
+      "word": "在极深地下2400米追光是什么体验",
+      "onboard_time": 1738487239,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149342,
       "num": 149342,
       "word": "孙杨发声明",
@@ -1201,14 +1297,6 @@
       "onboard_time": 1738462217,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 143021,
-      "num": 143021,
-      "word": "人人人人人你人人人人人",
-      "onboard_time": 1738484477,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 142943,
@@ -1347,6 +1435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129434,
+      "num": 129434,
+      "word": "河南台辉高速发生多车追尾事故",
+      "onboard_time": 1738485018,
+      "rank": 46,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 128039,
       "num": 100459,
       "word": "于冬 蛟龙行动绝不撤档",
@@ -1411,6 +1507,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 125012,
+      "num": 125012,
+      "word": "杜兰特惊呼东契奇交易太疯狂",
+      "onboard_time": 1738485199,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124558,
       "num": 159438,
       "word": "杜华与程潇姐妹自拍",
@@ -1433,14 +1537,6 @@
       "onboard_time": 1738457776,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 121889,
-      "num": 121889,
-      "word": "杜兰特惊呼东契奇交易太疯狂",
-      "onboard_time": 1738485199,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 121751,
@@ -1507,12 +1603,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 110412,
-      "num": 110412,
-      "word": "河南台辉高速发生多车追尾事故",
-      "onboard_time": 1738485018,
-      "rank": 46,
-      "category": "突发/灾害"
+      "raw_hot": 110488,
+      "num": 135120,
+      "word": "湖人图啥",
+      "onboard_time": 1738482438,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 109690,
@@ -1577,6 +1673,14 @@
       "onboard_time": 1738469958,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105109,
+      "num": 178384,
+      "word": "极狐汽车才是车企界的真财神",
+      "onboard_time": 1738484537,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 103853,
@@ -1680,14 +1784,6 @@
       "word": "詹姆斯事先不知道交易",
       "onboard_time": 1738481957,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 88063,
-      "num": 135120,
-      "word": "湖人图啥",
-      "onboard_time": 1738482438,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -1819,14 +1915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 56863,
-      "num": 127033,
-      "word": "关晓彤为哪吒2国漫打call",
-      "onboard_time": 1738484716,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
       "raw_hot": 55529,
       "num": 71224,
       "word": "伯恩茅斯0比2利物浦",
@@ -1859,20 +1947,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 50971,
+      "num": 172657,
+      "word": "恋与深空",
+      "onboard_time": 1738486757,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 49930,
       "num": 202435,
       "word": "湖人开始相信玄学了",
       "onboard_time": 1738476618,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 49776,
-      "num": 145981,
-      "word": "极狐汽车才是车企界的真财神",
-      "onboard_time": 1738484537,
-      "rank": 43,
-      "category": "汽车"
     },
     {
       "raw_hot": 49618,
@@ -1979,11 +2067,27 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 32732,
+      "num": 515109,
+      "word": "锣鼓一响敲出新年满满精气神",
+      "onboard_time": 1738486398,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31816,
       "num": 54643,
       "word": "儿媳过年为婆婆化妆最开心的是公公",
       "onboard_time": 1738440191,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31753,
+      "num": 171923,
+      "word": "年后全国父母的统一行为",
+      "onboard_time": 1738487539,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -2041,6 +2145,14 @@
       "onboard_time": 1738437971,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 22034,
+      "num": 167551,
+      "word": "鲸鱼也有脚印",
+      "onboard_time": 1738482497,
+      "rank": 36,
+      "category": "科学科普"
     },
     {
       "raw_hot": 21938,
@@ -2119,6 +2231,9 @@
     },
     {
       "word": "#把实现家庭梦融入民族梦之中#"
+    },
+    {
+      "word": "#在古城古巷感受文化脉动#"
     }
   ]
 }
