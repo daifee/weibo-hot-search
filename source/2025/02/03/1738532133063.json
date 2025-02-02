@@ -1,0 +1,410 @@
+{
+  "runTime": 1738532133063,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 228461,
+        "num": 228461,
+        "word": "影院回应一天排99场哪吒2",
+        "onboard_time": 1738515616,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 49965,
+        "num": 49965,
+        "word": "美国自己生病却让别人吃药",
+        "onboard_time": 1738510759,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 9761,
+        "num": 48650,
+        "word": "文化中国行二十四节气经典美食",
+        "onboard_time": 1738504758,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110191,
+        "num": 48381,
+        "word": "韩泰山",
+        "onboard_time": 1738513578,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47929,
+        "num": 47929,
+        "word": "大年初六",
+        "onboard_time": 1738513697,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44258,
+        "num": 44258,
+        "word": "男孩井盖点鞭炮8辆车定损28.5万元",
+        "onboard_time": 1738496120,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62022,
+        "num": 43033,
+        "word": "哪吒2爆火后唯一受害者出现",
+        "onboard_time": 1738503980,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 51221,
+        "num": 42336,
+        "word": "内娱又要多一个7人男团了",
+        "onboard_time": 1738486517,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40377,
+        "num": 40377,
+        "word": "妈妈20年前用60盒录像带记录儿子",
+        "onboard_time": 1738512136,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40345,
+        "num": 40345,
+        "word": "立春躲春的正确方式",
+        "onboard_time": 1738500920,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161531,
+        "num": 40244,
+        "word": "特朗普下令对索马里发动空袭",
+        "onboard_time": 1738515616,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 48181,
+        "num": 40045,
+        "word": "陈瑶 AI",
+        "onboard_time": 1738512798,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38226,
+        "num": 38226,
+        "word": "孙颖莎王楚钦王曼昱等集体发声",
+        "onboard_time": 1738505900,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38125,
+        "num": 38125,
+        "word": "哪吒",
+        "onboard_time": 1738504758,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 35156,
+        "num": 35156,
+        "word": "加拿大总理宣布反制措施",
+        "onboard_time": 1738505359,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32746,
+        "num": 32746,
+        "word": "美方曾请求我国整类列管芬太尼类物质",
+        "onboard_time": 1738502359,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32386,
+        "num": 32386,
+        "word": "哪吒2进入影史票房前二十",
+        "onboard_time": 1738509379,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29516,
+        "num": 29516,
+        "word": "公安部回应美方以芬太尼等为由加征关税",
+        "onboard_time": 1738511719,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 29462,
+        "num": 29462,
+        "word": "哪吒2因为时长砍掉镜头",
+        "onboard_time": 1738486578,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27656,
+        "num": 27656,
+        "word": "在极深地下2400米追光是什么体验",
+        "onboard_time": 1738487239,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29130,
+        "num": 27637,
+        "word": "杨天真瘦了",
+        "onboard_time": 1738501579,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28167,
+        "num": 27584,
+        "word": "剪毁了刘海却意外变成人生发型",
+        "onboard_time": 1738503980,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 27509,
+        "num": 27509,
+        "word": "立春咬春病不沾身",
+        "onboard_time": 1738507459,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27244,
+        "num": 27244,
+        "word": "钟楚曦说哪吒太牛了",
+        "onboard_time": 1738513277,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25618,
+        "num": 25618,
+        "word": "您的五块正在骂您的三千块",
+        "onboard_time": 1738480338,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25001,
+        "num": 25001,
+        "word": "建议过年在家不要总穿睡衣",
+        "onboard_time": 1738496598,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22182,
+        "num": 22182,
+        "word": "蔡徐坤开工",
+        "onboard_time": 1738507580,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21955,
+        "num": 21955,
+        "word": "为了相亲把照片设置成了红包封面",
+        "onboard_time": 1738512318,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21904,
+        "num": 21904,
+        "word": "宋佳不想被夸漂亮那是爸妈的功劳",
+        "onboard_time": 1738518974,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21347,
+        "num": 21347,
+        "word": "辰亦儒曾之乔得子",
+        "onboard_time": 1738498639,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22281,
+        "num": 21062,
+        "word": "肖战对接回应包机问题",
+        "onboard_time": 1738504520,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20076,
+        "num": 20076,
+        "word": "用中国式浪漫打开立春节气",
+        "onboard_time": 1738524614,
+        "rank": 31,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 19802,
+        "num": 19802,
+        "word": "躲春",
+        "onboard_time": 1738489639,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19712,
+        "num": 19712,
+        "word": "桐心薇泯",
+        "onboard_time": 1738502780,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19130,
+        "num": 19130,
+        "word": "哪吒2票房",
+        "onboard_time": 1738505719,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18902,
+        "num": 18902,
+        "word": "孟子义翻牌",
+        "onboard_time": 1738500978,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18093,
+        "num": 18093,
+        "word": "拜托这可是陈哲远亲自选的女主",
+        "onboard_time": 1738519154,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18078,
+        "num": 18078,
+        "word": "肯德基满地垃圾无人收",
+        "onboard_time": 1738501940,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18032,
+        "num": 18032,
+        "word": "10岁男孩用海姆立克法救妈妈",
+        "onboard_time": 1738514955,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17457,
+        "num": 17457,
+        "word": "JYP前练习生因职场霸凌自杀去世",
+        "onboard_time": 1738499720,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17270,
+        "num": 17270,
+        "word": "仙台有树全员抱树等开播",
+        "onboard_time": 1738525570,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17102,
+        "num": 17102,
+        "word": "口臭可能是肝在求救",
+        "onboard_time": 1738502599,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 16615,
+        "num": 16615,
+        "word": "涮火锅时丸子浮起来别马上捞",
+        "onboard_time": 1738503380,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 16512,
+        "num": 16512,
+        "word": "大年初五迎财神",
+        "onboard_time": 1738451652,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16287,
+        "num": 16287,
+        "word": "电影哪吒之魔童闹海",
+        "onboard_time": 1738522333,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16276,
+        "num": 16276,
+        "word": "大年初六22点10分迎来立春",
+        "onboard_time": 1738512918,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16092,
+        "num": 16275,
+        "word": "哪吒2",
+        "onboard_time": 1738481718,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 14837,
+        "num": 16274,
+        "word": "大年初六逢立春",
+        "onboard_time": 1738529650,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13960,
+        "num": 16273,
+        "word": "导演谈哪吒的容貌焦虑",
+        "onboard_time": 1738517774,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 12896,
+        "num": 16270,
+        "word": "王楚钦建议提高WTT总决赛奖金",
+        "onboard_time": 1738503200,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#在古城古巷感受文化脉动#"
+    }
+  }
+}

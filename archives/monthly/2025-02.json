@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738531152776,
+  "endTime": 1738532133063,
   "band_list": [
     {
       "raw_hot": 3232536,
@@ -6171,6 +6171,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 14837,
+      "num": 26052,
+      "word": "大年初六逢立春",
+      "onboard_time": 1738529650,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14723,
       "num": 256652,
       "word": "加州有的旧金山德州也有",
@@ -6193,14 +6201,6 @@
       "onboard_time": 1738357151,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 12752,
-      "num": 26052,
-      "word": "大年初六逢立春",
-      "onboard_time": 1738529650,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12595,
