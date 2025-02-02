@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738499860510,
+  "endTime": 1738500717688,
   "band_list": [
     {
       "raw_hot": 3232536,
@@ -267,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 980505,
+      "num": 588031,
+      "word": "辰亦儒曾之乔得子",
+      "onboard_time": 1738498639,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 968225,
       "num": 308167,
       "word": "于适 我们只想要公平",
@@ -417,14 +425,6 @@
       "onboard_time": 1738453994,
       "rank": 5,
       "category": "国际时政,财经"
-    },
-    {
-      "raw_hot": 788596,
-      "num": 417877,
-      "word": "辰亦儒曾之乔得子",
-      "onboard_time": 1738498639,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 787836,
@@ -643,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 575068,
+      "num": 575068,
+      "word": "男孩井盖点鞭炮8辆车定损28.5万元",
+      "onboard_time": 1738496120,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 573251,
       "num": 351720,
       "word": "白色橄榄树直播",
@@ -835,14 +843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 466514,
-      "num": 466514,
-      "word": "男孩井盖点鞭炮8辆车定损28.5万元",
-      "onboard_time": 1738496120,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 461178,
       "num": 460808,
       "word": "哪吒2已破14项影史纪录",
@@ -876,7 +876,7 @@
     },
     {
       "raw_hot": 451238,
-      "num": 212463,
+      "num": 216228,
       "word": "建议过年在家不要总穿睡衣",
       "onboard_time": 1738496598,
       "rank": 20,
@@ -1251,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 343743,
+      "num": 322280,
+      "word": "春节档连续5天破10亿",
+      "onboard_time": 1738498579,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 343154,
       "num": 349745,
       "word": "初五过年习俗",
@@ -1419,6 +1427,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 308072,
+      "num": 308072,
+      "word": "JYP前练习生因职场霸凌自杀去世",
+      "onboard_time": 1738499720,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 305957,
       "num": 281736,
       "word": "关晓彤为哪吒2国漫打call",
@@ -1553,6 +1569,14 @@
       "onboard_time": 1738394416,
       "rank": 46,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 273467,
+      "num": 273467,
+      "word": "刘国梁建议隐藏世界排名",
+      "onboard_time": 1738500138,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 270127,
@@ -1971,14 +1995,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 216360,
-      "num": 216360,
-      "word": "春节档连续5天破10亿",
-      "onboard_time": 1738498579,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 215117,
       "num": 215117,
       "word": "大年初四接灶王",
@@ -2113,6 +2129,14 @@
       "onboard_time": 1738477337,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204854,
+      "num": 204854,
+      "word": "于冬看了哪吒2",
+      "onboard_time": 1738498459,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 203821,
@@ -2379,6 +2403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189899,
+      "num": 189899,
+      "word": "梁洁微醺表白戏这60秒",
+      "onboard_time": 1738499598,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189817,
       "num": 189817,
       "word": "开封通报不倒翁断裂女演员摔倒",
@@ -2555,14 +2587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 182461,
-      "num": 182461,
-      "word": "于冬看了哪吒2",
-      "onboard_time": 1738498459,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 182350,
       "num": 182350,
       "word": "韦德因癌症切除部分肾脏",
@@ -2601,6 +2625,14 @@
       "onboard_time": 1738412598,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 180517,
+      "num": 180517,
+      "word": "创造营亚洲2",
+      "onboard_time": 1738500380,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 180009,
@@ -2812,7 +2844,7 @@
     },
     {
       "raw_hot": 166011,
-      "num": 151873,
+      "num": 181791,
       "word": "2025乒乓球世界杯",
       "onboard_time": 1738495458,
       "rank": 33,
@@ -3003,6 +3035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158969,
+      "num": 158969,
+      "word": "岳云鹏大内高手零零岳",
+      "onboard_time": 1738500439,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 158582,
       "num": 158582,
       "word": "T1对战GEN",
@@ -3099,6 +3139,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 155264,
+      "num": 158683,
+      "word": "王楚钦蛇年迎开门红",
+      "onboard_time": 1738499299,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 155018,
+      "num": 155018,
+      "word": "孙颖莎王楚钦等国乒队员向WTT建言",
+      "onboard_time": 1738499900,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154983,
       "num": 141662,
       "word": "王宝强邪恶双马尾",
@@ -3169,14 +3225,6 @@
       "onboard_time": 1738498159,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 150333,
-      "num": 150333,
-      "word": "梁洁微醺表白戏这60秒",
-      "onboard_time": 1738499598,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 149348,
@@ -3257,14 +3305,6 @@
       "onboard_time": 1738337058,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 146523,
-      "num": 144945,
-      "word": "JYP前练习生因职场霸凌自杀去世",
-      "onboard_time": 1738499720,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 146214,
@@ -3393,6 +3433,14 @@
       "onboard_time": 1738462217,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 143550,
+      "num": 143550,
+      "word": "饺子回应敖光造型设计",
+      "onboard_time": 1738498218,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 143161,
@@ -3643,6 +3691,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 131851,
+      "num": 131851,
+      "word": "DeepSeek喂饭指令",
+      "onboard_time": 1738499659,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 131013,
       "num": 131013,
       "word": "易烊千玺5年变化",
@@ -3889,6 +3945,14 @@
       "onboard_time": 1738404978,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123313,
+      "num": 123313,
+      "word": "突然懂得学好英语的重要性了",
+      "onboard_time": 1738500619,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 122989,
@@ -4715,6 +4779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 78678,
+      "num": 322588,
+      "word": "墨西哥加拿大报复美国加征关税",
+      "onboard_time": 1738500319,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 78384,
       "num": 81237,
       "word": "OpenAI奥特曼因DeepSeek反思",
@@ -4913,6 +4985,14 @@
       "onboard_time": 1738480217,
       "rank": 19,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 60463,
+      "num": 217484,
+      "word": "蒯曼3比1付玉",
+      "onboard_time": 1738500080,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 60116,
