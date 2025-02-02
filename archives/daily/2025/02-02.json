@@ -1,14 +1,22 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738460646408,
+  "endTime": 1738461624119,
   "band_list": [
     {
-      "raw_hot": 2422563,
-      "num": 2422563,
+      "raw_hot": 3232536,
+      "num": 3232536,
       "word": "引爆沼气小孩家庭付天价赔偿系谣言",
       "onboard_time": 1738456816,
       "rank": 0,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1178033,
+      "num": 1178033,
+      "word": "大年初五迎财神",
+      "onboard_time": 1738451652,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1154235,
@@ -24,14 +32,6 @@
       "word": "女生一觉醒来相亲对象已站床边",
       "onboard_time": 1738415179,
       "rank": 0,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1061054,
-      "num": 1061054,
-      "word": "大年初五迎财神",
-      "onboard_time": 1738451652,
-      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -131,6 +131,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 485514,
+      "num": 485514,
+      "word": "我竟然是申公豹说的大山",
+      "onboard_time": 1738457356,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 461178,
+      "num": 390317,
+      "word": "哪吒2已破14项影史纪录",
+      "onboard_time": 1738456094,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 439289,
       "num": 439289,
       "word": "孤注一掷",
@@ -145,14 +161,6 @@
       "onboard_time": 1738405697,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 430674,
-      "num": 430674,
-      "word": "我竟然是申公豹说的大山",
-      "onboard_time": 1738457356,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 401178,
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 377272,
-      "num": 140745,
+      "num": 146171,
       "word": "徐明浩直播突现双重人格",
       "onboard_time": 1738420341,
       "rank": 21,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 371856,
-      "num": 230554,
+      "num": 239147,
       "word": "宝妈着急上厕所把孩子交给武警",
       "onboard_time": 1738430475,
       "rank": 29,
@@ -209,14 +217,6 @@
       "onboard_time": 1738415417,
       "rank": 14,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 363957,
-      "num": 363957,
-      "word": "哪吒2已破14项影史纪录",
-      "onboard_time": 1738456094,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 344784,
@@ -243,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 332778,
+      "num": 332778,
+      "word": "背刺何惟芳的店员成了杨紫的粉丝",
+      "onboard_time": 1738458137,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 330316,
       "num": 330316,
       "word": "国色芳华锁V",
@@ -259,16 +267,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 283244,
-      "num": 283244,
-      "word": "背刺何惟芳的店员成了杨紫的粉丝",
-      "onboard_time": 1738458137,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 274521,
-      "num": 274521,
+      "raw_hot": 312545,
+      "num": 312545,
       "word": "票房",
       "onboard_time": 1738457717,
       "rank": 17,
@@ -323,8 +323,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 192394,
-      "num": 192394,
+      "raw_hot": 203185,
+      "num": 203185,
       "word": "马布里",
       "onboard_time": 1738455016,
       "rank": 24,
@@ -339,12 +339,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 164114,
-      "num": 164114,
+      "raw_hot": 174638,
+      "num": 174638,
       "word": "白色橄榄树滤镜",
       "onboard_time": 1738456455,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168354,
+      "num": 364941,
+      "word": "全网关注的白衣小哥获表彰",
+      "onboard_time": 1738458857,
+      "rank": 29,
+      "category": "正能量"
     },
     {
       "raw_hot": 161008,
@@ -355,20 +363,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 153055,
-      "num": 153055,
-      "word": "全网关注的白衣小哥获表彰",
-      "onboard_time": 1738458857,
-      "rank": 29,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 145458,
       "num": 145458,
       "word": "仙台有树剧宣",
       "onboard_time": 1738456455,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145412,
+      "num": 145412,
+      "word": "美国最新贸易保护措施遭到广泛反对",
+      "onboard_time": 1738454654,
+      "rank": 35,
+      "category": "国际时政,财经"
     },
     {
       "raw_hot": 144122,
@@ -427,12 +435,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 134915,
-      "num": 134915,
-      "word": "美国最新贸易保护措施遭到广泛反对",
-      "onboard_time": 1738454654,
-      "rank": 35,
-      "category": "国际时政,财经"
+      "raw_hot": 132824,
+      "num": 132824,
+      "word": "2025摩羯座会发生的3件好事",
+      "onboard_time": 1738461138,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 130107,
@@ -475,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122051,
+      "num": 122051,
+      "word": "射雕里肖战台词发音",
+      "onboard_time": 1738457776,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 121751,
       "num": 96504,
       "word": "白色橄榄树热度",
@@ -483,20 +499,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121063,
-      "num": 121063,
-      "word": "射雕里肖战台词发音",
-      "onboard_time": 1738457776,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 120944,
       "num": 139855,
       "word": "各省特色饮料",
       "onboard_time": 1738414519,
       "rank": 28,
       "category": "美食"
+    },
+    {
+      "raw_hot": 119596,
+      "num": 119596,
+      "word": "英伟达市值一周缩水超5000亿美元",
+      "onboard_time": 1738457897,
+      "rank": 48,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 118928,
@@ -515,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116020,
+      "num": 116020,
+      "word": "金智秀好美",
+      "onboard_time": 1738461075,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113150,
       "num": 113150,
       "word": "高速上为救人女子喊到声音嘶哑",
@@ -529,6 +553,14 @@
       "onboard_time": 1738428677,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 112381,
+      "num": 112381,
+      "word": "财神爷 财神奶",
+      "onboard_time": 1738454174,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109690,
@@ -587,6 +619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101202,
+      "num": 101202,
+      "word": "鞋舌总是歪的人原来是鞋带没绑好",
+      "onboard_time": 1738461377,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 98721,
       "num": 98721,
       "word": "让你越来越有福气的4件事",
@@ -601,6 +641,14 @@
       "onboard_time": 1738422799,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 94862,
+      "num": 94862,
+      "word": "梁洁演技",
+      "onboard_time": 1738461557,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 92946,
@@ -635,12 +683,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 90902,
-      "num": 90902,
-      "word": "财神爷 财神奶",
-      "onboard_time": 1738454174,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 87276,
+      "num": 241446,
+      "word": "谢娜晒7岁的跳跳俏俏",
+      "onboard_time": 1738460659,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 86466,
@@ -651,12 +699,12 @@
       "category": "民生新闻,美食"
     },
     {
-      "raw_hot": 82594,
-      "num": 90661,
-      "word": "英伟达市值一周缩水超5000亿美元",
-      "onboard_time": 1738457897,
-      "rank": 48,
-      "category": "互联网,财经"
+      "raw_hot": 83789,
+      "num": 93687,
+      "word": "春节把饺子忙坏了",
+      "onboard_time": 1738457416,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 79420,
@@ -665,14 +713,6 @@
       "onboard_time": 1738450512,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 76296,
-      "num": 90614,
-      "word": "春节把饺子忙坏了",
-      "onboard_time": 1738457416,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 76102,
@@ -827,8 +867,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 32321,
-      "num": 723548,
+      "raw_hot": 33064,
+      "num": 735407,
       "word": "文化中国行非遗雅韵中国年",
       "onboard_time": 1738420759,
       "rank": 2,
