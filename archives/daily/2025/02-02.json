@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738492645693,
+  "endTime": 1738495042766,
   "band_list": [
     {
       "raw_hot": 3232536,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1534740,
-      "num": 608564,
+      "num": 713966,
       "word": "内娱又要多一个7人男团了",
       "onboard_time": 1738486517,
       "rank": 6,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 896042,
-      "num": 324016,
+      "num": 521503,
       "word": "饺子导演手绘破亿海报笔要画冒烟了",
       "onboard_time": 1738487057,
       "rank": 23,
@@ -252,11 +252,19 @@
     },
     {
       "raw_hot": 656854,
-      "num": 302913,
+      "num": 458818,
       "word": "梁洁试戏片段演哭剧组所有人",
       "onboard_time": 1738489998,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 649165,
+      "num": 649165,
+      "word": "原来穿裙子和鞋子是有公式的",
+      "onboard_time": 1738488558,
+      "rank": 39,
+      "category": "时尚"
     },
     {
       "raw_hot": 641071,
@@ -329,6 +337,14 @@
       "onboard_time": 1738421719,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 540670,
+      "num": 540670,
+      "word": "躲春",
+      "onboard_time": 1738489639,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 537034,
@@ -404,7 +420,7 @@
     },
     {
       "raw_hot": 444651,
-      "num": 287991,
+      "num": 340795,
       "word": "申公豹斯内普",
       "onboard_time": 1738489337,
       "rank": 11,
@@ -433,14 +449,6 @@
       "onboard_time": 1738477938,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 429283,
-      "num": 283075,
-      "word": "原来穿裙子和鞋子是有公式的",
-      "onboard_time": 1738488558,
-      "rank": 39,
-      "category": "时尚"
     },
     {
       "raw_hot": 417041,
@@ -667,6 +675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 304988,
+      "num": 382602,
+      "word": "在极深地下2400米追光是什么体验",
+      "onboard_time": 1738487239,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 296658,
       "num": 228699,
       "word": "原来微信视频的美颜只有自己能看到",
@@ -699,6 +715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 268992,
+      "num": 268992,
+      "word": "哪吒2敖闰的反派暴烈美学",
+      "onboard_time": 1738491018,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 267426,
       "num": 267426,
       "word": "湖人交易惊呆NBA群星",
@@ -707,12 +731,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 267093,
-      "num": 382602,
-      "word": "在极深地下2400米追光是什么体验",
-      "onboard_time": 1738487239,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 255392,
+      "num": 255392,
+      "word": "樊振东获得世界杯参赛资格",
+      "onboard_time": 1738492038,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 253128,
@@ -795,12 +819,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 230009,
+      "num": 220923,
+      "word": "SM新男团出道方式",
+      "onboard_time": 1738491318,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227123,
       "num": 227123,
       "word": "夫妻狂追5分钟截停起火货车",
       "onboard_time": 1738438871,
       "rank": 17,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 226266,
+      "num": 219623,
+      "word": "陈牧驰戏里叫娜然妈做足了心理建设",
+      "onboard_time": 1738493719,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 225239,
@@ -851,20 +891,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 216546,
-      "num": 216546,
-      "word": "SM新男团出道方式",
-      "onboard_time": 1738491318,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 214643,
       "num": 214643,
       "word": "大年初五恭喜发财",
       "onboard_time": 1738457956,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213675,
+      "num": 213675,
+      "word": "难哄",
+      "onboard_time": 1738492939,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 213642,
@@ -875,12 +915,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 212264,
+      "num": 212264,
+      "word": "颜人中曾用迪丽热巴照片当壁纸",
+      "onboard_time": 1738494738,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211766,
       "num": 211766,
       "word": "一个回头救了一个家庭",
       "onboard_time": 1738420699,
       "rank": 15,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 211224,
+      "num": 211224,
+      "word": "这辈子买房最莫名其妙的一次",
+      "onboard_time": 1738494619,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 209668,
+      "num": 209668,
+      "word": "哪吒2",
+      "onboard_time": 1738386858,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 209273,
@@ -899,12 +963,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208642,
+      "num": 221752,
+      "word": "国际乒联工作组与中国乒协举行会议",
+      "onboard_time": 1738492458,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205091,
       "num": 205091,
       "word": "宋亚轩手电筒",
       "onboard_time": 1738477337,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203821,
+      "num": 203821,
+      "word": "穿心咒是哪吒新版的割肉剔骨还父母",
+      "onboard_time": 1738493374,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 203702,
@@ -923,14 +1003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 202878,
-      "num": 202878,
-      "word": "哪吒2",
-      "onboard_time": 1738386858,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 202083,
       "num": 202083,
       "word": "独行侠",
@@ -939,12 +1011,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201740,
-      "num": 194118,
-      "word": "哪吒2敖闰的反派暴烈美学",
-      "onboard_time": 1738491018,
-      "rank": 30,
-      "category": "电影"
+      "raw_hot": 201608,
+      "num": 219123,
+      "word": "国际乒联联系樊振东马龙陈梦并听取具体情况",
+      "onboard_time": 1738493719,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 201086,
@@ -977,14 +1049,6 @@
       "onboard_time": 1738486157,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196627,
-      "num": 196627,
-      "word": "樊振东获得世界杯参赛资格",
-      "onboard_time": 1738492038,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 195950,
@@ -1075,14 +1139,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 188938,
-      "num": 188938,
-      "word": "躲春",
-      "onboard_time": 1738489639,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 188201,
       "num": 188201,
       "word": "shams",
@@ -1155,6 +1211,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176097,
+      "num": 176097,
+      "word": "陈牧驰说强烈的郊感在召唤",
+      "onboard_time": 1738492458,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 175734,
+      "num": 175734,
+      "word": "王楚钦希望WTT多听听运动员的声音",
+      "onboard_time": 1738494377,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175190,
       "num": 184562,
       "word": "邓为新剧是灭世版涂山璟",
@@ -1195,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170488,
+      "num": 170488,
+      "word": "国际乒联",
+      "onboard_time": 1738492518,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164734,
       "num": 135790,
       "word": "哪吒之魔童闹海票房30亿",
@@ -1225,6 +1305,14 @@
       "onboard_time": 1738485018,
       "rank": 46,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 161991,
+      "num": 227141,
+      "word": "王曼昱vs梅谢芙",
+      "onboard_time": 1738492038,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 161962,
@@ -1313,6 +1401,14 @@
       "onboard_time": 1738468578,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 155417,
+      "num": 155417,
+      "word": "殷郊是你吗",
+      "onboard_time": 1738494859,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 154899,
@@ -1539,6 +1635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 135397,
+      "num": 205766,
+      "word": "梁家辉肖战手挽手",
+      "onboard_time": 1738493658,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 134700,
       "num": 134700,
       "word": "王者荣耀灵宝市集",
@@ -1649,6 +1753,14 @@
       "onboard_time": 1738427237,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 126080,
+      "num": 160401,
+      "word": "春节假期返程高峰来了",
+      "onboard_time": 1738493959,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126078,
@@ -1771,14 +1883,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 109241,
-      "num": 109241,
-      "word": "国际乒联工作组与中国乒协举行会议",
-      "onboard_time": 1738492458,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 107798,
       "num": 107798,
       "word": "为什么现在年轻人这么抵制相亲",
@@ -1816,14 +1920,6 @@
       "word": "肖战回复蔡少芬",
       "onboard_time": 1738405097,
       "rank": 41,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 105598,
-      "num": 171708,
-      "word": "陈牧驰说强烈的郊感在召唤",
-      "onboard_time": 1738492458,
-      "rank": 36,
       "category": "电影"
     },
     {
@@ -1969,6 +2065,14 @@
       "onboard_time": 1738457416,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 83366,
+      "num": 279656,
+      "word": "这条微博福气满满",
+      "onboard_time": 1738493418,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83363,
@@ -2179,6 +2283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 45291,
+      "num": 204249,
+      "word": "量子计算机远超传统计算机",
+      "onboard_time": 1738494859,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 43792,
       "num": 606835,
       "word": "大年初五祝你有求币应",
@@ -2244,7 +2356,7 @@
     },
     {
       "raw_hot": 33862,
-      "num": 707592,
+      "num": 770004,
       "word": "锣鼓一响敲出新年满满精气神",
       "onboard_time": 1738486398,
       "rank": 2,
@@ -2355,14 +2467,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 17488,
-      "num": 227141,
-      "word": "王曼昱vs梅谢芙",
-      "onboard_time": 1738492038,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 15236,
       "num": 15791,
       "word": "封神",
@@ -2425,6 +2529,14 @@
       "onboard_time": 1738447451,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9307,
+      "num": 194940,
+      "word": "王楚钦vs宇田幸矢",
+      "onboard_time": 1738494979,
+      "rank": 34,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
