@@ -1,6 +1,6 @@
 {
   "startTime": 1738513501648,
-  "endTime": 1738521723951,
+  "endTime": 1738523826371,
   "band_list": [
     {
       "raw_hot": 1266714,
@@ -491,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30278,
+      "num": 30278,
+      "word": "电影哪吒之魔童闹海",
+      "onboard_time": 1738522333,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 27494,
       "num": 142412,
       "word": "芬太尼问题的本质是美国的问题",
@@ -512,6 +520,14 @@
       "word": "立春不等于入春",
       "onboard_time": 1738516515,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9621,
+      "num": 50611,
+      "word": "含财量超高的破五祝福",
+      "onboard_time": 1738522572,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
