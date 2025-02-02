@@ -1,6 +1,6 @@
 {
   "startTime": 1738513501648,
-  "endTime": 1738520918065,
+  "endTime": 1738521723951,
   "band_list": [
     {
       "raw_hot": 1266714,
@@ -443,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58273,
+      "num": 60934,
+      "word": "宋佳不想被夸漂亮那是爸妈的功劳",
+      "onboard_time": 1738518974,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 53642,
       "num": 68297,
       "word": "王嘉尔这么会扭不要命了",
@@ -451,20 +459,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 41649,
+      "raw_hot": 43801,
       "num": 41649,
       "word": "拜托这可是陈哲远亲自选的女主",
       "onboard_time": 1738519154,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 40002,
-      "num": 60934,
-      "word": "宋佳不想被夸漂亮那是爸妈的功劳",
-      "onboard_time": 1738518974,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 39941,
@@ -513,6 +513,14 @@
       "onboard_time": 1738516515,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9562,
+      "num": 33626,
+      "word": "鹿童配音演员让大家看彩蛋解气",
+      "onboard_time": 1738519033,
+      "rank": 34,
+      "category": "电影"
     }
   ],
   "hotgov_list": [

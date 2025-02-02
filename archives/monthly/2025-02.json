@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738520918065,
+  "endTime": 1738521723951,
   "band_list": [
     {
       "raw_hot": 3232536,
@@ -5523,6 +5523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58273,
+      "num": 60934,
+      "word": "宋佳不想被夸漂亮那是爸妈的功劳",
+      "onboard_time": 1738518974,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57685,
       "num": 403387,
       "word": "金饰挂牌价逼近850元",
@@ -5715,6 +5723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 43801,
+      "num": 41649,
+      "word": "拜托这可是陈哲远亲自选的女主",
+      "onboard_time": 1738519154,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 43792,
       "num": 606835,
       "word": "大年初五祝你有求币应",
@@ -5737,14 +5753,6 @@
       "onboard_time": 1738468458,
       "rank": 2,
       "category": "民生新闻,正能量"
-    },
-    {
-      "raw_hot": 41649,
-      "num": 41649,
-      "word": "拜托这可是陈哲远亲自选的女主",
-      "onboard_time": 1738519154,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 41620,
@@ -5793,14 +5801,6 @@
       "onboard_time": 1738441390,
       "rank": 13,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 40002,
-      "num": 60934,
-      "word": "宋佳不想被夸漂亮那是爸妈的功劳",
-      "onboard_time": 1738518974,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 39941,
@@ -6273,6 +6273,14 @@
       "onboard_time": 1738348213,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9562,
+      "num": 33626,
+      "word": "鹿童配音演员让大家看彩蛋解气",
+      "onboard_time": 1738519033,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 8100,
