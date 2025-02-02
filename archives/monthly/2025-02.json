@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738500717688,
+  "endTime": 1738502508381,
   "band_list": [
     {
       "raw_hot": 3232536,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 980505,
-      "num": 588031,
+      "num": 823280,
       "word": "辰亦儒曾之乔得子",
       "onboard_time": 1738498639,
       "rank": 6,
@@ -305,6 +305,14 @@
       "onboard_time": 1738419980,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 930561,
+      "num": 930561,
+      "word": "刘国梁建议隐藏世界排名",
+      "onboard_time": 1738500138,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 896042,
@@ -441,6 +449,14 @@
       "onboard_time": 1738463778,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 757962,
+      "num": 543242,
+      "word": "杨天真瘦了",
+      "onboard_time": 1738501579,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 744060,
@@ -739,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 504850,
+      "num": 292828,
+      "word": "孟子义翻牌",
+      "onboard_time": 1738500978,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 501201,
       "num": 501201,
       "word": "Kanye唯一关注Taylor Swift",
@@ -876,7 +900,7 @@
     },
     {
       "raw_hot": 451238,
-      "num": 216228,
+      "num": 233009,
       "word": "建议过年在家不要总穿睡衣",
       "onboard_time": 1738496598,
       "rank": 20,
@@ -985,6 +1009,14 @@
       "onboard_time": 1738463058,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 415148,
+      "num": 308072,
+      "word": "JYP前练习生因职场霸凌自杀去世",
+      "onboard_time": 1738499720,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 410820,
@@ -1427,14 +1459,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 308072,
-      "num": 308072,
-      "word": "JYP前练习生因职场霸凌自杀去世",
-      "onboard_time": 1738499720,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 305957,
       "num": 281736,
       "word": "关晓彤为哪吒2国漫打call",
@@ -1571,14 +1595,6 @@
       "category": "综艺,体育"
     },
     {
-      "raw_hot": 273467,
-      "num": 273467,
-      "word": "刘国梁建议隐藏世界排名",
-      "onboard_time": 1738500138,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 270127,
       "num": 175127,
       "word": "李雪琴自曝过年爱走亲戚",
@@ -1665,6 +1681,14 @@
       "onboard_time": 1738403717,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 253959,
+      "num": 253959,
+      "word": "孙颖莎提出目前赛历安排过于密集",
+      "onboard_time": 1738500858,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 253128,
@@ -1825,6 +1849,14 @@
       "onboard_time": 1738335260,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 234816,
+      "num": 322588,
+      "word": "墨西哥加拿大报复美国加征关税",
+      "onboard_time": 1738500319,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 234236,
@@ -2067,6 +2099,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 209288,
+      "num": 209288,
+      "word": "于冬看了哪吒2",
+      "onboard_time": 1738498459,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 209273,
       "num": 209273,
       "word": "邓为新剧妲己身魔子命",
@@ -2129,14 +2169,6 @@
       "onboard_time": 1738477337,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204854,
-      "num": 204854,
-      "word": "于冬看了哪吒2",
-      "onboard_time": 1738498459,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 203821,
@@ -2275,6 +2307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195412,
+      "num": 195412,
+      "word": "因为一首OST追完一部剧",
+      "onboard_time": 1738501520,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195303,
       "num": 195303,
       "word": "肖战路演生图状态",
@@ -2345,6 +2385,14 @@
       "onboard_time": 1738403478,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191985,
+      "num": 191985,
+      "word": "肯德基满地垃圾无人收",
+      "onboard_time": 1738501940,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191883,
@@ -2625,6 +2673,14 @@
       "onboard_time": 1738412598,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 180595,
+      "num": 180595,
+      "word": "立春躲春的正确方式",
+      "onboard_time": 1738500920,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180517,
@@ -3139,6 +3195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 155352,
+      "num": 155352,
+      "word": "刘昊然哥哥你跳啊",
+      "onboard_time": 1738502119,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 155264,
       "num": 158683,
       "word": "王楚钦蛇年迎开门红",
@@ -3220,7 +3284,7 @@
     },
     {
       "raw_hot": 150406,
-      "num": 150406,
+      "num": 210158,
       "word": "湖人管理层不满浓眉",
       "onboard_time": 1738498159,
       "rank": 31,
@@ -3281,6 +3345,14 @@
       "onboard_time": 1738411097,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147535,
+      "num": 147535,
+      "word": "饺子回应敖光造型设计",
+      "onboard_time": 1738498218,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 147215,
@@ -3435,14 +3507,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 143550,
-      "num": 143550,
-      "word": "饺子回应敖光造型设计",
-      "onboard_time": 1738498218,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 143161,
       "num": 183536,
       "word": "王俊凯才是春节档最大彩蛋",
@@ -3515,6 +3579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 140696,
+      "num": 140696,
+      "word": "突然懂得学好英语的重要性了",
+      "onboard_time": 1738500619,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 140514,
       "num": 140514,
       "word": "北京下雪",
@@ -3553,6 +3625,14 @@
       "onboard_time": 1738480457,
       "rank": 42,
       "category": "电竞,艺人"
+    },
+    {
+      "raw_hot": 139014,
+      "num": 139014,
+      "word": "小孩一招救了妈妈继续玩游戏",
+      "onboard_time": 1738497678,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138987,
@@ -3657,6 +3737,22 @@
       "onboard_time": 1738399098,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 132985,
+      "num": 132985,
+      "word": "如鸢",
+      "onboard_time": 1738502359,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 132973,
+      "num": 132973,
+      "word": "陈哲远阿瓒不语只是一次次背后抱",
+      "onboard_time": 1738501760,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 132576,
@@ -3947,14 +4043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 123313,
-      "num": 123313,
-      "word": "突然懂得学好英语的重要性了",
-      "onboard_time": 1738500619,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 122989,
       "num": 122989,
       "word": "苹果很甜",
@@ -4035,12 +4123,28 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 119243,
+      "num": 119243,
+      "word": "美方曾请求我国整类列管芬太尼类物质",
+      "onboard_time": 1738502359,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 119157,
       "num": 119157,
       "word": "朱雨玲3比0杜凯琹",
       "onboard_time": 1738499240,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119077,
+      "num": 119077,
+      "word": "广东年味",
+      "onboard_time": 1738501640,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118342,
@@ -4723,6 +4827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81575,
+      "num": 295980,
+      "word": "赵公明如何逆袭成为财神",
+      "onboard_time": 1738501219,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 81408,
       "num": 186541,
       "word": "卫视蛇年春晚你最喜欢谁的舞台",
@@ -4736,6 +4848,14 @@
       "word": "山东大集物价震惊日本导演竹内亮",
       "onboard_time": 1738399757,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80228,
+      "num": 862817,
+      "word": "多地春节现人人人人人场面",
+      "onboard_time": 1738486277,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -4777,14 +4897,6 @@
       "onboard_time": 1738321997,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 78678,
-      "num": 322588,
-      "word": "墨西哥加拿大报复美国加征关税",
-      "onboard_time": 1738500319,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 78384,
@@ -5113,6 +5225,14 @@
       "onboard_time": 1738430715,
       "rank": 33,
       "category": "民生新闻,幽默"
+    },
+    {
+      "raw_hot": 49091,
+      "num": 276707,
+      "word": "鹿童配音演员回应因反派被骂",
+      "onboard_time": 1738501700,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 47462,
@@ -5552,6 +5672,14 @@
       "word": "加州有的旧金山德州也有",
       "onboard_time": 1738398558,
       "rank": 14,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 14536,
+      "num": 174754,
+      "word": "前一秒看完电影后一秒就置身唐人街了",
+      "onboard_time": 1738502359,
+      "rank": 31,
       "category": "电影"
     },
     {
