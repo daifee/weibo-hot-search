@@ -1,0 +1,410 @@
+{
+  "runTime": 1738477683366,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1560657,
+        "num": 1560657,
+        "word": "东契奇加盟湖人",
+        "onboard_time": 1738475118,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1538227,
+        "num": 1538227,
+        "word": "中方强烈不满坚决反对",
+        "onboard_time": 1738473198,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34201,
+        "num": 1050234,
+        "word": "这些文物故事真的很配春节",
+        "onboard_time": 1738468458,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 928552,
+        "num": 928552,
+        "word": "射雕票房",
+        "onboard_time": 1738462818,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 836505,
+        "num": 836505,
+        "word": "白色橄榄树 四川农村",
+        "onboard_time": 1738474097,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 742311,
+        "num": 742311,
+        "word": "引爆沼气小孩家庭付天价赔偿系谣言",
+        "onboard_time": 1738456816,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 593060,
+        "num": 593060,
+        "word": "从春晚配角到主角他熬了20年",
+        "onboard_time": 1738468757,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 536966,
+        "num": 536966,
+        "word": "大年初五迎财神",
+        "onboard_time": 1738451652,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350213,
+        "num": 350213,
+        "word": "浓眉",
+        "onboard_time": 1738474457,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240692,
+        "num": 348836,
+        "word": "哪吒2导演曾因特效与团队产生严重分歧",
+        "onboard_time": 1738472957,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 584489,
+        "num": 332845,
+        "word": "武艺结婚要求伴郎170以上",
+        "onboard_time": 1738467618,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 405602,
+        "num": 327699,
+        "word": "阐教 截教",
+        "onboard_time": 1738468277,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 380099,
+        "num": 309043,
+        "word": "Kanye唯一关注Taylor Swift",
+        "onboard_time": 1738476138,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376433,
+        "num": 300510,
+        "word": "谢娜晒7岁的跳跳俏俏",
+        "onboard_time": 1738460659,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298179,
+        "num": 298179,
+        "word": "中方将对美采取相应反制措施",
+        "onboard_time": 1738467317,
+        "rank": 14,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 340387,
+        "num": 297172,
+        "word": "哪吒票房",
+        "onboard_time": 1738467317,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 289515,
+        "num": 289515,
+        "word": "男孩井盖点鞭炮受损车主回应",
+        "onboard_time": 1738474397,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270210,
+        "num": 270210,
+        "word": "詹姆斯",
+        "onboard_time": 1738470797,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253128,
+        "num": 253128,
+        "word": "国际社会广泛反对美对中国加征关税",
+        "onboard_time": 1738473438,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 249841,
+        "num": 249841,
+        "word": "湖人交易",
+        "onboard_time": 1738474338,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303507,
+        "num": 243554,
+        "word": "生理性喜欢消失的原因",
+        "onboard_time": 1738464497,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 237192,
+        "num": 237192,
+        "word": "哄孩子的小姨为了打麻将有多拼",
+        "onboard_time": 1738471577,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225069,
+        "num": 225069,
+        "word": "刘晓庆听到六十岁算老年人的反应",
+        "onboard_time": 1738475359,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222709,
+        "num": 222709,
+        "word": "哪吒之魔童闹海",
+        "onboard_time": 1738452074,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 49930,
+        "num": 202435,
+        "word": "湖人开始相信玄学了",
+        "onboard_time": 1738476618,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202083,
+        "num": 202083,
+        "word": "独行侠",
+        "onboard_time": 1738477096,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197725,
+        "num": 197725,
+        "word": "在暴雪时分",
+        "onboard_time": 1738464678,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196045,
+        "num": 196045,
+        "word": "SM新练习生年龄公开",
+        "onboard_time": 1738465217,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190111,
+        "num": 190111,
+        "word": "张杰谢娜带双胞胎女儿游迪士尼",
+        "onboard_time": 1738469059,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168545,
+        "num": 188871,
+        "word": "宋亚轩手电筒",
+        "onboard_time": 1738477337,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188201,
+        "num": 188201,
+        "word": "shams",
+        "onboard_time": 1738477096,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181838,
+        "num": 181838,
+        "word": "倪夏莲组合11比0",
+        "onboard_time": 1738477096,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178044,
+        "num": 178044,
+        "word": "王鹤棣孟子义偷吃花生米",
+        "onboard_time": 1738476437,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175622,
+        "num": 175622,
+        "word": "小蛇糕",
+        "onboard_time": 1738462637,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 171055,
+        "num": 171055,
+        "word": "正房的地位妾室的气量勾栏的做派",
+        "onboard_time": 1738476198,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166493,
+        "num": 166493,
+        "word": "伊能静 暴力的人都是懦夫",
+        "onboard_time": 1738469118,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161405,
+        "num": 161405,
+        "word": "王鹤棣锅铲都抡冒烟了",
+        "onboard_time": 1738476858,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156153,
+        "num": 156153,
+        "word": "梁洁 天选宋冉",
+        "onboard_time": 1738476257,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155620,
+        "num": 155620,
+        "word": "林诗栋蒯曼vs倪夏莲组合",
+        "onboard_time": 1738477096,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149567,
+        "num": 149567,
+        "word": "王猛 马布里已报警",
+        "onboard_time": 1738471158,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143622,
+        "num": 143622,
+        "word": "孙杨称从未与马布里单独接触",
+        "onboard_time": 1738471517,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142773,
+        "num": 142773,
+        "word": "接财神需要注意什么",
+        "onboard_time": 1738462577,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128725,
+        "num": 128725,
+        "word": "商务部回应美方对中国产品加征10%关税",
+        "onboard_time": 1738466537,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 128350,
+        "num": 128350,
+        "word": "哪吒导演说认没认真观众一眼就看得出",
+        "onboard_time": 1738463778,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126804,
+        "num": 126804,
+        "word": "兵马俑有好挤游客称羽绒服被挤出绒",
+        "onboard_time": 1738476077,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 124123,
+        "num": 124123,
+        "word": "设计师回应春晚机器人不穿裤子",
+        "onboard_time": 1738477517,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118472,
+        "num": 118472,
+        "word": "美国对中国商品加征10%关税",
+        "onboard_time": 1738453994,
+        "rank": 46,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 118266,
+        "num": 118266,
+        "word": "刘昊然叫张新成哥哥停不下来",
+        "onboard_time": 1738477517,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116551,
+        "num": 116551,
+        "word": "哪吒",
+        "onboard_time": 1738409000,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114368,
+        "num": 114368,
+        "word": "不敢相信浓眉换东契奇",
+        "onboard_time": 1738475718,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#人间烟火气红火中国年#"
+    }
+  }
+}

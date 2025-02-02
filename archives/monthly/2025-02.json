@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738474622740,
+  "endTime": 1738477683366,
   "band_list": [
     {
       "raw_hot": 3232536,
@@ -41,6 +41,22 @@
       "onboard_time": 1738381276,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1560657,
+      "num": 1560657,
+      "word": "东契奇加盟湖人",
+      "onboard_time": 1738475118,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1538227,
+      "num": 1538227,
+      "word": "中方强烈不满坚决反对",
+      "onboard_time": 1738473198,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1493250,
@@ -299,6 +315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 836505,
+      "num": 836505,
+      "word": "白色橄榄树 四川农村",
+      "onboard_time": 1738474097,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 817025,
       "num": 817025,
       "word": "蒋欣自曝保持身材的秘诀",
@@ -321,14 +345,6 @@
       "onboard_time": 1738397178,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 803552,
-      "num": 803552,
-      "word": "中方强烈不满坚决反对",
-      "onboard_time": 1738473198,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 791825,
@@ -891,6 +907,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 380099,
+      "num": 309043,
+      "word": "Kanye唯一关注Taylor Swift",
+      "onboard_time": 1738476138,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 379707,
       "num": 287969,
       "word": "SM新练习生年龄公开",
@@ -1003,6 +1027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 350213,
+      "num": 350213,
+      "word": "浓眉",
+      "onboard_time": 1738474457,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 346054,
       "num": 178445,
       "word": "夏雨透露申公豹在第三部魔心高涨",
@@ -1073,14 +1105,6 @@
       "onboard_time": 1738402518,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 333275,
-      "num": 333275,
-      "word": "浓眉",
-      "onboard_time": 1738474457,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 332778,
@@ -1219,6 +1243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 289515,
+      "num": 289515,
+      "word": "男孩井盖点鞭炮受损车主回应",
+      "onboard_time": 1738474397,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 286629,
       "num": 286629,
       "word": "王楚钦可爱童年照",
@@ -1291,14 +1323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 261553,
-      "num": 261553,
-      "word": "白色橄榄树 四川农村",
-      "onboard_time": 1738474097,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 258751,
       "num": 258751,
       "word": "李小冉深夜回怼网友",
@@ -1339,6 +1363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 253128,
+      "num": 253128,
+      "word": "国际社会广泛反对美对中国加征关税",
+      "onboard_time": 1738473438,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 252881,
       "num": 252881,
       "word": "春节平均每家产生近2kg剩菜剩饭",
@@ -1353,6 +1385,14 @@
       "onboard_time": 1738323319,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 249841,
+      "num": 249841,
+      "word": "湖人交易",
+      "onboard_time": 1738474338,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 247833,
@@ -1401,6 +1441,14 @@
       "onboard_time": 1738469898,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 240692,
+      "num": 348836,
+      "word": "哪吒2导演曾因特效与团队产生严重分歧",
+      "onboard_time": 1738472957,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 240536,
@@ -1529,6 +1577,14 @@
       "onboard_time": 1738461737,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 225069,
+      "num": 225069,
+      "word": "刘晓庆听到六十岁算老年人的反应",
+      "onboard_time": 1738475359,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 224813,
@@ -1699,6 +1755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202083,
+      "num": 202083,
+      "word": "独行侠",
+      "onboard_time": 1738477096,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201086,
       "num": 201086,
       "word": "林孝埈出征亚冬会",
@@ -1736,14 +1800,6 @@
       "word": "湖人vs尼克斯",
       "onboard_time": 1738469238,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 199435,
-      "num": 199435,
-      "word": "湖人交易",
-      "onboard_time": 1738474338,
-      "rank": 28,
       "category": "体育"
     },
     {
@@ -1899,6 +1955,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 188201,
+      "num": 188201,
+      "word": "shams",
+      "onboard_time": 1738477096,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188146,
       "num": 172240,
       "word": "陈哲远面罩下的脸对得起眉眼",
@@ -2003,6 +2067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181838,
+      "num": 181838,
+      "word": "倪夏莲组合11比0",
+      "onboard_time": 1738477096,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181605,
       "num": 98070,
       "word": "九重紫",
@@ -2025,6 +2097,14 @@
       "onboard_time": 1738336278,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 178044,
+      "num": 178044,
+      "word": "王鹤棣孟子义偷吃花生米",
+      "onboard_time": 1738476437,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 177857,
@@ -2123,6 +2203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171055,
+      "num": 171055,
+      "word": "正房的地位妾室的气量勾栏的做派",
+      "onboard_time": 1738476198,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171042,
       "num": 171042,
       "word": "尹子维的大勺下一秒要敲徐冬冬头上了",
@@ -2139,6 +2227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 168545,
+      "num": 188871,
+      "word": "宋亚轩手电筒",
+      "onboard_time": 1738477337,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168085,
       "num": 118869,
       "word": "申公豹",
@@ -2153,14 +2249,6 @@
       "onboard_time": 1738406058,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167213,
-      "num": 167213,
-      "word": "哪吒2导演曾因特效与团队产生严重分歧",
-      "onboard_time": 1738472957,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 166429,
@@ -2275,6 +2363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161405,
+      "num": 161405,
+      "word": "王鹤棣锅铲都抡冒烟了",
+      "onboard_time": 1738476858,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161320,
       "num": 161320,
       "word": "张博恒初四恢复训练",
@@ -2363,6 +2459,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 156153,
+      "num": 156153,
+      "word": "梁洁 天选宋冉",
+      "onboard_time": 1738476257,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156104,
       "num": 133788,
       "word": "春节档票房预测",
@@ -2377,6 +2481,14 @@
       "onboard_time": 1738339518,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 155620,
+      "num": 155620,
+      "word": "林诗栋蒯曼vs倪夏莲组合",
+      "onboard_time": 1738477096,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 155429,
@@ -2699,14 +2811,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 137987,
-      "num": 137987,
-      "word": "国际社会广泛反对美对中国加征关税",
-      "onboard_time": 1738473438,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 137439,
       "num": 127628,
       "word": "梁洁新剧两集哭三次",
@@ -2883,6 +2987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 126804,
+      "num": 126804,
+      "word": "兵马俑有好挤游客称羽绒服被挤出绒",
+      "onboard_time": 1738476077,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 126798,
       "num": 126798,
       "word": "蔡明对时代少年团了如指掌",
@@ -2936,6 +3048,14 @@
       "word": "刘晓庆不服输也不扶人",
       "onboard_time": 1738389917,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 124123,
+      "num": 124123,
+      "word": "设计师回应春晚机器人不穿裤子",
+      "onboard_time": 1738477517,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -3075,20 +3195,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 118266,
+      "num": 118266,
+      "word": "刘昊然叫张新成哥哥停不下来",
+      "onboard_time": 1738477517,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 117752,
       "num": 335014,
       "word": "罗云熙和天津非遗一起唱新年祝福",
       "onboard_time": 1738381816,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 117471,
-      "num": 146012,
-      "word": "男孩井盖点鞭炮受损车主回应",
-      "onboard_time": 1738474397,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117273,
@@ -3129,6 +3249,14 @@
       "onboard_time": 1738410917,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 114368,
+      "num": 114368,
+      "word": "不敢相信浓眉换东契奇",
+      "onboard_time": 1738475718,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 114275,
@@ -3995,6 +4123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49930,
+      "num": 202435,
+      "word": "湖人开始相信玄学了",
+      "onboard_time": 1738476618,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 49618,
       "num": 70546,
       "word": "初五财蛇到",
@@ -4076,7 +4212,7 @@
     },
     {
       "raw_hot": 42442,
-      "num": 877839,
+      "num": 1050234,
       "word": "这些文物故事真的很配春节",
       "onboard_time": 1738468458,
       "rank": 2,
