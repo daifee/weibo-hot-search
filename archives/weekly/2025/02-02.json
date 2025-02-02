@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738532133063,
+  "endTime": 1738534841422,
   "band_list": [
     {
       "raw_hot": 3232536,
@@ -3307,6 +3307,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 22433,
+      "num": 26052,
+      "word": "大年初六逢立春",
+      "onboard_time": 1738529650,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22284,
       "num": 19743,
       "word": "susu福福",
@@ -3379,20 +3387,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 14837,
-      "num": 26052,
-      "word": "大年初六逢立春",
-      "onboard_time": 1738529650,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 14453,
       "num": 46955,
       "word": "春节摄影大赛",
       "onboard_time": 1738443920,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13745,
+      "num": 16187,
+      "word": "妈妈将女儿扮成哪吒超像的",
+      "onboard_time": 1738534572,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 12433,
