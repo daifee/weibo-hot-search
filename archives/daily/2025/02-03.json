@@ -1,6 +1,6 @@
 {
   "startTime": 1738513501648,
-  "endTime": 1738517722664,
+  "endTime": 1738520918065,
   "band_list": [
     {
       "raw_hot": 1266714,
@@ -267,6 +267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 121569,
+      "num": 45673,
+      "word": "导演谈哪吒的容貌焦虑",
+      "onboard_time": 1738517774,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 120607,
       "num": 120607,
       "word": "哪吒敖丙",
@@ -443,6 +451,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 41649,
+      "num": 41649,
+      "word": "拜托这可是陈哲远亲自选的女主",
+      "onboard_time": 1738519154,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 40002,
+      "num": 60934,
+      "word": "宋佳不想被夸漂亮那是爸妈的功劳",
+      "onboard_time": 1738518974,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39941,
       "num": 51785,
       "word": "国乒对WTT建议各有侧重",
@@ -475,7 +499,15 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 18566,
+      "raw_hot": 26554,
+      "num": 33913,
+      "word": "张极成长记录vlog",
+      "onboard_time": 1738519993,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 23790,
       "num": 128258,
       "word": "立春不等于入春",
       "onboard_time": 1738516515,

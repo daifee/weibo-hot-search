@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738517722664,
+  "endTime": 1738520918065,
   "band_list": [
     {
       "raw_hot": 3232536,
@@ -2435,6 +2435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121569,
+      "num": 45673,
+      "word": "导演谈哪吒的容貌焦虑",
+      "onboard_time": 1738517774,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 121230,
       "num": 128067,
       "word": "cpgz",
@@ -3115,6 +3123,14 @@
       "category": "民生新闻,正能量"
     },
     {
+      "raw_hot": 41649,
+      "num": 41649,
+      "word": "拜托这可是陈哲远亲自选的女主",
+      "onboard_time": 1738519154,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 40513,
       "num": 40513,
       "word": "闫妮至今不知道沙溢家在哪",
@@ -3129,6 +3145,14 @@
       "onboard_time": 1738441390,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 40002,
+      "num": 60934,
+      "word": "宋佳不想被夸漂亮那是爸妈的功劳",
+      "onboard_time": 1738518974,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 39941,
@@ -3227,6 +3251,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 26554,
+      "num": 33913,
+      "word": "张极成长记录vlog",
+      "onboard_time": 1738519993,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26021,
       "num": 137943,
       "word": "NBA真过年了",
@@ -3248,6 +3280,14 @@
       "word": "当中国象棋遇到中国空军",
       "onboard_time": 1738492518,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23790,
+      "num": 128258,
+      "word": "立春不等于入春",
+      "onboard_time": 1738516515,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -3297,14 +3337,6 @@
       "onboard_time": 1738448052,
       "rank": 41,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 18566,
-      "num": 128258,
-      "word": "立春不等于入春",
-      "onboard_time": 1738516515,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15236,
