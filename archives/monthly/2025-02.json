@@ -1,7 +1,15 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738452932795,
+  "endTime": 1738460646408,
   "band_list": [
+    {
+      "raw_hot": 2422563,
+      "num": 2422563,
+      "word": "引爆沼气小孩家庭付天价赔偿系谣言",
+      "onboard_time": 1738456816,
+      "rank": 0,
+      "category": "辟谣/通报"
+    },
     {
       "raw_hot": 2254313,
       "num": 2254313,
@@ -113,6 +121,22 @@
       "onboard_time": 1738419200,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1061054,
+      "num": 1061054,
+      "word": "大年初五迎财神",
+      "onboard_time": 1738451652,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1051629,
+      "num": 383932,
+      "word": "谢娜女儿",
+      "onboard_time": 1738457235,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1047525,
@@ -249,6 +273,14 @@
       "onboard_time": 1738397178,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 791825,
+      "num": 525710,
+      "word": "美国对中国商品加征10%关税",
+      "onboard_time": 1738453994,
+      "rank": 5,
+      "category": "国际时政,财经"
     },
     {
       "raw_hot": 744060,
@@ -579,12 +611,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 428670,
-      "num": 428670,
-      "word": "大年初五迎财神",
-      "onboard_time": 1738451652,
-      "rank": 6,
-      "category": "民生新闻"
+      "raw_hot": 430674,
+      "num": 430674,
+      "word": "我竟然是申公豹说的大山",
+      "onboard_time": 1738457356,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 425460,
@@ -643,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 401178,
+      "num": 401178,
+      "word": "美国宣布对加拿大墨西哥征收25%关税",
+      "onboard_time": 1738454654,
+      "rank": 8,
+      "category": "国际时政,财经"
+    },
+    {
       "raw_hot": 399068,
       "num": 357214,
       "word": "哪吒2预测总票房超67.4亿",
@@ -657,6 +697,14 @@
       "onboard_time": 1738409359,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 395643,
+      "num": 395643,
+      "word": "正月初五为啥又叫破五",
+      "onboard_time": 1738423639,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 393218,
@@ -699,12 +747,36 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 375312,
+      "num": 237921,
+      "word": "大年初五和0713男团一起登高",
+      "onboard_time": 1738454654,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 372551,
       "num": 372551,
       "word": "警方通报电瓶车高速逆行致汽车撞护栏",
       "onboard_time": 1738368916,
       "rank": 4,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 371856,
+      "num": 230554,
+      "word": "宝妈着急上厕所把孩子交给武警",
+      "onboard_time": 1738430475,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 363957,
+      "num": 363957,
+      "word": "哪吒2已破14项影史纪录",
+      "onboard_time": 1738456094,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 363747,
@@ -729,14 +801,6 @@
       "onboard_time": 1738397056,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 357589,
-      "num": 357589,
-      "word": "正月初五为啥又叫破五",
-      "onboard_time": 1738423639,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 353904,
@@ -769,6 +833,22 @@
       "onboard_time": 1738392556,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 344784,
+      "num": 344784,
+      "word": "今年年夜饭预制菜在一片骂声中卖爆",
+      "onboard_time": 1738451652,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 343154,
+      "num": 349745,
+      "word": "初五过年习俗",
+      "onboard_time": 1738426938,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 339821,
@@ -825,6 +905,14 @@
       "onboard_time": 1738388656,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 330316,
+      "num": 330316,
+      "word": "国色芳华锁V",
+      "onboard_time": 1738455016,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 327194,
@@ -915,6 +1003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 283244,
+      "num": 283244,
+      "word": "背刺何惟芳的店员成了杨紫的粉丝",
+      "onboard_time": 1738458137,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 280742,
       "num": 185387,
       "word": "哪吒2或将进入影史票房前三",
@@ -945,6 +1041,14 @@
       "onboard_time": 1738394416,
       "rank": 46,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 274521,
+      "num": 274521,
+      "word": "票房",
+      "onboard_time": 1738315277,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 270127,
@@ -1043,14 +1147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 245646,
-      "num": 349745,
-      "word": "初五过年习俗",
-      "onboard_time": 1738426938,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 245337,
       "num": 153471,
       "word": "各省特色饮料",
@@ -1081,6 +1177,14 @@
       "onboard_time": 1738387637,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 237930,
+      "num": 237930,
+      "word": "肖战射雕武汉路演",
+      "onboard_time": 1738458616,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 237621,
@@ -1217,6 +1321,14 @@
       "onboard_time": 1738345094,
       "rank": 48,
       "category": "健康医疗,运动健身"
+    },
+    {
+      "raw_hot": 214643,
+      "num": 214643,
+      "word": "大年初五恭喜发财",
+      "onboard_time": 1738457956,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 212628,
@@ -1379,6 +1491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192394,
+      "num": 192394,
+      "word": "马布里",
+      "onboard_time": 1738455016,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192151,
       "num": 192151,
       "word": "王一珩直播",
@@ -1409,6 +1529,14 @@
       "onboard_time": 1738382897,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189817,
+      "num": 189817,
+      "word": "开封通报不倒翁断裂女演员摔倒",
+      "onboard_time": 1738458677,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189487,
@@ -1683,6 +1811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164114,
+      "num": 164114,
+      "word": "白色橄榄树滤镜",
+      "onboard_time": 1738456455,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163937,
       "num": 134369,
       "word": "蛇年春晚你还在循环播放哪首歌",
@@ -1835,6 +1971,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 153055,
+      "num": 153055,
+      "word": "全网关注的白衣小哥获表彰",
+      "onboard_time": 1738458857,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 152445,
       "num": 122204,
       "word": "哪吒2里的反父权",
@@ -1931,6 +2075,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145458,
+      "num": 145458,
+      "word": "仙台有树剧宣",
+      "onboard_time": 1738456455,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144641,
       "num": 131328,
       "word": "丁程鑫被问恋爱相关问题不敢动",
@@ -1945,6 +2097,14 @@
       "onboard_time": 1738391596,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 144122,
+      "num": 144122,
+      "word": "网友路遇罕见白鹿如画中走出",
+      "onboard_time": 1738453514,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142899,
@@ -2003,6 +2163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139604,
+      "num": 139604,
+      "word": "吴泽林你没事惹孟子义干嘛",
+      "onboard_time": 1738457356,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138987,
       "num": 138987,
       "word": "火锅店4年春节发了150万给员工",
@@ -2049,6 +2217,14 @@
       "onboard_time": 1738371917,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134915,
+      "num": 134915,
+      "word": "美国最新贸易保护措施遭到广泛反对",
+      "onboard_time": 1738454654,
+      "rank": 35,
+      "category": "国际时政,财经"
     },
     {
       "raw_hot": 134031,
@@ -2107,14 +2283,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 132007,
-      "num": 70176,
-      "word": "宝妈着急上厕所把孩子交给武警",
-      "onboard_time": 1738430475,
-      "rank": 29,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 131013,
       "num": 131013,
       "word": "易烊千玺5年变化",
@@ -2139,6 +2307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 130107,
+      "num": 130107,
+      "word": "跟着刘诗诗一起好好爱自己",
+      "onboard_time": 1738457055,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128776,
       "num": 97043,
       "word": "张婧仪的电台",
@@ -2147,12 +2323,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127711,
-      "num": 47526,
-      "word": "今年年夜饭预制菜在一片骂声中卖爆",
-      "onboard_time": 1738451652,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 128020,
+      "num": 128020,
+      "word": "仙台有树",
+      "onboard_time": 1738459336,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 127333,
@@ -2283,6 +2459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121063,
+      "num": 121063,
+      "word": "射雕里肖战台词发音",
+      "onboard_time": 1738457776,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 120284,
       "num": 120284,
       "word": "DeepSeek满血版高速专线",
@@ -2403,6 +2587,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 113150,
+      "num": 140338,
+      "word": "高速上为救人女子喊到声音嘶哑",
+      "onboard_time": 1738413438,
+      "rank": 49,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 113066,
       "num": 113066,
       "word": "封神第二部票房破8亿",
@@ -2473,6 +2665,14 @@
       "onboard_time": 1738427535,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109617,
+      "num": 109617,
+      "word": "中国将担任联合国安理会轮值主席国",
+      "onboard_time": 1738451652,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 109592,
@@ -2585,6 +2785,14 @@
       "onboard_time": 1738422559,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 103332,
+      "num": 103332,
+      "word": "红包",
+      "onboard_time": 1738459819,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103150,
@@ -2731,12 +2939,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 90882,
-      "num": 140338,
-      "word": "高速上为救人女子喊到声音嘶哑",
-      "onboard_time": 1738413438,
-      "rank": 49,
-      "category": "正能量"
+      "raw_hot": 90902,
+      "num": 90902,
+      "word": "财神爷 财神奶",
+      "onboard_time": 1738454174,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90768,
@@ -2835,6 +3043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82594,
+      "num": 90661,
+      "word": "英伟达市值一周缩水超5000亿美元",
+      "onboard_time": 1738457897,
+      "rank": 48,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 82338,
       "num": 82338,
       "word": "亚冬会公众门票赛时销售启动",
@@ -2915,6 +3131,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 76296,
+      "num": 90614,
+      "word": "春节把饺子忙坏了",
+      "onboard_time": 1738457416,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 76133,
       "num": 207303,
       "word": "黄友政3比1特奥多罗",
@@ -2953,14 +3177,6 @@
       "onboard_time": 1738415060,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 73957,
-      "num": 73957,
-      "word": "中国将担任联合国安理会轮值主席国",
-      "onboard_time": 1738451652,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 71523,
@@ -3331,20 +3547,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 32941,
-      "num": 32050,
-      "word": "票房",
-      "onboard_time": 1738315277,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 32438,
       "num": 195275,
       "word": "白色橄榄树里的宋冉梁洁都对上了",
       "onboard_time": 1738394598,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 32321,
+      "num": 1107083,
+      "word": "文化中国行非遗雅韵中国年",
+      "onboard_time": 1738420759,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 32124,
@@ -3393,14 +3609,6 @@
       "onboard_time": 1738445111,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28083,
-      "num": 1107083,
-      "word": "文化中国行非遗雅韵中国年",
-      "onboard_time": 1738420759,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 27833,
