@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738503341462,
+  "endTime": 1738505905361,
   "band_list": [
     {
       "raw_hot": 3232536,
@@ -179,6 +179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1102314,
+      "num": 579705,
+      "word": "杨天真瘦了",
+      "onboard_time": 1738501579,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1090797,
       "num": 495720,
       "word": "没想过是梁洁但意外合适",
@@ -235,14 +243,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1036721,
-      "num": 579705,
-      "word": "杨天真瘦了",
-      "onboard_time": 1738501579,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1034483,
       "num": 1165517,
       "word": "DeepSeek成精",
@@ -259,12 +259,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1007552,
+      "num": 1007552,
+      "word": "肯德基满地垃圾无人收",
+      "onboard_time": 1738501940,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 991425,
       "num": 706839,
       "word": "马丽方律师声明",
       "onboard_time": 1738372997,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 985336,
+      "num": 473543,
+      "word": "哪吒",
+      "onboard_time": 1738409000,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 984784,
@@ -619,14 +635,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 584163,
-      "num": 455312,
-      "word": "哪吒",
-      "onboard_time": 1738409000,
-      "rank": 7,
-      "category": "电影"
-    },
-    {
       "raw_hot": 581065,
       "num": 581065,
       "word": "王楚钦vs宇田幸矢",
@@ -696,6 +704,14 @@
       "word": "唐探是真扛老啊",
       "onboard_time": 1738400897,
       "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 554625,
+      "num": 455270,
+      "word": "哪吒2爆火后唯一受害者出现",
+      "onboard_time": 1738503980,
+      "rank": 11,
       "category": "电影"
     },
     {
@@ -811,6 +827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 490633,
+      "num": 453289,
+      "word": "肖战对接回应包机问题",
+      "onboard_time": 1738504520,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 490069,
       "num": 359939,
       "word": "余承恩死嘴快憋住啊",
@@ -841,6 +865,14 @@
       "onboard_time": 1738404618,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 487570,
+      "num": 487570,
+      "word": "美方曾请求我国整类列管芬太尼类物质",
+      "onboard_time": 1738502359,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 485536,
@@ -899,12 +931,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 451935,
+      "num": 451935,
+      "word": "桐心薇泯",
+      "onboard_time": 1738502780,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 451238,
-      "num": 233009,
+      "num": 271585,
       "word": "建议过年在家不要总穿睡衣",
       "onboard_time": 1738496598,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 445582,
+      "num": 445582,
+      "word": "孙颖莎提出目前赛历安排过于密集",
+      "onboard_time": 1738500858,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 445497,
@@ -1083,28 +1131,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 394491,
-      "num": 320559,
-      "word": "肯德基满地垃圾无人收",
-      "onboard_time": 1738501940,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 393218,
       "num": 258856,
       "word": "梁洁的戏把陈哲远看哭了",
       "onboard_time": 1738407557,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 389754,
-      "num": 389754,
-      "word": "孙颖莎提出目前赛历安排过于密集",
-      "onboard_time": 1738500858,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 388366,
@@ -1268,7 +1300,7 @@
     },
     {
       "raw_hot": 350894,
-      "num": 276707,
+      "num": 282942,
       "word": "鹿童配音演员回应因反派被骂",
       "onboard_time": 1738501700,
       "rank": 14,
@@ -1441,6 +1473,14 @@
       "onboard_time": 1738420759,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 322067,
+      "num": 322067,
+      "word": "张佳宁晒合照为宋茜庆生",
+      "onboard_time": 1738503800,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 318130,
@@ -2259,14 +2299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 199856,
-      "num": 193116,
-      "word": "桐心薇泯",
-      "onboard_time": 1738502780,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 199699,
       "num": 237628,
       "word": "5个孩子凑2000压岁钱给奶奶买手机",
@@ -2308,7 +2340,7 @@
     },
     {
       "raw_hot": 196742,
-      "num": 148316,
+      "num": 160962,
       "word": "王楚钦建议提高WTT总决赛奖金",
       "onboard_time": 1738503200,
       "rank": 32,
@@ -2363,20 +2395,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194916,
+      "num": 194916,
+      "word": "诗情画奕",
+      "onboard_time": 1738505240,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194874,
       "num": 194874,
       "word": "相思令大结局",
       "onboard_time": 1738492038,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 194690,
-      "num": 194690,
-      "word": "美方曾请求我国整类列管芬太尼类物质",
-      "onboard_time": 1738502359,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 194670,
@@ -2619,12 +2651,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 184936,
+      "num": 184936,
+      "word": "相关部门正调查乘客飞机捡鞭炮事件",
+      "onboard_time": 1738503200,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184687,
       "num": 184687,
       "word": "国产剧终于有不撕不吵的婆媳了",
       "onboard_time": 1738471457,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184429,
+      "num": 184429,
+      "word": "剪毁了刘海却意外变成人生发型",
+      "onboard_time": 1738503980,
+      "rank": 31,
+      "category": "美妆"
     },
     {
       "raw_hot": 184265,
@@ -2755,6 +2803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177421,
+      "num": 177421,
+      "word": "口臭可能是肝在求救",
+      "onboard_time": 1738502599,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 176872,
       "num": 171795,
       "word": "电影射雕英雄传侠之大者",
@@ -2841,6 +2897,14 @@
       "onboard_time": 1738335679,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171875,
+      "num": 171875,
+      "word": "蒋欣夸杨紫很可爱",
+      "onboard_time": 1738504339,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 171853,
@@ -3491,6 +3555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144505,
+      "num": 144505,
+      "word": "突然懂得学好英语的重要性了",
+      "onboard_time": 1738500619,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144298,
       "num": 144298,
       "word": "红豆生南国唐探有男模",
@@ -3529,6 +3601,14 @@
       "onboard_time": 1738480878,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 143751,
+      "num": 143751,
+      "word": "封神2把中国故事讲给世界听",
+      "onboard_time": 1738505119,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 143747,
@@ -3619,14 +3699,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 140696,
-      "num": 140696,
-      "word": "突然懂得学好英语的重要性了",
-      "onboard_time": 1738500619,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 140514,
       "num": 140514,
       "word": "北京下雪",
@@ -3691,20 +3763,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 138336,
-      "num": 138336,
-      "word": "口臭可能是肝在求救",
-      "onboard_time": 1738502599,
-      "rank": 37,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 138269,
       "num": 138269,
       "word": "用研究生奖学金给妈妈准备新年惊喜",
       "onboard_time": 1738392917,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138184,
+      "num": 138184,
+      "word": "澳洲偶遇奚梦瑶何猷君带女儿出游",
+      "onboard_time": 1738503860,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 137439,
@@ -3923,6 +3995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127964,
+      "num": 127964,
+      "word": "李宇春去亲戚火锅店聚餐",
+      "onboard_time": 1738504401,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127466,
       "num": 127466,
       "word": "女子记录自己一年掉发39357根",
@@ -4008,6 +4088,14 @@
       "word": "刘晓庆不服输也不扶人",
       "onboard_time": 1738389917,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 125444,
+      "num": 125444,
+      "word": "04年清华学生拿的是男频爽文剧本",
+      "onboard_time": 1738505840,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -4563,6 +4651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 101884,
+      "num": 461717,
+      "word": "美对华加征10%关税背后真相",
+      "onboard_time": 1738504700,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 101202,
       "num": 101202,
       "word": "鞋舌总是歪的人原来是鞋带没绑好",
@@ -4889,6 +4985,14 @@
       "onboard_time": 1738479617,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 80642,
+      "num": 187422,
+      "word": "加拿大总理宣布反制措施",
+      "onboard_time": 1738505359,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 80474,
@@ -5251,6 +5355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 50607,
+      "num": 288929,
+      "word": "网友春节DIY太卷了",
+      "onboard_time": 1738504640,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49930,
       "num": 202435,
       "word": "湖人开始相信玄学了",
@@ -5313,6 +5425,14 @@
       "onboard_time": 1738494859,
       "rank": 32,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 44643,
+      "num": 466863,
+      "word": "这个春节最忙的是嘴吧",
+      "onboard_time": 1738505180,
+      "rank": 8,
+      "category": "正能量"
     },
     {
       "raw_hot": 44348,
@@ -5463,6 +5583,14 @@
       "num": 770004,
       "word": "锣鼓一响敲出新年满满精气神",
       "onboard_time": 1738486398,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33847,
+      "num": 519110,
+      "word": "文化中国行二十四节气经典美食",
+      "onboard_time": 1738504758,
       "rank": 2,
       "category": "民生新闻"
     },
@@ -5699,14 +5827,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 16355,
-      "num": 149488,
-      "word": "相关部门正调查乘客飞机捡鞭炮事件",
-      "onboard_time": 1738503200,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 15236,
       "num": 15791,
       "word": "封神",
@@ -5833,6 +5953,14 @@
       "onboard_time": 1738447451,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9932,
+      "num": 260907,
+      "word": "谷爱凌出征亚冬会",
+      "onboard_time": 1738503740,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 9709,
