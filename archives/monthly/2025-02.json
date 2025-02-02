@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738465170923,
+  "endTime": 1738466684203,
   "band_list": [
     {
       "raw_hot": 3232536,
@@ -83,6 +83,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1222674,
+      "num": 1222674,
+      "word": "射雕票房",
+      "onboard_time": 1738462818,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1178033,
       "num": 1178033,
       "word": "大年初五迎财神",
@@ -129,14 +137,6 @@
       "onboard_time": 1738419200,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1063095,
-      "num": 1063095,
-      "word": "射雕票房",
-      "onboard_time": 1738462818,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 1051629,
@@ -235,6 +235,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 873649,
+      "num": 406306,
+      "word": "谢娜晒7岁的跳跳俏俏",
+      "onboard_time": 1738460659,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 855783,
       "num": 855783,
       "word": "大年初四全国人民都挺忙",
@@ -284,11 +292,19 @@
     },
     {
       "raw_hot": 791825,
-      "num": 553118,
+      "num": 739710,
       "word": "美国对中国商品加征10%关税",
       "onboard_time": 1738453994,
       "rank": 5,
       "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 787836,
+      "num": 787836,
+      "word": "饺子导演肉眼可见的变老",
+      "onboard_time": 1738461977,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 744060,
@@ -331,14 +347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 713182,
-      "num": 713182,
-      "word": "饺子导演肉眼可见的变老",
-      "onboard_time": 1738461977,
-      "rank": 4,
-      "category": "电影"
-    },
-    {
       "raw_hot": 711363,
       "num": 711363,
       "word": "DeepSeek高情商",
@@ -353,6 +361,14 @@
       "onboard_time": 1738422739,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 694756,
+      "num": 694756,
+      "word": "哪吒导演说认没认真观众一眼就看得出",
+      "onboard_time": 1738463778,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 676106,
@@ -379,14 +395,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 651845,
-      "num": 406306,
-      "word": "谢娜晒7岁的跳跳俏俏",
-      "onboard_time": 1738460659,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 624843,
       "num": 267900,
       "word": "马斯克点赞无锡拈花湾景区视频",
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 592280,
-      "num": 190182,
+      "num": 445876,
       "word": "DeepSeek",
       "onboard_time": 1738331600,
       "rank": 10,
@@ -465,6 +473,14 @@
       "onboard_time": 1738400897,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 552019,
+      "num": 552019,
+      "word": "在暴雪时分",
+      "onboard_time": 1738464678,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 546700,
@@ -819,6 +835,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 369263,
+      "num": 369263,
+      "word": "接财神需要注意什么",
+      "onboard_time": 1738462577,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 363747,
       "num": 363747,
       "word": "三家美国巨头同日接入DeepSeek",
@@ -987,12 +1011,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 322946,
-      "num": 322946,
-      "word": "接财神需要注意什么",
-      "onboard_time": 1738462577,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 324941,
+      "num": 229634,
+      "word": "SM新练习生年龄公开",
+      "onboard_time": 1738465217,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 322240,
@@ -1060,7 +1084,7 @@
     },
     {
       "raw_hot": 301812,
-      "num": 254083,
+      "num": 262897,
       "word": "小蛇糕",
       "onboard_time": 1738462637,
       "rank": 21,
@@ -1147,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256737,
+      "num": 200915,
+      "word": "生理性喜欢消失的原因",
+      "onboard_time": 1738464497,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 256172,
       "num": 140659,
       "word": "程潇和妹妹新加坡度假",
@@ -1185,14 +1217,6 @@
       "onboard_time": 1738365613,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 251665,
-      "num": 251665,
-      "word": "哪吒导演说认没认真观众一眼就看得出",
-      "onboard_time": 1738463778,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 250611,
@@ -1347,6 +1371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225239,
+      "num": 225239,
+      "word": "外甥女悄悄给未婚小姨塞压岁钱",
+      "onboard_time": 1738461737,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 224813,
       "num": 114794,
       "word": "颜安帮助理姐征婚",
@@ -1355,12 +1387,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 222835,
-      "num": 222835,
-      "word": "外甥女悄悄给未婚小姨塞压岁钱",
-      "onboard_time": 1738461737,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 224666,
+      "num": 224666,
+      "word": "梁洁演技",
+      "onboard_time": 1738461557,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 221623,
@@ -1369,14 +1401,6 @@
       "onboard_time": 1738326858,
       "rank": 41,
       "category": "国际时政,互联网"
-    },
-    {
-      "raw_hot": 221542,
-      "num": 221542,
-      "word": "梁洁演技",
-      "onboard_time": 1738461557,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 218905,
@@ -1491,6 +1515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203702,
+      "num": 203702,
+      "word": "金智秀好美",
+      "onboard_time": 1738461075,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203361,
       "num": 203361,
       "word": "大年初四灶王爷是C位",
@@ -1505,6 +1537,14 @@
       "onboard_time": 1738455016,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202845,
+      "num": 202845,
+      "word": "终于有全女性家族的国产剧了",
+      "onboard_time": 1738466178,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 201061,
@@ -1619,6 +1659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189637,
+      "num": 189637,
+      "word": "墨西哥总统宣布将对美国加征关税",
+      "onboard_time": 1738463238,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 189487,
       "num": 145927,
       "word": "云秀行",
@@ -1657,6 +1705,14 @@
       "onboard_time": 1738409660,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187882,
+      "num": 187882,
+      "word": "哪吒之魔童闹海",
+      "onboard_time": 1738452074,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 187837,
@@ -1803,6 +1859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 175190,
+      "num": 175190,
+      "word": "邓为新剧是灭世版涂山璟",
+      "onboard_time": 1738465336,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174638,
       "num": 174638,
       "word": "白色橄榄树滤镜",
@@ -1849,14 +1913,6 @@
       "onboard_time": 1738401617,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 169228,
-      "num": 169228,
-      "word": "金智秀好美",
-      "onboard_time": 1738461075,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 168085,
@@ -1931,6 +1987,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 162788,
+      "num": 162788,
+      "word": "朱雨玲发博吐槽签位",
+      "onboard_time": 1738465877,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162731,
       "num": 162731,
       "word": "第五人格",
@@ -1979,6 +2043,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160760,
+      "num": 160760,
+      "word": "英语好是大学生最大的刻板印象",
+      "onboard_time": 1738462037,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 160583,
+      "num": 160583,
+      "word": "国防部发布当那一天来临MV",
+      "onboard_time": 1738461798,
+      "rank": 43,
+      "category": "军事"
+    },
+    {
       "raw_hot": 160444,
       "num": 92945,
       "word": "你好星期六",
@@ -1987,20 +2067,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160251,
+      "num": 192225,
+      "word": "商务部回应美方对中国产品加征10%关税",
+      "onboard_time": 1738466537,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 159125,
       "num": 159125,
       "word": "憋一周就为这一秒爽",
       "onboard_time": 1738414397,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 158898,
-      "num": 158898,
-      "word": "墨西哥总统宣布将对美国加征关税",
-      "onboard_time": 1738463238,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 158582,
@@ -2083,8 +2163,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150060,
-      "num": 150060,
+      "raw_hot": 150942,
+      "num": 150942,
       "word": "2025摩羯座会发生的3件好事",
       "onboard_time": 1738461138,
       "rank": 33,
@@ -2107,14 +2187,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 147897,
-      "num": 147897,
-      "word": "英语好是大学生最大的刻板印象",
-      "onboard_time": 1738462037,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 147625,
       "num": 132240,
       "word": "建议所有导演都向饺子学习",
@@ -2131,12 +2203,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 146765,
-      "num": 146765,
-      "word": "国防部发布当那一天来临MV",
-      "onboard_time": 1738461798,
-      "rank": 43,
-      "category": "军事"
+      "raw_hot": 147215,
+      "num": 147215,
+      "word": "当代年轻人过年统一现状",
+      "onboard_time": 1738464017,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 146722,
@@ -2203,6 +2275,14 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 145304,
+      "num": 226094,
+      "word": "关税战没有赢家",
+      "onboard_time": 1738463117,
+      "rank": 35,
+      "category": "国际时政,财经"
+    },
+    {
       "raw_hot": 144641,
       "num": 131328,
       "word": "丁程鑫被问恋爱相关问题不敢动",
@@ -2235,6 +2315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 143747,
+      "num": 143747,
+      "word": "明天就到立春了",
+      "onboard_time": 1738464976,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143705,
       "num": 143705,
       "word": "2月5号回公司的我",
@@ -2251,12 +2339,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 142192,
-      "num": 142192,
-      "word": "当代年轻人过年统一现状",
-      "onboard_time": 1738464017,
-      "rank": 39,
-      "category": "幽默"
+      "raw_hot": 142029,
+      "num": 142029,
+      "word": "第一次见说相声按句收费的",
+      "onboard_time": 1738466477,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 142027,
@@ -2297,14 +2385,6 @@
       "onboard_time": 1738378517,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140180,
-      "num": 140180,
-      "word": "在暴雪时分",
-      "onboard_time": 1738464678,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 139668,
@@ -2368,14 +2448,6 @@
       "word": "大年初四迎灶神啦",
       "onboard_time": 1738371917,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 134191,
-      "num": 134191,
-      "word": "明天就到立春了",
-      "onboard_time": 1738464976,
-      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -2507,20 +2579,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 126309,
-      "num": 148014,
-      "word": "关税战没有赢家",
-      "onboard_time": 1738463117,
-      "rank": 35,
-      "category": "国际时政,财经"
-    },
-    {
       "raw_hot": 126264,
       "num": 100772,
       "word": "刘昊然嘴在前面飞脑子在后面追",
       "onboard_time": 1738427237,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 126078,
+      "num": 126078,
+      "word": "年轻人有自己的碰财神方式",
+      "onboard_time": 1738465757,
+      "rank": 47,
+      "category": "正能量"
     },
     {
       "raw_hot": 125830,
@@ -2537,14 +2609,6 @@
       "onboard_time": 1738389917,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 125069,
-      "num": 125069,
-      "word": "哪吒之魔童闹海",
-      "onboard_time": 1738452074,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 124081,
@@ -2633,14 +2697,6 @@
       "onboard_time": 1738457776,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 121741,
-      "num": 121741,
-      "word": "生理性喜欢消失的原因",
-      "onboard_time": 1738464497,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 120284,
@@ -3579,6 +3635,14 @@
       "category": "民生新闻,幽默"
     },
     {
+      "raw_hot": 49367,
+      "num": 144840,
+      "word": "点赞微博有小财神特效",
+      "onboard_time": 1738466657,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47462,
       "num": 47462,
       "word": "春晚机器人蒸的煮的还有活的",
@@ -3748,7 +3812,7 @@
     },
     {
       "raw_hot": 33064,
-      "num": 1107083,
+      "num": 1184112,
       "word": "文化中国行非遗雅韵中国年",
       "onboard_time": 1738420759,
       "rank": 2,
