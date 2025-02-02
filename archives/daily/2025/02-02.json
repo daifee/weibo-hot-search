@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738491674320,
+  "endTime": 1738492645693,
   "band_list": [
     {
       "raw_hot": 3232536,
@@ -123,6 +123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 896042,
+      "num": 324016,
+      "word": "饺子导演手绘破亿海报笔要画冒烟了",
+      "onboard_time": 1738487057,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 873649,
       "num": 554747,
       "word": "谢娜晒7岁的跳跳俏俏",
@@ -161,14 +169,6 @@
       "onboard_time": 1738468277,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 831609,
-      "num": 324016,
-      "word": "饺子导演手绘破亿海报笔要画冒烟了",
-      "onboard_time": 1738487057,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 820000,
@@ -403,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 444651,
+      "num": 287991,
+      "word": "申公豹斯内普",
+      "onboard_time": 1738489337,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 439289,
       "num": 439289,
       "word": "孤注一掷",
@@ -425,6 +433,14 @@
       "onboard_time": 1738477938,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 429283,
+      "num": 283075,
+      "word": "原来穿裙子和鞋子是有公式的",
+      "onboard_time": 1738488558,
+      "rank": 39,
+      "category": "时尚"
     },
     {
       "raw_hot": 417041,
@@ -555,14 +571,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 352042,
-      "num": 287991,
-      "word": "申公豹斯内普",
-      "onboard_time": 1738489337,
-      "rank": 11,
-      "category": "电影"
-    },
-    {
       "raw_hot": 347169,
       "num": 284057,
       "word": "原来王安宇动作指导是太乙真人",
@@ -635,14 +643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 327058,
-      "num": 283075,
-      "word": "原来穿裙子和鞋子是有公式的",
-      "onboard_time": 1738488558,
-      "rank": 39,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 322240,
       "num": 140620,
       "word": "敖丙传",
@@ -668,7 +668,7 @@
     },
     {
       "raw_hot": 296658,
-      "num": 220174,
+      "num": 228699,
       "word": "原来微信视频的美颜只有自己能看到",
       "onboard_time": 1738480217,
       "rank": 37,
@@ -851,6 +851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 216546,
+      "num": 216546,
+      "word": "SM新男团出道方式",
+      "onboard_time": 1738491318,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214643,
       "num": 214643,
       "word": "大年初五恭喜发财",
@@ -947,6 +955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200783,
+      "num": 284880,
+      "word": "春运返程客流已进入高峰期",
+      "onboard_time": 1738490538,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199441,
       "num": 199441,
       "word": "湖人vs尼克斯",
@@ -961,6 +977,14 @@
       "onboard_time": 1738486157,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196627,
+      "num": 196627,
+      "word": "樊振东获得世界杯参赛资格",
+      "onboard_time": 1738492038,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 195950,
@@ -987,12 +1011,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 194827,
-      "num": 194827,
-      "word": "SM新男团出道方式",
-      "onboard_time": 1738491318,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 194874,
+      "num": 194874,
+      "word": "相思令大结局",
+      "onboard_time": 1738492038,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 194670,
@@ -1195,6 +1219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162613,
+      "num": 290739,
+      "word": "河南台辉高速发生多车追尾事故",
+      "onboard_time": 1738485018,
+      "rank": 46,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 161962,
       "num": 161962,
       "word": "刘晓庆 爱看短剧",
@@ -1225,6 +1257,14 @@
       "onboard_time": 1738461798,
       "rank": 43,
       "category": "军事"
+    },
+    {
+      "raw_hot": 160303,
+      "num": 160303,
+      "word": "女孩辞岁一晚跑几百家收入2000多",
+      "onboard_time": 1738492577,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160161,
@@ -1555,14 +1595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129523,
-      "num": 290739,
-      "word": "河南台辉高速发生多车追尾事故",
-      "onboard_time": 1738485018,
-      "rank": 46,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 128039,
       "num": 100459,
       "word": "于冬 蛟龙行动绝不撤档",
@@ -1739,6 +1771,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 109241,
+      "num": 109241,
+      "word": "国际乒联工作组与中国乒协举行会议",
+      "onboard_time": 1738492458,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107798,
       "num": 107798,
       "word": "为什么现在年轻人这么抵制相亲",
@@ -1776,6 +1816,14 @@
       "word": "肖战回复蔡少芬",
       "onboard_time": 1738405097,
       "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 105598,
+      "num": 171708,
+      "word": "陈牧驰说强烈的郊感在召唤",
+      "onboard_time": 1738492458,
+      "rank": 36,
       "category": "电影"
     },
     {
@@ -1977,14 +2025,6 @@
       "onboard_time": 1738461977,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 69445,
-      "num": 284880,
-      "word": "春运返程客流已进入高峰期",
-      "onboard_time": 1738490538,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 69396,
@@ -2252,7 +2292,7 @@
     },
     {
       "raw_hot": 28882,
-      "num": 146717,
+      "num": 171410,
       "word": "资中辟谣扔鞭炮男孩家属追责网帖",
       "onboard_time": 1738481836,
       "rank": 22,
@@ -2265,6 +2305,14 @@
       "onboard_time": 1738436592,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25136,
+      "num": 180753,
+      "word": "当中国象棋遇到中国空军",
+      "onboard_time": 1738492518,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23200,
@@ -2305,6 +2353,14 @@
       "onboard_time": 1738448052,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 17488,
+      "num": 227141,
+      "word": "王曼昱vs梅谢芙",
+      "onboard_time": 1738492038,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 15236,

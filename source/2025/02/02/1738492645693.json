@@ -1,0 +1,410 @@
+{
+  "runTime": 1738492645693,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1977053,
+        "num": 1977053,
+        "word": "哪吒2因为时长砍掉镜头",
+        "onboard_time": 1738486578,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1040280,
+        "num": 1040280,
+        "word": "您的五块正在骂您的三千块",
+        "onboard_time": 1738480338,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26836,
+        "num": 588554,
+        "word": "锣鼓一响敲出新年满满精气神",
+        "onboard_time": 1738486398,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1519695,
+        "num": 553332,
+        "word": "内娱又要多一个7人男团了",
+        "onboard_time": 1738486517,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 436465,
+        "num": 436465,
+        "word": "中方强烈不满坚决反对",
+        "onboard_time": 1738473198,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 257362,
+        "num": 257362,
+        "word": "金店店主怕金价不涨又怕涨得太快",
+        "onboard_time": 1738485557,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 896042,
+        "num": 257358,
+        "word": "饺子导演手绘破亿海报笔要画冒烟了",
+        "onboard_time": 1738487057,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 649585,
+        "num": 257182,
+        "word": "梁洁试戏片段演哭剧组所有人",
+        "onboard_time": 1738489998,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255330,
+        "num": 255330,
+        "word": "湖人交易惊呆NBA群星",
+        "onboard_time": 1738489998,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250752,
+        "num": 250752,
+        "word": "大年初五迎财神",
+        "onboard_time": 1738451652,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 444651,
+        "num": 250688,
+        "word": "申公豹斯内普",
+        "onboard_time": 1738489337,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 429283,
+        "num": 250556,
+        "word": "原来穿裙子和鞋子是有公式的",
+        "onboard_time": 1738488558,
+        "rank": 11,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 403585,
+        "num": 250374,
+        "word": "河南一影院10分钟一场哪吒2",
+        "onboard_time": 1738479437,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 366376,
+        "num": 250251,
+        "word": "丁禹兮春晚高清大图",
+        "onboard_time": 1738482918,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339937,
+        "num": 250084,
+        "word": "哪吒2票房破30亿",
+        "onboard_time": 1738481718,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 298083,
+        "num": 249890,
+        "word": "原来王安宇动作指导是太乙真人",
+        "onboard_time": 1738486757,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 249886,
+        "num": 249886,
+        "word": "在极深地下2400米追光是什么体验",
+        "onboard_time": 1738487239,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230771,
+        "num": 230771,
+        "word": "东契奇加盟湖人",
+        "onboard_time": 1738475118,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202296,
+        "num": 228699,
+        "word": "原来微信视频的美颜只有自己能看到",
+        "onboard_time": 1738480217,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17488,
+        "num": 227141,
+        "word": "王曼昱vs梅谢芙",
+        "onboard_time": 1738492038,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268497,
+        "num": 225736,
+        "word": "异人之下2导演致歉",
+        "onboard_time": 1738478837,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245932,
+        "num": 223462,
+        "word": "关晓彤为哪吒2国漫打call",
+        "onboard_time": 1738484716,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 221136,
+        "num": 221136,
+        "word": "不要因为花父母的钱而感到内疚",
+        "onboard_time": 1738485978,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216546,
+        "num": 216546,
+        "word": "SM新男团出道方式",
+        "onboard_time": 1738491318,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208270,
+        "num": 208270,
+        "word": "马龙夏露日本逛街",
+        "onboard_time": 1738486157,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200783,
+        "num": 200783,
+        "word": "春运返程客流已进入高峰期",
+        "onboard_time": 1738490538,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196627,
+        "num": 196627,
+        "word": "樊振东获得世界杯参赛资格",
+        "onboard_time": 1738492038,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194874,
+        "num": 194874,
+        "word": "相思令大结局",
+        "onboard_time": 1738492038,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189300,
+        "num": 189300,
+        "word": "哪吒2敖闰的反派暴烈美学",
+        "onboard_time": 1738491018,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189286,
+        "num": 189286,
+        "word": "哪吒之魔童闹海",
+        "onboard_time": 1738452074,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187805,
+        "num": 187805,
+        "word": "赵本山纽约演出",
+        "onboard_time": 1738480217,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 182329,
+        "num": 182329,
+        "word": "人人人人人你人人人人人",
+        "onboard_time": 1738484477,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25136,
+        "num": 180753,
+        "word": "当中国象棋遇到中国空军",
+        "onboard_time": 1738492518,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179882,
+        "num": 179882,
+        "word": "死丫头演够了没该我了吧",
+        "onboard_time": 1738490118,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176308,
+        "num": 176308,
+        "word": "哪吒2",
+        "onboard_time": 1738481718,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174100,
+        "num": 174100,
+        "word": "河南一影院一天88场哪吒2",
+        "onboard_time": 1738485018,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105598,
+        "num": 171708,
+        "word": "陈牧驰说强烈的郊感在召唤",
+        "onboard_time": 1738492458,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26256,
+        "num": 171410,
+        "word": "资中辟谣扔鞭炮男孩家属追责网帖",
+        "onboard_time": 1738481836,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162613,
+        "num": 171286,
+        "word": "河南台辉高速发生多车追尾事故",
+        "onboard_time": 1738485018,
+        "rank": 38,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 171256,
+        "num": 171256,
+        "word": "小狗被亲戚抱走母女连夜冒雨接回",
+        "onboard_time": 1738489998,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168420,
+        "num": 168420,
+        "word": "引爆沼气小孩家庭付天价赔偿系谣言",
+        "onboard_time": 1738456816,
+        "rank": 40,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 166977,
+        "num": 166977,
+        "word": "躲春",
+        "onboard_time": 1738489639,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166652,
+        "num": 166652,
+        "word": "樊振东陈梦确定无缘世界杯",
+        "onboard_time": 1738477938,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160303,
+        "num": 160303,
+        "word": "女孩辞岁一晚跑几百家收入2000多",
+        "onboard_time": 1738492577,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159419,
+        "num": 159419,
+        "word": "肖战现场回应愤怒的脏脏包",
+        "onboard_time": 1738482497,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129221,
+        "num": 129221,
+        "word": "掌心",
+        "onboard_time": 1738486157,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117701,
+        "num": 117701,
+        "word": "哪吒敖丙都没生气",
+        "onboard_time": 1738485857,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114963,
+        "num": 114963,
+        "word": "射雕票房",
+        "onboard_time": 1738462818,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110378,
+        "num": 110378,
+        "word": "谢娜晒7岁的跳跳俏俏",
+        "onboard_time": 1738460659,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109241,
+        "num": 109241,
+        "word": "国际乒联工作组与中国乒协举行会议",
+        "onboard_time": 1738492458,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#在古城古巷感受文化脉动#"
+    }
+  }
+}
