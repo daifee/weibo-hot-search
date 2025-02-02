@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738470275157,
+  "endTime": 1738471108806,
   "band_list": [
     {
       "raw_hot": 3232536,
@@ -291,6 +291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 839414,
+      "num": 572264,
+      "word": "阐教 截教",
+      "onboard_time": 1738468277,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 817025,
       "num": 817025,
       "word": "蒋欣自曝保持身材的秘诀",
@@ -313,14 +321,6 @@
       "onboard_time": 1738397178,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 793035,
-      "num": 572264,
-      "word": "阐教 截教",
-      "onboard_time": 1738468277,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 791825,
@@ -425,6 +425,14 @@
       "onboard_time": 1738424178,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 657481,
+      "num": 657481,
+      "word": "从春晚配角到主角他熬了20年",
+      "onboard_time": 1738468757,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 641071,
@@ -649,14 +657,6 @@
       "onboard_time": 1738462577,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 470848,
-      "num": 470848,
-      "word": "从春晚配角到主角他熬了20年",
-      "onboard_time": 1738468757,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 461178,
@@ -1003,6 +1003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 335617,
+      "num": 335617,
+      "word": "哪吒票房",
+      "onboard_time": 1738467317,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 334972,
       "num": 334972,
       "word": "腾讯视频二月大剧片单",
@@ -1064,6 +1072,14 @@
       "word": "张杰谢娜带双胞胎女儿游迪士尼",
       "onboard_time": 1738469059,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 328188,
+      "num": 328188,
+      "word": "伊能静 暴力的人都是懦夫",
+      "onboard_time": 1738469118,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -1155,14 +1171,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 287746,
-      "num": 287746,
-      "word": "伊能静 暴力的人都是懦夫",
-      "onboard_time": 1738469118,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 286629,
       "num": 286629,
       "word": "王楚钦可爱童年照",
@@ -1201,14 +1209,6 @@
       "onboard_time": 1738394416,
       "rank": 46,
       "category": "综艺,体育"
-    },
-    {
-      "raw_hot": 274855,
-      "num": 274855,
-      "word": "哪吒票房",
-      "onboard_time": 1738467317,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 270127,
@@ -1329,6 +1329,14 @@
       "onboard_time": 1738323498,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 241248,
+      "num": 241248,
+      "word": "女追男算是遇到棉花了",
+      "onboard_time": 1738469898,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 240536,
@@ -1731,6 +1739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191773,
+      "num": 207665,
+      "word": "鹭卓Snipper",
+      "onboard_time": 1738470078,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 191704,
       "num": 137269,
       "word": "只要没结婚就能一直收红包",
@@ -1747,11 +1763,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 190249,
+      "num": 190249,
+      "word": "梁洁演晋江女主适配度",
+      "onboard_time": 1738470738,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190052,
       "num": 139147,
       "word": "谁懂暗恋成真的含金量",
       "onboard_time": 1738382897,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 189920,
+      "num": 189920,
+      "word": "再婚的爸强势的妈破碎的她",
+      "onboard_time": 1738470437,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -1915,12 +1947,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 177904,
+      "num": 177904,
+      "word": "无世界排名无法参加ITTF澳门世界杯",
+      "onboard_time": 1738470198,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177857,
       "num": 110268,
       "word": "唐探安娜从油画里走出来的公主",
       "onboard_time": 1738397417,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 177530,
+      "num": 622486,
+      "word": "春节假期开始倒数",
+      "onboard_time": 1738468578,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176872,
@@ -2011,14 +2059,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 168751,
-      "num": 207665,
-      "word": "鹭卓Snipper",
-      "onboard_time": 1738470078,
-      "rank": 29,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 168085,
       "num": 118869,
       "word": "申公豹",
@@ -2072,14 +2112,6 @@
       "word": "陈哲远现偶",
       "onboard_time": 1738468037,
       "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 164048,
-      "num": 164048,
-      "word": "女追男算是遇到棉花了",
-      "onboard_time": 1738469898,
-      "rank": 37,
       "category": "剧集"
     },
     {
@@ -2291,6 +2323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151635,
+      "num": 151635,
+      "word": "詹姆斯",
+      "onboard_time": 1738470797,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150942,
       "num": 150942,
       "word": "2025摩羯座会发生的3件好事",
@@ -2427,6 +2467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 144212,
+      "num": 144212,
+      "word": "恋与制作人",
+      "onboard_time": 1738469478,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 144122,
       "num": 144122,
       "word": "网友路遇罕见白鹿如画中走出",
@@ -2465,6 +2513,14 @@
       "onboard_time": 1738374976,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142737,
+      "num": 142737,
+      "word": "农村的面子经济学",
+      "onboard_time": 1738470618,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142029,
@@ -2819,14 +2875,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 122345,
-      "num": 122345,
-      "word": "恋与制作人",
-      "onboard_time": 1738469478,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 122229,
       "num": 168650,
       "word": "身边的年味",
@@ -2969,14 +3017,6 @@
       "onboard_time": 1738418119,
       "rank": 48,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 113987,
-      "num": 622486,
-      "word": "春节假期开始倒数",
-      "onboard_time": 1738468578,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113150,
@@ -3172,7 +3212,7 @@
     },
     {
       "raw_hot": 105172,
-      "num": 164065,
+      "num": 275655,
       "word": "惠英红65岁摇滚拽妈",
       "onboard_time": 1738469958,
       "rank": 36,
@@ -3305,6 +3345,14 @@
       "onboard_time": 1738382358,
       "rank": 9,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 96575,
+      "num": 300490,
+      "word": "外交部回应美对中国产品加征10%关税",
+      "onboard_time": 1738470676,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 95894,
@@ -3851,12 +3899,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 43792,
+      "num": 606835,
+      "word": "大年初五祝你有求币应",
+      "onboard_time": 1738469417,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43262,
       "num": 43262,
       "word": "三亚西岛致歉",
       "onboard_time": 1738332920,
       "rank": 42,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 42442,
+      "num": 751433,
+      "word": "这些文物故事真的很配春节",
+      "onboard_time": 1738468458,
+      "rank": 2,
+      "category": "民生新闻,正能量"
     },
     {
       "raw_hot": 41620,
@@ -3905,14 +3969,6 @@
       "onboard_time": 1738441390,
       "rank": 13,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 38259,
-      "num": 751433,
-      "word": "这些文物故事真的很配春节",
-      "onboard_time": 1738468458,
-      "rank": 2,
-      "category": "民生新闻,正能量"
     },
     {
       "raw_hot": 37688,
@@ -4027,20 +4083,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31606,
+      "num": 156830,
+      "word": "今年你收到蛇形红包了吗",
+      "onboard_time": 1738468878,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 30668,
       "num": 30668,
       "word": "埃文凯尔哭着告别中国3月还来",
       "onboard_time": 1738365132,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30535,
-      "num": 156830,
-      "word": "今年你收到蛇形红包了吗",
-      "onboard_time": 1738468878,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 29678,
@@ -4057,14 +4113,6 @@
       "onboard_time": 1738347492,
       "rank": 47,
       "category": "电竞,体育"
-    },
-    {
-      "raw_hot": 25333,
-      "num": 606835,
-      "word": "大年初五祝你有求币应",
-      "onboard_time": 1738469417,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25246,
