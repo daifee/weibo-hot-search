@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738513501648,
+  "endTime": 1738514428986,
   "band_list": [
     {
       "raw_hot": 3232536,
@@ -555,6 +555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 701498,
+      "num": 306164,
+      "word": "陈瑶 AI",
+      "onboard_time": 1738512798,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 698591,
       "num": 698591,
       "word": "腹部增大可能是肝病加重",
@@ -657,6 +665,14 @@
       "onboard_time": 1738392015,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 613428,
+      "num": 288831,
+      "word": "韩泰山",
+      "onboard_time": 1738513578,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 595826,
@@ -1187,6 +1203,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 385127,
+      "num": 385127,
+      "word": "美国自己生病却让别人吃药",
+      "onboard_time": 1738510759,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 381732,
       "num": 226108,
       "word": "申公豹 丑强惨",
@@ -1403,14 +1427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 338341,
-      "num": 338341,
-      "word": "美国自己生病却让别人吃药",
-      "onboard_time": 1738510759,
-      "rank": 5,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 335785,
       "num": 189045,
       "word": "女子除夕错转1万元红包给陌生人",
@@ -1595,12 +1611,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 304759,
-      "num": 282634,
-      "word": "陈瑶 AI",
-      "onboard_time": 1738512798,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 300386,
+      "num": 281377,
+      "word": "申公豹一家有话要说",
+      "onboard_time": 1738508721,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 299570,
@@ -1673,14 +1689,6 @@
       "onboard_time": 1738507459,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 281377,
-      "num": 281377,
-      "word": "申公豹一家有话要说",
-      "onboard_time": 1738508721,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 280742,
@@ -3747,6 +3755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143733,
+      "num": 270084,
+      "word": "公安部回应美方以芬太尼等为由加征关税",
+      "onboard_time": 1738511719,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 143705,
       "num": 143705,
       "word": "2月5号回公司的我",
@@ -3841,14 +3857,6 @@
       "onboard_time": 1738379477,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 139649,
-      "num": 270084,
-      "word": "公安部回应美方以芬太尼等为由加征关税",
-      "onboard_time": 1738511719,
-      "rank": 14,
-      "category": "国内时政"
     },
     {
       "raw_hot": 139604,
@@ -4001,6 +4009,14 @@
       "onboard_time": 1738501760,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132961,
+      "num": 113031,
+      "word": "钟楚曦说哪吒太牛了",
+      "onboard_time": 1738513277,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 132576,
@@ -4225,6 +4241,14 @@
       "onboard_time": 1738389917,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125556,
+      "num": 125556,
+      "word": "为了相亲把照片设置成了红包封面",
+      "onboard_time": 1738512318,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 124913,
@@ -4667,6 +4691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107370,
+      "num": 262508,
+      "word": "大年初六22点10分迎来立春",
+      "onboard_time": 1738512918,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107240,
       "num": 274522,
       "word": "特朗普称黑鹰直升机飞得太高",
@@ -4681,14 +4713,6 @@
       "onboard_time": 1738383498,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 106253,
-      "num": 106253,
-      "word": "钟楚曦说哪吒太牛了",
-      "onboard_time": 1738513277,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 106073,
@@ -4745,14 +4769,6 @@
       "onboard_time": 1738367234,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 104103,
-      "num": 104103,
-      "word": "为了相亲把照片设置成了红包封面",
-      "onboard_time": 1738512318,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 103893,
@@ -4945,14 +4961,6 @@
       "onboard_time": 1738369335,
       "rank": 47,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 93859,
-      "num": 125667,
-      "word": "大年初六22点10分迎来立春",
-      "onboard_time": 1738512918,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93621,
@@ -5251,6 +5259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 77648,
+      "num": 77648,
+      "word": "大年初六",
+      "onboard_time": 1738513697,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77400,
       "num": 118696,
       "word": "三巨头同日接入DeepSeek",
@@ -5380,7 +5396,7 @@
     },
     {
       "raw_hot": 66069,
-      "num": 66069,
+      "num": 69834,
       "word": "刘国梁对WTT提出4点建议",
       "onboard_time": 1738513338,
       "rank": 48,
@@ -5521,6 +5537,14 @@
       "onboard_time": 1738430655,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53642,
+      "num": 68297,
+      "word": "王嘉尔这么会扭不要命了",
+      "onboard_time": 1738514358,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 53116,
