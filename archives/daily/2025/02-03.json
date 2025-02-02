@@ -1,6 +1,6 @@
 {
   "startTime": 1738513501648,
-  "endTime": 1738535877870,
+  "endTime": 1738538424793,
   "band_list": [
     {
       "raw_hot": 1266714,
@@ -387,6 +387,30 @@
       "category": "电影"
     },
     {
+      "raw_hot": 87438,
+      "num": 87438,
+      "word": "立春",
+      "onboard_time": 1738538353,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86673,
+      "num": 86673,
+      "word": "拜托这可是陈哲远亲自选的女主",
+      "onboard_time": 1738519154,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 81893,
+      "num": 81893,
+      "word": "大年初六逢立春",
+      "onboard_time": 1738529650,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79787,
       "num": 79787,
       "word": "妈妈20年前用60盒录像带记录儿子",
@@ -459,20 +483,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 43801,
-      "num": 41649,
-      "word": "拜托这可是陈哲远亲自选的女主",
-      "onboard_time": 1738519154,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 39941,
       "num": 51785,
       "word": "国乒对WTT建议各有侧重",
       "onboard_time": 1738511357,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38692,
+      "num": 38692,
+      "word": "亲戚未经同意抱走没断奶小狗",
+      "onboard_time": 1738537513,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 36316,
@@ -483,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36187,
+      "num": 36187,
+      "word": "妈妈将女儿扮成哪吒超像的",
+      "onboard_time": 1738534572,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 35487,
       "num": 456194,
       "word": "文化中国行二十四节气经典美食",
@@ -491,20 +523,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32163,
+      "num": 32163,
+      "word": "仙台有树全员抱树等开播",
+      "onboard_time": 1738525570,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 30278,
       "num": 30278,
       "word": "电影哪吒之魔童闹海",
       "onboard_time": 1738522333,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 28464,
-      "num": 28464,
-      "word": "大年初六逢立春",
-      "onboard_time": 1738529650,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27494,
@@ -523,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 24592,
+      "num": 29385,
+      "word": "文化中国行立春节气",
+      "onboard_time": 1738538353,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23790,
       "num": 128258,
       "word": "立春不等于入春",
@@ -537,22 +577,6 @@
       "onboard_time": 1738524614,
       "rank": 48,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 19818,
-      "num": 19818,
-      "word": "妈妈将女儿扮成哪吒超像的",
-      "onboard_time": 1738534572,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 17899,
-      "num": 19815,
-      "word": "仙台有树全员抱树等开播",
-      "onboard_time": 1738525570,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 9621,
