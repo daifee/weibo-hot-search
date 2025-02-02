@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738464663458,
+  "endTime": 1738465170923,
   "band_list": [
     {
       "raw_hot": 3232536,
@@ -27,6 +27,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1063095,
+      "num": 1063095,
+      "word": "射雕票房",
+      "onboard_time": 1738462818,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1061357,
       "num": 1061357,
       "word": "女生一觉醒来相亲对象已站床边",
@@ -41,14 +49,6 @@
       "onboard_time": 1738457235,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 827788,
-      "num": 827788,
-      "word": "射雕票房",
-      "onboard_time": 1738462818,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 791825,
@@ -67,20 +67,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 713182,
+      "num": 713182,
+      "word": "饺子导演肉眼可见的变老",
+      "onboard_time": 1738461977,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 701613,
       "num": 701613,
       "word": "五路财神",
       "onboard_time": 1738422739,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 677427,
-      "num": 677427,
-      "word": "饺子导演肉眼可见的变老",
-      "onboard_time": 1738461977,
-      "rank": 4,
-      "category": "电影"
     },
     {
       "raw_hot": 676106,
@@ -97,6 +97,14 @@
       "onboard_time": 1738424178,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 651845,
+      "num": 406306,
+      "word": "谢娜晒7岁的跳跳俏俏",
+      "onboard_time": 1738460659,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 628097,
@@ -137,14 +145,6 @@
       "onboard_time": 1738421719,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 509714,
-      "num": 406306,
-      "word": "谢娜晒7岁的跳跳俏俏",
-      "onboard_time": 1738460659,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 489464,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 375312,
-      "num": 237921,
+      "num": 252709,
       "word": "大年初五和0713男团一起登高",
       "onboard_time": 1738454654,
       "rank": 20,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 371856,
-      "num": 239147,
+      "num": 253541,
       "word": "宝妈着急上厕所把孩子交给武警",
       "onboard_time": 1738430475,
       "rank": 29,
@@ -299,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 322946,
+      "num": 322946,
+      "word": "接财神需要注意什么",
+      "onboard_time": 1738462577,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 322240,
       "num": 140620,
       "word": "敖丙传",
@@ -316,11 +324,19 @@
     },
     {
       "raw_hot": 301812,
-      "num": 226676,
+      "num": 254083,
       "word": "小蛇糕",
       "onboard_time": 1738462637,
       "rank": 21,
       "category": "美食"
+    },
+    {
+      "raw_hot": 251665,
+      "num": 251665,
+      "word": "哪吒导演说认没认真观众一眼就看得出",
+      "onboard_time": 1738463778,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 248567,
@@ -329,22 +345,6 @@
       "onboard_time": 1738404497,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 247004,
-      "num": 247004,
-      "word": "接财神需要注意什么",
-      "onboard_time": 1738462577,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 246352,
-      "num": 223169,
-      "word": "哪吒导演说认没认真观众一眼就看得出",
-      "onboard_time": 1738463778,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 237930,
@@ -371,8 +371,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 218916,
-      "num": 218916,
+      "raw_hot": 221542,
+      "num": 221542,
       "word": "梁洁演技",
       "onboard_time": 1738461557,
       "rank": 48,
@@ -435,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162553,
+      "num": 162553,
+      "word": "DeepSeek",
+      "onboard_time": 1738462458,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 161008,
       "num": 139975,
       "word": "哪吒2",
@@ -443,12 +451,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 153932,
-      "num": 153932,
-      "word": "DeepSeek",
-      "onboard_time": 1738462458,
-      "rank": 30,
-      "category": "互联网"
+      "raw_hot": 158898,
+      "num": 158898,
+      "word": "墨西哥总统宣布将对美国加征关税",
+      "onboard_time": 1738463238,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 150060,
+      "num": 150060,
+      "word": "2025摩羯座会发生的3件好事",
+      "onboard_time": 1738461138,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 147897,
@@ -457,6 +473,14 @@
       "onboard_time": 1738462037,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 146765,
+      "num": 146765,
+      "word": "国防部发布当那一天来临MV",
+      "onboard_time": 1738461798,
+      "rank": 43,
+      "category": "军事"
     },
     {
       "raw_hot": 145458,
@@ -507,12 +531,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142192,
+      "num": 142192,
+      "word": "当代年轻人过年统一现状",
+      "onboard_time": 1738464017,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 141121,
       "num": 141121,
       "word": "儿媳过年在家爆改婆婆",
       "onboard_time": 1738419140,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140180,
+      "num": 140180,
+      "word": "在暴雪时分",
+      "onboard_time": 1738464678,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 139615,
@@ -547,12 +587,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 132824,
-      "num": 132824,
-      "word": "2025摩羯座会发生的3件好事",
-      "onboard_time": 1738461138,
-      "rank": 33,
-      "category": "情感"
+      "raw_hot": 134191,
+      "num": 134191,
+      "word": "明天就到立春了",
+      "onboard_time": 1738464976,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130107,
@@ -561,14 +601,6 @@
       "onboard_time": 1738457055,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 129633,
-      "num": 129633,
-      "word": "当代年轻人过年统一现状",
-      "onboard_time": 1738464017,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 128039,
@@ -585,6 +617,14 @@
       "onboard_time": 1738459336,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126309,
+      "num": 148014,
+      "word": "关税战没有赢家",
+      "onboard_time": 1738463117,
+      "rank": 35,
+      "category": "国际时政,财经"
     },
     {
       "raw_hot": 126264,
@@ -627,20 +667,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121741,
+      "num": 121741,
+      "word": "生理性喜欢消失的原因",
+      "onboard_time": 1738464497,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 120944,
       "num": 139855,
       "word": "各省特色饮料",
       "onboard_time": 1738414519,
       "rank": 28,
       "category": "美食"
-    },
-    {
-      "raw_hot": 119839,
-      "num": 119839,
-      "word": "国防部发布当那一天来临MV",
-      "onboard_time": 1738461798,
-      "rank": 43,
-      "category": "军事"
     },
     {
       "raw_hot": 119596,
@@ -689,14 +729,6 @@
       "onboard_time": 1738454174,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 112318,
-      "num": 112318,
-      "word": "墨西哥总统宣布将对美国加征关税",
-      "onboard_time": 1738463238,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 109690,
@@ -768,14 +800,6 @@
       "word": "鞋舌总是歪的人原来是鞋带没绑好",
       "onboard_time": 1738461377,
       "rank": 45,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 101160,
-      "num": 101160,
-      "word": "生理性喜欢消失的原因",
-      "onboard_time": 1738464497,
-      "rank": 49,
       "category": "情感"
     },
     {
@@ -867,6 +891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 70783,
+      "num": 215972,
+      "word": "快船爵士交易",
+      "onboard_time": 1738461977,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69396,
       "num": 69396,
       "word": "禹事不慌张",
@@ -896,6 +928,14 @@
       "word": "哪吒2魔童闹海",
       "onboard_time": 1738434314,
       "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 60116,
+      "num": 255947,
+      "word": "哪吒彩蛋",
+      "onboard_time": 1738464137,
+      "rank": 18,
       "category": "电影"
     },
     {
@@ -996,7 +1036,7 @@
     },
     {
       "raw_hot": 33064,
-      "num": 835815,
+      "num": 1067885,
       "word": "文化中国行非遗雅韵中国年",
       "onboard_time": 1738420759,
       "rank": 2,
@@ -1017,14 +1057,6 @@
       "onboard_time": 1738445111,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27735,
-      "num": 233591,
-      "word": "哪吒彩蛋",
-      "onboard_time": 1738464137,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 25246,
