@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738516710552,
+  "endTime": 1738517722664,
   "band_list": [
     {
       "raw_hot": 3232536,
@@ -135,6 +135,14 @@
       "num": 1281311,
       "word": "哪吒2票房逆跌",
       "onboard_time": 1738334779,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1266714,
+      "num": 1266714,
+      "word": "影院回应一天排99场哪吒2",
+      "onboard_time": 1738515616,
       "rank": 0,
       "category": "电影"
     },
@@ -481,14 +489,6 @@
       "onboard_time": 1738453994,
       "rank": 5,
       "category": "国际时政,财经"
-    },
-    {
-      "raw_hot": 788740,
-      "num": 788740,
-      "word": "影院回应一天排99场哪吒2",
-      "onboard_time": 1738515616,
-      "rank": 0,
-      "category": "电影"
     },
     {
       "raw_hot": 787836,
@@ -1612,7 +1612,7 @@
     },
     {
       "raw_hot": 305099,
-      "num": 113031,
+      "num": 125013,
       "word": "钟楚曦说哪吒太牛了",
       "onboard_time": 1738513277,
       "rank": 37,
@@ -4627,6 +4627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 109700,
+      "num": 109700,
+      "word": "10岁男孩用海姆立克法救妈妈",
+      "onboard_time": 1738514955,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109698,
       "num": 446878,
       "word": "春节假期已过半",
@@ -5201,14 +5209,6 @@
       "onboard_time": 1738479617,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 80491,
-      "num": 86779,
-      "word": "10岁男孩用海姆立克法救妈妈",
-      "onboard_time": 1738514955,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80474,
@@ -6083,6 +6083,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 18566,
+      "num": 128258,
+      "word": "立春不等于入春",
+      "onboard_time": 1738516515,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18153,
       "num": 34448,
       "word": "哪吒2出品方称对观众期待很忐忑",
@@ -6153,14 +6161,6 @@
       "onboard_time": 1738401257,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 12119,
-      "num": 72541,
-      "word": "立春不等于入春",
-      "onboard_time": 1738516515,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11732,
