@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738592494749,
+  "endTime": 1738593571889,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1259,6 +1259,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 544098,
+      "num": 453972,
+      "word": "吴京 流浪地球3",
+      "onboard_time": 1738591349,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 541536,
       "num": 279018,
       "word": "王宝强说唐探4踩好点了",
@@ -1337,14 +1345,6 @@
       "onboard_time": 1738507580,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 508834,
-      "num": 453972,
-      "word": "吴京 流浪地球3",
-      "onboard_time": 1738591349,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 506110,
@@ -1497,6 +1497,14 @@
       "onboard_time": 1738540515,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 484589,
+      "num": 419721,
+      "word": "奥司他韦不能乱吃",
+      "onboard_time": 1738592372,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 482127,
@@ -1723,6 +1731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 420576,
+      "num": 420576,
+      "word": "哪吒2成史上最快破40亿电影",
+      "onboard_time": 1738590269,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 417041,
       "num": 417041,
       "word": "墨西哥官员称加税将由美消费者埋单",
@@ -1891,6 +1907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 380663,
+      "num": 380663,
+      "word": "立春",
+      "onboard_time": 1738538353,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 380441,
       "num": 380441,
       "word": "一架小型飞机在美国费城坠毁",
@@ -1969,14 +1993,6 @@
       "onboard_time": 1738567348,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 366130,
-      "num": 366130,
-      "word": "立春",
-      "onboard_time": 1738538353,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 363747,
@@ -2200,14 +2216,6 @@
       "word": "哪吒2导演春节蹲家画破亿海报",
       "onboard_time": 1738553648,
       "rank": 9,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 331633,
-      "num": 331633,
-      "word": "哪吒2成史上最快破40亿电影",
-      "onboard_time": 1738590269,
-      "rank": 22,
       "category": "电影"
     },
     {
@@ -2435,6 +2443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300682,
+      "num": 300682,
+      "word": "春节档六部电影豆瓣开分",
+      "onboard_time": 1738591108,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 300386,
       "num": 281377,
       "word": "申公豹一家有话要说",
@@ -2467,6 +2483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 294419,
+      "num": 429537,
+      "word": "流感合并肺炎有这些症状",
+      "onboard_time": 1738590810,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 293864,
       "num": 240909,
       "word": "马龙夏露日本逛街",
@@ -2497,14 +2521,6 @@
       "onboard_time": 1738485557,
       "rank": 17,
       "category": "财经"
-    },
-    {
-      "raw_hot": 289663,
-      "num": 289663,
-      "word": "春节档六部电影豆瓣开分",
-      "onboard_time": 1738591108,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 286925,
@@ -2841,14 +2857,6 @@
       "onboard_time": 1738323319,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 250160,
-      "num": 250160,
-      "word": "奥司他韦不能乱吃",
-      "onboard_time": 1738592372,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 248507,
@@ -3331,6 +3339,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 211729,
+      "num": 211729,
+      "word": "哪吒逆跌",
+      "onboard_time": 1738592611,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 210961,
       "num": 210961,
       "word": "90后北大选调生任乡镇党委书记",
@@ -3345,6 +3361,14 @@
       "onboard_time": 1738396158,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 209728,
+      "num": 420036,
+      "word": "媒体称樊振东要的不仅仅是参赛资格",
+      "onboard_time": 1738593510,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 209564,
@@ -4979,6 +5003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 149913,
+      "num": 149913,
+      "word": "敖光 精灵王",
+      "onboard_time": 1738592492,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 149408,
       "num": 149408,
       "word": "2025版流感诊疗方案",
@@ -5643,6 +5675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129867,
+      "num": 247102,
+      "word": "孙颖莎连续正手发力太帅了",
+      "onboard_time": 1738592132,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129738,
       "num": 129738,
       "word": "不敢相信浓眉换东契奇",
@@ -6155,20 +6195,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 114053,
+      "num": 425510,
+      "word": "30年前命案逃犯大年初一落网",
+      "onboard_time": 1738591530,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114039,
       "num": 114039,
       "word": "一片洗碗的丝瓜络海外能售五刀乐",
       "onboard_time": 1738368254,
       "rank": 33,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 114028,
-      "num": 247982,
-      "word": "流感合并肺炎有这些症状",
-      "onboard_time": 1738590810,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 114020,
@@ -6337,14 +6377,6 @@
       "onboard_time": 1738396037,
       "rank": 38,
       "category": "财经"
-    },
-    {
-      "raw_hot": 109121,
-      "num": 247102,
-      "word": "孙颖莎连续正手发力太帅了",
-      "onboard_time": 1738592132,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 109103,
@@ -6745,6 +6777,14 @@
       "onboard_time": 1738422200,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 95849,
+      "num": 149752,
+      "word": "中方舰艇编队正常过航巴西兰海峡",
+      "onboard_time": 1738593091,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 95742,
@@ -7643,14 +7683,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 45265,
-      "num": 425510,
-      "word": "30年前命案逃犯大年初一落网",
-      "onboard_time": 1738591530,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 44348,
       "num": 44348,
       "word": "小沈阳你说中国人不骗中国人",
@@ -7736,6 +7768,14 @@
       "word": "短剧剧组春节在横店抢雪景",
       "onboard_time": 1738389917,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40388,
+      "num": 433785,
+      "word": "节后工作日天气",
+      "onboard_time": 1738592310,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -8032,14 +8072,6 @@
       "word": "文化中国行立春节气",
       "onboard_time": 1738538353,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24001,
-      "num": 248773,
-      "word": "节后工作日天气",
-      "onboard_time": 1738592310,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
