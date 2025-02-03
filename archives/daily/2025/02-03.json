@@ -1,6 +1,6 @@
 {
   "startTime": 1738513501648,
-  "endTime": 1738557658969,
+  "endTime": 1738560107724,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -67,6 +67,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 2693767,
+      "num": 589146,
+      "word": "众星发声悼念",
+      "onboard_time": 1738557822,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2534820,
       "num": 2534820,
       "word": "正月初六把穷气送出门",
@@ -131,20 +139,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1350355,
+      "num": 545425,
+      "word": "熙媛 我始终觉得你应该更幸福",
+      "onboard_time": 1738556624,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1172601,
       "num": 1172601,
       "word": "立春咬春病不沾身",
       "onboard_time": 1738507459,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1166444,
-      "num": 480385,
-      "word": "熙媛 我始终觉得你应该更幸福",
-      "onboard_time": 1738556624,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 1162968,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 1134882,
-      "num": 405012,
+      "num": 685312,
       "word": "日本流感到底有多严重",
       "onboard_time": 1738556207,
       "rank": 34,
@@ -259,6 +267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 658198,
+      "num": 384129,
+      "word": "泡沫之夏",
+      "onboard_time": 1738556865,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 637372,
       "num": 637372,
       "word": "孙颖莎王楚钦王曼昱等集体发声",
@@ -291,12 +307,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 544591,
+      "num": 544591,
+      "word": "一次流感为何会引发肺炎",
+      "onboard_time": 1738559316,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 539693,
       "num": 283954,
       "word": "肯德基满地垃圾无人收",
       "onboard_time": 1738501940,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 526925,
+      "num": 526925,
+      "word": "得流感自救不要错过黄金48小时",
+      "onboard_time": 1738559436,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 514261,
+      "num": 546185,
+      "word": "流感季日本患者或超952万人",
+      "onboard_time": 1738558179,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 511214,
@@ -339,6 +379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 482127,
+      "num": 482127,
+      "word": "流感并发症有多危险",
+      "onboard_time": 1738557164,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 452016,
       "num": 452016,
       "word": "比特币",
@@ -371,12 +419,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 423733,
-      "num": 384129,
-      "word": "泡沫之夏",
-      "onboard_time": 1738556865,
-      "rank": 23,
-      "category": "剧集"
+      "raw_hot": 414040,
+      "num": 273364,
+      "word": "范玮琪发黑色图片悼念",
+      "onboard_time": 1738559076,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 410534,
@@ -483,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 326694,
+      "num": 326694,
+      "word": "初六送走坏运气",
+      "onboard_time": 1738557644,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 326085,
       "num": 326085,
       "word": "过年真的好费钱啊",
@@ -523,6 +579,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 303731,
+      "num": 303731,
+      "word": "哪吒2有望成中国影史新票房冠军",
+      "onboard_time": 1738557164,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 300959,
+      "num": 300959,
+      "word": "侠女般的一生轰轰烈烈",
+      "onboard_time": 1738558241,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300386,
       "num": 281377,
       "word": "申公豹一家有话要说",
@@ -544,6 +616,14 @@
       "word": "肖战对接回应包机问题",
       "onboard_time": 1738504520,
       "rank": 21,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 279845,
+      "num": 279845,
+      "word": "吴京包场",
+      "onboard_time": 1738557402,
+      "rank": 40,
       "category": "电影"
     },
     {
@@ -585,14 +665,6 @@
       "onboard_time": 1738556207,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 250510,
-      "num": 411251,
-      "word": "流感并发症有多危险",
-      "onboard_time": 1738557164,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 247474,
@@ -643,20 +715,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 226989,
-      "num": 226989,
-      "word": "哪吒2有望成中国影史新票房冠军",
-      "onboard_time": 1738557164,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 225619,
       "num": 225619,
       "word": "拜托这可是陈哲远亲自选的女主",
       "onboard_time": 1738519154,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 219177,
+      "num": 219177,
+      "word": "我想起她说 她要过快转人生",
+      "onboard_time": 1738559495,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 215637,
@@ -675,12 +747,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 208100,
-      "num": 208100,
-      "word": "吴京包场",
-      "onboard_time": 1738557402,
-      "rank": 40,
-      "category": "电影"
+      "raw_hot": 206983,
+      "num": 206983,
+      "word": "人生的容错率大得超乎你的想象",
+      "onboard_time": 1738559857,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 206846,
@@ -739,12 +811,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199881,
+      "num": 273448,
+      "word": "颖儿演比夏冬春还折腾的浪姐",
+      "onboard_time": 1738558000,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198871,
       "num": 216487,
       "word": "被卡住的中年人在同学聚会交换秘密",
       "onboard_time": 1738554131,
       "rank": 39,
       "category": "情感,民生新闻"
+    },
+    {
+      "raw_hot": 192053,
+      "num": 646578,
+      "word": "专家称这一波流感预计到3月才过季",
+      "onboard_time": 1738557284,
+      "rank": 13,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 188070,
@@ -987,6 +1075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 116236,
+      "num": 151912,
+      "word": "第五人格",
+      "onboard_time": 1738558478,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 115985,
       "num": 142079,
       "word": "养娃赛道也算让漫画党闯进来了",
@@ -1067,14 +1163,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 106079,
-      "num": 646578,
-      "word": "专家称这一波流感预计到3月才过季",
-      "onboard_time": 1738557284,
-      "rank": 13,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 102635,
       "num": 102635,
       "word": "陈哲远演技",
@@ -1105,6 +1193,14 @@
       "onboard_time": 1738546460,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99320,
+      "num": 303753,
+      "word": "巴特勒不愿续约勇士",
+      "onboard_time": 1738559195,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 95197,
