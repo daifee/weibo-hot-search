@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738547859228,
+  "endTime": 1738551034863,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -11,12 +11,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 24643049,
+      "num": 24643049,
+      "word": "大S",
+      "onboard_time": 1738546518,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 21251893,
       "num": 21251893,
       "word": "李明德评论",
       "onboard_time": 1735990643,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 20202979,
+      "num": 20202979,
+      "word": "大S去世",
+      "onboard_time": 1738550873,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 18851987,
@@ -41,14 +57,6 @@
       "onboard_time": 1738064609,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 18503372,
-      "num": 18503372,
-      "word": "大S",
-      "onboard_time": 1738546518,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 16704808,
@@ -801,6 +809,14 @@
       "onboard_time": 1736072185,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 3016091,
+      "num": 291730,
+      "word": "小英老公出轨",
+      "onboard_time": 1738549593,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 3011890,
@@ -2384,22 +2400,6 @@
       "word": "王锵上线了",
       "onboard_time": 1735995328,
       "rank": 6,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1777241,
-      "num": 1777241,
-      "word": "明星红包",
-      "onboard_time": 1738049958,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1772288,
-      "num": 1772288,
-      "word": "无忧传媒暂停与张大大业务",
-      "onboard_time": 1737851058,
-      "rank": 0,
       "category": "艺人"
     }
   ],

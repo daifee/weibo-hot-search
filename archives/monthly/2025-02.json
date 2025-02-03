@@ -1,13 +1,21 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738547859228,
+  "endTime": 1738551034863,
   "band_list": [
     {
-      "raw_hot": 18503372,
-      "num": 18503372,
+      "raw_hot": 24643049,
+      "num": 24643049,
       "word": "大S",
       "onboard_time": 1738546518,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 20202979,
+      "num": 20202979,
+      "word": "大S去世",
+      "onboard_time": 1738550873,
+      "rank": 0,
       "category": "艺人"
     },
     {
@@ -17,6 +25,14 @@
       "onboard_time": 1738456816,
       "rank": 0,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 3016091,
+      "num": 291730,
+      "word": "小英老公出轨",
+      "onboard_time": 1738549593,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 2254313,
@@ -707,6 +723,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 601002,
+      "num": 315653,
+      "word": "北京女生在泰国2400平米的家",
+      "onboard_time": 1738544716,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 595826,
       "num": 595826,
       "word": "哪吒2导演曾因特效与团队产生严重分歧",
@@ -849,6 +873,14 @@
       "onboard_time": 1738502359,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 519205,
+      "num": 519205,
+      "word": "正月初六把穷气送出门",
+      "onboard_time": 1738545918,
+      "rank": 19,
+      "category": "正能量"
     },
     {
       "raw_hot": 514405,
@@ -1195,6 +1227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 405748,
+      "num": 355912,
+      "word": "格莱美红毯",
+      "onboard_time": 1738540755,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 405360,
       "num": 405360,
       "word": "王猛 马布里已报警",
@@ -1209,14 +1249,6 @@
       "onboard_time": 1738384696,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 404223,
-      "num": 355912,
-      "word": "格莱美红毯",
-      "onboard_time": 1738540755,
-      "rank": 7,
-      "category": "音乐"
     },
     {
       "raw_hot": 402724,
@@ -1363,22 +1395,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 370952,
-      "num": 370952,
-      "word": "正月初六把穷气送出门",
-      "onboard_time": 1738545918,
-      "rank": 19,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 368291,
-      "num": 315653,
-      "word": "北京女生在泰国2400平米的家",
-      "onboard_time": 1738544716,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 366130,
       "num": 366130,
       "word": "立春",
@@ -1401,6 +1417,14 @@
       "onboard_time": 1738414878,
       "rank": 34,
       "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 361972,
+      "num": 313632,
+      "word": "哪吒2里一根根锁链是导演的坚持",
+      "onboard_time": 1738547183,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 361452,
@@ -1667,6 +1691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 316703,
+      "num": 197590,
+      "word": "一箱牛奶完成了过年串门的使命",
+      "onboard_time": 1738545498,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 312561,
       "num": 312561,
       "word": "9岁女孩独自参观爬宠展遭鳄鱼咬伤",
@@ -1688,6 +1720,14 @@
       "word": "4D哪吒",
       "onboard_time": 1738380557,
       "rank": 14,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 308968,
+      "num": 195648,
+      "word": "封神自来水致乌尔善的一封信",
+      "onboard_time": 1738547480,
+      "rank": 29,
       "category": "电影"
     },
     {
@@ -1771,12 +1811,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 292372,
+      "raw_hot": 293336,
       "num": 292372,
       "word": "霉霉本命年穿搭",
       "onboard_time": 1738546759,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 292424,
+      "num": 329123,
+      "word": "正月初六恰逢立春",
+      "onboard_time": 1738546881,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 292151,
@@ -1809,6 +1857,14 @@
       "onboard_time": 1738492458,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 283712,
+      "num": 193010,
+      "word": "过年真的好费钱啊",
+      "onboard_time": 1738546278,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 280742,
@@ -1889,6 +1945,14 @@
       "onboard_time": 1738397417,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 262468,
+      "num": 262468,
+      "word": "樊振东和孙颖莎自动入围世界杯",
+      "onboard_time": 1738545498,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 261761,
@@ -2003,6 +2067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245700,
+      "num": 192849,
+      "word": "我妈简直把猪皮冻做成了艺术品",
+      "onboard_time": 1738548083,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 245337,
       "num": 153471,
       "word": "各省特色饮料",
@@ -2025,6 +2097,14 @@
       "onboard_time": 1738323498,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 241633,
+      "num": 241633,
+      "word": "特朗普称计划很快对欧盟产品征收关税",
+      "onboard_time": 1738549593,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 241413,
@@ -2171,6 +2251,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 228245,
+      "num": 190710,
+      "word": "哪吒2连续三日票房逆跌",
+      "onboard_time": 1738549049,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 227123,
       "num": 227123,
       "word": "夫妻狂追5分钟截停起火货车",
@@ -2251,6 +2339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223832,
+      "num": 223832,
+      "word": "强如马龙也逃不过假期临时开会",
+      "onboard_time": 1738548206,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223523,
       "num": 223523,
       "word": "肖战现场回应愤怒的脏脏包",
@@ -2275,14 +2371,6 @@
       "category": "国际时政,互联网"
     },
     {
-      "raw_hot": 220653,
-      "num": 329123,
-      "word": "正月初六恰逢立春",
-      "onboard_time": 1738546881,
-      "rank": 9,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 219288,
       "num": 188740,
       "word": "哪吒敖丙",
@@ -2297,14 +2385,6 @@
       "onboard_time": 1738417579,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 218275,
-      "num": 198766,
-      "word": "樊振东和孙颖莎自动入围世界杯",
-      "onboard_time": 1738545498,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 217858,
@@ -2441,14 +2521,6 @@
       "onboard_time": 1738334241,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 207096,
-      "num": 197590,
-      "word": "一箱牛奶完成了过年串门的使命",
-      "onboard_time": 1738545498,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 206892,
@@ -2617,6 +2689,14 @@
       "onboard_time": 1738405276,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198157,
+      "num": 198157,
+      "word": "江浙沪爸爸对猫都是这个态度吗",
+      "onboard_time": 1738538894,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 196742,
@@ -2791,6 +2871,14 @@
       "num": 190249,
       "word": "梁洁演晋江女主适配度",
       "onboard_time": 1738470738,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 190245,
+      "num": 190245,
+      "word": "慕胥辞",
+      "onboard_time": 1738550682,
       "rank": 29,
       "category": "剧集"
     },
@@ -3267,6 +3355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167235,
+      "num": 194063,
+      "word": "亚冬会火炬传递",
+      "onboard_time": 1738547063,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166429,
       "num": 284940,
       "word": "特朗普称涉事军机飞行高度远超限制",
@@ -3297,6 +3393,14 @@
       "onboard_time": 1738495458,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165945,
+      "num": 165945,
+      "word": "霉霉与玛格丽特一起跳舞",
+      "onboard_time": 1738550682,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 164734,
@@ -3385,6 +3489,14 @@
       "onboard_time": 1738485018,
       "rank": 46,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 162167,
+      "num": 162167,
+      "word": "有人返程有人还在原地满勤",
+      "onboard_time": 1738550746,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162061,
@@ -3505,14 +3617,6 @@
       "onboard_time": 1738542795,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 158664,
-      "num": 158664,
-      "word": "过年真的好费钱啊",
-      "onboard_time": 1738546278,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 158582,
@@ -3915,6 +4019,14 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 144808,
+      "num": 144808,
+      "word": "国王马刺公牛交易",
+      "onboard_time": 1738549593,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144641,
       "num": 131328,
       "word": "丁程鑫被问恋爱相关问题不敢动",
@@ -3995,6 +4107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143661,
+      "num": 143661,
+      "word": "SM新女团",
+      "onboard_time": 1738540815,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 143161,
       "num": 183536,
       "word": "王俊凯才是春节档最大彩蛋",
@@ -4033,14 +4153,6 @@
       "onboard_time": 1738395198,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141885,
-      "num": 141885,
-      "word": "封神自来水致乌尔善的一封信",
-      "onboard_time": 1738547480,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 141837,
@@ -4291,12 +4403,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 131457,
-      "num": 131457,
-      "word": "哪吒2里一根根锁链是导演的坚持",
-      "onboard_time": 1738547183,
-      "rank": 34,
-      "category": "电影"
+      "raw_hot": 131524,
+      "num": 131524,
+      "word": "为什么女厕所门口永远在排队",
+      "onboard_time": 1738549593,
+      "rank": 38,
+      "category": "科学科普"
     },
     {
       "raw_hot": 131013,
@@ -4387,14 +4499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127666,
-      "num": 127666,
-      "word": "SM新女团",
-      "onboard_time": 1738540815,
-      "rank": 33,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 127466,
       "num": 127466,
       "word": "女子记录自己一年掉发39357根",
@@ -4417,6 +4521,14 @@
       "onboard_time": 1738392676,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127178,
+      "num": 127178,
+      "word": "在立春拥抱美好",
+      "onboard_time": 1738543876,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126893,
@@ -4643,14 +4755,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 120874,
-      "num": 120874,
-      "word": "亚冬会火炬传递",
-      "onboard_time": 1738547063,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 120284,
       "num": 120284,
       "word": "DeepSeek满血版高速专线",
@@ -4731,12 +4835,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 116402,
-      "num": 113982,
-      "word": "在立春拥抱美好",
-      "onboard_time": 1738543876,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 116436,
+      "num": 122415,
+      "word": "乙巳蛇年还是个双春年",
+      "onboard_time": 1738539134,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 116365,
@@ -4747,6 +4851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116281,
+      "num": 116281,
+      "word": "文殊院的尽头居然是奶龙",
+      "onboard_time": 1738539074,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 115785,
       "num": 115785,
       "word": "俄乌冲突让乌克兰倒退100年",
@@ -4755,12 +4867,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 115470,
-      "num": 122415,
-      "word": "乙巳蛇年还是个双春年",
-      "onboard_time": 1738539134,
-      "rank": 47,
-      "category": "情感"
+      "raw_hot": 115293,
+      "num": 115293,
+      "word": "徐明浩 创2",
+      "onboard_time": 1738550807,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 115290,
@@ -4835,6 +4947,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 112522,
+      "num": 112522,
+      "word": "中国古人测定一年时间误差仅26秒",
+      "onboard_time": 1738549593,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112381,
       "num": 112381,
       "word": "财神爷 财神奶",
@@ -4849,6 +4969,14 @@
       "onboard_time": 1738503380,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 111779,
+      "num": 111779,
+      "word": "拉文加盟国王",
+      "onboard_time": 1738548083,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 111684,
@@ -4891,20 +5019,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 110211,
-      "num": 110211,
-      "word": "江浙沪爸爸对猫都是这个态度吗",
-      "onboard_time": 1738538894,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 110011,
       "num": 229444,
       "word": "哪吒导演饺子谈创作的痛苦",
       "onboard_time": 1738389796,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 109731,
+      "num": 109731,
+      "word": "李瓒最强大的是内核",
+      "onboard_time": 1738550873,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 109700,
@@ -5587,6 +5715,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 77115,
+      "num": 184308,
+      "word": "李宇春被小孩喊春孃",
+      "onboard_time": 1738549713,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 76133,
       "num": 207303,
       "word": "黄友政3比1特奥多罗",
@@ -6049,14 +6185,6 @@
       "onboard_time": 1738468458,
       "rank": 2,
       "category": "民生新闻,正能量"
-    },
-    {
-      "raw_hot": 41752,
-      "num": 41752,
-      "word": "文殊院的尽头居然是奶龙",
-      "onboard_time": 1738539074,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 41620,
