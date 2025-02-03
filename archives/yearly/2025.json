@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738564272919,
+  "endTime": 1738565018886,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -283,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 8226159,
+      "num": 8226159,
+      "word": "具俊晔回应大S去世",
+      "onboard_time": 1738563392,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 8108051,
       "num": 8108051,
       "word": "肖战是谁的新郎",
@@ -409,14 +417,6 @@
       "onboard_time": 1738076680,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 5334356,
-      "num": 518579,
-      "word": "具俊晔回应大S去世",
-      "onboard_time": 1738563392,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 5278509,
@@ -681,6 +681,14 @@
       "onboard_time": 1736502681,
       "rank": 10,
       "category": "演出"
+    },
+    {
+      "raw_hot": 3434993,
+      "num": 1009198,
+      "word": "小S 感恩这辈子能成为她的姊妹",
+      "onboard_time": 1738564112,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 3396289,
@@ -1811,14 +1819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2080882,
-      "num": 513764,
-      "word": "小S 感恩这辈子能成为她的姊妹",
-      "onboard_time": 1738564112,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 2077247,
       "num": 351308,
       "word": "陈哲远假唱忘记拿麦",
@@ -2147,6 +2147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1911463,
+      "num": 839357,
+      "word": "这次熙媛又是交换了什么呢",
+      "onboard_time": 1738563392,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1911188,
       "num": 1911188,
       "word": "医生解读赵露思病情",
@@ -2345,14 +2353,6 @@
       "onboard_time": 1736305463,
       "rank": 1,
       "category": "数码"
-    },
-    {
-      "raw_hot": 1856812,
-      "num": 483343,
-      "word": "这次熙媛又是交换了什么呢",
-      "onboard_time": 1738563392,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 1851159,

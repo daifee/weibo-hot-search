@@ -1,6 +1,6 @@
 {
   "startTime": 1738513501648,
-  "endTime": 1738564272919,
+  "endTime": 1738565018886,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -43,19 +43,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 8226159,
+      "num": 8226159,
+      "word": "具俊晔回应大S去世",
+      "onboard_time": 1738563392,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 7252313,
       "num": 7252313,
       "word": "小S经纪人证实大S去世",
       "onboard_time": 1738552998,
       "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 5334356,
-      "num": 518579,
-      "word": "具俊晔回应大S去世",
-      "onboard_time": 1738563392,
-      "rank": 5,
       "category": "艺人"
     },
     {
@@ -73,6 +73,14 @@
       "onboard_time": 1738549593,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 3434993,
+      "num": 1009198,
+      "word": "小S 感恩这辈子能成为她的姊妹",
+      "onboard_time": 1738564112,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 2693767,
@@ -99,20 +107,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 2080882,
-      "num": 513764,
-      "word": "小S 感恩这辈子能成为她的姊妹",
-      "onboard_time": 1738564112,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 2039453,
       "num": 2039453,
       "word": "格莱美",
       "onboard_time": 1738543876,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1911463,
+      "num": 839357,
+      "word": "这次熙媛又是交换了什么呢",
+      "onboard_time": 1738563392,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1904111,
@@ -128,14 +136,6 @@
       "word": "熙媛 我始终觉得你应该更幸福",
       "onboard_time": 1738556624,
       "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1856812,
-      "num": 483343,
-      "word": "这次熙媛又是交换了什么呢",
-      "onboard_time": 1738563392,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -203,6 +203,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 1126172,
+      "num": 1693684,
+      "word": "日本流感病例已超950万人",
+      "onboard_time": 1738560214,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1122036,
       "num": 288831,
       "word": "韩泰山",
@@ -235,14 +243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 964814,
-      "num": 1693684,
-      "word": "日本流感病例已超950万人",
-      "onboard_time": 1738560214,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 924262,
       "num": 1729610,
       "word": "流感不是普通的重感冒",
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 760453,
-      "num": 473894,
+      "num": 563541,
       "word": "黄晓明发文悼念",
       "onboard_time": 1738562432,
       "rank": 20,
@@ -475,6 +475,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 411359,
+      "num": 939798,
+      "word": "日本遭遇有记录以来最严重流感",
+      "onboard_time": 1738564712,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 410534,
       "num": 161276,
       "word": "杨天真瘦了",
@@ -580,7 +588,7 @@
     },
     {
       "raw_hot": 326694,
-      "num": 477368,
+      "num": 618867,
       "word": "初六送走坏运气",
       "onboard_time": 1738557644,
       "rank": 18,
@@ -707,8 +715,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 258986,
+      "num": 703951,
+      "word": "马斯克指责USAID资助研发生物武器",
+      "onboard_time": 1738561953,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 258453,
-      "num": 482235,
+      "num": 642355,
       "word": "流感最常见的并发症是肺炎",
       "onboard_time": 1738562132,
       "rank": 16,
@@ -737,6 +753,14 @@
       "onboard_time": 1738548206,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 256610,
+      "num": 256610,
+      "word": "流感并发症才是致命原因",
+      "onboard_time": 1738562973,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 251990,
@@ -875,14 +899,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 200905,
-      "num": 494319,
-      "word": "马斯克指责USAID资助研发生物武器",
-      "onboard_time": 1738561953,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 200518,
       "num": 141443,
       "word": "桐心薇泯",
@@ -971,20 +987,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 169420,
-      "num": 480788,
+      "raw_hot": 174137,
+      "num": 602373,
       "word": "光与夜之恋",
       "onboard_time": 1738562493,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 168849,
-      "num": 168849,
-      "word": "流感并发症才是致命原因",
-      "onboard_time": 1738562973,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 167235,
@@ -993,6 +1001,14 @@
       "onboard_time": 1738547063,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165640,
+      "num": 163935,
+      "word": "哪吒2成中国影史春节档票房冠军",
+      "onboard_time": 1738557164,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 163883,
@@ -1011,6 +1027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161394,
+      "num": 252495,
+      "word": "Beyonce格莱美年专",
+      "onboard_time": 1738564592,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 158743,
       "num": 158743,
       "word": "封神第二部票房破9亿",
@@ -1025,6 +1049,14 @@
       "onboard_time": 1738545557,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 154592,
+      "num": 154592,
+      "word": "总觉得我和大S像好朋友",
+      "onboard_time": 1738564891,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 154066,
@@ -1155,6 +1187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123701,
+      "num": 123701,
+      "word": "孙颖莎奶黄小包",
+      "onboard_time": 1738561413,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122918,
       "num": 1164680,
       "word": "立春节气应该怎么过",
@@ -1195,12 +1235,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 116895,
-      "num": 116895,
-      "word": "孙颖莎奶黄小包",
-      "onboard_time": 1738561413,
-      "rank": 44,
-      "category": "体育"
+      "raw_hot": 117691,
+      "num": 117691,
+      "word": "流感是一种可致死的疾病",
+      "onboard_time": 1738564712,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116459,
@@ -1267,6 +1307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110059,
+      "num": 572269,
+      "word": "正常情况下流感死亡率并不高",
+      "onboard_time": 1738564712,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109731,
       "num": 109731,
       "word": "李瓒最强大的是内核",
@@ -1305,6 +1353,14 @@
       "onboard_time": 1738512918,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106415,
+      "num": 106415,
+      "word": "马斯克指责usaid资助研发生物武器",
+      "onboard_time": 1738563873,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 102635,
@@ -1377,14 +1433,6 @@
       "onboard_time": 1738481718,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 88239,
-      "num": 94826,
-      "word": "马斯克指责usaid资助研发生物武器",
-      "onboard_time": 1738563873,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 79787,
@@ -1537,6 +1585,14 @@
       "onboard_time": 1738512557,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 27395,
+      "num": 434303,
+      "word": "WTT应最大程度尊重运动员",
+      "onboard_time": 1738564592,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 26554,
