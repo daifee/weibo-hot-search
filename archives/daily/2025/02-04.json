@@ -1,6 +1,6 @@
 {
   "startTime": 1738600055579,
-  "endTime": 1738603179098,
+  "endTime": 1738604220324,
   "band_list": [
     {
       "raw_hot": 2092396,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 476897,
-      "num": 399617,
+      "num": 417536,
       "word": "吴京 流浪地球3",
       "onboard_time": 1738591349,
       "rank": 7,
@@ -192,6 +192,14 @@
       "word": "哪吒票房一会就多一个亿",
       "onboard_time": 1738581570,
       "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 144387,
+      "num": 191982,
+      "word": "射雕疑似被恶意打分",
+      "onboard_time": 1738603457,
+      "rank": 21,
       "category": "电影"
     },
     {
@@ -419,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44652,
+      "num": 263958,
+      "word": "车头是生活车尾是故乡",
+      "onboard_time": 1738602559,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43319,
       "num": 306188,
       "word": "孙颖莎连续正手发力太帅了",
@@ -435,20 +451,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17062,
-      "num": 263958,
-      "word": "车头是生活车尾是故乡",
-      "onboard_time": 1738602559,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 15036,
       "num": 217484,
       "word": "侯英超说和孙颖莎打我也一局赢不了",
       "onboard_time": 1738602201,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12735,
+      "num": 242391,
+      "word": "吾家吾国",
+      "onboard_time": 1738602441,
+      "rank": 12,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
