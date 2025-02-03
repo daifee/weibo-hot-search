@@ -1,6 +1,6 @@
 {
   "startTime": 1738513501648,
-  "endTime": 1738586519797,
+  "endTime": 1738587431452,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2715000,
+      "num": 2715000,
+      "word": "躲春",
+      "onboard_time": 1738489639,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2693767,
       "num": 1704350,
       "word": "众星发声悼念",
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 2486697,
-      "num": 693533,
+      "num": 745259,
       "word": "大S发病到猝逝仅5天",
       "onboard_time": 1738582711,
       "rank": 3,
@@ -137,14 +145,6 @@
       "onboard_time": 1738559436,
       "rank": 15,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 2113959,
-      "num": 2113959,
-      "word": "躲春",
-      "onboard_time": 1738489639,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 2090123,
@@ -387,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 728653,
+      "num": 728653,
+      "word": "哪吒票房一会就多一个亿",
+      "onboard_time": 1738581570,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 701498,
       "num": 306164,
       "word": "陈瑶 AI",
@@ -419,14 +427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 667363,
-      "num": 667363,
-      "word": "哪吒票房一会就多一个亿",
-      "onboard_time": 1738581570,
-      "rank": 6,
-      "category": "电影"
-    },
-    {
       "raw_hot": 665549,
       "num": 321092,
       "word": "哪吒2因为时长砍掉镜头",
@@ -451,12 +451,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 636062,
+      "num": 405459,
+      "word": "射雕豆瓣5.5",
+      "onboard_time": 1738586129,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 617251,
       "num": 467824,
       "word": "北京女生在泰国2400平米的家",
       "onboard_time": 1738544716,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 616599,
+      "num": 390738,
+      "word": "哪吒2票房突破40亿",
+      "onboard_time": 1738585469,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 615431,
@@ -761,14 +777,6 @@
       "onboard_time": 1738496120,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 340181,
-      "num": 340181,
-      "word": "哪吒2票房突破40亿",
-      "onboard_time": 1738585469,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 337417,
@@ -1171,6 +1179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204707,
+      "num": 204707,
+      "word": "孙颖莎3比0徐孝元",
+      "onboard_time": 1738586849,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204379,
       "num": 1630385,
       "word": "迪丽热巴陈飞宇杀青照",
@@ -1267,14 +1283,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 196870,
-      "num": 196870,
-      "word": "射雕豆瓣5.5",
-      "onboard_time": 1738586129,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 196657,
       "num": 196657,
       "word": "白色橄榄树",
@@ -1315,12 +1323,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190158,
+      "num": 190158,
+      "word": "流浪地球3将3月开机",
+      "onboard_time": 1738582831,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 188070,
       "num": 188070,
       "word": "您的五块正在骂您的三千块",
       "onboard_time": 1738480338,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 186116,
+      "num": 186116,
+      "word": "哪吒里的结界兽意外爆火",
+      "onboard_time": 1738584210,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 185915,
@@ -1345,14 +1369,6 @@
       "onboard_time": 1738550807,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 185556,
-      "num": 183898,
-      "word": "哪吒里的结界兽意外爆火",
-      "onboard_time": 1738584210,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 185523,
@@ -1393,14 +1409,6 @@
       "onboard_time": 1738576346,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 182000,
-      "num": 182000,
-      "word": "流浪地球3将3月开机",
-      "onboard_time": 1738582831,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 180211,
@@ -1667,6 +1675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 125105,
+      "num": 142706,
+      "word": "孙颖莎王楚钦最新训练画面",
+      "onboard_time": 1738584931,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124995,
       "num": 124995,
       "word": "乙巳蛇年还是个双春年",
@@ -1899,6 +1915,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 104394,
+      "num": 124618,
+      "word": "刘昊然认证周润发张新成天选父子",
+      "onboard_time": 1738586969,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 102665,
       "num": 141402,
       "word": "钱天一说倪夏莲给自己造成很大困难",
@@ -2003,12 +2027,12 @@
       "category": "综艺,剧集"
     },
     {
-      "raw_hot": 87326,
-      "num": 142706,
-      "word": "孙颖莎王楚钦最新训练画面",
-      "onboard_time": 1738584931,
-      "rank": 45,
-      "category": "体育"
+      "raw_hot": 88428,
+      "num": 123681,
+      "word": "颖儿室内直播也得戴墨镜",
+      "onboard_time": 1738587327,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 86919,
@@ -2076,7 +2100,7 @@
     },
     {
       "raw_hot": 75583,
-      "num": 103111,
+      "num": 311943,
       "word": "返程高峰遇冷空气",
       "onboard_time": 1738582531,
       "rank": 44,
@@ -2251,6 +2275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37109,
+      "num": 300404,
+      "word": "刘昊然嗑秦唐实锤了",
+      "onboard_time": 1738585949,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 37026,
       "num": 206406,
       "word": "光遇",
@@ -2272,14 +2304,6 @@
       "word": "妈妈将女儿扮成哪吒超像的",
       "onboard_time": 1738534572,
       "rank": 47,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 32034,
-      "num": 300404,
-      "word": "刘昊然嗑秦唐实锤了",
-      "onboard_time": 1738585949,
-      "rank": 18,
       "category": "电影"
     },
     {

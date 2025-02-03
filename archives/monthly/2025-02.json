@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738586519797,
+  "endTime": 1738587431452,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -115,6 +115,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 2715000,
+      "num": 2715000,
+      "word": "躲春",
+      "onboard_time": 1738489639,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2693767,
       "num": 1704350,
       "word": "众星发声悼念",
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 2486697,
-      "num": 693533,
+      "num": 745259,
       "word": "大S发病到猝逝仅5天",
       "onboard_time": 1738582711,
       "rank": 3,
@@ -161,14 +169,6 @@
       "onboard_time": 1738559436,
       "rank": 15,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 2113959,
-      "num": 2113959,
-      "word": "躲春",
-      "onboard_time": 1738489639,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 2090123,
@@ -899,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 728653,
+      "num": 728653,
+      "word": "哪吒票房一会就多一个亿",
+      "onboard_time": 1738581570,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 716626,
       "num": 347968,
       "word": "黑妮曝王菲父母哥哥均已离世",
@@ -979,14 +987,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 667363,
-      "num": 667363,
-      "word": "哪吒票房一会就多一个亿",
-      "onboard_time": 1738581570,
-      "rank": 6,
-      "category": "电影"
-    },
-    {
       "raw_hot": 664744,
       "num": 643532,
       "word": "石矶娘娘",
@@ -1051,6 +1051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 636062,
+      "num": 405459,
+      "word": "射雕豆瓣5.5",
+      "onboard_time": 1738586129,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 632377,
       "num": 632377,
       "word": "赵本山纽约演出",
@@ -1073,6 +1081,14 @@
       "onboard_time": 1738544716,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 616599,
+      "num": 390738,
+      "word": "哪吒2票房突破40亿",
+      "onboard_time": 1738585469,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 615431,
@@ -2065,14 +2081,6 @@
       "onboard_time": 1738470797,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 340181,
-      "num": 340181,
-      "word": "哪吒2票房突破40亿",
-      "onboard_time": 1738585469,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 339821,
@@ -3323,6 +3331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204707,
+      "num": 204707,
+      "word": "孙颖莎3比0徐孝元",
+      "onboard_time": 1738586849,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204379,
       "num": 1630385,
       "word": "迪丽热巴陈飞宇杀青照",
@@ -3521,14 +3537,6 @@
       "onboard_time": 1738577068,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 196870,
-      "num": 196870,
-      "word": "射雕豆瓣5.5",
-      "onboard_time": 1738586129,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 196742,
@@ -3731,6 +3739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190158,
+      "num": 190158,
+      "word": "流浪地球3将3月开机",
+      "onboard_time": 1738582831,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 190052,
       "num": 139147,
       "word": "谁懂暗恋成真的含金量",
@@ -3867,6 +3883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186116,
+      "num": 186116,
+      "word": "哪吒里的结界兽意外爆火",
+      "onboard_time": 1738584210,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 185915,
       "num": 185915,
       "word": "哪吒2预测总票房超70亿",
@@ -3896,14 +3920,6 @@
       "word": "徐克好奇金庸看侠之大者反应",
       "onboard_time": 1738371375,
       "rank": 26,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 185556,
-      "num": 183898,
-      "word": "哪吒里的结界兽意外爆火",
-      "onboard_time": 1738584210,
-      "rank": 31,
       "category": "电影"
     },
     {
@@ -4009,14 +4025,6 @@
       "onboard_time": 1738367054,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 182000,
-      "num": 182000,
-      "word": "流浪地球3将3月开机",
-      "onboard_time": 1738582831,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 181838,
@@ -5643,6 +5651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 125105,
+      "num": 142706,
+      "word": "孙颖莎王楚钦最新训练画面",
+      "onboard_time": 1738584931,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124995,
       "num": 124995,
       "word": "乙巳蛇年还是个双春年",
@@ -6315,6 +6331,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 104394,
+      "num": 124618,
+      "word": "刘昊然认证周润发张新成天选父子",
+      "onboard_time": 1738586969,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 103893,
       "num": 77695,
       "word": "海芋恋一开口就回到了盛夏",
@@ -6691,6 +6715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88428,
+      "num": 123681,
+      "word": "颖儿室内直播也得戴墨镜",
+      "onboard_time": 1738587327,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87817,
       "num": 87817,
       "word": "库里隐身",
@@ -6721,14 +6753,6 @@
       "onboard_time": 1738387938,
       "rank": 47,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 87326,
-      "num": 142706,
-      "word": "孙颖莎王楚钦最新训练画面",
-      "onboard_time": 1738584931,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 86919,
@@ -6948,7 +6972,7 @@
     },
     {
       "raw_hot": 75583,
-      "num": 103111,
+      "num": 311943,
       "word": "返程高峰遇冷空气",
       "onboard_time": 1738582531,
       "rank": 44,
@@ -7563,6 +7587,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 37109,
+      "num": 300404,
+      "word": "刘昊然嗑秦唐实锤了",
+      "onboard_time": 1738585949,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 36371,
       "num": 187783,
       "word": "从小逛到大的庙会",
@@ -7665,14 +7697,6 @@
       "onboard_time": 1738347014,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32034,
-      "num": 300404,
-      "word": "刘昊然嗑秦唐实锤了",
-      "onboard_time": 1738585949,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 31832,

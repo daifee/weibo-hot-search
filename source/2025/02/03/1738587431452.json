@@ -1,0 +1,410 @@
+{
+  "runTime": 1738587431452,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2715000,
+        "num": 2715000,
+        "word": "躲春",
+        "onboard_time": 1738579768,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 892450,
+        "num": 892450,
+        "word": "日本一制药公司暂停供应奥司他韦",
+        "onboard_time": 1738574967,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 47807,
+        "num": 751286,
+        "word": "中国古人测定一年时间误差仅26秒",
+        "onboard_time": 1738549593,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2429523,
+        "num": 745259,
+        "word": "大S发病到猝逝仅5天",
+        "onboard_time": 1738582711,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 728653,
+        "num": 728653,
+        "word": "哪吒票房一会就多一个亿",
+        "onboard_time": 1738581570,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 445364,
+        "num": 445364,
+        "word": "日本爆发流感游客发声",
+        "onboard_time": 1738579650,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 636062,
+        "num": 405459,
+        "word": "射雕豆瓣5.5",
+        "onboard_time": 1738586129,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 616599,
+        "num": 390738,
+        "word": "哪吒2票房突破40亿",
+        "onboard_time": 1738585469,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 356857,
+        "num": 356857,
+        "word": "韩国棋院变更争议规则并告知中方",
+        "onboard_time": 1738583551,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 346329,
+        "num": 346329,
+        "word": "2025春节档票房排名",
+        "onboard_time": 1738580250,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 7846862,
+        "num": 7846862,
+        "word": "汪小菲说大S是我的家人",
+        "onboard_time": 1738584151,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368100,
+        "num": 326772,
+        "word": "医生解释流感引发肺炎为何会死亡",
+        "onboard_time": 1738579709,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 43226,
+        "num": 311943,
+        "word": "返程高峰遇冷空气",
+        "onboard_time": 1738582531,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1344606,
+        "num": 295732,
+        "word": "亲友找不到具俊晔",
+        "onboard_time": 1738577668,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292758,
+        "num": 292758,
+        "word": "多位博主曾建议近期不要赴日本旅游",
+        "onboard_time": 1738582173,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197935,
+        "num": 228958,
+        "word": "福岛排空核污染水的储水罐将被解体",
+        "onboard_time": 1738584390,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 981817,
+        "num": 217615,
+        "word": "S妈小梅回应",
+        "onboard_time": 1738579768,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204707,
+        "num": 204707,
+        "word": "孙颖莎3比0徐孝元",
+        "onboard_time": 1738586849,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 520966,
+        "num": 201670,
+        "word": "小S 感恩这辈子能成为她的姊妹",
+        "onboard_time": 1738564112,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198437,
+        "num": 198437,
+        "word": "建议奶茶店都学习这种糖分写法",
+        "onboard_time": 1738573767,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 777153,
+        "num": 198077,
+        "word": "27岁演员梁祐诚大年初二突然去世",
+        "onboard_time": 1738576107,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365015,
+        "num": 196315,
+        "word": "她的去世就像小说烂尾",
+        "onboard_time": 1738570407,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253649,
+        "num": 194554,
+        "word": "她以为剪了短发就是男孩了",
+        "onboard_time": 1738583791,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270532,
+        "num": 192454,
+        "word": "熙媛 我始终觉得你应该更幸福",
+        "onboard_time": 1738556624,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232210,
+        "num": 191585,
+        "word": "央视主播上新00后",
+        "onboard_time": 1738581329,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190158,
+        "num": 190158,
+        "word": "流浪地球3将3月开机",
+        "onboard_time": 1738582831,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186116,
+        "num": 186116,
+        "word": "哪吒里的结界兽意外爆火",
+        "onboard_time": 1738584210,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180934,
+        "num": 180934,
+        "word": "格莱美",
+        "onboard_time": 1738543876,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180877,
+        "num": 180877,
+        "word": "日本游客称路上有很多人咳嗽",
+        "onboard_time": 1738577548,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 173213,
+        "num": 173213,
+        "word": "小英老公出轨",
+        "onboard_time": 1738549593,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 171102,
+        "num": 171102,
+        "word": "孙颖莎vs徐孝元",
+        "onboard_time": 1738585229,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170783,
+        "num": 170783,
+        "word": "大S曾称自己爱笑但其实很悲观",
+        "onboard_time": 1738578329,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163041,
+        "num": 163041,
+        "word": "张元英mv镜头",
+        "onboard_time": 1738581268,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147766,
+        "num": 147766,
+        "word": "疑似申公豹全家福流出",
+        "onboard_time": 1738579709,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146694,
+        "num": 146694,
+        "word": "哪吒2",
+        "onboard_time": 1738579768,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144602,
+        "num": 144602,
+        "word": "这次熙媛又是交换了什么呢",
+        "onboard_time": 1738563392,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131413,
+        "num": 131413,
+        "word": "迪丽热巴通告花名是自己取的",
+        "onboard_time": 1738579709,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125105,
+        "num": 125105,
+        "word": "孙颖莎王楚钦最新训练画面",
+        "onboard_time": 1738584931,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112611,
+        "num": 124993,
+        "word": "川A川G不语只是一味堵车",
+        "onboard_time": 1738569027,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104223,
+        "num": 124945,
+        "word": "向鹏0比3奥恰洛夫",
+        "onboard_time": 1738583311,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104716,
+        "num": 124764,
+        "word": "2025年中国电影票房破百亿",
+        "onboard_time": 1738582831,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104394,
+        "num": 124618,
+        "word": "刘昊然认证周润发张新成天选父子",
+        "onboard_time": 1738586969,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102667,
+        "num": 124376,
+        "word": "梁洁我从双世宠妃就跟着你了",
+        "onboard_time": 1738577188,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37109,
+        "num": 124228,
+        "word": "刘昊然嗑秦唐实锤了",
+        "onboard_time": 1738585949,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99050,
+        "num": 124024,
+        "word": "美国超市冷藏柜拉出一只活狼",
+        "onboard_time": 1738572028,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 98441,
+        "num": 123984,
+        "word": "初六送走坏运气",
+        "onboard_time": 1738557644,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96406,
+        "num": 123791,
+        "word": "韩媒曝具俊晔拒绝联系",
+        "onboard_time": 1738565909,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88428,
+        "num": 123681,
+        "word": "颖儿室内直播也得戴墨镜",
+        "onboard_time": 1738587327,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77151,
+        "num": 123518,
+        "word": "钱天一说倪夏莲给自己造成很大困难",
+        "onboard_time": 1738582173,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72425,
+        "num": 123309,
+        "word": "日本流感病例已超950万人",
+        "onboard_time": 1738560214,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#从总书记新春寄语读懂何以中国#"
+    }
+  }
+}
