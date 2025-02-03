@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738589204063,
+  "endTime": 1738589906290,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -715,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3402384,
+      "num": 610786,
+      "word": "日本导游曝光大S去世全过程",
+      "onboard_time": 1738589009,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3396289,
       "num": 3396289,
       "word": "小红书",
@@ -1016,14 +1024,6 @@
       "word": "赵露思疑似将复工",
       "onboard_time": 1736922259,
       "rank": 0,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2854543,
-      "num": 603324,
-      "word": "日本导游曝光大S去世全过程",
-      "onboard_time": 1738589009,
-      "rank": 3,
       "category": "艺人"
     },
     {
