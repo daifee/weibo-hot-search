@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738553251504,
+  "endTime": 1738554059722,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -8,6 +8,14 @@
       "word": "大S去世",
       "onboard_time": 1738550873,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 28021178,
+      "num": 28021178,
+      "word": "大S流感并发肺炎",
+      "onboard_time": 1738553354,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -27,8 +35,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 22809947,
-      "num": 22809947,
+      "raw_hot": 22874452,
+      "num": 22874452,
       "word": "日本流感",
       "onboard_time": 1738551558,
       "rank": 3,
@@ -241,6 +249,14 @@
       "onboard_time": 1736000553,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 9082993,
+      "num": 9082993,
+      "word": "大S在日本火化",
+      "onboard_time": 1738553826,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 9076991,
@@ -556,7 +572,7 @@
     },
     {
       "raw_hot": 3831944,
-      "num": 737172,
+      "num": 1157270,
       "word": "小英老公出轨",
       "onboard_time": 1738549593,
       "rank": 10,
@@ -1963,6 +1979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1979680,
+      "num": 1410667,
+      "word": "再见了杉菜",
+      "onboard_time": 1738552467,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1979319,
       "num": 1979319,
       "word": "谷爱凌摔倒已不能走路",
@@ -2299,6 +2323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1845983,
+      "num": 1845983,
+      "word": "金饰价格突破847元每克",
+      "onboard_time": 1738552229,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1844246,
       "num": 1844246,
       "word": "DeepSeek",
@@ -2369,38 +2401,6 @@
       "onboard_time": 1736207300,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1802079,
-      "num": 400939,
-      "word": "王星女友对200万赎金不知情",
-      "onboard_time": 1736342663,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1793831,
-      "num": 1793831,
-      "word": "跨年收视率",
-      "onboard_time": 1735661488,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1792033,
-      "num": 1792033,
-      "word": "陈伟霆张艺兴苏有朋 好帅",
-      "onboard_time": 1738066552,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1791596,
-      "num": 1791596,
-      "word": "虞书欣 在干嘛呀",
-      "onboard_time": 1738158020,
-      "rank": 0,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
