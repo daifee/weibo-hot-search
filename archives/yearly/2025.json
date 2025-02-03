@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738561089132,
+  "endTime": 1738564272919,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -409,6 +409,14 @@
       "onboard_time": 1738076680,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 5334356,
+      "num": 518579,
+      "word": "具俊晔回应大S去世",
+      "onboard_time": 1738563392,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 5278509,
@@ -1675,6 +1683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2146772,
+      "num": 2146772,
+      "word": "得流感自救不要错过黄金48小时",
+      "onboard_time": 1738559436,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 2136319,
       "num": 2136319,
       "word": "金扫帚提名名单",
@@ -1793,6 +1809,14 @@
       "onboard_time": 1736841379,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2080882,
+      "num": 513764,
+      "word": "小S 感恩这辈子能成为她的姊妹",
+      "onboard_time": 1738564112,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 2077247,
@@ -2299,6 +2323,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1864508,
+      "num": 1692978,
+      "word": "熙媛 我始终觉得你应该更幸福",
+      "onboard_time": 1738556624,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1862422,
       "num": 1862422,
       "word": "小米SU7侧翻起火十余路人抬车救人",
@@ -2313,6 +2345,14 @@
       "onboard_time": 1736305463,
       "rank": 1,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1856812,
+      "num": 483343,
+      "word": "这次熙媛又是交换了什么呢",
+      "onboard_time": 1738563392,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1851159,
@@ -2361,46 +2401,6 @@
       "onboard_time": 1737947955,
       "rank": 21,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1834605,
-      "num": 1834605,
-      "word": "昀牵孟绕",
-      "onboard_time": 1735691898,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 1833307,
-      "num": 479842,
-      "word": "特朗普提中国一小时后巴拿马回怼",
-      "onboard_time": 1737438317,
-      "rank": 5,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 1830161,
-      "num": 348140,
-      "word": "被家暴16次女子直播带货",
-      "onboard_time": 1735892540,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1824463,
-      "num": 1539070,
-      "word": "柯洁微博备注改为世界围棋九冠王",
-      "onboard_time": 1737636261,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1820460,
-      "num": 1820460,
-      "word": "上2休1再上2好潮",
-      "onboard_time": 1735777638,
-      "rank": 0,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

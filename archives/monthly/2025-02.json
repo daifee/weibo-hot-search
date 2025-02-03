@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738561089132,
+  "endTime": 1738564272919,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -48,6 +48,14 @@
       "word": "小S经纪人证实大S去世",
       "onboard_time": 1738552998,
       "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 5334356,
+      "num": 518579,
+      "word": "具俊晔回应大S去世",
+      "onboard_time": 1738563392,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -107,6 +115,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 2146772,
+      "num": 2146772,
+      "word": "得流感自救不要错过黄金48小时",
+      "onboard_time": 1738559436,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 2080882,
+      "num": 513764,
+      "word": "小S 感恩这辈子能成为她的姊妹",
+      "onboard_time": 1738564112,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2057350,
       "num": 2057350,
       "word": "哪吒2因为时长砍掉镜头",
@@ -131,6 +155,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1864508,
+      "num": 1692978,
+      "word": "熙媛 我始终觉得你应该更幸福",
+      "onboard_time": 1738556624,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1856812,
+      "num": 483343,
+      "word": "这次熙媛又是交换了什么呢",
+      "onboard_time": 1738563392,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1851159,
       "num": 892705,
       "word": "吴宗宪发声悼念",
@@ -145,14 +185,6 @@
       "onboard_time": 1738552229,
       "rank": 8,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1750496,
-      "num": 1750496,
-      "word": "得流感自救不要错过黄金48小时",
-      "onboard_time": 1738559436,
-      "rank": 15,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1708063,
@@ -177,14 +209,6 @@
       "onboard_time": 1738503980,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1692978,
-      "num": 1692978,
-      "word": "熙媛 我始终觉得你应该更幸福",
-      "onboard_time": 1738556624,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 1597648,
@@ -515,6 +539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 964814,
+      "num": 1693684,
+      "word": "日本流感病例已超950万人",
+      "onboard_time": 1738560214,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 958481,
       "num": 759347,
       "word": "孤注一掷",
@@ -707,6 +739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 760453,
+      "num": 473894,
+      "word": "黄晓明发文悼念",
+      "onboard_time": 1738562432,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 749672,
       "num": 991422,
       "word": "立春躲春的正确方式",
@@ -820,7 +860,7 @@
     },
     {
       "raw_hot": 680830,
-      "num": 288129,
+      "num": 376963,
       "word": "人生的容错率大得超乎你的想象",
       "onboard_time": 1738559857,
       "rank": 41,
@@ -1948,7 +1988,7 @@
     },
     {
       "raw_hot": 326694,
-      "num": 326694,
+      "num": 477368,
       "word": "初六送走坏运气",
       "onboard_time": 1738557644,
       "rank": 18,
@@ -2179,6 +2219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 286504,
+      "num": 286504,
+      "word": "转角遇到爱",
+      "onboard_time": 1738561233,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 285147,
       "num": 180653,
       "word": "陈牧驰说强烈的郊感在召唤",
@@ -2212,7 +2260,7 @@
     },
     {
       "raw_hot": 278284,
-      "num": 278284,
+      "num": 292516,
       "word": "喝酒前吃了药一家三口被送抢救室",
       "onboard_time": 1738556986,
       "rank": 36,
@@ -2305,6 +2353,14 @@
       "onboard_time": 1738375757,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 258453,
+      "num": 482235,
+      "word": "流感最常见的并发症是肺炎",
+      "onboard_time": 1738562132,
+      "rank": 16,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 258394,
@@ -3043,6 +3099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200905,
+      "num": 494319,
+      "word": "马斯克指责USAID资助研发生物武器",
+      "onboard_time": 1738561953,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 200783,
       "num": 284880,
       "word": "春运返程客流已进入高峰期",
@@ -3771,6 +3835,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 169420,
+      "num": 480788,
+      "word": "光与夜之恋",
+      "onboard_time": 1738562493,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 168849,
+      "num": 168849,
+      "word": "流感并发症才是致命原因",
+      "onboard_time": 1738562973,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168085,
       "num": 118869,
       "word": "申公豹",
@@ -4203,6 +4283,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 154066,
+      "num": 288996,
+      "word": "易烊千玺祝立春快乐季季如春",
+      "onboard_time": 1738563454,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153396,
       "num": 153396,
       "word": "李宇春去亲戚火锅店聚餐",
@@ -4459,12 +4547,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 144587,
-      "num": 1693684,
-      "word": "日本流感病例已超950万人",
-      "onboard_time": 1738560214,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 144345,
+      "num": 144345,
+      "word": "Riku恢复活动",
+      "onboard_time": 1738563094,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 144298,
@@ -5059,6 +5147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124898,
+      "num": 151093,
+      "word": "东契奇抵达洛杉矶",
+      "onboard_time": 1738562557,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124558,
       "num": 159438,
       "word": "杜华与程潇姐妹自拍",
@@ -5281,6 +5377,14 @@
       "onboard_time": 1738427298,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116895,
+      "num": 116895,
+      "word": "孙颖莎奶黄小包",
+      "onboard_time": 1738561413,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 116365,
@@ -5969,6 +6073,14 @@
       "onboard_time": 1738340477,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 88239,
+      "num": 94826,
+      "word": "马斯克指责usaid资助研发生物武器",
+      "onboard_time": 1738563873,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 87817,
@@ -6904,6 +7016,14 @@
       "word": "NBA真过年了",
       "onboard_time": 1738498518,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 25850,
+      "num": 405570,
+      "word": "汪顺说亚冬会中国队加油",
+      "onboard_time": 1738563153,
+      "rank": 24,
       "category": "体育"
     },
     {
