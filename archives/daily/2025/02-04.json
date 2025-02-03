@@ -1,6 +1,6 @@
 {
   "startTime": 1738600055579,
-  "endTime": 1738608103460,
+  "endTime": 1738610304387,
   "band_list": [
     {
       "raw_hot": 2092396,
@@ -459,12 +459,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 34497,
+      "num": 71983,
+      "word": "哪吒2曾尝试国外特效团队不尽人意",
+      "onboard_time": 1738608433,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 25673,
       "num": 443373,
       "word": "手写二十四节气领略四季之美",
       "onboard_time": 1738590390,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25598,
+      "num": 71806,
+      "word": "慕胥辞杀青特辑",
+      "onboard_time": 1738609093,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 23096,
@@ -505,6 +521,14 @@
       "onboard_time": 1738602441,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10528,
+      "num": 71868,
+      "word": "大年初七不训小孩日",
+      "onboard_time": 1738610235,
+      "rank": 37,
+      "category": "议题讨论"
     }
   ],
   "hotgov_list": [
