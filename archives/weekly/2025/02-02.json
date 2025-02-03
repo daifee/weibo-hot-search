@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738610304387,
+  "endTime": 1738611358142,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -5691,6 +5691,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 12154,
+      "num": 71868,
+      "word": "大年初七不训小孩日",
+      "onboard_time": 1738610235,
+      "rank": 37,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 11732,
       "num": 234205,
       "word": "恋与深空带小鱼回家过年吧",
@@ -5713,14 +5721,6 @@
       "onboard_time": 1738571788,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 10528,
-      "num": 71868,
-      "word": "大年初七不训小孩日",
-      "onboard_time": 1738610235,
-      "rank": 37,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 10489,
