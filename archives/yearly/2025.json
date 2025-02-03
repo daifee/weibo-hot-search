@@ -1,20 +1,28 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738551034863,
+  "endTime": 1738551598839,
   "band_list": [
+    {
+      "raw_hot": 27718638,
+      "num": 27718638,
+      "word": "大S去世",
+      "onboard_time": 1738550873,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 27063814,
+      "num": 27063814,
+      "word": "大S",
+      "onboard_time": 1738546518,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 26934146,
       "num": 26934146,
       "word": "马天宇回应",
       "onboard_time": 1736007874,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 24643049,
-      "num": 24643049,
-      "word": "大S",
-      "onboard_time": 1738546518,
       "rank": 10,
       "category": "艺人"
     },
@@ -25,14 +33,6 @@
       "onboard_time": 1735990643,
       "rank": 0,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 20202979,
-      "num": 20202979,
-      "word": "大S去世",
-      "onboard_time": 1738550873,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 18851987,
@@ -360,6 +360,14 @@
       "word": "赵露思长文谈抑郁症",
       "onboard_time": 1738151061,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 5870519,
+      "num": 5870519,
+      "word": "日本流感",
+      "onboard_time": 1738551558,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736338462,
       "rank": 6,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 1779477,
-      "num": 1344113,
-      "word": "王锵上线了",
-      "onboard_time": 1735995328,
-      "rank": 6,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

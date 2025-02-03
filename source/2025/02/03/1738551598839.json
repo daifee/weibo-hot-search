@@ -1,0 +1,410 @@
+{
+  "runTime": 1738551598839,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 27718638,
+        "num": 27718638,
+        "word": "大S去世",
+        "onboard_time": 1738550873,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 491076,
+        "num": 491076,
+        "word": "正月初六把穷气送出门",
+        "onboard_time": 1738545918,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 25105,
+        "num": 361034,
+        "word": "文化中国行二十四节气经典美食",
+        "onboard_time": 1738504758,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5870519,
+        "num": 5870519,
+        "word": "日本流感",
+        "onboard_time": 1738551558,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355339,
+        "num": 355339,
+        "word": "立春躲春的正确方式",
+        "onboard_time": 1738500920,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290796,
+        "num": 290796,
+        "word": "立春咬春病不沾身",
+        "onboard_time": 1738507459,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1512384,
+        "num": 290589,
+        "word": "格莱美",
+        "onboard_time": 1738543876,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 808633,
+        "num": 289087,
+        "word": "影院回应一天排99场哪吒2",
+        "onboard_time": 1738515616,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27063814,
+        "num": 27063814,
+        "word": "大S",
+        "onboard_time": 1738546518,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202330,
+        "num": 287319,
+        "word": "特朗普称计划很快对欧盟产品征收关税",
+        "onboard_time": 1738549593,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 2803170,
+        "num": 286754,
+        "word": "小英老公出轨",
+        "onboard_time": 1738549593,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 401851,
+        "num": 285130,
+        "word": "女生醒来相亲对象站床边系摆拍",
+        "onboard_time": 1738538894,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284898,
+        "num": 284898,
+        "word": "立春",
+        "onboard_time": 1738538353,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376064,
+        "num": 277606,
+        "word": "哪吒2爆火后唯一受害者出现",
+        "onboard_time": 1738503980,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 342656,
+        "num": 274422,
+        "word": "哪吒2里一根根锁链是导演的坚持",
+        "onboard_time": 1738547183,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 337695,
+        "num": 264856,
+        "word": "格莱美红毯",
+        "onboard_time": 1738540755,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 323900,
+        "num": 258936,
+        "word": "电影票房高低反映观众的选择",
+        "onboard_time": 1738544356,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 251292,
+        "num": 251292,
+        "word": "正月初六恰逢立春",
+        "onboard_time": 1738546881,
+        "rank": 17,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 221758,
+        "num": 221758,
+        "word": "樊振东和孙颖莎自动入围世界杯",
+        "onboard_time": 1738545498,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216764,
+        "num": 216764,
+        "word": "强如马龙也逃不过假期临时开会",
+        "onboard_time": 1738548206,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 562676,
+        "num": 216652,
+        "word": "北京女生在泰国2400平米的家",
+        "onboard_time": 1738544716,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277224,
+        "num": 212313,
+        "word": "封神自来水致乌尔善的一封信",
+        "onboard_time": 1738547480,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 267657,
+        "num": 210853,
+        "word": "霉霉本命年穿搭",
+        "onboard_time": 1738546759,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 252256,
+        "num": 207629,
+        "word": "一箱牛奶完成了过年串门的使命",
+        "onboard_time": 1738545498,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140479,
+        "num": 206427,
+        "word": "亚冬会火炬传递",
+        "onboard_time": 1738547063,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250356,
+        "num": 203968,
+        "word": "过年真的好费钱啊",
+        "onboard_time": 1738546278,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227265,
+        "num": 199804,
+        "word": "我妈简直把猪皮冻做成了艺术品",
+        "onboard_time": 1738548083,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217815,
+        "num": 198131,
+        "word": "哪吒2连续三日票房逆跌",
+        "onboard_time": 1738549049,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 196623,
+        "num": 196623,
+        "word": "慕胥辞官宣杀青",
+        "onboard_time": 1738551558,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193995,
+        "num": 193995,
+        "word": "哪吒",
+        "onboard_time": 1738504758,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186105,
+        "num": 186105,
+        "word": "慕胥辞",
+        "onboard_time": 1738550682,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181450,
+        "num": 181450,
+        "word": "江浙沪爸爸对猫都是这个态度吗",
+        "onboard_time": 1738538894,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180211,
+        "num": 180211,
+        "word": "霉霉与玛格丽特一起跳舞",
+        "onboard_time": 1738550682,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162813,
+        "num": 162813,
+        "word": "韩泰山",
+        "onboard_time": 1738513578,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129474,
+        "num": 129474,
+        "word": "有人返程有人还在原地满勤",
+        "onboard_time": 1738550746,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129317,
+        "num": 129317,
+        "word": "加拿大对美国实施报复性关税",
+        "onboard_time": 1738542015,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128157,
+        "num": 128157,
+        "word": "SM新女团",
+        "onboard_time": 1738540815,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 127384,
+        "num": 127384,
+        "word": "为什么女厕所门口永远在排队",
+        "onboard_time": 1738549593,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 119009,
+        "num": 119009,
+        "word": "徐明浩 创2",
+        "onboard_time": 1738550807,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118363,
+        "num": 118363,
+        "word": "孙颖莎王楚钦王曼昱等集体发声",
+        "onboard_time": 1738505900,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111980,
+        "num": 111980,
+        "word": "大年初六",
+        "onboard_time": 1738513697,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106398,
+        "num": 106398,
+        "word": "吴倩新剧演80年代大学生",
+        "onboard_time": 1738551373,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106370,
+        "num": 106370,
+        "word": "蔡徐坤开工",
+        "onboard_time": 1738507580,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103048,
+        "num": 103048,
+        "word": "陈瑶 AI",
+        "onboard_time": 1738512798,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102609,
+        "num": 102609,
+        "word": "拜托这可是陈哲远亲自选的女主",
+        "onboard_time": 1738519154,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101403,
+        "num": 101403,
+        "word": "躲春",
+        "onboard_time": 1738489639,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100520,
+        "num": 101037,
+        "word": "在立春拥抱美好",
+        "onboard_time": 1738543876,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100456,
+        "num": 101036,
+        "word": "中国古人测定一年时间误差仅26秒",
+        "onboard_time": 1738549593,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101036,
+        "num": 101035,
+        "word": "乙巳蛇年还是个双春年",
+        "onboard_time": 1738539134,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100995,
+        "num": 100995,
+        "word": "美国自己生病却让别人吃药",
+        "onboard_time": 1738510759,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#在古城古巷感受文化脉动#"
+    }
+  }
+}
