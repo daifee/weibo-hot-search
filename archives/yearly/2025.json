@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738589906290,
+  "endTime": 1738592494749,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -715,7 +715,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 3402384,
+      "raw_hot": 3421929,
       "num": 610786,
       "word": "日本导游曝光大S去世全过程",
       "onboard_time": 1738589009,
@@ -1603,6 +1603,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 2236543,
+      "num": 435856,
+      "word": "小S两个女儿回台",
+      "onboard_time": 1738590329,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2232738,
       "num": 2232738,
       "word": "敖丙",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1738556624,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1862422,
-      "num": 1862422,
-      "word": "小米SU7侧翻起火十余路人抬车救人",
-      "onboard_time": 1735869680,
-      "rank": 0,
-      "category": "正能量"
     }
   ],
   "hotgov_list": [

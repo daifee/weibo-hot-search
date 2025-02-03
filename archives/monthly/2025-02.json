@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738589906290,
+  "endTime": 1738592494749,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -107,7 +107,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 3402384,
+      "raw_hot": 3421929,
       "num": 610786,
       "word": "日本导游曝光大S去世全过程",
       "onboard_time": 1738589009,
@@ -161,6 +161,14 @@
       "onboard_time": 1738415179,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2236543,
+      "num": 435856,
+      "word": "小S两个女儿回台",
+      "onboard_time": 1738590329,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 2232738,
@@ -1107,6 +1115,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 607328,
+      "num": 460965,
+      "word": "李瓒听不到了",
+      "onboard_time": 1738590269,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 595826,
       "num": 595826,
       "word": "哪吒2导演曾因特效与团队产生严重分歧",
@@ -1323,6 +1339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 508834,
+      "num": 453972,
+      "word": "吴京 流浪地球3",
+      "onboard_time": 1738591349,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 506110,
       "num": 331224,
       "word": "徐明浩直播突现双重人格",
@@ -1481,6 +1505,14 @@
       "onboard_time": 1738557164,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 477568,
+      "num": 477568,
+      "word": "躲春时间",
+      "onboard_time": 1738589009,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 473457,
@@ -2171,6 +2203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 331633,
+      "num": 331633,
+      "word": "哪吒2成史上最快破40亿电影",
+      "onboard_time": 1738590269,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 331555,
       "num": 257304,
       "word": "敖光",
@@ -2457,6 +2497,22 @@
       "onboard_time": 1738485557,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 289663,
+      "num": 289663,
+      "word": "春节档六部电影豆瓣开分",
+      "onboard_time": 1738591108,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 286925,
+      "num": 478578,
+      "word": "敖丙小鼻嘎",
+      "onboard_time": 1738587688,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 286629,
@@ -2787,6 +2843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 250160,
+      "num": 250160,
+      "word": "奥司他韦不能乱吃",
+      "onboard_time": 1738592372,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 248507,
       "num": 248507,
       "word": "王楚钦希望WTT多听听运动员的声音",
@@ -2809,6 +2873,14 @@
       "onboard_time": 1738552229,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 246082,
+      "num": 487540,
+      "word": "普陀山消防队回应帮游客焚香开光",
+      "onboard_time": 1738587987,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 245937,
@@ -2848,14 +2920,6 @@
       "word": "吐排片",
       "onboard_time": 1738323498,
       "rank": 21,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 241497,
-      "num": 478578,
-      "word": "敖丙小鼻嘎",
-      "onboard_time": 1738587688,
-      "rank": 26,
       "category": "电影"
     },
     {
@@ -3217,6 +3281,14 @@
       "onboard_time": 1738457956,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213772,
+      "num": 250022,
+      "word": "射雕打分人数",
+      "onboard_time": 1738591411,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 213675,
@@ -4043,14 +4115,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 183728,
-      "num": 487540,
-      "word": "普陀山消防队回应帮游客焚香开光",
-      "onboard_time": 1738587987,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 182929,
       "num": 165719,
       "word": "乌尔善",
@@ -4393,14 +4457,6 @@
       "onboard_time": 1738547063,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 167170,
-      "num": 476938,
-      "word": "躲春时间",
-      "onboard_time": 1738589009,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 166429,
@@ -5579,6 +5635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129932,
+      "num": 247549,
+      "word": "张泽禹给张极读18岁的信",
+      "onboard_time": 1738592010,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129738,
       "num": 129738,
       "word": "不敢相信浓眉换东契奇",
@@ -5769,6 +5833,14 @@
       "onboard_time": 1738480096,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124150,
+      "num": 477086,
+      "word": "2025年中国电影票房破百亿",
+      "onboard_time": 1738582831,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 124081,
@@ -6091,6 +6163,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 114028,
+      "num": 247982,
+      "word": "流感合并肺炎有这些症状",
+      "onboard_time": 1738590810,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114020,
       "num": 114020,
       "word": "DeepSeek下载量霸占140多个国家榜首",
@@ -6113,6 +6193,14 @@
       "onboard_time": 1738428677,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 112664,
+      "num": 419963,
+      "word": "打春",
+      "onboard_time": 1738590870,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112546,
@@ -6251,6 +6339,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 109121,
+      "num": 247102,
+      "word": "孙颖莎连续正手发力太帅了",
+      "onboard_time": 1738592132,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109103,
       "num": 915533,
       "word": "大年初四去哪玩",
@@ -6305,14 +6401,6 @@
       "onboard_time": 1738424418,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107616,
-      "num": 477086,
-      "word": "2025年中国电影票房破百亿",
-      "onboard_time": 1738582831,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 107370,
@@ -6833,6 +6921,14 @@
       "onboard_time": 1738387938,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 86990,
+      "num": 246865,
+      "word": "2025多哈世乒赛规则出炉",
+      "onboard_time": 1738591108,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 86919,
@@ -7379,20 +7475,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54927,
+      "num": 477598,
+      "word": "春节返程出现高峰",
+      "onboard_time": 1738587688,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54110,
       "num": 330912,
       "word": "苏翊鸣世界杯坡障银牌",
       "onboard_time": 1738548444,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 54061,
-      "num": 477598,
-      "word": "春节返程出现高峰",
-      "onboard_time": 1738587688,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 53729,
@@ -7545,6 +7641,14 @@
       "onboard_time": 1738494859,
       "rank": 32,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 45265,
+      "num": 425510,
+      "word": "30年前命案逃犯大年初一落网",
+      "onboard_time": 1738591530,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44348,
@@ -7705,6 +7809,14 @@
       "onboard_time": 1738534572,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 35514,
+      "num": 559162,
+      "word": "手写二十四节气领略四季之美",
+      "onboard_time": 1738590390,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35077,
@@ -7920,6 +8032,14 @@
       "word": "文化中国行立春节气",
       "onboard_time": 1738538353,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24001,
+      "num": 248773,
+      "word": "节后工作日天气",
+      "onboard_time": 1738592310,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
