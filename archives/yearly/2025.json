@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738572097285,
+  "endTime": 1738574681928,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -664,6 +664,14 @@
       "word": "张凌赫的红包",
       "onboard_time": 1738057404,
       "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3521332,
+      "num": 321061,
+      "word": "大S财产第一继承人",
+      "onboard_time": 1738573647,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -2393,14 +2401,6 @@
       "onboard_time": 1738552229,
       "rank": 8,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1844246,
-      "num": 1844246,
-      "word": "DeepSeek",
-      "onboard_time": 1737947955,
-      "rank": 21,
-      "category": "互联网"
     }
   ],
   "hotgov_list": [

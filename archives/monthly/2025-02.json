@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738572097285,
+  "endTime": 1738574681928,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -73,6 +73,14 @@
       "onboard_time": 1738549593,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 3521332,
+      "num": 321061,
+      "word": "大S财产第一继承人",
+      "onboard_time": 1738573647,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 3434993,
@@ -489,6 +497,14 @@
       "onboard_time": 1738371496,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1020843,
+      "num": 304181,
+      "word": "她的去世就像小说烂尾",
+      "onboard_time": 1738570407,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 1012427,
@@ -1188,7 +1204,7 @@
     },
     {
       "raw_hot": 513838,
-      "num": 219354,
+      "num": 244560,
       "word": "李湘发文悼念",
       "onboard_time": 1738568068,
       "rank": 21,
@@ -1508,7 +1524,7 @@
     },
     {
       "raw_hot": 428085,
-      "num": 169146,
+      "num": 249568,
       "word": "美国超市冷藏柜拉出一只活狼",
       "onboard_time": 1738572028,
       "rank": 30,
@@ -1667,6 +1683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 388621,
+      "num": 881700,
+      "word": "哪吒2成中国影史春节档票房冠军",
+      "onboard_time": 1738557164,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 388366,
       "num": 388366,
       "word": "埃文凯尔原定来华30天待90天不愿走",
@@ -1769,6 +1793,14 @@
       "onboard_time": 1738430475,
       "rank": 29,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 366282,
+      "num": 222332,
+      "word": "杨丞琳发文悼念",
+      "onboard_time": 1738567348,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 366130,
@@ -1899,14 +1931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 343855,
-      "num": 175532,
-      "word": "杨丞琳发文悼念",
-      "onboard_time": 1738567348,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 343743,
       "num": 322280,
       "word": "春节档连续5天破10亿",
@@ -1969,14 +1993,6 @@
       "onboard_time": 1738402518,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 333096,
-      "num": 192793,
-      "word": "她的去世就像小说烂尾",
-      "onboard_time": 1738570407,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 332778,
@@ -2139,6 +2155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 312022,
+      "num": 225258,
+      "word": "华纳 金智秀",
+      "onboard_time": 1738571668,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 309395,
       "num": 263213,
       "word": "4D哪吒",
@@ -2251,14 +2275,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 294644,
-      "num": 881700,
-      "word": "哪吒2成中国影史春节档票房冠军",
-      "onboard_time": 1738557164,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
       "raw_hot": 293864,
       "num": 240909,
       "word": "马龙夏露日本逛街",
@@ -2323,6 +2339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 282715,
+      "num": 292516,
+      "word": "喝酒前吃了药一家三口被送抢救室",
+      "onboard_time": 1738556986,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 280742,
       "num": 185387,
       "word": "哪吒2或将进入影史票房前三",
@@ -2345,14 +2369,6 @@
       "onboard_time": 1738377978,
       "rank": 40,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 278284,
-      "num": 292516,
-      "word": "喝酒前吃了药一家三口被送抢救室",
-      "onboard_time": 1738556986,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 278035,
@@ -3139,6 +3155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204379,
+      "num": 204379,
+      "word": "迪丽热巴陈飞宇杀青照",
+      "onboard_time": 1738573585,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204368,
       "num": 194905,
       "word": "福克斯加盟马刺",
@@ -3475,6 +3499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 190548,
+      "num": 273713,
+      "word": "卢昱晓直播",
+      "onboard_time": 1738574007,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190249,
       "num": 190249,
       "word": "梁洁演晋江女主适配度",
@@ -3803,6 +3835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177468,
+      "num": 234623,
+      "word": "影院里有人打电话我全程为其打光",
+      "onboard_time": 1738568847,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 177421,
       "num": 177421,
       "word": "口臭可能是肝在求救",
@@ -3873,6 +3913,14 @@
       "onboard_time": 1738465336,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175056,
+      "num": 262666,
+      "word": "日本几乎全境属于流感警报级",
+      "onboard_time": 1738573107,
+      "rank": 19,
+      "category": "民生新闻,科学科普"
     },
     {
       "raw_hot": 174638,
@@ -3993,14 +4041,6 @@
       "onboard_time": 1738423277,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 167893,
-      "num": 167893,
-      "word": "华纳 金智秀",
-      "onboard_time": 1738571668,
-      "rank": 32,
-      "category": "音乐"
     },
     {
       "raw_hot": 167462,
@@ -4137,6 +4177,14 @@
       "onboard_time": 1738485018,
       "rank": 46,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 162206,
+      "num": 205972,
+      "word": "小伙当兵没回家9好友齐给父母拜年",
+      "onboard_time": 1738571966,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162061,
@@ -4497,14 +4545,6 @@
       "onboard_time": 1738537513,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 150711,
-      "num": 150711,
-      "word": "影院里有人打电话我全程为其打光",
-      "onboard_time": 1738568847,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 150406,
@@ -5915,6 +5955,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 104049,
+      "num": 104049,
+      "word": "邓为男狐狸精赛道",
+      "onboard_time": 1738574609,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103893,
       "num": 77695,
       "word": "海芋恋一开口就回到了盛夏",
@@ -5985,6 +6033,14 @@
       "onboard_time": 1738504700,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 101215,
+      "num": 101215,
+      "word": "刘昊然真的肯为朕花心思",
+      "onboard_time": 1738572687,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 101202,
@@ -6284,7 +6340,7 @@
     },
     {
       "raw_hot": 86919,
-      "num": 86919,
+      "num": 97471,
       "word": "东契奇做LA手势",
       "onboard_time": 1738565909,
       "rank": 49,
@@ -6297,6 +6353,14 @@
       "onboard_time": 1738336699,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85668,
+      "num": 105074,
+      "word": "患流感出现这几种症状应立即就医",
+      "onboard_time": 1738572087,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 84475,
@@ -6377,6 +6441,14 @@
       "onboard_time": 1738479617,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 80801,
+      "num": 100694,
+      "word": "川A川G不语只是一味堵车",
+      "onboard_time": 1738569027,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80474,
@@ -6513,6 +6585,14 @@
       "onboard_time": 1738415060,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72419,
+      "num": 99132,
+      "word": "建议奶茶店都学习这种糖分写法",
+      "onboard_time": 1738573767,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 71523,
@@ -7131,6 +7211,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 32894,
+      "num": 329743,
+      "word": "他守护大家我们替他守护小家",
+      "onboard_time": 1738573946,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32438,
       "num": 195275,
       "word": "白色橄榄树里的宋冉梁洁都对上了",
@@ -7441,14 +7529,6 @@
       "onboard_time": 1738357151,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 13589,
-      "num": 161486,
-      "word": "小伙当兵没回家9好友齐给父母拜年",
-      "onboard_time": 1738571966,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12595,

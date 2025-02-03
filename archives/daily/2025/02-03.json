@@ -1,6 +1,6 @@
 {
   "startTime": 1738513501648,
-  "endTime": 1738572097285,
+  "endTime": 1738574681928,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -73,6 +73,14 @@
       "onboard_time": 1738549593,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 3521332,
+      "num": 321061,
+      "word": "大S财产第一继承人",
+      "onboard_time": 1738573647,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 3434993,
@@ -241,6 +249,14 @@
       "onboard_time": 1738509379,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1020843,
+      "num": 304181,
+      "word": "她的去世就像小说烂尾",
+      "onboard_time": 1738570407,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 973920,
@@ -428,7 +444,7 @@
     },
     {
       "raw_hot": 513838,
-      "num": 219354,
+      "num": 244560,
       "word": "李湘发文悼念",
       "onboard_time": 1738568068,
       "rank": 21,
@@ -516,7 +532,7 @@
     },
     {
       "raw_hot": 428085,
-      "num": 169146,
+      "num": 249568,
       "word": "美国超市冷藏柜拉出一只活狼",
       "onboard_time": 1738572028,
       "rank": 30,
@@ -571,6 +587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 388621,
+      "num": 881700,
+      "word": "哪吒2成中国影史春节档票房冠军",
+      "onboard_time": 1738557164,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 385741,
       "num": 328585,
       "word": "封神自来水致乌尔善的一封信",
@@ -585,6 +609,14 @@
       "onboard_time": 1738510759,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 366282,
+      "num": 222332,
+      "word": "杨丞琳发文悼念",
+      "onboard_time": 1738567348,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 366130,
@@ -611,28 +643,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 343855,
-      "num": 175532,
-      "word": "杨丞琳发文悼念",
-      "onboard_time": 1738567348,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 337417,
       "num": 337417,
       "word": "邓为勇闯贞洁烈男赛道",
       "onboard_time": 1738554185,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 333096,
-      "num": 192793,
-      "word": "她的去世就像小说烂尾",
-      "onboard_time": 1738570407,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 332316,
@@ -673,6 +689,14 @@
       "onboard_time": 1738545498,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 312022,
+      "num": 225258,
+      "word": "华纳 金智秀",
+      "onboard_time": 1738571668,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 310099,
@@ -731,14 +755,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 294644,
-      "num": 881700,
-      "word": "哪吒2成中国影史春节档票房冠军",
-      "onboard_time": 1738557164,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
       "raw_hot": 293336,
       "num": 292372,
       "word": "霉霉本命年穿搭",
@@ -771,20 +787,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 282715,
+      "num": 292516,
+      "word": "喝酒前吃了药一家三口被送抢救室",
+      "onboard_time": 1738556986,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 279845,
       "num": 279845,
       "word": "吴京包场",
       "onboard_time": 1738557402,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 278284,
-      "num": 292516,
-      "word": "喝酒前吃了药一家三口被送抢救室",
-      "onboard_time": 1738556986,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 262468,
@@ -979,6 +995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204379,
+      "num": 204379,
+      "word": "迪丽热巴陈飞宇杀青照",
+      "onboard_time": 1738573585,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204368,
       "num": 194905,
       "word": "福克斯加盟马刺",
@@ -1059,6 +1083,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 190548,
+      "num": 273713,
+      "word": "卢昱晓直播",
+      "onboard_time": 1738574007,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188070,
       "num": 188070,
       "word": "您的五块正在骂您的三千块",
@@ -1107,12 +1139,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177468,
+      "num": 234623,
+      "word": "影院里有人打电话我全程为其打光",
+      "onboard_time": 1738568847,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 175320,
       "num": 175320,
       "word": "看了哪吒2才知道大闹天宫的含金量",
       "onboard_time": 1738560334,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 175056,
+      "num": 262666,
+      "word": "日本几乎全境属于流感警报级",
+      "onboard_time": 1738573107,
+      "rank": 19,
+      "category": "民生新闻,科学科普"
     },
     {
       "raw_hot": 174498,
@@ -1129,14 +1177,6 @@
       "onboard_time": 1738562493,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 167893,
-      "num": 167893,
-      "word": "华纳 金智秀",
-      "onboard_time": 1738571668,
-      "rank": 32,
-      "category": "音乐"
     },
     {
       "raw_hot": 167235,
@@ -1160,6 +1200,14 @@
       "word": "躲春",
       "onboard_time": 1738489639,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162206,
+      "num": 205972,
+      "word": "小伙当兵没回家9好友齐给父母拜年",
+      "onboard_time": 1738571966,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -1201,14 +1249,6 @@
       "onboard_time": 1738537513,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 150711,
-      "num": 150711,
-      "word": "影院里有人打电话我全程为其打光",
-      "onboard_time": 1738568847,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 149408,
@@ -1491,12 +1531,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 104049,
+      "num": 104049,
+      "word": "邓为男狐狸精赛道",
+      "onboard_time": 1738574609,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102635,
       "num": 102635,
       "word": "陈哲远演技",
       "onboard_time": 1738506320,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101215,
+      "num": 101215,
+      "word": "刘昊然真的肯为朕花心思",
+      "onboard_time": 1738572687,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 101075,
@@ -1564,11 +1620,19 @@
     },
     {
       "raw_hot": 86919,
-      "num": 86919,
+      "num": 97471,
       "word": "东契奇做LA手势",
       "onboard_time": 1738565909,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85668,
+      "num": 105074,
+      "word": "患流感出现这几种症状应立即就医",
+      "onboard_time": 1738572087,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 83265,
@@ -1577,6 +1641,14 @@
       "onboard_time": 1738570166,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 80801,
+      "num": 100694,
+      "word": "川A川G不语只是一味堵车",
+      "onboard_time": 1738569027,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79787,
@@ -1617,6 +1689,14 @@
       "onboard_time": 1738503200,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72419,
+      "num": 99132,
+      "word": "建议奶茶店都学习这种糖分写法",
+      "onboard_time": 1738573767,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 68305,
@@ -1763,6 +1843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 32894,
+      "num": 329743,
+      "word": "他守护大家我们替他守护小家",
+      "onboard_time": 1738573946,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30278,
       "num": 30278,
       "word": "电影哪吒之魔童闹海",
@@ -1833,14 +1921,6 @@
       "onboard_time": 1738566450,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 13589,
-      "num": 161486,
-      "word": "小伙当兵没回家9好友齐给父母拜年",
-      "onboard_time": 1738571966,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10877,
