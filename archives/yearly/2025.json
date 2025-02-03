@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738554059722,
+  "endTime": 1738556795766,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 11918137,
+      "num": 11918137,
+      "word": "大S在日本火化",
+      "onboard_time": 1738553826,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 11656509,
       "num": 11656509,
       "word": "王星弟弟已与其通视频电话",
@@ -249,14 +257,6 @@
       "onboard_time": 1736000553,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 9082993,
-      "num": 9082993,
-      "word": "大S在日本火化",
-      "onboard_time": 1738553826,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 9076991,
@@ -489,6 +489,14 @@
       "onboard_time": 1738069063,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 4416500,
+      "num": 1416686,
+      "word": "再见了杉菜",
+      "onboard_time": 1738552467,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 4271465,
@@ -1979,14 +1987,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1979680,
-      "num": 1410667,
-      "word": "再见了杉菜",
-      "onboard_time": 1738552467,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1979319,
       "num": 1979319,
       "word": "谷爱凌摔倒已不能走路",
@@ -2153,6 +2153,14 @@
       "onboard_time": 1738050679,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1904111,
+      "num": 1904111,
+      "word": "流感为何会致命",
+      "onboard_time": 1738554066,
+      "rank": 3,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1902331,
@@ -2331,6 +2339,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1844335,
+      "num": 892705,
+      "word": "吴宗宪发声悼念",
+      "onboard_time": 1738556446,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1844246,
       "num": 1844246,
       "word": "DeepSeek",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1735798942,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1807619,
-      "num": 1807619,
-      "word": "珠海驾车撞人案罪犯被执行死刑",
-      "onboard_time": 1737355397,
-      "rank": 0,
-      "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 1807004,
-      "num": 962240,
-      "word": "演员王星女友更新最新情况",
-      "onboard_time": 1736207300,
-      "rank": 3,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
