@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738587431452,
+  "endTime": 1738589204063,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -875,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3068014,
+      "num": 3068014,
+      "word": "躲春",
+      "onboard_time": 1738489639,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 3055513,
       "num": 3055513,
       "word": "白鹿红包",
@@ -1011,6 +1019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2854543,
+      "num": 603324,
+      "word": "日本导游曝光大S去世全过程",
+      "onboard_time": 1738589009,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2842832,
       "num": 2842832,
       "word": "公安机关公布王星被骗至缅甸细节",
@@ -1121,14 +1137,6 @@
       "onboard_time": 1736396663,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2715000,
-      "num": 2715000,
-      "word": "躲春",
-      "onboard_time": 1738489639,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 2693767,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735869680,
       "rank": 0,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 1857607,
-      "num": 1096192,
-      "word": "手机购新补贴方案来了",
-      "onboard_time": 1736305463,
-      "rank": 1,
-      "category": "数码"
     }
   ],
   "hotgov_list": [
