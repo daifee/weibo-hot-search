@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/02/02 00:24:31 ~ 2025/02/04 01:37:00
+本榜单时间：2025/02/02 00:24:31 ~ 2025/02/04 02:30:09
 </p>
 </blockquote>
 <p>
@@ -3825,6 +3825,12 @@ DeepSeek创始人同乡回应游客打卡（热度：107704）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B6%851400%E4%B8%87%E4%BA%BA%E7%94%B3%E8%AF%B7%E5%9B%BD%E8%A1%A5%E4%B9%B0%E6%89%8B%E6%9C%BA%E7%AD%89%E4%BA%A7%E5%93%81%23" target="weibo">
+超1400万人申请国补买手机等产品（热度：56953）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%88%E5%82%858%E5%88%86%E9%92%9F%E5%9C%A8%E7%82%89%E5%AD%90%E9%87%8C%E8%B4%B4%E6%BB%A1140%E4%B8%AA%E7%83%A7%E9%A5%BC%23" target="weibo">
 师傅8分钟在炉子里贴满140个烧饼（热度：55759）
 </a>
@@ -4199,6 +4205,12 @@ susu福福（热度：22284）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%87%8F%E7%BE%8E%E5%9B%BD%E8%81%94%E9%82%A6%E9%9B%87%E5%91%98%E5%B7%B2%E6%8E%A5%E5%8F%97%E4%B9%B0%E6%96%AD%E8%AE%A1%E5%88%92%23" target="weibo">
 大量美国联邦雇员已接受买断计划（热度：19755）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2390%E5%B2%81%E7%88%B7%E7%88%B7%E4%B8%80%E5%87%BA%E9%97%A8%E5%B0%B1%E8%A6%81%E7%89%B5%E8%80%81%E4%BC%B4%E7%9A%84%E6%89%8B%23" target="weibo">
+90岁爷爷一出门就要牵老伴的手（热度：19026）
 </a>
 </li>
 

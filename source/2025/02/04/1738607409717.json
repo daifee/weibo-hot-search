@@ -1,0 +1,402 @@
+{
+  "runTime": 1738607409717,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 260740,
+        "num": 260740,
+        "word": "吴京 流浪地球3",
+        "onboard_time": 1738591349,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170065,
+        "num": 170065,
+        "word": "奥司他韦不能乱吃",
+        "onboard_time": 1738592372,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 16449,
+        "num": 168951,
+        "word": "亚冬会火炬传递圆满结束",
+        "onboard_time": 1738589309,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 617311,
+        "num": 167840,
+        "word": "大S朋友圈签名",
+        "onboard_time": 1738594530,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109169,
+        "num": 165789,
+        "word": "流感合并肺炎有这些症状",
+        "onboard_time": 1738590810,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104756,
+        "num": 164867,
+        "word": "雇主失联育儿嫂当妈3年带娃走亲戚",
+        "onboard_time": 1738597167,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164244,
+        "num": 164244,
+        "word": "哪吒2进影史前10",
+        "onboard_time": 1738595671,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110529,
+        "num": 162509,
+        "word": "光线要拍敖丙传",
+        "onboard_time": 1738595671,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 79764,
+        "num": 161133,
+        "word": "日本一制药公司暂停供应奥司他韦",
+        "onboard_time": 1738574967,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 77134,
+        "num": 159102,
+        "word": "躲春",
+        "onboard_time": 1738579768,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300385,
+        "num": 157437,
+        "word": "汪小菲说大S是我的家人",
+        "onboard_time": 1738584151,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70956,
+        "num": 155050,
+        "word": "七成癫痫患者经治疗可不再发病",
+        "onboard_time": 1738594109,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220553,
+        "num": 154317,
+        "word": "小S两个女儿回台",
+        "onboard_time": 1738590329,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67319,
+        "num": 151349,
+        "word": "中方舰艇编队正常过航巴西兰海峡",
+        "onboard_time": 1738593091,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151060,
+        "num": 151060,
+        "word": "小S 感恩这辈子能成为她的姊妹",
+        "onboard_time": 1738564112,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56953,
+        "num": 134410,
+        "word": "超1400万人申请国补买手机等产品",
+        "onboard_time": 1738604837,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129635,
+        "num": 129635,
+        "word": "亲友找不到具俊晔",
+        "onboard_time": 1738577668,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50423,
+        "num": 125673,
+        "word": "日本爆发流感游客发声",
+        "onboard_time": 1738579650,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94260,
+        "num": 125636,
+        "word": "S妈小梅回应",
+        "onboard_time": 1738579768,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46788,
+        "num": 125635,
+        "word": "多位博主曾建议近期不要赴日本旅游",
+        "onboard_time": 1738582173,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125635,
+        "num": 125634,
+        "word": "27岁演员梁祐诚大年初二突然去世",
+        "onboard_time": 1738576107,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117083,
+        "num": 117083,
+        "word": "射雕疑似被恶意打分",
+        "onboard_time": 1738603457,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 82060,
+        "num": 116939,
+        "word": "成毅登上日本杂志封面",
+        "onboard_time": 1738600403,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 64621,
+        "num": 116875,
+        "word": "李瓒听不到了",
+        "onboard_time": 1738590269,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60395,
+        "num": 116753,
+        "word": "四川一百岁老人寿宴摆了118桌",
+        "onboard_time": 1738596987,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19026,
+        "num": 116563,
+        "word": "90岁爷爷一出门就要牵老伴的手",
+        "onboard_time": 1738606036,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61313,
+        "num": 116469,
+        "word": "敖光是参考故宫龙的标准中国龙",
+        "onboard_time": 1738597049,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 55301,
+        "num": 116230,
+        "word": "春节档六部电影豆瓣开分",
+        "onboard_time": 1738591108,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 54518,
+        "num": 116089,
+        "word": "哪吒逆跌",
+        "onboard_time": 1738592611,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 51230,
+        "num": 115857,
+        "word": "她的去世就像小说烂尾",
+        "onboard_time": 1738570407,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42424,
+        "num": 115732,
+        "word": "美国超市冷藏柜拉出一只活狼",
+        "onboard_time": 1738572028,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 41959,
+        "num": 115440,
+        "word": "敖丙小鼻嘎",
+        "onboard_time": 1738587688,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40843,
+        "num": 115383,
+        "word": "哪吒2票房突破40亿",
+        "onboard_time": 1738585469,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40840,
+        "num": 115194,
+        "word": "射雕豆瓣5.5",
+        "onboard_time": 1738586129,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 39499,
+        "num": 115087,
+        "word": "金智秀销量",
+        "onboard_time": 1738588769,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 37877,
+        "num": 114976,
+        "word": "媒体称樊振东要的不仅仅是参赛资格",
+        "onboard_time": 1738593510,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33764,
+        "num": 114797,
+        "word": "韩国棋院取消累计犯规直接判负规则",
+        "onboard_time": 1738594653,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31607,
+        "num": 114547,
+        "word": "王楚钦说要用成绩让大家放心",
+        "onboard_time": 1738598604,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26003,
+        "num": 114525,
+        "word": "躲春时间",
+        "onboard_time": 1738589009,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38960,
+        "num": 114342,
+        "word": "票房",
+        "onboard_time": 1738592071,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 36049,
+        "num": 114131,
+        "word": "沈月演技",
+        "onboard_time": 1738595069,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34832,
+        "num": 113972,
+        "word": "敖光 精灵王",
+        "onboard_time": 1738592492,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32473,
+        "num": 113823,
+        "word": "哪吒2",
+        "onboard_time": 1738579768,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 33086,
+        "num": 113745,
+        "word": "哪吒票房一会就多一个亿",
+        "onboard_time": 1738581570,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25646,
+        "num": 113557,
+        "word": "央视主播上新00后",
+        "onboard_time": 1738581329,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24360,
+        "num": 113355,
+        "word": "医生解释流感引发肺炎为何会死亡",
+        "onboard_time": 1738579709,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 23773,
+        "num": 113287,
+        "word": "车头是生活车尾是故乡",
+        "onboard_time": 1738602559,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23096,
+        "num": 113178,
+        "word": "立春",
+        "onboard_time": 1738592790,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20677,
+        "num": 112993,
+        "word": "日本游客称路上有很多人咳嗽",
+        "onboard_time": 1738577548,
+        "rank": 48,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记从剪纸感受春日美好#"
+    }
+  }
+}
