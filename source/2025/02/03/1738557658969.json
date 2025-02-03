@@ -1,0 +1,410 @@
+{
+  "runTime": 1738557658969,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 17394862,
+        "num": 17394862,
+        "word": "大S去世",
+        "onboard_time": 1738550873,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 9132325,
+        "num": 9132325,
+        "word": "日本流感",
+        "onboard_time": 1738551558,
+        "rank": 1,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 140417,
+        "num": 3424077,
+        "word": "从古诗词中感受立春之美",
+        "onboard_time": 1738555789,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1696086,
+        "num": 1696086,
+        "word": "流感为何会致命",
+        "onboard_time": 1738554066,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 969436,
+        "num": 969436,
+        "word": "正月初六把穷气送出门",
+        "onboard_time": 1738545918,
+        "rank": 4,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 8976732,
+        "num": 8976732,
+        "word": "大S在日本火化",
+        "onboard_time": 1738553826,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 4145910,
+        "num": 964538,
+        "word": "再见了杉菜",
+        "onboard_time": 1738552467,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 961061,
+        "num": 961061,
+        "word": "金饰价格突破847元每克",
+        "onboard_time": 1738552229,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 924262,
+        "num": 924262,
+        "word": "流感不是普通的重感冒",
+        "onboard_time": 1738554837,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 807183,
+        "num": 807183,
+        "word": "大年初六",
+        "onboard_time": 1738513697,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1851159,
+        "num": 777515,
+        "word": "吴宗宪发声悼念",
+        "onboard_time": 1738556446,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127591,
+        "num": 727069,
+        "word": "中国古人测定一年时间误差仅26秒",
+        "onboard_time": 1738549593,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1467106,
+        "num": 694404,
+        "word": "阿雅 一路走好最美的大王",
+        "onboard_time": 1738555849,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106079,
+        "num": 646578,
+        "word": "专家称这一波流感预计到3月才过季",
+        "onboard_time": 1738557284,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 95197,
+        "num": 601070,
+        "word": "过年走亲戚变为躲亲戚",
+        "onboard_time": 1738556624,
+        "rank": 14,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 1315833,
+        "num": 545989,
+        "word": "格莱美",
+        "onboard_time": 1738543876,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1166444,
+        "num": 480385,
+        "word": "熙媛 我始终觉得你应该更幸福",
+        "onboard_time": 1738556624,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 972419,
+        "num": 447624,
+        "word": "小英老公出轨",
+        "onboard_time": 1738549593,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 417720,
+        "num": 417720,
+        "word": "正月初六恰逢立春",
+        "onboard_time": 1738546881,
+        "rank": 18,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 250510,
+        "num": 411251,
+        "word": "流感并发症有多危险",
+        "onboard_time": 1738557164,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1134882,
+        "num": 405012,
+        "word": "日本流感到底有多严重",
+        "onboard_time": 1738556207,
+        "rank": 20,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 784213,
+        "num": 396014,
+        "word": "石矶娘娘打破白幼瘦审美枷锁",
+        "onboard_time": 1738553946,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 546076,
+        "num": 393062,
+        "word": "康熙来了",
+        "onboard_time": 1738552289,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 423733,
+        "num": 384129,
+        "word": "泡沫之夏",
+        "onboard_time": 1738556865,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 418369,
+        "num": 375231,
+        "word": "影院回应一天排99场哪吒2",
+        "onboard_time": 1738515616,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 372323,
+        "num": 372323,
+        "word": "女生醒来相亲对象站床边系摆拍",
+        "onboard_time": 1738538894,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 368553,
+        "num": 368553,
+        "word": "格莱美红毯",
+        "onboard_time": 1738540755,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 349228,
+        "num": 349228,
+        "word": "哪吒2爆火后唯一受害者出现",
+        "onboard_time": 1738503980,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 336918,
+        "num": 336918,
+        "word": "比特币",
+        "onboard_time": 1738553473,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 307564,
+        "num": 334780,
+        "word": "殷寿一不留神猫狗双全了",
+        "onboard_time": 1738556146,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 334149,
+        "num": 334149,
+        "word": "邓为勇闯贞洁烈男赛道",
+        "onboard_time": 1738554185,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 332316,
+        "num": 332316,
+        "word": "哪吒2导演春节蹲家画破亿海报",
+        "onboard_time": 1738553648,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 321528,
+        "num": 321528,
+        "word": "为什么女厕所门口永远在排队",
+        "onboard_time": 1738549593,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 319625,
+        "num": 319625,
+        "word": "立春咬春病不沾身",
+        "onboard_time": 1738507459,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311004,
+        "num": 311004,
+        "word": "娱乐百分百",
+        "onboard_time": 1738553767,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303582,
+        "num": 303582,
+        "word": "流星花园",
+        "onboard_time": 1738552409,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278284,
+        "num": 278284,
+        "word": "喝酒前吃了药一家三口被送抢救室",
+        "onboard_time": 1738556986,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238246,
+        "num": 238246,
+        "word": "电影封神第二部",
+        "onboard_time": 1738556207,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 226989,
+        "num": 226989,
+        "word": "哪吒2有望成中国影史新票房冠军",
+        "onboard_time": 1738557164,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198871,
+        "num": 216487,
+        "word": "被卡住的中年人在同学聚会交换秘密",
+        "onboard_time": 1738554131,
+        "rank": 39,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 208100,
+        "num": 208100,
+        "word": "吴京包场",
+        "onboard_time": 1738557402,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 206252,
+        "num": 206252,
+        "word": "哪吒",
+        "onboard_time": 1738504758,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183030,
+        "num": 183030,
+        "word": "六姊妹今日开播",
+        "onboard_time": 1738552819,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189322,
+        "num": 176009,
+        "word": "电影票房高低反映观众的选择",
+        "onboard_time": 1738544356,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165765,
+        "num": 165765,
+        "word": "北京女生在泰国2400平米的家",
+        "onboard_time": 1738544716,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165119,
+        "num": 165119,
+        "word": "亚冬会火炬手最小的16岁",
+        "onboard_time": 1738555430,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154950,
+        "num": 154950,
+        "word": "过年真的好费钱啊",
+        "onboard_time": 1738546278,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141937,
+        "num": 141937,
+        "word": "樊振东和孙颖莎自动入围世界杯",
+        "onboard_time": 1738545498,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140374,
+        "num": 140374,
+        "word": "有人返程有人还在原地满勤",
+        "onboard_time": 1738550746,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136939,
+        "num": 136939,
+        "word": "立春躲春的正确方式",
+        "onboard_time": 1738500920,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#6年前的这个场景真暖#"
+    }
+  }
+}

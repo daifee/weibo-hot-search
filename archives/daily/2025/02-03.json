@@ -1,6 +1,6 @@
 {
   "startTime": 1738513501648,
-  "endTime": 1738556795766,
+  "endTime": 1738557658969,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -91,6 +91,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1851159,
+      "num": 892705,
+      "word": "吴宗宪发声悼念",
+      "onboard_time": 1738556446,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1845983,
       "num": 1845983,
       "word": "金饰价格突破847元每克",
@@ -99,19 +107,19 @@
       "category": "财经"
     },
     {
-      "raw_hot": 1844335,
-      "num": 892705,
-      "word": "吴宗宪发声悼念",
-      "onboard_time": 1738556446,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1496518,
       "num": 1139978,
       "word": "汪小菲今天从泰国赶回台湾",
       "onboard_time": 1738553604,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1467106,
+      "num": 694404,
+      "word": "阿雅 一路走好最美的大王",
+      "onboard_time": 1738555849,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -131,12 +139,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1166444,
+      "num": 480385,
+      "word": "熙媛 我始终觉得你应该更幸福",
+      "onboard_time": 1738556624,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1162968,
       "num": 1125778,
       "word": "哪吒2爆火后唯一受害者出现",
       "onboard_time": 1738503980,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1134882,
+      "num": 405012,
+      "word": "日本流感到底有多严重",
+      "onboard_time": 1738556207,
+      "rank": 34,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 1122036,
@@ -171,20 +195,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 908264,
-      "num": 908264,
+      "raw_hot": 924262,
+      "num": 924262,
       "word": "流感不是普通的重感冒",
       "onboard_time": 1738554837,
       "rank": 8,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 900013,
-      "num": 329315,
-      "word": "阿雅 一路走好最美的大王",
-      "onboard_time": 1738555849,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 870892,
@@ -195,16 +211,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 832745,
-      "num": 291488,
-      "word": "日本流感到底有多严重",
-      "onboard_time": 1738556207,
-      "rank": 34,
-      "category": "民生新闻,艺人"
-    },
-    {
-      "raw_hot": 803839,
-      "num": 803839,
+      "raw_hot": 807183,
+      "num": 807183,
       "word": "大年初六",
       "onboard_time": 1738513697,
       "rank": 43,
@@ -291,14 +299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 526325,
-      "num": 411979,
-      "word": "熙媛 我始终觉得你应该更幸福",
-      "onboard_time": 1738556624,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 511214,
       "num": 411755,
       "word": "哪吒2里一根根锁链是导演的坚持",
@@ -369,6 +369,14 @@
       "onboard_time": 1738542015,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 423733,
+      "num": 384129,
+      "word": "泡沫之夏",
+      "onboard_time": 1738556865,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 410534,
@@ -459,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 332316,
+      "num": 900505,
+      "word": "哪吒2导演春节蹲家画破亿海报",
+      "onboard_time": 1738553648,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 327552,
       "num": 327552,
       "word": "有人返程有人还在原地满勤",
@@ -489,6 +505,14 @@
       "onboard_time": 1738552819,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 307564,
+      "num": 337988,
+      "word": "殷寿一不留神猫狗双全了",
+      "onboard_time": 1738556146,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 305099,
@@ -523,6 +547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 278284,
+      "num": 278284,
+      "word": "喝酒前吃了药一家三口被送抢救室",
+      "onboard_time": 1738556986,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 262468,
       "num": 262468,
       "word": "樊振东和孙颖莎自动入围世界杯",
@@ -547,20 +579,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 254971,
-      "num": 337988,
-      "word": "殷寿一不留神猫狗双全了",
-      "onboard_time": 1738556146,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 251990,
-      "num": 176303,
+      "num": 238246,
       "word": "电影封神第二部",
       "onboard_time": 1738556207,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 250510,
+      "num": 411251,
+      "word": "流感并发症有多危险",
+      "onboard_time": 1738557164,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 247474,
@@ -569,14 +601,6 @@
       "onboard_time": 1738552229,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 247425,
-      "num": 900505,
-      "word": "哪吒2导演春节蹲家画破亿海报",
-      "onboard_time": 1738553648,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 245700,
@@ -619,6 +643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 226989,
+      "num": 226989,
+      "word": "哪吒2有望成中国影史新票房冠军",
+      "onboard_time": 1738557164,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 225619,
       "num": 225619,
       "word": "拜托这可是陈哲远亲自选的女主",
@@ -641,6 +673,14 @@
       "onboard_time": 1738538894,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208100,
+      "num": 208100,
+      "word": "吴京包场",
+      "onboard_time": 1738557402,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 206846,
@@ -699,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198871,
+      "num": 216487,
+      "word": "被卡住的中年人在同学聚会交换秘密",
+      "onboard_time": 1738554131,
+      "rank": 39,
+      "category": "情感,民生新闻"
+    },
+    {
       "raw_hot": 188070,
       "num": 188070,
       "word": "您的五块正在骂您的三千块",
@@ -737,14 +785,6 @@
       "onboard_time": 1738550682,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 176383,
-      "num": 176383,
-      "word": "被卡住的中年人在同学聚会交换秘密",
-      "onboard_time": 1738554131,
-      "rank": 39,
-      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 174498,
@@ -843,12 +883,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 140417,
+      "num": 4461898,
+      "word": "从古诗词中感受立春之美",
+      "onboard_time": 1738555789,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 137467,
       "num": 137467,
       "word": "爸爸刚喝一口就化身老戏骨",
       "onboard_time": 1738542857,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127591,
+      "num": 727069,
+      "word": "中国古人测定一年时间误差仅26秒",
+      "onboard_time": 1738549593,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127178,
@@ -955,14 +1011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 112522,
-      "num": 112522,
-      "word": "中国古人测定一年时间误差仅26秒",
-      "onboard_time": 1738549593,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111863,
       "num": 111863,
       "word": "大年初五迎财神",
@@ -995,14 +1043,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 109342,
-      "num": 4461898,
-      "word": "从古诗词中感受立春之美",
-      "onboard_time": 1738555789,
-      "rank": 2,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 107760,
       "num": 107760,
       "word": "丁禹兮春晚高清大图",
@@ -1025,6 +1065,14 @@
       "onboard_time": 1738512918,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106079,
+      "num": 646578,
+      "word": "专家称这一波流感预计到3月才过季",
+      "onboard_time": 1738557284,
+      "rank": 13,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 102635,
@@ -1057,6 +1105,14 @@
       "onboard_time": 1738546460,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95197,
+      "num": 601070,
+      "word": "过年走亲戚变为躲亲戚",
+      "onboard_time": 1738556624,
+      "rank": 33,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 93090,
@@ -1305,14 +1361,6 @@
       "onboard_time": 1738524072,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 8461,
-      "num": 299503,
-      "word": "过年走亲戚变为躲亲戚",
-      "onboard_time": 1738556624,
-      "rank": 33,
-      "category": "幽默,情感"
     }
   ],
   "hotgov_list": [
@@ -1321,6 +1369,9 @@
     },
     {
       "word": "#在古城古巷感受文化脉动#"
+    },
+    {
+      "word": "#6年前的这个场景真暖#"
     }
   ]
 }

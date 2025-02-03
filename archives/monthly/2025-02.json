@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738556795766,
+  "endTime": 1738557658969,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -123,20 +123,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1851159,
+      "num": 892705,
+      "word": "吴宗宪发声悼念",
+      "onboard_time": 1738556446,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1845983,
       "num": 1845983,
       "word": "金饰价格突破847元每克",
       "onboard_time": 1738552229,
       "rank": 8,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1844335,
-      "num": 892705,
-      "word": "吴宗宪发声悼念",
-      "onboard_time": 1738556446,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1708063,
@@ -208,6 +208,14 @@
       "word": "李小冉回应退繁花群",
       "onboard_time": 1738370415,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1467106,
+      "num": 694404,
+      "word": "阿雅 一路走好最美的大王",
+      "onboard_time": 1738555849,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -283,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1166444,
+      "num": 480385,
+      "word": "熙媛 我始终觉得你应该更幸福",
+      "onboard_time": 1738556624,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1160918,
       "num": 1160918,
       "word": "飞机上捡到鞭炮无论真假都要有人担责",
@@ -305,6 +321,14 @@
       "onboard_time": 1738430234,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1134882,
+      "num": 405012,
+      "word": "日本流感到底有多严重",
+      "onboard_time": 1738556207,
+      "rank": 34,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 1122036,
@@ -507,20 +531,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 908264,
-      "num": 908264,
+      "raw_hot": 924262,
+      "num": 924262,
       "word": "流感不是普通的重感冒",
       "onboard_time": 1738554837,
       "rank": 8,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 900013,
-      "num": 329315,
-      "word": "阿雅 一路走好最美的大王",
-      "onboard_time": 1738555849,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 896042,
@@ -611,14 +627,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 832745,
-      "num": 291488,
-      "word": "日本流感到底有多严重",
-      "onboard_time": 1738556207,
-      "rank": 34,
-      "category": "民生新闻,艺人"
-    },
-    {
       "raw_hot": 820000,
       "num": 820000,
       "word": "异人之下2导演致歉",
@@ -643,20 +651,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 807183,
+      "num": 807183,
+      "word": "大年初六",
+      "onboard_time": 1738513697,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 804661,
       "num": 450623,
       "word": "美国4天内4机坠毁",
       "onboard_time": 1738397178,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 803839,
-      "num": 803839,
-      "word": "大年初六",
-      "onboard_time": 1738513697,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 791825,
@@ -1035,14 +1043,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 526325,
-      "num": 411979,
-      "word": "熙媛 我始终觉得你应该更幸福",
-      "onboard_time": 1738556624,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 519419,
       "num": 519419,
       "word": "美方曾请求我国整类列管芬太尼类物质",
@@ -1369,6 +1369,14 @@
       "onboard_time": 1738378817,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 423733,
+      "num": 384129,
+      "word": "泡沫之夏",
+      "onboard_time": 1738556865,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 421979,
@@ -1819,6 +1827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 332316,
+      "num": 900505,
+      "word": "哪吒2导演春节蹲家画破亿海报",
+      "onboard_time": 1738553648,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 331555,
       "num": 257304,
       "word": "敖光",
@@ -1963,6 +1979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 307564,
+      "num": 337988,
+      "word": "殷寿一不留神猫狗双全了",
+      "onboard_time": 1738556146,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 305957,
       "num": 281736,
       "word": "关晓彤为哪吒2国漫打call",
@@ -2099,6 +2123,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 278284,
+      "num": 278284,
+      "word": "喝酒前吃了药一家三口被送抢救室",
+      "onboard_time": 1738556986,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 278035,
       "num": 267318,
       "word": "不要因为花父母的钱而感到内疚",
@@ -2227,14 +2259,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 254971,
-      "num": 337988,
-      "word": "殷寿一不留神猫狗双全了",
-      "onboard_time": 1738556146,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 254666,
       "num": 254666,
       "word": "哪吒2一条锁链就做了近4个月",
@@ -2260,7 +2284,7 @@
     },
     {
       "raw_hot": 251990,
-      "num": 176303,
+      "num": 238246,
       "word": "电影封神第二部",
       "onboard_time": 1738556207,
       "rank": 40,
@@ -2291,6 +2315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 250510,
+      "num": 411251,
+      "word": "流感并发症有多危险",
+      "onboard_time": 1738557164,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 248507,
       "num": 248507,
       "word": "王楚钦希望WTT多听听运动员的声音",
@@ -2313,14 +2345,6 @@
       "onboard_time": 1738552229,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 247425,
-      "num": 900505,
-      "word": "哪吒2导演春节蹲家画破亿海报",
-      "onboard_time": 1738553648,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 245937,
@@ -2521,6 +2545,14 @@
       "onboard_time": 1738438871,
       "rank": 17,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 226989,
+      "num": 226989,
+      "word": "哪吒2有望成中国影史新票房冠军",
+      "onboard_time": 1738557164,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 226782,
@@ -2763,6 +2795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208100,
+      "num": 208100,
+      "word": "吴京包场",
+      "onboard_time": 1738557402,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 207365,
       "num": 146008,
       "word": "黄晓明晒妈妈炸的鱼",
@@ -2961,6 +3001,14 @@
       "onboard_time": 1738486157,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198871,
+      "num": 216487,
+      "word": "被卡住的中年人在同学聚会交换秘密",
+      "onboard_time": 1738554131,
+      "rank": 39,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 198407,
@@ -3481,14 +3529,6 @@
       "onboard_time": 1738416438,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 176383,
-      "num": 176383,
-      "word": "被卡住的中年人在同学聚会交换秘密",
-      "onboard_time": 1738554131,
-      "rank": 39,
-      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 175622,
@@ -4459,6 +4499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140417,
+      "num": 4461898,
+      "word": "从古诗词中感受立春之美",
+      "onboard_time": 1738555789,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 139668,
       "num": 139668,
       "word": "钟辰乐空降",
@@ -4753,6 +4801,14 @@
       "onboard_time": 1738459336,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127591,
+      "num": 727069,
+      "word": "中国古人测定一年时间误差仅26秒",
+      "onboard_time": 1738549593,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127466,
@@ -5211,14 +5267,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 112522,
-      "num": 112522,
-      "word": "中国古人测定一年时间误差仅26秒",
-      "onboard_time": 1738549593,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112381,
       "num": 112381,
       "word": "财神爷 财神奶",
@@ -5339,14 +5387,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 109342,
-      "num": 4461898,
-      "word": "从古诗词中感受立春之美",
-      "onboard_time": 1738555789,
-      "rank": 2,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 109103,
       "num": 915533,
       "word": "大年初四去哪玩",
@@ -5417,6 +5457,14 @@
       "onboard_time": 1738383498,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106079,
+      "num": 646578,
+      "word": "专家称这一波流感预计到3月才过季",
+      "onboard_time": 1738557284,
+      "rank": 13,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 106073,
@@ -5681,6 +5729,14 @@
       "onboard_time": 1738369335,
       "rank": 47,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 95197,
+      "num": 601070,
+      "word": "过年走亲戚变为躲亲戚",
+      "onboard_time": 1738556624,
+      "rank": 33,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 93621,
@@ -7049,14 +7105,6 @@
       "onboard_time": 1738524072,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 8461,
-      "num": 299503,
-      "word": "过年走亲戚变为躲亲戚",
-      "onboard_time": 1738556624,
-      "rank": 33,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 8100,
