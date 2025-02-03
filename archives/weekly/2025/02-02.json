@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738596219965,
+  "endTime": 1738597077585,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 2860425,
-      "num": 841660,
+      "num": 934816,
       "word": "大S朋友圈签名",
       "onboard_time": 1738594530,
       "rank": 3,
@@ -507,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 961672,
+      "num": 961672,
+      "word": "奥司他韦不能乱吃",
+      "onboard_time": 1738592372,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 956453,
       "num": 1734557,
       "word": "马斯克",
@@ -515,20 +523,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 950770,
-      "num": 950770,
-      "word": "奥司他韦不能乱吃",
-      "onboard_time": 1738592372,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 930561,
       "num": 930561,
       "word": "刘国梁建议隐藏世界排名",
       "onboard_time": 1738500138,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 924667,
+      "num": 924667,
+      "word": "光线要拍敖丙传",
+      "onboard_time": 1738595671,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 924262,
@@ -603,20 +611,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 812443,
+      "num": 802611,
+      "word": "哪吒逆跌",
+      "onboard_time": 1738592611,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 807183,
       "num": 807183,
       "word": "大年初六",
       "onboard_time": 1738513697,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 802611,
-      "num": 802611,
-      "word": "哪吒逆跌",
-      "onboard_time": 1738592611,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 796074,
@@ -705,6 +713,14 @@
       "onboard_time": 1738581570,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 713602,
+      "num": 713602,
+      "word": "七成癫痫患者经治疗可不再发病",
+      "onboard_time": 1738594109,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 701613,
@@ -899,14 +915,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 593532,
-      "num": 593532,
-      "word": "七成癫痫患者经治疗可不再发病",
-      "onboard_time": 1738594109,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 585455,
       "num": 585455,
       "word": "哪吒票房",
@@ -1001,14 +1009,6 @@
       "onboard_time": 1738502359,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 518146,
-      "num": 518146,
-      "word": "光线要拍敖丙传",
-      "onboard_time": 1738595671,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 514261,
@@ -1531,6 +1531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 349639,
+      "num": 505726,
+      "word": "媒体称樊振东要的不仅仅是参赛资格",
+      "onboard_time": 1738593510,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 349294,
       "num": 490460,
       "word": "2025春节档票房排名",
@@ -1691,6 +1699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 319023,
+      "num": 496689,
+      "word": "哪吒2进影史前10",
+      "onboard_time": 1738595671,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 316703,
       "num": 220692,
       "word": "一箱牛奶完成了过年串门的使命",
@@ -1841,14 +1857,6 @@
       "onboard_time": 1738587688,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 286554,
-      "num": 505726,
-      "word": "媒体称樊振东要的不仅仅是参赛资格",
-      "onboard_time": 1738593510,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 286504,
@@ -2179,7 +2187,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 231579,
+      "raw_hot": 233233,
       "num": 498027,
       "word": "射雕打分人数",
       "onboard_time": 1738591411,
@@ -2227,19 +2235,19 @@
       "category": "电影"
     },
     {
+      "raw_hot": 226180,
+      "num": 497571,
+      "word": "沈月演技",
+      "onboard_time": 1738595069,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225619,
       "num": 225619,
       "word": "拜托这可是陈哲远亲自选的女主",
       "onboard_time": 1738519154,
       "rank": 32,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 225598,
-      "num": 497571,
-      "word": "沈月演技",
-      "onboard_time": 1738595069,
-      "rank": 28,
       "category": "剧集"
     },
     {
@@ -2952,14 +2960,6 @@
       "word": "哪吒票房海报都是导演亲手画的",
       "onboard_time": 1738485138,
       "rank": 31,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 179355,
-      "num": 496689,
-      "word": "哪吒2进影史前10",
-      "onboard_time": 1738595671,
-      "rank": 30,
       "category": "电影"
     },
     {
@@ -3803,6 +3803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 134069,
+      "num": 488694,
+      "word": "中方舰艇编队正常过航巴西兰海峡",
+      "onboard_time": 1738593091,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 132973,
       "num": 132973,
       "word": "陈哲远阿瓒不语只是一次次背后抱",
@@ -3937,6 +3945,14 @@
       "onboard_time": 1738472838,
       "rank": 46,
       "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 127179,
+      "num": 490032,
+      "word": "橄榄树开播3天梁洁涨粉40万",
+      "onboard_time": 1738594170,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 127178,
@@ -4163,14 +4179,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 117374,
-      "num": 490032,
-      "word": "橄榄树开播3天梁洁涨粉40万",
-      "onboard_time": 1738594170,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 117273,
       "num": 98119,
       "word": "陈哲远憋不了一点",
@@ -4297,6 +4305,14 @@
       "onboard_time": 1738482438,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109938,
+      "num": 486936,
+      "word": "专家称癫痫通常不是流感高危因素",
+      "onboard_time": 1738595488,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 109731,
@@ -4555,6 +4571,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 98390,
+      "num": 502652,
+      "word": "韩国棋院取消累计犯规直接判负规则",
+      "onboard_time": 1738594653,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97431,
       "num": 86073,
       "word": "孟子义这张嘴借我用用",
@@ -4571,14 +4595,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 96385,
-      "num": 502652,
-      "word": "韩国棋院取消累计犯规直接判负规则",
-      "onboard_time": 1738594653,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 96366,
       "num": 96366,
       "word": "只有浙江人才知道的省饮",
@@ -4587,12 +4603,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 95849,
-      "num": 488694,
-      "word": "中方舰艇编队正常过航巴西兰海峡",
-      "onboard_time": 1738593091,
-      "rank": 44,
-      "category": "国内时政"
+      "raw_hot": 95439,
+      "num": 318339,
+      "word": "被碳水加碳水的早餐硬控了",
+      "onboard_time": 1738596928,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95197,
@@ -4785,14 +4801,6 @@
       "onboard_time": 1738450512,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 78391,
-      "num": 486936,
-      "word": "专家称癫痫通常不是流感高危因素",
-      "onboard_time": 1738595488,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 78197,
@@ -5091,6 +5099,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 50691,
+      "num": 317970,
+      "word": "四川一百岁老人寿宴摆了118桌",
+      "onboard_time": 1738596987,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50607,
       "num": 288929,
       "word": "网友春节DIY太卷了",
@@ -5260,7 +5276,7 @@
     },
     {
       "raw_hot": 35514,
-      "num": 860637,
+      "num": 937181,
       "word": "手写二十四节气领略四季之美",
       "onboard_time": 1738590390,
       "rank": 2,
@@ -5465,6 +5481,14 @@
       "onboard_time": 1738434492,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21277,
+      "num": 318216,
+      "word": "敖光是参考故宫龙的标准中国龙",
+      "onboard_time": 1738597049,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 20429,
