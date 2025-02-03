@@ -1,6 +1,6 @@
 {
   "startTime": 1738513501648,
-  "endTime": 1738571338422,
+  "endTime": 1738572097285,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -251,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 956453,
+      "num": 956453,
+      "word": "马斯克",
+      "onboard_time": 1738567289,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 924262,
       "num": 1729610,
       "word": "流感不是普通的重感冒",
@@ -296,14 +304,6 @@
       "word": "立春躲春的正确方式",
       "onboard_time": 1738500920,
       "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 738090,
-      "num": 738090,
-      "word": "马斯克",
-      "onboard_time": 1738567289,
-      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -515,6 +515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 428085,
+      "num": 169146,
+      "word": "美国超市冷藏柜拉出一只活狼",
+      "onboard_time": 1738572028,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 411359,
       "num": 939798,
       "word": "日本遭遇有记录以来最严重流感",
@@ -603,12 +611,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 343855,
+      "num": 175532,
+      "word": "杨丞琳发文悼念",
+      "onboard_time": 1738567348,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 337417,
       "num": 337417,
       "word": "邓为勇闯贞洁烈男赛道",
       "onboard_time": 1738554185,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 333096,
+      "num": 192793,
+      "word": "她的去世就像小说烂尾",
+      "onboard_time": 1738570407,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 332316,
@@ -707,6 +731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 294644,
+      "num": 881700,
+      "word": "哪吒2成中国影史春节档票房冠军",
+      "onboard_time": 1738557164,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 293336,
       "num": 292372,
       "word": "霉霉本命年穿搭",
@@ -755,28 +787,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 263454,
-      "num": 881700,
-      "word": "哪吒2成中国影史春节档票房冠军",
-      "onboard_time": 1738557164,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
       "raw_hot": 262468,
       "num": 262468,
       "word": "樊振东和孙颖莎自动入围世界杯",
       "onboard_time": 1738545498,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 261377,
-      "num": 175532,
-      "word": "杨丞琳发文悼念",
-      "onboard_time": 1738567348,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 258453,
@@ -873,6 +889,14 @@
       "onboard_time": 1738555430,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 235419,
+      "num": 175506,
+      "word": "哪吒之魔童闹海影史春节档票房冠军",
+      "onboard_time": 1738566268,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 230451,
@@ -1067,14 +1091,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 182749,
-      "num": 182749,
-      "word": "她的去世就像小说烂尾",
-      "onboard_time": 1738570407,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 180211,
       "num": 180211,
       "word": "霉霉与玛格丽特一起跳舞",
@@ -1113,6 +1129,14 @@
       "onboard_time": 1738562493,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 167893,
+      "num": 167893,
+      "word": "华纳 金智秀",
+      "onboard_time": 1738571668,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 167235,
@@ -1177,6 +1201,14 @@
       "onboard_time": 1738537513,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 150711,
+      "num": 150711,
+      "word": "影院里有人打电话我全程为其打光",
+      "onboard_time": 1738568847,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 149408,
@@ -1260,19 +1292,11 @@
     },
     {
       "raw_hot": 127178,
-      "num": 127178,
+      "num": 153124,
       "word": "在立春拥抱美好",
       "onboard_time": 1738543876,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 126387,
-      "num": 126387,
-      "word": "哪吒之魔童闹海影史春节档票房冠军",
-      "onboard_time": 1738566268,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 125556,
@@ -1459,14 +1483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 106908,
-      "num": 111999,
-      "word": "影院里有人打电话我全程为其打光",
-      "onboard_time": 1738568847,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 106415,
       "num": 106415,
       "word": "马斯克指责usaid资助研发生物武器",
@@ -1555,8 +1571,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82947,
-      "num": 82947,
+      "raw_hot": 83265,
+      "num": 83265,
       "word": "比安卡 格莱美红毯",
       "onboard_time": 1738570166,
       "rank": 45,
@@ -1651,6 +1667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 57427,
+      "num": 263271,
+      "word": "那些藏在山水间街巷里的年味",
+      "onboard_time": 1738570047,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 54110,
       "num": 330912,
       "word": "苏翊鸣世界杯坡障银牌",
@@ -1707,12 +1731,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 38467,
-      "num": 263271,
-      "word": "那些藏在山水间街巷里的年味",
-      "onboard_time": 1738570047,
-      "rank": 9,
-      "category": "正能量"
+      "raw_hot": 38085,
+      "num": 671725,
+      "word": "第九届亚冬会火种成功采集",
+      "onboard_time": 1738570828,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 37026,
@@ -1803,20 +1827,28 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 16109,
-      "num": 627309,
-      "word": "第九届亚冬会火种成功采集",
-      "onboard_time": 1738570828,
-      "rank": 2,
-      "category": "体育"
-    },
-    {
       "raw_hot": 14820,
       "num": 377736,
       "word": "电影蛟龙行动深圳路演",
       "onboard_time": 1738566450,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 13589,
+      "num": 161486,
+      "word": "小伙当兵没回家9好友齐给父母拜年",
+      "onboard_time": 1738571966,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10877,
+      "num": 181547,
+      "word": "亚冬会最后一棒火炬手隋文静",
+      "onboard_time": 1738571788,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 9621,

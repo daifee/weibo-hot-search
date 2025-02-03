@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738571338422,
+  "endTime": 1738572097285,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -403,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 956453,
+      "num": 956453,
+      "word": "马斯克",
+      "onboard_time": 1738567289,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 930561,
       "num": 930561,
       "word": "刘国梁建议隐藏世界排名",
@@ -545,14 +553,6 @@
       "onboard_time": 1738426457,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 738090,
-      "num": 738090,
-      "word": "马斯克",
-      "onboard_time": 1738567289,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 728866,
@@ -1059,6 +1059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 428085,
+      "num": 169146,
+      "word": "美国超市冷藏柜拉出一只活狼",
+      "onboard_time": 1738572028,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 417041,
       "num": 417041,
       "word": "墨西哥官员称加税将由美消费者埋单",
@@ -1291,6 +1299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 343855,
+      "num": 175532,
+      "word": "杨丞琳发文悼念",
+      "onboard_time": 1738567348,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 343743,
       "num": 322280,
       "word": "春节档连续5天破10亿",
@@ -1329,6 +1345,14 @@
       "onboard_time": 1738554185,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 333096,
+      "num": 192793,
+      "word": "她的去世就像小说烂尾",
+      "onboard_time": 1738570407,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 332778,
@@ -1507,6 +1531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 294644,
+      "num": 881700,
+      "word": "哪吒2成中国影史春节档票房冠军",
+      "onboard_time": 1738557164,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 293864,
       "num": 240909,
       "word": "马龙夏露日本逛街",
@@ -1603,28 +1635,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 263454,
-      "num": 881700,
-      "word": "哪吒2成中国影史春节档票房冠军",
-      "onboard_time": 1738557164,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
       "raw_hot": 262468,
       "num": 262468,
       "word": "樊振东和孙颖莎自动入围世界杯",
       "onboard_time": 1738545498,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 261377,
-      "num": 175532,
-      "word": "杨丞琳发文悼念",
-      "onboard_time": 1738567348,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 258453,
@@ -1808,6 +1824,14 @@
       "word": "哪吒敖丙都没生气",
       "onboard_time": 1738485857,
       "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 235419,
+      "num": 175506,
+      "word": "哪吒之魔童闹海影史春节档票房冠军",
+      "onboard_time": 1738566268,
+      "rank": 40,
       "category": "电影"
     },
     {
@@ -2395,14 +2419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 182749,
-      "num": 182749,
-      "word": "她的去世就像小说烂尾",
-      "onboard_time": 1738570407,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 181838,
       "num": 181838,
       "word": "倪夏莲组合11比0",
@@ -2569,6 +2585,14 @@
       "onboard_time": 1738492518,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167893,
+      "num": 167893,
+      "word": "华纳 金智秀",
+      "onboard_time": 1738571668,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 167235,
@@ -2857,6 +2881,14 @@
       "onboard_time": 1738537513,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 150711,
+      "num": 150711,
+      "word": "影院里有人打电话我全程为其打光",
+      "onboard_time": 1738568847,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 150406,
@@ -3316,7 +3348,7 @@
     },
     {
       "raw_hot": 127178,
-      "num": 127178,
+      "num": 153124,
       "word": "在立春拥抱美好",
       "onboard_time": 1738543876,
       "rank": 38,
@@ -3345,14 +3377,6 @@
       "onboard_time": 1738474277,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 126387,
-      "num": 126387,
-      "word": "哪吒之魔童闹海影史春节档票房冠军",
-      "onboard_time": 1738566268,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 126264,
@@ -3683,14 +3707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 106908,
-      "num": 111999,
-      "word": "影院里有人打电话我全程为其打光",
-      "onboard_time": 1738568847,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 106415,
       "num": 106415,
       "word": "马斯克指责usaid资助研发生物武器",
@@ -3971,8 +3987,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 82947,
-      "num": 82947,
+      "raw_hot": 83265,
+      "num": 83265,
       "word": "比安卡 格莱美红毯",
       "onboard_time": 1738570166,
       "rank": 45,
@@ -4161,6 +4177,14 @@
       "onboard_time": 1738480037,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 57427,
+      "num": 263271,
+      "word": "那些藏在山水间街巷里的年味",
+      "onboard_time": 1738570047,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 57047,
@@ -4363,12 +4387,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 38467,
-      "num": 263271,
-      "word": "那些藏在山水间街巷里的年味",
-      "onboard_time": 1738570047,
-      "rank": 9,
-      "category": "正能量"
+      "raw_hot": 38085,
+      "num": 671725,
+      "word": "第九届亚冬会火种成功采集",
+      "onboard_time": 1738570828,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 37026,
@@ -4595,14 +4619,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 16109,
-      "num": 627309,
-      "word": "第九届亚冬会火种成功采集",
-      "onboard_time": 1738570828,
-      "rank": 2,
-      "category": "体育"
-    },
-    {
       "raw_hot": 15236,
       "num": 15791,
       "word": "封神",
@@ -4635,6 +4651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13589,
+      "num": 161486,
+      "word": "小伙当兵没回家9好友齐给父母拜年",
+      "onboard_time": 1738571966,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12433,
       "num": 145022,
       "word": "我是不是方圆十里最漂亮的女人",
@@ -4657,6 +4681,14 @@
       "onboard_time": 1738487358,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 10877,
+      "num": 181547,
+      "word": "亚冬会最后一棒火炬手隋文静",
+      "onboard_time": 1738571788,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 10489,

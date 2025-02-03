@@ -1,0 +1,410 @@
+{
+  "runTime": 1738572097285,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1422539,
+        "num": 1422539,
+        "word": "正常情况下流感死亡率并不高",
+        "onboard_time": 1738564712,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 956453,
+        "num": 956453,
+        "word": "马斯克",
+        "onboard_time": 1738567289,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38085,
+        "num": 671725,
+        "word": "第九届亚冬会火种成功采集",
+        "onboard_time": 1738570828,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5974784,
+        "num": 5974784,
+        "word": "大S去世",
+        "onboard_time": 1738550873,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 512322,
+        "num": 512322,
+        "word": "日本流感病例已超950万人",
+        "onboard_time": 1738560214,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 505973,
+        "num": 505973,
+        "word": "格莱美",
+        "onboard_time": 1738543876,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 365813,
+        "num": 365813,
+        "word": "石矶娘娘打破白幼瘦审美枷锁",
+        "onboard_time": 1738553946,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198697,
+        "num": 311298,
+        "word": "正月初六把穷气送出门",
+        "onboard_time": 1738545918,
+        "rank": 7,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 294644,
+        "num": 294644,
+        "word": "哪吒2成中国影史春节档票房冠军",
+        "onboard_time": 1738557164,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197548,
+        "num": 292931,
+        "word": "马斯克指责USAID资助研发生物武器",
+        "onboard_time": 1738561953,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 3549738,
+        "num": 292721,
+        "word": "具俊晔回应大S去世",
+        "onboard_time": 1738563392,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485742,
+        "num": 290620,
+        "word": "得流感自救不要错过黄金48小时",
+        "onboard_time": 1738559436,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1006286,
+        "num": 287726,
+        "word": "小S 感恩这辈子能成为她的姊妹",
+        "onboard_time": 1738564112,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320226,
+        "num": 286220,
+        "word": "日本遭遇有记录以来最严重流感",
+        "onboard_time": 1738564712,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 863691,
+        "num": 284552,
+        "word": "再见了杉菜",
+        "onboard_time": 1738552467,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283130,
+        "num": 283130,
+        "word": "流感是一种可致死的疾病",
+        "onboard_time": 1738564712,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 491633,
+        "num": 270373,
+        "word": "这次熙媛又是交换了什么呢",
+        "onboard_time": 1738563392,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236792,
+        "num": 236792,
+        "word": "日本流感",
+        "onboard_time": 1738551558,
+        "rank": 17,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 195840,
+        "num": 195840,
+        "word": "初六送走坏运气",
+        "onboard_time": 1738557644,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194355,
+        "num": 194355,
+        "word": "喝酒前吃了药一家三口被送抢救室",
+        "onboard_time": 1738556986,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333096,
+        "num": 192793,
+        "word": "她的去世就像小说烂尾",
+        "onboard_time": 1738570407,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321117,
+        "num": 189947,
+        "word": "小英老公出轨",
+        "onboard_time": 1738549593,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 355867,
+        "num": 188641,
+        "word": "李湘发文悼念",
+        "onboard_time": 1738568068,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128774,
+        "num": 185507,
+        "word": "流感最常见的并发症是肺炎",
+        "onboard_time": 1738562132,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 10877,
+        "num": 181547,
+        "word": "亚冬会最后一棒火炬手隋文静",
+        "onboard_time": 1738571788,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 324149,
+        "num": 179599,
+        "word": "韩媒曝具俊晔拒绝联系",
+        "onboard_time": 1738565909,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235419,
+        "num": 175506,
+        "word": "哪吒之魔童闹海影史春节档票房冠军",
+        "onboard_time": 1738566268,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 238556,
+        "num": 172910,
+        "word": "珊的一生不该是这样的",
+        "onboard_time": 1738567768,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172631,
+        "num": 172631,
+        "word": "刘晓庆闯入短剧赛道",
+        "onboard_time": 1738569326,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169606,
+        "num": 169606,
+        "word": "总觉得我和大S像好朋友",
+        "onboard_time": 1738564891,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428085,
+        "num": 169146,
+        "word": "美国超市冷藏柜拉出一只活狼",
+        "onboard_time": 1738572028,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 343855,
+        "num": 168915,
+        "word": "杨丞琳发文悼念",
+        "onboard_time": 1738567348,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167893,
+        "num": 167893,
+        "word": "华纳 金智秀",
+        "onboard_time": 1738571668,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 13589,
+        "num": 161486,
+        "word": "小伙当兵没回家9好友齐给父母拜年",
+        "onboard_time": 1738571966,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159102,
+        "num": 159102,
+        "word": "众星发声悼念",
+        "onboard_time": 1738557822,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56409,
+        "num": 153124,
+        "word": "在立春拥抱美好",
+        "onboard_time": 1738543876,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150711,
+        "num": 150711,
+        "word": "影院里有人打电话我全程为其打光",
+        "onboard_time": 1738568847,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134768,
+        "num": 134768,
+        "word": "黄晓明发文悼念",
+        "onboard_time": 1738562432,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57427,
+        "num": 127628,
+        "word": "那些藏在山水间街巷里的年味",
+        "onboard_time": 1738570047,
+        "rank": 38,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 125873,
+        "num": 125873,
+        "word": "人生的容错率大得超乎你的想象",
+        "onboard_time": 1738559857,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125167,
+        "num": 125167,
+        "word": "哪吒",
+        "onboard_time": 1738504758,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121939,
+        "num": 121939,
+        "word": "仙台有树有20多场吻戏",
+        "onboard_time": 1738570528,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116954,
+        "num": 116954,
+        "word": "白色橄榄树",
+        "onboard_time": 1738570407,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105058,
+        "num": 105058,
+        "word": "田志希国际赛场退役",
+        "onboard_time": 1738566031,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114763,
+        "num": 104092,
+        "word": "阿雅 一路走好最美的大王",
+        "onboard_time": 1738555849,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102383,
+        "num": 102383,
+        "word": "你吃过灰豆腐吗",
+        "onboard_time": 1738566569,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 106807,
+        "num": 101465,
+        "word": "熙媛 我始终觉得你应该更幸福",
+        "onboard_time": 1738556624,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29384,
+        "num": 99221,
+        "word": "光遇",
+        "onboard_time": 1738566389,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 98864,
+        "num": 98864,
+        "word": "迪丽热巴烟火人间",
+        "onboard_time": 1738568488,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83265,
+        "num": 83265,
+        "word": "比安卡 格莱美红毯",
+        "onboard_time": 1738570166,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#从总书记新春寄语读懂何以中国#"
+    }
+  }
+}
