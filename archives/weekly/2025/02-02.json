@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738614988729,
+  "endTime": 1738617639362,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -5683,11 +5683,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13454,
+      "num": 34566,
+      "word": "这一类人需警惕流感诱发肺炎致死",
+      "onboard_time": 1738616292,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 12735,
       "num": 242391,
       "word": "吾家吾国",
       "onboard_time": 1738602441,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12484,
+      "num": 34424,
+      "word": "流感病毒会无差别攻击全身器官",
+      "onboard_time": 1738617132,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
