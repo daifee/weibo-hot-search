@@ -1,6 +1,6 @@
 {
   "startTime": 1738600055579,
-  "endTime": 1738600987198,
+  "endTime": 1738603179098,
   "band_list": [
     {
       "raw_hot": 2092396,
@@ -163,6 +163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174531,
+      "num": 307686,
+      "word": "成毅登上日本杂志封面",
+      "onboard_time": 1738600403,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 172459,
       "num": 306901,
       "word": "敖光是参考故宫龙的标准中国龙",
@@ -251,6 +259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 111340,
+      "num": 306686,
+      "word": "四川一百岁老人寿宴摆了118桌",
+      "onboard_time": 1738596987,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111023,
       "num": 306884,
       "word": "在日本患流感高烧该怎么办",
@@ -307,22 +323,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 99674,
-      "num": 306686,
-      "word": "四川一百岁老人寿宴摆了118桌",
-      "onboard_time": 1738596987,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94156,
-      "num": 307686,
-      "word": "成毅登上日本杂志封面",
-      "onboard_time": 1738600403,
-      "rank": 19,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 85867,
       "num": 295557,
       "word": "哪吒2",
@@ -371,7 +371,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 66079,
+      "raw_hot": 71290,
       "num": 294430,
       "word": "金智秀销量",
       "onboard_time": 1738588769,
@@ -384,6 +384,14 @@
       "word": "普陀山消防队回应帮游客焚香开光",
       "onboard_time": 1738587987,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59060,
+      "num": 215290,
+      "word": "普陀山的万能消防员出圈",
+      "onboard_time": 1738601241,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -425,6 +433,22 @@
       "onboard_time": 1738590390,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17062,
+      "num": 263958,
+      "word": "车头是生活车尾是故乡",
+      "onboard_time": 1738602559,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15036,
+      "num": 217484,
+      "word": "侯英超说和孙颖莎打我也一局赢不了",
+      "onboard_time": 1738602201,
+      "rank": 24,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
