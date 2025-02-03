@@ -1,0 +1,411 @@
+{
+  "startTime": 1738600055579,
+  "endTime": 1738600055579,
+  "band_list": [
+    {
+      "raw_hot": 2092396,
+      "num": 424470,
+      "word": "大S朋友圈签名",
+      "onboard_time": 1738594530,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1171719,
+      "num": 348200,
+      "word": "汪小菲说大S是我的家人",
+      "onboard_time": 1738584151,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 935907,
+      "num": 944814,
+      "word": "光线要拍敖丙传",
+      "onboard_time": 1738595671,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 798371,
+      "num": 336232,
+      "word": "小S两个女儿回台",
+      "onboard_time": 1738590329,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 515893,
+      "num": 515893,
+      "word": "奥司他韦不能乱吃",
+      "onboard_time": 1738592372,
+      "rank": 1,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 501016,
+      "num": 380484,
+      "word": "哪吒逆跌",
+      "onboard_time": 1738592611,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 396810,
+      "num": 396810,
+      "word": "躲春",
+      "onboard_time": 1738579768,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 382516,
+      "num": 382516,
+      "word": "雇主失联育儿嫂当妈3年带娃走亲戚",
+      "onboard_time": 1738597167,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 374090,
+      "num": 374090,
+      "word": "吴京 流浪地球3",
+      "onboard_time": 1738591349,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 371499,
+      "num": 330960,
+      "word": "亲友找不到具俊晔",
+      "onboard_time": 1738577668,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 358065,
+      "num": 358065,
+      "word": "七成癫痫患者经治疗可不再发病",
+      "onboard_time": 1738594109,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 348544,
+      "num": 348544,
+      "word": "流感合并肺炎有这些症状",
+      "onboard_time": 1738590810,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 338132,
+      "num": 325213,
+      "word": "小S 感恩这辈子能成为她的姊妹",
+      "onboard_time": 1738564112,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 327694,
+      "num": 327694,
+      "word": "哪吒2进影史前10",
+      "onboard_time": 1738595671,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 306004,
+      "num": 306004,
+      "word": "27岁演员梁祐诚大年初二突然去世",
+      "onboard_time": 1738576107,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 300670,
+      "num": 300670,
+      "word": "S妈小梅回应",
+      "onboard_time": 1738579768,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 221231,
+      "num": 332024,
+      "word": "日本一制药公司暂停供应奥司他韦",
+      "onboard_time": 1738574967,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 189118,
+      "num": 300467,
+      "word": "沈月演技",
+      "onboard_time": 1738595069,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 181962,
+      "num": 341779,
+      "word": "中方舰艇编队正常过航巴西兰海峡",
+      "onboard_time": 1738593091,
+      "rank": 11,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 181175,
+      "num": 319522,
+      "word": "媒体称樊振东要的不仅仅是参赛资格",
+      "onboard_time": 1738593510,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 155981,
+      "num": 300404,
+      "word": "她的去世就像小说烂尾",
+      "onboard_time": 1738570407,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 148443,
+      "num": 299710,
+      "word": "哪吒票房一会就多一个亿",
+      "onboard_time": 1738581570,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 145398,
+      "num": 299333,
+      "word": "敖光是参考故宫龙的标准中国龙",
+      "onboard_time": 1738597049,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 144289,
+      "num": 299633,
+      "word": "春节档六部电影豆瓣开分",
+      "onboard_time": 1738591108,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 143331,
+      "num": 298759,
+      "word": "哪吒2票房突破40亿",
+      "onboard_time": 1738585469,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 141660,
+      "num": 315179,
+      "word": "日本爆发流感游客发声",
+      "onboard_time": 1738579650,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138918,
+      "num": 298568,
+      "word": "李瓒听不到了",
+      "onboard_time": 1738590269,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 127006,
+      "num": 298995,
+      "word": "专家称癫痫通常不是流感高危因素",
+      "onboard_time": 1738595488,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 123859,
+      "num": 298126,
+      "word": "橄榄树开播3天梁洁涨粉40万",
+      "onboard_time": 1738594170,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 118321,
+      "num": 298353,
+      "word": "敖光 精灵王",
+      "onboard_time": 1738592492,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 112155,
+      "num": 297338,
+      "word": "票房",
+      "onboard_time": 1738592071,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 111023,
+      "num": 306884,
+      "word": "在日本患流感高烧该怎么办",
+      "onboard_time": 1738597347,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110174,
+      "num": 297038,
+      "word": "敖丙小鼻嘎",
+      "onboard_time": 1738587688,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 108877,
+      "num": 297914,
+      "word": "多位博主曾建议近期不要赴日本旅游",
+      "onboard_time": 1738582173,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108237,
+      "num": 297640,
+      "word": "韩国棋院取消累计犯规直接判负规则",
+      "onboard_time": 1738594653,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 106192,
+      "num": 296144,
+      "word": "射雕打分人数",
+      "onboard_time": 1738591411,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 101547,
+      "num": 296084,
+      "word": "易烊千玺春晚高清大图",
+      "onboard_time": 1738598666,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100617,
+      "num": 295679,
+      "word": "射雕豆瓣5.5",
+      "onboard_time": 1738586129,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 87348,
+      "num": 297126,
+      "word": "四川一百岁老人寿宴摆了118桌",
+      "onboard_time": 1738596987,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85867,
+      "num": 295557,
+      "word": "哪吒2",
+      "onboard_time": 1738579768,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 79268,
+      "num": 295161,
+      "word": "2025春节档票房排名",
+      "onboard_time": 1738580250,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 78286,
+      "num": 296607,
+      "word": "医生解释流感引发肺炎为何会死亡",
+      "onboard_time": 1738579709,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 77863,
+      "num": 296434,
+      "word": "王楚钦说要用成绩让大家放心",
+      "onboard_time": 1738598604,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 73824,
+      "num": 295066,
+      "word": "躲春时间",
+      "onboard_time": 1738589009,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72225,
+      "num": 294858,
+      "word": "央视主播上新00后",
+      "onboard_time": 1738581329,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66079,
+      "num": 294430,
+      "word": "金智秀销量",
+      "onboard_time": 1738588769,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 64140,
+      "num": 294235,
+      "word": "普陀山消防队回应帮游客焚香开光",
+      "onboard_time": 1738587987,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55759,
+      "num": 293942,
+      "word": "师傅8分钟在炉子里贴满140个烧饼",
+      "onboard_time": 1738598066,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54347,
+      "num": 300122,
+      "word": "孙颖莎在电话亭送新年祝福",
+      "onboard_time": 1738588048,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 25673,
+      "num": 443373,
+      "word": "手写二十四节气领略四季之美",
+      "onboard_time": 1738590390,
+      "rank": 2,
+      "category": "民生新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#跟着总书记从剪纸感受春日美好#"
+    }
+  ]
+}
