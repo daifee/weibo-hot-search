@@ -1,7 +1,15 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738539337959,
+  "endTime": 1738546890283,
   "band_list": [
+    {
+      "raw_hot": 7278953,
+      "num": 7278953,
+      "word": "大S",
+      "onboard_time": 1738546518,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 3232536,
       "num": 3232536,
@@ -67,7 +75,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1266714,
+      "raw_hot": 1466259,
+      "num": 1466259,
+      "word": "格莱美",
+      "onboard_time": 1738466717,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 1420899,
       "num": 1266714,
       "word": "影院回应一天排99场哪吒2",
       "onboard_time": 1738515616,
@@ -209,6 +225,14 @@
       "onboard_time": 1738460659,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 865656,
+      "num": 283829,
+      "word": "女生醒来相亲对象站床边系摆拍",
+      "onboard_time": 1738538894,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 861420,
@@ -467,6 +491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 537752,
+      "num": 346731,
+      "word": "电影票房高低反映观众的选择",
+      "onboard_time": 1738544356,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 537034,
       "num": 537034,
       "word": "终于有全女性家族的国产剧了",
@@ -507,8 +539,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 500202,
+      "num": 500202,
+      "word": "立春躲春的正确方式",
+      "onboard_time": 1738500920,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 496694,
-      "num": 129233,
+      "num": 239855,
       "word": "特朗普下令对索马里发动空袭",
       "onboard_time": 1738515616,
       "rank": 10,
@@ -545,6 +585,14 @@
       "onboard_time": 1738457356,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 485379,
+      "num": 271233,
+      "word": "宋小宝假装粉丝强吻赵本山",
+      "onboard_time": 1738540515,
+      "rank": 12,
+      "category": "演出"
     },
     {
       "raw_hot": 473457,
@@ -627,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 433003,
+      "num": 433003,
+      "word": "加拿大对美国实施报复性关税",
+      "onboard_time": 1738542015,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 430652,
       "num": 430652,
       "word": "樊振东陈梦确定无缘世界杯",
@@ -657,6 +713,14 @@
       "onboard_time": 1738471158,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 404223,
+      "num": 355912,
+      "word": "格莱美红毯",
+      "onboard_time": 1738540755,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 401178,
@@ -755,6 +819,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 361522,
+      "num": 361522,
+      "word": "立春",
+      "onboard_time": 1738538353,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 357575,
       "num": 357575,
       "word": "伊能静 暴力的人都是懦夫",
@@ -843,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 336102,
+      "num": 197353,
+      "word": "北京女生在泰国2400平米的家",
+      "onboard_time": 1738544716,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 332778,
       "num": 332778,
       "word": "背刺何惟芳的店员成了杨紫的粉丝",
@@ -881,6 +961,14 @@
       "onboard_time": 1738420759,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 320076,
+      "num": 426970,
+      "word": "立春咬春病不沾身",
+      "onboard_time": 1738507459,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 312545,
@@ -979,28 +1067,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 284422,
-      "num": 426970,
-      "word": "立春咬春病不沾身",
-      "onboard_time": 1738507459,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 278035,
       "num": 267318,
       "word": "不要因为花父母的钱而感到内疚",
       "onboard_time": 1738485978,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 272809,
-      "num": 272809,
-      "word": "立春躲春的正确方式",
-      "onboard_time": 1738500920,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 268445,
@@ -1155,6 +1227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 225619,
+      "num": 225619,
+      "word": "拜托这可是陈哲远亲自选的女主",
+      "onboard_time": 1738519154,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225239,
       "num": 225239,
       "word": "外甥女悄悄给未婚小姨塞压岁钱",
@@ -1201,6 +1281,14 @@
       "onboard_time": 1738508721,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 218275,
+      "num": 196792,
+      "word": "樊振东和孙颖莎自动入围世界杯",
+      "onboard_time": 1738545498,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 217356,
@@ -1259,6 +1347,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 210961,
+      "num": 210961,
+      "word": "90后北大选调生任乡镇党委书记",
+      "onboard_time": 1738538894,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 209288,
       "num": 209288,
       "word": "于冬看了哪吒2",
@@ -1291,14 +1387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 207441,
-      "num": 207441,
-      "word": "立春",
-      "onboard_time": 1738538353,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 205091,
       "num": 205091,
       "word": "宋亚轩手电筒",
@@ -1329,6 +1417,14 @@
       "onboard_time": 1738455016,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202625,
+      "num": 202625,
+      "word": "赵本山纽约演出第一排1400美元",
+      "onboard_time": 1738538834,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 202083,
@@ -1377,6 +1473,14 @@
       "onboard_time": 1738486157,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198583,
+      "num": 198583,
+      "word": "正月初六把穷气送出门",
+      "onboard_time": 1738545918,
+      "rank": 19,
+      "category": "正能量"
     },
     {
       "raw_hot": 196742,
@@ -1451,6 +1555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194419,
+      "num": 194419,
+      "word": "大年初六",
+      "onboard_time": 1738513697,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194085,
       "num": 194085,
       "word": "无世界排名无法参加ITTF澳门世界杯",
@@ -1473,14 +1585,6 @@
       "onboard_time": 1738470078,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 191084,
-      "num": 124360,
-      "word": "赵本山纽约演出第一排1400美元",
-      "onboard_time": 1738538834,
-      "rank": 11,
-      "category": "演出"
     },
     {
       "raw_hot": 190249,
@@ -1545,6 +1649,14 @@
       "onboard_time": 1738477817,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 185915,
+      "num": 185915,
+      "word": "哪吒2预测总票房超70亿",
+      "onboard_time": 1738539553,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 184936,
@@ -1803,19 +1915,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 160161,
-      "num": 160161,
-      "word": "格莱美",
-      "onboard_time": 1738466717,
-      "rank": 36,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 158969,
       "num": 158969,
       "word": "岳云鹏大内高手零零岳",
       "onboard_time": 1738500439,
       "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 158743,
+      "num": 158743,
+      "word": "封神第二部票房破9亿",
+      "onboard_time": 1738542795,
+      "rank": 26,
       "category": "电影"
     },
     {
@@ -1841,6 +1953,14 @@
       "onboard_time": 1738509619,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 157141,
+      "num": 157141,
+      "word": "格莱美直播",
+      "onboard_time": 1738545557,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 156593,
@@ -1947,6 +2067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 150751,
+      "num": 150751,
+      "word": "亲戚未经同意抱走没断奶小狗",
+      "onboard_time": 1738537513,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150406,
       "num": 210158,
       "word": "湖人管理层不满浓眉",
@@ -1985,6 +2113,14 @@
       "onboard_time": 1738494138,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 148172,
+      "num": 148172,
+      "word": "大年初六逢立春",
+      "onboard_time": 1738529650,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147535,
@@ -2219,6 +2355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 137467,
+      "num": 137467,
+      "word": "爸爸刚喝一口就化身老戏骨",
+      "onboard_time": 1738542857,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 137202,
       "num": 137202,
       "word": "女旅客文胸走私120张游戏卡带",
@@ -2233,6 +2377,14 @@
       "onboard_time": 1738469718,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 135203,
+      "num": 135203,
+      "word": "一箱牛奶完成了过年串门的使命",
+      "onboard_time": 1738545498,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 134700,
@@ -2265,14 +2417,6 @@
       "onboard_time": 1738499659,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 130646,
-      "num": 130646,
-      "word": "大年初六逢立春",
-      "onboard_time": 1738529650,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 130528,
@@ -2337,6 +2481,14 @@
       "onboard_time": 1738459336,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127666,
+      "num": 127666,
+      "word": "SM新女团",
+      "onboard_time": 1738540815,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 127466,
@@ -2475,12 +2627,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 121116,
-      "num": 121116,
-      "word": "拜托这可是陈哲远亲自选的女主",
-      "onboard_time": 1738519154,
-      "rank": 32,
-      "category": "剧集"
+      "raw_hot": 121115,
+      "num": 116419,
+      "word": "迎接春天啦",
+      "onboard_time": 1738545498,
+      "rank": 36,
+      "category": "正能量"
     },
     {
       "raw_hot": 120944,
@@ -2523,12 +2675,36 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 117473,
+      "num": 117473,
+      "word": "过年真的好费钱啊",
+      "onboard_time": 1738546278,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 117273,
       "num": 98119,
       "word": "陈哲远憋不了一点",
       "onboard_time": 1738427298,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116402,
+      "num": 113982,
+      "word": "在立春拥抱美好",
+      "onboard_time": 1738543876,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114822,
+      "num": 114822,
+      "word": "东契奇发文感谢独行侠",
+      "onboard_time": 1738546579,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 113150,
@@ -2571,6 +2747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110211,
+      "num": 110211,
+      "word": "江浙沪爸爸对猫都是这个态度吗",
+      "onboard_time": 1738538894,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 109700,
       "num": 109700,
       "word": "10岁男孩用海姆立克法救妈妈",
@@ -2593,6 +2777,14 @@
       "onboard_time": 1738451652,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 109081,
+      "num": 122415,
+      "word": "乙巳蛇年还是个双春年",
+      "onboard_time": 1738539134,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 107798,
@@ -2683,14 +2875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102340,
-      "num": 71319,
-      "word": "亲戚未经同意抱走没断奶小狗",
-      "onboard_time": 1738537513,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 102030,
       "num": 209000,
       "word": "东契奇浓眉互换",
@@ -2713,6 +2897,22 @@
       "onboard_time": 1738461377,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 100596,
+      "num": 100596,
+      "word": "宋佳不想被夸漂亮那是爸妈的功劳",
+      "onboard_time": 1738518974,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100440,
+      "num": 100440,
+      "word": "饺子说一定要做观众没见过的",
+      "onboard_time": 1738546460,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100015,
@@ -2803,6 +3003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90245,
+      "num": 90245,
+      "word": "霉霉本命年穿搭",
+      "onboard_time": 1738546759,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 90106,
       "num": 79445,
       "word": "陈哲远连麦",
@@ -2841,14 +3049,6 @@
       "onboard_time": 1738414878,
       "rank": 38,
       "category": "民生新闻,美食"
-    },
-    {
-      "raw_hot": 84224,
-      "num": 84224,
-      "word": "女生醒来相亲对象站床边系摆拍",
-      "onboard_time": 1738538894,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83789,
@@ -2905,14 +3105,6 @@
       "onboard_time": 1738450512,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 77648,
-      "num": 77648,
-      "word": "大年初六",
-      "onboard_time": 1738513697,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 76102,
@@ -3027,14 +3219,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 59603,
-      "num": 60934,
-      "word": "宋佳不想被夸漂亮那是爸妈的功劳",
-      "onboard_time": 1738518974,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 57685,
       "num": 403387,
       "word": "金饰挂牌价逼近850元",
@@ -3139,14 +3323,6 @@
       "category": "民生新闻,幽默"
     },
     {
-      "raw_hot": 49487,
-      "num": 49487,
-      "word": "江浙沪爸爸对猫都是这个态度吗",
-      "onboard_time": 1738538894,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 49384,
       "num": 143119,
       "word": "春节假期遇立春节气",
@@ -3192,14 +3368,6 @@
       "word": "大年初五祝你有求币应",
       "onboard_time": 1738469417,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43663,
-      "num": 43663,
-      "word": "90后北大选调生任乡镇党委书记",
-      "onboard_time": 1738538894,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -3257,14 +3425,6 @@
       "onboard_time": 1738511357,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 39670,
-      "num": 39670,
-      "word": "乙巳蛇年还是个双春年",
-      "onboard_time": 1738539134,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 36187,

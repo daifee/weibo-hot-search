@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738539337959,
+  "endTime": 1738546890283,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -289,6 +289,14 @@
       "onboard_time": 1736573540,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 7278953,
+      "num": 7278953,
+      "word": "大S",
+      "onboard_time": 1738546518,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 7207522,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736262443,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1766452,
-      "num": 1766452,
-      "word": "徐梦洁打开微博天塌了",
-      "onboard_time": 1736039430,
-      "rank": 3,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
