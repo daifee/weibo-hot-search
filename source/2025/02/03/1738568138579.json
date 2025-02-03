@@ -1,0 +1,410 @@
+{
+  "runTime": 1738568138579,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1056262,
+        "num": 1802464,
+        "word": "得流感自救不要错过黄金48小时",
+        "onboard_time": 1738559436,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 510660,
+        "num": 979861,
+        "word": "格莱美",
+        "onboard_time": 1738543876,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 50074,
+        "num": 959746,
+        "word": "从古诗词中感受立春之美",
+        "onboard_time": 1738555789,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 6455322,
+        "num": 6455322,
+        "word": "大S去世",
+        "onboard_time": 1738550873,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 940000,
+        "num": 940000,
+        "word": "正常情况下流感死亡率并不高",
+        "onboard_time": 1738564712,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285311,
+        "num": 926879,
+        "word": "马斯克指责USAID资助研发生物武器",
+        "onboard_time": 1738561953,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 341224,
+        "num": 906515,
+        "word": "石矶娘娘打破白幼瘦审美枷锁",
+        "onboard_time": 1738553946,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 248434,
+        "num": 884407,
+        "word": "正月初六把穷气送出门",
+        "onboard_time": 1738545918,
+        "rank": 7,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 240386,
+        "num": 881700,
+        "word": "哪吒2成中国影史春节档票房冠军",
+        "onboard_time": 1738557164,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 206291,
+        "num": 851720,
+        "word": "初六送走坏运气",
+        "onboard_time": 1738557644,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5623942,
+        "num": 5623942,
+        "word": "具俊晔回应大S去世",
+        "onboard_time": 1738563392,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 827276,
+        "num": 827276,
+        "word": "日本流感病例已超950万人",
+        "onboard_time": 1738560214,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1531756,
+        "num": 809263,
+        "word": "再见了杉菜",
+        "onboard_time": 1738552467,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 544843,
+        "num": 544843,
+        "word": "流感是一种可致死的疾病",
+        "onboard_time": 1738564712,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1509445,
+        "num": 504529,
+        "word": "小S 感恩这辈子能成为她的姊妹",
+        "onboard_time": 1738564112,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378172,
+        "num": 378172,
+        "word": "日本流感",
+        "onboard_time": 1738551558,
+        "rank": 15,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 1168481,
+        "num": 376263,
+        "word": "这次熙媛又是交换了什么呢",
+        "onboard_time": 1738563392,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323755,
+        "num": 323755,
+        "word": "日本遭遇有记录以来最严重流感",
+        "onboard_time": 1738564712,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229061,
+        "num": 229061,
+        "word": "Riku恢复活动",
+        "onboard_time": 1738563094,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46860,
+        "num": 224600,
+        "word": "林诗栋挺进32强",
+        "onboard_time": 1738567108,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 630883,
+        "num": 222146,
+        "word": "韩媒曝具俊晔拒绝联系",
+        "onboard_time": 1738565909,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 513838,
+        "num": 219354,
+        "word": "李湘发文悼念",
+        "onboard_time": 1738568068,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342242,
+        "num": 212135,
+        "word": "小英老公出轨",
+        "onboard_time": 1738549593,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 63510,
+        "num": 209847,
+        "word": "流感等呼吸道疾病预防指南",
+        "onboard_time": 1738567348,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205045,
+        "num": 205045,
+        "word": "马斯克",
+        "onboard_time": 1738567289,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276389,
+        "num": 203385,
+        "word": "众星发声悼念",
+        "onboard_time": 1738557822,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199232,
+        "num": 199232,
+        "word": "你吃过灰豆腐吗",
+        "onboard_time": 1738566569,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 263746,
+        "num": 193604,
+        "word": "熙媛 我始终觉得你应该更幸福",
+        "onboard_time": 1738556624,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178754,
+        "num": 178754,
+        "word": "田志希国际赛场退役",
+        "onboard_time": 1738566031,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212217,
+        "num": 178291,
+        "word": "阿雅 一路走好最美的大王",
+        "onboard_time": 1738555849,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145679,
+        "num": 145679,
+        "word": "喝酒前吃了药一家三口被送抢救室",
+        "onboard_time": 1738556986,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68305,
+        "num": 141568,
+        "word": "立春有多少别名",
+        "onboard_time": 1738566629,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263262,
+        "num": 141174,
+        "word": "黄晓明发文悼念",
+        "onboard_time": 1738562432,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138184,
+        "num": 138184,
+        "word": "流感最常见的并发症是肺炎",
+        "onboard_time": 1738562132,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 195827,
+        "num": 134668,
+        "word": "总觉得我和大S像好朋友",
+        "onboard_time": 1738564891,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129235,
+        "num": 129235,
+        "word": "哪吒",
+        "onboard_time": 1738504758,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170732,
+        "num": 128005,
+        "word": "人生的容错率大得超乎你的想象",
+        "onboard_time": 1738559857,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202918,
+        "num": 127061,
+        "word": "杨丞琳发文悼念",
+        "onboard_time": 1738567348,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134981,
+        "num": 124674,
+        "word": "转角遇到爱",
+        "onboard_time": 1738561233,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109190,
+        "num": 122750,
+        "word": "日本流感到底有多严重",
+        "onboard_time": 1738556207,
+        "rank": 39,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 121212,
+        "num": 121212,
+        "word": "珊的一生不该是这样的",
+        "onboard_time": 1738567768,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112207,
+        "num": 112207,
+        "word": "石矶娘娘",
+        "onboard_time": 1738562557,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105246,
+        "num": 105246,
+        "word": "流感并发症才是致命原因",
+        "onboard_time": 1738562973,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96702,
+        "num": 96702,
+        "word": "正月初六恰逢立春",
+        "onboard_time": 1738546881,
+        "rank": 43,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 104949,
+        "num": 96500,
+        "word": "流感为何会致命",
+        "onboard_time": 1738554066,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 95947,
+        "num": 95947,
+        "word": "孙颖莎奶黄小包",
+        "onboard_time": 1738561413,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93815,
+        "num": 93815,
+        "word": "影院回应一天排99场哪吒2",
+        "onboard_time": 1738515616,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92214,
+        "num": 92214,
+        "word": "流感不是普通的重感冒",
+        "onboard_time": 1738554837,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 90454,
+        "num": 90454,
+        "word": "范玮琪发黑色图片悼念",
+        "onboard_time": 1738559076,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77051,
+        "num": 86601,
+        "word": "立春",
+        "onboard_time": 1738538353,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#6年前的这个场景真暖#"
+    }
+  }
+}

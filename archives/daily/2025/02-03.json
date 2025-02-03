@@ -1,6 +1,6 @@
 {
   "startTime": 1738513501648,
-  "endTime": 1738567355167,
+  "endTime": 1738568138579,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -243,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 940000,
+      "num": 940000,
+      "word": "正常情况下流感死亡率并不高",
+      "onboard_time": 1738564712,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 924262,
       "num": 1729610,
       "word": "流感不是普通的重感冒",
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 870892,
-      "num": 870892,
+      "num": 906515,
       "word": "石矶娘娘打破白幼瘦审美枷锁",
       "onboard_time": 1738553946,
       "rank": 36,
@@ -288,14 +296,6 @@
       "word": "立春躲春的正确方式",
       "onboard_time": 1738500920,
       "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 704463,
-      "num": 704463,
-      "word": "正常情况下流感死亡率并不高",
-      "onboard_time": 1738564712,
-      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -387,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 544843,
+      "num": 544843,
+      "word": "流感是一种可致死的疾病",
+      "onboard_time": 1738564712,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 544591,
       "num": 544591,
       "word": "一次流感为何会引发肺炎",
@@ -403,20 +411,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 520959,
-      "num": 520959,
-      "word": "流感是一种可致死的疾病",
-      "onboard_time": 1738564712,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 514261,
       "num": 546185,
       "word": "流感季日本患者或超952万人",
       "onboard_time": 1738558179,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 513838,
+      "num": 219354,
+      "word": "李湘发文悼念",
+      "onboard_time": 1738568068,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 511214,
@@ -612,7 +620,7 @@
     },
     {
       "raw_hot": 326694,
-      "num": 618867,
+      "num": 851720,
       "word": "初六送走坏运气",
       "onboard_time": 1738557644,
       "rank": 18,
@@ -707,20 +715,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 285311,
+      "num": 926879,
+      "word": "马斯克指责USAID资助研发生物武器",
+      "onboard_time": 1738561953,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 283209,
       "num": 145930,
       "word": "肖战对接回应包机问题",
       "onboard_time": 1738504520,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 283148,
-      "num": 878061,
-      "word": "马斯克指责USAID资助研发生物武器",
-      "onboard_time": 1738561953,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 279845,
@@ -827,6 +835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 240386,
+      "num": 881700,
+      "word": "哪吒2成中国影史春节档票房冠军",
+      "onboard_time": 1738557164,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 236337,
       "num": 348385,
       "word": "亚冬会火炬手最小的16岁",
@@ -843,6 +859,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 229061,
+      "num": 375250,
+      "word": "Riku恢复活动",
+      "onboard_time": 1738563094,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225619,
       "num": 225619,
       "word": "拜托这可是陈哲远亲自选的女主",
@@ -857,14 +881,6 @@
       "onboard_time": 1738564891,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 221323,
-      "num": 782834,
-      "word": "哪吒2成中国影史春节档票房冠军",
-      "onboard_time": 1738557164,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 215637,
@@ -915,12 +931,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205045,
+      "num": 370466,
+      "word": "马斯克",
+      "onboard_time": 1738567289,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 204368,
       "num": 194905,
       "word": "福克斯加盟马刺",
       "onboard_time": 1738547545,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202918,
+      "num": 127061,
+      "word": "杨丞琳发文悼念",
+      "onboard_time": 1738567348,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 202683,
@@ -955,20 +987,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199232,
+      "num": 199232,
+      "word": "你吃过灰豆腐吗",
+      "onboard_time": 1738566569,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 198871,
       "num": 216487,
       "word": "被卡住的中年人在同学聚会交换秘密",
       "onboard_time": 1738554131,
       "rank": 39,
       "category": "情感,民生新闻"
-    },
-    {
-      "raw_hot": 198690,
-      "num": 375250,
-      "word": "Riku恢复活动",
-      "onboard_time": 1738563094,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 192053,
@@ -1019,6 +1051,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 178754,
+      "num": 370217,
+      "word": "田志希国际赛场退役",
+      "onboard_time": 1738566031,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175320,
       "num": 175320,
       "word": "看了哪吒2才知道大闹天宫的含金量",
@@ -1043,27 +1083,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 173547,
-      "num": 370466,
-      "word": "马斯克",
-      "onboard_time": 1738567289,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 167235,
       "num": 206427,
       "word": "亚冬会火炬传递",
       "onboard_time": 1738547063,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 165740,
-      "num": 370217,
-      "word": "田志希国际赛场退役",
-      "onboard_time": 1738566031,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -1161,14 +1185,6 @@
       "onboard_time": 1738549593,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144475,
-      "num": 144475,
-      "word": "你吃过灰豆腐吗",
-      "onboard_time": 1738566569,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 143733,
@@ -1273,6 +1289,14 @@
       "onboard_time": 1738517774,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 121212,
+      "num": 121212,
+      "word": "珊的一生不该是这样的",
+      "onboard_time": 1738567768,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 121115,
@@ -1531,6 +1555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68305,
+      "num": 768156,
+      "word": "立春有多少别名",
+      "onboard_time": 1738566629,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66069,
       "num": 69834,
       "word": "刘国梁对WTT提出4点建议",
@@ -1544,6 +1576,14 @@
       "word": "文化中国行二十四节气经典美食",
       "onboard_time": 1738504758,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63510,
+      "num": 209847,
+      "word": "流感等呼吸道疾病预防指南",
+      "onboard_time": 1738567348,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -1561,14 +1601,6 @@
       "onboard_time": 1738548444,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 54088,
-      "num": 768156,
-      "word": "立春有多少别名",
-      "onboard_time": 1738566629,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 53729,
@@ -1593,6 +1625,14 @@
       "onboard_time": 1738485436,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46860,
+      "num": 260377,
+      "word": "林诗栋挺进32强",
+      "onboard_time": 1738567108,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 42484,
@@ -1728,14 +1768,6 @@
       "word": "王楚钦说希望运动员有合理选择赛事的权利",
       "onboard_time": 1738529711,
       "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 8500,
-      "num": 260377,
-      "word": "林诗栋挺进32强",
-      "onboard_time": 1738567108,
-      "rank": 29,
       "category": "体育"
     },
     {

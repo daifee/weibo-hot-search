@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738567355167,
+  "endTime": 1738568138579,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -395,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 940000,
+      "num": 940000,
+      "word": "正常情况下流感死亡率并不高",
+      "onboard_time": 1738564712,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 930561,
       "num": 930561,
       "word": "刘国梁建议隐藏世界排名",
@@ -428,7 +436,7 @@
     },
     {
       "raw_hot": 870892,
-      "num": 870892,
+      "num": 906515,
       "word": "石矶娘娘打破白幼瘦审美枷锁",
       "onboard_time": 1738553946,
       "rank": 36,
@@ -545,14 +553,6 @@
       "onboard_time": 1738468757,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 704463,
-      "num": 704463,
-      "word": "正常情况下流感死亡率并不高",
-      "onboard_time": 1738564712,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 701613,
@@ -795,6 +795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 544843,
+      "num": 544843,
+      "word": "流感是一种可致死的疾病",
+      "onboard_time": 1738564712,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 544591,
       "num": 544591,
       "word": "一次流感为何会引发肺炎",
@@ -811,14 +819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 520959,
-      "num": 520959,
-      "word": "流感是一种可致死的疾病",
-      "onboard_time": 1738564712,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 519419,
       "num": 519419,
       "word": "美方曾请求我国整类列管芬太尼类物质",
@@ -833,6 +833,14 @@
       "onboard_time": 1738558179,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 513838,
+      "num": 219354,
+      "word": "李湘发文悼念",
+      "onboard_time": 1738568068,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 511214,
@@ -1364,7 +1372,7 @@
     },
     {
       "raw_hot": 326694,
-      "num": 618867,
+      "num": 851720,
       "word": "初六送走坏运气",
       "onboard_time": 1738557644,
       "rank": 18,
@@ -1531,20 +1539,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 285311,
+      "num": 926879,
+      "word": "马斯克指责USAID资助研发生物武器",
+      "onboard_time": 1738561953,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 285147,
       "num": 180653,
       "word": "陈牧驰说强烈的郊感在召唤",
       "onboard_time": 1738492458,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 283148,
-      "num": 878061,
-      "word": "马斯克指责USAID资助研发生物武器",
-      "onboard_time": 1738561953,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 279845,
@@ -1739,6 +1747,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 240386,
+      "num": 881700,
+      "word": "哪吒2成中国影史春节档票房冠军",
+      "onboard_time": 1738557164,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 239992,
       "num": 187763,
       "word": "向太怕被倪萍催起床把门堵了",
@@ -1776,6 +1792,14 @@
       "word": "SM新男团出道方式",
       "onboard_time": 1738491318,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 229061,
+      "num": 375250,
+      "word": "Riku恢复活动",
+      "onboard_time": 1738563094,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -1856,14 +1880,6 @@
       "word": "河南一影院一天88场哪吒2",
       "onboard_time": 1738485018,
       "rank": 25,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 221323,
-      "num": 782834,
-      "word": "哪吒2成中国影史春节档票房冠军",
-      "onboard_time": 1738557164,
-      "rank": 34,
       "category": "电影"
     },
     {
@@ -2011,6 +2027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205045,
+      "num": 370466,
+      "word": "马斯克",
+      "onboard_time": 1738567289,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 204368,
       "num": 194905,
       "word": "福克斯加盟马刺",
@@ -2041,6 +2065,14 @@
       "onboard_time": 1738455016,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202918,
+      "num": 127061,
+      "word": "杨丞琳发文悼念",
+      "onboard_time": 1738567348,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 202683,
@@ -2107,6 +2139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199232,
+      "num": 199232,
+      "word": "你吃过灰豆腐吗",
+      "onboard_time": 1738566569,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 199079,
       "num": 199079,
       "word": "掌心",
@@ -2121,14 +2161,6 @@
       "onboard_time": 1738554131,
       "rank": 39,
       "category": "情感,民生新闻"
-    },
-    {
-      "raw_hot": 198690,
-      "num": 375250,
-      "word": "Riku恢复活动",
-      "onboard_time": 1738563094,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 196742,
@@ -2387,6 +2419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 178754,
+      "num": 370217,
+      "word": "田志希国际赛场退役",
+      "onboard_time": 1738566031,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177530,
       "num": 622486,
       "word": "春节假期开始倒数",
@@ -2459,14 +2499,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 173547,
-      "num": 370466,
-      "word": "马斯克",
-      "onboard_time": 1738567289,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 172095,
       "num": 172095,
       "word": "肖战郭靖迎财神涨好运",
@@ -2528,14 +2560,6 @@
       "word": "2025乒乓球世界杯",
       "onboard_time": 1738495458,
       "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 165740,
-      "num": 370217,
-      "word": "田志希国际赛场退役",
-      "onboard_time": 1738566031,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -2921,14 +2945,6 @@
       "onboard_time": 1738549593,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144475,
-      "num": 144475,
-      "word": "你吃过灰豆腐吗",
-      "onboard_time": 1738566569,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 144212,
@@ -3433,6 +3449,14 @@
       "onboard_time": 1738498278,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 121212,
+      "num": 121212,
+      "word": "珊的一生不该是这样的",
+      "onboard_time": 1738567768,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 121115,
@@ -4011,6 +4035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68305,
+      "num": 768156,
+      "word": "立春有多少别名",
+      "onboard_time": 1738566629,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66069,
       "num": 69834,
       "word": "刘国梁对WTT提出4点建议",
@@ -4041,6 +4073,14 @@
       "onboard_time": 1738434314,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 63510,
+      "num": 209847,
+      "word": "流感等呼吸道疾病预防指南",
+      "onboard_time": 1738567348,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61007,
@@ -4097,14 +4137,6 @@
       "onboard_time": 1738548444,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 54088,
-      "num": 768156,
-      "word": "立春有多少别名",
-      "onboard_time": 1738566629,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 53729,
@@ -4201,6 +4233,14 @@
       "onboard_time": 1738446671,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 46860,
+      "num": 260377,
+      "word": "林诗栋挺进32强",
+      "onboard_time": 1738567108,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 46670,
@@ -4600,14 +4640,6 @@
       "word": "王楚钦说希望运动员有合理选择赛事的权利",
       "onboard_time": 1738529711,
       "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 8500,
-      "num": 260377,
-      "word": "林诗栋挺进32强",
-      "onboard_time": 1738567108,
-      "rank": 29,
       "category": "体育"
     },
     {
