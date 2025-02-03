@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738611358142,
+  "endTime": 1738614233135,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -5619,6 +5619,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 16036,
+      "num": 71868,
+      "word": "大年初七不训小孩日",
+      "onboard_time": 1738610235,
+      "rank": 37,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 15835,
       "num": 457277,
       "word": "大年初六打卡非遗文化",
@@ -5689,14 +5697,6 @@
       "onboard_time": 1738485138,
       "rank": 29,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 12154,
-      "num": 71868,
-      "word": "大年初七不训小孩日",
-      "onboard_time": 1738610235,
-      "rank": 37,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 11732,
