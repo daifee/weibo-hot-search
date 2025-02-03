@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738581528215,
+  "endTime": 1738582554807,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1827,6 +1827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2090123,
+      "num": 1679918,
+      "word": "亲友找不到具俊晔",
+      "onboard_time": 1738577668,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2086857,
       "num": 2086857,
       "word": "婆婆谎称儿媳生的死胎把孩子送人",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736826199,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1846407,
-      "num": 1846407,
-      "word": "何老师都接不住的烂梗出现了",
-      "onboard_time": 1737771677,
-      "rank": 6,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

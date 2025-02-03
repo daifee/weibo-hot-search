@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738581528215,
+  "endTime": 1738582554807,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -147,6 +147,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 2090123,
+      "num": 1679918,
+      "word": "亲友找不到具俊晔",
+      "onboard_time": 1738577668,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2057350,
       "num": 2057350,
       "word": "哪吒2因为时长砍掉镜头",
@@ -201,14 +209,6 @@
       "onboard_time": 1738552229,
       "rank": 8,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1803207,
-      "num": 1679918,
-      "word": "亲友找不到具俊晔",
-      "onboard_time": 1738577668,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 1798237,
@@ -363,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1282981,
+      "num": 279629,
+      "word": "S妈小梅回应",
+      "onboard_time": 1738579768,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1281311,
       "num": 1281311,
       "word": "哪吒2票房逆跌",
@@ -377,6 +385,14 @@
       "onboard_time": 1738462818,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1214671,
+      "num": 1214671,
+      "word": "躲春",
+      "onboard_time": 1738489639,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1178033,
@@ -425,14 +441,6 @@
       "onboard_time": 1738556207,
       "rank": 34,
       "category": "民生新闻,艺人"
-    },
-    {
-      "raw_hot": 1133583,
-      "num": 1133583,
-      "word": "躲春",
-      "onboard_time": 1738489639,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1126172,
@@ -665,14 +673,6 @@
       "onboard_time": 1738487057,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 894832,
-      "num": 271246,
-      "word": "S妈小梅回应",
-      "onboard_time": 1738579768,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 876498,
@@ -1635,6 +1635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 412306,
+      "num": 303982,
+      "word": "日本爆发流感游客发声",
+      "onboard_time": 1738579650,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 411359,
       "num": 1686010,
       "word": "日本遭遇有记录以来最严重流感",
@@ -1771,20 +1779,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 385684,
-      "num": 303982,
-      "word": "日本爆发流感游客发声",
-      "onboard_time": 1738579650,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 385127,
       "num": 385127,
       "word": "美国自己生病却让别人吃药",
       "onboard_time": 1738510759,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 383772,
+      "num": 289391,
+      "word": "医生解释流感引发肺炎为何会死亡",
+      "onboard_time": 1738579709,
+      "rank": 13,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 381732,
@@ -1809,6 +1817,14 @@
       "onboard_time": 1738465217,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 379154,
+      "num": 379154,
+      "word": "哪吒票房一会就多一个亿",
+      "onboard_time": 1738581570,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 375815,
@@ -2129,14 +2145,6 @@
       "onboard_time": 1738469059,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 328605,
-      "num": 289391,
-      "word": "医生解释流感引发肺炎为何会死亡",
-      "onboard_time": 1738579709,
-      "rank": 13,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 327552,
@@ -2467,6 +2475,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 275878,
+      "num": 275878,
+      "word": "2025春节档票房排名",
+      "onboard_time": 1738580250,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 270127,
       "num": 175127,
       "word": "李雪琴自曝过年爱走亲戚",
@@ -2619,6 +2635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 253547,
+      "num": 246091,
+      "word": "疑似申公豹全家福流出",
+      "onboard_time": 1738579709,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 253128,
       "num": 253128,
       "word": "国际社会广泛反对美对中国加征关税",
@@ -2689,14 +2713,6 @@
       "onboard_time": 1738552229,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 246091,
-      "num": 246091,
-      "word": "疑似申公豹全家福流出",
-      "onboard_time": 1738579709,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 245937,
@@ -3083,6 +3099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 213972,
+      "num": 213972,
+      "word": "央视主播上新00后",
+      "onboard_time": 1738581329,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213675,
       "num": 213675,
       "word": "难哄",
@@ -3355,6 +3379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200103,
+      "num": 1481062,
+      "word": "大S曾称自己爱笑但其实很悲观",
+      "onboard_time": 1738578329,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199881,
       "num": 273448,
       "word": "颖儿演比夏冬春还折腾的浪姐",
@@ -3409,14 +3441,6 @@
       "onboard_time": 1738554131,
       "rank": 39,
       "category": "情感,民生新闻"
-    },
-    {
-      "raw_hot": 198843,
-      "num": 1481062,
-      "word": "大S曾称自己爱笑但其实很悲观",
-      "onboard_time": 1738578329,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 198407,
@@ -3803,6 +3827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 185523,
+      "num": 185523,
+      "word": "去年坐豪车里今年躺卡车底",
+      "onboard_time": 1738581028,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185508,
       "num": 149884,
       "word": "邓为男狐狸精赛道",
@@ -3817,6 +3849,14 @@
       "onboard_time": 1738503200,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184689,
+      "num": 184689,
+      "word": "迪丽热巴通告花名是自己取的",
+      "onboard_time": 1738579709,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 184687,
@@ -3937,14 +3977,6 @@
       "onboard_time": 1738485138,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 178969,
-      "num": 178969,
-      "word": "去年坐豪车里今年躺卡车底",
-      "onboard_time": 1738581028,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 178754,
@@ -4171,6 +4203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170047,
+      "num": 170047,
+      "word": "张元英mv镜头",
+      "onboard_time": 1738581268,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 169665,
       "num": 351673,
       "word": "王俊凯谈出演蛟龙行动声呐兵角色",
@@ -4201,14 +4241,6 @@
       "onboard_time": 1738406058,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167345,
-      "num": 183960,
-      "word": "2025春节档票房排名",
-      "onboard_time": 1738580250,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 167235,
@@ -4305,14 +4337,6 @@
       "onboard_time": 1738546579,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 163814,
-      "num": 163814,
-      "word": "迪丽热巴通告花名是自己取的",
-      "onboard_time": 1738579709,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 163637,
@@ -4464,6 +4488,14 @@
       "word": "女孩辞岁一晚跑几百家收入2000多",
       "onboard_time": 1738492577,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159570,
+      "num": 224172,
+      "word": "多位博主曾建议近期不要赴日本旅游",
+      "onboard_time": 1738582173,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -5276,7 +5308,7 @@
     },
     {
       "raw_hot": 132790,
-      "num": 256853,
+      "num": 297451,
       "word": "王楚钦说付出是值得的",
       "onboard_time": 1738580011,
       "rank": 19,
@@ -5523,14 +5555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 125609,
-      "num": 125609,
-      "word": "央视主播上新00后",
-      "onboard_time": 1738581329,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125556,
       "num": 125556,
       "word": "为了相亲把照片设置成了红包封面",
@@ -5569,14 +5593,6 @@
       "onboard_time": 1738480096,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 124236,
-      "num": 124236,
-      "word": "张元英mv镜头",
-      "onboard_time": 1738581268,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 124081,
@@ -6251,6 +6267,22 @@
       "category": "国内时政,互联网"
     },
     {
+      "raw_hot": 102665,
+      "num": 102665,
+      "word": "钱天一说倪夏莲给自己造成很大困难",
+      "onboard_time": 1738582173,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 102516,
+      "num": 102516,
+      "word": "李现为古装簪花造型减重",
+      "onboard_time": 1738581930,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102139,
       "num": 283858,
       "word": "姬发的顶级共情力",
@@ -6683,6 +6715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 81151,
+      "num": 193532,
+      "word": "张本智和3比0阿萨尔",
+      "onboard_time": 1738581209,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80474,
       "num": 80474,
       "word": "山东大集物价震惊日本导演竹内亮",
@@ -6792,6 +6832,14 @@
       "word": "凌晨四五点吃年夜饭全家一脸困意",
       "onboard_time": 1738327578,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75583,
+      "num": 103111,
+      "word": "返程高峰遇冷空气",
+      "onboard_time": 1738582531,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -7579,14 +7627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 26063,
-      "num": 193532,
-      "word": "张本智和3比0阿萨尔",
-      "onboard_time": 1738581209,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 26021,
       "num": 137943,
       "word": "NBA真过年了",
@@ -7745,6 +7785,14 @@
       "onboard_time": 1738356851,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 15553,
+      "num": 210635,
+      "word": "申裕斌田志希比心合照",
+      "onboard_time": 1738581691,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 15236,
