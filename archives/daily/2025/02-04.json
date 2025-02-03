@@ -1,6 +1,6 @@
 {
   "startTime": 1738600055579,
-  "endTime": 1738621238582,
+  "endTime": 1738622286641,
   "band_list": [
     {
       "raw_hot": 2092396,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 401760,
-      "num": 401760,
+      "num": 448083,
       "word": "雇主失联育儿嫂当妈3年带娃走亲戚",
       "onboard_time": 1738597167,
       "rank": 5,
@@ -331,6 +331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 94939,
+      "num": 94939,
+      "word": "日本留学生称地铁有三成人戴口罩",
+      "onboard_time": 1738619532,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85867,
       "num": 295557,
       "word": "哪吒2",
@@ -435,14 +443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 47812,
-      "num": 47812,
-      "word": "日本留学生称地铁有三成人戴口罩",
-      "onboard_time": 1738619532,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 44652,
       "num": 263958,
       "word": "车头是生活车尾是故乡",
@@ -475,7 +475,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 28704,
+      "raw_hot": 32948,
       "num": 38658,
       "word": "流感病毒会无差别攻击全身器官",
       "onboard_time": 1738617132,
@@ -497,6 +497,14 @@
       "onboard_time": 1738609093,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24951,
+      "num": 49700,
+      "word": "墨总统强势回击美国加征关税",
+      "onboard_time": 1738620733,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 23096,
@@ -553,14 +561,6 @@
       "onboard_time": 1738602441,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11326,
-      "num": 38407,
-      "word": "墨总统强势回击美国加征关税",
-      "onboard_time": 1738620733,
-      "rank": 49,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [
