@@ -1,10 +1,10 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738546890283,
+  "endTime": 1738547859228,
   "band_list": [
     {
-      "raw_hot": 7278953,
-      "num": 7278953,
+      "raw_hot": 18503372,
+      "num": 18503372,
       "word": "大S",
       "onboard_time": 1738546518,
       "rank": 10,
@@ -25,6 +25,14 @@
       "onboard_time": 1738486578,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1811313,
+      "num": 1811313,
+      "word": "格莱美",
+      "onboard_time": 1738466717,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 1708063,
@@ -73,14 +81,6 @@
       "onboard_time": 1738486517,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1466259,
-      "num": 1466259,
-      "word": "格莱美",
-      "onboard_time": 1738466717,
-      "rank": 36,
-      "category": "音乐"
     },
     {
       "raw_hot": 1420899,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 865656,
-      "num": 283829,
+      "num": 320094,
       "word": "女生醒来相亲对象站床边系摆拍",
       "onboard_time": 1738538894,
       "rank": 18,
@@ -483,18 +483,18 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 561751,
-      "num": 561751,
-      "word": "石矶娘娘整座山最美的女人",
-      "onboard_time": 1738421719,
+      "raw_hot": 564907,
+      "num": 361232,
+      "word": "电影票房高低反映观众的选择",
+      "onboard_time": 1738544356,
       "rank": 8,
       "category": "电影"
     },
     {
-      "raw_hot": 537752,
-      "num": 346731,
-      "word": "电影票房高低反映观众的选择",
-      "onboard_time": 1738544356,
+      "raw_hot": 561751,
+      "num": 561751,
+      "word": "石矶娘娘整座山最美的女人",
+      "onboard_time": 1738421719,
       "rank": 8,
       "category": "电影"
     },
@@ -548,7 +548,7 @@
     },
     {
       "raw_hot": 496694,
-      "num": 239855,
+      "num": 305730,
       "word": "特朗普下令对索马里发动空袭",
       "onboard_time": 1738515616,
       "rank": 10,
@@ -588,7 +588,7 @@
     },
     {
       "raw_hot": 485379,
-      "num": 271233,
+      "num": 310693,
       "word": "宋小宝假装粉丝强吻赵本山",
       "onboard_time": 1738540515,
       "rank": 12,
@@ -803,6 +803,22 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 370952,
+      "num": 370952,
+      "word": "正月初六把穷气送出门",
+      "onboard_time": 1738545918,
+      "rank": 19,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 368291,
+      "num": 315653,
+      "word": "北京女生在泰国2400平米的家",
+      "onboard_time": 1738544716,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 366686,
       "num": 284969,
       "word": "哪吒2票房",
@@ -811,20 +827,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 366130,
+      "num": 366130,
+      "word": "立春",
+      "onboard_time": 1738538353,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 365356,
       "num": 365356,
       "word": "费城坠毁飞机上的女孩刚做了救命手术",
       "onboard_time": 1738415417,
       "rank": 14,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 361522,
-      "num": 361522,
-      "word": "立春",
-      "onboard_time": 1738538353,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 357575,
@@ -913,14 +929,6 @@
       "onboard_time": 1738470797,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 336102,
-      "num": 197353,
-      "word": "北京女生在泰国2400平米的家",
-      "onboard_time": 1738544716,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 332778,
@@ -1041,6 +1049,14 @@
       "onboard_time": 1738486157,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 292372,
+      "num": 292372,
+      "word": "霉霉本命年穿搭",
+      "onboard_time": 1738546759,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 292151,
@@ -1275,6 +1291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 220653,
+      "num": 329123,
+      "word": "正月初六恰逢立春",
+      "onboard_time": 1738546881,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 219288,
       "num": 188740,
       "word": "哪吒敖丙",
@@ -1284,7 +1308,7 @@
     },
     {
       "raw_hot": 218275,
-      "num": 196792,
+      "num": 198766,
       "word": "樊振东和孙颖莎自动入围世界杯",
       "onboard_time": 1738545498,
       "rank": 22,
@@ -1387,12 +1411,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207096,
+      "num": 197590,
+      "word": "一箱牛奶完成了过年串门的使命",
+      "onboard_time": 1738545498,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 205091,
       "num": 205091,
       "word": "宋亚轩手电筒",
       "onboard_time": 1738477337,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204368,
+      "num": 194905,
+      "word": "福克斯加盟马刺",
+      "onboard_time": 1738547545,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 203821,
@@ -1473,14 +1513,6 @@
       "onboard_time": 1738486157,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 198583,
-      "num": 198583,
-      "word": "正月初六把穷气送出门",
-      "onboard_time": 1738545918,
-      "rank": 19,
-      "category": "正能量"
     },
     {
       "raw_hot": 196742,
@@ -1843,6 +1875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163883,
+      "num": 163883,
+      "word": "东契奇发文感谢独行侠",
+      "onboard_time": 1738546579,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163637,
       "num": 163637,
       "word": "蔡明直播说很感谢刘晓庆",
@@ -1929,6 +1969,14 @@
       "onboard_time": 1738542795,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 158664,
+      "num": 158664,
+      "word": "过年真的好费钱啊",
+      "onboard_time": 1738546278,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 158388,
@@ -2267,6 +2315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141885,
+      "num": 141885,
+      "word": "封神自来水致乌尔善的一封信",
+      "onboard_time": 1738547480,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 141121,
       "num": 141121,
       "word": "儿媳过年在家爆改婆婆",
@@ -2379,14 +2435,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 135203,
-      "num": 135203,
-      "word": "一箱牛奶完成了过年串门的使命",
-      "onboard_time": 1738545498,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 134700,
       "num": 134700,
       "word": "王者荣耀灵宝市集",
@@ -2417,6 +2465,14 @@
       "onboard_time": 1738499659,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 131457,
+      "num": 131457,
+      "word": "哪吒2里一根根锁链是导演的坚持",
+      "onboard_time": 1738547183,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 130528,
@@ -2628,7 +2684,7 @@
     },
     {
       "raw_hot": 121115,
-      "num": 116419,
+      "num": 119485,
       "word": "迎接春天啦",
       "onboard_time": 1738545498,
       "rank": 36,
@@ -2641,6 +2697,14 @@
       "onboard_time": 1738414519,
       "rank": 28,
       "category": "美食"
+    },
+    {
+      "raw_hot": 120874,
+      "num": 120874,
+      "word": "亚冬会火炬传递",
+      "onboard_time": 1738547063,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 119596,
@@ -2675,14 +2739,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 117473,
-      "num": 117473,
-      "word": "过年真的好费钱啊",
-      "onboard_time": 1738546278,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 117273,
       "num": 98119,
       "word": "陈哲远憋不了一点",
@@ -2699,12 +2755,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 114822,
-      "num": 114822,
-      "word": "东契奇发文感谢独行侠",
-      "onboard_time": 1738546579,
-      "rank": 37,
-      "category": "体育"
+      "raw_hot": 115470,
+      "num": 122415,
+      "word": "乙巳蛇年还是个双春年",
+      "onboard_time": 1738539134,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 113150,
@@ -2777,14 +2833,6 @@
       "onboard_time": 1738451652,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 109081,
-      "num": 122415,
-      "word": "乙巳蛇年还是个双春年",
-      "onboard_time": 1738539134,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 107798,
@@ -3001,14 +3049,6 @@
       "onboard_time": 1738428735,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 90245,
-      "num": 90245,
-      "word": "霉霉本命年穿搭",
-      "onboard_time": 1738546759,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 90106,

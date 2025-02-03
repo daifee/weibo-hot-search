@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738546890283,
+  "endTime": 1738547859228,
   "band_list": [
     {
       "raw_hot": 26934146,
@@ -41,6 +41,14 @@
       "onboard_time": 1738064609,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 18503372,
+      "num": 18503372,
+      "word": "大S",
+      "onboard_time": 1738546518,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 16704808,
@@ -289,14 +297,6 @@
       "onboard_time": 1736573540,
       "rank": 0,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 7278953,
-      "num": 7278953,
-      "word": "大S",
-      "onboard_time": 1738546518,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 7207522,
@@ -2307,6 +2307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1811313,
+      "num": 1811313,
+      "word": "格莱美",
+      "onboard_time": 1738466717,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1807619,
       "num": 1807619,
       "word": "珠海驾车撞人案罪犯被执行死刑",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1737851058,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1768799,
-      "num": 371493,
-      "word": "泰总理称男星失踪案极大影响旅游业",
-      "onboard_time": 1736262443,
-      "rank": 16,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
