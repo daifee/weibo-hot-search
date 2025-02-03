@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738579230574,
+  "endTime": 1738581528215,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -427,6 +427,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 1133583,
+      "num": 1133583,
+      "word": "躲春",
+      "onboard_time": 1738489639,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1126172,
       "num": 1693684,
       "word": "日本流感病例已超950万人",
@@ -657,6 +665,14 @@
       "onboard_time": 1738487057,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 894832,
+      "num": 271246,
+      "word": "S妈小梅回应",
+      "onboard_time": 1738579768,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 876498,
@@ -915,14 +931,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 692764,
-      "num": 692764,
-      "word": "躲春",
-      "onboard_time": 1738489639,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 692493,
       "num": 692493,
       "word": "吴倩新剧演80年代大学生",
@@ -1105,6 +1113,14 @@
       "onboard_time": 1738496120,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 574458,
+      "num": 1654187,
+      "word": "日本游客称路上有很多人咳嗽",
+      "onboard_time": 1738577548,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 573251,
@@ -1755,6 +1771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 385684,
+      "num": 303982,
+      "word": "日本爆发流感游客发声",
+      "onboard_time": 1738579650,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 385127,
       "num": 385127,
       "word": "美国自己生病却让别人吃药",
@@ -1785,14 +1809,6 @@
       "onboard_time": 1738465217,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 379529,
-      "num": 1654187,
-      "word": "日本游客称路上有很多人咳嗽",
-      "onboard_time": 1738577548,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 375815,
@@ -2113,6 +2129,14 @@
       "onboard_time": 1738469059,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 328605,
+      "num": 289391,
+      "word": "医生解释流感引发肺炎为何会死亡",
+      "onboard_time": 1738579709,
+      "rank": 13,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 327552,
@@ -2665,6 +2689,14 @@
       "onboard_time": 1738552229,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 246091,
+      "num": 246091,
+      "word": "疑似申公豹全家福流出",
+      "onboard_time": 1738579709,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 245937,
@@ -3379,6 +3411,14 @@
       "category": "情感,民生新闻"
     },
     {
+      "raw_hot": 198843,
+      "num": 1481062,
+      "word": "大S曾称自己爱笑但其实很悲观",
+      "onboard_time": 1738578329,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198407,
       "num": 167628,
       "word": "smtr25",
@@ -3899,6 +3939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 178969,
+      "num": 178969,
+      "word": "去年坐豪车里今年躺卡车底",
+      "onboard_time": 1738581028,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178754,
       "num": 370217,
       "word": "田志希国际赛场退役",
@@ -4155,6 +4203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167345,
+      "num": 183960,
+      "word": "2025春节档票房排名",
+      "onboard_time": 1738580250,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 167235,
       "num": 206427,
       "word": "亚冬会火炬传递",
@@ -4211,6 +4267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 164659,
+      "num": 1635456,
+      "word": "川A川G不语只是一味堵车",
+      "onboard_time": 1738569027,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164189,
       "num": 149965,
       "word": "创造营亚洲",
@@ -4241,6 +4305,14 @@
       "onboard_time": 1738546579,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163814,
+      "num": 163814,
+      "word": "迪丽热巴通告花名是自己取的",
+      "onboard_time": 1738579709,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 163637,
@@ -4393,14 +4465,6 @@
       "onboard_time": 1738492577,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 159843,
-      "num": 1481062,
-      "word": "大S曾称自己爱笑但其实很悲观",
-      "onboard_time": 1738578329,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 159125,
@@ -4633,14 +4697,6 @@
       "onboard_time": 1738399037,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 151838,
-      "num": 1635456,
-      "word": "川A川G不语只是一味堵车",
-      "onboard_time": 1738569027,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 151095,
@@ -4899,6 +4955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143978,
+      "num": 317086,
+      "word": "流感并发症的高危人群有哪些",
+      "onboard_time": 1738580250,
+      "rank": 9,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 143862,
       "num": 143862,
       "word": "墨西哥总统强硬回应",
@@ -5139,6 +5203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136549,
+      "num": 136549,
+      "word": "何浩楠直播",
+      "onboard_time": 1738579768,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135993,
       "num": 130743,
       "word": "唐探获中国影史系列电影票房冠军",
@@ -5201,6 +5273,14 @@
       "onboard_time": 1738501760,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132790,
+      "num": 256853,
+      "word": "王楚钦说付出是值得的",
+      "onboard_time": 1738580011,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 132576,
@@ -5443,6 +5523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125609,
+      "num": 125609,
+      "word": "央视主播上新00后",
+      "onboard_time": 1738581329,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125556,
       "num": 125556,
       "word": "为了相亲把照片设置成了红包封面",
@@ -5481,6 +5569,14 @@
       "onboard_time": 1738480096,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124236,
+      "num": 124236,
+      "word": "张元英mv镜头",
+      "onboard_time": 1738581268,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 124081,
@@ -6033,6 +6129,14 @@
       "onboard_time": 1738383498,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106524,
+      "num": 1661583,
+      "word": "院士夫妻现实版你是我的眼",
+      "onboard_time": 1738578092,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106415,
@@ -6673,14 +6777,6 @@
       "onboard_time": 1738549713,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 76633,
-      "num": 1661583,
-      "word": "院士夫妻现实版你是我的眼",
-      "onboard_time": 1738578092,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 76133,
@@ -7483,6 +7579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26063,
+      "num": 193532,
+      "word": "张本智和3比0阿萨尔",
+      "onboard_time": 1738581209,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26021,
       "num": 137943,
       "word": "NBA真过年了",
@@ -7545,6 +7649,14 @@
       "onboard_time": 1738516515,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23237,
+      "num": 212157,
+      "word": "湖人欢迎东契奇",
+      "onboard_time": 1738580968,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 23200,
