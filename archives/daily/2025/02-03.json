@@ -1,6 +1,6 @@
 {
   "startTime": 1738513501648,
-  "endTime": 1738578226746,
+  "endTime": 1738579230574,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -169,6 +169,14 @@
       "onboard_time": 1738552229,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1803207,
+      "num": 1679918,
+      "word": "亲友找不到具俊晔",
+      "onboard_time": 1738577668,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1798237,
@@ -515,14 +523,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 493185,
-      "num": 1679918,
-      "word": "亲友找不到具俊晔",
-      "onboard_time": 1738577668,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 485379,
       "num": 310693,
       "word": "宋小宝假装粉丝强吻赵本山",
@@ -619,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 395758,
+      "num": 1656063,
+      "word": "梁洁我从双世宠妃就跟着你了",
+      "onboard_time": 1738577188,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 393510,
       "num": 393510,
       "word": "特朗普称计划很快对欧盟产品征收关税",
@@ -641,6 +649,14 @@
       "onboard_time": 1738510759,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 379529,
+      "num": 1654187,
+      "word": "日本游客称路上有很多人咳嗽",
+      "onboard_time": 1738577548,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 366282,
@@ -843,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 261588,
+      "num": 1642705,
+      "word": "建议奶茶店都学习这种糖分写法",
+      "onboard_time": 1738573767,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 258453,
       "num": 1613711,
       "word": "流感最常见的并发症是肺炎",
@@ -985,14 +1009,6 @@
       "onboard_time": 1738576588,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 217053,
-      "num": 1656063,
-      "word": "梁洁我从双世宠妃就跟着你了",
-      "onboard_time": 1738577188,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 215637,
@@ -1211,14 +1227,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 179181,
-      "num": 1654187,
-      "word": "日本游客称路上有很多人咳嗽",
-      "onboard_time": 1738577548,
-      "rank": 29,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 178754,
       "num": 370217,
       "word": "田志希国际赛场退役",
@@ -1241,14 +1249,6 @@
       "onboard_time": 1738560334,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 175238,
-      "num": 1642705,
-      "word": "建议奶茶店都学习这种糖分写法",
-      "onboard_time": 1738573767,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 174608,
@@ -1323,6 +1323,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 159843,
+      "num": 1481062,
+      "word": "大S曾称自己爱笑但其实很悲观",
+      "onboard_time": 1738578329,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158743,
       "num": 158743,
       "word": "封神第二部票房破9亿",
@@ -1347,20 +1355,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151838,
+      "num": 1635456,
+      "word": "川A川G不语只是一味堵车",
+      "onboard_time": 1738569027,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150751,
       "num": 150751,
       "word": "亲戚未经同意抱走没断奶小狗",
       "onboard_time": 1738537513,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 150080,
-      "num": 1635456,
-      "word": "川A川G不语只是一味堵车",
-      "onboard_time": 1738569027,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149408,
@@ -1523,6 +1531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 116547,
+      "num": 1474146,
+      "word": "张极染金发了",
+      "onboard_time": 1738578689,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116459,
       "num": 116459,
       "word": "美方曾请求我国整类列管芬太尼类物质",
@@ -1577,6 +1593,14 @@
       "onboard_time": 1738504401,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112492,
+      "num": 1472749,
+      "word": "梁家辉肖战戏内打得狠戏外玩得好",
+      "onboard_time": 1738578806,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 111863,
@@ -1699,6 +1723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99256,
+      "num": 1669006,
+      "word": "2025春运",
+      "onboard_time": 1738576889,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95197,
       "num": 601070,
       "word": "过年走亲戚变为躲亲戚",
@@ -1729,14 +1761,6 @@
       "onboard_time": 1738481718,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 88639,
-      "num": 1669006,
-      "word": "2025春运",
-      "onboard_time": 1738576889,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 86919,
@@ -1795,6 +1819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76633,
+      "num": 1661583,
+      "word": "院士夫妻现实版你是我的眼",
+      "onboard_time": 1738578092,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72615,
       "num": 72615,
       "word": "王楚钦建议提高WTT总决赛奖金",
@@ -1825,6 +1857,14 @@
       "onboard_time": 1738513338,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65946,
+      "num": 1466850,
+      "word": "预防流感的最有效办法",
+      "onboard_time": 1738578450,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 65540,
@@ -1929,14 +1969,6 @@
       "onboard_time": 1738511357,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 38948,
-      "num": 1661583,
-      "word": "院士夫妻现实版你是我的眼",
-      "onboard_time": 1738578092,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 38085,
