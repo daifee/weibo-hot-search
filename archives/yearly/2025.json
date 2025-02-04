@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738651477847,
+  "endTime": 1738653691305,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -801,6 +801,14 @@
       "onboard_time": 1738456816,
       "rank": 0,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 3226443,
+      "num": 3226443,
+      "word": "具俊晔将手抱骨灰带大S回台湾",
+      "onboard_time": 1738650322,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 3219780,
@@ -1689,14 +1697,6 @@
       "onboard_time": 1735989203,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2198888,
-      "num": 767621,
-      "word": "具俊晔将手抱骨灰带大S回台湾",
-      "onboard_time": 1738650322,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 2187832,
