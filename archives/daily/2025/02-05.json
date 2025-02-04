@@ -1,6 +1,6 @@
 {
   "startTime": 1738686513636,
-  "endTime": 1738690770249,
+  "endTime": 1738693818302,
   "band_list": [
     {
       "raw_hot": 1475289,
@@ -73,6 +73,14 @@
       "onboard_time": 1738679664,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 313486,
+      "num": 313486,
+      "word": "男子十几万元转错账对方称没钱还",
+      "onboard_time": 1738691774,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 293754,
@@ -243,6 +251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 129267,
+      "num": 122911,
+      "word": "大S妈妈委托王伟忠发声",
+      "onboard_time": 1738692314,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126149,
       "num": 203385,
       "word": "真心建议要和积极乐观的人在一起",
@@ -337,6 +353,14 @@
       "onboard_time": 1738675283,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 90246,
+      "num": 202241,
+      "word": "高铁才是真正的中国米其林三星吧",
+      "onboard_time": 1738690037,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90140,
@@ -467,11 +491,27 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17750,
-      "num": 202241,
-      "word": "高铁才是真正的中国米其林三星吧",
-      "onboard_time": 1738690037,
-      "rank": 9,
+      "raw_hot": 36685,
+      "num": 117296,
+      "word": "定好闹钟明天元气满满开工",
+      "onboard_time": 1738691235,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18465,
+      "num": 117617,
+      "word": "瑞典一所学校发生枪击至少5人被击中",
+      "onboard_time": 1738692434,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 13211,
+      "num": 117240,
+      "word": "古人的玉佩上也有爱你的形状",
+      "onboard_time": 1738688417,
+      "rank": 30,
       "category": "民生新闻"
     }
   ],

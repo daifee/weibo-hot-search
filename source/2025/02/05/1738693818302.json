@@ -1,0 +1,410 @@
+{
+  "runTime": 1738693818302,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 418571,
+        "num": 418571,
+        "word": "哪吒2票房超50亿",
+        "onboard_time": 1738684643,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 313486,
+        "num": 313486,
+        "word": "男子十几万元转错账对方称没钱还",
+        "onboard_time": 1738691774,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17322,
+        "num": 218697,
+        "word": "春节假期兴起入境定制游",
+        "onboard_time": 1738675764,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156301,
+        "num": 156301,
+        "word": "射雕票房逆跌",
+        "onboard_time": 1738679905,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123896,
+        "num": 123896,
+        "word": "姐弟仨凌晨返程父亲陪他们坐了一夜",
+        "onboard_time": 1738679664,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91144,
+        "num": 123868,
+        "word": "总台专访霍震霆",
+        "onboard_time": 1738688838,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140236,
+        "num": 123337,
+        "word": "柯淳 好一个乖乖女",
+        "onboard_time": 1738684643,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129267,
+        "num": 122911,
+        "word": "大S妈妈委托王伟忠发声",
+        "onboard_time": 1738692314,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90246,
+        "num": 122565,
+        "word": "高铁才是真正的中国米其林三星吧",
+        "onboard_time": 1738690037,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75618,
+        "num": 122066,
+        "word": "返工人把高铁吃成流水席了",
+        "onboard_time": 1738671864,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213026,
+        "num": 121785,
+        "word": "汪小菲现任妻子mandy发声",
+        "onboard_time": 1738670305,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126556,
+        "num": 121235,
+        "word": "王长田还是保守了",
+        "onboard_time": 1738687160,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 279694,
+        "num": 121096,
+        "word": "司机视角的大S",
+        "onboard_time": 1738676185,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99167,
+        "num": 120650,
+        "word": "乌尔善被贴脸开大",
+        "onboard_time": 1738675644,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 80737,
+        "num": 120283,
+        "word": "哪吒2",
+        "onboard_time": 1738648402,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 74203,
+        "num": 119565,
+        "word": "唐人街探案祝贺哪吒",
+        "onboard_time": 1738676063,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 55815,
+        "num": 119310,
+        "word": "微信新增仅提醒朋友与我的互动",
+        "onboard_time": 1738671385,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 55736,
+        "num": 119021,
+        "word": "真心建议要和积极乐观的人在一起",
+        "onboard_time": 1738675283,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 48032,
+        "num": 118431,
+        "word": "蛇年开工首日",
+        "onboard_time": 1738685602,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46546,
+        "num": 118238,
+        "word": "原来长辈买衣服不是随便摸摸",
+        "onboard_time": 1738676545,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117938,
+        "num": 117938,
+        "word": "哪类人群易患败血症",
+        "onboard_time": 1738688237,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 47436,
+        "num": 117937,
+        "word": "血氧浓度低于90%很危险",
+        "onboard_time": 1738684343,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 47150,
+        "num": 117845,
+        "word": "这两人亲嘴能把对方毒死",
+        "onboard_time": 1738671505,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44766,
+        "num": 117756,
+        "word": "球球爸",
+        "onboard_time": 1738684404,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41183,
+        "num": 117703,
+        "word": "票房",
+        "onboard_time": 1738679905,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18465,
+        "num": 117617,
+        "word": "瑞典一所学校发生枪击至少5人被击中",
+        "onboard_time": 1738692434,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 40840,
+        "num": 117531,
+        "word": "接王长田事业运",
+        "onboard_time": 1738682605,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38322,
+        "num": 117437,
+        "word": "哪吒2哪吒1贴贴",
+        "onboard_time": 1738666885,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 37926,
+        "num": 117417,
+        "word": "舌尖4西湖醋鱼让司机师傅沉默了",
+        "onboard_time": 1738671085,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36685,
+        "num": 117296,
+        "word": "定好闹钟明天元气满满开工",
+        "onboard_time": 1738691235,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13211,
+        "num": 117240,
+        "word": "古人的玉佩上也有爱你的形状",
+        "onboard_time": 1738688417,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71140,
+        "num": 117148,
+        "word": "观众称看射雕如坐针毡",
+        "onboard_time": 1738679664,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 36143,
+        "num": 117102,
+        "word": "今晚记得打开闹钟",
+        "onboard_time": 1738679724,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35444,
+        "num": 117004,
+        "word": "曝痞幼新恋情",
+        "onboard_time": 1738647622,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 35081,
+        "num": 116958,
+        "word": "美对华加征关税是找错了对象打错了算盘",
+        "onboard_time": 1738684705,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34761,
+        "num": 116892,
+        "word": "金智秀柳智敏一起吃饭",
+        "onboard_time": 1738676843,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32821,
+        "num": 116771,
+        "word": "洗头发干净又油得慢的小方法",
+        "onboard_time": 1738668204,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 31579,
+        "num": 116746,
+        "word": "特朗普马斯克或确定下个打击目标",
+        "onboard_time": 1738683624,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31310,
+        "num": 116653,
+        "word": "杨颖民国新娘单手持枪反差感",
+        "onboard_time": 1738681524,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30675,
+        "num": 116570,
+        "word": "泰国将对泰缅边境的缅甸地区断电",
+        "onboard_time": 1738660286,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30658,
+        "num": 116506,
+        "word": "谢娜的教育方式与众不同",
+        "onboard_time": 1738681706,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29474,
+        "num": 116410,
+        "word": "程潇春樱",
+        "onboard_time": 1738685124,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28904,
+        "num": 116345,
+        "word": "猫眼预测",
+        "onboard_time": 1738681885,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 28252,
+        "num": 116248,
+        "word": "王者荣耀",
+        "onboard_time": 1738682065,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 27855,
+        "num": 116217,
+        "word": "影史票房前5有两个哪吒",
+        "onboard_time": 1738670544,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26116,
+        "num": 116143,
+        "word": "射雕",
+        "onboard_time": 1738681346,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25946,
+        "num": 116063,
+        "word": "逆跌",
+        "onboard_time": 1738677025,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25294,
+        "num": 116000,
+        "word": "杨颖王安宇民国造型",
+        "onboard_time": 1738672884,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25292,
+        "num": 115903,
+        "word": "乔丹儿子被捕",
+        "onboard_time": 1738680685,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25288,
+        "num": 115826,
+        "word": "龙族永不哭泣",
+        "onboard_time": 1738677264,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#让战士们都吃好#"
+    }
+  }
+}
