@@ -1,0 +1,410 @@
+{
+  "runTime": 1738667939630,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 738044,
+        "num": 1118087,
+        "word": "泰国将对泰缅边境的缅甸地区断电",
+        "onboard_time": 1738660286,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 519078,
+        "num": 519078,
+        "word": "满江红祝贺哪吒",
+        "onboard_time": 1738655005,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95423,
+        "num": 508810,
+        "word": "这一幕就是传承的具象化吧",
+        "onboard_time": 1738662203,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304659,
+        "num": 486671,
+        "word": "3人落水被机器人救起",
+        "onboard_time": 1738657104,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292492,
+        "num": 460749,
+        "word": "休2上4休1",
+        "onboard_time": 1738637423,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2756599,
+        "num": 443343,
+        "word": "台媒证实大S最终死因是败血症",
+        "onboard_time": 1738662923,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429285,
+        "num": 429285,
+        "word": "哪吒之魔童闹海票房破46亿",
+        "onboard_time": 1738662382,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 390533,
+        "num": 390533,
+        "word": "哪吒2",
+        "onboard_time": 1738648402,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 242544,
+        "num": 366704,
+        "word": "医生提醒重度干眼症可致失明",
+        "onboard_time": 1738655905,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114369,
+        "num": 366575,
+        "word": "合上行李箱又是一年",
+        "onboard_time": 1738666825,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5355707,
+        "num": 366575,
+        "word": "汪小菲评论大S老婆我好想你",
+        "onboard_time": 1738663943,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366571,
+        "num": 366571,
+        "word": "敖光 daddy",
+        "onboard_time": 1738663163,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1433179,
+        "num": 343989,
+        "word": "败血症",
+        "onboard_time": 1738664364,
+        "rank": 12,
+        "category": "健康医疗,艺人"
+      },
+      {
+        "raw_hot": 289535,
+        "num": 289535,
+        "word": "流浪地球3",
+        "onboard_time": 1738665504,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 851003,
+        "num": 282641,
+        "word": "具俊晔将手抱骨灰带大S回台湾",
+        "onboard_time": 1738650322,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208225,
+        "num": 208225,
+        "word": "白宇魏大勋同游三亚",
+        "onboard_time": 1738663824,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485425,
+        "num": 206152,
+        "word": "日本医院呼吁完全没药建议回家",
+        "onboard_time": 1738649004,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 190509,
+        "num": 190509,
+        "word": "爸妈装的行李一提一个不吱声",
+        "onboard_time": 1738664424,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 420634,
+        "num": 190466,
+        "word": "台湾民众抢打流感疫苗",
+        "onboard_time": 1738665563,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181875,
+        "num": 190147,
+        "word": "港股爆发A股大概率开门红",
+        "onboard_time": 1738667304,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 305988,
+        "num": 189710,
+        "word": "哪吒2哪吒1贴贴",
+        "onboard_time": 1738666885,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 262492,
+        "num": 189522,
+        "word": "曝痞幼新恋情",
+        "onboard_time": 1738647622,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 227516,
+        "num": 189034,
+        "word": "女子套圈300个一碰东西就反弹",
+        "onboard_time": 1738657462,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169958,
+        "num": 188880,
+        "word": "马嘉祺假期vlog",
+        "onboard_time": 1738662088,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222319,
+        "num": 188374,
+        "word": "普通人千万不要提前焦虑",
+        "onboard_time": 1738665863,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188285,
+        "num": 188285,
+        "word": "哪吒彩蛋",
+        "onboard_time": 1738665083,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185019,
+        "num": 185019,
+        "word": "林依晨20岁就开始写遗书了",
+        "onboard_time": 1738649243,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180805,
+        "num": 180805,
+        "word": "肖战曾说票房交给观众和市场",
+        "onboard_time": 1738652723,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172351,
+        "num": 172351,
+        "word": "原来假睫毛贴在这才不会塌",
+        "onboard_time": 1738662683,
+        "rank": 28,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 150893,
+        "num": 150893,
+        "word": "外甥女把小姨拉到角落给压岁钱",
+        "onboard_time": 1738664962,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204193,
+        "num": 150509,
+        "word": "蒯曼11比1",
+        "onboard_time": 1738667663,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154169,
+        "num": 150361,
+        "word": "王楚钦林诗栋vs周哲宇蔡邵恒",
+        "onboard_time": 1738667723,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149581,
+        "num": 149581,
+        "word": "封神路演",
+        "onboard_time": 1738665923,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147320,
+        "num": 147320,
+        "word": "陈哲远梁洁新剧爱人错过",
+        "onboard_time": 1738667243,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146813,
+        "num": 146813,
+        "word": "13岁少年收集火药引爆炸断3根手指",
+        "onboard_time": 1738667304,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141165,
+        "num": 141165,
+        "word": "哪吒2票房",
+        "onboard_time": 1738645704,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136468,
+        "num": 136468,
+        "word": "暗恋一个人10多年什么体验",
+        "onboard_time": 1738664064,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131003,
+        "num": 131003,
+        "word": "爸爸替未出生的宝宝向亲戚拜年",
+        "onboard_time": 1738661843,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128724,
+        "num": 128724,
+        "word": "朴灿烈想看陈哲远偷偷藏不住",
+        "onboard_time": 1738649722,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127101,
+        "num": 127101,
+        "word": "中国影史总榜哪吒2居8望7",
+        "onboard_time": 1738651282,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123820,
+        "num": 123820,
+        "word": "白色橄榄树孤儿院被炸",
+        "onboard_time": 1738662862,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118002,
+        "num": 123814,
+        "word": "陈鹤一素颜直播帅成这样",
+        "onboard_time": 1738664003,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116986,
+        "num": 123807,
+        "word": "孟子义人怎么能闯出这么大的祸",
+        "onboard_time": 1738655964,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108765,
+        "num": 123795,
+        "word": "现在的糖人都会动了",
+        "onboard_time": 1738661963,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100920,
+        "num": 123785,
+        "word": "士兵突击演员包场支持王宝强",
+        "onboard_time": 1738664664,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96269,
+        "num": 123772,
+        "word": "仙台有树OST阵容官宣",
+        "onboard_time": 1738660162,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95923,
+        "num": 123754,
+        "word": "中方对美国部分进口商品加征关税",
+        "onboard_time": 1738646722,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88607,
+        "num": 123739,
+        "word": "谷歌涉嫌违反反垄断法",
+        "onboard_time": 1738667663,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 86146,
+        "num": 123736,
+        "word": "中方在世贸组织起诉美加征关税措施",
+        "onboard_time": 1738651163,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 82016,
+        "num": 123720,
+        "word": "梁洁哭戏导演喊停仍未出戏",
+        "onboard_time": 1738664962,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#让战士们都吃好#"
+    }
+  }
+}
