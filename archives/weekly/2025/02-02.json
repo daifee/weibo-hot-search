@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738708707455,
+  "endTime": 1738711273194,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1611,6 +1611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 486877,
+      "num": 772344,
+      "word": "男子十几万元转错账对方称没钱还",
+      "onboard_time": 1738691774,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 485536,
       "num": 288055,
       "word": "生理性喜欢消失的原因",
@@ -2377,14 +2385,6 @@
       "onboard_time": 1738545498,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 313486,
-      "num": 469442,
-      "word": "男子十几万元转错账对方称没钱还",
-      "onboard_time": 1738691774,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 313363,
@@ -5443,6 +5443,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 139860,
+      "num": 189036,
+      "word": "特朗普马斯克或确定下个打击目标",
+      "onboard_time": 1738683624,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 139615,
       "num": 139615,
       "word": "全网都知道苏醒在迪拜买贵了",
@@ -5851,6 +5859,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 125807,
+      "num": 125807,
+      "word": "节后上班不在状态怎么办",
+      "onboard_time": 1738704850,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 125556,
       "num": 125556,
       "word": "为了相亲把照片设置成了红包封面",
@@ -6033,14 +6049,6 @@
       "onboard_time": 1738457897,
       "rank": 48,
       "category": "互联网,财经"
-    },
-    {
-      "raw_hot": 119174,
-      "num": 189036,
-      "word": "特朗普马斯克或确定下个打击目标",
-      "onboard_time": 1738683624,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 119157,
@@ -6787,6 +6795,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 96355,
+      "num": 96355,
+      "word": "为什么封神2口碑两极分化",
+      "onboard_time": 1738703171,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 95561,
       "num": 356155,
       "word": "春节假期高速免费截至今晚24时",
@@ -7179,6 +7195,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 80553,
+      "num": 246584,
+      "word": "新年开工BGM",
+      "onboard_time": 1738676305,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80526,
       "num": 80526,
       "word": "DeepSeek为何会引起美国AI巨头焦虑",
@@ -7243,14 +7267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 77748,
-      "num": 246584,
-      "word": "新年开工BGM",
-      "onboard_time": 1738676305,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77115,
       "num": 184308,
       "word": "李宇春被小孩喊春孃",
@@ -7289,14 +7305,6 @@
       "onboard_time": 1738505900,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 73814,
-      "num": 57469,
-      "word": "为什么封神2口碑两极分化",
-      "onboard_time": 1738703171,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 71935,
@@ -7427,7 +7435,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 64102,
+      "raw_hot": 64891,
       "num": 188877,
       "word": "美撞机事故2人因泄露视频被捕",
       "onboard_time": 1738681585,
@@ -7449,6 +7457,14 @@
       "onboard_time": 1738567348,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62807,
+      "num": 107034,
+      "word": "电视剧六姊妹让亿万观众认识安徽淮南",
+      "onboard_time": 1738710194,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 62058,
@@ -8035,6 +8051,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28720,
+      "num": 71389,
+      "word": "东契奇穿湖人装备亮相",
+      "onboard_time": 1738709714,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 28535,
+      "num": 71356,
+      "word": "春捂注意身体3个部位",
+      "onboard_time": 1738699391,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 27494,
       "num": 142412,
       "word": "芬太尼问题的本质是美国的问题",
@@ -8099,14 +8131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25408,
-      "num": 34383,
-      "word": "节后上班不在状态怎么办",
-      "onboard_time": 1738704850,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 25246,
       "num": 25246,
       "word": "一路繁花",
@@ -8129,6 +8153,22 @@
       "onboard_time": 1738616292,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 25116,
+      "num": 71229,
+      "word": "北京多条地铁线延长运营至凌晨一两点",
+      "onboard_time": 1738700051,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24781,
+      "num": 71175,
+      "word": "特朗普称希望乌用稀土矿换援助",
+      "onboard_time": 1738700532,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 24742,
@@ -8219,22 +8259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21724,
-      "num": 34221,
-      "word": "特朗普称希望乌用稀土矿换援助",
-      "onboard_time": 1738700532,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 21087,
-      "num": 34170,
-      "word": "春捂注意身体3个部位",
-      "onboard_time": 1738699391,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 20429,
       "num": 23273,
       "word": "用中国式浪漫打开立春节气",
@@ -8249,6 +8273,22 @@
       "onboard_time": 1738606036,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20207,
+      "num": 71105,
+      "word": "挤痘痘也可能导致败血症",
+      "onboard_time": 1738710254,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 20141,
+      "num": 71085,
+      "word": "慕胥辞杀青喊白日提灯",
+      "onboard_time": 1738710194,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 19755,
@@ -8289,14 +8329,6 @@
       "onboard_time": 1738581691,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 15320,
-      "num": 33945,
-      "word": "北京多条地铁线延长运营至凌晨一两点",
-      "onboard_time": 1738700051,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15236,

@@ -1,6 +1,6 @@
 {
   "startTime": 1738686513636,
-  "endTime": 1738708707455,
+  "endTime": 1738711273194,
   "band_list": [
     {
       "raw_hot": 1475289,
@@ -51,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 486877,
+      "num": 772344,
+      "word": "男子十几万元转错账对方称没钱还",
+      "onboard_time": 1738691774,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 345947,
       "num": 345947,
       "word": "乌尔善被贴脸开大",
@@ -73,14 +81,6 @@
       "onboard_time": 1738679664,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 313486,
-      "num": 469442,
-      "word": "男子十几万元转错账对方称没钱还",
-      "onboard_time": 1738691774,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 293754,
@@ -235,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139860,
+      "num": 189036,
+      "word": "特朗普马斯克或确定下个打击目标",
+      "onboard_time": 1738683624,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 137296,
       "num": 190111,
       "word": "票房",
@@ -275,20 +283,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 125807,
+      "num": 125807,
+      "word": "节后上班不在状态怎么办",
+      "onboard_time": 1738704850,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 123493,
       "num": 191449,
       "word": "后备箱不能开一开东西全掉了",
       "onboard_time": 1738679787,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119174,
-      "num": 189036,
-      "word": "特朗普马斯克或确定下个打击目标",
-      "onboard_time": 1738683624,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 118350,
@@ -315,12 +323,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107322,
+      "num": 190195,
+      "word": "这两人亲嘴能把对方毒死",
+      "onboard_time": 1738671505,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105858,
       "num": 189925,
       "word": "舌尖4西湖醋鱼让司机师傅沉默了",
       "onboard_time": 1738671085,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96355,
+      "num": 96355,
+      "word": "为什么封神2口碑两极分化",
+      "onboard_time": 1738703171,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 94041,
@@ -336,14 +360,6 @@
       "word": "杨颖王安宇民国造型",
       "onboard_time": 1738672884,
       "rank": 37,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 92668,
-      "num": 190195,
-      "word": "这两人亲嘴能把对方毒死",
-      "onboard_time": 1738671505,
-      "rank": 38,
       "category": "剧集"
     },
     {
@@ -427,6 +443,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 80553,
+      "num": 188208,
+      "word": "新年开工BGM",
+      "onboard_time": 1738676305,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80130,
       "num": 156448,
       "word": "导游陪20多位北欧游客挑战中国各地名山",
@@ -443,28 +467,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 77748,
-      "num": 188208,
-      "word": "新年开工BGM",
-      "onboard_time": 1738676305,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 73814,
-      "num": 57469,
-      "word": "为什么封神2口碑两极分化",
-      "onboard_time": 1738703171,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 64102,
+      "raw_hot": 64891,
       "num": 188877,
       "word": "美撞机事故2人因泄露视频被捕",
       "onboard_time": 1738681585,
       "rank": 25,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 62807,
+      "num": 107034,
+      "word": "电视剧六姊妹让亿万观众认识安徽淮南",
+      "onboard_time": 1738710194,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 54911,
@@ -523,6 +539,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28720,
+      "num": 71389,
+      "word": "东契奇穿湖人装备亮相",
+      "onboard_time": 1738709714,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 28535,
+      "num": 71356,
+      "word": "春捂注意身体3个部位",
+      "onboard_time": 1738699391,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 26847,
       "num": 100417,
       "word": "张峻豪新歌",
@@ -539,28 +571,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 25408,
-      "num": 34383,
-      "word": "节后上班不在状态怎么办",
-      "onboard_time": 1738704850,
-      "rank": 49,
-      "category": "健康医疗"
+      "raw_hot": 25116,
+      "num": 71229,
+      "word": "北京多条地铁线延长运营至凌晨一两点",
+      "onboard_time": 1738700051,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 21724,
-      "num": 34221,
+      "raw_hot": 24781,
+      "num": 71175,
       "word": "特朗普称希望乌用稀土矿换援助",
       "onboard_time": 1738700532,
       "rank": 49,
       "category": "国际时政"
     },
     {
-      "raw_hot": 21087,
-      "num": 34170,
-      "word": "春捂注意身体3个部位",
-      "onboard_time": 1738699391,
-      "rank": 47,
+      "raw_hot": 20207,
+      "num": 71105,
+      "word": "挤痘痘也可能导致败血症",
+      "onboard_time": 1738710254,
+      "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 20141,
+      "num": 71085,
+      "word": "慕胥辞杀青喊白日提灯",
+      "onboard_time": 1738710194,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 18465,
@@ -577,14 +617,6 @@
       "onboard_time": 1738694353,
       "rank": 33,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 15320,
-      "num": 33945,
-      "word": "北京多条地铁线延长运营至凌晨一两点",
-      "onboard_time": 1738700051,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15231,

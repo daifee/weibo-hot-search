@@ -1,0 +1,410 @@
+{
+  "runTime": 1738711273194,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 486877,
+        "num": 772344,
+        "word": "男子十几万元转错账对方称没钱还",
+        "onboard_time": 1738691774,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316323,
+        "num": 316323,
+        "word": "哪吒2票房超50亿",
+        "onboard_time": 1738684643,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38479,
+        "num": 297895,
+        "word": "春节假期兴起入境定制游",
+        "onboard_time": 1738675764,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294755,
+        "num": 294755,
+        "word": "姐弟仨凌晨返程父亲陪他们坐了一夜",
+        "onboard_time": 1738679664,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205954,
+        "num": 205954,
+        "word": "射雕票房逆跌",
+        "onboard_time": 1738679905,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193228,
+        "num": 193228,
+        "word": "返工人把高铁吃成流水席了",
+        "onboard_time": 1738671864,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125807,
+        "num": 125807,
+        "word": "节后上班不在状态怎么办",
+        "onboard_time": 1738704850,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 118472,
+        "num": 118472,
+        "word": "蛇年开工首日",
+        "onboard_time": 1738685602,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110088,
+        "num": 110088,
+        "word": "乌尔善被贴脸开大",
+        "onboard_time": 1738675644,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 62807,
+        "num": 107034,
+        "word": "电视剧六姊妹让亿万观众认识安徽淮南",
+        "onboard_time": 1738710194,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139860,
+        "num": 106645,
+        "word": "特朗普马斯克或确定下个打击目标",
+        "onboard_time": 1738683624,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105966,
+        "num": 105966,
+        "word": "总台专访霍震霆",
+        "onboard_time": 1738688838,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 96355,
+        "num": 96355,
+        "word": "为什么封神2口碑两极分化",
+        "onboard_time": 1738703171,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92556,
+        "num": 92556,
+        "word": "谢娜的教育方式与众不同",
+        "onboard_time": 1738681706,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87989,
+        "num": 87989,
+        "word": "高铁才是真正的中国米其林三星吧",
+        "onboard_time": 1738690037,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84859,
+        "num": 84859,
+        "word": "柯淳 好一个乖乖女",
+        "onboard_time": 1738684643,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80553,
+        "num": 80553,
+        "word": "新年开工BGM",
+        "onboard_time": 1738676305,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71987,
+        "num": 71987,
+        "word": "美对华加征关税是找错了对象打错了算盘",
+        "onboard_time": 1738684705,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 67315,
+        "num": 71981,
+        "word": "舌尖4西湖醋鱼让司机师傅沉默了",
+        "onboard_time": 1738671085,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64891,
+        "num": 71954,
+        "word": "美撞机事故2人因泄露视频被捕",
+        "onboard_time": 1738681585,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 107322,
+        "num": 71892,
+        "word": "这两人亲嘴能把对方毒死",
+        "onboard_time": 1738671505,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83422,
+        "num": 71873,
+        "word": "血氧浓度低于90%很危险",
+        "onboard_time": 1738684343,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 61622,
+        "num": 71855,
+        "word": "洗头发干净又油得慢的小方法",
+        "onboard_time": 1738668204,
+        "rank": 22,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 54424,
+        "num": 71819,
+        "word": "票房",
+        "onboard_time": 1738679905,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 52157,
+        "num": 71793,
+        "word": "唐人街探案祝贺哪吒",
+        "onboard_time": 1738676063,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 43156,
+        "num": 71761,
+        "word": "真心建议要和积极乐观的人在一起",
+        "onboard_time": 1738675283,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 42692,
+        "num": 71709,
+        "word": "哪吒2",
+        "onboard_time": 1738648402,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40767,
+        "num": 71694,
+        "word": "乔丹儿子被捕",
+        "onboard_time": 1738680685,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39368,
+        "num": 71645,
+        "word": "曝痞幼新恋情",
+        "onboard_time": 1738647622,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 38770,
+        "num": 71613,
+        "word": "球球爸",
+        "onboard_time": 1738684404,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 36746,
+        "num": 71595,
+        "word": "泰国将对泰缅边境的缅甸地区断电",
+        "onboard_time": 1738660286,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 35585,
+        "num": 71555,
+        "word": "原来长辈买衣服不是随便摸摸",
+        "onboard_time": 1738676545,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35290,
+        "num": 71515,
+        "word": "微信新增仅提醒朋友与我的互动",
+        "onboard_time": 1738671385,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 33699,
+        "num": 71479,
+        "word": "王长田还是保守了",
+        "onboard_time": 1738687160,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 33550,
+        "num": 71444,
+        "word": "杨颖民国新娘单手持枪反差感",
+        "onboard_time": 1738681524,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30631,
+        "num": 71420,
+        "word": "逆跌",
+        "onboard_time": 1738677025,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 28720,
+        "num": 71389,
+        "word": "东契奇穿湖人装备亮相",
+        "onboard_time": 1738709714,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28535,
+        "num": 71356,
+        "word": "春捂注意身体3个部位",
+        "onboard_time": 1738699391,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 28403,
+        "num": 71332,
+        "word": "猫眼预测",
+        "onboard_time": 1738681885,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27569,
+        "num": 71300,
+        "word": "拜登与知名艺人经纪公司签约",
+        "onboard_time": 1738675283,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26808,
+        "num": 71267,
+        "word": "蛇年开工第1天",
+        "onboard_time": 1738689257,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25116,
+        "num": 71229,
+        "word": "北京多条地铁线延长运营至凌晨一两点",
+        "onboard_time": 1738700051,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25059,
+        "num": 71185,
+        "word": "金智秀柳智敏一起吃饭",
+        "onboard_time": 1738676843,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24781,
+        "num": 71175,
+        "word": "特朗普称希望乌用稀土矿换援助",
+        "onboard_time": 1738700532,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23981,
+        "num": 71136,
+        "word": "今晚记得打开闹钟",
+        "onboard_time": 1738679724,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20207,
+        "num": 71105,
+        "word": "挤痘痘也可能导致败血症",
+        "onboard_time": 1738710254,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 20141,
+        "num": 71085,
+        "word": "慕胥辞杀青喊白日提灯",
+        "onboard_time": 1738710194,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17837,
+        "num": 71035,
+        "word": "不委屈自己是爱自己的第一步",
+        "onboard_time": 1738688716,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17065,
+        "num": 70992,
+        "word": "射雕",
+        "onboard_time": 1738681346,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16748,
+        "num": 70969,
+        "word": "王者荣耀",
+        "onboard_time": 1738682065,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记那些点睛用典#"
+    }
+  }
+}

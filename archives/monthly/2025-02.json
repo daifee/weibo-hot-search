@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738708707455,
+  "endTime": 1738711273194,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -2003,6 +2003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 486877,
+      "num": 772344,
+      "word": "男子十几万元转错账对方称没钱还",
+      "onboard_time": 1738691774,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 485536,
       "num": 288055,
       "word": "生理性喜欢消失的原因",
@@ -3057,14 +3065,6 @@
       "onboard_time": 1738545498,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 313486,
-      "num": 469442,
-      "word": "男子十几万元转错账对方称没钱还",
-      "onboard_time": 1738691774,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 313363,
@@ -7171,6 +7171,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 139860,
+      "num": 189036,
+      "word": "特朗普马斯克或确定下个打击目标",
+      "onboard_time": 1738683624,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 139668,
       "num": 139668,
       "word": "钟辰乐空降",
@@ -7723,6 +7731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 125807,
+      "num": 125807,
+      "word": "节后上班不在状态怎么办",
+      "onboard_time": 1738704850,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 125653,
       "num": 87495,
       "word": "刘晓庆不服输也不扶人",
@@ -8001,14 +8017,6 @@
       "onboard_time": 1738457897,
       "rank": 48,
       "category": "互联网,财经"
-    },
-    {
-      "raw_hot": 119174,
-      "num": 189036,
-      "word": "特朗普马斯克或确定下个打击目标",
-      "onboard_time": 1738683624,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 119157,
@@ -9027,6 +9035,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 96355,
+      "num": 96355,
+      "word": "为什么封神2口碑两极分化",
+      "onboard_time": 1738703171,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 95894,
       "num": 119605,
       "word": "新能源车企1月成绩单出炉",
@@ -9539,6 +9555,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 80553,
+      "num": 246584,
+      "word": "新年开工BGM",
+      "onboard_time": 1738676305,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80526,
       "num": 80526,
       "word": "DeepSeek为何会引起美国AI巨头焦虑",
@@ -9651,14 +9675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 77748,
-      "num": 246584,
-      "word": "新年开工BGM",
-      "onboard_time": 1738676305,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77400,
       "num": 118696,
       "word": "三巨头同日接入DeepSeek",
@@ -9729,14 +9745,6 @@
       "onboard_time": 1738415060,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 73814,
-      "num": 57469,
-      "word": "为什么封神2口碑两极分化",
-      "onboard_time": 1738703171,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 71935,
@@ -9931,7 +9939,7 @@
       "category": "网红"
     },
     {
-      "raw_hot": 64102,
+      "raw_hot": 64891,
       "num": 188877,
       "word": "美撞机事故2人因泄露视频被捕",
       "onboard_time": 1738681585,
@@ -9953,6 +9961,14 @@
       "onboard_time": 1738567348,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62807,
+      "num": 107034,
+      "word": "电视剧六姊妹让亿万观众认识安徽淮南",
+      "onboard_time": 1738710194,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 62498,
@@ -10739,6 +10755,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28720,
+      "num": 71389,
+      "word": "东契奇穿湖人装备亮相",
+      "onboard_time": 1738709714,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 28535,
+      "num": 71356,
+      "word": "春捂注意身体3个部位",
+      "onboard_time": 1738699391,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 27833,
       "num": 27833,
       "word": "2月第1天",
@@ -10811,14 +10843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25408,
-      "num": 34383,
-      "word": "节后上班不在状态怎么办",
-      "onboard_time": 1738704850,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 25246,
       "num": 25246,
       "word": "一路繁花",
@@ -10843,12 +10867,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 25116,
+      "num": 71229,
+      "word": "北京多条地铁线延长运营至凌晨一两点",
+      "onboard_time": 1738700051,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24802,
       "num": 24802,
       "word": "电影蛟龙行动",
       "onboard_time": 1738359971,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 24781,
+      "num": 71175,
+      "word": "特朗普称希望乌用稀土矿换援助",
+      "onboard_time": 1738700532,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 24742,
@@ -10963,22 +11003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 21724,
-      "num": 34221,
-      "word": "特朗普称希望乌用稀土矿换援助",
-      "onboard_time": 1738700532,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 21087,
-      "num": 34170,
-      "word": "春捂注意身体3个部位",
-      "onboard_time": 1738699391,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 20429,
       "num": 23273,
       "word": "用中国式浪漫打开立春节气",
@@ -10995,12 +11019,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20207,
+      "num": 71105,
+      "word": "挤痘痘也可能导致败血症",
+      "onboard_time": 1738710254,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 20181,
       "num": 87941,
       "word": "假期后程新一股冷空气来袭",
       "onboard_time": 1738396938,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20141,
+      "num": 71085,
+      "word": "慕胥辞杀青喊白日提灯",
+      "onboard_time": 1738710194,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 19755,
@@ -11049,14 +11089,6 @@
       "onboard_time": 1738581691,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 15320,
-      "num": 33945,
-      "word": "北京多条地铁线延长运营至凌晨一两点",
-      "onboard_time": 1738700051,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15236,
