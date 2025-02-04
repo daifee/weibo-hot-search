@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738650679119,
+  "endTime": 1738651477847,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1691,6 +1691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2198888,
+      "num": 767621,
+      "word": "具俊晔将手抱骨灰带大S回台湾",
+      "onboard_time": 1738650322,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2187832,
       "num": 2187832,
       "word": "金价",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736643619,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1878063,
-      "num": 361860,
-      "word": "王星自述自己根本逃不出大楼",
-      "onboard_time": 1736384242,
-      "rank": 10,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
