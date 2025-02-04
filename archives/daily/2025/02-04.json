@@ -1,6 +1,6 @@
 {
   "startTime": 1738600055579,
-  "endTime": 1738664629253,
+  "endTime": 1738665660153,
   "band_list": [
     {
       "raw_hot": 6995860,
@@ -81,6 +81,14 @@
       "onboard_time": 1738636102,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1990747,
+      "num": 207789,
+      "word": "败血症",
+      "onboard_time": 1738664364,
+      "rank": 26,
+      "category": "健康医疗,艺人"
     },
     {
       "raw_hot": 1804377,
@@ -171,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 968293,
+      "num": 1154926,
+      "word": "泰国将对泰缅边境的缅甸地区断电",
+      "onboard_time": 1738660286,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 935907,
       "num": 944814,
       "word": "光线要拍敖丙传",
@@ -241,14 +257,6 @@
       "onboard_time": 1738624635,
       "rank": 20,
       "category": "互联网,民生新闻"
-    },
-    {
-      "raw_hot": 656409,
-      "num": 656409,
-      "word": "泰国将对泰缅边境的缅甸地区断电",
-      "onboard_time": 1738660286,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 640574,
@@ -387,6 +395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 467181,
+      "num": 350196,
+      "word": "哪吒之魔童闹海票房破46亿",
+      "onboard_time": 1738662382,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 459936,
       "num": 404758,
       "word": "哪吒3",
@@ -400,14 +416,6 @@
       "word": "看完唐探1900感觉自己白看了",
       "onboard_time": 1738638385,
       "rank": 26,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 436829,
-      "num": 350196,
-      "word": "哪吒之魔童闹海票房破46亿",
-      "onboard_time": 1738662382,
-      "rank": 7,
       "category": "电影"
     },
     {
@@ -425,6 +433,14 @@
       "onboard_time": 1738641562,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 414148,
+      "num": 276172,
+      "word": "敖光 daddy",
+      "onboard_time": 1738663163,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 409452,
@@ -531,14 +547,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 321922,
-      "num": 276172,
-      "word": "敖光 daddy",
-      "onboard_time": 1738663163,
-      "rank": 11,
-      "category": "电影"
-    },
-    {
       "raw_hot": 313363,
       "num": 204685,
       "word": "哪吒2导演说石矶娘娘心思单纯可爱",
@@ -633,14 +641,6 @@
       "onboard_time": 1738655964,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 253787,
-      "num": 172779,
-      "word": "败血症",
-      "onboard_time": 1738664364,
-      "rank": 26,
-      "category": "健康医疗,艺人"
     },
     {
       "raw_hot": 250080,
@@ -795,12 +795,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 208653,
+      "num": 200344,
+      "word": "爸爸替未出生的宝宝向亲戚拜年",
+      "onboard_time": 1738661843,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205599,
       "num": 205599,
       "word": "美加同意暂缓30天实施加征关税措施",
       "onboard_time": 1738639043,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 203887,
+      "num": 203887,
+      "word": "原来假睫毛贴在这才不会塌",
+      "onboard_time": 1738662683,
+      "rank": 31,
+      "category": "美妆"
     },
     {
       "raw_hot": 201901,
@@ -817,6 +833,14 @@
       "onboard_time": 1738644381,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196089,
+      "num": 196089,
+      "word": "丁程鑫请问路在哪儿",
+      "onboard_time": 1738664544,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 195240,
@@ -843,14 +867,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 191162,
-      "num": 143987,
-      "word": "原来假睫毛贴在这才不会塌",
-      "onboard_time": 1738662683,
-      "rank": 31,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 189566,
       "num": 189566,
       "word": "日本留学生称地铁有三成人戴口罩",
@@ -865,6 +881,14 @@
       "onboard_time": 1738595069,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185766,
+      "num": 185766,
+      "word": "白宇魏大勋同游三亚",
+      "onboard_time": 1738663824,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 184912,
@@ -897,6 +921,14 @@
       "onboard_time": 1738593091,
       "rank": 11,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 181861,
+      "num": 248160,
+      "word": "陈鹤一素颜直播帅成这样",
+      "onboard_time": 1738664003,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 181175,
@@ -937,14 +969,6 @@
       "onboard_time": 1738646243,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 176133,
-      "num": 176133,
-      "word": "爸爸替未出生的宝宝向亲戚拜年",
-      "onboard_time": 1738661843,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 174531,
@@ -1008,6 +1032,14 @@
       "word": "封神几秒钟的镜头硬生生刀我好几天",
       "onboard_time": 1738642943,
       "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 171502,
+      "num": 171502,
+      "word": "士兵突击演员包场支持王宝强",
+      "onboard_time": 1738664664,
+      "rank": 35,
       "category": "电影"
     },
     {
@@ -1179,6 +1211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 146218,
+      "num": 146218,
+      "word": "暗恋一个人10多年什么体验",
+      "onboard_time": 1738664064,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145642,
       "num": 252104,
       "word": "直播春运返程高峰",
@@ -1257,14 +1297,6 @@
       "onboard_time": 1738579650,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140385,
-      "num": 140385,
-      "word": "白宇魏大勋同游三亚",
-      "onboard_time": 1738663824,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 140369,
@@ -1363,14 +1395,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 125869,
-      "num": 248160,
-      "word": "陈鹤一素颜直播帅成这样",
-      "onboard_time": 1738664003,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 123859,
       "num": 306548,
       "word": "橄榄树开播3天梁洁涨粉40万",
@@ -1401,14 +1425,6 @@
       "onboard_time": 1738592492,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 117534,
-      "num": 117534,
-      "word": "暗恋一个人10多年什么体验",
-      "onboard_time": 1738664064,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 117262,
@@ -1449,6 +1465,14 @@
       "onboard_time": 1738646123,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114173,
+      "num": 114173,
+      "word": "流浪地球3",
+      "onboard_time": 1738665504,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 113421,
@@ -1531,6 +1555,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 109114,
+      "num": 109114,
+      "word": "哪吒彩蛋",
+      "onboard_time": 1738665083,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 108955,
       "num": 108955,
       "word": "和肖战一起执梦为剑快意江湖",
@@ -1545,6 +1577,14 @@
       "onboard_time": 1738582173,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108685,
+      "num": 203011,
+      "word": "爸妈装的行李一提一个不吱声",
+      "onboard_time": 1738664424,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 108237,
@@ -1569,6 +1609,14 @@
       "onboard_time": 1738631001,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107258,
+      "num": 559426,
+      "word": "这一幕就是传承的具象化吧",
+      "onboard_time": 1738662203,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106192,
@@ -1627,14 +1675,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 100558,
-      "num": 100558,
-      "word": "丁程鑫请问路在哪儿",
-      "onboard_time": 1738664544,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 99651,
       "num": 99651,
       "word": "刘昊然虎牙笑起来收不回去",
@@ -1673,14 +1713,6 @@
       "onboard_time": 1738654285,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 96332,
-      "num": 559426,
-      "word": "这一幕就是传承的具象化吧",
-      "onboard_time": 1738662203,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95561,
@@ -1748,7 +1780,7 @@
     },
     {
       "raw_hot": 87230,
-      "num": 87230,
+      "num": 201525,
       "word": "川A大军返程路况直播",
       "onboard_time": 1738661604,
       "rank": 48,
@@ -1979,6 +2011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58948,
+      "num": 201732,
+      "word": "陈鹤一直播",
+      "onboard_time": 1738665443,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 56595,
       "num": 306259,
       "word": "日本游客称路上有很多人咳嗽",
@@ -2059,6 +2099,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41618,
+      "num": 111628,
+      "word": "王曼昱说通过比赛去恢复",
+      "onboard_time": 1738662203,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 41516,
+      "num": 202894,
+      "word": "梁洁哭戏导演喊停仍未出戏",
+      "onboard_time": 1738664962,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 39319,
       "num": 161660,
       "word": "恒生指数盘中涨超600点",
@@ -2105,14 +2161,6 @@
       "onboard_time": 1738639462,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30199,
-      "num": 144664,
-      "word": "爸妈装的行李一提一个不吱声",
-      "onboard_time": 1738664424,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 25673,
@@ -2225,6 +2273,14 @@
       "onboard_time": 1738639943,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 8719,
+      "num": 197745,
+      "word": "台湾民众抢打流感疫苗",
+      "onboard_time": 1738665563,
+      "rank": 31,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -2233,6 +2289,9 @@
     },
     {
       "word": "#总书记那些点睛用典#"
+    },
+    {
+      "word": "#让战士们都吃好#"
     }
   ]
 }

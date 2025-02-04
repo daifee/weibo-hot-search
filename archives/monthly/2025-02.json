@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738664629253,
+  "endTime": 1738665660153,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -289,6 +289,14 @@
       "onboard_time": 1738636102,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1990747,
+      "num": 207789,
+      "word": "败血症",
+      "onboard_time": 1738664364,
+      "rank": 26,
+      "category": "健康医疗,艺人"
     },
     {
       "raw_hot": 1911463,
@@ -803,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 968293,
+      "num": 1154926,
+      "word": "泰国将对泰缅边境的缅甸地区断电",
+      "onboard_time": 1738660286,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 968225,
       "num": 308167,
       "word": "于适 我们只想要公平",
@@ -1289,14 +1305,6 @@
       "onboard_time": 1738489998,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 656409,
-      "num": 656409,
-      "word": "泰国将对泰缅边境的缅甸地区断电",
-      "onboard_time": 1738660286,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 650007,
@@ -1899,6 +1907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 467181,
+      "num": 350196,
+      "word": "哪吒之魔童闹海票房破46亿",
+      "onboard_time": 1738662382,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 461178,
       "num": 460808,
       "word": "哪吒2已破14项影史纪录",
@@ -2019,14 +2035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 436829,
-      "num": 350196,
-      "word": "哪吒之魔童闹海票房破46亿",
-      "onboard_time": 1738662382,
-      "rank": 7,
-      "category": "电影"
-    },
-    {
       "raw_hot": 434693,
       "num": 434693,
       "word": "医生提醒重度干眼症可致失明",
@@ -2137,6 +2145,14 @@
       "onboard_time": 1738499720,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 414148,
+      "num": 276172,
+      "word": "敖光 daddy",
+      "onboard_time": 1738663163,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 411359,
@@ -2779,14 +2795,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 321922,
-      "num": 276172,
-      "word": "敖光 daddy",
-      "onboard_time": 1738663163,
-      "rank": 11,
-      "category": "电影"
-    },
-    {
       "raw_hot": 318130,
       "num": 318130,
       "word": "国乒欢迎晚宴",
@@ -3329,14 +3337,6 @@
       "onboard_time": 1738403717,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 253787,
-      "num": 172779,
-      "word": "败血症",
-      "onboard_time": 1738664364,
-      "rank": 26,
-      "category": "健康医疗,艺人"
     },
     {
       "raw_hot": 253547,
@@ -4083,6 +4083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208653,
+      "num": 200344,
+      "word": "爸爸替未出生的宝宝向亲戚拜年",
+      "onboard_time": 1738661843,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208642,
       "num": 221752,
       "word": "国际乒联工作组与中国乒协举行会议",
@@ -4193,6 +4201,14 @@
       "onboard_time": 1738547545,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203887,
+      "num": 203887,
+      "word": "原来假睫毛贴在这才不会塌",
+      "onboard_time": 1738662683,
+      "rank": 31,
+      "category": "美妆"
     },
     {
       "raw_hot": 203821,
@@ -4403,6 +4419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196089,
+      "num": 196089,
+      "word": "丁程鑫请问路在哪儿",
+      "onboard_time": 1738664544,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196012,
       "num": 196012,
       "word": "刘晓庆闯入短剧赛道",
@@ -4593,14 +4617,6 @@
       "onboard_time": 1738631001,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 191162,
-      "num": 143987,
-      "word": "原来假睫毛贴在这才不会塌",
-      "onboard_time": 1738662683,
-      "rank": 31,
-      "category": "美妆"
     },
     {
       "raw_hot": 190548,
@@ -4795,6 +4811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 185766,
+      "num": 185766,
+      "word": "白宇魏大勋同游三亚",
+      "onboard_time": 1738663824,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185679,
       "num": 225108,
       "word": "封神第二部已成功打入小孩圈",
@@ -4955,6 +4979,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 181861,
+      "num": 248160,
+      "word": "陈鹤一素颜直播帅成这样",
+      "onboard_time": 1738664003,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181838,
       "num": 181838,
       "word": "倪夏莲组合11比0",
@@ -5113,14 +5145,6 @@
       "onboard_time": 1738416438,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 176133,
-      "num": 176133,
-      "word": "爸爸替未出生的宝宝向亲戚拜年",
-      "onboard_time": 1738661843,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 175622,
@@ -5312,6 +5336,14 @@
       "word": "封神几秒钟的镜头硬生生刀我好几天",
       "onboard_time": 1738642943,
       "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 171502,
+      "num": 171502,
+      "word": "士兵突击演员包场支持王宝强",
+      "onboard_time": 1738664664,
+      "rank": 35,
       "category": "电影"
     },
     {
@@ -6147,6 +6179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 146218,
+      "num": 146218,
+      "word": "暗恋一个人10多年什么体验",
+      "onboard_time": 1738664064,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146214,
       "num": 119155,
       "word": "孟子义这张嘴借我用用",
@@ -6449,14 +6489,6 @@
       "onboard_time": 1738555789,
       "rank": 2,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 140385,
-      "num": 140385,
-      "word": "白宇魏大勋同游三亚",
-      "onboard_time": 1738663824,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 140369,
@@ -6987,14 +7019,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 125869,
-      "num": 248160,
-      "word": "陈鹤一素颜直播帅成这样",
-      "onboard_time": 1738664003,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 125830,
       "num": 125830,
       "word": "苏敏阿姨说对射雕的江湖观很有感触",
@@ -7299,14 +7323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 117534,
-      "num": 117534,
-      "word": "暗恋一个人10多年什么体验",
-      "onboard_time": 1738664064,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 117273,
       "num": 98119,
       "word": "陈哲远憋不了一点",
@@ -7433,6 +7449,14 @@
       "onboard_time": 1738378817,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114173,
+      "num": 114173,
+      "word": "流浪地球3",
+      "onboard_time": 1738665504,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 114156,
@@ -7691,6 +7715,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 109114,
+      "num": 255947,
+      "word": "哪吒彩蛋",
+      "onboard_time": 1738464137,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 109103,
       "num": 915533,
       "word": "大年初四去哪玩",
@@ -7721,6 +7753,14 @@
       "onboard_time": 1738637543,
       "rank": 40,
       "category": "电影,民生新闻"
+    },
+    {
+      "raw_hot": 108685,
+      "num": 203011,
+      "word": "爸妈装的行李一提一个不吱声",
+      "onboard_time": 1738664424,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 108237,
@@ -7785,6 +7825,14 @@
       "onboard_time": 1738631001,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107258,
+      "num": 559426,
+      "word": "这一幕就是传承的具象化吧",
+      "onboard_time": 1738662203,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107240,
@@ -8035,14 +8083,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 100558,
-      "num": 100558,
-      "word": "丁程鑫请问路在哪儿",
-      "onboard_time": 1738664544,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 100542,
       "num": 100542,
       "word": "GOT7演唱会",
@@ -8201,14 +8241,6 @@
       "onboard_time": 1738488860,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 96332,
-      "num": 559426,
-      "word": "这一幕就是传承的具象化吧",
-      "onboard_time": 1738662203,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95894,
@@ -8460,7 +8492,7 @@
     },
     {
       "raw_hot": 87230,
-      "num": 87230,
+      "num": 201525,
       "word": "川A大军返程路况直播",
       "onboard_time": 1738661604,
       "rank": 48,
@@ -9099,14 +9131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 60116,
-      "num": 255947,
-      "word": "哪吒彩蛋",
-      "onboard_time": 1738464137,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 59727,
       "num": 147634,
       "word": "日本去年12月出现持续药品荒",
@@ -9121,6 +9145,14 @@
       "onboard_time": 1738601241,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58948,
+      "num": 201732,
+      "word": "陈鹤一直播",
+      "onboard_time": 1738665443,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 58802,
@@ -9459,6 +9491,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41618,
+      "num": 111628,
+      "word": "王曼昱说通过比赛去恢复",
+      "onboard_time": 1738662203,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 41516,
+      "num": 202894,
+      "word": "梁洁哭戏导演喊停仍未出戏",
+      "onboard_time": 1738664962,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 41398,
       "num": 285677,
       "word": "央视记者探访费城坠机事故现场",
@@ -9745,14 +9793,6 @@
       "onboard_time": 1738522333,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 30199,
-      "num": 144664,
-      "word": "爸妈装的行李一提一个不吱声",
-      "onboard_time": 1738664424,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 29678,
@@ -10267,6 +10307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 8719,
+      "num": 197745,
+      "word": "台湾民众抢打流感疫苗",
+      "onboard_time": 1738665563,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 8498,
       "num": 31509,
       "word": "蛟龙行动真心局",
@@ -10318,6 +10366,9 @@
     },
     {
       "word": "#总书记那些点睛用典#"
+    },
+    {
+      "word": "#让战士们都吃好#"
     }
   ]
 }

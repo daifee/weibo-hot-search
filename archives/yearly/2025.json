@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738664629253,
+  "endTime": 1738665660153,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -2139,6 +2139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1990747,
+      "num": 207789,
+      "word": "败血症",
+      "onboard_time": 1738664364,
+      "rank": 26,
+      "category": "健康医疗,艺人"
+    },
+    {
       "raw_hot": 1990564,
       "num": 1990564,
       "word": "李冰冰赵丽颖手牵手",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1737339677,
       "rank": 3,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1890063,
-      "num": 1890063,
-      "word": "98年民警抓患艾滋嫌犯受伤流血",
-      "onboard_time": 1736246782,
-      "rank": 3,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
