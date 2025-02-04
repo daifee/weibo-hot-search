@@ -1,6 +1,6 @@
 {
   "startTime": 1738600055579,
-  "endTime": 1738679973533,
+  "endTime": 1738682658298,
   "band_list": [
     {
       "raw_hot": 6995860,
@@ -115,6 +115,14 @@
       "category": "健康医疗,艺人"
     },
     {
+      "raw_hot": 1825522,
+      "num": 1825522,
+      "word": "射雕票房逆跌",
+      "onboard_time": 1738679905,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1804377,
       "num": 888302,
       "word": "在日医生谈大S为何没被收住院",
@@ -161,6 +169,14 @@
       "onboard_time": 1738636404,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1362719,
+      "num": 1362719,
+      "word": "姐弟仨凌晨返程父亲陪他们坐了一夜",
+      "onboard_time": 1738679664,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1292020,
@@ -307,6 +323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 730934,
+      "num": 346177,
+      "word": "观众称看射雕如坐针毡",
+      "onboard_time": 1738679664,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 710784,
       "num": 710784,
       "word": "史上第一个被按斤卖掉的男主",
@@ -401,6 +425,14 @@
       "onboard_time": 1738675524,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 565821,
+      "num": 324849,
+      "word": "哪吒之魔童闹海总票房破48亿",
+      "onboard_time": 1738679664,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 561430,
@@ -499,6 +531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 485325,
+      "num": 230151,
+      "word": "谢娜的教育方式与众不同",
+      "onboard_time": 1738681706,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 484380,
       "num": 367937,
       "word": "朴灿烈想看陈哲远偷偷藏不住",
@@ -555,7 +595,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 422452,
+      "raw_hot": 431234,
       "num": 422452,
       "word": "龙族永不哭泣",
       "onboard_time": 1738677264,
@@ -675,14 +715,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 346177,
-      "num": 346177,
-      "word": "观众称看射雕如坐针毡",
-      "onboard_time": 1738679664,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 345963,
       "num": 345963,
       "word": "光遇复刻",
@@ -713,6 +745,14 @@
       "onboard_time": 1738634123,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 330109,
+      "num": 306441,
+      "word": "票房",
+      "onboard_time": 1738592071,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 324681,
@@ -843,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250119,
+      "num": 250119,
+      "word": "已经到不爱吃零食的地步了",
+      "onboard_time": 1738675104,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 250080,
       "num": 250080,
       "word": "山西商户拒开灯执法队强行撬锁进店",
@@ -939,6 +987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 231810,
+      "num": 231810,
+      "word": "今晚记得打开闹钟",
+      "onboard_time": 1738679724,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 231584,
       "num": 231584,
       "word": "考古对象成了我对象",
@@ -985,14 +1041,6 @@
       "onboard_time": 1738646123,
       "rank": 19,
       "category": "互联网,国际时政"
-    },
-    {
-      "raw_hot": 227656,
-      "num": 250766,
-      "word": "姐弟仨凌晨返程父亲陪他们坐了一夜",
-      "onboard_time": 1738679664,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 227403,
@@ -1107,6 +1155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208381,
+      "num": 199173,
+      "word": "猫眼预测",
+      "onboard_time": 1738681885,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 208225,
       "num": 208225,
       "word": "白宇魏大勋同游三亚",
@@ -1187,14 +1243,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 196384,
-      "num": 196384,
-      "word": "射雕票房逆跌",
-      "onboard_time": 1738679905,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 196089,
       "num": 196089,
       "word": "丁程鑫请问路在哪儿",
@@ -1225,6 +1273,14 @@
       "onboard_time": 1738675045,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192176,
+      "num": 192176,
+      "word": "乔丹儿子被捕",
+      "onboard_time": 1738680685,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 191449,
@@ -1265,14 +1321,6 @@
       "onboard_time": 1738595069,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 186982,
-      "num": 186982,
-      "word": "已经到不爱吃零食的地步了",
-      "onboard_time": 1738675104,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 184912,
@@ -1363,6 +1411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177102,
+      "num": 177102,
+      "word": "射雕",
+      "onboard_time": 1738681346,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 176779,
       "num": 176779,
       "word": "怎么明天就要开工了",
@@ -1377,6 +1433,14 @@
       "onboard_time": 1738646243,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 176376,
+      "num": 176376,
+      "word": "王者荣耀",
+      "onboard_time": 1738682065,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 174531,
@@ -1475,14 +1539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168019,
-      "num": 168019,
-      "word": "哪吒之魔童闹海总票房破48亿",
-      "onboard_time": 1738679664,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
       "raw_hot": 167050,
       "num": 167050,
       "word": "和沈月演的何家丽狠狠共情了",
@@ -1569,6 +1625,14 @@
       "onboard_time": 1738675283,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 159110,
+      "num": 159110,
+      "word": "梁洁新剧创伤后应激障碍",
+      "onboard_time": 1738680745,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 159006,
@@ -1755,14 +1819,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 144915,
-      "num": 144915,
-      "word": "今晚记得打开闹钟",
-      "onboard_time": 1738679724,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 144289,
       "num": 306788,
       "word": "春节档六部电影豆瓣开分",
@@ -1939,6 +1995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129372,
+      "num": 129372,
+      "word": "沈月高至霆新剧又双叒BE",
+      "onboard_time": 1738680206,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129008,
       "num": 129008,
       "word": "中国代表问美国还想禁多少中国智造",
@@ -1955,14 +2019,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 125228,
-      "num": 306441,
-      "word": "票房",
-      "onboard_time": 1738592071,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 124433,
       "num": 124433,
       "word": "王安宇打戏",
@@ -1972,7 +2028,7 @@
     },
     {
       "raw_hot": 124186,
-      "num": 124186,
+      "num": 200590,
       "word": "后备箱不能开一开东西全掉了",
       "onboard_time": 1738679787,
       "rank": 48,
@@ -2235,6 +2291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103890,
+      "num": 126655,
+      "word": "杨颖民国新娘单手持枪反差感",
+      "onboard_time": 1738681524,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103640,
       "num": 103640,
       "word": "chiikawa小八变声了",
@@ -2257,6 +2321,14 @@
       "onboard_time": 1738670065,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102243,
+      "num": 126604,
+      "word": "接王长田事业运",
+      "onboard_time": 1738682605,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 101547,
@@ -2307,6 +2379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 99146,
+      "num": 126412,
+      "word": "女生羽绒服破洞地铁下起鹅绒雪",
+      "onboard_time": 1738680924,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98942,
       "num": 98942,
       "word": "多平台宣布上线DeepSeek大模型",
@@ -2320,6 +2400,14 @@
       "word": "梁洁跳舞把我笑成蛇精病了",
       "onboard_time": 1738654224,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 97071,
+      "num": 126373,
+      "word": "五福临门",
+      "onboard_time": 1738652123,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -2393,14 +2481,6 @@
       "onboard_time": 1738641921,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 91283,
-      "num": 91283,
-      "word": "五福临门",
-      "onboard_time": 1738652123,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 89110,
@@ -2516,7 +2596,7 @@
     },
     {
       "raw_hot": 83303,
-      "num": 784315,
+      "num": 860191,
       "word": "春节假期兴起入境定制游",
       "onboard_time": 1738675764,
       "rank": 2,
