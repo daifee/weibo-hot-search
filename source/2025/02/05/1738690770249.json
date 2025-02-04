@@ -1,0 +1,410 @@
+{
+  "runTime": 1738690770249,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 833955,
+        "num": 833955,
+        "word": "哪吒2票房超50亿",
+        "onboard_time": 1738684643,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 234081,
+        "num": 234081,
+        "word": "姐弟仨凌晨返程父亲陪他们坐了一夜",
+        "onboard_time": 1738679664,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23011,
+        "num": 228355,
+        "word": "春节假期兴起入境定制游",
+        "onboard_time": 1738675764,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297976,
+        "num": 223042,
+        "word": "柯淳 好一个乖乖女",
+        "onboard_time": 1738684643,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169269,
+        "num": 218704,
+        "word": "总台专访霍震霆",
+        "onboard_time": 1738688838,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122948,
+        "num": 212678,
+        "word": "返工人把高铁吃成流水席了",
+        "onboard_time": 1738671864,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278555,
+        "num": 208316,
+        "word": "射雕票房逆跌",
+        "onboard_time": 1738679905,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203971,
+        "num": 203971,
+        "word": "王长田还是保守了",
+        "onboard_time": 1738687160,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 94427,
+        "num": 203385,
+        "word": "真心建议要和积极乐观的人在一起",
+        "onboard_time": 1738675283,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17750,
+        "num": 202241,
+        "word": "高铁才是真正的中国米其林三星吧",
+        "onboard_time": 1738690037,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 501964,
+        "num": 201706,
+        "word": "司机视角的大S",
+        "onboard_time": 1738676185,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172504,
+        "num": 200281,
+        "word": "乌尔善被贴脸开大",
+        "onboard_time": 1738675644,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 346930,
+        "num": 198943,
+        "word": "汪小菲现任妻子mandy发声",
+        "onboard_time": 1738670305,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93054,
+        "num": 198175,
+        "word": "今晚记得打开闹钟",
+        "onboard_time": 1738679724,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164544,
+        "num": 196376,
+        "word": "球球爸",
+        "onboard_time": 1738684404,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116611,
+        "num": 195622,
+        "word": "唐人街探案祝贺哪吒",
+        "onboard_time": 1738676063,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134750,
+        "num": 194887,
+        "word": "哪吒2",
+        "onboard_time": 1738648402,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 93529,
+        "num": 193828,
+        "word": "美对华加征关税是找错了对象打错了算盘",
+        "onboard_time": 1738684705,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85280,
+        "num": 192505,
+        "word": "微信新增仅提醒朋友与我的互动",
+        "onboard_time": 1738671385,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 81728,
+        "num": 191648,
+        "word": "蛇年开工首日",
+        "onboard_time": 1738685602,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190882,
+        "num": 190882,
+        "word": "哪类人群易患败血症",
+        "onboard_time": 1738688237,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 112787,
+        "num": 190796,
+        "word": "血氧浓度低于90%很危险",
+        "onboard_time": 1738684343,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 75674,
+        "num": 190748,
+        "word": "哪吒2哪吒1贴贴",
+        "onboard_time": 1738666885,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 71721,
+        "num": 190566,
+        "word": "程潇春樱",
+        "onboard_time": 1738685124,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70267,
+        "num": 190510,
+        "word": "洗头发干净又油得慢的小方法",
+        "onboard_time": 1738668204,
+        "rank": 24,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 67971,
+        "num": 190422,
+        "word": "接王长田事业运",
+        "onboard_time": 1738682605,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 64768,
+        "num": 190256,
+        "word": "猫眼预测",
+        "onboard_time": 1738681885,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 61612,
+        "num": 190195,
+        "word": "这两人亲嘴能把对方毒死",
+        "onboard_time": 1738671505,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59863,
+        "num": 190111,
+        "word": "票房",
+        "onboard_time": 1738679905,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 59850,
+        "num": 189925,
+        "word": "舌尖4西湖醋鱼让司机师傅沉默了",
+        "onboard_time": 1738671085,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123971,
+        "num": 189798,
+        "word": "观众称看射雕如坐针毡",
+        "onboard_time": 1738679664,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 59015,
+        "num": 189740,
+        "word": "谢娜的教育方式与众不同",
+        "onboard_time": 1738681706,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55488,
+        "num": 189608,
+        "word": "金智秀柳智敏一起吃饭",
+        "onboard_time": 1738676843,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54290,
+        "num": 189525,
+        "word": "龙族永不哭泣",
+        "onboard_time": 1738677264,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 53178,
+        "num": 189448,
+        "word": "泰国将对泰缅边境的缅甸地区断电",
+        "onboard_time": 1738660286,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 53424,
+        "num": 189268,
+        "word": "曝痞幼新恋情",
+        "onboard_time": 1738647622,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 52513,
+        "num": 189143,
+        "word": "杨颖民国新娘单手持枪反差感",
+        "onboard_time": 1738681524,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50793,
+        "num": 189036,
+        "word": "特朗普马斯克或确定下个打击目标",
+        "onboard_time": 1738683624,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 47334,
+        "num": 188928,
+        "word": "原来长辈买衣服不是随便摸摸",
+        "onboard_time": 1738676545,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 44522,
+        "num": 188877,
+        "word": "美撞机事故2人因泄露视频被捕",
+        "onboard_time": 1738681585,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 46244,
+        "num": 188731,
+        "word": "杨幂说电影和银幕是值得敬畏的",
+        "onboard_time": 1738678585,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 45693,
+        "num": 188704,
+        "word": "逆跌",
+        "onboard_time": 1738677025,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 45158,
+        "num": 188564,
+        "word": "影史票房前5有两个哪吒",
+        "onboard_time": 1738670544,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41603,
+        "num": 188430,
+        "word": "杨颖王安宇民国造型",
+        "onboard_time": 1738672884,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38586,
+        "num": 188352,
+        "word": "已经到不爱吃零食的地步了",
+        "onboard_time": 1738675104,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37194,
+        "num": 188208,
+        "word": "新年开工BGM",
+        "onboard_time": 1738676305,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36191,
+        "num": 188102,
+        "word": "射雕",
+        "onboard_time": 1738681346,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 35260,
+        "num": 187985,
+        "word": "乔丹儿子被捕",
+        "onboard_time": 1738680685,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34435,
+        "num": 187915,
+        "word": "梁洁新剧创伤后应激障碍",
+        "onboard_time": 1738680745,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33049,
+        "num": 187728,
+        "word": "蛇年开工第1天",
+        "onboard_time": 1738689257,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记那些点睛用典#"
+    }
+  }
+}
