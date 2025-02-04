@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738686513636,
+  "endTime": 1738687437598,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -491,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1475289,
+      "num": 1475289,
+      "word": "哪吒2票房超50亿",
+      "onboard_time": 1738684643,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1467106,
       "num": 1303580,
       "word": "阿雅 一路走好最美的大王",
@@ -657,14 +665,6 @@
       "onboard_time": 1738507459,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1165255,
-      "num": 1165255,
-      "word": "哪吒2票房超50亿",
-      "onboard_time": 1738684643,
-      "rank": 0,
-      "category": "电影"
     },
     {
       "raw_hot": 1160918,
@@ -4299,6 +4299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 217689,
+      "num": 217689,
+      "word": "柯淳 好一个乖乖女",
+      "onboard_time": 1738684643,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217356,
       "num": 165572,
       "word": "饺子",
@@ -4696,14 +4704,6 @@
       "word": "陈哲远 阿瓒我爱你",
       "onboard_time": 1738391178,
       "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 200960,
-      "num": 200960,
-      "word": "柯淳 好一个乖乖女",
-      "onboard_time": 1738684643,
-      "rank": 17,
       "category": "剧集"
     },
     {
@@ -5403,6 +5403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183041,
+      "num": 183041,
+      "word": "球球爸",
+      "onboard_time": 1738684404,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 182929,
       "num": 165719,
       "word": "乌尔善",
@@ -5889,14 +5897,6 @@
       "onboard_time": 1738575448,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168697,
-      "num": 168697,
-      "word": "球球爸",
-      "onboard_time": 1738684404,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 168085,
@@ -6780,7 +6780,7 @@
     },
     {
       "raw_hot": 146182,
-      "num": 142354,
+      "num": 157401,
       "word": "杨颖民国新娘单手持枪反差感",
       "onboard_time": 1738681524,
       "rank": 43,
@@ -7009,6 +7009,14 @@
       "onboard_time": 1738645104,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 142273,
+      "num": 295807,
+      "word": "蛇年开工首日",
+      "onboard_time": 1738685602,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142029,
@@ -7252,7 +7260,7 @@
     },
     {
       "raw_hot": 136411,
-      "num": 136411,
+      "num": 157591,
       "word": "接王长田事业运",
       "onboard_time": 1738682605,
       "rank": 44,
@@ -7401,14 +7409,6 @@
       "onboard_time": 1738499659,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 131495,
-      "num": 295807,
-      "word": "蛇年开工首日",
-      "onboard_time": 1738685602,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131013,
@@ -7956,7 +7956,7 @@
     },
     {
       "raw_hot": 119174,
-      "num": 119174,
+      "num": 157148,
       "word": "特朗普马斯克或确定下个打击目标",
       "onboard_time": 1738683624,
       "rank": 33,
@@ -8236,7 +8236,7 @@
     },
     {
       "raw_hot": 112340,
-      "num": 136817,
+      "num": 183313,
       "word": "美对华加征关税是找错了对象打错了算盘",
       "onboard_time": 1738684705,
       "rank": 27,
@@ -9036,7 +9036,7 @@
     },
     {
       "raw_hot": 94041,
-      "num": 94041,
+      "num": 156895,
       "word": "程潇春樱",
       "onboard_time": 1738685124,
       "rank": 36,
@@ -9443,6 +9443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82265,
+      "num": 156895,
+      "word": "王长田还是保守了",
+      "onboard_time": 1738687160,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 82016,
       "num": 202894,
       "word": "梁洁哭戏导演喊停仍未出戏",
@@ -9500,7 +9508,7 @@
     },
     {
       "raw_hot": 80130,
-      "num": 80130,
+      "num": 156448,
       "word": "导游陪20多位北欧游客挑战中国各地名山",
       "onboard_time": 1738682726,
       "rank": 47,
@@ -9595,6 +9603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77748,
+      "num": 246584,
+      "word": "新年开工BGM",
+      "onboard_time": 1738676305,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77400,
       "num": 118696,
       "word": "三巨头同日接入DeepSeek",
@@ -9665,14 +9681,6 @@
       "onboard_time": 1738415060,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 72890,
-      "num": 246584,
-      "word": "新年开工BGM",
-      "onboard_time": 1738676305,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 71935,
@@ -9865,6 +9873,14 @@
       "onboard_time": 1738351213,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 64102,
+      "num": 157503,
+      "word": "美撞机事故2人因泄露视频被捕",
+      "onboard_time": 1738681585,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 64030,
