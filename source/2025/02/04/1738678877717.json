@@ -1,0 +1,410 @@
+{
+  "runTime": 1738678877717,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2123966,
+        "num": 2123966,
+        "word": "逆跌",
+        "onboard_time": 1738677025,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 782368,
+        "num": 782368,
+        "word": "微信新增仅提醒朋友与我的互动",
+        "onboard_time": 1738671385,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 83303,
+        "num": 652400,
+        "word": "春节假期兴起入境定制游",
+        "onboard_time": 1738675764,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1292020,
+        "num": 651855,
+        "word": "乌尔善被贴脸开大",
+        "onboard_time": 1738675644,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 644005,
+        "num": 644005,
+        "word": "返工人把高铁吃成流水席了",
+        "onboard_time": 1738671864,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44983,
+        "num": 566179,
+        "word": "中国队亚冬会开门红",
+        "onboard_time": 1738676185,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 859730,
+        "num": 566148,
+        "word": "唐人街探案祝贺哪吒",
+        "onboard_time": 1738676063,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 566104,
+        "num": 566104,
+        "word": "豆瓣崩了",
+        "onboard_time": 1738675524,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 539654,
+        "num": 539654,
+        "word": "哪吒2哪吒1贴贴",
+        "onboard_time": 1738666885,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40179,
+        "num": 537209,
+        "word": "这一幕就是传承的具象化吧",
+        "onboard_time": 1738662203,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3970238,
+        "num": 535154,
+        "word": "司机视角的大S",
+        "onboard_time": 1738676185,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 622755,
+        "num": 530817,
+        "word": "金智秀柳智敏一起吃饭",
+        "onboard_time": 1738676843,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2028683,
+        "num": 529261,
+        "word": "汪小菲现任妻子mandy发声",
+        "onboard_time": 1738670305,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 527132,
+        "num": 527132,
+        "word": "原来长辈买衣服不是随便摸摸",
+        "onboard_time": 1738676545,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 44574,
+        "num": 496167,
+        "word": "国产电影的贺图交接仪式",
+        "onboard_time": 1738677864,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 493114,
+        "num": 493114,
+        "word": "哪吒2",
+        "onboard_time": 1738648402,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 389874,
+        "num": 389874,
+        "word": "拜登与知名艺人经纪公司签约",
+        "onboard_time": 1738675283,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 299057,
+        "num": 299057,
+        "word": "龙族永不哭泣",
+        "onboard_time": 1738677264,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 295667,
+        "num": 295667,
+        "word": "独居女生套内41平米的家",
+        "onboard_time": 1738672283,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211023,
+        "num": 291895,
+        "word": "王楚钦vs冯耀恩",
+        "onboard_time": 1738673785,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 317267,
+        "num": 291784,
+        "word": "洗头发干净又油得慢的小方法",
+        "onboard_time": 1738668204,
+        "rank": 20,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 291614,
+        "num": 291614,
+        "word": "舌尖4西湖醋鱼让司机师傅沉默了",
+        "onboard_time": 1738671085,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273648,
+        "num": 273648,
+        "word": "杨颖王安宇民国造型",
+        "onboard_time": 1738672884,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272946,
+        "num": 272946,
+        "word": "这两人亲嘴能把对方毒死",
+        "onboard_time": 1738671505,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245953,
+        "num": 245953,
+        "word": "泰国将对泰缅边境的缅甸地区断电",
+        "onboard_time": 1738660286,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 234355,
+        "num": 234355,
+        "word": "真心建议要和积极乐观的人在一起",
+        "onboard_time": 1738675283,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205368,
+        "num": 205368,
+        "word": "敖光 daddy",
+        "onboard_time": 1738663163,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202064,
+        "num": 202064,
+        "word": "王楚钦说比赛前打算吃饭",
+        "onboard_time": 1738677985,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192321,
+        "num": 192321,
+        "word": "曝痞幼新恋情",
+        "onboard_time": 1738647622,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 154821,
+        "num": 185895,
+        "word": "爸爸带娃放窜天猴烧坏路人始祖鸟",
+        "onboard_time": 1738669765,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182369,
+        "num": 182369,
+        "word": "神奇四侠",
+        "onboard_time": 1738677925,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182250,
+        "num": 182250,
+        "word": "影史票房前5有两个哪吒",
+        "onboard_time": 1738670544,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167050,
+        "num": 167050,
+        "word": "和沈月演的何家丽狠狠共情了",
+        "onboard_time": 1738678225,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153362,
+        "num": 153362,
+        "word": "已经到不爱吃零食的地步了",
+        "onboard_time": 1738675104,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152308,
+        "num": 152308,
+        "word": "WTT",
+        "onboard_time": 1738678164,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149176,
+        "num": 149176,
+        "word": "敖丙小果冻",
+        "onboard_time": 1738673364,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146917,
+        "num": 146917,
+        "word": "满江红祝贺哪吒",
+        "onboard_time": 1738655005,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146465,
+        "num": 146465,
+        "word": "有一种爱叫爸爸怕你赶不上高铁",
+        "onboard_time": 1738675283,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145243,
+        "num": 145243,
+        "word": "李瓒记忆缺失",
+        "onboard_time": 1738674024,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122781,
+        "num": 140321,
+        "word": "wtt新加坡大满贯2025",
+        "onboard_time": 1738678164,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138905,
+        "num": 138905,
+        "word": "美媒称特朗普下一个目标是解散教育部",
+        "onboard_time": 1738676966,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133769,
+        "num": 133769,
+        "word": "封神2",
+        "onboard_time": 1738676366,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129855,
+        "num": 129855,
+        "word": "休2上4休1",
+        "onboard_time": 1738637423,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129406,
+        "num": 129406,
+        "word": "杨幂说电影和银幕是值得敬畏的",
+        "onboard_time": 1738678585,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114554,
+        "num": 114554,
+        "word": "普通人千万不要提前焦虑",
+        "onboard_time": 1738665863,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114037,
+        "num": 114037,
+        "word": "女子套圈300个一碰东西就反弹",
+        "onboard_time": 1738657462,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110995,
+        "num": 110995,
+        "word": "合上行李箱又是一年",
+        "onboard_time": 1738666825,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104183,
+        "num": 104183,
+        "word": "心疼李瓒",
+        "onboard_time": 1738678765,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101200,
+        "num": 101200,
+        "word": "黄友政2比3弗朗西斯卡",
+        "onboard_time": 1738675283,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101020,
+        "num": 101020,
+        "word": "哈尔滨把公路做成了留声机",
+        "onboard_time": 1738675345,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记那些点睛用典#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1738600055579,
-  "endTime": 1738676319314,
+  "endTime": 1738678877717,
   "band_list": [
     {
       "raw_hot": 6995860,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 4648844,
-      "num": 354509,
+      "num": 535154,
       "word": "司机视角的大S",
       "onboard_time": 1738676185,
       "rank": 10,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 3385913,
-      "num": 361919,
+      "num": 529261,
       "word": "汪小菲现任妻子mandy发声",
       "onboard_time": 1738670305,
       "rank": 10,
@@ -65,6 +65,14 @@
       "onboard_time": 1738629080,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2123966,
+      "num": 2123966,
+      "word": "逆跌",
+      "onboard_time": 1738677025,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 2092396,
@@ -153,6 +161,14 @@
       "onboard_time": 1738636404,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1292020,
+      "num": 651855,
+      "word": "乌尔善被贴脸开大",
+      "onboard_time": 1738675644,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 1260770,
@@ -251,6 +267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 859730,
+      "num": 566148,
+      "word": "唐人街探案祝贺哪吒",
+      "onboard_time": 1738676063,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 798371,
       "num": 377016,
       "word": "小S两个女儿回台",
@@ -339,6 +363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 622755,
+      "num": 530817,
+      "word": "金智秀柳智敏一起吃饭",
+      "onboard_time": 1738676843,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 602776,
       "num": 367438,
       "word": "中国影史总榜哪吒2居8望7",
@@ -353,6 +385,14 @@
       "onboard_time": 1738637483,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 566104,
+      "num": 566104,
+      "word": "豆瓣崩了",
+      "onboard_time": 1738675524,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 561430,
@@ -401,6 +441,14 @@
       "onboard_time": 1738671085,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 527132,
+      "num": 527132,
+      "word": "原来长辈买衣服不是随便摸摸",
+      "onboard_time": 1738676545,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 520846,
@@ -492,7 +540,7 @@
     },
     {
       "raw_hot": 442134,
-      "num": 274265,
+      "num": 291784,
       "word": "洗头发干净又油得慢的小方法",
       "onboard_time": 1738668204,
       "rank": 20,
@@ -571,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 389874,
+      "num": 389874,
+      "word": "拜登与知名艺人经纪公司签约",
+      "onboard_time": 1738675283,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 371499,
       "num": 330960,
       "word": "亲友找不到具俊晔",
@@ -643,14 +699,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 325200,
-      "num": 325200,
-      "word": "乌尔善被贴脸开大",
-      "onboard_time": 1738675644,
-      "rank": 11,
-      "category": "电影"
-    },
-    {
       "raw_hot": 324681,
       "num": 309201,
       "word": "泽连斯基称不知道美国给的钱去了哪里",
@@ -715,6 +763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 299057,
+      "num": 299057,
+      "word": "龙族永不哭泣",
+      "onboard_time": 1738677264,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 298969,
       "num": 405632,
       "word": "中方在世贸组织起诉美加征关税措施",
@@ -769,14 +825,6 @@
       "onboard_time": 1738659924,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 260308,
-      "num": 305019,
-      "word": "拜登与知名艺人经纪公司签约",
-      "onboard_time": 1738675283,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 254854,
@@ -857,6 +905,14 @@
       "onboard_time": 1738667663,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 234355,
+      "num": 234355,
+      "word": "真心建议要和积极乐观的人在一起",
+      "onboard_time": 1738675283,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 231584,
@@ -979,14 +1035,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 216642,
-      "num": 216642,
-      "word": "真心建议要和积极乐观的人在一起",
-      "onboard_time": 1738675283,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 215882,
       "num": 215882,
       "word": "敖丙小果冻",
@@ -1057,6 +1105,14 @@
       "onboard_time": 1738662683,
       "rank": 31,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 202064,
+      "num": 202064,
+      "word": "王楚钦说比赛前打算吃饭",
+      "onboard_time": 1738677985,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 201901,
@@ -1192,6 +1248,14 @@
       "word": "陈思诚从去一座城到造一座城",
       "onboard_time": 1738645822,
       "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 182369,
+      "num": 182369,
+      "word": "神奇四侠",
+      "onboard_time": 1738677925,
+      "rank": 30,
       "category": "电影"
     },
     {
@@ -1355,6 +1419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167050,
+      "num": 167050,
+      "word": "和沈月演的何家丽狠狠共情了",
+      "onboard_time": 1738678225,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167036,
       "num": 165172,
       "word": "李艾肠胃炎",
@@ -1393,14 +1465,6 @@
       "onboard_time": 1738626978,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 165073,
-      "num": 165073,
-      "word": "唐人街探案祝贺哪吒",
-      "onboard_time": 1738676063,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 164982,
@@ -1499,6 +1563,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153362,
+      "num": 153362,
+      "word": "已经到不爱吃零食的地步了",
+      "onboard_time": 1738675104,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 152308,
+      "num": 152308,
+      "word": "WTT",
+      "onboard_time": 1738678164,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152267,
       "num": 152267,
       "word": "教育孩子最好的方式就是夫妻聊天",
@@ -1563,14 +1643,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 148067,
-      "num": 148067,
-      "word": "豆瓣崩了",
-      "onboard_time": 1738675524,
-      "rank": 48,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 147320,
       "num": 147320,
       "word": "陈哲远梁洁新剧爱人错过",
@@ -1593,6 +1665,14 @@
       "onboard_time": 1738661963,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146465,
+      "num": 146465,
+      "word": "有一种爱叫爸爸怕你赶不上高铁",
+      "onboard_time": 1738675283,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 146218,
@@ -1683,14 +1763,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 141164,
-      "num": 141164,
-      "word": "有一种爱叫爸爸怕你赶不上高铁",
-      "onboard_time": 1738675283,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 140369,
       "num": 155886,
       "word": "高至霆新剧唯一的黑月光",
@@ -1721,6 +1793,14 @@
       "onboard_time": 1738590269,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138905,
+      "num": 138905,
+      "word": "美媒称特朗普下一个目标是解散教育部",
+      "onboard_time": 1738676966,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 138760,
@@ -1771,6 +1851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 133769,
+      "num": 133769,
+      "word": "封神2",
+      "onboard_time": 1738676366,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 130736,
       "num": 130736,
       "word": "漫影寻踪今日开播",
@@ -1785,6 +1873,14 @@
       "onboard_time": 1738637363,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129406,
+      "num": 129406,
+      "word": "杨幂说电影和银幕是值得敬畏的",
+      "onboard_time": 1738678585,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 129008,
@@ -1827,20 +1923,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 122781,
+      "num": 140321,
+      "word": "wtt新加坡大满贯2025",
+      "onboard_time": 1738678164,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122604,
       "num": 173830,
       "word": "日本多地药店已无感冒药库存",
       "onboard_time": 1738648223,
       "rank": 36,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 119377,
-      "num": 119377,
-      "word": "已经到不爱吃零食的地步了",
-      "onboard_time": 1738675104,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 118874,
@@ -2067,6 +2163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104183,
+      "num": 104183,
+      "word": "心疼李瓒",
+      "onboard_time": 1738678765,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104079,
       "num": 455108,
       "word": "春节剩菜能吃几天",
@@ -2112,6 +2216,14 @@
       "word": "本周六要上班",
       "onboard_time": 1738640303,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101020,
+      "num": 264415,
+      "word": "哈尔滨把公路做成了留声机",
+      "onboard_time": 1738675345,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -2267,14 +2379,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 86509,
-      "num": 264415,
-      "word": "哈尔滨把公路做成了留声机",
-      "onboard_time": 1738675345,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85997,
       "num": 85997,
       "word": "王楚钦对阵冯耀恩",
@@ -2353,6 +2457,14 @@
       "onboard_time": 1738637722,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 83303,
+      "num": 784315,
+      "word": "春节假期兴起入境定制游",
+      "onboard_time": 1738675764,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83053,
@@ -2579,12 +2691,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44983,
+      "num": 566179,
+      "word": "中国队亚冬会开门红",
+      "onboard_time": 1738676185,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44652,
       "num": 263958,
       "word": "车头是生活车尾是故乡",
       "onboard_time": 1738602559,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44574,
+      "num": 496167,
+      "word": "国产电影的贺图交接仪式",
+      "onboard_time": 1738677864,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 43550,
@@ -2715,14 +2843,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 23503,
-      "num": 784315,
-      "word": "春节假期兴起入境定制游",
-      "onboard_time": 1738675764,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23096,
       "num": 113178,
       "word": "立春",
@@ -2744,14 +2864,6 @@
       "word": "侯英超说和孙颖莎打我也一局赢不了",
       "onboard_time": 1738602201,
       "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 13450,
-      "num": 167725,
-      "word": "中国队亚冬会开门红",
-      "onboard_time": 1738676185,
-      "rank": 32,
       "category": "体育"
     },
     {
