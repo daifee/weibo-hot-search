@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738637891987,
+  "endTime": 1738639504437,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -412,7 +412,7 @@
     },
     {
       "raw_hot": 1388485,
-      "num": 259080,
+      "num": 649425,
       "word": "吴佩慈受访时泣不成声",
       "onboard_time": 1738636404,
       "rank": 14,
@@ -473,6 +473,14 @@
       "onboard_time": 1738630461,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1199443,
+      "num": 1199443,
+      "word": "休2上4休1",
+      "onboard_time": 1738637423,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1178033,
@@ -1179,6 +1187,14 @@
       "category": "国际时政,国内时政"
     },
     {
+      "raw_hot": 640574,
+      "num": 640574,
+      "word": "饺子导演 你别累着但也别闲着",
+      "onboard_time": 1738635204,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 637372,
       "num": 637372,
       "word": "孙颖莎王楚钦王曼昱等集体发声",
@@ -1577,14 +1593,6 @@
       "onboard_time": 1738588048,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 492685,
-      "num": 492685,
-      "word": "饺子导演 你别累着但也别闲着",
-      "onboard_time": 1738635204,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 492024,
@@ -2196,7 +2204,7 @@
     },
     {
       "raw_hot": 360762,
-      "num": 303471,
+      "num": 310084,
       "word": "哪吒之魔童闹海票房破42亿",
       "onboard_time": 1738630221,
       "rank": 21,
@@ -2507,6 +2515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 322592,
+      "num": 322592,
+      "word": "最后一天假期怎么过",
+      "onboard_time": 1738634123,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 322240,
       "num": 149635,
       "word": "敖丙传",
@@ -2801,14 +2817,6 @@
       "onboard_time": 1738588769,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 278371,
-      "num": 278371,
-      "word": "最后一天假期怎么过",
-      "onboard_time": 1738634123,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 278035,
@@ -3443,14 +3451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 223941,
-      "num": 223941,
-      "word": "休2上4休1",
-      "onboard_time": 1738637423,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 223523,
       "num": 223523,
       "word": "肖战现场回应愤怒的脏脏包",
@@ -3609,6 +3609,14 @@
       "onboard_time": 1738420699,
       "rank": 19,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 211300,
+      "num": 211300,
+      "word": "王楚钦说低潮期一度崩溃",
+      "onboard_time": 1738636283,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 210961,
@@ -4129,6 +4137,14 @@
       "onboard_time": 1738631001,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 191075,
+      "num": 191075,
+      "word": "看完唐探1900感觉自己白看了",
+      "onboard_time": 1738638385,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 190548,
@@ -5020,7 +5036,7 @@
     },
     {
       "raw_hot": 161636,
-      "num": 161636,
+      "num": 195102,
       "word": "多地返程遇雨雪",
       "onboard_time": 1738635083,
       "rank": 27,
@@ -5540,7 +5556,7 @@
     },
     {
       "raw_hot": 145642,
-      "num": 145642,
+      "num": 147066,
       "word": "直播春运返程高峰",
       "onboard_time": 1738636163,
       "rank": 30,
@@ -5827,6 +5843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138760,
+      "num": 302770,
+      "word": "流感的严重性被很多人低估了",
+      "onboard_time": 1738636645,
+      "rank": 9,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 138633,
       "num": 138633,
       "word": "唐探给我语言系统干崩溃了",
@@ -5929,6 +5953,14 @@
       "onboard_time": 1738394656,
       "rank": 47,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 133703,
+      "num": 197537,
+      "word": "网友少林寺偶遇曾黎",
+      "onboard_time": 1738638323,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 133222,
@@ -6097,14 +6129,6 @@
       "onboard_time": 1738386496,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 128223,
-      "num": 128223,
-      "word": "王楚钦说低潮期一度崩溃",
-      "onboard_time": 1738636283,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 128091,
@@ -6715,6 +6739,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 111790,
+      "num": 192532,
+      "word": "C罗认为自己是历史最佳",
+      "onboard_time": 1738637363,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111779,
       "num": 111779,
       "word": "拉文加盟国王",
@@ -6985,14 +7017,6 @@
       "onboard_time": 1738375096,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105579,
-      "num": 302770,
-      "word": "流感的严重性被很多人低估了",
-      "onboard_time": 1738636645,
-      "rank": 9,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 105172,
@@ -7499,6 +7523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85997,
+      "num": 85997,
+      "word": "王楚钦对阵冯耀恩",
+      "onboard_time": 1738639102,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85705,
       "num": 85705,
       "word": "刘耀文答上了宋亚轩的抽象题",
@@ -7511,14 +7543,6 @@
       "num": 85423,
       "word": "詹姆斯史上最老周最佳",
       "onboard_time": 1738637123,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 85396,
-      "num": 85396,
-      "word": "C罗认为自己是历史最佳",
-      "onboard_time": 1738637363,
       "rank": 46,
       "category": "体育"
     },
@@ -7633,6 +7657,22 @@
       "onboard_time": 1738581209,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80972,
+      "num": 80972,
+      "word": "美加同意暂缓30天实施加征关税措施",
+      "onboard_time": 1738639043,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 80526,
+      "num": 80526,
+      "word": "DeepSeek为何会引起美国AI巨头焦虑",
+      "onboard_time": 1738639403,
+      "rank": 48,
+      "category": "互联网,国际时政"
     },
     {
       "raw_hot": 80474,
@@ -9121,6 +9161,14 @@
       "onboard_time": 1738355411,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 5587,
+      "num": 653752,
+      "word": "用非遗剪纸打开春节年俗",
+      "onboard_time": 1738639462,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
