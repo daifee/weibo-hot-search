@@ -1,6 +1,6 @@
 {
   "startTime": 1738686513636,
-  "endTime": 1738707659688,
+  "endTime": 1738708707455,
   "band_list": [
     {
       "raw_hot": 1475289,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 313486,
-      "num": 368568,
+      "num": 469442,
       "word": "男子十几万元转错账对方称没钱还",
       "onboard_time": 1738691774,
       "rank": 1,
@@ -451,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73814,
+      "num": 57469,
+      "word": "为什么封神2口碑两极分化",
+      "onboard_time": 1738703171,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 64102,
       "num": 188877,
       "word": "美撞机事故2人因泄露视频被捕",
@@ -475,20 +483,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51140,
+      "num": 188928,
+      "word": "原来长辈买衣服不是随便摸摸",
+      "onboard_time": 1738676545,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 48284,
       "num": 131446,
       "word": "不委屈自己是爱自己的第一步",
       "onboard_time": 1738688716,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 47334,
-      "num": 188928,
-      "word": "原来长辈买衣服不是随便摸摸",
-      "onboard_time": 1738676545,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 46956,
@@ -505,14 +513,6 @@
       "onboard_time": 1738689257,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38424,
-      "num": 38424,
-      "word": "为什么封神2口碑两极分化",
-      "onboard_time": 1738703171,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 36685,
@@ -539,12 +539,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 19473,
-      "num": 26182,
+      "raw_hot": 25408,
+      "num": 34383,
+      "word": "节后上班不在状态怎么办",
+      "onboard_time": 1738704850,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 21724,
+      "num": 34221,
       "word": "特朗普称希望乌用稀土矿换援助",
       "onboard_time": 1738700532,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 21087,
+      "num": 34170,
+      "word": "春捂注意身体3个部位",
+      "onboard_time": 1738699391,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 18465,
@@ -553,22 +569,6 @@
       "onboard_time": 1738692434,
       "rank": 25,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 17833,
-      "num": 26165,
-      "word": "春捂注意身体3个部位",
-      "onboard_time": 1738699391,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 17833,
-      "num": 26167,
-      "word": "节后上班不在状态怎么办",
-      "onboard_time": 1738704850,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 15877,
@@ -580,7 +580,7 @@
     },
     {
       "raw_hot": 15320,
-      "num": 30806,
+      "num": 33945,
       "word": "北京多条地铁线延长运营至凌晨一两点",
       "onboard_time": 1738700051,
       "rank": 9,
@@ -593,6 +593,14 @@
       "onboard_time": 1738695611,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14845,
+      "num": 33994,
+      "word": "肖战郭靖闯荡江湖的故事碎片",
+      "onboard_time": 1738707852,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 14737,
@@ -612,7 +620,7 @@
     },
     {
       "raw_hot": 12502,
-      "num": 26124,
+      "num": 33839,
       "word": "看4D哪吒什么体验",
       "onboard_time": 1738695731,
       "rank": 42,
