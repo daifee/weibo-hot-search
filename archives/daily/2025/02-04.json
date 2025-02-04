@@ -1,6 +1,6 @@
 {
   "startTime": 1738600055579,
-  "endTime": 1738657713105,
+  "endTime": 1738658486541,
   "band_list": [
     {
       "raw_hot": 4314287,
@@ -195,20 +195,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 720281,
+      "num": 720281,
+      "word": "满江红祝贺哪吒",
+      "onboard_time": 1738655005,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 710784,
       "num": 710784,
       "word": "史上第一个被按斤卖掉的男主",
       "onboard_time": 1738641322,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 677816,
-      "num": 677816,
-      "word": "满江红祝贺哪吒",
-      "onboard_time": 1738655005,
-      "rank": 1,
-      "category": "电影"
     },
     {
       "raw_hot": 663443,
@@ -281,6 +281,14 @@
       "onboard_time": 1738651342,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 539533,
+      "num": 257504,
+      "word": "女子套圈300个一碰东西就反弹",
+      "onboard_time": 1738657462,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 518099,
@@ -379,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 375180,
+      "num": 295557,
+      "word": "哪吒2",
+      "onboard_time": 1738579768,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 371499,
       "num": 330960,
       "word": "亲友找不到具俊晔",
@@ -409,14 +425,6 @@
       "onboard_time": 1738594109,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 353095,
-      "num": 295557,
-      "word": "哪吒2",
-      "onboard_time": 1738579768,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 348544,
@@ -451,19 +459,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 336243,
-      "num": 257504,
-      "word": "女子套圈300个一碰东西就反弹",
-      "onboard_time": 1738657462,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 336122,
       "num": 336122,
       "word": "最后一天假期怎么过",
       "onboard_time": 1738634123,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 332629,
+      "num": 332629,
+      "word": "医生提醒重度干眼症可致失明",
+      "onboard_time": 1738655905,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -473,14 +481,6 @@
       "onboard_time": 1738629739,
       "rank": 11,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 321741,
-      "num": 321741,
-      "word": "医生提醒重度干眼症可致失明",
-      "onboard_time": 1738655905,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 313363,
@@ -691,20 +691,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 211122,
+      "num": 298733,
+      "word": "亲手制作是中国人的最高礼遇",
+      "onboard_time": 1738656744,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205599,
       "num": 205599,
       "word": "美加同意暂缓30天实施加征关税措施",
       "onboard_time": 1738639043,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 202192,
-      "num": 298733,
-      "word": "亲手制作是中国人的最高礼遇",
-      "onboard_time": 1738656744,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 201901,
@@ -1203,6 +1203,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 126164,
+      "num": 126164,
+      "word": "3人落水被机器人救起",
+      "onboard_time": 1738657104,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123859,
       "num": 306548,
       "word": "橄榄树开播3天梁洁涨粉40万",
@@ -1395,6 +1403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103640,
+      "num": 103640,
+      "word": "chiikawa小八变声了",
+      "onboard_time": 1738654885,
+      "rank": 40,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 102581,
       "num": 298952,
       "word": "陈垣宇0比3张禹珍",
@@ -1435,14 +1451,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 98971,
-      "num": 98971,
-      "word": "3人落水被机器人救起",
-      "onboard_time": 1738657104,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 98942,
       "num": 98942,
       "word": "多平台宣布上线DeepSeek大模型",
@@ -1451,12 +1459,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 97538,
+      "num": 97538,
+      "word": "王楚钦林诗栋男双对手产生",
+      "onboard_time": 1738656983,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97460,
       "num": 97460,
       "word": "梁洁跳舞把我笑成蛇精病了",
       "onboard_time": 1738654224,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96917,
+      "num": 267512,
+      "word": "迪丽热巴晒包",
+      "onboard_time": 1738656864,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 96859,
@@ -1481,6 +1505,14 @@
       "onboard_time": 1738640002,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93943,
+      "num": 93943,
+      "word": "唐探1900",
+      "onboard_time": 1738657763,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 91439,
@@ -1579,14 +1611,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 83603,
-      "num": 157635,
-      "word": "迪丽热巴晒包",
-      "onboard_time": 1738656864,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 83053,
       "num": 127032,
       "word": "太阳认真考虑交易杜兰特",
@@ -1609,6 +1633,14 @@
       "onboard_time": 1738639403,
       "rank": 48,
       "category": "互联网,国际时政"
+    },
+    {
+      "raw_hot": 79259,
+      "num": 220337,
+      "word": "林诗栋蒯曼3比1倪夏莲组合",
+      "onboard_time": 1738657405,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 78286,
@@ -1761,14 +1793,6 @@
       "onboard_time": 1738647443,
       "rank": 40,
       "category": "财经"
-    },
-    {
-      "raw_hot": 47014,
-      "num": 220337,
-      "word": "林诗栋蒯曼3比1倪夏莲组合",
-      "onboard_time": 1738657405,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 45699,
