@@ -1,0 +1,410 @@
+{
+  "runTime": 1738646555191,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1456872,
+        "num": 1456872,
+        "word": "休2上4休1",
+        "onboard_time": 1738637423,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 743007,
+        "num": 743007,
+        "word": "哪吒之魔童闹海进入影史票房榜前八",
+        "onboard_time": 1738640902,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30013,
+        "num": 630631,
+        "word": "致敬坚守的他们",
+        "onboard_time": 1738640489,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 580237,
+        "num": 580237,
+        "word": "DeepSeek给全世界特别是美国上了一课",
+        "onboard_time": 1738639943,
+        "rank": 3,
+        "category": "互联网,国际时政"
+      },
+      {
+        "raw_hot": 3353779,
+        "num": 494822,
+        "word": "网传大S的急诊就诊记录",
+        "onboard_time": 1738640002,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264017,
+        "num": 264017,
+        "word": "女子4次陪老公跨越260公里悼念亡妻",
+        "onboard_time": 1738631001,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 522398,
+        "num": 262497,
+        "word": "史上第一个被按斤卖掉的男主",
+        "onboard_time": 1738641322,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355480,
+        "num": 256080,
+        "word": "饺子导演 你别累着但也别闲着",
+        "onboard_time": 1738635204,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 265799,
+        "num": 244571,
+        "word": "看完唐探1900感觉自己白看了",
+        "onboard_time": 1738638385,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 81825,
+        "num": 237129,
+        "word": "本周六要上班",
+        "onboard_time": 1738640303,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1804377,
+        "num": 228158,
+        "word": "在日医生谈大S为何没被收住院",
+        "onboard_time": 1738645163,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226493,
+        "num": 226493,
+        "word": "明天上班",
+        "onboard_time": 1738624035,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 827603,
+        "num": 223161,
+        "word": "穆婷婷 大S是一个刚强的女人",
+        "onboard_time": 1738646123,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216545,
+        "num": 216545,
+        "word": "最后一天假期怎么过",
+        "onboard_time": 1738634123,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 766951,
+        "num": 208517,
+        "word": "具俊晔崩溃",
+        "onboard_time": 1738629080,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198640,
+        "num": 198640,
+        "word": "中国代表回应DeepSeek引发轰动",
+        "onboard_time": 1738639943,
+        "rank": 15,
+        "category": "互联网,国际时政"
+      },
+      {
+        "raw_hot": 628494,
+        "num": 197997,
+        "word": "吴佩慈受访时泣不成声",
+        "onboard_time": 1738636404,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143907,
+        "num": 197082,
+        "word": "美加同意暂缓30天实施加征关税措施",
+        "onboard_time": 1738639043,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137830,
+        "num": 196488,
+        "word": "DeepSeek回答如何过好这一生",
+        "onboard_time": 1738624635,
+        "rank": 18,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 131892,
+        "num": 195598,
+        "word": "从华为到DeepSeek美国还想禁多少",
+        "onboard_time": 1738646123,
+        "rank": 19,
+        "category": "互联网,国际时政"
+      },
+      {
+        "raw_hot": 596667,
+        "num": 193908,
+        "word": "小S曾在姐姐去世前几小时和妈妈跳舞",
+        "onboard_time": 1738629201,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259563,
+        "num": 193326,
+        "word": "六姊妹首播收视率破3",
+        "onboard_time": 1738641562,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219523,
+        "num": 191817,
+        "word": "陈哲远把剧组小狗领养了",
+        "onboard_time": 1738643542,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126476,
+        "num": 190967,
+        "word": "闭眼除夕睁眼初七",
+        "onboard_time": 1738635083,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200000,
+        "num": 190447,
+        "word": "哪吒2票房",
+        "onboard_time": 1738645704,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189542,
+        "num": 189542,
+        "word": "遇见熙媛5363天",
+        "onboard_time": 1738630461,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193582,
+        "num": 186606,
+        "word": "哪吒2导演说石矶娘娘心思单纯可爱",
+        "onboard_time": 1738641802,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182409,
+        "num": 182409,
+        "word": "陈思诚从去一座城到造一座城",
+        "onboard_time": 1738645822,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 46186,
+        "num": 181231,
+        "word": "王楚钦谈巴黎奥运会低潮期",
+        "onboard_time": 1738643842,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93961,
+        "num": 180757,
+        "word": "春节无处不在的潘展乐",
+        "onboard_time": 1738645464,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117262,
+        "num": 177825,
+        "word": "让徐明浩眼前一亮又一亮的舞台",
+        "onboard_time": 1738645822,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125717,
+        "num": 176181,
+        "word": "8天假期的真实状态",
+        "onboard_time": 1738641083,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175986,
+        "num": 175986,
+        "word": "莲花楼日本霸榜14冠",
+        "onboard_time": 1738644381,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172586,
+        "num": 172586,
+        "word": "央视新闻报道了射雕",
+        "onboard_time": 1738646243,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165811,
+        "num": 165811,
+        "word": "疑似殷郊半夜给陈牧驰照明",
+        "onboard_time": 1738644504,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167036,
+        "num": 165172,
+        "word": "李艾肠胃炎",
+        "onboard_time": 1738645044,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161146,
+        "num": 161146,
+        "word": "哪吒3",
+        "onboard_time": 1738630041,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115199,
+        "num": 157278,
+        "word": "怎么明天就要开工了",
+        "onboard_time": 1738640123,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156133,
+        "num": 156133,
+        "word": "电影票票价",
+        "onboard_time": 1738644082,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 62724,
+        "num": 151209,
+        "word": "恋与深空",
+        "onboard_time": 1738641921,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150648,
+        "num": 150648,
+        "word": "权志龙将于2月25日回归",
+        "onboard_time": 1738646123,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144396,
+        "num": 144396,
+        "word": "大侦探",
+        "onboard_time": 1738646302,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138184,
+        "num": 138184,
+        "word": "雷军 健身房打卡",
+        "onboard_time": 1738643722,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 114822,
+        "num": 120822,
+        "word": "林书豪重返NBA全明星",
+        "onboard_time": 1738646123,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142433,
+        "num": 118677,
+        "word": "熊出没不语只是一味逆袭",
+        "onboard_time": 1738645104,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115026,
+        "num": 115026,
+        "word": "小蛇糕",
+        "onboard_time": 1738629020,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108869,
+        "num": 108869,
+        "word": "美国暂停对加墨两国加征关税",
+        "onboard_time": 1738641263,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99395,
+        "num": 99395,
+        "word": "中国代表问美国还想禁多少中国智造",
+        "onboard_time": 1738645883,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95826,
+        "num": 95826,
+        "word": "小米集团市值突破万亿港元",
+        "onboard_time": 1738636283,
+        "rank": 48,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 92821,
+        "num": 92821,
+        "word": "春节假期最后一天状态",
+        "onboard_time": 1738643362,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记从剪纸感受春日美好#"
+    }
+  }
+}

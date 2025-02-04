@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738643986032,
+  "endTime": 1738646555191,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -297,6 +297,14 @@
       "onboard_time": 1738552229,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1804377,
+      "num": 228158,
+      "word": "在日医生谈大S为何没被收住院",
+      "onboard_time": 1738645163,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1798237,
@@ -883,6 +891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 827603,
+      "num": 223161,
+      "word": "穆婷婷 大S是一个刚强的女人",
+      "onboard_time": 1738646123,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 820000,
       "num": 820000,
       "word": "异人之下2导演致歉",
@@ -1000,6 +1016,14 @@
       "word": "于冬反问无名只配6.6分吗",
       "onboard_time": 1738426457,
       "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 743007,
+      "num": 743007,
+      "word": "哪吒之魔童闹海进入影史票房榜前八",
+      "onboard_time": 1738640902,
+      "rank": 20,
       "category": "电影"
     },
     {
@@ -1737,14 +1761,6 @@
       "onboard_time": 1738344614,
       "rank": 11,
       "category": "综艺,旅游"
-    },
-    {
-      "raw_hot": 460298,
-      "num": 281120,
-      "word": "哪吒之魔童闹海进入影史票房榜前八",
-      "onboard_time": 1738640902,
-      "rank": 20,
-      "category": "电影"
     },
     {
       "raw_hot": 458059,
@@ -3579,6 +3595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 219523,
+      "num": 191817,
+      "word": "陈哲远把剧组小狗领养了",
+      "onboard_time": 1738643542,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219288,
       "num": 188740,
       "word": "哪吒敖丙",
@@ -4547,6 +4571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182409,
+      "num": 182409,
+      "word": "陈思诚从去一座城到造一座城",
+      "onboard_time": 1738645822,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 182350,
       "num": 182350,
       "word": "韦德因癌症切除部分肾脏",
@@ -4707,6 +4739,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 175986,
+      "num": 175986,
+      "word": "莲花楼日本霸榜14冠",
+      "onboard_time": 1738644381,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175622,
       "num": 175622,
       "word": "贵州人用仙人掌炒腊肉",
@@ -4809,6 +4849,14 @@
       "onboard_time": 1738636283,
       "rank": 31,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 172586,
+      "num": 172586,
+      "word": "央视新闻报道了射雕",
+      "onboard_time": 1738646243,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 172459,
@@ -4939,6 +4987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167036,
+      "num": 165172,
+      "word": "李艾肠胃炎",
+      "onboard_time": 1738645044,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166659,
       "num": 166659,
       "word": "怎么假期就最后一天了",
@@ -4977,6 +5033,14 @@
       "onboard_time": 1738495458,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165811,
+      "num": 165811,
+      "word": "疑似殷郊半夜给陈牧驰照明",
+      "onboard_time": 1738644504,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 165489,
@@ -5323,6 +5387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156133,
+      "num": 156133,
+      "word": "电影票票价",
+      "onboard_time": 1738644082,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 156104,
       "num": 133788,
       "word": "春节档票房预测",
@@ -5427,14 +5499,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 154236,
-      "num": 154236,
-      "word": "陈哲远把剧组小狗领养了",
-      "onboard_time": 1738643542,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 154066,
       "num": 288996,
       "word": "易烊千玺祝立春快乐季季如春",
@@ -5497,6 +5561,14 @@
       "onboard_time": 1738537513,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 150648,
+      "num": 150648,
+      "word": "权志龙将于2月25日回归",
+      "onboard_time": 1738646123,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 150406,
@@ -5723,6 +5795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144396,
+      "num": 144396,
+      "word": "大侦探",
+      "onboard_time": 1738646302,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144298,
       "num": 144298,
       "word": "红豆生南国唐探有男模",
@@ -5841,6 +5921,14 @@
       "onboard_time": 1738374976,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142433,
+      "num": 118677,
+      "word": "熊出没不语只是一味逆袭",
+      "onboard_time": 1738645104,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 142029,
@@ -6003,6 +6091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138184,
+      "num": 138184,
+      "word": "雷军 健身房打卡",
+      "onboard_time": 1738643722,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 137467,
       "num": 137467,
       "word": "爸爸刚喝一口就化身老戏骨",
@@ -6161,6 +6257,14 @@
       "onboard_time": 1738379597,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 131892,
+      "num": 195598,
+      "word": "从华为到DeepSeek美国还想禁多少",
+      "onboard_time": 1738646123,
+      "rank": 19,
+      "category": "互联网,国际时政"
     },
     {
       "raw_hot": 131851,
@@ -6691,6 +6795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117262,
+      "num": 177825,
+      "word": "让徐明浩眼前一亮又一亮的舞台",
+      "onboard_time": 1738645822,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116547,
       "num": 1474146,
       "word": "张极染金发了",
@@ -6769,6 +6881,14 @@
       "onboard_time": 1738410917,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 114822,
+      "num": 120822,
+      "word": "林书豪重返NBA全明星",
+      "onboard_time": 1738646123,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 114275,
@@ -7292,7 +7412,7 @@
     },
     {
       "raw_hot": 101417,
-      "num": 101417,
+      "num": 237129,
       "word": "本周六要上班",
       "onboard_time": 1738640303,
       "rank": 44,
@@ -7363,6 +7483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99395,
+      "num": 99395,
+      "word": "中国代表问美国还想禁多少中国智造",
+      "onboard_time": 1738645883,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 99320,
       "num": 303753,
       "word": "巴特勒不愿续约勇士",
@@ -7377,14 +7505,6 @@
       "onboard_time": 1738576889,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 99004,
-      "num": 99004,
-      "word": "雷军 健身房打卡",
-      "onboard_time": 1738643722,
-      "rank": 44,
-      "category": "互联网"
     },
     {
       "raw_hot": 98942,
@@ -7496,6 +7616,14 @@
       "word": "C罗说金球奖毫无可信度",
       "onboard_time": 1738640002,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 93961,
+      "num": 180757,
+      "word": "春节无处不在的潘展乐",
+      "onboard_time": 1738645464,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -8092,7 +8220,7 @@
     },
     {
       "raw_hot": 67359,
-      "num": 99166,
+      "num": 181231,
       "word": "王楚钦谈巴黎奥运会低潮期",
       "onboard_time": 1738643842,
       "rank": 40,
