@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738634198207,
+  "endTime": 1738637349879,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -219,6 +219,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 2031112,
+      "num": 483601,
+      "word": "大S就医时或已错过治疗黄金期",
+      "onboard_time": 1738636102,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1911463,
       "num": 1671179,
       "word": "这次熙媛又是交换了什么呢",
@@ -380,7 +388,7 @@
     },
     {
       "raw_hot": 1209522,
-      "num": 253177,
+      "num": 254349,
       "word": "遇见熙媛5363天",
       "onboard_time": 1738630461,
       "rank": 14,
@@ -401,6 +409,14 @@
       "onboard_time": 1738507459,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1165432,
+      "num": 259080,
+      "word": "吴佩慈受访时泣不成声",
+      "onboard_time": 1738636404,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 1154235,
@@ -497,6 +513,14 @@
       "onboard_time": 1738480338,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1036205,
+      "num": 1165792,
+      "word": "女子4次陪老公跨越260公里悼念亡妻",
+      "onboard_time": 1738631001,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1029674,
@@ -819,6 +843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 660840,
+      "num": 1098928,
+      "word": "DeepSeek回答如何过好这一生",
+      "onboard_time": 1738624635,
+      "rank": 20,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 658198,
       "num": 384129,
       "word": "泡沫之夏",
@@ -913,14 +945,6 @@
       "onboard_time": 1738591349,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 618300,
-      "num": 1098928,
-      "word": "DeepSeek回答如何过好这一生",
-      "onboard_time": 1738624635,
-      "rank": 20,
-      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 617251,
@@ -1025,6 +1049,14 @@
       "onboard_time": 1738421719,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 561430,
+      "num": 101983,
+      "word": "林志玲发文悼念大S",
+      "onboard_time": 1738634663,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 544843,
@@ -1411,14 +1443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 404887,
-      "num": 404887,
-      "word": "女子4次陪老公跨越260公里悼念亡妻",
-      "onboard_time": 1738631001,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 401760,
       "num": 841011,
       "word": "雇主失联育儿嫂当妈3年带娃走亲戚",
@@ -1579,12 +1603,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 364765,
+      "num": 316873,
+      "word": "饺子导演 你别累着但也别闲着",
+      "onboard_time": 1738635204,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 361773,
       "num": 361773,
       "word": "娱乐百分百",
       "onboard_time": 1738553767,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 360762,
+      "num": 303471,
+      "word": "哪吒之魔童闹海票房破42亿",
+      "onboard_time": 1738630221,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 357575,
@@ -1867,6 +1907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 302690,
+      "num": 302690,
+      "word": "闭眼除夕睁眼初七",
+      "onboard_time": 1738635083,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 300959,
       "num": 300959,
       "word": "侠女般的一生轰轰烈烈",
@@ -1908,7 +1956,7 @@
     },
     {
       "raw_hot": 294494,
-      "num": 166351,
+      "num": 169471,
       "word": "卧室再小也能做个衣帽间",
       "onboard_time": 1738628780,
       "rank": 20,
@@ -2003,6 +2051,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 278371,
+      "num": 278371,
+      "word": "最后一天假期怎么过",
+      "onboard_time": 1738634123,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 278035,
       "num": 267318,
       "word": "不要因为花父母的钱而感到内疚",
@@ -2049,14 +2105,6 @@
       "onboard_time": 1738489998,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 262702,
-      "num": 192737,
-      "word": "哪吒之魔童闹海票房破42亿",
-      "onboard_time": 1738630221,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 262468,
@@ -2169,6 +2217,14 @@
       "onboard_time": 1738474338,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 249673,
+      "num": 174400,
+      "word": "饺子导演手绘无表情哪吒",
+      "onboard_time": 1738636223,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 248567,
@@ -2324,7 +2380,7 @@
     },
     {
       "raw_hot": 228733,
-      "num": 156725,
+      "num": 173639,
       "word": "正月初七为啥称为人日",
       "onboard_time": 1738631001,
       "rank": 24,
@@ -2435,6 +2491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 219845,
+      "num": 219845,
+      "word": "返程开车牢记这几个细节",
+      "onboard_time": 1738631001,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 219288,
       "num": 188740,
       "word": "哪吒敖丙",
@@ -2497,14 +2561,6 @@
       "onboard_time": 1738386858,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 212500,
-      "num": 212500,
-      "word": "返程开车牢记这几个细节",
-      "onboard_time": 1738631001,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 211766,
@@ -2585,6 +2641,14 @@
       "onboard_time": 1738560394,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205585,
+      "num": 173394,
+      "word": "田嘉瑞哪吒2观后感",
+      "onboard_time": 1738636762,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 205091,
@@ -2868,11 +2932,19 @@
     },
     {
       "raw_hot": 191411,
-      "num": 160725,
+      "num": 170377,
       "word": "门牙上的豁口真是嗑瓜子嗑出来的吗",
       "onboard_time": 1738631001,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 191382,
+      "num": 173088,
+      "word": "人心中的成见是一座大山 那很漂亮了",
+      "onboard_time": 1738634842,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 190548,
@@ -3403,6 +3475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161636,
+      "num": 161636,
+      "word": "多地返程遇雨雪",
+      "onboard_time": 1738635083,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161405,
       "num": 161405,
       "word": "王鹤棣锅铲都抡冒烟了",
@@ -3440,14 +3520,6 @@
       "word": "女孩辞岁一晚跑几百家收入2000多",
       "onboard_time": 1738492577,
       "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 159351,
-      "num": 159351,
-      "word": "最后一天假期怎么过",
-      "onboard_time": 1738634123,
-      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -3521,6 +3593,14 @@
       "onboard_time": 1738476257,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156024,
+      "num": 191982,
+      "word": "射雕疑似被恶意打分",
+      "onboard_time": 1738603457,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 155620,
@@ -3731,6 +3811,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 145746,
+      "num": 145746,
+      "word": "石矶娘娘心态",
+      "onboard_time": 1738635984,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 145642,
+      "num": 145642,
+      "word": "直播春运返程高峰",
+      "onboard_time": 1738636163,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145458,
       "num": 145458,
       "word": "仙台有树剧宣",
@@ -3769,14 +3865,6 @@
       "onboard_time": 1738549593,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144387,
-      "num": 191982,
-      "word": "射雕疑似被恶意打分",
-      "onboard_time": 1738603457,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 144212,
@@ -3907,6 +3995,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 141016,
+      "num": 141016,
+      "word": "小米集团市值突破万亿港元",
+      "onboard_time": 1738636283,
+      "rank": 31,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 140417,
       "num": 4461898,
       "word": "从古诗词中感受立春之美",
@@ -3937,6 +4033,14 @@
       "onboard_time": 1738457356,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139435,
+      "num": 139435,
+      "word": "蛇年春节盘点",
+      "onboard_time": 1738637245,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139428,
@@ -4120,6 +4224,14 @@
       "word": "不敢相信浓眉换东契奇",
       "onboard_time": 1738475718,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 128223,
+      "num": 128223,
+      "word": "王楚钦说低潮期一度崩溃",
+      "onboard_time": 1738636283,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -4475,6 +4587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113421,
+      "num": 113421,
+      "word": "美将停止资助联合国巴勒斯坦救助机构",
+      "onboard_time": 1738632381,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 113150,
       "num": 113150,
       "word": "高速上为救人女子喊到声音嘶哑",
@@ -4513,6 +4633,14 @@
       "onboard_time": 1738454174,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112316,
+      "num": 112316,
+      "word": "厄瓜多尔对墨西哥加征27%的关税",
+      "onboard_time": 1738636283,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 112105,
@@ -4835,6 +4963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98942,
+      "num": 98942,
+      "word": "多平台宣布上线DeepSeek大模型",
+      "onboard_time": 1738632803,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 98721,
       "num": 98721,
       "word": "让你越来越有福气的4件事",
@@ -5003,6 +5139,22 @@
       "category": "民生新闻,美食"
     },
     {
+      "raw_hot": 85423,
+      "num": 85423,
+      "word": "詹姆斯史上最老周最佳",
+      "onboard_time": 1738637123,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 84911,
+      "num": 84911,
+      "word": "月球表面5日将浮现X形地貌",
+      "onboard_time": 1738637065,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83789,
       "num": 93687,
       "word": "春节把饺子忙坏了",
@@ -5033,6 +5185,14 @@
       "onboard_time": 1738570166,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 83053,
+      "num": 83053,
+      "word": "太阳认真考虑交易杜兰特",
+      "onboard_time": 1738637065,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 81408,
@@ -5104,14 +5264,6 @@
       "word": "三巨头同日接入DeepSeek",
       "onboard_time": 1738422860,
       "rank": 39,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 75871,
-      "num": 75871,
-      "word": "多平台宣布上线DeepSeek大模型",
-      "onboard_time": 1738632803,
-      "rank": 47,
       "category": "互联网"
     },
     {
@@ -5465,6 +5617,14 @@
       "onboard_time": 1738419260,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 48318,
+      "num": 302770,
+      "word": "流感的严重性被很多人低估了",
+      "onboard_time": 1738636645,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 47462,
