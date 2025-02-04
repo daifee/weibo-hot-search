@@ -1,6 +1,6 @@
 {
   "startTime": 1738600055579,
-  "endTime": 1738658486541,
+  "endTime": 1738661008985,
   "band_list": [
     {
       "raw_hot": 4314287,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1426517,
-      "num": 305840,
+      "num": 309416,
       "word": "小S取消节目录制",
       "onboard_time": 1738655964,
       "rank": 10,
@@ -163,6 +163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 914281,
+      "num": 1146285,
+      "word": "满江红祝贺哪吒",
+      "onboard_time": 1738655005,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 798371,
       "num": 377016,
       "word": "小S两个女儿回台",
@@ -192,14 +200,6 @@
       "word": "哪吒之魔童闹海进入影史票房榜前八",
       "onboard_time": 1738640902,
       "rank": 20,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 720281,
-      "num": 720281,
-      "word": "满江红祝贺哪吒",
-      "onboard_time": 1738655005,
-      "rank": 1,
       "category": "电影"
     },
     {
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 602776,
-      "num": 319426,
+      "num": 367438,
       "word": "中国影史总榜哪吒2居8望7",
       "onboard_time": 1738651282,
       "rank": 47,
@@ -267,6 +267,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 556082,
+      "num": 257504,
+      "word": "女子套圈300个一碰东西就反弹",
+      "onboard_time": 1738657462,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 554762,
+      "num": 460126,
+      "word": "哪吒2",
+      "onboard_time": 1738579768,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 547557,
       "num": 547557,
       "word": "谷歌被立案调查",
@@ -281,14 +297,6 @@
       "onboard_time": 1738651342,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 539533,
-      "num": 257504,
-      "word": "女子套圈300个一碰东西就反弹",
-      "onboard_time": 1738657462,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 518099,
@@ -331,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 478730,
+      "num": 478730,
+      "word": "3人落水被机器人救起",
+      "onboard_time": 1738657104,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 476897,
       "num": 417536,
       "word": "吴京 流浪地球3",
@@ -353,6 +369,14 @@
       "onboard_time": 1738638385,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 434693,
+      "num": 434693,
+      "word": "医生提醒重度干眼症可致失明",
+      "onboard_time": 1738655905,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 419278,
@@ -385,14 +409,6 @@
       "onboard_time": 1738579768,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 375180,
-      "num": 295557,
-      "word": "哪吒2",
-      "onboard_time": 1738579768,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 371499,
@@ -464,14 +480,6 @@
       "word": "最后一天假期怎么过",
       "onboard_time": 1738634123,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 332629,
-      "num": 332629,
-      "word": "医生提醒重度干眼症可致失明",
-      "onboard_time": 1738655905,
-      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -643,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226858,
+      "num": 189232,
+      "word": "仙台有树OST阵容官宣",
+      "onboard_time": 1738660162,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221231,
       "num": 337288,
       "word": "日本一制药公司暂停供应奥司他韦",
@@ -683,6 +699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 214170,
+      "num": 298733,
+      "word": "亲手制作是中国人的最高礼遇",
+      "onboard_time": 1738656744,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 211881,
       "num": 195094,
       "word": "田嘉瑞哪吒2观后感",
@@ -691,12 +715,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 211122,
-      "num": 298733,
-      "word": "亲手制作是中国人的最高礼遇",
-      "onboard_time": 1738656744,
-      "rank": 11,
-      "category": "民生新闻"
+      "raw_hot": 208741,
+      "num": 208741,
+      "word": "这跟和邓为谈恋爱有什么区别",
+      "onboard_time": 1738659924,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 205599,
@@ -753,6 +777,14 @@
       "onboard_time": 1738619532,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189463,
+      "num": 189463,
+      "word": "泰国将对泰缅边境的缅甸地区断电",
+      "onboard_time": 1738660286,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 189118,
@@ -851,6 +883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173779,
+      "num": 173779,
+      "word": "山西一街道让商户春节24小时开灯",
+      "onboard_time": 1738659443,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172738,
       "num": 172738,
       "word": "小米集团市值突破万亿港元",
@@ -875,8 +915,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 172172,
+      "num": 172172,
+      "word": "林孝埈说要为中国队夺得更多金牌",
+      "onboard_time": 1738658486,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172106,
-      "num": 172106,
+      "num": 339319,
       "word": "商务部就对钨等物项实施出口管制答问",
       "onboard_time": 1738653694,
       "rank": 19,
@@ -1067,6 +1115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 143482,
+      "num": 143482,
+      "word": "华筝票房海报字是张文昕写的",
+      "onboard_time": 1738659564,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 143331,
       "num": 306648,
       "word": "哪吒2票房突破40亿",
@@ -1195,20 +1251,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 127516,
+      "num": 294214,
+      "word": "迪丽热巴晒包",
+      "onboard_time": 1738656864,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127006,
       "num": 306726,
       "word": "专家称癫痫通常不是流感高危因素",
       "onboard_time": 1738595488,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 126164,
-      "num": 126164,
-      "word": "3人落水被机器人救起",
-      "onboard_time": 1738657104,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 123859,
@@ -1347,6 +1403,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 109849,
+      "num": 109849,
+      "word": "王楚钦林诗栋男双对手产生",
+      "onboard_time": 1738656983,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 109755,
+      "num": 109755,
+      "word": "日本多地感冒药供应严重不足",
+      "onboard_time": 1738660644,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 108955,
       "num": 108955,
       "word": "和肖战一起执梦为剑快意江湖",
@@ -1459,28 +1531,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 97538,
-      "num": 97538,
-      "word": "王楚钦林诗栋男双对手产生",
-      "onboard_time": 1738656983,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 97460,
       "num": 97460,
       "word": "梁洁跳舞把我笑成蛇精病了",
       "onboard_time": 1738654224,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 96917,
-      "num": 267512,
-      "word": "迪丽热巴晒包",
-      "onboard_time": 1738656864,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 96859,
@@ -1657,6 +1713,14 @@
       "onboard_time": 1738598604,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77125,
+      "num": 77125,
+      "word": "张新成湖北方言回应刘昊然",
+      "onboard_time": 1738660944,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 73824,

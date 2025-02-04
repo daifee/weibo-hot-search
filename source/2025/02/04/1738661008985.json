@@ -1,0 +1,410 @@
+{
+  "runTime": 1738661008985,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 914281,
+        "num": 1146285,
+        "word": "满江红祝贺哪吒",
+        "onboard_time": 1738655005,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 634095,
+        "num": 634095,
+        "word": "休2上4休1",
+        "onboard_time": 1738637423,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28430,
+        "num": 554257,
+        "word": "用非遗剪纸打开春节年俗",
+        "onboard_time": 1738639462,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 652220,
+        "num": 539716,
+        "word": "日本医院呼吁完全没药建议回家",
+        "onboard_time": 1738649004,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 478730,
+        "num": 478730,
+        "word": "3人落水被机器人救起",
+        "onboard_time": 1738657104,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1603122,
+        "num": 466017,
+        "word": "具俊晔将手抱骨灰带大S回台湾",
+        "onboard_time": 1738650322,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 554762,
+        "num": 460126,
+        "word": "哪吒2",
+        "onboard_time": 1738648402,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 434693,
+        "num": 434693,
+        "word": "医生提醒重度干眼症可致失明",
+        "onboard_time": 1738655905,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 367438,
+        "num": 367438,
+        "word": "中国影史总榜哪吒2居8望7",
+        "onboard_time": 1738651282,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 81469,
+        "num": 339319,
+        "word": "商务部就对钨等物项实施出口管制答问",
+        "onboard_time": 1738653694,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 799065,
+        "num": 309416,
+        "word": "小S取消节目录制",
+        "onboard_time": 1738655964,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127516,
+        "num": 294214,
+        "word": "迪丽热巴晒包",
+        "onboard_time": 1738656864,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419380,
+        "num": 248493,
+        "word": "在日医生谈大S为何没被收住院",
+        "onboard_time": 1738645163,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244915,
+        "num": 244915,
+        "word": "日本东京一护士谈感冒药短缺",
+        "onboard_time": 1738655065,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 221262,
+        "num": 221262,
+        "word": "中方对美国部分进口商品加征关税",
+        "onboard_time": 1738646722,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 324165,
+        "num": 220148,
+        "word": "具俊晔崩溃",
+        "onboard_time": 1738629080,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274126,
+        "num": 218488,
+        "word": "肖战曾说票房交给观众和市场",
+        "onboard_time": 1738652723,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 367080,
+        "num": 216620,
+        "word": "网传大S的急诊就诊记录",
+        "onboard_time": 1738640002,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214170,
+        "num": 214170,
+        "word": "亲手制作是中国人的最高礼遇",
+        "onboard_time": 1738656744,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208741,
+        "num": 208741,
+        "word": "这跟和邓为谈恋爱有什么区别",
+        "onboard_time": 1738659924,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 556082,
+        "num": 200202,
+        "word": "女子套圈300个一碰东西就反弹",
+        "onboard_time": 1738657462,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 484051,
+        "num": 197974,
+        "word": "曝痞幼新恋情",
+        "onboard_time": 1738647622,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 345429,
+        "num": 197768,
+        "word": "林依晨20岁就开始写遗书了",
+        "onboard_time": 1738649243,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189463,
+        "num": 189463,
+        "word": "泰国将对泰缅边境的缅甸地区断电",
+        "onboard_time": 1738660286,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 226858,
+        "num": 189232,
+        "word": "仙台有树OST阵容官宣",
+        "onboard_time": 1738660162,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187284,
+        "num": 187284,
+        "word": "吴佩慈受访时泣不成声",
+        "onboard_time": 1738636404,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181974,
+        "num": 181974,
+        "word": "朴灿烈想看陈哲远偷偷藏不住",
+        "onboard_time": 1738649722,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173779,
+        "num": 173779,
+        "word": "山西一街道让商户春节24小时开灯",
+        "onboard_time": 1738659443,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172172,
+        "num": 172172,
+        "word": "林孝埈说要为中国队夺得更多金牌",
+        "onboard_time": 1738658486,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170387,
+        "num": 170387,
+        "word": "孟子义人怎么能闯出这么大的祸",
+        "onboard_time": 1738655964,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167585,
+        "num": 167585,
+        "word": "哪吒2票房",
+        "onboard_time": 1738645704,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167555,
+        "num": 167555,
+        "word": "哪吒之魔童闹海票房突破45亿",
+        "onboard_time": 1738654285,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155040,
+        "num": 155040,
+        "word": "小S曾在姐姐去世前几小时和妈妈跳舞",
+        "onboard_time": 1738629201,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143482,
+        "num": 143482,
+        "word": "华筝票房海报字是张文昕写的",
+        "onboard_time": 1738659564,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132728,
+        "num": 132728,
+        "word": "谷爱凌退赛亚冬会",
+        "onboard_time": 1738651342,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129296,
+        "num": 129296,
+        "word": "金毛被打招呼踩着主人隔窗热情回应",
+        "onboard_time": 1738650922,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127311,
+        "num": 127311,
+        "word": "教育孩子最好的方式就是夫妻聊天",
+        "onboard_time": 1738655905,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124611,
+        "num": 124611,
+        "word": "中方在世贸组织起诉美加征关税措施",
+        "onboard_time": 1738651163,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122446,
+        "num": 122446,
+        "word": "丁禹兮迪士尼演职人员",
+        "onboard_time": 1738656925,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109849,
+        "num": 109849,
+        "word": "王楚钦林诗栋男双对手产生",
+        "onboard_time": 1738656983,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109755,
+        "num": 109755,
+        "word": "日本多地感冒药供应严重不足",
+        "onboard_time": 1738660644,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 104477,
+        "num": 104477,
+        "word": "DeepSeek给全世界特别是美国上了一课",
+        "onboard_time": 1738639943,
+        "rank": 41,
+        "category": "互联网,国际时政"
+      },
+      {
+        "raw_hot": 99654,
+        "num": 99654,
+        "word": "吃撑后24小时身体有什么变化",
+        "onboard_time": 1738655425,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 98297,
+        "num": 98297,
+        "word": "鹿晗祝大家返程一路平安",
+        "onboard_time": 1738650082,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98010,
+        "num": 98010,
+        "word": "谢娜害我莫名其妙笑了一下",
+        "onboard_time": 1738655964,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95693,
+        "num": 95693,
+        "word": "哪吒1原本设定",
+        "onboard_time": 1738653985,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 94520,
+        "num": 94520,
+        "word": "林依晨回忆被求婚细节",
+        "onboard_time": 1738655964,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92059,
+        "num": 92059,
+        "word": "最后一天假期怎么过",
+        "onboard_time": 1738634123,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84825,
+        "num": 84825,
+        "word": "闭眼除夕睁眼初七",
+        "onboard_time": 1738635083,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77125,
+        "num": 77125,
+        "word": "张新成湖北方言回应刘昊然",
+        "onboard_time": 1738660944,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记那些点睛用典#"
+    }
+  }
+}
