@@ -1,6 +1,6 @@
 {
   "startTime": 1738686513636,
-  "endTime": 1738701426180,
+  "endTime": 1738704051865,
   "band_list": [
     {
       "raw_hot": 1475289,
@@ -459,6 +459,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 54911,
+      "num": 29830,
+      "word": "多位博主曾提醒近期不要去日本旅游",
+      "onboard_time": 1738700232,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54834,
       "num": 79006,
       "word": "女子套圈300个一碰东西就反弹",
@@ -523,20 +531,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 20936,
-      "num": 20936,
-      "word": "多位博主曾提醒近期不要去日本旅游",
-      "onboard_time": 1738700232,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 18465,
       "num": 117617,
       "word": "瑞典一所学校发生枪击至少5人被击中",
       "onboard_time": 1738692434,
       "rank": 25,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 16680,
+      "num": 18187,
+      "word": "特朗普称希望乌用稀土矿换援助",
+      "onboard_time": 1738700532,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 15877,
@@ -547,20 +555,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 15320,
+      "num": 30806,
+      "word": "北京多条地铁线延长运营至凌晨一两点",
+      "onboard_time": 1738700051,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15231,
       "num": 46277,
       "word": "中方对美采取反制措施完全正当合理",
       "onboard_time": 1738695611,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 15148,
-      "num": 30806,
-      "word": "北京多条地铁线延长运营至凌晨一两点",
-      "onboard_time": 1738700051,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14737,
@@ -571,6 +579,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14737,
+      "num": 14737,
+      "word": "为什么封神2口碑两极分化",
+      "onboard_time": 1738703171,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 14220,
+      "num": 19868,
+      "word": "春捂注意身体3个部位",
+      "onboard_time": 1738699391,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 13603,
       "num": 32215,
       "word": "军人用数学物理将跳伞误差缩至0.2米",
@@ -579,20 +603,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12386,
-      "num": 19868,
-      "word": "春捂注意身体3个部位",
-      "onboard_time": 1738699391,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 12067,
-      "num": 18187,
-      "word": "特朗普称希望乌用稀土矿换援助",
-      "onboard_time": 1738700532,
-      "rank": 49,
-      "category": "国际时政"
+      "raw_hot": 12502,
+      "num": 18195,
+      "word": "看4D哪吒什么体验",
+      "onboard_time": 1738695731,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 10880,
@@ -601,14 +617,6 @@
       "onboard_time": 1738696871,
       "rank": 23,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 7854,
-      "num": 18195,
-      "word": "看4D哪吒什么体验",
-      "onboard_time": 1738695731,
-      "rank": 42,
-      "category": "电影"
     }
   ],
   "hotgov_list": [
