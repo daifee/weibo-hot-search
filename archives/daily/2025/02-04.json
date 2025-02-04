@@ -1,6 +1,6 @@
 {
   "startTime": 1738600055579,
-  "endTime": 1738678877717,
+  "endTime": 1738679973533,
   "band_list": [
     {
       "raw_hot": 6995860,
@@ -67,8 +67,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2123966,
-      "num": 2123966,
+      "raw_hot": 2237575,
+      "num": 2237575,
       "word": "逆跌",
       "onboard_time": 1738677025,
       "rank": 0,
@@ -251,6 +251,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 936659,
+      "num": 566148,
+      "word": "唐人街探案祝贺哪吒",
+      "onboard_time": 1738676063,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 935907,
       "num": 944814,
       "word": "光线要拍敖丙传",
@@ -264,14 +272,6 @@
       "word": "满江红祝贺哪吒",
       "onboard_time": 1738655005,
       "rank": 1,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 859730,
-      "num": 566148,
-      "word": "唐人街探案祝贺哪吒",
-      "onboard_time": 1738676063,
-      "rank": 34,
       "category": "电影"
     },
     {
@@ -379,6 +379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 592068,
+      "num": 527132,
+      "word": "原来长辈买衣服不是随便摸摸",
+      "onboard_time": 1738676545,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 576767,
       "num": 207423,
       "word": "大S曾邀请新人时的陈紫函一起候场",
@@ -441,14 +449,6 @@
       "onboard_time": 1738671085,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 527132,
-      "num": 527132,
-      "word": "原来长辈买衣服不是随便摸摸",
-      "onboard_time": 1738676545,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 520846,
@@ -553,6 +553,14 @@
       "onboard_time": 1738655905,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 422452,
+      "num": 422452,
+      "word": "龙族永不哭泣",
+      "onboard_time": 1738677264,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 420634,
@@ -667,6 +675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 346177,
+      "num": 346177,
+      "word": "观众称看射雕如坐针毡",
+      "onboard_time": 1738679664,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 345963,
       "num": 345963,
       "word": "光遇复刻",
@@ -761,14 +777,6 @@
       "onboard_time": 1738647862,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 299057,
-      "num": 299057,
-      "word": "龙族永不哭泣",
-      "onboard_time": 1738677264,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 298969,
@@ -883,6 +891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244815,
+      "num": 496167,
+      "word": "国产电影的贺图交接仪式",
+      "onboard_time": 1738677864,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 244266,
       "num": 308496,
       "word": "黄友政2比3弗朗西斯卡",
@@ -904,6 +920,14 @@
       "word": "蒯曼11比1",
       "onboard_time": 1738667663,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 235041,
+      "num": 465808,
+      "word": "王楚钦说比赛前打算吃饭",
+      "onboard_time": 1738677985,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -961,6 +985,14 @@
       "onboard_time": 1738646123,
       "rank": 19,
       "category": "互联网,国际时政"
+    },
+    {
+      "raw_hot": 227656,
+      "num": 250766,
+      "word": "姐弟仨凌晨返程父亲陪他们坐了一夜",
+      "onboard_time": 1738679664,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 227403,
@@ -1107,14 +1139,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 202064,
-      "num": 202064,
-      "word": "王楚钦说比赛前打算吃饭",
-      "onboard_time": 1738677985,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 201901,
       "num": 201901,
       "word": "丁禹兮迪士尼演职人员",
@@ -1129,6 +1153,14 @@
       "onboard_time": 1738671803,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200650,
+      "num": 200650,
+      "word": "心疼李瓒",
+      "onboard_time": 1738678765,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 200576,
@@ -1152,6 +1184,14 @@
       "word": "哪吒彩蛋",
       "onboard_time": 1738665083,
       "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 196384,
+      "num": 196384,
+      "word": "射雕票房逆跌",
+      "onboard_time": 1738679905,
+      "rank": 28,
       "category": "电影"
     },
     {
@@ -1203,6 +1243,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 189853,
+      "num": 189853,
+      "word": "杨幂说电影和银幕是值得敬畏的",
+      "onboard_time": 1738678585,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 189566,
       "num": 189566,
       "word": "日本留学生称地铁有三成人戴口罩",
@@ -1217,6 +1265,14 @@
       "onboard_time": 1738595069,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186982,
+      "num": 186982,
+      "word": "已经到不爱吃零食的地步了",
+      "onboard_time": 1738675104,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 184912,
@@ -1419,6 +1475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168019,
+      "num": 168019,
+      "word": "哪吒之魔童闹海总票房破48亿",
+      "onboard_time": 1738679664,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 167050,
       "num": 167050,
       "word": "和沈月演的何家丽狠狠共情了",
@@ -1491,6 +1555,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160424,
+      "num": 366575,
+      "word": "合上行李箱又是一年",
+      "onboard_time": 1738666825,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159239,
+      "num": 159239,
+      "word": "有一种爱叫爸爸怕你赶不上高铁",
+      "onboard_time": 1738675283,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 159006,
       "num": 280133,
       "word": "8天假期的真实状态",
@@ -1531,14 +1611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 155055,
-      "num": 366575,
-      "word": "合上行李箱又是一年",
-      "onboard_time": 1738666825,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 154169,
       "num": 150361,
       "word": "王楚钦林诗栋vs周哲宇蔡邵恒",
@@ -1561,14 +1633,6 @@
       "onboard_time": 1738675283,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 153362,
-      "num": 153362,
-      "word": "已经到不爱吃零食的地步了",
-      "onboard_time": 1738675104,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 152308,
@@ -1667,14 +1731,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 146465,
-      "num": 146465,
-      "word": "有一种爱叫爸爸怕你赶不上高铁",
-      "onboard_time": 1738675283,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 146218,
       "num": 146218,
       "word": "暗恋一个人10多年什么体验",
@@ -1697,6 +1753,14 @@
       "onboard_time": 1738656324,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 144915,
+      "num": 144915,
+      "word": "今晚记得打开闹钟",
+      "onboard_time": 1738679724,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144289,
@@ -1763,6 +1827,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140773,
+      "num": 140773,
+      "word": "封神2",
+      "onboard_time": 1738676366,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 140590,
+      "num": 140590,
+      "word": "美媒称特朗普下一个目标是解散教育部",
+      "onboard_time": 1738676966,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 140369,
       "num": 155886,
       "word": "高至霆新剧唯一的黑月光",
@@ -1793,14 +1873,6 @@
       "onboard_time": 1738590269,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 138905,
-      "num": 138905,
-      "word": "美媒称特朗普下一个目标是解散教育部",
-      "onboard_time": 1738676966,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 138760,
@@ -1851,14 +1923,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 133769,
-      "num": 133769,
-      "word": "封神2",
-      "onboard_time": 1738676366,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 130736,
       "num": 130736,
       "word": "漫影寻踪今日开播",
@@ -1873,14 +1937,6 @@
       "onboard_time": 1738637363,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129406,
-      "num": 129406,
-      "word": "杨幂说电影和银幕是值得敬畏的",
-      "onboard_time": 1738678585,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 129008,
@@ -1899,12 +1955,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 125228,
+      "num": 306441,
+      "word": "票房",
+      "onboard_time": 1738592071,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 124433,
       "num": 124433,
       "word": "王安宇打戏",
       "onboard_time": 1738673905,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124186,
+      "num": 124186,
+      "word": "后备箱不能开一开东西全掉了",
+      "onboard_time": 1738679787,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123859,
@@ -2025,14 +2097,6 @@
       "onboard_time": 1738636283,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 112155,
-      "num": 306441,
-      "word": "票房",
-      "onboard_time": 1738592071,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 111871,
@@ -2161,14 +2225,6 @@
       "onboard_time": 1738669765,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 104183,
-      "num": 104183,
-      "word": "心疼李瓒",
-      "onboard_time": 1738678765,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 104079,
@@ -2531,6 +2587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72890,
+      "num": 246584,
+      "word": "新年开工BGM",
+      "onboard_time": 1738676305,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72225,
       "num": 306303,
       "word": "央视主播上新00后",
@@ -2595,6 +2659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62058,
+      "num": 227331,
+      "word": "梁靖崑玩的就是心跳",
+      "onboard_time": 1738679546,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61142,
       "num": 200670,
       "word": "蛇来运转篮不住",
@@ -2641,6 +2713,14 @@
       "onboard_time": 1738598066,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54898,
+      "num": 566179,
+      "word": "中国队亚冬会开门红",
+      "onboard_time": 1738676185,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 54347,
@@ -2691,28 +2771,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 44983,
-      "num": 566179,
-      "word": "中国队亚冬会开门红",
-      "onboard_time": 1738676185,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 44652,
       "num": 263958,
       "word": "车头是生活车尾是故乡",
       "onboard_time": 1738602559,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44574,
-      "num": 496167,
-      "word": "国产电影的贺图交接仪式",
-      "onboard_time": 1738677864,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 43550,

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738678877717,
+  "endTime": 1738679973533,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1675,6 +1675,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 2237575,
+      "num": 2237575,
+      "word": "逆跌",
+      "onboard_time": 1738677025,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 2236543,
       "num": 505789,
       "word": "小S两个女儿回台",
@@ -1881,14 +1889,6 @@
       "onboard_time": 1735971019,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2123966,
-      "num": 2123966,
-      "word": "逆跌",
-      "onboard_time": 1738677025,
-      "rank": 0,
-      "category": "电影"
     },
     {
       "raw_hot": 2123012,
