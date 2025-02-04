@@ -1,0 +1,410 @@
+{
+  "runTime": 1738637891987,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1027366,
+        "num": 1164378,
+        "word": "女子4次陪老公跨越260公里悼念亡妻",
+        "onboard_time": 1738631001,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 649813,
+        "num": 649813,
+        "word": "DeepSeek回答如何过好这一生",
+        "onboard_time": 1738624635,
+        "rank": 1,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 24490,
+        "num": 504482,
+        "word": "亚冬会火炬传递圆满结束",
+        "onboard_time": 1738589309,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1937618,
+        "num": 500462,
+        "word": "大S就医时或已错过治疗黄金期",
+        "onboard_time": 1738636102,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 492685,
+        "num": 492685,
+        "word": "饺子导演 你别累着但也别闲着",
+        "onboard_time": 1738635204,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 299278,
+        "num": 299278,
+        "word": "学医的老公回村过年邻居8点排队看病",
+        "onboard_time": 1738631061,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 398869,
+        "num": 294452,
+        "word": "流浪地球给哪吒做的贺图",
+        "onboard_time": 1738626137,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 321195,
+        "num": 292229,
+        "word": "哪吒之魔童闹海票房破42亿",
+        "onboard_time": 1738630221,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 286258,
+        "num": 286258,
+        "word": "明天上班",
+        "onboard_time": 1738624035,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272102,
+        "num": 272102,
+        "word": "闭眼除夕睁眼初七",
+        "onboard_time": 1738635083,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1651568,
+        "num": 270623,
+        "word": "具俊晔崩溃",
+        "onboard_time": 1738629080,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265845,
+        "num": 265845,
+        "word": "最后一天假期怎么过",
+        "onboard_time": 1738634123,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1388485,
+        "num": 258556,
+        "word": "吴佩慈受访时泣不成声",
+        "onboard_time": 1738636404,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223941,
+        "num": 223941,
+        "word": "休2上4休1",
+        "onboard_time": 1738637423,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1387229,
+        "num": 223128,
+        "word": "小S曾在姐姐去世前几小时和妈妈跳舞",
+        "onboard_time": 1738629201,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222115,
+        "num": 222115,
+        "word": "奥司他韦不能乱吃",
+        "onboard_time": 1738592372,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 705327,
+        "num": 220144,
+        "word": "遇见熙媛5363天",
+        "onboard_time": 1738630461,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177410,
+        "num": 217205,
+        "word": "蛇年春节盘点",
+        "onboard_time": 1738637245,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105579,
+        "num": 212828,
+        "word": "流感的严重性被很多人低估了",
+        "onboard_time": 1738636645,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 576767,
+        "num": 207423,
+        "word": "大S曾邀请新人时的陈紫函一起候场",
+        "onboard_time": 1738637483,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309124,
+        "num": 206197,
+        "word": "哪吒3",
+        "onboard_time": 1738630041,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202305,
+        "num": 202305,
+        "word": "返程开车牢记这几个细节",
+        "onboard_time": 1738631001,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242303,
+        "num": 201890,
+        "word": "饺子导演手绘无表情哪吒",
+        "onboard_time": 1738636223,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195240,
+        "num": 195240,
+        "word": "人心中的成见是一座大山 那很漂亮了",
+        "onboard_time": 1738634842,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 211881,
+        "num": 195094,
+        "word": "田嘉瑞哪吒2观后感",
+        "onboard_time": 1738636762,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 194071,
+        "num": 194071,
+        "word": "小S两个女儿回台",
+        "onboard_time": 1738590329,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173125,
+        "num": 173125,
+        "word": "石矶娘娘心态",
+        "onboard_time": 1738635984,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172738,
+        "num": 172738,
+        "word": "小米集团市值突破万亿港元",
+        "onboard_time": 1738636283,
+        "rank": 27,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 170323,
+        "num": 170323,
+        "word": "正月初七为啥称为人日",
+        "onboard_time": 1738631001,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156945,
+        "num": 156945,
+        "word": "卧室再小也能做个衣帽间",
+        "onboard_time": 1738628780,
+        "rank": 29,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 148046,
+        "num": 148046,
+        "word": "泽连斯基称不知道美国给的钱去了哪里",
+        "onboard_time": 1738629739,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147131,
+        "num": 147131,
+        "word": "射雕疑似被恶意打分",
+        "onboard_time": 1738603457,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146185,
+        "num": 146185,
+        "word": "多地返程遇雨雪",
+        "onboard_time": 1738635083,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142399,
+        "num": 142399,
+        "word": "门牙上的豁口真是嗑瓜子嗑出来的吗",
+        "onboard_time": 1738631001,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 132986,
+        "num": 132986,
+        "word": "直播春运返程高峰",
+        "onboard_time": 1738636163,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123941,
+        "num": 123941,
+        "word": "王楚钦说低潮期一度崩溃",
+        "onboard_time": 1738636283,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115635,
+        "num": 115635,
+        "word": "小蛇糕",
+        "onboard_time": 1738629020,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115223,
+        "num": 115223,
+        "word": "藕饼",
+        "onboard_time": 1738626017,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111169,
+        "num": 111169,
+        "word": "美将停止资助联合国巴勒斯坦救助机构",
+        "onboard_time": 1738632381,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110733,
+        "num": 110733,
+        "word": "被诬陷偷拍男子结婚了",
+        "onboard_time": 1738628720,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108955,
+        "num": 108955,
+        "word": "和肖战一起执梦为剑快意江湖",
+        "onboard_time": 1738637543,
+        "rank": 40,
+        "category": "电影,民生新闻"
+      },
+      {
+        "raw_hot": 99853,
+        "num": 99853,
+        "word": "美国将再次退出联合国人权理事会",
+        "onboard_time": 1738628780,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96935,
+        "num": 96935,
+        "word": "多平台宣布上线DeepSeek大模型",
+        "onboard_time": 1738632803,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 95238,
+        "num": 95238,
+        "word": "怎么假期就最后一天了",
+        "onboard_time": 1738624515,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93703,
+        "num": 93703,
+        "word": "徐妈妈希望外界给予徐家人一点时间",
+        "onboard_time": 1738626978,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92444,
+        "num": 92444,
+        "word": "库班对东契奇交易感到困惑",
+        "onboard_time": 1738631001,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85396,
+        "num": 85396,
+        "word": "C罗认为自己是历史最佳",
+        "onboard_time": 1738637363,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83946,
+        "num": 83946,
+        "word": "特朗普将与内塔尼亚胡会面",
+        "onboard_time": 1738637722,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83097,
+        "num": 83097,
+        "word": "光线要拍敖丙传",
+        "onboard_time": 1738595671,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 80955,
+        "num": 80955,
+        "word": "厄瓜多尔对墨西哥加征27%的关税",
+        "onboard_time": 1738636283,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记从剪纸感受春日美好#"
+    }
+  }
+}

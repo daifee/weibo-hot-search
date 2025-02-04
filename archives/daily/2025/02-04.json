@@ -1,6 +1,6 @@
 {
   "startTime": 1738600055579,
-  "endTime": 1738637349879,
+  "endTime": 1738637891987,
   "band_list": [
     {
       "raw_hot": 2344339,
@@ -28,10 +28,18 @@
     },
     {
       "raw_hot": 2031112,
-      "num": 483601,
+      "num": 500462,
       "word": "大S就医时或已错过治疗黄金期",
       "onboard_time": 1738636102,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1388485,
+      "num": 259080,
+      "word": "吴佩慈受访时泣不成声",
+      "onboard_time": 1738636404,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -48,14 +56,6 @@
       "word": "汪小菲说大S是我的家人",
       "onboard_time": 1738584151,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1165432,
-      "num": 259080,
-      "word": "吴佩慈受访时泣不成声",
-      "onboard_time": 1738636404,
-      "rank": 14,
       "category": "艺人"
     },
     {
@@ -107,6 +107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 576767,
+      "num": 207423,
+      "word": "大S曾邀请新人时的陈紫函一起候场",
+      "onboard_time": 1738637483,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 561430,
       "num": 101983,
       "word": "林志玲发文悼念大S",
@@ -135,6 +143,14 @@
       "num": 389471,
       "word": "哪吒逆跌",
       "onboard_time": 1738592611,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 492685,
+      "num": 492685,
+      "word": "饺子导演 你别累着但也别闲着",
+      "onboard_time": 1738635204,
       "rank": 6,
       "category": "电影"
     },
@@ -193,14 +209,6 @@
       "onboard_time": 1738624035,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 364765,
-      "num": 316873,
-      "word": "饺子导演 你别累着但也别闲着",
-      "onboard_time": 1738635204,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 360762,
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 249673,
-      "num": 174400,
+      "num": 201890,
       "word": "饺子导演手绘无表情哪吒",
       "onboard_time": 1738636223,
       "rank": 20,
@@ -304,6 +312,14 @@
       "word": "正月初七为啥称为人日",
       "onboard_time": 1738631001,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 223941,
+      "num": 223941,
+      "word": "休2上4休1",
+      "onboard_time": 1738637423,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -323,11 +339,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 205585,
-      "num": 173394,
+      "raw_hot": 211881,
+      "num": 195094,
       "word": "田嘉瑞哪吒2观后感",
       "onboard_time": 1738636762,
       "rank": 22,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 195240,
+      "num": 195240,
+      "word": "人心中的成见是一座大山 那很漂亮了",
+      "onboard_time": 1738634842,
+      "rank": 23,
       "category": "电影"
     },
     {
@@ -337,14 +361,6 @@
       "onboard_time": 1738631001,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 191382,
-      "num": 173088,
-      "word": "人心中的成见是一座大山 那很漂亮了",
-      "onboard_time": 1738634842,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 189566,
@@ -379,12 +395,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177410,
+      "num": 217205,
+      "word": "蛇年春节盘点",
+      "onboard_time": 1738637245,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174531,
       "num": 307686,
       "word": "成毅登上日本杂志封面",
       "onboard_time": 1738600403,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 173125,
+      "num": 173125,
+      "word": "石矶娘娘心态",
+      "onboard_time": 1738635984,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 172738,
+      "num": 172738,
+      "word": "小米集团市值突破万亿港元",
+      "onboard_time": 1738636283,
+      "rank": 31,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 172459,
@@ -475,14 +515,6 @@
       "category": "综艺,美食"
     },
     {
-      "raw_hot": 145746,
-      "num": 145746,
-      "word": "石矶娘娘心态",
-      "onboard_time": 1738635984,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 145642,
       "num": 145642,
       "word": "直播春运返程高峰",
@@ -523,28 +555,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 141016,
-      "num": 141016,
-      "word": "小米集团市值突破万亿港元",
-      "onboard_time": 1738636283,
-      "rank": 31,
-      "category": "互联网,财经"
-    },
-    {
       "raw_hot": 139970,
       "num": 139970,
       "word": "美国将再次退出联合国人权理事会",
       "onboard_time": 1738628780,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 139435,
-      "num": 139435,
-      "word": "蛇年春节盘点",
-      "onboard_time": 1738637245,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 138918,
@@ -635,6 +651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 108955,
+      "num": 108955,
+      "word": "和肖战一起执梦为剑快意江湖",
+      "onboard_time": 1738637543,
+      "rank": 40,
+      "category": "电影,民生新闻"
+    },
+    {
       "raw_hot": 108877,
       "num": 306615,
       "word": "多位博主曾建议近期不要赴日本旅游",
@@ -665,6 +689,14 @@
       "onboard_time": 1738591411,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 105579,
+      "num": 302770,
+      "word": "流感的严重性被很多人低估了",
+      "onboard_time": 1738636645,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 104079,
@@ -723,12 +755,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85396,
+      "num": 85396,
+      "word": "C罗认为自己是历史最佳",
+      "onboard_time": 1738637363,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84911,
       "num": 84911,
       "word": "月球表面5日将浮现X形地貌",
       "onboard_time": 1738637065,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83946,
+      "num": 83946,
+      "word": "特朗普将与内塔尼亚胡会面",
+      "onboard_time": 1738637722,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 83053,
@@ -857,14 +905,6 @@
       "onboard_time": 1738572028,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 48318,
-      "num": 302770,
-      "word": "流感的严重性被很多人低估了",
-      "onboard_time": 1738636645,
-      "rank": 9,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 44652,
