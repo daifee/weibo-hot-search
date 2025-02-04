@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738682658298,
+  "endTime": 1738683496697,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -907,6 +907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 962494,
+      "num": 346177,
+      "word": "观众称看射雕如坐针毡",
+      "onboard_time": 1738679664,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 961672,
       "num": 961672,
       "word": "奥司他韦不能乱吃",
@@ -1243,14 +1251,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 730934,
-      "num": 346177,
-      "word": "观众称看射雕如坐针毡",
-      "onboard_time": 1738679664,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 728866,
       "num": 728866,
       "word": "从春晚配角到主角他熬了20年",
@@ -1345,6 +1345,14 @@
       "onboard_time": 1738559857,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 680289,
+      "num": 330429,
+      "word": "哪吒之魔童闹海总票房破48亿",
+      "onboard_time": 1738679664,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 676106,
@@ -1651,14 +1659,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 565821,
-      "num": 324849,
-      "word": "哪吒之魔童闹海总票房破48亿",
-      "onboard_time": 1738679664,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
       "raw_hot": 564907,
       "num": 436303,
       "word": "电影票房高低反映观众的选择",
@@ -1737,6 +1737,14 @@
       "onboard_time": 1738390997,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 540756,
+      "num": 274159,
+      "word": "谢娜的教育方式与众不同",
+      "onboard_time": 1738681706,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 540448,
@@ -2009,14 +2017,6 @@
       "onboard_time": 1738540515,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 485325,
-      "num": 230151,
-      "word": "谢娜的教育方式与众不同",
-      "onboard_time": 1738681706,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 484380,
@@ -2939,6 +2939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 329170,
+      "num": 237664,
+      "word": "猫眼预测",
+      "onboard_time": 1738681885,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 327552,
       "num": 327552,
       "word": "有人返程有人还在原地满勤",
@@ -3243,6 +3251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 292141,
+      "num": 292141,
+      "word": "今晚记得打开闹钟",
+      "onboard_time": 1738679724,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 291205,
       "num": 291205,
       "word": "金店店主怕金价不涨又怕涨得太快",
@@ -3491,6 +3507,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 258399,
+      "num": 258399,
+      "word": "已经到不爱吃零食的地步了",
+      "onboard_time": 1738675104,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 258394,
       "num": 258394,
       "word": "哪吒2连续三日票房逆跌",
@@ -3633,14 +3657,6 @@
       "onboard_time": 1738323319,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 250119,
-      "num": 250119,
-      "word": "已经到不爱吃零食的地步了",
-      "onboard_time": 1738675104,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 250080,
@@ -3945,14 +3961,6 @@
       "onboard_time": 1738591411,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 231810,
-      "num": 231810,
-      "word": "今晚记得打开闹钟",
-      "onboard_time": 1738679724,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 231584,
@@ -4443,14 +4451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 208381,
-      "num": 199173,
-      "word": "猫眼预测",
-      "onboard_time": 1738681885,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 208225,
       "num": 208225,
       "word": "白宇魏大勋同游三亚",
@@ -4569,6 +4569,14 @@
       "onboard_time": 1738547545,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204123,
+      "num": 204123,
+      "word": "王者荣耀",
+      "onboard_time": 1738498040,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 203887,
@@ -5592,14 +5600,6 @@
       "word": "福气码",
       "onboard_time": 1738416438,
       "rank": 16,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 176376,
-      "num": 176376,
-      "word": "王者荣耀",
-      "onboard_time": 1738498040,
-      "rank": 34,
       "category": "游戏"
     },
     {
@@ -6747,6 +6747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146182,
+      "num": 142354,
+      "word": "杨颖民国新娘单手持枪反差感",
+      "onboard_time": 1738681524,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146054,
       "num": 188497,
       "word": "李小冉否认制片人老公",
@@ -7371,6 +7379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130600,
+      "num": 291608,
+      "word": "后备箱不能开一开东西全掉了",
+      "onboard_time": 1738679787,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130551,
       "num": 175337,
       "word": "刘昊然 振邦哥哥别笑了我害怕",
@@ -7465,6 +7481,14 @@
       "onboard_time": 1738645883,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 128871,
+      "num": 128871,
+      "word": "接王长田事业运",
+      "onboard_time": 1738682605,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 128776,
@@ -7673,14 +7697,6 @@
       "onboard_time": 1738673905,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124186,
-      "num": 200590,
-      "word": "后备箱不能开一开东西全掉了",
-      "onboard_time": 1738679787,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124150,
@@ -8571,14 +8587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103890,
-      "num": 126655,
-      "word": "杨颖民国新娘单手持枪反差感",
-      "onboard_time": 1738681524,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 103853,
       "num": 103853,
       "word": "火箭",
@@ -8593,6 +8601,14 @@
       "onboard_time": 1738422559,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 103823,
+      "num": 126412,
+      "word": "女生羽绒服破洞地铁下起鹅绒雪",
+      "onboard_time": 1738680924,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103640,
@@ -8657,14 +8673,6 @@
       "onboard_time": 1738670065,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 102243,
-      "num": 126604,
-      "word": "接王长田事业运",
-      "onboard_time": 1738682605,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 102139,
@@ -8808,14 +8816,6 @@
       "word": "2025春运",
       "onboard_time": 1738576889,
       "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 99146,
-      "num": 126412,
-      "word": "女生羽绒服破洞地铁下起鹅绒雪",
-      "onboard_time": 1738680924,
-      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -9340,7 +9340,7 @@
     },
     {
       "raw_hot": 83303,
-      "num": 860191,
+      "num": 965949,
       "word": "春节假期兴起入境定制游",
       "onboard_time": 1738675764,
       "rank": 2,

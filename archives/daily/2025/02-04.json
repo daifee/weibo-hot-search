@@ -1,6 +1,6 @@
 {
   "startTime": 1738600055579,
-  "endTime": 1738682658298,
+  "endTime": 1738683496697,
   "band_list": [
     {
       "raw_hot": 6995860,
@@ -267,6 +267,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 962494,
+      "num": 346177,
+      "word": "观众称看射雕如坐针毡",
+      "onboard_time": 1738679664,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 936659,
       "num": 566148,
       "word": "唐人街探案祝贺哪吒",
@@ -323,20 +331,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 730934,
-      "num": 346177,
-      "word": "观众称看射雕如坐针毡",
-      "onboard_time": 1738679664,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 710784,
       "num": 710784,
       "word": "史上第一个被按斤卖掉的男主",
       "onboard_time": 1738641322,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 680289,
+      "num": 330429,
+      "word": "哪吒之魔童闹海总票房破48亿",
+      "onboard_time": 1738679664,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 674160,
@@ -427,14 +435,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 565821,
-      "num": 324849,
-      "word": "哪吒之魔童闹海总票房破48亿",
-      "onboard_time": 1738679664,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
       "raw_hot": 561430,
       "num": 101983,
       "word": "林志玲发文悼念大S",
@@ -465,6 +465,14 @@
       "onboard_time": 1738651342,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 540756,
+      "num": 274159,
+      "word": "谢娜的教育方式与众不同",
+      "onboard_time": 1738681706,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 539440,
@@ -529,14 +537,6 @@
       "onboard_time": 1738592611,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 485325,
-      "num": 230151,
-      "word": "谢娜的教育方式与众不同",
-      "onboard_time": 1738681706,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 484380,
@@ -755,6 +755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 329170,
+      "num": 237664,
+      "word": "猫眼预测",
+      "onboard_time": 1738681885,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 324681,
       "num": 309201,
       "word": "泽连斯基称不知道美国给的钱去了哪里",
@@ -835,6 +843,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 292141,
+      "num": 292141,
+      "word": "今晚记得打开闹钟",
+      "onboard_time": 1738679724,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 289931,
       "num": 274060,
       "word": "影史票房前5有两个哪吒",
@@ -875,20 +891,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 258399,
+      "num": 258399,
+      "word": "已经到不爱吃零食的地步了",
+      "onboard_time": 1738675104,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 254854,
       "num": 254854,
       "word": "孟子义人怎么能闯出这么大的祸",
       "onboard_time": 1738655964,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 250119,
-      "num": 250119,
-      "word": "已经到不爱吃零食的地步了",
-      "onboard_time": 1738675104,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 250080,
@@ -985,14 +1001,6 @@
       "onboard_time": 1738675283,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 231810,
-      "num": 231810,
-      "word": "今晚记得打开闹钟",
-      "onboard_time": 1738679724,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 231584,
@@ -1155,14 +1163,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 208381,
-      "num": 199173,
-      "word": "猫眼预测",
-      "onboard_time": 1738681885,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 208225,
       "num": 208225,
       "word": "白宇魏大勋同游三亚",
@@ -1185,6 +1185,14 @@
       "onboard_time": 1738639043,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 204123,
+      "num": 204123,
+      "word": "王者荣耀",
+      "onboard_time": 1738682065,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 203887,
@@ -1433,14 +1441,6 @@
       "onboard_time": 1738646243,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 176376,
-      "num": 176376,
-      "word": "王者荣耀",
-      "onboard_time": 1738682065,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 174531,
@@ -1803,6 +1803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146182,
+      "num": 142354,
+      "word": "杨颖民国新娘单手持枪反差感",
+      "onboard_time": 1738681524,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145642,
       "num": 252104,
       "word": "直播春运返程高峰",
@@ -1987,6 +1995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130600,
+      "num": 291608,
+      "word": "后备箱不能开一开东西全掉了",
+      "onboard_time": 1738679787,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130359,
       "num": 192532,
       "word": "C罗认为自己是历史最佳",
@@ -2011,6 +2027,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 128871,
+      "num": 128871,
+      "word": "接王长田事业运",
+      "onboard_time": 1738682605,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 127006,
       "num": 306726,
       "word": "专家称癫痫通常不是流感高危因素",
@@ -2025,14 +2049,6 @@
       "onboard_time": 1738673905,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124186,
-      "num": 200590,
-      "word": "后备箱不能开一开东西全掉了",
-      "onboard_time": 1738679787,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 123859,
@@ -2291,12 +2307,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 103890,
-      "num": 126655,
-      "word": "杨颖民国新娘单手持枪反差感",
-      "onboard_time": 1738681524,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 103823,
+      "num": 126412,
+      "word": "女生羽绒服破洞地铁下起鹅绒雪",
+      "onboard_time": 1738680924,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103640,
@@ -2321,14 +2337,6 @@
       "onboard_time": 1738670065,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 102243,
-      "num": 126604,
-      "word": "接王长田事业运",
-      "onboard_time": 1738682605,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 101547,
@@ -2377,14 +2385,6 @@
       "onboard_time": 1738656024,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 99146,
-      "num": 126412,
-      "word": "女生羽绒服破洞地铁下起鹅绒雪",
-      "onboard_time": 1738680924,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98942,
@@ -2596,7 +2596,7 @@
     },
     {
       "raw_hot": 83303,
-      "num": 860191,
+      "num": 965949,
       "word": "春节假期兴起入境定制游",
       "onboard_time": 1738675764,
       "rank": 2,
