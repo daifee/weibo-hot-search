@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738654534507,
+  "endTime": 1738657713105,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -441,6 +441,14 @@
       "onboard_time": 1738515616,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1426517,
+      "num": 305840,
+      "word": "小S取消节目录制",
+      "onboard_time": 1738655964,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1411944,
@@ -1203,6 +1211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 677816,
+      "num": 677816,
+      "word": "满江红祝贺哪吒",
+      "onboard_time": 1738655005,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 676106,
       "num": 676106,
       "word": "梁洁居然还戴着白色橄榄树红绳",
@@ -1361,6 +1377,14 @@
       "onboard_time": 1738590269,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 602776,
+      "num": 319426,
+      "word": "中国影史总榜哪吒2居8望7",
+      "onboard_time": 1738651282,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 595826,
@@ -2499,12 +2523,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 339679,
+      "num": 311850,
+      "word": "日本东京一护士谈感冒药短缺",
+      "onboard_time": 1738655065,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 337417,
       "num": 337417,
       "word": "邓为勇闯贞洁烈男赛道",
       "onboard_time": 1738554185,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 336243,
+      "num": 257504,
+      "word": "女子套圈300个一碰东西就反弹",
+      "onboard_time": 1738657462,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 336122,
@@ -2681,6 +2721,14 @@
       "onboard_time": 1738420759,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 321741,
+      "num": 321741,
+      "word": "医生提醒重度干眼症可致失明",
+      "onboard_time": 1738655905,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 318130,
@@ -3203,6 +3251,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 254854,
+      "num": 254854,
+      "word": "孟子义人怎么能闯出这么大的祸",
+      "onboard_time": 1738655964,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254666,
       "num": 254666,
       "word": "哪吒2一条锁链就做了近4个月",
@@ -3305,6 +3361,14 @@
       "onboard_time": 1738552229,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 246088,
+      "num": 246088,
+      "word": "哪吒之魔童闹海票房突破45亿",
+      "onboard_time": 1738654285,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 246082,
@@ -3457,14 +3521,6 @@
       "onboard_time": 1738408878,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 236522,
-      "num": 271843,
-      "word": "中国影史总榜哪吒2居8望7",
-      "onboard_time": 1738651282,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 236337,
@@ -3745,6 +3801,14 @@
       "onboard_time": 1738631001,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219756,
+      "num": 219756,
+      "word": "林依晨回忆被求婚细节",
+      "onboard_time": 1738655964,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 219523,
@@ -4075,12 +4139,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 202192,
+      "num": 298733,
+      "word": "亲手制作是中国人的最高礼遇",
+      "onboard_time": 1738656744,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202083,
       "num": 202083,
       "word": "独行侠",
       "onboard_time": 1738477096,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201901,
+      "num": 201901,
+      "word": "丁禹兮迪士尼演职人员",
+      "onboard_time": 1738656925,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 201608,
@@ -4281,6 +4361,14 @@
       "onboard_time": 1738634842,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 195186,
+      "num": 266709,
+      "word": "金毛被打招呼踩着主人隔窗热情回应",
+      "onboard_time": 1738650922,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195116,
@@ -5011,14 +5099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173184,
-      "num": 158613,
-      "word": "哪吒之魔童闹海票房突破45亿",
-      "onboard_time": 1738654285,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 172775,
       "num": 172775,
       "word": "娜然说妲己是殷寿欲望的放大镜",
@@ -5579,14 +5659,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 156732,
-      "num": 156732,
-      "word": "金毛被打招呼踩着主人隔窗热情回应",
-      "onboard_time": 1738650922,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156593,
       "num": 156593,
       "word": "独行侠主动要求交易东契奇",
@@ -5745,6 +5817,14 @@
       "onboard_time": 1738394117,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 152267,
+      "num": 152267,
+      "word": "教育孩子最好的方式就是夫妻聊天",
+      "onboard_time": 1738655905,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 152239,
@@ -6009,6 +6089,14 @@
       "onboard_time": 1738463117,
       "rank": 35,
       "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 145014,
+      "num": 145014,
+      "word": "观众真把封神2用在刀刃上",
+      "onboard_time": 1738656324,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 144808,
@@ -7059,6 +7147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117186,
+      "num": 117186,
+      "word": "吃撑后24小时身体有什么变化",
+      "onboard_time": 1738655425,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 116547,
       "num": 1474146,
       "word": "张极染金发了",
@@ -7225,6 +7321,14 @@
       "onboard_time": 1738590870,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112627,
+      "num": 112627,
+      "word": "谢娜害我莫名其妙笑了一下",
+      "onboard_time": 1738655964,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 112546,
@@ -7771,6 +7875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99651,
+      "num": 99651,
+      "word": "刘昊然虎牙笑起来收不回去",
+      "onboard_time": 1738656024,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 99320,
       "num": 303753,
       "word": "巴特勒不愿续约勇士",
@@ -7784,6 +7896,14 @@
       "word": "2025春运",
       "onboard_time": 1738576889,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98971,
+      "num": 98971,
+      "word": "3人落水被机器人救起",
+      "onboard_time": 1738657104,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -8179,6 +8299,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 84606,
+      "num": 84606,
+      "word": "陈哲远复工",
+      "onboard_time": 1738655303,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84475,
       "num": 269141,
       "word": "83岁院士说美国封锁不住中国的",
@@ -8217,6 +8345,14 @@
       "onboard_time": 1738457416,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 83603,
+      "num": 157635,
+      "word": "迪丽热巴晒包",
+      "onboard_time": 1738656864,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 83366,
@@ -8939,6 +9075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 47014,
+      "num": 220337,
+      "word": "林诗栋蒯曼3比1倪夏莲组合",
+      "onboard_time": 1738657405,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 46990,
       "num": 46990,
       "word": "老板回应净赚53.2万全给员工",
@@ -9025,6 +9169,14 @@
       "onboard_time": 1738469417,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43550,
+      "num": 221455,
+      "word": "行李箱里的牵挂",
+      "onboard_time": 1738657104,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 43262,
@@ -9465,6 +9617,14 @@
       "onboard_time": 1738335559,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 23939,
+      "num": 290156,
+      "word": "常被忽视的流感为何如此凶险",
+      "onboard_time": 1738656145,
+      "rank": 14,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 23790,

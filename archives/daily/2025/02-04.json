@@ -1,6 +1,6 @@
 {
   "startTime": 1738600055579,
-  "endTime": 1738654534507,
+  "endTime": 1738657713105,
   "band_list": [
     {
       "raw_hot": 4314287,
@@ -81,6 +81,14 @@
       "onboard_time": 1738647622,
       "rank": 0,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1426517,
+      "num": 305840,
+      "word": "小S取消节目录制",
+      "onboard_time": 1738655964,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1388485,
@@ -195,6 +203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 677816,
+      "num": 677816,
+      "word": "满江红祝贺哪吒",
+      "onboard_time": 1738655005,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 663443,
       "num": 663443,
       "word": "中方对美国部分进口商品加征关税",
@@ -224,6 +240,14 @@
       "word": "流浪地球给哪吒做的贺图",
       "onboard_time": 1738626137,
       "rank": 0,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 602776,
+      "num": 319426,
+      "word": "中国影史总榜哪吒2居8望7",
+      "onboard_time": 1738651282,
+      "rank": 47,
       "category": "电影"
     },
     {
@@ -387,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 353095,
+      "num": 295557,
+      "word": "哪吒2",
+      "onboard_time": 1738579768,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 348544,
       "num": 395158,
       "word": "流感合并肺炎有这些症状",
@@ -403,12 +435,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 339679,
+      "num": 311850,
+      "word": "日本东京一护士谈感冒药短缺",
+      "onboard_time": 1738655065,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 338132,
       "num": 325213,
       "word": "小S 感恩这辈子能成为她的姊妹",
       "onboard_time": 1738564112,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 336243,
+      "num": 257504,
+      "word": "女子套圈300个一碰东西就反弹",
+      "onboard_time": 1738657462,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 336122,
@@ -419,20 +467,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 333990,
-      "num": 295557,
-      "word": "哪吒2",
-      "onboard_time": 1738579768,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
       "raw_hot": 324681,
       "num": 309201,
       "word": "泽连斯基称不知道美国给的钱去了哪里",
       "onboard_time": 1738629739,
       "rank": 11,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 321741,
+      "num": 321741,
+      "word": "医生提醒重度干眼症可致失明",
+      "onboard_time": 1738655905,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 313363,
@@ -515,11 +563,27 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 254854,
+      "num": 254854,
+      "word": "孟子义人怎么能闯出这么大的祸",
+      "onboard_time": 1738655964,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 249673,
       "num": 201890,
       "word": "饺子导演手绘无表情哪吒",
       "onboard_time": 1738636223,
       "rank": 20,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 246088,
+      "num": 246088,
+      "word": "哪吒之魔童闹海票房突破45亿",
+      "onboard_time": 1738654285,
+      "rank": 27,
       "category": "电影"
     },
     {
@@ -545,14 +609,6 @@
       "onboard_time": 1738639943,
       "rank": 15,
       "category": "互联网,国际时政"
-    },
-    {
-      "raw_hot": 236522,
-      "num": 271843,
-      "word": "中国影史总榜哪吒2居8望7",
-      "onboard_time": 1738651282,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 231584,
@@ -603,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 219756,
+      "num": 219756,
+      "word": "林依晨回忆被求婚细节",
+      "onboard_time": 1738655964,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219523,
       "num": 191817,
       "word": "陈哲远把剧组小狗领养了",
@@ -635,6 +699,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 202192,
+      "num": 298733,
+      "word": "亲手制作是中国人的最高礼遇",
+      "onboard_time": 1738656744,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201901,
+      "num": 201901,
+      "word": "丁禹兮迪士尼演职人员",
+      "onboard_time": 1738656925,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199776,
       "num": 183124,
       "word": "莲花楼日本霸榜14冠",
@@ -649,6 +729,14 @@
       "onboard_time": 1738634842,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 195186,
+      "num": 266709,
+      "word": "金毛被打招呼踩着主人隔窗热情回应",
+      "onboard_time": 1738650922,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191411,
@@ -763,14 +851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173184,
-      "num": 158613,
-      "word": "哪吒之魔童闹海票房突破45亿",
-      "onboard_time": 1738654285,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 172738,
       "num": 172738,
       "word": "小米集团市值突破万亿港元",
@@ -883,14 +963,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 156732,
-      "num": 156732,
-      "word": "金毛被打招呼踩着主人隔窗热情回应",
-      "onboard_time": 1738650922,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156133,
       "num": 156133,
       "word": "电影票票价",
@@ -931,6 +1003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152267,
+      "num": 152267,
+      "word": "教育孩子最好的方式就是夫妻聊天",
+      "onboard_time": 1738655905,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 152239,
       "num": 148057,
       "word": "粉丝写给珊的最后一封信",
@@ -969,6 +1049,14 @@
       "onboard_time": 1738636163,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145014,
+      "num": 145014,
+      "word": "观众真把封神2用在刀刃上",
+      "onboard_time": 1738656324,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 144289,
@@ -1155,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117186,
+      "num": 117186,
+      "word": "吃撑后24小时身体有什么变化",
+      "onboard_time": 1738655425,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 116539,
       "num": 227612,
       "word": "春节无处不在的潘展乐",
@@ -1185,6 +1281,14 @@
       "onboard_time": 1738632381,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 112627,
+      "num": 112627,
+      "word": "谢娜害我莫名其妙笑了一下",
+      "onboard_time": 1738655964,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 112316,
@@ -1323,6 +1427,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 99651,
+      "num": 99651,
+      "word": "刘昊然虎牙笑起来收不回去",
+      "onboard_time": 1738656024,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 98971,
+      "num": 98971,
+      "word": "3人落水被机器人救起",
+      "onboard_time": 1738657104,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98942,
       "num": 98942,
       "word": "多平台宣布上线DeepSeek大模型",
@@ -1435,6 +1555,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 84606,
+      "num": 84606,
+      "word": "陈哲远复工",
+      "onboard_time": 1738655303,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84049,
       "num": 84049,
       "word": "任何搅局南海的军事活动尽在掌握",
@@ -1449,6 +1577,14 @@
       "onboard_time": 1738637722,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 83603,
+      "num": 157635,
+      "word": "迪丽热巴晒包",
+      "onboard_time": 1738656864,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 83053,
@@ -1627,6 +1763,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 47014,
+      "num": 220337,
+      "word": "林诗栋蒯曼3比1倪夏莲组合",
+      "onboard_time": 1738657405,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45699,
       "num": 235384,
       "word": "黄镇廷杜凯琹3比0姚钧涛长崎美柚",
@@ -1641,6 +1785,14 @@
       "onboard_time": 1738602559,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43550,
+      "num": 221455,
+      "word": "行李箱里的牵挂",
+      "onboard_time": 1738657104,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 43319,
@@ -1721,6 +1873,14 @@
       "onboard_time": 1738589309,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23939,
+      "num": 290156,
+      "word": "常被忽视的流感为何如此凶险",
+      "onboard_time": 1738656145,
+      "rank": 14,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 23552,
