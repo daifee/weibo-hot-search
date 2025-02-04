@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738647517934,
+  "endTime": 1738650679119,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 1804377,
-      "num": 250417,
+      "num": 888302,
       "word": "在日医生谈大S为何没被收住院",
       "onboard_time": 1738645163,
       "rank": 10,
@@ -353,6 +353,14 @@
       "onboard_time": 1738503980,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1598759,
+      "num": 1598759,
+      "word": "曝痞幼新恋情",
+      "onboard_time": 1738647622,
+      "rank": 0,
+      "category": "网红"
     },
     {
       "raw_hot": 1597648,
@@ -819,6 +827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 884341,
+      "num": 884341,
+      "word": "日本医院呼吁完全没药建议回家",
+      "onboard_time": 1738649004,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 876498,
       "num": 1140239,
       "word": "金价",
@@ -865,6 +881,14 @@
       "onboard_time": 1738373236,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 849139,
+      "num": 655825,
+      "word": "林依晨20岁就开始写遗书了",
+      "onboard_time": 1738649243,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 848560,
@@ -968,6 +992,14 @@
       "word": "饺子导演肉眼可见的变老",
       "onboard_time": 1738461977,
       "rank": 4,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 784918,
+      "num": 655625,
+      "word": "哪吒2票房",
+      "onboard_time": 1738418059,
+      "rank": 20,
       "category": "电影"
     },
     {
@@ -1177,6 +1209,14 @@
       "onboard_time": 1738424178,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 663443,
+      "num": 663443,
+      "word": "中方对美国部分进口商品加征关税",
+      "onboard_time": 1738646722,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 660840,
@@ -1435,6 +1475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 547557,
+      "num": 547557,
+      "word": "谷歌被立案调查",
+      "onboard_time": 1738647201,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 546700,
       "num": 446393,
       "word": "白色橄榄树热度",
@@ -1625,14 +1673,6 @@
       "onboard_time": 1738515616,
       "rank": 10,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 493453,
-      "num": 334813,
-      "word": "哪吒2票房",
-      "onboard_time": 1738418059,
-      "rank": 20,
-      "category": "电影"
     },
     {
       "raw_hot": 493383,
@@ -2411,14 +2451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 340952,
-      "num": 340952,
-      "word": "中方对美国部分进口商品加征关税",
-      "onboard_time": 1738646722,
-      "rank": 5,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 339821,
       "num": 272694,
       "word": "九重紫短剧",
@@ -2715,6 +2747,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 305037,
+      "num": 239357,
+      "word": "朴灿烈想看陈哲远偷偷藏不住",
+      "onboard_time": 1738649722,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 304988,
       "num": 382602,
       "word": "在极深地下2400米追光是什么体验",
@@ -2763,6 +2803,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 299609,
+      "num": 299609,
+      "word": "我国对钨碲铋钼铟相关物项出口管制",
+      "onboard_time": 1738647862,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 299570,
       "num": 299570,
       "word": "颜人中曾用迪丽热巴照片当壁纸",
@@ -2785,6 +2833,14 @@
       "onboard_time": 1738480217,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 295866,
+      "num": 237115,
+      "word": "具俊晔将手抱骨灰带大S回台湾",
+      "onboard_time": 1738650322,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 294494,
@@ -2945,6 +3001,14 @@
       "onboard_time": 1738581329,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 273883,
+      "num": 353860,
+      "word": "日本有医院呼吁流感患者回家休养",
+      "onboard_time": 1738647742,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 271264,
@@ -3403,6 +3467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 231584,
+      "num": 231584,
+      "word": "考古对象成了我对象",
+      "onboard_time": 1738646661,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 231304,
       "num": 210235,
       "word": "SM新男团开设新账号",
@@ -3739,20 +3811,20 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 211339,
-      "num": 211339,
-      "word": "考古对象成了我对象",
-      "onboard_time": 1738646661,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 210961,
       "num": 210961,
       "word": "90后北大选调生任乡镇党委书记",
       "onboard_time": 1738538894,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 210202,
+      "num": 210202,
+      "word": "鹿晗祝大家返程一路平安",
+      "onboard_time": 1738650082,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 209874,
@@ -4443,6 +4515,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 187610,
+      "num": 245164,
+      "word": "陈思诚系首位春节档票房破百亿导演",
+      "onboard_time": 1738648942,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 186858,
       "num": 132232,
       "word": "李昀锐哭的让人心痛",
@@ -4457,14 +4537,6 @@
       "onboard_time": 1738592492,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 186134,
-      "num": 186134,
-      "word": "谷歌被立案调查",
-      "onboard_time": 1738647201,
-      "rank": 24,
-      "category": "互联网"
     },
     {
       "raw_hot": 186116,
@@ -4707,6 +4779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178273,
+      "num": 178273,
+      "word": "种地吧",
+      "onboard_time": 1738647983,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178175,
       "num": 178175,
       "word": "特朗普称撞机事故都怪奥巴马和拜登",
@@ -4873,6 +4953,14 @@
       "onboard_time": 1738562493,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 173917,
+      "num": 173917,
+      "word": "白色橄榄树名场面是梁洁提的",
+      "onboard_time": 1738647862,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 172775,
@@ -5587,6 +5675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 152239,
+      "num": 104789,
+      "word": "粉丝写给珊的最后一封信",
+      "onboard_time": 1738648763,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152039,
       "num": 132513,
       "word": "刘诗诗只是一味的吊人胃口",
@@ -5673,6 +5769,14 @@
       "onboard_time": 1738338018,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 149051,
+      "num": 196430,
+      "word": "吴宣仪福慧孕肚装载过程大揭秘",
+      "onboard_time": 1738648283,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 149018,
@@ -6227,6 +6331,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 133858,
+      "num": 217820,
+      "word": "韩东君希望大家能多给蛟龙一些机会",
+      "onboard_time": 1738649363,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 133222,
       "num": 316601,
       "word": "OpenAI首席执行官谈DeepSeek",
@@ -6753,6 +6865,14 @@
       "onboard_time": 1738545498,
       "rank": 36,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 120298,
+      "num": 120298,
+      "word": "日本多地药店已无感冒药库存",
+      "onboard_time": 1738648223,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 120284,
@@ -7427,6 +7547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102581,
+      "num": 298952,
+      "word": "陈垣宇0比3张禹珍",
+      "onboard_time": 1738646722,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102516,
       "num": 102516,
       "word": "李现为古装簪花造型减重",
@@ -7593,14 +7721,6 @@
       "onboard_time": 1738406418,
       "rank": 44,
       "category": "军事"
-    },
-    {
-      "raw_hot": 97817,
-      "num": 298952,
-      "word": "陈垣宇0比3张禹珍",
-      "onboard_time": 1738646722,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 97495,
@@ -7913,6 +8033,14 @@
       "onboard_time": 1738421298,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84138,
+      "num": 98320,
+      "word": "六姊妹第一集就看哭了",
+      "onboard_time": 1738650562,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 83946,
@@ -8377,6 +8505,14 @@
       "onboard_time": 1738379777,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61142,
+      "num": 200670,
+      "word": "蛇来运转篮不住",
+      "onboard_time": 1738649423,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 61041,
@@ -8932,7 +9068,7 @@
     },
     {
       "raw_hot": 33162,
-      "num": 724547,
+      "num": 888499,
       "word": "致敬坚守的他们",
       "onboard_time": 1738640489,
       "rank": 2,
@@ -9537,6 +9673,14 @@
       "onboard_time": 1738355411,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 7100,
+      "num": 120934,
+      "word": "福克斯改号码致敬妻子",
+      "onboard_time": 1738648942,
+      "rank": 34,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
