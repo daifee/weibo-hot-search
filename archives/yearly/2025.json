@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738668962281,
+  "endTime": 1738672949699,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -753,6 +753,14 @@
       "onboard_time": 1736868979,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 3385913,
+      "num": 337094,
+      "word": "汪小菲现任妻子mandy发声",
+      "onboard_time": 1738670305,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 3376657,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736596708,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1893385,
-      "num": 1245842,
-      "word": "主人已将艾特遗体带回家",
-      "onboard_time": 1737339677,
-      "rank": 3,
-      "category": "网红"
     }
   ],
   "hotgov_list": [
