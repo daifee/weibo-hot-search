@@ -1,6 +1,6 @@
 {
   "startTime": 1738600055579,
-  "endTime": 1738646555191,
+  "endTime": 1738647517934,
   "band_list": [
     {
       "raw_hot": 4314287,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1804377,
-      "num": 228158,
+      "num": 250417,
       "word": "在日医生谈大S为何没被收住院",
       "onboard_time": 1738645163,
       "rank": 10,
@@ -64,6 +64,14 @@
       "word": "吴佩慈受访时泣不成声",
       "onboard_time": 1738636404,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1258917,
+      "num": 236076,
+      "word": "穆婷婷 大S是一个刚强的女人",
+      "onboard_time": 1738646123,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -105,14 +113,6 @@
       "onboard_time": 1738595671,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 827603,
-      "num": 223161,
-      "word": "穆婷婷 大S是一个刚强的女人",
-      "onboard_time": 1738646123,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 798371,
@@ -235,6 +235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 432951,
+      "num": 334813,
+      "word": "哪吒2票房",
+      "onboard_time": 1738645704,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 419278,
       "num": 245650,
       "word": "六姊妹首播收视率破3",
@@ -313,6 +321,14 @@
       "onboard_time": 1738642888,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 340952,
+      "num": 340952,
+      "word": "中方对美国部分进口商品加征关税",
+      "onboard_time": 1738646722,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 338132,
@@ -395,6 +411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 245225,
+      "num": 215295,
+      "word": "大侦探",
+      "onboard_time": 1738646302,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 244252,
       "num": 271332,
       "word": "中国代表回应DeepSeek引发轰动",
@@ -409,6 +433,14 @@
       "onboard_time": 1738631001,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 228147,
+      "num": 268241,
+      "word": "从华为到DeepSeek美国还想禁多少",
+      "onboard_time": 1738646123,
+      "rank": 19,
+      "category": "互联网,国际时政"
     },
     {
       "raw_hot": 227403,
@@ -451,6 +483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 211339,
+      "num": 211339,
+      "word": "考古对象成了我对象",
+      "onboard_time": 1738646661,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205599,
       "num": 205599,
       "word": "美加同意暂缓30天实施加征关税措施",
@@ -459,12 +499,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 200000,
-      "num": 190447,
-      "word": "哪吒2票房",
-      "onboard_time": 1738645704,
-      "rank": 24,
-      "category": "电影"
+      "raw_hot": 199776,
+      "num": 183124,
+      "word": "莲花楼日本霸榜14冠",
+      "onboard_time": 1738644381,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 195240,
@@ -497,6 +537,14 @@
       "onboard_time": 1738595069,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186134,
+      "num": 186134,
+      "word": "谷歌被立案调查",
+      "onboard_time": 1738647201,
+      "rank": 24,
+      "category": "互联网"
     },
     {
       "raw_hot": 184912,
@@ -555,12 +603,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 175986,
-      "num": 175986,
-      "word": "莲花楼日本霸榜14冠",
-      "onboard_time": 1738644381,
-      "rank": 32,
-      "category": "剧集"
+      "raw_hot": 176686,
+      "num": 172586,
+      "word": "央视新闻报道了射雕",
+      "onboard_time": 1738646243,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 174531,
@@ -577,14 +625,6 @@
       "onboard_time": 1738636283,
       "rank": 31,
       "category": "互联网,财经"
-    },
-    {
-      "raw_hot": 172586,
-      "num": 172586,
-      "word": "央视新闻报道了射雕",
-      "onboard_time": 1738646243,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 172459,
@@ -651,6 +691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 163538,
+      "num": 163538,
+      "word": "权志龙将于2月25日回归",
+      "onboard_time": 1738646123,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161636,
       "num": 195102,
       "word": "多地返程遇雨雪",
@@ -699,12 +747,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 150648,
-      "num": 150648,
-      "word": "权志龙将于2月25日回归",
-      "onboard_time": 1738646123,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 154038,
+      "num": 165565,
+      "word": "海外观众对梁洁新剧的评价",
+      "onboard_time": 1738647021,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 148443,
@@ -729,14 +777,6 @@
       "onboard_time": 1738636163,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 144396,
-      "num": 144396,
-      "word": "大侦探",
-      "onboard_time": 1738646302,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 144289,
@@ -772,7 +812,7 @@
     },
     {
       "raw_hot": 142433,
-      "num": 118677,
+      "num": 125412,
       "word": "熊出没不语只是一味逆袭",
       "onboard_time": 1738645104,
       "rank": 44,
@@ -803,6 +843,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 139899,
+      "num": 139899,
+      "word": "雷军 健身房打卡",
+      "onboard_time": 1738643722,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 138918,
       "num": 306752,
       "word": "李瓒听不到了",
@@ -819,14 +867,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 138184,
-      "num": 138184,
-      "word": "雷军 健身房打卡",
-      "onboard_time": 1738643722,
-      "rank": 44,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 134918,
       "num": 157239,
       "word": "春节假期最后一天状态",
@@ -835,20 +875,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 131892,
-      "num": 195598,
-      "word": "从华为到DeepSeek美国还想禁多少",
-      "onboard_time": 1738646123,
-      "rank": 19,
-      "category": "互联网,国际时政"
-    },
-    {
       "raw_hot": 130359,
       "num": 192532,
       "word": "C罗认为自己是历史最佳",
       "onboard_time": 1738637363,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129008,
+      "num": 129008,
+      "word": "中国代表问美国还想禁多少中国智造",
+      "onboard_time": 1738645883,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 127006,
@@ -881,6 +921,14 @@
       "onboard_time": 1738645822,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116539,
+      "num": 227612,
+      "word": "春节无处不在的潘展乐",
+      "onboard_time": 1738645464,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 116119,
@@ -921,6 +969,14 @@
       "onboard_time": 1738592071,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 111422,
+      "num": 111422,
+      "word": "汪卓成原声英语台词好苏",
+      "onboard_time": 1738647383,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 111340,
@@ -1019,14 +1075,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 99395,
-      "num": 99395,
-      "word": "中国代表问美国还想禁多少中国智造",
-      "onboard_time": 1738645883,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 98942,
       "num": 98942,
       "word": "多平台宣布上线DeepSeek大模型",
@@ -1035,19 +1083,19 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 97817,
+      "num": 298952,
+      "word": "陈垣宇0比3张禹珍",
+      "onboard_time": 1738646722,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94129,
       "num": 203527,
       "word": "C罗说金球奖毫无可信度",
       "onboard_time": 1738640002,
       "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 93961,
-      "num": 180757,
-      "word": "春节无处不在的潘展乐",
-      "onboard_time": 1738645464,
-      "rank": 29,
       "category": "体育"
     },
     {
@@ -1108,7 +1156,7 @@
     },
     {
       "raw_hot": 83053,
-      "num": 83053,
+      "num": 127032,
       "word": "太阳认真考虑交易杜兰特",
       "onboard_time": 1738637065,
       "rank": 49,
@@ -1256,6 +1304,14 @@
       "word": "陈垣宇vs张禹珍",
       "onboard_time": 1738642582,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 45699,
+      "num": 235384,
+      "word": "黄镇廷杜凯琹3比0姚钧涛长崎美柚",
+      "onboard_time": 1738646843,
+      "rank": 13,
       "category": "体育"
     },
     {

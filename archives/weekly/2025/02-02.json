@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738646555191,
+  "endTime": 1738647517934,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 1804377,
-      "num": 228158,
+      "num": 250417,
       "word": "在日医生谈大S为何没被收住院",
       "onboard_time": 1738645163,
       "rank": 10,
@@ -408,6 +408,14 @@
       "word": "S妈小梅回应",
       "onboard_time": 1738579768,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1258917,
+      "num": 236076,
+      "word": "穆婷婷 大S是一个刚强的女人",
+      "onboard_time": 1738646123,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -681,14 +689,6 @@
       "onboard_time": 1738468277,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 827603,
-      "num": 223161,
-      "word": "穆婷婷 大S是一个刚强的女人",
-      "onboard_time": 1738646123,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 820000,
@@ -1435,6 +1435,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 432951,
+      "num": 334813,
+      "word": "哪吒2票房",
+      "onboard_time": 1738505719,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 430652,
       "num": 430652,
       "word": "樊振东陈梦确定无缘世界杯",
@@ -1659,14 +1667,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 366686,
-      "num": 284969,
-      "word": "哪吒2票房",
-      "onboard_time": 1738505719,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 366282,
       "num": 1634931,
       "word": "杨丞琳发文悼念",
@@ -1817,6 +1817,14 @@
       "onboard_time": 1738470797,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 340952,
+      "num": 340952,
+      "word": "中方对美国部分进口商品加征关税",
+      "onboard_time": 1738646722,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 337417,
@@ -2371,6 +2379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 245225,
+      "num": 215295,
+      "word": "大侦探",
+      "onboard_time": 1738646302,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 244445,
       "num": 356805,
       "word": "点赞微博有小财神特效",
@@ -2489,6 +2505,14 @@
       "onboard_time": 1738631001,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 228147,
+      "num": 268241,
+      "word": "从华为到DeepSeek美国还想禁多少",
+      "onboard_time": 1738646123,
+      "rank": 19,
+      "category": "互联网,国际时政"
     },
     {
       "raw_hot": 227403,
@@ -2699,6 +2723,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 211339,
+      "num": 211339,
+      "word": "考古对象成了我对象",
+      "onboard_time": 1738646661,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210961,
       "num": 210961,
       "word": "90后北大选调生任乡镇党委书记",
@@ -2896,6 +2928,14 @@
       "word": "颖儿演比夏冬春还折腾的浪姐",
       "onboard_time": 1738558000,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 199776,
+      "num": 183124,
+      "word": "莲花楼日本霸榜14冠",
+      "onboard_time": 1738644381,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -3171,6 +3211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 186134,
+      "num": 186134,
+      "word": "谷歌被立案调查",
+      "onboard_time": 1738647201,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 186116,
       "num": 478160,
       "word": "哪吒里的结界兽意外爆火",
@@ -3395,12 +3443,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 175986,
-      "num": 175986,
-      "word": "莲花楼日本霸榜14冠",
-      "onboard_time": 1738644381,
-      "rank": 32,
-      "category": "剧集"
+      "raw_hot": 176686,
+      "num": 172586,
+      "word": "央视新闻报道了射雕",
+      "onboard_time": 1738646243,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 175407,
@@ -3473,14 +3521,6 @@
       "onboard_time": 1738636283,
       "rank": 31,
       "category": "互联网,财经"
-    },
-    {
-      "raw_hot": 172586,
-      "num": 172586,
-      "word": "央视新闻报道了射雕",
-      "onboard_time": 1738646243,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 172459,
@@ -3665,6 +3705,14 @@
       "onboard_time": 1738509498,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163538,
+      "num": 163538,
+      "word": "权志龙将于2月25日回归",
+      "onboard_time": 1738646123,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 162788,
@@ -3915,6 +3963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154038,
+      "num": 165565,
+      "word": "海外观众对梁洁新剧的评价",
+      "onboard_time": 1738647021,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153396,
       "num": 153396,
       "word": "李宇春去亲戚火锅店聚餐",
@@ -3953,14 +4009,6 @@
       "onboard_time": 1738537513,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 150648,
-      "num": 150648,
-      "word": "权志龙将于2月25日回归",
-      "onboard_time": 1738646123,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 150406,
@@ -4099,14 +4147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144396,
-      "num": 144396,
-      "word": "大侦探",
-      "onboard_time": 1738646302,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 144212,
       "num": 144212,
       "word": "恋与制作人",
@@ -4220,7 +4260,7 @@
     },
     {
       "raw_hot": 142433,
-      "num": 118677,
+      "num": 125412,
       "word": "熊出没不语只是一味逆袭",
       "onboard_time": 1738645104,
       "rank": 44,
@@ -4273,6 +4313,14 @@
       "onboard_time": 1738628780,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 139899,
+      "num": 139899,
+      "word": "雷军 健身房打卡",
+      "onboard_time": 1738643722,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 139615,
@@ -4337,14 +4385,6 @@
       "onboard_time": 1738503860,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 138184,
-      "num": 138184,
-      "word": "雷军 健身房打卡",
-      "onboard_time": 1738643722,
-      "rank": 44,
-      "category": "互联网"
     },
     {
       "raw_hot": 138165,
@@ -4435,14 +4475,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 131892,
-      "num": 195598,
-      "word": "从华为到DeepSeek美国还想禁多少",
-      "onboard_time": 1738646123,
-      "rank": 19,
-      "category": "互联网,国际时政"
-    },
-    {
       "raw_hot": 131851,
       "num": 131851,
       "word": "DeepSeek喂饭指令",
@@ -4513,6 +4545,14 @@
       "onboard_time": 1738475718,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129008,
+      "num": 129008,
+      "word": "中国代表问美国还想禁多少中国智造",
+      "onboard_time": 1738645883,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 128091,
@@ -4827,6 +4867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116539,
+      "num": 227612,
+      "word": "春节无处不在的潘展乐",
+      "onboard_time": 1738645464,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116281,
       "num": 116281,
       "word": "文殊院的尽头居然是奶龙",
@@ -4961,6 +5009,14 @@
       "onboard_time": 1738548083,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111422,
+      "num": 111422,
+      "word": "汪卓成原声英语台词好苏",
+      "onboard_time": 1738647383,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 111340,
@@ -5267,14 +5323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 99395,
-      "num": 99395,
-      "word": "中国代表问美国还想禁多少中国智造",
-      "onboard_time": 1738645883,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 99320,
       "num": 303753,
       "word": "巴特勒不愿续约勇士",
@@ -5305,6 +5353,14 @@
       "onboard_time": 1738424958,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 97817,
+      "num": 298952,
+      "word": "陈垣宇0比3张禹珍",
+      "onboard_time": 1738646722,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 97431,
@@ -5352,14 +5408,6 @@
       "word": "C罗说金球奖毫无可信度",
       "onboard_time": 1738640002,
       "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 93961,
-      "num": 180757,
-      "word": "春节无处不在的潘展乐",
-      "onboard_time": 1738645464,
-      "rank": 29,
       "category": "体育"
     },
     {
@@ -5556,7 +5604,7 @@
     },
     {
       "raw_hot": 83053,
-      "num": 83053,
+      "num": 127032,
       "word": "太阳认真考虑交易杜兰特",
       "onboard_time": 1738637065,
       "rank": 49,
@@ -6025,6 +6073,14 @@
       "onboard_time": 1738414397,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 45699,
+      "num": 235384,
+      "word": "黄镇廷杜凯琹3比0姚钧涛长崎美柚",
+      "onboard_time": 1738646843,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 45291,
