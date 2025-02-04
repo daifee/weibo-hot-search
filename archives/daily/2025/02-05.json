@@ -1,6 +1,6 @@
 {
   "startTime": 1738686513636,
-  "endTime": 1738711273194,
+  "endTime": 1738712145307,
   "band_list": [
     {
       "raw_hot": 1475289,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 640469,
+      "num": 904992,
+      "word": "男子十几万元转错账对方称没钱还",
+      "onboard_time": 1738691774,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 562618,
       "num": 189798,
       "word": "观众称看射雕如坐针毡",
@@ -47,14 +55,6 @@
       "num": 523130,
       "word": "姐弟仨凌晨返程父亲陪他们坐了一夜",
       "onboard_time": 1738679664,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 486877,
-      "num": 772344,
-      "word": "男子十几万元转错账对方称没钱还",
-      "onboard_time": 1738691774,
       "rank": 1,
       "category": "民生新闻"
     },
@@ -91,7 +91,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 260594,
+      "raw_hot": 268233,
       "num": 414907,
       "word": "返工人把高铁吃成流水席了",
       "onboard_time": 1738671864,
@@ -203,12 +203,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 174933,
+      "num": 174933,
+      "word": "节后上班不在状态怎么办",
+      "onboard_time": 1738704850,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 169269,
       "num": 224978,
       "word": "总台专访霍震霆",
       "onboard_time": 1738688838,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 166520,
+      "num": 189036,
+      "word": "特朗普马斯克或确定下个打击目标",
+      "onboard_time": 1738683624,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 156589,
@@ -235,19 +251,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 139860,
-      "num": 189036,
-      "word": "特朗普马斯克或确定下个打击目标",
-      "onboard_time": 1738683624,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 137296,
       "num": 190111,
       "word": "票房",
       "onboard_time": 1738679905,
       "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 136508,
+      "num": 136508,
+      "word": "射雕37万人评分票房近6亿",
+      "onboard_time": 1738711755,
+      "rank": 9,
       "category": "电影"
     },
     {
@@ -259,12 +275,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 135874,
+      "num": 190195,
+      "word": "这两人亲嘴能把对方毒死",
+      "onboard_time": 1738671505,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135600,
       "num": 189143,
       "word": "杨颖民国新娘单手持枪反差感",
       "onboard_time": 1738681524,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131856,
+      "num": 202241,
+      "word": "高铁才是真正的中国米其林三星吧",
+      "onboard_time": 1738690037,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131537,
@@ -283,14 +315,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 125807,
-      "num": 125807,
-      "word": "节后上班不在状态怎么办",
-      "onboard_time": 1738704850,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 123493,
       "num": 191449,
       "word": "后备箱不能开一开东西全掉了",
@@ -307,12 +331,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 115128,
+      "num": 115128,
+      "word": "开工大吉",
+      "onboard_time": 1738712117,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115063,
       "num": 248706,
       "word": "美对华加征关税是找错了对象打错了算盘",
       "onboard_time": 1738684705,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 114153,
+      "num": 114153,
+      "word": "电视剧六姊妹让亿万观众认识安徽淮南",
+      "onboard_time": 1738710194,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 112455,
+      "num": 188208,
+      "word": "新年开工BGM",
+      "onboard_time": 1738676305,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110956,
@@ -323,14 +371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 107322,
-      "num": 190195,
-      "word": "这两人亲嘴能把对方毒死",
-      "onboard_time": 1738671505,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 105858,
       "num": 189925,
       "word": "舌尖4西湖醋鱼让司机师傅沉默了",
@@ -339,8 +379,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 96355,
-      "num": 96355,
+      "raw_hot": 99717,
+      "num": 99717,
       "word": "为什么封神2口碑两极分化",
       "onboard_time": 1738703171,
       "rank": 37,
@@ -377,14 +417,6 @@
       "onboard_time": 1738675283,
       "rank": 41,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 90246,
-      "num": 202241,
-      "word": "高铁才是真正的中国米其林三星吧",
-      "onboard_time": 1738690037,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90140,
@@ -443,20 +475,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 80553,
-      "num": 188208,
-      "word": "新年开工BGM",
-      "onboard_time": 1738676305,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80130,
       "num": 156448,
       "word": "导游陪20多位北欧游客挑战中国各地名山",
       "onboard_time": 1738682726,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80025,
+      "num": 188877,
+      "word": "美撞机事故2人因泄露视频被捕",
+      "onboard_time": 1738681585,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 79021,
@@ -467,20 +499,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 64891,
-      "num": 188877,
-      "word": "美撞机事故2人因泄露视频被捕",
-      "onboard_time": 1738681585,
-      "rank": 25,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 62807,
-      "num": 107034,
-      "word": "电视剧六姊妹让亿万观众认识安徽淮南",
-      "onboard_time": 1738710194,
-      "rank": 9,
-      "category": "剧集"
+      "raw_hot": 72324,
+      "num": 72324,
+      "word": "影史首位3岁百亿影人",
+      "onboard_time": 1738711755,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 54911,
@@ -497,6 +521,22 @@
       "onboard_time": 1738657462,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53186,
+      "num": 71493,
+      "word": "当我问DeepSeek不想上班怎么办",
+      "onboard_time": 1738711457,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 51331,
+      "num": 71479,
+      "word": "春捂注意身体3个部位",
+      "onboard_time": 1738699391,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 51140,
@@ -539,20 +579,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28720,
-      "num": 71389,
+      "raw_hot": 35808,
+      "num": 71458,
+      "word": "挤痘痘也可能导致败血症",
+      "onboard_time": 1738710254,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 33737,
+      "num": 71452,
       "word": "东契奇穿湖人装备亮相",
       "onboard_time": 1738709714,
       "rank": 36,
       "category": "体育"
     },
     {
-      "raw_hot": 28535,
-      "num": 71356,
-      "word": "春捂注意身体3个部位",
-      "onboard_time": 1738699391,
-      "rank": 47,
-      "category": "健康医疗"
+      "raw_hot": 32427,
+      "num": 71431,
+      "word": "慕胥辞杀青喊白日提灯",
+      "onboard_time": 1738710194,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 31667,
+      "num": 71419,
+      "word": "特朗普称希望乌用稀土矿换援助",
+      "onboard_time": 1738700532,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 26847,
@@ -571,36 +627,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 25116,
-      "num": 71229,
+      "raw_hot": 25499,
+      "num": 71401,
       "word": "北京多条地铁线延长运营至凌晨一两点",
       "onboard_time": 1738700051,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24781,
-      "num": 71175,
-      "word": "特朗普称希望乌用稀土矿换援助",
-      "onboard_time": 1738700532,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 20207,
-      "num": 71105,
-      "word": "挤痘痘也可能导致败血症",
-      "onboard_time": 1738710254,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 20141,
-      "num": 71085,
-      "word": "慕胥辞杀青喊白日提灯",
-      "onboard_time": 1738710194,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 18465,

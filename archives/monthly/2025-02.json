@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738711273194,
+  "endTime": 1738712145307,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1467,6 +1467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 640469,
+      "num": 904992,
+      "word": "男子十几万元转错账对方称没钱还",
+      "onboard_time": 1738691774,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 637372,
       "num": 637372,
       "word": "孙颖莎王楚钦王曼昱等集体发声",
@@ -2000,14 +2008,6 @@
       "word": "小伙去女友家过年撞脸丈母娘",
       "onboard_time": 1738404618,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 486877,
-      "num": 772344,
-      "word": "男子十几万元转错账对方称没钱还",
-      "onboard_time": 1738691774,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -5715,6 +5715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174933,
+      "num": 174933,
+      "word": "节后上班不在状态怎么办",
+      "onboard_time": 1738704850,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 174638,
       "num": 174638,
       "word": "白色橄榄树滤镜",
@@ -5993,6 +6001,14 @@
       "onboard_time": 1738624515,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166520,
+      "num": 189036,
+      "word": "特朗普马斯克或确定下个打击目标",
+      "onboard_time": 1738683624,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 166429,
@@ -7171,14 +7187,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 139860,
-      "num": 189036,
-      "word": "特朗普马斯克或确定下个打击目标",
-      "onboard_time": 1738683624,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 139668,
       "num": 139668,
       "word": "钟辰乐空降",
@@ -7313,6 +7321,14 @@
       "onboard_time": 1738579768,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136508,
+      "num": 136508,
+      "word": "射雕37万人评分票房近6亿",
+      "onboard_time": 1738711755,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 136411,
@@ -7457,6 +7473,14 @@
       "onboard_time": 1738379597,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 131856,
+      "num": 202241,
+      "word": "高铁才是真正的中国米其林三星吧",
+      "onboard_time": 1738690037,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131851,
@@ -7729,14 +7753,6 @@
       "onboard_time": 1738415960,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 125807,
-      "num": 125807,
-      "word": "节后上班不在状态怎么办",
-      "onboard_time": 1738704850,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 125653,
@@ -8163,6 +8179,14 @@
       "category": "演出,体育"
     },
     {
+      "raw_hot": 115128,
+      "num": 115128,
+      "word": "开工大吉",
+      "onboard_time": 1738712117,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115063,
       "num": 248706,
       "word": "美对华加征关税是找错了对象打错了算盘",
@@ -8201,6 +8225,14 @@
       "onboard_time": 1738336160,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 114153,
+      "num": 114153,
+      "word": "电视剧六姊妹让亿万观众认识安徽淮南",
+      "onboard_time": 1738710194,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 114053,
@@ -8289,6 +8321,14 @@
       "onboard_time": 1738578806,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 112455,
+      "num": 246584,
+      "word": "新年开工BGM",
+      "onboard_time": 1738676305,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112381,
@@ -8907,6 +8947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99717,
+      "num": 99717,
+      "word": "为什么封神2口碑两极分化",
+      "onboard_time": 1738703171,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 99651,
       "num": 99651,
       "word": "刘昊然虎牙笑起来收不回去",
@@ -9033,14 +9081,6 @@
       "onboard_time": 1738488860,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 96355,
-      "num": 96355,
-      "word": "为什么封神2口碑两极分化",
-      "onboard_time": 1738703171,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 95894,
@@ -9217,14 +9257,6 @@
       "onboard_time": 1738390577,
       "rank": 9,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 90246,
-      "num": 202241,
-      "word": "高铁才是真正的中国米其林三星吧",
-      "onboard_time": 1738690037,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90106,
@@ -9555,14 +9587,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 80553,
-      "num": 246584,
-      "word": "新年开工BGM",
-      "onboard_time": 1738676305,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80526,
       "num": 80526,
       "word": "DeepSeek为何会引起美国AI巨头焦虑",
@@ -9585,6 +9609,14 @@
       "onboard_time": 1738682726,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80025,
+      "num": 188877,
+      "word": "美撞机事故2人因泄露视频被捕",
+      "onboard_time": 1738681585,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 80010,
@@ -9745,6 +9777,14 @@
       "onboard_time": 1738415060,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72324,
+      "num": 72324,
+      "word": "影史首位3岁百亿影人",
+      "onboard_time": 1738711755,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 71935,
@@ -9939,14 +9979,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 64891,
-      "num": 188877,
-      "word": "美撞机事故2人因泄露视频被捕",
-      "onboard_time": 1738681585,
-      "rank": 25,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 64030,
       "num": 35074,
       "word": "哪吒2魔童闹海",
@@ -9961,14 +9993,6 @@
       "onboard_time": 1738567348,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 62807,
-      "num": 107034,
-      "word": "电视剧六姊妹让亿万观众认识安徽淮南",
-      "onboard_time": 1738710194,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 62498,
@@ -10179,6 +10203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 53186,
+      "num": 71493,
+      "word": "当我问DeepSeek不想上班怎么办",
+      "onboard_time": 1738711457,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 53116,
       "num": 136004,
       "word": "2025春节假期过半了",
@@ -10209,6 +10241,14 @@
       "onboard_time": 1738401377,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 51331,
+      "num": 71479,
+      "word": "春捂注意身体3个部位",
+      "onboard_time": 1738699391,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 50977,
@@ -10587,6 +10627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 35808,
+      "num": 71458,
+      "word": "挤痘痘也可能导致败血症",
+      "onboard_time": 1738710254,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 35514,
       "num": 937181,
       "word": "手写二十四节气领略四季之美",
@@ -10633,6 +10681,14 @@
       "onboard_time": 1738486398,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33737,
+      "num": 71452,
+      "word": "东契奇穿湖人装备亮相",
+      "onboard_time": 1738709714,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 33526,
@@ -10683,6 +10739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 32427,
+      "num": 71431,
+      "word": "慕胥辞杀青喊白日提灯",
+      "onboard_time": 1738710194,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 32124,
       "num": 32124,
       "word": "哪吒1",
@@ -10713,6 +10777,14 @@
       "onboard_time": 1738440191,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31667,
+      "num": 71419,
+      "word": "特朗普称希望乌用稀土矿换援助",
+      "onboard_time": 1738700532,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 31606,
@@ -10753,22 +10825,6 @@
       "onboard_time": 1738481836,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28720,
-      "num": 71389,
-      "word": "东契奇穿湖人装备亮相",
-      "onboard_time": 1738709714,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 28535,
-      "num": 71356,
-      "word": "春捂注意身体3个部位",
-      "onboard_time": 1738699391,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 27833,
@@ -10843,6 +10899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25499,
+      "num": 71401,
+      "word": "北京多条地铁线延长运营至凌晨一两点",
+      "onboard_time": 1738700051,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25246,
       "num": 25246,
       "word": "一路繁花",
@@ -10867,28 +10931,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 25116,
-      "num": 71229,
-      "word": "北京多条地铁线延长运营至凌晨一两点",
-      "onboard_time": 1738700051,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 24802,
       "num": 24802,
       "word": "电影蛟龙行动",
       "onboard_time": 1738359971,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 24781,
-      "num": 71175,
-      "word": "特朗普称希望乌用稀土矿换援助",
-      "onboard_time": 1738700532,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 24742,
@@ -11019,28 +11067,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20207,
-      "num": 71105,
-      "word": "挤痘痘也可能导致败血症",
-      "onboard_time": 1738710254,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 20181,
       "num": 87941,
       "word": "假期后程新一股冷空气来袭",
       "onboard_time": 1738396938,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20141,
-      "num": 71085,
-      "word": "慕胥辞杀青喊白日提灯",
-      "onboard_time": 1738710194,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 19755,
