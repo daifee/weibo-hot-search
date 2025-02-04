@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738653691305,
+  "endTime": 1738654534507,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -152,6 +152,14 @@
       "word": "大S朋友圈签名",
       "onboard_time": 1738594530,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2829105,
+      "num": 553976,
+      "word": "周渝民连发20条悼念大S",
+      "onboard_time": 1738652783,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -513,14 +521,6 @@
       "onboard_time": 1738649004,
       "rank": 4,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1223511,
-      "num": 296316,
-      "word": "周渝民连发20条悼念大S",
-      "onboard_time": 1738652783,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1222674,
@@ -1643,6 +1643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 503600,
+      "num": 454081,
+      "word": "肖战曾说票房交给观众和市场",
+      "onboard_time": 1738652723,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 501201,
       "num": 501201,
       "word": "Kanye唯一关注Taylor Swift",
@@ -1937,14 +1945,6 @@
       "onboard_time": 1738413317,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 434296,
-      "num": 270741,
-      "word": "肖战曾说票房交给观众和市场",
-      "onboard_time": 1738652723,
-      "rank": 20,
-      "category": "电影"
     },
     {
       "raw_hot": 433003,
@@ -3459,6 +3459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236522,
+      "num": 271843,
+      "word": "中国影史总榜哪吒2居8望7",
+      "onboard_time": 1738651282,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 236337,
       "num": 348385,
       "word": "亚冬会火炬手最小的16岁",
@@ -3745,6 +3753,14 @@
       "onboard_time": 1738643542,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 219328,
+      "num": 160086,
+      "word": "哪吒1原本设定",
+      "onboard_time": 1738653985,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 219288,
@@ -4947,14 +4963,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 175068,
-      "num": 271843,
-      "word": "中国影史总榜哪吒2居8望7",
-      "onboard_time": 1738651282,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 174638,
       "num": 174638,
       "word": "白色橄榄树滤镜",
@@ -5003,6 +5011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173184,
+      "num": 158613,
+      "word": "哪吒之魔童闹海票房突破45亿",
+      "onboard_time": 1738654285,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 172775,
       "num": 172775,
       "word": "娜然说妲己是殷寿欲望的放大镜",
@@ -5049,6 +5065,14 @@
       "onboard_time": 1738335679,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172106,
+      "num": 172106,
+      "word": "商务部就对钨等物项实施出口管制答问",
+      "onboard_time": 1738653694,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 172095,
@@ -5553,6 +5577,14 @@
       "onboard_time": 1738379898,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 156732,
+      "num": 156732,
+      "word": "金毛被打招呼踩着主人隔窗热情回应",
+      "onboard_time": 1738650922,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156593,
@@ -6291,14 +6323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137756,
-      "num": 137756,
-      "word": "金毛被打招呼踩着主人隔窗热情回应",
-      "onboard_time": 1738650922,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 137467,
       "num": 137467,
       "word": "爸爸刚喝一口就化身老戏骨",
@@ -6353,6 +6377,14 @@
       "onboard_time": 1738343175,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 134997,
+      "num": 134997,
+      "word": "妈宝女被六姊妹整破防了",
+      "onboard_time": 1738653985,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 134979,
@@ -7803,12 +7835,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 97460,
+      "num": 97460,
+      "word": "梁洁跳舞把我笑成蛇精病了",
+      "onboard_time": 1738654224,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 96868,
       "num": 339049,
       "word": "春节聚餐警惕吃出来的病",
       "onboard_time": 1738382358,
       "rank": 9,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 96859,
+      "num": 96859,
+      "word": "我们站在故事结尾看必死的结局",
+      "onboard_time": 1738654285,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 96575,
@@ -8099,6 +8147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85085,
+      "num": 284040,
+      "word": "将春节拆分成两份的年轻人",
+      "onboard_time": 1738653023,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85037,
       "num": 89710,
       "word": "谷爱凌亚冬会退赛",
@@ -8113,6 +8169,14 @@
       "onboard_time": 1738637065,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84840,
+      "num": 84840,
+      "word": "3D电影要坐矮一点",
+      "onboard_time": 1738648582,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 84475,
@@ -8393,6 +8457,14 @@
       "onboard_time": 1738415060,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71935,
+      "num": 287654,
+      "word": "奶茶咖啡店在县城迅速崛起",
+      "onboard_time": 1738653083,
+      "rank": 13,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 71523,
@@ -8851,6 +8923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49075,
+      "num": 163762,
+      "word": "港股半导体板块全线大涨",
+      "onboard_time": 1738647443,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 47462,
       "num": 47462,
       "word": "春晚机器人蒸的煮的还有活的",
@@ -9107,14 +9187,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 35719,
-      "num": 95718,
-      "word": "港股半导体板块全线大涨",
-      "onboard_time": 1738647443,
-      "rank": 40,
-      "category": "财经"
-    },
-    {
       "raw_hot": 35514,
       "num": 937181,
       "word": "手写二十四节气领略四季之美",
@@ -9272,14 +9344,6 @@
       "word": "华山环卫工手抓铁链背对悬崖扫雪",
       "onboard_time": 1738445111,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29650,
-      "num": 284040,
-      "word": "将春节拆分成两份的年轻人",
-      "onboard_time": 1738653023,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -9513,14 +9577,6 @@
       "onboard_time": 1738448052,
       "rank": 41,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 18468,
-      "num": 287654,
-      "word": "奶茶咖啡店在县城迅速崛起",
-      "onboard_time": 1738653083,
-      "rank": 13,
-      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 18153,

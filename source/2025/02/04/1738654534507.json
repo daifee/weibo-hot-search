@@ -1,0 +1,410 @@
+{
+  "runTime": 1738654534507,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1151423,
+        "num": 1184227,
+        "word": "日本医院呼吁完全没药建议回家",
+        "onboard_time": 1738649004,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 635640,
+        "num": 635640,
+        "word": "林依晨20岁就开始写遗书了",
+        "onboard_time": 1738649243,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25019,
+        "num": 554421,
+        "word": "致敬坚守的他们",
+        "onboard_time": 1738640489,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2829105,
+        "num": 553976,
+        "word": "周渝民连发20条悼念大S",
+        "onboard_time": 1738652783,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 552602,
+        "num": 552602,
+        "word": "休2上4休1",
+        "onboard_time": 1738637423,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 462217,
+        "num": 462217,
+        "word": "谷爱凌退赛亚冬会",
+        "onboard_time": 1738651342,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 503600,
+        "num": 454081,
+        "word": "肖战曾说票房交给观众和市场",
+        "onboard_time": 1738652723,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 428960,
+        "num": 428960,
+        "word": "中方对美国部分进口商品加征关税",
+        "onboard_time": 1738646722,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 2796543,
+        "num": 350315,
+        "word": "具俊晔将手抱骨灰带大S回台湾",
+        "onboard_time": 1738650322,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271493,
+        "num": 271493,
+        "word": "最后一天假期怎么过",
+        "onboard_time": 1738634123,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1092208,
+        "num": 271107,
+        "word": "网传大S的急诊就诊记录",
+        "onboard_time": 1738640002,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 964899,
+        "num": 270600,
+        "word": "曝痞幼新恋情",
+        "onboard_time": 1738647622,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 467455,
+        "num": 269117,
+        "word": "哪吒2票房",
+        "onboard_time": 1738645704,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 394965,
+        "num": 268911,
+        "word": "具俊晔崩溃",
+        "onboard_time": 1738629080,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85085,
+        "num": 267240,
+        "word": "将春节拆分成两份的年轻人",
+        "onboard_time": 1738653023,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267231,
+        "num": 267231,
+        "word": "中方在世贸组织起诉美加征关税措施",
+        "onboard_time": 1738651163,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 632353,
+        "num": 265132,
+        "word": "在日医生谈大S为何没被收住院",
+        "onboard_time": 1738645163,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236522,
+        "num": 236522,
+        "word": "中国影史总榜哪吒2居8望7",
+        "onboard_time": 1738651282,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177022,
+        "num": 177022,
+        "word": "我国对钨碲铋钼铟相关物项出口管制",
+        "onboard_time": 1738647862,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172106,
+        "num": 172106,
+        "word": "商务部就对钨等物项实施出口管制答问",
+        "onboard_time": 1738653694,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 376296,
+        "num": 170463,
+        "word": "朴灿烈想看陈哲远偷偷藏不住",
+        "onboard_time": 1738649722,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318161,
+        "num": 169396,
+        "word": "哪吒2",
+        "onboard_time": 1738648402,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 313385,
+        "num": 167033,
+        "word": "小S曾在姐姐去世前几小时和妈妈跳舞",
+        "onboard_time": 1738629201,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238615,
+        "num": 164903,
+        "word": "鹿晗祝大家返程一路平安",
+        "onboard_time": 1738650082,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49075,
+        "num": 163762,
+        "word": "港股半导体板块全线大涨",
+        "onboard_time": 1738647443,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 309562,
+        "num": 161234,
+        "word": "吴佩慈受访时泣不成声",
+        "onboard_time": 1738636404,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219328,
+        "num": 160086,
+        "word": "哪吒1原本设定",
+        "onboard_time": 1738653985,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173184,
+        "num": 158613,
+        "word": "哪吒之魔童闹海票房突破45亿",
+        "onboard_time": 1738654285,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156732,
+        "num": 156732,
+        "word": "金毛被打招呼踩着主人隔窗热情回应",
+        "onboard_time": 1738650922,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150826,
+        "num": 150826,
+        "word": "DeepSeek给全世界特别是美国上了一课",
+        "onboard_time": 1738639943,
+        "rank": 29,
+        "category": "互联网,国际时政"
+      },
+      {
+        "raw_hot": 143355,
+        "num": 143355,
+        "word": "谷歌被立案调查",
+        "onboard_time": 1738647201,
+        "rank": 30,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 136927,
+        "num": 136927,
+        "word": "朱雨玲3比0平野美宇",
+        "onboard_time": 1738652004,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135745,
+        "num": 135745,
+        "word": "史上第一个被按斤卖掉的男主",
+        "onboard_time": 1738641322,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134997,
+        "num": 134997,
+        "word": "妈宝女被六姊妹整破防了",
+        "onboard_time": 1738653985,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120806,
+        "num": 120806,
+        "word": "大侦探",
+        "onboard_time": 1738646302,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112505,
+        "num": 112505,
+        "word": "白色橄榄树名场面是梁洁提的",
+        "onboard_time": 1738647862,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110240,
+        "num": 110240,
+        "word": "饺子导演 你别累着但也别闲着",
+        "onboard_time": 1738635204,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109391,
+        "num": 109391,
+        "word": "闭眼除夕睁眼初七",
+        "onboard_time": 1738635083,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109013,
+        "num": 109013,
+        "word": "种地吧",
+        "onboard_time": 1738647983,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71935,
+        "num": 105798,
+        "word": "奶茶咖啡店在县城迅速崛起",
+        "onboard_time": 1738653083,
+        "rank": 39,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 105202,
+        "num": 105202,
+        "word": "陈思诚系首位春节档票房破百亿导演",
+        "onboard_time": 1738648942,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97460,
+        "num": 97460,
+        "word": "梁洁跳舞把我笑成蛇精病了",
+        "onboard_time": 1738654224,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102124,
+        "num": 97426,
+        "word": "看完唐探1900感觉自己白看了",
+        "onboard_time": 1738638385,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96859,
+        "num": 96859,
+        "word": "我们站在故事结尾看必死的结局",
+        "onboard_time": 1738654285,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91622,
+        "num": 91622,
+        "word": "怎么明天就要开工了",
+        "onboard_time": 1738640123,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90709,
+        "num": 90709,
+        "word": "日本多地药店已无感冒药库存",
+        "onboard_time": 1738648223,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 88891,
+        "num": 88891,
+        "word": "五福临门",
+        "onboard_time": 1738652123,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86741,
+        "num": 86741,
+        "word": "小蛇糕",
+        "onboard_time": 1738629020,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 84840,
+        "num": 84840,
+        "word": "3D电影要坐矮一点",
+        "onboard_time": 1738648582,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 81179,
+        "num": 81179,
+        "word": "明天上班",
+        "onboard_time": 1738624035,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记从剪纸感受春日美好#"
+    }
+  }
+}

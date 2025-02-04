@@ -1,6 +1,6 @@
 {
   "startTime": 1738600055579,
-  "endTime": 1738653691305,
+  "endTime": 1738654534507,
   "band_list": [
     {
       "raw_hot": 4314287,
@@ -16,6 +16,14 @@
       "word": "具俊晔将手抱骨灰带大S回台湾",
       "onboard_time": 1738650322,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2829105,
+      "num": 553976,
+      "word": "周渝民连发20条悼念大S",
+      "onboard_time": 1738652783,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -97,14 +105,6 @@
       "onboard_time": 1738649004,
       "rank": 4,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1223511,
-      "num": 296316,
-      "word": "周渝民连发20条悼念大S",
-      "onboard_time": 1738652783,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1209522,
@@ -275,6 +275,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 503600,
+      "num": 454081,
+      "word": "肖战曾说票房交给观众和市场",
+      "onboard_time": 1738652723,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 501016,
       "num": 389471,
       "word": "哪吒逆跌",
@@ -312,14 +320,6 @@
       "word": "看完唐探1900感觉自己白看了",
       "onboard_time": 1738638385,
       "rank": 26,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 434296,
-      "num": 270741,
-      "word": "肖战曾说票房交给观众和市场",
-      "onboard_time": 1738652723,
-      "rank": 20,
       "category": "电影"
     },
     {
@@ -547,6 +547,14 @@
       "category": "互联网,国际时政"
     },
     {
+      "raw_hot": 236522,
+      "num": 271843,
+      "word": "中国影史总榜哪吒2居8望7",
+      "onboard_time": 1738651282,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 231584,
       "num": 231584,
       "word": "考古对象成了我对象",
@@ -601,6 +609,14 @@
       "onboard_time": 1738643542,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 219328,
+      "num": 160086,
+      "word": "哪吒1原本设定",
+      "onboard_time": 1738653985,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 211881,
@@ -731,14 +747,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 175068,
-      "num": 271843,
-      "word": "中国影史总榜哪吒2居8望7",
-      "onboard_time": 1738651282,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 174531,
       "num": 307686,
       "word": "成毅登上日本杂志封面",
@@ -753,6 +761,14 @@
       "onboard_time": 1738647862,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173184,
+      "num": 158613,
+      "word": "哪吒之魔童闹海票房突破45亿",
+      "onboard_time": 1738654285,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 172738,
@@ -777,6 +793,14 @@
       "onboard_time": 1738620733,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 172106,
+      "num": 172106,
+      "word": "商务部就对钨等物项实施出口管制答问",
+      "onboard_time": 1738653694,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 171640,
@@ -856,6 +880,14 @@
       "word": "8天假期的真实状态",
       "onboard_time": 1738641083,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156732,
+      "num": 156732,
+      "word": "金毛被打招呼踩着主人隔窗热情回应",
+      "onboard_time": 1738650922,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -1035,12 +1067,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 137756,
-      "num": 137756,
-      "word": "金毛被打招呼踩着主人隔窗热情回应",
-      "onboard_time": 1738650922,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 134997,
+      "num": 134997,
+      "word": "妈宝女被六姊妹整破防了",
+      "onboard_time": 1738653985,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 134918,
@@ -1299,6 +1331,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 97460,
+      "num": 97460,
+      "word": "梁洁跳舞把我笑成蛇精病了",
+      "onboard_time": 1738654224,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 96859,
+      "num": 96859,
+      "word": "我们站在故事结尾看必死的结局",
+      "onboard_time": 1738654285,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 95378,
       "num": 95378,
       "word": "陈哲远走戏哭了",
@@ -1355,6 +1403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85085,
+      "num": 284040,
+      "word": "将春节拆分成两份的年轻人",
+      "onboard_time": 1738653023,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85037,
       "num": 89710,
       "word": "谷爱凌亚冬会退赛",
@@ -1369,6 +1425,14 @@
       "onboard_time": 1738637065,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84840,
+      "num": 84840,
+      "word": "3D电影要坐矮一点",
+      "onboard_time": 1738648582,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 84049,
@@ -1441,6 +1505,14 @@
       "onboard_time": 1738581329,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71935,
+      "num": 287654,
+      "word": "奶茶咖啡店在县城迅速崛起",
+      "onboard_time": 1738653083,
+      "rank": 13,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 71290,
@@ -1547,6 +1619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49075,
+      "num": 163762,
+      "word": "港股半导体板块全线大涨",
+      "onboard_time": 1738647443,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 45699,
       "num": 235384,
       "word": "黄镇廷杜凯琹3比0姚钧涛长崎美柚",
@@ -1587,14 +1667,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 35719,
-      "num": 95718,
-      "word": "港股半导体板块全线大涨",
-      "onboard_time": 1738647443,
-      "rank": 40,
-      "category": "财经"
-    },
-    {
       "raw_hot": 34497,
       "num": 79679,
       "word": "哪吒2曾尝试国外特效团队不尽人意",
@@ -1616,14 +1688,6 @@
       "word": "用非遗剪纸打开春节年俗",
       "onboard_time": 1738639462,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29650,
-      "num": 284040,
-      "word": "将春节拆分成两份的年轻人",
-      "onboard_time": 1738653023,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1681,14 +1745,6 @@
       "onboard_time": 1738606036,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18468,
-      "num": 287654,
-      "word": "奶茶咖啡店在县城迅速崛起",
-      "onboard_time": 1738653083,
-      "rank": 13,
-      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 15036,
