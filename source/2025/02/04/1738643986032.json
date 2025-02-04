@@ -1,0 +1,410 @@
+{
+  "runTime": 1738643986032,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2006171,
+        "num": 2006171,
+        "word": "休2上4休1",
+        "onboard_time": 1738637423,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 755824,
+        "num": 755824,
+        "word": "DeepSeek给全世界特别是美国上了一课",
+        "onboard_time": 1738639943,
+        "rank": 1,
+        "category": "互联网,国际时政"
+      },
+      {
+        "raw_hot": 33162,
+        "num": 724547,
+        "word": "致敬坚守的他们",
+        "onboard_time": 1738640489,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4314287,
+        "num": 719918,
+        "word": "网传大S的急诊就诊记录",
+        "onboard_time": 1738640002,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 710784,
+        "num": 710784,
+        "word": "史上第一个被按斤卖掉的男主",
+        "onboard_time": 1738641322,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 406869,
+        "num": 406869,
+        "word": "女子4次陪老公跨越260公里悼念亡妻",
+        "onboard_time": 1738631001,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 496468,
+        "num": 404077,
+        "word": "饺子导演 你别累着但也别闲着",
+        "onboard_time": 1738635204,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 289534,
+        "num": 289534,
+        "word": "光遇复刻",
+        "onboard_time": 1738642888,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 460298,
+        "num": 281120,
+        "word": "哪吒之魔童闹海进入影史票房榜前八",
+        "onboard_time": 1738640902,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 230650,
+        "num": 271332,
+        "word": "中国代表回应DeepSeek引发轰动",
+        "onboard_time": 1738639943,
+        "rank": 9,
+        "category": "互联网,国际时政"
+      },
+      {
+        "raw_hot": 983122,
+        "num": 271311,
+        "word": "具俊晔崩溃",
+        "onboard_time": 1738629080,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271070,
+        "num": 271070,
+        "word": "明天上班",
+        "onboard_time": 1738624035,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 808520,
+        "num": 244796,
+        "word": "小S曾在姐姐去世前几小时和妈妈跳舞",
+        "onboard_time": 1738629201,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206018,
+        "num": 206018,
+        "word": "最后一天假期怎么过",
+        "onboard_time": 1738634123,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 762707,
+        "num": 205238,
+        "word": "吴佩慈受访时泣不成声",
+        "onboard_time": 1738636404,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433078,
+        "num": 203890,
+        "word": "看完唐探1900感觉自己白看了",
+        "onboard_time": 1738638385,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 547596,
+        "num": 201840,
+        "word": "大S就医时或已错过治疗黄金期",
+        "onboard_time": 1738636102,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198568,
+        "num": 198568,
+        "word": "美加同意暂缓30天实施加征关税措施",
+        "onboard_time": 1738639043,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 182290,
+        "num": 182290,
+        "word": "DeepSeek回答如何过好这一生",
+        "onboard_time": 1738624635,
+        "rank": 18,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 159006,
+        "num": 159006,
+        "word": "8天假期的真实状态",
+        "onboard_time": 1738641083,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 416233,
+        "num": 158646,
+        "word": "六姊妹首播收视率破3",
+        "onboard_time": 1738641562,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289122,
+        "num": 158590,
+        "word": "哪吒2导演说石矶娘娘心思单纯可爱",
+        "onboard_time": 1738641802,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 260827,
+        "num": 157801,
+        "word": "遇见熙媛5363天",
+        "onboard_time": 1738630461,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199364,
+        "num": 157596,
+        "word": "流浪地球给哪吒做的贺图",
+        "onboard_time": 1738626137,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134918,
+        "num": 157239,
+        "word": "春节假期最后一天状态",
+        "onboard_time": 1738643362,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187502,
+        "num": 156737,
+        "word": "哪吒3",
+        "onboard_time": 1738630041,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171640,
+        "num": 156140,
+        "word": "封神几秒钟的镜头硬生生刀我好几天",
+        "onboard_time": 1738642943,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140369,
+        "num": 155886,
+        "word": "高至霆新剧唯一的黑月光",
+        "onboard_time": 1738643422,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117794,
+        "num": 155338,
+        "word": "王楚钦说低潮期一度崩溃",
+        "onboard_time": 1738636283,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117557,
+        "num": 155277,
+        "word": "闭眼除夕睁眼初七",
+        "onboard_time": 1738635083,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154910,
+        "num": 154910,
+        "word": "小S两个女儿回台",
+        "onboard_time": 1738590329,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154236,
+        "num": 154236,
+        "word": "陈哲远把剧组小狗领养了",
+        "onboard_time": 1738643542,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139348,
+        "num": 139348,
+        "word": "田嘉瑞哪吒2观后感",
+        "onboard_time": 1738636762,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126721,
+        "num": 126721,
+        "word": "人心中的成见是一座大山 那很漂亮了",
+        "onboard_time": 1738634842,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107639,
+        "num": 107639,
+        "word": "美国暂停对加墨两国加征关税",
+        "onboard_time": 1738641263,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 72914,
+        "num": 101799,
+        "word": "恋与深空",
+        "onboard_time": 1738641921,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125390,
+        "num": 101078,
+        "word": "石矶娘娘心态",
+        "onboard_time": 1738635984,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99522,
+        "num": 99522,
+        "word": "奥司他韦不能乱吃",
+        "onboard_time": 1738592372,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 99238,
+        "num": 99238,
+        "word": "正月初七为啥称为人日",
+        "onboard_time": 1738631001,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75596,
+        "num": 99196,
+        "word": "C罗说金球奖毫无可信度",
+        "onboard_time": 1738640002,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67359,
+        "num": 99166,
+        "word": "王楚钦谈巴黎奥运会低潮期",
+        "onboard_time": 1738643842,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50596,
+        "num": 99119,
+        "word": "陈垣宇vs张禹珍",
+        "onboard_time": 1738642582,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118644,
+        "num": 99089,
+        "word": "饺子导演手绘无表情哪吒",
+        "onboard_time": 1738636223,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110779,
+        "num": 99035,
+        "word": "射雕疑似被恶意打分",
+        "onboard_time": 1738603457,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99004,
+        "num": 99004,
+        "word": "雷军 健身房打卡",
+        "onboard_time": 1738643722,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 97922,
+        "num": 97922,
+        "word": "小米集团市值突破万亿港元",
+        "onboard_time": 1738636283,
+        "rank": 45,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 97285,
+        "num": 97285,
+        "word": "小蛇糕",
+        "onboard_time": 1738629020,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 91781,
+        "num": 91781,
+        "word": "本周六要上班",
+        "onboard_time": 1738640303,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88295,
+        "num": 88295,
+        "word": "浓眉告别湖人",
+        "onboard_time": 1738641381,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83372,
+        "num": 83372,
+        "word": "学医的老公回村过年邻居8点排队看病",
+        "onboard_time": 1738631061,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记从剪纸感受春日美好#"
+    }
+  }
+}

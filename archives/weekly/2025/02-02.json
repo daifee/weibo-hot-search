@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738643155709,
+  "endTime": 1738643986032,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -83,8 +83,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 4290073,
-      "num": 568940,
+      "raw_hot": 4314287,
+      "num": 719918,
       "word": "网传大S的急诊就诊记录",
       "onboard_time": 1738640002,
       "rank": 10,
@@ -747,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 755824,
+      "num": 755824,
+      "word": "DeepSeek给全世界特别是美国上了一课",
+      "onboard_time": 1738639943,
+      "rank": 19,
+      "category": "互联网,国际时政"
+    },
+    {
       "raw_hot": 749672,
       "num": 991422,
       "word": "立春躲春的正确方式",
@@ -793,6 +801,14 @@
       "onboard_time": 1738594109,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 710784,
+      "num": 710784,
+      "word": "史上第一个被按斤卖掉的男主",
+      "onboard_time": 1738641322,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 701613,
@@ -1003,14 +1019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 602901,
-      "num": 602901,
-      "word": "DeepSeek给全世界特别是美国上了一课",
-      "onboard_time": 1738639943,
-      "rank": 19,
-      "category": "互联网,国际时政"
-    },
-    {
       "raw_hot": 595826,
       "num": 595826,
       "word": "哪吒2导演曾因特效与团队产生严重分歧",
@@ -1065,14 +1073,6 @@
       "onboard_time": 1738421900,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 567946,
-      "num": 567946,
-      "word": "史上第一个被按斤卖掉的男主",
-      "onboard_time": 1738641322,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 564907,
@@ -1320,6 +1320,14 @@
       "word": "哪吒2已破14项影史纪录",
       "onboard_time": 1738456094,
       "rank": 11,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 460298,
+      "num": 281120,
+      "word": "哪吒之魔童闹海进入影史票房榜前八",
+      "onboard_time": 1738640902,
+      "rank": 20,
       "category": "电影"
     },
     {
@@ -1673,14 +1681,6 @@
       "onboard_time": 1738553767,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 361035,
-      "num": 204904,
-      "word": "哪吒之魔童闹海进入影史票房榜前八",
-      "onboard_time": 1738640902,
-      "rank": 20,
-      "category": "电影"
     },
     {
       "raw_hot": 360762,
@@ -2364,7 +2364,7 @@
     },
     {
       "raw_hot": 244252,
-      "num": 244252,
+      "num": 271332,
       "word": "中国代表回应DeepSeek引发轰动",
       "onboard_time": 1738639943,
       "rank": 15,
@@ -3475,6 +3475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171640,
+      "num": 163328,
+      "word": "封神几秒钟的镜头硬生生刀我好几天",
+      "onboard_time": 1738642943,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 171042,
       "num": 171042,
       "word": "尹子维的大勺下一秒要敲徐冬冬头上了",
@@ -3595,14 +3603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 163328,
-      "num": 163328,
-      "word": "封神几秒钟的镜头硬生生刀我好几天",
-      "onboard_time": 1738642943,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 162788,
       "num": 162788,
       "word": "朱雨玲发博吐槽签位",
@@ -3680,6 +3680,14 @@
       "word": "女孩辞岁一晚跑几百家收入2000多",
       "onboard_time": 1738492577,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159006,
+      "num": 280133,
+      "word": "8天假期的真实状态",
+      "onboard_time": 1738641083,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -3825,6 +3833,14 @@
       "onboard_time": 1738480636,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154236,
+      "num": 154236,
+      "word": "陈哲远把剧组小狗领养了",
+      "onboard_time": 1738643542,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 154066,
@@ -4155,6 +4171,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 140369,
+      "num": 155886,
+      "word": "高至霆新剧唯一的黑月光",
+      "onboard_time": 1738643422,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139970,
       "num": 139970,
       "word": "美国将再次退出联合国人权理事会",
@@ -4200,14 +4224,6 @@
       "word": "小孩一招救了妈妈继续玩游戏",
       "onboard_time": 1738497678,
       "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 138787,
-      "num": 280133,
-      "word": "8天假期的真实状态",
-      "onboard_time": 1738641083,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -4281,6 +4297,14 @@
       "onboard_time": 1738579768,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134918,
+      "num": 157239,
+      "word": "春节假期最后一天状态",
+      "onboard_time": 1738643362,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134700,
@@ -5139,6 +5163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99004,
+      "num": 99004,
+      "word": "雷军 健身房打卡",
+      "onboard_time": 1738643722,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 98942,
       "num": 98942,
       "word": "多平台宣布上线DeepSeek大模型",
@@ -5579,6 +5611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67359,
+      "num": 99166,
+      "word": "王楚钦谈巴黎奥运会低潮期",
+      "onboard_time": 1738643842,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66069,
       "num": 69834,
       "word": "刘国梁对WTT提出4点建议",
@@ -5793,6 +5833,14 @@
       "onboard_time": 1738504640,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50596,
+      "num": 205345,
+      "word": "陈垣宇vs张禹珍",
+      "onboard_time": 1738642582,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 49930,
@@ -6011,18 +6059,18 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34378,
-      "num": 205345,
-      "word": "陈垣宇vs张禹珍",
-      "onboard_time": 1738642582,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 33862,
       "num": 770004,
       "word": "锣鼓一响敲出新年满满精气神",
       "onboard_time": 1738486398,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33162,
+      "num": 724547,
+      "word": "致敬坚守的他们",
+      "onboard_time": 1738640489,
       "rank": 2,
       "category": "民生新闻"
     },
@@ -6057,14 +6105,6 @@
       "onboard_time": 1738468878,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 31473,
-      "num": 569847,
-      "word": "致敬坚守的他们",
-      "onboard_time": 1738640489,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30278,
