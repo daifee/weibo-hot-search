@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738673867649,
+  "endTime": 1738675646082,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 3385913,
-      "num": 337094,
+      "num": 361919,
       "word": "汪小菲现任妻子mandy发声",
       "onboard_time": 1738670305,
       "rank": 10,
@@ -483,6 +483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1434391,
+      "num": 1434391,
+      "word": "微信新增仅提醒朋友与我的互动",
+      "onboard_time": 1738671385,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1426517,
       "num": 350420,
       "word": "小S取消节目录制",
@@ -529,14 +537,6 @@
       "onboard_time": 1738417221,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1368504,
-      "num": 1368504,
-      "word": "微信新增仅提醒朋友与我的互动",
-      "onboard_time": 1738671385,
-      "rank": 1,
-      "category": "互联网"
     },
     {
       "raw_hot": 1300530,
@@ -712,6 +712,14 @@
       "word": "女生醒来相亲对象站床边系摆拍",
       "onboard_time": 1738538894,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1061508,
+      "num": 1061508,
+      "word": "返工人把高铁吃成流水席了",
+      "onboard_time": 1738671864,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -984,14 +992,6 @@
       "word": "大年初四全国人民都挺忙",
       "onboard_time": 1738373236,
       "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 855102,
-      "num": 855102,
-      "word": "返工人把高铁吃成流水席了",
-      "onboard_time": 1738671864,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1347,6 +1347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 655379,
+      "num": 655379,
+      "word": "王楚钦vs冯耀恩",
+      "onboard_time": 1738673785,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 650007,
       "num": 650007,
       "word": "加拿大总理宣布反制措施",
@@ -1675,8 +1683,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 535424,
+      "num": 535424,
+      "word": "舌尖4西湖醋鱼让司机师傅沉默了",
+      "onboard_time": 1738671085,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 520846,
-      "num": 253348,
+      "num": 304710,
       "word": "这两人亲嘴能把对方毒死",
       "onboard_time": 1738671505,
       "rank": 20,
@@ -2059,16 +2075,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 444636,
-      "num": 444636,
-      "word": "舌尖4西湖醋鱼让司机师傅沉默了",
-      "onboard_time": 1738671085,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 442134,
-      "num": 250045,
+      "num": 274265,
       "word": "洗头发干净又油得慢的小方法",
       "onboard_time": 1738668204,
       "rank": 20,
@@ -2363,6 +2371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 386724,
+      "num": 386724,
+      "word": "杨颖王安宇民国造型",
+      "onboard_time": 1738672884,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 385920,
       "num": 385920,
       "word": "美国费城失事飞机以201公里时速坠地",
@@ -2529,6 +2545,14 @@
       "onboard_time": 1738630221,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 358872,
+      "num": 358872,
+      "word": "独居女生套内41平米的家",
+      "onboard_time": 1738672283,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 357575,
@@ -2915,6 +2939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 311550,
+      "num": 311550,
+      "word": "红狼居然因为宠妻宠女上桌了",
+      "onboard_time": 1738672403,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 310460,
       "num": 500213,
       "word": "春节档六部电影豆瓣开分",
@@ -2936,14 +2968,6 @@
       "word": "六姊妹今日开播",
       "onboard_time": 1738552819,
       "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 309084,
-      "num": 219647,
-      "word": "杨颖王安宇民国造型",
-      "onboard_time": 1738672884,
-      "rank": 26,
       "category": "剧集"
     },
     {
@@ -3116,7 +3140,7 @@
     },
     {
       "raw_hot": 289931,
-      "num": 235564,
+      "num": 274060,
       "word": "影史票房前5有两个哪吒",
       "onboard_time": 1738670544,
       "rank": 23,
@@ -3401,14 +3425,6 @@
       "onboard_time": 1738333640,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 255931,
-      "num": 255931,
-      "word": "独居女生套内41平米的家",
-      "onboard_time": 1738672283,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 255832,
@@ -4187,6 +4203,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 211621,
+      "num": 311240,
+      "word": "李瓒记忆缺失",
+      "onboard_time": 1738674024,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210961,
       "num": 210961,
       "word": "90后北大选调生任乡镇党委书记",
@@ -4315,14 +4339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206038,
-      "num": 206038,
-      "word": "红狼居然因为宠妻宠女上桌了",
-      "onboard_time": 1738672403,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 206022,
       "num": 306660,
       "word": "刘宇宁直播",
@@ -4403,6 +4419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203494,
+      "num": 308496,
+      "word": "黄友政2比3弗朗西斯卡",
+      "onboard_time": 1738675283,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203361,
       "num": 203361,
       "word": "大年初四灶王爷是C位",
@@ -4449,6 +4473,14 @@
       "onboard_time": 1738656925,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201886,
+      "num": 363867,
+      "word": "28岁河马离世饲养员手写讣告",
+      "onboard_time": 1738671803,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 201608,
@@ -4729,6 +4761,14 @@
       "onboard_time": 1738378636,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192994,
+      "num": 192994,
+      "word": "真心建议要和积极乐观的人在一起",
+      "onboard_time": 1738675283,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 192846,
@@ -5043,6 +5083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185416,
+      "num": 185416,
+      "word": "敖丙小果冻",
+      "onboard_time": 1738673364,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 185300,
       "num": 302750,
       "word": "孙颖莎vs徐孝元",
@@ -5241,14 +5289,6 @@
       "onboard_time": 1738485138,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 179402,
-      "num": 324841,
-      "word": "28岁河马离世饲养员手写讣告",
-      "onboard_time": 1738671803,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 178754,
@@ -6163,6 +6203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154879,
+      "num": 305019,
+      "word": "拜登与知名艺人经纪公司签约",
+      "onboard_time": 1738675283,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 154875,
       "num": 154875,
       "word": "WTT",
@@ -6201,6 +6249,14 @@
       "onboard_time": 1738647021,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153493,
+      "num": 153493,
+      "word": "高承睿3比2F勒布伦",
+      "onboard_time": 1738675283,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 153396,
@@ -6563,14 +6619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 144535,
-      "num": 144535,
-      "word": "敖丙小果冻",
-      "onboard_time": 1738673364,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 144298,
       "num": 144298,
       "word": "红豆生南国唐探有男模",
@@ -6593,6 +6641,14 @@
       "onboard_time": 1738453514,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144016,
+      "num": 144016,
+      "word": "陈哲远不是天选是严选",
+      "onboard_time": 1738675045,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 143978,
@@ -6737,6 +6793,14 @@
       "onboard_time": 1738401918,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141164,
+      "num": 141164,
+      "word": "有一种爱叫爸爸怕你赶不上高铁",
+      "onboard_time": 1738675283,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 141108,
@@ -7371,6 +7435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124433,
+      "num": 124433,
+      "word": "王安宇打戏",
+      "onboard_time": 1738673905,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124150,
       "num": 477086,
       "word": "2025年中国电影票房破百亿",
@@ -7579,6 +7651,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 119214,
+      "num": 119214,
+      "word": "初八复工后我的belike",
+      "onboard_time": 1738670725,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119157,
       "num": 119157,
       "word": "朱雨玲3比0杜凯琹",
@@ -7609,6 +7689,14 @@
       "onboard_time": 1738370895,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 117847,
+      "num": 117847,
+      "word": "王楚钦男单成功晋级",
+      "onboard_time": 1738675524,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 117752,
@@ -7859,6 +7947,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 111871,
+      "num": 170016,
+      "word": "美军退役航母被拆解卖废钢",
+      "onboard_time": 1738671864,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 111779,
       "num": 111779,
       "word": "拉文加盟国王",
@@ -7915,12 +8011,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 110660,
-      "num": 110660,
-      "word": "初八复工后我的belike",
-      "onboard_time": 1738670725,
-      "rank": 45,
-      "category": "幽默"
+      "raw_hot": 110982,
+      "num": 110982,
+      "word": "男孩看完哪吒2哭成泪人",
+      "onboard_time": 1738675524,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 110553,
@@ -8041,14 +8137,6 @@
       "onboard_time": 1738637543,
       "rank": 40,
       "category": "电影,民生新闻"
-    },
-    {
-      "raw_hot": 108366,
-      "num": 170016,
-      "word": "美军退役航母被拆解卖废钢",
-      "onboard_time": 1738671864,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 108237,
@@ -8193,6 +8281,14 @@
       "onboard_time": 1738669765,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105220,
+      "num": 105220,
+      "word": "已经到不爱吃零食的地步了",
+      "onboard_time": 1738675104,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 105172,
@@ -8419,14 +8515,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 100183,
-      "num": 117071,
-      "word": "王楚钦vs冯耀恩",
-      "onboard_time": 1738673785,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 100015,
       "num": 295980,
       "word": "赵公明如何逆袭成为财神",
@@ -8441,6 +8529,14 @@
       "onboard_time": 1738486277,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99720,
+      "num": 99720,
+      "word": "豆瓣崩了",
+      "onboard_time": 1738675524,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 99651,
@@ -8668,7 +8764,7 @@
     },
     {
       "raw_hot": 91617,
-      "num": 91617,
+      "num": 224466,
       "word": "梁靖崑逆转晋级16强",
       "onboard_time": 1738672884,
       "rank": 48,
@@ -9545,6 +9641,14 @@
       "onboard_time": 1738570047,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 56000,
+      "num": 150810,
+      "word": "哈尔滨把公路做成了留声机",
+      "onboard_time": 1738675345,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55927,
