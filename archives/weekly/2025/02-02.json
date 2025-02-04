@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738675646082,
+  "endTime": 1738676319314,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -79,6 +79,14 @@
       "num": 1693005,
       "word": "吴佩慈医院送大S最后一程",
       "onboard_time": 1738577307,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 4648844,
+      "num": 354509,
+      "word": "司机视角的大S",
+      "onboard_time": 1738676185,
       "rank": 10,
       "category": "艺人"
     },
@@ -1811,6 +1819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 401973,
+      "num": 401973,
+      "word": "独居女生套内41平米的家",
+      "onboard_time": 1738672283,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 401760,
       "num": 841011,
       "word": "雇主失联育儿嫂当妈3年带娃走亲戚",
@@ -1851,8 +1867,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 386724,
-      "num": 386724,
+      "raw_hot": 392945,
+      "num": 392945,
       "word": "杨颖王安宇民国造型",
       "onboard_time": 1738672884,
       "rank": 26,
@@ -1985,14 +2001,6 @@
       "onboard_time": 1738630221,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 358872,
-      "num": 358872,
-      "word": "独居女生套内41平米的家",
-      "onboard_time": 1738672283,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 357575,
@@ -2209,6 +2217,14 @@
       "onboard_time": 1738582173,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 325200,
+      "num": 325200,
+      "word": "乌尔善被贴脸开大",
+      "onboard_time": 1738675644,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 324681,
@@ -2579,6 +2595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 260308,
+      "num": 305019,
+      "word": "拜登与知名艺人经纪公司签约",
+      "onboard_time": 1738675283,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 258453,
       "num": 1613711,
       "word": "流感最常见的并发症是肺炎",
@@ -2785,6 +2809,14 @@
       "onboard_time": 1738466657,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 244266,
+      "num": 308496,
+      "word": "黄友政2比3弗朗西斯卡",
+      "onboard_time": 1738675283,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 244252,
@@ -3067,6 +3099,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 220127,
+      "num": 311240,
+      "word": "李瓒记忆缺失",
+      "onboard_time": 1738674024,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219845,
       "num": 219845,
       "word": "返程开车牢记这几个细节",
@@ -3120,6 +3160,22 @@
       "word": "饺子",
       "onboard_time": 1738483578,
       "rank": 23,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 216642,
+      "num": 216642,
+      "word": "真心建议要和积极乐观的人在一起",
+      "onboard_time": 1738675283,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 215882,
+      "num": 215882,
+      "word": "敖丙小果冻",
+      "onboard_time": 1738673364,
+      "rank": 30,
       "category": "电影"
     },
     {
@@ -3185,14 +3241,6 @@
       "onboard_time": 1738420699,
       "rank": 15,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 211621,
-      "num": 311240,
-      "word": "李瓒记忆缺失",
-      "onboard_time": 1738674024,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 210961,
@@ -3353,14 +3401,6 @@
       "onboard_time": 1738461075,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 203494,
-      "num": 308496,
-      "word": "黄友政2比3弗朗西斯卡",
-      "onboard_time": 1738675283,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 203185,
@@ -3635,12 +3675,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192994,
-      "num": 192994,
-      "word": "真心建议要和积极乐观的人在一起",
-      "onboard_time": 1738675283,
-      "rank": 27,
-      "category": "情感"
+      "raw_hot": 193151,
+      "num": 193151,
+      "word": "陈哲远不是天选是严选",
+      "onboard_time": 1738675045,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 192053,
@@ -3673,6 +3713,14 @@
       "onboard_time": 1738573107,
       "rank": 19,
       "category": "民生新闻,科学科普"
+    },
+    {
+      "raw_hot": 191449,
+      "num": 266216,
+      "word": "王楚钦男单成功晋级",
+      "onboard_time": 1738675524,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 191411,
@@ -3817,14 +3865,6 @@
       "onboard_time": 1738574609,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 185416,
-      "num": 185416,
-      "word": "敖丙小果冻",
-      "onboard_time": 1738673364,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 185300,
@@ -4315,6 +4355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165073,
+      "num": 165073,
+      "word": "唐人街探案祝贺哪吒",
+      "onboard_time": 1738676063,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 165003,
       "num": 1702426,
       "word": "小伙当兵没回家9好友齐给父母拜年",
@@ -4619,14 +4667,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 154879,
-      "num": 305019,
-      "word": "拜登与知名艺人经纪公司签约",
-      "onboard_time": 1738675283,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 154875,
       "num": 154875,
       "word": "WTT",
@@ -4811,6 +4851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148067,
+      "num": 148067,
+      "word": "豆瓣崩了",
+      "onboard_time": 1738675524,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 147535,
       "num": 147535,
       "word": "饺子回应敖光造型设计",
@@ -4937,14 +4985,6 @@
       "onboard_time": 1738453514,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 144016,
-      "num": 144016,
-      "word": "陈哲远不是天选是严选",
-      "onboard_time": 1738675045,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 143978,
@@ -5201,6 +5241,14 @@
       "onboard_time": 1738410199,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 137992,
+      "num": 137992,
+      "word": "初八复工后我的belike",
+      "onboard_time": 1738670725,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 137467,
@@ -5675,11 +5723,11 @@
       "category": "互联网,财经"
     },
     {
-      "raw_hot": 119214,
-      "num": 119214,
-      "word": "初八复工后我的belike",
-      "onboard_time": 1738670725,
-      "rank": 45,
+      "raw_hot": 119377,
+      "num": 119377,
+      "word": "已经到不爱吃零食的地步了",
+      "onboard_time": 1738675104,
+      "rank": 44,
       "category": "幽默"
     },
     {
@@ -5713,14 +5761,6 @@
       "onboard_time": 1738650562,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 117847,
-      "num": 117847,
-      "word": "王楚钦男单成功晋级",
-      "onboard_time": 1738675524,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 117273,
@@ -5849,6 +5889,14 @@
       "onboard_time": 1738428677,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 112886,
+      "num": 180759,
+      "word": "王楚钦3比0冯耀恩",
+      "onboard_time": 1738676063,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 112664,
@@ -6123,14 +6171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105220,
-      "num": 105220,
-      "word": "已经到不爱吃零食的地步了",
-      "onboard_time": 1738675104,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 105172,
       "num": 275655,
       "word": "惠英红65岁摇滚拽妈",
@@ -6313,14 +6353,6 @@
       "onboard_time": 1738486277,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 99720,
-      "num": 99720,
-      "word": "豆瓣崩了",
-      "onboard_time": 1738675524,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 99651,
@@ -6625,6 +6657,14 @@
       "onboard_time": 1738565909,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86509,
+      "num": 264415,
+      "word": "哈尔滨把公路做成了留声机",
+      "onboard_time": 1738675345,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86466,
@@ -7099,14 +7139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 56000,
-      "num": 150810,
-      "word": "哈尔滨把公路做成了留声机",
-      "onboard_time": 1738675345,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 55759,
       "num": 306230,
       "word": "师傅8分钟在炉子里贴满140个烧饼",
@@ -7353,6 +7385,14 @@
       "onboard_time": 1738662203,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41374,
+      "num": 218384,
+      "word": "一诺新年第一烤",
+      "onboard_time": 1738674804,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 40513,
@@ -7667,6 +7707,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 23503,
+      "num": 784315,
+      "word": "春节假期兴起入境定制游",
+      "onboard_time": 1738675764,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23237,
       "num": 212157,
       "word": "湖人欢迎东契奇",
@@ -7793,6 +7841,14 @@
       "onboard_time": 1738443920,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13450,
+      "num": 167725,
+      "word": "中国队亚冬会开门红",
+      "onboard_time": 1738676185,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 13095,

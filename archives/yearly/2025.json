@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738675646082,
+  "endTime": 1738676319314,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -481,6 +481,14 @@
       "onboard_time": 1738070443,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 4648844,
+      "num": 354509,
+      "word": "司机视角的大S",
+      "onboard_time": 1738676185,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 4643138,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735957578,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1893436,
-      "num": 1893436,
-      "word": "孟子义李昀锐合唱",
-      "onboard_time": 1736596708,
-      "rank": 7,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [

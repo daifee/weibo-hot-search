@@ -1,0 +1,410 @@
+{
+  "runTime": 1738676319314,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1237238,
+        "num": 1237238,
+        "word": "微信新增仅提醒朋友与我的互动",
+        "onboard_time": 1738671385,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1040284,
+        "num": 1040284,
+        "word": "返工人把高铁吃成流水席了",
+        "onboard_time": 1738671864,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23503,
+        "num": 784315,
+        "word": "春节假期兴起入境定制游",
+        "onboard_time": 1738675764,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 690401,
+        "num": 690401,
+        "word": "哪吒2哪吒1贴贴",
+        "onboard_time": 1738666885,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 625344,
+        "num": 625344,
+        "word": "哪吒2",
+        "onboard_time": 1738648402,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 530775,
+        "num": 530775,
+        "word": "王楚钦vs冯耀恩",
+        "onboard_time": 1738673785,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 485837,
+        "num": 485837,
+        "word": "舌尖4西湖醋鱼让司机师傅沉默了",
+        "onboard_time": 1738671085,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401973,
+        "num": 401973,
+        "word": "独居女生套内41平米的家",
+        "onboard_time": 1738672283,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 392945,
+        "num": 392945,
+        "word": "杨颖王安宇民国造型",
+        "onboard_time": 1738672884,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 364934,
+        "num": 364934,
+        "word": "泰国将对泰缅边境的缅甸地区断电",
+        "onboard_time": 1738660286,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 4648844,
+        "num": 354509,
+        "word": "司机视角的大S",
+        "onboard_time": 1738676185,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325200,
+        "num": 325200,
+        "word": "乌尔善被贴脸开大",
+        "onboard_time": 1738675644,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 2470229,
+        "num": 311626,
+        "word": "汪小菲现任妻子mandy发声",
+        "onboard_time": 1738670305,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296957,
+        "num": 296957,
+        "word": "敖光 daddy",
+        "onboard_time": 1738663163,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 260308,
+        "num": 274684,
+        "word": "拜登与知名艺人经纪公司签约",
+        "onboard_time": 1738675283,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 273353,
+        "num": 273353,
+        "word": "红狼居然因为宠妻宠女上桌了",
+        "onboard_time": 1738672403,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244266,
+        "num": 273240,
+        "word": "黄友政2比3弗朗西斯卡",
+        "onboard_time": 1738675283,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220127,
+        "num": 271143,
+        "word": "李瓒记忆缺失",
+        "onboard_time": 1738674024,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198596,
+        "num": 268239,
+        "word": "28岁河马离世饲养员手写讣告",
+        "onboard_time": 1738671803,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191449,
+        "num": 266216,
+        "word": "王楚钦男单成功晋级",
+        "onboard_time": 1738675524,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86509,
+        "num": 264415,
+        "word": "哈尔滨把公路做成了留声机",
+        "onboard_time": 1738675345,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263480,
+        "num": 263480,
+        "word": "这两人亲嘴能把对方毒死",
+        "onboard_time": 1738671505,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255448,
+        "num": 255448,
+        "word": "洗头发干净又油得慢的小方法",
+        "onboard_time": 1738668204,
+        "rank": 22,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 245791,
+        "num": 245791,
+        "word": "影史票房前5有两个哪吒",
+        "onboard_time": 1738670544,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41374,
+        "num": 218384,
+        "word": "一诺新年第一烤",
+        "onboard_time": 1738674804,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 216642,
+        "num": 216642,
+        "word": "真心建议要和积极乐观的人在一起",
+        "onboard_time": 1738675283,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215882,
+        "num": 215882,
+        "word": "敖丙小果冻",
+        "onboard_time": 1738673364,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209658,
+        "num": 209658,
+        "word": "曝痞幼新恋情",
+        "onboard_time": 1738647622,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 193151,
+        "num": 193151,
+        "word": "陈哲远不是天选是严选",
+        "onboard_time": 1738675045,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112886,
+        "num": 180759,
+        "word": "王楚钦3比0冯耀恩",
+        "onboard_time": 1738676063,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174188,
+        "num": 174188,
+        "word": "满江红祝贺哪吒",
+        "onboard_time": 1738655005,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171005,
+        "num": 171005,
+        "word": "爸爸带娃放窜天猴烧坏路人始祖鸟",
+        "onboard_time": 1738669765,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13450,
+        "num": 167725,
+        "word": "中国队亚冬会开门红",
+        "onboard_time": 1738676185,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165144,
+        "num": 165144,
+        "word": "休2上4休1",
+        "onboard_time": 1738637423,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165073,
+        "num": 165073,
+        "word": "唐人街探案祝贺哪吒",
+        "onboard_time": 1738676063,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163973,
+        "num": 163973,
+        "word": "返程高峰遇拥堵20个小时没出省",
+        "onboard_time": 1738671744,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160685,
+        "num": 160685,
+        "word": "女子套圈300个一碰东西就反弹",
+        "onboard_time": 1738657462,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148067,
+        "num": 148067,
+        "word": "豆瓣崩了",
+        "onboard_time": 1738675524,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 138012,
+        "num": 138012,
+        "word": "有一种爱叫爸爸怕你赶不上高铁",
+        "onboard_time": 1738675283,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137992,
+        "num": 137992,
+        "word": "初八复工后我的belike",
+        "onboard_time": 1738670725,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137958,
+        "num": 137958,
+        "word": "普通人千万不要提前焦虑",
+        "onboard_time": 1738665863,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120780,
+        "num": 120780,
+        "word": "高承睿3比2F勒布伦",
+        "onboard_time": 1738675283,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119377,
+        "num": 119377,
+        "word": "已经到不爱吃零食的地步了",
+        "onboard_time": 1738675104,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109090,
+        "num": 109090,
+        "word": "流浪地球3",
+        "onboard_time": 1738665504,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107930,
+        "num": 107930,
+        "word": "肖战曾说票房交给观众和市场",
+        "onboard_time": 1738652723,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107649,
+        "num": 107649,
+        "word": "王安宇打戏",
+        "onboard_time": 1738673905,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106370,
+        "num": 106370,
+        "word": "林依晨20岁就开始写遗书了",
+        "onboard_time": 1738649243,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102935,
+        "num": 102935,
+        "word": "美军退役航母被拆解卖废钢",
+        "onboard_time": 1738671864,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101079,
+        "num": 101079,
+        "word": "3人落水被机器人救起",
+        "onboard_time": 1738657104,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99235,
+        "num": 99235,
+        "word": "合上行李箱又是一年",
+        "onboard_time": 1738666825,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记那些点睛用典#"
+    }
+  }
+}
