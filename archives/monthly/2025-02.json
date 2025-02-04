@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738661008985,
+  "endTime": 1738661826007,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -444,7 +444,7 @@
     },
     {
       "raw_hot": 1426517,
-      "num": 309416,
+      "num": 350420,
       "word": "小S取消节目录制",
       "onboard_time": 1738655964,
       "rank": 10,
@@ -1643,6 +1643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 509989,
+      "num": 509989,
+      "word": "3人落水被机器人救起",
+      "onboard_time": 1738657104,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 509091,
       "num": 426963,
       "word": "蔡徐坤开工",
@@ -1825,14 +1833,6 @@
       "onboard_time": 1738557164,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 478730,
-      "num": 478730,
-      "word": "3人落水被机器人救起",
-      "onboard_time": 1738657104,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 477568,
@@ -2209,6 +2209,14 @@
       "onboard_time": 1738423639,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 393819,
+      "num": 393819,
+      "word": "泰国将对泰缅边境的缅甸地区断电",
+      "onboard_time": 1738660286,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 393510,
@@ -3155,6 +3163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 263345,
+      "num": 263345,
+      "word": "这跟和邓为谈恋爱有什么区别",
+      "onboard_time": 1738659924,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 262468,
       "num": 262468,
       "word": "樊振东和孙颖莎自动入围世界杯",
@@ -3449,6 +3465,14 @@
       "onboard_time": 1738323498,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 241652,
+      "num": 241652,
+      "word": "山西一街道让商户春节24小时开灯",
+      "onboard_time": 1738659443,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 241413,
@@ -4001,14 +4025,6 @@
       "onboard_time": 1738467017,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 208741,
-      "num": 208741,
-      "word": "这跟和邓为谈恋爱有什么区别",
-      "onboard_time": 1738659924,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 208642,
@@ -4603,14 +4619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189463,
-      "num": 189463,
-      "word": "泰国将对泰缅边境的缅甸地区断电",
-      "onboard_time": 1738660286,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 189409,
       "num": 155417,
       "word": "殷郊是你吗",
@@ -5129,14 +5137,6 @@
       "onboard_time": 1738647862,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 173779,
-      "num": 173779,
-      "word": "山西一街道让商户春节24小时开灯",
-      "onboard_time": 1738659443,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 172775,
@@ -6523,6 +6523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 135875,
+      "num": 340434,
+      "word": "迪丽热巴晒包",
+      "onboard_time": 1738656864,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134997,
       "num": 134997,
       "word": "妈宝女被六姊妹整破防了",
@@ -6777,14 +6785,6 @@
       "onboard_time": 1738549593,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127516,
-      "num": 294214,
-      "word": "迪丽热巴晒包",
-      "onboard_time": 1738656864,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 127466,
@@ -7507,20 +7507,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110045,
+      "num": 110045,
+      "word": "王楚钦林诗栋男双对手产生",
+      "onboard_time": 1738656983,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110011,
       "num": 229444,
       "word": "哪吒导演饺子谈创作的痛苦",
       "onboard_time": 1738389796,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 109849,
-      "num": 109849,
-      "word": "王楚钦林诗栋男双对手产生",
-      "onboard_time": 1738656983,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 109755,
@@ -7772,7 +7772,7 @@
     },
     {
       "raw_hot": 104079,
-      "num": 104079,
+      "num": 455108,
       "word": "春节剩菜能吃几天",
       "onboard_time": 1738633343,
       "rank": 36,
@@ -8163,6 +8163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91625,
+      "num": 91625,
+      "word": "张新成湖北方言回应刘昊然",
+      "onboard_time": 1738660944,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 91555,
       "num": 142938,
       "word": "专家解答日本流感和国内有何不同",
@@ -8297,6 +8305,14 @@
       "onboard_time": 1738387938,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 87230,
+      "num": 87230,
+      "word": "川A大军返程路况直播",
+      "onboard_time": 1738661604,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87131,
@@ -8609,14 +8625,6 @@
       "onboard_time": 1738422860,
       "rank": 46,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 77125,
-      "num": 77125,
-      "word": "张新成湖北方言回应刘昊然",
-      "onboard_time": 1738660944,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 77115,
@@ -9387,6 +9395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 36783,
+      "num": 566996,
+      "word": "中国游爆火助推我国服务贸易规模扩大",
+      "onboard_time": 1738661063,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36514,
       "num": 79690,
       "word": "流感病毒会无差别攻击全身器官",
@@ -9433,6 +9449,14 @@
       "onboard_time": 1738480517,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 34739,
+      "num": 356155,
+      "word": "春节假期高速免费截至今晚24时",
+      "onboard_time": 1738661423,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34497,
