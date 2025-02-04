@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738672949699,
+  "endTime": 1738673867649,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -428,7 +428,7 @@
     },
     {
       "raw_hot": 1476041,
-      "num": 418522,
+      "num": 487380,
       "word": "小S返台时间不对外公开",
       "onboard_time": 1738669705,
       "rank": 5,
@@ -465,6 +465,14 @@
       "onboard_time": 1738636404,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1368504,
+      "num": 1368504,
+      "word": "微信新增仅提醒朋友与我的互动",
+      "onboard_time": 1738671385,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 1300530,
@@ -521,14 +529,6 @@
       "onboard_time": 1738630461,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1195015,
-      "num": 1195015,
-      "word": "微信新增仅提醒朋友与我的互动",
-      "onboard_time": 1738671385,
-      "rank": 1,
-      "category": "互联网"
     },
     {
       "raw_hot": 1178033,
@@ -795,6 +795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 855102,
+      "num": 855102,
+      "word": "返工人把高铁吃成流水席了",
+      "onboard_time": 1738671864,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 848560,
       "num": 848560,
       "word": "白色橄榄树 四川农村",
@@ -1019,6 +1027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 674160,
+      "num": 674160,
+      "word": "哪吒2",
+      "onboard_time": 1738386858,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 664744,
       "num": 643532,
       "word": "石矶娘娘",
@@ -1136,14 +1152,6 @@
       "word": "哪吒3",
       "onboard_time": 1738410378,
       "rank": 4,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 625689,
-      "num": 488979,
-      "word": "哪吒2",
-      "onboard_time": 1738386858,
-      "rank": 27,
       "category": "电影"
     },
     {
@@ -1635,6 +1643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 444636,
+      "num": 444636,
+      "word": "舌尖4西湖醋鱼让司机师傅沉默了",
+      "onboard_time": 1738671085,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 442134,
       "num": 250045,
       "word": "洗头发干净又油得慢的小方法",
@@ -1729,14 +1745,6 @@
       "onboard_time": 1738463058,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 416988,
-      "num": 416988,
-      "word": "舌尖4西湖醋鱼让司机师傅沉默了",
-      "onboard_time": 1738671085,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 415148,
@@ -2235,6 +2243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 309084,
+      "num": 219647,
+      "word": "杨颖王安宇民国造型",
+      "onboard_time": 1738672884,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 307564,
       "num": 337988,
       "word": "殷寿一不留神猫狗双全了",
@@ -2585,6 +2601,14 @@
       "onboard_time": 1738562973,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 255931,
+      "num": 255931,
+      "word": "独居女生套内41平米的家",
+      "onboard_time": 1738672283,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 254854,
@@ -3043,14 +3067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 219647,
-      "num": 219647,
-      "word": "杨颖王安宇民国造型",
-      "onboard_time": 1738672884,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 219523,
       "num": 191817,
       "word": "陈哲远把剧组小狗领养了",
@@ -3219,6 +3235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207334,
+      "num": 310173,
+      "word": "返程高峰遇拥堵20个小时没出省",
+      "onboard_time": 1738671744,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 206846,
       "num": 206846,
       "word": "SM新女团",
@@ -3243,6 +3267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206038,
+      "num": 206038,
+      "word": "红狼居然因为宠妻宠女上桌了",
+      "onboard_time": 1738672403,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205615,
       "num": 257951,
       "word": "汪顺传递亚冬会火炬",
@@ -3257,14 +3289,6 @@
       "onboard_time": 1738639043,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 205531,
-      "num": 169598,
-      "word": "独居女生套内41平米的家",
-      "onboard_time": 1738672283,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 205091,
@@ -3731,14 +3755,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 185907,
-      "num": 337506,
-      "word": "返工人把高铁吃成流水席了",
-      "onboard_time": 1738671864,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 185624,
       "num": 185624,
       "word": "徐明浩 创2",
@@ -3907,20 +3923,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 180153,
-      "num": 180153,
-      "word": "红狼居然因为宠妻宠女上桌了",
-      "onboard_time": 1738672403,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 180009,
       "num": 149402,
       "word": "哪吒票房海报都是导演亲手画的",
       "onboard_time": 1738485138,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 179402,
+      "num": 324841,
+      "word": "28岁河马离世饲养员手写讣告",
+      "onboard_time": 1738671803,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 178754,
@@ -4225,6 +4241,14 @@
       "onboard_time": 1738624515,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166062,
+      "num": 166062,
+      "word": "肖战目光如炬",
+      "onboard_time": 1738672643,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 166011,
@@ -4843,12 +4867,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144574,
-      "num": 169638,
-      "word": "28岁河马离世饲养员手写讣告",
-      "onboard_time": 1738671803,
+      "raw_hot": 144535,
+      "num": 144535,
+      "word": "敖丙小果冻",
+      "onboard_time": 1738673364,
       "rank": 30,
-      "category": "民生新闻"
+      "category": "电影"
     },
     {
       "raw_hot": 144212,
@@ -5683,14 +5707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116107,
-      "num": 105199,
-      "word": "肖战目光如炬",
-      "onboard_time": 1738672643,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 115985,
       "num": 142079,
       "word": "养娃赛道也算让漫画党闯进来了",
@@ -5705,14 +5721,6 @@
       "onboard_time": 1738583311,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115442,
-      "num": 310173,
-      "word": "返程高峰遇拥堵20个小时没出省",
-      "onboard_time": 1738671744,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 114822,
@@ -5835,6 +5843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110660,
+      "num": 110660,
+      "word": "初八复工后我的belike",
+      "onboard_time": 1738670725,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110488,
       "num": 135120,
       "word": "湖人图啥",
@@ -5897,6 +5913,14 @@
       "onboard_time": 1738637543,
       "rank": 40,
       "category": "电影,民生新闻"
+    },
+    {
+      "raw_hot": 108366,
+      "num": 170016,
+      "word": "美军退役航母被拆解卖废钢",
+      "onboard_time": 1738671864,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 108237,
@@ -5964,7 +5988,7 @@
     },
     {
       "raw_hot": 107258,
-      "num": 586680,
+      "num": 874752,
       "word": "这一幕就是传承的具象化吧",
       "onboard_time": 1738662203,
       "rank": 2,
@@ -6065,14 +6089,6 @@
       "onboard_time": 1738654885,
       "rank": 40,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 103411,
-      "num": 103411,
-      "word": "初八复工后我的belike",
-      "onboard_time": 1738670725,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 103332,
@@ -6185,6 +6201,14 @@
       "onboard_time": 1738546460,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100183,
+      "num": 117071,
+      "word": "王楚钦vs冯耀恩",
+      "onboard_time": 1738673785,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 100015,
@@ -7009,14 +7033,6 @@
       "onboard_time": 1738587688,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 54756,
-      "num": 170016,
-      "word": "美军退役航母被拆解卖废钢",
-      "onboard_time": 1738671864,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 54110,
