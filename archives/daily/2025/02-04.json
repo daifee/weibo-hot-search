@@ -1,7 +1,15 @@
 {
   "startTime": 1738600055579,
-  "endTime": 1738640349848,
+  "endTime": 1738643155709,
   "band_list": [
+    {
+      "raw_hot": 4290073,
+      "num": 568940,
+      "word": "网传大S的急诊就诊记录",
+      "onboard_time": 1738640002,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2344339,
       "num": 530249,
@@ -27,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2059436,
+      "num": 2059436,
+      "word": "休2上4休1",
+      "onboard_time": 1738637423,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2031112,
       "num": 500462,
       "word": "大S就医时或已错过治疗黄金期",
@@ -35,27 +51,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1815251,
-      "num": 1815251,
-      "word": "休2上4休1",
-      "onboard_time": 1738637423,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1388485,
       "num": 662502,
       "word": "吴佩慈受访时泣不成声",
       "onboard_time": 1738636404,
       "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1336510,
-      "num": 226067,
-      "word": "网传大S的急诊就诊记录",
-      "onboard_time": 1738640002,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -131,12 +131,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 602901,
+      "num": 602901,
+      "word": "DeepSeek给全世界特别是美国上了一课",
+      "onboard_time": 1738639943,
+      "rank": 19,
+      "category": "互联网,国际时政"
+    },
+    {
       "raw_hot": 576767,
       "num": 207423,
       "word": "大S曾邀请新人时的陈紫函一起候场",
       "onboard_time": 1738637483,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 567946,
+      "num": 567946,
+      "word": "史上第一个被按斤卖掉的男主",
+      "onboard_time": 1738641322,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 561430,
@@ -187,6 +203,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 449512,
+      "num": 449512,
+      "word": "看完唐探1900感觉自己白看了",
+      "onboard_time": 1738638385,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 419278,
+      "num": 245650,
+      "word": "六姊妹首播收视率破3",
+      "onboard_time": 1738641562,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 409452,
       "num": 396592,
       "word": "哪吒2进影史前10",
@@ -227,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 361035,
+      "num": 204904,
+      "word": "哪吒之魔童闹海进入影史票房榜前八",
+      "onboard_time": 1738640902,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 360762,
       "num": 310084,
       "word": "哪吒之魔童闹海票房破42亿",
@@ -249,6 +289,14 @@
       "onboard_time": 1738590810,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 345963,
+      "num": 345963,
+      "word": "光遇复刻",
+      "onboard_time": 1738642888,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 338132,
@@ -275,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 313363,
+      "num": 204685,
+      "word": "哪吒2导演说石矶娘娘心思单纯可爱",
+      "onboard_time": 1738641802,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 306004,
       "num": 306949,
       "word": "27岁演员梁祐诚大年初二突然去世",
@@ -299,14 +355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 294999,
-      "num": 294999,
-      "word": "看完唐探1900感觉自己白看了",
-      "onboard_time": 1738638385,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 294494,
       "num": 169471,
       "word": "卧室再小也能做个衣帽间",
@@ -329,6 +377,14 @@
       "onboard_time": 1738636223,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 244252,
+      "num": 244252,
+      "word": "中国代表回应DeepSeek引发轰动",
+      "onboard_time": 1738639943,
+      "rank": 15,
+      "category": "互联网,国际时政"
     },
     {
       "raw_hot": 228733,
@@ -371,12 +427,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 200609,
-      "num": 200609,
-      "word": "中国代表回应DeepSeek引发轰动",
-      "onboard_time": 1738639943,
-      "rank": 15,
-      "category": "互联网,国际时政"
+      "raw_hot": 205599,
+      "num": 205599,
+      "word": "美加同意暂缓30天实施加征关税措施",
+      "onboard_time": 1738639043,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 195240,
@@ -409,14 +465,6 @@
       "onboard_time": 1738595069,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 188423,
-      "num": 188423,
-      "word": "DeepSeek给全世界特别是美国上了一课",
-      "onboard_time": 1738639943,
-      "rank": 19,
-      "category": "互联网,国际时政"
     },
     {
       "raw_hot": 184912,
@@ -523,6 +571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 163328,
+      "num": 163328,
+      "word": "封神几秒钟的镜头硬生生刀我好几天",
+      "onboard_time": 1738642943,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 161636,
       "num": 195102,
       "word": "多地返程遇雨雪",
@@ -595,6 +651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 143114,
+      "num": 143114,
+      "word": "美国暂停对加墨两国加征关税",
+      "onboard_time": 1738641263,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 142516,
       "num": 142516,
       "word": "小蛇糕",
@@ -625,6 +689,14 @@
       "onboard_time": 1738590269,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138787,
+      "num": 280133,
+      "word": "8天假期的真实状态",
+      "onboard_time": 1738641083,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138760,
@@ -659,20 +731,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 118422,
-      "num": 118422,
-      "word": "美加同意暂缓30天实施加征关税措施",
-      "onboard_time": 1738639043,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 118321,
       "num": 306594,
       "word": "敖光 精灵王",
       "onboard_time": 1738592492,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 116119,
+      "num": 116119,
+      "word": "浓眉告别湖人",
+      "onboard_time": 1738641381,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 113421,
@@ -779,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101417,
+      "num": 101417,
+      "word": "本周六要上班",
+      "onboard_time": 1738640303,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100617,
       "num": 306555,
       "word": "射雕豆瓣5.5",
@@ -795,20 +875,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 96945,
-      "num": 96945,
-      "word": "本周六要上班",
-      "onboard_time": 1738640303,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 94129,
-      "num": 94129,
+      "num": 203527,
       "word": "C罗说金球奖毫无可信度",
       "onboard_time": 1738640002,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91439,
+      "num": 91439,
+      "word": "恋与深空",
+      "onboard_time": 1738641921,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 87131,
@@ -1027,10 +1107,26 @@
       "category": "电影"
     },
     {
+      "raw_hot": 34378,
+      "num": 205345,
+      "word": "陈垣宇vs张禹珍",
+      "onboard_time": 1738642582,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32553,
       "num": 695696,
       "word": "用非遗剪纸打开春节年俗",
       "onboard_time": 1738639462,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31473,
+      "num": 569847,
+      "word": "致敬坚守的他们",
+      "onboard_time": 1738640489,
       "rank": 2,
       "category": "民生新闻"
     },

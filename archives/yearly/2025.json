@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738640349848,
+  "endTime": 1738643155709,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -521,6 +521,14 @@
       "onboard_time": 1738552467,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 4290073,
+      "num": 568940,
+      "word": "网传大S的急诊就诊记录",
+      "onboard_time": 1738640002,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 4271465,
@@ -1923,6 +1931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2059436,
+      "num": 2059436,
+      "word": "休2上4休1",
+      "onboard_time": 1738637423,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2057350,
       "num": 2057350,
       "word": "哪吒2因为时长砍掉镜头",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1736384242,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1875437,
-      "num": 350063,
-      "word": "印度女医生奸杀案宣判",
-      "onboard_time": 1737377178,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1871030,
-      "num": 870749,
-      "word": "韩安冉前夫破产",
-      "onboard_time": 1737346578,
-      "rank": 12,
-      "category": "网红"
     }
   ],
   "hotgov_list": [
