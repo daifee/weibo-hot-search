@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738661826007,
+  "endTime": 1738664629253,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -379,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 6995860,
+      "num": 6995860,
+      "word": "汪小菲评论大S老婆我好想你",
+      "onboard_time": 1738663943,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 6975199,
       "num": 6975199,
       "word": "王菲嗓子无敌了",
@@ -473,6 +481,14 @@
       "onboard_time": 1738070443,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 4643138,
+      "num": 361841,
+      "word": "台媒证实大S最终死因是败血症",
+      "onboard_time": 1738662923,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 4591252,
@@ -2384,22 +2400,6 @@
       "word": "98年民警抓患艾滋嫌犯受伤流血",
       "onboard_time": 1736246782,
       "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1887519,
-      "num": 1887519,
-      "word": "杨紫 没有这么欺负人的",
-      "onboard_time": 1736167822,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 1886734,
-      "num": 1886734,
-      "word": "山姆大代购赚的不止代购费",
-      "onboard_time": 1736835499,
-      "rank": 28,
       "category": "民生新闻"
     }
   ],

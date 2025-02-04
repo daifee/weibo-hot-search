@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738661826007,
+  "endTime": 1738664629253,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -67,11 +67,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 6995860,
+      "num": 6995860,
+      "word": "汪小菲评论大S老婆我好想你",
+      "onboard_time": 1738663943,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 5151427,
       "num": 1693005,
       "word": "吴佩慈医院送大S最后一程",
       "onboard_time": 1738577307,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 4643138,
+      "num": 361841,
+      "word": "台媒证实大S最终死因是败血症",
+      "onboard_time": 1738662923,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -995,6 +1011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 656409,
+      "num": 656409,
+      "word": "泰国将对泰缅边境的缅甸地区断电",
+      "onboard_time": 1738660286,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 650007,
       "num": 650007,
       "word": "加拿大总理宣布反制措施",
@@ -1139,6 +1163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 584400,
+      "num": 488979,
+      "word": "哪吒2",
+      "onboard_time": 1738386858,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 581065,
       "num": 581065,
       "word": "王楚钦vs宇田幸矢",
@@ -1219,14 +1251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 554762,
-      "num": 488979,
-      "word": "哪吒2",
-      "onboard_time": 1738386858,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 547557,
       "num": 547557,
       "word": "谷歌被立案调查",
@@ -1257,6 +1281,14 @@
       "onboard_time": 1738559316,
       "rank": 14,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 539440,
+      "num": 539440,
+      "word": "山西一街道让商户春节24小时开灯",
+      "onboard_time": 1738659443,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 537034,
@@ -1555,6 +1587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 436829,
+      "num": 350196,
+      "word": "哪吒之魔童闹海票房破46亿",
+      "onboard_time": 1738662382,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 435758,
       "num": 435758,
       "word": "孟子义上节目穿几十块的衣服",
@@ -1705,14 +1745,6 @@
       "onboard_time": 1738423639,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 393819,
-      "num": 393819,
-      "word": "泰国将对泰缅边境的缅甸地区断电",
-      "onboard_time": 1738660286,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 393510,
@@ -2080,6 +2112,14 @@
       "word": "敖丙传",
       "onboard_time": 1738420759,
       "rank": 22,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 321922,
+      "num": 276172,
+      "word": "敖光 daddy",
+      "onboard_time": 1738663163,
+      "rank": 11,
       "category": "电影"
     },
     {
@@ -2467,6 +2507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253787,
+      "num": 172779,
+      "word": "败血症",
+      "onboard_time": 1738664364,
+      "rank": 26,
+      "category": "健康医疗,艺人"
+    },
+    {
       "raw_hot": 253547,
       "num": 477430,
       "word": "疑似申公豹全家福流出",
@@ -2515,6 +2563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 250080,
+      "num": 250080,
+      "word": "山西商户拒开灯执法队强行撬锁进店",
+      "onboard_time": 1738662803,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 249673,
       "num": 201890,
       "word": "饺子导演手绘无表情哪吒",
@@ -2537,6 +2593,14 @@
       "onboard_time": 1738494377,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 248203,
+      "num": 144518,
+      "word": "汪小菲清空带货橱窗",
+      "onboard_time": 1738663704,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 247833,
@@ -2609,14 +2673,6 @@
       "onboard_time": 1738639943,
       "rank": 15,
       "category": "互联网,国际时政"
-    },
-    {
-      "raw_hot": 241652,
-      "num": 241652,
-      "word": "山西一街道让商户春节24小时开灯",
-      "onboard_time": 1738659443,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 241413,
@@ -3371,6 +3427,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 191162,
+      "num": 143987,
+      "word": "原来假睫毛贴在这才不会塌",
+      "onboard_time": 1738662683,
+      "rank": 31,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 190548,
       "num": 273713,
       "word": "卢昱晓直播",
@@ -3707,6 +3771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 176133,
+      "num": 176133,
+      "word": "爸爸替未出生的宝宝向亲戚拜年",
+      "onboard_time": 1738661843,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175407,
       "num": 212554,
       "word": "王楚钦晋级32强",
@@ -3804,7 +3876,7 @@
     },
     {
       "raw_hot": 172172,
-      "num": 172172,
+      "num": 249459,
       "word": "林孝埈说要为中国队夺得更多金牌",
       "onboard_time": 1738658486,
       "rank": 28,
@@ -4363,6 +4435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149106,
+      "num": 149106,
+      "word": "白色橄榄树孤儿院被炸",
+      "onboard_time": 1738662862,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149018,
       "num": 149018,
       "word": "仙逆",
@@ -4401,6 +4481,14 @@
       "onboard_time": 1738631302,
       "rank": 28,
       "category": "综艺,美食"
+    },
+    {
+      "raw_hot": 146478,
+      "num": 248959,
+      "word": "现在的糖人都会动了",
+      "onboard_time": 1738661963,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 145765,
@@ -4625,6 +4713,14 @@
       "onboard_time": 1738555789,
       "rank": 2,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 140385,
+      "num": 140385,
+      "word": "白宇魏大勋同游三亚",
+      "onboard_time": 1738663824,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 140369,
@@ -5019,6 +5115,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 125869,
+      "num": 248160,
+      "word": "陈鹤一素颜直播帅成这样",
+      "onboard_time": 1738664003,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125556,
       "num": 125556,
       "word": "为了相亲把照片设置成了红包封面",
@@ -5208,6 +5312,14 @@
       "word": "六姊妹第一集就看哭了",
       "onboard_time": 1738650562,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 117534,
+      "num": 117534,
+      "word": "暗恋一个人10多年什么体验",
+      "onboard_time": 1738664064,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -5723,6 +5835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100558,
+      "num": 100558,
+      "word": "丁程鑫请问路在哪儿",
+      "onboard_time": 1738664544,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100440,
       "num": 100440,
       "word": "饺子说一定要做观众没见过的",
@@ -5787,6 +5907,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 97591,
+      "num": 97591,
+      "word": "马嘉祺假期vlog",
+      "onboard_time": 1738662088,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97460,
       "num": 97460,
       "word": "梁洁跳舞把我笑成蛇精病了",
@@ -5825,6 +5953,22 @@
       "onboard_time": 1738488860,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 96332,
+      "num": 559426,
+      "word": "这一幕就是传承的具象化吧",
+      "onboard_time": 1738662203,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95561,
+      "num": 356155,
+      "word": "春节假期高速免费截至今晚24时",
+      "onboard_time": 1738661423,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95439,
@@ -5963,6 +6107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89110,
+      "num": 89110,
+      "word": "国际乒联已有排名保护规则",
+      "onboard_time": 1738661963,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88030,
       "num": 421283,
       "word": "宋冉生来就有爱人的能力",
@@ -6025,6 +6177,14 @@
       "onboard_time": 1738639102,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85699,
+      "num": 85699,
+      "word": "肖战阿如那的贴心守护",
+      "onboard_time": 1738663283,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 85423,
@@ -6803,14 +6963,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 34739,
-      "num": 356155,
-      "word": "春节假期高速免费截至今晚24时",
-      "onboard_time": 1738661423,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34497,
       "num": 79679,
       "word": "哪吒2曾尝试国外特效团队不尽人意",
@@ -6881,6 +7033,14 @@
       "onboard_time": 1738522333,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 30199,
+      "num": 144664,
+      "word": "爸妈装的行李一提一个不吱声",
+      "onboard_time": 1738664424,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 29678,
