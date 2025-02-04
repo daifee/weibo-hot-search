@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738625746163,
+  "endTime": 1738633239285,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1499,6 +1499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2344339,
+      "num": 439308,
+      "word": "具俊晔崩溃",
+      "onboard_time": 1738629080,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2334084,
       "num": 2334084,
       "word": "姜尘晒录音提张颂文名字",
@@ -1889,6 +1897,14 @@
       "onboard_time": 1736841379,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2081006,
+      "num": 269268,
+      "word": "小S曾在姐姐去世前几小时和妈妈跳舞",
+      "onboard_time": 1738629201,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2077247,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1737697459,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1870830,
-      "num": 1870830,
-      "word": "虞书欣黑莲花女王",
-      "onboard_time": 1736574381,
-      "rank": 1,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1868618,
-      "num": 1868618,
-      "word": "希尔顿等名人豪宅已被烧成平地",
-      "onboard_time": 1736400862,
-      "rank": 25,
-      "category": "海外新闻"
     }
   ],
   "hotgov_list": [

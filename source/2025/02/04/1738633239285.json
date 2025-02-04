@@ -1,0 +1,410 @@
+{
+  "runTime": 1738633239285,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 633501,
+        "num": 1101360,
+        "word": "流浪地球给哪吒做的贺图",
+        "onboard_time": 1738626137,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 572158,
+        "num": 572158,
+        "word": "DeepSeek回答如何过好这一生",
+        "onboard_time": 1738624635,
+        "rank": 1,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 24742,
+        "num": 475266,
+        "word": "亚冬会火炬传递圆满结束",
+        "onboard_time": 1738589309,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2344339,
+        "num": 439308,
+        "word": "具俊晔崩溃",
+        "onboard_time": 1738629080,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383510,
+        "num": 383510,
+        "word": "奥司他韦不能乱吃",
+        "onboard_time": 1738592372,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 344260,
+        "num": 344260,
+        "word": "流感合并肺炎有这些症状",
+        "onboard_time": 1738590810,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 425031,
+        "num": 341563,
+        "word": "哪吒3",
+        "onboard_time": 1738630041,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 331761,
+        "num": 331761,
+        "word": "明天上班",
+        "onboard_time": 1738624035,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324121,
+        "num": 324121,
+        "word": "学医的老公回村过年邻居8点排队看病",
+        "onboard_time": 1738631061,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276132,
+        "num": 276132,
+        "word": "射雕口碑",
+        "onboard_time": 1738628720,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 2081006,
+        "num": 269268,
+        "word": "小S曾在姐姐去世前几小时和妈妈跳舞",
+        "onboard_time": 1738629201,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324681,
+        "num": 253385,
+        "word": "泽连斯基称不知道美国给的钱去了哪里",
+        "onboard_time": 1738629739,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1029674,
+        "num": 238088,
+        "word": "医生称大S去世或与基础性疾病有关",
+        "onboard_time": 1738629020,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218923,
+        "num": 218923,
+        "word": "女子4次陪老公跨越260公里悼念亡妻",
+        "onboard_time": 1738631001,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1025926,
+        "num": 211825,
+        "word": "遇见熙媛5363天",
+        "onboard_time": 1738630461,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184896,
+        "num": 184896,
+        "word": "雇主失联育儿嫂当妈3年带娃走亲戚",
+        "onboard_time": 1738597167,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289211,
+        "num": 184362,
+        "word": "小S两个女儿回台",
+        "onboard_time": 1738590329,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183747,
+        "num": 183747,
+        "word": "返程开车牢记这几个细节",
+        "onboard_time": 1738631001,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 657981,
+        "num": 178021,
+        "word": "大S朋友圈签名",
+        "onboard_time": 1738594530,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166659,
+        "num": 166659,
+        "word": "怎么假期就最后一天了",
+        "onboard_time": 1738624515,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294494,
+        "num": 166351,
+        "word": "卧室再小也能做个衣帽间",
+        "onboard_time": 1738628780,
+        "rank": 20,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 227962,
+        "num": 166305,
+        "word": "哪吒之魔童闹海票房破42亿",
+        "onboard_time": 1738630221,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165489,
+        "num": 165489,
+        "word": "徐妈妈希望外界给予徐家人一点时间",
+        "onboard_time": 1738626978,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160725,
+        "num": 160725,
+        "word": "门牙上的豁口真是嗑瓜子嗑出来的吗",
+        "onboard_time": 1738631001,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 156725,
+        "num": 156725,
+        "word": "正月初七为啥称为人日",
+        "onboard_time": 1738631001,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151208,
+        "num": 151208,
+        "word": "藕饼",
+        "onboard_time": 1738626017,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142516,
+        "num": 142516,
+        "word": "小蛇糕",
+        "onboard_time": 1738629020,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140244,
+        "num": 140244,
+        "word": "七成癫痫患者经治疗可不再发病",
+        "onboard_time": 1738594109,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134221,
+        "num": 134221,
+        "word": "蛋清羊尾是中国人自己的泡芙",
+        "onboard_time": 1738631302,
+        "rank": 28,
+        "category": "综艺,美食"
+      },
+      {
+        "raw_hot": 132784,
+        "num": 132784,
+        "word": "哪吒2进影史前10",
+        "onboard_time": 1738595671,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155438,
+        "num": 130433,
+        "word": "被诬陷偷拍男子结婚了",
+        "onboard_time": 1738628720,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125860,
+        "num": 125860,
+        "word": "吴京 流浪地球3",
+        "onboard_time": 1738591349,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123179,
+        "num": 123179,
+        "word": "墨总统强势回击美国加征关税",
+        "onboard_time": 1738620733,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120100,
+        "num": 120100,
+        "word": "射雕疑似被恶意打分",
+        "onboard_time": 1738603457,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107343,
+        "num": 107343,
+        "word": "库班对东契奇交易感到困惑",
+        "onboard_time": 1738631001,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105197,
+        "num": 105197,
+        "word": "光线要拍敖丙传",
+        "onboard_time": 1738595671,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97785,
+        "num": 97785,
+        "word": "四川一百岁老人寿宴摆了118桌",
+        "onboard_time": 1738596987,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95072,
+        "num": 95072,
+        "word": "日本一制药公司暂停供应奥司他韦",
+        "onboard_time": 1738574967,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 91330,
+        "num": 91330,
+        "word": "春节档六部电影豆瓣开分",
+        "onboard_time": 1738591108,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 87131,
+        "num": 87131,
+        "word": "超1400万人申请国补买手机等产品",
+        "onboard_time": 1738604837,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86289,
+        "num": 86289,
+        "word": "中方舰艇编队正常过航巴西兰海峡",
+        "onboard_time": 1738593091,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 83584,
+        "num": 83584,
+        "word": "李瓒听不到了",
+        "onboard_time": 1738590269,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82296,
+        "num": 82296,
+        "word": "日本留学生称地铁有三成人戴口罩",
+        "onboard_time": 1738619532,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80070,
+        "num": 80070,
+        "word": "美国将再次退出联合国人权理事会",
+        "onboard_time": 1738628780,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 78023,
+        "num": 78023,
+        "word": "敖光是参考故宫龙的标准中国龙",
+        "onboard_time": 1738597049,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 76589,
+        "num": 76589,
+        "word": "27岁演员梁祐诚大年初二突然去世",
+        "onboard_time": 1738576107,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76035,
+        "num": 76035,
+        "word": "哪吒逆跌",
+        "onboard_time": 1738592611,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 70856,
+        "num": 70856,
+        "word": "多平台宣布上线DeepSeek大模型",
+        "onboard_time": 1738632803,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 69628,
+        "num": 69628,
+        "word": "花花舞龙舞狮动作太标准了",
+        "onboard_time": 1738632381,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66171,
+        "num": 66171,
+        "word": "勇士有意集齐詹杜库",
+        "onboard_time": 1738631001,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记从剪纸感受春日美好#"
+    }
+  }
+}

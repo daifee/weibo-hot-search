@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738625746163,
+  "endTime": 1738633239285,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2344339,
+      "num": 439308,
+      "word": "具俊晔崩溃",
+      "onboard_time": 1738629080,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2236543,
       "num": 505789,
       "word": "小S两个女儿回台",
@@ -184,6 +192,14 @@
       "word": "亲友找不到具俊晔",
       "onboard_time": 1738577668,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2081006,
+      "num": 269268,
+      "word": "小S曾在姐姐去世前几小时和妈妈跳舞",
+      "onboard_time": 1738629201,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -473,6 +489,22 @@
       "onboard_time": 1738480338,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1029674,
+      "num": 238088,
+      "word": "医生称大S去世或与基础性疾病有关",
+      "onboard_time": 1738629020,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1025926,
+      "num": 211825,
+      "word": "遇见熙媛5363天",
+      "onboard_time": 1738630461,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 1007552,
@@ -843,6 +875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 633501,
+      "num": 1101360,
+      "word": "流浪地球给哪吒做的贺图",
+      "onboard_time": 1738626137,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 632377,
       "num": 632377,
       "word": "赵本山纽约演出",
@@ -953,6 +993,14 @@
       "onboard_time": 1738421900,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 572158,
+      "num": 572158,
+      "word": "DeepSeek回答如何过好这一生",
+      "onboard_time": 1738624635,
+      "rank": 20,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 564907,
@@ -1651,6 +1699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 331761,
+      "num": 331761,
+      "word": "明天上班",
+      "onboard_time": 1738624035,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 330592,
       "num": 322067,
       "word": "张佳宁晒合照为宋茜庆生",
@@ -1704,6 +1760,22 @@
       "word": "多位博主曾建议近期不要赴日本旅游",
       "onboard_time": 1738582173,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 324681,
+      "num": 253385,
+      "word": "泽连斯基称不知道美国给的钱去了哪里",
+      "onboard_time": 1738629739,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 324121,
+      "num": 324121,
+      "word": "学医的老公回村过年邻居8点排队看病",
+      "onboard_time": 1738631061,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -1827,6 +1899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 294494,
+      "num": 166351,
+      "word": "卧室再小也能做个衣帽间",
+      "onboard_time": 1738628780,
+      "rank": 20,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 293864,
       "num": 240909,
       "word": "马龙夏露日本逛街",
@@ -1921,6 +2001,14 @@
       "onboard_time": 1738485978,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 276132,
+      "num": 276132,
+      "word": "射雕口碑",
+      "onboard_time": 1738628720,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 275729,
@@ -2219,6 +2307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227962,
+      "num": 166305,
+      "word": "哪吒之魔童闹海票房破42亿",
+      "onboard_time": 1738630221,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 227123,
       "num": 227123,
       "word": "夫妻狂追5分钟截停起火货车",
@@ -2329,6 +2425,14 @@
       "onboard_time": 1738508721,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 218923,
+      "num": 218923,
+      "word": "女子4次陪老公跨越260公里悼念亡妻",
+      "onboard_time": 1738631001,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 217356,
@@ -2939,6 +3043,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 183747,
+      "num": 183747,
+      "word": "返程开车牢记这几个细节",
+      "onboard_time": 1738631001,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181962,
       "num": 488694,
       "word": "中方舰艇编队正常过航巴西兰海峡",
@@ -3171,12 +3283,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166659,
+      "num": 166659,
+      "word": "怎么假期就最后一天了",
+      "onboard_time": 1738624515,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166011,
       "num": 181791,
       "word": "2025乒乓球世界杯",
       "onboard_time": 1738495458,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165489,
+      "num": 165489,
+      "word": "徐妈妈希望外界给予徐家人一点时间",
+      "onboard_time": 1738626978,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 165003,
@@ -3283,6 +3411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 160725,
+      "num": 160725,
+      "word": "门牙上的豁口真是嗑瓜子嗑出来的吗",
+      "onboard_time": 1738631001,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 160583,
       "num": 160583,
       "word": "国防部发布当那一天来临MV",
@@ -3355,6 +3491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 156725,
+      "num": 156725,
+      "word": "正月初七为啥称为人日",
+      "onboard_time": 1738631001,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156593,
       "num": 156593,
       "word": "独行侠主动要求交易东契奇",
@@ -3377,6 +3521,14 @@
       "onboard_time": 1738477096,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155438,
+      "num": 130433,
+      "word": "被诬陷偷拍男子结婚了",
+      "onboard_time": 1738628720,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155429,
@@ -3449,6 +3601,14 @@
       "onboard_time": 1738500619,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 151208,
+      "num": 151208,
+      "word": "藕饼",
+      "onboard_time": 1738469718,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 151095,
@@ -3843,20 +4003,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 136537,
-      "num": 136537,
-      "word": "藕饼",
-      "onboard_time": 1738469718,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 134700,
       "num": 134700,
       "word": "王者荣耀灵宝市集",
       "onboard_time": 1738466897,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 134221,
+      "num": 134221,
+      "word": "蛋清羊尾是中国人自己的泡芙",
+      "onboard_time": 1738631302,
+      "rank": 28,
+      "category": "综艺,美食"
     },
     {
       "raw_hot": 132973,
@@ -3945,14 +4105,6 @@
       "onboard_time": 1738475718,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129514,
-      "num": 129514,
-      "word": "明天上班",
-      "onboard_time": 1738624035,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128091,
@@ -4467,6 +4619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107343,
+      "num": 107343,
+      "word": "库班对东契奇交易感到困惑",
+      "onboard_time": 1738631001,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106524,
       "num": 1661583,
       "word": "院士夫妻现实版你是我的眼",
@@ -4699,14 +4859,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 93815,
-      "num": 93815,
-      "word": "怎么假期就最后一天了",
-      "onboard_time": 1738624515,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 93090,
       "num": 211629,
       "word": "摄影师记录独属于杨妞花的团圆时刻",
@@ -4795,6 +4947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87131,
+      "num": 134410,
+      "word": "超1400万人申请国补买手机等产品",
+      "onboard_time": 1738604837,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86990,
       "num": 246865,
       "word": "2025多哈世乒赛规则出炉",
@@ -4865,6 +5025,14 @@
       "onboard_time": 1738581209,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80070,
+      "num": 80070,
+      "word": "美国将再次退出联合国人权理事会",
+      "onboard_time": 1738628780,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 79938,
@@ -4947,6 +5115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70856,
+      "num": 70856,
+      "word": "多平台宣布上线DeepSeek大模型",
+      "onboard_time": 1738632803,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 70783,
       "num": 215972,
       "word": "快船爵士交易",
@@ -4961,6 +5137,14 @@
       "onboard_time": 1738579289,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 69628,
+      "num": 69628,
+      "word": "花花舞龙舞狮动作太标准了",
+      "onboard_time": 1738632381,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 69396,
@@ -5003,6 +5187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66171,
+      "num": 66171,
+      "word": "勇士有意集齐詹杜库",
+      "onboard_time": 1738631001,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66069,
       "num": 69834,
       "word": "刘国梁对WTT提出4点建议",
@@ -5035,14 +5227,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 64614,
-      "num": 90648,
-      "word": "DeepSeek回答如何过好这一生",
-      "onboard_time": 1738624635,
-      "rank": 20,
-      "category": "互联网,民生新闻"
-    },
-    {
       "raw_hot": 64030,
       "num": 35074,
       "word": "哪吒2魔童闹海",
@@ -5073,14 +5257,6 @@
       "onboard_time": 1738480217,
       "rank": 19,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 60678,
-      "num": 134410,
-      "word": "超1400万人申请国补买手机等产品",
-      "onboard_time": 1738604837,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60463,
@@ -5587,6 +5763,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 24742,
+      "num": 636381,
+      "word": "亚冬会火炬传递圆满结束",
+      "onboard_time": 1738589309,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 24592,
       "num": 29385,
       "word": "文化中国行立春节气",
@@ -5673,14 +5857,6 @@
       "onboard_time": 1738606036,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19864,
-      "num": 636381,
-      "word": "亚冬会火炬传递圆满结束",
-      "onboard_time": 1738589309,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 19755,
