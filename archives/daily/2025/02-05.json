@@ -1,10 +1,10 @@
 {
   "startTime": 1738686513636,
-  "endTime": 1738748282496,
+  "endTime": 1738751023137,
   "band_list": [
     {
-      "raw_hot": 4795767,
-      "num": 4795767,
+      "raw_hot": 9238219,
+      "num": 9238219,
       "word": "沈腾方否认和林允恋情",
       "onboard_time": 1738746503,
       "rank": 0,
@@ -51,6 +51,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1214897,
+      "num": 516689,
+      "word": "喻言 浪姐",
+      "onboard_time": 1738748490,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1203641,
       "num": 1203641,
       "word": "哪吒之魔童闹海票房破51亿",
@@ -81,6 +89,14 @@
       "onboard_time": 1738724120,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1057071,
+      "num": 397172,
+      "word": "哪吒票房",
+      "onboard_time": 1738745064,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 985035,
@@ -267,20 +283,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 584977,
+      "num": 555686,
+      "word": "看电影的最佳位置不是正中间",
+      "onboard_time": 1738740202,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 581184,
       "num": 581184,
       "word": "游客曝张家界一饭店点2个菜花844元",
       "onboard_time": 1738744403,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 563332,
-      "num": 555686,
-      "word": "看电影的最佳位置不是正中间",
-      "onboard_time": 1738740202,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 562618,
@@ -403,20 +419,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 453233,
+      "num": 446866,
+      "word": "哪吒2票房爆炸谁赢麻了",
+      "onboard_time": 1738744824,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 447900,
       "num": 447900,
       "word": "谁能想到陈哲远搬的是泡沫",
       "onboard_time": 1738730487,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 446866,
-      "num": 446866,
-      "word": "哪吒2票房爆炸谁赢麻了",
-      "onboard_time": 1738744824,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 446519,
@@ -436,7 +452,7 @@
     },
     {
       "raw_hot": 430946,
-      "num": 197933,
+      "num": 298786,
       "word": "男子心脏骤停急救醒来后要赶去上班",
       "onboard_time": 1738741882,
       "rank": 20,
@@ -499,14 +515,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 364185,
-      "num": 259325,
-      "word": "哪吒票房",
-      "onboard_time": 1738745064,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 362902,
       "num": 362902,
       "word": "官方回应店铺因未彻夜亮灯被撬锁开灯",
@@ -556,7 +564,7 @@
     },
     {
       "raw_hot": 322514,
-      "num": 197217,
+      "num": 199143,
       "word": "孩子高速上下车被应急车道车撞飞",
       "onboard_time": 1738741942,
       "rank": 21,
@@ -601,6 +609,14 @@
       "onboard_time": 1738742723,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 307906,
+      "num": 307906,
+      "word": "林允方取证",
+      "onboard_time": 1738749986,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 306425,
@@ -651,6 +667,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 285418,
+      "num": 285418,
+      "word": "射雕票房破6亿",
+      "onboard_time": 1738749027,
+      "rank": 22,
+      "category": "电影,剧集"
+    },
+    {
+      "raw_hot": 282621,
+      "num": 282621,
+      "word": "哪吒之魔童闹海票房破53亿",
+      "onboard_time": 1738749806,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 280495,
       "num": 218370,
       "word": "女子离家9天猫咪打开热水浴室被泡",
@@ -691,6 +723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 267750,
+      "num": 267750,
+      "word": "怀疑惠英红特别关注张小斐",
+      "onboard_time": 1738747226,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 266952,
       "num": 266952,
       "word": "王一博初八神采焕发",
@@ -729,14 +769,6 @@
       "onboard_time": 1738712117,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 256077,
-      "num": 196775,
-      "word": "怀疑惠英红特别关注张小斐",
-      "onboard_time": 1738747226,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 251193,
@@ -843,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227844,
+      "num": 372052,
+      "word": "特朗普称美国可长期拥有加沙",
+      "onboard_time": 1738744764,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 227836,
       "num": 227836,
       "word": "唐人街探案祝贺哪吒",
@@ -931,12 +971,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212933,
+      "num": 212933,
+      "word": "哪吒为何不像国人的名字",
+      "onboard_time": 1738744884,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 212672,
       "num": 212672,
       "word": "谷爱凌因摔倒造成了严重的挫伤",
       "onboard_time": 1738735283,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211214,
+      "num": 187142,
+      "word": "85花来给复仇剧上强度了",
+      "onboard_time": 1738750164,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 207832,
@@ -987,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204067,
+      "num": 313956,
+      "word": "多网友曝张家界一饭店联合司机宰客",
+      "onboard_time": 1738748664,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203971,
       "num": 203971,
       "word": "王长田还是保守了",
@@ -1019,6 +1083,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 200546,
+      "num": 517809,
+      "word": "春节多地文旅数据出炉",
+      "onboard_time": 1738748490,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199560,
       "num": 199560,
       "word": "看到刘昊然理解古代复宠了",
@@ -1049,14 +1121,6 @@
       "onboard_time": 1738742783,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196759,
-      "num": 196759,
-      "word": "哪吒为何不像国人的名字",
-      "onboard_time": 1738744884,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 196684,
@@ -1131,14 +1195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189089,
-      "num": 189089,
-      "word": "特朗普称美国可长期拥有加沙",
-      "onboard_time": 1738744764,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 188964,
       "num": 188964,
       "word": "表情包演我上班第一天",
@@ -1168,6 +1224,14 @@
       "word": "逆跌",
       "onboard_time": 1738677025,
       "rank": 22,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 183608,
+      "num": 364013,
+      "word": "饺子导演名下多家企业已注销",
+      "onboard_time": 1738750524,
+      "rank": 9,
       "category": "电影"
     },
     {
@@ -1211,6 +1275,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 180926,
+      "num": 180926,
+      "word": "敖丙",
+      "onboard_time": 1738748490,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 180645,
+      "num": 310945,
+      "word": "樊振东开工大吉",
+      "onboard_time": 1738747165,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180296,
       "num": 180296,
       "word": "2025春节档票房排名结果",
@@ -1235,6 +1315,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 178178,
+      "num": 178178,
+      "word": "张小斐侧腹肌",
+      "onboard_time": 1738750946,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177776,
       "num": 177776,
       "word": "黄景瑜现偶成绩",
@@ -1249,6 +1337,14 @@
       "onboard_time": 1738725142,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172402,
+      "num": 172402,
+      "word": "谁家男主表白还准备发言稿",
+      "onboard_time": 1738749986,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 170415,
@@ -1353,6 +1449,14 @@
       "onboard_time": 1738731745,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162255,
+      "num": 176506,
+      "word": "家政工雇主家晕倒称因擦冰箱太臭",
+      "onboard_time": 1738746745,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161163,
@@ -1491,19 +1595,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 147231,
-      "num": 192043,
-      "word": "樊振东开工大吉",
-      "onboard_time": 1738747165,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 147003,
       "num": 147003,
       "word": "六姊妹小演员选角",
       "onboard_time": 1738728562,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 145368,
+      "num": 145368,
+      "word": "陈飞宇台词",
+      "onboard_time": 1738750344,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -1523,12 +1627,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142715,
+      "num": 142715,
+      "word": "华为去年销售收入超8600亿",
+      "onboard_time": 1738746926,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 142273,
       "num": 295807,
       "word": "蛇年开工首日",
       "onboard_time": 1738685602,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141512,
+      "num": 141512,
+      "word": "留几手称自己带货亏到姥姥家",
+      "onboard_time": 1738748005,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 140567,
@@ -1545,6 +1665,14 @@
       "onboard_time": 1738743323,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138993,
+      "num": 189270,
+      "word": "瑞典校园枪击11人死亡",
+      "onboard_time": 1738748184,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 138054,
@@ -1632,14 +1760,6 @@
       "word": "女子带菜籽油返程倒车里花2000清洗",
       "onboard_time": 1738735583,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 132196,
-      "num": 132196,
-      "word": "家政工雇主家晕倒称因擦冰箱太臭",
-      "onboard_time": 1738746745,
-      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -1811,6 +1931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113727,
+      "num": 113727,
+      "word": "DeepSeek上线国家超算互联网平台",
+      "onboard_time": 1738740261,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 113693,
       "num": 113693,
       "word": "狗狗把马伯骞迷成胚胎了",
@@ -1875,12 +2003,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 107810,
-      "num": 107810,
-      "word": "华为去年销售收入超8600亿",
-      "onboard_time": 1738746926,
-      "rank": 42,
-      "category": "财经"
+      "raw_hot": 109135,
+      "num": 164033,
+      "word": "日本多地现灾害级大雪",
+      "onboard_time": 1738747226,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 107226,
@@ -1897,14 +2025,6 @@
       "onboard_time": 1738671085,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 105149,
-      "num": 105149,
-      "word": "DeepSeek上线国家超算互联网平台",
-      "onboard_time": 1738740261,
-      "rank": 49,
-      "category": "互联网"
     },
     {
       "raw_hot": 104482,
@@ -1995,14 +2115,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 98100,
-      "num": 98100,
-      "word": "留几手称自己带货亏到姥姥家",
-      "onboard_time": 1738748005,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 97668,
       "num": 267808,
       "word": "小鹏重回新势力销量第一",
@@ -2027,6 +2139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94847,
+      "num": 94847,
+      "word": "长期主义回购的化妆品",
+      "onboard_time": 1738750046,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 94041,
       "num": 190566,
       "word": "程潇春樱",
@@ -2043,20 +2163,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 92909,
-      "num": 92909,
-      "word": "瑞典校园枪击11人死亡",
-      "onboard_time": 1738748184,
-      "rank": 49,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 92013,
       "num": 188564,
       "word": "影史票房前5有两个哪吒",
       "onboard_time": 1738670544,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 91705,
+      "num": 91705,
+      "word": "外国网红爬进飞机引擎做俯卧撑",
+      "onboard_time": 1738750586,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 91154,
@@ -2113,14 +2233,6 @@
       "onboard_time": 1738740501,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 83357,
-      "num": 164033,
-      "word": "日本多地现灾害级大雪",
-      "onboard_time": 1738747226,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 82928,
@@ -2219,6 +2331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70484,
+      "num": 310416,
+      "word": "哪吒计划全球发行",
+      "onboard_time": 1738749806,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 70034,
       "num": 169312,
       "word": "男子驾车47小时后终于返回广东",
@@ -2305,6 +2425,14 @@
       "onboard_time": 1738728864,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51243,
+      "num": 272545,
+      "word": "2025KPL春季赛",
+      "onboard_time": 1738749866,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 51140,
@@ -2473,6 +2601,22 @@
       "onboard_time": 1738692434,
       "rank": 25,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 18412,
+      "num": 182904,
+      "word": "陈鹤一解冻了一支新疆vlog",
+      "onboard_time": 1738750886,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 16248,
+      "num": 307983,
+      "word": "王楚钦林诗栋vs周哲宇蔡邵恒",
+      "onboard_time": 1738667723,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 15877,
