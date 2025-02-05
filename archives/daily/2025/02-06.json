@@ -1,6 +1,6 @@
 {
   "startTime": 1738772916136,
-  "endTime": 1738783183590,
+  "endTime": 1738784159108,
   "band_list": [
     {
       "raw_hot": 1393800,
@@ -427,6 +427,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 62926,
+      "num": 71958,
+      "word": "中国特警闯进阿联酋特警挑战赛前三",
+      "onboard_time": 1738778535,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 61922,
       "num": 109818,
       "word": "留几手我亏钱了",
@@ -449,14 +457,6 @@
       "onboard_time": 1738768345,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 53242,
-      "num": 71958,
-      "word": "中国特警闯进阿联酋特警挑战赛前三",
-      "onboard_time": 1738778535,
-      "rank": 10,
-      "category": "国内时政"
     },
     {
       "raw_hot": 48576,
@@ -523,6 +523,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 16964,
+      "num": 68840,
+      "word": "谷歌修改AI道德准则",
+      "onboard_time": 1738782133,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 15366,
       "num": 76993,
       "word": "哪吒2动画制作公司成粉丝打卡点",
@@ -531,12 +539,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 14710,
-      "num": 68840,
-      "word": "谷歌修改AI道德准则",
-      "onboard_time": 1738782133,
+      "raw_hot": 11510,
+      "num": 64087,
+      "word": "解放军南部战区位南海海域例行巡航",
+      "onboard_time": 1738783331,
       "rank": 9,
-      "category": "海外新闻"
+      "category": "国内时政"
     },
     {
       "raw_hot": 11492,
