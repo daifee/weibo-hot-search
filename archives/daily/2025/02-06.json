@@ -1,6 +1,6 @@
 {
   "startTime": 1738772916136,
-  "endTime": 1738797705234,
+  "endTime": 1738798541700,
   "band_list": [
     {
       "raw_hot": 1393800,
@@ -171,6 +171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 172709,
+      "num": 130189,
+      "word": "日本的甲流可能被乙流取代",
+      "onboard_time": 1738790351,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 170963,
       "num": 170963,
       "word": "玖月晞 白色橄榄树",
@@ -195,20 +203,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 157356,
-      "num": 108825,
-      "word": "日本的甲流可能被乙流取代",
-      "onboard_time": 1738790351,
-      "rank": 49,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 150873,
       "num": 150873,
       "word": "女子误把摔炮当奶糖吃炸伤口腔",
       "onboard_time": 1738754184,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142531,
+      "num": 89612,
+      "word": "阿根廷宣布将退出世界卫生组织",
+      "onboard_time": 1738775836,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 140650,
@@ -235,6 +243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 132268,
+      "num": 132268,
+      "word": "近20个国家将春节定为法定假日",
+      "onboard_time": 1738780933,
+      "rank": 36,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 132155,
       "num": 132155,
       "word": "浪姐6阵容",
@@ -257,6 +273,14 @@
       "onboard_time": 1738735402,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129799,
+      "num": 129799,
+      "word": "乌尔善给观众的一封回信",
+      "onboard_time": 1738776196,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 123523,
@@ -283,28 +307,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 116045,
-      "num": 86003,
-      "word": "阿根廷宣布将退出世界卫生组织",
-      "onboard_time": 1738775836,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 113942,
       "num": 132128,
       "word": "哪吒2最快破55亿电影",
       "onboard_time": 1738768705,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 111405,
-      "num": 111405,
-      "word": "近20个国家将春节定为法定假日",
-      "onboard_time": 1738780933,
-      "rank": 36,
-      "category": "正能量"
     },
     {
       "raw_hot": 111260,
@@ -315,20 +323,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 109351,
+      "num": 132103,
+      "word": "6名中国人在菲遭绑架主要嫌疑人落网",
+      "onboard_time": 1738769184,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 107252,
       "num": 132084,
       "word": "藕饼",
       "onboard_time": 1738764745,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 104849,
-      "num": 132103,
-      "word": "6名中国人在菲遭绑架主要嫌疑人落网",
-      "onboard_time": 1738769184,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 99793,
@@ -353,14 +361,6 @@
       "onboard_time": 1738752087,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 86743,
-      "num": 86743,
-      "word": "乌尔善给观众的一封回信",
-      "onboard_time": 1738776196,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 82620,
@@ -395,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75855,
+      "num": 830669,
+      "word": "中国年正在成为世界年",
+      "onboard_time": 1738761925,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75669,
       "num": 131979,
       "word": "哪吒之魔童闹海票房破55亿",
@@ -403,12 +411,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 74448,
-      "num": 830669,
-      "word": "中国年正在成为世界年",
-      "onboard_time": 1738761925,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 71403,
+      "num": 89488,
+      "word": "刘宇宁请大家为我花生",
+      "onboard_time": 1738796895,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 69678,
@@ -428,7 +436,7 @@
     },
     {
       "raw_hot": 63235,
-      "num": 77278,
+      "num": 89294,
       "word": "男子跑动画公司问哪吒3多久上映",
       "onboard_time": 1738775177,
       "rank": 41,
@@ -436,7 +444,7 @@
     },
     {
       "raw_hot": 62926,
-      "num": 77159,
+      "num": 89377,
       "word": "中国特警闯进阿联酋特警挑战赛前三",
       "onboard_time": 1738778535,
       "rank": 10,
@@ -452,11 +460,19 @@
     },
     {
       "raw_hot": 60309,
-      "num": 88641,
+      "num": 89125,
       "word": "希腊海域4天43次4级以上地震",
       "onboard_time": 1738776256,
       "rank": 17,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 57265,
+      "num": 89449,
+      "word": "央视总结哪吒2票房曲线",
+      "onboard_time": 1738797317,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 54656,
@@ -467,8 +483,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 50993,
-      "num": 77192,
+      "raw_hot": 53717,
+      "num": 89425,
       "word": "DeepSeek日活突破2000万",
       "onboard_time": 1738791252,
       "rank": 29,
@@ -476,7 +492,7 @@
     },
     {
       "raw_hot": 50670,
-      "num": 77185,
+      "num": 89327,
       "word": "裁判看到孙颖莎语气立刻温柔",
       "onboard_time": 1738794611,
       "rank": 24,
@@ -499,12 +515,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 45995,
-      "num": 77159,
-      "word": "刘宇宁请大家为我花生",
-      "onboard_time": 1738796895,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 41121,
+      "num": 89263,
+      "word": "国产电影团建式祝贺哪吒2",
+      "onboard_time": 1738793652,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 41113,
+      "num": 89248,
+      "word": "BLACKPINK官宣2025世巡",
+      "onboard_time": 1738797496,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 37281,
@@ -515,16 +539,16 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 33793,
-      "num": 77093,
-      "word": "国产电影团建式祝贺哪吒2",
-      "onboard_time": 1738793652,
-      "rank": 18,
-      "category": "电影"
+      "raw_hot": 37154,
+      "num": 89233,
+      "word": "近200个国家和地区庆祝春节",
+      "onboard_time": 1738769784,
+      "rank": 35,
+      "category": "正能量"
     },
     {
-      "raw_hot": 30389,
-      "num": 77078,
+      "raw_hot": 34310,
+      "num": 89201,
       "word": "谷歌删除不将AI用于武器研发的承诺条款",
       "onboard_time": 1738764325,
       "rank": 49,
@@ -539,36 +563,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 28213,
-      "num": 77047,
-      "word": "央视总结哪吒2票房曲线",
-      "onboard_time": 1738797317,
-      "rank": 44,
-      "category": "电影"
+      "raw_hot": 28250,
+      "num": 130536,
+      "word": "广东已成立民营经济局",
+      "onboard_time": 1738798038,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
-      "raw_hot": 27880,
-      "num": 77011,
-      "word": "BLACKPINK官宣2025世巡",
-      "onboard_time": 1738797496,
-      "rank": 48,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 26236,
-      "num": 77023,
+      "raw_hot": 27423,
+      "num": 89092,
       "word": "南京地铁10号线突发故障",
       "onboard_time": 1738786932,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26042,
-      "num": 77523,
-      "word": "近200个国家和地区庆祝春节",
-      "onboard_time": 1738769784,
-      "rank": 35,
-      "category": "正能量"
     },
     {
       "raw_hot": 25186,
@@ -617,6 +625,14 @@
       "onboard_time": 1738783331,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 15007,
+      "num": 89570,
+      "word": "米德尔顿加盟奇才",
+      "onboard_time": 1738798038,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 12683,
