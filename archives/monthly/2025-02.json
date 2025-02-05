@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738719699159,
+  "endTime": 1738720666077,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -731,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1097265,
+      "num": 1175562,
+      "word": "DeepSeek招聘实习生月薪过万",
+      "onboard_time": 1738713439,
+      "rank": 0,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 1090797,
       "num": 495720,
       "word": "没想过是梁洁但意外合适",
@@ -753,14 +761,6 @@
       "onboard_time": 1738467618,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1068212,
-      "num": 1170914,
-      "word": "DeepSeek招聘实习生月薪过万",
-      "onboard_time": 1738713439,
-      "rank": 0,
-      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 1067897,
@@ -1131,6 +1131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 813706,
+      "num": 494029,
+      "word": "特朗普称希望美国拥有加沙所有权",
+      "onboard_time": 1738717641,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 812443,
       "num": 802611,
       "word": "哪吒逆跌",
@@ -1196,7 +1204,7 @@
     },
     {
       "raw_hot": 782847,
-      "num": 590118,
+      "num": 683673,
       "word": "女生讲述在日本感染甲流被抬上救护车",
       "onboard_time": 1738716560,
       "rank": 5,
@@ -1339,6 +1347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 705110,
+      "num": 705110,
+      "word": "石矶娘娘mini",
+      "onboard_time": 1738716681,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 701613,
       "num": 701613,
       "word": "五路财神",
@@ -1433,6 +1449,14 @@
       "onboard_time": 1738624635,
       "rank": 20,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 658227,
+      "num": 658227,
+      "word": "敖闰鹤童",
+      "onboard_time": 1738717339,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 658198,
@@ -1553,14 +1577,6 @@
       "onboard_time": 1738676843,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 618478,
-      "num": 618478,
-      "word": "石矶娘娘mini",
-      "onboard_time": 1738716681,
-      "rank": 4,
-      "category": "电影"
     },
     {
       "raw_hot": 617251,
@@ -1723,6 +1739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 562175,
+      "num": 291198,
+      "word": "赵露思又一条ins破百万赞了",
+      "onboard_time": 1738714999,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 561903,
       "num": 1616509,
       "word": "范玮琪发黑色图片悼念",
@@ -1745,22 +1769,6 @@
       "onboard_time": 1738657462,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 555202,
-      "num": 555202,
-      "word": "敖闰鹤童",
-      "onboard_time": 1738717339,
-      "rank": 6,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 553600,
-      "num": 494029,
-      "word": "特朗普称希望美国拥有加沙所有权",
-      "onboard_time": 1738717641,
-      "rank": 10,
-      "category": "国际时政"
     },
     {
       "raw_hot": 547557,
@@ -2065,14 +2073,6 @@
       "onboard_time": 1738471577,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 488718,
-      "num": 261439,
-      "word": "赵露思又一条ins破百万赞了",
-      "onboard_time": 1738714999,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 488694,
@@ -2556,7 +2556,7 @@
     },
     {
       "raw_hot": 397659,
-      "num": 261330,
+      "num": 290842,
       "word": "女子刮中百万大奖被彩票点抢回",
       "onboard_time": 1738712297,
       "rank": 21,
@@ -2915,6 +2915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 344257,
+      "num": 344257,
+      "word": "项楚先生辞世",
+      "onboard_time": 1738714941,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 343743,
       "num": 322280,
       "word": "春节档连续5天破10亿",
@@ -3185,14 +3193,6 @@
       "onboard_time": 1738545498,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 314831,
-      "num": 314831,
-      "word": "项楚先生辞世",
-      "onboard_time": 1738714941,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 313363,
@@ -4451,6 +4451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 219115,
+      "num": 219115,
+      "word": "好一个乖乖女",
+      "onboard_time": 1738716620,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218905,
       "num": 150879,
       "word": "好友揭秘王菲春晚落泪",
@@ -4715,6 +4723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205769,
+      "num": 205769,
+      "word": "敖光差点变成鳌拜的样子",
+      "onboard_time": 1738717461,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 205735,
       "num": 173345,
       "word": "云包场",
@@ -4737,6 +4753,14 @@
       "onboard_time": 1738639043,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 205408,
+      "num": 205408,
+      "word": "不想上班",
+      "onboard_time": 1738716801,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 205091,
@@ -4956,7 +4980,7 @@
     },
     {
       "raw_hot": 199457,
-      "num": 199457,
+      "num": 220220,
       "word": "致每一位奔赴岗位的你",
       "onboard_time": 1738719021,
       "rank": 26,
@@ -4984,14 +5008,6 @@
       "word": "掌心",
       "onboard_time": 1738486157,
       "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 199073,
-      "num": 199073,
-      "word": "好一个乖乖女",
-      "onboard_time": 1738716620,
-      "rank": 27,
       "category": "剧集"
     },
     {
@@ -5595,14 +5611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 183996,
-      "num": 183996,
-      "word": "敖光差点变成鳌拜的样子",
-      "onboard_time": 1738717461,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 183949,
       "num": 1646820,
       "word": "霉霉格莱美6提0中",
@@ -5617,6 +5625,14 @@
       "onboard_time": 1738669526,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183006,
+      "num": 183006,
+      "word": "世界上在建最长的海底高铁隧道",
+      "onboard_time": 1738718780,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182929,
@@ -6443,6 +6459,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 160454,
+      "num": 160454,
+      "word": "邪恶寿桃",
+      "onboard_time": 1738719921,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 160444,
       "num": 92945,
       "word": "你好星期六",
@@ -6464,14 +6488,6 @@
       "word": "女孩辞岁一晚跑几百家收入2000多",
       "onboard_time": 1738492577,
       "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 159656,
-      "num": 159656,
-      "word": "世界上在建最长的海底高铁隧道",
-      "onboard_time": 1738718780,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -6812,7 +6828,7 @@
     },
     {
       "raw_hot": 151739,
-      "num": 262424,
+      "num": 291925,
       "word": "焕新非遗计划",
       "onboard_time": 1738718240,
       "rank": 19,
@@ -7379,6 +7395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140006,
+      "num": 140006,
+      "word": "哪吒2进入影史票房前5",
+      "onboard_time": 1738720220,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 139970,
       "num": 139970,
       "word": "美国将再次退出联合国人权理事会",
@@ -7601,6 +7625,14 @@
       "onboard_time": 1738649363,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 133451,
+      "num": 133451,
+      "word": "A股蛇年首个交易日",
+      "onboard_time": 1738719380,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 133222,
@@ -8203,14 +8235,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 120685,
-      "num": 120685,
-      "word": "A股蛇年首个交易日",
-      "onboard_time": 1738719380,
-      "rank": 38,
-      "category": "财经"
-    },
-    {
       "raw_hot": 120284,
       "num": 120284,
       "word": "DeepSeek满血版高速专线",
@@ -8395,14 +8419,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 115768,
-      "num": 115768,
-      "word": "不想上班",
-      "onboard_time": 1738716801,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 115290,
       "num": 115290,
       "word": "易烊千玺单依纯双语唱响亚冬会",
@@ -8569,6 +8585,14 @@
       "onboard_time": 1738636283,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 112295,
+      "num": 112295,
+      "word": "大国重器盾构机内部长啥样",
+      "onboard_time": 1738719200,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112105,
@@ -8947,6 +8971,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 104482,
+      "num": 104482,
+      "word": "射雕评分5.5",
+      "onboard_time": 1738719621,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 104394,
       "num": 124618,
       "word": "刘昊然认证周润发张新成天选父子",
@@ -9219,14 +9251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99287,
-      "num": 99287,
-      "word": "大国重器盾构机内部长啥样",
-      "onboard_time": 1738719200,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 99256,
       "num": 1669006,
       "word": "2025春运",
@@ -9427,14 +9451,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 93273,
-      "num": 93273,
-      "word": "射雕评分5.5",
-      "onboard_time": 1738719621,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 93229,
       "num": 93229,
       "word": "女孩参展被鳄鱼咬伤商家要赔吗",
@@ -9545,6 +9561,14 @@
       "onboard_time": 1738511118,
       "rank": 44,
       "category": "综艺,剧集"
+    },
+    {
+      "raw_hot": 89561,
+      "num": 89561,
+      "word": "哪吒2预测票房超85亿",
+      "onboard_time": 1738720521,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 89462,
@@ -10569,6 +10593,14 @@
       "onboard_time": 1738647443,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 49074,
+      "num": 292827,
+      "word": "新加坡大满贯2月5日赛程",
+      "onboard_time": 1738720340,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 48284,
