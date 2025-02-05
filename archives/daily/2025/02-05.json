@@ -1,7 +1,15 @@
 {
   "startTime": 1738686513636,
-  "endTime": 1738737805488,
+  "endTime": 1738740115238,
   "band_list": [
+    {
+      "raw_hot": 1646150,
+      "num": 1646150,
+      "word": "司机卡点下高速失败付了1500元",
+      "onboard_time": 1738735402,
+      "rank": 3,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1592043,
       "num": 1592043,
@@ -25,14 +33,6 @@
       "onboard_time": 1738725021,
       "rank": 8,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1260686,
-      "num": 1260686,
-      "word": "司机卡点下高速失败付了1500元",
-      "onboard_time": 1738735402,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1203641,
@@ -168,6 +168,14 @@
       "word": "哪吒2进入影史票房前5",
       "onboard_time": 1738720220,
       "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 661645,
+      "num": 661645,
+      "word": "哪吒2对春节档造成虹吸效应",
+      "onboard_time": 1738736483,
+      "rank": 9,
       "category": "电影"
     },
     {
@@ -411,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 340038,
+      "num": 279223,
+      "word": "用DeepSeek炒股的人出现了",
+      "onboard_time": 1738740081,
+      "rank": 10,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 339590,
       "num": 239698,
       "word": "柯淳 好一个乖乖女",
@@ -424,6 +440,14 @@
       "word": "孟子义开工红裙",
       "onboard_time": 1738732943,
       "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 320710,
+      "num": 320710,
+      "word": "玉泽演否认求婚成功",
+      "onboard_time": 1738738282,
+      "rank": 7,
       "category": "艺人"
     },
     {
@@ -484,11 +508,19 @@
     },
     {
       "raw_hot": 280495,
-      "num": 214480,
+      "num": 218370,
       "word": "女子离家9天猫咪打开热水浴室被泡",
       "onboard_time": 1738734382,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 280277,
+      "num": 280277,
+      "word": "日本北海道一个市降雪1.2米",
+      "onboard_time": 1738737381,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 276366,
@@ -659,20 +691,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 226147,
+      "num": 226147,
+      "word": "美国邮政停收来自中国内地和中国香港包裹",
+      "onboard_time": 1738734023,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 225050,
       "num": 253240,
       "word": "于正说五福临门凭好演技杀出一条血路",
       "onboard_time": 1738724660,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 223614,
-      "num": 223614,
-      "word": "美国邮政停收来自中国内地和中国香港包裹",
-      "onboard_time": 1738734023,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 223288,
@@ -697,14 +729,6 @@
       "onboard_time": 1738728262,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 219324,
-      "num": 378987,
-      "word": "哪吒2对春节档造成虹吸效应",
-      "onboard_time": 1738736483,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 219115,
@@ -835,6 +859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195947,
+      "num": 219289,
+      "word": "妻子称蔡磊双手臂完全瘫痪",
+      "onboard_time": 1738739061,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194885,
       "num": 194885,
       "word": "V中文版鹿晗小恶魔撕漫大片",
@@ -915,6 +947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 183210,
+      "num": 183210,
+      "word": "一家一户石矶娘娘",
+      "onboard_time": 1738737682,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 183006,
       "num": 183006,
       "word": "世界上在建最长的海底高铁隧道",
@@ -931,6 +971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 182135,
+      "num": 166057,
+      "word": "林高远已回国家队训练",
+      "onboard_time": 1738740081,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180296,
       "num": 180296,
       "word": "2025春节档票房排名结果",
@@ -945,6 +993,14 @@
       "onboard_time": 1738734203,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179050,
+      "num": 179050,
+      "word": "航天员飞到舱外给你发送了个祝福",
+      "onboard_time": 1738736903,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 177472,
@@ -985,6 +1041,14 @@
       "onboard_time": 1738688838,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 167865,
+      "num": 167865,
+      "word": "陈哲远有效出场",
+      "onboard_time": 1738739182,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 166520,
@@ -1035,6 +1099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161018,
+      "num": 161018,
+      "word": "高速免费最后1分钟司机狂按喇叭",
+      "onboard_time": 1738738341,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160915,
       "num": 160915,
       "word": "恋与深空夏以昼",
@@ -1057,6 +1129,14 @@
       "onboard_time": 1738713798,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 158073,
+      "num": 158297,
+      "word": "华为小艺已接入DeepSeek",
+      "onboard_time": 1738739241,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 157922,
@@ -1123,6 +1203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151051,
+      "num": 158628,
+      "word": "SMTOWN墨西哥演唱会阵容",
+      "onboard_time": 1738738880,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 149943,
       "num": 149943,
       "word": "卡点下高速触发收费员挥手放行连招",
@@ -1132,7 +1220,7 @@
     },
     {
       "raw_hot": 149764,
-      "num": 149764,
+      "num": 168504,
       "word": "星穹铁道阿格莱雅",
       "onboard_time": 1738723760,
       "rank": 38,
@@ -1209,6 +1297,14 @@
       "onboard_time": 1738681524,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135348,
+      "num": 135348,
+      "word": "今后七天全国大部气温偏低",
+      "onboard_time": 1738737562,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133451,
@@ -1291,14 +1387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 123580,
-      "num": 123580,
-      "word": "日本北海道一个市降雪1.2米",
-      "onboard_time": 1738737381,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 123493,
       "num": 191449,
       "word": "后备箱不能开一开东西全掉了",
@@ -1355,14 +1443,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 115069,
-      "num": 115069,
-      "word": "航天员飞到舱外给你发送了个祝福",
-      "onboard_time": 1738736903,
-      "rank": 48,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 115063,
       "num": 248706,
       "word": "美对华加征关税是找错了对象打错了算盘",
@@ -1385,6 +1465,14 @@
       "onboard_time": 1738710194,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113693,
+      "num": 113693,
+      "word": "狗狗把马伯骞迷成胚胎了",
+      "onboard_time": 1738737741,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 112455,
@@ -1435,6 +1523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109148,
+      "num": 109148,
+      "word": "二刷国色芳华会有恍然大悟的感觉",
+      "onboard_time": 1738738401,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105858,
       "num": 189925,
       "word": "舌尖4西湖醋鱼让司机师傅沉默了",
@@ -1443,12 +1539,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 104821,
-      "num": 104821,
-      "word": "一家一户石矶娘娘",
-      "onboard_time": 1738737682,
-      "rank": 43,
-      "category": "电影"
+      "raw_hot": 105791,
+      "num": 254220,
+      "word": "4岁男孩被偷32年回家母子相拥而泣",
+      "onboard_time": 1738739061,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104482,
@@ -1457,6 +1553,22 @@
       "onboard_time": 1738719621,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 101624,
+      "num": 109289,
+      "word": "颜安短剧上头戒断反应",
+      "onboard_time": 1738738521,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 101243,
+      "num": 101243,
+      "word": "杜兰特争夺战打响了",
+      "onboard_time": 1738740081,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 101012,
@@ -1547,14 +1659,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 93341,
-      "num": 93341,
-      "word": "狗狗把马伯骞迷成胚胎了",
-      "onboard_time": 1738737741,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 93246,
       "num": 188430,
       "word": "杨颖王安宇民国造型",
@@ -1569,14 +1673,6 @@
       "onboard_time": 1738670544,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 91472,
-      "num": 91472,
-      "word": "今后七天全国大部气温偏低",
-      "onboard_time": 1738737562,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91154,
@@ -1857,6 +1953,14 @@
       "onboard_time": 1738728323,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32364,
+      "num": 101518,
+      "word": "孙颖莎王艺迪女双对手产生",
+      "onboard_time": 1738739061,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 31667,
