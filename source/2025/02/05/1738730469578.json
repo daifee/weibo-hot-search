@@ -1,0 +1,410 @@
+{
+  "runTime": 1738730469578,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1134146,
+        "num": 1181463,
+        "word": "饺子导演成为百亿票房导演",
+        "onboard_time": 1738720821,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 865125,
+        "num": 865125,
+        "word": "黄金",
+        "onboard_time": 1738725021,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 51250,
+        "num": 804954,
+        "word": "网络中国节",
+        "onboard_time": 1738728864,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 780264,
+        "num": 780264,
+        "word": "翟潇闻高考三次科二考五次",
+        "onboard_time": 1738724120,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 493934,
+        "num": 493934,
+        "word": "距2026年春节还有376天",
+        "onboard_time": 1738722741,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32391,
+        "num": 478947,
+        "word": "走近冰雕世界背后的魔法师",
+        "onboard_time": 1738728323,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 693603,
+        "num": 474165,
+        "word": "哪吒2票房超其它新片总和",
+        "onboard_time": 1738725980,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 579847,
+        "num": 471971,
+        "word": "业内谈肖战射雕",
+        "onboard_time": 1738724841,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 468961,
+        "num": 468961,
+        "word": "春节戒断反应",
+        "onboard_time": 1738713798,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335469,
+        "num": 434365,
+        "word": "金饰价格一夜涨11元每克",
+        "onboard_time": 1738729464,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 553701,
+        "num": 432963,
+        "word": "日本大医院非患者想去就能去",
+        "onboard_time": 1738724601,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 430917,
+        "num": 430917,
+        "word": "敖丙是一个橘子",
+        "onboard_time": 1738729104,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 343596,
+        "num": 343596,
+        "word": "第一次见能入梦杀人的女主",
+        "onboard_time": 1738727181,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 359638,
+        "num": 337922,
+        "word": "哪吒2进入影史票房前5",
+        "onboard_time": 1738720220,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 309661,
+        "num": 309661,
+        "word": "DeepSeek招聘实习生月薪过万",
+        "onboard_time": 1738713439,
+        "rank": 14,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 320933,
+        "num": 308813,
+        "word": "石矶娘娘mini",
+        "onboard_time": 1738716681,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 306225,
+        "num": 306225,
+        "word": "特斯拉Model3降价8000元",
+        "onboard_time": 1738723760,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 78534,
+        "num": 306121,
+        "word": "孙颖莎王艺迪3比0塞尔维亚组合",
+        "onboard_time": 1738730006,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189809,
+        "num": 302933,
+        "word": "赵丽颖东方明珠合照对比",
+        "onboard_time": 1738729825,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33101,
+        "num": 300592,
+        "word": "景区否认千名游客被困无人回应",
+        "onboard_time": 1738729703,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345576,
+        "num": 298983,
+        "word": "赵露思又一条ins破百万赞了",
+        "onboard_time": 1738714999,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313897,
+        "num": 296716,
+        "word": "乌尔善谈殷郊三头六臂形象灵感",
+        "onboard_time": 1738727963,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 306846,
+        "num": 293484,
+        "word": "女子刮中百万大奖被彩票点抢回",
+        "onboard_time": 1738712297,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293150,
+        "num": 293150,
+        "word": "恋与深空",
+        "onboard_time": 1738729045,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 266952,
+        "num": 266952,
+        "word": "王一博初八神采焕发",
+        "onboard_time": 1738729525,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261647,
+        "num": 261647,
+        "word": "特朗普称希望美国拥有加沙所有权",
+        "onboard_time": 1738717641,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 204030,
+        "num": 242999,
+        "word": "当代年轻人的开工仪式",
+        "onboard_time": 1738724901,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54570,
+        "num": 242549,
+        "word": "A股蛇年迎开门红",
+        "onboard_time": 1738729703,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 67399,
+        "num": 242538,
+        "word": "小鹏重回新势力销量第一",
+        "onboard_time": 1738728082,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 242536,
+        "num": 242536,
+        "word": "玉泽演求婚成功",
+        "onboard_time": 1738714999,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111365,
+        "num": 237028,
+        "word": "离开家的时候最想家",
+        "onboard_time": 1738725142,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234690,
+        "num": 234690,
+        "word": "泰国已对泰缅边境缅甸地区断电",
+        "onboard_time": 1738722620,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 233086,
+        "num": 233086,
+        "word": "上4休1再上5",
+        "onboard_time": 1738726882,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227409,
+        "num": 227409,
+        "word": "112岁老中医的临终馈赠",
+        "onboard_time": 1738728623,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 80802,
+        "num": 225665,
+        "word": "开工的松弛感是闫妮给的",
+        "onboard_time": 1738726520,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225093,
+        "num": 225093,
+        "word": "男子身骑白马冲入江中救下落水父女",
+        "onboard_time": 1738723880,
+        "rank": 35,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 203439,
+        "num": 220531,
+        "word": "孙颖莎王艺迪vs塞尔维亚组合",
+        "onboard_time": 1738729585,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220020,
+        "num": 220020,
+        "word": "第一天上班建议发呆5分钟",
+        "onboard_time": 1738728262,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5516,
+        "num": 213845,
+        "word": "王曼昱蒯曼3比1迪亚兹帕瓦德",
+        "onboard_time": 1738730427,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212081,
+        "num": 212081,
+        "word": "难哄",
+        "onboard_time": 1738727062,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11499,
+        "num": 198757,
+        "word": "薛飞vs张本智和",
+        "onboard_time": 1738730366,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194154,
+        "num": 194154,
+        "word": "看到刘昊然理解古代复宠了",
+        "onboard_time": 1738730006,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193341,
+        "num": 193341,
+        "word": "王宝强说银幕是刘昊然生活是陈思诚",
+        "onboard_time": 1738729404,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192854,
+        "num": 192854,
+        "word": "第一批返工猫狗已经在路上了",
+        "onboard_time": 1738725021,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188418,
+        "num": 188418,
+        "word": "掌心官宣定档2月7日",
+        "onboard_time": 1738724361,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184991,
+        "num": 184991,
+        "word": "一家五口回娘家过年铺稻草打地铺",
+        "onboard_time": 1738727422,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163647,
+        "num": 163647,
+        "word": "美国中情局向全员提出买断计划",
+        "onboard_time": 1738730306,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156526,
+        "num": 156526,
+        "word": "2025春节档票房破95亿",
+        "onboard_time": 1738725082,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147965,
+        "num": 147965,
+        "word": "王星越醉酒撒娇这段不像演的",
+        "onboard_time": 1738727663,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147633,
+        "num": 147633,
+        "word": "A股",
+        "onboard_time": 1738722741,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同吉尔吉斯斯坦总统扎帕罗夫会谈#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738729601564,
+  "endTime": 1738730469578,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1428,10 +1428,18 @@
     },
     {
       "raw_hot": 696084,
-      "num": 444252,
+      "num": 471971,
       "word": "业内谈肖战射雕",
       "onboard_time": 1738724841,
       "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 693603,
+      "num": 474165,
+      "word": "哪吒2票房超其它新片总和",
+      "onboard_time": 1738725980,
+      "rank": 47,
       "category": "电影"
     },
     {
@@ -1561,14 +1569,6 @@
       "onboard_time": 1738488558,
       "rank": 39,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 646682,
-      "num": 393519,
-      "word": "哪吒2票房超其它新片总和",
-      "onboard_time": 1738725980,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 646674,
@@ -2443,6 +2443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 430917,
+      "num": 430917,
+      "word": "敖丙是一个橘子",
+      "onboard_time": 1738729104,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 430652,
       "num": 430652,
       "word": "樊振东陈梦确定无缘世界杯",
@@ -2532,7 +2540,7 @@
     },
     {
       "raw_hot": 416195,
-      "num": 337147,
+      "num": 343596,
       "word": "第一次见能入梦杀人的女主",
       "onboard_time": 1738727181,
       "rank": 15,
@@ -3099,6 +3107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 335469,
+      "num": 434365,
+      "word": "金饰价格一夜涨11元每克",
+      "onboard_time": 1738729464,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 334972,
       "num": 334972,
       "word": "腾讯视频二月大剧片单",
@@ -3299,7 +3315,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 313751,
+      "raw_hot": 313897,
       "num": 313751,
       "word": "乌尔善谈殷郊三头六臂形象灵感",
       "onboard_time": 1738727963,
@@ -3531,6 +3547,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 293150,
+      "num": 293150,
+      "word": "恋与深空",
+      "onboard_time": 1738486757,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 292151,
       "num": 292151,
       "word": "樊振东获得世界杯参赛资格",
@@ -3747,6 +3771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 266952,
+      "num": 266952,
+      "word": "王一博初八神采焕发",
+      "onboard_time": 1738729525,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 266721,
       "num": 422337,
       "word": "当代年轻人的开工仪式",
@@ -3953,14 +3985,6 @@
       "onboard_time": 1738586849,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 251218,
-      "num": 251218,
-      "word": "敖丙是一个橘子",
-      "onboard_time": 1738729104,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 251193,
@@ -4579,14 +4603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 224145,
-      "num": 224145,
-      "word": "恋与深空",
-      "onboard_time": 1738486757,
-      "rank": 28,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 223523,
       "num": 223523,
       "word": "肖战现场回应愤怒的脏脏包",
@@ -4649,6 +4665,14 @@
       "onboard_time": 1738674024,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 220020,
+      "num": 341395,
+      "word": "第一天上班建议发呆5分钟",
+      "onboard_time": 1738728262,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 219845,
@@ -5075,6 +5099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203439,
+      "num": 220531,
+      "word": "孙颖莎王艺迪vs塞尔维亚组合",
+      "onboard_time": 1738729585,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203361,
       "num": 203361,
       "word": "大年初四灶王爷是C位",
@@ -5443,6 +5475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194154,
+      "num": 194154,
+      "word": "看到刘昊然理解古代复宠了",
+      "onboard_time": 1738730006,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 194085,
       "num": 194085,
       "word": "无世界排名无法参加ITTF澳门世界杯",
@@ -5457,6 +5497,14 @@
       "onboard_time": 1738378636,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193341,
+      "num": 193341,
+      "word": "王宝强说银幕是刘昊然生活是陈思诚",
+      "onboard_time": 1738729404,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 193318,
@@ -5641,6 +5689,14 @@
       "onboard_time": 1738458677,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189809,
+      "num": 302933,
+      "word": "赵丽颖东方明珠合照对比",
+      "onboard_time": 1738729825,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 189637,
@@ -6571,14 +6627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 165350,
-      "num": 165350,
-      "word": "孙颖莎王艺迪vs塞尔维亚组合",
-      "onboard_time": 1738729585,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 165003,
       "num": 1702426,
       "word": "小伙当兵没回家9好友齐给父母拜年",
@@ -6633,6 +6681,14 @@
       "onboard_time": 1738546579,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163647,
+      "num": 163647,
+      "word": "美国中情局向全员提出买断计划",
+      "onboard_time": 1738730306,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 163637,
@@ -6817,14 +6873,6 @@
       "onboard_time": 1738492577,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 159674,
-      "num": 159674,
-      "word": "王宝强说银幕是刘昊然生活是陈思诚",
-      "onboard_time": 1738729404,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 159239,
@@ -7377,14 +7425,6 @@
       "onboard_time": 1738728562,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 146832,
-      "num": 146832,
-      "word": "王一博初八神采焕发",
-      "onboard_time": 1738729525,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 146741,
@@ -8369,14 +8409,6 @@
       "onboard_time": 1738699391,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 126015,
-      "num": 341395,
-      "word": "第一天上班建议发呆5分钟",
-      "onboard_time": 1738728262,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 125830,
@@ -10419,6 +10451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 78534,
+      "num": 306121,
+      "word": "孙颖莎王艺迪3比0塞尔维亚组合",
+      "onboard_time": 1738730006,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78384,
       "num": 81237,
       "word": "OpenAI奥特曼因DeepSeek反思",
@@ -10529,14 +10569,6 @@
       "onboard_time": 1738653083,
       "rank": 13,
       "category": "民生新闻,美食"
-    },
-    {
-      "raw_hot": 71526,
-      "num": 276689,
-      "word": "金饰价格一夜涨11元每克",
-      "onboard_time": 1738729464,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 71523,
@@ -10939,6 +10971,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 54570,
+      "num": 242549,
+      "word": "A股蛇年迎开门红",
+      "onboard_time": 1738729703,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 54110,
       "num": 330912,
       "word": "苏翊鸣世界杯坡障银牌",
@@ -10993,6 +11033,14 @@
       "onboard_time": 1738401377,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 51250,
+      "num": 908222,
+      "word": "网络中国节",
+      "onboard_time": 1738728864,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50977,
@@ -11347,14 +11395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36752,
-      "num": 908222,
-      "word": "网络中国节",
-      "onboard_time": 1738728864,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 36685,
       "num": 117296,
       "word": "定好闹钟明天元气满满开工",
@@ -11467,6 +11507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33101,
+      "num": 300592,
+      "word": "景区否认千名游客被困无人回应",
+      "onboard_time": 1738729703,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33064,
       "num": 1184112,
       "word": "文化中国行非遗雅韵中国年",
@@ -11497,6 +11545,14 @@
       "onboard_time": 1738710194,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 32391,
+      "num": 478947,
+      "word": "走近冰雕世界背后的魔法师",
+      "onboard_time": 1738728323,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32124,
@@ -11609,14 +11665,6 @@
       "onboard_time": 1738564592,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 26917,
-      "num": 360610,
-      "word": "走近冰雕世界背后的魔法师",
-      "onboard_time": 1738728323,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26847,
@@ -12075,6 +12123,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 11499,
+      "num": 198757,
+      "word": "薛飞vs张本智和",
+      "onboard_time": 1738730366,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 11492,
       "num": 21714,
       "word": "春晚机器人各类周边全有了",
@@ -12209,6 +12265,14 @@
       "onboard_time": 1738355411,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 5516,
+      "num": 213845,
+      "word": "王曼昱蒯曼3比1迪亚兹帕瓦德",
+      "onboard_time": 1738730427,
+      "rank": 38,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
@@ -12244,6 +12308,9 @@
     },
     {
       "word": "#习近平举行仪式欢迎吉尔吉斯斯坦总统访华#"
+    },
+    {
+      "word": "#习近平同吉尔吉斯斯坦总统扎帕罗夫会谈#"
     }
   ]
 }
