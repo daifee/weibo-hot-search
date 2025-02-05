@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738712145307,
+  "endTime": 1738719699159,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -755,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1068212,
+      "num": 1170914,
+      "word": "DeepSeek招聘实习生月薪过万",
+      "onboard_time": 1738713439,
+      "rank": 0,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 1067897,
       "num": 983498,
       "word": "女生醒来相亲对象站床边系摆拍",
@@ -891,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 974479,
+      "num": 974479,
+      "word": "官方回应刮中百万大奖被彩票点抢回",
+      "onboard_time": 1738714338,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 973920,
       "num": 973920,
       "word": "康熙来了",
@@ -1001,6 +1017,14 @@
       "onboard_time": 1738655005,
       "rank": 1,
       "category": "电影"
+    },
+    {
+      "raw_hot": 907300,
+      "num": 907300,
+      "word": "玉泽演求婚成功",
+      "onboard_time": 1738714999,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 896042,
@@ -1169,6 +1193,14 @@
       "onboard_time": 1738418059,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 782847,
+      "num": 590118,
+      "word": "女生讲述在日本感染甲流被抬上救护车",
+      "onboard_time": 1738716560,
+      "rank": 5,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 776082,
@@ -1523,6 +1555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 618478,
+      "num": 618478,
+      "word": "石矶娘娘mini",
+      "onboard_time": 1738716681,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 617251,
       "num": 467824,
       "word": "北京女生在泰国2400平米的家",
@@ -1707,6 +1747,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 555202,
+      "num": 555202,
+      "word": "敖闰鹤童",
+      "onboard_time": 1738717339,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 553600,
+      "num": 494029,
+      "word": "特朗普称希望美国拥有加沙所有权",
+      "onboard_time": 1738717641,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 547557,
       "num": 547557,
       "word": "谷歌被立案调查",
@@ -1883,6 +1939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 506552,
+      "num": 506552,
+      "word": "影史首位3岁百亿影人",
+      "onboard_time": 1738711755,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 506110,
       "num": 331224,
       "word": "徐明浩直播突现双重人格",
@@ -1971,6 +2035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 492717,
+      "num": 492717,
+      "word": "节后上班不在状态怎么办",
+      "onboard_time": 1738704850,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 492024,
       "num": 187445,
       "word": "正月初一男子在女友家饭桌上被带走",
@@ -1993,6 +2065,14 @@
       "onboard_time": 1738471577,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 488718,
+      "num": 261439,
+      "word": "赵露思又一条ins破百万赞了",
+      "onboard_time": 1738714999,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 488694,
@@ -2056,6 +2136,14 @@
       "word": "躲春时间",
       "onboard_time": 1738589009,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 477187,
+      "num": 477187,
+      "word": "下一个假期在4月",
+      "onboard_time": 1738713439,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -2155,6 +2243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 446519,
+      "num": 446519,
+      "word": "射雕37万人评分票房近6亿",
+      "onboard_time": 1738711755,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 445582,
       "num": 445582,
       "word": "孙颖莎提出目前赛历安排过于密集",
@@ -2185,6 +2281,14 @@
       "onboard_time": 1738489337,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 444272,
+      "num": 494661,
+      "word": "春节戒断反应",
+      "onboard_time": 1738713798,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 442134,
@@ -2451,6 +2555,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 397659,
+      "num": 261330,
+      "word": "女子刮中百万大奖被彩票点抢回",
+      "onboard_time": 1738712297,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 395758,
       "num": 1656063,
       "word": "梁洁我从双世宠妃就跟着你了",
@@ -2657,6 +2769,14 @@
       "onboard_time": 1738414878,
       "rank": 34,
       "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 362902,
+      "num": 362902,
+      "word": "官方回应店铺因未彻夜亮灯被撬锁开灯",
+      "onboard_time": 1738713978,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 361773,
@@ -3067,6 +3187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 314831,
+      "num": 314831,
+      "word": "项楚先生辞世",
+      "onboard_time": 1738714941,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 313363,
       "num": 204685,
       "word": "哪吒2导演说石矶娘娘心思单纯可爱",
@@ -3089,6 +3217,14 @@
       "onboard_time": 1738672403,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 311187,
+      "num": 311187,
+      "word": "新疆5.0级地震",
+      "onboard_time": 1738713679,
+      "rank": 17,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 310460,
@@ -3569,6 +3705,14 @@
       "onboard_time": 1738567768,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 257217,
+      "num": 257217,
+      "word": "开工大吉",
+      "onboard_time": 1738712117,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 256610,
@@ -4811,6 +4955,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199457,
+      "num": 199457,
+      "word": "致每一位奔赴岗位的你",
+      "onboard_time": 1738719021,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199441,
       "num": 199441,
       "word": "湖人vs尼克斯",
@@ -4832,6 +4984,14 @@
       "word": "掌心",
       "onboard_time": 1738486157,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 199073,
+      "num": 199073,
+      "word": "好一个乖乖女",
+      "onboard_time": 1738716620,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -5435,6 +5595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183996,
+      "num": 183996,
+      "word": "敖光差点变成鳌拜的样子",
+      "onboard_time": 1738717461,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 183949,
       "num": 1646820,
       "word": "霉霉格莱美6提0中",
@@ -5715,14 +5883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 174933,
-      "num": 174933,
-      "word": "节后上班不在状态怎么办",
-      "onboard_time": 1738704850,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 174638,
       "num": 174638,
       "word": "白色橄榄树滤镜",
@@ -5913,6 +6073,14 @@
       "onboard_time": 1738492518,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170415,
+      "num": 170415,
+      "word": "特朗普政府推进关闭教育部",
+      "onboard_time": 1738713439,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 169958,
@@ -6299,6 +6467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159656,
+      "num": 159656,
+      "word": "世界上在建最长的海底高铁隧道",
+      "onboard_time": 1738718780,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159239,
       "num": 159239,
       "word": "有一种爱叫爸爸怕你赶不上高铁",
@@ -6321,6 +6497,14 @@
       "onboard_time": 1738680745,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159042,
+      "num": 159042,
+      "word": "哪吒2最快破50亿电影",
+      "onboard_time": 1738713798,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 159006,
@@ -6625,6 +6809,14 @@
       "onboard_time": 1738399037,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151739,
+      "num": 262424,
+      "word": "焕新非遗计划",
+      "onboard_time": 1738718240,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151095,
@@ -6939,6 +7131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144312,
+      "num": 144312,
+      "word": "哪吒导演两眼一睁就是画",
+      "onboard_time": 1738712479,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 144298,
       "num": 144298,
       "word": "红豆生南国唐探有男模",
@@ -7017,6 +7217,14 @@
       "onboard_time": 1738462217,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 143674,
+      "num": 143674,
+      "word": "勇士猛追杜兰特",
+      "onboard_time": 1738719200,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 143482,
@@ -7321,14 +7529,6 @@
       "onboard_time": 1738579768,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 136508,
-      "num": 136508,
-      "word": "射雕37万人评分票房近6亿",
-      "onboard_time": 1738711755,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 136411,
@@ -7747,6 +7947,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 126048,
+      "num": 126048,
+      "word": "春捂注意身体3个部位",
+      "onboard_time": 1738699391,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 125830,
       "num": 125830,
       "word": "苏敏阿姨说对射雕的江湖观很有感触",
@@ -7995,6 +8203,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 120685,
+      "num": 120685,
+      "word": "A股蛇年首个交易日",
+      "onboard_time": 1738719380,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 120284,
       "num": 120284,
       "word": "DeepSeek满血版高速专线",
@@ -8147,6 +8363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116002,
+      "num": 116002,
+      "word": "外国游客是怎么找到这些宝藏小城的",
+      "onboard_time": 1738718600,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115985,
       "num": 142079,
       "word": "养娃赛道也算让漫画党闯进来了",
@@ -8171,20 +8395,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 115768,
+      "num": 115768,
+      "word": "不想上班",
+      "onboard_time": 1738716801,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 115290,
       "num": 115290,
       "word": "易烊千玺单依纯双语唱响亚冬会",
       "onboard_time": 1738333640,
       "rank": 33,
       "category": "演出,体育"
-    },
-    {
-      "raw_hot": 115128,
-      "num": 115128,
-      "word": "开工大吉",
-      "onboard_time": 1738712117,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115063,
@@ -8513,6 +8737,14 @@
       "onboard_time": 1738396037,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 109258,
+      "num": 109258,
+      "word": "年后再说的事咋这么多",
+      "onboard_time": 1738716801,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109103,
@@ -8931,6 +9163,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 100348,
+      "num": 100348,
+      "word": "男子感染流感短短几天出现白肺",
+      "onboard_time": 1738715060,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 100015,
       "num": 295980,
       "word": "赵公明如何逆袭成为财神",
@@ -8963,6 +9203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 99599,
+      "num": 99599,
+      "word": "东契奇穿湖人装备亮相",
+      "onboard_time": 1738709714,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99320,
       "num": 303753,
       "word": "巴特勒不愿续约勇士",
@@ -8971,12 +9219,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99287,
+      "num": 99287,
+      "word": "大国重器盾构机内部长啥样",
+      "onboard_time": 1738719200,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99256,
       "num": 1669006,
       "word": "2025春运",
       "onboard_time": 1738576889,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99012,
+      "num": 99012,
+      "word": "当我问DeepSeek不想上班怎么办",
+      "onboard_time": 1738711457,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 98942,
@@ -9083,6 +9347,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 96136,
+      "num": 96136,
+      "word": "挤痘痘也可能导致败血症",
+      "onboard_time": 1738710254,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 95894,
       "num": 119605,
       "word": "新能源车企1月成绩单出炉",
@@ -9153,6 +9425,14 @@
       "onboard_time": 1738324099,
       "rank": 2,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 93273,
+      "num": 93273,
+      "word": "射雕评分5.5",
+      "onboard_time": 1738719621,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 93229,
@@ -9531,6 +9811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82928,
+      "num": 202951,
+      "word": "哈勒普退役",
+      "onboard_time": 1738716560,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82705,
       "num": 290050,
       "word": "大年初四北京下雪",
@@ -9777,14 +10065,6 @@
       "onboard_time": 1738415060,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 72324,
-      "num": 72324,
-      "word": "影史首位3岁百亿影人",
-      "onboard_time": 1738711755,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 71935,
@@ -10203,14 +10483,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 53186,
-      "num": 71493,
-      "word": "当我问DeepSeek不想上班怎么办",
-      "onboard_time": 1738711457,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 53116,
       "num": 136004,
       "word": "2025春节假期过半了",
@@ -10241,14 +10513,6 @@
       "onboard_time": 1738401377,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 51331,
-      "num": 71479,
-      "word": "春捂注意身体3个部位",
-      "onboard_time": 1738699391,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 50977,
@@ -10627,14 +10891,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 35808,
-      "num": 71458,
-      "word": "挤痘痘也可能导致败血症",
-      "onboard_time": 1738710254,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 35514,
       "num": 937181,
       "word": "手写二十四节气领略四季之美",
@@ -10681,14 +10937,6 @@
       "onboard_time": 1738486398,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33737,
-      "num": 71452,
-      "word": "东契奇穿湖人装备亮相",
-      "onboard_time": 1738709714,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 33526,
