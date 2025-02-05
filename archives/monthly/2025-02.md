@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/02/01 00:26:54 ~ 2025/02/06 00:44:31
+本榜单时间：2025/02/01 00:26:54 ~ 2025/02/06 01:19:42
 </p>
 </blockquote>
 <p>
@@ -579,6 +579,12 @@ S妈小梅回应（热度：1282981）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E6%98%8E%E6%97%A5%E6%88%96%E7%99%BB%E9%A1%B6%E4%B8%AD%E5%9B%BD%E5%BD%B1%E5%8F%B2%E7%A5%A8%E6%88%BF%E5%86%A0%E5%86%9B%23" target="weibo">
+哪吒2明日或登顶中国影史票房冠军（热度：1176015）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%8B%E6%98%A5%E5%92%AC%E6%98%A5%E7%97%85%E4%B8%8D%E6%B2%BE%E8%BA%AB%23" target="weibo">
 立春咬春病不沾身（热度：1172601）
 </a>
@@ -995,12 +1001,6 @@ DeepSeek创始人老家村口拉起横幅（热度：931807）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD4%E5%A4%A9%E5%86%854%E6%9C%BA%E5%9D%A0%E6%AF%81%23" target="weibo">
 美国4天内4机坠毁（热度：804661）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E6%98%8E%E6%97%A5%E6%88%96%E7%99%BB%E9%A1%B6%E4%B8%AD%E5%9B%BD%E5%BD%B1%E5%8F%B2%E7%A5%A8%E6%88%BF%E5%86%A0%E5%86%9B%23" target="weibo">
-哪吒2明日或登顶中国影史票房冠军（热度：799426）
 </a>
 </li>
 

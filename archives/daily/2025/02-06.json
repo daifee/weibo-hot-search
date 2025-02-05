@@ -1,6 +1,6 @@
 {
   "startTime": 1738772916136,
-  "endTime": 1738773871141,
+  "endTime": 1738775982031,
   "band_list": [
     {
       "raw_hot": 1393800,
@@ -9,6 +9,14 @@
       "onboard_time": 1738767446,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1176015,
+      "num": 1176015,
+      "word": "哪吒2明日或登顶中国影史票房冠军",
+      "onboard_time": 1738770143,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 1143918,
@@ -25,14 +33,6 @@
       "onboard_time": 1738746503,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 799426,
-      "num": 799426,
-      "word": "哪吒2明日或登顶中国影史票房冠军",
-      "onboard_time": 1738770143,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 735677,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 358823,
-      "num": 233584,
+      "num": 270480,
       "word": "哪吒为啥走路总插兜",
       "onboard_time": 1738770684,
       "rank": 15,
@@ -251,20 +251,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123523,
+      "num": 217463,
+      "word": "旅客称返程高峰有票无法上车",
+      "onboard_time": 1738771523,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118656,
       "num": 132055,
       "word": "尘白禁区新pv",
       "onboard_time": 1738771464,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 115196,
-      "num": 217463,
-      "word": "旅客称返程高峰有票无法上车",
-      "onboard_time": 1738771523,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113942,
@@ -323,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88119,
+      "num": 81923,
+      "word": "阿根廷宣布将退出世界卫生组织",
+      "onboard_time": 1738775836,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 82620,
       "num": 132029,
       "word": "张晚意似锦将官宣",
@@ -371,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72534,
+      "num": 208530,
+      "word": "泰国切断泰缅边境5处电力供应",
+      "onboard_time": 1738773379,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 69678,
       "num": 131954,
       "word": "起底DeepSeek爆火背后的推手",
@@ -395,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 56610,
+      "num": 77278,
+      "word": "男子跑动画公司问哪吒3多久上映",
+      "onboard_time": 1738775177,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 54656,
       "num": 131940,
       "word": "马斯克政府效率部6名成员身份曝光",
@@ -403,12 +427,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 33896,
-      "num": 208530,
-      "word": "泰国切断泰缅边境5处电力供应",
-      "onboard_time": 1738773379,
-      "rank": 9,
-      "category": "海外新闻"
+      "raw_hot": 48576,
+      "num": 77061,
+      "word": "乌尔善回应被贴脸开大",
+      "onboard_time": 1738756584,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 48202,
+      "num": 77041,
+      "word": "张杰未live巡回演唱会",
+      "onboard_time": 1738775117,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 28314,
@@ -427,6 +459,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20822,
+      "num": 77523,
+      "word": "近200个国家和地区庆祝春节",
+      "onboard_time": 1738769784,
+      "rank": 35,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 15366,
+      "num": 76993,
+      "word": "哪吒2动画制作公司成粉丝打卡点",
+      "onboard_time": 1738775596,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 11492,
       "num": 134489,
       "word": "勇士全力追求杜兰特",
@@ -438,6 +486,9 @@
   "hotgov_list": [
     {
       "word": "#中吉山水相依民心相亲#"
+    },
+    {
+      "word": "#习近平同巴基斯坦总统会谈#"
     }
   ]
 }
