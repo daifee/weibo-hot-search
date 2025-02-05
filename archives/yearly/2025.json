@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738752050653,
+  "endTime": 1738754326070,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1491,6 +1491,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 2383934,
+      "num": 2383934,
+      "word": "哪吒票房",
+      "onboard_time": 1738149140,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 2377253,
       "num": 2377253,
       "word": "丁禹兮挑眉",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736343143,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1901452,
-      "num": 1651533,
-      "word": "煮苹果水",
-      "onboard_time": 1736760200,
-      "rank": 49,
-      "category": "美食"
     }
   ],
   "hotgov_list": [

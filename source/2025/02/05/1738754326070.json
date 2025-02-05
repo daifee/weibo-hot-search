@@ -1,0 +1,410 @@
+{
+  "runTime": 1738754326070,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2383934,
+        "num": 2383934,
+        "word": "哪吒票房",
+        "onboard_time": 1738745064,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 612460,
+        "num": 612460,
+        "word": "黄金",
+        "onboard_time": 1738725021,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 186039,
+        "num": 474395,
+        "word": "春节多地文旅数据出炉",
+        "onboard_time": 1738748490,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1053986,
+        "num": 470640,
+        "word": "哪吒2票房超过你好李焕英",
+        "onboard_time": 1738753405,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 464854,
+        "num": 464854,
+        "word": "周冠宇官宣加盟法拉利",
+        "onboard_time": 1738751605,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 448199,
+        "num": 448199,
+        "word": "初八去存压岁钱发现ATM机满了",
+        "onboard_time": 1738752087,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 834076,
+        "num": 434312,
+        "word": "饺子导演名下多家企业已注销",
+        "onboard_time": 1738750524,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 417522,
+        "num": 417522,
+        "word": "游客曝张家界一饭店点2个菜花844元",
+        "onboard_time": 1738744403,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235579,
+        "num": 414512,
+        "word": "这类微短剧被禁止上线传播",
+        "onboard_time": 1738752625,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60739,
+        "num": 411903,
+        "word": "张家界一饭店疑宰客两道菜800元",
+        "onboard_time": 1738752698,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 748149,
+        "num": 409403,
+        "word": "喻言 浪姐",
+        "onboard_time": 1738748490,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 567163,
+        "num": 404970,
+        "word": "你好李焕英给哪吒的贺图",
+        "onboard_time": 1738754065,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 558548,
+        "num": 403947,
+        "word": "浪姐6阵容",
+        "onboard_time": 1738751665,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400606,
+        "num": 400606,
+        "word": "看电影的最佳位置不是正中间",
+        "onboard_time": 1738740202,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 386888,
+        "num": 386888,
+        "word": "乌尔善回应观众来信",
+        "onboard_time": 1738751665,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 318556,
+        "num": 318556,
+        "word": "司机卡点下高速失败付了1500元",
+        "onboard_time": 1738735402,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254049,
+        "num": 254049,
+        "word": "何卓佳vs张本美和",
+        "onboard_time": 1738752145,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189065,
+        "num": 252877,
+        "word": "何卓佳3比0张本美和",
+        "onboard_time": 1738753705,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16177,
+        "num": 252201,
+        "word": "金智秀告黑",
+        "onboard_time": 1738753884,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20306,
+        "num": 250543,
+        "word": "当地回应男子骑白马江中救人",
+        "onboard_time": 1738753464,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7118545,
+        "num": 7118545,
+        "word": "沈腾方否认和林允恋情",
+        "onboard_time": 1738746503,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291729,
+        "num": 247473,
+        "word": "哪吒之魔童闹海票房破53亿",
+        "onboard_time": 1738749806,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 246427,
+        "num": 246427,
+        "word": "女子误把摔炮当奶糖吃炸伤口腔",
+        "onboard_time": 1738754184,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289181,
+        "num": 244295,
+        "word": "小哪吒配音称因声音丑被饺子相中",
+        "onboard_time": 1738740143,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 7573,
+        "num": 241810,
+        "word": "东契奇说联手詹姆斯是梦想成真",
+        "onboard_time": 1738754125,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 349659,
+        "num": 241629,
+        "word": "林允方取证",
+        "onboard_time": 1738749986,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240654,
+        "num": 240654,
+        "word": "九尾辟谣",
+        "onboard_time": 1738742783,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 232780,
+        "num": 232780,
+        "word": "多网友曝张家界一饭店联合司机宰客",
+        "onboard_time": 1738748664,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222831,
+        "num": 222831,
+        "word": "男子心脏骤停急救醒来后要赶去上班",
+        "onboard_time": 1738741882,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216074,
+        "num": 216074,
+        "word": "Angelababy婚纱剧照",
+        "onboard_time": 1738740981,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214765,
+        "num": 214765,
+        "word": "高速免费最后1分钟司机狂按喇叭",
+        "onboard_time": 1738738341,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207876,
+        "num": 207876,
+        "word": "射雕票房破6亿",
+        "onboard_time": 1738749027,
+        "rank": 31,
+        "category": "电影,剧集"
+      },
+      {
+        "raw_hot": 185658,
+        "num": 200620,
+        "word": "特朗普称美国可长期拥有加沙",
+        "onboard_time": 1738744764,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 197381,
+        "num": 197381,
+        "word": "张小斐侧腹肌",
+        "onboard_time": 1738750946,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194887,
+        "num": 194887,
+        "word": "哪吒2票房爆炸谁赢麻了",
+        "onboard_time": 1738744824,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178749,
+        "num": 178749,
+        "word": "外国网红爬进飞机引擎做俯卧撑",
+        "onboard_time": 1738750586,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 193554,
+        "num": 176702,
+        "word": "敖丙",
+        "onboard_time": 1738748490,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173095,
+        "num": 173095,
+        "word": "胡歌贴脸开大刘涛",
+        "onboard_time": 1738753103,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171581,
+        "num": 171581,
+        "word": "王俊凯北京路演",
+        "onboard_time": 1738752864,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147184,
+        "num": 168861,
+        "word": "瑞典校园枪击11人死亡",
+        "onboard_time": 1738748184,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 168418,
+        "num": 168418,
+        "word": "王楚钦林诗栋3比0周哲宇蔡邵恒",
+        "onboard_time": 1738751665,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160004,
+        "num": 160004,
+        "word": "当眼镜成为化妆的重要一环",
+        "onboard_time": 1738752087,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 156744,
+        "num": 156744,
+        "word": "怀疑惠英红特别关注张小斐",
+        "onboard_time": 1738747226,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27474,
+        "num": 147507,
+        "word": "金饰价格每克一个月涨超50元",
+        "onboard_time": 1738752925,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 147285,
+        "num": 147285,
+        "word": "原来白色橄榄树是死去的回忆录",
+        "onboard_time": 1738750225,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147253,
+        "num": 147253,
+        "word": "哪吒为何不像国人的名字",
+        "onboard_time": 1738744884,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138235,
+        "num": 138235,
+        "word": "坤音娱乐",
+        "onboard_time": 1738753945,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130088,
+        "num": 130088,
+        "word": "樊振东开工大吉",
+        "onboard_time": 1738747165,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128442,
+        "num": 128442,
+        "word": "南京地铁",
+        "onboard_time": 1738751665,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125764,
+        "num": 125764,
+        "word": "85花来给复仇剧上强度了",
+        "onboard_time": 1738750164,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同吉尔吉斯斯坦总统扎帕罗夫会谈#"
+    }
+  }
+}

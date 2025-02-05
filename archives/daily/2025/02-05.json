@@ -1,6 +1,6 @@
 {
   "startTime": 1738686513636,
-  "endTime": 1738752050653,
+  "endTime": 1738754326070,
   "band_list": [
     {
       "raw_hot": 9238219,
@@ -9,6 +9,14 @@
       "onboard_time": 1738746503,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2383934,
+      "num": 2383934,
+      "word": "哪吒票房",
+      "onboard_time": 1738745064,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 1646150,
@@ -91,11 +99,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1057071,
-      "num": 397172,
-      "word": "哪吒票房",
-      "onboard_time": 1738745064,
-      "rank": 21,
+      "raw_hot": 1053986,
+      "num": 470640,
+      "word": "哪吒2票房超过你好李焕英",
+      "onboard_time": 1738753405,
+      "rank": 3,
       "category": "电影"
     },
     {
@@ -153,6 +161,14 @@
       "onboard_time": 1738740081,
       "rank": 10,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 834076,
+      "num": 434312,
+      "word": "饺子导演名下多家企业已注销",
+      "onboard_time": 1738750524,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 813706,
@@ -217,14 +233,6 @@
       "onboard_time": 1738742783,
       "rank": 8,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 681928,
-      "num": 370467,
-      "word": "饺子导演名下多家企业已注销",
-      "onboard_time": 1738750524,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 672080,
@@ -307,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 567163,
+      "num": 404970,
+      "word": "你好李焕英给哪吒的贺图",
+      "onboard_time": 1738754065,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 562618,
       "num": 189798,
       "word": "观众称看射雕如坐针毡",
@@ -321,6 +337,14 @@
       "onboard_time": 1738714999,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 558548,
+      "num": 403947,
+      "word": "浪姐6阵容",
+      "onboard_time": 1738751665,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 549528,
@@ -419,6 +443,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 464854,
+      "num": 464854,
+      "word": "周冠宇官宣加盟法拉利",
+      "onboard_time": 1738751605,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 455187,
       "num": 455187,
       "word": "张本智和大满贯出局",
@@ -441,6 +473,14 @@
       "onboard_time": 1738749986,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 448199,
+      "num": 448199,
+      "word": "初八去存压岁钱发现ATM机满了",
+      "onboard_time": 1738752087,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 447900,
@@ -521,6 +561,14 @@
       "onboard_time": 1738722741,
       "rank": 16,
       "category": "财经"
+    },
+    {
+      "raw_hot": 386888,
+      "num": 386888,
+      "word": "乌尔善回应观众来信",
+      "onboard_time": 1738751665,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 373930,
@@ -683,14 +731,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 286789,
-      "num": 369679,
-      "word": "周冠宇官宣加盟法拉利",
-      "onboard_time": 1738751605,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 285839,
       "num": 365220,
       "word": "多网友曝张家界一饭店联合司机宰客",
@@ -795,6 +835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 254049,
+      "num": 254049,
+      "word": "何卓佳vs张本美和",
+      "onboard_time": 1738752145,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251193,
       "num": 251193,
       "word": "上4休1再上5",
@@ -816,6 +864,14 @@
       "word": "能把蛇年七天无理由退货吗",
       "onboard_time": 1738722741,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 246427,
+      "num": 246427,
+      "word": "女子误把摔炮当奶糖吃炸伤口腔",
+      "onboard_time": 1738754184,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -873,6 +929,14 @@
       "onboard_time": 1738684404,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 235579,
+      "num": 414512,
+      "word": "这类微短剧被禁止上线传播",
+      "onboard_time": 1738752625,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 233244,
@@ -1067,14 +1131,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 205510,
-      "num": 205510,
-      "word": "浪姐6阵容",
-      "onboard_time": 1738751665,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 205408,
       "num": 205408,
       "word": "不想上班",
@@ -1145,6 +1201,14 @@
       "onboard_time": 1738746806,
       "rank": 19,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 197381,
+      "num": 197381,
+      "word": "张小斐侧腹肌",
+      "onboard_time": 1738750946,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 196956,
@@ -1225,6 +1289,14 @@
       "onboard_time": 1738740501,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189065,
+      "num": 252877,
+      "word": "何卓佳3比0张本美和",
+      "onboard_time": 1738753705,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 188964,
@@ -1339,12 +1411,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 178178,
-      "num": 178178,
-      "word": "张小斐侧腹肌",
-      "onboard_time": 1738750946,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 178749,
+      "num": 178749,
+      "word": "外国网红爬进飞机引擎做俯卧撑",
+      "onboard_time": 1738750586,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 177776,
@@ -1363,12 +1435,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173095,
+      "num": 173095,
+      "word": "胡歌贴脸开大刘涛",
+      "onboard_time": 1738753103,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172402,
       "num": 172402,
       "word": "谁家男主表白还准备发言稿",
       "onboard_time": 1738749986,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171581,
+      "num": 171581,
+      "word": "王俊凯北京路演",
+      "onboard_time": 1738752864,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 170415,
@@ -1409,6 +1497,14 @@
       "onboard_time": 1738688838,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 168418,
+      "num": 358615,
+      "word": "王楚钦林诗栋3比0周哲宇蔡邵恒",
+      "onboard_time": 1738751665,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 167865,
@@ -1513,6 +1609,14 @@
       "onboard_time": 1738726100,
       "rank": 19,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 160004,
+      "num": 160004,
+      "word": "当眼镜成为化妆的重要一环",
+      "onboard_time": 1738752087,
+      "rank": 41,
+      "category": "美妆"
     },
     {
       "raw_hot": 159042,
@@ -1683,14 +1787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141415,
-      "num": 232107,
-      "word": "乌尔善回应观众来信",
-      "onboard_time": 1738751665,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 140567,
       "num": 198095,
       "word": "哪吒2啥叫过度魔丸化啊",
@@ -1705,6 +1801,14 @@
       "onboard_time": 1738743323,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138235,
+      "num": 138235,
+      "word": "坤音娱乐",
+      "onboard_time": 1738753945,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 138054,
@@ -1835,12 +1939,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 128380,
-      "num": 358615,
-      "word": "王楚钦林诗栋3比0周哲宇蔡邵恒",
+      "raw_hot": 128442,
+      "num": 128442,
+      "word": "南京地铁",
       "onboard_time": 1738751665,
-      "rank": 19,
-      "category": "体育"
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126604,
@@ -1873,22 +1977,6 @@
       "onboard_time": 1738699391,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 125277,
-      "num": 125277,
-      "word": "南京地铁",
-      "onboard_time": 1738751665,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 124654,
-      "num": 124654,
-      "word": "外国网红爬进飞机引擎做俯卧撑",
-      "onboard_time": 1738750586,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 123895,
@@ -2427,6 +2515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60739,
+      "num": 411903,
+      "word": "张家界一饭店疑宰客两道菜800元",
+      "onboard_time": 1738752698,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54911,
       "num": 29830,
       "word": "多位博主曾提醒近期不要去日本旅游",
@@ -2627,6 +2723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27474,
+      "num": 147507,
+      "word": "金饰价格每克一个月涨超50元",
+      "onboard_time": 1738752925,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 26847,
       "num": 100417,
       "word": "张峻豪新歌",
@@ -2667,6 +2771,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 20306,
+      "num": 250543,
+      "word": "当地回应男子骑白马江中救人",
+      "onboard_time": 1738753464,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18465,
       "num": 117617,
       "word": "瑞典一所学校发生枪击至少5人被击中",
@@ -2681,6 +2793,14 @@
       "onboard_time": 1738667723,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 16177,
+      "num": 252201,
+      "word": "金智秀告黑",
+      "onboard_time": 1738753884,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 15877,
@@ -2753,6 +2873,14 @@
       "onboard_time": 1738696871,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 7573,
+      "num": 241810,
+      "word": "东契奇说联手詹姆斯是梦想成真",
+      "onboard_time": 1738754125,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 5516,
