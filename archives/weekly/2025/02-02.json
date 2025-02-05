@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738751023137,
+  "endTime": 1738752050653,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -612,7 +612,7 @@
     },
     {
       "raw_hot": 1214897,
-      "num": 516689,
+      "num": 600829,
       "word": "喻言 浪姐",
       "onboard_time": 1738748490,
       "rank": 3,
@@ -1257,6 +1257,14 @@
       "onboard_time": 1738551373,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 681928,
+      "num": 370467,
+      "word": "饺子导演名下多家企业已注销",
+      "onboard_time": 1738750524,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 680830,
@@ -2075,6 +2083,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 453223,
+      "num": 367791,
+      "word": "林允方取证",
+      "onboard_time": 1738749986,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 452016,
       "num": 452016,
       "word": "比特币",
@@ -2587,6 +2603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 357403,
+      "num": 357403,
+      "word": "哪吒之魔童闹海票房破53亿",
+      "onboard_time": 1738749806,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 356641,
       "num": 356641,
       "word": "浓眉",
@@ -2939,14 +2963,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 307906,
-      "num": 307906,
-      "word": "林允方取证",
-      "onboard_time": 1738749986,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 307564,
       "num": 337988,
       "word": "殷寿一不留神猫狗双全了",
@@ -3163,12 +3179,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 286789,
+      "num": 369679,
+      "word": "周冠宇官宣加盟法拉利",
+      "onboard_time": 1738751605,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 286504,
       "num": 286504,
       "word": "转角遇到爱",
       "onboard_time": 1738561233,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 285839,
+      "num": 365220,
+      "word": "多网友曝张家界一饭店联合司机宰客",
+      "onboard_time": 1738748664,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 285418,
@@ -3209,14 +3241,6 @@
       "onboard_time": 1738556986,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 282621,
-      "num": 282621,
-      "word": "哪吒之魔童闹海票房破53亿",
-      "onboard_time": 1738749806,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 280495,
@@ -4043,6 +4067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222622,
+      "num": 620433,
+      "word": "春节多地文旅数据出炉",
+      "onboard_time": 1738748490,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 221828,
       "num": 479921,
       "word": "福岛排空核污染水的储水罐将被解体",
@@ -4331,6 +4363,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 206811,
+      "num": 206811,
+      "word": "敖丙",
+      "onboard_time": 1738402697,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 206149,
       "num": 206149,
       "word": "春节假期国内出游5.01亿人次",
@@ -4369,6 +4409,14 @@
       "onboard_time": 1738639043,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 205510,
+      "num": 205510,
+      "word": "浪姐6阵容",
+      "onboard_time": 1738751665,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 205408,
@@ -4417,14 +4465,6 @@
       "onboard_time": 1738498040,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 204067,
-      "num": 313956,
-      "word": "多网友曝张家界一饭店联合司机宰客",
-      "onboard_time": 1738748664,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 203971,
@@ -4576,14 +4616,6 @@
       "word": "13岁少年收集火药引爆炸断3根手指",
       "onboard_time": 1738667304,
       "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 200546,
-      "num": 517809,
-      "word": "春节多地文旅数据出炉",
-      "onboard_time": 1738748490,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -5043,6 +5075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186928,
+      "num": 310945,
+      "word": "樊振东开工大吉",
+      "onboard_time": 1738747165,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186745,
       "num": 495731,
       "word": "敖光 精灵王",
@@ -5171,14 +5211,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 183608,
-      "num": 364013,
-      "word": "饺子导演名下多家企业已注销",
-      "onboard_time": 1738750524,
-      "rank": 9,
-      "category": "电影"
-    },
-    {
       "raw_hot": 183488,
       "num": 313575,
       "word": "梁靖崑3比2奥恰洛夫",
@@ -5225,6 +5257,14 @@
       "onboard_time": 1738677925,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 182332,
+      "num": 182332,
+      "word": "原来白色橄榄树是死去的回忆录",
+      "onboard_time": 1738750225,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 182324,
@@ -5281,22 +5321,6 @@
       "onboard_time": 1738739241,
       "rank": 34,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 180926,
-      "num": 180926,
-      "word": "敖丙",
-      "onboard_time": 1738402697,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 180645,
-      "num": 310945,
-      "word": "樊振东开工大吉",
-      "onboard_time": 1738747165,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 180517,
@@ -5921,6 +5945,14 @@
       "onboard_time": 1738492038,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161971,
+      "num": 205472,
+      "word": "瑞典校园枪击11人死亡",
+      "onboard_time": 1738748184,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 161962,
@@ -6763,6 +6795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141415,
+      "num": 232107,
+      "word": "乌尔善回应观众来信",
+      "onboard_time": 1738751665,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 141121,
       "num": 141121,
       "word": "儿媳过年在家爆改婆婆",
@@ -6881,14 +6921,6 @@
       "onboard_time": 1738497678,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 138993,
-      "num": 189270,
-      "word": "瑞典校园枪击11人死亡",
-      "onboard_time": 1738748184,
-      "rank": 49,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 138760,
@@ -7235,6 +7267,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 128380,
+      "num": 358615,
+      "word": "王楚钦林诗栋3比0周哲宇蔡邵恒",
+      "onboard_time": 1738751665,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128091,
       "num": 160401,
       "word": "春节假期返程高峰来了",
@@ -7379,6 +7419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 125277,
+      "num": 125277,
+      "word": "南京地铁",
+      "onboard_time": 1738751665,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125105,
       "num": 477028,
       "word": "孙颖莎王楚钦最新训练画面",
@@ -7411,6 +7459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124654,
+      "num": 124654,
+      "word": "外国网红爬进飞机引擎做俯卧撑",
+      "onboard_time": 1738750586,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 124558,
       "num": 159438,
       "word": "杜华与程潇姐妹自拍",
@@ -7433,6 +7489,14 @@
       "onboard_time": 1738582831,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 123895,
+      "num": 123895,
+      "word": "DeepSeek上线国家超算互联网平台",
+      "onboard_time": 1738740261,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 123733,
@@ -7763,14 +7827,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 113727,
-      "num": 113727,
-      "word": "DeepSeek上线国家超算互联网平台",
-      "onboard_time": 1738740261,
-      "rank": 49,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 113693,
       "num": 113693,
       "word": "狗狗把马伯骞迷成胚胎了",
@@ -7995,6 +8051,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 109569,
+      "num": 164033,
+      "word": "日本多地现灾害级大雪",
+      "onboard_time": 1738747226,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 109523,
       "num": 109523,
       "word": "哪吒2预测票房超85亿",
@@ -8009,14 +8073,6 @@
       "onboard_time": 1738716801,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 109135,
-      "num": 164033,
-      "word": "日本多地现灾害级大雪",
-      "onboard_time": 1738747226,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 108955,
@@ -8588,7 +8644,7 @@
     },
     {
       "raw_hot": 94847,
-      "num": 94847,
+      "num": 139254,
       "word": "长期主义回购的化妆品",
       "onboard_time": 1738750046,
       "rank": 46,
@@ -8601,6 +8657,14 @@
       "onboard_time": 1738640002,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94078,
+      "num": 94078,
+      "word": "与主人入江救人白马发烧至40度",
+      "onboard_time": 1738751966,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94041,
@@ -8641,14 +8705,6 @@
       "onboard_time": 1738422200,
       "rank": 34,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 91705,
-      "num": 91705,
-      "word": "外国网红爬进飞机引擎做俯卧撑",
-      "onboard_time": 1738750586,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 91625,
@@ -9451,6 +9507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54109,
+      "num": 241874,
+      "word": "专家称黄金现在并非特别值得投资",
+      "onboard_time": 1738751364,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 53729,
       "num": 92164,
       "word": "新女婿喝4碗自家酿酒醉倒被抬进屋",
@@ -10059,6 +10123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26045,
+      "num": 360571,
+      "word": "陈鹤一解冻了一支新疆vlog",
+      "onboard_time": 1738750886,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26021,
       "num": 137943,
       "word": "NBA真过年了",
@@ -10241,14 +10313,6 @@
       "onboard_time": 1738692434,
       "rank": 25,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 18412,
-      "num": 182904,
-      "word": "陈鹤一解冻了一支新疆vlog",
-      "onboard_time": 1738750886,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 15877,

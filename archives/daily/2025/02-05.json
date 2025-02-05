@@ -1,6 +1,6 @@
 {
   "startTime": 1738686513636,
-  "endTime": 1738751023137,
+  "endTime": 1738752050653,
   "band_list": [
     {
       "raw_hot": 9238219,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1214897,
-      "num": 516689,
+      "num": 600829,
       "word": "喻言 浪姐",
       "onboard_time": 1738748490,
       "rank": 3,
@@ -217,6 +217,14 @@
       "onboard_time": 1738742783,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 681928,
+      "num": 370467,
+      "word": "饺子导演名下多家企业已注销",
+      "onboard_time": 1738750524,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 672080,
@@ -427,6 +435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 453223,
+      "num": 367791,
+      "word": "林允方取证",
+      "onboard_time": 1738749986,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 447900,
       "num": 447900,
       "word": "谁能想到陈哲远搬的是泡沫",
@@ -523,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 357403,
+      "num": 357403,
+      "word": "哪吒之魔童闹海票房破53亿",
+      "onboard_time": 1738749806,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 345947,
       "num": 345947,
       "word": "乌尔善被贴脸开大",
@@ -611,14 +635,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 307906,
-      "num": 307906,
-      "word": "林允方取证",
-      "onboard_time": 1738749986,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 306425,
       "num": 306425,
       "word": "男子身骑白马冲入江中救下落水父女",
@@ -667,20 +683,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 286789,
+      "num": 369679,
+      "word": "周冠宇官宣加盟法拉利",
+      "onboard_time": 1738751605,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 285839,
+      "num": 365220,
+      "word": "多网友曝张家界一饭店联合司机宰客",
+      "onboard_time": 1738748664,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 285418,
       "num": 285418,
       "word": "射雕票房破6亿",
       "onboard_time": 1738749027,
       "rank": 22,
       "category": "电影,剧集"
-    },
-    {
-      "raw_hot": 282621,
-      "num": 282621,
-      "word": "哪吒之魔童闹海票房破53亿",
-      "onboard_time": 1738749806,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 280495,
@@ -939,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222622,
+      "num": 620433,
+      "word": "春节多地文旅数据出炉",
+      "onboard_time": 1738748490,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220020,
       "num": 341395,
       "word": "第一天上班建议发呆5分钟",
@@ -1011,6 +1043,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 206811,
+      "num": 206811,
+      "word": "敖丙",
+      "onboard_time": 1738748490,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 206149,
       "num": 206149,
       "word": "春节假期国内出游5.01亿人次",
@@ -1027,6 +1067,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 205510,
+      "num": 205510,
+      "word": "浪姐6阵容",
+      "onboard_time": 1738751665,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205408,
       "num": 205408,
       "word": "不想上班",
@@ -1041,14 +1089,6 @@
       "onboard_time": 1738732344,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204067,
-      "num": 313956,
-      "word": "多网友曝张家界一饭店联合司机宰客",
-      "onboard_time": 1738748664,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 203971,
@@ -1081,14 +1121,6 @@
       "onboard_time": 1738723401,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 200546,
-      "num": 517809,
-      "word": "春节多地文旅数据出炉",
-      "onboard_time": 1738748490,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 199560,
@@ -1211,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186928,
+      "num": 310945,
+      "word": "樊振东开工大吉",
+      "onboard_time": 1738747165,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186332,
       "num": 186332,
       "word": "杨紫冬日慵懒大片",
@@ -1224,14 +1264,6 @@
       "word": "逆跌",
       "onboard_time": 1738677025,
       "rank": 22,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 183608,
-      "num": 364013,
-      "word": "饺子导演名下多家企业已注销",
-      "onboard_time": 1738750524,
-      "rank": 9,
       "category": "电影"
     },
     {
@@ -1259,6 +1291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182332,
+      "num": 182332,
+      "word": "原来白色橄榄树是死去的回忆录",
+      "onboard_time": 1738750225,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182324,
       "num": 210893,
       "word": "恋与深空黎深",
@@ -1273,22 +1313,6 @@
       "onboard_time": 1738739241,
       "rank": 34,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 180926,
-      "num": 180926,
-      "word": "敖丙",
-      "onboard_time": 1738748490,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 180645,
-      "num": 310945,
-      "word": "樊振东开工大吉",
-      "onboard_time": 1738747165,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 180296,
@@ -1457,6 +1481,14 @@
       "onboard_time": 1738746745,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161971,
+      "num": 205472,
+      "word": "瑞典校园枪击11人死亡",
+      "onboard_time": 1738748184,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 161163,
@@ -1651,6 +1683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141415,
+      "num": 232107,
+      "word": "乌尔善回应观众来信",
+      "onboard_time": 1738751665,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 140567,
       "num": 198095,
       "word": "哪吒2啥叫过度魔丸化啊",
@@ -1665,14 +1705,6 @@
       "onboard_time": 1738743323,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 138993,
-      "num": 189270,
-      "word": "瑞典校园枪击11人死亡",
-      "onboard_time": 1738748184,
-      "rank": 49,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 138054,
@@ -1803,6 +1835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128380,
+      "num": 358615,
+      "word": "王楚钦林诗栋3比0周哲宇蔡邵恒",
+      "onboard_time": 1738751665,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126604,
       "num": 126604,
       "word": "浓眉入职第一天给独行侠挑刺",
@@ -1833,6 +1873,30 @@
       "onboard_time": 1738699391,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 125277,
+      "num": 125277,
+      "word": "南京地铁",
+      "onboard_time": 1738751665,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124654,
+      "num": 124654,
+      "word": "外国网红爬进飞机引擎做俯卧撑",
+      "onboard_time": 1738750586,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 123895,
+      "num": 123895,
+      "word": "DeepSeek上线国家超算互联网平台",
+      "onboard_time": 1738740261,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 123733,
@@ -1931,14 +1995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 113727,
-      "num": 113727,
-      "word": "DeepSeek上线国家超算互联网平台",
-      "onboard_time": 1738740261,
-      "rank": 49,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 113693,
       "num": 113693,
       "word": "狗狗把马伯骞迷成胚胎了",
@@ -1987,6 +2043,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 109569,
+      "num": 164033,
+      "word": "日本多地现灾害级大雪",
+      "onboard_time": 1738747226,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 109523,
       "num": 109523,
       "word": "哪吒2预测票房超85亿",
@@ -2001,14 +2065,6 @@
       "onboard_time": 1738716801,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 109135,
-      "num": 164033,
-      "word": "日本多地现灾害级大雪",
-      "onboard_time": 1738747226,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 107226,
@@ -2140,11 +2196,19 @@
     },
     {
       "raw_hot": 94847,
-      "num": 94847,
+      "num": 139254,
       "word": "长期主义回购的化妆品",
       "onboard_time": 1738750046,
       "rank": 46,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 94078,
+      "num": 94078,
+      "word": "与主人入江救人白马发烧至40度",
+      "onboard_time": 1738751966,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94041,
@@ -2169,14 +2233,6 @@
       "onboard_time": 1738670544,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 91705,
-      "num": 91705,
-      "word": "外国网红爬进飞机引擎做俯卧撑",
-      "onboard_time": 1738750586,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 91154,
@@ -2403,6 +2459,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 54109,
+      "num": 241874,
+      "word": "专家称黄金现在并非特别值得投资",
+      "onboard_time": 1738751364,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 51607,
       "num": 1105614,
       "word": "2025年中国经济这么干",
@@ -2579,6 +2643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26045,
+      "num": 360571,
+      "word": "陈鹤一解冻了一支新疆vlog",
+      "onboard_time": 1738750886,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25499,
       "num": 71401,
       "word": "北京多条地铁线延长运营至凌晨一两点",
@@ -2601,14 +2673,6 @@
       "onboard_time": 1738692434,
       "rank": 25,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 18412,
-      "num": 182904,
-      "word": "陈鹤一解冻了一支新疆vlog",
-      "onboard_time": 1738750886,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 16248,
