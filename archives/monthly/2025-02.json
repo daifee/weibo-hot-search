@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738723889014,
+  "endTime": 1738724422875,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -443,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1592043,
+      "num": 1592043,
+      "word": "饺子导演成为百亿票房导演",
+      "onboard_time": 1738720821,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1560657,
       "num": 1560657,
       "word": "东契奇加盟湖人",
@@ -537,14 +545,6 @@
       "onboard_time": 1738382598,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1406696,
-      "num": 1406696,
-      "word": "饺子导演成为百亿票房导演",
-      "onboard_time": 1738720821,
-      "rank": 0,
-      "category": "电影"
     },
     {
       "raw_hot": 1395375,
@@ -993,6 +993,14 @@
       "onboard_time": 1738595671,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 933458,
+      "num": 934136,
+      "word": "泰国已对泰缅边境缅甸地区断电",
+      "onboard_time": 1738722620,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 931807,
@@ -1507,19 +1515,19 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 646924,
+      "num": 646924,
+      "word": "哪吒2进入影史票房前5",
+      "onboard_time": 1738720220,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 646674,
       "num": 453289,
       "word": "肖战对接回应包机问题",
       "onboard_time": 1738504520,
       "rank": 12,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 646110,
-      "num": 646110,
-      "word": "哪吒2进入影史票房前5",
-      "onboard_time": 1738720220,
-      "rank": 33,
       "category": "电影"
     },
     {
@@ -1593,14 +1601,6 @@
       "onboard_time": 1738676843,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 619735,
-      "num": 934136,
-      "word": "泰国已对泰缅边境缅甸地区断电",
-      "onboard_time": 1738722620,
-      "rank": 1,
-      "category": "国际时政"
     },
     {
       "raw_hot": 617251,
@@ -1796,7 +1796,7 @@
     },
     {
       "raw_hot": 549528,
-      "num": 549528,
+      "num": 601876,
       "word": "春节戒断反应",
       "onboard_time": 1738713798,
       "rank": 9,
@@ -2305,6 +2305,14 @@
       "onboard_time": 1738395796,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 445139,
+      "num": 356297,
+      "word": "邪恶寿桃",
+      "onboard_time": 1738719921,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 444651,
@@ -2819,6 +2827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 361310,
+      "num": 361310,
+      "word": "A股",
+      "onboard_time": 1738722741,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 360762,
       "num": 310084,
       "word": "哪吒之魔童闹海票房破42亿",
@@ -2873,14 +2889,6 @@
       "onboard_time": 1738419140,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 351785,
-      "num": 351785,
-      "word": "邪恶寿桃",
-      "onboard_time": 1738719921,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 350894,
@@ -3451,6 +3459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 291398,
+      "num": 291398,
+      "word": "特斯拉Model3降价8000元",
+      "onboard_time": 1738723760,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 291205,
       "num": 291205,
       "word": "金店店主怕金价不涨又怕涨得太快",
@@ -3473,6 +3489,14 @@
       "onboard_time": 1738587688,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 286897,
+      "num": 286897,
+      "word": "距2026年春节还有376天",
+      "onboard_time": 1738722741,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 286629,
@@ -3649,14 +3673,6 @@
       "onboard_time": 1738397417,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 264502,
-      "num": 264502,
-      "word": "A股",
-      "onboard_time": 1738722741,
-      "rank": 16,
-      "category": "财经"
     },
     {
       "raw_hot": 263345,
@@ -3865,6 +3881,14 @@
       "onboard_time": 1738323319,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 250138,
+      "num": 277963,
+      "word": "能把蛇年七天无理由退货吗",
+      "onboard_time": 1738722741,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 250080,
@@ -4235,14 +4259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 230226,
-      "num": 230226,
-      "word": "能把蛇年七天无理由退货吗",
-      "onboard_time": 1738722741,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 230009,
       "num": 220923,
       "word": "SM新男团出道方式",
@@ -4425,6 +4441,14 @@
       "onboard_time": 1738485018,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 222703,
+      "num": 278961,
+      "word": "王鹤棣又要打NBA了",
+      "onboard_time": 1738723401,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 221828,
@@ -4675,14 +4699,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 209553,
-      "num": 209553,
-      "word": "特斯拉Model3降价8000元",
-      "onboard_time": 1738723760,
-      "rank": 27,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 209288,
       "num": 209288,
       "word": "于冬看了哪吒2",
@@ -4721,6 +4737,14 @@
       "onboard_time": 1738663824,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207832,
+      "num": 207832,
+      "word": "哪吒自己超越了自己",
+      "onboard_time": 1738723880,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 207365,
@@ -5000,14 +5024,6 @@
       "word": "13岁少年收集火药引爆炸断3根手指",
       "onboard_time": 1738667304,
       "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 200370,
-      "num": 200370,
-      "word": "距2026年春节还有376天",
-      "onboard_time": 1738722741,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -5843,6 +5859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178550,
+      "num": 178550,
+      "word": "美国再退出联合国人权理事会",
+      "onboard_time": 1738723401,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 178273,
       "num": 178273,
       "word": "种地吧",
@@ -6155,6 +6179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171030,
+      "num": 171030,
+      "word": "翟潇闻高考三次科二考五次",
+      "onboard_time": 1738724120,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170551,
       "num": 170551,
       "word": "梁洁把看不见的伤害具象化了",
@@ -6337,6 +6369,14 @@
       "onboard_time": 1738571966,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164813,
+      "num": 164813,
+      "word": "男子身骑白马冲入江中救下落水父女",
+      "onboard_time": 1738723880,
+      "rank": 34,
+      "category": "正能量"
     },
     {
       "raw_hot": 164734,
@@ -7515,14 +7555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 139549,
-      "num": 229139,
-      "word": "王鹤棣又要打NBA了",
-      "onboard_time": 1738723401,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 139428,
       "num": 139428,
       "word": "创造营亚洲2首播",
@@ -7569,6 +7601,14 @@
       "onboard_time": 1738499478,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 138441,
+      "num": 138441,
+      "word": "泰国今日9时对妙瓦底断网断电断油",
+      "onboard_time": 1738724302,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 138269,
@@ -7787,6 +7827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132034,
+      "num": 132034,
+      "word": "2025春节档票房排名结果",
+      "onboard_time": 1738723880,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 132018,
       "num": 132018,
       "word": "金智秀专辑封面",
@@ -7987,14 +8035,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 127301,
-      "num": 127301,
-      "word": "美国再退出联合国人权理事会",
-      "onboard_time": 1738723401,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 127179,
       "num": 490032,
       "word": "橄榄树开播3天梁洁涨粉40万",
@@ -8049,6 +8089,14 @@
       "onboard_time": 1738387338,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126604,
+      "num": 126604,
+      "word": "浓眉入职第一天给独行侠挑刺",
+      "onboard_time": 1738723701,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 126558,
@@ -8291,6 +8339,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 122582,
+      "num": 122582,
+      "word": "敖闰cos",
+      "onboard_time": 1738721000,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 122229,
       "num": 168650,
       "word": "身边的年味",
@@ -8505,6 +8561,14 @@
       "onboard_time": 1738583311,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115934,
+      "num": 115934,
+      "word": "掌心官宣定档2月7日",
+      "onboard_time": 1738724361,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 115785,
@@ -8803,14 +8867,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 109805,
-      "num": 109805,
-      "word": "浓眉入职第一天给独行侠挑刺",
-      "onboard_time": 1738723701,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 109755,
       "num": 109755,
       "word": "日本多地感冒药供应严重不足",
@@ -8921,14 +8977,6 @@
       "onboard_time": 1738594653,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107898,
-      "num": 107898,
-      "word": "敖闰cos",
-      "onboard_time": 1738721000,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 107856,
@@ -9684,7 +9732,7 @@
     },
     {
       "raw_hot": 89759,
-      "num": 223420,
+      "num": 266920,
       "word": "今日看盘",
       "onboard_time": 1738723220,
       "rank": 24,
@@ -11649,6 +11697,14 @@
       "onboard_time": 1738485138,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 12326,
+      "num": 173747,
+      "word": "混双冰壶中国vs吉尔吉斯斯坦",
+      "onboard_time": 1738724302,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 12267,
