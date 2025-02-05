@@ -1,6 +1,6 @@
 {
   "startTime": 1738772916136,
-  "endTime": 1738795221557,
+  "endTime": 1738797705234,
   "band_list": [
     {
       "raw_hot": 1393800,
@@ -195,6 +195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157356,
+      "num": 108825,
+      "word": "日本的甲流可能被乙流取代",
+      "onboard_time": 1738790351,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 150873,
       "num": 150873,
       "word": "女子误把摔炮当奶糖吃炸伤口腔",
@@ -251,20 +259,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 127199,
-      "num": 51837,
-      "word": "日本的甲流可能被乙流取代",
-      "onboard_time": 1738790351,
-      "rank": 49,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 123523,
       "num": 217463,
       "word": "旅客称返程高峰有票无法上车",
       "onboard_time": 1738771523,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119074,
+      "num": 208530,
+      "word": "泰国切断泰缅边境5处电力供应",
+      "onboard_time": 1738773379,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 118656,
@@ -275,7 +283,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 114098,
+      "raw_hot": 116045,
       "num": 86003,
       "word": "阿根廷宣布将退出世界卫生组织",
       "onboard_time": 1738775836,
@@ -289,6 +297,14 @@
       "onboard_time": 1738768705,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 111405,
+      "num": 111405,
+      "word": "近20个国家将春节定为法定假日",
+      "onboard_time": 1738780933,
+      "rank": 36,
+      "category": "正能量"
     },
     {
       "raw_hot": 111260,
@@ -305,14 +321,6 @@
       "onboard_time": 1738764745,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 106043,
-      "num": 208530,
-      "word": "泰国切断泰缅边境5处电力供应",
-      "onboard_time": 1738773379,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 104849,
@@ -345,6 +353,14 @@
       "onboard_time": 1738752087,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86743,
+      "num": 86743,
+      "word": "乌尔善给观众的一封回信",
+      "onboard_time": 1738776196,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 82620,
@@ -395,14 +411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 72422,
-      "num": 72422,
-      "word": "近20个国家将春节定为法定假日",
-      "onboard_time": 1738780933,
-      "rank": 36,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 69678,
       "num": 131954,
       "word": "起底DeepSeek爆火背后的推手",
@@ -419,14 +427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 65360,
-      "num": 72989,
-      "word": "乌尔善给观众的一封回信",
-      "onboard_time": 1738776196,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 63235,
       "num": 77278,
       "word": "男子跑动画公司问哪吒3多久上映",
@@ -436,7 +436,7 @@
     },
     {
       "raw_hot": 62926,
-      "num": 71958,
+      "num": 77159,
       "word": "中国特警闯进阿联酋特警挑战赛前三",
       "onboard_time": 1738778535,
       "rank": 10,
@@ -467,6 +467,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 50993,
+      "num": 77192,
+      "word": "DeepSeek日活突破2000万",
+      "onboard_time": 1738791252,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 50670,
+      "num": 77185,
+      "word": "裁判看到孙颖莎语气立刻温柔",
+      "onboard_time": 1738794611,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48576,
       "num": 77061,
       "word": "乌尔善回应被贴脸开大",
@@ -483,12 +499,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 45995,
+      "num": 77159,
+      "word": "刘宇宁请大家为我花生",
+      "onboard_time": 1738796895,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 37281,
       "num": 55534,
       "word": "宁艺卓Giselle自作曲",
       "onboard_time": 1738778235,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 33793,
+      "num": 77093,
+      "word": "国产电影团建式祝贺哪吒2",
+      "onboard_time": 1738793652,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 30389,
+      "num": 77078,
+      "word": "谷歌删除不将AI用于武器研发的承诺条款",
+      "onboard_time": 1738764325,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 28314,
@@ -499,20 +539,44 @@
       "category": "电影"
     },
     {
+      "raw_hot": 28213,
+      "num": 77047,
+      "word": "央视总结哪吒2票房曲线",
+      "onboard_time": 1738797317,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 27880,
+      "num": 77011,
+      "word": "BLACKPINK官宣2025世巡",
+      "onboard_time": 1738797496,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 26236,
+      "num": 77023,
+      "word": "南京地铁10号线突发故障",
+      "onboard_time": 1738786932,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26042,
+      "num": 77523,
+      "word": "近200个国家和地区庆祝春节",
+      "onboard_time": 1738769784,
+      "rank": 35,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 25186,
       "num": 213274,
       "word": "亚冬会开幕式中国代表团旗手",
       "onboard_time": 1738771822,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24935,
-      "num": 28142,
-      "word": "DeepSeek日活突破2000万",
-      "onboard_time": 1738791252,
-      "rank": 29,
-      "category": "互联网"
     },
     {
       "raw_hot": 21966,
@@ -523,44 +587,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20822,
-      "num": 77523,
-      "word": "近200个国家和地区庆祝春节",
-      "onboard_time": 1738769784,
-      "rank": 35,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 20402,
-      "num": 30216,
-      "word": "谷歌删除不将AI用于武器研发的承诺条款",
-      "onboard_time": 1738764325,
-      "rank": 49,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 16964,
       "num": 68840,
       "word": "谷歌修改AI道德准则",
       "onboard_time": 1738782133,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 16700,
-      "num": 37095,
-      "word": "南京地铁10号线突发故障",
-      "onboard_time": 1738786932,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15480,
-      "num": 34483,
-      "word": "裁判看到孙颖莎语气立刻温柔",
-      "onboard_time": 1738794611,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 15366,
@@ -632,14 +664,6 @@
       "word": "2025春节档1.87亿人次看电影",
       "onboard_time": 1738792932,
       "rank": 9,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 8260,
-      "num": 39921,
-      "word": "国产电影团建式祝贺哪吒2",
-      "onboard_time": 1738793652,
-      "rank": 18,
       "category": "电影"
     }
   ],
