@@ -1,6 +1,6 @@
 {
   "startTime": 1738686513636,
-  "endTime": 1738740115238,
+  "endTime": 1738740940606,
   "band_list": [
     {
       "raw_hot": 1646150,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 833684,
+      "num": 833684,
+      "word": "用DeepSeek炒股的人出现了",
+      "onboard_time": 1738740081,
+      "rank": 10,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 813706,
       "num": 494029,
       "word": "特朗普称希望美国拥有加沙所有权",
@@ -136,6 +144,14 @@
       "word": "石矶娘娘mini",
       "onboard_time": 1738716681,
       "rank": 4,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 701414,
+      "num": 701414,
+      "word": "哪吒2对春节档造成虹吸效应",
+      "onboard_time": 1738736483,
+      "rank": 9,
       "category": "电影"
     },
     {
@@ -168,14 +184,6 @@
       "word": "哪吒2进入影史票房前5",
       "onboard_time": 1738720220,
       "rank": 33,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 661645,
-      "num": 661645,
-      "word": "哪吒2对春节档造成虹吸效应",
-      "onboard_time": 1738736483,
-      "rank": 9,
       "category": "电影"
     },
     {
@@ -241,6 +249,14 @@
       "onboard_time": 1738713798,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 548386,
+      "num": 548386,
+      "word": "小哪吒配音称因声音丑被饺子相中",
+      "onboard_time": 1738740143,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 523130,
@@ -379,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 394415,
+      "num": 394415,
+      "word": "玉泽演否认求婚成功",
+      "onboard_time": 1738738282,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 392945,
       "num": 418649,
       "word": "A股",
@@ -419,14 +443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 340038,
-      "num": 279223,
-      "word": "用DeepSeek炒股的人出现了",
-      "onboard_time": 1738740081,
-      "rank": 10,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 339590,
       "num": 239698,
       "word": "柯淳 好一个乖乖女",
@@ -435,19 +451,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 328262,
+      "num": 328262,
+      "word": "4岁男孩被偷32年回家母子相拥而泣",
+      "onboard_time": 1738739061,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 324277,
       "num": 324277,
       "word": "孟子义开工红裙",
       "onboard_time": 1738732943,
       "rank": 42,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 320710,
-      "num": 320710,
-      "word": "玉泽演否认求婚成功",
-      "onboard_time": 1738738282,
-      "rank": 7,
       "category": "艺人"
     },
     {
@@ -491,6 +507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 296144,
+      "num": 296144,
+      "word": "妻子称蔡磊双手臂完全瘫痪",
+      "onboard_time": 1738739061,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 293754,
       "num": 293754,
       "word": "猫眼预测",
@@ -507,20 +531,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 289067,
+      "num": 289067,
+      "word": "日本北海道一个市降雪1.2米",
+      "onboard_time": 1738737381,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 280495,
       "num": 218370,
       "word": "女子离家9天猫咪打开热水浴室被泡",
       "onboard_time": 1738734382,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 280277,
-      "num": 280277,
-      "word": "日本北海道一个市降雪1.2米",
-      "onboard_time": 1738737381,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 276366,
@@ -593,6 +617,14 @@
       "onboard_time": 1738722741,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 247370,
+      "num": 247370,
+      "word": "看电影的最佳位置不是正中间",
+      "onboard_time": 1738740202,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 245637,
@@ -697,6 +729,14 @@
       "onboard_time": 1738734023,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 225482,
+      "num": 180382,
+      "word": "林高远已回国家队训练",
+      "onboard_time": 1738740081,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 225050,
@@ -859,14 +899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 195947,
-      "num": 219289,
-      "word": "妻子称蔡磊双手臂完全瘫痪",
-      "onboard_time": 1738739061,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 194885,
       "num": 194885,
       "word": "V中文版鹿晗小恶魔撕漫大片",
@@ -939,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186332,
+      "num": 186332,
+      "word": "杨紫冬日慵懒大片",
+      "onboard_time": 1738740682,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186060,
       "num": 188704,
       "word": "逆跌",
@@ -971,12 +1011,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 182135,
-      "num": 166057,
-      "word": "林高远已回国家队训练",
-      "onboard_time": 1738740081,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 181248,
+      "num": 181248,
+      "word": "华为小艺已接入DeepSeek",
+      "onboard_time": 1738739241,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 180296,
@@ -1099,6 +1139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163114,
+      "num": 163114,
+      "word": "春节假期国内出游5.01亿人次",
+      "onboard_time": 1738740682,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161018,
       "num": 161018,
       "word": "高速免费最后1分钟司机狂按喇叭",
@@ -1115,6 +1163,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 160781,
+      "num": 292122,
+      "word": "春节假期出游人次超500000000",
+      "onboard_time": 1738740501,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160712,
       "num": 381157,
       "word": "监管部门回应乘客在飞机上捡到鞭炮",
@@ -1129,14 +1185,6 @@
       "onboard_time": 1738713798,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 158073,
-      "num": 158297,
-      "word": "华为小艺已接入DeepSeek",
-      "onboard_time": 1738739241,
-      "rank": 34,
-      "category": "互联网"
     },
     {
       "raw_hot": 157922,
@@ -1220,7 +1268,7 @@
     },
     {
       "raw_hot": 149764,
-      "num": 168504,
+      "num": 186416,
       "word": "星穹铁道阿格莱雅",
       "onboard_time": 1738723760,
       "rank": 38,
@@ -1291,20 +1339,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135789,
+      "num": 135789,
+      "word": "今后七天全国大部气温偏低",
+      "onboard_time": 1738737562,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135600,
       "num": 189143,
       "word": "杨颖民国新娘单手持枪反差感",
       "onboard_time": 1738681524,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 135348,
-      "num": 135348,
-      "word": "今后七天全国大部气温偏低",
-      "onboard_time": 1738737562,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133451,
@@ -1344,6 +1392,22 @@
       "word": "龙族永不哭泣",
       "onboard_time": 1738677264,
       "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 130062,
+      "num": 130062,
+      "word": "黄景瑜初八清空库存",
+      "onboard_time": 1738740562,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 128754,
+      "num": 128754,
+      "word": "大海全是水敖丙全是腿",
+      "onboard_time": 1738740623,
+      "rank": 40,
       "category": "电影"
     },
     {
@@ -1499,6 +1563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109794,
+      "num": 109794,
+      "word": "二刷国色芳华会有恍然大悟的感觉",
+      "onboard_time": 1738738401,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109633,
       "num": 386301,
       "word": "王鹤棣连续2年入选NBA名人赛",
@@ -1523,14 +1595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 109148,
-      "num": 109148,
-      "word": "二刷国色芳华会有恍然大悟的感觉",
-      "onboard_time": 1738738401,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 105858,
       "num": 189925,
       "word": "舌尖4西湖醋鱼让司机师傅沉默了",
@@ -1539,12 +1603,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 105791,
-      "num": 254220,
-      "word": "4岁男孩被偷32年回家母子相拥而泣",
-      "onboard_time": 1738739061,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 105149,
+      "num": 105149,
+      "word": "DeepSeek上线国家超算互联网平台",
+      "onboard_time": 1738740261,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 104482,
@@ -1723,6 +1787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 84145,
+      "num": 180587,
+      "word": "林诗栋蒯曼3比0赵大成申裕斌",
+      "onboard_time": 1738740501,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82928,
       "num": 202951,
       "word": "哈勒普退役",
@@ -1889,6 +1961,14 @@
       "onboard_time": 1738689257,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41061,
+      "num": 180394,
+      "word": "林昀儒3比1裴焕",
+      "onboard_time": 1738740682,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 38998,

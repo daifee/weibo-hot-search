@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738740115238,
+  "endTime": 1738740940606,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1171,6 +1171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 833684,
+      "num": 833684,
+      "word": "用DeepSeek炒股的人出现了",
+      "onboard_time": 1738740081,
+      "rank": 10,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 820000,
       "num": 820000,
       "word": "异人之下2导演致歉",
@@ -1427,6 +1435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 701414,
+      "num": 701414,
+      "word": "哪吒2对春节档造成虹吸效应",
+      "onboard_time": 1738736483,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 698807,
       "num": 698807,
       "word": "慕胥辞",
@@ -1529,14 +1545,6 @@
       "onboard_time": 1738646722,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 661645,
-      "num": 661645,
-      "word": "哪吒2对春节档造成虹吸效应",
-      "onboard_time": 1738736483,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 660840,
@@ -1897,6 +1905,14 @@
       "onboard_time": 1738713798,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 548386,
+      "num": 548386,
+      "word": "小哪吒配音称因声音丑被饺子相中",
+      "onboard_time": 1738740143,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 547557,
@@ -2795,6 +2811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 394415,
+      "num": 394415,
+      "word": "玉泽演否认求婚成功",
+      "onboard_time": 1738738282,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 393510,
       "num": 393510,
       "word": "特朗普称计划很快对欧盟产品征收关税",
@@ -3171,14 +3195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 340038,
-      "num": 279223,
-      "word": "用DeepSeek炒股的人出现了",
-      "onboard_time": 1738740081,
-      "rank": 10,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 339821,
       "num": 272694,
       "word": "九重紫短剧",
@@ -3331,6 +3347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 328262,
+      "num": 328262,
+      "word": "4岁男孩被偷32年回家母子相拥而泣",
+      "onboard_time": 1738739061,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 327552,
       "num": 327552,
       "word": "有人返程有人还在原地满勤",
@@ -3409,14 +3433,6 @@
       "onboard_time": 1738420759,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 320710,
-      "num": 320710,
-      "word": "玉泽演否认求婚成功",
-      "onboard_time": 1738738282,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 318130,
@@ -3651,6 +3667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 296144,
+      "num": 296144,
+      "word": "妻子称蔡磊双手臂完全瘫痪",
+      "onboard_time": 1738739061,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 294494,
       "num": 169471,
       "word": "卧室再小也能做个衣帽间",
@@ -3713,6 +3737,14 @@
       "onboard_time": 1738670544,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 289067,
+      "num": 289067,
+      "word": "日本北海道一个市降雪1.2米",
+      "onboard_time": 1738737381,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 286925,
@@ -3785,14 +3817,6 @@
       "onboard_time": 1738734382,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 280277,
-      "num": 280277,
-      "word": "日本北海道一个市降雪1.2米",
-      "onboard_time": 1738737381,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 279845,
@@ -4217,6 +4241,14 @@
       "onboard_time": 1738552229,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 247370,
+      "num": 247370,
+      "word": "看电影的最佳位置不是正中间",
+      "onboard_time": 1738740202,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 246088,
@@ -4713,6 +4745,14 @@
       "onboard_time": 1738519154,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225482,
+      "num": 180382,
+      "word": "林高远已回国家队训练",
+      "onboard_time": 1738740081,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 225408,
@@ -5579,14 +5619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195947,
-      "num": 219289,
-      "word": "妻子称蔡磊双手臂完全瘫痪",
-      "onboard_time": 1738739061,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 195589,
       "num": 195589,
       "word": "刘昊然叫张新成哥哥停不下来",
@@ -6035,6 +6067,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 186332,
+      "num": 186332,
+      "word": "杨紫冬日慵懒大片",
+      "onboard_time": 1738740682,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186116,
       "num": 478160,
       "word": "哪吒里的结界兽意外爆火",
@@ -6243,14 +6283,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 182135,
-      "num": 166057,
-      "word": "林高远已回国家队训练",
-      "onboard_time": 1738740081,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 181962,
       "num": 488694,
       "word": "中方舰艇编队正常过航巴西兰海峡",
@@ -6297,6 +6329,14 @@
       "onboard_time": 1738490118,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181248,
+      "num": 181248,
+      "word": "华为小艺已接入DeepSeek",
+      "onboard_time": 1738739241,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 181069,
@@ -7003,6 +7043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163114,
+      "num": 163114,
+      "word": "春节假期国内出游5.01亿人次",
+      "onboard_time": 1738740682,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162788,
       "num": 162788,
       "word": "朱雨玲发博吐槽签位",
@@ -7113,6 +7161,14 @@
       "onboard_time": 1738732285,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 160781,
+      "num": 292122,
+      "word": "春节假期出游人次超500000000",
+      "onboard_time": 1738740501,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160760,
@@ -7241,14 +7297,6 @@
       "onboard_time": 1738477517,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 158073,
-      "num": 158297,
-      "word": "华为小艺已接入DeepSeek",
-      "onboard_time": 1738739241,
-      "rank": 34,
-      "category": "互联网"
     },
     {
       "raw_hot": 157953,
@@ -7620,7 +7668,7 @@
     },
     {
       "raw_hot": 149764,
-      "num": 168504,
+      "num": 186416,
       "word": "星穹铁道阿格莱雅",
       "onboard_time": 1738723760,
       "rank": 38,
@@ -8331,8 +8379,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 135348,
-      "num": 135348,
+      "raw_hot": 135789,
+      "num": 135789,
       "word": "今后七天全国大部气温偏低",
       "onboard_time": 1738737562,
       "rank": 49,
@@ -8571,6 +8619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130062,
+      "num": 130062,
+      "word": "黄景瑜初八清空库存",
+      "onboard_time": 1738740562,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130053,
       "num": 130053,
       "word": "陈哲远好像不会用智能手机",
@@ -8625,6 +8681,14 @@
       "onboard_time": 1738386496,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128754,
+      "num": 128754,
+      "word": "大海全是水敖丙全是腿",
+      "onboard_time": 1738740623,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 128091,
@@ -9555,6 +9619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 109794,
+      "num": 109794,
+      "word": "二刷国色芳华会有恍然大悟的感觉",
+      "onboard_time": 1738738401,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109755,
       "num": 109755,
       "word": "日本多地感冒药供应严重不足",
@@ -9633,14 +9705,6 @@
       "onboard_time": 1738716801,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 109148,
-      "num": 109148,
-      "word": "二刷国色芳华会有恍然大悟的感觉",
-      "onboard_time": 1738738401,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 109103,
@@ -9811,14 +9875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105791,
-      "num": 254220,
-      "word": "4岁男孩被偷32年回家母子相拥而泣",
-      "onboard_time": 1738739061,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 105766,
       "num": 105766,
       "word": "节后大范围雨雪将上线",
@@ -9833,6 +9889,14 @@
       "onboard_time": 1738469958,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105149,
+      "num": 105149,
+      "word": "DeepSeek上线国家超算互联网平台",
+      "onboard_time": 1738740261,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 105109,
@@ -10697,6 +10761,14 @@
       "onboard_time": 1738421298,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84145,
+      "num": 180587,
+      "word": "林诗栋蒯曼3比0赵大成申裕斌",
+      "onboard_time": 1738740501,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 84049,
@@ -11769,6 +11841,14 @@
       "onboard_time": 1738674804,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 41061,
+      "num": 180394,
+      "word": "林昀儒3比1裴焕",
+      "onboard_time": 1738740682,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 41058,
