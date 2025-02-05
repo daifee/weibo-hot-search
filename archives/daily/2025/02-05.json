@@ -1,6 +1,6 @@
 {
   "startTime": 1738686513636,
-  "endTime": 1738759361086,
+  "endTime": 1738760296393,
   "band_list": [
     {
       "raw_hot": 9238219,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1367161,
-      "num": 440327,
+      "num": 494684,
       "word": "你好李焕英给哪吒的贺图",
       "onboard_time": 1738754065,
       "rank": 11,
@@ -107,6 +107,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 1090023,
+      "num": 397249,
+      "word": "哪吒2 影史前三",
+      "onboard_time": 1738756345,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1082042,
       "num": 907678,
       "word": "翟潇闻高考三次科二考五次",
@@ -129,14 +137,6 @@
       "onboard_time": 1738714338,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 960377,
-      "num": 373249,
-      "word": "哪吒2 影史前三",
-      "onboard_time": 1738756345,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 933458,
@@ -323,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 595496,
+      "num": 396440,
+      "word": "玖月晞 白色橄榄树",
+      "onboard_time": 1738757124,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 584977,
       "num": 555686,
       "word": "看电影的最佳位置不是正中间",
@@ -344,6 +352,14 @@
       "word": "贾玲恭喜哪吒",
       "onboard_time": 1738755565,
       "rank": 7,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 563291,
+      "num": 296377,
+      "word": "战狼2",
+      "onboard_time": 1738758693,
+      "rank": 33,
       "category": "电影"
     },
     {
@@ -371,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 551004,
+      "num": 293409,
+      "word": "长津湖",
+      "onboard_time": 1738758444,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 549528,
       "num": 601876,
       "word": "春节戒断反应",
@@ -379,20 +403,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 538835,
-      "num": 538835,
+      "raw_hot": 541746,
+      "num": 541746,
       "word": "初八去存压岁钱发现ATM机满了",
       "onboard_time": 1738752087,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 535491,
-      "num": 357698,
-      "word": "玖月晞 白色橄榄树",
-      "onboard_time": 1738757124,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 534758,
@@ -449,6 +465,14 @@
       "onboard_time": 1738729825,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 491396,
+      "num": 491396,
+      "word": "樊振东发文为惠英红庆生",
+      "onboard_time": 1738758083,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 487375,
@@ -611,20 +635,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 391248,
+      "num": 391248,
+      "word": "孙颖莎vs木原美悠",
+      "onboard_time": 1738757724,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 386888,
       "num": 386888,
       "word": "乌尔善回应观众来信",
       "onboard_time": 1738751665,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 374597,
-      "num": 374597,
-      "word": "孙颖莎vs木原美悠",
-      "onboard_time": 1738757724,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 373930,
@@ -819,6 +843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 280089,
+      "num": 280089,
+      "word": "业内称票房就是观众用脚投票的结果",
+      "onboard_time": 1738758263,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 276366,
       "num": 276366,
       "word": "DeepSeek",
@@ -857,14 +889,6 @@
       "onboard_time": 1738671864,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 268088,
-      "num": 268088,
-      "word": "长津湖",
-      "onboard_time": 1738758444,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 267750,
@@ -915,20 +939,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 254588,
+      "num": 347935,
+      "word": "留几手我亏钱了",
+      "onboard_time": 1738757785,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254049,
       "num": 254049,
       "word": "何卓佳vs张本美和",
       "onboard_time": 1738752145,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 252130,
-      "num": 252130,
-      "word": "业内称票房就是观众用脚投票的结果",
-      "onboard_time": 1738758263,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 251193,
@@ -1164,7 +1188,7 @@
     },
     {
       "raw_hot": 214153,
-      "num": 179642,
+      "num": 193019,
       "word": "哪吒之魔童闹海票房破55亿",
       "onboard_time": 1738757604,
       "rank": 35,
@@ -1185,14 +1209,6 @@
       "onboard_time": 1738735283,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 212143,
-      "num": 212143,
-      "word": "战狼2",
-      "onboard_time": 1738758693,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 211214,
@@ -1291,12 +1307,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 199601,
-      "num": 347935,
-      "word": "留几手我亏钱了",
-      "onboard_time": 1738757785,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 202158,
+      "num": 349690,
+      "word": "电影博主称本次春节档是神迹",
+      "onboard_time": 1738758083,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 199560,
@@ -1491,6 +1507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 181803,
+      "num": 263484,
+      "word": "孙颖莎3比0胜木原美悠",
+      "onboard_time": 1738759762,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181248,
       "num": 181248,
       "word": "华为小艺已接入DeepSeek",
@@ -1531,12 +1555,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 177627,
-      "num": 152605,
-      "word": "樊振东发文为惠英红庆生",
-      "onboard_time": 1738758083,
-      "rank": 42,
-      "category": "体育"
+      "raw_hot": 177501,
+      "num": 177501,
+      "word": "乌尔善回应被贴脸开大",
+      "onboard_time": 1738756584,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 177472,
@@ -1635,11 +1659,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 165793,
-      "num": 165793,
-      "word": "乌尔善回应被贴脸开大",
-      "onboard_time": 1738756584,
-      "rank": 36,
+      "raw_hot": 165567,
+      "num": 190111,
+      "word": "票房",
+      "onboard_time": 1738679905,
+      "rank": 26,
       "category": "电影"
     },
     {
@@ -1795,6 +1819,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 155277,
+      "num": 155277,
+      "word": "Angelababy新剧人设",
+      "onboard_time": 1738759284,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 154610,
+      "num": 155153,
+      "word": "五福临门",
+      "onboard_time": 1738758982,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154311,
       "num": 154311,
       "word": "芒果上班第一天就冲业绩",
@@ -1827,20 +1867,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 151124,
-      "num": 151124,
-      "word": "Angelababy新剧人设",
-      "onboard_time": 1738759284,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 151051,
       "num": 158628,
       "word": "SMTOWN墨西哥演唱会阵容",
       "onboard_time": 1738738880,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 150782,
+      "num": 186873,
+      "word": "贾哈3比2莫雷加德",
+      "onboard_time": 1738758444,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 149943,
@@ -1859,19 +1899,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 149550,
+      "num": 363022,
+      "word": "中方回应特朗普涉加沙言论",
+      "onboard_time": 1738757724,
+      "rank": 9,
+      "category": "国际时政,国内时政"
+    },
+    {
       "raw_hot": 147003,
       "num": 147003,
       "word": "六姊妹小演员选角",
       "onboard_time": 1738728562,
       "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 145940,
-      "num": 155153,
-      "word": "五福临门",
-      "onboard_time": 1738758982,
-      "rank": 40,
       "category": "剧集"
     },
     {
@@ -1963,20 +2003,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139636,
+      "num": 335918,
+      "word": "景区回应一员工把香火钱揣自己兜里",
+      "onboard_time": 1738758203,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138054,
       "num": 341054,
       "word": "离家18年归来后能分割配偶的财产吗",
       "onboard_time": 1738731924,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 137296,
-      "num": 190111,
-      "word": "票房",
-      "onboard_time": 1738679905,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 136881,
@@ -2091,20 +2131,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 131041,
-      "num": 156705,
-      "word": "贾哈3比2莫雷加德",
-      "onboard_time": 1738758444,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 130062,
       "num": 130062,
       "word": "黄景瑜初八清空库存",
       "onboard_time": 1738740562,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128860,
+      "num": 128860,
+      "word": "往往顶级恋爱脑都是出自风象星座",
+      "onboard_time": 1738759824,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 126604,
@@ -2137,14 +2177,6 @@
       "onboard_time": 1738699391,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 125246,
-      "num": 349690,
-      "word": "电影博主称本次春节档是神迹",
-      "onboard_time": 1738758083,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 123895,
@@ -2219,6 +2251,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 116060,
+      "num": 262777,
+      "word": "李焕英给哪吒2的贺图callback了",
+      "onboard_time": 1738759164,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 116002,
       "num": 116002,
       "word": "外国游客是怎么找到这些宝藏小城的",
@@ -2267,8 +2307,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113477,
+      "num": 113477,
+      "word": "孙颖莎女单成功晋级",
+      "onboard_time": 1738760184,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112843,
-      "num": 112843,
+      "num": 256960,
       "word": "中国棋协回应争议规则变更",
       "onboard_time": 1738758203,
       "rank": 48,
@@ -2305,14 +2353,6 @@
       "onboard_time": 1738676843,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 109727,
-      "num": 363022,
-      "word": "中方回应特朗普涉加沙言论",
-      "onboard_time": 1738757724,
-      "rank": 9,
-      "category": "国际时政,国内时政"
     },
     {
       "raw_hot": 109633,
@@ -2547,14 +2587,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 88064,
-      "num": 335918,
-      "word": "景区回应一员工把香火钱揣自己兜里",
-      "onboard_time": 1738758203,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87868,
       "num": 188102,
       "word": "射雕",
@@ -2676,7 +2708,7 @@
     },
     {
       "raw_hot": 71580,
-      "num": 186582,
+      "num": 260383,
       "word": "第五代EA888机皇",
       "onboard_time": 1738758564,
       "rank": 34,
@@ -2907,6 +2939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35728,
+      "num": 497601,
+      "word": "2025年春节假期交通出行火热",
+      "onboard_time": 1738759164,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33205,
       "num": 214887,
       "word": "随意弃养异宠存在外来物种入侵风险",
@@ -3019,6 +3059,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 23051,
+      "num": 185937,
+      "word": "五大关键词看春节消费新趋势",
+      "onboard_time": 1738760244,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 18465,
       "num": 117617,
       "word": "瑞典一所学校发生枪击至少5人被击中",
@@ -3107,14 +3155,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 7798,
-      "num": 448206,
-      "word": "2025年春节假期交通出行火热",
-      "onboard_time": 1738759164,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 7573,
       "num": 241810,
       "word": "东契奇说联手詹姆斯是梦想成真",
@@ -3146,6 +3186,9 @@
     },
     {
       "word": "#中吉关系实现跨越式发展#"
+    },
+    {
+      "word": "#习近平同巴基斯坦总统会谈#"
     }
   ]
 }
