@@ -1,6 +1,6 @@
 {
   "startTime": 1738772916136,
-  "endTime": 1738791483071,
+  "endTime": 1738794159387,
   "band_list": [
     {
       "raw_hot": 1393800,
@@ -339,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92055,
+      "num": 42260,
+      "word": "日本的甲流可能被乙流取代",
+      "onboard_time": 1738790351,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 82620,
       "num": 132029,
       "word": "张晚意似锦将官宣",
@@ -499,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22759,
+      "num": 28142,
+      "word": "DeepSeek日活突破2000万",
+      "onboard_time": 1738791252,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 21966,
       "num": 55488,
       "word": "国安提醒节后返岗牢记四不",
@@ -515,7 +531,7 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 17618,
+      "raw_hot": 17791,
       "num": 30216,
       "word": "谷歌删除不将AI用于武器研发的承诺条款",
       "onboard_time": 1738764325,
@@ -531,12 +547,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 16685,
-      "num": 18843,
-      "word": "日本的甲流可能被乙流取代",
-      "onboard_time": 1738790351,
-      "rank": 49,
-      "category": "海外新闻"
+      "raw_hot": 16070,
+      "num": 37095,
+      "word": "南京地铁10号线突发故障",
+      "onboard_time": 1738786932,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15366,
@@ -553,14 +569,6 @@
       "onboard_time": 1738783331,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 15047,
-      "num": 37095,
-      "word": "南京地铁10号线突发故障",
-      "onboard_time": 1738786932,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12683,
@@ -595,20 +603,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 8936,
-      "num": 20464,
-      "word": "DeepSeek日活突破2000万",
-      "onboard_time": 1738791252,
-      "rank": 29,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 8914,
       "num": 19623,
       "word": "送往西藏定日的3件新年礼物",
       "onboard_time": 1738790531,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8307,
+      "num": 42670,
+      "word": "2025春节档1.87亿人次看电影",
+      "onboard_time": 1738792932,
+      "rank": 9,
+      "category": "电影"
     }
   ],
   "hotgov_list": [
