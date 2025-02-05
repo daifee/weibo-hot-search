@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738754326070,
+  "endTime": 1738755349375,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -187,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2961950,
+      "num": 2961950,
+      "word": "哪吒票房",
+      "onboard_time": 1738467317,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 2860425,
       "num": 934816,
       "word": "大S朋友圈签名",
@@ -225,14 +233,6 @@
       "onboard_time": 1738582711,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2383934,
-      "num": 2383934,
-      "word": "哪吒票房",
-      "onboard_time": 1738467317,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 2344339,
@@ -440,6 +440,14 @@
       "word": "哪吒2爆火后唯一受害者出现",
       "onboard_time": 1738503980,
       "rank": 11,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1660675,
+      "num": 470640,
+      "word": "哪吒2票房超过你好李焕英",
+      "onboard_time": 1738753405,
+      "rank": 3,
       "category": "电影"
     },
     {
@@ -683,6 +691,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1231432,
+      "num": 404970,
+      "word": "你好李焕英给哪吒的贺图",
+      "onboard_time": 1738754065,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1222674,
       "num": 1222674,
       "word": "射雕票房",
@@ -849,14 +865,6 @@
       "onboard_time": 1738671864,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1053986,
-      "num": 470640,
-      "word": "哪吒2票房超过你好李焕英",
-      "onboard_time": 1738753405,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 1051629,
@@ -1928,14 +1936,6 @@
       "word": "唐探是真扛老啊",
       "onboard_time": 1738400897,
       "rank": 26,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 567163,
-      "num": 404970,
-      "word": "你好李焕英给哪吒的贺图",
-      "onboard_time": 1738754065,
-      "rank": 11,
       "category": "电影"
     },
     {
@@ -3283,6 +3283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 348710,
+      "num": 246427,
+      "word": "女子误把摔炮当奶糖吃炸伤口腔",
+      "onboard_time": 1738754184,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 347169,
       "num": 284057,
       "word": "原来王安宇动作指导是太乙真人",
@@ -3328,6 +3336,14 @@
       "word": "项楚先生辞世",
       "onboard_time": 1738714941,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 343798,
+      "num": 414512,
+      "word": "这类微短剧被禁止上线传播",
+      "onboard_time": 1738752625,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -4115,6 +4131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 270686,
+      "num": 270686,
+      "word": "何卓佳3比0张本美和",
+      "onboard_time": 1738753705,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 270127,
       "num": 175127,
       "word": "李雪琴自曝过年爱走亲戚",
@@ -4483,14 +4507,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 246427,
-      "num": 246427,
-      "word": "女子误把摔炮当奶糖吃炸伤口腔",
-      "onboard_time": 1738754184,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 246088,
       "num": 246088,
       "word": "哪吒之魔童闹海票房突破45亿",
@@ -4737,14 +4753,6 @@
       "onboard_time": 1738485857,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 235579,
-      "num": 414512,
-      "word": "这类微短剧被禁止上线传播",
-      "onboard_time": 1738752625,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 235419,
@@ -5105,6 +5113,14 @@
       "onboard_time": 1738748490,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 222151,
+      "num": 222151,
+      "word": "坤音娱乐",
+      "onboard_time": 1738753945,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 221828,
@@ -5593,6 +5609,14 @@
       "onboard_time": 1738662683,
       "rank": 31,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 203846,
+      "num": 203846,
+      "word": "外国网红爬进飞机引擎做俯卧撑",
+      "onboard_time": 1738750586,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 203821,
@@ -6291,14 +6315,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 189065,
-      "num": 252877,
-      "word": "何卓佳3比0张本美和",
-      "onboard_time": 1738753705,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 188982,
       "num": 133285,
       "word": "射雕英雄传为何今天仍能触动人心",
@@ -6753,14 +6769,6 @@
       "onboard_time": 1738566031,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 178749,
-      "num": 178749,
-      "word": "外国网红爬进飞机引擎做俯卧撑",
-      "onboard_time": 1738750586,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 178273,
@@ -7508,7 +7516,7 @@
     },
     {
       "raw_hot": 161971,
-      "num": 205472,
+      "num": 220074,
       "word": "瑞典校园枪击11人死亡",
       "onboard_time": 1738748184,
       "rank": 49,
@@ -8563,6 +8571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142256,
+      "num": 142256,
+      "word": "南京地铁",
+      "onboard_time": 1738751665,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142029,
       "num": 142029,
       "word": "第一次见说相声按句收费的",
@@ -8763,14 +8779,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 138235,
-      "num": 138235,
-      "word": "坤音娱乐",
-      "onboard_time": 1738753945,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
       "raw_hot": 138184,
       "num": 217225,
       "word": "澳洲偶遇奚梦瑶何猷君带女儿出游",
@@ -8881,6 +8889,14 @@
       "onboard_time": 1738737562,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135184,
+      "num": 135184,
+      "word": "王楚钦说第一场男双赢了最重要",
+      "onboard_time": 1738754495,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 135112,
@@ -9201,14 +9217,6 @@
       "onboard_time": 1738386496,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 128442,
-      "num": 128442,
-      "word": "南京地铁",
-      "onboard_time": 1738751665,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128091,
@@ -9657,6 +9665,14 @@
       "onboard_time": 1738332740,
       "rank": 31,
       "category": "电竞,游戏"
+    },
+    {
+      "raw_hot": 120248,
+      "num": 120248,
+      "word": "猫说别老打这电话了",
+      "onboard_time": 1738755085,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 120185,
@@ -12067,6 +12083,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 57279,
+      "num": 252201,
+      "word": "金智秀告黑",
+      "onboard_time": 1738753884,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 55927,
       "num": 350097,
       "word": "这些文物都与蛇有关",
@@ -12219,6 +12243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51507,
+      "num": 257215,
+      "word": "交管部门回应网传法拉利炸街并冲卡",
+      "onboard_time": 1738754663,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51491,
       "num": 171602,
       "word": "内蒙古50余辆车近百人因风吹雪被困",
@@ -12247,6 +12279,14 @@
       "num": 150779,
       "word": "哈尔滨亚冬会赛事日历",
       "onboard_time": 1738416558,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 50914,
+      "num": 234992,
+      "word": "樊振东再登杂志封面",
+      "onboard_time": 1738754546,
       "rank": 24,
       "category": "体育"
     },
@@ -12577,6 +12617,14 @@
       "onboard_time": 1738570828,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37729,
+      "num": 250543,
+      "word": "当地回应男子骑白马江中救人",
+      "onboard_time": 1738753464,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37688,
@@ -13139,14 +13187,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 20306,
-      "num": 250543,
-      "word": "当地回应男子骑白马江中救人",
-      "onboard_time": 1738753464,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20285,
       "num": 116563,
       "word": "90岁爷爷一出门就要牵老伴的手",
@@ -13185,14 +13225,6 @@
       "onboard_time": 1738356851,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 16177,
-      "num": 252201,
-      "word": "金智秀告黑",
-      "onboard_time": 1738753884,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 15877,

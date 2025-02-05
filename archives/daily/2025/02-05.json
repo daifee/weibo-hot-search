@@ -1,6 +1,6 @@
 {
   "startTime": 1738686513636,
-  "endTime": 1738754326070,
+  "endTime": 1738755349375,
   "band_list": [
     {
       "raw_hot": 9238219,
@@ -11,11 +11,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2383934,
-      "num": 2383934,
+      "raw_hot": 2961950,
+      "num": 2961950,
       "word": "哪吒票房",
       "onboard_time": 1738745064,
       "rank": 21,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1660675,
+      "num": 470640,
+      "word": "哪吒2票房超过你好李焕英",
+      "onboard_time": 1738753405,
+      "rank": 3,
       "category": "电影"
     },
     {
@@ -59,6 +67,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1231432,
+      "num": 404970,
+      "word": "你好李焕英给哪吒的贺图",
+      "onboard_time": 1738754065,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1214897,
       "num": 600829,
       "word": "喻言 浪姐",
@@ -97,14 +113,6 @@
       "onboard_time": 1738724120,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1053986,
-      "num": 470640,
-      "word": "哪吒2票房超过你好李焕英",
-      "onboard_time": 1738753405,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 985035,
@@ -153,6 +161,14 @@
       "onboard_time": 1738670305,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 867865,
+      "num": 248740,
+      "word": "哪吒",
+      "onboard_time": 1738755265,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 855311,
@@ -313,14 +329,6 @@
       "onboard_time": 1738744403,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 567163,
-      "num": 404970,
-      "word": "你好李焕英给哪吒的贺图",
-      "onboard_time": 1738754065,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 562618,
@@ -595,6 +603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 348710,
+      "num": 246427,
+      "word": "女子误把摔炮当奶糖吃炸伤口腔",
+      "onboard_time": 1738754184,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 345947,
       "num": 345947,
       "word": "乌尔善被贴脸开大",
@@ -608,6 +624,14 @@
       "word": "项楚先生辞世",
       "onboard_time": 1738714941,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 343798,
+      "num": 414512,
+      "word": "这类微短剧被禁止上线传播",
+      "onboard_time": 1738752625,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -779,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 270686,
+      "num": 270686,
+      "word": "何卓佳3比0张本美和",
+      "onboard_time": 1738753705,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 268233,
       "num": 414907,
       "word": "返工人把高铁吃成流水席了",
@@ -867,14 +899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 246427,
-      "num": 246427,
-      "word": "女子误把摔炮当奶糖吃炸伤口腔",
-      "onboard_time": 1738754184,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 245637,
       "num": 245637,
       "word": "第五人格",
@@ -929,14 +953,6 @@
       "onboard_time": 1738684404,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 235579,
-      "num": 414512,
-      "word": "这类微短剧被禁止上线传播",
-      "onboard_time": 1738752625,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 233244,
@@ -1035,12 +1051,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 222151,
+      "num": 222151,
+      "word": "坤音娱乐",
+      "onboard_time": 1738753945,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 220020,
       "num": 341395,
       "word": "第一天上班建议发呆5分钟",
       "onboard_time": 1738728262,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219739,
+      "num": 219739,
+      "word": "敖丙",
+      "onboard_time": 1738748490,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 219115,
@@ -1107,14 +1139,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 206811,
-      "num": 206811,
-      "word": "敖丙",
-      "onboard_time": 1738748490,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
       "raw_hot": 206149,
       "num": 206149,
       "word": "春节假期国内出游5.01亿人次",
@@ -1153,6 +1177,14 @@
       "onboard_time": 1738687160,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 203846,
+      "num": 203846,
+      "word": "外国网红爬进飞机引擎做俯卧撑",
+      "onboard_time": 1738750586,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 203439,
@@ -1291,14 +1323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189065,
-      "num": 252877,
-      "word": "何卓佳3比0张本美和",
-      "onboard_time": 1738753705,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 188964,
       "num": 188964,
       "word": "表情包演我上班第一天",
@@ -1409,14 +1433,6 @@
       "onboard_time": 1738736903,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 178749,
-      "num": 178749,
-      "word": "外国网红爬进飞机引擎做俯卧撑",
-      "onboard_time": 1738750586,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 177776,
@@ -1580,7 +1596,7 @@
     },
     {
       "raw_hot": 161971,
-      "num": 205472,
+      "num": 220074,
       "word": "瑞典校园枪击11人死亡",
       "onboard_time": 1738748184,
       "rank": 49,
@@ -1779,11 +1795,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142256,
+      "num": 142256,
+      "word": "南京地铁",
+      "onboard_time": 1738751665,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141512,
       "num": 141512,
       "word": "留几手称自己带货亏到姥姥家",
       "onboard_time": 1738748005,
       "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 140844,
+      "num": 242682,
+      "word": "刘宇宁直播",
+      "onboard_time": 1738755025,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -1801,14 +1833,6 @@
       "onboard_time": 1738743323,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 138235,
-      "num": 138235,
-      "word": "坤音娱乐",
-      "onboard_time": 1738753945,
-      "rank": 46,
-      "category": "演出"
     },
     {
       "raw_hot": 138054,
@@ -1865,6 +1889,14 @@
       "onboard_time": 1738681524,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135184,
+      "num": 135184,
+      "word": "王楚钦说第一场男双赢了最重要",
+      "onboard_time": 1738754495,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 135112,
@@ -1937,14 +1969,6 @@
       "onboard_time": 1738740562,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 128442,
-      "num": 128442,
-      "word": "南京地铁",
-      "onboard_time": 1738751665,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126604,
@@ -2025,6 +2049,14 @@
       "onboard_time": 1738738401,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120248,
+      "num": 120248,
+      "word": "猫说别老打这电话了",
+      "onboard_time": 1738755085,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 119141,
@@ -2523,6 +2555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57279,
+      "num": 252201,
+      "word": "金智秀告黑",
+      "onboard_time": 1738753884,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 54911,
       "num": 29830,
       "word": "多位博主曾提醒近期不要去日本旅游",
@@ -2571,6 +2611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51507,
+      "num": 257215,
+      "word": "交管部门回应网传法拉利炸街并冲卡",
+      "onboard_time": 1738754663,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51491,
       "num": 171602,
       "word": "内蒙古50余辆车近百人因风吹雪被困",
@@ -2601,6 +2649,14 @@
       "onboard_time": 1738676545,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 50914,
+      "num": 234992,
+      "word": "樊振东再登杂志封面",
+      "onboard_time": 1738754546,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 49074,
@@ -2649,6 +2705,14 @@
       "onboard_time": 1738732823,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37729,
+      "num": 250543,
+      "word": "当地回应男子骑白马江中救人",
+      "onboard_time": 1738753464,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37426,
@@ -2771,14 +2835,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 20306,
-      "num": 250543,
-      "word": "当地回应男子骑白马江中救人",
-      "onboard_time": 1738753464,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 18465,
       "num": 117617,
       "word": "瑞典一所学校发生枪击至少5人被击中",
@@ -2793,14 +2849,6 @@
       "onboard_time": 1738667723,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 16177,
-      "num": 252201,
-      "word": "金智秀告黑",
-      "onboard_time": 1738753884,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 15877,

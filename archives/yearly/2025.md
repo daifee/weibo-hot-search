@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/02/05 19:18:46
+本榜单时间：2025/01/01 00:26:38 ~ 2025/02/05 19:35:49
 </p>
 </blockquote>
 <p>
@@ -783,6 +783,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%92%E7%A5%A8%E6%88%BF%23" target="weibo">
+哪吒票房（热度：2961950）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%8D%A2%E4%BA%86%E6%83%B3%E4%BA%86%E5%8D%81%E5%B9%B4%E7%9A%84%E5%8F%91%E8%89%B2%23" target="weibo">
 赵露思换了想了十年的发色（热度：2946760）
 </a>
@@ -1127,12 +1133,6 @@ TikTok停止在美服务（热度：2463156）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%AF%E9%81%93%E6%AD%89%23" target="weibo">
 刘雯道歉（热度：2385266）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%92%E7%A5%A8%E6%88%BF%23" target="weibo">
-哪吒票房（热度：2383934）
 </a>
 </li>
 
