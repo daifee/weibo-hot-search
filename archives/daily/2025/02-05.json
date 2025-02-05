@@ -1,6 +1,6 @@
 {
   "startTime": 1738686513636,
-  "endTime": 1738725999642,
+  "endTime": 1738726872381,
   "band_list": [
     {
       "raw_hot": 1592043,
@@ -35,6 +35,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 1082042,
+      "num": 726933,
+      "word": "翟潇闻高考三次科二考五次",
+      "onboard_time": 1738724120,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 985035,
       "num": 444482,
       "word": "射雕票房逆跌",
@@ -67,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 894668,
+      "num": 448992,
+      "word": "日本大医院非患者想去就能去",
+      "onboard_time": 1738724601,
+      "rank": 10,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 877750,
       "num": 285500,
       "word": "汪小菲现任妻子mandy发声",
@@ -75,12 +91,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 855371,
-      "num": 648937,
-      "word": "翟潇闻高考三次科二考五次",
-      "onboard_time": 1738724120,
-      "rank": 33,
-      "category": "剧集"
+      "raw_hot": 837325,
+      "num": 837325,
+      "word": "黄金",
+      "onboard_time": 1738725021,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 813706,
@@ -107,6 +123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 672080,
+      "num": 672080,
+      "word": "距2026年春节还有376天",
+      "onboard_time": 1738722741,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 664391,
       "num": 646924,
       "word": "哪吒2进入影史票房前5",
@@ -131,22 +155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 636989,
-      "num": 636989,
-      "word": "距2026年春节还有376天",
-      "onboard_time": 1738722741,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 620742,
-      "num": 421238,
-      "word": "日本大医院非患者想去就能去",
-      "onboard_time": 1738724601,
-      "rank": 10,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 562618,
       "num": 189798,
       "word": "观众称看射雕如坐针毡",
@@ -156,11 +164,19 @@
     },
     {
       "raw_hot": 562175,
-      "num": 335631,
+      "num": 381136,
       "word": "赵露思又一条ins破百万赞了",
       "onboard_time": 1738714999,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 556097,
+      "num": 444252,
+      "word": "业内谈肖战射雕",
+      "onboard_time": 1738724841,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 549528,
@@ -195,20 +211,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 487375,
+      "num": 487375,
+      "word": "特斯拉Model3降价8000元",
+      "onboard_time": 1738723760,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 477187,
       "num": 477187,
       "word": "下一个假期在4月",
       "onboard_time": 1738713439,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 448544,
-      "num": 448544,
-      "word": "特斯拉Model3降价8000元",
-      "onboard_time": 1738723760,
-      "rank": 27,
-      "category": "汽车"
     },
     {
       "raw_hot": 446519,
@@ -227,24 +243,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 422836,
-      "num": 422836,
-      "word": "黄金",
-      "onboard_time": 1738725021,
-      "rank": 8,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 412675,
-      "num": 412675,
-      "word": "业内谈肖战射雕",
-      "onboard_time": 1738724841,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 397659,
-      "num": 327873,
+      "num": 331993,
       "word": "女子刮中百万大奖被彩票点抢回",
       "onboard_time": 1738712297,
       "rank": 21,
@@ -348,7 +348,7 @@
     },
     {
       "raw_hot": 266721,
-      "num": 413138,
+      "num": 422337,
       "word": "当代年轻人的开工仪式",
       "onboard_time": 1738724901,
       "rank": 17,
@@ -379,6 +379,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241913,
+      "num": 241913,
+      "word": "哪吒2票房超其它新片总和",
+      "onboard_time": 1738725980,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 241704,
+      "num": 241704,
+      "word": "第一批返工猫狗已经在路上了",
+      "onboard_time": 1738725021,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 240098,
       "num": 190813,
       "word": "血氧浓度低于90%很危险",
@@ -401,6 +417,14 @@
       "onboard_time": 1738648402,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 228535,
+      "num": 424429,
+      "word": "毛不易说不想代表任何人表达",
+      "onboard_time": 1738725261,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 227836,
@@ -467,14 +491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 215217,
-      "num": 417475,
-      "word": "毛不易说不想代表任何人表达",
-      "onboard_time": 1738725261,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 207832,
       "num": 207832,
       "word": "哪吒自己超越了自己",
@@ -515,6 +531,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 203290,
+      "num": 455111,
+      "word": "2025春节档票房破95亿",
+      "onboard_time": 1738725082,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 202336,
+      "num": 202336,
+      "word": "美国再退出联合国人权理事会",
+      "onboard_time": 1738723401,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 199457,
       "num": 220220,
       "word": "致每一位奔赴岗位的你",
@@ -531,12 +563,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 194259,
-      "num": 194259,
-      "word": "第一批返工猫狗已经在路上了",
-      "onboard_time": 1738725021,
-      "rank": 37,
-      "category": "幽默"
+      "raw_hot": 194885,
+      "num": 194885,
+      "word": "V中文版鹿晗小恶魔撕漫大片",
+      "onboard_time": 1738725500,
+      "rank": 41,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 193318,
@@ -579,14 +611,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 188638,
-      "num": 188638,
-      "word": "V中文版鹿晗小恶魔撕漫大片",
-      "onboard_time": 1738725500,
-      "rank": 41,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 186060,
       "num": 188704,
       "word": "逆跌",
@@ -611,16 +635,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 178550,
-      "num": 178550,
-      "word": "美国再退出联合国人权理事会",
-      "onboard_time": 1738723401,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 177472,
-      "num": 308318,
+      "num": 425580,
       "word": "离开家的时候最想家",
       "onboard_time": 1738725142,
       "rank": 23,
@@ -632,6 +648,14 @@
       "word": "特朗普政府推进关闭教育部",
       "onboard_time": 1738713439,
       "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 169984,
+      "num": 169984,
+      "word": "特朗普称将加沙巴勒斯坦人迁至他国",
+      "onboard_time": 1738725322,
+      "rank": 48,
       "category": "国际时政"
     },
     {
@@ -651,14 +675,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 164596,
-      "num": 164596,
-      "word": "哪吒2票房超其它新片总和",
-      "onboard_time": 1738725980,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 164579,
       "num": 164579,
       "word": "六姊妹",
@@ -667,12 +683,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164457,
-      "num": 164457,
-      "word": "特朗普称将加沙巴勒斯坦人迁至他国",
-      "onboard_time": 1738725322,
-      "rank": 48,
-      "category": "国际时政"
+      "raw_hot": 163194,
+      "num": 163194,
+      "word": "打工人开始流行在工位健身",
+      "onboard_time": 1738726520,
+      "rank": 47,
+      "category": "运动健身"
     },
     {
       "raw_hot": 159042,
@@ -704,14 +720,6 @@
       "word": "小哪吒的配音演员原来是个小姐姐",
       "onboard_time": 1738722560,
       "rank": 34,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 151743,
-      "num": 422274,
-      "word": "2025春节档票房破95亿",
-      "onboard_time": 1738725082,
-      "rank": 9,
       "category": "电影"
     },
     {
@@ -859,6 +867,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 118008,
+      "num": 172883,
+      "word": "开工的松弛感是闫妮给的",
+      "onboard_time": 1738726520,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116002,
       "num": 116002,
       "word": "外国游客是怎么找到这些宝藏小城的",
@@ -905,6 +921,14 @@
       "onboard_time": 1738676843,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109633,
+      "num": 386301,
+      "word": "王鹤棣连续2年入选NBA名人赛",
+      "onboard_time": 1738725922,
+      "rank": 36,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 109523,
@@ -969,14 +993,6 @@
       "onboard_time": 1738711457,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 98787,
-      "num": 194714,
-      "word": "王鹤棣连续2年入选NBA名人赛",
-      "onboard_time": 1738725922,
-      "rank": 36,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 96136,
@@ -1115,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73995,
+      "num": 381157,
+      "word": "监管部门回应乘客在飞机上捡到鞭炮",
+      "onboard_time": 1738726100,
+      "rank": 19,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 65054,
       "num": 934352,
       "word": "春节假期兴起入境定制游",
@@ -1137,6 +1161,14 @@
       "onboard_time": 1738657462,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54824,
+      "num": 171103,
+      "word": "DeepSeek招聘偏好在校生或应届生",
+      "onboard_time": 1738722140,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 51140,
@@ -1163,11 +1195,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 44339,
+      "num": 305114,
+      "word": "现代产业粤来粤强",
+      "onboard_time": 1738726702,
+      "rank": 24,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 41621,
       "num": 187728,
       "word": "蛇年开工第1天",
       "onboard_time": 1738689257,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37630,
+      "num": 744632,
+      "word": "2025年中国经济这么干",
+      "onboard_time": 1738716320,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -1305,6 +1353,9 @@
     },
     {
       "word": "#总书记那些点睛用典#"
+    },
+    {
+      "word": "#习近平举行仪式欢迎吉尔吉斯斯坦总统访华#"
     }
   ]
 }

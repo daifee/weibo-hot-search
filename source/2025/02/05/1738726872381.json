@@ -1,0 +1,410 @@
+{
+  "runTime": 1738726872381,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1335395,
+        "num": 1335395,
+        "word": "饺子导演成为百亿票房导演",
+        "onboard_time": 1738720821,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 837325,
+        "num": 837325,
+        "word": "黄金",
+        "onboard_time": 1738725021,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 37630,
+        "num": 744632,
+        "word": "2025年中国经济这么干",
+        "onboard_time": 1738716320,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1082042,
+        "num": 726933,
+        "word": "翟潇闻高考三次科二考五次",
+        "onboard_time": 1738724120,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 672080,
+        "num": 672080,
+        "word": "距2026年春节还有376天",
+        "onboard_time": 1738722741,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 620556,
+        "num": 620556,
+        "word": "泰国已对泰缅边境缅甸地区断电",
+        "onboard_time": 1738722620,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 585661,
+        "num": 585661,
+        "word": "哪吒2进入影史票房前5",
+        "onboard_time": 1738720220,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 514837,
+        "num": 514837,
+        "word": "春节戒断反应",
+        "onboard_time": 1738713798,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 487375,
+        "num": 487375,
+        "word": "特斯拉Model3降价8000元",
+        "onboard_time": 1738723760,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 203290,
+        "num": 455111,
+        "word": "2025春节档票房破95亿",
+        "onboard_time": 1738725082,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 894668,
+        "num": 448992,
+        "word": "日本大医院非患者想去就能去",
+        "onboard_time": 1738724601,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 556097,
+        "num": 444252,
+        "word": "业内谈肖战射雕",
+        "onboard_time": 1738724841,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 429487,
+        "num": 429487,
+        "word": "DeepSeek招聘实习生月薪过万",
+        "onboard_time": 1738713439,
+        "rank": 12,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 162498,
+        "num": 425580,
+        "word": "离开家的时候最想家",
+        "onboard_time": 1738725142,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228535,
+        "num": 424429,
+        "word": "毛不易说不想代表任何人表达",
+        "onboard_time": 1738725261,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423772,
+        "num": 423772,
+        "word": "石矶娘娘mini",
+        "onboard_time": 1738716681,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 226400,
+        "num": 422337,
+        "word": "当代年轻人的开工仪式",
+        "onboard_time": 1738724901,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 422315,
+        "num": 422315,
+        "word": "玉泽演求婚成功",
+        "onboard_time": 1738714999,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109633,
+        "num": 386301,
+        "word": "王鹤棣连续2年入选NBA名人赛",
+        "onboard_time": 1738725922,
+        "rank": 18,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 73995,
+        "num": 381157,
+        "word": "监管部门回应乘客在飞机上捡到鞭炮",
+        "onboard_time": 1738726100,
+        "rank": 19,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 381136,
+        "num": 381136,
+        "word": "赵露思又一条ins破百万赞了",
+        "onboard_time": 1738714999,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353457,
+        "num": 353457,
+        "word": "特朗普称希望美国拥有加沙所有权",
+        "onboard_time": 1738717641,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 331993,
+        "num": 331993,
+        "word": "女子刮中百万大奖被彩票点抢回",
+        "onboard_time": 1738712297,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321716,
+        "num": 321716,
+        "word": "A股",
+        "onboard_time": 1738722741,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 44339,
+        "num": 305114,
+        "word": "现代产业粤来粤强",
+        "onboard_time": 1738726702,
+        "rank": 24,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 290797,
+        "num": 290797,
+        "word": "男子身骑白马冲入江中救下落水父女",
+        "onboard_time": 1738723880,
+        "rank": 25,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 274923,
+        "num": 274923,
+        "word": "邪恶寿桃",
+        "onboard_time": 1738719921,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 268993,
+        "num": 268993,
+        "word": "官方回应刮中百万大奖被彩票点抢回",
+        "onboard_time": 1738714338,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265404,
+        "num": 265404,
+        "word": "掌心官宣定档2月7日",
+        "onboard_time": 1738724361,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249515,
+        "num": 249515,
+        "word": "节后上班不在状态怎么办",
+        "onboard_time": 1738704850,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 62868,
+        "num": 244790,
+        "word": "勇士猛追杜兰特",
+        "onboard_time": 1738719200,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241913,
+        "num": 241913,
+        "word": "哪吒2票房超其它新片总和",
+        "onboard_time": 1738725980,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 241704,
+        "num": 241704,
+        "word": "第一批返工猫狗已经在路上了",
+        "onboard_time": 1738725021,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202336,
+        "num": 202336,
+        "word": "美国再退出联合国人权理事会",
+        "onboard_time": 1738723401,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 194885,
+        "num": 194885,
+        "word": "V中文版鹿晗小恶魔撕漫大片",
+        "onboard_time": 1738725500,
+        "rank": 34,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 187831,
+        "num": 187831,
+        "word": "泰国今日9时对妙瓦底断网断电断油",
+        "onboard_time": 1738724302,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 185596,
+        "num": 185596,
+        "word": "于正说五福临门凭好演技杀出一条血路",
+        "onboard_time": 1738724660,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181672,
+        "num": 181672,
+        "word": "能把蛇年七天无理由退货吗",
+        "onboard_time": 1738722741,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178653,
+        "num": 178653,
+        "word": "哪吒自己超越了自己",
+        "onboard_time": 1738723880,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174159,
+        "num": 174159,
+        "word": "郑业成宣璐特邀主演掌心",
+        "onboard_time": 1738725381,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118008,
+        "num": 172883,
+        "word": "开工的松弛感是闫妮给的",
+        "onboard_time": 1738726520,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46060,
+        "num": 172649,
+        "word": "春节假期兴起入境定制游",
+        "onboard_time": 1738675764,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172585,
+        "num": 172585,
+        "word": "射雕37万人评分票房近6亿",
+        "onboard_time": 1738711755,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 54824,
+        "num": 171103,
+        "word": "DeepSeek招聘偏好在校生或应届生",
+        "onboard_time": 1738722140,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 170190,
+        "num": 170190,
+        "word": "2025春节档票房排名结果",
+        "onboard_time": 1738723880,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169984,
+        "num": 169984,
+        "word": "特朗普称将加沙巴勒斯坦人迁至他国",
+        "onboard_time": 1738725322,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 169002,
+        "num": 169002,
+        "word": "男子十几万元转错账对方称没钱还",
+        "onboard_time": 1738691774,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163194,
+        "num": 163194,
+        "word": "打工人开始流行在工位健身",
+        "onboard_time": 1738726520,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 158608,
+        "num": 158608,
+        "word": "王鹤棣又要打NBA了",
+        "onboard_time": 1738723401,
+        "rank": 48,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 154033,
+        "num": 154033,
+        "word": "刘诗诗掌心眉眼藏局海报",
+        "onboard_time": 1738725082,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平举行仪式欢迎吉尔吉斯斯坦总统访华#"
+    }
+  }
+}
