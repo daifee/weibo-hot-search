@@ -1,0 +1,410 @@
+{
+  "runTime": 1738729601564,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1189400,
+        "num": 1190304,
+        "word": "饺子导演成为百亿票房导演",
+        "onboard_time": 1738720821,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 914134,
+        "num": 914134,
+        "word": "黄金",
+        "onboard_time": 1738725021,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 36752,
+        "num": 908222,
+        "word": "网络中国节",
+        "onboard_time": 1738728864,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 907678,
+        "num": 907678,
+        "word": "翟潇闻高考三次科二考五次",
+        "onboard_time": 1738724120,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 515613,
+        "num": 515613,
+        "word": "距2026年春节还有376天",
+        "onboard_time": 1738722741,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 462582,
+        "num": 462582,
+        "word": "春节戒断反应",
+        "onboard_time": 1738713798,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 696084,
+        "num": 418347,
+        "word": "业内谈肖战射雕",
+        "onboard_time": 1738724841,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 646682,
+        "num": 393519,
+        "word": "哪吒2票房超其它新片总和",
+        "onboard_time": 1738725980,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 364750,
+        "num": 364750,
+        "word": "特斯拉Model3降价8000元",
+        "onboard_time": 1738723760,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 26917,
+        "num": 360610,
+        "word": "走近冰雕世界背后的魔法师",
+        "onboard_time": 1738728323,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 679562,
+        "num": 359733,
+        "word": "日本大医院非患者想去就能去",
+        "onboard_time": 1738724601,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 104059,
+        "num": 355370,
+        "word": "当代年轻人的开工仪式",
+        "onboard_time": 1738724901,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418308,
+        "num": 349217,
+        "word": "哪吒2进入影史票房前5",
+        "onboard_time": 1738720220,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129011,
+        "num": 345404,
+        "word": "离开家的时候最想家",
+        "onboard_time": 1738725142,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126015,
+        "num": 341395,
+        "word": "第一天上班建议发呆5分钟",
+        "onboard_time": 1738728262,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 416195,
+        "num": 337147,
+        "word": "第一次见能入梦杀人的女主",
+        "onboard_time": 1738727181,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335376,
+        "num": 335376,
+        "word": "DeepSeek招聘实习生月薪过万",
+        "onboard_time": 1738713439,
+        "rank": 16,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 320242,
+        "num": 320242,
+        "word": "泰国已对泰缅边境缅甸地区断电",
+        "onboard_time": 1738722620,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119141,
+        "num": 314777,
+        "word": "开工的松弛感是闫妮给的",
+        "onboard_time": 1738726520,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313751,
+        "num": 313751,
+        "word": "乌尔善谈殷郊三头六臂形象灵感",
+        "onboard_time": 1738727963,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 67567,
+        "num": 311089,
+        "word": "现代产业粤来粤强",
+        "onboard_time": 1738726702,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369942,
+        "num": 303316,
+        "word": "赵露思又一条ins破百万赞了",
+        "onboard_time": 1738714999,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359201,
+        "num": 298555,
+        "word": "石矶娘娘mini",
+        "onboard_time": 1738716681,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 336681,
+        "num": 287141,
+        "word": "女子刮中百万大奖被彩票点抢回",
+        "onboard_time": 1738712297,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285062,
+        "num": 285062,
+        "word": "玉泽演求婚成功",
+        "onboard_time": 1738714999,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71526,
+        "num": 276689,
+        "word": "金饰价格一夜涨11元每克",
+        "onboard_time": 1738729464,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 272270,
+        "num": 272270,
+        "word": "难哄",
+        "onboard_time": 1738727062,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97668,
+        "num": 267808,
+        "word": "小鹏重回新势力销量第一",
+        "onboard_time": 1738728082,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 267749,
+        "num": 267749,
+        "word": "特朗普称希望美国拥有加沙所有权",
+        "onboard_time": 1738717641,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 187750,
+        "num": 253240,
+        "word": "于正说五福临门凭好演技杀出一条血路",
+        "onboard_time": 1738724660,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251218,
+        "num": 251218,
+        "word": "敖丙是一个橘子",
+        "onboard_time": 1738729104,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 251193,
+        "num": 251193,
+        "word": "上4休1再上5",
+        "onboard_time": 1738726882,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245637,
+        "num": 245637,
+        "word": "第五人格",
+        "onboard_time": 1738727901,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 245413,
+        "num": 245413,
+        "word": "112岁老中医的临终馈赠",
+        "onboard_time": 1738728623,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 95720,
+        "num": 237364,
+        "word": "孙颖莎对阵木原美悠",
+        "onboard_time": 1738727302,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230327,
+        "num": 230327,
+        "word": "一家五口回娘家过年铺稻草打地铺",
+        "onboard_time": 1738727422,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230151,
+        "num": 230151,
+        "word": "男子身骑白马冲入江中救下落水父女",
+        "onboard_time": 1738723880,
+        "rank": 36,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 224145,
+        "num": 224145,
+        "word": "恋与深空",
+        "onboard_time": 1738729045,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 208441,
+        "num": 208441,
+        "word": "第一批返工猫狗已经在路上了",
+        "onboard_time": 1738725021,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206180,
+        "num": 206180,
+        "word": "掌心官宣定档2月7日",
+        "onboard_time": 1738724361,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176000,
+        "num": 176000,
+        "word": "2025春节档票房破95亿",
+        "onboard_time": 1738725082,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171937,
+        "num": 171937,
+        "word": "A股",
+        "onboard_time": 1738722741,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 166035,
+        "num": 166035,
+        "word": "节后上班不在状态怎么办",
+        "onboard_time": 1738704850,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 165350,
+        "num": 165350,
+        "word": "孙颖莎王艺迪vs塞尔维亚组合",
+        "onboard_time": 1738729585,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160712,
+        "num": 160712,
+        "word": "监管部门回应乘客在飞机上捡到鞭炮",
+        "onboard_time": 1738726100,
+        "rank": 44,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 159674,
+        "num": 159674,
+        "word": "王宝强说银幕是刘昊然生活是陈思诚",
+        "onboard_time": 1738729404,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157922,
+        "num": 157922,
+        "word": "东契奇观战湖人",
+        "onboard_time": 1738729163,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156731,
+        "num": 156731,
+        "word": "王星越醉酒撒娇这段不像演的",
+        "onboard_time": 1738727663,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147003,
+        "num": 147003,
+        "word": "六姊妹小演员选角",
+        "onboard_time": 1738728562,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146832,
+        "num": 146832,
+        "word": "王一博初八神采焕发",
+        "onboard_time": 1738729525,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平举行仪式欢迎吉尔吉斯斯坦总统访华#"
+    }
+  }
+}

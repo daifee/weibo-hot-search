@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738726872381,
+  "endTime": 1738729601564,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -660,7 +660,7 @@
     },
     {
       "raw_hot": 1082042,
-      "num": 726933,
+      "num": 907678,
       "word": "翟潇闻高考三次科二考五次",
       "onboard_time": 1738724120,
       "rank": 33,
@@ -867,6 +867,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 914134,
+      "num": 914134,
+      "word": "黄金",
+      "onboard_time": 1738725021,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 907300,
       "num": 907300,
       "word": "玉泽演求婚成功",
@@ -937,14 +945,6 @@
       "onboard_time": 1738468277,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 837325,
-      "num": 837325,
-      "word": "黄金",
-      "onboard_time": 1738725021,
-      "rank": 8,
-      "category": "财经"
     },
     {
       "raw_hot": 820000,
@@ -1155,6 +1155,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 696084,
+      "num": 444252,
+      "word": "业内谈肖战射雕",
+      "onboard_time": 1738724841,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 692493,
       "num": 692493,
       "word": "吴倩新剧演80年代大学生",
@@ -1281,6 +1289,14 @@
       "onboard_time": 1738488558,
       "rank": 39,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 646682,
+      "num": 393519,
+      "word": "哪吒2票房超其它新片总和",
+      "onboard_time": 1738725980,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 646674,
@@ -1521,14 +1537,6 @@
       "onboard_time": 1738634663,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 556097,
-      "num": 444252,
-      "word": "业内谈肖战射雕",
-      "onboard_time": 1738724841,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 556082,
@@ -2057,6 +2065,14 @@
       "onboard_time": 1738463058,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 416195,
+      "num": 337147,
+      "word": "第一次见能入梦杀人的女主",
+      "onboard_time": 1738727181,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 415148,
@@ -2603,6 +2619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 313751,
+      "num": 313751,
+      "word": "乌尔善谈殷郊三头六臂形象灵感",
+      "onboard_time": 1738727963,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 313363,
       "num": 204685,
       "word": "哪吒2导演说石矶娘娘心思单纯可爱",
@@ -2923,6 +2947,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 272270,
+      "num": 272270,
+      "word": "难哄",
+      "onboard_time": 1738492939,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 271264,
       "num": 478401,
       "word": "她以为剪了短发就是男孩了",
@@ -3091,6 +3123,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 251218,
+      "num": 251218,
+      "word": "敖丙是一个橘子",
+      "onboard_time": 1738729104,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 251193,
+      "num": 251193,
+      "word": "上4休1再上5",
+      "onboard_time": 1738726882,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 251019,
       "num": 251019,
       "word": "湖人交易",
@@ -3187,6 +3235,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 245637,
+      "num": 245637,
+      "word": "第五人格",
+      "onboard_time": 1738558478,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 245413,
+      "num": 245413,
+      "word": "112岁老中医的临终馈赠",
+      "onboard_time": 1738728623,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 245242,
       "num": 245164,
       "word": "陈思诚系首位春节档票房破百亿导演",
@@ -3233,14 +3297,6 @@
       "onboard_time": 1738639943,
       "rank": 15,
       "category": "互联网,国际时政"
-    },
-    {
-      "raw_hot": 241913,
-      "num": 241913,
-      "word": "哪吒2票房超其它新片总和",
-      "onboard_time": 1738725980,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 241704,
@@ -3403,6 +3459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 230327,
+      "num": 230327,
+      "word": "一家五口回娘家过年铺稻草打地铺",
+      "onboard_time": 1738727422,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230009,
       "num": 220923,
       "word": "SM新男团出道方式",
@@ -3524,7 +3588,7 @@
     },
     {
       "raw_hot": 225050,
-      "num": 225050,
+      "num": 253240,
       "word": "于正说五福临门凭好演技杀出一条血路",
       "onboard_time": 1738724660,
       "rank": 32,
@@ -3545,6 +3609,14 @@
       "onboard_time": 1738461557,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 224145,
+      "num": 224145,
+      "word": "恋与深空",
+      "onboard_time": 1738486757,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 223523,
@@ -3713,14 +3785,6 @@
       "onboard_time": 1738656744,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 213675,
-      "num": 213675,
-      "word": "难哄",
-      "onboard_time": 1738492939,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 213642,
@@ -5075,6 +5139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165350,
+      "num": 165350,
+      "word": "孙颖莎王艺迪vs塞尔维亚组合",
+      "onboard_time": 1738729585,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165003,
       "num": 1702426,
       "word": "小伙当兵没回家9好友齐给父母拜年",
@@ -5211,6 +5283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 160712,
+      "num": 381157,
+      "word": "监管部门回应乘客在飞机上捡到鞭炮",
+      "onboard_time": 1738726100,
+      "rank": 19,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 160583,
       "num": 160583,
       "word": "国防部发布当那一天来临MV",
@@ -5233,6 +5313,14 @@
       "onboard_time": 1738492577,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159674,
+      "num": 159674,
+      "word": "王宝强说银幕是刘昊然生活是陈思诚",
+      "onboard_time": 1738729404,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 159239,
@@ -5299,6 +5387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 157922,
+      "num": 157922,
+      "word": "东契奇观战湖人",
+      "onboard_time": 1738729163,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157901,
       "num": 157901,
       "word": "它满足了我对中餐的所有幻想",
@@ -5321,6 +5417,14 @@
       "onboard_time": 1738545557,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 156731,
+      "num": 156731,
+      "word": "王星越醉酒撒娇这段不像演的",
+      "onboard_time": 1738727663,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 156593,
@@ -5641,6 +5745,22 @@
       "onboard_time": 1738464017,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 147003,
+      "num": 147003,
+      "word": "六姊妹小演员选角",
+      "onboard_time": 1738728562,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 146832,
+      "num": 146832,
+      "word": "王一博初八神采焕发",
+      "onboard_time": 1738729525,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 146741,
@@ -6395,6 +6515,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 126015,
+      "num": 341395,
+      "word": "第一天上班建议发呆5分钟",
+      "onboard_time": 1738728262,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125556,
       "num": 125556,
       "word": "为了相亲把照片设置成了红包封面",
@@ -6595,6 +6723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119141,
+      "num": 314777,
+      "word": "开工的松弛感是闫妮给的",
+      "onboard_time": 1738726520,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119077,
       "num": 119077,
       "word": "广东年味",
@@ -6617,14 +6753,6 @@
       "onboard_time": 1738650562,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 118008,
-      "num": 172883,
-      "word": "开工的松弛感是闫妮给的",
-      "onboard_time": 1738726520,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 117273,
@@ -6673,14 +6801,6 @@
       "onboard_time": 1738539074,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 116236,
-      "num": 151912,
-      "word": "第五人格",
-      "onboard_time": 1738558478,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 116174,
@@ -7379,6 +7499,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 97668,
+      "num": 267808,
+      "word": "小鹏重回新势力销量第一",
+      "onboard_time": 1738728082,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 97460,
       "num": 97460,
       "word": "梁洁跳舞把我笑成蛇精病了",
@@ -7441,6 +7569,14 @@
       "onboard_time": 1738710254,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 95720,
+      "num": 237364,
+      "word": "孙颖莎对阵木原美悠",
+      "onboard_time": 1738727302,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 95561,
@@ -7553,14 +7689,6 @@
       "onboard_time": 1738584270,
       "rank": 44,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 91439,
-      "num": 172657,
-      "word": "恋与深空",
-      "onboard_time": 1738486757,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 91399,
@@ -7955,20 +8083,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 73995,
-      "num": 381157,
-      "word": "监管部门回应乘客在飞机上捡到鞭炮",
-      "onboard_time": 1738726100,
-      "rank": 19,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 71935,
       "num": 287654,
       "word": "奶茶咖啡店在县城迅速崛起",
       "onboard_time": 1738653083,
       "rank": 13,
       "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 71526,
+      "num": 276689,
+      "word": "金饰价格一夜涨11元每克",
+      "onboard_time": 1738729464,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 70783,
@@ -8049,6 +8177,14 @@
       "onboard_time": 1738566629,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67567,
+      "num": 311089,
+      "word": "现代产业粤来粤强",
+      "onboard_time": 1738726702,
+      "rank": 24,
+      "category": "正能量"
     },
     {
       "raw_hot": 67359,
@@ -8435,14 +8571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 44339,
-      "num": 305114,
-      "word": "现代产业粤来粤强",
-      "onboard_time": 1738726702,
-      "rank": 24,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 43792,
       "num": 606835,
       "word": "大年初五祝你有求币应",
@@ -8583,6 +8711,14 @@
       "num": 566996,
       "word": "中国游爆火助推我国服务贸易规模扩大",
       "onboard_time": 1738661063,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36752,
+      "num": 908222,
+      "word": "网络中国节",
+      "onboard_time": 1738728864,
       "rank": 2,
       "category": "民生新闻"
     },
@@ -8761,6 +8897,14 @@
       "onboard_time": 1738564592,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26917,
+      "num": 360610,
+      "word": "走近冰雕世界背后的魔法师",
+      "onboard_time": 1738728323,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26847,

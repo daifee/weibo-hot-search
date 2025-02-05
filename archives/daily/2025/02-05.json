@@ -1,6 +1,6 @@
 {
   "startTime": 1738686513636,
-  "endTime": 1738726872381,
+  "endTime": 1738729601564,
   "band_list": [
     {
       "raw_hot": 1592043,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1082042,
-      "num": 726933,
+      "num": 907678,
       "word": "翟潇闻高考三次科二考五次",
       "onboard_time": 1738724120,
       "rank": 33,
@@ -67,6 +67,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 914134,
+      "num": 914134,
+      "word": "黄金",
+      "onboard_time": 1738725021,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 907300,
       "num": 907300,
       "word": "玉泽演求婚成功",
@@ -91,14 +99,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 837325,
-      "num": 837325,
-      "word": "黄金",
-      "onboard_time": 1738725021,
-      "rank": 8,
-      "category": "财经"
-    },
-    {
       "raw_hot": 813706,
       "num": 494029,
       "word": "特朗普称希望美国拥有加沙所有权",
@@ -120,6 +120,14 @@
       "word": "石矶娘娘mini",
       "onboard_time": 1738716681,
       "rank": 4,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 696084,
+      "num": 444252,
+      "word": "业内谈肖战射雕",
+      "onboard_time": 1738724841,
+      "rank": 18,
       "category": "电影"
     },
     {
@@ -147,6 +155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 646682,
+      "num": 393519,
+      "word": "哪吒2票房超其它新片总和",
+      "onboard_time": 1738725980,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 640469,
       "num": 904992,
       "word": "男子十几万元转错账对方称没钱还",
@@ -169,14 +185,6 @@
       "onboard_time": 1738714999,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 556097,
-      "num": 444252,
-      "word": "业内谈肖战射雕",
-      "onboard_time": 1738724841,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 549528,
@@ -243,6 +251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 416195,
+      "num": 337147,
+      "word": "第一次见能入梦杀人的女主",
+      "onboard_time": 1738727181,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 397659,
       "num": 331993,
       "word": "女子刮中百万大奖被彩票点抢回",
@@ -299,6 +315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 313751,
+      "num": 313751,
+      "word": "乌尔善谈殷郊三头六臂形象灵感",
+      "onboard_time": 1738727963,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 311187,
       "num": 311187,
       "word": "新疆5.0级地震",
@@ -339,6 +363,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 272270,
+      "num": 272270,
+      "word": "难哄",
+      "onboard_time": 1738727062,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 268233,
       "num": 414907,
       "word": "返工人把高铁吃成流水席了",
@@ -363,6 +395,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 251218,
+      "num": 251218,
+      "word": "敖丙是一个橘子",
+      "onboard_time": 1738729104,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 251193,
+      "num": 251193,
+      "word": "上4休1再上5",
+      "onboard_time": 1738726882,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 250138,
       "num": 277963,
       "word": "能把蛇年七天无理由退货吗",
@@ -371,20 +419,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 245637,
+      "num": 245637,
+      "word": "第五人格",
+      "onboard_time": 1738727901,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 245413,
+      "num": 245413,
+      "word": "112岁老中医的临终馈赠",
+      "onboard_time": 1738728623,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 243114,
       "num": 243114,
       "word": "谢娜的教育方式与众不同",
       "onboard_time": 1738681706,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 241913,
-      "num": 241913,
-      "word": "哪吒2票房超其它新片总和",
-      "onboard_time": 1738725980,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 241704,
@@ -419,6 +475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 230327,
+      "num": 230327,
+      "word": "一家五口回娘家过年铺稻草打地铺",
+      "onboard_time": 1738727422,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 228535,
       "num": 424429,
       "word": "毛不易说不想代表任何人表达",
@@ -444,11 +508,19 @@
     },
     {
       "raw_hot": 225050,
-      "num": 225050,
+      "num": 253240,
       "word": "于正说五福临门凭好演技杀出一条血路",
       "onboard_time": 1738724660,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 224145,
+      "num": 224145,
+      "word": "恋与深空",
+      "onboard_time": 1738729045,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 223288,
@@ -675,6 +747,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 165350,
+      "num": 165350,
+      "word": "孙颖莎王艺迪vs塞尔维亚组合",
+      "onboard_time": 1738729585,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164579,
       "num": 164579,
       "word": "六姊妹",
@@ -691,12 +771,44 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 160712,
+      "num": 381157,
+      "word": "监管部门回应乘客在飞机上捡到鞭炮",
+      "onboard_time": 1738726100,
+      "rank": 19,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 159674,
+      "num": 159674,
+      "word": "王宝强说银幕是刘昊然生活是陈思诚",
+      "onboard_time": 1738729404,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 159042,
       "num": 159042,
       "word": "哪吒2最快破50亿电影",
       "onboard_time": 1738713798,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 157922,
+      "num": 157922,
+      "word": "东契奇观战湖人",
+      "onboard_time": 1738729163,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 156731,
+      "num": 156731,
+      "word": "王星越醉酒撒娇这段不像演的",
+      "onboard_time": 1738727663,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 156589,
@@ -737,6 +849,22 @@
       "onboard_time": 1738723760,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 147003,
+      "num": 147003,
+      "word": "六姊妹小演员选角",
+      "onboard_time": 1738728562,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 146832,
+      "num": 146832,
+      "word": "王一博初八神采焕发",
+      "onboard_time": 1738729525,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 144312,
@@ -843,6 +971,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 126015,
+      "num": 341395,
+      "word": "第一天上班建议发呆5分钟",
+      "onboard_time": 1738728262,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123493,
       "num": 191449,
       "word": "后备箱不能开一开东西全掉了",
@@ -859,20 +995,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 119141,
+      "num": 314777,
+      "word": "开工的松弛感是闫妮给的",
+      "onboard_time": 1738726520,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118350,
       "num": 190914,
       "word": "泰国将对泰缅边境的缅甸地区断电",
       "onboard_time": 1738660286,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 118008,
-      "num": 172883,
-      "word": "开工的松弛感是闫妮给的",
-      "onboard_time": 1738726520,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 116002,
@@ -995,12 +1131,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 97668,
+      "num": 267808,
+      "word": "小鹏重回新势力销量第一",
+      "onboard_time": 1738728082,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 96136,
       "num": 96136,
       "word": "挤痘痘也可能导致败血症",
       "onboard_time": 1738710254,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 95720,
+      "num": 237364,
+      "word": "孙颖莎对阵木原美悠",
+      "onboard_time": 1738727302,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 94041,
@@ -1131,12 +1283,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 73995,
-      "num": 381157,
-      "word": "监管部门回应乘客在飞机上捡到鞭炮",
-      "onboard_time": 1738726100,
-      "rank": 19,
-      "category": "辟谣/通报"
+      "raw_hot": 71526,
+      "num": 276689,
+      "word": "金饰价格一夜涨11元每克",
+      "onboard_time": 1738729464,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 67567,
+      "num": 311089,
+      "word": "现代产业粤来粤强",
+      "onboard_time": 1738726702,
+      "rank": 24,
+      "category": "正能量"
     },
     {
       "raw_hot": 65054,
@@ -1195,14 +1355,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 44339,
-      "num": 305114,
-      "word": "现代产业粤来粤强",
-      "onboard_time": 1738726702,
-      "rank": 24,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 41621,
       "num": 187728,
       "word": "蛇年开工第1天",
@@ -1215,6 +1367,14 @@
       "num": 744632,
       "word": "2025年中国经济这么干",
       "onboard_time": 1738716320,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36752,
+      "num": 908222,
+      "word": "网络中国节",
+      "onboard_time": 1738728864,
       "rank": 2,
       "category": "民生新闻"
     },
@@ -1249,6 +1409,14 @@
       "onboard_time": 1738725621,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26917,
+      "num": 360610,
+      "word": "走近冰雕世界背后的魔法师",
+      "onboard_time": 1738728323,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26847,
