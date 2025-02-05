@@ -1,6 +1,6 @@
 {
   "startTime": 1738772916136,
-  "endTime": 1738794159387,
+  "endTime": 1738795221557,
   "band_list": [
     {
       "raw_hot": 1393800,
@@ -251,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127199,
+      "num": 51837,
+      "word": "日本的甲流可能被乙流取代",
+      "onboard_time": 1738790351,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 123523,
       "num": 217463,
       "word": "旅客称返程高峰有票无法上车",
@@ -337,14 +345,6 @@
       "onboard_time": 1738752087,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92055,
-      "num": 42260,
-      "word": "日本的甲流可能被乙流取代",
-      "onboard_time": 1738790351,
-      "rank": 49,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 82620,
@@ -507,7 +507,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 22759,
+      "raw_hot": 24935,
       "num": 28142,
       "word": "DeepSeek日活突破2000万",
       "onboard_time": 1738791252,
@@ -531,7 +531,7 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 17791,
+      "raw_hot": 20402,
       "num": 30216,
       "word": "谷歌删除不将AI用于武器研发的承诺条款",
       "onboard_time": 1738764325,
@@ -547,12 +547,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 16070,
+      "raw_hot": 16700,
       "num": 37095,
       "word": "南京地铁10号线突发故障",
       "onboard_time": 1738786932,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15480,
+      "num": 34483,
+      "word": "裁判看到孙颖莎语气立刻温柔",
+      "onboard_time": 1738794611,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 15366,
@@ -563,7 +571,15 @@
       "category": "电影"
     },
     {
-      "raw_hot": 15196,
+      "raw_hot": 15216,
+      "num": 22953,
+      "word": "日本新增流感病例减少",
+      "onboard_time": 1738791671,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 15208,
       "num": 64087,
       "word": "解放军南部战区位南海海域例行巡航",
       "onboard_time": 1738783331,
@@ -616,6 +632,14 @@
       "word": "2025春节档1.87亿人次看电影",
       "onboard_time": 1738792932,
       "rank": 9,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 8260,
+      "num": 39921,
+      "word": "国产电影团建式祝贺哪吒2",
+      "onboard_time": 1738793652,
+      "rank": 18,
       "category": "电影"
     }
   ],
