@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738772916136,
+  "endTime": 1738773871141,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1083,6 +1083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 799426,
+      "num": 799426,
+      "word": "哪吒2明日或登顶中国影史票房冠军",
+      "onboard_time": 1738770143,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 796074,
       "num": 1637857,
       "word": "韩媒曝具俊晔拒绝联系",
@@ -1425,14 +1433,6 @@
       "onboard_time": 1738673785,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 651242,
-      "num": 651242,
-      "word": "哪吒2明日或登顶中国影史票房冠军",
-      "onboard_time": 1738770143,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 650007,
@@ -2827,6 +2827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 358823,
+      "num": 233584,
+      "word": "哪吒为啥走路总插兜",
+      "onboard_time": 1738770684,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 357842,
       "num": 234998,
       "word": "生完孩子几年后才能轻松一点",
@@ -3192,14 +3200,6 @@
       "word": "春节档六部电影豆瓣开分",
       "onboard_time": 1738591108,
       "rank": 24,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 309575,
-      "num": 233584,
-      "word": "哪吒为啥走路总插兜",
-      "onboard_time": 1738770684,
-      "rank": 15,
       "category": "电影"
     },
     {
@@ -8275,6 +8275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118656,
+      "num": 132055,
+      "word": "尘白禁区新pv",
+      "onboard_time": 1738771464,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 117273,
       "num": 98119,
       "word": "陈哲远憋不了一点",
@@ -8385,6 +8393,14 @@
       "onboard_time": 1738763966,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115196,
+      "num": 217463,
+      "word": "旅客称返程高峰有票无法上车",
+      "onboard_time": 1738771523,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115063,
@@ -8867,6 +8883,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 104849,
+      "num": 262762,
+      "word": "6名中国人在菲遭绑架主要嫌疑人落网",
+      "onboard_time": 1738769184,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 104482,
       "num": 104482,
       "word": "射雕评分5.5",
@@ -9065,14 +9089,6 @@
       "onboard_time": 1738518974,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 100561,
-      "num": 262762,
-      "word": "6名中国人在菲遭绑架主要嫌疑人落网",
-      "onboard_time": 1738769184,
-      "rank": 18,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 100440,
@@ -9315,6 +9331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 94497,
+      "num": 172937,
+      "word": "唐探系列是一场巨大的callback",
+      "onboard_time": 1738772660,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 94129,
       "num": 203527,
       "word": "C罗说金球奖毫无可信度",
@@ -9345,14 +9369,6 @@
       "onboard_time": 1738657763,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 93786,
-      "num": 132055,
-      "word": "尘白禁区新pv",
-      "onboard_time": 1738771464,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 93090,
@@ -9779,14 +9795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 78949,
-      "num": 217463,
-      "word": "旅客称返程高峰有票无法上车",
-      "onboard_time": 1738771523,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 78534,
       "num": 306121,
       "word": "孙颖莎王艺迪3比0塞尔维亚组合",
@@ -10016,6 +10024,14 @@
       "word": "立春有多少别名",
       "onboard_time": 1738566629,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67743,
+      "num": 109863,
+      "word": "上班第一天的杭州公交竟然没有班味",
+      "onboard_time": 1738773620,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -10635,14 +10651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40275,
-      "num": 172937,
-      "word": "唐探系列是一场巨大的callback",
-      "onboard_time": 1738772660,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 40017,
       "num": 41143,
       "word": "费城空难目前无法确认是否有幸存者",
@@ -10793,6 +10801,14 @@
       "onboard_time": 1738468878,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33896,
+      "num": 208530,
+      "word": "泰国切断泰缅边境5处电力供应",
+      "onboard_time": 1738773379,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 33862,
@@ -11393,6 +11409,14 @@
       "onboard_time": 1738488018,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 11492,
+      "num": 134489,
+      "word": "勇士全力追求杜兰特",
+      "onboard_time": 1738773679,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 11095,
