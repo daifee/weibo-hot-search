@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738769939816,
+  "endTime": 1738772916136,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1699,6 +1699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 651242,
+      "num": 651242,
+      "word": "哪吒2明日或登顶中国影史票房冠军",
+      "onboard_time": 1738770143,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 650007,
       "num": 650007,
       "word": "加拿大总理宣布反制措施",
@@ -1843,6 +1851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 622143,
+      "num": 622143,
+      "word": "12306回应买短乘长导致超员",
+      "onboard_time": 1738769365,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 617251,
       "num": 467824,
       "word": "北京女生在泰国2400平米的家",
@@ -1857,6 +1873,14 @@
       "onboard_time": 1738546881,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 613925,
+      "num": 396846,
+      "word": "哪吒2预测票房超95亿",
+      "onboard_time": 1738769784,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 607328,
@@ -2659,6 +2683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 453078,
+      "num": 453078,
+      "word": "和扎手指测血糖说拜拜",
+      "onboard_time": 1738770206,
+      "rank": 5,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 452016,
       "num": 452016,
       "word": "比特币",
@@ -3177,6 +3209,14 @@
       "onboard_time": 1738547480,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 385442,
+      "num": 238904,
+      "word": "BLACKPINK新世巡预告",
+      "onboard_time": 1738769664,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 385127,
@@ -3840,6 +3880,14 @@
       "word": "春节档六部电影豆瓣开分",
       "onboard_time": 1738591108,
       "rank": 24,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 309575,
+      "num": 233584,
+      "word": "哪吒为啥走路总插兜",
+      "onboard_time": 1738770684,
+      "rank": 15,
       "category": "电影"
     },
     {
@@ -5779,14 +5827,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 204886,
-      "num": 204886,
-      "word": "BLACKPINK新世巡预告",
-      "onboard_time": 1738769664,
-      "rank": 28,
-      "category": "演出"
-    },
-    {
       "raw_hot": 204677,
       "num": 204677,
       "word": "比伯背后抱海莉",
@@ -6065,14 +6105,6 @@
       "onboard_time": 1738469238,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 199234,
-      "num": 199234,
-      "word": "哪吒2预测票房超95亿",
-      "onboard_time": 1738769784,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 199232,
@@ -7435,6 +7467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 169962,
+      "num": 231849,
+      "word": "雄鹿奇才交易",
+      "onboard_time": 1738771702,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169958,
       "num": 188880,
       "word": "马嘉祺假期vlog",
@@ -7928,14 +7968,6 @@
       "word": "合上行李箱又是一年",
       "onboard_time": 1738666825,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 160333,
-      "num": 262141,
-      "word": "12306回应买短乘长导致超员",
-      "onboard_time": 1738769365,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -10028,7 +10060,7 @@
     },
     {
       "raw_hot": 122160,
-      "num": 126661,
+      "num": 131954,
       "word": "起底DeepSeek爆火背后的推手",
       "onboard_time": 1738763604,
       "rank": 48,
@@ -11211,6 +11243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100561,
+      "num": 262762,
+      "word": "6名中国人在菲遭绑架主要嫌疑人落网",
+      "onboard_time": 1738769184,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 100542,
       "num": 100542,
       "word": "GOT7演唱会",
@@ -11537,6 +11577,14 @@
       "onboard_time": 1738685124,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 93786,
+      "num": 132055,
+      "word": "尘白禁区新pv",
+      "onboard_time": 1738771464,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 93621,
@@ -12107,6 +12155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78949,
+      "num": 217463,
+      "word": "旅客称返程高峰有票无法上车",
+      "onboard_time": 1738771523,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78842,
       "num": 78842,
       "word": "朕与嬛嬛何时有过嫌隙",
@@ -12184,6 +12240,14 @@
       "word": "黄友政3比1特奥多罗",
       "onboard_time": 1738391777,
       "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 75939,
+      "num": 131986,
+      "word": "林诗栋回应男双首搭王楚钦",
+      "onboard_time": 1738770564,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -12771,14 +12835,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 53839,
-      "num": 262762,
-      "word": "6名中国人在菲遭绑架主要嫌疑人落网",
-      "onboard_time": 1738769184,
-      "rank": 18,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 53729,
       "num": 53729,
       "word": "阿森纳5比1曼城",
@@ -13195,6 +13251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40275,
+      "num": 172937,
+      "word": "唐探系列是一场巨大的callback",
+      "onboard_time": 1738772660,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 40017,
       "num": 41143,
       "word": "费城空难目前无法确认是否有幸存者",
@@ -13555,6 +13619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28314,
+      "num": 237727,
+      "word": "80后导演为何称霸春节档",
+      "onboard_time": 1738771103,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 28138,
       "num": 238046,
       "word": "何卓佳晋级16强",
@@ -13689,6 +13761,14 @@
       "onboard_time": 1738436592,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25186,
+      "num": 213274,
+      "word": "亚冬会开幕式中国代表团旗手",
+      "onboard_time": 1738771822,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 25136,

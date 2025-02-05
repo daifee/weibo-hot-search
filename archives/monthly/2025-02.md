@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/02/01 00:26:54 ~ 2025/02/05 23:38:59
+本榜单时间：2025/02/01 00:26:54 ~ 2025/02/06 00:28:36
 </p>
 </blockquote>
 <p>
@@ -1287,6 +1287,12 @@ DeepSeek回答如何过好这一生（热度：660840）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E6%98%8E%E6%97%A5%E6%88%96%E7%99%BB%E9%A1%B6%E4%B8%AD%E5%9B%BD%E5%BD%B1%E5%8F%B2%E7%A5%A8%E6%88%BF%E5%86%A0%E5%86%9B%23" target="weibo">
+哪吒2明日或登顶中国影史票房冠军（热度：651242）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%80%BB%E7%90%86%E5%AE%A3%E5%B8%83%E5%8F%8D%E5%88%B6%E6%8E%AA%E6%96%BD%23" target="weibo">
 加拿大总理宣布反制措施（热度：650007）
 </a>
@@ -1395,6 +1401,12 @@ DeepSeek回答如何过好这一生（热度：660840）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E4%B9%B0%E7%9F%AD%E4%B9%98%E9%95%BF%E5%AF%BC%E8%87%B4%E8%B6%85%E5%91%98%23" target="weibo">
+12306回应买短乘长导致超员（热度：622143）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A5%B3%E7%94%9F%E5%9C%A8%E6%B3%B0%E5%9B%BD2400%E5%B9%B3%E7%B1%B3%E7%9A%84%E5%AE%B6%23" target="weibo">
 北京女生在泰国2400平米的家（热度：617251）
 </a>
@@ -1403,6 +1415,12 @@ DeepSeek回答如何过好这一生（热度：660840）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%A3%E6%9C%88%E5%88%9D%E5%85%AD%E6%81%B0%E9%80%A2%E7%AB%8B%E6%98%A5%23" target="weibo">
 正月初六恰逢立春（热度：615431）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E9%A2%84%E6%B5%8B%E7%A5%A8%E6%88%BF%E8%B6%8595%E4%BA%BF%23" target="weibo">
+哪吒2预测票房超95亿（热度：613925）
 </a>
 </li>
 
@@ -2007,6 +2025,12 @@ Kanye唯一关注Taylor Swift（热度：501201）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%92%8C%E6%89%8E%E6%89%8B%E6%8C%87%E6%B5%8B%E8%A1%80%E7%B3%96%E8%AF%B4%E6%8B%9C%E6%8B%9C%23" target="weibo">
+和扎手指测血糖说拜拜（热度：453078）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%94%E7%89%B9%E5%B8%81%23" target="weibo">
 比特币（热度：452016）
 </a>
@@ -2393,6 +2417,12 @@ A股（热度：392945）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E8%87%AA%E6%9D%A5%E6%B0%B4%E8%87%B4%E4%B9%8C%E5%B0%94%E5%96%84%E7%9A%84%E4%B8%80%E5%B0%81%E4%BF%A1%23" target="weibo">
 封神自来水致乌尔善的一封信（热度：385741）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23BLACKPINK%E6%96%B0%E4%B8%96%E5%B7%A1%E9%A2%84%E5%91%8A%23" target="weibo">
+BLACKPINK新世巡预告（热度：385442）
 </a>
 </li>
 
@@ -2891,6 +2921,12 @@ DeepSeek在美商标被梁文锋校友抢注（热度：353904）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%82%E6%A1%A3%E5%85%AD%E9%83%A8%E7%94%B5%E5%BD%B1%E8%B1%86%E7%93%A3%E5%BC%80%E5%88%86%23" target="weibo">
 春节档六部电影豆瓣开分（热度：310460）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%92%E4%B8%BA%E5%95%A5%E8%B5%B0%E8%B7%AF%E6%80%BB%E6%8F%92%E5%85%9C%23" target="weibo">
+哪吒为啥走路总插兜（热度：309575）
 </a>
 </li>
 
@@ -4347,12 +4383,6 @@ SM新女团（热度：206846）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23BLACKPINK%E6%96%B0%E4%B8%96%E5%B7%A1%E9%A2%84%E5%91%8A%23" target="weibo">
-BLACKPINK新世巡预告（热度：204886）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BC%AF%E8%83%8C%E5%90%8E%E6%8A%B1%E6%B5%B7%E8%8E%89%23" target="weibo">
 比伯背后抱海莉（热度：204677）
 </a>
@@ -4559,12 +4589,6 @@ BLACKPINK新世巡预告（热度：204886）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E4%BA%BAvs%E5%B0%BC%E5%85%8B%E6%96%AF%23" target="weibo">
 湖人vs尼克斯（热度：199441）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E9%A2%84%E6%B5%8B%E7%A5%A8%E6%88%BF%E8%B6%8595%E4%BA%BF%23" target="weibo">
-哪吒2预测票房超95亿（热度：199234）
 </a>
 </li>
 
@@ -5589,6 +5613,12 @@ Plave回归（热度：174608）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%84%E9%B9%BF%E5%A5%87%E6%89%8D%E4%BA%A4%E6%98%93%23" target="weibo">
+雄鹿奇才交易（热度：169962）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E5%81%87%E6%9C%9Fvlog%23" target="weibo">
 马嘉祺假期vlog（热度：169958）
 </a>
@@ -5961,12 +5991,6 @@ Beyonce格莱美年专（热度：161394）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E4%B9%B0%E7%9F%AD%E4%B9%98%E9%95%BF%E5%AF%BC%E8%87%B4%E8%B6%85%E5%91%98%23" target="weibo">
-12306回应买短乘长导致超员（热度：160333）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%BE%9E%E5%B2%81%E4%B8%80%E6%99%9A%E8%B7%91%E5%87%A0%E7%99%BE%E5%AE%B6%E6%94%B6%E5%85%A52000%E5%A4%9A%23" target="weibo">
 女孩辞岁一晚跑几百家收入2000多（热度：160303）
 </a>
@@ -5987,30 +6011,6 @@ Beyonce格莱美年专（热度：161394）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%B8%80%E7%A7%8D%E7%88%B1%E5%8F%AB%E7%88%B8%E7%88%B8%E6%80%95%E4%BD%A0%E8%B5%B6%E4%B8%8D%E4%B8%8A%E9%AB%98%E9%93%81%23" target="weibo">
 有一种爱叫爸爸怕你赶不上高铁（热度：159239）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%86%8B%E4%B8%80%E5%91%A8%E5%B0%B1%E4%B8%BA%E8%BF%99%E4%B8%80%E7%A7%92%E7%88%BD%23" target="weibo">
-憋一周就为这一秒爽（热度：159125）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%B4%81%E6%96%B0%E5%89%A7%E5%88%9B%E4%BC%A4%E5%90%8E%E5%BA%94%E6%BF%80%E9%9A%9C%E7%A2%8D%23" target="weibo">
-梁洁新剧创伤后应激障碍（热度：159110）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E7%AC%AC1%E6%AC%A1%E8%A7%81%E5%A5%B3%E5%84%BF%E5%B8%A6%E7%94%B7%E5%8F%8B%E5%9B%9E%E5%AE%B6%E5%8F%8D%E5%BA%94%23" target="weibo">
-爸爸第1次见女儿带男友回家反应（热度：159082）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E6%9C%80%E5%BF%AB%E7%A0%B450%E4%BA%BF%E7%94%B5%E5%BD%B1%23" target="weibo">
-哪吒2最快破50亿电影（热度：159042）
 </a>
 </li>
 
