@@ -1,6 +1,6 @@
 {
   "startTime": 1738686513636,
-  "endTime": 1738755349375,
+  "endTime": 1738759361086,
   "band_list": [
     {
       "raw_hot": 9238219,
@@ -51,6 +51,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1367161,
+      "num": 440327,
+      "word": "你好李焕英给哪吒的贺图",
+      "onboard_time": 1738754065,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1334040,
       "num": 1334040,
       "word": "小哪吒配音称因声音丑被饺子相中",
@@ -65,14 +73,6 @@
       "onboard_time": 1738725021,
       "rank": 8,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1231432,
-      "num": 404970,
-      "word": "你好李焕英给哪吒的贺图",
-      "onboard_time": 1738754065,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 1214897,
@@ -131,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 960377,
+      "num": 373249,
+      "word": "哪吒2 影史前三",
+      "onboard_time": 1738756345,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 933458,
       "num": 934136,
       "word": "泰国已对泰缅边境缅甸地区断电",
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 867865,
-      "num": 248740,
+      "num": 320892,
       "word": "哪吒",
       "onboard_time": 1738755265,
       "rank": 21,
@@ -331,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 564979,
+      "num": 368847,
+      "word": "贾玲恭喜哪吒",
+      "onboard_time": 1738755565,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 562618,
       "num": 189798,
       "word": "观众称看射雕如坐针毡",
@@ -360,6 +376,30 @@
       "word": "春节戒断反应",
       "onboard_time": 1738713798,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 538835,
+      "num": 538835,
+      "word": "初八去存压岁钱发现ATM机满了",
+      "onboard_time": 1738752087,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 535491,
+      "num": 357698,
+      "word": "玖月晞 白色橄榄树",
+      "onboard_time": 1738757124,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 534758,
+      "num": 313396,
+      "word": "女子误把摔炮当奶糖吃炸伤口腔",
+      "onboard_time": 1738754184,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -483,14 +523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 448199,
-      "num": 448199,
-      "word": "初八去存压岁钱发现ATM机满了",
-      "onboard_time": 1738752087,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 447900,
       "num": 447900,
       "word": "谁能想到陈哲远搬的是泡沫",
@@ -513,6 +545,14 @@
       "onboard_time": 1738719921,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 431524,
+      "num": 431524,
+      "word": "这类微短剧被禁止上线传播",
+      "onboard_time": 1738752625,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 430946,
@@ -579,6 +619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 374597,
+      "num": 374597,
+      "word": "孙颖莎vs木原美悠",
+      "onboard_time": 1738757724,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 373930,
       "num": 373930,
       "word": "哪吒 十年之约",
@@ -603,14 +651,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 348710,
-      "num": 246427,
-      "word": "女子误把摔炮当奶糖吃炸伤口腔",
-      "onboard_time": 1738754184,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 345947,
       "num": 345947,
       "word": "乌尔善被贴脸开大",
@@ -624,14 +664,6 @@
       "word": "项楚先生辞世",
       "onboard_time": 1738714941,
       "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 343798,
-      "num": 414512,
-      "word": "这类微短剧被禁止上线传播",
-      "onboard_time": 1738752625,
-      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -771,6 +803,14 @@
       "category": "电影,剧集"
     },
     {
+      "raw_hot": 283794,
+      "num": 283794,
+      "word": "中国游客在日患流感遭两家医院拒收",
+      "onboard_time": 1738757664,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 280495,
       "num": 218370,
       "word": "女子离家9天猫咪打开热水浴室被泡",
@@ -817,6 +857,14 @@
       "onboard_time": 1738671864,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 268088,
+      "num": 268088,
+      "word": "长津湖",
+      "onboard_time": 1738758444,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 267750,
@@ -875,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252130,
+      "num": 252130,
+      "word": "业内称票房就是观众用脚投票的结果",
+      "onboard_time": 1738758263,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 251193,
       "num": 251193,
       "word": "上4休1再上5",
@@ -897,6 +953,14 @@
       "onboard_time": 1738722741,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 245959,
+      "num": 245959,
+      "word": "石矶娘娘眼中的帅哥",
+      "onboard_time": 1738757724,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 245637,
@@ -945,6 +1009,14 @@
       "onboard_time": 1738684343,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 237875,
+      "num": 237875,
+      "word": "坤音娱乐",
+      "onboard_time": 1738753945,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 236412,
@@ -1051,14 +1123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 222151,
-      "num": 222151,
-      "word": "坤音娱乐",
-      "onboard_time": 1738753945,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
       "raw_hot": 220020,
       "num": 341395,
       "word": "第一天上班建议发呆5分钟",
@@ -1099,6 +1163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 214153,
+      "num": 179642,
+      "word": "哪吒之魔童闹海票房破55亿",
+      "onboard_time": 1738757604,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 212933,
       "num": 212933,
       "word": "哪吒为何不像国人的名字",
@@ -1113,6 +1185,14 @@
       "onboard_time": 1738735283,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212143,
+      "num": 212143,
+      "word": "战狼2",
+      "onboard_time": 1738758693,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 211214,
@@ -1209,6 +1289,14 @@
       "onboard_time": 1738723401,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 199601,
+      "num": 347935,
+      "word": "留几手我亏钱了",
+      "onboard_time": 1738757785,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 199560,
@@ -1443,6 +1531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177627,
+      "num": 152605,
+      "word": "樊振东发文为惠英红庆生",
+      "onboard_time": 1738758083,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177472,
       "num": 425580,
       "word": "离开家的时候最想家",
@@ -1537,6 +1633,14 @@
       "onboard_time": 1738683624,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 165793,
+      "num": 165793,
+      "word": "乌尔善回应被贴脸开大",
+      "onboard_time": 1738756584,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 165487,
@@ -1723,6 +1827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151124,
+      "num": 151124,
+      "word": "Angelababy新剧人设",
+      "onboard_time": 1738759284,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151051,
       "num": 158628,
       "word": "SMTOWN墨西哥演唱会阵容",
@@ -1752,6 +1864,14 @@
       "word": "六姊妹小演员选角",
       "onboard_time": 1738728562,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 145940,
+      "num": 155153,
+      "word": "五福临门",
+      "onboard_time": 1738758982,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -1817,6 +1937,14 @@
       "onboard_time": 1738755025,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140730,
+      "num": 337074,
+      "word": "申真谞谈柯洁LG杯事件",
+      "onboard_time": 1738757963,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 140567,
@@ -1963,6 +2091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 131041,
+      "num": 156705,
+      "word": "贾哈3比2莫雷加德",
+      "onboard_time": 1738758444,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130062,
       "num": 130062,
       "word": "黄景瑜初八清空库存",
@@ -2001,6 +2137,14 @@
       "onboard_time": 1738699391,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 125246,
+      "num": 349690,
+      "word": "电影博主称本次春节档是神迹",
+      "onboard_time": 1738758083,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 123895,
@@ -2123,6 +2267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112843,
+      "num": 112843,
+      "word": "中国棋协回应争议规则变更",
+      "onboard_time": 1738758203,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112455,
       "num": 188208,
       "word": "新年开工BGM",
@@ -2153,6 +2305,14 @@
       "onboard_time": 1738676843,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109727,
+      "num": 363022,
+      "word": "中方回应特朗普涉加沙言论",
+      "onboard_time": 1738757724,
+      "rank": 9,
+      "category": "国际时政,国内时政"
     },
     {
       "raw_hot": 109633,
@@ -2387,6 +2547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 88064,
+      "num": 335918,
+      "word": "景区回应一员工把香火钱揣自己兜里",
+      "onboard_time": 1738758203,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87868,
       "num": 188102,
       "word": "射雕",
@@ -2505,6 +2673,14 @@
       "onboard_time": 1738747285,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71580,
+      "num": 186582,
+      "word": "第五代EA888机皇",
+      "onboard_time": 1738758564,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 70484,
@@ -2779,6 +2955,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 28138,
+      "num": 238046,
+      "word": "何卓佳晋级16强",
+      "onboard_time": 1738758144,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 27698,
       "num": 225240,
       "word": "玉泽演女友正面照",
@@ -2921,6 +3105,14 @@
       "onboard_time": 1738696871,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 7798,
+      "num": 448206,
+      "word": "2025年春节假期交通出行火热",
+      "onboard_time": 1738759164,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 7573,
