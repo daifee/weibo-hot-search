@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738766257792,
+  "endTime": 1738769046382,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -385,6 +385,14 @@
       "onboard_time": 1738574967,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1796561,
+      "num": 1796561,
+      "word": "哪吒",
+      "onboard_time": 1738409000,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 1750228,
@@ -811,12 +819,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1030043,
-      "num": 482319,
-      "word": "哪吒",
-      "onboard_time": 1738409000,
-      "rank": 20,
-      "category": "电影"
+      "raw_hot": 1032662,
+      "num": 1032662,
+      "word": "48岁李锋博士春节遭意外离世",
+      "onboard_time": 1738767446,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1029674,
@@ -1249,6 +1257,14 @@
       "onboard_time": 1738736483,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 701063,
+      "num": 235387,
+      "word": "李马克脱粉",
+      "onboard_time": 1738767504,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 698807,
@@ -1705,6 +1721,14 @@
       "onboard_time": 1738544356,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 564032,
+      "num": 313043,
+      "word": "祝绪丹配音小石矶娘娘",
+      "onboard_time": 1738766245,
+      "rank": 7,
+      "category": "电影,艺人"
     },
     {
       "raw_hot": 562175,
@@ -2763,6 +2787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 357842,
+      "num": 234998,
+      "word": "生完孩子几年后才能轻松一点",
+      "onboard_time": 1738767446,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 357575,
       "num": 357575,
       "word": "伊能静 暴力的人都是懦夫",
@@ -3395,6 +3427,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 285092,
+      "num": 285092,
+      "word": "孙颖莎回应更换出场音乐",
+      "onboard_time": 1738764024,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283328,
       "num": 263330,
       "word": "鹿晗祝大家返程一路平安",
@@ -3537,14 +3577,6 @@
       "onboard_time": 1738724901,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 265051,
-      "num": 265051,
-      "word": "孙颖莎回应更换出场音乐",
-      "onboard_time": 1738764024,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 264520,
@@ -5235,6 +5267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 189937,
+      "num": 162862,
+      "word": "哪吒2最快破55亿电影",
+      "onboard_time": 1738768705,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 189920,
       "num": 189920,
       "word": "再婚的爸强势的妈破碎的她",
@@ -6251,6 +6291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162042,
+      "num": 162042,
+      "word": "男子放出400斤白牦牛给亲戚看",
+      "onboard_time": 1738767504,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161991,
       "num": 227141,
       "word": "王曼昱vs梅谢芙",
@@ -6305,6 +6353,14 @@
       "onboard_time": 1738742842,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161059,
+      "num": 161059,
+      "word": "和天秤座相处就像照镜子",
+      "onboard_time": 1738765292,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 160915,
@@ -6723,6 +6779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 150971,
+      "num": 162123,
+      "word": "春节档票房破百亿大关",
+      "onboard_time": 1738767567,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 150942,
       "num": 150942,
       "word": "2025摩羯座会发生的3件好事",
@@ -6857,6 +6921,14 @@
       "onboard_time": 1738494138,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 148715,
+      "num": 148715,
+      "word": "哪吒贺图",
+      "onboard_time": 1738765767,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 148172,
@@ -7009,6 +7081,14 @@
       "onboard_time": 1738469478,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 144207,
+      "num": 144207,
+      "word": "张晚意似锦将官宣",
+      "onboard_time": 1738767446,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 144122,
@@ -7435,6 +7515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 136160,
+      "num": 220699,
+      "word": "谷歌删除不将AI用于武器研发的承诺条款",
+      "onboard_time": 1738764325,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 136112,
       "num": 136112,
       "word": "浪姐6舞台搬到海边了",
@@ -7507,6 +7595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 133522,
+      "num": 133522,
+      "word": "郭富城陪方媛回娘家拜年",
+      "onboard_time": 1738768765,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133451,
       "num": 133451,
       "word": "A股蛇年首个交易日",
@@ -7553,14 +7649,6 @@
       "onboard_time": 1738474457,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 132070,
-      "num": 114917,
-      "word": "哪吒贺图",
-      "onboard_time": 1738765767,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 131856,
@@ -7987,7 +8075,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 122077,
+      "raw_hot": 122160,
       "num": 126661,
       "word": "起底DeepSeek爆火背后的推手",
       "onboard_time": 1738763604,
@@ -8075,20 +8163,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 119672,
-      "num": 220699,
-      "word": "谷歌删除不将AI用于武器研发的承诺条款",
-      "onboard_time": 1738764325,
-      "rank": 49,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 119596,
       "num": 119596,
       "word": "英伟达市值一周缩水超5000亿美元",
       "onboard_time": 1738457897,
       "rank": 48,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 119576,
+      "num": 119576,
+      "word": "于适拿腊八蒜叫雷震子回家",
+      "onboard_time": 1738768286,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 119157,
@@ -8236,7 +8324,7 @@
     },
     {
       "raw_hot": 115661,
-      "num": 127373,
+      "num": 212788,
       "word": "孙颖莎紧急撤回一个战术直接上分",
       "onboard_time": 1738763966,
       "rank": 47,
@@ -8249,14 +8337,6 @@
       "onboard_time": 1738684705,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 114971,
-      "num": 114971,
-      "word": "和天秤座相处就像照镜子",
-      "onboard_time": 1738765292,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 114841,
@@ -8316,7 +8396,7 @@
     },
     {
       "raw_hot": 113443,
-      "num": 482257,
+      "num": 964239,
       "word": "中国年正在成为世界年",
       "onboard_time": 1738761925,
       "rank": 2,
@@ -8689,6 +8769,14 @@
       "onboard_time": 1738762704,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106027,
+      "num": 199576,
+      "word": "84岁女厨师做菜时眼神一下变了",
+      "onboard_time": 1738768286,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105906,
@@ -10137,6 +10225,14 @@
       "onboard_time": 1738514358,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 53583,
+      "num": 163428,
+      "word": "马斯克政府效率部6名成员身份曝光",
+      "onboard_time": 1738768345,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 53032,

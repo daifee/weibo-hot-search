@@ -1,0 +1,410 @@
+{
+  "runTime": 1738769046382,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1796561,
+        "num": 1796561,
+        "word": "哪吒",
+        "onboard_time": 1738755265,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1032662,
+        "num": 1032662,
+        "word": "48岁李锋博士春节遭意外离世",
+        "onboard_time": 1738767446,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82702,
+        "num": 964239,
+        "word": "中国年正在成为世界年",
+        "onboard_time": 1738761925,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 934477,
+        "num": 934477,
+        "word": "你好李焕英给哪吒的贺图",
+        "onboard_time": 1738754065,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 561175,
+        "num": 561175,
+        "word": "这类微短剧被禁止上线传播",
+        "onboard_time": 1738752625,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326848,
+        "num": 326848,
+        "word": "缅甸断电地区或求助老挝",
+        "onboard_time": 1738762284,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 727069,
+        "num": 324232,
+        "word": "哪吒票房",
+        "onboard_time": 1738745064,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 564032,
+        "num": 313043,
+        "word": "祝绪丹配音小石矶娘娘",
+        "onboard_time": 1738766245,
+        "rank": 7,
+        "category": "电影,艺人"
+      },
+      {
+        "raw_hot": 285092,
+        "num": 285092,
+        "word": "孙颖莎回应更换出场音乐",
+        "onboard_time": 1738764024,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235415,
+        "num": 235415,
+        "word": "往往顶级恋爱脑都是出自风象星座",
+        "onboard_time": 1738759824,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 701063,
+        "num": 235387,
+        "word": "李马克脱粉",
+        "onboard_time": 1738767504,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 441637,
+        "num": 235353,
+        "word": "哪吒2 影史前三",
+        "onboard_time": 1738756345,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 365018,
+        "num": 235315,
+        "word": "饺子导演名下多家企业已注销",
+        "onboard_time": 1738750524,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 330475,
+        "num": 235298,
+        "word": "游客在日就医5分钟被确诊甲流",
+        "onboard_time": 1738762225,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 318308,
+        "num": 235252,
+        "word": "战狼2",
+        "onboard_time": 1738758693,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 297134,
+        "num": 235228,
+        "word": "哪吒2票房超过你好李焕英",
+        "onboard_time": 1738753405,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204464,
+        "num": 235168,
+        "word": "周鸿祎回应称自己很委屈",
+        "onboard_time": 1738762345,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 193126,
+        "num": 235124,
+        "word": "初八去存压岁钱发现ATM机满了",
+        "onboard_time": 1738752087,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188906,
+        "num": 235092,
+        "word": "司机卡点下高速失败付了1500元",
+        "onboard_time": 1738735402,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150379,
+        "num": 235055,
+        "word": "小蛇糕",
+        "onboard_time": 1738761263,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 904641,
+        "num": 235030,
+        "word": "沈腾方否认和林允恋情",
+        "onboard_time": 1738746503,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357842,
+        "num": 234998,
+        "word": "生完孩子几年后才能轻松一点",
+        "onboard_time": 1738767446,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 234965,
+        "num": 234965,
+        "word": "玖月晞 白色橄榄树",
+        "onboard_time": 1738757124,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228135,
+        "num": 228135,
+        "word": "女子误把摔炮当奶糖吃炸伤口腔",
+        "onboard_time": 1738754184,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59605,
+        "num": 212788,
+        "word": "孙颖莎紧急撤回一个战术直接上分",
+        "onboard_time": 1738763966,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208573,
+        "num": 208573,
+        "word": "浪姐6阵容",
+        "onboard_time": 1738751665,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106027,
+        "num": 199576,
+        "word": "84岁女厨师做菜时眼神一下变了",
+        "onboard_time": 1738768286,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196820,
+        "num": 196820,
+        "word": "光线公告哪吒2票房",
+        "onboard_time": 1738765166,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168079,
+        "num": 168079,
+        "word": "长津湖",
+        "onboard_time": 1738758444,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 53583,
+        "num": 163428,
+        "word": "马斯克政府效率部6名成员身份曝光",
+        "onboard_time": 1738768345,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 189937,
+        "num": 162862,
+        "word": "哪吒2最快破55亿电影",
+        "onboard_time": 1738768705,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150971,
+        "num": 162123,
+        "word": "春节档票房破百亿大关",
+        "onboard_time": 1738767567,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162042,
+        "num": 162042,
+        "word": "男子放出400斤白牦牛给亲戚看",
+        "onboard_time": 1738767504,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161059,
+        "num": 161059,
+        "word": "和天秤座相处就像照镜子",
+        "onboard_time": 1738765292,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148715,
+        "num": 148715,
+        "word": "哪吒贺图",
+        "onboard_time": 1738765767,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144207,
+        "num": 144207,
+        "word": "张晚意似锦将官宣",
+        "onboard_time": 1738767446,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137505,
+        "num": 137505,
+        "word": "藕饼",
+        "onboard_time": 1738764745,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136160,
+        "num": 136160,
+        "word": "谷歌删除不将AI用于武器研发的承诺条款",
+        "onboard_time": 1738764325,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 135756,
+        "num": 135756,
+        "word": "原来申小豹才是普通人视角",
+        "onboard_time": 1738762704,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134863,
+        "num": 134863,
+        "word": "哪吒之魔童闹海票房破55亿",
+        "onboard_time": 1738757604,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133522,
+        "num": 133522,
+        "word": "郭富城陪方媛回娘家拜年",
+        "onboard_time": 1738768765,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129127,
+        "num": 129127,
+        "word": "喻言 浪姐",
+        "onboard_time": 1738748490,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122160,
+        "num": 122160,
+        "word": "起底DeepSeek爆火背后的推手",
+        "onboard_time": 1738763604,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 121461,
+        "num": 121461,
+        "word": "梁洁没有台词的三分钟",
+        "onboard_time": 1738765292,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119576,
+        "num": 119576,
+        "word": "于适拿腊八蒜叫雷震子回家",
+        "onboard_time": 1738768286,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111256,
+        "num": 111256,
+        "word": "Angelababy婚纱剧照",
+        "onboard_time": 1738740981,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106089,
+        "num": 106089,
+        "word": "黄金",
+        "onboard_time": 1738725021,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 99721,
+        "num": 99721,
+        "word": "中国游客在日患流感遭两家医院拒收",
+        "onboard_time": 1738757664,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 95287,
+        "num": 95287,
+        "word": "五福临门集齐了所有晋江梗",
+        "onboard_time": 1738766066,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83159,
+        "num": 93208,
+        "word": "游客曝张家界一饭店点2个菜花844元",
+        "onboard_time": 1738744403,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同巴基斯坦总统会谈#"
+    }
+  }
+}
