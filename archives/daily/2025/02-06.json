@@ -1,6 +1,6 @@
 {
   "startTime": 1738772916136,
-  "endTime": 1738780221424,
+  "endTime": 1738781021805,
   "band_list": [
     {
       "raw_hot": 1393800,
@@ -459,6 +459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 45257,
+      "num": 71958,
+      "word": "中国特警闯进阿联酋特警挑战赛前三",
+      "onboard_time": 1738778535,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 37281,
       "num": 55534,
       "word": "宁艺卓Giselle自作曲",
@@ -473,14 +481,6 @@
       "onboard_time": 1738771103,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 26039,
-      "num": 71958,
-      "word": "中国特警闯进阿联酋特警挑战赛前三",
-      "onboard_time": 1738778535,
-      "rank": 10,
-      "category": "国内时政"
     },
     {
       "raw_hot": 25186,
@@ -513,6 +513,14 @@
       "onboard_time": 1738775596,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 15322,
+      "num": 48185,
+      "word": "近20个国家将春节定为法定假日",
+      "onboard_time": 1738780933,
+      "rank": 36,
+      "category": "正能量"
     },
     {
       "raw_hot": 11492,
