@@ -1,0 +1,410 @@
+{
+  "runTime": 1738723889014,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1406696,
+        "num": 1406696,
+        "word": "饺子导演成为百亿票房导演",
+        "onboard_time": 1738720821,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 619735,
+        "num": 934136,
+        "word": "泰国已对泰缅边境缅甸地区断电",
+        "onboard_time": 1738722620,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 49944,
+        "num": 711308,
+        "word": "春节假期兴起入境定制游",
+        "onboard_time": 1738675764,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 666628,
+        "num": 666628,
+        "word": "石矶娘娘mini",
+        "onboard_time": 1738716681,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 559273,
+        "num": 654192,
+        "word": "官方回应刮中百万大奖被彩票点抢回",
+        "onboard_time": 1738714338,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 751987,
+        "num": 653146,
+        "word": "DeepSeek招聘实习生月薪过万",
+        "onboard_time": 1738713439,
+        "rank": 5,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 646110,
+        "num": 646110,
+        "word": "哪吒2进入影史票房前5",
+        "onboard_time": 1738720220,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 590001,
+        "num": 590001,
+        "word": "玉泽演求婚成功",
+        "onboard_time": 1738714999,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 549528,
+        "num": 549528,
+        "word": "春节戒断反应",
+        "onboard_time": 1738713798,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 405352,
+        "num": 405352,
+        "word": "男子十几万元转错账对方称没钱还",
+        "onboard_time": 1738691774,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 612422,
+        "num": 403590,
+        "word": "特朗普称希望美国拥有加沙所有权",
+        "onboard_time": 1738717641,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 397705,
+        "num": 397705,
+        "word": "敖闰鹤童",
+        "onboard_time": 1738717339,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 376399,
+        "num": 376399,
+        "word": "射雕37万人评分票房近6亿",
+        "onboard_time": 1738711755,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 351785,
+        "num": 351785,
+        "word": "邪恶寿桃",
+        "onboard_time": 1738719921,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 342189,
+        "num": 342189,
+        "word": "女生讲述在日本感染甲流被抬上救护车",
+        "onboard_time": 1738716560,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 294972,
+        "num": 294972,
+        "word": "节后上班不在状态怎么办",
+        "onboard_time": 1738704850,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 264502,
+        "num": 264502,
+        "word": "A股",
+        "onboard_time": 1738722741,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 231075,
+        "num": 231075,
+        "word": "下一个假期在4月",
+        "onboard_time": 1738713439,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230226,
+        "num": 230226,
+        "word": "能把蛇年七天无理由退货吗",
+        "onboard_time": 1738722741,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139549,
+        "num": 229139,
+        "word": "王鹤棣又要打NBA了",
+        "onboard_time": 1738723401,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395769,
+        "num": 228553,
+        "word": "赵露思又一条ins破百万赞了",
+        "onboard_time": 1738714999,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300409,
+        "num": 227438,
+        "word": "女子刮中百万大奖被彩票点抢回",
+        "onboard_time": 1738712297,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297845,
+        "num": 226571,
+        "word": "影史首位3岁百亿影人",
+        "onboard_time": 1738711755,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 225652,
+        "num": 225652,
+        "word": "新疆5.0级地震",
+        "onboard_time": 1738713679,
+        "rank": 23,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 89759,
+        "num": 223420,
+        "word": "今日看盘",
+        "onboard_time": 1738723220,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 222733,
+        "num": 222733,
+        "word": "姐弟仨凌晨返程父亲陪他们坐了一夜",
+        "onboard_time": 1738679664,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217390,
+        "num": 217390,
+        "word": "节后上班第一天",
+        "onboard_time": 1738718181,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209553,
+        "num": 209553,
+        "word": "特斯拉Model3降价8000元",
+        "onboard_time": 1738723760,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 203881,
+        "num": 203881,
+        "word": "DeepSeek",
+        "onboard_time": 1738720101,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 200370,
+        "num": 200370,
+        "word": "距2026年春节还有376天",
+        "onboard_time": 1738722741,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188964,
+        "num": 188964,
+        "word": "表情包演我上班第一天",
+        "onboard_time": 1738723760,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170107,
+        "num": 170107,
+        "word": "开工大吉",
+        "onboard_time": 1738712117,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169606,
+        "num": 169606,
+        "word": "哪吒2票房超50亿",
+        "onboard_time": 1738684643,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164579,
+        "num": 164579,
+        "word": "六姊妹",
+        "onboard_time": 1738723162,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154221,
+        "num": 154221,
+        "word": "小哪吒的配音演员原来是个小姐姐",
+        "onboard_time": 1738722560,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153941,
+        "num": 153941,
+        "word": "射雕票房逆跌",
+        "onboard_time": 1738679905,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152655,
+        "num": 152655,
+        "word": "敖光差点变成鳌拜的样子",
+        "onboard_time": 1738717461,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150881,
+        "num": 150881,
+        "word": "官方回应店铺因未彻夜亮灯被撬锁开灯",
+        "onboard_time": 1738713978,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149764,
+        "num": 149764,
+        "word": "星穹铁道阿格莱雅",
+        "onboard_time": 1738723760,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127301,
+        "num": 127301,
+        "word": "美国再退出联合国人权理事会",
+        "onboard_time": 1738723401,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121588,
+        "num": 121588,
+        "word": "世界上在建最长的海底高铁隧道",
+        "onboard_time": 1738718780,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109805,
+        "num": 109805,
+        "word": "浓眉入职第一天给独行侠挑刺",
+        "onboard_time": 1738723701,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109523,
+        "num": 109523,
+        "word": "哪吒2预测票房超85亿",
+        "onboard_time": 1738720521,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107898,
+        "num": 107898,
+        "word": "敖闰cos",
+        "onboard_time": 1738721000,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101380,
+        "num": 101380,
+        "word": "特朗普政府推进关闭教育部",
+        "onboard_time": 1738713439,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100473,
+        "num": 100473,
+        "word": "春捂注意身体3个部位",
+        "onboard_time": 1738699391,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 95743,
+        "num": 95743,
+        "word": "致每一位奔赴岗位的你",
+        "onboard_time": 1738719021,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91662,
+        "num": 91662,
+        "word": "血氧浓度低于90%很危险",
+        "onboard_time": 1738684343,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 91642,
+        "num": 91642,
+        "word": "不想上班",
+        "onboard_time": 1738716801,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89747,
+        "num": 89747,
+        "word": "项楚先生辞世",
+        "onboard_time": 1738714941,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记那些点睛用典#"
+    }
+  }
+}

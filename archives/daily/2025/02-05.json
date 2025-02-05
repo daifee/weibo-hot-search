@@ -1,12 +1,20 @@
 {
   "startTime": 1738686513636,
-  "endTime": 1738720666077,
+  "endTime": 1738723889014,
   "band_list": [
     {
       "raw_hot": 1475289,
       "num": 1475289,
       "word": "哪吒2票房超50亿",
       "onboard_time": 1738684643,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1406696,
+      "num": 1406696,
+      "word": "饺子导演成为百亿票房导演",
+      "onboard_time": 1738720821,
       "rank": 0,
       "category": "电影"
     },
@@ -91,12 +99,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 646110,
+      "num": 646110,
+      "word": "哪吒2进入影史票房前5",
+      "onboard_time": 1738720220,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 640469,
       "num": 904992,
       "word": "男子十几万元转错账对方称没钱还",
       "onboard_time": 1738691774,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 619735,
+      "num": 934136,
+      "word": "泰国已对泰缅边境缅甸地区断电",
+      "onboard_time": 1738722620,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 562618,
@@ -113,6 +137,14 @@
       "onboard_time": 1738714999,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 549528,
+      "num": 549528,
+      "word": "春节戒断反应",
+      "onboard_time": 1738713798,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 523130,
@@ -155,14 +187,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 444272,
-      "num": 494661,
-      "word": "春节戒断反应",
-      "onboard_time": 1738713798,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 397659,
       "num": 290842,
       "word": "女子刮中百万大奖被彩票点抢回",
@@ -177,6 +201,14 @@
       "onboard_time": 1738713978,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 351785,
+      "num": 351785,
+      "word": "邪恶寿桃",
+      "onboard_time": 1738719921,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 345947,
@@ -235,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 264502,
+      "num": 264502,
+      "word": "A股",
+      "onboard_time": 1738722741,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 257217,
       "num": 257217,
       "word": "开工大吉",
@@ -275,6 +315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 230226,
+      "num": 230226,
+      "word": "能把蛇年七天无理由退货吗",
+      "onboard_time": 1738722741,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227836,
       "num": 227836,
       "word": "唐人街探案祝贺哪吒",
@@ -299,12 +347,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217390,
+      "num": 217390,
+      "word": "节后上班第一天",
+      "onboard_time": 1738718181,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 216975,
       "num": 365638,
       "word": "今晚记得打开闹钟",
       "onboard_time": 1738679724,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 209553,
+      "num": 209553,
+      "word": "特斯拉Model3降价8000元",
+      "onboard_time": 1738723760,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 207768,
@@ -339,6 +403,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 203881,
+      "num": 222704,
+      "word": "DeepSeek",
+      "onboard_time": 1738720101,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 200370,
+      "num": 200370,
+      "word": "距2026年春节还有376天",
+      "onboard_time": 1738722741,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199457,
       "num": 220220,
       "word": "致每一位奔赴岗位的你",
@@ -371,6 +451,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 188964,
+      "num": 188964,
+      "word": "表情包演我上班第一天",
+      "onboard_time": 1738723760,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 186060,
       "num": 188704,
       "word": "逆跌",
@@ -385,14 +473,6 @@
       "onboard_time": 1738718780,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 177217,
-      "num": 222704,
-      "word": "DeepSeek",
-      "onboard_time": 1738720101,
-      "rank": 24,
-      "category": "互联网"
     },
     {
       "raw_hot": 170415,
@@ -419,12 +499,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 160454,
-      "num": 160454,
-      "word": "邪恶寿桃",
-      "onboard_time": 1738719921,
-      "rank": 31,
-      "category": "电影"
+      "raw_hot": 164579,
+      "num": 164579,
+      "word": "六姊妹",
+      "onboard_time": 1738723162,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 159042,
@@ -451,12 +531,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 154221,
+      "num": 154221,
+      "word": "小哪吒的配音演员原来是个小姐姐",
+      "onboard_time": 1738722560,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 151739,
       "num": 291925,
       "word": "焕新非遗计划",
       "onboard_time": 1738718240,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149764,
+      "num": 149764,
+      "word": "星穹铁道阿格莱雅",
+      "onboard_time": 1738723760,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 144312,
@@ -483,12 +579,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 140006,
-      "num": 140006,
-      "word": "哪吒2进入影史票房前5",
-      "onboard_time": 1738720220,
-      "rank": 33,
-      "category": "电影"
+      "raw_hot": 139549,
+      "num": 229139,
+      "word": "王鹤棣又要打NBA了",
+      "onboard_time": 1738723401,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 137296,
@@ -545,6 +641,14 @@
       "onboard_time": 1738677264,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 127301,
+      "num": 127301,
+      "word": "美国再退出联合国人权理事会",
+      "onboard_time": 1738723401,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 126149,
@@ -627,12 +731,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109805,
+      "num": 109805,
+      "word": "浓眉入职第一天给独行侠挑刺",
+      "onboard_time": 1738723701,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 109523,
+      "num": 109523,
+      "word": "哪吒2预测票房超85亿",
+      "onboard_time": 1738720521,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 109258,
       "num": 109258,
       "word": "年后再说的事咋这么多",
       "onboard_time": 1738716801,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107898,
+      "num": 107898,
+      "word": "敖闰cos",
+      "onboard_time": 1738721000,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 105858,
@@ -731,12 +859,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 89561,
-      "num": 89561,
-      "word": "哪吒2预测票房超85亿",
-      "onboard_time": 1738720521,
-      "rank": 49,
-      "category": "电影"
+      "raw_hot": 89759,
+      "num": 223420,
+      "word": "今日看盘",
+      "onboard_time": 1738723220,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 88346,
