@@ -1,0 +1,410 @@
+{
+  "runTime": 1738748282496,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4795767,
+        "num": 4795767,
+        "word": "沈腾方否认和林允恋情",
+        "onboard_time": 1738746503,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 794478,
+        "num": 794478,
+        "word": "黄金",
+        "onboard_time": 1738725021,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 73105,
+        "num": 638811,
+        "word": "春节假期1436.6万人次出入境",
+        "onboard_time": 1738747285,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 613270,
+        "num": 613270,
+        "word": "小哪吒配音称因声音丑被饺子相中",
+        "onboard_time": 1738740143,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 581184,
+        "num": 581184,
+        "word": "游客曝张家界一饭店点2个菜花844元",
+        "onboard_time": 1738744403,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 535011,
+        "num": 535011,
+        "word": "九尾辟谣",
+        "onboard_time": 1738742783,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 562407,
+        "num": 498177,
+        "word": "看电影的最佳位置不是正中间",
+        "onboard_time": 1738740202,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 446866,
+        "num": 446866,
+        "word": "哪吒2票房爆炸谁赢麻了",
+        "onboard_time": 1738744824,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 264520,
+        "num": 264520,
+        "word": "日本松下官宣放弃电视机业务",
+        "onboard_time": 1738745184,
+        "rank": 8,
+        "category": "海外新闻,数码"
+      },
+      {
+        "raw_hot": 54065,
+        "num": 264495,
+        "word": "航天员飞到舱外给你发送了个祝福",
+        "onboard_time": 1738736903,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 600186,
+        "num": 262980,
+        "word": "司机卡点下高速失败付了1500元",
+        "onboard_time": 1738735402,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396153,
+        "num": 262061,
+        "word": "用DeepSeek炒股的人出现了",
+        "onboard_time": 1738740081,
+        "rank": 11,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 390248,
+        "num": 260630,
+        "word": "Angelababy婚纱剧照",
+        "onboard_time": 1738740981,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 364185,
+        "num": 259325,
+        "word": "哪吒票房",
+        "onboard_time": 1738745064,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 342955,
+        "num": 258360,
+        "word": "大侦探录了两小时的开场",
+        "onboard_time": 1738743143,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257945,
+        "num": 257945,
+        "word": "大海全是水敖丙全是腿",
+        "onboard_time": 1738740623,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 227358,
+        "num": 227358,
+        "word": "高速免费最后1分钟司机狂按喇叭",
+        "onboard_time": 1738738341,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199644,
+        "num": 199644,
+        "word": "松下",
+        "onboard_time": 1738741101,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 197130,
+        "num": 197130,
+        "word": "医生说上班前三天建议少干活",
+        "onboard_time": 1738731446,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194596,
+        "num": 194596,
+        "word": "樊振东芭莎男士二月刊封面",
+        "onboard_time": 1738746806,
+        "rank": 19,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 256077,
+        "num": 194346,
+        "word": "怀疑惠英红特别关注张小斐",
+        "onboard_time": 1738747226,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297117,
+        "num": 193611,
+        "word": "男子心脏骤停急救醒来后要赶去上班",
+        "onboard_time": 1738741882,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250480,
+        "num": 193195,
+        "word": "马丽夸赵露思小时候太好看了",
+        "onboard_time": 1738748246,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245918,
+        "num": 192690,
+        "word": "哪吒之魔童闹海票房破51亿",
+        "onboard_time": 1738730905,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147231,
+        "num": 192043,
+        "word": "樊振东开工大吉",
+        "onboard_time": 1738747165,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241865,
+        "num": 191313,
+        "word": "孩子高速上下车被应急车道车撞飞",
+        "onboard_time": 1738741942,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191117,
+        "num": 191117,
+        "word": "哪吒为何不像国人的名字",
+        "onboard_time": 1738744884,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173861,
+        "num": 173861,
+        "word": "特朗普称美国可长期拥有加沙",
+        "onboard_time": 1738744764,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25109,
+        "num": 161522,
+        "word": "MANTA凡仙妖聚首赴仙岛",
+        "onboard_time": 1738747527,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 83357,
+        "num": 153581,
+        "word": "日本多地现灾害级大雪",
+        "onboard_time": 1738747226,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 152930,
+        "num": 152930,
+        "word": "哪吒2对春节档造成虹吸效应",
+        "onboard_time": 1738736483,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150550,
+        "num": 150550,
+        "word": "特朗普为内塔尼亚胡推椅子",
+        "onboard_time": 1738742723,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145575,
+        "num": 145575,
+        "word": "哪吒之魔童闹海票房破52亿",
+        "onboard_time": 1738746685,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136789,
+        "num": 136789,
+        "word": "六姊妹生理性喜欢物理性分手",
+        "onboard_time": 1738744944,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134625,
+        "num": 134625,
+        "word": "封神2口碑",
+        "onboard_time": 1738741641,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132196,
+        "num": 132196,
+        "word": "家政工雇主家晕倒称因擦冰箱太臭",
+        "onboard_time": 1738746745,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120891,
+        "num": 120891,
+        "word": "二刷国色芳华会有恍然大悟的感觉",
+        "onboard_time": 1738738401,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118186,
+        "num": 118186,
+        "word": "蛟龙行动",
+        "onboard_time": 1738746145,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115040,
+        "num": 115040,
+        "word": "光线传媒涨停",
+        "onboard_time": 1738731625,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112849,
+        "num": 112849,
+        "word": "春节戒断反应",
+        "onboard_time": 1738713798,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111003,
+        "num": 111003,
+        "word": "梁洁演救星的时候都没上桌吗",
+        "onboard_time": 1738742783,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110478,
+        "num": 110478,
+        "word": "春节假期国内出游5.01亿人次",
+        "onboard_time": 1738740682,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107810,
+        "num": 107810,
+        "word": "华为去年销售收入超8600亿",
+        "onboard_time": 1738746926,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 104926,
+        "num": 104926,
+        "word": "哪吒2啥叫过度魔丸化啊",
+        "onboard_time": 1738743382,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101539,
+        "num": 101539,
+        "word": "女子离家9天猫咪打开热水浴室被泡",
+        "onboard_time": 1738734382,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99189,
+        "num": 99189,
+        "word": "中方反对强制迁移加沙民众",
+        "onboard_time": 1738747646,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 98100,
+        "num": 98100,
+        "word": "留几手称自己带货亏到姥姥家",
+        "onboard_time": 1738748005,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94182,
+        "num": 94182,
+        "word": "周深别唱了我自己会哭",
+        "onboard_time": 1738743922,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92955,
+        "num": 92955,
+        "word": "华为小艺已接入DeepSeek",
+        "onboard_time": 1738739241,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 92909,
+        "num": 92909,
+        "word": "瑞典校园枪击11人死亡",
+        "onboard_time": 1738748184,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中吉关系实现跨越式发展#"
+    }
+  }
+}
