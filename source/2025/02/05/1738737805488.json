@@ -1,0 +1,410 @@
+{
+  "runTime": 1738737805488,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1273327,
+        "num": 1273327,
+        "word": "黄金",
+        "onboard_time": 1738725021,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1260686,
+        "num": 1260686,
+        "word": "司机卡点下高速失败付了1500元",
+        "onboard_time": 1738735402,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51607,
+        "num": 1105614,
+        "word": "2025年中国经济这么干",
+        "onboard_time": 1738716320,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1022647,
+        "num": 1022647,
+        "word": "哪吒之魔童闹海票房破51亿",
+        "onboard_time": 1738730905,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 573121,
+        "num": 573121,
+        "word": "医生说上班前三天建议少干活",
+        "onboard_time": 1738731446,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 467269,
+        "num": 467269,
+        "word": "光线传媒涨停",
+        "onboard_time": 1738731625,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 433818,
+        "num": 433818,
+        "word": "鹿晗高瀚宇兄弟大片",
+        "onboard_time": 1738734501,
+        "rank": 6,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 425608,
+        "num": 425608,
+        "word": "张本智和大满贯出局",
+        "onboard_time": 1738732463,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 373930,
+        "num": 373930,
+        "word": "哪吒 十年之约",
+        "onboard_time": 1738731745,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 219324,
+        "num": 355090,
+        "word": "哪吒2对春节档造成虹吸效应",
+        "onboard_time": 1738736483,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 341417,
+        "num": 341417,
+        "word": "饺子导演成为百亿票房导演",
+        "onboard_time": 1738720821,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 333789,
+        "num": 333789,
+        "word": "春节戒断反应",
+        "onboard_time": 1738713798,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324277,
+        "num": 324277,
+        "word": "孟子义开工红裙",
+        "onboard_time": 1738732943,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308099,
+        "num": 308099,
+        "word": "赵丽颖东方明珠合照对比",
+        "onboard_time": 1738729825,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296860,
+        "num": 296860,
+        "word": "哪吒2票房超其它新片总和",
+        "onboard_time": 1738725980,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 231156,
+        "num": 231156,
+        "word": "金饰价格一夜涨11元每克",
+        "onboard_time": 1738729464,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 223614,
+        "num": 223614,
+        "word": "美国邮政停收来自中国内地和中国香港包裹",
+        "onboard_time": 1738734023,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 215360,
+        "num": 215360,
+        "word": "美国中情局向全员提出买断计划",
+        "onboard_time": 1738730306,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 212672,
+        "num": 212672,
+        "word": "谷爱凌因摔倒造成了严重的挫伤",
+        "onboard_time": 1738735283,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182324,
+        "num": 210893,
+        "word": "恋与深空黎深",
+        "onboard_time": 1738736003,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 274073,
+        "num": 210733,
+        "word": "女子离家9天猫咪打开热水浴室被泡",
+        "onboard_time": 1738734382,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226022,
+        "num": 210692,
+        "word": "谁能想到陈哲远搬的是泡沫",
+        "onboard_time": 1738730487,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210370,
+        "num": 210370,
+        "word": "业内谈肖战射雕",
+        "onboard_time": 1738724841,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203432,
+        "num": 203432,
+        "word": "赵露思又一条ins破百万赞了",
+        "onboard_time": 1738714999,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107319,
+        "num": 185529,
+        "word": "王曼昱的电话亭新年祝福",
+        "onboard_time": 1738734203,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176042,
+        "num": 176042,
+        "word": "敖丙是一个橘子",
+        "onboard_time": 1738729104,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172719,
+        "num": 172719,
+        "word": "日本大医院非患者想去就能去",
+        "onboard_time": 1738724601,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 165497,
+        "num": 165497,
+        "word": "距2026年春节还有376天",
+        "onboard_time": 1738722741,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163384,
+        "num": 163384,
+        "word": "湖人大胜为东契奇接风",
+        "onboard_time": 1738735765,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13907,
+        "num": 160147,
+        "word": "王艺迪vs帕瓦德",
+        "onboard_time": 1738737083,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158398,
+        "num": 158398,
+        "word": "比伯背后抱海莉",
+        "onboard_time": 1738732344,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157218,
+        "num": 157218,
+        "word": "李现Memories",
+        "onboard_time": 1738736540,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148645,
+        "num": 148645,
+        "word": "7年了红狼还是这么会挑女婿",
+        "onboard_time": 1738735644,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144095,
+        "num": 144095,
+        "word": "沙特迅速回应特朗普涉加沙言论",
+        "onboard_time": 1738733843,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126133,
+        "num": 137584,
+        "word": "柯颖有古早小说那味儿了",
+        "onboard_time": 1738737141,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136845,
+        "num": 136845,
+        "word": "看到刘昊然理解古代复宠了",
+        "onboard_time": 1738730006,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132643,
+        "num": 132643,
+        "word": "女子带菜籽油返程倒车里花2000清洗",
+        "onboard_time": 1738735583,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123797,
+        "num": 123797,
+        "word": "能把蛇年七天无理由退货吗",
+        "onboard_time": 1738722741,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123580,
+        "num": 123580,
+        "word": "日本北海道一个市降雪1.2米",
+        "onboard_time": 1738737381,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 123550,
+        "num": 123550,
+        "word": "特朗普称希望美国拥有加沙所有权",
+        "onboard_time": 1738717641,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123080,
+        "num": 123080,
+        "word": "DeepSeek招聘实习生月薪过万",
+        "onboard_time": 1738713439,
+        "rank": 40,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 115069,
+        "num": 115069,
+        "word": "航天员飞到舱外给你发送了个祝福",
+        "onboard_time": 1738736903,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108583,
+        "num": 108583,
+        "word": "卡点下高速触发收费员挥手放行连招",
+        "onboard_time": 1738732166,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104821,
+        "num": 104821,
+        "word": "一家一户石矶娘娘",
+        "onboard_time": 1738737682,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102160,
+        "num": 102160,
+        "word": "詹姆斯给东契奇打个样",
+        "onboard_time": 1738731745,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101012,
+        "num": 101012,
+        "word": "震耳欲聋",
+        "onboard_time": 1738737682,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 98821,
+        "num": 98821,
+        "word": "女子刮中百万大奖被彩票点抢回",
+        "onboard_time": 1738712297,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93341,
+        "num": 93341,
+        "word": "狗狗把马伯骞迷成胚胎了",
+        "onboard_time": 1738737741,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33205,
+        "num": 92333,
+        "word": "随意弃养异宠存在外来物种入侵风险",
+        "onboard_time": 1738735702,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91472,
+        "num": 91472,
+        "word": "今后七天全国大部气温偏低",
+        "onboard_time": 1738737562,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平举行仪式欢迎吉尔吉斯斯坦总统访华#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738737055925,
+  "endTime": 1738737805488,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -635,6 +635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1260686,
+      "num": 1260686,
+      "word": "司机卡点下高速失败付了1500元",
+      "onboard_time": 1738735402,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1258917,
       "num": 236076,
       "word": "穆婷婷 大S是一个刚强的女人",
@@ -1120,14 +1128,6 @@
       "word": "男孩井盖点鞭炮受损车主回应",
       "onboard_time": 1738474397,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 856154,
-      "num": 856154,
-      "word": "司机卡点下高速失败付了1500元",
-      "onboard_time": 1738735402,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -2915,6 +2915,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 373930,
+      "num": 373930,
+      "word": "哪吒 十年之约",
+      "onboard_time": 1738731745,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 373874,
       "num": 373874,
       "word": "曾之乔新年晒孕肚",
@@ -3371,6 +3379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 324277,
+      "num": 324277,
+      "word": "孟子义开工红裙",
+      "onboard_time": 1738732943,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 322240,
       "num": 149635,
       "word": "敖丙传",
@@ -3483,14 +3499,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 305988,
-      "num": 305988,
-      "word": "哪吒 十年之约",
-      "onboard_time": 1738731745,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
       "raw_hot": 305957,
       "num": 281736,
       "word": "关晓彤为哪吒2国漫打call",
@@ -3537,14 +3545,6 @@
       "onboard_time": 1738557164,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 302939,
-      "num": 302939,
-      "word": "孟子义开工红裙",
-      "onboard_time": 1738732943,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 302690,
@@ -4731,6 +4731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223614,
+      "num": 223614,
+      "word": "美国邮政停收来自中国内地和中国香港包裹",
+      "onboard_time": 1738734023,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 223523,
       "num": 223523,
       "word": "肖战现场回应愤怒的脏脏包",
@@ -4835,6 +4843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 219324,
+      "num": 378987,
+      "word": "哪吒2对春节档造成虹吸效应",
+      "onboard_time": 1738736483,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 219288,
       "num": 188740,
       "word": "哪吒敖丙",
@@ -4923,14 +4939,6 @@
       "category": "健康医疗,运动健身"
     },
     {
-      "raw_hot": 215028,
-      "num": 215028,
-      "word": "美国邮政停收来自中国内地和中国香港包裹",
-      "onboard_time": 1738734023,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 214643,
       "num": 214643,
       "word": "大年初五恭喜发财",
@@ -4953,6 +4961,14 @@
       "onboard_time": 1738478837,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 212672,
+      "num": 212672,
+      "word": "谷爱凌因摔倒造成了严重的挫伤",
+      "onboard_time": 1738735283,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 212628,
@@ -5465,14 +5481,6 @@
       "onboard_time": 1738554131,
       "rank": 39,
       "category": "情感,民生新闻"
-    },
-    {
-      "raw_hot": 198827,
-      "num": 198827,
-      "word": "谷爱凌因摔倒造成了严重的挫伤",
-      "onboard_time": 1738735283,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 198407,
@@ -6187,6 +6195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182324,
+      "num": 210893,
+      "word": "恋与深空黎深",
+      "onboard_time": 1738736003,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 181962,
       "num": 488694,
       "word": "中方舰艇编队正常过航巴西兰海峡",
@@ -6537,14 +6553,6 @@
       "onboard_time": 1738658486,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 172124,
-      "num": 172124,
-      "word": "恋与深空黎深",
-      "onboard_time": 1738736003,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 172106,
@@ -6899,6 +6907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163384,
+      "num": 163384,
+      "word": "湖人大胜为东契奇接风",
+      "onboard_time": 1738735765,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163362,
       "num": 142665,
       "word": "哪吒2上座率",
@@ -7193,6 +7209,14 @@
       "onboard_time": 1738588949,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 157218,
+      "num": 157218,
+      "word": "李现Memories",
+      "onboard_time": 1738736540,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 157141,
@@ -7899,14 +7923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 143344,
-      "num": 143344,
-      "word": "湖人大胜为东契奇接风",
-      "onboard_time": 1738735765,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 143161,
       "num": 183536,
       "word": "王俊凯才是春节档最大彩蛋",
@@ -8153,14 +8169,6 @@
       "onboard_time": 1738670725,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 137601,
-      "num": 378987,
-      "word": "哪吒2对春节档造成虹吸效应",
-      "onboard_time": 1738736483,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 137467,
@@ -8651,6 +8659,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 126133,
+      "num": 137584,
+      "word": "柯颖有古早小说那味儿了",
+      "onboard_time": 1738737141,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126078,
       "num": 126078,
       "word": "年轻人有自己的碰财神方式",
@@ -8793,6 +8809,14 @@
       "onboard_time": 1738387338,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123580,
+      "num": 123580,
+      "word": "日本北海道一个市降雪1.2米",
+      "onboard_time": 1738737381,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 123572,
@@ -9011,14 +9035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 118605,
-      "num": 118605,
-      "word": "李现Memories",
-      "onboard_time": 1738736540,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 118342,
       "num": 118342,
       "word": "石破茂呼吁审视日本为何发动战争",
@@ -9153,6 +9169,14 @@
       "onboard_time": 1738333640,
       "rank": 33,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 115069,
+      "num": 115069,
+      "word": "航天员飞到舱外给你发送了个祝福",
+      "onboard_time": 1738736903,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 115063,
@@ -9723,12 +9747,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 104631,
-      "num": 104631,
-      "word": "航天员飞到舱外给你发送了个祝福",
-      "onboard_time": 1738736903,
-      "rank": 48,
-      "category": "国内时政"
+      "raw_hot": 104821,
+      "num": 104821,
+      "word": "一家一户石矶娘娘",
+      "onboard_time": 1738737682,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 104482,
@@ -9913,6 +9937,14 @@
       "onboard_time": 1738675345,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101012,
+      "num": 101012,
+      "word": "震耳欲聋",
+      "onboard_time": 1738737682,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 100934,
@@ -10243,6 +10275,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 93341,
+      "num": 93341,
+      "word": "狗狗把马伯骞迷成胚胎了",
+      "onboard_time": 1738737741,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93229,
       "num": 93229,
       "word": "女孩参展被鳄鱼咬伤商家要赔吗",
@@ -10297,6 +10337,14 @@
       "onboard_time": 1738584270,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 91472,
+      "num": 91472,
+      "word": "今后七天全国大部气温偏低",
+      "onboard_time": 1738737562,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91399,
@@ -11363,6 +11411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 51607,
+      "num": 1105614,
+      "word": "2025年中国经济这么干",
+      "onboard_time": 1738716320,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51250,
       "num": 908222,
       "word": "网络中国节",
@@ -11465,14 +11521,6 @@
       "onboard_time": 1738567108,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 46790,
-      "num": 980613,
-      "word": "2025年中国经济这么干",
-      "onboard_time": 1738716320,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 46785,
@@ -11843,6 +11891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 33205,
+      "num": 214887,
+      "word": "随意弃养异宠存在外来物种入侵风险",
+      "onboard_time": 1738735702,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33181,
       "num": 263699,
       "word": "白衣小哥讲述海边救人细节",
@@ -11904,14 +11960,6 @@
       "word": "走近冰雕世界背后的魔法师",
       "onboard_time": 1738728323,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32187,
-      "num": 214887,
-      "word": "随意弃养异宠存在外来物种入侵风险",
-      "onboard_time": 1738735702,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -12377,6 +12425,14 @@
       "onboard_time": 1738357151,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 13907,
+      "num": 160147,
+      "word": "王艺迪vs帕瓦德",
+      "onboard_time": 1738737083,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 13603,
