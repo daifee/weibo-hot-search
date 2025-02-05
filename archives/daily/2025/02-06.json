@@ -1,6 +1,6 @@
 {
   "startTime": 1738772916136,
-  "endTime": 1738781021805,
+  "endTime": 1738783183590,
   "band_list": [
     {
       "raw_hot": 1393800,
@@ -387,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72422,
+      "num": 72422,
+      "word": "近20个国家将春节定为法定假日",
+      "onboard_time": 1738780933,
+      "rank": 36,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 69678,
       "num": 131954,
       "word": "起底DeepSeek爆火背后的推手",
@@ -443,6 +451,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 53242,
+      "num": 71958,
+      "word": "中国特警闯进阿联酋特警挑战赛前三",
+      "onboard_time": 1738778535,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 48576,
       "num": 77061,
       "word": "乌尔善回应被贴脸开大",
@@ -457,14 +473,6 @@
       "onboard_time": 1738775117,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 45257,
-      "num": 71958,
-      "word": "中国特警闯进阿联酋特警挑战赛前三",
-      "onboard_time": 1738778535,
-      "rank": 10,
-      "category": "国内时政"
     },
     {
       "raw_hot": 37281,
@@ -507,6 +515,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 17618,
+      "num": 30216,
+      "word": "谷歌删除不将AI用于武器研发的承诺条款",
+      "onboard_time": 1738764325,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 15366,
       "num": 76993,
       "word": "哪吒2动画制作公司成粉丝打卡点",
@@ -515,12 +531,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 15322,
-      "num": 48185,
-      "word": "近20个国家将春节定为法定假日",
-      "onboard_time": 1738780933,
-      "rank": 36,
-      "category": "正能量"
+      "raw_hot": 14710,
+      "num": 68840,
+      "word": "谷歌修改AI道德准则",
+      "onboard_time": 1738782133,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 11492,
