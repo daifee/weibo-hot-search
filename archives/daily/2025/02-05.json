@@ -1,6 +1,6 @@
 {
   "startTime": 1738686513636,
-  "endTime": 1738762051206,
+  "endTime": 1738762718285,
   "band_list": [
     {
       "raw_hot": 9238219,
@@ -16,6 +16,14 @@
       "word": "哪吒票房",
       "onboard_time": 1738745064,
       "rank": 21,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1722087,
+      "num": 1722087,
+      "word": "你好李焕英给哪吒的贺图",
+      "onboard_time": 1738754065,
+      "rank": 11,
       "category": "电影"
     },
     {
@@ -40,14 +48,6 @@
       "word": "饺子导演成为百亿票房导演",
       "onboard_time": 1738720821,
       "rank": 0,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 1514545,
-      "num": 1514545,
-      "word": "你好李焕英给哪吒的贺图",
-      "onboard_time": 1738754065,
-      "rank": 11,
       "category": "电影"
     },
     {
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1090023,
-      "num": 397249,
+      "num": 420549,
       "word": "哪吒2 影史前三",
       "onboard_time": 1738756345,
       "rank": 6,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 867865,
-      "num": 373363,
+      "num": 414513,
       "word": "哪吒",
       "onboard_time": 1738755265,
       "rank": 21,
@@ -219,8 +219,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 768285,
-      "num": 376743,
+      "raw_hot": 773523,
+      "num": 417443,
       "word": "战狼2",
       "onboard_time": 1738758693,
       "rank": 33,
@@ -299,6 +299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 645362,
+      "num": 491396,
+      "word": "樊振东发文为惠英红庆生",
+      "onboard_time": 1738758083,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 644189,
       "num": 644189,
       "word": "金饰价格一夜涨11元每克",
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 631579,
-      "num": 396440,
+      "num": 411301,
       "word": "玖月晞 白色橄榄树",
       "onboard_time": 1738757124,
       "rank": 11,
@@ -337,14 +345,6 @@
       "onboard_time": 1738731446,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 601830,
-      "num": 491396,
-      "word": "樊振东发文为惠英红庆生",
-      "onboard_time": 1738758083,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 584977,
@@ -396,7 +396,7 @@
     },
     {
       "raw_hot": 551004,
-      "num": 370016,
+      "num": 406966,
       "word": "长津湖",
       "onboard_time": 1738758444,
       "rank": 26,
@@ -507,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 470716,
+      "num": 409683,
+      "word": "业内称票房就是观众用脚投票的结果",
+      "onboard_time": 1738758263,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 465988,
       "num": 465988,
       "word": "鹿晗高瀚宇兄弟大片",
@@ -611,6 +619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 395896,
+      "num": 395896,
+      "word": "孩子高速下车被撞飞父亲怒踹对方司机",
+      "onboard_time": 1738761085,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 395006,
       "num": 395006,
       "word": "王鸥试戏就奔着女一号去的",
@@ -636,7 +652,7 @@
     },
     {
       "raw_hot": 391248,
-      "num": 391248,
+      "num": 397087,
       "word": "孙颖莎vs木原美悠",
       "onboard_time": 1738757724,
       "rank": 5,
@@ -648,14 +664,6 @@
       "word": "乌尔善回应观众来信",
       "onboard_time": 1738751665,
       "rank": 25,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 378001,
-      "num": 378001,
-      "word": "业内称票房就是观众用脚投票的结果",
-      "onboard_time": 1738758263,
-      "rank": 28,
       "category": "电影"
     },
     {
@@ -705,14 +713,6 @@
       "onboard_time": 1738684643,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 334306,
-      "num": 334306,
-      "word": "孩子高速下车被撞飞父亲怒踹对方司机",
-      "onboard_time": 1738761085,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 328262,
@@ -787,6 +787,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 305864,
+      "num": 305864,
+      "word": "中国游客在日患流感遭两家医院拒收",
+      "onboard_time": 1738757664,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 298601,
       "num": 298601,
       "word": "掌心官宣定档2月7日",
@@ -843,12 +851,12 @@
       "category": "电影,剧集"
     },
     {
-      "raw_hot": 283794,
-      "num": 283794,
-      "word": "中国游客在日患流感遭两家医院拒收",
-      "onboard_time": 1738757664,
-      "rank": 25,
-      "category": "海外新闻"
+      "raw_hot": 285163,
+      "num": 419307,
+      "word": "小蛇糕",
+      "onboard_time": 1738761263,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 280495,
@@ -1105,14 +1113,6 @@
       "onboard_time": 1738688237,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 226498,
-      "num": 226498,
-      "word": "小蛇糕",
-      "onboard_time": 1738761263,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 226147,
@@ -1683,20 +1683,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166667,
+      "num": 166667,
+      "word": "哪吒2已打破32项影史纪录",
+      "onboard_time": 1738761383,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 166520,
       "num": 189036,
       "word": "特朗普马斯克或确定下个打击目标",
       "onboard_time": 1738683624,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 166434,
-      "num": 166434,
-      "word": "哪吒2已打破32项影史纪录",
-      "onboard_time": 1738761383,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 165567,
@@ -1804,11 +1804,19 @@
     },
     {
       "raw_hot": 159359,
-      "num": 139939,
+      "num": 145940,
       "word": "哪吒2有望给光线传媒贡献近10亿利润",
       "onboard_time": 1738761805,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 159082,
+      "num": 159082,
+      "word": "爸爸第1次见女儿带男友回家反应",
+      "onboard_time": 1738762404,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 159042,
@@ -1873,6 +1881,14 @@
       "onboard_time": 1738758982,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154358,
+      "num": 154358,
+      "word": "往往顶级恋爱脑都是出自风象星座",
+      "onboard_time": 1738759824,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 154311,
@@ -1945,6 +1961,14 @@
       "onboard_time": 1738757724,
       "rank": 9,
       "category": "国际时政,国内时政"
+    },
+    {
+      "raw_hot": 148114,
+      "num": 148114,
+      "word": "周鸿祎回应称自己很委屈",
+      "onboard_time": 1738762345,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 147003,
@@ -2027,6 +2051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140572,
+      "num": 140572,
+      "word": "游客在日就医5分钟被确诊甲流",
+      "onboard_time": 1738762225,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 140567,
       "num": 198095,
       "word": "哪吒2啥叫过度魔丸化啊",
@@ -2057,6 +2089,14 @@
       "onboard_time": 1738731924,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136978,
+      "num": 136978,
+      "word": "缅甸断电地区或求助老挝",
+      "onboard_time": 1738762284,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 136881,
@@ -2097,14 +2137,6 @@
       "onboard_time": 1738737562,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 135725,
-      "num": 135725,
-      "word": "往往顶级恋爱脑都是出自风象星座",
-      "onboard_time": 1738759824,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 135600,
@@ -2571,6 +2603,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 94677,
+      "num": 369385,
+      "word": "恋与深空帮我记",
+      "onboard_time": 1738761444,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 94078,
       "num": 94078,
       "word": "与主人入江救人白马发烧至40度",
@@ -2659,14 +2699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 83288,
-      "num": 369385,
-      "word": "恋与深空帮我记",
-      "onboard_time": 1738761444,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 82928,
       "num": 202951,
       "word": "哈勒普退役",
@@ -2747,6 +2779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76316,
+      "num": 400800,
+      "word": "林诗栋3比1高兹",
+      "onboard_time": 1738761864,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74979,
       "num": 790179,
       "word": "蛇年开工能量包",
@@ -2769,6 +2809,14 @@
       "onboard_time": 1738758564,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 71297,
+      "num": 402732,
+      "word": "上班吐槽有助减少负面情绪",
+      "onboard_time": 1738761025,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 70484,
@@ -2875,6 +2923,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 53714,
+      "num": 421382,
+      "word": "童年记忆中的那片海又回来了",
+      "onboard_time": 1738761263,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51607,
       "num": 1105614,
       "word": "2025年中国经济这么干",
@@ -2955,6 +3011,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 46266,
+      "num": 427200,
+      "word": "中国年正在成为世界年",
+      "onboard_time": 1738761925,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44678,
+      "num": 140922,
+      "word": "开工第一天也是幸运上了",
+      "onboard_time": 1738762464,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 41621,
       "num": 187728,
       "word": "蛇年开工第1天",
@@ -2969,14 +3041,6 @@
       "onboard_time": 1738740682,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 39908,
-      "num": 384003,
-      "word": "童年记忆中的那片海又回来了",
-      "onboard_time": 1738761263,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 38998,
@@ -3075,20 +3139,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 31552,
-      "num": 372571,
-      "word": "上班吐槽有助减少负面情绪",
-      "onboard_time": 1738761025,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
       "raw_hot": 28138,
       "num": 238046,
       "word": "何卓佳晋级16强",
       "onboard_time": 1738758144,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27818,
+      "num": 408501,
+      "word": "2024年全球黄金需求创历史新高",
+      "onboard_time": 1738761025,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 27698,
@@ -3131,6 +3195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25587,
+      "num": 141727,
+      "word": "王楚钦回应男双首次搭档林诗栋",
+      "onboard_time": 1738760664,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 25499,
       "num": 71401,
       "word": "北京多条地铁线延长运营至凌晨一两点",
@@ -3147,12 +3219,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 19608,
-      "num": 182500,
-      "word": "林诗栋3比1高兹",
-      "onboard_time": 1738761864,
-      "rank": 37,
-      "category": "体育"
+      "raw_hot": 23527,
+      "num": 403693,
+      "word": "唐探好像留子的中餐厅",
+      "onboard_time": 1738761685,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 18465,
@@ -3161,14 +3233,6 @@
       "onboard_time": 1738692434,
       "rank": 25,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 17910,
-      "num": 374313,
-      "word": "2024年全球黄金需求创历史新高",
-      "onboard_time": 1738761025,
-      "rank": 14,
-      "category": "财经"
     },
     {
       "raw_hot": 16248,
@@ -3243,14 +3307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 10913,
-      "num": 372662,
-      "word": "唐探好像留子的中餐厅",
-      "onboard_time": 1738761685,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 10880,
       "num": 32263,
       "word": "商务部回应对钨等相关物项出口管制",
@@ -3265,14 +3321,6 @@
       "onboard_time": 1738754125,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 5657,
-      "num": 400792,
-      "word": "中国年正在成为世界年",
-      "onboard_time": 1738761925,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 5516,
