@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738744878057,
+  "endTime": 1738747470177,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1499,6 +1499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2368364,
+      "num": 2368364,
+      "word": "沈腾方否认和林允恋情",
+      "onboard_time": 1738746503,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2363224,
       "num": 1371308,
       "word": "周锐官宣恋情",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736760200,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1895773,
-      "num": 1895773,
-      "word": "泰媒称演员王星在缅甸被找到",
-      "onboard_time": 1736222123,
-      "rank": 0,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
