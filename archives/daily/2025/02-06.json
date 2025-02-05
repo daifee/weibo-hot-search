@@ -1,6 +1,6 @@
 {
   "startTime": 1738772916136,
-  "endTime": 1738775982031,
+  "endTime": 1738777042994,
   "band_list": [
     {
       "raw_hot": 1393800,
@@ -267,6 +267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 114098,
+      "num": 86003,
+      "word": "阿根廷宣布将退出世界卫生组织",
+      "onboard_time": 1738775836,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 113942,
       "num": 132128,
       "word": "哪吒2最快破55亿电影",
@@ -315,20 +323,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 93872,
+      "num": 208530,
+      "word": "泰国切断泰缅边境5处电力供应",
+      "onboard_time": 1738773379,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 92382,
       "num": 132044,
       "word": "初八去存压岁钱发现ATM机满了",
       "onboard_time": 1738752087,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 88119,
-      "num": 81923,
-      "word": "阿根廷宣布将退出世界卫生组织",
-      "onboard_time": 1738775836,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 82620,
@@ -379,14 +387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 72534,
-      "num": 208530,
-      "word": "泰国切断泰缅边境5处电力供应",
-      "onboard_time": 1738773379,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 69678,
       "num": 131954,
       "word": "起底DeepSeek爆火背后的推手",
@@ -403,20 +403,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65360,
+      "num": 72989,
+      "word": "乌尔善给观众的一封回信",
+      "onboard_time": 1738776196,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 63235,
+      "num": 77278,
+      "word": "男子跑动画公司问哪吒3多久上映",
+      "onboard_time": 1738775177,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 61922,
       "num": 109818,
       "word": "留几手我亏钱了",
       "onboard_time": 1738757785,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 56610,
-      "num": 77278,
-      "word": "男子跑动画公司问哪吒3多久上映",
-      "onboard_time": 1738775177,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 54656,
@@ -457,6 +465,14 @@
       "onboard_time": 1738771822,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 25109,
+      "num": 88641,
+      "word": "希腊海域4天43次4级以上地震",
+      "onboard_time": 1738776256,
+      "rank": 17,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 20822,
