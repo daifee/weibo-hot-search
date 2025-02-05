@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738740940606,
+  "endTime": 1738744014207,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -531,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1334040,
+      "num": 1334040,
+      "word": "小哪吒配音称因声音丑被饺子相中",
+      "onboard_time": 1738740143,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1305683,
       "num": 1305683,
       "word": "黄金",
@@ -947,6 +955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 855311,
+      "num": 833684,
+      "word": "用DeepSeek炒股的人出现了",
+      "onboard_time": 1738740081,
+      "rank": 10,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 848560,
       "num": 848560,
       "word": "白色橄榄树 四川农村",
@@ -961,14 +977,6 @@
       "onboard_time": 1738468277,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 833684,
-      "num": 833684,
-      "word": "用DeepSeek炒股的人出现了",
-      "onboard_time": 1738740081,
-      "rank": 10,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 820000,
@@ -1041,6 +1049,14 @@
       "onboard_time": 1738716560,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 779203,
+      "num": 779203,
+      "word": "Angelababy婚纱剧照",
+      "onboard_time": 1738740981,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 776082,
@@ -1273,6 +1289,14 @@
       "onboard_time": 1738646722,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 662414,
+      "num": 662414,
+      "word": "高速免费最后1分钟司机狂按喇叭",
+      "onboard_time": 1738738341,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 660840,
@@ -1603,20 +1627,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 555686,
+      "num": 555686,
+      "word": "看电影的最佳位置不是正中间",
+      "onboard_time": 1738740202,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 549528,
       "num": 601876,
       "word": "春节戒断反应",
       "onboard_time": 1738713798,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 548386,
-      "num": 548386,
-      "word": "小哪吒配音称因声音丑被饺子相中",
-      "onboard_time": 1738740143,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 547557,
@@ -2251,6 +2275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 405055,
+      "num": 300282,
+      "word": "大海全是水敖丙全是腿",
+      "onboard_time": 1738740623,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 401973,
       "num": 401973,
       "word": "独居女生套内41平米的家",
@@ -2433,6 +2465,14 @@
       "onboard_time": 1738430475,
       "rank": 29,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 369650,
+      "num": 369650,
+      "word": "九尾辟谣",
+      "onboard_time": 1738742783,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 367683,
@@ -2627,6 +2667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 337726,
+      "num": 288364,
+      "word": "大侦探录了两小时的开场",
+      "onboard_time": 1738743143,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 337417,
       "num": 337417,
       "word": "邓为勇闯贞洁烈男赛道",
@@ -2747,6 +2795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 325986,
+      "num": 195823,
+      "word": "男子心脏骤停急救醒来后要赶去上班",
+      "onboard_time": 1738741882,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 324681,
       "num": 309201,
       "word": "泽连斯基称不知道美国给的钱去了哪里",
@@ -2761,6 +2817,14 @@
       "onboard_time": 1738732943,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 322514,
+      "num": 190476,
+      "word": "孩子高速上下车被应急车道车撞飞",
+      "onboard_time": 1738741942,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 322240,
@@ -3115,6 +3179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 276381,
+      "num": 276381,
+      "word": "封神2口碑",
+      "onboard_time": 1738741641,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 276132,
       "num": 276132,
       "word": "射雕口碑",
@@ -3409,14 +3481,6 @@
       "onboard_time": 1738552229,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 247370,
-      "num": 247370,
-      "word": "看电影的最佳位置不是正中间",
-      "onboard_time": 1738740202,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 246088,
@@ -3979,6 +4043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 216393,
+      "num": 216393,
+      "word": "特朗普为内塔尼亚胡推椅子",
+      "onboard_time": 1738742723,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 215882,
       "num": 215882,
       "word": "敖丙小果冻",
@@ -4259,6 +4331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203463,
+      "num": 203463,
+      "word": "春节假期国内出游5.01亿人次",
+      "onboard_time": 1738740682,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203439,
       "num": 220531,
       "word": "孙颖莎王艺迪vs塞尔维亚组合",
@@ -4457,6 +4537,14 @@
       "onboard_time": 1738577068,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 196956,
+      "num": 184403,
+      "word": "梁洁演救星的时候都没上桌吗",
+      "onboard_time": 1738742783,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 196742,
@@ -4779,6 +4867,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 189189,
+      "num": 292122,
+      "word": "春节假期出游人次超500000000",
+      "onboard_time": 1738740501,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188964,
       "num": 188964,
       "word": "表情包演我上班第一天",
@@ -4963,6 +5059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182805,
+      "num": 182805,
+      "word": "吴昕也体会到了请苍天辨忠奸的无力",
+      "onboard_time": 1738743984,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182409,
       "num": 182409,
       "word": "陈思诚从去一座城到造一座城",
@@ -5097,6 +5201,14 @@
       "onboard_time": 1738647983,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177776,
+      "num": 177776,
+      "word": "黄景瑜现偶成绩",
+      "onboard_time": 1738743083,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 177530,
@@ -5387,6 +5499,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 169312,
+      "num": 169311,
+      "word": "松下",
+      "onboard_time": 1738741101,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 169269,
       "num": 224978,
       "word": "总台专访霍震霆",
@@ -5587,14 +5707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 163114,
-      "num": 163114,
-      "word": "春节假期国内出游5.01亿人次",
-      "onboard_time": 1738740682,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 162788,
       "num": 162788,
       "word": "朱雨玲发博吐槽签位",
@@ -5651,12 +5763,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 161018,
-      "num": 161018,
-      "word": "高速免费最后1分钟司机狂按喇叭",
-      "onboard_time": 1738738341,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 161163,
+      "num": 161163,
+      "word": "一盏灯让他等了十八年",
+      "onboard_time": 1738742842,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 160915,
@@ -5665,14 +5777,6 @@
       "onboard_time": 1738732285,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 160781,
-      "num": 292122,
-      "word": "春节假期出游人次超500000000",
-      "onboard_time": 1738740501,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 160760,
@@ -5721,6 +5825,14 @@
       "onboard_time": 1738675283,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 159185,
+      "num": 159185,
+      "word": "LGD发布声明公告",
+      "onboard_time": 1738743984,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 159110,
@@ -6459,6 +6571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 140567,
+      "num": 140567,
+      "word": "哪吒2啥叫过度魔丸化啊",
+      "onboard_time": 1738743382,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 140417,
       "num": 4461898,
       "word": "从古诗词中感受立春之美",
@@ -6489,6 +6609,14 @@
       "onboard_time": 1738643722,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 139806,
+      "num": 139806,
+      "word": "掌心仙台有树对打",
+      "onboard_time": 1738743323,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 139615,
@@ -6603,6 +6731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136881,
+      "num": 177115,
+      "word": "首个非遗春节假期盘点",
+      "onboard_time": 1738743563,
+      "rank": 26,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 136739,
       "num": 478017,
       "word": "孙颖莎在电话亭送新年祝福",
@@ -6715,6 +6851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132637,
+      "num": 132637,
+      "word": "周深别唱了我自己会哭",
+      "onboard_time": 1738743922,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132576,
       "num": 132576,
       "word": "黎深招财咪",
@@ -6737,6 +6881,14 @@
       "onboard_time": 1738499659,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 131713,
+      "num": 131713,
+      "word": "中吉关系实现跨越式发展",
+      "onboard_time": 1738743503,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 130736,
@@ -6841,14 +6993,6 @@
       "onboard_time": 1738645883,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 128754,
-      "num": 128754,
-      "word": "大海全是水敖丙全是腿",
-      "onboard_time": 1738740623,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 128091,
@@ -7892,7 +8036,7 @@
     },
     {
       "raw_hot": 101243,
-      "num": 101243,
+      "num": 141986,
       "word": "杜兰特争夺战打响了",
       "onboard_time": 1738740081,
       "rank": 48,
@@ -8579,6 +8723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79908,
+      "num": 174090,
+      "word": "王曼昱说要多承担责任",
+      "onboard_time": 1738742542,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79787,
       "num": 79787,
       "word": "妈妈20年前用60盒录像带记录儿子",
@@ -9171,6 +9323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43948,
+      "num": 171602,
+      "word": "内蒙古50余辆车近百人因风吹雪被困",
+      "onboard_time": 1738742902,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43792,
       "num": 606835,
       "word": "大年初五祝你有求币应",
@@ -9507,6 +9667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 29800,
+      "num": 169312,
+      "word": "男子驾车47小时后终于返回广东",
+      "onboard_time": 1738743442,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29678,
       "num": 49429,
       "word": "华山环卫工手抓铁链背对悬崖扫雪",
@@ -9569,6 +9737,14 @@
       "onboard_time": 1738519993,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26404,
+      "num": 781357,
+      "word": "蛇年开工能量包",
+      "onboard_time": 1738728503,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26021,
@@ -9745,6 +9921,14 @@
       "onboard_time": 1738692434,
       "rank": 25,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 17252,
+      "num": 161490,
+      "word": "哪吒2特效量相当于2到3部动画电影",
+      "onboard_time": 1738743861,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 15877,
