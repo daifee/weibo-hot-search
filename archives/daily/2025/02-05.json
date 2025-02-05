@@ -1,6 +1,6 @@
 {
   "startTime": 1738686513636,
-  "endTime": 1738765251833,
+  "endTime": 1738766257792,
   "band_list": [
     {
       "raw_hot": 9238219,
@@ -123,6 +123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1030043,
+      "num": 454538,
+      "word": "哪吒",
+      "onboard_time": 1738755265,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 985035,
       "num": 444482,
       "word": "射雕票房逆跌",
@@ -171,14 +179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 867865,
-      "num": 414513,
-      "word": "哪吒",
-      "onboard_time": 1738755265,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 855311,
       "num": 833684,
       "word": "用DeepSeek炒股的人出现了",
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 773523,
-      "num": 417443,
+      "num": 423428,
       "word": "战狼2",
       "onboard_time": 1738758693,
       "rank": 33,
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 571001,
-      "num": 246417,
+      "num": 301275,
       "word": "游客在日就医5分钟被确诊甲流",
       "onboard_time": 1738762225,
       "rank": 45,
@@ -563,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 454448,
+      "num": 454448,
+      "word": "缅甸断电地区或求助老挝",
+      "onboard_time": 1738762284,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 453233,
       "num": 446866,
       "word": "哪吒2票房爆炸谁赢麻了",
@@ -603,6 +611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 441171,
+      "num": 441171,
+      "word": "周鸿祎回应称自己很委屈",
+      "onboard_time": 1738762345,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 430946,
       "num": 298786,
       "word": "男子心脏骤停急救醒来后要赶去上班",
@@ -619,12 +635,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 413712,
-      "num": 413712,
-      "word": "周鸿祎回应称自己很委屈",
-      "onboard_time": 1738762345,
-      "rank": 39,
-      "category": "互联网"
+      "raw_hot": 411876,
+      "num": 411876,
+      "word": "往往顶级恋爱脑都是出自风象星座",
+      "onboard_time": 1738759824,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 405055,
@@ -689,14 +705,6 @@
       "onboard_time": 1738731745,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 367526,
-      "num": 367526,
-      "word": "往往顶级恋爱脑都是出自风象星座",
-      "onboard_time": 1738759824,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 362902,
@@ -955,6 +963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 265051,
+      "num": 265051,
+      "word": "孙颖莎回应更换出场音乐",
+      "onboard_time": 1738764024,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 264520,
       "num": 422504,
       "word": "日本松下官宣放弃电视机业务",
@@ -969,6 +985,14 @@
       "onboard_time": 1738741101,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 259935,
+      "num": 219199,
+      "word": "光线公告哪吒2票房",
+      "onboard_time": 1738765166,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 257217,
@@ -1017,14 +1041,6 @@
       "onboard_time": 1738722741,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 248181,
-      "num": 248181,
-      "word": "缅甸断电地区或求助老挝",
-      "onboard_time": 1738762284,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 245959,
@@ -1219,6 +1235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218781,
+      "num": 218781,
+      "word": "梁洁没有台词的三分钟",
+      "onboard_time": 1738765292,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217390,
       "num": 217390,
       "word": "节后上班第一天",
@@ -1284,7 +1308,7 @@
     },
     {
       "raw_hot": 207571,
-      "num": 176173,
+      "num": 188651,
       "word": "哪吒2特效老师开机就要2个小时",
       "onboard_time": 1738763903,
       "rank": 31,
@@ -1393,14 +1417,6 @@
       "onboard_time": 1738719021,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 198973,
-      "num": 198973,
-      "word": "孙颖莎回应更换出场音乐",
-      "onboard_time": 1738764024,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 198063,
@@ -1651,14 +1667,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 176403,
-      "num": 172265,
-      "word": "光线公告哪吒2票房",
-      "onboard_time": 1738765166,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 173095,
       "num": 173095,
       "word": "胡歌贴脸开大刘涛",
@@ -1819,6 +1827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162494,
+      "num": 162494,
+      "word": "藕饼",
+      "onboard_time": 1738764745,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 162255,
       "num": 176506,
       "word": "家政工雇主家晕倒称因擦冰箱太臭",
@@ -1936,6 +1952,14 @@
       "word": "哪吒2哪吒1贴贴",
       "onboard_time": 1738666885,
       "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 154760,
+      "num": 154760,
+      "word": "原来申小豹才是普通人视角",
+      "onboard_time": 1738762704,
+      "rank": 46,
       "category": "电影"
     },
     {
@@ -2067,6 +2091,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 142529,
+      "num": 225507,
+      "word": "居民掀翻违停车辆让消防车通过",
+      "onboard_time": 1738763365,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142273,
       "num": 295807,
       "word": "蛇年开工首日",
@@ -2112,14 +2144,6 @@
       "word": "哪吒2啥叫过度魔丸化啊",
       "onboard_time": 1738743382,
       "rank": 43,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 140108,
-      "num": 140108,
-      "word": "藕饼",
-      "onboard_time": 1738764745,
-      "rank": 39,
       "category": "电影"
     },
     {
@@ -2235,6 +2259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132070,
+      "num": 114917,
+      "word": "哪吒贺图",
+      "onboard_time": 1738765767,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 131856,
       "num": 202241,
       "word": "高铁才是真正的中国米其林三星吧",
@@ -2275,28 +2307,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127617,
-      "num": 127617,
-      "word": "原来申小豹才是普通人视角",
-      "onboard_time": 1738762704,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 126604,
       "num": 126604,
       "word": "浓眉入职第一天给独行侠挑刺",
       "onboard_time": 1738723701,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126193,
-      "num": 181547,
-      "word": "居民掀翻违停车辆让消防车通过",
-      "onboard_time": 1738763365,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126149,
@@ -2355,11 +2371,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 122077,
+      "num": 126661,
+      "word": "起底DeepSeek爆火背后的推手",
+      "onboard_time": 1738763604,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 121792,
       "num": 188744,
       "word": "王天辰回应本杰明吻戏",
       "onboard_time": 1738734982,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 121686,
+      "num": 114889,
+      "word": "五福临门集齐了所有晋江梗",
+      "onboard_time": 1738766066,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -2377,6 +2409,14 @@
       "onboard_time": 1738755085,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 119672,
+      "num": 220699,
+      "word": "谷歌删除不将AI用于武器研发的承诺条款",
+      "onboard_time": 1738764325,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 119141,
@@ -2435,6 +2475,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 114971,
+      "num": 114971,
+      "word": "和天秤座相处就像照镜子",
+      "onboard_time": 1738765292,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 114841,
+      "num": 114841,
+      "word": "王俊凯路演票价",
+      "onboard_time": 1738766006,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 114730,
       "num": 236989,
       "word": "和王鹤棣一人一句给中国健儿加油",
@@ -2465,6 +2521,14 @@
       "onboard_time": 1738760184,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113443,
+      "num": 482257,
+      "word": "中国年正在成为世界年",
+      "onboard_time": 1738761925,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112843,
@@ -2507,14 +2571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 109687,
-      "num": 126661,
-      "word": "起底DeepSeek爆火背后的推手",
-      "onboard_time": 1738763604,
-      "rank": 48,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 109633,
       "num": 386301,
       "word": "王鹤棣连续2年入选NBA名人赛",
@@ -2547,14 +2603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 108605,
-      "num": 482257,
-      "word": "中国年正在成为世界年",
-      "onboard_time": 1738761925,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 107226,
       "num": 107226,
       "word": "金价还会越等越贵吗",
@@ -2579,14 +2627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 105645,
-      "num": 126326,
-      "word": "谷歌删除不将AI用于武器研发的承诺条款",
-      "onboard_time": 1738764325,
-      "rank": 49,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 104482,
       "num": 104482,
       "word": "射雕评分5.5",
@@ -2601,6 +2641,14 @@
       "onboard_time": 1738738521,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101510,
+      "num": 177316,
+      "word": "菲律宾拉拢域外国家侵蚀中国海洋权益",
+      "onboard_time": 1738763785,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 101243,
@@ -2755,14 +2803,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 90511,
-      "num": 177316,
-      "word": "菲律宾拉拢域外国家侵蚀中国海洋权益",
-      "onboard_time": 1738763785,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 90140,
       "num": 189268,
       "word": "曝痞幼新恋情",
@@ -2899,12 +2939,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75375,
+      "num": 111307,
+      "word": "中国太空版蔓越莓2年后将结果",
+      "onboard_time": 1738763065,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74979,
       "num": 790179,
       "word": "蛇年开工能量包",
       "onboard_time": 1738728503,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74267,
+      "num": 110825,
+      "word": "自用高光拌饭",
+      "onboard_time": 1738765767,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 73105,
@@ -2961,6 +3017,14 @@
       "onboard_time": 1738675764,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62412,
+      "num": 109713,
+      "word": "中国围棋协会将与韩国棋院共同推动规则合理化",
+      "onboard_time": 1738766006,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 61473,
@@ -3461,6 +3525,9 @@
     },
     {
       "word": "#习近平同巴基斯坦总统会谈#"
+    },
+    {
+      "word": "#中吉山水相依民心相亲#"
     }
   ]
 }
