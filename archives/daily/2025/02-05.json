@@ -1,6 +1,6 @@
 {
   "startTime": 1738686513636,
-  "endTime": 1738730469578,
+  "endTime": 1738732973019,
   "band_list": [
     {
       "raw_hot": 1592043,
@@ -17,6 +17,14 @@
       "onboard_time": 1738684643,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1134745,
+      "num": 1181559,
+      "word": "黄金",
+      "onboard_time": 1738725021,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 1112246,
@@ -65,14 +73,6 @@
       "onboard_time": 1738722620,
       "rank": 1,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 914134,
-      "num": 914134,
-      "word": "黄金",
-      "onboard_time": 1738725021,
-      "rank": 8,
-      "category": "财经"
     },
     {
       "raw_hot": 907300,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 693603,
-      "num": 474165,
+      "num": 569116,
       "word": "哪吒2票房超其它新片总和",
       "onboard_time": 1738725980,
       "rank": 47,
@@ -161,6 +161,14 @@
       "onboard_time": 1738717339,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 644189,
+      "num": 644189,
+      "word": "金饰价格一夜涨11元每克",
+      "onboard_time": 1738729464,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 640469,
@@ -203,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 522677,
+      "num": 462457,
+      "word": "敖丙是一个橘子",
+      "onboard_time": 1738729104,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 506552,
       "num": 506552,
       "word": "影史首位3岁百亿影人",
@@ -235,6 +251,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 464648,
+      "num": 464648,
+      "word": "光线传媒涨停",
+      "onboard_time": 1738731625,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 456898,
+      "num": 456898,
+      "word": "赵丽颖东方明珠合照对比",
+      "onboard_time": 1738729825,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 446519,
       "num": 446519,
       "word": "射雕37万人评分票房近6亿",
@@ -251,12 +283,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 430917,
-      "num": 430917,
-      "word": "敖丙是一个橘子",
-      "onboard_time": 1738729104,
-      "rank": 30,
-      "category": "电影"
+      "raw_hot": 427215,
+      "num": 427215,
+      "word": "美国中情局向全员提出买断计划",
+      "onboard_time": 1738730306,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 416195,
@@ -264,6 +296,14 @@
       "word": "第一次见能入梦杀人的女主",
       "onboard_time": 1738727181,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 415055,
+      "num": 393114,
+      "word": "谁能想到陈哲远搬的是泡沫",
+      "onboard_time": 1738730487,
+      "rank": 10,
       "category": "剧集"
     },
     {
@@ -281,6 +321,14 @@
       "onboard_time": 1738722741,
       "rank": 16,
       "category": "财经"
+    },
+    {
+      "raw_hot": 372875,
+      "num": 372875,
+      "word": "哪吒之魔童闹海票房破51亿",
+      "onboard_time": 1738730905,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 362902,
@@ -313,14 +361,6 @@
       "onboard_time": 1738684643,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 335469,
-      "num": 434365,
-      "word": "金饰价格一夜涨11元每克",
-      "onboard_time": 1738729464,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 318331,
@@ -387,12 +427,36 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 273698,
+      "num": 233081,
+      "word": "朱茵林依晨李一桐三代黄蓉合体封面",
+      "onboard_time": 1738731146,
+      "rank": 21,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 272270,
       "num": 272270,
       "word": "难哄",
       "onboard_time": 1738727062,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 269435,
+      "num": 231162,
+      "word": "哪吒 十年之约",
+      "onboard_time": 1738731745,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 269368,
+      "num": 269368,
+      "word": "医生说上班前三天建议少干活",
+      "onboard_time": 1738731446,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 268233,
@@ -473,6 +537,14 @@
       "onboard_time": 1738725021,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 240548,
+      "num": 240548,
+      "word": "薛飞vs张本智和",
+      "onboard_time": 1738730366,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 240098,
@@ -675,12 +747,28 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 194205,
+      "num": 194205,
+      "word": "刘诗诗原声台词好惊艳",
+      "onboard_time": 1738731924,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194154,
       "num": 194154,
       "word": "看到刘昊然理解古代复宠了",
       "onboard_time": 1738730006,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 193997,
+      "num": 193997,
+      "word": "王鸥试戏就奔着女一号去的",
+      "onboard_time": 1738732405,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 193341,
@@ -713,14 +801,6 @@
       "onboard_time": 1738668204,
       "rank": 21,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 189809,
-      "num": 302933,
-      "word": "赵丽颖东方明珠合照对比",
-      "onboard_time": 1738729825,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 189318,
@@ -811,14 +891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 163647,
-      "num": 163647,
-      "word": "美国中情局向全员提出买断计划",
-      "onboard_time": 1738730306,
-      "rank": 46,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 163194,
       "num": 163194,
       "word": "打工人开始流行在工位健身",
@@ -875,6 +947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 154447,
+      "num": 154447,
+      "word": "美国邮政停收来自中国包裹",
+      "onboard_time": 1738732585,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 154221,
       "num": 154221,
       "word": "小哪吒的配音演员原来是个小姐姐",
@@ -888,6 +968,14 @@
       "word": "焕新非遗计划",
       "onboard_time": 1738718240,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149943,
+      "num": 149943,
+      "word": "卡点下高速触发收费员挥手放行连招",
+      "onboard_time": 1738732166,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -905,6 +993,14 @@
       "onboard_time": 1738728562,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146182,
+      "num": 146182,
+      "word": "恋与深空夏以昼",
+      "onboard_time": 1738732285,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 144312,
@@ -929,6 +1025,14 @@
       "onboard_time": 1738685602,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139457,
+      "num": 174687,
+      "word": "孟子义开工红裙",
+      "onboard_time": 1738732943,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 137296,
@@ -1059,12 +1163,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 114730,
+      "num": 236989,
+      "word": "和王鹤棣一人一句给中国健儿加油",
+      "onboard_time": 1738731565,
+      "rank": 19,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 114153,
       "num": 114153,
       "word": "电视剧六姊妹让亿万观众认识安徽淮南",
       "onboard_time": 1738710194,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113286,
+      "num": 341054,
+      "word": "离家18年归来后能分割配偶的财产吗",
+      "onboard_time": 1738731924,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112455,
@@ -1275,6 +1395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82175,
+      "num": 194378,
+      "word": "殷寿三分醉演到你流泪",
+      "onboard_time": 1738732704,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 81277,
       "num": 157335,
       "word": "合上行李箱又是一年",
@@ -1403,6 +1531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 44536,
+      "num": 195587,
+      "word": "张本智和大满贯出局",
+      "onboard_time": 1738732463,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41621,
       "num": 187728,
       "word": "蛇年开工第1天",
@@ -1411,12 +1547,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38998,
+      "num": 238712,
+      "word": "殷寿请闻仲出征尽显城府",
+      "onboard_time": 1738732045,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 37630,
-      "num": 744632,
+      "num": 792437,
       "word": "2025年中国经济这么干",
       "onboard_time": 1738716320,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37426,
+      "num": 195983,
+      "word": "薛飞挺进男单16强",
+      "onboard_time": 1738732463,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 36685,
@@ -1491,6 +1643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19695,
+      "num": 195247,
+      "word": "钱天一vs伯格斯特隆",
+      "onboard_time": 1738732823,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 18465,
       "num": 117617,
       "word": "瑞典一所学校发生枪击至少5人被击中",
@@ -1552,14 +1712,6 @@
       "word": "混双冰壶中国vs吉尔吉斯斯坦",
       "onboard_time": 1738724302,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 11499,
-      "num": 198757,
-      "word": "薛飞vs张本智和",
-      "onboard_time": 1738730366,
-      "rank": 40,
       "category": "体育"
     },
     {
