@@ -1,6 +1,6 @@
 {
   "startTime": 1738772916136,
-  "endTime": 1738826491127,
+  "endTime": 1738827380584,
   "band_list": [
     {
       "raw_hot": 11663552,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1391397,
-      "num": 366207,
+      "num": 431756,
       "word": "哪吒雕像已从公司门口搬走",
       "onboard_time": 1738820008,
       "rank": 6,
@@ -179,6 +179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 748145,
+      "num": 356135,
+      "word": "哪吒只做1",
+      "onboard_time": 1738823365,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 735677,
       "num": 244180,
       "word": "李马克脱粉",
@@ -201,14 +209,6 @@
       "onboard_time": 1738808062,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 672940,
-      "num": 356135,
-      "word": "哪吒只做1",
-      "onboard_time": 1738823365,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 657323,
@@ -249,6 +249,14 @@
       "onboard_time": 1738810703,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 589652,
+      "num": 360095,
+      "word": "女子拒还26万彩礼让母亲去受拘留",
+      "onboard_time": 1738823725,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 576767,
@@ -321,14 +329,6 @@
       "onboard_time": 1738817610,
       "rank": 20,
       "category": "电影"
-    },
-    {
-      "raw_hot": 524785,
-      "num": 360095,
-      "word": "女子拒还26万彩礼让母亲去受拘留",
-      "onboard_time": 1738823725,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 511597,
@@ -468,7 +468,7 @@
     },
     {
       "raw_hot": 371590,
-      "num": 191040,
+      "num": 302550,
       "word": "王安宇Angelababy上城士水中大片",
       "onboard_time": 1738825043,
       "rank": 23,
@@ -579,6 +579,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 320995,
+      "num": 320995,
+      "word": "钱天一1比3伊藤美诚",
+      "onboard_time": 1738826242,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 316056,
       "num": 220659,
       "word": "祝绪丹配音小石矶娘娘",
@@ -611,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 296554,
+      "num": 296554,
+      "word": "哪吒之魔童闹海爬全球榜",
+      "onboard_time": 1738826663,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 292007,
       "num": 365688,
       "word": "湖人黄蜂交易",
@@ -641,6 +657,14 @@
       "onboard_time": 1738814906,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 275545,
+      "num": 310015,
+      "word": "细支烟已经完全成为了主流",
+      "onboard_time": 1738825883,
+      "rank": 14,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 274041,
@@ -803,6 +827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 211991,
+      "num": 211991,
+      "word": "哪吒2仅用9天登顶中国影史冠军",
+      "onboard_time": 1738824205,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 211859,
       "num": 211859,
       "word": "哪吒2票房超过你好李焕英",
@@ -891,6 +923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193045,
+      "num": 193045,
+      "word": "山河枕",
+      "onboard_time": 1738825944,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191855,
       "num": 191855,
       "word": "赵晓卉的车叫钢铁加鲁鲁",
@@ -905,6 +945,14 @@
       "onboard_time": 1738812804,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187339,
+      "num": 308201,
+      "word": "比亚迪涨停",
+      "onboard_time": 1738826185,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 187067,
@@ -931,6 +979,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 183242,
+      "num": 183242,
+      "word": "猫 姐姐是专门来喂我的嘛",
+      "onboard_time": 1738825582,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 181856,
       "num": 181856,
       "word": "饺子导演不语只是一味画海报",
@@ -945,14 +1001,6 @@
       "onboard_time": 1738808364,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 176772,
-      "num": 176772,
-      "word": "山河枕",
-      "onboard_time": 1738825944,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 176120,
@@ -1075,27 +1123,19 @@
       "category": "电影"
     },
     {
-      "raw_hot": 165821,
-      "num": 165821,
-      "word": "猫 姐姐是专门来喂我的嘛",
-      "onboard_time": 1738825582,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 164042,
-      "num": 164042,
-      "word": "比亚迪涨停",
-      "onboard_time": 1738826185,
-      "rank": 35,
-      "category": "财经"
-    },
-    {
       "raw_hot": 163492,
       "num": 163492,
       "word": "寒潮大风多地降温10摄氏度",
       "onboard_time": 1738805963,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163353,
+      "num": 163353,
+      "word": "女子返工还没出高铁站就看到公司",
+      "onboard_time": 1738827085,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -1145,6 +1185,14 @@
       "onboard_time": 1738816650,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 154667,
+      "num": 154667,
+      "word": "孙颖莎海底捞月",
+      "onboard_time": 1738826185,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 153596,
@@ -1211,14 +1259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143748,
-      "num": 143748,
-      "word": "孙颖莎海底捞月",
-      "onboard_time": 1738826185,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 143690,
       "num": 143690,
       "word": "宁艺卓超级期待亚冬会",
@@ -1233,14 +1273,6 @@
       "onboard_time": 1738775836,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 142270,
-      "num": 177445,
-      "word": "钱天一1比3伊藤美诚",
-      "onboard_time": 1738826242,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 140650,
@@ -1265,14 +1297,6 @@
       "onboard_time": 1738820128,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 138425,
-      "num": 209957,
-      "word": "哪吒2仅用9天登顶中国影史冠军",
-      "onboard_time": 1738824205,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 138282,
@@ -1419,6 +1443,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 125718,
+      "num": 209624,
+      "word": "黄金饰品近三年抽检 618 批次不合格",
+      "onboard_time": 1738826185,
+      "rank": 17,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 123800,
       "num": 210150,
       "word": "他们都不想去勇士",
@@ -1443,6 +1475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 120231,
+      "num": 299827,
+      "word": "马克威廉姆斯加盟湖人",
+      "onboard_time": 1738822585,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119074,
       "num": 208530,
       "word": "泰国切断泰缅边境5处电力供应",
@@ -1465,14 +1505,6 @@
       "onboard_time": 1738771464,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 117047,
-      "num": 117047,
-      "word": "马克威廉姆斯加盟湖人",
-      "onboard_time": 1738822585,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 115800,
@@ -1532,7 +1564,7 @@
     },
     {
       "raw_hot": 111722,
-      "num": 111722,
+      "num": 297688,
       "word": "人和马都是真英雄",
       "onboard_time": 1738824082,
       "rank": 44,
@@ -1545,6 +1577,14 @@
       "onboard_time": 1738761925,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111358,
+      "num": 111358,
+      "word": "A股机器人概念近40股涨停",
+      "onboard_time": 1738827023,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 111260,
@@ -1707,6 +1747,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 67965,
+      "num": 304436,
+      "word": "春节综合征并非年轻人专属",
+      "onboard_time": 1738825642,
+      "rank": 19,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 67743,
       "num": 109863,
       "word": "上班第一天的杭州公交竟然没有班味",
@@ -1851,14 +1899,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 46703,
-      "num": 209624,
-      "word": "黄金饰品近三年抽检 618 批次不合格",
-      "onboard_time": 1738826185,
-      "rank": 17,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 41121,
       "num": 89263,
       "word": "国产电影团建式祝贺哪吒2",
@@ -1889,14 +1929,6 @@
       "onboard_time": 1738769784,
       "rank": 35,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 35758,
-      "num": 207608,
-      "word": "春节综合征并非年轻人专属",
-      "onboard_time": 1738825642,
-      "rank": 19,
-      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 34384,
@@ -1979,20 +2011,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22089,
+      "num": 305408,
+      "word": "鸟叔田小娟将制作新女团",
+      "onboard_time": 1738826602,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 21966,
       "num": 55488,
       "word": "国安提醒节后返岗牢记四不",
       "onboard_time": 1738778774,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21890,
-      "num": 211619,
-      "word": "细支烟已经完全成为了主流",
-      "onboard_time": 1738825883,
-      "rank": 14,
-      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 16964,
@@ -2067,6 +2099,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 12218,
+      "num": 298482,
+      "word": "演的是白客燃的是我",
+      "onboard_time": 1738827202,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 11492,
       "num": 134489,
       "word": "勇士全力追求杜兰特",
@@ -2096,6 +2136,14 @@
       "word": "2025春节档1.87亿人次看电影",
       "onboard_time": 1738792932,
       "rank": 9,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 6914,
+      "num": 190362,
+      "word": "导演饺子开始构思新作品",
+      "onboard_time": 1738827264,
+      "rank": 31,
       "category": "电影"
     }
   ],

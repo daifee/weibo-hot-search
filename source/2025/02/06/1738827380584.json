@@ -1,0 +1,410 @@
+{
+  "runTime": 1738827380584,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7516498,
+        "num": 7516498,
+        "word": "哪吒影史第一",
+        "onboard_time": 1738817490,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 458214,
+        "num": 458214,
+        "word": "雷军曾劝年轻人要尽快学会AI",
+        "onboard_time": 1738808364,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 19857,
+        "num": 432730,
+        "word": "一人一句给中国健儿加油",
+        "onboard_time": 1738813524,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1075208,
+        "num": 431756,
+        "word": "哪吒雕像已从公司门口搬走",
+        "onboard_time": 1738820008,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 423715,
+        "num": 423715,
+        "word": "蒯曼3比0王曼昱",
+        "onboard_time": 1738820547,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320995,
+        "num": 320995,
+        "word": "钱天一1比3伊藤美诚",
+        "onboard_time": 1738826242,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1031948,
+        "num": 320690,
+        "word": "哪吒之魔童闹海登顶中国电影票房榜",
+        "onboard_time": 1738816708,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 748145,
+        "num": 319349,
+        "word": "哪吒只做1",
+        "onboard_time": 1738823365,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 632064,
+        "num": 317790,
+        "word": "哪吒一上午连破两个票房纪录",
+        "onboard_time": 1738820366,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 316028,
+        "num": 316028,
+        "word": "四川献血大王突发脑梗住院",
+        "onboard_time": 1738820848,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1127497,
+        "num": 315590,
+        "word": "小S许雅钧为大S包机",
+        "onboard_time": 1738818210,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 589652,
+        "num": 314096,
+        "word": "女子拒还26万彩礼让母亲去受拘留",
+        "onboard_time": 1738823725,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 486969,
+        "num": 313204,
+        "word": "长津湖",
+        "onboard_time": 1738815206,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 456374,
+        "num": 312289,
+        "word": "哪吒3留太多坑导演绝望",
+        "onboard_time": 1738805123,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 275545,
+        "num": 310015,
+        "word": "细支烟已经完全成为了主流",
+        "onboard_time": 1738825883,
+        "rank": 14,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 201033,
+        "num": 308833,
+        "word": "北京一家长将熟睡女儿落地铁上",
+        "onboard_time": 1738816169,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187339,
+        "num": 308201,
+        "word": "比亚迪涨停",
+        "onboard_time": 1738826185,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 184852,
+        "num": 306444,
+        "word": "有了DeepSeek学语文还有用吗",
+        "onboard_time": 1738811722,
+        "rank": 17,
+        "category": "教育,互联网"
+      },
+      {
+        "raw_hot": 22089,
+        "num": 305408,
+        "word": "鸟叔田小娟将制作新女团",
+        "onboard_time": 1738826602,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67965,
+        "num": 304436,
+        "word": "春节综合征并非年轻人专属",
+        "onboard_time": 1738825642,
+        "rank": 19,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 375563,
+        "num": 303304,
+        "word": "吴京 小哪吒冲冲冲",
+        "onboard_time": 1738814128,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 302550,
+        "num": 302550,
+        "word": "王安宇Angelababy上城士水中大片",
+        "onboard_time": 1738825043,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180710,
+        "num": 302543,
+        "word": "金饰价格两天涨20元每克",
+        "onboard_time": 1738820068,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 321889,
+        "num": 300311,
+        "word": "中国影史票房排名",
+        "onboard_time": 1738816228,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120231,
+        "num": 299827,
+        "word": "马克威廉姆斯加盟湖人",
+        "onboard_time": 1738822585,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12218,
+        "num": 298482,
+        "word": "演的是白客燃的是我",
+        "onboard_time": 1738827202,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92862,
+        "num": 297688,
+        "word": "人和马都是真英雄",
+        "onboard_time": 1738824082,
+        "rank": 26,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 296554,
+        "num": 296554,
+        "word": "哪吒之魔童闹海爬全球榜",
+        "onboard_time": 1738826663,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 266224,
+        "num": 266224,
+        "word": "网购了1只恶犬还没袜子大",
+        "onboard_time": 1738820128,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211991,
+        "num": 211991,
+        "word": "哪吒2仅用9天登顶中国影史冠军",
+        "onboard_time": 1738824205,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193045,
+        "num": 193045,
+        "word": "山河枕",
+        "onboard_time": 1738825944,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 6914,
+        "num": 190362,
+        "word": "导演饺子开始构思新作品",
+        "onboard_time": 1738827264,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188429,
+        "num": 188429,
+        "word": "哪吒2超越长津湖",
+        "onboard_time": 1738817189,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183242,
+        "num": 183242,
+        "word": "猫 姐姐是专门来喂我的嘛",
+        "onboard_time": 1738825582,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170835,
+        "num": 170835,
+        "word": "唐朝诡事录掌心同一个导演",
+        "onboard_time": 1738824264,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166244,
+        "num": 166244,
+        "word": "女子暴饮暴食医生胃里取出10斤食物",
+        "onboard_time": 1738816467,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163353,
+        "num": 163353,
+        "word": "女子返工还没出高铁站就看到公司",
+        "onboard_time": 1738827085,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156443,
+        "num": 156443,
+        "word": "哪吒2票房超战狼2",
+        "onboard_time": 1738813524,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154667,
+        "num": 154667,
+        "word": "孙颖莎海底捞月",
+        "onboard_time": 1738826185,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150361,
+        "num": 150361,
+        "word": "景甜这次演重生爽文女主",
+        "onboard_time": 1738822585,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136884,
+        "num": 136884,
+        "word": "王曼昱止步WTT新加坡大满贯16强",
+        "onboard_time": 1738823844,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129748,
+        "num": 129748,
+        "word": "湖人黄蜂交易",
+        "onboard_time": 1738820666,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125718,
+        "num": 125718,
+        "word": "黄金饰品近三年抽检 618 批次不合格",
+        "onboard_time": 1738826185,
+        "rank": 42,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 117264,
+        "num": 117264,
+        "word": "胖东来回应所售红色内裤掉色过敏",
+        "onboard_time": 1738815388,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115575,
+        "num": 115575,
+        "word": "陈哲远白色橄榄树海外成绩",
+        "onboard_time": 1738825944,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114264,
+        "num": 114264,
+        "word": "哪吒幕后制作组强的可怕",
+        "onboard_time": 1738824564,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111358,
+        "num": 111358,
+        "word": "A股机器人概念近40股涨停",
+        "onboard_time": 1738827023,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 110605,
+        "num": 110605,
+        "word": "教育厅回应男子举报提前开学被回怼",
+        "onboard_time": 1738808062,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105916,
+        "num": 105916,
+        "word": "泽连斯基称无法收回失地拟结束热战",
+        "onboard_time": 1738821746,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105224,
+        "num": 105224,
+        "word": "蒯曼说最后能赢非常不容易",
+        "onboard_time": 1738825582,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#赛场的激情彰显着中国精神#"
+    }
+  }
+}
