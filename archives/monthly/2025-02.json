@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738831307152,
+  "endTime": 1738833814965,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -377,6 +377,14 @@
       "onboard_time": 1738636102,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1996887,
+      "num": 199902,
+      "word": "妻子双肺全白丈夫含泪卖车不放弃",
+      "onboard_time": 1738832305,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1990747,
@@ -976,6 +984,14 @@
       "word": "哪吒2 影史前三",
       "onboard_time": 1738756345,
       "rank": 6,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1089908,
+      "num": 452451,
+      "word": "奶龙票房超过成龙了",
+      "onboard_time": 1738830743,
+      "rank": 13,
       "category": "电影"
     },
     {
@@ -1803,6 +1819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 665290,
+      "num": 665290,
+      "word": "官方通报张家界一游客点2个菜844元",
+      "onboard_time": 1738830265,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 664744,
       "num": 643532,
       "word": "石矶娘娘",
@@ -1897,6 +1921,14 @@
       "onboard_time": 1738488558,
       "rank": 39,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 647375,
+      "num": 270050,
+      "word": "肖战粉丝路人大人们请明鉴",
+      "onboard_time": 1738832363,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 646674,
@@ -3379,14 +3411,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 406765,
-      "num": 329436,
-      "word": "奶龙票房超过成龙了",
-      "onboard_time": 1738830743,
-      "rank": 13,
-      "category": "电影"
-    },
-    {
       "raw_hot": 405748,
       "num": 375028,
       "word": "格莱美红毯",
@@ -3569,6 +3593,14 @@
       "onboard_time": 1738675283,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 389254,
+      "num": 265148,
+      "word": "胖东来下架红内裤品牌",
+      "onboard_time": 1738831645,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 388366,
@@ -4187,6 +4219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 330067,
+      "num": 386916,
+      "word": "实拍泰缅边境地区断电第1晚",
+      "onboard_time": 1738828463,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 329825,
       "num": 329825,
       "word": "樊振东送惠英红球拍的编码",
@@ -4201,14 +4241,6 @@
       "onboard_time": 1738469059,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 329267,
-      "num": 386916,
-      "word": "实拍泰缅边境地区断电第1晚",
-      "onboard_time": 1738828463,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 329170,
@@ -4329,6 +4361,14 @@
       "onboard_time": 1738420699,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 317590,
+      "num": 188325,
+      "word": "1000人民币在美国贫民窟吃的早餐",
+      "onboard_time": 1738832305,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 316783,
@@ -4809,6 +4849,14 @@
       "onboard_time": 1738734382,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 280495,
+      "num": 280495,
+      "word": "菲律宾南部一直升机坠毁致多人死亡",
+      "onboard_time": 1738831704,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 279845,
@@ -5491,6 +5539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 243459,
+      "num": 243459,
+      "word": "哪吒2官方玩梗",
+      "onboard_time": 1738833084,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 242395,
       "num": 140274,
       "word": "吐排片",
@@ -5849,6 +5905,14 @@
       "onboard_time": 1738438871,
       "rank": 17,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 226902,
+      "num": 199902,
+      "word": "敖闰姑姑真的好漂亮",
+      "onboard_time": 1738833564,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 226858,
@@ -6435,6 +6499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207892,
+      "num": 200049,
+      "word": "马天宇晒三人行夜戏照",
+      "onboard_time": 1738830562,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207832,
       "num": 207832,
       "word": "哪吒自己超越了自己",
@@ -6763,14 +6835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 201900,
-      "num": 277613,
-      "word": "官方通报张家界一游客点2个菜844元",
-      "onboard_time": 1738830265,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 201886,
       "num": 363867,
       "word": "28岁河马离世饲养员手写讣告",
@@ -6843,12 +6907,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 200049,
-      "num": 200049,
-      "word": "马天宇晒三人行夜戏照",
-      "onboard_time": 1738830562,
-      "rank": 30,
-      "category": "剧集"
+      "raw_hot": 199912,
+      "num": 199912,
+      "word": "美国或将在中东打开潘多拉魔盒",
+      "onboard_time": 1738831645,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 199881,
@@ -7147,6 +7211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193940,
+      "num": 193940,
+      "word": "任嘉伦亲临洛杉矶现场观战",
+      "onboard_time": 1738833743,
+      "rank": 25,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 193706,
       "num": 193706,
       "word": "卢昱晓王星越互谈彼此网络印象",
@@ -7225,6 +7297,14 @@
       "onboard_time": 1738557284,
       "rank": 13,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 191988,
+      "num": 191988,
+      "word": "哪吒头像",
+      "onboard_time": 1738832484,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 191883,
@@ -7505,6 +7585,14 @@
       "onboard_time": 1738327158,
       "rank": 13,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 187457,
+      "num": 187457,
+      "word": "张凌赫张婧仪被异性恋吓晕",
+      "onboard_time": 1738833143,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 187100,
@@ -7961,6 +8049,14 @@
       "onboard_time": 1738647983,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178257,
+      "num": 178257,
+      "word": "邓为粉丝包场破10万场",
+      "onboard_time": 1738833084,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 178175,
@@ -8947,6 +9043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 160930,
+      "num": 160930,
+      "word": "选刘昊然演秦风的陈思诚简直是天才",
+      "onboard_time": 1738833022,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 160915,
       "num": 160915,
       "word": "恋与深空夏以昼",
@@ -8969,6 +9073,14 @@
       "onboard_time": 1738726100,
       "rank": 19,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 160600,
+      "num": 188716,
+      "word": "中方回应韩国一些政府部门屏蔽DeepSeek",
+      "onboard_time": 1738832243,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 160583,
@@ -10987,6 +11099,14 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 127374,
+      "num": 525418,
+      "word": "哈尔滨将正式进入亚冬时间",
+      "onboard_time": 1738829962,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127333,
       "num": 127333,
       "word": "瓜子",
@@ -11619,6 +11739,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 117184,
+      "num": 117184,
+      "word": "导演回应哪吒3什么时候上映",
+      "onboard_time": 1738833324,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 116672,
       "num": 158627,
       "word": "推动中泰命运共同体建设走深走实",
@@ -12113,6 +12241,14 @@
       "onboard_time": 1738482438,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110282,
+      "num": 192848,
+      "word": "祁煜百万森林",
+      "onboard_time": 1738833564,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 110045,
@@ -13083,19 +13219,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94025,
+      "num": 149912,
+      "word": "看张泽禹沉浸式可以呼吸",
+      "onboard_time": 1738832363,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93968,
       "num": 116461,
       "word": "林诗栋3比0安宰贤",
       "onboard_time": 1738827982,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 93916,
-      "num": 525418,
-      "word": "哈尔滨将正式进入亚冬时间",
-      "onboard_time": 1738829962,
-      "rank": 2,
       "category": "体育"
     },
     {
@@ -14963,6 +15099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38248,
+      "num": 199904,
+      "word": "官方回应四川阿坝山火暂无伤亡",
+      "onboard_time": 1738832843,
+      "rank": 19,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 38085,
       "num": 671725,
       "word": "第九届亚冬会火种成功采集",
@@ -15313,6 +15457,14 @@
       "onboard_time": 1738798038,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 28242,
+      "num": 150881,
+      "word": "年胃不能停",
+      "onboard_time": 1738832603,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 28138,
@@ -16257,6 +16409,9 @@
     },
     {
       "word": "#习近平同文莱苏丹哈桑纳尔会谈#"
+    },
+    {
+      "word": "#推动中泰命运共同体建设走深走实#"
     }
   ]
 }
