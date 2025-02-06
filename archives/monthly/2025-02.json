@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738860182353,
+  "endTime": 1738862383754,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -5091,6 +5091,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 286940,
+      "num": 286940,
+      "word": "大批妙瓦底电诈园受害者被救",
+      "onboard_time": 1738858223,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 286925,
       "num": 493662,
       "word": "敖丙小鼻嘎",
@@ -8768,14 +8776,6 @@
       "word": "春节假期开始倒数",
       "onboard_time": 1738468578,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 177488,
-      "num": 211013,
-      "word": "大批妙瓦底电诈园受害者被救",
-      "onboard_time": 1738858223,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -15875,12 +15875,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 48734,
+      "num": 81429,
+      "word": "六姊妹剧评六到飞起",
+      "onboard_time": 1738861875,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 48675,
       "num": 161950,
       "word": "近200个国家和地区庆祝春节",
       "onboard_time": 1738769784,
       "rank": 33,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 48308,
+      "num": 81423,
+      "word": "威海的海边美成了油画",
+      "onboard_time": 1738860558,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48284,
@@ -15992,6 +16008,14 @@
       "word": "车头是生活车尾是故乡",
       "onboard_time": 1738602559,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44367,
+      "num": 81394,
+      "word": "女孩吃糖葫芦粘掉近3万元种植牙",
+      "onboard_time": 1738861816,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -17051,6 +17075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 15517,
+      "num": 179582,
+      "word": "中国正成为原创性创新的策源地",
+      "onboard_time": 1738861756,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15366,
       "num": 76993,
       "word": "哪吒2动画制作公司成粉丝打卡点",
@@ -17513,6 +17545,14 @@
       "onboard_time": 1738730427,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 5455,
+      "num": 81385,
+      "word": "专家建议开工第一天少干点活",
+      "onboard_time": 1738862355,
+      "rank": 49,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

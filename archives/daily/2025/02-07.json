@@ -1,6 +1,6 @@
 {
   "startTime": 1738859204643,
-  "endTime": 1738860182353,
+  "endTime": 1738862383754,
   "band_list": [
     {
       "raw_hot": 1030517,
@@ -99,6 +99,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 286940,
+      "num": 286940,
+      "word": "大批妙瓦底电诈园受害者被救",
+      "onboard_time": 1738858223,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 276959,
       "num": 276959,
       "word": "网友爸爸去世多年微信账号突然消失",
@@ -176,14 +184,6 @@
       "word": "停车费8830元把女子吓住了",
       "onboard_time": 1738843165,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 177488,
-      "num": 211013,
-      "word": "大批妙瓦底电诈园受害者被救",
-      "onboard_time": 1738858223,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -403,6 +403,38 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58665,
+      "num": 81468,
+      "word": "教育厅通报男子举报中学提前开学",
+      "onboard_time": 1738844124,
+      "rank": 40,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 48734,
+      "num": 81429,
+      "word": "六姊妹剧评六到飞起",
+      "onboard_time": 1738861875,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 48308,
+      "num": 81423,
+      "word": "威海的海边美成了油画",
+      "onboard_time": 1738860558,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44367,
+      "num": 81394,
+      "word": "女孩吃糖葫芦粘掉近3万元种植牙",
+      "onboard_time": 1738861816,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26381,
       "num": 197687,
       "word": "今年立春后北京还会下雪吗",
@@ -425,6 +457,22 @@
       "onboard_time": 1738858941,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 15517,
+      "num": 179582,
+      "word": "中国正成为原创性创新的策源地",
+      "onboard_time": 1738861756,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 5455,
+      "num": 81385,
+      "word": "专家建议开工第一天少干点活",
+      "onboard_time": 1738862355,
+      "rank": 49,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
