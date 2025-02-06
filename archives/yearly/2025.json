@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738840734974,
+  "endTime": 1738841757927,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -944,6 +944,14 @@
       "word": "敖瑞鹏发了三个红包",
       "onboard_time": 1738060044,
       "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3123367,
+      "num": 332744,
+      "word": "范思哲取关",
+      "onboard_time": 1738839504,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -2392,14 +2400,6 @@
       "word": "泰警方称将调查王星是否涉犯罪",
       "onboard_time": 1736311821,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1911463,
-      "num": 1671179,
-      "word": "这次熙媛又是交换了什么呢",
-      "onboard_time": 1738563392,
-      "rank": 15,
       "category": "艺人"
     }
   ],

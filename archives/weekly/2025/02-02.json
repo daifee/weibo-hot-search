@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738840734974,
+  "endTime": 1738841757927,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -217,6 +217,14 @@
       "onboard_time": 1738814128,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 3123367,
+      "num": 332744,
+      "word": "范思哲取关",
+      "onboard_time": 1738839504,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 3068014,
@@ -569,14 +577,6 @@
       "onboard_time": 1738803803,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1524403,
-      "num": 332744,
-      "word": "范思哲取关",
-      "onboard_time": 1738839504,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1496518,
@@ -1363,6 +1363,14 @@
       "category": "互联网,国际时政"
     },
     {
+      "raw_hot": 750501,
+      "num": 385166,
+      "word": "饺子导演画了灵珠版哪吒魔丸版敖丙",
+      "onboard_time": 1738836563,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 749672,
       "num": 991422,
       "word": "立春躲春的正确方式",
@@ -1523,14 +1531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 691734,
-      "num": 352787,
-      "word": "饺子导演画了灵珠版哪吒魔丸版敖丙",
-      "onboard_time": 1738836563,
-      "rank": 13,
-      "category": "电影"
-    },
-    {
       "raw_hot": 682048,
       "num": 682048,
       "word": "教育厅回应男子举报提前开学被回怼",
@@ -1561,6 +1561,14 @@
       "onboard_time": 1738423158,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 675110,
+      "num": 370384,
+      "word": "哪吒2票房超60亿元",
+      "onboard_time": 1738835543,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 674160,
@@ -1641,14 +1649,6 @@
       "onboard_time": 1738489998,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 656488,
-      "num": 321512,
-      "word": "哪吒2票房超60亿元",
-      "onboard_time": 1738835543,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 655379,
@@ -2403,6 +2403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 497372,
+      "num": 306299,
+      "word": "悬赏5万的走失宠物狗遭烹饪分食",
+      "onboard_time": 1738840404,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 496694,
       "num": 305730,
       "word": "特朗普下令对索马里发动空袭",
@@ -2643,6 +2651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 461172,
+      "num": 461172,
+      "word": "DeepSeek已暂停API服务充值",
+      "onboard_time": 1738839623,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 461115,
       "num": 461115,
       "word": "男子撞人身亡后转移130万卖房款",
@@ -2657,6 +2673,14 @@
       "onboard_time": 1738761085,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 459077,
+      "num": 459077,
+      "word": "马龙跟李现说这么破费",
+      "onboard_time": 1738839984,
+      "rank": 18,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 457783,
@@ -3331,14 +3355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 369400,
-      "num": 369400,
-      "word": "DeepSeek已暂停API服务充值",
-      "onboard_time": 1738839623,
-      "rank": 4,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 367683,
       "num": 522702,
       "word": "韩国棋院变更争议规则并告知中方",
@@ -3764,7 +3780,7 @@
     },
     {
       "raw_hot": 325103,
-      "num": 253684,
+      "num": 283399,
       "word": "白鹿包场仙台有树",
       "onboard_time": 1738836383,
       "rank": 25,
@@ -4156,7 +4172,7 @@
     },
     {
       "raw_hot": 286546,
-      "num": 232619,
+      "num": 269175,
       "word": "哪吒2国外评分8.1分",
       "onboard_time": 1738837764,
       "rank": 31,
@@ -4337,6 +4353,14 @@
       "onboard_time": 1738492939,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 271707,
+      "num": 271707,
+      "word": "赵丽颖站姐拍的哪吒敖丙",
+      "onboard_time": 1738839263,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 271673,
@@ -4627,14 +4651,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 251603,
-      "num": 225409,
-      "word": "赵丽颖站姐拍的哪吒敖丙",
-      "onboard_time": 1738839263,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 251428,
       "num": 290804,
       "word": "人人人人人你人人人人人",
@@ -4843,6 +4859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 243445,
+      "num": 243445,
+      "word": "陈哲远 要开麦了是吗",
+      "onboard_time": 1738840523,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 243280,
       "num": 243280,
       "word": "DYG 回家吧",
@@ -4907,6 +4931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240105,
+      "num": 240105,
+      "word": "男子在黄山跳伞撞山被行政处罚",
+      "onboard_time": 1738836203,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 240098,
       "num": 190813,
       "word": "血氧浓度低于90%很危险",
@@ -4947,14 +4979,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 236456,
-      "num": 236456,
-      "word": "马龙跟李现说这么破费",
-      "onboard_time": 1738839984,
-      "rank": 18,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 236412,
       "num": 236412,
       "word": "球球爸",
@@ -4993,14 +5017,6 @@
       "onboard_time": 1738677985,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 234861,
-      "num": 234861,
-      "word": "男子在黄山跳伞撞山被行政处罚",
-      "onboard_time": 1738836203,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 234355,
@@ -5529,6 +5545,14 @@
       "onboard_time": 1738767504,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212127,
+      "num": 212127,
+      "word": "三代世仇的两个家庭和解了",
+      "onboard_time": 1738840885,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 211991,
@@ -6115,6 +6139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 197414,
+      "num": 197414,
+      "word": "当我运动八个月后",
+      "onboard_time": 1738840885,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 197381,
       "num": 197381,
       "word": "张小斐侧腹肌",
@@ -6472,6 +6504,14 @@
       "word": "乌尔善回应被贴脸开大",
       "onboard_time": 1738756584,
       "rank": 36,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 189742,
+      "num": 189742,
+      "word": "太乙真人为啥用藕重塑哪吒",
+      "onboard_time": 1738837644,
+      "rank": 38,
       "category": "电影"
     },
     {
@@ -6915,12 +6955,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 179471,
-      "num": 179471,
-      "word": "太乙真人为啥用藕重塑哪吒",
-      "onboard_time": 1738837644,
-      "rank": 38,
-      "category": "电影"
+      "raw_hot": 179853,
+      "num": 341774,
+      "word": "中方坚定维护中国企业合法权益",
+      "onboard_time": 1738838904,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 179253,
@@ -7259,14 +7299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 171840,
-      "num": 171840,
-      "word": "悬赏5万的走失宠物狗遭烹饪分食",
-      "onboard_time": 1738840404,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 171767,
       "num": 171055,
       "word": "正房的地位妾室的气量勾栏的做派",
@@ -7345,6 +7377,14 @@
       "onboard_time": 1738743922,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170291,
+      "num": 170291,
+      "word": "李飞飞团队用不到50美元训练出新模型",
+      "onboard_time": 1738841722,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 170172,
@@ -7521,14 +7561,6 @@
       "onboard_time": 1738624515,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 166584,
-      "num": 341774,
-      "word": "中方坚定维护中国企业合法权益",
-      "onboard_time": 1738838904,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 166520,
@@ -7945,6 +7977,14 @@
       "onboard_time": 1738477517,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158086,
+      "num": 158086,
+      "word": "王楚钦一箭穿心",
+      "onboard_time": 1738841722,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 157953,
@@ -8515,6 +8555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 146454,
+      "num": 146454,
+      "word": "哈尔滨亚冬会明日开幕",
+      "onboard_time": 1738841484,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146218,
       "num": 146218,
       "word": "暗恋一个人10多年什么体验",
@@ -8553,14 +8601,6 @@
       "onboard_time": 1738454654,
       "rank": 35,
       "category": "国际时政,财经"
-    },
-    {
-      "raw_hot": 145412,
-      "num": 145412,
-      "word": "陈哲远 要开麦了是吗",
-      "onboard_time": 1738840523,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 145375,
@@ -8987,6 +9027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138772,
+      "num": 138772,
+      "word": "田蓉被查",
+      "onboard_time": 1738838603,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138760,
       "num": 302770,
       "word": "流感的严重性被很多人低估了",
@@ -9180,7 +9228,7 @@
     },
     {
       "raw_hot": 134993,
-      "num": 148349,
+      "num": 305470,
       "word": "目击者称阿坝山火烧得一片通红",
       "onboard_time": 1738839263,
       "rank": 40,
@@ -9667,6 +9715,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 125718,
+      "num": 125718,
+      "word": "两年前买的50g金条已赚1万元",
+      "onboard_time": 1738841545,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 125556,
       "num": 125556,
       "word": "为了相亲把照片设置成了红包封面",
@@ -9755,14 +9811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123755,
-      "num": 123755,
-      "word": "田蓉被查",
-      "onboard_time": 1738838603,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 123733,
       "num": 123733,
       "word": "医生说节后综合征两周后会自己消失",
@@ -9833,6 +9881,14 @@
       "onboard_time": 1738678164,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122776,
+      "num": 298795,
+      "word": "掌心男女主开局抢人头",
+      "onboard_time": 1738840943,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 122717,
@@ -9913,6 +9969,14 @@
       "onboard_time": 1738517774,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 121460,
+      "num": 121460,
+      "word": "男主一句话女主八百个白眼",
+      "onboard_time": 1738841301,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 121230,
@@ -10585,6 +10649,14 @@
       "onboard_time": 1738716801,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109027,
+      "num": 276276,
+      "word": "亚冬会赛程",
+      "onboard_time": 1738840642,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 108955,
@@ -11408,14 +11480,6 @@
       "word": "詹姆斯事先不知道交易",
       "onboard_time": 1738481957,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 89372,
-      "num": 151321,
-      "word": "亚冬会赛程",
-      "onboard_time": 1738840642,
-      "rank": 39,
       "category": "体育"
     },
     {
@@ -12291,6 +12355,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 57323,
+      "num": 304001,
+      "word": "陈幸同3比0斯佐科斯",
+      "onboard_time": 1738841125,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57279,
       "num": 252201,
       "word": "金智秀告黑",
@@ -12737,6 +12809,14 @@
       "onboard_time": 1738468458,
       "rank": 2,
       "category": "民生新闻,正能量"
+    },
+    {
+      "raw_hot": 42363,
+      "num": 290439,
+      "word": "薛飞2比3A勒布伦",
+      "onboard_time": 1738841125,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 41621,

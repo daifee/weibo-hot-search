@@ -1,0 +1,410 @@
+{
+  "runTime": 1738841757927,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3021260,
+        "num": 3021260,
+        "word": "哪吒影史第一",
+        "onboard_time": 1738817490,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 656087,
+        "num": 656087,
+        "word": "官方通报张家界一游客点2个菜844元",
+        "onboard_time": 1738830265,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98678,
+        "num": 533416,
+        "word": "哈尔滨将正式进入亚冬时间",
+        "onboard_time": 1738829962,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 983558,
+        "num": 498357,
+        "word": "哪吒之魔童闹海登顶中国电影票房榜",
+        "onboard_time": 1738816708,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 461172,
+        "num": 461172,
+        "word": "DeepSeek已暂停API服务充值",
+        "onboard_time": 1738839623,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 459077,
+        "num": 459077,
+        "word": "马龙跟李现说这么破费",
+        "onboard_time": 1738839984,
+        "rank": 5,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 911405,
+        "num": 396581,
+        "word": "哪吒",
+        "onboard_time": 1738840224,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 750501,
+        "num": 385166,
+        "word": "饺子导演画了灵珠版哪吒魔丸版敖丙",
+        "onboard_time": 1738836563,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 675110,
+        "num": 370384,
+        "word": "哪吒2票房超60亿元",
+        "onboard_time": 1738835543,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 309080,
+        "num": 309080,
+        "word": "实拍泰缅边境地区断电第1晚",
+        "onboard_time": 1738828463,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 3123367,
+        "num": 308941,
+        "word": "范思哲取关",
+        "onboard_time": 1738839504,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 523164,
+        "num": 307912,
+        "word": "小S许雅钧为大S包机",
+        "onboard_time": 1738818210,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497372,
+        "num": 306299,
+        "word": "悬赏5万的走失宠物狗遭烹饪分食",
+        "onboard_time": 1738840404,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108044,
+        "num": 305470,
+        "word": "目击者称阿坝山火烧得一片通红",
+        "onboard_time": 1738839263,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57323,
+        "num": 304001,
+        "word": "陈幸同3比0斯佐科斯",
+        "onboard_time": 1738841125,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303504,
+        "num": 303504,
+        "word": "女生错位表演生吞列车",
+        "onboard_time": 1738834044,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 490852,
+        "num": 300648,
+        "word": "奶龙票房超过成龙了",
+        "onboard_time": 1738830743,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122776,
+        "num": 298795,
+        "word": "掌心男女主开局抢人头",
+        "onboard_time": 1738840943,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 369618,
+        "num": 296793,
+        "word": "虞书欣又请粉丝吃清补凉",
+        "onboard_time": 1738836563,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42363,
+        "num": 290439,
+        "word": "薛飞2比3A勒布伦",
+        "onboard_time": 1738841125,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 669625,
+        "num": 288434,
+        "word": "妻子双肺全白丈夫含泪卖车不放弃",
+        "onboard_time": 1738832305,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320594,
+        "num": 285630,
+        "word": "导演回应哪吒3什么时候上映",
+        "onboard_time": 1738833324,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 283399,
+        "num": 283399,
+        "word": "白鹿包场仙台有树",
+        "onboard_time": 1738836383,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281938,
+        "num": 281938,
+        "word": "王一博到林芝了",
+        "onboard_time": 1738835785,
+        "rank": 23,
+        "category": "旅游,艺人"
+      },
+      {
+        "raw_hot": 109027,
+        "num": 276276,
+        "word": "亚冬会赛程",
+        "onboard_time": 1738840642,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271707,
+        "num": 271707,
+        "word": "赵丽颖站姐拍的哪吒敖丙",
+        "onboard_time": 1738839263,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 269175,
+        "num": 269175,
+        "word": "哪吒2国外评分8.1分",
+        "onboard_time": 1738837764,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 243445,
+        "num": 243445,
+        "word": "陈哲远 要开麦了是吗",
+        "onboard_time": 1738840523,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240105,
+        "num": 240105,
+        "word": "男子在黄山跳伞撞山被行政处罚",
+        "onboard_time": 1738836203,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237259,
+        "num": 237259,
+        "word": "DYG 回家吧",
+        "onboard_time": 1738839383,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 382631,
+        "num": 233117,
+        "word": "张凌赫张婧仪被异性恋吓晕",
+        "onboard_time": 1738833143,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212127,
+        "num": 212127,
+        "word": "三代世仇的两个家庭和解了",
+        "onboard_time": 1738840885,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204902,
+        "num": 204902,
+        "word": "哪吒只做1",
+        "onboard_time": 1738823365,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197414,
+        "num": 197414,
+        "word": "当我运动八个月后",
+        "onboard_time": 1738840885,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189742,
+        "num": 189742,
+        "word": "太乙真人为啥用藕重塑哪吒",
+        "onboard_time": 1738837644,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179853,
+        "num": 179853,
+        "word": "中方坚定维护中国企业合法权益",
+        "onboard_time": 1738838904,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 179722,
+        "num": 179722,
+        "word": "美国或将在中东打开潘多拉魔盒",
+        "onboard_time": 1738831645,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 170291,
+        "num": 170291,
+        "word": "李飞飞团队用不到50美元训练出新模型",
+        "onboard_time": 1738841722,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 159016,
+        "num": 159016,
+        "word": "长津湖",
+        "onboard_time": 1738815206,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158086,
+        "num": 158086,
+        "word": "王楚钦一箭穿心",
+        "onboard_time": 1738841722,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156610,
+        "num": 156610,
+        "word": "原来不止我一个人有过马路羞耻症",
+        "onboard_time": 1738836563,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146454,
+        "num": 146454,
+        "word": "哈尔滨亚冬会明日开幕",
+        "onboard_time": 1738841484,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146139,
+        "num": 146139,
+        "word": "李瓒说我现在是个废人了",
+        "onboard_time": 1738840344,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138772,
+        "num": 138772,
+        "word": "田蓉被查",
+        "onboard_time": 1738838603,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130493,
+        "num": 130493,
+        "word": "SM给演唱会空席P图",
+        "onboard_time": 1738835423,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128871,
+        "num": 128871,
+        "word": "哪吒2官方玩梗",
+        "onboard_time": 1738833084,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125718,
+        "num": 125718,
+        "word": "两年前买的50g金条已赚1万元",
+        "onboard_time": 1738841545,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 121460,
+        "num": 121460,
+        "word": "男主一句话女主八百个白眼",
+        "onboard_time": 1738841301,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118971,
+        "num": 118971,
+        "word": "小伙因砸女友手机背上犯罪记录",
+        "onboard_time": 1738828163,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117613,
+        "num": 117613,
+        "word": "湖南卫视元宵喜乐会阵容公布",
+        "onboard_time": 1738837344,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中泰命运共同体建设走深走实#"
+    }
+  }
+}
