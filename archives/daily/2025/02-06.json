@@ -1,6 +1,6 @@
 {
   "startTime": 1738772916136,
-  "endTime": 1738834617645,
+  "endTime": 1738837438423,
   "band_list": [
     {
       "raw_hot": 11663552,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1996887,
-      "num": 304960,
+      "num": 324739,
       "word": "妻子双肺全白丈夫含泪卖车不放弃",
       "onboard_time": 1738832305,
       "rank": 20,
@@ -275,12 +275,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 612773,
+      "num": 366072,
+      "word": "导演回应哪吒3什么时候上映",
+      "onboard_time": 1738833324,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 607998,
       "num": 657326,
       "word": "金价",
       "onboard_time": 1738810703,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 599119,
+      "num": 299579,
+      "word": "张凌赫张婧仪被异性恋吓晕",
+      "onboard_time": 1738833143,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 589652,
@@ -320,6 +336,14 @@
       "word": "饺子称团队没通宵但加班到四五点",
       "onboard_time": 1738827803,
       "rank": 13,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 552730,
+      "num": 357651,
+      "word": "哪吒2官方玩梗",
+      "onboard_time": 1738833084,
+      "rank": 17,
       "category": "电影"
     },
     {
@@ -427,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 471249,
+      "num": 471249,
+      "word": "王一博到林芝了",
+      "onboard_time": 1738835785,
+      "rank": 4,
+      "category": "旅游,艺人"
+    },
+    {
       "raw_hot": 467498,
       "num": 467498,
       "word": "比亚迪涨停",
@@ -475,6 +507,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 449529,
+      "num": 352787,
+      "word": "饺子导演画了灵珠版哪吒魔丸版敖丙",
+      "onboard_time": 1738836563,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 441167,
       "num": 256601,
       "word": "张铭恩与女友牵手逛街",
@@ -499,12 +539,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 409203,
+      "num": 355056,
+      "word": "胡兵说我和瞿颖都是恋爱脑",
+      "onboard_time": 1738834822,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 407201,
       "num": 407201,
       "word": "战狼2",
       "onboard_time": 1738758693,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 405325,
+      "num": 350885,
+      "word": "胖东来下架红内裤品牌",
+      "onboard_time": 1738831645,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 402345,
@@ -515,20 +571,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 401328,
+      "num": 320825,
+      "word": "1000人民币在美国贫民窟吃的早餐",
+      "onboard_time": 1738832305,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 390158,
       "num": 390158,
       "word": "细支烟已经完全成为了主流",
       "onboard_time": 1738825883,
       "rank": 14,
       "category": "健康医疗,民生新闻"
-    },
-    {
-      "raw_hot": 389254,
-      "num": 328518,
-      "word": "胖东来下架红内裤品牌",
-      "onboard_time": 1738831645,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 385442,
@@ -561,6 +617,14 @@
       "onboard_time": 1738825043,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 370346,
+      "num": 386916,
+      "word": "实拍泰缅边境地区断电第1晚",
+      "onboard_time": 1738828463,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 369746,
@@ -635,6 +699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 341510,
+      "num": 341510,
+      "word": "美国或将在中东打开潘多拉魔盒",
+      "onboard_time": 1738831645,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 335864,
       "num": 315746,
       "word": "射雕英雄传侠之大者票房破6亿",
@@ -659,14 +731,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 330067,
-      "num": 386916,
-      "word": "实拍泰缅边境地区断电第1晚",
-      "onboard_time": 1738828463,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 329825,
       "num": 329825,
       "word": "樊振东送惠英红球拍的编码",
@@ -675,28 +739,28 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 328612,
-      "num": 301853,
-      "word": "1000人民币在美国贫民窟吃的早餐",
-      "onboard_time": 1738832305,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 328512,
-      "num": 328512,
-      "word": "哪吒2官方玩梗",
-      "onboard_time": 1738833084,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 320995,
       "num": 367238,
       "word": "钱天一1比3伊藤美诚",
       "onboard_time": 1738826242,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 318463,
+      "num": 318463,
+      "word": "SM给演唱会空席P图",
+      "onboard_time": 1738835423,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 317652,
+      "num": 317652,
+      "word": "哪吒2票房超60亿元",
+      "onboard_time": 1738835543,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 316056,
@@ -723,12 +787,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 299579,
-      "num": 299579,
-      "word": "张凌赫张婧仪被异性恋吓晕",
-      "onboard_time": 1738833143,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 297803,
+      "num": 363548,
+      "word": "女生错位表演生吞列车",
+      "onboard_time": 1738834044,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 297042,
@@ -772,7 +836,7 @@
     },
     {
       "raw_hot": 280495,
-      "num": 328590,
+      "num": 333686,
       "word": "菲律宾南部一直升机坠毁致多人死亡",
       "onboard_time": 1738831704,
       "rank": 9,
@@ -803,6 +867,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 269455,
+      "num": 260549,
+      "word": "敖闰姑姑真的好漂亮",
+      "onboard_time": 1738833564,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 268359,
       "num": 268359,
       "word": "生完孩子几年后才能轻松一点",
@@ -824,14 +896,6 @@
       "word": "导演饺子开始构思新作品",
       "onboard_time": 1738827264,
       "rank": 31,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 260549,
-      "num": 260549,
-      "word": "敖闰姑姑真的好漂亮",
-      "onboard_time": 1738833564,
-      "rank": 21,
       "category": "电影"
     },
     {
@@ -907,14 +971,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 225582,
-      "num": 312971,
-      "word": "美国或将在中东打开潘多拉魔盒",
-      "onboard_time": 1738831645,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 224062,
       "num": 224062,
       "word": "割胎小米SU7嫌疑人已被刑拘",
@@ -929,6 +985,14 @@
       "onboard_time": 1738809862,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 222433,
+      "num": 222433,
+      "word": "白鹿包场仙台有树",
+      "onboard_time": 1738836383,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 222397,
@@ -1075,6 +1139,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 201715,
+      "num": 339182,
+      "word": "中方回应韩国一些政府部门屏蔽DeepSeek",
+      "onboard_time": 1738832243,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 199012,
       "num": 199012,
       "word": "任嘉伦亲临洛杉矶现场观战",
@@ -1139,6 +1211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189590,
+      "num": 189590,
+      "word": "张新成冰窖预制冷白皮",
+      "onboard_time": 1738836203,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 189304,
       "num": 311002,
       "word": "唐探1900一张迟到145年的合影",
@@ -1169,6 +1249,14 @@
       "onboard_time": 1738780933,
       "rank": 36,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 183291,
+      "num": 183291,
+      "word": "原来不止我一个人有过马路羞耻症",
+      "onboard_time": 1738836563,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 183242,
@@ -1203,6 +1291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177253,
+      "num": 177253,
+      "word": "刘昊然人心中的偏爱是一座大山",
+      "onboard_time": 1738836683,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 176120,
       "num": 176120,
       "word": "蛇年第一场寒潮来袭",
@@ -1227,6 +1323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174847,
+      "num": 198646,
+      "word": "男子在黄山跳伞撞山被行政处罚",
+      "onboard_time": 1738836203,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174656,
       "num": 224643,
       "word": "王楚钦林诗栋3比1瑞典组合",
@@ -1249,14 +1353,6 @@
       "onboard_time": 1738801763,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 173920,
-      "num": 328567,
-      "word": "中方回应韩国一些政府部门屏蔽DeepSeek",
-      "onboard_time": 1738832243,
-      "rank": 29,
-      "category": "互联网"
     },
     {
       "raw_hot": 173357,
@@ -1411,14 +1507,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 157206,
-      "num": 132957,
-      "word": "导演回应哪吒3什么时候上映",
-      "onboard_time": 1738833324,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 156381,
       "num": 156381,
       "word": "特朗普下令审查联合国教科文组织",
@@ -1465,6 +1553,14 @@
       "onboard_time": 1738825404,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152000,
+      "num": 152000,
+      "word": "大娘子这是什么鬼热闹",
+      "onboard_time": 1738837164,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 150873,
@@ -1699,6 +1795,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 128947,
+      "num": 128947,
+      "word": "逆水寒手游",
+      "onboard_time": 1738835903,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 128240,
       "num": 128240,
       "word": "孙颖莎王艺迪3比0大藤沙月横井咲樱",
@@ -1716,7 +1820,7 @@
     },
     {
       "raw_hot": 127374,
-      "num": 525418,
+      "num": 586985,
       "word": "哈尔滨将正式进入亚冬时间",
       "onboard_time": 1738829962,
       "rank": 2,
@@ -1851,6 +1955,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 112244,
+      "num": 112244,
+      "word": "谢楠也来祝贺吒儿了",
+      "onboard_time": 1738834883,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 112048,
       "num": 112048,
       "word": "泽连斯基称无法收回失地拟结束热战",
@@ -1881,6 +1993,14 @@
       "onboard_time": 1738761925,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111503,
+      "num": 150140,
+      "word": "蒯曼说赢了曼昱非常意外",
+      "onboard_time": 1738835723,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 111358,
@@ -1971,6 +2091,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 100923,
+      "num": 100923,
+      "word": "马龙进入国家队二十二周年",
+      "onboard_time": 1738831883,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100157,
       "num": 100157,
       "word": "为中国冰雪加油",
@@ -2011,14 +2139,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 98075,
-      "num": 98075,
-      "word": "女生错位表演生吞列车",
-      "onboard_time": 1738834044,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 94497,
       "num": 172937,
       "word": "唐探系列是一场巨大的callback",
@@ -2049,6 +2169,14 @@
       "onboard_time": 1738752087,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89510,
+      "num": 330900,
+      "word": "虞书欣又请粉丝吃清补凉",
+      "onboard_time": 1738836563,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 82620,
@@ -2097,6 +2225,14 @@
       "onboard_time": 1738757604,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 75264,
+      "num": 235777,
+      "word": "22年前的马龙",
+      "onboard_time": 1738833982,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 75155,
@@ -2249,6 +2385,14 @@
       "onboard_time": 1738791252,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 52932,
+      "num": 177716,
+      "word": "湖南卫视元宵喜乐会阵容公布",
+      "onboard_time": 1738837344,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 50670,
