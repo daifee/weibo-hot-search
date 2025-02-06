@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738845783421,
+  "endTime": 1738846708210,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -571,6 +571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1565499,
+      "num": 1455244,
+      "word": "停车费8830元把女子吓住了",
+      "onboard_time": 1738843165,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1560657,
       "num": 1560657,
       "word": "东契奇加盟湖人",
@@ -657,14 +665,6 @@
       "onboard_time": 1738515616,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1455244,
-      "num": 1455244,
-      "word": "停车费8830元把女子吓住了",
-      "onboard_time": 1738843165,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1434391,
@@ -811,20 +811,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1281274,
+      "num": 1275614,
+      "word": "李心艾官宣怀孕",
+      "onboard_time": 1738843345,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1280237,
       "num": 1280237,
       "word": "哪吒之魔童闹海总票房破56亿",
       "onboard_time": 1738801822,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1275614,
-      "num": 1275614,
-      "word": "李心艾官宣怀孕",
-      "onboard_time": 1738843345,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1260770,
@@ -1411,6 +1411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 845939,
+      "num": 425438,
+      "word": "范思哲 宁艺卓",
+      "onboard_time": 1738843945,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 844095,
       "num": 1135055,
       "word": "哪吒导演回应啃老三年",
@@ -1553,14 +1561,6 @@
       "onboard_time": 1738418059,
       "rank": 20,
       "category": "电影"
-    },
-    {
-      "raw_hot": 783573,
-      "num": 425438,
-      "word": "范思哲 宁艺卓",
-      "onboard_time": 1738843945,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 782847,
@@ -2075,12 +2075,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 632502,
+      "num": 623296,
+      "word": "马龙跟李现说这么破费",
+      "onboard_time": 1738839984,
+      "rank": 18,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 632377,
       "num": 632377,
       "word": "赵本山纽约演出",
       "onboard_time": 1738480217,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 631861,
+      "num": 415073,
+      "word": "徐艺洋配音小石矶娘娘",
+      "onboard_time": 1738843463,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 631579,
@@ -2115,14 +2131,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 623296,
-      "num": 623296,
-      "word": "马龙跟李现说这么破费",
-      "onboard_time": 1738839984,
-      "rank": 18,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 622995,
       "num": 590505,
       "word": "吴京 流浪地球3",
@@ -2145,6 +2153,14 @@
       "onboard_time": 1738769365,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 617766,
+      "num": 423083,
+      "word": "赵丽颖粉丝恭喜我姐爱豆登顶",
+      "onboard_time": 1738843284,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 617251,
@@ -2432,14 +2448,6 @@
       "word": "哪吒2官方玩梗",
       "onboard_time": 1738833084,
       "rank": 17,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 551784,
-      "num": 423083,
-      "word": "赵丽颖粉丝恭喜我姐爱豆登顶",
-      "onboard_time": 1738843284,
-      "rank": 14,
       "category": "电影"
     },
     {
@@ -3491,14 +3499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 415073,
-      "num": 415073,
-      "word": "徐艺洋配音小石矶娘娘",
-      "onboard_time": 1738843463,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 414587,
       "num": 258527,
       "word": "丁禹兮粉丝买光线股票赚了",
@@ -3833,6 +3833,14 @@
       "onboard_time": 1738828463,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 381027,
+      "num": 381027,
+      "word": "王楚钦3比0卡尔伯格",
+      "onboard_time": 1738845504,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 380663,
@@ -4419,6 +4427,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 329502,
+      "num": 329502,
+      "word": "当我运动八个月后",
+      "onboard_time": 1738840885,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 329344,
       "num": 329344,
       "word": "张杰谢娜带双胞胎女儿游迪士尼",
@@ -4545,14 +4561,6 @@
       "onboard_time": 1738826242,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 320645,
-      "num": 320645,
-      "word": "当我运动八个月后",
-      "onboard_time": 1738840885,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 318463,
@@ -5659,6 +5667,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 247096,
+      "num": 247096,
+      "word": "虞书欣双轨黄裙造型",
+      "onboard_time": 1738842925,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 246088,
       "num": 246088,
       "word": "哪吒之魔童闹海票房突破45亿",
@@ -5673,14 +5689,6 @@
       "onboard_time": 1738587987,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 246050,
-      "num": 246050,
-      "word": "虞书欣双轨黄裙造型",
-      "onboard_time": 1738842925,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 245959,
@@ -6080,6 +6088,14 @@
       "word": "哪吒2总票房升至第5与哪吒1会合",
       "onboard_time": 1738668144,
       "rank": 8,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 230521,
+      "num": 230521,
+      "word": "哪吒2放映时间预计会延长到6个月",
+      "onboard_time": 1738846403,
+      "rank": 27,
       "category": "电影"
     },
     {
@@ -6531,6 +6547,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 216115,
+      "num": 305725,
+      "word": "哈尔滨亚冬会明日开幕",
+      "onboard_time": 1738841484,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 215882,
       "num": 215882,
       "word": "敖丙小果冻",
@@ -6897,6 +6921,14 @@
       "onboard_time": 1738413438,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205902,
+      "num": 358373,
+      "word": "孙颖莎vs波尔卡诺娃",
+      "onboard_time": 1738845922,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 205769,
@@ -7731,6 +7763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189962,
+      "num": 189962,
+      "word": "教育厅通报男子举报中学提前开学",
+      "onboard_time": 1738844124,
+      "rank": 36,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 189920,
       "num": 189920,
       "word": "再婚的爸强势的妈破碎的她",
@@ -7979,14 +8019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 186169,
-      "num": 247075,
-      "word": "王楚钦3比0卡尔伯格",
-      "onboard_time": 1738845504,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 186116,
       "num": 478160,
       "word": "哪吒里的结界兽意外爆火",
@@ -8067,14 +8099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 185232,
-      "num": 185232,
-      "word": "教育厅通报男子举报中学提前开学",
-      "onboard_time": 1738844124,
-      "rank": 36,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 184936,
       "num": 184936,
       "word": "相关部门正调查乘客飞机捡鞭炮事件",
@@ -8113,6 +8137,14 @@
       "onboard_time": 1738638323,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184316,
+      "num": 203524,
+      "word": "马塞洛宣布退役",
+      "onboard_time": 1738845263,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 184265,
@@ -8451,6 +8483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 177834,
+      "num": 246107,
+      "word": "一汽大众神车一口价",
+      "onboard_time": 1738845263,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 177776,
       "num": 177776,
       "word": "黄景瑜现偶成绩",
@@ -8497,14 +8537,6 @@
       "onboard_time": 1738637245,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 176911,
-      "num": 246107,
-      "word": "一汽大众神车一口价",
-      "onboard_time": 1738845263,
-      "rank": 29,
-      "category": "汽车"
     },
     {
       "raw_hot": 176872,
@@ -9000,14 +9032,6 @@
       "word": "林诗栋回应与王楚钦搭档男双",
       "onboard_time": 1738575448,
       "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 168756,
-      "num": 305725,
-      "word": "哈尔滨亚冬会明日开幕",
-      "onboard_time": 1738841484,
-      "rank": 41,
       "category": "体育"
     },
     {
@@ -9536,6 +9560,14 @@
       "word": "女孩辞岁一晚跑几百家收入2000多",
       "onboard_time": 1738492577,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160269,
+      "num": 160269,
+      "word": "福宝给大家送福了",
+      "onboard_time": 1738845683,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -10139,14 +10171,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 149696,
-      "num": 149696,
-      "word": "马塞洛宣布退役",
-      "onboard_time": 1738845263,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 149581,
       "num": 149581,
       "word": "封神路演",
@@ -10707,6 +10731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 141772,
+      "num": 141772,
+      "word": "哪吒2登顶饺子能赚多少钱",
+      "onboard_time": 1738846463,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 141613,
       "num": 141613,
       "word": "陈哲远希望大家都能感受到李瓒的美好",
@@ -10721,6 +10753,14 @@
       "onboard_time": 1738748005,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141475,
+      "num": 246363,
+      "word": "四川一女子遛狗时被边牧犬跳起扑咬",
+      "onboard_time": 1738844962,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141108,
@@ -11155,6 +11195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 133856,
+      "num": 133856,
+      "word": "海南蜈支洲岛已暂停现场售票",
+      "onboard_time": 1738840584,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133451,
       "num": 133451,
       "word": "A股蛇年首个交易日",
@@ -11201,14 +11249,6 @@
       "onboard_time": 1738501760,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 132945,
-      "num": 132945,
-      "word": "福宝给大家送福了",
-      "onboard_time": 1738845683,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132891,
@@ -11961,14 +12001,6 @@
       "onboard_time": 1738840943,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 122717,
-      "num": 122717,
-      "word": "海南蜈支洲岛已暂停现场售票",
-      "onboard_time": 1738840584,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122604,
@@ -14427,14 +14459,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 76441,
-      "num": 246363,
-      "word": "四川一女子遛狗时被边牧犬跳起扑咬",
-      "onboard_time": 1738844962,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 76316,
       "num": 400800,
       "word": "林诗栋3比1高兹",
@@ -15459,6 +15483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46026,
+      "num": 441454,
+      "word": "亚冬会中国队赛程看点",
+      "onboard_time": 1738845324,
+      "rank": 10,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 45943,
       "num": 107715,
       "word": "黄晓明与陈凯歌一家聚餐",
@@ -15697,14 +15729,6 @@
       "onboard_time": 1738651342,
       "rank": 32,
       "category": "财经"
-    },
-    {
-      "raw_hot": 39002,
-      "num": 441454,
-      "word": "亚冬会中国队赛程看点",
-      "onboard_time": 1738845324,
-      "rank": 10,
-      "category": "正能量"
     },
     {
       "raw_hot": 38998,
