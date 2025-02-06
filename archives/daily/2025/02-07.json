@@ -1,6 +1,6 @@
 {
   "startTime": 1738859204643,
-  "endTime": 1738859204643,
+  "endTime": 1738860182353,
   "band_list": [
     {
       "raw_hot": 1030517,
@@ -11,6 +11,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 951327,
+      "num": 380483,
+      "word": "骑手因包装破损被华为店索赔一万五",
+      "onboard_time": 1738858462,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 659131,
+      "num": 659131,
+      "word": "39名妙瓦底电诈园区中国受害者被解救",
+      "onboard_time": 1738857441,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 650966,
       "num": 650966,
       "word": "建议别在晚上做重大决定",
@@ -19,28 +35,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 596829,
-      "num": 596829,
-      "word": "哪吒2登顶饺子能赚多少钱",
-      "onboard_time": 1738846463,
-      "rank": 3,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 589675,
-      "num": 529352,
+      "raw_hot": 617155,
+      "num": 617155,
       "word": "哪吒2进全球影史单一市场票房榜前二",
       "onboard_time": 1738855585,
       "rank": 6,
       "category": "电影"
     },
     {
-      "raw_hot": 549591,
-      "num": 549591,
-      "word": "39名妙瓦底电诈园区中国受害者被解救",
-      "onboard_time": 1738857441,
-      "rank": 4,
-      "category": "民生新闻"
+      "raw_hot": 596829,
+      "num": 596829,
+      "word": "哪吒2登顶饺子能赚多少钱",
+      "onboard_time": 1738846463,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 521025,
@@ -57,14 +65,6 @@
       "onboard_time": 1738816708,
       "rank": 10,
       "category": "电影"
-    },
-    {
-      "raw_hot": 380483,
-      "num": 380483,
-      "word": "骑手因包装破损被华为店索赔一万五",
-      "onboard_time": 1738858462,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 354356,
@@ -179,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177488,
+      "num": 211013,
+      "word": "大批妙瓦底电诈园受害者被救",
+      "onboard_time": 1738858223,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176205,
       "num": 164296,
       "word": "哪吒2海外上映已场场爆满",
@@ -193,6 +201,14 @@
       "onboard_time": 1738849166,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146681,
+      "num": 329207,
+      "word": "李飞飞团队50美元复刻DeepSeek真相",
+      "onboard_time": 1738858101,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 146521,
@@ -267,14 +283,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 118870,
-      "num": 129425,
-      "word": "大批妙瓦底电诈园受害者被救",
-      "onboard_time": 1738858223,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111226,
       "num": 129384,
       "word": "王楚钦这球太牛了",
@@ -296,6 +304,22 @@
       "word": "王俊凯你们年轻人",
       "onboard_time": 1738856303,
       "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 107534,
+      "num": 107534,
+      "word": "和杨紫祝愿中国健儿再创佳绩",
+      "onboard_time": 1738859359,
+      "rank": 36,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 104524,
+      "num": 107531,
+      "word": "哪吒之魔童闹海预测票房超100亿",
+      "onboard_time": 1738859778,
+      "rank": 37,
       "category": "电影"
     },
     {
@@ -331,7 +355,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 76794,
+      "raw_hot": 78260,
       "num": 129201,
       "word": "马斯克炮轰美国国际开发署",
       "onboard_time": 1738850365,
@@ -345,6 +369,14 @@
       "onboard_time": 1738856724,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75647,
+      "num": 129102,
+      "word": "湖南卫视连发6条微博官宣周深",
+      "onboard_time": 1738842204,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 73954,
@@ -363,20 +395,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 71245,
-      "num": 129102,
-      "word": "湖南卫视连发6条微博官宣周深",
-      "onboard_time": 1738842204,
+      "raw_hot": 59730,
+      "num": 107495,
+      "word": "寒潮之下各地到底有多冷",
+      "onboard_time": 1738843945,
       "rank": 49,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 68262,
-      "num": 329207,
-      "word": "李飞飞团队50美元复刻DeepSeek真相",
-      "onboard_time": 1738858101,
-      "rank": 14,
-      "category": "剧集"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26381,
@@ -387,15 +411,15 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 21592,
-      "num": 610431,
+      "raw_hot": 26031,
+      "num": 620264,
       "word": "三个关键词概括第九届亚冬会",
       "onboard_time": 1738846282,
       "rank": 2,
       "category": "体育"
     },
     {
-      "raw_hot": 11434,
+      "raw_hot": 23698,
       "num": 197109,
       "word": "陈哲远牌创可贴",
       "onboard_time": 1738858941,
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#中泰一家亲历久弥新#"
+    },
+    {
+      "word": "#习近平将出席哈尔滨第九届亚冬会开幕式#"
     }
   ]
 }
