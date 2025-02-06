@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738881526541,
+  "endTime": 1738884196328,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1281,6 +1281,14 @@
       "onboard_time": 1738820547,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 836851,
+      "num": 842298,
+      "word": "大批妙瓦底电诈园受害者被救",
+      "onboard_time": 1738858223,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 834076,
@@ -3475,14 +3483,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 374785,
-      "num": 493368,
-      "word": "大批妙瓦底电诈园受害者被救",
-      "onboard_time": 1738858223,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 373930,
       "num": 373930,
       "word": "哪吒 十年之约",
@@ -4209,6 +4209,14 @@
       "onboard_time": 1738557164,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 302915,
+      "num": 302915,
+      "word": "顾客收到2个菜844元全额退款",
+      "onboard_time": 1738862955,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 302690,
@@ -5579,6 +5587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 224000,
+      "num": 224000,
+      "word": "教育厅通报男子举报中学提前开学",
+      "onboard_time": 1738844124,
+      "rank": 36,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 223523,
       "num": 223523,
       "word": "肖战现场回应愤怒的脏脏包",
@@ -5729,14 +5745,6 @@
       "onboard_time": 1738664424,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 218257,
-      "num": 218257,
-      "word": "教育厅通报男子举报中学提前开学",
-      "onboard_time": 1738844124,
-      "rank": 36,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 217390,
@@ -6089,6 +6097,14 @@
       "onboard_time": 1738555610,
       "rank": 19,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 206341,
+      "num": 128932,
+      "word": "哪吒2海外上映购票观众发声",
+      "onboard_time": 1738879092,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 206149,
@@ -9819,6 +9835,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 133283,
+      "num": 133283,
+      "word": "外交部回应中国春节电影海外热映",
+      "onboard_time": 1738880532,
+      "rank": 29,
+      "category": "国内时政,电影"
+    },
+    {
       "raw_hot": 133180,
       "num": 133180,
       "word": "哪吒幕后制作组强的可怕",
@@ -10433,14 +10457,6 @@
       "onboard_time": 1738665984,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 123308,
-      "num": 151904,
-      "word": "顾客收到2个菜844元全额退款",
-      "onboard_time": 1738862955,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 123224,
@@ -12451,6 +12467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78790,
+      "num": 78790,
+      "word": "胡兵到底是来乘机还是走秀的啊",
+      "onboard_time": 1738876091,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78534,
       "num": 306121,
       "word": "孙颖莎王艺迪3比0塞尔维亚组合",
@@ -12617,6 +12641,14 @@
       "onboard_time": 1738653083,
       "rank": 13,
       "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 71900,
+      "num": 81423,
+      "word": "威海的海边美成了油画",
+      "onboard_time": 1738860558,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71580,
@@ -12979,6 +13011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59325,
+      "num": 81394,
+      "word": "女孩吃糖葫芦粘掉近3万元种植牙",
+      "onboard_time": 1738861816,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59196,
       "num": 497601,
       "word": "2025年春节假期交通出行火热",
@@ -13057,6 +13097,14 @@
       "onboard_time": 1738850126,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56488,
+      "num": 56488,
+      "word": "白月梵星有效播放量破15亿",
+      "onboard_time": 1738884076,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 55759,
@@ -13209,22 +13257,6 @@
       "onboard_time": 1738472478,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 52949,
-      "num": 81394,
-      "word": "女孩吃糖葫芦粘掉近3万元种植牙",
-      "onboard_time": 1738861816,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 52940,
-      "num": 81423,
-      "word": "威海的海边美成了油画",
-      "onboard_time": 1738860558,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 52231,
@@ -13475,12 +13507,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43839,
-      "num": 43839,
-      "word": "胡兵到底是来乘机还是走秀的啊",
-      "onboard_time": 1738876091,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 44162,
+      "num": 50123,
+      "word": "中方再回应特朗普称将接管加沙",
+      "onboard_time": 1738863434,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 43792,
@@ -13585,14 +13617,6 @@
       "onboard_time": 1738797496,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 41096,
-      "num": 41096,
-      "word": "哪吒2海外上映购票观众发声",
-      "onboard_time": 1738879092,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 41061,
@@ -13763,14 +13787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 35159,
-      "num": 47528,
-      "word": "中方再回应特朗普称将接管加沙",
-      "onboard_time": 1738863434,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 35077,
       "num": 135313,
       "word": "双马尾角色中的上古真神",
@@ -13849,14 +13865,6 @@
       "onboard_time": 1738420759,
       "rank": 2,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 32652,
-      "num": 33787,
-      "word": "外交部回应中国春节电影海外热映",
-      "onboard_time": 1738880532,
-      "rank": 29,
-      "category": "国内时政,电影"
     },
     {
       "raw_hot": 32553,
@@ -13955,6 +13963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29128,
+      "num": 49985,
+      "word": "声生不息",
+      "onboard_time": 1738882033,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 28882,
       "num": 171410,
       "word": "资中辟谣扔鞭炮男孩家属追责网帖",
@@ -14009,6 +14025,14 @@
       "onboard_time": 1738761025,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 27788,
+      "num": 49975,
+      "word": "孙颖莎谈对阵何卓佳",
+      "onboard_time": 1738869492,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 27698,
@@ -14171,6 +14195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25195,
+      "num": 49952,
+      "word": "周深巴黎演绎中国风戏腔",
+      "onboard_time": 1738859958,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25186,
       "num": 213274,
       "word": "亚冬会开幕式中国代表团旗手",
@@ -14209,6 +14241,14 @@
       "onboard_time": 1738867032,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 24970,
+      "num": 49937,
+      "word": "中国电影成为世界看中国的新窗口",
+      "onboard_time": 1738882995,
+      "rank": 49,
+      "category": "电影,民生新闻"
     },
     {
       "raw_hot": 24742,
@@ -14323,14 +14363,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 22162,
-      "num": 29013,
-      "word": "周深巴黎演绎中国风戏腔",
-      "onboard_time": 1738859958,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 22089,
       "num": 305408,
       "word": "鸟叔田小娟将制作新女团",
@@ -14361,14 +14393,6 @@
       "onboard_time": 1738434492,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21406,
-      "num": 28972,
-      "word": "孙颖莎谈对阵何卓佳",
-      "onboard_time": 1738869492,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 20671,
