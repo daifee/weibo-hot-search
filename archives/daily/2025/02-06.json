@@ -1,7 +1,15 @@
 {
   "startTime": 1738772916136,
-  "endTime": 1738798541700,
+  "endTime": 1738806127694,
   "band_list": [
+    {
+      "raw_hot": 1531930,
+      "num": 263996,
+      "word": "男子连续开车10小时到杭州差点截肢",
+      "onboard_time": 1738803803,
+      "rank": 20,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1393800,
       "num": 1393800,
@@ -9,6 +17,14 @@
       "onboard_time": 1738767446,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1280237,
+      "num": 1280237,
+      "word": "哪吒之魔童闹海总票房破56亿",
+      "onboard_time": 1738801822,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 1176015,
@@ -28,11 +44,19 @@
     },
     {
       "raw_hot": 863814,
-      "num": 221687,
+      "num": 262565,
       "word": "沈腾方否认和林允恋情",
       "onboard_time": 1738746503,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 774780,
+      "num": 774780,
+      "word": "哪吒3留太多坑导演绝望",
+      "onboard_time": 1738805123,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 735677,
@@ -67,11 +91,43 @@
       "category": "电影"
     },
     {
+      "raw_hot": 550850,
+      "num": 542156,
+      "word": "战狼",
+      "onboard_time": 1738802123,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 548237,
+      "num": 548237,
+      "word": "小男孩误入彩虹滑道被滑圈铲飞",
+      "onboard_time": 1738804341,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 535691,
+      "num": 535691,
+      "word": "ChatGPT搜索功能今起人人可用",
+      "onboard_time": 1738801822,
+      "rank": 7,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 459119,
-      "num": 243156,
+      "num": 288038,
       "word": "哪吒票房",
       "onboard_time": 1738745064,
       "rank": 11,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 454780,
+      "num": 454780,
+      "word": "金吒木吒绝望的住校生",
+      "onboard_time": 1738801884,
+      "rank": 8,
       "category": "电影"
     },
     {
@@ -83,12 +139,44 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 437307,
+      "num": 437307,
+      "word": "NBA交易",
+      "onboard_time": 1738803981,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 402345,
+      "num": 442769,
+      "word": "节后第二天状态",
+      "onboard_time": 1738801642,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 385442,
       "num": 238904,
       "word": "BLACKPINK新世巡预告",
       "onboard_time": 1738769664,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 382872,
+      "num": 382872,
+      "word": "美媒称DeepSeek已无法被封杀",
+      "onboard_time": 1738801763,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 365877,
+      "num": 365877,
+      "word": "梅婷回复沈月",
+      "onboard_time": 1738801703,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 358823,
@@ -99,12 +187,44 @@
       "category": "电影"
     },
     {
+      "raw_hot": 319174,
+      "num": 319174,
+      "word": "丁禹兮包场请大家看哪吒",
+      "onboard_time": 1738805423,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 316056,
       "num": 220659,
       "word": "祝绪丹配音小石矶娘娘",
       "onboard_time": 1738766245,
       "rank": 21,
       "category": "电影,艺人"
+    },
+    {
+      "raw_hot": 271673,
+      "num": 271673,
+      "word": "哪吒2票房有望破中国影史记录",
+      "onboard_time": 1738770143,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 268359,
+      "num": 268359,
+      "word": "生完孩子几年后才能轻松一点",
+      "onboard_time": 1738767446,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 261757,
+      "num": 261757,
+      "word": "男子恋爱1年不知24岁女友竟有俩娃",
+      "onboard_time": 1738804341,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 249060,
@@ -124,11 +244,27 @@
     },
     {
       "raw_hot": 237746,
-      "num": 237746,
+      "num": 267248,
       "word": "游客在日就医5分钟被确诊甲流",
       "onboard_time": 1738762225,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 217583,
+      "num": 217583,
+      "word": "射雕英雄传侠之大者票房破6亿",
+      "onboard_time": 1738803924,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 212392,
+      "num": 212392,
+      "word": "男子放出400斤白牦牛给亲戚看",
+      "onboard_time": 1738767504,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 211859,
@@ -155,12 +291,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 204564,
-      "num": 204564,
-      "word": "生完孩子几年后才能轻松一点",
-      "onboard_time": 1738767446,
-      "rank": 27,
-      "category": "情感"
+      "raw_hot": 203515,
+      "num": 203515,
+      "word": "终于知道陈哲远为什么哭了",
+      "onboard_time": 1738801703,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 185554,
+      "num": 266170,
+      "word": "近20个国家将春节定为法定假日",
+      "onboard_time": 1738780933,
+      "rank": 36,
+      "category": "正能量"
     },
     {
       "raw_hot": 179650,
@@ -171,12 +315,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 176120,
+      "num": 176120,
+      "word": "蛇年第一场寒潮来袭",
+      "onboard_time": 1738802543,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174369,
+      "num": 174369,
+      "word": "哪吒2制作成本超5亿",
+      "onboard_time": 1738801763,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 172709,
-      "num": 130189,
+      "num": 133760,
       "word": "日本的甲流可能被乙流取代",
       "onboard_time": 1738790351,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 172298,
+      "num": 165282,
+      "word": "哪吒2官方真的别太敬业",
+      "onboard_time": 1738805183,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 170963,
@@ -192,6 +360,30 @@
       "word": "雄鹿奇才交易",
       "onboard_time": 1738771702,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 166365,
+      "num": 166365,
+      "word": "北京这次大风有一定极端性",
+      "onboard_time": 1738805843,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163492,
+      "num": 163492,
+      "word": "寒潮大风多地降温10摄氏度",
+      "onboard_time": 1738805963,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162614,
+      "num": 217745,
+      "word": "勇士热火交易",
+      "onboard_time": 1738805602,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -211,8 +403,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146525,
+      "num": 146525,
+      "word": "李昀锐把自己哄成胚胎了",
+      "onboard_time": 1738803924,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142531,
-      "num": 89612,
+      "num": 137378,
       "word": "阿根廷宣布将退出世界卫生组织",
       "onboard_time": 1738775836,
       "rank": 30,
@@ -225,6 +425,14 @@
       "onboard_time": 1738750524,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 140516,
+      "num": 140516,
+      "word": "国家安全机关发布安全提示",
+      "onboard_time": 1738805065,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135865,
@@ -243,28 +451,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 132268,
-      "num": 132268,
-      "word": "近20个国家将春节定为法定假日",
-      "onboard_time": 1738780933,
-      "rank": 36,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 132155,
       "num": 132155,
       "word": "浪姐6阵容",
       "onboard_time": 1738751665,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 132139,
-      "num": 132139,
-      "word": "男子放出400斤白牦牛给亲戚看",
-      "onboard_time": 1738767504,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131268,
@@ -280,6 +472,14 @@
       "word": "乌尔善给观众的一封回信",
       "onboard_time": 1738776196,
       "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 129009,
+      "num": 129009,
+      "word": "哪吒2贺图",
+      "onboard_time": 1738801763,
+      "rank": 43,
       "category": "电影"
     },
     {
@@ -305,6 +505,14 @@
       "onboard_time": 1738771464,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 115337,
+      "num": 115337,
+      "word": "专家预测金价还会继续冲高",
+      "onboard_time": 1738801763,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 113942,
@@ -339,12 +547,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 101058,
+      "num": 101058,
+      "word": "大侦探",
+      "onboard_time": 1738803504,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99793,
       "num": 132082,
       "word": "孙颖莎回应更换出场音乐",
       "onboard_time": 1738764024,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99587,
+      "num": 99587,
+      "word": "立春后为啥还这么冷",
+      "onboard_time": 1738803981,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 94497,
@@ -379,6 +603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 81067,
+      "num": 830669,
+      "word": "中国年正在成为世界年",
+      "onboard_time": 1738761925,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79680,
       "num": 132002,
       "word": "Angelababy婚纱剧照",
@@ -393,14 +625,6 @@
       "onboard_time": 1738770564,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 75855,
-      "num": 830669,
-      "word": "中国年正在成为世界年",
-      "onboard_time": 1738761925,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75669,
@@ -577,6 +801,14 @@
       "onboard_time": 1738786932,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25772,
+      "num": 209799,
+      "word": "宁忠岩圆梦旗手",
+      "onboard_time": 1738805963,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 25186,

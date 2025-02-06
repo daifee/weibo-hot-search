@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738798541700,
+  "endTime": 1738806127694,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -499,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1531930,
+      "num": 263996,
+      "word": "男子连续开车10小时到杭州差点截肢",
+      "onboard_time": 1738803803,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1496518,
       "num": 1139978,
       "word": "汪小菲今天从泰国赶回台湾",
@@ -617,6 +625,14 @@
       "onboard_time": 1738579768,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1280237,
+      "num": 1280237,
+      "word": "哪吒之魔童闹海总票房破56亿",
+      "onboard_time": 1738801822,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 1260770,
@@ -1144,6 +1160,14 @@
       "word": "射雕豆瓣5.5",
       "onboard_time": 1738586129,
       "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 774780,
+      "num": 774780,
+      "word": "哪吒3留太多坑导演绝望",
+      "onboard_time": 1738805123,
+      "rank": 3,
       "category": "电影"
     },
     {
@@ -1811,11 +1835,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 550850,
+      "num": 542156,
+      "word": "战狼",
+      "onboard_time": 1738802123,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 549528,
       "num": 601876,
       "word": "春节戒断反应",
       "onboard_time": 1738713798,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 548237,
+      "num": 548237,
+      "word": "小男孩误入彩虹滑道被滑圈铲飞",
+      "onboard_time": 1738804341,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -1881,6 +1921,14 @@
       "onboard_time": 1738466178,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 535691,
+      "num": 535691,
+      "word": "ChatGPT搜索功能今起人人可用",
+      "onboard_time": 1738801822,
+      "rank": 7,
+      "category": "互联网"
     },
     {
       "raw_hot": 535424,
@@ -2251,6 +2299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 454780,
+      "num": 454780,
+      "word": "金吒木吒绝望的住校生",
+      "onboard_time": 1738801884,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 454448,
       "num": 454448,
       "word": "缅甸断电地区或求助老挝",
@@ -2385,6 +2441,14 @@
       "onboard_time": 1738416378,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 437307,
+      "num": 437307,
+      "word": "NBA交易",
+      "onboard_time": 1738803981,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 435758,
@@ -2563,6 +2627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 402345,
+      "num": 442769,
+      "word": "节后第二天状态",
+      "onboard_time": 1738801642,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 401973,
       "num": 401973,
       "word": "独居女生套内41平米的家",
@@ -2699,6 +2771,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 382872,
+      "num": 382872,
+      "word": "美媒称DeepSeek已无法被封杀",
+      "onboard_time": 1738801763,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 380663,
       "num": 494476,
       "word": "立春",
@@ -2787,6 +2867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 365877,
+      "num": 365877,
+      "word": "梅婷回复沈月",
+      "onboard_time": 1738801703,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 365595,
       "num": 365595,
       "word": "明天上班",
@@ -2836,7 +2924,7 @@
     },
     {
       "raw_hot": 357842,
-      "num": 234998,
+      "num": 268359,
       "word": "生完孩子几年后才能轻松一点",
       "onboard_time": 1738767446,
       "rank": 21,
@@ -3136,6 +3224,14 @@
       "word": "敖丙传",
       "onboard_time": 1738420759,
       "rank": 22,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 319174,
+      "num": 319174,
+      "word": "丁禹兮包场请大家看哪吒",
+      "onboard_time": 1738805423,
+      "rank": 14,
       "category": "电影"
     },
     {
@@ -3571,6 +3667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 271673,
+      "num": 271673,
+      "word": "哪吒2票房有望破中国影史记录",
+      "onboard_time": 1738770143,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 271264,
       "num": 478401,
       "word": "她以为剪了短发就是男孩了",
@@ -3657,6 +3761,14 @@
       "onboard_time": 1738545498,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 261757,
+      "num": 261757,
+      "word": "男子恋爱1年不知24岁女友竟有俩娃",
+      "onboard_time": 1738804341,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 261616,
@@ -4491,6 +4603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 217583,
+      "num": 217583,
+      "word": "射雕英雄传侠之大者票房破6亿",
+      "onboard_time": 1738803924,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 217390,
       "num": 217390,
       "word": "节后上班第一天",
@@ -4577,6 +4697,14 @@
       "onboard_time": 1738735283,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212392,
+      "num": 212392,
+      "word": "男子放出400斤白牦牛给亲戚看",
+      "onboard_time": 1738767504,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 211881,
@@ -4841,6 +4969,14 @@
       "onboard_time": 1738461075,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203515,
+      "num": 203515,
+      "word": "终于知道陈哲远为什么哭了",
+      "onboard_time": 1738801703,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 203439,
@@ -5491,6 +5627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185554,
+      "num": 266170,
+      "word": "近20个国家将春节定为法定假日",
+      "onboard_time": 1738780933,
+      "rank": 36,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 185523,
       "num": 185523,
       "word": "去年坐豪车里今年躺卡车底",
@@ -5851,6 +5995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 176120,
+      "num": 176120,
+      "word": "蛇年第一场寒潮来袭",
+      "onboard_time": 1738802543,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175407,
       "num": 212554,
       "word": "王楚钦晋级32强",
@@ -5907,6 +6059,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 174369,
+      "num": 174369,
+      "word": "哪吒2制作成本超5亿",
+      "onboard_time": 1738801763,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 174355,
       "num": 174355,
       "word": "哪吒贺图",
@@ -5948,7 +6108,7 @@
     },
     {
       "raw_hot": 172709,
-      "num": 130189,
+      "num": 133760,
       "word": "日本的甲流可能被乙流取代",
       "onboard_time": 1738790351,
       "rank": 49,
@@ -5977,6 +6137,14 @@
       "onboard_time": 1738620733,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 172298,
+      "num": 165282,
+      "word": "哪吒2官方真的别太敬业",
+      "onboard_time": 1738805183,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 172172,
@@ -6211,6 +6379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 166365,
+      "num": 166365,
+      "word": "北京这次大风有一定极端性",
+      "onboard_time": 1738805843,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166062,
       "num": 166062,
       "word": "肖战目光如炬",
@@ -6323,6 +6499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163492,
+      "num": 163492,
+      "word": "寒潮大风多地降温10摄氏度",
+      "onboard_time": 1738805963,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163384,
       "num": 179603,
       "word": "湖人大胜为东契奇接风",
@@ -6355,6 +6539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162614,
+      "num": 217745,
+      "word": "勇士热火交易",
+      "onboard_time": 1738805602,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162613,
       "num": 290739,
       "word": "河南台辉高速发生多车追尾事故",
@@ -6368,14 +6560,6 @@
       "word": "家政工雇主家晕倒称因擦冰箱太臭",
       "onboard_time": 1738746745,
       "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 162042,
-      "num": 162042,
-      "word": "男子放出400斤白牦牛给亲戚看",
-      "onboard_time": 1738767504,
-      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -7051,6 +7235,14 @@
       "category": "综艺,美食"
     },
     {
+      "raw_hot": 146525,
+      "num": 146525,
+      "word": "李昀锐把自己哄成胚胎了",
+      "onboard_time": 1738803924,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146478,
       "num": 248959,
       "word": "现在的糖人都会动了",
@@ -7292,7 +7484,7 @@
     },
     {
       "raw_hot": 142531,
-      "num": 89612,
+      "num": 137378,
       "word": "阿根廷宣布将退出世界卫生组织",
       "onboard_time": 1738775836,
       "rank": 30,
@@ -7401,6 +7593,14 @@
       "onboard_time": 1738743382,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 140516,
+      "num": 140516,
+      "word": "国家安全机关发布安全提示",
+      "onboard_time": 1738805065,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140417,
@@ -7723,14 +7923,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 132268,
-      "num": 132268,
-      "word": "近20个国家将春节定为法定假日",
-      "onboard_time": 1738780933,
-      "rank": 36,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 131856,
       "num": 202241,
       "word": "高铁才是真正的中国米其林三星吧",
@@ -7865,6 +8057,14 @@
       "onboard_time": 1738680206,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129009,
+      "num": 129009,
+      "word": "哪吒2贺图",
+      "onboard_time": 1738801763,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 129008,
@@ -8441,6 +8641,14 @@
       "onboard_time": 1738763966,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115337,
+      "num": 115337,
+      "word": "专家预测金价还会继续冲高",
+      "onboard_time": 1738801763,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 115063,
@@ -9185,6 +9393,14 @@
       "onboard_time": 1738709714,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99587,
+      "num": 99587,
+      "word": "立春后为啥还这么冷",
+      "onboard_time": 1738803981,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 99320,
@@ -11176,6 +11392,14 @@
       "word": "汪顺说亚冬会中国队加油",
       "onboard_time": 1738563153,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 25772,
+      "num": 209799,
+      "word": "宁忠岩圆梦旗手",
+      "onboard_time": 1738805963,
+      "rank": 27,
       "category": "体育"
     },
     {
