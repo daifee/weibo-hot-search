@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738806127694,
+  "endTime": 1738807084646,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -667,6 +667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1219641,
+      "num": 774780,
+      "word": "哪吒3留太多坑导演绝望",
+      "onboard_time": 1738805123,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1214897,
       "num": 600829,
       "word": "喻言 浪姐",
@@ -1163,14 +1171,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 774780,
-      "num": 774780,
-      "word": "哪吒3留太多坑导演绝望",
-      "onboard_time": 1738805123,
-      "rank": 3,
-      "category": "电影"
-    },
-    {
       "raw_hot": 773523,
       "num": 423428,
       "word": "战狼2",
@@ -1208,6 +1208,14 @@
       "word": "立春躲春的正确方式",
       "onboard_time": 1738500920,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 747801,
+      "num": 548237,
+      "word": "小男孩误入彩虹滑道被滑圈铲飞",
+      "onboard_time": 1738804341,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -1851,14 +1859,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 548237,
-      "num": 548237,
-      "word": "小男孩误入彩虹滑道被滑圈铲飞",
-      "onboard_time": 1738804341,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 547557,
       "num": 547557,
       "word": "谷歌被立案调查",
@@ -2059,6 +2059,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 503439,
+      "num": 452813,
+      "word": "丁禹兮包场请大家看哪吒",
+      "onboard_time": 1738805423,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 501201,
       "num": 501201,
       "word": "Kanye唯一关注Taylor Swift",
@@ -2201,6 +2209,14 @@
       "onboard_time": 1738730306,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 473888,
+      "num": 473888,
+      "word": "NBA交易",
+      "onboard_time": 1738803981,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 473457,
@@ -2441,14 +2457,6 @@
       "onboard_time": 1738416378,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 437307,
-      "num": 437307,
-      "word": "NBA交易",
-      "onboard_time": 1738803981,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 435758,
@@ -2963,6 +2971,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 352814,
+      "num": 224810,
+      "word": "巴特勒加盟勇士",
+      "onboard_time": 1738806563,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 350894,
       "num": 282942,
       "word": "鹿童配音演员回应因反派被骂",
@@ -3224,14 +3240,6 @@
       "word": "敖丙传",
       "onboard_time": 1738420759,
       "rank": 22,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 319174,
-      "num": 319174,
-      "word": "丁禹兮包场请大家看哪吒",
-      "onboard_time": 1738805423,
-      "rank": 14,
       "category": "电影"
     },
     {
@@ -3707,6 +3715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267704,
+      "num": 261757,
+      "word": "男子恋爱1年不知24岁女友竟有俩娃",
+      "onboard_time": 1738804341,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 267426,
       "num": 267426,
       "word": "湖人交易惊呆NBA群星",
@@ -3761,14 +3777,6 @@
       "onboard_time": 1738545498,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 261757,
-      "num": 261757,
-      "word": "男子恋爱1年不知24岁女友竟有俩娃",
-      "onboard_time": 1738804341,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 261616,
@@ -4283,6 +4291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 230428,
+      "num": 230428,
+      "word": "射雕英雄传侠之大者票房破6亿",
+      "onboard_time": 1738803924,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 230327,
       "num": 230327,
       "word": "一家五口回娘家过年铺稻草打地铺",
@@ -4601,14 +4617,6 @@
       "onboard_time": 1738664424,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 217583,
-      "num": 217583,
-      "word": "射雕英雄传侠之大者票房破6亿",
-      "onboard_time": 1738803924,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 217390,
@@ -5123,6 +5131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199783,
+      "num": 199783,
+      "word": "北京这次大风有一定极端性",
+      "onboard_time": 1738805843,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199776,
       "num": 183124,
       "word": "莲花楼日本霸榜14冠",
@@ -5507,6 +5523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 189665,
+      "num": 189665,
+      "word": "国家安全机关发布安全提示",
+      "onboard_time": 1738805065,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189637,
       "num": 189637,
       "word": "墨西哥总统宣布将对美国加征关税",
@@ -5521,6 +5545,14 @@
       "onboard_time": 1738619532,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189526,
+      "num": 178465,
+      "word": "哪吒盲盒手办上架两天就售罄",
+      "onboard_time": 1738806381,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 189409,
@@ -6027,6 +6059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174641,
+      "num": 174641,
+      "word": "湖人三巨头合练",
+      "onboard_time": 1738806863,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174638,
       "num": 174638,
       "word": "白色橄榄树滤镜",
@@ -6377,14 +6417,6 @@
       "onboard_time": 1738683624,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 166365,
-      "num": 166365,
-      "word": "北京这次大风有一定极端性",
-      "onboard_time": 1738805843,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 166062,
@@ -7595,14 +7627,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 140516,
-      "num": 140516,
-      "word": "国家安全机关发布安全提示",
-      "onboard_time": 1738805065,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 140417,
       "num": 4461898,
       "word": "从古诗词中感受立春之美",
@@ -7665,6 +7689,14 @@
       "onboard_time": 1738457356,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139434,
+      "num": 139434,
+      "word": "深圳水贝金价比元旦涨了近40元",
+      "onboard_time": 1738806502,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 139428,
@@ -10547,6 +10579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55138,
+      "num": 375262,
+      "word": "李锋博士曾完成几十项重大研究课题",
+      "onboard_time": 1738806563,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54927,
       "num": 477598,
       "word": "春节返程出现高峰",
@@ -11396,7 +11436,7 @@
     },
     {
       "raw_hot": 25772,
-      "num": 209799,
+      "num": 229229,
       "word": "宁忠岩圆梦旗手",
       "onboard_time": 1738805963,
       "rank": 27,
