@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738841757927,
+  "endTime": 1738845783421,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 3716352,
-      "num": 386876,
+      "num": 416257,
       "word": "小S许雅钧为大S包机",
       "onboard_time": 1738818210,
       "rank": 10,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 3123367,
-      "num": 332744,
+      "num": 433589,
       "word": "范思哲取关",
       "onboard_time": 1738839504,
       "rank": 10,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 1996887,
-      "num": 324739,
+      "num": 357901,
       "word": "妻子双肺全白丈夫含泪卖车不放弃",
       "onboard_time": 1738832305,
       "rank": 20,
@@ -659,6 +659,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1455244,
+      "num": 1455244,
+      "word": "停车费8830元把女子吓住了",
+      "onboard_time": 1738843165,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1434391,
       "num": 1434391,
       "word": "微信新增仅提醒朋友与我的互动",
@@ -809,6 +817,14 @@
       "onboard_time": 1738801822,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1275614,
+      "num": 1275614,
+      "word": "李心艾官宣怀孕",
+      "onboard_time": 1738843345,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1260770,
@@ -1515,6 +1531,14 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 789619,
+      "num": 432412,
+      "word": "悬赏5万的走失宠物狗遭烹饪分食",
+      "onboard_time": 1738840404,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 787836,
       "num": 787836,
       "word": "饺子导演肉眼可见的变老",
@@ -1529,6 +1553,14 @@
       "onboard_time": 1738418059,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 783573,
+      "num": 425438,
+      "word": "范思哲 宁艺卓",
+      "onboard_time": 1738843945,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 782847,
@@ -1596,7 +1628,7 @@
     },
     {
       "raw_hot": 750501,
-      "num": 385166,
+      "num": 388826,
       "word": "饺子导演画了灵珠版哪吒魔丸版敖丙",
       "onboard_time": 1738836563,
       "rank": 13,
@@ -1753,6 +1785,14 @@
       "onboard_time": 1738736483,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 700034,
+      "num": 700034,
+      "word": "王楚钦vs卡尔伯格",
+      "onboard_time": 1738843945,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 698807,
@@ -2075,6 +2115,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 623296,
+      "num": 623296,
+      "word": "马龙跟李现说这么破费",
+      "onboard_time": 1738839984,
+      "rank": 18,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 622995,
       "num": 590505,
       "word": "吴京 流浪地球3",
@@ -2384,6 +2432,14 @@
       "word": "哪吒2官方玩梗",
       "onboard_time": 1738833084,
       "rank": 17,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 551784,
+      "num": 423083,
+      "word": "赵丽颖粉丝恭喜我姐爱豆登顶",
+      "onboard_time": 1738843284,
+      "rank": 14,
       "category": "电影"
     },
     {
@@ -2763,14 +2819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 497372,
-      "num": 306299,
-      "word": "悬赏5万的走失宠物狗遭烹饪分食",
-      "onboard_time": 1738840404,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 496694,
       "num": 305730,
       "word": "特朗普下令对索马里发动空袭",
@@ -3065,14 +3113,6 @@
       "onboard_time": 1738761085,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 459077,
-      "num": 459077,
-      "word": "马龙跟李现说这么破费",
-      "onboard_time": 1738839984,
-      "rank": 18,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 458059,
@@ -3449,6 +3489,14 @@
       "onboard_time": 1738499720,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 415073,
+      "num": 415073,
+      "word": "徐艺洋配音小石矶娘娘",
+      "onboard_time": 1738843463,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 414587,
@@ -3899,6 +3947,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 366718,
+      "num": 366718,
+      "word": "山东淄博一游乐园用驴充当斑马",
+      "onboard_time": 1738843046,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 366282,
       "num": 1634931,
       "word": "杨丞琳发文悼念",
@@ -4025,6 +4081,14 @@
       "onboard_time": 1738474457,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 354599,
+      "num": 354599,
+      "word": "店主自称2个菜844元不存在欺骗强制",
+      "onboard_time": 1738842805,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 353904,
@@ -4481,6 +4545,14 @@
       "onboard_time": 1738826242,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 320645,
+      "num": 320645,
+      "word": "当我运动八个月后",
+      "onboard_time": 1738840885,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 318463,
@@ -5547,6 +5619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 248581,
+      "num": 248581,
+      "word": "师父开门我是逆徒",
+      "onboard_time": 1738841844,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248507,
       "num": 248507,
       "word": "王楚钦希望WTT多听听运动员的声音",
@@ -5593,6 +5673,14 @@
       "onboard_time": 1738587987,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 246050,
+      "num": 246050,
+      "word": "虞书欣双轨黄裙造型",
+      "onboard_time": 1738842925,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 245959,
@@ -5851,6 +5939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237142,
+      "num": 237142,
+      "word": "两年前买的50g金条已赚1万元",
+      "onboard_time": 1738841545,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 236821,
       "num": 158838,
       "word": "顶尖舞者",
@@ -5881,6 +5977,14 @@
       "onboard_time": 1738485857,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 236058,
+      "num": 236058,
+      "word": "何卓佳3比0申裕斌",
+      "onboard_time": 1738843764,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 235419,
@@ -6041,6 +6145,14 @@
       "onboard_time": 1738725261,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 228427,
+      "num": 228427,
+      "word": "湖南卫视连发6条微博官宣周深",
+      "onboard_time": 1738842204,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 228147,
@@ -7219,14 +7331,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 197414,
-      "num": 197414,
-      "word": "当我运动八个月后",
-      "onboard_time": 1738840885,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 197381,
       "num": 197381,
       "word": "张小斐侧腹肌",
@@ -7400,6 +7504,14 @@
       "word": "刘诗诗原声台词好惊艳",
       "onboard_time": 1738731924,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 194161,
+      "num": 194161,
+      "word": "白色橄榄树好虐",
+      "onboard_time": 1738842025,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -7867,6 +7979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186169,
+      "num": 247075,
+      "word": "王楚钦3比0卡尔伯格",
+      "onboard_time": 1738845504,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186116,
       "num": 478160,
       "word": "哪吒里的结界兽意外爆火",
@@ -7897,6 +8017,14 @@
       "onboard_time": 1738550807,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185611,
+      "num": 185611,
+      "word": "五福临门",
+      "onboard_time": 1738652123,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 185562,
@@ -7937,6 +8065,14 @@
       "onboard_time": 1738585229,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185232,
+      "num": 185232,
+      "word": "教育厅通报男子举报中学提前开学",
+      "onboard_time": 1738844124,
+      "rank": 36,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 184936,
@@ -7984,6 +8120,14 @@
       "word": "樊振东登上CCTV10",
       "onboard_time": 1738405038,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 184089,
+      "num": 184089,
+      "word": "王曼昱说蒯曼比自己还内向",
+      "onboard_time": 1738842084,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -8353,6 +8497,14 @@
       "onboard_time": 1738637245,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176911,
+      "num": 246107,
+      "word": "一汽大众神车一口价",
+      "onboard_time": 1738845263,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 176872,
@@ -8851,6 +9003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168756,
+      "num": 305725,
+      "word": "哈尔滨亚冬会明日开幕",
+      "onboard_time": 1738841484,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168481,
       "num": 168481,
       "word": "李昀锐把自己哄成胚胎了",
@@ -9185,6 +9345,14 @@
       "onboard_time": 1738485018,
       "rank": 46,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 162312,
+      "num": 162312,
+      "word": "种地吧明天返工直播",
+      "onboard_time": 1738843584,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 162255,
@@ -9731,14 +9899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 154610,
-      "num": 155153,
-      "word": "五福临门",
-      "onboard_time": 1738652123,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 154311,
       "num": 154311,
       "word": "芒果上班第一天就冲业绩",
@@ -9825,6 +9985,14 @@
       "onboard_time": 1738825404,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152739,
+      "num": 152739,
+      "word": "姜子牙姜还是老的辣",
+      "onboard_time": 1738845144,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 152445,
@@ -9969,6 +10137,14 @@
       "onboard_time": 1738723760,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 149696,
+      "num": 149696,
+      "word": "马塞洛宣布退役",
+      "onboard_time": 1738845263,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 149581,
@@ -10169,14 +10345,6 @@
       "onboard_time": 1738661963,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 146454,
-      "num": 146454,
-      "word": "哈尔滨亚冬会明日开幕",
-      "onboard_time": 1738841484,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 146218,
@@ -11035,6 +11203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132945,
+      "num": 132945,
+      "word": "福宝给大家送福了",
+      "onboard_time": 1738845683,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132891,
       "num": 132891,
       "word": "掌心一眼望去全是熟人",
@@ -11545,14 +11721,6 @@
       "onboard_time": 1738415960,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 125718,
-      "num": 125718,
-      "word": "两年前买的50g金条已赚1万元",
-      "onboard_time": 1738841545,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 125653,
@@ -13419,6 +13587,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 97865,
+      "num": 1314965,
+      "word": "距亚冬会开幕还有1天",
+      "onboard_time": 1738844903,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97668,
       "num": 267808,
       "word": "小鹏重回新势力销量第一",
@@ -14251,6 +14427,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 76441,
+      "num": 246363,
+      "word": "四川一女子遛狗时被边牧犬跳起扑咬",
+      "onboard_time": 1738844962,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76316,
       "num": 400800,
       "word": "林诗栋3比1高兹",
@@ -14649,6 +14833,14 @@
       "onboard_time": 1738351213,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 64741,
+      "num": 358720,
+      "word": "王艺迪3比1迪亚兹",
+      "onboard_time": 1738844843,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 64544,
@@ -15505,6 +15697,14 @@
       "onboard_time": 1738651342,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 39002,
+      "num": 441454,
+      "word": "亚冬会中国队赛程看点",
+      "onboard_time": 1738845324,
+      "rank": 10,
+      "category": "正能量"
     },
     {
       "raw_hot": 38998,
@@ -16852,6 +17052,9 @@
     },
     {
       "word": "#推动中泰命运共同体建设走深走实#"
+    },
+    {
+      "word": "#中泰一家亲历久弥新#"
     }
   ]
 }
