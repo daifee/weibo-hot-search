@@ -1,6 +1,6 @@
 {
   "startTime": 1738859204643,
-  "endTime": 1738870554744,
+  "endTime": 1738873439351,
   "band_list": [
     {
       "raw_hot": 1030517,
@@ -523,7 +523,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 18826,
+      "raw_hot": 20422,
+      "num": 20422,
+      "word": "猫眼预测",
+      "onboard_time": 1738871831,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 18993,
       "num": 27785,
       "word": "周深巴黎演绎中国风戏腔",
       "onboard_time": 1738859958,
@@ -555,12 +563,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 17879,
+      "num": 20396,
+      "word": "香港一代笑匠俞明去世",
+      "onboard_time": 1738871413,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 17451,
+      "num": 20387,
+      "word": "陈丽君再次亮相法国巴黎",
+      "onboard_time": 1738871352,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 15517,
       "num": 179582,
       "word": "中国正成为原创性创新的策源地",
       "onboard_time": 1738861756,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15270,
+      "num": 20338,
+      "word": "特朗普坚称其加沙提议每个人都喜欢",
+      "onboard_time": 1738872672,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 14569,
