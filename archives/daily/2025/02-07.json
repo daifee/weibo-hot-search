@@ -1,6 +1,6 @@
 {
   "startTime": 1738859204643,
-  "endTime": 1738862383754,
+  "endTime": 1738863459035,
   "band_list": [
     {
       "raw_hot": 1030517,
@@ -99,8 +99,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 286940,
-      "num": 286940,
+      "raw_hot": 313801,
+      "num": 313801,
       "word": "大批妙瓦底电诈园受害者被救",
       "onboard_time": 1738858223,
       "rank": 38,
@@ -203,7 +203,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 146681,
+      "raw_hot": 164929,
       "num": 329207,
       "word": "李飞飞团队50美元复刻DeepSeek真相",
       "onboard_time": 1738858101,
@@ -403,12 +403,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 58665,
+      "raw_hot": 59677,
       "num": 81468,
       "word": "教育厅通报男子举报中学提前开学",
       "onboard_time": 1738844124,
       "rank": 40,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 52949,
+      "num": 81394,
+      "word": "女孩吃糖葫芦粘掉近3万元种植牙",
+      "onboard_time": 1738861816,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52940,
+      "num": 81423,
+      "word": "威海的海边美成了油画",
+      "onboard_time": 1738860558,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48734,
@@ -419,20 +435,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 48308,
-      "num": 81423,
-      "word": "威海的海边美成了油画",
-      "onboard_time": 1738860558,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 31053,
+      "num": 47571,
+      "word": "王楚钦再次呼吁不要开闪光灯",
+      "onboard_time": 1738851326,
+      "rank": 48,
+      "category": "体育"
     },
     {
-      "raw_hot": 44367,
-      "num": 81394,
-      "word": "女孩吃糖葫芦粘掉近3万元种植牙",
-      "onboard_time": 1738861816,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 29177,
+      "num": 47528,
+      "word": "中方再回应特朗普称将接管加沙",
+      "onboard_time": 1738863434,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 26381,
@@ -463,6 +479,14 @@
       "num": 179582,
       "word": "中国正成为原创性创新的策源地",
       "onboard_time": 1738861756,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13313,
+      "num": 151904,
+      "word": "顾客收到2个菜844元全额退款",
+      "onboard_time": 1738862955,
       "rank": 9,
       "category": "民生新闻"
     },
