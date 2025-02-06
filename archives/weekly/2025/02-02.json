@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738830517525,
+  "endTime": 1738831307152,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -2011,6 +2011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 552824,
+      "num": 426080,
+      "word": "饺子称团队没通宵但加班到四五点",
+      "onboard_time": 1738827803,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 550850,
       "num": 542156,
       "word": "战狼",
@@ -2195,6 +2203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 512005,
+      "num": 446857,
+      "word": "哪吒之魔童闹海爬全球榜",
+      "onboard_time": 1738826663,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 511597,
       "num": 358840,
       "word": "网购了1只恶犬还没袜子大",
@@ -2291,20 +2307,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 498499,
+      "num": 498499,
+      "word": "小伙因砸女友手机背上犯罪记录",
+      "onboard_time": 1738828163,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 498468,
       "num": 358467,
       "word": "慕胥辞官宣杀青",
       "onboard_time": 1738551558,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 497457,
-      "num": 446857,
-      "word": "哪吒之魔童闹海爬全球榜",
-      "onboard_time": 1738826663,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 496694,
@@ -2467,14 +2483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 472280,
-      "num": 472280,
-      "word": "小伙因砸女友手机背上犯罪记录",
-      "onboard_time": 1738828163,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 472204,
       "num": 503291,
       "word": "日本爆发流感游客发声",
@@ -2497,6 +2505,14 @@
       "onboard_time": 1738502780,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 467498,
+      "num": 467498,
+      "word": "比亚迪涨停",
+      "onboard_time": 1738826185,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 467181,
@@ -2553,14 +2569,6 @@
       "onboard_time": 1738761085,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 458941,
-      "num": 458941,
-      "word": "比亚迪涨停",
-      "onboard_time": 1738826185,
-      "rank": 35,
-      "category": "财经"
     },
     {
       "raw_hot": 457783,
@@ -2907,6 +2915,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 406765,
+      "num": 329436,
+      "word": "奶龙票房超过成龙了",
+      "onboard_time": 1738830743,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 405748,
       "num": 375028,
       "word": "格莱美红毯",
@@ -3161,14 +3177,6 @@
       "onboard_time": 1738478178,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 372875,
-      "num": 372875,
-      "word": "饺子称团队没通宵但加班到四五点",
-      "onboard_time": 1738827803,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 371856,
@@ -3561,6 +3569,14 @@
       "onboard_time": 1738469059,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 329267,
+      "num": 386916,
+      "word": "实拍泰缅边境地区断电第1晚",
+      "onboard_time": 1738828463,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 329170,
@@ -4971,14 +4987,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 225237,
-      "num": 386916,
-      "word": "实拍泰缅边境地区断电第1晚",
-      "onboard_time": 1738828463,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 225069,
       "num": 225069,
       "word": "刘晓庆听到六十岁算老年人的反应",
@@ -5699,6 +5707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201900,
+      "num": 277613,
+      "word": "官方通报张家界一游客点2个菜844元",
+      "onboard_time": 1738830265,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201886,
       "num": 363867,
       "word": "28岁河马离世饲养员手写讣告",
@@ -5761,6 +5777,14 @@
       "onboard_time": 1738578329,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200049,
+      "num": 200049,
+      "word": "马天宇晒三人行夜戏照",
+      "onboard_time": 1738830562,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 199881,
@@ -7499,6 +7523,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 159959,
+      "num": 338494,
+      "word": "春节假期消费市场亮点多活力足",
+      "onboard_time": 1738830143,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159359,
       "num": 145940,
       "word": "哪吒2有望给光线传媒贡献近10亿利润",
@@ -8209,6 +8241,14 @@
       "onboard_time": 1738656324,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 144869,
+      "num": 144869,
+      "word": "新年的第一个音综来了",
+      "onboard_time": 1738830862,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 144808,
@@ -9075,19 +9115,19 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 128884,
-      "num": 128884,
-      "word": "官方通报张家界一游客点2个菜844元",
-      "onboard_time": 1738830265,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 128240,
       "num": 128240,
       "word": "孙颖莎王艺迪3比0大藤沙月横井咲樱",
       "onboard_time": 1738817249,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 128109,
+      "num": 241433,
+      "word": "孙颖莎全球主场",
+      "onboard_time": 1738830441,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -9161,6 +9201,14 @@
       "onboard_time": 1738543876,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127151,
+      "num": 334442,
+      "word": "吉赛尔邦辰三胎出生",
+      "onboard_time": 1738829783,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 127006,
@@ -9281,6 +9329,14 @@
       "onboard_time": 1738562557,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124819,
+      "num": 124819,
+      "word": "你陪我长大我送你出嫁",
+      "onboard_time": 1738831043,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 124558,
@@ -9995,6 +10051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 110757,
+      "num": 110757,
+      "word": "吴昕吃瓜吃到自己身上",
+      "onboard_time": 1738830862,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110488,
       "num": 135120,
       "word": "湖人图啥",
@@ -10291,6 +10355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 104159,
+      "num": 104159,
+      "word": "黄金饰品近三年抽检618批次不合格",
+      "onboard_time": 1738826185,
+      "rank": 45,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 104079,
       "num": 455108,
       "word": "春节剩菜能吃几天",
@@ -10499,12 +10571,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100060,
+      "num": 100060,
+      "word": "李昀锐采访",
+      "onboard_time": 1738831223,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100015,
       "num": 295980,
       "word": "赵公明如何逆袭成为财神",
       "onboard_time": 1738501219,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 99807,
+      "num": 99807,
+      "word": "周深联合国教科文总部献唱光亮",
+      "onboard_time": 1738830441,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 99733,
@@ -10715,14 +10803,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 94865,
-      "num": 94865,
-      "word": "周深联合国教科文总部献唱光亮",
-      "onboard_time": 1738830441,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 94847,
       "num": 139254,
       "word": "长期主义回购的化妆品",
@@ -10785,6 +10865,14 @@
       "onboard_time": 1738657763,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 93916,
+      "num": 525418,
+      "word": "哈尔滨将正式进入亚冬时间",
+      "onboard_time": 1738829962,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 93090,
@@ -10985,14 +11073,6 @@
       "onboard_time": 1738653023,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85078,
-      "num": 129106,
-      "word": "孙颖莎全球主场",
-      "onboard_time": 1738830441,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 85037,
@@ -11299,6 +11379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75155,
+      "num": 205311,
+      "word": "海南蜈支洲岛景区回应游客滞留",
+      "onboard_time": 1738829602,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74979,
       "num": 790179,
       "word": "蛇年开工能量包",
@@ -11555,14 +11643,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 64407,
-      "num": 334442,
-      "word": "吉赛尔邦辰三胎出生",
-      "onboard_time": 1738829783,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 64030,
       "num": 35074,
       "word": "哪吒2魔童闹海",
@@ -11625,14 +11705,6 @@
       "onboard_time": 1738744103,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 61384,
-      "num": 330184,
-      "word": "春节假期消费市场亮点多活力足",
-      "onboard_time": 1738830143,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 61142,
@@ -11849,14 +11921,6 @@
       "onboard_time": 1738751364,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 54090,
-      "num": 205311,
-      "word": "海南蜈支洲岛景区回应游客滞留",
-      "onboard_time": 1738829602,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 53729,
@@ -12521,14 +12585,6 @@
       "onboard_time": 1738468878,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 30486,
-      "num": 518090,
-      "word": "哈尔滨将正式进入亚冬时间",
-      "onboard_time": 1738829962,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 30278,
