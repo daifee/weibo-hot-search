@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/02/06 13:24:38
+本榜单时间：2025/01/01 00:26:38 ~ 2025/02/06 13:40:18
 </p>
 </blockquote>
 <p>
@@ -129,6 +129,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%92%E5%BD%B1%E5%8F%B2%E7%AC%AC%E4%B8%80%23" target="weibo">
+哪吒影史第一（热度：11663552）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E5%BC%9F%E5%BC%9F%E5%B7%B2%E4%B8%8E%E5%85%B6%E9%80%9A%E8%A7%86%E9%A2%91%E7%94%B5%E8%AF%9D%23" target="weibo">
 王星弟弟已与其通视频电话（热度：11656509）
 </a>
@@ -221,12 +227,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E4%B8%B4%E6%B1%BE%E5%9C%B0%E9%9C%87%23" target="weibo">
 山西临汾地震（热度：9076991）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%92%E5%BD%B1%E5%8F%B2%E7%AC%AC%E4%B8%80%23" target="weibo">
-哪吒影史第一（热度：8797053）
 </a>
 </li>
 

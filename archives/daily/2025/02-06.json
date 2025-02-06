@@ -1,21 +1,21 @@
 {
   "startTime": 1738772916136,
-  "endTime": 1738819478820,
+  "endTime": 1738820418582,
   "band_list": [
+    {
+      "raw_hot": 11663552,
+      "num": 11663552,
+      "word": "哪吒影史第一",
+      "onboard_time": 1738817490,
+      "rank": 3,
+      "category": "电影"
+    },
     {
       "raw_hot": 10780408,
       "num": 10780408,
       "word": "哪吒之魔童闹海登顶中国电影票房榜",
       "onboard_time": 1738816708,
       "rank": 10,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 8797053,
-      "num": 8797053,
-      "word": "哪吒影史第一",
-      "onboard_time": 1738817490,
-      "rank": 3,
       "category": "电影"
     },
     {
@@ -131,6 +131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1103201,
+      "num": 1103201,
+      "word": "蒯曼vs王曼昱",
+      "onboard_time": 1738818032,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 863814,
       "num": 262565,
       "word": "沈腾方否认和林允恋情",
@@ -227,6 +235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 557528,
+      "num": 352270,
+      "word": "ChatGPT",
+      "onboard_time": 1738817430,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 550850,
       "num": 542156,
       "word": "战狼",
@@ -267,20 +283,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 527114,
+      "num": 265577,
+      "word": "吒儿谢谢吴京叔叔",
+      "onboard_time": 1738817610,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 494014,
       "num": 494014,
       "word": "有了DeepSeek学语文还有用吗",
       "onboard_time": 1738811722,
       "rank": 13,
       "category": "教育,互联网"
-    },
-    {
-      "raw_hot": 492899,
-      "num": 259166,
-      "word": "吒儿谢谢吴京叔叔",
-      "onboard_time": 1738817610,
-      "rank": 20,
-      "category": "电影"
     },
     {
       "raw_hot": 482478,
@@ -339,6 +355,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 441167,
+      "num": 256601,
+      "word": "张铭恩与女友牵手逛街",
+      "onboard_time": 1738820187,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 434832,
       "num": 434832,
       "word": "北京这次大风有一定极端性",
@@ -369,14 +393,6 @@
       "onboard_time": 1738801642,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 389375,
-      "num": 389375,
-      "word": "蒯曼vs王曼昱",
-      "onboard_time": 1738818032,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 385442,
@@ -411,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 361135,
+      "num": 258417,
+      "word": "哪吒盲盒手办上架两天就售罄",
+      "onboard_time": 1738806381,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 358823,
       "num": 270480,
       "word": "哪吒为啥走路总插兜",
@@ -443,14 +467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 352270,
-      "num": 352270,
-      "word": "ChatGPT",
-      "onboard_time": 1738817430,
-      "rank": 9,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 346624,
       "num": 346624,
       "word": "舍不得维金斯",
@@ -464,6 +480,14 @@
       "word": "射雕英雄传侠之大者票房破6亿",
       "onboard_time": 1738803924,
       "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 331520,
+      "num": 258166,
+      "word": "吒永一",
+      "onboard_time": 1738818694,
+      "rank": 23,
       "category": "电影"
     },
     {
@@ -483,20 +507,20 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 320094,
-      "num": 258166,
-      "word": "吒永一",
-      "onboard_time": 1738818694,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 316056,
       "num": 220659,
       "word": "祝绪丹配音小石矶娘娘",
       "onboard_time": 1738766245,
       "rank": 21,
       "category": "电影,艺人"
+    },
+    {
+      "raw_hot": 314810,
+      "num": 400174,
+      "word": "举报提前开学补课被回怼究竟谁错了",
+      "onboard_time": 1738815508,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 304161,
@@ -563,28 +587,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 271324,
-      "num": 400174,
-      "word": "举报提前开学补课被回怼究竟谁错了",
-      "onboard_time": 1738815508,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 268359,
       "num": 268359,
       "word": "生完孩子几年后才能轻松一点",
       "onboard_time": 1738767446,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 258417,
-      "num": 258417,
-      "word": "哪吒盲盒手办上架两天就售罄",
-      "onboard_time": 1738806381,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 257495,
@@ -633,6 +641,14 @@
       "onboard_time": 1738762225,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 235855,
+      "num": 211720,
+      "word": "网购了1只恶犬还没袜子大",
+      "onboard_time": 1738820128,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 227140,
@@ -691,6 +707,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 211733,
+      "num": 211733,
+      "word": "刘些宁角色百花齐放",
+      "onboard_time": 1738818989,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206502,
       "num": 206502,
       "word": "郭富城陪方媛回娘家拜年",
@@ -715,12 +739,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 204181,
+      "num": 273046,
+      "word": "男子跳进兵马俑1号坑被警方带走",
+      "onboard_time": 1738818270,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203515,
       "num": 203515,
       "word": "终于知道陈哲远为什么哭了",
       "onboard_time": 1738801703,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203347,
+      "num": 262080,
+      "word": "苍史诗皮肤",
+      "onboard_time": 1738819888,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 196421,
@@ -963,6 +1003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143690,
+      "num": 143690,
+      "word": "宁艺卓超级期待亚冬会",
+      "onboard_time": 1738820128,
+      "rank": 38,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 142531,
       "num": 137378,
       "word": "阿根廷宣布将退出世界卫生组织",
@@ -987,6 +1035,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 138647,
+      "num": 138647,
+      "word": "台湾媒体惊呼孙颖莎全球主场魅力",
+      "onboard_time": 1738820128,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136229,
       "num": 136229,
       "word": "央农谈重塑哪吒为何用莲藕",
@@ -1001,6 +1057,14 @@
       "onboard_time": 1738761263,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 134391,
+      "num": 131558,
+      "word": "宁艺卓亚冬会宣传VCR",
+      "onboard_time": 1738819827,
+      "rank": 43,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 132176,
@@ -1043,6 +1107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 129715,
+      "num": 129715,
+      "word": "英格拉姆被交易至猛龙",
+      "onboard_time": 1738817970,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129009,
       "num": 129009,
       "word": "哪吒2贺图",
@@ -1083,14 +1155,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 124261,
-      "num": 232556,
-      "word": "男子跳进兵马俑1号坑被警方带走",
-      "onboard_time": 1738818270,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 123800,
       "num": 210150,
       "word": "他们都不想去勇士",
@@ -1107,12 +1171,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122821,
-      "num": 122821,
-      "word": "英格拉姆被交易至猛龙",
-      "onboard_time": 1738817970,
-      "rank": 45,
-      "category": "体育"
+      "raw_hot": 122487,
+      "num": 122487,
+      "word": "哪吒一上午连破两个票房纪录",
+      "onboard_time": 1738820366,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 121839,
@@ -1121,14 +1185,6 @@
       "onboard_time": 1738808364,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 120321,
-      "num": 120321,
-      "word": "刘些宁角色百花齐放",
-      "onboard_time": 1738818989,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 119074,
@@ -1339,6 +1395,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 69166,
+      "num": 260224,
+      "word": "电商称999元可定制指纹解锁硅胶手套",
+      "onboard_time": 1738818570,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 67743,
       "num": 109863,
       "word": "上班第一天的杭州公交竟然没有班味",
@@ -1443,14 +1507,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 51972,
-      "num": 259456,
-      "word": "电商称999元可定制指纹解锁硅胶手套",
-      "onboard_time": 1738818570,
-      "rank": 19,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 50670,
       "num": 89327,
       "word": "裁判看到孙颖莎语气立刻温柔",
@@ -1460,7 +1516,7 @@
     },
     {
       "raw_hot": 49682,
-      "num": 710421,
+      "num": 893078,
       "word": "AI看双亚冬城市哈尔滨",
       "onboard_time": 1738812444,
       "rank": 2,
@@ -1481,6 +1537,14 @@
       "onboard_time": 1738775117,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 41278,
+      "num": 270481,
+      "word": "金饰价格两天涨20元每克",
+      "onboard_time": 1738820068,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41121,
@@ -1537,6 +1601,14 @@
       "onboard_time": 1738798038,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 28062,
+      "num": 313431,
+      "word": "哪吒2的女性角色都是大女主",
+      "onboard_time": 1738819769,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 27423,
