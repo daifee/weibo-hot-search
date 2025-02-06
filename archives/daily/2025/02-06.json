@@ -1,7 +1,23 @@
 {
   "startTime": 1738772916136,
-  "endTime": 1738813193455,
+  "endTime": 1738816069374,
   "band_list": [
+    {
+      "raw_hot": 3321024,
+      "num": 3321024,
+      "word": "哪吒2票房超战狼2",
+      "onboard_time": 1738813524,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 3107064,
+      "num": 615175,
+      "word": "吴京 小哪吒冲冲冲",
+      "onboard_time": 1738814128,
+      "rank": 3,
+      "category": "电影"
+    },
     {
       "raw_hot": 1531930,
       "num": 263996,
@@ -83,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 817013,
+      "num": 461955,
+      "word": "长津湖",
+      "onboard_time": 1738758444,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 735677,
       "num": 244180,
       "word": "李马克脱粉",
@@ -147,6 +171,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 576767,
+      "num": 456828,
+      "word": "饺子说敖丙武器不叫海盐棒棒糖",
+      "onboard_time": 1738811783,
+      "rank": 14,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 573515,
       "num": 324915,
       "word": "你好李焕英给哪吒的贺图",
@@ -195,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 462131,
+      "num": 462131,
+      "word": "有了DeepSeek学语文还有用吗",
+      "onboard_time": 1738811722,
+      "rank": 13,
+      "category": "教育,互联网"
+    },
+    {
       "raw_hot": 454780,
       "num": 454780,
       "word": "金吒木吒绝望的住校生",
@@ -211,12 +251,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 439415,
+      "num": 439415,
+      "word": "男子撞人身亡后转移130万卖房款",
+      "onboard_time": 1738811903,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 434832,
       "num": 434832,
       "word": "北京这次大风有一定极端性",
       "onboard_time": 1738805843,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 420177,
+      "num": 322930,
+      "word": "哪吒2电影票在北美被疯抢",
+      "onboard_time": 1738811364,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 407201,
+      "num": 407201,
+      "word": "战狼2",
+      "onboard_time": 1738758693,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 402345,
@@ -267,6 +331,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 356799,
+      "num": 356799,
+      "word": "薛蛮子",
+      "onboard_time": 1738815086,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 353560,
+      "num": 353560,
+      "word": "对话30岁的羽生结弦",
+      "onboard_time": 1738812385,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 352984,
       "num": 352984,
       "word": "哪吒2",
@@ -283,27 +363,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 346624,
+      "num": 346624,
+      "word": "舍不得维金斯",
+      "onboard_time": 1738814068,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 335864,
       "num": 315746,
       "word": "射雕英雄传侠之大者票房破6亿",
       "onboard_time": 1738803924,
       "rank": 25,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 335397,
-      "num": 335397,
-      "word": "战狼2",
-      "onboard_time": 1738758693,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 331907,
-      "num": 250031,
-      "word": "哪吒2电影票在北美被疯抢",
-      "onboard_time": 1738811364,
-      "rank": 21,
       "category": "电影"
     },
     {
@@ -331,12 +403,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 291628,
+      "num": 291628,
+      "word": "河南老板拿价值170万玛莎拉蒂来套圈",
+      "onboard_time": 1738812385,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 274041,
       "num": 261757,
       "word": "男子恋爱1年不知24岁女友竟有俩娃",
       "onboard_time": 1738804341,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 273110,
+      "num": 273110,
+      "word": "掌心好敢拍",
+      "onboard_time": 1738813163,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 271673,
@@ -355,28 +443,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 265326,
-      "num": 383962,
-      "word": "有了DeepSeek学语文还有用吗",
-      "onboard_time": 1738811722,
-      "rank": 13,
-      "category": "教育,互联网"
-    },
-    {
-      "raw_hot": 259651,
-      "num": 374230,
-      "word": "饺子说敖丙武器不叫海盐棒棒糖",
-      "onboard_time": 1738811783,
-      "rank": 14,
-      "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 255106,
-      "num": 206591,
-      "word": "河南老板拿价值170万玛莎拉蒂来套圈",
-      "onboard_time": 1738812385,
+      "raw_hot": 258417,
+      "num": 258417,
+      "word": "哪吒盲盒手办上架两天就售罄",
+      "onboard_time": 1738806381,
       "rank": 30,
-      "category": "民生新闻"
+      "category": "电影"
     },
     {
       "raw_hot": 249060,
@@ -419,12 +491,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 228080,
+      "num": 228080,
+      "word": "胖东来回应所售红色内裤掉色过敏",
+      "onboard_time": 1738815388,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227140,
       "num": 227140,
       "word": "以色列欢迎美国退出联合国人权理事会",
       "onboard_time": 1738809981,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 224062,
+      "num": 224062,
+      "word": "割胎小米SU7嫌疑人已被刑拘",
+      "onboard_time": 1738813705,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 223457,
@@ -451,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212267,
+      "num": 212267,
+      "word": "师父死去的白月光竟是我自己",
+      "onboard_time": 1738814906,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211859,
       "num": 211859,
       "word": "哪吒2票房超过你好李焕英",
@@ -465,14 +561,6 @@
       "onboard_time": 1738768765,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 206045,
-      "num": 206045,
-      "word": "哪吒盲盒手办上架两天就售罄",
-      "onboard_time": 1738806381,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 205281,
@@ -491,14 +579,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 203818,
-      "num": 203818,
-      "word": "对话30岁的羽生结弦",
-      "onboard_time": 1738812385,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 203515,
       "num": 203515,
       "word": "终于知道陈哲远为什么哭了",
@@ -515,11 +595,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191855,
+      "num": 191855,
+      "word": "赵晓卉的车叫钢铁加鲁鲁",
+      "onboard_time": 1738814068,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191438,
       "num": 191438,
       "word": "白敬亭难哄眼神",
       "onboard_time": 1738812804,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 187067,
+      "num": 273791,
+      "word": "王天辰九年前就在内娱服兵役了",
+      "onboard_time": 1738815508,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -537,6 +633,14 @@
       "onboard_time": 1738808364,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177800,
+      "num": 220874,
+      "word": "樊振东送惠英红球拍的编码",
+      "onboard_time": 1738815747,
+      "rank": 36,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 176120,
@@ -611,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167388,
+      "num": 167388,
+      "word": "王者荣耀小蛇糕",
+      "onboard_time": 1738815326,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 163492,
       "num": 163492,
       "word": "寒潮大风多地降温10摄氏度",
@@ -649,14 +761,6 @@
       "onboard_time": 1738811123,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 154073,
-      "num": 223491,
-      "word": "男子撞人身亡后转移130万卖房款",
-      "onboard_time": 1738811903,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153596,
@@ -731,14 +835,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 135234,
-      "num": 135234,
-      "word": "长津湖",
-      "onboard_time": 1738758444,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 132176,
       "num": 132176,
       "word": "库里巴特勒的最后一搏",
@@ -787,12 +883,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 124084,
-      "num": 124084,
-      "word": "掌心好敢拍",
-      "onboard_time": 1738813163,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 126605,
+      "num": 273198,
+      "word": "默沙东回应暂停向中国供应HPV疫苗",
+      "onboard_time": 1738815206,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 123800,
@@ -875,6 +971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 112114,
+      "num": 220679,
+      "word": "举报提前开学补课被回怼究竟谁错了",
+      "onboard_time": 1738815508,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111710,
       "num": 860553,
       "word": "中国年正在成为世界年",
@@ -913,6 +1017,14 @@
       "onboard_time": 1738764745,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 105966,
+      "num": 288525,
+      "word": "孙颖莎王艺迪vs大藤沙月横井咲樱",
+      "onboard_time": 1738814787,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 105407,
@@ -961,6 +1073,14 @@
       "onboard_time": 1738752087,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89373,
+      "num": 300719,
+      "word": "王楚钦林诗栋vs卡尔森法尔克",
+      "onboard_time": 1738814787,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 82620,
@@ -1028,11 +1148,19 @@
     },
     {
       "raw_hot": 67413,
-      "num": 297902,
+      "num": 466420,
       "word": "蛇年flag可以立起来了",
       "onboard_time": 1738812804,
       "rank": 16,
       "category": "动漫,艺人"
+    },
+    {
+      "raw_hot": 66704,
+      "num": 339153,
+      "word": "哪吒2能否掀起中国动画电影热潮",
+      "onboard_time": 1738814667,
+      "rank": 19,
+      "category": "电影,议题讨论"
     },
     {
       "raw_hot": 63235,
@@ -1073,6 +1201,14 @@
       "onboard_time": 1738797317,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 55241,
+      "num": 274725,
+      "word": "李现塞维利亚vlog",
+      "onboard_time": 1738815688,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 55138,

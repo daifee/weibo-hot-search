@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738813193455,
+  "endTime": 1738816069374,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -819,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3321024,
+      "num": 3321024,
+      "word": "哪吒2票房超战狼2",
+      "onboard_time": 1738813524,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 3315107,
       "num": 3315107,
       "word": "种地吧直播",
@@ -905,6 +913,14 @@
       "onboard_time": 1738060044,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3107064,
+      "num": 615175,
+      "word": "吴京 小哪吒冲冲冲",
+      "onboard_time": 1738814128,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 3096612,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1738050679,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1904111,
-      "num": 1904111,
-      "word": "流感为何会致命",
-      "onboard_time": 1738554066,
-      "rank": 3,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1902331,
-      "num": 1902331,
-      "word": "刘畅 人设",
-      "onboard_time": 1736343143,
-      "rank": 0,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
