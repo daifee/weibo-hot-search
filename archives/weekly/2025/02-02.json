@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738846708210,
+  "endTime": 1738848482364,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1739,6 +1739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 645527,
+      "num": 403299,
+      "word": "哪吒2放映时间预计会延长到6个月",
+      "onboard_time": 1738846403,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 645362,
       "num": 491396,
       "word": "樊振东发文为惠英红庆生",
@@ -2507,6 +2515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 491903,
+      "num": 491903,
+      "word": "山东淄博一游乐园用驴充当斑马",
+      "onboard_time": 1738843046,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 490050,
       "num": 490050,
       "word": "哄孩子的小姨为了打麻将有多拼",
@@ -3099,6 +3115,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 406468,
+      "num": 308836,
+      "word": "哪吒2登顶饺子能赚多少钱",
+      "onboard_time": 1738846463,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 405748,
       "num": 375028,
       "word": "格莱美红毯",
@@ -3417,14 +3441,6 @@
       "onboard_time": 1738583551,
       "rank": 6,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 366718,
-      "num": 366718,
-      "word": "山东淄博一游乐园用驴充当斑马",
-      "onboard_time": 1738843046,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 366282,
@@ -5179,14 +5195,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 230521,
-      "num": 230521,
-      "word": "哪吒2放映时间预计会延长到6个月",
-      "onboard_time": 1738846403,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 230327,
       "num": 230327,
       "word": "一家五口回娘家过年铺稻草打地铺",
@@ -5659,6 +5667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 212948,
+      "num": 212948,
+      "word": "王俊凯 路演",
+      "onboard_time": 1738846764,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 212933,
       "num": 212933,
       "word": "哪吒为何不像国人的名字",
@@ -5827,6 +5843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 207785,
+      "num": 358373,
+      "word": "孙颖莎vs波尔卡诺娃",
+      "onboard_time": 1738845922,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207711,
       "num": 338850,
       "word": "美一机场2客机碰撞机翼插进尾翼",
@@ -5881,14 +5905,6 @@
       "onboard_time": 1738552525,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 205902,
-      "num": 358373,
-      "word": "孙颖莎vs波尔卡诺娃",
-      "onboard_time": 1738845922,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 205769,
@@ -6187,6 +6203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200183,
+      "num": 200183,
+      "word": "朱志鑫说哪吒2太好看了",
+      "onboard_time": 1738848447,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 200103,
       "num": 1481062,
       "word": "大S曾称自己爱笑但其实很悲观",
@@ -6435,6 +6459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194463,
+      "num": 194463,
+      "word": "教育厅通报男子举报中学提前开学",
+      "onboard_time": 1738844124,
+      "rank": 36,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 194205,
       "num": 194205,
       "word": "刘诗诗原声台词好惊艳",
@@ -6497,6 +6529,14 @@
       "onboard_time": 1738675045,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192703,
+      "num": 397380,
+      "word": "孙颖莎3比0波尔卡诺娃",
+      "onboard_time": 1738847424,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 192176,
@@ -6611,14 +6651,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 189962,
-      "num": 189962,
-      "word": "教育厅通报男子举报中学提前开学",
-      "onboard_time": 1738844124,
-      "rank": 36,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 189920,
       "num": 189920,
       "word": "再婚的爸强势的妈破碎的她",
@@ -6729,6 +6761,14 @@
       "onboard_time": 1738723760,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 188825,
+      "num": 188825,
+      "word": "北京大风",
+      "onboard_time": 1738848085,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 188201,
@@ -7073,6 +7113,14 @@
       "onboard_time": 1738490118,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181499,
+      "num": 392739,
+      "word": "今冬最冻人时刻来了",
+      "onboard_time": 1738846704,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 181265,
@@ -7939,6 +7987,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 162336,
+      "num": 162336,
+      "word": "掌心OST阵容官宣",
+      "onboard_time": 1738848205,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162312,
       "num": 162312,
       "word": "种地吧明天返工直播",
@@ -8072,6 +8128,14 @@
       "word": "合上行李箱又是一年",
       "onboard_time": 1738666825,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160384,
+      "num": 246363,
+      "word": "四川一女子遛狗时被边牧犬跳起扑咬",
+      "onboard_time": 1738844962,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -8233,6 +8297,14 @@
       "onboard_time": 1738545557,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 156808,
+      "num": 191007,
+      "word": "王楚钦这球太牛了",
+      "onboard_time": 1738848265,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 156731,
@@ -8505,6 +8577,14 @@
       "onboard_time": 1738718240,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151476,
+      "num": 151476,
+      "word": "于适要不要再来一个的含金量",
+      "onboard_time": 1738847303,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 151095,
@@ -9051,28 +9131,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141772,
-      "num": 141772,
-      "word": "哪吒2登顶饺子能赚多少钱",
-      "onboard_time": 1738846463,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 141512,
       "num": 141512,
       "word": "留几手称自己带货亏到姥姥家",
       "onboard_time": 1738748005,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 141475,
-      "num": 246363,
-      "word": "四川一女子遛狗时被边牧犬跳起扑咬",
-      "onboard_time": 1738844962,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 141121,
@@ -9585,6 +9649,14 @@
       "onboard_time": 1738743861,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 130746,
+      "num": 130746,
+      "word": "六姊妹写实",
+      "onboard_time": 1738847064,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 130736,
@@ -10393,6 +10465,14 @@
       "onboard_time": 1738759164,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 116011,
+      "num": 116011,
+      "word": "66岁自律女生高能量的一天",
+      "onboard_time": 1738847725,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 116002,
@@ -11289,6 +11369,14 @@
       "onboard_time": 1738809443,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100150,
+      "num": 323895,
+      "word": "医生说观察一下是什么意思",
+      "onboard_time": 1738847424,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 100060,
@@ -12811,6 +12899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50817,
+      "num": 373269,
+      "word": "拍下电影画面发到朋友圈违法嘛",
+      "onboard_time": 1738847665,
+      "rank": 14,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 50670,
       "num": 89327,
       "word": "裁判看到孙颖莎语气立刻温柔",
@@ -14075,6 +14171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 10596,
+      "num": 203944,
+      "word": "新加坡大满贯赛2月6日赛程",
+      "onboard_time": 1738847845,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 10502,
       "num": 190234,
       "word": "刘昊然张新成白客模仿秧bot",
@@ -14089,6 +14193,14 @@
       "onboard_time": 1738474338,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 10462,
+      "num": 203949,
+      "word": "林诗栋蒯曼vs罗伯勒斯肖瑶茜",
+      "onboard_time": 1738848145,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 9942,

@@ -1,6 +1,6 @@
 {
   "startTime": 1738772916136,
-  "endTime": 1738846708210,
+  "endTime": 1738848482364,
   "band_list": [
     {
       "raw_hot": 11663552,
@@ -331,6 +331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 645527,
+      "num": 403299,
+      "word": "哪吒2放映时间预计会延长到6个月",
+      "onboard_time": 1738846403,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 632502,
       "num": 623296,
       "word": "马龙跟李现说这么破费",
@@ -523,6 +531,14 @@
       "category": "教育,互联网"
     },
     {
+      "raw_hot": 491903,
+      "num": 491903,
+      "word": "山东淄博一游乐园用驴充当斑马",
+      "onboard_time": 1738843046,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 482478,
       "num": 361405,
       "word": "北京一家长将熟睡女儿落地铁上",
@@ -659,6 +675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 406468,
+      "num": 308836,
+      "word": "哪吒2登顶饺子能赚多少钱",
+      "onboard_time": 1738846463,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 405325,
       "num": 350885,
       "word": "胖东来下架红内裤品牌",
@@ -744,14 +768,6 @@
       "word": "四川献血大王突发脑梗住院",
       "onboard_time": 1738820848,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 366718,
-      "num": 366718,
-      "word": "山东淄博一游乐园用驴充当斑马",
-      "onboard_time": 1738843046,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -1171,14 +1187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 230521,
-      "num": 230521,
-      "word": "哪吒2放映时间预计会延长到6个月",
-      "onboard_time": 1738846403,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 228427,
       "num": 228427,
       "word": "湖南卫视连发6条微博官宣周深",
@@ -1259,6 +1267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212948,
+      "num": 212948,
+      "word": "王俊凯 路演",
+      "onboard_time": 1738846764,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 212392,
       "num": 212392,
       "word": "男子放出400斤白牦牛给亲戚看",
@@ -1315,6 +1331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207785,
+      "num": 358373,
+      "word": "孙颖莎vs波尔卡诺娃",
+      "onboard_time": 1738845922,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207711,
       "num": 338850,
       "word": "美一机场2客机碰撞机翼插进尾翼",
@@ -1329,14 +1353,6 @@
       "onboard_time": 1738768765,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 205902,
-      "num": 358373,
-      "word": "孙颖莎vs波尔卡诺娃",
-      "onboard_time": 1738845922,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 205281,
@@ -1403,6 +1419,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 200183,
+      "num": 200183,
+      "word": "朱志鑫说哪吒2太好看了",
+      "onboard_time": 1738848447,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 199012,
       "num": 199012,
       "word": "任嘉伦亲临洛杉矶现场观战",
@@ -1425,6 +1449,14 @@
       "onboard_time": 1738809082,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194463,
+      "num": 194463,
+      "word": "教育厅通报男子举报中学提前开学",
+      "onboard_time": 1738844124,
+      "rank": 36,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 194161,
@@ -1451,6 +1483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192703,
+      "num": 397380,
+      "word": "孙颖莎3比0波尔卡诺娃",
+      "onboard_time": 1738847424,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191988,
       "num": 191988,
       "word": "哪吒头像",
@@ -1475,14 +1515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189962,
-      "num": 189962,
-      "word": "教育厅通报男子举报中学提前开学",
-      "onboard_time": 1738844124,
-      "rank": 36,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 189742,
       "num": 189742,
       "word": "太乙真人为啥用藕重塑哪吒",
@@ -1505,6 +1537,14 @@
       "onboard_time": 1738834104,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 188825,
+      "num": 188825,
+      "word": "北京大风",
+      "onboard_time": 1738848085,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187067,
@@ -1577,6 +1617,14 @@
       "onboard_time": 1738823184,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 181499,
+      "num": 392739,
+      "word": "今冬最冻人时刻来了",
+      "onboard_time": 1738846704,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179938,
@@ -1795,6 +1843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162336,
+      "num": 162336,
+      "word": "掌心OST阵容官宣",
+      "onboard_time": 1738848205,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162312,
       "num": 162312,
       "word": "种地吧明天返工直播",
@@ -1817,6 +1873,14 @@
       "onboard_time": 1738833022,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 160384,
+      "num": 246363,
+      "word": "四川一女子遛狗时被边牧犬跳起扑咬",
+      "onboard_time": 1738844962,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160269,
@@ -1848,6 +1912,14 @@
       "word": "王楚钦一箭穿心",
       "onboard_time": 1738841722,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 156808,
+      "num": 191007,
+      "word": "王楚钦这球太牛了",
+      "onboard_time": 1738848265,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -1904,6 +1976,14 @@
       "word": "姜子牙姜还是老的辣",
       "onboard_time": 1738845144,
       "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 151476,
+      "num": 151476,
+      "word": "于适要不要再来一个的含金量",
+      "onboard_time": 1738847303,
+      "rank": 42,
       "category": "电影"
     },
     {
@@ -1977,22 +2057,6 @@
       "onboard_time": 1738775836,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 141772,
-      "num": 141772,
-      "word": "哪吒2登顶饺子能赚多少钱",
-      "onboard_time": 1738846463,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 141475,
-      "num": 246363,
-      "word": "四川一女子遛狗时被边牧犬跳起扑咬",
-      "onboard_time": 1738844962,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 140650,
@@ -2129,6 +2193,14 @@
       "onboard_time": 1738735402,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130746,
+      "num": 130746,
+      "word": "六姊妹写实",
+      "onboard_time": 1738847064,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 130719,
@@ -2329,6 +2401,14 @@
       "onboard_time": 1738822645,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 116011,
+      "num": 116011,
+      "word": "66岁自律女生高能量的一天",
+      "onboard_time": 1738847725,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 115800,
@@ -2537,6 +2617,14 @@
       "onboard_time": 1738809443,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100150,
+      "num": 323895,
+      "word": "医生说观察一下是什么意思",
+      "onboard_time": 1738847424,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 100060,
@@ -2851,6 +2939,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 50817,
+      "num": 373269,
+      "word": "拍下电影画面发到朋友圈违法嘛",
+      "onboard_time": 1738847665,
+      "rank": 14,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 50670,
       "num": 89327,
       "word": "裁判看到孙颖莎语气立刻温柔",
@@ -3136,6 +3232,22 @@
       "word": "勇士全力追求杜兰特",
       "onboard_time": 1738773679,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 10596,
+      "num": 203944,
+      "word": "新加坡大满贯赛2月6日赛程",
+      "onboard_time": 1738847845,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 10462,
+      "num": 203949,
+      "word": "林诗栋蒯曼vs罗伯勒斯肖瑶茜",
+      "onboard_time": 1738848145,
+      "rank": 29,
       "category": "体育"
     },
     {
