@@ -1,6 +1,6 @@
 {
   "startTime": 1738772916136,
-  "endTime": 1738812366055,
+  "endTime": 1738813193455,
   "band_list": [
     {
       "raw_hot": 1531930,
@@ -27,6 +27,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1297754,
+      "num": 1297754,
+      "word": "哪吒之魔童闹海总票房破57亿元",
+      "onboard_time": 1738810943,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1280237,
       "num": 1280237,
       "word": "哪吒之魔童闹海总票房破56亿",
@@ -35,8 +43,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1178018,
-      "num": 1178018,
+      "raw_hot": 1236893,
+      "num": 1236893,
       "word": "雷军曾劝年轻人要尽快学会AI",
       "onboard_time": 1738808364,
       "rank": 1,
@@ -65,14 +73,6 @@
       "onboard_time": 1738746503,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 856146,
-      "num": 856146,
-      "word": "哪吒之魔童闹海总票房破57亿元",
-      "onboard_time": 1738810943,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 839958,
@@ -107,6 +107,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 657323,
+      "num": 657323,
+      "word": "哪吒票房",
+      "onboard_time": 1738745064,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 654927,
+      "num": 654927,
+      "word": "吴宣仪 浪姐",
+      "onboard_time": 1738810703,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 622143,
       "num": 622143,
       "word": "12306回应买短乘长导致超员",
@@ -123,20 +139,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 606548,
-      "num": 541736,
-      "word": "哪吒票房",
-      "onboard_time": 1738745064,
-      "rank": 11,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 592504,
-      "num": 539379,
-      "word": "吴宣仪 浪姐",
+      "raw_hot": 607998,
+      "num": 657326,
+      "word": "金价",
       "onboard_time": 1738810703,
-      "rank": 33,
-      "category": "艺人"
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 573515,
@@ -219,14 +227,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 396445,
-      "num": 396445,
-      "word": "金价",
-      "onboard_time": 1738810703,
-      "rank": 39,
-      "category": "财经"
-    },
-    {
       "raw_hot": 385442,
       "num": 238904,
       "word": "BLACKPINK新世巡预告",
@@ -291,6 +291,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 335397,
+      "num": 335397,
+      "word": "战狼2",
+      "onboard_time": 1738758693,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 331907,
+      "num": 250031,
+      "word": "哪吒2电影票在北美被疯抢",
+      "onboard_time": 1738811364,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 330140,
       "num": 330140,
       "word": "国家安全机关发布安全提示",
@@ -307,12 +323,12 @@
       "category": "电影,艺人"
     },
     {
-      "raw_hot": 287988,
-      "num": 250031,
-      "word": "哪吒2电影票在北美被疯抢",
-      "onboard_time": 1738811364,
-      "rank": 21,
-      "category": "电影"
+      "raw_hot": 297042,
+      "num": 297042,
+      "word": "桑延有一双爱温以凡的眼睛",
+      "onboard_time": 1738811783,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 274041,
@@ -339,20 +355,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 265326,
+      "num": 383962,
+      "word": "有了DeepSeek学语文还有用吗",
+      "onboard_time": 1738811722,
+      "rank": 13,
+      "category": "教育,互联网"
+    },
+    {
+      "raw_hot": 259651,
+      "num": 374230,
+      "word": "饺子说敖丙武器不叫海盐棒棒糖",
+      "onboard_time": 1738811783,
+      "rank": 14,
+      "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 255106,
+      "num": 206591,
+      "word": "河南老板拿价值170万玛莎拉蒂来套圈",
+      "onboard_time": 1738812385,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 249060,
       "num": 249060,
       "word": "这类微短剧被禁止上线传播",
       "onboard_time": 1738752625,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 245466,
-      "num": 245466,
-      "word": "桑延有一双爱温以凡的眼睛",
-      "onboard_time": 1738811783,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 245089,
@@ -369,6 +401,14 @@
       "onboard_time": 1738810282,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 240462,
+      "num": 240462,
+      "word": "杨子自曝曾给黄圣依现场改礼服",
+      "onboard_time": 1738812144,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 237746,
@@ -393,6 +433,14 @@
       "onboard_time": 1738809862,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 222397,
+      "num": 222397,
+      "word": "徐冬冬把towel读成掏窝",
+      "onboard_time": 1738812204,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 212392,
@@ -443,6 +491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 203818,
+      "num": 203818,
+      "word": "对话30岁的羽生结弦",
+      "onboard_time": 1738812385,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203515,
       "num": 203515,
       "word": "终于知道陈哲远为什么哭了",
@@ -451,20 +507,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199201,
-      "num": 199201,
-      "word": "战狼2",
-      "onboard_time": 1738758693,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 196421,
       "num": 228064,
       "word": "京津冀最大阵风可达9级",
       "onboard_time": 1738809082,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191438,
+      "num": 191438,
+      "word": "白敬亭难哄眼神",
+      "onboard_time": 1738812804,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 185554,
@@ -595,6 +651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 154073,
+      "num": 223491,
+      "word": "男子撞人身亡后转移130万卖房款",
+      "onboard_time": 1738811903,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153596,
       "num": 153596,
       "word": "剑网3",
@@ -617,14 +681,6 @@
       "onboard_time": 1738754184,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 149693,
-      "num": 149693,
-      "word": "杨子自曝曾给黄圣依现场改礼服",
-      "onboard_time": 1738812144,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 147778,
@@ -659,14 +715,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 139955,
-      "num": 139955,
-      "word": "徐冬冬把towel读成掏窝",
-      "onboard_time": 1738812204,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 136229,
       "num": 136229,
       "word": "央农谈重塑哪吒为何用莲藕",
@@ -689,6 +737,14 @@
       "onboard_time": 1738758444,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 132176,
+      "num": 132176,
+      "word": "库里巴特勒的最后一搏",
+      "onboard_time": 1738812565,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 132155,
@@ -723,8 +779,24 @@
       "category": "电影"
     },
     {
+      "raw_hot": 127281,
+      "num": 127281,
+      "word": "李嘉琦六妹是看着大姐长大的",
+      "onboard_time": 1738813163,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 124084,
+      "num": 124084,
+      "word": "掌心好敢拍",
+      "onboard_time": 1738813163,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123800,
-      "num": 197102,
+      "num": 210150,
       "word": "他们都不想去勇士",
       "onboard_time": 1738808482,
       "rank": 24,
@@ -843,6 +915,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 105407,
+      "num": 478518,
+      "word": "怎么看待坐飞机加价选座",
+      "onboard_time": 1738811722,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100157,
       "num": 100157,
       "word": "为中国冰雪加油",
@@ -947,6 +1027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67413,
+      "num": 297902,
+      "word": "蛇年flag可以立起来了",
+      "onboard_time": 1738812804,
+      "rank": 16,
+      "category": "动漫,艺人"
+    },
+    {
       "raw_hot": 63235,
       "num": 89294,
       "word": "男子跑动画公司问哪吒3多久上映",
@@ -1035,14 +1123,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 47041,
-      "num": 444509,
-      "word": "怎么看待坐飞机加价选座",
-      "onboard_time": 1738811722,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41121,
       "num": 89263,
       "word": "国产电影团建式祝贺哪吒2",
@@ -1057,14 +1137,6 @@
       "onboard_time": 1738797496,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 40050,
-      "num": 383962,
-      "word": "有了DeepSeek学语文还有用吗",
-      "onboard_time": 1738811722,
-      "rank": 13,
-      "category": "教育,互联网"
     },
     {
       "raw_hot": 37281,
@@ -1083,28 +1155,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 35378,
-      "num": 374230,
-      "word": "饺子说敖丙武器不叫海盐棒棒糖",
-      "onboard_time": 1738811783,
-      "rank": 14,
-      "category": "综艺,艺人"
-    },
-    {
       "raw_hot": 34310,
       "num": 89201,
       "word": "谷歌删除不将AI用于武器研发的承诺条款",
       "onboard_time": 1738764325,
       "rank": 49,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 31910,
-      "num": 223491,
-      "word": "男子撞人身亡后转移130万卖房款",
-      "onboard_time": 1738811903,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 28314,
@@ -1152,6 +1208,14 @@
       "word": "亚冬会开幕式中国代表团旗手",
       "onboard_time": 1738771822,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 22010,
+      "num": 710421,
+      "word": "AI看双亚冬城市哈尔滨",
+      "onboard_time": 1738812444,
+      "rank": 2,
       "category": "体育"
     },
     {
@@ -1257,6 +1321,9 @@
     },
     {
       "word": "#习近平同巴基斯坦总统会谈#"
+    },
+    {
+      "word": "#习近平会见泰国总理#"
     }
   ]
 }
