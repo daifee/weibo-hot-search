@@ -1,0 +1,410 @@
+{
+  "runTime": 1738867419750,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 260985,
+        "num": 260985,
+        "word": "哪吒影史第一",
+        "onboard_time": 1738817490,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209473,
+        "num": 209473,
+        "word": "大批妙瓦底电诈园受害者被救",
+        "onboard_time": 1738858223,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16953,
+        "num": 149120,
+        "word": "三个关键词概括第九届亚冬会",
+        "onboard_time": 1738846282,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123308,
+        "num": 123308,
+        "word": "顾客收到2个菜844元全额退款",
+        "onboard_time": 1738862955,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121526,
+        "num": 121526,
+        "word": "哪吒2进全球影史单一市场票房榜前二",
+        "onboard_time": 1738855585,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 94640,
+        "num": 94640,
+        "word": "建议别在晚上做重大决定",
+        "onboard_time": 1738850725,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110460,
+        "num": 93847,
+        "word": "哪吒2登顶饺子能赚多少钱",
+        "onboard_time": 1738846463,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97719,
+        "num": 89339,
+        "word": "哪吒",
+        "onboard_time": 1738840224,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 64268,
+        "num": 86728,
+        "word": "男版美人鱼肚子一游一duang",
+        "onboard_time": 1738857024,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12419,
+        "num": 86336,
+        "word": "医生让观察到底要观察什么",
+        "onboard_time": 1738866553,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 317338,
+        "num": 83640,
+        "word": "骑手因包装破损被华为店索赔一万五",
+        "onboard_time": 1738858462,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104772,
+        "num": 80859,
+        "word": "范思哲取关",
+        "onboard_time": 1738839504,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78401,
+        "num": 78401,
+        "word": "哪吒之魔童闹海登顶中国电影票房榜",
+        "onboard_time": 1738816708,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 70931,
+        "num": 70931,
+        "word": "李飞飞团队50美元复刻DeepSeek真相",
+        "onboard_time": 1738858101,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69894,
+        "num": 69894,
+        "word": "网友爸爸去世多年微信账号突然消失",
+        "onboard_time": 1738850186,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67775,
+        "num": 67775,
+        "word": "好一个乖乖女",
+        "onboard_time": 1738851265,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64078,
+        "num": 64078,
+        "word": "小S许雅钧为大S包机",
+        "onboard_time": 1738818210,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59192,
+        "num": 59192,
+        "word": "39名妙瓦底电诈园区中国受害者被解救",
+        "onboard_time": 1738857441,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53569,
+        "num": 53569,
+        "word": "悬赏5万的走失宠物狗遭烹饪分食",
+        "onboard_time": 1738840404,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40970,
+        "num": 53497,
+        "word": "妈妈回应1岁失明宝宝学走盲道",
+        "onboard_time": 1738851507,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64265,
+        "num": 52901,
+        "word": "敖丙妈妈长在我的心坎上了",
+        "onboard_time": 1738853665,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 61803,
+        "num": 52140,
+        "word": "范思哲 宁艺卓",
+        "onboard_time": 1738843945,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57446,
+        "num": 51307,
+        "word": "妻子双肺全白丈夫含泪卖车不放弃",
+        "onboard_time": 1738832305,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51113,
+        "num": 51113,
+        "word": "妻子招待完丈夫朋友后被一顿猛夸",
+        "onboard_time": 1738849166,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40894,
+        "num": 49000,
+        "word": "拍下电影画面发到朋友圈违法嘛",
+        "onboard_time": 1738847665,
+        "rank": 24,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 48658,
+        "num": 48658,
+        "word": "李心艾官宣怀孕",
+        "onboard_time": 1738843345,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42108,
+        "num": 42108,
+        "word": "哪吒2海外上映已场场爆满",
+        "onboard_time": 1738848688,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 36583,
+        "num": 36583,
+        "word": "北京大风",
+        "onboard_time": 1738848085,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36503,
+        "num": 36503,
+        "word": "教育厅通报男子举报中学提前开学",
+        "onboard_time": 1738844124,
+        "rank": 28,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 33804,
+        "num": 33804,
+        "word": "危急时刻他身骑白马入江救人",
+        "onboard_time": 1738864154,
+        "rank": 29,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 39946,
+        "num": 33653,
+        "word": "哪吒2北美预售票遭疯抢",
+        "onboard_time": 1738866313,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 35212,
+        "num": 33482,
+        "word": "女孩吃糖葫芦粘掉近3万元种植牙",
+        "onboard_time": 1738861816,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35844,
+        "num": 33398,
+        "word": "哪吒2放映时间预计会延长到6个月",
+        "onboard_time": 1738846403,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 33206,
+        "num": 33206,
+        "word": "威海的海边美成了油画",
+        "onboard_time": 1738860558,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33181,
+        "num": 33181,
+        "word": "哪吒之魔童闹海预测票房超100亿",
+        "onboard_time": 1738859778,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 33068,
+        "num": 33068,
+        "word": "DeepSeek已暂停API服务充值",
+        "onboard_time": 1738839623,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 32361,
+        "num": 32361,
+        "word": "电影蛟龙行动",
+        "onboard_time": 1738853846,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32340,
+        "num": 32340,
+        "word": "停车费8830元把女子吓住了",
+        "onboard_time": 1738843165,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31795,
+        "num": 31795,
+        "word": "虞书欣双轨黄裙造型",
+        "onboard_time": 1738842925,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31626,
+        "num": 31626,
+        "word": "中方再回应特朗普称将接管加沙",
+        "onboard_time": 1738863434,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31624,
+        "num": 31624,
+        "word": "定远中学提前开学涉事人被停职",
+        "onboard_time": 1738848205,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31363,
+        "num": 31363,
+        "word": "石矶娘娘",
+        "onboard_time": 1738850365,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29843,
+        "num": 29843,
+        "word": "王俊凯春节在家打麻将",
+        "onboard_time": 1738853725,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29523,
+        "num": 29523,
+        "word": "马斯克炮轰美国国际开发署",
+        "onboard_time": 1738850365,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28944,
+        "num": 28944,
+        "word": "微信客服称账号长期不登会被回收",
+        "onboard_time": 1738852826,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 28080,
+        "num": 28943,
+        "word": "徐艺洋配音小石矶娘娘",
+        "onboard_time": 1738843463,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 25801,
+        "num": 28941,
+        "word": "刘晓庆演短剧了",
+        "onboard_time": 1738854092,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25317,
+        "num": 28941,
+        "word": "周宪怎么胖成这样了",
+        "onboard_time": 1738863855,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25075,
+        "num": 28938,
+        "word": "专访哪吒2动画导演",
+        "onboard_time": 1738867032,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 21925,
+        "num": 28938,
+        "word": "糖尿病患者将告别扎手指测血糖方式",
+        "onboard_time": 1738855225,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#中泰一家亲历久弥新#"
+    }
+  }
+}
