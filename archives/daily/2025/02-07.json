@@ -1,6 +1,6 @@
 {
   "startTime": 1738859204643,
-  "endTime": 1738874249868,
+  "endTime": 1738876860041,
   "band_list": [
     {
       "raw_hot": 1030517,
@@ -523,20 +523,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 20671,
+      "num": 20671,
+      "word": "特朗普坚称其加沙提议每个人都喜欢",
+      "onboard_time": 1738872672,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 20422,
       "num": 20422,
       "word": "猫眼预测",
       "onboard_time": 1738871831,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 19933,
-      "num": 20338,
-      "word": "特朗普坚称其加沙提议每个人都喜欢",
-      "onboard_time": 1738872672,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 18993,
