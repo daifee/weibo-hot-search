@@ -1,6 +1,6 @@
 {
   "startTime": 1738772916136,
-  "endTime": 1738810306781,
+  "endTime": 1738810834176,
   "band_list": [
     {
       "raw_hot": 1531930,
@@ -19,8 +19,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1298510,
-      "num": 1298510,
+      "raw_hot": 1326051,
+      "num": 1326051,
       "word": "哪吒3留太多坑导演绝望",
       "onboard_time": 1738805123,
       "rank": 3,
@@ -91,6 +91,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 663749,
+      "num": 663749,
+      "word": "教育厅回应男子举报提前开学被回怼",
+      "onboard_time": 1738808062,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 622143,
       "num": 622143,
       "word": "12306回应买短乘长导致超员",
@@ -104,6 +112,14 @@
       "word": "哪吒2预测票房超95亿",
       "onboard_time": 1738769784,
       "rank": 6,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 594901,
+      "num": 529869,
+      "word": "哪吒票房",
+      "onboard_time": 1738745064,
+      "rank": 11,
       "category": "电影"
     },
     {
@@ -123,28 +139,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 542792,
+      "num": 542792,
+      "word": "泰缅边境地区断电后现状",
+      "onboard_time": 1738808963,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 535691,
       "num": 535691,
       "word": "ChatGPT搜索功能今起人人可用",
       "onboard_time": 1738801822,
       "rank": 7,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 509443,
-      "num": 509443,
-      "word": "教育厅回应男子举报提前开学被回怼",
-      "onboard_time": 1738808062,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 490608,
-      "num": 426250,
-      "word": "哪吒票房",
-      "onboard_time": 1738745064,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 473888,
@@ -179,14 +187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 403104,
-      "num": 403104,
-      "word": "泰缅边境地区断电后现状",
-      "onboard_time": 1738808963,
-      "rank": 8,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 402345,
       "num": 442769,
       "word": "节后第二天状态",
@@ -211,6 +211,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 378527,
+      "num": 378527,
+      "word": "麦琳开工",
+      "onboard_time": 1738807162,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 365877,
       "num": 365877,
       "word": "梅婷回复沈月",
@@ -225,14 +233,6 @@
       "onboard_time": 1738770684,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 354840,
-      "num": 347718,
-      "word": "麦琳开工",
-      "onboard_time": 1738807162,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 352814,
@@ -315,8 +315,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 225488,
-      "num": 204096,
+      "raw_hot": 232420,
+      "num": 232420,
       "word": "哪吒2",
       "onboard_time": 1738806741,
       "rank": 25,
@@ -347,8 +347,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205740,
-      "num": 205740,
+      "raw_hot": 206045,
+      "num": 206045,
       "word": "哪吒盲盒手办上架两天就售罄",
       "onboard_time": 1738806381,
       "rank": 30,
@@ -372,11 +372,19 @@
     },
     {
       "raw_hot": 196421,
-      "num": 196421,
+      "num": 228064,
       "word": "京津冀最大阵风可达9级",
       "onboard_time": 1738809082,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191252,
+      "num": 191252,
+      "word": "英伟达市值一夜涨超1万亿",
+      "onboard_time": 1738809862,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 185554,
@@ -499,6 +507,30 @@
       "category": "情感"
     },
     {
+      "raw_hot": 156222,
+      "num": 156222,
+      "word": "以色列欢迎美国退出联合国人权理事会",
+      "onboard_time": 1738809981,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 154940,
+      "num": 154940,
+      "word": "吴宣仪 浪姐",
+      "onboard_time": 1738810703,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 152978,
+      "num": 219728,
+      "word": "维金斯加盟热火",
+      "onboard_time": 1738810282,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150873,
       "num": 150873,
       "word": "女子误把摔炮当奶糖吃炸伤口腔",
@@ -507,20 +539,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147778,
+      "num": 147778,
+      "word": "掌心",
+      "onboard_time": 1738810342,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142531,
       "num": 137378,
       "word": "阿根廷宣布将退出世界卫生组织",
       "onboard_time": 1738775836,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 142233,
-      "num": 142233,
-      "word": "英伟达市值一夜涨超1万亿",
-      "onboard_time": 1738809862,
-      "rank": 35,
-      "category": "财经"
     },
     {
       "raw_hot": 140650,
@@ -539,6 +571,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 138566,
+      "num": 138566,
+      "word": "金价",
+      "onboard_time": 1738810703,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 135865,
       "num": 226352,
       "word": "小蛇糕",
@@ -553,6 +593,14 @@
       "onboard_time": 1738758444,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 133462,
+      "num": 133462,
+      "word": "41岁女子多次暴饮暴食险丧命",
+      "onboard_time": 1738810282,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132155,
@@ -603,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121839,
+      "num": 121839,
+      "word": "哪吒2总票房将刷新中国电影市场纪录",
+      "onboard_time": 1738808364,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 119074,
       "num": 208530,
       "word": "泰国切断泰缅边境5处电力供应",
@@ -611,12 +667,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 118754,
+      "num": 118754,
+      "word": "亚冬会倒计时1天",
+      "onboard_time": 1738809681,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118656,
       "num": 132055,
       "word": "尘白禁区新pv",
       "onboard_time": 1738771464,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 115800,
+      "num": 115800,
+      "word": "比打工人先到工位的是财神摆件",
+      "onboard_time": 1738810101,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 115486,
@@ -635,28 +707,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 115205,
-      "num": 115205,
-      "word": "41岁女子多次暴饮暴食险丧命",
-      "onboard_time": 1738810282,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115101,
-      "num": 115101,
-      "word": "以色列欢迎美国退出联合国人权理事会",
-      "onboard_time": 1738809981,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 113942,
       "num": 132128,
       "word": "哪吒2最快破55亿电影",
       "onboard_time": 1738768705,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 111710,
+      "num": 860553,
+      "word": "中国年正在成为世界年",
+      "onboard_time": 1738761925,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111260,
@@ -675,44 +739,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 109053,
-      "num": 109053,
-      "word": "哪吒2总票房将刷新中国电影市场纪录",
-      "onboard_time": 1738808364,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 107913,
-      "num": 107913,
-      "word": "维金斯加盟热火",
-      "onboard_time": 1738810282,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 107252,
       "num": 132084,
       "word": "藕饼",
       "onboard_time": 1738764745,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 100316,
-      "num": 100316,
-      "word": "比打工人先到工位的是财神摆件",
-      "onboard_time": 1738810101,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 100182,
-      "num": 100182,
-      "word": "亚冬会倒计时1天",
-      "onboard_time": 1738809681,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 100157,
@@ -737,6 +769,14 @@
       "onboard_time": 1738803981,
       "rank": 49,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 95776,
+      "num": 129033,
+      "word": "缅甸妙瓦底居民排长队抢购燃油",
+      "onboard_time": 1738810703,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 94497,
@@ -769,14 +809,6 @@
       "onboard_time": 1738767567,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 81067,
-      "num": 860553,
-      "word": "中国年正在成为世界年",
-      "onboard_time": 1738761925,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 79680,
@@ -1073,6 +1105,14 @@
       "onboard_time": 1738787171,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 9091,
+      "num": 810732,
+      "word": "京彩春节的n种打开方式",
+      "onboard_time": 1738810583,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 8914,
