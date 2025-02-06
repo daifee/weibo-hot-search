@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738867419750,
+  "endTime": 1738869552683,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -13555,6 +13555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 41238,
+      "num": 41238,
+      "word": "哪吒2北美预售票遭疯抢",
+      "onboard_time": 1738866313,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 41121,
       "num": 89263,
       "word": "国产电影团建式祝贺哪吒2",
@@ -13601,14 +13609,6 @@
       "onboard_time": 1738441390,
       "rank": 13,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 39946,
-      "num": 34995,
-      "word": "哪吒2北美预售票遭疯抢",
-      "onboard_time": 1738866313,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 39941,
@@ -13737,6 +13737,14 @@
       "onboard_time": 1738590390,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35465,
+      "num": 35465,
+      "word": "周深第一次国外唱响光亮",
+      "onboard_time": 1738868772,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 35159,
@@ -14355,12 +14363,36 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 18826,
+      "num": 25708,
+      "word": "周深巴黎演绎中国风戏腔",
+      "onboard_time": 1738859958,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 18465,
       "num": 117617,
       "word": "瑞典一所学校发生枪击至少5人被击中",
       "onboard_time": 1738692434,
       "rank": 25,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 18448,
+      "num": 25703,
+      "word": "梁洁wink不是weak",
+      "onboard_time": 1738869432,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 18242,
+      "num": 25702,
+      "word": "孙颖莎谈对阵何卓佳",
+      "onboard_time": 1738869492,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 16964,
@@ -14705,6 +14737,14 @@
       "onboard_time": 1738503740,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 9803,
+      "num": 60004,
+      "word": "中国和文莱共建命运共同体",
+      "onboard_time": 1738869012,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 9629,
