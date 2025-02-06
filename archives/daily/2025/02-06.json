@@ -1,21 +1,29 @@
 {
   "startTime": 1738772916136,
-  "endTime": 1738816069374,
+  "endTime": 1738816858018,
   "band_list": [
     {
-      "raw_hot": 3321024,
-      "num": 3321024,
+      "raw_hot": 3710052,
+      "num": 3710052,
       "word": "哪吒2票房超战狼2",
       "onboard_time": 1738813524,
       "rank": 0,
       "category": "电影"
     },
     {
-      "raw_hot": 3107064,
+      "raw_hot": 3176078,
       "num": 615175,
       "word": "吴京 小哪吒冲冲冲",
       "onboard_time": 1738814128,
       "rank": 3,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 2222226,
+      "num": 483886,
+      "word": "长津湖",
+      "onboard_time": 1738758444,
+      "rank": 33,
       "category": "电影"
     },
     {
@@ -25,6 +33,14 @@
       "onboard_time": 1738803803,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1455634,
+      "num": 460678,
+      "word": "哪吒之魔童闹海登顶中国电影票房榜",
+      "onboard_time": 1738816708,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 1393800,
@@ -83,6 +99,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1015534,
+      "num": 465716,
+      "word": "中国影史票房排名",
+      "onboard_time": 1738816228,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 863814,
       "num": 262565,
       "word": "沈腾方否认和林允恋情",
@@ -97,14 +121,6 @@
       "onboard_time": 1738804341,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 817013,
-      "num": 461955,
-      "word": "长津湖",
-      "onboard_time": 1738758444,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 735677,
@@ -219,6 +235,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 533651,
+      "num": 533651,
+      "word": "薛蛮子",
+      "onboard_time": 1738815086,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 473888,
       "num": 473888,
       "word": "NBA交易",
@@ -233,6 +257,22 @@
       "onboard_time": 1738811722,
       "rank": 13,
       "category": "教育,互联网"
+    },
+    {
+      "raw_hot": 461115,
+      "num": 461115,
+      "word": "男子撞人身亡后转移130万卖房款",
+      "onboard_time": 1738811903,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 457783,
+      "num": 322930,
+      "word": "哪吒2电影票在北美被疯抢",
+      "onboard_time": 1738811364,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 454780,
@@ -251,28 +291,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 439415,
-      "num": 439415,
-      "word": "男子撞人身亡后转移130万卖房款",
-      "onboard_time": 1738811903,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 434832,
       "num": 434832,
       "word": "北京这次大风有一定极端性",
       "onboard_time": 1738805843,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 420177,
-      "num": 322930,
-      "word": "哪吒2电影票在北美被疯抢",
-      "onboard_time": 1738811364,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 407201,
@@ -331,14 +355,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 356799,
-      "num": 356799,
-      "word": "薛蛮子",
-      "onboard_time": 1738815086,
-      "rank": 16,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 353560,
       "num": 353560,
       "word": "对话30岁的羽生结弦",
@@ -387,12 +403,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 329825,
+      "num": 329825,
+      "word": "樊振东送惠英红球拍的编码",
+      "onboard_time": 1738815747,
+      "rank": 36,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 316056,
       "num": 220659,
       "word": "祝绪丹配音小石矶娘娘",
       "onboard_time": 1738766245,
       "rank": 21,
       "category": "电影,艺人"
+    },
+    {
+      "raw_hot": 304161,
+      "num": 304161,
+      "word": "胖东来回应所售红色内裤掉色过敏",
+      "onboard_time": 1738815388,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 297042,
@@ -407,6 +439,30 @@
       "num": 291628,
       "word": "河南老板拿价值170万玛莎拉蒂来套圈",
       "onboard_time": 1738812385,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 285875,
+      "num": 310044,
+      "word": "王者荣耀小蛇糕",
+      "onboard_time": 1738815326,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 284167,
+      "num": 284167,
+      "word": "师父死去的白月光竟是我自己",
+      "onboard_time": 1738814906,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 275763,
+      "num": 275763,
+      "word": "北京一家长将熟睡女儿落地铁上",
+      "onboard_time": 1738816169,
       "rank": 30,
       "category": "民生新闻"
     },
@@ -491,14 +547,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 228080,
-      "num": 228080,
-      "word": "胖东来回应所售红色内裤掉色过敏",
-      "onboard_time": 1738815388,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 227140,
       "num": 227140,
       "word": "以色列欢迎美国退出联合国人权理事会",
@@ -537,14 +585,6 @@
       "onboard_time": 1738767504,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 212267,
-      "num": 212267,
-      "word": "师父死去的白月光竟是我自己",
-      "onboard_time": 1738814906,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 211859,
@@ -612,7 +652,7 @@
     },
     {
       "raw_hot": 187067,
-      "num": 273791,
+      "num": 279516,
       "word": "王天辰九年前就在内娱服兵役了",
       "onboard_time": 1738815508,
       "rank": 28,
@@ -633,14 +673,6 @@
       "onboard_time": 1738808364,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 177800,
-      "num": 220874,
-      "word": "樊振东送惠英红球拍的编码",
-      "onboard_time": 1738815747,
-      "rank": 36,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 176120,
@@ -699,6 +731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169602,
+      "num": 288525,
+      "word": "孙颖莎王艺迪vs大藤沙月横井咲樱",
+      "onboard_time": 1738814787,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169271,
       "num": 169271,
       "word": "警方通报男子服务区划破他人汽车轮胎",
@@ -715,20 +755,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 167388,
-      "num": 167388,
-      "word": "王者荣耀小蛇糕",
-      "onboard_time": 1738815326,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 163492,
       "num": 163492,
       "word": "寒潮大风多地降温10摄氏度",
       "onboard_time": 1738805963,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163105,
+      "num": 163105,
+      "word": "似锦双世宿命版海报",
+      "onboard_time": 1738816650,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 162614,
@@ -763,6 +803,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 155121,
+      "num": 155121,
+      "word": "有没有人替岳云鹏发声啊",
+      "onboard_time": 1738816650,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 153596,
       "num": 153596,
       "word": "剑网3",
@@ -793,6 +841,14 @@
       "onboard_time": 1738810342,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144192,
+      "num": 300719,
+      "word": "王楚钦林诗栋vs卡尔森法尔克",
+      "onboard_time": 1738814787,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 142531,
@@ -875,6 +931,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 128385,
+      "num": 400174,
+      "word": "举报提前开学补课被回怼究竟谁错了",
+      "onboard_time": 1738815508,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127281,
       "num": 127281,
       "word": "李嘉琦六妹是看着大姐长大的",
@@ -884,7 +948,7 @@
     },
     {
       "raw_hot": 126605,
-      "num": 273198,
+      "num": 276826,
       "word": "默沙东回应暂停向中国供应HPV疫苗",
       "onboard_time": 1738815206,
       "rank": 29,
@@ -971,14 +1035,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 112114,
-      "num": 220679,
-      "word": "举报提前开学补课被回怼究竟谁错了",
-      "onboard_time": 1738815508,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111710,
       "num": 860553,
       "word": "中国年正在成为世界年",
@@ -1017,14 +1073,6 @@
       "onboard_time": 1738764745,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 105966,
-      "num": 288525,
-      "word": "孙颖莎王艺迪vs大藤沙月横井咲樱",
-      "onboard_time": 1738814787,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 105407,
@@ -1073,14 +1121,6 @@
       "onboard_time": 1738752087,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 89373,
-      "num": 300719,
-      "word": "王楚钦林诗栋vs卡尔森法尔克",
-      "onboard_time": 1738814787,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 82620,
@@ -1193,6 +1233,14 @@
       "onboard_time": 1738776256,
       "rank": 17,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 59054,
+      "num": 454804,
+      "word": "女子暴饮暴食医生胃里取出10斤食物",
+      "onboard_time": 1738816467,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57265,
@@ -1347,7 +1395,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 22010,
+      "raw_hot": 22029,
       "num": 710421,
       "word": "AI看双亚冬城市哈尔滨",
       "onboard_time": 1738812444,
@@ -1361,6 +1409,14 @@
       "onboard_time": 1738778774,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17656,
+      "num": 332356,
+      "word": "哪吒盲盒卖到脱销",
+      "onboard_time": 1738816586,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 16964,
@@ -1401,6 +1457,14 @@
       "onboard_time": 1738798038,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 14218,
+      "num": 159468,
+      "word": "哪吒2影史票房第1",
+      "onboard_time": 1738816830,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 12683,
