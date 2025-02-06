@@ -1,6 +1,6 @@
 {
   "startTime": 1738772916136,
-  "endTime": 1738824295214,
+  "endTime": 1738826491127,
   "band_list": [
     {
       "raw_hot": 11663552,
@@ -171,20 +171,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 769755,
+      "num": 363722,
+      "word": "哪吒一上午连破两个票房纪录",
+      "onboard_time": 1738820366,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 735677,
       "num": 244180,
       "word": "李马克脱粉",
       "onboard_time": 1738767504,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 729662,
-      "num": 363722,
-      "word": "哪吒一上午连破两个票房纪录",
-      "onboard_time": 1738820366,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 706183,
@@ -201,6 +201,14 @@
       "onboard_time": 1738808062,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 672940,
+      "num": 356135,
+      "word": "哪吒只做1",
+      "onboard_time": 1738823365,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 657323,
@@ -313,6 +321,14 @@
       "onboard_time": 1738817610,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 524785,
+      "num": 360095,
+      "word": "女子拒还26万彩礼让母亲去受拘留",
+      "onboard_time": 1738823725,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 511597,
@@ -451,8 +467,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 366368,
-      "num": 366368,
+      "raw_hot": 371590,
+      "num": 191040,
+      "word": "王安宇Angelababy上城士水中大片",
+      "onboard_time": 1738825043,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 369746,
+      "num": 369746,
       "word": "四川献血大王突发脑梗住院",
       "onboard_time": 1738820848,
       "rank": 5,
@@ -488,14 +512,6 @@
       "word": "哪吒为啥走路总插兜",
       "onboard_time": 1738770684,
       "rank": 15,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 356135,
-      "num": 356135,
-      "word": "哪吒只做1",
-      "onboard_time": 1738823365,
-      "rank": 26,
       "category": "电影"
     },
     {
@@ -771,6 +787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 215636,
+      "num": 360812,
+      "word": "金饰价格两天涨20元每克",
+      "onboard_time": 1738820068,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212392,
       "num": 212392,
       "word": "男子放出400斤白牦牛给亲戚看",
@@ -859,6 +883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194026,
+      "num": 183729,
+      "word": "唐朝诡事录掌心同一个导演",
+      "onboard_time": 1738824264,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191855,
       "num": 191855,
       "word": "赵晓卉的车叫钢铁加鲁鲁",
@@ -873,14 +905,6 @@
       "onboard_time": 1738812804,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 187448,
-      "num": 360095,
-      "word": "女子拒还26万彩礼让母亲去受拘留",
-      "onboard_time": 1738823725,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 187067,
@@ -907,12 +931,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 185055,
-      "num": 360812,
-      "word": "金饰价格两天涨20元每克",
-      "onboard_time": 1738820068,
-      "rank": 20,
-      "category": "民生新闻"
+      "raw_hot": 181856,
+      "num": 181856,
+      "word": "饺子导演不语只是一味画海报",
+      "onboard_time": 1738823184,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 179938,
@@ -923,12 +947,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176772,
+      "num": 176772,
+      "word": "山河枕",
+      "onboard_time": 1738825944,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176120,
       "num": 176120,
       "word": "蛇年第一场寒潮来袭",
       "onboard_time": 1738802543,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175297,
+      "num": 182953,
+      "word": "王曼昱止步WTT新加坡大满贯16强",
+      "onboard_time": 1738823844,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 174656,
@@ -1035,6 +1075,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 165821,
+      "num": 165821,
+      "word": "猫 姐姐是专门来喂我的嘛",
+      "onboard_time": 1738825582,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 164042,
+      "num": 164042,
+      "word": "比亚迪涨停",
+      "onboard_time": 1738826185,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 163492,
       "num": 163492,
       "word": "寒潮大风多地降温10摄氏度",
@@ -1107,6 +1163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152814,
+      "num": 208711,
+      "word": "张极每天都很nice",
+      "onboard_time": 1738825404,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150873,
       "num": 150873,
       "word": "女子误把摔炮当奶糖吃炸伤口腔",
@@ -1139,6 +1203,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147311,
+      "num": 147311,
+      "word": "蒯曼说最后能赢非常不容易",
+      "onboard_time": 1738825582,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 143748,
+      "num": 143748,
+      "word": "孙颖莎海底捞月",
+      "onboard_time": 1738826185,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143690,
       "num": 143690,
       "word": "宁艺卓超级期待亚冬会",
@@ -1153,6 +1233,14 @@
       "onboard_time": 1738775836,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 142270,
+      "num": 177445,
+      "word": "钱天一1比3伊藤美诚",
+      "onboard_time": 1738826242,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 140650,
@@ -1179,6 +1267,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138425,
+      "num": 209957,
+      "word": "哪吒2仅用9天登顶中国影史冠军",
+      "onboard_time": 1738824205,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 138282,
+      "num": 138282,
+      "word": "朱雨玲3比0大藤沙月",
+      "onboard_time": 1738824384,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136229,
       "num": 136229,
       "word": "央农谈重塑哪吒为何用莲藕",
@@ -1193,6 +1297,22 @@
       "onboard_time": 1738761263,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 135054,
+      "num": 135054,
+      "word": "陈哲远白色橄榄树海外成绩",
+      "onboard_time": 1738825944,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 133180,
+      "num": 133180,
+      "word": "哪吒幕后制作组强的可怕",
+      "onboard_time": 1738824564,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 132176,
@@ -1411,6 +1531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111722,
+      "num": 111722,
+      "word": "人和马都是真英雄",
+      "onboard_time": 1738824082,
+      "rank": 44,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 111710,
       "num": 860553,
       "word": "中国年正在成为世界年",
@@ -1459,14 +1587,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 106891,
-      "num": 106891,
-      "word": "王曼昱止步WTT新加坡大满贯16强",
-      "onboard_time": 1738823844,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 105501,
       "num": 360519,
       "word": "掌心妇仇者联盟",
@@ -1481,14 +1601,6 @@
       "onboard_time": 1738811722,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 101120,
-      "num": 101120,
-      "word": "人和马都是真英雄",
-      "onboard_time": 1738824082,
-      "rank": 44,
-      "category": "正能量"
     },
     {
       "raw_hot": 100157,
@@ -1515,27 +1627,11 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 94848,
-      "num": 94848,
-      "word": "唐朝诡事录掌心同一个导演",
-      "onboard_time": 1738824264,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 94497,
       "num": 172937,
       "word": "唐探系列是一场巨大的callback",
       "onboard_time": 1738772660,
       "rank": 29,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 93259,
-      "num": 93259,
-      "word": "哪吒2仅用9天登顶中国影史冠军",
-      "onboard_time": 1738824205,
-      "rank": 49,
       "category": "电影"
     },
     {
@@ -1755,6 +1851,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 46703,
+      "num": 209624,
+      "word": "黄金饰品近三年抽检 618 批次不合格",
+      "onboard_time": 1738826185,
+      "rank": 17,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 41121,
       "num": 89263,
       "word": "国产电影团建式祝贺哪吒2",
@@ -1785,6 +1889,22 @@
       "onboard_time": 1738769784,
       "rank": 35,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 35758,
+      "num": 207608,
+      "word": "春节综合征并非年轻人专属",
+      "onboard_time": 1738825642,
+      "rank": 19,
+      "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 34384,
+      "num": 189197,
+      "word": "祁煜你这条傻小鱼",
+      "onboard_time": 1738825343,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 34310,
@@ -1865,6 +1985,14 @@
       "onboard_time": 1738778774,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21890,
+      "num": 211619,
+      "word": "细支烟已经完全成为了主流",
+      "onboard_time": 1738825883,
+      "rank": 14,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 16964,
