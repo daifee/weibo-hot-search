@@ -1,6 +1,6 @@
 {
   "startTime": 1738859204643,
-  "endTime": 1738869552683,
+  "endTime": 1738870554744,
   "band_list": [
     {
       "raw_hot": 1030517,
@@ -524,11 +524,19 @@
     },
     {
       "raw_hot": 18826,
-      "num": 25708,
+      "num": 27785,
       "word": "周深巴黎演绎中国风戏腔",
       "onboard_time": 1738859958,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18505,
+      "num": 60004,
+      "word": "中国和文莱共建命运共同体",
+      "onboard_time": 1738869012,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 18448,
@@ -540,7 +548,7 @@
     },
     {
       "raw_hot": 18242,
-      "num": 25702,
+      "num": 27747,
       "word": "孙颖莎谈对阵何卓佳",
       "onboard_time": 1738869492,
       "rank": 49,
@@ -571,12 +579,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 9803,
-      "num": 60004,
-      "word": "中国和文莱共建命运共同体",
-      "onboard_time": 1738869012,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 7657,
+      "num": 38114,
+      "word": "军人在海拔3600米巡逻就像界碑",
+      "onboard_time": 1738870212,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 5455,
