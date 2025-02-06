@@ -1,6 +1,6 @@
 {
   "startTime": 1738772916136,
-  "endTime": 1738849150256,
+  "endTime": 1738851619732,
   "band_list": [
     {
       "raw_hot": 11663552,
@@ -203,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 872559,
+      "num": 778414,
+      "word": "哪吒2放映时间预计会延长到6个月",
+      "onboard_time": 1738846403,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 863814,
       "num": 262565,
       "word": "沈腾方否认和林允恋情",
@@ -241,14 +249,6 @@
       "onboard_time": 1738840404,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 778414,
-      "num": 778414,
-      "word": "哪吒2放映时间预计会延长到6个月",
-      "onboard_time": 1738846403,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 769755,
@@ -419,6 +419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 564823,
+      "num": 308836,
+      "word": "哪吒2登顶饺子能赚多少钱",
+      "onboard_time": 1738846463,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 557528,
       "num": 352270,
       "word": "ChatGPT",
@@ -481,6 +489,14 @@
       "onboard_time": 1738815086,
       "rank": 16,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 529471,
+      "num": 529471,
+      "word": "北京大风",
+      "onboard_time": 1738848085,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 527114,
@@ -627,14 +643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 435636,
-      "num": 308836,
-      "word": "哪吒2登顶饺子能赚多少钱",
-      "onboard_time": 1738846463,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 434832,
       "num": 434832,
       "word": "北京这次大风有一定极端性",
@@ -656,6 +664,14 @@
       "word": "女生错位表演生吞列车",
       "onboard_time": 1738834044,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 417763,
+      "num": 417763,
+      "word": "网友爸爸去世多年微信账号突然消失",
+      "onboard_time": 1738850186,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -753,6 +769,14 @@
       "onboard_time": 1738807162,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 371756,
+      "num": 234589,
+      "word": "妻子招待完丈夫朋友后被一顿猛夸",
+      "onboard_time": 1738849166,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 371590,
@@ -867,6 +891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 330724,
+      "num": 417059,
+      "word": "王楚钦这球太牛了",
+      "onboard_time": 1738848265,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 330140,
       "num": 330140,
       "word": "国家安全机关发布安全提示",
@@ -899,6 +931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 324520,
+      "num": 231627,
+      "word": "哪吒2海外上映已场场爆满",
+      "onboard_time": 1738848688,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 320995,
       "num": 367238,
       "word": "钱天一1比3伊藤美诚",
@@ -929,6 +969,14 @@
       "onboard_time": 1738815508,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 306821,
+      "num": 306821,
+      "word": "王俊凯现场还原别催",
+      "onboard_time": 1738849526,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 304161,
@@ -1107,6 +1155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 248162,
+      "num": 248162,
+      "word": "北京监测到12级阵风",
+      "onboard_time": 1738849226,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 247096,
       "num": 247096,
       "word": "虞书欣双轨黄裙造型",
@@ -1121,6 +1177,14 @@
       "onboard_time": 1738756345,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 245086,
+      "num": 405675,
+      "word": "定远中学提前开学涉事人被停职",
+      "onboard_time": 1738848205,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 243472,
@@ -1203,20 +1267,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 226236,
-      "num": 226236,
-      "word": "北京大风",
-      "onboard_time": 1738848085,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 224062,
       "num": 224062,
       "word": "割胎小米SU7嫌疑人已被刑拘",
       "onboard_time": 1738813705,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 223993,
+      "num": 223993,
+      "word": "史上拔刀速度最快的女主",
+      "onboard_time": 1738849946,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 223457,
@@ -1257,6 +1321,14 @@
       "onboard_time": 1738841484,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 215895,
+      "num": 202835,
+      "word": "掌心OST阵容官宣",
+      "onboard_time": 1738848205,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 215862,
@@ -1427,14 +1499,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 202835,
-      "num": 202835,
-      "word": "掌心OST阵容官宣",
-      "onboard_time": 1738848205,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 201715,
       "num": 339182,
       "word": "中方回应韩国一些政府部门屏蔽DeepSeek",
@@ -1443,12 +1507,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 201383,
-      "num": 222028,
-      "word": "王楚钦这球太牛了",
-      "onboard_time": 1738848265,
-      "rank": 35,
-      "category": "体育"
+      "raw_hot": 200675,
+      "num": 200675,
+      "word": "建议别在晚上做重大决定",
+      "onboard_time": 1738850725,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200488,
@@ -1505,6 +1569,22 @@
       "onboard_time": 1738829783,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193191,
+      "num": 193191,
+      "word": "胡兵巨型行李箱装了35个look",
+      "onboard_time": 1738849646,
+      "rank": 28,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 192813,
+      "num": 192813,
+      "word": "金饰价格涨至872元每克",
+      "onboard_time": 1738849887,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 192703,
@@ -1643,6 +1723,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 182710,
+      "num": 182710,
+      "word": "马斯克炮轰美国国际开发署",
+      "onboard_time": 1738850365,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 181856,
       "num": 181856,
       "word": "饺子导演不语只是一味画海报",
@@ -1747,6 +1835,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 171291,
+      "num": 171291,
+      "word": "好一个乖乖女",
+      "onboard_time": 1738851265,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170963,
       "num": 170963,
       "word": "玖月晞 白色橄榄树",
@@ -1761,6 +1857,14 @@
       "onboard_time": 1738841722,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 170190,
+      "num": 526581,
+      "word": "拍下电影画面发到朋友圈违法嘛",
+      "onboard_time": 1738847665,
+      "rank": 14,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 170172,
@@ -1833,6 +1937,14 @@
       "onboard_time": 1738828765,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 167184,
+      "num": 167184,
+      "word": "石矶娘娘",
+      "onboard_time": 1738850365,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 163936,
@@ -1929,6 +2041,14 @@
       "onboard_time": 1738841722,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157088,
+      "num": 157088,
+      "word": "寒潮之下各地到底有多冷",
+      "onboard_time": 1738843945,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156381,
@@ -2067,14 +2187,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 142165,
-      "num": 142165,
-      "word": "寒潮之下各地到底有多冷",
-      "onboard_time": 1738843945,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 140650,
       "num": 140650,
       "word": "饺子导演名下多家企业已注销",
@@ -2089,6 +2201,14 @@
       "onboard_time": 1738806502,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 139356,
+      "num": 139356,
+      "word": "谁家男主追着女主杀",
+      "onboard_time": 1738848986,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 139254,
@@ -2139,14 +2259,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 135641,
-      "num": 526581,
-      "word": "拍下电影画面发到朋友圈违法嘛",
-      "onboard_time": 1738847665,
-      "rank": 14,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 135054,
       "num": 135054,
       "word": "陈哲远白色橄榄树海外成绩",
@@ -2177,6 +2289,14 @@
       "onboard_time": 1738824564,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 132575,
+      "num": 132575,
+      "word": "北京下午迎强风",
+      "onboard_time": 1738850546,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132176,
@@ -2299,6 +2419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128128,
+      "num": 128128,
+      "word": "王楚钦再次呼吁不要开闪光灯",
+      "onboard_time": 1738851326,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128109,
       "num": 241433,
       "word": "孙颖莎全球主场",
@@ -2337,14 +2465,6 @@
       "onboard_time": 1738815206,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 125077,
-      "num": 125077,
-      "word": "谁家男主追着女主杀",
-      "onboard_time": 1738848986,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 124819,
@@ -2435,6 +2555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 117065,
+      "num": 117065,
+      "word": "妈妈回应1岁失明宝宝学走盲道",
+      "onboard_time": 1738851507,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116672,
       "num": 158627,
       "word": "推动中泰命运共同体建设走深走实",
@@ -2480,14 +2608,6 @@
       "word": "哪吒2最快破55亿电影",
       "onboard_time": 1738768705,
       "rank": 36,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 113743,
-      "num": 113743,
-      "word": "哪吒2海外上映已场场爆满",
-      "onboard_time": 1738848688,
-      "rank": 49,
       "category": "电影"
     },
     {
@@ -2739,14 +2859,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 89121,
-      "num": 246478,
-      "word": "定远中学提前开学涉事人被停职",
-      "onboard_time": 1738848205,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82620,
       "num": 132029,
       "word": "张晚意似锦将官宣",
@@ -2769,6 +2881,14 @@
       "onboard_time": 1738740981,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 77838,
+      "num": 224561,
+      "word": "林孝埈亚冬会短道首日出战四项",
+      "onboard_time": 1738849586,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 76593,
@@ -2955,6 +3075,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 56555,
+      "num": 109059,
+      "word": "亚冬会开幕式总时长约80分钟",
+      "onboard_time": 1738850126,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 55241,
       "num": 274725,
       "word": "李现塞维利亚vlog",
@@ -2985,6 +3113,14 @@
       "onboard_time": 1738791252,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 53091,
+      "num": 370616,
+      "word": "街道回应让商户春节24小时开灯",
+      "onboard_time": 1738850845,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50670,
