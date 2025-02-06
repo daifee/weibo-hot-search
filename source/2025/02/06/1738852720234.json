@@ -1,0 +1,410 @@
+{
+  "runTime": 1738852720234,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2004186,
+        "num": 2004186,
+        "word": "哪吒影史第一",
+        "onboard_time": 1738817490,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 481877,
+        "num": 481877,
+        "word": "北京大风",
+        "onboard_time": 1738848085,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74556,
+        "num": 415085,
+        "word": "距亚冬会开幕还有1天",
+        "onboard_time": 1738844903,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 750506,
+        "num": 414763,
+        "word": "哪吒之魔童闹海登顶中国电影票房榜",
+        "onboard_time": 1738816708,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 411165,
+        "num": 411165,
+        "word": "建议别在晚上做重大决定",
+        "onboard_time": 1738850725,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349383,
+        "num": 406132,
+        "word": "王楚钦这球太牛了",
+        "onboard_time": 1738848265,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 746870,
+        "num": 404609,
+        "word": "哪吒2放映时间预计会延长到6个月",
+        "onboard_time": 1738846403,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 564722,
+        "num": 393002,
+        "word": "哪吒",
+        "onboard_time": 1738840224,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 263705,
+        "num": 388416,
+        "word": "妈妈回应1岁失明宝宝学走盲道",
+        "onboard_time": 1738851507,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253487,
+        "num": 380705,
+        "word": "DeepSeek已暂停API服务充值",
+        "onboard_time": 1738839623,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 783017,
+        "num": 374966,
+        "word": "范思哲取关",
+        "onboard_time": 1738839504,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 779128,
+        "num": 367059,
+        "word": "网友爸爸去世多年微信账号突然消失",
+        "onboard_time": 1738850186,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 497176,
+        "num": 366307,
+        "word": "李心艾官宣怀孕",
+        "onboard_time": 1738843345,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360116,
+        "num": 360116,
+        "word": "停车费8830元把女子吓住了",
+        "onboard_time": 1738843165,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355141,
+        "num": 355141,
+        "word": "悬赏5万的走失宠物狗遭烹饪分食",
+        "onboard_time": 1738840404,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347044,
+        "num": 347044,
+        "word": "定远中学提前开学涉事人被停职",
+        "onboard_time": 1738848205,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333659,
+        "num": 333659,
+        "word": "小S许雅钧为大S包机",
+        "onboard_time": 1738818210,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214991,
+        "num": 333354,
+        "word": "王俊凯张涵予打招呼",
+        "onboard_time": 1738851867,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 72833,
+        "num": 324714,
+        "word": "赵小童CCD氛围感",
+        "onboard_time": 1738852226,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39725,
+        "num": 317978,
+        "word": "当地澄清县委书记被拦车反映问题",
+        "onboard_time": 1738852226,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109224,
+        "num": 312184,
+        "word": "街道回应让商户春节24小时开灯",
+        "onboard_time": 1738850845,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 526894,
+        "num": 305194,
+        "word": "哪吒2登顶饺子能赚多少钱",
+        "onboard_time": 1738846463,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 428078,
+        "num": 303446,
+        "word": "妻子双肺全白丈夫含泪卖车不放弃",
+        "onboard_time": 1738832305,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 428006,
+        "num": 297450,
+        "word": "妻子招待完丈夫朋友后被一顿猛夸",
+        "onboard_time": 1738849166,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365348,
+        "num": 288531,
+        "word": "哪吒2海外上映已场场爆满",
+        "onboard_time": 1738848688,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 285847,
+        "num": 285847,
+        "word": "好一个乖乖女",
+        "onboard_time": 1738851265,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256828,
+        "num": 256828,
+        "word": "范思哲 宁艺卓",
+        "onboard_time": 1738843945,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245023,
+        "num": 245023,
+        "word": "北京监测到12级阵风",
+        "onboard_time": 1738849226,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228539,
+        "num": 228539,
+        "word": "赵丽颖粉丝恭喜我姐爱豆登顶",
+        "onboard_time": 1738843284,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165192,
+        "num": 224916,
+        "word": "两年前买的50g金条已赚1万元",
+        "onboard_time": 1738841545,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 224732,
+        "num": 224732,
+        "word": "史上拔刀速度最快的女主",
+        "onboard_time": 1738849946,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205640,
+        "num": 205640,
+        "word": "金饰价格涨至872元每克",
+        "onboard_time": 1738849887,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 185827,
+        "num": 185827,
+        "word": "掌心OST阵容官宣",
+        "onboard_time": 1738848205,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170876,
+        "num": 170876,
+        "word": "教育厅通报男子举报中学提前开学",
+        "onboard_time": 1738844124,
+        "rank": 33,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 166899,
+        "num": 166899,
+        "word": "徐艺洋配音小石矶娘娘",
+        "onboard_time": 1738843463,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161355,
+        "num": 161355,
+        "word": "马斯克炮轰美国国际开发署",
+        "onboard_time": 1738850365,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155416,
+        "num": 155416,
+        "word": "王楚钦再次呼吁不要开闪光灯",
+        "onboard_time": 1738851326,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149498,
+        "num": 149498,
+        "word": "拍下电影画面发到朋友圈违法嘛",
+        "onboard_time": 1738847665,
+        "rank": 37,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 148920,
+        "num": 148920,
+        "word": "王俊凯现场还原别催",
+        "onboard_time": 1738849526,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142771,
+        "num": 142771,
+        "word": "虞书欣双轨黄裙造型",
+        "onboard_time": 1738842925,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142277,
+        "num": 142277,
+        "word": "寒潮之下各地到底有多冷",
+        "onboard_time": 1738843945,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140703,
+        "num": 140703,
+        "word": "66岁自律女生高能量的一天",
+        "onboard_time": 1738847725,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136716,
+        "num": 136716,
+        "word": "胡兵巨型行李箱装了35个look",
+        "onboard_time": 1738849646,
+        "rank": 42,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 132582,
+        "num": 132582,
+        "word": "石矶娘娘",
+        "onboard_time": 1738850365,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130499,
+        "num": 130499,
+        "word": "当我运动八个月后",
+        "onboard_time": 1738840885,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126693,
+        "num": 126693,
+        "word": "王一博我的朋友将登陆日本院线",
+        "onboard_time": 1738852467,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126192,
+        "num": 126192,
+        "word": "饺子导演画了灵珠版哪吒魔丸版敖丙",
+        "onboard_time": 1738836563,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123769,
+        "num": 123769,
+        "word": "今冬最冻人时刻来了",
+        "onboard_time": 1738846704,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118898,
+        "num": 118898,
+        "word": "谁家男主追着女主杀",
+        "onboard_time": 1738848986,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118369,
+        "num": 118369,
+        "word": "官方通报张家界一游客点2个菜844元",
+        "onboard_time": 1738830265,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中泰一家亲历久弥新#"
+    }
+  }
+}
