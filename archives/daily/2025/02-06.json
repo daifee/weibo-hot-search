@@ -1,7 +1,31 @@
 {
   "startTime": 1738772916136,
-  "endTime": 1738816858018,
+  "endTime": 1738819478820,
   "band_list": [
+    {
+      "raw_hot": 10780408,
+      "num": 10780408,
+      "word": "哪吒之魔童闹海登顶中国电影票房榜",
+      "onboard_time": 1738816708,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 8797053,
+      "num": 8797053,
+      "word": "哪吒影史第一",
+      "onboard_time": 1738817490,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 3716352,
+      "num": 348415,
+      "word": "小S许雅钧为大S包机",
+      "onboard_time": 1738818210,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 3710052,
       "num": 3710052,
@@ -19,11 +43,19 @@
       "category": "电影"
     },
     {
-      "raw_hot": 2222226,
+      "raw_hot": 2681334,
       "num": 483886,
       "word": "长津湖",
       "onboard_time": 1738758444,
       "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1601122,
+      "num": 465716,
+      "word": "中国影史票房排名",
+      "onboard_time": 1738816228,
+      "rank": 8,
       "category": "电影"
     },
     {
@@ -35,11 +67,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1455634,
-      "num": 460678,
-      "word": "哪吒之魔童闹海登顶中国电影票房榜",
-      "onboard_time": 1738816708,
-      "rank": 10,
+      "raw_hot": 1478790,
+      "num": 293845,
+      "word": "哪吒2超越长津湖",
+      "onboard_time": 1738817189,
+      "rank": 15,
       "category": "电影"
     },
     {
@@ -96,14 +128,6 @@
       "word": "哪吒",
       "onboard_time": 1738755265,
       "rank": 1,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 1015534,
-      "num": 465716,
-      "word": "中国影史票房排名",
-      "onboard_time": 1738816228,
-      "rank": 8,
       "category": "电影"
     },
     {
@@ -243,6 +267,30 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 494014,
+      "num": 494014,
+      "word": "有了DeepSeek学语文还有用吗",
+      "onboard_time": 1738811722,
+      "rank": 13,
+      "category": "教育,互联网"
+    },
+    {
+      "raw_hot": 492899,
+      "num": 259166,
+      "word": "吒儿谢谢吴京叔叔",
+      "onboard_time": 1738817610,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 482478,
+      "num": 304758,
+      "word": "北京一家长将熟睡女儿落地铁上",
+      "onboard_time": 1738816169,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 473888,
       "num": 473888,
       "word": "NBA交易",
@@ -251,12 +299,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 462131,
-      "num": 462131,
-      "word": "有了DeepSeek学语文还有用吗",
-      "onboard_time": 1738811722,
+      "raw_hot": 466051,
+      "num": 454804,
+      "word": "女子暴饮暴食医生胃里取出10斤食物",
+      "onboard_time": 1738816467,
       "rank": 13,
-      "category": "教育,互联网"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 461115,
@@ -299,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 414587,
+      "num": 258527,
+      "word": "丁禹兮粉丝买光线股票赚了",
+      "onboard_time": 1738818388,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 407201,
       "num": 407201,
       "word": "战狼2",
@@ -313,6 +369,14 @@
       "onboard_time": 1738801642,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 389375,
+      "num": 389375,
+      "word": "蒯曼vs王曼昱",
+      "onboard_time": 1738818032,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 385442,
@@ -379,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 352270,
+      "num": 352270,
+      "word": "ChatGPT",
+      "onboard_time": 1738817430,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 346624,
       "num": 346624,
       "word": "舍不得维金斯",
@@ -409,6 +481,14 @@
       "onboard_time": 1738815747,
       "rank": 36,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 320094,
+      "num": 258166,
+      "word": "吒永一",
+      "onboard_time": 1738818694,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 316056,
@@ -459,14 +539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 275763,
-      "num": 275763,
-      "word": "北京一家长将熟睡女儿落地铁上",
-      "onboard_time": 1738816169,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 274041,
       "num": 261757,
       "word": "男子恋爱1年不知24岁女友竟有俩娃",
@@ -491,6 +563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 271324,
+      "num": 400174,
+      "word": "举报提前开学补课被回怼究竟谁错了",
+      "onboard_time": 1738815508,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 268359,
       "num": 268359,
       "word": "生完孩子几年后才能轻松一点",
@@ -505,6 +585,14 @@
       "onboard_time": 1738806381,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 257495,
+      "num": 257495,
+      "word": "谁家男主做师做徒都得被调戏",
+      "onboard_time": 1738818388,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 249060,
@@ -577,6 +665,14 @@
       "onboard_time": 1738812204,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215789,
+      "num": 215789,
+      "word": "权志龙官宣世界巡回演唱会",
+      "onboard_time": 1738817010,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 212392,
@@ -683,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174656,
+      "num": 224643,
+      "word": "王楚钦林诗栋3比1瑞典组合",
+      "onboard_time": 1738818089,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174641,
       "num": 174641,
       "word": "湖人三巨头合练",
@@ -753,6 +857,14 @@
       "onboard_time": 1738803924,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167705,
+      "num": 332356,
+      "word": "哪吒盲盒卖到脱销",
+      "onboard_time": 1738816586,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 163492,
@@ -835,20 +947,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148561,
+      "num": 300719,
+      "word": "王楚钦林诗栋vs卡尔森法尔克",
+      "onboard_time": 1738814787,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147778,
       "num": 147778,
       "word": "掌心",
       "onboard_time": 1738810342,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 144192,
-      "num": 300719,
-      "word": "王楚钦林诗栋vs卡尔森法尔克",
-      "onboard_time": 1738814787,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 142531,
@@ -907,6 +1019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131851,
+      "num": 131851,
+      "word": "王楚钦林诗栋晋级男双四强",
+      "onboard_time": 1738818809,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131268,
       "num": 225606,
       "word": "司机卡点下高速失败付了1500元",
@@ -931,12 +1051,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 128385,
-      "num": 400174,
-      "word": "举报提前开学补课被回怼究竟谁错了",
-      "onboard_time": 1738815508,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 128948,
+      "num": 128948,
+      "word": "年轻人流感为何会出现重症",
+      "onboard_time": 1738818509,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 128240,
+      "num": 128240,
+      "word": "孙颖莎王艺迪3比0大藤沙月横井咲樱",
+      "onboard_time": 1738817249,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 127281,
@@ -955,6 +1083,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 124261,
+      "num": 232556,
+      "word": "男子跳进兵马俑1号坑被警方带走",
+      "onboard_time": 1738818270,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123800,
       "num": 210150,
       "word": "他们都不想去勇士",
@@ -971,12 +1107,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122821,
+      "num": 122821,
+      "word": "英格拉姆被交易至猛龙",
+      "onboard_time": 1738817970,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121839,
       "num": 121839,
       "word": "哪吒2总票房将刷新中国电影市场纪录",
       "onboard_time": 1738808364,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 120321,
+      "num": 120321,
+      "word": "刘些宁角色百花齐放",
+      "onboard_time": 1738818989,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 119074,
@@ -1049,6 +1201,14 @@
       "onboard_time": 1738765292,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 109470,
+      "num": 109470,
+      "word": "王者荣耀",
+      "onboard_time": 1738817849,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 109351,
@@ -1219,6 +1379,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 62650,
+      "num": 257906,
+      "word": "巴特勒将穿勇士10号",
+      "onboard_time": 1738818388,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61922,
       "num": 109818,
       "word": "留几手我亏钱了",
@@ -1233,14 +1401,6 @@
       "onboard_time": 1738776256,
       "rank": 17,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 59054,
-      "num": 454804,
-      "word": "女子暴饮暴食医生胃里取出10斤食物",
-      "onboard_time": 1738816467,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 57265,
@@ -1283,11 +1443,27 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 51972,
+      "num": 259456,
+      "word": "电商称999元可定制指纹解锁硅胶手套",
+      "onboard_time": 1738818570,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 50670,
       "num": 89327,
       "word": "裁判看到孙颖莎语气立刻温柔",
       "onboard_time": 1738794611,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 49682,
+      "num": 710421,
+      "word": "AI看双亚冬城市哈尔滨",
+      "onboard_time": 1738812444,
+      "rank": 2,
       "category": "体育"
     },
     {
@@ -1395,28 +1571,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 22029,
-      "num": 710421,
-      "word": "AI看双亚冬城市哈尔滨",
-      "onboard_time": 1738812444,
-      "rank": 2,
-      "category": "体育"
-    },
-    {
       "raw_hot": 21966,
       "num": 55488,
       "word": "国安提醒节后返岗牢记四不",
       "onboard_time": 1738778774,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17656,
-      "num": 332356,
-      "word": "哪吒盲盒卖到脱销",
-      "onboard_time": 1738816586,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 16964,
@@ -1524,6 +1684,9 @@
     },
     {
       "word": "#习近平会见泰国总理#"
+    },
+    {
+      "word": "#赛场的激情彰显着中国精神#"
     }
   ]
 }

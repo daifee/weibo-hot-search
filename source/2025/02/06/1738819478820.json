@@ -1,0 +1,410 @@
+{
+  "runTime": 1738819478820,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10780408,
+        "num": 10780408,
+        "word": "哪吒之魔童闹海登顶中国电影票房榜",
+        "onboard_time": 1738816708,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 780709,
+        "num": 780709,
+        "word": "雷军曾劝年轻人要尽快学会AI",
+        "onboard_time": 1738808364,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 49682,
+        "num": 586058,
+        "word": "AI看双亚冬城市哈尔滨",
+        "onboard_time": 1738812444,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8797053,
+        "num": 8797053,
+        "word": "哪吒影史第一",
+        "onboard_time": 1738817490,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 494014,
+        "num": 494014,
+        "word": "有了DeepSeek学语文还有用吗",
+        "onboard_time": 1738811722,
+        "rank": 4,
+        "category": "教育,互联网"
+      },
+      {
+        "raw_hot": 468045,
+        "num": 468045,
+        "word": "教育厅回应男子举报提前开学被回怼",
+        "onboard_time": 1738808062,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2681334,
+        "num": 444491,
+        "word": "长津湖",
+        "onboard_time": 1738815206,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1601122,
+        "num": 430432,
+        "word": "中国影史票房排名",
+        "onboard_time": 1738816228,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 389375,
+        "num": 389375,
+        "word": "蒯曼vs王曼昱",
+        "onboard_time": 1738818032,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 352270,
+        "num": 352270,
+        "word": "ChatGPT",
+        "onboard_time": 1738817430,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 3716352,
+        "num": 348415,
+        "word": "小S许雅钧为大S包机",
+        "onboard_time": 1738818210,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1758363,
+        "num": 330255,
+        "word": "吴京 小哪吒冲冲冲",
+        "onboard_time": 1738814128,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 679507,
+        "num": 328662,
+        "word": "哪吒3留太多坑导演绝望",
+        "onboard_time": 1738805123,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1799389,
+        "num": 313930,
+        "word": "哪吒2票房超战狼2",
+        "onboard_time": 1738813524,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 482478,
+        "num": 304758,
+        "word": "北京一家长将熟睡女儿落地铁上",
+        "onboard_time": 1738816169,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1478790,
+        "num": 293845,
+        "word": "哪吒2超越长津湖",
+        "onboard_time": 1738817189,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 380747,
+        "num": 282735,
+        "word": "男子撞人身亡后转移130万卖房款",
+        "onboard_time": 1738811903,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271324,
+        "num": 271324,
+        "word": "举报提前开学补课被回怼究竟谁错了",
+        "onboard_time": 1738815508,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259615,
+        "num": 259615,
+        "word": "对话30岁的羽生结弦",
+        "onboard_time": 1738812385,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51972,
+        "num": 259456,
+        "word": "电商称999元可定制指纹解锁硅胶手套",
+        "onboard_time": 1738818570,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 492899,
+        "num": 259166,
+        "word": "吒儿谢谢吴京叔叔",
+        "onboard_time": 1738817610,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 466051,
+        "num": 258868,
+        "word": "女子暴饮暴食医生胃里取出10斤食物",
+        "onboard_time": 1738816467,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 414587,
+        "num": 258527,
+        "word": "丁禹兮粉丝买光线股票赚了",
+        "onboard_time": 1738818388,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 320094,
+        "num": 258166,
+        "word": "吒永一",
+        "onboard_time": 1738818694,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 62650,
+        "num": 257906,
+        "word": "巴特勒将穿勇士10号",
+        "onboard_time": 1738818388,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276863,
+        "num": 257772,
+        "word": "胖东来回应所售红色内裤掉色过敏",
+        "onboard_time": 1738815388,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257495,
+        "num": 257495,
+        "word": "谁家男主做师做徒都得被调戏",
+        "onboard_time": 1738818388,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242199,
+        "num": 242199,
+        "word": "丁禹兮包场请大家看哪吒",
+        "onboard_time": 1738805423,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 254204,
+        "num": 235770,
+        "word": "师父死去的白月光竟是我自己",
+        "onboard_time": 1738814906,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124261,
+        "num": 232556,
+        "word": "男子跳进兵马俑1号坑被警方带走",
+        "onboard_time": 1738818270,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174656,
+        "num": 224643,
+        "word": "王楚钦林诗栋3比1瑞典组合",
+        "onboard_time": 1738818089,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175813,
+        "num": 219638,
+        "word": "泰缅边境地区断电后现状",
+        "onboard_time": 1738808963,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 215789,
+        "num": 215789,
+        "word": "权志龙官宣世界巡回演唱会",
+        "onboard_time": 1738817010,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184067,
+        "num": 184067,
+        "word": "缅甸妙瓦底居民排长队抢购燃油",
+        "onboard_time": 1738810703,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 174060,
+        "num": 174060,
+        "word": "节后第二天状态",
+        "onboard_time": 1738801642,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169395,
+        "num": 169395,
+        "word": "吴宣仪 浪姐",
+        "onboard_time": 1738810703,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167705,
+        "num": 167705,
+        "word": "哪吒盲盒卖到脱销",
+        "onboard_time": 1738816586,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164272,
+        "num": 164272,
+        "word": "割胎小米SU7嫌疑人已被刑拘",
+        "onboard_time": 1738813705,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154532,
+        "num": 154532,
+        "word": "金价",
+        "onboard_time": 1738810703,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 148561,
+        "num": 148561,
+        "word": "王楚钦林诗栋vs卡尔森法尔克",
+        "onboard_time": 1738814787,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142248,
+        "num": 142248,
+        "word": "河南老板拿价值170万玛莎拉蒂来套圈",
+        "onboard_time": 1738812385,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131851,
+        "num": 131851,
+        "word": "王楚钦林诗栋晋级男双四强",
+        "onboard_time": 1738818809,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129268,
+        "num": 129268,
+        "word": "英伟达市值一夜涨超1万亿",
+        "onboard_time": 1738809862,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 128948,
+        "num": 128948,
+        "word": "年轻人流感为何会出现重症",
+        "onboard_time": 1738818509,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128240,
+        "num": 128240,
+        "word": "孙颖莎王艺迪3比0大藤沙月横井咲樱",
+        "onboard_time": 1738817249,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122821,
+        "num": 122821,
+        "word": "英格拉姆被交易至猛龙",
+        "onboard_time": 1738817970,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120321,
+        "num": 120321,
+        "word": "刘些宁角色百花齐放",
+        "onboard_time": 1738818989,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114418,
+        "num": 114418,
+        "word": "男子连续开车10小时到杭州差点截肢",
+        "onboard_time": 1738803803,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111060,
+        "num": 111060,
+        "word": "巴特勒加盟勇士",
+        "onboard_time": 1738806563,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109470,
+        "num": 109470,
+        "word": "王者荣耀",
+        "onboard_time": 1738817849,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#赛场的激情彰显着中国精神#"
+    }
+  }
+}
