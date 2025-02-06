@@ -1,6 +1,6 @@
 {
   "startTime": 1738772916136,
-  "endTime": 1738820418582,
+  "endTime": 1738823524320,
   "band_list": [
     {
       "raw_hot": 11663552,
@@ -83,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1391397,
+      "num": 321466,
+      "word": "哪吒雕像已从公司门口搬走",
+      "onboard_time": 1738820008,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1326051,
       "num": 1326051,
       "word": "哪吒3留太多坑导演绝望",
@@ -153,6 +161,14 @@
       "onboard_time": 1738804341,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 818024,
+      "num": 818024,
+      "word": "蒯曼3比0王曼昱",
+      "onboard_time": 1738820547,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 735677,
@@ -291,6 +307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 511597,
+      "num": 261537,
+      "word": "网购了1只恶犬还没袜子大",
+      "onboard_time": 1738820128,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 494014,
       "num": 494014,
       "word": "有了DeepSeek学语文还有用吗",
@@ -361,6 +385,14 @@
       "onboard_time": 1738820187,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 436685,
+      "num": 287788,
+      "word": "哪吒一上午连破两个票房纪录",
+      "onboard_time": 1738820366,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 434832,
@@ -467,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 349470,
+      "num": 251238,
+      "word": "哪吒2回应登顶",
+      "onboard_time": 1738823184,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 346624,
       "num": 346624,
       "word": "舍不得维金斯",
@@ -507,6 +547,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 322840,
+      "num": 322840,
+      "word": "四川献血大王突发脑梗住院",
+      "onboard_time": 1738820848,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 316056,
       "num": 220659,
       "word": "祝绪丹配音小石矶娘娘",
@@ -537,6 +585,14 @@
       "onboard_time": 1738811783,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 292007,
+      "num": 292007,
+      "word": "湖人黄蜂交易",
+      "onboard_time": 1738820666,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 291628,
@@ -603,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 249701,
+      "num": 249701,
+      "word": "宁艺卓亚冬会宣传VCR",
+      "onboard_time": 1738819827,
+      "rank": 43,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 249060,
       "num": 249060,
       "word": "这类微短剧被禁止上线传播",
@@ -641,14 +705,6 @@
       "onboard_time": 1738762225,
       "rank": 13,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 235855,
-      "num": 211720,
-      "word": "网购了1只恶犬还没袜子大",
-      "onboard_time": 1738820128,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 227140,
@@ -715,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210838,
+      "num": 210838,
+      "word": "景甜这次演重生爽文女主",
+      "onboard_time": 1738822585,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206502,
       "num": 206502,
       "word": "郭富城陪方媛回娘家拜年",
@@ -763,6 +827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 203119,
+      "num": 203119,
+      "word": "哪吒只做1",
+      "onboard_time": 1738823365,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 196421,
       "num": 228064,
       "word": "京津冀最大阵风可达9级",
@@ -795,12 +867,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186923,
+      "num": 272851,
+      "word": "王宝强天选部落神女",
+      "onboard_time": 1738822286,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 185554,
       "num": 266170,
       "word": "近20个国家将春节定为法定假日",
       "onboard_time": 1738780933,
       "rank": 36,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 185055,
+      "num": 270481,
+      "word": "金饰价格两天涨20元每克",
+      "onboard_time": 1738820068,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179938,
@@ -851,6 +939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 173311,
+      "num": 173311,
+      "word": "雷军回应小米SU7Ultra车标是金的",
+      "onboard_time": 1738822645,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 172709,
       "num": 133760,
       "word": "日本的甲流可能被乙流取代",
@@ -865,6 +961,22 @@
       "onboard_time": 1738757124,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170172,
+      "num": 170172,
+      "word": "蒯曼挺进女单8强",
+      "onboard_time": 1738823005,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 170164,
+      "num": 170164,
+      "word": "孙颖莎王艺迪11比1",
+      "onboard_time": 1738821805,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 169962,
@@ -1059,12 +1171,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 134391,
-      "num": 131558,
-      "word": "宁艺卓亚冬会宣传VCR",
-      "onboard_time": 1738819827,
-      "rank": 43,
-      "category": "艺人,体育"
+      "raw_hot": 134690,
+      "num": 195154,
+      "word": "陈哲远回复粉丝演技质疑",
+      "onboard_time": 1738821564,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 132176,
@@ -1091,12 +1203,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131598,
+      "num": 131598,
+      "word": "蒯曼战胜队友王曼昱",
+      "onboard_time": 1738822525,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131268,
       "num": 225606,
       "word": "司机卡点下高速失败付了1500元",
       "onboard_time": 1738735402,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130198,
+      "num": 130198,
+      "word": "刘昊然你还是忘不了秦风",
+      "onboard_time": 1738821085,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 129799,
@@ -1171,14 +1299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122487,
-      "num": 122487,
-      "word": "哪吒一上午连破两个票房纪录",
-      "onboard_time": 1738820366,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 121839,
       "num": 121839,
       "word": "哪吒2总票房将刷新中国电影市场纪录",
@@ -1211,6 +1331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 117047,
+      "num": 117047,
+      "word": "马克威廉姆斯加盟湖人",
+      "onboard_time": 1738822585,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115800,
       "num": 115800,
       "word": "比打工人先到工位的是财神摆件",
@@ -1241,6 +1369,30 @@
       "onboard_time": 1738768705,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 112048,
+      "num": 112048,
+      "word": "泽连斯基称无法收回失地拟结束热战",
+      "onboard_time": 1738821746,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 111877,
+      "num": 158627,
+      "word": "推动中泰命运共同体建设走深走实",
+      "onboard_time": 1738822645,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 111837,
+      "num": 194728,
+      "word": "巴特勒闹剧结束",
+      "onboard_time": 1738823243,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 111710,
@@ -1539,12 +1691,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 41278,
-      "num": 270481,
-      "word": "金饰价格两天涨20元每克",
-      "onboard_time": 1738820068,
-      "rank": 20,
-      "category": "民生新闻"
+      "raw_hot": 41152,
+      "num": 194559,
+      "word": "印度罕见神经系统疾病疑已致5死",
+      "onboard_time": 1738823243,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 41121,
@@ -1713,6 +1865,14 @@
       "onboard_time": 1738785251,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12101,
+      "num": 476471,
+      "word": "一人一句给中国健儿加油",
+      "onboard_time": 1738813524,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 11492,
