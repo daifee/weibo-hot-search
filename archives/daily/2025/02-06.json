@@ -1,6 +1,6 @@
 {
   "startTime": 1738772916136,
-  "endTime": 1738838464977,
+  "endTime": 1738840734974,
   "band_list": [
     {
       "raw_hot": 11663552,
@@ -73,6 +73,14 @@
       "onboard_time": 1738803803,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1524403,
+      "num": 332744,
+      "word": "范思哲取关",
+      "onboard_time": 1738839504,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1478790,
@@ -235,6 +243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 691734,
+      "num": 352787,
+      "word": "饺子导演画了灵珠版哪吒魔丸版敖丙",
+      "onboard_time": 1738836563,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 682048,
       "num": 682048,
       "word": "教育厅回应男子举报提前开学被回怼",
@@ -251,6 +267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 656488,
+      "num": 321512,
+      "word": "哪吒2票房超60亿元",
+      "onboard_time": 1738835543,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 654927,
       "num": 654927,
       "word": "吴宣仪 浪姐",
@@ -264,14 +288,6 @@
       "word": "导演回应哪吒3什么时候上映",
       "onboard_time": 1738833324,
       "rank": 47,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 640948,
-      "num": 352787,
-      "word": "饺子导演画了灵珠版哪吒魔丸版敖丙",
-      "onboard_time": 1738836563,
-      "rank": 13,
       "category": "电影"
     },
     {
@@ -531,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 429838,
+      "num": 330900,
+      "word": "虞书欣又请粉丝吃清补凉",
+      "onboard_time": 1738836563,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 428759,
       "num": 428759,
       "word": "女生错位表演生吞列车",
@@ -603,14 +627,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 385059,
-      "num": 317652,
-      "word": "哪吒2票房超60亿元",
-      "onboard_time": 1738835543,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 382872,
       "num": 382872,
       "word": "美媒称DeepSeek已无法被封杀",
@@ -649,6 +665,14 @@
       "onboard_time": 1738820848,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 369400,
+      "num": 369400,
+      "word": "DeepSeek已暂停API服务充值",
+      "onboard_time": 1738839623,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 365877,
@@ -755,12 +779,12 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 329765,
-      "num": 330900,
-      "word": "虞书欣又请粉丝吃清补凉",
-      "onboard_time": 1738836563,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 325103,
+      "num": 253684,
+      "word": "白鹿包场仙台有树",
+      "onboard_time": 1738836383,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 320995,
@@ -825,6 +849,14 @@
       "onboard_time": 1738812385,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 286546,
+      "num": 232619,
+      "word": "哪吒2国外评分8.1分",
+      "onboard_time": 1738837764,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 285875,
@@ -931,20 +963,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 253684,
-      "num": 253684,
-      "word": "白鹿包场仙台有树",
-      "onboard_time": 1738836383,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 253683,
       "num": 361675,
       "word": "宁艺卓亚冬会宣传VCR",
       "onboard_time": 1738819827,
       "rank": 43,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 251603,
+      "num": 225409,
+      "word": "赵丽颖站姐拍的哪吒敖丙",
+      "onboard_time": 1738839263,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 249060,
@@ -971,6 +1003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 243280,
+      "num": 243280,
+      "word": "DYG 回家吧",
+      "onboard_time": 1738839383,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 240462,
       "num": 240462,
       "word": "杨子自曝曾给黄圣依现场改礼服",
@@ -985,6 +1025,22 @@
       "onboard_time": 1738762225,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 236456,
+      "num": 236456,
+      "word": "马龙跟李现说这么破费",
+      "onboard_time": 1738839984,
+      "rank": 18,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 234861,
+      "num": 234861,
+      "word": "男子在黄山跳伞撞山被行政处罚",
+      "onboard_time": 1738836203,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 227140,
@@ -1105,14 +1161,6 @@
       "onboard_time": 1738828283,
       "rank": 17,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 207050,
-      "num": 207050,
-      "word": "哪吒2国外评分8.1分",
-      "onboard_time": 1738837764,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 206502,
@@ -1323,6 +1371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179471,
+      "num": 179471,
+      "word": "太乙真人为啥用藕重塑哪吒",
+      "onboard_time": 1738837644,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 178257,
       "num": 178257,
       "word": "邓为粉丝包场破10万场",
@@ -1353,14 +1409,6 @@
       "onboard_time": 1738823844,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 174847,
-      "num": 198646,
-      "word": "男子在黄山跳伞撞山被行政处罚",
-      "onboard_time": 1738836203,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 174656,
@@ -1401,6 +1449,14 @@
       "onboard_time": 1738790351,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 171840,
+      "num": 171840,
+      "word": "悬赏5万的走失宠物狗遭烹饪分食",
+      "onboard_time": 1738840404,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170963,
@@ -1483,6 +1539,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 166584,
+      "num": 341774,
+      "word": "中方坚定维护中国企业合法权益",
+      "onboard_time": 1738838904,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 163936,
+      "num": 163936,
+      "word": "李瓒说我现在是个废人了",
+      "onboard_time": 1738840344,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163492,
       "num": 163492,
       "word": "寒潮大风多地降温10摄氏度",
@@ -1545,14 +1617,6 @@
       "onboard_time": 1738811123,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 156138,
-      "num": 156138,
-      "word": "太乙真人为啥用藕重塑哪吒",
-      "onboard_time": 1738837644,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 155121,
@@ -1643,6 +1707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145412,
+      "num": 145412,
+      "word": "陈哲远 要开麦了是吗",
+      "onboard_time": 1738840523,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144869,
       "num": 144869,
       "word": "新年的第一个音综来了",
@@ -1729,6 +1801,14 @@
       "onboard_time": 1738825944,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134993,
+      "num": 148349,
+      "word": "目击者称阿坝山火烧得一片通红",
+      "onboard_time": 1738839263,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133180,
@@ -1899,11 +1979,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123755,
+      "num": 123755,
+      "word": "田蓉被查",
+      "onboard_time": 1738838603,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123523,
       "num": 217463,
       "word": "旅客称返程高峰有票无法上车",
       "onboard_time": 1738771523,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122717,
+      "num": 122717,
+      "word": "海南蜈支洲岛已暂停现场售票",
+      "onboard_time": 1738840584,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -1913,6 +2009,14 @@
       "onboard_time": 1738808364,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 120667,
+      "num": 120667,
+      "word": "应到两人实到两人一狗",
+      "onboard_time": 1738839321,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 120231,
@@ -2091,6 +2195,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 108771,
+      "num": 117569,
+      "word": "德银称中国股票的估值折价将消失",
+      "onboard_time": 1738840163,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 108689,
       "num": 244139,
       "word": "郑钦文和前法网冠军合作",
@@ -2209,6 +2321,14 @@
       "onboard_time": 1738752087,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89372,
+      "num": 151321,
+      "word": "亚冬会赛程",
+      "onboard_time": 1738840642,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 82620,
@@ -2713,6 +2833,14 @@
       "onboard_time": 1738787171,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 9369,
+      "num": 163124,
+      "word": "郑钦文抵达多哈",
+      "onboard_time": 1738840344,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 8914,
