@@ -1,0 +1,410 @@
+{
+  "runTime": 1738812366055,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1267226,
+        "num": 1267226,
+        "word": "哪吒3留太多坑导演绝望",
+        "onboard_time": 1738805123,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1178018,
+        "num": 1178018,
+        "word": "雷军曾劝年轻人要尽快学会AI",
+        "onboard_time": 1738808364,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 26516,
+        "num": 911317,
+        "word": "京彩春节的n种打开方式",
+        "onboard_time": 1738810583,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 856146,
+        "num": 856146,
+        "word": "哪吒之魔童闹海总票房破57亿元",
+        "onboard_time": 1738810943,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 682048,
+        "num": 682048,
+        "word": "教育厅回应男子举报提前开学被回怼",
+        "onboard_time": 1738808062,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 547582,
+        "num": 547582,
+        "word": "缅甸妙瓦底居民排长队抢购燃油",
+        "onboard_time": 1738810703,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 606548,
+        "num": 541736,
+        "word": "哪吒票房",
+        "onboard_time": 1738745064,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 592504,
+        "num": 539379,
+        "word": "吴宣仪 浪姐",
+        "onboard_time": 1738810703,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 529577,
+        "num": 529577,
+        "word": "泰缅边境地区断电后现状",
+        "onboard_time": 1738808963,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 47041,
+        "num": 444509,
+        "word": "怎么看待坐飞机加价选座",
+        "onboard_time": 1738811722,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 576774,
+        "num": 431660,
+        "word": "丁禹兮包场请大家看哪吒",
+        "onboard_time": 1738805423,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 398061,
+        "num": 398061,
+        "word": "48岁李锋博士春节遭意外离世",
+        "onboard_time": 1738767446,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396445,
+        "num": 396445,
+        "word": "金价",
+        "onboard_time": 1738810703,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 40050,
+        "num": 383962,
+        "word": "有了DeepSeek学语文还有用吗",
+        "onboard_time": 1738811722,
+        "rank": 13,
+        "category": "教育,互联网"
+      },
+      {
+        "raw_hot": 35378,
+        "num": 374230,
+        "word": "饺子说敖丙武器不叫海盐棒棒糖",
+        "onboard_time": 1738811783,
+        "rank": 14,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 373631,
+        "num": 373631,
+        "word": "小男孩误入彩虹滑道被滑圈铲飞",
+        "onboard_time": 1738804341,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352984,
+        "num": 352984,
+        "word": "哪吒2",
+        "onboard_time": 1738806741,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 320528,
+        "num": 320528,
+        "word": "麦琳开工",
+        "onboard_time": 1738807162,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291407,
+        "num": 291407,
+        "word": "北京这次大风有一定极端性",
+        "onboard_time": 1738805843,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252170,
+        "num": 252170,
+        "word": "12306回应买短乘长导致超员",
+        "onboard_time": 1738769365,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316588,
+        "num": 250353,
+        "word": "男子连续开车10小时到杭州差点截肢",
+        "onboard_time": 1738803803,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287988,
+        "num": 250031,
+        "word": "哪吒2电影票在北美被疯抢",
+        "onboard_time": 1738811364,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 261641,
+        "num": 249509,
+        "word": "梅婷回复沈月",
+        "onboard_time": 1738801703,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245466,
+        "num": 245466,
+        "word": "桑延有一双爱温以凡的眼睛",
+        "onboard_time": 1738811783,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108689,
+        "num": 244139,
+        "word": "郑钦文和前法网冠军合作",
+        "onboard_time": 1738810521,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243472,
+        "num": 243472,
+        "word": "41岁女子多次暴饮暴食险丧命",
+        "onboard_time": 1738810282,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233961,
+        "num": 233961,
+        "word": "ChatGPT搜索功能今起人人可用",
+        "onboard_time": 1738801822,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 227140,
+        "num": 227140,
+        "word": "以色列欢迎美国退出联合国人权理事会",
+        "onboard_time": 1738809981,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 223955,
+        "num": 223955,
+        "word": "节后第二天状态",
+        "onboard_time": 1738801642,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31910,
+        "num": 223491,
+        "word": "男子撞人身亡后转移130万卖房款",
+        "onboard_time": 1738811903,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223457,
+        "num": 223457,
+        "word": "英伟达市值一夜涨超1万亿",
+        "onboard_time": 1738809862,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 208983,
+        "num": 208983,
+        "word": "哪吒2票房有望破中国影史记录",
+        "onboard_time": 1738770143,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204516,
+        "num": 204516,
+        "word": "哪吒 影史第一",
+        "onboard_time": 1738812144,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199201,
+        "num": 199201,
+        "word": "战狼2",
+        "onboard_time": 1738758693,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198466,
+        "num": 198466,
+        "word": "巴特勒加盟勇士",
+        "onboard_time": 1738806563,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185840,
+        "num": 185840,
+        "word": "男子恋爱1年不知24岁女友竟有俩娃",
+        "onboard_time": 1738804341,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185618,
+        "num": 185618,
+        "word": "哪吒盲盒手办上架两天就售罄",
+        "onboard_time": 1738806381,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 181633,
+        "num": 181633,
+        "word": "射雕英雄传侠之大者票房破6亿",
+        "onboard_time": 1738803924,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161950,
+        "num": 161950,
+        "word": "刘诗诗掌心叶平安眼技",
+        "onboard_time": 1738811543,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161272,
+        "num": 161272,
+        "word": "金吒木吒绝望的住校生",
+        "onboard_time": 1738801884,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156381,
+        "num": 156381,
+        "word": "特朗普下令审查联合国教科文组织",
+        "onboard_time": 1738811123,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153596,
+        "num": 153596,
+        "word": "剑网3",
+        "onboard_time": 1738811844,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149990,
+        "num": 149990,
+        "word": "国家安全机关发布安全提示",
+        "onboard_time": 1738805065,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149693,
+        "num": 149693,
+        "word": "杨子自曝曾给黄圣依现场改礼服",
+        "onboard_time": 1738812144,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147120,
+        "num": 147120,
+        "word": "李昀锐把自己哄成胚胎了",
+        "onboard_time": 1738803924,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141091,
+        "num": 141091,
+        "word": "和扎手指测血糖说拜拜",
+        "onboard_time": 1738770206,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 139955,
+        "num": 139955,
+        "word": "徐冬冬把towel读成掏窝",
+        "onboard_time": 1738812204,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139930,
+        "num": 139930,
+        "word": "房产中介连续4年收入超100万",
+        "onboard_time": 1738808364,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136377,
+        "num": 136377,
+        "word": "沈腾方否认和林允恋情",
+        "onboard_time": 1738746503,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136229,
+        "num": 136229,
+        "word": "央农谈重塑哪吒为何用莲藕",
+        "onboard_time": 1738811844,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#中吉山水相依民心相亲#"
+    }
+  }
+}

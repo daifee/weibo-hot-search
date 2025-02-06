@@ -1,6 +1,6 @@
 {
   "startTime": 1738772916136,
-  "endTime": 1738810834176,
+  "endTime": 1738812366055,
   "band_list": [
     {
       "raw_hot": 1531930,
@@ -35,20 +35,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1178018,
+      "num": 1178018,
+      "word": "雷军曾劝年轻人要尽快学会AI",
+      "onboard_time": 1738808364,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1176015,
       "num": 1176015,
       "word": "哪吒2明日或登顶中国影史票房冠军",
       "onboard_time": 1738770143,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1160746,
-      "num": 1160746,
-      "word": "雷军曾劝年轻人要尽快学会AI",
-      "onboard_time": 1738808364,
-      "rank": 1,
-      "category": "互联网"
     },
     {
       "raw_hot": 1143918,
@@ -65,6 +65,14 @@
       "onboard_time": 1738746503,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 856146,
+      "num": 856146,
+      "word": "哪吒之魔童闹海总票房破57亿元",
+      "onboard_time": 1738810943,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 839958,
@@ -91,8 +99,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 663749,
-      "num": 663749,
+      "raw_hot": 682048,
+      "num": 682048,
       "word": "教育厅回应男子举报提前开学被回怼",
       "onboard_time": 1738808062,
       "rank": 4,
@@ -115,12 +123,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 594901,
-      "num": 529869,
+      "raw_hot": 606548,
+      "num": 541736,
       "word": "哪吒票房",
       "onboard_time": 1738745064,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 592504,
+      "num": 539379,
+      "word": "吴宣仪 浪姐",
+      "onboard_time": 1738810703,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 573515,
@@ -137,6 +153,14 @@
       "onboard_time": 1738802123,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 547582,
+      "num": 547582,
+      "word": "缅甸妙瓦底居民排长队抢购燃油",
+      "onboard_time": 1738810703,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 542792,
@@ -195,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 396445,
+      "num": 396445,
+      "word": "金价",
+      "onboard_time": 1738810703,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 385442,
       "num": 238904,
       "word": "BLACKPINK新世巡预告",
@@ -235,6 +267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 352984,
+      "num": 352984,
+      "word": "哪吒2",
+      "onboard_time": 1738806741,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 352814,
       "num": 258340,
       "word": "巴特勒加盟勇士",
@@ -265,6 +305,14 @@
       "onboard_time": 1738766245,
       "rank": 21,
       "category": "电影,艺人"
+    },
+    {
+      "raw_hot": 287988,
+      "num": 250031,
+      "word": "哪吒2电影票在北美被疯抢",
+      "onboard_time": 1738811364,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 274041,
@@ -299,12 +347,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 245466,
+      "num": 245466,
+      "word": "桑延有一双爱温以凡的眼睛",
+      "onboard_time": 1738811783,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 245089,
       "num": 214996,
       "word": "哪吒2 影史前三",
       "onboard_time": 1738756345,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 243472,
+      "num": 243472,
+      "word": "41岁女子多次暴饮暴食险丧命",
+      "onboard_time": 1738810282,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 237746,
@@ -315,12 +379,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 232420,
-      "num": 232420,
-      "word": "哪吒2",
-      "onboard_time": 1738806741,
-      "rank": 25,
-      "category": "电影"
+      "raw_hot": 227140,
+      "num": 227140,
+      "word": "以色列欢迎美国退出联合国人权理事会",
+      "onboard_time": 1738809981,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 223457,
+      "num": 223457,
+      "word": "英伟达市值一夜涨超1万亿",
+      "onboard_time": 1738809862,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 212392,
@@ -363,6 +435,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 204516,
+      "num": 204516,
+      "word": "哪吒 影史第一",
+      "onboard_time": 1738812144,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 203515,
       "num": 203515,
       "word": "终于知道陈哲远为什么哭了",
@@ -371,20 +451,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199201,
+      "num": 199201,
+      "word": "战狼2",
+      "onboard_time": 1738758693,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 196421,
       "num": 228064,
       "word": "京津冀最大阵风可达9级",
       "onboard_time": 1738809082,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 191252,
-      "num": 191252,
-      "word": "英伟达市值一夜涨超1万亿",
-      "onboard_time": 1738809862,
-      "rank": 35,
-      "category": "财经"
     },
     {
       "raw_hot": 185554,
@@ -401,14 +481,6 @@
       "onboard_time": 1738808364,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 179650,
-      "num": 179650,
-      "word": "战狼2",
-      "onboard_time": 1738758693,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 176120,
@@ -499,6 +571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161950,
+      "num": 161950,
+      "word": "刘诗诗掌心叶平安眼技",
+      "onboard_time": 1738811543,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158277,
       "num": 229170,
       "word": "往往顶级恋爱脑都是出自风象星座",
@@ -507,20 +587,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 156222,
-      "num": 156222,
-      "word": "以色列欢迎美国退出联合国人权理事会",
-      "onboard_time": 1738809981,
-      "rank": 41,
+      "raw_hot": 156381,
+      "num": 156381,
+      "word": "特朗普下令审查联合国教科文组织",
+      "onboard_time": 1738811123,
+      "rank": 40,
       "category": "国际时政"
     },
     {
-      "raw_hot": 154940,
-      "num": 154940,
-      "word": "吴宣仪 浪姐",
-      "onboard_time": 1738810703,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 153596,
+      "num": 153596,
+      "word": "剑网3",
+      "onboard_time": 1738811844,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 152978,
@@ -537,6 +617,14 @@
       "onboard_time": 1738754184,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149693,
+      "num": 149693,
+      "word": "杨子自曝曾给黄圣依现场改礼服",
+      "onboard_time": 1738812144,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 147778,
@@ -571,12 +659,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 138566,
-      "num": 138566,
-      "word": "金价",
-      "onboard_time": 1738810703,
-      "rank": 39,
-      "category": "财经"
+      "raw_hot": 139955,
+      "num": 139955,
+      "word": "徐冬冬把towel读成掏窝",
+      "onboard_time": 1738812204,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 136229,
+      "num": 136229,
+      "word": "央农谈重塑哪吒为何用莲藕",
+      "onboard_time": 1738811844,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 135865,
@@ -593,14 +689,6 @@
       "onboard_time": 1738758444,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 133462,
-      "num": 133462,
-      "word": "41岁女子多次暴饮暴食险丧命",
-      "onboard_time": 1738810282,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132155,
@@ -739,6 +827,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 108689,
+      "num": 244139,
+      "word": "郑钦文和前法网冠军合作",
+      "onboard_time": 1738810521,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107252,
       "num": 132084,
       "word": "藕饼",
@@ -769,14 +865,6 @@
       "onboard_time": 1738803981,
       "rank": 49,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 95776,
-      "num": 129033,
-      "word": "缅甸妙瓦底居民排长队抢购燃油",
-      "onboard_time": 1738810703,
-      "rank": 42,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 94497,
@@ -947,6 +1035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 47041,
+      "num": 444509,
+      "word": "怎么看待坐飞机加价选座",
+      "onboard_time": 1738811722,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41121,
       "num": 89263,
       "word": "国产电影团建式祝贺哪吒2",
@@ -961,6 +1057,14 @@
       "onboard_time": 1738797496,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 40050,
+      "num": 383962,
+      "word": "有了DeepSeek学语文还有用吗",
+      "onboard_time": 1738811722,
+      "rank": 13,
+      "category": "教育,互联网"
     },
     {
       "raw_hot": 37281,
@@ -979,12 +1083,28 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 35378,
+      "num": 374230,
+      "word": "饺子说敖丙武器不叫海盐棒棒糖",
+      "onboard_time": 1738811783,
+      "rank": 14,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 34310,
       "num": 89201,
       "word": "谷歌删除不将AI用于武器研发的承诺条款",
       "onboard_time": 1738764325,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 31910,
+      "num": 223491,
+      "word": "男子撞人身亡后转移130万卖房款",
+      "onboard_time": 1738811903,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28314,
@@ -1009,6 +1129,14 @@
       "onboard_time": 1738786932,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26516,
+      "num": 911317,
+      "word": "京彩春节的n种打开方式",
+      "onboard_time": 1738810583,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 25772,
@@ -1105,14 +1233,6 @@
       "onboard_time": 1738787171,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 9091,
-      "num": 810732,
-      "word": "京彩春节的n种打开方式",
-      "onboard_time": 1738810583,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 8914,
