@@ -1,6 +1,6 @@
 {
   "startTime": 1738772916136,
-  "endTime": 1738807084646,
+  "endTime": 1738810306781,
   "band_list": [
     {
       "raw_hot": 1531930,
@@ -19,19 +19,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1298510,
+      "num": 1298510,
+      "word": "哪吒3留太多坑导演绝望",
+      "onboard_time": 1738805123,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1280237,
       "num": 1280237,
       "word": "哪吒之魔童闹海总票房破56亿",
       "onboard_time": 1738801822,
       "rank": 0,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 1219641,
-      "num": 774780,
-      "word": "哪吒3留太多坑导演绝望",
-      "onboard_time": 1738805123,
-      "rank": 3,
       "category": "电影"
     },
     {
@@ -41,6 +41,14 @@
       "onboard_time": 1738770143,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1160746,
+      "num": 1160746,
+      "word": "雷军曾劝年轻人要尽快学会AI",
+      "onboard_time": 1738808364,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 1143918,
@@ -59,7 +67,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 747801,
+      "raw_hot": 839958,
       "num": 548237,
       "word": "小男孩误入彩虹滑道被滑圈铲飞",
       "onboard_time": 1738804341,
@@ -73,6 +81,14 @@
       "onboard_time": 1738767504,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 706183,
+      "num": 706183,
+      "word": "丁禹兮包场请大家看哪吒",
+      "onboard_time": 1738805423,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 622143,
@@ -115,11 +131,19 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 503439,
-      "num": 452813,
-      "word": "丁禹兮包场请大家看哪吒",
-      "onboard_time": 1738805423,
-      "rank": 14,
+      "raw_hot": 509443,
+      "num": 509443,
+      "word": "教育厅回应男子举报提前开学被回怼",
+      "onboard_time": 1738808062,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 490608,
+      "num": 426250,
+      "word": "哪吒票房",
+      "onboard_time": 1738745064,
+      "rank": 11,
       "category": "电影"
     },
     {
@@ -129,14 +153,6 @@
       "onboard_time": 1738803981,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 459119,
-      "num": 325933,
-      "word": "哪吒票房",
-      "onboard_time": 1738745064,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 454780,
@@ -153,6 +169,22 @@
       "onboard_time": 1738770206,
       "rank": 5,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 434832,
+      "num": 434832,
+      "word": "北京这次大风有一定极端性",
+      "onboard_time": 1738805843,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 403104,
+      "num": 403104,
+      "word": "泰缅边境地区断电后现状",
+      "onboard_time": 1738808963,
+      "rank": 8,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 402345,
@@ -195,12 +227,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 354840,
+      "num": 347718,
+      "word": "麦琳开工",
+      "onboard_time": 1738807162,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 352814,
-      "num": 224810,
+      "num": 258340,
       "word": "巴特勒加盟勇士",
       "onboard_time": 1738806563,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 335864,
+      "num": 315746,
+      "word": "射雕英雄传侠之大者票房破6亿",
+      "onboard_time": 1738803924,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 330140,
+      "num": 330140,
+      "word": "国家安全机关发布安全提示",
+      "onboard_time": 1738805065,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 316056,
@@ -209,6 +265,14 @@
       "onboard_time": 1738766245,
       "rank": 21,
       "category": "电影,艺人"
+    },
+    {
+      "raw_hot": 274041,
+      "num": 261757,
+      "word": "男子恋爱1年不知24岁女友竟有俩娃",
+      "onboard_time": 1738804341,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 271673,
@@ -225,14 +289,6 @@
       "onboard_time": 1738767446,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 267704,
-      "num": 261757,
-      "word": "男子恋爱1年不知24岁女友竟有俩娃",
-      "onboard_time": 1738804341,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 249060,
@@ -259,10 +315,10 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 230428,
-      "num": 230428,
-      "word": "射雕英雄传侠之大者票房破6亿",
-      "onboard_time": 1738803924,
+      "raw_hot": 225488,
+      "num": 204096,
+      "word": "哪吒2",
+      "onboard_time": 1738806741,
       "rank": 25,
       "category": "电影"
     },
@@ -291,20 +347,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205740,
+      "num": 205740,
+      "word": "哪吒盲盒手办上架两天就售罄",
+      "onboard_time": 1738806381,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 205281,
       "num": 247802,
       "word": "缅甸断电地区或求助老挝",
       "onboard_time": 1738762284,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 204096,
-      "num": 204096,
-      "word": "哪吒2",
-      "onboard_time": 1738806741,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 203515,
@@ -315,28 +371,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199783,
-      "num": 199783,
-      "word": "北京这次大风有一定极端性",
-      "onboard_time": 1738805843,
-      "rank": 33,
+      "raw_hot": 196421,
+      "num": 196421,
+      "word": "京津冀最大阵风可达9级",
+      "onboard_time": 1738809082,
+      "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 189665,
-      "num": 189665,
-      "word": "国家安全机关发布安全提示",
-      "onboard_time": 1738805065,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 189526,
-      "num": 178465,
-      "word": "哪吒盲盒手办上架两天就售罄",
-      "onboard_time": 1738806381,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 185554,
@@ -345,6 +385,14 @@
       "onboard_time": 1738780933,
       "rank": 36,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 179938,
+      "num": 179938,
+      "word": "房产中介连续4年收入超100万",
+      "onboard_time": 1738808364,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179650,
@@ -379,20 +427,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 173357,
+      "num": 173357,
+      "word": "哪吒2官方真的别太敬业",
+      "onboard_time": 1738805183,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 172709,
       "num": 133760,
       "word": "日本的甲流可能被乙流取代",
       "onboard_time": 1738790351,
       "rank": 49,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 172298,
-      "num": 165282,
-      "word": "哪吒2官方真的别太敬业",
-      "onboard_time": 1738805183,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 170963,
@@ -409,6 +457,22 @@
       "onboard_time": 1738771702,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169271,
+      "num": 169271,
+      "word": "警方通报男子服务区划破他人汽车轮胎",
+      "onboard_time": 1738808364,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168481,
+      "num": 168481,
+      "word": "李昀锐把自己哄成胚胎了",
+      "onboard_time": 1738803924,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 163492,
@@ -443,20 +507,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 146525,
-      "num": 146525,
-      "word": "李昀锐把自己哄成胚胎了",
-      "onboard_time": 1738803924,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 142531,
       "num": 137378,
       "word": "阿根廷宣布将退出世界卫生组织",
       "onboard_time": 1738775836,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 142233,
+      "num": 142233,
+      "word": "英伟达市值一夜涨超1万亿",
+      "onboard_time": 1738809862,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 140650,
@@ -467,8 +531,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 139434,
-      "num": 139434,
+      "raw_hot": 140115,
+      "num": 140115,
       "word": "深圳水贝金价比元旦涨了近40元",
       "onboard_time": 1738806502,
       "rank": 41,
@@ -523,6 +587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 123800,
+      "num": 197102,
+      "word": "他们都不想去勇士",
+      "onboard_time": 1738808482,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123523,
       "num": 217463,
       "word": "旅客称返程高峰有票无法上车",
@@ -563,6 +635,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 115205,
+      "num": 115205,
+      "word": "41岁女子多次暴饮暴食险丧命",
+      "onboard_time": 1738810282,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115101,
+      "num": 115101,
+      "word": "以色列欢迎美国退出联合国人权理事会",
+      "onboard_time": 1738809981,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 113942,
       "num": 132128,
       "word": "哪吒2最快破55亿电影",
@@ -587,12 +675,52 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 109053,
+      "num": 109053,
+      "word": "哪吒2总票房将刷新中国电影市场纪录",
+      "onboard_time": 1738808364,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 107913,
+      "num": 107913,
+      "word": "维金斯加盟热火",
+      "onboard_time": 1738810282,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107252,
       "num": 132084,
       "word": "藕饼",
       "onboard_time": 1738764745,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 100316,
+      "num": 100316,
+      "word": "比打工人先到工位的是财神摆件",
+      "onboard_time": 1738810101,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 100182,
+      "num": 100182,
+      "word": "亚冬会倒计时1天",
+      "onboard_time": 1738809681,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100157,
+      "num": 100157,
+      "word": "为中国冰雪加油",
+      "onboard_time": 1738809443,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 99793,
@@ -644,7 +772,7 @@
     },
     {
       "raw_hot": 81067,
-      "num": 830669,
+      "num": 860553,
       "word": "中国年正在成为世界年",
       "onboard_time": 1738761925,
       "rank": 2,

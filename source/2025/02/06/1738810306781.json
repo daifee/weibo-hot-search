@@ -1,0 +1,410 @@
+{
+  "runTime": 1738810306781,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1298510,
+        "num": 1298510,
+        "word": "哪吒3留太多坑导演绝望",
+        "onboard_time": 1738805123,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1160746,
+        "num": 1160746,
+        "word": "雷军曾劝年轻人要尽快学会AI",
+        "onboard_time": 1738808364,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 49853,
+        "num": 860553,
+        "word": "中国年正在成为世界年",
+        "onboard_time": 1738761925,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 706183,
+        "num": 706183,
+        "word": "丁禹兮包场请大家看哪吒",
+        "onboard_time": 1738805423,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 509443,
+        "num": 509443,
+        "word": "教育厅回应男子举报提前开学被回怼",
+        "onboard_time": 1738808062,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 434832,
+        "num": 434832,
+        "word": "北京这次大风有一定极端性",
+        "onboard_time": 1738805843,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 490608,
+        "num": 426250,
+        "word": "哪吒票房",
+        "onboard_time": 1738745064,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 514335,
+        "num": 425657,
+        "word": "48岁李锋博士春节遭意外离世",
+        "onboard_time": 1738767446,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403104,
+        "num": 403104,
+        "word": "泰缅边境地区断电后现状",
+        "onboard_time": 1738808963,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 351014,
+        "num": 351014,
+        "word": "12306回应买短乘长导致超员",
+        "onboard_time": 1738769365,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 839958,
+        "num": 350161,
+        "word": "小男孩误入彩虹滑道被滑圈铲飞",
+        "onboard_time": 1738804341,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354840,
+        "num": 347718,
+        "word": "麦琳开工",
+        "onboard_time": 1738807162,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342412,
+        "num": 342412,
+        "word": "梅婷回复沈月",
+        "onboard_time": 1738801703,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330140,
+        "num": 330140,
+        "word": "国家安全机关发布安全提示",
+        "onboard_time": 1738805065,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 732594,
+        "num": 324350,
+        "word": "哪吒之魔童闹海总票房破56亿",
+        "onboard_time": 1738801822,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 335864,
+        "num": 315746,
+        "word": "射雕英雄传侠之大者票房破6亿",
+        "onboard_time": 1738803924,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 299088,
+        "num": 299088,
+        "word": "ChatGPT搜索功能今起人人可用",
+        "onboard_time": 1738801822,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 295149,
+        "num": 295149,
+        "word": "节后第二天状态",
+        "onboard_time": 1738801642,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258340,
+        "num": 258340,
+        "word": "巴特勒加盟勇士",
+        "onboard_time": 1738806563,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245493,
+        "num": 245493,
+        "word": "哪吒2票房有望破中国影史记录",
+        "onboard_time": 1738770143,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 408117,
+        "num": 245477,
+        "word": "男子连续开车10小时到杭州差点截肢",
+        "onboard_time": 1738803803,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274041,
+        "num": 244247,
+        "word": "男子恋爱1年不知24岁女友竟有俩娃",
+        "onboard_time": 1738804341,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243017,
+        "num": 243017,
+        "word": "金吒木吒绝望的住校生",
+        "onboard_time": 1738801884,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205740,
+        "num": 205740,
+        "word": "哪吒盲盒手办上架两天就售罄",
+        "onboard_time": 1738806381,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123800,
+        "num": 197102,
+        "word": "他们都不想去勇士",
+        "onboard_time": 1738808482,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225488,
+        "num": 196895,
+        "word": "哪吒2",
+        "onboard_time": 1738806741,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 196421,
+        "num": 196421,
+        "word": "京津冀最大阵风可达9级",
+        "onboard_time": 1738809082,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189207,
+        "num": 189207,
+        "word": "和扎手指测血糖说拜拜",
+        "onboard_time": 1738770206,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 181860,
+        "num": 181860,
+        "word": "NBA交易",
+        "onboard_time": 1738803981,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179938,
+        "num": 179938,
+        "word": "房产中介连续4年收入超100万",
+        "onboard_time": 1738808364,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173357,
+        "num": 173357,
+        "word": "哪吒2官方真的别太敬业",
+        "onboard_time": 1738805183,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169271,
+        "num": 169271,
+        "word": "警方通报男子服务区划破他人汽车轮胎",
+        "onboard_time": 1738808364,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168481,
+        "num": 168481,
+        "word": "李昀锐把自己哄成胚胎了",
+        "onboard_time": 1738803924,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160943,
+        "num": 160943,
+        "word": "沈腾方否认和林允恋情",
+        "onboard_time": 1738746503,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145173,
+        "num": 145173,
+        "word": "战狼2",
+        "onboard_time": 1738758693,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142233,
+        "num": 142233,
+        "word": "英伟达市值一夜涨超1万亿",
+        "onboard_time": 1738809862,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 141057,
+        "num": 141057,
+        "word": "你好李焕英给哪吒的贺图",
+        "onboard_time": 1738754065,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140115,
+        "num": 140115,
+        "word": "深圳水贝金价比元旦涨了近40元",
+        "onboard_time": 1738806502,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 126252,
+        "num": 126252,
+        "word": "男子放出400斤白牦牛给亲戚看",
+        "onboard_time": 1738767504,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119708,
+        "num": 119708,
+        "word": "李马克脱粉",
+        "onboard_time": 1738767504,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115205,
+        "num": 115205,
+        "word": "41岁女子多次暴饮暴食险丧命",
+        "onboard_time": 1738810282,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115101,
+        "num": 115101,
+        "word": "以色列欢迎美国退出联合国人权理事会",
+        "onboard_time": 1738809981,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109053,
+        "num": 109053,
+        "word": "哪吒2总票房将刷新中国电影市场纪录",
+        "onboard_time": 1738808364,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108947,
+        "num": 108947,
+        "word": "近20个国家将春节定为法定假日",
+        "onboard_time": 1738780933,
+        "rank": 43,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 107913,
+        "num": 107913,
+        "word": "维金斯加盟热火",
+        "onboard_time": 1738810282,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105594,
+        "num": 105594,
+        "word": "湖人三巨头合练",
+        "onboard_time": 1738806863,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101594,
+        "num": 101594,
+        "word": "蛇年第一场寒潮来袭",
+        "onboard_time": 1738802543,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100316,
+        "num": 100316,
+        "word": "比打工人先到工位的是财神摆件",
+        "onboard_time": 1738810101,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100182,
+        "num": 100182,
+        "word": "亚冬会倒计时1天",
+        "onboard_time": 1738809681,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100157,
+        "num": 100157,
+        "word": "为中国冰雪加油",
+        "onboard_time": 1738809443,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中吉山水相依民心相亲#"
+    }
+  }
+}
