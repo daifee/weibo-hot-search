@@ -1,6 +1,6 @@
 {
   "startTime": 1738772916136,
-  "endTime": 1738852720234,
+  "endTime": 1738855459725,
   "band_list": [
     {
       "raw_hot": 11663552,
@@ -97,6 +97,14 @@
       "onboard_time": 1738817189,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1396956,
+      "num": 1396956,
+      "word": "建议别在晚上做重大决定",
+      "onboard_time": 1738850725,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1393800,
@@ -219,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 855212,
+      "num": 855212,
+      "word": "好一个乖乖女",
+      "onboard_time": 1738851265,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 845939,
       "num": 626513,
       "word": "范思哲 宁艺卓",
@@ -251,12 +267,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 779128,
-      "num": 417763,
+      "raw_hot": 788910,
+      "num": 487535,
       "word": "网友爸爸去世多年微信账号突然消失",
       "onboard_time": 1738850186,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 779495,
+      "num": 495572,
+      "word": "哪吒2登顶饺子能赚多少钱",
+      "onboard_time": 1738846463,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 769755,
@@ -427,14 +451,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 564823,
-      "num": 308836,
-      "word": "哪吒2登顶饺子能赚多少钱",
-      "onboard_time": 1738846463,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 557528,
       "num": 352270,
       "word": "ChatGPT",
@@ -491,6 +507,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 534873,
+      "num": 263072,
+      "word": "敖丙妈妈长在我的心坎上了",
+      "onboard_time": 1738853665,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 533651,
       "num": 533651,
       "word": "薛蛮子",
@@ -536,6 +560,14 @@
       "word": "女子返工还没出高铁站就看到公司",
       "onboard_time": 1738827085,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 499532,
+      "num": 499532,
+      "word": "妈妈回应1岁失明宝宝学走盲道",
+      "onboard_time": 1738851507,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -689,14 +721,6 @@
       "onboard_time": 1738818388,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 411165,
-      "num": 411165,
-      "word": "建议别在晚上做重大决定",
-      "onboard_time": 1738850725,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 409203,
@@ -876,7 +900,7 @@
     },
     {
       "raw_hot": 349383,
-      "num": 417059,
+      "num": 488021,
       "word": "王楚钦这球太牛了",
       "onboard_time": 1738848265,
       "rank": 35,
@@ -987,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 309468,
+      "num": 497980,
+      "word": "微信客服称账号长期不登会被回收",
+      "onboard_time": 1738852826,
+      "rank": 5,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 306821,
       "num": 306821,
       "word": "王俊凯现场还原别催",
@@ -1041,14 +1073,6 @@
       "onboard_time": 1738815326,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 285847,
-      "num": 285847,
-      "word": "好一个乖乖女",
-      "onboard_time": 1738851265,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 284167,
@@ -1123,14 +1147,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 263705,
-      "num": 388416,
-      "word": "妈妈回应1岁失明宝宝学走盲道",
-      "onboard_time": 1738851507,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 263527,
       "num": 263527,
       "word": "景甜这次演重生爽文女主",
@@ -1147,12 +1163,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 260786,
+      "num": 260786,
+      "word": "哪吒之魔童闹海预测票房超108.5亿",
+      "onboard_time": 1738854026,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 260076,
+      "num": 260076,
+      "word": "刘晓庆演短剧了",
+      "onboard_time": 1738854092,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 259424,
       "num": 259424,
       "word": "山河枕",
       "onboard_time": 1738825944,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 258286,
+      "num": 262609,
+      "word": "电影蛟龙行动",
+      "onboard_time": 1738853846,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 257495,
@@ -1235,6 +1275,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 241957,
+      "num": 241957,
+      "word": "石矶娘娘",
+      "onboard_time": 1738850365,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 240462,
       "num": 240462,
       "word": "杨子自曝曾给黄圣依现场改礼服",
@@ -1281,6 +1329,14 @@
       "onboard_time": 1738842204,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 227494,
+      "num": 227494,
+      "word": "金饰价格涨至872元每克",
+      "onboard_time": 1738849887,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 227140,
@@ -1473,14 +1529,6 @@
       "onboard_time": 1738768765,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 205640,
-      "num": 205640,
-      "word": "金饰价格涨至872元每克",
-      "onboard_time": 1738849887,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 205281,
@@ -1688,6 +1736,14 @@
       "word": "王宝强天选部落神女",
       "onboard_time": 1738822286,
       "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 186489,
+      "num": 186489,
+      "word": "王俊凯春节在家打麻将",
+      "onboard_time": 1738853725,
+      "rank": 31,
       "category": "电影"
     },
     {
@@ -1953,14 +2009,6 @@
       "onboard_time": 1738828765,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 167184,
-      "num": 167184,
-      "word": "石矶娘娘",
-      "onboard_time": 1738850365,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 163936,
@@ -2273,6 +2321,14 @@
       "onboard_time": 1738824384,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136780,
+      "num": 136780,
+      "word": "刘诗诗粉丝包场",
+      "onboard_time": 1738854746,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 136229,
@@ -2795,6 +2851,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 102113,
+      "num": 102113,
+      "word": "王化回应SU7Ultra金车标被抠了怎么办",
+      "onboard_time": 1738853966,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 100923,
       "num": 100923,
       "word": "马龙进入国家队二十二周年",
@@ -2851,6 +2915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96135,
+      "num": 263765,
+      "word": "多方回应幼儿园因欠房租被强制闭园",
+      "onboard_time": 1738854205,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94497,
       "num": 172937,
       "word": "唐探系列是一场巨大的callback",
@@ -2881,6 +2953,14 @@
       "onboard_time": 1738752087,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90695,
+      "num": 90695,
+      "word": "孙颖莎摸头好可爱",
+      "onboard_time": 1738855285,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 82620,
