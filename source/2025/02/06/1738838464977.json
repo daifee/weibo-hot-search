@@ -1,0 +1,410 @@
+{
+  "runTime": 1738838464977,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3309164,
+        "num": 3309164,
+        "word": "哪吒影史第一",
+        "onboard_time": 1738817490,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 793855,
+        "num": 793855,
+        "word": "官方通报张家界一游客点2个菜844元",
+        "onboard_time": 1738830265,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106024,
+        "num": 742826,
+        "word": "哈尔滨将正式进入亚冬时间",
+        "onboard_time": 1738829962,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 735414,
+        "num": 735414,
+        "word": "哪吒之魔童闹海登顶中国电影票房榜",
+        "onboard_time": 1738816708,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 430324,
+        "num": 430324,
+        "word": "王一博到林芝了",
+        "onboard_time": 1738835785,
+        "rank": 4,
+        "category": "旅游,艺人"
+      },
+      {
+        "raw_hot": 428759,
+        "num": 428759,
+        "word": "女生错位表演生吞列车",
+        "onboard_time": 1738834044,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 699796,
+        "num": 414441,
+        "word": "奶龙票房超过成龙了",
+        "onboard_time": 1738830743,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 651785,
+        "num": 399290,
+        "word": "导演回应哪吒3什么时候上映",
+        "onboard_time": 1738833324,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 381139,
+        "num": 381139,
+        "word": "实拍泰缅边境地区断电第1晚",
+        "onboard_time": 1738828463,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 200227,
+        "num": 375348,
+        "word": "雷军曾劝年轻人要尽快学会AI",
+        "onboard_time": 1738808364,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 640948,
+        "num": 351965,
+        "word": "饺子导演画了灵珠版哪吒魔丸版敖丙",
+        "onboard_time": 1738836563,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 579741,
+        "num": 348737,
+        "word": "小S许雅钧为大S包机",
+        "onboard_time": 1738818210,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 444117,
+        "num": 323692,
+        "word": "哪吒2官方玩梗",
+        "onboard_time": 1738833084,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 385059,
+        "num": 310815,
+        "word": "哪吒2票房超60亿元",
+        "onboard_time": 1738835543,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 59912,
+        "num": 293009,
+        "word": "王曼昱蒯曼3比0泰国组合",
+        "onboard_time": 1738837883,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285669,
+        "num": 285669,
+        "word": "美国或将在中东打开潘多拉魔盒",
+        "onboard_time": 1738831645,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 269013,
+        "num": 269013,
+        "word": "湖南卫视元宵喜乐会阵容公布",
+        "onboard_time": 1738837344,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261042,
+        "num": 261042,
+        "word": "胖东来下架红内裤品牌",
+        "onboard_time": 1738831645,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257571,
+        "num": 257571,
+        "word": "小伙因砸女友手机背上犯罪记录",
+        "onboard_time": 1738828163,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62200,
+        "num": 257322,
+        "word": "王曼昱蒯曼vs泰国组合",
+        "onboard_time": 1738837524,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 773716,
+        "num": 256716,
+        "word": "妻子双肺全白丈夫含泪卖车不放弃",
+        "onboard_time": 1738832305,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 395043,
+        "num": 255940,
+        "word": "1000人民币在美国贫民窟吃的早餐",
+        "onboard_time": 1738832305,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 347977,
+        "num": 255462,
+        "word": "胡兵说我和瞿颖都是恋爱脑",
+        "onboard_time": 1738834822,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 329765,
+        "num": 255044,
+        "word": "虞书欣又请粉丝吃清补凉",
+        "onboard_time": 1738836563,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98899,
+        "num": 254274,
+        "word": "蒯曼说赢了曼昱非常意外",
+        "onboard_time": 1738835723,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253886,
+        "num": 253886,
+        "word": "SM给演唱会空席P图",
+        "onboard_time": 1738835423,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 253684,
+        "num": 253684,
+        "word": "白鹿包场仙台有树",
+        "onboard_time": 1738836383,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222112,
+        "num": 222112,
+        "word": "长津湖",
+        "onboard_time": 1738815206,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215866,
+        "num": 215866,
+        "word": "哪吒只做1",
+        "onboard_time": 1738823365,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215862,
+        "num": 215862,
+        "word": "刘昊然人心中的偏爱是一座大山",
+        "onboard_time": 1738836683,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 549682,
+        "num": 215465,
+        "word": "张凌赫张婧仪被异性恋吓晕",
+        "onboard_time": 1738833143,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207050,
+        "num": 207050,
+        "word": "哪吒2国外评分8.1分",
+        "onboard_time": 1738837764,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186742,
+        "num": 204349,
+        "word": "中方回应韩国一些政府部门屏蔽DeepSeek",
+        "onboard_time": 1738832243,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 203586,
+        "num": 203586,
+        "word": "大娘子这是什么鬼热闹",
+        "onboard_time": 1738837164,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193048,
+        "num": 193048,
+        "word": "敖闰姑姑真的好漂亮",
+        "onboard_time": 1738833564,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 22905,
+        "num": 180026,
+        "word": "京津冀区域将迎今年以来最强大风过程",
+        "onboard_time": 1738838424,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169872,
+        "num": 169872,
+        "word": "原来不止我一个人有过马路羞耻症",
+        "onboard_time": 1738836563,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164990,
+        "num": 164990,
+        "word": "男子在黄山跳伞撞山被行政处罚",
+        "onboard_time": 1738836203,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156138,
+        "num": 156138,
+        "word": "太乙真人为啥用藕重塑哪吒",
+        "onboard_time": 1738837644,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139981,
+        "num": 139981,
+        "word": "女子返工还没出高铁站就看到公司",
+        "onboard_time": 1738827085,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30469,
+        "num": 139764,
+        "word": "朱易亚冬会目标",
+        "onboard_time": 1738838424,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52332,
+        "num": 139639,
+        "word": "A股两市上涨个股超4100只",
+        "onboard_time": 1738828522,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 139639,
+        "num": 139638,
+        "word": "陈哲远梁洁同框直播",
+        "onboard_time": 1738834225,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134777,
+        "num": 134777,
+        "word": "女子拒还26万彩礼让母亲去受拘留",
+        "onboard_time": 1738823725,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133159,
+        "num": 133159,
+        "word": "网购了1只恶犬还没袜子大",
+        "onboard_time": 1738820128,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132360,
+        "num": 132360,
+        "word": "饺子称团队没通宵但加班到四五点",
+        "onboard_time": 1738827803,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125671,
+        "num": 125671,
+        "word": "菲律宾南部一直升机坠毁致多人死亡",
+        "onboard_time": 1738831704,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 120511,
+        "num": 120511,
+        "word": "唐探1900一张迟到145年的合影",
+        "onboard_time": 1738834104,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111908,
+        "num": 111908,
+        "word": "美政府船只现在可以免费通过巴拿马运河",
+        "onboard_time": 1738837644,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102267,
+        "num": 102267,
+        "word": "逆水寒手游",
+        "onboard_time": 1738835903,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中泰命运共同体建设走深走实#"
+    }
+  }
+}
