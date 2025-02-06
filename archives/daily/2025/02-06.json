@@ -1,6 +1,6 @@
 {
   "startTime": 1738772916136,
-  "endTime": 1738823524320,
+  "endTime": 1738824295214,
   "band_list": [
     {
       "raw_hot": 11663552,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 3716352,
-      "num": 348415,
+      "num": 364073,
       "word": "小S许雅钧为大S包机",
       "onboard_time": 1738818210,
       "rank": 10,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1391397,
-      "num": 321466,
+      "num": 366207,
       "word": "哪吒雕像已从公司门口搬走",
       "onboard_time": 1738820008,
       "rank": 6,
@@ -163,8 +163,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 818024,
-      "num": 818024,
+      "raw_hot": 837592,
+      "num": 837592,
       "word": "蒯曼3比0王曼昱",
       "onboard_time": 1738820547,
       "rank": 1,
@@ -177,6 +177,14 @@
       "onboard_time": 1738767504,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 729662,
+      "num": 363722,
+      "word": "哪吒一上午连破两个票房纪录",
+      "onboard_time": 1738820366,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 706183,
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 511597,
-      "num": 261537,
+      "num": 358840,
       "word": "网购了1只恶犬还没袜子大",
       "onboard_time": 1738820128,
       "rank": 31,
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 482478,
-      "num": 304758,
+      "num": 361405,
       "word": "北京一家长将熟睡女儿落地铁上",
       "onboard_time": 1738816169,
       "rank": 30,
@@ -387,14 +395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 436685,
-      "num": 287788,
-      "word": "哪吒一上午连破两个票房纪录",
-      "onboard_time": 1738820366,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 434832,
       "num": 434832,
       "word": "北京这次大风有一定极端性",
@@ -451,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 366368,
+      "num": 366368,
+      "word": "四川献血大王突发脑梗住院",
+      "onboard_time": 1738820848,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 365877,
       "num": 365877,
       "word": "梅婷回复沈月",
@@ -467,11 +475,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 358839,
+      "num": 358839,
+      "word": "哪吒2回应登顶",
+      "onboard_time": 1738823184,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 358823,
       "num": 270480,
       "word": "哪吒为啥走路总插兜",
       "onboard_time": 1738770684,
       "rank": 15,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 356135,
+      "num": 356135,
+      "word": "哪吒只做1",
+      "onboard_time": 1738823365,
+      "rank": 26,
       "category": "电影"
     },
     {
@@ -497,14 +521,6 @@
       "onboard_time": 1738806563,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 349470,
-      "num": 251238,
-      "word": "哪吒2回应登顶",
-      "onboard_time": 1738823184,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 346624,
@@ -547,14 +563,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 322840,
-      "num": 322840,
-      "word": "四川献血大王突发脑梗住院",
-      "onboard_time": 1738820848,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 316056,
       "num": 220659,
       "word": "祝绪丹配音小石矶娘娘",
@@ -588,7 +596,7 @@
     },
     {
       "raw_hot": 292007,
-      "num": 292007,
+      "num": 365688,
       "word": "湖人黄蜂交易",
       "onboard_time": 1738820666,
       "rank": 9,
@@ -651,6 +659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 263527,
+      "num": 263527,
+      "word": "景甜这次演重生爽文女主",
+      "onboard_time": 1738822585,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 257495,
       "num": 257495,
       "word": "谁家男主做师做徒都得被调戏",
@@ -659,8 +675,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 249701,
-      "num": 249701,
+      "raw_hot": 253683,
+      "num": 361675,
       "word": "宁艺卓亚冬会宣传VCR",
       "onboard_time": 1738819827,
       "rank": 43,
@@ -739,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217095,
+      "num": 217095,
+      "word": "雷军回应小米SU7Ultra车标是金的",
+      "onboard_time": 1738822645,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 215789,
       "num": 215789,
       "word": "权志龙官宣世界巡回演唱会",
@@ -771,12 +795,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210838,
-      "num": 210838,
-      "word": "景甜这次演重生爽文女主",
-      "onboard_time": 1738822585,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 209183,
+      "num": 132813,
+      "word": "哪吒登顶贺图",
+      "onboard_time": 1738823303,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 206502,
@@ -827,14 +851,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 203119,
-      "num": 203119,
-      "word": "哪吒只做1",
-      "onboard_time": 1738823365,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 196421,
       "num": 228064,
       "word": "京津冀最大阵风可达9级",
@@ -857,6 +873,14 @@
       "onboard_time": 1738812804,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187448,
+      "num": 360095,
+      "word": "女子拒还26万彩礼让母亲去受拘留",
+      "onboard_time": 1738823725,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187067,
@@ -884,7 +908,7 @@
     },
     {
       "raw_hot": 185055,
-      "num": 270481,
+      "num": 360812,
       "word": "金饰价格两天涨20元每克",
       "onboard_time": 1738820068,
       "rank": 20,
@@ -937,14 +961,6 @@
       "onboard_time": 1738805183,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 173311,
-      "num": 173311,
-      "word": "雷军回应小米SU7Ultra车标是金的",
-      "onboard_time": 1738822645,
-      "rank": 33,
-      "category": "汽车"
     },
     {
       "raw_hot": 172709,
@@ -1115,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147665,
+      "num": 195154,
+      "word": "陈哲远回复粉丝演技质疑",
+      "onboard_time": 1738821564,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143690,
       "num": 143690,
       "word": "宁艺卓超级期待亚冬会",
@@ -1169,14 +1193,6 @@
       "onboard_time": 1738761263,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 134690,
-      "num": 195154,
-      "word": "陈哲远回复粉丝演技质疑",
-      "onboard_time": 1738821564,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 132176,
@@ -1388,7 +1404,7 @@
     },
     {
       "raw_hot": 111837,
-      "num": 194728,
+      "num": 318813,
       "word": "巴特勒闹剧结束",
       "onboard_time": 1738823243,
       "rank": 28,
@@ -1443,12 +1459,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 106891,
+      "num": 106891,
+      "word": "王曼昱止步WTT新加坡大满贯16强",
+      "onboard_time": 1738823844,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 105501,
+      "num": 360519,
+      "word": "掌心妇仇者联盟",
+      "onboard_time": 1738823545,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105407,
       "num": 478518,
       "word": "怎么看待坐飞机加价选座",
       "onboard_time": 1738811722,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101120,
+      "num": 101120,
+      "word": "人和马都是真英雄",
+      "onboard_time": 1738824082,
+      "rank": 44,
+      "category": "正能量"
     },
     {
       "raw_hot": 100157,
@@ -1475,11 +1515,27 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 94848,
+      "num": 94848,
+      "word": "唐朝诡事录掌心同一个导演",
+      "onboard_time": 1738824264,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 94497,
       "num": 172937,
       "word": "唐探系列是一场巨大的callback",
       "onboard_time": 1738772660,
       "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 93259,
+      "num": 93259,
+      "word": "哪吒2仅用9天登顶中国影史冠军",
+      "onboard_time": 1738824205,
+      "rank": 49,
       "category": "电影"
     },
     {
@@ -1577,6 +1633,14 @@
       "onboard_time": 1738814667,
       "rank": 19,
       "category": "电影,议题讨论"
+    },
+    {
+      "raw_hot": 64544,
+      "num": 194559,
+      "word": "印度罕见神经系统疾病疑已致5死",
+      "onboard_time": 1738823243,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 63235,
@@ -1691,14 +1755,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 41152,
-      "num": 194559,
-      "word": "印度罕见神经系统疾病疑已致5死",
-      "onboard_time": 1738823243,
-      "rank": 29,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 41121,
       "num": 89263,
       "word": "国产电影团建式祝贺哪吒2",
@@ -1795,6 +1851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24396,
+      "num": 573131,
+      "word": "一人一句给中国健儿加油",
+      "onboard_time": 1738813524,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 21966,
       "num": 55488,
       "word": "国安提醒节后返岗牢记四不",
@@ -1851,6 +1915,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 14021,
+      "num": 162124,
+      "word": "申公豹的苦楚被打工人狠狠共情了",
+      "onboard_time": 1738824144,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 12683,
       "num": 18844,
       "word": "开工第一天情绪价值拉满",
@@ -1865,14 +1937,6 @@
       "onboard_time": 1738785251,
       "rank": 24,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 12101,
-      "num": 476471,
-      "word": "一人一句给中国健儿加油",
-      "onboard_time": 1738813524,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 11492,
