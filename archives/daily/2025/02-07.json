@@ -1,18 +1,18 @@
 {
   "startTime": 1738859204643,
-  "endTime": 1738898890783,
+  "endTime": 1738899716296,
   "band_list": [
     {
-      "raw_hot": 4091875,
-      "num": 5183751,
+      "raw_hot": 10208509,
+      "num": 11458509,
       "word": "黄旭华逝世",
       "onboard_time": 1738897163,
       "rank": 30,
       "category": "国内时政"
     },
     {
-      "raw_hot": 2147717,
-      "num": 2147717,
+      "raw_hot": 2461518,
+      "num": 2461518,
       "word": "哪吒2爆火保洁3倍工资还要求加钱",
       "onboard_time": 1738896443,
       "rank": 16,
@@ -35,6 +35,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1401821,
+      "num": 1401821,
+      "word": "恋与深空",
+      "onboard_time": 1738890983,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1030517,
       "num": 1030517,
       "word": "哪吒影史第一",
@@ -43,12 +51,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1025192,
-      "num": 1025192,
-      "word": "恋与深空",
-      "onboard_time": 1738890983,
-      "rank": 36,
-      "category": "游戏"
+      "raw_hot": 1000731,
+      "num": 1000731,
+      "word": "范思哲 蔡徐坤",
+      "onboard_time": 1738887500,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 968281,
@@ -57,14 +65,6 @@
       "onboard_time": 1738894281,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 960526,
-      "num": 960526,
-      "word": "范思哲 蔡徐坤",
-      "onboard_time": 1738887500,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 951327,
@@ -91,7 +91,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 806672,
+      "raw_hot": 820448,
       "num": 806672,
       "word": "官方通报破门亮灯事件",
       "onboard_time": 1738894043,
@@ -203,6 +203,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 471476,
+      "num": 441293,
+      "word": "玄彬炫耀了一晚上老婆孩子",
+      "onboard_time": 1738897584,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 466882,
       "num": 466882,
       "word": "中央气象台发布寒潮大风预警",
@@ -283,14 +291,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 331154,
-      "num": 331154,
-      "word": "玄彬炫耀了一晚上老婆孩子",
-      "onboard_time": 1738897584,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 327566,
       "num": 327566,
       "word": "电影蛟龙行动",
@@ -323,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 301266,
+      "num": 301266,
+      "word": "勇士vs湖人",
+      "onboard_time": 1738899448,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 297153,
       "num": 297153,
       "word": "李现说把腹肌胖没了",
@@ -345,6 +353,14 @@
       "onboard_time": 1738850186,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 275091,
+      "num": 275091,
+      "word": "掌心第一案喜提尸兄",
+      "onboard_time": 1738896622,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 272371,
@@ -371,11 +387,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 260148,
-      "num": 260148,
-      "word": "掌心第一案喜提尸兄",
-      "onboard_time": 1738896622,
-      "rank": 36,
+      "raw_hot": 257549,
+      "num": 257549,
+      "word": "陈哲远梁洁开辟cp新赛道",
+      "onboard_time": 1738898608,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -387,12 +403,36 @@
       "category": "数码,互联网"
     },
     {
+      "raw_hot": 250861,
+      "num": 466241,
+      "word": "黄旭华院士生平",
+      "onboard_time": 1738898966,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 247507,
       "num": 229300,
       "word": "男子旅游停车两三天感慨天塌了",
       "onboard_time": 1738892242,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 244679,
+      "num": 244679,
+      "word": "DeepSeek",
+      "onboard_time": 1738899388,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 243583,
+      "num": 243583,
+      "word": "我的一生属于核潜艇属于祖国",
+      "onboard_time": 1738899448,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 242753,
@@ -419,7 +459,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 221313,
+      "raw_hot": 222000,
       "num": 470825,
       "word": "雄安集团招聘数万人是假消息",
       "onboard_time": 1738896982,
@@ -467,6 +507,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203369,
+      "num": 329198,
+      "word": "跨境电商企业称已出现包裹滞留",
+      "onboard_time": 1738897523,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203369,
+      "num": 210199,
+      "word": "恋与深空狼尾新发型",
+      "onboard_time": 1738899448,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 200121,
       "num": 200121,
       "word": "哪吒冲100亿",
@@ -491,12 +547,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 198013,
+      "num": 198013,
+      "word": "王者新英雄空空儿即将上线体验服",
+      "onboard_time": 1738899506,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 194200,
+      "num": 194200,
+      "word": "黄旭华隐姓埋名30年研究核潜艇",
+      "onboard_time": 1738898966,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 194044,
       "num": 194044,
       "word": "小S许雅钧为大S包机",
       "onboard_time": 1738818210,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189208,
+      "num": 189208,
+      "word": "饺子导演画不完根本画不完",
+      "onboard_time": 1738898487,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 188660,
@@ -555,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161785,
+      "num": 210078,
+      "word": "全场为林孝埈欢呼",
+      "onboard_time": 1738898905,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160553,
       "num": 160553,
       "word": "哪吒票房",
@@ -579,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157582,
+      "num": 157582,
+      "word": "掌心里有眉姐姐",
+      "onboard_time": 1738898427,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152076,
       "num": 152076,
       "word": "哪吒2动画制作团队在线摇人",
@@ -593,14 +689,6 @@
       "onboard_time": 1738890144,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 149212,
-      "num": 329198,
-      "word": "跨境电商企业称已出现包裹滞留",
-      "onboard_time": 1738897523,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 146521,
@@ -699,22 +787,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 131117,
-      "num": 131117,
-      "word": "掌心里有眉姐姐",
-      "onboard_time": 1738898427,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 130883,
-      "num": 130883,
-      "word": "陈哲远梁洁开辟cp新赛道",
-      "onboard_time": 1738898608,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 129446,
       "num": 129446,
       "word": "哪吒之魔童闹海预测票房超108.5亿",
@@ -739,6 +811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119898,
+      "num": 146895,
+      "word": "吉利新车型可醇可电可油",
+      "onboard_time": 1738899567,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 115482,
       "num": 115482,
       "word": "刘诗诗窦骁开播海报",
@@ -753,14 +833,6 @@
       "onboard_time": 1738848265,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 110026,
-      "num": 110026,
-      "word": "饺子导演画不完根本画不完",
-      "onboard_time": 1738898487,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 108461,
@@ -841,6 +913,22 @@
       "onboard_time": 1738884076,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90372,
+      "num": 194466,
+      "word": "男子500米中国选手全晋级",
+      "onboard_time": 1738899567,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 90069,
+      "num": 194234,
+      "word": "刘少昂1500米破赛会纪录",
+      "onboard_time": 1738899506,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 86117,
@@ -1004,7 +1092,7 @@
     },
     {
       "raw_hot": 35498,
-      "num": 1410348,
+      "num": 1762783,
       "word": "三个关键词概括第九届亚冬会",
       "onboard_time": 1738846282,
       "rank": 2,

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738898890783,
+  "endTime": 1738899716296,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -217,6 +217,14 @@
       "onboard_time": 1735660407,
       "rank": 0,
       "category": "情感,民生新闻"
+    },
+    {
+      "raw_hot": 10208509,
+      "num": 11458509,
+      "word": "黄旭华逝世",
+      "onboard_time": 1738897163,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 10158319,
@@ -625,14 +633,6 @@
       "onboard_time": 1736477600,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 4091875,
-      "num": 5183751,
-      "word": "黄旭华逝世",
-      "onboard_time": 1738897163,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 4022283,
@@ -1475,6 +1475,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 2461518,
+      "num": 2461518,
+      "word": "哪吒2爆火保洁3倍工资还要求加钱",
+      "onboard_time": 1738896443,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2458918,
       "num": 1161952,
       "word": "泰警方称星星被缅甸边防部队拘留",
@@ -1905,14 +1913,6 @@
       "onboard_time": 1736321783,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2147717,
-      "num": 2147717,
-      "word": "哪吒2爆火保洁3倍工资还要求加钱",
-      "onboard_time": 1738896443,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 2146772,

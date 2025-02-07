@@ -1,0 +1,410 @@
+{
+  "runTime": 1738899716296,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10208509,
+        "num": 11458509,
+        "word": "黄旭华逝世",
+        "onboard_time": 1738897163,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2461518,
+        "num": 2461518,
+        "word": "哪吒2爆火保洁3倍工资还要求加钱",
+        "onboard_time": 1738896443,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20718,
+        "num": 1762783,
+        "word": "三个关键词概括第九届亚冬会",
+        "onboard_time": 1738846282,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1401821,
+        "num": 1401821,
+        "word": "恋与深空",
+        "onboard_time": 1738890983,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1056798,
+        "num": 1056798,
+        "word": "哪吒2若卖95亿饺子至少能分1.35亿",
+        "onboard_time": 1738887381,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1000731,
+        "num": 1000731,
+        "word": "范思哲 蔡徐坤",
+        "onboard_time": 1738887500,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 930944,
+        "num": 930944,
+        "word": "韩某某投敌叛变48小时内被抓",
+        "onboard_time": 1738887321,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 815383,
+        "num": 815383,
+        "word": "哪吒2破63亿",
+        "onboard_time": 1738893742,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 471401,
+        "num": 471401,
+        "word": "间谍投敌不到48小时就被抓",
+        "onboard_time": 1738890685,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 250861,
+        "num": 466241,
+        "word": "黄旭华院士生平",
+        "onboard_time": 1738898966,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 820448,
+        "num": 458974,
+        "word": "官方通报破门亮灯事件",
+        "onboard_time": 1738894043,
+        "rank": 10,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 561592,
+        "num": 452985,
+        "word": "男子花18万闪婚仅半天新娘不见了",
+        "onboard_time": 1738894281,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 471476,
+        "num": 441293,
+        "word": "玄彬炫耀了一晚上老婆孩子",
+        "onboard_time": 1738897584,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438688,
+        "num": 438688,
+        "word": "哪吒2票房大半要分给影院",
+        "onboard_time": 1738890623,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 374266,
+        "num": 374266,
+        "word": "NewJeans新组合名NJZ",
+        "onboard_time": 1738890623,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364152,
+        "num": 364152,
+        "word": "骑手因包装破损被华为店索赔一万五",
+        "onboard_time": 1738858462,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336206,
+        "num": 336206,
+        "word": "乌尔善 封神口碑",
+        "onboard_time": 1738887021,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 301266,
+        "num": 301266,
+        "word": "勇士vs湖人",
+        "onboard_time": 1738899448,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276335,
+        "num": 276335,
+        "word": "今天出门是被风推着走的",
+        "onboard_time": 1738894281,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275091,
+        "num": 275091,
+        "word": "掌心第一案喜提尸兄",
+        "onboard_time": 1738896622,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267844,
+        "num": 267844,
+        "word": "国安破获一起主动投靠境外间谍案",
+        "onboard_time": 1738890623,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 257549,
+        "num": 257549,
+        "word": "陈哲远梁洁开辟cp新赛道",
+        "onboard_time": 1738898608,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247490,
+        "num": 247490,
+        "word": "中央气象台发布寒潮大风预警",
+        "onboard_time": 1738890383,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244679,
+        "num": 244679,
+        "word": "DeepSeek",
+        "onboard_time": 1738899388,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 243583,
+        "num": 243583,
+        "word": "我的一生属于核潜艇属于祖国",
+        "onboard_time": 1738899448,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 239229,
+        "num": 239229,
+        "word": "大同街道就破门亮灯致歉",
+        "onboard_time": 1738891282,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222000,
+        "num": 222000,
+        "word": "雄安集团招聘数万人是假消息",
+        "onboard_time": 1738896982,
+        "rank": 26,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 213240,
+        "num": 213240,
+        "word": "哪吒",
+        "onboard_time": 1738840224,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203369,
+        "num": 210199,
+        "word": "恋与深空狼尾新发型",
+        "onboard_time": 1738899448,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161785,
+        "num": 210078,
+        "word": "全场为林孝埈欢呼",
+        "onboard_time": 1738898905,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209988,
+        "num": 209988,
+        "word": "27岁小伙3份副业最高日入5千",
+        "onboard_time": 1738887742,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207641,
+        "num": 207641,
+        "word": "史上学历最低的影帝",
+        "onboard_time": 1738895601,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203369,
+        "num": 203369,
+        "word": "跨境电商企业称已出现包裹滞留",
+        "onboard_time": 1738897523,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198013,
+        "num": 198013,
+        "word": "王者新英雄空空儿即将上线体验服",
+        "onboard_time": 1738899506,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 90372,
+        "num": 194466,
+        "word": "男子500米中国选手全晋级",
+        "onboard_time": 1738899567,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90069,
+        "num": 194234,
+        "word": "刘少昂1500米破赛会纪录",
+        "onboard_time": 1738899506,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194200,
+        "num": 194200,
+        "word": "黄旭华隐姓埋名30年研究核潜艇",
+        "onboard_time": 1738898966,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 190515,
+        "num": 190515,
+        "word": "男子旅游停车两三天感慨天塌了",
+        "onboard_time": 1738892242,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189208,
+        "num": 189208,
+        "word": "饺子导演画不完根本画不完",
+        "onboard_time": 1738898487,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179666,
+        "num": 179666,
+        "word": "藕饼",
+        "onboard_time": 1738893923,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159513,
+        "num": 159513,
+        "word": "A股",
+        "onboard_time": 1738897826,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 157582,
+        "num": 157582,
+        "word": "掌心里有眉姐姐",
+        "onboard_time": 1738898427,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153516,
+        "num": 153516,
+        "word": "射雕英雄传影史武侠片票房冠军",
+        "onboard_time": 1738887203,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119898,
+        "num": 146895,
+        "word": "吉利新车型可醇可电可油",
+        "onboard_time": 1738899567,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 146833,
+        "num": 146833,
+        "word": "建议别在晚上做重大决定",
+        "onboard_time": 1738850725,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138884,
+        "num": 138884,
+        "word": "哪吒票房",
+        "onboard_time": 1738894461,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133949,
+        "num": 133949,
+        "word": "妻子招待完丈夫朋友后被一顿猛夸",
+        "onboard_time": 1738849166,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133897,
+        "num": 133897,
+        "word": "敖丙妈妈长在我的心坎上了",
+        "onboard_time": 1738853665,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122395,
+        "num": 129364,
+        "word": "六姊妹破酷云实时收视历史纪录",
+        "onboard_time": 1738898306,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125376,
+        "num": 125376,
+        "word": "哪吒影史第一",
+        "onboard_time": 1738817490,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将出席哈尔滨第九届亚冬会开幕式#"
+    }
+  }
+}
