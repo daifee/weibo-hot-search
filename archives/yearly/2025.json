@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738921015304,
+  "endTime": 1738923835418,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1715,6 +1715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2279782,
+      "num": 2279782,
+      "word": "第一批买哪吒金镯的人已赚麻了",
+      "onboard_time": 1738921700,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 2277571,
       "num": 581816,
       "word": "龚俊为演员星星发声",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1737861438,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1943566,
-      "num": 1554992,
-      "word": "机器人扭秧歌",
-      "onboard_time": 1738069428,
-      "rank": 17,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

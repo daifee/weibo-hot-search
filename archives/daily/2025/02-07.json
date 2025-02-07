@@ -1,6 +1,6 @@
 {
   "startTime": 1738859204643,
-  "endTime": 1738921015304,
+  "endTime": 1738923835418,
   "band_list": [
     {
       "raw_hot": 10208509,
@@ -25,6 +25,14 @@
       "onboard_time": 1738896443,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2279782,
+      "num": 2279782,
+      "word": "第一批买哪吒金镯的人已赚麻了",
+      "onboard_time": 1738921700,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 2252717,
@@ -211,6 +219,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 841165,
+      "num": 584599,
+      "word": "哪吒2票房",
+      "onboard_time": 1738919241,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 835552,
       "num": 835552,
       "word": "多家影院回应儿童观影免票",
@@ -257,6 +273,14 @@
       "onboard_time": 1738917324,
       "rank": 31,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 693133,
+      "num": 228714,
+      "word": "丁克婚姻20年丈夫竟和别人生子",
+      "onboard_time": 1738922841,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 664917,
@@ -387,6 +411,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 563399,
+      "num": 563399,
+      "word": "无量仙翁爆改肌肉猛男突然合理了",
+      "onboard_time": 1738920561,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 530818,
       "num": 530818,
       "word": "初十",
@@ -401,6 +433,14 @@
       "onboard_time": 1738851265,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 505386,
+      "num": 298647,
+      "word": "原来这就是脂肪肝",
+      "onboard_time": 1738920741,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 505214,
@@ -523,14 +563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 430762,
-      "num": 298647,
-      "word": "原来这就是脂肪肝",
-      "onboard_time": 1738920741,
-      "rank": 20,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 429422,
       "num": 429422,
       "word": "百亿影帝全身照",
@@ -595,6 +627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 371052,
+      "num": 371052,
+      "word": "李赫宰一位",
+      "onboard_time": 1738921462,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 367473,
       "num": 367473,
       "word": "今天出门是被风推着走的",
@@ -617,6 +657,14 @@
       "onboard_time": 1738904486,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 350110,
+      "num": 386377,
+      "word": "结界兽互殴算不算破坏文物",
+      "onboard_time": 1738920624,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 346652,
@@ -763,6 +811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 301810,
+      "num": 251581,
+      "word": "哪吒2",
+      "onboard_time": 1738914561,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 301266,
       "num": 301266,
       "word": "勇士vs湖人",
@@ -785,6 +841,14 @@
       "onboard_time": 1738907662,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 290290,
+      "num": 220058,
+      "word": "哪吒2破66亿元",
+      "onboard_time": 1738923142,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 287089,
@@ -851,6 +915,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 270893,
+      "num": 270893,
+      "word": "马龙王楚钦受邀参加双奥北京项目",
+      "onboard_time": 1738922241,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 270516,
       "num": 254120,
       "word": "妻子招待完丈夫朋友后被一顿猛夸",
@@ -915,14 +987,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 252836,
-      "num": 251581,
-      "word": "哪吒2",
-      "onboard_time": 1738914561,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 252753,
       "num": 298761,
       "word": "恋与深空明日无处可逃",
@@ -937,6 +1001,14 @@
       "onboard_time": 1738916241,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 250146,
+      "num": 250146,
+      "word": "破门亮灯事件只有道歉还不够",
+      "onboard_time": 1738919722,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 249461,
@@ -987,14 +1059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 239787,
-      "num": 239787,
-      "word": "哪吒2票房",
-      "onboard_time": 1738919241,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 238959,
       "num": 346656,
       "word": "王者新英雄空空儿即将上线体验服",
@@ -1033,6 +1097,14 @@
       "onboard_time": 1738901126,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 233059,
+      "num": 233059,
+      "word": "冰雪同梦亚洲同心",
+      "onboard_time": 1738923682,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 232966,
@@ -1131,12 +1203,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 219614,
-      "num": 219614,
-      "word": "无量仙翁爆改肌肉猛男突然合理了",
-      "onboard_time": 1738920561,
-      "rank": 28,
-      "category": "电影"
+      "raw_hot": 221820,
+      "num": 221820,
+      "word": "西施情人节限定",
+      "onboard_time": 1738919782,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 218258,
@@ -1363,12 +1435,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 193152,
-      "num": 193152,
-      "word": "西施情人节限定",
-      "onboard_time": 1738919782,
-      "rank": 42,
-      "category": "游戏"
+      "raw_hot": 193462,
+      "num": 193462,
+      "word": "王嘉尔的生无可恋写在了脸上",
+      "onboard_time": 1738922241,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 189659,
@@ -1515,14 +1587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169813,
-      "num": 169813,
-      "word": "破门亮灯事件只有道歉还不够",
-      "onboard_time": 1738919722,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 166610,
       "num": 166610,
       "word": "掌心热度",
@@ -1587,6 +1651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157674,
+      "num": 157674,
+      "word": "1270余名运动员报名参赛亚冬会",
+      "onboard_time": 1738922423,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157582,
       "num": 157582,
       "word": "掌心里有眉姐姐",
@@ -1617,6 +1689,14 @@
       "onboard_time": 1738891941,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 151836,
+      "num": 149939,
+      "word": "王者荣耀1月收入达近42个月最高值",
+      "onboard_time": 1738923682,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 151667,
@@ -1731,6 +1811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138365,
+      "num": 215335,
+      "word": "美国国际开发署被爆几乎全员被裁",
+      "onboard_time": 1738920863,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 137746,
       "num": 263491,
       "word": "陈哲远梁洁不语只是一味肘击对方",
@@ -1753,6 +1841,14 @@
       "onboard_time": 1738898306,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135355,
+      "num": 135355,
+      "word": "胡先煦也逃不过考古胡先煦",
+      "onboard_time": 1738921521,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 134979,
@@ -1795,6 +1891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 132037,
+      "num": 132037,
+      "word": "2032年小行星真的会撞上地球吗",
+      "onboard_time": 1738922603,
+      "rank": 43,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 131475,
       "num": 131475,
       "word": "金饰价格每克超870元",
@@ -1833,6 +1937,22 @@
       "onboard_time": 1738894043,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122087,
+      "num": 233003,
+      "word": "张馨予消失的头发回来了",
+      "onboard_time": 1738923142,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 121737,
+      "num": 121737,
+      "word": "王宝强回应唐探炫腹",
+      "onboard_time": 1738923802,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 120624,
@@ -1905,14 +2025,6 @@
       "onboard_time": 1738859359,
       "rank": 36,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 107371,
-      "num": 215335,
-      "word": "美国国际开发署被爆几乎全员被裁",
-      "onboard_time": 1738920863,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 107195,
@@ -2155,6 +2267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75244,
+      "num": 215446,
+      "word": "亚冬会开幕式发了杂粮煎饼",
+      "onboard_time": 1738923682,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73310,
       "num": 162321,
       "word": "胡兵下一个想爆改瞿颖陈楚生",
@@ -2305,6 +2425,22 @@
       "onboard_time": 1738863434,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 49514,
+      "num": 221423,
+      "word": "王者新英雄空空儿设计理念",
+      "onboard_time": 1738919001,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 48752,
+      "num": 525344,
+      "word": "亚冬会开幕式精彩看点",
+      "onboard_time": 1738919424,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 48734,
@@ -2507,14 +2643,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 25480,
-      "num": 386377,
-      "word": "结界兽互殴算不算破坏文物",
-      "onboard_time": 1738920624,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 25317,
       "num": 28941,
       "word": "周宪怎么胖成这样了",
@@ -2609,6 +2737,14 @@
       "onboard_time": 1738861756,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15234,
+      "num": 601623,
+      "word": "中国红冰雪白一起扮靓尔滨",
+      "onboard_time": 1738882093,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 15038,

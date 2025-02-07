@@ -1,0 +1,410 @@
+{
+  "runTime": 1738923835418,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2279782,
+        "num": 2279782,
+        "word": "第一批买哪吒金镯的人已赚麻了",
+        "onboard_time": 1738921700,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 610338,
+        "num": 610338,
+        "word": "九个月赚1亿公司多个分公司已注销",
+        "onboard_time": 1738914981,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15234,
+        "num": 601623,
+        "word": "中国红冰雪白一起扮靓尔滨",
+        "onboard_time": 1738882093,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1066333,
+        "num": 593945,
+        "word": "20后宝宝都避开网红名了吗",
+        "onboard_time": 1738915943,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 841165,
+        "num": 584599,
+        "word": "哪吒2票房",
+        "onboard_time": 1738919241,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 888796,
+        "num": 578634,
+        "word": "内蒙古一地发生重大刑案警方悬赏缉凶",
+        "onboard_time": 1738917503,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 772954,
+        "num": 572593,
+        "word": "演员严屹宽被指撞脸敖光",
+        "onboard_time": 1738909582,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 563399,
+        "num": 563399,
+        "word": "无量仙翁爆改肌肉猛男突然合理了",
+        "onboard_time": 1738920561,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 539902,
+        "num": 539902,
+        "word": "黄旭华逝世",
+        "onboard_time": 1738897163,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 48752,
+        "num": 525344,
+        "word": "亚冬会开幕式精彩看点",
+        "onboard_time": 1738919424,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 702321,
+        "num": 522948,
+        "word": "李纯 马頔",
+        "onboard_time": 1738907902,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 643414,
+        "num": 520760,
+        "word": "研究发现一小行星7年后有概率撞地球",
+        "onboard_time": 1738912163,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 517574,
+        "num": 517574,
+        "word": "博主卖DeepSeek相关课程1天收入50000元",
+        "onboard_time": 1738917324,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 371052,
+        "num": 371052,
+        "word": "李赫宰一位",
+        "onboard_time": 1738921462,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 350110,
+        "num": 350110,
+        "word": "结界兽互殴算不算破坏文物",
+        "onboard_time": 1738920624,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 342079,
+        "num": 342079,
+        "word": "向涵之演技",
+        "onboard_time": 1738915463,
+        "rank": 15,
+        "category": "剧集,综艺"
+      },
+      {
+        "raw_hot": 270893,
+        "num": 270893,
+        "word": "马龙王楚钦受邀参加双奥北京项目",
+        "onboard_time": 1738922241,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250146,
+        "num": 250146,
+        "word": "破门亮灯事件只有道歉还不够",
+        "onboard_time": 1738919722,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233059,
+        "num": 233059,
+        "word": "冰雪同梦亚洲同心",
+        "onboard_time": 1738923682,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122087,
+        "num": 233003,
+        "word": "张馨予消失的头发回来了",
+        "onboard_time": 1738923142,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 693133,
+        "num": 228714,
+        "word": "丁克婚姻20年丈夫竟和别人生子",
+        "onboard_time": 1738922841,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 505386,
+        "num": 225386,
+        "word": "原来这就是脂肪肝",
+        "onboard_time": 1738920741,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 301810,
+        "num": 224599,
+        "word": "哪吒2",
+        "onboard_time": 1738914561,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 221820,
+        "num": 221820,
+        "word": "西施情人节限定",
+        "onboard_time": 1738919782,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 49514,
+        "num": 221423,
+        "word": "王者新英雄空空儿设计理念",
+        "onboard_time": 1738919001,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 290290,
+        "num": 220058,
+        "word": "哪吒2破66亿元",
+        "onboard_time": 1738923142,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 279480,
+        "num": 219005,
+        "word": "接哪吒后外包公司离职率陡升",
+        "onboard_time": 1738907123,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 256680,
+        "num": 217809,
+        "word": "种地吧返工直播",
+        "onboard_time": 1738912882,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237306,
+        "num": 216326,
+        "word": "邓为第一部男主口碑",
+        "onboard_time": 1738910904,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216076,
+        "num": 216076,
+        "word": "严屹宽回应撞脸敖光",
+        "onboard_time": 1738913181,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 75244,
+        "num": 215446,
+        "word": "亚冬会开幕式发了杂粮煎饼",
+        "onboard_time": 1738923682,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215160,
+        "num": 215160,
+        "word": "吴宗宪大女儿代班小S",
+        "onboard_time": 1738918282,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193462,
+        "num": 193462,
+        "word": "王嘉尔的生无可恋写在了脸上",
+        "onboard_time": 1738922241,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183006,
+        "num": 183006,
+        "word": "苗苗选择和郑恺结婚的契机",
+        "onboard_time": 1738907482,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165713,
+        "num": 165713,
+        "word": "黄旭华生前珍贵画面",
+        "onboard_time": 1738917623,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 167922,
+        "num": 162554,
+        "word": "杨子为了看黄圣依开废了一辆车",
+        "onboard_time": 1738911322,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157674,
+        "num": 157674,
+        "word": "1270余名运动员报名参赛亚冬会",
+        "onboard_time": 1738922423,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150018,
+        "num": 150018,
+        "word": "亚冬会",
+        "onboard_time": 1738922304,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151836,
+        "num": 149939,
+        "word": "王者荣耀1月收入达近42个月最高值",
+        "onboard_time": 1738923682,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141288,
+        "num": 141288,
+        "word": "掌心",
+        "onboard_time": 1738901906,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138365,
+        "num": 138365,
+        "word": "美国国际开发署被爆几乎全员被裁",
+        "onboard_time": 1738920863,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137231,
+        "num": 137231,
+        "word": "多家影院回应儿童观影免票",
+        "onboard_time": 1738916963,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135355,
+        "num": 135355,
+        "word": "胡先煦也逃不过考古胡先煦",
+        "onboard_time": 1738921521,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132037,
+        "num": 132037,
+        "word": "2032年小行星真的会撞上地球吗",
+        "onboard_time": 1738922603,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 130833,
+        "num": 130833,
+        "word": "联合国首次启动行星安全协议",
+        "onboard_time": 1738914561,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130416,
+        "num": 130416,
+        "word": "亚冬会开幕式分会场是冰雪大世界",
+        "onboard_time": 1738916241,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129172,
+        "num": 129172,
+        "word": "DeepSeek紧急说明",
+        "onboard_time": 1738903106,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 122195,
+        "num": 122195,
+        "word": "哪吒的手镯",
+        "onboard_time": 1738912403,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121930,
+        "num": 121930,
+        "word": "张艺兴把手机号写在贺卡上",
+        "onboard_time": 1738918882,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121737,
+        "num": 121737,
+        "word": "王宝强回应唐探炫腹",
+        "onboard_time": 1738923802,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平和彭丽媛为国际贵宾举行欢迎宴会#"
+    }
+  }
+}

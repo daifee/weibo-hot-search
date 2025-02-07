@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/02/07 17:36:55
+本榜单时间：2025/01/01 00:26:38 ~ 2025/02/07 18:23:55
 </p>
 </blockquote>
 <p>
@@ -1299,6 +1299,12 @@ TikTok停止在美服务（热度：2463156）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E4%B9%B0%E5%93%AA%E5%90%92%E9%87%91%E9%95%AF%E7%9A%84%E4%BA%BA%E5%B7%B2%E8%B5%9A%E9%BA%BB%E4%BA%86%23" target="weibo">
+第一批买哪吒金镯的人已赚麻了（热度：2279782）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E4%B8%BA%E6%BC%94%E5%91%98%E6%98%9F%E6%98%9F%E5%8F%91%E5%A3%B0%23" target="weibo">
 龚俊为演员星星发声（热度：2277571）
 </a>
@@ -1805,12 +1811,6 @@ Ok 咱们线上（热度：2051932）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E4%B8%80%E6%9F%9C%E5%A7%90%E8%AF%84%E8%AE%BA%E5%88%98%E4%BA%A6%E8%8F%B2%E5%BE%AE%E8%83%96%E8%A2%AB%E8%BE%9E%E9%80%80%23" target="weibo">
 南京一柜姐评论刘亦菲微胖被辞退（热度：1943989）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%AD%E7%A7%A7%E6%AD%8C%23" target="weibo">
-机器人扭秧歌（热度：1943566）
 </a>
 </li>
 
