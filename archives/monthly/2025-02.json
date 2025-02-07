@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738927129800,
+  "endTime": 1738928155255,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1259,6 +1259,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1030500,
+      "num": 399327,
+      "word": "俞灏明王晓晨韩国约会",
+      "onboard_time": 1738925782,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1029674,
       "num": 238088,
       "word": "医生称大S去世或与基础性疾病有关",
@@ -1907,6 +1915,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 766947,
+      "num": 427438,
+      "word": "哪吒导演签名竟然是画哪吒",
+      "onboard_time": 1738925242,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 760453,
       "num": 563541,
       "word": "黄晓明发文悼念",
@@ -1945,14 +1961,6 @@
       "onboard_time": 1738500920,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 749110,
-      "num": 407468,
-      "word": "哪吒导演签名竟然是画哪吒",
-      "onboard_time": 1738925242,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 748145,
@@ -2907,14 +2915,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 550025,
-      "num": 399327,
-      "word": "俞灏明王晓晨韩国约会",
-      "onboard_time": 1738925782,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 549528,
       "num": 601876,
       "word": "春节戒断反应",
@@ -2985,6 +2985,14 @@
       "onboard_time": 1738808963,
       "rank": 8,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 542418,
+      "num": 371255,
+      "word": "陈哲远梁洁cha了法海你不懂爱",
+      "onboard_time": 1738925062,
+      "rank": 17,
+      "category": "剧集,综艺"
     },
     {
       "raw_hot": 541746,
@@ -4411,6 +4419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 391046,
+      "num": 391046,
+      "word": "饼饼可爱",
+      "onboard_time": 1738925062,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 390812,
       "num": 390812,
       "word": "广州一男子通勤1年举报2277起违章",
@@ -4545,6 +4561,14 @@
       "onboard_time": 1738807162,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 377817,
+      "num": 406087,
+      "word": "尔滨已做好准备",
+      "onboard_time": 1738926743,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 375815,
@@ -5675,6 +5699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300927,
+      "num": 182781,
+      "word": "留几手没有帮葛夕提行李箱的原因",
+      "onboard_time": 1738926922,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 300386,
       "num": 281377,
       "word": "申公豹一家有话要说",
@@ -5899,14 +5931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 285592,
-      "num": 285592,
-      "word": "陈哲远梁洁cha了法海你不懂爱",
-      "onboard_time": 1738925062,
-      "rank": 17,
-      "category": "剧集,综艺"
-    },
-    {
       "raw_hot": 285418,
       "num": 285418,
       "word": "射雕票房破6亿",
@@ -6009,6 +6033,14 @@
       "onboard_time": 1738588769,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 278632,
+      "num": 180978,
+      "word": "四川一密室逃脱男玩家猥亵女性员工",
+      "onboard_time": 1738926743,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 278035,
@@ -6379,6 +6411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 259033,
+      "num": 216841,
+      "word": "红了25年也帅了25年的男主",
+      "onboard_time": 1738926142,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258751,
       "num": 258751,
       "word": "李小冉深夜回怼网友",
@@ -6745,6 +6785,14 @@
       "onboard_time": 1738552229,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 247412,
+      "num": 218567,
+      "word": "刘诗诗掌心口碑",
+      "onboard_time": 1738924220,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 247096,
@@ -7627,6 +7675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222098,
+      "num": 179609,
+      "word": "唐探1900柯南式凶手",
+      "onboard_time": 1738927101,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 222000,
       "num": 470825,
       "word": "雄安集团招聘数万人是假消息",
@@ -7755,14 +7811,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 218567,
-      "num": 218567,
-      "word": "刘诗诗掌心口碑",
-      "onboard_time": 1738924220,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 218198,
       "num": 681551,
       "word": "刘少昂1500米破赛会纪录",
@@ -7827,28 +7875,12 @@
       "category": "国内时政,电影"
     },
     {
-      "raw_hot": 216841,
-      "num": 216841,
-      "word": "红了25年也帅了25年的男主",
-      "onboard_time": 1738926142,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 216285,
       "num": 216285,
       "word": "叶平安下雨天穿白裙子",
       "onboard_time": 1738915701,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 216248,
-      "num": 406087,
-      "word": "尔滨已做好准备",
-      "onboard_time": 1738926743,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 216115,
@@ -7961,14 +7993,6 @@
       "onboard_time": 1738757604,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 214073,
-      "num": 214073,
-      "word": "饼饼可爱",
-      "onboard_time": 1738925062,
-      "rank": 32,
-      "category": "动漫"
     },
     {
       "raw_hot": 213642,
@@ -8867,6 +8891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197031,
+      "num": 197031,
+      "word": "林俊杰43岁状态",
+      "onboard_time": 1738925361,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197014,
       "num": 371240,
       "word": "檀健次将出席2025米兰时装周",
@@ -9129,6 +9161,14 @@
       "onboard_time": 1738675045,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192923,
+      "num": 179112,
+      "word": "谁家男主休假是去寺庙扫地",
+      "onboard_time": 1738927641,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 192846,
@@ -11163,14 +11203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 161644,
-      "num": 161644,
-      "word": "四川一密室逃脱男玩家猥亵女性员工",
-      "onboard_time": 1738926743,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 161636,
       "num": 195102,
       "word": "多地返程遇雨雪",
@@ -12115,14 +12147,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 148956,
-      "num": 148956,
-      "word": "留几手没有帮葛夕提行李箱的原因",
-      "onboard_time": 1738926922,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 148561,
       "num": 300719,
       "word": "王楚钦林诗栋vs卡尔森法尔克",
@@ -12289,6 +12313,14 @@
       "onboard_time": 1738384398,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146038,
+      "num": 152521,
+      "word": "超级杯",
+      "onboard_time": 1738927342,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 145913,
@@ -12491,6 +12523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 143749,
+      "num": 143749,
+      "word": "艾米好灵",
+      "onboard_time": 1738928122,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143747,
       "num": 143747,
       "word": "明天就到立春了",
@@ -12641,6 +12681,14 @@
       "onboard_time": 1738751665,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142038,
+      "num": 271351,
+      "word": "NewJeans新经纪公司将成立",
+      "onboard_time": 1738926982,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 142029,
@@ -13593,14 +13641,6 @@
       "onboard_time": 1738386496,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 128647,
-      "num": 128647,
-      "word": "唐探1900柯南式凶手",
-      "onboard_time": 1738927101,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 128574,
@@ -16979,14 +17019,6 @@
       "category": "民生新闻,美食"
     },
     {
-      "raw_hot": 71687,
-      "num": 271351,
-      "word": "NewJeans新经纪公司将成立",
-      "onboard_time": 1738926982,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 71580,
       "num": 374910,
       "word": "第五代EA888机皇",
@@ -18123,6 +18155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44350,
+      "num": 131232,
+      "word": "林孝埈一天4赛全部晋级",
+      "onboard_time": 1738924643,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44348,
       "num": 44348,
       "word": "小沈阳你说中国人不骗中国人",
@@ -19043,6 +19083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25358,
+      "num": 182572,
+      "word": "A股成交近2万亿超4100只个股上涨",
+      "onboard_time": 1738927884,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 25317,
       "num": 28941,
       "word": "周宪怎么胖成这样了",
@@ -19307,6 +19355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20256,
+      "num": 179938,
+      "word": "王楚钦林诗栋战胜勒布伦兄弟",
+      "onboard_time": 1738918521,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 20181,
       "num": 87941,
       "word": "假期后程新一股冷空气来袭",
@@ -19377,6 +19433,14 @@
       "onboard_time": 1738871352,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 17301,
+      "num": 187029,
+      "word": "新航回应飞机疑因乘客上厕所延误起飞",
+      "onboard_time": 1738927641,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16964,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1738928155255,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2198578,
+        "num": 2198578,
+        "word": "第一批买哪吒金镯的人已赚麻了",
+        "onboard_time": 1738921700,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 557405,
+        "num": 557405,
+        "word": "九个月赚1亿公司多个分公司已注销",
+        "onboard_time": 1738914981,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20599,
+        "num": 480030,
+        "word": "哈尔滨亚冬会先导片",
+        "onboard_time": 1738902507,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 803741,
+        "num": 479648,
+        "word": "饺子导演将登顶中国导演总票房第一",
+        "onboard_time": 1738924220,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 448797,
+        "num": 448797,
+        "word": "20后宝宝都避开网红名了吗",
+        "onboard_time": 1738915943,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 436544,
+        "num": 436544,
+        "word": "黄旭华逝世",
+        "onboard_time": 1738897163,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 766947,
+        "num": 427438,
+        "word": "哪吒导演签名竟然是画哪吒",
+        "onboard_time": 1738925242,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 614141,
+        "num": 427025,
+        "word": "敖丙",
+        "onboard_time": 1738924402,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 391046,
+        "num": 391046,
+        "word": "饼饼可爱",
+        "onboard_time": 1738925062,
+        "rank": 8,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 377817,
+        "num": 377817,
+        "word": "尔滨已做好准备",
+        "onboard_time": 1738926743,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1030500,
+        "num": 373571,
+        "word": "俞灏明王晓晨韩国约会",
+        "onboard_time": 1738925782,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 845091,
+        "num": 372708,
+        "word": "张馨予消失的头发回来了",
+        "onboard_time": 1738923142,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 542418,
+        "num": 371255,
+        "word": "陈哲远梁洁cha了法海你不懂爱",
+        "onboard_time": 1738925062,
+        "rank": 12,
+        "category": "剧集,综艺"
+      },
+      {
+        "raw_hot": 356751,
+        "num": 356751,
+        "word": "研究发现一小行星7年后有概率撞地球",
+        "onboard_time": 1738912163,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198603,
+        "num": 198603,
+        "word": "林诗栋4比1林昀儒",
+        "onboard_time": 1738926203,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 497067,
+        "num": 198419,
+        "word": "哪吒2破66亿元",
+        "onboard_time": 1738923142,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 440273,
+        "num": 198218,
+        "word": "李纯 马頔",
+        "onboard_time": 1738907902,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197031,
+        "num": 197031,
+        "word": "林俊杰43岁状态",
+        "onboard_time": 1738925361,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17301,
+        "num": 187029,
+        "word": "新航回应飞机疑因乘客上厕所延误起飞",
+        "onboard_time": 1738927641,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183203,
+        "num": 183203,
+        "word": "冰雪同梦亚洲同心",
+        "onboard_time": 1738923682,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 727964,
+        "num": 182941,
+        "word": "丁克婚姻20年丈夫竟和别人生子",
+        "onboard_time": 1738922841,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300927,
+        "num": 182781,
+        "word": "留几手没有帮葛夕提行李箱的原因",
+        "onboard_time": 1738926922,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25358,
+        "num": 182572,
+        "word": "A股成交近2万亿超4100只个股上涨",
+        "onboard_time": 1738927884,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 434990,
+        "num": 181974,
+        "word": "演员严屹宽被指撞脸敖光",
+        "onboard_time": 1738909582,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 351788,
+        "num": 181844,
+        "word": "原来这就是脂肪肝",
+        "onboard_time": 1738920741,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 291293,
+        "num": 181562,
+        "word": "王者荣耀1月收入达近42个月最高值",
+        "onboard_time": 1738923682,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 280212,
+        "num": 181008,
+        "word": "哪吒2",
+        "onboard_time": 1738914561,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 278632,
+        "num": 180978,
+        "word": "四川一密室逃脱男玩家猥亵女性员工",
+        "onboard_time": 1738926743,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259033,
+        "num": 180560,
+        "word": "红了25年也帅了25年的男主",
+        "onboard_time": 1738926142,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247412,
+        "num": 180174,
+        "word": "刘诗诗掌心口碑",
+        "onboard_time": 1738924220,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20256,
+        "num": 179938,
+        "word": "王楚钦林诗栋战胜勒布伦兄弟",
+        "onboard_time": 1738918521,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222098,
+        "num": 179609,
+        "word": "唐探1900柯南式凶手",
+        "onboard_time": 1738927101,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 196907,
+        "num": 179273,
+        "word": "无量仙翁爆改肌肉猛男突然合理了",
+        "onboard_time": 1738920561,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192923,
+        "num": 179112,
+        "word": "谁家男主休假是去寺庙扫地",
+        "onboard_time": 1738927641,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178800,
+        "num": 178800,
+        "word": "权志龙会员",
+        "onboard_time": 1738924162,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162275,
+        "num": 162275,
+        "word": "邓为第一部男主口碑",
+        "onboard_time": 1738910904,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146038,
+        "num": 152521,
+        "word": "超级杯",
+        "onboard_time": 1738927342,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151582,
+        "num": 151582,
+        "word": "哪吒2票房",
+        "onboard_time": 1738919241,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151546,
+        "num": 151546,
+        "word": "卢昱晓直播好多人啊",
+        "onboard_time": 1738925542,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148430,
+        "num": 148430,
+        "word": "李赫宰一位",
+        "onboard_time": 1738921462,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147921,
+        "num": 147921,
+        "word": "吴宗宪大女儿代班小S",
+        "onboard_time": 1738918282,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143749,
+        "num": 143749,
+        "word": "艾米好灵",
+        "onboard_time": 1738928122,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142583,
+        "num": 142583,
+        "word": "马龙王楚钦受邀参加双奥北京项目",
+        "onboard_time": 1738922241,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142367,
+        "num": 142367,
+        "word": "宋亚轩 好大的风啊",
+        "onboard_time": 1738926081,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142038,
+        "num": 142038,
+        "word": "NewJeans新经纪公司将成立",
+        "onboard_time": 1738926982,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138632,
+        "num": 138632,
+        "word": "接哪吒后外包公司离职率陡升",
+        "onboard_time": 1738907123,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137388,
+        "num": 137388,
+        "word": "赫海",
+        "onboard_time": 1738924882,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45269,
+        "num": 135700,
+        "word": "小行星撞地球或相当于500个核弹",
+        "onboard_time": 1738919662,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 134624,
+        "num": 134624,
+        "word": "黄旭华生前珍贵画面",
+        "onboard_time": 1738917623,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 44350,
+        "num": 131232,
+        "word": "林孝埈一天4赛全部晋级",
+        "onboard_time": 1738924643,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在亚冬会开幕式欢迎宴会上的致辞#"
+    }
+  }
+}
