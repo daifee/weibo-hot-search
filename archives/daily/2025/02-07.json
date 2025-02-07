@@ -1,6 +1,6 @@
 {
   "startTime": 1738859204643,
-  "endTime": 1738917650445,
+  "endTime": 1738920207967,
   "band_list": [
     {
       "raw_hot": 10208509,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2773326,
-      "num": 480931,
+      "num": 674454,
       "word": "李纯 马頔",
       "onboard_time": 1738907902,
       "rank": 10,
@@ -67,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1661126,
+      "num": 1661126,
+      "word": "20后宝宝都避开网红名了吗",
+      "onboard_time": 1738915943,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1434947,
       "num": 1434947,
       "word": "九个月赚1亿公司多个分公司已注销",
@@ -105,14 +113,6 @@
       "onboard_time": 1738907482,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1067172,
-      "num": 414529,
-      "word": "20后宝宝都避开网红名了吗",
-      "onboard_time": 1738915943,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 1034595,
@@ -171,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 945947,
+      "num": 945947,
+      "word": "内蒙古一地发生重大刑案警方悬赏缉凶",
+      "onboard_time": 1738917503,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 926272,
       "num": 943273,
       "word": "大批妙瓦底电诈园受害者被救",
@@ -201,6 +209,14 @@
       "onboard_time": 1738900105,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 835552,
+      "num": 835552,
+      "word": "多家影院回应儿童观影免票",
+      "onboard_time": 1738916963,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 820448,
@@ -297,6 +313,14 @@
       "onboard_time": 1738911322,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 630148,
+      "num": 630148,
+      "word": "博主卖DeepSeek相关课程1天收入50000元",
+      "onboard_time": 1738917324,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 627469,
@@ -489,6 +513,14 @@
       "onboard_time": 1738816708,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 436984,
+      "num": 436984,
+      "word": "吴宗宪大女儿代班小S",
+      "onboard_time": 1738918282,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 429422,
@@ -691,6 +723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 308304,
+      "num": 308304,
+      "word": "黄旭华生前珍贵画面",
+      "onboard_time": 1738917623,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 306265,
       "num": 306265,
       "word": "蔡磊全身肌肉已掉近30斤",
@@ -779,6 +819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 272490,
+      "num": 272490,
+      "word": "喝完一罐可乐后身体的变化",
+      "onboard_time": 1738916543,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 272371,
       "num": 535244,
       "word": "微信客服称账号长期不登会被回收",
@@ -859,20 +907,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 251936,
-      "num": 251936,
-      "word": "亚冬会开幕式分会场是冰雪大世界",
-      "onboard_time": 1738916241,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 251581,
+      "raw_hot": 252836,
       "num": 251581,
       "word": "哪吒2",
       "onboard_time": 1738914561,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 251936,
+      "num": 675360,
+      "word": "亚冬会开幕式分会场是冰雪大世界",
+      "onboard_time": 1738916241,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 249461,
@@ -945,14 +993,6 @@
       "onboard_time": 1738909824,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 237291,
-      "num": 237291,
-      "word": "喝完一罐可乐后身体的变化",
-      "onboard_time": 1738916543,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 233957,
@@ -1067,14 +1107,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 218673,
-      "num": 218673,
-      "word": "博主卖DeepSeek相关课程1天收入50000元",
-      "onboard_time": 1738917324,
-      "rank": 31,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 218258,
       "num": 218258,
       "word": "藕饼",
@@ -1139,12 +1171,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210491,
+      "num": 210491,
+      "word": "张艺兴把手机号写在贺卡上",
+      "onboard_time": 1738918882,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210041,
       "num": 196665,
       "word": "李心艾官宣怀孕",
       "onboard_time": 1738843345,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210040,
+      "num": 210040,
+      "word": "王星越给赵晴吓得韩语都出来了",
+      "onboard_time": 1738918104,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 210014,
@@ -1315,6 +1363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 185369,
+      "num": 185369,
+      "word": "ADOR回应NewJeans改名",
+      "onboard_time": 1738917922,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185072,
       "num": 185072,
       "word": "亚冬会",
@@ -1379,12 +1435,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178224,
+      "num": 178224,
+      "word": "哪吒2票房",
+      "onboard_time": 1738919241,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 176683,
       "num": 311533,
       "word": "黄渤饰演姜子牙最难的是年龄差",
       "onboard_time": 1738903228,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 176551,
+      "num": 176551,
+      "word": "西施情人节限定",
+      "onboard_time": 1738919782,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 176205,
@@ -1395,19 +1467,19 @@
       "category": "电影"
     },
     {
-      "raw_hot": 175402,
-      "num": 175402,
-      "word": "内蒙古一地发生重大刑案警方悬赏缉凶",
-      "onboard_time": 1738917503,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 174266,
       "num": 174266,
       "word": "外国人也有春节戒断反应了",
       "onboard_time": 1738904125,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174263,
+      "num": 174263,
+      "word": "90后美术老师画出10米高哪吒",
+      "onboard_time": 1738918402,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -1417,6 +1489,14 @@
       "onboard_time": 1738914382,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169813,
+      "num": 169813,
+      "word": "破门亮灯事件只有道歉还不够",
+      "onboard_time": 1738919722,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166610,
@@ -1467,6 +1547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 159223,
+      "num": 180360,
+      "word": "恋与深空明日无处可逃",
+      "onboard_time": 1738920083,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 158724,
       "num": 175515,
       "word": "跟着尔滨大雪人看亚冬会",
@@ -1497,14 +1585,6 @@
       "onboard_time": 1738891941,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 151753,
-      "num": 151753,
-      "word": "黄旭华生前珍贵画面",
-      "onboard_time": 1738917623,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 151667,
@@ -1811,14 +1891,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 102978,
-      "num": 392704,
-      "word": "多家影院回应儿童观影免票",
-      "onboard_time": 1738916963,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 102457,
       "num": 340574,
       "word": "金价上涨带动黄金手机贴纸走红",
@@ -1865,6 +1937,14 @@
       "onboard_time": 1738912583,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100159,
+      "num": 210197,
+      "word": "黎深狼尾发型",
+      "onboard_time": 1738919484,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 100106,
@@ -2083,6 +2163,14 @@
       "category": "体育,电影"
     },
     {
+      "raw_hot": 58274,
+      "num": 1097708,
+      "word": "HarbinTravel的含金量还在上升",
+      "onboard_time": 1738919001,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56721,
       "num": 244822,
       "word": "男子冰球小组赛中国8比0泰国",
@@ -2107,6 +2195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 53807,
+      "num": 299715,
+      "word": "林孝埈拿过短道所有单项金牌",
+      "onboard_time": 1738919122,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52656,
       "num": 374826,
       "word": "村干部享副科级待遇近11年后被控诈骗",
@@ -2121,6 +2217,14 @@
       "onboard_time": 1738912462,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51282,
+      "num": 228106,
+      "word": "小行星撞地球或相当于500个核弹",
+      "onboard_time": 1738919662,
+      "rank": 29,
+      "category": "科学科普"
     },
     {
       "raw_hot": 50635,
@@ -2155,6 +2259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 49211,
+      "num": 674471,
+      "word": "寒潮大风天气安全出行小贴士",
+      "onboard_time": 1738919122,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48734,
       "num": 81429,
       "word": "六姊妹剧评六到飞起",
@@ -2177,6 +2289,14 @@
       "onboard_time": 1738916184,
       "rank": 29,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 41881,
+      "num": 228206,
+      "word": "黄旭华用一生诠释清澈的爱只为中国",
+      "onboard_time": 1738919182,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41527,
@@ -2467,6 +2587,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 11837,
+      "num": 306359,
+      "word": "穿湖人球衣的宋小宝认不出来",
+      "onboard_time": 1738914862,
+      "rank": 18,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 7657,
       "num": 38114,
       "word": "军人在海拔3600米巡逻就像界碑",
@@ -2495,6 +2623,9 @@
     },
     {
       "word": "#一个关键词看大国外交步履不停#"
+    },
+    {
+      "word": "#习近平和彭丽媛为国际贵宾举行欢迎宴会#"
     }
   ]
 }
