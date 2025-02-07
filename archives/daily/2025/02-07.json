@@ -1,6 +1,6 @@
 {
   "startTime": 1738859204643,
-  "endTime": 1738909887680,
+  "endTime": 1738910645000,
   "band_list": [
     {
       "raw_hot": 10208509,
@@ -11,8 +11,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 2706807,
-      "num": 443800,
+      "raw_hot": 2773326,
+      "num": 462857,
       "word": "李纯 马頔",
       "onboard_time": 1738907902,
       "rank": 10,
@@ -43,8 +43,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1663679,
-      "num": 1663679,
+      "raw_hot": 1855847,
+      "num": 1855847,
       "word": "接哪吒后外包公司离职率陡升",
       "onboard_time": 1738907123,
       "rank": 0,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1179545,
-      "num": 775367,
+      "num": 1013762,
       "word": "苗苗选择和郑恺结婚的契机",
       "onboard_time": 1738907482,
       "rank": 3,
@@ -105,6 +105,14 @@
       "onboard_time": 1738887500,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 985926,
+      "num": 985926,
+      "word": "有人1元拍下公司80%股权",
+      "onboard_time": 1738908082,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 968281,
@@ -211,14 +219,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 654540,
-      "num": 654540,
-      "word": "有人1元拍下公司80%股权",
-      "onboard_time": 1738908082,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 653714,
       "num": 653714,
       "word": "伊能静带儿子和秦昊父母聚餐",
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 566756,
-      "num": 299994,
+      "num": 338542,
       "word": "为什么苹果能把十年前的照片变成live",
       "onboard_time": 1738906524,
       "rank": 20,
@@ -336,6 +336,14 @@
       "word": "比窦娥还冤的女主出现了",
       "onboard_time": 1738901545,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 474931,
+      "num": 474931,
+      "word": "宣璐新剧第一集就玩这么大",
+      "onboard_time": 1738909163,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -443,14 +451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 347266,
-      "num": 347266,
-      "word": "宣璐新剧第一集就玩这么大",
-      "onboard_time": 1738909163,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 346652,
       "num": 346652,
       "word": "哪吒2距星球大战仅差4亿",
@@ -481,6 +481,14 @@
       "onboard_time": 1738844124,
       "rank": 40,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 337872,
+      "num": 337872,
+      "word": "黄旭华生前只戴母亲的围巾",
+      "onboard_time": 1738909163,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 331898,
@@ -529,6 +537,14 @@
       "onboard_time": 1738879092,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 314711,
+      "num": 314711,
+      "word": "沈星回ooc",
+      "onboard_time": 1738909103,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 313389,
@@ -593,6 +609,14 @@
       "onboard_time": 1738887922,
       "rank": 16,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 294702,
+      "num": 294702,
+      "word": "余承恩单手抱娃",
+      "onboard_time": 1738909403,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 293562,
@@ -691,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 254442,
+      "num": 274875,
+      "word": "姚晨福建到底有谁在啊",
+      "onboard_time": 1738909824,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254214,
       "num": 241291,
       "word": "小米眼镜官博上线",
@@ -699,12 +731,28 @@
       "category": "数码,互联网"
     },
     {
+      "raw_hot": 254204,
+      "num": 254204,
+      "word": "秦彻狼尾",
+      "onboard_time": 1738909344,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 249461,
       "num": 249461,
       "word": "饺子成第六大票房导演",
       "onboard_time": 1738905325,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 247711,
+      "num": 247711,
+      "word": "短剧迎来真正大女主",
+      "onboard_time": 1738910122,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 247507,
@@ -721,14 +769,6 @@
       "onboard_time": 1738899866,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 245478,
-      "num": 245478,
-      "word": "余承恩单手抱娃",
-      "onboard_time": 1738909403,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 243989,
@@ -763,12 +803,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 237710,
+      "num": 237710,
+      "word": "邓为出关赶上横店大雪了",
+      "onboard_time": 1738909824,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 233957,
       "num": 194524,
       "word": "妻子双肺全白丈夫含泪卖车不放弃",
       "onboard_time": 1738832305,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233757,
+      "num": 281812,
+      "word": "演员严屹宽被指撞脸敖光",
+      "onboard_time": 1738909582,
+      "rank": 29,
+      "category": "艺人,电影"
     },
     {
       "raw_hot": 233563,
@@ -785,14 +841,6 @@
       "onboard_time": 1738905027,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 229437,
-      "num": 229437,
-      "word": "沈星回ooc",
-      "onboard_time": 1738909103,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 228890,
@@ -907,12 +955,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 213885,
-      "num": 213885,
-      "word": "黄旭华生前只戴母亲的围巾",
-      "onboard_time": 1738909163,
-      "rank": 36,
-      "category": "国内时政"
+      "raw_hot": 213259,
+      "num": 213259,
+      "word": "祁煜 病娇",
+      "onboard_time": 1738910003,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 213088,
@@ -929,6 +977,14 @@
       "onboard_time": 1738843345,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210014,
+      "num": 388999,
+      "word": "黄旭华此生属于祖国",
+      "onboard_time": 1738909403,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 210005,
@@ -987,6 +1043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199748,
+      "num": 199748,
+      "word": "詹姆斯42分",
+      "onboard_time": 1738910003,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199386,
       "num": 199386,
       "word": "近8千订酒店提前半个月退款被拒",
@@ -1003,14 +1067,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 195973,
-      "num": 195973,
-      "word": "秦彻狼尾",
-      "onboard_time": 1738909344,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 194200,
       "num": 194200,
       "word": "黄旭华隐姓埋名30年研究核潜艇",
@@ -1025,6 +1081,22 @@
       "onboard_time": 1738818210,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189459,
+      "num": 189459,
+      "word": "黎深 典狱长",
+      "onboard_time": 1738908684,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 189444,
+      "num": 189444,
+      "word": "票房",
+      "onboard_time": 1738907722,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 188660,
@@ -1107,30 +1179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 170447,
-      "num": 203315,
-      "word": "姚晨福建到底有谁在啊",
-      "onboard_time": 1738909824,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 169888,
-      "num": 169888,
-      "word": "黎深 典狱长",
-      "onboard_time": 1738908684,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 166152,
-      "num": 166152,
-      "word": "邓为出关赶上横店大雪了",
-      "onboard_time": 1738909824,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 164929,
       "num": 329207,
       "word": "李飞飞团队50美元复刻DeepSeek真相",
@@ -1177,14 +1225,6 @@
       "onboard_time": 1738898427,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 152117,
-      "num": 233757,
-      "word": "黄旭华此生属于祖国",
-      "onboard_time": 1738909403,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 152076,
@@ -1380,7 +1420,7 @@
     },
     {
       "raw_hot": 118159,
-      "num": 275243,
+      "num": 299484,
       "word": "孙颖莎对阵何卓佳",
       "onboard_time": 1738909403,
       "rank": 24,
@@ -1451,6 +1491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 102457,
+      "num": 340574,
+      "word": "金价上涨带动黄金手机贴纸走红",
+      "onboard_time": 1738909763,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102305,
       "num": 143368,
       "word": "金饰价格涨至872元每克",
@@ -1507,14 +1555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 95924,
-      "num": 229939,
-      "word": "金价上涨带动黄金手机贴纸走红",
-      "onboard_time": 1738909763,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 95861,
       "num": 310130,
       "word": "于适爷们就要战斗",
@@ -1529,6 +1569,14 @@
       "onboard_time": 1738908684,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90593,
+      "num": 339676,
+      "word": "号称接入deepseek键盘鼠标1天卖近100万元",
+      "onboard_time": 1738910184,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90372,
@@ -1569,6 +1617,14 @@
       "onboard_time": 1738841545,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 79949,
+      "num": 275374,
+      "word": "仙台有树魏纠放狠话吓到0人",
+      "onboard_time": 1738910363,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 79593,
@@ -1723,6 +1779,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 41527,
+      "num": 463886,
+      "word": "黄旭华用算盘造出一艘核潜艇",
+      "onboard_time": 1738909582,
+      "rank": 25,
+      "category": "民生新闻,国内时政"
+    },
+    {
       "raw_hot": 41480,
       "num": 177318,
       "word": "中国电影成为世界看中国的新窗口",
@@ -1859,28 +1923,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 23773,
-      "num": 245799,
-      "word": "演员严屹宽被指撞脸敖光",
-      "onboard_time": 1738909582,
-      "rank": 29,
-      "category": "艺人,电影"
-    },
-    {
       "raw_hot": 23698,
       "num": 197109,
       "word": "陈哲远牌创可贴",
       "onboard_time": 1738858941,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 22754,
-      "num": 275235,
-      "word": "黄旭华用算盘造出一艘核潜艇",
-      "onboard_time": 1738909582,
-      "rank": 25,
-      "category": "民生新闻,国内时政"
     },
     {
       "raw_hot": 20671,
