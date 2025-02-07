@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/02/07 21:38:15
+本榜单时间：2025/01/01 00:26:38 ~ 2025/02/07 22:20:50
 </p>
 </blockquote>
 <p>
@@ -653,6 +653,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%20%E5%85%B1%E9%B8%A3%23" target="weibo">
 王嘉尔 共鸣（热度：3330871）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E5%85%A8%E7%90%83%E5%BD%B1%E5%8F%B2%E5%8D%95%E4%B8%80%E5%B8%82%E5%9C%BA%E7%A5%A8%E6%88%BF%E7%AC%AC1%23" target="weibo">
+哪吒2全球影史单一市场票房第1（热度：3321649）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ Ok 咱们线上（热度：2051932）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9B%AA%E7%90%B4%20%E4%BB%8E%E6%B2%A1%E5%9C%A8%E7%BA%A2%E6%AF%AF%E8%BF%99%E4%B9%88%E5%A5%BD%E7%9C%8B%E8%BF%87%23" target="weibo">
 李雪琴 从没在红毯这么好看过（热度：1944202）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E4%B8%80%E6%9F%9C%E5%A7%90%E8%AF%84%E8%AE%BA%E5%88%98%E4%BA%A6%E8%8F%B2%E5%BE%AE%E8%83%96%E8%A2%AB%E8%BE%9E%E9%80%80%23" target="weibo">
-南京一柜姐评论刘亦菲微胖被辞退（热度：1943989）
 </a>
 </li>
 

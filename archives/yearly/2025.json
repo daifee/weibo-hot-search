@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738935495183,
+  "endTime": 1738938050206,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -857,6 +857,14 @@
       "onboard_time": 1736033777,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3321649,
+      "num": 3321649,
+      "word": "哪吒2全球影史单一市场票房第1",
+      "onboard_time": 1738935684,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 3315107,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736577739,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1943989,
-      "num": 1943989,
-      "word": "南京一柜姐评论刘亦菲微胖被辞退",
-      "onboard_time": 1737861438,
-      "rank": 15,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

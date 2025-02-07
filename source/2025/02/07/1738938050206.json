@@ -1,0 +1,410 @@
+{
+  "runTime": 1738938050206,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3321649,
+        "num": 3321649,
+        "word": "哪吒2全球影史单一市场票房第1",
+        "onboard_time": 1738935684,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 405825,
+        "num": 1457679,
+        "word": "2025亚冬会开幕式",
+        "onboard_time": 1738931063,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111803,
+        "num": 1092023,
+        "word": "哈尔滨亚冬会开幕",
+        "onboard_time": 1738933643,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 906728,
+        "num": 906728,
+        "word": "程靖淇恋情官宣",
+        "onboard_time": 1738931482,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 905406,
+        "num": 905406,
+        "word": "第一批买哪吒金镯的人已赚麻了",
+        "onboard_time": 1738921700,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 60144,
+        "num": 785522,
+        "word": "一起为TEAMCHINA加油",
+        "onboard_time": 1738935325,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 755082,
+        "num": 755082,
+        "word": "Angelababy王安宇新剧楼梯抱",
+        "onboard_time": 1738935204,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 854564,
+        "num": 606335,
+        "word": "孟子义柬埔寨路透",
+        "onboard_time": 1738936163,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 428473,
+        "num": 428473,
+        "word": "黄旭华逝世",
+        "onboard_time": 1738897163,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 302226,
+        "num": 302226,
+        "word": "大同市纪委监委回应破门亮灯事件",
+        "onboard_time": 1738935864,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 691353,
+        "num": 301067,
+        "word": "哪吒2动画公司称不参与票房分红",
+        "onboard_time": 1738932023,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 610693,
+        "num": 299570,
+        "word": "31岁演员孙铱血管瘤术后报平安",
+        "onboard_time": 1738931902,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 520551,
+        "num": 298470,
+        "word": "菲律宾旗手",
+        "onboard_time": 1738934062,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 466687,
+        "num": 296748,
+        "word": "张馨予消失的头发回来了",
+        "onboard_time": 1738923142,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82032,
+        "num": 294857,
+        "word": "揭秘80%股权被1元拍下公司",
+        "onboard_time": 1738936523,
+        "rank": 14,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 422161,
+        "num": 292594,
+        "word": "哪吒导演签名竟然是画哪吒",
+        "onboard_time": 1738925242,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 291453,
+        "num": 291453,
+        "word": "孙颖莎说没想到4比0的比分",
+        "onboard_time": 1738933824,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 403769,
+        "num": 291427,
+        "word": "哪吒2",
+        "onboard_time": 1738914561,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96828,
+        "num": 290917,
+        "word": "黄杨钿甜带着野心来了",
+        "onboard_time": 1738937302,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35776,
+        "num": 290516,
+        "word": "为无量仙翁配音大爷到片场才知配反派",
+        "onboard_time": 1738937424,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 501201,
+        "num": 290156,
+        "word": "丁克婚姻20年丈夫竟和别人生子",
+        "onboard_time": 1738922841,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 488831,
+        "num": 289731,
+        "word": "一个能一觉睡到天亮的入睡法",
+        "onboard_time": 1738933464,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 421125,
+        "num": 289510,
+        "word": "老人婚宴摔断肋骨酒店赔1万2大餐",
+        "onboard_time": 1738930943,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289338,
+        "num": 289338,
+        "word": "林诗栋蒯曼混双冠军",
+        "onboard_time": 1738934124,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126507,
+        "num": 284863,
+        "word": "高亭宇好帅",
+        "onboard_time": 1738935445,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 349602,
+        "num": 268960,
+        "word": "敖光",
+        "onboard_time": 1738934243,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 329461,
+        "num": 259087,
+        "word": "华晨宇工作室",
+        "onboard_time": 1738930342,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 302766,
+        "num": 246457,
+        "word": "张杰输给谢娜和女儿两局五子棋",
+        "onboard_time": 1738929562,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240944,
+        "num": 240944,
+        "word": "刘诗诗演技",
+        "onboard_time": 1738937783,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222650,
+        "num": 222650,
+        "word": "美国超2千万人感染流感死亡超1.1万",
+        "onboard_time": 1738932923,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 220767,
+        "num": 220767,
+        "word": "班主任寒假家访遭各种理由拒绝",
+        "onboard_time": 1738937064,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218847,
+        "num": 218847,
+        "word": "俞灏明王晓晨韩国约会",
+        "onboard_time": 1738925782,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218778,
+        "num": 218778,
+        "word": "李宇春哪吒",
+        "onboard_time": 1738936763,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 211482,
+        "num": 211482,
+        "word": "返乡过年被小县城的消费震撼了",
+        "onboard_time": 1738935083,
+        "rank": 33,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 202531,
+        "num": 202531,
+        "word": "哈尔滨",
+        "onboard_time": 1738934603,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195000,
+        "num": 195000,
+        "word": "陈丽君惊艳亮相巴黎",
+        "onboard_time": 1738932982,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188544,
+        "num": 188544,
+        "word": "邓为下次洗澡别忘了喊我",
+        "onboard_time": 1738937123,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187849,
+        "num": 187849,
+        "word": "白鹿下班vlog",
+        "onboard_time": 1738937244,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180240,
+        "num": 180240,
+        "word": "原来这就是脂肪肝",
+        "onboard_time": 1738920741,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 172157,
+        "num": 172157,
+        "word": "上海申花卫冕超级杯冠军",
+        "onboard_time": 1738936704,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171276,
+        "num": 171276,
+        "word": "饺子导演将登顶中国导演总票房第一",
+        "onboard_time": 1738924220,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163133,
+        "num": 163133,
+        "word": "九个月赚1亿公司多个分公司已注销",
+        "onboard_time": 1738914981,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158382,
+        "num": 158382,
+        "word": "李纯 马頔",
+        "onboard_time": 1738907902,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147339,
+        "num": 147339,
+        "word": "尔滨已做好准备",
+        "onboard_time": 1738926743,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143884,
+        "num": 143884,
+        "word": "钟辰乐直播",
+        "onboard_time": 1738934483,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140030,
+        "num": 140030,
+        "word": "金智秀韩剧新乌托邦",
+        "onboard_time": 1738932323,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138728,
+        "num": 138728,
+        "word": "哈尔滨亚冬会主火炬点燃",
+        "onboard_time": 1738935624,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131489,
+        "num": 131489,
+        "word": "上海海港vs上海申花",
+        "onboard_time": 1738929202,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130619,
+        "num": 130619,
+        "word": "王楚钦回应晋级四强",
+        "onboard_time": 1738938023,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130506,
+        "num": 130506,
+        "word": "刘诗诗保密局人设屹立不倒",
+        "onboard_time": 1738936284,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席出席哈尔滨亚冬会开幕式#"
+    }
+  }
+}

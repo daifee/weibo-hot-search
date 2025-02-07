@@ -1,6 +1,6 @@
 {
   "startTime": 1738859204643,
-  "endTime": 1738935495183,
+  "endTime": 1738938050206,
   "band_list": [
     {
       "raw_hot": 10208509,
@@ -9,6 +9,14 @@
       "onboard_time": 1738897163,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 3321649,
+      "num": 3321649,
+      "word": "哪吒2全球影史单一市场票房第1",
+      "onboard_time": 1738935684,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 2773326,
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 1185006,
-      "num": 1189601,
+      "num": 1457679,
       "word": "2025亚冬会开幕式",
       "onboard_time": 1738931063,
       "rank": 1,
@@ -299,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 854564,
+      "num": 606335,
+      "word": "孟子义柬埔寨路透",
+      "onboard_time": 1738936163,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 841165,
       "num": 584599,
       "word": "哪吒2票房",
@@ -337,6 +353,14 @@
       "onboard_time": 1738925242,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 755082,
+      "num": 755082,
+      "word": "Angelababy王安宇新剧楼梯抱",
+      "onboard_time": 1738935204,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 752490,
@@ -563,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 520551,
+      "num": 486295,
+      "word": "菲律宾旗手",
+      "onboard_time": 1738934062,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 505386,
       "num": 298647,
       "word": "原来这就是脂肪肝",
@@ -619,12 +651,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 486295,
-      "num": 486295,
-      "word": "菲律宾旗手",
-      "onboard_time": 1738934062,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 488831,
+      "num": 305508,
+      "word": "一个能一觉睡到天亮的入睡法",
+      "onboard_time": 1738933464,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 476734,
@@ -737,6 +769,14 @@
       "onboard_time": 1738904844,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 403769,
+      "num": 310342,
+      "word": "哪吒2",
+      "onboard_time": 1738914561,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 397646,
@@ -947,14 +987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 310342,
-      "num": 310342,
-      "word": "哪吒2",
-      "onboard_time": 1738914561,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 310000,
       "num": 310000,
       "word": "掌心开播",
@@ -995,14 +1027,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 305508,
-      "num": 305508,
-      "word": "一个能一觉睡到天亮的入睡法",
-      "onboard_time": 1738933464,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 302678,
       "num": 302678,
       "word": "西政毕业生起诉重庆轨道集团败诉",
@@ -1017,6 +1041,14 @@
       "onboard_time": 1738898905,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 302226,
+      "num": 302226,
+      "word": "大同市纪委监委回应破门亮灯事件",
+      "onboard_time": 1738935864,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 301728,
@@ -1307,6 +1339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 240944,
+      "num": 240944,
+      "word": "刘诗诗演技",
+      "onboard_time": 1738937783,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239975,
       "num": 271571,
       "word": "林孝埈滑出无人区",
@@ -1459,6 +1499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222650,
+      "num": 244829,
+      "word": "美国超2千万人感染流感死亡超1.1万",
+      "onboard_time": 1738932923,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 222098,
       "num": 179609,
       "word": "唐探1900柯南式凶手",
@@ -1489,6 +1537,22 @@
       "onboard_time": 1738919782,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 220767,
+      "num": 220767,
+      "word": "班主任寒假家访遭各种理由拒绝",
+      "onboard_time": 1738937064,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 218778,
+      "num": 218778,
+      "word": "李宇春哪吒",
+      "onboard_time": 1738936763,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 218258,
@@ -1569,6 +1633,14 @@
       "onboard_time": 1738901668,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211482,
+      "num": 312659,
+      "word": "返乡过年被小县城的消费震撼了",
+      "onboard_time": 1738935083,
+      "rank": 15,
+      "category": "民生新闻,情感"
     },
     {
       "raw_hot": 210491,
@@ -1652,7 +1724,7 @@
     },
     {
       "raw_hot": 205563,
-      "num": 958948,
+      "num": 1092023,
       "word": "哈尔滨亚冬会开幕",
       "onboard_time": 1738933643,
       "rank": 8,
@@ -1723,6 +1795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202531,
+      "num": 202531,
+      "word": "哈尔滨",
+      "onboard_time": 1738934603,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200121,
       "num": 200121,
       "word": "哪吒冲100亿",
@@ -1787,14 +1867,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 196909,
-      "num": 244829,
-      "word": "美国超2千万人感染流感死亡超1.1万",
-      "onboard_time": 1738932923,
-      "rank": 33,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 196456,
       "num": 196456,
       "word": "滨滨妮妮好可爱",
@@ -1817,14 +1889,6 @@
       "onboard_time": 1738818210,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 193630,
-      "num": 193630,
-      "word": "Angelababy王安宇新剧楼梯抱",
-      "onboard_time": 1738935204,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 193462,
@@ -1883,12 +1947,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 187417,
-      "num": 187417,
-      "word": "哈尔滨",
-      "onboard_time": 1738934603,
-      "rank": 44,
-      "category": "体育"
+      "raw_hot": 188544,
+      "num": 188544,
+      "word": "邓为下次洗澡别忘了喊我",
+      "onboard_time": 1738937123,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 187849,
+      "num": 187849,
+      "word": "白鹿下班vlog",
+      "onboard_time": 1738937244,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 185369,
@@ -2051,6 +2123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172157,
+      "num": 172157,
+      "word": "上海申花卫冕超级杯冠军",
+      "onboard_time": 1738936704,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171699,
       "num": 171699,
       "word": "尔滨这温度林孝埈还露脚脖子",
@@ -2140,7 +2220,7 @@
     },
     {
       "raw_hot": 160421,
-      "num": 160421,
+      "num": 284863,
       "word": "高亭宇好帅",
       "onboard_time": 1738935445,
       "rank": 49,
@@ -2379,6 +2459,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 138728,
+      "num": 138728,
+      "word": "哈尔滨亚冬会主火炬点燃",
+      "onboard_time": 1738935624,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138416,
       "num": 138416,
       "word": "石矶娘娘",
@@ -2483,12 +2571,36 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 131489,
+      "num": 131489,
+      "word": "上海海港vs上海申花",
+      "onboard_time": 1738929202,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131475,
       "num": 131475,
       "word": "金饰价格每克超870元",
       "onboard_time": 1738894761,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 130619,
+      "num": 130619,
+      "word": "王楚钦回应晋级四强",
+      "onboard_time": 1738938023,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 130506,
+      "num": 130506,
+      "word": "刘诗诗保密局人设屹立不倒",
+      "onboard_time": 1738936284,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 129446,
@@ -2731,6 +2843,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 96828,
+      "num": 290917,
+      "word": "黄杨钿甜带着野心来了",
+      "onboard_time": 1738937302,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96273,
       "num": 96273,
       "word": "白月梵星有效播放量破15亿",
@@ -2809,6 +2929,14 @@
       "onboard_time": 1738841545,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 82032,
+      "num": 294857,
+      "word": "揭秘80%股权被1元拍下公司",
+      "onboard_time": 1738936523,
+      "rank": 14,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 81323,
@@ -2969,6 +3097,14 @@
       "onboard_time": 1738932563,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 60144,
+      "num": 785522,
+      "word": "一起为TEAMCHINA加油",
+      "onboard_time": 1738935325,
+      "rank": 31,
+      "category": "体育,正能量"
     },
     {
       "raw_hot": 59730,
@@ -3235,6 +3371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35776,
+      "num": 290516,
+      "word": "为无量仙翁配音大爷到片场才知配反派",
+      "onboard_time": 1738937424,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 35680,
       "num": 207079,
       "word": "唐探1900系列笑话",
@@ -3387,14 +3531,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 24852,
-      "num": 312659,
-      "word": "返乡过年被小县城的消费震撼了",
-      "onboard_time": 1738935083,
-      "rank": 15,
-      "category": "民生新闻,情感"
-    },
-    {
       "raw_hot": 23698,
       "num": 197109,
       "word": "陈哲远牌创可贴",
@@ -3539,14 +3675,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 11392,
-      "num": 266089,
-      "word": "一起为TEAMCHINA加油",
-      "onboard_time": 1738935325,
-      "rank": 31,
-      "category": "体育,正能量"
-    },
-    {
       "raw_hot": 7657,
       "num": 38114,
       "word": "军人在海拔3600米巡逻就像界碑",
@@ -3592,6 +3720,9 @@
     },
     {
       "word": "#习近平出席亚冬会开幕式#"
+    },
+    {
+      "word": "#习近平主席出席哈尔滨亚冬会开幕式#"
     }
   ]
 }
