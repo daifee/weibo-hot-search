@@ -1,10 +1,10 @@
 {
   "startTime": 1738945672577,
-  "endTime": 1738945672577,
+  "endTime": 1738946646682,
   "band_list": [
     {
-      "raw_hot": 1582390,
-      "num": 1582390,
+      "raw_hot": 1715829,
+      "num": 1715829,
       "word": "短剧 上瘾",
       "onboard_time": 1738942462,
       "rank": 0,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1139360,
-      "num": 242181,
+      "num": 325014,
       "word": "哪吒2全球影史单一市场票房第1",
       "onboard_time": 1738935684,
       "rank": 3,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 701146,
-      "num": 232737,
+      "num": 298412,
       "word": "山东一婚姻登记处年后人满为患",
       "onboard_time": 1738943602,
       "rank": 10,
@@ -28,15 +28,15 @@
     },
     {
       "raw_hot": 617643,
-      "num": 237873,
+      "num": 304886,
       "word": "饺子背了半个月终于有人问了",
       "onboard_time": 1738939224,
       "rank": 6,
       "category": "电影"
     },
     {
-      "raw_hot": 571520,
-      "num": 236212,
+      "raw_hot": 605729,
+      "num": 307655,
       "word": "小红书上1.9元可买到枪版哪吒2",
       "onboard_time": 1738944080,
       "rank": 7,
@@ -44,35 +44,51 @@
     },
     {
       "raw_hot": 388068,
-      "num": 231005,
+      "num": 296438,
       "word": "哪吒2票房2个小时涨1亿",
       "onboard_time": 1738938443,
       "rank": 11,
       "category": "电影"
     },
     {
+      "raw_hot": 367118,
+      "num": 367118,
+      "word": "老人吵架后去世邻居被判赔偿",
+      "onboard_time": 1738943900,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 312862,
-      "num": 230057,
+      "num": 266259,
       "word": "丁禹兮的玩偶是虞书欣同款",
       "onboard_time": 1738939103,
       "rank": 12,
       "category": "剧集"
     },
     {
+      "raw_hot": 312116,
+      "num": 312116,
+      "word": "小行星",
+      "onboard_time": 1738938564,
+      "rank": 1,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 297046,
-      "num": 229252,
+      "num": 246737,
       "word": "第一批买哪吒金镯的人已赚麻了",
       "onboard_time": 1738921700,
       "rank": 13,
       "category": "电影"
     },
     {
-      "raw_hot": 243969,
-      "num": 243969,
-      "word": "小行星",
-      "onboard_time": 1738938564,
-      "rank": 1,
-      "category": "科学科普"
+      "raw_hot": 255332,
+      "num": 255332,
+      "word": "封神剧组谈殷郊法相",
+      "onboard_time": 1738945040,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 226638,
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 199365,
-      "num": 240283,
+      "num": 310146,
       "word": "程靖淇恋情官宣",
       "onboard_time": 1738931482,
       "rank": 4,
@@ -131,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178390,
+      "num": 304201,
+      "word": "黄旭华逝世",
+      "onboard_time": 1738897163,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 177545,
       "num": 177545,
       "word": "哪吒2",
@@ -139,12 +163,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 176038,
+      "num": 176038,
+      "word": "邓为仙台有树口碑",
+      "onboard_time": 1738945458,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161212,
-      "num": 238716,
+      "num": 299292,
       "word": "人民网评破门亮灯道歉不是终点",
       "onboard_time": 1738941623,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161177,
+      "num": 161177,
+      "word": "哪吒2票房超68亿",
+      "onboard_time": 1738944200,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 160925,
@@ -171,44 +211,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 153251,
-      "num": 153251,
-      "word": "哪吒2票房超68亿",
-      "onboard_time": 1738944200,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 152799,
-      "num": 218898,
-      "word": "封神剧组谈殷郊法相",
-      "onboard_time": 1738945040,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 152518,
-      "num": 235022,
-      "word": "老人吵架后去世邻居被判赔偿",
-      "onboard_time": 1738943900,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 142492,
-      "num": 233362,
-      "word": "黄旭华逝世",
-      "onboard_time": 1738897163,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 136138,
       "num": 136138,
       "word": "张馨予消失的头发回来了",
       "onboard_time": 1738923142,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130071,
+      "num": 126704,
+      "word": "哪吒到底是天津人还是四川人",
+      "onboard_time": 1738942821,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 127182,
@@ -235,6 +251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 122921,
+      "num": 214586,
+      "word": "人社局回应工作人员电话辱骂办事群众",
+      "onboard_time": 1738944860,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121968,
       "num": 121968,
       "word": "Angelababy王安宇新剧楼梯抱",
@@ -244,7 +268,7 @@
     },
     {
       "raw_hot": 119495,
-      "num": 127103,
+      "num": 184273,
       "word": "美国超2千万人感染流感死亡超1.1万",
       "onboard_time": 1738932923,
       "rank": 33,
@@ -267,28 +291,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 114570,
-      "num": 114570,
-      "word": "哪吒到底是天津人还是四川人",
-      "onboard_time": 1738942821,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 112483,
       "num": 205284,
       "word": "2025亚冬会开幕式",
       "onboard_time": 1738931063,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 109935,
-      "num": 109935,
-      "word": "邓为仙台有树口碑",
-      "onboard_time": 1738945458,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 108411,
@@ -305,6 +313,14 @@
       "onboard_time": 1738944080,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 101560,
+      "num": 186105,
+      "word": "哈尔滨亚冬会开幕",
+      "onboard_time": 1738933643,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 100359,
@@ -328,14 +344,6 @@
       "word": "林诗栋请全场祝蒯曼生日快乐",
       "onboard_time": 1738940243,
       "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 92434,
-      "num": 92434,
-      "word": "哈尔滨亚冬会开幕",
-      "onboard_time": 1738933643,
-      "rank": 46,
       "category": "体育"
     },
     {
@@ -363,12 +371,44 @@
       "category": "电影"
     },
     {
-      "raw_hot": 59493,
-      "num": 214586,
-      "word": "人社局回应工作人员电话辱骂办事群众",
-      "onboard_time": 1738944860,
-      "rank": 19,
+      "raw_hot": 86234,
+      "num": 86234,
+      "word": "莲花楼豆瓣评分人数突破80万",
+      "onboard_time": 1738945879,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 79730,
+      "num": 79730,
+      "word": "隋文静亚冬会开幕式导演",
+      "onboard_time": 1738943301,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 78285,
+      "num": 226810,
+      "word": "官方回应市监局年报数据被指造假",
+      "onboard_time": 1738944740,
+      "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68114,
+      "num": 223944,
+      "word": "美国医学教授称全国急诊室挤满了人",
+      "onboard_time": 1738945279,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 54147,
+      "num": 149176,
+      "word": "美国13州将提起诉讼阻止马斯克",
+      "onboard_time": 1738946057,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 48562,
@@ -379,28 +419,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 47040,
-      "num": 226810,
-      "word": "官方回应市监局年报数据被指造假",
-      "onboard_time": 1738944740,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 37260,
+      "num": 178392,
+      "word": "百位家乡名人祝亚冬会圆满成功",
+      "onboard_time": 1738946119,
+      "rank": 24,
+      "category": "体育"
     },
     {
-      "raw_hot": 40426,
-      "num": 223944,
-      "word": "美国医学教授称全国急诊室挤满了人",
-      "onboard_time": 1738945279,
-      "rank": 16,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 25167,
-      "num": 242773,
+      "raw_hot": 28627,
+      "num": 336680,
       "word": "亚冬会开幕式硬核超燃瞬间",
       "onboard_time": 1738938504,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24743,
+      "num": 126729,
+      "word": "大同一商铺被工作人员撬锁开灯",
+      "onboard_time": 1738938924,
+      "rank": 32,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
