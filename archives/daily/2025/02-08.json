@@ -1,6 +1,6 @@
 {
   "startTime": 1738945672577,
-  "endTime": 1738953800607,
+  "endTime": 1738955887221,
   "band_list": [
     {
       "raw_hot": 1715829,
@@ -323,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108392,
+      "num": 59627,
+      "word": "柯淳好帅",
+      "onboard_time": 1738951752,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102963,
       "num": 102963,
       "word": "黄旭华院士曾说此生无怨无悔",
@@ -403,14 +411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 85711,
-      "num": 59627,
-      "word": "柯淳好帅",
-      "onboard_time": 1738951752,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 79730,
       "num": 79730,
       "word": "隋文静亚冬会开幕式导演",
@@ -425,6 +425,14 @@
       "onboard_time": 1738944740,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75635,
+      "num": 75635,
+      "word": "博主卖Deepseek付费课4天赚20万",
+      "onboard_time": 1738954272,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 68114,
@@ -507,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26823,
+      "num": 63982,
+      "word": "江苏有11市GDP超5000亿元",
+      "onboard_time": 1738952532,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 24743,
       "num": 126729,
       "word": "大同一商铺被工作人员撬锁开灯",
@@ -523,12 +539,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23319,
+      "num": 32358,
+      "word": "华晨宇穿同一件衣服集齐12生肖",
+      "onboard_time": 1738955412,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 22919,
       "num": 58608,
       "word": "五星红旗在祖国山河四季中前行",
       "onboard_time": 1738949355,
       "rank": 39,
       "category": "体育,国内时政"
+    },
+    {
+      "raw_hot": 20529,
+      "num": 32358,
+      "word": "辰乐你问我答直播",
+      "onboard_time": 1738954692,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 14471,
@@ -547,12 +579,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 12687,
-      "num": 63982,
-      "word": "江苏有11市GDP超5000亿元",
-      "onboard_time": 1738952532,
-      "rank": 9,
-      "category": "财经"
+      "raw_hot": 14081,
+      "num": 44504,
+      "word": "鞠婧祎祝愿中国冰雪健儿取得佳绩",
+      "onboard_time": 1738954812,
+      "rank": 19,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 12624,
+      "num": 47688,
+      "word": "黄旭华这段话再听依然感动",
+      "onboard_time": 1738955472,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 9803,
