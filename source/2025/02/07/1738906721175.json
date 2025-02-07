@@ -1,0 +1,410 @@
+{
+  "runTime": 1738906721175,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3754776,
+        "num": 3754776,
+        "word": "黄旭华逝世",
+        "onboard_time": 1738897163,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1152567,
+        "num": 1152567,
+        "word": "哪吒2爆火保洁3倍工资还要求加钱",
+        "onboard_time": 1738896443,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75846,
+        "num": 1061815,
+        "word": "相约第九届亚冬会",
+        "onboard_time": 1738905204,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1020799,
+        "num": 1020799,
+        "word": "为什么大奉打更人爆尾",
+        "onboard_time": 1738902265,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 890110,
+        "num": 890110,
+        "word": "电影院按摩椅背后公司九个月赚1亿",
+        "onboard_time": 1738902566,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 835627,
+        "num": 835627,
+        "word": "封神2被从大影厅赶到小影厅",
+        "onboard_time": 1738901429,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 667128,
+        "num": 667128,
+        "word": "恋与深空",
+        "onboard_time": 1738890983,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 664917,
+        "num": 664917,
+        "word": "DeepSeek紧急说明",
+        "onboard_time": 1738903106,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 659300,
+        "num": 659300,
+        "word": "黄旭华生前深情告白祖国",
+        "onboard_time": 1738901726,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 50483,
+        "num": 654629,
+        "word": "春节遇上亚冬会尔滨美食上强度了",
+        "onboard_time": 1738905027,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1423984,
+        "num": 654260,
+        "word": "马頔深夜发博",
+        "onboard_time": 1738903707,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 653714,
+        "num": 653714,
+        "word": "伊能静带儿子和秦昊父母聚餐",
+        "onboard_time": 1738904064,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 629504,
+        "num": 629504,
+        "word": "哪吒2破63亿",
+        "onboard_time": 1738893742,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 573649,
+        "num": 573649,
+        "word": "黄旭华为核潜艇隐姓埋名30年",
+        "onboard_time": 1738900228,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 490734,
+        "num": 490734,
+        "word": "哪吒2票房大半要分给影院",
+        "onboard_time": 1738890623,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 354341,
+        "num": 473773,
+        "word": "TF 马柏全",
+        "onboard_time": 1738904486,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465905,
+        "num": 465905,
+        "word": "袁隆平黄旭华生前同框看哭了",
+        "onboard_time": 1738900105,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 61038,
+        "num": 452841,
+        "word": "美国蛋价飞涨一车鸡蛋失窃成热点",
+        "onboard_time": 1738905923,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 127296,
+        "num": 438285,
+        "word": "宋小宝说自己最喜欢的球员是詹姆斯",
+        "onboard_time": 1738905744,
+        "rank": 18,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 35355,
+        "num": 431161,
+        "word": "男子被冲向水闸紧急时刻钓友抛竿钩住",
+        "onboard_time": 1738906225,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134679,
+        "num": 416815,
+        "word": "于适的韩骁更是Alpha级别的",
+        "onboard_time": 1738905982,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 408402,
+        "num": 408402,
+        "word": "吴尊和老婆吵架从不过夜",
+        "onboard_time": 1738904844,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338224,
+        "num": 338224,
+        "word": "哪吒2距星球大战仅差4亿",
+        "onboard_time": 1738902806,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 328409,
+        "num": 328409,
+        "word": "哪吒2若卖95亿饺子至少能分1.35亿",
+        "onboard_time": 1738887381,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 68614,
+        "num": 302471,
+        "word": "2000米混接中国队进半决赛",
+        "onboard_time": 1738906102,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287066,
+        "num": 287066,
+        "word": "梁洁女主实绩",
+        "onboard_time": 1738903946,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96251,
+        "num": 276653,
+        "word": "春节网订酒店到店后被要求加价200",
+        "onboard_time": 1738904844,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270081,
+        "num": 270081,
+        "word": "比窦娥还冤的女主出现了",
+        "onboard_time": 1738901545,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227972,
+        "num": 266122,
+        "word": "罗海琼说焦艳玲活该成功",
+        "onboard_time": 1738906165,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55868,
+        "num": 263616,
+        "word": "大风天捂好4个部位会暖和很多",
+        "onboard_time": 1738905982,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262817,
+        "num": 262817,
+        "word": "敖丙皮套",
+        "onboard_time": 1738904486,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 249461,
+        "num": 249461,
+        "word": "饺子成第六大票房导演",
+        "onboard_time": 1738905325,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 240220,
+        "num": 240220,
+        "word": "韩某某投敌叛变48小时内被抓",
+        "onboard_time": 1738887321,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32568,
+        "num": 233337,
+        "word": "陈幸同vs早田希娜",
+        "onboard_time": 1738906643,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 583755,
+        "num": 233297,
+        "word": "范思哲 蔡徐坤",
+        "onboard_time": 1738887500,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232966,
+        "num": 232966,
+        "word": "掌心质感",
+        "onboard_time": 1738905027,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221847,
+        "num": 221847,
+        "word": "百亿影帝全身照",
+        "onboard_time": 1738899806,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 222240,
+        "num": 221471,
+        "word": "掌心",
+        "onboard_time": 1738901906,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218234,
+        "num": 218234,
+        "word": "我的一生属于核潜艇属于祖国",
+        "onboard_time": 1738899448,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 212411,
+        "num": 212411,
+        "word": "王楚钦林诗栋晋级决赛",
+        "onboard_time": 1738904545,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203951,
+        "num": 203951,
+        "word": "鹿晗工作碎片多图预警",
+        "onboard_time": 1738905864,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198786,
+        "num": 198786,
+        "word": "NewJeans新组合名NJZ",
+        "onboard_time": 1738890623,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196834,
+        "num": 196834,
+        "word": "掌心开播",
+        "onboard_time": 1738901668,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193453,
+        "num": 193453,
+        "word": "丁禹兮杨超越或将二搭",
+        "onboard_time": 1738902146,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118350,
+        "num": 188552,
+        "word": "孙颖莎王艺迪女双晋级决赛",
+        "onboard_time": 1738906704,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188100,
+        "num": 188100,
+        "word": "黄旭华院士生平",
+        "onboard_time": 1738898966,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 187587,
+        "num": 187587,
+        "word": "哪吒",
+        "onboard_time": 1738840224,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186757,
+        "num": 186757,
+        "word": "西政毕业生起诉重庆轨道集团败诉",
+        "onboard_time": 1738906404,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186695,
+        "num": 186695,
+        "word": "iPhoneSE4本月或上市",
+        "onboard_time": 1738901126,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 183652,
+        "num": 183652,
+        "word": "湖勇大战",
+        "onboard_time": 1738906704,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#一个关键词看大国外交步履不停#"
+    }
+  }
+}
