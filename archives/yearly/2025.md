@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/02/07 18:23:55
+本榜单时间：2025/01/01 00:26:38 ~ 2025/02/07 18:41:21
 </p>
 </blockquote>
 <p>
@@ -1149,6 +1149,12 @@ TikTok停止在美服务（热度：2463156）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E4%B9%B0%E5%93%AA%E5%90%92%E9%87%91%E9%95%AF%E7%9A%84%E4%BA%BA%E5%B7%B2%E8%B5%9A%E9%BA%BB%E4%BA%86%23" target="weibo">
+第一批买哪吒金镯的人已赚麻了（热度：2432572）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%94%B1%E4%BA%86%E8%B5%B5%E8%8B%B1%E4%BF%8A%E7%9A%84%E6%AD%8C%23" target="weibo">
 薛之谦唱了赵英俊的歌（热度：2432486）
 </a>
@@ -1295,12 +1301,6 @@ TikTok停止在美服务（热度：2463156）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%97%AB%E5%A6%AE%E6%AE%B7%E6%A1%83%E5%AE%8B%E4%BD%B3%E8%92%8B%E6%AC%A3%20%E6%88%91%E7%9A%84%E5%A6%88%E5%A6%88%E4%BB%AC%23" target="weibo">
 闫妮殷桃宋佳蒋欣 我的妈妈们（热度：2282142）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E4%B9%B0%E5%93%AA%E5%90%92%E9%87%91%E9%95%AF%E7%9A%84%E4%BA%BA%E5%B7%B2%E8%B5%9A%E9%BA%BB%E4%BA%86%23" target="weibo">
-第一批买哪吒金镯的人已赚麻了（热度：2279782）
 </a>
 </li>
 

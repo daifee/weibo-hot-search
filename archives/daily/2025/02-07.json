@@ -1,6 +1,6 @@
 {
   "startTime": 1738859204643,
-  "endTime": 1738923835418,
+  "endTime": 1738924881625,
   "band_list": [
     {
       "raw_hot": 10208509,
@@ -27,8 +27,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2279782,
-      "num": 2279782,
+      "raw_hot": 2432572,
+      "num": 2432572,
       "word": "第一批买哪吒金镯的人已赚麻了",
       "onboard_time": 1738921700,
       "rank": 0,
@@ -219,6 +219,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 858522,
+      "num": 255632,
+      "word": "丁克婚姻20年丈夫竟和别人生子",
+      "onboard_time": 1738922841,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 841165,
       "num": 584599,
       "word": "哪吒2票房",
@@ -241,6 +249,14 @@
       "onboard_time": 1738894043,
       "rank": 4,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 815143,
+      "num": 367224,
+      "word": "张馨予消失的头发回来了",
+      "onboard_time": 1738923142,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 797904,
@@ -273,14 +289,6 @@
       "onboard_time": 1738917324,
       "rank": 31,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 693133,
-      "num": 228714,
-      "word": "丁克婚姻20年丈夫竟和别人生子",
-      "onboard_time": 1738922841,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 664917,
@@ -563,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 435660,
+      "num": 315520,
+      "word": "哪吒2破66亿元",
+      "onboard_time": 1738923142,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 429422,
       "num": 429422,
       "word": "百亿影帝全身照",
@@ -755,6 +771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 313830,
+      "num": 313830,
+      "word": "饺子导演将登顶中国导演总票房第一",
+      "onboard_time": 1738924220,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 313389,
       "num": 313389,
       "word": "掌心",
@@ -769,6 +793,14 @@
       "onboard_time": 1738901668,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 308638,
+      "num": 308638,
+      "word": "冰雪同梦亚洲同心",
+      "onboard_time": 1738923682,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 308391,
@@ -795,6 +827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 304053,
+      "num": 304053,
+      "word": "哪吒2",
+      "onboard_time": 1738914561,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 302678,
       "num": 302678,
       "word": "西政毕业生起诉重庆轨道集团败诉",
@@ -809,14 +849,6 @@
       "onboard_time": 1738898905,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 301810,
-      "num": 251581,
-      "word": "哪吒2",
-      "onboard_time": 1738914561,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 301266,
@@ -841,14 +873,6 @@
       "onboard_time": 1738907662,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 290290,
-      "num": 220058,
-      "word": "哪吒2破66亿元",
-      "onboard_time": 1738923142,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 287089,
@@ -1003,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 250773,
+      "num": 250773,
+      "word": "王者荣耀1月收入达近42个月最高值",
+      "onboard_time": 1738923682,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 250146,
       "num": 250146,
       "word": "破门亮灯事件只有道歉还不够",
@@ -1097,14 +1129,6 @@
       "onboard_time": 1738901126,
       "rank": 44,
       "category": "数码"
-    },
-    {
-      "raw_hot": 233059,
-      "num": 233059,
-      "word": "冰雪同梦亚洲同心",
-      "onboard_time": 1738923682,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 232966,
@@ -1275,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211046,
+      "num": 211046,
+      "word": "刘诗诗掌心口碑",
+      "onboard_time": 1738924220,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210491,
       "num": 210491,
       "word": "张艺兴把手机号写在贺卡上",
@@ -1379,6 +1411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200245,
+      "num": 200245,
+      "word": "敖丙",
+      "onboard_time": 1738924402,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 200121,
       "num": 200121,
       "word": "哪吒冲100亿",
@@ -1409,6 +1449,14 @@
       "onboard_time": 1738840404,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198979,
+      "num": 198979,
+      "word": "权志龙会员",
+      "onboard_time": 1738924162,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 197014,
@@ -1481,6 +1529,14 @@
       "onboard_time": 1738917922,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185349,
+      "num": 185349,
+      "word": "王宝强回应唐探炫腹",
+      "onboard_time": 1738923802,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 185072,
@@ -1691,14 +1747,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 151836,
-      "num": 149939,
-      "word": "王者荣耀1月收入达近42个月最高值",
-      "onboard_time": 1738923682,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 151667,
       "num": 151667,
       "word": "黄旭华生前说要当一辈子无名英雄",
@@ -1721,6 +1769,14 @@
       "onboard_time": 1738890144,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149277,
+      "num": 215335,
+      "word": "美国国际开发署被爆几乎全员被裁",
+      "onboard_time": 1738920863,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 148043,
@@ -1787,6 +1843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142947,
+      "num": 142947,
+      "word": "对不起了极欲妖王和东方大强",
+      "onboard_time": 1738924402,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140188,
       "num": 140188,
       "word": "糖尿病患者将告别扎手指测血糖方式",
@@ -1809,14 +1873,6 @@
       "onboard_time": 1738843945,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 138365,
-      "num": 215335,
-      "word": "美国国际开发署被爆几乎全员被裁",
-      "onboard_time": 1738920863,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 137746,
@@ -1939,22 +1995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122087,
-      "num": 233003,
-      "word": "张馨予消失的头发回来了",
-      "onboard_time": 1738923142,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 121737,
-      "num": 121737,
-      "word": "王宝强回应唐探炫腹",
-      "onboard_time": 1738923802,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
       "raw_hot": 120624,
       "num": 120624,
       "word": "林孝埈1500米晋级半决赛",
@@ -2065,6 +2105,14 @@
       "onboard_time": 1738849887,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 101960,
+      "num": 260108,
+      "word": "亚冬会开幕式发了杂粮煎饼",
+      "onboard_time": 1738923682,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 101948,
@@ -2235,6 +2283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 78106,
+      "num": 525344,
+      "word": "亚冬会开幕式精彩看点",
+      "onboard_time": 1738919424,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78097,
       "num": 81423,
       "word": "威海的海边美成了油画",
@@ -2265,14 +2321,6 @@
       "onboard_time": 1738842204,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 75244,
-      "num": 215446,
-      "word": "亚冬会开幕式发了杂粮煎饼",
-      "onboard_time": 1738923682,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 73310,
@@ -2355,6 +2403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56530,
+      "num": 263097,
+      "word": "卢昱晓直播",
+      "onboard_time": 1738924162,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 55868,
       "num": 263616,
       "word": "大风天捂好4个部位会暖和很多",
@@ -2411,6 +2467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49976,
+      "num": 258488,
+      "word": "健身是中年人最好的救赎吗",
+      "onboard_time": 1738924581,
+      "rank": 20,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 49912,
       "num": 218558,
       "word": "林孝埈亮相亚冬会",
@@ -2433,14 +2497,6 @@
       "onboard_time": 1738919001,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 48752,
-      "num": 525344,
-      "word": "亚冬会开幕式精彩看点",
-      "onboard_time": 1738919424,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 48734,
@@ -2691,6 +2747,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 19766,
+      "num": 601623,
+      "word": "中国红冰雪白一起扮靓尔滨",
+      "onboard_time": 1738882093,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 18505,
       "num": 60004,
       "word": "中国和文莱共建命运共同体",
@@ -2737,14 +2801,6 @@
       "onboard_time": 1738861756,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15234,
-      "num": 601623,
-      "word": "中国红冰雪白一起扮靓尔滨",
-      "onboard_time": 1738882093,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 15038,
@@ -2818,6 +2874,9 @@
     },
     {
       "word": "#习近平和彭丽媛为国际贵宾举行欢迎宴会#"
+    },
+    {
+      "word": "#习近平在亚冬会开幕式欢迎宴会上的致辞#"
     }
   ]
 }
