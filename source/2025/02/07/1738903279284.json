@@ -1,0 +1,410 @@
+{
+  "runTime": 1738903279284,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7977794,
+        "num": 7977794,
+        "word": "黄旭华逝世",
+        "onboard_time": 1738897163,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1973819,
+        "num": 1973819,
+        "word": "哪吒2爆火保洁3倍工资还要求加钱",
+        "onboard_time": 1738896443,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12863,
+        "num": 1284829,
+        "word": "三个关键词概括第九届亚冬会",
+        "onboard_time": 1738846282,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1074098,
+        "num": 1074098,
+        "word": "恋与深空",
+        "onboard_time": 1738890983,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 922389,
+        "num": 922389,
+        "word": "范思哲 蔡徐坤",
+        "onboard_time": 1738887500,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 843102,
+        "num": 843102,
+        "word": "袁隆平黄旭华生前同框看哭了",
+        "onboard_time": 1738900105,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 744232,
+        "num": 744232,
+        "word": "封神2被从大影厅赶到小影厅",
+        "onboard_time": 1738901429,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 734158,
+        "num": 734158,
+        "word": "哪吒2票房大半要分给影院",
+        "onboard_time": 1738890623,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 58519,
+        "num": 691730,
+        "word": "哈尔滨亚冬会先导片",
+        "onboard_time": 1738902507,
+        "rank": 8,
+        "category": "体育,电影"
+      },
+      {
+        "raw_hot": 218198,
+        "num": 681551,
+        "word": "刘少昂1500米破赛会纪录",
+        "onboard_time": 1738899506,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 680459,
+        "num": 680459,
+        "word": "哪吒2破63亿",
+        "onboard_time": 1738893742,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 652989,
+        "num": 652989,
+        "word": "黄旭华为核潜艇隐姓埋名30年",
+        "onboard_time": 1738900228,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 650414,
+        "num": 650414,
+        "word": "哪吒2若卖95亿饺子至少能分1.35亿",
+        "onboard_time": 1738887381,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 50635,
+        "num": 627710,
+        "word": "沪指重返3300点",
+        "onboard_time": 1738902146,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127827,
+        "num": 622723,
+        "word": "电影院按摩椅背后公司九个月赚1亿",
+        "onboard_time": 1738902566,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 622271,
+        "num": 622271,
+        "word": "我的一生属于核潜艇属于祖国",
+        "onboard_time": 1738899448,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 572720,
+        "num": 572720,
+        "word": "韩某某投敌叛变48小时内被抓",
+        "onboard_time": 1738887321,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 563920,
+        "num": 563920,
+        "word": "黄旭华生前深情告白祖国",
+        "onboard_time": 1738901726,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 503003,
+        "num": 503003,
+        "word": "丁禹兮杨超越或将二搭",
+        "onboard_time": 1738902146,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29051,
+        "num": 500394,
+        "word": "哪吒2背后是130多家中国动画公司",
+        "onboard_time": 1738902687,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 500226,
+        "num": 500226,
+        "word": "黄旭华院士生平",
+        "onboard_time": 1738898966,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 489521,
+        "num": 489521,
+        "word": "比窦娥还冤的女主出现了",
+        "onboard_time": 1738901545,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320705,
+        "num": 436916,
+        "word": "仙台有树男版花千骨",
+        "onboard_time": 1738901726,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12477,
+        "num": 426695,
+        "word": "归来是微短剧剧名出现频次最高的词",
+        "onboard_time": 1738903047,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79593,
+        "num": 420742,
+        "word": "女子1500米中国队全晋级",
+        "onboard_time": 1738902806,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 417832,
+        "num": 417832,
+        "word": "百亿影帝全身照",
+        "onboard_time": 1738899806,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 375794,
+        "num": 375794,
+        "word": "为什么大奉打更人爆尾",
+        "onboard_time": 1738902265,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340542,
+        "num": 340542,
+        "word": "DeepSeek紧急说明",
+        "onboard_time": 1738903106,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 227056,
+        "num": 329399,
+        "word": "胡歌为刘诗诗主演新剧打call",
+        "onboard_time": 1738902445,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30778,
+        "num": 327491,
+        "word": "部分新兴网红游乐设备监管尚不完善",
+        "onboard_time": 1738902507,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 325972,
+        "num": 325972,
+        "word": "NewJeans新组合名NJZ",
+        "onboard_time": 1738890623,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313389,
+        "num": 313389,
+        "word": "掌心",
+        "onboard_time": 1738901906,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302565,
+        "num": 312765,
+        "word": "全场为林孝埈欢呼",
+        "onboard_time": 1738898905,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34746,
+        "num": 311698,
+        "word": "吉利新车型可醇可电可油",
+        "onboard_time": 1738899567,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 176683,
+        "num": 311533,
+        "word": "黄渤饰演姜子牙最难的是年龄差",
+        "onboard_time": 1738903228,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99275,
+        "num": 310002,
+        "word": "王一博祝中国健儿再创佳绩",
+        "onboard_time": 1738901785,
+        "rank": 35,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 310000,
+        "num": 310000,
+        "word": "掌心开播",
+        "onboard_time": 1738901668,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308391,
+        "num": 308391,
+        "word": "小蛇糕",
+        "onboard_time": 1738901785,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 295181,
+        "num": 295181,
+        "word": "玄彬炫耀了一晚上老婆孩子",
+        "onboard_time": 1738897584,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287423,
+        "num": 287423,
+        "word": "男子花18万闪婚仅半天新娘不见了",
+        "onboard_time": 1738894281,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274789,
+        "num": 274789,
+        "word": "骑手因包装破损被华为店索赔一万五",
+        "onboard_time": 1738858462,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272195,
+        "num": 272195,
+        "word": "缅怀中国核潜艇之父黄旭华",
+        "onboard_time": 1738901965,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 269626,
+        "num": 269626,
+        "word": "间谍投敌不到48小时就被抓",
+        "onboard_time": 1738890685,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 261054,
+        "num": 261054,
+        "word": "哪吒2距星球大战仅差4亿",
+        "onboard_time": 1738902806,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 238959,
+        "num": 238959,
+        "word": "王者新英雄空空儿即将上线体验服",
+        "onboard_time": 1738899506,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 238824,
+        "num": 238824,
+        "word": "CIA对华情报人员被邮件曝光名字",
+        "onboard_time": 1738899926,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 233563,
+        "num": 233563,
+        "word": "iPhoneSE4本月或上市",
+        "onboard_time": 1738901126,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 218488,
+        "num": 218488,
+        "word": "乌尔善 封神口碑",
+        "onboard_time": 1738887021,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 217957,
+        "num": 217957,
+        "word": "快乐再出发",
+        "onboard_time": 1738903166,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215305,
+        "num": 215305,
+        "word": "哪吒",
+        "onboard_time": 1738840224,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#中泰一家亲历久弥新#"
+    }
+  }
+}

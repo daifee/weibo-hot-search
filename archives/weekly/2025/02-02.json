@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738902405970,
+  "endTime": 1738903279284,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1412,7 +1412,7 @@
     },
     {
       "raw_hot": 797904,
-      "num": 654477,
+      "num": 734158,
       "word": "哪吒2票房大半要分给影院",
       "onboard_time": 1738890623,
       "rank": 11,
@@ -1560,6 +1560,14 @@
       "word": "哪吒只做1",
       "onboard_time": 1738823365,
       "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 744232,
+      "num": 744232,
+      "word": "封神2被从大影厅赶到小影厅",
+      "onboard_time": 1738901429,
+      "rank": 23,
       "category": "电影"
     },
     {
@@ -2291,6 +2299,14 @@
       "category": "电影,艺人"
     },
     {
+      "raw_hot": 563920,
+      "num": 674020,
+      "word": "黄旭华生前深情告白祖国",
+      "onboard_time": 1738901726,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 562175,
       "num": 381136,
       "word": "赵露思又一条ins破百万赞了",
@@ -2667,6 +2683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 503003,
+      "num": 503003,
+      "word": "丁禹兮杨超越或将二搭",
+      "onboard_time": 1738902146,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 502560,
       "num": 502560,
       "word": "妈妈回应1岁失明宝宝学走盲道",
@@ -2777,6 +2801,14 @@
       "onboard_time": 1738471577,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 489521,
+      "num": 489521,
+      "word": "比窦娥还冤的女主出现了",
+      "onboard_time": 1738901545,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 489464,
@@ -3411,14 +3443,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 407438,
-      "num": 407438,
-      "word": "丁禹兮杨超越或将二搭",
-      "onboard_time": 1738902146,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 405748,
       "num": 375028,
       "word": "格莱美红毯",
@@ -3673,6 +3697,14 @@
       "onboard_time": 1738458857,
       "rank": 29,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 375794,
+      "num": 375794,
+      "word": "为什么大奉打更人爆尾",
+      "onboard_time": 1738902265,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 375312,
@@ -3947,14 +3979,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 347944,
-      "num": 347944,
-      "word": "封神2被从大影厅赶到小影厅",
-      "onboard_time": 1738901429,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 347169,
       "num": 284057,
       "word": "原来王安宇动作指导是太乙真人",
@@ -4049,6 +4073,14 @@
       "onboard_time": 1738831645,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 340542,
+      "num": 340542,
+      "word": "DeepSeek紧急说明",
+      "onboard_time": 1738903106,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 339679,
@@ -4307,20 +4339,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 320705,
+      "num": 473323,
+      "word": "仙台有树男版花千骨",
+      "onboard_time": 1738901726,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 318463,
       "num": 318463,
       "word": "SM给演唱会空席P图",
       "onboard_time": 1738835423,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 317754,
-      "num": 317754,
-      "word": "比窦娥还冤的女主出现了",
-      "onboard_time": 1738901545,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 317289,
@@ -4363,6 +4395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 313389,
+      "num": 313389,
+      "word": "掌心",
+      "onboard_time": 1738486157,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 313363,
       "num": 204685,
       "word": "哪吒2导演说石矶娘娘心思单纯可爱",
@@ -4401,6 +4441,14 @@
       "onboard_time": 1738591108,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 310000,
+      "num": 310000,
+      "word": "掌心开播",
+      "onboard_time": 1738901668,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 309178,
@@ -4497,6 +4545,14 @@
       "onboard_time": 1738635083,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 302565,
+      "num": 668308,
+      "word": "全场为林孝埈欢呼",
+      "onboard_time": 1738898905,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 301266,
@@ -4723,14 +4779,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 285756,
-      "num": 668308,
-      "word": "全场为林孝埈欢呼",
-      "onboard_time": 1738898905,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 285418,
       "num": 285418,
       "word": "射雕票房破6亿",
@@ -4843,14 +4891,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 275538,
-      "num": 275538,
-      "word": "掌心",
-      "onboard_time": 1738486157,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 275091,
       "num": 275091,
       "word": "掌心第一案喜提尸兄",
@@ -4899,11 +4939,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 271919,
-      "num": 674020,
-      "word": "黄旭华生前深情告白祖国",
-      "onboard_time": 1738901726,
-      "rank": 8,
+      "raw_hot": 272195,
+      "num": 272195,
+      "word": "缅怀中国核潜艇之父黄旭华",
+      "onboard_time": 1738901965,
+      "rank": 36,
       "category": "国内时政"
     },
     {
@@ -5003,14 +5043,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 265673,
-      "num": 265673,
-      "word": "掌心开播",
-      "onboard_time": 1738901668,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 264520,
       "num": 422504,
       "word": "日本松下官宣放弃电视机业务",
@@ -5073,6 +5105,14 @@
       "onboard_time": 1738573767,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 261054,
+      "num": 261054,
+      "word": "哪吒2距星球大战仅差4亿",
+      "onboard_time": 1738902806,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 260786,
@@ -5347,14 +5387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 248167,
-      "num": 473323,
-      "word": "仙台有树男版花千骨",
-      "onboard_time": 1738901726,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 248162,
       "num": 248162,
       "word": "北京监测到12级阵风",
@@ -5449,14 +5481,6 @@
       "onboard_time": 1738728623,
       "rank": 33,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 245286,
-      "num": 245286,
-      "word": "缅怀中国核潜艇之父黄旭华",
-      "onboard_time": 1738901965,
-      "rank": 36,
-      "category": "国内时政"
     },
     {
       "raw_hot": 245242,
@@ -5627,6 +5651,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238959,
+      "num": 346656,
+      "word": "王者新英雄空空儿即将上线体验服",
+      "onboard_time": 1738899506,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 238824,
+      "num": 238824,
+      "word": "CIA对华情报人员被邮件曝光名字",
+      "onboard_time": 1738899926,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 238437,
       "num": 210655,
       "word": "蒯曼11比1",
@@ -5715,6 +5755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 233563,
+      "num": 233563,
+      "word": "iPhoneSE4本月或上市",
+      "onboard_time": 1738901126,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 233233,
       "num": 498027,
       "word": "射雕打分人数",
@@ -5769,14 +5817,6 @@
       "onboard_time": 1738491318,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 229310,
-      "num": 229310,
-      "word": "CIA对华情报人员被邮件曝光名字",
-      "onboard_time": 1738899926,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 229061,
@@ -5873,6 +5913,14 @@
       "onboard_time": 1738438871,
       "rank": 17,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 227056,
+      "num": 329399,
+      "word": "胡歌为刘诗诗主演新剧打call",
+      "onboard_time": 1738902445,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 226858,
@@ -6027,14 +6075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 223152,
-      "num": 223152,
-      "word": "iPhoneSE4本月或上市",
-      "onboard_time": 1738901126,
-      "rank": 44,
-      "category": "数码"
-    },
-    {
       "raw_hot": 223023,
       "num": 211658,
       "word": "河南一影院一天88场哪吒2",
@@ -6163,14 +6203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 218672,
-      "num": 346656,
-      "word": "王者新英雄空空儿即将上线体验服",
-      "onboard_time": 1738899506,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 218629,
       "num": 218629,
       "word": "爸妈装的行李一提一个不吱声",
@@ -6185,6 +6217,22 @@
       "onboard_time": 1738469718,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 218198,
+      "num": 681551,
+      "word": "刘少昂1500米破赛会纪录",
+      "onboard_time": 1738899506,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 217957,
+      "num": 217957,
+      "word": "快乐再出发",
+      "onboard_time": 1738903166,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 217390,
@@ -6321,14 +6369,6 @@
       "onboard_time": 1738757604,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 213812,
-      "num": 213812,
-      "word": "为什么大奉打更人爆尾",
-      "onboard_time": 1738902265,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 213642,
@@ -7939,14 +7979,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 179669,
-      "num": 434637,
-      "word": "刘少昂1500米破赛会纪录",
-      "onboard_time": 1738899506,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 179253,
       "num": 213887,
       "word": "王曼昱的电话亭新年祝福",
@@ -8072,6 +8104,14 @@
       "word": "央视新闻报道了射雕",
       "onboard_time": 1738646243,
       "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 176683,
+      "num": 311533,
+      "word": "黄渤饰演姜子牙最难的是年龄差",
+      "onboard_time": 1738903228,
+      "rank": 34,
       "category": "电影"
     },
     {
@@ -10755,6 +10795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127827,
+      "num": 622723,
+      "word": "电影院按摩椅背后公司九个月赚1亿",
+      "onboard_time": 1738902566,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127591,
       "num": 1708397,
       "word": "中国古人测定一年时间误差仅26秒",
@@ -11228,7 +11276,7 @@
     },
     {
       "raw_hot": 119898,
-      "num": 245360,
+      "num": 311698,
       "word": "吉利新车型可醇可电可油",
       "onboard_time": 1738899567,
       "rank": 43,
@@ -12443,6 +12491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99275,
+      "num": 446613,
+      "word": "王一博祝中国健儿再创佳绩",
+      "onboard_time": 1738901785,
+      "rank": 17,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 99256,
       "num": 1669006,
       "word": "2025春运",
@@ -13115,6 +13171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79593,
+      "num": 420742,
+      "word": "女子1500米中国队全晋级",
+      "onboard_time": 1738902806,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79420,
       "num": 79420,
       "word": "一路繁花给蔡明整出花钱PTSD了",
@@ -13699,6 +13763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58519,
+      "num": 691730,
+      "word": "哈尔滨亚冬会先导片",
+      "onboard_time": 1738902507,
+      "rank": 8,
+      "category": "体育,电影"
+    },
+    {
       "raw_hot": 57685,
       "num": 403387,
       "word": "金饰挂牌价逼近850元",
@@ -13977,6 +14049,14 @@
       "onboard_time": 1738794611,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 50635,
+      "num": 627710,
+      "word": "沪指重返3300点",
+      "onboard_time": 1738902146,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 50607,
@@ -14611,14 +14691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31839,
-      "num": 446613,
-      "word": "王一博祝中国健儿再创佳绩",
-      "onboard_time": 1738901785,
-      "rank": 17,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 31816,
       "num": 54643,
       "word": "儿媳过年为婆婆化妆最开心的是公公",
@@ -14651,6 +14723,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 30778,
+      "num": 327491,
+      "word": "部分新兴网红游乐设备监管尚不完善",
+      "onboard_time": 1738902507,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 30469,
       "num": 139764,
       "word": "朱易亚冬会目标",
@@ -14673,6 +14753,14 @@
       "onboard_time": 1738445111,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29051,
+      "num": 500394,
+      "word": "哪吒2背后是130多家中国动画公司",
+      "onboard_time": 1738902687,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 28882,
@@ -14745,14 +14833,6 @@
       "onboard_time": 1738725621,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 27509,
-      "num": 450111,
-      "word": "沪指重返3300点",
-      "onboard_time": 1738902146,
-      "rank": 16,
-      "category": "财经"
     },
     {
       "raw_hot": 27494,
@@ -15401,6 +15481,14 @@
       "onboard_time": 1738695731,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 12477,
+      "num": 426695,
+      "word": "归来是微短剧剧名出现频次最高的词",
+      "onboard_time": 1738903047,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 12433,
