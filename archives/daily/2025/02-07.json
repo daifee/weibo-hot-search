@@ -1,6 +1,6 @@
 {
   "startTime": 1738859204643,
-  "endTime": 1738941804076,
+  "endTime": 1738942642732,
   "band_list": [
     {
       "raw_hot": 10208509,
@@ -185,6 +185,14 @@
       "onboard_time": 1738929562,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1021213,
+      "num": 1021213,
+      "word": "有人卖DeepSeek安装包赚几百万",
+      "onboard_time": 1738940663,
+      "rank": 5,
+      "category": "互联网"
     },
     {
       "raw_hot": 1020799,
@@ -539,6 +547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 573268,
+      "num": 416759,
+      "word": "陈哲远梁洁床上吻戏",
+      "onboard_time": 1738940304,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 569694,
       "num": 569694,
       "word": "间谍投敌不到48小时就被抓",
@@ -684,7 +700,7 @@
     },
     {
       "raw_hot": 477006,
-      "num": 384496,
+      "num": 415528,
       "word": "为无量仙翁配音大爷到片场才知配反派",
       "onboard_time": 1738937424,
       "rank": 19,
@@ -747,6 +763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 446396,
+      "num": 416061,
+      "word": "哪吒2票房2个小时涨1亿",
+      "onboard_time": 1738938443,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 446269,
       "num": 446269,
       "word": "黄旭华生前只戴母亲的围巾",
@@ -761,14 +785,6 @@
       "onboard_time": 1738913181,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 444174,
-      "num": 371235,
-      "word": "陈哲远梁洁床上吻戏",
-      "onboard_time": 1738940304,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 441795,
@@ -796,19 +812,11 @@
     },
     {
       "raw_hot": 427122,
-      "num": 368563,
+      "num": 415509,
       "word": "丁禹兮的玩偶是虞书欣同款",
       "onboard_time": 1738939103,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 413917,
-      "num": 360632,
-      "word": "哪吒2票房2个小时涨1亿",
-      "onboard_time": 1738938443,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 409570,
@@ -852,19 +860,11 @@
     },
     {
       "raw_hot": 394756,
-      "num": 356888,
+      "num": 384129,
       "word": "刘诗诗演技",
       "onboard_time": 1738937783,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 391226,
-      "num": 391226,
-      "word": "有人卖DeepSeek安装包赚几百万",
-      "onboard_time": 1738940663,
-      "rank": 5,
-      "category": "互联网"
     },
     {
       "raw_hot": 391046,
@@ -1161,6 +1161,14 @@
       "onboard_time": 1738937064,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 297851,
+      "num": 235567,
+      "word": "光渊",
+      "onboard_time": 1738941503,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 297153,
@@ -2123,6 +2131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 183343,
+      "num": 183343,
+      "word": "短剧 上瘾",
+      "onboard_time": 1738942462,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182824,
       "num": 199244,
       "word": "停车费8830元把女子吓住了",
@@ -2665,14 +2681,6 @@
       "onboard_time": 1738848205,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 134284,
-      "num": 134284,
-      "word": "光渊",
-      "onboard_time": 1738941503,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 134250,
@@ -3331,6 +3339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 56464,
+      "num": 231961,
+      "word": "哈尔滨是一个巨大的惊喜制造机",
+      "onboard_time": 1738942462,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 55868,
       "num": 263616,
       "word": "大风天捂好4个部位会暖和很多",
@@ -3353,6 +3369,14 @@
       "onboard_time": 1738884256,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 53426,
+      "num": 140485,
+      "word": "林诗栋请全场观众祝蒯曼生日快乐",
+      "onboard_time": 1738940663,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 53424,
@@ -3611,6 +3635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34886,
+      "num": 417476,
+      "word": "为哪吒2无量仙翁配音大爷85岁学会开飞机",
+      "onboard_time": 1738941922,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 32568,
       "num": 233337,
       "word": "陈幸同vs早田希娜",
@@ -3763,12 +3795,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 23650,
+      "num": 404016,
+      "word": "武大靖说很荣幸在家乡参与亚冬会",
+      "onboard_time": 1738942283,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 21420,
       "num": 367215,
       "word": "宁忠岩用中国速度展现中国力量",
       "onboard_time": 1738941143,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21379,
+      "num": 206731,
+      "word": "我们都想成为哪吒怎么活成了申公豹",
+      "onboard_time": 1738942162,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 21128,
@@ -3832,6 +3880,14 @@
       "word": "陈丽君再次亮相法国巴黎",
       "onboard_time": 1738871352,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 17418,
+      "num": 196339,
+      "word": "刘晓红希望能与刘晓庆放下隔阂",
+      "onboard_time": 1738942462,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -3913,6 +3969,14 @@
       "onboard_time": 1738914862,
       "rank": 18,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 10969,
+      "num": 1102884,
+      "word": "亚冬会开幕式硬核超燃瞬间",
+      "onboard_time": 1738938504,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 7657,
