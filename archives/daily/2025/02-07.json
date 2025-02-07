@@ -1,7 +1,15 @@
 {
   "startTime": 1738859204643,
-  "endTime": 1738892538518,
+  "endTime": 1738893522240,
   "band_list": [
+    {
+      "raw_hot": 2118786,
+      "num": 2118786,
+      "word": "韩某某投敌叛变48小时内被抓",
+      "onboard_time": 1738887321,
+      "rank": 1,
+      "category": "国内时政"
+    },
     {
       "raw_hot": 2040556,
       "num": 2040556,
@@ -9,14 +17,6 @@
       "onboard_time": 1738887381,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 2004865,
-      "num": 2004865,
-      "word": "韩某某投敌叛变48小时内被抓",
-      "onboard_time": 1738887321,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1030517,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 951327,
-      "num": 380483,
+      "num": 467545,
       "word": "骑手因包装破损被华为店索赔一万五",
       "onboard_time": 1738858462,
       "rank": 11,
@@ -49,6 +49,14 @@
       "onboard_time": 1738858223,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 797904,
+      "num": 484389,
+      "word": "哪吒2票房大半要分给影院",
+      "onboard_time": 1738890623,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 659131,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 627469,
-      "num": 456453,
+      "num": 479309,
       "word": "NewJeans新组合名NJZ",
       "onboard_time": 1738890623,
       "rank": 6,
@@ -91,12 +99,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 579420,
-      "num": 344589,
-      "word": "哪吒2票房大半要分给影院",
-      "onboard_time": 1738890623,
-      "rank": 11,
-      "category": "电影"
+      "raw_hot": 530818,
+      "num": 530818,
+      "word": "初十",
+      "onboard_time": 1738890685,
+      "rank": 12,
+      "category": "正能量"
     },
     {
       "raw_hot": 521025,
@@ -107,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 505214,
+      "num": 462122,
+      "word": "乌尔善 封神口碑",
+      "onboard_time": 1738887021,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 500589,
       "num": 455140,
       "word": "射雕英雄传影史武侠片票房冠军",
@@ -115,20 +131,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 458569,
-      "num": 458569,
-      "word": "中央气象台发布寒潮大风预警",
-      "onboard_time": 1738890383,
-      "rank": 5,
+      "raw_hot": 491865,
+      "num": 491865,
+      "word": "官方通報张家界一遊客点2个菜844元",
+      "onboard_time": 1738888343,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 453065,
-      "num": 453065,
+      "raw_hot": 474207,
+      "num": 474207,
       "word": "国安破获一起主动投靠境外间谍案",
       "onboard_time": 1738890623,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 466882,
+      "num": 466882,
+      "word": "中央气象台发布寒潮大风预警",
+      "onboard_time": 1738890383,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 441795,
@@ -136,14 +160,6 @@
       "word": "哪吒之魔童闹海登顶中国电影票房榜",
       "onboard_time": 1738816708,
       "rank": 10,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 413372,
-      "num": 256597,
-      "word": "乌尔善 封神口碑",
-      "onboard_time": 1738887021,
-      "rank": 20,
       "category": "电影"
     },
     {
@@ -179,14 +195,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 338823,
-      "num": 338823,
-      "word": "初十",
-      "onboard_time": 1738890685,
-      "rank": 12,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 338559,
       "num": 338559,
       "word": "教育厅通报男子举报中学提前开学",
@@ -209,6 +217,14 @@
       "onboard_time": 1738853846,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 317667,
+      "num": 467639,
+      "word": "间谍投敌不到48小时就被抓",
+      "onboard_time": 1738890685,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 317289,
@@ -275,11 +291,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 245133,
-      "num": 349518,
-      "word": "官方通報张家界一遊客点2个菜844元",
-      "onboard_time": 1738888343,
-      "rank": 9,
+      "raw_hot": 254214,
+      "num": 241291,
+      "word": "小米眼镜官博上线",
+      "onboard_time": 1738888282,
+      "rank": 23,
+      "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 247507,
+      "num": 223494,
+      "word": "男子旅游停车两三天感慨天塌了",
+      "onboard_time": 1738892242,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -289,14 +313,6 @@
       "onboard_time": 1738857024,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 241291,
-      "num": 241291,
-      "word": "小米眼镜官博上线",
-      "onboard_time": 1738888282,
-      "rank": 23,
-      "category": "数码,互联网"
     },
     {
       "raw_hot": 233957,
@@ -315,6 +331,14 @@
       "category": "国内时政,电影"
     },
     {
+      "raw_hot": 214514,
+      "num": 214514,
+      "word": "2025冰雪之约",
+      "onboard_time": 1738892360,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210041,
       "num": 196665,
       "word": "李心艾官宣怀孕",
@@ -323,12 +347,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203566,
-      "num": 203566,
+      "raw_hot": 205789,
+      "num": 205789,
       "word": "陈丽君去巴黎参加高端局了",
       "onboard_time": 1738885338,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200121,
+      "num": 200121,
+      "word": "哪吒冲100亿",
+      "onboard_time": 1738891043,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 199329,
@@ -347,12 +379,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190719,
+      "num": 190719,
+      "word": "大同街道就破门亮灯致歉",
+      "onboard_time": 1738891282,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188660,
       "num": 188660,
       "word": "大风",
       "onboard_time": 1738887381,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185072,
+      "num": 185072,
+      "word": "亚冬会",
+      "onboard_time": 1738892722,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 183581,
@@ -379,14 +427,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 167673,
-      "num": 167673,
-      "word": "哪吒冲100亿",
-      "onboard_time": 1738891043,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 164929,
       "num": 329207,
       "word": "李飞飞团队50美元复刻DeepSeek真相",
@@ -395,12 +435,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 160836,
-      "num": 160836,
-      "word": "大同街道就破门亮灯致歉",
-      "onboard_time": 1738891282,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 164200,
+      "num": 164200,
+      "word": "短道速滑",
+      "onboard_time": 1738893261,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 159345,
+      "num": 159345,
+      "word": "影史第一的男主长这样",
+      "onboard_time": 1738888041,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 158724,
@@ -411,44 +459,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 157774,
-      "num": 157774,
-      "word": "影史第一的男主长这样",
-      "onboard_time": 1738888041,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 155961,
-      "num": 155961,
+      "num": 200708,
       "word": "恋与深空",
       "onboard_time": 1738890983,
       "rank": 36,
       "category": "游戏"
     },
     {
-      "raw_hot": 151919,
-      "num": 151919,
-      "word": "男子旅游停车两三天感慨天塌了",
-      "onboard_time": 1738892242,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 150495,
-      "num": 150495,
+      "raw_hot": 152076,
+      "num": 152076,
       "word": "哪吒2动画制作团队在线摇人",
       "onboard_time": 1738891941,
       "rank": 38,
       "category": "电影"
     },
     {
-      "raw_hot": 150004,
-      "num": 150004,
-      "word": "间谍投敌不到48小时就被抓",
-      "onboard_time": 1738890685,
-      "rank": 39,
-      "category": "国内时政"
+      "raw_hot": 150204,
+      "num": 150204,
+      "word": "宋茜对接回应山河枕超话主持人分配",
+      "onboard_time": 1738890144,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 146521,
@@ -457,6 +489,14 @@
       "onboard_time": 1738854092,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143676,
+      "num": 143676,
+      "word": "大学生放假一个行李箱开学变三个",
+      "onboard_time": 1738892781,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143438,
@@ -500,19 +540,11 @@
     },
     {
       "raw_hot": 134410,
-      "num": 134410,
+      "num": 143265,
       "word": "定远中学提前开学涉事人被停职",
       "onboard_time": 1738848205,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 133562,
-      "num": 133562,
-      "word": "宋茜对接回应山河枕超话主持人分配",
-      "onboard_time": 1738890144,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 133162,
@@ -529,14 +561,6 @@
       "onboard_time": 1738854026,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 118907,
-      "num": 118907,
-      "word": "2025冰雪之约",
-      "onboard_time": 1738892360,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 111226,
@@ -572,7 +596,7 @@
     },
     {
       "raw_hot": 105371,
-      "num": 105371,
+      "num": 143256,
       "word": "詹眉全明星联手",
       "onboard_time": 1738891822,
       "rank": 45,
@@ -588,7 +612,7 @@
     },
     {
       "raw_hot": 102305,
-      "num": 129145,
+      "num": 143368,
       "word": "金饰价格涨至872元每克",
       "onboard_time": 1738849887,
       "rank": 47,
