@@ -1,6 +1,6 @@
 {
   "startTime": 1738859204643,
-  "endTime": 1738913730642,
+  "endTime": 1738916877040,
   "band_list": [
     {
       "raw_hot": 10208509,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2773326,
-      "num": 462857,
+      "num": 480931,
       "word": "李纯 马頔",
       "onboard_time": 1738907902,
       "rank": 10,
@@ -83,12 +83,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1201938,
+      "num": 1201938,
+      "word": "研究发现一小行星7年后有概率撞地球",
+      "onboard_time": 1738912163,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1179545,
       "num": 1013762,
       "word": "苗苗选择和郑恺结婚的契机",
       "onboard_time": 1738907482,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1087505,
+      "num": 1087505,
+      "word": "九个月赚1亿公司多个分公司已注销",
+      "onboard_time": 1738914981,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1034595,
@@ -195,8 +211,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 730273,
-      "num": 465805,
+      "raw_hot": 750230,
+      "num": 750230,
       "word": "邓为第一部男主口碑",
       "onboard_time": 1738910904,
       "rank": 8,
@@ -291,11 +307,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 613239,
+      "num": 482915,
+      "word": "严屹宽回应撞脸敖光",
+      "onboard_time": 1738913181,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 596829,
       "num": 596829,
       "word": "哪吒2登顶饺子能赚多少钱",
       "onboard_time": 1738846463,
       "rank": 3,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 589503,
+      "num": 480332,
+      "word": "哪吒的手镯",
+      "onboard_time": 1738912403,
+      "rank": 37,
       "category": "电影"
     },
     {
@@ -315,6 +347,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 540810,
+      "num": 216661,
+      "word": "20后宝宝都避开网红名了吗",
+      "onboard_time": 1738915943,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 530818,
       "num": 530818,
       "word": "初十",
@@ -329,6 +369,14 @@
       "onboard_time": 1738851265,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 507023,
+      "num": 479218,
+      "word": "向涵之演技",
+      "onboard_time": 1738915463,
+      "rank": 13,
+      "category": "剧集,综艺"
     },
     {
       "raw_hot": 505214,
@@ -427,6 +475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 444617,
+      "num": 262005,
+      "word": "哪吒2破64亿",
+      "onboard_time": 1738913181,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 441795,
       "num": 441795,
       "word": "哪吒之魔童闹海登顶中国电影票房榜",
@@ -441,14 +497,6 @@
       "onboard_time": 1738899806,
       "rank": 20,
       "category": "电影"
-    },
-    {
-      "raw_hot": 427377,
-      "num": 427377,
-      "word": "研究发现一小行星7年后有概率撞地球",
-      "onboard_time": 1738912163,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 409570,
@@ -473,6 +521,14 @@
       "onboard_time": 1738910122,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 390812,
+      "num": 390812,
+      "word": "广州一男子通勤1年举报2277起违章",
+      "onboard_time": 1738913601,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 375367,
@@ -643,14 +699,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 303072,
-      "num": 303072,
-      "word": "哪吒的手镯",
-      "onboard_time": 1738912403,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 302678,
       "num": 302678,
       "word": "西政毕业生起诉重庆轨道集团败诉",
@@ -689,14 +737,6 @@
       "onboard_time": 1738907662,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 292926,
-      "num": 463376,
-      "word": "严屹宽回应撞脸敖光",
-      "onboard_time": 1738913181,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 287089,
@@ -809,6 +849,22 @@
       "onboard_time": 1738909344,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 251936,
+      "num": 251936,
+      "word": "亚冬会开幕式分会场是冰雪大世界",
+      "onboard_time": 1738916241,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 251581,
+      "num": 251581,
+      "word": "哪吒2",
+      "onboard_time": 1738914561,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 249461,
@@ -963,6 +1019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225097,
+      "num": 225097,
+      "word": "有人把乌尔善告上天庭了",
+      "onboard_time": 1738915225,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 222000,
       "num": 470825,
       "word": "雄安集团招聘数万人是假消息",
@@ -977,14 +1041,6 @@
       "onboard_time": 1738905923,
       "rank": 17,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 219003,
-      "num": 219003,
-      "word": "哪吒2破64亿",
-      "onboard_time": 1738913181,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 218258,
@@ -1017,6 +1073,14 @@
       "onboard_time": 1738880532,
       "rank": 29,
       "category": "国内时政,电影"
+    },
+    {
+      "raw_hot": 216285,
+      "num": 216285,
+      "word": "叶平安下雨天穿白裙子",
+      "onboard_time": 1738915701,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 214514,
@@ -1065,6 +1129,22 @@
       "onboard_time": 1738907063,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207503,
+      "num": 480992,
+      "word": "联合国首次启动行星安全协议",
+      "onboard_time": 1738914561,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 206038,
+      "num": 206038,
+      "word": "美国一架载有10人的飞机失踪",
+      "onboard_time": 1738914083,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 205789,
@@ -1155,6 +1235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190370,
+      "num": 268265,
+      "word": "邓超是感动还是动感呢",
+      "onboard_time": 1738915701,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189459,
       "num": 189459,
       "word": "黎深 典狱长",
@@ -1227,6 +1315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 181144,
+      "num": 181144,
+      "word": "敖瑞鹏师兄太稳健杀青应援",
+      "onboard_time": 1738916361,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176683,
       "num": 311533,
       "word": "黄渤饰演姜子牙最难的是年龄差",
@@ -1249,6 +1345,14 @@
       "onboard_time": 1738904125,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171699,
+      "num": 171699,
+      "word": "尔滨这温度林孝埈还露脚脖子",
+      "onboard_time": 1738914382,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 166610,
@@ -1275,20 +1379,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161193,
-      "num": 161193,
-      "word": "广州一男子通勤1年举报2277起违章",
-      "onboard_time": 1738913601,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 160553,
       "num": 160553,
       "word": "哪吒票房",
       "onboard_time": 1738894461,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 160332,
+      "num": 160332,
+      "word": "第一次见女主和女配调情和男主做恨",
+      "onboard_time": 1738916782,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 160323,
+      "num": 160323,
+      "word": "喝完一罐可乐后身体的变化",
+      "onboard_time": 1738916543,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 159635,
@@ -1379,6 +1491,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145275,
+      "num": 145275,
+      "word": "赵丽颖新大片",
+      "onboard_time": 1738916659,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 144385,
+      "num": 144385,
+      "word": "王曼昱蒯曼3比0郑怡静李昱谆",
+      "onboard_time": 1738915282,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 143969,
+      "num": 143969,
+      "word": "虞书欣首专的含金量还在提升",
+      "onboard_time": 1738914742,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 143676,
       "num": 143676,
       "word": "大学生放假一个行李箱开学变三个",
@@ -1401,6 +1537,14 @@
       "onboard_time": 1738855225,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 140183,
+      "num": 140183,
+      "word": "李宇春春晚最满足的是近距离欣赏王菲演出",
+      "onboard_time": 1738916843,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 138416,
@@ -1707,6 +1851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 92625,
+      "num": 251607,
+      "word": "王楚钦林诗栋战胜男双世一",
+      "onboard_time": 1738916122,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92014,
       "num": 247444,
       "word": "血脉压制是刻进DNA的",
@@ -1796,7 +1948,7 @@
     },
     {
       "raw_hot": 76457,
-      "num": 1106125,
+      "num": 1110188,
       "word": "相约第九届亚冬会",
       "onboard_time": 1738905204,
       "rank": 2,
@@ -2065,6 +2217,14 @@
       "onboard_time": 1738912943,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28134,
+      "num": 217030,
+      "word": "天津多处护栏被风吹倒行人接力扶起",
+      "onboard_time": 1738916184,
+      "rank": 29,
+      "category": "正能量"
     },
     {
       "raw_hot": 27848,
