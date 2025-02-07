@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738897310008,
+  "endTime": 1738898890783,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -625,6 +625,14 @@
       "onboard_time": 1736477600,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 4091875,
+      "num": 5183751,
+      "word": "黄旭华逝世",
+      "onboard_time": 1738897163,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 4022283,
@@ -1899,6 +1907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2147717,
+      "num": 2147717,
+      "word": "哪吒2爆火保洁3倍工资还要求加钱",
+      "onboard_time": 1738896443,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2146772,
       "num": 2146772,
       "word": "得流感自救不要错过黄金48小时",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1736229564,
       "rank": 17,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1922533,
-      "num": 1922533,
-      "word": "杨子直播",
-      "onboard_time": 1737202819,
-      "rank": 0,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1921454,
-      "num": 1921454,
-      "word": "中国驻泰大使馆通报王星回国",
-      "onboard_time": 1736522242,
-      "rank": 0,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

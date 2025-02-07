@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738897310008,
+  "endTime": 1738898890783,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -137,6 +137,14 @@
       "onboard_time": 1738640002,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 4091875,
+      "num": 5183751,
+      "word": "黄旭华逝世",
+      "onboard_time": 1738897163,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 3831944,
@@ -329,6 +337,14 @@
       "onboard_time": 1738402697,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 2147717,
+      "num": 2147717,
+      "word": "哪吒2爆火保洁3倍工资还要求加钱",
+      "onboard_time": 1738896443,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2146772,
@@ -1147,6 +1163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1025192,
+      "num": 1025192,
+      "word": "恋与深空",
+      "onboard_time": 1738486757,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1012427,
       "num": 1161988,
       "word": "县城的物价为什么这么谜",
@@ -1193,14 +1217,6 @@
       "onboard_time": 1738498639,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 979585,
-      "num": 979585,
-      "word": "哪吒2爆火保洁3倍工资还要求加钱",
-      "onboard_time": 1738896443,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 978012,
@@ -4675,6 +4691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 331154,
+      "num": 331154,
+      "word": "玄彬炫耀了一晚上老婆孩子",
+      "onboard_time": 1738897584,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 330592,
       "num": 322067,
       "word": "张佳宁晒合照为宋茜庆生",
@@ -5235,14 +5259,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 293150,
-      "num": 293150,
-      "word": "恋与深空",
-      "onboard_time": 1738486757,
-      "rank": 28,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 292151,
       "num": 292151,
       "word": "樊振东获得世界杯参赛资格",
@@ -5729,6 +5745,14 @@
       "onboard_time": 1738854026,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 260148,
+      "num": 260148,
+      "word": "掌心第一案喜提尸兄",
+      "onboard_time": 1738896622,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 260076,
@@ -6841,6 +6865,14 @@
       "onboard_time": 1738326858,
       "rank": 41,
       "category": "国际时政,互联网"
+    },
+    {
+      "raw_hot": 221313,
+      "num": 470825,
+      "word": "雄安集团招聘数万人是假消息",
+      "onboard_time": 1738896982,
+      "rank": 40,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 220127,
@@ -8008,14 +8040,6 @@
       "word": "梁洁我不白抢你红包",
       "onboard_time": 1738481237,
       "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 194482,
-      "num": 194482,
-      "word": "掌心第一案喜提尸兄",
-      "onboard_time": 1738896622,
-      "rank": 36,
       "category": "剧集"
     },
     {
@@ -9587,14 +9611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168864,
-      "num": 168864,
-      "word": "黄旭华逝世",
-      "onboard_time": 1738897163,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 168481,
       "num": 168481,
       "word": "李昀锐把自己哄成胚胎了",
@@ -10867,6 +10883,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 149212,
+      "num": 329198,
+      "word": "跨境电商企业称已出现包裹滞留",
+      "onboard_time": 1738897523,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149187,
       "num": 131296,
       "word": "二月最幸运星座",
@@ -11755,6 +11779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136081,
+      "num": 136081,
+      "word": "六姊妹破酷云实时收视历史纪录",
+      "onboard_time": 1738898306,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135993,
       "num": 130743,
       "word": "唐探获中国影史系列电影票房冠军",
@@ -12051,12 +12083,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 131117,
+      "num": 131117,
+      "word": "掌心里有眉姐姐",
+      "onboard_time": 1738898427,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131013,
       "num": 131013,
       "word": "易烊千玺5年变化",
       "onboard_time": 1738378936,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130883,
+      "num": 130883,
+      "word": "陈哲远梁洁开辟cp新赛道",
+      "onboard_time": 1738898608,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 130746,
@@ -12473,14 +12521,6 @@
       "onboard_time": 1738415960,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 125782,
-      "num": 125782,
-      "word": "雄安集团招聘数万人是假消息",
-      "onboard_time": 1738896982,
-      "rank": 40,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 125653,
@@ -13553,6 +13593,14 @@
       "onboard_time": 1738656983,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110026,
+      "num": 110026,
+      "word": "饺子导演画不完根本画不完",
+      "onboard_time": 1738898487,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 110011,
@@ -16260,7 +16308,7 @@
     },
     {
       "raw_hot": 49912,
-      "num": 119958,
+      "num": 218558,
       "word": "林孝埈亮相亚冬会",
       "onboard_time": 1738896682,
       "rank": 43,

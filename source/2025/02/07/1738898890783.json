@@ -1,0 +1,410 @@
+{
+  "runTime": 1738898890783,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4091875,
+        "num": 5183751,
+        "word": "黄旭华逝世",
+        "onboard_time": 1738897163,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2147717,
+        "num": 2147717,
+        "word": "哪吒2爆火保洁3倍工资还要求加钱",
+        "onboard_time": 1738896443,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19477,
+        "num": 1356410,
+        "word": "三个关键词概括第九届亚冬会",
+        "onboard_time": 1738846282,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1228301,
+        "num": 1228301,
+        "word": "哪吒2若卖95亿饺子至少能分1.35亿",
+        "onboard_time": 1738887381,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1025192,
+        "num": 1025192,
+        "word": "恋与深空",
+        "onboard_time": 1738890983,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 988481,
+        "num": 988481,
+        "word": "韩某某投敌叛变48小时内被抓",
+        "onboard_time": 1738887321,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 838198,
+        "num": 838198,
+        "word": "哪吒2破63亿",
+        "onboard_time": 1738893742,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 768045,
+        "num": 768045,
+        "word": "范思哲 蔡徐坤",
+        "onboard_time": 1738887500,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 520656,
+        "num": 520656,
+        "word": "间谍投敌不到48小时就被抓",
+        "onboard_time": 1738890685,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 221313,
+        "num": 470825,
+        "word": "雄安集团招聘数万人是假消息",
+        "onboard_time": 1738896982,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 771325,
+        "num": 470538,
+        "word": "官方通报破门亮灯事件",
+        "onboard_time": 1738894043,
+        "rank": 10,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 620049,
+        "num": 470277,
+        "word": "男子花18万闪婚仅半天新娘不见了",
+        "onboard_time": 1738894281,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 468576,
+        "num": 468576,
+        "word": "哪吒2票房大半要分给影院",
+        "onboard_time": 1738890623,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 420982,
+        "num": 420982,
+        "word": "骑手因包装破损被华为店索赔一万五",
+        "onboard_time": 1738858462,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362856,
+        "num": 362856,
+        "word": "NewJeans新组合名NJZ",
+        "onboard_time": 1738890623,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350983,
+        "num": 350983,
+        "word": "今天出门是被风推着走的",
+        "onboard_time": 1738894281,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 343891,
+        "num": 343891,
+        "word": "乌尔善 封神口碑",
+        "onboard_time": 1738887021,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 337340,
+        "num": 337340,
+        "word": "中央气象台发布寒潮大风预警",
+        "onboard_time": 1738890383,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331154,
+        "num": 331154,
+        "word": "玄彬炫耀了一晚上老婆孩子",
+        "onboard_time": 1738897584,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149212,
+        "num": 329198,
+        "word": "跨境电商企业称已出现包裹滞留",
+        "onboard_time": 1738897523,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327766,
+        "num": 327766,
+        "word": "国安破获一起主动投靠境外间谍案",
+        "onboard_time": 1738890623,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 279776,
+        "num": 279776,
+        "word": "大同街道就破门亮灯致歉",
+        "onboard_time": 1738891282,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260148,
+        "num": 260148,
+        "word": "掌心第一案喜提尸兄",
+        "onboard_time": 1738896622,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229035,
+        "num": 229035,
+        "word": "哪吒",
+        "onboard_time": 1738840224,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 49741,
+        "num": 218558,
+        "word": "林孝埈亮相亚冬会",
+        "onboard_time": 1738896682,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215770,
+        "num": 215770,
+        "word": "史上学历最低的影帝",
+        "onboard_time": 1738895601,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199391,
+        "num": 199391,
+        "word": "27岁小伙3份副业最高日入5千",
+        "onboard_time": 1738887742,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198975,
+        "num": 198975,
+        "word": "A股",
+        "onboard_time": 1738897826,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 196679,
+        "num": 196679,
+        "word": "男子旅游停车两三天感慨天塌了",
+        "onboard_time": 1738892242,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187193,
+        "num": 187193,
+        "word": "藕饼",
+        "onboard_time": 1738893923,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178321,
+        "num": 178321,
+        "word": "建议别在晚上做重大决定",
+        "onboard_time": 1738850725,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176475,
+        "num": 176475,
+        "word": "射雕英雄传影史武侠片票房冠军",
+        "onboard_time": 1738887203,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160553,
+        "num": 160553,
+        "word": "哪吒票房",
+        "onboard_time": 1738894461,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159263,
+        "num": 159263,
+        "word": "敖丙妈妈长在我的心坎上了",
+        "onboard_time": 1738853665,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151927,
+        "num": 151927,
+        "word": "妻子招待完丈夫朋友后被一顿猛夸",
+        "onboard_time": 1738849166,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150487,
+        "num": 150487,
+        "word": "好一个乖乖女",
+        "onboard_time": 1738851265,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136081,
+        "num": 136081,
+        "word": "六姊妹破酷云实时收视历史纪录",
+        "onboard_time": 1738898306,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134458,
+        "num": 134458,
+        "word": "短道速滑",
+        "onboard_time": 1738893261,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133026,
+        "num": 133026,
+        "word": "涉密人员为钱拷贝偷拍大量资料被抓",
+        "onboard_time": 1738888523,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 131117,
+        "num": 131117,
+        "word": "掌心里有眉姐姐",
+        "onboard_time": 1738898427,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130883,
+        "num": 130883,
+        "word": "陈哲远梁洁开辟cp新赛道",
+        "onboard_time": 1738898608,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129103,
+        "num": 129103,
+        "word": "陈丽君去巴黎参加高端局了",
+        "onboard_time": 1738885338,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124210,
+        "num": 124210,
+        "word": "哪吒影史第一",
+        "onboard_time": 1738817490,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116183,
+        "num": 116183,
+        "word": "李现说把腹肌胖没了",
+        "onboard_time": 1738887922,
+        "rank": 43,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 111948,
+        "num": 111948,
+        "word": "小米眼镜官博上线",
+        "onboard_time": 1738888282,
+        "rank": 44,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 110272,
+        "num": 110272,
+        "word": "金饰价格每克超870元",
+        "onboard_time": 1738894761,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 110026,
+        "num": 110026,
+        "word": "饺子导演画不完根本画不完",
+        "onboard_time": 1738898487,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108406,
+        "num": 108406,
+        "word": "难哄预约",
+        "onboard_time": 1738896024,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100920,
+        "num": 100920,
+        "word": "刘诗诗窦骁开播海报",
+        "onboard_time": 1738896862,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99363,
+        "num": 99363,
+        "word": "2025冰雪之约",
+        "onboard_time": 1738892360,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中泰一家亲历久弥新#"
+    }
+  }
+}

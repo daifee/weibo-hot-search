@@ -1,7 +1,23 @@
 {
   "startTime": 1738859204643,
-  "endTime": 1738897310008,
+  "endTime": 1738898890783,
   "band_list": [
+    {
+      "raw_hot": 4091875,
+      "num": 5183751,
+      "word": "黄旭华逝世",
+      "onboard_time": 1738897163,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 2147717,
+      "num": 2147717,
+      "word": "哪吒2爆火保洁3倍工资还要求加钱",
+      "onboard_time": 1738896443,
+      "rank": 16,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 2118786,
       "num": 2118786,
@@ -27,12 +43,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 979585,
-      "num": 979585,
-      "word": "哪吒2爆火保洁3倍工资还要求加钱",
-      "onboard_time": 1738896443,
-      "rank": 16,
-      "category": "民生新闻"
+      "raw_hot": 1025192,
+      "num": 1025192,
+      "word": "恋与深空",
+      "onboard_time": 1738890983,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 968281,
@@ -267,6 +283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 331154,
+      "num": 331154,
+      "word": "玄彬炫耀了一晚上老婆孩子",
+      "onboard_time": 1738897584,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 327566,
       "num": 327566,
       "word": "电影蛟龙行动",
@@ -347,6 +371,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 260148,
+      "num": 260148,
+      "word": "掌心第一案喜提尸兄",
+      "onboard_time": 1738896622,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 254214,
       "num": 241291,
       "word": "小米眼镜官博上线",
@@ -385,6 +417,14 @@
       "onboard_time": 1738888343,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 221313,
+      "num": 470825,
+      "word": "雄安集团招聘数万人是假消息",
+      "onboard_time": 1738896982,
+      "rank": 40,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 218258,
@@ -443,12 +483,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 194482,
-      "num": 194482,
-      "word": "掌心第一案喜提尸兄",
-      "onboard_time": 1738896622,
-      "rank": 36,
-      "category": "剧集"
+      "raw_hot": 198975,
+      "num": 198975,
+      "word": "A股",
+      "onboard_time": 1738897826,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 194044,
@@ -499,14 +539,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 168864,
-      "num": 168864,
-      "word": "黄旭华逝世",
-      "onboard_time": 1738897163,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 164929,
       "num": 329207,
       "word": "李飞飞团队50美元复刻DeepSeek真相",
@@ -521,6 +553,14 @@
       "onboard_time": 1738893261,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160553,
+      "num": 160553,
+      "word": "哪吒票房",
+      "onboard_time": 1738894461,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 159345,
@@ -539,14 +579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 155961,
-      "num": 200708,
-      "word": "恋与深空",
-      "onboard_time": 1738890983,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 152076,
       "num": 152076,
       "word": "哪吒2动画制作团队在线摇人",
@@ -563,20 +595,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149212,
+      "num": 329198,
+      "word": "跨境电商企业称已出现包裹滞留",
+      "onboard_time": 1738897523,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146521,
       "num": 146521,
       "word": "刘晓庆演短剧了",
       "onboard_time": 1738854092,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 144856,
-      "num": 144856,
-      "word": "哪吒票房",
-      "onboard_time": 1738894461,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 143676,
@@ -627,6 +659,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 136081,
+      "num": 136081,
+      "word": "六姊妹破酷云实时收视历史纪录",
+      "onboard_time": 1738898306,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134979,
       "num": 134979,
       "word": "难哄预约",
@@ -659,20 +699,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 131117,
+      "num": 131117,
+      "word": "掌心里有眉姐姐",
+      "onboard_time": 1738898427,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 130883,
+      "num": 130883,
+      "word": "陈哲远梁洁开辟cp新赛道",
+      "onboard_time": 1738898608,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129446,
       "num": 129446,
       "word": "哪吒之魔童闹海预测票房超108.5亿",
       "onboard_time": 1738854026,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 125782,
-      "num": 125782,
-      "word": "雄安集团招聘数万人是假消息",
-      "onboard_time": 1738896982,
-      "rank": 40,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 123777,
@@ -705,6 +753,14 @@
       "onboard_time": 1738848265,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110026,
+      "num": 110026,
+      "word": "饺子导演画不完根本画不完",
+      "onboard_time": 1738898487,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 108461,
@@ -884,7 +940,7 @@
     },
     {
       "raw_hot": 49912,
-      "num": 119958,
+      "num": 218558,
       "word": "林孝埈亮相亚冬会",
       "onboard_time": 1738896682,
       "rank": 43,
