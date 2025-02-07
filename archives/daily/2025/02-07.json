@@ -1,6 +1,6 @@
 {
   "startTime": 1738859204643,
-  "endTime": 1738910645000,
+  "endTime": 1738912856578,
   "band_list": [
     {
       "raw_hot": 10208509,
@@ -33,6 +33,14 @@
       "onboard_time": 1738887321,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2042093,
+      "num": 2042093,
+      "word": "演员严屹宽被指撞脸敖光",
+      "onboard_time": 1738909582,
+      "rank": 29,
+      "category": "艺人,电影"
     },
     {
       "raw_hot": 2040556,
@@ -235,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 648103,
+      "num": 332599,
+      "word": "杨子为了看黄圣依开废了一辆车",
+      "onboard_time": 1738911322,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 627469,
       "num": 479309,
       "word": "NewJeans新组合名NJZ",
@@ -371,6 +387,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 465805,
+      "num": 465805,
+      "word": "邓为第一部男主口碑",
+      "onboard_time": 1738910904,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 445940,
+      "num": 445940,
+      "word": "黄旭华生前只戴母亲的围巾",
+      "onboard_time": 1738909163,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 443989,
+      "num": 443989,
+      "word": "号称接入deepseek键盘鼠标1天卖近100万元",
+      "onboard_time": 1738910184,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 441795,
       "num": 441795,
       "word": "哪吒之魔童闹海登顶中国电影票房榜",
@@ -401,6 +441,22 @@
       "onboard_time": 1738904844,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 396218,
+      "num": 332488,
+      "word": "短剧迎来真正大女主",
+      "onboard_time": 1738910122,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 376701,
+      "num": 376701,
+      "word": "沈星回ooc",
+      "onboard_time": 1738909103,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 375367,
@@ -483,12 +539,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 337872,
-      "num": 337872,
-      "word": "黄旭华生前只戴母亲的围巾",
-      "onboard_time": 1738909163,
-      "rank": 36,
-      "category": "国内时政"
+      "raw_hot": 335044,
+      "num": 335044,
+      "word": "余承恩单手抱娃",
+      "onboard_time": 1738909403,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 331898,
@@ -537,14 +593,6 @@
       "onboard_time": 1738879092,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 314711,
-      "num": 314711,
-      "word": "沈星回ooc",
-      "onboard_time": 1738909103,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 313389,
@@ -609,14 +657,6 @@
       "onboard_time": 1738887922,
       "rank": 16,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 294702,
-      "num": 294702,
-      "word": "余承恩单手抱娃",
-      "onboard_time": 1738909403,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 293562,
@@ -691,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 268917,
+      "num": 268917,
+      "word": "研究发现一小行星7年后有概率撞地球",
+      "onboard_time": 1738912163,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 266926,
       "num": 266926,
       "word": "涉密人员为钱拷贝偷拍大量资料被抓",
@@ -745,14 +793,6 @@
       "onboard_time": 1738905325,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 247711,
-      "num": 247711,
-      "word": "短剧迎来真正大女主",
-      "onboard_time": 1738910122,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 247507,
@@ -817,14 +857,6 @@
       "onboard_time": 1738832305,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 233757,
-      "num": 281812,
-      "word": "演员严屹宽被指撞脸敖光",
-      "onboard_time": 1738909582,
-      "rank": 29,
-      "category": "艺人,电影"
     },
     {
       "raw_hot": 233563,
@@ -1044,7 +1076,7 @@
     },
     {
       "raw_hot": 199748,
-      "num": 199748,
+      "num": 282059,
       "word": "詹姆斯42分",
       "onboard_time": 1738910003,
       "rank": 43,
@@ -1081,6 +1113,14 @@
       "onboard_time": 1738818210,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192270,
+      "num": 192270,
+      "word": "哪吒的手镯",
+      "onboard_time": 1738912403,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 189459,
@@ -1179,6 +1219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166610,
+      "num": 166610,
+      "word": "掌心热度",
+      "onboard_time": 1738912462,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164929,
       "num": 329207,
       "word": "李飞飞团队50美元复刻DeepSeek真相",
@@ -1227,12 +1275,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156531,
+      "num": 244637,
+      "word": "陈幸同4比3早田希娜",
+      "onboard_time": 1738911804,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152076,
       "num": 152076,
       "word": "哪吒2动画制作团队在线摇人",
       "onboard_time": 1738891941,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 151667,
+      "num": 151667,
+      "word": "黄旭华生前说要当一辈子无名英雄",
+      "onboard_time": 1738910842,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 151354,
+      "num": 151354,
+      "word": "春晚后台未公开拍立得",
+      "onboard_time": 1738912702,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 150204,
@@ -1249,6 +1321,14 @@
       "onboard_time": 1738903707,
       "rank": 29,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 146720,
+      "num": 146720,
+      "word": "夏以昼 符合人设",
+      "onboard_time": 1738912042,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 146521,
@@ -1377,6 +1457,14 @@
       "onboard_time": 1738854026,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 129309,
+      "num": 333094,
+      "word": "黄晓明悼念黄旭华院士",
+      "onboard_time": 1738911863,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 127296,
@@ -1523,6 +1611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100435,
+      "num": 387370,
+      "word": "法院回应有人1元拍下公司80%股权",
+      "onboard_time": 1738912583,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100106,
       "num": 100106,
       "word": "韩国地震",
@@ -1569,14 +1665,6 @@
       "onboard_time": 1738908684,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 90593,
-      "num": 339676,
-      "word": "号称接入deepseek键盘鼠标1天卖近100万元",
-      "onboard_time": 1738910184,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90372,
@@ -1675,6 +1763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73310,
+      "num": 145188,
+      "word": "胡兵下一个想爆改瞿颖陈楚生",
+      "onboard_time": 1738908924,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 72345,
       "num": 129110,
       "word": "刘诗诗粉丝包场",
@@ -1731,6 +1827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 51775,
+      "num": 244416,
+      "word": "混双冰壶中国队进铜牌赛",
+      "onboard_time": 1738912462,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50635,
       "num": 627710,
       "word": "沪指重返3300点",
@@ -1745,6 +1849,14 @@
       "onboard_time": 1738905027,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50006,
+      "num": 378154,
+      "word": "亚冬会金牌赛程",
+      "onboard_time": 1738912290,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 49912,
