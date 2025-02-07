@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/02/07 22:20:50
+本榜单时间：2025/01/01 00:26:38 ~ 2025/02/07 22:39:10
 </p>
 </blockquote>
 <p>
@@ -639,6 +639,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E5%85%A8%E7%90%83%E5%BD%B1%E5%8F%B2%E5%8D%95%E4%B8%80%E5%B8%82%E5%9C%BA%E7%A5%A8%E6%88%BF%E7%AC%AC1%23" target="weibo">
+哪吒2全球影史单一市场票房第1（热度：3342752）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E7%9B%B4%E6%92%AD%23" target="weibo">
 赵露思直播（热度：3339900）
 </a>
@@ -653,12 +659,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%20%E5%85%B1%E9%B8%A3%23" target="weibo">
 王嘉尔 共鸣（热度：3330871）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E5%85%A8%E7%90%83%E5%BD%B1%E5%8F%B2%E5%8D%95%E4%B8%80%E5%B8%82%E5%9C%BA%E7%A5%A8%E6%88%BF%E7%AC%AC1%23" target="weibo">
-哪吒2全球影史单一市场票房第1（热度：3321649）
 </a>
 </li>
 

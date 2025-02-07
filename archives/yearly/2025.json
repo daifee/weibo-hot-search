@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738938050206,
+  "endTime": 1738939150791,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -835,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3342752,
+      "num": 3342752,
+      "word": "哪吒2全球影史单一市场票房第1",
+      "onboard_time": 1738935684,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 3339900,
       "num": 1851483,
       "word": "赵露思直播",
@@ -857,14 +865,6 @@
       "onboard_time": 1736033777,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3321649,
-      "num": 3321649,
-      "word": "哪吒2全球影史单一市场票房第1",
-      "onboard_time": 1738935684,
-      "rank": 0,
-      "category": "电影"
     },
     {
       "raw_hot": 3315107,

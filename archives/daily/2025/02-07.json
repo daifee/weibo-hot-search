@@ -1,6 +1,6 @@
 {
   "startTime": 1738859204643,
-  "endTime": 1738938050206,
+  "endTime": 1738939150791,
   "band_list": [
     {
       "raw_hot": 10208509,
@@ -11,8 +11,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 3321649,
-      "num": 3321649,
+      "raw_hot": 3342752,
+      "num": 3342752,
       "word": "哪吒2全球影史单一市场票房第1",
       "onboard_time": 1738935684,
       "rank": 0,
@@ -267,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 922489,
+      "num": 606335,
+      "word": "孟子义柬埔寨路透",
+      "onboard_time": 1738936163,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 917093,
       "num": 864393,
       "word": "哪吒2破63亿",
@@ -307,14 +315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 854564,
-      "num": 606335,
-      "word": "孟子义柬埔寨路透",
-      "onboard_time": 1738936163,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 841165,
       "num": 584599,
       "word": "哪吒2票房",
@@ -347,20 +347,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 797202,
+      "num": 755082,
+      "word": "Angelababy王安宇新剧楼梯抱",
+      "onboard_time": 1738935204,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 793777,
       "num": 793777,
       "word": "哪吒导演签名竟然是画哪吒",
       "onboard_time": 1738925242,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 755082,
-      "num": 755082,
-      "word": "Angelababy王安宇新剧楼梯抱",
-      "onboard_time": 1738935204,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 752490,
@@ -652,11 +652,19 @@
     },
     {
       "raw_hot": 488831,
-      "num": 305508,
+      "num": 326854,
       "word": "一个能一觉睡到天亮的入睡法",
       "onboard_time": 1738933464,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 480687,
+      "num": 480687,
+      "word": "大同市纪委监委回应破门亮灯事件",
+      "onboard_time": 1738935864,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 476734,
@@ -772,7 +780,7 @@
     },
     {
       "raw_hot": 403769,
-      "num": 310342,
+      "num": 330678,
       "word": "哪吒2",
       "onboard_time": 1738914561,
       "rank": 25,
@@ -792,6 +800,14 @@
       "word": "短剧迎来真正大女主",
       "onboard_time": 1738910122,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 394756,
+      "num": 333405,
+      "word": "刘诗诗演技",
+      "onboard_time": 1738937783,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -897,6 +913,14 @@
       "onboard_time": 1738899388,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 342375,
+      "num": 342375,
+      "word": "孙颖莎说没想到4比0的比分",
+      "onboard_time": 1738933824,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 341422,
@@ -1043,14 +1067,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 302226,
-      "num": 302226,
-      "word": "大同市纪委监委回应破门亮灯事件",
-      "onboard_time": 1738935864,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 301728,
       "num": 301728,
       "word": "Angelababy相思令收官文",
@@ -1081,14 +1097,6 @@
       "onboard_time": 1738887922,
       "rank": 16,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 295377,
-      "num": 295377,
-      "word": "孙颖莎说没想到4比0的比分",
-      "onboard_time": 1738933824,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 293562,
@@ -1123,6 +1131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 282905,
+      "num": 282905,
+      "word": "丁禹兮的玩偶是虞书欣同款",
+      "onboard_time": 1738939103,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 278632,
       "num": 225795,
       "word": "四川一密室逃脱男玩家猥亵女性员工",
@@ -1153,6 +1169,14 @@
       "onboard_time": 1738896622,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 274508,
+      "num": 274508,
+      "word": "李宇春哪吒",
+      "onboard_time": 1738936763,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 274047,
@@ -1217,6 +1241,14 @@
       "onboard_time": 1738914561,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 263602,
+      "num": 263602,
+      "word": "班主任寒假家访遭各种理由拒绝",
+      "onboard_time": 1738937064,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 259033,
@@ -1291,6 +1323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 249289,
+      "num": 249289,
+      "word": "美国超2千万人感染流感死亡超1.1万",
+      "onboard_time": 1738932923,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 247507,
       "num": 229300,
       "word": "男子旅游停车两三天感慨天塌了",
@@ -1337,14 +1377,6 @@
       "onboard_time": 1738857024,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 240944,
-      "num": 240944,
-      "word": "刘诗诗演技",
-      "onboard_time": 1738937783,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 239975,
@@ -1499,14 +1531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 222650,
-      "num": 244829,
-      "word": "美国超2千万人感染流感死亡超1.1万",
-      "onboard_time": 1738932923,
-      "rank": 33,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 222098,
       "num": 179609,
       "word": "唐探1900柯南式凶手",
@@ -1537,22 +1561,6 @@
       "onboard_time": 1738919782,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 220767,
-      "num": 220767,
-      "word": "班主任寒假家访遭各种理由拒绝",
-      "onboard_time": 1738937064,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 218778,
-      "num": 218778,
-      "word": "李宇春哪吒",
-      "onboard_time": 1738936763,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 218258,
@@ -1699,12 +1707,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209709,
+      "num": 328719,
+      "word": "为无量仙翁配音大爷到片场才知配反派",
+      "onboard_time": 1738937424,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 207872,
       "num": 268265,
       "word": "邓超是感动还是动感呢",
       "onboard_time": 1738915701,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206204,
+      "num": 1092023,
+      "word": "哈尔滨亚冬会开幕",
+      "onboard_time": 1738933643,
+      "rank": 8,
+      "category": "国内时政,体育"
     },
     {
       "raw_hot": 206038,
@@ -1721,14 +1745,6 @@
       "onboard_time": 1738885338,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 205563,
-      "num": 1092023,
-      "word": "哈尔滨亚冬会开幕",
-      "onboard_time": 1738933643,
-      "rank": 8,
-      "category": "国内时政,体育"
     },
     {
       "raw_hot": 204607,
@@ -1963,6 +1979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187574,
+      "num": 187574,
+      "word": "陈哲远有效直播",
+      "onboard_time": 1738938144,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185369,
       "num": 185369,
       "word": "ADOR回应NewJeans改名",
@@ -1977,6 +2001,14 @@
       "onboard_time": 1738923802,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 185322,
+      "num": 185322,
+      "word": "小行星",
+      "onboard_time": 1738938564,
+      "rank": 38,
+      "category": "科学科普"
     },
     {
       "raw_hot": 185072,
@@ -2008,6 +2040,14 @@
       "word": "少女演少女不要太会演",
       "onboard_time": 1738929622,
       "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 183764,
+      "num": 183764,
+      "word": "白色橄榄树今晚这两集好甜",
+      "onboard_time": 1738938924,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -2152,6 +2192,14 @@
       "word": "李帝努直播",
       "onboard_time": 1738934243,
       "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 167036,
+      "num": 167036,
+      "word": "陈哲远梁洁直播妈妈也在",
+      "onboard_time": 1738938443,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -2627,6 +2675,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 127125,
+      "num": 165959,
+      "word": "路易斯读秒绝杀",
+      "onboard_time": 1738939103,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123777,
       "num": 123777,
       "word": "施罗德24小时换了四队",
@@ -2875,6 +2931,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 95029,
+      "num": 211931,
+      "word": "亚冬会丁香花",
+      "onboard_time": 1738938983,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92625,
       "num": 251607,
       "word": "王楚钦林诗栋战胜男双世一",
@@ -2896,6 +2960,14 @@
       "word": "男子500米中国选手全晋级",
       "onboard_time": 1738899567,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 88581,
+      "num": 249550,
+      "word": "加布里埃尔海港首球",
+      "onboard_time": 1738938684,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -3083,6 +3155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62930,
+      "num": 151800,
+      "word": "大同一商铺被工作人员撬锁开灯",
+      "onboard_time": 1738938924,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62703,
       "num": 879273,
       "word": "寒潮大风天气安全出行小贴士",
@@ -3131,6 +3211,14 @@
       "category": "体育,电影"
     },
     {
+      "raw_hot": 58504,
+      "num": 329419,
+      "word": "开幕式烟花",
+      "onboard_time": 1738938684,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56721,
       "num": 244822,
       "word": "男子冰球小组赛中国8比0泰国",
@@ -3161,6 +3249,14 @@
       "onboard_time": 1738884256,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 53424,
+      "num": 232978,
+      "word": "大同古城街道就破门亮灯致歉",
+      "onboard_time": 1738938803,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52656,
@@ -3371,14 +3467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 35776,
-      "num": 290516,
-      "word": "为无量仙翁配音大爷到片场才知配反派",
-      "onboard_time": 1738937424,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 35680,
       "num": 207079,
       "word": "唐探1900系列笑话",
@@ -3411,6 +3499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33930,
+      "num": 914646,
+      "word": "中国队入场赢得全场欢呼",
+      "onboard_time": 1738938623,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32568,
       "num": 233337,
       "word": "陈幸同vs早田希娜",
@@ -3425,6 +3521,14 @@
       "onboard_time": 1738896682,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31588,
+      "num": 336185,
+      "word": "韩聪说担任执旗手激动又紧张",
+      "onboard_time": 1738938564,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 31053,
@@ -3641,6 +3745,14 @@
       "onboard_time": 1738865353,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14208,
+      "num": 337947,
+      "word": "亚冬会开幕式审美好绝",
+      "onboard_time": 1738938803,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 13818,
