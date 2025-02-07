@@ -1,0 +1,410 @@
+{
+  "runTime": 1738917650445,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1617682,
+        "num": 1617682,
+        "word": "演员严屹宽被指撞脸敖光",
+        "onboard_time": 1738909582,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1434947,
+        "num": 1434947,
+        "word": "九个月赚1亿公司多个分公司已注销",
+        "onboard_time": 1738914981,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55313,
+        "num": 1026712,
+        "word": "相约第九届亚冬会",
+        "onboard_time": 1738905204,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 992489,
+        "num": 992489,
+        "word": "研究发现一小行星7年后有概率撞地球",
+        "onboard_time": 1738912163,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 718175,
+        "num": 718175,
+        "word": "向涵之演技",
+        "onboard_time": 1738915463,
+        "rank": 4,
+        "category": "剧集,综艺"
+      },
+      {
+        "raw_hot": 549868,
+        "num": 549868,
+        "word": "黄旭华逝世",
+        "onboard_time": 1738897163,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 694852,
+        "num": 500028,
+        "word": "邓为第一部男主口碑",
+        "onboard_time": 1738910904,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 628920,
+        "num": 477740,
+        "word": "接哪吒后外包公司离职率陡升",
+        "onboard_time": 1738907123,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 418031,
+        "num": 418031,
+        "word": "哪吒2爆火保洁3倍工资还要求加钱",
+        "onboard_time": 1738896443,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264324,
+        "num": 417096,
+        "word": "联合国首次启动行星安全协议",
+        "onboard_time": 1738914561,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1761300,
+        "num": 416450,
+        "word": "李纯 马頔",
+        "onboard_time": 1738907902,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1067172,
+        "num": 414529,
+        "word": "20后宝宝都避开网红名了吗",
+        "onboard_time": 1738915943,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 541206,
+        "num": 414121,
+        "word": "哪吒的手镯",
+        "onboard_time": 1738912403,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 413081,
+        "num": 413081,
+        "word": "黄旭华为核潜艇隐姓埋名30年",
+        "onboard_time": 1738900228,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102978,
+        "num": 392704,
+        "word": "多家影院回应儿童观影免票",
+        "onboard_time": 1738916963,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 530287,
+        "num": 390396,
+        "word": "严屹宽回应撞脸敖光",
+        "onboard_time": 1738913181,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 384121,
+        "num": 384121,
+        "word": "苗苗选择和郑恺结婚的契机",
+        "onboard_time": 1738907482,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383987,
+        "num": 383987,
+        "word": "广州一男子通勤1年举报2277起违章",
+        "onboard_time": 1738913601,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52656,
+        "num": 374826,
+        "word": "村干部享副科级待遇近11年后被控诈骗",
+        "onboard_time": 1738916963,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197014,
+        "num": 371240,
+        "word": "檀健次将出席2025米兰时装周",
+        "onboard_time": 1738917083,
+        "rank": 19,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 418946,
+        "num": 370997,
+        "word": "哪吒2破64亿",
+        "onboard_time": 1738913181,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 370702,
+        "num": 370702,
+        "word": "有人1元拍下公司80%股权",
+        "onboard_time": 1738908082,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 368762,
+        "num": 368762,
+        "word": "杨子为了看黄圣依开废了一辆车",
+        "onboard_time": 1738911322,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337033,
+        "num": 337033,
+        "word": "种地吧返工直播",
+        "onboard_time": 1738912882,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67665,
+        "num": 318207,
+        "word": "詹姆斯40岁首个40分",
+        "onboard_time": 1738917324,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313007,
+        "num": 313007,
+        "word": "DeepSeek紧急说明",
+        "onboard_time": 1738903106,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 260110,
+        "num": 260110,
+        "word": "沈星回ooc",
+        "onboard_time": 1738909103,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 237291,
+        "num": 237291,
+        "word": "喝完一罐可乐后身体的变化",
+        "onboard_time": 1738916543,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 43066,
+        "num": 232413,
+        "word": "天津多处护栏被风吹倒行人接力扶起",
+        "onboard_time": 1738916184,
+        "rank": 28,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 24384,
+        "num": 232229,
+        "word": "帮哪吒维权",
+        "onboard_time": 1738917083,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 232153,
+        "num": 232153,
+        "word": "第一次见女主和女配调情和男主做恨",
+        "onboard_time": 1738916782,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218673,
+        "num": 218673,
+        "word": "博主卖DeepSeek相关课程1天收入50000元",
+        "onboard_time": 1738917324,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 217048,
+        "num": 217048,
+        "word": "短剧迎来真正大女主",
+        "onboard_time": 1738910122,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214154,
+        "num": 214154,
+        "word": "亚冬会开幕式分会场是冰雪大世界",
+        "onboard_time": 1738916241,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210971,
+        "num": 210971,
+        "word": "哪吒2",
+        "onboard_time": 1738914561,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 207872,
+        "num": 207872,
+        "word": "邓超是感动还是动感呢",
+        "onboard_time": 1738915701,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205124,
+        "num": 205124,
+        "word": "掌心",
+        "onboard_time": 1738901906,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202576,
+        "num": 202576,
+        "word": "李宇春春晚最满足的是近距离欣赏王菲演出",
+        "onboard_time": 1738916843,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202042,
+        "num": 202042,
+        "word": "黄旭华生前只戴母亲的围巾",
+        "onboard_time": 1738909163,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 194872,
+        "num": 194872,
+        "word": "有人把乌尔善告上天庭了",
+        "onboard_time": 1738915225,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189659,
+        "num": 189659,
+        "word": "十个勤天前来报到",
+        "onboard_time": 1738917022,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186879,
+        "num": 186879,
+        "word": "美国一架载有10人的飞机失踪",
+        "onboard_time": 1738914083,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 181068,
+        "num": 181068,
+        "word": "吉克隽逸练成了倒三角身材",
+        "onboard_time": 1738917562,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179525,
+        "num": 179525,
+        "word": "为什么苹果能把十年前的照片变成live",
+        "onboard_time": 1738906524,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 175402,
+        "num": 175402,
+        "word": "内蒙古一地发生重大刑案警方悬赏缉凶",
+        "onboard_time": 1738917503,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166922,
+        "num": 166922,
+        "word": "尔滨这温度林孝埈还露脚脖子",
+        "onboard_time": 1738914382,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160758,
+        "num": 160758,
+        "word": "敖瑞鹏师兄太稳健杀青应援",
+        "onboard_time": 1738916361,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158256,
+        "num": 158256,
+        "word": "赵丽颖新大片",
+        "onboard_time": 1738916659,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156353,
+        "num": 156353,
+        "word": "黄旭华生前深情告白祖国",
+        "onboard_time": 1738901726,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151753,
+        "num": 151753,
+        "word": "黄旭华生前珍贵画面",
+        "onboard_time": 1738917623,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#一个关键词看大国外交步履不停#"
+    }
+  }
+}
