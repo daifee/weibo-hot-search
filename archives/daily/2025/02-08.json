@@ -1,6 +1,6 @@
 {
   "startTime": 1738945672577,
-  "endTime": 1738970464343,
+  "endTime": 1738971344017,
   "band_list": [
     {
       "raw_hot": 1715829,
@@ -19,6 +19,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 721195,
+      "num": 55756,
+      "word": "中方回应巴方退出一带一路协议",
+      "onboard_time": 1738970898,
+      "rank": 30,
+      "category": "国内时政,国际时政"
+    },
+    {
       "raw_hot": 701146,
       "num": 298412,
       "word": "山东一婚姻登记处年后人满为患",
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 617643,
-      "num": 304886,
+      "num": 365457,
       "word": "饺子背了半个月终于有人问了",
       "onboard_time": 1738939224,
       "rank": 6,
@@ -131,6 +139,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 201283,
+      "num": 299292,
+      "word": "人民网评破门亮灯道歉不是终点",
+      "onboard_time": 1738941623,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199365,
       "num": 310146,
       "word": "程靖淇恋情官宣",
@@ -187,14 +203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171891,
-      "num": 299292,
-      "word": "人民网评破门亮灯道歉不是终点",
-      "onboard_time": 1738941623,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 161177,
       "num": 161177,
       "word": "哪吒2票房超68亿",
@@ -227,20 +235,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143980,
-      "num": 143980,
+      "raw_hot": 154295,
+      "num": 154295,
+      "word": "美国13州将提起诉讼阻止马斯克",
+      "onboard_time": 1738946057,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 150825,
+      "num": 150825,
       "word": "北京9级大风冷得发怵",
       "onboard_time": 1738965070,
       "rank": 16,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 139544,
-      "num": 149176,
-      "word": "美国13州将提起诉讼阻止马斯克",
-      "onboard_time": 1738946057,
-      "rank": 29,
-      "category": "国际时政"
+      "raw_hot": 150676,
+      "num": 150676,
+      "word": "饺子导演的毛衣400块",
+      "onboard_time": 1738970956,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 136138,
@@ -427,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80179,
+      "num": 80179,
+      "word": "尔滨已做好准备",
+      "onboard_time": 1738926743,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79730,
       "num": 79730,
       "word": "隋文静亚冬会开幕式导演",
@@ -491,6 +515,38 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46567,
+      "num": 377988,
+      "word": "亚冬会开幕式硬核超燃瞬间",
+      "onboard_time": 1738938504,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 46056,
+      "num": 84973,
+      "word": "时代峰峻辟谣张极恋爱",
+      "onboard_time": 1738970898,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 43522,
+      "num": 54964,
+      "word": "冰壶",
+      "onboard_time": 1738969634,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 39470,
+      "num": 54968,
+      "word": "亚冬会食堂400多种美食嘎嘎香",
+      "onboard_time": 1738969575,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 39102,
       "num": 39102,
       "word": "2024年江苏13市GDP出炉",
@@ -504,14 +560,6 @@
       "word": "百位家乡名人祝亚冬会圆满成功",
       "onboard_time": 1738946119,
       "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 37048,
-      "num": 336680,
-      "word": "亚冬会开幕式硬核超燃瞬间",
-      "onboard_time": 1738938504,
-      "rank": 2,
       "category": "体育"
     },
     {
@@ -571,27 +619,11 @@
       "category": "体育,国内时政"
     },
     {
-      "raw_hot": 21752,
-      "num": 54968,
-      "word": "亚冬会食堂400多种美食嘎嘎香",
-      "onboard_time": 1738969575,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 21443,
       "num": 54958,
       "word": "巴赫收到一份非遗礼物",
       "onboard_time": 1738962671,
       "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 20861,
-      "num": 54964,
-      "word": "冰壶",
-      "onboard_time": 1738969634,
-      "rank": 45,
       "category": "体育"
     },
     {
@@ -649,6 +681,14 @@
       "onboard_time": 1738944260,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 14378,
+      "num": 61681,
+      "word": "人社局工作人员辱骂办事群众被停职",
+      "onboard_time": 1738971136,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14306,
