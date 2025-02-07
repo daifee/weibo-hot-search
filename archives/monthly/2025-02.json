@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738924881625,
+  "endTime": 1738927129800,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1211,6 +1211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1040743,
+      "num": 400632,
+      "word": "张馨予消失的头发回来了",
+      "onboard_time": 1738923142,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1040634,
       "num": 1040634,
       "word": "您的五块正在骂您的三千块",
@@ -1587,6 +1595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 865060,
+      "num": 541151,
+      "word": "饺子导演将登顶中国导演总票房第一",
+      "onboard_time": 1738924220,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 862167,
       "num": 862167,
       "word": "袁隆平黄旭华生前同框看哭了",
@@ -1604,7 +1620,7 @@
     },
     {
       "raw_hot": 858522,
-      "num": 255632,
+      "num": 275737,
       "word": "丁克婚姻20年丈夫竟和别人生子",
       "onboard_time": 1738922841,
       "rank": 20,
@@ -1744,14 +1760,6 @@
       "word": "蒋欣自曝保持身材的秘诀",
       "onboard_time": 1738390157,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 815143,
-      "num": 367224,
-      "word": "张馨予消失的头发回来了",
-      "onboard_time": 1738923142,
-      "rank": 19,
       "category": "艺人"
     },
     {
@@ -1937,6 +1945,14 @@
       "onboard_time": 1738500920,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 749110,
+      "num": 407468,
+      "word": "哪吒导演签名竟然是画哪吒",
+      "onboard_time": 1738925242,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 748145,
@@ -2891,12 +2907,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 550025,
+      "num": 399327,
+      "word": "俞灏明王晓晨韩国约会",
+      "onboard_time": 1738925782,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 549528,
       "num": 601876,
       "word": "春节戒断反应",
       "onboard_time": 1738713798,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 547777,
+      "num": 403678,
+      "word": "哪吒2破66亿元",
+      "onboard_time": 1738923142,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 547582,
@@ -3921,14 +3953,6 @@
       "onboard_time": 1738918282,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 435660,
-      "num": 315520,
-      "word": "哪吒2破66亿元",
-      "onboard_time": 1738923142,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 434832,
@@ -5307,6 +5331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 323153,
+      "num": 265843,
+      "word": "王者荣耀1月收入达近42个月最高值",
+      "onboard_time": 1738923682,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 322598,
       "num": 377034,
       "word": "梁洁女主实绩",
@@ -5411,14 +5443,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 313830,
-      "num": 313830,
-      "word": "饺子导演将登顶中国导演总票房第一",
-      "onboard_time": 1738924220,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 313389,
       "num": 313389,
       "word": "掌心",
@@ -5500,7 +5524,7 @@
     },
     {
       "raw_hot": 308638,
-      "num": 308638,
+      "num": 402613,
       "word": "冰雪同梦亚洲同心",
       "onboard_time": 1738923682,
       "rank": 18,
@@ -5875,6 +5899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 285592,
+      "num": 285592,
+      "word": "陈哲远梁洁cha了法海你不懂爱",
+      "onboard_time": 1738925062,
+      "rank": 17,
+      "category": "剧集,综艺"
+    },
+    {
       "raw_hot": 285418,
       "num": 285418,
       "word": "射雕票房破6亿",
@@ -6124,7 +6156,7 @@
     },
     {
       "raw_hot": 270893,
-      "num": 270893,
+      "num": 397493,
       "word": "马龙王楚钦受邀参加双奥北京项目",
       "onboard_time": 1738922241,
       "rank": 16,
@@ -6601,14 +6633,6 @@
       "onboard_time": 1738474338,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 250773,
-      "num": 250773,
-      "word": "王者荣耀1月收入达近42个月最高值",
-      "onboard_time": 1738923682,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 250611,
@@ -7731,6 +7755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 218567,
+      "num": 218567,
+      "word": "刘诗诗掌心口碑",
+      "onboard_time": 1738924220,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218198,
       "num": 681551,
       "word": "刘少昂1500米破赛会纪录",
@@ -7753,6 +7785,14 @@
       "onboard_time": 1738410199,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 217714,
+      "num": 277204,
+      "word": "林诗栋4比1林昀儒",
+      "onboard_time": 1738926203,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 217390,
@@ -7787,12 +7827,28 @@
       "category": "国内时政,电影"
     },
     {
+      "raw_hot": 216841,
+      "num": 216841,
+      "word": "红了25年也帅了25年的男主",
+      "onboard_time": 1738926142,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216285,
       "num": 216285,
       "word": "叶平安下雨天穿白裙子",
       "onboard_time": 1738915701,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216248,
+      "num": 406087,
+      "word": "尔滨已做好准备",
+      "onboard_time": 1738926743,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 216115,
@@ -7905,6 +7961,14 @@
       "onboard_time": 1738757604,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 214073,
+      "num": 214073,
+      "word": "饼饼可爱",
+      "onboard_time": 1738925062,
+      "rank": 32,
+      "category": "动漫"
     },
     {
       "raw_hot": 213642,
@@ -8024,14 +8088,6 @@
       "word": "85花来给复仇剧上强度了",
       "onboard_time": 1738750164,
       "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 211046,
-      "num": 211046,
-      "word": "刘诗诗掌心口碑",
-      "onboard_time": 1738924220,
-      "rank": 28,
       "category": "剧集"
     },
     {
@@ -8465,6 +8521,14 @@
       "onboard_time": 1738729585,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203403,
+      "num": 203403,
+      "word": "宋亚轩 好大的风啊",
+      "onboard_time": 1738926081,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 203369,
@@ -10795,6 +10859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166155,
+      "num": 174361,
+      "word": "卢昱晓直播好多人啊",
+      "onboard_time": 1738925542,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166062,
       "num": 166062,
       "word": "肖战目光如炬",
@@ -11089,6 +11161,14 @@
       "onboard_time": 1738408098,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161644,
+      "num": 161644,
+      "word": "四川一密室逃脱男玩家猥亵女性员工",
+      "onboard_time": 1738926743,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161636,
@@ -12035,6 +12115,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 148956,
+      "num": 148956,
+      "word": "留几手没有帮葛夕提行李箱的原因",
+      "onboard_time": 1738926922,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148561,
       "num": 300719,
       "word": "王楚钦林诗栋vs卡尔森法尔克",
@@ -12305,6 +12393,14 @@
       "onboard_time": 1738915282,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144365,
+      "num": 144365,
+      "word": "赫海",
+      "onboard_time": 1738924882,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 144312,
@@ -13499,6 +13595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128647,
+      "num": 128647,
+      "word": "唐探1900柯南式凶手",
+      "onboard_time": 1738927101,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 128574,
       "num": 128574,
       "word": "女主催眠夺命老头一秒领盒饭",
@@ -14211,6 +14315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118829,
+      "num": 269351,
+      "word": "樊振东没有停下脚步",
+      "onboard_time": 1738925962,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118754,
       "num": 118754,
       "word": "亚冬会倒计时1天",
@@ -14801,6 +14913,14 @@
       "onboard_time": 1738830862,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110592,
+      "num": 174900,
+      "word": "5年前的哪吒手镯价格已翻倍",
+      "onboard_time": 1738925302,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 110553,
@@ -16859,6 +16979,14 @@
       "category": "民生新闻,美食"
     },
     {
+      "raw_hot": 71687,
+      "num": 271351,
+      "word": "NewJeans新经纪公司将成立",
+      "onboard_time": 1738926982,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71580,
       "num": 374910,
       "word": "第五代EA888机皇",
@@ -17721,6 +17849,14 @@
       "onboard_time": 1738754546,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 50889,
+      "num": 393607,
+      "word": "律师谈大同街道破门亮灯事件",
+      "onboard_time": 1738925542,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50670,
@@ -19139,6 +19275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 21128,
+      "num": 601623,
+      "word": "中国红冰雪白一起扮靓尔滨",
+      "onboard_time": 1738882093,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 20671,
       "num": 23761,
       "word": "特朗普坚称其加沙提议每个人都喜欢",
@@ -19169,14 +19313,6 @@
       "onboard_time": 1738396938,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19766,
-      "num": 601623,
-      "word": "中国红冰雪白一起扮靓尔滨",
-      "onboard_time": 1738882093,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 19755,
