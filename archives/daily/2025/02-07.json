@@ -1,6 +1,6 @@
 {
   "startTime": 1738859204643,
-  "endTime": 1738899716296,
+  "endTime": 1738902405970,
   "band_list": [
     {
       "raw_hot": 10208509,
@@ -91,6 +91,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 862167,
+      "num": 862167,
+      "word": "袁隆平黄旭华生前同框看哭了",
+      "onboard_time": 1738900105,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 820448,
       "num": 806672,
       "word": "官方通报破门亮灯事件",
@@ -100,11 +108,19 @@
     },
     {
       "raw_hot": 797904,
-      "num": 611620,
+      "num": 654477,
       "word": "哪吒2票房大半要分给影院",
       "onboard_time": 1738890623,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 659187,
+      "num": 659187,
+      "word": "我的一生属于核潜艇属于祖国",
+      "onboard_time": 1738899448,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 659131,
@@ -113,6 +129,14 @@
       "onboard_time": 1738857441,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 656182,
+      "num": 656182,
+      "word": "黄旭华为核潜艇隐姓埋名30年",
+      "onboard_time": 1738900228,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 650966,
@@ -129,6 +153,14 @@
       "onboard_time": 1738890623,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 617915,
+      "num": 617915,
+      "word": "黄旭华院士生平",
+      "onboard_time": 1738898966,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 617155,
@@ -204,7 +236,7 @@
     },
     {
       "raw_hot": 471476,
-      "num": 441293,
+      "num": 446087,
       "word": "玄彬炫耀了一晚上老婆孩子",
       "onboard_time": 1738897584,
       "rank": 18,
@@ -227,12 +259,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 429422,
+      "num": 429422,
+      "word": "百亿影帝全身照",
+      "onboard_time": 1738899806,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 409570,
       "num": 409570,
       "word": "大同街道就破门亮灯致歉",
       "onboard_time": 1738891282,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 407438,
+      "num": 407438,
+      "word": "丁禹兮杨超越或将二搭",
+      "onboard_time": 1738902146,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 373726,
@@ -265,6 +313,22 @@
       "onboard_time": 1738839504,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 347944,
+      "num": 347944,
+      "word": "封神2被从大影厅赶到小影厅",
+      "onboard_time": 1738901429,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 342937,
+      "num": 342937,
+      "word": "DeepSeek",
+      "onboard_time": 1738899388,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 341422,
@@ -307,6 +371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 317754,
+      "num": 317754,
+      "word": "比窦娥还冤的女主出现了",
+      "onboard_time": 1738901545,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 317289,
       "num": 317289,
       "word": "哪吒2海外上映购票观众发声",
@@ -347,12 +419,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 285756,
+      "num": 668308,
+      "word": "全场为林孝埈欢呼",
+      "onboard_time": 1738898905,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 285313,
       "num": 285313,
       "word": "网友爸爸去世多年微信账号突然消失",
       "onboard_time": 1738850186,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 284644,
+      "num": 284644,
+      "word": "小蛇糕",
+      "onboard_time": 1738901785,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 275538,
+      "num": 275538,
+      "word": "掌心",
+      "onboard_time": 1738901906,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 275091,
@@ -371,6 +467,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 271919,
+      "num": 674020,
+      "word": "黄旭华生前深情告白祖国",
+      "onboard_time": 1738901726,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 270516,
       "num": 254120,
       "word": "妻子招待完丈夫朋友后被一顿猛夸",
@@ -385,6 +489,14 @@
       "onboard_time": 1738888523,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 265673,
+      "num": 265673,
+      "word": "掌心开播",
+      "onboard_time": 1738901668,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 257549,
@@ -403,12 +515,12 @@
       "category": "数码,互联网"
     },
     {
-      "raw_hot": 250861,
-      "num": 466241,
-      "word": "黄旭华院士生平",
-      "onboard_time": 1738898966,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 248167,
+      "num": 473323,
+      "word": "仙台有树男版花千骨",
+      "onboard_time": 1738901726,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 247507,
@@ -419,20 +531,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 244679,
-      "num": 244679,
-      "word": "DeepSeek",
-      "onboard_time": 1738899388,
-      "rank": 23,
-      "category": "互联网"
+      "raw_hot": 246646,
+      "num": 246646,
+      "word": "帅脸背后是另一张帅脸",
+      "onboard_time": 1738899866,
+      "rank": 34,
+      "category": "艺人"
     },
     {
-      "raw_hot": 243583,
-      "num": 243583,
-      "word": "我的一生属于核潜艇属于祖国",
-      "onboard_time": 1738899448,
-      "rank": 24,
+      "raw_hot": 245286,
+      "num": 245286,
+      "word": "缅怀中国核潜艇之父黄旭华",
+      "onboard_time": 1738901965,
+      "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 243989,
+      "num": 243989,
+      "word": "缅甸向泰国移交61名电诈受害者",
+      "onboard_time": 1738900765,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 242753,
@@ -451,6 +571,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 229310,
+      "num": 229310,
+      "word": "CIA对华情报人员被邮件曝光名字",
+      "onboard_time": 1738899926,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 227986,
+      "num": 227986,
+      "word": "恋与深空狼尾新发型",
+      "onboard_time": 1738899448,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 227782,
       "num": 132511,
       "word": "官方通报张家界一游客点2个菜844元",
@@ -459,12 +595,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 227740,
+      "num": 227740,
+      "word": "祁煜反叛者首领",
+      "onboard_time": 1738901726,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 225324,
+      "num": 243511,
+      "word": "周深凯旋门错位图",
+      "onboard_time": 1738899866,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 223152,
+      "num": 223152,
+      "word": "iPhoneSE4本月或上市",
+      "onboard_time": 1738901126,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 222000,
       "num": 470825,
       "word": "雄安集团招聘数万人是假消息",
       "onboard_time": 1738896982,
       "rank": 40,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 218672,
+      "num": 346656,
+      "word": "王者新英雄空空儿即将上线体验服",
+      "onboard_time": 1738899506,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 218258,
@@ -491,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213812,
+      "num": 213812,
+      "word": "为什么大奉打更人爆尾",
+      "onboard_time": 1738902265,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210041,
       "num": 196665,
       "word": "李心艾官宣怀孕",
@@ -507,20 +683,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204607,
+      "num": 204607,
+      "word": "饺子导演画不完根本画不完",
+      "onboard_time": 1738898487,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 203768,
+      "num": 203768,
+      "word": "A股",
+      "onboard_time": 1738897826,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 203369,
       "num": 329198,
       "word": "跨境电商企业称已出现包裹滞留",
       "onboard_time": 1738897523,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 203369,
-      "num": 210199,
-      "word": "恋与深空狼尾新发型",
-      "onboard_time": 1738899448,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 200121,
@@ -531,28 +715,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199386,
+      "num": 199386,
+      "word": "近8千订酒店提前半个月退款被拒",
+      "onboard_time": 1738902386,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199329,
       "num": 199329,
       "word": "悬赏5万的走失宠物狗遭烹饪分食",
       "onboard_time": 1738840404,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 198975,
-      "num": 198975,
-      "word": "A股",
-      "onboard_time": 1738897826,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 198013,
-      "num": 198013,
-      "word": "王者新英雄空空儿即将上线体验服",
-      "onboard_time": 1738899506,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 194200,
@@ -569,14 +745,6 @@
       "onboard_time": 1738818210,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 189208,
-      "num": 189208,
-      "word": "饺子导演画不完根本画不完",
-      "onboard_time": 1738898487,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 188660,
@@ -611,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179669,
+      "num": 434637,
+      "word": "刘少昂1500米破赛会纪录",
+      "onboard_time": 1738899506,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176205,
       "num": 164296,
       "word": "哪吒2海外上映已场场爆满",
@@ -632,14 +808,6 @@
       "word": "短道速滑",
       "onboard_time": 1738893261,
       "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 161785,
-      "num": 210078,
-      "word": "全场为林孝埈欢呼",
-      "onboard_time": 1738898905,
-      "rank": 29,
       "category": "体育"
     },
     {
@@ -812,7 +980,7 @@
     },
     {
       "raw_hot": 119898,
-      "num": 146895,
+      "num": 245360,
       "word": "吉利新车型可醇可电可油",
       "onboard_time": 1738899567,
       "rank": 43,
@@ -920,14 +1088,6 @@
       "word": "男子500米中国选手全晋级",
       "onboard_time": 1738899567,
       "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 90069,
-      "num": 194234,
-      "word": "刘少昂1500米破赛会纪录",
-      "onboard_time": 1738899506,
-      "rank": 35,
       "category": "体育"
     },
     {
@@ -1115,6 +1275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31839,
+      "num": 446613,
+      "word": "王一博祝中国健儿再创佳绩",
+      "onboard_time": 1738901785,
+      "rank": 17,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 31053,
       "num": 47571,
       "word": "王楚钦再次呼吁不要开闪光灯",
@@ -1129,6 +1297,14 @@
       "onboard_time": 1738869492,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27509,
+      "num": 450111,
+      "word": "沪指重返3300点",
+      "onboard_time": 1738902146,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 26381,
