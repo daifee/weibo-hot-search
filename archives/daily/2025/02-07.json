@@ -1,6 +1,6 @@
 {
   "startTime": 1738859204643,
-  "endTime": 1738920207967,
+  "endTime": 1738921015304,
   "band_list": [
     {
       "raw_hot": 10208509,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2773326,
-      "num": 674454,
+      "num": 691236,
       "word": "李纯 马頔",
       "onboard_time": 1738907902,
       "rank": 10,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1676761,
-      "num": 689115,
+      "num": 856485,
       "word": "种地吧返工直播",
       "onboard_time": 1738912882,
       "rank": 3,
@@ -155,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 972771,
+      "num": 972771,
+      "word": "内蒙古一地发生重大刑案警方悬赏缉凶",
+      "onboard_time": 1738917503,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 968281,
       "num": 526730,
       "word": "男子花18万闪婚仅半天新娘不见了",
@@ -168,14 +176,6 @@
       "word": "骑手因包装破损被华为店索赔一万五",
       "onboard_time": 1738858462,
       "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 945947,
-      "num": 945947,
-      "word": "内蒙古一地发生重大刑案警方悬赏缉凶",
-      "onboard_time": 1738917503,
-      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -251,6 +251,14 @@
       "category": "剧集,综艺"
     },
     {
+      "raw_hot": 706584,
+      "num": 706584,
+      "word": "博主卖DeepSeek相关课程1天收入50000元",
+      "onboard_time": 1738917324,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 664917,
       "num": 664917,
       "word": "DeepSeek紧急说明",
@@ -313,14 +321,6 @@
       "onboard_time": 1738911322,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 630148,
-      "num": 630148,
-      "word": "博主卖DeepSeek相关课程1天收入50000元",
-      "onboard_time": 1738917324,
-      "rank": 31,
-      "category": "互联网"
     },
     {
       "raw_hot": 627469,
@@ -521,6 +521,14 @@
       "onboard_time": 1738918282,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 430762,
+      "num": 298647,
+      "word": "原来这就是脂肪肝",
+      "onboard_time": 1738920741,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 429422,
@@ -724,7 +732,7 @@
     },
     {
       "raw_hot": 308304,
-      "num": 308304,
+      "num": 638900,
       "word": "黄旭华生前珍贵画面",
       "onboard_time": 1738917623,
       "rank": 49,
@@ -819,8 +827,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 272490,
-      "num": 272490,
+      "raw_hot": 274047,
+      "num": 274047,
       "word": "喝完一罐可乐后身体的变化",
       "onboard_time": 1738916543,
       "rank": 42,
@@ -915,6 +923,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 252753,
+      "num": 298761,
+      "word": "恋与深空明日无处可逃",
+      "onboard_time": 1738920083,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 251936,
       "num": 675360,
       "word": "亚冬会开幕式分会场是冰雪大世界",
@@ -969,6 +985,14 @@
       "onboard_time": 1738913243,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 239787,
+      "num": 239787,
+      "word": "哪吒2票房",
+      "onboard_time": 1738919241,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 238959,
@@ -1105,6 +1129,14 @@
       "onboard_time": 1738905923,
       "rank": 17,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 219614,
+      "num": 219614,
+      "word": "无量仙翁爆改肌肉猛男突然合理了",
+      "onboard_time": 1738920561,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 218258,
@@ -1331,6 +1363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193152,
+      "num": 193152,
+      "word": "西施情人节限定",
+      "onboard_time": 1738919782,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 189659,
       "num": 189659,
       "word": "十个勤天前来报到",
@@ -1435,28 +1475,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178224,
-      "num": 178224,
-      "word": "哪吒2票房",
-      "onboard_time": 1738919241,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 176683,
       "num": 311533,
       "word": "黄渤饰演姜子牙最难的是年龄差",
       "onboard_time": 1738903228,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 176551,
-      "num": 176551,
-      "word": "西施情人节限定",
-      "onboard_time": 1738919782,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 176205,
@@ -1547,14 +1571,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 159223,
-      "num": 180360,
-      "word": "恋与深空明日无处可逃",
-      "onboard_time": 1738920083,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 158724,
       "num": 175515,
       "word": "跟着尔滨大雪人看亚冬会",
@@ -1577,6 +1593,22 @@
       "onboard_time": 1738898427,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153708,
+      "num": 232229,
+      "word": "帮哪吒维权",
+      "onboard_time": 1738917083,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 152440,
+      "num": 299715,
+      "word": "林孝埈拿过短道所有单项金牌",
+      "onboard_time": 1738919122,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 152076,
@@ -1641,6 +1673,14 @@
       "onboard_time": 1738915282,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144046,
+      "num": 144046,
+      "word": "再就业男团迪拜送礼还是国货",
+      "onboard_time": 1738920922,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 143969,
@@ -1867,6 +1907,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 107371,
+      "num": 215335,
+      "word": "美国国际开发署被爆几乎全员被裁",
+      "onboard_time": 1738920863,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 107195,
       "num": 107195,
       "word": "骑士起飞了",
@@ -2051,6 +2099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79801,
+      "num": 1097708,
+      "word": "HarbinTravel的含金量还在上升",
+      "onboard_time": 1738919001,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79593,
       "num": 420742,
       "word": "女子1500米中国队全晋级",
@@ -2139,6 +2195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62703,
+      "num": 879273,
+      "word": "寒潮大风天气安全出行小贴士",
+      "onboard_time": 1738919122,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59730,
       "num": 107495,
       "word": "寒潮之下各地到底有多冷",
@@ -2163,14 +2227,6 @@
       "category": "体育,电影"
     },
     {
-      "raw_hot": 58274,
-      "num": 1097708,
-      "word": "HarbinTravel的含金量还在上升",
-      "onboard_time": 1738919001,
-      "rank": 2,
-      "category": "体育"
-    },
-    {
       "raw_hot": 56721,
       "num": 244822,
       "word": "男子冰球小组赛中国8比0泰国",
@@ -2193,14 +2249,6 @@
       "onboard_time": 1738884256,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 53807,
-      "num": 299715,
-      "word": "林孝埈拿过短道所有单项金牌",
-      "onboard_time": 1738919122,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 52656,
@@ -2259,20 +2307,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 49211,
-      "num": 674471,
-      "word": "寒潮大风天气安全出行小贴士",
-      "onboard_time": 1738919122,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 48734,
       "num": 81429,
       "word": "六姊妹剧评六到飞起",
       "onboard_time": 1738861875,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 45162,
+      "num": 216036,
+      "word": "林孝埈翻花手",
+      "onboard_time": 1738920741,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 43084,
@@ -2403,6 +2451,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 30241,
+      "num": 287826,
+      "word": "黄旭华99岁人生热血难凉",
+      "onboard_time": 1738920683,
+      "rank": 22,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 29051,
       "num": 500394,
       "word": "哪吒2背后是130多家中国动画公司",
@@ -2451,6 +2507,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 25480,
+      "num": 386377,
+      "word": "结界兽互殴算不算破坏文物",
+      "onboard_time": 1738920624,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 25317,
       "num": 28941,
       "word": "周宪怎么胖成这样了",
@@ -2472,14 +2536,6 @@
       "word": "专访哪吒2动画导演",
       "onboard_time": 1738867032,
       "rank": 48,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 24384,
-      "num": 232229,
-      "word": "帮哪吒维权",
-      "onboard_time": 1738917083,
-      "rank": 29,
       "category": "电影"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738920207967,
+  "endTime": 1738921015304,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 2773326,
-      "num": 674454,
+      "num": 691236,
       "word": "李纯 马頔",
       "onboard_time": 1738907902,
       "rank": 10,
@@ -580,7 +580,7 @@
     },
     {
       "raw_hot": 1676761,
-      "num": 689115,
+      "num": 856485,
       "word": "种地吧返工直播",
       "onboard_time": 1738912882,
       "rank": 3,
@@ -1347,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 972771,
+      "num": 972771,
+      "word": "内蒙古一地发生重大刑案警方悬赏缉凶",
+      "onboard_time": 1738917503,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 968293,
       "num": 1154926,
       "word": "泰国将对泰缅边境的缅甸地区断电",
@@ -1408,14 +1416,6 @@
       "word": "骑手因包装破损被华为店索赔一万五",
       "onboard_time": 1738858462,
       "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 945947,
-      "num": 945947,
-      "word": "内蒙古一地发生重大刑案警方悬赏缉凶",
-      "onboard_time": 1738917503,
-      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -2027,6 +2027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 706584,
+      "num": 706584,
+      "word": "博主卖DeepSeek相关课程1天收入50000元",
+      "onboard_time": 1738917324,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 706183,
       "num": 706183,
       "word": "丁禹兮包场请大家看哪吒",
@@ -2441,14 +2449,6 @@
       "onboard_time": 1738757124,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 630148,
-      "num": 630148,
-      "word": "博主卖DeepSeek相关课程1天收入50000元",
-      "onboard_time": 1738917324,
-      "rank": 31,
-      "category": "互联网"
     },
     {
       "raw_hot": 627469,
@@ -3929,6 +3929,14 @@
       "onboard_time": 1738741882,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 430762,
+      "num": 298647,
+      "word": "原来这就是脂肪肝",
+      "onboard_time": 1738920741,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 430652,
@@ -5428,7 +5436,7 @@
     },
     {
       "raw_hot": 308304,
-      "num": 308304,
+      "num": 638900,
       "word": "黄旭华生前珍贵画面",
       "onboard_time": 1738917623,
       "rank": 49,
@@ -5963,6 +5971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 274047,
+      "num": 274047,
+      "word": "喝完一罐可乐后身体的变化",
+      "onboard_time": 1738916543,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 274041,
       "num": 261757,
       "word": "男子恋爱1年不知24岁女友竟有俩娃",
@@ -5993,14 +6009,6 @@
       "onboard_time": 1738813163,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 272490,
-      "num": 272490,
-      "word": "喝完一罐可乐后身体的变化",
-      "onboard_time": 1738916543,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 272270,
@@ -6457,6 +6465,14 @@
       "onboard_time": 1738365613,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 252753,
+      "num": 298761,
+      "word": "恋与深空明日无处可逃",
+      "onboard_time": 1738920083,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 251990,
@@ -7561,6 +7577,14 @@
       "onboard_time": 1738655964,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 219614,
+      "num": 219614,
+      "word": "无量仙翁爆改肌肉猛男突然合理了",
+      "onboard_time": 1738920561,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 219523,
@@ -8915,6 +8939,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 193152,
+      "num": 193152,
+      "word": "西施情人节限定",
+      "onboard_time": 1738919782,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193151,
       "num": 193151,
       "word": "陈哲远不是天选是严选",
@@ -10009,14 +10041,6 @@
       "onboard_time": 1738903228,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 176551,
-      "num": 176551,
-      "word": "西施情人节限定",
-      "onboard_time": 1738919782,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 176537,
@@ -11139,14 +11163,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 159223,
-      "num": 180360,
-      "word": "恋与深空明日无处可逃",
-      "onboard_time": 1738920083,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 159125,
       "num": 159125,
       "word": "憋一周就为这一秒爽",
@@ -11555,6 +11571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153708,
+      "num": 232229,
+      "word": "帮哪吒维权",
+      "onboard_time": 1738917083,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 153596,
       "num": 153596,
       "word": "剑网3",
@@ -11617,6 +11641,14 @@
       "onboard_time": 1738394117,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 152440,
+      "num": 299715,
+      "word": "林孝埈拿过短道所有单项金牌",
+      "onboard_time": 1738919122,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 152267,
@@ -12185,6 +12217,14 @@
       "onboard_time": 1738453514,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144046,
+      "num": 144046,
+      "word": "再就业男团迪拜送礼还是国货",
+      "onboard_time": 1738920922,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 143978,
@@ -14867,6 +14907,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 107371,
+      "num": 215335,
+      "word": "美国国际开发署被爆几乎全员被裁",
+      "onboard_time": 1738920863,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 107370,
       "num": 262508,
       "word": "大年初六22点10分迎来立春",
@@ -16355,6 +16403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79801,
+      "num": 1097708,
+      "word": "HarbinTravel的含金量还在上升",
+      "onboard_time": 1738919001,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79787,
       "num": 79787,
       "word": "妈妈20年前用60盒录像带记录儿子",
@@ -16987,6 +17043,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 62703,
+      "num": 879273,
+      "word": "寒潮大风天气安全出行小贴士",
+      "onboard_time": 1738919122,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62650,
       "num": 257906,
       "word": "巴特勒将穿勇士10号",
@@ -17153,14 +17217,6 @@
       "onboard_time": 1738902507,
       "rank": 8,
       "category": "体育,电影"
-    },
-    {
-      "raw_hot": 58274,
-      "num": 1097708,
-      "word": "HarbinTravel的含金量还在上升",
-      "onboard_time": 1738919001,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 57685,
@@ -17361,14 +17417,6 @@
       "onboard_time": 1738751364,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 53807,
-      "num": 299715,
-      "word": "林孝埈拿过短道所有单项金牌",
-      "onboard_time": 1738919122,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 53729,
@@ -17603,14 +17651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 49211,
-      "num": 674471,
-      "word": "寒潮大风天气安全出行小贴士",
-      "onboard_time": 1738919122,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 49075,
       "num": 163762,
       "word": "港股半导体板块全线大涨",
@@ -17745,6 +17785,14 @@
       "onboard_time": 1738494859,
       "rank": 32,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 45162,
+      "num": 216036,
+      "word": "林孝埈翻花手",
+      "onboard_time": 1738920741,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 44678,
@@ -18427,6 +18475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 30241,
+      "num": 287826,
+      "word": "黄旭华99岁人生热血难凉",
+      "onboard_time": 1738920683,
+      "rank": 22,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 29678,
       "num": 49429,
       "word": "华山环卫工手抓铁链背对悬崖扫雪",
@@ -18675,6 +18731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25480,
+      "num": 386377,
+      "word": "结界兽互殴算不算破坏文物",
+      "onboard_time": 1738920624,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 25317,
       "num": 28941,
       "word": "周宪怎么胖成这样了",
@@ -18761,14 +18825,6 @@
       "onboard_time": 1738813524,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24384,
-      "num": 232229,
-      "word": "帮哪吒维权",
-      "onboard_time": 1738917083,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 23946,
