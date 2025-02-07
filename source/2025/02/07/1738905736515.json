@@ -1,0 +1,410 @@
+{
+  "runTime": 1738905736515,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5612837,
+        "num": 5612837,
+        "word": "黄旭华逝世",
+        "onboard_time": 1738897163,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1235093,
+        "num": 1235093,
+        "word": "哪吒2爆火保洁3倍工资还要求加钱",
+        "onboard_time": 1738896443,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76457,
+        "num": 1106125,
+        "word": "相约第九届亚冬会",
+        "onboard_time": 1738905204,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1034595,
+        "num": 1034595,
+        "word": "封神2被从大影厅赶到小影厅",
+        "onboard_time": 1738901429,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 711149,
+        "num": 711149,
+        "word": "电影院按摩椅背后公司九个月赚1亿",
+        "onboard_time": 1738902566,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 697637,
+        "num": 697637,
+        "word": "恋与深空",
+        "onboard_time": 1738890983,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 690804,
+        "num": 690804,
+        "word": "为什么大奉打更人爆尾",
+        "onboard_time": 1738902265,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 648295,
+        "num": 648295,
+        "word": "哪吒2破63亿",
+        "onboard_time": 1738893742,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 636448,
+        "num": 636448,
+        "word": "黄旭华生前深情告白祖国",
+        "onboard_time": 1738901726,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 17960,
+        "num": 628731,
+        "word": "春节遇上亚冬会尔滨美食上强度了",
+        "onboard_time": 1738905027,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1339506,
+        "num": 628641,
+        "word": "马頔深夜发博",
+        "onboard_time": 1738903707,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 628302,
+        "num": 628302,
+        "word": "袁隆平黄旭华生前同框看哭了",
+        "onboard_time": 1738900105,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 604094,
+        "num": 604094,
+        "word": "黄旭华为核潜艇隐姓埋名30年",
+        "onboard_time": 1738900228,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 645890,
+        "num": 597951,
+        "word": "范思哲 蔡徐坤",
+        "onboard_time": 1738887500,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58797,
+        "num": 582258,
+        "word": "春节网订酒店到店后被要求加价200",
+        "onboard_time": 1738904844,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 580843,
+        "num": 580843,
+        "word": "伊能静带儿子和秦昊父母聚餐",
+        "onboard_time": 1738904064,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 565296,
+        "num": 565296,
+        "word": "哪吒2票房大半要分给影院",
+        "onboard_time": 1738890623,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 550645,
+        "num": 550645,
+        "word": "DeepSeek紧急说明",
+        "onboard_time": 1738903106,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 379643,
+        "num": 379643,
+        "word": "哪吒2若卖95亿饺子至少能分1.35亿",
+        "onboard_time": 1738887381,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 322598,
+        "num": 377034,
+        "word": "梁洁女主实绩",
+        "onboard_time": 1738903946,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 380189,
+        "num": 376562,
+        "word": "比窦娥还冤的女主出现了",
+        "onboard_time": 1738901545,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 375367,
+        "num": 375367,
+        "word": "王楚钦林诗栋晋级决赛",
+        "onboard_time": 1738904545,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 346652,
+        "num": 346652,
+        "word": "哪吒2距星球大战仅差4亿",
+        "onboard_time": 1738902806,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 318918,
+        "num": 318918,
+        "word": "韩某某投敌叛变48小时内被抓",
+        "onboard_time": 1738887321,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 228890,
+        "num": 311382,
+        "word": "黎深即时紊乱",
+        "onboard_time": 1738904725,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 95861,
+        "num": 310130,
+        "word": "于适爷们就要战斗",
+        "onboard_time": 1738901126,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 309159,
+        "num": 309159,
+        "word": "我的一生属于核潜艇属于祖国",
+        "onboard_time": 1738899448,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 307407,
+        "num": 307407,
+        "word": "百亿影帝全身照",
+        "onboard_time": 1738899806,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 307051,
+        "num": 307051,
+        "word": "TF 马柏全",
+        "onboard_time": 1738904486,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148043,
+        "num": 279914,
+        "word": "AI的细思极恐之处",
+        "onboard_time": 1738903707,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 265283,
+        "num": 265283,
+        "word": "敖丙皮套",
+        "onboard_time": 1738904486,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137746,
+        "num": 263491,
+        "word": "陈哲远梁洁不语只是一味肘击对方",
+        "onboard_time": 1738905144,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262993,
+        "num": 262993,
+        "word": "吴尊和老婆吵架从不过夜",
+        "onboard_time": 1738904844,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258318,
+        "num": 258318,
+        "word": "黄旭华院士生平",
+        "onboard_time": 1738898966,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 241463,
+        "num": 241463,
+        "word": "掌心",
+        "onboard_time": 1738901906,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101839,
+        "num": 234613,
+        "word": "离开安嘉和后部部都是好老公",
+        "onboard_time": 1738904125,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230592,
+        "num": 230592,
+        "word": "掌心质感",
+        "onboard_time": 1738905027,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227730,
+        "num": 227730,
+        "word": "NewJeans新组合名NJZ",
+        "onboard_time": 1738890623,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221527,
+        "num": 221527,
+        "word": "饺子成第六大票房导演",
+        "onboard_time": 1738905325,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 220321,
+        "num": 220321,
+        "word": "丁禹兮杨超越或将二搭",
+        "onboard_time": 1738902146,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213088,
+        "num": 213088,
+        "word": "仙台有树开播",
+        "onboard_time": 1738901668,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221824,
+        "num": 211606,
+        "word": "骑手因包装破损被华为店索赔一万五",
+        "onboard_time": 1738858462,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209118,
+        "num": 209118,
+        "word": "CIA对华情报人员被邮件曝光名字",
+        "onboard_time": 1738899926,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 208215,
+        "num": 208215,
+        "word": "仙台有树男版花千骨",
+        "onboard_time": 1738901726,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207596,
+        "num": 207596,
+        "word": "男子花18万闪婚仅半天新娘不见了",
+        "onboard_time": 1738894281,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205055,
+        "num": 205055,
+        "word": "哪吒",
+        "onboard_time": 1738840224,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185969,
+        "num": 185969,
+        "word": "掌心开播",
+        "onboard_time": 1738901668,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184788,
+        "num": 184788,
+        "word": "仙台有树特效",
+        "onboard_time": 1738904245,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17735,
+        "num": 175515,
+        "word": "跟着尔滨大雪人看亚冬会",
+        "onboard_time": 1738890623,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174266,
+        "num": 174266,
+        "word": "外国人也有春节戒断反应了",
+        "onboard_time": 1738904125,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视发展冰雪经济#"
+    }
+  }
+}
