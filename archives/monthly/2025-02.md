@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/02/01 00:26:54 ~ 2025/02/08 01:19:50
+本榜单时间：2025/02/01 00:26:54 ~ 2025/02/08 01:36:56
 </p>
 </blockquote>
 <p>
@@ -4755,6 +4755,12 @@ Angelababy相思令收官文（热度：301728）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E5%85%A8%E7%90%83%E5%8D%95%E4%B8%80%E5%B8%82%E5%9C%BA%E7%99%BB%E9%A1%B6%23" target="weibo">
+哪吒2全球单一市场登顶（热度：278104）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%9B%A0%E4%B8%BA%E8%8A%B1%E7%88%B6%E6%AF%8D%E7%9A%84%E9%92%B1%E8%80%8C%E6%84%9F%E5%88%B0%E5%86%85%E7%96%9A%23" target="weibo">
 不要因为花父母的钱而感到内疚（热度：278035）
 </a>
@@ -6005,12 +6011,6 @@ Riku恢复活动（热度：229061）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%80%E5%BD%B1%E9%99%A2%E4%B8%80%E5%A4%A988%E5%9C%BA%E5%93%AA%E5%90%922%23" target="weibo">
 河南一影院一天88场哪吒2（热度：223023）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%8F%88%E8%A6%81%E6%89%93NBA%E4%BA%86%23" target="weibo">
-王鹤棣又要打NBA了（热度：222703）
 </a>
 </li>
 

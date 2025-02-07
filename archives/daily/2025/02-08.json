@@ -1,6 +1,6 @@
 {
   "startTime": 1738945672577,
-  "endTime": 1738948790372,
+  "endTime": 1738949816512,
   "band_list": [
     {
       "raw_hot": 1715829,
@@ -83,6 +83,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 278104,
+      "num": 123213,
+      "word": "哪吒2全球单一市场登顶",
+      "onboard_time": 1738947256,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 255332,
       "num": 255332,
       "word": "封神剧组谈殷郊法相",
@@ -105,14 +113,6 @@
       "onboard_time": 1738922841,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 210498,
-      "num": 123213,
-      "word": "哪吒2全球单一市场登顶",
-      "onboard_time": 1738947256,
-      "rank": 12,
-      "category": "电影"
     },
     {
       "raw_hot": 206025,
@@ -283,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121655,
+      "num": 149176,
+      "word": "美国13州将提起诉讼阻止马斯克",
+      "onboard_time": 1738946057,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 115768,
       "num": 115768,
       "word": "哪吒盲盒",
@@ -403,14 +411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 70957,
-      "num": 149176,
-      "word": "美国13州将提起诉讼阻止马斯克",
-      "onboard_time": 1738946057,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 68114,
       "num": 223944,
       "word": "美国医学教授称全国急诊室挤满了人",
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 61686,
-      "num": 61686,
+      "num": 82207,
       "word": "恋与深空情人节pv",
       "onboard_time": 1738948096,
       "rank": 40,
@@ -451,12 +451,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47690,
+      "num": 58587,
+      "word": "工作人员回应年后婚姻登记排长龙",
+      "onboard_time": 1738948276,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37260,
       "num": 178392,
       "word": "百位家乡名人祝亚冬会圆满成功",
       "onboard_time": 1738946119,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36383,
+      "num": 58554,
+      "word": "不是hit是maestro",
+      "onboard_time": 1738943183,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 28627,
@@ -475,12 +491,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20354,
+      "raw_hot": 24079,
       "num": 113983,
       "word": "撬锁开灯可不只是工作方法失当",
       "onboard_time": 1738948515,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22919,
+      "num": 58608,
+      "word": "五星红旗在祖国山河四季中前行",
+      "onboard_time": 1738949355,
+      "rank": 39,
+      "category": "体育,国内时政"
     },
     {
       "raw_hot": 14471,
@@ -491,8 +515,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 11436,
-      "num": 65733,
+      "raw_hot": 14306,
+      "num": 81938,
       "word": "运动员滑冰点燃主火炬",
       "onboard_time": 1738948635,
       "rank": 36,
@@ -502,6 +526,9 @@
   "hotgov_list": [
     {
       "word": "#习近平主席出席哈尔滨亚冬会开幕式#"
+    },
+    {
+      "word": "#习近平出席亚冬会开幕式#"
     }
   ]
 }
