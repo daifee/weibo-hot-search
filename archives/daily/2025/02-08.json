@@ -1,6 +1,6 @@
 {
   "startTime": 1738945672577,
-  "endTime": 1738946646682,
+  "endTime": 1738948790372,
   "band_list": [
     {
       "raw_hot": 1715829,
@@ -43,20 +43,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 476045,
+      "num": 476045,
+      "word": "老人吵架后去世邻居被判赔偿",
+      "onboard_time": 1738943900,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 388068,
       "num": 296438,
       "word": "哪吒2票房2个小时涨1亿",
       "onboard_time": 1738938443,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 367118,
-      "num": 367118,
-      "word": "老人吵架后去世邻居被判赔偿",
-      "onboard_time": 1738943900,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 312862,
@@ -105,6 +105,14 @@
       "onboard_time": 1738922841,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 210498,
+      "num": 123213,
+      "word": "哪吒2全球单一市场登顶",
+      "onboard_time": 1738947256,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 206025,
@@ -171,7 +179,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 161212,
+      "raw_hot": 171891,
       "num": 299292,
       "word": "人民网评破门亮灯道歉不是终点",
       "onboard_time": 1738941623,
@@ -259,20 +267,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122281,
+      "num": 184273,
+      "word": "美国超2千万人感染流感死亡超1.1万",
+      "onboard_time": 1738932923,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 121968,
       "num": 121968,
       "word": "Angelababy王安宇新剧楼梯抱",
       "onboard_time": 1738935204,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 119495,
-      "num": 184273,
-      "word": "美国超2千万人感染流感死亡超1.1万",
-      "onboard_time": 1738932923,
-      "rank": 33,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 115768,
@@ -395,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70957,
+      "num": 149176,
+      "word": "美国13州将提起诉讼阻止马斯克",
+      "onboard_time": 1738946057,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 68114,
       "num": 223944,
       "word": "美国医学教授称全国急诊室挤满了人",
@@ -403,12 +419,28 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 54147,
-      "num": 149176,
-      "word": "美国13州将提起诉讼阻止马斯克",
-      "onboard_time": 1738946057,
-      "rank": 29,
-      "category": "国际时政"
+      "raw_hot": 61686,
+      "num": 61686,
+      "word": "恋与深空情人节pv",
+      "onboard_time": 1738948096,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 51200,
+      "num": 61561,
+      "word": "31岁演员孙铱血管瘤术后报平安",
+      "onboard_time": 1738931902,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 50508,
+      "num": 61543,
+      "word": "白鹿下班vlog",
+      "onboard_time": 1738937244,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 48562,
@@ -441,6 +473,30 @@
       "onboard_time": 1738938924,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20354,
+      "num": 113983,
+      "word": "撬锁开灯可不只是工作方法失当",
+      "onboard_time": 1738948515,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14471,
+      "num": 61669,
+      "word": "全场观众祝蒯曼生日快乐",
+      "onboard_time": 1738944260,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 11436,
+      "num": 65733,
+      "word": "运动员滑冰点燃主火炬",
+      "onboard_time": 1738948635,
+      "rank": 36,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
