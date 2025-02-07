@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738933011072,
+  "endTime": 1738934812210,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1219,6 +1219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 980903,
+      "num": 459900,
+      "word": "31岁演员孙铱血管瘤术后报平安",
+      "onboard_time": 1738931902,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 980505,
       "num": 823280,
       "word": "辰亦儒曾之乔得子",
@@ -1305,6 +1313,14 @@
       "onboard_time": 1738858462,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 938000,
+      "num": 209002,
+      "word": "导演饺子妈妈牌毛衣被扒是爱马仕",
+      "onboard_time": 1738933643,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 936659,
@@ -1505,6 +1521,14 @@
       "onboard_time": 1738474097,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 848502,
+      "num": 848502,
+      "word": "哪吒2动画公司称不参与票房分红",
+      "onboard_time": 1738932023,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 845939,
@@ -2771,14 +2795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 536228,
-      "num": 459900,
-      "word": "31岁演员孙铱血管瘤术后报平安",
-      "onboard_time": 1738931902,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 535691,
       "num": 535691,
       "word": "ChatGPT搜索功能今起人人可用",
@@ -3443,6 +3459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 453170,
+      "num": 315638,
+      "word": "华晨宇工作室",
+      "onboard_time": 1738930342,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 453078,
       "num": 453078,
       "word": "和扎手指测血糖说拜拜",
@@ -3689,14 +3713,6 @@
       "onboard_time": 1738849166,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 426311,
-      "num": 426311,
-      "word": "哪吒2动画公司称不参与票房分红",
-      "onboard_time": 1738932023,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 425817,
@@ -5163,6 +5179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 294563,
+      "num": 294563,
+      "word": "老人婚宴摔断肋骨酒店赔1万2大餐",
+      "onboard_time": 1738930943,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 294494,
       "num": 169471,
       "word": "卧室再小也能做个衣帽间",
@@ -5256,6 +5280,14 @@
       "word": "霍启刚随中国香港代表团入场",
       "onboard_time": 1738931661,
       "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 287219,
+      "num": 287219,
+      "word": "孙颖莎说没想到4比0的比分",
+      "onboard_time": 1738933824,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -5499,6 +5531,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 271813,
+      "num": 271813,
+      "word": "菲律宾旗手",
+      "onboard_time": 1738934062,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 271707,
       "num": 271707,
       "word": "赵丽颖站姐拍的哪吒敖丙",
@@ -5705,14 +5745,6 @@
       "onboard_time": 1738765166,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 259626,
-      "num": 259626,
-      "word": "华晨宇工作室",
-      "onboard_time": 1738930342,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 259424,
@@ -6075,6 +6107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246171,
+      "num": 246171,
+      "word": "中国队入场人声鼎沸",
+      "onboard_time": 1738933464,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246088,
       "num": 246088,
       "word": "哪吒之魔童闹海票房突破45亿",
@@ -6401,6 +6441,14 @@
       "onboard_time": 1738677985,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 234505,
+      "num": 234505,
+      "word": "一个能一觉睡到天亮的入睡法",
+      "onboard_time": 1738933464,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 234355,
@@ -6763,6 +6811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223909,
+      "num": 263477,
+      "word": "丁宁担任亚冬会执旗手",
+      "onboard_time": 1738934183,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223523,
       "num": 223523,
       "word": "肖战现场回应愤怒的脏脏包",
@@ -7051,14 +7107,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 215742,
-      "num": 215742,
-      "word": "老人婚宴摔断肋骨酒店赔1万2大餐",
-      "onboard_time": 1738930943,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 215637,
       "num": 142778,
       "word": "敖光一款过于美貌的爹",
@@ -7177,6 +7225,14 @@
       "onboard_time": 1738735283,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212535,
+      "num": 212535,
+      "word": "敖光",
+      "onboard_time": 1738407137,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 212392,
@@ -7691,6 +7747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 202635,
+      "num": 202635,
+      "word": "钟辰乐直播",
+      "onboard_time": 1738934483,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202625,
       "num": 202625,
       "word": "赵本山纽约演出第一排1400美元",
@@ -7851,6 +7915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199701,
+      "num": 336134,
+      "word": "林诗栋蒯曼混双冠军",
+      "onboard_time": 1738934124,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199590,
       "num": 199590,
       "word": "宋亚轩被大风刮出颜文字",
@@ -7947,6 +8019,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 197911,
+      "num": 338718,
+      "word": "哈尔滨亚冬会开幕",
+      "onboard_time": 1738933643,
+      "rank": 8,
+      "category": "国内时政,体育"
+    },
+    {
       "raw_hot": 197381,
       "num": 197381,
       "word": "张小斐侧腹肌",
@@ -8001,6 +8081,14 @@
       "onboard_time": 1738464137,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 196456,
+      "num": 196456,
+      "word": "滨滨妮妮好可爱",
+      "onboard_time": 1738932863,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 196421,
@@ -8219,14 +8307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192268,
-      "num": 192268,
-      "word": "滨滨妮妮好可爱",
-      "onboard_time": 1738932863,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 192176,
       "num": 192176,
       "word": "乔丹儿子被捕",
@@ -8337,6 +8417,14 @@
       "onboard_time": 1738582831,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 189954,
+      "num": 189954,
+      "word": "陈丽君惊艳亮相巴黎",
+      "onboard_time": 1738932982,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 189920,
@@ -8505,6 +8593,14 @@
       "onboard_time": 1738477817,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 187417,
+      "num": 187417,
+      "word": "哈尔滨",
+      "onboard_time": 1738934603,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 187100,
@@ -8689,14 +8785,6 @@
       "onboard_time": 1738471457,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 184669,
-      "num": 184669,
-      "word": "陈丽君惊艳亮相巴黎",
-      "onboard_time": 1738932982,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 184333,
@@ -8945,6 +9033,14 @@
       "onboard_time": 1738916361,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181095,
+      "num": 244829,
+      "word": "美国超2千万人感染流感死亡超1.1万",
+      "onboard_time": 1738932923,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 181068,
@@ -9315,6 +9411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172951,
+      "num": 293843,
+      "word": "SM新男团定位预测",
+      "onboard_time": 1738933883,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172738,
       "num": 172738,
       "word": "小米集团市值突破万亿港元",
@@ -9595,6 +9699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168838,
+      "num": 168838,
+      "word": "李帝努直播",
+      "onboard_time": 1738934243,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168481,
       "num": 168481,
       "word": "李昀锐把自己哄成胚胎了",
@@ -9745,6 +9857,14 @@
       "onboard_time": 1738735644,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165129,
+      "num": 165129,
+      "word": "亚冬会吉祥物 小东北虎",
+      "onboard_time": 1738934722,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 165003,
@@ -9945,6 +10065,14 @@
       "onboard_time": 1738811543,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161716,
+      "num": 161716,
+      "word": "节后工位最火单品是发呆计时器",
+      "onboard_time": 1738934544,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161636,
@@ -10865,14 +10993,6 @@
       "onboard_time": 1738912042,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 146530,
-      "num": 244829,
-      "word": "美国超2千万人感染流感死亡超1.1万",
-      "onboard_time": 1738932923,
-      "rank": 33,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 146478,
@@ -13435,6 +13555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106198,
+      "num": 203478,
+      "word": "菲律宾旗手好帅",
+      "onboard_time": 1738933643,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106135,
       "num": 180950,
       "word": "解说赞叹孙颖莎能力太强了",
@@ -14769,14 +14897,6 @@
       "onboard_time": 1738770564,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 75868,
-      "num": 70146,
-      "word": "敖光",
-      "onboard_time": 1738407137,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 75583,
@@ -16395,6 +16515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31988,
+      "num": 292004,
+      "word": "梦回冬奥",
+      "onboard_time": 1738934303,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 31816,
       "num": 54643,
       "word": "儿媳过年为婆婆化妆最开心的是公公",
@@ -16913,6 +17041,14 @@
       "onboard_time": 1738434492,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21613,
+      "num": 317740,
+      "word": "饺子导演觉得自己和哪吒一样倔强",
+      "onboard_time": 1738933583,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 21128,
