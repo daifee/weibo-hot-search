@@ -1,0 +1,410 @@
+{
+  "runTime": 1738945672577,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1582390,
+        "num": 1582390,
+        "word": "短剧 上瘾",
+        "onboard_time": 1738942462,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243969,
+        "num": 243969,
+        "word": "小行星",
+        "onboard_time": 1738938564,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 25167,
+        "num": 242773,
+        "word": "亚冬会开幕式硬核超燃瞬间",
+        "onboard_time": 1738938504,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1139360,
+        "num": 242181,
+        "word": "哪吒2全球影史单一市场票房第1",
+        "onboard_time": 1738935684,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199365,
+        "num": 240283,
+        "word": "程靖淇恋情官宣",
+        "onboard_time": 1738931482,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161212,
+        "num": 238716,
+        "word": "人民网评破门亮灯道歉不是终点",
+        "onboard_time": 1738941623,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 617643,
+        "num": 237873,
+        "word": "饺子背了半个月终于有人问了",
+        "onboard_time": 1738939224,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 571520,
+        "num": 236212,
+        "word": "小红书上1.9元可买到枪版哪吒2",
+        "onboard_time": 1738944080,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152518,
+        "num": 235022,
+        "word": "老人吵架后去世邻居被判赔偿",
+        "onboard_time": 1738943900,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142492,
+        "num": 233362,
+        "word": "黄旭华逝世",
+        "onboard_time": 1738897163,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 701146,
+        "num": 232737,
+        "word": "山东一婚姻登记处年后人满为患",
+        "onboard_time": 1738943602,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388068,
+        "num": 231005,
+        "word": "哪吒2票房2个小时涨1亿",
+        "onboard_time": 1738938443,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 312862,
+        "num": 230057,
+        "word": "丁禹兮的玩偶是虞书欣同款",
+        "onboard_time": 1738939103,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297046,
+        "num": 229252,
+        "word": "第一批买哪吒金镯的人已赚麻了",
+        "onboard_time": 1738921700,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 47040,
+        "num": 226810,
+        "word": "官方回应市监局年报数据被指造假",
+        "onboard_time": 1738944740,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226638,
+        "num": 226638,
+        "word": "沈月 广州",
+        "onboard_time": 1738940304,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40426,
+        "num": 223944,
+        "word": "美国医学教授称全国急诊室挤满了人",
+        "onboard_time": 1738945279,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 160925,
+        "num": 220676,
+        "word": "班主任寒假家访遭各种理由拒绝",
+        "onboard_time": 1738937064,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152799,
+        "num": 218898,
+        "word": "封神剧组谈殷郊法相",
+        "onboard_time": 1738945040,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 59493,
+        "num": 214586,
+        "word": "人社局回应工作人员电话辱骂办事群众",
+        "onboard_time": 1738944860,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212645,
+        "num": 212645,
+        "word": "丁克婚姻20年丈夫竟和别人生子",
+        "onboard_time": 1738922841,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206025,
+        "num": 206025,
+        "word": "设计师称敖光形象没有具体原型",
+        "onboard_time": 1738942882,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112483,
+        "num": 205284,
+        "word": "2025亚冬会开幕式",
+        "onboard_time": 1738931063,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204581,
+        "num": 204581,
+        "word": "一个能一觉睡到天亮的入睡法",
+        "onboard_time": 1738933464,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 48562,
+        "num": 199584,
+        "word": "蒯曼生日当天夺冠",
+        "onboard_time": 1738944560,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196752,
+        "num": 196752,
+        "word": "为无量仙翁配音大爷到片场才知配反派",
+        "onboard_time": 1738937424,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190389,
+        "num": 190389,
+        "word": "光渊",
+        "onboard_time": 1738941503,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177545,
+        "num": 177545,
+        "word": "哪吒2",
+        "onboard_time": 1738914561,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158777,
+        "num": 158777,
+        "word": "刘诗诗演技",
+        "onboard_time": 1738937783,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155398,
+        "num": 155398,
+        "word": "孟子义柬埔寨路透",
+        "onboard_time": 1738936163,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153251,
+        "num": 153251,
+        "word": "哪吒2票房超68亿",
+        "onboard_time": 1738944200,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136138,
+        "num": 136138,
+        "word": "张馨予消失的头发回来了",
+        "onboard_time": 1738923142,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127182,
+        "num": 127182,
+        "word": "梁永棋女婿误入姐妹群",
+        "onboard_time": 1738944020,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119495,
+        "num": 127103,
+        "word": "美国超2千万人感染流感死亡超1.1万",
+        "onboard_time": 1738932923,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 127062,
+        "num": 127062,
+        "word": "陈哲远梁洁吻戏",
+        "onboard_time": 1738940304,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126310,
+        "num": 126310,
+        "word": "敖光",
+        "onboard_time": 1738934243,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121968,
+        "num": 121968,
+        "word": "Angelababy王安宇新剧楼梯抱",
+        "onboard_time": 1738935204,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115768,
+        "num": 115768,
+        "word": "哪吒盲盒",
+        "onboard_time": 1738940543,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115463,
+        "num": 115463,
+        "word": "张杰输给谢娜和女儿两局五子棋",
+        "onboard_time": 1738929562,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114570,
+        "num": 114570,
+        "word": "哪吒到底是天津人还是四川人",
+        "onboard_time": 1738942821,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109935,
+        "num": 109935,
+        "word": "邓为仙台有树口碑",
+        "onboard_time": 1738945458,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102963,
+        "num": 102963,
+        "word": "黄旭华院士曾说此生无怨无悔",
+        "onboard_time": 1738944080,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108411,
+        "num": 102843,
+        "word": "俞灏明王晓晨韩国约会",
+        "onboard_time": 1738925782,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100359,
+        "num": 100359,
+        "word": "研究发现一小行星7年后有概率撞地球",
+        "onboard_time": 1738912163,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95772,
+        "num": 95772,
+        "word": "李宇春哪吒",
+        "onboard_time": 1738936763,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95376,
+        "num": 95376,
+        "word": "林诗栋请全场祝蒯曼生日快乐",
+        "onboard_time": 1738940243,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92434,
+        "num": 92434,
+        "word": "哈尔滨亚冬会开幕",
+        "onboard_time": 1738933643,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92106,
+        "num": 92106,
+        "word": "李纯 马頔",
+        "onboard_time": 1738907902,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90453,
+        "num": 90453,
+        "word": "孙颖莎说没想到4比0的比分",
+        "onboard_time": 1738933824,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86293,
+        "num": 86293,
+        "word": "为哪吒2无量仙翁配音大爷85岁学会开飞机",
+        "onboard_time": 1738941922,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席出席哈尔滨亚冬会开幕式#"
+    }
+  }
+}
