@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738934812210,
+  "endTime": 1738935495183,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -524,7 +524,7 @@
     },
     {
       "raw_hot": 1774291,
-      "num": 890023,
+      "num": 958036,
       "word": "程靖淇恋情官宣",
       "onboard_time": 1738931482,
       "rank": 13,
@@ -1187,6 +1187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1017957,
+      "num": 459900,
+      "word": "31岁演员孙铱血管瘤术后报平安",
+      "onboard_time": 1738931902,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1007552,
       "num": 1007552,
       "word": "肯德基满地垃圾无人收",
@@ -1217,14 +1225,6 @@
       "onboard_time": 1738908082,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 980903,
-      "num": 459900,
-      "word": "31岁演员孙铱血管瘤术后报平安",
-      "onboard_time": 1738931902,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 980505,
@@ -1305,6 +1305,14 @@
       "onboard_time": 1738567289,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 954928,
+      "num": 954928,
+      "word": "哪吒2动画公司称不参与票房分红",
+      "onboard_time": 1738932023,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 951327,
@@ -1521,14 +1529,6 @@
       "onboard_time": 1738474097,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 848502,
-      "num": 848502,
-      "word": "哪吒2动画公司称不参与票房分红",
-      "onboard_time": 1738932023,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 845939,
@@ -1753,6 +1753,14 @@
       "onboard_time": 1738639943,
       "rank": 19,
       "category": "互联网,国际时政"
+    },
+    {
+      "raw_hot": 752490,
+      "num": 315638,
+      "word": "华晨宇工作室",
+      "onboard_time": 1738930342,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 750501,
@@ -2419,6 +2427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 608511,
+      "num": 313436,
+      "word": "老人婚宴摔断肋骨酒店赔1万2大餐",
+      "onboard_time": 1738930943,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 607998,
       "num": 657326,
       "word": "金价",
@@ -3051,6 +3067,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 498558,
+      "num": 498558,
+      "word": "林诗栋蒯曼混双冠军",
+      "onboard_time": 1738934124,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 498499,
       "num": 498499,
       "word": "小伙因砸女友手机背上犯罪记录",
@@ -3153,6 +3177,14 @@
       "onboard_time": 1738723760,
       "rank": 27,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 486295,
+      "num": 486295,
+      "word": "菲律宾旗手",
+      "onboard_time": 1738934062,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 485536,
@@ -3456,14 +3488,6 @@
       "word": "林允方取证",
       "onboard_time": 1738749986,
       "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 453170,
-      "num": 315638,
-      "word": "华晨宇工作室",
-      "onboard_time": 1738930342,
-      "rank": 32,
       "category": "艺人"
     },
     {
@@ -4275,6 +4299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 364470,
+      "num": 364470,
+      "word": "敖光",
+      "onboard_time": 1738407137,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 362902,
       "num": 362902,
       "word": "官方回应店铺因未彻夜亮灯被撬锁开灯",
@@ -5003,6 +5035,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 305508,
+      "num": 305508,
+      "word": "一个能一觉睡到天亮的入睡法",
+      "onboard_time": 1738933464,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 305099,
       "num": 125013,
       "word": "钟楚曦说哪吒太牛了",
@@ -5179,12 +5219,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 294563,
-      "num": 294563,
-      "word": "老人婚宴摔断肋骨酒店赔1万2大餐",
-      "onboard_time": 1738930943,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 295377,
+      "num": 295377,
+      "word": "孙颖莎说没想到4比0的比分",
+      "onboard_time": 1738933824,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 294494,
@@ -5280,14 +5320,6 @@
       "word": "霍启刚随中国香港代表团入场",
       "onboard_time": 1738931661,
       "rank": 17,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 287219,
-      "num": 287219,
-      "word": "孙颖莎说没想到4比0的比分",
-      "onboard_time": 1738933824,
-      "rank": 23,
       "category": "体育"
     },
     {
@@ -5529,14 +5561,6 @@
       "onboard_time": 1738901965,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 271813,
-      "num": 271813,
-      "word": "菲律宾旗手",
-      "onboard_time": 1738934062,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 271707,
@@ -6443,14 +6467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 234505,
-      "num": 234505,
-      "word": "一个能一觉睡到天亮的入睡法",
-      "onboard_time": 1738933464,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 234355,
       "num": 234355,
       "word": "真心建议要和积极乐观的人在一起",
@@ -6812,7 +6828,7 @@
     },
     {
       "raw_hot": 223909,
-      "num": 263477,
+      "num": 311095,
       "word": "丁宁担任亚冬会执旗手",
       "onboard_time": 1738934183,
       "rank": 27,
@@ -7227,14 +7243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 212535,
-      "num": 212535,
-      "word": "敖光",
-      "onboard_time": 1738407137,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 212392,
       "num": 212392,
       "word": "男子放出400斤白牦牛给亲戚看",
@@ -7329,6 +7337,14 @@
       "onboard_time": 1738907063,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209957,
+      "num": 209957,
+      "word": "陈丽君惊艳亮相巴黎",
+      "onboard_time": 1738932982,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 209916,
@@ -7537,6 +7553,14 @@
       "onboard_time": 1738639043,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 205563,
+      "num": 958948,
+      "word": "哈尔滨亚冬会开幕",
+      "onboard_time": 1738933643,
+      "rank": 8,
+      "category": "国内时政,体育"
     },
     {
       "raw_hot": 205408,
@@ -7915,14 +7939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199701,
-      "num": 336134,
-      "word": "林诗栋蒯曼混双冠军",
-      "onboard_time": 1738934124,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 199590,
       "num": 199590,
       "word": "宋亚轩被大风刮出颜文字",
@@ -8019,14 +8035,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 197911,
-      "num": 338718,
-      "word": "哈尔滨亚冬会开幕",
-      "onboard_time": 1738933643,
-      "rank": 8,
-      "category": "国内时政,体育"
-    },
-    {
       "raw_hot": 197381,
       "num": 197381,
       "word": "张小斐侧腹肌",
@@ -8057,6 +8065,14 @@
       "onboard_time": 1738742783,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196909,
+      "num": 244829,
+      "word": "美国超2千万人感染流感死亡超1.1万",
+      "onboard_time": 1738932923,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 196742,
@@ -8251,6 +8267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193630,
+      "num": 193630,
+      "word": "Angelababy王安宇新剧楼梯抱",
+      "onboard_time": 1738935204,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193462,
       "num": 193462,
       "word": "王嘉尔的生无可恋写在了脸上",
@@ -8417,14 +8441,6 @@
       "onboard_time": 1738582831,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 189954,
-      "num": 189954,
-      "word": "陈丽君惊艳亮相巴黎",
-      "onboard_time": 1738932982,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 189920,
@@ -9011,6 +9027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181438,
+      "num": 181438,
+      "word": "节后工位最火单品是发呆计时器",
+      "onboard_time": 1738934544,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181265,
       "num": 181265,
       "word": "Angelababy新剧人设",
@@ -9033,14 +9057,6 @@
       "onboard_time": 1738916361,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 181095,
-      "num": 244829,
-      "word": "美国超2千万人感染流感死亡超1.1万",
-      "onboard_time": 1738932923,
-      "rank": 33,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 181068,
@@ -9395,6 +9411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173756,
+      "num": 293843,
+      "word": "SM新男团定位预测",
+      "onboard_time": 1738933883,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173357,
       "num": 173357,
       "word": "哪吒2官方真的别太敬业",
@@ -9409,14 +9433,6 @@
       "onboard_time": 1738753103,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 172951,
-      "num": 293843,
-      "word": "SM新男团定位预测",
-      "onboard_time": 1738933883,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 172738,
@@ -10067,14 +10083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 161716,
-      "num": 161716,
-      "word": "节后工位最火单品是发呆计时器",
-      "onboard_time": 1738934544,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 161636,
       "num": 195102,
       "word": "多地返程遇雨雪",
@@ -10169,6 +10177,14 @@
       "onboard_time": 1738666825,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160421,
+      "num": 160421,
+      "word": "高亭宇好帅",
+      "onboard_time": 1738935445,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 160384,
@@ -11761,6 +11777,14 @@
       "onboard_time": 1738656864,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135866,
+      "num": 264967,
+      "word": "成毅祝愿中国健儿再创辉煌",
+      "onboard_time": 1738931363,
+      "rank": 44,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 135789,
@@ -15219,6 +15243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65202,
+      "num": 193075,
+      "word": "此沙复刻春晚杨戬rap",
+      "onboard_time": 1738935445,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 64741,
       "num": 358720,
       "word": "王艺迪3比1迪亚兹",
@@ -15659,14 +15691,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 53479,
-      "num": 191449,
-      "word": "成毅祝愿中国健儿再创辉煌",
-      "onboard_time": 1738931363,
-      "rank": 44,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 53032,
       "num": 454045,
       "word": "一代人有一代人接财神的方式",
@@ -15955,6 +15979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 46437,
+      "num": 317740,
+      "word": "饺子导演觉得自己和哪吒一样倔强",
+      "onboard_time": 1738933583,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 46026,
       "num": 441454,
       "word": "亚冬会中国队赛程看点",
@@ -16016,6 +16048,14 @@
       "word": "林孝埈一天4赛全部晋级",
       "onboard_time": 1738924643,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 44279,
+      "num": 292004,
+      "word": "梦回冬奥",
+      "onboard_time": 1738934303,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -16159,6 +16199,14 @@
       "num": 180394,
       "word": "林昀儒3比1裴焕",
       "onboard_time": 1738740682,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 40869,
+      "num": 270814,
+      "word": "开幕式上演员的中式旗袍好飒",
+      "onboard_time": 1738934843,
       "rank": 29,
       "category": "体育"
     },
@@ -16513,14 +16561,6 @@
       "onboard_time": 1738896682,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31988,
-      "num": 292004,
-      "word": "梦回冬奥",
-      "onboard_time": 1738934303,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 31816,
@@ -16899,6 +16939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 24852,
+      "num": 312659,
+      "word": "返乡过年被小县城的消费震撼了",
+      "onboard_time": 1738935083,
+      "rank": 15,
+      "category": "民生新闻,情感"
+    },
+    {
       "raw_hot": 24742,
       "num": 636381,
       "word": "亚冬会火炬传递圆满结束",
@@ -17041,14 +17089,6 @@
       "onboard_time": 1738434492,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21613,
-      "num": 317740,
-      "word": "饺子导演觉得自己和哪吒一样倔强",
-      "onboard_time": 1738933583,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 21128,
@@ -17475,6 +17515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 11392,
+      "num": 266089,
+      "word": "一起为TEAMCHINA加油",
+      "onboard_time": 1738935325,
+      "rank": 31,
+      "category": "体育,正能量"
+    },
+    {
       "raw_hot": 11095,
       "num": 247186,
       "word": "徐克有徐克的金庸解读",
@@ -17723,6 +17771,9 @@
     },
     {
       "word": "#习近平在亚冬会开幕式欢迎宴会上的致辞#"
+    },
+    {
+      "word": "#习近平出席亚冬会开幕式#"
     }
   ]
 }
