@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/02/02 00:24:31 ~ 2025/02/08 03:18:07
+本榜单时间：2025/02/02 00:24:31 ~ 2025/02/08 03:35:52
 </p>
 </blockquote>
 <p>
@@ -10599,6 +10599,12 @@ chiikawa小八变声了（热度：103640）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BB%E5%8D%96Deepseek%E4%BB%98%E8%B4%B9%E8%AF%BE4%E5%A4%A9%E8%B5%9A20%E4%B8%87%23" target="weibo">
+博主卖Deepseek付费课4天赚20万（热度：103446）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E5%8C%85%23" target="weibo">
 红包（热度：103332）
 </a>
@@ -11549,12 +11555,6 @@ HarbinTravel的含金量还在上升（热度：79801）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B%E5%9B%9E%E5%BA%94%E7%94%B7%E5%8F%8C%E9%A6%96%E6%90%AD%E7%8E%8B%E6%A5%9A%E9%92%A6%23" target="weibo">
 林诗栋回应男双首搭王楚钦（热度：75939）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BB%E5%8D%96Deepseek%E4%BB%98%E8%B4%B9%E8%AF%BE4%E5%A4%A9%E8%B5%9A20%E4%B8%87%23" target="weibo">
-博主卖Deepseek付费课4天赚20万（热度：75635）
 </a>
 </li>
 
@@ -13599,6 +13599,12 @@ susu福福（热度：22284）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%97%AD%E5%8D%8E%E8%BF%99%E6%AE%B5%E8%AF%9D%E5%86%8D%E5%90%AC%E4%BE%9D%E7%84%B6%E6%84%9F%E5%8A%A8%23" target="weibo">
+黄旭华这段话再听依然感动（热度：13370）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E4%BA%BA%E5%81%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E5%85%AD%E5%85%AD%E5%A4%A7%E9%A1%BA%E8%8A%B1%E7%93%B6%23" target="weibo">
 古人做了一个六六大顺花瓶（热度：13095）
 </a>
@@ -13623,12 +13629,6 @@ susu福福（热度：22284）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%97%AD%E5%8D%8E%E8%BF%99%E6%AE%B5%E8%AF%9D%E5%86%8D%E5%90%AC%E4%BE%9D%E7%84%B6%E6%84%9F%E5%8A%A8%23" target="weibo">
-黄旭华这段话再听依然感动（热度：12624）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%8B4D%E5%93%AA%E5%90%92%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23" target="weibo">
 看4D哪吒什么体验（热度：12502）
 </a>
@@ -13649,6 +13649,12 @@ susu福福（热度：22284）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E8%AE%A9%E8%A7%82%E5%AF%9F%E5%88%B0%E5%BA%95%E8%A6%81%E8%A7%82%E5%AF%9F%E4%BB%80%E4%B9%88%23" target="weibo">
 医生让观察到底要观察什么（热度：12419）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%97%AD%E5%8D%8E64%E5%B2%81%E4%BB%8D%E4%BA%B2%E8%BA%AB%E5%8F%82%E4%B8%8E%E6%9E%81%E9%99%90%E6%B7%B1%E6%BD%9C%23" target="weibo">
+黄旭华64岁仍亲身参与极限深潜（热度：12337）
 </a>
 </li>
 

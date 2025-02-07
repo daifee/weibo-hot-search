@@ -1,6 +1,6 @@
 {
   "startTime": 1738945672577,
-  "endTime": 1738955887221,
+  "endTime": 1738956952440,
   "band_list": [
     {
       "raw_hot": 1715829,
@@ -331,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103446,
+      "num": 103446,
+      "word": "博主卖Deepseek付费课4天赚20万",
+      "onboard_time": 1738954272,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 102963,
       "num": 102963,
       "word": "黄旭华院士曾说此生无怨无悔",
@@ -425,14 +433,6 @@
       "onboard_time": 1738944740,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 75635,
-      "num": 75635,
-      "word": "博主卖Deepseek付费课4天赚20万",
-      "onboard_time": 1738954272,
-      "rank": 4,
-      "category": "互联网"
     },
     {
       "raw_hot": 68114,
@@ -587,10 +587,18 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 12624,
+      "raw_hot": 13370,
       "num": 47688,
       "word": "黄旭华这段话再听依然感动",
       "onboard_time": 1738955472,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 12337,
+      "num": 37731,
+      "word": "黄旭华64岁仍亲身参与极限深潜",
+      "onboard_time": 1738956191,
       "rank": 13,
       "category": "国内时政"
     },
