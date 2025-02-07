@@ -1,0 +1,410 @@
+{
+  "runTime": 1738892538518,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2040556,
+        "num": 2040556,
+        "word": "哪吒2若卖95亿饺子至少能分1.35亿",
+        "onboard_time": 1738887381,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 2004865,
+        "num": 2004865,
+        "word": "韩某某投敌叛变48小时内被抓",
+        "onboard_time": 1738887321,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 35498,
+        "num": 1410348,
+        "word": "三个关键词概括第九届亚冬会",
+        "onboard_time": 1738846282,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 960526,
+        "num": 960526,
+        "word": "范思哲 蔡徐坤",
+        "onboard_time": 1738887500,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480326,
+        "num": 480326,
+        "word": "建议别在晚上做重大决定",
+        "onboard_time": 1738850725,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 458569,
+        "num": 458569,
+        "word": "中央气象台发布寒潮大风预警",
+        "onboard_time": 1738890383,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 627469,
+        "num": 456453,
+        "word": "NewJeans新组合名NJZ",
+        "onboard_time": 1738890623,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 500589,
+        "num": 455140,
+        "word": "射雕英雄传影史武侠片票房冠军",
+        "onboard_time": 1738887203,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 453065,
+        "num": 453065,
+        "word": "国安破获一起主动投靠境外间谍案",
+        "onboard_time": 1738890623,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 245133,
+        "num": 349518,
+        "word": "官方通報张家界一遊客点2个菜844元",
+        "onboard_time": 1738888343,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 719703,
+        "num": 348025,
+        "word": "骑手因包装破损被华为店索赔一万五",
+        "onboard_time": 1738858462,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 579420,
+        "num": 344589,
+        "word": "哪吒2票房大半要分给影院",
+        "onboard_time": 1738890623,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 338823,
+        "num": 338823,
+        "word": "初十",
+        "onboard_time": 1738890685,
+        "rank": 12,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 338559,
+        "num": 338559,
+        "word": "教育厅通报男子举报中学提前开学",
+        "onboard_time": 1738844124,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 317289,
+        "num": 317289,
+        "word": "哪吒2海外上映购票观众发声",
+        "onboard_time": 1738879092,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 306265,
+        "num": 306265,
+        "word": "蔡磊全身肌肉已掉近30斤",
+        "onboard_time": 1738888162,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297153,
+        "num": 297153,
+        "word": "李现说把腹肌胖没了",
+        "onboard_time": 1738887922,
+        "rank": 16,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 287089,
+        "num": 287089,
+        "word": "妈妈回应1岁失明宝宝学走盲道",
+        "onboard_time": 1738851507,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285313,
+        "num": 285313,
+        "word": "网友爸爸去世多年微信账号突然消失",
+        "onboard_time": 1738850186,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266926,
+        "num": 266926,
+        "word": "涉密人员为钱拷贝偷拍大量资料被抓",
+        "onboard_time": 1738888523,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 413372,
+        "num": 256597,
+        "word": "乌尔善 封神口碑",
+        "onboard_time": 1738887021,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 371951,
+        "num": 255947,
+        "word": "27岁小伙3份副业最高日入5千",
+        "onboard_time": 1738887742,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270516,
+        "num": 254120,
+        "word": "妻子招待完丈夫朋友后被一顿猛夸",
+        "onboard_time": 1738849166,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241291,
+        "num": 241291,
+        "word": "小米眼镜官博上线",
+        "onboard_time": 1738888282,
+        "rank": 23,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 223288,
+        "num": 223288,
+        "word": "哪吒",
+        "onboard_time": 1738840224,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210615,
+        "num": 210615,
+        "word": "顾客收到2个菜844元全额退款",
+        "onboard_time": 1738862955,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206841,
+        "num": 206841,
+        "word": "哪吒2进全球影史单一市场票房榜前二",
+        "onboard_time": 1738855585,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203566,
+        "num": 203566,
+        "word": "陈丽君去巴黎参加高端局了",
+        "onboard_time": 1738885338,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195047,
+        "num": 195047,
+        "word": "敖丙妈妈长在我的心坎上了",
+        "onboard_time": 1738853665,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188660,
+        "num": 188660,
+        "word": "大风",
+        "onboard_time": 1738887381,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185727,
+        "num": 185727,
+        "word": "好一个乖乖女",
+        "onboard_time": 1738851265,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167673,
+        "num": 167673,
+        "word": "哪吒冲100亿",
+        "onboard_time": 1738891043,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167547,
+        "num": 167547,
+        "word": "妻子双肺全白丈夫含泪卖车不放弃",
+        "onboard_time": 1738832305,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160836,
+        "num": 160836,
+        "word": "大同街道就破门亮灯致歉",
+        "onboard_time": 1738891282,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158724,
+        "num": 158724,
+        "word": "跟着尔滨大雪人看亚冬会",
+        "onboard_time": 1738890623,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157774,
+        "num": 157774,
+        "word": "影史第一的男主长这样",
+        "onboard_time": 1738888041,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155961,
+        "num": 155961,
+        "word": "恋与深空",
+        "onboard_time": 1738890983,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151919,
+        "num": 151919,
+        "word": "男子旅游停车两三天感慨天塌了",
+        "onboard_time": 1738892242,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150495,
+        "num": 150495,
+        "word": "哪吒2动画制作团队在线摇人",
+        "onboard_time": 1738891941,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150004,
+        "num": 150004,
+        "word": "间谍投敌不到48小时就被抓",
+        "onboard_time": 1738890685,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 133562,
+        "num": 133562,
+        "word": "宋茜对接回应山河枕超话主持人分配",
+        "onboard_time": 1738890144,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118907,
+        "num": 118907,
+        "word": "2025冰雪之约",
+        "onboard_time": 1738892360,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115983,
+        "num": 115983,
+        "word": "定远中学提前开学涉事人被停职",
+        "onboard_time": 1738848205,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110524,
+        "num": 110524,
+        "word": "刘晓庆演短剧了",
+        "onboard_time": 1738854092,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107460,
+        "num": 107460,
+        "word": "哪吒影史第一",
+        "onboard_time": 1738817490,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105371,
+        "num": 105371,
+        "word": "詹眉全明星联手",
+        "onboard_time": 1738891822,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102305,
+        "num": 102305,
+        "word": "金饰价格涨至872元每克",
+        "onboard_time": 1738849887,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100731,
+        "num": 100731,
+        "word": "悬赏5万的走失宠物狗遭烹饪分食",
+        "onboard_time": 1738840404,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100106,
+        "num": 100106,
+        "word": "韩国地震",
+        "onboard_time": 1738884918,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 99050,
+        "num": 99050,
+        "word": "男版美人鱼肚子一游一duang",
+        "onboard_time": 1738857024,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将出席哈尔滨第九届亚冬会开幕式#"
+    }
+  }
+}
