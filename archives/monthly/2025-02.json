@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738906721175,
+  "endTime": 1738909887680,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -263,6 +263,14 @@
       "num": 553976,
       "word": "周渝民连发20条悼念大S",
       "onboard_time": 1738652783,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2706807,
+      "num": 443800,
+      "word": "李纯 马頔",
+      "onboard_time": 1738907902,
       "rank": 10,
       "category": "艺人"
     },
@@ -552,6 +560,14 @@
       "word": "哪吒2爆火后唯一受害者出现",
       "onboard_time": 1738503980,
       "rank": 11,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1663679,
+      "num": 1663679,
+      "word": "接哪吒后外包公司离职率陡升",
+      "onboard_time": 1738907123,
+      "rank": 0,
       "category": "电影"
     },
     {
@@ -953,6 +969,14 @@
       "onboard_time": 1738730905,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1179545,
+      "num": 775367,
+      "word": "苗苗选择和郑恺结婚的契机",
+      "onboard_time": 1738907482,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1178033,
@@ -2195,6 +2219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 654540,
+      "num": 654540,
+      "word": "有人1元拍下公司80%股权",
+      "onboard_time": 1738908082,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 653714,
       "num": 653714,
       "word": "伊能静带儿子和秦昊父母聚餐",
@@ -2609,6 +2641,14 @@
       "onboard_time": 1738400897,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 566756,
+      "num": 299994,
+      "word": "为什么苹果能把十年前的照片变成live",
+      "onboard_time": 1738906524,
+      "rank": 20,
+      "category": "数码"
     },
     {
       "raw_hot": 566104,
@@ -4611,6 +4651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 347266,
+      "num": 347266,
+      "word": "宣璐新剧第一集就玩这么大",
+      "onboard_time": 1738909163,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 347169,
       "num": 284057,
       "word": "原来王安宇动作指导是太乙真人",
@@ -5315,6 +5363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 302678,
+      "num": 302678,
+      "word": "西政毕业生起诉重庆轨道集团败诉",
+      "onboard_time": 1738906404,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 302565,
       "num": 668308,
       "word": "全场为林孝埈欢呼",
@@ -5441,6 +5497,14 @@
       "onboard_time": 1738486157,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 293562,
+      "num": 293562,
+      "word": "何炅套出了陈小春演唱会时间",
+      "onboard_time": 1738907662,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 293336,
@@ -5691,12 +5755,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 275936,
+      "num": 275936,
+      "word": "蒯曼晋级女单四强",
+      "onboard_time": 1738907964,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 275729,
       "num": 494897,
       "word": "央视主播上新00后",
       "onboard_time": 1738581329,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 275234,
+      "num": 275234,
+      "word": "小哪吒配音演员是大学老师",
+      "onboard_time": 1738908442,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 275091,
@@ -6379,6 +6459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 245478,
+      "num": 245478,
+      "word": "余承恩单手抱娃",
+      "onboard_time": 1738909403,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245413,
       "num": 245413,
       "word": "112岁老中医的临终馈赠",
@@ -6819,6 +6907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229437,
+      "num": 229437,
+      "word": "沈星回ooc",
+      "onboard_time": 1738909103,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 229196,
       "num": 229196,
       "word": "梁洁你说吧反正也剪不掉",
@@ -7171,6 +7267,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 221896,
+      "num": 452841,
+      "word": "美国蛋价飞涨一车鸡蛋失窃成热点",
+      "onboard_time": 1738905923,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 221828,
       "num": 479921,
       "word": "福岛排空核污染水的储水罐将被解体",
@@ -7443,6 +7547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 213885,
+      "num": 213885,
+      "word": "黄旭华生前只戴母亲的围巾",
+      "onboard_time": 1738909163,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 213642,
       "num": 213642,
       "word": "唐探1900开头十分钟的信息量",
@@ -7561,6 +7673,14 @@
       "onboard_time": 1738538894,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 210005,
+      "num": 210005,
+      "word": "刘诗诗台词 进步",
+      "onboard_time": 1738907063,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 209874,
@@ -8315,6 +8435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195973,
+      "num": 195973,
+      "word": "秦彻狼尾",
+      "onboard_time": 1738909344,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 195950,
       "num": 183121,
       "word": "王鹤棣孟子义偷吃花生米",
@@ -8915,14 +9043,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 186757,
-      "num": 186757,
-      "word": "西政毕业生起诉重庆轨道集团败诉",
-      "onboard_time": 1738906404,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 186745,
       "num": 495731,
       "word": "敖光 精灵王",
@@ -9057,6 +9177,14 @@
       "onboard_time": 1738904245,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184751,
+      "num": 184751,
+      "word": "梁靖崑vs张禹珍",
+      "onboard_time": 1738909463,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 184689,
@@ -9891,6 +10019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170447,
+      "num": 203315,
+      "word": "姚晨福建到底有谁在啊",
+      "onboard_time": 1738909824,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170415,
       "num": 170415,
       "word": "特朗普政府推进关闭教育部",
@@ -9961,6 +10097,14 @@
       "onboard_time": 1738662088,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169888,
+      "num": 169888,
+      "word": "黎深 典狱长",
+      "onboard_time": 1738908684,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 169769,
@@ -10153,6 +10297,14 @@
       "onboard_time": 1738385598,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166152,
+      "num": 166152,
+      "word": "邓为出关赶上横店大雪了",
+      "onboard_time": 1738909824,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 166062,
@@ -11113,6 +11265,14 @@
       "onboard_time": 1738648763,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152117,
+      "num": 233757,
+      "word": "黄旭华此生属于祖国",
+      "onboard_time": 1738909403,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152076,
@@ -12323,6 +12483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 134250,
+      "num": 275478,
+      "word": "马思纯年后复工换了五个工种",
+      "onboard_time": 1738909344,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134031,
       "num": 134031,
       "word": "摆烂减肥法",
@@ -13465,6 +13633,14 @@
       "onboard_time": 1738370895,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 118159,
+      "num": 275243,
+      "word": "孙颖莎对阵何卓佳",
+      "onboard_time": 1738909403,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 117752,
@@ -15035,6 +15211,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 95924,
+      "num": 229939,
+      "word": "金价上涨带动黄金手机贴纸走红",
+      "onboard_time": 1738909763,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95894,
       "num": 119605,
       "word": "新能源车企1月成绩单出炉",
@@ -15193,6 +15377,14 @@
       "onboard_time": 1738373837,
       "rank": 8,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 92014,
+      "num": 247444,
+      "word": "血脉压制是刻进DNA的",
+      "onboard_time": 1738908684,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 91745,
@@ -16385,14 +16577,6 @@
       "onboard_time": 1738625477,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 61038,
-      "num": 452841,
-      "word": "美国蛋价飞涨一车鸡蛋失窃成热点",
-      "onboard_time": 1738905923,
-      "rank": 17,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 61007,
@@ -18011,6 +18195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23773,
+      "num": 245799,
+      "word": "演员严屹宽被指撞脸敖光",
+      "onboard_time": 1738909582,
+      "rank": 29,
+      "category": "艺人,电影"
+    },
+    {
       "raw_hot": 23698,
       "num": 197109,
       "word": "陈哲远牌创可贴",
@@ -18065,6 +18257,14 @@
       "onboard_time": 1738838424,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22754,
+      "num": 275235,
+      "word": "黄旭华用算盘造出一艘核潜艇",
+      "onboard_time": 1738909582,
+      "rank": 25,
+      "category": "民生新闻,国内时政"
     },
     {
       "raw_hot": 22643,

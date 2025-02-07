@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738906721175,
+  "endTime": 1738909887680,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1275,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2706807,
+      "num": 443800,
+      "word": "李纯 马頔",
+      "onboard_time": 1738907902,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2693767,
       "num": 1704350,
       "word": "众星发声悼念",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735783819,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1930199,
-      "num": 1930199,
-      "word": "第一批解放军已抵达西藏震中",
-      "onboard_time": 1736229564,
-      "rank": 17,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
