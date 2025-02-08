@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/02/08 12:39:04
+本榜单时间：2025/01/01 00:26:38 ~ 2025/02/08 13:20:23
 </p>
 </blockquote>
 <p>
@@ -1059,6 +1059,12 @@ TikTok禁令（热度：2765381）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BA%BB%E5%85%AD%E8%AE%B0%E7%9B%B4%E6%92%AD%E9%97%B4%E4%B8%BB%E6%92%AD%E8%A2%AB%E7%BD%91%E5%8F%8B%E5%8A%9D%E6%8D%A2%E5%B7%A5%E4%BD%9C%23" target="weibo">
+麻六记直播间主播被网友劝换工作（热度：2579217）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E8%B5%B0%E4%B8%8D%E5%8A%A8%E6%83%B3%E5%8E%BB%E6%8D%B6%E6%89%93%E8%85%BF%23" target="weibo">
 赵露思走不动想去捶打腿（热度：2578366）
 </a>
@@ -1805,12 +1811,6 @@ Ok 咱们线上（热度：2051932）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%88%AA%20%E7%BE%8E%E7%8F%8D%E9%A6%99%23" target="weibo">
 国航 美珍香（热度：1964992）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%8F%91%E6%96%87%E8%87%B4%E6%AD%89%23" target="weibo">
-霸王茶姬发文致歉（热度：1963235）
 </a>
 </li>
 

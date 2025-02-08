@@ -1,0 +1,410 @@
+{
+  "runTime": 1738992023191,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8927766,
+        "num": 8927766,
+        "word": "张兰汪小菲抖音无限期封禁",
+        "onboard_time": 1738985241,
+        "rank": 0,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 929033,
+        "num": 929033,
+        "word": "高亭宇夺金",
+        "onboard_time": 1738988847,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16330,
+        "num": 834017,
+        "word": "我们在一起就是TEAMCHINA",
+        "onboard_time": 1738991605,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2813517,
+        "num": 831608,
+        "word": "抖音副总裁回应封禁汪小菲等账号",
+        "onboard_time": 1738986867,
+        "rank": 3,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 817946,
+        "num": 817946,
+        "word": "国家医保局回应刷医保买华为手表",
+        "onboard_time": 1738985183,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 2579217,
+        "num": 808828,
+        "word": "麻六记直播间主播被网友劝换工作",
+        "onboard_time": 1738989507,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1232510,
+        "num": 773274,
+        "word": "哪吒2破70亿大关",
+        "onboard_time": 1738991186,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 965424,
+        "num": 743230,
+        "word": "Angelababy 浪姐6",
+        "onboard_time": 1738982841,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 709193,
+        "num": 709193,
+        "word": "饺子曾靠母亲1000元退休金生活3年",
+        "onboard_time": 1738985964,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114042,
+        "num": 697257,
+        "word": "王楚钦林诗栋vs林昀儒高承睿",
+        "onboard_time": 1738991545,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1281819,
+        "num": 634825,
+        "word": "邓超花了15年把孙俪塑造这样",
+        "onboard_time": 1738987227,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 734354,
+        "num": 617655,
+        "word": "张兰账号利用逝者恶意炒作营销",
+        "onboard_time": 1738986264,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24102,
+        "num": 594775,
+        "word": "全世界都在看东北人转手绢",
+        "onboard_time": 1738991125,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14738,
+        "num": 544754,
+        "word": "发条微博为亚冬会中国健儿加油",
+        "onboard_time": 1738991664,
+        "rank": 13,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 183892,
+        "num": 516126,
+        "word": "刘少昂摔倒没有判罚",
+        "onboard_time": 1738991006,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 481973,
+        "num": 481973,
+        "word": "林孝埈摔倒",
+        "onboard_time": 1738981821,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 718028,
+        "num": 481693,
+        "word": "哪吒2用了10天成为全球第一",
+        "onboard_time": 1738985303,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 541250,
+        "num": 474136,
+        "word": "所以呢 不是钱吗",
+        "onboard_time": 1738974861,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26252,
+        "num": 467314,
+        "word": "绿牌网约车上保险被亮红灯",
+        "onboard_time": 1738991364,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54618,
+        "num": 465193,
+        "word": "刘少昂再次摔倒",
+        "onboard_time": 1738991545,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 562040,
+        "num": 458395,
+        "word": "微信状态真的太暧昧了",
+        "onboard_time": 1738990645,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 456677,
+        "num": 456677,
+        "word": "哪吒2全球影史单一市场票房第1",
+        "onboard_time": 1738935684,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 445121,
+        "num": 445121,
+        "word": "建议睡不着就在床头放个橘子",
+        "onboard_time": 1738989026,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 443219,
+        "num": 443219,
+        "word": "三大平台养老剧",
+        "onboard_time": 1738976421,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 428920,
+        "num": 428920,
+        "word": "高亭宇破亚洲纪录",
+        "onboard_time": 1738990586,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 384745,
+        "num": 384745,
+        "word": "18岁孪生姐妹嫁给22岁孪生兄弟",
+        "onboard_time": 1738985183,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 374116,
+        "num": 374116,
+        "word": "多方侵权赵丽颖被强执21万",
+        "onboard_time": 1738990526,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19994,
+        "num": 351196,
+        "word": "哪吒2救活小城电影院",
+        "onboard_time": 1738991784,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176068,
+        "num": 349147,
+        "word": "薛凯琪单依纯候场大片",
+        "onboard_time": 1738991125,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29563,
+        "num": 348709,
+        "word": "网友暖心评论安慰林孝埈",
+        "onboard_time": 1738991545,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 348380,
+        "num": 348380,
+        "word": "多地网友分享刷医保买华为手表",
+        "onboard_time": 1738982841,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 338691,
+        "num": 338691,
+        "word": "哪吒",
+        "onboard_time": 1738978041,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 57982,
+        "num": 338492,
+        "word": "林孝埈今日还有两场比赛",
+        "onboard_time": 1738987766,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 338302,
+        "num": 338302,
+        "word": "女生长期把电脑放腿上办公长出蟒蛇纹",
+        "onboard_time": 1738971918,
+        "rank": 33,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 312400,
+        "num": 312400,
+        "word": "起猛了眉姐姐杀人了",
+        "onboard_time": 1738991304,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53127,
+        "num": 301822,
+        "word": "孙龙刘少昂前二进决赛",
+        "onboard_time": 1738987887,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291723,
+        "num": 291723,
+        "word": "曝贾斯丁比伯健康状况堪忧",
+        "onboard_time": 1738976179,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284820,
+        "num": 284820,
+        "word": "哪吒敖丙双人贺图",
+        "onboard_time": 1738977681,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 262927,
+        "num": 262927,
+        "word": "谢娜回好六",
+        "onboard_time": 1738989207,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238756,
+        "num": 238756,
+        "word": "林孝埈摘银",
+        "onboard_time": 1738986928,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233291,
+        "num": 233291,
+        "word": "林孝埈失误摔倒双手抱头难掩失落",
+        "onboard_time": 1738990106,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223903,
+        "num": 223903,
+        "word": "她甚至在树上找了一圈的人",
+        "onboard_time": 1738988727,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203929,
+        "num": 203929,
+        "word": "仙台有树口碑",
+        "onboard_time": 1738991485,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203711,
+        "num": 203711,
+        "word": "刘晓庆倪萍谈琼瑶",
+        "onboard_time": 1738990766,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187878,
+        "num": 187878,
+        "word": "中国影史第一个70亿",
+        "onboard_time": 1738991904,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179504,
+        "num": 179504,
+        "word": "节后减重多吃3种发酵食物",
+        "onboard_time": 1738981161,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 172482,
+        "num": 172482,
+        "word": "浪姐6",
+        "onboard_time": 1738989090,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162634,
+        "num": 162634,
+        "word": "韩佳人素颜照",
+        "onboard_time": 1738974861,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 9261,
+        "num": 161887,
+        "word": "亚冬会开幕式硬核超燃瞬间",
+        "onboard_time": 1738938504,
+        "rank": 48,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 161824,
+        "num": 161824,
+        "word": "张兰账号被处罚后未有改正",
+        "onboard_time": 1738987108,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席宣布亚冬会开幕#"
+    }
+  }
+}

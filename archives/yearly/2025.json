@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738989544202,
+  "endTime": 1738992023191,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1395,6 +1395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2579217,
+      "num": 808828,
+      "word": "麻六记直播间主播被网友劝换工作",
+      "onboard_time": 1738989507,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2578366,
       "num": 395633,
       "word": "赵露思走不动想去捶打腿",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735909819,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1963235,
-      "num": 359037,
-      "word": "霸王茶姬发文致歉",
-      "onboard_time": 1737734719,
-      "rank": 11,
-      "category": "美食"
     }
   ],
   "hotgov_list": [
