@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1739006451403,
+  "endTime": 1739007329664,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1612,7 +1612,7 @@
     },
     {
       "raw_hot": 2408039,
-      "num": 1309681,
+      "num": 1314588,
       "word": "饺子导演的70亿海报",
       "onboard_time": 1738993765,
       "rank": 6,
@@ -1937,6 +1937,14 @@
       "onboard_time": 1735989203,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2210988,
+      "num": 396271,
+      "word": "张兰回应抖音被无限期封禁",
+      "onboard_time": 1739005823,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 2187832,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1738309697,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1990747,
-      "num": 343989,
-      "word": "败血症",
-      "onboard_time": 1738664364,
-      "rank": 26,
-      "category": "健康医疗,艺人"
     }
   ],
   "hotgov_list": [
