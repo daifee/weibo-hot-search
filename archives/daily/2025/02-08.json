@@ -1,10 +1,10 @@
 {
   "startTime": 1738945672577,
-  "endTime": 1738978735481,
+  "endTime": 1738979688800,
   "band_list": [
     {
-      "raw_hot": 2734711,
-      "num": 2734711,
+      "raw_hot": 2784987,
+      "num": 2784987,
       "word": "所以呢 不是钱吗",
       "onboard_time": 1738974861,
       "rank": 0,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1139360,
-      "num": 448434,
+      "num": 772778,
       "word": "哪吒2全球影史单一市场票房第1",
       "onboard_time": 1738935684,
       "rank": 3,
@@ -59,12 +59,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 832879,
+      "num": 832879,
+      "word": "美国失联飞机上10人均已遇难",
+      "onboard_time": 1738977862,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 755237,
+      "num": 386754,
+      "word": "三大平台养老剧",
+      "onboard_time": 1738976421,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 701146,
       "num": 351169,
       "word": "山东一婚姻登记处年后人满为患",
       "onboard_time": 1738943602,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 698099,
+      "num": 390297,
+      "word": "韩佳人素颜照",
+      "onboard_time": 1738974861,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 617643,
@@ -75,14 +99,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 611711,
-      "num": 390297,
-      "word": "韩佳人素颜照",
-      "onboard_time": 1738974861,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 605729,
       "num": 307655,
       "word": "小红书上1.9元可买到枪版哪吒2",
@@ -91,12 +107,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 554224,
-      "num": 554224,
-      "word": "美国失联飞机上10人均已遇难",
-      "onboard_time": 1738977862,
-      "rank": 4,
-      "category": "海外新闻"
+      "raw_hot": 597163,
+      "num": 301990,
+      "word": "哪吒敖丙双人贺图",
+      "onboard_time": 1738977681,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 476045,
@@ -113,22 +129,6 @@
       "onboard_time": 1738972158,
       "rank": 5,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 435990,
-      "num": 328336,
-      "word": "三大平台养老剧",
-      "onboard_time": 1738976421,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 410839,
-      "num": 200527,
-      "word": "哪吒敖丙双人贺图",
-      "onboard_time": 1738977681,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 398495,
@@ -155,6 +155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 323250,
+      "num": 297538,
+      "word": "银赫发文取消隐退",
+      "onboard_time": 1738978761,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 316355,
       "num": 316355,
       "word": "一家三口从新加坡坐火车12天回成都",
@@ -177,6 +185,22 @@
       "onboard_time": 1738938564,
       "rank": 1,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 310727,
+      "num": 310727,
+      "word": "多地今冬最冷白天",
+      "onboard_time": 1738977862,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 309544,
+      "num": 274112,
+      "word": "哪吒",
+      "onboard_time": 1738978041,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 307676,
@@ -219,14 +243,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 274112,
-      "num": 274112,
-      "word": "哪吒",
-      "onboard_time": 1738978041,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 255332,
       "num": 255332,
       "word": "封神剧组谈殷郊法相",
@@ -240,14 +256,6 @@
       "word": "人民网评破门亮灯道歉不是终点",
       "onboard_time": 1738941623,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 246952,
-      "num": 301281,
-      "word": "多地今冬最冷白天",
-      "onboard_time": 1738977862,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -267,6 +275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 227471,
+      "num": 227471,
+      "word": "年后事业运大爆发的星座",
+      "onboard_time": 1738973719,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 226638,
       "num": 226638,
       "word": "沈月 广州",
@@ -275,20 +291,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 226090,
-      "num": 226090,
-      "word": "年后事业运大爆发的星座",
-      "onboard_time": 1738973719,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 219288,
-      "num": 219288,
+      "raw_hot": 221435,
+      "num": 263983,
       "word": "特朗普取消拜登的机密信息权限",
       "onboard_time": 1738975402,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 220137,
+      "num": 220137,
+      "word": "妈妈花7天给儿子做哪吒2敖光战甲",
+      "onboard_time": 1738977862,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 218591,
+      "num": 218591,
+      "word": "种地吧直播",
+      "onboard_time": 1738979001,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 217321,
@@ -315,6 +339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 204755,
+      "num": 204755,
+      "word": "李金恣成绩被取消",
+      "onboard_time": 1738978941,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204581,
       "num": 204581,
       "word": "一个能一觉睡到天亮的入睡法",
@@ -339,6 +371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 195831,
+      "num": 195831,
+      "word": "国色芳华 杨紫演技",
+      "onboard_time": 1738978580,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190389,
       "num": 190389,
       "word": "光渊",
@@ -355,20 +395,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 187449,
-      "num": 175795,
-      "word": "妈妈花7天给儿子做哪吒2敖光战甲",
-      "onboard_time": 1738977862,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
       "raw_hot": 182480,
       "num": 182480,
       "word": "长沙一小学一二年级九点二十上课",
       "onboard_time": 1738973959,
       "rank": 31,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 180979,
+      "num": 180979,
+      "word": "工作中不要散发弱者气息",
+      "onboard_time": 1738979001,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 178390,
@@ -451,6 +491,30 @@
       "category": "情感"
     },
     {
+      "raw_hot": 150580,
+      "num": 150580,
+      "word": "飞机滑行时女子上厕所被拒发飙砸门",
+      "onboard_time": 1738977981,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143782,
+      "num": 143782,
+      "word": "春节上门喂猫圆满结束收入2w",
+      "onboard_time": 1738975402,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 140853,
+      "num": 140853,
+      "word": "景区2米33巨人演员回应走红",
+      "onboard_time": 1738978462,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139893,
       "num": 139893,
       "word": "仙台有树",
@@ -489,14 +553,6 @@
       "onboard_time": 1738976541,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 127630,
-      "num": 127630,
-      "word": "春节上门喂猫圆满结束收入2w",
-      "onboard_time": 1738975402,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 127182,
@@ -579,14 +635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 113395,
-      "num": 113395,
-      "word": "景区2米33巨人演员回应走红",
-      "onboard_time": 1738978462,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112593,
       "num": 112593,
       "word": "工作人员回应年后婚姻登记排长龙",
@@ -601,22 +649,6 @@
       "onboard_time": 1738931063,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 110656,
-      "num": 110656,
-      "word": "飞机滑行时女子上厕所被拒发飙砸门",
-      "onboard_time": 1738977981,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 110101,
-      "num": 110101,
-      "word": "国色芳华 杨紫演技",
-      "onboard_time": 1738978580,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 108411,
