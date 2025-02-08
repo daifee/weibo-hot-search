@@ -1,7 +1,15 @@
 {
   "startTime": 1738945672577,
-  "endTime": 1738985049989,
+  "endTime": 1738985905944,
   "band_list": [
+    {
+      "raw_hot": 4294334,
+      "num": 4294334,
+      "word": "汪小菲抖音账号被无限期封禁",
+      "onboard_time": 1738985183,
+      "rank": 0,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 3657589,
       "num": 3657589,
@@ -19,8 +27,24 @@
       "category": "电影"
     },
     {
+      "raw_hot": 2514912,
+      "num": 2514912,
+      "word": "张兰汪小菲抖音无限期封禁",
+      "onboard_time": 1738985241,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1783922,
+      "num": 1783922,
+      "word": "Angelababy 浪姐6",
+      "onboard_time": 1738982841,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1777079,
-      "num": 485631,
+      "num": 505682,
       "word": "曝贾斯丁比伯健康状况堪忧",
       "onboard_time": 1738976179,
       "rank": 10,
@@ -33,14 +57,6 @@
       "onboard_time": 1738981161,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1719938,
-      "num": 1719938,
-      "word": "Angelababy 浪姐6",
-      "onboard_time": 1738982841,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 1715829,
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 725758,
-      "num": 482932,
+      "num": 519910,
       "word": "特朗普发文宣布解雇拜登",
       "onboard_time": 1738980201,
       "rank": 11,
@@ -147,12 +163,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 506361,
-      "num": 506361,
+      "raw_hot": 535236,
+      "num": 535236,
       "word": "中国短道速滑队错失首金",
       "onboard_time": 1738982300,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 529479,
+      "num": 529479,
+      "word": "退休金十几万被忽悠买550万保险",
+      "onboard_time": 1738983920,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 499376,
@@ -203,14 +227,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 405442,
-      "num": 405442,
-      "word": "退休金十几万被忽悠买550万保险",
-      "onboard_time": 1738983920,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 398495,
       "num": 301077,
       "word": "微信打电话和手机打电话区别真大",
@@ -244,7 +260,7 @@
     },
     {
       "raw_hot": 353121,
-      "num": 226948,
+      "num": 298123,
       "word": "多地网友分享刷医保买华为手表",
       "onboard_time": 1738982841,
       "rank": 33,
@@ -257,6 +273,14 @@
       "onboard_time": 1738983681,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 350160,
+      "num": 300151,
+      "word": "18岁孪生姐妹嫁给22岁孪生兄弟",
+      "onboard_time": 1738985183,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 342321,
@@ -305,6 +329,14 @@
       "onboard_time": 1738938564,
       "rank": 1,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 310249,
+      "num": 524297,
+      "word": "林孝埈1500米晋级决赛",
+      "onboard_time": 1738984280,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 309544,
@@ -387,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231366,
+      "num": 215866,
+      "word": "哪吒2用了10天成为全球第一",
+      "onboard_time": 1738985303,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 227680,
       "num": 227680,
       "word": "于适怎么感觉头尖尖的",
@@ -459,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217907,
+      "num": 217907,
+      "word": "张碧晨哪吒在故事的最终",
+      "onboard_time": 1738984641,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 217321,
       "num": 217321,
       "word": "人社局工作人员辱骂办事群众被停职",
@@ -475,12 +523,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212466,
+      "num": 212466,
+      "word": "国家医保局回应刷医保买华为手表",
+      "onboard_time": 1738985183,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 206025,
       "num": 206025,
       "word": "设计师称敖光形象没有具体原型",
       "onboard_time": 1738942882,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 205903,
+      "num": 205903,
+      "word": "周深就这么水灵灵的被拽出来了",
+      "onboard_time": 1738984760,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 204755,
@@ -555,8 +619,16 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 188028,
+      "num": 188028,
+      "word": "哪吒2破69亿",
+      "onboard_time": 1738985002,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 182480,
-      "num": 182480,
+      "num": 207462,
       "word": "长沙一小学一二年级九点二十上课",
       "onboard_time": 1738973959,
       "rank": 31,
@@ -569,6 +641,14 @@
       "onboard_time": 1738978462,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179145,
+      "num": 208638,
+      "word": "李方慧哈尔滨亚冬会中国队首金",
+      "onboard_time": 1738985664,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 178390,
@@ -595,6 +675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 176979,
+      "num": 301752,
+      "word": "中国队本届亚冬会首金",
+      "onboard_time": 1738985544,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176038,
       "num": 176038,
       "word": "邓为仙台有树口碑",
@@ -619,14 +707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 164063,
-      "num": 164063,
-      "word": "周深就这么水灵灵的被拽出来了",
-      "onboard_time": 1738984760,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 161177,
       "num": 161177,
       "word": "哪吒2票房超68亿",
@@ -643,20 +723,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156208,
+      "num": 156208,
+      "word": "福克斯绝杀超时",
+      "onboard_time": 1738985785,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155398,
       "num": 155398,
       "word": "孟子义柬埔寨路透",
       "onboard_time": 1738936163,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 154458,
-      "num": 154458,
-      "word": "张碧晨哪吒在故事的最终",
-      "onboard_time": 1738984641,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 154295,
@@ -691,12 +771,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 149778,
+      "num": 149778,
+      "word": "杨洋新剧抱娃路透",
+      "onboard_time": 1738985664,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147477,
       "num": 147477,
       "word": "妈妈版龙王敖光战甲可以量产吗",
       "onboard_time": 1738982601,
       "rank": 42,
       "category": "民生新闻,电影"
+    },
+    {
+      "raw_hot": 146120,
+      "num": 146120,
+      "word": "白宫恢复中国小额包裹免税待遇",
+      "onboard_time": 1738984221,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 145393,
@@ -739,27 +835,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 132868,
-      "num": 132868,
-      "word": "白宫恢复中国小额包裹免税待遇",
-      "onboard_time": 1738984221,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 130071,
       "num": 126704,
       "word": "哪吒到底是天津人还是四川人",
       "onboard_time": 1738942821,
       "rank": 39,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 129324,
-      "num": 129324,
-      "word": "哪吒2破69亿",
-      "onboard_time": 1738985002,
-      "rank": 49,
       "category": "电影"
     },
     {
@@ -964,7 +1044,7 @@
     },
     {
       "raw_hot": 80472,
-      "num": 1503859,
+      "num": 2822476,
       "word": "亚冬会开幕式硬核超燃瞬间",
       "onboard_time": 1738938504,
       "rank": 2,
@@ -993,14 +1073,6 @@
       "onboard_time": 1738944740,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 68557,
-      "num": 403096,
-      "word": "林孝埈1500米晋级决赛",
-      "onboard_time": 1738984280,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 68114,
@@ -1035,6 +1107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 50961,
+      "num": 300399,
+      "word": "独行侠欢迎浓眉",
+      "onboard_time": 1738981882,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50508,
       "num": 61543,
       "word": "白鹿下班vlog",
@@ -1067,6 +1147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43420,
+      "num": 303755,
+      "word": "哪吒2成功的原因",
+      "onboard_time": 1738984580,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 39470,
       "num": 54968,
       "word": "亚冬会食堂400多种美食嘎嘎香",
@@ -1092,7 +1180,7 @@
     },
     {
       "raw_hot": 36536,
-      "num": 226002,
+      "num": 269633,
       "word": "短道中韩对决刚开始",
       "onboard_time": 1738984221,
       "rank": 29,
@@ -1185,14 +1273,6 @@
       "onboard_time": 1738958651,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 20005,
-      "num": 240050,
-      "word": "哪吒2成功的原因",
-      "onboard_time": 1738984580,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 19855,

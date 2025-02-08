@@ -1,0 +1,410 @@
+{
+  "runTime": 1738985905944,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4294334,
+        "num": 4294334,
+        "word": "汪小菲抖音账号被无限期封禁",
+        "onboard_time": 1738985183,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3231392,
+        "num": 3231392,
+        "word": "林孝埈摔倒",
+        "onboard_time": 1738981821,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44312,
+        "num": 2822476,
+        "word": "亚冬会开幕式硬核超燃瞬间",
+        "onboard_time": 1738938504,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2514912,
+        "num": 2514912,
+        "word": "张兰汪小菲抖音无限期封禁",
+        "onboard_time": 1738985241,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1783922,
+        "num": 1783922,
+        "word": "Angelababy 浪姐6",
+        "onboard_time": 1738982841,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 535236,
+        "num": 535236,
+        "word": "中国短道速滑队错失首金",
+        "onboard_time": 1738982300,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1207282,
+        "num": 535208,
+        "word": "所以呢 不是钱吗",
+        "onboard_time": 1738974861,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 635468,
+        "num": 534263,
+        "word": "三大平台养老剧",
+        "onboard_time": 1738976421,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 529479,
+        "num": 529479,
+        "word": "退休金十几万被忽悠买550万保险",
+        "onboard_time": 1738983920,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310249,
+        "num": 524297,
+        "word": "林孝埈1500米晋级决赛",
+        "onboard_time": 1738984280,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 605697,
+        "num": 519910,
+        "word": "特朗普发文宣布解雇拜登",
+        "onboard_time": 1738980201,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 564442,
+        "num": 505682,
+        "word": "曝贾斯丁比伯健康状况堪忧",
+        "onboard_time": 1738976179,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 530202,
+        "num": 499347,
+        "word": "哪吒敖丙双人贺图",
+        "onboard_time": 1738977681,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 495807,
+        "num": 495807,
+        "word": "中国队短道速滑2000米接力意外摔倒",
+        "onboard_time": 1738982001,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 496972,
+        "num": 469586,
+        "word": "哪吒2全球影史单一市场票房第1",
+        "onboard_time": 1738935684,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 409424,
+        "num": 409424,
+        "word": "中方回应巴方退出一带一路协议",
+        "onboard_time": 1738970898,
+        "rank": 15,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 377212,
+        "num": 377212,
+        "word": "韩佳人素颜照",
+        "onboard_time": 1738974861,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304543,
+        "num": 304543,
+        "word": "卡冰",
+        "onboard_time": 1738983681,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243634,
+        "num": 304342,
+        "word": "韩国获2025亚冬会首金",
+        "onboard_time": 1738981582,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43420,
+        "num": 303755,
+        "word": "哪吒2成功的原因",
+        "onboard_time": 1738984580,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 616085,
+        "num": 302595,
+        "word": "女生长期把电脑放腿上办公长出蟒蛇纹",
+        "onboard_time": 1738971918,
+        "rank": 20,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 176979,
+        "num": 301752,
+        "word": "中国队本届亚冬会首金",
+        "onboard_time": 1738985544,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 403945,
+        "num": 301348,
+        "word": "节后减重多吃3种发酵食物",
+        "onboard_time": 1738981161,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 50961,
+        "num": 300399,
+        "word": "独行侠欢迎浓眉",
+        "onboard_time": 1738981882,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 350160,
+        "num": 300151,
+        "word": "18岁孪生姐妹嫁给22岁孪生兄弟",
+        "onboard_time": 1738985183,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325044,
+        "num": 298887,
+        "word": "饺子背了半个月终于有人问了",
+        "onboard_time": 1738939224,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 311272,
+        "num": 298788,
+        "word": "男子机场猥亵女性旅客被行拘",
+        "onboard_time": 1738981522,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298123,
+        "num": 298123,
+        "word": "多地网友分享刷医保买华为手表",
+        "onboard_time": 1738982841,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 294960,
+        "num": 294960,
+        "word": "短剧 上瘾",
+        "onboard_time": 1738942462,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32708,
+        "num": 269633,
+        "word": "短道中韩对决刚开始",
+        "onboard_time": 1738984221,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254100,
+        "num": 254100,
+        "word": "工作中不要散发弱者气息",
+        "onboard_time": 1738979001,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 241639,
+        "num": 241639,
+        "word": "哪吒",
+        "onboard_time": 1738978041,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 217907,
+        "num": 217907,
+        "word": "张碧晨哪吒在故事的最终",
+        "onboard_time": 1738984641,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 231366,
+        "num": 215866,
+        "word": "哪吒2用了10天成为全球第一",
+        "onboard_time": 1738985303,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 212466,
+        "num": 212466,
+        "word": "国家医保局回应刷医保买华为手表",
+        "onboard_time": 1738985183,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 210106,
+        "num": 210106,
+        "word": "你好星期六",
+        "onboard_time": 1738984040,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179145,
+        "num": 208638,
+        "word": "李方慧哈尔滨亚冬会中国队首金",
+        "onboard_time": 1738985664,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81924,
+        "num": 207462,
+        "word": "长沙一小学一二年级九点二十上课",
+        "onboard_time": 1738973959,
+        "rank": 37,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 207452,
+        "num": 207452,
+        "word": "微信打电话和手机打电话区别真大",
+        "onboard_time": 1738972158,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205903,
+        "num": 205903,
+        "word": "周深就这么水灵灵的被拽出来了",
+        "onboard_time": 1738984760,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204042,
+        "num": 204042,
+        "word": "银赫发文取消隐退",
+        "onboard_time": 1738978761,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198460,
+        "num": 198460,
+        "word": "多地今冬最冷白天",
+        "onboard_time": 1738977862,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197939,
+        "num": 197939,
+        "word": "微信运动是很私密的东西",
+        "onboard_time": 1738971918,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197352,
+        "num": 197352,
+        "word": "美国失联飞机上10人均已遇难",
+        "onboard_time": 1738977862,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 190159,
+        "num": 190159,
+        "word": "妈妈花7天给儿子做哪吒2敖光战甲",
+        "onboard_time": 1738977862,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188028,
+        "num": 188028,
+        "word": "哪吒2破69亿",
+        "onboard_time": 1738985002,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174589,
+        "num": 174589,
+        "word": "余烬之上今日开播",
+        "onboard_time": 1738983982,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156208,
+        "num": 156208,
+        "word": "福克斯绝杀超时",
+        "onboard_time": 1738985785,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149778,
+        "num": 149778,
+        "word": "杨洋新剧抱娃路透",
+        "onboard_time": 1738985664,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146120,
+        "num": 146120,
+        "word": "白宫恢复中国小额包裹免税待遇",
+        "onboard_time": 1738984221,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席亚冬会开幕式#"
+    }
+  }
+}
