@@ -1,6 +1,6 @@
 {
   "startTime": 1738945672577,
-  "endTime": 1739014513586,
+  "endTime": 1739018328545,
   "band_list": [
     {
       "raw_hot": 14397354,
@@ -203,8 +203,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1375237,
-      "num": 1375237,
+      "raw_hot": 1392332,
+      "num": 1392332,
       "word": "梁靖崑4比3王楚钦",
       "onboard_time": 1739013685,
       "rank": 4,
@@ -259,12 +259,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1100439,
+      "num": 1100439,
+      "word": "光明网评张兰汪小菲账号被封",
+      "onboard_time": 1739014702,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1056732,
       "num": 1056732,
       "word": "网曝服务区垃圾桶发现大量酥肉腊味",
       "onboard_time": 1739010504,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 995058,
+      "num": 355650,
+      "word": "全球影史票房前30暂未有中国电影",
+      "onboard_time": 1739014822,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 975294,
@@ -355,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 743985,
+      "num": 251290,
+      "word": "麻六记直播遭恶意下单",
+      "onboard_time": 1739016021,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 727807,
       "num": 727807,
       "word": "林孝埈打破韩国包揽9金的豪言",
@@ -441,6 +465,14 @@
       "onboard_time": 1738944080,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 596084,
+      "num": 272591,
+      "word": "成毅直播",
+      "onboard_time": 1739017461,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 589817,
@@ -555,12 +587,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 486357,
+      "num": 267072,
+      "word": "张卫健60岁状态",
+      "onboard_time": 1739015063,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 482596,
       "num": 482595,
       "word": "林孝埈是冠军",
       "onboard_time": 1738995322,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 478971,
+      "num": 257383,
+      "word": "她的遗物不多我是其中一个",
+      "onboard_time": 1739014822,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 476045,
@@ -649,6 +697,14 @@
       "onboard_time": 1738972158,
       "rank": 5,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 438875,
+      "num": 438875,
+      "word": "麻六记复播2天销售额达300万",
+      "onboard_time": 1739016021,
+      "rank": 4,
+      "category": "美食,艺人"
     },
     {
       "raw_hot": 432216,
@@ -811,6 +867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 332991,
+      "num": 332991,
+      "word": "日本学校寒潮天仍要求光腿穿校服",
+      "onboard_time": 1739015903,
+      "rank": 7,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 331886,
       "num": 331886,
       "word": "恋与深空助力亚冬会",
@@ -833,6 +897,14 @@
       "onboard_time": 1738997963,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 323422,
+      "num": 254836,
+      "word": "六姊妹爸爸车祸去世",
+      "onboard_time": 1739017522,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 322656,
@@ -947,6 +1019,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 301195,
+      "num": 301195,
+      "word": "王楚钦止步新加坡大满贯4强",
+      "onboard_time": 1739017401,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 300770,
       "num": 300770,
       "word": "哪吒之魔童闹海票房超过星球大战",
@@ -1051,6 +1131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 278518,
+      "num": 254787,
+      "word": "哪吒2票房突破73亿元",
+      "onboard_time": 1739017163,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 278367,
       "num": 246346,
       "word": "终于有网飞质感的国产剧了",
@@ -1105,6 +1193,14 @@
       "onboard_time": 1738989207,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 259639,
+      "num": 427642,
+      "word": "梁靖崑拥抱王楚钦",
+      "onboard_time": 1739014162,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 259080,
@@ -1169,6 +1265,14 @@
       "onboard_time": 1738973959,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 244496,
+      "num": 244496,
+      "word": "林诗栋4比0胜A勒布伦",
+      "onboard_time": 1739016441,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 241816,
@@ -1355,12 +1459,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 216342,
+      "num": 216342,
+      "word": "哪吒番外木吒救过申小豹",
+      "onboard_time": 1739017101,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 215505,
       "num": 641827,
       "word": "梁靖崑男单进决赛",
       "onboard_time": 1739013685,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213746,
+      "num": 282495,
+      "word": "江苏一发电风车倒塌损失或达三百万",
+      "onboard_time": 1739016622,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 212645,
@@ -1377,6 +1497,14 @@
       "onboard_time": 1739007742,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211379,
+      "num": 298002,
+      "word": "哪吒2全球十亿美元票房首部非好莱坞影片",
+      "onboard_time": 1739017702,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 211189,
@@ -1475,12 +1603,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203450,
+      "num": 203450,
+      "word": "315曾点名麻六记酸辣粉",
+      "onboard_time": 1739016021,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 201254,
       "num": 201254,
       "word": "哪吒2动画导演没抢到票",
       "onboard_time": 1739009242,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 200281,
+      "num": 200281,
+      "word": "又一名反华分子翻车",
+      "onboard_time": 1739013325,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 200111,
@@ -1536,6 +1680,14 @@
       "word": "王楚钦林诗栋vs林昀儒高承睿",
       "onboard_time": 1738991545,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 194540,
+      "num": 194540,
+      "word": "亚洲杯",
+      "onboard_time": 1739018062,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -1747,14 +1899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173415,
-      "num": 173415,
-      "word": "又一名反华分子翻车",
-      "onboard_time": 1739013325,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 171496,
       "num": 175187,
       "word": "邓为新剧变暴娇男妲己",
@@ -1785,6 +1929,14 @@
       "onboard_time": 1738981641,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168121,
+      "num": 168121,
+      "word": "9岁男孩将鞭炮塞进车里致车辆烧毁",
+      "onboard_time": 1739014523,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 167264,
@@ -2073,6 +2225,14 @@
       "onboard_time": 1738976541,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 127760,
+      "num": 257705,
+      "word": "上班摸鱼能给大脑排毒",
+      "onboard_time": 1739016441,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 127441,
@@ -2371,6 +2531,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84193,
+      "num": 258979,
+      "word": "胡先煦小时候表演快板这段好真实",
+      "onboard_time": 1739017822,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 80732,
+      "num": 254131,
+      "word": "林孝埈夺金现场播放一路生花",
+      "onboard_time": 1739018241,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80472,
       "num": 2822476,
       "word": "亚冬会开幕式硬核超燃瞬间",
@@ -2643,14 +2819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 48093,
-      "num": 427642,
-      "word": "梁靖崑拥抱王楚钦",
-      "onboard_time": 1739014162,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 46452,
       "num": 377010,
       "word": "花80块接入DeepSeek打造语音助手",
@@ -2665,6 +2833,14 @@
       "onboard_time": 1738970898,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 45439,
+      "num": 279575,
+      "word": "四川宜宾山体滑坡武警紧急救援",
+      "onboard_time": 1739017401,
+      "rank": 14,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 45188,
@@ -3001,6 +3177,14 @@
       "onboard_time": 1738955472,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12707,
+      "num": 260313,
+      "word": "王宝强拍唐探带妆睡觉",
+      "onboard_time": 1739017881,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 11576,
