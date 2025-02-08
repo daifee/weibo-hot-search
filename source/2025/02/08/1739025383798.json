@@ -1,0 +1,410 @@
+{
+  "runTime": 1739025383798,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1902601,
+        "num": 1902601,
+        "word": "公认是烂片但你却很喜欢的电影",
+        "onboard_time": 1739022263,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 974422,
+        "num": 974422,
+        "word": "王楚钦止步新加坡大满贯4强",
+        "onboard_time": 1739017401,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33952,
+        "num": 643808,
+        "word": "哈尔滨亚冬会中国队首金",
+        "onboard_time": 1739006544,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1690421,
+        "num": 635540,
+        "word": "她的遗物不多我是其中一个",
+        "onboard_time": 1739014822,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 619828,
+        "num": 619828,
+        "word": "儿子砸车窗取AED救下心梗父亲",
+        "onboard_time": 1739019503,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 522665,
+        "num": 522665,
+        "word": "日本学校寒潮天仍要求光腿穿校服",
+        "onboard_time": 1739015903,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1200102,
+        "num": 522402,
+        "word": "哪吒2已破74亿",
+        "onboard_time": 1739020583,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 935754,
+        "num": 521487,
+        "word": "陈思诚中国影史票房最高导演",
+        "onboard_time": 1739022203,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 519970,
+        "num": 519970,
+        "word": "零下35度一家三口救下路边冻僵大爷",
+        "onboard_time": 1739019261,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18934,
+        "num": 516181,
+        "word": "中华体育精神颂",
+        "onboard_time": 1739024543,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 749899,
+        "num": 481629,
+        "word": "哪吒2感谢140000000位观众",
+        "onboard_time": 1739003604,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 634147,
+        "num": 468765,
+        "word": "盗版哪吒",
+        "onboard_time": 1739024243,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 679016,
+        "num": 444359,
+        "word": "哪吒2进全球票房榜前50",
+        "onboard_time": 1739025022,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 433649,
+        "num": 433649,
+        "word": "邓为李沁 风月不相关",
+        "onboard_time": 1739022143,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 431257,
+        "num": 431257,
+        "word": "四川山体滑坡30余人失联",
+        "onboard_time": 1739009242,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376364,
+        "num": 376364,
+        "word": "网曝服务区垃圾桶发现大量酥肉腊味",
+        "onboard_time": 1739010504,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328591,
+        "num": 328591,
+        "word": "王楚钦自己淋过雨想为别人撑把伞",
+        "onboard_time": 1739023824,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286778,
+        "num": 286778,
+        "word": "王曼昱蒯曼3比2孙颖莎王艺迪",
+        "onboard_time": 1739019863,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212543,
+        "num": 212543,
+        "word": "林诗栋感谢头哥",
+        "onboard_time": 1739024603,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186658,
+        "num": 212493,
+        "word": "孩子不满压岁钱被代管报警求助",
+        "onboard_time": 1739024063,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 778836,
+        "num": 212397,
+        "word": "光明网评张兰汪小菲账号被封",
+        "onboard_time": 1739014702,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 523990,
+        "num": 212232,
+        "word": "微博共清理大S相关谣言内容2100余条",
+        "onboard_time": 1738997720,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 490166,
+        "num": 212079,
+        "word": "卧底特工拍到缅甸电诈园区内部画面",
+        "onboard_time": 1739009062,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 30042,
+        "num": 211855,
+        "word": "亚冬会9日看点",
+        "onboard_time": 1739025083,
+        "rank": 23,
+        "category": "体育,运动健身"
+      },
+      {
+        "raw_hot": 27389,
+        "num": 211809,
+        "word": "梁靖崑说决赛全力以赴",
+        "onboard_time": 1739024182,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 482449,
+        "num": 211595,
+        "word": "52天婴儿喝奶奶喂的蜂蜜水中毒进ICU",
+        "onboard_time": 1739019083,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401050,
+        "num": 211426,
+        "word": "哪吒2全球十亿美元票房首部非好莱坞影片",
+        "onboard_time": 1739017702,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 53036,
+        "num": 211407,
+        "word": "有人东拼西凑DeepSeek教程卖课",
+        "onboard_time": 1739025203,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 363969,
+        "num": 211255,
+        "word": "刘诗诗 妈妈级别",
+        "onboard_time": 1739021123,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19193,
+        "num": 211066,
+        "word": "周杰伦过年期间录音了",
+        "onboard_time": 1739025143,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300454,
+        "num": 210913,
+        "word": "是的她怀了闺蜜的孩子",
+        "onboard_time": 1739019142,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20667,
+        "num": 210718,
+        "word": "谁是春节最快乐的电车车主",
+        "onboard_time": 1739021004,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293261,
+        "num": 210596,
+        "word": "哪吒2距全球影史第30名还差2亿美元",
+        "onboard_time": 1739019685,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210565,
+        "num": 210565,
+        "word": "五福临门",
+        "onboard_time": 1739022862,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209833,
+        "num": 209833,
+        "word": "武艺分手两三年了",
+        "onboard_time": 1739003064,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200253,
+        "num": 200253,
+        "word": "麦琳 浪姐6",
+        "onboard_time": 1739000243,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190240,
+        "num": 190240,
+        "word": "没人告诉我莲花楼后劲这么大啊",
+        "onboard_time": 1739018722,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189859,
+        "num": 189859,
+        "word": "公司疑因欠款被嘲码农的钱也敢吞",
+        "onboard_time": 1739019924,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188008,
+        "num": 188008,
+        "word": "谢娜质疑好6团总凑不齐",
+        "onboard_time": 1739022203,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176440,
+        "num": 176440,
+        "word": "315曾点名麻六记酸辣粉",
+        "onboard_time": 1739016021,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 168214,
+        "num": 168214,
+        "word": "男子零下35度救下被困大爷",
+        "onboard_time": 1739023944,
+        "rank": 40,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 164556,
+        "num": 164556,
+        "word": "金泰亨送造型师女儿生日礼物",
+        "onboard_time": 1739020224,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163198,
+        "num": 163198,
+        "word": "苹果机器人首次曝光",
+        "onboard_time": 1739024304,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 153341,
+        "num": 153341,
+        "word": "被老师砸破头骨女童妈妈生4胎",
+        "onboard_time": 1739004925,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141539,
+        "num": 141539,
+        "word": "张卫健60岁状态",
+        "onboard_time": 1739015063,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137454,
+        "num": 137454,
+        "word": "普通人真的不用花钱学DeepSeek",
+        "onboard_time": 1739023884,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 137444,
+        "num": 137444,
+        "word": "成毅直播",
+        "onboard_time": 1739017461,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136557,
+        "num": 136557,
+        "word": "六姊妹爸爸车祸去世",
+        "onboard_time": 1739017522,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134711,
+        "num": 134711,
+        "word": "Doinb采访",
+        "onboard_time": 1739024485,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133765,
+        "num": 133765,
+        "word": "谢娜说我打了何炅",
+        "onboard_time": 1739025262,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#深入落实推动新时代东北全面振兴战略部署#"
+    }
+  }
+}
