@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1739003996752,
+  "endTime": 1739006451403,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 2408039,
-      "num": 1214108,
+      "num": 1309681,
       "word": "饺子导演的70亿海报",
       "onboard_time": 1738993765,
       "rank": 6,
@@ -433,6 +433,14 @@
       "onboard_time": 1738590329,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2186129,
+      "num": 2186129,
+      "word": "部分日本人开始反对上四休三了",
+      "onboard_time": 1739001983,
+      "rank": 4,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 2146772,
@@ -787,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1545308,
+      "num": 468834,
+      "word": "武艺分手两三年了",
+      "onboard_time": 1739003064,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1538227,
       "num": 1538227,
       "word": "中方强烈不满坚决反对",
@@ -817,14 +833,6 @@
       "onboard_time": 1738553604,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1480759,
-      "num": 1480759,
-      "word": "部分日本人开始反对上四休三了",
-      "onboard_time": 1739001983,
-      "rank": 4,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1478790,
@@ -1089,6 +1097,14 @@
       "onboard_time": 1738462818,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1215289,
+      "num": 468590,
+      "word": "大热cp二搭",
+      "onboard_time": 1739003304,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1214897,
@@ -1387,14 +1403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1017152,
-      "num": 423419,
-      "word": "武艺分手两三年了",
-      "onboard_time": 1739003064,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1007552,
       "num": 1007552,
       "word": "肯德基满地垃圾无人收",
@@ -1553,6 +1561,14 @@
       "onboard_time": 1738933643,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 936831,
+      "num": 304876,
+      "word": "女童赤裸上身凌晨在室外被罚站",
+      "onboard_time": 1739004084,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 936659,
@@ -1849,6 +1865,14 @@
       "onboard_time": 1738977862,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 831580,
+      "num": 299640,
+      "word": "张兰回应抖音被无限期封禁",
+      "onboard_time": 1739005823,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 820448,
@@ -2313,14 +2337,6 @@
       "onboard_time": 1738808062,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 681845,
-      "num": 423396,
-      "word": "大热cp二搭",
-      "onboard_time": 1739003304,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 680830,
@@ -3291,6 +3307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 523857,
+      "num": 523857,
+      "word": "人血馒头式营销就该严厉打击",
+      "onboard_time": 1739001742,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 522677,
       "num": 462457,
       "word": "敖丙是一个橘子",
@@ -3691,6 +3715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 485130,
+      "num": 293722,
+      "word": "被老师砸破头骨女童妈妈生4胎",
+      "onboard_time": 1739004925,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 484380,
       "num": 367937,
       "word": "朴灿烈想看陈哲远偷偷藏不住",
@@ -3896,6 +3928,14 @@
       "word": "韩国获2025亚冬会首金",
       "onboard_time": 1738981582,
       "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 469613,
+      "num": 469613,
+      "word": "孙颖莎4比3王艺迪",
+      "onboard_time": 1739003424,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -5515,6 +5555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 326535,
+      "num": 296991,
+      "word": "哪吒2感谢140000000位观众",
+      "onboard_time": 1739003604,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 326534,
       "num": 255763,
       "word": "史上学历最低的影帝",
@@ -5585,6 +5633,14 @@
       "onboard_time": 1738940304,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 322656,
+      "num": 293575,
+      "word": "女子三亚酒店顶楼泡澡遭无人机偷拍",
+      "onboard_time": 1739004084,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 322598,
@@ -7123,6 +7179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 247059,
+      "num": 247059,
+      "word": "孙颖莎说蒯曼有很大的进步",
+      "onboard_time": 1739004623,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246646,
       "num": 246646,
       "word": "帅脸背后是另一张帅脸",
@@ -7779,6 +7843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 226672,
+      "num": 226672,
+      "word": "杨迪体检报告上到底有什么",
+      "onboard_time": 1739003364,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226603,
       "num": 190882,
       "word": "哪类人群易患败血症",
@@ -8001,14 +8073,6 @@
       "onboard_time": 1738896982,
       "rank": 40,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 221943,
-      "num": 351337,
-      "word": "人血馒头式营销就该严厉打击",
-      "onboard_time": 1739001742,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 221896,
@@ -8241,14 +8305,6 @@
       "onboard_time": 1738880532,
       "rank": 29,
       "category": "国内时政,电影"
-    },
-    {
-      "raw_hot": 216307,
-      "num": 216307,
-      "word": "杨迪体检报告上到底有什么",
-      "onboard_time": 1739003364,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 216285,
@@ -8505,6 +8561,14 @@
       "onboard_time": 1738918882,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210292,
+      "num": 230252,
+      "word": "孙颖莎正反手切换强得可怕",
+      "onboard_time": 1739004925,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 210040,
@@ -9171,14 +9235,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 200170,
-      "num": 423430,
-      "word": "孙颖莎4比3王艺迪",
-      "onboard_time": 1739003424,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 200121,
       "num": 200121,
       "word": "哪吒冲100亿",
@@ -9721,6 +9777,14 @@
       "onboard_time": 1738573107,
       "rank": 19,
       "category": "民生新闻,科学科普"
+    },
+    {
+      "raw_hot": 191591,
+      "num": 191591,
+      "word": "好一个乖乖女 男女主演技",
+      "onboard_time": 1739004684,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 191449,
@@ -11379,6 +11443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165218,
+      "num": 165218,
+      "word": "周深一眼认出宋雨琦捏的兔子",
+      "onboard_time": 1739006364,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165129,
       "num": 165129,
       "word": "亚冬会吉祥物 小东北虎",
@@ -11841,6 +11913,14 @@
       "onboard_time": 1738890623,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158403,
+      "num": 293497,
+      "word": "DeepSeek赢在钱给够了",
+      "onboard_time": 1739004743,
+      "rank": 26,
+      "category": "互联网"
     },
     {
       "raw_hot": 158388,
@@ -12467,6 +12547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149478,
+      "num": 149478,
+      "word": "任嘉伦不语只是一味拍拍拍",
+      "onboard_time": 1739006364,
+      "rank": 44,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 149408,
       "num": 149408,
       "word": "2025版流感诊疗方案",
@@ -12521,6 +12609,14 @@
       "onboard_time": 1738494138,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 148761,
+      "num": 148761,
+      "word": "孙颖莎王艺迪难分难解",
+      "onboard_time": 1739004324,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 148561,
@@ -13977,6 +14073,14 @@
       "onboard_time": 1738479078,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127441,
+      "num": 147868,
+      "word": "第一批上四休三的日本人开始主动加班",
+      "onboard_time": 1739004864,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 127385,
@@ -17355,6 +17459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61099,
+      "num": 147858,
+      "word": "极氪官宣接入DeepSeek大模型",
+      "onboard_time": 1739006244,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 61041,
       "num": 79707,
       "word": "大年初七",
@@ -17761,14 +17873,6 @@
       "onboard_time": 1738938803,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 53222,
-      "num": 218214,
-      "word": "哪吒2感谢140000000位观众",
-      "onboard_time": 1739003604,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 53127,
@@ -18851,6 +18955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31778,
+      "num": 293876,
+      "word": "12306回应列车上疑有人卖过期食品",
+      "onboard_time": 1739005823,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31667,
       "num": 71419,
       "word": "特朗普称希望乌用稀土矿换援助",
@@ -18913,6 +19025,14 @@
       "onboard_time": 1738902507,
       "rank": 29,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 30622,
+      "num": 293820,
+      "word": "表演型人格是带着缺陷的自恋",
+      "onboard_time": 1739005643,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 30469,
@@ -19577,6 +19697,14 @@
       "onboard_time": 1738966572,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 19851,
+      "num": 293798,
+      "word": "专家从两点分析AI无法代替人类",
+      "onboard_time": 1739005643,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19755,
