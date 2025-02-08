@@ -1,6 +1,6 @@
 {
   "startTime": 1738945672577,
-  "endTime": 1738988744390,
+  "endTime": 1738989544202,
   "band_list": [
     {
       "raw_hot": 14397354,
@@ -27,8 +27,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 3337583,
-      "num": 488256,
+      "raw_hot": 3620118,
+      "num": 996381,
       "word": "抖音副总裁回应封禁汪小菲等账号",
       "onboard_time": 1738986867,
       "rank": 10,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1268840,
+      "num": 485896,
+      "word": "邓超花了15年把孙俪塑造这样",
+      "onboard_time": 1738987227,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1199759,
       "num": 1199759,
       "word": "中方回应巴方退出一带一路协议",
@@ -99,6 +107,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1093941,
+      "num": 344253,
+      "word": "麻六记直播间主播被网友劝换工作",
+      "onboard_time": 1738989507,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 975294,
+      "num": 975294,
+      "word": "国家医保局回应刷医保买华为手表",
+      "onboard_time": 1738985183,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 973504,
       "num": 973504,
       "word": "三大平台养老剧",
@@ -113,14 +137,6 @@
       "onboard_time": 1738971918,
       "rank": 20,
       "category": "民生新闻,时尚"
-    },
-    {
-      "raw_hot": 855826,
-      "num": 485896,
-      "word": "邓超花了15年把孙俪塑造这样",
-      "onboard_time": 1738987227,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 846066,
@@ -155,14 +171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 735220,
-      "num": 735220,
-      "word": "国家医保局回应刷医保买华为手表",
-      "onboard_time": 1738985183,
-      "rank": 34,
-      "category": "数码"
-    },
-    {
       "raw_hot": 725758,
       "num": 519910,
       "word": "特朗普发文宣布解雇拜登",
@@ -171,7 +179,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 706639,
+      "raw_hot": 725014,
       "num": 466929,
       "word": "哪吒2用了10天成为全球第一",
       "onboard_time": 1738985303,
@@ -233,6 +241,14 @@
       "onboard_time": 1738983920,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 501010,
+      "num": 501010,
+      "word": "多地网友分享刷医保买华为手表",
+      "onboard_time": 1738982841,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 499376,
@@ -339,20 +355,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 353121,
-      "num": 491640,
-      "word": "多地网友分享刷医保买华为手表",
-      "onboard_time": 1738982841,
-      "rank": 33,
-      "category": "数码"
-    },
-    {
       "raw_hot": 350841,
       "num": 391555,
       "word": "卡冰",
       "onboard_time": 1738983681,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 347557,
+      "num": 434560,
+      "word": "掌心一集130条人命",
+      "onboard_time": 1738987706,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 345964,
@@ -459,12 +475,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 293972,
+      "num": 438560,
+      "word": "射雕至亲情特辑",
+      "onboard_time": 1738988546,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 290619,
       "num": 270293,
       "word": "唐山卫健委回应南湖医院停诊",
       "onboard_time": 1738983201,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 287537,
+      "num": 287537,
+      "word": "建议睡不着就在床头放个橘子",
+      "onboard_time": 1738989026,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 281413,
+      "num": 337395,
+      "word": "中国首金",
+      "onboard_time": 1738988788,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 278104,
@@ -489,14 +529,6 @@
       "onboard_time": 1738941623,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 250406,
-      "num": 434560,
-      "word": "掌心一集130条人命",
-      "onboard_time": 1738987706,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 245877,
@@ -659,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198246,
+      "num": 198246,
+      "word": "浪姐6",
+      "onboard_time": 1738989090,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196752,
       "num": 196752,
       "word": "为无量仙翁配音大爷到片场才知配反派",
@@ -683,8 +723,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191736,
+      "num": 191736,
+      "word": "谢娜回好六",
+      "onboard_time": 1738989207,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190686,
-      "num": 190686,
+      "num": 266693,
       "word": "少女被拐女心理师是帮凶",
       "onboard_time": 1738987887,
       "rank": 45,
@@ -745,6 +793,14 @@
       "onboard_time": 1738897163,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 177906,
+      "num": 422208,
+      "word": "武大靖说最害怕硬挤的",
+      "onboard_time": 1738988246,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 177610,
@@ -899,14 +955,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 140319,
-      "num": 438560,
-      "word": "射雕至亲情特辑",
-      "onboard_time": 1738988546,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
       "raw_hot": 139893,
       "num": 139893,
       "word": "仙台有树",
@@ -988,7 +1036,7 @@
     },
     {
       "raw_hot": 123207,
-      "num": 197390,
+      "num": 275831,
       "word": "李方慧张可欣包揽冠亚军",
       "onboard_time": 1738986085,
       "rank": 41,
@@ -1099,6 +1147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98137,
+      "num": 488120,
+      "word": "高亭宇夺金",
+      "onboard_time": 1738988847,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95772,
       "num": 95772,
       "word": "李宇春哪吒",
@@ -1179,6 +1235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77721,
+      "num": 477849,
+      "word": "今天是亚冬会产生金牌最多的一天",
+      "onboard_time": 1738988007,
+      "rank": 14,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 77127,
       "num": 173867,
       "word": "菲律宾坠毁飞机系美国承包侦察机",
@@ -1211,6 +1275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 62812,
+      "num": 1015415,
+      "word": "首善答卷",
+      "onboard_time": 1738986806,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61686,
       "num": 82207,
       "word": "恋与深空情人节pv",
@@ -1219,11 +1291,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 53812,
-      "num": 422208,
-      "word": "武大靖说最害怕硬挤的",
-      "onboard_time": 1738988246,
-      "rank": 28,
+      "raw_hot": 57102,
+      "num": 317352,
+      "word": "DeepSeek课程教唆收割AI焦虑税",
+      "onboard_time": 1738988967,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53091,
+      "num": 490451,
+      "word": "中国队包揽女子坡面障碍技巧冠亚军",
+      "onboard_time": 1738988127,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -1243,14 +1323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 50745,
-      "num": 911655,
-      "word": "首善答卷",
-      "onboard_time": 1738986806,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 50508,
       "num": 61543,
       "word": "白鹿下班vlog",
@@ -1259,11 +1331,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 48823,
+      "num": 326849,
+      "word": "泰国总理说全力照顾好每位赴泰游客",
+      "onboard_time": 1738988788,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 48562,
       "num": 199584,
       "word": "蒯曼生日当天夺冠",
       "onboard_time": 1738944560,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 48436,
+      "num": 420991,
+      "word": "李方慧2月4号才知道自己要比赛",
+      "onboard_time": 1738988488,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -1315,14 +1403,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 37401,
-      "num": 420991,
-      "word": "李方慧2月4号才知道自己要比赛",
-      "onboard_time": 1738988488,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 37260,
       "num": 178392,
       "word": "百位家乡名人祝亚冬会圆满成功",
@@ -1347,12 +1427,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 32287,
-      "num": 477849,
-      "word": "今天是亚冬会产生金牌最多的一天",
-      "onboard_time": 1738988007,
-      "rank": 14,
-      "category": "正能量"
+      "raw_hot": 31076,
+      "num": 344271,
+      "word": "首汽约车被曝司机拒载还称投诉也没用",
+      "onboard_time": 1738988907,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 30402,
@@ -1385,14 +1465,6 @@
       "onboard_time": 1738938924,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24687,
-      "num": 490451,
-      "word": "中国队包揽女子坡面障碍技巧冠亚军",
-      "onboard_time": 1738988127,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 24079,
