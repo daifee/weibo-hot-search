@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739043341021,
+  "endTime": 1739046113893,
   "band_list": [
     {
       "raw_hot": 1172015,
@@ -355,8 +355,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 112508,
-      "num": 97515,
+      "raw_hot": 115528,
+      "num": 115528,
       "word": "动画公司回应138家公司托举哪吒2",
       "onboard_time": 1739040193,
       "rank": 6,
@@ -539,7 +539,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 22452,
+      "raw_hot": 25612,
+      "num": 25612,
+      "word": "余承恩王子璇好甜",
+      "onboard_time": 1739042771,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 24450,
       "num": 25192,
       "word": "四川筠连山体滑坡",
       "onboard_time": 1739037193,
@@ -547,12 +555,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20203,
-      "num": 20203,
-      "word": "余承恩王子璇好甜",
-      "onboard_time": 1739042771,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 20178,
+      "num": 30352,
+      "word": "美流感病例激增",
+      "onboard_time": 1739044751,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 17577,
+      "num": 63147,
+      "word": "四川宜宾突发山体滑坡",
+      "onboard_time": 1739039953,
+      "rank": 44,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 17195,
@@ -561,14 +577,6 @@
       "onboard_time": 1739033178,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 14075,
-      "num": 63147,
-      "word": "四川宜宾突发山体滑坡",
-      "onboard_time": 1739039953,
-      "rank": 44,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 12741,
@@ -585,6 +593,14 @@
       "onboard_time": 1739041393,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 10652,
+      "num": 18652,
+      "word": "宜宾筠连山体滑坡救援正在进行",
+      "onboard_time": 1739045951,
+      "rank": 38,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 9831,
@@ -617,6 +633,14 @@
       "onboard_time": 1739042951,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 6238,
+      "num": 30345,
+      "word": "王者荣耀联动洛阳推出新皮肤",
+      "onboard_time": 1739045291,
+      "rank": 24,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
