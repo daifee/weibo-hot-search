@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738993009092,
+  "endTime": 1738996121634,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -387,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2272608,
+      "num": 2272608,
+      "word": "林孝埈夺金",
+      "onboard_time": 1738993525,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2254313,
       "num": 2254313,
       "word": "女生一觉醒来相亲对象已站床边",
@@ -460,7 +468,7 @@
     },
     {
       "raw_hot": 2068848,
-      "num": 773274,
+      "num": 1695685,
       "word": "哪吒2破70亿大关",
       "onboard_time": 1738991186,
       "rank": 6,
@@ -747,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1596681,
+      "num": 504922,
+      "word": "饺子导演的70亿海报",
+      "onboard_time": 1738993765,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1592043,
       "num": 1592043,
       "word": "饺子导演成为百亿票房导演",
@@ -921,6 +937,14 @@
       "onboard_time": 1738850725,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1395629,
+      "num": 488692,
+      "word": "刘晓庆好多吃素的朋友都去世了",
+      "onboard_time": 1738992743,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 1395375,
@@ -2001,6 +2025,14 @@
       "onboard_time": 1738478837,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 817538,
+      "num": 543738,
+      "word": "中国影史第一个70亿",
+      "onboard_time": 1738991904,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 817025,
@@ -3275,6 +3307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 549298,
+      "num": 549298,
+      "word": "林孝埈哭了",
+      "onboard_time": 1738994364,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 547777,
       "num": 403678,
       "word": "哪吒2破66亿元",
@@ -3329,14 +3369,6 @@
       "onboard_time": 1738559316,
       "rank": 14,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 543738,
-      "num": 543738,
-      "word": "中国影史第一个70亿",
-      "onboard_time": 1738991904,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 542792,
@@ -4241,6 +4273,14 @@
       "onboard_time": 1738482918,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 456654,
+      "num": 456654,
+      "word": "王楚钦林诗栋男双冠军",
+      "onboard_time": 1738993765,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 455187,
@@ -5419,11 +5459,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 357336,
+      "num": 357336,
+      "word": "林孝埈短道速滑500米夺金",
+      "onboard_time": 1738994603,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 356641,
       "num": 356641,
       "word": "浓眉",
       "onboard_time": 1738474457,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 355265,
+      "num": 355265,
+      "word": "宁忠岩破亚洲纪录夺金",
+      "onboard_time": 1738994422,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -6011,14 +6067,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 322971,
-      "num": 322971,
-      "word": "刘晓庆好多吃素的朋友都去世了",
-      "onboard_time": 1738992743,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 322918,
       "num": 322918,
       "word": "沈月 广州",
@@ -6123,6 +6171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 315055,
+      "num": 305960,
+      "word": "林孝埈男子500米金牌",
+      "onboard_time": 1738994963,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 314810,
       "num": 400174,
       "word": "举报提前开学补课被回怼究竟谁错了",
@@ -6153,6 +6209,14 @@
       "onboard_time": 1738641802,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 312820,
+      "num": 312820,
+      "word": "黄景瑜宣传王子奇新剧",
+      "onboard_time": 1738994663,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 312561,
@@ -6339,6 +6403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 303732,
+      "num": 465193,
+      "word": "刘少昂再次摔倒",
+      "onboard_time": 1738991545,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 303731,
       "num": 303731,
       "word": "哪吒2有望成中国影史新票房冠军",
@@ -6425,6 +6497,14 @@
       "onboard_time": 1738508721,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 299970,
+      "num": 316003,
+      "word": "金星夫妇意大利豪宅过新年",
+      "onboard_time": 1738992204,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 299965,
@@ -6745,14 +6825,6 @@
       "onboard_time": 1738556986,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 281758,
-      "num": 281758,
-      "word": "金星夫妇意大利豪宅过新年",
-      "onboard_time": 1738992204,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 281413,
@@ -7347,6 +7419,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 255713,
+      "num": 455895,
+      "word": "林孝埈是冠军",
+      "onboard_time": 1738995322,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 255332,
       "num": 255332,
       "word": "封神剧组谈殷郊法相",
@@ -7819,6 +7899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 241816,
+      "num": 241816,
+      "word": "吴姗儒回应代班小S主持",
+      "onboard_time": 1738993164,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241704,
       "num": 241704,
       "word": "第一批返工猫狗已经在路上了",
@@ -7977,6 +8065,14 @@
       "onboard_time": 1738410979,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 237431,
+      "num": 237431,
+      "word": "孙龙摔倒",
+      "onboard_time": 1738994004,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 237142,
@@ -8617,14 +8713,6 @@
       "onboard_time": 1738896982,
       "rank": 40,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 221945,
-      "num": 465193,
-      "word": "刘少昂再次摔倒",
-      "onboard_time": 1738991545,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 221896,
@@ -9505,6 +9593,14 @@
       "onboard_time": 1738930583,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204406,
+      "num": 204406,
+      "word": "王楚钦这球干脆利落",
+      "onboard_time": 1738995624,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 204379,
@@ -10483,6 +10579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190469,
+      "num": 190469,
+      "word": "林孝埈一个丝滑超越夺金",
+      "onboard_time": 1738995862,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190249,
       "num": 190249,
       "word": "梁洁演晋江女主适配度",
@@ -11203,6 +11307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 181974,
+      "num": 181974,
+      "word": "当地纪委回应警车连撞三车",
+      "onboard_time": 1738993885,
+      "rank": 46,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 181962,
       "num": 488694,
       "word": "中方舰艇编队正常过航巴西兰海峡",
@@ -11643,6 +11755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175169,
+      "num": 175169,
+      "word": "湖南一警车被精神病人开走连撞3车",
+      "onboard_time": 1738995624,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174656,
       "num": 224643,
       "word": "王楚钦林诗栋3比1瑞典组合",
@@ -11921,6 +12041,14 @@
       "onboard_time": 1738664664,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 171496,
+      "num": 171496,
+      "word": "邓为新剧变暴娇男妲己",
+      "onboard_time": 1738995563,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 171042,
@@ -12641,6 +12769,14 @@
       "onboard_time": 1738987766,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161080,
+      "num": 193938,
+      "word": "蔡少芬欣赏肖战",
+      "onboard_time": 1738994663,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 161070,
@@ -15809,6 +15945,14 @@
       "onboard_time": 1738457776,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 122001,
+      "num": 440178,
+      "word": "孙龙助力林孝埈",
+      "onboard_time": 1738995262,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 121839,
@@ -19435,6 +19579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58434,
+      "num": 436829,
+      "word": "天庭三大反骨仔都与四川有关",
+      "onboard_time": 1738994722,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 57685,
       "num": 403387,
       "word": "金饰挂牌价逼近850元",
@@ -19641,6 +19793,14 @@
       "onboard_time": 1738729703,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 54168,
+      "num": 1801091,
+      "word": "中国红霸气亮相",
+      "onboard_time": 1738994489,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 54110,
@@ -20089,6 +20249,14 @@
       "onboard_time": 1738381097,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46452,
+      "num": 377010,
+      "word": "花80块接入DeepSeek打造语音助手",
+      "onboard_time": 1738994663,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 46437,
@@ -21683,6 +21851,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 18817,
+      "num": 355900,
+      "word": "唐探1900一环刀一环",
+      "onboard_time": 1738995862,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 18505,
       "num": 60004,
       "word": "中国和文莱共建命运共同体",
@@ -21849,6 +22025,14 @@
       "onboard_time": 1738783331,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 15136,
+      "num": 308876,
+      "word": "得过一次流感不代表终身免疫",
+      "onboard_time": 1738995685,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 15109,

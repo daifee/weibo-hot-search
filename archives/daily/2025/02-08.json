@@ -1,6 +1,6 @@
 {
   "startTime": 1738945672577,
-  "endTime": 1738993009092,
+  "endTime": 1738996121634,
   "band_list": [
     {
       "raw_hot": 14397354,
@@ -51,8 +51,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2272608,
+      "num": 2272608,
+      "word": "林孝埈夺金",
+      "onboard_time": 1738993525,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2068848,
-      "num": 773274,
+      "num": 1695685,
       "word": "哪吒2破70亿大关",
       "onboard_time": 1738991186,
       "rank": 6,
@@ -91,12 +99,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1596681,
+      "num": 504922,
+      "word": "饺子导演的70亿海报",
+      "onboard_time": 1738993765,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1568831,
       "num": 881317,
       "word": "张兰账号利用逝者恶意炒作营销",
       "onboard_time": 1738986264,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1395629,
+      "num": 488692,
+      "word": "刘晓庆好多吃素的朋友都去世了",
+      "onboard_time": 1738992743,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 1281819,
@@ -169,6 +193,14 @@
       "onboard_time": 1738977862,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 817538,
+      "num": 543738,
+      "word": "中国影史第一个70亿",
+      "onboard_time": 1738991904,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 778010,
@@ -251,12 +283,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 543738,
-      "num": 543738,
-      "word": "中国影史第一个70亿",
-      "onboard_time": 1738991904,
-      "rank": 44,
-      "category": "电影"
+      "raw_hot": 549298,
+      "num": 549298,
+      "word": "林孝埈哭了",
+      "onboard_time": 1738994364,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 535236,
@@ -339,6 +371,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 456654,
+      "num": 456654,
+      "word": "王楚钦林诗栋男双冠军",
+      "onboard_time": 1738993765,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 452373,
       "num": 452373,
       "word": "DeepSeek下棋骗赢了ChatGPT",
@@ -419,6 +459,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 357336,
+      "num": 357336,
+      "word": "林孝埈短道速滑500米夺金",
+      "onboard_time": 1738994603,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 355265,
+      "num": 355265,
+      "word": "宁忠岩破亚洲纪录夺金",
+      "onboard_time": 1738994422,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 350841,
       "num": 391555,
       "word": "卡冰",
@@ -475,14 +531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 322971,
-      "num": 322971,
-      "word": "刘晓庆好多吃素的朋友都去世了",
-      "onboard_time": 1738992743,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 316355,
       "num": 316355,
       "word": "一家三口从新加坡坐火车12天回成都",
@@ -491,11 +539,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 315055,
+      "num": 305960,
+      "word": "林孝埈男子500米金牌",
+      "onboard_time": 1738994963,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 312862,
       "num": 266259,
       "word": "丁禹兮的玩偶是虞书欣同款",
       "onboard_time": 1738939103,
       "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 312820,
+      "num": 312820,
+      "word": "黄景瑜宣传王子奇新剧",
+      "onboard_time": 1738994663,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -523,6 +587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 303732,
+      "num": 465193,
+      "word": "刘少昂再次摔倒",
+      "onboard_time": 1738991545,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 303607,
       "num": 303607,
       "word": "乌尔善说会把殷郊法相做得更有质感",
@@ -537,6 +609,14 @@
       "onboard_time": 1738972218,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 299970,
+      "num": 316003,
+      "word": "金星夫妇意大利豪宅过新年",
+      "onboard_time": 1738992204,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 297046,
@@ -571,14 +651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 281758,
-      "num": 281758,
-      "word": "金星夫妇意大利豪宅过新年",
-      "onboard_time": 1738992204,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 281413,
       "num": 337395,
       "word": "中国首金",
@@ -611,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 255713,
+      "num": 455895,
+      "word": "林孝埈是冠军",
+      "onboard_time": 1738995322,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 255332,
       "num": 255332,
       "word": "封神剧组谈殷郊法相",
@@ -633,6 +713,22 @@
       "onboard_time": 1738973959,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 241816,
+      "num": 241816,
+      "word": "吴姗儒回应代班小S主持",
+      "onboard_time": 1738993164,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 237431,
+      "num": 237431,
+      "word": "孙龙摔倒",
+      "onboard_time": 1738994004,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 236407,
@@ -689,14 +785,6 @@
       "onboard_time": 1738988727,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 221945,
-      "num": 465193,
-      "word": "刘少昂再次摔倒",
-      "onboard_time": 1738991545,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 221435,
@@ -795,6 +883,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 204406,
+      "num": 204406,
+      "word": "王楚钦这球干脆利落",
+      "onboard_time": 1738995624,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203929,
       "num": 203929,
       "word": "仙台有树口碑",
@@ -867,12 +963,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191560,
+      "num": 191560,
+      "word": "我家那小子",
+      "onboard_time": 1738995743,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190686,
       "num": 266693,
       "word": "少女被拐女心理师是帮凶",
       "onboard_time": 1738987887,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190469,
+      "num": 190469,
+      "word": "林孝埈一个丝滑超越夺金",
+      "onboard_time": 1738995862,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 190389,
@@ -905,6 +1017,14 @@
       "onboard_time": 1738973959,
       "rank": 31,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 181974,
+      "num": 181974,
+      "word": "当地纪委回应警车连撞三车",
+      "onboard_time": 1738993885,
+      "rank": 46,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 180063,
@@ -971,6 +1091,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175169,
+      "num": 175169,
+      "word": "湖南一警车被精神病人开走连撞3车",
+      "onboard_time": 1738995624,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171496,
+      "num": 171496,
+      "word": "邓为新剧变暴娇男妲己",
+      "onboard_time": 1738995563,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168782,
       "num": 298048,
       "word": "果然现偶还得是陈哲远",
@@ -1009,6 +1145,14 @@
       "onboard_time": 1738987766,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161080,
+      "num": 193938,
+      "word": "蔡少芬欣赏肖战",
+      "onboard_time": 1738994663,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 158777,
@@ -1217,6 +1361,14 @@
       "onboard_time": 1738932923,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 122001,
+      "num": 440178,
+      "word": "孙龙助力林孝埈",
+      "onboard_time": 1738995262,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 121968,
@@ -1451,12 +1603,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58434,
+      "num": 436829,
+      "word": "天庭三大反骨仔都与四川有关",
+      "onboard_time": 1738994722,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 57102,
       "num": 317352,
       "word": "DeepSeek课程教唆收割AI焦虑税",
       "onboard_time": 1738988967,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54168,
+      "num": 1801091,
+      "word": "中国红霸气亮相",
+      "onboard_time": 1738994489,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 54003,
@@ -1545,6 +1713,14 @@
       "onboard_time": 1738988488,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46452,
+      "num": 377010,
+      "word": "花80块接入DeepSeek打造语音助手",
+      "onboard_time": 1738994663,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 46056,
@@ -1747,6 +1923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 18817,
+      "num": 355900,
+      "word": "唐探1900一环刀一环",
+      "onboard_time": 1738995862,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 16035,
       "num": 18096,
       "word": "中国人用非遗待客仪式感拉满",
@@ -1761,6 +1945,14 @@
       "onboard_time": 1738950254,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 15136,
+      "num": 308876,
+      "word": "得过一次流感不代表终身免疫",
+      "onboard_time": 1738995685,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 15109,
