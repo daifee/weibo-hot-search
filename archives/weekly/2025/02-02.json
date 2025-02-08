@@ -1,6 +1,6 @@
 {
   "startTime": 1738427071997,
-  "endTime": 1738982771159,
+  "endTime": 1738983420410,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -355,6 +355,14 @@
       "category": "艺人,电影"
     },
     {
+      "raw_hot": 2251534,
+      "num": 2251534,
+      "word": "林孝埈摔倒",
+      "onboard_time": 1738981821,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2237575,
       "num": 2237575,
       "word": "逆跌",
@@ -560,6 +568,14 @@
       "word": "正常情况下流感死亡率并不高",
       "onboard_time": 1738564712,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1738037,
+      "num": 1155976,
+      "word": "唐山一医院被曝破产病人全部出院",
+      "onboard_time": 1738981161,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -819,14 +835,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1388640,
-      "num": 1388640,
-      "word": "林孝埈摔倒",
-      "onboard_time": 1738981821,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1388485,
       "num": 662502,
       "word": "吴佩慈受访时泣不成声",
@@ -1040,14 +1048,6 @@
       "word": "立春咬春病不沾身",
       "onboard_time": 1738507459,
       "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1155976,
-      "num": 1155976,
-      "word": "唐山一医院被曝破产病人全部出院",
-      "onboard_time": 1738981161,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -1827,6 +1827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 778010,
+      "num": 586623,
+      "word": "哪吒敖丙双人贺图",
+      "onboard_time": 1738977681,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 776082,
       "num": 776082,
       "word": "射雕豆瓣5.5",
@@ -1915,14 +1923,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 745331,
-      "num": 586623,
-      "word": "哪吒敖丙双人贺图",
-      "onboard_time": 1738977681,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 744060,
       "num": 744060,
       "word": "于冬反问无名只配6.6分吗",
@@ -1961,6 +1961,14 @@
       "onboard_time": 1738581570,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 725758,
+      "num": 482932,
+      "word": "特朗普发文宣布解雇拜登",
+      "onboard_time": 1738980201,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 718175,
@@ -2009,14 +2017,6 @@
       "onboard_time": 1738716681,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 702851,
-      "num": 482932,
-      "word": "特朗普发文宣布解雇拜登",
-      "onboard_time": 1738980201,
-      "rank": 11,
-      "category": "国际时政"
     },
     {
       "raw_hot": 701613,
@@ -3131,6 +3131,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 510293,
+      "num": 389925,
+      "word": "Angelababy 浪姐6",
+      "onboard_time": 1738982841,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 509989,
       "num": 509989,
       "word": "3人落水被机器人救起",
@@ -3241,6 +3249,14 @@
       "onboard_time": 1738557164,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 499376,
+      "num": 499376,
+      "word": "中国队短道速滑2000米接力意外摔倒",
+      "onboard_time": 1738982001,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 498558,
@@ -3515,6 +3531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 472765,
+      "num": 362961,
+      "word": "节后减重多吃3种发酵食物",
+      "onboard_time": 1738981161,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 472743,
       "num": 472743,
       "word": "大侦探录了两小时的开场",
@@ -3553,6 +3577,14 @@
       "onboard_time": 1738758263,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 470520,
+      "num": 470520,
+      "word": "韩国获2025亚冬会首金",
+      "onboard_time": 1738981582,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 467533,
@@ -4379,14 +4411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 379816,
-      "num": 362961,
-      "word": "节后减重多吃3种发酵食物",
-      "onboard_time": 1738981161,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 379707,
       "num": 287969,
       "word": "SM新练习生年龄公开",
@@ -4627,20 +4651,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 358265,
-      "num": 399687,
-      "word": "韩国获2025亚冬会首金",
-      "onboard_time": 1738981582,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 357842,
       "num": 268359,
       "word": "生完孩子几年后才能轻松一点",
       "onboard_time": 1738767446,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 357640,
+      "num": 327858,
+      "word": "男子机场猥亵女性旅客被行拘",
+      "onboard_time": 1738981522,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 357575,
@@ -5043,14 +5067,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 327858,
-      "num": 327858,
-      "word": "男子机场猥亵女性旅客被行拘",
-      "onboard_time": 1738981522,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 327566,
       "num": 327566,
       "word": "电影蛟龙行动",
@@ -5129,6 +5145,14 @@
       "onboard_time": 1738732943,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 323357,
+      "num": 323357,
+      "word": "中国短道速滑队错失首金",
+      "onboard_time": 1738982300,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 323153,
@@ -5417,14 +5441,6 @@
       "onboard_time": 1738971918,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 303192,
-      "num": 303192,
-      "word": "中国短道速滑队错失首金",
-      "onboard_time": 1738982300,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 302690,
@@ -6891,14 +6907,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 233859,
-      "num": 487947,
-      "word": "中国队短道速滑2000米接力意外摔倒",
-      "onboard_time": 1738982001,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 233563,
       "num": 233563,
       "word": "iPhoneSE4本月或上市",
@@ -7737,6 +7745,14 @@
       "onboard_time": 1738767504,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212363,
+      "num": 212363,
+      "word": "多地网友分享刷医保买华为手表",
+      "onboard_time": 1738982841,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 212127,
@@ -10299,6 +10315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169041,
+      "num": 169041,
+      "word": "亚冬会直播",
+      "onboard_time": 1738982601,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168877,
       "num": 1676138,
       "word": "林诗栋回应与王楚钦搭档男双",
@@ -11227,6 +11251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 153708,
+      "num": 153708,
+      "word": "范可新超越好帅",
+      "onboard_time": 1738983380,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153596,
       "num": 153596,
       "word": "剑网3",
@@ -11240,6 +11272,14 @@
       "word": "高承睿3比2F勒布伦",
       "onboard_time": 1738675283,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 153424,
+      "num": 452011,
+      "word": "亚冬会机器狗成巡检员",
+      "onboard_time": 1738981641,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -11713,6 +11753,14 @@
       "onboard_time": 1738454654,
       "rank": 35,
       "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 145393,
+      "num": 145393,
+      "word": "患癌老兵手写账本退还爱心捐款",
+      "onboard_time": 1738982722,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145375,
@@ -12299,14 +12347,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 138494,
-      "num": 138494,
-      "word": "亚冬会直播",
-      "onboard_time": 1738982601,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 138282,
       "num": 138282,
       "word": "朱雨玲3比0大藤沙月",
@@ -12771,6 +12811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130552,
+      "num": 391194,
+      "word": "2025亚冬会中国队首枚奖牌",
+      "onboard_time": 1738982961,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130528,
       "num": 144198,
       "word": "黄圣池演技反差感",
@@ -12841,6 +12889,14 @@
       "onboard_time": 1738482438,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129967,
+      "num": 270293,
+      "word": "唐山卫健委回应南湖医院停诊",
+      "onboard_time": 1738983201,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129932,
@@ -13089,14 +13145,6 @@
       "onboard_time": 1738505840,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 126868,
-      "num": 126868,
-      "word": "患癌老兵手写账本退还爱心捐款",
-      "onboard_time": 1738982722,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126804,
@@ -15227,14 +15275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 90830,
-      "num": 452011,
-      "word": "亚冬会机器狗成巡检员",
-      "onboard_time": 1738981641,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 90372,
       "num": 194466,
       "word": "男子500米中国选手全晋级",
@@ -15604,7 +15644,7 @@
     },
     {
       "raw_hot": 80472,
-      "num": 1159940,
+      "num": 1184644,
       "word": "亚冬会开幕式硬核超燃瞬间",
       "onboard_time": 1738938504,
       "rank": 2,
