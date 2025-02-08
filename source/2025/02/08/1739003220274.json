@@ -1,0 +1,410 @@
+{
+  "runTime": 1739003220274,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6070881,
+        "num": 6070881,
+        "word": "微博关停张兰账号直播功能",
+        "onboard_time": 1738997242,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1206286,
+        "num": 1206286,
+        "word": "孙颖莎vs王艺迪",
+        "onboard_time": 1739000302,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61619,
+        "num": 973862,
+        "word": "中国红霸气亮相",
+        "onboard_time": 1738994489,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1934874,
+        "num": 915618,
+        "word": "饺子导演的70亿海报",
+        "onboard_time": 1738993765,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 778498,
+        "num": 778498,
+        "word": "部分日本人开始反对上四休三了",
+        "onboard_time": 1739001983,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 513545,
+        "num": 513545,
+        "word": "美国鸡蛋20美元一打有人开始养鸡",
+        "onboard_time": 1738998982,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1264686,
+        "num": 510076,
+        "word": "麦琳 浪姐6",
+        "onboard_time": 1739000243,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1088501,
+        "num": 508567,
+        "word": "微博共清理大S相关谣言内容2100余条",
+        "onboard_time": 1738997720,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501933,
+        "num": 501933,
+        "word": "林孝埈夺金",
+        "onboard_time": 1738993525,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 487543,
+        "num": 487543,
+        "word": "林孝埈集齐最后一块冠军拼图",
+        "onboard_time": 1739001143,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 997759,
+        "num": 487195,
+        "word": "哪吒2破70亿大关",
+        "onboard_time": 1738991186,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 653809,
+        "num": 483420,
+        "word": "张兰汪小菲抖音无限期封禁",
+        "onboard_time": 1738985241,
+        "rank": 11,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 589817,
+        "num": 479454,
+        "word": "特朗普将停止推广纸吸管",
+        "onboard_time": 1738998982,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 540914,
+        "num": 479048,
+        "word": "中国影史第一个70亿",
+        "onboard_time": 1738991904,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 72560,
+        "num": 474662,
+        "word": "网红打金师已排单到2个月后",
+        "onboard_time": 1739002224,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 588310,
+        "num": 472057,
+        "word": "刘晓庆好多吃素的朋友都去世了",
+        "onboard_time": 1738992743,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 490598,
+        "num": 470086,
+        "word": "邓超花了15年把孙俪塑造这样",
+        "onboard_time": 1738987227,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468196,
+        "num": 468196,
+        "word": "男子离职三年后替公司背320万巨债",
+        "onboard_time": 1738999885,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283059,
+        "num": 283059,
+        "word": "饺子曾靠母亲1000元退休金生活3年",
+        "onboard_time": 1738985964,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39894,
+        "num": 283025,
+        "word": "高亭宇夺金后发文",
+        "onboard_time": 1739002642,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 482561,
+        "num": 282181,
+        "word": "抖音副总裁回应封禁汪小菲等账号",
+        "onboard_time": 1738986867,
+        "rank": 20,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 49373,
+        "num": 281059,
+        "word": "首日奖牌榜中国8金",
+        "onboard_time": 1739002944,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 475020,
+        "num": 280725,
+        "word": "邓超孙俪 水晶婚",
+        "onboard_time": 1739002284,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414501,
+        "num": 279329,
+        "word": "微博处置100余个涉大S谣言账号",
+        "onboard_time": 1738997720,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64357,
+        "num": 279296,
+        "word": "中国姑娘包揽前三名",
+        "onboard_time": 1739002824,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 366719,
+        "num": 278498,
+        "word": "刘晓庆泳装",
+        "onboard_time": 1738997963,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310728,
+        "num": 277169,
+        "word": "好一个乖乖女",
+        "onboard_time": 1738996943,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300653,
+        "num": 276366,
+        "word": "申小豹照着木吒的样子化形",
+        "onboard_time": 1739002164,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 295246,
+        "num": 275716,
+        "word": "哪吒2全球影史单一市场票房第1",
+        "onboard_time": 1738935684,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 51658,
+        "num": 275361,
+        "word": "公司回应宠物狗被撞后遭工作人员食用",
+        "onboard_time": 1739002284,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274798,
+        "num": 274798,
+        "word": "Angelababy 浪姐6",
+        "onboard_time": 1738982841,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151666,
+        "num": 268441,
+        "word": "张新成英文独白致爱丽丝的一封信",
+        "onboard_time": 1739001923,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 262126,
+        "num": 262126,
+        "word": "武艺分手两三年了",
+        "onboard_time": 1739003064,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246829,
+        "num": 246829,
+        "word": "国家医保局回应刷医保买华为手表",
+        "onboard_time": 1738985183,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 246489,
+        "num": 246489,
+        "word": "哪吒2进入全球票房TOP60",
+        "onboard_time": 1739001923,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 278367,
+        "num": 246346,
+        "word": "终于有网飞质感的国产剧了",
+        "onboard_time": 1739001091,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205493,
+        "num": 246016,
+        "word": "欢瑞新人张祎格是北电校花",
+        "onboard_time": 1739002703,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245833,
+        "num": 245833,
+        "word": "哪吒",
+        "onboard_time": 1738978041,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 228442,
+        "num": 228442,
+        "word": "田曦薇小猫敬礼萌得太犯规",
+        "onboard_time": 1738997661,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221943,
+        "num": 221943,
+        "word": "人血馒头式营销就该严厉打击",
+        "onboard_time": 1739001742,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184962,
+        "num": 216160,
+        "word": "四川筠连县沐爱镇发生山体滑坡",
+        "onboard_time": 1738999643,
+        "rank": 40,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 213734,
+        "num": 213734,
+        "word": "深圳一公交车碰撞站台致2死1伤",
+        "onboard_time": 1738997963,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208690,
+        "num": 208690,
+        "word": "建议金价回调时再酌情少量多次购买",
+        "onboard_time": 1739002343,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 202185,
+        "num": 202185,
+        "word": "林孝埈是冠军",
+        "onboard_time": 1738995322,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196684,
+        "num": 196684,
+        "word": "可颂到了东北都得换个名",
+        "onboard_time": 1738999885,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 188910,
+        "num": 188910,
+        "word": "建议睡不着就在床头放个橘子",
+        "onboard_time": 1738989026,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 187329,
+        "num": 187329,
+        "word": "三面五星红旗一同升起",
+        "onboard_time": 1739002824,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186573,
+        "num": 186573,
+        "word": "李微微被逮捕",
+        "onboard_time": 1738996703,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 163760,
+        "num": 179834,
+        "word": "韩梅1500米金牌",
+        "onboard_time": 1739002762,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179022,
+        "num": 179022,
+        "word": "蒯曼4比2陈幸同",
+        "onboard_time": 1738998142,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席宣布亚冬会开幕#"
+    }
+  }
+}
