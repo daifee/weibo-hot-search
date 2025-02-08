@@ -1,6 +1,6 @@
 {
   "startTime": 1738945672577,
-  "endTime": 1739025383798,
+  "endTime": 1739028052805,
   "band_list": [
     {
       "raw_hot": 14397354,
@@ -147,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1803690,
+      "num": 1803690,
+      "word": "哪吒2进全球票房榜前50",
+      "onboard_time": 1739025022,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1783922,
       "num": 1783922,
       "word": "Angelababy 浪姐6",
@@ -225,6 +233,14 @@
       "onboard_time": 1739013685,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1313670,
+      "num": 313384,
+      "word": "王鹤棣代露娃 咸鱼飞升",
+      "onboard_time": 1739025622,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1281819,
@@ -379,6 +395,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 830134,
+      "num": 468765,
+      "word": "盗版哪吒",
+      "onboard_time": 1739024243,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 817538,
       "num": 543738,
       "word": "中国影史第一个70亿",
@@ -499,14 +523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 679016,
-      "num": 444359,
-      "word": "哪吒2进全球票房榜前50",
-      "onboard_time": 1739025022,
-      "rank": 12,
-      "category": "电影"
-    },
-    {
       "raw_hot": 644747,
       "num": 644747,
       "word": "孙颖莎王艺迪vs王曼昱蒯曼",
@@ -521,14 +537,6 @@
       "onboard_time": 1738997963,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 634147,
-      "num": 468765,
-      "word": "盗版哪吒",
-      "onboard_time": 1739024243,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 617643,
@@ -907,6 +915,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 390723,
+      "num": 390723,
+      "word": "王楚钦自己淋过雨想为别人撑把伞",
+      "onboard_time": 1739023824,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 388068,
       "num": 296438,
       "word": "哪吒2票房2个小时涨1亿",
@@ -1043,14 +1059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 328591,
-      "num": 356828,
-      "word": "王楚钦自己淋过雨想为别人撑把伞",
-      "onboard_time": 1739023824,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 326273,
       "num": 326273,
       "word": "深圳一公交车碰撞站台致2死1伤",
@@ -1171,6 +1179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 301100,
+      "num": 194740,
+      "word": "石矶娘娘配音演员照片宛如石矶本矶",
+      "onboard_time": 1739026944,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 300770,
       "num": 300770,
       "word": "哪吒之魔童闹海票房超过星球大战",
@@ -1265,6 +1281,14 @@
       "onboard_time": 1739013443,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 288904,
+      "num": 288904,
+      "word": "你的吒儿正从生产线火速赶来",
+      "onboard_time": 1739028021,
+      "rank": 18,
+      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 287902,
@@ -1411,6 +1435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 252616,
+      "num": 392209,
+      "word": "孩子不满压岁钱被代管报警求助",
+      "onboard_time": 1739024063,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 251147,
       "num": 251147,
       "word": "敖丙版混天绫",
@@ -1481,6 +1513,14 @@
       "onboard_time": 1739018722,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 231005,
+      "num": 231005,
+      "word": "魏哲鸣录hi6脖子过敏",
+      "onboard_time": 1739027902,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 229676,
@@ -1851,6 +1891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198898,
+      "num": 198898,
+      "word": "12306回应乘客买到过期4年方便面",
+      "onboard_time": 1739026221,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198246,
       "num": 198246,
       "word": "浪姐6",
@@ -1939,6 +1987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192311,
+      "num": 192311,
+      "word": "邪恶栀子花大战邪恶菠萝蜜",
+      "onboard_time": 1739027542,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192203,
       "num": 192203,
       "word": "好一个乖乖女 男女主演技",
@@ -1987,6 +2043,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 187875,
+      "num": 256389,
+      "word": "王曼昱蒯曼用冠军庆祝生日",
+      "onboard_time": 1739025864,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187329,
       "num": 187329,
       "word": "三面五星红旗一同升起",
@@ -2003,12 +2067,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 186658,
-      "num": 392209,
-      "word": "孩子不满压岁钱被代管报警求助",
-      "onboard_time": 1739024063,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 185415,
+      "num": 185415,
+      "word": "周深死脑子快想啊",
+      "onboard_time": 1739026763,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 184363,
@@ -2025,6 +2089,14 @@
       "onboard_time": 1738973959,
       "rank": 31,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 182057,
+      "num": 182057,
+      "word": "李小冉当导游累出高血压",
+      "onboard_time": 1739026702,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 181974,
@@ -2179,6 +2251,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 167700,
+      "num": 309567,
+      "word": "山西一县政府县长与副县长同名同姓",
+      "onboard_time": 1739026702,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167264,
       "num": 296224,
       "word": "邓为掌管白发的神",
@@ -2201,6 +2281,14 @@
       "onboard_time": 1739019083,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164650,
+      "num": 164650,
+      "word": "普通人真的不用花钱学DeepSeek",
+      "onboard_time": 1739023884,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 163760,
@@ -2339,6 +2427,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 151616,
+      "num": 151616,
+      "word": "筠连县已疏散转移安置约200人",
+      "onboard_time": 1739025864,
+      "rank": 39,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 150825,
       "num": 150825,
       "word": "北京9级大风冷得发怵",
@@ -2379,6 +2475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149716,
+      "num": 211407,
+      "word": "有人东拼西凑DeepSeek教程卖课",
+      "onboard_time": 1739025203,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 149249,
       "num": 295789,
       "word": "谁说仙台有树不好看啊",
@@ -2393,6 +2497,14 @@
       "onboard_time": 1739004324,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148610,
+      "num": 148610,
+      "word": "谢娜说我打了何炅",
+      "onboard_time": 1739025262,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 148031,
@@ -2467,12 +2579,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 137454,
-      "num": 137454,
-      "word": "普通人真的不用花钱学DeepSeek",
-      "onboard_time": 1739023884,
-      "rank": 45,
-      "category": "互联网"
+      "raw_hot": 137003,
+      "num": 137003,
+      "word": "成都住房公积金贷款最新调整",
+      "onboard_time": 1739027902,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136557,
@@ -2497,14 +2609,6 @@
       "onboard_time": 1739024485,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 133765,
-      "num": 133765,
-      "word": "谢娜说我打了何炅",
-      "onboard_time": 1739025262,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 133470,
@@ -2593,6 +2697,14 @@
       "onboard_time": 1738940304,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126891,
+      "num": 126891,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1739026221,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 126482,
@@ -2723,6 +2835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114157,
+      "num": 114157,
+      "word": "狄仁杰新皮肤",
+      "onboard_time": 1739025383,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 112593,
       "num": 112593,
       "word": "工作人员回应年后婚姻登记排长龙",
@@ -2848,6 +2968,14 @@
       "word": "林诗栋请全场祝蒯曼生日快乐",
       "onboard_time": 1738940243,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 93208,
+      "num": 250547,
+      "word": "王楚钦第6局神之暂停连得5分",
+      "onboard_time": 1739025983,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -3147,14 +3275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 53036,
-      "num": 211407,
-      "word": "有人东拼西凑DeepSeek教程卖课",
-      "onboard_time": 1739025203,
-      "rank": 27,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 52628,
       "num": 423374,
       "word": "首日奖牌榜中国8金",
@@ -3283,6 +3403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43560,
+      "num": 496896,
+      "word": "从冬奥到亚冬冰雪热燃起来了",
+      "onboard_time": 1739026292,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 43522,
       "num": 54964,
       "word": "冰壶",
@@ -3305,6 +3433,14 @@
       "onboard_time": 1739002642,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39851,
+      "num": 282842,
+      "word": "哪吒2隐喻引热议",
+      "onboard_time": 1739027302,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 39470,
@@ -3457,6 +3593,14 @@
       "onboard_time": 1739024182,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26984,
+      "num": 308023,
+      "word": "四川筠连山体滑坡救援现场",
+      "onboard_time": 1739027721,
+      "rank": 14,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 26823,
@@ -3712,6 +3856,9 @@
     },
     {
       "word": "#深入落实推动新时代东北全面振兴战略部署#"
+    },
+    {
+      "word": "#习近平对四川筠连山体滑坡作出重要指示#"
     }
   ]
 }
