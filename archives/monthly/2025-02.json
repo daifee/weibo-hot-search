@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738983420410,
+  "endTime": 1738985049989,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -169,6 +169,14 @@
       "onboard_time": 1738813524,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 3657589,
+      "num": 3657589,
+      "word": "林孝埈摔倒",
+      "onboard_time": 1738981821,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 3521332,
@@ -361,14 +369,6 @@
       "onboard_time": 1738909582,
       "rank": 29,
       "category": "艺人,电影"
-    },
-    {
-      "raw_hot": 2251534,
-      "num": 2251534,
-      "word": "林孝埈摔倒",
-      "onboard_time": 1738981821,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 2237575,
@@ -601,6 +601,14 @@
       "onboard_time": 1738754065,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1719938,
+      "num": 1719938,
+      "word": "Angelababy 浪姐6",
+      "onboard_time": 1738982841,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 1715829,
@@ -3451,14 +3459,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 510293,
-      "num": 389925,
-      "word": "Angelababy 浪姐6",
-      "onboard_time": 1738982841,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 509989,
       "num": 509989,
       "word": "3人落水被机器人救起",
@@ -3489,6 +3489,14 @@
       "onboard_time": 1738711755,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 506361,
+      "num": 506361,
+      "word": "中国短道速滑队错失首金",
+      "onboard_time": 1738982300,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 506110,
@@ -4603,6 +4611,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 405442,
+      "num": 405442,
+      "word": "退休金十几万被忽悠买550万保险",
+      "onboard_time": 1738983920,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 405360,
       "num": 405360,
       "word": "王猛 马布里已报警",
@@ -5179,6 +5195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 359883,
+      "num": 327858,
+      "word": "男子机场猥亵女性旅客被行拘",
+      "onboard_time": 1738981522,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 358839,
       "num": 358839,
       "word": "哪吒2回应登顶",
@@ -5201,14 +5225,6 @@
       "onboard_time": 1738767446,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 357640,
-      "num": 327858,
-      "word": "男子机场猥亵女性旅客被行拘",
-      "onboard_time": 1738981522,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 357575,
@@ -5275,6 +5291,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 353121,
+      "num": 226948,
+      "word": "多地网友分享刷医保买华为手表",
+      "onboard_time": 1738982841,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 352814,
       "num": 258340,
       "word": "巴特勒加盟勇士",
@@ -5305,6 +5329,14 @@
       "onboard_time": 1738501700,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 350841,
+      "num": 391555,
+      "word": "卡冰",
+      "onboard_time": 1738983681,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 350110,
@@ -5785,14 +5817,6 @@
       "onboard_time": 1738732943,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 323357,
-      "num": 323357,
-      "word": "中国短道速滑队错失首金",
-      "onboard_time": 1738982300,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 323153,
@@ -6369,6 +6393,14 @@
       "onboard_time": 1738485557,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 290619,
+      "num": 270293,
+      "word": "唐山卫健委回应南湖医院停诊",
+      "onboard_time": 1738983201,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 289931,
@@ -8027,6 +8059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227263,
+      "num": 227263,
+      "word": "亚冬会直播",
+      "onboard_time": 1738982601,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 227140,
       "num": 227140,
       "word": "以色列欢迎美国退出联合国人权理事会",
@@ -8419,6 +8459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 219139,
+      "num": 219139,
+      "word": "你好星期六",
+      "onboard_time": 1738386798,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218905,
       "num": 150879,
       "word": "好友揭秘王菲春晚落泪",
@@ -8729,14 +8777,6 @@
       "onboard_time": 1738767504,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 212363,
-      "num": 212363,
-      "word": "多地网友分享刷医保买华为手表",
-      "onboard_time": 1738982841,
-      "rank": 33,
-      "category": "数码"
     },
     {
       "raw_hot": 212127,
@@ -9899,6 +9939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193579,
+      "num": 193579,
+      "word": "余烬之上今日开播",
+      "onboard_time": 1738983982,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193462,
       "num": 193462,
       "word": "王嘉尔的生无可恋写在了脸上",
@@ -11059,6 +11107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177610,
+      "num": 177610,
+      "word": "范可新超越好帅",
+      "onboard_time": 1738983380,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177530,
       "num": 622486,
       "word": "春节假期开始倒数",
@@ -11667,14 +11723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169041,
-      "num": 169041,
-      "word": "亚冬会直播",
-      "onboard_time": 1738982601,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 168877,
       "num": 1676138,
       "word": "林诗栋回应与王楚钦搭档男双",
@@ -11689,6 +11737,14 @@
       "onboard_time": 1738934243,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168726,
+      "num": 452011,
+      "word": "亚冬会机器狗成巡检员",
+      "onboard_time": 1738981641,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 168481,
@@ -11953,6 +12009,14 @@
       "onboard_time": 1738468037,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164063,
+      "num": 164063,
+      "word": "周深就这么水灵灵的被拽出来了",
+      "onboard_time": 1738984760,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 163937,
@@ -12257,14 +12321,6 @@
       "onboard_time": 1738461798,
       "rank": 43,
       "category": "军事"
-    },
-    {
-      "raw_hot": 160444,
-      "num": 92945,
-      "word": "你好星期六",
-      "onboard_time": 1738386798,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 160424,
@@ -12739,6 +12795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154458,
+      "num": 154458,
+      "word": "张碧晨哪吒在故事的最终",
+      "onboard_time": 1738984641,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 154311,
       "num": 154311,
       "word": "芒果上班第一天就冲业绩",
@@ -12795,14 +12859,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 153708,
-      "num": 153708,
-      "word": "范可新超越好帅",
-      "onboard_time": 1738983380,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 153596,
       "num": 153596,
       "word": "剑网3",
@@ -12811,19 +12867,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 153500,
+      "num": 391194,
+      "word": "2025亚冬会中国队首枚奖牌",
+      "onboard_time": 1738982961,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153493,
       "num": 153493,
       "word": "高承睿3比2F勒布伦",
       "onboard_time": 1738675283,
       "rank": 29,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 153424,
-      "num": 452011,
-      "word": "亚冬会机器狗成巡检员",
-      "onboard_time": 1738981641,
-      "rank": 14,
       "category": "体育"
     },
     {
@@ -14403,6 +14459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132868,
+      "num": 132868,
+      "word": "白宫恢复中国小额包裹免税待遇",
+      "onboard_time": 1738984221,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 132790,
       "num": 297451,
       "word": "王楚钦说付出是值得的",
@@ -14587,14 +14651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130552,
-      "num": 391194,
-      "word": "2025亚冬会中国队首枚奖牌",
-      "onboard_time": 1738982961,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 130551,
       "num": 175337,
       "word": "刘昊然 振邦哥哥别笑了我害怕",
@@ -14683,14 +14739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 129967,
-      "num": 270293,
-      "word": "唐山卫健委回应南湖医院停诊",
-      "onboard_time": 1738983201,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129932,
       "num": 247549,
       "word": "张泽禹给张极读18岁的信",
@@ -14737,6 +14785,14 @@
       "onboard_time": 1738680206,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129324,
+      "num": 129324,
+      "word": "哪吒2破69亿",
+      "onboard_time": 1738985002,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 129309,
@@ -17972,7 +18028,7 @@
     },
     {
       "raw_hot": 80472,
-      "num": 1184644,
+      "num": 1503859,
       "word": "亚冬会开幕式硬核超燃瞬间",
       "onboard_time": 1738938504,
       "rank": 2,
@@ -18488,6 +18544,14 @@
       "word": "2000米混接中国队进半决赛",
       "onboard_time": 1738906102,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 68557,
+      "num": 403096,
+      "word": "林孝埈1500米晋级决赛",
+      "onboard_time": 1738984280,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -20035,6 +20099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36536,
+      "num": 226002,
+      "word": "短道中韩对决刚开始",
+      "onboard_time": 1738984221,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36514,
       "num": 79690,
       "word": "流感病毒会无差别攻击全身器官",
@@ -21033,6 +21105,14 @@
       "onboard_time": 1738396938,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20005,
+      "num": 240050,
+      "word": "哪吒2成功的原因",
+      "onboard_time": 1738984580,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 19855,

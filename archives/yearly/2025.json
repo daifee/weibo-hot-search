@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738983420410,
+  "endTime": 1738985049989,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -721,6 +721,14 @@
       "onboard_time": 1736860218,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 3657589,
+      "num": 3657589,
+      "word": "林孝埈摔倒",
+      "onboard_time": 1738981821,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 3638223,
@@ -1801,14 +1809,6 @@
       "onboard_time": 1738909582,
       "rank": 29,
       "category": "艺人,电影"
-    },
-    {
-      "raw_hot": 2251534,
-      "num": 2251534,
-      "word": "林孝埈摔倒",
-      "onboard_time": 1738981821,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 2237575,

@@ -1,7 +1,15 @@
 {
   "startTime": 1738945672577,
-  "endTime": 1738983420410,
+  "endTime": 1738985049989,
   "band_list": [
+    {
+      "raw_hot": 3657589,
+      "num": 3657589,
+      "word": "林孝埈摔倒",
+      "onboard_time": 1738981821,
+      "rank": 1,
+      "category": "体育"
+    },
     {
       "raw_hot": 2784987,
       "num": 2784987,
@@ -9,14 +17,6 @@
       "onboard_time": 1738974861,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 2251534,
-      "num": 2251534,
-      "word": "林孝埈摔倒",
-      "onboard_time": 1738981821,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 1777079,
@@ -33,6 +33,14 @@
       "onboard_time": 1738981161,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1719938,
+      "num": 1719938,
+      "word": "Angelababy 浪姐6",
+      "onboard_time": 1738982841,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 1715829,
@@ -139,12 +147,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 510293,
-      "num": 389925,
-      "word": "Angelababy 浪姐6",
-      "onboard_time": 1738982841,
-      "rank": 13,
-      "category": "综艺"
+      "raw_hot": 506361,
+      "num": 506361,
+      "word": "中国短道速滑队错失首金",
+      "onboard_time": 1738982300,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 499376,
@@ -195,6 +203,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 405442,
+      "num": 405442,
+      "word": "退休金十几万被忽悠买550万保险",
+      "onboard_time": 1738983920,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 398495,
       "num": 301077,
       "word": "微信打电话和手机打电话区别真大",
@@ -219,12 +235,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 357640,
+      "raw_hot": 359883,
       "num": 327858,
       "word": "男子机场猥亵女性旅客被行拘",
       "onboard_time": 1738981522,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 353121,
+      "num": 226948,
+      "word": "多地网友分享刷医保买华为手表",
+      "onboard_time": 1738982841,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 350841,
+      "num": 391555,
+      "word": "卡冰",
+      "onboard_time": 1738983681,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 342321,
@@ -249,14 +281,6 @@
       "onboard_time": 1738977862,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 323357,
-      "num": 323357,
-      "word": "中国短道速滑队错失首金",
-      "onboard_time": 1738982300,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 316355,
@@ -323,6 +347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 290619,
+      "num": 270293,
+      "word": "唐山卫健委回应南湖医院停诊",
+      "onboard_time": 1738983201,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 278104,
       "num": 123213,
       "word": "哪吒2全球单一市场登顶",
@@ -371,6 +403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 227263,
+      "num": 227263,
+      "word": "亚冬会直播",
+      "onboard_time": 1738982601,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 226638,
       "num": 226638,
       "word": "沈月 广州",
@@ -393,6 +433,14 @@
       "onboard_time": 1738977862,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 219139,
+      "num": 219139,
+      "word": "你好星期六",
+      "onboard_time": 1738984040,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 218591,
@@ -425,14 +473,6 @@
       "onboard_time": 1738922841,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 212363,
-      "num": 212363,
-      "word": "多地网友分享刷医保买华为手表",
-      "onboard_time": 1738982841,
-      "rank": 33,
-      "category": "数码"
     },
     {
       "raw_hot": 206025,
@@ -480,6 +520,14 @@
       "word": "国色芳华 杨紫演技",
       "onboard_time": 1738978580,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 193579,
+      "num": 193579,
+      "word": "余烬之上今日开播",
+      "onboard_time": 1738983982,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -531,6 +579,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 177610,
+      "num": 177610,
+      "word": "范可新超越好帅",
+      "onboard_time": 1738983380,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177545,
       "num": 177545,
       "word": "哪吒2",
@@ -547,11 +603,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 169041,
-      "num": 169041,
-      "word": "亚冬会直播",
-      "onboard_time": 1738982601,
-      "rank": 46,
+      "raw_hot": 168726,
+      "num": 452011,
+      "word": "亚冬会机器狗成巡检员",
+      "onboard_time": 1738981641,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -561,6 +617,14 @@
       "onboard_time": 1738937064,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164063,
+      "num": 164063,
+      "word": "周深就这么水灵灵的被拽出来了",
+      "onboard_time": 1738984760,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 161177,
@@ -587,6 +651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154458,
+      "num": 154458,
+      "word": "张碧晨哪吒在故事的最终",
+      "onboard_time": 1738984641,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 154295,
       "num": 154295,
       "word": "美国13州将提起诉讼阻止马斯克",
@@ -595,19 +667,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 153708,
-      "num": 153708,
-      "word": "范可新超越好帅",
-      "onboard_time": 1738983380,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 153424,
-      "num": 452011,
-      "word": "亚冬会机器狗成巡检员",
-      "onboard_time": 1738981641,
-      "rank": 14,
+      "raw_hot": 153500,
+      "num": 391194,
+      "word": "2025亚冬会中国队首枚奖牌",
+      "onboard_time": 1738982961,
+      "rank": 11,
       "category": "体育"
     },
     {
@@ -675,12 +739,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 130552,
-      "num": 391194,
-      "word": "2025亚冬会中国队首枚奖牌",
-      "onboard_time": 1738982961,
-      "rank": 11,
-      "category": "体育"
+      "raw_hot": 132868,
+      "num": 132868,
+      "word": "白宫恢复中国小额包裹免税待遇",
+      "onboard_time": 1738984221,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 130071,
@@ -691,12 +755,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 129967,
-      "num": 270293,
-      "word": "唐山卫健委回应南湖医院停诊",
-      "onboard_time": 1738983201,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 129324,
+      "num": 129324,
+      "word": "哪吒2破69亿",
+      "onboard_time": 1738985002,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 128982,
@@ -900,7 +964,7 @@
     },
     {
       "raw_hot": 80472,
-      "num": 1184644,
+      "num": 1503859,
       "word": "亚冬会开幕式硬核超燃瞬间",
       "onboard_time": 1738938504,
       "rank": 2,
@@ -929,6 +993,14 @@
       "onboard_time": 1738944740,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68557,
+      "num": 403096,
+      "word": "林孝埈1500米晋级决赛",
+      "onboard_time": 1738984280,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 68114,
@@ -1019,6 +1091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36536,
+      "num": 226002,
+      "word": "短道中韩对决刚开始",
+      "onboard_time": 1738984221,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36383,
       "num": 58554,
       "word": "不是hit是maestro",
@@ -1105,6 +1185,14 @@
       "onboard_time": 1738958651,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 20005,
+      "num": 240050,
+      "word": "哪吒2成功的原因",
+      "onboard_time": 1738984580,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 19855,
