@@ -1,0 +1,410 @@
+{
+  "runTime": 1739011108005,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2226824,
+        "num": 2226824,
+        "word": "哪吒2感谢140000000位观众",
+        "onboard_time": 1739003604,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 784116,
+        "num": 784116,
+        "word": "四川山体滑坡30余人失联",
+        "onboard_time": 1739009242,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34859,
+        "num": 595502,
+        "word": "亚冬会保障进行时",
+        "onboard_time": 1739007683,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 951686,
+        "num": 560376,
+        "word": "饺子导演的70亿海报",
+        "onboard_time": 1738993765,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 502951,
+        "num": 502951,
+        "word": "人血馒头式营销就该严厉打击",
+        "onboard_time": 1739001742,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 501805,
+        "num": 501805,
+        "word": "王楚钦vs梁靖崑",
+        "onboard_time": 1739009301,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 760977,
+        "num": 480252,
+        "word": "武艺分手两三年了",
+        "onboard_time": 1739003064,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 758928,
+        "num": 451495,
+        "word": "微博共清理大S相关谣言内容2100余条",
+        "onboard_time": 1738997720,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381975,
+        "num": 381975,
+        "word": "四川筠连县沐爱镇发生山体滑坡",
+        "onboard_time": 1738999643,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 264388,
+        "num": 381791,
+        "word": "林孝埈集齐最后一块冠军拼图",
+        "onboard_time": 1739001143,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1548537,
+        "num": 373452,
+        "word": "张兰回应抖音被无限期封禁",
+        "onboard_time": 1739005823,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 719444,
+        "num": 368658,
+        "word": "哪吒2破70亿大关",
+        "onboard_time": 1738991186,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 694115,
+        "num": 365955,
+        "word": "一念关山",
+        "onboard_time": 1739008464,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 539794,
+        "num": 361233,
+        "word": "林孝埈打破韩国包揽9金的豪言",
+        "onboard_time": 1739009604,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 449421,
+        "num": 354667,
+        "word": "被老师砸破头骨女童妈妈生4胎",
+        "onboard_time": 1739004925,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1080976,
+        "num": 353096,
+        "word": "微博关停张兰账号直播功能",
+        "onboard_time": 1738997242,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 617234,
+        "num": 348037,
+        "word": "大热cp二搭",
+        "onboard_time": 1739003304,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417750,
+        "num": 341090,
+        "word": "祝绪丹被三岁的百亿票房男明星迷住了",
+        "onboard_time": 1739009482,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191958,
+        "num": 335747,
+        "word": "男子离职三年后替公司背320万巨债",
+        "onboard_time": 1738999885,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163536,
+        "num": 333793,
+        "word": "男子称车窗被砸AED被拿走愿免赔",
+        "onboard_time": 1739009301,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1727096,
+        "num": 327572,
+        "word": "卧底特工拍到缅甸电诈园区内部画面",
+        "onboard_time": 1739009062,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 392132,
+        "num": 321978,
+        "word": "春节档排片谁说了算",
+        "onboard_time": 1739009182,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 321047,
+        "num": 321047,
+        "word": "微博处置100余个涉大S谣言账号",
+        "onboard_time": 1738997720,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294203,
+        "num": 294203,
+        "word": "麦琳 浪姐6",
+        "onboard_time": 1739000243,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284819,
+        "num": 284819,
+        "word": "你只说70亿是何居心",
+        "onboard_time": 1739007443,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 254902,
+        "num": 254902,
+        "word": "抖音副总裁回应封禁汪小菲等账号",
+        "onboard_time": 1738986867,
+        "rank": 25,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 243646,
+        "num": 243646,
+        "word": "哪吒2在海外一票难求",
+        "onboard_time": 1739006963,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 237142,
+        "num": 237142,
+        "word": "刘晓庆好多吃素的朋友都去世了",
+        "onboard_time": 1738992743,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183432,
+        "num": 183432,
+        "word": "山西大同比北极还冷",
+        "onboard_time": 1739008341,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183412,
+        "num": 183412,
+        "word": "女子三亚酒店顶楼泡澡遭无人机偷拍",
+        "onboard_time": 1739004084,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311122,
+        "num": 182560,
+        "word": "网曝服务区垃圾桶发现大量酥肉腊味",
+        "onboard_time": 1739010504,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229264,
+        "num": 181582,
+        "word": "中国影史第一个70亿",
+        "onboard_time": 1738991904,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 219640,
+        "num": 181013,
+        "word": "哪吒",
+        "onboard_time": 1738978041,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 211719,
+        "num": 180340,
+        "word": "孟子义晒柬埔寨随拍报平安",
+        "onboard_time": 1739007742,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179738,
+        "num": 179738,
+        "word": "林孝埈滑了3遍才拿到这枚金牌",
+        "onboard_time": 1739010023,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74765,
+        "num": 168550,
+        "word": "极氪官宣接入DeepSeek大模型",
+        "onboard_time": 1739006244,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 68332,
+        "num": 166401,
+        "word": "王楚钦给受伤球迷暖心留言",
+        "onboard_time": 1739008882,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190380,
+        "num": 166355,
+        "word": "哪吒2破72亿元",
+        "onboard_time": 1739007563,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165890,
+        "num": 165890,
+        "word": "日本学校寒潮天仍禁止学生穿裤袜",
+        "onboard_time": 1739010202,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 154265,
+        "num": 154265,
+        "word": "女武一",
+        "onboard_time": 1739006963,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 149559,
+        "num": 149559,
+        "word": "胡歌是有什么发博KPI吗",
+        "onboard_time": 1739009604,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145056,
+        "num": 145056,
+        "word": "刚种完睫毛像个绝望的海胆",
+        "onboard_time": 1739010143,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142126,
+        "num": 142126,
+        "word": "三大运营商全面接入DeepSeek",
+        "onboard_time": 1739010442,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 91689,
+        "num": 139455,
+        "word": "缅甸电诈受害者被殴打电击画面曝光",
+        "onboard_time": 1739011044,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 138607,
+        "num": 138607,
+        "word": "余烬之上",
+        "onboard_time": 1739010561,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134278,
+        "num": 134278,
+        "word": "孙颖莎说蒯曼有很大的进步",
+        "onboard_time": 1739004623,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124449,
+        "num": 124449,
+        "word": "孙颖莎4比3王艺迪",
+        "onboard_time": 1739003424,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123735,
+        "num": 123735,
+        "word": "千方百计搜救失联人员",
+        "onboard_time": 1739010682,
+        "rank": 47,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 118669,
+        "num": 118669,
+        "word": "亲历者讲述四川筠连山体滑坡",
+        "onboard_time": 1739011044,
+        "rank": 48,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 117134,
+        "num": 117134,
+        "word": "林孝埈摘金后喜极而泣",
+        "onboard_time": 1739007262,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪华章#"
+    }
+  }
+}
