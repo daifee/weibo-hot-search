@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739042299021,
+  "endTime": 1739043341021,
   "band_list": [
     {
       "raw_hot": 1172015,
@@ -355,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112508,
+      "num": 97515,
+      "word": "动画公司回应138家公司托举哪吒2",
+      "onboard_time": 1739040193,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 107375,
       "num": 107375,
       "word": "金智秀新剧演技",
@@ -377,14 +385,6 @@
       "onboard_time": 1739032818,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 95410,
-      "num": 95410,
-      "word": "动画公司回应138家公司托举哪吒2",
-      "onboard_time": 1739040193,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 95214,
@@ -483,7 +483,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 55058,
+      "raw_hot": 61415,
       "num": 82910,
       "word": "女生入住毛坯房水电软装花费1万元",
       "onboard_time": 1739038753,
@@ -539,12 +539,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 22227,
+      "raw_hot": 22452,
       "num": 25192,
       "word": "四川筠连山体滑坡",
       "onboard_time": 1739037193,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20203,
+      "num": 20203,
+      "word": "余承恩王子璇好甜",
+      "onboard_time": 1739042771,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 17195,
@@ -555,20 +563,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 14075,
+      "num": 63147,
+      "word": "四川宜宾突发山体滑坡",
+      "onboard_time": 1739039953,
+      "rank": 44,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 12741,
       "num": 54433,
       "word": "公俐对林孝埈说没事",
       "onboard_time": 1739039473,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 12623,
-      "num": 35328,
-      "word": "四川宜宾突发山体滑坡",
-      "onboard_time": 1739039953,
-      "rank": 44,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 11005,
@@ -599,6 +607,14 @@
       "num": 42039,
       "word": "王楚钦说跟梁靖崑会师半决赛很开心",
       "onboard_time": 1739041692,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 6342,
+      "num": 37084,
+      "word": "中国队包揽金银铜",
+      "onboard_time": 1739042951,
       "rank": 24,
       "category": "体育"
     }

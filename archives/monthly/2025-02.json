@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739042299021,
+  "endTime": 1739043341021,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -18107,6 +18107,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 112508,
+      "num": 97515,
+      "word": "动画公司回应138家公司托举哪吒2",
+      "onboard_time": 1739040193,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 112492,
       "num": 1472749,
       "word": "梁家辉肖战戏内打得狠戏外玩得好",
@@ -19529,14 +19537,6 @@
       "onboard_time": 1738596928,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 95410,
-      "num": 95410,
-      "word": "动画公司回应138家公司托举哪吒2",
-      "onboard_time": 1739040193,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 95378,
@@ -21187,6 +21187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61415,
+      "num": 82910,
+      "word": "女生入住毛坯房水电软装花费1万元",
+      "onboard_time": 1739038753,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61142,
       "num": 200670,
       "word": "蛇来运转篮不住",
@@ -21528,14 +21536,6 @@
       "word": "李锋博士曾完成几十项重大研究课题",
       "onboard_time": 1738806563,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 55058,
-      "num": 82910,
-      "word": "女生入住毛坯房水电软装花费1万元",
-      "onboard_time": 1739038753,
-      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -23619,20 +23619,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 22452,
+      "num": 25192,
+      "word": "四川筠连山体滑坡",
+      "onboard_time": 1739037193,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22284,
       "num": 19743,
       "word": "susu福福",
       "onboard_time": 1738437971,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 22227,
-      "num": 25192,
-      "word": "四川筠连山体滑坡",
-      "onboard_time": 1739037193,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22174,
@@ -23769,6 +23769,14 @@
       "onboard_time": 1738918521,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20203,
+      "num": 20203,
+      "word": "余承恩王子璇好甜",
+      "onboard_time": 1739042771,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 20181,
@@ -24131,6 +24139,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 14075,
+      "num": 63147,
+      "word": "四川宜宾突发山体滑坡",
+      "onboard_time": 1739039953,
+      "rank": 44,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 14021,
       "num": 162124,
       "word": "申公豹的苦楚被打工人狠狠共情了",
@@ -24225,14 +24241,6 @@
       "onboard_time": 1738785251,
       "rank": 24,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 12623,
-      "num": 35328,
-      "word": "四川宜宾突发山体滑坡",
-      "onboard_time": 1739039953,
-      "rank": 44,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 12595,
@@ -24639,6 +24647,14 @@
       "num": 42039,
       "word": "王楚钦说跟梁靖崑会师半决赛很开心",
       "onboard_time": 1739041692,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 6342,
+      "num": 37084,
+      "word": "中国队包揽金银铜",
+      "onboard_time": 1739042951,
       "rank": 24,
       "category": "体育"
     },
