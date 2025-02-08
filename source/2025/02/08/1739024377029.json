@@ -1,0 +1,410 @@
+{
+  "runTime": 1739024377029,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1812066,
+        "num": 1812066,
+        "word": "她的遗物不多我是其中一个",
+        "onboard_time": 1739014822,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1103411,
+        "num": 1103411,
+        "word": "王楚钦止步新加坡大满贯4强",
+        "onboard_time": 1739017401,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39063,
+        "num": 795030,
+        "word": "哈尔滨亚冬会中国队首金",
+        "onboard_time": 1739006544,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1595730,
+        "num": 788214,
+        "word": "公认是烂片但你却很喜欢的电影",
+        "onboard_time": 1739022263,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 775992,
+        "num": 775992,
+        "word": "儿子砸车窗取AED救下心梗父亲",
+        "onboard_time": 1739019503,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 538728,
+        "num": 538728,
+        "word": "日本学校寒潮天仍要求光腿穿校服",
+        "onboard_time": 1739015903,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1234619,
+        "num": 533964,
+        "word": "哪吒2已破74亿",
+        "onboard_time": 1739020583,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 485854,
+        "num": 485854,
+        "word": "零下35度一家三口救下路边冻僵大爷",
+        "onboard_time": 1739019261,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 897964,
+        "num": 473006,
+        "word": "哪吒2感谢140000000位观众",
+        "onboard_time": 1739003604,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 459410,
+        "num": 459410,
+        "word": "四川山体滑坡30余人失联",
+        "onboard_time": 1739009242,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 637149,
+        "num": 441001,
+        "word": "陈思诚中国影史票房最高导演",
+        "onboard_time": 1739022203,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118034,
+        "num": 423755,
+        "word": "男子零下35度救下被困大爷",
+        "onboard_time": 1739023944,
+        "rank": 11,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 491015,
+        "num": 422376,
+        "word": "哪吒2全球十亿美元票房首部非好莱坞影片",
+        "onboard_time": 1739017702,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 414937,
+        "num": 414937,
+        "word": "王曼昱蒯曼3比2孙颖莎王艺迪",
+        "onboard_time": 1739019863,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 408952,
+        "num": 408952,
+        "word": "邓为李沁 风月不相关",
+        "onboard_time": 1739022143,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 402340,
+        "num": 402340,
+        "word": "网曝服务区垃圾桶发现大量酥肉腊味",
+        "onboard_time": 1739010504,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22337,
+        "num": 401196,
+        "word": "谁是春节最快乐的电车车主",
+        "onboard_time": 1739021004,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52271,
+        "num": 398144,
+        "word": "王曼昱说蒯曼很有想法很全面",
+        "onboard_time": 1739023644,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37543,
+        "num": 395346,
+        "word": "周笔畅李昊贴贴",
+        "onboard_time": 1739023403,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18890,
+        "num": 392209,
+        "word": "孩子不满压岁钱被代管报警求助",
+        "onboard_time": 1739024063,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291820,
+        "num": 389720,
+        "word": "公司疑因欠款被嘲码农的钱也敢吞",
+        "onboard_time": 1739019924,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 876123,
+        "num": 387929,
+        "word": "光明网评张兰汪小菲账号被封",
+        "onboard_time": 1739014702,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 560712,
+        "num": 383995,
+        "word": "微博共清理大S相关谣言内容2100余条",
+        "onboard_time": 1738997720,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 519517,
+        "num": 382510,
+        "word": "52天婴儿喝奶奶喂的蜂蜜水中毒进ICU",
+        "onboard_time": 1739019083,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380877,
+        "num": 380877,
+        "word": "全球影史票房前30暂未有中国电影",
+        "onboard_time": 1739014822,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 449780,
+        "num": 370702,
+        "word": "卧底特工拍到缅甸电诈园区内部画面",
+        "onboard_time": 1739009062,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 229909,
+        "num": 356828,
+        "word": "王楚钦自己淋过雨想为别人撑把伞",
+        "onboard_time": 1739023824,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 349643,
+        "num": 349643,
+        "word": "是的她怀了闺蜜的孩子",
+        "onboard_time": 1739019142,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304126,
+        "num": 304126,
+        "word": "刘诗诗 妈妈级别",
+        "onboard_time": 1739021123,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249534,
+        "num": 249534,
+        "word": "武艺分手两三年了",
+        "onboard_time": 1739003064,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225844,
+        "num": 225844,
+        "word": "315曾点名麻六记酸辣粉",
+        "onboard_time": 1739016021,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 221398,
+        "num": 221398,
+        "word": "谢娜质疑好6团总凑不齐",
+        "onboard_time": 1739022203,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216151,
+        "num": 216151,
+        "word": "没人告诉我莲花楼后劲这么大啊",
+        "onboard_time": 1739018722,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21847,
+        "num": 212572,
+        "word": "梁靖崑说决赛全力以赴",
+        "onboard_time": 1739024182,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212074,
+        "num": 212074,
+        "word": "五福临门",
+        "onboard_time": 1739022862,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203854,
+        "num": 203854,
+        "word": "书卷一梦",
+        "onboard_time": 1739023703,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14016,
+        "num": 202194,
+        "word": "一人一句为冰雪健儿加油",
+        "onboard_time": 1739023644,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202027,
+        "num": 202027,
+        "word": "饺子导演的70亿海报",
+        "onboard_time": 1738993765,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197390,
+        "num": 197390,
+        "word": "金泰亨送造型师女儿生日礼物",
+        "onboard_time": 1739020224,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197740,
+        "num": 196068,
+        "word": "哪吒2距全球影史第30名还差2亿美元",
+        "onboard_time": 1739019685,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188652,
+        "num": 188652,
+        "word": "麦琳 浪姐6",
+        "onboard_time": 1739000243,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178376,
+        "num": 178376,
+        "word": "林诗栋说没想到4比0赢",
+        "onboard_time": 1739022862,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176950,
+        "num": 176950,
+        "word": "成毅直播",
+        "onboard_time": 1739017461,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168859,
+        "num": 168859,
+        "word": "盗版哪吒",
+        "onboard_time": 1739024243,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162525,
+        "num": 162525,
+        "word": "六姊妹爸爸车祸去世",
+        "onboard_time": 1739017522,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156520,
+        "num": 156520,
+        "word": "被老师砸破头骨女童妈妈生4胎",
+        "onboard_time": 1739004925,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155315,
+        "num": 155315,
+        "word": "张卫健60岁状态",
+        "onboard_time": 1739015063,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132080,
+        "num": 149160,
+        "word": "家访边界感该如何把握",
+        "onboard_time": 1739022503,
+        "rank": 47,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 144645,
+        "num": 144645,
+        "word": "苹果机器人首次曝光",
+        "onboard_time": 1739024304,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 140480,
+        "num": 140480,
+        "word": "六姊妹",
+        "onboard_time": 1739023944,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#不同文明各具风采#"
+    }
+  }
+}
