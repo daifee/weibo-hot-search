@@ -1,0 +1,410 @@
+{
+  "runTime": 1739050598575,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 166919,
+        "num": 186707,
+        "word": "女子得了流感硬抗3天变白肺",
+        "onboard_time": 1739038574,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87425,
+        "num": 87425,
+        "word": "泽连斯基向美国亮出稀土地图",
+        "onboard_time": 1739030721,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 8007,
+        "num": 81948,
+        "word": "从冬奥到亚冬冰雪热燃起来了",
+        "onboard_time": 1739026292,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81785,
+        "num": 81785,
+        "word": "动画公司回应138家公司托举哪吒2",
+        "onboard_time": 1739040193,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 71489,
+        "num": 71489,
+        "word": "高铁买到过期4年方便面目击者发声",
+        "onboard_time": 1739030900,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58904,
+        "num": 58904,
+        "word": "公认是烂片但你却很喜欢的电影",
+        "onboard_time": 1739022263,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 52400,
+        "num": 52400,
+        "word": "日本学校寒潮天仍要求光腿穿校服",
+        "onboard_time": 1739015903,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 40769,
+        "num": 40769,
+        "word": "警方通报欺凌视频事实基本属实",
+        "onboard_time": 1739033955,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40691,
+        "num": 40691,
+        "word": "加沙人说这辈子什么都没有了",
+        "onboard_time": 1739035155,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 38208,
+        "num": 38208,
+        "word": "儿子爆改50岁老爸迷住妈妈",
+        "onboard_time": 1739031859,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41396,
+        "num": 37798,
+        "word": "王鹤棣代露娃 咸鱼飞升",
+        "onboard_time": 1739025622,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37217,
+        "num": 37217,
+        "word": "网曝服务区垃圾桶发现大量酥肉腊味",
+        "onboard_time": 1739010504,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33191,
+        "num": 33191,
+        "word": "哪吒2进全球票房榜前50",
+        "onboard_time": 1739025022,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32437,
+        "num": 32437,
+        "word": "女生入住毛坯房水电软装花费1万元",
+        "onboard_time": 1739038753,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30074,
+        "num": 30074,
+        "word": "邓为演技",
+        "onboard_time": 1739029283,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28566,
+        "num": 28566,
+        "word": "导演饺子初中班主任发声",
+        "onboard_time": 1739029580,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 28022,
+        "num": 28022,
+        "word": "邪恶栀子花大战邪恶菠萝蜜",
+        "onboard_time": 1739027542,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26172,
+        "num": 26172,
+        "word": "王楚钦止步新加坡大满贯4强",
+        "onboard_time": 1739017401,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25696,
+        "num": 25696,
+        "word": "四川筠连山体滑坡",
+        "onboard_time": 1739037193,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24190,
+        "num": 24190,
+        "word": "余承恩王子璇好甜",
+        "onboard_time": 1739042771,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35922,
+        "num": 24183,
+        "word": "52天婴儿喝奶奶喂的蜂蜜水中毒进ICU",
+        "onboard_time": 1739019083,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35661,
+        "num": 24172,
+        "word": "外媒称哪吒2爆火是因中国人没钱旅游",
+        "onboard_time": 1739032398,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 28834,
+        "num": 24163,
+        "word": "卧底特工拍到缅甸电诈园区内部画面",
+        "onboard_time": 1739009062,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 12592,
+        "num": 24159,
+        "word": "冲入江中救人的白马退烧康复",
+        "onboard_time": 1739047931,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24149,
+        "num": 24149,
+        "word": "蛇来运转春节档",
+        "onboard_time": 1739049491,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23582,
+        "num": 23582,
+        "word": "12306回应乘客买到过期4年方便面",
+        "onboard_time": 1739026221,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28178,
+        "num": 23577,
+        "word": "石矶娘娘配音演员照片宛如石矶本矶",
+        "onboard_time": 1739026944,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 22630,
+        "num": 22630,
+        "word": "你的吒儿正从生产线火速赶来",
+        "onboard_time": 1739028021,
+        "rank": 27,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 21415,
+        "num": 21415,
+        "word": "儿子砸车窗取AED救下心梗父亲",
+        "onboard_time": 1739019503,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21396,
+        "num": 21396,
+        "word": "她的遗物不多我是其中一个",
+        "onboard_time": 1739014822,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21016,
+        "num": 21016,
+        "word": "普通人真的不用花钱学DeepSeek",
+        "onboard_time": 1739023884,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 18918,
+        "num": 18918,
+        "word": "女孩遭欺凌5名涉案人员均已到案",
+        "onboard_time": 1739035216,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18662,
+        "num": 18662,
+        "word": "是的她怀了闺蜜的孩子",
+        "onboard_time": 1739019142,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18323,
+        "num": 18323,
+        "word": "四川筠连山体滑坡救援现场",
+        "onboard_time": 1739027721,
+        "rank": 33,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 14661,
+        "num": 18000,
+        "word": "10部门印发互联网军事信息传播管理办法",
+        "onboard_time": 1739047991,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 17928,
+        "num": 17928,
+        "word": "武艺分手两三年了",
+        "onboard_time": 1739003064,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17804,
+        "num": 17804,
+        "word": "盗版哪吒",
+        "onboard_time": 1739024243,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17472,
+        "num": 17472,
+        "word": "美流感病例激增",
+        "onboard_time": 1739044751,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 17028,
+        "num": 17028,
+        "word": "四川山体滑坡30余人失联",
+        "onboard_time": 1739009242,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17012,
+        "num": 17012,
+        "word": "孙颖莎给王艺迪竖大拇指",
+        "onboard_time": 1739031859,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16351,
+        "num": 16351,
+        "word": "李宗伟强烈反对改15分制",
+        "onboard_time": 1739029341,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16246,
+        "num": 16246,
+        "word": "陈思诚中国影史票房最高导演",
+        "onboard_time": 1739022203,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15893,
+        "num": 15893,
+        "word": "刘诗诗 妈妈级别",
+        "onboard_time": 1739021123,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14976,
+        "num": 15893,
+        "word": "四川宜宾突发山体滑坡",
+        "onboard_time": 1739039953,
+        "rank": 43,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 14855,
+        "num": 15893,
+        "word": "紧急预拨3000万元支持四川救灾工作",
+        "onboard_time": 1739029701,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14577,
+        "num": 15893,
+        "word": "五福临门",
+        "onboard_time": 1739022862,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14031,
+        "num": 15893,
+        "word": "没人告诉我莲花楼后劲这么大啊",
+        "onboard_time": 1739018722,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13984,
+        "num": 15892,
+        "word": "哪吒2隐喻引热议",
+        "onboard_time": 1739027302,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13696,
+        "num": 15892,
+        "word": "宜宾筠连山体滑坡救援正在进行",
+        "onboard_time": 1739045951,
+        "rank": 48,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 13586,
+        "num": 15892,
+        "word": "魏哲鸣录hi6脖子过敏",
+        "onboard_time": 1739027902,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对四川筠连山体滑坡作出重要指示#"
+    }
+  }
+}
