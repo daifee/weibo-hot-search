@@ -1,0 +1,410 @@
+{
+  "runTime": 1738982771159,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1991577,
+        "num": 1991577,
+        "word": "所以呢 不是钱吗",
+        "onboard_time": 1738974861,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1388640,
+        "num": 1388640,
+        "word": "林孝埈摔倒",
+        "onboard_time": 1738981821,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55585,
+        "num": 1159940,
+        "word": "亚冬会开幕式硬核超燃瞬间",
+        "onboard_time": 1738938504,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1155976,
+        "num": 1155976,
+        "word": "唐山一医院被曝破产病人全部出院",
+        "onboard_time": 1738981161,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 973504,
+        "num": 973504,
+        "word": "三大平台养老剧",
+        "onboard_time": 1738976421,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 669624,
+        "num": 669624,
+        "word": "中方回应巴方退出一带一路协议",
+        "onboard_time": 1738970898,
+        "rank": 5,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 745331,
+        "num": 586623,
+        "word": "哪吒敖丙双人贺图",
+        "onboard_time": 1738977681,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 489122,
+        "num": 489122,
+        "word": "亚冬会短道2000米混接决赛",
+        "onboard_time": 1738980141,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233859,
+        "num": 487947,
+        "word": "中国队短道速滑2000米接力意外摔倒",
+        "onboard_time": 1738982001,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 584633,
+        "num": 486772,
+        "word": "哪吒2全球影史单一市场票房第1",
+        "onboard_time": 1738935684,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 970198,
+        "num": 485631,
+        "word": "曝贾斯丁比伯健康状况堪忧",
+        "onboard_time": 1738976179,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 702851,
+        "num": 482932,
+        "word": "特朗普发文宣布解雇拜登",
+        "onboard_time": 1738980201,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 482258,
+        "num": 482258,
+        "word": "美国失联飞机上10人均已遇难",
+        "onboard_time": 1738977862,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 462235,
+        "num": 462235,
+        "word": "韩佳人素颜照",
+        "onboard_time": 1738974861,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90830,
+        "num": 452011,
+        "word": "亚冬会机器狗成巡检员",
+        "onboard_time": 1738981641,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 451582,
+        "num": 451582,
+        "word": "饺子导演的毛衣400块",
+        "onboard_time": 1738970956,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 409653,
+        "num": 409653,
+        "word": "饺子背了半个月终于有人问了",
+        "onboard_time": 1738939224,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 358265,
+        "num": 399687,
+        "word": "韩国获2025亚冬会首金",
+        "onboard_time": 1738981582,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 398620,
+        "num": 398620,
+        "word": "短剧 上瘾",
+        "onboard_time": 1738942462,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370142,
+        "num": 370142,
+        "word": "银赫发文取消隐退",
+        "onboard_time": 1738978761,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 698108,
+        "num": 368532,
+        "word": "女生长期把电脑放腿上办公长出蟒蛇纹",
+        "onboard_time": 1738971918,
+        "rank": 20,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 379816,
+        "num": 362961,
+        "word": "节后减重多吃3种发酵食物",
+        "onboard_time": 1738981161,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 344823,
+        "num": 344823,
+        "word": "DeepSeek下棋骗赢了ChatGPT",
+        "onboard_time": 1738972158,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 342321,
+        "num": 342321,
+        "word": "工作中不要散发弱者气息",
+        "onboard_time": 1738979001,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218116,
+        "num": 331549,
+        "word": "短道速滑",
+        "onboard_time": 1738982061,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330122,
+        "num": 330122,
+        "word": "多地今冬最冷白天",
+        "onboard_time": 1738977862,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327858,
+        "num": 327858,
+        "word": "男子机场猥亵女性旅客被行拘",
+        "onboard_time": 1738981522,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307771,
+        "num": 307771,
+        "word": "哪吒",
+        "onboard_time": 1738978041,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 303192,
+        "num": 303192,
+        "word": "中国短道速滑队错失首金",
+        "onboard_time": 1738982300,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291216,
+        "num": 291216,
+        "word": "微信打电话和手机打电话区别真大",
+        "onboard_time": 1738972158,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 290870,
+        "num": 290870,
+        "word": "山东一婚姻登记处年后人满为患",
+        "onboard_time": 1738943602,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201359,
+        "num": 201359,
+        "word": "微信运动是很私密的东西",
+        "onboard_time": 1738971918,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200153,
+        "num": 200153,
+        "word": "老人吵架后去世邻居被判赔偿",
+        "onboard_time": 1738943900,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198984,
+        "num": 198984,
+        "word": "特朗普取消拜登的机密信息权限",
+        "onboard_time": 1738975402,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 196131,
+        "num": 196131,
+        "word": "李金恣成绩被取消",
+        "onboard_time": 1738978941,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194104,
+        "num": 194104,
+        "word": "妈妈花7天给儿子做哪吒2敖光战甲",
+        "onboard_time": 1738977862,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188806,
+        "num": 188806,
+        "word": "飞机滑行时女子上厕所被拒发飙砸门",
+        "onboard_time": 1738977981,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180063,
+        "num": 180063,
+        "word": "景区2米33巨人演员回应走红",
+        "onboard_time": 1738978462,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177075,
+        "num": 177075,
+        "word": "马斯克将审查美国防部支出",
+        "onboard_time": 1738973781,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 174613,
+        "num": 174613,
+        "word": "一家三口从新加坡坐火车12天回成都",
+        "onboard_time": 1738975402,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172287,
+        "num": 172287,
+        "word": "长沙一小学一二年级九点二十上课",
+        "onboard_time": 1738973959,
+        "rank": 40,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 156650,
+        "num": 156650,
+        "word": "种地吧直播",
+        "onboard_time": 1738979001,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147477,
+        "num": 147477,
+        "word": "妈妈版龙王敖光战甲可以量产吗",
+        "onboard_time": 1738982601,
+        "rank": 42,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 146472,
+        "num": 146472,
+        "word": "乌尔善说会把殷郊法相做得更有质感",
+        "onboard_time": 1738971918,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141904,
+        "num": 141904,
+        "word": "国色芳华 杨紫演技",
+        "onboard_time": 1738978580,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140116,
+        "num": 140116,
+        "word": "年后事业运大爆发的星座",
+        "onboard_time": 1738973719,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138494,
+        "num": 138494,
+        "word": "亚冬会直播",
+        "onboard_time": 1738982601,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136924,
+        "num": 136924,
+        "word": "于适怎么感觉头尖尖的",
+        "onboard_time": 1738976421,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136056,
+        "num": 136056,
+        "word": "宁艺卓邀请徐艺洋看演唱会",
+        "onboard_time": 1738973959,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126868,
+        "num": 126868,
+        "word": "患癌老兵手写账本退还爱心捐款",
+        "onboard_time": 1738982722,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席出席哈尔滨亚冬会开幕式#"
+    }
+  }
+}
