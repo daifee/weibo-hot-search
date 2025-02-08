@@ -1,6 +1,6 @@
 {
   "startTime": 1738945672577,
-  "endTime": 1739028052805,
+  "endTime": 1739028926198,
   "band_list": [
     {
       "raw_hot": 14397354,
@@ -219,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1415022,
+      "num": 313702,
+      "word": "王鹤棣代露娃 咸鱼飞升",
+      "onboard_time": 1739025622,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1395629,
       "num": 510612,
       "word": "刘晓庆好多吃素的朋友都去世了",
@@ -233,14 +241,6 @@
       "onboard_time": 1739013685,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1313670,
-      "num": 313384,
-      "word": "王鹤棣代露娃 咸鱼飞升",
-      "onboard_time": 1739025622,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1281819,
@@ -875,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 419884,
+      "num": 308999,
+      "word": "你的吒儿正从生产线火速赶来",
+      "onboard_time": 1739028021,
+      "rank": 18,
+      "category": "民生新闻,电影"
+    },
+    {
       "raw_hot": 413695,
       "num": 502936,
       "word": "林孝埈短道速滑500米夺金",
@@ -928,6 +936,14 @@
       "word": "哪吒2票房2个小时涨1亿",
       "onboard_time": 1738938443,
       "rank": 11,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 379788,
+      "num": 249277,
+      "word": "石矶娘娘配音演员照片宛如石矶本矶",
+      "onboard_time": 1739026944,
+      "rank": 30,
       "category": "电影"
     },
     {
@@ -1155,6 +1171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 310041,
+      "num": 247452,
+      "word": "邪恶栀子花大战邪恶菠萝蜜",
+      "onboard_time": 1739027542,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 307676,
       "num": 307676,
       "word": "马斯克将审查美国防部支出",
@@ -1176,14 +1200,6 @@
       "word": "乌尔善说会把殷郊法相做得更有质感",
       "onboard_time": 1738971918,
       "rank": 18,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 301100,
-      "num": 194740,
-      "word": "石矶娘娘配音演员照片宛如石矶本矶",
-      "onboard_time": 1739026944,
-      "rank": 30,
       "category": "电影"
     },
     {
@@ -1283,14 +1299,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 288904,
-      "num": 288904,
-      "word": "你的吒儿正从生产线火速赶来",
-      "onboard_time": 1739028021,
-      "rank": 18,
-      "category": "民生新闻,电影"
-    },
-    {
       "raw_hot": 287902,
       "num": 254787,
       "word": "哪吒2票房突破73亿元",
@@ -1355,6 +1363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 269822,
+      "num": 269822,
+      "word": "12306回应乘客买到过期4年方便面",
+      "onboard_time": 1739026221,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 267120,
       "num": 296165,
       "word": "沐清歌下线",
@@ -1401,6 +1417,14 @@
       "onboard_time": 1739007262,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 258764,
+      "num": 246096,
+      "word": "魏哲鸣录hi6脖子过敏",
+      "onboard_time": 1739027902,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 256109,
@@ -1467,6 +1491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245562,
+      "num": 245562,
+      "word": "成都住房公积金贷款最新调整",
+      "onboard_time": 1739027902,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 244496,
       "num": 244496,
       "word": "林诗栋4比0胜A勒布伦",
@@ -1513,14 +1545,6 @@
       "onboard_time": 1739018722,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 231005,
-      "num": 231005,
-      "word": "魏哲鸣录hi6脖子过敏",
-      "onboard_time": 1739027902,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 229676,
@@ -1867,6 +1891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199788,
+      "num": 282842,
+      "word": "哪吒2隐喻引热议",
+      "onboard_time": 1739027302,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 199402,
       "num": 313779,
       "word": "金泰亨送造型师女儿生日礼物",
@@ -1891,20 +1923,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198898,
-      "num": 198898,
-      "word": "12306回应乘客买到过期4年方便面",
-      "onboard_time": 1739026221,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 198246,
       "num": 198246,
       "word": "浪姐6",
       "onboard_time": 1738989090,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197087,
+      "num": 197087,
+      "word": "普通人真的不用花钱学DeepSeek",
+      "onboard_time": 1739023884,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 196752,
@@ -1987,14 +2019,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 192311,
-      "num": 192311,
-      "word": "邪恶栀子花大战邪恶菠萝蜜",
-      "onboard_time": 1739027542,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 192203,
       "num": 192203,
       "word": "好一个乖乖女 男女主演技",
@@ -2019,6 +2043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189578,
+      "num": 256389,
+      "word": "王曼昱蒯曼用冠军庆祝生日",
+      "onboard_time": 1739025864,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189457,
       "num": 239066,
       "word": "孙颖莎这18秒轻轻帅晕了我",
@@ -2041,14 +2073,6 @@
       "onboard_time": 1738954272,
       "rank": 4,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 187875,
-      "num": 256389,
-      "word": "王曼昱蒯曼用冠军庆祝生日",
-      "onboard_time": 1739025864,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 187329,
@@ -2156,7 +2180,7 @@
     },
     {
       "raw_hot": 178376,
-      "num": 178376,
+      "num": 178402,
       "word": "林诗栋说没想到4比0赢",
       "onboard_time": 1739022862,
       "rank": 41,
@@ -2281,14 +2305,6 @@
       "onboard_time": 1739019083,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 164650,
-      "num": 164650,
-      "word": "普通人真的不用花钱学DeepSeek",
-      "onboard_time": 1739023884,
-      "rank": 45,
-      "category": "互联网"
     },
     {
       "raw_hot": 163760,
@@ -2547,6 +2563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 143042,
+      "num": 317658,
+      "word": "四川筠连山体滑坡救援现场",
+      "onboard_time": 1739027721,
+      "rank": 14,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 140480,
       "num": 140480,
       "word": "六姊妹",
@@ -2577,14 +2601,6 @@
       "onboard_time": 1739010561,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 137003,
-      "num": 137003,
-      "word": "成都住房公积金贷款最新调整",
-      "onboard_time": 1739027902,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 136557,
@@ -2657,6 +2673,14 @@
       "onboard_time": 1738976541,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 128330,
+      "num": 128330,
+      "word": "檀健次问健次有多帅",
+      "onboard_time": 1739028501,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 127951,
@@ -3435,14 +3459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 39851,
-      "num": 282842,
-      "word": "哪吒2隐喻引热议",
-      "onboard_time": 1739027302,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 39470,
       "num": 54968,
       "word": "亚冬会食堂400多种美食嘎嘎香",
@@ -3593,14 +3609,6 @@
       "onboard_time": 1739024182,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 26984,
-      "num": 308023,
-      "word": "四川筠连山体滑坡救援现场",
-      "onboard_time": 1739027721,
-      "rank": 14,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 26823,
