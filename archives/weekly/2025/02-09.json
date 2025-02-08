@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739046113893,
+  "endTime": 1739046946344,
   "band_list": [
     {
       "raw_hot": 1172015,
@@ -547,7 +547,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 24450,
+      "raw_hot": 24690,
       "num": 25192,
       "word": "四川筠连山体滑坡",
       "onboard_time": 1739037193,
@@ -563,7 +563,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 17577,
+      "raw_hot": 19474,
       "num": 63147,
       "word": "四川宜宾突发山体滑坡",
       "onboard_time": 1739039953,
@@ -587,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 12385,
+      "num": 45071,
+      "word": "宜宾筠连山体滑坡救援正在进行",
+      "onboard_time": 1739045951,
+      "rank": 38,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 11005,
       "num": 80888,
       "word": "哪吒冲顶也象征着动画行业的托举",
@@ -595,20 +603,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 10652,
-      "num": 18652,
-      "word": "宜宾筠连山体滑坡救援正在进行",
-      "onboard_time": 1739045951,
-      "rank": 38,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 9831,
       "num": 75308,
       "word": "林诗栋三项进决赛",
       "onboard_time": 1739035634,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 9156,
+      "num": 16167,
+      "word": "湖北救人白马来自新疆",
+      "onboard_time": 1739046730,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8969,

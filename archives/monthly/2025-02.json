@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739046113893,
+  "endTime": 1739046946344,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -23491,19 +23491,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24690,
+      "num": 25192,
+      "word": "四川筠连山体滑坡",
+      "onboard_time": 1739037193,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24592,
       "num": 29385,
       "word": "文化中国行立春节气",
       "onboard_time": 1738538353,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24450,
-      "num": 25192,
-      "word": "四川筠连山体滑坡",
-      "onboard_time": 1739037193,
-      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -23811,6 +23811,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 19474,
+      "num": 63147,
+      "word": "四川宜宾突发山体滑坡",
+      "onboard_time": 1739039953,
+      "rank": 44,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 19193,
       "num": 211066,
       "word": "周杰伦过年期间录音了",
@@ -23881,14 +23889,6 @@
       "onboard_time": 1738871352,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 17577,
-      "num": 63147,
-      "word": "四川宜宾突发山体滑坡",
-      "onboard_time": 1739039953,
-      "rank": 44,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 17418,
@@ -24291,6 +24291,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 12385,
+      "num": 45071,
+      "word": "宜宾筠连山体滑坡救援正在进行",
+      "onboard_time": 1739045951,
+      "rank": 38,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 12326,
       "num": 173747,
       "word": "混双冰壶中国vs吉尔吉斯斯坦",
@@ -24427,14 +24435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 10652,
-      "num": 18652,
-      "word": "宜宾筠连山体滑坡救援正在进行",
-      "onboard_time": 1739045951,
-      "rank": 38,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 10596,
       "num": 203944,
       "word": "新加坡大满贯赛2月6日赛程",
@@ -24553,6 +24553,14 @@
       "onboard_time": 1738840344,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 9156,
+      "num": 16167,
+      "word": "湖北救人白马来自新疆",
+      "onboard_time": 1739046730,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9140,
