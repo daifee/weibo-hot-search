@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739007329664,
+  "endTime": 1739010116639,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -520,6 +520,14 @@
       "word": "哪吒2因为时长砍掉镜头",
       "onboard_time": 1738486578,
       "rank": 0,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 2047616,
+      "num": 2047616,
+      "word": "哪吒2感谢140000000位观众",
+      "onboard_time": 1739003604,
+      "rank": 42,
       "category": "电影"
     },
     {
@@ -1505,14 +1513,6 @@
       "onboard_time": 1738629020,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1028600,
-      "num": 389022,
-      "word": "哪吒2感谢140000000位观众",
-      "onboard_time": 1739003604,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 1028427,
@@ -2643,6 +2643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 675168,
+      "num": 315113,
+      "word": "一念关山",
+      "onboard_time": 1739008464,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 675110,
       "num": 370384,
       "word": "哪吒2票房超60亿元",
@@ -3003,6 +3011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 621265,
+      "num": 621265,
+      "word": "卧底特工拍到缅甸电诈园区内部画面",
+      "onboard_time": 1739009062,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 617915,
       "num": 617915,
       "word": "黄旭华院士生平",
@@ -3169,6 +3185,14 @@
       "onboard_time": 1738394837,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 578588,
+      "num": 578588,
+      "word": "人血馒头式营销就该严厉打击",
+      "onboard_time": 1739001742,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 577560,
@@ -3368,6 +3392,14 @@
       "word": "女子套圈300个一碰东西就反弹",
       "onboard_time": 1738657462,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 553094,
+      "num": 378535,
+      "word": "被老师砸破头骨女童妈妈生4胎",
+      "onboard_time": 1739004925,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -3625,14 +3657,6 @@
       "onboard_time": 1738817610,
       "rank": 20,
       "category": "电影"
-    },
-    {
-      "raw_hot": 523857,
-      "num": 523857,
-      "word": "人血馒头式营销就该严厉打击",
-      "onboard_time": 1739001742,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 522677,
@@ -4099,14 +4123,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 485130,
-      "num": 378535,
-      "word": "被老师砸破头骨女童妈妈生4胎",
-      "onboard_time": 1739004925,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 484380,
       "num": 367937,
       "word": "朴灿烈想看陈哲远偷偷藏不住",
@@ -4305,6 +4321,14 @@
       "onboard_time": 1738758263,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 470556,
+      "num": 470556,
+      "word": "四川筠连县沐爱镇发生山体滑坡",
+      "onboard_time": 1738999643,
+      "rank": 43,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 470520,
@@ -5587,6 +5611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 362442,
+      "num": 362442,
+      "word": "四川山体滑坡30余人失联",
+      "onboard_time": 1739009242,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 361773,
       "num": 361773,
       "word": "娱乐百分百",
@@ -6315,6 +6347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 320964,
+      "num": 387188,
+      "word": "哪吒2在海外一票难求",
+      "onboard_time": 1739006963,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 320705,
       "num": 473323,
       "word": "仙台有树男版花千骨",
@@ -6411,6 +6451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 313379,
+      "num": 313379,
+      "word": "祝绪丹被三岁的百亿票房男明星迷住了",
+      "onboard_time": 1739009482,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 313363,
       "num": 204685,
       "word": "哪吒2导演说石矶娘娘心思单纯可爱",
@@ -6425,6 +6473,14 @@
       "onboard_time": 1738994663,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 312740,
+      "num": 312740,
+      "word": "你只说70亿是何居心",
+      "onboard_time": 1739007443,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 312561,
@@ -7563,6 +7619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 258852,
+      "num": 314771,
+      "word": "林孝埈摘金后喜极而泣",
+      "onboard_time": 1739007262,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 258751,
       "num": 258751,
       "word": "李小冉深夜回怼网友",
@@ -7777,6 +7841,14 @@
       "onboard_time": 1738473438,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 253014,
+      "num": 253014,
+      "word": "哪吒2破72亿元",
+      "onboard_time": 1739007563,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 252881,
@@ -8169,6 +8241,14 @@
       "onboard_time": 1738323498,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 242019,
+      "num": 259521,
+      "word": "林孝埈打破韩国包揽9金的豪言",
+      "onboard_time": 1739009604,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 241816,
@@ -9547,6 +9627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210118,
+      "num": 210118,
+      "word": "孟子义晒柬埔寨随拍报平安",
+      "onboard_time": 1739007742,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210040,
       "num": 210040,
       "word": "王星越给赵晴吓得韩语都出来了",
@@ -9601,14 +9689,6 @@
       "onboard_time": 1738666104,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 209604,
-      "num": 216160,
-      "word": "四川筠连县沐爱镇发生山体滑坡",
-      "onboard_time": 1738999643,
-      "rank": 43,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 209564,
@@ -9673,6 +9753,14 @@
       "onboard_time": 1738768705,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 208404,
+      "num": 313560,
+      "word": "王楚钦vs梁靖崑",
+      "onboard_time": 1739009301,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 208273,
@@ -10219,6 +10307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201254,
+      "num": 201254,
+      "word": "哪吒2动画导演没抢到票",
+      "onboard_time": 1739009242,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 201086,
       "num": 201086,
       "word": "林孝埈出征亚冬会",
@@ -10297,6 +10393,14 @@
       "onboard_time": 1738578329,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199956,
+      "num": 199956,
+      "word": "山西大同比北极还冷",
+      "onboard_time": 1739008341,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 199881,
@@ -11481,6 +11585,14 @@
       "onboard_time": 1738471457,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184363,
+      "num": 184363,
+      "word": "胡歌是有什么发博KPI吗",
+      "onboard_time": 1739009604,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 184333,
@@ -14499,14 +14611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 144866,
-      "num": 144866,
-      "word": "林孝埈摘金后喜极而泣",
-      "onboard_time": 1739007262,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 144808,
       "num": 144808,
       "word": "国王马刺公牛交易",
@@ -15009,6 +15113,14 @@
       "onboard_time": 1738457356,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139543,
+      "num": 139543,
+      "word": "仙逆动画",
+      "onboard_time": 1739008341,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 139428,
@@ -16137,6 +16249,14 @@
       "onboard_time": 1738512318,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125109,
+      "num": 125109,
+      "word": "林孝埈滑了3遍才拿到这枚金牌",
+      "onboard_time": 1739010023,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 125105,
@@ -18307,6 +18427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97066,
+      "num": 314548,
+      "word": "男子称车窗被砸AED被拿走愿免赔",
+      "onboard_time": 1739009301,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96868,
       "num": 339049,
       "word": "春节聚餐警惕吃出来的病",
@@ -18761,6 +18889,14 @@
       "onboard_time": 1738604837,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87066,
+      "num": 315594,
+      "word": "春节档排片谁说了算",
+      "onboard_time": 1739009182,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 86990,
@@ -21539,6 +21675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 33439,
+      "num": 594565,
+      "word": "亚冬会保障进行时",
+      "onboard_time": 1739007683,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 33205,
       "num": 214887,
       "word": "随意弃养异宠存在外来物种入侵风险",
@@ -22473,14 +22617,6 @@
       "onboard_time": 1738855825,
       "rank": 19,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 19144,
-      "num": 387188,
-      "word": "哪吒2在海外一票难求",
-      "onboard_time": 1739006963,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 18505,
