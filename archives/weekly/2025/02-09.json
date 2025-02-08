@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739032752938,
+  "endTime": 1739035102132,
   "band_list": [
     {
       "raw_hot": 1172015,
@@ -43,6 +43,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 556983,
+      "num": 556983,
+      "word": "泽连斯基向美国亮出稀土地图",
+      "onboard_time": 1739030721,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 545420,
+      "num": 545420,
+      "word": "儿子爆改50岁老爸迷住妈妈",
+      "onboard_time": 1739031859,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 527674,
       "num": 527674,
       "word": "你的吒儿正从生产线火速赶来",
@@ -57,14 +73,6 @@
       "onboard_time": 1739026221,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 422319,
-      "num": 422319,
-      "word": "泽连斯基向美国亮出稀土地图",
-      "onboard_time": 1739030721,
-      "rank": 17,
-      "category": "国际时政"
     },
     {
       "raw_hot": 401102,
@@ -107,6 +115,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 319902,
+      "num": 319902,
+      "word": "邓为演技",
+      "onboard_time": 1739029283,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 319225,
       "num": 240015,
       "word": "盗版哪吒",
@@ -121,6 +137,14 @@
       "onboard_time": 1739027902,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 297611,
+      "num": 126664,
+      "word": "外媒称哪吒2爆火是因中国人没钱旅游",
+      "onboard_time": 1739032398,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 294388,
@@ -139,28 +163,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 258964,
-      "num": 258964,
-      "word": "儿子爆改50岁老爸迷住妈妈",
-      "onboard_time": 1739031859,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 243835,
       "num": 192041,
       "word": "52天婴儿喝奶奶喂的蜂蜜水中毒进ICU",
       "onboard_time": 1739019083,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 240003,
-      "num": 190829,
-      "word": "邓为演技",
-      "onboard_time": 1739029283,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 220124,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 187140,
-      "num": 155363,
+      "num": 186098,
       "word": "孙颖莎给王艺迪竖大拇指",
       "onboard_time": 1739031859,
       "rank": 31,
@@ -307,6 +315,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 121371,
+      "num": 204618,
+      "word": "警方通报欺凌视频事实基本属实",
+      "onboard_time": 1739033955,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119220,
       "num": 119220,
       "word": "刘诗诗 妈妈级别",
@@ -315,12 +331,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 117834,
-      "num": 117834,
-      "word": "外媒称哪吒2爆火是因中国人没钱旅游",
-      "onboard_time": 1739032398,
-      "rank": 35,
-      "category": "电影"
+      "raw_hot": 107375,
+      "num": 107375,
+      "word": "金智秀新剧演技",
+      "onboard_time": 1739033597,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 104570,
@@ -329,6 +345,14 @@
       "onboard_time": 1739018722,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100712,
+      "num": 100712,
+      "word": "鹤俐昀端",
+      "onboard_time": 1739032818,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 95214,
@@ -403,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65297,
+      "num": 65297,
+      "word": "饺子导演的70亿海报",
+      "onboard_time": 1738993765,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 63216,
       "num": 117566,
       "word": "紧急预拨3000万元支持四川救灾工作",
@@ -428,10 +460,18 @@
     },
     {
       "raw_hot": 30563,
-      "num": 430097,
+      "num": 548879,
       "word": "从冬奥到亚冬冰雪热燃起来了",
       "onboard_time": 1739026292,
       "rank": 2,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 17195,
+      "num": 118738,
+      "word": "林诗栋晋级男子单打决赛",
+      "onboard_time": 1739033178,
+      "rank": 24,
       "category": "体育"
     }
   ],
