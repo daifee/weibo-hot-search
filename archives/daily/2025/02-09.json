@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739036162076,
+  "endTime": 1739039254824,
   "band_list": [
     {
       "raw_hot": 1172015,
@@ -171,6 +171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 258694,
+      "num": 114538,
+      "word": "女子得了流感硬抗3天变白肺",
+      "onboard_time": 1739038574,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 243835,
       "num": 192041,
       "word": "52天婴儿喝奶奶喂的蜂蜜水中毒进ICU",
@@ -267,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150597,
+      "num": 150597,
+      "word": "加沙人说这辈子什么都没有了",
+      "onboard_time": 1739035155,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 145794,
       "num": 145794,
       "word": "魏哲鸣录hi6脖子过敏",
@@ -297,6 +313,14 @@
       "onboard_time": 1739025864,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125609,
+      "num": 185280,
+      "word": "女孩遭欺凌5名涉案人员均已到案",
+      "onboard_time": 1739035216,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124782,
@@ -459,11 +483,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 39351,
-      "num": 185280,
-      "word": "女孩遭欺凌5名涉案人员均已到案",
-      "onboard_time": 1739035216,
-      "rank": 9,
+      "raw_hot": 40653,
+      "num": 40653,
+      "word": "武警已到达四川山体滑坡现场救援",
+      "onboard_time": 1739037553,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -475,12 +499,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 35037,
+      "num": 40647,
+      "word": "饺子导演亲签卡牌被炒至9.5万",
+      "onboard_time": 1739038574,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 30563,
       "num": 548879,
       "word": "从冬奥到亚冬冰雪热燃起来了",
       "onboard_time": 1739026292,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29114,
+      "num": 40639,
+      "word": "TF家族2025新音纪录片星火",
+      "onboard_time": 1739036174,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 17195,
@@ -491,11 +531,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 14195,
+      "num": 82910,
+      "word": "女生入住毛坯房水电软装花费1万元",
+      "onboard_time": 1739038753,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 9831,
       "num": 75308,
       "word": "林诗栋三项进决赛",
       "onboard_time": 1739035634,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 8969,
+      "num": 61723,
+      "word": "蒯曼三项进决赛",
+      "onboard_time": 1739038032,
+      "rank": 24,
       "category": "体育"
     }
   ],
