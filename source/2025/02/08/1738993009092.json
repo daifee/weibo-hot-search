@@ -1,0 +1,410 @@
+{
+  "runTime": 1738993009092,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8125199,
+        "num": 8125199,
+        "word": "张兰汪小菲抖音无限期封禁",
+        "onboard_time": 1738985241,
+        "rank": 0,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 838349,
+        "num": 838349,
+        "word": "国家医保局回应刷医保买华为手表",
+        "onboard_time": 1738985183,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 44675,
+        "num": 676416,
+        "word": "我们在一起就是TEAMCHINA",
+        "onboard_time": 1738991605,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2304627,
+        "num": 670217,
+        "word": "抖音副总裁回应封禁汪小菲等账号",
+        "onboard_time": 1738986867,
+        "rank": 3,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 589812,
+        "num": 589812,
+        "word": "饺子曾靠母亲1000元退休金生活3年",
+        "onboard_time": 1738985964,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2294017,
+        "num": 589792,
+        "word": "麻六记直播间主播被网友劝换工作",
+        "onboard_time": 1738989507,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2068848,
+        "num": 585899,
+        "word": "哪吒2破70亿大关",
+        "onboard_time": 1738991186,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 855503,
+        "num": 584879,
+        "word": "Angelababy 浪姐6",
+        "onboard_time": 1738982841,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51971,
+        "num": 582984,
+        "word": "发条微博为亚冬会中国健儿加油",
+        "onboard_time": 1738991664,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 194747,
+        "num": 580554,
+        "word": "王楚钦林诗栋vs林昀儒高承睿",
+        "onboard_time": 1738991545,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1013516,
+        "num": 577618,
+        "word": "邓超花了15年把孙俪塑造这样",
+        "onboard_time": 1738987227,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 692191,
+        "num": 575702,
+        "word": "张兰账号利用逝者恶意炒作营销",
+        "onboard_time": 1738986264,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 574692,
+        "num": 574692,
+        "word": "高亭宇夺金",
+        "onboard_time": 1738988847,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 543738,
+        "num": 543738,
+        "word": "中国影史第一个70亿",
+        "onboard_time": 1738991904,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 506576,
+        "num": 506576,
+        "word": "哪吒2用了10天成为全球第一",
+        "onboard_time": 1738985303,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 379703,
+        "num": 379703,
+        "word": "高亭宇破亚洲纪录",
+        "onboard_time": 1738990586,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 467829,
+        "num": 363130,
+        "word": "哪吒2全球影史单一市场票房第1",
+        "onboard_time": 1738935684,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 327092,
+        "num": 327092,
+        "word": "林孝埈摔倒",
+        "onboard_time": 1738981821,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53546,
+        "num": 326986,
+        "word": "绿牌网约车上保险被亮红灯",
+        "onboard_time": 1738991364,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35427,
+        "num": 326235,
+        "word": "重庆全面解除住房限售",
+        "onboard_time": 1738992323,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 713413,
+        "num": 325677,
+        "word": "微信状态真的太暧昧了",
+        "onboard_time": 1738990645,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 468808,
+        "num": 324766,
+        "word": "建议睡不着就在床头放个橘子",
+        "onboard_time": 1738989026,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 397891,
+        "num": 324205,
+        "word": "所以呢 不是钱吗",
+        "onboard_time": 1738974861,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 330317,
+        "num": 323579,
+        "word": "三大平台养老剧",
+        "onboard_time": 1738976421,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53754,
+        "num": 323535,
+        "word": "林孝埈今日还有两场比赛",
+        "onboard_time": 1738987766,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 322971,
+        "num": 322971,
+        "word": "刘晓庆好多吃素的朋友都去世了",
+        "onboard_time": 1738992743,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314868,
+        "num": 314868,
+        "word": "18岁孪生姐妹嫁给22岁孪生兄弟",
+        "onboard_time": 1738985183,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311278,
+        "num": 311278,
+        "word": "哪吒",
+        "onboard_time": 1738978041,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 54003,
+        "num": 305728,
+        "word": "哪吒2救活小城电影院",
+        "onboard_time": 1738991784,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27906,
+        "num": 303349,
+        "word": "胡兵纽约时装周街拍碎片",
+        "onboard_time": 1738992563,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 409130,
+        "num": 303052,
+        "word": "起猛了眉姐姐杀人了",
+        "onboard_time": 1738991304,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302410,
+        "num": 302410,
+        "word": "多方侵权赵丽颖被强执21万",
+        "onboard_time": 1738990526,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168782,
+        "num": 298048,
+        "word": "果然现偶还得是陈哲远",
+        "onboard_time": 1738992204,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149249,
+        "num": 295789,
+        "word": "谁说仙台有树不好看啊",
+        "onboard_time": 1738992684,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60800,
+        "num": 295354,
+        "word": "全世界都在看东北人转手绢",
+        "onboard_time": 1738991125,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295346,
+        "num": 295346,
+        "word": "刘少昂摔倒没有判罚",
+        "onboard_time": 1738991006,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288148,
+        "num": 288148,
+        "word": "女生长期把电脑放腿上办公长出蟒蛇纹",
+        "onboard_time": 1738971918,
+        "rank": 36,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 281758,
+        "num": 281758,
+        "word": "金星夫妇意大利豪宅过新年",
+        "onboard_time": 1738992204,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264303,
+        "num": 264303,
+        "word": "王鹤棣长发",
+        "onboard_time": 1738992023,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 259165,
+        "num": 259165,
+        "word": "多地网友分享刷医保买华为手表",
+        "onboard_time": 1738982841,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 255902,
+        "num": 255902,
+        "word": "哪吒敖丙双人贺图",
+        "onboard_time": 1738977681,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 238341,
+        "num": 238341,
+        "word": "谢娜回好六",
+        "onboard_time": 1738989207,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221945,
+        "num": 221945,
+        "word": "刘少昂再次摔倒",
+        "onboard_time": 1738991545,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218825,
+        "num": 218825,
+        "word": "曝贾斯丁比伯健康状况堪忧",
+        "onboard_time": 1738976179,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207864,
+        "num": 207864,
+        "word": "林孝埈失误摔倒双手抱头难掩失落",
+        "onboard_time": 1738990106,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175279,
+        "num": 175279,
+        "word": "浪姐6",
+        "onboard_time": 1738989090,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162339,
+        "num": 162339,
+        "word": "她甚至在树上找了一圈的人",
+        "onboard_time": 1738988727,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160263,
+        "num": 160263,
+        "word": "节后减重多吃3种发酵食物",
+        "onboard_time": 1738981161,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149561,
+        "num": 149561,
+        "word": "仙台有树口碑",
+        "onboard_time": 1738991485,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147444,
+        "num": 147444,
+        "word": "林孝埈摘银",
+        "onboard_time": 1738986928,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向中国体育代表团挥手致意#"
+    }
+  }
+}

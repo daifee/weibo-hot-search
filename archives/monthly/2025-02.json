@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738992023191,
+  "endTime": 1738993009092,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -457,6 +457,14 @@
       "onboard_time": 1738629201,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2068848,
+      "num": 773274,
+      "word": "哪吒2破70亿大关",
+      "onboard_time": 1738991186,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 2059436,
@@ -1089,14 +1097,6 @@
       "onboard_time": 1738808364,
       "rank": 1,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1232510,
-      "num": 773274,
-      "word": "哪吒2破70亿大关",
-      "onboard_time": 1738991186,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 1222674,
@@ -2316,7 +2316,7 @@
     },
     {
       "raw_hot": 725014,
-      "num": 481693,
+      "num": 506576,
       "word": "哪吒2用了10天成为全球第一",
       "onboard_time": 1738985303,
       "rank": 33,
@@ -2345,6 +2345,14 @@
       "onboard_time": 1738594109,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 713413,
+      "num": 458395,
+      "word": "微信状态真的太暧昧了",
+      "onboard_time": 1738990645,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 711363,
@@ -3187,14 +3195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 562040,
-      "num": 458395,
-      "word": "微信状态真的太暧昧了",
-      "onboard_time": 1738990645,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 561903,
       "num": 1616509,
       "word": "范玮琪发黑色图片悼念",
@@ -3329,6 +3329,14 @@
       "onboard_time": 1738559316,
       "rank": 14,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 543738,
+      "num": 543738,
+      "word": "中国影史第一个70亿",
+      "onboard_time": 1738991904,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 542792,
@@ -4099,6 +4107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 468808,
+      "num": 445121,
+      "word": "建议睡不着就在床头放个橘子",
+      "onboard_time": 1738989026,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 467533,
       "num": 451935,
       "word": "桐心薇泯",
@@ -4385,14 +4401,6 @@
       "onboard_time": 1738719921,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 445121,
-      "num": 445121,
-      "word": "建议睡不着就在床头放个橘子",
-      "onboard_time": 1738989026,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 444651,
@@ -4745,6 +4753,14 @@
       "onboard_time": 1738834822,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 409130,
+      "num": 312400,
+      "word": "起猛了眉姐姐杀人了",
+      "onboard_time": 1738991304,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 408402,
@@ -5995,6 +6011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 322971,
+      "num": 322971,
+      "word": "刘晓庆好多吃素的朋友都去世了",
+      "onboard_time": 1738992743,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 322918,
       "num": 322918,
       "word": "沈月 广州",
@@ -6137,14 +6161,6 @@
       "onboard_time": 1738398917,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 312400,
-      "num": 312400,
-      "word": "起猛了眉姐姐杀人了",
-      "onboard_time": 1738991304,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 311550,
@@ -6507,6 +6523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 295346,
+      "num": 516126,
+      "word": "刘少昂摔倒没有判罚",
+      "onboard_time": 1738991006,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 294494,
       "num": 169471,
       "word": "卧室再小也能做个衣帽间",
@@ -6721,6 +6745,14 @@
       "onboard_time": 1738556986,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 281758,
+      "num": 281758,
+      "word": "金星夫妇意大利豪宅过新年",
+      "onboard_time": 1738992204,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 281413,
@@ -7073,6 +7105,14 @@
       "onboard_time": 1738914561,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 264303,
+      "num": 264303,
+      "word": "王鹤棣长发",
+      "onboard_time": 1738992023,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 263941,
@@ -8577,6 +8617,14 @@
       "onboard_time": 1738896982,
       "rank": 40,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 221945,
+      "num": 465193,
+      "word": "刘少昂再次摔倒",
+      "onboard_time": 1738991545,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 221896,
@@ -10147,6 +10195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194747,
+      "num": 697257,
+      "word": "王楚钦林诗栋vs林昀儒高承睿",
+      "onboard_time": 1738991545,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194670,
       "num": 156081,
       "word": "梁洁我不白抢你红包",
@@ -10683,14 +10739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 187878,
-      "num": 187878,
-      "word": "中国影史第一个70亿",
-      "onboard_time": 1738991904,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 187849,
       "num": 187849,
       "word": "白鹿下班vlog",
@@ -11001,14 +11049,6 @@
       "onboard_time": 1738576346,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 183892,
-      "num": 516126,
-      "word": "刘少昂摔倒没有判罚",
-      "onboard_time": 1738991006,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 183764,
@@ -12065,6 +12105,14 @@
       "onboard_time": 1738934243,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168782,
+      "num": 298048,
+      "word": "果然现偶还得是陈哲远",
+      "onboard_time": 1738992204,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 168726,
@@ -13529,6 +13577,14 @@
       "onboard_time": 1738920863,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 149249,
+      "num": 295789,
+      "word": "谁说仙台有树不好看啊",
+      "onboard_time": 1738992684,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 149187,
@@ -16241,14 +16297,6 @@
       "onboard_time": 1738591530,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 114042,
-      "num": 697257,
-      "word": "王楚钦林诗栋vs林昀儒高承睿",
-      "onboard_time": 1738991545,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 114039,
@@ -19275,6 +19323,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 60800,
+      "num": 594775,
+      "word": "全世界都在看东北人转手绢",
+      "onboard_time": 1738991125,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60739,
       "num": 411903,
       "word": "张家界一饭店疑宰客两道菜800元",
@@ -19579,14 +19635,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 54618,
-      "num": 465193,
-      "word": "刘少昂再次摔倒",
-      "onboard_time": 1738991545,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 54570,
       "num": 242549,
       "word": "A股蛇年迎开门红",
@@ -19609,6 +19657,14 @@
       "onboard_time": 1738751364,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 54003,
+      "num": 351196,
+      "word": "哪吒2救活小城电影院",
+      "onboard_time": 1738991784,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 53729,
@@ -19641,6 +19697,14 @@
       "onboard_time": 1738514358,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 53546,
+      "num": 467314,
+      "word": "绿牌网约车上保险被亮红灯",
+      "onboard_time": 1738991364,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53426,
@@ -19705,6 +19769,14 @@
       "onboard_time": 1738573946,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51971,
+      "num": 582984,
+      "word": "发条微博为亚冬会中国健儿加油",
+      "onboard_time": 1738991664,
+      "rank": 13,
+      "category": "正能量"
     },
     {
       "raw_hot": 51877,
@@ -20105,6 +20177,14 @@
       "onboard_time": 1738762464,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 44675,
+      "num": 834017,
+      "word": "我们在一起就是TEAMCHINA",
+      "onboard_time": 1738991605,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 44652,
@@ -20627,6 +20707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 35427,
+      "num": 326235,
+      "word": "重庆全面解除住房限售",
+      "onboard_time": 1738992323,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35355,
       "num": 431161,
       "word": "男子被冲向水闸紧急时刻钓友抛竿钩住",
@@ -21011,6 +21099,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 27906,
+      "num": 303349,
+      "word": "胡兵纽约时装周街拍碎片",
+      "onboard_time": 1738992563,
+      "rank": 29,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 27848,
       "num": 361131,
       "word": "马頔 别跟老子摆谱儿",
@@ -21145,14 +21241,6 @@
       "onboard_time": 1738858701,
       "rank": 19,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 26252,
-      "num": 467314,
-      "word": "绿牌网约车上保险被亮红灯",
-      "onboard_time": 1738991364,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26045,
@@ -21304,14 +21392,6 @@
       "word": "一人一句给中国健儿加油",
       "onboard_time": 1738813524,
       "rank": 2,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 24102,
-      "num": 594775,
-      "word": "全世界都在看东北人转手绢",
-      "onboard_time": 1738991125,
-      "rank": 12,
       "category": "体育"
     },
     {
@@ -21579,14 +21659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19994,
-      "num": 351196,
-      "word": "哪吒2救活小城电影院",
-      "onboard_time": 1738991784,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 19855,
       "num": 54959,
       "word": "仙台有树群像海报",
@@ -21681,14 +21753,6 @@
       "onboard_time": 1738782133,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 16330,
-      "num": 834017,
-      "word": "我们在一起就是TEAMCHINA",
-      "onboard_time": 1738991605,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 16035,
@@ -21841,14 +21905,6 @@
       "onboard_time": 1738566450,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 14738,
-      "num": 544754,
-      "word": "发条微博为亚冬会中国健儿加油",
-      "onboard_time": 1738991664,
-      "rank": 13,
-      "category": "正能量"
     },
     {
       "raw_hot": 14737,
@@ -22479,6 +22535,9 @@
     },
     {
       "word": "#习近平主席宣布亚冬会开幕#"
+    },
+    {
+      "word": "#习近平向中国体育代表团挥手致意#"
     }
   ]
 }
