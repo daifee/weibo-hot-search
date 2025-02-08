@@ -1,7 +1,15 @@
 {
   "startTime": 1738945672577,
-  "endTime": 1738985905944,
+  "endTime": 1738988744390,
   "band_list": [
+    {
+      "raw_hot": 14397354,
+      "num": 14397354,
+      "word": "张兰汪小菲抖音无限期封禁",
+      "onboard_time": 1738985241,
+      "rank": 3,
+      "category": "艺人"
+    },
     {
       "raw_hot": 4294334,
       "num": 4294334,
@@ -19,20 +27,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3337583,
+      "num": 488256,
+      "word": "抖音副总裁回应封禁汪小菲等账号",
+      "onboard_time": 1738986867,
+      "rank": 10,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 2784987,
       "num": 2784987,
       "word": "所以呢 不是钱吗",
       "onboard_time": 1738974861,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 2514912,
-      "num": 2514912,
-      "word": "张兰汪小菲抖音无限期封禁",
-      "onboard_time": 1738985241,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1783922,
@@ -67,6 +75,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1568831,
+      "num": 881317,
+      "word": "张兰账号利用逝者恶意炒作营销",
+      "onboard_time": 1738986264,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1199759,
       "num": 1199759,
       "word": "中方回应巴方退出一带一路协议",
@@ -92,11 +108,19 @@
     },
     {
       "raw_hot": 870914,
-      "num": 368532,
+      "num": 437659,
       "word": "女生长期把电脑放腿上办公长出蟒蛇纹",
       "onboard_time": 1738971918,
       "rank": 20,
       "category": "民生新闻,时尚"
+    },
+    {
+      "raw_hot": 855826,
+      "num": 485896,
+      "word": "邓超花了15年把孙俪塑造这样",
+      "onboard_time": 1738987227,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 846066,
@@ -123,12 +147,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 758514,
+      "num": 441297,
+      "word": "饺子曾靠母亲1000元退休金生活3年",
+      "onboard_time": 1738985964,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 735220,
+      "num": 735220,
+      "word": "国家医保局回应刷医保买华为手表",
+      "onboard_time": 1738985183,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 725758,
       "num": 519910,
       "word": "特朗普发文宣布解雇拜登",
       "onboard_time": 1738980201,
       "rank": 11,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 706639,
+      "num": 466929,
+      "word": "哪吒2用了10天成为全球第一",
+      "onboard_time": 1738985303,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 701146,
@@ -163,6 +211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 549374,
+      "num": 439699,
+      "word": "18岁孪生姐妹嫁给22岁孪生兄弟",
+      "onboard_time": 1738985183,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 535236,
       "num": 535236,
       "word": "中国短道速滑队错失首金",
@@ -184,6 +240,14 @@
       "word": "中国队短道速滑2000米接力意外摔倒",
       "onboard_time": 1738982001,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 495804,
+      "num": 495804,
+      "word": "林孝埈摘银",
+      "onboard_time": 1738986928,
+      "rank": 5,
       "category": "体育"
     },
     {
@@ -227,6 +291,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 432216,
+      "num": 432216,
+      "word": "中国队本届亚冬会首金",
+      "onboard_time": 1738985544,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 420030,
+      "num": 420030,
+      "word": "张兰账号被处罚后未有改正",
+      "onboard_time": 1738987108,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 398495,
       "num": 301077,
       "word": "微信打电话和手机打电话区别真大",
@@ -260,7 +340,7 @@
     },
     {
       "raw_hot": 353121,
-      "num": 298123,
+      "num": 491640,
       "word": "多地网友分享刷医保买华为手表",
       "onboard_time": 1738982841,
       "rank": 33,
@@ -275,12 +355,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 350160,
-      "num": 300151,
-      "word": "18岁孪生姐妹嫁给22岁孪生兄弟",
-      "onboard_time": 1738985183,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 345964,
+      "num": 345964,
+      "word": "哪吒2破69亿",
+      "onboard_time": 1738985002,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 342321,
@@ -411,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 250406,
+      "num": 434560,
+      "word": "掌心一集130条人命",
+      "onboard_time": 1738987706,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 245877,
       "num": 245877,
       "word": "宁艺卓邀请徐艺洋看演唱会",
@@ -419,12 +507,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 231366,
-      "num": 215866,
-      "word": "哪吒2用了10天成为全球第一",
-      "onboard_time": 1738985303,
-      "rank": 33,
-      "category": "电影"
+      "raw_hot": 236407,
+      "num": 236407,
+      "word": "李方慧哈尔滨亚冬会中国队首金",
+      "onboard_time": 1738985664,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 227680,
@@ -523,14 +611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 212466,
-      "num": 212466,
-      "word": "国家医保局回应刷医保买华为手表",
-      "onboard_time": 1738985183,
-      "rank": 34,
-      "category": "数码"
-    },
-    {
       "raw_hot": 206025,
       "num": 206025,
       "word": "设计师称敖光形象没有具体原型",
@@ -561,6 +641,14 @@
       "onboard_time": 1738933464,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 200111,
+      "num": 194112,
+      "word": "中国女子短道速滑收获一银一铜",
+      "onboard_time": 1738986325,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 199365,
@@ -595,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190686,
+      "num": 190686,
+      "word": "少女被拐女心理师是帮凶",
+      "onboard_time": 1738987887,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190389,
       "num": 190389,
       "word": "光渊",
@@ -619,14 +715,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 188028,
-      "num": 188028,
-      "word": "哪吒2破69亿",
-      "onboard_time": 1738985002,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
       "raw_hot": 182480,
       "num": 207462,
       "word": "长沙一小学一二年级九点二十上课",
@@ -643,11 +731,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 179145,
-      "num": 208638,
-      "word": "李方慧哈尔滨亚冬会中国队首金",
-      "onboard_time": 1738985664,
-      "rank": 36,
+      "raw_hot": 179540,
+      "num": 436021,
+      "word": "速度滑冰",
+      "onboard_time": 1738988066,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -673,14 +761,6 @@
       "onboard_time": 1738914561,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 176979,
-      "num": 301752,
-      "word": "中国队本届亚冬会首金",
-      "onboard_time": 1738985544,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 176038,
@@ -713,6 +793,14 @@
       "onboard_time": 1738944200,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 161142,
+      "num": 161142,
+      "word": "林孝埈今日还有两场比赛",
+      "onboard_time": 1738987766,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 158777,
@@ -811,6 +899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 140319,
+      "num": 438560,
+      "word": "射雕至亲情特辑",
+      "onboard_time": 1738988546,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 139893,
       "num": 139893,
       "word": "仙台有树",
@@ -889,6 +985,14 @@
       "onboard_time": 1738974139,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123207,
+      "num": 197390,
+      "word": "李方慧张可欣包揽冠亚军",
+      "onboard_time": 1738986085,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 122921,
@@ -1075,12 +1179,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77127,
+      "num": 173867,
+      "word": "菲律宾坠毁飞机系美国承包侦察机",
+      "onboard_time": 1738986688,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 68114,
       "num": 223944,
       "word": "美国医学教授称全国急诊室挤满了人",
       "onboard_time": 1738945279,
       "rank": 16,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 67902,
+      "num": 484579,
+      "word": "盛海鹏U型场地银牌",
+      "onboard_time": 1738987407,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 67544,
@@ -1099,6 +1219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 53812,
+      "num": 422208,
+      "word": "武大靖说最害怕硬挤的",
+      "onboard_time": 1738988246,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51200,
       "num": 61561,
       "word": "31岁演员孙铱血管瘤术后报平安",
@@ -1113,6 +1241,14 @@
       "onboard_time": 1738981882,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 50745,
+      "num": 911655,
+      "word": "首善答卷",
+      "onboard_time": 1738986806,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50508,
@@ -1137,6 +1273,14 @@
       "onboard_time": 1738970898,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 45188,
+      "num": 285086,
+      "word": "哪吒rap配解放军武器毫无违和感",
+      "onboard_time": 1738987646,
+      "rank": 33,
+      "category": "军事"
     },
     {
       "raw_hot": 43522,
@@ -1171,6 +1315,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 37401,
+      "num": 420991,
+      "word": "李方慧2月4号才知道自己要比赛",
+      "onboard_time": 1738988488,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37260,
       "num": 178392,
       "word": "百位家乡名人祝亚冬会圆满成功",
@@ -1193,6 +1345,14 @@
       "onboard_time": 1738943183,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 32287,
+      "num": 477849,
+      "word": "今天是亚冬会产生金牌最多的一天",
+      "onboard_time": 1738988007,
+      "rank": 14,
+      "category": "正能量"
     },
     {
       "raw_hot": 30402,
@@ -1225,6 +1385,14 @@
       "onboard_time": 1738938924,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24687,
+      "num": 490451,
+      "word": "中国队包揽女子坡面障碍技巧冠亚军",
+      "onboard_time": 1738988127,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 24079,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1738988744390,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 14397354,
+        "num": 14397354,
+        "word": "张兰汪小菲抖音无限期封禁",
+        "onboard_time": 1738985241,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1263846,
+        "num": 1263846,
+        "word": "林孝埈摔倒",
+        "onboard_time": 1738981821,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50745,
+        "num": 911655,
+        "word": "首善答卷",
+        "onboard_time": 1738986806,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1568831,
+        "num": 881317,
+        "word": "张兰账号利用逝者恶意炒作营销",
+        "onboard_time": 1738986264,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 735220,
+        "num": 735220,
+        "word": "国家医保局回应刷医保买华为手表",
+        "onboard_time": 1738985183,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 495804,
+        "num": 495804,
+        "word": "林孝埈摘银",
+        "onboard_time": 1738986928,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1527122,
+        "num": 495502,
+        "word": "Angelababy 浪姐6",
+        "onboard_time": 1738982841,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1026644,
+        "num": 493714,
+        "word": "所以呢 不是钱吗",
+        "onboard_time": 1738974861,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 294983,
+        "num": 491640,
+        "word": "多地网友分享刷医保买华为手表",
+        "onboard_time": 1738982841,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 24687,
+        "num": 490451,
+        "word": "中国队包揽女子坡面障碍技巧冠亚军",
+        "onboard_time": 1738988127,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3337583,
+        "num": 488256,
+        "word": "抖音副总裁回应封禁汪小菲等账号",
+        "onboard_time": 1738986867,
+        "rank": 10,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 855826,
+        "num": 485896,
+        "word": "邓超花了15年把孙俪塑造这样",
+        "onboard_time": 1738987227,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485299,
+        "num": 485299,
+        "word": "退休金十几万被忽悠买550万保险",
+        "onboard_time": 1738983920,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67902,
+        "num": 484579,
+        "word": "盛海鹏U型场地银牌",
+        "onboard_time": 1738987407,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32287,
+        "num": 477849,
+        "word": "今天是亚冬会产生金牌最多的一天",
+        "onboard_time": 1738988007,
+        "rank": 14,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 706639,
+        "num": 466929,
+        "word": "哪吒2用了10天成为全球第一",
+        "onboard_time": 1738985303,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 627529,
+        "num": 462380,
+        "word": "三大平台养老剧",
+        "onboard_time": 1738976421,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 496174,
+        "num": 455128,
+        "word": "哪吒2全球影史单一市场票房第1",
+        "onboard_time": 1738935684,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 492873,
+        "num": 442139,
+        "word": "曝贾斯丁比伯健康状况堪忧",
+        "onboard_time": 1738976179,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442130,
+        "num": 442130,
+        "word": "中国短道速滑队错失首金",
+        "onboard_time": 1738982300,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 758514,
+        "num": 441297,
+        "word": "饺子曾靠母亲1000元退休金生活3年",
+        "onboard_time": 1738985964,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 549374,
+        "num": 439699,
+        "word": "18岁孪生姐妹嫁给22岁孪生兄弟",
+        "onboard_time": 1738985183,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140319,
+        "num": 438560,
+        "word": "射雕至亲情特辑",
+        "onboard_time": 1738988546,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 506305,
+        "num": 437659,
+        "word": "女生长期把电脑放腿上办公长出蟒蛇纹",
+        "onboard_time": 1738971918,
+        "rank": 23,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 179540,
+        "num": 436021,
+        "word": "速度滑冰",
+        "onboard_time": 1738988066,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250406,
+        "num": 434560,
+        "word": "掌心一集130条人命",
+        "onboard_time": 1738987706,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 478405,
+        "num": 432333,
+        "word": "哪吒敖丙双人贺图",
+        "onboard_time": 1738977681,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 432216,
+        "num": 432216,
+        "word": "中国队本届亚冬会首金",
+        "onboard_time": 1738985544,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53812,
+        "num": 422208,
+        "word": "武大靖说最害怕硬挤的",
+        "onboard_time": 1738988246,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37401,
+        "num": 420991,
+        "word": "李方慧2月4号才知道自己要比赛",
+        "onboard_time": 1738988488,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 420030,
+        "num": 420030,
+        "word": "张兰账号被处罚后未有改正",
+        "onboard_time": 1738987108,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345964,
+        "num": 345964,
+        "word": "哪吒2破69亿",
+        "onboard_time": 1738985002,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 298019,
+        "num": 298019,
+        "word": "节后减重多吃3种发酵食物",
+        "onboard_time": 1738981161,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 45188,
+        "num": 285086,
+        "word": "哪吒rap配解放军武器毫无违和感",
+        "onboard_time": 1738987646,
+        "rank": 33,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 273167,
+        "num": 273167,
+        "word": "韩佳人素颜照",
+        "onboard_time": 1738974861,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265121,
+        "num": 265121,
+        "word": "短剧 上瘾",
+        "onboard_time": 1738942462,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264493,
+        "num": 264493,
+        "word": "中方回应巴方退出一带一路协议",
+        "onboard_time": 1738970898,
+        "rank": 36,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 249221,
+        "num": 249221,
+        "word": "哪吒",
+        "onboard_time": 1738978041,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 236407,
+        "num": 236407,
+        "word": "李方慧哈尔滨亚冬会中国队首金",
+        "onboard_time": 1738985664,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221986,
+        "num": 221986,
+        "word": "饺子背了半个月终于有人问了",
+        "onboard_time": 1738939224,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202436,
+        "num": 202436,
+        "word": "工作中不要散发弱者气息",
+        "onboard_time": 1738979001,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123207,
+        "num": 197390,
+        "word": "李方慧张可欣包揽冠亚军",
+        "onboard_time": 1738986085,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194148,
+        "num": 194148,
+        "word": "周深就这么水灵灵的被拽出来了",
+        "onboard_time": 1738984760,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200111,
+        "num": 194112,
+        "word": "中国女子短道速滑收获一银一铜",
+        "onboard_time": 1738986325,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193187,
+        "num": 193187,
+        "word": "中国队短道速滑2000米接力意外摔倒",
+        "onboard_time": 1738982001,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190686,
+        "num": 190686,
+        "word": "少女被拐女心理师是帮凶",
+        "onboard_time": 1738987887,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77127,
+        "num": 173867,
+        "word": "菲律宾坠毁飞机系美国承包侦察机",
+        "onboard_time": 1738986688,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 170222,
+        "num": 170222,
+        "word": "男子机场猥亵女性旅客被行拘",
+        "onboard_time": 1738981522,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163438,
+        "num": 163438,
+        "word": "微信打电话和手机打电话区别真大",
+        "onboard_time": 1738972158,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161142,
+        "num": 161142,
+        "word": "林孝埈今日还有两场比赛",
+        "onboard_time": 1738987766,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席出席哈尔滨亚冬会开幕式#"
+    }
+  }
+}
