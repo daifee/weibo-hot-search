@@ -1,6 +1,6 @@
 {
   "startTime": 1738945672577,
-  "endTime": 1739011108005,
+  "endTime": 1739013428307,
   "band_list": [
     {
       "raw_hot": 14397354,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 2210988,
-      "num": 396271,
+      "num": 586170,
       "word": "张兰回应抖音被无限期封禁",
       "onboard_time": 1739005823,
       "rank": 13,
@@ -107,8 +107,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 2053982,
+      "num": 621265,
+      "word": "卧底特工拍到缅甸电诈园区内部画面",
+      "onboard_time": 1739009062,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1841390,
-      "num": 508567,
+      "num": 671346,
       "word": "微博共清理大S相关谣言内容2100余条",
       "onboard_time": 1738997720,
       "rank": 11,
@@ -137,14 +145,6 @@
       "onboard_time": 1738981161,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1727096,
-      "num": 621265,
-      "word": "卧底特工拍到缅甸电诈园区内部画面",
-      "onboard_time": 1739009062,
-      "rank": 1,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1715829,
@@ -203,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1245915,
+      "num": 1245915,
+      "word": "王楚钦vs梁靖崑",
+      "onboard_time": 1739009301,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1215289,
       "num": 468590,
       "word": "大热cp二搭",
@@ -251,12 +259,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 933542,
+      "num": 933542,
+      "word": "网曝服务区垃圾桶发现大量酥肉腊味",
+      "onboard_time": 1739010504,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 929033,
       "num": 929033,
       "word": "高亭宇夺金",
       "onboard_time": 1738988847,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 879131,
+      "num": 879131,
+      "word": "四川山体滑坡30余人失联",
+      "onboard_time": 1739009242,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 870914,
@@ -291,14 +315,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 784116,
-      "num": 784116,
-      "word": "四川山体滑坡30余人失联",
-      "onboard_time": 1739009242,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 778010,
       "num": 586623,
       "word": "哪吒敖丙双人贺图",
@@ -321,6 +337,14 @@
       "onboard_time": 1738997720,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 727807,
+      "num": 727807,
+      "word": "林孝埈打破韩国包揽9金的豪言",
+      "onboard_time": 1739009604,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 725758,
@@ -364,7 +388,7 @@
     },
     {
       "raw_hot": 694115,
-      "num": 365955,
+      "num": 583575,
       "word": "一念关山",
       "onboard_time": 1739008464,
       "rank": 16,
@@ -384,6 +408,14 @@
       "word": "饺子背了半个月终于有人问了",
       "onboard_time": 1738939224,
       "rank": 6,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 606345,
+      "num": 606345,
+      "word": "祝绪丹被三岁的百亿票房男明星迷住了",
+      "onboard_time": 1739009482,
+      "rank": 25,
       "category": "电影"
     },
     {
@@ -435,14 +467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 539794,
-      "num": 361233,
-      "word": "林孝埈打破韩国包揽9金的豪言",
-      "onboard_time": 1739009604,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 535236,
       "num": 535236,
       "word": "中国短道速滑队错失首金",
@@ -472,14 +496,6 @@
       "word": "王楚钦林诗栋男双冠军",
       "onboard_time": 1738993765,
       "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 501805,
-      "num": 501805,
-      "word": "王楚钦vs梁靖崑",
-      "onboard_time": 1739009301,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -520,6 +536,14 @@
       "word": "亚冬会短道2000米混接决赛",
       "onboard_time": 1738980141,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 487473,
+      "num": 487473,
+      "word": "王楚钦黄牌",
+      "onboard_time": 1739012062,
+      "rank": 13,
       "category": "体育"
     },
     {
@@ -651,14 +675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 417750,
-      "num": 341090,
-      "word": "祝绪丹被三岁的百亿票房男明星迷住了",
-      "onboard_time": 1739009482,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 413695,
       "num": 502936,
       "word": "林孝埈短道速滑500米夺金",
@@ -692,7 +708,7 @@
     },
     {
       "raw_hot": 392132,
-      "num": 321978,
+      "num": 323478,
       "word": "春节档排片谁说了算",
       "onboard_time": 1739009182,
       "rank": 14,
@@ -859,14 +875,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 311122,
-      "num": 182560,
-      "word": "网曝服务区垃圾桶发现大量酥肉腊味",
-      "onboard_time": 1739010504,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 310728,
       "num": 277404,
       "word": "好一个乖乖女",
@@ -888,6 +896,14 @@
       "word": "林孝埈1500米晋级决赛",
       "onboard_time": 1738984280,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 308654,
+      "num": 308654,
+      "word": "林孝埈滑了3遍才拿到这枚金牌",
+      "onboard_time": 1739010023,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -1027,6 +1043,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 267168,
+      "num": 267168,
+      "word": "日本学校寒潮天仍禁止学生穿裤袜",
+      "onboard_time": 1739010202,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 267120,
+      "num": 296165,
+      "word": "沐清歌下线",
+      "onboard_time": 1739011883,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 264303,
       "num": 264303,
       "word": "王鹤棣长发",
@@ -1147,6 +1179,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 229291,
+      "num": 225049,
+      "word": "刚种完睫毛像个绝望的海胆",
+      "onboard_time": 1739010143,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 228099,
       "num": 228099,
       "word": "林孝埈一个丝滑超越夺金",
@@ -1177,6 +1217,14 @@
       "onboard_time": 1738982601,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227109,
+      "num": 227109,
+      "word": "山西大同比北极还冷",
+      "onboard_time": 1739008341,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 226672,
@@ -1395,14 +1443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199956,
-      "num": 199956,
-      "word": "山西大同比北极还冷",
-      "onboard_time": 1739008341,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 199365,
       "num": 310146,
       "word": "程靖淇恋情官宣",
@@ -1425,6 +1465,14 @@
       "onboard_time": 1738989090,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197725,
+      "num": 197725,
+      "word": "银行开始盯上儿童压岁钱了",
+      "onboard_time": 1739011883,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196752,
@@ -1571,14 +1619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 179738,
-      "num": 179738,
-      "word": "林孝埈滑了3遍才拿到这枚金牌",
-      "onboard_time": 1739010023,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 179540,
       "num": 436021,
       "word": "速度滑冰",
@@ -1587,12 +1627,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178710,
+      "num": 178710,
+      "word": "恋与深空助力亚冬会",
+      "onboard_time": 1739011942,
+      "rank": 35,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 178390,
       "num": 304201,
       "word": "黄旭华逝世",
       "onboard_time": 1738897163,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 178033,
+      "num": 178033,
+      "word": "知道贺峻霖好学但你先别学",
+      "onboard_time": 1739012182,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 177906,
@@ -1675,14 +1731,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 165890,
-      "num": 165890,
-      "word": "日本学校寒潮天仍禁止学生穿裤袜",
-      "onboard_time": 1739010202,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 163760,
       "num": 179834,
       "word": "韩梅1500米金牌",
@@ -1753,6 +1801,14 @@
       "onboard_time": 1738985785,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156099,
+      "num": 156099,
+      "word": "三大运营商全面接入DeepSeek",
+      "onboard_time": 1739010442,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 156008,
@@ -1875,28 +1931,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 145056,
-      "num": 145056,
-      "word": "刚种完睫毛像个绝望的海胆",
-      "onboard_time": 1739010143,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 143782,
       "num": 143782,
       "word": "春节上门喂猫圆满结束收入2w",
       "onboard_time": 1738975402,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 142126,
-      "num": 142126,
-      "word": "三大运营商全面接入DeepSeek",
-      "onboard_time": 1739010442,
-      "rank": 42,
-      "category": "互联网"
     },
     {
       "raw_hot": 139893,
@@ -1937,6 +1977,14 @@
       "onboard_time": 1738923142,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133274,
+      "num": 133274,
+      "word": "日本英国网友疯狂期待哪吒2",
+      "onboard_time": 1739013023,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 130071,
@@ -2035,6 +2083,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 123222,
+      "num": 123222,
+      "word": "又一名反华分子翻车",
+      "onboard_time": 1739013325,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 123207,
       "num": 275831,
       "word": "李方慧张可欣包揽冠亚军",
@@ -2073,6 +2129,22 @@
       "onboard_time": 1738935204,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121142,
+      "num": 121142,
+      "word": "掌心拍出了唐朝萝莉岛",
+      "onboard_time": 1739013261,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 118766,
+      "num": 118766,
+      "word": "四川省地质灾害一级应急响应启动",
+      "onboard_time": 1739012123,
+      "rank": 46,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 118669,
@@ -2123,6 +2195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108398,
+      "num": 108398,
+      "word": "孙颖莎这18秒轻轻帅晕了我",
+      "onboard_time": 1739013023,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108392,
       "num": 106499,
       "word": "柯淳好帅",
@@ -2131,12 +2211,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107635,
+      "num": 268123,
+      "word": "短道男子500米决赛太刺激了",
+      "onboard_time": 1739012961,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 105978,
+      "num": 105978,
+      "word": "IVE双人ENDING",
+      "onboard_time": 1739011702,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 105972,
       "num": 105972,
       "word": "冰壶混双铜牌赛中国vs菲律宾",
       "onboard_time": 1738977440,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105479,
+      "num": 105479,
+      "word": "客服称G2838次列车不售卖方便面",
+      "onboard_time": 1739013202,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105067,
+      "num": 587788,
+      "word": "缅甸电诈受害者被殴打电击画面曝光",
+      "onboard_time": 1739011044,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 102963,
@@ -2193,14 +2305,6 @@
       "onboard_time": 1738907902,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 91689,
-      "num": 139455,
-      "word": "缅甸电诈受害者被殴打电击画面曝光",
-      "onboard_time": 1739011044,
-      "rank": 43,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 90453,
@@ -2372,7 +2476,7 @@
     },
     {
       "raw_hot": 60530,
-      "num": 526315,
+      "num": 1079240,
       "word": "哈尔滨亚冬会中国队首金",
       "onboard_time": 1739006544,
       "rank": 2,
@@ -2906,6 +3010,9 @@
     },
     {
       "word": "#冰雪华章#"
+    },
+    {
+      "word": "#不同文明各具风采#"
     }
   ]
 }
