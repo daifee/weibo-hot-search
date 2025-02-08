@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739054172003,
+  "endTime": 1739056920896,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -3587,6 +3587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 557983,
+      "num": 790683,
+      "word": "女子得了流感硬抗3天变白肺",
+      "onboard_time": 1739038574,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 557528,
       "num": 352270,
       "word": "ChatGPT",
@@ -5033,6 +5041,14 @@
       "onboard_time": 1739022143,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 433337,
+      "num": 433337,
+      "word": "华为手表属于医疗器械可以医保付款",
+      "onboard_time": 1739050813,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 433003,
@@ -6635,14 +6651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 325981,
-      "num": 461934,
-      "word": "女子得了流感硬抗3天变白肺",
-      "onboard_time": 1739038574,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 325103,
       "num": 283399,
       "word": "白鹿包场仙台有树",
@@ -7553,6 +7561,14 @@
       "onboard_time": 1738814906,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 283800,
+      "num": 283800,
+      "word": "动画公司回应138家公司托举哪吒2",
+      "onboard_time": 1739040193,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 283328,
@@ -13771,14 +13787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 163923,
-      "num": 163923,
-      "word": "华为手表属于医疗器械可以医保付款",
-      "onboard_time": 1739050813,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 163883,
       "num": 163883,
       "word": "东契奇发文感谢独行侠",
@@ -17523,14 +17531,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 121527,
-      "num": 121527,
-      "word": "动画公司回应138家公司托举哪吒2",
-      "onboard_time": 1739040193,
-      "rank": 6,
-      "category": "电影"
-    },
-    {
       "raw_hot": 121460,
       "num": 121460,
       "word": "男主一句话女主八百个白眼",
@@ -19331,6 +19331,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 99043,
+      "num": 143379,
+      "word": "四川山体滑坡29人失联",
+      "onboard_time": 1739056454,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 99012,
       "num": 99012,
       "word": "当我问DeepSeek不想上班怎么办",
@@ -19665,6 +19673,14 @@
       "onboard_time": 1738509080,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93057,
+      "num": 148295,
+      "word": "四川宜宾山体滑坡原因",
+      "onboard_time": 1739056274,
+      "rank": 8,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 92938,
@@ -20273,6 +20289,14 @@
       "onboard_time": 1739006244,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 80048,
+      "num": 80048,
+      "word": "DeepSeek官网和正版APP无付费项目",
+      "onboard_time": 1739052851,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 80025,
@@ -21923,6 +21947,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 49791,
+      "num": 63147,
+      "word": "四川宜宾突发山体滑坡",
+      "onboard_time": 1739039953,
+      "rank": 44,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 49682,
       "num": 893078,
       "word": "AI看双亚冬城市哈尔滨",
@@ -22033,6 +22065,14 @@
       "onboard_time": 1738775117,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 47921,
+      "num": 47921,
+      "word": "不允许有人没看过饺子成名作",
+      "onboard_time": 1739051471,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 47462,
@@ -22835,6 +22875,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 34275,
+      "num": 37804,
+      "word": "车主见车窗被砸不怒反喜",
+      "onboard_time": 1739054353,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34086,
+      "num": 37802,
+      "word": "林诗栋说王楚钦教自己很多",
+      "onboard_time": 1739051231,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 33862,
       "num": 770004,
       "word": "锣鼓一响敲出新年满满精气神",
@@ -23099,6 +23155,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 30186,
+      "num": 37802,
+      "word": "余承恩王子璇好甜",
+      "onboard_time": 1739042771,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 30042,
       "num": 211855,
       "word": "亚冬会9日看点",
@@ -23209,6 +23273,14 @@
       "onboard_time": 1738992563,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 27886,
+      "num": 75813,
+      "word": "专家称代码外包或被AI取代",
+      "onboard_time": 1739055192,
+      "rank": 21,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 27848,
@@ -23395,14 +23467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 25612,
-      "num": 26529,
-      "word": "余承恩王子璇好甜",
-      "onboard_time": 1739042771,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 25598,
       "num": 71806,
       "word": "慕胥辞杀青特辑",
@@ -23529,14 +23593,6 @@
       "onboard_time": 1738813524,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24225,
-      "num": 24225,
-      "word": "不允许有人没看过饺子成名作",
-      "onboard_time": 1739051471,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 24149,
@@ -23731,14 +23787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 21443,
-      "num": 61591,
-      "word": "DeepSeek官网和正版APP无付费项目",
-      "onboard_time": 1739052851,
-      "rank": 9,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 21420,
       "num": 367215,
       "word": "宁忠岩用中国速度展现中国力量",
@@ -23851,14 +23899,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 19474,
-      "num": 63147,
-      "word": "四川宜宾突发山体滑坡",
-      "onboard_time": 1739039953,
-      "rank": 44,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 19193,
       "num": 211066,
       "word": "周杰伦过年期间录音了",
@@ -23873,14 +23913,6 @@
       "onboard_time": 1738855825,
       "rank": 19,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 19009,
-      "num": 19876,
-      "word": "林诗栋说王楚钦教自己很多",
-      "onboard_time": 1739051231,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 18934,
@@ -24713,6 +24745,14 @@
       "onboard_time": 1738365313,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7875,
+      "num": 59923,
+      "word": "哪吒2每天都在打破纪录",
+      "onboard_time": 1739056755,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 7794,
