@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739056920896,
+  "endTime": 1739057739800,
   "band_list": [
     {
       "raw_hot": 1172015,
@@ -27,6 +27,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 646075,
+      "num": 905889,
+      "word": "女子得了流感硬抗3天变白肺",
+      "onboard_time": 1739038574,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 621577,
       "num": 366936,
       "word": "邪恶栀子花大战邪恶菠萝蜜",
@@ -41,14 +49,6 @@
       "onboard_time": 1739027302,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 557983,
-      "num": 790683,
-      "word": "女子得了流感硬抗3天变白肺",
-      "onboard_time": 1739038574,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 556983,
@@ -75,19 +75,19 @@
       "category": "民生新闻,电影"
     },
     {
+      "raw_hot": 510606,
+      "num": 510606,
+      "word": "华为手表属于医疗器械可以医保付款",
+      "onboard_time": 1739050813,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 450494,
       "num": 349711,
       "word": "12306回应乘客买到过期4年方便面",
       "onboard_time": 1739026221,
       "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 433337,
-      "num": 433337,
-      "word": "华为手表属于医疗器械可以医保付款",
-      "onboard_time": 1739050813,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -121,6 +121,14 @@
       "onboard_time": 1739030900,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 360157,
+      "num": 360157,
+      "word": "动画公司回应138家公司托举哪吒2",
+      "onboard_time": 1739040193,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 324713,
@@ -184,14 +192,6 @@
       "word": "哪吒2已破74亿",
       "onboard_time": 1739020583,
       "rank": 16,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 283800,
-      "num": 283800,
-      "word": "动画公司回应138家公司托举哪吒2",
-      "onboard_time": 1739040193,
-      "rank": 6,
       "category": "电影"
     },
     {
@@ -291,6 +291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153517,
+      "num": 180813,
+      "word": "四川宜宾山体滑坡原因",
+      "onboard_time": 1739056274,
+      "rank": 8,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 150597,
       "num": 150597,
       "word": "加沙人说这辈子什么都没有了",
@@ -323,12 +331,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 140885,
+      "num": 314713,
+      "word": "四川山体滑坡29人失联",
+      "onboard_time": 1739056454,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 137904,
       "num": 137904,
       "word": "王曼昱蒯曼用冠军庆祝生日",
       "onboard_time": 1739025864,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130592,
+      "num": 130592,
+      "word": "DeepSeek官网和正版APP无付费项目",
+      "onboard_time": 1739052851,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 125609,
@@ -395,28 +419,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 99043,
-      "num": 143379,
-      "word": "四川山体滑坡29人失联",
-      "onboard_time": 1739056454,
-      "rank": 9,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 95214,
       "num": 118990,
       "word": "零下35度一家三口救下路边冻僵大爷",
       "onboard_time": 1739019261,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93057,
-      "num": 148295,
-      "word": "四川宜宾山体滑坡原因",
-      "onboard_time": 1739056274,
-      "rank": 8,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 91119,
@@ -449,14 +457,6 @@
       "onboard_time": 1739025383,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 80048,
-      "num": 80048,
-      "word": "DeepSeek官网和正版APP无付费项目",
-      "onboard_time": 1739052851,
-      "rank": 9,
-      "category": "互联网"
     },
     {
       "raw_hot": 80033,
@@ -499,6 +499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 63619,
+      "num": 63619,
+      "word": "四川宜宾突发山体滑坡",
+      "onboard_time": 1739039953,
+      "rank": 44,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 63216,
       "num": 117566,
       "word": "紧急预拨3000万元支持四川救灾工作",
@@ -531,16 +539,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 49791,
-      "num": 63147,
-      "word": "四川宜宾突发山体滑坡",
-      "onboard_time": 1739039953,
-      "rank": 44,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 47921,
-      "num": 47921,
+      "num": 58805,
       "word": "不允许有人没看过饺子成名作",
       "onboard_time": 1739051471,
       "rank": 36,
@@ -579,8 +579,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35693,
+      "num": 58833,
+      "word": "余承恩王子璇好甜",
+      "onboard_time": 1739042771,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 34275,
-      "num": 37804,
+      "num": 58634,
       "word": "车主见车窗被砸不怒反喜",
       "onboard_time": 1739054353,
       "rank": 46,
@@ -588,7 +596,7 @@
     },
     {
       "raw_hot": 34086,
-      "num": 37802,
+      "num": 58771,
       "word": "林诗栋说王楚钦教自己很多",
       "onboard_time": 1739051231,
       "rank": 35,
@@ -603,12 +611,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30186,
-      "num": 37802,
-      "word": "余承恩王子璇好甜",
-      "onboard_time": 1739042771,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 29559,
+      "num": 75813,
+      "word": "专家称代码外包或被AI取代",
+      "onboard_time": 1739055192,
+      "rank": 21,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 29114,
@@ -617,14 +625,6 @@
       "onboard_time": 1739036174,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 27886,
-      "num": 75813,
-      "word": "专家称代码外包或被AI取代",
-      "onboard_time": 1739055192,
-      "rank": 21,
-      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 26325,
@@ -720,6 +720,14 @@
       "word": "哪吒冲顶也象征着动画行业的托举",
       "onboard_time": 1739041393,
       "rank": 9,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 10229,
+      "num": 146555,
+      "word": "导演饺子初学动画为10秒镜头渲染3天",
+      "onboard_time": 1739057175,
+      "rank": 12,
       "category": "电影"
     },
     {
