@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739035102132,
+  "endTime": 1739036162076,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -6755,6 +6755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 317465,
+      "num": 126664,
+      "word": "外媒称哪吒2爆火是因中国人没钱旅游",
+      "onboard_time": 1739032398,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 317289,
       "num": 317289,
       "word": "哪吒2海外上映购票观众发声",
@@ -6825,6 +6833,14 @@
       "onboard_time": 1738727963,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 313593,
+      "num": 313593,
+      "word": "警方通报欺凌视频事实基本属实",
+      "onboard_time": 1739033955,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 313389,
@@ -7225,14 +7241,6 @@
       "onboard_time": 1738941503,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 297611,
-      "num": 126664,
-      "word": "外媒称哪吒2爆火是因中国人没钱旅游",
-      "onboard_time": 1739032398,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 297153,
@@ -17491,14 +17499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121371,
-      "num": 204618,
-      "word": "警方通报欺凌视频事实基本属实",
-      "onboard_time": 1739033955,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121230,
       "num": 128067,
       "word": "cpgz",
@@ -21835,6 +21835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50130,
+      "num": 55652,
+      "word": "fayeyoko",
+      "onboard_time": 1739035816,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49976,
       "num": 258488,
       "word": "健身是中年人最好的救赎吗",
@@ -22441,6 +22449,14 @@
       "onboard_time": 1738969575,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 39351,
+      "num": 185280,
+      "word": "女孩遭欺凌5名涉案人员均已到案",
+      "onboard_time": 1739035216,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39319,
@@ -24352,6 +24368,14 @@
       "word": "谷爱凌出征亚冬会",
       "onboard_time": 1738503740,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 9831,
+      "num": 75308,
+      "word": "林诗栋三项进决赛",
+      "onboard_time": 1739035634,
+      "rank": 27,
       "category": "体育"
     },
     {

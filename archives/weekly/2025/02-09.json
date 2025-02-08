@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739035102132,
+  "endTime": 1739036162076,
   "band_list": [
     {
       "raw_hot": 1172015,
@@ -131,6 +131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 317465,
+      "num": 126664,
+      "word": "外媒称哪吒2爆火是因中国人没钱旅游",
+      "onboard_time": 1739032398,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 316020,
       "num": 350418,
       "word": "成都住房公积金贷款最新调整",
@@ -139,12 +147,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 297611,
-      "num": 126664,
-      "word": "外媒称哪吒2爆火是因中国人没钱旅游",
-      "onboard_time": 1739032398,
-      "rank": 35,
-      "category": "电影"
+      "raw_hot": 313593,
+      "num": 313593,
+      "word": "警方通报欺凌视频事实基本属实",
+      "onboard_time": 1739033955,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 294388,
@@ -315,14 +323,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 121371,
-      "num": 204618,
-      "word": "警方通报欺凌视频事实基本属实",
-      "onboard_time": 1739033955,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119220,
       "num": 119220,
       "word": "刘诗诗 妈妈级别",
@@ -451,6 +451,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 50130,
+      "num": 55652,
+      "word": "fayeyoko",
+      "onboard_time": 1739035816,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 39351,
+      "num": 185280,
+      "word": "女孩遭欺凌5名涉案人员均已到案",
+      "onboard_time": 1739035216,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38832,
       "num": 155380,
       "word": "Doinb采访",
@@ -473,11 +489,22 @@
       "onboard_time": 1739033178,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 9831,
+      "num": 75308,
+      "word": "林诗栋三项进决赛",
+      "onboard_time": 1739035634,
+      "rank": 27,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
     {
       "word": "#习近平对四川筠连山体滑坡作出重要指示#"
+    },
+    {
+      "word": "#深入落实推动新时代东北全面振兴战略部署#"
     }
   ]
 }
