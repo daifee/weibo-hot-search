@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739053186260,
+  "endTime": 1739054172003,
   "band_list": [
     {
       "raw_hot": 1172015,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 325981,
-      "num": 373921,
+      "num": 461934,
       "word": "女子得了流感硬抗3天变白肺",
       "onboard_time": 1739038574,
       "rank": 10,
@@ -251,6 +251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 163923,
+      "num": 163923,
+      "word": "华为手表属于医疗器械可以医保付款",
+      "onboard_time": 1739050813,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158407,
       "num": 158407,
       "word": "四川山体滑坡30余人失联",
@@ -347,28 +355,20 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 119220,
-      "num": 119220,
-      "word": "刘诗诗 妈妈级别",
-      "onboard_time": 1739021123,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 115528,
-      "num": 115528,
+      "raw_hot": 121527,
+      "num": 121527,
       "word": "动画公司回应138家公司托举哪吒2",
       "onboard_time": 1739040193,
       "rank": 6,
       "category": "电影"
     },
     {
-      "raw_hot": 114292,
-      "num": 114292,
-      "word": "华为手表属于医疗器械可以医保付款",
-      "onboard_time": 1739050813,
-      "rank": 3,
-      "category": "民生新闻"
+      "raw_hot": 119220,
+      "num": 119220,
+      "word": "刘诗诗 妈妈级别",
+      "onboard_time": 1739021123,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 107375,
@@ -531,6 +531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 38720,
+      "num": 49806,
+      "word": "犯罪嫌疑人开走警车连撞3车",
+      "onboard_time": 1739050751,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30563,
       "num": 548879,
       "word": "从冬奥到亚冬冰雪热燃起来了",
@@ -547,8 +555,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 25728,
-      "num": 25728,
+      "raw_hot": 26325,
+      "num": 26325,
       "word": "四川筠连山体滑坡",
       "onboard_time": 1739037193,
       "rank": 47,
@@ -556,11 +564,19 @@
     },
     {
       "raw_hot": 25612,
-      "num": 25612,
+      "num": 26529,
       "word": "余承恩王子璇好甜",
       "onboard_time": 1739042771,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24225,
+      "num": 24225,
+      "word": "不允许有人没看过饺子成名作",
+      "onboard_time": 1739051471,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 24149,
@@ -571,20 +587,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 21443,
+      "num": 61591,
+      "word": "DeepSeek官网和正版APP无付费项目",
+      "onboard_time": 1739052851,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 20178,
       "num": 30352,
       "word": "美流感病例激增",
       "onboard_time": 1739044751,
       "rank": 23,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 19619,
-      "num": 19619,
-      "word": "不允许有人没看过饺子成名作",
-      "onboard_time": 1739051471,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 19474,
@@ -595,12 +611,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 19145,
-      "num": 49806,
-      "word": "犯罪嫌疑人开走警车连撞3车",
-      "onboard_time": 1739050751,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 19009,
+      "num": 19876,
+      "word": "林诗栋说王楚钦教自己很多",
+      "onboard_time": 1739051231,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 17399,
@@ -619,16 +635,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 15974,
-      "num": 19645,
-      "word": "林诗栋说王楚钦教自己很多",
-      "onboard_time": 1739051231,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 14775,
-      "num": 16140,
+      "num": 19869,
       "word": "别再用光阴似箭当作文开头了",
       "onboard_time": 1739052911,
       "rank": 49,
