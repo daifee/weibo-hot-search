@@ -1,0 +1,410 @@
+{
+  "runTime": 1738978735481,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2734711,
+        "num": 2734711,
+        "word": "所以呢 不是钱吗",
+        "onboard_time": 1738974861,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1199759,
+        "num": 1199759,
+        "word": "中方回应巴方退出一带一路协议",
+        "onboard_time": 1738970898,
+        "rank": 1,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 80472,
+        "num": 966948,
+        "word": "亚冬会开幕式硬核超燃瞬间",
+        "onboard_time": 1738938504,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 846066,
+        "num": 846066,
+        "word": "饺子导演的毛衣400块",
+        "onboard_time": 1738970956,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 554224,
+        "num": 554224,
+        "word": "美国失联飞机上10人均已遇难",
+        "onboard_time": 1738977862,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 452373,
+        "num": 452373,
+        "word": "DeepSeek下棋骗赢了ChatGPT",
+        "onboard_time": 1738972158,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 773397,
+        "num": 448434,
+        "word": "哪吒2全球影史单一市场票房第1",
+        "onboard_time": 1738935684,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 627210,
+        "num": 441782,
+        "word": "短剧 上瘾",
+        "onboard_time": 1738942462,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 430652,
+        "num": 430652,
+        "word": "老人吵架后去世邻居被判赔偿",
+        "onboard_time": 1738943900,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255054,
+        "num": 427045,
+        "word": "人民网评破门亮灯道歉不是终点",
+        "onboard_time": 1738941623,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1777079,
+        "num": 406679,
+        "word": "曝贾斯丁比伯健康状况堪忧",
+        "onboard_time": 1738976179,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 611711,
+        "num": 390297,
+        "word": "韩佳人素颜照",
+        "onboard_time": 1738974861,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 561714,
+        "num": 380766,
+        "word": "饺子背了半个月终于有人问了",
+        "onboard_time": 1738939224,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 469563,
+        "num": 351169,
+        "word": "山东一婚姻登记处年后人满为患",
+        "onboard_time": 1738943602,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27715,
+        "num": 334713,
+        "word": "亚冬会2月8日比赛看点",
+        "onboard_time": 1738977922,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 435990,
+        "num": 328336,
+        "word": "三大平台养老剧",
+        "onboard_time": 1738976421,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316355,
+        "num": 316355,
+        "word": "一家三口从新加坡坐火车12天回成都",
+        "onboard_time": 1738975402,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307676,
+        "num": 307676,
+        "word": "马斯克将审查美国防部支出",
+        "onboard_time": 1738973781,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 303607,
+        "num": 303607,
+        "word": "乌尔善说会把殷郊法相做得更有质感",
+        "onboard_time": 1738971918,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 246952,
+        "num": 301281,
+        "word": "多地今冬最冷白天",
+        "onboard_time": 1738977862,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 870914,
+        "num": 301235,
+        "word": "女生长期把电脑放腿上办公长出蟒蛇纹",
+        "onboard_time": 1738971918,
+        "rank": 20,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 398495,
+        "num": 301077,
+        "word": "微信打电话和手机打电话区别真大",
+        "onboard_time": 1738972158,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 300770,
+        "num": 300770,
+        "word": "哪吒之魔童闹海票房超过星球大战",
+        "onboard_time": 1738972218,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 338945,
+        "num": 295517,
+        "word": "微信运动是很私密的东西",
+        "onboard_time": 1738971918,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 274112,
+        "num": 274112,
+        "word": "哪吒",
+        "onboard_time": 1738978041,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 245877,
+        "num": 245877,
+        "word": "宁艺卓邀请徐艺洋看演唱会",
+        "onboard_time": 1738973959,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227680,
+        "num": 227680,
+        "word": "于适怎么感觉头尖尖的",
+        "onboard_time": 1738976421,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 226090,
+        "num": 226090,
+        "word": "年后事业运大爆发的星座",
+        "onboard_time": 1738973719,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219288,
+        "num": 219288,
+        "word": "特朗普取消拜登的机密信息权限",
+        "onboard_time": 1738975402,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 217321,
+        "num": 217321,
+        "word": "人社局工作人员辱骂办事群众被停职",
+        "onboard_time": 1738971136,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410839,
+        "num": 200527,
+        "word": "哪吒敖丙双人贺图",
+        "onboard_time": 1738977681,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182480,
+        "num": 182480,
+        "word": "长沙一小学一二年级九点二十上课",
+        "onboard_time": 1738973959,
+        "rank": 31,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 187449,
+        "num": 175795,
+        "word": "妈妈花7天给儿子做哪吒2敖光战甲",
+        "onboard_time": 1738977862,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 166497,
+        "num": 166497,
+        "word": "班主任寒假家访遭各种理由拒绝",
+        "onboard_time": 1738937064,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151350,
+        "num": 151350,
+        "word": "一个能一觉睡到天亮的入睡法",
+        "onboard_time": 1738933464,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150656,
+        "num": 150656,
+        "word": "固定每周80%的事情能降低焦虑感",
+        "onboard_time": 1738973719,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143987,
+        "num": 143987,
+        "word": "为无量仙翁配音大爷到片场才知配反派",
+        "onboard_time": 1738937424,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141969,
+        "num": 141969,
+        "word": "丁克婚姻20年丈夫竟和别人生子",
+        "onboard_time": 1738922841,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139893,
+        "num": 139893,
+        "word": "仙台有树",
+        "onboard_time": 1738977862,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136557,
+        "num": 136557,
+        "word": "万岁山2米巨人演员走红",
+        "onboard_time": 1738974560,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128982,
+        "num": 128982,
+        "word": "哪吒2票房和观影人次最多的地方",
+        "onboard_time": 1738976541,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127630,
+        "num": 127630,
+        "word": "春节上门喂猫圆满结束收入2w",
+        "onboard_time": 1738975402,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126238,
+        "num": 126238,
+        "word": "美国阿拉斯加失联客机已坠毁",
+        "onboard_time": 1738977862,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 124992,
+        "num": 124992,
+        "word": "北京遭遇极端性大风",
+        "onboard_time": 1738974139,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118672,
+        "num": 118672,
+        "word": "丁禹兮的玩偶是虞书欣同款",
+        "onboard_time": 1738939103,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113395,
+        "num": 113395,
+        "word": "景区2米33巨人演员回应走红",
+        "onboard_time": 1738978462,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110656,
+        "num": 110656,
+        "word": "飞机滑行时女子上厕所被拒发飙砸门",
+        "onboard_time": 1738977981,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110101,
+        "num": 110101,
+        "word": "国色芳华 杨紫演技",
+        "onboard_time": 1738978580,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106499,
+        "num": 106499,
+        "word": "柯淳好帅",
+        "onboard_time": 1738951752,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105972,
+        "num": 105972,
+        "word": "冰壶混双铜牌赛中国vs菲律宾",
+        "onboard_time": 1738977440,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席出席哈尔滨亚冬会开幕式#"
+    }
+  }
+}

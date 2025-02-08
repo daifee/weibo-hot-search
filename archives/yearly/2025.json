@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738971344017,
+  "endTime": 1738978735481,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1291,6 +1291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2734711,
+      "num": 2734711,
+      "word": "所以呢 不是钱吗",
+      "onboard_time": 1738974861,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 2693767,
       "num": 1704350,
       "word": "众星发声悼念",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736148207,
       "rank": 38,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1944202,
-      "num": 1944202,
-      "word": "李雪琴 从没在红毯这么好看过",
-      "onboard_time": 1736577739,
-      "rank": 1,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
