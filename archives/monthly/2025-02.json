@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1738996888331,
+  "endTime": 1738999213987,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -96,6 +96,14 @@
       "word": "汪小菲说大S是我的家人",
       "onboard_time": 1738584151,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 7562676,
+      "num": 7562676,
+      "word": "微博关停张兰账号直播功能",
+      "onboard_time": 1738997242,
+      "rank": 0,
       "category": "艺人"
     },
     {
@@ -379,6 +387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 2408039,
+      "num": 675251,
+      "word": "饺子导演的70亿海报",
+      "onboard_time": 1738993765,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 2344339,
       "num": 530249,
       "word": "具俊晔崩溃",
@@ -547,14 +563,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 1876006,
-      "num": 675251,
-      "word": "饺子导演的70亿海报",
-      "onboard_time": 1738993765,
-      "rank": 6,
-      "category": "电影"
-    },
-    {
       "raw_hot": 1864508,
       "num": 1692978,
       "word": "熙媛 我始终觉得你应该更幸福",
@@ -585,6 +593,14 @@
       "onboard_time": 1738552229,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1841390,
+      "num": 456850,
+      "word": "微博共清理大S相关谣言内容2100余条",
+      "onboard_time": 1738997720,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1825522,
@@ -2227,6 +2243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 758376,
+      "num": 402198,
+      "word": "微博处置100余个涉大S谣言账号",
+      "onboard_time": 1738997720,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 755824,
       "num": 755824,
       "word": "DeepSeek给全世界特别是美国上了一课",
@@ -3515,6 +3539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 528826,
+      "num": 306922,
+      "word": "刘晓庆泳装",
+      "onboard_time": 1738997963,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 527114,
       "num": 265577,
       "word": "吒儿谢谢吴京叔叔",
@@ -4088,6 +4120,14 @@
       "word": "NBA交易",
       "onboard_time": 1738803981,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 473785,
+      "num": 473785,
+      "word": "蒯曼4比2陈幸同",
+      "onboard_time": 1738998142,
+      "rank": 7,
       "category": "体育"
     },
     {
@@ -4892,7 +4932,7 @@
     },
     {
       "raw_hot": 402724,
-      "num": 257096,
+      "num": 259080,
       "word": "我家那小子",
       "onboard_time": 1738386139,
       "rank": 35,
@@ -6419,6 +6459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 304156,
+      "num": 304156,
+      "word": "湖南一警车被精神病人开走连撞3车",
+      "onboard_time": 1738995624,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 303732,
       "num": 465193,
       "word": "刘少昂再次摔倒",
@@ -6723,6 +6771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 289820,
+      "num": 289820,
+      "word": "李小冉反省自己一着急就会臭脸",
+      "onboard_time": 1738996282,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 289067,
       "num": 289067,
       "word": "日本北海道一个市降雪1.2米",
@@ -6819,6 +6875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 284759,
+      "num": 284759,
+      "word": "田曦薇小猫敬礼萌得太犯规",
+      "onboard_time": 1738997661,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284167,
       "num": 284167,
       "word": "师父死去的白月光竟是我自己",
@@ -6889,6 +6953,14 @@
       "onboard_time": 1738377978,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 279363,
+      "num": 279363,
+      "word": "深圳一公交车碰撞站台致2死1伤",
+      "onboard_time": 1738997963,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 278709,
@@ -7585,6 +7657,14 @@
       "onboard_time": 1738726882,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 251147,
+      "num": 251147,
+      "word": "敖丙版混天绫",
+      "onboard_time": 1738996884,
+      "rank": 37,
+      "category": "动漫,电影"
     },
     {
       "raw_hot": 251019,
@@ -8787,14 +8867,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 220884,
-      "num": 220884,
-      "word": "湖南一警车被精神病人开走连撞3车",
-      "onboard_time": 1738995624,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 220137,
       "num": 220137,
       "word": "妈妈花7天给儿子做哪吒2敖光战甲",
@@ -9628,7 +9700,7 @@
     },
     {
       "raw_hot": 204406,
-      "num": 204406,
+      "num": 305702,
       "word": "王楚钦这球干脆利落",
       "onboard_time": 1738995624,
       "rank": 37,
@@ -10329,14 +10401,6 @@
       "onboard_time": 1738991545,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 194720,
-      "num": 194720,
-      "word": "李小冉反省自己一着急就会臭脸",
-      "onboard_time": 1738996282,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 194670,
@@ -11467,6 +11531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180718,
+      "num": 180718,
+      "word": "中方对巴拿马提出严正交涉",
+      "onboard_time": 1738998264,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 180517,
       "num": 180517,
       "word": "创造营亚洲2",
@@ -11841,6 +11913,14 @@
       "onboard_time": 1738554538,
       "rank": 43,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 174488,
+      "num": 174488,
+      "word": "特朗普将停止推广纸吸管",
+      "onboard_time": 1738998982,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 174369,
@@ -12441,6 +12521,14 @@
       "onboard_time": 1738925542,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166089,
+      "num": 471778,
+      "word": "韩梅夺金",
+      "onboard_time": 1738998022,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 166062,
@@ -13665,6 +13753,14 @@
       "onboard_time": 1738732166,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149824,
+      "num": 306858,
+      "word": "李磊夺金",
+      "onboard_time": 1738997720,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 149778,
@@ -17379,6 +17475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102551,
+      "num": 1801091,
+      "word": "中国红霸气亮相",
+      "onboard_time": 1738994489,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102516,
       "num": 102516,
       "word": "李现为古装簪花造型减重",
@@ -18067,6 +18171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92085,
+      "num": 464575,
+      "word": "王强夺金",
+      "onboard_time": 1738998085,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92014,
       "num": 247444,
       "word": "血脉压制是刻进DNA的",
@@ -18297,14 +18409,6 @@
       "onboard_time": 1738941922,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 86277,
-      "num": 1801091,
-      "word": "中国红霸气亮相",
-      "onboard_time": 1738994489,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 86234,
@@ -20737,6 +20841,14 @@
       "onboard_time": 1738570828,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37802,
+      "num": 306238,
+      "word": "美国鸡蛋20美元一打有人开始养鸡",
+      "onboard_time": 1738998982,
+      "rank": 23,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 37729,

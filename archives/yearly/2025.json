@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1738996888331,
+  "endTime": 1738999213987,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -369,6 +369,14 @@
       "onboard_time": 1736605829,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 7562676,
+      "num": 7562676,
+      "word": "微博关停张兰账号直播功能",
+      "onboard_time": 1738997242,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 7381465,
@@ -1603,6 +1611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2408039,
+      "num": 675251,
+      "word": "饺子导演的70亿海报",
+      "onboard_time": 1738993765,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 2404833,
       "num": 2404833,
       "word": "李小冉 挂脸",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1736589808,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1980550,
-      "num": 1980550,
-      "word": "赵樱子曝娱乐圈有一对夫妻离婚是真的",
-      "onboard_time": 1737178697,
-      "rank": 0,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1979803,
-      "num": 1979803,
-      "word": "胖东来公布员工结婚执行标准",
-      "onboard_time": 1735891459,
-      "rank": 0,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

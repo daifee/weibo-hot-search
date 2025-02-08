@@ -1,6 +1,6 @@
 {
   "startTime": 1738945672577,
-  "endTime": 1738996888331,
+  "endTime": 1738999213987,
   "band_list": [
     {
       "raw_hot": 14397354,
@@ -8,6 +8,14 @@
       "word": "张兰汪小菲抖音无限期封禁",
       "onboard_time": 1738985241,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 7562676,
+      "num": 7562676,
+      "word": "微博关停张兰账号直播功能",
+      "onboard_time": 1738997242,
+      "rank": 0,
       "category": "艺人"
     },
     {
@@ -51,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2408039,
+      "num": 675251,
+      "word": "饺子导演的70亿海报",
+      "onboard_time": 1738993765,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 2272608,
       "num": 2272608,
       "word": "林孝埈夺金",
@@ -67,12 +83,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1876006,
-      "num": 675251,
-      "word": "饺子导演的70亿海报",
-      "onboard_time": 1738993765,
-      "rank": 6,
-      "category": "电影"
+      "raw_hot": 1841390,
+      "num": 456850,
+      "word": "微博共清理大S相关谣言内容2100余条",
+      "onboard_time": 1738997720,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1783922,
@@ -219,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 758376,
+      "num": 402198,
+      "word": "微博处置100余个涉大S谣言账号",
+      "onboard_time": 1738997720,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 725758,
       "num": 519910,
       "word": "特朗普发文宣布解雇拜登",
@@ -307,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 528826,
+      "num": 306922,
+      "word": "刘晓庆泳装",
+      "onboard_time": 1738997963,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 513295,
       "num": 513295,
       "word": "王楚钦林诗栋男双冠军",
@@ -361,6 +393,14 @@
       "onboard_time": 1738943900,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 473785,
+      "num": 473785,
+      "word": "蒯曼4比2陈幸同",
+      "onboard_time": 1738998142,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 472765,
@@ -603,6 +643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 304156,
+      "num": 304156,
+      "word": "湖南一警车被精神病人开走连撞3车",
+      "onboard_time": 1738995624,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 303732,
       "num": 465193,
       "word": "刘少昂再次摔倒",
@@ -667,6 +715,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 289820,
+      "num": 289820,
+      "word": "李小冉反省自己一着急就会臭脸",
+      "onboard_time": 1738996282,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 284759,
+      "num": 284759,
+      "word": "田曦薇小猫敬礼萌得太犯规",
+      "onboard_time": 1738997661,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 281413,
       "num": 337395,
       "word": "中国首金",
@@ -675,12 +739,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 279363,
+      "num": 279363,
+      "word": "深圳一公交车碰撞站台致2死1伤",
+      "onboard_time": 1738997963,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 278104,
       "num": 123213,
       "word": "哪吒2全球单一市场登顶",
       "onboard_time": 1738947256,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 277404,
+      "num": 277404,
+      "word": "好一个乖乖女",
+      "onboard_time": 1738996943,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 264303,
@@ -699,8 +779,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 257096,
-      "num": 257096,
+      "raw_hot": 259080,
+      "num": 259080,
       "word": "我家那小子",
       "onboard_time": 1738995743,
       "rank": 42,
@@ -721,6 +801,14 @@
       "onboard_time": 1738941623,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 251147,
+      "num": 251147,
+      "word": "敖丙版混天绫",
+      "onboard_time": 1738996884,
+      "rank": 37,
+      "category": "动漫,电影"
     },
     {
       "raw_hot": 245877,
@@ -827,14 +915,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 220884,
-      "num": 220884,
-      "word": "湖南一警车被精神病人开走连撞3车",
-      "onboard_time": 1738995624,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 220137,
       "num": 220137,
       "word": "妈妈花7天给儿子做哪吒2敖光战甲",
@@ -924,7 +1004,7 @@
     },
     {
       "raw_hot": 204406,
-      "num": 204406,
+      "num": 305702,
       "word": "王楚钦这球干脆利落",
       "onboard_time": 1738995624,
       "rank": 37,
@@ -995,14 +1075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 194720,
-      "num": 194720,
-      "word": "李小冉反省自己一着急就会臭脸",
-      "onboard_time": 1738996282,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 193579,
       "num": 193579,
       "word": "余烬之上今日开播",
@@ -1065,6 +1137,14 @@
       "onboard_time": 1738993885,
       "rank": 46,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 180718,
+      "num": 180718,
+      "word": "中方对巴拿马提出严正交涉",
+      "onboard_time": 1738998264,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 180063,
@@ -1131,6 +1211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174488,
+      "num": 174488,
+      "word": "特朗普将停止推广纸吸管",
+      "onboard_time": 1738998982,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 171496,
       "num": 175187,
       "word": "邓为新剧变暴娇男妲己",
@@ -1161,6 +1249,14 @@
       "onboard_time": 1738937064,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166089,
+      "num": 471778,
+      "word": "韩梅夺金",
+      "onboard_time": 1738998022,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 161177,
@@ -1241,6 +1337,14 @@
       "onboard_time": 1738973719,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 149824,
+      "num": 306858,
+      "word": "李磊夺金",
+      "onboard_time": 1738997720,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 149778,
@@ -1467,6 +1571,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 102551,
+      "num": 1801091,
+      "word": "中国红霸气亮相",
+      "onboard_time": 1738994489,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101560,
       "num": 186105,
       "word": "哈尔滨亚冬会开幕",
@@ -1507,6 +1619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92085,
+      "num": 464575,
+      "word": "王强夺金",
+      "onboard_time": 1738998085,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90453,
       "num": 90453,
       "word": "孙颖莎说没想到4比0的比分",
@@ -1521,14 +1641,6 @@
       "onboard_time": 1738941922,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 86277,
-      "num": 1801091,
-      "word": "中国红霸气亮相",
-      "onboard_time": 1738994489,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 86234,
@@ -1809,6 +1921,14 @@
       "onboard_time": 1738950073,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 37802,
+      "num": 306238,
+      "word": "美国鸡蛋20美元一打有人开始养鸡",
+      "onboard_time": 1738998982,
+      "rank": 23,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 37260,
