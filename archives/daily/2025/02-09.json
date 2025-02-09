@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739105567441,
+  "endTime": 1739107378299,
   "band_list": [
     {
       "raw_hot": 3533201,
@@ -83,20 +83,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1365560,
+      "num": 1365560,
+      "word": "男子用40万转账表情包套走8000元",
+      "onboard_time": 1739103146,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1359989,
       "num": 632551,
       "word": "演员李施嬅官宣分手",
       "onboard_time": 1739085800,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1327111,
-      "num": 1327111,
-      "word": "男子用40万转账表情包套走8000元",
-      "onboard_time": 1739103146,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1316640,
@@ -523,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 590640,
+      "num": 422822,
+      "word": "主人取回狗狗被要求不准带货接广告",
+      "onboard_time": 1739103982,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
       "raw_hot": 587644,
       "num": 587644,
       "word": "王楚钦离场时盯着大屏幕看了很久",
@@ -625,6 +633,14 @@
       "onboard_time": 1739098821,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 521587,
+      "num": 296222,
+      "word": "做完近视手术第二天的真实感受",
+      "onboard_time": 1739105784,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 515657,
@@ -769,14 +785,6 @@
       "onboard_time": 1739087540,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 399028,
-      "num": 399028,
-      "word": "主人取回狗狗被要求不准带货接广告",
-      "onboard_time": 1739103982,
-      "rank": 29,
-      "category": "网红"
     },
     {
       "raw_hot": 396379,
@@ -1027,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 303728,
+      "num": 303728,
+      "word": "敖丙",
+      "onboard_time": 1739104043,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 300458,
       "num": 300458,
       "word": "明日方舟",
@@ -1081,6 +1097,14 @@
       "onboard_time": 1739026944,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 294258,
+      "num": 294258,
+      "word": "林诗栋谈登顶世界第一的意义",
+      "onboard_time": 1739105662,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 291717,
@@ -1171,6 +1195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 259000,
+      "num": 259000,
+      "word": "哪吒2感谢大家点燃这个冬天",
+      "onboard_time": 1739105542,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 253600,
       "num": 253600,
       "word": "王一博凿冰",
@@ -1185,6 +1217,14 @@
       "onboard_time": 1739091260,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 249800,
+      "num": 249800,
+      "word": "过年偶遇丁程鑫打麻将",
+      "onboard_time": 1739102241,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 248935,
@@ -1467,11 +1507,35 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205050,
+      "num": 205050,
+      "word": "岳云鹏面试王宝强刘昊然左右为难",
+      "onboard_time": 1739106202,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 204693,
+      "num": 252870,
+      "word": "孙颖莎捧起冠军奖杯",
+      "onboard_time": 1739105063,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203350,
       "num": 203350,
       "word": "陈飞宇方否认二搭",
       "onboard_time": 1739093300,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 202998,
+      "num": 202998,
+      "word": "掌心王子和亲",
+      "onboard_time": 1739106202,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -1488,14 +1552,6 @@
       "word": "白大拿谈张伟丽对战苏亚雷斯",
       "onboard_time": 1739079260,
       "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 201409,
-      "num": 201409,
-      "word": "孙颖莎捧起冠军奖杯",
-      "onboard_time": 1739105063,
-      "rank": 42,
       "category": "体育"
     },
     {
@@ -1523,14 +1579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199216,
-      "num": 200756,
-      "word": "敖丙",
-      "onboard_time": 1739104043,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 198496,
       "num": 198496,
       "word": "在仙侠剧看见我本位型女主了",
@@ -1544,6 +1592,14 @@
       "word": "马威交易取消",
       "onboard_time": 1739069239,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 197952,
+      "num": 194467,
+      "word": "林诗栋男单男双混双三冠",
+      "onboard_time": 1739106982,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -1587,6 +1643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194477,
+      "num": 211397,
+      "word": "刘少林赛后发文",
+      "onboard_time": 1739105481,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194191,
       "num": 202124,
       "word": "张凌赫演得好灵",
@@ -1608,6 +1672,14 @@
       "word": "岳云鹏揪的不是白客裤腿是我的心",
       "onboard_time": 1739082140,
       "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 193455,
+      "num": 193455,
+      "word": "石矶娘娘",
+      "onboard_time": 1739106623,
+      "rank": 36,
       "category": "电影"
     },
     {
@@ -1867,6 +1939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170002,
+      "num": 170002,
+      "word": "林诗栋回应包揽三冠",
+      "onboard_time": 1739106682,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168687,
       "num": 819831,
       "word": "物业回应小区停车费拟定1天120元",
@@ -2091,6 +2171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154352,
+      "num": 229106,
+      "word": "美国流感严重10个州部分学校停课",
+      "onboard_time": 1739104641,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 153342,
       "num": 153342,
       "word": "小蛇糕",
@@ -2129,6 +2217,22 @@
       "onboard_time": 1739035155,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 148782,
+      "num": 148782,
+      "word": "我问deepseek掌心好看吗",
+      "onboard_time": 1739107341,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 148220,
+      "num": 148220,
+      "word": "潘展乐在杭州考科目二",
+      "onboard_time": 1739107341,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 148022,
@@ -2208,14 +2312,6 @@
       "word": "台媒谈李现",
       "onboard_time": 1739090420,
       "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 144667,
-      "num": 210438,
-      "word": "过年偶遇丁程鑫打麻将",
-      "onboard_time": 1739102241,
-      "rank": 36,
       "category": "艺人"
     },
     {
@@ -2459,6 +2555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123170,
+      "num": 195953,
+      "word": "深蓝全系搭载智驾",
+      "onboard_time": 1739106441,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 122724,
       "num": 122724,
       "word": "四川筠连山体滑坡救援现场",
@@ -2651,6 +2755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104297,
+      "num": 188791,
+      "word": "唐探1900路演隐藏彩蛋",
+      "onboard_time": 1739106441,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 103946,
       "num": 103946,
       "word": "开曼群岛附近海域8.0级地震",
@@ -2739,14 +2851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 92842,
-      "num": 211397,
-      "word": "刘少林赛后发文",
-      "onboard_time": 1739105481,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 91119,
       "num": 118887,
       "word": "张兰想在风口上逐利要承担后果",
@@ -2828,7 +2932,7 @@
     },
     {
       "raw_hot": 76714,
-      "num": 223409,
+      "num": 423464,
       "word": "女儿说黄旭华笑着听每个人的想法",
       "onboard_time": 1739105362,
       "rank": 33,
@@ -2955,6 +3059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51697,
+      "num": 216896,
+      "word": "王一博像个小人机",
+      "onboard_time": 1739107162,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51073,
       "num": 660589,
       "word": "四川筠连山体滑坡已致1人遇难28人失联",
@@ -2977,14 +3089,6 @@
       "onboard_time": 1739051471,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 46631,
-      "num": 229106,
-      "word": "美国流感严重10个州部分学校停课",
-      "onboard_time": 1739104641,
-      "rank": 34,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 40653,
@@ -3099,6 +3203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33213,
+      "num": 297542,
+      "word": "山东滨州一小区水管被冻住停水两天",
+      "onboard_time": 1739106441,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32779,
       "num": 473363,
       "word": "布鲁尔金牌",
@@ -3113,6 +3225,14 @@
       "onboard_time": 1739076980,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32379,
+      "num": 373827,
+      "word": "酒店房型不符退房还被收80%违约金",
+      "onboard_time": 1739106862,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31344,
@@ -3193,6 +3313,14 @@
       "onboard_time": 1739044751,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 19834,
+      "num": 1548485,
+      "word": "三面五星红旗一起升起",
+      "onboard_time": 1739106743,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 19134,
