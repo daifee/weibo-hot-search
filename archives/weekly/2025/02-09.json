@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739082542372,
+  "endTime": 1739083344673,
   "band_list": [
     {
       "raw_hot": 2727035,
@@ -139,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 808851,
+      "num": 808851,
+      "word": "金智媛姐不是装漂亮是真漂亮",
+      "onboard_time": 1739078301,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 800548,
       "num": 574707,
       "word": "51岁何炅的八块腹肌",
@@ -161,14 +169,6 @@
       "onboard_time": 1739062159,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 758963,
-      "num": 758963,
-      "word": "金智媛姐不是装漂亮是真漂亮",
-      "onboard_time": 1739078301,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 743729,
@@ -227,20 +227,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 604223,
+      "num": 604223,
+      "word": "哪吒2在美一票难求纽约华人发声",
+      "onboard_time": 1739077220,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 602919,
       "num": 602919,
       "word": "西施新皮肤首曝",
       "onboard_time": 1739074100,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 598977,
-      "num": 598977,
-      "word": "哪吒2在美一票难求纽约华人发声",
-      "onboard_time": 1739077220,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 591220,
@@ -281,6 +281,14 @@
       "onboard_time": 1739030721,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 547265,
+      "num": 495674,
+      "word": "哪吒2票房超77亿",
+      "onboard_time": 1739080640,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 545420,
@@ -355,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 496871,
+      "num": 496871,
+      "word": "朴知元干扰林孝埈",
+      "onboard_time": 1739080581,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 480811,
       "num": 480811,
       "word": "刘少昂短道速滑1000米铜牌",
@@ -403,14 +419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 408708,
-      "num": 408708,
-      "word": "哪吒2票房超77亿",
-      "onboard_time": 1739080640,
-      "rank": 11,
-      "category": "电影"
-    },
-    {
       "raw_hot": 401102,
       "num": 401102,
       "word": "王楚钦止步新加坡大满贯4强",
@@ -433,14 +441,6 @@
       "onboard_time": 1739022203,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 379586,
-      "num": 379586,
-      "word": "朴知元干扰林孝埈",
-      "onboard_time": 1739080581,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 378626,
@@ -539,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 315637,
+      "num": 189543,
+      "word": "哪吒番外篇完全不输正片",
+      "onboard_time": 1739082680,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 313593,
       "num": 313593,
       "word": "警方通报欺凌视频事实基本属实",
@@ -625,6 +633,14 @@
       "onboard_time": 1739077821,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 272367,
+      "num": 467677,
+      "word": "韩国队犯规取消成绩",
+      "onboard_time": 1739082020,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 271436,
@@ -723,14 +739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 216953,
-      "num": 216953,
-      "word": "韩国队犯规取消成绩",
-      "onboard_time": 1739082020,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 213448,
       "num": 213448,
       "word": "网曝服务区垃圾桶发现大量酥肉腊味",
@@ -753,6 +761,14 @@
       "onboard_time": 1739009062,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 210679,
+      "num": 426701,
+      "word": "张伟丽高喊oz获全场回应",
+      "onboard_time": 1739080942,
+      "rank": 9,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 210450,
@@ -833,6 +849,14 @@
       "onboard_time": 1739082020,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193607,
+      "num": 189968,
+      "word": "岳云鹏揪的不是白客裤腿是我的心",
+      "onboard_time": 1739082140,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 193203,
@@ -923,6 +947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174062,
+      "num": 174062,
+      "word": "韩国短道速滑 扒拉",
+      "onboard_time": 1739083039,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173030,
       "num": 173030,
       "word": "赛琳娜和未婚夫去迪士尼",
@@ -979,6 +1011,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159834,
+      "num": 159834,
+      "word": "成毅昨天直播热度断层第一",
+      "onboard_time": 1739083220,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 159212,
+      "num": 159212,
+      "word": "创造营亚洲2主题曲天际线",
+      "onboard_time": 1739082979,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158918,
       "num": 180813,
       "word": "四川宜宾山体滑坡原因",
@@ -993,6 +1041,14 @@
       "onboard_time": 1739009242,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158401,
+      "num": 622287,
+      "word": "救援过程中发生多次较大规模滑坡",
+      "onboard_time": 1739080700,
+      "rank": 4,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 156390,
@@ -1027,20 +1083,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155666,
+      "num": 155666,
+      "word": "张伟丽卫冕战三连胜",
+      "onboard_time": 1739082799,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 155411,
+      "num": 155411,
+      "word": "林孝埈亚冬会1金1银1铜",
+      "onboard_time": 1739081781,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155175,
       "num": 155175,
       "word": "五福临门",
       "onboard_time": 1739022862,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 154858,
-      "num": 622287,
-      "word": "救援过程中发生多次较大规模滑坡",
-      "onboard_time": 1739080700,
-      "rank": 4,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 153342,
@@ -1057,6 +1121,14 @@
       "onboard_time": 1739073620,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152134,
+      "num": 152134,
+      "word": "面包店全体员工自愿为筠连加班",
+      "onboard_time": 1739083220,
+      "rank": 43,
+      "category": "正能量"
     },
     {
       "raw_hot": 151690,
@@ -1081,6 +1153,14 @@
       "onboard_time": 1739035155,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 146902,
+      "num": 146902,
+      "word": "孙龙采访",
+      "onboard_time": 1739083098,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 146436,
@@ -1139,6 +1219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142758,
+      "num": 460819,
+      "word": "男孩被拐养家不让上学自己挣钱读书",
+      "onboard_time": 1739082020,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142565,
       "num": 352043,
       "word": "向涵之春日仙感少女",
@@ -1171,20 +1259,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 142032,
-      "num": 426701,
-      "word": "张伟丽高喊oz获全场回应",
-      "onboard_time": 1739080942,
-      "rank": 9,
-      "category": "综艺,艺人"
-    },
-    {
       "raw_hot": 142022,
       "num": 142022,
       "word": "咸鱼飞升大男主无女主",
       "onboard_time": 1739067560,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141145,
+      "num": 360832,
+      "word": "谢霆锋恭喜张伟丽",
+      "onboard_time": 1739081360,
+      "rank": 19,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 139820,
@@ -1201,6 +1289,14 @@
       "onboard_time": 1739025864,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135438,
+      "num": 462003,
+      "word": "定期存钱后睡眠开始变好",
+      "onboard_time": 1739081541,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 134807,
@@ -1323,6 +1419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116539,
+      "num": 230996,
+      "word": "武契奇专车后轮行驶中飞出",
+      "onboard_time": 1739081300,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 115728,
       "num": 255167,
       "word": "兰州一政务大厅窗口职员上班睡觉",
@@ -1411,14 +1515,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 103715,
-      "num": 401906,
-      "word": "定期存钱后睡眠开始变好",
-      "onboard_time": 1739081541,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
       "raw_hot": 103612,
       "num": 103612,
       "word": "余承恩王子璇好甜",
@@ -1449,6 +1545,14 @@
       "onboard_time": 1739065100,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 96557,
+      "num": 226750,
+      "word": "陈乔恩否认整容",
+      "onboard_time": 1739083098,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 96552,
@@ -1491,14 +1595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 90478,
-      "num": 360832,
-      "word": "谢霆锋恭喜张伟丽",
-      "onboard_time": 1739081360,
-      "rank": 19,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 89825,
       "num": 118744,
       "word": "李小冉当导游累出高血压",
@@ -1531,14 +1627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 77394,
-      "num": 230996,
-      "word": "武契奇专车后轮行驶中飞出",
-      "onboard_time": 1739081300,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 77092,
       "num": 297109,
       "word": "男子出国旅游晒黑十个度撞脸包公",
@@ -1563,20 +1651,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70410,
+      "num": 287347,
+      "word": "女子信偏方生吞鱼胆致肝肾衰竭",
+      "onboard_time": 1739082260,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65603,
       "num": 117595,
       "word": "王曼昱蒯曼3比2孙颖莎王艺迪",
       "onboard_time": 1739019863,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 65394,
-      "num": 394314,
-      "word": "男孩被拐养家不让上学自己挣钱读书",
-      "onboard_time": 1739082020,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 65297,
@@ -1723,6 +1811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36052,
+      "num": 469025,
+      "word": "吴宇金牌",
+      "onboard_time": 1739082620,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 34275,
       "num": 58634,
       "word": "车主见车窗被砸不怒反喜",
@@ -1777,14 +1873,6 @@
       "onboard_time": 1739069299,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 29585,
-      "num": 261077,
-      "word": "女子信偏方生吞鱼胆致肝肾衰竭",
-      "onboard_time": 1739082260,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29559,
