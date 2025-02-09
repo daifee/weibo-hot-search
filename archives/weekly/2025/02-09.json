@@ -1,7 +1,23 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739057739800,
+  "endTime": 1739065542503,
   "band_list": [
+    {
+      "raw_hot": 1583875,
+      "num": 268303,
+      "word": "女子看不孕意外发现已怀孕7个月",
+      "onboard_time": 1739064139,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1237534,
+      "num": 1237534,
+      "word": "政务大厅公职人员工作时间睡觉",
+      "onboard_time": 1739061498,
+      "rank": 0,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1172015,
       "num": 350076,
@@ -19,12 +35,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 873545,
+      "num": 873545,
+      "word": "全球票房榜",
+      "onboard_time": 1739059216,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 800548,
+      "num": 267837,
+      "word": "51岁何炅的八块腹肌",
+      "onboard_time": 1739059336,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 705701,
       "num": 426423,
       "word": "公认是烂片但你却很喜欢的电影",
       "onboard_time": 1739022263,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 670316,
+      "num": 169300,
+      "word": "赵樱子表白成毅",
+      "onboard_time": 1739063238,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 646075,
@@ -83,6 +123,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 484323,
+      "num": 484323,
+      "word": "哪吒之魔童闹海票房破75亿",
+      "onboard_time": 1739062159,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 480497,
+      "num": 329940,
+      "word": "有导演称无量仙翁角色设计相当复杂",
+      "onboard_time": 1739059637,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 453291,
+      "num": 360157,
+      "word": "动画公司回应138家公司托举哪吒2",
+      "onboard_time": 1739040193,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 450494,
       "num": 349711,
       "word": "12306回应乘客买到过期4年方便面",
@@ -123,11 +187,27 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 360157,
-      "num": 360157,
-      "word": "动画公司回应138家公司托举哪吒2",
-      "onboard_time": 1739040193,
-      "rank": 6,
+      "raw_hot": 350200,
+      "num": 350200,
+      "word": "用棉花替代真雪景区已关闭并致歉",
+      "onboard_time": 1739057955,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 338348,
+      "num": 267523,
+      "word": "吒儿感谢成龙叔叔的鼓励",
+      "onboard_time": 1739061619,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 327021,
+      "num": 190403,
+      "word": "外媒称哪吒2爆火是因中国人没钱旅游",
+      "onboard_time": 1739032398,
+      "rank": 35,
       "category": "电影"
     },
     {
@@ -152,14 +232,6 @@
       "word": "盗版哪吒",
       "onboard_time": 1739024243,
       "rank": 14,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 317465,
-      "num": 126664,
-      "word": "外媒称哪吒2爆火是因中国人没钱旅游",
-      "onboard_time": 1739032398,
-      "rank": 35,
       "category": "电影"
     },
     {
@@ -227,6 +299,30 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 210450,
+      "num": 210450,
+      "word": "成毅 往那一站就是兵",
+      "onboard_time": 1739064439,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 208602,
+      "num": 268447,
+      "word": "四川宜宾山体滑坡仍在持续",
+      "onboard_time": 1739062159,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 205882,
+      "num": 314713,
+      "word": "四川山体滑坡29人失联",
+      "onboard_time": 1739056454,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 193203,
       "num": 193203,
       "word": "普通人真的不用花钱学DeepSeek",
@@ -259,12 +355,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172203,
+      "num": 172203,
+      "word": "政务中心回应窗口人员上班打盹",
+      "onboard_time": 1739062278,
+      "rank": 21,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 171090,
       "num": 171090,
       "word": "哪吒2感谢140000000位观众",
       "onboard_time": 1739003604,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 161688,
+      "num": 161688,
+      "word": "吴倩六姊妹演技",
+      "onboard_time": 1739064020,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 158407,
@@ -299,6 +411,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 153342,
+      "num": 153342,
+      "word": "小蛇糕",
+      "onboard_time": 1739060117,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 150597,
       "num": 150597,
       "word": "加沙人说这辈子什么都没有了",
@@ -331,12 +451,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 140885,
-      "num": 314713,
-      "word": "四川山体滑坡29人失联",
-      "onboard_time": 1739056454,
-      "rank": 9,
-      "category": "突发/灾害"
+      "raw_hot": 140396,
+      "num": 140396,
+      "word": "我国目前仍处于流感季节性流行期",
+      "onboard_time": 1739065158,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137904,
@@ -345,6 +465,14 @@
       "onboard_time": 1739025864,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134720,
+      "num": 134720,
+      "word": "41岁南师大副教授宋文文病逝",
+      "onboard_time": 1739063300,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130592,
@@ -395,6 +523,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117190,
+      "num": 117190,
+      "word": "咸鱼飞升",
+      "onboard_time": 1739059216,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 114654,
+      "num": 114654,
+      "word": "浓眉独行侠首秀",
+      "onboard_time": 1739061318,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 110188,
+      "num": 146555,
+      "word": "导演饺子初学动画为10秒镜头渲染3天",
+      "onboard_time": 1739057175,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 107375,
       "num": 107375,
       "word": "金智秀新剧演技",
@@ -411,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103612,
+      "num": 103612,
+      "word": "余承恩王子璇好甜",
+      "onboard_time": 1739042771,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100712,
       "num": 100712,
       "word": "鹤俐昀端",
@@ -419,12 +579,44 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 97086,
+      "num": 97086,
+      "word": "哪吒2票房超75亿",
+      "onboard_time": 1739065100,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 96552,
+      "num": 96552,
+      "word": "湖人战胜步行者",
+      "onboard_time": 1739061619,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95214,
       "num": 118990,
       "word": "零下35度一家三口救下路边冻僵大爷",
       "onboard_time": 1739019261,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93268,
+      "num": 93268,
+      "word": "UFC",
+      "onboard_time": 1739065220,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 92203,
+      "num": 92203,
+      "word": "我是哪吒2之英雄归来",
+      "onboard_time": 1739065399,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 91119,
@@ -443,12 +635,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88357,
+      "num": 88357,
+      "word": "境外间谍拉拢核心岗位退休人员",
+      "onboard_time": 1739065340,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87198,
       "num": 118637,
       "word": "邓为李沁 风月不相关",
       "onboard_time": 1739022143,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 84805,
+      "num": 84805,
+      "word": "巴特勒勇士首秀",
+      "onboard_time": 1739065220,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 80874,
@@ -579,12 +787,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 35693,
-      "num": 58833,
-      "word": "余承恩王子璇好甜",
-      "onboard_time": 1739042771,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 36573,
+      "num": 115272,
+      "word": "赵一博说深夜必备烤冷面",
+      "onboard_time": 1739064079,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 34275,
@@ -603,11 +811,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30563,
-      "num": 548879,
+      "raw_hot": 32453,
+      "num": 675794,
       "word": "从冬奥到亚冬冰雪热燃起来了",
       "onboard_time": 1739026292,
       "rank": 2,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 31344,
+      "num": 84241,
+      "word": "女子冰壶中国vs泰国",
+      "onboard_time": 1739063120,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -720,14 +936,6 @@
       "word": "哪吒冲顶也象征着动画行业的托举",
       "onboard_time": 1739041393,
       "rank": 9,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 10229,
-      "num": 146555,
-      "word": "导演饺子初学动画为10秒镜头渲染3天",
-      "onboard_time": 1739057175,
-      "rank": 12,
       "category": "电影"
     },
     {
