@@ -1,0 +1,410 @@
+{
+  "runTime": 1739079436003,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 977861,
+        "num": 1156457,
+        "word": "有导演称哪吒2或不太符合北美调性",
+        "onboard_time": 1739070199,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 780838,
+        "num": 780838,
+        "word": "张伟丽vs苏亚雷斯",
+        "onboard_time": 1739065580,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29228,
+        "num": 780100,
+        "word": "多图回顾亚冬会中国队夺金瞬间",
+        "onboard_time": 1739076980,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 779633,
+        "num": 779633,
+        "word": "幼儿园关停潮下的幼儿园园长",
+        "onboard_time": 1739071278,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 728681,
+        "num": 728681,
+        "word": "男子造谣医院复活秦始皇被罚",
+        "onboard_time": 1739074580,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 691056,
+        "num": 691056,
+        "word": "何炅说孩子只崇拜张杰",
+        "onboard_time": 1739076680,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 591220,
+        "num": 591220,
+        "word": "短道速滑接力",
+        "onboard_time": 1739075900,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 583385,
+        "num": 583385,
+        "word": "两男子把垃圾倒进六年时间改造好的河里",
+        "onboard_time": 1739073320,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 560196,
+        "num": 560196,
+        "word": "哪吒2已成美社交媒体网友讨论新话题",
+        "onboard_time": 1739075960,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 59479,
+        "num": 555945,
+        "word": "宜宾筠连滑坡山体垂直高差达437米",
+        "onboard_time": 1739071699,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1948685,
+        "num": 552618,
+        "word": "苗苗生育状况写多子女",
+        "onboard_time": 1739078179,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 758768,
+        "num": 540255,
+        "word": "女子看不孕意外发现已怀孕7个月",
+        "onboard_time": 1739064139,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 579322,
+        "num": 535718,
+        "word": "赵樱子说要和粉丝公平竞争成毅",
+        "onboard_time": 1739075660,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 531802,
+        "num": 531802,
+        "word": "王一博西藏被偶遇",
+        "onboard_time": 1739076200,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 525986,
+        "num": 525986,
+        "word": "西施新皮肤首曝",
+        "onboard_time": 1739074100,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 525095,
+        "num": 525095,
+        "word": "陈乔恩打电波脸肿了一个月",
+        "onboard_time": 1739078301,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417324,
+        "num": 417324,
+        "word": "哪吒2票房超76亿",
+        "onboard_time": 1739072299,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 367107,
+        "num": 367107,
+        "word": "林孝埈康复师场外痛哭",
+        "onboard_time": 1739078480,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142565,
+        "num": 352043,
+        "word": "向涵之春日仙感少女",
+        "onboard_time": 1739078360,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 394446,
+        "num": 351660,
+        "word": "哪吒2在美一票难求纽约华人发声",
+        "onboard_time": 1739077220,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 350685,
+        "num": 350685,
+        "word": "金智媛姐不是装漂亮是真漂亮",
+        "onboard_time": 1739078301,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349604,
+        "num": 349604,
+        "word": "中国短道速滑队女子3000米接夺金",
+        "onboard_time": 1739077999,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 334861,
+        "num": 334861,
+        "word": "于正新签两个短剧演员",
+        "onboard_time": 1739069239,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122031,
+        "num": 329652,
+        "word": "张伟丽战胜苏亚雷斯卫冕",
+        "onboard_time": 1739079142,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 328958,
+        "num": 328958,
+        "word": "短道速滑",
+        "onboard_time": 1739073620,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 297465,
+        "num": 297465,
+        "word": "张云雷称在家24小时被私生饭监控",
+        "onboard_time": 1739078061,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285268,
+        "num": 285268,
+        "word": "51岁何炅的八块腹肌",
+        "onboard_time": 1739059336,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278455,
+        "num": 278455,
+        "word": "台媒称看李现的剧想去云南定居",
+        "onboard_time": 1739077821,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95634,
+        "num": 265377,
+        "word": "德塔文认证陈哲远现偶号召力",
+        "onboard_time": 1739078121,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264041,
+        "num": 264041,
+        "word": "哪吒之魔童闹海票房破75亿",
+        "onboard_time": 1739062159,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 255706,
+        "num": 255706,
+        "word": "政务大厅公职人员工作时间睡觉",
+        "onboard_time": 1739061498,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253810,
+        "num": 253810,
+        "word": "哪吒2这个画面一帧渲染了1.5小时",
+        "onboard_time": 1739075180,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 248346,
+        "num": 248346,
+        "word": "王嘉尔宣布回归",
+        "onboard_time": 1739074820,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 210574,
+        "num": 210574,
+        "word": "掌心咬戏比吻戏还带感",
+        "onboard_time": 1739076559,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201690,
+        "num": 201690,
+        "word": "白大拿谈张伟丽对战苏亚雷斯",
+        "onboard_time": 1739079260,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197067,
+        "num": 197067,
+        "word": "名侦探学院",
+        "onboard_time": 1739078781,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192264,
+        "num": 192264,
+        "word": "孙龙摔倒",
+        "onboard_time": 1739073739,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176605,
+        "num": 176605,
+        "word": "颖儿新剧裸婚被赶出家",
+        "onboard_time": 1739077220,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171281,
+        "num": 171281,
+        "word": "刘少昂短道速滑1000米铜牌",
+        "onboard_time": 1739073739,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167899,
+        "num": 167899,
+        "word": "林孝埈无缘1000米决赛",
+        "onboard_time": 1739070800,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156224,
+        "num": 156224,
+        "word": "全球票房榜",
+        "onboard_time": 1739059216,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154303,
+        "num": 154303,
+        "word": "赛琳娜和未婚夫去迪士尼",
+        "onboard_time": 1739079142,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148642,
+        "num": 148642,
+        "word": "肖战早春穿搭",
+        "onboard_time": 1739076920,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131930,
+        "num": 131930,
+        "word": "四川宜宾山体滑坡救援现场",
+        "onboard_time": 1739071100,
+        "rank": 43,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 131881,
+        "num": 131881,
+        "word": "2月狗屎运最旺的星座",
+        "onboard_time": 1739067979,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131699,
+        "num": 131699,
+        "word": "仙台有树前8集演了别人一部剧",
+        "onboard_time": 1739073200,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130763,
+        "num": 130763,
+        "word": "世界之外",
+        "onboard_time": 1739079082,
+        "rank": 46,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 127935,
+        "num": 127935,
+        "word": "金秀贤抽烟路透",
+        "onboard_time": 1739074160,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126621,
+        "num": 126621,
+        "word": "DeepSeek情人节首选花样年华",
+        "onboard_time": 1739077519,
+        "rank": 48,
+        "category": "电影,互联网"
+      },
+      {
+        "raw_hot": 125193,
+        "num": 125193,
+        "word": "王楚钦离场时盯着大屏幕看了很久",
+        "onboard_time": 1739066540,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动科技成果向现实生产力转化#"
+    }
+  }
+}

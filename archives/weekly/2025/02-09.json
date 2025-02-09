@@ -1,7 +1,15 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739078502784,
+  "endTime": 1739079436003,
   "band_list": [
+    {
+      "raw_hot": 1948685,
+      "num": 552618,
+      "word": "苗苗生育状况写多子女",
+      "onboard_time": 1739078179,
+      "rank": 12,
+      "category": "综艺"
+    },
     {
       "raw_hot": 1851653,
       "num": 576814,
@@ -67,6 +75,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 977861,
+      "num": 1156457,
+      "word": "有导演称哪吒2或不太符合北美调性",
+      "onboard_time": 1739070199,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 915291,
       "num": 915291,
       "word": "两男子把垃圾倒进六年时间改造好的河里",
@@ -107,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 780838,
+      "num": 780838,
+      "word": "张伟丽vs苏亚雷斯",
+      "onboard_time": 1739065580,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 762115,
       "num": 762115,
       "word": "哪吒之魔童闹海票房破75亿",
@@ -131,6 +155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 691056,
+      "num": 691056,
+      "word": "何炅说孩子只崇拜张杰",
+      "onboard_time": 1739076680,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 681596,
       "num": 681596,
       "word": "徐梦桃夺金",
@@ -139,16 +171,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 667038,
-      "num": 667038,
-      "word": "何炅说孩子只崇拜张杰",
-      "onboard_time": 1739076680,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 653815,
-      "num": 470676,
+      "num": 535718,
       "word": "赵樱子说要和粉丝公平竞争成毅",
       "onboard_time": 1739075660,
       "rank": 34,
@@ -179,6 +203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 591220,
+      "num": 591220,
+      "word": "短道速滑接力",
+      "onboard_time": 1739075900,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 587644,
       "num": 587644,
       "word": "王楚钦离场时盯着大屏幕看了很久",
@@ -195,12 +227,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 559407,
-      "num": 559407,
-      "word": "短道速滑接力",
-      "onboard_time": 1739075900,
-      "rank": 47,
-      "category": "体育"
+      "raw_hot": 560196,
+      "num": 560196,
+      "word": "哪吒2已成美社交媒体网友讨论新话题",
+      "onboard_time": 1739075960,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 556983,
@@ -219,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 531802,
+      "num": 531802,
+      "word": "王一博西藏被偶遇",
+      "onboard_time": 1739076200,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 527704,
       "num": 527704,
       "word": "2月狗屎运最旺的星座",
@@ -233,6 +273,14 @@
       "onboard_time": 1739028021,
       "rank": 1,
       "category": "民生新闻,电影"
+    },
+    {
+      "raw_hot": 525095,
+      "num": 525095,
+      "word": "陈乔恩打电波脸肿了一个月",
+      "onboard_time": 1739078301,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 515657,
@@ -291,22 +339,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 457436,
-      "num": 457436,
-      "word": "苗苗生育状况写多子女",
-      "onboard_time": 1739078179,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 453448,
-      "num": 453448,
-      "word": "王一博西藏被偶遇",
-      "onboard_time": 1739076200,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 453291,
       "num": 360157,
       "word": "动画公司回应138家公司托举哪吒2",
@@ -347,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 394446,
+      "num": 351660,
+      "word": "哪吒2在美一票难求纽约华人发声",
+      "onboard_time": 1739077220,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 382560,
       "num": 281345,
       "word": "陈思诚中国影史票房最高导演",
@@ -379,6 +419,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 367107,
+      "num": 367107,
+      "word": "林孝埈康复师场外痛哭",
+      "onboard_time": 1739078480,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 350685,
+      "num": 350685,
+      "word": "金智媛姐不是装漂亮是真漂亮",
+      "onboard_time": 1739078301,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 350200,
       "num": 350200,
       "word": "用棉花替代真雪景区已关闭并致歉",
@@ -387,12 +443,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 345022,
-      "num": 345022,
-      "word": "哪吒2在美一票难求纽约华人发声",
-      "onboard_time": 1739077220,
-      "rank": 17,
-      "category": "电影"
+      "raw_hot": 349604,
+      "num": 453990,
+      "word": "中国短道速滑队女子3000米接夺金",
+      "onboard_time": 1739077999,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 338348,
@@ -403,12 +459,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 332187,
-      "num": 317024,
-      "word": "哪吒2已成美社交媒体网友讨论新话题",
-      "onboard_time": 1739075960,
-      "rank": 21,
-      "category": "电影"
+      "raw_hot": 328958,
+      "num": 328958,
+      "word": "短道速滑",
+      "onboard_time": 1739073620,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 327021,
@@ -476,11 +532,19 @@
     },
     {
       "raw_hot": 299486,
-      "num": 249988,
+      "num": 253810,
       "word": "哪吒2这个画面一帧渲染了1.5小时",
       "onboard_time": 1739075180,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 297465,
+      "num": 297465,
+      "word": "张云雷称在家24小时被私生饭监控",
+      "onboard_time": 1739078061,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 294792,
@@ -507,20 +571,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 287829,
-      "num": 287829,
-      "word": "短道速滑",
-      "onboard_time": 1739073620,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 284563,
       "num": 248482,
       "word": "哪吒2已破74亿",
       "onboard_time": 1739020583,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 278455,
+      "num": 278455,
+      "word": "台媒称看李现的剧想去云南定居",
+      "onboard_time": 1739077821,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 271436,
@@ -553,30 +617,6 @@
       "onboard_time": 1739019083,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 241413,
-      "num": 468472,
-      "word": "张伟丽vs苏亚雷斯",
-      "onboard_time": 1739065580,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 239859,
-      "num": 239859,
-      "word": "张云雷称在家24小时被私生饭监控",
-      "onboard_time": 1739078061,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 238725,
-      "num": 453990,
-      "word": "中国短道速滑队女子3000米接夺金",
-      "onboard_time": 1739077999,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 234953,
@@ -683,6 +723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201690,
+      "num": 201690,
+      "word": "白大拿谈张伟丽对战苏亚雷斯",
+      "onboard_time": 1739079260,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198109,
       "num": 151615,
       "word": "马威交易取消",
@@ -705,6 +753,14 @@
       "onboard_time": 1739070199,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197067,
+      "num": 197067,
+      "word": "名侦探学院",
+      "onboard_time": 1739078781,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 193203,
@@ -771,14 +827,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 178234,
-      "num": 178234,
-      "word": "陈乔恩打电波脸肿了一个月",
-      "onboard_time": 1739078301,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 177717,
       "num": 177717,
       "word": "肖战早春穿搭",
@@ -796,19 +844,11 @@
     },
     {
       "raw_hot": 174433,
-      "num": 174433,
+      "num": 555945,
       "word": "宜宾筠连滑坡山体垂直高差达437米",
       "onboard_time": 1739071699,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 174206,
-      "num": 174206,
-      "word": "台媒称看李现的剧想去云南定居",
-      "onboard_time": 1739077821,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 172239,
@@ -841,14 +881,6 @@
       "onboard_time": 1739003604,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 171082,
-      "num": 171082,
-      "word": "金智媛姐不是装漂亮是真漂亮",
-      "onboard_time": 1739078301,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 168611,
@@ -913,6 +945,14 @@
       "onboard_time": 1739022862,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154303,
+      "num": 154303,
+      "word": "赛琳娜和未婚夫去迪士尼",
+      "onboard_time": 1739079142,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 153342,
@@ -1011,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142565,
+      "num": 352043,
+      "word": "向涵之春日仙感少女",
+      "onboard_time": 1739078360,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142540,
       "num": 142540,
       "word": "哪吒2",
@@ -1067,6 +1115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130763,
+      "num": 130763,
+      "word": "世界之外",
+      "onboard_time": 1739079082,
+      "rank": 46,
+      "category": "游戏,动漫"
+    },
+    {
       "raw_hot": 130592,
       "num": 130592,
       "word": "DeepSeek官网和正版APP无付费项目",
@@ -1121,6 +1177,14 @@
       "onboard_time": 1739027721,
       "rank": 39,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 122031,
+      "num": 329652,
+      "word": "张伟丽战胜苏亚雷斯卫冕",
+      "onboard_time": 1739079142,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 119613,
@@ -1216,14 +1280,6 @@
       "word": "金智秀新剧演技",
       "onboard_time": 1739033597,
       "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 105281,
-      "num": 204907,
-      "word": "向涵之春日仙感少女",
-      "onboard_time": 1739078360,
-      "rank": 32,
       "category": "剧集"
     },
     {
@@ -1571,20 +1627,20 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 29228,
+      "num": 800498,
+      "word": "多图回顾亚冬会中国队夺金瞬间",
+      "onboard_time": 1739076980,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29114,
       "num": 40639,
       "word": "TF家族2025新音纪录片星火",
       "onboard_time": 1739036174,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 27762,
-      "num": 800498,
-      "word": "多图回顾亚冬会中国队夺金瞬间",
-      "onboard_time": 1739076980,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 26325,
@@ -1780,6 +1836,9 @@
     },
     {
       "word": "#冰天雪地也是金山银山在吉林开花结果#"
+    },
+    {
+      "word": "#推动科技成果向现实生产力转化#"
     }
   ]
 }
