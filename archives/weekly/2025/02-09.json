@@ -1,10 +1,10 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739069628207,
+  "endTime": 1739070154879,
   "band_list": [
     {
       "raw_hot": 1851653,
-      "num": 434896,
+      "num": 438889,
       "word": "女子看不孕意外发现已怀孕7个月",
       "onboard_time": 1739064139,
       "rank": 10,
@@ -35,19 +35,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1076675,
+      "num": 1046188,
+      "word": "饺子大学同学说多亏华西宿舍不停电",
+      "onboard_time": 1739066360,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1054116,
       "num": 1054116,
       "word": "哪吒2进全球票房榜前50",
       "onboard_time": 1739025022,
       "rank": 0,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 1049596,
-      "num": 1046188,
-      "word": "饺子大学同学说多亏华西宿舍不停电",
-      "onboard_time": 1739066360,
-      "rank": 43,
       "category": "电影"
     },
     {
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 800548,
-      "num": 377049,
+      "num": 405609,
       "word": "51岁何炅的八块腹肌",
       "onboard_time": 1739059336,
       "rank": 11,
@@ -99,8 +99,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 573705,
-      "num": 573705,
+      "raw_hot": 587644,
+      "num": 587644,
       "word": "王楚钦离场时盯着大屏幕看了很久",
       "onboard_time": 1739066540,
       "rank": 25,
@@ -129,6 +129,14 @@
       "onboard_time": 1739031859,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 527704,
+      "num": 527704,
+      "word": "2月狗屎运最旺的星座",
+      "onboard_time": 1739067979,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 527674,
@@ -203,12 +211,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 353866,
-      "num": 353866,
-      "word": "2月狗屎运最旺的星座",
-      "onboard_time": 1739067979,
-      "rank": 13,
-      "category": "情感"
+      "raw_hot": 377597,
+      "num": 377597,
+      "word": "美国遭遇15年来最严重流感季",
+      "onboard_time": 1739066419,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 350200,
@@ -225,6 +233,14 @@
       "onboard_time": 1739061619,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 327316,
+      "num": 1052370,
+      "word": "四川山体滑坡29人失联",
+      "onboard_time": 1739056454,
+      "rank": 9,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 327021,
@@ -259,14 +275,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 316602,
-      "num": 316602,
-      "word": "美国遭遇15年来最严重流感季",
-      "onboard_time": 1739066419,
-      "rank": 28,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 316020,
       "num": 350418,
       "word": "成都住房公积金贷款最新调整",
@@ -283,20 +291,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 296823,
+      "num": 253272,
+      "word": "于正新签两个短剧演员",
+      "onboard_time": 1739069239,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 294388,
       "num": 192894,
       "word": "石矶娘娘配音演员照片宛如石矶本矶",
       "onboard_time": 1739026944,
       "rank": 20,
       "category": "电影"
-    },
-    {
-      "raw_hot": 291096,
-      "num": 1046575,
-      "word": "四川山体滑坡29人失联",
-      "onboard_time": 1739056454,
-      "rank": 9,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 284563,
@@ -321,6 +329,14 @@
       "onboard_time": 1739064020,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 234180,
+      "num": 234180,
+      "word": "10万元钻石高铁上丢失乘警6分钟找回",
+      "onboard_time": 1739068460,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 225075,
@@ -363,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198109,
+      "num": 151615,
+      "word": "马威交易取消",
+      "onboard_time": 1739069239,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193203,
       "num": 193203,
       "word": "普通人真的不用花钱学DeepSeek",
@@ -385,14 +409,6 @@
       "onboard_time": 1739029580,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 183850,
-      "num": 183850,
-      "word": "10万元钻石高铁上丢失乘警6分钟找回",
-      "onboard_time": 1739068460,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 180743,
@@ -427,12 +443,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 163919,
-      "num": 151615,
-      "word": "马威交易取消",
-      "onboard_time": 1739069239,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 169309,
+      "num": 534544,
+      "word": "境外间谍拉拢核心岗位退休人员",
+      "onboard_time": 1739065340,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158407,
@@ -499,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146010,
+      "num": 449026,
+      "word": "几十位村民徒手刨石头救人",
+      "onboard_time": 1739068040,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145794,
       "num": 145794,
       "word": "魏哲鸣录hi6脖子过敏",
@@ -547,14 +571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 134369,
-      "num": 449026,
-      "word": "几十位村民徒手刨石头救人",
-      "onboard_time": 1739068040,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 130592,
       "num": 130592,
       "word": "DeepSeek官网和正版APP无付费项目",
@@ -576,14 +592,6 @@
       "word": "女孩遭欺凌5名涉案人员均已到案",
       "onboard_time": 1739035216,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 124824,
-      "num": 534544,
-      "word": "境外间谍拉拢核心岗位退休人员",
-      "onboard_time": 1739065340,
-      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -611,6 +619,22 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 121839,
+      "num": 121839,
+      "word": "林孝埈超越时全场沸腾欢呼",
+      "onboard_time": 1739069480,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 119613,
+      "num": 119613,
+      "word": "官方通报女子酒店泡澡遭无人机偷拍",
+      "onboard_time": 1739065340,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119220,
       "num": 119220,
       "word": "刘诗诗 妈妈级别",
@@ -627,11 +651,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 116800,
-      "num": 116800,
-      "word": "官方通报女子酒店泡澡遭无人机偷拍",
-      "onboard_time": 1739065340,
-      "rank": 40,
+      "raw_hot": 116877,
+      "num": 116877,
+      "word": "小伙失恋半夜整理共享电瓶车",
+      "onboard_time": 1739069419,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -651,8 +675,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 110376,
-      "num": 110376,
+      "raw_hot": 112683,
+      "num": 112683,
+      "word": "亚冬会",
+      "onboard_time": 1739069960,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 111845,
+      "num": 111845,
       "word": "小米汽车澄清断轴谣言",
       "onboard_time": 1739067020,
       "rank": 44,
@@ -665,6 +697,14 @@
       "onboard_time": 1739057175,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 109426,
+      "num": 515841,
+      "word": "孙龙林孝埈刘少昂携手晋级",
+      "onboard_time": 1739068939,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 107375,
@@ -699,36 +739,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102520,
-      "num": 102520,
-      "word": "林孝埈超越时全场沸腾欢呼",
-      "onboard_time": 1739069480,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 100712,
       "num": 100712,
       "word": "鹤俐昀端",
       "onboard_time": 1739032818,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 99977,
-      "num": 99977,
-      "word": "小伙失恋半夜整理共享电瓶车",
-      "onboard_time": 1739069419,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 99215,
-      "num": 250817,
-      "word": "于正新签两个短剧演员",
-      "onboard_time": 1739069239,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 97086,
@@ -971,11 +987,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30148,
-      "num": 515841,
-      "word": "孙龙林孝埈刘少昂携手晋级",
-      "onboard_time": 1739068939,
-      "rank": 8,
+      "raw_hot": 30418,
+      "num": 312271,
+      "word": "王聪战胜布拉西尔",
+      "onboard_time": 1739069299,
+      "rank": 15,
       "category": "体育"
     },
     {
@@ -995,12 +1011,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 27841,
-      "num": 284690,
-      "word": "王聪战胜布拉西尔",
-      "onboard_time": 1739069299,
-      "rank": 15,
-      "category": "体育"
+      "raw_hot": 27585,
+      "num": 123592,
+      "word": "男子出国旅游晒黑十个度撞脸包公",
+      "onboard_time": 1739070020,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26325,
