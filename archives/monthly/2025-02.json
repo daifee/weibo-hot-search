@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739072409219,
+  "endTime": 1739075130802,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -875,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1565873,
+      "num": 993476,
+      "word": "导演称哪吒2可能不太符合北美调性",
+      "onboard_time": 1739070199,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1565499,
       "num": 1455244,
       "word": "停车费8830元把女子吓住了",
@@ -1313,6 +1321,14 @@
       "onboard_time": 1738748490,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1211509,
+      "num": 655733,
+      "word": "幼儿园关停潮下的幼儿园园长",
+      "onboard_time": 1739071278,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1209522,
@@ -1864,14 +1880,6 @@
       "word": "哪吒2动画公司称不参与票房分红",
       "onboard_time": 1738932023,
       "rank": 30,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 952285,
-      "num": 952285,
-      "word": "导演称哪吒2可能不太符合北美调性",
-      "onboard_time": 1739070199,
-      "rank": 8,
       "category": "电影"
     },
     {
@@ -4011,6 +4019,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 522852,
+      "num": 522852,
+      "word": "两男子把垃圾倒进六年时间改造好的河里",
+      "onboard_time": 1739073320,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 522677,
       "num": 462457,
       "word": "敖丙是一个橘子",
@@ -4339,6 +4355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 497112,
+      "num": 497112,
+      "word": "孙龙摔倒",
+      "onboard_time": 1738994004,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 496694,
       "num": 305730,
       "word": "特朗普下令对索马里发动空袭",
@@ -4523,6 +4547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 482693,
+      "num": 480585,
+      "word": "袁咏仪张智霖结婚24周年",
+      "onboard_time": 1739070620,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 482596,
       "num": 482595,
       "word": "林孝埈是冠军",
@@ -4553,6 +4585,14 @@
       "onboard_time": 1738938564,
       "rank": 38,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 480811,
+      "num": 480811,
+      "word": "刘少昂短道速滑1000米铜牌",
+      "onboard_time": 1739073739,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 480687,
@@ -5265,6 +5305,14 @@
       "onboard_time": 1738834044,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 428508,
+      "num": 428508,
+      "word": "哪吒2票房超76亿",
+      "onboard_time": 1739072299,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 428085,
@@ -6155,14 +6203,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 358389,
-      "num": 358389,
-      "word": "幼儿园关停潮下的幼儿园园长",
-      "onboard_time": 1739071278,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 357842,
       "num": 268359,
       "word": "生完孩子几年后才能轻松一点",
@@ -6899,6 +6939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 320967,
+      "num": 1051354,
+      "word": "四川宜宾山体滑坡救援现场",
+      "onboard_time": 1739071100,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 320964,
       "num": 387188,
       "word": "哪吒2在海外一票难求",
@@ -7347,6 +7395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 300458,
+      "num": 300458,
+      "word": "明日方舟",
+      "onboard_time": 1739073800,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 300386,
       "num": 281377,
       "word": "申公豹一家有话要说",
@@ -7475,6 +7531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 294792,
+      "num": 609794,
+      "word": "刘少昂超越",
+      "onboard_time": 1739071759,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 294494,
       "num": 169471,
       "word": "卧室再小也能做个衣帽间",
@@ -7521,6 +7585,14 @@
       "onboard_time": 1739019685,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 292705,
+      "num": 292705,
+      "word": "西施新皮肤首曝",
+      "onboard_time": 1739074100,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 292151,
@@ -8459,6 +8531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254309,
+      "num": 295557,
+      "word": "仙台有树前8集演了别人一部剧",
+      "onboard_time": 1739073200,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 254214,
       "num": 241291,
       "word": "小米眼镜官博上线",
@@ -8625,14 +8705,6 @@
       "onboard_time": 1738722741,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 250102,
-      "num": 262081,
-      "word": "袁咏仪张智霖结婚24周年",
-      "onboard_time": 1739070620,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 250080,
@@ -8817,6 +8889,14 @@
       "onboard_time": 1738394777,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 245618,
+      "num": 245618,
+      "word": "林孝埈孙龙1000米展团魂",
+      "onboard_time": 1739073979,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 245413,
@@ -9105,14 +9185,6 @@
       "onboard_time": 1738410979,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 237431,
-      "num": 271637,
-      "word": "孙龙摔倒",
-      "onboard_time": 1738994004,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 237142,
@@ -9627,6 +9699,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 226045,
+      "num": 331549,
+      "word": "短道速滑",
+      "onboard_time": 1738893261,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225619,
       "num": 225619,
       "word": "拜托这可是陈哲远亲自选的女主",
@@ -9899,6 +9979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220240,
+      "num": 220240,
+      "word": "春晚机器人要小心向佐了",
+      "onboard_time": 1739074400,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220137,
       "num": 220137,
       "word": "妈妈花7天给儿子做哪吒2敖光战甲",
@@ -10008,14 +10096,6 @@
       "word": "刘少昂1500米破赛会纪录",
       "onboard_time": 1738899506,
       "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 218116,
-      "num": 331549,
-      "word": "短道速滑",
-      "onboard_time": 1738893261,
-      "rank": 37,
       "category": "体育"
     },
     {
@@ -10363,6 +10443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211617,
+      "num": 211617,
+      "word": "金秀贤抽烟路透",
+      "onboard_time": 1739074160,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211482,
       "num": 312659,
       "word": "返乡过年被小县城的消费震撼了",
@@ -10633,6 +10721,14 @@
       "onboard_time": 1738671744,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207021,
+      "num": 207021,
+      "word": "何炅谢娜没个几十年交情都不敢这么玩",
+      "onboard_time": 1739074160,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 206892,
@@ -11801,6 +11897,22 @@
       "onboard_time": 1738999402,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192421,
+      "num": 192421,
+      "word": "护滑",
+      "onboard_time": 1739074459,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 192395,
+      "num": 208832,
+      "word": "王嘉尔宣布回归",
+      "onboard_time": 1739074820,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 192203,
@@ -13115,6 +13227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177015,
+      "num": 177015,
+      "word": "卖伞人家却给不了孩子遮风避雨的家",
+      "onboard_time": 1739074701,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176872,
       "num": 171795,
       "word": "电影射雕英雄传侠之大者",
@@ -13241,6 +13361,14 @@
       "onboard_time": 1738465336,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174896,
+      "num": 174896,
+      "word": "谢娜你好星期六惩罚舞蹈",
+      "onboard_time": 1739073559,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 174656,
@@ -13481,6 +13609,14 @@
       "onboard_time": 1738509979,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 171978,
+      "num": 171978,
+      "word": "时空中的绘旅人",
+      "onboard_time": 1739074580,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 171875,
@@ -15075,6 +15211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 152675,
+      "num": 152675,
+      "word": "库里单节24分",
+      "onboard_time": 1739073620,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152445,
       "num": 122204,
       "word": "哪吒2里的反父权",
@@ -15137,6 +15281,14 @@
       "onboard_time": 1738718240,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151690,
+      "num": 177204,
+      "word": "哪吒2今日或超80亿",
+      "onboard_time": 1739072960,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 151667,
@@ -15705,6 +15857,14 @@
       "onboard_time": 1738636163,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145601,
+      "num": 145601,
+      "word": "绘旅人热砂国度",
+      "onboard_time": 1739074940,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 145458,
@@ -16393,6 +16553,14 @@
       "onboard_time": 1739010561,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138374,
+      "num": 138374,
+      "word": "男子造谣医院复活秦始皇被罚",
+      "onboard_time": 1739074580,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138282,
@@ -17483,14 +17651,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 126191,
-      "num": 126191,
-      "word": "哪吒2票房超76亿",
-      "onboard_time": 1739072299,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 126133,
       "num": 137584,
       "word": "柯颖有古早小说那味儿了",
@@ -17857,14 +18017,6 @@
       "onboard_time": 1738931603,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122462,
-      "num": 1016783,
-      "word": "四川宜宾山体滑坡救援现场",
-      "onboard_time": 1739071100,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122229,
@@ -19291,6 +19443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 104585,
+      "num": 392405,
+      "word": "一觉醒来爷爷先用后付下单54件商品",
+      "onboard_time": 1739074220,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104524,
       "num": 107531,
       "word": "哪吒之魔童闹海预测票房超100亿",
@@ -20640,14 +20800,6 @@
       "word": "太阳认真考虑交易杜兰特",
       "onboard_time": 1738637065,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 82983,
-      "num": 609794,
-      "word": "刘少昂超越",
-      "onboard_time": 1739071759,
-      "rank": 7,
       "category": "体育"
     },
     {
@@ -23091,6 +23243,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 39270,
+      "num": 377726,
+      "word": "徐梦桃再为中国队夺金",
+      "onboard_time": 1739072901,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39102,
       "num": 39102,
       "word": "2024年江苏13市GDP出炉",
@@ -25003,6 +25163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 12148,
+      "num": 207445,
+      "word": "RBRDAY",
+      "onboard_time": 1739073079,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 11984,
       "num": 138510,
       "word": "福克斯改号码致敬妻子",
@@ -25360,6 +25528,14 @@
       "word": "双曼组合冠军自拍照",
       "onboard_time": 1739066540,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 6421,
+      "num": 192609,
+      "word": "中国队亚冬会第11金",
+      "onboard_time": 1739075060,
+      "rank": 37,
       "category": "体育"
     },
     {

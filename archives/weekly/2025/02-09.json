@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739072409219,
+  "endTime": 1739075130802,
   "band_list": [
     {
       "raw_hot": 1851653,
@@ -19,11 +19,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1565873,
+      "num": 993476,
+      "word": "导演称哪吒2可能不太符合北美调性",
+      "onboard_time": 1739070199,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1237534,
       "num": 1237534,
       "word": "政务大厅公职人员工作时间睡觉",
       "onboard_time": 1739061498,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1211509,
+      "num": 655733,
+      "word": "幼儿园关停潮下的幼儿园园长",
+      "onboard_time": 1739071278,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -48,14 +64,6 @@
       "word": "哪吒2进全球票房榜前50",
       "onboard_time": 1739025022,
       "rank": 0,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 952285,
-      "num": 952285,
-      "word": "导演称哪吒2可能不太符合北美调性",
-      "onboard_time": 1739070199,
-      "rank": 8,
       "category": "电影"
     },
     {
@@ -179,6 +187,14 @@
       "category": "民生新闻,电影"
     },
     {
+      "raw_hot": 522852,
+      "num": 522852,
+      "word": "两男子把垃圾倒进六年时间改造好的河里",
+      "onboard_time": 1739073320,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 515657,
       "num": 1070062,
       "word": "四川山体滑坡29人失联",
@@ -193,6 +209,30 @@
       "onboard_time": 1739050813,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 497112,
+      "num": 497112,
+      "word": "孙龙摔倒",
+      "onboard_time": 1739073739,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 482693,
+      "num": 480585,
+      "word": "袁咏仪张智霖结婚24周年",
+      "onboard_time": 1739070620,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 480811,
+      "num": 480811,
+      "word": "刘少昂短道速滑1000米铜牌",
+      "onboard_time": 1739073739,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 480497,
@@ -217,6 +257,14 @@
       "onboard_time": 1739026221,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 428508,
+      "num": 428508,
+      "word": "哪吒2票房超76亿",
+      "onboard_time": 1739072299,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 401102,
@@ -259,14 +307,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 358389,
-      "num": 358389,
-      "word": "幼儿园关停潮下的幼儿园园长",
-      "onboard_time": 1739071278,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 350200,
       "num": 350200,
       "word": "用棉花替代真雪景区已关闭并致歉",
@@ -297,6 +337,14 @@
       "onboard_time": 1739015903,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 320967,
+      "num": 1051354,
+      "word": "四川宜宾山体滑坡救援现场",
+      "onboard_time": 1739071100,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 319902,
@@ -339,12 +387,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 300458,
+      "num": 300458,
+      "word": "明日方舟",
+      "onboard_time": 1739073800,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 294792,
+      "num": 609794,
+      "word": "刘少昂超越",
+      "onboard_time": 1739071759,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 294388,
       "num": 192894,
       "word": "石矶娘娘配音演员照片宛如石矶本矶",
       "onboard_time": 1739026944,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 292705,
+      "num": 292705,
+      "word": "西施新皮肤首曝",
+      "onboard_time": 1739074100,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 284563,
@@ -363,12 +435,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 250102,
-      "num": 262081,
-      "word": "袁咏仪张智霖结婚24周年",
-      "onboard_time": 1739070620,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 254309,
+      "num": 295557,
+      "word": "仙台有树前8集演了别人一部剧",
+      "onboard_time": 1739073200,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 248935,
@@ -376,6 +448,14 @@
       "word": "林孝埈超越时全场沸腾欢呼",
       "onboard_time": 1739069480,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 245618,
+      "num": 245618,
+      "word": "林孝埈孙龙1000米展团魂",
+      "onboard_time": 1739073979,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -403,12 +483,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 226045,
+      "num": 226045,
+      "word": "短道速滑",
+      "onboard_time": 1739073620,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225075,
       "num": 268447,
       "word": "四川宜宾山体滑坡仍在持续",
       "onboard_time": 1739062159,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 220240,
+      "num": 220240,
+      "word": "春晚机器人要小心向佐了",
+      "onboard_time": 1739074400,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 220124,
@@ -425,6 +521,14 @@
       "onboard_time": 1739010504,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211617,
+      "num": 211617,
+      "word": "金秀贤抽烟路透",
+      "onboard_time": 1739074160,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 211601,
@@ -449,6 +553,14 @@
       "onboard_time": 1739065340,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207021,
+      "num": 207021,
+      "word": "何炅谢娜没个几十年交情都不敢这么玩",
+      "onboard_time": 1739074160,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 198109,
@@ -481,6 +593,22 @@
       "onboard_time": 1739023884,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 192421,
+      "num": 192421,
+      "word": "护滑",
+      "onboard_time": 1739074459,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 192395,
+      "num": 208832,
+      "word": "王嘉尔宣布回归",
+      "onboard_time": 1739074820,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 191435,
@@ -523,6 +651,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 177015,
+      "num": 177015,
+      "word": "卖伞人家却给不了孩子遮风避雨的家",
+      "onboard_time": 1739074701,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 174896,
+      "num": 174896,
+      "word": "谢娜你好星期六惩罚舞蹈",
+      "onboard_time": 1739073559,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174433,
       "num": 174433,
       "word": "宜宾筠连滑坡山体垂直高差达437米",
@@ -537,6 +681,14 @@
       "onboard_time": 1739062278,
       "rank": 21,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 171978,
+      "num": 171978,
+      "word": "时空中的绘旅人",
+      "onboard_time": 1739074580,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 171090,
@@ -619,6 +771,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 152675,
+      "num": 152675,
+      "word": "库里单节24分",
+      "onboard_time": 1739073620,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 151690,
+      "num": 177204,
+      "word": "哪吒2今日或超80亿",
+      "onboard_time": 1739072960,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 150597,
       "num": 150597,
       "word": "加沙人说这辈子什么都没有了",
@@ -659,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145601,
+      "num": 145601,
+      "word": "绘旅人热砂国度",
+      "onboard_time": 1739074940,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 143572,
       "num": 143572,
       "word": "是的她怀了闺蜜的孩子",
@@ -681,6 +857,14 @@
       "onboard_time": 1739067560,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138374,
+      "num": 138374,
+      "word": "男子造谣医院复活秦始皇被罚",
+      "onboard_time": 1739074580,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137904,
@@ -723,14 +907,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 126191,
-      "num": 126191,
-      "word": "哪吒2票房超76亿",
-      "onboard_time": 1739072299,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 125609,
       "num": 185280,
       "word": "女孩遭欺凌5名涉案人员均已到案",
@@ -761,14 +937,6 @@
       "onboard_time": 1739027721,
       "rank": 39,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 122462,
-      "num": 1016783,
-      "word": "四川宜宾山体滑坡救援现场",
-      "onboard_time": 1739071100,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119613,
@@ -857,6 +1025,14 @@
       "onboard_time": 1739033597,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104585,
+      "num": 392405,
+      "word": "一觉醒来爷爷先用后付下单54件商品",
+      "onboard_time": 1739074220,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104570,
@@ -953,14 +1129,6 @@
       "onboard_time": 1739022143,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 82983,
-      "num": 609794,
-      "word": "刘少昂超越",
-      "onboard_time": 1739071759,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 80874,
@@ -1105,6 +1273,14 @@
       "onboard_time": 1739038574,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 39270,
+      "num": 377726,
+      "word": "徐梦桃再为中国队夺金",
+      "onboard_time": 1739072901,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 38832,
@@ -1283,6 +1459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12148,
+      "num": 207445,
+      "word": "RBRDAY",
+      "onboard_time": 1739073079,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 11005,
       "num": 80888,
       "word": "哪吒冲顶也象征着动画行业的托举",
@@ -1336,6 +1520,14 @@
       "word": "双曼组合冠军自拍照",
       "onboard_time": 1739066540,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 6421,
+      "num": 192609,
+      "word": "中国队亚冬会第11金",
+      "onboard_time": 1739075060,
+      "rank": 37,
       "category": "体育"
     },
     {
