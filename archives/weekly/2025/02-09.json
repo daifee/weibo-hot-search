@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739089543885,
+  "endTime": 1739090309330,
   "band_list": [
     {
       "raw_hot": 2727035,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1314571,
+      "num": 1314571,
+      "word": "孙龙赛后怒吼脏就是脏",
+      "onboard_time": 1739086879,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1237534,
       "num": 1237534,
       "word": "政务大厅公职人员工作时间睡觉",
@@ -81,14 +89,6 @@
       "onboard_time": 1739025622,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1158679,
-      "num": 1158679,
-      "word": "孙龙赛后怒吼脏就是脏",
-      "onboard_time": 1739086879,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 1076675,
@@ -275,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 622457,
+      "num": 531662,
+      "word": "刘惜君对薛之谦已经产生抗体了",
+      "onboard_time": 1739087421,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 621577,
       "num": 366936,
       "word": "邪恶栀子花大战邪恶菠萝蜜",
@@ -355,12 +363,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 531662,
-      "num": 531662,
-      "word": "刘惜君对薛之谦已经产生抗体了",
-      "onboard_time": 1739087421,
-      "rank": 13,
-      "category": "演出"
+      "raw_hot": 528034,
+      "num": 363413,
+      "word": "刘晓庆说自己胃不好大家都笑了",
+      "onboard_time": 1739087360,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 527704,
@@ -547,20 +555,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 363413,
-      "num": 363413,
-      "word": "刘晓庆说自己胃不好大家都笑了",
-      "onboard_time": 1739087360,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 350200,
       "num": 350200,
       "word": "用棉花替代真雪景区已关闭并致歉",
       "onboard_time": 1739057955,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 350069,
+      "num": 350069,
+      "word": "面包店全体员工自愿为筠连加班",
+      "onboard_time": 1739083220,
+      "rank": 43,
+      "category": "正能量"
     },
     {
       "raw_hot": 349604,
@@ -585,14 +593,6 @@
       "onboard_time": 1739061619,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 335253,
-      "num": 335253,
-      "word": "面包店全体员工自愿为筠连加班",
-      "onboard_time": 1739083220,
-      "rank": 43,
-      "category": "正能量"
     },
     {
       "raw_hot": 328958,
@@ -641,6 +641,14 @@
       "onboard_time": 1739081541,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 316982,
+      "num": 534868,
+      "word": "医保药监回应血压不降麻药不睡",
+      "onboard_time": 1739088200,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 316020,
@@ -755,14 +763,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 280535,
-      "num": 534868,
-      "word": "医保药监回应血压不降麻药不睡",
-      "onboard_time": 1739088200,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 280216,
       "num": 280216,
       "word": "李文龙在场边演我",
@@ -784,6 +784,14 @@
       "word": "邓为海棠式演技",
       "onboard_time": 1739070140,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 270326,
+      "num": 270326,
+      "word": "陈飞宇张婧仪或将二搭",
+      "onboard_time": 1739089459,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -809,14 +817,6 @@
       "onboard_time": 1739019083,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 239162,
-      "num": 239162,
-      "word": "陈飞宇张婧仪或将二搭",
-      "onboard_time": 1739089459,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 234953,
@@ -889,6 +889,14 @@
       "onboard_time": 1739076559,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215879,
+      "num": 535378,
+      "word": "血压不降麻药不睡多来自他人转述",
+      "onboard_time": 1739088260,
+      "rank": 8,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 215582,
@@ -995,6 +1003,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 199776,
+      "num": 232990,
+      "word": "李坚柔说韩国短道不想让中国赢",
+      "onboard_time": 1739089220,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198109,
       "num": 151615,
       "word": "马威交易取消",
@@ -1035,6 +1051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194077,
+      "num": 991521,
+      "word": "四川山体滑坡已致1人遇难",
+      "onboard_time": 1739084659,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 193607,
       "num": 189968,
       "word": "岳云鹏揪的不是白客裤腿是我的心",
@@ -1049,6 +1073,14 @@
       "onboard_time": 1739023884,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 192519,
+      "num": 192519,
+      "word": "刘少林回应接力摘铜",
+      "onboard_time": 1739088801,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 192421,
@@ -1067,12 +1099,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189463,
-      "num": 535378,
-      "word": "血压不降麻药不睡多来自他人转述",
-      "onboard_time": 1739088260,
-      "rank": 8,
-      "category": "健康医疗"
+      "raw_hot": 189107,
+      "num": 189107,
+      "word": "孙龙说低估了韩国选手的一些想法",
+      "onboard_time": 1739087600,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 187721,
@@ -1219,14 +1251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 168332,
-      "num": 168332,
-      "word": "刘少林回应接力摘铜",
-      "onboard_time": 1739088801,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 166006,
       "num": 166006,
       "word": "KPL",
@@ -1257,14 +1281,6 @@
       "onboard_time": 1739069419,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 162211,
-      "num": 162211,
-      "word": "李坚柔说韩国短道不想让中国赢",
-      "onboard_time": 1739089220,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 159834,
@@ -1571,6 +1587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133795,
+      "num": 601564,
+      "word": "医保及药监部门回应集采药品相关问题",
+      "onboard_time": 1739088080,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132721,
       "num": 577309,
       "word": "挖机师傅24小时待命想救援",
@@ -1651,12 +1675,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 122253,
-      "num": 601564,
-      "word": "医保及药监部门回应集采药品相关问题",
-      "onboard_time": 1739088080,
-      "rank": 4,
-      "category": "民生新闻"
+      "raw_hot": 122526,
+      "num": 122526,
+      "word": "外国观众看完哪吒是懂内涵的",
+      "onboard_time": 1739077581,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 121438,
@@ -1675,14 +1699,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 120837,
-      "num": 120837,
-      "word": "外国观众看完哪吒是懂内涵的",
-      "onboard_time": 1739077581,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 119613,
       "num": 119613,
       "word": "官方通报女子酒店泡澡遭无人机偷拍",
@@ -1691,20 +1707,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119444,
+      "num": 119444,
+      "word": "羽生结弦冰上巡演",
+      "onboard_time": 1739089099,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119220,
       "num": 119220,
       "word": "刘诗诗 妈妈级别",
       "onboard_time": 1739021123,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 118716,
-      "num": 118716,
-      "word": "孙龙说低估了韩国选手的一些想法",
-      "onboard_time": 1739087600,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 117190,
@@ -1731,14 +1747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 115499,
-      "num": 991521,
-      "word": "四川山体滑坡已致1人遇难",
-      "onboard_time": 1739084659,
-      "rank": 9,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 114654,
       "num": 114654,
       "word": "浓眉独行侠首秀",
@@ -1747,11 +1755,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 113189,
-      "num": 113189,
-      "word": "羽生结弦冰上巡演",
-      "onboard_time": 1739089099,
-      "rank": 48,
+      "raw_hot": 114216,
+      "num": 114216,
+      "word": "范可新说这是最后一届亚冬会",
+      "onboard_time": 1739089579,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -1835,6 +1843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102990,
+      "num": 102990,
+      "word": "石凯曾赔钱上节目",
+      "onboard_time": 1739090239,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102406,
       "num": 232169,
       "word": "唐探的单词以一种奇怪的方式进入大脑",
@@ -1905,6 +1921,14 @@
       "onboard_time": 1739031319,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90190,
+      "num": 195308,
+      "word": "医院能不能使用集采非中选原研药",
+      "onboard_time": 1739089880,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89825,
@@ -2027,6 +2051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 53753,
+      "num": 313589,
+      "word": "一块石头变成冰壶为何身价涨这么多",
+      "onboard_time": 1739088741,
+      "rank": 19,
+      "category": "议题讨论,体育"
+    },
+    {
       "raw_hot": 51804,
       "num": 536618,
       "word": "3D还原宜宾筠连山体滑坡现场",
@@ -2121,14 +2153,6 @@
       "onboard_time": 1739082620,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 35001,
-      "num": 313589,
-      "word": "一块石头变成冰壶为何身价涨这么多",
-      "onboard_time": 1739088741,
-      "rank": 19,
-      "category": "议题讨论,体育"
     },
     {
       "raw_hot": 34275,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1739090309330,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2053963,
+        "num": 2053963,
+        "word": "熊出没票房超过射雕",
+        "onboard_time": 1739085919,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1314571,
+        "num": 1314571,
+        "word": "孙龙赛后怒吼脏就是脏",
+        "onboard_time": 1739086879,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 350069,
+        "num": 350069,
+        "word": "面包店全体员工自愿为筠连加班",
+        "onboard_time": 1739083220,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 900819,
+        "num": 337668,
+        "word": "哪吒2已超78亿",
+        "onboard_time": 1739085078,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 316982,
+        "num": 316982,
+        "word": "医保药监回应血压不降麻药不睡",
+        "onboard_time": 1739088200,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 689838,
+        "num": 316442,
+        "word": "韩国队犯规取消成绩",
+        "onboard_time": 1739082020,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 713384,
+        "num": 310219,
+        "word": "哪吒番外篇完全不输正片",
+        "onboard_time": 1739082680,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 622457,
+        "num": 306458,
+        "word": "刘惜君对薛之谦已经产生抗体了",
+        "onboard_time": 1739087421,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 343575,
+        "num": 306052,
+        "word": "韩国犯规",
+        "onboard_time": 1739079502,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215879,
+        "num": 299689,
+        "word": "血压不降麻药不睡多来自他人转述",
+        "onboard_time": 1739088260,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1180192,
+        "num": 296840,
+        "word": "演员李施嬅官宣分手",
+        "onboard_time": 1739085800,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1044010,
+        "num": 293581,
+        "word": "苗苗生育状况写多子女",
+        "onboard_time": 1739078179,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 575709,
+        "num": 288423,
+        "word": "陈乔恩打电波脸肿了一个月",
+        "onboard_time": 1739078301,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 528034,
+        "num": 285381,
+        "word": "刘晓庆说自己胃不好大家都笑了",
+        "onboard_time": 1739087360,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284610,
+        "num": 284610,
+        "word": "定期存钱后睡眠开始变好",
+        "onboard_time": 1739081541,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 373206,
+        "num": 281764,
+        "word": "浪姐",
+        "onboard_time": 1739087540,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304811,
+        "num": 276967,
+        "word": "金智媛姐不是装漂亮是真漂亮",
+        "onboard_time": 1739078301,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 270326,
+        "num": 270326,
+        "word": "陈飞宇张婧仪或将二搭",
+        "onboard_time": 1739089459,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269278,
+        "num": 269278,
+        "word": "李文龙在场边演我",
+        "onboard_time": 1739087180,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53753,
+        "num": 254504,
+        "word": "一块石头变成冰壶为何身价涨这么多",
+        "onboard_time": 1739088741,
+        "rank": 19,
+        "category": "议题讨论,体育"
+      },
+      {
+        "raw_hot": 275378,
+        "num": 254353,
+        "word": "女子看不孕意外发现已怀孕7个月",
+        "onboard_time": 1739064139,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252319,
+        "num": 252319,
+        "word": "王一博西藏被偶遇",
+        "onboard_time": 1739076200,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245492,
+        "num": 245492,
+        "word": "孙龙说韩国队薅倒了两名中国运动员",
+        "onboard_time": 1739086278,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243220,
+        "num": 243220,
+        "word": "敖丙最好的朋友是谁呀",
+        "onboard_time": 1739083881,
+        "rank": 23,
+        "category": "动漫,电影"
+      },
+      {
+        "raw_hot": 199776,
+        "num": 232990,
+        "word": "李坚柔说韩国短道不想让中国赢",
+        "onboard_time": 1739089220,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225103,
+        "num": 225103,
+        "word": "哪吒2在美一票难求纽约华人发声",
+        "onboard_time": 1739077220,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202910,
+        "num": 202910,
+        "word": "陈乔恩否认整容",
+        "onboard_time": 1739083098,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90190,
+        "num": 195308,
+        "word": "医院能不能使用集采非中选原研药",
+        "onboard_time": 1739089880,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195015,
+        "num": 195015,
+        "word": "DeepSeek对普通人有什么机会",
+        "onboard_time": 1739084899,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 194077,
+        "num": 194077,
+        "word": "四川山体滑坡已致1人遇难",
+        "onboard_time": 1739084659,
+        "rank": 29,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 192519,
+        "num": 192519,
+        "word": "刘少林回应接力摘铜",
+        "onboard_time": 1739088801,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189107,
+        "num": 189107,
+        "word": "孙龙说低估了韩国选手的一些想法",
+        "onboard_time": 1739087600,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184289,
+        "num": 184289,
+        "word": "韩国队犯规垫底后有说有笑",
+        "onboard_time": 1739085680,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176498,
+        "num": 176498,
+        "word": "雷军开小米YU7实测一千公里",
+        "onboard_time": 1739087721,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 157156,
+        "num": 157156,
+        "word": "中国队遭韩国队阻挡无缘金牌",
+        "onboard_time": 1739087960,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142520,
+        "num": 142520,
+        "word": "周鸿祎称送车给有能力的人",
+        "onboard_time": 1739089220,
+        "rank": 35,
+        "category": "互联网,汽车"
+      },
+      {
+        "raw_hot": 140725,
+        "num": 140725,
+        "word": "张伟丽战胜苏亚雷斯卫冕",
+        "onboard_time": 1739079142,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133795,
+        "num": 133795,
+        "word": "医保及药监部门回应集采药品相关问题",
+        "onboard_time": 1739088080,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122526,
+        "num": 122526,
+        "word": "外国观众看完哪吒是懂内涵的",
+        "onboard_time": 1739077581,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121505,
+        "num": 121505,
+        "word": "何炅说孩子只崇拜张杰",
+        "onboard_time": 1739076680,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119444,
+        "num": 119444,
+        "word": "羽生结弦冰上巡演",
+        "onboard_time": 1739089099,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118250,
+        "num": 118250,
+        "word": "西施新皮肤首曝",
+        "onboard_time": 1739074100,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117722,
+        "num": 117722,
+        "word": "武契奇专车行驶中后轮突然飞出",
+        "onboard_time": 1739083640,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116414,
+        "num": 116414,
+        "word": "林孝埈康复师场外痛哭",
+        "onboard_time": 1739078480,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114216,
+        "num": 114216,
+        "word": "范可新说这是最后一届亚冬会",
+        "onboard_time": 1739089579,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109728,
+        "num": 109728,
+        "word": "苗苗跳同款哪吒舞了",
+        "onboard_time": 1739086761,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105339,
+        "num": 105339,
+        "word": "搜索贷款后接到银行电话被划走1万",
+        "onboard_time": 1739085141,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104809,
+        "num": 104809,
+        "word": "于正新签两个短剧演员",
+        "onboard_time": 1739069239,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102990,
+        "num": 102990,
+        "word": "石凯曾赔钱上节目",
+        "onboard_time": 1739090239,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102646,
+        "num": 102646,
+        "word": "张云雷称在家24小时被私生饭监控",
+        "onboard_time": 1739078061,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动科技成果向现实生产力转化#"
+    }
+  }
+}
