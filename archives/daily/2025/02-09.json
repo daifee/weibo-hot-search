@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739097517074,
+  "endTime": 1739099824465,
   "band_list": [
     {
       "raw_hot": 2727035,
@@ -27,6 +27,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1909524,
+      "num": 1909524,
+      "word": "哪吒2票房破80亿",
+      "onboard_time": 1739099001,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1851653,
       "num": 576814,
       "word": "女子看不孕意外发现已怀孕7个月",
@@ -49,6 +57,14 @@
       "onboard_time": 1739063238,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1572933,
+      "num": 1158002,
+      "word": "哪吒2洛杉矶首映结束全场鼓掌",
+      "onboard_time": 1739097260,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 1565873,
@@ -99,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1212507,
+      "num": 1212507,
+      "word": "孙颖莎vs蒯曼",
+      "onboard_time": 1739095701,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1211509,
       "num": 1140669,
       "word": "幼儿园关停潮下的幼儿园园长",
@@ -113,6 +137,30 @@
       "onboard_time": 1739025622,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1127415,
+      "num": 847848,
+      "word": "女子的贞洁从不在罗裙之下",
+      "onboard_time": 1739094742,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1095439,
+      "num": 1095439,
+      "word": "孙颖莎黄牌",
+      "onboard_time": 1739097800,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1090451,
+      "num": 1090451,
+      "word": "男孩被卖时亲眼看见养父母付了200元",
+      "onboard_time": 1739095759,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1076675,
@@ -145,14 +193,6 @@
       "onboard_time": 1739079142,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 993041,
-      "num": 847848,
-      "word": "女子的贞洁从不在罗裙之下",
-      "onboard_time": 1739094742,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 977861,
@@ -195,28 +235,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 849728,
-      "num": 849728,
-      "word": "孙颖莎vs蒯曼",
-      "onboard_time": 1739095701,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 844756,
       "num": 844756,
       "word": "朴知元回应干扰林孝埈",
       "onboard_time": 1739090357,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 844301,
-      "num": 844301,
-      "word": "男孩被卖时亲眼看见养父母付了200元",
-      "onboard_time": 1739095759,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 834406,
@@ -227,12 +251,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 821293,
+      "num": 821293,
+      "word": "孙颖莎战胜蒯曼夺冠",
+      "onboard_time": 1739098701,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 818897,
       "num": 818897,
       "word": "林孝埈无缘1000米决赛",
       "onboard_time": 1739070800,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 818867,
+      "num": 818867,
+      "word": "哪吒为啥不姓李",
+      "onboard_time": 1739098701,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 808851,
@@ -296,6 +336,14 @@
       "word": "何炅说孩子只崇拜张杰",
       "onboard_time": 1739076680,
       "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 682475,
+      "num": 682475,
+      "word": "谢娜卡粉",
+      "onboard_time": 1739096119,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -491,14 +539,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 513098,
-      "num": 513098,
-      "word": "谢娜卡粉",
-      "onboard_time": 1739096119,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 510606,
       "num": 510606,
       "word": "华为手表属于医疗器械可以医保付款",
@@ -595,6 +635,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 434164,
+      "num": 434164,
+      "word": "林孝埈趁乱离开赛场",
+      "onboard_time": 1739095759,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 419102,
+      "num": 419102,
+      "word": "李思思 浪姐6",
+      "onboard_time": 1739098821,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 401102,
       "num": 401102,
       "word": "王楚钦止步新加坡大满贯4强",
@@ -665,14 +721,6 @@
       "onboard_time": 1739096720,
       "rank": 20,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 371724,
-      "num": 325007,
-      "word": "林孝埈趁乱离开赛场",
-      "onboard_time": 1739095759,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 368144,
@@ -955,6 +1003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 253553,
+      "num": 699375,
+      "word": "东莞一小区拟定停车费1天120元",
+      "onboard_time": 1739095279,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 250288,
       "num": 250288,
       "word": "浪姐6出发路透",
@@ -1027,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228365,
+      "num": 224737,
+      "word": "以为正常其实是无意识的控糖行为",
+      "onboard_time": 1739098461,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 225324,
       "num": 225324,
       "word": "何炅谢娜没个几十年交情都不敢这么玩",
@@ -1089,6 +1153,14 @@
       "onboard_time": 1739083640,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 215579,
+      "num": 215579,
+      "word": "好小众听到爱豆被催婚",
+      "onboard_time": 1739098340,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 213448,
@@ -1169,6 +1241,14 @@
       "onboard_time": 1739085680,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205638,
+      "num": 191470,
+      "word": "创造营亚洲2",
+      "onboard_time": 1739098640,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 205143,
@@ -1323,6 +1403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191476,
+      "num": 191476,
+      "word": "黄杨钿甜第一次演大婚戏",
+      "onboard_time": 1739099542,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191435,
       "num": 312080,
       "word": "780余人已赴山体滑坡现场救援",
@@ -1337,6 +1425,22 @@
       "onboard_time": 1739093358,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189975,
+      "num": 189975,
+      "word": "李冰冰 这姑娘帅爆啦",
+      "onboard_time": 1739097622,
+      "rank": 38,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 189366,
+      "num": 189366,
+      "word": "亲人离世是一生学不会的必修课",
+      "onboard_time": 1739099422,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 189107,
@@ -1363,12 +1467,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185828,
+      "num": 185828,
+      "word": "泰国总理佩通坦感谢中国女保镖",
+      "onboard_time": 1739099240,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 185191,
       "num": 156848,
       "word": "导演饺子初中班主任发声",
       "onboard_time": 1739029580,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 185008,
+      "num": 185008,
+      "word": "王濛说韩国队不扒拉不会滑冰",
+      "onboard_time": 1739099662,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 180743,
@@ -1411,14 +1531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 176304,
-      "num": 176304,
-      "word": "哪吒2洛杉矶首映结束全场鼓掌",
-      "onboard_time": 1739097260,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 174896,
       "num": 174896,
       "word": "谢娜你好星期六惩罚舞蹈",
@@ -1440,6 +1552,14 @@
       "word": "韩国短道速滑 扒拉",
       "onboard_time": 1739083039,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 173629,
+      "num": 173629,
+      "word": "蒯曼亚军",
+      "onboard_time": 1739099721,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -1603,14 +1723,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 158380,
-      "num": 628620,
-      "word": "东莞一小区拟定停车费1天120元",
-      "onboard_time": 1739095279,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156923,
       "num": 156923,
       "word": "马嘉祺 西安飞北京到达",
@@ -1681,6 +1793,14 @@
       "onboard_time": 1739022862,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153496,
+      "num": 153496,
+      "word": "李文龙看到韩国队犯规气麻了",
+      "onboard_time": 1739099781,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 153342,
@@ -1948,7 +2068,7 @@
     },
     {
       "raw_hot": 131423,
-      "num": 131423,
+      "num": 292635,
       "word": "AG新年新队服",
       "onboard_time": 1739095759,
       "rank": 48,
@@ -2243,6 +2363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 101604,
+      "num": 689283,
+      "word": "祝贺国乒女单包揽冠亚军",
+      "onboard_time": 1739098821,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100712,
       "num": 100712,
       "word": "鹤俐昀端",
@@ -2323,8 +2451,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 85603,
-      "num": 1155369,
+      "raw_hot": 86919,
+      "num": 1158102,
       "word": "中国金牌9宫格",
       "onboard_time": 1739091981,
       "rank": 2,
@@ -2344,6 +2472,14 @@
       "word": "被老师砸破头骨女童妈妈生4胎",
       "onboard_time": 1739004925,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79668,
+      "num": 819831,
+      "word": "物业回应小区停车费拟定1天120元",
+      "onboard_time": 1739099301,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -2563,6 +2699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35735,
+      "num": 434803,
+      "word": "袁咏仪张智霖状态",
+      "onboard_time": 1739098821,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 34275,
       "num": 58634,
       "word": "车主见车窗被砸不怒反喜",
@@ -2689,6 +2833,14 @@
       "onboard_time": 1739045951,
       "rank": 38,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 17330,
+      "num": 436205,
+      "word": "宜宾筠连村民自发捐菜做饭",
+      "onboard_time": 1739099301,
+      "rank": 18,
+      "category": "正能量"
     },
     {
       "raw_hot": 17195,
