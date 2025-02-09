@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739092842410,
+  "endTime": 1739093721232,
   "band_list": [
     {
       "raw_hot": 2727035,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1948685,
-      "num": 552618,
+      "num": 685489,
       "word": "苗苗生育状况写多子女",
       "onboard_time": 1739078179,
       "rank": 12,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1359989,
-      "num": 533768,
+      "num": 632551,
       "word": "演员李施嬅官宣分手",
       "onboard_time": 1739085800,
       "rank": 12,
@@ -89,6 +89,14 @@
       "onboard_time": 1739025622,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1145521,
+      "num": 1145521,
+      "word": "医院回应禁止非医学需要终止妊娠",
+      "onboard_time": 1739090299,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1076675,
@@ -163,6 +171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 844756,
+      "num": 844756,
+      "word": "朴知元回应干扰林孝埈",
+      "onboard_time": 1739090357,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 834406,
       "num": 830191,
       "word": "于正新签两个短剧演员",
@@ -227,20 +243,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 725026,
+      "num": 725026,
+      "word": "浪姐6名单",
+      "onboard_time": 1739092279,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 708110,
+      "num": 708110,
+      "word": "哪吒2票房超79亿元",
+      "onboard_time": 1739092579,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 705701,
       "num": 426423,
       "word": "公认是烂片但你却很喜欢的电影",
       "onboard_time": 1739022263,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 694625,
-      "num": 694625,
-      "word": "朴知元回应干扰林孝埈",
-      "onboard_time": 1739090357,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 691056,
@@ -251,20 +275,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 682481,
-      "num": 682481,
-      "word": "医院回应禁止非医学需要终止妊娠",
-      "onboard_time": 1739090299,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 681596,
       "num": 681596,
       "word": "徐梦桃夺金",
       "onboard_time": 1739070140,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 680232,
+      "num": 680232,
+      "word": "敖光 应龙",
+      "onboard_time": 1739091019,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 668620,
@@ -364,7 +388,7 @@
     },
     {
       "raw_hot": 547202,
-      "num": 504883,
+      "num": 545331,
       "word": "陈乔恩回应被指虚伪",
       "onboard_time": 1739090960,
       "rank": 12,
@@ -433,14 +457,6 @@
       "onboard_time": 1739050813,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 501610,
-      "num": 358198,
-      "word": "敖光 应龙",
-      "onboard_time": 1739091019,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 499992,
@@ -835,14 +851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 271330,
-      "num": 271330,
-      "word": "浪姐6名单",
-      "onboard_time": 1739092279,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 250288,
       "num": 250288,
       "word": "浪姐6出发路透",
@@ -1083,6 +1091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198496,
+      "num": 198496,
+      "word": "在仙侠剧看见我本位型女主了",
+      "onboard_time": 1739092999,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198109,
       "num": 151615,
       "word": "马威交易取消",
@@ -1123,8 +1139,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195313,
+      "num": 195313,
+      "word": "陈飞宇方否认二搭",
+      "onboard_time": 1739093300,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194077,
-      "num": 1241453,
+      "num": 1280864,
       "word": "四川山体滑坡已致1人遇难",
       "onboard_time": 1739084659,
       "rank": 9,
@@ -1171,6 +1195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190358,
+      "num": 190358,
+      "word": "宋妍霏录浪姐前给粉丝发红包",
+      "onboard_time": 1739093358,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189107,
       "num": 189107,
       "word": "孙龙说低估了韩国选手的一些想法",
@@ -1200,14 +1232,6 @@
       "word": "导演饺子初中班主任发声",
       "onboard_time": 1739029580,
       "rank": 28,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 184094,
-      "num": 184094,
-      "word": "哪吒2票房超79亿元",
-      "onboard_time": 1739092579,
-      "rank": 30,
       "category": "电影"
     },
     {
@@ -1297,6 +1321,14 @@
       "onboard_time": 1739074580,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 171708,
+      "num": 171708,
+      "word": "樊振东王楚钦郑钦文眼中的体育精神",
+      "onboard_time": 1739093179,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 171090,
@@ -1507,6 +1539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151048,
+      "num": 151048,
+      "word": "蓝猫",
+      "onboard_time": 1739091019,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 150597,
       "num": 150597,
       "word": "加沙人说这辈子什么都没有了",
@@ -1579,6 +1619,14 @@
       "category": "互联网,汽车"
     },
     {
+      "raw_hot": 144675,
+      "num": 175233,
+      "word": "台媒谈李现",
+      "onboard_time": 1739090420,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143572,
       "num": 143572,
       "word": "是的她怀了闺蜜的孩子",
@@ -1595,12 +1643,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143000,
+      "num": 143000,
+      "word": "张伟丽头部打击命中数45次",
+      "onboard_time": 1739091679,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142565,
       "num": 352043,
       "word": "向涵之春日仙感少女",
       "onboard_time": 1739078360,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142386,
+      "num": 218827,
+      "word": "徐梦桃中国雪上项目首位全满贯获得者",
+      "onboard_time": 1739093120,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 142126,
@@ -1657,14 +1721,6 @@
       "onboard_time": 1739079622,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139190,
-      "num": 139190,
-      "word": "蓝猫",
-      "onboard_time": 1739091019,
-      "rank": 38,
-      "category": "动漫"
     },
     {
       "raw_hot": 137904,
@@ -1739,12 +1795,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 130558,
-      "num": 175233,
-      "word": "台媒谈李现",
-      "onboard_time": 1739090420,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 130573,
+      "num": 130573,
+      "word": "刘少林评价韩国队",
+      "onboard_time": 1739093480,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 129340,
+      "num": 129340,
+      "word": "陈哲远梁洁谁给同事这样道歉",
+      "onboard_time": 1739090720,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 127211,
@@ -1753,14 +1817,6 @@
       "onboard_time": 1739065759,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 125838,
-      "num": 125838,
-      "word": "张伟丽头部打击命中数45次",
-      "onboard_time": 1739091679,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 125609,
@@ -1848,14 +1904,6 @@
       "word": "刘诗诗 妈妈级别",
       "onboard_time": 1739021123,
       "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 118017,
-      "num": 118017,
-      "word": "陈哲远梁洁谁给同事这样道歉",
-      "onboard_time": 1739090720,
-      "rank": 45,
       "category": "剧集"
     },
     {
@@ -2131,6 +2179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70759,
+      "num": 198802,
+      "word": "深蓝汽车与华为签约",
+      "onboard_time": 1739092880,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 65603,
       "num": 117595,
       "word": "王曼昱蒯曼3比2孙颖莎王艺迪",
@@ -2193,6 +2249,14 @@
       "onboard_time": 1739071460,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 58266,
+      "num": 1155369,
+      "word": "中国金牌9宫格",
+      "onboard_time": 1739091981,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 53753,
@@ -2371,20 +2435,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 28922,
+      "num": 306072,
+      "word": "筠连滑坡至今一直处于降雨状态",
+      "onboard_time": 1739092820,
+      "rank": 19,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 26325,
       "num": 26325,
       "word": "四川筠连山体滑坡",
       "onboard_time": 1739037193,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25679,
-      "num": 1127059,
-      "word": "中国金牌9宫格",
-      "onboard_time": 1739091981,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 24149,
@@ -2409,6 +2473,14 @@
       "onboard_time": 1739044751,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 19134,
+      "num": 474173,
+      "word": "山体滑坡坍塌面积达16个足球场大小",
+      "onboard_time": 1739092941,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17399,
@@ -2586,6 +2658,9 @@
     },
     {
       "word": "#新时代东北全面振兴战略部署#"
+    },
+    {
+      "word": "#习近平东北之行的几个关键词#"
     }
   ]
 }
