@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739090309330,
+  "endTime": 1739092842410,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -2963,6 +2963,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 694625,
+      "num": 694625,
+      "word": "朴知元回应干扰林孝埈",
+      "onboard_time": 1739090357,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 694115,
       "num": 583575,
       "word": "一念关山",
@@ -3001,6 +3009,14 @@
       "onboard_time": 1739076680,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 682481,
+      "num": 682481,
+      "word": "医院回应禁止非医学需要终止妊娠",
+      "onboard_time": 1739090299,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 682048,
@@ -3995,6 +4011,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 547202,
+      "num": 504883,
+      "word": "陈乔恩回应被指虚伪",
+      "onboard_time": 1739090960,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 546700,
       "num": 446393,
       "word": "白色橄榄树热度",
@@ -4459,6 +4483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 501610,
+      "num": 358198,
+      "word": "敖光 应龙",
+      "onboard_time": 1739091019,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 501201,
       "num": 501201,
       "word": "Kanye唯一关注Taylor Swift",
@@ -4600,6 +4632,14 @@
       "word": "林孝埈摘银",
       "onboard_time": 1738986928,
       "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 494376,
+      "num": 494376,
+      "word": "王濛说我泰拳不是白练的",
+      "onboard_time": 1739090600,
+      "rank": 13,
       "category": "体育"
     },
     {
@@ -6339,6 +6379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 365854,
+      "num": 534868,
+      "word": "医保药监回应血压不降麻药不睡",
+      "onboard_time": 1739088200,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 365595,
       "num": 365595,
       "word": "明天上班",
@@ -7275,14 +7323,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 316982,
-      "num": 534868,
-      "word": "医保药监回应血压不降麻药不睡",
-      "onboard_time": 1739088200,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 316783,
       "num": 316783,
       "word": "四川扔鞭炮男孩奶奶发声道歉",
@@ -7947,6 +7987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 291717,
+      "num": 291717,
+      "word": "陈飞宇张婧仪或将二搭",
+      "onboard_time": 1739089459,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 291628,
       "num": 291628,
       "word": "河南老板拿价值170万玛莎拉蒂来套圈",
@@ -8411,6 +8459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 271330,
+      "num": 271330,
+      "word": "浪姐6名单",
+      "onboard_time": 1739092279,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271264,
       "num": 478401,
       "word": "她以为剪了短发就是男孩了",
@@ -8441,14 +8497,6 @@
       "onboard_time": 1738753705,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 270326,
-      "num": 270326,
-      "word": "陈飞宇张婧仪或将二搭",
-      "onboard_time": 1739089459,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 270127,
@@ -9041,6 +9089,14 @@
       "onboard_time": 1738748246,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250288,
+      "num": 250288,
+      "word": "浪姐6出发路透",
+      "onboard_time": 1739091260,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 250146,
@@ -9689,6 +9745,14 @@
       "onboard_time": 1738905027,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 232848,
+      "num": 232848,
+      "word": "哪吒2进入全球电影票房榜前40",
+      "onboard_time": 1739090839,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 232745,
@@ -12228,7 +12292,7 @@
     },
     {
       "raw_hot": 194077,
-      "num": 991521,
+      "num": 1241453,
       "word": "四川山体滑坡已致1人遇难",
       "onboard_time": 1739084659,
       "rank": 9,
@@ -13153,6 +13217,14 @@
       "onboard_time": 1738929622,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184094,
+      "num": 184094,
+      "word": "哪吒2票房超79亿元",
+      "onboard_time": 1739092579,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 184089,
@@ -15033,6 +15105,14 @@
       "onboard_time": 1738419200,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161238,
+      "num": 161238,
+      "word": "时代少年团三专",
+      "onboard_time": 1739091859,
+      "rank": 35,
+      "category": "音乐,艺人"
     },
     {
       "raw_hot": 161177,
@@ -16971,6 +17051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141652,
+      "num": 233103,
+      "word": "赵睿担任中国男篮队长",
+      "onboard_time": 1739091439,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141613,
       "num": 141613,
       "word": "陈哲远希望大家都能感受到李瓒的美好",
@@ -17203,6 +17291,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 139190,
+      "num": 139190,
+      "word": "蓝猫",
+      "onboard_time": 1739091019,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 139014,
       "num": 139014,
       "word": "小孩一招救了妈妈继续玩游戏",
@@ -17315,6 +17411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137607,
+      "num": 137607,
+      "word": "石凯曾赔钱上节目",
+      "onboard_time": 1739090239,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137467,
       "num": 137467,
       "word": "爸爸刚喝一口就化身老戏骨",
@@ -17401,6 +17505,14 @@
       "onboard_time": 1738811844,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 136178,
+      "num": 136178,
+      "word": "前冬奥冠军说韩国短道素质太次了",
+      "onboard_time": 1739091260,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 136160,
@@ -17897,6 +18009,14 @@
       "onboard_time": 1739052851,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 130558,
+      "num": 175233,
+      "word": "台媒谈李现",
+      "onboard_time": 1739090420,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 130551,
@@ -18401,6 +18521,14 @@
       "onboard_time": 1739002224,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125838,
+      "num": 125838,
+      "word": "张伟丽头部打击命中数45次",
+      "onboard_time": 1739091679,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 125830,
@@ -19075,12 +19203,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118017,
+      "num": 118017,
+      "word": "陈哲远梁洁谁给同事这样道歉",
+      "onboard_time": 1739090720,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117752,
       "num": 335014,
       "word": "罗云熙和天津非遗一起唱新年祝福",
       "onboard_time": 1738381816,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117400,
+      "num": 117400,
+      "word": "王濛问咋给我们一顿组合拳",
+      "onboard_time": 1739092221,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 117273,
@@ -19161,6 +19305,14 @@
       "onboard_time": 1738539074,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 116249,
+      "num": 195308,
+      "word": "医院能不能使用集采非中选原研药",
+      "onboard_time": 1739089880,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116174,
@@ -19513,6 +19665,14 @@
       "onboard_time": 1738636283,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 112301,
+      "num": 112301,
+      "word": "张伟丽给梁靖崑加油",
+      "onboard_time": 1739092759,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 112295,
@@ -20345,14 +20505,6 @@
       "onboard_time": 1738375336,
       "rank": 47,
       "category": "国内时政,互联网"
-    },
-    {
-      "raw_hot": 102990,
-      "num": 102990,
-      "word": "石凯曾赔钱上节目",
-      "onboard_time": 1739090239,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 102963,
@@ -21257,14 +21409,6 @@
       "onboard_time": 1738899567,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 90190,
-      "num": 195308,
-      "word": "医院能不能使用集采非中选原研药",
-      "onboard_time": 1739089880,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90106,
@@ -25027,6 +25171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25679,
+      "num": 1127059,
+      "word": "中国金牌9宫格",
+      "onboard_time": 1739091981,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 25598,
       "num": 71806,
       "word": "慕胥辞杀青特辑",
@@ -26540,6 +26692,9 @@
     },
     {
       "word": "#推动科技成果向现实生产力转化#"
+    },
+    {
+      "word": "#新时代东北全面振兴战略部署#"
     }
   ]
 }
