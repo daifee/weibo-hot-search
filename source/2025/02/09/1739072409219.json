@@ -1,0 +1,410 @@
+{
+  "runTime": 1739072409219,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 104896,
+        "num": 1016783,
+        "word": "四川宜宾山体滑坡救援现场",
+        "onboard_time": 1739071100,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 952285,
+        "num": 952285,
+        "word": "导演称哪吒2可能不太符合北美调性",
+        "onboard_time": 1739070199,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23327,
+        "num": 913729,
+        "word": "从冬奥到亚冬冰雪热燃起来了",
+        "onboard_time": 1739026292,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 884208,
+        "num": 884208,
+        "word": "饺子大学同学说多亏华西宿舍不停电",
+        "onboard_time": 1739066360,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 818897,
+        "num": 818897,
+        "word": "林孝埈无缘1000米决赛",
+        "onboard_time": 1739070800,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 639635,
+        "num": 639635,
+        "word": "政务大厅公职人员工作时间睡觉",
+        "onboard_time": 1739061498,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 834406,
+        "num": 619162,
+        "word": "于正新签两个短剧演员",
+        "onboard_time": 1739069239,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82983,
+        "num": 609794,
+        "word": "刘少昂超越",
+        "onboard_time": 1739071759,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 503191,
+        "num": 594929,
+        "word": "徐梦桃夺金",
+        "onboard_time": 1739070140,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132721,
+        "num": 560766,
+        "word": "挖机师傅24小时待命想救援",
+        "onboard_time": 1739070739,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 698050,
+        "num": 553893,
+        "word": "哪吒之魔童闹海票房破75亿",
+        "onboard_time": 1739062159,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1226132,
+        "num": 516995,
+        "word": "女子看不孕意外发现已怀孕7个月",
+        "onboard_time": 1739064139,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 515657,
+        "num": 515657,
+        "word": "四川山体滑坡29人失联",
+        "onboard_time": 1739056454,
+        "rank": 12,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 51804,
+        "num": 468718,
+        "word": "3D还原宜宾筠连山体滑坡现场",
+        "onboard_time": 1739071100,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 465056,
+        "num": 465056,
+        "word": "2月狗屎运最旺的星座",
+        "onboard_time": 1739067979,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 399847,
+        "num": 399847,
+        "word": "王楚钦离场时盯着大屏幕看了很久",
+        "onboard_time": 1739066540,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 358389,
+        "num": 358389,
+        "word": "幼儿园关停潮下的幼儿园园长",
+        "onboard_time": 1739071278,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336231,
+        "num": 336231,
+        "word": "全球票房榜",
+        "onboard_time": 1739059216,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143325,
+        "num": 335351,
+        "word": "四川山体滑坡救援进展",
+        "onboard_time": 1739070620,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58844,
+        "num": 324181,
+        "word": "四川筠连山体滑坡现场进行网格化搜救",
+        "onboard_time": 1739071460,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 620426,
+        "num": 318970,
+        "word": "51岁何炅的八块腹肌",
+        "onboard_time": 1739059336,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 615145,
+        "num": 308627,
+        "word": "赵樱子表白成毅",
+        "onboard_time": 1739063238,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307393,
+        "num": 307393,
+        "word": "看唐探1900从呲个大牙到拉个大脸",
+        "onboard_time": 1739070380,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 271436,
+        "num": 271436,
+        "word": "邓为海棠式演技",
+        "onboard_time": 1739070140,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256248,
+        "num": 256248,
+        "word": "美国遭遇15年来最严重流感季",
+        "onboard_time": 1739066419,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 250102,
+        "num": 250102,
+        "word": "袁咏仪张智霖结婚24周年",
+        "onboard_time": 1739070620,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230457,
+        "num": 230457,
+        "word": "女子得了流感硬抗3天变白肺",
+        "onboard_time": 1739038574,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221826,
+        "num": 221826,
+        "word": "外媒称哪吒2爆火是因中国人没钱旅游",
+        "onboard_time": 1739032398,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200627,
+        "num": 200627,
+        "word": "10万元钻石高铁上丢失乘警6分钟找回",
+        "onboard_time": 1739068460,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217168,
+        "num": 200359,
+        "word": "哪吒2进全球票房榜前50",
+        "onboard_time": 1739025022,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197213,
+        "num": 197213,
+        "word": "湖人到手的中锋没了",
+        "onboard_time": 1739070199,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51014,
+        "num": 194298,
+        "word": "赵一博烤冷面",
+        "onboard_time": 1739070199,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191435,
+        "num": 194124,
+        "word": "780余人已赴山体滑坡现场救援",
+        "onboard_time": 1739071699,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194078,
+        "num": 194078,
+        "word": "华为手表属于医疗器械可以医保付款",
+        "onboard_time": 1739050813,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185636,
+        "num": 185636,
+        "word": "王鹤棣代露娃 咸鱼飞升",
+        "onboard_time": 1739025622,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174433,
+        "num": 174433,
+        "word": "宜宾筠连滑坡山体垂直高差达437米",
+        "onboard_time": 1739071699,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172547,
+        "num": 172547,
+        "word": "林孝埈超越时全场沸腾欢呼",
+        "onboard_time": 1739069480,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168611,
+        "num": 168611,
+        "word": "才明白刘诗诗新剧英文名含义",
+        "onboard_time": 1739070979,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162418,
+        "num": 162418,
+        "word": "有导演称无量仙翁角色设计相当复杂",
+        "onboard_time": 1739059637,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157105,
+        "num": 157105,
+        "word": "小伙失恋半夜整理共享电瓶车",
+        "onboard_time": 1739069419,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143839,
+        "num": 143839,
+        "word": "四川宜宾山体滑坡原因",
+        "onboard_time": 1739056274,
+        "rank": 40,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 143238,
+        "num": 143238,
+        "word": "境外间谍拉拢核心岗位退休人员",
+        "onboard_time": 1739065340,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141021,
+        "num": 141021,
+        "word": "吒儿感谢成龙叔叔的鼓励",
+        "onboard_time": 1739061619,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139011,
+        "num": 139011,
+        "word": "种地吧早上好一起来和少年们开工",
+        "onboard_time": 1739070920,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126783,
+        "num": 126783,
+        "word": "吴倩六姊妹演技",
+        "onboard_time": 1739064020,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126191,
+        "num": 126191,
+        "word": "哪吒2票房超76亿",
+        "onboard_time": 1739072299,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115646,
+        "num": 115646,
+        "word": "用棉花替代真雪景区已关闭并致歉",
+        "onboard_time": 1739057955,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114917,
+        "num": 114917,
+        "word": "四川宜宾山体滑坡仍在持续",
+        "onboard_time": 1739062159,
+        "rank": 47,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 111862,
+        "num": 111862,
+        "word": "王曼昱等比例长大",
+        "onboard_time": 1739072181,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109768,
+        "num": 109768,
+        "word": "六姊妹的瓜吃完一个还一个",
+        "onboard_time": 1739072360,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#深入落实推动新时代东北全面振兴战略部署#"
+    }
+  }
+}
