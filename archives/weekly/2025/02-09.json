@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739085589021,
+  "endTime": 1739086524442,
   "band_list": [
     {
       "raw_hot": 2727035,
@@ -75,6 +75,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1076552,
+      "num": 1076552,
+      "word": "哪吒番外篇完全不输正片",
+      "onboard_time": 1739082680,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1054116,
       "num": 1054116,
       "word": "哪吒2进全球票房榜前50",
@@ -99,14 +107,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 960701,
-      "num": 960701,
-      "word": "哪吒番外篇完全不输正片",
-      "onboard_time": 1739082680,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 951191,
       "num": 525095,
       "word": "陈乔恩打电波脸肿了一个月",
@@ -121,6 +121,14 @@
       "onboard_time": 1739073320,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 889428,
+      "num": 261700,
+      "word": "演员李施嬅官宣分手",
+      "onboard_time": 1739085800,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 873545,
@@ -168,6 +176,14 @@
       "word": "张伟丽vs苏亚雷斯",
       "onboard_time": 1739065580,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 768375,
+      "num": 768375,
+      "word": "韩国队犯规取消成绩",
+      "onboard_time": 1739082020,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -233,14 +249,6 @@
       "onboard_time": 1739038574,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 641796,
-      "num": 641796,
-      "word": "韩国队犯规取消成绩",
-      "onboard_time": 1739082020,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 621577,
@@ -363,12 +371,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 499992,
+      "num": 378758,
+      "word": "陈乔恩否认整容",
+      "onboard_time": 1739083098,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 498946,
       "num": 480585,
       "word": "袁咏仪张智霖结婚24周年",
       "onboard_time": 1739070620,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 497927,
+      "num": 314675,
+      "word": "哪吒2已超78亿",
+      "onboard_time": 1739085078,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 497112,
@@ -385,14 +409,6 @@
       "onboard_time": 1739080581,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 485816,
-      "num": 378758,
-      "word": "陈乔恩否认整容",
-      "onboard_time": 1739083098,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 480811,
@@ -595,12 +611,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 305589,
+      "num": 416144,
+      "word": "村民尝试搬巨石救人被划伤流血",
+      "onboard_time": 1739084540,
+      "rank": 8,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 305528,
       "num": 305528,
       "word": "中国短道速滑队2金2银4铜收官",
       "onboard_time": 1739079681,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 301101,
+      "num": 263626,
+      "word": "熊出没票房超过射雕",
+      "onboard_time": 1739085919,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 300458,
@@ -779,12 +811,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 216506,
-      "num": 216506,
-      "word": "哪吒2已超78亿",
-      "onboard_time": 1739085078,
-      "rank": 25,
-      "category": "电影"
+      "raw_hot": 215582,
+      "num": 178379,
+      "word": "武契奇专车行驶中后轮突然飞出",
+      "onboard_time": 1739083640,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 213448,
@@ -843,6 +875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 202829,
+      "num": 202829,
+      "word": "敖丙最好的朋友是谁呀",
+      "onboard_time": 1739083881,
+      "rank": 28,
+      "category": "动漫,电影"
+    },
+    {
       "raw_hot": 201690,
       "num": 201690,
       "word": "白大拿谈张伟丽对战苏亚雷斯",
@@ -891,14 +931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196854,
-      "num": 178379,
-      "word": "武契奇专车行驶中后轮突然飞出",
-      "onboard_time": 1739083640,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 195674,
       "num": 195674,
       "word": "这是一块金灿灿的铜牌",
@@ -937,14 +969,6 @@
       "onboard_time": 1739071699,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 189209,
-      "num": 189209,
-      "word": "敖丙最好的朋友是谁呀",
-      "onboard_time": 1739083881,
-      "rank": 28,
-      "category": "动漫,电影"
     },
     {
       "raw_hot": 187721,
@@ -993,6 +1017,14 @@
       "onboard_time": 1739076920,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 176977,
+      "num": 176977,
+      "word": "范可新再次亲吻了冰面",
+      "onboard_time": 1739084839,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 174896,
@@ -1067,12 +1099,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170536,
+      "num": 170536,
+      "word": "韩国队犯规垫底后有说有笑",
+      "onboard_time": 1739085680,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168611,
       "num": 168611,
       "word": "才明白刘诗诗新剧英文名含义",
       "onboard_time": 1739070979,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168553,
+      "num": 345851,
+      "word": "搜索贷款后接到银行电话被划走1万",
+      "onboard_time": 1739085141,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166006,
@@ -1091,6 +1139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164430,
+      "num": 164430,
+      "word": "林孝埈米兰冬奥见",
+      "onboard_time": 1739085380,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163020,
       "num": 163020,
       "word": "DeepSeek对普通人有什么机会",
@@ -1105,14 +1161,6 @@
       "onboard_time": 1739069419,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 160929,
-      "num": 158050,
-      "word": "范可新再次亲吻了冰面",
-      "onboard_time": 1739084839,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 159834,
@@ -1257,6 +1305,14 @@
       "onboard_time": 1739035155,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 147407,
+      "num": 147407,
+      "word": "国产剧终于有不靠男主救的女主了",
+      "onboard_time": 1739086160,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 147030,
@@ -1451,6 +1507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125325,
+      "num": 125325,
+      "word": "孙龙说韩国队薅倒了两名中国运动员",
+      "onboard_time": 1739086278,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124782,
       "num": 124782,
       "word": "王楚钦自己淋过雨想为别人撑把伞",
@@ -1491,14 +1555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 120332,
-      "num": 120332,
-      "word": "林孝埈米兰冬奥见",
-      "onboard_time": 1739085380,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 119613,
       "num": 119613,
       "word": "官方通报女子酒店泡澡遭无人机偷拍",
@@ -1537,6 +1593,14 @@
       "onboard_time": 1739065999,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115499,
+      "num": 908006,
+      "word": "四川山体滑坡已致1人遇难",
+      "onboard_time": 1739084659,
+      "rank": 9,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 114654,
@@ -1601,14 +1665,6 @@
       "onboard_time": 1739033597,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 105120,
-      "num": 410912,
-      "word": "四川山体滑坡已致1人遇难",
-      "onboard_time": 1739084659,
-      "rank": 9,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 104570,
@@ -1753,22 +1809,6 @@
       "onboard_time": 1739009604,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 71673,
-      "num": 416144,
-      "word": "村民尝试搬巨石救人被划伤流血",
-      "onboard_time": 1739084540,
-      "rank": 8,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 71570,
-      "num": 345851,
-      "word": "搜索贷款后接到银行电话被划走1万",
-      "onboard_time": 1739085141,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 65603,
@@ -2017,6 +2057,14 @@
       "onboard_time": 1739049491,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 22404,
+      "num": 218192,
+      "word": "张云雷曾多次被私生饭追拍",
+      "onboard_time": 1739085740,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 20178,

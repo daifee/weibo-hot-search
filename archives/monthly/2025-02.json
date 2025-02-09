@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739085589021,
+  "endTime": 1739086524442,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1555,6 +1555,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1076552,
+      "num": 1076552,
+      "word": "哪吒番外篇完全不输正片",
+      "onboard_time": 1739082680,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1068760,
       "num": 581574,
       "word": "武艺结婚要求伴郎170以上",
@@ -1891,14 +1899,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 960701,
-      "num": 960701,
-      "word": "哪吒番外篇完全不输正片",
-      "onboard_time": 1739082680,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 958481,
       "num": 759347,
       "word": "孤注一掷",
@@ -2113,6 +2113,14 @@
       "onboard_time": 1738902566,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 889428,
+      "num": 261700,
+      "word": "演员李施嬅官宣分手",
+      "onboard_time": 1739085800,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 876498,
@@ -2577,6 +2585,14 @@
       "onboard_time": 1738820366,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 768375,
+      "num": 768375,
+      "word": "韩国队犯规取消成绩",
+      "onboard_time": 1739082020,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 762115,
@@ -3257,14 +3273,6 @@
       "onboard_time": 1738731625,
       "rank": 5,
       "category": "财经"
-    },
-    {
-      "raw_hot": 641796,
-      "num": 641796,
-      "word": "韩国队犯规取消成绩",
-      "onboard_time": 1739082020,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 641071,
@@ -4443,6 +4451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 499992,
+      "num": 378758,
+      "word": "陈乔恩否认整容",
+      "onboard_time": 1739083098,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 499376,
       "num": 499376,
       "word": "中国队短道速滑2000米接力意外摔倒",
@@ -4497,6 +4513,14 @@
       "onboard_time": 1738551558,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 497927,
+      "num": 314675,
+      "word": "哪吒2已超78亿",
+      "onboard_time": 1739085078,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 497916,
@@ -4680,14 +4704,6 @@
       "word": "张卫健60岁状态",
       "onboard_time": 1739015063,
       "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 485816,
-      "num": 378758,
-      "word": "陈乔恩否认整容",
-      "onboard_time": 1739083098,
-      "rank": 22,
       "category": "艺人"
     },
     {
@@ -7475,6 +7491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 305589,
+      "num": 416144,
+      "word": "村民尝试搬巨石救人被划伤流血",
+      "onboard_time": 1739084540,
+      "rank": 8,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 305528,
       "num": 305528,
       "word": "中国短道速滑队2金2银4铜收官",
@@ -7577,6 +7601,14 @@
       "onboard_time": 1738899448,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 301101,
+      "num": 263626,
+      "word": "熊出没票房超过射雕",
+      "onboard_time": 1739085919,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 300959,
@@ -10435,14 +10467,6 @@
       "category": "国内时政,电影"
     },
     {
-      "raw_hot": 216506,
-      "num": 216506,
-      "word": "哪吒2已超78亿",
-      "onboard_time": 1739085078,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 216342,
       "num": 216342,
       "word": "哪吒番外木吒救过申小豹",
@@ -10513,6 +10537,14 @@
       "onboard_time": 1738820068,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 215582,
+      "num": 178379,
+      "word": "武契奇专车行驶中后轮突然飞出",
+      "onboard_time": 1739083640,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 215505,
@@ -11387,6 +11419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202829,
+      "num": 202829,
+      "word": "敖丙最好的朋友是谁呀",
+      "onboard_time": 1739083881,
+      "rank": 28,
+      "category": "动漫,电影"
+    },
+    {
       "raw_hot": 202683,
       "num": 202683,
       "word": "江浙沪爸爸对猫都是这个态度吗",
@@ -11833,14 +11873,6 @@
       "onboard_time": 1738742783,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196854,
-      "num": 178379,
-      "word": "武契奇专车行驶中后轮突然飞出",
-      "onboard_time": 1739083640,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 196742,
@@ -12537,14 +12569,6 @@
       "onboard_time": 1738834104,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 189209,
-      "num": 189209,
-      "word": "敖丙最好的朋友是谁呀",
-      "onboard_time": 1739083881,
-      "rank": 28,
-      "category": "动漫,电影"
     },
     {
       "raw_hot": 189189,
@@ -13571,6 +13595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176977,
+      "num": 176977,
+      "word": "范可新再次亲吻了冰面",
+      "onboard_time": 1739084839,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176872,
       "num": 171795,
       "word": "电影射雕英雄传侠之大者",
@@ -14083,6 +14115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170536,
+      "num": 170536,
+      "word": "韩国队犯规垫底后有说有笑",
+      "onboard_time": 1739085680,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170488,
       "num": 170488,
       "word": "国际乒联",
@@ -14265,6 +14305,14 @@
       "onboard_time": 1739070979,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168553,
+      "num": 345851,
+      "word": "搜索贷款后接到银行电话被划走1万",
+      "onboard_time": 1739085141,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168481,
@@ -14561,6 +14609,14 @@
       "onboard_time": 1738743984,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 164430,
+      "num": 164430,
+      "word": "林孝埈米兰冬奥见",
+      "onboard_time": 1739085380,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 164189,
@@ -14913,14 +14969,6 @@
       "onboard_time": 1738833022,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 160929,
-      "num": 158050,
-      "word": "范可新再次亲吻了冰面",
-      "onboard_time": 1739084839,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 160915,
@@ -16137,6 +16185,14 @@
       "onboard_time": 1738982601,
       "rank": 42,
       "category": "民生新闻,电影"
+    },
+    {
+      "raw_hot": 147407,
+      "num": 147407,
+      "word": "国产剧终于有不靠男主救的女主了",
+      "onboard_time": 1739086160,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 147320,
@@ -18243,6 +18299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 125325,
+      "num": 125325,
+      "word": "孙龙说韩国队薅倒了两名中国运动员",
+      "onboard_time": 1739086278,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125105,
       "num": 477028,
       "word": "孙颖莎王楚钦最新训练画面",
@@ -18675,14 +18739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120332,
-      "num": 120332,
-      "word": "林孝埈米兰冬奥见",
-      "onboard_time": 1739085380,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 120284,
       "num": 120284,
       "word": "DeepSeek满血版高速专线",
@@ -19041,6 +19097,14 @@
       "onboard_time": 1738763966,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115499,
+      "num": 908006,
+      "word": "四川山体滑坡已致1人遇难",
+      "onboard_time": 1739084659,
+      "rank": 9,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 115482,
@@ -19993,14 +20057,6 @@
       "onboard_time": 1738469958,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 105120,
-      "num": 410912,
-      "word": "四川山体滑坡已致1人遇难",
-      "onboard_time": 1739084659,
-      "rank": 9,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 105109,
@@ -21915,28 +21971,12 @@
       "category": "民生新闻,美食"
     },
     {
-      "raw_hot": 71673,
-      "num": 416144,
-      "word": "村民尝试搬巨石救人被划伤流血",
-      "onboard_time": 1739084540,
-      "rank": 8,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 71580,
       "num": 374910,
       "word": "第五代EA888机皇",
       "onboard_time": 1738758564,
       "rank": 34,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 71570,
-      "num": 345851,
-      "word": "搜索贷款后接到银行电话被划走1万",
-      "onboard_time": 1739085141,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 71523,
@@ -25057,6 +25097,14 @@
       "onboard_time": 1738349415,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 22404,
+      "num": 218192,
+      "word": "张云雷曾多次被私生饭追拍",
+      "onboard_time": 1739085740,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 22284,
