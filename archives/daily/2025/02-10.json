@@ -1,6 +1,6 @@
 {
   "startTime": 1739118284788,
-  "endTime": 1739133341139,
+  "endTime": 1739136014944,
   "band_list": [
     {
       "raw_hot": 1278985,
@@ -225,6 +225,14 @@
       "onboard_time": 1739109322,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162752,
+      "num": 162752,
+      "word": "哪吒2距全球影史票房榜1差一百多亿",
+      "onboard_time": 1739135411,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 151022,
@@ -515,6 +523,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18926,
+      "num": 18926,
+      "word": "全网首部观看人数破亿短剧",
+      "onboard_time": 1739131031,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 18374,
+      "num": 38715,
+      "word": "山东一交警被无证司机冲撞不幸牺牲",
+      "onboard_time": 1739135411,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17316,
       "num": 202732,
       "word": "中国队一天5次包揽金银铜",
@@ -555,12 +579,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14402,
-      "num": 17237,
-      "word": "全网首部观看人数破亿短剧",
-      "onboard_time": 1739131031,
-      "rank": 46,
-      "category": "剧集"
+      "raw_hot": 12553,
+      "num": 15054,
+      "word": "超话心动贴贴大会",
+      "onboard_time": 1739127192,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 8261,
