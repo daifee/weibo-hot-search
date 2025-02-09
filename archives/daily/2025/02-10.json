@@ -1,6 +1,6 @@
 {
   "startTime": 1739118284788,
-  "endTime": 1739139652107,
+  "endTime": 1739140652993,
   "band_list": [
     {
       "raw_hot": 1278985,
@@ -99,6 +99,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 351575,
+      "num": 484186,
+      "word": "哪吒2距全球影史票房榜1差一百多亿",
+      "onboard_time": 1739135411,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 336686,
       "num": 336686,
       "word": "男子用40万转账表情包套走8000元",
@@ -153,14 +161,6 @@
       "onboard_time": 1739108542,
       "rank": 16,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 270473,
-      "num": 383553,
-      "word": "哪吒2距全球影史票房榜1差一百多亿",
-      "onboard_time": 1739135411,
-      "rank": 0,
-      "category": "电影"
     },
     {
       "raw_hot": 251663,
@@ -323,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114515,
+      "num": 114515,
+      "word": "山东一交警被无证司机冲撞不幸牺牲",
+      "onboard_time": 1739135411,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107817,
       "num": 124043,
       "word": "男孩被卖时亲眼看见养父母付了200元",
@@ -393,14 +401,6 @@
       "onboard_time": 1739108422,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 92406,
-      "num": 92406,
-      "word": "山东一交警被无证司机冲撞不幸牺牲",
-      "onboard_time": 1739135411,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 85084,
@@ -475,6 +475,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 34103,
+      "num": 34103,
+      "word": "7小孩玩火引发森林火情家长赔145万",
+      "onboard_time": 1739138651,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28952,
+      "num": 28952,
+      "word": "全网首部观看人数破亿短剧",
+      "onboard_time": 1739131031,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 27909,
       "num": 523601,
       "word": "中国队短道速滑女子3000米接力金牌",
@@ -497,14 +513,6 @@
       "onboard_time": 1739126112,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 24462,
-      "num": 24462,
-      "word": "全网首部观看人数破亿短剧",
-      "onboard_time": 1739131031,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 22521,
@@ -531,12 +539,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 20291,
-      "num": 20291,
-      "word": "7小孩玩火引发森林火情家长赔145万",
-      "onboard_time": 1739138651,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 21150,
+      "num": 21268,
+      "word": "斗破苍穹",
+      "onboard_time": 1739126533,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 19263,
@@ -545,14 +553,6 @@
       "onboard_time": 1739121915,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18698,
-      "num": 21268,
-      "word": "斗破苍穹",
-      "onboard_time": 1739126533,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 17316,

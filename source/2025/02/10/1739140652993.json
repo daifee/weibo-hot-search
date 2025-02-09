@@ -1,0 +1,410 @@
+{
+  "runTime": 1739140652993,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 351575,
+        "num": 484186,
+        "word": "哪吒2距全球影史票房榜1差一百多亿",
+        "onboard_time": 1739135411,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 258849,
+        "num": 258849,
+        "word": "丽江机场被曝撕头等舱乘客登机牌",
+        "onboard_time": 1739113283,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15682,
+        "num": 144965,
+        "word": "中国队短道速滑女子3000米接力金牌",
+        "onboard_time": 1739106321,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130034,
+        "num": 130034,
+        "word": "丽江机场道歉",
+        "onboard_time": 1739117659,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128347,
+        "num": 128347,
+        "word": "美国观众谈看完哪吒2感受",
+        "onboard_time": 1739114782,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114515,
+        "num": 114515,
+        "word": "山东一交警被无证司机冲撞不幸牺牲",
+        "onboard_time": 1739135411,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85503,
+        "num": 85503,
+        "word": "2024年全国结婚登记610.6万对",
+        "onboard_time": 1739108782,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79323,
+        "num": 79323,
+        "word": "为什么不建议躺着刷手机",
+        "onboard_time": 1739109801,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72470,
+        "num": 72470,
+        "word": "金钟仁退伍",
+        "onboard_time": 1739117659,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68650,
+        "num": 68650,
+        "word": "男子用40万转账表情包套走8000元",
+        "onboard_time": 1739103146,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68308,
+        "num": 68308,
+        "word": "吴磊赵露思 三搭",
+        "onboard_time": 1739110345,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54740,
+        "num": 54740,
+        "word": "封神2否认找外包公司4500元制作殷郊法相特效",
+        "onboard_time": 1739119756,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 52433,
+        "num": 52433,
+        "word": "马斯克谈DeepSeek",
+        "onboard_time": 1739108542,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 50204,
+        "num": 50204,
+        "word": "敖光",
+        "onboard_time": 1739118019,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 50202,
+        "num": 50202,
+        "word": "88岁老人卖废品不够标准老板仍买下",
+        "onboard_time": 1739123114,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46170,
+        "num": 46170,
+        "word": "主人取回狗狗被要求不准带货接广告",
+        "onboard_time": 1739103982,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 37829,
+        "num": 37829,
+        "word": "木青燃气灶分手",
+        "onboard_time": 1739114182,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 35201,
+        "num": 35201,
+        "word": "林诗栋新世一",
+        "onboard_time": 1739104223,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34351,
+        "num": 34351,
+        "word": "40万新车被小孩引燃车主又订了一辆",
+        "onboard_time": 1739101342,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34103,
+        "num": 34103,
+        "word": "7小孩玩火引发森林火情家长赔145万",
+        "onboard_time": 1739138651,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76734,
+        "num": 33941,
+        "word": "王濛发视频怒斥韩国选手推搡林孝埈",
+        "onboard_time": 1739117958,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49922,
+        "num": 33838,
+        "word": "真的不要把肉泡水里解冻了",
+        "onboard_time": 1739111303,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 36471,
+        "num": 33741,
+        "word": "王一博谁会跟一只岩羊过不去",
+        "onboard_time": 1739109082,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35305,
+        "num": 33454,
+        "word": "男孩被卖时亲眼看见养父母付了200元",
+        "onboard_time": 1739095759,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33401,
+        "num": 33401,
+        "word": "哪吒2再破81亿",
+        "onboard_time": 1739110221,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32555,
+        "num": 32555,
+        "word": "潘宏基地回应限制主人取回狗狗",
+        "onboard_time": 1739108482,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 30993,
+        "num": 30993,
+        "word": "木青",
+        "onboard_time": 1739116941,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 29748,
+        "num": 29748,
+        "word": "哪吒2的这棵树含人量太高了",
+        "onboard_time": 1739113222,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29360,
+        "num": 29360,
+        "word": "赵露思穿搭被清华大学老师上课介绍",
+        "onboard_time": 1739100320,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28952,
+        "num": 28952,
+        "word": "全网首部观看人数破亿短剧",
+        "onboard_time": 1739131031,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28602,
+        "num": 28602,
+        "word": "许昕感叹林诗栋世界第一太年轻了",
+        "onboard_time": 1739111603,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27967,
+        "num": 27967,
+        "word": "2024年全国结婚登记数再度下探",
+        "onboard_time": 1739109322,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27545,
+        "num": 27545,
+        "word": "石矶娘娘的配音竟是公司行政",
+        "onboard_time": 1739102843,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25868,
+        "num": 25868,
+        "word": "做完近视手术第二天的真实感受",
+        "onboard_time": 1739105784,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24177,
+        "num": 24177,
+        "word": "一直躺着玩手机双眼度数相差400",
+        "onboard_time": 1739112263,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23236,
+        "num": 23236,
+        "word": "韩媒报道韩国队犯规画风竟是这样的",
+        "onboard_time": 1739103146,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22789,
+        "num": 22789,
+        "word": "哪吒2票房超90亿将进入全球影史前30",
+        "onboard_time": 1739107822,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 21762,
+        "num": 21762,
+        "word": "要不说周杰伦是天才呢",
+        "onboard_time": 1739108121,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21378,
+        "num": 21378,
+        "word": "南京地铁10号线邀请钱七虎指导抢修",
+        "onboard_time": 1739119457,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21150,
+        "num": 21150,
+        "word": "斗破苍穹",
+        "onboard_time": 1739126533,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 20779,
+        "num": 20779,
+        "word": "超2000万人申请国补买手机等",
+        "onboard_time": 1739116460,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 20191,
+        "num": 20191,
+        "word": "封神2视效声明",
+        "onboard_time": 1739111842,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19962,
+        "num": 19962,
+        "word": "你的每一步都在重新定义自己的边界",
+        "onboard_time": 1739119996,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19945,
+        "num": 19945,
+        "word": "孙颖莎新加坡夺冠后发博",
+        "onboard_time": 1739111362,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17903,
+        "num": 19945,
+        "word": "难哄",
+        "onboard_time": 1739114962,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17414,
+        "num": 19931,
+        "word": "敖丙",
+        "onboard_time": 1739104043,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17303,
+        "num": 19918,
+        "word": "浪姐6名单",
+        "onboard_time": 1739092279,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14920,
+        "num": 19897,
+        "word": "藕饼",
+        "onboard_time": 1739117420,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13027,
+        "num": 19887,
+        "word": "董思成古装",
+        "onboard_time": 1739116520,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13602,
+        "num": 19883,
+        "word": "哪吒之魔童闹海新年集福卡",
+        "onboard_time": 1739126112,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记擘画新时代东北全面振兴#"
+    }
+  }
+}
