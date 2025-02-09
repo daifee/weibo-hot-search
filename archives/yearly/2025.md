@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/02/09 22:35:51
+本榜单时间：2025/01/01 00:26:38 ~ 2025/02/09 23:23:03
 </p>
 </blockquote>
 <p>
@@ -1281,6 +1281,12 @@ TikTok停止在美服务（热度：2463156）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E5%85%A8%E5%9B%BD%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0610.6%E4%B8%87%E5%AF%B9%23" target="weibo">
+2024年全国结婚登记610.6万对（热度：2367503）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%94%90%E5%AE%98%E5%AE%A3%E6%81%8B%E6%83%85%23" target="weibo">
 周锐官宣恋情（热度：2363224）
 </a>
@@ -1787,12 +1793,6 @@ Ok 咱们线上（热度：2051932）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89TikTok%E7%A6%81%E4%BB%A4%E6%9C%80%E6%96%B0%E8%A1%A8%E6%80%81%23" target="weibo">
 特朗普涉TikTok禁令最新表态（热度：2022883）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E5%85%A8%E5%9B%BD%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0610.6%E4%B8%87%E5%AF%B9%23" target="weibo">
-2024年全国结婚登记610.6万对（热度：2018935）
 </a>
 </li>
 

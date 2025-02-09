@@ -1,0 +1,410 @@
+{
+  "runTime": 1739114583284,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2367503,
+        "num": 2367503,
+        "word": "2024年全国结婚登记610.6万对",
+        "onboard_time": 1739108782,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1931139,
+        "num": 1931139,
+        "word": "吴磊赵露思 三搭",
+        "onboard_time": 1739110345,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143343,
+        "num": 1913728,
+        "word": "三面五星红旗一起升起",
+        "onboard_time": 1739106743,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1910847,
+        "num": 1910847,
+        "word": "为什么不建议躺着刷手机",
+        "onboard_time": 1739109801,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1862522,
+        "num": 1862522,
+        "word": "哪吒2再破81亿",
+        "onboard_time": 1739110221,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 612896,
+        "num": 612896,
+        "word": "男子用40万转账表情包套走8000元",
+        "onboard_time": 1739103146,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 649959,
+        "num": 612866,
+        "word": "敖丙",
+        "onboard_time": 1739104043,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 622192,
+        "num": 612466,
+        "word": "石矶娘娘的配音竟是公司行政",
+        "onboard_time": 1739102843,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 595245,
+        "num": 595245,
+        "word": "林诗栋新世一",
+        "onboard_time": 1739104223,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 506568,
+        "num": 506568,
+        "word": "2024年全国结婚登记数再度下探",
+        "onboard_time": 1739109322,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 644872,
+        "num": 504788,
+        "word": "马斯克谈DeepSeek",
+        "onboard_time": 1739108542,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 585473,
+        "num": 503914,
+        "word": "丽江机场被曝撕头等舱乘客登机牌",
+        "onboard_time": 1739113283,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 483307,
+        "num": 483307,
+        "word": "一直躺着玩手机双眼度数相差400",
+        "onboard_time": 1739112263,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 483163,
+        "num": 483163,
+        "word": "哪吒2海外首映有观众哭花妆",
+        "onboard_time": 1739110884,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 39876,
+        "num": 466941,
+        "word": "男子雅姆雪山失联55小时后获救",
+        "onboard_time": 1739113583,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 462787,
+        "num": 462787,
+        "word": "赵露思穿搭被清华大学老师上课介绍",
+        "onboard_time": 1739100320,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372611,
+        "num": 372611,
+        "word": "孙颖莎新加坡夺冠后发博",
+        "onboard_time": 1739111362,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225478,
+        "num": 225478,
+        "word": "林诗栋才19岁",
+        "onboard_time": 1739108121,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16867,
+        "num": 224714,
+        "word": "东亚女霸总凭啥总要爱情拯救",
+        "onboard_time": 1739113822,
+        "rank": 18,
+        "category": "剧集,民生新闻"
+      },
+      {
+        "raw_hot": 58050,
+        "num": 224380,
+        "word": "大蘑菇团建",
+        "onboard_time": 1739113701,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425052,
+        "num": 223134,
+        "word": "王一博谁会跟一只岩羊过不去",
+        "onboard_time": 1739109082,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373555,
+        "num": 222203,
+        "word": "哪吒2票房超90亿将进入全球影史前30",
+        "onboard_time": 1739107822,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 342510,
+        "num": 220359,
+        "word": "真的不要把肉泡水里解冻了",
+        "onboard_time": 1739111303,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 295578,
+        "num": 219837,
+        "word": "哪吒2的这棵树含人量太高了",
+        "onboard_time": 1739113222,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115243,
+        "num": 217991,
+        "word": "刘国正称赞孙颖莎坚定果断",
+        "onboard_time": 1739104821,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39994,
+        "num": 217686,
+        "word": "泰国总理感谢中国女保镖",
+        "onboard_time": 1739114242,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 323320,
+        "num": 216330,
+        "word": "封神2视效声明",
+        "onboard_time": 1739111842,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 313167,
+        "num": 214914,
+        "word": "要不说周杰伦是天才呢",
+        "onboard_time": 1739108121,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278721,
+        "num": 213929,
+        "word": "许昕感叹林诗栋世界第一太年轻了",
+        "onboard_time": 1739111603,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259183,
+        "num": 213375,
+        "word": "申公豹的腰",
+        "onboard_time": 1739114122,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 259042,
+        "num": 212217,
+        "word": "主人取回狗狗被要求不准带货接广告",
+        "onboard_time": 1739103982,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 255237,
+        "num": 211006,
+        "word": "做完近视手术第二天的真实感受",
+        "onboard_time": 1739105784,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248313,
+        "num": 209347,
+        "word": "浪姐6名单",
+        "onboard_time": 1739092279,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209248,
+        "num": 209248,
+        "word": "尹美莱 浪姐6",
+        "onboard_time": 1739100261,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202387,
+        "num": 202387,
+        "word": "好莱坞制片人盛赞哪吒是大片",
+        "onboard_time": 1739111902,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199149,
+        "num": 199149,
+        "word": "木青燃气灶分手",
+        "onboard_time": 1739114182,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 193550,
+        "num": 193550,
+        "word": "你们看过哪吒4D的人嘴是真严啊",
+        "onboard_time": 1739111782,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192660,
+        "num": 192660,
+        "word": "逐玉",
+        "onboard_time": 1739110761,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192317,
+        "num": 192317,
+        "word": "林诗栋夺冠获54.7万奖金",
+        "onboard_time": 1739109262,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186536,
+        "num": 186536,
+        "word": "孙颖莎假装擦球桌太可爱了",
+        "onboard_time": 1739108422,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170941,
+        "num": 170941,
+        "word": "潘宏基地回应限制主人取回狗狗",
+        "onboard_time": 1739108482,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 167678,
+        "num": 167678,
+        "word": "外国网友要把奥斯卡颁给易烊千玺",
+        "onboard_time": 1739112504,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156665,
+        "num": 156665,
+        "word": "男孩被卖时亲眼看见养父母付了200元",
+        "onboard_time": 1739095759,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153999,
+        "num": 153999,
+        "word": "40万新车被小孩引燃车主又订了一辆",
+        "onboard_time": 1739101342,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146712,
+        "num": 146712,
+        "word": "孙颖莎丢分后拍了自己一巴掌",
+        "onboard_time": 1739101401,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146321,
+        "num": 146321,
+        "word": "曝大热cp二搭全是三个字",
+        "onboard_time": 1739104461,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128724,
+        "num": 128724,
+        "word": "孙颖莎夺冠后说谢谢大家来加油",
+        "onboard_time": 1739112322,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119710,
+        "num": 119710,
+        "word": "牙周病患者脑卒中可能性大增",
+        "onboard_time": 1739108182,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119403,
+        "num": 119403,
+        "word": "韩媒报道韩国队犯规画风竟是这样的",
+        "onboard_time": 1739103146,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118457,
+        "num": 118457,
+        "word": "3500年前的口红用牛心制作",
+        "onboard_time": 1739114480,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记擘画新时代东北全面振兴#"
+    }
+  }
+}

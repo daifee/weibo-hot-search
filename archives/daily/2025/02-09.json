@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739111751382,
+  "endTime": 1739114583284,
   "band_list": [
     {
       "raw_hot": 3533201,
@@ -19,20 +19,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2367503,
+      "num": 2367503,
+      "word": "2024年全国结婚登记610.6万对",
+      "onboard_time": 1739108782,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2085747,
       "num": 2085747,
       "word": "熊出没票房超过射雕",
       "onboard_time": 1739085919,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 2018935,
-      "num": 2018935,
-      "word": "2024年全国结婚登记610.6万对",
-      "onboard_time": 1739108782,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1965177,
@@ -49,6 +49,30 @@
       "onboard_time": 1739078179,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1931139,
+      "num": 1931139,
+      "word": "吴磊赵露思 三搭",
+      "onboard_time": 1739110345,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1910847,
+      "num": 1910847,
+      "word": "为什么不建议躺着刷手机",
+      "onboard_time": 1739109801,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1862522,
+      "num": 1862522,
+      "word": "哪吒2再破81亿",
+      "onboard_time": 1739110221,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 1851653,
@@ -89,14 +113,6 @@
       "onboard_time": 1739070199,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1532677,
-      "num": 1532677,
-      "word": "吴磊赵露思 三搭",
-      "onboard_time": 1739110345,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 1527377,
@@ -161,14 +177,6 @@
       "onboard_time": 1739071278,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1189953,
-      "num": 899372,
-      "word": "哪吒2再破81亿",
-      "onboard_time": 1739110221,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 1172015,
@@ -419,14 +427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 726725,
-      "num": 726725,
-      "word": "为什么不建议躺着刷手机",
-      "onboard_time": 1739109801,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 723649,
       "num": 723649,
       "word": "40万新车被小孩引燃车主又订了一辆",
@@ -603,6 +603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 585473,
+      "num": 503914,
+      "word": "丽江机场被曝撕头等舱乘客登机牌",
+      "onboard_time": 1739113283,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 585128,
       "num": 585128,
       "word": "WTT观众席疑似骑手团建",
@@ -747,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 506568,
+      "num": 532768,
+      "word": "2024年全国结婚登记数再度下探",
+      "onboard_time": 1739109322,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 499992,
       "num": 378758,
       "word": "陈乔恩否认整容",
@@ -793,6 +809,22 @@
       "onboard_time": 1739109082,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 483307,
+      "num": 483307,
+      "word": "一直躺着玩手机双眼度数相差400",
+      "onboard_time": 1739112263,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 483163,
+      "num": 483163,
+      "word": "哪吒2海外首映有观众哭花妆",
+      "onboard_time": 1739110884,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 480811,
@@ -939,6 +971,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 372611,
+      "num": 372611,
+      "word": "孙颖莎新加坡夺冠后发博",
+      "onboard_time": 1739111362,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 368144,
       "num": 439049,
       "word": "王嘉尔宣布回归",
@@ -977,6 +1017,14 @@
       "onboard_time": 1739077999,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 342510,
+      "num": 220607,
+      "word": "真的不要把肉泡水里解冻了",
+      "onboard_time": 1739111303,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 342132,
@@ -1025,6 +1073,14 @@
       "onboard_time": 1739099662,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 323320,
+      "num": 216330,
+      "word": "封神2视效声明",
+      "onboard_time": 1739111842,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 319902,
@@ -1155,6 +1211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 295578,
+      "num": 219837,
+      "word": "哪吒2的这棵树含人量太高了",
+      "onboard_time": 1739113222,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 294792,
       "num": 609794,
       "word": "刘少昂超越",
@@ -1243,6 +1307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 278721,
+      "num": 213929,
+      "word": "许昕感叹林诗栋世界第一太年轻了",
+      "onboard_time": 1739111603,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 278455,
       "num": 278455,
       "word": "台媒称看李现的剧想去云南定居",
@@ -1273,6 +1345,14 @@
       "onboard_time": 1739070140,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 259183,
+      "num": 213375,
+      "word": "申公豹的腰",
+      "onboard_time": 1739114122,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 259000,
@@ -1395,14 +1475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 228649,
-      "num": 532768,
-      "word": "2024年全国结婚登记数再度下探",
-      "onboard_time": 1739109322,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 228365,
       "num": 224737,
       "word": "以为正常其实是无意识的控糖行为",
@@ -1457,14 +1529,6 @@
       "onboard_time": 1739102303,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 220607,
-      "num": 220607,
-      "word": "真的不要把肉泡水里解冻了",
-      "onboard_time": 1739111303,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 220240,
@@ -1723,6 +1787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202387,
+      "num": 202387,
+      "word": "好莱坞制片人盛赞哪吒是大片",
+      "onboard_time": 1739111902,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 201690,
       "num": 201690,
       "word": "白大拿谈张伟丽对战苏亚雷斯",
@@ -1753,6 +1825,14 @@
       "onboard_time": 1739089220,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199149,
+      "num": 199149,
+      "word": "木青燃气灶分手",
+      "onboard_time": 1739114182,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 198496,
@@ -1859,6 +1939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 193550,
+      "num": 193550,
+      "word": "你们看过哪吒4D的人嘴是真严啊",
+      "onboard_time": 1739111782,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 193455,
       "num": 193455,
       "word": "石矶娘娘",
@@ -1873,14 +1961,6 @@
       "onboard_time": 1739023884,
       "rank": 19,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 193083,
-      "num": 193083,
-      "word": "孙颖莎新加坡夺冠后发博",
-      "onboard_time": 1739111362,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 192519,
@@ -1900,7 +1980,7 @@
     },
     {
       "raw_hot": 192223,
-      "num": 192223,
+      "num": 217991,
       "word": "刘国正称赞孙颖莎坚定果断",
       "onboard_time": 1739104821,
       "rank": 44,
@@ -2099,14 +2179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 173753,
-      "num": 410221,
-      "word": "哪吒2海外首映有观众哭花妆",
-      "onboard_time": 1739110884,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 173629,
       "num": 173629,
       "word": "蒯曼亚军",
@@ -2227,6 +2299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167678,
+      "num": 167678,
+      "word": "外国网友要把奥斯卡颁给易烊千玺",
+      "onboard_time": 1739112504,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 166006,
       "num": 166006,
       "word": "KPL",
@@ -2312,14 +2392,6 @@
       "word": "刘国梁给孙颖莎颁发冠军奖杯",
       "onboard_time": 1739100380,
       "rank": 17,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 158638,
-      "num": 158638,
-      "word": "许昕感叹林诗栋世界第一太年轻了",
-      "onboard_time": 1739111603,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -2595,6 +2667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143343,
+      "num": 1913728,
+      "word": "三面五星红旗一起升起",
+      "onboard_time": 1739106743,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142565,
       "num": 352043,
       "word": "向涵之春日仙感少女",
@@ -2771,6 +2851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128724,
+      "num": 128724,
+      "word": "孙颖莎夺冠后说谢谢大家来加油",
+      "onboard_time": 1739112322,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127211,
       "num": 127211,
       "word": "AI预测哪吒2全球票房前15",
@@ -2881,6 +2969,14 @@
       "onboard_time": 1739021123,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118457,
+      "num": 118457,
+      "word": "3500年前的口红用牛心制作",
+      "onboard_time": 1739114480,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 117400,
@@ -3024,14 +3120,6 @@
       "word": "新加坡大满贯女单颁奖典礼",
       "onboard_time": 1739105422,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 104936,
-      "num": 1592053,
-      "word": "三面五星红旗一起升起",
-      "onboard_time": 1739106743,
-      "rank": 2,
       "category": "体育"
     },
     {
@@ -3323,6 +3411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 58050,
+      "num": 224380,
+      "word": "大蘑菇团建",
+      "onboard_time": 1739113701,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 54607,
       "num": 388626,
       "word": "ZB1直播",
@@ -3392,6 +3488,22 @@
       "word": "武警已到达四川山体滑坡现场救援",
       "onboard_time": 1739037553,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39994,
+      "num": 217686,
+      "word": "泰国总理感谢中国女保镖",
+      "onboard_time": 1739114242,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 39876,
+      "num": 466941,
+      "word": "男子雅姆雪山失联55小时后获救",
+      "onboard_time": 1739113583,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -3633,6 +3745,14 @@
       "onboard_time": 1739033178,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 16867,
+      "num": 224714,
+      "word": "东亚女霸总凭啥总要爱情拯救",
+      "onboard_time": 1739113822,
+      "rank": 18,
+      "category": "剧集,民生新闻"
     },
     {
       "raw_hot": 15105,
