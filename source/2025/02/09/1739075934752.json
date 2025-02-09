@@ -1,0 +1,410 @@
+{
+  "runTime": 1739075934752,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1459862,
+        "num": 1459862,
+        "word": "导演称哪吒2可能不太符合北美调性",
+        "onboard_time": 1739070199,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1140669,
+        "num": 1140669,
+        "word": "幼儿园关停潮下的幼儿园园长",
+        "onboard_time": 1739071278,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21151,
+        "num": 1009795,
+        "word": "从冬奥到亚冬冰雪热燃起来了",
+        "onboard_time": 1739026292,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 915291,
+        "num": 915291,
+        "word": "两男子把垃圾倒进六年时间改造好的河里",
+        "onboard_time": 1739073320,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 559691,
+        "num": 559691,
+        "word": "于正新签两个短剧演员",
+        "onboard_time": 1739069239,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483304,
+        "num": 483304,
+        "word": "孙龙摔倒",
+        "onboard_time": 1739073739,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 506966,
+        "num": 481445,
+        "word": "哪吒2票房超76亿",
+        "onboard_time": 1739072299,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 485654,
+        "num": 474618,
+        "word": "饺子大学同学说多亏华西宿舍不停电",
+        "onboard_time": 1739066360,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32779,
+        "num": 473363,
+        "word": "布鲁尔金牌",
+        "onboard_time": 1739075540,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99040,
+        "num": 468472,
+        "word": "张伟丽vs苏亚雷斯",
+        "onboard_time": 1739065580,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 946895,
+        "num": 461213,
+        "word": "女子看不孕意外发现已怀孕7个月",
+        "onboard_time": 1739064139,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 498946,
+        "num": 458723,
+        "word": "袁咏仪张智霖结婚24周年",
+        "onboard_time": 1739070620,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26011,
+        "num": 451811,
+        "word": "徐梦桃再为中国队夺金",
+        "onboard_time": 1739072901,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38568,
+        "num": 448817,
+        "word": "四川山体滑坡民兵挨家挨户排查",
+        "onboard_time": 1739075299,
+        "rank": 13,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 143369,
+        "num": 443535,
+        "word": "一觉醒来爷爷先用后付下单54件商品",
+        "onboard_time": 1739074220,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 442012,
+        "num": 442012,
+        "word": "政务大厅公职人员工作时间睡觉",
+        "onboard_time": 1739061498,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 440312,
+        "num": 440312,
+        "word": "西施新皮肤首曝",
+        "onboard_time": 1739074100,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 369599,
+        "num": 440218,
+        "word": "刘少昂短道速滑1000米铜牌",
+        "onboard_time": 1739073739,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 372026,
+        "num": 439780,
+        "word": "哪吒之魔童闹海票房破75亿",
+        "onboard_time": 1739062159,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 317266,
+        "num": 439049,
+        "word": "王嘉尔宣布回归",
+        "onboard_time": 1739074820,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 779842,
+        "num": 438466,
+        "word": "51岁何炅的八块腹肌",
+        "onboard_time": 1739059336,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 444880,
+        "num": 438146,
+        "word": "林孝埈无缘1000米决赛",
+        "onboard_time": 1739070800,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 437811,
+        "num": 437811,
+        "word": "四川宜宾山体滑坡救援现场",
+        "onboard_time": 1739071100,
+        "rank": 22,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 288569,
+        "num": 288569,
+        "word": "仙台有树前8集演了别人一部剧",
+        "onboard_time": 1739073200,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275245,
+        "num": 275245,
+        "word": "2月狗屎运最旺的星座",
+        "onboard_time": 1739067979,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 269531,
+        "num": 269531,
+        "word": "短道速滑",
+        "onboard_time": 1739073620,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249988,
+        "num": 249988,
+        "word": "哪吒2这个画面一帧渲染了1.5小时",
+        "onboard_time": 1739075180,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185031,
+        "num": 246745,
+        "word": "男子造谣医院复活秦始皇被罚",
+        "onboard_time": 1739074580,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15105,
+        "num": 238802,
+        "word": "李晨 记录一下渔港的落日余晖",
+        "onboard_time": 1739075720,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208770,
+        "num": 237236,
+        "word": "卖伞人家却给不了孩子遮风避雨的家",
+        "onboard_time": 1739074701,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114485,
+        "num": 231608,
+        "word": "780余人已赴山体滑坡现场救援",
+        "onboard_time": 1739071699,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225697,
+        "num": 225697,
+        "word": "明日方舟",
+        "onboard_time": 1739073800,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225324,
+        "num": 225324,
+        "word": "何炅谢娜没个几十年交情都不敢这么玩",
+        "onboard_time": 1739074160,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219674,
+        "num": 219674,
+        "word": "全球票房榜",
+        "onboard_time": 1739059216,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200000,
+        "num": 200000,
+        "word": "赵樱子说要和粉丝公平竞争成毅",
+        "onboard_time": 1739075660,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198545,
+        "num": 198545,
+        "word": "春晚机器人要小心向佐了",
+        "onboard_time": 1739074400,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189997,
+        "num": 189997,
+        "word": "王楚钦离场时盯着大屏幕看了很久",
+        "onboard_time": 1739066540,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189589,
+        "num": 189589,
+        "word": "哪吒2进全球票房榜前50",
+        "onboard_time": 1739025022,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188384,
+        "num": 188384,
+        "word": "金秀贤抽烟路透",
+        "onboard_time": 1739074160,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182141,
+        "num": 182141,
+        "word": "徐梦桃夺金",
+        "onboard_time": 1739070140,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174919,
+        "num": 174919,
+        "word": "看唐探1900从呲个大牙到拉个大脸",
+        "onboard_time": 1739070380,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172301,
+        "num": 172301,
+        "word": "刘少昂超越",
+        "onboard_time": 1739071759,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172239,
+        "num": 172239,
+        "word": "逍遥游",
+        "onboard_time": 1739075480,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168496,
+        "num": 168496,
+        "word": "林孝埈孙龙1000米展团魂",
+        "onboard_time": 1739073979,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164954,
+        "num": 164954,
+        "word": "护滑",
+        "onboard_time": 1739074459,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152720,
+        "num": 152720,
+        "word": "外媒称哪吒2爆火是因中国人没钱旅游",
+        "onboard_time": 1739032398,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151324,
+        "num": 151324,
+        "word": "才明白刘诗诗新剧英文名含义",
+        "onboard_time": 1739070979,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145549,
+        "num": 145549,
+        "word": "短道速滑接力",
+        "onboard_time": 1739075900,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143546,
+        "num": 143546,
+        "word": "邓为海棠式演技",
+        "onboard_time": 1739070140,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140753,
+        "num": 140753,
+        "word": "四川山体滑坡29人失联",
+        "onboard_time": 1739056454,
+        "rank": 49,
+        "category": "突发/灾害"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对四川筠连山体滑坡作出重要指示#"
+    }
+  }
+}
