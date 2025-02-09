@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739083344673,
+  "endTime": 1739085589021,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1891,6 +1891,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 960701,
+      "num": 960701,
+      "word": "哪吒番外篇完全不输正片",
+      "onboard_time": 1739082680,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 958481,
       "num": 759347,
       "word": "孤注一掷",
@@ -1921,6 +1929,14 @@
       "onboard_time": 1738858462,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 951191,
+      "num": 525095,
+      "word": "陈乔恩打电波脸肿了一个月",
+      "onboard_time": 1739078301,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 941168,
@@ -2089,14 +2105,6 @@
       "onboard_time": 1738724601,
       "rank": 10,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 893308,
-      "num": 525095,
-      "word": "陈乔恩打电波脸肿了一个月",
-      "onboard_time": 1739078301,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 890110,
@@ -3019,6 +3027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 668620,
+      "num": 668620,
+      "word": "哪吒2票房超77亿",
+      "onboard_time": 1739080640,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 664917,
       "num": 664917,
       "word": "DeepSeek紧急说明",
@@ -3241,6 +3257,14 @@
       "onboard_time": 1738731625,
       "rank": 5,
       "category": "财经"
+    },
+    {
+      "raw_hot": 641796,
+      "num": 641796,
+      "word": "韩国队犯规取消成绩",
+      "onboard_time": 1739082020,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 641071,
@@ -3929,14 +3953,6 @@
       "onboard_time": 1738647201,
       "rank": 24,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 547265,
-      "num": 495674,
-      "word": "哪吒2票房超77亿",
-      "onboard_time": 1739080640,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 546700,
@@ -4664,6 +4680,14 @@
       "word": "张卫健60岁状态",
       "onboard_time": 1739015063,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 485816,
+      "num": 378758,
+      "word": "陈乔恩否认整容",
+      "onboard_time": 1739083098,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -5843,6 +5867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 395496,
+      "num": 395496,
+      "word": "女子信偏方生吞鱼胆致肝肾衰竭",
+      "onboard_time": 1739082260,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 395006,
       "num": 395006,
       "word": "王鸥试戏就奔着女一号去的",
@@ -6683,6 +6715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 342132,
+      "num": 342132,
+      "word": "孙龙采访",
+      "onboard_time": 1739083098,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 341510,
       "num": 341510,
       "word": "美国或将在中东打开潘多拉魔盒",
@@ -7193,14 +7233,6 @@
       "onboard_time": 1739027902,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 315637,
-      "num": 189543,
-      "word": "哪吒番外篇完全不输正片",
-      "onboard_time": 1739082680,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 315500,
@@ -8227,14 +8259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 272367,
-      "num": 467677,
-      "word": "韩国队犯规取消成绩",
-      "onboard_time": 1739082020,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 272270,
       "num": 272270,
       "word": "难哄",
@@ -8393,6 +8417,14 @@
       "onboard_time": 1738724901,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 266583,
+      "num": 462003,
+      "word": "定期存钱后睡眠开始变好",
+      "onboard_time": 1739081541,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 266062,
@@ -9451,6 +9483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235586,
+      "num": 235586,
+      "word": "面包店全体员工自愿为筠连加班",
+      "onboard_time": 1739083220,
+      "rank": 43,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 235419,
       "num": 175506,
       "word": "哪吒之魔童闹海影史春节档票房冠军",
@@ -10393,6 +10433,14 @@
       "onboard_time": 1738880532,
       "rank": 29,
       "category": "国内时政,电影"
+    },
+    {
+      "raw_hot": 216506,
+      "num": 216506,
+      "word": "哪吒2已超78亿",
+      "onboard_time": 1739085078,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 216342,
@@ -11787,6 +11835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196854,
+      "num": 178379,
+      "word": "武契奇专车行驶中后轮突然飞出",
+      "onboard_time": 1739083640,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 196742,
       "num": 160962,
       "word": "王楚钦建议提高WTT总决赛奖金",
@@ -12481,6 +12537,14 @@
       "onboard_time": 1738834104,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 189209,
+      "num": 189209,
+      "word": "敖丙最好的朋友是谁呀",
+      "onboard_time": 1739083881,
+      "rank": 28,
+      "category": "动漫,电影"
     },
     {
       "raw_hot": 189189,
@@ -13788,7 +13852,7 @@
     },
     {
       "raw_hot": 173030,
-      "num": 173030,
+      "num": 352155,
       "word": "赛琳娜和未婚夫去迪士尼",
       "onboard_time": 1739079142,
       "rank": 41,
@@ -13993,6 +14057,14 @@
       "onboard_time": 1738484297,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170641,
+      "num": 179955,
+      "word": "六姊妹11集哭死",
+      "onboard_time": 1739085019,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 170620,
@@ -14395,6 +14467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166006,
+      "num": 166006,
+      "word": "KPL",
+      "onboard_time": 1739084720,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165947,
       "num": 165947,
       "word": "苏新皓双人舞",
@@ -14464,6 +14544,14 @@
       "word": "川A川G不语只是一味堵车",
       "onboard_time": 1738569027,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164519,
+      "num": 460819,
+      "word": "男孩被拐养家不让上学自己挣钱读书",
+      "onboard_time": 1739082020,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -14609,6 +14697,14 @@
       "onboard_time": 1738816650,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163020,
+      "num": 163020,
+      "word": "DeepSeek对普通人有什么机会",
+      "onboard_time": 1739084899,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 162788,
@@ -14819,6 +14915,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 160929,
+      "num": 158050,
+      "word": "范可新再次亲吻了冰面",
+      "onboard_time": 1739084839,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160915,
       "num": 160915,
       "word": "恋与深空夏以昼",
@@ -14921,6 +15025,14 @@
       "onboard_time": 1739083220,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159818,
+      "num": 159818,
+      "word": "胡歌被贴脸开大",
+      "onboard_time": 1739083640,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 159635,
@@ -15603,14 +15715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152134,
-      "num": 152134,
-      "word": "面包店全体员工自愿为筠连加班",
-      "onboard_time": 1739083220,
-      "rank": 43,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 152076,
       "num": 152076,
       "word": "哪吒2动画制作团队在线摇人",
@@ -16059,6 +16163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 147030,
+      "num": 147030,
+      "word": "KPL上海新主场开幕",
+      "onboard_time": 1739084540,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 147003,
       "num": 147003,
       "word": "六姊妹小演员选角",
@@ -16073,14 +16185,6 @@
       "onboard_time": 1738829063,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 146902,
-      "num": 146902,
-      "word": "孙龙采访",
-      "onboard_time": 1739083098,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 146741,
@@ -16563,14 +16667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 142758,
-      "num": 460819,
-      "word": "男孩被拐养家不让上学自己挣钱读书",
-      "onboard_time": 1739082020,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 142715,
       "num": 142715,
       "word": "华为去年销售收入超8600亿",
@@ -16800,6 +16896,14 @@
       "word": "糖尿病患者将告别扎手指测血糖方式",
       "onboard_time": 1738855225,
       "rank": 31,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 140128,
+      "num": 140128,
+      "word": "没确诊甲流乙流别乱吃抗病毒药",
+      "onboard_time": 1739084960,
+      "rank": 42,
       "category": "健康医疗"
     },
     {
@@ -17169,14 +17273,6 @@
       "onboard_time": 1738737562,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 135438,
-      "num": 462003,
-      "word": "定期存钱后睡眠开始变好",
-      "onboard_time": 1739081541,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 135355,
@@ -18579,6 +18675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120332,
+      "num": 120332,
+      "word": "林孝埈米兰冬奥见",
+      "onboard_time": 1739085380,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120284,
       "num": 120284,
       "word": "DeepSeek满血版高速专线",
@@ -19891,6 +19995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105120,
+      "num": 410912,
+      "word": "四川山体滑坡已致1人遇难",
+      "onboard_time": 1739084659,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 105109,
       "num": 231034,
       "word": "极狐汽车才是车企界的真财神",
@@ -20577,14 +20689,6 @@
       "onboard_time": 1738470676,
       "rank": 18,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 96557,
-      "num": 226750,
-      "word": "陈乔恩否认整容",
-      "onboard_time": 1739083098,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 96552,
@@ -21811,12 +21915,28 @@
       "category": "民生新闻,美食"
     },
     {
+      "raw_hot": 71673,
+      "num": 416144,
+      "word": "村民尝试搬巨石救人被划伤流血",
+      "onboard_time": 1739084540,
+      "rank": 8,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 71580,
       "num": 374910,
       "word": "第五代EA888机皇",
       "onboard_time": 1738758564,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 71570,
+      "num": 345851,
+      "word": "搜索贷款后接到银行电话被划走1万",
+      "onboard_time": 1739085141,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71523,
@@ -21873,14 +21993,6 @@
       "onboard_time": 1738668565,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 70410,
-      "num": 287347,
-      "word": "女子信偏方生吞鱼胆致肝肾衰竭",
-      "onboard_time": 1739082260,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 70307,

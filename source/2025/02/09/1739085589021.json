@@ -1,0 +1,410 @@
+{
+  "runTime": 1739085589021,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1474739,
+        "num": 1474739,
+        "word": "韩国犯规",
+        "onboard_time": 1739079502,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 960701,
+        "num": 960701,
+        "word": "哪吒番外篇完全不输正片",
+        "onboard_time": 1739082680,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24525,
+        "num": 693042,
+        "word": "多图回顾亚冬会中国队夺金瞬间",
+        "onboard_time": 1739076980,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 668620,
+        "num": 668620,
+        "word": "哪吒2票房超77亿",
+        "onboard_time": 1739080640,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 641796,
+        "num": 641796,
+        "word": "韩国队犯规取消成绩",
+        "onboard_time": 1739082020,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 429992,
+        "num": 429992,
+        "word": "幼儿园关停潮下的幼儿园园长",
+        "onboard_time": 1739071278,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 587311,
+        "num": 429507,
+        "word": "金智媛姐不是装漂亮是真漂亮",
+        "onboard_time": 1739078301,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 467100,
+        "num": 422287,
+        "word": "哪吒2在美一票难求纽约华人发声",
+        "onboard_time": 1739077220,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 71673,
+        "num": 416144,
+        "word": "村民尝试搬巨石救人被划伤流血",
+        "onboard_time": 1739084540,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 105120,
+        "num": 410912,
+        "word": "四川山体滑坡已致1人遇难",
+        "onboard_time": 1739084659,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1416530,
+        "num": 407551,
+        "word": "苗苗生育状况写多子女",
+        "onboard_time": 1739078179,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 951191,
+        "num": 403763,
+        "word": "陈乔恩打电波脸肿了一个月",
+        "onboard_time": 1739078301,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435543,
+        "num": 398531,
+        "word": "女子看不孕意外发现已怀孕7个月",
+        "onboard_time": 1739064139,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 395496,
+        "num": 395496,
+        "word": "女子信偏方生吞鱼胆致肝肾衰竭",
+        "onboard_time": 1739082260,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383578,
+        "num": 383578,
+        "word": "朴知元干扰林孝埈",
+        "onboard_time": 1739080581,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 380734,
+        "num": 380734,
+        "word": "张伟丽战胜苏亚雷斯卫冕",
+        "onboard_time": 1739079142,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 485816,
+        "num": 378758,
+        "word": "陈乔恩否认整容",
+        "onboard_time": 1739083098,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366834,
+        "num": 366834,
+        "word": "王一博西藏被偶遇",
+        "onboard_time": 1739076200,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81192,
+        "num": 352155,
+        "word": "赛琳娜和未婚夫去迪士尼",
+        "onboard_time": 1739079142,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71570,
+        "num": 345851,
+        "word": "搜索贷款后接到银行电话被划走1万",
+        "onboard_time": 1739085141,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342132,
+        "num": 342132,
+        "word": "孙龙采访",
+        "onboard_time": 1739083098,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268969,
+        "num": 268969,
+        "word": "林孝埈康复师场外痛哭",
+        "onboard_time": 1739078480,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266583,
+        "num": 266583,
+        "word": "定期存钱后睡眠开始变好",
+        "onboard_time": 1739081541,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 252051,
+        "num": 252051,
+        "word": "哪吒2已成美社交媒体网友讨论新话题",
+        "onboard_time": 1739075960,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 235586,
+        "num": 235586,
+        "word": "面包店全体员工自愿为筠连加班",
+        "onboard_time": 1739083220,
+        "rank": 24,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 216506,
+        "num": 216506,
+        "word": "哪吒2已超78亿",
+        "onboard_time": 1739085078,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204939,
+        "num": 204939,
+        "word": "张云雷称在家24小时被私生饭监控",
+        "onboard_time": 1739078061,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195423,
+        "num": 195423,
+        "word": "何炅说孩子只崇拜张杰",
+        "onboard_time": 1739076680,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189209,
+        "num": 189209,
+        "word": "敖丙最好的朋友是谁呀",
+        "onboard_time": 1739083881,
+        "rank": 28,
+        "category": "动漫,电影"
+      },
+      {
+        "raw_hot": 170641,
+        "num": 179955,
+        "word": "六姊妹11集哭死",
+        "onboard_time": 1739085019,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196854,
+        "num": 178379,
+        "word": "武契奇专车行驶中后轮突然飞出",
+        "onboard_time": 1739083640,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 173928,
+        "num": 173928,
+        "word": "男子造谣医院复活秦始皇被罚",
+        "onboard_time": 1739074580,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166006,
+        "num": 166006,
+        "word": "KPL",
+        "onboard_time": 1739084720,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164519,
+        "num": 164519,
+        "word": "男孩被拐养家不让上学自己挣钱读书",
+        "onboard_time": 1739082020,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163020,
+        "num": 163020,
+        "word": "DeepSeek对普通人有什么机会",
+        "onboard_time": 1739084899,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 159818,
+        "num": 159818,
+        "word": "胡歌被贴脸开大",
+        "onboard_time": 1739083640,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160929,
+        "num": 158050,
+        "word": "范可新再次亲吻了冰面",
+        "onboard_time": 1739084839,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152946,
+        "num": 152946,
+        "word": "林孝埈亚冬会1金1银1铜",
+        "onboard_time": 1739081781,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148565,
+        "num": 148565,
+        "word": "于正新签两个短剧演员",
+        "onboard_time": 1739069239,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147030,
+        "num": 147030,
+        "word": "KPL上海新主场开幕",
+        "onboard_time": 1739084540,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144799,
+        "num": 144799,
+        "word": "网传虞书欣张凌赫三搭",
+        "onboard_time": 1739082020,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140597,
+        "num": 140597,
+        "word": "51岁何炅的八块腹肌",
+        "onboard_time": 1739059336,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140128,
+        "num": 140128,
+        "word": "没确诊甲流乙流别乱吃抗病毒药",
+        "onboard_time": 1739084960,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 139721,
+        "num": 139721,
+        "word": "西施新皮肤首曝",
+        "onboard_time": 1739074100,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125205,
+        "num": 125205,
+        "word": "台媒称看李现的剧想去云南定居",
+        "onboard_time": 1739077821,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124617,
+        "num": 124617,
+        "word": "掌心咬戏比吻戏还带感",
+        "onboard_time": 1739076559,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124059,
+        "num": 124059,
+        "word": "成毅昨天直播热度断层第一",
+        "onboard_time": 1739083220,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120422,
+        "num": 120422,
+        "word": "有导演称哪吒2或不太符合北美调性",
+        "onboard_time": 1739070199,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120332,
+        "num": 120332,
+        "word": "林孝埈米兰冬奥见",
+        "onboard_time": 1739085380,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105276,
+        "num": 105276,
+        "word": "朴知元犯规",
+        "onboard_time": 1739082020,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰天雪地也是金山银山在吉林开花结果#"
+    }
+  }
+}
