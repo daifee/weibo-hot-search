@@ -1,0 +1,410 @@
+{
+  "runTime": 1739104692381,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2729858,
+        "num": 2729858,
+        "word": "哪吒2票房破80亿",
+        "onboard_time": 1739099001,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 955513,
+        "num": 955513,
+        "word": "梁靖崑vs林诗栋",
+        "onboard_time": 1739100082,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78051,
+        "num": 804946,
+        "word": "中国金牌9宫格",
+        "onboard_time": 1739091981,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1066060,
+        "num": 801994,
+        "word": "石矶娘娘的配音竟是公司行政",
+        "onboard_time": 1739102843,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104594,
+        "num": 762643,
+        "word": "四川山体滑坡已致1人遇难",
+        "onboard_time": 1739084659,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 735925,
+        "num": 735925,
+        "word": "哪吒2洛杉矶首映结束全场鼓掌",
+        "onboard_time": 1739097260,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 735166,
+        "num": 735166,
+        "word": "男子用40万转账表情包套走8000元",
+        "onboard_time": 1739103146,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 723649,
+        "num": 723649,
+        "word": "40万新车被小孩引燃车主又订了一辆",
+        "onboard_time": 1739101342,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 664862,
+        "num": 664862,
+        "word": "孙颖莎丢分后拍了自己一巴掌",
+        "onboard_time": 1739101401,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43064,
+        "num": 660589,
+        "word": "四川筠连山体滑坡已致1人遇难28人失联",
+        "onboard_time": 1739102901,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 974414,
+        "num": 659622,
+        "word": "赵露思穿搭被清华大学老师上课介绍",
+        "onboard_time": 1739100320,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 656654,
+        "num": 656654,
+        "word": "林诗栋战胜梁靖崑夺冠",
+        "onboard_time": 1739103324,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 614219,
+        "num": 614219,
+        "word": "徐艺洋也在等刘小玲长大",
+        "onboard_time": 1739102543,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 591423,
+        "num": 591423,
+        "word": "尹美莱 浪姐6",
+        "onboard_time": 1739100261,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 585128,
+        "num": 585128,
+        "word": "WTT观众席疑似骑手团建",
+        "onboard_time": 1739101521,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175857,
+        "num": 537235,
+        "word": "林诗栋下周登顶世界第一",
+        "onboard_time": 1739104103,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 508320,
+        "num": 508320,
+        "word": "哪吒为啥不姓李",
+        "onboard_time": 1739098701,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 479573,
+        "num": 479573,
+        "word": "林诗栋新世一",
+        "onboard_time": 1739104223,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 389898,
+        "num": 389898,
+        "word": "浪姐6名单",
+        "onboard_time": 1739092279,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380712,
+        "num": 380712,
+        "word": "孙颖莎3Q艾瑞万",
+        "onboard_time": 1739101162,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 337916,
+        "num": 337916,
+        "word": "李思思 浪姐6",
+        "onboard_time": 1739098821,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294548,
+        "num": 294548,
+        "word": "韩媒报道韩国队犯规画风竟是这样的",
+        "onboard_time": 1739103146,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289074,
+        "num": 289074,
+        "word": "熊出没票房超过射雕",
+        "onboard_time": 1739085919,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 275674,
+        "num": 275674,
+        "word": "哪吒2 百亿补贴",
+        "onboard_time": 1739103023,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 273466,
+        "num": 273466,
+        "word": "谢娜卡粉",
+        "onboard_time": 1739096119,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272264,
+        "num": 272264,
+        "word": "孙颖莎黄牌",
+        "onboard_time": 1739097800,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57958,
+        "num": 270736,
+        "word": "AG新年新队服",
+        "onboard_time": 1739095759,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 306204,
+        "num": 270519,
+        "word": "石矶娘娘配音演员再现名场面",
+        "onboard_time": 1739102963,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 269238,
+        "num": 269238,
+        "word": "曝大热cp二搭全是三个字",
+        "onboard_time": 1739104461,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259073,
+        "num": 259073,
+        "word": "主人取回狗狗被要求不准带货接广告",
+        "onboard_time": 1739103982,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 849003,
+        "num": 258467,
+        "word": "为什么流量明星在春节档败北",
+        "onboard_time": 1739099901,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 253600,
+        "num": 253600,
+        "word": "王一博凿冰",
+        "onboard_time": 1739101041,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235083,
+        "num": 235083,
+        "word": "医院回应禁止非医学需要终止妊娠",
+        "onboard_time": 1739090299,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229309,
+        "num": 229309,
+        "word": "男孩被卖时亲眼看见养父母付了200元",
+        "onboard_time": 1739095759,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34277,
+        "num": 218216,
+        "word": "美国流感严重10个州部分学校停课",
+        "onboard_time": 1739104641,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 217992,
+        "num": 217992,
+        "word": "哪吒2中国影史第一个80亿",
+        "onboard_time": 1739101700,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144667,
+        "num": 210438,
+        "word": "过年偶遇丁程鑫打麻将",
+        "onboard_time": 1739102241,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206008,
+        "num": 206008,
+        "word": "王濛说韩国队不扒拉不会滑冰",
+        "onboard_time": 1739099662,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65629,
+        "num": 206002,
+        "word": "徐梦桃这次夺金意味着什么",
+        "onboard_time": 1739094499,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206001,
+        "num": 206001,
+        "word": "饺子导演80亿票房海报画好了吗",
+        "onboard_time": 1739101521,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 194191,
+        "num": 202124,
+        "word": "张凌赫演得好灵",
+        "onboard_time": 1739103862,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187350,
+        "num": 200756,
+        "word": "敖丙",
+        "onboard_time": 1739104043,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200654,
+        "num": 200654,
+        "word": "大爷将6500元藏锅里被老伴120元卖出",
+        "onboard_time": 1739100022,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194694,
+        "num": 194694,
+        "word": "孙怡新剧初恋姐感",
+        "onboard_time": 1739102303,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192719,
+        "num": 192719,
+        "word": "演员李施嬅官宣分手",
+        "onboard_time": 1739085800,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180376,
+        "num": 180376,
+        "word": "汽车央企重组",
+        "onboard_time": 1739101460,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 168651,
+        "num": 168651,
+        "word": "医保药监回应血压不降麻药不睡",
+        "onboard_time": 1739088200,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164904,
+        "num": 164904,
+        "word": "WTT",
+        "onboard_time": 1739099901,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161761,
+        "num": 161761,
+        "word": "孙颖莎战胜蒯曼夺冠",
+        "onboard_time": 1739098701,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158741,
+        "num": 158741,
+        "word": "刘国梁给孙颖莎颁发冠军奖杯",
+        "onboard_time": 1739100380,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平东北之行的几个关键词#"
+    }
+  }
+}
