@@ -1,0 +1,410 @@
+{
+  "runTime": 1739097517074,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1716210,
+        "num": 1716210,
+        "word": "浪姐6名单",
+        "onboard_time": 1739092279,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1062096,
+        "num": 1062096,
+        "word": "医院回应禁止非医学需要终止妊娠",
+        "onboard_time": 1739090299,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85588,
+        "num": 882848,
+        "word": "中国金牌9宫格",
+        "onboard_time": 1739091981,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1220717,
+        "num": 881518,
+        "word": "哪吒2票房超79亿元",
+        "onboard_time": 1739092579,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140718,
+        "num": 858185,
+        "word": "四川山体滑坡已致1人遇难",
+        "onboard_time": 1739084659,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 849728,
+        "num": 849728,
+        "word": "孙颖莎vs蒯曼",
+        "onboard_time": 1739095701,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 993041,
+        "num": 847848,
+        "word": "女子的贞洁从不在罗裙之下",
+        "onboard_time": 1739094742,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 844301,
+        "num": 844301,
+        "word": "男孩被卖时亲眼看见养父母付了200元",
+        "onboard_time": 1739095759,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 644212,
+        "num": 644212,
+        "word": "赵露思炫崽狂魔",
+        "onboard_time": 1739096119,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158380,
+        "num": 628620,
+        "word": "东莞一小区拟定停车费1天120元",
+        "onboard_time": 1739095279,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1013209,
+        "num": 625942,
+        "word": "熊出没票房超过射雕",
+        "onboard_time": 1739085919,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 621878,
+        "num": 621878,
+        "word": "苗苗生育状况写多子女",
+        "onboard_time": 1739078179,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 572379,
+        "num": 572379,
+        "word": "申公豹不是十二金仙的原因找到了",
+        "onboard_time": 1739094260,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 544676,
+        "num": 544676,
+        "word": "孙龙赛后怒吼脏就是脏",
+        "onboard_time": 1739086879,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 513098,
+        "num": 513098,
+        "word": "谢娜卡粉",
+        "onboard_time": 1739096119,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 435886,
+        "num": 435886,
+        "word": "敖光 应龙",
+        "onboard_time": 1739091019,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 410708,
+        "num": 410708,
+        "word": "朴知元回应干扰林孝埈",
+        "onboard_time": 1739090357,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 387181,
+        "num": 387181,
+        "word": "哪吒番外篇完全不输正片",
+        "onboard_time": 1739082680,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 343100,
+        "num": 343100,
+        "word": "樊振东王楚钦郑钦文眼中的体育精神",
+        "onboard_time": 1739093179,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318255,
+        "num": 318255,
+        "word": "女子爱躺刷手机双眼近视差400度",
+        "onboard_time": 1739095638,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373091,
+        "num": 317294,
+        "word": "时代少年团第三张实体专辑预告",
+        "onboard_time": 1739096720,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 371724,
+        "num": 316749,
+        "word": "林孝埈趁乱离开赛场",
+        "onboard_time": 1739095759,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323102,
+        "num": 316566,
+        "word": "陈乔恩回应被指虚伪",
+        "onboard_time": 1739090960,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316056,
+        "num": 316056,
+        "word": "韩国队犯规取消成绩",
+        "onboard_time": 1739082020,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306793,
+        "num": 306793,
+        "word": "演员李施嬅官宣分手",
+        "onboard_time": 1739085800,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284320,
+        "num": 284320,
+        "word": "医保药监回应血压不降麻药不睡",
+        "onboard_time": 1739088200,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281668,
+        "num": 281668,
+        "word": "饺子导戏哪吒2视频曝光",
+        "onboard_time": 1739094559,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 306800,
+        "num": 260686,
+        "word": "陈乔恩打电波脸肿了一个月",
+        "onboard_time": 1739078301,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213025,
+        "num": 213025,
+        "word": "她剪短头发撑起这个家",
+        "onboard_time": 1739095458,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204778,
+        "num": 204778,
+        "word": "女子看不孕意外发现已怀孕7个月",
+        "onboard_time": 1739064139,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231097,
+        "num": 203892,
+        "word": "刘少林评价韩国队",
+        "onboard_time": 1739093480,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202984,
+        "num": 202984,
+        "word": "刘惜君对薛之谦已经产生抗体了",
+        "onboard_time": 1739087421,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200725,
+        "num": 200725,
+        "word": "蓝猫",
+        "onboard_time": 1739091019,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 22147,
+        "num": 198655,
+        "word": "范可新说这是最后一届亚冬会",
+        "onboard_time": 1739089579,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78535,
+        "num": 197639,
+        "word": "谁懂刘诗诗吹蜡烛这一下",
+        "onboard_time": 1739097440,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197100,
+        "num": 197100,
+        "word": "间接亲吻怎么不算亲呢",
+        "onboard_time": 1739097321,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180100,
+        "num": 180100,
+        "word": "林孝埈说希望和朴知元有好的竞争",
+        "onboard_time": 1739095100,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179709,
+        "num": 179709,
+        "word": "余烬之上",
+        "onboard_time": 1739096420,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176304,
+        "num": 176304,
+        "word": "哪吒2洛杉矶首映结束全场鼓掌",
+        "onboard_time": 1739097260,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168057,
+        "num": 168057,
+        "word": "陈飞宇方否认二搭",
+        "onboard_time": 1739093300,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166240,
+        "num": 166240,
+        "word": "掌心",
+        "onboard_time": 1739095821,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38743,
+        "num": 165171,
+        "word": "WTT新加坡大满贯今日收官",
+        "onboard_time": 1739088681,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164533,
+        "num": 164533,
+        "word": "唐探1900彩蛋与现实callback",
+        "onboard_time": 1739097260,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154053,
+        "num": 154053,
+        "word": "哪吒2",
+        "onboard_time": 1739092158,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153430,
+        "num": 153430,
+        "word": "孙龙说500米没有推林孝埈",
+        "onboard_time": 1739093839,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17574,
+        "num": 150854,
+        "word": "深蓝汽车与华为签约",
+        "onboard_time": 1739092880,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 148319,
+        "num": 148319,
+        "word": "王濛说我泰拳不是白练的",
+        "onboard_time": 1739090600,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144453,
+        "num": 144453,
+        "word": "DeepSeek对普通人有什么机会",
+        "onboard_time": 1739084899,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 141366,
+        "num": 141366,
+        "word": "徐梦桃这次夺金意味着什么",
+        "onboard_time": 1739094499,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140061,
+        "num": 140061,
+        "word": "时代少年团三专",
+        "onboard_time": 1739091859,
+        "rank": 49,
+        "category": "音乐,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平东北之行的几个关键词#"
+    }
+  }
+}
