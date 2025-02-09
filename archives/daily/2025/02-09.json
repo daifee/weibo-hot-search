@@ -1,14 +1,22 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739066571117,
+  "endTime": 1739069628207,
   "band_list": [
     {
       "raw_hot": 1851653,
-      "num": 268303,
+      "num": 434896,
       "word": "女子看不孕意外发现已怀孕7个月",
       "onboard_time": 1739064139,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1700231,
+      "num": 251992,
+      "word": "赵樱子表白成毅",
+      "onboard_time": 1739063238,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 1237534,
@@ -35,12 +43,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1001862,
-      "num": 251992,
-      "word": "赵樱子表白成毅",
-      "onboard_time": 1739063238,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 1049596,
+      "num": 1046188,
+      "word": "饺子大学同学说多亏华西宿舍不停电",
+      "onboard_time": 1739066360,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 873545,
@@ -52,15 +60,15 @@
     },
     {
       "raw_hot": 800548,
-      "num": 267837,
+      "num": 377049,
       "word": "51岁何炅的八块腹肌",
       "onboard_time": 1739059336,
       "rank": 11,
       "category": "综艺"
     },
     {
-      "raw_hot": 719570,
-      "num": 719570,
+      "raw_hot": 762115,
+      "num": 762115,
       "word": "哪吒之魔童闹海票房破75亿",
       "onboard_time": 1739062159,
       "rank": 4,
@@ -89,6 +97,14 @@
       "onboard_time": 1739027542,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 573705,
+      "num": 573705,
+      "word": "王楚钦离场时盯着大屏幕看了很久",
+      "onboard_time": 1739066540,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 567551,
@@ -187,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 353866,
+      "num": 353866,
+      "word": "2月狗屎运最旺的星座",
+      "onboard_time": 1739067979,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 350200,
       "num": 350200,
       "word": "用棉花替代真雪景区已关闭并致歉",
@@ -204,7 +228,7 @@
     },
     {
       "raw_hot": 327021,
-      "num": 234588,
+      "num": 245833,
       "word": "外媒称哪吒2爆火是因中国人没钱旅游",
       "onboard_time": 1739032398,
       "rank": 35,
@@ -235,6 +259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 316602,
+      "num": 316602,
+      "word": "美国遭遇15年来最严重流感季",
+      "onboard_time": 1739066419,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 316020,
       "num": 350418,
       "word": "成都住房公积金贷款最新调整",
@@ -257,6 +289,14 @@
       "onboard_time": 1739026944,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 291096,
+      "num": 1046575,
+      "word": "四川山体滑坡29人失联",
+      "onboard_time": 1739056454,
+      "rank": 9,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 284563,
@@ -323,14 +363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205882,
-      "num": 314713,
-      "word": "四川山体滑坡29人失联",
-      "onboard_time": 1739056454,
-      "rank": 9,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 193203,
       "num": 193203,
       "word": "普通人真的不用花钱学DeepSeek",
@@ -353,6 +385,14 @@
       "onboard_time": 1739029580,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 183850,
+      "num": 183850,
+      "word": "10万元钻石高铁上丢失乘警6分钟找回",
+      "onboard_time": 1739068460,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180743,
@@ -387,11 +427,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 163514,
-      "num": 163514,
-      "word": "王楚钦离场时盯着大屏幕看了很久",
-      "onboard_time": 1739066540,
-      "rank": 25,
+      "raw_hot": 163919,
+      "num": 151615,
+      "word": "马威交易取消",
+      "onboard_time": 1739069239,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -467,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145650,
+      "num": 145650,
+      "word": "WTT发文为王曼昱庆生",
+      "onboard_time": 1739068161,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143572,
       "num": 143572,
       "word": "是的她怀了闺蜜的孩子",
@@ -483,12 +531,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 142022,
+      "num": 142022,
+      "word": "咸鱼飞升大男主无女主",
+      "onboard_time": 1739067560,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137904,
       "num": 137904,
       "word": "王曼昱蒯曼用冠军庆祝生日",
       "onboard_time": 1739025864,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134369,
+      "num": 449026,
+      "word": "几十位村民徒手刨石头救人",
+      "onboard_time": 1739068040,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130592,
@@ -512,6 +576,14 @@
       "word": "女孩遭欺凌5名涉案人员均已到案",
       "onboard_time": 1739035216,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124824,
+      "num": 534544,
+      "word": "境外间谍拉拢核心岗位退休人员",
+      "onboard_time": 1739065340,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -563,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115728,
+      "num": 255167,
+      "word": "兰州一政务大厅窗口职员上班睡觉",
+      "onboard_time": 1739065999,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114654,
       "num": 114654,
       "word": "浓眉独行侠首秀",
@@ -571,19 +651,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110376,
+      "num": 110376,
+      "word": "小米汽车澄清断轴谣言",
+      "onboard_time": 1739067020,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 110188,
       "num": 146555,
       "word": "导演饺子初学动画为10秒镜头渲染3天",
       "onboard_time": 1739057175,
       "rank": 12,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 108766,
-      "num": 108766,
-      "word": "饺子大学同学说多亏华西宿舍不停电",
-      "onboard_time": 1739066360,
-      "rank": 43,
       "category": "电影"
     },
     {
@@ -619,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102520,
+      "num": 102520,
+      "word": "林孝埈超越时全场沸腾欢呼",
+      "onboard_time": 1739069480,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100712,
       "num": 100712,
       "word": "鹤俐昀端",
@@ -627,12 +715,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 97318,
-      "num": 97318,
-      "word": "境外间谍拉拢核心岗位退休人员",
-      "onboard_time": 1739065340,
-      "rank": 47,
+      "raw_hot": 99977,
+      "num": 99977,
+      "word": "小伙失恋半夜整理共享电瓶车",
+      "onboard_time": 1739069419,
+      "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99215,
+      "num": 250817,
+      "word": "于正新签两个短剧演员",
+      "onboard_time": 1739069239,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 97086,
@@ -689,14 +785,6 @@
       "onboard_time": 1739026702,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 89824,
-      "num": 255167,
-      "word": "兰州一政务大厅窗口职员上班睡觉",
-      "onboard_time": 1739065999,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87198,
@@ -844,7 +932,7 @@
     },
     {
       "raw_hot": 36601,
-      "num": 793392,
+      "num": 868760,
       "word": "从冬奥到亚冬冰雪热燃起来了",
       "onboard_time": 1739026292,
       "rank": 2,
@@ -857,14 +945,6 @@
       "onboard_time": 1739064079,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 34318,
-      "num": 147585,
-      "word": "美国遭遇15年来最严重流感季",
-      "onboard_time": 1739066419,
-      "rank": 28,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 34275,
@@ -891,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30148,
+      "num": 515841,
+      "word": "孙龙林孝埈刘少昂携手晋级",
+      "onboard_time": 1739068939,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29559,
       "num": 75813,
       "word": "专家称代码外包或被AI取代",
@@ -905,6 +993,14 @@
       "onboard_time": 1739036174,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 27841,
+      "num": 284690,
+      "word": "王聪战胜布拉西尔",
+      "onboard_time": 1739069299,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 26325,
