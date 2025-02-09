@@ -1,0 +1,410 @@
+{
+  "runTime": 1739100996081,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3533201,
+        "num": 3533201,
+        "word": "哪吒2票房破80亿",
+        "onboard_time": 1739099001,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138364,
+        "num": 1648793,
+        "word": "四川山体滑坡已致1人遇难",
+        "onboard_time": 1739084659,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 82482,
+        "num": 1560001,
+        "word": "中国金牌9宫格",
+        "onboard_time": 1739091981,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1474546,
+        "num": 1474546,
+        "word": "哪吒2洛杉矶首映结束全场鼓掌",
+        "onboard_time": 1739097260,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 913904,
+        "num": 913904,
+        "word": "孙颖莎黄牌",
+        "onboard_time": 1739097800,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 882413,
+        "num": 882413,
+        "word": "浪姐6名单",
+        "onboard_time": 1739092279,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 805376,
+        "num": 805376,
+        "word": "哪吒为啥不姓李",
+        "onboard_time": 1739098701,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 782361,
+        "num": 782361,
+        "word": "孙颖莎战胜蒯曼夺冠",
+        "onboard_time": 1739098701,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191718,
+        "num": 709453,
+        "word": "泰国总理佩通坦感谢中国女保镖",
+        "onboard_time": 1739099240,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 233439,
+        "num": 683448,
+        "word": "梁靖崑vs林诗栋",
+        "onboard_time": 1739100082,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 660536,
+        "num": 660536,
+        "word": "孙颖莎vs蒯曼",
+        "onboard_time": 1739095701,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 647676,
+        "num": 647676,
+        "word": "熊出没票房超过射雕",
+        "onboard_time": 1739085919,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 540591,
+        "num": 540591,
+        "word": "谢娜卡粉",
+        "onboard_time": 1739096119,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 523140,
+        "num": 523140,
+        "word": "李思思 浪姐6",
+        "onboard_time": 1739098821,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282546,
+        "num": 465251,
+        "word": "东莞一小区拟定停车费1天120元",
+        "onboard_time": 1739095279,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 461935,
+        "num": 461935,
+        "word": "为什么流量明星在春节档败北",
+        "onboard_time": 1739099901,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 432734,
+        "num": 432734,
+        "word": "医院回应禁止非医学需要终止妊娠",
+        "onboard_time": 1739090299,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26401,
+        "num": 430860,
+        "word": "刘国梁给孙颖莎颁发冠军奖杯",
+        "onboard_time": 1739100380,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35813,
+        "num": 430564,
+        "word": "赵露思穿搭被清华大学老师上课介绍",
+        "onboard_time": 1739100320,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36353,
+        "num": 430524,
+        "word": "宜宾筠连村民自发捐菜做饭",
+        "onboard_time": 1739099301,
+        "rank": 19,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 430520,
+        "num": 430520,
+        "word": "林孝埈趁乱离开赛场",
+        "onboard_time": 1739095759,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 769836,
+        "num": 420194,
+        "word": "男孩被卖时亲眼看见养父母付了200元",
+        "onboard_time": 1739095759,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 399428,
+        "num": 399428,
+        "word": "苗苗生育状况写多子女",
+        "onboard_time": 1739078179,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 345472,
+        "num": 345472,
+        "word": "尹美莱 浪姐6",
+        "onboard_time": 1739100261,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323948,
+        "num": 323948,
+        "word": "王濛说韩国队不扒拉不会滑冰",
+        "onboard_time": 1739099662,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256736,
+        "num": 256736,
+        "word": "演员李施嬅官宣分手",
+        "onboard_time": 1739085800,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246073,
+        "num": 246073,
+        "word": "孙龙赛后怒吼脏就是脏",
+        "onboard_time": 1739086879,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244194,
+        "num": 244194,
+        "word": "敖光 应龙",
+        "onboard_time": 1739091019,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 240874,
+        "num": 240874,
+        "word": "WTT",
+        "onboard_time": 1739099901,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89691,
+        "num": 237255,
+        "word": "当事人回应40万新车被小孩引燃",
+        "onboard_time": 1739100501,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237048,
+        "num": 237048,
+        "word": "时代少年团第三张实体专辑预告",
+        "onboard_time": 1739096720,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 229552,
+        "num": 229552,
+        "word": "大爷将6500元藏锅里被老伴120元卖出",
+        "onboard_time": 1739100022,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228471,
+        "num": 228471,
+        "word": "医保药监回应血压不降麻药不睡",
+        "onboard_time": 1739088200,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224403,
+        "num": 224403,
+        "word": "朴知元回应干扰林孝埈",
+        "onboard_time": 1739090357,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223812,
+        "num": 223812,
+        "word": "哪吒2",
+        "onboard_time": 1739092158,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 223474,
+        "num": 223474,
+        "word": "申公豹不是十二金仙的原因找到了",
+        "onboard_time": 1739094260,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215027,
+        "num": 215027,
+        "word": "陈乔恩打电波脸肿了一个月",
+        "onboard_time": 1739078301,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200821,
+        "num": 200821,
+        "word": "女子爱躺刷手机双眼近视差400度",
+        "onboard_time": 1739095638,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183989,
+        "num": 183989,
+        "word": "孙颖莎4比1蒯曼",
+        "onboard_time": 1739100261,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168687,
+        "num": 183625,
+        "word": "物业回应小区停车费拟定1天120元",
+        "onboard_time": 1739099301,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183322,
+        "num": 183322,
+        "word": "好小众听到爱豆被催婚",
+        "onboard_time": 1739098340,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176497,
+        "num": 176497,
+        "word": "以为正常其实是无意识的控糖行为",
+        "onboard_time": 1739098461,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 168617,
+        "num": 168617,
+        "word": "饺子导演不行多做点哪吒番外",
+        "onboard_time": 1739100801,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168515,
+        "num": 168515,
+        "word": "李文龙看到韩国队犯规气麻了",
+        "onboard_time": 1739099781,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166025,
+        "num": 166025,
+        "word": "蒯曼亚军",
+        "onboard_time": 1739099721,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157709,
+        "num": 157709,
+        "word": "孙颖莎预判能力好强",
+        "onboard_time": 1739100742,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153751,
+        "num": 153751,
+        "word": "陈乔恩回应被指虚伪",
+        "onboard_time": 1739090960,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152497,
+        "num": 152497,
+        "word": "亲人离世是一生学不会的必修课",
+        "onboard_time": 1739099422,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145554,
+        "num": 145554,
+        "word": "韩国队犯规取消成绩",
+        "onboard_time": 1739082020,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141067,
+        "num": 141067,
+        "word": "李冰冰 这姑娘帅爆啦",
+        "onboard_time": 1739097622,
+        "rank": 49,
+        "category": "体育,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平东北之行的几个关键词#"
+    }
+  }
+}

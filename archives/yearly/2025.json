@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1739099824465,
+  "endTime": 1739100996081,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -801,6 +801,14 @@
       "onboard_time": 1738057404,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3533201,
+      "num": 3533201,
+      "word": "哪吒2票房破80亿",
+      "onboard_time": 1739099001,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 3521332,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736641159,
       "rank": 0,
       "category": "体育,作品衍生"
-    },
-    {
-      "raw_hot": 2002120,
-      "num": 2002120,
-      "word": "王鹤棣田曦薇十指相扣",
-      "onboard_time": 1736584225,
-      "rank": 7,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
