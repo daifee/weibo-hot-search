@@ -1,10 +1,10 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739070154879,
+  "endTime": 1739071587056,
   "band_list": [
     {
       "raw_hot": 1851653,
-      "num": 438889,
+      "num": 576814,
       "word": "女子看不孕意外发现已怀孕7个月",
       "onboard_time": 1739064139,
       "rank": 10,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1700231,
-      "num": 251992,
+      "num": 296053,
       "word": "赵樱子表白成毅",
       "onboard_time": 1739063238,
       "rank": 23,
@@ -59,8 +59,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 830191,
+      "num": 830191,
+      "word": "于正新签两个短剧演员",
+      "onboard_time": 1739069239,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 800548,
-      "num": 405609,
+      "num": 574707,
       "word": "51岁何炅的八块腹肌",
       "onboard_time": 1739059336,
       "rank": 11,
@@ -83,6 +91,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 681596,
+      "num": 681596,
+      "word": "徐梦桃夺金",
+      "onboard_time": 1739070140,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 646075,
       "num": 905889,
       "word": "女子得了流感硬抗3天变白肺",
@@ -97,6 +113,14 @@
       "onboard_time": 1739027542,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 592748,
+      "num": 592748,
+      "word": "导演称哪吒2可能不太符合北美调性",
+      "onboard_time": 1739070199,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 587644,
@@ -179,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 437891,
+      "num": 1070062,
+      "word": "四川山体滑坡29人失联",
+      "onboard_time": 1739056454,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 401102,
       "num": 401102,
       "word": "王楚钦止步新加坡大满贯4强",
@@ -235,16 +267,16 @@
       "category": "电影"
     },
     {
-      "raw_hot": 327316,
-      "num": 1052370,
-      "word": "四川山体滑坡29人失联",
-      "onboard_time": 1739056454,
-      "rank": 9,
-      "category": "突发/灾害"
+      "raw_hot": 337951,
+      "num": 520291,
+      "word": "林孝埈无缘1000米决赛",
+      "onboard_time": 1739070800,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 327021,
-      "num": 245833,
+      "num": 262033,
       "word": "外媒称哪吒2爆火是因中国人没钱旅游",
       "onboard_time": 1739032398,
       "rank": 35,
@@ -291,14 +323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 296823,
-      "num": 253272,
-      "word": "于正新签两个短剧演员",
-      "onboard_time": 1739069239,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 294388,
       "num": 192894,
       "word": "石矶娘娘配音演员照片宛如石矶本矶",
@@ -315,12 +339,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 248935,
+      "num": 211890,
+      "word": "林孝埈超越时全场沸腾欢呼",
+      "onboard_time": 1739069480,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 243835,
       "num": 192041,
       "word": "52天婴儿喝奶奶喂的蜂蜜水中毒进ICU",
       "onboard_time": 1739019083,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 236663,
+      "num": 324297,
+      "word": "看唐探1900从呲个大牙到拉个大脸",
+      "onboard_time": 1739070380,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 234953,
@@ -337,6 +377,14 @@
       "onboard_time": 1739068460,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 232752,
+      "num": 232752,
+      "word": "邓为海棠式演技",
+      "onboard_time": 1739070140,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 225075,
@@ -379,11 +427,35 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208687,
+      "num": 534544,
+      "word": "境外间谍拉拢核心岗位退休人员",
+      "onboard_time": 1739065340,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198109,
       "num": 151615,
       "word": "马威交易取消",
       "onboard_time": 1739069239,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 197888,
+      "num": 197888,
+      "word": "种地吧早上好一起来和少年们开工",
+      "onboard_time": 1739070920,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 193495,
+      "num": 193495,
+      "word": "湖人到手的中锋没了",
+      "onboard_time": 1739070199,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -443,12 +515,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 169309,
-      "num": 534544,
-      "word": "境外间谍拉拢核心岗位退休人员",
-      "onboard_time": 1739065340,
-      "rank": 47,
+      "raw_hot": 162545,
+      "num": 162545,
+      "word": "小伙失恋半夜整理共享电瓶车",
+      "onboard_time": 1739069419,
+      "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160052,
+      "num": 160052,
+      "word": "才明白刘诗诗新剧英文名含义",
+      "onboard_time": 1739070979,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 158918,
+      "num": 180813,
+      "word": "四川宜宾山体滑坡原因",
+      "onboard_time": 1739056274,
+      "rank": 8,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 158407,
@@ -456,6 +544,14 @@
       "word": "四川山体滑坡30余人失联",
       "onboard_time": 1739009242,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156390,
+      "num": 517644,
+      "word": "四川山体滑坡救援进展",
+      "onboard_time": 1739070620,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -483,12 +579,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 153517,
-      "num": 180813,
-      "word": "四川宜宾山体滑坡原因",
-      "onboard_time": 1739056274,
-      "rank": 8,
-      "category": "突发/灾害"
+      "raw_hot": 155014,
+      "num": 155014,
+      "word": "幼儿园关停潮下的幼儿园园长",
+      "onboard_time": 1739071278,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153342,
@@ -505,6 +601,14 @@
       "onboard_time": 1739035155,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 150238,
+      "num": 262081,
+      "word": "袁咏仪张智霖结婚24周年",
+      "onboard_time": 1739070620,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 146436,
@@ -571,6 +675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134807,
+      "num": 515841,
+      "word": "孙龙林孝埈刘少昂携手晋级",
+      "onboard_time": 1739068939,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130592,
       "num": 130592,
       "word": "DeepSeek官网和正版APP无付费项目",
@@ -619,12 +731,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 121839,
-      "num": 121839,
-      "word": "林孝埈超越时全场沸腾欢呼",
-      "onboard_time": 1739069480,
-      "rank": 47,
-      "category": "体育"
+      "raw_hot": 122462,
+      "num": 601043,
+      "word": "四川宜宾山体滑坡救援现场",
+      "onboard_time": 1739071100,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119613,
@@ -649,14 +761,6 @@
       "onboard_time": 1739059216,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 116877,
-      "num": 116877,
-      "word": "小伙失恋半夜整理共享电瓶车",
-      "onboard_time": 1739069419,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115728,
@@ -697,14 +801,6 @@
       "onboard_time": 1739057175,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 109426,
-      "num": 515841,
-      "word": "孙龙林孝埈刘少昂携手晋级",
-      "onboard_time": 1739068939,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 107375,
@@ -827,6 +923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77092,
+      "num": 297109,
+      "word": "男子出国旅游晒黑十个度撞脸包公",
+      "onboard_time": 1739070020,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76940,
       "num": 118316,
       "word": "苹果机器人首次曝光",
@@ -883,12 +987,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 62349,
+      "num": 135518,
+      "word": "赵一博烤冷面",
+      "onboard_time": 1739070199,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 61415,
       "num": 82910,
       "word": "女生入住毛坯房水电软装花费1万元",
       "onboard_time": 1739038753,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59192,
+      "num": 208720,
+      "word": "四川筠连山体滑坡现场进行网格化搜救",
+      "onboard_time": 1739071460,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 50130,
@@ -937,6 +1057,14 @@
       "onboard_time": 1739050751,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38706,
+      "num": 577309,
+      "word": "挖机师傅24小时待命想救援",
+      "onboard_time": 1739070739,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 37653,
@@ -1003,20 +1131,20 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 29155,
+      "num": 536618,
+      "word": "3D还原宜宾筠连山体滑坡现场",
+      "onboard_time": 1739071100,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29114,
       "num": 40639,
       "word": "TF家族2025新音纪录片星火",
       "onboard_time": 1739036174,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 27585,
-      "num": 123592,
-      "word": "男子出国旅游晒黑十个度撞脸包公",
-      "onboard_time": 1739070020,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26325,
