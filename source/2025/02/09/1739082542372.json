@@ -1,0 +1,410 @@
+{
+  "runTime": 1739082542372,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2727035,
+        "num": 2727035,
+        "word": "韩国犯规",
+        "onboard_time": 1739079502,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1024839,
+        "num": 1024839,
+        "word": "张伟丽战胜苏亚雷斯卫冕",
+        "onboard_time": 1739079142,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32547,
+        "num": 867270,
+        "word": "多图回顾亚冬会中国队夺金瞬间",
+        "onboard_time": 1739076980,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 758963,
+        "num": 758963,
+        "word": "金智媛姐不是装漂亮是真漂亮",
+        "onboard_time": 1739078301,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154858,
+        "num": 622287,
+        "word": "救援过程中发生多次较大规模滑坡",
+        "onboard_time": 1739080700,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 598977,
+        "num": 598977,
+        "word": "哪吒2在美一票难求纽约华人发声",
+        "onboard_time": 1739077220,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 490183,
+        "num": 490183,
+        "word": "幼儿园关停潮下的幼儿园园长",
+        "onboard_time": 1739071278,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 586504,
+        "num": 481662,
+        "word": "哪吒2已成美社交媒体网友讨论新话题",
+        "onboard_time": 1739075960,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 470303,
+        "num": 470303,
+        "word": "林孝埈康复师场外痛哭",
+        "onboard_time": 1739078480,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142032,
+        "num": 426701,
+        "word": "张伟丽高喊oz获全场回应",
+        "onboard_time": 1739080942,
+        "rank": 9,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 1858224,
+        "num": 421806,
+        "word": "苗苗生育状况写多子女",
+        "onboard_time": 1739078179,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 408708,
+        "num": 408708,
+        "word": "哪吒2票房超77亿",
+        "onboard_time": 1739080640,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 893308,
+        "num": 403718,
+        "word": "陈乔恩打电波脸肿了一个月",
+        "onboard_time": 1739078301,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103715,
+        "num": 401906,
+        "word": "定期存钱后睡眠开始变好",
+        "onboard_time": 1739081541,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 65394,
+        "num": 394314,
+        "word": "男孩被拐养家不让上学自己挣钱读书",
+        "onboard_time": 1739082020,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 558697,
+        "num": 385516,
+        "word": "女子看不孕意外发现已怀孕7个月",
+        "onboard_time": 1739064139,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 520263,
+        "num": 383644,
+        "word": "王一博西藏被偶遇",
+        "onboard_time": 1739076200,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379586,
+        "num": 379586,
+        "word": "朴知元干扰林孝埈",
+        "onboard_time": 1739080581,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 375551,
+        "num": 375551,
+        "word": "有导演称哪吒2或不太符合北美调性",
+        "onboard_time": 1739070199,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 90478,
+        "num": 360832,
+        "word": "谢霆锋恭喜张伟丽",
+        "onboard_time": 1739081360,
+        "rank": 19,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 353266,
+        "num": 353266,
+        "word": "何炅说孩子只崇拜张杰",
+        "onboard_time": 1739076680,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308032,
+        "num": 308032,
+        "word": "男子造谣医院复活秦始皇被罚",
+        "onboard_time": 1739074580,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305528,
+        "num": 305528,
+        "word": "中国短道速滑队2金2银4铜收官",
+        "onboard_time": 1739079681,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280852,
+        "num": 280852,
+        "word": "哪吒2票房超76亿",
+        "onboard_time": 1739072299,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29585,
+        "num": 261077,
+        "word": "女子信偏方生吞鱼胆致肝肾衰竭",
+        "onboard_time": 1739082260,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253105,
+        "num": 253105,
+        "word": "短道速滑接力",
+        "onboard_time": 1739075900,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247874,
+        "num": 247874,
+        "word": "张云雷称在家24小时被私生饭监控",
+        "onboard_time": 1739078061,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238533,
+        "num": 238533,
+        "word": "赵樱子说要和粉丝公平竞争成毅",
+        "onboard_time": 1739075660,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102406,
+        "num": 232169,
+        "word": "唐探的单词以一种奇怪的方式进入大脑",
+        "onboard_time": 1739080821,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 77394,
+        "num": 230996,
+        "word": "武契奇专车后轮行驶中飞出",
+        "onboard_time": 1739081300,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 230904,
+        "num": 230904,
+        "word": "网传虞书欣张凌赫三搭",
+        "onboard_time": 1739082020,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216953,
+        "num": 216953,
+        "word": "韩国队犯规取消成绩",
+        "onboard_time": 1739082020,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208065,
+        "num": 208065,
+        "word": "51岁何炅的八块腹肌",
+        "onboard_time": 1739059336,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205853,
+        "num": 205853,
+        "word": "于正新签两个短剧演员",
+        "onboard_time": 1739069239,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201064,
+        "num": 201064,
+        "word": "掌心咬戏比吻戏还带感",
+        "onboard_time": 1739076559,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200636,
+        "num": 200636,
+        "word": "朴知元犯规",
+        "onboard_time": 1739082020,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195674,
+        "num": 195674,
+        "word": "这是一块金灿灿的铜牌",
+        "onboard_time": 1739082020,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188950,
+        "num": 188950,
+        "word": "西施新皮肤首曝",
+        "onboard_time": 1739074100,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173030,
+        "num": 173030,
+        "word": "赛琳娜和未婚夫去迪士尼",
+        "onboard_time": 1739079142,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163304,
+        "num": 163304,
+        "word": "张伟丽vs苏亚雷斯",
+        "onboard_time": 1739065580,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158825,
+        "num": 158825,
+        "word": "台媒称看李现的剧想去云南定居",
+        "onboard_time": 1739077821,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156058,
+        "num": 156058,
+        "word": "德云社把副总之争搬台面上了",
+        "onboard_time": 1739080341,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153644,
+        "num": 153644,
+        "word": "哪吒之魔童闹海票房破75亿",
+        "onboard_time": 1739062159,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152300,
+        "num": 152300,
+        "word": "政务大厅公职人员工作时间睡觉",
+        "onboard_time": 1739061498,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143959,
+        "num": 143959,
+        "word": "颖儿新剧裸婚被赶出家",
+        "onboard_time": 1739077220,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142051,
+        "num": 142051,
+        "word": "哈萨克斯坦男子接力夺冠",
+        "onboard_time": 1739082020,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139820,
+        "num": 139820,
+        "word": "中国短道速滑队男子5000米接摘铜",
+        "onboard_time": 1739079622,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129376,
+        "num": 129376,
+        "word": "两男子把垃圾倒进六年时间改造好的河里",
+        "onboard_time": 1739073320,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128110,
+        "num": 128110,
+        "word": "四川宜宾山体滑坡救援现场",
+        "onboard_time": 1739071100,
+        "rank": 48,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 121438,
+        "num": 121438,
+        "word": "王俊凯老一辈的幽默",
+        "onboard_time": 1739081240,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动科技成果向现实生产力转化#"
+    }
+  }
+}

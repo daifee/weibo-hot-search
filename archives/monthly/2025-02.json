@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739079436003,
+  "endTime": 1739082542372,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -329,6 +329,14 @@
       "onboard_time": 1738907902,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2727035,
+      "num": 2727035,
+      "word": "韩国犯规",
+      "onboard_time": 1739079502,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 2693767,
@@ -1675,6 +1683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1024839,
+      "num": 1024839,
+      "word": "张伟丽战胜苏亚雷斯卫冕",
+      "onboard_time": 1739079142,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1021213,
       "num": 1021213,
       "word": "有人卖DeepSeek安装包赚几百万",
@@ -2073,6 +2089,14 @@
       "onboard_time": 1738724601,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 893308,
+      "num": 525095,
+      "word": "陈乔恩打电波脸肿了一个月",
+      "onboard_time": 1739078301,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 890110,
@@ -2553,6 +2577,14 @@
       "onboard_time": 1738562432,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 758963,
+      "num": 758963,
+      "word": "金智媛姐不是装漂亮是真漂亮",
+      "onboard_time": 1739078301,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 758514,
@@ -3467,6 +3499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 598977,
+      "num": 598977,
+      "word": "哪吒2在美一票难求纽约华人发声",
+      "onboard_time": 1739077220,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 596084,
       "num": 453314,
       "word": "成毅直播",
@@ -3529,6 +3569,14 @@
       "onboard_time": 1739066540,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 586504,
+      "num": 560196,
+      "word": "哪吒2已成美社交媒体网友讨论新话题",
+      "onboard_time": 1739075960,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 584977,
@@ -3761,14 +3809,6 @@
       "onboard_time": 1738634663,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 560196,
-      "num": 560196,
-      "word": "哪吒2已成美社交媒体网友讨论新话题",
-      "onboard_time": 1739075960,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 558548,
@@ -4105,14 +4145,6 @@
       "onboard_time": 1738817610,
       "rank": 20,
       "category": "电影"
-    },
-    {
-      "raw_hot": 525095,
-      "num": 525095,
-      "word": "陈乔恩打电波脸肿了一个月",
-      "onboard_time": 1739078301,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 522677,
@@ -4875,6 +4907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 470303,
+      "num": 470303,
+      "word": "林孝埈康复师场外痛哭",
+      "onboard_time": 1739078480,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 469613,
       "num": 469613,
       "word": "孙颖莎4比3王艺迪",
@@ -5611,6 +5651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 408708,
+      "num": 408708,
+      "word": "哪吒2票房超77亿",
+      "onboard_time": 1739080640,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 408402,
       "num": 408402,
       "word": "吴尊和老婆吵架从不过夜",
@@ -5801,14 +5849,6 @@
       "onboard_time": 1738937783,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 394446,
-      "num": 351660,
-      "word": "哪吒2在美一票难求纽约华人发声",
-      "onboard_time": 1739077220,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 394415,
@@ -6019,6 +6059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 379586,
+      "num": 379586,
+      "word": "朴知元干扰林孝埈",
+      "onboard_time": 1739080581,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 378626,
       "num": 378626,
       "word": "高铁买到过期4年方便面目击者发声",
@@ -6185,14 +6233,6 @@
       "onboard_time": 1738894281,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 367107,
-      "num": 367107,
-      "word": "林孝埈康复师场外痛哭",
-      "onboard_time": 1739078480,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 366282,
@@ -6449,14 +6489,6 @@
       "onboard_time": 1738983681,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 350685,
-      "num": 350685,
-      "word": "金智媛姐不是装漂亮是真漂亮",
-      "onboard_time": 1739078301,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 350200,
@@ -7401,6 +7433,14 @@
       "onboard_time": 1738408458,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 305528,
+      "num": 305528,
+      "word": "中国短道速滑队2金2银4铜收官",
+      "onboard_time": 1739079681,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 305099,
@@ -9539,6 +9579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 230904,
+      "num": 230904,
+      "word": "网传虞书欣张凌赫三搭",
+      "onboard_time": 1739082020,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 230794,
       "num": 230794,
       "word": "哪吒2总票房升至第5与哪吒1会合",
@@ -10329,6 +10377,14 @@
       "onboard_time": 1738880532,
       "rank": 29,
       "category": "国内时政,电影"
+    },
+    {
+      "raw_hot": 216953,
+      "num": 216953,
+      "word": "韩国队犯规取消成绩",
+      "onboard_time": 1739082020,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 216342,
@@ -11419,6 +11475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200636,
+      "num": 200636,
+      "word": "朴知元犯规",
+      "onboard_time": 1739082020,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200576,
       "num": 239119,
       "word": "13岁少年收集火药引爆炸断3根手指",
@@ -11801,6 +11865,14 @@
       "onboard_time": 1738978580,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195674,
+      "num": 195674,
+      "word": "这是一块金灿灿的铜牌",
+      "onboard_time": 1739082020,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 195589,
@@ -13683,6 +13755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173030,
+      "num": 173030,
+      "word": "赛琳娜和未婚夫去迪士尼",
+      "onboard_time": 1739079142,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172775,
       "num": 172775,
       "word": "娜然说妲己是殷寿欲望的放大镜",
@@ -15123,6 +15203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 156058,
+      "num": 156058,
+      "word": "德云社把副总之争搬台面上了",
+      "onboard_time": 1739080341,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156044,
       "num": 133273,
       "word": "朋友圈背景图",
@@ -15243,6 +15331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154858,
+      "num": 622287,
+      "word": "救援过程中发生多次较大规模滑坡",
+      "onboard_time": 1739080700,
+      "rank": 4,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 154760,
       "num": 154760,
       "word": "原来申小豹才是普通人视角",
@@ -15281,14 +15377,6 @@
       "onboard_time": 1738733124,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 154303,
-      "num": 154303,
-      "word": "赛琳娜和未婚夫去迪士尼",
-      "onboard_time": 1739079142,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 154295,
@@ -16459,12 +16547,28 @@
       "category": "电影,互联网"
     },
     {
+      "raw_hot": 142051,
+      "num": 142051,
+      "word": "哈萨克斯坦男子接力夺冠",
+      "onboard_time": 1739082020,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142038,
       "num": 271351,
       "word": "NewJeans新经纪公司将成立",
       "onboard_time": 1738926982,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142032,
+      "num": 426701,
+      "word": "张伟丽高喊oz获全场回应",
+      "onboard_time": 1739080942,
+      "rank": 9,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 142029,
@@ -16641,6 +16745,14 @@
       "onboard_time": 1738459336,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139820,
+      "num": 139820,
+      "word": "中国短道速滑队男子5000米接摘铜",
+      "onboard_time": 1739079622,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 139806,
@@ -18283,14 +18395,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 122031,
-      "num": 329652,
-      "word": "张伟丽战胜苏亚雷斯卫冕",
-      "onboard_time": 1739079142,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 121839,
       "num": 121839,
       "word": "哪吒2总票房将刷新中国电影市场纪录",
@@ -18329,6 +18433,14 @@
       "onboard_time": 1738841301,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121438,
+      "num": 121438,
+      "word": "王俊凯老一辈的幽默",
+      "onboard_time": 1739081240,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 121230,
@@ -19771,6 +19883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103715,
+      "num": 401906,
+      "word": "定期存钱后睡眠开始变好",
+      "onboard_time": 1739081541,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 103640,
       "num": 103640,
       "word": "chiikawa小八变声了",
@@ -19865,6 +19985,14 @@
       "onboard_time": 1738909763,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102406,
+      "num": 232169,
+      "word": "唐探的单词以一种奇怪的方式进入大脑",
+      "onboard_time": 1739080821,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 102378,
@@ -20683,6 +20811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90478,
+      "num": 360832,
+      "word": "谢霆锋恭喜张伟丽",
+      "onboard_time": 1739081360,
+      "rank": 19,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 90409,
       "num": 229205,
       "word": "假还没过完已经有节后综合征了",
@@ -21379,6 +21515,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 77394,
+      "num": 230996,
+      "word": "武契奇专车后轮行驶中飞出",
+      "onboard_time": 1739081300,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 77127,
       "num": 173867,
       "word": "菲律宾坠毁飞机系美国承包侦察机",
@@ -21888,6 +22032,14 @@
       "word": "文化中国行二十四节气经典美食",
       "onboard_time": 1738504758,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65394,
+      "num": 394314,
+      "word": "男孩被拐养家不让上学自己挣钱读书",
+      "onboard_time": 1739082020,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -23931,6 +24083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32547,
+      "num": 867270,
+      "word": "多图回顾亚冬会中国队夺金瞬间",
+      "onboard_time": 1739076980,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32504,
       "num": 203949,
       "word": "林诗栋蒯曼vs罗伯勒斯肖瑶茜",
@@ -24147,6 +24307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29585,
+      "num": 261077,
+      "word": "女子信偏方生吞鱼胆致肝肾衰竭",
+      "onboard_time": 1739082260,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29563,
       "num": 348709,
       "word": "网友暖心评论安慰林孝埈",
@@ -24168,14 +24336,6 @@
       "word": "韩晓鹏火炬手感言",
       "onboard_time": 1738941383,
       "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 29228,
-      "num": 800498,
-      "word": "多图回顾亚冬会中国队夺金瞬间",
-      "onboard_time": 1739076980,
-      "rank": 2,
       "category": "体育"
     },
     {

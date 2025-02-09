@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1739079436003,
+  "endTime": 1739082542372,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1339,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2727035,
+      "num": 2727035,
+      "word": "韩国犯规",
+      "onboard_time": 1739079502,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2693767,
       "num": 1704350,
       "word": "众星发声悼念",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1738832305,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1994451,
-      "num": 448910,
-      "word": "网红潘宏曾有刑事犯罪记录",
-      "onboard_time": 1737518960,
-      "rank": 10,
-      "category": "网红"
     }
   ],
   "hotgov_list": [
