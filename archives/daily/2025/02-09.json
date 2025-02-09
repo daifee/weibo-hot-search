@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739086524442,
+  "endTime": 1739089543885,
   "band_list": [
     {
       "raw_hot": 2727035,
@@ -9,6 +9,14 @@
       "onboard_time": 1739079502,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2085747,
+      "num": 2085747,
+      "word": "熊出没票房超过射雕",
+      "onboard_time": 1739085919,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 1948685,
@@ -43,6 +51,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1359989,
+      "num": 533768,
+      "word": "演员李施嬅官宣分手",
+      "onboard_time": 1739085800,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1237534,
       "num": 1237534,
       "word": "政务大厅公职人员工作时间睡觉",
@@ -65,6 +81,14 @@
       "onboard_time": 1739025622,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1158679,
+      "num": 1158679,
+      "word": "孙龙赛后怒吼脏就是脏",
+      "onboard_time": 1739086879,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1076675,
@@ -108,11 +132,19 @@
     },
     {
       "raw_hot": 951191,
-      "num": 525095,
+      "num": 532305,
       "word": "陈乔恩打电波脸肿了一个月",
       "onboard_time": 1739078301,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 936790,
+      "num": 936790,
+      "word": "哪吒2已超78亿",
+      "onboard_time": 1739085078,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 915291,
@@ -121,14 +153,6 @@
       "onboard_time": 1739073320,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 889428,
-      "num": 261700,
-      "word": "演员李施嬅官宣分手",
-      "onboard_time": 1739085800,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 873545,
@@ -331,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 531662,
+      "num": 531662,
+      "word": "刘惜君对薛之谦已经产生抗体了",
+      "onboard_time": 1739087421,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 527704,
       "num": 527704,
       "word": "2月狗屎运最旺的星座",
@@ -385,14 +417,6 @@
       "onboard_time": 1739070620,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 497927,
-      "num": 314675,
-      "word": "哪吒2已超78亿",
-      "onboard_time": 1739085078,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 497112,
@@ -467,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 399982,
+      "num": 399982,
+      "word": "浪姐",
+      "onboard_time": 1739087540,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 396379,
       "num": 348324,
       "word": "她的遗物不多我是其中一个",
@@ -515,6 +547,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 363413,
+      "num": 363413,
+      "word": "刘晓庆说自己胃不好大家都笑了",
+      "onboard_time": 1739087360,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 350200,
       "num": 350200,
       "word": "用棉花替代真雪景区已关闭并致歉",
@@ -545,6 +585,14 @@
       "onboard_time": 1739061619,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 335253,
+      "num": 335253,
+      "word": "面包店全体员工自愿为筠连加班",
+      "onboard_time": 1739083220,
+      "rank": 43,
+      "category": "正能量"
     },
     {
       "raw_hot": 328958,
@@ -587,6 +635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 317977,
+      "num": 462003,
+      "word": "定期存钱后睡眠开始变好",
+      "onboard_time": 1739081541,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 316020,
       "num": 350418,
       "word": "成都住房公积金贷款最新调整",
@@ -601,6 +657,14 @@
       "onboard_time": 1739033955,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 310500,
+      "num": 310500,
+      "word": "敖丙最好的朋友是谁呀",
+      "onboard_time": 1739083881,
+      "rank": 28,
+      "category": "动漫,电影"
     },
     {
       "raw_hot": 307393,
@@ -625,14 +689,6 @@
       "onboard_time": 1739079681,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 301101,
-      "num": 263626,
-      "word": "熊出没票房超过射雕",
-      "onboard_time": 1739085919,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 300458,
@@ -675,6 +731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 289234,
+      "num": 289234,
+      "word": "孙龙说韩国队薅倒了两名中国运动员",
+      "onboard_time": 1739086278,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 288569,
       "num": 295557,
       "word": "仙台有树前8集演了别人一部剧",
@@ -691,6 +755,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 280535,
+      "num": 534868,
+      "word": "医保药监回应血压不降麻药不睡",
+      "onboard_time": 1739088200,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 280216,
+      "num": 280216,
+      "word": "李文龙在场边演我",
+      "onboard_time": 1739087180,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 278455,
       "num": 278455,
       "word": "台媒称看李现的剧想去云南定居",
@@ -705,14 +785,6 @@
       "onboard_time": 1739070140,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 266583,
-      "num": 462003,
-      "word": "定期存钱后睡眠开始变好",
-      "onboard_time": 1739081541,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 248935,
@@ -739,12 +811,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 235586,
-      "num": 235586,
-      "word": "面包店全体员工自愿为筠连加班",
-      "onboard_time": 1739083220,
-      "rank": 43,
-      "category": "正能量"
+      "raw_hot": 239162,
+      "num": 239162,
+      "word": "陈飞宇张婧仪或将二搭",
+      "onboard_time": 1739089459,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 234953,
@@ -761,6 +833,14 @@
       "onboard_time": 1739068460,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 232745,
+      "num": 232745,
+      "word": "DeepSeek对普通人有什么机会",
+      "onboard_time": 1739084899,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 230904,
@@ -843,6 +923,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 211592,
+      "num": 211592,
+      "word": "中国队遭韩国队阻挡无缘金牌",
+      "onboard_time": 1739087960,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210679,
       "num": 426701,
       "word": "张伟丽高喊oz获全场回应",
@@ -875,12 +963,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 202829,
-      "num": 202829,
-      "word": "敖丙最好的朋友是谁呀",
-      "onboard_time": 1739083881,
-      "rank": 28,
-      "category": "动漫,电影"
+      "raw_hot": 207889,
+      "num": 207889,
+      "word": "韩国队犯规垫底后有说有笑",
+      "onboard_time": 1739085680,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 201690,
@@ -897,6 +985,14 @@
       "onboard_time": 1739082020,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199900,
+      "num": 199900,
+      "word": "雷军开小米YU7实测一千公里",
+      "onboard_time": 1739087721,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 198109,
@@ -969,6 +1065,14 @@
       "onboard_time": 1739071699,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189463,
+      "num": 535378,
+      "word": "血压不降麻药不睡多来自他人转述",
+      "onboard_time": 1739088260,
+      "rank": 8,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 187721,
@@ -1099,14 +1203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 170536,
-      "num": 170536,
-      "word": "韩国队犯规垫底后有说有笑",
-      "onboard_time": 1739085680,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 168611,
       "num": 168611,
       "word": "才明白刘诗诗新剧英文名含义",
@@ -1121,6 +1217,14 @@
       "onboard_time": 1739085141,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168332,
+      "num": 168332,
+      "word": "刘少林回应接力摘铜",
+      "onboard_time": 1739088801,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 166006,
@@ -1147,20 +1251,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 163020,
-      "num": 163020,
-      "word": "DeepSeek对普通人有什么机会",
-      "onboard_time": 1739084899,
-      "rank": 34,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 162545,
       "num": 162545,
       "word": "小伙失恋半夜整理共享电瓶车",
       "onboard_time": 1739069419,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162211,
+      "num": 162211,
+      "word": "李坚柔说韩国短道不想让中国赢",
+      "onboard_time": 1739089220,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 159834,
@@ -1363,6 +1467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 144984,
+      "num": 144984,
+      "word": "周鸿祎称送车给有能力的人",
+      "onboard_time": 1739089220,
+      "rank": 35,
+      "category": "互联网,汽车"
+    },
+    {
       "raw_hot": 143572,
       "num": 143572,
       "word": "是的她怀了闺蜜的孩子",
@@ -1507,14 +1619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125325,
-      "num": 125325,
-      "word": "孙龙说韩国队薅倒了两名中国运动员",
-      "onboard_time": 1739086278,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 124782,
       "num": 124782,
       "word": "王楚钦自己淋过雨想为别人撑把伞",
@@ -1547,12 +1651,36 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 122253,
+      "num": 601564,
+      "word": "医保及药监部门回应集采药品相关问题",
+      "onboard_time": 1739088080,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121438,
       "num": 121438,
       "word": "王俊凯老一辈的幽默",
       "onboard_time": 1739081240,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120928,
+      "num": 120928,
+      "word": "苗苗跳同款哪吒舞了",
+      "onboard_time": 1739086761,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 120837,
+      "num": 120837,
+      "word": "外国观众看完哪吒是懂内涵的",
+      "onboard_time": 1739077581,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 119613,
@@ -1569,6 +1697,14 @@
       "onboard_time": 1739021123,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118716,
+      "num": 118716,
+      "word": "孙龙说低估了韩国选手的一些想法",
+      "onboard_time": 1739087600,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 117190,
@@ -1596,7 +1732,7 @@
     },
     {
       "raw_hot": 115499,
-      "num": 908006,
+      "num": 991521,
       "word": "四川山体滑坡已致1人遇难",
       "onboard_time": 1739084659,
       "rank": 9,
@@ -1608,6 +1744,14 @@
       "word": "浓眉独行侠首秀",
       "onboard_time": 1739061318,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 113189,
+      "num": 113189,
+      "word": "羽生结弦冰上巡演",
+      "onboard_time": 1739089099,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -1705,6 +1849,14 @@
       "onboard_time": 1739032818,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 100609,
+      "num": 100609,
+      "word": "哪吒百元爆米花桶现货炒到300元",
+      "onboard_time": 1739089039,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 97086,
@@ -1969,6 +2121,14 @@
       "onboard_time": 1739082620,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35001,
+      "num": 313589,
+      "word": "一块石头变成冰壶为何身价涨这么多",
+      "onboard_time": 1739088741,
+      "rank": 19,
+      "category": "议题讨论,体育"
     },
     {
       "raw_hot": 34275,
