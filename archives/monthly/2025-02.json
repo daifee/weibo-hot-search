@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739118284788,
+  "endTime": 1739119139411,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -3107,6 +3107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 705837,
+      "num": 705837,
+      "word": "丽江机场道歉",
+      "onboard_time": 1739117659,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 705110,
       "num": 705110,
       "word": "石矶娘娘mini",
@@ -5801,6 +5809,14 @@
       "onboard_time": 1738372276,
       "rank": 35,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 439237,
+      "num": 439237,
+      "word": "金钟仁退伍",
+      "onboard_time": 1739117659,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 438619,
@@ -9148,7 +9164,7 @@
     },
     {
       "raw_hot": 263615,
-      "num": 158031,
+      "num": 214446,
       "word": "木青",
       "onboard_time": 1739116941,
       "rank": 21,
@@ -10297,14 +10313,6 @@
       "onboard_time": 1738591411,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 233108,
-      "num": 233108,
-      "word": "金钟仁退伍",
-      "onboard_time": 1739117659,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 232966,
@@ -18643,6 +18651,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 135812,
+      "num": 135812,
+      "word": "王濛发视频怒斥韩国选手推搡林孝埈",
+      "onboard_time": 1739117958,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135789,
       "num": 135789,
       "word": "今后七天全国大部气温偏低",
@@ -18729,14 +18745,6 @@
       "onboard_time": 1739068939,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134793,
-      "num": 335159,
-      "word": "丽江机场道歉",
-      "onboard_time": 1739117659,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134711,
@@ -22844,7 +22852,7 @@
     },
     {
       "raw_hot": 85084,
-      "num": 85084,
+      "num": 85484,
       "word": "11日起雨雪范围扩大",
       "onboard_time": 1739115860,
       "rank": 48,
@@ -22945,14 +22953,6 @@
       "onboard_time": 1738457416,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 83776,
-      "num": 84715,
-      "word": "王濛发视频怒斥韩国选手推搡林孝埈",
-      "onboard_time": 1739117958,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 83366,
@@ -23625,6 +23625,14 @@
       "onboard_time": 1738668565,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70373,
+      "num": 199500,
+      "word": "超2000万人申请国补买手机等",
+      "onboard_time": 1739116460,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 70307,
@@ -27099,6 +27107,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 17316,
+      "num": 202732,
+      "word": "中国队一天5次包揽金银铜",
+      "onboard_time": 1739118079,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 17301,
       "num": 187029,
       "word": "新航回应飞机疑因乘客上厕所延误起飞",
@@ -27121,14 +27137,6 @@
       "onboard_time": 1738782133,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 16558,
-      "num": 132625,
-      "word": "中国队一天5次包揽金银铜",
-      "onboard_time": 1739118079,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 16035,

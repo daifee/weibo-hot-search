@@ -1,6 +1,6 @@
 {
   "startTime": 1739118284788,
-  "endTime": 1739118284788,
+  "endTime": 1739119139411,
   "band_list": [
     {
       "raw_hot": 1278985,
@@ -59,12 +59,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 705837,
+      "num": 705837,
+      "word": "丽江机场道歉",
+      "onboard_time": 1739117659,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 473759,
       "num": 473759,
       "word": "难哄",
       "onboard_time": 1739114962,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 439237,
+      "num": 439237,
+      "word": "金钟仁退伍",
+      "onboard_time": 1739117659,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 362818,
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 302197,
-      "num": 167962,
+      "num": 216626,
       "word": "石矶娘娘的配音竟是公司行政",
       "onboard_time": 1739102843,
       "rank": 20,
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 263615,
-      "num": 158031,
+      "num": 214446,
       "word": "木青",
       "onboard_time": 1739116941,
       "rank": 21,
@@ -140,23 +156,15 @@
     },
     {
       "raw_hot": 251663,
-      "num": 157555,
+      "num": 210567,
       "word": "哪吒2票房超90亿将进入全球影史前30",
       "onboard_time": 1739107822,
       "rank": 22,
       "category": "电影"
     },
     {
-      "raw_hot": 233108,
-      "num": 233108,
-      "word": "金钟仁退伍",
-      "onboard_time": 1739117659,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 225646,
-      "num": 144192,
+      "num": 194002,
       "word": "真的不要把肉泡水里解冻了",
       "onboard_time": 1739111303,
       "rank": 24,
@@ -179,24 +187,24 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 183533,
-      "num": 183533,
-      "word": "孙颖莎新加坡夺冠后发博",
-      "onboard_time": 1739111362,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 183464,
-      "num": 143501,
+      "raw_hot": 197029,
+      "num": 197029,
       "word": "敖光",
       "onboard_time": 1739118019,
       "rank": 27,
       "category": "电影"
     },
     {
+      "raw_hot": 183533,
+      "num": 220898,
+      "word": "孙颖莎新加坡夺冠后发博",
+      "onboard_time": 1739111362,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173816,
-      "num": 143412,
+      "num": 153413,
       "word": "做完近视手术第二天的真实感受",
       "onboard_time": 1739105784,
       "rank": 28,
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 173600,
-      "num": 173600,
+      "num": 223993,
       "word": "2024年全国结婚登记数再度下探",
       "onboard_time": 1739109322,
       "rank": 19,
@@ -212,11 +220,19 @@
     },
     {
       "raw_hot": 151022,
-      "num": 140499,
+      "num": 145212,
       "word": "主人取回狗狗被要求不准带货接广告",
       "onboard_time": 1739103982,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 145995,
+      "num": 145995,
+      "word": "藕饼",
+      "onboard_time": 1739117420,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 145957,
@@ -228,7 +244,7 @@
     },
     {
       "raw_hot": 144419,
-      "num": 144419,
+      "num": 205548,
       "word": "40万新车被小孩引燃车主又订了一辆",
       "onboard_time": 1739101342,
       "rank": 23,
@@ -243,12 +259,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 134793,
-      "num": 335159,
-      "word": "丽江机场道歉",
-      "onboard_time": 1739117659,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 135812,
+      "num": 135812,
+      "word": "王濛发视频怒斥韩国选手推搡林孝埈",
+      "onboard_time": 1739117958,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 130617,
@@ -299,12 +315,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 106382,
-      "num": 106382,
-      "word": "藕饼",
-      "onboard_time": 1739117420,
-      "rank": 41,
-      "category": "电影"
+      "raw_hot": 105725,
+      "num": 105725,
+      "word": "潘宏基地回应限制主人取回狗狗",
+      "onboard_time": 1739108482,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 105158,
@@ -339,14 +355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 96660,
-      "num": 96660,
-      "word": "潘宏基地回应限制主人取回狗狗",
-      "onboard_time": 1739108482,
-      "rank": 47,
-      "category": "网红"
-    },
-    {
       "raw_hot": 95303,
       "num": 117004,
       "word": "孙颖莎假装擦球桌太可爱了",
@@ -356,19 +364,19 @@
     },
     {
       "raw_hot": 85084,
-      "num": 85084,
+      "num": 85484,
       "word": "11日起雨雪范围扩大",
       "onboard_time": 1739115860,
       "rank": 48,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 83776,
-      "num": 84715,
-      "word": "王濛发视频怒斥韩国选手推搡林孝埈",
-      "onboard_time": 1739117958,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 70373,
+      "num": 199500,
+      "word": "超2000万人申请国补买手机等",
+      "onboard_time": 1739116460,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 68660,
@@ -376,6 +384,14 @@
       "word": "三面五星红旗一起升起",
       "onboard_time": 1739106743,
       "rank": 2,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 58687,
+      "num": 85473,
+      "word": "林诗栋夺冠获54.7万奖金",
+      "onboard_time": 1739109262,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -395,8 +411,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16558,
-      "num": 132625,
+      "raw_hot": 17316,
+      "num": 202732,
       "word": "中国队一天5次包揽金银铜",
       "onboard_time": 1739118079,
       "rank": 32,

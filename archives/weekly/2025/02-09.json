@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739118284788,
+  "endTime": 1739119139411,
   "band_list": [
     {
       "raw_hot": 3533201,
@@ -459,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 705837,
+      "num": 705837,
+      "word": "丽江机场道歉",
+      "onboard_time": 1739117659,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 705701,
       "num": 426423,
       "word": "公认是烂片但你却很喜欢的电影",
@@ -889,6 +897,14 @@
       "onboard_time": 1739026221,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 439237,
+      "num": 439237,
+      "word": "金钟仁退伍",
+      "onboard_time": 1739117659,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 437811,
@@ -1372,7 +1388,7 @@
     },
     {
       "raw_hot": 263615,
-      "num": 158031,
+      "num": 214446,
       "word": "木青",
       "onboard_time": 1739116941,
       "rank": 21,
@@ -1465,14 +1481,6 @@
       "onboard_time": 1739068460,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 233108,
-      "num": 233108,
-      "word": "金钟仁退伍",
-      "onboard_time": 1739117659,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 232848,
@@ -1947,6 +1955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197029,
+      "num": 197029,
+      "word": "敖光",
+      "onboard_time": 1739118019,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 195674,
       "num": 195674,
       "word": "这是一块金灿灿的铜牌",
@@ -2137,14 +2153,6 @@
       "onboard_time": 1739100261,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 183464,
-      "num": 143501,
-      "word": "敖光",
-      "onboard_time": 1739118019,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 180743,
@@ -2659,6 +2667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145995,
+      "num": 145995,
+      "word": "藕饼",
+      "onboard_time": 1739117420,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 145990,
       "num": 145990,
       "word": "国乒包揽WTT新加坡大满贯五金",
@@ -2835,20 +2851,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135812,
+      "num": 135812,
+      "word": "王濛发视频怒斥韩国选手推搡林孝埈",
+      "onboard_time": 1739117958,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134807,
       "num": 515841,
       "word": "孙龙林孝埈刘少昂携手晋级",
       "onboard_time": 1739068939,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134793,
-      "num": 335159,
-      "word": "丽江机场道歉",
-      "onboard_time": 1739117659,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133795,
@@ -3195,14 +3211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 106382,
-      "num": 106382,
-      "word": "藕饼",
-      "onboard_time": 1739117420,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 105291,
       "num": 225759,
       "word": "新加坡大满贯女单颁奖典礼",
@@ -3388,19 +3396,11 @@
     },
     {
       "raw_hot": 85084,
-      "num": 85084,
+      "num": 85484,
       "word": "11日起雨雪范围扩大",
       "onboard_time": 1739115860,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 83776,
-      "num": 84715,
-      "word": "王濛发视频怒斥韩国选手推搡林孝埈",
-      "onboard_time": 1739117958,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 80874,
@@ -3473,6 +3473,14 @@
       "onboard_time": 1739092880,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 70373,
+      "num": 199500,
+      "word": "超2000万人申请国补买手机等",
+      "onboard_time": 1739116460,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 68089,
@@ -3883,19 +3891,19 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 17316,
+      "num": 202732,
+      "word": "中国队一天5次包揽金银铜",
+      "onboard_time": 1739118079,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 17195,
       "num": 118738,
       "word": "林诗栋晋级男子单打决赛",
       "onboard_time": 1739033178,
       "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 16558,
-      "num": 132625,
-      "word": "中国队一天5次包揽金银铜",
-      "onboard_time": 1739118079,
-      "rank": 32,
       "category": "体育"
     },
     {
