@@ -1,6 +1,6 @@
 {
   "startTime": 1739118284788,
-  "endTime": 1739136943545,
+  "endTime": 1739139652107,
   "band_list": [
     {
       "raw_hot": 1278985,
@@ -155,6 +155,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 270473,
+      "num": 383553,
+      "word": "哪吒2距全球影史票房榜1差一百多亿",
+      "onboard_time": 1739135411,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 251663,
       "num": 210567,
       "word": "哪吒2票房超90亿将进入全球影史前30",
@@ -209,14 +217,6 @@
       "onboard_time": 1739111362,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 180178,
-      "num": 185512,
-      "word": "哪吒2距全球影史票房榜1差一百多亿",
-      "onboard_time": 1739135411,
-      "rank": 0,
-      "category": "电影"
     },
     {
       "raw_hot": 173816,
@@ -395,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92406,
+      "num": 92406,
+      "word": "山东一交警被无证司机冲撞不幸牺牲",
+      "onboard_time": 1739135411,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85084,
       "num": 85484,
       "word": "11日起雨雪范围扩大",
@@ -467,14 +475,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 42907,
-      "num": 42907,
-      "word": "山东一交警被无证司机冲撞不幸牺牲",
-      "onboard_time": 1739135411,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 27909,
       "num": 523601,
       "word": "中国队短道速滑女子3000米接力金牌",
@@ -497,6 +497,14 @@
       "onboard_time": 1739126112,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 24462,
+      "num": 24462,
+      "word": "全网首部观看人数破亿短剧",
+      "onboard_time": 1739131031,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 22521,
@@ -523,12 +531,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 19920,
-      "num": 19920,
-      "word": "全网首部观看人数破亿短剧",
-      "onboard_time": 1739131031,
-      "rank": 46,
-      "category": "剧集"
+      "raw_hot": 20291,
+      "num": 20291,
+      "word": "7小孩玩火引发森林火情家长赔145万",
+      "onboard_time": 1739138651,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19263,
@@ -539,20 +547,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18698,
+      "num": 21268,
+      "word": "斗破苍穹",
+      "onboard_time": 1739126533,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 17316,
       "num": 202732,
       "word": "中国队一天5次包揽金银铜",
       "onboard_time": 1739118079,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 17224,
-      "num": 21268,
-      "word": "斗破苍穹",
-      "onboard_time": 1739126533,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 16383,
@@ -579,12 +587,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12553,
-      "num": 15365,
+      "raw_hot": 12814,
+      "num": 16037,
       "word": "超话心动贴贴大会",
       "onboard_time": 1739127192,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 12392,
+      "num": 16037,
+      "word": "刘宇宁斗破苍穹年番3主题曲",
+      "onboard_time": 1739133551,
+      "rank": 49,
+      "category": "剧集,动漫"
     },
     {
       "raw_hot": 8261,

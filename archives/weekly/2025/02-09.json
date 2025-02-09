@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739136943545,
+  "endTime": 1739139652107,
   "band_list": [
     {
       "raw_hot": 3533201,
@@ -1395,6 +1395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 270473,
+      "num": 383553,
+      "word": "哪吒2距全球影史票房榜1差一百多亿",
+      "onboard_time": 1739135411,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 259183,
       "num": 213375,
       "word": "申公豹的腰",
@@ -2177,14 +2185,6 @@
       "onboard_time": 1739101460,
       "rank": 45,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 180178,
-      "num": 185512,
-      "word": "哪吒2距全球影史票房榜1差一百多亿",
-      "onboard_time": 1739135411,
-      "rank": 0,
-      "category": "电影"
     },
     {
       "raw_hot": 179709,
@@ -3387,6 +3387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92406,
+      "num": 92406,
+      "word": "山东一交警被无证司机冲撞不幸牺牲",
+      "onboard_time": 1739135411,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91119,
       "num": 118887,
       "word": "张兰想在风口上逐利要承担后果",
@@ -3691,14 +3699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 42907,
-      "num": 42907,
-      "word": "山东一交警被无证司机冲撞不幸牺牲",
-      "onboard_time": 1739135411,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40653,
       "num": 40653,
       "word": "武警已到达四川山体滑坡现场救援",
@@ -3931,6 +3931,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 24462,
+      "num": 24462,
+      "word": "全网首部观看人数破亿短剧",
+      "onboard_time": 1739131031,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 24149,
       "num": 24149,
       "word": "蛇来运转春节档",
@@ -3979,20 +3987,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20291,
+      "num": 20291,
+      "word": "7小孩玩火引发森林火情家长赔145万",
+      "onboard_time": 1739138651,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20178,
       "num": 30352,
       "word": "美流感病例激增",
       "onboard_time": 1739044751,
       "rank": 23,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 19920,
-      "num": 19920,
-      "word": "全网首部观看人数破亿短剧",
-      "onboard_time": 1739131031,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 19263,
@@ -4011,6 +4019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18698,
+      "num": 21268,
+      "word": "斗破苍穹",
+      "onboard_time": 1739126533,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 17399,
       "num": 45071,
       "word": "宜宾筠连山体滑坡救援正在进行",
@@ -4025,14 +4041,6 @@
       "onboard_time": 1739118079,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 17224,
-      "num": 21268,
-      "word": "斗破苍穹",
-      "onboard_time": 1739126533,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 17195,
@@ -4107,6 +4115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 12814,
+      "num": 16037,
+      "word": "超话心动贴贴大会",
+      "onboard_time": 1739127192,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 12741,
       "num": 54433,
       "word": "公俐对林孝埈说没事",
@@ -4123,12 +4139,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12553,
-      "num": 15365,
-      "word": "超话心动贴贴大会",
-      "onboard_time": 1739127192,
+      "raw_hot": 12392,
+      "num": 16037,
+      "word": "刘宇宁斗破苍穹年番3主题曲",
+      "onboard_time": 1739133551,
       "rank": 49,
-      "category": "作品衍生"
+      "category": "剧集,动漫"
     },
     {
       "raw_hot": 12148,
