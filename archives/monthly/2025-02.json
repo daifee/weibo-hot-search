@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739115341156,
+  "endTime": 1739118284788,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1355,6 +1355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1278985,
+      "num": 1278985,
+      "word": "丽江机场被曝撕头等舱乘客登机牌",
+      "onboard_time": 1739113283,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1264686,
       "num": 510076,
       "word": "麦琳 浪姐6",
@@ -1611,14 +1619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1114639,
-      "num": 1114639,
-      "word": "丽江机场被曝撕头等舱乘客登机牌",
-      "onboard_time": 1739113283,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1109967,
       "num": 708942,
       "word": "哪吒2票房破30亿",
@@ -1825,6 +1825,14 @@
       "onboard_time": 1738371496,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1033363,
+      "num": 1033363,
+      "word": "木青燃气灶分手",
+      "onboard_time": 1739114182,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 1030500,
@@ -2297,6 +2305,14 @@
       "onboard_time": 1738724601,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 891295,
+      "num": 333830,
+      "word": "美国观众谈看完哪吒2感受",
+      "onboard_time": 1739114782,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 890110,
@@ -5291,6 +5307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 473759,
+      "num": 473759,
+      "word": "难哄",
+      "onboard_time": 1738492939,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 473457,
       "num": 473457,
       "word": "接财神需要注意什么",
@@ -7011,14 +7035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 351538,
-      "num": 233979,
-      "word": "美国观众谈看完哪吒2感受",
-      "onboard_time": 1739114782,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 350894,
       "num": 282942,
       "word": "鹿童配音演员回应因反派被骂",
@@ -7129,14 +7145,6 @@
       "onboard_time": 1738902806,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 346641,
-      "num": 299990,
-      "word": "木青燃气灶分手",
-      "onboard_time": 1739114182,
-      "rank": 35,
-      "category": "网红"
     },
     {
       "raw_hot": 346624,
@@ -8939,14 +8947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 272270,
-      "num": 272270,
-      "word": "难哄",
-      "onboard_time": 1738492939,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 272195,
       "num": 272195,
       "word": "缅怀中国核潜艇之父黄旭华",
@@ -9145,6 +9145,14 @@
       "onboard_time": 1738741101,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 263615,
+      "num": 158031,
+      "word": "木青",
+      "onboard_time": 1739116941,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 263527,
@@ -10289,6 +10297,14 @@
       "onboard_time": 1738591411,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 233108,
+      "num": 233108,
+      "word": "金钟仁退伍",
+      "onboard_time": 1739117659,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 232966,
@@ -12753,6 +12769,14 @@
       "onboard_time": 1739070920,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197710,
+      "num": 143814,
+      "word": "张峻豪谈solo艺人",
+      "onboard_time": 1739117717,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 197494,
@@ -18707,6 +18731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134793,
+      "num": 335159,
+      "word": "丽江机场道歉",
+      "onboard_time": 1739117659,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134711,
       "num": 155380,
       "word": "Doinb采访",
@@ -21547,6 +21579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 104392,
+      "num": 104392,
+      "word": "罗予彤浪姐6录制",
+      "onboard_time": 1739112143,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104297,
       "num": 252239,
       "word": "唐探1900路演隐藏彩蛋",
@@ -21945,6 +21985,14 @@
       "onboard_time": 1738912583,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100419,
+      "num": 100419,
+      "word": "董思成古装",
+      "onboard_time": 1739116520,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 100396,
@@ -22795,6 +22843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85084,
+      "num": 85084,
+      "word": "11日起雨雪范围扩大",
+      "onboard_time": 1739115860,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85037,
       "num": 89710,
       "word": "谷爱凌亚冬会退赛",
@@ -22889,6 +22945,14 @@
       "onboard_time": 1738457416,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 83776,
+      "num": 84715,
+      "word": "王濛发视频怒斥韩国选手推搡林孝埈",
+      "onboard_time": 1739117958,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 83366,
@@ -26379,6 +26443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26900,
+      "num": 105200,
+      "word": "三亚纯玩团被曝诱导消费续",
+      "onboard_time": 1739116341,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26881,
       "num": 314089,
       "word": "东亚女霸总凭啥总要爱情拯救",
@@ -27049,6 +27121,14 @@
       "onboard_time": 1738782133,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 16558,
+      "num": 132625,
+      "word": "中国队一天5次包揽金银铜",
+      "onboard_time": 1739118079,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 16035,
