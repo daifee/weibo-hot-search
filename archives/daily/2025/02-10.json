@@ -1,6 +1,6 @@
 {
   "startTime": 1739118284788,
-  "endTime": 1739132517064,
+  "endTime": 1739133341139,
   "band_list": [
     {
       "raw_hot": 1278985,
@@ -531,7 +531,7 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 16102,
+      "raw_hot": 16383,
       "num": 73370,
       "word": "老人哽咽说一定不能忘记黄旭华",
       "onboard_time": 1739129111,
@@ -553,6 +553,14 @@
       "onboard_time": 1739127913,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14402,
+      "num": 17237,
+      "word": "全网首部观看人数破亿短剧",
+      "onboard_time": 1739131031,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 8261,
