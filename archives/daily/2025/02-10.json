@@ -1,6 +1,6 @@
 {
   "startTime": 1739118284788,
-  "endTime": 1739143306101,
+  "endTime": 1739144136229,
   "band_list": [
     {
       "raw_hot": 1278985,
@@ -9,6 +9,14 @@
       "onboard_time": 1739113283,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1130933,
+      "num": 1130933,
+      "word": "哪吒2距全球影史票房榜1差一百多亿",
+      "onboard_time": 1739135411,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 1033726,
@@ -27,16 +35,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 925350,
-      "num": 925350,
-      "word": "哪吒2距全球影史票房榜1差一百多亿",
-      "onboard_time": 1739135411,
-      "rank": 0,
-      "category": "电影"
-    },
-    {
       "raw_hot": 891295,
-      "num": 352936,
+      "num": 438949,
       "word": "美国观众谈看完哪吒2感受",
       "onboard_time": 1739114782,
       "rank": 10,
@@ -164,11 +164,19 @@
     },
     {
       "raw_hot": 267653,
-      "num": 172952,
+      "num": 200956,
       "word": "王濛发视频怒斥韩国选手推搡林孝埈",
       "onboard_time": 1739117958,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 266544,
+      "num": 266544,
+      "word": "7小孩玩火引发森林火情家长赔145万",
+      "onboard_time": 1739138651,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 251663,
@@ -195,6 +203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 203365,
+      "num": 203365,
+      "word": "山东一交警被无证司机冲撞不幸牺牲",
+      "onboard_time": 1739135411,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 197710,
       "num": 143814,
       "word": "张峻豪谈solo艺人",
@@ -211,28 +227,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 188633,
-      "num": 188633,
-      "word": "山东一交警被无证司机冲撞不幸牺牲",
-      "onboard_time": 1739135411,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 183533,
       "num": 220898,
       "word": "孙颖莎新加坡夺冠后发博",
       "onboard_time": 1739111362,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 180933,
-      "num": 180933,
-      "word": "7小孩玩火引发森林火情家长赔145万",
-      "onboard_time": 1739138651,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 173816,
@@ -251,8 +251,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 151022,
-      "num": 145212,
+      "raw_hot": 161933,
+      "num": 161933,
       "word": "主人取回狗狗被要求不准带货接广告",
       "onboard_time": 1739103982,
       "rank": 30,
@@ -307,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127422,
+      "num": 127422,
+      "word": "封神2否认找外包公司4500元制作殷郊法相特效",
+      "onboard_time": 1739119756,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 123444,
       "num": 123444,
       "word": "外国网友要把奥斯卡颁给易烊千玺",
@@ -339,15 +347,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 115365,
-      "num": 115365,
-      "word": "封神2否认找外包公司4500元制作殷郊法相特效",
-      "onboard_time": 1739119756,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 107817,
+      "raw_hot": 108506,
       "num": 124043,
       "word": "男孩被卖时亲眼看见养父母付了200元",
       "onboard_time": 1739095759,
@@ -419,20 +419,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78651,
+      "num": 78651,
+      "word": "全网首部观看人数破亿短剧",
+      "onboard_time": 1739131031,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 70373,
       "num": 199500,
       "word": "超2000万人申请国补买手机等",
       "onboard_time": 1739116460,
       "rank": 25,
       "category": "数码"
-    },
-    {
-      "raw_hot": 69046,
-      "num": 69046,
-      "word": "全网首部观看人数破亿短剧",
-      "onboard_time": 1739131031,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 68660,
@@ -443,12 +443,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60535,
+      "num": 60535,
+      "word": "林孝埈能为胜利拼搏到凌晨5点",
+      "onboard_time": 1739142435,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60524,
       "num": 121321,
       "word": "南京地铁10号线邀请钱七虎指导抢修",
       "onboard_time": 1739119457,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59913,
+      "num": 59913,
+      "word": "哪吒2票房",
+      "onboard_time": 1739123894,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 58687,
@@ -467,14 +483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 49341,
-      "num": 49341,
-      "word": "哪吒2票房",
-      "onboard_time": 1739123894,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 48706,
       "num": 105400,
       "word": "孙颖莎夺冠自拍",
@@ -491,15 +499,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 36673,
-      "num": 39768,
+      "raw_hot": 43910,
+      "num": 43910,
       "word": "斗破苍穹",
       "onboard_time": 1739126533,
       "rank": 48,
       "category": "动漫"
     },
     {
-      "raw_hot": 31217,
+      "raw_hot": 43832,
       "num": 523601,
       "word": "中国队短道速滑女子3000米接力金牌",
       "onboard_time": 1739106321,
@@ -521,14 +529,6 @@
       "onboard_time": 1739126112,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 23659,
-      "num": 39689,
-      "word": "林孝埈能为胜利拼搏到凌晨5点",
-      "onboard_time": 1739142435,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 22521,
@@ -611,7 +611,7 @@
       "category": "剧集,动漫"
     },
     {
-      "raw_hot": 11179,
+      "raw_hot": 12295,
       "num": 77962,
       "word": "一诺Cat合体秀车技",
       "onboard_time": 1739142736,
