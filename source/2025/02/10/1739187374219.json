@@ -1,0 +1,410 @@
+{
+  "runTime": 1739187374219,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1950017,
+        "num": 1950017,
+        "word": "DeepSeek",
+        "onboard_time": 1739177721,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 984387,
+        "num": 984387,
+        "word": "哪吒2悉尼上映数百观众等1小时没看成",
+        "onboard_time": 1739185098,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 44071,
+        "num": 660313,
+        "word": "中国队已集齐2个金牌九宫格",
+        "onboard_time": 1739177119,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 513743,
+        "num": 513743,
+        "word": "光线传媒回应哪吒2被偷票房",
+        "onboard_time": 1739185820,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 401978,
+        "num": 401978,
+        "word": "金价",
+        "onboard_time": 1739158583,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 304886,
+        "num": 304886,
+        "word": "丽江机场的道歉为何难平息质疑",
+        "onboard_time": 1739176460,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 428728,
+        "num": 301410,
+        "word": "票房TOP30唯一非好莱坞影片",
+        "onboard_time": 1739176041,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 323407,
+        "num": 286270,
+        "word": "刘诗诗扛剧能力",
+        "onboard_time": 1739182099,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262609,
+        "num": 262609,
+        "word": "男子玩蹦床跳进海绵池摔成9级伤残",
+        "onboard_time": 1739184860,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89099,
+        "num": 262207,
+        "word": "丽江机场中转服务冷漠寒了游客心",
+        "onboard_time": 1739185640,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10037874,
+        "num": 10037874,
+        "word": "疑似李明德前女友发文",
+        "onboard_time": 1739186001,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1388000,
+        "num": 254149,
+        "word": "曝哪吒2停了300家影院密钥",
+        "onboard_time": 1739181261,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 671000,
+        "num": 249010,
+        "word": "赵露思给小谢女儿过生日",
+        "onboard_time": 1739185040,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 847980,
+        "num": 244882,
+        "word": "曝哪吒2被偷票房",
+        "onboard_time": 1739177359,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 62415,
+        "num": 240933,
+        "word": "暗访真工厂里的假棉被",
+        "onboard_time": 1739185759,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 562335,
+        "num": 239356,
+        "word": "张雅钦秒删",
+        "onboard_time": 1739178561,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 474361,
+        "num": 232924,
+        "word": "谢娜带留置针看张杰演唱会",
+        "onboard_time": 1739182221,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 231778,
+        "num": 231778,
+        "word": "我国首代核潜艇4位总师均已逝世",
+        "onboard_time": 1739182339,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229992,
+        "num": 229992,
+        "word": "霉霉超级碗被嘘男友感到很无助",
+        "onboard_time": 1739182941,
+        "rank": 18,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 47410,
+        "num": 229454,
+        "word": "小心有人拿镀金黄铜冒充金饰",
+        "onboard_time": 1739186060,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61271,
+        "num": 228007,
+        "word": "SM新女团接力自我介绍",
+        "onboard_time": 1739187082,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1308952,
+        "num": 226780,
+        "word": "赵露思把快坏掉水果制成糖葫芦",
+        "onboard_time": 1739182641,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439594,
+        "num": 225515,
+        "word": "她是武则天不是武媚娘",
+        "onboard_time": 1739178680,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230401,
+        "num": 224581,
+        "word": "宋妍霏头包脸",
+        "onboard_time": 1739187082,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 223420,
+        "num": 223420,
+        "word": "哪吒2",
+        "onboard_time": 1739148141,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 207279,
+        "num": 207279,
+        "word": "张睿语音",
+        "onboard_time": 1739184439,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206538,
+        "num": 206538,
+        "word": "谁教李昀锐这么背包的",
+        "onboard_time": 1739181201,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202266,
+        "num": 202266,
+        "word": "Jennie时隔五年发微博",
+        "onboard_time": 1739171180,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196187,
+        "num": 196187,
+        "word": "买金条应该去银行还是金店",
+        "onboard_time": 1739172801,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 187573,
+        "num": 187573,
+        "word": "11岁小孩姐造假人逃避背书",
+        "onboard_time": 1739172921,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16971,
+        "num": 180211,
+        "word": "风箫用心做好每件小事",
+        "onboard_time": 1739185881,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 176126,
+        "num": 176126,
+        "word": "hearts2hearts",
+        "onboard_time": 1739186602,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 174359,
+        "num": 174359,
+        "word": "00后小伙苦练电焊成大师傅月入1万6",
+        "onboard_time": 1739178860,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168216,
+        "num": 168216,
+        "word": "女人搞暧昧男人搞雄竞",
+        "onboard_time": 1739186060,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155767,
+        "num": 155767,
+        "word": "马斯克审查五角大楼捅了多大马蜂窝",
+        "onboard_time": 1739184260,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26871,
+        "num": 153651,
+        "word": "2025全国室内田径大奖赛",
+        "onboard_time": 1739187322,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152846,
+        "num": 152846,
+        "word": "哪吒2票房",
+        "onboard_time": 1739183903,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151975,
+        "num": 151975,
+        "word": "虞书欣水果摊少女氛围感",
+        "onboard_time": 1739179221,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147131,
+        "num": 147131,
+        "word": "菲警方找到绑架案中国母子遗骸",
+        "onboard_time": 1739181920,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 141785,
+        "num": 141785,
+        "word": "殡仪馆众人齐声大喊黄老一路走好",
+        "onboard_time": 1739178860,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141337,
+        "num": 141337,
+        "word": "肖战说的是谁",
+        "onboard_time": 1739164641,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136630,
+        "num": 136630,
+        "word": "上班一周被确诊为卡皮巴拉",
+        "onboard_time": 1739171840,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134080,
+        "num": 134080,
+        "word": "4000至6000元手机销售量爆单",
+        "onboard_time": 1739166441,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 133553,
+        "num": 133553,
+        "word": "老鹰球迷认为霉霉是叛徒",
+        "onboard_time": 1739181920,
+        "rank": 43,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 129803,
+        "num": 129803,
+        "word": "无痛取美瞳",
+        "onboard_time": 1739182520,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 124736,
+        "num": 124736,
+        "word": "五福临门",
+        "onboard_time": 1739180001,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123536,
+        "num": 123536,
+        "word": "没感冒却一直流鼻涕竟是脑脊液鼻漏",
+        "onboard_time": 1739175980,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121459,
+        "num": 121459,
+        "word": "太乙真人配音演员催罗云熙营业",
+        "onboard_time": 1739180301,
+        "rank": 47,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 119912,
+        "num": 119912,
+        "word": "簪中录开通视频号",
+        "onboard_time": 1739185220,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119770,
+        "num": 119770,
+        "word": "农村妹日入800元的一天",
+        "onboard_time": 1739176041,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记这样部署东北全面振兴#"
+    }
+  }
+}

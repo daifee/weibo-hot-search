@@ -1,10 +1,10 @@
 {
   "startTime": 1739118284788,
-  "endTime": 1739186351722,
+  "endTime": 1739187374219,
   "band_list": [
     {
-      "raw_hot": 5530376,
-      "num": 5530376,
+      "raw_hot": 10037874,
+      "num": 10037874,
       "word": "疑似李明德前女友发文",
       "onboard_time": 1739186001,
       "rank": 10,
@@ -195,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 984387,
+      "num": 984387,
+      "word": "哪吒2悉尼上映数百观众等1小时没看成",
+      "onboard_time": 1739185098,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 978915,
       "num": 447625,
       "word": "Jennie时隔五年发微博",
@@ -313,14 +321,6 @@
       "onboard_time": 1739109801,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 775769,
-      "num": 775769,
-      "word": "哪吒2悉尼上映数百观众等1小时没看成",
-      "onboard_time": 1739185098,
-      "rank": 1,
-      "category": "电影"
     },
     {
       "raw_hot": 763237,
@@ -539,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 513743,
+      "num": 513743,
+      "word": "光线传媒回应哪吒2被偷票房",
+      "onboard_time": 1739185820,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 500184,
       "num": 398797,
       "word": "赵露思自制冰糖葫芦小零食",
@@ -684,7 +692,7 @@
     },
     {
       "raw_hot": 372872,
-      "num": 281288,
+      "num": 286270,
       "word": "刘诗诗扛剧能力",
       "onboard_time": 1739182099,
       "rank": 26,
@@ -963,6 +971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 262609,
+      "num": 262609,
+      "word": "男子玩蹦床跳进海绵池摔成9级伤残",
+      "onboard_time": 1739184860,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 259686,
       "num": 230168,
       "word": "菲警方找到绑架案中国母子遗骸",
@@ -1083,6 +1099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 230401,
+      "num": 224581,
+      "word": "宋妍霏头包脸",
+      "onboard_time": 1739187082,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 229505,
       "num": 229505,
       "word": "上班一周被确诊为卡皮巴拉",
@@ -1179,14 +1203,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 217497,
-      "num": 217497,
-      "word": "男子玩蹦床跳进海绵池摔成9级伤残",
-      "onboard_time": 1739184860,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 216719,
       "num": 216719,
       "word": "宣璐演技",
@@ -1225,6 +1241,14 @@
       "onboard_time": 1739161943,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207279,
+      "num": 207279,
+      "word": "张睿语音",
+      "onboard_time": 1739184439,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 207275,
@@ -1435,14 +1459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190586,
-      "num": 190586,
-      "word": "张睿语音",
-      "onboard_time": 1739184439,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 190289,
       "num": 377994,
       "word": "世界第一小石头",
@@ -1633,6 +1649,14 @@
       "onboard_time": 1739161282,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 176126,
+      "num": 176126,
+      "word": "hearts2hearts",
+      "onboard_time": 1739186602,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 175835,
@@ -2307,6 +2331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89099,
+      "num": 285069,
+      "word": "丽江机场中转服务冷漠寒了游客心",
+      "onboard_time": 1739185640,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88177,
       "num": 244574,
       "word": "谢娜这段时间一直陪孩子们",
@@ -2467,6 +2499,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 62415,
+      "num": 277413,
+      "word": "暗访真工厂里的假棉被",
+      "onboard_time": 1739185759,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61271,
+      "num": 228007,
+      "word": "SM新女团接力自我介绍",
+      "onboard_time": 1739187082,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60535,
       "num": 60535,
       "word": "林孝埈能为胜利拼搏到凌晨5点",
@@ -2555,11 +2603,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 48137,
-      "num": 285069,
-      "word": "丽江机场中转服务冷漠寒了游客心",
-      "onboard_time": 1739185640,
-      "rank": 9,
+      "raw_hot": 47410,
+      "num": 270354,
+      "word": "小心有人拿镀金黄铜冒充金饰",
+      "onboard_time": 1739186060,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2585,14 +2633,6 @@
       "onboard_time": 1739169740,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 46445,
-      "num": 286329,
-      "word": "光线传媒回应哪吒2被偷票房",
-      "onboard_time": 1739185820,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 45740,
@@ -2683,6 +2723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26871,
+      "num": 153651,
+      "word": "2025全国室内田径大奖赛",
+      "onboard_time": 1739187322,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26325,
       "num": 311267,
       "word": "林孝埈想做得更好",
@@ -2705,14 +2753,6 @@
       "onboard_time": 1739179522,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 23441,
-      "num": 277413,
-      "word": "暗访真工厂里的假棉被",
-      "onboard_time": 1739185759,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23340,
@@ -2763,14 +2803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 20331,
-      "num": 270354,
-      "word": "小心有人拿镀金黄铜冒充金饰",
-      "onboard_time": 1739186060,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 19263,
       "num": 186932,
       "word": "南京地铁10号线预计3月1日全线恢复",
@@ -2809,6 +2841,14 @@
       "onboard_time": 1739126711,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16971,
+      "num": 180211,
+      "word": "风箫用心做好每件小事",
+      "onboard_time": 1739185881,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 15767,
