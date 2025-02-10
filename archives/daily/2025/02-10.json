@@ -1,6 +1,6 @@
 {
   "startTime": 1739118284788,
-  "endTime": 1739201106623,
+  "endTime": 1739201943949,
   "band_list": [
     {
       "raw_hot": 10037874,
@@ -451,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 680389,
+      "num": 496365,
+      "word": "哪吒2票房超86亿",
+      "onboard_time": 1739199202,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 680202,
       "num": 680202,
       "word": "小谢称至今未收到一分钱抚养费",
@@ -473,14 +481,6 @@
       "onboard_time": 1739166621,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 663757,
-      "num": 414089,
-      "word": "哪吒2票房超86亿",
-      "onboard_time": 1739199202,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 660338,
@@ -571,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 587288,
+      "num": 587288,
+      "word": "董宇辉退出与辉同行股东行列",
+      "onboard_time": 1739199380,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 567872,
       "num": 513743,
       "word": "光线传媒回应哪吒2被偷票房",
@@ -609,14 +617,6 @@
       "onboard_time": 1739187082,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 529292,
-      "num": 247062,
-      "word": "董宇辉退出与辉同行股东行列",
-      "onboard_time": 1739199380,
-      "rank": 16,
-      "category": "互联网"
     },
     {
       "raw_hot": 528529,
@@ -867,6 +867,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 361836,
+      "num": 245539,
+      "word": "岳云鹏达成百亿演员成就",
+      "onboard_time": 1739199982,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 360975,
       "num": 360975,
       "word": "小蛇糕",
@@ -892,7 +900,7 @@
     },
     {
       "raw_hot": 355142,
-      "num": 239407,
+      "num": 241321,
       "word": "央视直播时一只小狐狸抢镜",
       "onboard_time": 1739199321,
       "rank": 21,
@@ -1147,11 +1155,19 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 269235,
-      "num": 243275,
+      "raw_hot": 274412,
+      "num": 243527,
       "word": "张康乐经纪公司报案",
       "onboard_time": 1739200101,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 271129,
+      "num": 243402,
+      "word": "星船新女团KiiiKiii",
+      "onboard_time": 1739200700,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -1523,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207282,
+      "num": 207282,
+      "word": "练背的真实变化",
+      "onboard_time": 1739199442,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207279,
       "num": 207279,
       "word": "张睿语音",
@@ -1636,7 +1660,7 @@
     },
     {
       "raw_hot": 200955,
-      "num": 200955,
+      "num": 213065,
       "word": "父母给的年货被丢弃疑似当事人回应",
       "onboard_time": 1739199380,
       "rank": 32,
@@ -1688,14 +1712,6 @@
       "word": "张峻豪谈solo艺人",
       "onboard_time": 1739117717,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 197308,
-      "num": 214449,
-      "word": "星船新女团KiiiKiii",
-      "onboard_time": 1739200700,
-      "rank": 28,
       "category": "艺人"
     },
     {
@@ -1808,14 +1824,6 @@
       "word": "浓眉可能无限期缺阵",
       "onboard_time": 1739156600,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 189731,
-      "num": 189731,
-      "word": "练背的真实变化",
-      "onboard_time": 1739199442,
-      "rank": 33,
       "category": "体育"
     },
     {
@@ -2307,6 +2315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 150935,
+      "num": 150935,
+      "word": "肖战纵横天下侠骨不改",
+      "onboard_time": 1739201181,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 150276,
       "num": 239603,
       "word": "声生不息微博网友挚爱歌手投票",
@@ -2451,12 +2467,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137008,
-      "num": 242784,
-      "word": "岳云鹏达成百亿演员成就",
-      "onboard_time": 1739199982,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 135524,
+      "num": 135524,
+      "word": "哪吒名字还有个隐藏彩蛋",
+      "onboard_time": 1739201060,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 134566,
@@ -2715,14 +2731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 108779,
-      "num": 108779,
-      "word": "哪吒名字还有个隐藏彩蛋",
-      "onboard_time": 1739201060,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 108506,
       "num": 124043,
       "word": "男孩被卖时亲眼看见养父母付了200元",
@@ -2801,6 +2809,14 @@
       "onboard_time": 1739116520,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 99512,
+      "num": 99512,
+      "word": "国家队将全力支持协助林孝埈",
+      "onboard_time": 1739199202,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 98830,
@@ -3147,6 +3163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48335,
+      "num": 165011,
+      "word": "谁遇上结界兽都得等3秒",
+      "onboard_time": 1739199021,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 47410,
       "num": 270354,
       "word": "小心有人拿镀金黄铜冒充金饰",
@@ -3235,6 +3259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 39942,
+      "num": 248244,
+      "word": "倾尽一城花送别一个人",
+      "onboard_time": 1739200339,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37411,
       "num": 386473,
       "word": "黄旭华的深潜人生",
@@ -3257,14 +3289,6 @@
       "onboard_time": 1739197941,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 34836,
-      "num": 114885,
-      "word": "谁遇上结界兽都得等3秒",
-      "onboard_time": 1739199021,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 32726,
@@ -3337,14 +3361,6 @@
       "onboard_time": 1739179522,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24095,
-      "num": 248244,
-      "word": "倾尽一城花送别一个人",
-      "onboard_time": 1739200339,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23340,
@@ -3531,6 +3547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 9702,
+      "num": 174229,
+      "word": "中国队第16金入手",
+      "onboard_time": 1739197642,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 8261,
       "num": 120915,
       "word": "中国队选手包揽前四名",
@@ -3544,14 +3568,6 @@
       "word": "孙颖莎喊出来了",
       "onboard_time": 1739114601,
       "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 7105,
-      "num": 174229,
-      "word": "中国队第16金入手",
-      "onboard_time": 1739197642,
-      "rank": 33,
       "category": "体育"
     }
   ],
