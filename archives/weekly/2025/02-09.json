@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739229749619,
+  "endTime": 1739230587741,
   "band_list": [
     {
       "raw_hot": 10037874,
@@ -499,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1008651,
+      "num": 1008651,
+      "word": "百色教育局通报一高中教师被举报",
+      "onboard_time": 1739206336,
+      "rank": 1,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 984387,
       "num": 984387,
       "word": "哪吒2悉尼上映数百观众等1小时没看成",
@@ -689,14 +697,6 @@
       "onboard_time": 1739155039,
       "rank": 8,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 828616,
-      "num": 830326,
-      "word": "百色教育局通报一高中教师被举报",
-      "onboard_time": 1739206336,
-      "rank": 1,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 827861,
@@ -1115,6 +1115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 596188,
+      "num": 596188,
+      "word": "老外看完哪吒2称中国动画杀疯了",
+      "onboard_time": 1739203817,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 591423,
       "num": 591423,
       "word": "尹美莱 浪姐6",
@@ -1201,6 +1209,14 @@
       "onboard_time": 1739172921,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 559788,
+      "num": 559788,
+      "word": "央视直播时一只小狐狸抢镜",
+      "onboard_time": 1739199321,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 557839,
@@ -1315,14 +1331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 522722,
-      "num": 522722,
-      "word": "老外看完哪吒2称中国动画杀疯了",
-      "onboard_time": 1739203817,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 521587,
       "num": 296222,
       "word": "做完近视手术第二天的真实感受",
@@ -1401,14 +1409,6 @@
       "onboard_time": 1739109322,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 503078,
-      "num": 503078,
-      "word": "央视直播时一只小狐狸抢镜",
-      "onboard_time": 1739199321,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 501253,
@@ -1659,6 +1659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 415931,
+      "num": 415931,
+      "word": "买到哪吒2手写票的观众发声",
+      "onboard_time": 1739215810,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 413496,
       "num": 492683,
       "word": "男子玩蹦床跳进海绵池摔成9级伤残",
@@ -1811,6 +1819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 380575,
+      "num": 380575,
+      "word": "中国香港队队员赢球后遭围殴",
+      "onboard_time": 1739207415,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 378626,
       "num": 378626,
       "word": "高铁买到过期4年方便面目击者发声",
@@ -1889,14 +1905,6 @@
       "onboard_time": 1739060117,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 360163,
-      "num": 360163,
-      "word": "中国香港队队员赢球后遭围殴",
-      "onboard_time": 1739207415,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 355896,
@@ -2088,14 +2096,6 @@
       "word": "盗版哪吒",
       "onboard_time": 1739024243,
       "rank": 14,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 318738,
-      "num": 318738,
-      "word": "买到哪吒2手写票的观众发声",
-      "onboard_time": 1739215810,
-      "rank": 45,
       "category": "电影"
     },
     {
@@ -3883,6 +3883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 185410,
+      "num": 185410,
+      "word": "DeepSeek涨价了",
+      "onboard_time": 1739206277,
+      "rank": 22,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 185377,
       "num": 185377,
       "word": "孙颖莎说展现最好自己比冠军更重要",
@@ -4275,6 +4283,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 168908,
+      "num": 173783,
+      "word": "时代少年团非洲出发",
+      "onboard_time": 1739208613,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168687,
       "num": 819831,
       "word": "物业回应小区停车费拟定1天120元",
@@ -4449,14 +4465,6 @@
       "onboard_time": 1739150300,
       "rank": 36,
       "category": "国际时政,体育"
-    },
-    {
-      "raw_hot": 159952,
-      "num": 173783,
-      "word": "时代少年团非洲出发",
-      "onboard_time": 1739208613,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 159834,
@@ -5033,14 +5041,6 @@
       "onboard_time": 1739171540,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140158,
-      "num": 140158,
-      "word": "DeepSeek涨价了",
-      "onboard_time": 1739206277,
-      "rank": 22,
-      "category": "互联网"
     },
     {
       "raw_hot": 140128,
@@ -5804,7 +5804,7 @@
     },
     {
       "raw_hot": 101656,
-      "num": 101656,
+      "num": 197374,
       "word": "百色被举报教师停职处理",
       "onboard_time": 1739210112,
       "rank": 15,
@@ -6017,6 +6017,14 @@
       "onboard_time": 1739115860,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84477,
+      "num": 84477,
+      "word": "陈哲远梁洁你俩这是剧宣还是官宣",
+      "onboard_time": 1739229735,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 82856,
@@ -6267,6 +6275,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64268,
+      "num": 64268,
+      "word": "杨子许佳琪搭戏",
+      "onboard_time": 1739222050,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 64029,
+      "num": 64029,
+      "word": "马斯克将审查美国防部支出",
+      "onboard_time": 1739207354,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 63619,
       "num": 63619,
       "word": "四川宜宾突发山体滑坡",
@@ -6289,14 +6313,6 @@
       "onboard_time": 1739211613,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 63023,
-      "num": 63023,
-      "word": "马斯克将审查美国防部支出",
-      "onboard_time": 1739207354,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 62717,
@@ -6347,6 +6363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60685,
+      "num": 187710,
+      "word": "大家好我是雪梅",
+      "onboard_time": 1739208014,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60535,
       "num": 60535,
       "word": "林孝埈能为胜利拼搏到凌晨5点",
@@ -6361,6 +6385,14 @@
       "onboard_time": 1739119457,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59722,
+      "num": 59722,
+      "word": "邱贻可新加坡大满贯人生赢家",
+      "onboard_time": 1739227093,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 59192,
@@ -6403,11 +6435,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 57901,
-      "num": 187710,
-      "word": "大家好我是雪梅",
-      "onboard_time": 1739208014,
-      "rank": 9,
+      "raw_hot": 57722,
+      "num": 58824,
+      "word": "短道速滑容不下这么脏的黑手",
+      "onboard_time": 1739213831,
+      "rank": 13,
       "category": "体育"
     },
     {
@@ -6427,28 +6459,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 54505,
-      "num": 62884,
-      "word": "杨子许佳琪搭戏",
-      "onboard_time": 1739222050,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 53753,
       "num": 313589,
       "word": "一块石头变成冰壶为何身价涨这么多",
       "onboard_time": 1739088741,
       "rank": 19,
       "category": "议题讨论,体育"
-    },
-    {
-      "raw_hot": 53465,
-      "num": 58824,
-      "word": "短道速滑容不下这么脏的黑手",
-      "onboard_time": 1739213831,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 53146,
@@ -6537,14 +6553,6 @@
       "onboard_time": 1739151918,
       "rank": 19,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 48989,
-      "num": 53457,
-      "word": "邱贻可新加坡大满贯人生赢家",
-      "onboard_time": 1739227093,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 47921,
@@ -6643,6 +6651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43581,
+      "num": 53358,
+      "word": "婆婆背了满满一筐菜徒步送到灾区",
+      "onboard_time": 1739215752,
+      "rank": 38,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 43577,
       "num": 43577,
       "word": "美将对所有进口钢铝征收25%关税",
@@ -6675,6 +6691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40312,
+      "num": 53384,
+      "word": "直播间买神药吃9个月结节更大了",
+      "onboard_time": 1739222291,
+      "rank": 27,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 39994,
       "num": 217686,
       "word": "泰国总理感谢中国女保镖",
@@ -6697,14 +6721,6 @@
       "onboard_time": 1739038574,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 39267,
-      "num": 53384,
-      "word": "直播间买神药吃9个月结节更大了",
-      "onboard_time": 1739222291,
-      "rank": 27,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 38832,
@@ -6745,14 +6761,6 @@
       "onboard_time": 1739158521,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36799,
-      "num": 53358,
-      "word": "婆婆背了满满一筐菜徒步送到灾区",
-      "onboard_time": 1739215752,
-      "rank": 38,
-      "category": "正能量"
     },
     {
       "raw_hot": 36601,
@@ -6803,12 +6811,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 35548,
+      "num": 64677,
+      "word": "对话无量仙翁配音演员王德顺",
+      "onboard_time": 1739225892,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 35370,
       "num": 294529,
       "word": "中国队亚冬会已夺21金18银15铜",
       "onboard_time": 1739197941,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35146,
+      "num": 137379,
+      "word": "谢娜报平安",
+      "onboard_time": 1739230217,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 35099,
+      "num": 53312,
+      "word": "一群外地阿姨奔赴灾区捐菜又做饭",
+      "onboard_time": 1739215031,
+      "rank": 34,
+      "category": "正能量"
     },
     {
       "raw_hot": 34275,
@@ -6859,20 +6891,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32186,
+      "num": 53290,
+      "word": "官方通报值机员撕乘客登机牌",
+      "onboard_time": 1739217071,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31626,
       "num": 426792,
       "word": "一组珍贵照片送别黄老",
       "onboard_time": 1739155101,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31589,
-      "num": 53312,
-      "word": "一群外地阿姨奔赴灾区捐菜又做饭",
-      "onboard_time": 1739215031,
-      "rank": 34,
-      "category": "正能量"
     },
     {
       "raw_hot": 31344,
@@ -6915,14 +6947,6 @@
       "category": "互联网,民生新闻"
     },
     {
-      "raw_hot": 29349,
-      "num": 53290,
-      "word": "官方通报值机员撕乘客登机牌",
-      "onboard_time": 1739217071,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29274,
       "num": 257897,
       "word": "制作敖光的龙牙刀用了一年半",
@@ -6952,14 +6976,6 @@
       "word": "江湖尽在肖战掌握之中",
       "onboard_time": 1739225119,
       "rank": 48,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 27030,
-      "num": 64677,
-      "word": "对话无量仙翁配音演员王德顺",
-      "onboard_time": 1739225892,
-      "rank": 35,
       "category": "电影"
     },
     {
