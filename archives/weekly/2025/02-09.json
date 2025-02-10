@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739158089332,
+  "endTime": 1739158984202,
   "band_list": [
     {
       "raw_hot": 3533201,
@@ -49,6 +49,14 @@
       "onboard_time": 1739104223,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1960699,
+      "num": 380912,
+      "word": "王岳伦发李湘与王诗龄合照为李湘庆生",
+      "onboard_time": 1739157680,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1948685,
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 1470037,
-      "num": 543551,
+      "num": 927213,
       "word": "无量仙翁拐杖",
       "onboard_time": 1739156479,
       "rank": 43,
@@ -209,6 +217,14 @@
       "onboard_time": 1739071278,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1187286,
+      "num": 1187286,
+      "word": "特朗普说中国教育做得很好",
+      "onboard_time": 1739157440,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1179992,
@@ -411,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 830927,
+      "num": 830927,
+      "word": "台湾寒流来袭当天78人猝死",
+      "onboard_time": 1739155039,
+      "rank": 8,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 821293,
       "num": 821293,
       "word": "孙颖莎战胜蒯曼夺冠",
@@ -473,14 +497,6 @@
       "onboard_time": 1739082020,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 762801,
-      "num": 762801,
-      "word": "台湾寒流来袭当天78人猝死",
-      "onboard_time": 1739155039,
-      "rank": 8,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 762115,
@@ -561,14 +577,6 @@
       "onboard_time": 1739091019,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 668799,
-      "num": 303803,
-      "word": "王岳伦发李湘与王诗龄合照为李湘庆生",
-      "onboard_time": 1739157680,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 668620,
@@ -812,7 +820,7 @@
     },
     {
       "raw_hot": 526850,
-      "num": 405676,
+      "num": 495002,
       "word": "于正说黄杨钿甜pk掉14个演员",
       "onboard_time": 1739155819,
       "rank": 33,
@@ -849,6 +857,14 @@
       "onboard_time": 1739056454,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 515191,
+      "num": 515191,
+      "word": "外媒预测阿凡达3上映前哪吒最卖座",
+      "onboard_time": 1739155039,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 514828,
@@ -1155,14 +1171,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 382503,
-      "num": 382503,
-      "word": "外媒预测阿凡达3上映前哪吒最卖座",
-      "onboard_time": 1739155039,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 380712,
       "num": 380712,
       "word": "孙颖莎3Q艾瑞万",
@@ -1289,14 +1297,6 @@
       "onboard_time": 1739148621,
       "rank": 15,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 334061,
-      "num": 364459,
-      "word": "特朗普说中国教育做得很好",
-      "onboard_time": 1739157440,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 328958,
@@ -1563,6 +1563,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 281228,
+      "num": 281228,
+      "word": "林孝埈更新微博自动回复",
+      "onboard_time": 1739157200,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 281031,
+      "num": 281031,
+      "word": "未定事件簿",
+      "onboard_time": 1739157380,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 280216,
       "num": 280216,
       "word": "李文龙在场边演我",
@@ -1611,6 +1627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 266961,
+      "num": 266961,
+      "word": "陈牧驰说殷郊我太蓝了",
+      "onboard_time": 1739157081,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 266756,
       "num": 266756,
       "word": "电影阴阳师0定档",
@@ -1619,12 +1643,20 @@
       "category": "电影,游戏"
     },
     {
-      "raw_hot": 260663,
-      "num": 260663,
-      "word": "未定事件簿",
-      "onboard_time": 1739157380,
-      "rank": 25,
-      "category": "游戏"
+      "raw_hot": 263971,
+      "num": 263971,
+      "word": "你的时髦小姨回家过年了",
+      "onboard_time": 1739158042,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 262501,
+      "num": 262501,
+      "word": "掌心 武则天",
+      "onboard_time": 1739157802,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 259183,
@@ -1675,6 +1707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 248273,
+      "num": 248273,
+      "word": "金价",
+      "onboard_time": 1739158583,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 245618,
       "num": 245618,
       "word": "林孝埈孙龙1000米展团魂",
@@ -1696,14 +1736,6 @@
       "word": "WTT",
       "onboard_time": 1739099901,
       "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 236919,
-      "num": 262781,
-      "word": "林孝埈更新微博自动回复",
-      "onboard_time": 1739157200,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -1761,14 +1793,6 @@
       "onboard_time": 1739107941,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 231747,
-      "num": 231747,
-      "word": "陈牧驰说殷郊我太蓝了",
-      "onboard_time": 1739157081,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 230904,
@@ -2147,6 +2171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203695,
+      "num": 209298,
+      "word": "48岁男子离家工作抱着妻子嗷嗷哭",
+      "onboard_time": 1739156841,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203365,
       "num": 203365,
       "word": "山东一交警被无证司机冲撞不幸牺牲",
@@ -2203,6 +2235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200987,
+      "num": 304253,
+      "word": "西藏网友说王一博是藏羚羊",
+      "onboard_time": 1739157260,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200636,
       "num": 200636,
       "word": "朴知元犯规",
@@ -2236,7 +2276,7 @@
     },
     {
       "raw_hot": 198337,
-      "num": 198337,
+      "num": 379322,
       "word": "明世隐牡丹主题新皮肤",
       "onboard_time": 1739155940,
       "rank": 34,
@@ -2587,14 +2627,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 180751,
-      "num": 180751,
-      "word": "掌心 武则天",
-      "onboard_time": 1739157802,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 180743,
       "num": 180743,
       "word": "成都一景区用棉花仿雪村引争议",
@@ -2628,7 +2660,7 @@
     },
     {
       "raw_hot": 178707,
-      "num": 178707,
+      "num": 383097,
       "word": "北方这周元宵节当天体感最冷",
       "onboard_time": 1739155880,
       "rank": 48,
@@ -2819,12 +2851,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168178,
+      "num": 291621,
+      "word": "首尔拟奖励结婚者100万韩元",
+      "onboard_time": 1739158640,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 167678,
       "num": 167678,
       "word": "外国网友要把奥斯卡颁给易烊千玺",
       "onboard_time": 1739112504,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 167308,
+      "num": 388072,
+      "word": "多家银行中短期存款利率倒挂",
+      "onboard_time": 1739158223,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 166006,
@@ -2971,6 +3019,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 157976,
+      "num": 157976,
+      "word": "詹姆斯为东契奇抱不平",
+      "onboard_time": 1739158521,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157709,
       "num": 157709,
       "word": "孙颖莎预判能力好强",
@@ -3000,14 +3056,6 @@
       "word": "四川山体滑坡救援进展",
       "onboard_time": 1739070620,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 156121,
-      "num": 209298,
-      "word": "48岁男子离家工作抱着妻子嗷嗷哭",
-      "onboard_time": 1739156841,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -3105,6 +3153,14 @@
       "onboard_time": 1739073620,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152581,
+      "num": 152581,
+      "word": "蓝猫 砸碗",
+      "onboard_time": 1739158942,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 151936,
@@ -3369,14 +3425,6 @@
       "onboard_time": 1739025864,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 137740,
-      "num": 137740,
-      "word": "你的时髦小姨回家过年了",
-      "onboard_time": 1739158042,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 137607,
@@ -3995,6 +4043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86906,
+      "num": 158294,
+      "word": "邓为超A白月光",
+      "onboard_time": 1739158762,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85084,
       "num": 85484,
       "word": "11日起雨雪范围扩大",
@@ -4017,6 +4073,14 @@
       "onboard_time": 1739004925,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79323,
+      "num": 385309,
+      "word": "徐梦桃第二金",
+      "onboard_time": 1739158462,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 78651,
@@ -4089,6 +4153,14 @@
       "onboard_time": 1739116460,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 70214,
+      "num": 391567,
+      "word": "中国队空中技巧混团夺金",
+      "onboard_time": 1739158280,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 68089,
@@ -4187,6 +4259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 59101,
+      "num": 389962,
+      "word": "一些家长为何不喜欢家访",
+      "onboard_time": 1739158101,
+      "rank": 14,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 58050,
       "num": 224380,
       "word": "大蘑菇团建",
@@ -4201,14 +4281,6 @@
       "onboard_time": 1739118976,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 55499,
-      "num": 304253,
-      "word": "西藏网友说王一博是藏羚羊",
-      "onboard_time": 1739157260,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 54607,
@@ -4315,6 +4387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 43237,
+      "num": 384778,
+      "word": "全家人被刘诗诗硬控在沙发上",
+      "onboard_time": 1739158762,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 40653,
       "num": 40653,
       "word": "武警已到达四川山体滑坡现场救援",
@@ -4369,6 +4449,14 @@
       "onboard_time": 1739066180,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37411,
+      "num": 386473,
+      "word": "黄旭华的深潜人生",
+      "onboard_time": 1739158521,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36601,

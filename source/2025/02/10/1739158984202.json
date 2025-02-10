@@ -1,0 +1,410 @@
+{
+  "runTime": 1739158984202,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1506522,
+        "num": 1506522,
+        "word": "哪吒2距全球影史票房榜1差一百多亿",
+        "onboard_time": 1739135411,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1187286,
+        "num": 1187286,
+        "word": "特朗普说中国教育做得很好",
+        "onboard_time": 1739157440,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23117,
+        "num": 990721,
+        "word": "三面五星红旗一起升起",
+        "onboard_time": 1739106743,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1249077,
+        "num": 927213,
+        "word": "无量仙翁拐杖",
+        "onboard_time": 1739156479,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 830927,
+        "num": 830927,
+        "word": "台湾寒流来袭当天78人猝死",
+        "onboard_time": 1739155039,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 515191,
+        "num": 515191,
+        "word": "外媒预测阿凡达3上映前哪吒最卖座",
+        "onboard_time": 1739155039,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 495002,
+        "num": 495002,
+        "word": "于正说黄杨钿甜pk掉14个演员",
+        "onboard_time": 1739155819,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 492209,
+        "num": 492209,
+        "word": "武汉地铁巨幅标语致敬黄旭华",
+        "onboard_time": 1739153899,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 439633,
+        "num": 439633,
+        "word": "黄旭华吊唁现场有束花的落款令人泪目",
+        "onboard_time": 1739150958,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 413212,
+        "num": 413212,
+        "word": "送别国之脊梁黄旭华",
+        "onboard_time": 1739153899,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 735882,
+        "num": 413202,
+        "word": "网红有金生病期间意外怀孕",
+        "onboard_time": 1739148020,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 406331,
+        "num": 406331,
+        "word": "黄旭华院士遗体送别仪式",
+        "onboard_time": 1739150838,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391605,
+        "num": 391605,
+        "word": "时代少年团 非洲",
+        "onboard_time": 1739148380,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70214,
+        "num": 391567,
+        "word": "中国队空中技巧混团夺金",
+        "onboard_time": 1739158280,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59101,
+        "num": 389962,
+        "word": "一些家长为何不喜欢家访",
+        "onboard_time": 1739158101,
+        "rank": 14,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 368631,
+        "num": 388513,
+        "word": "掌心闹鬼甄嬛传闹鬼",
+        "onboard_time": 1739154260,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167308,
+        "num": 388072,
+        "word": "多家银行中短期存款利率倒挂",
+        "onboard_time": 1739158223,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 37411,
+        "num": 386473,
+        "word": "黄旭华的深潜人生",
+        "onboard_time": 1739158521,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79323,
+        "num": 385309,
+        "word": "徐梦桃第二金",
+        "onboard_time": 1739158462,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43237,
+        "num": 384778,
+        "word": "全家人被刘诗诗硬控在沙发上",
+        "onboard_time": 1739158762,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75309,
+        "num": 383097,
+        "word": "北方这周元宵节当天体感最冷",
+        "onboard_time": 1739155880,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335891,
+        "num": 381879,
+        "word": "哪吒2",
+        "onboard_time": 1739148141,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1960699,
+        "num": 380912,
+        "word": "王岳伦发李湘与王诗龄合照为李湘庆生",
+        "onboard_time": 1739157680,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409157,
+        "num": 379891,
+        "word": "2.5亿彩票中奖者缴税5000万",
+        "onboard_time": 1739148020,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148334,
+        "num": 379322,
+        "word": "明世隐牡丹主题新皮肤",
+        "onboard_time": 1739155940,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 378277,
+        "num": 378277,
+        "word": "老人哽咽说一定不能忘记黄旭华",
+        "onboard_time": 1739129111,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332457,
+        "num": 332457,
+        "word": "外媒预测哪吒2票房",
+        "onboard_time": 1739148799,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 303456,
+        "num": 303456,
+        "word": "为什么不建议躺着刷手机",
+        "onboard_time": 1739109801,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276914,
+        "num": 293149,
+        "word": "霉霉被狂嘘淡定笑了笑",
+        "onboard_time": 1739153058,
+        "rank": 28,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 168178,
+        "num": 291621,
+        "word": "首尔拟奖励结婚者100万韩元",
+        "onboard_time": 1739158640,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 290307,
+        "num": 290307,
+        "word": "超级碗",
+        "onboard_time": 1739144716,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281228,
+        "num": 281228,
+        "word": "林孝埈更新微博自动回复",
+        "onboard_time": 1739157200,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281031,
+        "num": 281031,
+        "word": "未定事件簿",
+        "onboard_time": 1739157380,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 266961,
+        "num": 266961,
+        "word": "陈牧驰说殷郊我太蓝了",
+        "onboard_time": 1739157081,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 263971,
+        "num": 263971,
+        "word": "你的时髦小姨回家过年了",
+        "onboard_time": 1739158042,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262501,
+        "num": 262501,
+        "word": "掌心 武则天",
+        "onboard_time": 1739157802,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248273,
+        "num": 248273,
+        "word": "金价",
+        "onboard_time": 1739158583,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 214792,
+        "num": 214792,
+        "word": "电影阴阳师0定档",
+        "onboard_time": 1739156780,
+        "rank": 37,
+        "category": "电影,游戏"
+      },
+      {
+        "raw_hot": 203695,
+        "num": 203695,
+        "word": "48岁男子离家工作抱着妻子嗷嗷哭",
+        "onboard_time": 1739156841,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200987,
+        "num": 200987,
+        "word": "西藏网友说王一博是藏羚羊",
+        "onboard_time": 1739157260,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197471,
+        "num": 197471,
+        "word": "2024年全国结婚登记610.6万对",
+        "onboard_time": 1739108782,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193476,
+        "num": 193476,
+        "word": "丽江机场被曝撕头等舱乘客登机牌",
+        "onboard_time": 1739113283,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175948,
+        "num": 175948,
+        "word": "演员请就位3概念官宣",
+        "onboard_time": 1739155641,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169117,
+        "num": 169117,
+        "word": "黄旭华遗像前的花摆成了潜艇模样",
+        "onboard_time": 1739153840,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168832,
+        "num": 168832,
+        "word": "王楚钦把梁靖崑推到林诗栋旁边",
+        "onboard_time": 1739153540,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159328,
+        "num": 159328,
+        "word": "此生属于祖国无怨无悔",
+        "onboard_time": 1739154140,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 86906,
+        "num": 158294,
+        "word": "邓为超A白月光",
+        "onboard_time": 1739158762,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157976,
+        "num": 157976,
+        "word": "詹姆斯为东契奇抱不平",
+        "onboard_time": 1739158521,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152581,
+        "num": 152581,
+        "word": "蓝猫 砸碗",
+        "onboard_time": 1739158942,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 151096,
+        "num": 151096,
+        "word": "哪吒2破80亿海报",
+        "onboard_time": 1739151620,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记擘画新时代东北全面振兴#"
+    }
+  }
+}
