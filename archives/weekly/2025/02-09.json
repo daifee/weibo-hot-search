@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739169880167,
+  "endTime": 1739172131576,
   "band_list": [
     {
       "raw_hot": 3533201,
@@ -107,6 +107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1852761,
+      "num": 1852761,
+      "word": "肖战说的是谁",
+      "onboard_time": 1739164641,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1851653,
       "num": 576814,
       "word": "女子看不孕意外发现已怀孕7个月",
@@ -121,14 +129,6 @@
       "onboard_time": 1739092279,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1803510,
-      "num": 1803510,
-      "word": "肖战说的是谁",
-      "onboard_time": 1739164641,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 1777738,
@@ -435,6 +435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 921763,
+      "num": 420906,
+      "word": "男子因新生儿子不跟自己姓选择分居",
+      "onboard_time": 1739167821,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 915291,
       "num": 915291,
       "word": "两男子把垃圾倒进六年时间改造好的河里",
@@ -473,6 +481,14 @@
       "onboard_time": 1739160503,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 857613,
+      "num": 857613,
+      "word": "陈冲回应在美读书时被性侵",
+      "onboard_time": 1739168900,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 849003,
@@ -545,14 +561,6 @@
       "onboard_time": 1739102543,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 812156,
-      "num": 420906,
-      "word": "男子因新生儿子不跟自己姓选择分居",
-      "onboard_time": 1739167821,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 808851,
@@ -659,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 699931,
+      "num": 360235,
+      "word": "哪吒2破83亿",
+      "onboard_time": 1739169261,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 691056,
       "num": 691056,
       "word": "何炅说孩子只崇拜张杰",
@@ -721,6 +737,14 @@
       "onboard_time": 1739148799,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 659904,
+      "num": 659904,
+      "word": "4000至6000元手机销售量爆单",
+      "onboard_time": 1739166441,
+      "rank": 4,
+      "category": "数码"
     },
     {
       "raw_hot": 659149,
@@ -803,14 +827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 613897,
-      "num": 613897,
-      "word": "4000至6000元手机销售量爆单",
-      "onboard_time": 1739166441,
-      "rank": 4,
-      "category": "数码"
-    },
-    {
       "raw_hot": 604223,
       "num": 604223,
       "word": "哪吒2在美一票难求纽约华人发声",
@@ -825,6 +841,14 @@
       "onboard_time": 1739074100,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 602397,
+      "num": 355742,
+      "word": "Jennie时隔五年发微博",
+      "onboard_time": 1739171180,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 591423,
@@ -987,6 +1011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 518286,
+      "num": 351292,
+      "word": "韩庚晒女儿给他买的第一个生日蛋糕",
+      "onboard_time": 1739169200,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 516550,
       "num": 516550,
       "word": "曝大热cp二搭全是三个字",
@@ -1091,6 +1123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 496557,
+      "num": 343600,
+      "word": "卡琳娜 浪姐6",
+      "onboard_time": 1739169860,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 494376,
       "num": 494376,
       "word": "王濛说我泰拳不是白练的",
@@ -1153,14 +1193,6 @@
       "onboard_time": 1739154260,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 464453,
-      "num": 318030,
-      "word": "陈冲回应在美读书时被性侵",
-      "onboard_time": 1739168900,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 461331,
@@ -1241,6 +1273,14 @@
       "onboard_time": 1739153058,
       "rank": 7,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 427317,
+      "num": 427317,
+      "word": "张国伟复出首站夺冠",
+      "onboard_time": 1739170279,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 401718,
@@ -1659,14 +1699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 304247,
-      "num": 304247,
-      "word": "哪吒2破83亿",
-      "onboard_time": 1739169261,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 300458,
       "num": 300458,
       "word": "明日方舟",
@@ -1985,6 +2017,14 @@
       "onboard_time": 1739073979,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 245171,
+      "num": 245171,
+      "word": "乌尔善回应殷郊法相造型争议",
+      "onboard_time": 1739168001,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 244980,
@@ -2363,6 +2403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211066,
+      "num": 211066,
+      "word": "喜茶将暂停加盟",
+      "onboard_time": 1739172080,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 210679,
       "num": 426701,
       "word": "张伟丽高喊oz获全场回应",
@@ -2467,14 +2515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 205728,
-      "num": 194127,
-      "word": "韩庚晒女儿给他买的第一个生日蛋糕",
-      "onboard_time": 1739169200,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 205638,
       "num": 191470,
       "word": "创造营亚洲2",
@@ -2513,14 +2553,6 @@
       "onboard_time": 1739105063,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 204121,
-      "num": 239588,
-      "word": "乌尔善回应殷郊法相造型争议",
-      "onboard_time": 1739168001,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 203365,
@@ -2744,6 +2776,14 @@
       "word": "这是一块金灿灿的铜牌",
       "onboard_time": 1739082020,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 195410,
+      "num": 248231,
+      "word": "WTT强制运动员参加签名会",
+      "onboard_time": 1739170160,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -2987,6 +3027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183298,
+      "num": 183298,
+      "word": "杭州新闻联播AI主持人播报逼真0失误",
+      "onboard_time": 1739170699,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183273,
       "num": 444790,
       "word": "王家卫说希望苏丽珍可以走得更远",
@@ -3113,6 +3161,14 @@
       "onboard_time": 1739161282,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 175835,
+      "num": 175835,
+      "word": "欧阳妮妮想再生两个小孩",
+      "onboard_time": 1739169860,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 174896,
@@ -3307,12 +3363,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 167291,
+      "num": 167291,
+      "word": "樊振东就是哪吒吧",
+      "onboard_time": 1739171900,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166006,
       "num": 166006,
       "word": "KPL",
       "onboard_time": 1739084720,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 164651,
+      "num": 164651,
+      "word": "吴姗儒代班小姐不熙娣被质疑",
+      "onboard_time": 1739169020,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 164533,
@@ -3395,14 +3467,6 @@
       "category": "音乐,艺人"
     },
     {
-      "raw_hot": 161134,
-      "num": 161134,
-      "word": "吴姗儒代班小姐不熙娣被质疑",
-      "onboard_time": 1739169020,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 160975,
       "num": 160975,
       "word": "特朗普现身超级碗",
@@ -3481,14 +3545,6 @@
       "onboard_time": 1739080700,
       "rank": 4,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 158100,
-      "num": 158100,
-      "word": "卡琳娜 浪姐6",
-      "onboard_time": 1739169860,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 157976,
@@ -3675,14 +3731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 151386,
-      "num": 151386,
-      "word": "欧阳妮妮想再生两个小孩",
-      "onboard_time": 1739169860,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 151164,
       "num": 174832,
       "word": "林诗栋排名超越王楚钦",
@@ -3820,7 +3868,7 @@
     },
     {
       "raw_hot": 145287,
-      "num": 145287,
+      "num": 168517,
       "word": "WTT称每次重复违规罚款都将翻倍",
       "onboard_time": 1739168301,
       "rank": 48,
@@ -3931,6 +3979,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 140228,
+      "num": 140228,
+      "word": "林孝埈回应5000米接力被犯规",
+      "onboard_time": 1739171540,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140128,
       "num": 140128,
       "word": "没确诊甲流乙流别乱吃抗病毒药",
@@ -3955,6 +4011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138514,
+      "num": 138514,
+      "word": "你们吵架就吵架怎么还牵手啊",
+      "onboard_time": 1739171120,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137904,
       "num": 137904,
       "word": "王曼昱蒯曼用冠军庆祝生日",
@@ -3969,6 +4033,14 @@
       "onboard_time": 1739090239,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137413,
+      "num": 137413,
+      "word": "上班一周被确诊为卡皮巴拉",
+      "onboard_time": 1739171840,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 136178,
@@ -4411,6 +4483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106843,
+      "num": 306527,
+      "word": "高亭宇虽有失误仍彰显绝对实力",
+      "onboard_time": 1739169801,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105291,
       "num": 225759,
       "word": "新加坡大满贯女单颁奖典礼",
@@ -4529,6 +4609,14 @@
       "onboard_time": 1739116520,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98955,
+      "num": 231365,
+      "word": "刷医保买华为手表需当场激活",
+      "onboard_time": 1739171300,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97086,
@@ -4995,12 +5083,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 46101,
-      "num": 191561,
-      "word": "高亭宇虽有失误仍彰显绝对实力",
-      "onboard_time": 1739169801,
+      "raw_hot": 45771,
+      "num": 184344,
+      "word": "我们要追的星就是这样伟大的人",
+      "onboard_time": 1739171960,
       "rank": 33,
-      "category": "体育"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45697,
@@ -5041,6 +5129,14 @@
       "onboard_time": 1739158762,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 41522,
+      "num": 960120,
+      "word": "网络中国节",
+      "onboard_time": 1739171359,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40653,
@@ -5259,6 +5355,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 27488,
+      "num": 324488,
+      "word": "颖儿恭喜高亭宇卫冕冠军",
+      "onboard_time": 1739170820,
+      "rank": 18,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 26900,
       "num": 105200,
       "word": "三亚纯玩团被曝诱导消费续",
@@ -5307,6 +5411,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 24501,
+      "num": 330938,
+      "word": "老师为了让学生做试卷有多拼",
+      "onboard_time": 1739171780,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 24149,
       "num": 24149,
       "word": "蛇来运转春节档",
@@ -5353,6 +5465,14 @@
       "onboard_time": 1739128152,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 20508,
+      "num": 318369,
+      "word": "陈冲用写作抵御失去",
+      "onboard_time": 1739171601,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 20459,

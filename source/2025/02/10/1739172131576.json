@@ -1,0 +1,410 @@
+{
+  "runTime": 1739172131576,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1852761,
+        "num": 1852761,
+        "word": "肖战说的是谁",
+        "onboard_time": 1739164641,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1183037,
+        "num": 1183037,
+        "word": "金价",
+        "onboard_time": 1739158583,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 41522,
+        "num": 960120,
+        "word": "网络中国节",
+        "onboard_time": 1739171359,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 857613,
+        "num": 857613,
+        "word": "陈冲回应在美读书时被性侵",
+        "onboard_time": 1739168900,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 659904,
+        "num": 659904,
+        "word": "4000至6000元手机销售量爆单",
+        "onboard_time": 1739166441,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 427317,
+        "num": 427317,
+        "word": "张国伟复出首站夺冠",
+        "onboard_time": 1739170279,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 782333,
+        "num": 422210,
+        "word": "哪吒2被盗摄翻译上传外网",
+        "onboard_time": 1739163322,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 754174,
+        "num": 413253,
+        "word": "合作导演称饺子不可能穿奢品",
+        "onboard_time": 1739165361,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 394807,
+        "num": 394807,
+        "word": "特朗普说中国教育做得很好",
+        "onboard_time": 1739157440,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 368189,
+        "num": 368189,
+        "word": "DeepSeek王炸组合榜",
+        "onboard_time": 1739161824,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 921763,
+        "num": 368173,
+        "word": "男子因新生儿子不跟自己姓选择分居",
+        "onboard_time": 1739167821,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 699931,
+        "num": 360235,
+        "word": "哪吒2破83亿",
+        "onboard_time": 1739169261,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 602397,
+        "num": 355742,
+        "word": "Jennie时隔五年发微博",
+        "onboard_time": 1739171180,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518286,
+        "num": 351292,
+        "word": "韩庚晒女儿给他买的第一个生日蛋糕",
+        "onboard_time": 1739169200,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496557,
+        "num": 343600,
+        "word": "卡琳娜 浪姐6",
+        "onboard_time": 1739169860,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 416512,
+        "num": 340612,
+        "word": "美国春晚",
+        "onboard_time": 1739160503,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226732,
+        "num": 333264,
+        "word": "送别国之脊梁黄旭华",
+        "onboard_time": 1739153899,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 24501,
+        "num": 330938,
+        "word": "老师为了让学生做试卷有多拼",
+        "onboard_time": 1739171780,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 27488,
+        "num": 324488,
+        "word": "颖儿恭喜高亭宇卫冕冠军",
+        "onboard_time": 1739170820,
+        "rank": 18,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 20508,
+        "num": 318369,
+        "word": "陈冲用写作抵御失去",
+        "onboard_time": 1739171601,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 455335,
+        "num": 310297,
+        "word": "演员请就位 杨子边磕头边喊回家吧",
+        "onboard_time": 1739166621,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106843,
+        "num": 306527,
+        "word": "高亭宇虽有失误仍彰显绝对实力",
+        "onboard_time": 1739169801,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 398829,
+        "num": 302536,
+        "word": "刘美含演员3手撕赛道",
+        "onboard_time": 1739166260,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299557,
+        "num": 299557,
+        "word": "哪吒2距全球影史票房榜1差一百多亿",
+        "onboard_time": 1739135411,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 294128,
+        "num": 294128,
+        "word": "窦骁颧骨申请报工伤",
+        "onboard_time": 1739166441,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273935,
+        "num": 273935,
+        "word": "匪我思存 拆官配",
+        "onboard_time": 1739160023,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 224336,
+        "num": 257597,
+        "word": "洒水车0℃以下洒水致路面结冰酿事故",
+        "onboard_time": 1739165001,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195410,
+        "num": 248231,
+        "word": "WTT强制运动员参加签名会",
+        "onboard_time": 1739170160,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245171,
+        "num": 245171,
+        "word": "乌尔善回应殷郊法相造型争议",
+        "onboard_time": 1739168001,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 98955,
+        "num": 231365,
+        "word": "刷医保买华为手表需当场激活",
+        "onboard_time": 1739171300,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228036,
+        "num": 228036,
+        "word": "哪吒2",
+        "onboard_time": 1739148141,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215658,
+        "num": 215658,
+        "word": "蔡徐坤 穆格勒",
+        "onboard_time": 1739162842,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211066,
+        "num": 211066,
+        "word": "喜茶将暂停加盟",
+        "onboard_time": 1739172080,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 45771,
+        "num": 184344,
+        "word": "我们要追的星就是这样伟大的人",
+        "onboard_time": 1739171960,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183298,
+        "num": 183298,
+        "word": "杭州新闻联播AI主持人播报逼真0失误",
+        "onboard_time": 1739170699,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183121,
+        "num": 183121,
+        "word": "官方回应麻药不睡泻药不泻",
+        "onboard_time": 1739165601,
+        "rank": 35,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 175835,
+        "num": 175835,
+        "word": "欧阳妮妮想再生两个小孩",
+        "onboard_time": 1739169860,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121178,
+        "num": 168517,
+        "word": "WTT称每次重复违规罚款都将翻倍",
+        "onboard_time": 1739168301,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167291,
+        "num": 167291,
+        "word": "樊振东就是哪吒吧",
+        "onboard_time": 1739171900,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164651,
+        "num": 164651,
+        "word": "吴姗儒代班小姐不熙娣被质疑",
+        "onboard_time": 1739169020,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154973,
+        "num": 154973,
+        "word": "无量仙翁拐杖",
+        "onboard_time": 1739156479,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154695,
+        "num": 154695,
+        "word": "2.5亿彩票中奖者缴税5000万",
+        "onboard_time": 1739148020,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151557,
+        "num": 151557,
+        "word": "女频权谋",
+        "onboard_time": 1739167162,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149982,
+        "num": 149982,
+        "word": "宣璐演技",
+        "onboard_time": 1739167821,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149260,
+        "num": 149260,
+        "word": "赵露思还需要拐杖",
+        "onboard_time": 1739166921,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147160,
+        "num": 147160,
+        "word": "李嘉琦也来浪姐了",
+        "onboard_time": 1739168061,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145996,
+        "num": 145996,
+        "word": "黄旭华院士遗体送别仪式",
+        "onboard_time": 1739150838,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140228,
+        "num": 140228,
+        "word": "林孝埈回应5000米接力被犯规",
+        "onboard_time": 1739171540,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138514,
+        "num": 138514,
+        "word": "你们吵架就吵架怎么还牵手啊",
+        "onboard_time": 1739171120,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137413,
+        "num": 137413,
+        "word": "上班一周被确诊为卡皮巴拉",
+        "onboard_time": 1739171840,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记擘画新时代东北全面振兴#"
+    }
+  }
+}
