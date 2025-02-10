@@ -1,6 +1,6 @@
 {
   "startTime": 1739204910696,
-  "endTime": 1739226043530,
+  "endTime": 1739227046927,
   "band_list": [
     {
       "raw_hot": 828616,
@@ -323,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104700,
+      "num": 104700,
+      "word": "买到哪吒2手写票的观众发声",
+      "onboard_time": 1739215810,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 103015,
       "num": 103015,
       "word": "25岁是人生的7点半",
@@ -419,14 +427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 78065,
-      "num": 78065,
-      "word": "买到哪吒2手写票的观众发声",
-      "onboard_time": 1739215810,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 77823,
       "num": 77823,
       "word": "谁遇上结界兽都得等3秒",
@@ -515,19 +515,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49356,
+      "num": 49356,
+      "word": "杨子许佳琪搭戏",
+      "onboard_time": 1739222050,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 46306,
       "num": 46306,
       "word": "五福临门第五对",
       "onboard_time": 1739208195,
       "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 45063,
-      "num": 45063,
-      "word": "杨子许佳琪搭戏",
-      "onboard_time": 1739222050,
-      "rank": 15,
       "category": "剧集"
     },
     {
@@ -539,20 +539,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 40175,
+      "num": 40175,
+      "word": "马斯克将审查美国防部支出",
+      "onboard_time": 1739207354,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 37693,
       "num": 187710,
       "word": "大家好我是雪梅",
       "onboard_time": 1739208014,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 33444,
-      "num": 36163,
-      "word": "马斯克将审查美国防部支出",
-      "onboard_time": 1739207354,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 27304,
@@ -563,7 +563,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20252,
+      "raw_hot": 20524,
       "num": 41280,
       "word": "直播间买神药吃9个月结节更大了",
       "onboard_time": 1739222291,
@@ -588,18 +588,26 @@
     },
     {
       "raw_hot": 18445,
-      "num": 23623,
+      "num": 23685,
       "word": "婆婆背了满满一筐菜徒步送到灾区",
       "onboard_time": 1739215752,
       "rank": 38,
       "category": "正能量"
     },
     {
-      "raw_hot": 15232,
-      "num": 23626,
+      "raw_hot": 15755,
+      "num": 23673,
       "word": "江湖尽在肖战掌握之中",
       "onboard_time": 1739225119,
       "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 15333,
+      "num": 64677,
+      "word": "对话无量仙翁配音演员王德顺",
+      "onboard_time": 1739225892,
+      "rank": 35,
       "category": "电影"
     },
     {
@@ -641,14 +649,6 @@
       "onboard_time": 1739224692,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 7147,
-      "num": 23639,
-      "word": "对话无量仙翁配音演员王德顺",
-      "onboard_time": 1739225892,
-      "rank": 35,
-      "category": "电影"
     }
   ],
   "hotgov_list": [
