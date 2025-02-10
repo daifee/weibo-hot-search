@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739215095826,
+  "endTime": 1739216150551,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -23219,6 +23219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 111985,
+      "num": 51380,
+      "word": "李明德大方人设",
+      "onboard_time": 1739215631,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111962,
       "num": 246698,
       "word": "林孝埈回应全场高喊加油",
@@ -27395,6 +27403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53060,
+      "num": 58824,
+      "word": "短道速滑容不下这么脏的黑手",
+      "onboard_time": 1739213831,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53032,
       "num": 454045,
       "word": "一代人有一代人接财神的方式",
@@ -28537,14 +28553,6 @@
       "onboard_time": 1739023403,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 37464,
-      "num": 58824,
-      "word": "短道速滑容不下这么脏的黑手",
-      "onboard_time": 1739213831,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 37426,
@@ -30139,12 +30147,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 18018,
+      "num": 21724,
+      "word": "买到哪吒2手写票的观众发声",
+      "onboard_time": 1739215810,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 17879,
       "num": 20396,
       "word": "香港一代笑匠俞明去世",
       "onboard_time": 1738871413,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 17848,
+      "num": 52549,
+      "word": "一群外地阿姨奔赴灾区捐菜又做饭",
+      "onboard_time": 1739215031,
+      "rank": 34,
+      "category": "正能量"
     },
     {
       "raw_hot": 17653,
@@ -30601,14 +30625,6 @@
       "onboard_time": 1739196441,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 12821,
-      "num": 23657,
-      "word": "一群外地阿姨奔赴灾区捐菜又做饭",
-      "onboard_time": 1739215031,
-      "rank": 34,
-      "category": "正能量"
     },
     {
       "raw_hot": 12814,
