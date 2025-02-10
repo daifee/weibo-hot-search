@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739198350683,
+  "endTime": 1739201106623,
   "band_list": [
     {
       "raw_hot": 10037874,
@@ -347,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1196669,
+      "num": 257845,
+      "word": "李明德在机场怒斥前辈",
+      "onboard_time": 1739199741,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1179992,
       "num": 436391,
       "word": "赵露思散步被偶遇",
@@ -683,6 +691,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 827861,
+      "num": 305166,
+      "word": "韩国网友喊话林孝埈重回韩国籍",
+      "onboard_time": 1739193261,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 821293,
       "num": 821293,
       "word": "孙颖莎战胜蒯曼夺冠",
@@ -915,6 +931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 663757,
+      "num": 414089,
+      "word": "哪吒2票房超86亿",
+      "onboard_time": 1739199202,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 660338,
       "num": 660338,
       "word": "外媒预测哪吒2票房",
@@ -969,14 +993,6 @@
       "onboard_time": 1739075660,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 653448,
-      "num": 305166,
-      "word": "韩国网友喊话林孝埈重回韩国籍",
-      "onboard_time": 1739193261,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 651461,
@@ -1041,6 +1057,14 @@
       "onboard_time": 1739027542,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 613437,
+      "num": 583497,
+      "word": "哪吒",
+      "onboard_time": 1739192963,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 608259,
@@ -1121,14 +1145,6 @@
       "onboard_time": 1739101521,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 583497,
-      "num": 583497,
-      "word": "哪吒",
-      "onboard_time": 1739192963,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 572379,
@@ -1225,6 +1241,14 @@
       "onboard_time": 1739076200,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 529292,
+      "num": 247062,
+      "word": "董宇辉退出与辉同行股东行列",
+      "onboard_time": 1739199380,
+      "rank": 16,
+      "category": "互联网"
     },
     {
       "raw_hot": 528529,
@@ -1819,6 +1843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 355142,
+      "num": 239407,
+      "word": "央视直播时一只小狐狸抢镜",
+      "onboard_time": 1739199321,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 354632,
       "num": 354632,
       "word": "比亚迪发布会",
@@ -2347,6 +2379,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 269235,
+      "num": 243275,
+      "word": "张康乐经纪公司报案",
+      "onboard_time": 1739200101,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 266997,
+      "num": 260867,
+      "word": "节后多地肛肠科人满为患",
+      "onboard_time": 1739196201,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 266961,
       "num": 266961,
       "word": "陈牧驰说殷郊我太蓝了",
@@ -2369,14 +2417,6 @@
       "onboard_time": 1739158042,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 260867,
-      "num": 260867,
-      "word": "节后多地肛肠科人满为患",
-      "onboard_time": 1739196201,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 259686,
@@ -2739,6 +2779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225307,
+      "num": 225307,
+      "word": "特效团队遗憾四海龙宫坍塌镜头删减",
+      "onboard_time": 1739196982,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 225075,
       "num": 268447,
       "word": "四川宜宾山体滑坡仍在持续",
@@ -2944,6 +2992,14 @@
       "word": "网曝服务区垃圾桶发现大量酥肉腊味",
       "onboard_time": 1739010504,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213205,
+      "num": 213205,
+      "word": "江西最强钉子户没料到公路改道",
+      "onboard_time": 1739199321,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -3243,6 +3299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200955,
+      "num": 200955,
+      "word": "父母给的年货被丢弃疑似当事人回应",
+      "onboard_time": 1739199380,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200636,
       "num": 200636,
       "word": "朴知元犯规",
@@ -3353,6 +3417,14 @@
       "onboard_time": 1739110761,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197308,
+      "num": 214449,
+      "word": "星船新女团KiiiKiii",
+      "onboard_time": 1739200700,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 197213,
@@ -3625,6 +3697,14 @@
       "onboard_time": 1739097622,
       "rank": 38,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 189731,
+      "num": 189731,
+      "word": "练背的真实变化",
+      "onboard_time": 1739199442,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 189366,
@@ -3939,6 +4019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175231,
+      "num": 189071,
+      "word": "彭小苒 浪姐6",
+      "onboard_time": 1739195542,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174896,
       "num": 174896,
       "word": "谢娜你好星期六惩罚舞蹈",
@@ -3979,28 +4067,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 173295,
-      "num": 173295,
-      "word": "特效团队遗憾四海龙宫坍塌镜头删减",
-      "onboard_time": 1739196982,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 173194,
       "num": 173194,
       "word": "张艺凡25岁生贺照",
       "onboard_time": 1739153899,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 173117,
-      "num": 189071,
-      "word": "彭小苒 浪姐6",
-      "onboard_time": 1739195542,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 173059,
@@ -4932,11 +5004,19 @@
     },
     {
       "raw_hot": 137318,
-      "num": 137318,
+      "num": 233087,
       "word": "林孝埈熊猫头盔太酷了",
       "onboard_time": 1739193740,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137008,
+      "num": 242784,
+      "word": "岳云鹏达成百亿演员成就",
+      "onboard_time": 1739199982,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 136178,
@@ -5363,6 +5443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114666,
+      "num": 291575,
+      "word": "遍地开花的俄货馆是什么来头",
+      "onboard_time": 1739197822,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114654,
       "num": 114654,
       "word": "浓眉独行侠首秀",
@@ -5475,6 +5563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108779,
+      "num": 108779,
+      "word": "哪吒名字还有个隐藏彩蛋",
+      "onboard_time": 1739201060,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 108345,
       "num": 253983,
       "word": "郑业成新剧高情商发言",
@@ -5577,6 +5673,14 @@
       "onboard_time": 1739119996,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102711,
+      "num": 102711,
+      "word": "中国短道速滑队发布公告",
+      "onboard_time": 1739200821,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 102406,
@@ -6443,6 +6547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34836,
+      "num": 114885,
+      "word": "谁遇上结界兽都得等3秒",
+      "onboard_time": 1739199021,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 34275,
       "num": 58634,
       "word": "车主见车窗被砸不怒反喜",
@@ -6513,14 +6625,6 @@
       "onboard_time": 1739165242,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 30681,
-      "num": 291575,
-      "word": "遍地开花的俄货馆是什么来头",
-      "onboard_time": 1739197822,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30418,
@@ -6641,6 +6745,14 @@
       "onboard_time": 1739049491,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 24095,
+      "num": 248244,
+      "word": "倾尽一城花送别一个人",
+      "onboard_time": 1739200339,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23340,

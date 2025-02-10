@@ -1,0 +1,410 @@
+{
+  "runTime": 1739201106623,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 796734,
+        "num": 1127477,
+        "word": "急急如律令被翻译成biubiubiu",
+        "onboard_time": 1739191159,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 426396,
+        "num": 426396,
+        "word": "小谢称至今未收到一分钱抚养费",
+        "onboard_time": 1739188701,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16881,
+        "num": 416521,
+        "word": "超2000万人申请国补买手机等",
+        "onboard_time": 1739116460,
+        "rank": 2,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 663757,
+        "num": 414089,
+        "word": "哪吒2票房超86亿",
+        "onboard_time": 1739199202,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 411161,
+        "num": 411161,
+        "word": "林孝埈将退出本赛季后续比赛",
+        "onboard_time": 1739195661,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 341795,
+        "num": 341795,
+        "word": "男子玩蹦床跳进海绵池摔成9级伤残",
+        "onboard_time": 1739184860,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 613437,
+        "num": 332843,
+        "word": "哪吒",
+        "onboard_time": 1739192963,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 261181,
+        "num": 261181,
+        "word": "小蛇糕",
+        "onboard_time": 1739192481,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 401509,
+        "num": 260267,
+        "word": "怪不得太乙真人说这才像正版哪吒",
+        "onboard_time": 1739188521,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190669,
+        "num": 258804,
+        "word": "值机员撕登机牌事件涉事人员待岗",
+        "onboard_time": 1739194163,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1196669,
+        "num": 257845,
+        "word": "李明德在机场怒斥前辈",
+        "onboard_time": 1739199741,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 948270,
+        "num": 254566,
+        "word": "麦琳cos哪吒",
+        "onboard_time": 1739197521,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 827861,
+        "num": 254333,
+        "word": "韩国网友喊话林孝埈重回韩国籍",
+        "onboard_time": 1739193261,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 664763,
+        "num": 251307,
+        "word": "赵露思与被家暴16次当事人小谢合影",
+        "onboard_time": 1739187682,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 623720,
+        "num": 250852,
+        "word": "留几手葛夕民政局排队",
+        "onboard_time": 1739189781,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24095,
+        "num": 248244,
+        "word": "倾尽一城花送别一个人",
+        "onboard_time": 1739200339,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 529292,
+        "num": 247062,
+        "word": "董宇辉退出与辉同行股东行列",
+        "onboard_time": 1739199380,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 422137,
+        "num": 245355,
+        "word": "曝哪吒2停了300家影院密钥",
+        "onboard_time": 1739181261,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 269235,
+        "num": 243275,
+        "word": "张康乐经纪公司报案",
+        "onboard_time": 1739200101,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137008,
+        "num": 242784,
+        "word": "岳云鹏达成百亿演员成就",
+        "onboard_time": 1739199982,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 620320,
+        "num": 240011,
+        "word": "赵露思把快坏掉水果制成糖葫芦",
+        "onboard_time": 1739182641,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355142,
+        "num": 239407,
+        "word": "央视直播时一只小狐狸抢镜",
+        "onboard_time": 1739199321,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 348509,
+        "num": 237097,
+        "word": "印度23岁女子婚礼台上跳舞猝死",
+        "onboard_time": 1739196262,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261617,
+        "num": 235194,
+        "word": "25岁是人生的7点半",
+        "onboard_time": 1739192841,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 41670,
+        "num": 233087,
+        "word": "林孝埈熊猫头盔太酷了",
+        "onboard_time": 1739193740,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266997,
+        "num": 232565,
+        "word": "节后多地肛肠科人满为患",
+        "onboard_time": 1739196201,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231168,
+        "num": 231168,
+        "word": "女子10年前买1千克黄金现在净赚30多万",
+        "onboard_time": 1739193861,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225307,
+        "num": 225307,
+        "word": "特效团队遗憾四海龙宫坍塌镜头删减",
+        "onboard_time": 1739196982,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197308,
+        "num": 214449,
+        "word": "星船新女团KiiiKiii",
+        "onboard_time": 1739200700,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180449,
+        "num": 213364,
+        "word": "千万不要学哪吒去收土拨鼠",
+        "onboard_time": 1739192180,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 213205,
+        "num": 213205,
+        "word": "江西最强钉子户没料到公路改道",
+        "onboard_time": 1739199321,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205271,
+        "num": 205271,
+        "word": "张雅钦秒删",
+        "onboard_time": 1739178561,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200955,
+        "num": 200955,
+        "word": "父母给的年货被丢弃疑似当事人回应",
+        "onboard_time": 1739199380,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189731,
+        "num": 189731,
+        "word": "练背的真实变化",
+        "onboard_time": 1739199442,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175231,
+        "num": 175231,
+        "word": "彭小苒 浪姐6",
+        "onboard_time": 1739195542,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163991,
+        "num": 163991,
+        "word": "她是武则天不是武媚娘",
+        "onboard_time": 1739178680,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154915,
+        "num": 154915,
+        "word": "北上接档六姊妹",
+        "onboard_time": 1739188221,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154589,
+        "num": 154589,
+        "word": "光线传媒回应哪吒2被偷票房",
+        "onboard_time": 1739185820,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150864,
+        "num": 150864,
+        "word": "五福临门",
+        "onboard_time": 1739180001,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134395,
+        "num": 134395,
+        "word": "邱贻可分享孙颖莎训练视频",
+        "onboard_time": 1739194943,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120552,
+        "num": 120552,
+        "word": "陈哲远梁洁共创视频",
+        "onboard_time": 1739196742,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118186,
+        "num": 118186,
+        "word": "金价",
+        "onboard_time": 1739158583,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117608,
+        "num": 117608,
+        "word": "终于有剧把镜头对准施暴者了",
+        "onboard_time": 1739191159,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34836,
+        "num": 114885,
+        "word": "谁遇上结界兽都得等3秒",
+        "onboard_time": 1739199021,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114666,
+        "num": 114666,
+        "word": "遍地开花的俄货馆是什么来头",
+        "onboard_time": 1739197822,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110091,
+        "num": 110091,
+        "word": "吴艳妮60米跑出7秒64刷新个人纪录",
+        "onboard_time": 1739190261,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109103,
+        "num": 109103,
+        "word": "福宝近况视频",
+        "onboard_time": 1739197281,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108779,
+        "num": 108779,
+        "word": "哪吒名字还有个隐藏彩蛋",
+        "onboard_time": 1739201060,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103376,
+        "num": 103376,
+        "word": "票房TOP30唯一非好莱坞影片",
+        "onboard_time": 1739176041,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102711,
+        "num": 102711,
+        "word": "中国短道速滑队发布公告",
+        "onboard_time": 1739200821,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪同梦#"
+    }
+  }
+}
