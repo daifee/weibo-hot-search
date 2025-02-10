@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739192317828,
+  "endTime": 1739194126718,
   "band_list": [
     {
       "raw_hot": 10037874,
@@ -304,6 +304,14 @@
       "word": "曝哪吒2被偷票房",
       "onboard_time": 1739177359,
       "rank": 3,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1253958,
+      "num": 1253958,
+      "word": "急急如律令被翻译成biubiubiu",
+      "onboard_time": 1739191159,
+      "rank": 14,
       "category": "电影"
     },
     {
@@ -643,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 832296,
+      "num": 832296,
+      "word": "比亚迪智驾",
+      "onboard_time": 1739189479,
+      "rank": 3,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 830927,
       "num": 830927,
       "word": "台湾寒流来袭当天78人猝死",
@@ -747,14 +763,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 751504,
-      "num": 751504,
-      "word": "急急如律令被翻译成biubiubiu",
-      "onboard_time": 1739191159,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 747824,
       "num": 249849,
       "word": "蔡徐坤 穆格勒",
@@ -849,6 +857,14 @@
       "onboard_time": 1739091019,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 680202,
+      "num": 680202,
+      "word": "小谢称至今未收到一分钱抚养费",
+      "onboard_time": 1739188701,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 668620,
@@ -1211,14 +1227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 525294,
-      "num": 525294,
-      "word": "比亚迪智驾",
-      "onboard_time": 1739189479,
-      "rank": 3,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 523140,
       "num": 523140,
       "word": "李思思 浪姐6",
@@ -1289,14 +1297,6 @@
       "onboard_time": 1739107822,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 510707,
-      "num": 510707,
-      "word": "小谢称至今未收到一分钱抚养费",
-      "onboard_time": 1739188701,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 510606,
@@ -1465,6 +1465,14 @@
       "onboard_time": 1739144716,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 451868,
+      "num": 311626,
+      "word": "哪吒",
+      "onboard_time": 1739192963,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 450494,
@@ -1683,6 +1691,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 377419,
+      "num": 305166,
+      "word": "韩国网友喊话林孝埈重回韩国籍",
+      "onboard_time": 1739193261,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 373091,
       "num": 317294,
       "word": "时代少年团第三张实体专辑预告",
@@ -1732,7 +1748,7 @@
     },
     {
       "raw_hot": 359953,
-      "num": 115807,
+      "num": 206711,
       "word": "怪不得太乙真人说这才像正版哪吒",
       "onboard_time": 1739188521,
       "rank": 46,
@@ -1745,6 +1761,14 @@
       "onboard_time": 1739138651,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 354632,
+      "num": 354632,
+      "word": "比亚迪发布会",
+      "onboard_time": 1739189361,
+      "rank": 13,
+      "category": "汽车"
     },
     {
       "raw_hot": 350200,
@@ -1795,6 +1819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 340935,
+      "num": 340935,
+      "word": "北上接档六姊妹",
+      "onboard_time": 1739188221,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 338348,
       "num": 267523,
       "word": "吒儿感谢成龙叔叔的鼓励",
@@ -1808,14 +1840,6 @@
       "word": "邓为问谁给我报的名",
       "onboard_time": 1739189422,
       "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 338032,
-      "num": 338032,
-      "word": "北上接档六姊妹",
-      "onboard_time": 1739188221,
-      "rank": 21,
       "category": "剧集"
     },
     {
@@ -2017,6 +2041,14 @@
       "onboard_time": 1739079681,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 304921,
+      "num": 304921,
+      "word": "小蛇糕",
+      "onboard_time": 1739060117,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 300458,
@@ -2283,14 +2315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 262955,
-      "num": 338095,
-      "word": "比亚迪发布会",
-      "onboard_time": 1739189361,
-      "rank": 13,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 259686,
       "num": 230168,
       "word": "菲警方找到绑架案中国母子遗骸",
@@ -2337,6 +2361,14 @@
       "onboard_time": 1739159060,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 255059,
+      "num": 255059,
+      "word": "恋与深空",
+      "onboard_time": 1739191642,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 253600,
@@ -2499,14 +2531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 233024,
-      "num": 233024,
-      "word": "恋与深空",
-      "onboard_time": 1739191642,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 232848,
       "num": 232848,
       "word": "哪吒2进入全球电影票房榜前40",
@@ -2563,6 +2587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 229102,
+      "num": 484078,
+      "word": "朋友回忆一氧化碳中毒遇难的一家五口",
+      "onboard_time": 1739188881,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 228365,
       "num": 224737,
       "word": "以为正常其实是无意识的控糖行为",
@@ -2600,6 +2632,22 @@
       "word": "妻子与人合拍短视频被丈夫砍伤",
       "onboard_time": 1739161223,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 226299,
+      "num": 226299,
+      "word": "25岁是人生的7点半",
+      "onboard_time": 1739192841,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 226287,
+      "num": 338156,
+      "word": "年货扔垃圾箱疑似当事人回应",
+      "onboard_time": 1739190921,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2705,6 +2753,14 @@
       "onboard_time": 1739019503,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219663,
+      "num": 211748,
+      "word": "千万不要学哪吒去收土拨鼠",
+      "onboard_time": 1739192180,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 218871,
@@ -2953,6 +3009,14 @@
       "onboard_time": 1739166921,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207264,
+      "num": 207264,
+      "word": "女子10年前买1千克黄金现在净赚30多万",
+      "onboard_time": 1739193861,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 206614,
@@ -4067,14 +4131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 162558,
-      "num": 484078,
-      "word": "朋友回忆一氧化碳中毒遇难的一家五口",
-      "onboard_time": 1739188881,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 162545,
       "num": 162545,
       "word": "小伙失恋半夜整理共享电瓶车",
@@ -4339,14 +4395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 153342,
-      "num": 153342,
-      "word": "小蛇糕",
-      "onboard_time": 1739060117,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 153087,
       "num": 282690,
       "word": "新加坡WTT国乒大合照",
@@ -4451,6 +4499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 148212,
+      "num": 206339,
+      "word": "王传福说好技术就应该人人可享",
+      "onboard_time": 1739193921,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 148022,
       "num": 148022,
       "word": "张伟丽头部打击命中数45次",
@@ -4497,14 +4553,6 @@
       "onboard_time": 1739165601,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 146753,
-      "num": 338156,
-      "word": "年货扔垃圾箱疑似当事人回应",
-      "onboard_time": 1739190921,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 146436,
@@ -4771,12 +4819,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133938,
+      "num": 344672,
+      "word": "丽江机场多个部门负责人被警告处分",
+      "onboard_time": 1739191642,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133795,
       "num": 601564,
       "word": "医保及药监部门回应集采药品相关问题",
       "onboard_time": 1739088080,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133036,
+      "num": 133036,
+      "word": "六姊妹60岁正是创业的年纪",
+      "onboard_time": 1739193563,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 132833,
@@ -4809,6 +4873,14 @@
       "onboard_time": 1739095759,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 131209,
+      "num": 131209,
+      "word": "谢娜吃坏肚子",
+      "onboard_time": 1739191580,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 130991,
@@ -4875,6 +4947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128867,
+      "num": 128867,
+      "word": "李嘉琦新剧好强的饭张力",
+      "onboard_time": 1739193803,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128724,
       "num": 128724,
       "word": "孙颖莎夺冠后说谢谢大家来加油",
@@ -4931,6 +5011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124699,
+      "num": 124699,
+      "word": "林孝埈熊猫头盔太酷了",
+      "onboard_time": 1739193740,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124287,
       "num": 481365,
       "word": "李心鹏金牌",
@@ -4969,14 +5057,6 @@
       "onboard_time": 1739106441,
       "rank": 33,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 122820,
-      "num": 122820,
-      "word": "丽江机场多个部门负责人被警告处分",
-      "onboard_time": 1739191642,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122724,
@@ -5267,6 +5347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108345,
+      "num": 181116,
+      "word": "郑业成新剧高情商发言",
+      "onboard_time": 1739191821,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108089,
       "num": 466941,
       "word": "男子雅姆雪山失联55小时后获救",
@@ -5305,6 +5393,14 @@
       "onboard_time": 1739105422,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105035,
+      "num": 343532,
+      "word": "江西路中房没料到当地宁肯多花钱改道",
+      "onboard_time": 1739192541,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104744,
@@ -5817,14 +5913,6 @@
       "onboard_time": 1739187082,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 60712,
-      "num": 119637,
-      "word": "郑业成新剧高情商发言",
-      "onboard_time": 1739191821,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 60535,
@@ -6531,6 +6619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15191,
+      "num": 206114,
+      "word": "浓眉预计伤缺一个月",
+      "onboard_time": 1739192841,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 15105,
       "num": 238802,
       "word": "李晨 记录一下渔港的落日余晖",
@@ -6699,6 +6795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 7831,
+      "num": 208102,
+      "word": "林诗栋曾说19也不年轻了吧",
+      "onboard_time": 1739194041,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 7250,
       "num": 42039,
       "word": "王楚钦说跟梁靖崑会师半决赛很开心",
@@ -6766,6 +6870,9 @@
     },
     {
       "word": "#习近平总书记这样部署东北全面振兴#"
+    },
+    {
+      "word": "#推动新时代东北全面振兴#"
     }
   ]
 }
