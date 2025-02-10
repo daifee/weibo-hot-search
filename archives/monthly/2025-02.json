@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739172131576,
+  "endTime": 1739172973784,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -2083,6 +2083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 978915,
+      "num": 389064,
+      "word": "Jennie时隔五年发微博",
+      "onboard_time": 1739171180,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 978012,
       "num": 809944,
       "word": "林依晨20岁就开始写遗书了",
@@ -3027,6 +3035,14 @@
       "category": "互联网,国际时政"
     },
     {
+      "raw_hot": 752933,
+      "num": 410635,
+      "word": "哪吒2破83亿",
+      "onboard_time": 1739169261,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 752490,
       "num": 315638,
       "word": "华晨宇工作室",
@@ -3345,14 +3361,6 @@
       "onboard_time": 1738843945,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 699931,
-      "num": 360235,
-      "word": "哪吒2破83亿",
-      "onboard_time": 1739169261,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 698807,
@@ -4081,14 +4089,6 @@
       "onboard_time": 1738651282,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 602397,
-      "num": 355742,
-      "word": "Jennie时隔五年发微博",
-      "onboard_time": 1739171180,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 599119,
@@ -4868,7 +4868,7 @@
     },
     {
       "raw_hot": 518286,
-      "num": 351292,
+      "num": 386461,
       "word": "韩庚晒女儿给他买的第一个生日蛋糕",
       "onboard_time": 1739169200,
       "rank": 32,
@@ -5260,7 +5260,7 @@
     },
     {
       "raw_hot": 496557,
-      "num": 343600,
+      "num": 384358,
       "word": "卡琳娜 浪姐6",
       "onboard_time": 1739169860,
       "rank": 44,
@@ -6033,6 +6033,14 @@
       "onboard_time": 1739153899,
       "rank": 21,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 447040,
+      "num": 383755,
+      "word": "喜茶将暂停加盟",
+      "onboard_time": 1739172080,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 446519,
@@ -8955,6 +8963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 291682,
+      "num": 291682,
+      "word": "赵丽颖第一次以短发出镜广告大片",
+      "onboard_time": 1739172380,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 291628,
       "num": 291628,
       "word": "河南老板拿价值170万玛莎拉蒂来套圈",
@@ -9248,6 +9264,14 @@
       "word": "李文龙在场边演我",
       "onboard_time": 1739087180,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 280097,
+      "num": 280097,
+      "word": "樊振东就是哪吒吧",
+      "onboard_time": 1739171900,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -12307,14 +12331,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 211066,
-      "num": 211066,
-      "word": "喜茶将暂停加盟",
-      "onboard_time": 1739172080,
-      "rank": 32,
-      "category": "财经"
-    },
-    {
       "raw_hot": 210961,
       "num": 210961,
       "word": "90后北大选调生任乡镇党委书记",
@@ -13401,6 +13417,14 @@
       "onboard_time": 1738730006,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 199506,
+      "num": 199506,
+      "word": "上班一周被确诊为卡皮巴拉",
+      "onboard_time": 1739171840,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 199457,
@@ -14595,6 +14619,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 187991,
+      "num": 187991,
+      "word": "杭州新闻联播AI主持人播报逼真0失误",
+      "onboard_time": 1739170699,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187968,
       "num": 392739,
       "word": "今冬最冻人时刻来了",
@@ -14713,6 +14745,14 @@
       "onboard_time": 1739010442,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 186948,
+      "num": 186948,
+      "word": "林更新这是可以模仿的吗",
+      "onboard_time": 1739172260,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 186928,
@@ -15041,14 +15081,6 @@
       "onboard_time": 1738669526,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 183298,
-      "num": 183298,
-      "word": "杭州新闻联播AI主持人播报逼真0失误",
-      "onboard_time": 1739170699,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 183291,
@@ -15835,6 +15867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174637,
+      "num": 385287,
+      "word": "刷医保买华为手表需当场激活",
+      "onboard_time": 1739171300,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174608,
       "num": 1640231,
       "word": "Plave回归",
@@ -16547,14 +16587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 167291,
-      "num": 167291,
-      "word": "樊振东就是哪吒吧",
-      "onboard_time": 1739171900,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 167264,
       "num": 296224,
       "word": "邓为掌管白发的神",
@@ -16745,6 +16777,14 @@
       "onboard_time": 1738858101,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164873,
+      "num": 164873,
+      "word": "买金条应该去银行还是金店",
+      "onboard_time": 1739172801,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 164734,
@@ -17539,6 +17579,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 157724,
+      "num": 157724,
+      "word": "林孝埈赛后落泪道歉",
+      "onboard_time": 1739172559,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157709,
       "num": 157709,
       "word": "孙颖莎预判能力好强",
@@ -17609,6 +17657,14 @@
       "onboard_time": 1738843945,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157040,
+      "num": 157040,
+      "word": "中国队夺金速度拉满",
+      "onboard_time": 1739172321,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 156923,
@@ -18883,6 +18939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144648,
+      "num": 144648,
+      "word": "11岁小孩姐造假人逃避背书",
+      "onboard_time": 1739172921,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144641,
       "num": 131328,
       "word": "丁程鑫被问恋爱相关问题不敢动",
@@ -19113,6 +19177,14 @@
       "onboard_time": 1738641263,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 143084,
+      "num": 143084,
+      "word": "掌心 2025女本位第一枪",
+      "onboard_time": 1739172921,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 143042,
@@ -19673,14 +19745,6 @@
       "onboard_time": 1738420158,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 137413,
-      "num": 137413,
-      "word": "上班一周被确诊为卡皮巴拉",
-      "onboard_time": 1739171840,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 137202,
@@ -23395,14 +23459,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 98955,
-      "num": 231365,
-      "word": "刷医保买华为手表需当场激活",
-      "onboard_time": 1739171300,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 98942,
       "num": 98942,
       "word": "多平台宣布上线DeepSeek大模型",
@@ -23993,6 +24049,14 @@
       "onboard_time": 1738380497,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87672,
+      "num": 260972,
+      "word": "Jennie时隔五年发博",
+      "onboard_time": 1739172200,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 87512,
@@ -24635,6 +24699,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 77552,
+      "num": 389235,
+      "word": "我们要追的星就是这样伟大的人",
+      "onboard_time": 1739171960,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77400,
       "num": 118696,
       "word": "三巨头同日接入DeepSeek",
@@ -25177,6 +25249,14 @@
       "onboard_time": 1739169020,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66982,
+      "num": 381906,
+      "word": "老师为了让学生做试卷有多拼",
+      "onboard_time": 1739171780,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 66756,
@@ -26147,6 +26227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51431,
+      "num": 324488,
+      "word": "颖儿恭喜高亭宇卫冕冠军",
+      "onboard_time": 1739170820,
+      "rank": 18,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 51324,
       "num": 260313,
       "word": "王宝强拍唐探带妆睡觉",
@@ -26513,14 +26601,6 @@
       "onboard_time": 1738349592,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 45771,
-      "num": 184344,
-      "word": "我们要追的星就是这样伟大的人",
-      "onboard_time": 1739171960,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 45699,
@@ -27883,14 +27963,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 27488,
-      "num": 324488,
-      "word": "颖儿恭喜高亭宇卫冕冠军",
-      "onboard_time": 1739170820,
-      "rank": 18,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 27474,
       "num": 147507,
       "word": "金饰价格每克一个月涨超50元",
@@ -28171,14 +28243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24501,
-      "num": 330938,
-      "word": "老师为了让学生做试卷有多拼",
-      "onboard_time": 1739171780,
-      "rank": 17,
-      "category": "教育"
-    },
-    {
       "raw_hot": 24396,
       "num": 573131,
       "word": "一人一句给中国健儿加油",
@@ -28265,6 +28329,14 @@
       "onboard_time": 1738761685,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 23340,
+      "num": 381450,
+      "word": "陈冲用写作抵御失去",
+      "onboard_time": 1739171601,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 23319,
@@ -28464,14 +28536,6 @@
       "word": "辰乐你问我答直播",
       "onboard_time": 1738954692,
       "rank": 45,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 20508,
-      "num": 318369,
-      "word": "陈冲用写作抵御失去",
-      "onboard_time": 1739171601,
-      "rank": 19,
       "category": "艺人"
     },
     {
@@ -29329,6 +29393,14 @@
       "onboard_time": 1738959370,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 10154,
+      "num": 382891,
+      "word": "张雨霏说最想看冰壶比赛",
+      "onboard_time": 1739172439,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 9942,
