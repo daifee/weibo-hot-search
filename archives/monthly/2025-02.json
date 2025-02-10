@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739207911626,
+  "endTime": 1739209028297,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -2865,6 +2865,14 @@
       "onboard_time": 1739024243,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 828616,
+      "num": 828616,
+      "word": "百色教育局通报一高中教师被举报",
+      "onboard_time": 1739206336,
+      "rank": 1,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 827861,
@@ -6115,14 +6123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 462942,
-      "num": 462942,
-      "word": "百色教育局通报一高中教师被举报",
-      "onboard_time": 1739206336,
-      "rank": 1,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 461331,
       "num": 461331,
       "word": "黄旭华院士遗体送别仪式",
@@ -7539,6 +7539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 370184,
+      "num": 370184,
+      "word": "老外看完哪吒2称中国动画杀疯了",
+      "onboard_time": 1739203817,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 370142,
       "num": 370142,
       "word": "银赫发文取消隐退",
@@ -8251,6 +8259,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 333283,
+      "num": 333283,
+      "word": "中国香港队队员赢球后遭围殴",
+      "onboard_time": 1739207415,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 332778,
       "num": 332778,
       "word": "背刺何惟芳的店员成了杨紫的粉丝",
@@ -8792,14 +8808,6 @@
       "word": "你只说70亿是何居心",
       "onboard_time": 1739007443,
       "rank": 27,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 312676,
-      "num": 164598,
-      "word": "老外看完哪吒2称中国动画杀疯了",
-      "onboard_time": 1739203817,
-      "rank": 31,
       "category": "电影"
     },
     {
@@ -16571,14 +16579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 176089,
-      "num": 176089,
-      "word": "中国香港队队员赢球后遭围殴",
-      "onboard_time": 1739207415,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 176086,
       "num": 176086,
       "word": "陈哲远梁洁同框直播",
@@ -24035,6 +24035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103789,
+      "num": 103789,
+      "word": "DeepSeek涨价了",
+      "onboard_time": 1739206277,
+      "rank": 22,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 103640,
       "num": 103640,
       "word": "chiikawa小八变声了",
@@ -24657,14 +24665,6 @@
       "onboard_time": 1739065100,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 96969,
-      "num": 96969,
-      "word": "DeepSeek涨价了",
-      "onboard_time": 1739206277,
-      "rank": 22,
-      "category": "互联网"
     },
     {
       "raw_hot": 96868,
@@ -26113,6 +26113,14 @@
       "onboard_time": 1738758564,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 71535,
+      "num": 71535,
+      "word": "时代少年团非洲出发",
+      "onboard_time": 1739208613,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 71523,
@@ -27867,6 +27875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 46306,
+      "num": 46306,
+      "word": "五福临门第五对",
+      "onboard_time": 1739208195,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 46056,
       "num": 84973,
       "word": "时代峰峻辟谣张极恋爱",
@@ -29201,6 +29217,14 @@
       "onboard_time": 1738481836,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28823,
+      "num": 187710,
+      "word": "大家好我是雪梅",
+      "onboard_time": 1739208014,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 28314,

@@ -1,7 +1,15 @@
 {
   "startTime": 1739204910696,
-  "endTime": 1739207911626,
+  "endTime": 1739209028297,
   "band_list": [
+    {
+      "raw_hot": 828616,
+      "num": 828616,
+      "word": "百色教育局通报一高中教师被举报",
+      "onboard_time": 1739206336,
+      "rank": 1,
+      "category": "民生新闻,教育"
+    },
     {
       "raw_hot": 674344,
       "num": 253669,
@@ -59,14 +67,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 462942,
-      "num": 462942,
-      "word": "百色教育局通报一高中教师被举报",
-      "onboard_time": 1739206336,
-      "rank": 1,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 433192,
       "num": 433192,
       "word": "百色祈福高中唐毓文",
@@ -107,6 +107,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 370184,
+      "num": 370184,
+      "word": "老外看完哪吒2称中国动画杀疯了",
+      "onboard_time": 1739203817,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 369941,
       "num": 229442,
       "word": "曝哪吒2停了300家影院密钥",
@@ -115,12 +123,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 312676,
-      "num": 164598,
-      "word": "老外看完哪吒2称中国动画杀疯了",
-      "onboard_time": 1739203817,
-      "rank": 31,
-      "category": "电影"
+      "raw_hot": 333283,
+      "num": 333283,
+      "word": "中国香港队队员赢球后遭围殴",
+      "onboard_time": 1739207415,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 305720,
@@ -195,20 +203,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187991,
+      "num": 187991,
+      "word": "猫眼预测",
+      "onboard_time": 1739205078,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 179813,
       "num": 179813,
       "word": "怪不得太乙真人说这才像正版哪吒",
       "onboard_time": 1739188521,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 176089,
-      "num": 176089,
-      "word": "中国香港队队员赢球后遭围殴",
-      "onboard_time": 1739207415,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 167514,
@@ -225,14 +233,6 @@
       "onboard_time": 1739195661,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 162794,
-      "num": 162794,
-      "word": "猫眼预测",
-      "onboard_time": 1739205078,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 149546,
@@ -299,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103789,
+      "num": 103789,
+      "word": "DeepSeek涨价了",
+      "onboard_time": 1739206277,
+      "rank": 22,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 103015,
       "num": 103015,
       "word": "25岁是人生的7点半",
@@ -337,14 +345,6 @@
       "onboard_time": 1739188221,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 96969,
-      "num": 96969,
-      "word": "DeepSeek涨价了",
-      "onboard_time": 1739206277,
-      "rank": 22,
-      "category": "互联网"
     },
     {
       "raw_hot": 94310,
@@ -435,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71535,
+      "num": 71535,
+      "word": "时代少年团非洲出发",
+      "onboard_time": 1739208613,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69467,
       "num": 69467,
       "word": "吴艳妮60米跑出7秒64刷新个人纪录",
@@ -467,12 +475,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46306,
+      "num": 46306,
+      "word": "五福临门第五对",
+      "onboard_time": 1739208195,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 43577,
       "num": 43577,
       "word": "美将对所有进口钢铝征收25%关税",
       "onboard_time": 1739206216,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 28823,
+      "num": 187710,
+      "word": "大家好我是雪梅",
+      "onboard_time": 1739208014,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 18645,
