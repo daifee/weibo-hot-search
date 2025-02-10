@@ -1,0 +1,410 @@
+{
+  "runTime": 1739176173207,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1372851,
+        "num": 1372851,
+        "word": "金价",
+        "onboard_time": 1739158583,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 818439,
+        "num": 818439,
+        "word": "买金条应该去银行还是金店",
+        "onboard_time": 1739172801,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 13154,
+        "num": 734318,
+        "word": "地质灾害隐患排查不只在雨季",
+        "onboard_time": 1739126711,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 671748,
+        "num": 671748,
+        "word": "哪吒2破83亿",
+        "onboard_time": 1739169261,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 658351,
+        "num": 658351,
+        "word": "喜茶将暂停加盟",
+        "onboard_time": 1739172080,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 620329,
+        "num": 620329,
+        "word": "哪吒2被盗摄翻译上传外网",
+        "onboard_time": 1739163322,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 608259,
+        "num": 608259,
+        "word": "樊振东就是哪吒吧",
+        "onboard_time": 1739171900,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 518821,
+        "num": 518821,
+        "word": "哪吒2全球票房TOP30",
+        "onboard_time": 1739174902,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 495179,
+        "num": 495179,
+        "word": "陈冲回应在美读书时被性侵",
+        "onboard_time": 1739168900,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452475,
+        "num": 452475,
+        "word": "特朗普说吞并加拿大我是认真的",
+        "onboard_time": 1739173220,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1208343,
+        "num": 450135,
+        "word": "肖战说的是谁",
+        "onboard_time": 1739164641,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 798220,
+        "num": 440222,
+        "word": "Jennie时隔五年发微博",
+        "onboard_time": 1739171180,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 513022,
+        "num": 436118,
+        "word": "韩庚晒女儿给他买的第一个生日蛋糕",
+        "onboard_time": 1739169200,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 467207,
+        "num": 422502,
+        "word": "男子因新生儿子不跟自己姓选择分居",
+        "onboard_time": 1739167821,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 377244,
+        "num": 421012,
+        "word": "医院回应放射科更衣室内有摄像头",
+        "onboard_time": 1739174721,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 414951,
+        "num": 414951,
+        "word": "4000至6000元手机销售量爆单",
+        "onboard_time": 1739166441,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 215375,
+        "num": 410749,
+        "word": "SM新男团将第四季度出道",
+        "onboard_time": 1739174300,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16406,
+        "num": 408048,
+        "word": "梁洁不语只是一味用演技证明自己",
+        "onboard_time": 1739175260,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 407090,
+        "num": 407090,
+        "word": "卡琳娜 浪姐6",
+        "onboard_time": 1739169860,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340637,
+        "num": 340637,
+        "word": "特朗普说中国教育做得很好",
+        "onboard_time": 1739157440,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 543306,
+        "num": 308160,
+        "word": "11岁小孩姐造假人逃避背书",
+        "onboard_time": 1739172921,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271095,
+        "num": 271095,
+        "word": "DeepSeek王炸组合榜",
+        "onboard_time": 1739161824,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 229505,
+        "num": 229505,
+        "word": "上班一周被确诊为卡皮巴拉",
+        "onboard_time": 1739171840,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229320,
+        "num": 229320,
+        "word": "张国伟复出首站夺冠",
+        "onboard_time": 1739170279,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125167,
+        "num": 228489,
+        "word": "林孝埈回应5000米接力被犯规",
+        "onboard_time": 1739171540,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228136,
+        "num": 228136,
+        "word": "没感冒却一直流鼻涕竟是脑脊液鼻漏",
+        "onboard_time": 1739175980,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 219187,
+        "num": 219187,
+        "word": "官方回应不提倡插铁丝免费看电视",
+        "onboard_time": 1739174539,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218752,
+        "num": 218752,
+        "word": "演员请就位 杨子边磕头边喊回家吧",
+        "onboard_time": 1739166621,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252779,
+        "num": 217672,
+        "word": "谁家男二第九集才出场",
+        "onboard_time": 1739174721,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46170,
+        "num": 216670,
+        "word": "美国正经历四重疫情",
+        "onboard_time": 1739175141,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 354206,
+        "num": 216388,
+        "word": "农村妹日入800元的一天",
+        "onboard_time": 1739176041,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215848,
+        "num": 215848,
+        "word": "哪吒2",
+        "onboard_time": 1739148141,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210737,
+        "num": 210737,
+        "word": "匪我思存 拆官配",
+        "onboard_time": 1739160023,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 212301,
+        "num": 210486,
+        "word": "哪吒2距全球影史票房榜1差一百多亿",
+        "onboard_time": 1739135411,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 207258,
+        "num": 207258,
+        "word": "她以为在牢里就算赎罪",
+        "onboard_time": 1739175021,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186429,
+        "num": 186429,
+        "word": "刷医保买华为手表需当场激活",
+        "onboard_time": 1739171300,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185057,
+        "num": 185057,
+        "word": "请仙台有树宣发即刻传位于张睿",
+        "onboard_time": 1739172981,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85940,
+        "num": 183110,
+        "word": "特朗普阴阳霉霉",
+        "onboard_time": 1739175740,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91308,
+        "num": 182952,
+        "word": "票房TOP30唯一非好莱坞影片",
+        "onboard_time": 1739176041,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182826,
+        "num": 182826,
+        "word": "送别国之脊梁黄旭华",
+        "onboard_time": 1739153899,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 167971,
+        "num": 167971,
+        "word": "乌尔善回应殷郊法相造型争议",
+        "onboard_time": 1739168001,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159776,
+        "num": 159776,
+        "word": "唐探1900是历史书上的短短几行",
+        "onboard_time": 1739174902,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158757,
+        "num": 158757,
+        "word": "蔡徐坤 穆格勒",
+        "onboard_time": 1739162842,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156214,
+        "num": 156214,
+        "word": "泽连斯基开出与普京和谈条件",
+        "onboard_time": 1739173700,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148554,
+        "num": 148554,
+        "word": "林俊杰说完整了我的不完美",
+        "onboard_time": 1739175560,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144250,
+        "num": 144250,
+        "word": "林更新这是可以模仿的吗",
+        "onboard_time": 1739172260,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141017,
+        "num": 141017,
+        "word": "刘美含演员3手撕赛道",
+        "onboard_time": 1739166260,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45740,
+        "num": 134942,
+        "word": "大学第一课是学会处理好宿舍关系",
+        "onboard_time": 1739175080,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 133617,
+        "num": 133617,
+        "word": "林孝埈赛后落泪道歉",
+        "onboard_time": 1739172559,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131979,
+        "num": 131979,
+        "word": "欧阳妮妮想再生两个小孩",
+        "onboard_time": 1739169860,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平东北之行的几个关键词#"
+    }
+  }
+}
