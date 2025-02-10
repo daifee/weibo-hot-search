@@ -1,0 +1,410 @@
+{
+  "runTime": 1739229749619,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 805752,
+        "num": 830326,
+        "word": "百色教育局通报一高中教师被举报",
+        "onboard_time": 1739206336,
+        "rank": 0,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 522722,
+        "num": 522722,
+        "word": "老外看完哪吒2称中国动画杀疯了",
+        "onboard_time": 1739203817,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 6984,
+        "num": 512321,
+        "word": "超2000万人申请国补买手机等",
+        "onboard_time": 1739116460,
+        "rank": 2,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 503078,
+        "num": 503078,
+        "word": "央视直播时一只小狐狸抢镜",
+        "onboard_time": 1739199321,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 360163,
+        "num": 360163,
+        "word": "中国香港队队员赢球后遭围殴",
+        "onboard_time": 1739207415,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318738,
+        "num": 318738,
+        "word": "买到哪吒2手写票的观众发声",
+        "onboard_time": 1739215810,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 208503,
+        "num": 208503,
+        "word": "董宇辉退出与辉同行股东行列",
+        "onboard_time": 1739199380,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 178267,
+        "num": 178267,
+        "word": "父母给的年货被丢弃疑似当事人回应",
+        "onboard_time": 1739199380,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174559,
+        "num": 174559,
+        "word": "百色祈福高中唐毓文",
+        "onboard_time": 1739202498,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159952,
+        "num": 173783,
+        "word": "时代少年团非洲出发",
+        "onboard_time": 1739208613,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381082,
+        "num": 172258,
+        "word": "韩国网友喊话林孝埈重回韩国籍",
+        "onboard_time": 1739193261,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259168,
+        "num": 170722,
+        "word": "李明德在机场怒斥前辈",
+        "onboard_time": 1739199741,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217821,
+        "num": 168850,
+        "word": "留几手葛夕民政局排队",
+        "onboard_time": 1739189781,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168519,
+        "num": 168519,
+        "word": "曝哪吒2停了300家影院密钥",
+        "onboard_time": 1739181261,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167172,
+        "num": 167172,
+        "word": "江西最强钉子户没料到公路改道",
+        "onboard_time": 1739199321,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153018,
+        "num": 153018,
+        "word": "赵露思与被家暴16次当事人小谢合影",
+        "onboard_time": 1739187682,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128892,
+        "num": 128892,
+        "word": "DeepSeek涨价了",
+        "onboard_time": 1739206277,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 84713,
+        "num": 84713,
+        "word": "小谢称至今未收到一分钱抚养费",
+        "onboard_time": 1739188701,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72545,
+        "num": 84557,
+        "word": "饺子想快点回归创作阶段",
+        "onboard_time": 1739203817,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 69605,
+        "num": 83975,
+        "word": "哪吒2票房超86亿",
+        "onboard_time": 1739199202,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102254,
+        "num": 83546,
+        "word": "女子10年前买1千克黄金现在净赚30多万",
+        "onboard_time": 1739193861,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100367,
+        "num": 82916,
+        "word": "千万不要学哪吒去收土拨鼠",
+        "onboard_time": 1739192180,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 82584,
+        "num": 82584,
+        "word": "百色被举报教师停职处理",
+        "onboard_time": 1739210112,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80467,
+        "num": 80467,
+        "word": "特朗普回应霉霉超级碗现场被嘘",
+        "onboard_time": 1739204000,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77058,
+        "num": 77058,
+        "word": "赵露思把快坏掉水果制成糖葫芦",
+        "onboard_time": 1739182641,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65698,
+        "num": 65698,
+        "word": "林孝埈将退出本赛季后续比赛",
+        "onboard_time": 1739195661,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63023,
+        "num": 63023,
+        "word": "马斯克将审查美国防部支出",
+        "onboard_time": 1739207354,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 54505,
+        "num": 62884,
+        "word": "杨子许佳琪搭戏",
+        "onboard_time": 1739222050,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53741,
+        "num": 62883,
+        "word": "北上接档六姊妹",
+        "onboard_time": 1739188221,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51037,
+        "num": 62883,
+        "word": "特效团队遗憾四海龙宫坍塌镜头删减",
+        "onboard_time": 1739196982,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 62883,
+        "num": 62882,
+        "word": "节后多地肛肠科人满为患",
+        "onboard_time": 1739196201,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57901,
+        "num": 57901,
+        "word": "大家好我是雪梅",
+        "onboard_time": 1739208014,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53465,
+        "num": 53465,
+        "word": "短道速滑容不下这么脏的黑手",
+        "onboard_time": 1739213831,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48989,
+        "num": 53457,
+        "word": "邱贻可新加坡大满贯人生赢家",
+        "onboard_time": 1739227093,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45388,
+        "num": 53436,
+        "word": "男子玩蹦床跳进海绵池摔成9级伤残",
+        "onboard_time": 1739184860,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43029,
+        "num": 53431,
+        "word": "哪吒",
+        "onboard_time": 1739192963,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41533,
+        "num": 53420,
+        "word": "终于有剧把镜头对准施暴者了",
+        "onboard_time": 1739191159,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39426,
+        "num": 53396,
+        "word": "猫眼预测",
+        "onboard_time": 1739205078,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 39267,
+        "num": 53384,
+        "word": "直播间买神药吃9个月结节更大了",
+        "onboard_time": 1739222291,
+        "rank": 38,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 38187,
+        "num": 53369,
+        "word": "哪吒名字还有个隐藏彩蛋",
+        "onboard_time": 1739201060,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 36799,
+        "num": 53358,
+        "word": "婆婆背了满满一筐菜徒步送到灾区",
+        "onboard_time": 1739215752,
+        "rank": 40,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 35832,
+        "num": 53346,
+        "word": "江西路中房仍有人居住",
+        "onboard_time": 1739211613,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35563,
+        "num": 53322,
+        "word": "印度23岁女子婚礼台上跳舞猝死",
+        "onboard_time": 1739196262,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31589,
+        "num": 53312,
+        "word": "一群外地阿姨奔赴灾区捐菜又做饭",
+        "onboard_time": 1739215031,
+        "rank": 43,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 31553,
+        "num": 53300,
+        "word": "她是武则天不是武媚娘",
+        "onboard_time": 1739178680,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29349,
+        "num": 53290,
+        "word": "官方通报值机员撕乘客登机牌",
+        "onboard_time": 1739217071,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28091,
+        "num": 53266,
+        "word": "星船新女团KiiiKiii",
+        "onboard_time": 1739200700,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27824,
+        "num": 53259,
+        "word": "小蛇糕",
+        "onboard_time": 1739192481,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 27183,
+        "num": 53235,
+        "word": "江湖尽在肖战掌握之中",
+        "onboard_time": 1739225119,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27030,
+        "num": 53223,
+        "word": "对话无量仙翁配音演员王德顺",
+        "onboard_time": 1739225892,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动新时代东北全面振兴#"
+    }
+  }
+}

@@ -1,10 +1,10 @@
 {
   "startTime": 1739204910696,
-  "endTime": 1739227046927,
+  "endTime": 1739229749619,
   "band_list": [
     {
       "raw_hot": 828616,
-      "num": 828616,
+      "num": 830326,
       "word": "百色教育局通报一高中教师被举报",
       "onboard_time": 1739206336,
       "rank": 1,
@@ -43,6 +43,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 522722,
+      "num": 522722,
+      "word": "老外看完哪吒2称中国动画杀疯了",
+      "onboard_time": 1739203817,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 517603,
       "num": 870472,
       "word": "急急如律令被翻译成biubiubiu",
@@ -57,6 +65,14 @@
       "onboard_time": 1739182641,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 503078,
+      "num": 503078,
+      "word": "央视直播时一只小狐狸抢镜",
+      "onboard_time": 1739199321,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 482289,
@@ -107,14 +123,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 370184,
-      "num": 370184,
-      "word": "老外看完哪吒2称中国动画杀疯了",
-      "onboard_time": 1739203817,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 369941,
       "num": 229442,
       "word": "曝哪吒2停了300家影院密钥",
@@ -123,12 +131,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 333283,
-      "num": 333283,
+      "raw_hot": 360163,
+      "num": 360163,
       "word": "中国香港队队员赢球后遭围殴",
       "onboard_time": 1739207415,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 318738,
+      "num": 318738,
+      "word": "买到哪吒2手写票的观众发声",
+      "onboard_time": 1739215810,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 305720,
@@ -153,14 +169,6 @@
       "onboard_time": 1739200700,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 261079,
-      "num": 261079,
-      "word": "央视直播时一只小狐狸抢镜",
-      "onboard_time": 1739199321,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 253345,
@@ -235,8 +243,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149580,
-      "num": 149580,
+      "raw_hot": 159952,
+      "num": 173783,
       "word": "时代少年团非洲出发",
       "onboard_time": 1739208613,
       "rank": 26,
@@ -321,14 +329,6 @@
       "onboard_time": 1739178561,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 104700,
-      "num": 104700,
-      "word": "买到哪吒2手写票的观众发声",
-      "onboard_time": 1739215810,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 103015,
@@ -499,6 +499,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63023,
+      "num": 63023,
+      "word": "马斯克将审查美国防部支出",
+      "onboard_time": 1739207354,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 57901,
+      "num": 187710,
+      "word": "大家好我是雪梅",
+      "onboard_time": 1739208014,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 54505,
+      "num": 62884,
+      "word": "杨子许佳琪搭戏",
+      "onboard_time": 1739222050,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 53513,
       "num": 183123,
       "word": "国家队将全力支持协助林孝埈",
@@ -507,7 +531,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 53060,
+      "raw_hot": 53465,
       "num": 58824,
       "word": "短道速滑容不下这么脏的黑手",
       "onboard_time": 1739213831,
@@ -515,12 +539,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 49356,
-      "num": 49356,
-      "word": "杨子许佳琪搭戏",
-      "onboard_time": 1739222050,
-      "rank": 15,
-      "category": "剧集"
+      "raw_hot": 48989,
+      "num": 53457,
+      "word": "邱贻可新加坡大满贯人生赢家",
+      "onboard_time": 1739227093,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 46306,
@@ -539,44 +563,52 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 40175,
-      "num": 40175,
-      "word": "马斯克将审查美国防部支出",
-      "onboard_time": 1739207354,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 37693,
-      "num": 187710,
-      "word": "大家好我是雪梅",
-      "onboard_time": 1739208014,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 27304,
-      "num": 27304,
-      "word": "官方通报值机员撕乘客登机牌",
-      "onboard_time": 1739217071,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20524,
-      "num": 41280,
+      "raw_hot": 39267,
+      "num": 53384,
       "word": "直播间买神药吃9个月结节更大了",
       "onboard_time": 1739222291,
       "rank": 27,
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 18767,
-      "num": 52549,
+      "raw_hot": 36799,
+      "num": 53358,
+      "word": "婆婆背了满满一筐菜徒步送到灾区",
+      "onboard_time": 1739215752,
+      "rank": 38,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 31589,
+      "num": 53312,
       "word": "一群外地阿姨奔赴灾区捐菜又做饭",
       "onboard_time": 1739215031,
       "rank": 34,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 29349,
+      "num": 53290,
+      "word": "官方通报值机员撕乘客登机牌",
+      "onboard_time": 1739217071,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27183,
+      "num": 53235,
+      "word": "江湖尽在肖战掌握之中",
+      "onboard_time": 1739225119,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 27030,
+      "num": 64677,
+      "word": "对话无量仙翁配音演员王德顺",
+      "onboard_time": 1739225892,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 18645,
@@ -585,30 +617,6 @@
       "onboard_time": 1739205016,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18445,
-      "num": 23685,
-      "word": "婆婆背了满满一筐菜徒步送到灾区",
-      "onboard_time": 1739215752,
-      "rank": 38,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 15755,
-      "num": 23673,
-      "word": "江湖尽在肖战掌握之中",
-      "onboard_time": 1739225119,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 15333,
-      "num": 64677,
-      "word": "对话无量仙翁配音演员王德顺",
-      "onboard_time": 1739225892,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 14327,
@@ -620,7 +628,7 @@
     },
     {
       "raw_hot": 11972,
-      "num": 445675,
+      "num": 512321,
       "word": "超2000万人申请国补买手机等",
       "onboard_time": 1739116460,
       "rank": 2,
