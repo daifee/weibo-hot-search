@@ -1,6 +1,6 @@
 {
   "startTime": 1739118284788,
-  "endTime": 1739158984202,
+  "endTime": 1739161732061,
   "band_list": [
     {
       "raw_hot": 2053631,
@@ -12,11 +12,27 @@
     },
     {
       "raw_hot": 1960699,
-      "num": 380912,
+      "num": 382637,
       "word": "王岳伦发李湘与王诗龄合照为李湘庆生",
       "onboard_time": 1739157680,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1932945,
+      "num": 1932945,
+      "word": "特朗普说中国教育做得很好",
+      "onboard_time": 1739157440,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1769261,
+      "num": 1769261,
+      "word": "金价",
+      "onboard_time": 1739158583,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 1516720,
@@ -28,7 +44,7 @@
     },
     {
       "raw_hot": 1470037,
-      "num": 927213,
+      "num": 969893,
       "word": "无量仙翁拐杖",
       "onboard_time": 1739156479,
       "rank": 43,
@@ -41,14 +57,6 @@
       "onboard_time": 1739113283,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1187286,
-      "num": 1187286,
-      "word": "特朗普说中国教育做得很好",
-      "onboard_time": 1739157440,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1179992,
@@ -83,12 +91,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 956857,
+      "num": 407197,
+      "word": "匪我思存 拆官配",
+      "onboard_time": 1739160023,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 891295,
       "num": 484811,
       "word": "美国观众谈看完哪吒2感受",
       "onboard_time": 1739114782,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 890707,
+      "num": 406913,
+      "word": "张雨霏学习滑雪被勒令停止",
+      "onboard_time": 1739159121,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 876492,
@@ -187,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 503893,
+      "num": 503893,
+      "word": "蓝猫 砸碗",
+      "onboard_time": 1739158942,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 473759,
       "num": 473759,
       "word": "难哄",
@@ -251,6 +283,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 406341,
+      "num": 406341,
+      "word": "合作导演称哪吒2不拖欠到点就结账",
+      "onboard_time": 1739160381,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 403770,
+      "num": 403770,
+      "word": "美国春晚",
+      "onboard_time": 1739160503,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 391404,
       "num": 408140,
       "word": "哪吒2",
@@ -291,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 343975,
+      "num": 343975,
+      "word": "掌心 武则天",
+      "onboard_time": 1739157802,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 337360,
       "num": 337360,
       "word": "再送黄老一程",
@@ -307,12 +363,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 329952,
+      "num": 393692,
+      "word": "美国偶遇任嘉伦",
+      "onboard_time": 1739160741,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 328162,
       "num": 328162,
       "word": "赵露思穿搭被清华大学老师上课介绍",
       "onboard_time": 1739100320,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 326187,
+      "num": 326187,
+      "word": "声生不息",
+      "onboard_time": 1739159843,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 320316,
@@ -387,6 +459,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 280917,
+      "num": 280917,
+      "word": "电影独一无二演员阵容",
+      "onboard_time": 1739160082,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 278536,
+      "num": 278536,
+      "word": "美财政部被爆将1000亿发给身份不明者",
+      "onboard_time": 1739159242,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 276701,
       "num": 276701,
       "word": "马斯克谈DeepSeek",
@@ -419,14 +507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 262501,
-      "num": 262501,
-      "word": "掌心 武则天",
-      "onboard_time": 1739157802,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 251663,
       "num": 210567,
       "word": "哪吒2票房超90亿将进入全球影史前30",
@@ -435,12 +515,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 248273,
-      "num": 248273,
-      "word": "金价",
-      "onboard_time": 1739158583,
-      "rank": 36,
-      "category": "财经"
+      "raw_hot": 244022,
+      "num": 244022,
+      "word": "48岁男子离家工作抱着妻子嗷嗷哭",
+      "onboard_time": 1739156841,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 233652,
@@ -459,12 +539,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 231899,
+      "num": 231899,
+      "word": "哪吒2票房超82亿",
+      "onboard_time": 1739159060,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 228065,
       "num": 228065,
       "word": "特朗普宣布2月9日为第一个美国湾日",
       "onboard_time": 1739152100,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 224139,
+      "num": 224139,
+      "word": "蛟龙行动",
+      "onboard_time": 1739160741,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 221750,
@@ -523,6 +619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 206359,
+      "num": 291621,
+      "word": "首尔拟奖励结婚者100万韩元",
+      "onboard_time": 1739158640,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 205970,
       "num": 222057,
       "word": "演员请就位3概念官宣",
@@ -545,14 +649,6 @@
       "onboard_time": 1739104043,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 203695,
-      "num": 209298,
-      "word": "48岁男子离家工作抱着妻子嗷嗷哭",
-      "onboard_time": 1739156841,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 203365,
@@ -627,12 +723,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 193952,
+      "num": 193952,
+      "word": "老鹰获得超级碗冠军",
+      "onboard_time": 1739159422,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191073,
       "num": 191073,
       "word": "王楚钦恭喜蒯曼",
       "onboard_time": 1739145859,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190362,
+      "num": 190362,
+      "word": "妻子与人合拍短视频被丈夫砍伤",
+      "onboard_time": 1739161223,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190197,
@@ -649,6 +761,14 @@
       "onboard_time": 1739155580,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186454,
+      "num": 192683,
+      "word": "肖战经历万千之后你还是你就好",
+      "onboard_time": 1739160862,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 185876,
@@ -691,6 +811,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178527,
+      "num": 388072,
+      "word": "多家银行中短期存款利率倒挂",
+      "onboard_time": 1739158223,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 178148,
+      "num": 178148,
+      "word": "白色橄榄树萨辛也太好逗了",
+      "onboard_time": 1739161643,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 176156,
+      "num": 195117,
+      "word": "世界第一小石头",
+      "onboard_time": 1739161521,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173816,
       "num": 153413,
       "word": "做完近视手术第二天的真实感受",
@@ -721,22 +865,6 @@
       "onboard_time": 1739150420,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168178,
-      "num": 291621,
-      "word": "首尔拟奖励结婚者100万韩元",
-      "onboard_time": 1739158640,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 167308,
-      "num": 388072,
-      "word": "多家银行中短期存款利率倒挂",
-      "onboard_time": 1739158223,
-      "rank": 16,
-      "category": "财经"
     },
     {
       "raw_hot": 163450,
@@ -787,20 +915,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154735,
+      "num": 406563,
+      "word": "致敬黄老一路走好",
+      "onboard_time": 1739161403,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154301,
       "num": 154301,
       "word": "浪姐6",
       "onboard_time": 1739149880,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 152581,
-      "num": 152581,
-      "word": "蓝猫 砸碗",
-      "onboard_time": 1739158942,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 151936,
@@ -833,6 +961,14 @@
       "onboard_time": 1739109082,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145759,
+      "num": 390378,
+      "word": "打工人相亲没成的姻缘都成了人脉",
+      "onboard_time": 1739157741,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144419,
@@ -875,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131834,
+      "num": 196529,
+      "word": "东盟国家旅游团可免签入境西双版纳",
+      "onboard_time": 1739160381,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 130886,
       "num": 130886,
       "word": "檀健次跳舞硬控朱嘉琦",
@@ -897,14 +1041,6 @@
       "onboard_time": 1739144298,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 129832,
-      "num": 129832,
-      "word": "打工人相亲没成的姻缘都成了人脉",
-      "onboard_time": 1739157741,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127332,
@@ -1020,11 +1156,19 @@
     },
     {
       "raw_hot": 86906,
-      "num": 158294,
+      "num": 406838,
       "word": "邓为超A白月光",
       "onboard_time": 1739158762,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85146,
+      "num": 192448,
+      "word": "王家卫说希望苏丽珍可以走得更远",
+      "onboard_time": 1739161702,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 85084,
@@ -1051,6 +1195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72372,
+      "num": 194089,
+      "word": "周一早餐小学生的卷饼",
+      "onboard_time": 1739161041,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 70373,
       "num": 199500,
       "word": "超2000万人申请国补买手机等",
@@ -1068,11 +1220,19 @@
     },
     {
       "raw_hot": 68660,
-      "num": 1033478,
+      "num": 1776179,
       "word": "三面五星红旗一起升起",
       "onboard_time": 1739106743,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66048,
+      "num": 385667,
+      "word": "蒋勤勤张婧仪新片演母女",
+      "onboard_time": 1739161282,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 60535,
@@ -1201,6 +1361,14 @@
       "onboard_time": 1739155101,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27096,
+      "num": 235853,
+      "word": "熊诗芮女子大跳台夺冠",
+      "onboard_time": 1739161584,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 26900,
