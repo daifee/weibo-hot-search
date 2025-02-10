@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739222477745,
+  "endTime": 1739223330671,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -27371,6 +27371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53326,
+      "num": 53326,
+      "word": "买到哪吒2手写票的观众发声",
+      "onboard_time": 1739215810,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 53146,
       "num": 325104,
       "word": "WTT新加坡大满贯今日收官",
@@ -27425,14 +27433,6 @@
       "onboard_time": 1739191342,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 52723,
-      "num": 52723,
-      "word": "买到哪吒2手写票的观众发声",
-      "onboard_time": 1739215810,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 52656,
@@ -28779,6 +28779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35139,
+      "num": 35139,
+      "word": "杨子许佳琪搭戏",
+      "onboard_time": 1739222050,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 35077,
       "num": 135313,
       "word": "双马尾角色中的上古真神",
@@ -29033,14 +29041,6 @@
       "onboard_time": 1738440191,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31675,
-      "num": 31675,
-      "word": "杨子许佳琪搭戏",
-      "onboard_time": 1739222050,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 31667,
@@ -30523,6 +30523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14327,
+      "num": 23347,
+      "word": "外交部回应DeepSeek引发国际关注",
+      "onboard_time": 1739220970,
+      "rank": 24,
+      "category": "国内时政,互联网"
+    },
+    {
       "raw_hot": 14306,
       "num": 81938,
       "word": "运动员滑冰点燃主火炬",
@@ -30795,14 +30803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 12132,
-      "num": 23347,
-      "word": "外交部回应DeepSeek引发国际关注",
-      "onboard_time": 1739220970,
-      "rank": 24,
-      "category": "国内时政,互联网"
-    },
-    {
       "raw_hot": 11984,
       "num": 138510,
       "word": "福克斯改号码致敬妻子",
@@ -30833,6 +30833,14 @@
       "onboard_time": 1738353013,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11599,
+      "num": 41280,
+      "word": "直播间买神药吃9个月结节更大了",
+      "onboard_time": 1739222291,
+      "rank": 27,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 11576,
@@ -31089,14 +31097,6 @@
       "onboard_time": 1738790531,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 8884,
-      "num": 22627,
-      "word": "直播间买神药吃9个月结节更大了",
-      "onboard_time": 1739222291,
-      "rank": 27,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 8777,

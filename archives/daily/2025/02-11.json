@@ -1,6 +1,6 @@
 {
   "startTime": 1739204910696,
-  "endTime": 1739222477745,
+  "endTime": 1739223330671,
   "band_list": [
     {
       "raw_hot": 828616,
@@ -499,20 +499,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53326,
+      "num": 53326,
+      "word": "买到哪吒2手写票的观众发声",
+      "onboard_time": 1739215810,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 53060,
       "num": 58824,
       "word": "短道速滑容不下这么脏的黑手",
       "onboard_time": 1739213831,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 52723,
-      "num": 52723,
-      "word": "买到哪吒2手写票的观众发声",
-      "onboard_time": 1739215810,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 46306,
@@ -539,20 +539,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35139,
+      "num": 35139,
+      "word": "杨子许佳琪搭戏",
+      "onboard_time": 1739222050,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 33444,
       "num": 36163,
       "word": "马斯克将审查美国防部支出",
       "onboard_time": 1739207354,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 31675,
-      "num": 31675,
-      "word": "杨子许佳琪搭戏",
-      "onboard_time": 1739222050,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 27304,
@@ -587,7 +587,7 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 12132,
+      "raw_hot": 14327,
       "num": 23347,
       "word": "外交部回应DeepSeek引发国际关注",
       "onboard_time": 1739220970,
@@ -601,6 +601,14 @@
       "onboard_time": 1739116460,
       "rank": 2,
       "category": "民生新闻,国内时政"
+    },
+    {
+      "raw_hot": 11599,
+      "num": 41280,
+      "word": "直播间买神药吃9个月结节更大了",
+      "onboard_time": 1739222291,
+      "rank": 27,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 10970,
@@ -617,14 +625,6 @@
       "onboard_time": 1739218691,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 8884,
-      "num": 22627,
-      "word": "直播间买神药吃9个月结节更大了",
-      "onboard_time": 1739222291,
-      "rank": 27,
-      "category": "民生新闻,健康医疗"
     }
   ],
   "hotgov_list": [
