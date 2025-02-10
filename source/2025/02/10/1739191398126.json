@@ -1,0 +1,410 @@
+{
+  "runTime": 1739191398126,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1701307,
+        "num": 1701307,
+        "word": "DeepSeek",
+        "onboard_time": 1739177721,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 824968,
+        "num": 824968,
+        "word": "哪吒2悉尼上映数百观众等1小时没看成",
+        "onboard_time": 1739185098,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 35409,
+        "num": 634182,
+        "word": "中国队已集齐2个金牌九宫格",
+        "onboard_time": 1739177119,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 485112,
+        "num": 485112,
+        "word": "比亚迪智驾",
+        "onboard_time": 1739189479,
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 421226,
+        "num": 421226,
+        "word": "小谢称至今未收到一分钱抚养费",
+        "onboard_time": 1739188701,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1854188,
+        "num": 417682,
+        "word": "留几手葛夕民政局排队",
+        "onboard_time": 1739189781,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 567872,
+        "num": 417146,
+        "word": "光线传媒回应哪吒2被偷票房",
+        "onboard_time": 1739185820,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 516561,
+        "num": 416477,
+        "word": "哪吒2票房破85亿",
+        "onboard_time": 1739187082,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 413496,
+        "num": 413496,
+        "word": "男子玩蹦床跳进海绵池摔成9级伤残",
+        "onboard_time": 1739184860,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292577,
+        "num": 292577,
+        "word": "金价",
+        "onboard_time": 1739158583,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 5594401,
+        "num": 5594401,
+        "word": "疑似李明德前女友发文",
+        "onboard_time": 1739186001,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1493801,
+        "num": 263894,
+        "word": "赵露思与被家暴16次当事人小谢合影",
+        "onboard_time": 1739187682,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 436673,
+        "num": 262512,
+        "word": "曝哪吒2被偷票房",
+        "onboard_time": 1739177359,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 247818,
+        "num": 247818,
+        "word": "比亚迪发布会",
+        "onboard_time": 1739189361,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 427554,
+        "num": 245210,
+        "word": "急急如律令被翻译成biubiubiu",
+        "onboard_time": 1739191159,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 397621,
+        "num": 244902,
+        "word": "张雅钦秒删",
+        "onboard_time": 1739178561,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420703,
+        "num": 241325,
+        "word": "曝哪吒2停了300家影院密钥",
+        "onboard_time": 1739181261,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 267236,
+        "num": 238923,
+        "word": "邓为问谁给我报的名",
+        "onboard_time": 1739189422,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279799,
+        "num": 235799,
+        "word": "票房TOP30唯一非好莱坞影片",
+        "onboard_time": 1739176041,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 85544,
+        "num": 233114,
+        "word": "年货扔垃圾箱疑似当事人回应",
+        "onboard_time": 1739190921,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 753434,
+        "num": 227766,
+        "word": "赵露思把快坏掉水果制成糖葫芦",
+        "onboard_time": 1739182641,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265560,
+        "num": 225034,
+        "word": "北上接档六姊妹",
+        "onboard_time": 1739188221,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254620,
+        "num": 224018,
+        "word": "她是武则天不是武媚娘",
+        "onboard_time": 1739178680,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221827,
+        "num": 221827,
+        "word": "吴艳妮60米跑出7秒64刷新个人纪录",
+        "onboard_time": 1739190261,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14571,
+        "num": 218719,
+        "word": "风箫用心做好每件小事",
+        "onboard_time": 1739185881,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 215840,
+        "num": 215840,
+        "word": "谢娜带留置针看张杰演唱会",
+        "onboard_time": 1739182221,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204166,
+        "num": 204166,
+        "word": "梁洁白色橄榄树亲情线好催泪",
+        "onboard_time": 1739190740,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194354,
+        "num": 194354,
+        "word": "殡仪馆众人齐声大喊黄老一路走好",
+        "onboard_time": 1739178860,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194125,
+        "num": 194125,
+        "word": "马嘉祺 立春去春城",
+        "onboard_time": 1739190861,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168491,
+        "num": 168491,
+        "word": "种地吧玫瑰酪",
+        "onboard_time": 1739187442,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167896,
+        "num": 167896,
+        "word": "丽江机场的道歉为何难平息质疑",
+        "onboard_time": 1739176460,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163046,
+        "num": 163046,
+        "word": "刘诗诗扛剧能力",
+        "onboard_time": 1739182099,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153063,
+        "num": 153063,
+        "word": "蓝盈莹五福临门上线",
+        "onboard_time": 1739188403,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148106,
+        "num": 148106,
+        "word": "宋妍霏头包脸",
+        "onboard_time": 1739187082,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145172,
+        "num": 145172,
+        "word": "朋友回忆一氧化碳中毒遇难的一家五口",
+        "onboard_time": 1739188881,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143763,
+        "num": 143763,
+        "word": "终于有剧把镜头对准施暴者了",
+        "onboard_time": 1739191159,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139933,
+        "num": 139933,
+        "word": "11岁小孩姐造假人逃避背书",
+        "onboard_time": 1739172921,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139931,
+        "num": 139931,
+        "word": "谁教李昀锐这么背包的",
+        "onboard_time": 1739181201,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47481,
+        "num": 135096,
+        "word": "机场别成基本公共服务坏样本",
+        "onboard_time": 1739191342,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133775,
+        "num": 133775,
+        "word": "Jennie时隔五年发微博",
+        "onboard_time": 1739171180,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131709,
+        "num": 131709,
+        "word": "我国首代核潜艇4位总师均已逝世",
+        "onboard_time": 1739182339,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119759,
+        "num": 131129,
+        "word": "两部哪吒中的急急如律令翻译不一样",
+        "onboard_time": 1739189361,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131009,
+        "num": 131009,
+        "word": "霉霉超级碗被嘘男友感到很无助",
+        "onboard_time": 1739182941,
+        "rank": 42,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 129377,
+        "num": 129377,
+        "word": "买金条应该去银行还是金店",
+        "onboard_time": 1739172801,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124222,
+        "num": 124222,
+        "word": "马斯克审查五角大楼捅了多大马蜂窝",
+        "onboard_time": 1739184260,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 58319,
+        "num": 116140,
+        "word": "娱乐活动玩出意外谁该担责",
+        "onboard_time": 1739187861,
+        "rank": 45,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 359953,
+        "num": 115807,
+        "word": "怪不得太乙真人说这才像正版哪吒",
+        "onboard_time": 1739188521,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113928,
+        "num": 113928,
+        "word": "虞书欣水果摊少女氛围感",
+        "onboard_time": 1739179221,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112313,
+        "num": 112313,
+        "word": "卡琳娜 浪姐6",
+        "onboard_time": 1739169860,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111142,
+        "num": 111142,
+        "word": "张睿语音",
+        "onboard_time": 1739184439,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记这样部署东北全面振兴#"
+    }
+  }
+}

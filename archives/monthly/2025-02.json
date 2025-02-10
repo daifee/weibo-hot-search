@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739187374219,
+  "endTime": 1739191398126,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -771,6 +771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1854188,
+      "num": 417682,
+      "word": "留几手葛夕民政局排队",
+      "onboard_time": 1739189781,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1852761,
       "num": 1852761,
       "word": "肖战说的是谁",
@@ -1127,6 +1135,14 @@
       "num": 1139978,
       "word": "汪小菲今天从泰国赶回台湾",
       "onboard_time": 1738553604,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1493801,
+      "num": 263894,
+      "word": "赵露思与被家暴16次当事人小谢合影",
+      "onboard_time": 1739187682,
       "rank": 11,
       "category": "艺人"
     },
@@ -4499,6 +4515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 567872,
+      "num": 513743,
+      "word": "光线传媒回应哪吒2被偷票房",
+      "onboard_time": 1739185820,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 567551,
       "num": 361673,
       "word": "哪吒2隐喻引热议",
@@ -5051,6 +5075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 516561,
+      "num": 416477,
+      "word": "哪吒2票房破85亿",
+      "onboard_time": 1739187082,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 516550,
       "num": 516550,
       "word": "曝大热cp二搭全是三个字",
@@ -5113,14 +5145,6 @@
       "onboard_time": 1739147901,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 513743,
-      "num": 513743,
-      "word": "光线传媒回应哪吒2被偷票房",
-      "onboard_time": 1739185820,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 513545,
@@ -5633,6 +5657,14 @@
       "onboard_time": 1738540515,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 485112,
+      "num": 485112,
+      "word": "比亚迪智驾",
+      "onboard_time": 1739189479,
+      "rank": 3,
+      "category": "汽车"
     },
     {
       "raw_hot": 484380,
@@ -6515,6 +6547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 427554,
+      "num": 245210,
+      "word": "急急如律令被翻译成biubiubiu",
+      "onboard_time": 1739191159,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 427317,
       "num": 427317,
       "word": "张国伟复出首站夺冠",
@@ -6569,6 +6609,14 @@
       "onboard_time": 1738372516,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 421226,
+      "num": 421226,
+      "word": "小谢称至今未收到一分钱抚养费",
+      "onboard_time": 1739188701,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 420634,
@@ -6649,6 +6697,14 @@
       "onboard_time": 1738994603,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 413496,
+      "num": 413496,
+      "word": "男子玩蹦床跳进海绵池摔成9级伤残",
+      "onboard_time": 1739184860,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 411876,
@@ -7512,6 +7568,14 @@
       "word": "哪吒之魔童闹海票房破42亿",
       "onboard_time": 1738630221,
       "rank": 21,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 359953,
+      "num": 115807,
+      "word": "怪不得太乙真人说这才像正版哪吒",
+      "onboard_time": 1739188521,
+      "rank": 46,
       "category": "电影"
     },
     {
@@ -9851,6 +9915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 267236,
+      "num": 238923,
+      "word": "邓为问谁给我报的名",
+      "onboard_time": 1739189422,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 267120,
       "num": 296165,
       "word": "沐清歌下线",
@@ -9905,6 +9977,14 @@
       "onboard_time": 1738397417,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 265560,
+      "num": 225034,
+      "word": "北上接档六姊妹",
+      "onboard_time": 1739188221,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 265283,
@@ -9985,14 +10065,6 @@
       "onboard_time": 1738989207,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 262609,
-      "num": 262609,
-      "word": "男子玩蹦床跳进海绵池摔成9级伤残",
-      "onboard_time": 1739184860,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 262468,
@@ -10617,6 +10689,14 @@
       "onboard_time": 1738452074,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 247818,
+      "num": 247818,
+      "word": "比亚迪发布会",
+      "onboard_time": 1739189361,
+      "rank": 13,
+      "category": "汽车"
     },
     {
       "raw_hot": 247507,
@@ -11937,6 +12017,14 @@
       "onboard_time": 1738584390,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 221827,
+      "num": 221827,
+      "word": "吴艳妮60米跑出7秒64刷新个人纪录",
+      "onboard_time": 1739190261,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 221820,
@@ -13275,6 +13363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 204166,
+      "num": 204166,
+      "word": "梁洁白色橄榄树亲情线好催泪",
+      "onboard_time": 1739190740,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204123,
       "num": 204123,
       "word": "王者荣耀",
@@ -14305,6 +14401,14 @@
       "onboard_time": 1738842025,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194125,
+      "num": 194125,
+      "word": "马嘉祺 立春去春城",
+      "onboard_time": 1739190861,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 194085,
@@ -16955,6 +17059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168491,
+      "num": 168491,
+      "word": "种地吧玫瑰酪",
+      "onboard_time": 1739187442,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168481,
       "num": 168481,
       "word": "李昀锐把自己哄成胚胎了",
@@ -18499,6 +18611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153063,
+      "num": 153063,
+      "word": "蓝盈莹五福临门上线",
+      "onboard_time": 1739188403,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153002,
       "num": 153002,
       "word": "六姊妹生理性喜欢物理性分手",
@@ -19363,6 +19483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145172,
+      "num": 145172,
+      "word": "朋友回忆一氧化碳中毒遇难的一家五口",
+      "onboard_time": 1739188881,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145014,
       "num": 145014,
       "word": "观众真把封神2用在刀刃上",
@@ -19521,6 +19649,14 @@
       "onboard_time": 1738975402,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 143763,
+      "num": 143763,
+      "word": "终于有剧把镜头对准施暴者了",
+      "onboard_time": 1739191159,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 143751,
@@ -21969,6 +22105,14 @@
       "onboard_time": 1739176881,
       "rank": 36,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 119759,
+      "num": 131129,
+      "word": "两部哪吒中的急急如律令翻译不一样",
+      "onboard_time": 1739189361,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 119627,
@@ -24739,6 +24883,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 85544,
+      "num": 233114,
+      "word": "年货扔垃圾箱疑似当事人回应",
+      "onboard_time": 1739190921,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85423,
       "num": 85423,
       "word": "詹姆斯史上最老周最佳",
@@ -26379,6 +26531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 58319,
+      "num": 116140,
+      "word": "娱乐活动玩出意外谁该担责",
+      "onboard_time": 1739187861,
+      "rank": 45,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 58161,
       "num": 355370,
       "word": "申公豹代购的药单打工人也用得上",
@@ -27145,6 +27305,14 @@
       "onboard_time": 1739051471,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 47481,
+      "num": 135096,
+      "word": "机场别成基本公共服务坏样本",
+      "onboard_time": 1739191342,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47462,
@@ -29444,7 +29612,7 @@
     },
     {
       "raw_hot": 16971,
-      "num": 180211,
+      "num": 218719,
       "word": "风箫用心做好每件小事",
       "onboard_time": 1739185881,
       "rank": 30,

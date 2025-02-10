@@ -1,6 +1,6 @@
 {
   "startTime": 1739118284788,
-  "endTime": 1739187374219,
+  "endTime": 1739191398126,
   "band_list": [
     {
       "raw_hot": 10037874,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1854188,
+      "num": 417682,
+      "word": "留几手葛夕民政局排队",
+      "onboard_time": 1739189781,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1852761,
       "num": 1852761,
       "word": "肖战说的是谁",
@@ -105,6 +113,14 @@
       "onboard_time": 1739148020,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1493801,
+      "num": 263894,
+      "word": "赵露思与被家暴16次当事人小谢合影",
+      "onboard_time": 1739187682,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1470037,
@@ -475,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 567872,
+      "num": 513743,
+      "word": "光线传媒回应哪吒2被偷票房",
+      "onboard_time": 1739185820,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 563789,
       "num": 308160,
       "word": "11岁小孩姐造假人逃避背书",
@@ -523,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 516561,
+      "num": 416477,
+      "word": "哪吒2票房破85亿",
+      "onboard_time": 1739187082,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 515191,
       "num": 515191,
       "word": "外媒预测阿凡达3上映前哪吒最卖座",
@@ -539,14 +571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 513743,
-      "num": 513743,
-      "word": "光线传媒回应哪吒2被偷票房",
-      "onboard_time": 1739185820,
-      "rank": 8,
-      "category": "电影"
-    },
-    {
       "raw_hot": 500184,
       "num": 398797,
       "word": "赵露思自制冰糖葫芦小零食",
@@ -561,6 +585,14 @@
       "onboard_time": 1739169860,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 485112,
+      "num": 485112,
+      "word": "比亚迪智驾",
+      "onboard_time": 1739189479,
+      "rank": 3,
+      "category": "汽车"
     },
     {
       "raw_hot": 473759,
@@ -635,12 +667,36 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 427554,
+      "num": 245210,
+      "word": "急急如律令被翻译成biubiubiu",
+      "onboard_time": 1739191159,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 427317,
       "num": 427317,
       "word": "张国伟复出首站夺冠",
       "onboard_time": 1739170279,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 421226,
+      "num": 421226,
+      "word": "小谢称至今未收到一分钱抚养费",
+      "onboard_time": 1739188701,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 413496,
+      "num": 413496,
+      "word": "男子玩蹦床跳进海绵池摔成9级伤残",
+      "onboard_time": 1739184860,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 407159,
@@ -720,6 +776,14 @@
       "word": "封神2视效声明",
       "onboard_time": 1739111842,
       "rank": 12,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 359953,
+      "num": 115807,
+      "word": "怪不得太乙真人说这才像正版哪吒",
+      "onboard_time": 1739188521,
+      "rank": 46,
       "category": "电影"
     },
     {
@@ -947,6 +1011,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 267236,
+      "num": 238923,
+      "word": "邓为问谁给我报的名",
+      "onboard_time": 1739189422,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 266961,
       "num": 266961,
       "word": "陈牧驰说殷郊我太蓝了",
@@ -963,20 +1035,20 @@
       "category": "电影,游戏"
     },
     {
+      "raw_hot": 265560,
+      "num": 225034,
+      "word": "北上接档六姊妹",
+      "onboard_time": 1739188221,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 263971,
       "num": 263971,
       "word": "你的时髦小姨回家过年了",
       "onboard_time": 1739158042,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 262609,
-      "num": 262609,
-      "word": "男子玩蹦床跳进海绵池摔成9级伤残",
-      "onboard_time": 1739184860,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 259686,
@@ -1049,6 +1121,14 @@
       "onboard_time": 1739163802,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 247818,
+      "num": 247818,
+      "word": "比亚迪发布会",
+      "onboard_time": 1739189361,
+      "rank": 13,
+      "category": "汽车"
     },
     {
       "raw_hot": 245171,
@@ -1145,6 +1225,14 @@
       "onboard_time": 1739160741,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 221827,
+      "num": 221827,
+      "word": "吴艳妮60米跑出7秒64刷新个人纪录",
+      "onboard_time": 1739190261,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 221750,
@@ -1299,6 +1387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 204166,
+      "num": 204166,
+      "word": "梁洁白色橄榄树亲情线好催泪",
+      "onboard_time": 1739190740,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203806,
       "num": 203806,
       "word": "哪吒2票房",
@@ -1425,6 +1521,14 @@
       "onboard_time": 1739183060,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194125,
+      "num": 194125,
+      "word": "马嘉祺 立春去春城",
+      "onboard_time": 1739190861,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 193952,
@@ -1739,6 +1843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 168491,
+      "num": 168491,
+      "word": "种地吧玫瑰酪",
+      "onboard_time": 1739187442,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168141,
       "num": 307951,
       "word": "送养15年后生父母要抚养权终审驳回",
@@ -1875,6 +1987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153063,
+      "num": 153063,
+      "word": "蓝盈莹五福临门上线",
+      "onboard_time": 1739188403,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152702,
       "num": 152702,
       "word": "泡泡玛特公园偶遇梁伟铿",
@@ -1971,12 +2091,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145172,
+      "num": 145172,
+      "word": "朋友回忆一氧化碳中毒遇难的一家五口",
+      "onboard_time": 1739188881,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144419,
       "num": 205548,
       "word": "40万新车被小孩引燃车主又订了一辆",
       "onboard_time": 1739101342,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143763,
+      "num": 143763,
+      "word": "终于有剧把镜头对准施暴者了",
+      "onboard_time": 1739191159,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 143185,
@@ -2161,6 +2297,14 @@
       "onboard_time": 1739176881,
       "rank": 36,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 119759,
+      "num": 131129,
+      "word": "两部哪吒中的急急如律令翻译不一样",
+      "onboard_time": 1739189361,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 118676,
@@ -2363,6 +2507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85544,
+      "num": 233114,
+      "word": "年货扔垃圾箱疑似当事人回应",
+      "onboard_time": 1739190921,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85084,
       "num": 85484,
       "word": "11日起雨雪范围扩大",
@@ -2547,6 +2699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58319,
+      "num": 116140,
+      "word": "娱乐活动玩出意外谁该担责",
+      "onboard_time": 1739187861,
+      "rank": 45,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 57913,
       "num": 73184,
       "word": "仙台有树暗恋对象问我是不是她爹",
@@ -2601,6 +2761,14 @@
       "onboard_time": 1739107402,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 47481,
+      "num": 135096,
+      "word": "机场别成基本公共服务坏样本",
+      "onboard_time": 1739191342,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47410,
@@ -2844,7 +3012,7 @@
     },
     {
       "raw_hot": 16971,
-      "num": 180211,
+      "num": 218719,
       "word": "风箫用心做好每件小事",
       "onboard_time": 1739185881,
       "rank": 30,
