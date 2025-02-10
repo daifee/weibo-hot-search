@@ -1,6 +1,6 @@
 {
   "startTime": 1739204910696,
-  "endTime": 1739209028297,
+  "endTime": 1739212261195,
   "band_list": [
     {
       "raw_hot": 828616,
@@ -235,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149580,
+      "num": 149580,
+      "word": "时代少年团非洲出发",
+      "onboard_time": 1739208613,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149546,
       "num": 149546,
       "word": "印度23岁女子婚礼台上跳舞猝死",
@@ -249,6 +257,14 @@
       "onboard_time": 1739193861,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140158,
+      "num": 140158,
+      "word": "DeepSeek涨价了",
+      "onboard_time": 1739206277,
+      "rank": 22,
+      "category": "互联网"
     },
     {
       "raw_hot": 129552,
@@ -299,14 +315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 103789,
-      "num": 103789,
-      "word": "DeepSeek涨价了",
-      "onboard_time": 1739206277,
-      "rank": 22,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 103015,
       "num": 103015,
       "word": "25岁是人生的7点半",
@@ -321,6 +329,14 @@
       "onboard_time": 1739180001,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101245,
+      "num": 101245,
+      "word": "百色被举报教师停职处理",
+      "onboard_time": 1739210112,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100449,
@@ -435,14 +451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 71535,
-      "num": 71535,
-      "word": "时代少年团非洲出发",
-      "onboard_time": 1739208613,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 69467,
       "num": 69467,
       "word": "吴艳妮60米跑出7秒64刷新个人纪录",
@@ -491,7 +499,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 28823,
+      "raw_hot": 37693,
       "num": 187710,
       "word": "大家好我是雪梅",
       "onboard_time": 1739208014,
@@ -503,6 +511,14 @@
       "num": 256048,
       "word": "再见了黄旭华爷爷",
       "onboard_time": 1739205016,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13358,
+      "num": 122630,
+      "word": "江西路中房仍有人居住",
+      "onboard_time": 1739211613,
       "rank": 9,
       "category": "民生新闻"
     },

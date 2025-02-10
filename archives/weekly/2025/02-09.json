@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739209028297,
+  "endTime": 1739212261195,
   "band_list": [
     {
       "raw_hot": 10037874,
@@ -4771,6 +4771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149580,
+      "num": 149580,
+      "word": "时代少年团非洲出发",
+      "onboard_time": 1739208613,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148554,
       "num": 148554,
       "word": "林俊杰说完整了我的不完美",
@@ -5017,6 +5025,14 @@
       "onboard_time": 1739171540,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140158,
+      "num": 140158,
+      "word": "DeepSeek涨价了",
+      "onboard_time": 1739206277,
+      "rank": 22,
+      "category": "互联网"
     },
     {
       "raw_hot": 140128,
@@ -5731,14 +5747,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 103789,
-      "num": 103789,
-      "word": "DeepSeek涨价了",
-      "onboard_time": 1739206277,
-      "rank": 22,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 103612,
       "num": 103612,
       "word": "余承恩王子璇好甜",
@@ -5785,6 +5793,14 @@
       "onboard_time": 1739098821,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101245,
+      "num": 101245,
+      "word": "百色被举报教师停职处理",
+      "onboard_time": 1739210112,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101145,
@@ -6113,14 +6129,6 @@
       "onboard_time": 1739161041,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 71535,
-      "num": 71535,
-      "word": "时代少年团非洲出发",
-      "onboard_time": 1739208613,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 71333,
@@ -6651,6 +6659,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 37693,
+      "num": 187710,
+      "word": "大家好我是雪梅",
+      "onboard_time": 1739208014,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37653,
       "num": 246269,
       "word": "茸主战胜不败新秀",
@@ -6841,14 +6857,6 @@
       "onboard_time": 1739092820,
       "rank": 19,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 28823,
-      "num": 187710,
-      "word": "大家好我是雪梅",
-      "onboard_time": 1739208014,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 26900,
@@ -7153,6 +7161,14 @@
       "onboard_time": 1739194041,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13358,
+      "num": 122630,
+      "word": "江西路中房仍有人居住",
+      "onboard_time": 1739211613,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13256,

@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739209028297,
+  "endTime": 1739212261195,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -19323,6 +19323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 149580,
+      "num": 149580,
+      "word": "时代少年团非洲出发",
+      "onboard_time": 1739208613,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149550,
       "num": 363022,
       "word": "中方回应特朗普涉加沙言论",
@@ -20385,6 +20393,14 @@
       "onboard_time": 1738855225,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 140158,
+      "num": 140158,
+      "word": "DeepSeek涨价了",
+      "onboard_time": 1739206277,
+      "rank": 22,
+      "category": "互联网"
     },
     {
       "raw_hot": 140128,
@@ -24035,14 +24051,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 103789,
-      "num": 103789,
-      "word": "DeepSeek涨价了",
-      "onboard_time": 1739206277,
-      "rank": 22,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 103640,
       "num": 103640,
       "word": "chiikawa小八变声了",
@@ -24272,6 +24280,14 @@
       "word": "本周六要上班",
       "onboard_time": 1738640303,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101245,
+      "num": 101245,
+      "word": "百色被举报教师停职处理",
+      "onboard_time": 1739210112,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -26113,14 +26129,6 @@
       "onboard_time": 1738758564,
       "rank": 34,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 71535,
-      "num": 71535,
-      "word": "时代少年团非洲出发",
-      "onboard_time": 1739208613,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 71523,
@@ -28475,6 +28483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37693,
+      "num": 187710,
+      "word": "大家好我是雪梅",
+      "onboard_time": 1739208014,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37688,
       "num": 37688,
       "word": "哪吒2特效",
@@ -29217,14 +29233,6 @@
       "onboard_time": 1738481836,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28823,
-      "num": 187710,
-      "word": "大家好我是雪梅",
-      "onboard_time": 1739208014,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 28314,
@@ -30553,6 +30561,14 @@
       "onboard_time": 1738955472,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 13358,
+      "num": 122630,
+      "word": "江西路中房仍有人居住",
+      "onboard_time": 1739211613,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13256,
