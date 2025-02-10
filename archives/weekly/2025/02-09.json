@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739164961822,
+  "endTime": 1739165956720,
   "band_list": [
     {
       "raw_hot": 3533201,
@@ -41,6 +41,14 @@
       "onboard_time": 1739135411,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1989781,
+      "num": 1989781,
+      "word": "上班7天喝的都是蚂蚁泡澡水",
+      "onboard_time": 1739163084,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1968302,
@@ -107,14 +115,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1824696,
-      "num": 1824696,
-      "word": "上班7天喝的都是蚂蚁泡澡水",
-      "onboard_time": 1739163084,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1811166,
       "num": 1811166,
       "word": "浪姐6名单",
@@ -137,6 +137,14 @@
       "onboard_time": 1739063238,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1653157,
+      "num": 1653157,
+      "word": "肖战说的是谁",
+      "onboard_time": 1739164641,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 1572933,
@@ -176,6 +184,14 @@
       "word": "无量仙翁拐杖",
       "onboard_time": 1739156479,
       "rank": 43,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1455837,
+      "num": 1455837,
+      "word": "哪吒2被盗摄翻译上传外网",
+      "onboard_time": 1739163322,
+      "rank": 3,
       "category": "电影"
     },
     {
@@ -260,19 +276,11 @@
     },
     {
       "raw_hot": 1148822,
-      "num": 559211,
+      "num": 633309,
       "word": "匪我思存 拆官配",
       "onboard_time": 1739160023,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1145737,
-      "num": 1145737,
-      "word": "哪吒2被盗摄翻译上传外网",
-      "onboard_time": 1739163322,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 1127415,
@@ -388,7 +396,7 @@
     },
     {
       "raw_hot": 973927,
-      "num": 692114,
+      "num": 692411,
       "word": "合作导演称哪吒2不拖欠到点就结账",
       "onboard_time": 1739160381,
       "rank": 15,
@@ -547,14 +555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 769182,
-      "num": 554463,
-      "word": "肖战说的是谁",
-      "onboard_time": 1739164641,
-      "rank": 11,
-      "category": "电影"
-    },
-    {
       "raw_hot": 768375,
       "num": 768375,
       "word": "韩国队犯规取消成绩",
@@ -569,6 +569,14 @@
       "onboard_time": 1739062159,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 747824,
+      "num": 249849,
+      "word": "蔡徐坤 穆格勒",
+      "onboard_time": 1739162842,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 743729,
@@ -593,6 +601,14 @@
       "onboard_time": 1739101342,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 709857,
+      "num": 709857,
+      "word": "DeepSeek王炸组合榜",
+      "onboard_time": 1739161824,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 705701,
@@ -1075,14 +1091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 472216,
-      "num": 249849,
-      "word": "蔡徐坤 穆格勒",
-      "onboard_time": 1739162842,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 470303,
       "num": 470303,
       "word": "林孝埈康复师场外痛哭",
@@ -1145,14 +1153,6 @@
       "onboard_time": 1739153899,
       "rank": 21,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 443798,
-      "num": 443798,
-      "word": "DeepSeek王炸组合榜",
-      "onboard_time": 1739161824,
-      "rank": 32,
-      "category": "互联网"
     },
     {
       "raw_hot": 439237,
@@ -1241,6 +1241,14 @@
       "onboard_time": 1739026343,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 386765,
+      "num": 284061,
+      "word": "林允古装一番大女主剧",
+      "onboard_time": 1739164641,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 383884,
@@ -1435,6 +1443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 326122,
+      "num": 314341,
+      "word": "姚笛官宣参加演员请就位3",
+      "onboard_time": 1739163802,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 324713,
       "num": 324713,
       "word": "日本学校寒潮天仍要求光腿穿校服",
@@ -1513,14 +1529,6 @@
       "onboard_time": 1739027902,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 314341,
-      "num": 314341,
-      "word": "姚笛官宣参加演员请就位3",
-      "onboard_time": 1739163802,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 313593,
@@ -2379,14 +2387,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 204710,
-      "num": 204710,
-      "word": "林允古装一番大女主剧",
-      "onboard_time": 1739164641,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 204693,
       "num": 252870,
       "word": "孙颖莎捧起冠军奖杯",
@@ -2409,6 +2409,14 @@
       "onboard_time": 1739093300,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203015,
+      "num": 410688,
+      "word": "SM女团出道预告照",
+      "onboard_time": 1739164341,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 202998,
@@ -2737,6 +2745,14 @@
       "onboard_time": 1739145859,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190719,
+      "num": 190719,
+      "word": "合作导演称饺子不可能穿奢品",
+      "onboard_time": 1739165361,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 190358,
@@ -3155,14 +3171,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 165733,
-      "num": 410688,
-      "word": "SM女团出道预告照",
-      "onboard_time": 1739164341,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 164533,
       "num": 164533,
       "word": "唐探1900彩蛋与现实callback",
@@ -3331,6 +3339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157621,
+      "num": 157621,
+      "word": "洒水车0℃以下洒水致路面结冰酿事故",
+      "onboard_time": 1739165001,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157206,
       "num": 157206,
       "word": "我问deepseek掌心好看吗",
@@ -3491,6 +3507,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 150276,
+      "num": 239603,
+      "word": "声生不息微博网友挚爱歌手投票",
+      "onboard_time": 1739165302,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150113,
       "num": 150113,
       "word": "江一燕浪姐6出发状态",
@@ -3507,6 +3531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147878,
+      "num": 147878,
+      "word": "当事人回应公司饮水机全是蚂蚁",
+      "onboard_time": 1739165482,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147407,
       "num": 147407,
       "word": "国产剧终于有不靠男主救的女主了",
@@ -3521,6 +3553,14 @@
       "onboard_time": 1739084540,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 146848,
+      "num": 146848,
+      "word": "五福临门一集两场婚礼",
+      "onboard_time": 1739165601,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 146436,
@@ -3705,6 +3745,14 @@
       "onboard_time": 1739156420,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138427,
+      "num": 138427,
+      "word": "林孝埈称心情一直不能平静",
+      "onboard_time": 1739165421,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 137904,
@@ -3947,6 +3995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121309,
+      "num": 324852,
+      "word": "官方回应麻药不睡泻药不泻",
+      "onboard_time": 1739165601,
+      "rank": 17,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 120928,
       "num": 120928,
       "word": "苗苗跳同款哪吒舞了",
@@ -4033,6 +4089,14 @@
       "onboard_time": 1739107162,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116113,
+      "num": 562211,
+      "word": "30多名村民骑摩托向灾区运送物资",
+      "onboard_time": 1739163802,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 115728,
@@ -4307,6 +4371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91135,
+      "num": 229849,
+      "word": "汪顺语音暖心指导小队员",
+      "onboard_time": 1739165001,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91119,
       "num": 118887,
       "word": "张兰想在风口上逐利要承担后果",
@@ -4331,6 +4403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88177,
+      "num": 244574,
+      "word": "谢娜这段时间一直陪孩子们",
+      "onboard_time": 1739165482,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87198,
       "num": 118637,
       "word": "邓为李沁 风月不相关",
@@ -4353,14 +4433,6 @@
       "onboard_time": 1739158762,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 85581,
-      "num": 562211,
-      "word": "30多名村民骑摩托向灾区运送物资",
-      "onboard_time": 1739163802,
-      "rank": 9,
-      "category": "正能量"
     },
     {
       "raw_hot": 85084,
@@ -4899,6 +4971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31143,
+      "num": 353620,
+      "word": "姜鑫杰生日当天摘银",
+      "onboard_time": 1739165242,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30418,
       "num": 312271,
       "word": "王聪战胜布拉西尔",
@@ -4937,6 +5017,14 @@
       "onboard_time": 1739092820,
       "rank": 19,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 28046,
+      "num": 237322,
+      "word": "高亭宇得到金牌后累吐了",
+      "onboard_time": 1739165840,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 26900,

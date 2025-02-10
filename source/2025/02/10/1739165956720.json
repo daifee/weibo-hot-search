@@ -1,0 +1,410 @@
+{
+  "runTime": 1739165956720,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1989781,
+        "num": 1989781,
+        "word": "上班7天喝的都是蚂蚁泡澡水",
+        "onboard_time": 1739163084,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1653157,
+        "num": 1653157,
+        "word": "肖战说的是谁",
+        "onboard_time": 1739164641,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13341,
+        "num": 1517701,
+        "word": "三面五星红旗一起升起",
+        "onboard_time": 1739106743,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1457052,
+        "num": 1457052,
+        "word": "金价",
+        "onboard_time": 1739158583,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1455837,
+        "num": 1455837,
+        "word": "哪吒2被盗摄翻译上传外网",
+        "onboard_time": 1739163322,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 715151,
+        "num": 715151,
+        "word": "特朗普说中国教育做得很好",
+        "onboard_time": 1739157440,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 907607,
+        "num": 714175,
+        "word": "哪吒2距全球影史票房榜1差一百多亿",
+        "onboard_time": 1739135411,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 709857,
+        "num": 709857,
+        "word": "DeepSeek王炸组合榜",
+        "onboard_time": 1739161824,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 692411,
+        "num": 692411,
+        "word": "合作导演称哪吒2不拖欠到点就结账",
+        "onboard_time": 1739160381,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 641662,
+        "num": 641662,
+        "word": "美国春晚",
+        "onboard_time": 1739160503,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 761893,
+        "num": 633309,
+        "word": "匪我思存 拆官配",
+        "onboard_time": 1739160023,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 491233,
+        "num": 491233,
+        "word": "张雨霏学习滑雪被勒令停止",
+        "onboard_time": 1739159121,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 405754,
+        "num": 405754,
+        "word": "美国偶遇任嘉伦",
+        "onboard_time": 1739160741,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389986,
+        "num": 389986,
+        "word": "送别国之脊梁黄旭华",
+        "onboard_time": 1739153899,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 31143,
+        "num": 353620,
+        "word": "姜鑫杰生日当天摘银",
+        "onboard_time": 1739165242,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 348251,
+        "num": 348251,
+        "word": "无量仙翁拐杖",
+        "onboard_time": 1739156479,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 346664,
+        "num": 346664,
+        "word": "网红有金生病期间意外怀孕",
+        "onboard_time": 1739148020,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 121309,
+        "num": 324852,
+        "word": "官方回应麻药不睡泻药不泻",
+        "onboard_time": 1739165601,
+        "rank": 17,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 307951,
+        "num": 307951,
+        "word": "哪吒2",
+        "onboard_time": 1739148141,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 284298,
+        "num": 284298,
+        "word": "蓝猫 砸碗",
+        "onboard_time": 1739158942,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 386765,
+        "num": 284061,
+        "word": "林允古装一番大女主剧",
+        "onboard_time": 1739164641,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326122,
+        "num": 280931,
+        "word": "姚笛官宣参加演员请就位3",
+        "onboard_time": 1739163802,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261835,
+        "num": 261835,
+        "word": "2.5亿彩票中奖者缴税5000万",
+        "onboard_time": 1739148020,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261409,
+        "num": 261409,
+        "word": "武汉地铁巨幅标语致敬黄旭华",
+        "onboard_time": 1739153899,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246664,
+        "num": 254014,
+        "word": "2025KPL春季赛定妆照",
+        "onboard_time": 1739163862,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 253509,
+        "num": 253509,
+        "word": "林俊杰公司回应恋情传闻",
+        "onboard_time": 1739162362,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249126,
+        "num": 249126,
+        "word": "台湾寒流来袭当天78人猝死",
+        "onboard_time": 1739155039,
+        "rank": 26,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 248388,
+        "num": 248388,
+        "word": "黄旭华院士遗体送别仪式",
+        "onboard_time": 1739150838,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88177,
+        "num": 244574,
+        "word": "谢娜这段时间一直陪孩子们",
+        "onboard_time": 1739165482,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150276,
+        "num": 239603,
+        "word": "声生不息微博网友挚爱歌手投票",
+        "onboard_time": 1739165302,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28046,
+        "num": 237322,
+        "word": "高亭宇得到金牌后累吐了",
+        "onboard_time": 1739165840,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91135,
+        "num": 229849,
+        "word": "汪顺语音暖心指导小队员",
+        "onboard_time": 1739165001,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 747824,
+        "num": 225499,
+        "word": "蔡徐坤 穆格勒",
+        "onboard_time": 1739162842,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203015,
+        "num": 224324,
+        "word": "SM女团出道预告照",
+        "onboard_time": 1739164341,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220387,
+        "num": 220387,
+        "word": "失恋失业的她照顾情场得意的妈",
+        "onboard_time": 1739162184,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204953,
+        "num": 204953,
+        "word": "饺子说哪吒有时也不受他控制",
+        "onboard_time": 1739163802,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195581,
+        "num": 195581,
+        "word": "妻子与人合拍短视频被丈夫砍伤",
+        "onboard_time": 1739161223,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190719,
+        "num": 190719,
+        "word": "合作导演称饺子不可能穿奢品",
+        "onboard_time": 1739165361,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167612,
+        "num": 167612,
+        "word": "美财政部被爆将1000亿发给身份不明者",
+        "onboard_time": 1739159242,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 164659,
+        "num": 164659,
+        "word": "世界第一小石头",
+        "onboard_time": 1739161521,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164638,
+        "num": 164638,
+        "word": "老人哽咽说一定不能忘记黄旭华",
+        "onboard_time": 1739129111,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116113,
+        "num": 160717,
+        "word": "30多名村民骑摩托向灾区运送物资",
+        "onboard_time": 1739163802,
+        "rank": 41,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 157621,
+        "num": 157621,
+        "word": "洒水车0℃以下洒水致路面结冰酿事故",
+        "onboard_time": 1739165001,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150537,
+        "num": 150537,
+        "word": "EXO今年将结束军白期",
+        "onboard_time": 1739161943,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147878,
+        "num": 147878,
+        "word": "当事人回应公司饮水机全是蚂蚁",
+        "onboard_time": 1739165482,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147172,
+        "num": 147172,
+        "word": "时代少年团 非洲",
+        "onboard_time": 1739148380,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146848,
+        "num": 146848,
+        "word": "五福临门一集两场婚礼",
+        "onboard_time": 1739165601,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144133,
+        "num": 144133,
+        "word": "于正说黄杨钿甜pk掉14个演员",
+        "onboard_time": 1739155819,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138427,
+        "num": 138427,
+        "word": "林孝埈称心情一直不能平静",
+        "onboard_time": 1739165421,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136673,
+        "num": 136673,
+        "word": "致敬黄老一路走好",
+        "onboard_time": 1739161403,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记擘画新时代东北全面振兴#"
+    }
+  }
+}
