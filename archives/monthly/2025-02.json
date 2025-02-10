@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739162533550,
+  "endTime": 1739164961822,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -763,6 +763,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1824696,
+      "num": 1824696,
+      "word": "上班7天喝的都是蚂蚁泡澡水",
+      "onboard_time": 1739163084,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1812066,
       "num": 1812066,
       "word": "她的遗物不多我是其中一个",
@@ -819,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1777738,
+      "num": 1777738,
+      "word": "金价",
+      "onboard_time": 1738376776,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1777079,
       "num": 505682,
       "word": "曝贾斯丁比伯健康状况堪忧",
@@ -833,14 +849,6 @@
       "onboard_time": 1738931482,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1769261,
-      "num": 1769261,
-      "word": "金价",
-      "onboard_time": 1738376776,
-      "rank": 8,
-      "category": "财经"
     },
     {
       "raw_hot": 1750228,
@@ -1636,11 +1644,19 @@
     },
     {
       "raw_hot": 1148822,
-      "num": 538389,
+      "num": 559211,
       "word": "匪我思存 拆官配",
       "onboard_time": 1739160023,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1145737,
+      "num": 1145737,
+      "word": "哪吒2被盗摄翻译上传外网",
+      "onboard_time": 1739163322,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 1134882,
@@ -2091,6 +2107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 973927,
+      "num": 692114,
+      "word": "合作导演称哪吒2不拖欠到点就结账",
+      "onboard_time": 1739160381,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 973920,
       "num": 973920,
       "word": "康熙来了",
@@ -2388,7 +2412,7 @@
     },
     {
       "raw_hot": 890707,
-      "num": 530767,
+      "num": 592283,
       "word": "张雨霏学习滑雪被勒令停止",
       "onboard_time": 1739159121,
       "rank": 11,
@@ -2417,6 +2441,14 @@
       "onboard_time": 1739059216,
       "rank": 1,
       "category": "电影"
+    },
+    {
+      "raw_hot": 872748,
+      "num": 725588,
+      "word": "美国春晚",
+      "onboard_time": 1739160503,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 872559,
@@ -2747,14 +2779,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 804758,
-      "num": 692114,
-      "word": "合作导演称哪吒2不拖欠到点就结账",
-      "onboard_time": 1739160381,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
       "raw_hot": 804661,
       "num": 450623,
       "word": "美国4天内4机坠毁",
@@ -2912,6 +2936,14 @@
       "word": "哪吒一上午连破两个票房纪录",
       "onboard_time": 1738820366,
       "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 769182,
+      "num": 554463,
+      "word": "肖战说的是谁",
+      "onboard_time": 1739164641,
+      "rank": 11,
       "category": "电影"
     },
     {
@@ -3097,14 +3129,6 @@
       "onboard_time": 1738980201,
       "rank": 11,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 725588,
-      "num": 725588,
-      "word": "美国春晚",
-      "onboard_time": 1739160503,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 725341,
@@ -3692,7 +3716,7 @@
     },
     {
       "raw_hot": 642833,
-      "num": 504155,
+      "num": 549292,
       "word": "美国偶遇任嘉伦",
       "onboard_time": 1739160741,
       "rank": 18,
@@ -5515,6 +5539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 472216,
+      "num": 249849,
+      "word": "蔡徐坤 穆格勒",
+      "onboard_time": 1739162842,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 472204,
       "num": 503291,
       "word": "日本爆发流感游客发声",
@@ -5977,6 +6009,14 @@
       "onboard_time": 1738913181,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 443798,
+      "num": 443798,
+      "word": "DeepSeek王炸组合榜",
+      "onboard_time": 1739161824,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 442134,
@@ -7771,6 +7811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 329167,
+      "num": 329167,
+      "word": "2025KPL春季赛定妆照",
+      "onboard_time": 1739163862,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 328958,
       "num": 331549,
       "word": "短道速滑",
@@ -8123,6 +8171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 314341,
+      "num": 314341,
+      "word": "姚笛官宣参加演员请就位3",
+      "onboard_time": 1739163802,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 313897,
       "num": 313751,
       "word": "乌尔善谈殷郊三头六臂形象灵感",
@@ -8273,6 +8329,14 @@
       "onboard_time": 1738917623,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 307851,
+      "num": 307851,
+      "word": "林俊杰公司回应恋情传闻",
+      "onboard_time": 1739162362,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 307676,
@@ -9451,14 +9515,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 265837,
-      "num": 265837,
-      "word": "DeepSeek王炸组合榜",
-      "onboard_time": 1739161824,
-      "rank": 32,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 265283,
       "num": 265283,
       "word": "敖丙皮套",
@@ -9689,6 +9745,14 @@
       "onboard_time": 1738932923,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 257876,
+      "num": 257876,
+      "word": "失恋失业的她照顾情场得意的妈",
+      "onboard_time": 1739162184,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 257871,
@@ -10105,6 +10169,14 @@
       "onboard_time": 1738849226,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 247876,
+      "num": 247876,
+      "word": "饺子说哪吒有时也不受他控制",
+      "onboard_time": 1739163802,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 247833,
@@ -12355,14 +12427,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 207601,
-      "num": 207601,
-      "word": "失恋失业的她照顾情场得意的妈",
-      "onboard_time": 1739162184,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 207571,
       "num": 188651,
       "word": "哪吒2特效老师开机就要2个小时",
@@ -12609,6 +12673,14 @@
       "onboard_time": 1739110102,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 204710,
+      "num": 204710,
+      "word": "林允古装一番大女主剧",
+      "onboard_time": 1739164641,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 204693,
@@ -15435,6 +15507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 176402,
+      "num": 385667,
+      "word": "蒋勤勤张婧仪新片演母女",
+      "onboard_time": 1739161282,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 176120,
       "num": 176120,
       "word": "蛇年第一场寒潮来袭",
@@ -16403,6 +16483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 165733,
+      "num": 410688,
+      "word": "SM女团出道预告照",
+      "onboard_time": 1739164341,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165489,
       "num": 165489,
       "word": "徐妈妈希望外界给予徐家人一点时间",
@@ -16665,6 +16753,14 @@
       "onboard_time": 1739069419,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162450,
+      "num": 455506,
+      "word": "哪吒的金宝贝乾坤圈值多少钱",
+      "onboard_time": 1739162842,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 162312,
@@ -19923,6 +20019,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 130181,
+      "num": 130181,
+      "word": "伯远想带INTO1外国成员上综艺",
+      "onboard_time": 1739164521,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130172,
       "num": 130172,
       "word": "被猫妈强行抱在怀里的小狗",
@@ -21745,6 +21849,14 @@
       "onboard_time": 1738596987,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111285,
+      "num": 111285,
+      "word": "藕饼玩偶服下班",
+      "onboard_time": 1739164222,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 111225,
@@ -23627,6 +23739,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 85581,
+      "num": 562211,
+      "word": "30多名村民骑摩托向灾区运送物资",
+      "onboard_time": 1739163802,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 85423,
       "num": 85423,
       "word": "詹姆斯史上最老周最佳",
@@ -24713,14 +24833,6 @@
       "onboard_time": 1738513338,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 66048,
-      "num": 385667,
-      "word": "蒋勤勤张婧仪新片演母女",
-      "onboard_time": 1739161282,
-      "rank": 20,
-      "category": "电影"
     },
     {
       "raw_hot": 65946,

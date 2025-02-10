@@ -1,0 +1,410 @@
+{
+  "runTime": 1739164961822,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1824696,
+        "num": 1824696,
+        "word": "上班7天喝的都是蚂蚁泡澡水",
+        "onboard_time": 1739163084,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1777738,
+        "num": 1777738,
+        "word": "金价",
+        "onboard_time": 1739158583,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1164182,
+        "num": 1164182,
+        "word": "哪吒2距全球影史票房榜1差一百多亿",
+        "onboard_time": 1739135411,
+        "rank": 2,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1145737,
+        "num": 1145737,
+        "word": "哪吒2被盗摄翻译上传外网",
+        "onboard_time": 1739163322,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 592283,
+        "num": 592283,
+        "word": "张雨霏学习滑雪被勒令停止",
+        "onboard_time": 1739159121,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 994713,
+        "num": 591537,
+        "word": "特朗普说中国教育做得很好",
+        "onboard_time": 1739157440,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 973927,
+        "num": 580222,
+        "word": "合作导演称哪吒2不拖欠到点就结账",
+        "onboard_time": 1739160381,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 872748,
+        "num": 574944,
+        "word": "美国春晚",
+        "onboard_time": 1739160503,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13950,
+        "num": 571214,
+        "word": "三面五星红旗一起升起",
+        "onboard_time": 1739106743,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85581,
+        "num": 562211,
+        "word": "30多名村民骑摩托向灾区运送物资",
+        "onboard_time": 1739163802,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 879918,
+        "num": 559211,
+        "word": "匪我思存 拆官配",
+        "onboard_time": 1739160023,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 769182,
+        "num": 554463,
+        "word": "肖战说的是谁",
+        "onboard_time": 1739164641,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 549292,
+        "num": 549292,
+        "word": "美国偶遇任嘉伦",
+        "onboard_time": 1739160741,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 522303,
+        "num": 522303,
+        "word": "无量仙翁拐杖",
+        "onboard_time": 1739156479,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162450,
+        "num": 455506,
+        "word": "哪吒的金宝贝乾坤圈值多少钱",
+        "onboard_time": 1739162842,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 453280,
+        "num": 453280,
+        "word": "蓝猫 砸碗",
+        "onboard_time": 1739158942,
+        "rank": 15,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 443798,
+        "num": 443798,
+        "word": "DeepSeek王炸组合榜",
+        "onboard_time": 1739161824,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 423800,
+        "num": 423800,
+        "word": "网红有金生病期间意外怀孕",
+        "onboard_time": 1739148020,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 165733,
+        "num": 410688,
+        "word": "SM女团出道预告照",
+        "onboard_time": 1739164341,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403010,
+        "num": 403010,
+        "word": "送别国之脊梁黄旭华",
+        "onboard_time": 1739153899,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 361288,
+        "num": 361288,
+        "word": "武汉地铁巨幅标语致敬黄旭华",
+        "onboard_time": 1739153899,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329167,
+        "num": 329167,
+        "word": "2025KPL春季赛定妆照",
+        "onboard_time": 1739163862,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 325262,
+        "num": 325262,
+        "word": "哪吒2",
+        "onboard_time": 1739148141,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 324284,
+        "num": 324284,
+        "word": "台湾寒流来袭当天78人猝死",
+        "onboard_time": 1739155039,
+        "rank": 23,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 314341,
+        "num": 314341,
+        "word": "姚笛官宣参加演员请就位3",
+        "onboard_time": 1739163802,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307851,
+        "num": 307851,
+        "word": "林俊杰公司回应恋情传闻",
+        "onboard_time": 1739162362,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299422,
+        "num": 299422,
+        "word": "2.5亿彩票中奖者缴税5000万",
+        "onboard_time": 1739148020,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291256,
+        "num": 291256,
+        "word": "黄旭华院士遗体送别仪式",
+        "onboard_time": 1739150838,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257876,
+        "num": 257876,
+        "word": "失恋失业的她照顾情场得意的妈",
+        "onboard_time": 1739162184,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135406,
+        "num": 250219,
+        "word": "你的时髦小姨回家过年了",
+        "onboard_time": 1739158042,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 472216,
+        "num": 249849,
+        "word": "蔡徐坤 穆格勒",
+        "onboard_time": 1739162842,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247876,
+        "num": 247876,
+        "word": "饺子说哪吒有时也不受他控制",
+        "onboard_time": 1739163802,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209838,
+        "num": 209838,
+        "word": "美财政部被爆将1000亿发给身份不明者",
+        "onboard_time": 1739159242,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 206533,
+        "num": 206533,
+        "word": "妻子与人合拍短视频被丈夫砍伤",
+        "onboard_time": 1739161223,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204710,
+        "num": 204710,
+        "word": "林允古装一番大女主剧",
+        "onboard_time": 1739164641,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186369,
+        "num": 186369,
+        "word": "世界第一小石头",
+        "onboard_time": 1739161521,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183051,
+        "num": 183051,
+        "word": "于正说黄杨钿甜pk掉14个演员",
+        "onboard_time": 1739155819,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181293,
+        "num": 181293,
+        "word": "EXO今年将结束军白期",
+        "onboard_time": 1739161943,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176402,
+        "num": 176402,
+        "word": "蒋勤勤张婧仪新片演母女",
+        "onboard_time": 1739161282,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168497,
+        "num": 168497,
+        "word": "掌心 武则天",
+        "onboard_time": 1739157802,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165525,
+        "num": 165525,
+        "word": "时代少年团 非洲",
+        "onboard_time": 1739148380,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157817,
+        "num": 157817,
+        "word": "致敬黄老一路走好",
+        "onboard_time": 1739161403,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152940,
+        "num": 152940,
+        "word": "老人哽咽说一定不能忘记黄旭华",
+        "onboard_time": 1739129111,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143068,
+        "num": 143068,
+        "word": "肖战经历万千之后你还是你就好",
+        "onboard_time": 1739160862,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130181,
+        "num": 130181,
+        "word": "伯远想带INTO1外国成员上综艺",
+        "onboard_time": 1739164521,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124606,
+        "num": 124606,
+        "word": "48岁男子离家工作抱着妻子嗷嗷哭",
+        "onboard_time": 1739156841,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122849,
+        "num": 122849,
+        "word": "打工人相亲没成的姻缘都成了人脉",
+        "onboard_time": 1739157741,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118937,
+        "num": 118937,
+        "word": "首尔拟奖励结婚者100万韩元",
+        "onboard_time": 1739158640,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 113912,
+        "num": 113912,
+        "word": "未定事件簿男菩萨",
+        "onboard_time": 1739162423,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111285,
+        "num": 111285,
+        "word": "藕饼玩偶服下班",
+        "onboard_time": 1739164222,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记擘画新时代东北全面振兴#"
+    }
+  }
+}
