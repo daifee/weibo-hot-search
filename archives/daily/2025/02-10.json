@@ -1,6 +1,6 @@
 {
   "startTime": 1739118284788,
-  "endTime": 1739179501554,
+  "endTime": 1739180309864,
   "band_list": [
     {
       "raw_hot": 2863170,
@@ -25,6 +25,14 @@
       "onboard_time": 1739163084,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1972417,
+      "num": 500125,
+      "word": "张雅钦秒删",
+      "onboard_time": 1739178561,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1968302,
@@ -81,14 +89,6 @@
       "onboard_time": 1739163322,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1427802,
-      "num": 500125,
-      "word": "张雅钦秒删",
-      "onboard_time": 1739178561,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1278985,
@@ -161,6 +161,14 @@
       "onboard_time": 1739160381,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 937327,
+      "num": 937327,
+      "word": "DeepSeek",
+      "onboard_time": 1739177721,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 921763,
@@ -249,6 +257,14 @@
       "onboard_time": 1739155039,
       "rank": 8,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 800286,
+      "num": 800286,
+      "word": "她是武则天不是武媚娘",
+      "onboard_time": 1739178680,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 779132,
@@ -347,6 +363,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 656914,
+      "num": 656914,
+      "word": "票房TOP30唯一非好莱坞影片",
+      "onboard_time": 1739176041,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 651461,
       "num": 651461,
       "word": "特朗普说吞并加拿大我是认真的",
@@ -371,14 +395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 631990,
-      "num": 631990,
-      "word": "DeepSeek",
-      "onboard_time": 1739177721,
-      "rank": 4,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 608259,
       "num": 608259,
       "word": "樊振东就是哪吒吧",
@@ -387,20 +403,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 591918,
+      "raw_hot": 602505,
       "num": 544784,
       "word": "她以为在牢里就算赎罪",
       "onboard_time": 1739175021,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 585598,
-      "num": 530817,
-      "word": "票房TOP30唯一非好莱坞影片",
-      "onboard_time": 1739176041,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 563789,
@@ -475,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 486432,
+      "num": 697261,
+      "word": "丽江机场的道歉为何难平息质疑",
+      "onboard_time": 1739176460,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 473759,
       "num": 473759,
       "word": "难哄",
@@ -523,6 +539,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 446451,
+      "num": 398797,
+      "word": "赵露思自制冰糖葫芦小零食",
+      "onboard_time": 1739178020,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 439237,
       "num": 439237,
       "word": "金钟仁退伍",
@@ -539,6 +563,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 430084,
+      "num": 400292,
+      "word": "哪吒2破84亿元",
+      "onboard_time": 1739177479,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 427317,
       "num": 427317,
       "word": "张国伟复出首站夺冠",
@@ -553,14 +585,6 @@
       "onboard_time": 1739175740,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 400292,
-      "num": 400292,
-      "word": "哪吒2破84亿元",
-      "onboard_time": 1739177479,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 399353,
@@ -584,14 +608,6 @@
       "word": "林允古装一番大女主剧",
       "onboard_time": 1739164641,
       "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 372684,
-      "num": 372684,
-      "word": "她是武则天不是武媚娘",
-      "onboard_time": 1739178680,
-      "rank": 15,
       "category": "剧集"
     },
     {
@@ -747,14 +763,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 296127,
-      "num": 296127,
-      "word": "赵露思自制冰糖葫芦小零食",
-      "onboard_time": 1739178020,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 291682,
       "num": 291682,
       "word": "赵丽颖第一次以短发出镜广告大片",
@@ -771,12 +779,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 285730,
+      "num": 224230,
+      "word": "虞书欣水果摊少女氛围感",
+      "onboard_time": 1739179221,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284313,
       "num": 284313,
       "word": "林诗栋新世一",
       "onboard_time": 1739104223,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 282404,
+      "num": 500549,
+      "word": "00后小伙苦练电焊成大师傅月入1万6",
+      "onboard_time": 1739178860,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 281228,
@@ -923,6 +947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 240102,
+      "num": 227785,
+      "word": "唐探1900是历史书上的短短几行",
+      "onboard_time": 1739174902,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 233652,
       "num": 233652,
       "word": "剑网3",
@@ -961,14 +993,6 @@
       "onboard_time": 1739152100,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 227785,
-      "num": 227785,
-      "word": "唐探1900是历史书上的短短几行",
-      "onboard_time": 1739174902,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 227133,
@@ -1011,6 +1035,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 220705,
+      "num": 226798,
+      "word": "饺子身材依旧好",
+      "onboard_time": 1739178979,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 218871,
       "num": 218871,
       "word": "杨洋展昭红衣路透",
@@ -1049,14 +1081,6 @@
       "onboard_time": 1739174300,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 214288,
-      "num": 290069,
-      "word": "丽江机场的道歉为何难平息质疑",
-      "onboard_time": 1739176460,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 213702,
@@ -1451,6 +1475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172526,
+      "num": 172526,
+      "word": "五福临门",
+      "onboard_time": 1739180001,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172502,
       "num": 234332,
       "word": "超级碗中场秀",
@@ -1547,6 +1579,14 @@
       "category": "国际时政,体育"
     },
     {
+      "raw_hot": 159332,
+      "num": 159332,
+      "word": "世界之外",
+      "onboard_time": 1739180181,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 159166,
       "num": 338932,
       "word": "梅西现身超级碗",
@@ -1577,22 +1617,6 @@
       "onboard_time": 1739172321,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 155888,
-      "num": 226798,
-      "word": "饺子身材依旧好",
-      "onboard_time": 1739178979,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 155398,
-      "num": 500549,
-      "word": "00后小伙苦练电焊成大师傅月入1万6",
-      "onboard_time": 1739178860,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 154301,
@@ -1681,14 +1705,6 @@
       "onboard_time": 1739165601,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 146061,
-      "num": 146061,
-      "word": "虞书欣水果摊少女氛围感",
-      "onboard_time": 1739179221,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 145995,
@@ -1835,6 +1851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127698,
+      "num": 127698,
+      "word": "小谢称法院判前夫母亲返还91万",
+      "onboard_time": 1739177961,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127332,
       "num": 127332,
       "word": "向太没有办婚礼",
@@ -1883,6 +1907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 120007,
+      "num": 120007,
+      "word": "云合",
+      "onboard_time": 1739179821,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119812,
       "num": 169902,
       "word": "程潇胶片",
@@ -1915,20 +1947,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 116977,
-      "num": 116977,
-      "word": "小谢称法院判前夫母亲返还91万",
-      "onboard_time": 1739177961,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 116113,
       "num": 562211,
       "word": "30多名村民骑摩托向灾区运送物资",
       "onboard_time": 1739163802,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 111962,
+      "num": 246698,
+      "word": "林孝埈回应全场高喊加油",
+      "onboard_time": 1739178561,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 111285,
@@ -2155,6 +2187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67025,
+      "num": 174447,
+      "word": "特朗普曾称呼特鲁多加拿大州州长",
+      "onboard_time": 1739180120,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 66982,
       "num": 381906,
       "word": "老师为了让学生做试卷有多拼",
@@ -2211,14 +2251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 58254,
-      "num": 246698,
-      "word": "林孝埈回应全场高喊加油",
-      "onboard_time": 1739178561,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 57913,
       "num": 73184,
       "word": "仙台有树暗恋对象问我是不是她爹",
@@ -2236,11 +2268,19 @@
     },
     {
       "raw_hot": 52595,
-      "num": 835603,
+      "num": 982389,
       "word": "中国队已集齐2个金牌九宫格",
       "onboard_time": 1739177119,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52047,
+      "num": 203836,
+      "word": "6中国人在菲被绑案最后2人遗骸找到",
+      "onboard_time": 1739180001,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 51449,
@@ -2403,6 +2443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 24158,
+      "num": 136683,
+      "word": "中国队高质量三跳",
+      "onboard_time": 1739179522,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23340,
       "num": 381450,
       "word": "陈冲用写作抵御失去",
@@ -2425,6 +2473,14 @@
       "onboard_time": 1739124314,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22182,
+      "num": 221802,
+      "word": "张雨霏说低估了尔滨的冷",
+      "onboard_time": 1739179641,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 21886,
@@ -2556,6 +2612,9 @@
     },
     {
       "word": "#习近平强调要紧紧抓住这个机遇#"
+    },
+    {
+      "word": "#习近平总书记这样部署东北全面振兴#"
     }
   ]
 }

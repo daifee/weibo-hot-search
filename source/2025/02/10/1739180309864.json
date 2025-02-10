@@ -1,0 +1,410 @@
+{
+  "runTime": 1739180309864,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2818852,
+        "num": 2818852,
+        "word": "曝哪吒2被偷票房损失几千万",
+        "onboard_time": 1739177359,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1056219,
+        "num": 1056219,
+        "word": "金价",
+        "onboard_time": 1739158583,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 48196,
+        "num": 982389,
+        "word": "中国队已集齐2个金牌九宫格",
+        "onboard_time": 1739177119,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 937327,
+        "num": 937327,
+        "word": "DeepSeek",
+        "onboard_time": 1739177721,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 800286,
+        "num": 800286,
+        "word": "她是武则天不是武媚娘",
+        "onboard_time": 1739178680,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 486432,
+        "num": 697261,
+        "word": "丽江机场的道歉为何难平息质疑",
+        "onboard_time": 1739176460,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 656914,
+        "num": 656914,
+        "word": "票房TOP30唯一非好莱坞影片",
+        "onboard_time": 1739176041,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 608937,
+        "num": 608937,
+        "word": "哪吒2全球票房TOP30",
+        "onboard_time": 1739174902,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 432110,
+        "num": 432110,
+        "word": "特朗普说吞并加拿大我是认真的",
+        "onboard_time": 1739173220,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 423382,
+        "num": 423382,
+        "word": "医院回应放射科更衣室内有摄像头",
+        "onboard_time": 1739174721,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1972417,
+        "num": 420500,
+        "word": "张雅钦秒删",
+        "onboard_time": 1739178561,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 602505,
+        "num": 411588,
+        "word": "她以为在牢里就算赎罪",
+        "onboard_time": 1739175021,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 448703,
+        "num": 407070,
+        "word": "肖战说的是谁",
+        "onboard_time": 1739164641,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 446451,
+        "num": 398797,
+        "word": "赵露思自制冰糖葫芦小零食",
+        "onboard_time": 1739178020,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395812,
+        "num": 395812,
+        "word": "买金条应该去银行还是金店",
+        "onboard_time": 1739172801,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 430084,
+        "num": 388247,
+        "word": "哪吒2破84亿元",
+        "onboard_time": 1739177479,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 378539,
+        "num": 378539,
+        "word": "Jennie时隔五年发微博",
+        "onboard_time": 1739171180,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282404,
+        "num": 282404,
+        "word": "00后小伙苦练电焊成大师傅月入1万6",
+        "onboard_time": 1739178860,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250662,
+        "num": 250662,
+        "word": "4000至6000元手机销售量爆单",
+        "onboard_time": 1739166441,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 226761,
+        "num": 226761,
+        "word": "男子因新生儿子不跟自己姓选择分居",
+        "onboard_time": 1739167821,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 519990,
+        "num": 226689,
+        "word": "农村妹日入800元的一天",
+        "onboard_time": 1739176041,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 293640,
+        "num": 225208,
+        "word": "哪吒2被盗摄翻译上传外网",
+        "onboard_time": 1739163322,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 285730,
+        "num": 224230,
+        "word": "虞书欣水果摊少女氛围感",
+        "onboard_time": 1739179221,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285294,
+        "num": 223352,
+        "word": "没感冒却一直流鼻涕竟是脑脊液鼻漏",
+        "onboard_time": 1739175980,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 278366,
+        "num": 222797,
+        "word": "11岁小孩姐造假人逃避背书",
+        "onboard_time": 1739172921,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22182,
+        "num": 221802,
+        "word": "张雨霏说低估了尔滨的冷",
+        "onboard_time": 1739179641,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240102,
+        "num": 221309,
+        "word": "唐探1900是历史书上的短短几行",
+        "onboard_time": 1739174902,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 220705,
+        "num": 220705,
+        "word": "饺子身材依旧好",
+        "onboard_time": 1739178979,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204968,
+        "num": 204968,
+        "word": "哪吒2",
+        "onboard_time": 1739148141,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 52047,
+        "num": 203836,
+        "word": "6中国人在菲被绑案最后2人遗骸找到",
+        "onboard_time": 1739180001,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 203333,
+        "num": 203333,
+        "word": "韩庚晒女儿给他买的第一个生日蛋糕",
+        "onboard_time": 1739169200,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192455,
+        "num": 192455,
+        "word": "卡琳娜 浪姐6",
+        "onboard_time": 1739169860,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188417,
+        "num": 188417,
+        "word": "喜茶将暂停加盟",
+        "onboard_time": 1739172080,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 181245,
+        "num": 181245,
+        "word": "上班一周被确诊为卡皮巴拉",
+        "onboard_time": 1739171840,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 67025,
+        "num": 174447,
+        "word": "特朗普曾称呼特鲁多加拿大州州长",
+        "onboard_time": 1739180120,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 172526,
+        "num": 172526,
+        "word": "五福临门",
+        "onboard_time": 1739180001,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171553,
+        "num": 171553,
+        "word": "送别国之脊梁黄旭华",
+        "onboard_time": 1739153899,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159332,
+        "num": 159332,
+        "word": "世界之外",
+        "onboard_time": 1739180181,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156571,
+        "num": 156571,
+        "word": "官方回应不提倡插铁丝免费看电视",
+        "onboard_time": 1739174539,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152928,
+        "num": 152928,
+        "word": "泽连斯基开出与普京和谈条件",
+        "onboard_time": 1739173700,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138028,
+        "num": 138028,
+        "word": "殡仪馆众人齐声大喊黄老一路走好",
+        "onboard_time": 1739178860,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24158,
+        "num": 136683,
+        "word": "中国队高质量三跳",
+        "onboard_time": 1739179522,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135412,
+        "num": 135412,
+        "word": "哪吒2距全球影史票房榜1差一百多亿",
+        "onboard_time": 1739135411,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127698,
+        "num": 127698,
+        "word": "小谢称法院判前夫母亲返还91万",
+        "onboard_time": 1739177961,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125655,
+        "num": 125655,
+        "word": "特朗普说中国教育做得很好",
+        "onboard_time": 1739157440,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120007,
+        "num": 120007,
+        "word": "云合",
+        "onboard_time": 1739179821,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119667,
+        "num": 119667,
+        "word": "艾米买股粉",
+        "onboard_time": 1739176641,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117296,
+        "num": 117296,
+        "word": "仅需百元即可购买必吃榜假冒牌匾",
+        "onboard_time": 1739177540,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111962,
+        "num": 111962,
+        "word": "林孝埈回应全场高喊加油",
+        "onboard_time": 1739178561,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110192,
+        "num": 110192,
+        "word": "程潇胶片",
+        "onboard_time": 1739176881,
+        "rank": 49,
+        "category": "艺人,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记这样部署东北全面振兴#"
+    }
+  }
+}
