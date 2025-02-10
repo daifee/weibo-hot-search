@@ -1,7 +1,15 @@
 {
   "startTime": 1739118284788,
-  "endTime": 1739176937723,
+  "endTime": 1739179501554,
   "band_list": [
+    {
+      "raw_hot": 2863170,
+      "num": 2863170,
+      "word": "曝哪吒2被偷票房损失几千万",
+      "onboard_time": 1739177359,
+      "rank": 0,
+      "category": "电影"
+    },
     {
       "raw_hot": 2053631,
       "num": 2053631,
@@ -75,6 +83,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1427802,
+      "num": 500125,
+      "word": "张雅钦秒删",
+      "onboard_time": 1739178561,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1278985,
       "num": 1278985,
       "word": "丽江机场被曝撕头等舱乘客登机牌",
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 978915,
-      "num": 440222,
+      "num": 447625,
       "word": "Jennie时隔五年发微博",
       "onboard_time": 1739171180,
       "rank": 12,
@@ -243,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 763237,
+      "num": 763237,
+      "word": "哪吒2全球票房TOP30",
+      "onboard_time": 1739174902,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 752933,
       "num": 671748,
       "word": "哪吒2破83亿",
@@ -257,14 +281,6 @@
       "onboard_time": 1739162842,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 747460,
-      "num": 747460,
-      "word": "哪吒2全球票房TOP30",
-      "onboard_time": 1739174902,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 742324,
@@ -355,12 +371,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 631990,
+      "num": 631990,
+      "word": "DeepSeek",
+      "onboard_time": 1739177721,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 608259,
       "num": 608259,
       "word": "樊振东就是哪吒吧",
       "onboard_time": 1739171900,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 591918,
+      "num": 544784,
+      "word": "她以为在牢里就算赎罪",
+      "onboard_time": 1739175021,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 585598,
+      "num": 530817,
+      "word": "票房TOP30唯一非好莱坞影片",
+      "onboard_time": 1739176041,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 563789,
@@ -515,6 +555,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 400292,
+      "num": 400292,
+      "word": "哪吒2破84亿元",
+      "onboard_time": 1739177479,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 399353,
       "num": 399353,
       "word": "官方回应麻药不睡泻药不泻",
@@ -536,6 +584,14 @@
       "word": "林允古装一番大女主剧",
       "onboard_time": 1739164641,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 372684,
+      "num": 372684,
+      "word": "她是武则天不是武媚娘",
+      "onboard_time": 1739178680,
+      "rank": 15,
       "category": "剧集"
     },
     {
@@ -627,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 320385,
+      "num": 303085,
+      "word": "没感冒却一直流鼻涕竟是脑脊液鼻漏",
+      "onboard_time": 1739175980,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 320316,
       "num": 214446,
       "word": "木青",
@@ -641,14 +705,6 @@
       "onboard_time": 1739149281,
       "rank": 19,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 312681,
-      "num": 312681,
-      "word": "她以为在牢里就算赎罪",
-      "onboard_time": 1739175021,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 312089,
@@ -683,20 +739,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 303085,
-      "num": 303085,
-      "word": "没感冒却一直流鼻涕竟是脑脊液鼻漏",
-      "onboard_time": 1739175980,
-      "rank": 25,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 302197,
       "num": 216626,
       "word": "石矶娘娘的配音竟是公司行政",
       "onboard_time": 1739102843,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 296127,
+      "num": 296127,
+      "word": "赵露思自制冰糖葫芦小零食",
+      "onboard_time": 1739178020,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 291682,
@@ -907,6 +963,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 227785,
+      "num": 227785,
+      "word": "唐探1900是历史书上的短短几行",
+      "onboard_time": 1739174902,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 227133,
       "num": 227133,
       "word": "妻子与人合拍短视频被丈夫砍伤",
@@ -987,12 +1051,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 213806,
-      "num": 463283,
-      "word": "票房TOP30唯一非好莱坞影片",
-      "onboard_time": 1739176041,
-      "rank": 38,
-      "category": "电影"
+      "raw_hot": 214288,
+      "num": 290069,
+      "word": "丽江机场的道歉为何难平息质疑",
+      "onboard_time": 1739176460,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 213702,
@@ -1089,6 +1153,14 @@
       "onboard_time": 1739157260,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200532,
+      "num": 230245,
+      "word": "泽连斯基开出与普京和谈条件",
+      "onboard_time": 1739173700,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 198337,
@@ -1211,6 +1283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186602,
+      "num": 186602,
+      "word": "丁禹兮南部档案腹黑病娇味",
+      "onboard_time": 1739178380,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186429,
       "num": 385287,
       "word": "刷医保买华为手表需当场激活",
@@ -1331,6 +1411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174682,
+      "num": 174682,
+      "word": "殡仪馆众人齐声大喊黄老一路走好",
+      "onboard_time": 1739178860,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173816,
       "num": 153413,
       "word": "做完近视手术第二天的真实感受",
@@ -1377,6 +1465,14 @@
       "onboard_time": 1739165840,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168141,
+      "num": 307951,
+      "word": "送养15年后生父母要抚养权终审驳回",
+      "onboard_time": 1739176220,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164651,
@@ -1427,6 +1523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161512,
+      "num": 161512,
+      "word": "原来男女生在送礼上存在思维差异",
+      "onboard_time": 1739179100,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161283,
       "num": 161283,
       "word": "未定事件簿男菩萨",
@@ -1441,14 +1545,6 @@
       "onboard_time": 1739150300,
       "rank": 36,
       "category": "国际时政,体育"
-    },
-    {
-      "raw_hot": 159776,
-      "num": 159776,
-      "word": "唐探1900是历史书上的短短几行",
-      "onboard_time": 1739174902,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 159166,
@@ -1483,12 +1579,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156214,
-      "num": 156214,
-      "word": "泽连斯基开出与普京和谈条件",
-      "onboard_time": 1739173700,
-      "rank": 43,
-      "category": "国际时政"
+      "raw_hot": 155888,
+      "num": 226798,
+      "word": "饺子身材依旧好",
+      "onboard_time": 1739178979,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 155398,
+      "num": 500549,
+      "word": "00后小伙苦练电焊成大师傅月入1万6",
+      "onboard_time": 1739178860,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154301,
@@ -1577,6 +1681,14 @@
       "onboard_time": 1739165601,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146061,
+      "num": 146061,
+      "word": "虞书欣水果摊少女氛围感",
+      "onboard_time": 1739179221,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 145995,
@@ -1699,6 +1811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130513,
+      "num": 227068,
+      "word": "仅需百元即可购买必吃榜假冒牌匾",
+      "onboard_time": 1739177540,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130191,
       "num": 130191,
       "word": "哪吒2感谢163000000位观众",
@@ -1731,6 +1851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 124120,
+      "num": 124120,
+      "word": "艾米买股粉",
+      "onboard_time": 1739176641,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123444,
       "num": 123444,
       "word": "外国网友要把奥斯卡颁给易烊千玺",
@@ -1755,6 +1883,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 119812,
+      "num": 169902,
+      "word": "程潇胶片",
+      "onboard_time": 1739176881,
+      "rank": 36,
+      "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 118676,
+      "num": 118676,
+      "word": "杨滨瑜3000米金牌",
+      "onboard_time": 1739179401,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117294,
       "num": 117294,
       "word": "BamBam是胡烨韬铁血单推",
@@ -1769,6 +1913,14 @@
       "onboard_time": 1739108121,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116977,
+      "num": 116977,
+      "word": "小谢称法院判前夫母亲返还91万",
+      "onboard_time": 1739177961,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116113,
@@ -1905,6 +2057,14 @@
       "onboard_time": 1739115860,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82856,
+      "num": 267586,
+      "word": "鸣沙踏歌",
+      "onboard_time": 1739178320,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 79323,
@@ -2051,6 +2211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58254,
+      "num": 246698,
+      "word": "林孝埈回应全场高喊加油",
+      "onboard_time": 1739178561,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57913,
       "num": 73184,
       "word": "仙台有树暗恋对象问我是不是她爹",
@@ -2065,6 +2233,14 @@
       "onboard_time": 1739175260,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 52595,
+      "num": 835603,
+      "word": "中国队已集齐2个金牌九宫格",
+      "onboard_time": 1739177119,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 51449,
@@ -2176,22 +2352,6 @@
       "word": "黄旭华的深潜人生",
       "onboard_time": 1739158521,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33821,
-      "num": 169902,
-      "word": "程潇胶片",
-      "onboard_time": 1739176881,
-      "rank": 36,
-      "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 33568,
-      "num": 307951,
-      "word": "送养15年后生父母要抚养权终审驳回",
-      "onboard_time": 1739176220,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2393,6 +2553,9 @@
     },
     {
       "word": "#习近平东北之行的几个关键词#"
+    },
+    {
+      "word": "#习近平强调要紧紧抓住这个机遇#"
     }
   ]
 }

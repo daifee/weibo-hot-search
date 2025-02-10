@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1739176937723,
+  "endTime": 1739179501554,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1203,6 +1203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2863170,
+      "num": 2863170,
+      "word": "曝哪吒2被偷票房损失几千万",
+      "onboard_time": 1739177359,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 2860425,
       "num": 934816,
       "word": "大S朋友圈签名",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736343143,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 2016672,
-      "num": 2016672,
-      "word": "赵露思回应医学奇迹",
-      "onboard_time": 1737804021,
-      "rank": 0,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
