@@ -1,0 +1,410 @@
+{
+  "runTime": 1739152775560,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1839097,
+        "num": 1839097,
+        "word": "哪吒2距全球影史票房榜1差一百多亿",
+        "onboard_time": 1739135411,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 722948,
+        "num": 722948,
+        "word": "丽江机场被曝撕头等舱乘客登机牌",
+        "onboard_time": 1739113283,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31495,
+        "num": 677426,
+        "word": "三面五星红旗一起升起",
+        "onboard_time": 1739106743,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 660338,
+        "num": 660338,
+        "word": "外媒预测哪吒2票房",
+        "onboard_time": 1739148799,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 470059,
+        "num": 470059,
+        "word": "黄旭华吊唁现场有束花的落款令人泪目",
+        "onboard_time": 1739150958,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 465791,
+        "num": 465791,
+        "word": "为什么不建议躺着刷手机",
+        "onboard_time": 1739109801,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 461331,
+        "num": 461331,
+        "word": "黄旭华院士遗体送别仪式",
+        "onboard_time": 1739150838,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 457918,
+        "num": 457918,
+        "word": "2024年全国结婚登记610.6万对",
+        "onboard_time": 1739108782,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 447880,
+        "num": 447880,
+        "word": "老人哽咽说一定不能忘记黄旭华",
+        "onboard_time": 1739129111,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 431402,
+        "num": 431402,
+        "word": "美国观众谈看完哪吒2感受",
+        "onboard_time": 1739114782,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1396156,
+        "num": 430746,
+        "word": "网红有金生病期间意外怀孕",
+        "onboard_time": 1739148020,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 382510,
+        "num": 382510,
+        "word": "超级碗",
+        "onboard_time": 1739144716,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 373677,
+        "num": 373677,
+        "word": "林孝埈因伤将缺席世巡赛第六站",
+        "onboard_time": 1739147901,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 370234,
+        "num": 370234,
+        "word": "王濛发视频怒斥韩国选手推搡林孝埈",
+        "onboard_time": 1739117958,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318692,
+        "num": 318692,
+        "word": "霉霉到超级碗现场为男友助威",
+        "onboard_time": 1739149281,
+        "rank": 14,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 318445,
+        "num": 318445,
+        "word": "哪吒2",
+        "onboard_time": 1739148141,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 307920,
+        "num": 307920,
+        "word": "7小孩玩火引发森林火情家长赔145万",
+        "onboard_time": 1739138651,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307545,
+        "num": 307545,
+        "word": "哪吒2的这棵树含人量太高了",
+        "onboard_time": 1739113222,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 305256,
+        "num": 305256,
+        "word": "吴磊赵露思 三搭",
+        "onboard_time": 1739110345,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49343,
+        "num": 274380,
+        "word": "和李现一起为中国冰雪健儿打call",
+        "onboard_time": 1739151918,
+        "rank": 19,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 214397,
+        "num": 272788,
+        "word": "旧友突然上门拜年实则想套取涉密资料",
+        "onboard_time": 1739147901,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 651585,
+        "num": 272718,
+        "word": "2.5亿彩票中奖者缴税5000万",
+        "onboard_time": 1739148020,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272058,
+        "num": 272058,
+        "word": "时代少年团 非洲",
+        "onboard_time": 1739148380,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260487,
+        "num": 260487,
+        "word": "再送黄老一程",
+        "onboard_time": 1739148621,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 101145,
+        "num": 260101,
+        "word": "林孝埈说遗憾过后冲刺米兰",
+        "onboard_time": 1739149461,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259956,
+        "num": 259956,
+        "word": "真的不要把肉泡水里解冻了",
+        "onboard_time": 1739111303,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 236870,
+        "num": 236870,
+        "word": "男子用40万转账表情包套走8000元",
+        "onboard_time": 1739103146,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204896,
+        "num": 204896,
+        "word": "朱婷意大利杯夺冠",
+        "onboard_time": 1739151680,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203957,
+        "num": 203957,
+        "word": "把徐明浩困成微博之夜的马丽了",
+        "onboard_time": 1739147480,
+        "rank": 28,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 200016,
+        "num": 200016,
+        "word": "杨洋展昭红衣路透",
+        "onboard_time": 1739149820,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181868,
+        "num": 181868,
+        "word": "全球影史票房榜",
+        "onboard_time": 1739150239,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180225,
+        "num": 180225,
+        "word": "丽江机场道歉",
+        "onboard_time": 1739117659,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179988,
+        "num": 179988,
+        "word": "CZ680航班故障取消致百余人延误",
+        "onboard_time": 1739150779,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176130,
+        "num": 176130,
+        "word": "特朗普宣布2月9日为第一个美国湾日",
+        "onboard_time": 1739152100,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 172502,
+        "num": 172502,
+        "word": "超级碗中场秀",
+        "onboard_time": 1739150420,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168324,
+        "num": 168324,
+        "word": "哪吒2破80亿海报",
+        "onboard_time": 1739151620,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164838,
+        "num": 164838,
+        "word": "木青燃气灶分手",
+        "onboard_time": 1739114182,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 163450,
+        "num": 163450,
+        "word": "黄旭华灵堂内这些花圈落款没有姓名",
+        "onboard_time": 1739150300,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159166,
+        "num": 159166,
+        "word": "梅西现身超级碗",
+        "onboard_time": 1739150720,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158856,
+        "num": 158856,
+        "word": "王楚钦恭喜蒯曼",
+        "onboard_time": 1739145859,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155899,
+        "num": 155899,
+        "word": "金钟仁退伍",
+        "onboard_time": 1739117659,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148155,
+        "num": 148155,
+        "word": "王者荣耀小蛇糕",
+        "onboard_time": 1739148501,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139098,
+        "num": 139098,
+        "word": "马斯克谈DeepSeek",
+        "onboard_time": 1739108542,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 135179,
+        "num": 135179,
+        "word": "封神2否认找外包公司4500元制作殷郊法相特效",
+        "onboard_time": 1739119756,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130886,
+        "num": 130886,
+        "word": "檀健次跳舞硬控朱嘉琦",
+        "onboard_time": 1739151437,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127958,
+        "num": 127958,
+        "word": "赵露思穿搭被清华大学老师上课介绍",
+        "onboard_time": 1739100320,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127332,
+        "num": 127332,
+        "word": "向太没有办婚礼",
+        "onboard_time": 1739152219,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127167,
+        "num": 127167,
+        "word": "浪姐6",
+        "onboard_time": 1739149880,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126731,
+        "num": 126731,
+        "word": "江一燕浪姐6出发状态",
+        "onboard_time": 1739147180,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117401,
+        "num": 117401,
+        "word": "特朗普现身超级碗",
+        "onboard_time": 1739150300,
+        "rank": 49,
+        "category": "国际时政,体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记擘画新时代东北全面振兴#"
+    }
+  }
+}

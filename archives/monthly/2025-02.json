@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739151792883,
+  "endTime": 1739152775560,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -3403,6 +3403,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 660338,
+      "num": 660338,
+      "word": "外媒预测哪吒2票房",
+      "onboard_time": 1739148799,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 659300,
       "num": 674020,
       "word": "黄旭华生前深情告白祖国",
@@ -3872,14 +3880,6 @@
       "word": "中国影史总榜哪吒2居8望7",
       "onboard_time": 1738651282,
       "rank": 47,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 599543,
-      "num": 599543,
-      "word": "外媒预测哪吒2票房",
-      "onboard_time": 1739148799,
-      "rank": 3,
       "category": "电影"
     },
     {
@@ -5451,6 +5451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 470059,
+      "num": 470059,
+      "word": "黄旭华吊唁现场有束花的落款令人泪目",
+      "onboard_time": 1739150958,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 469613,
       "num": 469613,
       "word": "孙颖莎4比3王艺迪",
@@ -5545,6 +5553,14 @@
       "onboard_time": 1739019863,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 461331,
+      "num": 461331,
+      "word": "黄旭华院士遗体送别仪式",
+      "onboard_time": 1739150838,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 461178,
@@ -5739,6 +5755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 447880,
+      "num": 447880,
+      "word": "老人哽咽说一定不能忘记黄旭华",
+      "onboard_time": 1739129111,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 447877,
       "num": 447877,
       "word": "流星花园",
@@ -5777,14 +5801,6 @@
       "onboard_time": 1738500858,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 445578,
-      "num": 445578,
-      "word": "老人哽咽说一定不能忘记黄旭华",
-      "onboard_time": 1739129111,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 445497,
@@ -6819,6 +6835,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 370234,
+      "num": 370234,
+      "word": "王濛发视频怒斥韩国选手推搡林孝埈",
+      "onboard_time": 1739117958,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 370142,
       "num": 370142,
       "word": "银赫发文取消隐退",
@@ -7267,14 +7291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 345399,
-      "num": 448073,
-      "word": "黄旭华院士遗体送别仪式",
-      "onboard_time": 1739150838,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 344784,
       "num": 344784,
       "word": "今年年夜饭预制菜在一片骂声中卖爆",
@@ -7425,14 +7441,6 @@
       "onboard_time": 1739148621,
       "rank": 15,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 337086,
-      "num": 337086,
-      "word": "王濛发视频怒斥韩国选手推搡林孝埈",
-      "onboard_time": 1739117958,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 336122,
@@ -7841,6 +7849,14 @@
       "onboard_time": 1739029283,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 318692,
+      "num": 318692,
+      "word": "霉霉到超级碗现场为男友助威",
+      "onboard_time": 1739149281,
+      "rank": 19,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 318463,
@@ -8947,14 +8963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 277339,
-      "num": 310728,
-      "word": "霉霉到超级碗现场为男友助威",
-      "onboard_time": 1739149281,
-      "rank": 19,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 277214,
       "num": 154643,
       "word": "王耀庆被世界冠军公主抱了",
@@ -9073,6 +9081,14 @@
       "onboard_time": 1738901965,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 272058,
+      "num": 272058,
+      "word": "时代少年团 非洲",
+      "onboard_time": 1739148380,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 271707,
@@ -9779,14 +9795,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 249958,
-      "num": 249958,
-      "word": "时代少年团 非洲",
-      "onboard_time": 1739148380,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 249800,
       "num": 249800,
       "word": "过年偶遇丁程鑫打麻将",
@@ -10393,14 +10401,6 @@
       "onboard_time": 1738389737,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 233637,
-      "num": 233637,
-      "word": "黄旭华吊唁现场有束花的落款令人泪目",
-      "onboard_time": 1739150958,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 233563,
@@ -11300,7 +11300,7 @@
     },
     {
       "raw_hot": 218006,
-      "num": 218006,
+      "num": 272788,
       "word": "旧友突然上门拜年实则想套取涉密资料",
       "onboard_time": 1739147901,
       "rank": 29,
@@ -12225,6 +12225,14 @@
       "onboard_time": 1739106202,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 204896,
+      "num": 204896,
+      "word": "朱婷意大利杯夺冠",
+      "onboard_time": 1739151680,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 204882,
@@ -14507,6 +14515,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 181868,
+      "num": 181868,
+      "word": "全球影史票房榜",
+      "onboard_time": 1739150239,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 181861,
       "num": 248160,
       "word": "陈鹤一素颜直播帅成这样",
@@ -14931,12 +14947,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 176376,
-      "num": 176376,
-      "word": "全球影史票房榜",
-      "onboard_time": 1739150239,
+      "raw_hot": 176130,
+      "num": 176130,
+      "word": "特朗普宣布2月9日为第一个美国湾日",
+      "onboard_time": 1739152100,
       "rank": 33,
-      "category": "电影"
+      "category": "国际时政"
     },
     {
       "raw_hot": 176120,
@@ -15233,6 +15249,14 @@
       "onboard_time": 1739104641,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 172502,
+      "num": 234332,
+      "word": "超级碗中场秀",
+      "onboard_time": 1739150420,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 172459,
@@ -15675,6 +15699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168324,
+      "num": 168324,
+      "word": "哪吒2破80亿海报",
+      "onboard_time": 1739151620,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 168214,
       "num": 423755,
       "word": "男子零下35度救下被困大爷",
@@ -16065,6 +16097,14 @@
       "onboard_time": 1738805963,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163450,
+      "num": 163450,
+      "word": "黄旭华灵堂内这些花圈落款没有姓名",
+      "onboard_time": 1739150300,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 163384,
@@ -16497,6 +16537,14 @@
       "onboard_time": 1739082979,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159166,
+      "num": 338932,
+      "word": "梅西现身超级碗",
+      "onboard_time": 1739150720,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 159125,
@@ -16937,14 +16985,6 @@
       "onboard_time": 1738499299,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 155234,
-      "num": 155234,
-      "word": "黄旭华灵堂内这些花圈落款没有姓名",
-      "onboard_time": 1739150300,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 155121,
@@ -18211,14 +18251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 142929,
-      "num": 142929,
-      "word": "哪吒2破80亿海报",
-      "onboard_time": 1739151620,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 142899,
       "num": 142899,
       "word": "孙颖莎备战边训练边做数学题",
@@ -18867,14 +18899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 135572,
-      "num": 234332,
-      "word": "超级碗中场秀",
-      "onboard_time": 1739150420,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 135355,
       "num": 135355,
       "word": "胡先煦也逃不过考古胡先煦",
@@ -19001,14 +19025,6 @@
       "onboard_time": 1738394656,
       "rank": 47,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 133954,
-      "num": 338932,
-      "word": "梅西现身超级碗",
-      "onboard_time": 1739150720,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 133858,
@@ -19299,6 +19315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130886,
+      "num": 130886,
+      "word": "檀健次跳舞硬控朱嘉琦",
+      "onboard_time": 1739151437,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130746,
       "num": 130746,
       "word": "六姊妹写实",
@@ -19321,14 +19345,6 @@
       "onboard_time": 1738828522,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 130697,
-      "num": 130697,
-      "word": "檀健次跳舞硬控朱嘉琦",
-      "onboard_time": 1739151437,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 130619,
@@ -19495,14 +19511,6 @@
       "num": 129677,
       "word": "亚冬会小狐狸不语只是一味挖挖挖",
       "onboard_time": 1739096301,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 129621,
-      "num": 129621,
-      "word": "朱婷意大利杯夺冠",
-      "onboard_time": 1739151680,
       "rank": 49,
       "category": "体育"
     },
@@ -19689,6 +19697,14 @@
       "onboard_time": 1738392676,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127332,
+      "num": 127332,
+      "word": "向太没有办婚礼",
+      "onboard_time": 1739152219,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 127296,
@@ -22161,6 +22177,14 @@
       "onboard_time": 1738461377,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 101145,
+      "num": 260101,
+      "word": "林孝埈说遗憾过后冲刺米兰",
+      "onboard_time": 1739149461,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 101020,
@@ -25241,6 +25265,14 @@
       "onboard_time": 1738485436,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49343,
+      "num": 274380,
+      "word": "和李现一起为中国冰雪健儿打call",
+      "onboard_time": 1739151918,
+      "rank": 19,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 49075,
