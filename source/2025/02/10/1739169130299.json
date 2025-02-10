@@ -1,0 +1,410 @@
+{
+  "runTime": 1739169130299,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1803510,
+        "num": 1803510,
+        "word": "肖战说的是谁",
+        "onboard_time": 1739164641,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1176779,
+        "num": 1176779,
+        "word": "金价",
+        "onboard_time": 1739158583,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 28990,
+        "num": 1135593,
+        "word": "三面五星红旗一起升起",
+        "onboard_time": 1739106743,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1126169,
+        "num": 1126169,
+        "word": "哪吒2被盗摄翻译上传外网",
+        "onboard_time": 1739163322,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 522603,
+        "num": 522603,
+        "word": "4000至6000元手机销售量爆单",
+        "onboard_time": 1739166441,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 517884,
+        "num": 517884,
+        "word": "DeepSeek王炸组合榜",
+        "onboard_time": 1739161824,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1080086,
+        "num": 496660,
+        "word": "合作导演称饺子不可能穿奢品",
+        "onboard_time": 1739165361,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 848243,
+        "num": 481965,
+        "word": "刘美含演员3手撕赛道",
+        "onboard_time": 1739166260,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 453513,
+        "num": 453513,
+        "word": "特朗普说中国教育做得很好",
+        "onboard_time": 1739157440,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70095,
+        "num": 449212,
+        "word": "景区摆渡车便利还是谋利",
+        "onboard_time": 1739159542,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 836212,
+        "num": 445228,
+        "word": "上班7天喝的都是蚂蚁泡澡水",
+        "onboard_time": 1739163084,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 742324,
+        "num": 436593,
+        "word": "窦骁颧骨申请报工伤",
+        "onboard_time": 1739166441,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 618510,
+        "num": 427991,
+        "word": "美国春晚",
+        "onboard_time": 1739160503,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 572532,
+        "num": 420906,
+        "word": "男子因新生儿子不跟自己姓选择分居",
+        "onboard_time": 1739167821,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210018,
+        "num": 416363,
+        "word": "洒水车0℃以下洒水致路面结冰酿事故",
+        "onboard_time": 1739165001,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 548094,
+        "num": 409464,
+        "word": "演员请就位 杨子边磕头边喊回家吧",
+        "onboard_time": 1739166621,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 542798,
+        "num": 405503,
+        "word": "哪吒2距全球影史票房榜1差一百多亿",
+        "onboard_time": 1739135411,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 399353,
+        "num": 399353,
+        "word": "官方回应麻药不睡泻药不泻",
+        "onboard_time": 1739165601,
+        "rank": 17,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 53958,
+        "num": 376244,
+        "word": "王俊凯说演员无需自我定义",
+        "onboard_time": 1739168600,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138953,
+        "num": 369645,
+        "word": "20年好友求助男子背上50万贷款",
+        "onboard_time": 1739167640,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 459465,
+        "num": 333150,
+        "word": "匪我思存 拆官配",
+        "onboard_time": 1739160023,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105765,
+        "num": 303335,
+        "word": "高亭宇拿下第三金",
+        "onboard_time": 1739168841,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 298143,
+        "num": 298143,
+        "word": "送别国之脊梁黄旭华",
+        "onboard_time": 1739153899,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22725,
+        "num": 289580,
+        "word": "向涵之做饭主打一个松弛",
+        "onboard_time": 1739164161,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177648,
+        "num": 285093,
+        "word": "中国姑娘包揽速度滑冰3000米金银铜",
+        "onboard_time": 1739167880,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284126,
+        "num": 284126,
+        "word": "哪吒2",
+        "onboard_time": 1739148141,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 257772,
+        "num": 257772,
+        "word": "李嘉琦也来浪姐了",
+        "onboard_time": 1739168061,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244980,
+        "num": 244980,
+        "word": "SM新女团ANA担任音中MC",
+        "onboard_time": 1739168301,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241599,
+        "num": 241599,
+        "word": "林允古装一番大女主剧",
+        "onboard_time": 1739164641,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185804,
+        "num": 239588,
+        "word": "乌尔善回应殷郊法相造型争议",
+        "onboard_time": 1739168001,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 532599,
+        "num": 239361,
+        "word": "蔡徐坤 穆格勒",
+        "onboard_time": 1739162842,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239073,
+        "num": 239073,
+        "word": "张雨霏学习滑雪被勒令停止",
+        "onboard_time": 1739159121,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220062,
+        "num": 220062,
+        "word": "无量仙翁拐杖",
+        "onboard_time": 1739156479,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 216887,
+        "num": 216887,
+        "word": "姚笛官宣参加演员请就位3",
+        "onboard_time": 1739163802,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216719,
+        "num": 216719,
+        "word": "宣璐演技",
+        "onboard_time": 1739167821,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213533,
+        "num": 213533,
+        "word": "合作导演称哪吒2不拖欠到点就结账",
+        "onboard_time": 1739160381,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 207275,
+        "num": 207275,
+        "word": "赵露思还需要拐杖",
+        "onboard_time": 1739166921,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194394,
+        "num": 194394,
+        "word": "网红有金生病期间意外怀孕",
+        "onboard_time": 1739148020,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 179972,
+        "num": 179972,
+        "word": "黄旭华院士遗体送别仪式",
+        "onboard_time": 1739150838,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21854,
+        "num": 177449,
+        "word": "中国速度滑冰男团金牌",
+        "onboard_time": 1739169020,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177370,
+        "num": 177370,
+        "word": "陈冲回应在美读书时被性侵",
+        "onboard_time": 1739168900,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173059,
+        "num": 173059,
+        "word": "林孝埈称心情一直不能平静",
+        "onboard_time": 1739165421,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171646,
+        "num": 171646,
+        "word": "2.5亿彩票中奖者缴税5000万",
+        "onboard_time": 1739148020,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170639,
+        "num": 170639,
+        "word": "林俊杰公司回应恋情传闻",
+        "onboard_time": 1739162362,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170291,
+        "num": 170291,
+        "word": "高亭宇得到金牌后累吐了",
+        "onboard_time": 1739165840,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163017,
+        "num": 163017,
+        "word": "女频权谋",
+        "onboard_time": 1739167162,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161448,
+        "num": 161448,
+        "word": "美国偶遇任嘉伦",
+        "onboard_time": 1739160741,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152702,
+        "num": 152702,
+        "word": "泡泡玛特公园偶遇梁伟铿",
+        "onboard_time": 1739165062,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145287,
+        "num": 145287,
+        "word": "WTT称每次重复违规罚款都将翻倍",
+        "onboard_time": 1739168301,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138235,
+        "num": 138235,
+        "word": "吴姗儒代班小姐不熙娣被质疑",
+        "onboard_time": 1739169020,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记擘画新时代东北全面振兴#"
+    }
+  }
+}

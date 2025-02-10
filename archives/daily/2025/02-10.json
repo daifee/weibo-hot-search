@@ -1,6 +1,6 @@
 {
   "startTime": 1739118284788,
-  "endTime": 1739165956720,
+  "endTime": 1739169130299,
   "band_list": [
     {
       "raw_hot": 2053631,
@@ -35,20 +35,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1803510,
+      "num": 1803510,
+      "word": "肖战说的是谁",
+      "onboard_time": 1739164641,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1777738,
       "num": 1777738,
       "word": "金价",
       "onboard_time": 1739158583,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1653157,
-      "num": 1653157,
-      "word": "肖战说的是谁",
-      "onboard_time": 1739164641,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 1516720,
@@ -97,6 +97,14 @@
       "onboard_time": 1739160023,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1080086,
+      "num": 496660,
+      "word": "合作导演称饺子不可能穿奢品",
+      "onboard_time": 1739165361,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 1053841,
@@ -163,6 +171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 848243,
+      "num": 481965,
+      "word": "刘美含演员3手撕赛道",
+      "onboard_time": 1739166260,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 846040,
       "num": 728755,
       "word": "吴磊赵露思 三搭",
@@ -193,6 +209,14 @@
       "onboard_time": 1739162842,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 742324,
+      "num": 436593,
+      "word": "窦骁颧骨申请报工伤",
+      "onboard_time": 1739166441,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 725341,
@@ -243,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 572532,
+      "num": 420906,
+      "word": "男子因新生儿子不跟自己姓选择分居",
+      "onboard_time": 1739167821,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 557839,
       "num": 557839,
       "word": "武汉地铁巨幅标语致敬黄旭华",
@@ -259,12 +291,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 548094,
+      "num": 409464,
+      "word": "演员请就位 杨子边磕头边喊回家吧",
+      "onboard_time": 1739166621,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 526850,
       "num": 495002,
       "word": "于正说黄杨钿甜pk掉14个演员",
       "onboard_time": 1739155819,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 522603,
+      "num": 522603,
+      "word": "4000至6000元手机销售量爆单",
+      "onboard_time": 1739166441,
+      "rank": 4,
+      "category": "数码"
     },
     {
       "raw_hot": 515191,
@@ -345,6 +393,14 @@
       "onboard_time": 1739153058,
       "rank": 7,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 399353,
+      "num": 399353,
+      "word": "官方回应麻药不睡泻药不泻",
+      "onboard_time": 1739165601,
+      "rank": 17,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 391404,
@@ -587,6 +643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257772,
+      "num": 257772,
+      "word": "李嘉琦也来浪姐了",
+      "onboard_time": 1739168061,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255493,
       "num": 255493,
       "word": "哪吒2票房超82亿",
@@ -617,6 +681,14 @@
       "onboard_time": 1739163802,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 244980,
+      "num": 244980,
+      "word": "SM新女团ANA担任音中MC",
+      "onboard_time": 1739168301,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 244022,
@@ -707,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 216719,
+      "num": 216719,
+      "word": "宣璐演技",
+      "onboard_time": 1739167821,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216390,
       "num": 216390,
       "word": "肖战经历万千之后你还是你就好",
@@ -723,12 +803,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 210018,
+      "num": 416363,
+      "word": "洒水车0℃以下洒水致路面结冰酿事故",
+      "onboard_time": 1739165001,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207932,
       "num": 207932,
       "word": "演员请就位3",
       "onboard_time": 1739161943,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207275,
+      "num": 207275,
+      "word": "赵露思还需要拐杖",
+      "onboard_time": 1739166921,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 206614,
@@ -875,14 +971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190719,
-      "num": 190719,
-      "word": "合作导演称饺子不可能穿奢品",
-      "onboard_time": 1739165361,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 190289,
       "num": 377994,
       "word": "世界第一小石头",
@@ -913,6 +1001,14 @@
       "onboard_time": 1739157020,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 185804,
+      "num": 239588,
+      "word": "乌尔善回应殷郊法相造型争议",
+      "onboard_time": 1739168001,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 183533,
@@ -987,6 +1083,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177648,
+      "num": 285093,
+      "word": "中国姑娘包揽速度滑冰3000米金银铜",
+      "onboard_time": 1739167880,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 177370,
+      "num": 177370,
+      "word": "陈冲回应在美读书时被性侵",
+      "onboard_time": 1739168900,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176402,
       "num": 385667,
       "word": "蒋勤勤张婧仪新片演母女",
@@ -1019,11 +1131,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173059,
+      "num": 173059,
+      "word": "林孝埈称心情一直不能平静",
+      "onboard_time": 1739165421,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172502,
       "num": 234332,
       "word": "超级碗中场秀",
       "onboard_time": 1739150420,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 170291,
+      "num": 237322,
+      "word": "高亭宇得到金牌后累吐了",
+      "onboard_time": 1739165840,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -1033,6 +1161,14 @@
       "onboard_time": 1739150300,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 163017,
+      "num": 163017,
+      "word": "女频权谋",
+      "onboard_time": 1739167162,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 162450,
@@ -1091,20 +1227,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 157621,
-      "num": 157621,
-      "word": "洒水车0℃以下洒水致路面结冰酿事故",
-      "onboard_time": 1739165001,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 154301,
       "num": 154301,
       "word": "浪姐6",
       "onboard_time": 1739149880,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152702,
+      "num": 152702,
+      "word": "泡泡玛特公园偶遇梁伟铿",
+      "onboard_time": 1739165062,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 151936,
@@ -1163,6 +1299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145287,
+      "num": 145287,
+      "word": "WTT称每次重复违规罚款都将翻倍",
+      "onboard_time": 1739168301,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144419,
       "num": 205548,
       "word": "40万新车被小孩引燃车主又订了一辆",
@@ -1187,12 +1331,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 138427,
-      "num": 138427,
-      "word": "林孝埈称心情一直不能平静",
-      "onboard_time": 1739165421,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 138953,
+      "num": 369645,
+      "word": "20年好友求助男子背上50万贷款",
+      "onboard_time": 1739167640,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138235,
+      "num": 138235,
+      "word": "吴姗儒代班小姐不熙娣被质疑",
+      "onboard_time": 1739169020,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 134221,
@@ -1275,14 +1427,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 121309,
-      "num": 324852,
-      "word": "官方回应麻药不睡泻药不泻",
-      "onboard_time": 1739165601,
-      "rank": 17,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 117294,
       "num": 117294,
       "word": "BamBam是胡烨韬铁血单推",
@@ -1321,6 +1465,14 @@
       "onboard_time": 1739095759,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105765,
+      "num": 303335,
+      "word": "高亭宇拿下第三金",
+      "onboard_time": 1739168841,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 105725,
@@ -1467,6 +1619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70095,
+      "num": 449212,
+      "word": "景区摆渡车便利还是谋利",
+      "onboard_time": 1739159542,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68660,
       "num": 1776179,
       "word": "三面五星红旗一起升起",
@@ -1521,6 +1681,14 @@
       "onboard_time": 1739118976,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 53958,
+      "num": 376244,
+      "word": "王俊凯说演员无需自我定义",
+      "onboard_time": 1739168600,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 51449,
@@ -1619,14 +1787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 28046,
-      "num": 237322,
-      "word": "高亭宇得到金牌后累吐了",
-      "onboard_time": 1739165840,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 26900,
       "num": 105200,
       "word": "三亚纯玩团被曝诱导消费续",
@@ -1643,6 +1803,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 22725,
+      "num": 289580,
+      "word": "向涵之做饭主打一个松弛",
+      "onboard_time": 1739164161,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 22521,
       "num": 46611,
       "word": "宜宾筠连县山体仍在持续滑坡",
@@ -1657,6 +1825,14 @@
       "onboard_time": 1739125992,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 21854,
+      "num": 177449,
+      "word": "中国速度滑冰男团金牌",
+      "onboard_time": 1739169020,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 21271,
