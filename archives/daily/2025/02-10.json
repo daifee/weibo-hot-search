@@ -1,6 +1,6 @@
 {
   "startTime": 1739118284788,
-  "endTime": 1739156000517,
+  "endTime": 1739156538072,
   "band_list": [
     {
       "raw_hot": 2053631,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1179992,
-      "num": 396349,
+      "num": 436391,
       "word": "赵露思散步被偶遇",
       "onboard_time": 1739154379,
       "rank": 10,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 703661,
-      "num": 377973,
+      "num": 397467,
       "word": "2.5亿彩票中奖者缴税5000万",
       "onboard_time": 1739148020,
       "rank": 20,
@@ -113,6 +113,22 @@
       "onboard_time": 1739148799,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 590555,
+      "num": 590555,
+      "word": "台湾寒流来袭当天78人猝死",
+      "onboard_time": 1739155039,
+      "rank": 8,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 557839,
+      "num": 557839,
+      "word": "武汉地铁巨幅标语致敬黄旭华",
+      "onboard_time": 1739153899,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 557073,
@@ -136,6 +152,14 @@
       "word": "难哄",
       "onboard_time": 1739114962,
       "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 467311,
+      "num": 467311,
+      "word": "掌心闹鬼甄嬛传闹鬼",
+      "onboard_time": 1739154260,
+      "rank": 15,
       "category": "剧集"
     },
     {
@@ -172,43 +196,27 @@
     },
     {
       "raw_hot": 432406,
-      "num": 421637,
+      "num": 428233,
       "word": "霉霉被狂嘘淡定笑了笑",
       "onboard_time": 1739153058,
       "rank": 7,
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 428508,
-      "num": 428508,
-      "word": "武汉地铁巨幅标语致敬黄旭华",
+      "raw_hot": 426226,
+      "num": 426226,
+      "word": "送别国之脊梁黄旭华",
       "onboard_time": 1739153899,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 414325,
-      "num": 414325,
-      "word": "台湾寒流来袭当天78人猝死",
-      "onboard_time": 1739155039,
-      "rank": 8,
-      "category": "突发/灾害"
+      "rank": 21,
+      "category": "国内时政"
     },
     {
       "raw_hot": 391404,
-      "num": 391404,
+      "num": 408140,
       "word": "哪吒2",
       "onboard_time": 1739148141,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 389754,
-      "num": 389754,
-      "word": "掌心闹鬼甄嬛传闹鬼",
-      "onboard_time": 1739154260,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 382503,
@@ -217,14 +225,6 @@
       "onboard_time": 1739155039,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 372194,
-      "num": 372194,
-      "word": "送别国之脊梁黄旭华",
-      "onboard_time": 1739153899,
-      "rank": 21,
-      "category": "国内时政"
     },
     {
       "raw_hot": 370234,
@@ -323,8 +323,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 300401,
+      "num": 300401,
+      "word": "于正说黄杨钿甜pk掉14个演员",
+      "onboard_time": 1739155819,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 290333,
-      "num": 387546,
+      "num": 426480,
       "word": "被淘宝灯谜难住了",
       "onboard_time": 1739153058,
       "rank": 16,
@@ -355,6 +363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 233652,
+      "num": 233652,
+      "word": "剑网3",
+      "onboard_time": 1739155520,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 233366,
       "num": 233366,
       "word": "黄旭华遗像前的花摆成了潜艇模样",
@@ -371,6 +387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 221750,
+      "num": 234642,
+      "word": "哪吒2破80亿海报",
+      "onboard_time": 1739151620,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 221646,
       "num": 221646,
       "word": "把徐明浩困成微博之夜的马丽了",
@@ -380,19 +404,11 @@
     },
     {
       "raw_hot": 221431,
-      "num": 221431,
+      "num": 438102,
       "word": "此生属于祖国无怨无悔",
       "onboard_time": 1739154140,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 219284,
-      "num": 219284,
-      "word": "剑网3",
-      "onboard_time": 1739155520,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 218871,
@@ -419,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206614,
+      "num": 206614,
+      "word": "三头六臂殷郊法相制作周期超18个月",
+      "onboard_time": 1739153300,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 205970,
       "num": 222057,
       "word": "演员请就位3概念官宣",
@@ -443,14 +467,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 204459,
-      "num": 204459,
-      "word": "三头六臂殷郊法相制作周期超18个月",
-      "onboard_time": 1739153300,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
       "raw_hot": 203365,
       "num": 203365,
       "word": "山东一交警被无证司机冲撞不幸牺牲",
@@ -459,11 +475,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 200748,
-      "num": 200748,
-      "word": "于正说黄杨钿甜pk掉14个演员",
-      "onboard_time": 1739155819,
-      "rank": 33,
+      "raw_hot": 202088,
+      "num": 202088,
+      "word": "好小众的一款魔尊人设",
+      "onboard_time": 1739155460,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -476,11 +492,19 @@
     },
     {
       "raw_hot": 198109,
-      "num": 243280,
+      "num": 320236,
       "word": "王楚钦把梁靖崑推到林诗栋旁边",
       "onboard_time": 1739153540,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197875,
+      "num": 197875,
+      "word": "徐克肖战窦文涛文隽特别对谈下集",
+      "onboard_time": 1739155880,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 197710,
@@ -515,28 +539,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 189928,
-      "num": 189928,
-      "word": "哪吒2破80亿海报",
-      "onboard_time": 1739151620,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 189108,
       "num": 189108,
       "word": "独行侠老板指责东契奇",
       "onboard_time": 1739155580,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 188449,
-      "num": 197231,
-      "word": "好小众的一款魔尊人设",
-      "onboard_time": 1739155460,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 183533,
@@ -563,12 +571,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 175770,
-      "num": 175770,
-      "word": "徐克肖战窦文涛文隽特别对谈下集",
+      "raw_hot": 178707,
+      "num": 178707,
+      "word": "北方这周元宵节当天体感最冷",
       "onboard_time": 1739155880,
-      "rank": 41,
-      "category": "电影"
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173816,
@@ -635,20 +643,20 @@
       "category": "国际时政,体育"
     },
     {
-      "raw_hot": 159197,
-      "num": 159197,
-      "word": "北方这周元宵节当天体感最冷",
-      "onboard_time": 1739155880,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 159166,
       "num": 338932,
       "word": "梅西现身超级碗",
       "onboard_time": 1739150720,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156880,
+      "num": 156880,
+      "word": "无量仙翁拐杖",
+      "onboard_time": 1739156479,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 154301,
@@ -705,6 +713,14 @@
       "onboard_time": 1739111603,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139183,
+      "num": 139183,
+      "word": "李晟出发浪姐录制",
+      "onboard_time": 1739156420,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 134221,
@@ -955,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 45697,
+      "num": 233656,
+      "word": "美国政坛掀起查账风暴",
+      "onboard_time": 1739155700,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 43910,
       "num": 43910,
       "word": "斗破苍穹",
@@ -971,20 +995,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32726,
+      "num": 405792,
+      "word": "张雨霏谈对尔滨的印象",
+      "onboard_time": 1739156001,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 31626,
-      "num": 390093,
+      "num": 426792,
       "word": "一组珍贵照片送别黄老",
       "onboard_time": 1739155101,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29190,
-      "num": 221469,
-      "word": "美国政坛掀起查账风暴",
-      "onboard_time": 1739155700,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 26900,
