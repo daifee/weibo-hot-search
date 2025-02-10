@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739216150551,
+  "endTime": 1739219019171,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -28995,6 +28995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32263,
+      "num": 32263,
+      "word": "买到哪吒2手写票的观众发声",
+      "onboard_time": 1739215810,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 32124,
       "num": 32124,
       "word": "哪吒1",
@@ -29425,6 +29433,14 @@
       "onboard_time": 1739187322,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26871,
+      "num": 26871,
+      "word": "官方通报值机员撕乘客登机牌",
+      "onboard_time": 1739217071,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26847,
@@ -30099,6 +30115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 18767,
+      "num": 52549,
+      "word": "一群外地阿姨奔赴灾区捐菜又做饭",
+      "onboard_time": 1739215031,
+      "rank": 34,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 18648,
       "num": 1073042,
       "word": "世界商圈义乌开门迎客啦",
@@ -30139,19 +30163,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 18445,
+      "num": 21430,
+      "word": "婆婆背了满满一筐菜徒步送到灾区",
+      "onboard_time": 1739215752,
+      "rank": 38,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 18153,
       "num": 34448,
       "word": "哪吒2出品方称对观众期待很忐忑",
       "onboard_time": 1738356851,
       "rank": 41,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 18018,
-      "num": 21724,
-      "word": "买到哪吒2手写票的观众发声",
-      "onboard_time": 1739215810,
-      "rank": 45,
       "category": "电影"
     },
     {
@@ -30161,14 +30185,6 @@
       "onboard_time": 1738871413,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 17848,
-      "num": 52549,
-      "word": "一群外地阿姨奔赴灾区捐菜又做饭",
-      "onboard_time": 1739215031,
-      "rank": 34,
-      "category": "正能量"
     },
     {
       "raw_hot": 17653,
@@ -30937,6 +30953,14 @@
       "onboard_time": 1738503740,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 9902,
+      "num": 27873,
+      "word": "更硬核的实力是对黄老最好的缅怀",
+      "onboard_time": 1739218691,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9831,

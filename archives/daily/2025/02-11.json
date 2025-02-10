@@ -1,6 +1,6 @@
 {
   "startTime": 1739204910696,
-  "endTime": 1739216150551,
+  "endTime": 1739219019171,
   "band_list": [
     {
       "raw_hot": 828616,
@@ -539,6 +539,30 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 32263,
+      "num": 32263,
+      "word": "买到哪吒2手写票的观众发声",
+      "onboard_time": 1739215810,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 26871,
+      "num": 26871,
+      "word": "官方通报值机员撕乘客登机牌",
+      "onboard_time": 1739217071,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18767,
+      "num": 52549,
+      "word": "一群外地阿姨奔赴灾区捐菜又做饭",
+      "onboard_time": 1739215031,
+      "rank": 34,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 18645,
       "num": 256048,
       "word": "再见了黄旭华爷爷",
@@ -547,19 +571,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18018,
-      "num": 21724,
-      "word": "买到哪吒2手写票的观众发声",
-      "onboard_time": 1739215810,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 17848,
-      "num": 52549,
-      "word": "一群外地阿姨奔赴灾区捐菜又做饭",
-      "onboard_time": 1739215031,
-      "rank": 34,
+      "raw_hot": 18445,
+      "num": 21430,
+      "word": "婆婆背了满满一筐菜徒步送到灾区",
+      "onboard_time": 1739215752,
+      "rank": 38,
       "category": "正能量"
     },
     {
@@ -577,6 +593,14 @@
       "onboard_time": 1739205735,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 9902,
+      "num": 27873,
+      "word": "更硬核的实力是对黄老最好的缅怀",
+      "onboard_time": 1739218691,
+      "rank": 20,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
