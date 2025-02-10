@@ -1,6 +1,6 @@
 {
   "startTime": 1739118284788,
-  "endTime": 1739156538072,
+  "endTime": 1739158089332,
   "band_list": [
     {
       "raw_hot": 2053631,
@@ -17,6 +17,14 @@
       "onboard_time": 1739148020,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1470037,
+      "num": 543551,
+      "word": "无量仙翁拐杖",
+      "onboard_time": 1739156479,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 1278985,
@@ -91,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 762801,
+      "num": 762801,
+      "word": "台湾寒流来袭当天78人猝死",
+      "onboard_time": 1739155039,
+      "rank": 8,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 725341,
       "num": 725341,
       "word": "丽江机场道歉",
@@ -107,20 +123,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 668799,
+      "num": 303803,
+      "word": "王岳伦发李湘与王诗龄合照为李湘庆生",
+      "onboard_time": 1739157680,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 660338,
       "num": 660338,
       "word": "外媒预测哪吒2票房",
       "onboard_time": 1739148799,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 590555,
-      "num": 590555,
-      "word": "台湾寒流来袭当天78人猝死",
-      "onboard_time": 1739155039,
-      "rank": 8,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 557839,
@@ -137,6 +153,14 @@
       "onboard_time": 1739148380,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 526850,
+      "num": 405676,
+      "word": "于正说黄杨钿甜pk掉14个演员",
+      "onboard_time": 1739155819,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 513822,
@@ -275,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 334061,
+      "num": 364459,
+      "word": "特朗普说中国教育做得很好",
+      "onboard_time": 1739157440,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 328162,
       "num": 328162,
       "word": "赵露思穿搭被清华大学老师上课介绍",
@@ -323,14 +355,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 300401,
-      "num": 300401,
-      "word": "于正说黄杨钿甜pk掉14个演员",
-      "onboard_time": 1739155819,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 290333,
       "num": 426480,
       "word": "被淘宝灯谜难住了",
@@ -355,12 +379,36 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 266756,
+      "num": 266756,
+      "word": "电影阴阳师0定档",
+      "onboard_time": 1739156780,
+      "rank": 23,
+      "category": "电影,游戏"
+    },
+    {
+      "raw_hot": 260663,
+      "num": 260663,
+      "word": "未定事件簿",
+      "onboard_time": 1739157380,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 251663,
       "num": 210567,
       "word": "哪吒2票房超90亿将进入全球影史前30",
       "onboard_time": 1739107822,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 236919,
+      "num": 262781,
+      "word": "林孝埈更新微博自动回复",
+      "onboard_time": 1739157200,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 233652,
@@ -377,6 +425,14 @@
       "onboard_time": 1739153840,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 231747,
+      "num": 231747,
+      "word": "陈牧驰说殷郊我太蓝了",
+      "onboard_time": 1739157081,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 228065,
@@ -539,12 +595,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190197,
+      "num": 190197,
+      "word": "浓眉可能无限期缺阵",
+      "onboard_time": 1739156600,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189108,
       "num": 189108,
       "word": "独行侠老板指责东契奇",
       "onboard_time": 1739155580,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185876,
+      "num": 185876,
+      "word": "时代少年团摄影陈漫",
+      "onboard_time": 1739157020,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 183533,
@@ -569,6 +641,14 @@
       "onboard_time": 1739150239,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 180751,
+      "num": 180751,
+      "word": "掌心 武则天",
+      "onboard_time": 1739157802,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 178707,
@@ -651,12 +731,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156880,
-      "num": 156880,
-      "word": "无量仙翁拐杖",
-      "onboard_time": 1739156479,
-      "rank": 43,
-      "category": "电影"
+      "raw_hot": 156121,
+      "num": 209298,
+      "word": "48岁男子离家工作抱着妻子嗷嗷哭",
+      "onboard_time": 1739156841,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154301,
@@ -723,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137740,
+      "num": 137740,
+      "word": "你的时髦小姨回家过年了",
+      "onboard_time": 1739158042,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134221,
       "num": 134221,
       "word": "北京警方刑拘1名买金女子",
@@ -761,6 +849,14 @@
       "onboard_time": 1739144298,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 129832,
+      "num": 129832,
+      "word": "打工人相亲没成的姻缘都成了人脉",
+      "onboard_time": 1739157741,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127332,
@@ -945,6 +1041,14 @@
       "onboard_time": 1739118976,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 55499,
+      "num": 304253,
+      "word": "西藏网友说王一博是藏羚羊",
+      "onboard_time": 1739157260,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 49343,
