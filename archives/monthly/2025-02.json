@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739204910696,
+  "endTime": 1739205814270,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -4571,6 +4571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 571467,
+      "num": 772059,
+      "word": "饺子想快点回归创作阶段",
+      "onboard_time": 1739203817,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 571001,
       "num": 314276,
       "word": "游客在日就医5分钟被确诊甲流",
@@ -7380,7 +7388,7 @@
     },
     {
       "raw_hot": 377087,
-      "num": 204745,
+      "num": 368034,
       "word": "百色祈福高中唐毓文",
       "onboard_time": 1739202498,
       "rank": 15,
@@ -7764,7 +7772,7 @@
     },
     {
       "raw_hot": 355142,
-      "num": 241321,
+      "num": 261079,
       "word": "央视直播时一只小狐狸抢镜",
       "onboard_time": 1739199321,
       "rank": 21,
@@ -16779,6 +16787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173701,
+      "num": 100407,
+      "word": "老外看完哪吒2称中国动画杀疯了",
+      "onboard_time": 1739203817,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 173629,
       "num": 173629,
       "word": "蒯曼亚军",
@@ -18433,14 +18449,6 @@
       "onboard_time": 1739100742,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 157680,
-      "num": 214774,
-      "word": "饺子想快点回归创作阶段",
-      "onboard_time": 1739203817,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 157674,
@@ -21441,6 +21449,14 @@
       "onboard_time": 1739096301,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129552,
+      "num": 129552,
+      "word": "特朗普回应霉霉超级碗现场被嘘",
+      "onboard_time": 1739204000,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 129372,
@@ -24563,6 +24579,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 98299,
+      "num": 98299,
+      "word": "何浩楠买了相机就得用",
+      "onboard_time": 1739204896,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98295,
       "num": 163661,
       "word": "肖战的射雕是意境",
@@ -25009,14 +25033,6 @@
       "onboard_time": 1738367174,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 90528,
-      "num": 90528,
-      "word": "特朗普回应霉霉超级碗现场被嘘",
-      "onboard_time": 1739204000,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 90409,
@@ -26179,12 +26195,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 69450,
+      "num": 69450,
+      "word": "善意的竞争",
+      "onboard_time": 1739204718,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 69396,
       "num": 69396,
       "word": "禹事不慌张",
       "onboard_time": 1738451713,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 69291,
+      "num": 69291,
+      "word": "敢于表达是一种被严重低估的能力",
+      "onboard_time": 1739205616,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 69166,
@@ -26217,14 +26249,6 @@
       "onboard_time": 1738316719,
       "rank": 48,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 68810,
-      "num": 68810,
-      "word": "善意的竞争",
-      "onboard_time": 1739204718,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 68614,
@@ -29411,6 +29435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25551,
+      "num": 183469,
+      "word": "邓为死脑子快记啊",
+      "onboard_time": 1739205078,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25536,
       "num": 464358,
       "word": "唐探1900一环刀一环",
@@ -29976,6 +30008,14 @@
       "word": "世界商圈义乌开门迎客啦",
       "onboard_time": 1739169381,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18645,
+      "num": 256048,
+      "word": "再见了黄旭华爷爷",
+      "onboard_time": 1739205016,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -30841,6 +30881,14 @@
       "onboard_time": 1738519033,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 9541,
+      "num": 81603,
+      "word": "高亭宇累到吐是带伤作战",
+      "onboard_time": 1739205735,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 9533,
