@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739205814270,
+  "endTime": 1739207911626,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -6115,6 +6115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 462942,
+      "num": 462942,
+      "word": "百色教育局通报一高中教师被举报",
+      "onboard_time": 1739206336,
+      "rank": 1,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 461331,
       "num": 461331,
       "word": "黄旭华院士遗体送别仪式",
@@ -6521,6 +6529,14 @@
       "onboard_time": 1739022143,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 433192,
+      "num": 433192,
+      "word": "百色祈福高中唐毓文",
+      "onboard_time": 1739202498,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 433003,
@@ -7385,14 +7401,6 @@
       "onboard_time": 1739066419,
       "rank": 28,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 377087,
-      "num": 368034,
-      "word": "百色祈福高中唐毓文",
-      "onboard_time": 1739202498,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 375815,
@@ -8784,6 +8792,14 @@
       "word": "你只说70亿是何居心",
       "onboard_time": 1739007443,
       "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 312676,
+      "num": 164598,
+      "word": "老外看完哪吒2称中国动画杀疯了",
+      "onboard_time": 1739203817,
+      "rank": 31,
       "category": "电影"
     },
     {
@@ -16555,6 +16571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176089,
+      "num": 176089,
+      "word": "中国香港队队员赢球后遭围殴",
+      "onboard_time": 1739207415,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176086,
       "num": 176086,
       "word": "陈哲远梁洁同框直播",
@@ -16785,14 +16809,6 @@
       "onboard_time": 1738933883,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 173701,
-      "num": 100407,
-      "word": "老外看完哪吒2称中国动画杀疯了",
-      "onboard_time": 1739203817,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 173629,
@@ -24643,6 +24659,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 96969,
+      "num": 96969,
+      "word": "DeepSeek涨价了",
+      "onboard_time": 1739206277,
+      "rank": 22,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 96868,
       "num": 339049,
       "word": "春节聚餐警惕吃出来的病",
@@ -25169,6 +25193,14 @@
       "onboard_time": 1739172200,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87652,
+      "num": 87652,
+      "word": "哪吒2被偷票房损失惨重是影城非片方",
+      "onboard_time": 1739206696,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 87512,
@@ -25745,6 +25777,14 @@
       "onboard_time": 1738730006,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78401,
+      "num": 183469,
+      "word": "邓为死脑子快记啊",
+      "onboard_time": 1739205078,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 78384,
@@ -28019,6 +28059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43577,
+      "num": 43577,
+      "word": "美将对所有进口钢铝征收25%关税",
+      "onboard_time": 1739206216,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 43560,
       "num": 1009795,
       "word": "从冬奥到亚冬冰雪热燃起来了",
@@ -29435,14 +29483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 25551,
-      "num": 183469,
-      "word": "邓为死脑子快记啊",
-      "onboard_time": 1739205078,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 25536,
       "num": 464358,
       "word": "唐探1900一环刀一环",
@@ -30747,6 +30787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 10970,
+      "num": 88178,
+      "word": "高亭宇累到吐是带伤作战",
+      "onboard_time": 1739205735,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 10880,
       "num": 32263,
       "word": "商务部回应对钨等相关物项出口管制",
@@ -30881,14 +30929,6 @@
       "onboard_time": 1738519033,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 9541,
-      "num": 81603,
-      "word": "高亭宇累到吐是带伤作战",
-      "onboard_time": 1739205735,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 9533,

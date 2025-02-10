@@ -1,6 +1,6 @@
 {
   "startTime": 1739204910696,
-  "endTime": 1739205814270,
+  "endTime": 1739207911626,
   "band_list": [
     {
       "raw_hot": 674344,
@@ -59,6 +59,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 462942,
+      "num": 462942,
+      "word": "百色教育局通报一高中教师被举报",
+      "onboard_time": 1739206336,
+      "rank": 1,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 433192,
+      "num": 433192,
+      "word": "百色祈福高中唐毓文",
+      "onboard_time": 1739202498,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 427956,
       "num": 378879,
       "word": "哪吒2票房超86亿",
@@ -91,19 +107,19 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 377087,
-      "num": 368034,
-      "word": "百色祈福高中唐毓文",
-      "onboard_time": 1739202498,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 369941,
       "num": 229442,
       "word": "曝哪吒2停了300家影院密钥",
       "onboard_time": 1739181261,
       "rank": 16,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 312676,
+      "num": 164598,
+      "word": "老外看完哪吒2称中国动画杀疯了",
+      "onboard_time": 1739203817,
+      "rank": 31,
       "category": "电影"
     },
     {
@@ -187,12 +203,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 173701,
-      "num": 100407,
-      "word": "老外看完哪吒2称中国动画杀疯了",
-      "onboard_time": 1739203817,
-      "rank": 31,
-      "category": "电影"
+      "raw_hot": 176089,
+      "num": 176089,
+      "word": "中国香港队队员赢球后遭围殴",
+      "onboard_time": 1739207415,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 167514,
@@ -323,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96969,
+      "num": 96969,
+      "word": "DeepSeek涨价了",
+      "onboard_time": 1739206277,
+      "rank": 22,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 94310,
       "num": 94310,
       "word": "节后多地肛肠科人满为患",
@@ -347,12 +371,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87652,
+      "num": 87652,
+      "word": "哪吒2被偷票房损失惨重是影城非片方",
+      "onboard_time": 1739206696,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 81696,
       "num": 81696,
       "word": "彭小苒 浪姐6",
       "onboard_time": 1739195542,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 78401,
+      "num": 183469,
+      "word": "邓为死脑子快记啊",
+      "onboard_time": 1739205078,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 77823,
@@ -427,12 +467,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 25551,
-      "num": 183469,
-      "word": "邓为死脑子快记啊",
-      "onboard_time": 1739205078,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 43577,
+      "num": 43577,
+      "word": "美将对所有进口钢铝征收25%关税",
+      "onboard_time": 1739206216,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 18645,
@@ -444,15 +484,15 @@
     },
     {
       "raw_hot": 11972,
-      "num": 379132,
+      "num": 445675,
       "word": "超2000万人申请国补买手机等",
       "onboard_time": 1739116460,
       "rank": 2,
       "category": "民生新闻,国内时政"
     },
     {
-      "raw_hot": 9541,
-      "num": 81603,
+      "raw_hot": 10970,
+      "num": 88178,
       "word": "高亭宇累到吐是带伤作战",
       "onboard_time": 1739205735,
       "rank": 41,
