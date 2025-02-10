@@ -1,6 +1,6 @@
 {
   "startTime": 1739118284788,
-  "endTime": 1739194807911,
+  "endTime": 1739197318160,
   "band_list": [
     {
       "raw_hot": 10037874,
@@ -145,6 +145,14 @@
       "onboard_time": 1739191159,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1311219,
+      "num": 317491,
+      "word": "李明德造谣女朋友要给他生孩子",
+      "onboard_time": 1739196321,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1278985,
@@ -427,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 666599,
+      "num": 666599,
+      "word": "林孝埈将退出本赛季后续比赛",
+      "onboard_time": 1739195661,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 665189,
       "num": 409464,
       "word": "演员请就位 杨子边磕头边喊回家吧",
@@ -619,6 +635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 485725,
+      "num": 407216,
+      "word": "怪不得太乙真人说这才像正版哪吒",
+      "onboard_time": 1739188521,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 473759,
       "num": 473759,
       "word": "难哄",
@@ -660,7 +684,7 @@
     },
     {
       "raw_hot": 451868,
-      "num": 311626,
+      "num": 340395,
       "word": "哪吒",
       "onboard_time": 1739192963,
       "rank": 21,
@@ -715,6 +739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 408486,
+      "num": 408486,
+      "word": "值机员撕登机牌事件涉事人员待岗",
+      "onboard_time": 1739194163,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 407159,
       "num": 319204,
       "word": "虞书欣水果摊少女氛围感",
@@ -745,6 +777,14 @@
       "onboard_time": 1739165601,
       "rank": 17,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 398043,
+      "num": 252295,
+      "word": "女子10年前买1千克黄金现在净赚30多万",
+      "onboard_time": 1739193861,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 391404,
@@ -787,19 +827,19 @@
       "category": "电影"
     },
     {
+      "raw_hot": 360975,
+      "num": 360975,
+      "word": "小蛇糕",
+      "onboard_time": 1739192481,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 360024,
       "num": 330013,
       "word": "封神2视效声明",
       "onboard_time": 1739111842,
       "rank": 12,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 359953,
-      "num": 206711,
-      "word": "怪不得太乙真人说这才像正版哪吒",
-      "onboard_time": 1739188521,
-      "rank": 46,
       "category": "电影"
     },
     {
@@ -835,12 +875,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 339757,
-      "num": 339757,
-      "word": "小蛇糕",
-      "onboard_time": 1739192481,
-      "rank": 23,
-      "category": "游戏"
+      "raw_hot": 338473,
+      "num": 250892,
+      "word": "25岁是人生的7点半",
+      "onboard_time": 1739192841,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 338223,
@@ -864,14 +904,6 @@
       "word": "男子用40万转账表情包套走8000元",
       "onboard_time": 1739103146,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 330402,
-      "num": 252295,
-      "word": "女子10年前买1千克黄金现在净赚30多万",
-      "onboard_time": 1739193861,
-      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -905,6 +937,14 @@
       "onboard_time": 1739163802,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 323488,
+      "num": 198741,
+      "word": "印度23岁女子婚礼台上跳舞猝死",
+      "onboard_time": 1739196262,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 320385,
@@ -1155,14 +1195,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 250892,
-      "num": 250892,
-      "word": "25岁是人生的7点半",
-      "onboard_time": 1739192841,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 249415,
       "num": 390378,
       "word": "打工人相亲没成的姻缘都成了人脉",
@@ -1225,6 +1257,22 @@
       "onboard_time": 1739191159,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 236799,
+      "num": 236799,
+      "word": "千万不要学哪吒去收土拨鼠",
+      "onboard_time": 1739192180,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 235765,
+      "num": 197489,
+      "word": "节后多地肛肠科人满为患",
+      "onboard_time": 1739196201,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 233652,
@@ -1355,14 +1403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 220141,
-      "num": 235411,
-      "word": "千万不要学哪吒去收土拨鼠",
-      "onboard_time": 1739192180,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 218871,
       "num": 218871,
       "word": "杨洋展昭红衣路透",
@@ -1441,6 +1481,14 @@
       "onboard_time": 1739153300,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 206584,
+      "num": 206584,
+      "word": "陈哲远梁洁共创视频",
+      "onboard_time": 1739196742,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 206359,
@@ -1649,6 +1697,14 @@
       "onboard_time": 1739185220,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192121,
+      "num": 192121,
+      "word": "邱贻可分享孙颖莎训练视频",
+      "onboard_time": 1739194943,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 191073,
@@ -2003,6 +2059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162851,
+      "num": 162851,
+      "word": "彭小苒 浪姐6",
+      "onboard_time": 1739195542,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162450,
       "num": 455506,
       "word": "哪吒的金宝贝乾坤圈值多少钱",
@@ -2195,6 +2259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146305,
+      "num": 146305,
+      "word": "六姊妹",
+      "onboard_time": 1739195780,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145995,
       "num": 145995,
       "word": "藕饼",
@@ -2289,6 +2361,14 @@
       "onboard_time": 1739146639,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133241,
+      "num": 133241,
+      "word": "冰球",
+      "onboard_time": 1739196982,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 132833,
@@ -2395,12 +2475,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 122904,
+      "num": 122904,
+      "word": "特效团队遗憾四海龙宫坍塌镜头删减",
+      "onboard_time": 1739196982,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 122679,
       "num": 122679,
       "word": "SM第二季度艺人回归计划",
       "onboard_time": 1739176820,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 121590,
+      "num": 121590,
+      "word": "福宝近况视频",
+      "onboard_time": 1739197281,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121590,
+      "num": 121590,
+      "word": "与辉同行股东发生变更",
+      "onboard_time": 1739195661,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 121340,
@@ -2604,7 +2708,7 @@
     },
     {
       "raw_hot": 93513,
-      "num": 163866,
+      "num": 243138,
       "word": "比亚迪天神之眼开创全民智驾",
       "onboard_time": 1739194522,
       "rank": 40,
@@ -2665,14 +2769,6 @@
       "onboard_time": 1739178320,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 79411,
-      "num": 277575,
-      "word": "值机员撕登机牌事件涉事人员待岗",
-      "onboard_time": 1739194163,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 79323,
@@ -2777,6 +2873,14 @@
       "onboard_time": 1739171780,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 66688,
+      "num": 317841,
+      "word": "家人给黄旭华唱了他最爱的送别",
+      "onboard_time": 1739196081,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64434,
@@ -3035,6 +3139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29768,
+      "num": 201556,
+      "word": "哪吒等春节档影片集体被盗摄",
+      "onboard_time": 1739196201,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 26900,
       "num": 105200,
       "word": "三亚纯玩团被曝诱导消费续",
@@ -3131,6 +3243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 20372,
+      "num": 255395,
+      "word": "老人被骗购买166张千元面值购物卡",
+      "onboard_time": 1739196621,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19263,
       "num": 186932,
       "word": "南京地铁10号线预计3月1日全线恢复",
@@ -3216,6 +3336,14 @@
       "word": "林诗栋曾说19也不年轻了吧",
       "onboard_time": 1739194041,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 13081,
+      "num": 240207,
+      "word": "林孝埈希望冰迷们永远相信中国短道速滑队",
+      "onboard_time": 1739196441,
+      "rank": 24,
       "category": "体育"
     },
     {
