@@ -1,6 +1,6 @@
 {
   "startTime": 1739118284788,
-  "endTime": 1739169130299,
+  "endTime": 1739169880167,
   "band_list": [
     {
       "raw_hot": 2053631,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1080086,
-      "num": 496660,
+      "num": 1031683,
       "word": "合作导演称饺子不可能穿奢品",
       "onboard_time": 1739165361,
       "rank": 37,
@@ -195,6 +195,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 812156,
+      "num": 420906,
+      "word": "男子因新生儿子不跟自己姓选择分居",
+      "onboard_time": 1739167821,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 779132,
       "num": 779132,
       "word": "为什么不建议躺着刷手机",
@@ -243,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 665189,
+      "num": 409464,
+      "word": "演员请就位 杨子边磕头边喊回家吧",
+      "onboard_time": 1739166621,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 660338,
       "num": 660338,
       "word": "外媒预测哪吒2票房",
@@ -267,12 +283,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 572532,
-      "num": 420906,
-      "word": "男子因新生儿子不跟自己姓选择分居",
-      "onboard_time": 1739167821,
-      "rank": 13,
-      "category": "民生新闻"
+      "raw_hot": 613897,
+      "num": 613897,
+      "word": "4000至6000元手机销售量爆单",
+      "onboard_time": 1739166441,
+      "rank": 4,
+      "category": "数码"
     },
     {
       "raw_hot": 557839,
@@ -291,28 +307,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 548094,
-      "num": 409464,
-      "word": "演员请就位 杨子边磕头边喊回家吧",
-      "onboard_time": 1739166621,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 526850,
       "num": 495002,
       "word": "于正说黄杨钿甜pk掉14个演员",
       "onboard_time": 1739155819,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 522603,
-      "num": 522603,
-      "word": "4000至6000元手机销售量爆单",
-      "onboard_time": 1739166441,
-      "rank": 4,
-      "category": "数码"
     },
     {
       "raw_hot": 515191,
@@ -345,6 +345,14 @@
       "onboard_time": 1739154260,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 464453,
+      "num": 318030,
+      "word": "陈冲回应在美读书时被性侵",
+      "onboard_time": 1739168900,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 461331,
@@ -539,12 +547,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 308505,
+      "num": 416363,
+      "word": "洒水车0℃以下洒水致路面结冰酿事故",
+      "onboard_time": 1739165001,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 307851,
       "num": 307851,
       "word": "林俊杰公司回应恋情传闻",
       "onboard_time": 1739162362,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 304247,
+      "num": 304247,
+      "word": "哪吒2破83亿",
+      "onboard_time": 1739169261,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 302197,
@@ -803,14 +827,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 210018,
-      "num": 416363,
-      "word": "洒水车0℃以下洒水致路面结冰酿事故",
-      "onboard_time": 1739165001,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 207932,
       "num": 207932,
       "word": "演员请就位3",
@@ -851,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205728,
+      "num": 194127,
+      "word": "韩庚晒女儿给他买的第一个生日蛋糕",
+      "onboard_time": 1739169200,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204896,
       "num": 204896,
       "word": "朱婷意大利杯夺冠",
@@ -864,6 +888,14 @@
       "word": "敖丙",
       "onboard_time": 1739104043,
       "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 204121,
+      "num": 239588,
+      "word": "乌尔善回应殷郊法相造型争议",
+      "onboard_time": 1739168001,
+      "rank": 29,
       "category": "电影"
     },
     {
@@ -1003,14 +1035,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 185804,
-      "num": 239588,
-      "word": "乌尔善回应殷郊法相造型争议",
-      "onboard_time": 1739168001,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 183533,
       "num": 220898,
       "word": "孙颖莎新加坡夺冠后发博",
@@ -1089,14 +1113,6 @@
       "onboard_time": 1739167880,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 177370,
-      "num": 177370,
-      "word": "陈冲回应在美读书时被性侵",
-      "onboard_time": 1739168900,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 176402,
@@ -1203,6 +1219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 161134,
+      "num": 161134,
+      "word": "吴姗儒代班小姐不熙娣被质疑",
+      "onboard_time": 1739169020,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160975,
       "num": 160975,
       "word": "特朗普现身超级碗",
@@ -1217,6 +1241,14 @@
       "onboard_time": 1739150720,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158100,
+      "num": 158100,
+      "word": "卡琳娜 浪姐6",
+      "onboard_time": 1739169860,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 157976,
@@ -1235,6 +1267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153664,
+      "num": 369645,
+      "word": "20年好友求助男子背上50万贷款",
+      "onboard_time": 1739167640,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152702,
       "num": 152702,
       "word": "泡泡玛特公园偶遇梁伟铿",
@@ -1243,12 +1283,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152310,
+      "num": 395790,
+      "word": "购新补贴后数码产品20天售出超200亿元",
+      "onboard_time": 1739169381,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 151936,
       "num": 151936,
       "word": "封神2否认找外包公司4500元制作殷郊法相特效",
       "onboard_time": 1739119756,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 151386,
+      "num": 151386,
+      "word": "欧阳妮妮想再生两个小孩",
+      "onboard_time": 1739169860,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 150276,
@@ -1273,6 +1329,14 @@
       "onboard_time": 1739165482,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147301,
+      "num": 201670,
+      "word": "宣璐在掌心玩cosplay",
+      "onboard_time": 1739169200,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 146848,
@@ -1331,20 +1395,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 138953,
-      "num": 369645,
-      "word": "20年好友求助男子背上50万贷款",
-      "onboard_time": 1739167640,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 138235,
-      "num": 138235,
-      "word": "吴姗儒代班小姐不熙娣被质疑",
-      "onboard_time": 1739169020,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 134566,
+      "num": 367116,
+      "word": "高亭宇拿下第三金",
+      "onboard_time": 1739168841,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 134221,
@@ -1467,14 +1523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105765,
-      "num": 303335,
-      "word": "高亭宇拿下第三金",
-      "onboard_time": 1739168841,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 105725,
       "num": 105725,
       "word": "潘宏基地回应限制主人取回狗狗",
@@ -1579,6 +1627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78814,
+      "num": 376244,
+      "word": "王俊凯说演员无需自我定义",
+      "onboard_time": 1739168600,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 78651,
       "num": 78651,
       "word": "全网首部观看人数破亿短剧",
@@ -1635,6 +1691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67321,
+      "num": 354928,
+      "word": "中国速度滑冰男团金牌",
+      "onboard_time": 1739169020,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60535,
       "num": 60535,
       "word": "林孝埈能为胜利拼搏到凌晨5点",
@@ -1683,14 +1747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 53958,
-      "num": 376244,
-      "word": "王俊凯说演员无需自我定义",
-      "onboard_time": 1739168600,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 51449,
       "num": 440620,
       "word": "高亭宇第二金",
@@ -1721,6 +1777,22 @@
       "onboard_time": 1739122933,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 46722,
+      "num": 151912,
+      "word": "中国队第18金信手拈来",
+      "onboard_time": 1739169740,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 46101,
+      "num": 191561,
+      "word": "高亭宇虽有失误仍彰显绝对实力",
+      "onboard_time": 1739169801,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 45697,
@@ -1795,6 +1867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26325,
+      "num": 311267,
+      "word": "林孝埈想做得更好",
+      "onboard_time": 1739169381,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 25533,
       "num": 26741,
       "word": "哪吒之魔童闹海新年集福卡",
@@ -1827,14 +1907,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 21854,
-      "num": 177449,
-      "word": "中国速度滑冰男团金牌",
-      "onboard_time": 1739169020,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 21271,
       "num": 21271,
       "word": "刘宇宁央视元宵晚会彩排",
@@ -1857,6 +1929,14 @@
       "onboard_time": 1739162242,
       "rank": 21,
       "category": "财经"
+    },
+    {
+      "raw_hot": 18648,
+      "num": 1073042,
+      "word": "世界商圈义乌开门迎客啦",
+      "onboard_time": 1739169381,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17316,
