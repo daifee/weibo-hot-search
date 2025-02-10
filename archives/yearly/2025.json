@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1739191398126,
+  "endTime": 1739192317828,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -2363,6 +2363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2044312,
+      "num": 509036,
+      "word": "留几手葛夕民政局排队",
+      "onboard_time": 1739189781,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2040556,
       "num": 2040556,
       "word": "哪吒2若卖95亿饺子至少能分1.35亿",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736134642,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2031112,
-      "num": 500462,
-      "word": "大S就医时或已错过治疗黄金期",
-      "onboard_time": 1738636102,
-      "rank": 3,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
