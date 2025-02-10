@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1739183098466,
+  "endTime": 1739184138329,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -2067,6 +2067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2151195,
+      "num": 2151195,
+      "word": "曝哪吒2停了300家影院密钥",
+      "onboard_time": 1739181261,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 2150978,
       "num": 1187395,
       "word": "张若昀魏晨 已婚男人的自觉",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1737253578,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 2018157,
-      "num": 2018157,
-      "word": "刘畅 渣男",
-      "onboard_time": 1736343143,
-      "rank": 27,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [

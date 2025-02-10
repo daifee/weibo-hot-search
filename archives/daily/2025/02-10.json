@@ -1,6 +1,6 @@
 {
   "startTime": 1739118284788,
-  "endTime": 1739183098466,
+  "endTime": 1739184138329,
   "band_list": [
     {
       "raw_hot": 2863170,
@@ -8,6 +8,14 @@
       "word": "曝哪吒2被偷票房损失几千万",
       "onboard_time": 1739177359,
       "rank": 0,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 2151195,
+      "num": 2151195,
+      "word": "曝哪吒2停了300家影院密钥",
+      "onboard_time": 1739181261,
+      "rank": 3,
       "category": "电影"
     },
     {
@@ -59,14 +67,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1790411,
-      "num": 750127,
-      "word": "曝哪吒2停了300家影院密钥",
-      "onboard_time": 1739181261,
-      "rank": 3,
-      "category": "电影"
-    },
-    {
       "raw_hot": 1777738,
       "num": 1777738,
       "word": "金价",
@@ -99,12 +99,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1426116,
+      "num": 1426116,
+      "word": "DeepSeek",
+      "onboard_time": 1739177721,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1278985,
       "num": 1278985,
       "word": "丽江机场被曝撕头等舱乘客登机牌",
       "onboard_time": 1739113283,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1266281,
+      "num": 1266281,
+      "word": "曝哪吒2被偷票房",
+      "onboard_time": 1739177359,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 1179992,
@@ -121,14 +137,6 @@
       "onboard_time": 1739160023,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1125391,
-      "num": 1125391,
-      "word": "DeepSeek",
-      "onboard_time": 1739177721,
-      "rank": 4,
-      "category": "互联网"
     },
     {
       "raw_hot": 1080086,
@@ -193,6 +201,14 @@
       "onboard_time": 1739167821,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 913867,
+      "num": 325959,
+      "word": "谢娜带留置针看张杰演唱会",
+      "onboard_time": 1739182221,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 904299,
@@ -321,6 +337,14 @@
       "onboard_time": 1739117659,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 712764,
+      "num": 216053,
+      "word": "赵露思把快坏掉水果制成糖葫芦",
+      "onboard_time": 1739182641,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 709857,
@@ -563,14 +587,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 441873,
-      "num": 325959,
-      "word": "谢娜带留置针看张杰演唱会",
-      "onboard_time": 1739182221,
-      "rank": 13,
-      "category": "演出"
-    },
-    {
       "raw_hot": 439237,
       "num": 439237,
       "word": "金钟仁退伍",
@@ -593,6 +609,22 @@
       "onboard_time": 1739170279,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 407159,
+      "num": 319204,
+      "word": "虞书欣水果摊少女氛围感",
+      "onboard_time": 1739179221,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 404788,
+      "num": 500549,
+      "word": "00后小伙苦练电焊成大师傅月入1万6",
+      "onboard_time": 1739178860,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 402654,
@@ -619,14 +651,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 390038,
-      "num": 319204,
-      "word": "虞书欣水果摊少女氛围感",
-      "onboard_time": 1739179221,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 386765,
       "num": 284061,
       "word": "林允古装一番大女主剧",
@@ -635,12 +659,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 380229,
-      "num": 500549,
-      "word": "00后小伙苦练电焊成大师傅月入1万6",
-      "onboard_time": 1739178860,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 372872,
+      "num": 252705,
+      "word": "刘诗诗扛剧能力",
+      "onboard_time": 1739182099,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 370234,
@@ -843,6 +867,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 280346,
+      "num": 248082,
+      "word": "谁教李昀锐这么背包的",
+      "onboard_time": 1739181201,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 278536,
       "num": 278536,
       "word": "美财政部被爆将1000亿发给身份不明者",
@@ -931,20 +963,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 252705,
-      "num": 252705,
-      "word": "刘诗诗扛剧能力",
-      "onboard_time": 1739182099,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 251663,
       "num": 210567,
       "word": "哪吒2票房超90亿将进入全球影史前30",
       "onboard_time": 1739107822,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 251438,
+      "num": 339658,
+      "word": "我国首代核潜艇4位总师均已逝世",
+      "onboard_time": 1739182339,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 249415,
@@ -961,6 +993,14 @@
       "onboard_time": 1739181320,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 248012,
+      "num": 248012,
+      "word": "霉霉超级碗被嘘男友感到很无助",
+      "onboard_time": 1739182941,
+      "rank": 44,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 247876,
@@ -1009,14 +1049,6 @@
       "onboard_time": 1739155520,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 233551,
-      "num": 233551,
-      "word": "谁教李昀锐这么背包的",
-      "onboard_time": 1739181201,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 233366,
@@ -1099,6 +1131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 220669,
+      "num": 220669,
+      "word": "殡仪馆众人齐声大喊黄老一路走好",
+      "onboard_time": 1739178860,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218871,
       "num": 218871,
       "word": "杨洋展昭红衣路透",
@@ -1144,14 +1184,6 @@
       "word": "CZ680航班故障取消致百余人延误",
       "onboard_time": 1739150779,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 211500,
-      "num": 211500,
-      "word": "殡仪馆众人齐声大喊黄老一路走好",
-      "onboard_time": 1739178860,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -1211,6 +1243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 203806,
+      "num": 203806,
+      "word": "哪吒2票房",
+      "onboard_time": 1739123894,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 203365,
       "num": 203365,
       "word": "山东一交警被无证司机冲撞不幸牺牲",
@@ -1257,14 +1297,6 @@
       "onboard_time": 1739155940,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 198126,
-      "num": 198126,
-      "word": "赵露思把快坏掉水果制成糖葫芦",
-      "onboard_time": 1739182641,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 198109,
@@ -1329,6 +1361,14 @@
       "onboard_time": 1739170160,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195091,
+      "num": 195091,
+      "word": "掌心最适合和亲的男人出现了",
+      "onboard_time": 1739183060,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 193952,
@@ -1457,6 +1497,14 @@
       "onboard_time": 1739161702,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 182547,
+      "num": 182547,
+      "word": "无痛取美瞳",
+      "onboard_time": 1739182520,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 181907,
@@ -1747,14 +1795,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 151663,
-      "num": 151663,
-      "word": "霉霉超级碗被嘘男友感到很无助",
-      "onboard_time": 1739182941,
-      "rank": 44,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 150276,
       "num": 239603,
       "word": "声生不息微博网友挚爱歌手投票",
@@ -1923,14 +1963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 130580,
-      "num": 130580,
-      "word": "掌心最适合和亲的男人出现了",
-      "onboard_time": 1739183060,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 130513,
       "num": 227068,
       "word": "仅需百元即可购买必吃榜假冒牌匾",
@@ -1977,14 +2009,6 @@
       "onboard_time": 1739176700,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 124673,
-      "num": 124673,
-      "word": "无痛取美瞳",
-      "onboard_time": 1739182520,
-      "rank": 49,
-      "category": "美妆"
     },
     {
       "raw_hot": 124120,
@@ -2059,12 +2083,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116559,
+      "num": 116559,
+      "word": "世界之外情人节",
+      "onboard_time": 1739183839,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 116113,
       "num": 562211,
       "word": "30多名村民骑摩托向灾区运送物资",
       "onboard_time": 1739163802,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 114145,
+      "num": 323862,
+      "word": "外资有没有大规模撤离中国",
+      "onboard_time": 1739182099,
+      "rank": 14,
+      "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 112258,
+      "num": 112258,
+      "word": "凤凰男也能跃龙门",
+      "onboard_time": 1739183120,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 111962,
@@ -2081,6 +2129,14 @@
       "onboard_time": 1739164222,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 111056,
+      "num": 159929,
+      "word": "郑钦文黑长裙亮相晚宴",
+      "onboard_time": 1739181801,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 108506,
@@ -2128,14 +2184,6 @@
       "word": "你的每一步都在重新定义自己的边界",
       "onboard_time": 1739119996,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102096,
-      "num": 339658,
-      "word": "我国首代核潜艇4位总师均已逝世",
-      "onboard_time": 1739182339,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -2209,14 +2257,6 @@
       "onboard_time": 1739115860,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 84327,
-      "num": 323862,
-      "word": "外资有没有大规模撤离中国",
-      "onboard_time": 1739182099,
-      "rank": 14,
-      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 82856,
@@ -2363,14 +2403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 59913,
-      "num": 59913,
-      "word": "哪吒2票房",
-      "onboard_time": 1739123894,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 59101,
       "num": 389962,
       "word": "一些家长为何不喜欢家访",
@@ -2404,7 +2436,7 @@
     },
     {
       "raw_hot": 52595,
-      "num": 982389,
+      "num": 1292811,
       "word": "中国队已集齐2个金牌九宫格",
       "onboard_time": 1739177119,
       "rank": 2,
@@ -2580,7 +2612,7 @@
     },
     {
       "raw_hot": 24158,
-      "num": 136683,
+      "num": 161169,
       "word": "中国队高质量三跳",
       "onboard_time": 1739179522,
       "rank": 41,

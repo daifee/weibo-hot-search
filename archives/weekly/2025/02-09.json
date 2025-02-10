@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739183098466,
+  "endTime": 1739184138329,
   "band_list": [
     {
       "raw_hot": 3533201,
@@ -33,6 +33,14 @@
       "onboard_time": 1739108782,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2151195,
+      "num": 2151195,
+      "word": "曝哪吒2停了300家影院密钥",
+      "onboard_time": 1739181261,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 2085747,
@@ -147,14 +155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1790411,
-      "num": 750127,
-      "word": "曝哪吒2停了300家影院密钥",
-      "onboard_time": 1739181261,
-      "rank": 3,
-      "category": "电影"
-    },
-    {
       "raw_hot": 1777738,
       "num": 1777738,
       "word": "金价",
@@ -219,6 +219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1426116,
+      "num": 1426116,
+      "word": "DeepSeek",
+      "onboard_time": 1739177721,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1359989,
       "num": 632551,
       "word": "演员李施嬅官宣分手",
@@ -257,6 +265,14 @@
       "onboard_time": 1739113283,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1266281,
+      "num": 1266281,
+      "word": "曝哪吒2被偷票房",
+      "onboard_time": 1739177359,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 1237534,
@@ -321,14 +337,6 @@
       "onboard_time": 1739102843,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1125391,
-      "num": 1125391,
-      "word": "DeepSeek",
-      "onboard_time": 1739177721,
-      "rank": 4,
-      "category": "互联网"
     },
     {
       "raw_hot": 1115436,
@@ -497,6 +505,14 @@
       "onboard_time": 1739073320,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 913867,
+      "num": 325959,
+      "word": "谢娜带留置针看张杰演唱会",
+      "onboard_time": 1739182221,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 904299,
@@ -721,6 +737,14 @@
       "onboard_time": 1739101342,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 712764,
+      "num": 216053,
+      "word": "赵露思把快坏掉水果制成糖葫芦",
+      "onboard_time": 1739182641,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 709857,
@@ -1387,14 +1411,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 441873,
-      "num": 325959,
-      "word": "谢娜带留置针看张杰演唱会",
-      "onboard_time": 1739182221,
-      "rank": 13,
-      "category": "演出"
-    },
-    {
       "raw_hot": 439237,
       "num": 439237,
       "word": "金钟仁退伍",
@@ -1433,6 +1449,22 @@
       "onboard_time": 1739170279,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 407159,
+      "num": 319204,
+      "word": "虞书欣水果摊少女氛围感",
+      "onboard_time": 1739179221,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 404788,
+      "num": 500549,
+      "word": "00后小伙苦练电焊成大师傅月入1万6",
+      "onboard_time": 1739178860,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 402654,
@@ -1507,14 +1539,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 390038,
-      "num": 319204,
-      "word": "虞书欣水果摊少女氛围感",
-      "onboard_time": 1739179221,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 386765,
       "num": 284061,
       "word": "林允古装一番大女主剧",
@@ -1555,14 +1579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 380229,
-      "num": 500549,
-      "word": "00后小伙苦练电焊成大师傅月入1万6",
-      "onboard_time": 1739178860,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 378626,
       "num": 378626,
       "word": "高铁买到过期4年方便面目击者发声",
@@ -1585,6 +1601,14 @@
       "onboard_time": 1739096720,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 372872,
+      "num": 252705,
+      "word": "刘诗诗扛剧能力",
+      "onboard_time": 1739182099,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 372611,
@@ -2035,6 +2059,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 280346,
+      "num": 248082,
+      "word": "谁教李昀锐这么背包的",
+      "onboard_time": 1739181201,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 280216,
       "num": 280216,
       "word": "李文龙在场边演我",
@@ -2187,12 +2219,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 252705,
-      "num": 252705,
-      "word": "刘诗诗扛剧能力",
-      "onboard_time": 1739182099,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 251438,
+      "num": 339658,
+      "word": "我国首代核潜艇4位总师均已逝世",
+      "onboard_time": 1739182339,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 250288,
@@ -2233,6 +2265,14 @@
       "onboard_time": 1739069480,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 248012,
+      "num": 248012,
+      "word": "霉霉超级碗被嘘男友感到很无助",
+      "onboard_time": 1739182941,
+      "rank": 44,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 247876,
@@ -2321,14 +2361,6 @@
       "onboard_time": 1739155520,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 233551,
-      "num": 233551,
-      "word": "谁教李昀锐这么背包的",
-      "onboard_time": 1739181201,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 233366,
@@ -2497,6 +2529,14 @@
       "onboard_time": 1739178979,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 220669,
+      "num": 220669,
+      "word": "殡仪馆众人齐声大喊黄老一路走好",
+      "onboard_time": 1739178860,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 220240,
@@ -2683,14 +2723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 211500,
-      "num": 211500,
-      "word": "殡仪馆众人齐声大喊黄老一路走好",
-      "onboard_time": 1739178860,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 210679,
       "num": 426701,
       "word": "张伟丽高喊oz获全场回应",
@@ -2835,6 +2867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203806,
+      "num": 203806,
+      "word": "哪吒2票房",
+      "onboard_time": 1739123894,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 203365,
       "num": 203365,
       "word": "山东一交警被无证司机冲撞不幸牺牲",
@@ -2953,14 +2993,6 @@
       "onboard_time": 1739155940,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 198126,
-      "num": 198126,
-      "word": "赵露思把快坏掉水果制成糖葫芦",
-      "onboard_time": 1739182641,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 198109,
@@ -3097,6 +3129,14 @@
       "onboard_time": 1739170160,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195091,
+      "num": 195091,
+      "word": "掌心最适合和亲的男人出现了",
+      "onboard_time": 1739183060,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 194477,
@@ -3401,6 +3441,14 @@
       "onboard_time": 1739161702,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 182547,
+      "num": 182547,
+      "word": "无痛取美瞳",
+      "onboard_time": 1739182520,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 181907,
@@ -4107,14 +4155,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 151663,
-      "num": 151663,
-      "word": "霉霉超级碗被嘘男友感到很无助",
-      "onboard_time": 1739182941,
-      "rank": 44,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 151484,
       "num": 451811,
       "word": "徐梦桃再为中国队夺金",
@@ -4539,14 +4579,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 130580,
-      "num": 130580,
-      "word": "掌心最适合和亲的男人出现了",
-      "onboard_time": 1739183060,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 130513,
       "num": 227068,
       "word": "仅需百元即可购买必吃榜假冒牌匾",
@@ -4641,14 +4673,6 @@
       "onboard_time": 1739023824,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124673,
-      "num": 124673,
-      "word": "无痛取美瞳",
-      "onboard_time": 1739182520,
-      "rank": 49,
-      "category": "美妆"
     },
     {
       "raw_hot": 124287,
@@ -4811,6 +4835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116559,
+      "num": 116559,
+      "word": "世界之外情人节",
+      "onboard_time": 1739183839,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 116539,
       "num": 230996,
       "word": "武契奇专车后轮行驶中飞出",
@@ -4867,6 +4899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114145,
+      "num": 323862,
+      "word": "外资有没有大规模撤离中国",
+      "onboard_time": 1739182099,
+      "rank": 14,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 113489,
       "num": 297542,
       "word": "山东滨州一小区水管被冻住停水两天",
@@ -4889,6 +4929,14 @@
       "onboard_time": 1739092759,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112258,
+      "num": 112258,
+      "word": "凤凰男也能跃龙门",
+      "onboard_time": 1739183120,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 111962,
@@ -4921,6 +4969,14 @@
       "onboard_time": 1739164222,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 111056,
+      "num": 159929,
+      "word": "郑钦文黑长裙亮相晚宴",
+      "onboard_time": 1739181801,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 110188,
@@ -5041,14 +5097,6 @@
       "onboard_time": 1739080821,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 102096,
-      "num": 339658,
-      "word": "我国首代核潜艇4位总师均已逝世",
-      "onboard_time": 1739182339,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101688,
@@ -5217,14 +5265,6 @@
       "onboard_time": 1739115860,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 84327,
-      "num": 323862,
-      "word": "外资有没有大规模撤离中国",
-      "onboard_time": 1739182099,
-      "rank": 14,
-      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 82856,
@@ -5499,14 +5539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 59913,
-      "num": 59913,
-      "word": "哪吒2票房",
-      "onboard_time": 1739123894,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 59192,
       "num": 324181,
       "word": "四川筠连山体滑坡现场进行网格化搜救",
@@ -5572,7 +5604,7 @@
     },
     {
       "raw_hot": 52595,
-      "num": 982389,
+      "num": 1292811,
       "word": "中国队已集齐2个金牌九宫格",
       "onboard_time": 1739177119,
       "rank": 2,
@@ -5988,7 +6020,7 @@
     },
     {
       "raw_hot": 24158,
-      "num": 136683,
+      "num": 161169,
       "word": "中国队高质量三跳",
       "onboard_time": 1739179522,
       "rank": 41,
