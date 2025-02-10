@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739212261195,
+  "endTime": 1739212970940,
   "band_list": [
     {
       "raw_hot": 10037874,
@@ -5787,20 +5787,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 101656,
+      "num": 101656,
+      "word": "百色被举报教师停职处理",
+      "onboard_time": 1739210112,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101604,
       "num": 689283,
       "word": "祝贺国乒女单包揽冠亚军",
       "onboard_time": 1739098821,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 101245,
-      "num": 101245,
-      "word": "百色被举报教师停职处理",
-      "onboard_time": 1739210112,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101145,
@@ -6264,6 +6264,14 @@
       "word": "紧急预拨3000万元支持四川救灾工作",
       "onboard_time": 1739029701,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63101,
+      "num": 122630,
+      "word": "江西路中房仍有人居住",
+      "onboard_time": 1739211613,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -7051,6 +7059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18464,
+      "num": 36163,
+      "word": "马斯克将审查美国防部支出",
+      "onboard_time": 1739207354,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 17399,
       "num": 45071,
       "word": "宜宾筠连山体滑坡救援正在进行",
@@ -7161,14 +7177,6 @@
       "onboard_time": 1739194041,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 13358,
-      "num": 122630,
-      "word": "江西路中房仍有人居住",
-      "onboard_time": 1739211613,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13256,
