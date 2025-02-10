@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739161732061,
+  "endTime": 1739162533550,
   "band_list": [
     {
       "raw_hot": 3533201,
@@ -43,6 +43,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1968302,
+      "num": 1932945,
+      "word": "特朗普说中国教育做得很好",
+      "onboard_time": 1739157440,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1965177,
       "num": 1965177,
       "word": "林诗栋新世一",
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 1960699,
-      "num": 382637,
+      "num": 423088,
       "word": "王岳伦发李湘与王诗龄合照为李湘庆生",
       "onboard_time": 1739157680,
       "rank": 20,
@@ -65,14 +73,6 @@
       "onboard_time": 1739078179,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1932945,
-      "num": 1932945,
-      "word": "特朗普说中国教育做得很好",
-      "onboard_time": 1739157440,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1931139,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 1516720,
-      "num": 447372,
+      "num": 462962,
       "word": "网红有金生病期间意外怀孕",
       "onboard_time": 1739148020,
       "rank": 10,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 1470037,
-      "num": 969893,
+      "num": 1033364,
       "word": "无量仙翁拐杖",
       "onboard_time": 1739156479,
       "rank": 43,
@@ -249,6 +249,14 @@
       "onboard_time": 1739025622,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1148822,
+      "num": 538389,
+      "word": "匪我思存 拆官配",
+      "onboard_time": 1739160023,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 1127415,
@@ -363,14 +371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 956857,
-      "num": 407197,
-      "word": "匪我思存 拆官配",
-      "onboard_time": 1739160023,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 955513,
       "num": 955513,
       "word": "梁靖崑vs林诗栋",
@@ -412,7 +412,7 @@
     },
     {
       "raw_hot": 890707,
-      "num": 406913,
+      "num": 530767,
       "word": "张雨霏学习滑雪被勒令停止",
       "onboard_time": 1739159121,
       "rank": 11,
@@ -499,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 804758,
+      "num": 692114,
+      "word": "合作导演称哪吒2不拖欠到点就结账",
+      "onboard_time": 1739160381,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 800548,
       "num": 574707,
       "word": "51岁何炅的八块腹肌",
@@ -537,6 +545,14 @@
       "onboard_time": 1739074580,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 725588,
+      "num": 725588,
+      "word": "美国春晚",
+      "onboard_time": 1739160503,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 725341,
@@ -651,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 650222,
+      "num": 650222,
+      "word": "蓝猫 砸碗",
+      "onboard_time": 1739158942,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 646075,
       "num": 905889,
       "word": "女子得了流感硬抗3天变白肺",
@@ -664,6 +688,14 @@
       "word": "赵露思炫崽狂魔",
       "onboard_time": 1739096119,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 642833,
+      "num": 504155,
+      "word": "美国偶遇任嘉伦",
+      "onboard_time": 1739160741,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -931,14 +963,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 503893,
-      "num": 503893,
-      "word": "蓝猫 砸碗",
-      "onboard_time": 1739158942,
-      "rank": 48,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 501253,
       "num": 501253,
       "word": "哪吒2海外首映有观众哭花妆",
@@ -1083,6 +1107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 447495,
+      "num": 447495,
+      "word": "送别国之脊梁黄旭华",
+      "onboard_time": 1739153899,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 439237,
       "num": 439237,
       "word": "金钟仁退伍",
@@ -1113,30 +1145,6 @@
       "onboard_time": 1739153058,
       "rank": 7,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 426226,
-      "num": 426226,
-      "word": "送别国之脊梁黄旭华",
-      "onboard_time": 1739153899,
-      "rank": 21,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 406341,
-      "num": 406341,
-      "word": "合作导演称哪吒2不拖欠到点就结账",
-      "onboard_time": 1739160381,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 403770,
-      "num": 403770,
-      "word": "美国春晚",
-      "onboard_time": 1739160503,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 401718,
@@ -1316,7 +1324,7 @@
     },
     {
       "raw_hot": 343975,
-      "num": 343975,
+      "num": 350180,
       "word": "掌心 武则天",
       "onboard_time": 1739157802,
       "rank": 38,
@@ -1355,14 +1363,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 329952,
-      "num": 393692,
-      "word": "美国偶遇任嘉伦",
-      "onboard_time": 1739160741,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 328958,
       "num": 328958,
       "word": "短道速滑",
@@ -1380,7 +1380,7 @@
     },
     {
       "raw_hot": 326187,
-      "num": 326187,
+      "num": 346166,
       "word": "声生不息",
       "onboard_time": 1739159843,
       "rank": 26,
@@ -1731,6 +1731,14 @@
       "category": "电影,游戏"
     },
     {
+      "raw_hot": 265837,
+      "num": 265837,
+      "word": "DeepSeek王炸组合榜",
+      "onboard_time": 1739161824,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 263971,
       "num": 263971,
       "word": "你的时髦小姨回家过年了",
@@ -1752,6 +1760,14 @@
       "word": "哪吒2感谢大家点燃这个冬天",
       "onboard_time": 1739105542,
       "rank": 22,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 255493,
+      "num": 255493,
+      "word": "哪吒2票房超82亿",
+      "onboard_time": 1739159060,
+      "rank": 33,
       "category": "电影"
     },
     {
@@ -1777,6 +1793,14 @@
       "onboard_time": 1739102241,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 249415,
+      "num": 390378,
+      "word": "打工人相亲没成的姻缘都成了人脉",
+      "onboard_time": 1739157741,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 248935,
@@ -1875,14 +1899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 231899,
-      "num": 231899,
-      "word": "哪吒2票房超82亿",
-      "onboard_time": 1739159060,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 230904,
       "num": 230904,
       "word": "网传虞书欣张凌赫三搭",
@@ -1921,6 +1937,14 @@
       "onboard_time": 1739111242,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227133,
+      "num": 227133,
+      "word": "妻子与人合拍短视频被丈夫砍伤",
+      "onboard_time": 1739161223,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 226165,
@@ -2059,6 +2083,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 216390,
+      "num": 216390,
+      "word": "肖战经历万千之后你还是你就好",
+      "onboard_time": 1739160862,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 215879,
       "num": 535378,
       "word": "血压不降麻药不睡多来自他人转述",
@@ -2187,6 +2219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 207932,
+      "num": 207932,
+      "word": "演员请就位3",
+      "onboard_time": 1739161943,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207926,
       "num": 227842,
       "word": "牙周病患者脑卒中可能性大增",
@@ -2201,6 +2241,14 @@
       "onboard_time": 1739085680,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207601,
+      "num": 207601,
+      "word": "失恋失业的她照顾情场得意的妈",
+      "onboard_time": 1739162184,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 206614,
@@ -2547,6 +2595,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 193196,
+      "num": 430587,
+      "word": "EXO今年将结束军白期",
+      "onboard_time": 1739161943,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192519,
       "num": 192519,
       "word": "刘少林回应接力摘铜",
@@ -2611,20 +2667,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190362,
-      "num": 190362,
-      "word": "妻子与人合拍短视频被丈夫砍伤",
-      "onboard_time": 1739161223,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 190358,
       "num": 190358,
       "word": "宋妍霏录浪姐前给粉丝发红包",
       "onboard_time": 1739093358,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190289,
+      "num": 377994,
+      "word": "世界第一小石头",
+      "onboard_time": 1739161521,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 190197,
@@ -2691,14 +2747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 186454,
-      "num": 192683,
-      "word": "肖战经历万千之后你还是你就好",
-      "onboard_time": 1739160862,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 185876,
       "num": 185876,
       "word": "时代少年团摄影陈漫",
@@ -2731,6 +2779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183273,
+      "num": 444790,
+      "word": "王家卫说希望苏丽珍可以走得更远",
+      "onboard_time": 1739161702,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 181907,
       "num": 181907,
       "word": "王者荣耀小蛇糕",
@@ -2753,6 +2809,14 @@
       "onboard_time": 1739029222,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180554,
+      "num": 180554,
+      "word": "上证指数",
+      "onboard_time": 1739162002,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 180376,
@@ -2787,6 +2851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178630,
+      "num": 560556,
+      "word": "致敬黄老一路走好",
+      "onboard_time": 1739161403,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178527,
       "num": 388072,
       "word": "多家银行中短期存款利率倒挂",
@@ -2816,14 +2888,6 @@
       "word": "范可新再次亲吻了冰面",
       "onboard_time": 1739084839,
       "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 176156,
-      "num": 195117,
-      "word": "世界第一小石头",
-      "onboard_time": 1739161521,
-      "rank": 38,
       "category": "体育"
     },
     {
@@ -3059,6 +3123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161283,
+      "num": 161283,
+      "word": "未定事件簿男菩萨",
+      "onboard_time": 1739162423,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 161238,
       "num": 161238,
       "word": "时代少年团三专",
@@ -3243,14 +3315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 154735,
-      "num": 406563,
-      "word": "致敬黄老一路走好",
-      "onboard_time": 1739161403,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 154301,
       "num": 154301,
       "word": "浪姐6",
@@ -3401,14 +3465,6 @@
       "onboard_time": 1739027902,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 145759,
-      "num": 390378,
-      "word": "打工人相亲没成的姻缘都成了人脉",
-      "onboard_time": 1739157741,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 145650,
@@ -4180,19 +4236,11 @@
     },
     {
       "raw_hot": 86906,
-      "num": 406838,
+      "num": 492603,
       "word": "邓为超A白月光",
       "onboard_time": 1739158762,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 85146,
-      "num": 192448,
-      "word": "王家卫说希望苏丽珍可以走得更远",
-      "onboard_time": 1739161702,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 85084,
@@ -4289,6 +4337,14 @@
       "onboard_time": 1739161041,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 71333,
+      "num": 480085,
+      "word": "熊诗芮女子大跳台夺冠",
+      "onboard_time": 1739161584,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 70759,
@@ -4473,6 +4529,14 @@
       "onboard_time": 1739071100,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51449,
+      "num": 440620,
+      "word": "高亭宇第二金",
+      "onboard_time": 1739162184,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 51073,
@@ -4763,14 +4827,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 27096,
-      "num": 235853,
-      "word": "熊诗芮女子大跳台夺冠",
-      "onboard_time": 1739161584,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 26900,
       "num": 105200,
       "word": "三亚纯玩团被曝诱导消费续",
@@ -4881,6 +4937,14 @@
       "onboard_time": 1739092941,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19010,
+      "num": 416962,
+      "word": "东风股份东风科技一字涨停",
+      "onboard_time": 1739162242,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 17399,
