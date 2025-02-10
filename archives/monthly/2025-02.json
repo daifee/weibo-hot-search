@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739184138329,
+  "endTime": 1739186351722,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -119,6 +119,14 @@
       "num": 6995860,
       "word": "汪小菲评论大S老婆我好想你",
       "onboard_time": 1738663943,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 5530376,
+      "num": 5530376,
+      "word": "疑似李明德前女友发文",
+      "onboard_time": 1739186001,
       "rank": 10,
       "category": "艺人"
     },
@@ -417,6 +425,14 @@
       "onboard_time": 1738993765,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 2371724,
+      "num": 2371724,
+      "word": "DeepSeek",
+      "onboard_time": 1738331600,
+      "rank": 10,
+      "category": "互联网"
     },
     {
       "raw_hot": 2367503,
@@ -923,14 +939,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1708063,
-      "num": 1426116,
-      "word": "DeepSeek",
-      "onboard_time": 1738331600,
-      "rank": 10,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 1702755,
       "num": 1702755,
       "word": "河南一影院10分钟一场哪吒2",
@@ -1025,6 +1033,14 @@
       "onboard_time": 1739097260,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1570961,
+      "num": 269617,
+      "word": "赵露思把快坏掉水果制成糖葫芦",
+      "onboard_time": 1739182641,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 1568831,
@@ -3027,6 +3043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 775769,
+      "num": 775769,
+      "word": "哪吒2悉尼上映数百观众等1小时没看成",
+      "onboard_time": 1739185098,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 773523,
       "num": 423428,
       "word": "战狼2",
@@ -3096,6 +3120,14 @@
       "word": "微博处置100余个涉大S谣言账号",
       "onboard_time": 1738997720,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 756970,
+      "num": 278815,
+      "word": "赵露思给小谢女儿过生日",
+      "onboard_time": 1739185040,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -3321,14 +3353,6 @@
       "onboard_time": 1738990645,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 712764,
-      "num": 216053,
-      "word": "赵露思把快坏掉水果制成糖葫芦",
-      "onboard_time": 1739182641,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 711528,
@@ -7268,7 +7292,7 @@
     },
     {
       "raw_hot": 372872,
-      "num": 252705,
+      "num": 281288,
       "word": "刘诗诗扛剧能力",
       "onboard_time": 1739182099,
       "rank": 26,
@@ -8987,6 +9011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 297629,
+      "num": 272452,
+      "word": "霉霉超级碗被嘘男友感到很无助",
+      "onboard_time": 1739182941,
+      "rank": 44,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 297465,
       "num": 297465,
       "word": "张云雷称在家24小时被私生饭监控",
@@ -9297,6 +9329,14 @@
       "onboard_time": 1738561233,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 286485,
+      "num": 339658,
+      "word": "我国首代核潜艇4位总师均已逝世",
+      "onboard_time": 1739182339,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 285875,
@@ -10371,14 +10411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 251438,
-      "num": 339658,
-      "word": "我国首代核潜艇4位总师均已逝世",
-      "onboard_time": 1739182339,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 251428,
       "num": 290804,
       "word": "人人人人人你人人人人人",
@@ -10553,14 +10585,6 @@
       "onboard_time": 1738849226,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 248012,
-      "num": 248012,
-      "word": "霉霉超级碗被嘘男友感到很无助",
-      "onboard_time": 1739182941,
-      "rank": 44,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 247876,
@@ -12169,6 +12193,14 @@
       "onboard_time": 1738926203,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217497,
+      "num": 217497,
+      "word": "男子玩蹦床跳进海绵池摔成9级伤残",
+      "onboard_time": 1739184860,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 217393,
@@ -14475,6 +14507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192133,
+      "num": 192133,
+      "word": "簪中录开通视频号",
+      "onboard_time": 1739185220,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192053,
       "num": 646578,
       "word": "专家称这一波流感预计到3月才过季",
@@ -14617,6 +14657,14 @@
       "onboard_time": 1738987887,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190586,
+      "num": 190586,
+      "word": "张睿语音",
+      "onboard_time": 1739184439,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 190548,
@@ -15025,6 +15073,14 @@
       "onboard_time": 1739002824,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187151,
+      "num": 187151,
+      "word": "女人搞暧昧男人搞雄竞",
+      "onboard_time": 1739186060,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 187140,
@@ -16531,6 +16587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171821,
+      "num": 171821,
+      "word": "马斯克审查五角大楼捅了多大马蜂窝",
+      "onboard_time": 1739184260,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 171767,
       "num": 171055,
       "word": "正房的地位妾室的气量勾栏的做派",
@@ -16657,6 +16721,14 @@
       "onboard_time": 1739165840,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170287,
+      "num": 303924,
+      "word": "太乙真人配音演员催罗云熙营业",
+      "onboard_time": 1739180301,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 170190,
@@ -18225,6 +18297,14 @@
       "onboard_time": 1738499299,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155215,
+      "num": 155215,
+      "word": "一个醉酒放肆一个红温克制",
+      "onboard_time": 1739185521,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 155121,
@@ -27011,6 +27091,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 48137,
+      "num": 285069,
+      "word": "丽江机场中转服务冷漠寒了游客心",
+      "onboard_time": 1739185640,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47921,
       "num": 58805,
       "word": "不允许有人没看过饺子成名作",
@@ -27073,6 +27161,14 @@
       "onboard_time": 1738994663,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 46445,
+      "num": 286329,
+      "word": "光线传媒回应哪吒2被偷票房",
+      "onboard_time": 1739185820,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 46437,
@@ -28763,14 +28859,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24418,
-      "num": 303924,
-      "word": "太乙真人配音演员催罗云熙营业",
-      "onboard_time": 1739180301,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 24396,
       "num": 573131,
       "word": "一人一句给中国健儿加油",
@@ -28865,6 +28953,14 @@
       "onboard_time": 1738761685,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 23441,
+      "num": 277413,
+      "word": "暗访真工厂里的假棉被",
+      "onboard_time": 1739185759,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23340,
@@ -29105,6 +29201,14 @@
       "onboard_time": 1738958651,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 20331,
+      "num": 270354,
+      "word": "小心有人拿镀金黄铜冒充金饰",
+      "onboard_time": 1739186060,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20285,
@@ -29465,6 +29569,14 @@
       "onboard_time": 1739127913,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14885,
+      "num": 238797,
+      "word": "张雨霏笑称自己是南方大土豆",
+      "onboard_time": 1739185640,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 14845,

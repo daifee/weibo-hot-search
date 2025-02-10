@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1739184138329,
+  "endTime": 1739186351722,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -481,6 +481,14 @@
       "onboard_time": 1738076680,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 5530376,
+      "num": 5530376,
+      "word": "疑似李明德前女友发文",
+      "onboard_time": 1739186001,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 5278509,
@@ -1699,6 +1707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2371724,
+      "num": 2371724,
+      "word": "DeepSeek",
+      "onboard_time": 1737947955,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 2367503,
       "num": 2367503,
       "word": "2024年全国结婚登记610.6万对",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1738636102,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2026892,
-      "num": 815513,
-      "word": "秦霄贤姐姐直播",
-      "onboard_time": 1736089769,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2022883,
-      "num": 1331064,
-      "word": "特朗普涉TikTok禁令最新表态",
-      "onboard_time": 1737253578,
-      "rank": 4,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [
