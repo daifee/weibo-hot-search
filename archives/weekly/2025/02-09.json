@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739197318160,
+  "endTime": 1739198350683,
   "band_list": [
     {
       "raw_hot": 10037874,
@@ -361,6 +361,14 @@
       "onboard_time": 1739025622,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1150539,
+      "num": 316027,
+      "word": "麦琳cos哪吒",
+      "onboard_time": 1739197521,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 1148822,
@@ -1115,6 +1123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 583497,
+      "num": 583497,
+      "word": "哪吒",
+      "onboard_time": 1739192963,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 572379,
       "num": 572379,
       "word": "申公豹不是十二金仙的原因找到了",
@@ -1499,14 +1515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 451868,
-      "num": 340395,
-      "word": "哪吒",
-      "onboard_time": 1739192963,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 450494,
       "num": 349711,
       "word": "12306回应乘客买到过期4年方便面",
@@ -1569,6 +1577,14 @@
       "onboard_time": 1739170279,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 423613,
+      "num": 276362,
+      "word": "印度23岁女子婚礼台上跳舞猝死",
+      "onboard_time": 1739196262,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 413496,
@@ -1652,7 +1668,7 @@
     },
     {
       "raw_hot": 398043,
-      "num": 252295,
+      "num": 273501,
       "word": "女子10年前买1千克黄金现在净赚30多万",
       "onboard_time": 1739193861,
       "rank": 32,
@@ -1868,7 +1884,7 @@
     },
     {
       "raw_hot": 338473,
-      "num": 250892,
+      "num": 305647,
       "word": "25岁是人生的7点半",
       "onboard_time": 1739192841,
       "rank": 27,
@@ -1953,14 +1969,6 @@
       "onboard_time": 1739099662,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 323488,
-      "num": 198741,
-      "word": "印度23岁女子婚礼台上跳舞猝死",
-      "onboard_time": 1739196262,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 320385,
@@ -2363,6 +2371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 260867,
+      "num": 260867,
+      "word": "节后多地肛肠科人满为患",
+      "onboard_time": 1739196201,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 259686,
       "num": 230168,
       "word": "菲警方找到绑架案中国母子遗骸",
@@ -2561,14 +2577,6 @@
       "onboard_time": 1739192180,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 235765,
-      "num": 197489,
-      "word": "节后多地肛肠科人满为患",
-      "onboard_time": 1739196201,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 234953,
@@ -3971,12 +3979,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173295,
+      "num": 173295,
+      "word": "特效团队遗憾四海龙宫坍塌镜头删减",
+      "onboard_time": 1739196982,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 173194,
       "num": 173194,
       "word": "张艺凡25岁生贺照",
       "onboard_time": 1739153899,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173117,
+      "num": 189071,
+      "word": "彭小苒 浪姐6",
+      "onboard_time": 1739195542,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 173059,
@@ -4100,7 +4124,7 @@
     },
     {
       "raw_hot": 169417,
-      "num": 272575,
+      "num": 301068,
       "word": "王传福说好技术就应该人人可享",
       "onboard_time": 1739193921,
       "rank": 34,
@@ -4225,14 +4249,6 @@
       "onboard_time": 1739167162,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 162851,
-      "num": 162851,
-      "word": "彭小苒 浪姐6",
-      "onboard_time": 1739195542,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 162545,
@@ -4481,6 +4497,14 @@
       "onboard_time": 1739185521,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154566,
+      "num": 154566,
+      "word": "福宝近况视频",
+      "onboard_time": 1739197281,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154301,
@@ -4867,6 +4891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139381,
+      "num": 139381,
+      "word": "与辉同行股东发生变更",
+      "onboard_time": 1739195661,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 139183,
       "num": 139183,
       "word": "李晟出发浪姐录制",
@@ -5155,14 +5187,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 122904,
-      "num": 122904,
-      "word": "特效团队遗憾四海龙宫坍塌镜头删减",
-      "onboard_time": 1739196982,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 122724,
       "num": 122724,
       "word": "四川筠连山体滑坡救援现场",
@@ -5185,22 +5209,6 @@
       "onboard_time": 1739077581,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 121590,
-      "num": 121590,
-      "word": "福宝近况视频",
-      "onboard_time": 1739197281,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 121590,
-      "num": 121590,
-      "word": "与辉同行股东发生变更",
-      "onboard_time": 1739195661,
-      "rank": 48,
-      "category": "汽车"
     },
     {
       "raw_hot": 121438,
@@ -5652,7 +5660,7 @@
     },
     {
       "raw_hot": 93513,
-      "num": 243138,
+      "num": 276880,
       "word": "比亚迪天神之眼开创全民智驾",
       "onboard_time": 1739194522,
       "rank": 40,
@@ -6163,6 +6171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51447,
+      "num": 288512,
+      "word": "黄旭华把对祖国的爱藏在名字里",
+      "onboard_time": 1739197462,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51431,
       "num": 324488,
       "word": "颖儿恭喜高亭宇卫冕冠军",
@@ -6265,6 +6281,14 @@
       "onboard_time": 1739176340,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 44527,
+      "num": 296216,
+      "word": "老人被骗购买166张千元面值购物卡",
+      "onboard_time": 1739196621,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43910,
@@ -6395,12 +6419,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35773,
+      "num": 176482,
+      "word": "哪吒2IMAX悉尼首映因技术原因延迟",
+      "onboard_time": 1739187801,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 35735,
       "num": 434803,
       "word": "袁咏仪张智霖状态",
       "onboard_time": 1739098821,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 35370,
+      "num": 294529,
+      "word": "中国队亚冬会已夺21金18银15铜",
+      "onboard_time": 1739197941,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 34275,
@@ -6473,6 +6513,14 @@
       "onboard_time": 1739165242,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30681,
+      "num": 291575,
+      "word": "遍地开花的俄货馆是什么来头",
+      "onboard_time": 1739197822,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30418,
@@ -6665,14 +6713,6 @@
       "onboard_time": 1739111603,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 20372,
-      "num": 255395,
-      "word": "老人被骗购买166张千元面值购物卡",
-      "onboard_time": 1739196621,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20178,
@@ -6960,6 +7000,14 @@
       "word": "王楚钦说跟梁靖崑会师半决赛很开心",
       "onboard_time": 1739041692,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 7105,
+      "num": 174229,
+      "word": "中国队第16金入手",
+      "onboard_time": 1739197642,
+      "rank": 33,
       "category": "体育"
     },
     {
