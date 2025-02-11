@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739288369514,
+  "endTime": 1739291403043,
   "band_list": [
     {
       "raw_hot": 10037874,
@@ -387,12 +387,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1454037,
+      "num": 283707,
+      "word": "28岁女子双肺长癌竟跟这个习惯有关",
+      "onboard_time": 1739289621,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1411936,
       "num": 452992,
       "word": "留几手后悔离婚",
       "onboard_time": 1739239819,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1408874,
+      "num": 826453,
+      "word": "教师唐某某被采取刑事强制措施",
+      "onboard_time": 1739287581,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1384169,
@@ -1257,6 +1273,14 @@
       "onboard_time": 1739273780,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 707049,
+      "num": 707049,
+      "word": "唐某某严重违反教师职业道德",
+      "onboard_time": 1739288061,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 705701,
@@ -2323,14 +2347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 426102,
-      "num": 426102,
-      "word": "教师唐某某被采取刑事强制措施",
-      "onboard_time": 1739287581,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 425579,
       "num": 466508,
       "word": "国际金价尚无停止上涨依据",
@@ -3019,6 +3035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 317127,
+      "num": 272300,
+      "word": "崔漫莉",
+      "onboard_time": 1739286862,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 316762,
       "num": 267698,
       "word": "孙颖莎假装擦球桌太可爱了",
@@ -3483,14 +3507,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 272300,
-      "num": 272300,
-      "word": "崔漫莉",
-      "onboard_time": 1739286862,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 271873,
       "num": 271873,
       "word": "原来这些角色都是锤娜丽莎演的",
@@ -3715,12 +3731,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 250991,
+      "num": 250991,
+      "word": "饺子进入中国导演票房榜前三",
+      "onboard_time": 1739289559,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 250691,
       "num": 250691,
       "word": "五福临门大结局",
       "onboard_time": 1739274200,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 250684,
+      "num": 250684,
+      "word": "郑钦文0比2贾巴尔",
+      "onboard_time": 1739289021,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 250288,
@@ -4577,6 +4609,14 @@
       "onboard_time": 1739248523,
       "rank": 36,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 209330,
+      "num": 209330,
+      "word": "ABC比基尼安睡裤被骂",
+      "onboard_time": 1739288300,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 208770,
@@ -6051,14 +6091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 173525,
-      "num": 173525,
-      "word": "唐某某严重违反教师职业道德",
-      "onboard_time": 1739288061,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 173252,
       "num": 173252,
       "word": "饺子能不能别穿着条纹衫提这种要求",
@@ -7475,6 +7507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138538,
+      "num": 138538,
+      "word": "刻骨明辛",
+      "onboard_time": 1739289858,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138514,
       "num": 138514,
       "word": "你们吵架就吵架怎么还牵手啊",
@@ -8067,6 +8107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119128,
+      "num": 385163,
+      "word": "年轻人连吃汤圆都有仪式感",
+      "onboard_time": 1739286981,
+      "rank": 14,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 118676,
       "num": 118676,
       "word": "杨滨瑜3000米金牌",
@@ -8459,14 +8507,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 103791,
-      "num": 385163,
-      "word": "年轻人连吃汤圆都有仪式感",
-      "onboard_time": 1739286981,
-      "rank": 14,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 103765,
       "num": 103765,
       "word": "王天辰古子成边吃火锅边直播",
@@ -8721,6 +8761,14 @@
       "onboard_time": 1739031319,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90736,
+      "num": 105934,
+      "word": "哪吒2最新预测总票房160.3亿",
+      "onboard_time": 1739288959,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 89825,
@@ -9219,6 +9267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63078,
+      "num": 109911,
+      "word": "台湾网友计划打飞的来大陆看哪吒2",
+      "onboard_time": 1739288421,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 62735,
       "num": 128281,
       "word": "欧文顶替浓眉入选全明星",
@@ -9273,6 +9329,14 @@
       "onboard_time": 1739187082,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 60751,
+      "num": 260981,
+      "word": "流感高烧3天不退小心是重症",
+      "onboard_time": 1739290640,
+      "rank": 15,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 60535,
@@ -9513,14 +9577,6 @@
       "onboard_time": 1739191821,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 50613,
-      "num": 144725,
-      "word": "ABC比基尼安睡裤被骂",
-      "onboard_time": 1739288300,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 50130,
@@ -10659,6 +10715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 8936,
+      "num": 110061,
+      "word": "相中徐梦桃的金滨滨金妮妮了",
+      "onboard_time": 1739285841,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 8261,
       "num": 120915,
       "word": "中国队选手包揽前四名",
@@ -10696,6 +10760,14 @@
       "word": "王楚钦说跟梁靖崑会师半决赛很开心",
       "onboard_time": 1739041692,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 6742,
+      "num": 110663,
+      "word": "徐梦桃的目标是在米兰卫冕",
+      "onboard_time": 1739291297,
+      "rank": 34,
       "category": "体育"
     },
     {
