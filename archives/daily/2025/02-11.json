@@ -1,10 +1,10 @@
 {
   "startTime": 1739204910696,
-  "endTime": 1739263302114,
+  "endTime": 1739265857925,
   "band_list": [
     {
-      "raw_hot": 3639303,
-      "num": 3639303,
+      "raw_hot": 4199194,
+      "num": 4199194,
       "word": "饺子偷偷改了哪吒3计划上映时间",
       "onboard_time": 1739261481,
       "rank": 0,
@@ -112,6 +112,22 @@
       "word": "李明德转发大学同学微博回应",
       "onboard_time": 1739234061,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1317695,
+      "num": 1317695,
+      "word": "黄金已经涨疯了",
+      "onboard_time": 1739261298,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 1230771,
+      "num": 1230771,
+      "word": "余莺儿扮演者直播称自己曾肇事逃逸",
+      "onboard_time": 1739263342,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -257,6 +273,14 @@
       "onboard_time": 1739249001,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 800941,
+      "num": 420542,
+      "word": "日本偶遇SHE旅行",
+      "onboard_time": 1739262681,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 776445,
@@ -491,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 464651,
+      "num": 385003,
+      "word": "百色去世女生父亲发声",
+      "onboard_time": 1739264361,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 427956,
       "num": 378879,
       "word": "哪吒2票房超86亿",
@@ -619,20 +651,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 349857,
-      "num": 267337,
-      "word": "日本偶遇SHE旅行",
-      "onboard_time": 1739262681,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 336765,
-      "num": 336765,
-      "word": "黄金已经涨疯了",
-      "onboard_time": 1739261298,
-      "rank": 31,
-      "category": "财经"
+      "raw_hot": 336640,
+      "num": 336640,
+      "word": "哪吒2再破89亿",
+      "onboard_time": 1739265141,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 335307,
@@ -681,6 +705,14 @@
       "onboard_time": 1739241741,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 308229,
+      "num": 308229,
+      "word": "湖南元宵晚会灯谜节目单",
+      "onboard_time": 1739262979,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 305720,
@@ -899,12 +931,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 234432,
+      "num": 349326,
+      "word": "前田陆归队",
+      "onboard_time": 1739262022,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231083,
       "num": 231083,
       "word": "回南天到底是啥天",
       "onboard_time": 1739240000,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 231006,
+      "num": 231006,
+      "word": "BBC报道哪吒2",
+      "onboard_time": 1739265141,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 227174,
@@ -1019,6 +1067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 210937,
+      "num": 210937,
+      "word": "魏晨原来这就是眉骨顶光",
+      "onboard_time": 1739264003,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210216,
       "num": 250945,
       "word": "仙台有树倒退式追剧",
@@ -1043,6 +1099,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 207929,
+      "num": 207929,
+      "word": "男子买金条5天就赚了2万多",
+      "onboard_time": 1739258060,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207783,
       "num": 207783,
       "word": "易烊千玺元宵晚会预告",
@@ -1051,28 +1115,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206412,
-      "num": 206412,
-      "word": "男子买金条5天就赚了2万多",
-      "onboard_time": 1739258060,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 204007,
       "num": 204007,
       "word": "相柳本命年第一劫",
       "onboard_time": 1739262800,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 203811,
-      "num": 203811,
-      "word": "前田陆归队",
-      "onboard_time": 1739262022,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 202895,
@@ -1291,12 +1339,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 180873,
+      "num": 180873,
+      "word": "五福临门",
+      "onboard_time": 1739180001,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180429,
       "num": 180429,
       "word": "马斯克报价974亿美元欲控制OpenAI",
       "onboard_time": 1739235681,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 180188,
+      "num": 180188,
+      "word": "为什么龙王家族都姓敖",
+      "onboard_time": 1739265021,
+      "rank": 37,
+      "category": "电影,科学科普"
     },
     {
       "raw_hot": 179813,
@@ -1313,14 +1377,6 @@
       "onboard_time": 1739248702,
       "rank": 37,
       "category": "财经"
-    },
-    {
-      "raw_hot": 179643,
-      "num": 179643,
-      "word": "湖南元宵晚会灯谜节目单",
-      "onboard_time": 1739262979,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 179463,
@@ -1401,6 +1457,14 @@
       "onboard_time": 1739193861,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172343,
+      "num": 172343,
+      "word": "三星S25价格",
+      "onboard_time": 1739265441,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 171109,
@@ -1499,6 +1563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165016,
+      "num": 165016,
+      "word": "g社镜头下的卢昱晓申有娜",
+      "onboard_time": 1739265622,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 164941,
       "num": 164941,
       "word": "星穹铁道",
@@ -1531,12 +1603,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161643,
+      "num": 161643,
+      "word": "胡烨韬自己淋过雨也要撕烂别人的伞",
+      "onboard_time": 1739264601,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159966,
       "num": 159966,
       "word": "NBA",
       "onboard_time": 1739244801,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159159,
+      "num": 159159,
+      "word": "乡干部被举报饮酒当地称5点半后喝的",
+      "onboard_time": 1739264121,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158646,
@@ -1643,6 +1731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143326,
+      "num": 143326,
+      "word": "谢广坤扮演者女儿控诉父亲",
+      "onboard_time": 1739252840,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142473,
       "num": 142473,
       "word": "湖人100分连线",
@@ -1673,6 +1769,14 @@
       "onboard_time": 1739247861,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 136663,
+      "num": 136663,
+      "word": "金饰升至每克886元",
+      "onboard_time": 1739265742,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 136560,
@@ -1859,6 +1963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111618,
+      "num": 428500,
+      "word": "一夜之间每克金价又暴涨10多元",
+      "onboard_time": 1739265081,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 109757,
       "num": 109757,
       "word": "藕饼",
@@ -1899,6 +2011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 105636,
+      "num": 389545,
+      "word": "AI播报0失误播音专业学生怎么办",
+      "onboard_time": 1739264361,
+      "rank": 14,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 103015,
       "num": 103015,
       "word": "25岁是人生的7点半",
@@ -1913,14 +2033,6 @@
       "onboard_time": 1739246121,
       "rank": 20,
       "category": "财经"
-    },
-    {
-      "raw_hot": 101910,
-      "num": 101910,
-      "word": "五福临门",
-      "onboard_time": 1739180001,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 101003,
@@ -2019,6 +2131,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87368,
+      "num": 315361,
+      "word": "金价上涨限制了金饰消费的积极性",
+      "onboard_time": 1739264721,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 84751,
+      "num": 343750,
+      "word": "小伙独自徒步秦岭失联10余天",
+      "onboard_time": 1739264601,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83547,
       "num": 162186,
       "word": "王一博向世界传递中国青年声音",
@@ -2089,6 +2217,14 @@
       "onboard_time": 1739199021,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 77435,
+      "num": 195496,
+      "word": "男子情人互转数十万妻子要回8.5万",
+      "onboard_time": 1739264003,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75673,
@@ -2371,6 +2507,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 33171,
+      "num": 121199,
+      "word": "单板滑雪有多少种起飞方式",
+      "onboard_time": 1739264601,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 33053,
       "num": 435889,
       "word": "中国女子空中技巧双人同步夺金",
@@ -2449,6 +2593,14 @@
       "onboard_time": 1739256021,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 23787,
+      "num": 1232143,
+      "word": "一组数据看春节期间经济活力",
+      "onboard_time": 1739265321,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23551,
