@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739239088981,
+  "endTime": 1739242366249,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -971,6 +971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1678690,
+      "num": 278138,
+      "word": "用DeepSeek买彩票真中奖了",
+      "onboard_time": 1739239039,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1676761,
       "num": 856485,
       "word": "种地吧返工直播",
@@ -1081,6 +1089,14 @@
       "onboard_time": 1738475118,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1554539,
+      "num": 374331,
+      "word": "主治医生娶了社牛脑瘫女孩辞职追随",
+      "onboard_time": 1739240779,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1545308,
@@ -1281,6 +1297,14 @@
       "onboard_time": 1738382598,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1411936,
+      "num": 369819,
+      "word": "留几手后悔离婚",
+      "onboard_time": 1739239819,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1401821,
@@ -2891,6 +2915,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 832443,
+      "num": 368245,
+      "word": "车主回应被李明德砸车",
+      "onboard_time": 1739240779,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 832296,
       "num": 832296,
       "word": "比亚迪智驾",
@@ -3441,6 +3473,14 @@
       "onboard_time": 1739101342,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 719386,
+      "num": 1115101,
+      "word": "哪吒2被偷票房损失惨重是影城非片方",
+      "onboard_time": 1739206696,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 718175,
@@ -7483,6 +7523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 380646,
+      "num": 380646,
+      "word": "虞书欣捂肚子是双轨剧情",
+      "onboard_time": 1739239880,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 380575,
       "num": 380575,
       "word": "中国香港队队员赢球后遭围殴",
@@ -9603,14 +9651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 289971,
-      "num": 289971,
-      "word": "哪吒2被偷票房损失惨重是影城非片方",
-      "onboard_time": 1739206696,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 289931,
       "num": 274060,
       "word": "影史票房前5有两个哪吒",
@@ -9953,14 +9993,6 @@
       "onboard_time": 1739001091,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 278138,
-      "num": 278138,
-      "word": "用DeepSeek买彩票真中奖了",
-      "onboard_time": 1739239039,
-      "rank": 21,
-      "category": "互联网"
     },
     {
       "raw_hot": 278104,
@@ -11411,6 +11443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 239840,
+      "num": 239840,
+      "word": "什么样的男人才是结婚潜力股",
+      "onboard_time": 1739241380,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 238959,
       "num": 346656,
       "word": "王者新英雄空空儿即将上线体验服",
@@ -11729,6 +11769,14 @@
       "onboard_time": 1738665863,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 231083,
+      "num": 231083,
+      "word": "回南天到底是啥天",
+      "onboard_time": 1739240000,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 230904,
@@ -16779,6 +16827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 176644,
+      "num": 176644,
+      "word": "动物园回应268元可抱撸小狮子",
+      "onboard_time": 1739241440,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176537,
       "num": 176537,
       "word": "福气码",
@@ -16835,12 +16891,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176021,
+      "num": 176021,
+      "word": "孙颖莎刷新WTT最高积分纪录",
+      "onboard_time": 1739241380,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175835,
       "num": 175835,
       "word": "欧阳妮妮想再生两个小孩",
       "onboard_time": 1739169860,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175682,
+      "num": 175682,
+      "word": "女子称给差评后被商家找到父亲单位",
+      "onboard_time": 1739238618,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175622,
@@ -17313,6 +17385,14 @@
       "onboard_time": 1738484297,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171012,
+      "num": 176663,
+      "word": "社牛脑瘫女孩结识主治医生当老公",
+      "onboard_time": 1739240779,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170641,
@@ -18659,6 +18739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158275,
+      "num": 158275,
+      "word": "河南通报20亩麦苗被铲除村干部停职",
+      "onboard_time": 1739241741,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158256,
       "num": 158256,
       "word": "赵丽颖新大片",
@@ -19379,14 +19467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151311,
-      "num": 151311,
-      "word": "女子称给差评后被商家找到父亲单位",
-      "onboard_time": 1739238618,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 151164,
       "num": 174832,
       "word": "林诗栋排名超越王楚钦",
@@ -19491,6 +19571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150454,
+      "num": 176698,
+      "word": "88岁王德顺已坚持健身近40年",
+      "onboard_time": 1739241200,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 150406,
       "num": 210158,
       "word": "湖人管理层不满浓眉",
@@ -19531,6 +19619,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 150138,
+      "num": 377072,
+      "word": "南方人家里又变水帘洞了",
+      "onboard_time": 1739241200,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150113,
       "num": 150113,
       "word": "江一燕浪姐6出发状态",
@@ -19553,6 +19649,14 @@
       "onboard_time": 1738732166,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149850,
+      "num": 149850,
+      "word": "陈哲远直接扑梁洁腿上了",
+      "onboard_time": 1739239880,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 149824,
@@ -20331,6 +20435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 143389,
+      "num": 143389,
+      "word": "当代年轻人把麻将玩出了新花样",
+      "onboard_time": 1739240779,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143383,
       "num": 477760,
       "word": "张泽禹把微博当朋友圈发",
@@ -20659,6 +20771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140310,
+      "num": 140310,
+      "word": "陈梦从冠军到冠军",
+      "onboard_time": 1739242040,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140228,
       "num": 228489,
       "word": "林孝埈回应5000米接力被犯规",
@@ -20913,6 +21033,14 @@
       "onboard_time": 1738670725,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 137799,
+      "num": 137799,
+      "word": "陈梦说我永远热爱乒乓球",
+      "onboard_time": 1739241622,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 137746,
@@ -21521,6 +21649,14 @@
       "onboard_time": 1739095759,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 131401,
+      "num": 131401,
+      "word": "梁靖崑世界排名上升至第3",
+      "onboard_time": 1739240300,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 131209,
@@ -23195,6 +23331,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 114866,
+      "num": 114866,
+      "word": "蒯曼世界排名上升至第7",
+      "onboard_time": 1739240421,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114841,
       "num": 114841,
       "word": "外国人看唐探1900的反应belike",
@@ -23387,6 +23531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112776,
+      "num": 112776,
+      "word": "四川山体滑坡现场子弟兵昼夜搜救",
+      "onboard_time": 1739242101,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112664,
       "num": 491580,
       "word": "打春",
@@ -23505,6 +23657,14 @@
       "onboard_time": 1738821746,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 112002,
+      "num": 112002,
+      "word": "湖人vs爵士",
+      "onboard_time": 1739241741,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 111985,
@@ -27737,6 +27897,14 @@
       "onboard_time": 1739191342,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52794,
+      "num": 180484,
+      "word": "朴孝敏将4月结婚",
+      "onboard_time": 1739242221,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 52656,
