@@ -1,0 +1,410 @@
+{
+  "runTime": 1739238108000,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 818858,
+        "num": 1131017,
+        "word": "央视直播时一只小狐狸抢镜",
+        "onboard_time": 1739199321,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 811326,
+        "num": 811326,
+        "word": "2024年结婚登记数再度下探原因为何",
+        "onboard_time": 1739235261,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21775,
+        "num": 712768,
+        "word": "超2000万人申请国补买手机等",
+        "onboard_time": 1739116460,
+        "rank": 2,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 813316,
+        "num": 710577,
+        "word": "霍启刚回应中国香港队员赛后被围殴",
+        "onboard_time": 1739233775,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 645713,
+        "num": 645713,
+        "word": "老外看完哪吒2称中国动画杀疯了",
+        "onboard_time": 1739203817,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 753277,
+        "num": 644963,
+        "word": "百色教育局通报一高中教师被举报",
+        "onboard_time": 1739206336,
+        "rank": 5,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 565452,
+        "num": 565452,
+        "word": "美一机场两飞机在地面发生碰撞",
+        "onboard_time": 1739233159,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 548342,
+        "num": 548342,
+        "word": "买到哪吒2手写票的观众发声",
+        "onboard_time": 1739215810,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 526314,
+        "num": 526314,
+        "word": "百色被举报教师停职处理",
+        "onboard_time": 1739210112,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163243,
+        "num": 525779,
+        "word": "江苏一学校取消元宵节报到",
+        "onboard_time": 1739234481,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1384169,
+        "num": 524365,
+        "word": "李明德转发大学同学微博回应",
+        "onboard_time": 1739234061,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 859930,
+        "num": 522282,
+        "word": "谢娜报平安",
+        "onboard_time": 1739230217,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 766194,
+        "num": 521631,
+        "word": "孟子义赴柬埔寨拍摄网剧",
+        "onboard_time": 1739232678,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 600522,
+        "num": 520136,
+        "word": "特朗普宣布要重回塑料时代",
+        "onboard_time": 1739233100,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103720,
+        "num": 518852,
+        "word": "潘展乐说被徐梦桃的经历鼓励到",
+        "onboard_time": 1739237241,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 545951,
+        "num": 516669,
+        "word": "男子半夜烧毁前女友烟酒店",
+        "onboard_time": 1739232619,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 516607,
+        "num": 516607,
+        "word": "饺子希望采访媒体给自己打马赛克",
+        "onboard_time": 1739234781,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 467347,
+        "num": 467347,
+        "word": "百色祈福高中唐毓文",
+        "onboard_time": 1739202498,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 398277,
+        "num": 398277,
+        "word": "DeepSeek涨价了",
+        "onboard_time": 1739206277,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 389167,
+        "num": 389167,
+        "word": "无量仙翁拐杖变木龙特效做了一年多",
+        "onboard_time": 1739234721,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 335307,
+        "num": 335307,
+        "word": "江西最强钉子户没料到公路改道",
+        "onboard_time": 1739199321,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291450,
+        "num": 291450,
+        "word": "特朗普说霉霉很难过",
+        "onboard_time": 1739233699,
+        "rank": 21,
+        "category": "国际时政,艺人"
+      },
+      {
+        "raw_hot": 265648,
+        "num": 265648,
+        "word": "留几手葛夕民政局排队",
+        "onboard_time": 1739189781,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242243,
+        "num": 242243,
+        "word": "父母给的年货被丢弃疑似当事人回应",
+        "onboard_time": 1739199380,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182014,
+        "num": 235612,
+        "word": "东契奇湖人首秀",
+        "onboard_time": 1739234061,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234268,
+        "num": 234268,
+        "word": "虞书欣片场捂肚子",
+        "onboard_time": 1739233340,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226987,
+        "num": 226987,
+        "word": "哪吒2被偷票房损失惨重是影城非片方",
+        "onboard_time": 1739206696,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 219149,
+        "num": 219149,
+        "word": "千万不要学哪吒去收土拨鼠",
+        "onboard_time": 1739192180,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187263,
+        "num": 218822,
+        "word": "哪吒版汤圆太可爱了",
+        "onboard_time": 1739232498,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165291,
+        "num": 218766,
+        "word": "哪吒",
+        "onboard_time": 1739192963,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 229563,
+        "num": 218761,
+        "word": "韩国网友喊话林孝埈重回韩国籍",
+        "onboard_time": 1739193261,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218731,
+        "num": 218731,
+        "word": "脆薯饼成为麦当劳全日制员工",
+        "onboard_time": 1739233039,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 201483,
+        "num": 201483,
+        "word": "林诗栋8025分世排第一",
+        "onboard_time": 1739235801,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185287,
+        "num": 185287,
+        "word": "美两飞机地面碰撞至少1人遇难",
+        "onboard_time": 1739233459,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 178982,
+        "num": 178982,
+        "word": "马斯克报价974亿美元欲控制OpenAI",
+        "onboard_time": 1739235681,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 172799,
+        "num": 172799,
+        "word": "女子10年前买1千克黄金现在净赚30多万",
+        "onboard_time": 1739193861,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166291,
+        "num": 166291,
+        "word": "孙颖莎11300分世排第一",
+        "onboard_time": 1739235261,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158531,
+        "num": 158531,
+        "word": "陈哲远梁洁你俩这是剧宣还是官宣",
+        "onboard_time": 1739229735,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145068,
+        "num": 145068,
+        "word": "大家好我是雪梅",
+        "onboard_time": 1739208014,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145051,
+        "num": 145051,
+        "word": "特朗普要求停产1美分硬币",
+        "onboard_time": 1739236399,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142795,
+        "num": 142795,
+        "word": "赵露思与被家暴16次当事人小谢合影",
+        "onboard_time": 1739187682,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150178,
+        "num": 140003,
+        "word": "QQ音乐也接入DeepSeek了",
+        "onboard_time": 1739235681,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 135697,
+        "num": 135697,
+        "word": "李明德大学同学发文",
+        "onboard_time": 1739237302,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133866,
+        "num": 133866,
+        "word": "时代少年团非洲出发",
+        "onboard_time": 1739208613,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132801,
+        "num": 132801,
+        "word": "哪吒2票房超86亿",
+        "onboard_time": 1739199202,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124792,
+        "num": 124792,
+        "word": "权志龙新专辑",
+        "onboard_time": 1739237840,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115722,
+        "num": 115722,
+        "word": "特效团队遗憾四海龙宫坍塌镜头删减",
+        "onboard_time": 1739196982,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 106984,
+        "num": 106984,
+        "word": "陈丽君把非遗穿到法国",
+        "onboard_time": 1739235382,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106194,
+        "num": 106194,
+        "word": "小谢称至今未收到一分钱抚养费",
+        "onboard_time": 1739188701,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98459,
+        "num": 98459,
+        "word": "印度23岁女子婚礼台上跳舞猝死",
+        "onboard_time": 1739196262,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪同梦#"
+    }
+  }
+}

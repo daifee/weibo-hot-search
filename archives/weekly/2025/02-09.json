@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739230587741,
+  "endTime": 1739238108000,
   "band_list": [
     {
       "raw_hot": 10037874,
@@ -257,6 +257,14 @@
       "onboard_time": 1739163322,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1384169,
+      "num": 524365,
+      "word": "李明德转发大学同学微博回应",
+      "onboard_time": 1739234061,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1359989,
@@ -635,6 +643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 859930,
+      "num": 522282,
+      "word": "谢娜报平安",
+      "onboard_time": 1739230217,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 857613,
       "num": 857613,
       "word": "陈冲回应在美读书时被性侵",
@@ -731,12 +747,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 818858,
+      "num": 1131017,
+      "word": "央视直播时一只小狐狸抢镜",
+      "onboard_time": 1739199321,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 813795,
       "num": 813795,
       "word": "徐艺洋也在等刘小玲长大",
       "onboard_time": 1739102543,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 813316,
+      "num": 710577,
+      "word": "霍启刚回应中国香港队员赛后被围殴",
+      "onboard_time": 1739233775,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 811326,
+      "num": 811326,
+      "word": "2024年结婚登记数再度下探原因为何",
+      "onboard_time": 1739235261,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 808851,
@@ -769,6 +809,14 @@
       "onboard_time": 1739082020,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 766194,
+      "num": 521631,
+      "word": "孟子义赴柬埔寨拍摄网剧",
+      "onboard_time": 1739232678,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 763237,
@@ -1027,6 +1075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 645713,
+      "num": 645713,
+      "word": "老外看完哪吒2称中国动画杀疯了",
+      "onboard_time": 1739203817,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 644212,
       "num": 644212,
       "word": "赵露思炫崽狂魔",
@@ -1115,12 +1171,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 596188,
-      "num": 596188,
-      "word": "老外看完哪吒2称中国动画杀疯了",
-      "onboard_time": 1739203817,
-      "rank": 31,
-      "category": "电影"
+      "raw_hot": 600522,
+      "num": 520136,
+      "word": "特朗普宣布要重回塑料时代",
+      "onboard_time": 1739233100,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 591423,
@@ -1203,20 +1259,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 565452,
+      "num": 565452,
+      "word": "美一机场两飞机在地面发生碰撞",
+      "onboard_time": 1739233159,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 563789,
       "num": 308160,
       "word": "11岁小孩姐造假人逃避背书",
       "onboard_time": 1739172921,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 559788,
-      "num": 559788,
-      "word": "央视直播时一只小狐狸抢镜",
-      "onboard_time": 1739199321,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 557839,
@@ -1243,6 +1299,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 548342,
+      "num": 548342,
+      "word": "买到哪吒2手写票的观众发声",
+      "onboard_time": 1739215810,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 547202,
       "num": 545331,
       "word": "陈乔恩回应被指虚伪",
@@ -1257,6 +1321,14 @@
       "onboard_time": 1739187082,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 545951,
+      "num": 516669,
+      "word": "男子半夜烧毁前女友烟酒店",
+      "onboard_time": 1739232619,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 545420,
@@ -1323,6 +1395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 526314,
+      "num": 526314,
+      "word": "百色被举报教师停职处理",
+      "onboard_time": 1739210112,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 523140,
       "num": 523140,
       "word": "李思思 浪姐6",
@@ -1345,6 +1425,14 @@
       "onboard_time": 1739169200,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 516607,
+      "num": 516607,
+      "word": "饺子希望采访媒体给自己打马赛克",
+      "onboard_time": 1739234781,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 516550,
@@ -1531,6 +1619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 467347,
+      "num": 467347,
+      "word": "百色祈福高中唐毓文",
+      "onboard_time": 1739202498,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 467311,
       "num": 467311,
       "word": "掌心闹鬼甄嬛传闹鬼",
@@ -1619,14 +1715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 433192,
-      "num": 433192,
-      "word": "百色祈福高中唐毓文",
-      "onboard_time": 1739202498,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 432406,
       "num": 428233,
       "word": "霉霉被狂嘘淡定笑了笑",
@@ -1657,14 +1745,6 @@
       "onboard_time": 1739196262,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 415931,
-      "num": 415931,
-      "word": "买到哪吒2手写票的观众发声",
-      "onboard_time": 1739215810,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 413496,
@@ -1747,6 +1827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 398277,
+      "num": 398277,
+      "word": "DeepSeek涨价了",
+      "onboard_time": 1739206277,
+      "rank": 22,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 398043,
       "num": 273501,
       "word": "女子10年前买1千克黄金现在净赚30多万",
@@ -1776,6 +1864,14 @@
       "word": "哪吒2",
       "onboard_time": 1739026343,
       "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 389167,
+      "num": 389167,
+      "word": "无量仙翁拐杖变木龙特效做了一年多",
+      "onboard_time": 1739234721,
+      "rank": 19,
       "category": "电影"
     },
     {
@@ -2009,6 +2105,14 @@
       "onboard_time": 1739148621,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 335307,
+      "num": 335307,
+      "word": "江西最强钉子户没料到公路改道",
+      "onboard_time": 1739199321,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 329167,
@@ -2289,6 +2393,14 @@
       "onboard_time": 1739172380,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 291450,
+      "num": 291450,
+      "word": "特朗普说霉霉很难过",
+      "onboard_time": 1739233699,
+      "rank": 21,
+      "category": "国际时政,艺人"
     },
     {
       "raw_hot": 290333,
@@ -2699,6 +2811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234268,
+      "num": 234268,
+      "word": "虞书欣片场捂肚子",
+      "onboard_time": 1739233340,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 234180,
       "num": 234180,
       "word": "10万元钻石高铁上丢失乘警6分钟找回",
@@ -2827,6 +2947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 226987,
+      "num": 226987,
+      "word": "哪吒2被偷票房损失惨重是影城非片方",
+      "onboard_time": 1739206696,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 226287,
       "num": 338156,
       "word": "年货扔垃圾箱疑似当事人回应",
@@ -2915,14 +3043,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 221322,
-      "num": 213205,
-      "word": "江西最强钉子户没料到公路改道",
-      "onboard_time": 1739199321,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 220705,
       "num": 226798,
       "word": "饺子身材依旧好",
@@ -2961,6 +3081,14 @@
       "onboard_time": 1739149820,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218731,
+      "num": 218731,
+      "word": "脆薯饼成为麦当劳全日制员工",
+      "onboard_time": 1739233039,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 218687,
@@ -3368,6 +3496,14 @@
       "word": "白大拿谈张伟丽对战苏亚雷斯",
       "onboard_time": 1739079260,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 201483,
+      "num": 201483,
+      "word": "林诗栋8025分世排第一",
+      "onboard_time": 1739235801,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -3835,6 +3971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187263,
+      "num": 218822,
+      "word": "哪吒版汤圆太可爱了",
+      "onboard_time": 1739232498,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 187151,
       "num": 187151,
       "word": "女人搞暧昧男人搞雄竞",
@@ -3883,20 +4027,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 185410,
-      "num": 185410,
-      "word": "DeepSeek涨价了",
-      "onboard_time": 1739206277,
-      "rank": 22,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 185377,
       "num": 185377,
       "word": "孙颖莎说展现最好自己比冠军更重要",
       "onboard_time": 1739104883,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185287,
+      "num": 185287,
+      "word": "美两飞机地面碰撞至少1人遇难",
+      "onboard_time": 1739233459,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 185191,
@@ -3953,6 +4097,14 @@
       "onboard_time": 1739182520,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 182014,
+      "num": 235612,
+      "word": "东契奇湖人首秀",
+      "onboard_time": 1739234061,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 181907,
@@ -4017,6 +4169,14 @@
       "onboard_time": 1739191642,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178982,
+      "num": 178982,
+      "word": "马斯克报价974亿美元欲控制OpenAI",
+      "onboard_time": 1739235681,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 178707,
@@ -4355,6 +4515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 166291,
+      "num": 166291,
+      "word": "孙颖莎11300分世排第一",
+      "onboard_time": 1739235261,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166006,
       "num": 166006,
       "word": "KPL",
@@ -4401,6 +4569,14 @@
       "onboard_time": 1739150300,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 163243,
+      "num": 525779,
+      "word": "江苏一学校取消元宵节报到",
+      "onboard_time": 1739234481,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163017,
@@ -4521,6 +4697,14 @@
       "onboard_time": 1739100380,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158531,
+      "num": 158531,
+      "word": "陈哲远梁洁你俩这是剧宣还是官宣",
+      "onboard_time": 1739229735,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 158407,
@@ -4787,6 +4971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150178,
+      "num": 140003,
+      "word": "QQ音乐也接入DeepSeek了",
+      "onboard_time": 1739235681,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 150113,
       "num": 150113,
       "word": "江一燕浪姐6出发状态",
@@ -4921,6 +5113,22 @@
       "onboard_time": 1739168301,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145068,
+      "num": 187710,
+      "word": "大家好我是雪梅",
+      "onboard_time": 1739208014,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 145051,
+      "num": 145051,
+      "word": "特朗普要求停产1美分硬币",
+      "onboard_time": 1739236399,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 144984,
@@ -5113,6 +5321,14 @@
       "onboard_time": 1739091260,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135697,
+      "num": 135697,
+      "word": "李明德大学同学发文",
+      "onboard_time": 1739237302,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 135524,
@@ -5321,6 +5537,14 @@
       "onboard_time": 1739035216,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124792,
+      "num": 124792,
+      "word": "权志龙新专辑",
+      "onboard_time": 1739237840,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 124782,
@@ -5707,6 +5931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106984,
+      "num": 106984,
+      "word": "陈丽君把非遗穿到法国",
+      "onboard_time": 1739235382,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 106843,
       "num": 306527,
       "word": "高亭宇虽有失误仍彰显绝对实力",
@@ -5763,6 +5995,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 103720,
+      "num": 518852,
+      "word": "潘展乐说被徐梦桃的经历鼓励到",
+      "onboard_time": 1739237241,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103612,
       "num": 103612,
       "word": "余承恩王子璇好甜",
@@ -5801,14 +6041,6 @@
       "onboard_time": 1739115201,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 101656,
-      "num": 197374,
-      "word": "百色被举报教师停职处理",
-      "onboard_time": 1739210112,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101604,
@@ -5979,14 +6211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 87652,
-      "num": 87652,
-      "word": "哪吒2被偷票房损失惨重是影城非片方",
-      "onboard_time": 1739206696,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 87198,
       "num": 118637,
       "word": "邓为李沁 风月不相关",
@@ -6017,14 +6241,6 @@
       "onboard_time": 1739115860,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 84477,
-      "num": 84477,
-      "word": "陈哲远梁洁你俩这是剧宣还是官宣",
-      "onboard_time": 1739229735,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 82856,
@@ -6361,14 +6577,6 @@
       "onboard_time": 1739187082,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 60685,
-      "num": 187710,
-      "word": "大家好我是雪梅",
-      "onboard_time": 1739208014,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 60535,
@@ -6825,14 +7033,6 @@
       "onboard_time": 1739197941,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 35146,
-      "num": 137379,
-      "word": "谢娜报平安",
-      "onboard_time": 1739230217,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 35099,
