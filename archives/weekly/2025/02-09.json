@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739270498236,
+  "endTime": 1739272768784,
   "band_list": [
     {
       "raw_hot": 10037874,
@@ -587,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1091779,
+      "num": 1091779,
+      "word": "金包银哪吒手镯卖爆了",
+      "onboard_time": 1739270242,
+      "rank": 42,
+      "category": "民生新闻,电影"
+    },
+    {
       "raw_hot": 1090451,
       "num": 1090451,
       "word": "男孩被卖时亲眼看见养父母付了200元",
@@ -715,6 +723,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 986210,
+      "num": 986210,
+      "word": "全智贤被追缴2000多万韩元税款",
+      "onboard_time": 1739268381,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 984387,
       "num": 984387,
       "word": "哪吒2悉尼上映数百观众等1小时没看成",
@@ -776,14 +792,6 @@
       "word": "陈乔恩打电波脸肿了一个月",
       "onboard_time": 1739078301,
       "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 949548,
-      "num": 949548,
-      "word": "全智贤被追缴2000多万韩元税款",
-      "onboard_time": 1739268381,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -1041,6 +1049,14 @@
       "onboard_time": 1739059336,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 784350,
+      "num": 613898,
+      "word": "美队4悉尼排片量远高于哪吒2",
+      "onboard_time": 1739270540,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 780838,
@@ -2059,6 +2075,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 443330,
+      "num": 416864,
+      "word": "黄晓明带父亲重走当年参军路",
+      "onboard_time": 1739268081,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 439237,
       "num": 439237,
       "word": "金钟仁退伍",
@@ -2081,6 +2105,14 @@
       "onboard_time": 1739267901,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 435636,
+      "num": 398985,
+      "word": "内娱发疯元年",
+      "onboard_time": 1739269821,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 434164,
@@ -2136,6 +2168,30 @@
       "word": "印度23岁女子婚礼台上跳舞猝死",
       "onboard_time": 1739196262,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 420684,
+      "num": 449652,
+      "word": "WTT公布改革措施",
+      "onboard_time": 1739268141,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 419987,
+      "num": 391255,
+      "word": "哪吒2票房破90亿",
+      "onboard_time": 1739272700,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 419783,
+      "num": 419783,
+      "word": "小伙戒碳水减肥暴瘦40斤后秃了",
+      "onboard_time": 1739270902,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -2491,6 +2547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 345943,
+      "num": 421282,
+      "word": "WTT修改强制参赛规定",
+      "onboard_time": 1739268801,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 343975,
       "num": 350180,
       "word": "掌心 武则天",
@@ -2721,14 +2785,6 @@
       "onboard_time": 1739033955,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 313469,
-      "num": 449652,
-      "word": "WTT公布改革措施",
-      "onboard_time": 1739268141,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 311172,
@@ -2987,6 +3043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 281100,
+      "num": 385685,
+      "word": "声生不息金曲盛典探班直播",
+      "onboard_time": 1739270302,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 281031,
       "num": 281031,
       "word": "未定事件簿",
@@ -3195,6 +3259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 264346,
+      "num": 264346,
+      "word": "五福临门",
+      "onboard_time": 1739022862,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 263971,
       "num": 263971,
       "word": "你的时髦小姨回家过年了",
@@ -3321,14 +3393,6 @@
       "onboard_time": 1739174721,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 252294,
-      "num": 222147,
-      "word": "黄晓明带父亲重走当年参军路",
-      "onboard_time": 1739268081,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 250288,
@@ -3497,14 +3561,6 @@
       "onboard_time": 1739247383,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 238373,
-      "num": 233361,
-      "word": "五福临门",
-      "onboard_time": 1739022862,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 237741,
@@ -3681,6 +3737,14 @@
       "onboard_time": 1739152100,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 227970,
+      "num": 227970,
+      "word": "哪吒2香港定档",
+      "onboard_time": 1739271621,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 227694,
@@ -4275,6 +4339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205745,
+      "num": 156490,
+      "word": "哪吒2各省市票房排名",
+      "onboard_time": 1739271681,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 205742,
       "num": 228091,
       "word": "林诗栋夺冠获54.7万奖金",
@@ -4616,6 +4688,14 @@
       "word": "逐玉",
       "onboard_time": 1739110761,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 197438,
+      "num": 197438,
+      "word": "为什么恶人多拜佛",
+      "onboard_time": 1739271501,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -5347,14 +5427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178720,
-      "num": 178720,
-      "word": "金包银哪吒手镯卖爆了",
-      "onboard_time": 1739270242,
-      "rank": 42,
-      "category": "民生新闻,电影"
-    },
-    {
       "raw_hot": 178707,
       "num": 383097,
       "word": "北方这周元宵节当天体感最冷",
@@ -5401,14 +5473,6 @@
       "onboard_time": 1739161643,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 177960,
-      "num": 421282,
-      "word": "WTT修改强制参赛规定",
-      "onboard_time": 1739268801,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 177717,
@@ -5876,7 +5940,7 @@
     },
     {
       "raw_hot": 164867,
-      "num": 164867,
+      "num": 278992,
       "word": "奥运冠军获得大满贯冠军赛参赛资格",
       "onboard_time": 1739269461,
       "rank": 45,
@@ -5888,14 +5952,6 @@
       "word": "吴姗儒代班小姐不熙娣被质疑",
       "onboard_time": 1739169020,
       "rank": 49,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 164542,
-      "num": 164542,
-      "word": "声生不息金曲盛典探班直播",
-      "onboard_time": 1739270302,
-      "rank": 45,
       "category": "综艺"
     },
     {
@@ -5939,6 +5995,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 163245,
+      "num": 163245,
+      "word": "Hanni拒绝ADOR签证续签",
+      "onboard_time": 1739270661,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163017,
       "num": 163017,
       "word": "女频权谋",
@@ -5979,6 +6043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161684,
+      "num": 161684,
+      "word": "特朗普希望乌提供5000亿美元稀土换援助",
+      "onboard_time": 1739270481,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 161512,
       "num": 161512,
       "word": "原来男女生在送礼上存在思维差异",
@@ -6009,6 +6081,14 @@
       "onboard_time": 1739150300,
       "rank": 36,
       "category": "国际时政,体育"
+    },
+    {
+      "raw_hot": 160742,
+      "num": 154322,
+      "word": "金价上涨三大原因曝光",
+      "onboard_time": 1739271922,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 159966,
@@ -6057,6 +6137,14 @@
       "onboard_time": 1739150720,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159098,
+      "num": 159098,
+      "word": "董思成演技",
+      "onboard_time": 1739271321,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 158918,
@@ -6835,6 +6923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136317,
+      "num": 136317,
+      "word": "三星s25",
+      "onboard_time": 1739271741,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 136178,
       "num": 136178,
       "word": "前冬奥冠军说韩国短道素质太次了",
@@ -7147,6 +7243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124708,
+      "num": 124708,
+      "word": "中芯国际2024年净利润同比下降23.3%",
+      "onboard_time": 1739272581,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 124287,
       "num": 481365,
       "word": "李心鹏金牌",
@@ -7251,6 +7355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120065,
+      "num": 120065,
+      "word": "女子疑遭丈夫灌面汤呛死家属求重判",
+      "onboard_time": 1739271381,
+      "rank": 48,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 120007,
       "num": 120007,
       "word": "云合",
@@ -7313,6 +7425,22 @@
       "onboard_time": 1739021123,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119106,
+      "num": 119106,
+      "word": "浣碧也是好起来都骂上甄远道了",
+      "onboard_time": 1739271741,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 118721,
+      "num": 408665,
+      "word": "男子楼上扔烟头引爆楼下炮摊",
+      "onboard_time": 1739272160,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118676,
@@ -7649,6 +7777,14 @@
       "onboard_time": 1739114302,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 104662,
+      "num": 419919,
+      "word": "跟你裸聊的可能是抠脚大汉",
+      "onboard_time": 1739271501,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104570,
@@ -8595,14 +8731,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 51586,
-      "num": 228782,
-      "word": "内娱发疯元年",
-      "onboard_time": 1739269821,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 51449,
       "num": 440620,
       "word": "高亭宇第二金",
@@ -8817,6 +8945,14 @@
       "onboard_time": 1739158762,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 41052,
+      "num": 163331,
+      "word": "徐梦桃说亚冬会表现非常圆满",
+      "onboard_time": 1739272700,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 40653,
@@ -9729,6 +9865,14 @@
       "onboard_time": 1739056755,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 7641,
+      "num": 383086,
+      "word": "宁忠岩说人生最大的梦想就是升国旗",
+      "onboard_time": 1739271922,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 7250,
