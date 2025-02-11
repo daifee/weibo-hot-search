@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739247972758,
+  "endTime": 1739248808876,
   "band_list": [
     {
       "raw_hot": 10037874,
@@ -19,6 +19,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 2924632,
+      "num": 2709219,
+      "word": "姚笛复出",
+      "onboard_time": 1739246540,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2863170,
       "num": 2863170,
       "word": "曝哪吒2被偷票房损失几千万",
@@ -33,14 +41,6 @@
       "onboard_time": 1739079502,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2709219,
-      "num": 2709219,
-      "word": "姚笛复出",
-      "onboard_time": 1739246540,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 2371724,
@@ -225,6 +225,14 @@
       "onboard_time": 1739239039,
       "rank": 21,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1647010,
+      "num": 1183818,
+      "word": "百色性侵事件女生好友发声",
+      "onboard_time": 1739245761,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1596151,
@@ -419,14 +427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1183818,
-      "num": 1183818,
-      "word": "百色性侵事件女生好友发声",
-      "onboard_time": 1739245761,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1180692,
       "num": 1188910,
       "word": "2024年结婚登记数再度下探原因为何",
@@ -553,6 +553,14 @@
       "onboard_time": 1739150958,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1041444,
+      "num": 428318,
+      "word": "演员请就位 发疯",
+      "onboard_time": 1739246601,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 1033363,
@@ -1363,14 +1371,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 566085,
-      "num": 428318,
-      "word": "演员请就位 发疯",
-      "onboard_time": 1739246601,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 565452,
       "num": 565452,
       "word": "美一机场两飞机在地面发生碰撞",
@@ -1843,6 +1843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 436554,
+      "num": 336989,
+      "word": "哪吒2票房超87亿",
+      "onboard_time": 1739244980,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 434164,
       "num": 434164,
       "word": "林孝埈趁乱离开赛场",
@@ -2161,14 +2169,6 @@
       "onboard_time": 1739060117,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 360270,
-      "num": 323445,
-      "word": "哪吒2票房超87亿",
-      "onboard_time": 1739244980,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 355896,
@@ -2755,6 +2755,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 271768,
+      "num": 336610,
+      "word": "多地争给哪吒上户口",
+      "onboard_time": 1739246241,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 271436,
       "num": 271436,
       "word": "邓为海棠式演技",
@@ -2793,14 +2801,6 @@
       "onboard_time": 1739156780,
       "rank": 23,
       "category": "电影,游戏"
-    },
-    {
-      "raw_hot": 266664,
-      "num": 336610,
-      "word": "多地争给哪吒上户口",
-      "onboard_time": 1739246241,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 265260,
@@ -3043,6 +3043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 238898,
+      "num": 298404,
+      "word": "留几手说早知道我也不离了",
+      "onboard_time": 1739247383,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237741,
       "num": 225365,
       "word": "终于有剧把镜头对准施暴者了",
@@ -3073,6 +3081,14 @@
       "onboard_time": 1739243242,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 234957,
+      "num": 271890,
+      "word": "王楚钦的控球术",
+      "onboard_time": 1739247202,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 234953,
@@ -3459,6 +3475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213967,
+      "num": 213967,
+      "word": "华晨宇 今天的我叫花开喝",
+      "onboard_time": 1739247622,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213702,
       "num": 213702,
       "word": "CZ680航班故障取消致百余人延误",
@@ -3497,6 +3521,14 @@
       "onboard_time": 1739241440,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211673,
+      "num": 319665,
+      "word": "徐开骋 演员请就位",
+      "onboard_time": 1739248042,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 211617,
@@ -3545,6 +3577,30 @@
       "onboard_time": 1739064439,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210216,
+      "num": 250945,
+      "word": "仙台有树倒退式追剧",
+      "onboard_time": 1739247922,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 209861,
+      "num": 209861,
+      "word": "张元英惊吓小仓鼠",
+      "onboard_time": 1739248221,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 209563,
+      "num": 209563,
+      "word": "王楚钦原本就是多彩且鲜活的",
+      "onboard_time": 1739248523,
+      "rank": 36,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 208770,
@@ -3715,14 +3771,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 203444,
-      "num": 203444,
-      "word": "华晨宇 今天的我叫花开喝",
-      "onboard_time": 1739247622,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 203365,
       "num": 203365,
       "word": "山东一交警被无证司机冲撞不幸牺牲",
@@ -3809,6 +3857,14 @@
       "onboard_time": 1739235801,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201138,
+      "num": 201138,
+      "word": "董思成 丹凤眼",
+      "onboard_time": 1739248282,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 200987,
@@ -4123,27 +4179,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 192539,
-      "num": 240700,
-      "word": "留几手说早知道我也不离了",
-      "onboard_time": 1739247383,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 192519,
       "num": 192519,
       "word": "刘少林回应接力摘铜",
       "onboard_time": 1739088801,
       "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 192518,
-      "num": 192518,
-      "word": "王楚钦的控球术",
-      "onboard_time": 1739247202,
-      "rank": 45,
       "category": "体育"
     },
     {
@@ -4331,6 +4371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187517,
+      "num": 187517,
+      "word": "汪苏泷 准备好一起给鸟巢充电了吗",
+      "onboard_time": 1739248101,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 187263,
       "num": 218822,
       "word": "哪吒版汤圆太可爱了",
@@ -4457,6 +4505,14 @@
       "onboard_time": 1739161702,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 182806,
+      "num": 466508,
+      "word": "国际金价尚无停止上涨依据",
+      "onboard_time": 1739247501,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 182547,
@@ -4827,6 +4883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170603,
+      "num": 299121,
+      "word": "林孝埈感谢尔滨",
+      "onboard_time": 1739246721,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170291,
       "num": 237322,
       "word": "高亭宇得到金牌后累吐了",
@@ -4931,20 +4995,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167794,
+      "num": 167794,
+      "word": "只有杜海涛一个人悲伤的故事",
+      "onboard_time": 1739248762,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167678,
       "num": 167678,
       "word": "外国网友要把奥斯卡颁给易烊千玺",
       "onboard_time": 1739112504,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 167200,
-      "num": 299121,
-      "word": "林孝埈感谢尔滨",
-      "onboard_time": 1739246721,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 166291,
@@ -6435,6 +6499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109351,
+      "num": 202316,
+      "word": "这波金价缘何上涨",
+      "onboard_time": 1739248702,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 109168,
       "num": 193147,
       "word": "美国国际开发署被摘牌",
@@ -6651,14 +6723,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 96617,
-      "num": 466508,
-      "word": "国际金价尚无停止上涨依据",
-      "onboard_time": 1739247501,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 96552,
       "num": 96552,
       "word": "湖人战胜步行者",
@@ -6809,14 +6873,6 @@
       "onboard_time": 1739178320,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 82011,
-      "num": 250945,
-      "word": "仙台有树倒退式追剧",
-      "onboard_time": 1739247922,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 80874,
@@ -7451,6 +7507,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 44870,
+      "num": 238184,
+      "word": "软面疙瘩汤",
+      "onboard_time": 1739247501,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 44527,
       "num": 296216,
       "word": "老人被骗购买166张千元面值购物卡",
@@ -7763,14 +7827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30143,
-      "num": 238184,
-      "word": "软面疙瘩汤",
-      "onboard_time": 1739247501,
-      "rank": 39,
-      "category": "美食"
-    },
-    {
       "raw_hot": 29768,
       "num": 201556,
       "word": "哪吒等春节档影片集体被盗摄",
@@ -7913,6 +7969,14 @@
       "onboard_time": 1739171601,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 23061,
+      "num": 234224,
+      "word": "刘梦婷金牌",
+      "onboard_time": 1739248582,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 22762,
@@ -8160,6 +8224,14 @@
       "word": "林孝埈希望冰迷们永远相信中国短道速滑队",
       "onboard_time": 1739196441,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 12889,
+      "num": 292516,
+      "word": "耿虎杨雨衡银牌",
+      "onboard_time": 1739248463,
+      "rank": 20,
       "category": "体育"
     },
     {

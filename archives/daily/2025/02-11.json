@@ -1,9 +1,9 @@
 {
   "startTime": 1739204910696,
-  "endTime": 1739247972758,
+  "endTime": 1739248808876,
   "band_list": [
     {
-      "raw_hot": 2709219,
+      "raw_hot": 2924632,
       "num": 2709219,
       "word": "姚笛复出",
       "onboard_time": 1739246540,
@@ -33,6 +33,14 @@
       "onboard_time": 1739239039,
       "rank": 21,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1647010,
+      "num": 1183818,
+      "word": "百色性侵事件女生好友发声",
+      "onboard_time": 1739245761,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1596151,
@@ -67,14 +75,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1183818,
-      "num": 1183818,
-      "word": "百色性侵事件女生好友发声",
-      "onboard_time": 1739245761,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1180692,
       "num": 1188910,
       "word": "2024年结婚登记数再度下探原因为何",
@@ -89,6 +89,14 @@
       "onboard_time": 1739232678,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1041444,
+      "num": 428318,
+      "word": "演员请就位 发疯",
+      "onboard_time": 1739246601,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 1008651,
@@ -219,14 +227,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 566085,
-      "num": 428318,
-      "word": "演员请就位 发疯",
-      "onboard_time": 1739246601,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 565452,
       "num": 565452,
       "word": "美一机场两飞机在地面发生碰撞",
@@ -323,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 436554,
+      "num": 336989,
+      "word": "哪吒2票房超87亿",
+      "onboard_time": 1739244980,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 427956,
       "num": 378879,
       "word": "哪吒2票房超86亿",
@@ -411,14 +419,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 360270,
-      "num": 323445,
-      "word": "哪吒2票房超87亿",
-      "onboard_time": 1739244980,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 335307,
       "num": 335307,
       "word": "江西最强钉子户没料到公路改道",
@@ -483,20 +483,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 271768,
+      "num": 336610,
+      "word": "多地争给哪吒上户口",
+      "onboard_time": 1739246241,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 270603,
       "num": 206789,
       "word": "星船新女团KiiiKiii",
       "onboard_time": 1739200700,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 266664,
-      "num": 336610,
-      "word": "多地争给哪吒上户口",
-      "onboard_time": 1739246241,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 265260,
@@ -555,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 238898,
+      "num": 298404,
+      "word": "留几手说早知道我也不离了",
+      "onboard_time": 1739247383,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 236525,
       "num": 236525,
       "word": "吴艳妮60米栏8秒22夺冠",
@@ -569,6 +577,14 @@
       "onboard_time": 1739243242,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 234957,
+      "num": 271890,
+      "word": "王楚钦的控球术",
+      "onboard_time": 1739247202,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 231083,
@@ -619,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 213967,
+      "num": 213967,
+      "word": "华晨宇 今天的我叫花开喝",
+      "onboard_time": 1739247622,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212086,
       "num": 209308,
       "word": "动物园回应268元可抱撸小狮子",
@@ -627,12 +651,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 203444,
-      "num": 203444,
-      "word": "华晨宇 今天的我叫花开喝",
-      "onboard_time": 1739247622,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 211673,
+      "num": 319665,
+      "word": "徐开骋 演员请就位",
+      "onboard_time": 1739248042,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 210216,
+      "num": 250945,
+      "word": "仙台有树倒退式追剧",
+      "onboard_time": 1739247922,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 209861,
+      "num": 209861,
+      "word": "张元英惊吓小仓鼠",
+      "onboard_time": 1739248221,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 209563,
+      "num": 209563,
+      "word": "王楚钦原本就是多彩且鲜活的",
+      "onboard_time": 1739248523,
+      "rank": 36,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 202883,
@@ -657,6 +705,14 @@
       "onboard_time": 1739235801,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201138,
+      "num": 201138,
+      "word": "董思成 丹凤眼",
+      "onboard_time": 1739248282,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 199848,
@@ -691,22 +747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 192539,
-      "num": 240700,
-      "word": "留几手说早知道我也不离了",
-      "onboard_time": 1739247383,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 192518,
-      "num": 192518,
-      "word": "王楚钦的控球术",
-      "onboard_time": 1739247202,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 192471,
       "num": 192471,
       "word": "陈牧驰直播",
@@ -731,6 +771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 187517,
+      "num": 187517,
+      "word": "汪苏泷 准备好一起给鸟巢充电了吗",
+      "onboard_time": 1739248101,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 187263,
       "num": 218822,
       "word": "哪吒版汤圆太可爱了",
@@ -753,6 +801,14 @@
       "onboard_time": 1739233459,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 182806,
+      "num": 466508,
+      "word": "国际金价尚无停止上涨依据",
+      "onboard_time": 1739247501,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 181871,
@@ -843,6 +899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170603,
+      "num": 299121,
+      "word": "林孝埈感谢尔滨",
+      "onboard_time": 1739246721,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168908,
       "num": 173783,
       "word": "时代少年团非洲出发",
@@ -851,18 +915,18 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167794,
+      "num": 167794,
+      "word": "只有杜海涛一个人悲伤的故事",
+      "onboard_time": 1739248762,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167514,
       "num": 167514,
       "word": "练背的真实变化",
       "onboard_time": 1739199442,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 167200,
-      "num": 299121,
-      "word": "林孝埈感谢尔滨",
-      "onboard_time": 1739246721,
       "rank": 26,
       "category": "体育"
     },
@@ -1091,6 +1155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 109351,
+      "num": 202316,
+      "word": "这波金价缘何上涨",
+      "onboard_time": 1739248702,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 109168,
       "num": 193147,
       "word": "美国国际开发署被摘牌",
@@ -1163,14 +1235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 96617,
-      "num": 466508,
-      "word": "国际金价尚无停止上涨依据",
-      "onboard_time": 1739247501,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 95848,
       "num": 95848,
       "word": "东契奇效应",
@@ -1200,14 +1264,6 @@
       "word": "终于有剧把镜头对准施暴者了",
       "onboard_time": 1739191159,
       "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 82011,
-      "num": 250945,
-      "word": "仙台有树倒退式追剧",
-      "onboard_time": 1739247922,
-      "rank": 34,
       "category": "剧集"
     },
     {
@@ -1395,6 +1451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 44870,
+      "num": 238184,
+      "word": "软面疙瘩汤",
+      "onboard_time": 1739247501,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 43581,
       "num": 53358,
       "word": "婆婆背了满满一筐菜徒步送到灾区",
@@ -1459,14 +1523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30143,
-      "num": 238184,
-      "word": "软面疙瘩汤",
-      "onboard_time": 1739247501,
-      "rank": 39,
-      "category": "美食"
-    },
-    {
       "raw_hot": 28199,
       "num": 434351,
       "word": "冯俊熙王雪金牌",
@@ -1491,6 +1547,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 23061,
+      "num": 234224,
+      "word": "刘梦婷金牌",
+      "onboard_time": 1739248582,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 22378,
       "num": 1606481,
       "word": "超2000万人申请国补买手机等",
@@ -1513,6 +1577,14 @@
       "onboard_time": 1739220970,
       "rank": 24,
       "category": "国内时政,互联网"
+    },
+    {
+      "raw_hot": 12889,
+      "num": 292516,
+      "word": "耿虎杨雨衡银牌",
+      "onboard_time": 1739248463,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 10970,

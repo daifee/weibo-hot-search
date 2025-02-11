@@ -1,0 +1,410 @@
+{
+  "runTime": 1739248808876,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1761950,
+        "num": 1761950,
+        "word": "唐某某被举报部分属实部分正核查",
+        "onboard_time": 1739243000,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 412471,
+        "num": 412471,
+        "word": "王楚钦T锦绣封面预告",
+        "onboard_time": 1739246001,
+        "rank": 1,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 19233,
+        "num": 407234,
+        "word": "超2000万人申请国补买手机等",
+        "onboard_time": 1739116460,
+        "rank": 2,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 2924632,
+        "num": 396574,
+        "word": "姚笛复出",
+        "onboard_time": 1739246540,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1647010,
+        "num": 387809,
+        "word": "百色性侵事件女生好友发声",
+        "onboard_time": 1739245761,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1391852,
+        "num": 381356,
+        "word": "杨子许佳琪 纣王妲己浴池戏",
+        "onboard_time": 1739244681,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1041444,
+        "num": 377753,
+        "word": "演员请就位 发疯",
+        "onboard_time": 1739246601,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 979595,
+        "num": 368951,
+        "word": "刘梓晨 演员请就位",
+        "onboard_time": 1739244860,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 362707,
+        "num": 362707,
+        "word": "官方通报河南焦作20亩麦苗被铲除",
+        "onboard_time": 1739243061,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182806,
+        "num": 357357,
+        "word": "国际金价尚无停止上涨依据",
+        "onboard_time": 1739247501,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 877219,
+        "num": 356268,
+        "word": "留几手后悔离婚",
+        "onboard_time": 1739239819,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 532256,
+        "num": 347317,
+        "word": "演员请就位3演员阵容官宣",
+        "onboard_time": 1739244501,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 444708,
+        "num": 341351,
+        "word": "警方介入调查老师唐某某",
+        "onboard_time": 1739243000,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 436554,
+        "num": 336989,
+        "word": "哪吒2票房超87亿",
+        "onboard_time": 1739244980,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 382870,
+        "num": 329386,
+        "word": "女生父亲为催婚拆掉迎宾墙",
+        "onboard_time": 1739243000,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 444243,
+        "num": 325673,
+        "word": "百色教育局通报一高中教师被举报",
+        "onboard_time": 1739206336,
+        "rank": 15,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 322834,
+        "num": 322834,
+        "word": "央视直播时一只小狐狸抢镜",
+        "onboard_time": 1739199321,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211673,
+        "num": 319665,
+        "word": "徐开骋 演员请就位",
+        "onboard_time": 1739248042,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165574,
+        "num": 314592,
+        "word": "疑似张凌赫新身份曝光",
+        "onboard_time": 1739246601,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238898,
+        "num": 298404,
+        "word": "留几手说早知道我也不离了",
+        "onboard_time": 1739247383,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12889,
+        "num": 292516,
+        "word": "耿虎杨雨衡银牌",
+        "onboard_time": 1739248463,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 325733,
+        "num": 286753,
+        "word": "哪吒2被偷票房损失惨重是影城非片方",
+        "onboard_time": 1739206696,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 325558,
+        "num": 275201,
+        "word": "谢娜报平安",
+        "onboard_time": 1739230217,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273570,
+        "num": 273570,
+        "word": "哪吒票房",
+        "onboard_time": 1739238740,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 234957,
+        "num": 271890,
+        "word": "王楚钦的控球术",
+        "onboard_time": 1739247202,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271768,
+        "num": 271768,
+        "word": "多地争给哪吒上户口",
+        "onboard_time": 1739246241,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 251318,
+        "num": 251318,
+        "word": "什么样的男人才是结婚潜力股",
+        "onboard_time": 1739241380,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235145,
+        "num": 235145,
+        "word": "DeepSeek创始人或跻身全球富豪榜",
+        "onboard_time": 1739243721,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 23061,
+        "num": 234224,
+        "word": "刘梦婷金牌",
+        "onboard_time": 1739248582,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210216,
+        "num": 233340,
+        "word": "仙台有树倒退式追剧",
+        "onboard_time": 1739247922,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 787559,
+        "num": 230932,
+        "word": "车主回应被李明德砸车",
+        "onboard_time": 1739240779,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254242,
+        "num": 230233,
+        "word": "文在寅称后悔提拔尹锡悦",
+        "onboard_time": 1739244561,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 228638,
+        "num": 228638,
+        "word": "于正短剧好带感",
+        "onboard_time": 1739244621,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213967,
+        "num": 213967,
+        "word": "华晨宇 今天的我叫花开喝",
+        "onboard_time": 1739247622,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211223,
+        "num": 211223,
+        "word": "虞书欣捂肚子是双轨剧情",
+        "onboard_time": 1739239880,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209861,
+        "num": 209861,
+        "word": "张元英惊吓小仓鼠",
+        "onboard_time": 1739248221,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 209563,
+        "num": 209563,
+        "word": "王楚钦原本就是多彩且鲜活的",
+        "onboard_time": 1739248523,
+        "rank": 36,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 109351,
+        "num": 202316,
+        "word": "这波金价缘何上涨",
+        "onboard_time": 1739248702,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 201138,
+        "num": 201138,
+        "word": "董思成 丹凤眼",
+        "onboard_time": 1739248282,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201081,
+        "num": 201081,
+        "word": "吴艳妮60米栏8秒22夺冠",
+        "onboard_time": 1739247021,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197701,
+        "num": 197701,
+        "word": "东契奇湖人首秀",
+        "onboard_time": 1739234061,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189227,
+        "num": 189227,
+        "word": "英国名模模仿徐冬冬招牌动作",
+        "onboard_time": 1739244920,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187517,
+        "num": 187517,
+        "word": "汪苏泷 准备好一起给鸟巢充电了吗",
+        "onboard_time": 1739248101,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 182632,
+        "num": 182632,
+        "word": "陈梦回应我的时代到了",
+        "onboard_time": 1739247262,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170603,
+        "num": 170603,
+        "word": "林孝埈感谢尔滨",
+        "onboard_time": 1739246721,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170239,
+        "num": 170239,
+        "word": "百色被举报教师曾获嘉奖",
+        "onboard_time": 1739246540,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167794,
+        "num": 167794,
+        "word": "只有杜海涛一个人悲伤的故事",
+        "onboard_time": 1739248762,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164959,
+        "num": 164959,
+        "word": "许佳琪算不算工伤",
+        "onboard_time": 1739247442,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164902,
+        "num": 164902,
+        "word": "主治医生娶了社牛脑瘫女孩辞职追随",
+        "onboard_time": 1739240779,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44870,
+        "num": 163177,
+        "word": "软面疙瘩汤",
+        "onboard_time": 1739247501,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪同梦#"
+    }
+  }
+}
