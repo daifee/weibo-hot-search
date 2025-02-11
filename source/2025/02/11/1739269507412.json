@@ -1,0 +1,410 @@
+{
+  "runTime": 1739269507412,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2554360,
+        "num": 2554360,
+        "word": "饺子偷偷改了哪吒3计划上映时间",
+        "onboard_time": 1739261481,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 961227,
+        "num": 961227,
+        "word": "黄金已经涨疯了",
+        "onboard_time": 1739261298,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 74419,
+        "num": 890316,
+        "word": "一组数据看春节期间经济活力",
+        "onboard_time": 1739265321,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 850921,
+        "num": 850921,
+        "word": "哪吒2再破89亿",
+        "onboard_time": 1739265141,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 457658,
+        "num": 457658,
+        "word": "国漫四帅",
+        "onboard_time": 1739267601,
+        "rank": 4,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 317586,
+        "num": 455172,
+        "word": "女子疑遭丈夫灌面汤呛死案将开庭",
+        "onboard_time": 1739259558,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 713465,
+        "num": 452331,
+        "word": "余莺儿扮演者直播称自己曾肇事逃逸",
+        "onboard_time": 1739263342,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198725,
+        "num": 449652,
+        "word": "WTT公布改革措施",
+        "onboard_time": 1739268141,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133157,
+        "num": 443139,
+        "word": "WTT提高奖金",
+        "onboard_time": 1739268921,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218682,
+        "num": 441371,
+        "word": "381名员工因心得体会字数不符被罚",
+        "onboard_time": 1739267901,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 781859,
+        "num": 438059,
+        "word": "留几手 杨子不要脸",
+        "onboard_time": 1739255719,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 558539,
+        "num": 432894,
+        "word": "元宵晚会官宣",
+        "onboard_time": 1739258360,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94108,
+        "num": 428944,
+        "word": "团伙用裸聊视频勒索30多人超70万",
+        "onboard_time": 1739268141,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159399,
+        "num": 427530,
+        "word": "首届电竞奥运会2027年举行",
+        "onboard_time": 1739268801,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164392,
+        "num": 421282,
+        "word": "WTT修改强制参赛规定",
+        "onboard_time": 1739268801,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1252838,
+        "num": 418077,
+        "word": "百色去世女生父亲发声",
+        "onboard_time": 1739264361,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 556117,
+        "num": 415540,
+        "word": "全智贤被追缴2000多万韩元税款",
+        "onboard_time": 1739268381,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 520122,
+        "num": 411483,
+        "word": "g社镜头下的卢昱晓申有娜",
+        "onboard_time": 1739265622,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 409903,
+        "num": 409903,
+        "word": "姚笛复出",
+        "onboard_time": 1739246540,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225234,
+        "num": 384167,
+        "word": "乡干部被举报饮酒当地称5点半后喝的",
+        "onboard_time": 1739264121,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 378485,
+        "num": 378485,
+        "word": "谢广坤扮演者女儿控诉父亲",
+        "onboard_time": 1739252840,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361262,
+        "num": 361262,
+        "word": "日本偶遇SHE旅行",
+        "onboard_time": 1739262681,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344447,
+        "num": 344447,
+        "word": "哪吒敖丙上元宵晚会了",
+        "onboard_time": 1739259620,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317395,
+        "num": 317395,
+        "word": "刘梓晨演相柳",
+        "onboard_time": 1739248883,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196360,
+        "num": 313028,
+        "word": "电竞奥运会",
+        "onboard_time": 1739269101,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 311312,
+        "num": 311312,
+        "word": "官方回应招博士需28岁以下",
+        "onboard_time": 1739258540,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303398,
+        "num": 303398,
+        "word": "好一个乖乖女出现人传人现象",
+        "onboard_time": 1739266761,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281866,
+        "num": 281866,
+        "word": "金价连涨一克左右的金饰成市场主流",
+        "onboard_time": 1739258119,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 240892,
+        "num": 240892,
+        "word": "2月14日起哪吒2在悉尼不再排IMAX",
+        "onboard_time": 1739266161,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 233361,
+        "num": 233361,
+        "word": "五福临门",
+        "onboard_time": 1739264481,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230948,
+        "num": 230948,
+        "word": "哪吒3会比哪吒2快很多",
+        "onboard_time": 1739267062,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 208800,
+        "num": 208800,
+        "word": "刘诗诗仪态",
+        "onboard_time": 1739267359,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204154,
+        "num": 204154,
+        "word": "哪吒2票房增长没有放缓迹象",
+        "onboard_time": 1739268561,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 8569,
+        "num": 202705,
+        "word": "刘国梁回应WTT优化改革措施",
+        "onboard_time": 1739269402,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202364,
+        "num": 202364,
+        "word": "有故人之姿因为就是故人",
+        "onboard_time": 1739268682,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200159,
+        "num": 200159,
+        "word": "年轻人的买黄金新玩法",
+        "onboard_time": 1739267961,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 182544,
+        "num": 196417,
+        "word": "黄晓明带父亲重走当年参军路",
+        "onboard_time": 1739268081,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194780,
+        "num": 194780,
+        "word": "111岁老红军逝世",
+        "onboard_time": 1739266042,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192655,
+        "num": 192655,
+        "word": "唐某某被举报部分属实部分正核查",
+        "onboard_time": 1739243000,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186745,
+        "num": 186745,
+        "word": "国色芳华云合集均破4000万",
+        "onboard_time": 1739268321,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184088,
+        "num": 184088,
+        "word": "魏晨原来这就是眉骨顶光",
+        "onboard_time": 1739264003,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179618,
+        "num": 179618,
+        "word": "湖南元宵晚会灯谜节目单",
+        "onboard_time": 1739262979,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177336,
+        "num": 177336,
+        "word": "三星S25价格",
+        "onboard_time": 1739265441,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 174676,
+        "num": 174676,
+        "word": "当我问deepseek生孩子的意义时",
+        "onboard_time": 1739249422,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 169699,
+        "num": 169699,
+        "word": "杭州金店排长队贴出限时限购标语",
+        "onboard_time": 1739266881,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158122,
+        "num": 158122,
+        "word": "奥运冠军获得大满贯冠军赛参赛资格",
+        "onboard_time": 1739269461,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153353,
+        "num": 153353,
+        "word": "哪吒2或将成全球动画票房第一",
+        "onboard_time": 1739251520,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141892,
+        "num": 141892,
+        "word": "林孝埈说每天都像在家一样",
+        "onboard_time": 1739267542,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141374,
+        "num": 141374,
+        "word": "杨子身材",
+        "onboard_time": 1739251699,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133333,
+        "num": 133333,
+        "word": "酒店2米吊顶半夜掉了孕妇索赔17万",
+        "onboard_time": 1739258479,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席深刻阐释冰雪同梦亚洲同心#"
+    }
+  }
+}
