@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739298571521,
+  "endTime": 1739299421471,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -32995,6 +32995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 24749,
+      "num": 31009,
+      "word": "张峻豪弹壳合作新歌",
+      "onboard_time": 1739298793,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 24742,
       "num": 636381,
       "word": "亚冬会火炬传递圆满结束",
@@ -33121,6 +33129,14 @@
       "onboard_time": 1739278281,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23414,
+      "num": 31005,
+      "word": "周深世界巡演倒计时",
+      "onboard_time": 1739299092,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 23340,
@@ -33313,6 +33329,14 @@
       "onboard_time": 1738942162,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 21308,
+      "num": 40263,
+      "word": "白龙马愿你在天堂撒欢奔跑",
+      "onboard_time": 1739296573,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21271,
@@ -33593,14 +33617,6 @@
       "onboard_time": 1739033178,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 17183,
-      "num": 40263,
-      "word": "白龙马愿你在天堂撒欢奔跑",
-      "onboard_time": 1739296573,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17002,
@@ -34289,6 +34305,14 @@
       "onboard_time": 1739205735,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 10914,
+      "num": 40514,
+      "word": "这列火车每天带200多人跨省卖菜",
+      "onboard_time": 1739299212,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10880,

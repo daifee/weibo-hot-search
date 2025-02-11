@@ -1,6 +1,6 @@
 {
   "startTime": 1739291403043,
-  "endTime": 1739298571521,
+  "endTime": 1739299421471,
   "band_list": [
     {
       "raw_hot": 1783007,
@@ -491,7 +491,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33674,
+      "raw_hot": 33899,
       "num": 36714,
       "word": "两个50多岁不自律女生同居的一天",
       "onboard_time": 1739274020,
@@ -507,7 +507,23 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17183,
+      "raw_hot": 24749,
+      "num": 31009,
+      "word": "张峻豪弹壳合作新歌",
+      "onboard_time": 1739298793,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 23414,
+      "num": 31005,
+      "word": "周深世界巡演倒计时",
+      "onboard_time": 1739299092,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 21308,
       "num": 40263,
       "word": "白龙马愿你在天堂撒欢奔跑",
       "onboard_time": 1739296573,
@@ -528,6 +544,14 @@
       "word": "看自贡彩灯点亮中国非遗",
       "onboard_time": 1739294356,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10914,
+      "num": 40514,
+      "word": "这列火车每天带200多人跨省卖菜",
+      "onboard_time": 1739299212,
+      "rank": 25,
       "category": "民生新闻"
     },
     {

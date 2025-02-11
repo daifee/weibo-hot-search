@@ -1,0 +1,410 @@
+{
+  "runTime": 1739299421471,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 374223,
+        "num": 374223,
+        "word": "哪吒票房 升国旗",
+        "onboard_time": 1739281223,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163222,
+        "num": 163222,
+        "word": "冲入江中救人白马离世",
+        "onboard_time": 1739285062,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13738,
+        "num": 125681,
+        "word": "首善答卷",
+        "onboard_time": 1739285901,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210781,
+        "num": 123605,
+        "word": "饺子进入中国导演票房榜前三",
+        "onboard_time": 1739289559,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190695,
+        "num": 123140,
+        "word": "教师唐某某被采取刑事强制措施",
+        "onboard_time": 1739287581,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121473,
+        "num": 121473,
+        "word": "ABC比基尼安睡裤被骂",
+        "onboard_time": 1739288300,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180710,
+        "num": 121186,
+        "word": "唐某某严重违反教师职业道德",
+        "onboard_time": 1739288061,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118923,
+        "num": 118923,
+        "word": "饺子偷偷改了哪吒3计划上映时间",
+        "onboard_time": 1739261481,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104174,
+        "num": 104174,
+        "word": "薛凯琪直播被工作人员紧急闭麦",
+        "onboard_time": 1739286321,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52987,
+        "num": 52987,
+        "word": "金包银哪吒手镯卖爆了",
+        "onboard_time": 1739270242,
+        "rank": 9,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 301777,
+        "num": 52925,
+        "word": "男生隔空猥亵未成年女孩被判5年",
+        "onboard_time": 1739291597,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222804,
+        "num": 52721,
+        "word": "28岁女子双肺长癌竟跟这个习惯有关",
+        "onboard_time": 1739289621,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119297,
+        "num": 52636,
+        "word": "潘宏发哪吒2申公豹台词回应争议",
+        "onboard_time": 1739283621,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 81202,
+        "num": 52539,
+        "word": "人民会堂回应上午开会下午放哪吒2",
+        "onboard_time": 1739286380,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81018,
+        "num": 52348,
+        "word": "都到90亿了 必须四舍五入",
+        "onboard_time": 1739278041,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 80623,
+        "num": 52275,
+        "word": "刻骨明辛",
+        "onboard_time": 1739289858,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76360,
+        "num": 52041,
+        "word": "王一博在海拔四千多米攀冰",
+        "onboard_time": 1739292437,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75263,
+        "num": 51895,
+        "word": "五福临门",
+        "onboard_time": 1739264481,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72102,
+        "num": 51878,
+        "word": "工资不高又经常熬夜的工作",
+        "onboard_time": 1739284762,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 51752,
+        "num": 51752,
+        "word": "黄金已经涨疯了",
+        "onboard_time": 1739261298,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 59098,
+        "num": 51167,
+        "word": "韩安冉前夫小猪先生患精神病",
+        "onboard_time": 1739277800,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 49477,
+        "num": 49477,
+        "word": "哪吒2最新预测总票房160.3亿",
+        "onboard_time": 1739288959,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 45098,
+        "num": 45098,
+        "word": "元宵晚会官宣",
+        "onboard_time": 1739258360,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44389,
+        "num": 44389,
+        "word": "杨羡五娘 好嗑",
+        "onboard_time": 1739296513,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44101,
+        "num": 44101,
+        "word": "难听",
+        "onboard_time": 1739278102,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 10914,
+        "num": 40514,
+        "word": "这列火车每天带200多人跨省卖菜",
+        "onboard_time": 1739299212,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40192,
+        "num": 40192,
+        "word": "哪吒票房",
+        "onboard_time": 1739283922,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38279,
+        "num": 38279,
+        "word": "黄杨钿甜今年高考",
+        "onboard_time": 1739275820,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37039,
+        "num": 37039,
+        "word": "崔漫莉",
+        "onboard_time": 1739286862,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21308,
+        "num": 36666,
+        "word": "白龙马愿你在天堂撒欢奔跑",
+        "onboard_time": 1739296573,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36664,
+        "num": 36664,
+        "word": "美国说唱歌手入狱后遭殴打强奸",
+        "onboard_time": 1739279601,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36639,
+        "num": 36639,
+        "word": "全智贤被追缴2000多万韩元税款",
+        "onboard_time": 1739268381,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35854,
+        "num": 35854,
+        "word": "善意的竞争",
+        "onboard_time": 1739286802,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33899,
+        "num": 33899,
+        "word": "两个50多岁不自律女生同居的一天",
+        "onboard_time": 1739274020,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33784,
+        "num": 33784,
+        "word": "美队4悉尼排片量远高于哪吒2",
+        "onboard_time": 1739270540,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 33492,
+        "num": 33492,
+        "word": "安妮海瑟薇后背上的汉字",
+        "onboard_time": 1739281342,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 33022,
+        "num": 33022,
+        "word": "流感高烧3天不退小心是重症",
+        "onboard_time": 1739290640,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 32803,
+        "num": 32803,
+        "word": "郑钦文0比2贾巴尔",
+        "onboard_time": 1739289021,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31022,
+        "num": 31022,
+        "word": "列车员1年帮卖了1180万元农产品",
+        "onboard_time": 1739294475,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30257,
+        "num": 31022,
+        "word": "哪吒2里竟然藏了这么多文物彩蛋",
+        "onboard_time": 1739289920,
+        "rank": 39,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 29621,
+        "num": 31020,
+        "word": "百色市联合工作组通报唐某某调查进展",
+        "onboard_time": 1739294834,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29472,
+        "num": 31017,
+        "word": "苹果和阿里将为中国iPhone开发AI功能",
+        "onboard_time": 1739284641,
+        "rank": 41,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 28487,
+        "num": 31017,
+        "word": "樊振东陈梦四年内确保直接参赛WTT",
+        "onboard_time": 1739282543,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28312,
+        "num": 31013,
+        "word": "有网店假冒必吃榜卖了100万单",
+        "onboard_time": 1739286321,
+        "rank": 43,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 26746,
+        "num": 31011,
+        "word": "石矶娘娘配音演员澄清不是行政人员",
+        "onboard_time": 1739282242,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25122,
+        "num": 31009,
+        "word": "女生家属称想让唐某某受法律制裁",
+        "onboard_time": 1739294895,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24749,
+        "num": 31009,
+        "word": "张峻豪弹壳合作新歌",
+        "onboard_time": 1739298793,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 24657,
+        "num": 31006,
+        "word": "已经开始期待明年过年了",
+        "onboard_time": 1739291898,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23414,
+        "num": 31005,
+        "word": "周深世界巡演倒计时",
+        "onboard_time": 1739299092,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 23058,
+        "num": 31003,
+        "word": "明天就是元宵节了",
+        "onboard_time": 1739298192,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记这样部署东北全面振兴#"
+    }
+  }
+}
