@@ -1,7 +1,15 @@
 {
   "startTime": 1739204910696,
-  "endTime": 1739244396581,
+  "endTime": 1739245266504,
   "band_list": [
+    {
+      "raw_hot": 1819343,
+      "num": 1819343,
+      "word": "唐某某被举报部分属实部分正核查",
+      "onboard_time": 1739243000,
+      "rank": 5,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1799277,
       "num": 1425206,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 1411936,
-      "num": 369819,
+      "num": 429141,
       "word": "留几手后悔离婚",
       "onboard_time": 1739239819,
       "rank": 11,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 1202447,
-      "num": 368245,
+      "num": 420791,
       "word": "车主回应被李明德砸车",
       "onboard_time": 1739240779,
       "rank": 12,
@@ -155,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 575511,
+      "num": 575511,
+      "word": "警方介入调查老师唐某某",
+      "onboard_time": 1739243000,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 571467,
       "num": 772059,
       "word": "饺子想快点回归创作阶段",
@@ -195,20 +211,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 537810,
+      "num": 537810,
+      "word": "虞书欣捂肚子是双轨剧情",
+      "onboard_time": 1739239880,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 526314,
       "num": 526314,
       "word": "百色被举报教师停职处理",
       "onboard_time": 1739210112,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 522962,
-      "num": 522962,
-      "word": "虞书欣捂肚子是双轨剧情",
-      "onboard_time": 1739239880,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 517603,
@@ -243,19 +259,19 @@
       "category": "电影"
     },
     {
+      "raw_hot": 478488,
+      "num": 478488,
+      "word": "杨子许佳琪 纣王妲己浴池戏",
+      "onboard_time": 1739244681,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 467347,
       "num": 467347,
       "word": "百色祈福高中唐毓文",
       "onboard_time": 1739202498,
       "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 459171,
-      "num": 459171,
-      "word": "唐某某被举报部分属实部分正核查",
-      "onboard_time": 1739243000,
-      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -283,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 412316,
+      "num": 412316,
+      "word": "女生父亲为催婚拆掉迎宾墙",
+      "onboard_time": 1739243000,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 398277,
       "num": 398277,
       "word": "DeepSeek涨价了",
@@ -291,16 +315,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 392562,
-      "num": 392562,
-      "word": "警方介入调查老师唐某某",
-      "onboard_time": 1739243000,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 389328,
-      "num": 389328,
+      "raw_hot": 396181,
+      "num": 396181,
       "word": "什么样的男人才是结婚潜力股",
       "onboard_time": 1739241380,
       "rank": 18,
@@ -347,14 +363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 329726,
-      "num": 329726,
-      "word": "女生父亲为催婚拆掉迎宾墙",
-      "onboard_time": 1739243000,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 314502,
       "num": 288778,
       "word": "本周做什么都顺的星座",
@@ -363,19 +371,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 311997,
+      "num": 311997,
+      "word": "演员请就位3演员阵容官宣",
+      "onboard_time": 1739244501,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 308721,
+      "num": 334102,
+      "word": "河南通报20亩麦苗被铲除村干部停职",
+      "onboard_time": 1739241741,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 305720,
       "num": 305720,
       "word": "小谢称至今未收到一分钱抚养费",
       "onboard_time": 1739188701,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 283841,
-      "num": 334102,
-      "word": "河南通报20亩麦苗被铲除村干部停职",
-      "onboard_time": 1739241741,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -411,12 +427,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 265260,
+      "num": 228756,
+      "word": "文在寅称后悔提拔尹锡悦",
+      "onboard_time": 1739244561,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 263962,
-      "num": 325100,
+      "num": 339322,
       "word": "王一博用流量传播正能量",
       "onboard_time": 1739243539,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 257077,
+      "num": 257077,
+      "word": "DeepSeek创始人或跻身全球富豪榜",
+      "onboard_time": 1739243721,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 253345,
@@ -459,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 226894,
+      "num": 226894,
+      "word": "王者荣耀",
+      "onboard_time": 1739244741,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 224770,
       "num": 224770,
       "word": "小蛇糕",
@@ -491,6 +531,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 214766,
+      "num": 271042,
+      "word": "刘梓晨 演员请就位",
+      "onboard_time": 1739244860,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 212086,
+      "num": 209308,
+      "word": "动物园回应268元可抱撸小狮子",
+      "onboard_time": 1739241440,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206415,
+      "num": 206415,
+      "word": "于正短剧好带感",
+      "onboard_time": 1739244621,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201483,
       "num": 201483,
       "word": "林诗栋8025分世排第一",
@@ -515,12 +579,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 198776,
-      "num": 198776,
-      "word": "动物园回应268元可抱撸小狮子",
-      "onboard_time": 1739241440,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 195712,
+      "num": 195712,
+      "word": "女子为转移资金给陌生人汇款1.7亿",
+      "onboard_time": 1739244202,
+      "rank": 49,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 193000,
@@ -560,6 +624,14 @@
       "word": "哪吒版汤圆太可爱了",
       "onboard_time": 1739232498,
       "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 186055,
+      "num": 186055,
+      "word": "哪吒2票房超87亿",
+      "onboard_time": 1739244980,
+      "rank": 42,
       "category": "电影"
     },
     {
@@ -609,6 +681,14 @@
       "onboard_time": 1739241200,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176516,
+      "num": 239697,
+      "word": "朴孝敏将4月结婚",
+      "onboard_time": 1739242221,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 175682,
@@ -667,20 +747,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 163841,
-      "num": 239697,
-      "word": "朴孝敏将4月结婚",
-      "onboard_time": 1739242221,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 162354,
-      "num": 162354,
-      "word": "DeepSeek创始人或跻身全球富豪榜",
-      "onboard_time": 1739243721,
-      "rank": 37,
-      "category": "互联网"
+      "raw_hot": 159966,
+      "num": 159966,
+      "word": "NBA",
+      "onboard_time": 1739244801,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 158531,
@@ -689,6 +761,22 @@
       "onboard_time": 1739229735,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153554,
+      "num": 239954,
+      "word": "官方通报河南焦作20亩麦苗被铲除",
+      "onboard_time": 1739243061,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151328,
+      "num": 151328,
+      "word": "哪吒可是我偏偏不想要转弯",
+      "onboard_time": 1739245219,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 150454,
@@ -731,6 +819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147345,
+      "num": 261849,
+      "word": "陈梦从冠军到冠军",
+      "onboard_time": 1739242040,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145068,
       "num": 187710,
       "word": "大家好我是雪梅",
@@ -747,28 +843,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 144474,
-      "num": 144474,
-      "word": "官方通报河南焦作20亩麦苗被铲除",
-      "onboard_time": 1739243061,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 143389,
       "num": 143389,
       "word": "当代年轻人把麻将玩出了新花样",
       "onboard_time": 1739240779,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 143106,
-      "num": 143106,
-      "word": "陈梦从冠军到冠军",
-      "onboard_time": 1739242040,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 135883,
@@ -801,14 +881,6 @@
       "onboard_time": 1739204000,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 125249,
-      "num": 125249,
-      "word": "女子为转移资金给陌生人汇款1.7亿",
-      "onboard_time": 1739244202,
-      "rank": 49,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 119517,
@@ -907,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101568,
+      "num": 160782,
+      "word": "英国名模模仿徐冬冬招牌动作",
+      "onboard_time": 1739244920,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100449,
       "num": 100449,
       "word": "哪吒名字还有个隐藏彩蛋",
@@ -971,6 +1051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 79634,
+      "num": 312486,
+      "word": "德塔文认证梁洁90演技花",
+      "onboard_time": 1739244322,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 78401,
       "num": 183469,
       "word": "邓为死脑子快记啊",
@@ -1000,14 +1088,6 @@
       "word": "刘诗诗扛剧能力",
       "onboard_time": 1739182099,
       "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 74198,
-      "num": 162365,
-      "word": "德塔文认证梁洁90演技花",
-      "onboard_time": 1739244322,
-      "rank": 35,
       "category": "剧集"
     },
     {
@@ -1123,6 +1203,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52098,
+      "num": 195694,
+      "word": "电饭锅焖的小香薯",
+      "onboard_time": 1739245160,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 46722,
+      "num": 261263,
+      "word": "美国两飞机跑道相撞现场画面",
+      "onboard_time": 1739244561,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 46306,
       "num": 46306,
       "word": "五福临门第五对",
@@ -1155,6 +1251,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 39294,
+      "num": 323143,
+      "word": "特朗普证实俄乌问题特使将很快访乌",
+      "onboard_time": 1739243420,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 35548,
       "num": 64677,
       "word": "对话无量仙翁配音演员王德顺",
@@ -1171,6 +1275,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 33053,
+      "num": 435889,
+      "word": "中国女子空中技巧双人同步夺金",
+      "onboard_time": 1739244322,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32186,
       "num": 53290,
       "word": "官方通报值机员撕乘客登机牌",
@@ -1179,12 +1291,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 29522,
-      "num": 323143,
-      "word": "特朗普证实俄乌问题特使将很快访乌",
-      "onboard_time": 1739243420,
-      "rank": 18,
-      "category": "国际时政"
+      "raw_hot": 28199,
+      "num": 434351,
+      "word": "冯俊熙王雪金牌",
+      "onboard_time": 1739244322,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 27183,
@@ -1249,22 +1361,6 @@
       "onboard_time": 1739224692,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 6726,
-      "num": 162357,
-      "word": "冯俊熙王雪金牌",
-      "onboard_time": 1739244322,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 6641,
-      "num": 145071,
-      "word": "中国女子空中技巧双人同步夺金",
-      "onboard_time": 1739244322,
-      "rank": 41,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
