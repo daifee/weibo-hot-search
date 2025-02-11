@@ -1,0 +1,410 @@
+{
+  "runTime": 1739247972758,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2709219,
+        "num": 2709219,
+        "word": "姚笛复出",
+        "onboard_time": 1739246540,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1913201,
+        "num": 1913201,
+        "word": "唐某某被举报部分属实部分正核查",
+        "onboard_time": 1739243000,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19874,
+        "num": 1606481,
+        "word": "超2000万人申请国补买手机等",
+        "onboard_time": 1739116460,
+        "rank": 2,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 1596151,
+        "num": 1596151,
+        "word": "杨子许佳琪 纣王妲己浴池戏",
+        "onboard_time": 1739244681,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1183818,
+        "num": 1183818,
+        "word": "百色性侵事件女生好友发声",
+        "onboard_time": 1739245761,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 512658,
+        "num": 512658,
+        "word": "王楚钦T锦绣封面预告",
+        "onboard_time": 1739246001,
+        "rank": 5,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 995697,
+        "num": 506703,
+        "word": "刘梓晨 演员请就位",
+        "onboard_time": 1739244860,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 582513,
+        "num": 492674,
+        "word": "演员请就位3演员阵容官宣",
+        "onboard_time": 1739244501,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 531369,
+        "num": 485403,
+        "word": "警方介入调查老师唐某某",
+        "onboard_time": 1739243000,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96617,
+        "num": 466508,
+        "word": "国际金价尚无停止上涨依据",
+        "onboard_time": 1739247501,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 934101,
+        "num": 452992,
+        "word": "留几手后悔离婚",
+        "onboard_time": 1739239819,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 839900,
+        "num": 442386,
+        "word": "车主回应被李明德砸车",
+        "onboard_time": 1739240779,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 566085,
+        "num": 428318,
+        "word": "演员请就位 发疯",
+        "onboard_time": 1739246601,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424010,
+        "num": 424010,
+        "word": "女生父亲为催婚拆掉迎宾墙",
+        "onboard_time": 1739243000,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404322,
+        "num": 404322,
+        "word": "官方通报河南焦作20亩麦苗被铲除",
+        "onboard_time": 1739243061,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 470093,
+        "num": 396313,
+        "word": "百色教育局通报一高中教师被举报",
+        "onboard_time": 1739206336,
+        "rank": 15,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 386656,
+        "num": 386656,
+        "word": "哪吒2被偷票房损失惨重是影城非片方",
+        "onboard_time": 1739206696,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 344116,
+        "num": 344116,
+        "word": "央视直播时一只小狐狸抢镜",
+        "onboard_time": 1739199321,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202883,
+        "num": 340215,
+        "word": "疑似张凌赫新身份曝光",
+        "onboard_time": 1739246601,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266664,
+        "num": 336610,
+        "word": "多地争给哪吒上户口",
+        "onboard_time": 1739246241,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102348,
+        "num": 329849,
+        "word": "金价再创新高至2935美元",
+        "onboard_time": 1739246121,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 371680,
+        "num": 324902,
+        "word": "谢娜报平安",
+        "onboard_time": 1739230217,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360270,
+        "num": 323445,
+        "word": "哪吒2票房超87亿",
+        "onboard_time": 1739244980,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 318439,
+        "num": 318439,
+        "word": "什么样的男人才是结婚潜力股",
+        "onboard_time": 1739241380,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152707,
+        "num": 305051,
+        "word": "怎敌她千娇百媚定档2月13日",
+        "onboard_time": 1739246121,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280625,
+        "num": 300593,
+        "word": "英国名模模仿徐冬冬招牌动作",
+        "onboard_time": 1739244920,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167200,
+        "num": 299121,
+        "word": "林孝埈感谢尔滨",
+        "onboard_time": 1739246721,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299067,
+        "num": 299067,
+        "word": "金价",
+        "onboard_time": 1739241380,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 290072,
+        "num": 290072,
+        "word": "哪吒票房",
+        "onboard_time": 1739238740,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 259315,
+        "num": 259315,
+        "word": "DeepSeek创始人或跻身全球富豪榜",
+        "onboard_time": 1739243721,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 260561,
+        "num": 259281,
+        "word": "文在寅称后悔提拔尹锡悦",
+        "onboard_time": 1739244561,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 258349,
+        "num": 258349,
+        "word": "于正短剧好带感",
+        "onboard_time": 1739244621,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252778,
+        "num": 252778,
+        "word": "虞书欣捂肚子是双轨剧情",
+        "onboard_time": 1739239880,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138136,
+        "num": 251467,
+        "word": "王者明世隐景韶洛都新皮肤",
+        "onboard_time": 1739247861,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 82011,
+        "num": 250945,
+        "word": "仙台有树倒退式追剧",
+        "onboard_time": 1739247922,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181871,
+        "num": 249699,
+        "word": "哪吒可是我偏偏不想要转弯",
+        "onboard_time": 1739245219,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122312,
+        "num": 247071,
+        "word": "陈梦常年都保持很低的体脂率",
+        "onboard_time": 1739246902,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246819,
+        "num": 246819,
+        "word": "主治医生娶了社牛脑瘫女孩辞职追随",
+        "onboard_time": 1739240779,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192539,
+        "num": 240700,
+        "word": "留几手说早知道我也不离了",
+        "onboard_time": 1739247383,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30143,
+        "num": 238184,
+        "word": "软面疙瘩汤",
+        "onboard_time": 1739247501,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 236525,
+        "num": 236525,
+        "word": "吴艳妮60米栏8秒22夺冠",
+        "onboard_time": 1739247021,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203444,
+        "num": 203444,
+        "word": "华晨宇 今天的我叫花开喝",
+        "onboard_time": 1739247622,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202428,
+        "num": 202428,
+        "word": "许佳琪算不算工伤",
+        "onboard_time": 1739247442,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194072,
+        "num": 194072,
+        "word": "孟子义赴柬埔寨拍摄网剧",
+        "onboard_time": 1739232678,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109168,
+        "num": 193147,
+        "word": "美国国际开发署被摘牌",
+        "onboard_time": 1739246001,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 192518,
+        "num": 192518,
+        "word": "王楚钦的控球术",
+        "onboard_time": 1739247202,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185849,
+        "num": 185849,
+        "word": "陈梦回应我的时代到了",
+        "onboard_time": 1739247262,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184177,
+        "num": 184177,
+        "word": "王者荣耀",
+        "onboard_time": 1739244741,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178338,
+        "num": 178338,
+        "word": "百色被举报教师曾获嘉奖",
+        "onboard_time": 1739246540,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174204,
+        "num": 174204,
+        "word": "东契奇湖人首秀",
+        "onboard_time": 1739234061,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动新时代东北全面振兴#"
+    }
+  }
+}
