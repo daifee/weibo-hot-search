@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739251361614,
+  "endTime": 1739252340444,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1227,6 +1227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1476995,
+      "num": 461792,
+      "word": "刘梓晨演相柳",
+      "onboard_time": 1739248883,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1476041,
       "num": 487380,
       "word": "小S返台时间不对外公开",
@@ -1851,14 +1859,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1144314,
-      "num": 461792,
-      "word": "刘梓晨演相柳",
-      "onboard_time": 1739248883,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1134882,
       "num": 1739987,
       "word": "日本流感到底有多严重",
@@ -2441,6 +2441,14 @@
       "onboard_time": 1738592372,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 959906,
+      "num": 409638,
+      "word": "林更新回应是否三搭得问赵老师",
+      "onboard_time": 1739249243,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 958481,
@@ -3139,6 +3147,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 801377,
+      "num": 413237,
+      "word": "广西高中性侵案表姐发声",
+      "onboard_time": 1739249001,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 800548,
       "num": 574707,
       "word": "51岁何炅的八块腹肌",
@@ -3249,14 +3265,6 @@
       "onboard_time": 1738740981,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 779198,
-      "num": 413237,
-      "word": "广西高中性侵案表姐发声",
-      "onboard_time": 1739249001,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 778010,
@@ -3768,14 +3776,6 @@
       "word": "何炅说孩子只崇拜张杰",
       "onboard_time": 1739076680,
       "rank": 5,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 685945,
-      "num": 409638,
-      "word": "林更新回应是否三搭得问赵老师",
-      "onboard_time": 1739249243,
-      "rank": 12,
       "category": "综艺"
     },
     {
@@ -4689,6 +4689,14 @@
       "onboard_time": 1739001742,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 577869,
+      "num": 241610,
+      "word": "杨子身材",
+      "onboard_time": 1739251699,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 577560,
@@ -7571,6 +7579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 387783,
+      "num": 283637,
+      "word": "当我问deepseek生孩子的意义时",
+      "onboard_time": 1739249422,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 386888,
       "num": 386888,
       "word": "乌尔善回应观众来信",
@@ -8009,6 +8025,14 @@
       "onboard_time": 1738713978,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 361995,
+      "num": 261410,
+      "word": "卢昱晓裙子腰围大了",
+      "onboard_time": 1739251220,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 361836,
@@ -10003,14 +10027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 283637,
-      "num": 283637,
-      "word": "当我问deepseek生孩子的意义时",
-      "onboard_time": 1739249422,
-      "rank": 23,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 283328,
       "num": 263330,
       "word": "鹿晗祝大家返程一路平安",
@@ -10699,14 +10715,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 261410,
-      "num": 261410,
-      "word": "卢昱晓裙子腰围大了",
-      "onboard_time": 1739251220,
-      "rank": 26,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 260786,
       "num": 260786,
       "word": "哪吒之魔童闹海预测票房超108.5亿",
@@ -11225,6 +11233,14 @@
       "onboard_time": 1739102241,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 249710,
+      "num": 424243,
+      "word": "嘴笨反应慢可能是攻击性被压抑了",
+      "onboard_time": 1739250201,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 249673,
@@ -13652,7 +13668,7 @@
     },
     {
       "raw_hot": 209563,
-      "num": 209563,
+      "num": 229764,
       "word": "王楚钦原本就是多彩且鲜活的",
       "onboard_time": 1739248523,
       "rank": 36,
@@ -13664,6 +13680,14 @@
       "word": "于冬看了哪吒2",
       "onboard_time": 1738498459,
       "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 209275,
+      "num": 209275,
+      "word": "哪吒2或将成全球动画票房第一",
+      "onboard_time": 1739251520,
+      "rank": 23,
       "category": "电影"
     },
     {
@@ -14905,6 +14929,14 @@
       "onboard_time": 1739117717,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197693,
+      "num": 197693,
+      "word": "金巧巧版的孔雀公主简直是初代白月光",
+      "onboard_time": 1739251699,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 197494,
@@ -17587,6 +17619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 173252,
+      "num": 173252,
+      "word": "饺子能不能别穿着条纹衫提这种要求",
+      "onboard_time": 1739250501,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 173194,
       "num": 173194,
       "word": "张艺凡25岁生贺照",
@@ -17849,6 +17889,14 @@
       "onboard_time": 1739240779,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170873,
+      "num": 170873,
+      "word": "吴宣仪临开机前确定出演五福临门",
+      "onboard_time": 1739251999,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 170641,
@@ -18457,6 +18505,14 @@
       "onboard_time": 1738571966,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164941,
+      "num": 164941,
+      "word": "星穹铁道",
+      "onboard_time": 1739252180,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 164929,
@@ -19179,14 +19235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 158583,
-      "num": 158583,
-      "word": "饺子能不能别穿着条纹衫提这种要求",
-      "onboard_time": 1739250501,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
       "raw_hot": 158582,
       "num": 158582,
       "word": "T1对战GEN",
@@ -19665,14 +19713,6 @@
       "onboard_time": 1739018780,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 154493,
-      "num": 424243,
-      "word": "嘴笨反应慢可能是攻击性被压抑了",
-      "onboard_time": 1739250201,
-      "rank": 9,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 154311,
@@ -22451,6 +22491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129142,
+      "num": 189278,
+      "word": "KPL春季赛全员出征照",
+      "onboard_time": 1739251640,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 129009,
       "num": 129009,
       "word": "哪吒2贺图",
@@ -22553,6 +22601,14 @@
       "onboard_time": 1739021663,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127794,
+      "num": 127794,
+      "word": "乘风破浪的姐姐",
+      "onboard_time": 1739251581,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 127760,
@@ -23481,6 +23537,14 @@
       "onboard_time": 1739114842,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119380,
+      "num": 368753,
+      "word": "为给儿子减刑网上找律师险被骗20万",
+      "onboard_time": 1739250560,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119157,
@@ -25651,6 +25715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97878,
+      "num": 150102,
+      "word": "西安一动物园268元可抱狮子拍照",
+      "onboard_time": 1739243661,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97865,
       "num": 1314965,
       "word": "距亚冬会开幕还有1天",
@@ -26851,6 +26923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78229,
+      "num": 176740,
+      "word": "谢娜每次和林更新见面聊天都好开心",
+      "onboard_time": 1739251520,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 78197,
       "num": 78197,
       "word": "2025春节档票房破80亿",
@@ -27697,6 +27777,14 @@
       "onboard_time": 1739029701,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63113,
+      "num": 175342,
+      "word": "国乒男单包揽世排前三",
+      "onboard_time": 1739251400,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 63101,
@@ -29955,6 +30043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 33210,
+      "num": 218179,
+      "word": "诈骗分子用AI模仿意大利国防部长",
+      "onboard_time": 1739250441,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 33205,
       "num": 214887,
       "word": "随意弃养异宠存在外来物种入侵风险",
@@ -30144,14 +30240,6 @@
       "word": "儿媳过年为婆婆化妆最开心的是公公",
       "onboard_time": 1738440191,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31756,
-      "num": 368753,
-      "word": "为给儿子减刑网上找律师险被骗20万",
-      "onboard_time": 1739250560,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -30609,14 +30697,6 @@
       "onboard_time": 1738810583,
       "rank": 2,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 26495,
-      "num": 218179,
-      "word": "诈骗分子用AI模仿意大利国防部长",
-      "onboard_time": 1739250441,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 26381,

@@ -1,6 +1,6 @@
 {
   "startTime": 1739204910696,
-  "endTime": 1739251361614,
+  "endTime": 1739252340444,
   "band_list": [
     {
       "raw_hot": 2924632,
@@ -59,6 +59,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1476995,
+      "num": 461792,
+      "word": "刘梓晨演相柳",
+      "onboard_time": 1739248883,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1411936,
       "num": 452992,
       "word": "留几手后悔离婚",
@@ -91,14 +99,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1144314,
-      "num": 461792,
-      "word": "刘梓晨演相柳",
-      "onboard_time": 1739248883,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1110128,
       "num": 521631,
       "word": "孟子义赴柬埔寨拍摄网剧",
@@ -128,6 +128,14 @@
       "word": "刘梓晨 演员请就位",
       "onboard_time": 1739244860,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 959906,
+      "num": 409638,
+      "word": "林更新回应是否三搭得问赵老师",
+      "onboard_time": 1739249243,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -163,7 +171,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 779198,
+      "raw_hot": 801377,
       "num": 413237,
       "word": "广西高中性侵案表姐发声",
       "onboard_time": 1739249001,
@@ -177,14 +185,6 @@
       "onboard_time": 1739206696,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 685945,
-      "num": 409638,
-      "word": "林更新回应是否三搭得问赵老师",
-      "onboard_time": 1739249243,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 674344,
@@ -240,6 +240,14 @@
       "word": "演员请就位3演员阵容官宣",
       "onboard_time": 1739244501,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 577869,
+      "num": 241610,
+      "word": "杨子身材",
+      "onboard_time": 1739251699,
+      "rank": 13,
       "category": "综艺"
     },
     {
@@ -443,6 +451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 387783,
+      "num": 283637,
+      "word": "当我问deepseek生孩子的意义时",
+      "onboard_time": 1739249422,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 380575,
       "num": 380575,
       "word": "中国香港队队员赢球后遭围殴",
@@ -483,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 361995,
+      "num": 261410,
+      "word": "卢昱晓裙子腰围大了",
+      "onboard_time": 1739251220,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 335307,
       "num": 335307,
       "word": "江西最强钉子户没料到公路改道",
@@ -513,14 +537,6 @@
       "onboard_time": 1739188701,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 283637,
-      "num": 283637,
-      "word": "当我问deepseek生孩子的意义时",
-      "onboard_time": 1739249422,
-      "rank": 23,
-      "category": "互联网"
     },
     {
       "raw_hot": 282905,
@@ -595,14 +611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 261410,
-      "num": 261410,
-      "word": "卢昱晓裙子腰围大了",
-      "onboard_time": 1739251220,
-      "rank": 26,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 259315,
       "num": 259315,
       "word": "DeepSeek创始人或跻身全球富豪榜",
@@ -625,6 +633,14 @@
       "onboard_time": 1739192963,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 249710,
+      "num": 424243,
+      "word": "嘴笨反应慢可能是攻击性被压抑了",
+      "onboard_time": 1739250201,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 247427,
@@ -780,11 +796,19 @@
     },
     {
       "raw_hot": 209563,
-      "num": 209563,
+      "num": 229764,
       "word": "王楚钦原本就是多彩且鲜活的",
       "onboard_time": 1739248523,
       "rank": 36,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 209275,
+      "num": 209275,
+      "word": "哪吒2或将成全球动画票房第一",
+      "onboard_time": 1739251520,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 202883,
@@ -833,6 +857,14 @@
       "onboard_time": 1739238683,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 197693,
+      "num": 197693,
+      "word": "金巧巧版的孔雀公主简直是初代白月光",
+      "onboard_time": 1739251699,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 196851,
@@ -1019,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173252,
+      "num": 173252,
+      "word": "饺子能不能别穿着条纹衫提这种要求",
+      "onboard_time": 1739250501,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 172799,
       "num": 172799,
       "word": "女子10年前买1千克黄金现在净赚30多万",
@@ -1033,6 +1073,14 @@
       "onboard_time": 1739240779,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170873,
+      "num": 170873,
+      "word": "吴宣仪临开机前确定出演五福临门",
+      "onboard_time": 1739251999,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 170603,
@@ -1091,6 +1139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164941,
+      "num": 164941,
+      "word": "星穹铁道",
+      "onboard_time": 1739252180,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 164704,
       "num": 197763,
       "word": "林孝埈将退出本赛季后续比赛",
@@ -1107,28 +1163,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 158583,
-      "num": 158583,
-      "word": "饺子能不能别穿着条纹衫提这种要求",
-      "onboard_time": 1739250501,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
       "raw_hot": 158531,
       "num": 158531,
       "word": "陈哲远梁洁你俩这是剧宣还是官宣",
       "onboard_time": 1739229735,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 154493,
-      "num": 424243,
-      "word": "嘴笨反应慢可能是攻击性被压抑了",
-      "onboard_time": 1739250201,
-      "rank": 9,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 152707,
@@ -1251,6 +1291,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 129142,
+      "num": 189278,
+      "word": "KPL春季赛全员出征照",
+      "onboard_time": 1739251640,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 127794,
+      "num": 127794,
+      "word": "乘风破浪的姐姐",
+      "onboard_time": 1739251581,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122312,
       "num": 247071,
       "word": "陈梦常年都保持很低的体脂率",
@@ -1265,6 +1321,14 @@
       "onboard_time": 1739196982,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 119380,
+      "num": 368753,
+      "word": "为给儿子减刑网上找律师险被骗20万",
+      "onboard_time": 1739250560,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118523,
@@ -1395,6 +1459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97878,
+      "num": 150102,
+      "word": "西安一动物园268元可抱狮子拍照",
+      "onboard_time": 1739243661,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97317,
       "num": 97317,
       "word": "北上接档六姊妹",
@@ -1465,6 +1537,14 @@
       "onboard_time": 1739243120,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 78229,
+      "num": 176740,
+      "word": "谢娜每次和林更新见面聊天都好开心",
+      "onboard_time": 1739251520,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 77823,
@@ -1553,6 +1633,14 @@
       "onboard_time": 1739207354,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 63113,
+      "num": 175342,
+      "word": "国乒男单包揽世排前三",
+      "onboard_time": 1739251400,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 63101,
@@ -1675,6 +1763,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 33210,
+      "num": 218179,
+      "word": "诈骗分子用AI模仿意大利国防部长",
+      "onboard_time": 1739250441,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 33053,
       "num": 435889,
       "word": "中国女子空中技巧双人同步夺金",
@@ -1699,14 +1795,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31756,
-      "num": 368753,
-      "word": "为给儿子减刑网上找律师险被骗20万",
-      "onboard_time": 1739250560,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 28199,
       "num": 434351,
       "word": "冯俊熙王雪金牌",
@@ -1721,14 +1809,6 @@
       "onboard_time": 1739225119,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 26495,
-      "num": 218179,
-      "word": "诈骗分子用AI模仿意大利国防部长",
-      "onboard_time": 1739250441,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 23551,
