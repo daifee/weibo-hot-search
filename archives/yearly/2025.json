@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1739281201615,
+  "endTime": 1739283728582,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1065,6 +1065,14 @@
       "onboard_time": 1736295803,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3073399,
+      "num": 3073399,
+      "word": "哪吒票房 升国旗",
+      "onboard_time": 1739281223,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 3068014,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1737895639,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2044312,
-      "num": 509036,
-      "word": "留几手葛夕民政局排队",
-      "onboard_time": 1739189781,
-      "rank": 5,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
