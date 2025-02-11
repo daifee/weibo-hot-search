@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739248808876,
+  "endTime": 1739251361614,
   "band_list": [
     {
       "raw_hot": 10037874,
@@ -89,6 +89,14 @@
       "onboard_time": 1739189781,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2031661,
+      "num": 1183818,
+      "word": "百色性侵事件女生好友发声",
+      "onboard_time": 1739245761,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1989781,
@@ -187,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1812555,
+      "num": 1812555,
+      "word": "演员请就位 发疯",
+      "onboard_time": 1739246601,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1811166,
       "num": 1811166,
       "word": "浪姐6名单",
@@ -225,14 +241,6 @@
       "onboard_time": 1739239039,
       "rank": 21,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1647010,
-      "num": 1183818,
-      "word": "百色性侵事件女生好友发声",
-      "onboard_time": 1739245761,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1596151,
@@ -467,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1144314,
+      "num": 461792,
+      "word": "刘梓晨演相柳",
+      "onboard_time": 1739248883,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1127415,
       "num": 847848,
       "word": "女子的贞洁从不在罗裙之下",
@@ -497,6 +513,14 @@
       "onboard_time": 1739232678,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1100538,
+      "num": 456497,
+      "word": "一张合照上没有华人却全是华人",
+      "onboard_time": 1739249001,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 1095439,
@@ -553,14 +577,6 @@
       "onboard_time": 1739150958,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1041444,
-      "num": 428318,
-      "word": "演员请就位 发疯",
-      "onboard_time": 1739246601,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 1033363,
@@ -891,6 +907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 779198,
+      "num": 413237,
+      "word": "广西高中性侵案表姐发声",
+      "onboard_time": 1739249001,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 768375,
       "num": 768375,
       "word": "韩国队犯规取消成绩",
@@ -1008,6 +1032,14 @@
       "word": "何炅说孩子只崇拜张杰",
       "onboard_time": 1739076680,
       "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 685945,
+      "num": 409638,
+      "word": "林更新回应是否三搭得问赵老师",
+      "onboard_time": 1739249243,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -1619,12 +1651,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 506836,
+      "num": 407643,
+      "word": "哪吒2票房超87亿",
+      "onboard_time": 1739244980,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 506568,
       "num": 532768,
       "word": "2024年全国结婚登记数再度下探",
       "onboard_time": 1739109322,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 502940,
+      "num": 502940,
+      "word": "金包银项链1克金售价1900元",
+      "onboard_time": 1739249001,
+      "rank": 4,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 501253,
@@ -1843,14 +1891,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 436554,
-      "num": 336989,
-      "word": "哪吒2票房超87亿",
-      "onboard_time": 1739244980,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 434164,
       "num": 434164,
       "word": "林孝埈趁乱离开赛场",
@@ -1873,6 +1913,14 @@
       "onboard_time": 1739170279,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 425579,
+      "num": 466508,
+      "word": "国际金价尚无停止上涨依据",
+      "onboard_time": 1739247501,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 425096,
@@ -2107,6 +2155,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 377312,
+      "num": 377312,
+      "word": "一些珠宝饰品不再用黄金",
+      "onboard_time": 1739249302,
+      "rank": 17,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 373091,
       "num": 317294,
       "word": "时代少年团第三张实体专辑预告",
@@ -2145,6 +2201,14 @@
       "onboard_time": 1739074820,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 368065,
+      "num": 368065,
+      "word": "徐开骋 演员请就位",
+      "onboard_time": 1739248042,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 365854,
@@ -2619,6 +2683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 283637,
+      "num": 283637,
+      "word": "当我问deepseek生孩子的意义时",
+      "onboard_time": 1739249422,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 282546,
       "num": 699375,
       "word": "东莞一小区拟定停车费1天120元",
@@ -2779,6 +2851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270563,
+      "num": 270563,
+      "word": "徐冬冬不愧是尹子维唯一关门弟子",
+      "onboard_time": 1739249782,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 266997,
       "num": 260867,
       "word": "节后多地肛肠科人满为患",
@@ -2825,6 +2905,14 @@
       "onboard_time": 1739243539,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 261410,
+      "num": 261410,
+      "word": "卢昱晓裙子腰围大了",
+      "onboard_time": 1739251220,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 259686,
@@ -3227,6 +3315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 227174,
+      "num": 227174,
+      "word": "原神",
+      "onboard_time": 1739249062,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 227133,
       "num": 227133,
       "word": "妻子与人合拍短视频被丈夫砍伤",
@@ -3411,6 +3507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 217751,
+      "num": 217751,
+      "word": "演员请就位",
+      "onboard_time": 1739249001,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217393,
       "num": 246701,
       "word": "掌心咬戏比吻戏还带感",
@@ -3507,6 +3611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212512,
+      "num": 212512,
+      "word": "潘展乐用李雯雯给自己挡风",
+      "onboard_time": 1739249723,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212479,
       "num": 212479,
       "word": "饺子导演80亿票房海报画好了吗",
@@ -3521,14 +3633,6 @@
       "onboard_time": 1739241440,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 211673,
-      "num": 319665,
-      "word": "徐开骋 演员请就位",
-      "onboard_time": 1739248042,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 211617,
@@ -4051,12 +4155,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196851,
+      "num": 196851,
+      "word": "光与夜之恋",
+      "onboard_time": 1739249183,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 196817,
       "num": 196817,
       "word": "A股",
       "onboard_time": 1739154260,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 196237,
+      "num": 196237,
+      "word": "林允新剧1女vs5个天降",
+      "onboard_time": 1739250741,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 195950,
@@ -4068,7 +4188,7 @@
     },
     {
       "raw_hot": 195712,
-      "num": 195712,
+      "num": 402493,
       "word": "女子为转移资金给陌生人汇款1.7亿",
       "onboard_time": 1739244202,
       "rank": 49,
@@ -4436,7 +4556,7 @@
     },
     {
       "raw_hot": 185849,
-      "num": 185849,
+      "num": 270598,
       "word": "陈梦回应我的时代到了",
       "onboard_time": 1739247262,
       "rank": 46,
@@ -4505,14 +4625,6 @@
       "onboard_time": 1739161702,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 182806,
-      "num": 466508,
-      "word": "国际金价尚无停止上涨依据",
-      "onboard_time": 1739247501,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 182547,
@@ -4585,6 +4697,14 @@
       "onboard_time": 1739096420,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179650,
+      "num": 202316,
+      "word": "这波金价缘何上涨",
+      "onboard_time": 1739248702,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 179646,
@@ -4675,6 +4795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177351,
+      "num": 177351,
+      "word": "时代少年团开启新团综录制行程",
+      "onboard_time": 1739250621,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176994,
       "num": 377072,
       "word": "南方人家里又变水帘洞了",
@@ -4689,6 +4817,14 @@
       "onboard_time": 1739084839,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176750,
+      "num": 176750,
+      "word": "无限暖暖",
+      "onboard_time": 1739249601,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 176516,
@@ -5011,6 +5147,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 167024,
+      "num": 167024,
+      "word": "创亚2学员因为米卡参加节目",
+      "onboard_time": 1739250381,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 166954,
+      "num": 166954,
+      "word": "吴宣仪分享五福临门群名就一个字",
+      "onboard_time": 1739251160,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166291,
       "num": 166291,
       "word": "孙颖莎11300分世排第一",
@@ -5195,6 +5347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158583,
+      "num": 158583,
+      "word": "饺子能不能别穿着条纹衫提这种要求",
+      "onboard_time": 1739250501,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 158531,
       "num": 158531,
       "word": "陈哲远梁洁你俩这是剧宣还是官宣",
@@ -5345,6 +5505,14 @@
       "onboard_time": 1739197281,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154493,
+      "num": 424243,
+      "word": "嘴笨反应慢可能是攻击性被压抑了",
+      "onboard_time": 1739250201,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 154301,
@@ -6499,14 +6667,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 109351,
-      "num": 202316,
-      "word": "这波金价缘何上涨",
-      "onboard_time": 1739248702,
-      "rank": 37,
-      "category": "财经"
-    },
-    {
       "raw_hot": 109168,
       "num": 193147,
       "word": "美国国际开发署被摘牌",
@@ -6713,6 +6873,14 @@
       "onboard_time": 1739204896,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98041,
+      "num": 219869,
+      "word": "他们在相杀她们在相爱",
+      "onboard_time": 1739250321,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 97086,
@@ -7787,11 +7955,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32285,
+      "num": 181828,
+      "word": "林孝埈回顾亚冬会",
+      "onboard_time": 1739250082,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32186,
       "num": 53290,
       "word": "官方通报值机员撕乘客登机牌",
       "onboard_time": 1739217071,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31756,
+      "num": 368753,
+      "word": "为给儿子减刑网上找律师险被骗20万",
+      "onboard_time": 1739250560,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -7905,6 +8089,14 @@
       "onboard_time": 1739187322,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26495,
+      "num": 218179,
+      "word": "诈骗分子用AI模仿意大利国防部长",
+      "onboard_time": 1739250441,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 26325,
