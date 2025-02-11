@@ -1,6 +1,6 @@
 {
   "startTime": 1739204910696,
-  "endTime": 1739278734808,
+  "endTime": 1739280532597,
   "band_list": [
     {
       "raw_hot": 4199194,
@@ -104,6 +104,14 @@
       "word": "杨子许佳琪 纣王妲己浴池戏",
       "onboard_time": 1739244681,
       "rank": 6,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1546788,
+      "num": 600286,
+      "word": "都到90亿了 必须四舍五入",
+      "onboard_time": 1739278041,
+      "rank": 17,
       "category": "电影"
     },
     {
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 759684,
-      "num": 276037,
+      "num": 309503,
       "word": "韩安冉前夫小猪先生患精神病",
       "onboard_time": 1739277800,
       "rank": 20,
@@ -499,6 +507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 565914,
+      "num": 521756,
+      "word": "难听",
+      "onboard_time": 1739278102,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 565452,
       "num": 565452,
       "word": "美一机场两飞机在地面发生碰撞",
@@ -513,6 +529,14 @@
       "onboard_time": 1739238740,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 553298,
+      "num": 553298,
+      "word": "福建漳州上空出现不明飞行物",
+      "onboard_time": 1739277800,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 548342,
@@ -547,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 537086,
+      "num": 537086,
+      "word": "飞机落地印尼108人的行李还在广州",
+      "onboard_time": 1739276479,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 532718,
       "num": 411483,
       "word": "g社镜头下的卢昱晓申有娜",
@@ -561,6 +593,14 @@
       "onboard_time": 1739210112,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 518407,
+      "num": 308244,
+      "word": "两个50多岁不自律女生同居的一天",
+      "onboard_time": 1739274020,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 517603,
@@ -649,14 +689,6 @@
       "onboard_time": 1739267901,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 432419,
-      "num": 287576,
-      "word": "两个50多岁不自律女生同居的一天",
-      "onboard_time": 1739274020,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 427956,
@@ -803,14 +835,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 372392,
-      "num": 372392,
-      "word": "都到90亿了 必须四舍五入",
-      "onboard_time": 1739278041,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 369941,
       "num": 229442,
       "word": "曝哪吒2停了300家影院密钥",
@@ -841,14 +865,6 @@
       "onboard_time": 1739268801,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 341653,
-      "num": 504134,
-      "word": "飞机落地印尼108人的行李还在广州",
-      "onboard_time": 1739276479,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 336428,
@@ -1107,14 +1123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 255206,
-      "num": 255206,
-      "word": "难听",
-      "onboard_time": 1739278102,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 254842,
       "num": 254842,
       "word": "孙颖莎云见面会",
@@ -1161,14 +1169,6 @@
       "onboard_time": 1739241380,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 247195,
-      "num": 247195,
-      "word": "福建漳州上空出现不明飞行物",
-      "onboard_time": 1739277800,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 246756,
@@ -1241,6 +1241,14 @@
       "onboard_time": 1739247202,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 234497,
+      "num": 234497,
+      "word": "美国说唱歌手入狱后遭殴打强奸",
+      "onboard_time": 1739279601,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 234432,
@@ -1409,6 +1417,14 @@
       "onboard_time": 1739241440,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211976,
+      "num": 211976,
+      "word": "谢娜带网友和何炅一起吃饭",
+      "onboard_time": 1739278821,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 210937,
@@ -2083,6 +2099,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 163796,
+      "num": 249130,
+      "word": "宫鲁鸣担任中国女篮主帅",
+      "onboard_time": 1739279543,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163245,
       "num": 163245,
       "word": "Hanni拒绝ADOR签证续签",
@@ -2137,6 +2161,14 @@
       "onboard_time": 1739229735,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158368,
+      "num": 158368,
+      "word": "冰壶",
+      "onboard_time": 1739275942,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 157265,
@@ -2217,6 +2249,14 @@
       "onboard_time": 1739235681,
       "rank": 41,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 149960,
+      "num": 149960,
+      "word": "时尚芭莎",
+      "onboard_time": 1739279062,
+      "rank": 39,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 149850,
@@ -2321,6 +2361,14 @@
       "onboard_time": 1739254580,
       "rank": 43,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 140991,
+      "num": 140991,
+      "word": "申公豹语言导航120分都不够扣的",
+      "onboard_time": 1739280142,
+      "rank": 41,
+      "category": "互联网,电影"
     },
     {
       "raw_hot": 140466,
@@ -2475,12 +2523,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 124105,
+      "num": 124105,
+      "word": "张康乐 BBR",
+      "onboard_time": 1739280382,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124032,
       "num": 343750,
       "word": "小伙独自徒步秦岭失联10余天",
       "onboard_time": 1739264601,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124015,
+      "num": 124015,
+      "word": "马柏全皮衣",
+      "onboard_time": 1739280503,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 122312,
@@ -2561,6 +2625,14 @@
       "onboard_time": 1739258960,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114981,
+      "num": 114981,
+      "word": "女童溺水幸遇面膜旗袍女侠",
+      "onboard_time": 1739280441,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114866,
@@ -2809,6 +2881,14 @@
       "onboard_time": 1739272221,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85547,
+      "num": 312330,
+      "word": "陈小春现在还管李昊叫王昊",
+      "onboard_time": 1739279962,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 83547,
@@ -3179,6 +3259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40810,
+      "num": 334928,
+      "word": "被室友电池烧伤大学生已植皮12次",
+      "onboard_time": 1739280083,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40312,
       "num": 53384,
       "word": "直播间买神药吃9个月结节更大了",
@@ -3201,6 +3289,14 @@
       "onboard_time": 1739225892,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 35388,
+      "num": 203500,
+      "word": "律师评铁路旁新装摄像头正对卧室",
+      "onboard_time": 1739279182,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35099,
@@ -3244,7 +3340,7 @@
     },
     {
       "raw_hot": 33171,
-      "num": 121199,
+      "num": 606115,
       "word": "单板滑雪有多少种起飞方式",
       "onboard_time": 1739264601,
       "rank": 49,
