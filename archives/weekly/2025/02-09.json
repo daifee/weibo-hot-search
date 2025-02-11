@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739242887735,
+  "endTime": 1739244396581,
   "band_list": [
     {
       "raw_hot": 10037874,
@@ -179,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1799277,
+      "num": 1425206,
+      "word": "主治医生娶了社牛脑瘫女孩辞职追随",
+      "onboard_time": 1739240779,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1777738,
       "num": 1777738,
       "word": "金价",
@@ -225,14 +233,6 @@
       "onboard_time": 1739070199,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1554539,
-      "num": 1425206,
-      "word": "主治医生娶了社牛脑瘫女孩辞职追随",
-      "onboard_time": 1739240779,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1527377,
@@ -379,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1202447,
+      "num": 368245,
+      "word": "车主回应被李明德砸车",
+      "onboard_time": 1739240779,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1196669,
       "num": 257845,
       "word": "李明德在机场怒斥前辈",
@@ -521,14 +529,6 @@
       "onboard_time": 1739114182,
       "rank": 35,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1028605,
-      "num": 368245,
-      "word": "车主回应被李明德砸车",
-      "onboard_time": 1739240779,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 1024839,
@@ -1467,6 +1467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 522962,
+      "num": 522962,
+      "word": "虞书欣捂肚子是双轨剧情",
+      "onboard_time": 1739239880,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 521587,
       "num": 296222,
       "word": "做完近视手术第二天的真实感受",
@@ -1675,14 +1683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 469573,
-      "num": 469573,
-      "word": "虞书欣捂肚子是双轨剧情",
-      "onboard_time": 1739239880,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 467347,
       "num": 467347,
       "word": "百色祈福高中唐毓文",
@@ -1704,6 +1704,14 @@
       "word": "黄旭华院士遗体送别仪式",
       "onboard_time": 1739150838,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 459171,
+      "num": 459171,
+      "word": "唐某某被举报部分属实部分正核查",
+      "onboard_time": 1739243000,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -1923,12 +1931,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 392562,
+      "num": 392562,
+      "word": "警方介入调查老师唐某某",
+      "onboard_time": 1739243000,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 391404,
       "num": 408140,
       "word": "哪吒2",
       "onboard_time": 1739026343,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 389328,
+      "num": 389328,
+      "word": "什么样的男人才是结婚潜力股",
+      "onboard_time": 1739241380,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 389167,
@@ -2179,6 +2203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 329726,
+      "num": 329726,
+      "word": "女生父亲为催婚拆掉迎宾墙",
+      "onboard_time": 1739243000,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 329167,
       "num": 329167,
       "word": "2025KPL春季赛定妆照",
@@ -2379,14 +2411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 303894,
-      "num": 303894,
-      "word": "什么样的男人才是结婚潜力股",
-      "onboard_time": 1739241380,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 300458,
       "num": 300458,
       "word": "明日方舟",
@@ -2515,6 +2539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 283841,
+      "num": 334102,
+      "word": "河南通报20亩麦苗被铲除村干部停职",
+      "onboard_time": 1739241741,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 282546,
       "num": 699375,
       "word": "东莞一小区拟定停车费1天120元",
@@ -2603,6 +2635,14 @@
       "category": "游戏,动漫"
     },
     {
+      "raw_hot": 276705,
+      "num": 276705,
+      "word": "演员蒋依依就位",
+      "onboard_time": 1739243000,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 275674,
       "num": 275674,
       "word": "哪吒2 百亿补贴",
@@ -2625,6 +2665,14 @@
       "onboard_time": 1739091019,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 271873,
+      "num": 271873,
+      "word": "原来这些角色都是锤娜丽莎演的",
+      "onboard_time": 1739243480,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 271436,
@@ -2673,6 +2721,14 @@
       "onboard_time": 1739158042,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 263962,
+      "num": 325100,
+      "word": "王一博用流量传播正能量",
+      "onboard_time": 1739243539,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 259686,
@@ -2803,6 +2859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 247427,
+      "num": 247427,
+      "word": "孙颖莎刷新WTT最高积分纪录",
+      "onboard_time": 1739241380,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246756,
       "num": 246756,
       "word": "虞书欣片场捂肚子",
@@ -2880,6 +2944,14 @@
       "word": "千万不要学哪吒去收土拨鼠",
       "onboard_time": 1739192180,
       "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 236277,
+      "num": 236277,
+      "word": "还有明天定档",
+      "onboard_time": 1739243242,
+      "rank": 26,
       "category": "电影"
     },
     {
@@ -3859,14 +3931,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 193605,
-      "num": 193605,
-      "word": "孙颖莎刷新WTT最高积分纪录",
-      "onboard_time": 1739241380,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 193455,
       "num": 193455,
       "word": "石矶娘娘",
@@ -4707,20 +4771,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 164514,
-      "num": 171368,
-      "word": "河南通报20亩麦苗被铲除村干部停职",
-      "onboard_time": 1739241741,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 164430,
       "num": 164430,
       "word": "林孝埈米兰冬奥见",
       "onboard_time": 1739085380,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163841,
+      "num": 239697,
+      "word": "朴孝敏将4月结婚",
+      "onboard_time": 1739242221,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 163450,
@@ -4753,6 +4817,14 @@
       "onboard_time": 1739162842,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 162354,
+      "num": 162354,
+      "word": "DeepSeek创始人或跻身全球富豪榜",
+      "onboard_time": 1739243721,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 161780,
@@ -5323,6 +5395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144474,
+      "num": 144474,
+      "word": "官方通报河南焦作20亩麦苗被铲除",
+      "onboard_time": 1739243061,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143572,
       "num": 143572,
       "word": "是的她怀了闺蜜的孩子",
@@ -5667,6 +5747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129700,
+      "num": 129700,
+      "word": "孟子义发九宫格照片报平安",
+      "onboard_time": 1739243958,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129677,
       "num": 129677,
       "word": "亚冬会小狐狸不语只是一味挖挖挖",
@@ -5737,6 +5825,14 @@
       "onboard_time": 1739035216,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125249,
+      "num": 125249,
+      "word": "女子为转移资金给陌生人汇款1.7亿",
+      "onboard_time": 1739244202,
+      "rank": 49,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 124782,
@@ -6467,14 +6563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 83652,
-      "num": 239697,
-      "word": "朴孝敏将4月结婚",
-      "onboard_time": 1739242221,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 82856,
       "num": 267586,
       "word": "鸣沙踏歌",
@@ -6539,6 +6627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78237,
+      "num": 196952,
+      "word": "文在寅说戒严后愧疚得睡不着觉",
+      "onboard_time": 1739243120,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 77823,
       "num": 165011,
       "word": "谁遇上结界兽都得等3秒",
@@ -6585,6 +6681,14 @@
       "onboard_time": 1739009604,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74198,
+      "num": 162365,
+      "word": "德塔文认证梁洁90演技花",
+      "onboard_time": 1739244322,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 73183,
@@ -7395,6 +7499,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 29522,
+      "num": 323143,
+      "word": "特朗普证实俄乌问题特使将很快访乌",
+      "onboard_time": 1739243420,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 29274,
       "num": 257897,
       "word": "制作敖光的龙牙刀用了一年半",
@@ -7497,6 +7609,14 @@
       "onboard_time": 1739049491,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 23551,
+      "num": 322944,
+      "word": "唐不止智驾全面进化",
+      "onboard_time": 1739243061,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 23340,
@@ -7904,6 +8024,22 @@
       "word": "王楚钦说跟梁靖崑会师半决赛很开心",
       "onboard_time": 1739041692,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 6726,
+      "num": 162357,
+      "word": "冯俊熙王雪金牌",
+      "onboard_time": 1739244322,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 6641,
+      "num": 145071,
+      "word": "中国女子空中技巧双人同步夺金",
+      "onboard_time": 1739244322,
+      "rank": 41,
       "category": "体育"
     },
     {
