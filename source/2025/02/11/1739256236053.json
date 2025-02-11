@@ -1,0 +1,410 @@
+{
+  "runTime": 1739256236053,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1570529,
+        "num": 1570529,
+        "word": "刘梓晨演相柳",
+        "onboard_time": 1739248883,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 737784,
+        "num": 737784,
+        "word": "唐某某被举报部分属实部分正核查",
+        "onboard_time": 1739243000,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19958,
+        "num": 427638,
+        "word": "超2000万人申请国补买手机等",
+        "onboard_time": 1739116460,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1217053,
+        "num": 425988,
+        "word": "姚笛复出",
+        "onboard_time": 1739246540,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369181,
+        "num": 369181,
+        "word": "一些珠宝饰品不再用黄金",
+        "onboard_time": 1739249302,
+        "rank": 4,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 281898,
+        "num": 281898,
+        "word": "国际金价尚无停止上涨依据",
+        "onboard_time": 1739247501,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 617132,
+        "num": 276327,
+        "word": "哪吒2或将成全球动画票房第一",
+        "onboard_time": 1739251520,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 580218,
+        "num": 270714,
+        "word": "演员请就位 发疯",
+        "onboard_time": 1739246601,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265016,
+        "num": 265016,
+        "word": "樊振东中式领封面",
+        "onboard_time": 1739252720,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192238,
+        "num": 263963,
+        "word": "东航89名飞行学员被停飞背后",
+        "onboard_time": 1739254341,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1730645,
+        "num": 262996,
+        "word": "谢广坤女儿控诉父亲",
+        "onboard_time": 1739252840,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 927497,
+        "num": 260898,
+        "word": "杨子身材",
+        "onboard_time": 1739251699,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 506935,
+        "num": 258997,
+        "word": "广西高中性侵案表姐发声",
+        "onboard_time": 1739249001,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 422295,
+        "num": 257112,
+        "word": "当我问deepseek生孩子的意义时",
+        "onboard_time": 1739249422,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 19315,
+        "num": 254714,
+        "word": "徐梦桃说自己是真的热爱空中技巧",
+        "onboard_time": 1739255780,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79036,
+        "num": 253208,
+        "word": "Mugler蔡徐坤",
+        "onboard_time": 1739252421,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483828,
+        "num": 252144,
+        "word": "留几手 杨子不要脸",
+        "onboard_time": 1739255719,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357914,
+        "num": 249502,
+        "word": "林更新回应是否三搭得问赵老师",
+        "onboard_time": 1739249243,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331051,
+        "num": 247880,
+        "word": "无量仙翁的袖子让一批特效师崩溃了",
+        "onboard_time": 1739255598,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 31714,
+        "num": 246924,
+        "word": "宣璐清冷唐妆",
+        "onboard_time": 1739255300,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326638,
+        "num": 243967,
+        "word": "哪吒2海外发行商否认biubiubiu翻译",
+        "onboard_time": 1739254220,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 320106,
+        "num": 242299,
+        "word": "杨子许佳琪 纣王妲己浴池戏",
+        "onboard_time": 1739244681,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286707,
+        "num": 240156,
+        "word": "一张合照上没有华人却全是华人",
+        "onboard_time": 1739249001,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 240094,
+        "num": 240094,
+        "word": "卢昱晓裙子腰围大了",
+        "onboard_time": 1739251220,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 82151,
+        "num": 237247,
+        "word": "王者狄仁杰绮世丹青新皮肤",
+        "onboard_time": 1739255661,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 235579,
+        "num": 235579,
+        "word": "金莎晒和孙丞潇合影",
+        "onboard_time": 1739252900,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222190,
+        "num": 222190,
+        "word": "梁洁终于能上桌了",
+        "onboard_time": 1739254700,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201736,
+        "num": 201736,
+        "word": "哪吒2票房超87亿",
+        "onboard_time": 1739244980,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25449,
+        "num": 197129,
+        "word": "上学时那个爱趴窗户的班主任",
+        "onboard_time": 1739255780,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 54920,
+        "num": 196783,
+        "word": "女子去菜市场后感染H10N3禽流感",
+        "onboard_time": 1739255300,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196495,
+        "num": 196495,
+        "word": "宋亚轩两声哎哎包含了山东人太多话",
+        "onboard_time": 1739255300,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195595,
+        "num": 195595,
+        "word": "刘敏涛不可能来演没身份的",
+        "onboard_time": 1739255360,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182781,
+        "num": 182781,
+        "word": "陈思诚谈邀周润发出演唐探缘起",
+        "onboard_time": 1739254640,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25066,
+        "num": 175511,
+        "word": "发行放映协会回应哪吒2被偷票房",
+        "onboard_time": 1739256021,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155080,
+        "num": 173174,
+        "word": "燕子你一定要救中国啊",
+        "onboard_time": 1739252720,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171809,
+        "num": 171809,
+        "word": "百色去世女生母亲发声",
+        "onboard_time": 1739255661,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170834,
+        "num": 170834,
+        "word": "金包银项链1克金售价1900元",
+        "onboard_time": 1739249001,
+        "rank": 36,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 166390,
+        "num": 166390,
+        "word": "永川地震",
+        "onboard_time": 1739253080,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158220,
+        "num": 158220,
+        "word": "警方介入调查老师唐某某",
+        "onboard_time": 1739243000,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155337,
+        "num": 155337,
+        "word": "留几手后悔离婚",
+        "onboard_time": 1739239819,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149021,
+        "num": 149021,
+        "word": "琼瑶丈夫前妻去世",
+        "onboard_time": 1739256200,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25174,
+        "num": 147081,
+        "word": "男子正月初九买的金条5天赚2万多",
+        "onboard_time": 1739256200,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 146167,
+        "num": 146167,
+        "word": "演员请就位3演员阵容官宣",
+        "onboard_time": 1739244501,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143947,
+        "num": 143947,
+        "word": "哪吒票房",
+        "onboard_time": 1739238740,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142473,
+        "num": 142473,
+        "word": "湖人100分连线",
+        "onboard_time": 1739254640,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139494,
+        "num": 139494,
+        "word": "谢娜回应林更新",
+        "onboard_time": 1739252900,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258390,
+        "num": 139486,
+        "word": "被李明德砸车车主说绝不和解",
+        "onboard_time": 1739253141,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138290,
+        "num": 138290,
+        "word": "刘梓晨 演员请就位",
+        "onboard_time": 1739244860,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135257,
+        "num": 135257,
+        "word": "为何我们买不到便宜又好用的卫生巾",
+        "onboard_time": 1739253141,
+        "rank": 48,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 134049,
+        "num": 134049,
+        "word": "王楚钦第二本主流女刊",
+        "onboard_time": 1739253921,
+        "rank": 49,
+        "category": "体育,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#乡亲们的笑脸是最美的风景#"
+    }
+  }
+}
