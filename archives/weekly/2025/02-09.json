@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739287533906,
+  "endTime": 1739288369514,
   "band_list": [
     {
       "raw_hot": 10037874,
@@ -235,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1847068,
+      "num": 1847068,
+      "word": "冲入江中救人白马离世",
+      "onboard_time": 1739285062,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1812555,
       "num": 1812555,
       "word": "演员请就位 发疯",
@@ -273,14 +281,6 @@
       "onboard_time": 1739158583,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1742483,
-      "num": 1742483,
-      "word": "冲入江中救人白马离世",
-      "onboard_time": 1739285062,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1730645,
@@ -729,6 +729,14 @@
       "onboard_time": 1739178680,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1009954,
+      "num": 1009954,
+      "word": "薛凯琪直播被工作人员紧急闭麦",
+      "onboard_time": 1739286321,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 1008651,
@@ -1651,6 +1659,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 582712,
+      "num": 457038,
+      "word": "工资不高又经常熬夜的工作",
+      "onboard_time": 1739284762,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 582513,
       "num": 492674,
       "word": "演员请就位3演员阵容官宣",
@@ -1723,6 +1739,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 565144,
+      "num": 451671,
+      "word": "人民会堂回应上午开会下午放哪吒2",
+      "onboard_time": 1739286380,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 564332,
       "num": 495474,
       "word": "哪吒票房",
@@ -1761,14 +1785,6 @@
       "onboard_time": 1739030721,
       "rank": 17,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 554714,
-      "num": 457038,
-      "word": "工资不高又经常熬夜的工作",
-      "onboard_time": 1739284762,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 548342,
@@ -2227,14 +2243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 451671,
-      "num": 451671,
-      "word": "人民会堂回应上午开会下午放哪吒2",
-      "onboard_time": 1739286380,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 450494,
       "num": 349711,
       "word": "12306回应乘客买到过期4年方便面",
@@ -2313,6 +2321,14 @@
       "onboard_time": 1739170279,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 426102,
+      "num": 426102,
+      "word": "教师唐某某被采取刑事强制措施",
+      "onboard_time": 1739287581,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 425579,
@@ -2683,6 +2699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 364009,
+      "num": 364009,
+      "word": "苹果和阿里将为中国iPhone开发AI功能",
+      "onboard_time": 1739284641,
+      "rank": 39,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 361995,
       "num": 263548,
       "word": "卢昱晓裙子腰围大了",
@@ -2843,14 +2867,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 332317,
-      "num": 332317,
-      "word": "苹果和阿里将为中国iPhone开发AI功能",
-      "onboard_time": 1739284641,
-      "rank": 39,
-      "category": "互联网,数码"
-    },
-    {
       "raw_hot": 329167,
       "num": 329167,
       "word": "2025KPL春季赛定妆照",
@@ -2929,6 +2945,14 @@
       "onboard_time": 1739099662,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 323946,
+      "num": 332454,
+      "word": "核酸大王张核子被限高",
+      "onboard_time": 1739284102,
+      "rank": 43,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 320887,
@@ -3235,6 +3259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 290159,
+      "num": 333038,
+      "word": "有网店假冒必吃榜卖了100万单",
+      "onboard_time": 1739286321,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 289234,
       "num": 289234,
       "word": "孙龙说韩国队薅倒了两名中国运动员",
@@ -3451,6 +3483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 272300,
+      "num": 272300,
+      "word": "崔漫莉",
+      "onboard_time": 1739286862,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 271873,
       "num": 271873,
       "word": "原来这些角色都是锤娜丽莎演的",
@@ -3553,14 +3593,6 @@
       "onboard_time": 1739283742,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 260457,
-      "num": 332454,
-      "word": "核酸大王张核子被限高",
-      "onboard_time": 1739284102,
-      "rank": 43,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 259686,
@@ -3913,14 +3945,6 @@
       "onboard_time": 1739064020,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 234672,
-      "num": 234672,
-      "word": "崔漫莉",
-      "onboard_time": 1739286862,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 234432,
@@ -4979,14 +5003,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 198957,
-      "num": 334641,
-      "word": "薛凯琪直播被工作人员紧急闭麦",
-      "onboard_time": 1739286321,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 198496,
       "num": 198496,
       "word": "在仙侠剧看见我本位型女主了",
@@ -5409,14 +5425,6 @@
       "onboard_time": 1739145859,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 190608,
-      "num": 333038,
-      "word": "有网店假冒必吃榜卖了100万单",
-      "onboard_time": 1739286321,
-      "rank": 19,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 190358,
@@ -6043,6 +6051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173525,
+      "num": 173525,
+      "word": "唐某某严重违反教师职业道德",
+      "onboard_time": 1739288061,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173252,
       "num": 173252,
       "word": "饺子能不能别穿着条纹衫提这种要求",
@@ -6379,6 +6395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 165458,
+      "num": 165458,
+      "word": "吴倩年代剧造型",
+      "onboard_time": 1739287401,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164941,
       "num": 164941,
       "word": "星穹铁道",
@@ -6556,7 +6580,7 @@
     },
     {
       "raw_hot": 161180,
-      "num": 161180,
+      "num": 324453,
       "word": "北京医院偶遇岳云鹏",
       "onboard_time": 1739281943,
       "rank": 41,
@@ -7323,6 +7347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142329,
+      "num": 249306,
+      "word": "韩国观众两次干扰王芮",
+      "onboard_time": 1739284581,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142126,
       "num": 142126,
       "word": "DeepSeek情人节首选花样年华",
@@ -7388,7 +7420,7 @@
     },
     {
       "raw_hot": 140466,
-      "num": 188025,
+      "num": 364400,
       "word": "外交部回应中方移除钓鱼岛附近浮标",
       "onboard_time": 1739276601,
       "rank": 37,
@@ -7448,14 +7480,6 @@
       "word": "你们吵架就吵架怎么还牵手啊",
       "onboard_time": 1739171120,
       "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 138488,
-      "num": 138488,
-      "word": "吴倩年代剧造型",
-      "onboard_time": 1739287401,
-      "rank": 45,
       "category": "剧集"
     },
     {
@@ -7656,14 +7680,6 @@
       "word": "梁靖崑世界排名上升至第3",
       "onboard_time": 1739240300,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 131400,
-      "num": 249306,
-      "word": "韩国观众两次干扰王芮",
-      "onboard_time": 1739284581,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -8443,6 +8459,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 103791,
+      "num": 385163,
+      "word": "年轻人连吃汤圆都有仪式感",
+      "onboard_time": 1739286981,
+      "rank": 14,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 103765,
       "num": 103765,
       "word": "王天辰古子成边吃火锅边直播",
@@ -8737,6 +8761,14 @@
       "onboard_time": 1739165482,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87679,
+      "num": 290952,
+      "word": "WTT追加100万美元奖金",
+      "onboard_time": 1739287702,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 87672,
@@ -9331,6 +9363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 57868,
+      "num": 324081,
+      "word": "郑钦文破发",
+      "onboard_time": 1739287942,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57722,
       "num": 58824,
       "word": "短道速滑容不下这么脏的黑手",
@@ -9369,14 +9409,6 @@
       "onboard_time": 1739104762,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 54602,
-      "num": 385163,
-      "word": "年轻人连吃汤圆都有仪式感",
-      "onboard_time": 1739286981,
-      "rank": 14,
-      "category": "正能量"
     },
     {
       "raw_hot": 53753,
@@ -9481,6 +9513,14 @@
       "onboard_time": 1739191821,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 50613,
+      "num": 144725,
+      "word": "ABC比基尼安睡裤被骂",
+      "onboard_time": 1739288300,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50130,
@@ -9835,20 +9875,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35309,
+      "num": 1395728,
+      "word": "首善答卷",
+      "onboard_time": 1739285901,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35099,
       "num": 53312,
       "word": "一群外地阿姨奔赴灾区捐菜又做饭",
       "onboard_time": 1739215031,
       "rank": 34,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 35081,
-      "num": 1395728,
-      "word": "首善答卷",
-      "onboard_time": 1739285901,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34842,
