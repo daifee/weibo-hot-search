@@ -1,6 +1,6 @@
 {
   "startTime": 1739291403043,
-  "endTime": 1739291403043,
+  "endTime": 1739292302227,
   "band_list": [
     {
       "raw_hot": 1783007,
@@ -67,12 +67,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 422391,
+      "num": 250991,
+      "word": "饺子进入中国导演票房榜前三",
+      "onboard_time": 1739289559,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 420018,
       "num": 280291,
       "word": "潘宏发哪吒2申公豹台词回应争议",
       "onboard_time": 1739283621,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 397121,
+      "num": 262495,
+      "word": "崔漫莉",
+      "onboard_time": 1739286862,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 388016,
@@ -89,14 +105,6 @@
       "onboard_time": 1739284762,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 317127,
-      "num": 262495,
-      "word": "崔漫莉",
-      "onboard_time": 1739286862,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 314995,
@@ -123,16 +131,8 @@
       "category": "互联网,数码"
     },
     {
-      "raw_hot": 250991,
-      "num": 250991,
-      "word": "饺子进入中国导演票房榜前三",
-      "onboard_time": 1739289559,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 250684,
-      "num": 250684,
+      "raw_hot": 258607,
+      "num": 258607,
       "word": "郑钦文0比2贾巴尔",
       "onboard_time": 1739289021,
       "rank": 18,
@@ -187,12 +187,36 @@
       "category": "网红"
     },
     {
-      "raw_hot": 138538,
-      "num": 138538,
+      "raw_hot": 162613,
+      "num": 260981,
+      "word": "流感高烧3天不退小心是重症",
+      "onboard_time": 1739290640,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 153929,
+      "num": 153929,
+      "word": "男生隔空猥亵未成年女孩被判5年",
+      "onboard_time": 1739291597,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149302,
+      "num": 147145,
       "word": "刻骨明辛",
       "onboard_time": 1739289858,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146025,
+      "num": 146025,
+      "word": "家人称国安小将国外集训重伤脑死亡",
+      "onboard_time": 1739291659,
+      "rank": 29,
+      "category": "民生新闻,体育"
     },
     {
       "raw_hot": 134671,
@@ -227,20 +251,20 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 118430,
+      "num": 118430,
+      "word": "五福临门",
+      "onboard_time": 1739264481,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117302,
       "num": 117302,
       "word": "全智贤被追缴2000多万韩元税款",
       "onboard_time": 1739268381,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 116224,
-      "num": 116224,
-      "word": "五福临门",
-      "onboard_time": 1739264481,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 114062,
@@ -251,12 +275,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 113673,
+      "num": 113673,
+      "word": "哪吒2里竟然藏了这么多文物彩蛋",
+      "onboard_time": 1739289920,
+      "rank": 33,
+      "category": "民生新闻,电影"
+    },
+    {
       "raw_hot": 111593,
       "num": 111593,
       "word": "美国说唱歌手入狱后遭殴打强奸",
       "onboard_time": 1739279601,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110086,
+      "num": 105934,
+      "word": "哪吒2最新预测总票房160.3亿",
+      "onboard_time": 1739288959,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 109886,
@@ -291,20 +331,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 90736,
-      "num": 105934,
-      "word": "哪吒2最新预测总票房160.3亿",
-      "onboard_time": 1739288959,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 90578,
       "num": 105853,
       "word": "哪吒票房",
       "onboard_time": 1739283922,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 88781,
+      "num": 105745,
+      "word": "黄杨钿甜今年高考",
+      "onboard_time": 1739275820,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 86939,
@@ -315,12 +355,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 86418,
-      "num": 105745,
-      "word": "黄杨钿甜今年高考",
-      "onboard_time": 1739275820,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 83972,
+      "num": 83972,
+      "word": "元宵节满月",
+      "onboard_time": 1739290998,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83302,
@@ -371,12 +411,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 60751,
-      "num": 260981,
-      "word": "流感高烧3天不退小心是重症",
-      "onboard_time": 1739290640,
-      "rank": 15,
-      "category": "健康医疗"
+      "raw_hot": 63018,
+      "num": 63018,
+      "word": "善意的竞争",
+      "onboard_time": 1739286802,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 38720,
+      "num": 154341,
+      "word": "已经开始期待明年过年了",
+      "onboard_time": 1739291898,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34476,
@@ -395,8 +443,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 6742,
-      "num": 110663,
+      "raw_hot": 8740,
+      "num": 153966,
       "word": "徐梦桃的目标是在米兰卫冕",
       "onboard_time": 1739291297,
       "rank": 34,
@@ -406,6 +454,9 @@
   "hotgov_list": [
     {
       "word": "#把各民族优秀传统文化发扬光大#"
+    },
+    {
+      "word": "#习近平总书记这样部署东北全面振兴#"
     }
   ]
 }
