@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739269507412,
+  "endTime": 1739270498236,
   "band_list": [
     {
       "raw_hot": 10037874,
@@ -779,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 949548,
+      "num": 949548,
+      "word": "全智贤被追缴2000多万韩元税款",
+      "onboard_time": 1739268381,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 938585,
       "num": 938585,
       "word": "女子疑遭丈夫灌面汤呛死案将开庭",
@@ -859,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 863423,
+      "num": 850921,
+      "word": "哪吒2再破89亿",
+      "onboard_time": 1739265141,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 859930,
       "num": 522282,
       "word": "谢娜报平安",
@@ -889,14 +905,6 @@
       "onboard_time": 1739172801,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 850921,
-      "num": 850921,
-      "word": "哪吒2再破89亿",
-      "onboard_time": 1739265141,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 849969,
@@ -1523,6 +1531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 573226,
+      "num": 573226,
+      "word": "国漫四帅",
+      "onboard_time": 1739267601,
+      "rank": 4,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 572379,
       "num": 572379,
       "word": "申公豹不是十二金仙的原因找到了",
@@ -1603,14 +1619,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 556117,
-      "num": 415540,
-      "word": "全智贤被追缴2000多万韩元税款",
-      "onboard_time": 1739268381,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 548342,
       "num": 548342,
       "word": "买到哪吒2手写票的观众发声",
@@ -1665,6 +1673,14 @@
       "onboard_time": 1739239880,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 532718,
+      "num": 411483,
+      "word": "g社镜头下的卢昱晓申有娜",
+      "onboard_time": 1739265622,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 531802,
@@ -1737,14 +1753,6 @@
       "onboard_time": 1739105784,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 520122,
-      "num": 411483,
-      "word": "g社镜头下的卢昱晓申有娜",
-      "onboard_time": 1739265622,
-      "rank": 40,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 518286,
@@ -2011,14 +2019,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 457658,
-      "num": 457658,
-      "word": "国漫四帅",
-      "onboard_time": 1739267601,
-      "rank": 4,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 453291,
       "num": 360157,
       "word": "动画公司回应138家公司托举哪吒2",
@@ -2072,6 +2072,14 @@
       "word": "四川宜宾山体滑坡救援现场",
       "onboard_time": 1739071100,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 435853,
+      "num": 441371,
+      "word": "381名员工因心得体会字数不符被罚",
+      "onboard_time": 1739267901,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -2715,6 +2723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 313469,
+      "num": 449652,
+      "word": "WTT公布改革措施",
+      "onboard_time": 1739268141,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 311172,
       "num": 379578,
       "word": "樊振东对乒乓球还有更长远的向往",
@@ -2929,6 +2945,14 @@
       "onboard_time": 1739182339,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 286236,
+      "num": 427530,
+      "word": "首届电竞奥运会2027年举行",
+      "onboard_time": 1739268801,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 284563,
@@ -3283,12 +3307,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 253197,
+      "num": 222609,
+      "word": "刘诗诗仪态",
+      "onboard_time": 1739267359,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 252779,
       "num": 217672,
       "word": "谁家男二第九集才出场",
       "onboard_time": 1739174721,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 252294,
+      "num": 222147,
+      "word": "黄晓明带父亲重走当年参军路",
+      "onboard_time": 1739268081,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 250288,
@@ -3403,6 +3443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 243436,
+      "num": 221507,
+      "word": "有故人之姿因为就是故人",
+      "onboard_time": 1739268682,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 242838,
       "num": 242838,
       "word": "哪吒2票房超88亿元",
@@ -3427,6 +3475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 240439,
+      "num": 230948,
+      "word": "哪吒3会比哪吒2快很多",
+      "onboard_time": 1739267062,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 240102,
       "num": 227785,
       "word": "唐探1900是历史书上的短短几行",
@@ -3441,6 +3497,14 @@
       "onboard_time": 1739247383,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238373,
+      "num": 233361,
+      "word": "五福临门",
+      "onboard_time": 1739022862,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 237741,
@@ -3523,14 +3587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 233361,
-      "num": 233361,
-      "word": "五福临门",
-      "onboard_time": 1739022862,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 232848,
       "num": 232848,
       "word": "哪吒2进入全球电影票房榜前40",
@@ -3568,14 +3624,6 @@
       "word": "BBC报道哪吒2",
       "onboard_time": 1739265141,
       "rank": 29,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 230948,
-      "num": 230948,
-      "word": "哪吒3会比哪吒2快很多",
-      "onboard_time": 1739267062,
-      "rank": 30,
       "category": "电影"
     },
     {
@@ -3731,6 +3779,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 223411,
+      "num": 223411,
+      "word": "WTT公布重大优化改革措施",
+      "onboard_time": 1739269821,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222968,
       "num": 389545,
       "word": "AI播报0失误播音专业学生怎么办",
@@ -3849,14 +3905,6 @@
       "onboard_time": 1739110523,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 218682,
-      "num": 441371,
-      "word": "381名员工因心得体会字数不符被罚",
-      "onboard_time": 1739267901,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 218579,
@@ -4105,14 +4153,6 @@
       "onboard_time": 1739248523,
       "rank": 36,
       "category": "体育,时尚"
-    },
-    {
-      "raw_hot": 208800,
-      "num": 208800,
-      "word": "刘诗诗仪态",
-      "onboard_time": 1739267359,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 208770,
@@ -4387,14 +4427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 202364,
-      "num": 202364,
-      "word": "有故人之姿因为就是故人",
-      "onboard_time": 1739268682,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 202088,
       "num": 202088,
       "word": "好小众的一款魔尊人设",
@@ -4440,6 +4472,14 @@
       "word": "朴知元犯规",
       "onboard_time": 1739082020,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 200565,
+      "num": 200565,
+      "word": "WTT宣布奥运冠军可获外卡",
+      "onboard_time": 1739269582,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -4497,14 +4537,6 @@
       "onboard_time": 1739238683,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 198725,
-      "num": 449652,
-      "word": "WTT公布改革措施",
-      "onboard_time": 1739268141,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 198496,
@@ -4585,6 +4617,14 @@
       "onboard_time": 1739110761,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197347,
+      "num": 428944,
+      "word": "团伙用裸聊视频勒索30多人超70万",
+      "onboard_time": 1739268141,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 197213,
@@ -4732,7 +4772,7 @@
     },
     {
       "raw_hot": 194780,
-      "num": 194780,
+      "num": 220815,
       "word": "111岁老红军逝世",
       "onboard_time": 1739266042,
       "rank": 48,
@@ -5187,14 +5227,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 182544,
-      "num": 196417,
-      "word": "黄晓明带父亲重走当年参军路",
-      "onboard_time": 1739268081,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 181907,
       "num": 181907,
       "word": "王者荣耀小蛇糕",
@@ -5315,6 +5347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178720,
+      "num": 178720,
+      "word": "金包银哪吒手镯卖爆了",
+      "onboard_time": 1739270242,
+      "rank": 42,
+      "category": "民生新闻,电影"
+    },
+    {
       "raw_hot": 178707,
       "num": 383097,
       "word": "北方这周元宵节当天体感最冷",
@@ -5361,6 +5401,14 @@
       "onboard_time": 1739161643,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177960,
+      "num": 421282,
+      "word": "WTT修改强制参赛规定",
+      "onboard_time": 1739268801,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 177717,
@@ -5827,11 +5875,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 164867,
+      "num": 164867,
+      "word": "奥运冠军获得大满贯冠军赛参赛资格",
+      "onboard_time": 1739269461,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164651,
       "num": 164651,
       "word": "吴姗儒代班小姐不熙娣被质疑",
       "onboard_time": 1739169020,
       "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 164542,
+      "num": 164542,
+      "word": "声生不息金曲盛典探班直播",
+      "onboard_time": 1739270302,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -5856,14 +5920,6 @@
       "word": "林孝埈米兰冬奥见",
       "onboard_time": 1739085380,
       "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 164392,
-      "num": 421282,
-      "word": "WTT修改强制参赛规定",
-      "onboard_time": 1739268801,
-      "rank": 14,
       "category": "体育"
     },
     {
@@ -5987,14 +6043,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159399,
-      "num": 427530,
-      "word": "首届电竞奥运会2027年举行",
-      "onboard_time": 1739268801,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 159212,
       "num": 159212,
       "word": "创造营亚洲2主题曲天际线",
@@ -6065,14 +6113,6 @@
       "onboard_time": 1739194163,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 158122,
-      "num": 158122,
-      "word": "奥运冠军获得大满贯冠军赛参赛资格",
-      "onboard_time": 1739269461,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 157976,
@@ -6233,6 +6273,14 @@
       "onboard_time": 1739110402,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153143,
+      "num": 153143,
+      "word": "京东开启外卖服务",
+      "onboard_time": 1739269702,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 153087,
@@ -7803,14 +7851,6 @@
       "category": "运动健身,教育"
     },
     {
-      "raw_hot": 94108,
-      "num": 428944,
-      "word": "团伙用裸聊视频勒索30多人超70万",
-      "onboard_time": 1739268141,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 93513,
       "num": 276880,
       "word": "比亚迪天神之眼开创全民智驾",
@@ -8115,7 +8155,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 74419,
+      "raw_hot": 74437,
       "num": 1232143,
       "word": "一组数据看春节期间经济活力",
       "onboard_time": 1739265321,
@@ -8305,6 +8345,14 @@
       "onboard_time": 1739029701,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63120,
+      "num": 230534,
+      "word": "刘国梁回应WTT优化改革措施",
+      "onboard_time": 1739269402,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 63113,
@@ -8547,6 +8595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51586,
+      "num": 228782,
+      "word": "内娱发疯元年",
+      "onboard_time": 1739269821,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 51449,
       "num": 440620,
       "word": "高亭宇第二金",
@@ -8601,6 +8657,14 @@
       "onboard_time": 1739151918,
       "rank": 19,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 48162,
+      "num": 219596,
+      "word": "林孝埈发博说相信我们能够做到",
+      "onboard_time": 1739270302,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 47921,
@@ -8985,6 +9049,14 @@
       "onboard_time": 1739244322,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32985,
+      "num": 203207,
+      "word": "经纪公司回应全智贤被追缴税款",
+      "onboard_time": 1739270242,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 32779,
@@ -9632,14 +9704,6 @@
       "word": "蒯曼三项进决赛",
       "onboard_time": 1739038032,
       "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 8569,
-      "num": 202705,
-      "word": "刘国梁回应WTT优化改革措施",
-      "onboard_time": 1739269402,
-      "rank": 33,
       "category": "体育"
     },
     {
