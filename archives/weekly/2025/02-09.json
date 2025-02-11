@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739284831642,
+  "endTime": 1739287533906,
   "band_list": [
     {
       "raw_hot": 10037874,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 2003477,
-      "num": 789845,
+      "num": 1210604,
       "word": "都到90亿了 必须四舍五入",
       "onboard_time": 1739278041,
       "rank": 17,
@@ -273,6 +273,14 @@
       "onboard_time": 1739158583,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1742483,
+      "num": 1742483,
+      "word": "冲入江中救人白马离世",
+      "onboard_time": 1739285062,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1730645,
@@ -1267,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 686462,
+      "num": 458623,
+      "word": "潘宏发哪吒2申公豹台词回应争议",
+      "onboard_time": 1739283621,
+      "rank": 44,
+      "category": "网红"
+    },
+    {
       "raw_hot": 682475,
       "num": 682475,
       "word": "谢娜卡粉",
@@ -1628,7 +1644,7 @@
     },
     {
       "raw_hot": 583263,
-      "num": 440832,
+      "num": 519623,
       "word": "安妮海瑟薇后背上的汉字",
       "onboard_time": 1739281342,
       "rank": 17,
@@ -1745,6 +1761,14 @@
       "onboard_time": 1739030721,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 554714,
+      "num": 457038,
+      "word": "工资不高又经常熬夜的工作",
+      "onboard_time": 1739284762,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 548342,
@@ -2203,6 +2227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 451671,
+      "num": 451671,
+      "word": "人民会堂回应上午开会下午放哪吒2",
+      "onboard_time": 1739286380,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 450494,
       "num": 349711,
       "word": "12306回应乘客买到过期4年方便面",
@@ -2417,6 +2449,14 @@
       "onboard_time": 1739165601,
       "rank": 17,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 399240,
+      "num": 399240,
+      "word": "薛凯琪回应春晚好会扭",
+      "onboard_time": 1739283864,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 398323,
@@ -2707,6 +2747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 349571,
+      "num": 349571,
+      "word": "哪吒2票房已破91亿",
+      "onboard_time": 1739284762,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 345943,
       "num": 421282,
       "word": "WTT修改强制参赛规定",
@@ -2793,6 +2841,14 @@
       "onboard_time": 1739199321,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 332317,
+      "num": 332317,
+      "word": "苹果和阿里将为中国iPhone开发AI功能",
+      "onboard_time": 1739284641,
+      "rank": 39,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 329167,
@@ -3067,14 +3123,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 300023,
-      "num": 300023,
-      "word": "工资不高又经常熬夜的工作",
-      "onboard_time": 1739284762,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 299486,
       "num": 253810,
       "word": "哪吒2这个画面一帧渲染了1.5小时",
@@ -3105,14 +3153,6 @@
       "onboard_time": 1739078061,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 297431,
-      "num": 297431,
-      "word": "潘宏发哪吒2申公豹台词回应争议",
-      "onboard_time": 1739283621,
-      "rank": 44,
-      "category": "网红"
     },
     {
       "raw_hot": 296816,
@@ -3507,6 +3547,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263138,
+      "num": 408706,
+      "word": "郑钦文vs贾巴尔",
+      "onboard_time": 1739283742,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 260457,
+      "num": 332454,
+      "word": "核酸大王张核子被限高",
+      "onboard_time": 1739284102,
+      "rank": 43,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 259686,
       "num": 230168,
       "word": "菲警方找到绑架案中国母子遗骸",
@@ -3763,6 +3819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 241440,
+      "num": 241440,
+      "word": "哪吒2最新预测总票房超160亿",
+      "onboard_time": 1739285663,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 240892,
       "num": 240892,
       "word": "2月14日起哪吒2在悉尼不再排IMAX",
@@ -3851,6 +3915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234672,
+      "num": 234672,
+      "word": "崔漫莉",
+      "onboard_time": 1739286862,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234432,
       "num": 349326,
       "word": "前田陆归队",
@@ -3905,14 +3977,6 @@
       "onboard_time": 1739107941,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 231394,
-      "num": 300118,
-      "word": "薛凯琪回应春晚好会扭",
-      "onboard_time": 1739283864,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 231083,
@@ -4915,6 +4979,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 198957,
+      "num": 334641,
+      "word": "薛凯琪直播被工作人员紧急闭麦",
+      "onboard_time": 1739286321,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198496,
       "num": 198496,
       "word": "在仙侠剧看见我本位型女主了",
@@ -5089,14 +5161,6 @@
       "onboard_time": 1739250741,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196024,
-      "num": 116215,
-      "word": "哪吒2票房已破91亿",
-      "onboard_time": 1739284762,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 196022,
@@ -5347,6 +5411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190608,
+      "num": 333038,
+      "word": "有网店假冒必吃榜卖了100万单",
+      "onboard_time": 1739286321,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 190358,
       "num": 190358,
       "word": "宋妍霏录浪姐前给粉丝发红包",
@@ -5387,14 +5459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 189382,
-      "num": 408706,
-      "word": "郑钦文vs贾巴尔",
-      "onboard_time": 1739283742,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 189366,
       "num": 189366,
       "word": "亲人离世是一生学不会的必修课",
@@ -5417,6 +5481,22 @@
       "onboard_time": 1739087600,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188930,
+      "num": 188930,
+      "word": "律师称若崔漫莉所言属实或被拘役",
+      "onboard_time": 1739284762,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 188305,
+      "num": 188305,
+      "word": "李瓒破破烂烂李瓒缝缝补补",
+      "onboard_time": 1739286501,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 188214,
@@ -6411,6 +6491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162793,
+      "num": 162793,
+      "word": "善意的竞争",
+      "onboard_time": 1739204718,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 162545,
       "num": 162545,
       "word": "小伙失恋半夜整理共享电瓶车",
@@ -7099,14 +7187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 145791,
-      "num": 145791,
-      "word": "苹果和阿里将为中国iPhone开发AI功能",
-      "onboard_time": 1739284641,
-      "rank": 39,
-      "category": "互联网,数码"
-    },
-    {
       "raw_hot": 145650,
       "num": 145650,
       "word": "WTT发文为王曼昱庆生",
@@ -7308,7 +7388,7 @@
     },
     {
       "raw_hot": 140466,
-      "num": 140466,
+      "num": 188025,
       "word": "外交部回应中方移除钓鱼岛附近浮标",
       "onboard_time": 1739276601,
       "rank": 37,
@@ -7329,14 +7409,6 @@
       "onboard_time": 1739084960,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 139897,
-      "num": 139897,
-      "word": "核酸大王张核子被限高",
-      "onboard_time": 1739284102,
-      "rank": 43,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 139858,
@@ -7376,6 +7448,14 @@
       "word": "你们吵架就吵架怎么还牵手啊",
       "onboard_time": 1739171120,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 138488,
+      "num": 138488,
+      "word": "吴倩年代剧造型",
+      "onboard_time": 1739287401,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -7507,6 +7587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133475,
+      "num": 133475,
+      "word": "女子10年前买的1公斤金条赚了40万",
+      "onboard_time": 1739286741,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133241,
       "num": 133241,
       "word": "冰球",
@@ -7568,6 +7656,14 @@
       "word": "梁靖崑世界排名上升至第3",
       "onboard_time": 1739240300,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 131400,
+      "num": 249306,
+      "word": "韩国观众两次干扰王芮",
+      "onboard_time": 1739284581,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -7857,14 +7953,6 @@
       "onboard_time": 1739271741,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121041,
-      "num": 121041,
-      "word": "韩国观众两次干扰王芮",
-      "onboard_time": 1739284581,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 120928,
@@ -8947,14 +9035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 69450,
-      "num": 69450,
-      "word": "善意的竞争",
-      "onboard_time": 1739204718,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
       "raw_hot": 69291,
       "num": 69291,
       "word": "敢于表达是一种被严重低估的能力",
@@ -9289,6 +9369,14 @@
       "onboard_time": 1739104762,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 54602,
+      "num": 385163,
+      "word": "年轻人连吃汤圆都有仪式感",
+      "onboard_time": 1739286981,
+      "rank": 14,
+      "category": "正能量"
     },
     {
       "raw_hot": 53753,
@@ -9753,6 +9841,14 @@
       "onboard_time": 1739215031,
       "rank": 34,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 35081,
+      "num": 1395728,
+      "word": "首善答卷",
+      "onboard_time": 1739285901,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34842,
@@ -10369,14 +10465,6 @@
       "onboard_time": 1739194041,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 13435,
-      "num": 142654,
-      "word": "律师称若崔漫莉所言属实或被拘役",
-      "onboard_time": 1739284762,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 13256,
