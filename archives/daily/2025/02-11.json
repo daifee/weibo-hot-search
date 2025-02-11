@@ -1,6 +1,6 @@
 {
   "startTime": 1739204910696,
-  "endTime": 1739258464416,
+  "endTime": 1739259406218,
   "band_list": [
     {
       "raw_hot": 2924632,
@@ -11,7 +11,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2183579,
+      "raw_hot": 2397437,
       "num": 283930,
       "word": "留几手 杨子不要脸",
       "onboard_time": 1739255719,
@@ -115,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1136326,
+      "num": 299884,
+      "word": "百色去世女生母亲发声",
+      "onboard_time": 1739255661,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1110128,
       "num": 521631,
       "word": "孟子义赴柬埔寨拍摄网剧",
@@ -131,11 +139,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1066696,
+      "num": 469756,
+      "word": "哪吒2或将成全球动画票房第一",
+      "onboard_time": 1739251520,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1062062,
       "num": 278730,
       "word": "杨子身材",
       "onboard_time": 1739251699,
       "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1048703,
+      "num": 297858,
+      "word": "元宵晚会官宣",
+      "onboard_time": 1739258360,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -153,14 +177,6 @@
       "onboard_time": 1739244860,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 962208,
-      "num": 296821,
-      "word": "哪吒2或将成全球动画票房第一",
-      "onboard_time": 1739251520,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 959906,
@@ -203,20 +219,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 804233,
-      "num": 297596,
-      "word": "百色去世女生母亲发声",
-      "onboard_time": 1739255661,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 801377,
       "num": 413237,
       "word": "广西高中性侵案表姐发声",
       "onboard_time": 1739249001,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 776445,
+      "num": 295748,
+      "word": "无量仙翁的袖子让一批特效师崩溃了",
+      "onboard_time": 1739255598,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 727385,
@@ -232,14 +248,6 @@
       "word": "哪吒2被偷票房损失惨重是影城非片方",
       "onboard_time": 1739206696,
       "rank": 25,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 686074,
-      "num": 295748,
-      "word": "无量仙翁的袖子让一批特效师崩溃了",
-      "onboard_time": 1739255598,
-      "rank": 18,
       "category": "电影"
     },
     {
@@ -595,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 293830,
+      "num": 293830,
+      "word": "金价连涨一克左右的金饰成市场主流",
+      "onboard_time": 1739258119,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 285209,
       "num": 285209,
       "word": "男子正月初九买的金条5天赚2万多",
@@ -755,20 +771,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242838,
+      "num": 242838,
+      "word": "哪吒2票房超88亿元",
+      "onboard_time": 1739255958,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 238898,
       "num": 298404,
       "word": "留几手说早知道我也不离了",
       "onboard_time": 1739247383,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 236673,
-      "num": 236673,
-      "word": "哪吒2票房超88亿元",
-      "onboard_time": 1739255958,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 236525,
@@ -793,6 +809,14 @@
       "onboard_time": 1739247202,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 234356,
+      "num": 234356,
+      "word": "2岁男童被商场电梯夹断手指",
+      "onboard_time": 1739257399,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 231083,
@@ -833,6 +857,14 @@
       "onboard_time": 1739254700,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 221458,
+      "num": 221458,
+      "word": "樊振东开始为下一步成长勾勒图景",
+      "onboard_time": 1739257580,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 219149,
@@ -923,28 +955,20 @@
       "category": "体育,时尚"
     },
     {
-      "raw_hot": 207425,
-      "num": 207425,
-      "word": "2岁男童被商场电梯夹断手指",
-      "onboard_time": 1739257399,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 206693,
-      "num": 206693,
-      "word": "樊振东开始为下一步成长勾勒图景",
-      "onboard_time": 1739257580,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 202883,
       "num": 340215,
       "word": "疑似张凌赫新身份曝光",
       "onboard_time": 1739246601,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202591,
+      "num": 202591,
+      "word": "官方回应招博士需28岁以下",
+      "onboard_time": 1739258540,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 202428,
@@ -985,6 +1009,14 @@
       "onboard_time": 1739238683,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 199028,
+      "num": 199028,
+      "word": "酒店2米吊顶半夜掉了孕妇索赔17万",
+      "onboard_time": 1739258479,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 197693,
@@ -1059,6 +1091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192008,
+      "num": 279161,
+      "word": "家属称唐某某当年没有承认",
+      "onboard_time": 1739257221,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189754,
       "num": 189754,
       "word": "林孝埈夺冠后第一时间冲去拥抱张晶",
@@ -1121,6 +1161,14 @@
       "onboard_time": 1739245219,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 181028,
+      "num": 181028,
+      "word": "马云现身阿里园区和大家热情打招呼",
+      "onboard_time": 1739255000,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 180429,
@@ -1259,14 +1307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 170542,
-      "num": 170542,
-      "word": "马云现身阿里园区和大家热情打招呼",
-      "onboard_time": 1739255000,
-      "rank": 33,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 168908,
       "num": 173783,
       "word": "时代少年团非洲出发",
@@ -1339,6 +1379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160336,
+      "num": 160336,
+      "word": "卫生巾品牌集体被骂并不冤",
+      "onboard_time": 1739258119,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159966,
       "num": 159966,
       "word": "NBA",
@@ -1385,14 +1433,6 @@
       "onboard_time": 1739241200,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 150226,
-      "num": 279161,
-      "word": "家属称唐某某当年没有承认",
-      "onboard_time": 1739257221,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 150178,
@@ -1451,14 +1491,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 144757,
-      "num": 144757,
-      "word": "金价连涨一克左右的金饰成市场主流",
-      "onboard_time": 1739258119,
-      "rank": 39,
-      "category": "财经"
-    },
-    {
       "raw_hot": 143389,
       "num": 143389,
       "word": "当代年轻人把麻将玩出了新花样",
@@ -1507,6 +1539,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 134882,
+      "num": 199035,
+      "word": "女儿和父亲闹矛盾离家出走11年未归",
+      "onboard_time": 1739257940,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134049,
       "num": 263631,
       "word": "王楚钦第二本主流女刊",
@@ -1547,16 +1587,16 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 128770,
-      "num": 128770,
-      "word": "元宵晚会官宣",
-      "onboard_time": 1739258360,
+      "raw_hot": 127794,
+      "num": 127794,
+      "word": "吴彤 演员请就位",
+      "onboard_time": 1739258901,
       "rank": 42,
       "category": "综艺"
     },
     {
       "raw_hot": 127477,
-      "num": 127477,
+      "num": 127859,
       "word": "画家林婉珍去世",
       "onboard_time": 1739255419,
       "rank": 49,
@@ -1603,20 +1643,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117347,
-      "num": 117347,
-      "word": "卫生巾品牌集体被骂并不冤",
-      "onboard_time": 1739258119,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 116818,
       "num": 116818,
       "word": "她是武则天不是武媚娘",
       "onboard_time": 1739178680,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116549,
+      "num": 116549,
+      "word": "樊振东有更大的眼界和更好的思考",
+      "onboard_time": 1739258960,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 114866,
@@ -1681,6 +1721,14 @@
       "onboard_time": 1739178561,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107452,
+      "num": 107452,
+      "word": "华为上汽敲定合作",
+      "onboard_time": 1739259379,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 106984,
@@ -1867,14 +1915,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 76570,
-      "num": 186510,
-      "word": "女儿和父亲闹矛盾离家出走11年未归",
-      "onboard_time": 1739257940,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 75673,
       "num": 75673,
       "word": "刘诗诗扛剧能力",
@@ -1995,6 +2035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57440,
+      "num": 284943,
+      "word": "中国速度滑冰11金收官",
+      "onboard_time": 1739258000,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 54920,
       "num": 196783,
       "word": "女子去菜市场后感染H10N3禽流感",
@@ -2019,6 +2067,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 51849,
+      "num": 272613,
+      "word": "回南天让人难受的原因找到了",
+      "onboard_time": 1739257819,
+      "rank": 19,
+      "category": "议题讨论,健康医疗"
+    },
+    {
       "raw_hot": 46722,
       "num": 261263,
       "word": "美国两飞机跑道相撞现场画面",
@@ -2033,6 +2089,14 @@
       "onboard_time": 1739208195,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 46283,
+      "num": 281705,
+      "word": "中国速度滑冰女团追逐夺金",
+      "onboard_time": 1739258060,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 44870,
@@ -2075,14 +2139,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 36760,
-      "num": 284943,
-      "word": "中国速度滑冰11金收官",
-      "onboard_time": 1739258000,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 35548,
       "num": 64677,
       "word": "对话无量仙翁配音演员王德顺",
@@ -2100,19 +2156,19 @@
     },
     {
       "raw_hot": 34842,
-      "num": 443661,
+      "num": 474147,
       "word": "亚冬会中国队特写",
       "onboard_time": 1739256380,
       "rank": 2,
       "category": "体育"
     },
     {
-      "raw_hot": 34439,
-      "num": 281705,
-      "word": "中国速度滑冰女团追逐夺金",
-      "onboard_time": 1739258060,
-      "rank": 13,
-      "category": "体育"
+      "raw_hot": 33381,
+      "num": 281352,
+      "word": "媒体评黑心棉为何能重出江湖",
+      "onboard_time": 1739257640,
+      "rank": 14,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 33210,
@@ -2153,6 +2209,14 @@
       "onboard_time": 1739255300,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 30066,
+      "num": 200366,
+      "word": "特朗普下令解散美国军事学院监事会",
+      "onboard_time": 1739258720,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 28199,
@@ -2211,12 +2275,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 20653,
-      "num": 281352,
-      "word": "媒体评黑心棉为何能重出江湖",
-      "onboard_time": 1739257640,
-      "rank": 14,
-      "category": "议题讨论"
+      "raw_hot": 20741,
+      "num": 246017,
+      "word": "金博洋让大家来看花滑比赛",
+      "onboard_time": 1739258780,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 19315,
@@ -2233,14 +2297,6 @@
       "onboard_time": 1739205016,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15054,
-      "num": 272613,
-      "word": "回南天让人难受的原因找到了",
-      "onboard_time": 1739257819,
-      "rank": 19,
-      "category": "议题讨论,健康医疗"
     },
     {
       "raw_hot": 14327,
@@ -2292,6 +2348,9 @@
     },
     {
       "word": "#乡亲们的笑脸是最美的风景#"
+    },
+    {
+      "word": "#习近平东北之行的几个关键词#"
     }
   ]
 }

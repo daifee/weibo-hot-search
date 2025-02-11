@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1739258464416,
+  "endTime": 1739259406218,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1691,6 +1691,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 2397437,
+      "num": 283930,
+      "word": "留几手 杨子不要脸",
+      "onboard_time": 1739255719,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2385266,
       "num": 343554,
       "word": "刘雯道歉",
@@ -2025,14 +2033,6 @@
       "onboard_time": 1739001983,
       "rank": 4,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 2183579,
-      "num": 283930,
-      "word": "留几手 杨子不要脸",
-      "onboard_time": 1739255719,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 2183435,
