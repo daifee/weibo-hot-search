@@ -1,6 +1,6 @@
 {
   "startTime": 1739291403043,
-  "endTime": 1739301456074,
+  "endTime": 1739302565283,
   "band_list": [
     {
       "raw_hot": 1783007,
@@ -547,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16674,
+      "num": 25139,
+      "word": "中方在有关海域布设浮标合法",
+      "onboard_time": 1739300412,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 15274,
       "num": 53650,
       "word": "长八甲火箭成功首飞",
@@ -563,16 +571,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12335,
-      "num": 25139,
-      "word": "中方在有关海域布设浮标合法",
-      "onboard_time": 1739300412,
-      "rank": 39,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 11924,
-      "num": 34458,
+      "raw_hot": 12539,
+      "num": 70416,
       "word": "专家建议不要盲目追涨黄金",
       "onboard_time": 1739301132,
       "rank": 21,
@@ -595,19 +595,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 8859,
+      "num": 117834,
+      "word": "中国速滑队11金收官",
+      "onboard_time": 1739283322,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 8740,
       "num": 153966,
       "word": "徐梦桃的目标是在米兰卫冕",
       "onboard_time": 1739291297,
       "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 7758,
-      "num": 117834,
-      "word": "中国速滑队11金收官",
-      "onboard_time": 1739283322,
-      "rank": 2,
       "category": "体育"
     },
     {
