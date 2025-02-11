@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739252340444,
+  "endTime": 1739255467887,
   "band_list": [
     {
       "raw_hot": 10037874,
@@ -203,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1812515,
+      "num": 1812515,
+      "word": "刘梓晨演相柳",
+      "onboard_time": 1739248883,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1811166,
       "num": 1811166,
       "word": "浪姐6名单",
@@ -225,6 +233,14 @@
       "onboard_time": 1739158583,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1703294,
+      "num": 278817,
+      "word": "谢广坤女儿控诉父亲",
+      "onboard_time": 1739252840,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1700231,
@@ -297,14 +313,6 @@
       "onboard_time": 1739187682,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1476995,
-      "num": 461792,
-      "word": "刘梓晨演相柳",
-      "onboard_time": 1739248883,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 1470037,
@@ -561,6 +569,14 @@
       "onboard_time": 1739082680,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1062062,
+      "num": 278730,
+      "word": "杨子身材",
+      "onboard_time": 1739251699,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 1054116,
@@ -1363,14 +1379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 577869,
-      "num": 241610,
-      "word": "杨子身材",
-      "onboard_time": 1739251699,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 575511,
       "num": 575511,
       "word": "警方介入调查老师唐某某",
@@ -1593,6 +1601,14 @@
       "onboard_time": 1739169200,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 516705,
+      "num": 283637,
+      "word": "当我问deepseek生孩子的意义时",
+      "onboard_time": 1739249422,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 516550,
@@ -2099,14 +2115,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 387783,
-      "num": 283637,
-      "word": "当我问deepseek生孩子的意义时",
-      "onboard_time": 1739249422,
-      "rank": 23,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 386765,
       "num": 284061,
       "word": "林允古装一番大女主剧",
@@ -2121,6 +2129,14 @@
       "onboard_time": 1739093179,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 382928,
+      "num": 278002,
+      "word": "哪吒2或将成全球动画票房第一",
+      "onboard_time": 1739251520,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 382560,
@@ -2236,7 +2252,7 @@
     },
     {
       "raw_hot": 361995,
-      "num": 261410,
+      "num": 263548,
       "word": "卢昱晓裙子腰围大了",
       "onboard_time": 1739251220,
       "rank": 26,
@@ -2771,6 +2787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 279090,
+      "num": 279090,
+      "word": "樊振东中式领封面",
+      "onboard_time": 1739252720,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 278721,
       "num": 255292,
       "word": "许昕感叹林诗栋世界第一太年轻了",
@@ -2793,6 +2817,22 @@
       "onboard_time": 1739077821,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 277963,
+      "num": 277963,
+      "word": "陈思诚谈邀周润发出演唐探缘起",
+      "onboard_time": 1739254640,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 277642,
+      "num": 277642,
+      "word": "金莎晒和孙丞潇合影",
+      "onboard_time": 1739252900,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 276910,
@@ -3057,6 +3097,14 @@
       "onboard_time": 1739181320,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 248980,
+      "num": 248980,
+      "word": "被李明德砸车车主说绝不和解",
+      "onboard_time": 1739253141,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 248935,
@@ -3603,6 +3651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213781,
+      "num": 213781,
+      "word": "燕子你一定要救中国啊",
+      "onboard_time": 1739252720,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 213702,
       "num": 213702,
       "word": "CZ680航班故障取消致百余人延误",
@@ -3723,14 +3779,6 @@
       "category": "体育,时尚"
     },
     {
-      "raw_hot": 209275,
-      "num": 209275,
-      "word": "哪吒2或将成全球动画票房第一",
-      "onboard_time": 1739251520,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 208770,
       "num": 237236,
       "word": "卖伞人家却给不了孩子遮风避雨的家",
@@ -3753,6 +3801,14 @@
       "onboard_time": 1739110102,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 208208,
+      "num": 208208,
+      "word": "梁洁终于能上桌了",
+      "onboard_time": 1739254700,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 207932,
@@ -3881,6 +3937,14 @@
       "onboard_time": 1739105063,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204417,
+      "num": 278869,
+      "word": "哪吒2海外发行商否认biubiubiu翻译",
+      "onboard_time": 1739254220,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 204166,
@@ -4659,6 +4723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 183022,
+      "num": 183022,
+      "word": "张真源出发非洲机场look",
+      "onboard_time": 1739254220,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182547,
       "num": 182547,
       "word": "无痛取美瞳",
@@ -5033,6 +5105,14 @@
       "onboard_time": 1739184260,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 171109,
+      "num": 171109,
+      "word": "谢娜回应林更新",
+      "onboard_time": 1739252900,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 171090,
@@ -5459,6 +5539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157664,
+      "num": 157664,
+      "word": "宋亚轩两声哎哎包含了山东人太多话",
+      "onboard_time": 1739255300,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157206,
       "num": 157206,
       "word": "我问deepseek掌心好看吗",
@@ -5520,6 +5608,14 @@
       "word": "武艺分手两三年了",
       "onboard_time": 1739003064,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 155715,
+      "num": 155715,
+      "word": "乘风破浪的姐姐",
+      "onboard_time": 1739251581,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -5715,6 +5811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149401,
+      "num": 278395,
+      "word": "东航89名飞行学员被停飞背后",
+      "onboard_time": 1739254341,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148554,
       "num": 148554,
       "word": "林俊杰说完整了我的不完美",
@@ -5899,6 +6003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143448,
+      "num": 143448,
+      "word": "永川地震",
+      "onboard_time": 1739253080,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143389,
       "num": 143389,
       "word": "当代年轻人把麻将玩出了新花样",
@@ -5971,6 +6083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141984,
+      "num": 141984,
+      "word": "湖人100分连线",
+      "onboard_time": 1739254640,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141652,
       "num": 233103,
       "word": "赵睿担任中国男篮队长",
@@ -5993,6 +6113,14 @@
       "onboard_time": 1739081360,
       "rank": 19,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 141140,
+      "num": 141140,
+      "word": "春节摄影大赛",
+      "onboard_time": 1739254580,
+      "rank": 43,
+      "category": "正能量"
     },
     {
       "raw_hot": 140228,
@@ -6099,12 +6227,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 135110,
+      "num": 135110,
+      "word": "刘敏涛不可能来演没身份的",
+      "onboard_time": 1739255360,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134807,
       "num": 515841,
       "word": "孙龙林孝埈刘少昂携手晋级",
       "onboard_time": 1739068939,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134684,
+      "num": 134684,
+      "word": "为何我们买不到便宜又好用的卫生巾",
+      "onboard_time": 1739253141,
+      "rank": 46,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 134566,
@@ -6283,12 +6427,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127794,
-      "num": 127794,
-      "word": "乘风破浪的姐姐",
-      "onboard_time": 1739251581,
-      "rank": 47,
-      "category": "综艺"
+      "raw_hot": 128098,
+      "num": 263631,
+      "word": "王楚钦第二本主流女刊",
+      "onboard_time": 1739253921,
+      "rank": 24,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 127698,
@@ -6297,6 +6441,14 @@
       "onboard_time": 1739177961,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127477,
+      "num": 127477,
+      "word": "画家林婉珍去世",
+      "onboard_time": 1739255419,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 127332,
@@ -7107,6 +7259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83547,
+      "num": 162186,
+      "word": "王一博向世界传递中国青年声音",
+      "onboard_time": 1739254100,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82856,
       "num": 267586,
       "word": "鸣沙踏歌",
@@ -7561,6 +7721,14 @@
       "onboard_time": 1739213831,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57643,
+      "num": 278203,
+      "word": "Mugler蔡徐坤",
+      "onboard_time": 1739252421,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 54616,
@@ -8139,6 +8307,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 28409,
+      "num": 158985,
+      "word": "女子去菜市场后感染H10N3禽流感",
+      "onboard_time": 1739255300,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28199,
       "num": 434351,
       "word": "冯俊熙王雪金牌",
@@ -8329,6 +8505,14 @@
       "onboard_time": 1739121915,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19189,
+      "num": 263558,
+      "word": "宣璐清冷唐妆",
+      "onboard_time": 1739255300,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 19134,
@@ -8724,6 +8908,9 @@
     },
     {
       "word": "#冰雪同梦#"
+    },
+    {
+      "word": "#乡亲们的笑脸是最美的风景#"
     }
   ]
 }
