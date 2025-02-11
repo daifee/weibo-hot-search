@@ -1,0 +1,410 @@
+{
+  "runTime": 1739263302114,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3639303,
+        "num": 3639303,
+        "word": "饺子偷偷改了哪吒3计划上映时间",
+        "onboard_time": 1739261481,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 885296,
+        "num": 885296,
+        "word": "金价连涨一克左右的金饰成市场主流",
+        "onboard_time": 1739258119,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 31551,
+        "num": 875266,
+        "word": "亚冬会中国队特写",
+        "onboard_time": 1739256380,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 890974,
+        "num": 872808,
+        "word": "姚笛复出",
+        "onboard_time": 1739246540,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 869897,
+        "num": 869897,
+        "word": "女子疑遭丈夫灌面汤呛死案将开庭",
+        "onboard_time": 1739259558,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 575245,
+        "num": 575245,
+        "word": "卫生巾品牌集体被骂并不冤",
+        "onboard_time": 1739258119,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 818123,
+        "num": 568907,
+        "word": "元宵晚会官宣",
+        "onboard_time": 1739258360,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 807791,
+        "num": 567314,
+        "word": "哪吒2或将成全球动画票房第一",
+        "onboard_time": 1739251520,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 561292,
+        "num": 561292,
+        "word": "官方回应招博士需28岁以下",
+        "onboard_time": 1739258540,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336765,
+        "num": 336765,
+        "word": "黄金已经涨疯了",
+        "onboard_time": 1739261298,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1354075,
+        "num": 335169,
+        "word": "留几手 杨子不要脸",
+        "onboard_time": 1739255719,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 754252,
+        "num": 330929,
+        "word": "哪吒敖丙上元宵晚会了",
+        "onboard_time": 1739259620,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 552326,
+        "num": 325786,
+        "word": "刘梓晨演相柳",
+        "onboard_time": 1739248883,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 542508,
+        "num": 323523,
+        "word": "唐某某被举报部分属实部分正核查",
+        "onboard_time": 1739243000,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59795,
+        "num": 318595,
+        "word": "陷入亏损的基层医院如何留住患者",
+        "onboard_time": 1739261600,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1521495,
+        "num": 316101,
+        "word": "百色去世女生母亲发声",
+        "onboard_time": 1739255661,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 443365,
+        "num": 312954,
+        "word": "无量仙翁的袖子让一批特效师崩溃了",
+        "onboard_time": 1739255598,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 310164,
+        "num": 310164,
+        "word": "男子正月初九买的金条5天赚2万多",
+        "onboard_time": 1739256200,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 273539,
+        "num": 273539,
+        "word": "当我问deepseek生孩子的意义时",
+        "onboard_time": 1739249422,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 124772,
+        "num": 271802,
+        "word": "舒淇好有生命力",
+        "onboard_time": 1739260520,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 439507,
+        "num": 270633,
+        "word": "杨子许佳琪 纣王妲己浴池戏",
+        "onboard_time": 1739244681,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349857,
+        "num": 267337,
+        "word": "日本偶遇SHE旅行",
+        "onboard_time": 1739262681,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328051,
+        "num": 266030,
+        "word": "琼瑶丈夫前妻去世",
+        "onboard_time": 1739256200,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277060,
+        "num": 263503,
+        "word": "迪丽热巴侧脸睡颜",
+        "onboard_time": 1739260339,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261224,
+        "num": 261224,
+        "word": "谢广坤女儿控诉父亲",
+        "onboard_time": 1739252840,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250336,
+        "num": 250336,
+        "word": "酒店2米吊顶半夜掉了孕妇索赔17万",
+        "onboard_time": 1739258479,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227535,
+        "num": 227535,
+        "word": "2岁男童被商场电梯夹断手指",
+        "onboard_time": 1739257399,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214139,
+        "num": 214139,
+        "word": "如何看待父母给的年货被扔垃圾箱旁",
+        "onboard_time": 1739261119,
+        "rank": 27,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 158646,
+        "num": 210396,
+        "word": "中国速滑队11金5银5铜收官",
+        "onboard_time": 1739261481,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209008,
+        "num": 209008,
+        "word": "哪吒2票房超88亿元",
+        "onboard_time": 1739255958,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 207783,
+        "num": 207783,
+        "word": "易烊千玺元宵晚会预告",
+        "onboard_time": 1739262320,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204007,
+        "num": 204007,
+        "word": "相柳本命年第一劫",
+        "onboard_time": 1739262800,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201806,
+        "num": 201806,
+        "word": "樊振东对乒乓球还有更长远的向往",
+        "onboard_time": 1739261840,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202895,
+        "num": 197301,
+        "word": "孙阳搭一部我嗑一部",
+        "onboard_time": 1739262320,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188325,
+        "num": 188325,
+        "word": "前田陆归队",
+        "onboard_time": 1739262022,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198006,
+        "num": 187594,
+        "word": "男子买金条5天就赚了2万多",
+        "onboard_time": 1739258060,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185723,
+        "num": 185723,
+        "word": "卢昱晓裙子腰围大了",
+        "onboard_time": 1739251220,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 92486,
+        "num": 180095,
+        "word": "安妮海瑟薇的蛇年新装",
+        "onboard_time": 1739262022,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 130861,
+        "num": 179729,
+        "word": "蛇年元宵节21时53分月亮最圆",
+        "onboard_time": 1739261840,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179643,
+        "num": 179643,
+        "word": "湖南元宵晚会灯谜节目单",
+        "onboard_time": 1739262979,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177104,
+        "num": 177104,
+        "word": "杨子身材",
+        "onboard_time": 1739251699,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174499,
+        "num": 174499,
+        "word": "演员请就位 发疯",
+        "onboard_time": 1739246601,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169173,
+        "num": 169173,
+        "word": "第五人格",
+        "onboard_time": 1739262861,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128089,
+        "num": 140159,
+        "word": "室友电瓶爆燃男生全身烧伤案将开庭",
+        "onboard_time": 1739261240,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139850,
+        "num": 139850,
+        "word": "樊振东开始为下一步成长勾勒图景",
+        "onboard_time": 1739257580,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64410,
+        "num": 137895,
+        "word": "最舍不得删的春节照片",
+        "onboard_time": 1739261780,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137239,
+        "num": 137239,
+        "word": "女儿和父亲闹矛盾离家出走11年未归",
+        "onboard_time": 1739257940,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137075,
+        "num": 137075,
+        "word": "一些珠宝饰品不再用黄金",
+        "onboard_time": 1739249302,
+        "rank": 47,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 136560,
+        "num": 136560,
+        "word": "蛇年元宵十五的月亮十五圆",
+        "onboard_time": 1739262621,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128761,
+        "num": 128761,
+        "word": "林更新回应是否三搭得问赵老师",
+        "onboard_time": 1739249243,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#乡亲们的笑脸是最美的风景#"
+    }
+  }
+}

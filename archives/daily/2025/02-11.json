@@ -1,7 +1,15 @@
 {
   "startTime": 1739204910696,
-  "endTime": 1739262514099,
+  "endTime": 1739263302114,
   "band_list": [
+    {
+      "raw_hot": 3639303,
+      "num": 3639303,
+      "word": "饺子偷偷改了哪吒3计划上映时间",
+      "onboard_time": 1739261481,
+      "rank": 0,
+      "category": "电影"
+    },
     {
       "raw_hot": 2924632,
       "num": 2709219,
@@ -123,14 +131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1150917,
-      "num": 1184146,
-      "word": "饺子偷偷改了哪吒3计划上映时间",
-      "onboard_time": 1739261481,
-      "rank": 0,
-      "category": "电影"
-    },
-    {
       "raw_hot": 1110128,
       "num": 521631,
       "word": "孟子义赴柬埔寨拍摄网剧",
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 1066696,
-      "num": 518509,
+      "num": 567314,
       "word": "哪吒2或将成全球动画票房第一",
       "onboard_time": 1739251520,
       "rank": 23,
@@ -355,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 575245,
+      "num": 575245,
+      "word": "卫生巾品牌集体被骂并不冤",
+      "onboard_time": 1739258119,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 571467,
       "num": 772059,
       "word": "饺子想快点回归创作阶段",
@@ -473,14 +481,6 @@
       "onboard_time": 1739197521,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 481973,
-      "num": 481973,
-      "word": "卫生巾品牌集体被骂并不冤",
-      "onboard_time": 1739258119,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 467347,
@@ -617,6 +617,22 @@
       "onboard_time": 1739251220,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 349857,
+      "num": 267337,
+      "word": "日本偶遇SHE旅行",
+      "onboard_time": 1739262681,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 336765,
+      "num": 336765,
+      "word": "黄金已经涨疯了",
+      "onboard_time": 1739261298,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 335307,
@@ -859,14 +875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 238821,
-      "num": 238821,
-      "word": "黄金已经涨疯了",
-      "onboard_time": 1739261298,
-      "rank": 31,
-      "category": "财经"
-    },
-    {
       "raw_hot": 236525,
       "num": 236525,
       "word": "吴艳妮60米栏8秒22夺冠",
@@ -971,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214139,
+      "num": 480655,
+      "word": "如何看待父母给的年货被扔垃圾箱旁",
+      "onboard_time": 1739261119,
+      "rank": 14,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 213967,
       "num": 213967,
       "word": "华晨宇 今天的我叫花开喝",
@@ -1027,6 +1043,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 207783,
+      "num": 207783,
+      "word": "易烊千玺元宵晚会预告",
+      "onboard_time": 1739262320,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206412,
       "num": 206412,
       "word": "男子买金条5天就赚了2万多",
@@ -1035,12 +1059,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 204007,
+      "num": 204007,
+      "word": "相柳本命年第一劫",
+      "onboard_time": 1739262800,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203811,
       "num": 203811,
       "word": "前田陆归队",
       "onboard_time": 1739262022,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202895,
+      "num": 197301,
+      "word": "孙阳搭一部我嗑一部",
+      "onboard_time": 1739262320,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 202883,
@@ -1275,6 +1315,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 179643,
+      "num": 179643,
+      "word": "湖南元宵晚会灯谜节目单",
+      "onboard_time": 1739262979,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179463,
       "num": 179463,
       "word": "李明德大学同学发文",
@@ -1387,6 +1435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169173,
+      "num": 169173,
+      "word": "第五人格",
+      "onboard_time": 1739262861,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 168908,
       "num": 173783,
       "word": "时代少年团非洲出发",
@@ -1483,6 +1539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158646,
+      "num": 210396,
+      "word": "中国速滑队11金5银5铜收官",
+      "onboard_time": 1739261481,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158531,
       "num": 158531,
       "word": "陈哲远梁洁你俩这是剧宣还是官宣",
@@ -1505,14 +1569,6 @@
       "onboard_time": 1739246121,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 151532,
-      "num": 151532,
-      "word": "易烊千玺元宵晚会预告",
-      "onboard_time": 1739262320,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 150454,
@@ -1604,7 +1660,7 @@
     },
     {
       "raw_hot": 139858,
-      "num": 139858,
+      "num": 179729,
       "word": "蛇年元宵节21时53分月亮最圆",
       "onboard_time": 1739261840,
       "rank": 44,
@@ -1617,6 +1673,14 @@
       "onboard_time": 1739247861,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 136560,
+      "num": 136560,
+      "word": "蛇年元宵十五的月亮十五圆",
+      "onboard_time": 1739262621,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135883,
@@ -1641,22 +1705,6 @@
       "onboard_time": 1739253921,
       "rank": 24,
       "category": "体育,时尚"
-    },
-    {
-      "raw_hot": 133812,
-      "num": 133812,
-      "word": "中国速滑队11金5银5铜收官",
-      "onboard_time": 1739261481,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 133703,
-      "num": 133703,
-      "word": "孙阳搭一部我嗑一部",
-      "onboard_time": 1739262320,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 131401,
@@ -1689,6 +1737,14 @@
       "onboard_time": 1739251640,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 128089,
+      "num": 479366,
+      "word": "室友电瓶爆燃男生全身烧伤案将开庭",
+      "onboard_time": 1739261240,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127794,
@@ -1939,6 +1995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92486,
+      "num": 431835,
+      "word": "安妮海瑟薇的蛇年新装",
+      "onboard_time": 1739262022,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 91646,
       "num": 91646,
       "word": "张康乐工作室喊话私生",
@@ -1977,14 +2041,6 @@
       "onboard_time": 1739195542,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 81056,
-      "num": 479366,
-      "word": "室友电瓶爆燃男生全身烧伤案将开庭",
-      "onboard_time": 1739261240,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 79634,
@@ -2099,6 +2155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 64410,
+      "num": 481258,
+      "word": "最舍不得删的春节照片",
+      "onboard_time": 1739261780,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 64268,
       "num": 64268,
       "word": "杨子许佳琪搭戏",
@@ -2113,14 +2177,6 @@
       "onboard_time": 1739207354,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 63631,
-      "num": 480655,
-      "word": "如何看待父母给的年货被扔垃圾箱旁",
-      "onboard_time": 1739261119,
-      "rank": 14,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 63113,
@@ -2145,6 +2201,14 @@
       "onboard_time": 1739234842,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 59795,
+      "num": 480832,
+      "word": "陷入亏损的基层医院如何留住患者",
+      "onboard_time": 1739261600,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59722,
@@ -2201,14 +2265,6 @@
       "onboard_time": 1739257819,
       "rank": 19,
       "category": "议题讨论,健康医疗"
-    },
-    {
-      "raw_hot": 51287,
-      "num": 481258,
-      "word": "最舍不得删的春节照片",
-      "onboard_time": 1739261780,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 46722,
@@ -2297,14 +2353,6 @@
       "onboard_time": 1739256380,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 33844,
-      "num": 431835,
-      "word": "安妮海瑟薇的蛇年新装",
-      "onboard_time": 1739262022,
-      "rank": 22,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 33381,
@@ -2409,14 +2457,6 @@
       "onboard_time": 1739243061,
       "rank": 19,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 23251,
-      "num": 480832,
-      "word": "陷入亏损的基层医院如何留住患者",
-      "onboard_time": 1739261600,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23061,
