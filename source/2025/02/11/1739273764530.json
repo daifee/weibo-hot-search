@@ -1,0 +1,410 @@
+{
+  "runTime": 1739273764530,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2858463,
+        "num": 2858463,
+        "word": "哪吒2票房破90亿",
+        "onboard_time": 1739272700,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1126780,
+        "num": 1126780,
+        "word": "金包银哪吒手镯卖爆了",
+        "onboard_time": 1739270242,
+        "rank": 1,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 61171,
+        "num": 526775,
+        "word": "一组数据看春节期间经济活力",
+        "onboard_time": 1739265321,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2022000,
+        "num": 513071,
+        "word": "饺子偷偷改了哪吒3计划上映时间",
+        "onboard_time": 1739261481,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 474093,
+        "num": 474093,
+        "word": "国漫四帅",
+        "onboard_time": 1739267601,
+        "rank": 4,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 773088,
+        "num": 435452,
+        "word": "黄金已经涨疯了",
+        "onboard_time": 1739261298,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 839428,
+        "num": 432330,
+        "word": "元宵晚会官宣",
+        "onboard_time": 1739258360,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 822750,
+        "num": 411726,
+        "word": "美队4悉尼排片量远高于哪吒2",
+        "onboard_time": 1739270540,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 390141,
+        "num": 390141,
+        "word": "WTT公布改革措施",
+        "onboard_time": 1739268141,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170010,
+        "num": 388954,
+        "word": "特朗普希望乌提供5000亿美元稀土换援助",
+        "onboard_time": 1739270481,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 797694,
+        "num": 388695,
+        "word": "全智贤被追缴2000多万韩元税款",
+        "onboard_time": 1739268381,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 737960,
+        "num": 386494,
+        "word": "内娱发疯元年",
+        "onboard_time": 1739269821,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 428657,
+        "num": 385620,
+        "word": "黄晓明带父亲重走当年参军路",
+        "onboard_time": 1739268081,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336428,
+        "num": 384042,
+        "word": "男子楼上扔烟头引爆楼下炮摊",
+        "onboard_time": 1739272160,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51017,
+        "num": 383072,
+        "word": "王楚钦成亚冬会野生代言人",
+        "onboard_time": 1739273360,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 382433,
+        "num": 382433,
+        "word": "小伙戒碳水减肥暴瘦40斤后秃了",
+        "onboard_time": 1739270902,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 794148,
+        "num": 375369,
+        "word": "百色去世女生父亲发声",
+        "onboard_time": 1739264361,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339459,
+        "num": 339459,
+        "word": "381名员工因心得体会字数不符被罚",
+        "onboard_time": 1739267901,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321690,
+        "num": 321690,
+        "word": "哪吒敖丙上元宵晚会了",
+        "onboard_time": 1739259620,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71199,
+        "num": 296807,
+        "word": "Hanni签证到期",
+        "onboard_time": 1739269702,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289163,
+        "num": 289163,
+        "word": "WTT修改强制参赛规定",
+        "onboard_time": 1739268801,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271656,
+        "num": 271656,
+        "word": "五福临门",
+        "onboard_time": 1739264481,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261082,
+        "num": 261082,
+        "word": "g社镜头下的卢昱晓申有娜",
+        "onboard_time": 1739265622,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 256440,
+        "num": 256440,
+        "word": "姚笛复出",
+        "onboard_time": 1739246540,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89747,
+        "num": 255420,
+        "word": "WTT冠军赛增加更多七局四胜制",
+        "onboard_time": 1739272221,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254842,
+        "num": 254842,
+        "word": "孙颖莎云见面会",
+        "onboard_time": 1739272761,
+        "rank": 25,
+        "category": "体育,美妆"
+      },
+      {
+        "raw_hot": 220119,
+        "num": 220119,
+        "word": "哪吒2香港定档",
+        "onboard_time": 1739271621,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 206570,
+        "num": 206570,
+        "word": "日本偶遇SHE旅行",
+        "onboard_time": 1739262681,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31435,
+        "num": 205427,
+        "word": "徐梦桃说亚冬会表现非常圆满",
+        "onboard_time": 1739272700,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124324,
+        "num": 205363,
+        "word": "国漫五美",
+        "onboard_time": 1739273541,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 205362,
+        "num": 205362,
+        "word": "严浩翔好适合这个BGM",
+        "onboard_time": 1739273000,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 201733,
+        "num": 201733,
+        "word": "为什么恶人多拜佛",
+        "onboard_time": 1739271501,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198709,
+        "num": 198709,
+        "word": "女子疑遭丈夫灌面汤呛死案将开庭",
+        "onboard_time": 1739259558,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194854,
+        "num": 194854,
+        "word": "好一个乖乖女出现人传人现象",
+        "onboard_time": 1739266761,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186851,
+        "num": 186851,
+        "word": "湖南元宵晚会灯谜节目单",
+        "onboard_time": 1739262979,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157265,
+        "num": 157265,
+        "word": "中芯国际2024年净利润同比下降23.3%",
+        "onboard_time": 1739272581,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 58650,
+        "num": 156151,
+        "word": "丹麦人网上请愿买下美国加州",
+        "onboard_time": 1739273661,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155745,
+        "num": 155745,
+        "word": "刘梓晨演相柳",
+        "onboard_time": 1739248883,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148665,
+        "num": 148665,
+        "word": "刘诗诗仪态",
+        "onboard_time": 1739267359,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147554,
+        "num": 147554,
+        "word": "董思成演技",
+        "onboard_time": 1739271321,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146893,
+        "num": 146893,
+        "word": "被好好爱着的人是不会皱皱巴巴的",
+        "onboard_time": 1739273061,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146554,
+        "num": 146554,
+        "word": "原来哪吒制作人也是流萤厨",
+        "onboard_time": 1739272941,
+        "rank": 41,
+        "category": "电影,游戏"
+      },
+      {
+        "raw_hot": 143088,
+        "num": 143088,
+        "word": "金价上涨三大原因曝光",
+        "onboard_time": 1739271922,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 135403,
+        "num": 135403,
+        "word": "年轻人的买黄金新玩法",
+        "onboard_time": 1739267961,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131500,
+        "num": 131500,
+        "word": "官方回应招博士需28岁以下",
+        "onboard_time": 1739258540,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121161,
+        "num": 121161,
+        "word": "浣碧也是好起来都骂上甄远道了",
+        "onboard_time": 1739271741,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118710,
+        "num": 118710,
+        "word": "Hanni拒绝ADOR签证续签",
+        "onboard_time": 1739270661,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116371,
+        "num": 116371,
+        "word": "声生不息金曲盛典探班直播",
+        "onboard_time": 1739270302,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115173,
+        "num": 115173,
+        "word": "111岁老红军逝世",
+        "onboard_time": 1739266042,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111290,
+        "num": 111290,
+        "word": "WTT宣布奥运冠军可获外卡",
+        "onboard_time": 1739269582,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平东北之行的几个关键词#"
+    }
+  }
+}

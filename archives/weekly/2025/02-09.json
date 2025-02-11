@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739272768784,
+  "endTime": 1739273764530,
   "band_list": [
     {
       "raw_hot": 10037874,
@@ -40,6 +40,14 @@
       "word": "曝哪吒2被偷票房损失几千万",
       "onboard_time": 1739177359,
       "rank": 0,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 2858463,
+      "num": 2858463,
+      "word": "哪吒2票房破90亿",
+      "onboard_time": 1739272700,
+      "rank": 17,
       "category": "电影"
     },
     {
@@ -547,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1126780,
+      "num": 1126780,
+      "word": "金包银哪吒手镯卖爆了",
+      "onboard_time": 1739270242,
+      "rank": 42,
+      "category": "民生新闻,电影"
+    },
+    {
       "raw_hot": 1126411,
       "num": 1126411,
       "word": "石矶娘娘的配音竟是公司行政",
@@ -585,14 +601,6 @@
       "onboard_time": 1739097800,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1091779,
-      "num": 1091779,
-      "word": "金包银哪吒手镯卖爆了",
-      "onboard_time": 1739270242,
-      "rank": 42,
-      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 1090451,
@@ -979,6 +987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 822750,
+      "num": 613898,
+      "word": "美队4悉尼排片量远高于哪吒2",
+      "onboard_time": 1739270540,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 821293,
       "num": 821293,
       "word": "孙颖莎战胜蒯曼夺冠",
@@ -1049,14 +1065,6 @@
       "onboard_time": 1739059336,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 784350,
-      "num": 613898,
-      "word": "美队4悉尼排片量远高于哪吒2",
-      "onboard_time": 1739270540,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 780838,
@@ -1137,6 +1145,14 @@
       "onboard_time": 1739166441,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 737960,
+      "num": 398985,
+      "word": "内娱发疯元年",
+      "onboard_time": 1739269821,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 727385,
@@ -2107,14 +2123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 435636,
-      "num": 398985,
-      "word": "内娱发疯元年",
-      "onboard_time": 1739269821,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 434164,
       "num": 434164,
       "word": "林孝埈趁乱离开赛场",
@@ -2177,14 +2185,6 @@
       "onboard_time": 1739268141,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 419987,
-      "num": 391255,
-      "word": "哪吒2票房破90亿",
-      "onboard_time": 1739272700,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 419783,
@@ -2617,6 +2617,14 @@
       "onboard_time": 1739148621,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 336428,
+      "num": 408665,
+      "word": "男子楼上扔烟头引爆楼下炮摊",
+      "onboard_time": 1739272160,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 335307,
@@ -3195,6 +3203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 271656,
+      "num": 271656,
+      "word": "五福临门",
+      "onboard_time": 1739022862,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 271436,
       "num": 271436,
       "word": "邓为海棠式演技",
@@ -3257,14 +3273,6 @@
       "onboard_time": 1739244561,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 264346,
-      "num": 264346,
-      "word": "五福临门",
-      "onboard_time": 1739022862,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 263971,
@@ -3369,6 +3377,14 @@
       "onboard_time": 1739191642,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 254842,
+      "num": 254842,
+      "word": "孙颖莎云见面会",
+      "onboard_time": 1739272761,
+      "rank": 25,
+      "category": "体育,美妆"
     },
     {
       "raw_hot": 253600,
@@ -4363,6 +4379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205362,
+      "num": 205362,
+      "word": "严浩翔好适合这个BGM",
+      "onboard_time": 1739273000,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 205050,
       "num": 205050,
       "word": "岳云鹏面试王宝强刘昊然左右为难",
@@ -4504,6 +4528,14 @@
       "word": "好小众的一款魔尊人设",
       "onboard_time": 1739155460,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 201733,
+      "num": 201733,
+      "word": "为什么恶人多拜佛",
+      "onboard_time": 1739271501,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -4688,14 +4720,6 @@
       "word": "逐玉",
       "onboard_time": 1739110761,
       "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 197438,
-      "num": 197438,
-      "word": "为什么恶人多拜佛",
-      "onboard_time": 1739271501,
-      "rank": 31,
       "category": "剧集"
     },
     {
@@ -5771,6 +5795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 170010,
+      "num": 388954,
+      "word": "特朗普希望乌提供5000亿美元稀土换援助",
+      "onboard_time": 1739270481,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 170002,
       "num": 234990,
       "word": "林诗栋回应包揽三冠",
@@ -6043,14 +6075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 161684,
-      "num": 161684,
-      "word": "特朗普希望乌提供5000亿美元稀土换援助",
-      "onboard_time": 1739270481,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 161512,
       "num": 161512,
       "word": "原来男女生在送礼上存在思维差异",
@@ -6225,6 +6249,14 @@
       "onboard_time": 1739100742,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157265,
+      "num": 157265,
+      "word": "中芯国际2024年净利润同比下降23.3%",
+      "onboard_time": 1739272581,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 157206,
@@ -6579,12 +6611,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 146893,
+      "num": 146893,
+      "word": "被好好爱着的人是不会皱皱巴巴的",
+      "onboard_time": 1739273061,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146848,
       "num": 146848,
       "word": "五福临门一集两场婚礼",
       "onboard_time": 1739165601,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146554,
+      "num": 146554,
+      "word": "原来哪吒制作人也是流萤厨",
+      "onboard_time": 1739272941,
+      "rank": 41,
+      "category": "电影,游戏"
     },
     {
       "raw_hot": 146436,
@@ -7243,12 +7291,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124708,
-      "num": 124708,
-      "word": "中芯国际2024年净利润同比下降23.3%",
-      "onboard_time": 1739272581,
-      "rank": 47,
-      "category": "财经"
+      "raw_hot": 124324,
+      "num": 205363,
+      "word": "国漫五美",
+      "onboard_time": 1739273541,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 124287,
@@ -7339,6 +7387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121161,
+      "num": 121161,
+      "word": "浣碧也是好起来都骂上甄远道了",
+      "onboard_time": 1739271741,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120928,
       "num": 120928,
       "word": "苗苗跳同款哪吒舞了",
@@ -7425,22 +7481,6 @@
       "onboard_time": 1739021123,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 119106,
-      "num": 119106,
-      "word": "浣碧也是好起来都骂上甄远道了",
-      "onboard_time": 1739271741,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 118721,
-      "num": 408665,
-      "word": "男子楼上扔烟头引爆楼下炮摊",
-      "onboard_time": 1739272160,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 118676,
@@ -8051,6 +8091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 89747,
+      "num": 255420,
+      "word": "WTT冠军赛增加更多七局四胜制",
+      "onboard_time": 1739272221,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89691,
       "num": 237255,
       "word": "当事人回应40万新车被小孩引燃",
@@ -8321,6 +8369,14 @@
       "onboard_time": 1739161584,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71199,
+      "num": 296807,
+      "word": "Hanni签证到期",
+      "onboard_time": 1739269702,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 70759,
@@ -8611,6 +8667,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 58650,
+      "num": 156151,
+      "word": "丹麦人网上请愿买下美国加州",
+      "onboard_time": 1739273661,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 58319,
       "num": 116140,
       "word": "娱乐活动玩出意外谁该担责",
@@ -8769,6 +8833,14 @@
       "onboard_time": 1739191821,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51017,
+      "num": 383072,
+      "word": "王楚钦成亚冬会野生代言人",
+      "onboard_time": 1739273360,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 50130,
@@ -8948,7 +9020,7 @@
     },
     {
       "raw_hot": 41052,
-      "num": 163331,
+      "num": 205427,
       "word": "徐梦桃说亚冬会表现非常圆满",
       "onboard_time": 1739272700,
       "rank": 36,
