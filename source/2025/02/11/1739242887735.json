@@ -1,0 +1,410 @@
+{
+  "runTime": 1739242887735,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1425206,
+        "num": 1425206,
+        "word": "主治医生娶了社牛脑瘫女孩辞职追随",
+        "onboard_time": 1739240779,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 877837,
+        "num": 877837,
+        "word": "金价",
+        "onboard_time": 1739241380,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 22378,
+        "num": 730946,
+        "word": "超2000万人申请国补买手机等",
+        "onboard_time": 1739116460,
+        "rank": 2,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 690991,
+        "num": 690991,
+        "word": "哪吒2被偷票房损失惨重是影城非片方",
+        "onboard_time": 1739206696,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 536223,
+        "num": 536223,
+        "word": "央视直播时一只小狐狸抢镜",
+        "onboard_time": 1739199321,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 776776,
+        "num": 535714,
+        "word": "百色教育局通报一高中教师被举报",
+        "onboard_time": 1739206336,
+        "rank": 5,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 512682,
+        "num": 512682,
+        "word": "2024年结婚登记数再度下探原因为何",
+        "onboard_time": 1739235261,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 492646,
+        "num": 492646,
+        "word": "霍启刚回应中国香港队员赛后被围殴",
+        "onboard_time": 1739233775,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 469573,
+        "num": 469573,
+        "word": "虞书欣捂肚子是双轨剧情",
+        "onboard_time": 1739239880,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386207,
+        "num": 386207,
+        "word": "哪吒票房",
+        "onboard_time": 1739238740,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1384160,
+        "num": 367240,
+        "word": "留几手后悔离婚",
+        "onboard_time": 1739239819,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1028605,
+        "num": 357345,
+        "word": "车主回应被李明德砸车",
+        "onboard_time": 1739240779,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 469987,
+        "num": 326614,
+        "word": "孟子义赴柬埔寨拍摄网剧",
+        "onboard_time": 1739232678,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 415760,
+        "num": 321862,
+        "word": "谢娜报平安",
+        "onboard_time": 1739230217,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303894,
+        "num": 303894,
+        "word": "什么样的男人才是结婚潜力股",
+        "onboard_time": 1739241380,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302723,
+        "num": 302723,
+        "word": "饺子希望采访媒体给自己打马赛克",
+        "onboard_time": 1739234781,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 273505,
+        "num": 273505,
+        "word": "老外看完哪吒2称中国动画杀疯了",
+        "onboard_time": 1739203817,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 247775,
+        "num": 247775,
+        "word": "美一机场两飞机在地面发生碰撞",
+        "onboard_time": 1739233159,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 104864,
+        "num": 242677,
+        "word": "四川山体滑坡现场子弟兵昼夜搜救",
+        "onboard_time": 1739242101,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83652,
+        "num": 239697,
+        "word": "朴孝敏将4月结婚",
+        "onboard_time": 1739242221,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239439,
+        "num": 239439,
+        "word": "本周做什么都顺的星座",
+        "onboard_time": 1739238440,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221624,
+        "num": 221624,
+        "word": "回南天到底是啥天",
+        "onboard_time": 1739240000,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198776,
+        "num": 198776,
+        "word": "动物园回应268元可抱撸小狮子",
+        "onboard_time": 1739241440,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193605,
+        "num": 193605,
+        "word": "孙颖莎刷新WTT最高积分纪录",
+        "onboard_time": 1739241380,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191648,
+        "num": 191648,
+        "word": "男子半夜烧毁前女友烟酒店",
+        "onboard_time": 1739232619,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187880,
+        "num": 187880,
+        "word": "特朗普说霉霉很难过",
+        "onboard_time": 1739233699,
+        "rank": 25,
+        "category": "国际时政,艺人"
+      },
+      {
+        "raw_hot": 176994,
+        "num": 176994,
+        "word": "南方人家里又变水帘洞了",
+        "onboard_time": 1739241200,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152934,
+        "num": 175513,
+        "word": "买到哪吒2手写票的观众发声",
+        "onboard_time": 1739215810,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142720,
+        "num": 173943,
+        "word": "陈哲远直接扑梁洁腿上了",
+        "onboard_time": 1739239880,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164514,
+        "num": 171368,
+        "word": "河南通报20亩麦苗被铲除村干部停职",
+        "onboard_time": 1739241741,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148425,
+        "num": 169165,
+        "word": "陈梦说我永远热爱乒乓球",
+        "onboard_time": 1739241622,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168560,
+        "num": 168560,
+        "word": "女子称给差评后被商家找到父亲单位",
+        "onboard_time": 1739238618,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165161,
+        "num": 165161,
+        "word": "哪吒",
+        "onboard_time": 1739192963,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163270,
+        "num": 163270,
+        "word": "特朗普宣布要重回塑料时代",
+        "onboard_time": 1739233100,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155591,
+        "num": 155591,
+        "word": "社牛脑瘫女孩结识主治医生当老公",
+        "onboard_time": 1739240779,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143106,
+        "num": 143106,
+        "word": "陈梦从冠军到冠军",
+        "onboard_time": 1739242040,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148687,
+        "num": 142667,
+        "word": "林孝埈夺冠后第一时间冲去拥抱张晶",
+        "onboard_time": 1739238440,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140873,
+        "num": 140873,
+        "word": "88岁王德顺已坚持健身近40年",
+        "onboard_time": 1739241200,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133276,
+        "num": 133276,
+        "word": "哪吒版汤圆太可爱了",
+        "onboard_time": 1739232498,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133081,
+        "num": 133081,
+        "word": "东契奇湖人首秀",
+        "onboard_time": 1739234061,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123397,
+        "num": 123397,
+        "word": "权志龙新专辑",
+        "onboard_time": 1739237840,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116013,
+        "num": 116013,
+        "word": "无量仙翁拐杖变木龙特效做了一年多",
+        "onboard_time": 1739234721,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114421,
+        "num": 114421,
+        "word": "当代年轻人把麻将玩出了新花样",
+        "onboard_time": 1739240779,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109103,
+        "num": 109103,
+        "word": "时代少年团非洲出发",
+        "onboard_time": 1739208613,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108103,
+        "num": 108103,
+        "word": "女子10年前买1千克黄金现在净赚30多万",
+        "onboard_time": 1739193861,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103507,
+        "num": 103507,
+        "word": "小谢称至今未收到一分钱抚养费",
+        "onboard_time": 1739188701,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102452,
+        "num": 102452,
+        "word": "梁靖崑世界排名上升至第3",
+        "onboard_time": 1739240300,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98726,
+        "num": 98726,
+        "word": "蒯曼世界排名上升至第7",
+        "onboard_time": 1739240421,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95848,
+        "num": 95848,
+        "word": "东契奇效应",
+        "onboard_time": 1739242820,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95370,
+        "num": 95370,
+        "word": "湖人vs爵士",
+        "onboard_time": 1739241741,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动新时代东北全面振兴#"
+    }
+  }
+}

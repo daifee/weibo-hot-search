@@ -1,6 +1,6 @@
 {
   "startTime": 1739204910696,
-  "endTime": 1739242366249,
+  "endTime": 1739242887735,
   "band_list": [
     {
       "raw_hot": 1678690,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1554539,
-      "num": 374331,
+      "num": 1425206,
       "word": "主治医生娶了社牛脑瘫女孩辞职追随",
       "onboard_time": 1739240779,
       "rank": 10,
@@ -51,12 +51,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1028605,
+      "num": 368245,
+      "word": "车主回应被李明德砸车",
+      "onboard_time": 1739240779,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1008651,
       "num": 1008651,
       "word": "百色教育局通报一高中教师被举报",
       "onboard_time": 1739206336,
       "rank": 1,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 877837,
+      "num": 877837,
+      "word": "金价",
+      "onboard_time": 1739241380,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 859930,
@@ -73,14 +89,6 @@
       "onboard_time": 1739233775,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 832443,
-      "num": 368245,
-      "word": "车主回应被李明德砸车",
-      "onboard_time": 1739240779,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 818858,
@@ -227,6 +235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 469573,
+      "num": 469573,
+      "word": "虞书欣捂肚子是双轨剧情",
+      "onboard_time": 1739239880,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 467347,
       "num": 467347,
       "word": "百色祈福高中唐毓文",
@@ -259,14 +275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 407878,
-      "num": 407878,
-      "word": "金价",
-      "onboard_time": 1739241380,
-      "rank": 7,
-      "category": "财经"
-    },
-    {
       "raw_hot": 398277,
       "num": 398277,
       "word": "DeepSeek涨价了",
@@ -281,14 +289,6 @@
       "onboard_time": 1739234721,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 380646,
-      "num": 380646,
-      "word": "虞书欣捂肚子是双轨剧情",
-      "onboard_time": 1739239880,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 380575,
@@ -339,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 303894,
+      "num": 303894,
+      "word": "什么样的男人才是结婚潜力股",
+      "onboard_time": 1739241380,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 282905,
       "num": 282905,
       "word": "岳云鹏达成百亿演员成就",
@@ -368,14 +376,6 @@
       "word": "虞书欣片场捂肚子",
       "onboard_time": 1739233340,
       "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 239840,
-      "num": 239840,
-      "word": "什么样的男人才是结婚潜力股",
-      "onboard_time": 1739241380,
-      "rank": 18,
       "category": "剧集"
     },
     {
@@ -441,6 +441,22 @@
       "onboard_time": 1739238683,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 198776,
+      "num": 198776,
+      "word": "动物园回应268元可抱撸小狮子",
+      "onboard_time": 1739241440,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193605,
+      "num": 193605,
+      "word": "孙颖莎刷新WTT最高积分纪录",
+      "onboard_time": 1739241380,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 193000,
@@ -523,20 +539,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 176644,
-      "num": 176644,
-      "word": "动物园回应268元可抱撸小狮子",
-      "onboard_time": 1739241440,
-      "rank": 30,
+      "raw_hot": 176994,
+      "num": 377072,
+      "word": "南方人家里又变水帘洞了",
+      "onboard_time": 1739241200,
+      "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 176021,
-      "num": 176021,
-      "word": "孙颖莎刷新WTT最高积分纪录",
-      "onboard_time": 1739241380,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 175682,
@@ -595,20 +603,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164514,
+      "num": 171368,
+      "word": "河南通报20亩麦苗被铲除村干部停职",
+      "onboard_time": 1739241741,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158531,
       "num": 158531,
       "word": "陈哲远梁洁你俩这是剧宣还是官宣",
       "onboard_time": 1739229735,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 158275,
-      "num": 158275,
-      "word": "河南通报20亩麦苗被铲除村干部停职",
-      "onboard_time": 1739241741,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 150454,
@@ -627,16 +635,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 150138,
-      "num": 377072,
-      "word": "南方人家里又变水帘洞了",
-      "onboard_time": 1739241200,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 149850,
-      "num": 149850,
+      "num": 173943,
       "word": "陈哲远直接扑梁洁腿上了",
       "onboard_time": 1739239880,
       "rank": 35,
@@ -649,6 +649,14 @@
       "onboard_time": 1739196262,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148425,
+      "num": 169165,
+      "word": "陈梦说我永远热爱乒乓球",
+      "onboard_time": 1739241622,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 145068,
@@ -675,19 +683,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 140310,
-      "num": 140310,
+      "raw_hot": 143106,
+      "num": 143106,
       "word": "陈梦从冠军到冠军",
       "onboard_time": 1739242040,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 137799,
-      "num": 137799,
-      "word": "陈梦说我永远热爱乒乓球",
-      "onboard_time": 1739241622,
-      "rank": 40,
       "category": "体育"
     },
     {
@@ -748,7 +748,7 @@
     },
     {
       "raw_hot": 112776,
-      "num": 112776,
+      "num": 242677,
       "word": "四川山体滑坡现场子弟兵昼夜搜救",
       "onboard_time": 1739242101,
       "rank": 47,
@@ -835,6 +835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95848,
+      "num": 95848,
+      "word": "东契奇效应",
+      "onboard_time": 1739242820,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94310,
       "num": 94310,
       "word": "节后多地肛肠科人满为患",
@@ -857,6 +865,14 @@
       "onboard_time": 1739191159,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 83652,
+      "num": 239697,
+      "word": "朴孝敏将4月结婚",
+      "onboard_time": 1739242221,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 81696,
@@ -1003,14 +1019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 52794,
-      "num": 180484,
-      "word": "朴孝敏将4月结婚",
-      "onboard_time": 1739242221,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 46306,
       "num": 46306,
       "word": "五福临门第五对",
@@ -1075,8 +1083,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 21775,
-      "num": 712768,
+      "raw_hot": 22378,
+      "num": 730946,
       "word": "超2000万人申请国补买手机等",
       "onboard_time": 1739116460,
       "rank": 2,
