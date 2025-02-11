@@ -1,0 +1,410 @@
+{
+  "runTime": 1739281201615,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1800846,
+        "num": 1800846,
+        "word": "哪吒2票房破90亿",
+        "onboard_time": 1739272700,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 808613,
+        "num": 808613,
+        "word": "金包银哪吒手镯卖爆了",
+        "onboard_time": 1739270242,
+        "rank": 1,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 32364,
+        "num": 790588,
+        "word": "单板滑雪有多少种起飞方式",
+        "onboard_time": 1739264601,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1653537,
+        "num": 789845,
+        "word": "都到90亿了 必须四舍五入",
+        "onboard_time": 1739278041,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 785055,
+        "num": 785055,
+        "word": "福建漳州上空出现不明飞行物",
+        "onboard_time": 1739277800,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 577572,
+        "num": 577572,
+        "word": "黄金已经涨疯了",
+        "onboard_time": 1739261298,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1195424,
+        "num": 563909,
+        "word": "饺子偷偷改了哪吒3计划上映时间",
+        "onboard_time": 1739261481,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 538795,
+        "num": 538795,
+        "word": "飞机落地印尼108人的行李还在广州",
+        "onboard_time": 1739276479,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 444932,
+        "num": 444932,
+        "word": "元宵晚会官宣",
+        "onboard_time": 1739258360,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68025,
+        "num": 404691,
+        "word": "机场回应108人飞抵印尼行李遗落广州",
+        "onboard_time": 1739279121,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 640686,
+        "num": 404591,
+        "word": "难听",
+        "onboard_time": 1739278102,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 402218,
+        "num": 402218,
+        "word": "40多万买新奔驰竟是卖过的故障车",
+        "onboard_time": 1739275760,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355153,
+        "num": 355153,
+        "word": "黄杨钿甜今年高考",
+        "onboard_time": 1739275820,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343843,
+        "num": 343843,
+        "word": "王楚钦王曼昱梁靖崑的提议全部得到落实",
+        "onboard_time": 1739275942,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162430,
+        "num": 336926,
+        "word": "被室友电池烧伤大学生已植皮12次",
+        "onboard_time": 1739280083,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 850344,
+        "num": 336356,
+        "word": "百色去世女生父亲发声",
+        "onboard_time": 1739264361,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334886,
+        "num": 334886,
+        "word": "国漫五美",
+        "onboard_time": 1739273541,
+        "rank": 16,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 334024,
+        "num": 334024,
+        "word": "美队4悉尼排片量远高于哪吒2",
+        "onboard_time": 1739270540,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 294088,
+        "num": 294088,
+        "word": "美国说唱歌手入狱后遭殴打强奸",
+        "onboard_time": 1739279601,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239398,
+        "num": 239398,
+        "word": "哪吒2中国影史第一部90亿电影",
+        "onboard_time": 1739273780,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 623034,
+        "num": 238749,
+        "word": "韩安冉前夫小猪先生患精神病",
+        "onboard_time": 1739277800,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 519380,
+        "num": 235368,
+        "word": "两个50多岁不自律女生同居的一天",
+        "onboard_time": 1739274020,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121660,
+        "num": 234062,
+        "word": "陈小春现在还管李昊叫王昊",
+        "onboard_time": 1739279962,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265174,
+        "num": 230696,
+        "word": "全智贤被追缴2000多万韩元税款",
+        "onboard_time": 1739268381,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70316,
+        "num": 228674,
+        "word": "王楚钦和亚冬会梦幻联动",
+        "onboard_time": 1739279661,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226998,
+        "num": 226998,
+        "word": "申公豹语言导航120分都不够扣的",
+        "onboard_time": 1739280142,
+        "rank": 25,
+        "category": "互联网,电影"
+      },
+      {
+        "raw_hot": 222417,
+        "num": 222417,
+        "word": "老人闯红灯被撞反问他撞我我还要全责",
+        "onboard_time": 1739274561,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217420,
+        "num": 217420,
+        "word": "李帝努泡泡",
+        "onboard_time": 1739274681,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208615,
+        "num": 208615,
+        "word": "张康乐 BBR",
+        "onboard_time": 1739280382,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207960,
+        "num": 207960,
+        "word": "小伙戒碳水减肥暴瘦40斤后秃了",
+        "onboard_time": 1739270902,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190983,
+        "num": 190983,
+        "word": "情人节前黄金花束销量暴涨",
+        "onboard_time": 1739275942,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190411,
+        "num": 190411,
+        "word": "哪吒敖丙上元宵晚会了",
+        "onboard_time": 1739259620,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185373,
+        "num": 185373,
+        "word": "谢娜带网友和何炅一起吃饭",
+        "onboard_time": 1739278821,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171046,
+        "num": 171046,
+        "word": "男子楼上扔烟头引爆楼下炮摊",
+        "onboard_time": 1739272160,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166071,
+        "num": 166071,
+        "word": "金钟仁退伍直播",
+        "onboard_time": 1739276361,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163825,
+        "num": 163825,
+        "word": "马柏全皮衣",
+        "onboard_time": 1739280503,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159318,
+        "num": 159318,
+        "word": "五福临门",
+        "onboard_time": 1739264481,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158164,
+        "num": 158164,
+        "word": "公司回应女工因黑眼圈影响形象被炒",
+        "onboard_time": 1739276661,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147542,
+        "num": 147542,
+        "word": "姚笛复出",
+        "onboard_time": 1739246540,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146153,
+        "num": 146153,
+        "word": "女童溺水幸遇面膜旗袍女侠",
+        "onboard_time": 1739280441,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141919,
+        "num": 141919,
+        "word": "苏州通用机场2026年底建成投运",
+        "onboard_time": 1739280621,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141734,
+        "num": 141734,
+        "word": "五福临门大结局",
+        "onboard_time": 1739274200,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30354,
+        "num": 140929,
+        "word": "李宇春薛凯琪透露声生不息女队氛围",
+        "onboard_time": 1739281160,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103380,
+        "num": 140879,
+        "word": "宫鲁鸣担任中国女篮主帅",
+        "onboard_time": 1739279543,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140852,
+        "num": 140852,
+        "word": "冰壶",
+        "onboard_time": 1739275942,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132018,
+        "num": 132018,
+        "word": "时尚芭莎",
+        "onboard_time": 1739279062,
+        "rank": 45,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 128960,
+        "num": 128960,
+        "word": "外交部回应中方移除钓鱼岛附近浮标",
+        "onboard_time": 1739276601,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 42529,
+        "num": 124886,
+        "word": "律师评铁路旁新装摄像头正对卧室",
+        "onboard_time": 1739279182,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124749,
+        "num": 124749,
+        "word": "王楚钦成亚冬会野生代言人",
+        "onboard_time": 1739273360,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122476,
+        "num": 122476,
+        "word": "WTT公布改革措施",
+        "onboard_time": 1739268141,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#把各民族优秀传统文化发扬光大#"
+    }
+  }
+}
