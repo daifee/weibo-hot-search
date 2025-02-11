@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739305458657,
+  "endTime": 1739306259945,
   "band_list": [
     {
       "raw_hot": 10037874,
@@ -10635,12 +10635,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 16778,
+      "num": 19049,
+      "word": "网友提名哪吒真人化选角",
+      "onboard_time": 1739305031,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 16674,
       "num": 25139,
       "word": "中方在有关海域布设浮标合法",
       "onboard_time": 1739300412,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 16318,
+      "num": 48078,
+      "word": "担惊受怕还破财的裸聊快别聊了",
+      "onboard_time": 1739304191,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16309,
@@ -10705,14 +10721,6 @@
       "onboard_time": 1739052911,
       "rank": 49,
       "category": "教育,读书作家"
-    },
-    {
-      "raw_hot": 14669,
-      "num": 19049,
-      "word": "网友提名哪吒真人化选角",
-      "onboard_time": 1739305031,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 14661,
@@ -10859,14 +10867,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 10384,
-      "num": 48078,
-      "word": "担惊受怕还破财的裸聊快别聊了",
-      "onboard_time": 1739304191,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 10154,
       "num": 382891,
       "word": "张雨霏说最想看冰壶比赛",
@@ -10913,6 +10913,14 @@
       "onboard_time": 1739046730,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9117,
+      "num": 27979,
+      "word": "中国队已集齐3个金牌九宫格",
+      "onboard_time": 1739304071,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 8969,
