@@ -1,6 +1,6 @@
 {
   "startTime": 1739291403043,
-  "endTime": 1739313535427,
+  "endTime": 1739316139767,
   "band_list": [
     {
       "raw_hot": 1783007,
@@ -131,6 +131,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 300325,
+      "num": 300325,
+      "word": "饺子回应申公豹为什么是结巴",
+      "onboard_time": 1739310371,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 287975,
       "num": 287975,
       "word": "苹果和阿里将为中国iPhone开发AI功能",
@@ -195,12 +203,36 @@
       "category": "体育"
     },
     {
-      "raw_hot": 173295,
+      "raw_hot": 201060,
+      "num": 189492,
+      "word": "哪吒",
+      "onboard_time": 1739315356,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 194364,
+      "num": 194364,
+      "word": "元宵节",
+      "onboard_time": 1739315535,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185516,
       "num": 173295,
       "word": "韩安冉前夫小猪先生患精神病",
       "onboard_time": 1739277800,
       "rank": 24,
       "category": "网红"
+    },
+    {
+      "raw_hot": 172225,
+      "num": 134302,
+      "word": "王一博在海拔四千多米攀冰",
+      "onboard_time": 1739292437,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 169190,
@@ -217,14 +249,6 @@
       "onboard_time": 1739290640,
       "rank": 15,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 155361,
-      "num": 48758,
-      "word": "饺子回应申公豹为什么是结巴",
-      "onboard_time": 1739310371,
-      "rank": 12,
-      "category": "电影"
     },
     {
       "raw_hot": 134671,
@@ -323,14 +347,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 109073,
-      "num": 109073,
-      "word": "王一博在海拔四千多米攀冰",
-      "onboard_time": 1739292437,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 106006,
       "num": 106006,
       "word": "申公豹语言导航120分都不够扣的",
@@ -379,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83677,
+      "num": 83677,
+      "word": "鹿童坐骑上的刺绣是一笔笔画的",
+      "onboard_time": 1739312773,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 83302,
       "num": 105680,
       "word": "核酸大王张核子被限高",
@@ -403,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80709,
+      "num": 80709,
+      "word": "曼城2比3皇马",
+      "onboard_time": 1739315235,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78975,
       "num": 105448,
       "word": "飞机落地印尼108人的行李还在广州",
@@ -417,6 +449,14 @@
       "onboard_time": 1739283742,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69197,
+      "num": 69197,
+      "word": "两个50多岁不自律女生同居的一天",
+      "onboard_time": 1739274020,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 66872,
@@ -443,12 +483,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 59465,
+      "num": 59465,
+      "word": "网友提名哪吒真人化选角",
+      "onboard_time": 1739305031,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 52538,
       "num": 52538,
       "word": "正月十五元宵节习俗",
       "onboard_time": 1739293276,
       "rank": 49,
       "category": "民生新闻,情感"
+    },
+    {
+      "raw_hot": 51961,
+      "num": 51961,
+      "word": "唐艺昕挑战世界最长滑索",
+      "onboard_time": 1739300232,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 50438,
@@ -459,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48294,
+      "num": 48294,
+      "word": "留几手质问杨子为什么不跑",
+      "onboard_time": 1739307671,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 46985,
       "num": 46985,
       "word": "杨羡五娘 好嗑",
@@ -467,12 +531,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 43308,
-      "num": 36714,
-      "word": "两个50多岁不自律女生同居的一天",
-      "onboard_time": 1739274020,
-      "rank": 40,
-      "category": "情感"
+      "raw_hot": 43412,
+      "num": 47762,
+      "word": "imp向Rookie道歉",
+      "onboard_time": 1739315834,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 42357,
@@ -483,7 +547,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39863,
+      "raw_hot": 41643,
+      "num": 41643,
+      "word": "卡塔尔选手摔倒后奋力收刀避免误伤",
+      "onboard_time": 1739314994,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 40802,
       "num": 61530,
       "word": "列车员1年帮卖了1180万元农产品",
       "onboard_time": 1739294475,
@@ -499,20 +571,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39208,
+      "num": 39208,
+      "word": "文化中国行之元宵节",
+      "onboard_time": 1739312413,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35751,
+      "num": 39019,
+      "word": "核子公司带货直播销售额为0",
+      "onboard_time": 1739315894,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 34476,
       "num": 902308,
       "word": "首善答卷",
       "onboard_time": 1739285901,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30995,
-      "num": 30995,
-      "word": "留几手质问杨子为什么不跑",
-      "onboard_time": 1739307671,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 28339,
@@ -531,22 +611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 25635,
-      "num": 25635,
-      "word": "唐艺昕挑战世界最长滑索",
-      "onboard_time": 1739300232,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 25484,
-      "num": 25484,
-      "word": "网友提名哪吒真人化选角",
-      "onboard_time": 1739305031,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 24749,
       "num": 31009,
       "word": "张峻豪弹壳合作新歌",
@@ -561,6 +625,14 @@
       "onboard_time": 1739299092,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 22799,
+      "num": 366979,
+      "word": "中国速滑队11金收官",
+      "onboard_time": 1739283322,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 22572,
@@ -603,12 +675,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 19343,
-      "num": 24107,
-      "word": "鹿童坐骑上的刺绣是一笔笔画的",
-      "onboard_time": 1739312773,
-      "rank": 42,
-      "category": "电影"
+      "raw_hot": 17094,
+      "num": 39068,
+      "word": "郑钦文多哈赛首战落败",
+      "onboard_time": 1739315894,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 16674,
@@ -617,14 +689,6 @@
       "onboard_time": 1739300412,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 16649,
-      "num": 24086,
-      "word": "文化中国行之元宵节",
-      "onboard_time": 1739312413,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16318,
@@ -651,11 +715,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12531,
-      "num": 117834,
-      "word": "中国速滑队11金收官",
-      "onboard_time": 1739283322,
-      "rank": 2,
+      "raw_hot": 12412,
+      "num": 39055,
+      "word": "张伟丽赛前赛后plog",
+      "onboard_time": 1739315235,
+      "rank": 47,
       "category": "体育"
     },
     {
