@@ -1,6 +1,6 @@
 {
   "startTime": 1739291403043,
-  "endTime": 1739312479489,
+  "endTime": 1739313535427,
   "band_list": [
     {
       "raw_hot": 1783007,
@@ -219,6 +219,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 155361,
+      "num": 48758,
+      "word": "饺子回应申公豹为什么是结巴",
+      "onboard_time": 1739310371,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 134671,
       "num": 134671,
       "word": "有网店假冒必吃榜卖了100万单",
@@ -329,14 +337,6 @@
       "onboard_time": 1739280142,
       "rank": 39,
       "category": "互联网,电影"
-    },
-    {
-      "raw_hot": 103788,
-      "num": 43672,
-      "word": "饺子回应申公豹为什么是结巴",
-      "onboard_time": 1739310371,
-      "rank": 12,
-      "category": "电影"
     },
     {
       "raw_hot": 96979,
@@ -507,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30995,
+      "num": 30995,
+      "word": "留几手质问杨子为什么不跑",
+      "onboard_time": 1739307671,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 28339,
       "num": 36707,
       "word": "明天就是元宵节了",
@@ -515,12 +523,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25139,
-      "num": 25139,
+      "raw_hot": 26907,
+      "num": 26907,
+      "word": "三亚偶遇沈腾出海",
+      "onboard_time": 1739311571,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 25635,
+      "num": 25635,
       "word": "唐艺昕挑战世界最长滑索",
       "onboard_time": 1739300232,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25484,
+      "num": 25484,
+      "word": "网友提名哪吒真人化选角",
+      "onboard_time": 1739305031,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 24749,
@@ -529,14 +553,6 @@
       "onboard_time": 1739298793,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 23745,
-      "num": 23745,
-      "word": "网友提名哪吒真人化选角",
-      "onboard_time": 1739305031,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 23414,
@@ -555,14 +571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22521,
-      "num": 23094,
-      "word": "留几手质问杨子为什么不跑",
-      "onboard_time": 1739307671,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 22291,
       "num": 40514,
       "word": "这列火车每天带200多人跨省卖菜",
@@ -579,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20221,
+      "num": 24110,
+      "word": "用元宵的方式发祝福",
+      "onboard_time": 1739296213,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 19344,
       "num": 70416,
       "word": "专家建议不要盲目追涨黄金",
@@ -587,12 +603,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 16812,
-      "num": 23051,
-      "word": "用元宵的方式发祝福",
-      "onboard_time": 1739296213,
-      "rank": 39,
-      "category": "情感"
+      "raw_hot": 19343,
+      "num": 24107,
+      "word": "鹿童坐骑上的刺绣是一笔笔画的",
+      "onboard_time": 1739312773,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 16674,
@@ -603,12 +619,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 16487,
-      "num": 23049,
-      "word": "三亚偶遇沈腾出海",
-      "onboard_time": 1739311571,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 16649,
+      "num": 24086,
+      "word": "文化中国行之元宵节",
+      "onboard_time": 1739312413,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16318,
@@ -627,14 +643,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 13490,
-      "num": 23017,
-      "word": "文化中国行之元宵节",
-      "onboard_time": 1739312413,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 13029,
       "num": 73421,
       "word": "看自贡彩灯点亮中国非遗",
@@ -643,7 +651,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 9978,
+      "raw_hot": 12531,
       "num": 117834,
       "word": "中国速滑队11金收官",
       "onboard_time": 1739283322,
