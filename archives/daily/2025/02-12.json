@@ -1,6 +1,6 @@
 {
   "startTime": 1739291403043,
-  "endTime": 1739294466020,
+  "endTime": 1739295510994,
   "band_list": [
     {
       "raw_hot": 1783007,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 656051,
-      "num": 198770,
+      "num": 222326,
       "word": "男生隔空猥亵未成年女孩被判5年",
       "onboard_time": 1739291597,
       "rank": 25,
@@ -171,20 +171,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 223202,
+      "num": 223202,
+      "word": "家人称国安小将国外集训重伤脑死亡",
+      "onboard_time": 1739291659,
+      "rank": 29,
+      "category": "民生新闻,体育"
+    },
+    {
       "raw_hot": 213866,
       "num": 213866,
       "word": "哪吒2票房已破91亿",
       "onboard_time": 1739284762,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 202259,
-      "num": 202259,
-      "word": "家人称国安小将国外集训重伤脑死亡",
-      "onboard_time": 1739291659,
-      "rank": 29,
-      "category": "民生新闻,体育"
     },
     {
       "raw_hot": 201286,
@@ -203,20 +203,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 169190,
+      "num": 169190,
+      "word": "刻骨明辛",
+      "onboard_time": 1739289858,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162613,
       "num": 260981,
       "word": "流感高烧3天不退小心是重症",
       "onboard_time": 1739290640,
       "rank": 15,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 149302,
-      "num": 147145,
-      "word": "刻骨明辛",
-      "onboard_time": 1739289858,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 134671,
@@ -315,6 +315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 109073,
+      "num": 109073,
+      "word": "王一博在海拔四千多米攀冰",
+      "onboard_time": 1739292437,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106006,
       "num": 106006,
       "word": "申公豹语言导航120分都不够扣的",
@@ -403,12 +411,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 73063,
-      "num": 73063,
-      "word": "王一博在海拔四千多米攀冰",
-      "onboard_time": 1739292437,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 66872,
+      "num": 167589,
+      "word": "流感后高危人群最好48小时内用药",
+      "onboard_time": 1739292377,
+      "rank": 17,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 63078,
@@ -435,11 +443,27 @@
       "category": "民生新闻,情感"
     },
     {
-      "raw_hot": 38720,
+      "raw_hot": 50438,
       "num": 154341,
       "word": "已经开始期待明年过年了",
       "onboard_time": 1739291898,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42357,
+      "num": 42357,
+      "word": "女生家属称想让唐某某受法律制裁",
+      "onboard_time": 1739294895,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39651,
+      "num": 39651,
+      "word": "百色市联合工作组通报唐某某调查进展",
+      "onboard_time": 1739294834,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -451,12 +475,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30709,
-      "num": 167589,
-      "word": "流感后高危人群最好48小时内用药",
-      "onboard_time": 1739292377,
-      "rank": 17,
-      "category": "健康医疗"
+      "raw_hot": 33700,
+      "num": 61530,
+      "word": "列车员1年帮卖了1180万元农产品",
+      "onboard_time": 1739294475,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13029,
