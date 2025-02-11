@@ -1,0 +1,410 @@
+{
+  "runTime": 1739239088981,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1180692,
+        "num": 1188910,
+        "word": "2024年结婚登记数再度下探原因为何",
+        "onboard_time": 1739235261,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 665136,
+        "num": 665136,
+        "word": "央视直播时一只小狐狸抢镜",
+        "onboard_time": 1739199321,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21182,
+        "num": 622951,
+        "word": "超2000万人申请国补买手机等",
+        "onboard_time": 1739116460,
+        "rank": 2,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 854122,
+        "num": 619143,
+        "word": "霍启刚回应中国香港队员赛后被围殴",
+        "onboard_time": 1739233775,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 611379,
+        "num": 611379,
+        "word": "饺子希望采访媒体给自己打马赛克",
+        "onboard_time": 1739234781,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 802975,
+        "num": 601339,
+        "word": "百色教育局通报一高中教师被举报",
+        "onboard_time": 1739206336,
+        "rank": 5,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 570441,
+        "num": 570441,
+        "word": "老外看完哪吒2称中国动画杀疯了",
+        "onboard_time": 1739203817,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 427532,
+        "num": 427532,
+        "word": "美一机场两飞机在地面发生碰撞",
+        "onboard_time": 1739233159,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 463664,
+        "num": 427452,
+        "word": "买到哪吒2手写票的观众发声",
+        "onboard_time": 1739215810,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118523,
+        "num": 427367,
+        "word": "这不是贪吃蛇这是火车",
+        "onboard_time": 1739233459,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1278637,
+        "num": 427100,
+        "word": "李明德转发大学同学微博回应",
+        "onboard_time": 1739234061,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1110128,
+        "num": 427017,
+        "word": "孟子义赴柬埔寨拍摄网剧",
+        "onboard_time": 1739232678,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 817975,
+        "num": 426880,
+        "word": "谢娜报平安",
+        "onboard_time": 1739230217,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426761,
+        "num": 426761,
+        "word": "百色被举报教师停职处理",
+        "onboard_time": 1739210112,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 529870,
+        "num": 407080,
+        "word": "特朗普宣布要重回塑料时代",
+        "onboard_time": 1739233100,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 496611,
+        "num": 392957,
+        "word": "特朗普说霉霉很难过",
+        "onboard_time": 1739233699,
+        "rank": 15,
+        "category": "国际时政,艺人"
+      },
+      {
+        "raw_hot": 465123,
+        "num": 391258,
+        "word": "男子半夜烧毁前女友烟酒店",
+        "onboard_time": 1739232619,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 368385,
+        "num": 368385,
+        "word": "无量仙翁拐杖变木龙特效做了一年多",
+        "onboard_time": 1739234721,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 344702,
+        "num": 344702,
+        "word": "百色祈福高中唐毓文",
+        "onboard_time": 1739202498,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289971,
+        "num": 289971,
+        "word": "哪吒2被偷票房损失惨重是影城非片方",
+        "onboard_time": 1739206696,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 314502,
+        "num": 288778,
+        "word": "本周做什么都顺的星座",
+        "onboard_time": 1739238440,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 278138,
+        "num": 278138,
+        "word": "用DeepSeek买彩票真中奖了",
+        "onboard_time": 1739239039,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 246756,
+        "num": 246756,
+        "word": "虞书欣片场捂肚子",
+        "onboard_time": 1739233340,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245877,
+        "num": 245877,
+        "word": "江西最强钉子户没料到公路改道",
+        "onboard_time": 1739199321,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240852,
+        "num": 240852,
+        "word": "留几手葛夕民政局排队",
+        "onboard_time": 1739189781,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199848,
+        "num": 199848,
+        "word": "东契奇湖人首秀",
+        "onboard_time": 1739234061,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67786,
+        "num": 199732,
+        "word": "秦彻可以重新带我走了吗",
+        "onboard_time": 1739238860,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199656,
+        "num": 199656,
+        "word": "特朗普推动恢复用塑料吸管",
+        "onboard_time": 1739238683,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 179776,
+        "num": 198000,
+        "word": "哪吒版汤圆太可爱了",
+        "onboard_time": 1739232498,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174451,
+        "num": 197800,
+        "word": "哪吒",
+        "onboard_time": 1739192963,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197623,
+        "num": 197623,
+        "word": "父母给的年货被丢弃疑似当事人回应",
+        "onboard_time": 1739199380,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193219,
+        "num": 193219,
+        "word": "千万不要学哪吒去收土拨鼠",
+        "onboard_time": 1739192180,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193000,
+        "num": 193000,
+        "word": "江苏一学校取消元宵节报到",
+        "onboard_time": 1739234481,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189754,
+        "num": 189754,
+        "word": "林孝埈夺冠后第一时间冲去拥抱张晶",
+        "onboard_time": 1739238440,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181240,
+        "num": 181240,
+        "word": "脆薯饼成为麦当劳全日制员工",
+        "onboard_time": 1739233039,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 180429,
+        "num": 180429,
+        "word": "马斯克报价974亿美元欲控制OpenAI",
+        "onboard_time": 1739235681,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 179463,
+        "num": 179463,
+        "word": "李明德大学同学发文",
+        "onboard_time": 1739237302,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179340,
+        "num": 179340,
+        "word": "林诗栋8025分世排第一",
+        "onboard_time": 1739235801,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178900,
+        "num": 178900,
+        "word": "潘展乐说被徐梦桃的经历鼓励到",
+        "onboard_time": 1739237241,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161246,
+        "num": 161246,
+        "word": "孙颖莎11300分世排第一",
+        "onboard_time": 1739235261,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160958,
+        "num": 160958,
+        "word": "哪吒票房",
+        "onboard_time": 1739238740,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158638,
+        "num": 158638,
+        "word": "女子10年前买1千克黄金现在净赚30多万",
+        "onboard_time": 1739193861,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151311,
+        "num": 151311,
+        "word": "女子称给差评后被商家找到父亲单位",
+        "onboard_time": 1739238618,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136175,
+        "num": 136175,
+        "word": "赵露思与被家暴16次当事人小谢合影",
+        "onboard_time": 1739187682,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135975,
+        "num": 135975,
+        "word": "陈哲远梁洁你俩这是剧宣还是官宣",
+        "onboard_time": 1739229735,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135883,
+        "num": 135883,
+        "word": "权志龙新专辑",
+        "onboard_time": 1739237840,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130166,
+        "num": 130166,
+        "word": "时代少年团非洲出发",
+        "onboard_time": 1739208613,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62735,
+        "num": 128281,
+        "word": "欧文顶替浓眉入选全明星",
+        "onboard_time": 1739234842,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127624,
+        "num": 127624,
+        "word": "哪吒2票房超86亿",
+        "onboard_time": 1739199202,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123872,
+        "num": 123872,
+        "word": "大家好我是雪梅",
+        "onboard_time": 1739208014,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动新时代东北全面振兴#"
+    }
+  }
+}

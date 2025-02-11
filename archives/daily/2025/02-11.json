@@ -1,6 +1,6 @@
 {
   "startTime": 1739204910696,
-  "endTime": 1739238108000,
+  "endTime": 1739239088981,
   "band_list": [
     {
       "raw_hot": 1384169,
@@ -9,6 +9,22 @@
       "onboard_time": 1739234061,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1180692,
+      "num": 1188910,
+      "word": "2024年结婚登记数再度下探原因为何",
+      "onboard_time": 1739235261,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1110128,
+      "num": 521631,
+      "word": "孟子义赴柬埔寨拍摄网剧",
+      "onboard_time": 1739232678,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 1008651,
@@ -27,15 +43,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 818858,
-      "num": 1131017,
-      "word": "央视直播时一只小狐狸抢镜",
-      "onboard_time": 1739199321,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 813316,
+      "raw_hot": 854122,
       "num": 710577,
       "word": "霍启刚回应中国香港队员赛后被围殴",
       "onboard_time": 1739233775,
@@ -43,20 +51,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 811326,
-      "num": 811326,
-      "word": "2024年结婚登记数再度下探原因为何",
-      "onboard_time": 1739235261,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 766194,
-      "num": 521631,
-      "word": "孟子义赴柬埔寨拍摄网剧",
-      "onboard_time": 1739232678,
-      "rank": 12,
-      "category": "剧集"
+      "raw_hot": 818858,
+      "num": 1131017,
+      "word": "央视直播时一只小狐狸抢镜",
+      "onboard_time": 1739199321,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 674344,
@@ -81,6 +81,14 @@
       "onboard_time": 1739193261,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 611379,
+      "num": 611379,
+      "word": "饺子希望采访媒体给自己打马赛克",
+      "onboard_time": 1739234781,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 600522,
@@ -147,20 +155,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 516607,
-      "num": 516607,
-      "word": "饺子希望采访媒体给自己打马赛克",
-      "onboard_time": 1739234781,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 514169,
       "num": 197157,
       "word": "赵露思把快坏掉水果制成糖葫芦",
       "onboard_time": 1739182641,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 496611,
+      "num": 392957,
+      "word": "特朗普说霉霉很难过",
+      "onboard_time": 1739233699,
+      "rank": 21,
+      "category": "国际时政,艺人"
     },
     {
       "raw_hot": 482289,
@@ -251,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 314502,
+      "num": 288778,
+      "word": "本周做什么都顺的星座",
+      "onboard_time": 1739238440,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 305720,
       "num": 305720,
       "word": "小谢称至今未收到一分钱抚养费",
@@ -259,12 +275,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 291450,
-      "num": 291450,
-      "word": "特朗普说霉霉很难过",
-      "onboard_time": 1739233699,
-      "rank": 21,
-      "category": "国际时政,艺人"
+      "raw_hot": 289971,
+      "num": 289971,
+      "word": "哪吒2被偷票房损失惨重是影城非片方",
+      "onboard_time": 1739206696,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 282905,
@@ -273,6 +289,14 @@
       "onboard_time": 1739199982,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 278138,
+      "num": 278138,
+      "word": "用DeepSeek买彩票真中奖了",
+      "onboard_time": 1739239039,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 270603,
@@ -291,20 +315,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 234268,
-      "num": 234268,
+      "raw_hot": 246756,
+      "num": 246756,
       "word": "虞书欣片场捂肚子",
       "onboard_time": 1739233340,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 226987,
-      "num": 226987,
-      "word": "哪吒2被偷票房损失惨重是影城非片方",
-      "onboard_time": 1739206696,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 224770,
@@ -347,12 +363,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199848,
+      "num": 235612,
+      "word": "东契奇湖人首秀",
+      "onboard_time": 1739234061,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 199656,
+      "num": 199656,
+      "word": "特朗普推动恢复用塑料吸管",
+      "onboard_time": 1739238683,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 193000,
+      "num": 525779,
+      "word": "江苏一学校取消元宵节报到",
+      "onboard_time": 1739234481,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192471,
       "num": 192471,
       "word": "陈牧驰直播",
       "onboard_time": 1739203817,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189754,
+      "num": 189754,
+      "word": "林孝埈夺冠后第一时间冲去拥抱张晶",
+      "onboard_time": 1739238440,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 187991,
@@ -379,12 +427,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 182014,
-      "num": 235612,
-      "word": "东契奇湖人首秀",
-      "onboard_time": 1739234061,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 180429,
+      "num": 180429,
+      "word": "马斯克报价974亿美元欲控制OpenAI",
+      "onboard_time": 1739235681,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 179813,
@@ -395,12 +443,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 178982,
-      "num": 178982,
-      "word": "马斯克报价974亿美元欲控制OpenAI",
-      "onboard_time": 1739235681,
-      "rank": 34,
-      "category": "互联网"
+      "raw_hot": 179463,
+      "num": 179463,
+      "word": "李明德大学同学发文",
+      "onboard_time": 1739237302,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 178900,
+      "num": 518852,
+      "word": "潘展乐说被徐梦桃的经历鼓励到",
+      "onboard_time": 1739237241,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 172799,
@@ -443,12 +499,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 163243,
-      "num": 525779,
-      "word": "江苏一学校取消元宵节报到",
-      "onboard_time": 1739234481,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 160958,
+      "num": 160958,
+      "word": "哪吒票房",
+      "onboard_time": 1739238740,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 158531,
@@ -457,6 +513,14 @@
       "onboard_time": 1739229735,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151311,
+      "num": 151311,
+      "word": "女子称给差评后被商家找到父亲单位",
+      "onboard_time": 1739238618,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150178,
@@ -491,12 +555,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 135697,
-      "num": 135697,
-      "word": "李明德大学同学发文",
-      "onboard_time": 1739237302,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 135883,
+      "num": 135883,
+      "word": "权志龙新专辑",
+      "onboard_time": 1739237840,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 129552,
@@ -507,20 +571,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 124792,
-      "num": 124792,
-      "word": "权志龙新专辑",
-      "onboard_time": 1739237840,
-      "rank": 45,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 119517,
       "num": 119517,
       "word": "特效团队遗憾四海龙宫坍塌镜头删减",
       "onboard_time": 1739196982,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 118523,
+      "num": 427367,
+      "word": "这不是贪吃蛇这是火车",
+      "onboard_time": 1739233459,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116818,
@@ -561,14 +625,6 @@
       "onboard_time": 1739235382,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 103720,
-      "num": 518852,
-      "word": "潘展乐说被徐梦桃的经历鼓励到",
-      "onboard_time": 1739237241,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 103015,
@@ -715,6 +771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 67786,
+      "num": 199732,
+      "word": "秦彻可以重新带我走了吗",
+      "onboard_time": 1739238860,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 64268,
       "num": 64268,
       "word": "杨子许佳琪搭戏",
@@ -737,6 +801,14 @@
       "onboard_time": 1739211613,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62735,
+      "num": 128281,
+      "word": "欧文顶替浓眉入选全明星",
+      "onboard_time": 1739234842,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 59722,

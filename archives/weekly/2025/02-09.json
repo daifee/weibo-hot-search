@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739238108000,
+  "endTime": 1739239088981,
   "band_list": [
     {
       "raw_hot": 10037874,
@@ -363,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1180692,
+      "num": 1188910,
+      "word": "2024年结婚登记数再度下探原因为何",
+      "onboard_time": 1739235261,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1179992,
       "num": 436391,
       "word": "赵露思散步被偶遇",
@@ -417,6 +425,14 @@
       "onboard_time": 1739104043,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1110128,
+      "num": 521631,
+      "word": "孟子义赴柬埔寨拍摄网剧",
+      "onboard_time": 1739232678,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 1095439,
@@ -659,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 854122,
+      "num": 710577,
+      "word": "霍启刚回应中国香港队员赛后被围殴",
+      "onboard_time": 1739233775,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 851010,
       "num": 851010,
       "word": "买金条应该去银行还是金店",
@@ -763,22 +787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 813316,
-      "num": 710577,
-      "word": "霍启刚回应中国香港队员赛后被围殴",
-      "onboard_time": 1739233775,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 811326,
-      "num": 811326,
-      "word": "2024年结婚登记数再度下探原因为何",
-      "onboard_time": 1739235261,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 808851,
       "num": 808851,
       "word": "金智媛姐不是装漂亮是真漂亮",
@@ -809,14 +817,6 @@
       "onboard_time": 1739082020,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 766194,
-      "num": 521631,
-      "word": "孟子义赴柬埔寨拍摄网剧",
-      "onboard_time": 1739232678,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 763237,
@@ -1131,6 +1131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 611379,
+      "num": 611379,
+      "word": "饺子希望采访媒体给自己打马赛克",
+      "onboard_time": 1739234781,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 608259,
       "num": 608259,
       "word": "樊振东就是哪吒吧",
@@ -1427,14 +1435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 516607,
-      "num": 516607,
-      "word": "饺子希望采访媒体给自己打马赛克",
-      "onboard_time": 1739234781,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 516550,
       "num": 516550,
       "word": "曝大热cp二搭全是三个字",
@@ -1545,6 +1545,14 @@
       "onboard_time": 1739080581,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 496611,
+      "num": 392957,
+      "word": "特朗普说霉霉很难过",
+      "onboard_time": 1739233699,
+      "rank": 21,
+      "category": "国际时政,艺人"
     },
     {
       "raw_hot": 496557,
@@ -2243,6 +2251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 314502,
+      "num": 288778,
+      "word": "本周做什么都顺的星座",
+      "onboard_time": 1739238440,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 313593,
       "num": 313593,
       "word": "警方通报欺凌视频事实基本属实",
@@ -2395,20 +2411,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 291450,
-      "num": 291450,
-      "word": "特朗普说霉霉很难过",
-      "onboard_time": 1739233699,
-      "rank": 21,
-      "category": "国际时政,艺人"
-    },
-    {
       "raw_hot": 290333,
       "num": 426480,
       "word": "被淘宝灯谜难住了",
       "onboard_time": 1739153058,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 289971,
+      "num": 289971,
+      "word": "哪吒2被偷票房损失惨重是影城非片方",
+      "onboard_time": 1739206696,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 289234,
@@ -2521,6 +2537,14 @@
       "onboard_time": 1739077821,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 278138,
+      "num": 278138,
+      "word": "用DeepSeek买彩票真中奖了",
+      "onboard_time": 1739239039,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 276910,
@@ -2731,6 +2755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 246756,
+      "num": 246756,
+      "word": "虞书欣片场捂肚子",
+      "onboard_time": 1739233340,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 245618,
       "num": 245618,
       "word": "林孝埈孙龙1000米展团魂",
@@ -2808,14 +2840,6 @@
       "word": "吴倩六姊妹演技",
       "onboard_time": 1739064020,
       "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 234268,
-      "num": 234268,
-      "word": "虞书欣片场捂肚子",
-      "onboard_time": 1739233340,
-      "rank": 25,
       "category": "剧集"
     },
     {
@@ -2945,14 +2969,6 @@
       "onboard_time": 1739161223,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 226987,
-      "num": 226987,
-      "word": "哪吒2被偷票房损失惨重是影城非片方",
-      "onboard_time": 1739206696,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 226287,
@@ -3547,12 +3563,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 199848,
+      "num": 235612,
+      "word": "东契奇湖人首秀",
+      "onboard_time": 1739234061,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199776,
       "num": 232990,
       "word": "李坚柔说韩国短道不想让中国赢",
       "onboard_time": 1739089220,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199656,
+      "num": 199656,
+      "word": "特朗普推动恢复用塑料吸管",
+      "onboard_time": 1739238683,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 198496,
@@ -3787,6 +3819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193000,
+      "num": 525779,
+      "word": "江苏一学校取消元宵节报到",
+      "onboard_time": 1739234481,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192519,
       "num": 192519,
       "word": "刘少林回应接力摘铜",
@@ -3905,6 +3945,14 @@
       "onboard_time": 1739097622,
       "rank": 38,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 189754,
+      "num": 189754,
+      "word": "林孝埈夺冠后第一时间冲去拥抱张晶",
+      "onboard_time": 1739238440,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 189366,
@@ -4099,14 +4147,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 182014,
-      "num": 235612,
-      "word": "东契奇湖人首秀",
-      "onboard_time": 1739234061,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 181907,
       "num": 181907,
       "word": "王者荣耀小蛇糕",
@@ -4139,6 +4179,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 180429,
+      "num": 180429,
+      "word": "马斯克报价974亿美元欲控制OpenAI",
+      "onboard_time": 1739235681,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 180376,
       "num": 180376,
       "word": "汽车央企重组",
@@ -4163,6 +4211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 179463,
+      "num": 179463,
+      "word": "李明德大学同学发文",
+      "onboard_time": 1739237302,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179305,
       "num": 344672,
       "word": "丽江机场多个部门负责人被警告处分",
@@ -4171,12 +4227,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 178982,
-      "num": 178982,
-      "word": "马斯克报价974亿美元欲控制OpenAI",
-      "onboard_time": 1739235681,
-      "rank": 34,
-      "category": "互联网"
+      "raw_hot": 178900,
+      "num": 518852,
+      "word": "潘展乐说被徐梦桃的经历鼓励到",
+      "onboard_time": 1739237241,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 178707,
@@ -4571,14 +4627,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 163243,
-      "num": 525779,
-      "word": "江苏一学校取消元宵节报到",
-      "onboard_time": 1739234481,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 163017,
       "num": 163017,
       "word": "女频权谋",
@@ -4641,6 +4689,14 @@
       "onboard_time": 1739150300,
       "rank": 36,
       "category": "国际时政,体育"
+    },
+    {
+      "raw_hot": 160958,
+      "num": 160958,
+      "word": "哪吒票房",
+      "onboard_time": 1739238740,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 159834,
@@ -4937,6 +4993,14 @@
       "onboard_time": 1739072901,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151311,
+      "num": 151311,
+      "word": "女子称给差评后被商家找到父亲单位",
+      "onboard_time": 1739238618,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151164,
@@ -5323,12 +5387,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135697,
-      "num": 135697,
-      "word": "李明德大学同学发文",
-      "onboard_time": 1739237302,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 135883,
+      "num": 135883,
+      "word": "权志龙新专辑",
+      "onboard_time": 1739237840,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 135524,
@@ -5539,14 +5603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 124792,
-      "num": 124792,
-      "word": "权志龙新专辑",
-      "onboard_time": 1739237840,
-      "rank": 45,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 124782,
       "num": 124782,
       "word": "王楚钦自己淋过雨想为别人撑把伞",
@@ -5697,6 +5753,14 @@
       "onboard_time": 1739179401,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118523,
+      "num": 427367,
+      "word": "这不是贪吃蛇这是火车",
+      "onboard_time": 1739233459,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118457,
@@ -5993,14 +6057,6 @@
       "onboard_time": 1739066061,
       "rank": 45,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 103720,
-      "num": 518852,
-      "word": "潘展乐说被徐梦桃的经历鼓励到",
-      "onboard_time": 1739237241,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 103612,
@@ -6435,6 +6491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67786,
+      "num": 199732,
+      "word": "秦彻可以重新带我走了吗",
+      "onboard_time": 1739238860,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 67321,
       "num": 354928,
       "word": "中国速度滑冰男团金牌",
@@ -6529,6 +6593,14 @@
       "onboard_time": 1739211613,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62735,
+      "num": 128281,
+      "word": "欧文顶替浓眉入选全明星",
+      "onboard_time": 1739234842,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 62717,
