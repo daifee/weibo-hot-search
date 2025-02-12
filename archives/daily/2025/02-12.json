@@ -1,6 +1,6 @@
 {
   "startTime": 1739291403043,
-  "endTime": 1739373898197,
+  "endTime": 1739374746823,
   "band_list": [
     {
       "raw_hot": 10705430,
@@ -211,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1306369,
+      "num": 1306369,
+      "word": "全球首例同时换脸换手男子结婚",
+      "onboard_time": 1739369544,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1274499,
       "num": 530126,
       "word": "补作业",
@@ -225,14 +233,6 @@
       "onboard_time": 1739327420,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1220319,
-      "num": 1220319,
-      "word": "全球首例同时换脸换手男子结婚",
-      "onboard_time": 1739369544,
-      "rank": 49,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1206163,
@@ -539,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 654293,
+      "num": 654293,
+      "word": "哪吒被藕饼整破防了",
+      "onboard_time": 1739372302,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 640495,
       "num": 640495,
       "word": "益禾堂薄荷奶绿",
@@ -667,20 +675,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 539233,
+      "num": 539233,
+      "word": "男子点烟花被炸倒地身亡",
+      "onboard_time": 1739371342,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 536348,
       "num": 536348,
       "word": "麦当劳涨价0.5元",
       "onboard_time": 1739350580,
       "rank": 5,
       "category": "美食"
-    },
-    {
-      "raw_hot": 536057,
-      "num": 536057,
-      "word": "哪吒被藕饼整破防了",
-      "onboard_time": 1739372302,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 526356,
@@ -931,14 +939,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 384937,
-      "num": 384937,
-      "word": "男子点烟花被炸倒地身亡",
-      "onboard_time": 1739371342,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 379372,
       "num": 332083,
       "word": "哪吒2二刷及以上人群不到1成",
@@ -1113,6 +1113,14 @@
       "onboard_time": 1739362280,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 323914,
+      "num": 343519,
+      "word": "去世白龙马主人获赠1匹新白马",
+      "onboard_time": 1739372542,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 323464,
@@ -2211,6 +2219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178155,
+      "num": 178155,
+      "word": "央妈很懂我",
+      "onboard_time": 1739373682,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178055,
       "num": 178055,
       "word": "毛不易郁可唯对我耳朵好",
@@ -2312,14 +2328,6 @@
       "word": "元宵节月圆人圆事事圆",
       "onboard_time": 1739330780,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 170320,
-      "num": 343519,
-      "word": "去世白龙马主人获赠1匹新白马",
-      "onboard_time": 1739372542,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -2515,6 +2523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154533,
+      "num": 154533,
+      "word": "票房",
+      "onboard_time": 1739374341,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 152613,
       "num": 152613,
       "word": "OpenAI希望与中国合作",
@@ -2585,14 +2601,6 @@
       "onboard_time": 1739363961,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 146395,
-      "num": 146395,
-      "word": "央妈很懂我",
-      "onboard_time": 1739373682,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 145786,
@@ -2689,6 +2697,14 @@
       "onboard_time": 1739340200,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137414,
+      "num": 137414,
+      "word": "黄杨钿甜好像过年见亲戚的高三生",
+      "onboard_time": 1739374282,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 135688,
@@ -3259,6 +3275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77568,
+      "num": 246145,
+      "word": "九尾煮的汤圆",
+      "onboard_time": 1739374220,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 77197,
       "num": 342658,
       "word": "邓州听成郑州8旬大娘下错站难回家",
@@ -3281,6 +3305,14 @@
       "onboard_time": 1739283742,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74740,
+      "num": 462350,
+      "word": "解放军淮北舰喊话台舰送祝福",
+      "onboard_time": 1739372722,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 73659,
@@ -3665,14 +3697,6 @@
       "onboard_time": 1739320579,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 42784,
-      "num": 462350,
-      "word": "解放军淮北舰喊话台舰送祝福",
-      "onboard_time": 1739372722,
-      "rank": 9,
-      "category": "正能量"
     },
     {
       "raw_hot": 42391,
