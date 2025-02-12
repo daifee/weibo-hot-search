@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739391872077,
+  "endTime": 1739392672565,
   "band_list": [
     {
       "raw_hot": 10705430,
@@ -13979,6 +13979,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 23388,
+      "num": 21437,
+      "word": "杨蓉把魏晨何炅张若昀演沉默了",
+      "onboard_time": 1739390711,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 23340,
       "num": 381450,
       "word": "陈冲用写作抵御失去",
@@ -14169,14 +14177,6 @@
       "onboard_time": 1739044751,
       "rank": 23,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 20165,
-      "num": 20165,
-      "word": "杨蓉把魏晨何炅张若昀演沉默了",
-      "onboard_time": 1739390711,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 19808,
@@ -14385,6 +14385,14 @@
       "onboard_time": 1739075720,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 15044,
+      "num": 34730,
+      "word": "仙桃市将为救人白马建纪念雕像",
+      "onboard_time": 1739391013,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14989,
@@ -14641,14 +14649,6 @@
       "onboard_time": 1739197642,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 9392,
-      "num": 25420,
-      "word": "仙桃市将为救人白马建纪念雕像",
-      "onboard_time": 1739391013,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 9359,
