@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739328720022,
+  "endTime": 1739329235791,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -699,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2011639,
+      "num": 2011639,
+      "word": "多邻国猫头鹰去世",
+      "onboard_time": 1739326639,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 2003477,
       "num": 1210604,
       "word": "都到90亿了 必须四舍五入",
@@ -833,14 +841,6 @@
       "onboard_time": 1739022263,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1892412,
-      "num": 1892412,
-      "word": "多邻国猫头鹰去世",
-      "onboard_time": 1739326639,
-      "rank": 1,
-      "category": "互联网"
     },
     {
       "raw_hot": 1864508,
@@ -2057,6 +2057,14 @@
       "onboard_time": 1738481718,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1107007,
+      "num": 473166,
+      "word": "蛇年元宵晚会节目单公布",
+      "onboard_time": 1739327420,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1103201,
@@ -4723,6 +4731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 621853,
+      "num": 433541,
+      "word": "嘘国王在冬眠",
+      "onboard_time": 1739327659,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 621577,
       "num": 366936,
       "word": "邪恶栀子花大战邪恶菠萝蜜",
@@ -4929,14 +4945,6 @@
       "onboard_time": 1739258540,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 596740,
-      "num": 461342,
-      "word": "蛇年元宵晚会节目单公布",
-      "onboard_time": 1739327420,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 596084,
@@ -5641,6 +5649,14 @@
       "onboard_time": 1738385537,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 539946,
+      "num": 539946,
+      "word": "天官赐福",
+      "onboard_time": 1739323998,
+      "rank": 23,
+      "category": "动漫"
     },
     {
       "raw_hot": 539440,
@@ -6667,14 +6683,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 475481,
-      "num": 433541,
-      "word": "嘘国王在冬眠",
-      "onboard_time": 1739327659,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 475434,
       "num": 475434,
       "word": "美国中情局向全员提出买断计划",
@@ -6889,14 +6897,6 @@
       "onboard_time": 1738662382,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 466962,
-      "num": 466962,
-      "word": "天官赐福",
-      "onboard_time": 1739323998,
-      "rank": 23,
-      "category": "动漫"
     },
     {
       "raw_hot": 466882,
@@ -7145,6 +7145,14 @@
       "onboard_time": 1738638385,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 448338,
+      "num": 448338,
+      "word": "中国登月服命名为望宇",
+      "onboard_time": 1739326518,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 447900,
@@ -7840,14 +7848,6 @@
       "word": "官方通报河南焦作20亩麦苗被铲除",
       "onboard_time": 1739243061,
       "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 403485,
-      "num": 403485,
-      "word": "中国登月服命名为望宇",
-      "onboard_time": 1739326518,
-      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -8865,6 +8865,14 @@
       "onboard_time": 1738419140,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 351066,
+      "num": 275134,
+      "word": "董宇辉回应被网友说像无量仙翁",
+      "onboard_time": 1739327719,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 350894,
@@ -9889,14 +9897,6 @@
       "onboard_time": 1738398917,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 311874,
-      "num": 273165,
-      "word": "董宇辉回应被网友说像无量仙翁",
-      "onboard_time": 1739327719,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 311550,
@@ -11339,6 +11339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 268264,
+      "num": 268264,
+      "word": "两个孩子一间房怎么住",
+      "onboard_time": 1739326217,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 267750,
       "num": 267750,
       "word": "怀疑惠英红特别关注张小斐",
@@ -11435,12 +11443,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 265229,
-      "num": 265229,
-      "word": "两个孩子一间房怎么住",
-      "onboard_time": 1739326217,
-      "rank": 24,
-      "category": "情感"
+      "raw_hot": 264541,
+      "num": 437551,
+      "word": "救人白马主人哽咽讲述救治过程",
+      "onboard_time": 1739327899,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 264520,
@@ -12545,6 +12553,14 @@
       "onboard_time": 1738725021,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 241501,
+      "num": 241501,
+      "word": "哪吒2突破92亿",
+      "onboard_time": 1739328618,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 241440,
@@ -15827,6 +15843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200087,
+      "num": 200087,
+      "word": "这是中国人自己的登月服和月球车",
+      "onboard_time": 1739328259,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199900,
       "num": 199900,
       "word": "雷军开小米YU7实测一千公里",
@@ -17267,6 +17291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188520,
+      "num": 188520,
+      "word": "漫城",
+      "onboard_time": 1739328559,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188305,
       "num": 188305,
       "word": "李瓒破破烂烂李瓒缝缝补补",
@@ -17899,6 +17931,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 183254,
+      "num": 183254,
+      "word": "正月十五",
+      "onboard_time": 1739320759,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183242,
       "num": 183242,
       "word": "猫 姐姐是专门来喂我的嘛",
@@ -17969,6 +18009,14 @@
       "onboard_time": 1738393337,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182587,
+      "num": 182587,
+      "word": "KPL",
+      "onboard_time": 1739084720,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 182548,
@@ -18907,6 +18955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174231,
+      "num": 174231,
+      "word": "四川成都新型碰瓷方式出现",
+      "onboard_time": 1739328199,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174229,
       "num": 226910,
       "word": "亚冬会开幕式",
@@ -19153,6 +19209,14 @@
       "onboard_time": 1738405998,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171827,
+      "num": 171827,
+      "word": "中国人把飞天梦藏在登月服名字里",
+      "onboard_time": 1739328319,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171821,
@@ -19507,14 +19571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168925,
-      "num": 168925,
-      "word": "这是中国人自己的登月服和月球车",
-      "onboard_time": 1739328259,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 168908,
       "num": 173783,
       "word": "时代少年团非洲出发",
@@ -19857,14 +19913,6 @@
       "onboard_time": 1738495458,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 166006,
-      "num": 166006,
-      "word": "KPL",
-      "onboard_time": 1739084720,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 165947,
@@ -20867,14 +20915,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 157771,
-      "num": 157771,
-      "word": "正月十五",
-      "onboard_time": 1739320759,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 157724,
       "num": 157724,
       "word": "林孝埈赛后落泪道歉",
@@ -21457,14 +21497,6 @@
       "onboard_time": 1739073620,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152617,
-      "num": 152617,
-      "word": "四川成都新型碰瓷方式出现",
-      "onboard_time": 1739328199,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 152613,
@@ -22459,14 +22491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144808,
-      "num": 144808,
-      "word": "漫城",
-      "onboard_time": 1739328559,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 144675,
       "num": 175233,
       "word": "台媒谈李现",
@@ -22531,6 +22555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144177,
+      "num": 144177,
+      "word": "就冲当初这张图等了漫城一年",
+      "onboard_time": 1739328739,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144157,
       "num": 144157,
       "word": "张杰粤语唱李香兰太对味了",
@@ -22544,14 +22576,6 @@
       "word": "网友路遇罕见白鹿如画中走出",
       "onboard_time": 1738453514,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 144058,
-      "num": 144058,
-      "word": "中国人把飞天梦藏在登月服名字里",
-      "onboard_time": 1739328319,
-      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -23603,6 +23627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135034,
+      "num": 135034,
+      "word": "广东首个政府部门上线DeepSeek",
+      "onboard_time": 1739326698,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 134997,
       "num": 134997,
       "word": "妈宝女被六姊妹整破防了",
@@ -24123,6 +24155,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 130572,
+      "num": 130572,
+      "word": "猫咪能感知主人的情绪吗",
+      "onboard_time": 1739329039,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130551,
       "num": 175337,
       "word": "刘昊然 振邦哥哥别笑了我害怕",
@@ -24193,14 +24233,6 @@
       "onboard_time": 1738419260,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 130126,
-      "num": 130126,
-      "word": "广东首个政府部门上线DeepSeek",
-      "onboard_time": 1739326698,
-      "rank": 45,
-      "category": "互联网"
     },
     {
       "raw_hot": 130107,
@@ -25969,14 +26001,6 @@
       "onboard_time": 1739278700,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 114484,
-      "num": 114484,
-      "word": "哪吒2突破92亿",
-      "onboard_time": 1739328618,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 114275,
@@ -28747,14 +28771,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 82788,
-      "num": 437551,
-      "word": "救人白马主人哽咽讲述救治过程",
-      "onboard_time": 1739327899,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82705,
       "num": 290050,
       "word": "大年初四北京下雪",
@@ -29281,6 +29297,14 @@
       "onboard_time": 1738770564,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75799,
+      "num": 401748,
+      "word": "救人的白龙马死因是肠道绞窄",
+      "onboard_time": 1739328140,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75718,
@@ -30588,7 +30612,7 @@
     },
     {
       "raw_hot": 56854,
-      "num": 931179,
+      "num": 962598,
       "word": "中国队已集齐3个金牌九宫格",
       "onboard_time": 1739304071,
       "rank": 11,
@@ -32747,6 +32771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 32091,
+      "num": 279259,
+      "word": "成都用棉花仿雪旅游区闭园整改",
+      "onboard_time": 1739328919,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32081,
       "num": 75905,
       "word": "埃文凯尔说中国是他第二个家",
@@ -32857,14 +32889,6 @@
       "onboard_time": 1738988907,
       "rank": 19,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 30796,
-      "num": 401748,
-      "word": "救人的白龙马死因是肠道绞窄",
-      "onboard_time": 1739328140,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30778,
@@ -33636,7 +33660,7 @@
     },
     {
       "raw_hot": 23115,
-      "num": 200403,
+      "num": 266649,
       "word": "亚冬会遇上元宵节",
       "onboard_time": 1739322198,
       "rank": 29,
