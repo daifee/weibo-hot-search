@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739348948481,
+  "endTime": 1739349727723,
   "band_list": [
     {
       "raw_hot": 10037874,
@@ -59,6 +59,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 2740229,
+      "num": 2740229,
+      "word": "ABC拿经期性感当卖点离了大谱",
+      "onboard_time": 1739346200,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2727035,
       "num": 2727035,
       "word": "韩国犯规",
@@ -72,14 +80,6 @@
       "word": "宝妈入住月子中心不到1天投湖轻生",
       "onboard_time": 1739335402,
       "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2547643,
-      "num": 2547643,
-      "word": "ABC拿经期性感当卖点离了大谱",
-      "onboard_time": 1739346200,
-      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -379,20 +379,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1652342,
+      "num": 1652342,
+      "word": "全球票房",
+      "onboard_time": 1739339540,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1619939,
       "num": 479938,
       "word": "百色去世女生母亲发声",
       "onboard_time": 1739255661,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1611701,
-      "num": 1611701,
-      "word": "全球票房",
-      "onboard_time": 1739339540,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 1596151,
@@ -692,7 +692,7 @@
     },
     {
       "raw_hot": 1145972,
-      "num": 285407,
+      "num": 286222,
       "word": "生9女1男女子回应网友质疑如何养活",
       "onboard_time": 1739344342,
       "rank": 29,
@@ -1691,6 +1691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 652473,
+      "num": 324617,
+      "word": "胡彦斌怎么连招聘都自己做啊",
+      "onboard_time": 1739346500,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 651461,
       "num": 651461,
       "word": "特朗普说吞并加拿大我是认真的",
@@ -1801,6 +1809,14 @@
       "onboard_time": 1739282543,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 623938,
+      "num": 321143,
+      "word": "哪吒2票房突破94亿",
+      "onboard_time": 1739348000,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 623910,
@@ -2379,6 +2395,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 511848,
+      "num": 284800,
+      "word": "赵露思请小谢和女儿去迪士尼",
+      "onboard_time": 1739344701,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 511747,
       "num": 432795,
       "word": "被室友电池烧伤大学生已植皮12次",
@@ -2619,20 +2643,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 458851,
+      "num": 458851,
+      "word": "JDG 回家吧孩子",
+      "onboard_time": 1739346801,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 457804,
       "num": 359308,
       "word": "哈利波特落户上海",
       "onboard_time": 1739329220,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 457014,
-      "num": 284800,
-      "word": "赵露思请小谢和女儿去迪士尼",
-      "onboard_time": 1739344701,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 453291,
@@ -2801,14 +2825,6 @@
       "onboard_time": 1739270902,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 419292,
-      "num": 419292,
-      "word": "JDG 回家吧孩子",
-      "onboard_time": 1739346801,
-      "rank": 4,
-      "category": "电竞"
     },
     {
       "raw_hot": 418851,
@@ -3003,6 +3019,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 395006,
+      "num": 280475,
+      "word": "女子感觉洗头被烫伤店员说活不起",
+      "onboard_time": 1739344400,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 394611,
       "num": 394611,
       "word": "王楚钦王曼昱梁靖崑的提议全部得到落实",
@@ -3049,14 +3073,6 @@
       "onboard_time": 1739022862,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 386800,
-      "num": 283003,
-      "word": "胡彦斌怎么连招聘都自己做啊",
-      "onboard_time": 1739346500,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 386765,
@@ -3137,14 +3153,6 @@
       "onboard_time": 1739249302,
       "rank": 17,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 375515,
-      "num": 282161,
-      "word": "哪吒2票房突破94亿",
-      "onboard_time": 1739348000,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 373091,
@@ -3249,14 +3257,6 @@
       "onboard_time": 1739060117,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 360930,
-      "num": 279608,
-      "word": "女子感觉洗头被烫伤店员说活不起",
-      "onboard_time": 1739344400,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 355896,
@@ -3435,6 +3435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 330130,
+      "num": 330130,
+      "word": "金价大涨背后推手是谁",
+      "onboard_time": 1739348000,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 329167,
       "num": 329167,
       "word": "2025KPL春季赛定妆照",
@@ -3497,6 +3505,14 @@
       "onboard_time": 1739163802,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 325883,
+      "num": 279248,
+      "word": "上美藕饼",
+      "onboard_time": 1739346441,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 325333,
@@ -3657,14 +3673,6 @@
       "onboard_time": 1739083881,
       "rank": 28,
       "category": "动漫,电影"
-    },
-    {
-      "raw_hot": 309309,
-      "num": 278967,
-      "word": "上美藕饼",
-      "onboard_time": 1739346441,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 308721,
@@ -4483,6 +4491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 246134,
+      "num": 246134,
+      "word": "宋妍霏浪姐6全妆路透",
+      "onboard_time": 1739348481,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245618,
       "num": 245618,
       "word": "林孝埈孙龙1000米展团魂",
@@ -4891,6 +4907,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 226319,
+      "num": 226319,
+      "word": "多平台下架ABC比基尼安睡裤",
+      "onboard_time": 1739348900,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 226287,
       "num": 338156,
       "word": "年货扔垃圾箱疑似当事人回应",
@@ -5073,14 +5097,6 @@
       "onboard_time": 1739019503,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 219287,
-      "num": 219287,
-      "word": "宋妍霏浪姐6全妆路透",
-      "onboard_time": 1739348481,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 218897,
@@ -6635,14 +6651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 185735,
-      "num": 185735,
-      "word": "多平台下架ABC比基尼安睡裤",
-      "onboard_time": 1739348900,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 185377,
       "num": 185377,
       "word": "孙颖莎说展现最好自己比冠军更重要",
@@ -6801,14 +6809,6 @@
       "onboard_time": 1739029222,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 180670,
-      "num": 282748,
-      "word": "金价大涨背后推手是谁",
-      "onboard_time": 1739348000,
-      "rank": 19,
-      "category": "财经"
     },
     {
       "raw_hot": 180554,
@@ -7211,6 +7211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 171878,
+      "num": 281869,
+      "word": "肖战飞身上马一气呵成",
+      "onboard_time": 1739348241,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 171827,
       "num": 171827,
       "word": "中国人把飞天梦藏在登月服名字里",
@@ -7500,7 +7508,7 @@
     },
     {
       "raw_hot": 166219,
-      "num": 270211,
+      "num": 270354,
       "word": "解放军版烟花秀的满满安全感",
       "onboard_time": 1739348780,
       "rank": 34,
@@ -7513,6 +7521,14 @@
       "onboard_time": 1739345421,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165786,
+      "num": 282225,
+      "word": "春节序曲打开大国重器版烟花秀",
+      "onboard_time": 1739349261,
+      "rank": 20,
+      "category": "正能量"
     },
     {
       "raw_hot": 165458,
@@ -7907,6 +7923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157544,
+      "num": 157544,
+      "word": "成毅版芝麻馅汤圆",
+      "onboard_time": 1739349680,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157265,
       "num": 157265,
       "word": "中芯国际2024年净利润同比下降23.3%",
@@ -8017,6 +8041,14 @@
       "onboard_time": 1739331321,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 155434,
+      "num": 273533,
+      "word": "6岁版海阳大秧歌奶凶奶凶也撩人",
+      "onboard_time": 1739349140,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155411,
@@ -8297,6 +8329,14 @@
       "onboard_time": 1739165482,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147742,
+      "num": 270990,
+      "word": "电影封神第二部",
+      "onboard_time": 1739349620,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 147480,
@@ -10427,14 +10467,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 79723,
-      "num": 281869,
-      "word": "肖战飞身上马一气呵成",
-      "onboard_time": 1739348241,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
       "raw_hot": 79634,
       "num": 312486,
       "word": "德塔文认证梁洁90演技花",
@@ -10488,6 +10520,14 @@
       "word": "邓为死脑子快记啊",
       "onboard_time": 1739205078,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 78392,
+      "num": 283073,
+      "word": "警方开始调查崔漫莉",
+      "onboard_time": 1739348422,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -10601,6 +10641,14 @@
       "onboard_time": 1739330062,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 73513,
+      "num": 281243,
+      "word": "游戏浪漫团圆夜",
+      "onboard_time": 1739349140,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 73183,
@@ -10915,14 +10963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 62164,
-      "num": 202769,
-      "word": "警方开始调查崔漫莉",
-      "onboard_time": 1739348422,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 61930,
       "num": 275592,
       "word": "哪吒2到底用了多少种方言",
@@ -11121,6 +11161,14 @@
       "onboard_time": 1739316857,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 55323,
+      "num": 279816,
+      "word": "美国窃贼偷走餐厅超500枚鸡蛋",
+      "onboard_time": 1739348061,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 55268,
@@ -11331,6 +11379,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 49699,
+      "num": 227077,
+      "word": "A股主线重要变化",
+      "onboard_time": 1739347101,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 49343,
       "num": 274380,
       "word": "和李现一起为中国冰雪健儿打call",
@@ -11539,6 +11595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42860,
+      "num": 284918,
+      "word": "社区与银行未经授权批量开养老金账户",
+      "onboard_time": 1739349200,
+      "rank": 13,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 42529,
       "num": 203500,
       "word": "律师评铁路旁新装摄像头正对卧室",
@@ -11561,14 +11625,6 @@
       "onboard_time": 1739335762,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 41682,
-      "num": 279816,
-      "word": "美国窃贼偷走餐厅超500枚鸡蛋",
-      "onboard_time": 1739348061,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 41361,
@@ -11612,7 +11668,7 @@
     },
     {
       "raw_hot": 40173,
-      "num": 284134,
+      "num": 284679,
       "word": "情人节别再送这些化妆品了",
       "onboard_time": 1739347281,
       "rank": 14,
@@ -11689,6 +11745,14 @@
       "onboard_time": 1739075299,
       "rank": 13,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 38004,
+      "num": 282606,
+      "word": "朱易说第一个出场有些紧张",
+      "onboard_time": 1739348721,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 37653,
@@ -12240,14 +12304,6 @@
       "word": "刘梦婷金牌",
       "onboard_time": 1739248582,
       "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 22805,
-      "num": 282606,
-      "word": "朱易说第一个出场有些紧张",
-      "onboard_time": 1739348721,
-      "rank": 20,
       "category": "体育"
     },
     {

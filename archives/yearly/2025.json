@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1739348948481,
+  "endTime": 1739349727723,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1379,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2740229,
+      "num": 2740229,
+      "word": "ABC拿经期性感当卖点离了大谱",
+      "onboard_time": 1739346200,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2738765,
       "num": 445794,
       "word": "王星称在缅甸吃不饱没时间如厕",
@@ -1529,14 +1537,6 @@
       "onboard_time": 1738081830,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2547643,
-      "num": 2547643,
-      "word": "ABC拿经期性感当卖点离了大谱",
-      "onboard_time": 1739346200,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 2534820,
