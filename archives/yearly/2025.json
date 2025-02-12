@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1739366873899,
+  "endTime": 1739367566682,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -219,20 +219,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 10705430,
+      "num": 10705430,
+      "word": "哪吒打人 敖丙劝架",
+      "onboard_time": 1739364023,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 10681189,
       "num": 10681189,
       "word": "新年快乐",
       "onboard_time": 1735660407,
       "rank": 0,
       "category": "情感,民生新闻"
-    },
-    {
-      "raw_hot": 10306819,
-      "num": 10306819,
-      "word": "哪吒打人 敖丙劝架",
-      "onboard_time": 1739364023,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 10208509,
