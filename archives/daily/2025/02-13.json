@@ -1,6 +1,6 @@
 {
   "startTime": 1739377766335,
-  "endTime": 1739399926953,
+  "endTime": 1739402438984,
   "band_list": [
     {
       "raw_hot": 1780872,
@@ -25,6 +25,14 @@
       "onboard_time": 1739364023,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 742063,
+      "num": 813174,
+      "word": "女生来云南散心前后判若两人",
+      "onboard_time": 1739381774,
+      "rank": 14,
+      "category": "旅游"
     },
     {
       "raw_hot": 606561,
@@ -59,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 423549,
+      "num": 423549,
+      "word": "直播间别再捧卖蠢草包了",
+      "onboard_time": 1739383453,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 417379,
       "num": 363106,
       "word": "沙溢瘦太多了",
@@ -83,14 +99,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 329743,
-      "num": 486161,
-      "word": "女生来云南散心前后判若两人",
-      "onboard_time": 1739381774,
-      "rank": 14,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 323837,
       "num": 195137,
       "word": "长发肖战",
@@ -107,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 292252,
+      "num": 292252,
+      "word": "哪吒2全球票房排名第22",
+      "onboard_time": 1739382014,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 291911,
       "num": 184887,
       "word": "43岁女子找男模花光450万公款",
@@ -120,6 +136,14 @@
       "word": "哪吒2二刷及以上人群不到1成",
       "onboard_time": 1739357840,
       "rank": 16,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 281887,
+      "num": 281887,
+      "word": "外交部回应哪吒2登陆北美",
+      "onboard_time": 1739396351,
+      "rank": 7,
       "category": "电影"
     },
     {
@@ -187,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 185284,
+      "num": 185284,
+      "word": "有人来管管这个撒贝宁吗",
+      "onboard_time": 1739368763,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170197,
       "num": 170197,
       "word": "骨科医生推荐的正确睡姿",
@@ -235,11 +267,19 @@
       "category": "电影"
     },
     {
-      "raw_hot": 155120,
-      "num": 155120,
-      "word": "直播间别再捧卖蠢草包了",
-      "onboard_time": 1739383453,
-      "rank": 31,
+      "raw_hot": 154167,
+      "num": 154167,
+      "word": "马斯克称美国养老金名单现150岁老人",
+      "onboard_time": 1739362761,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 153700,
+      "num": 153700,
+      "word": "前经纪公司否认曝光沈小婷身份证",
+      "onboard_time": 1739397552,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -265,6 +305,14 @@
       "onboard_time": 1739360122,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 141401,
+      "num": 165063,
+      "word": "中国兵器装备集团副总刘卫东被查",
+      "onboard_time": 1739380694,
+      "rank": 34,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 140993,
@@ -315,14 +363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 123473,
-      "num": 123473,
-      "word": "外交部回应哪吒2登陆北美",
-      "onboard_time": 1739396351,
-      "rank": 7,
-      "category": "电影"
-    },
-    {
       "raw_hot": 122282,
       "num": 122282,
       "word": "哪吒的新鳞甲是我们的文化自信",
@@ -368,14 +408,6 @@
       "word": "小县城凭哪吒分账票房冲进全国前5",
       "onboard_time": 1739353821,
       "rank": 42,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 113171,
-      "num": 113171,
-      "word": "哪吒2全球票房排名第22",
-      "onboard_time": 1739382014,
-      "rank": 17,
       "category": "电影"
     },
     {
@@ -459,14 +491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 84944,
-      "num": 84944,
-      "word": "有人来管管这个撒贝宁吗",
-      "onboard_time": 1739368763,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 84573,
       "num": 84573,
       "word": "天官赐福",
@@ -475,12 +499,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 82401,
-      "num": 84457,
-      "word": "马斯克称美国养老金名单现150岁老人",
-      "onboard_time": 1739362761,
-      "rank": 48,
-      "category": "国际时政"
+      "raw_hot": 81702,
+      "num": 160626,
+      "word": "曝100多名娃哈哈老员工年终奖减半",
+      "onboard_time": 1739378237,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78966,
@@ -491,12 +515,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 60189,
-      "num": 160626,
-      "word": "曝100多名娃哈哈老员工年终奖减半",
-      "onboard_time": 1739378237,
-      "rank": 16,
-      "category": "民生新闻"
+      "raw_hot": 63183,
+      "num": 63183,
+      "word": "陈丽君大圣太帅了",
+      "onboard_time": 1739364922,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 59491,
@@ -513,22 +537,6 @@
       "onboard_time": 1739358561,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 54994,
-      "num": 50816,
-      "word": "前经纪公司否认曝光沈小婷身份证",
-      "onboard_time": 1739397552,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 54522,
-      "num": 130049,
-      "word": "中国兵器装备集团副总刘卫东被查",
-      "onboard_time": 1739380694,
-      "rank": 34,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 53659,
@@ -555,12 +563,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 47931,
+      "num": 47931,
+      "word": "导演你懂吗这才是我想看的李瓒",
+      "onboard_time": 1739401335,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 44063,
       "num": 44063,
       "word": "花样年华",
       "onboard_time": 1739381713,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 42085,
+      "num": 42085,
+      "word": "王一博 真正人生是旷野",
+      "onboard_time": 1739396291,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 40354,
@@ -571,12 +595,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 40169,
+      "num": 40169,
+      "word": "杨子 就是来找骂的",
+      "onboard_time": 1739388970,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 34618,
       "num": 116029,
       "word": "紫幻说女娲无他唯手熟尔",
       "onboard_time": 1739377098,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 32475,
+      "num": 492311,
+      "word": "一大批重大外资项目加快推进",
+      "onboard_time": 1739367322,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32084,
+      "num": 64058,
+      "word": "外交部回应哪吒2北美放映",
+      "onboard_time": 1739395930,
+      "rank": 29,
+      "category": "国内时政,电影"
     },
     {
       "raw_hot": 30961,
@@ -596,27 +644,11 @@
     },
     {
       "raw_hot": 28313,
-      "num": 29929,
+      "num": 32707,
       "word": "元宵节烟花",
       "onboard_time": 1739384712,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25831,
-      "num": 25831,
-      "word": "王一博 真正人生是旷野",
-      "onboard_time": 1739396291,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 24936,
-      "num": 24936,
-      "word": "杨子 就是来找骂的",
-      "onboard_time": 1739388970,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 24049,
@@ -625,6 +657,14 @@
       "onboard_time": 1739368163,
       "rank": 2,
       "category": "民生新闻,科学科普"
+    },
+    {
+      "raw_hot": 21887,
+      "num": 32482,
+      "word": "解放军南部战区位南海海域例行巡航",
+      "onboard_time": 1739389091,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 21658,
@@ -649,30 +689,6 @@
       "onboard_time": 1739384293,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 19763,
-      "num": 35510,
-      "word": "外交部回应哪吒2北美放映",
-      "onboard_time": 1739395930,
-      "rank": 29,
-      "category": "国内时政,电影"
-    },
-    {
-      "raw_hot": 17690,
-      "num": 221391,
-      "word": "一大批重大外资项目加快推进",
-      "onboard_time": 1739367322,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17041,
-      "num": 24496,
-      "word": "解放军南部战区位南海海域例行巡航",
-      "onboard_time": 1739389091,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 15217,
