@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739317004552,
+  "endTime": 1739324518285,
   "band_list": [
     {
       "raw_hot": 10037874,
@@ -473,6 +473,14 @@
       "onboard_time": 1739090299,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1293058,
+      "num": 716826,
+      "word": "饺子不知道观众怎么想出藕饼cp",
+      "onboard_time": 1739321481,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1278985,
@@ -1099,6 +1107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 807259,
+      "num": 419091,
+      "word": "男生隔空猥亵未成年女孩被判5年",
+      "onboard_time": 1739291597,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 801377,
       "num": 413237,
       "word": "广西高中性侵案表姐发声",
@@ -1251,14 +1267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 720813,
-      "num": 222326,
-      "word": "男生隔空猥亵未成年女孩被判5年",
-      "onboard_time": 1739291597,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 719386,
       "num": 1115101,
       "word": "哪吒2被偷票房损失惨重是影城非片方",
@@ -1313,6 +1321,14 @@
       "onboard_time": 1739076680,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 690142,
+      "num": 690142,
+      "word": "回南天",
+      "onboard_time": 1739319498,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 686462,
@@ -1523,6 +1539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 624189,
+      "num": 464898,
+      "word": "饺子回应申公豹为什么是结巴",
+      "onboard_time": 1739310371,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 623980,
       "num": 623980,
       "word": "樊振东陈梦四年内确保直接参赛WTT",
@@ -1633,6 +1657,14 @@
       "onboard_time": 1739273541,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 597363,
+      "num": 441347,
+      "word": "敖丙一开始被设计为反派角色",
+      "onboard_time": 1739316857,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 596928,
@@ -1872,6 +1904,14 @@
       "word": "黄杨钿甜今年高考",
       "onboard_time": 1739275820,
       "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 544722,
+      "num": 386891,
+      "word": "谢广坤扮演者疑似回应被女儿控诉",
+      "onboard_time": 1739316857,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -2227,6 +2267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 472137,
+      "num": 472137,
+      "word": "ABC比基尼安睡裤被骂",
+      "onboard_time": 1739288300,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 470303,
       "num": 470303,
       "word": "林孝埈康复师场外痛哭",
@@ -2265,6 +2313,14 @@
       "onboard_time": 1739177479,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 455922,
+      "num": 455922,
+      "word": "元宵节",
+      "onboard_time": 1739315535,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 453291,
@@ -2392,6 +2448,14 @@
       "word": "印度23岁女子婚礼台上跳舞猝死",
       "onboard_time": 1739196262,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 423465,
+      "num": 423465,
+      "word": "被室友电瓶燃爆烧伤男生照镜子哭泣",
+      "onboard_time": 1739315294,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -2577,14 +2641,6 @@
       "onboard_time": 1739275942,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 392489,
-      "num": 392489,
-      "word": "饺子回应申公豹为什么是结巴",
-      "onboard_time": 1739310371,
-      "rank": 12,
-      "category": "电影"
     },
     {
       "raw_hot": 391404,
@@ -3635,14 +3691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 263104,
-      "num": 263104,
-      "word": "ABC比基尼安睡裤被骂",
-      "onboard_time": 1739288300,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 259686,
       "num": 230168,
       "word": "菲警方找到绑架案中国母子遗骸",
@@ -3673,6 +3721,14 @@
       "onboard_time": 1739105542,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 258883,
+      "num": 209716,
+      "word": "当我问Deepseek26岁的存款现状",
+      "onboard_time": 1739317758,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 258607,
@@ -3905,6 +3961,14 @@
       "onboard_time": 1739255958,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 242599,
+      "num": 242599,
+      "word": "晋江",
+      "onboard_time": 1739319020,
+      "rank": 16,
+      "category": "读书作家"
     },
     {
       "raw_hot": 241440,
@@ -4179,6 +4243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 226725,
+      "num": 260981,
+      "word": "流感高烧3天不退小心是重症",
+      "onboard_time": 1739290640,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 226287,
       "num": 338156,
       "word": "年货扔垃圾箱疑似当事人回应",
@@ -4249,14 +4321,6 @@
       "onboard_time": 1739291659,
       "rank": 29,
       "category": "民生新闻,体育"
-    },
-    {
-      "raw_hot": 223037,
-      "num": 223037,
-      "word": "元宵节",
-      "onboard_time": 1739315535,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 222968,
@@ -4409,6 +4473,14 @@
       "onboard_time": 1739249001,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217599,
+      "num": 217599,
+      "word": "金智秀李洙赫牵手路透",
+      "onboard_time": 1739316857,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 217393,
@@ -5267,6 +5339,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 195740,
+      "num": 210408,
+      "word": "解锁山东N种消费新姿势",
+      "onboard_time": 1739323579,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 195712,
       "num": 402493,
       "word": "女子为转移资金给陌生人汇款1.7亿",
@@ -5851,14 +5931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 180737,
-      "num": 260981,
-      "word": "流感高烧3天不退小心是重症",
-      "onboard_time": 1739290640,
-      "rank": 15,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 180554,
       "num": 180554,
       "word": "上证指数",
@@ -5945,6 +6017,14 @@
       "onboard_time": 1739155880,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178702,
+      "num": 203396,
+      "word": "天官赐福",
+      "onboard_time": 1739323998,
+      "rank": 23,
+      "category": "动漫"
     },
     {
       "raw_hot": 178657,
@@ -6065,6 +6145,14 @@
       "onboard_time": 1739186602,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 175998,
+      "num": 175998,
+      "word": "网友提名哪吒真人化选角",
+      "onboard_time": 1739305031,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 175835,
@@ -7035,6 +7123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152613,
+      "num": 152613,
+      "word": "OpenAI希望与中国合作",
+      "onboard_time": 1739320820,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 152310,
       "num": 395790,
       "word": "购新补贴后数码产品20天售出超200亿元",
@@ -7563,6 +7659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139048,
+      "num": 139048,
+      "word": "把发霉的馒头放大1000倍",
+      "onboard_time": 1739322741,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138514,
       "num": 138514,
       "word": "你们吵架就吵架怎么还牵手啊",
@@ -7593,6 +7697,14 @@
       "onboard_time": 1739090239,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137443,
+      "num": 137443,
+      "word": "剩米饭里的粉红色霉菌是剧毒吗",
+      "onboard_time": 1739317697,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137416,
@@ -7651,12 +7763,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 135294,
+      "num": 135294,
+      "word": "湖人又有中锋了",
+      "onboard_time": 1739323039,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135257,
       "num": 135257,
       "word": "为何我们买不到便宜又好用的卫生巾",
       "onboard_time": 1739253141,
       "rank": 46,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 135063,
+      "num": 135063,
+      "word": "文化中国行之元宵节",
+      "onboard_time": 1739312413,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134807,
@@ -7795,6 +7923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130840,
+      "num": 203110,
+      "word": "你们竞粉背着我吃这么好啊",
+      "onboard_time": 1739323698,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 130592,
       "num": 130592,
       "word": "DeepSeek官网和正版APP无付费项目",
@@ -7827,6 +7963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130090,
+      "num": 130090,
+      "word": "晋江崩了",
+      "onboard_time": 1739320700,
+      "rank": 38,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 129700,
       "num": 129700,
       "word": "孟子义发九宫格照片报平安",
@@ -7851,6 +7995,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 129373,
+      "num": 167589,
+      "word": "流感后高危人群最好48小时内用药",
+      "onboard_time": 1739292377,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 129340,
       "num": 129340,
       "word": "陈哲远梁洁谁给同事这样道歉",
@@ -7865,6 +8017,14 @@
       "onboard_time": 1739251640,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 129059,
+      "num": 129059,
+      "word": "元宵节祝福",
+      "onboard_time": 1739323758,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 128724,
@@ -8064,6 +8224,14 @@
       "word": "苗苗跳同款哪吒舞了",
       "onboard_time": 1739086761,
       "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 120788,
+      "num": 120788,
+      "word": "鹿童坐骑上的刺绣是一笔笔画的",
+      "onboard_time": 1739312773,
+      "rank": 42,
       "category": "电影"
     },
     {
@@ -8507,14 +8675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105997,
-      "num": 105997,
-      "word": "金智秀李洙赫牵手路透",
-      "onboard_time": 1739316857,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 105717,
       "num": 105717,
       "word": "一博不语只是一味凿冰",
@@ -8593,6 +8753,14 @@
       "onboard_time": 1739042771,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103305,
+      "num": 103305,
+      "word": "墨西哥湾古名叫中国海",
+      "onboard_time": 1739317158,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 102729,
@@ -8745,6 +8913,14 @@
       "onboard_time": 1739061619,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95865,
+      "num": 95865,
+      "word": "汤圆",
+      "onboard_time": 1739319259,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 95848,
@@ -8915,20 +9091,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 85786,
-      "num": 85786,
-      "word": "鹿童坐骑上的刺绣是一笔笔画的",
-      "onboard_time": 1739312773,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 85084,
       "num": 85484,
       "word": "11日起雨雪范围扩大",
       "onboard_time": 1739115860,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84142,
+      "num": 203036,
+      "word": "三亚偶遇沈腾出海",
+      "onboard_time": 1739311571,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 83972,
@@ -9083,14 +9259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 77413,
-      "num": 77413,
-      "word": "网友提名哪吒真人化选角",
-      "onboard_time": 1739305031,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 77092,
       "num": 297109,
       "word": "男子出国旅游晒黑十个度撞脸包公",
@@ -9153,14 +9321,6 @@
       "onboard_time": 1739161041,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 71674,
-      "num": 71674,
-      "word": "敖丙一开始被设计为反派角色",
-      "onboard_time": 1739316857,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 71333,
@@ -9281,14 +9441,6 @@
       "onboard_time": 1739171780,
       "rank": 17,
       "category": "教育"
-    },
-    {
-      "raw_hot": 66872,
-      "num": 167589,
-      "word": "流感后高危人群最好48小时内用药",
-      "onboard_time": 1739292377,
-      "rank": 17,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 66688,
@@ -9504,6 +9656,14 @@
       "word": "爸爸寻被拐儿子37年散尽家财",
       "onboard_time": 1739282601,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59020,
+      "num": 123922,
+      "word": "非遗春节大拜年",
+      "onboard_time": 1739323939,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -9769,14 +9929,6 @@
       "onboard_time": 1739151918,
       "rank": 19,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 48527,
-      "num": 48527,
-      "word": "文化中国行之元宵节",
-      "onboard_time": 1739312413,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 48162,
@@ -10409,14 +10561,6 @@
       "onboard_time": 1739225119,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 26907,
-      "num": 26907,
-      "word": "三亚偶遇沈腾出海",
-      "onboard_time": 1739311571,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 26900,
