@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739388962876,
+  "endTime": 1739391872077,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -25548,7 +25548,7 @@
     },
     {
       "raw_hot": 136915,
-      "num": 49526,
+      "num": 99683,
       "word": "直播间别再捧卖蠢草包了",
       "onboard_time": 1739383453,
       "rank": 31,
@@ -36851,6 +36851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 21716,
+      "num": 21716,
+      "word": "杨子 就是来找骂的",
+      "onboard_time": 1739388970,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 21658,
       "num": 45097,
       "word": "左航怼脸镜头签",
@@ -37033,6 +37041,14 @@
       "onboard_time": 1739044751,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 20165,
+      "num": 20165,
+      "word": "杨蓉把魏晨何炅张若昀演沉默了",
+      "onboard_time": 1739390711,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 19855,
@@ -37363,6 +37379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15398,
+      "num": 64087,
+      "word": "解放军南部战区位南海海域例行巡航",
+      "onboard_time": 1738783331,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 15366,
       "num": 76993,
       "word": "哪吒2动画制作公司成粉丝打卡点",
@@ -37403,20 +37427,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 15217,
+      "num": 44897,
+      "word": "哪吒扭扭扭",
+      "onboard_time": 1739387412,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15216,
       "num": 22953,
       "word": "日本新增流感病例减少",
       "onboard_time": 1738791671,
       "rank": 48,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 15208,
-      "num": 64087,
-      "word": "解放军南部战区位南海海域例行巡航",
-      "onboard_time": 1738783331,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 15191,
@@ -37689,14 +37713,6 @@
       "onboard_time": 1738955472,
       "rank": 13,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 13273,
-      "num": 44897,
-      "word": "哪吒扭扭扭",
-      "onboard_time": 1739387412,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13256,
@@ -38187,12 +38203,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 9392,
+      "num": 25420,
+      "word": "仙桃市将为救人白马建纪念雕像",
+      "onboard_time": 1739391013,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 9369,
       "num": 163124,
       "word": "郑钦文抵达多哈",
       "onboard_time": 1738840344,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 9359,
+      "num": 19661,
+      "word": "直播赏元宵满月",
+      "onboard_time": 1739390292,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9156,
