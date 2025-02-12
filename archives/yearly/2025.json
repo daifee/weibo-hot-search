@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1739345766007,
+  "endTime": 1739348948481,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1531,6 +1531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2547643,
+      "num": 2547643,
+      "word": "ABC拿经期性感当卖点离了大谱",
+      "onboard_time": 1739346200,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2534820,
       "num": 2534820,
       "word": "正月初六把穷气送出门",
@@ -2356,7 +2364,7 @@
     },
     {
       "raw_hot": 2067035,
-      "num": 395431,
+      "num": 1306521,
       "word": "公司曝光沈小婷身份证",
       "onboard_time": 1739341880,
       "rank": 19,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1737875656,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2056686,
-      "num": 2056686,
-      "word": "星光大赏红毯",
-      "onboard_time": 1735967359,
-      "rank": 6,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
