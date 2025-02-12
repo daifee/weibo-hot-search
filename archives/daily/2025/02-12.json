@@ -1,6 +1,6 @@
 {
   "startTime": 1739291403043,
-  "endTime": 1739367566682,
+  "endTime": 1739370102826,
   "band_list": [
     {
       "raw_hot": 10705430,
@@ -9,6 +9,14 @@
       "onboard_time": 1739364023,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2747710,
+      "num": 2747710,
+      "word": "饺子 早知道十亿十亿画了",
+      "onboard_time": 1739367562,
+      "rank": 1,
+      "category": "电影"
     },
     {
       "raw_hot": 2740229,
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 1810084,
-      "num": 565336,
+      "num": 786657,
       "word": "撒贝宁扶着机器人出来",
       "onboard_time": 1739364262,
       "rank": 17,
@@ -161,6 +169,14 @@
       "onboard_time": 1739353821,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1482902,
+      "num": 354223,
+      "word": "姜妍粉底",
+      "onboard_time": 1739367503,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 1456343,
@@ -276,7 +292,7 @@
     },
     {
       "raw_hot": 995461,
-      "num": 560958,
+      "num": 650394,
       "word": "时代少年团直播",
       "onboard_time": 1739367142,
       "rank": 6,
@@ -313,6 +329,14 @@
       "onboard_time": 1739360122,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 866203,
+      "num": 866203,
+      "word": "沙溢瘦太多了",
+      "onboard_time": 1739366544,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 830010,
@@ -483,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 669586,
+      "num": 669586,
+      "word": "张艺兴又去看哪吒了",
+      "onboard_time": 1739368522,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 640495,
       "num": 640495,
       "word": "益禾堂薄荷奶绿",
@@ -595,12 +627,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 542685,
-      "num": 542685,
-      "word": "沙溢瘦太多了",
-      "onboard_time": 1739366544,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 542309,
+      "num": 703825,
+      "word": "身份证号码泄露有哪些危害",
+      "onboard_time": 1739366844,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 539946,
@@ -705,6 +737,14 @@
       "onboard_time": 1739286380,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 435595,
+      "num": 333859,
+      "word": "不负好春光 上春山",
+      "onboard_time": 1739367683,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 427617,
@@ -843,6 +883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 385921,
+      "num": 385921,
+      "word": "白马去世后主人醉酒痛哭",
+      "onboard_time": 1739366724,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 384993,
       "num": 562455,
       "word": "元宵节快乐",
@@ -929,6 +977,14 @@
       "onboard_time": 1739330000,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 346455,
+      "num": 563267,
+      "word": "世界泳联兴奋剂检测前32位全是中国选手",
+      "onboard_time": 1739365341,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 343334,
@@ -1083,14 +1139,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 304804,
-      "num": 563267,
-      "word": "世界泳联兴奋剂检测前32位全是中国选手",
-      "onboard_time": 1739365341,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 304151,
       "num": 298455,
       "word": "时代峰峻",
@@ -1124,7 +1172,7 @@
     },
     {
       "raw_hot": 299808,
-      "num": 299808,
+      "num": 332420,
       "word": "许玮甯宣布新身份",
       "onboard_time": 1739365581,
       "rank": 25,
@@ -1243,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 277002,
+      "num": 277002,
+      "word": "曾经很火但逐渐消失了的品牌",
+      "onboard_time": 1739367083,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 276787,
       "num": 276787,
       "word": "张艺兴上桌吃饭",
@@ -1345,6 +1401,14 @@
       "onboard_time": 1739348481,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245089,
+      "num": 171227,
+      "word": "骨科医生推荐的正确睡姿",
+      "onboard_time": 1739369903,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 244641,
@@ -1467,6 +1531,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 228237,
+      "num": 213721,
+      "word": "哪吒听不了一点吃藕",
+      "onboard_time": 1739367442,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226725,
       "num": 260981,
       "word": "流感高烧3天不退小心是重症",
@@ -1491,6 +1563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 224318,
+      "num": 162914,
+      "word": "小品",
+      "onboard_time": 1739369065,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224014,
       "num": 224014,
       "word": "今天三部现偶定档了",
@@ -1513,6 +1593,14 @@
       "onboard_time": 1739365823,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 220984,
+      "num": 157924,
+      "word": "长发肖战",
+      "onboard_time": 1739369842,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 220430,
@@ -1651,6 +1739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 202876,
+      "num": 124623,
+      "word": "元宵晚会 好看",
+      "onboard_time": 1739369483,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202684,
       "num": 202684,
       "word": "吴磊晒猫爪汤圆",
@@ -1699,6 +1795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199792,
+      "num": 124382,
+      "word": "王一博曾毅rap的手语来自听障演员",
+      "onboard_time": 1739369065,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199061,
       "num": 199061,
       "word": "三专配置",
@@ -1721,6 +1825,14 @@
       "onboard_time": 1739366123,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198474,
+      "num": 124173,
+      "word": "杨帆 我就是那个被打的人",
+      "onboard_time": 1739369544,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 197711,
@@ -1800,6 +1912,14 @@
       "word": "迪丽热巴贺思慕元宵贺图",
       "onboard_time": 1739337022,
       "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 193428,
+      "num": 123819,
+      "word": "肖战元宵喜乐事事顺遂",
+      "onboard_time": 1739369662,
+      "rank": 44,
       "category": "艺人"
     },
     {
@@ -1939,14 +2059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 185222,
-      "num": 213721,
-      "word": "哪吒听不了一点吃藕",
-      "onboard_time": 1739367442,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 185054,
       "num": 185054,
       "word": "福宝今年不参与繁殖",
@@ -1963,10 +2075,10 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 184539,
-      "num": 184539,
-      "word": "姜妍粉底",
-      "onboard_time": 1739367503,
+      "raw_hot": 184589,
+      "num": 123666,
+      "word": "有人来管管这个撒贝宁吗",
+      "onboard_time": 1739368763,
       "rank": 45,
       "category": "综艺"
     },
@@ -2105,6 +2217,14 @@
       "onboard_time": 1739354900,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 171096,
+      "num": 343148,
+      "word": "西游记DNA狠狠动了",
+      "onboard_time": 1739369662,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 171002,
@@ -2273,14 +2393,6 @@
       "onboard_time": 1739348300,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 157583,
-      "num": 157583,
-      "word": "白马去世后主人醉酒痛哭",
-      "onboard_time": 1739366724,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 157544,
@@ -2539,14 +2651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132907,
-      "num": 157421,
-      "word": "曾经很火但逐渐消失了的品牌",
-      "onboard_time": 1739367083,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 132184,
       "num": 380690,
       "word": "卫生巾不需要花里胡俏的功能",
@@ -2619,6 +2723,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126041,
+      "num": 126041,
+      "word": "美国1月CPI同比增长3%",
+      "onboard_time": 1739368822,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 124842,
+      "num": 124842,
+      "word": "听障演员练不好节目急得骂自己",
+      "onboard_time": 1739369603,
+      "rank": 39,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 123533,
+      "num": 123533,
+      "word": "雷军回应Ultra金标",
+      "onboard_time": 1739368643,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 123244,
       "num": 123244,
       "word": "种地吧今天搭架子",
@@ -2673,6 +2801,14 @@
       "onboard_time": 1739268381,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116140,
+      "num": 116140,
+      "word": "周鸿祎直播送车被中奖者叫错名字",
+      "onboard_time": 1739369603,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 114658,
@@ -2785,6 +2921,14 @@
       "onboard_time": 1739340021,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 105596,
+      "num": 105596,
+      "word": "全球首例同时换脸换手男子结婚",
+      "onboard_time": 1739369544,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 103305,
@@ -3147,6 +3291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60310,
+      "num": 281708,
+      "word": "U20国足首开纪录",
+      "onboard_time": 1739369243,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59680,
       "num": 326820,
       "word": "网友曝一萌宠园过年无人管有动物死亡",
@@ -3251,14 +3403,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 54102,
-      "num": 547161,
-      "word": "身份证号码泄露有哪些危害",
-      "onboard_time": 1739366844,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 54076,
       "num": 332133,
       "word": "任俊霏邢珈宁银牌",
@@ -3345,6 +3489,14 @@
       "onboard_time": 1739359101,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 48413,
+      "num": 1662395,
+      "word": "今年十五的月亮哪天圆",
+      "onboard_time": 1739368163,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47618,

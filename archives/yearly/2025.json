@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1739367566682,
+  "endTime": 1739370102826,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1379,6 +1379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2747710,
+      "num": 2747710,
+      "word": "饺子 早知道十亿十亿画了",
+      "onboard_time": 1739367562,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 2740253,
       "num": 2740253,
       "word": "刘涛 妈祖援藏",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736685740,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 2068848,
-      "num": 1695685,
-      "word": "哪吒2破70亿大关",
-      "onboard_time": 1738991186,
-      "rank": 6,
-      "category": "电影"
     }
   ],
   "hotgov_list": [

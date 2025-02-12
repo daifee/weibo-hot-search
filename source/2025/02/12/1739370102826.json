@@ -1,0 +1,410 @@
+{
+  "runTime": 1739370102826,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8540564,
+        "num": 8540564,
+        "word": "哪吒打人 敖丙劝架",
+        "onboard_time": 1739364023,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2747710,
+        "num": 2747710,
+        "word": "饺子 早知道十亿十亿画了",
+        "onboard_time": 1739367562,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 48413,
+        "num": 1662395,
+        "word": "今年十五的月亮哪天圆",
+        "onboard_time": 1739368163,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 866203,
+        "num": 866203,
+        "word": "沙溢瘦太多了",
+        "onboard_time": 1739366544,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 786657,
+        "num": 786657,
+        "word": "撒贝宁扶着机器人出来",
+        "onboard_time": 1739364262,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 542309,
+        "num": 703825,
+        "word": "身份证号码泄露有哪些危害",
+        "onboard_time": 1739366844,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 669586,
+        "num": 669586,
+        "word": "张艺兴又去看哪吒了",
+        "onboard_time": 1739368522,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 650394,
+        "num": 650394,
+        "word": "时代少年团直播",
+        "onboard_time": 1739367142,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385921,
+        "num": 385921,
+        "word": "白马去世后主人醉酒痛哭",
+        "onboard_time": 1739366724,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355895,
+        "num": 355895,
+        "word": "复旦欢迎中国籍留学生直博引热议",
+        "onboard_time": 1739353281,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1482902,
+        "num": 354223,
+        "word": "姜妍粉底",
+        "onboard_time": 1739367503,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 620999,
+        "num": 353914,
+        "word": "程序员三个月在理发店充卡24万",
+        "onboard_time": 1739361980,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 555995,
+        "num": 353826,
+        "word": "哪吒2票房超95亿",
+        "onboard_time": 1739358261,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 346455,
+        "num": 346455,
+        "word": "世界泳联兴奋剂检测前32位全是中国选手",
+        "onboard_time": 1739365341,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171096,
+        "num": 343148,
+        "word": "西游记DNA狠狠动了",
+        "onboard_time": 1739369662,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 524471,
+        "num": 342096,
+        "word": "李明德前女友 不止催我时倒数",
+        "onboard_time": 1739364200,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471946,
+        "num": 337957,
+        "word": "开场就是易烊千玺",
+        "onboard_time": 1739363361,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 435595,
+        "num": 333859,
+        "word": "不负好春光 上春山",
+        "onboard_time": 1739367683,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173647,
+        "num": 332420,
+        "word": "许玮甯宣布新身份",
+        "onboard_time": 1739365581,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408142,
+        "num": 328655,
+        "word": "陈丽君大圣太帅了",
+        "onboard_time": 1739364922,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347451,
+        "num": 322655,
+        "word": "女子年前卖掉为儿子攒的三金赚10多万",
+        "onboard_time": 1739358380,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322208,
+        "num": 322208,
+        "word": "赵丽颖杨幂唐嫣新剧或将对打",
+        "onboard_time": 1739360122,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291912,
+        "num": 291912,
+        "word": "ABC拿经期性感当卖点离了大谱",
+        "onboard_time": 1739346200,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286846,
+        "num": 286846,
+        "word": "鞠婧祎 花仙",
+        "onboard_time": 1739365942,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60310,
+        "num": 281708,
+        "word": "U20国足首开纪录",
+        "onboard_time": 1739369243,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277002,
+        "num": 277002,
+        "word": "曾经很火但逐渐消失了的品牌",
+        "onboard_time": 1739367083,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 261520,
+        "num": 261520,
+        "word": "哪吒2",
+        "onboard_time": 1739347820,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 249209,
+        "num": 249209,
+        "word": "小县城凭哪吒分账票房冲进全国前5",
+        "onboard_time": 1739353821,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199529,
+        "num": 199529,
+        "word": "元宵节快乐",
+        "onboard_time": 1739340200,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171688,
+        "num": 171688,
+        "word": "马斯克称美国养老金名单现150岁老人",
+        "onboard_time": 1739362761,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 245089,
+        "num": 171227,
+        "word": "骨科医生推荐的正确睡姿",
+        "onboard_time": 1739369903,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 235256,
+        "num": 169368,
+        "word": "王一博腰上这一堆得多少斤",
+        "onboard_time": 1739355921,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228237,
+        "num": 166559,
+        "word": "哪吒听不了一点吃藕",
+        "onboard_time": 1739367442,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224318,
+        "num": 162914,
+        "word": "小品",
+        "onboard_time": 1739369065,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162692,
+        "num": 162692,
+        "word": "汤圆",
+        "onboard_time": 1739351959,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 220984,
+        "num": 157924,
+        "word": "长发肖战",
+        "onboard_time": 1739369842,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150464,
+        "num": 150464,
+        "word": "夫妻吵架4岁孩子哭着收拾残局",
+        "onboard_time": 1739358561,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136203,
+        "num": 136203,
+        "word": "补作业",
+        "onboard_time": 1739359459,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126041,
+        "num": 126041,
+        "word": "美国1月CPI同比增长3%",
+        "onboard_time": 1739368822,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124842,
+        "num": 124842,
+        "word": "听障演员练不好节目急得骂自己",
+        "onboard_time": 1739369603,
+        "rank": 39,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 219997,
+        "num": 124813,
+        "word": "央视元宵晚会",
+        "onboard_time": 1739360539,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202876,
+        "num": 124623,
+        "word": "元宵晚会 好看",
+        "onboard_time": 1739369483,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199792,
+        "num": 124382,
+        "word": "王一博曾毅rap的手语来自听障演员",
+        "onboard_time": 1739369065,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198474,
+        "num": 124173,
+        "word": "杨帆 我就是那个被打的人",
+        "onboard_time": 1739369544,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193428,
+        "num": 123819,
+        "word": "肖战元宵喜乐事事顺遂",
+        "onboard_time": 1739369662,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184589,
+        "num": 123666,
+        "word": "有人来管管这个撒贝宁吗",
+        "onboard_time": 1739368763,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123533,
+        "num": 123533,
+        "word": "雷军回应Ultra金标",
+        "onboard_time": 1739368643,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 122564,
+        "num": 122564,
+        "word": "盛李豪保送北京体育大学",
+        "onboard_time": 1739360239,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116140,
+        "num": 116140,
+        "word": "周鸿祎直播送车被中奖者叫错名字",
+        "onboard_time": 1739369603,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 105596,
+        "num": 105596,
+        "word": "全球首例同时换脸换手男子结婚",
+        "onboard_time": 1739369544,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记家国同祝的问候与叮嘱#"
+    }
+  }
+}
