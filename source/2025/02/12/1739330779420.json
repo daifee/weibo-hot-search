@@ -1,0 +1,410 @@
+{
+  "runTime": 1739330779420,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1883947,
+        "num": 1883947,
+        "word": "多邻国猫头鹰去世",
+        "onboard_time": 1739326639,
+        "rank": 0,
+        "category": "互联网,教育"
+      },
+      {
+        "raw_hot": 929194,
+        "num": 929194,
+        "word": "难哄定档",
+        "onboard_time": 1739326217,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52047,
+        "num": 921944,
+        "word": "中国队已集齐3个金牌九宫格",
+        "onboard_time": 1739304071,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 915940,
+        "num": 915940,
+        "word": "蛇年元宵晚会节目单公布",
+        "onboard_time": 1739327420,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 634615,
+        "num": 634615,
+        "word": "救人白马主人哽咽讲述救治过程",
+        "onboard_time": 1739327899,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1081130,
+        "num": 591717,
+        "word": "哪吒票房 升国旗",
+        "onboard_time": 1739281223,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 384742,
+        "num": 384742,
+        "word": "中国登月服命名为望宇",
+        "onboard_time": 1739326518,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 767633,
+        "num": 384265,
+        "word": "哪吒2突破92亿",
+        "onboard_time": 1739328618,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 383018,
+        "num": 383018,
+        "word": "女子丧夫丧子要求移植冷冻胚胎被拒",
+        "onboard_time": 1739329820,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217228,
+        "num": 375774,
+        "word": "正月十五",
+        "onboard_time": 1739320759,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1493019,
+        "num": 375429,
+        "word": "女子吐槽袜子上出现狗牵女性不雅图片",
+        "onboard_time": 1739326217,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 765104,
+        "num": 373463,
+        "word": "饺子不知道观众怎么想出藕饼cp",
+        "onboard_time": 1739321481,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371337,
+        "num": 371337,
+        "word": "天官赐福",
+        "onboard_time": 1739323998,
+        "rank": 12,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 679799,
+        "num": 369143,
+        "word": "嘘国王在冬眠",
+        "onboard_time": 1739327659,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65832,
+        "num": 368187,
+        "word": "动物园已下架268元撸狮子套餐",
+        "onboard_time": 1739330119,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 526356,
+        "num": 366245,
+        "word": "淮水竹亭",
+        "onboard_time": 1739329640,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 472636,
+        "num": 361851,
+        "word": "男生隔空猥亵未成年女孩被判5年",
+        "onboard_time": 1739291597,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 457804,
+        "num": 359308,
+        "word": "哈利波特落户上海",
+        "onboard_time": 1739329220,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 51270,
+        "num": 356334,
+        "word": "亚冬会成了英语四六级考场",
+        "onboard_time": 1739330119,
+        "rank": 18,
+        "category": "教育,体育"
+      },
+      {
+        "raw_hot": 54568,
+        "num": 354836,
+        "word": "你永远猜不到老一辈看直播买啥",
+        "onboard_time": 1739330062,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353626,
+        "num": 353626,
+        "word": "董宇辉回应被网友说像无量仙翁",
+        "onboard_time": 1739327719,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 69169,
+        "num": 347784,
+        "word": "IVE悼念去世粉丝",
+        "onboard_time": 1739330540,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346147,
+        "num": 346147,
+        "word": "冲入江中救人白马离世",
+        "onboard_time": 1739285062,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78146,
+        "num": 339788,
+        "word": "成都用棉花仿雪旅游区闭园整改",
+        "onboard_time": 1739328919,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29883,
+        "num": 339274,
+        "word": "亚冬会遇上元宵节",
+        "onboard_time": 1739322198,
+        "rank": 24,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 339266,
+        "num": 339266,
+        "word": "这是中国人自己的登月服和月球车",
+        "onboard_time": 1739328259,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315397,
+        "num": 315397,
+        "word": "光线传媒",
+        "onboard_time": 1739329881,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 305673,
+        "num": 305673,
+        "word": "两个孩子一间房怎么住",
+        "onboard_time": 1739326217,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101965,
+        "num": 292002,
+        "word": "刚超龟速车就有自行车撞过来",
+        "onboard_time": 1739329220,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290056,
+        "num": 290056,
+        "word": "人民会堂回应上午开会下午放哪吒2",
+        "onboard_time": 1739286380,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49292,
+        "num": 277329,
+        "word": "张凌赫国风包帅的",
+        "onboard_time": 1739330062,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264602,
+        "num": 264602,
+        "word": "漫城定档情人节",
+        "onboard_time": 1739326881,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262871,
+        "num": 262871,
+        "word": "哪吒",
+        "onboard_time": 1739315356,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 252358,
+        "num": 252358,
+        "word": "敖丙一开始被设计为反派角色",
+        "onboard_time": 1739316857,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 243287,
+        "num": 243287,
+        "word": "饺子导演因穷但坚持被投资人选中",
+        "onboard_time": 1739330000,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 242228,
+        "num": 242228,
+        "word": "腾讯视频2025元宵节大剧片单",
+        "onboard_time": 1739329761,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234198,
+        "num": 234198,
+        "word": "元宵节",
+        "onboard_time": 1739315535,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228078,
+        "num": 228078,
+        "word": "28岁女子双肺长癌竟跟这个习惯有关",
+        "onboard_time": 1739289621,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216342,
+        "num": 216342,
+        "word": "饺子回应申公豹为什么是结巴",
+        "onboard_time": 1739310371,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191095,
+        "num": 191095,
+        "word": "逐玉",
+        "onboard_time": 1739329940,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189832,
+        "num": 189832,
+        "word": "救人的白龙马死因是肠道绞窄",
+        "onboard_time": 1739328140,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186907,
+        "num": 186907,
+        "word": "慕胥辞",
+        "onboard_time": 1739329580,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184741,
+        "num": 184741,
+        "word": "李瓒killmehealyou",
+        "onboard_time": 1739330062,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60970,
+        "num": 182193,
+        "word": "杜兰特复出冲击30000分",
+        "onboard_time": 1739329340,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63616,
+        "num": 181558,
+        "word": "春季穿搭",
+        "onboard_time": 1739326279,
+        "rank": 44,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 194623,
+        "num": 181422,
+        "word": "工资不高又经常熬夜的工作",
+        "onboard_time": 1739284762,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181287,
+        "num": 181287,
+        "word": "哪吒票房",
+        "onboard_time": 1739283922,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177716,
+        "num": 177716,
+        "word": "国外爆了的一首小甜歌",
+        "onboard_time": 1739330721,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 176857,
+        "num": 176857,
+        "word": "吒儿大张伟同台",
+        "onboard_time": 1739330000,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167908,
+        "num": 167908,
+        "word": "ABC比基尼安睡裤被骂",
+        "onboard_time": 1739288300,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#把各民族优秀传统文化发扬光大#"
+    }
+  }
+}
