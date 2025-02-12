@@ -1,6 +1,6 @@
 {
   "startTime": 1739377766335,
-  "endTime": 1739378621094,
+  "endTime": 1739380848631,
   "band_list": [
     {
       "raw_hot": 1780872,
@@ -120,6 +120,14 @@
       "word": "身份证号码泄露有哪些危害",
       "onboard_time": 1739366844,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 222209,
+      "num": 222209,
+      "word": "安睡裤",
+      "onboard_time": 1739377997,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -283,6 +291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 118717,
+      "num": 118717,
+      "word": "吴越周雨彤后台拥抱",
+      "onboard_time": 1739379136,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118391,
       "num": 118391,
       "word": "央妈很懂我",
@@ -387,12 +403,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92409,
+      "num": 92409,
+      "word": "哪吒3计划上映时间又改回2028年",
+      "onboard_time": 1739379136,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 87437,
+      "num": 92022,
+      "word": "台湾网友想看哪吒2",
+      "onboard_time": 1739379496,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 86561,
       "num": 86561,
       "word": "时代少年团直播",
       "onboard_time": 1739367142,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84944,
+      "num": 84944,
+      "word": "有人来管管这个撒贝宁吗",
+      "onboard_time": 1739368763,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 84573,
@@ -411,6 +451,30 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 78966,
+      "num": 78966,
+      "word": "无所畏惧",
+      "onboard_time": 1739379975,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 60189,
+      "num": 160626,
+      "word": "曝100多名娃哈哈老员工年终奖减半",
+      "onboard_time": 1739378237,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59491,
+      "num": 59491,
+      "word": "饺子寒假作业",
+      "onboard_time": 1739375481,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 58678,
       "num": 84158,
       "word": "夫妻吵架4岁孩子哭着收拾残局",
@@ -419,20 +483,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51499,
+      "num": 72864,
+      "word": "狼队元宵节开门红",
+      "onboard_time": 1739372242,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 34618,
       "num": 116029,
       "word": "紫幻说女娲无他唯手熟尔",
       "onboard_time": 1739377098,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 34385,
-      "num": 160626,
-      "word": "曝100多名娃哈哈老员工年终奖减半",
-      "onboard_time": 1739378237,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30961,
@@ -449,6 +513,14 @@
       "onboard_time": 1739368163,
       "rank": 2,
       "category": "民生新闻,科学科普"
+    },
+    {
+      "raw_hot": 21949,
+      "num": 73003,
+      "word": "中国兵器装备集团副总刘卫东被查",
+      "onboard_time": 1739380694,
+      "rank": 34,
+      "category": "辟谣/通报"
     }
   ],
   "hotgov_list": [
