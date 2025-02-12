@@ -1,6 +1,6 @@
 {
   "startTime": 1739377766335,
-  "endTime": 1739402438984,
+  "endTime": 1739403345759,
   "band_list": [
     {
       "raw_hot": 1780872,
@@ -19,6 +19,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 969677,
+      "num": 969677,
+      "word": "女生来云南散心前后判若两人",
+      "onboard_time": 1739381774,
+      "rank": 14,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 852838,
       "num": 852838,
       "word": "哪吒打人 敖丙劝架",
@@ -27,20 +35,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 742063,
-      "num": 813174,
-      "word": "女生来云南散心前后判若两人",
-      "onboard_time": 1739381774,
-      "rank": 14,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 606561,
       "num": 197462,
       "word": "姜妍粉底",
       "onboard_time": 1739367503,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 527750,
+      "num": 527750,
+      "word": "直播间别再捧卖蠢草包了",
+      "onboard_time": 1739383453,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 525493,
@@ -67,14 +75,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 423549,
-      "num": 423549,
-      "word": "直播间别再捧卖蠢草包了",
-      "onboard_time": 1739383453,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 417379,
       "num": 363106,
       "word": "沙溢瘦太多了",
@@ -91,8 +91,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 385046,
+      "num": 385046,
+      "word": "哪吒2全球票房排名第22",
+      "onboard_time": 1739382014,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 378501,
-      "num": 185358,
+      "num": 204981,
       "word": "李明德前女友 不止催我时倒数",
       "onboard_time": 1739364200,
       "rank": 11,
@@ -113,14 +121,6 @@
       "onboard_time": 1739376020,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 292252,
-      "num": 292252,
-      "word": "哪吒2全球票房排名第22",
-      "onboard_time": 1739382014,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 291911,
@@ -163,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 230655,
+      "num": 230655,
+      "word": "有人来管管这个撒贝宁吗",
+      "onboard_time": 1739368763,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220706,
       "num": 177845,
       "word": "曾经很火但逐渐消失了的品牌",
@@ -176,6 +184,14 @@
       "word": "去世白龙马主人获赠1匹新白马",
       "onboard_time": 1739372542,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201156,
+      "num": 201156,
+      "word": "程序员三个月在理发店充卡24万",
+      "onboard_time": 1739361980,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -203,20 +219,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187534,
-      "num": 195873,
-      "word": "程序员三个月在理发店充卡24万",
-      "onboard_time": 1739361980,
-      "rank": 13,
-      "category": "民生新闻"
+      "raw_hot": 187136,
+      "num": 187136,
+      "word": "马斯克称美国养老金名单现150岁老人",
+      "onboard_time": 1739362761,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
-      "raw_hot": 185284,
-      "num": 185284,
-      "word": "有人来管管这个撒贝宁吗",
-      "onboard_time": 1739368763,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 178800,
+      "num": 208505,
+      "word": "中国兵器装备集团副总刘卫东被查",
+      "onboard_time": 1739380694,
+      "rank": 34,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 170284,
+      "num": 160862,
+      "word": "女子年前卖掉为儿子攒的三金赚10多万",
+      "onboard_time": 1739358380,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170197,
@@ -235,19 +259,19 @@
       "category": "电影"
     },
     {
+      "raw_hot": 162066,
+      "num": 162066,
+      "word": "前经纪公司否认曝光沈小婷身份证",
+      "onboard_time": 1739397552,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162010,
       "num": 162010,
       "word": "致男子身亡礼花弹市面不能售卖",
       "onboard_time": 1739377219,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 160862,
-      "num": 160862,
-      "word": "女子年前卖掉为儿子攒的三金赚10多万",
-      "onboard_time": 1739358380,
-      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -265,22 +289,6 @@
       "onboard_time": 1739371342,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 154167,
-      "num": 154167,
-      "word": "马斯克称美国养老金名单现150岁老人",
-      "onboard_time": 1739362761,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 153700,
-      "num": 153700,
-      "word": "前经纪公司否认曝光沈小婷身份证",
-      "onboard_time": 1739397552,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 151329,
@@ -307,20 +315,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 141401,
-      "num": 165063,
-      "word": "中国兵器装备集团副总刘卫东被查",
-      "onboard_time": 1739380694,
-      "rank": 34,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 140993,
       "num": 140993,
       "word": "哪吒2",
       "onboard_time": 1739347820,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 139485,
+      "num": 139485,
+      "word": "特朗普普京通电话",
+      "onboard_time": 1739402476,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 136534,
@@ -403,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114461,
+      "num": 160626,
+      "word": "曝100多名娃哈哈老员工年终奖减半",
+      "onboard_time": 1739378237,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113925,
       "num": 113925,
       "word": "小县城凭哪吒分账票房冲进全国前5",
@@ -475,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92882,
+      "num": 92882,
+      "word": "抖音副总裁回应摆拍视频乱象",
+      "onboard_time": 1739402776,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 87437,
       "num": 92022,
       "word": "台湾网友想看哪吒2",
@@ -499,12 +523,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 81702,
-      "num": 160626,
-      "word": "曝100多名娃哈哈老员工年终奖减半",
-      "onboard_time": 1739378237,
-      "rank": 16,
-      "category": "民生新闻"
+      "raw_hot": 81282,
+      "num": 81282,
+      "word": "陈丽君大圣太帅了",
+      "onboard_time": 1739364922,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 79759,
+      "num": 79759,
+      "word": "导演你懂吗这才是我想看的李瓒",
+      "onboard_time": 1739401335,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 78966,
@@ -515,12 +547,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 63183,
-      "num": 63183,
-      "word": "陈丽君大圣太帅了",
-      "onboard_time": 1739364922,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 69410,
+      "num": 69410,
+      "word": "原神",
+      "onboard_time": 1739402476,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 63884,
+      "num": 63884,
+      "word": "埃弗顿2比2利物浦",
+      "onboard_time": 1739402536,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 62355,
+      "num": 62355,
+      "word": "特朗普称俄美希望结束俄乌冲突",
+      "onboard_time": 1739403317,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 59491,
@@ -537,6 +585,14 @@
       "onboard_time": 1739358561,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53813,
+      "num": 53813,
+      "word": "杨子 就是来找骂的",
+      "onboard_time": 1739388970,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 53659,
@@ -563,12 +619,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 47931,
-      "num": 47931,
-      "word": "导演你懂吗这才是我想看的李瓒",
-      "onboard_time": 1739401335,
-      "rank": 34,
-      "category": "剧集"
+      "raw_hot": 44973,
+      "num": 44973,
+      "word": "杨蓉把魏晨何炅张若昀演沉默了",
+      "onboard_time": 1739390711,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 44063,
@@ -579,28 +635,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 42085,
-      "num": 42085,
+      "raw_hot": 43270,
+      "num": 43270,
       "word": "王一博 真正人生是旷野",
       "onboard_time": 1739396291,
       "rank": 39,
       "category": "艺人"
     },
     {
-      "raw_hot": 40354,
-      "num": 40354,
-      "word": "杨蓉把魏晨何炅张若昀演沉默了",
-      "onboard_time": 1739390711,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 38590,
+      "num": 547597,
+      "word": "一大批重大外资项目加快推进",
+      "onboard_time": 1739367322,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 40169,
-      "num": 40169,
-      "word": "杨子 就是来找骂的",
-      "onboard_time": 1739388970,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 34911,
+      "num": 74643,
+      "word": "外交部回应哪吒2北美放映",
+      "onboard_time": 1739395930,
+      "rank": 29,
+      "category": "国内时政,电影"
     },
     {
       "raw_hot": 34618,
@@ -609,22 +665,6 @@
       "onboard_time": 1739377098,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 32475,
-      "num": 492311,
-      "word": "一大批重大外资项目加快推进",
-      "onboard_time": 1739367322,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32084,
-      "num": 64058,
-      "word": "外交部回应哪吒2北美放映",
-      "onboard_time": 1739395930,
-      "rank": 29,
-      "category": "国内时政,电影"
     },
     {
       "raw_hot": 30961,
