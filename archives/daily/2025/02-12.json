@@ -1,10 +1,10 @@
 {
   "startTime": 1739291403043,
-  "endTime": 1739337725838,
+  "endTime": 1739338720123,
   "band_list": [
     {
       "raw_hot": 2550003,
-      "num": 649399,
+      "num": 1801583,
       "word": "宝妈入住月子中心不到1天投湖轻生",
       "onboard_time": 1739335402,
       "rank": 10,
@@ -24,6 +24,14 @@
       "word": "女子吐槽袜子上出现狗牵女性不雅图片",
       "onboard_time": 1739326217,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2066788,
+      "num": 2066788,
+      "word": "男子刮刮乐中25万淡定问店主能兑吗",
+      "onboard_time": 1739336301,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -83,18 +91,18 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1156881,
+      "num": 1156881,
+      "word": "饺子导演穷到装都装不出来你有钱",
+      "onboard_time": 1739333481,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1139949,
       "num": 1139949,
       "word": "冲入江中救人白马离世",
       "onboard_time": 1739285062,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1126597,
-      "num": 1126597,
-      "word": "男子刮刮乐中25万淡定问店主能兑吗",
-      "onboard_time": 1739336301,
       "rank": 1,
       "category": "民生新闻"
     },
@@ -105,14 +113,6 @@
       "onboard_time": 1739331261,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1079152,
-      "num": 1079152,
-      "word": "饺子导演穷到装都装不出来你有钱",
-      "onboard_time": 1739333481,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 922338,
@@ -163,6 +163,14 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 792635,
+      "num": 735507,
+      "word": "哪吒2进全球票房榜前25",
+      "onboard_time": 1739334743,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 771105,
       "num": 771105,
       "word": "哪吒2突破92亿",
@@ -177,6 +185,14 @@
       "onboard_time": 1739327659,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 737255,
+      "num": 737255,
+      "word": "海底捞回应招211或985学历外送员",
+      "onboard_time": 1739336423,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 733324,
@@ -203,14 +219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 704705,
-      "num": 614360,
-      "word": "哪吒2进全球票房榜前25",
-      "onboard_time": 1739334743,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 690142,
       "num": 690142,
       "word": "回南天",
@@ -225,6 +233,14 @@
       "onboard_time": 1739335703,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 640495,
+      "num": 640495,
+      "word": "益禾堂薄荷奶绿",
+      "onboard_time": 1739334382,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 636102,
@@ -331,6 +347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 474100,
+      "num": 474100,
+      "word": "by2差点回不了家",
+      "onboard_time": 1739337859,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 472137,
       "num": 472137,
       "word": "ABC比基尼安睡裤被骂",
@@ -395,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 413332,
+      "num": 413332,
+      "word": "吴宣仪浪姐6上班造型",
+      "onboard_time": 1739336722,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 411102,
       "num": 394647,
       "word": "男子酒后点燃礼花弹被炸当场身亡",
@@ -409,22 +441,6 @@
       "onboard_time": 1739286862,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 379419,
-      "num": 352542,
-      "word": "吴宣仪浪姐6上班造型",
-      "onboard_time": 1739336722,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 376469,
-      "num": 376469,
-      "word": "益禾堂薄荷奶绿",
-      "onboard_time": 1739334382,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 373344,
@@ -499,6 +515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 304151,
+      "num": 273809,
+      "word": "时代峰峻",
+      "onboard_time": 1739337560,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 302740,
       "num": 296388,
       "word": "饺子导演因穷但坚持被投资人选中",
@@ -539,7 +563,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 266546,
+      "raw_hot": 275946,
       "num": 311375,
       "word": "巴西一女子手机在裤兜中爆炸",
       "onboard_time": 1739334862,
@@ -561,6 +585,14 @@
       "onboard_time": 1739289021,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 257491,
+      "num": 257491,
+      "word": "国台办希望哪吒2尽快上映",
+      "onboard_time": 1739338281,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 244641,
@@ -635,6 +667,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 224014,
+      "num": 224014,
+      "word": "今天三部现偶定档了",
+      "onboard_time": 1739336481,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223202,
       "num": 223202,
       "word": "家人称国安小将国外集训重伤脑死亡",
@@ -649,14 +689,6 @@
       "onboard_time": 1739331560,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 218300,
-      "num": 663435,
-      "word": "海底捞回应招211或985学历外送员",
-      "onboard_time": 1739336423,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 217599,
@@ -699,14 +731,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 210865,
-      "num": 210865,
-      "word": "今天三部现偶定档了",
-      "onboard_time": 1739336481,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 210807,
       "num": 210807,
       "word": "藕饼",
@@ -715,12 +739,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 207998,
-      "num": 207998,
-      "word": "时代峰峻",
-      "onboard_time": 1739337560,
-      "rank": 38,
-      "category": "音乐"
+      "raw_hot": 209921,
+      "num": 209921,
+      "word": "黄圣依淡淡性格超浓事业脑",
+      "onboard_time": 1739338581,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 204369,
@@ -777,6 +801,14 @@
       "onboard_time": 1739337022,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191373,
+      "num": 191373,
+      "word": "衡门有狐",
+      "onboard_time": 1739338402,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 191095,
@@ -880,6 +912,14 @@
       "word": "四川成都新型碰瓷方式出现",
       "onboard_time": 1739328199,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173518,
+      "num": 173518,
+      "word": "杭州到上海未来或仅需15分钟",
+      "onboard_time": 1739337441,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -987,10 +1027,10 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 148354,
-      "num": 148354,
-      "word": "杭州到上海未来或仅需15分钟",
-      "onboard_time": 1739337441,
+      "raw_hot": 149368,
+      "num": 149368,
+      "word": "咖啡汤圆搜索暴涨600%多次售罄",
+      "onboard_time": 1739338520,
       "rank": 47,
       "category": "民生新闻"
     },
@@ -1017,6 +1057,14 @@
       "onboard_time": 1739328739,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143661,
+      "num": 143661,
+      "word": "海霞被聘任为河南大学学术副校长",
+      "onboard_time": 1739338642,
+      "rank": 48,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 141899,
@@ -1048,6 +1096,14 @@
       "word": "把发霉的馒头放大1000倍",
       "onboard_time": 1739322741,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135610,
+      "num": 538336,
+      "word": "招聘人才年轻化不该一味卷年龄",
+      "onboard_time": 1739336781,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1089,6 +1145,14 @@
       "onboard_time": 1739333241,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133207,
+      "num": 263724,
+      "word": "国产剧比我先过上上四休三了",
+      "onboard_time": 1739338041,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 130840,
@@ -1323,6 +1387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83982,
+      "num": 274476,
+      "word": "无人机视角下的王一博攀冰",
+      "onboard_time": 1739336781,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83972,
       "num": 83972,
       "word": "元宵节满月",
@@ -1467,6 +1539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60868,
+      "num": 272908,
+      "word": "恩比德不是大帝是影帝",
+      "onboard_time": 1739338520,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57988,
       "num": 57988,
       "word": "卡塔尔选手摔倒后奋力收刀避免误伤",
@@ -1484,7 +1564,7 @@
     },
     {
       "raw_hot": 56854,
-      "num": 1098734,
+      "num": 1483098,
       "word": "中国队已集齐3个金牌九宫格",
       "onboard_time": 1739304071,
       "rank": 11,
@@ -1555,14 +1635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 50133,
-      "num": 538336,
-      "word": "招聘人才年轻化不该一味卷年龄",
-      "onboard_time": 1739336781,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47618,
       "num": 185973,
       "word": "正月十五赏花灯",
@@ -1585,6 +1657,14 @@
       "onboard_time": 1739316256,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 44147,
+      "num": 207951,
+      "word": "当地将为救人白马建纪念雕像",
+      "onboard_time": 1739338642,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43707,
@@ -1801,6 +1881,14 @@
       "onboard_time": 1739294356,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12899,
+      "num": 275897,
+      "word": "朱易亚冬会首秀",
+      "onboard_time": 1739338402,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 12412,
