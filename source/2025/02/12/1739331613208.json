@@ -1,0 +1,410 @@
+{
+  "runTime": 1739331613208,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1735925,
+        "num": 1735925,
+        "word": "多邻国猫头鹰去世",
+        "onboard_time": 1739326639,
+        "rank": 0,
+        "category": "互联网,教育"
+      },
+      {
+        "raw_hot": 1137869,
+        "num": 1137869,
+        "word": "蛇年元宵晚会节目单公布",
+        "onboard_time": 1739327420,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51676,
+        "num": 780593,
+        "word": "中国队已集齐3个金牌九宫格",
+        "onboard_time": 1739304071,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 771105,
+        "num": 771105,
+        "word": "哪吒2突破92亿",
+        "onboard_time": 1739328618,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 743465,
+        "num": 743465,
+        "word": "女子丧夫丧子要求移植冷冻胚胎被拒",
+        "onboard_time": 1739329820,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 605789,
+        "num": 605789,
+        "word": "救人白马主人哽咽讲述救治过程",
+        "onboard_time": 1739327899,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 762755,
+        "num": 494062,
+        "word": "嘘国王在冬眠",
+        "onboard_time": 1739327659,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 744014,
+        "num": 464167,
+        "word": "饺子不知道观众怎么想出藕饼cp",
+        "onboard_time": 1739321481,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 372139,
+        "num": 372139,
+        "word": "中国登月服命名为望宇",
+        "onboard_time": 1739326518,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171002,
+        "num": 366457,
+        "word": "元宵节月圆人圆事事圆",
+        "onboard_time": 1739330780,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 734858,
+        "num": 362878,
+        "word": "难哄定档",
+        "onboard_time": 1739326217,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1282730,
+        "num": 352182,
+        "word": "女子吐槽袜子上出现狗牵女性不雅图片",
+        "onboard_time": 1739326217,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 508529,
+        "num": 344019,
+        "word": "淮水竹亭",
+        "onboard_time": 1739329640,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50754,
+        "num": 343263,
+        "word": "张凌赫国风包帅的",
+        "onboard_time": 1739330062,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118183,
+        "num": 333996,
+        "word": "动物园已下架268元撸狮子套餐",
+        "onboard_time": 1739330119,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 451477,
+        "num": 323930,
+        "word": "男生隔空猥亵未成年女孩被判5年",
+        "onboard_time": 1739291597,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321943,
+        "num": 321943,
+        "word": "天官赐福",
+        "onboard_time": 1739323998,
+        "rank": 16,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 293612,
+        "num": 293612,
+        "word": "这是中国人自己的登月服和月球车",
+        "onboard_time": 1739328259,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144636,
+        "num": 292466,
+        "word": "IVE悼念去世粉丝",
+        "onboard_time": 1739330540,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83851,
+        "num": 288066,
+        "word": "你永远猜不到老一辈看直播买啥",
+        "onboard_time": 1739330062,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 504716,
+        "num": 284746,
+        "word": "光线传媒",
+        "onboard_time": 1739329881,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 414200,
+        "num": 282041,
+        "word": "哈利波特落户上海",
+        "onboard_time": 1739329220,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 374767,
+        "num": 280383,
+        "word": "我开学了 你定档了",
+        "onboard_time": 1739331080,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324059,
+        "num": 276002,
+        "word": "谁家男女主亲完嘴还互擦啊",
+        "onboard_time": 1739331261,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322386,
+        "num": 273385,
+        "word": "董宇辉回应被网友说像无量仙翁",
+        "onboard_time": 1739327719,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 272373,
+        "num": 272373,
+        "word": "饺子导演因穷但坚持被投资人选中",
+        "onboard_time": 1739330000,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 63831,
+        "num": 269016,
+        "word": "胡兵三天四国时装周飞行vlog",
+        "onboard_time": 1739330841,
+        "rank": 26,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 20782,
+        "num": 268005,
+        "word": "英格拉姆提前续约猛龙",
+        "onboard_time": 1739331381,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41361,
+        "num": 267941,
+        "word": "暴雨中血流成河的奇观",
+        "onboard_time": 1739331381,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 267902,
+        "num": 267902,
+        "word": "冲入江中救人白马离世",
+        "onboard_time": 1739285062,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248984,
+        "num": 248984,
+        "word": "两个孩子一间房怎么住",
+        "onboard_time": 1739326217,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240488,
+        "num": 240488,
+        "word": "哪吒",
+        "onboard_time": 1739315356,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 239850,
+        "num": 239850,
+        "word": "吒儿大张伟同台",
+        "onboard_time": 1739330000,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235169,
+        "num": 235169,
+        "word": "国外爆了的一首小甜歌",
+        "onboard_time": 1739330721,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 231499,
+        "num": 231499,
+        "word": "亚冬会成了英语四六级考场",
+        "onboard_time": 1739330119,
+        "rank": 34,
+        "category": "教育,体育"
+      },
+      {
+        "raw_hot": 231198,
+        "num": 231198,
+        "word": "元宵节",
+        "onboard_time": 1739315535,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229974,
+        "num": 229974,
+        "word": "人民会堂回应上午开会下午放哪吒2",
+        "onboard_time": 1739286380,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213816,
+        "num": 213816,
+        "word": "正月十五",
+        "onboard_time": 1739320759,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212008,
+        "num": 212008,
+        "word": "28岁女子双肺长癌竟跟这个习惯有关",
+        "onboard_time": 1739289621,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204369,
+        "num": 204369,
+        "word": "香港市民希望哪吒2尽快赴港上映",
+        "onboard_time": 1739331020,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202618,
+        "num": 202618,
+        "word": "敖丙一开始被设计为反派角色",
+        "onboard_time": 1739316857,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199105,
+        "num": 199105,
+        "word": "漫城定档情人节",
+        "onboard_time": 1739326881,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190962,
+        "num": 190962,
+        "word": "滤镜",
+        "onboard_time": 1739331261,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189450,
+        "num": 189450,
+        "word": "书卷一梦",
+        "onboard_time": 1739330900,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185877,
+        "num": 185877,
+        "word": "梁洁好心态决定女人一生",
+        "onboard_time": 1739331261,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185259,
+        "num": 185259,
+        "word": "郑州一学校被曝查封致学生无法开学",
+        "onboard_time": 1739330841,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175577,
+        "num": 175577,
+        "word": "哪吒百亿补贴",
+        "onboard_time": 1739331020,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170631,
+        "num": 170631,
+        "word": "近期大量黄金等贵金属被运往美国",
+        "onboard_time": 1739331560,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 166762,
+        "num": 166762,
+        "word": "逐玉",
+        "onboard_time": 1739329940,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155611,
+        "num": 155611,
+        "word": "泽连斯基称计划同俄互换部分领土",
+        "onboard_time": 1739331321,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记这样部署东北全面振兴#"
+    }
+  }
+}

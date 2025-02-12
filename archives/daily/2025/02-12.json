@@ -1,6 +1,6 @@
 {
   "startTime": 1739291403043,
-  "endTime": 1739330779420,
+  "endTime": 1739331613208,
   "band_list": [
     {
       "raw_hot": 2176498,
@@ -67,8 +67,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1107007,
-      "num": 915940,
+      "raw_hot": 1137869,
+      "num": 1137869,
       "word": "蛇年元宵晚会节目单公布",
       "onboard_time": 1739327420,
       "rank": 6,
@@ -83,12 +83,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 767633,
-      "num": 384265,
+      "raw_hot": 771105,
+      "num": 771105,
       "word": "哪吒2突破92亿",
       "onboard_time": 1739328618,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 762755,
+      "num": 494062,
+      "word": "嘘国王在冬眠",
+      "onboard_time": 1739327659,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 743465,
+      "num": 743465,
+      "word": "女子丧夫丧子要求移植冷冻胚胎被拒",
+      "onboard_time": 1739329820,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 709336,
@@ -113,14 +129,6 @@
       "onboard_time": 1739319498,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 679799,
-      "num": 433541,
-      "word": "嘘国王在冬眠",
-      "onboard_time": 1739327659,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 634615,
@@ -203,6 +211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 504716,
+      "num": 315397,
+      "word": "光线传媒",
+      "onboard_time": 1739329881,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 472137,
       "num": 472137,
       "word": "ABC比基尼安睡裤被骂",
@@ -267,12 +283,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 383018,
-      "num": 383018,
-      "word": "女子丧夫丧子要求移植冷冻胚胎被拒",
-      "onboard_time": 1739329820,
-      "rank": 8,
-      "category": "民生新闻"
+      "raw_hot": 374767,
+      "num": 280383,
+      "word": "我开学了 你定档了",
+      "onboard_time": 1739331080,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 373344,
@@ -307,12 +323,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 315397,
-      "num": 315397,
-      "word": "光线传媒",
-      "onboard_time": 1739329881,
-      "rank": 26,
-      "category": "电影"
+      "raw_hot": 324059,
+      "num": 276002,
+      "word": "谁家男女主亲完嘴还互擦啊",
+      "onboard_time": 1739331261,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 314995,
@@ -355,6 +371,14 @@
       "category": "互联网,数码"
     },
     {
+      "raw_hot": 272373,
+      "num": 272373,
+      "word": "饺子导演因穷但坚持被投资人选中",
+      "onboard_time": 1739330000,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 258883,
       "num": 210526,
       "word": "当我问Deepseek26岁的存款现状",
@@ -369,14 +393,6 @@
       "onboard_time": 1739289021,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 243287,
-      "num": 243287,
-      "word": "饺子导演因穷但坚持被投资人选中",
-      "onboard_time": 1739330000,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 242599,
@@ -395,6 +411,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 239850,
+      "num": 239850,
+      "word": "吒儿大张伟同台",
+      "onboard_time": 1739330000,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 235169,
+      "num": 235169,
+      "word": "国外爆了的一首小甜歌",
+      "onboard_time": 1739330721,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 233240,
       "num": 233240,
       "word": "元宵晚会官宣",
@@ -409,6 +441,14 @@
       "onboard_time": 1739281342,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 231499,
+      "num": 356334,
+      "word": "亚冬会成了英语四六级考场",
+      "onboard_time": 1739330119,
+      "rank": 18,
+      "category": "教育,体育"
     },
     {
       "raw_hot": 226725,
@@ -467,6 +507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 204369,
+      "num": 204369,
+      "word": "香港市民希望哪吒2尽快赴港上映",
+      "onboard_time": 1739331020,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 201286,
       "num": 201286,
       "word": "樊振东陈梦四年内确保直接参赛WTT",
@@ -499,12 +547,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190962,
+      "num": 190962,
+      "word": "滤镜",
+      "onboard_time": 1739331261,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189832,
       "num": 401748,
       "word": "救人的白龙马死因是肠道绞窄",
       "onboard_time": 1739328140,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189450,
+      "num": 189450,
+      "word": "书卷一梦",
+      "onboard_time": 1739330900,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 188520,
@@ -523,6 +587,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185877,
+      "num": 185877,
+      "word": "梁洁好心态决定女人一生",
+      "onboard_time": 1739331261,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 185259,
+      "num": 185259,
+      "word": "郑州一学校被曝查封致学生无法开学",
+      "onboard_time": 1739330841,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184741,
       "num": 184741,
       "word": "李瓒killmehealyou",
@@ -539,27 +619,19 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 177716,
-      "num": 177716,
-      "word": "国外爆了的一首小甜歌",
-      "onboard_time": 1739330721,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 176857,
-      "num": 176857,
-      "word": "吒儿大张伟同台",
-      "onboard_time": 1739330000,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 175998,
       "num": 175998,
       "word": "网友提名哪吒真人化选角",
       "onboard_time": 1739305031,
       "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 175577,
+      "num": 175577,
+      "word": "哪吒百亿补贴",
+      "onboard_time": 1739331020,
+      "rank": 46,
       "category": "电影"
     },
     {
@@ -587,12 +659,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171002,
+      "num": 366457,
+      "word": "元宵节月圆人圆事事圆",
+      "onboard_time": 1739330780,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170631,
+      "num": 170631,
+      "word": "近期大量黄金等贵金属被运往美国",
+      "onboard_time": 1739331560,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 169190,
       "num": 169190,
       "word": "刻骨明辛",
       "onboard_time": 1739289858,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155611,
+      "num": 155611,
+      "word": "泽连斯基称计划同俄互换部分领土",
+      "onboard_time": 1739331321,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 152613,
@@ -609,6 +705,14 @@
       "onboard_time": 1739328378,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 144636,
+      "num": 347784,
+      "word": "IVE悼念去世粉丝",
+      "onboard_time": 1739330540,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 144177,
@@ -763,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118183,
+      "num": 368187,
+      "word": "动物园已下架268元撸狮子套餐",
+      "onboard_time": 1739330119,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117302,
       "num": 117302,
       "word": "全智贤被追缴2000多万韩元税款",
@@ -907,6 +1019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83851,
+      "num": 354836,
+      "word": "你永远猜不到老一辈看直播买啥",
+      "onboard_time": 1739330062,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83302,
       "num": 105680,
       "word": "核酸大王张核子被限高",
@@ -971,14 +1091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 69169,
-      "num": 347784,
-      "word": "IVE悼念去世粉丝",
-      "onboard_time": 1739330540,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 68229,
       "num": 68229,
       "word": "唐艺昕挑战世界最长滑索",
@@ -987,12 +1099,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 65832,
-      "num": 368187,
-      "word": "动物园已下架268元撸狮子套餐",
-      "onboard_time": 1739330119,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 63831,
+      "num": 269016,
+      "word": "胡兵三天四国时装周飞行vlog",
+      "onboard_time": 1739330841,
+      "rank": 26,
+      "category": "时尚"
     },
     {
       "raw_hot": 63616,
@@ -1083,14 +1195,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 54568,
-      "num": 354836,
-      "word": "你永远猜不到老一辈看直播买啥",
-      "onboard_time": 1739330062,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 53100,
       "num": 61530,
       "word": "列车员1年帮卖了1180万元农产品",
@@ -1107,12 +1211,12 @@
       "category": "民生新闻,情感"
     },
     {
-      "raw_hot": 51270,
-      "num": 356334,
-      "word": "亚冬会成了英语四六级考场",
-      "onboard_time": 1739330119,
-      "rank": 18,
-      "category": "教育,体育"
+      "raw_hot": 50754,
+      "num": 343263,
+      "word": "张凌赫国风包帅的",
+      "onboard_time": 1739330062,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 50438,
@@ -1121,14 +1225,6 @@
       "onboard_time": 1739291898,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 49292,
-      "num": 277329,
-      "word": "张凌赫国风包帅的",
-      "onboard_time": 1739330062,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 46985,
@@ -1161,6 +1257,14 @@
       "onboard_time": 1739294895,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41361,
+      "num": 267941,
+      "word": "暴雨中血流成河的奇观",
+      "onboard_time": 1739331381,
+      "rank": 28,
+      "category": "科学科普"
     },
     {
       "raw_hot": 39651,
@@ -1257,6 +1361,14 @@
       "onboard_time": 1739302814,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20782,
+      "num": 268005,
+      "word": "英格拉姆提前续约猛龙",
+      "onboard_time": 1739331381,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 20221,

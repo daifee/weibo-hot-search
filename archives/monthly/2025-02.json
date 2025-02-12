@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739330779420,
+  "endTime": 1739331613208,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1995,6 +1995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1137869,
+      "num": 1137869,
+      "word": "蛇年元宵晚会节目单公布",
+      "onboard_time": 1739327420,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1134882,
       "num": 1739987,
       "word": "日本流感到底有多严重",
@@ -2057,14 +2065,6 @@
       "onboard_time": 1738481718,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1107007,
-      "num": 915940,
-      "word": "蛇年元宵晚会节目单公布",
-      "onboard_time": 1739327420,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 1103201,
@@ -3563,6 +3563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 771105,
+      "num": 771105,
+      "word": "哪吒2突破92亿",
+      "onboard_time": 1739328618,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 769755,
       "num": 363722,
       "word": "哪吒一上午连破两个票房纪录",
@@ -3579,20 +3587,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 767633,
-      "num": 384265,
-      "word": "哪吒2突破92亿",
-      "onboard_time": 1739328618,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 763237,
       "num": 763237,
       "word": "哪吒2全球票房TOP30",
       "onboard_time": 1739174902,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 762755,
+      "num": 494062,
+      "word": "嘘国王在冬眠",
+      "onboard_time": 1739327659,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 762115,
@@ -3728,6 +3736,14 @@
       "word": "男子造谣医院复活秦始皇被罚",
       "onboard_time": 1739074580,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 743465,
+      "num": 743465,
+      "word": "女子丧夫丧子要求移植冷冻胚胎被拒",
+      "onboard_time": 1739329820,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -4177,14 +4193,6 @@
       "onboard_time": 1739188701,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 679799,
-      "num": 433541,
-      "word": "嘘国王在冬眠",
-      "onboard_time": 1739327659,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 676106,
@@ -6201,6 +6209,14 @@
       "onboard_time": 1738500978,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 504716,
+      "num": 315397,
+      "word": "光线传媒",
+      "onboard_time": 1739329881,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 503600,
@@ -8299,14 +8315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 383018,
-      "num": 383018,
-      "word": "女子丧夫丧子要求移植冷冻胚胎被拒",
-      "onboard_time": 1739329820,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 382872,
       "num": 382872,
       "word": "美媒称DeepSeek已无法被封杀",
@@ -8465,6 +8473,14 @@
       "onboard_time": 1738462637,
       "rank": 21,
       "category": "美食"
+    },
+    {
+      "raw_hot": 374767,
+      "num": 280383,
+      "word": "我开学了 你定档了",
+      "onboard_time": 1739331080,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 374116,
@@ -9651,6 +9667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 324059,
+      "num": 276002,
+      "word": "谁家男女主亲完嘴还互擦啊",
+      "onboard_time": 1739331261,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 323948,
       "num": 323948,
       "word": "王濛说韩国队不扒拉不会滑冰",
@@ -9864,14 +9888,6 @@
       "word": "封神2口碑",
       "onboard_time": 1738741641,
       "rank": 14,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 315397,
-      "num": 315397,
-      "word": "光线传媒",
-      "onboard_time": 1739329881,
-      "rank": 26,
       "category": "电影"
     },
     {
@@ -11259,6 +11275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 272373,
+      "num": 272373,
+      "word": "饺子导演因穷但坚持被投资人选中",
+      "onboard_time": 1739330000,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 272195,
       "num": 272195,
       "word": "缅怀中国核潜艇之父黄旭华",
@@ -12547,14 +12571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 243287,
-      "num": 243287,
-      "word": "饺子导演因穷但坚持被投资人选中",
-      "onboard_time": 1739330000,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
       "raw_hot": 243280,
       "num": 243280,
       "word": "DYG 回家吧",
@@ -12747,6 +12763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 239850,
+      "num": 239850,
+      "word": "吒儿大张伟同台",
+      "onboard_time": 1739330000,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 238959,
       "num": 346656,
       "word": "王者新英雄空空儿即将上线体验服",
@@ -12915,6 +12939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 235169,
+      "num": 235169,
+      "word": "国外爆了的一首小甜歌",
+      "onboard_time": 1739330721,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 235108,
       "num": 235108,
       "word": "蛇是怎么混进十二生肖的",
@@ -13081,6 +13113,14 @@
       "onboard_time": 1738669765,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 231499,
+      "num": 356334,
+      "word": "亚冬会成了英语四六级考场",
+      "onboard_time": 1739330119,
+      "rank": 18,
+      "category": "教育,体育"
     },
     {
       "raw_hot": 231304,
@@ -15371,6 +15411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204369,
+      "num": 204369,
+      "word": "香港市民希望哪吒2尽快赴港上映",
+      "onboard_time": 1739331020,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 204368,
       "num": 194905,
       "word": "福克斯加盟马刺",
@@ -17027,6 +17075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190962,
+      "num": 190962,
+      "word": "滤镜",
+      "onboard_time": 1739331261,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190880,
       "num": 190880,
       "word": "大S妈妈委托王伟忠发声",
@@ -17659,6 +17715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 185877,
+      "num": 185877,
+      "word": "梁洁好心态决定女人一生",
+      "onboard_time": 1739331261,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185876,
       "num": 185876,
       "word": "时代少年团摄影陈漫",
@@ -17769,6 +17833,14 @@
       "onboard_time": 1739233459,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 185259,
+      "num": 185259,
+      "word": "郑州一学校被曝查封致学生无法开学",
+      "onboard_time": 1739330841,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185191,
@@ -18635,14 +18707,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 177716,
-      "num": 177716,
-      "word": "国外爆了的一首小甜歌",
-      "onboard_time": 1739330721,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 177648,
       "num": 285093,
       "word": "中国姑娘包揽速度滑冰3000米金银铜",
@@ -18745,14 +18809,6 @@
       "onboard_time": 1738497799,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 176857,
-      "num": 176857,
-      "word": "吒儿大张伟同台",
-      "onboard_time": 1739330000,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 176779,
@@ -18881,6 +18937,14 @@
       "onboard_time": 1738402637,
       "rank": 17,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 175577,
+      "num": 175577,
+      "word": "哪吒百亿补贴",
+      "onboard_time": 1739331020,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 175407,
@@ -19403,6 +19467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171002,
+      "num": 366457,
+      "word": "元宵节月圆人圆事事圆",
+      "onboard_time": 1739330780,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170873,
       "num": 170873,
       "word": "吴宣仪临开机前确定出演五福临门",
@@ -19417,6 +19489,14 @@
       "onboard_time": 1739085019,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170631,
+      "num": 170631,
+      "word": "近期大量黄金等贵金属被运往美国",
+      "onboard_time": 1739331560,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 170620,
@@ -21275,6 +21355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155611,
+      "num": 155611,
+      "word": "泽连斯基称计划同俄互换部分领土",
+      "onboard_time": 1739331321,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 155438,
       "num": 139816,
       "word": "被诬陷偷拍男子结婚了",
@@ -22585,6 +22673,14 @@
       "onboard_time": 1738417698,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144636,
+      "num": 347784,
+      "word": "IVE悼念去世粉丝",
+      "onboard_time": 1739330540,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 144385,
@@ -25747,6 +25843,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 118183,
+      "num": 368187,
+      "word": "动物园已下架268元撸狮子套餐",
+      "onboard_time": 1739330119,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118159,
       "num": 299484,
       "word": "孙颖莎对阵何卓佳",
@@ -28779,6 +28883,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 83851,
+      "num": 354836,
+      "word": "你永远猜不到老一辈看直播买啥",
+      "onboard_time": 1739330062,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83828,
       "num": 504923,
       "word": "四川筠连山体滑坡现场画面",
@@ -29715,14 +29827,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 69169,
-      "num": 347784,
-      "word": "IVE悼念去世粉丝",
-      "onboard_time": 1739330540,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 69166,
       "num": 260224,
       "word": "电商称999元可定制指纹解锁硅胶手套",
@@ -29995,14 +30099,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 65832,
-      "num": 368187,
-      "word": "动物园已下架268元撸狮子套餐",
-      "onboard_time": 1739330119,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 65540,
       "num": 4363228,
       "word": "文化中国行二十四节气经典美食",
@@ -30113,6 +30209,14 @@
       "onboard_time": 1738434314,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 63831,
+      "num": 269016,
+      "word": "胡兵三天四国时装周飞行vlog",
+      "onboard_time": 1739330841,
+      "rank": 26,
+      "category": "时尚"
     },
     {
       "raw_hot": 63619,
@@ -30939,14 +31043,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 54568,
-      "num": 354836,
-      "word": "你永远猜不到老一辈看直播买啥",
-      "onboard_time": 1739330062,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 54110,
       "num": 330912,
       "word": "苏翊鸣世界杯坡障银牌",
@@ -31259,14 +31355,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 51270,
-      "num": 356334,
-      "word": "亚冬会成了英语四六级考场",
-      "onboard_time": 1739330119,
-      "rank": 18,
-      "category": "教育,体育"
-    },
-    {
       "raw_hot": 51250,
       "num": 960120,
       "word": "网络中国节",
@@ -31329,6 +31417,14 @@
       "onboard_time": 1738925542,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50754,
+      "num": 343263,
+      "word": "张凌赫国风包帅的",
+      "onboard_time": 1739330062,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 50670,
@@ -31457,14 +31553,6 @@
       "onboard_time": 1739151918,
       "rank": 19,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 49292,
-      "num": 277329,
-      "word": "张凌赫国风包帅的",
-      "onboard_time": 1739330062,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 49075,
@@ -32057,6 +32145,14 @@
       "onboard_time": 1738674804,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 41361,
+      "num": 267941,
+      "word": "暴雨中血流成河的奇观",
+      "onboard_time": 1739331381,
+      "rank": 28,
+      "category": "科学科普"
     },
     {
       "raw_hot": 41238,
@@ -34025,6 +34121,14 @@
       "onboard_time": 1738995685,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 20782,
+      "num": 268005,
+      "word": "英格拉姆提前续约猛龙",
+      "onboard_time": 1739331381,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 20741,
