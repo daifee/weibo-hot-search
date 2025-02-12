@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739374746823,
+  "endTime": 1739377766335,
   "band_list": [
     {
       "raw_hot": 10705430,
@@ -1144,6 +1144,14 @@
       "word": "哪吒2已超78亿",
       "onboard_time": 1739085078,
       "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 929899,
+      "num": 929899,
+      "word": "哪吒2破96亿",
+      "onboard_time": 1739374761,
+      "rank": 1,
       "category": "电影"
     },
     {
@@ -4952,6 +4960,14 @@
       "word": "李嘉琦也来浪姐了",
       "onboard_time": 1739168061,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 257713,
+      "num": 194372,
+      "word": "土豆吕严小品",
+      "onboard_time": 1739376020,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -10019,6 +10035,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 135671,
+      "num": 135671,
+      "word": "元宵晚会魔术",
+      "onboard_time": 1739376740,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135610,
       "num": 538336,
       "word": "招聘人才年轻化不该一味卷年龄",
@@ -10451,6 +10475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 126265,
+      "num": 126265,
+      "word": "于适韩骁服役期间自拍照",
+      "onboard_time": 1739377398,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126041,
       "num": 126041,
       "word": "美国1月CPI同比增长3%",
@@ -10585,6 +10617,14 @@
       "onboard_time": 1739246902,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122282,
+      "num": 122282,
+      "word": "哪吒的新鳞甲是我们的文化自信",
+      "onboard_time": 1739375840,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 121660,
@@ -11457,6 +11497,14 @@
       "onboard_time": 1739348780,
       "rank": 28,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 94210,
+      "num": 94210,
+      "word": "致男子身亡礼花弹市面不能售卖",
+      "onboard_time": 1739377219,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93513,
@@ -13291,6 +13339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34618,
+      "num": 116029,
+      "word": "紫幻说女娲无他唯手熟尔",
+      "onboard_time": 1739377098,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 34390,
       "num": 274349,
       "word": "亚冠联赛",
@@ -13441,6 +13497,14 @@
       "onboard_time": 1739165242,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30961,
+      "num": 197818,
+      "word": "蛇年春晚四大分会场惊喜返场",
+      "onboard_time": 1739377039,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 30418,
