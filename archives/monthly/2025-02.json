@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739360164996,
+  "endTime": 1739364162589,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -609,6 +609,14 @@
       "onboard_time": 1739326217,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2175833,
+      "num": 2175833,
+      "word": "央视元宵晚会",
+      "onboard_time": 1739360539,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2151195,
@@ -1803,6 +1811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1274499,
+      "num": 331527,
+      "word": "补作业",
+      "onboard_time": 1739359459,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1266281,
       "num": 1266281,
       "word": "曝哪吒2被偷票房",
@@ -1963,6 +1979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1206163,
+      "num": 761868,
+      "word": "哪吒2票房超95亿",
+      "onboard_time": 1739358261,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1203641,
       "num": 1203641,
       "word": "哪吒之魔童闹海票房破51亿",
@@ -2064,6 +2088,14 @@
       "word": "立春咬春病不沾身",
       "onboard_time": 1738507459,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1161180,
+      "num": 1161180,
+      "word": "程序员三个月在理发店充卡24万",
+      "onboard_time": 1739361980,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -2201,14 +2233,6 @@
       "onboard_time": 1738501579,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1101625,
-      "num": 404724,
-      "word": "哪吒2票房超95亿",
-      "onboard_time": 1739358261,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 1101586,
@@ -2939,6 +2963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 926705,
+      "num": 378110,
+      "word": "哪吒打人 敖丙劝架",
+      "onboard_time": 1739364023,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 926272,
       "num": 943273,
       "word": "大批妙瓦底电诈园受害者被救",
@@ -3145,6 +3177,14 @@
       "onboard_time": 1738553946,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 867600,
+      "num": 324131,
+      "word": "赵丽颖杨幂唐嫣新剧或将对打",
+      "onboard_time": 1739360122,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 865060,
@@ -5139,6 +5179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 610376,
+      "num": 296542,
+      "word": "瀚墨痛失三点水",
+      "onboard_time": 1739355921,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 608511,
       "num": 313436,
       "word": "老人婚宴摔断肋骨酒店赔1万2大餐",
@@ -5705,6 +5753,14 @@
       "onboard_time": 1738634663,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 560970,
+      "num": 277203,
+      "word": "开场就是易烊千玺",
+      "onboard_time": 1739363361,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 558548,
@@ -8019,6 +8075,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 420225,
+      "num": 335761,
+      "word": "广东一公交车起火致6人死亡",
+      "onboard_time": 1739358919,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 420030,
       "num": 420030,
       "word": "张兰账号被处罚后未有改正",
@@ -8707,6 +8771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 386293,
+      "num": 386293,
+      "word": "白马主人已将见义勇为奖金捐福利院",
+      "onboard_time": 1739361741,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 385920,
       "num": 385920,
       "word": "美国费城失事飞机以201公里时速坠地",
@@ -9041,6 +9113,14 @@
       "onboard_time": 1739117958,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 370157,
+      "num": 264574,
+      "word": "湖南卫视元宵喜乐会",
+      "onboard_time": 1739359940,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 370142,
@@ -10179,6 +10259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 324077,
+      "num": 223463,
+      "word": "江苏卫视元宵晚会",
+      "onboard_time": 1739362280,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 323948,
       "num": 323948,
       "word": "王濛说韩国队不扒拉不会滑冰",
@@ -10867,6 +10955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 302139,
+      "num": 223428,
+      "word": "孙怡新剧cos兔子警官",
+      "onboard_time": 1739361800,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 301728,
       "num": 301728,
       "word": "Angelababy相思令收官文",
@@ -11299,14 +11395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 289583,
-      "num": 289583,
-      "word": "赵丽颖杨幂唐嫣新剧或将对打",
-      "onboard_time": 1739360122,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 289395,
       "num": 289395,
       "word": "虞书欣抱着何与骑摩托车的表情",
@@ -11361,14 +11449,6 @@
       "onboard_time": 1739010202,
       "rank": 38,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 287607,
-      "num": 335761,
-      "word": "广东一公交车起火致6人死亡",
-      "onboard_time": 1739358919,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 286925,
@@ -12081,6 +12161,14 @@
       "onboard_time": 1738413079,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 268535,
+      "num": 222393,
+      "word": "饺子回应哪吒2时长144分钟",
+      "onboard_time": 1739360840,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 268445,
@@ -12833,6 +12921,14 @@
       "onboard_time": 1738474338,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 250874,
+      "num": 250874,
+      "word": "马斯克称美国养老金名单现150岁老人",
+      "onboard_time": 1739362761,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 250691,
@@ -13737,6 +13833,14 @@
       "onboard_time": 1739068460,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 234015,
+      "num": 234015,
+      "word": "盛李豪保送北京体育大学",
+      "onboard_time": 1739360239,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 233660,
@@ -14867,6 +14971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 219175,
+      "num": 219175,
+      "word": "董思成八年前vs八年后",
+      "onboard_time": 1739361980,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 219139,
       "num": 219139,
       "word": "你好星期六",
@@ -14953,6 +15065,14 @@
       "onboard_time": 1739095100,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 218314,
+      "num": 218314,
+      "word": "原来康辉也会被影视剧误导",
+      "onboard_time": 1739362700,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 218198,
@@ -15297,6 +15417,14 @@
       "onboard_time": 1739261119,
       "rank": 14,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 214117,
+      "num": 214117,
+      "word": "张艺兴上桌吃饭",
+      "onboard_time": 1739364081,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 213967,
@@ -18883,6 +19011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185054,
+      "num": 185054,
+      "word": "福宝今年不参与繁殖",
+      "onboard_time": 1739362940,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184936,
       "num": 184936,
       "word": "相关部门正调查乘客飞机捡鞭炮事件",
@@ -19433,14 +19569,6 @@
       "onboard_time": 1739020583,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 180950,
-      "num": 264574,
-      "word": "湖南卫视元宵喜乐会",
-      "onboard_time": 1739359940,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 180743,
@@ -21193,14 +21321,6 @@
       "onboard_time": 1738672643,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 166012,
-      "num": 166012,
-      "word": "补作业",
-      "onboard_time": 1739359459,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 166011,
@@ -23667,6 +23787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146784,
+      "num": 221480,
+      "word": "代露娃直播",
+      "onboard_time": 1739363961,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146741,
       "num": 146741,
       "word": "蛋清羊尾是中国人自己的泡芙",
@@ -23801,6 +23929,14 @@
       "onboard_time": 1738402397,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 145786,
+      "num": 145786,
+      "word": "只要你",
+      "onboard_time": 1739363421,
+      "rank": 43,
+      "category": "读书作家"
     },
     {
       "raw_hot": 145724,
@@ -24017,6 +24153,14 @@
       "onboard_time": 1738391596,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 144262,
+      "num": 144262,
+      "word": "U20国足vs卡塔尔U20",
+      "onboard_time": 1739361380,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 144212,
@@ -27971,6 +28115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111586,
+      "num": 345879,
+      "word": "元宵版哪吒rap",
+      "onboard_time": 1739363541,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111503,
       "num": 254274,
       "word": "蒯曼说赢了曼昱非常意外",
@@ -29419,6 +29571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 98284,
+      "num": 143564,
+      "word": "横滨水手1比0上海申花",
+      "onboard_time": 1739363781,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98269,
       "num": 98269,
       "word": "十年前买金收据",
@@ -29513,6 +29673,14 @@
       "onboard_time": 1738654285,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96836,
+      "num": 143098,
+      "word": "敖丙和莲花",
+      "onboard_time": 1739362882,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 96828,
@@ -31153,6 +31321,14 @@
       "onboard_time": 1738852226,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72663,
+      "num": 218391,
+      "word": "五福临门直播连麦王星越卢昱晓",
+      "onboard_time": 1739363061,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 72372,
@@ -33091,6 +33267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50284,
+      "num": 221269,
+      "word": "会花式编绳的金饰销售抢手",
+      "onboard_time": 1739362221,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50130,
       "num": 55652,
       "word": "fayeyoko",
@@ -33753,6 +33937,14 @@
       "onboard_time": 1739335762,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41946,
+      "num": 224917,
+      "word": "王楚钦特辑封面",
+      "onboard_time": 1739363481,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 41881,
@@ -35305,6 +35497,14 @@
       "onboard_time": 1739169381,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26290,
+      "num": 222227,
+      "word": "这下谁能分清柯南和哪吒啊",
+      "onboard_time": 1739363120,
+      "rank": 29,
+      "category": "动漫,电影"
     },
     {
       "raw_hot": 26216,
