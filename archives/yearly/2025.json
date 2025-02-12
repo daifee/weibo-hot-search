@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1739335288742,
+  "endTime": 1739337725838,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1515,6 +1515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2550003,
+      "num": 649399,
+      "word": "宝妈入住月子中心不到1天投湖轻生",
+      "onboard_time": 1739335402,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2549490,
       "num": 2549490,
       "word": "周深高音",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1739135411,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 2051932,
-      "num": 2051932,
-      "word": "Ok 咱们线上",
-      "onboard_time": 1736090548,
-      "rank": 33,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

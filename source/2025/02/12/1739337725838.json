@@ -1,0 +1,410 @@
+{
+  "runTime": 1739337725838,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1587680,
+        "num": 1587680,
+        "word": "我开学了 你定档了",
+        "onboard_time": 1739331080,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1126597,
+        "num": 1126597,
+        "word": "男子刮刮乐中25万淡定问店主能兑吗",
+        "onboard_time": 1739336301,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36495,
+        "num": 1098734,
+        "word": "中国队已集齐3个金牌九宫格",
+        "onboard_time": 1739304071,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1079152,
+        "num": 1079152,
+        "word": "饺子导演穷到装都装不出来你有钱",
+        "onboard_time": 1739333481,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 830010,
+        "num": 830010,
+        "word": "苏州终于要有机场了",
+        "onboard_time": 1739334622,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 669875,
+        "num": 669875,
+        "word": "王濛说林孝埈是我给整回来的",
+        "onboard_time": 1739335703,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 733324,
+        "num": 669744,
+        "word": "张淼怡主演难哄",
+        "onboard_time": 1739331921,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 730826,
+        "num": 669720,
+        "word": "蛇年元宵晚会节目单公布",
+        "onboard_time": 1739327420,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 669540,
+        "num": 669540,
+        "word": "多邻国猫头鹰去世",
+        "onboard_time": 1739326639,
+        "rank": 8,
+        "category": "互联网,教育"
+      },
+      {
+        "raw_hot": 218300,
+        "num": 663435,
+        "word": "海底捞回应招211或985学历外送员",
+        "onboard_time": 1739336423,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2550003,
+        "num": 649399,
+        "word": "宝妈入住月子中心不到1天投湖轻生",
+        "onboard_time": 1739335402,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 720203,
+        "num": 617976,
+        "word": "谁家男女主亲完嘴还互擦啊",
+        "onboard_time": 1739331261,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 704705,
+        "num": 614360,
+        "word": "哪吒2进全球票房榜前25",
+        "onboard_time": 1739334743,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 597239,
+        "num": 597239,
+        "word": "女子吐槽袜子上出现狗牵女性不雅图片",
+        "onboard_time": 1739326217,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50133,
+        "num": 538336,
+        "word": "招聘人才年轻化不该一味卷年龄",
+        "onboard_time": 1739336781,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 494169,
+        "num": 494169,
+        "word": "光线传媒",
+        "onboard_time": 1739329881,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 394789,
+        "num": 394789,
+        "word": "谢广坤扮演者前妻替女儿道歉",
+        "onboard_time": 1739332100,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376469,
+        "num": 376469,
+        "word": "益禾堂薄荷奶绿",
+        "onboard_time": 1739334382,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 376230,
+        "num": 376230,
+        "word": "郑州一学校被曝查封致学生无法开学",
+        "onboard_time": 1739330841,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165016,
+        "num": 354342,
+        "word": "王一博不是挂在岩壁就是挂在冰壁",
+        "onboard_time": 1739336361,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379419,
+        "num": 352542,
+        "word": "吴宣仪浪姐6上班造型",
+        "onboard_time": 1739336722,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350641,
+        "num": 350641,
+        "word": "王楚钦接住了T中文版的球",
+        "onboard_time": 1739332822,
+        "rank": 21,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 337040,
+        "num": 337040,
+        "word": "女子丧夫丧子要求移植冷冻胚胎被拒",
+        "onboard_time": 1739329820,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335305,
+        "num": 335305,
+        "word": "曾黎用汤圆cos石矶娘娘",
+        "onboard_time": 1739332401,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117032,
+        "num": 321990,
+        "word": "王者荣耀西施情限",
+        "onboard_time": 1739334021,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 310717,
+        "num": 310717,
+        "word": "哪吒2出海能否高开高走",
+        "onboard_time": 1739332521,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 309501,
+        "num": 309501,
+        "word": "男子酒后点燃礼花弹被炸当场身亡",
+        "onboard_time": 1739331921,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281235,
+        "num": 281235,
+        "word": "王嘉尔真回了你又不高兴",
+        "onboard_time": 1739335162,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 272487,
+        "num": 272487,
+        "word": "哪吒",
+        "onboard_time": 1739315356,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 266546,
+        "num": 266546,
+        "word": "巴西一女子手机在裤兜中爆炸",
+        "onboard_time": 1739334862,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 257480,
+        "num": 257480,
+        "word": "王星越首个高奢代言",
+        "onboard_time": 1739334081,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245925,
+        "num": 245925,
+        "word": "哪吒2突破92亿",
+        "onboard_time": 1739328618,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 241906,
+        "num": 241906,
+        "word": "刘诗诗这妆造简直把我钓成翘嘴了",
+        "onboard_time": 1739337201,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232486,
+        "num": 232486,
+        "word": "哪吒2北美排片突破700间",
+        "onboard_time": 1739332641,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 230739,
+        "num": 230739,
+        "word": "饺子不知道观众怎么想出藕饼cp",
+        "onboard_time": 1739321481,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217855,
+        "num": 217855,
+        "word": "难哄定档",
+        "onboard_time": 1739326217,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42226,
+        "num": 213958,
+        "word": "畏首畏尾和行动力强的人差在哪儿",
+        "onboard_time": 1739335762,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210865,
+        "num": 210865,
+        "word": "今天三部现偶定档了",
+        "onboard_time": 1739336481,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207998,
+        "num": 207998,
+        "word": "时代峰峻",
+        "onboard_time": 1739337560,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199061,
+        "num": 199061,
+        "word": "三专配置",
+        "onboard_time": 1739335460,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 197396,
+        "num": 197396,
+        "word": "白敬亭现偶",
+        "onboard_time": 1739337441,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195074,
+        "num": 195074,
+        "word": "香港市民希望哪吒2尽快赴港上映",
+        "onboard_time": 1739331020,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 194468,
+        "num": 194468,
+        "word": "男生隔空猥亵未成年女孩被判5年",
+        "onboard_time": 1739291597,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193844,
+        "num": 193844,
+        "word": "迪丽热巴贺思慕元宵贺图",
+        "onboard_time": 1739337022,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178412,
+        "num": 178412,
+        "word": "近期大量黄金等贵金属被运往美国",
+        "onboard_time": 1739331560,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 168351,
+        "num": 168351,
+        "word": "汤圆哪种馅离了大谱",
+        "onboard_time": 1739334622,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65212,
+        "num": 148812,
+        "word": "舒淇眼波流转",
+        "onboard_time": 1739333241,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148354,
+        "num": 148354,
+        "word": "杭州到上海未来或仅需15分钟",
+        "onboard_time": 1739337441,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140426,
+        "num": 140426,
+        "word": "救人白马主人哽咽讲述救治过程",
+        "onboard_time": 1739327899,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139265,
+        "num": 139265,
+        "word": "那刻夏",
+        "onboard_time": 1739335881,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记这样部署东北全面振兴#"
+    }
+  }
+}

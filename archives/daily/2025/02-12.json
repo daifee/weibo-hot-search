@@ -1,7 +1,15 @@
 {
   "startTime": 1739291403043,
-  "endTime": 1739335288742,
+  "endTime": 1739337725838,
   "band_list": [
+    {
+      "raw_hot": 2550003,
+      "num": 649399,
+      "word": "宝妈入住月子中心不到1天投湖轻生",
+      "onboard_time": 1739335402,
+      "rank": 10,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 2494692,
       "num": 2494692,
@@ -83,12 +91,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1126597,
+      "num": 1126597,
+      "word": "男子刮刮乐中25万淡定问店主能兑吗",
+      "onboard_time": 1739336301,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1101586,
-      "num": 603539,
+      "num": 617976,
       "word": "谁家男女主亲完嘴还互擦啊",
       "onboard_time": 1739331261,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1079152,
+      "num": 1079152,
+      "word": "饺子导演穷到装都装不出来你有钱",
+      "onboard_time": 1739333481,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 922338,
@@ -105,6 +129,14 @@
       "onboard_time": 1739332401,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 830010,
+      "num": 830010,
+      "word": "苏州终于要有机场了",
+      "onboard_time": 1739334622,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 814248,
@@ -147,6 +179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 733324,
+      "num": 669744,
+      "word": "张淼怡主演难哄",
+      "onboard_time": 1739331921,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 709336,
       "num": 709336,
       "word": "薛凯琪直播被工作人员紧急闭麦",
@@ -163,12 +203,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 704705,
+      "num": 614360,
+      "word": "哪吒2进全球票房榜前25",
+      "onboard_time": 1739334743,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 690142,
       "num": 690142,
       "word": "回南天",
       "onboard_time": 1739319498,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 669875,
+      "num": 669875,
+      "word": "王濛说林孝埈是我给整回来的",
+      "onboard_time": 1739335703,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 636102,
@@ -193,14 +249,6 @@
       "onboard_time": 1739310371,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 620813,
-      "num": 600565,
-      "word": "张淼怡主演难哄",
-      "onboard_time": 1739331921,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 606051,
@@ -283,14 +331,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 484288,
-      "num": 604672,
-      "word": "苏州终于要有机场了",
-      "onboard_time": 1739334622,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 472137,
       "num": 472137,
       "word": "ABC比基尼安睡裤被骂",
@@ -305,14 +345,6 @@
       "onboard_time": 1739329220,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 450674,
-      "num": 450674,
-      "word": "饺子导演穷到装都装不出来你有钱",
-      "onboard_time": 1739333481,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 448338,
@@ -379,6 +411,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 379419,
+      "num": 352542,
+      "word": "吴宣仪浪姐6上班造型",
+      "onboard_time": 1739336722,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 376469,
+      "num": 376469,
+      "word": "益禾堂薄荷奶绿",
+      "onboard_time": 1739334382,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 373344,
       "num": 345414,
       "word": "工资不高又经常熬夜的工作",
@@ -425,14 +473,6 @@
       "onboard_time": 1739328259,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 336614,
-      "num": 336614,
-      "word": "哪吒2进全球票房榜前25",
-      "onboard_time": 1739334743,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 314995,
@@ -491,6 +531,22 @@
       "category": "互联网,数码"
     },
     {
+      "raw_hot": 281235,
+      "num": 299297,
+      "word": "王嘉尔真回了你又不高兴",
+      "onboard_time": 1739335162,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 266546,
+      "num": 311375,
+      "word": "巴西一女子手机在裤兜中爆炸",
+      "onboard_time": 1739334862,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 258883,
       "num": 210526,
       "word": "当我问Deepseek26岁的存款现状",
@@ -528,6 +584,14 @@
       "word": "腾讯视频2025元宵节大剧片单",
       "onboard_time": 1739329761,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 241906,
+      "num": 241906,
+      "word": "刘诗诗这妆造简直把我钓成翘嘴了",
+      "onboard_time": 1739337201,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -587,6 +651,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 218300,
+      "num": 663435,
+      "word": "海底捞回应招211或985学历外送员",
+      "onboard_time": 1739336423,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 217599,
       "num": 217599,
       "word": "金智秀李洙赫牵手路透",
@@ -627,12 +699,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 210865,
+      "num": 210865,
+      "word": "今天三部现偶定档了",
+      "onboard_time": 1739336481,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210807,
       "num": 210807,
       "word": "藕饼",
       "onboard_time": 1739327059,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 207998,
+      "num": 207998,
+      "word": "时代峰峻",
+      "onboard_time": 1739337560,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 204369,
@@ -651,6 +739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199061,
+      "num": 199061,
+      "word": "三专配置",
+      "onboard_time": 1739335460,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 197465,
       "num": 197465,
       "word": "韩安冉前夫小猪先生患精神病",
@@ -659,12 +755,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 197166,
-      "num": 299297,
-      "word": "王嘉尔真回了你又不高兴",
-      "onboard_time": 1739335162,
-      "rank": 33,
-      "category": "演出"
+      "raw_hot": 197396,
+      "num": 197396,
+      "word": "白敬亭现偶",
+      "onboard_time": 1739337441,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 195740,
@@ -673,6 +769,14 @@
       "onboard_time": 1739323579,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193844,
+      "num": 193844,
+      "word": "迪丽热巴贺思慕元宵贺图",
+      "onboard_time": 1739337022,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 191095,
@@ -811,12 +915,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168351,
+      "num": 512020,
+      "word": "汤圆哪种馅离了大谱",
+      "onboard_time": 1739334622,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167886,
       "num": 167886,
       "word": "李武军谈WTT改革",
       "onboard_time": 1739335042,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165016,
+      "num": 354342,
+      "word": "王一博不是挂在岩壁就是挂在冰壁",
+      "onboard_time": 1739336361,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 164407,
@@ -836,19 +956,11 @@
     },
     {
       "raw_hot": 163023,
-      "num": 163023,
+      "num": 321990,
       "word": "王者荣耀西施情限",
       "onboard_time": 1739334021,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 157851,
-      "num": 157851,
-      "word": "益禾堂薄荷奶绿",
-      "onboard_time": 1739334382,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 155611,
@@ -873,6 +985,14 @@
       "onboard_time": 1739334081,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 148354,
+      "num": 148354,
+      "word": "杭州到上海未来或仅需15分钟",
+      "onboard_time": 1739337441,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147480,
@@ -913,6 +1033,14 @@
       "onboard_time": 1739317697,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139265,
+      "num": 139265,
+      "word": "那刻夏",
+      "onboard_time": 1739335881,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 139048,
@@ -1283,14 +1411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 68733,
-      "num": 311375,
-      "word": "巴西一女子手机在裤兜中爆炸",
-      "onboard_time": 1739334862,
-      "rank": 29,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 68346,
       "num": 227582,
       "word": "刘梦婷大跳台金牌",
@@ -1363,16 +1483,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 56973,
-      "num": 512020,
-      "word": "汤圆哪种馅离了大谱",
-      "onboard_time": 1739334622,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56854,
-      "num": 1003883,
+      "num": 1098734,
       "word": "中国队已集齐3个金牌九宫格",
       "onboard_time": 1739304071,
       "rank": 11,
@@ -1443,6 +1555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50133,
+      "num": 538336,
+      "word": "招聘人才年轻化不该一味卷年龄",
+      "onboard_time": 1739336781,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47618,
       "num": 185973,
       "word": "正月十五赏花灯",
@@ -1480,6 +1600,14 @@
       "word": "女生家属称想让唐某某受法律制裁",
       "onboard_time": 1739294895,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42226,
+      "num": 213958,
+      "word": "畏首畏尾和行动力强的人差在哪儿",
+      "onboard_time": 1739335762,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
