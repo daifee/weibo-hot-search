@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739331613208,
+  "endTime": 1739334417278,
   "band_list": [
     {
       "raw_hot": 10037874,
@@ -89,6 +89,14 @@
       "onboard_time": 1739108782,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2298569,
+      "num": 2298569,
+      "word": "我开学了 你定档了",
+      "onboard_time": 1739331080,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 2176498,
@@ -547,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1221502,
+      "num": 1137869,
+      "word": "蛇年元宵晚会节目单公布",
+      "onboard_time": 1739327420,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1212507,
       "num": 1212507,
       "word": "孙颖莎vs蒯曼",
@@ -619,14 +635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1137869,
-      "num": 1137869,
-      "word": "蛇年元宵晚会节目单公布",
-      "onboard_time": 1739327420,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1127415,
       "num": 847848,
       "word": "女子的贞洁从不在罗裙之下",
@@ -673,6 +681,14 @@
       "onboard_time": 1739249001,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1095964,
+      "num": 282438,
+      "word": "谁家男女主亲完嘴还互擦啊",
+      "onboard_time": 1739331261,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 1095439,
@@ -907,6 +923,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 922338,
+      "num": 743465,
+      "word": "女子丧夫丧子要求移植冷冻胚胎被拒",
+      "onboard_time": 1739329820,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 921763,
       "num": 422502,
       "word": "男子因新生儿子不跟自己姓选择分居",
@@ -929,6 +953,14 @@
       "onboard_time": 1739182221,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 907234,
+      "num": 321329,
+      "word": "曾黎用汤圆cos石矶娘娘",
+      "onboard_time": 1739332401,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 904299,
@@ -1147,6 +1179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 803271,
+      "num": 803271,
+      "word": "王楚钦接住了T中文版的球",
+      "onboard_time": 1739332822,
+      "rank": 1,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 801377,
       "num": 413237,
       "word": "广西高中性侵案表姐发声",
@@ -1267,14 +1307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 743465,
-      "num": 743465,
-      "word": "女子丧夫丧子要求移植冷冻胚胎被拒",
-      "onboard_time": 1739329820,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 742324,
       "num": 436593,
       "word": "窦骁颧骨申请报工伤",
@@ -1328,6 +1360,14 @@
       "word": "哪吒2被偷票房损失惨重是影城非片方",
       "onboard_time": 1739206696,
       "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 711699,
+      "num": 315397,
+      "word": "光线传媒",
+      "onboard_time": 1739329881,
+      "rank": 26,
       "category": "电影"
     },
     {
@@ -2227,14 +2267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 504716,
-      "num": 315397,
-      "word": "光线传媒",
-      "onboard_time": 1739329881,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 502940,
       "num": 502940,
       "word": "金包银项链1克金售价1900元",
@@ -2307,6 +2339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 496455,
+      "num": 245862,
+      "word": "张淼怡主演难哄",
+      "onboard_time": 1739331921,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 494376,
       "num": 494376,
       "word": "王濛说我泰拳不是白练的",
@@ -2321,6 +2361,14 @@
       "onboard_time": 1739109082,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 486085,
+      "num": 256699,
+      "word": "哪吒2出海能否高开高走",
+      "onboard_time": 1739332521,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 485725,
@@ -2353,6 +2401,14 @@
       "onboard_time": 1739059637,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 476403,
+      "num": 244653,
+      "word": "谢广坤扮演者前妻替女儿道歉",
+      "onboard_time": 1739332100,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 473759,
@@ -2601,6 +2657,14 @@
       "onboard_time": 1739274681,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 411102,
+      "num": 239748,
+      "word": "男子酒后点燃礼花弹被炸当场身亡",
+      "onboard_time": 1739331921,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 408486,
@@ -2859,14 +2923,6 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 374767,
-      "num": 280383,
-      "word": "我开学了 你定档了",
-      "onboard_time": 1739331080,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 373091,
       "num": 317294,
       "word": "时代少年团第三张实体专辑预告",
@@ -2979,6 +3035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 351241,
+      "num": 239850,
+      "word": "吒儿大张伟同台",
+      "onboard_time": 1739330000,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 350200,
       "num": 350200,
       "word": "用棉花替代真雪景区已关闭并致歉",
@@ -3009,6 +3073,14 @@
       "onboard_time": 1739284762,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 349297,
+      "num": 231799,
+      "word": "王星越首个高奢代言",
+      "onboard_time": 1739334081,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 345943,
@@ -3049,6 +3121,14 @@
       "onboard_time": 1739188221,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 340027,
+      "num": 230033,
+      "word": "哪吒2北美排片突破700间",
+      "onboard_time": 1739332641,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 339266,
@@ -3179,14 +3259,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 324059,
-      "num": 276002,
-      "word": "谁家男女主亲完嘴还互擦啊",
-      "onboard_time": 1739331261,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 323948,
       "num": 323948,
       "word": "王濛说韩国队不扒拉不会滑冰",
@@ -3307,6 +3379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 311012,
+      "num": 225455,
+      "word": "饺子导演穷到装都装不出来你有钱",
+      "onboard_time": 1739333481,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 310500,
       "num": 310500,
       "word": "敖丙最好的朋友是谁呀",
@@ -3395,6 +3475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 302740,
+      "num": 272373,
+      "word": "饺子导演因穷但坚持被投资人选中",
+      "onboard_time": 1739330000,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 300458,
       "num": 300458,
       "word": "明日方舟",
@@ -3440,6 +3528,14 @@
       "word": "迪丽热巴侧脸睡颜",
       "onboard_time": 1739260339,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 296659,
+      "num": 222850,
+      "word": "我至死都会暴烈地爱你",
+      "onboard_time": 1739332281,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -3553,6 +3649,14 @@
       "onboard_time": 1739268801,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 285623,
+      "num": 285623,
+      "word": "郑州一学校被曝查封致学生无法开学",
+      "onboard_time": 1739330841,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 284563,
@@ -3736,14 +3840,6 @@
       "word": "石矶娘娘配音演员澄清不是行政人员",
       "onboard_time": 1739282242,
       "rank": 21,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 272373,
-      "num": 272373,
-      "word": "饺子导演因穷但坚持被投资人选中",
-      "onboard_time": 1739330000,
-      "rank": 34,
       "category": "电影"
     },
     {
@@ -4179,14 +4275,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 239850,
-      "num": 239850,
-      "word": "吒儿大张伟同台",
-      "onboard_time": 1739330000,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 238898,
       "num": 298404,
       "word": "留几手说早知道我也不离了",
@@ -4595,6 +4683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220430,
+      "num": 220430,
+      "word": "近期大量黄金等贵金属被运往美国",
+      "onboard_time": 1739331560,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 220240,
       "num": 220240,
       "word": "春晚机器人要小心向佐了",
@@ -4867,6 +4963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211498,
+      "num": 250153,
+      "word": "西施新皮肤化身仙灵",
+      "onboard_time": 1739331981,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 210937,
       "num": 210937,
       "word": "魏晨原来这就是眉骨顶光",
@@ -4929,6 +5033,14 @@
       "onboard_time": 1739248523,
       "rank": 36,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 209006,
+      "num": 209006,
+      "word": "可可豆回应哪吒3上映时间",
+      "onboard_time": 1739332341,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 208770,
@@ -6067,14 +6179,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 185259,
-      "num": 185259,
-      "word": "郑州一学校被曝查封致学生无法开学",
-      "onboard_time": 1739330841,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 185191,
       "num": 156848,
       "word": "导演饺子初中班主任发声",
@@ -6249,6 +6353,14 @@
       "onboard_time": 1739265021,
       "rank": 37,
       "category": "电影,科学科普"
+    },
+    {
+      "raw_hot": 180046,
+      "num": 180046,
+      "word": "潘展乐说尔滨人很高但比我差点",
+      "onboard_time": 1739331742,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 179709,
@@ -6683,14 +6795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 170631,
-      "num": 170631,
-      "word": "近期大量黄金等贵金属被运往美国",
-      "onboard_time": 1739331560,
-      "rank": 47,
-      "category": "财经"
-    },
-    {
       "raw_hot": 170603,
       "num": 299121,
       "word": "林孝埈感谢尔滨",
@@ -6945,6 +7049,14 @@
       "onboard_time": 1739085380,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164407,
+      "num": 164407,
+      "word": "阿里大涨",
+      "onboard_time": 1739334021,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 163880,
@@ -7219,6 +7331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157851,
+      "num": 157851,
+      "word": "益禾堂薄荷奶绿",
+      "onboard_time": 1739334382,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 157724,
       "num": 157724,
       "word": "林孝埈赛后落泪道歉",
@@ -7473,6 +7593,14 @@
       "onboard_time": 1739072960,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 151526,
+      "num": 151526,
+      "word": "第一次见这么有生命力的房子",
+      "onboard_time": 1739334081,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 151484,
@@ -8177,6 +8305,14 @@
       "onboard_time": 1739286741,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133459,
+      "num": 248844,
+      "word": "舒淇眼波流转",
+      "onboard_time": 1739333241,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 133241,
@@ -9723,6 +9859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73659,
+      "num": 343263,
+      "word": "张凌赫国风包帅的",
+      "onboard_time": 1739330062,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 73183,
       "num": 214109,
       "word": "孙颖莎说回去好好休息",
@@ -9801,6 +9945,14 @@
       "onboard_time": 1739205616,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 68346,
+      "num": 227582,
+      "word": "刘梦婷大跳台金牌",
+      "onboard_time": 1739333002,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 68229,
@@ -10315,6 +10467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51686,
+      "num": 242492,
+      "word": "中国姑娘包揽金银铜",
+      "onboard_time": 1739333241,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51449,
       "num": 440620,
       "word": "高亭宇第二金",
@@ -10352,14 +10512,6 @@
       "word": "陈鹤一这次带妆播的",
       "onboard_time": 1739191821,
       "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 50754,
-      "num": 343263,
-      "word": "张凌赫国风包帅的",
-      "onboard_time": 1739330062,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -10401,6 +10553,14 @@
       "onboard_time": 1739051471,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 47618,
+      "num": 185973,
+      "word": "正月十五赏花灯",
+      "onboard_time": 1739332822,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47410,
@@ -10659,6 +10819,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 38863,
+      "num": 237343,
+      "word": "中国姑娘越野滑雪接力冠军",
+      "onboard_time": 1739332942,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38832,
       "num": 155380,
       "word": "Doinb采访",
@@ -10761,6 +10929,14 @@
       "onboard_time": 1739225892,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 35441,
+      "num": 241674,
+      "word": "贾巴尔回应首次击败郑钦文",
+      "onboard_time": 1739327478,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 35370,

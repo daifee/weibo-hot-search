@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1739331613208,
+  "endTime": 1739334417278,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1859,6 +1859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2298569,
+      "num": 2298569,
+      "word": "我开学了 你定档了",
+      "onboard_time": 1739331080,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2288744,
       "num": 2288744,
       "word": "王俊凯终于来了",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736090548,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2048148,
-      "num": 453288,
-      "word": "字节取消下午茶",
-      "onboard_time": 1737690978,
-      "rank": 10,
-      "category": "互联网"
     }
   ],
   "hotgov_list": [
