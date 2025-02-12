@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739377766335,
+  "endTime": 1739378621094,
   "band_list": [
     {
       "raw_hot": 10705430,
@@ -1027,6 +1027,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 1007188,
+      "num": 1007188,
+      "word": "哪吒2破96亿",
+      "onboard_time": 1739374761,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1001948,
       "num": 1001948,
       "word": "张艺兴又去看哪吒了",
@@ -1144,14 +1152,6 @@
       "word": "哪吒2已超78亿",
       "onboard_time": 1739085078,
       "rank": 25,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 929899,
-      "num": 929899,
-      "word": "哪吒2破96亿",
-      "onboard_time": 1739374761,
-      "rank": 1,
       "category": "电影"
     },
     {
@@ -4067,6 +4067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 317846,
+      "num": 317846,
+      "word": "土豆吕严小品",
+      "onboard_time": 1739376020,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 317275,
       "num": 266493,
       "word": "杨紫穿古装吃汤圆",
@@ -4960,14 +4968,6 @@
       "word": "李嘉琦也来浪姐了",
       "onboard_time": 1739168061,
       "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 257713,
-      "num": 194372,
-      "word": "土豆吕严小品",
-      "onboard_time": 1739376020,
-      "rank": 17,
       "category": "综艺"
     },
     {
@@ -6665,6 +6665,14 @@
       "onboard_time": 1739173700,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 200423,
+      "num": 156055,
+      "word": "票房",
+      "onboard_time": 1739374341,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 200159,
@@ -8787,6 +8795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 162010,
+      "num": 162010,
+      "word": "致男子身亡礼花弹市面不能售卖",
+      "onboard_time": 1739377219,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161943,
       "num": 199035,
       "word": "女儿和父亲闹矛盾离家出走11年未归",
@@ -9177,14 +9193,6 @@
       "onboard_time": 1739197281,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 154533,
-      "num": 154533,
-      "word": "票房",
-      "onboard_time": 1739374341,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 154301,
@@ -9579,6 +9587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145844,
+      "num": 145844,
+      "word": "于适韩骁服役期间自拍照",
+      "onboard_time": 1739377398,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145794,
       "num": 145794,
       "word": "魏哲鸣录hi6脖子过敏",
@@ -9812,7 +9828,7 @@
     },
     {
       "raw_hot": 141686,
-      "num": 141686,
+      "num": 146136,
       "word": "KSG回应宣传片",
       "onboard_time": 1739372421,
       "rank": 46,
@@ -10001,6 +10017,14 @@
       "onboard_time": 1739262621,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136534,
+      "num": 136534,
+      "word": "肖战晒柿子汤圆",
+      "onboard_time": 1739377878,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 136317,
@@ -10473,14 +10497,6 @@
       "onboard_time": 1739266102,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 126265,
-      "num": 126265,
-      "word": "于适韩骁服役期间自拍照",
-      "onboard_time": 1739377398,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 126041,
@@ -11059,6 +11075,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 111822,
+      "num": 111822,
+      "word": "苏新皓到家了给我说一声哦",
+      "onboard_time": 1739378237,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111285,
       "num": 111285,
       "word": "藕饼玩偶服下班",
@@ -11153,6 +11177,14 @@
       "onboard_time": 1739078121,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107380,
+      "num": 107380,
+      "word": "特效师称赞饺子导演太能抠细节",
+      "onboard_time": 1739375120,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 107375,
@@ -11497,14 +11529,6 @@
       "onboard_time": 1739348780,
       "rank": 28,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 94210,
-      "num": 94210,
-      "word": "致男子身亡礼花弹市面不能售卖",
-      "onboard_time": 1739377219,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93513,
@@ -13353,6 +13377,14 @@
       "onboard_time": 1739283864,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34385,
+      "num": 160626,
+      "word": "曝100多名娃哈哈老员工年终奖减半",
+      "onboard_time": 1739378237,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34275,

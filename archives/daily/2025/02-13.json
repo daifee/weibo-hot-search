@@ -1,6 +1,6 @@
 {
   "startTime": 1739377766335,
-  "endTime": 1739377766335,
+  "endTime": 1739378621094,
   "band_list": [
     {
       "raw_hot": 1780872,
@@ -11,8 +11,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 929899,
-      "num": 929899,
+      "raw_hot": 1007188,
+      "num": 1007188,
       "word": "哪吒2破96亿",
       "onboard_time": 1739374761,
       "rank": 1,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 417379,
-      "num": 196749,
+      "num": 363106,
       "word": "沙溢瘦太多了",
       "onboard_time": 1739366544,
       "rank": 11,
@@ -75,12 +75,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 378501,
+      "num": 185358,
+      "word": "李明德前女友 不止催我时倒数",
+      "onboard_time": 1739364200,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 323837,
       "num": 195137,
       "word": "长发肖战",
       "onboard_time": 1739369842,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 317846,
+      "num": 317846,
+      "word": "土豆吕严小品",
+      "onboard_time": 1739376020,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 291911,
@@ -99,14 +115,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 257713,
-      "num": 194372,
-      "word": "土豆吕严小品",
-      "onboard_time": 1739376020,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 248892,
       "num": 248892,
       "word": "身份证号码泄露有哪些危害",
@@ -123,12 +131,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 198084,
-      "num": 198084,
+      "raw_hot": 207768,
+      "num": 207768,
       "word": "去世白龙马主人获赠1匹新白马",
       "onboard_time": 1739372542,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200423,
+      "num": 156055,
+      "word": "票房",
+      "onboard_time": 1739374341,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 194022,
@@ -163,6 +179,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 162010,
+      "num": 162010,
+      "word": "致男子身亡礼花弹市面不能售卖",
+      "onboard_time": 1739377219,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160862,
       "num": 160862,
       "word": "女子年前卖掉为儿子攒的三金赚10多万",
@@ -195,12 +219,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148845,
-      "num": 148845,
-      "word": "票房",
-      "onboard_time": 1739374341,
-      "rank": 26,
-      "category": "电影"
+      "raw_hot": 145844,
+      "num": 145844,
+      "word": "于适韩骁服役期间自拍照",
+      "onboard_time": 1739377398,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 144153,
@@ -219,6 +243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 136534,
+      "num": 136534,
+      "word": "肖战晒柿子汤圆",
+      "onboard_time": 1739377878,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135671,
       "num": 135671,
       "word": "元宵晚会魔术",
@@ -233,14 +265,6 @@
       "onboard_time": 1739346200,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 126265,
-      "num": 126265,
-      "word": "于适韩骁服役期间自拍照",
-      "onboard_time": 1739377398,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 125934,
@@ -307,12 +331,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111822,
+      "num": 111822,
+      "word": "苏新皓到家了给我说一声哦",
+      "onboard_time": 1739378237,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110392,
       "num": 110392,
       "word": "撒贝宁扶着机器人出来",
       "onboard_time": 1739364262,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107380,
+      "num": 107380,
+      "word": "特效师称赞饺子导演太能抠细节",
+      "onboard_time": 1739375120,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 106436,
@@ -332,7 +372,7 @@
     },
     {
       "raw_hot": 99360,
-      "num": 136171,
+      "num": 146136,
       "word": "KSG回应宣传片",
       "onboard_time": 1739372421,
       "rank": 30,
@@ -347,12 +387,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 94210,
-      "num": 94210,
-      "word": "致男子身亡礼花弹市面不能售卖",
-      "onboard_time": 1739377219,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 86561,
+      "num": 86561,
+      "word": "时代少年团直播",
+      "onboard_time": 1739367142,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 84573,
@@ -363,7 +403,7 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 79820,
+      "raw_hot": 82401,
       "num": 84457,
       "word": "马斯克称美国养老金名单现150岁老人",
       "onboard_time": 1739362761,
@@ -371,7 +411,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 57558,
+      "raw_hot": 58678,
       "num": 84158,
       "word": "夫妻吵架4岁孩子哭着收拾残局",
       "onboard_time": 1739358561,
@@ -385,6 +425,14 @@
       "onboard_time": 1739377098,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 34385,
+      "num": 160626,
+      "word": "曝100多名娃哈哈老员工年终奖减半",
+      "onboard_time": 1739378237,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30961,
