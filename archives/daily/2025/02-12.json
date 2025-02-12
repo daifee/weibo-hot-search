@@ -1,7 +1,15 @@
 {
   "startTime": 1739291403043,
-  "endTime": 1739364162589,
+  "endTime": 1739365119180,
   "band_list": [
+    {
+      "raw_hot": 4150508,
+      "num": 4150508,
+      "word": "哪吒打人 敖丙劝架",
+      "onboard_time": 1739364023,
+      "rank": 6,
+      "category": "综艺"
+    },
     {
       "raw_hot": 2740229,
       "num": 2740229,
@@ -115,6 +123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1726433,
+      "num": 314382,
+      "word": "李明德前女友 不止催我时倒数",
+      "onboard_time": 1739364200,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1652342,
       "num": 1652342,
       "word": "全球票房",
@@ -129,6 +145,14 @@
       "onboard_time": 1739353821,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1506895,
+      "num": 1506895,
+      "word": "程序员三个月在理发店充卡24万",
+      "onboard_time": 1739361980,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1456343,
@@ -195,14 +219,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1161180,
-      "num": 1161180,
-      "word": "程序员三个月在理发店充卡24万",
-      "onboard_time": 1739361980,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1156881,
       "num": 1156881,
       "word": "饺子导演穷到装都装不出来你有钱",
@@ -243,11 +259,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 926705,
-      "num": 378110,
-      "word": "哪吒打人 敖丙劝架",
-      "onboard_time": 1739364023,
-      "rank": 6,
+      "raw_hot": 1047729,
+      "num": 354130,
+      "word": "开场就是易烊千玺",
+      "onboard_time": 1739363361,
+      "rank": 14,
       "category": "综艺"
     },
     {
@@ -484,7 +500,7 @@
     },
     {
       "raw_hot": 610376,
-      "num": 296542,
+      "num": 312929,
       "word": "瀚墨痛失三点水",
       "onboard_time": 1739355921,
       "rank": 13,
@@ -531,16 +547,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 560970,
-      "num": 277203,
-      "word": "开场就是易烊千玺",
-      "onboard_time": 1739363361,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 556737,
-      "num": 300230,
+      "num": 312996,
       "word": "女子年前卖掉为儿子攒的三金赚10多万",
       "onboard_time": 1739358380,
       "rank": 24,
@@ -665,6 +673,14 @@
       "onboard_time": 1739286380,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 427617,
+      "num": 313730,
+      "word": "马斯克称美国养老金名单现150岁老人",
+      "onboard_time": 1739362761,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 425832,
@@ -836,7 +852,7 @@
     },
     {
       "raw_hot": 370157,
-      "num": 264574,
+      "num": 286579,
       "word": "湖南卫视元宵喜乐会",
       "onboard_time": 1739359940,
       "rank": 28,
@@ -915,6 +931,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 328122,
+      "num": 313401,
+      "word": "撒贝宁扶着机器人出来",
+      "onboard_time": 1739364262,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 327399,
       "num": 301747,
       "word": "五福临门见面会",
@@ -924,7 +948,7 @@
     },
     {
       "raw_hot": 324077,
-      "num": 223463,
+      "num": 240626,
       "word": "江苏卫视元宵晚会",
       "onboard_time": 1739362280,
       "rank": 26,
@@ -953,6 +977,14 @@
       "onboard_time": 1739270242,
       "rank": 8,
       "category": "民生新闻,电影"
+    },
+    {
+      "raw_hot": 313279,
+      "num": 313279,
+      "word": "盛李豪保送北京体育大学",
+      "onboard_time": 1739360239,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 313026,
@@ -1083,6 +1115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 282647,
+      "num": 282647,
+      "word": "饺子回应哪吒2时长144分钟",
+      "onboard_time": 1739360840,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 281235,
       "num": 299297,
       "word": "王嘉尔真回了你又不高兴",
@@ -1123,6 +1163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276787,
+      "num": 276787,
+      "word": "张艺兴上桌吃饭",
+      "onboard_time": 1739364081,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 274191,
       "num": 274191,
       "word": "辛芷蕾穿了95年的古董高定",
@@ -1145,14 +1193,6 @@
       "onboard_time": 1739339000,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 268535,
-      "num": 222393,
-      "word": "饺子回应哪吒2时长144分钟",
-      "onboard_time": 1739360840,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 261646,
@@ -1195,14 +1235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 250874,
-      "num": 250874,
-      "word": "马斯克称美国养老金名单现150岁老人",
-      "onboard_time": 1739362761,
-      "rank": 17,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 246134,
       "num": 246134,
       "word": "宋妍霏浪姐6全妆路透",
@@ -1211,8 +1243,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 245259,
-      "num": 245259,
+      "raw_hot": 245386,
+      "num": 245386,
       "word": "王一博腰上这一堆得多少斤",
       "onboard_time": 1739355921,
       "rank": 39,
@@ -1241,6 +1273,14 @@
       "onboard_time": 1739349620,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 242726,
+      "num": 242726,
+      "word": "元宵晚会节目单",
+      "onboard_time": 1739364141,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 242599,
@@ -1281,14 +1321,6 @@
       "onboard_time": 1739358020,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 234015,
-      "num": 234015,
-      "word": "盛李豪保送北京体育大学",
-      "onboard_time": 1739360239,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 233240,
@@ -1427,6 +1459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217944,
+      "num": 345879,
+      "word": "元宵版哪吒rap",
+      "onboard_time": 1739363541,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217599,
       "num": 217599,
       "word": "金智秀李洙赫牵手路透",
@@ -1449,14 +1489,6 @@
       "onboard_time": 1739320759,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 214117,
-      "num": 214117,
-      "word": "张艺兴上桌吃饭",
-      "onboard_time": 1739364081,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 213866,
@@ -1643,6 +1675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194842,
+      "num": 178964,
+      "word": "陈楚生你们吃了吗",
+      "onboard_time": 1739365040,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194420,
       "num": 194420,
       "word": "一姐全程做一",
@@ -1657,6 +1697,14 @@
       "onboard_time": 1739337022,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192986,
+      "num": 176034,
+      "word": "陈丽君大圣太帅了",
+      "onboard_time": 1739364922,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 191373,
@@ -1987,6 +2035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 166513,
+      "num": 166513,
+      "word": "雷军吃五仁汤圆吃破防了",
+      "onboard_time": 1739364981,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 166487,
       "num": 166487,
       "word": "吴昕推荐蒋梦婕上浪姐",
@@ -2188,7 +2244,7 @@
     },
     {
       "raw_hot": 146784,
-      "num": 221480,
+      "num": 313269,
       "word": "代露娃直播",
       "onboard_time": 1739363961,
       "rank": 30,
@@ -2289,6 +2345,14 @@
       "onboard_time": 1739340200,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135688,
+      "num": 135688,
+      "word": "狼队对战TTG",
+      "onboard_time": 1739364800,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 135610,
@@ -2419,6 +2483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 129051,
+      "num": 143098,
+      "word": "敖丙和莲花",
+      "onboard_time": 1739362882,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 128175,
       "num": 210994,
       "word": "非遗春节大拜年",
@@ -2523,14 +2595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 111586,
-      "num": 345879,
-      "word": "元宵版哪吒rap",
-      "onboard_time": 1739363541,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 110845,
       "num": 1389908,
       "word": "中国风吹到了巴黎",
@@ -2633,14 +2697,6 @@
       "onboard_time": 1739284222,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 96836,
-      "num": 143098,
-      "word": "敖丙和莲花",
-      "onboard_time": 1739362882,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 94282,
@@ -2923,6 +2979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60459,
+      "num": 248067,
+      "word": "王楚钦特辑封面",
+      "onboard_time": 1739363481,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59680,
       "num": 326820,
       "word": "网友曝一萌宠园过年无人管有动物死亡",
@@ -3059,6 +3123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51820,
+      "num": 312554,
+      "word": "山东十六市地标AI花灯秀来啦",
+      "onboard_time": 1739364742,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51686,
       "num": 242492,
       "word": "中国姑娘包揽金银铜",
@@ -3169,14 +3241,6 @@
       "onboard_time": 1739335762,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 41946,
-      "num": 224917,
-      "word": "王楚钦特辑封面",
-      "onboard_time": 1739363481,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 41361,
@@ -3353,6 +3417,14 @@
       "onboard_time": 1739359821,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24324,
+      "num": 204548,
+      "word": "无畏说给句号一点成长空间",
+      "onboard_time": 1739365040,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 24154,
@@ -3577,6 +3649,14 @@
       "onboard_time": 1739291297,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7327,
+      "num": 170457,
+      "word": "张凌赫大屏",
+      "onboard_time": 1739364862,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 6849,
