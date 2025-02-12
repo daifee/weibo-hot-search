@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739380848631,
+  "endTime": 1739381883673,
   "band_list": [
     {
       "raw_hot": 10705430,
@@ -4747,6 +4747,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 272270,
+      "num": 272270,
+      "word": "安睡裤",
+      "onboard_time": 1739377997,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 271873,
       "num": 271873,
       "word": "原来这些角色都是锤娜丽莎演的",
@@ -5745,14 +5753,6 @@
       "onboard_time": 1739102303,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 222209,
-      "num": 222209,
-      "word": "安睡裤",
-      "onboard_time": 1739377997,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 222190,
@@ -10507,6 +10507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 127055,
+      "num": 118717,
+      "word": "吴越周雨彤后台拥抱",
+      "onboard_time": 1739379136,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126041,
       "num": 126041,
       "word": "美国1月CPI同比增长3%",
@@ -10601,6 +10609,14 @@
       "onboard_time": 1739106441,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 122810,
+      "num": 102607,
+      "word": "哪吒3计划上映时间又改回2028年",
+      "onboard_time": 1739379136,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 122724,
@@ -10793,14 +10809,6 @@
       "onboard_time": 1739286981,
       "rank": 14,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 118717,
-      "num": 118717,
-      "word": "吴越周雨彤后台拥抱",
-      "onboard_time": 1739379136,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 118676,
@@ -11113,6 +11121,14 @@
       "onboard_time": 1739181801,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110964,
+      "num": 110964,
+      "word": "女生来云南散心前后判若两人",
+      "onboard_time": 1739381774,
+      "rank": 14,
+      "category": "旅游"
     },
     {
       "raw_hot": 110845,
@@ -11593,14 +11609,6 @@
       "onboard_time": 1739262022,
       "rank": 22,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 92409,
-      "num": 92409,
-      "word": "哪吒3计划上映时间又改回2028年",
-      "onboard_time": 1739379136,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 91646,
@@ -12691,6 +12699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 54522,
+      "num": 130049,
+      "word": "中国兵器装备集团副总刘卫东被查",
+      "onboard_time": 1739380694,
+      "rank": 34,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 54076,
       "num": 332133,
       "word": "任俊霏邢珈宁银牌",
@@ -12705,6 +12721,14 @@
       "onboard_time": 1739088741,
       "rank": 19,
       "category": "议题讨论,体育"
+    },
+    {
+      "raw_hot": 53659,
+      "num": 53659,
+      "word": "无所畏惧2",
+      "onboard_time": 1739380694,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 53146,
@@ -13057,6 +13081,14 @@
       "onboard_time": 1739338642,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44063,
+      "num": 44063,
+      "word": "花样年华",
+      "onboard_time": 1739381713,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 43910,
@@ -13993,14 +14025,6 @@
       "onboard_time": 1739325197,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 21949,
-      "num": 73003,
-      "word": "中国兵器装备集团副总刘卫东被查",
-      "onboard_time": 1739380694,
-      "rank": 34,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 21886,

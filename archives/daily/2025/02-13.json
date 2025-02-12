@@ -1,6 +1,6 @@
 {
   "startTime": 1739377766335,
-  "endTime": 1739380848631,
+  "endTime": 1739381883673,
   "band_list": [
     {
       "raw_hot": 1780872,
@@ -115,19 +115,19 @@
       "category": "电影"
     },
     {
+      "raw_hot": 272270,
+      "num": 272270,
+      "word": "安睡裤",
+      "onboard_time": 1739377997,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 248892,
       "num": 248892,
       "word": "身份证号码泄露有哪些危害",
       "onboard_time": 1739366844,
       "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 222209,
-      "num": 222209,
-      "word": "安睡裤",
-      "onboard_time": 1739377997,
-      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -275,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127055,
+      "num": 118717,
+      "word": "吴越周雨彤后台拥抱",
+      "onboard_time": 1739379136,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125934,
       "num": 125934,
       "word": "大张伟六年前就给哪吒写了歌",
@@ -283,20 +291,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122810,
+      "num": 102607,
+      "word": "哪吒3计划上映时间又改回2028年",
+      "onboard_time": 1739379136,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 122282,
       "num": 122282,
       "word": "哪吒的新鳞甲是我们的文化自信",
       "onboard_time": 1739375840,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 118717,
-      "num": 118717,
-      "word": "吴越周雨彤后台拥抱",
-      "onboard_time": 1739379136,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 118391,
@@ -355,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110964,
+      "num": 110964,
+      "word": "女生来云南散心前后判若两人",
+      "onboard_time": 1739381774,
+      "rank": 14,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 110392,
       "num": 110392,
       "word": "撒贝宁扶着机器人出来",
@@ -401,14 +417,6 @@
       "onboard_time": 1739370863,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92409,
-      "num": 92409,
-      "word": "哪吒3计划上映时间又改回2028年",
-      "onboard_time": 1739379136,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 87437,
@@ -483,12 +491,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54522,
+      "num": 130049,
+      "word": "中国兵器装备集团副总刘卫东被查",
+      "onboard_time": 1739380694,
+      "rank": 34,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 53659,
+      "num": 53659,
+      "word": "无所畏惧2",
+      "onboard_time": 1739380694,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 51499,
       "num": 72864,
       "word": "狼队元宵节开门红",
       "onboard_time": 1739372242,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 44063,
+      "num": 44063,
+      "word": "花样年华",
+      "onboard_time": 1739381713,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 34618,
@@ -513,14 +545,6 @@
       "onboard_time": 1739368163,
       "rank": 2,
       "category": "民生新闻,科学科普"
-    },
-    {
-      "raw_hot": 21949,
-      "num": 73003,
-      "word": "中国兵器装备集团副总刘卫东被查",
-      "onboard_time": 1739380694,
-      "rank": 34,
-      "category": "辟谣/通报"
     }
   ],
   "hotgov_list": [
