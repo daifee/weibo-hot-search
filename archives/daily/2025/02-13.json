@@ -1,6 +1,6 @@
 {
   "startTime": 1739377766335,
-  "endTime": 1739392672565,
+  "endTime": 1739395277205,
   "band_list": [
     {
       "raw_hot": 1780872,
@@ -579,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27298,
+      "num": 21871,
+      "word": "杨蓉把魏晨何炅张若昀演沉默了",
+      "onboard_time": 1739390711,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 24049,
       "num": 858532,
       "word": "今年十五的月亮哪天圆",
@@ -587,16 +595,8 @@
       "category": "民生新闻,科学科普"
     },
     {
-      "raw_hot": 23388,
-      "num": 21437,
-      "word": "杨蓉把魏晨何炅张若昀演沉默了",
-      "onboard_time": 1739390711,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 21716,
-      "num": 21716,
+      "raw_hot": 21717,
+      "num": 21717,
       "word": "杨子 就是来找骂的",
       "onboard_time": 1739388970,
       "rank": 26,
@@ -673,6 +673,22 @@
       "onboard_time": 1739386692,
       "rank": 19,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 10686,
+      "num": 21782,
+      "word": "专家称救人白马情况不乐观",
+      "onboard_time": 1739393531,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10001,
+      "num": 17965,
+      "word": "当90后00后插手汤圆的形象",
+      "onboard_time": 1739392992,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9359,
