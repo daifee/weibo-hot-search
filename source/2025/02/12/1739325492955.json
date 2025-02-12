@@ -1,0 +1,410 @@
+{
+  "runTime": 1739325492955,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1626314,
+        "num": 1626314,
+        "word": "哪吒票房 升国旗",
+        "onboard_time": 1739281223,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 871808,
+        "num": 871808,
+        "word": "冲入江中救人白马离世",
+        "onboard_time": 1739285062,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26385,
+        "num": 660101,
+        "word": "首善答卷",
+        "onboard_time": 1739285901,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1410862,
+        "num": 650086,
+        "word": "饺子不知道观众怎么想出藕饼cp",
+        "onboard_time": 1739321481,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 579422,
+        "num": 579422,
+        "word": "元宵节",
+        "onboard_time": 1739315535,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 577343,
+        "num": 577343,
+        "word": "回南天",
+        "onboard_time": 1739319498,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 504332,
+        "num": 504332,
+        "word": "敖丙一开始被设计为反派角色",
+        "onboard_time": 1739316857,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 469355,
+        "num": 469355,
+        "word": "ABC比基尼安睡裤被骂",
+        "onboard_time": 1739288300,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 500021,
+        "num": 459079,
+        "word": "饺子回应申公豹为什么是结巴",
+        "onboard_time": 1739310371,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 356969,
+        "num": 356969,
+        "word": "被室友电瓶燃爆烧伤男生照镜子哭泣",
+        "onboard_time": 1739315294,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 778133,
+        "num": 351965,
+        "word": "男生隔空猥亵未成年女孩被判5年",
+        "onboard_time": 1739291597,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 423169,
+        "num": 349435,
+        "word": "谢广坤扮演者疑似回应被女儿控诉",
+        "onboard_time": 1739316857,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399969,
+        "num": 341874,
+        "word": "人民会堂回应上午开会下午放哪吒2",
+        "onboard_time": 1739286380,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313318,
+        "num": 313318,
+        "word": "工资不高又经常熬夜的工作",
+        "onboard_time": 1739284762,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 311726,
+        "num": 311726,
+        "word": "哪吒",
+        "onboard_time": 1739315356,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 244382,
+        "num": 244382,
+        "word": "饺子偷偷改了哪吒3计划上映时间",
+        "onboard_time": 1739261481,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 222996,
+        "num": 222996,
+        "word": "晋江",
+        "onboard_time": 1739319020,
+        "rank": 16,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 211452,
+        "num": 211452,
+        "word": "流感高烧3天不退小心是重症",
+        "onboard_time": 1739290640,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 57612,
+        "num": 211386,
+        "word": "吃元宵时千万记住细嚼慢咽",
+        "onboard_time": 1739324659,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145760,
+        "num": 211062,
+        "word": "解锁山东N种消费新姿势",
+        "onboard_time": 1739323579,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128175,
+        "num": 210994,
+        "word": "非遗春节大拜年",
+        "onboard_time": 1739323939,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330116,
+        "num": 210667,
+        "word": "28岁女子双肺长癌竟跟这个习惯有关",
+        "onboard_time": 1739289621,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232724,
+        "num": 210526,
+        "word": "当我问Deepseek26岁的存款现状",
+        "onboard_time": 1739317758,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210461,
+        "num": 210461,
+        "word": "哪吒票房",
+        "onboard_time": 1739283922,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108624,
+        "num": 201632,
+        "word": "湖人又有中锋了",
+        "onboard_time": 1739323039,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193813,
+        "num": 193813,
+        "word": "金智秀李洙赫牵手路透",
+        "onboard_time": 1739316857,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190291,
+        "num": 190291,
+        "word": "饺子进入中国导演票房榜前三",
+        "onboard_time": 1739289559,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 22115,
+        "num": 180747,
+        "word": "王一博西藏冰攀视频",
+        "onboard_time": 1739325197,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175703,
+        "num": 175703,
+        "word": "都到90亿了 必须四舍五入",
+        "onboard_time": 1739278041,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157730,
+        "num": 157730,
+        "word": "天官赐福",
+        "onboard_time": 1739323998,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 156543,
+        "num": 156543,
+        "word": "网友提名哪吒真人化选角",
+        "onboard_time": 1739305031,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151861,
+        "num": 151861,
+        "word": "韩安冉前夫小猪先生患精神病",
+        "onboard_time": 1739277800,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 140377,
+        "num": 140377,
+        "word": "剩米饭里的粉红色霉菌是剧毒吗",
+        "onboard_time": 1739317697,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137699,
+        "num": 137699,
+        "word": "王一博在海拔四千多米攀冰",
+        "onboard_time": 1739292437,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133633,
+        "num": 133633,
+        "word": "OpenAI希望与中国合作",
+        "onboard_time": 1739320820,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 125657,
+        "num": 125657,
+        "word": "樊振东陈梦四年内确保直接参赛WTT",
+        "onboard_time": 1739282543,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124773,
+        "num": 124773,
+        "word": "文化中国行之元宵节",
+        "onboard_time": 1739312413,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121965,
+        "num": 121965,
+        "word": "金包银哪吒手镯卖爆了",
+        "onboard_time": 1739270242,
+        "rank": 37,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 114537,
+        "num": 114537,
+        "word": "把发霉的馒头放大1000倍",
+        "onboard_time": 1739322741,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109278,
+        "num": 109278,
+        "word": "鹿童坐骑上的刺绣是一笔笔画的",
+        "onboard_time": 1739312773,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109069,
+        "num": 109069,
+        "word": "三亚偶遇沈腾出海",
+        "onboard_time": 1739311571,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102014,
+        "num": 102014,
+        "word": "有网店假冒必吃榜卖了100万单",
+        "onboard_time": 1739286321,
+        "rank": 41,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 96511,
+        "num": 96511,
+        "word": "流感后高危人群最好48小时内用药",
+        "onboard_time": 1739292377,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 95758,
+        "num": 95758,
+        "word": "晋江崩了",
+        "onboard_time": 1739320700,
+        "rank": 43,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 94523,
+        "num": 94523,
+        "word": "墨西哥湾古名叫中国海",
+        "onboard_time": 1739317158,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 89153,
+        "num": 89153,
+        "word": "汤圆",
+        "onboard_time": 1739319259,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 82194,
+        "num": 82194,
+        "word": "你们竞粉背着我吃这么好啊",
+        "onboard_time": 1739323698,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 80547,
+        "num": 80547,
+        "word": "美国说唱歌手入狱后遭殴打强奸",
+        "onboard_time": 1739279601,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79960,
+        "num": 79960,
+        "word": "元宵节文案",
+        "onboard_time": 1739319979,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78990,
+        "num": 78990,
+        "word": "苹果和阿里将为中国iPhone开发AI功能",
+        "onboard_time": 1739284641,
+        "rank": 49,
+        "category": "互联网,数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记这样部署东北全面振兴#"
+    }
+  }
+}
