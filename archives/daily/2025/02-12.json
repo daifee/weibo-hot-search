@@ -1,6 +1,6 @@
 {
   "startTime": 1739291403043,
-  "endTime": 1739371211776,
+  "endTime": 1739373898197,
   "band_list": [
     {
       "raw_hot": 10705430,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 1482902,
-      "num": 354223,
+      "num": 444192,
       "word": "姜妍粉底",
       "onboard_time": 1739367503,
       "rank": 45,
@@ -225,6 +225,14 @@
       "onboard_time": 1739327420,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1220319,
+      "num": 1220319,
+      "word": "全球首例同时换脸换手男子结婚",
+      "onboard_time": 1739369544,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1206163,
@@ -475,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 694194,
+      "num": 409054,
+      "word": "长发肖战",
+      "onboard_time": 1739369842,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 693684,
       "num": 703825,
       "word": "身份证号码泄露有哪些危害",
@@ -595,20 +611,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 581724,
+      "num": 332583,
+      "word": "43岁女子找男模花光450万公款",
+      "onboard_time": 1739370143,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 579422,
       "num": 579422,
       "word": "元宵节",
       "onboard_time": 1739315535,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 573012,
-      "num": 345352,
-      "word": "长发肖战",
-      "onboard_time": 1739369842,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 569582,
@@ -657,6 +673,14 @@
       "onboard_time": 1739350580,
       "rank": 5,
       "category": "美食"
+    },
+    {
+      "raw_hot": 536057,
+      "num": 536057,
+      "word": "哪吒被藕饼整破防了",
+      "onboard_time": 1739372302,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 526356,
@@ -712,14 +736,6 @@
       "word": "ABC比基尼安睡裤被骂",
       "onboard_time": 1739288300,
       "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 471008,
-      "num": 332583,
-      "word": "43岁女子找男模花光450万公款",
-      "onboard_time": 1739370143,
-      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -915,6 +931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 384937,
+      "num": 384937,
+      "word": "男子点烟花被炸倒地身亡",
+      "onboard_time": 1739371342,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 379372,
       "num": 332083,
       "word": "哪吒2二刷及以上人群不到1成",
@@ -963,6 +987,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 365240,
+      "num": 317552,
+      "word": "曾经很火但逐渐消失了的品牌",
+      "onboard_time": 1739367083,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 363143,
       "num": 348198,
       "word": "崔漫莉回应自曝无证酒驾肇事逃逸",
@@ -993,6 +1025,14 @@
       "onboard_time": 1739330000,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 350276,
+      "num": 285815,
+      "word": "44岁宝妈怀第7胎已生4女2男",
+      "onboard_time": 1739370622,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 346455,
@@ -1081,14 +1121,6 @@
       "onboard_time": 1739343260,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 317552,
-      "num": 317552,
-      "word": "曾经很火但逐渐消失了的品牌",
-      "onboard_time": 1739367083,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 317275,
@@ -1371,6 +1403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260928,
+      "num": 260928,
+      "word": "骨科医生推荐的正确睡姿",
+      "onboard_time": 1739369903,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 258883,
       "num": 210526,
       "word": "当我问Deepseek26岁的存款现状",
@@ -1385,14 +1425,6 @@
       "onboard_time": 1739289021,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 258444,
-      "num": 258444,
-      "word": "骨科医生推荐的正确睡姿",
-      "onboard_time": 1739369903,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 253546,
@@ -1521,6 +1553,14 @@
       "onboard_time": 1739355860,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 232303,
+      "num": 232303,
+      "word": "大张伟六年前就给哪吒写了歌",
+      "onboard_time": 1739370682,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 231683,
@@ -1699,6 +1739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 214374,
+      "num": 269859,
+      "word": "KPL宣传片",
+      "onboard_time": 1739372842,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 213866,
       "num": 213866,
       "word": "哪吒2票房已破91亿",
@@ -1747,14 +1795,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 209437,
-      "num": 247104,
-      "word": "全球首例同时换脸换手男子结婚",
-      "onboard_time": 1739369544,
-      "rank": 49,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 208487,
       "num": 208487,
       "word": "妲己打火舞",
@@ -1771,12 +1811,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 204944,
-      "num": 204944,
-      "word": "大张伟六年前就给哪吒写了歌",
-      "onboard_time": 1739370682,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 207390,
+      "num": 207390,
+      "word": "饺子导演",
+      "onboard_time": 1739371342,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 204369,
@@ -1979,6 +2019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190998,
+      "num": 190998,
+      "word": "朱志鑫吃汤圆",
+      "onboard_time": 1739372781,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190962,
       "num": 190962,
       "word": "滤镜",
@@ -2163,6 +2211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178055,
+      "num": 178055,
+      "word": "毛不易郁可唯对我耳朵好",
+      "onboard_time": 1739373082,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176877,
       "num": 245216,
       "word": "朱易比赛结束收获娃娃雨",
@@ -2256,6 +2312,14 @@
       "word": "元宵节月圆人圆事事圆",
       "onboard_time": 1739330780,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170320,
+      "num": 343519,
+      "word": "去世白龙马主人获赠1匹新白马",
+      "onboard_time": 1739372542,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -2435,14 +2499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157357,
-      "num": 157357,
-      "word": "44岁宝妈怀第7胎已生4女2男",
-      "onboard_time": 1739370622,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 155611,
       "num": 155611,
       "word": "泽连斯基称计划同俄互换部分领土",
@@ -2465,6 +2521,14 @@
       "onboard_time": 1739320820,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 151749,
+      "num": 151749,
+      "word": "杨幂的年终总结",
+      "onboard_time": 1739373321,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 151526,
@@ -2523,6 +2587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146395,
+      "num": 146395,
+      "word": "央妈很懂我",
+      "onboard_time": 1739373682,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145786,
       "num": 145786,
       "word": "只要你",
@@ -2577,6 +2649,14 @@
       "onboard_time": 1739328140,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 141686,
+      "num": 141686,
+      "word": "KSG回应宣传片",
+      "onboard_time": 1739372421,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 140377,
@@ -2793,6 +2873,14 @@
       "onboard_time": 1739327538,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122633,
+      "num": 122633,
+      "word": "海口烟花",
+      "onboard_time": 1739370863,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121116,
@@ -3577,6 +3665,14 @@
       "onboard_time": 1739320579,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42784,
+      "num": 462350,
+      "word": "解放军淮北舰喊话台舰送祝福",
+      "onboard_time": 1739372722,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 42391,
