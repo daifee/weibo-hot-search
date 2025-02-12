@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739355838570,
+  "endTime": 1739356865172,
   "band_list": [
     {
       "raw_hot": 10037874,
@@ -75,6 +75,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2710585,
+      "num": 503155,
+      "word": "唐艺昕发与张若昀亲吻照",
+      "onboard_time": 1739353580,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2550003,
       "num": 1801583,
       "word": "宝妈入住月子中心不到1天投湖轻生",
@@ -113,14 +121,6 @@
       "onboard_time": 1739108782,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2366107,
-      "num": 503155,
-      "word": "唐艺昕发与张若昀亲吻照",
-      "onboard_time": 1739353580,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 2207230,
@@ -473,6 +473,14 @@
       "onboard_time": 1739187682,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1491442,
+      "num": 1491442,
+      "word": "小县城凭哪吒分账票房冲进全国前5",
+      "onboard_time": 1739353821,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 1470037,
@@ -1099,14 +1107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 875571,
-      "num": 659060,
-      "word": "小县城凭哪吒分账票房冲进全国前5",
-      "onboard_time": 1739353821,
-      "rank": 6,
-      "category": "电影"
-    },
-    {
       "raw_hot": 873545,
       "num": 873545,
       "word": "全球票房榜",
@@ -1355,6 +1355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 785312,
+      "num": 306793,
+      "word": "哪吒里唯一绝望的人出现了",
+      "onboard_time": 1739355921,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 780838,
       "num": 780838,
       "word": "张伟丽vs苏亚雷斯",
@@ -1531,6 +1539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 719591,
+      "num": 719591,
+      "word": "炸汤圆",
+      "onboard_time": 1739351240,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 719386,
       "num": 1115101,
       "word": "哪吒2被偷票房损失惨重是影城非片方",
@@ -1705,14 +1721,6 @@
       "onboard_time": 1739101401,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 661504,
-      "num": 661504,
-      "word": "炸汤圆",
-      "onboard_time": 1739351240,
-      "rank": 26,
-      "category": "美食"
     },
     {
       "raw_hot": 660338,
@@ -3739,6 +3747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 312638,
+      "num": 312638,
+      "word": "元宵节快乐",
+      "onboard_time": 1739340200,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 311172,
       "num": 379578,
       "word": "樊振东对乒乓球还有更长远的向往",
@@ -3900,7 +3916,7 @@
     },
     {
       "raw_hot": 298695,
-      "num": 267580,
+      "num": 268805,
       "word": "周鸿祎被中奖用户挂掉电话",
       "onboard_time": 1739353639,
       "rank": 22,
@@ -4153,6 +4169,14 @@
       "onboard_time": 1739087180,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 279771,
+      "num": 279771,
+      "word": "哪吒2票房",
+      "onboard_time": 1739123894,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 279090,
@@ -4547,14 +4571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 252302,
-      "num": 252302,
-      "word": "元宵节快乐",
-      "onboard_time": 1739340200,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 250691,
       "num": 250691,
       "word": "五福临门大结局",
@@ -4713,6 +4729,22 @@
       "onboard_time": 1739268682,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 243008,
+      "num": 243008,
+      "word": "元宵",
+      "onboard_time": 1739350039,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 242872,
+      "num": 309503,
+      "word": "AI无法预测彩票中奖号码",
+      "onboard_time": 1739353281,
+      "rank": 41,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 242838,
@@ -4905,6 +4937,14 @@
       "onboard_time": 1739107941,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 232312,
+      "num": 232312,
+      "word": "杨紫家业妆造变化",
+      "onboard_time": 1739355860,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 231683,
@@ -5851,14 +5891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 203806,
-      "num": 203806,
-      "word": "哪吒2票房",
-      "onboard_time": 1739123894,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 203365,
       "num": 203365,
       "word": "山东一交警被无证司机冲撞不幸牺牲",
@@ -6099,6 +6131,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 198674,
+      "num": 198674,
+      "word": "董思成红温",
+      "onboard_time": 1739356162,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198496,
       "num": 198496,
       "word": "在仙侠剧看见我本位型女主了",
@@ -6129,6 +6169,14 @@
       "onboard_time": 1739153540,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198063,
+      "num": 195805,
+      "word": "王一博腰上这一堆得多少斤",
+      "onboard_time": 1739355921,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 197952,
@@ -6241,6 +6289,14 @@
       "onboard_time": 1739118019,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 197017,
+      "num": 197017,
+      "word": "杨幂元宵节随拍",
+      "onboard_time": 1739355682,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 196939,
@@ -6667,14 +6723,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189410,
-      "num": 189410,
-      "word": "元宵",
-      "onboard_time": 1739350039,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 189366,
       "num": 189366,
       "word": "亲人离世是一生学不会的必修课",
@@ -6971,6 +7019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183339,
+      "num": 183339,
+      "word": "鞠婧祎花好月圆小花仙",
+      "onboard_time": 1739355741,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183273,
       "num": 444790,
       "word": "王家卫说希望苏丽珍可以走得更远",
@@ -6984,14 +7040,6 @@
       "word": "张真源出发非洲机场look",
       "onboard_time": 1739254220,
       "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 182953,
-      "num": 182953,
-      "word": "杨幂元宵节随拍",
-      "onboard_time": 1739355682,
-      "rank": 38,
       "category": "艺人"
     },
     {
@@ -7040,6 +7088,14 @@
       "word": "六姊妹版酱门毒后",
       "onboard_time": 1739276661,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 181317,
+      "num": 181317,
+      "word": "董思成黄杨钿甜被喊爸爸妈妈的反应",
+      "onboard_time": 1739356221,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -7363,14 +7419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 174299,
-      "num": 174299,
-      "word": "AI无法预测彩票中奖号码",
-      "onboard_time": 1739353281,
-      "rank": 41,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 174231,
       "num": 174231,
       "word": "四川成都新型碰瓷方式出现",
@@ -7529,6 +7577,14 @@
       "onboard_time": 1739276661,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171298,
+      "num": 504935,
+      "word": "中国体彩辟谣AI可以预测中奖号码",
+      "onboard_time": 1739354900,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 171109,
@@ -7785,6 +7841,14 @@
       "onboard_time": 1739251160,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166487,
+      "num": 166487,
+      "word": "吴昕推荐蒋梦婕上浪姐",
+      "onboard_time": 1739356402,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 166390,
@@ -8636,7 +8700,7 @@
     },
     {
       "raw_hot": 148976,
-      "num": 148976,
+      "num": 204312,
       "word": "俄方回应乌总统与俄交换土地提议",
       "onboard_time": 1739355682,
       "rank": 48,
@@ -9683,14 +9747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 123236,
-      "num": 504935,
-      "word": "中国体彩辟谣AI可以预测中奖号码",
-      "onboard_time": 1739354900,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 123170,
       "num": 251307,
       "word": "深蓝全系搭载智驾",
@@ -10427,6 +10483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 100480,
+      "num": 297813,
+      "word": "HANNI拿到签证",
+      "onboard_time": 1739355921,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100419,
       "num": 100419,
       "word": "董思成古装",
@@ -10692,7 +10756,7 @@
     },
     {
       "raw_hot": 85145,
-      "num": 190302,
+      "num": 279683,
       "word": "张卫平说崔永熙很热血",
       "onboard_time": 1739355800,
       "rank": 34,
@@ -11643,6 +11707,14 @@
       "category": "民生新闻,情感"
     },
     {
+      "raw_hot": 52513,
+      "num": 299381,
+      "word": "朱易短节目第六",
+      "onboard_time": 1739356042,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52098,
       "num": 195694,
       "word": "电饭锅焖的小香薯",
@@ -11996,7 +12068,7 @@
     },
     {
       "raw_hot": 41249,
-      "num": 233293,
+      "num": 279622,
       "word": "魏建军称智能驾驶实践出真知",
       "onboard_time": 1739355320,
       "rank": 29,
@@ -12081,6 +12153,14 @@
       "onboard_time": 1739243420,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 38925,
+      "num": 297385,
+      "word": "实测多款AI均拒绝预测中奖号码",
+      "onboard_time": 1739356102,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38863,
@@ -12635,12 +12715,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24154,
+      "num": 304657,
+      "word": "AI的任何预测对彩票中奖毫无作用",
+      "onboard_time": 1739356281,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24149,
       "num": 24149,
       "word": "蛇来运转春节档",
       "onboard_time": 1739049491,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 23572,
+      "num": 248378,
+      "word": "霍启刚亚冬会运动员村vlog",
+      "onboard_time": 1739355979,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 23551,

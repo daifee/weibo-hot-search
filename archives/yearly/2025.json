@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1739355838570,
+  "endTime": 1739356865172,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1411,6 +1411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2710585,
+      "num": 503155,
+      "word": "唐艺昕发与张若昀亲吻照",
+      "onboard_time": 1739353580,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2693767,
       "num": 1704350,
       "word": "众星发声悼念",
@@ -1785,14 +1793,6 @@
       "onboard_time": 1739108782,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2366107,
-      "num": 503155,
-      "word": "唐艺昕发与张若昀亲吻照",
-      "onboard_time": 1739353580,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 2363224,

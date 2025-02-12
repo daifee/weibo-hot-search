@@ -1,0 +1,410 @@
+{
+  "runTime": 1739356865172,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1491442,
+        "num": 1491442,
+        "word": "小县城凭哪吒分账票房冲进全国前5",
+        "onboard_time": 1739353821,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1145255,
+        "num": 1145255,
+        "word": "复旦欢迎中国籍留学生直博引热议",
+        "onboard_time": 1739353281,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 46669,
+        "num": 868905,
+        "word": "正月十五赏花灯",
+        "onboard_time": 1739332822,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 860570,
+        "num": 860570,
+        "word": "哪吒2票房突破94亿",
+        "onboard_time": 1739348000,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 719591,
+        "num": 719591,
+        "word": "炸汤圆",
+        "onboard_time": 1739351240,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1008185,
+        "num": 692016,
+        "word": "ABC拿经期性感当卖点离了大谱",
+        "onboard_time": 1739346200,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 770025,
+        "num": 679330,
+        "word": "全球票房",
+        "onboard_time": 1739339540,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 469898,
+        "num": 469898,
+        "word": "公司曝光沈小婷身份证",
+        "onboard_time": 1739341880,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420036,
+        "num": 420036,
+        "word": "麦当劳涨价0.5元",
+        "onboard_time": 1739350580,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 312638,
+        "num": 312638,
+        "word": "元宵节快乐",
+        "onboard_time": 1739340200,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2710585,
+        "num": 311851,
+        "word": "唐艺昕发与张若昀亲吻照",
+        "onboard_time": 1739353580,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242872,
+        "num": 309503,
+        "word": "AI无法预测彩票中奖号码",
+        "onboard_time": 1739353281,
+        "rank": 11,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1666725,
+        "num": 307771,
+        "word": "李明德倒数",
+        "onboard_time": 1739355081,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 785312,
+        "num": 306793,
+        "word": "哪吒里唯一绝望的人出现了",
+        "onboard_time": 1739355921,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24154,
+        "num": 304657,
+        "word": "AI的任何预测对彩票中奖毫无作用",
+        "onboard_time": 1739356281,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 378223,
+        "num": 303678,
+        "word": "难哄台词 咯噔文学",
+        "onboard_time": 1739350880,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 365980,
+        "num": 301660,
+        "word": "蛇年元宵晚会节目单公布",
+        "onboard_time": 1739327420,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52513,
+        "num": 299381,
+        "word": "朱易短节目第六",
+        "onboard_time": 1739356042,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100480,
+        "num": 297813,
+        "word": "HANNI拿到签证",
+        "onboard_time": 1739355921,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38925,
+        "num": 297385,
+        "word": "实测多款AI均拒绝预测中奖号码",
+        "onboard_time": 1739356102,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 357482,
+        "num": 294764,
+        "word": "哪吒2",
+        "onboard_time": 1739347820,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 336821,
+        "num": 294159,
+        "word": "男子刮刮乐中25万淡定问店主能兑吗",
+        "onboard_time": 1739336301,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292530,
+        "num": 292530,
+        "word": "生9女1男女子回应网友质疑如何养活",
+        "onboard_time": 1739344342,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279771,
+        "num": 279771,
+        "word": "哪吒2票房",
+        "onboard_time": 1739351900,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 59460,
+        "num": 279683,
+        "word": "张卫平说崔永熙很热血",
+        "onboard_time": 1739355800,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171298,
+        "num": 279646,
+        "word": "中国体彩辟谣AI可以预测中奖号码",
+        "onboard_time": 1739354900,
+        "rank": 25,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 35229,
+        "num": 279622,
+        "word": "魏建军称智能驾驶实践出真知",
+        "onboard_time": 1739355320,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 279617,
+        "num": 279617,
+        "word": "归棹",
+        "onboard_time": 1739354120,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268805,
+        "num": 268805,
+        "word": "周鸿祎被中奖用户挂掉电话",
+        "onboard_time": 1739353639,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 23572,
+        "num": 248378,
+        "word": "霍启刚亚冬会运动员村vlog",
+        "onboard_time": 1739355979,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243008,
+        "num": 243008,
+        "word": "元宵",
+        "onboard_time": 1739350039,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232312,
+        "num": 232312,
+        "word": "杨紫家业妆造变化",
+        "onboard_time": 1739355860,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222589,
+        "num": 222589,
+        "word": "宝妈入住月子中心不到1天投湖轻生",
+        "onboard_time": 1739335402,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218777,
+        "num": 218777,
+        "word": "山东人不语只是一味买票",
+        "onboard_time": 1739353099,
+        "rank": 33,
+        "category": "民生新闻,幽默"
+      },
+      {
+        "raw_hot": 210384,
+        "num": 210384,
+        "word": "汤圆",
+        "onboard_time": 1739351959,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 122069,
+        "num": 204312,
+        "word": "俄方回应乌总统与俄交换土地提议",
+        "onboard_time": 1739355682,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 198674,
+        "num": 198674,
+        "word": "董思成红温",
+        "onboard_time": 1739356162,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198659,
+        "num": 198659,
+        "word": "胡彦斌怎么连招聘都自己做啊",
+        "onboard_time": 1739346500,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197017,
+        "num": 197017,
+        "word": "杨幂元宵节随拍",
+        "onboard_time": 1739355682,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198063,
+        "num": 195805,
+        "word": "王一博腰上这一堆得多少斤",
+        "onboard_time": 1739355921,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193567,
+        "num": 193567,
+        "word": "难哄",
+        "onboard_time": 1739356581,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193214,
+        "num": 193214,
+        "word": "上美藕饼",
+        "onboard_time": 1739346441,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 184321,
+        "num": 184321,
+        "word": "AG对战WB",
+        "onboard_time": 1739354781,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 183339,
+        "num": 183339,
+        "word": "鞠婧祎花好月圆小花仙",
+        "onboard_time": 1739355741,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181317,
+        "num": 181317,
+        "word": "董思成黄杨钿甜被喊爸爸妈妈的反应",
+        "onboard_time": 1739356221,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178113,
+        "num": 178113,
+        "word": "五福临门",
+        "onboard_time": 1739341521,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175432,
+        "num": 175432,
+        "word": "白鹿元宵节请客",
+        "onboard_time": 1739353160,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170997,
+        "num": 170997,
+        "word": "种地吧",
+        "onboard_time": 1739350580,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166487,
+        "num": 166487,
+        "word": "吴昕推荐蒋梦婕上浪姐",
+        "onboard_time": 1739356402,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164215,
+        "num": 164215,
+        "word": "唐艺昕晒一家三口合照",
+        "onboard_time": 1739353879,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#把各民族优秀传统文化发扬光大#"
+    }
+  }
+}
