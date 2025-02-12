@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739349727723,
+  "endTime": 1739352248006,
   "band_list": [
     {
       "raw_hot": 10037874,
@@ -692,7 +692,7 @@
     },
     {
       "raw_hot": 1145972,
-      "num": 286222,
+      "num": 311783,
       "word": "生9女1男女子回应网友质疑如何养活",
       "onboard_time": 1739344342,
       "rank": 29,
@@ -769,6 +769,14 @@
       "onboard_time": 1739095759,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1084306,
+      "num": 1084306,
+      "word": "哪吒2票房突破94亿",
+      "onboard_time": 1739348000,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 1080086,
@@ -1049,6 +1057,14 @@
       "onboard_time": 1739159121,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 888097,
+      "num": 324617,
+      "word": "胡彦斌怎么连招聘都自己做啊",
+      "onboard_time": 1739346500,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 873545,
@@ -1411,6 +1427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 739263,
+      "num": 375434,
+      "word": "上美藕饼",
+      "onboard_time": 1739346441,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 739127,
       "num": 739127,
       "word": "40多万买新奔驰竟是卖过的故障车",
@@ -1691,14 +1715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 652473,
-      "num": 324617,
-      "word": "胡彦斌怎么连招聘都自己做啊",
-      "onboard_time": 1739346500,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 651461,
       "num": 651461,
       "word": "特朗普说吞并加拿大我是认真的",
@@ -1809,14 +1825,6 @@
       "onboard_time": 1739282543,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 623938,
-      "num": 321143,
-      "word": "哪吒2票房突破94亿",
-      "onboard_time": 1739348000,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 623910,
@@ -2203,6 +2211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 540362,
+      "num": 313986,
+      "word": "难哄台词 咯噔文学",
+      "onboard_time": 1739350880,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 539946,
       "num": 539946,
       "word": "天官赐福",
@@ -2547,6 +2563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 489787,
+      "num": 408140,
+      "word": "哪吒2",
+      "onboard_time": 1739026343,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 485725,
       "num": 407216,
       "word": "怪不得太乙真人说这才像正版哪吒",
@@ -2577,6 +2601,14 @@
       "onboard_time": 1739059637,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 477646,
+      "num": 477646,
+      "word": "金价大涨背后推手是谁",
+      "onboard_time": 1739348000,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 474100,
@@ -2761,6 +2793,14 @@
       "onboard_time": 1739170279,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 426222,
+      "num": 426222,
+      "word": "麦当劳涨价0.5元",
+      "onboard_time": 1739350580,
+      "rank": 5,
+      "category": "美食"
     },
     {
       "raw_hot": 425832,
@@ -3019,6 +3059,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 395072,
+      "num": 308224,
+      "word": "种地吧",
+      "onboard_time": 1739350580,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 395006,
       "num": 280475,
       "word": "女子感觉洗头被烫伤店员说活不起",
@@ -3033,14 +3081,6 @@
       "onboard_time": 1739275942,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 391404,
-      "num": 408140,
-      "word": "哪吒2",
-      "onboard_time": 1739026343,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 390305,
@@ -3339,6 +3379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 343334,
+      "num": 343334,
+      "word": "社区与银行未经授权批量开养老金账户",
+      "onboard_time": 1739349200,
+      "rank": 13,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 342510,
       "num": 310037,
       "word": "真的不要把肉泡水里解冻了",
@@ -3435,14 +3483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 330130,
-      "num": 330130,
-      "word": "金价大涨背后推手是谁",
-      "onboard_time": 1739348000,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
       "raw_hot": 329167,
       "num": 329167,
       "word": "2025KPL春季赛定妆照",
@@ -3505,14 +3545,6 @@
       "onboard_time": 1739163802,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 325883,
-      "num": 279248,
-      "word": "上美藕饼",
-      "onboard_time": 1739346441,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 325333,
@@ -3721,6 +3753,14 @@
       "onboard_time": 1739070380,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 306908,
+      "num": 306908,
+      "word": "警方开始调查崔漫莉",
+      "onboard_time": 1739348422,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 306348,
@@ -4089,6 +4129,14 @@
       "onboard_time": 1739252900,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 277636,
+      "num": 277636,
+      "word": "湖南卫视公布元宵晚会节目单",
+      "onboard_time": 1739349321,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 276910,
@@ -4555,6 +4603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 243771,
+      "num": 270990,
+      "word": "电影封神第二部",
+      "onboard_time": 1739349620,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 243436,
       "num": 221507,
       "word": "有故人之姿因为就是故人",
@@ -5003,6 +5059,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 222430,
+      "num": 222430,
+      "word": "汤圆",
+      "onboard_time": 1739319259,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 222251,
       "num": 222251,
       "word": "孙怡新剧初恋姐感",
@@ -5169,6 +5233,14 @@
       "onboard_time": 1739316857,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217546,
+      "num": 217546,
+      "word": "王楚钦孙颖莎领衔重庆冠军赛阵容",
+      "onboard_time": 1739350101,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 217393,
@@ -5483,6 +5555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208129,
+      "num": 208129,
+      "word": "21时53分月亮最圆",
+      "onboard_time": 1739350101,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207932,
       "num": 207932,
       "word": "演员请就位3",
@@ -5771,6 +5851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202171,
+      "num": 202171,
+      "word": "种地吧直播",
+      "onboard_time": 1739326999,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202088,
       "num": 202088,
       "word": "好小众的一款魔尊人设",
@@ -5953,6 +6041,14 @@
       "onboard_time": 1739155880,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 197711,
+      "num": 197711,
+      "word": "让樊振东陈梦马龙回归赛场",
+      "onboard_time": 1739351840,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 197710,
@@ -7043,6 +7139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175738,
+      "num": 175738,
+      "word": "动物园保洁阿姨30元卖老虎毛被开除",
+      "onboard_time": 1739350280,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175682,
       "num": 175682,
       "word": "女子称给差评后被商家找到父亲单位",
@@ -7083,6 +7187,14 @@
       "category": "演出,综艺"
     },
     {
+      "raw_hot": 174537,
+      "num": 174537,
+      "word": "元宵",
+      "onboard_time": 1739350039,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174433,
       "num": 555945,
       "word": "宜宾筠连滑坡山体垂直高差达437米",
@@ -7105,6 +7217,14 @@
       "onboard_time": 1739083039,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173920,
+      "num": 173920,
+      "word": "血女图",
+      "onboard_time": 1739352080,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 173629,
@@ -7579,6 +7699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164637,
+      "num": 245216,
+      "word": "朱易比赛结束收获娃娃雨",
+      "onboard_time": 1739351000,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164533,
       "num": 164533,
       "word": "唐探1900彩蛋与现实callback",
@@ -7899,6 +8027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158288,
+      "num": 307193,
+      "word": "无畏辅助",
+      "onboard_time": 1739348300,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 157976,
       "num": 157976,
       "word": "詹姆斯为东契奇抱不平",
@@ -8044,7 +8180,7 @@
     },
     {
       "raw_hot": 155434,
-      "num": 273533,
+      "num": 311939,
       "word": "6岁版海阳大秧歌奶凶奶凶也撩人",
       "onboard_time": 1739349140,
       "rank": 32,
@@ -8331,14 +8467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 147742,
-      "num": 270990,
-      "word": "电影封神第二部",
-      "onboard_time": 1739349620,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
       "raw_hot": 147480,
       "num": 147480,
       "word": "美国近70人感染H5N1型禽流感",
@@ -8529,6 +8657,14 @@
       "onboard_time": 1739330540,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144614,
+      "num": 310896,
+      "word": "今晚十五的月亮十五圆",
+      "onboard_time": 1739351900,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144177,
@@ -9811,14 +9947,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 110725,
-      "num": 110725,
-      "word": "种地吧直播",
-      "onboard_time": 1739326999,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 110188,
       "num": 146555,
       "word": "导演饺子初学动画为10秒镜头渲染3天",
@@ -10171,14 +10299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95865,
-      "num": 95865,
-      "word": "汤圆",
-      "onboard_time": 1739319259,
-      "rank": 46,
-      "category": "美食"
-    },
-    {
       "raw_hot": 95848,
       "num": 95848,
       "word": "东契奇效应",
@@ -10523,14 +10643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 78392,
-      "num": 283073,
-      "word": "警方开始调查崔漫莉",
-      "onboard_time": 1739348422,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 78237,
       "num": 196952,
       "word": "文在寅说戒严后愧疚得睡不着觉",
@@ -10843,6 +10955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 64382,
+      "num": 246754,
+      "word": "林孝埈中文祝元宵节快乐",
+      "onboard_time": 1739351661,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64268,
       "num": 64268,
       "word": "杨子许佳琪搭戏",
@@ -11153,6 +11273,14 @@
       "onboard_time": 1739304071,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55657,
+      "num": 230973,
+      "word": "余莺儿扮演者称驾车逃逸是乱吹牛",
+      "onboard_time": 1739352140,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 55615,
@@ -11593,14 +11721,6 @@
       "onboard_time": 1739158762,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 42860,
-      "num": 284918,
-      "word": "社区与银行未经授权批量开养老金账户",
-      "onboard_time": 1739349200,
-      "rank": 13,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 42529,
@@ -12148,7 +12268,7 @@
     },
     {
       "raw_hot": 27166,
-      "num": 202889,
+      "num": 309161,
       "word": "王珞丹浪姐6录制",
       "onboard_time": 1739348900,
       "rank": 41,
@@ -12241,6 +12361,14 @@
       "onboard_time": 1739298793,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 24611,
+      "num": 309778,
+      "word": "为什么哪吒形象如此受欢迎",
+      "onboard_time": 1739351360,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 24158,
@@ -12395,6 +12523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21387,
+      "num": 312809,
+      "word": "申公豹的结巴需要心理脱敏",
+      "onboard_time": 1739351480,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 21271,
       "num": 21271,
       "word": "刘宇宁央视元宵晚会彩排",
@@ -12489,6 +12625,14 @@
       "onboard_time": 1739162242,
       "rank": 21,
       "category": "财经"
+    },
+    {
+      "raw_hot": 18866,
+      "num": 1258462,
+      "word": "元宵晒团圆",
+      "onboard_time": 1739350820,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18648,

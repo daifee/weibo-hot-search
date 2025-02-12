@@ -1,0 +1,410 @@
+{
+  "runTime": 1739352248006,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2203105,
+        "num": 2203105,
+        "word": "ABC拿经期性感当卖点离了大谱",
+        "onboard_time": 1739346200,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1468874,
+        "num": 1468874,
+        "word": "全球票房",
+        "onboard_time": 1739339540,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18866,
+        "num": 1258462,
+        "word": "元宵晒团圆",
+        "onboard_time": 1739350820,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1084306,
+        "num": 1084306,
+        "word": "哪吒2票房突破94亿",
+        "onboard_time": 1739348000,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 477646,
+        "num": 477646,
+        "word": "金价大涨背后推手是谁",
+        "onboard_time": 1739348000,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 426222,
+        "num": 426222,
+        "word": "麦当劳涨价0.5元",
+        "onboard_time": 1739350580,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 832535,
+        "num": 400206,
+        "word": "公司曝光沈小婷身份证",
+        "onboard_time": 1739341880,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 739263,
+        "num": 375434,
+        "word": "上美藕饼",
+        "onboard_time": 1739346441,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 343334,
+        "num": 343334,
+        "word": "社区与银行未经授权批量开养老金账户",
+        "onboard_time": 1739349200,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 315218,
+        "num": 315218,
+        "word": "JDG 回家吧孩子",
+        "onboard_time": 1739346801,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 888097,
+        "num": 314774,
+        "word": "胡彦斌怎么连招聘都自己做啊",
+        "onboard_time": 1739346500,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 563411,
+        "num": 314428,
+        "word": "男子刮刮乐中25万淡定问店主能兑吗",
+        "onboard_time": 1739336301,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 540362,
+        "num": 313986,
+        "word": "难哄台词 咯噔文学",
+        "onboard_time": 1739350880,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 528726,
+        "num": 313186,
+        "word": "蛇年元宵晚会节目单公布",
+        "onboard_time": 1739327420,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21387,
+        "num": 312809,
+        "word": "申公豹的结巴需要心理脱敏",
+        "onboard_time": 1739351480,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97349,
+        "num": 311939,
+        "word": "6岁版海阳大秧歌奶凶奶凶也撩人",
+        "onboard_time": 1739349140,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 399651,
+        "num": 311783,
+        "word": "生9女1男女子回应网友质疑如何养活",
+        "onboard_time": 1739344342,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144614,
+        "num": 310896,
+        "word": "今晚十五的月亮十五圆",
+        "onboard_time": 1739351900,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320017,
+        "num": 310238,
+        "word": "宝妈入住月子中心不到1天投湖轻生",
+        "onboard_time": 1739335402,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24611,
+        "num": 309778,
+        "word": "为什么哪吒形象如此受欢迎",
+        "onboard_time": 1739351360,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 22897,
+        "num": 309161,
+        "word": "王珞丹浪姐6录制",
+        "onboard_time": 1739348900,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 489787,
+        "num": 308811,
+        "word": "哪吒2",
+        "onboard_time": 1739347820,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 395072,
+        "num": 308224,
+        "word": "种地吧",
+        "onboard_time": 1739350580,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334271,
+        "num": 307621,
+        "word": "我开学了 你定档了",
+        "onboard_time": 1739331080,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158288,
+        "num": 307193,
+        "word": "无畏辅助",
+        "onboard_time": 1739348300,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 306908,
+        "num": 306908,
+        "word": "警方开始调查崔漫莉",
+        "onboard_time": 1739348422,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277636,
+        "num": 277636,
+        "word": "湖南卫视公布元宵晚会节目单",
+        "onboard_time": 1739349321,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256346,
+        "num": 256346,
+        "word": "女子感觉洗头被烫伤店员说活不起",
+        "onboard_time": 1739344400,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 478432,
+        "num": 251465,
+        "word": "赵露思请小谢和女儿去迪士尼",
+        "onboard_time": 1739344701,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64382,
+        "num": 246754,
+        "word": "林孝埈中文祝元宵节快乐",
+        "onboard_time": 1739351661,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164637,
+        "num": 245216,
+        "word": "朱易比赛结束收获娃娃雨",
+        "onboard_time": 1739351000,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243771,
+        "num": 243771,
+        "word": "电影封神第二部",
+        "onboard_time": 1739349620,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 241282,
+        "num": 241282,
+        "word": "宋妍霏浪姐6全妆路透",
+        "onboard_time": 1739348481,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55657,
+        "num": 230973,
+        "word": "余莺儿扮演者称驾车逃逸是乱吹牛",
+        "onboard_time": 1739352140,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222430,
+        "num": 222430,
+        "word": "汤圆",
+        "onboard_time": 1739351959,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 217546,
+        "num": 217546,
+        "word": "王楚钦孙颖莎领衔重庆冠军赛阵容",
+        "onboard_time": 1739350101,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214135,
+        "num": 214135,
+        "word": "海底捞回应招211或985学历外送员",
+        "onboard_time": 1739336423,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208129,
+        "num": 208129,
+        "word": "21时53分月亮最圆",
+        "onboard_time": 1739350101,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203323,
+        "num": 203323,
+        "word": "哪吒2票房也别保守到160亿",
+        "onboard_time": 1739345721,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202171,
+        "num": 202171,
+        "word": "种地吧直播",
+        "onboard_time": 1739351298,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199636,
+        "num": 199636,
+        "word": "国台办希望哪吒2尽快上映",
+        "onboard_time": 1739338281,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197711,
+        "num": 197711,
+        "word": "让樊振东陈梦马龙回归赛场",
+        "onboard_time": 1739351840,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191311,
+        "num": 191311,
+        "word": "哪吒2票房",
+        "onboard_time": 1739351900,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188631,
+        "num": 188631,
+        "word": "益禾堂薄荷奶绿",
+        "onboard_time": 1739334382,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 185854,
+        "num": 185854,
+        "word": "多平台下架ABC比基尼安睡裤",
+        "onboard_time": 1739348900,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146795,
+        "num": 182561,
+        "word": "解放军版烟花秀的满满安全感",
+        "onboard_time": 1739348780,
+        "rank": 45,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 181881,
+        "num": 181881,
+        "word": "孕期脐带打结几乎无法预防",
+        "onboard_time": 1739345481,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 175738,
+        "num": 175738,
+        "word": "动物园保洁阿姨30元卖老虎毛被开除",
+        "onboard_time": 1739350280,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174537,
+        "num": 174537,
+        "word": "元宵",
+        "onboard_time": 1739350039,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173920,
+        "num": 173920,
+        "word": "血女图",
+        "onboard_time": 1739352080,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#把各民族优秀传统文化发扬光大#"
+    }
+  }
+}
