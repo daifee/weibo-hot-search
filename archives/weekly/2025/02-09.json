@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739341875996,
+  "endTime": 1739342638836,
   "band_list": [
     {
       "raw_hot": 10037874,
@@ -625,6 +625,14 @@
       "onboard_time": 1739154379,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1178103,
+      "num": 373231,
+      "word": "殡仪馆证实男子放礼花弹爆炸离世",
+      "onboard_time": 1739341460,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1172015,
@@ -1499,6 +1507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 682258,
+      "num": 335545,
+      "word": "沈小婷被前公司起诉",
+      "onboard_time": 1739339241,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 681596,
       "num": 681596,
       "word": "徐梦桃夺金",
@@ -1739,6 +1755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 623910,
+      "num": 324217,
+      "word": "张馨予晒与老公何捷滑雪照",
+      "onboard_time": 1739338941,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 622457,
       "num": 531662,
       "word": "刘惜君对薛之谦已经产生抗体了",
@@ -1785,14 +1809,6 @@
       "onboard_time": 1739171900,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 607865,
-      "num": 329244,
-      "word": "沈小婷被前公司起诉",
-      "onboard_time": 1739339241,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 606051,
@@ -1859,19 +1875,19 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 598063,
-      "num": 310790,
-      "word": "张馨予晒与老公何捷滑雪照",
-      "onboard_time": 1739338941,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 597363,
       "num": 504332,
       "word": "敖丙一开始被设计为反派角色",
       "onboard_time": 1739316857,
       "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 597280,
+      "num": 302382,
+      "word": "全球票房",
+      "onboard_time": 1739339540,
+      "rank": 31,
       "category": "电影"
     },
     {
@@ -2379,6 +2395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 504734,
+      "num": 338817,
+      "word": "国台办希望哪吒2尽快上映",
+      "onboard_time": 1739338281,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 502940,
       "num": 502940,
       "word": "金包银项链1克金售价1900元",
@@ -2627,14 +2651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 440804,
-      "num": 338817,
-      "word": "国台办希望哪吒2尽快上映",
-      "onboard_time": 1739338281,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 439237,
       "num": 439237,
       "word": "金钟仁退伍",
@@ -2648,6 +2664,14 @@
       "word": "四川宜宾山体滑坡救援现场",
       "onboard_time": 1739071100,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 436526,
+      "num": 302228,
+      "word": "娃哈哈集团转让娃哈哈商标",
+      "onboard_time": 1739340982,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -2747,12 +2771,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 418340,
-      "num": 286945,
-      "word": "全球票房",
-      "onboard_time": 1739339540,
-      "rank": 31,
-      "category": "电影"
+      "raw_hot": 418851,
+      "num": 372590,
+      "word": "巴西一女子手机在裤兜中爆炸",
+      "onboard_time": 1739334862,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 415082,
@@ -2971,6 +2995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 387817,
+      "num": 301876,
+      "word": "五福临门",
+      "onboard_time": 1739022862,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 386765,
       "num": 284061,
       "word": "林允古装一番大女主剧",
@@ -3075,14 +3107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 372590,
-      "num": 372590,
-      "word": "巴西一女子手机在裤兜中爆炸",
-      "onboard_time": 1739334862,
-      "rank": 29,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 370234,
       "num": 370234,
       "word": "王濛发视频怒斥韩国选手推搡林孝埈",
@@ -3145,6 +3169,14 @@
       "onboard_time": 1739060117,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 358154,
+      "num": 302076,
+      "word": "公司曝光沈小婷身份证",
+      "onboard_time": 1739341880,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 355896,
@@ -3315,14 +3347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 332634,
-      "num": 332634,
-      "word": "殡仪馆证实男子放礼花弹爆炸离世",
-      "onboard_time": 1739341460,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 329167,
       "num": 329167,
       "word": "2025KPL春季赛定妆照",
@@ -3337,6 +3361,14 @@
       "onboard_time": 1739073620,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 327399,
+      "num": 301747,
+      "word": "五福临门见面会",
+      "onboard_time": 1739341160,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 327021,
@@ -3555,6 +3587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 307711,
+      "num": 301698,
+      "word": "花样年华排片",
+      "onboard_time": 1739341101,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 307393,
       "num": 324297,
       "word": "看唐探1900从呲个大牙到拉个大脸",
@@ -3596,7 +3636,7 @@
     },
     {
       "raw_hot": 304151,
-      "num": 278096,
+      "num": 298455,
       "word": "时代峰峻",
       "onboard_time": 1739337560,
       "rank": 38,
@@ -3617,6 +3657,14 @@
       "onboard_time": 1739330000,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 301554,
+      "num": 313244,
+      "word": "朱易短节目62.90分",
+      "onboard_time": 1739341101,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 300458,
@@ -3705,14 +3753,6 @@
       "onboard_time": 1739105662,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 294088,
-      "num": 276396,
-      "word": "五福临门",
-      "onboard_time": 1739022862,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 294088,
@@ -4027,16 +4067,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 270450,
-      "num": 270450,
-      "word": "娃哈哈集团转让娃哈哈商标",
-      "onboard_time": 1739340982,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 270315,
-      "num": 299340,
+      "num": 302502,
       "word": "朱易亚冬会首秀",
       "onboard_time": 1739338402,
       "rank": 19,
@@ -4057,6 +4089,14 @@
       "onboard_time": 1739339000,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 269607,
+      "num": 269607,
+      "word": "美国队长4",
+      "onboard_time": 1739339361,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 266997,
@@ -4081,14 +4121,6 @@
       "onboard_time": 1739156780,
       "rank": 23,
       "category": "电影,游戏"
-    },
-    {
-      "raw_hot": 266399,
-      "num": 294724,
-      "word": "五福临门见面会",
-      "onboard_time": 1739341160,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 265260,
@@ -4121,14 +4153,6 @@
       "onboard_time": 1739283742,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 260273,
-      "num": 260273,
-      "word": "美国队长4",
-      "onboard_time": 1739339361,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 259686,
@@ -4491,6 +4515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237423,
+      "num": 301686,
+      "word": "李宇春喊话龙丹妮录完了",
+      "onboard_time": 1739342360,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 236799,
       "num": 236799,
       "word": "千万不要学哪吒去收土拨鼠",
@@ -4593,6 +4625,14 @@
       "onboard_time": 1739107941,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 231683,
+      "num": 231683,
+      "word": "确认被爱后连面相都变了",
+      "onboard_time": 1739341521,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 231499,
@@ -5411,6 +5451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 205349,
+      "num": 205349,
+      "word": "贵州39岁女子回应生9女1男",
+      "onboard_time": 1739342120,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205050,
       "num": 205050,
       "word": "岳云鹏面试王宝强刘昊然左右为难",
@@ -5955,6 +6003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194420,
+      "num": 194420,
+      "word": "一姐全程做一",
+      "onboard_time": 1739342120,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194191,
       "num": 202124,
       "word": "张凌赫演得好灵",
@@ -6057,14 +6113,6 @@
       "onboard_time": 1739074459,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 192257,
-      "num": 268579,
-      "word": "花样年华排片",
-      "onboard_time": 1739341101,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 192238,
@@ -6521,14 +6569,6 @@
       "onboard_time": 1739182520,
       "rank": 49,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 181941,
-      "num": 313244,
-      "word": "朱易短节目62.90分",
-      "onboard_time": 1739341101,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 181907,
@@ -8627,6 +8667,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 133881,
+      "num": 301869,
+      "word": "樊振东千里红运",
+      "onboard_time": 1739341762,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133795,
       "num": 601564,
       "word": "医保及药监部门回应集采药品相关问题",
@@ -9193,14 +9241,6 @@
       "onboard_time": 1739233459,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118509,
-      "num": 289639,
-      "word": "樊振东千里红运",
-      "onboard_time": 1739341762,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 118457,
@@ -10203,6 +10243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76065,
+      "num": 324585,
+      "word": "当地市民作诗献花祭拜救人白龙马",
+      "onboard_time": 1739340501,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75672,
       "num": 118266,
       "word": "林孝埈打破韩国包揽9金的豪言",
@@ -10241,14 +10289,6 @@
       "onboard_time": 1739105122,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 72662,
-      "num": 324585,
-      "word": "当地市民作诗献花祭拜救人白龙马",
-      "onboard_time": 1739340501,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 72372,
@@ -10619,6 +10659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59680,
+      "num": 326820,
+      "word": "网友曝一萌宠园过年无人管有动物死亡",
+      "onboard_time": 1739340800,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59192,
       "num": 324181,
       "word": "四川筠连山体滑坡现场进行网格化搜救",
@@ -10745,6 +10793,14 @@
       "onboard_time": 1739255300,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54841,
+      "num": 323658,
+      "word": "中国小伙越野滑雪接力金牌",
+      "onboard_time": 1739341280,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 54646,
@@ -10921,6 +10977,14 @@
       "onboard_time": 1739035816,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 49898,
+      "num": 291551,
+      "word": "札幌孩子踏着比自己高的雪去上学",
+      "onboard_time": 1739340742,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 49343,
@@ -11187,14 +11251,6 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 40124,
-      "num": 326820,
-      "word": "网友曝一萌宠园过年无人管有动物死亡",
-      "onboard_time": 1739340800,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39994,
       "num": 217686,
       "word": "泰国总理感谢中国女保镖",
@@ -11209,14 +11265,6 @@
       "onboard_time": 1739200339,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39691,
-      "num": 291551,
-      "word": "札幌孩子踏着比自己高的雪去上学",
-      "onboard_time": 1739340742,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 39651,
@@ -11475,14 +11523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 32943,
-      "num": 323658,
-      "word": "中国小伙越野滑雪接力金牌",
-      "onboard_time": 1739341280,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 32779,
       "num": 473363,
       "word": "布鲁尔金牌",
@@ -11707,6 +11747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26216,
+      "num": 313761,
+      "word": "地下钱庄用虚拟货币转移资金超10亿",
+      "onboard_time": 1739340622,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25533,
       "num": 26741,
       "word": "哪吒之魔童闹海新年集福卡",
@@ -11769,6 +11817,14 @@
       "onboard_time": 1739243061,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 23459,
+      "num": 302131,
+      "word": "唐探正月十五特别MV",
+      "onboard_time": 1739341639,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 23418,
@@ -11891,14 +11947,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21458,
-      "num": 313761,
-      "word": "地下钱庄用虚拟货币转移资金超10亿",
-      "onboard_time": 1739340622,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 21271,
       "num": 21271,
       "word": "刘宇宁央视元宵晚会彩排",
@@ -11921,14 +11969,6 @@
       "onboard_time": 1739258780,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 20609,
-      "num": 301779,
-      "word": "唐探正月十五特别MV",
-      "onboard_time": 1739341639,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 20459,
@@ -12217,6 +12257,14 @@
       "onboard_time": 1739248463,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12843,
+      "num": 301610,
+      "word": "高中生活是场无法回放的电影",
+      "onboard_time": 1739342360,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 12814,

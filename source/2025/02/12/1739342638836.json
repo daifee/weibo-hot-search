@@ -1,0 +1,410 @@
+{
+  "runTime": 1739342638836,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 934349,
+        "num": 1149495,
+        "word": "我开学了 你定档了",
+        "onboard_time": 1739331080,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 571279,
+        "num": 571279,
+        "word": "海底捞回应招211或985学历外送员",
+        "onboard_time": 1739336423,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22795,
+        "num": 386064,
+        "word": "中国队已集齐3个金牌九宫格",
+        "onboard_time": 1739304071,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1178103,
+        "num": 373231,
+        "word": "殡仪馆证实男子放礼花弹爆炸离世",
+        "onboard_time": 1739341460,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 707191,
+        "num": 371576,
+        "word": "饺子导演穷到装都装不出来你有钱",
+        "onboard_time": 1739333481,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 359230,
+        "num": 359230,
+        "word": "王濛说林孝埈是我给整回来的",
+        "onboard_time": 1739335703,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 682258,
+        "num": 335545,
+        "word": "沈小婷被前公司起诉",
+        "onboard_time": 1739339241,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 623910,
+        "num": 324217,
+        "word": "张馨予晒与老公何捷滑雪照",
+        "onboard_time": 1739338941,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302544,
+        "num": 302544,
+        "word": "苏州终于要有机场了",
+        "onboard_time": 1739334622,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225297,
+        "num": 302502,
+        "word": "朱易亚冬会首秀",
+        "onboard_time": 1739338402,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1539236,
+        "num": 302485,
+        "word": "男子刮刮乐中25万淡定问店主能兑吗",
+        "onboard_time": 1739336301,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 644402,
+        "num": 302440,
+        "word": "宝妈入住月子中心不到1天投湖轻生",
+        "onboard_time": 1739335402,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 597280,
+        "num": 302382,
+        "word": "全球票房",
+        "onboard_time": 1739339540,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 579434,
+        "num": 302335,
+        "word": "哪吒2进全球票房榜前25",
+        "onboard_time": 1739334743,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 54841,
+        "num": 302275,
+        "word": "中国小伙越野滑雪接力金牌",
+        "onboard_time": 1739341280,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 504734,
+        "num": 302250,
+        "word": "国台办希望哪吒2尽快上映",
+        "onboard_time": 1739338281,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 436526,
+        "num": 302228,
+        "word": "娃哈哈集团转让娃哈哈商标",
+        "onboard_time": 1739340982,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418851,
+        "num": 302144,
+        "word": "巴西一女子手机在裤兜中爆炸",
+        "onboard_time": 1739334862,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 23459,
+        "num": 302131,
+        "word": "唐探正月十五特别MV",
+        "onboard_time": 1739341639,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 358154,
+        "num": 302076,
+        "word": "公司曝光沈小婷身份证",
+        "onboard_time": 1739341880,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59680,
+        "num": 302032,
+        "word": "网友曝一萌宠园过年无人管有动物死亡",
+        "onboard_time": 1739340800,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 561877,
+        "num": 301996,
+        "word": "蛇年元宵晚会节目单公布",
+        "onboard_time": 1739327420,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 425727,
+        "num": 301925,
+        "word": "谁家男女主亲完嘴还互擦啊",
+        "onboard_time": 1739331261,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 387817,
+        "num": 301876,
+        "word": "五福临门",
+        "onboard_time": 1739341521,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133881,
+        "num": 301869,
+        "word": "樊振东千里红运",
+        "onboard_time": 1739341762,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 363695,
+        "num": 301790,
+        "word": "多邻国猫头鹰去世",
+        "onboard_time": 1739326639,
+        "rank": 25,
+        "category": "互联网,教育"
+      },
+      {
+        "raw_hot": 327399,
+        "num": 301747,
+        "word": "五福临门见面会",
+        "onboard_time": 1739341160,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307711,
+        "num": 301698,
+        "word": "花样年华排片",
+        "onboard_time": 1739341101,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 237423,
+        "num": 301686,
+        "word": "李宇春喊话龙丹妮录完了",
+        "onboard_time": 1739342360,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12843,
+        "num": 301610,
+        "word": "高中生活是场无法回放的电影",
+        "onboard_time": 1739342360,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 385749,
+        "num": 301597,
+        "word": "益禾堂薄荷奶绿",
+        "onboard_time": 1739334382,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 301554,
+        "num": 301554,
+        "word": "朱易短节目62.90分",
+        "onboard_time": 1739341101,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299232,
+        "num": 299232,
+        "word": "by2差点回不了家",
+        "onboard_time": 1739337859,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298455,
+        "num": 298455,
+        "word": "时代峰峻",
+        "onboard_time": 1739337560,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 290886,
+        "num": 290886,
+        "word": "女子吐槽袜子上出现狗牵女性不雅图片",
+        "onboard_time": 1739326217,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270315,
+        "num": 270315,
+        "word": "哪吒",
+        "onboard_time": 1739315356,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 269607,
+        "num": 269607,
+        "word": "美国队长4",
+        "onboard_time": 1739339361,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 238335,
+        "num": 238335,
+        "word": "辛芷蕾穿了95年的古董高定",
+        "onboard_time": 1739339121,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231683,
+        "num": 231683,
+        "word": "确认被爱后连面相都变了",
+        "onboard_time": 1739341521,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 49898,
+        "num": 210774,
+        "word": "札幌孩子踏着比自己高的雪去上学",
+        "onboard_time": 1739340742,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 26216,
+        "num": 210586,
+        "word": "地下钱庄用虚拟货币转移资金超10亿",
+        "onboard_time": 1739340622,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210429,
+        "num": 210429,
+        "word": "张淼怡主演难哄",
+        "onboard_time": 1739331921,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205349,
+        "num": 205349,
+        "word": "贵州39岁女子回应生9女1男",
+        "onboard_time": 1739342120,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76065,
+        "num": 199737,
+        "word": "当地市民作诗献花祭拜救人白龙马",
+        "onboard_time": 1739340501,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195378,
+        "num": 195378,
+        "word": "敖丙",
+        "onboard_time": 1739342181,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16795,
+        "num": 194489,
+        "word": "胡兵三天四国时装周飞行vlog",
+        "onboard_time": 1739330841,
+        "rank": 45,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 194420,
+        "num": 194420,
+        "word": "一姐全程做一",
+        "onboard_time": 1739342120,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192183,
+        "num": 192183,
+        "word": "演员请就位3导师阵容官宣",
+        "onboard_time": 1739339000,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191084,
+        "num": 191084,
+        "word": "吴宣仪浪姐6上班造型",
+        "onboard_time": 1739336722,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186806,
+        "num": 186806,
+        "word": "男子酒后点燃礼花弹被炸当场身亡",
+        "onboard_time": 1739331921,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#把各民族优秀传统文化发扬光大#"
+    }
+  }
+}
