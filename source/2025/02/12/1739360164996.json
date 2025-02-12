@@ -1,0 +1,410 @@
+{
+  "runTime": 1739360164996,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1486125,
+        "num": 1486125,
+        "word": "小县城凭哪吒分账票房冲进全国前5",
+        "onboard_time": 1739353821,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 754998,
+        "num": 754998,
+        "word": "复旦欢迎中国籍留学生直博引热议",
+        "onboard_time": 1739353281,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 34050,
+        "num": 698143,
+        "word": "正月十五赏花灯",
+        "onboard_time": 1739332822,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1456343,
+        "num": 690553,
+        "word": "哪吒里唯一绝望的人出现了",
+        "onboard_time": 1739355921,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 677837,
+        "num": 677837,
+        "word": "夫妻吵架4岁孩子哭着收拾残局",
+        "onboard_time": 1739358561,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389315,
+        "num": 389315,
+        "word": "AI无法预测彩票中奖号码",
+        "onboard_time": 1739353281,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1101625,
+        "num": 388539,
+        "word": "哪吒2票房超95亿",
+        "onboard_time": 1739358261,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 441234,
+        "num": 388389,
+        "word": "公司曝光沈小婷身份证",
+        "onboard_time": 1739341880,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384993,
+        "num": 384993,
+        "word": "元宵节快乐",
+        "onboard_time": 1739340200,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 350329,
+        "num": 350329,
+        "word": "炸汤圆",
+        "onboard_time": 1739351240,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1008544,
+        "num": 344347,
+        "word": "李明德倒数",
+        "onboard_time": 1739355081,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287607,
+        "num": 335761,
+        "word": "广东一公交车起火致6人死亡",
+        "onboard_time": 1739358919,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 604393,
+        "num": 330721,
+        "word": "ABC拿经期性感当卖点离了大谱",
+        "onboard_time": 1739346200,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419152,
+        "num": 325238,
+        "word": "智恩涵 五代",
+        "onboard_time": 1739359160,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377698,
+        "num": 313736,
+        "word": "胡歌唐嫣携手走红毯",
+        "onboard_time": 1739358680,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 312182,
+        "num": 312182,
+        "word": "元宵节",
+        "onboard_time": 1739359341,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352555,
+        "num": 309755,
+        "word": "蛇年元宵晚会节目单公布",
+        "onboard_time": 1739327420,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352359,
+        "num": 306245,
+        "word": "杨幂元宵节随拍",
+        "onboard_time": 1739355682,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219107,
+        "num": 303030,
+        "word": "虞书欣车上随拍",
+        "onboard_time": 1739358561,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302404,
+        "num": 302404,
+        "word": "男子刮刮乐中25万淡定问店主能兑吗",
+        "onboard_time": 1739336301,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 556737,
+        "num": 300230,
+        "word": "女子年前卖掉为儿子攒的三金赚10多万",
+        "onboard_time": 1739358380,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336194,
+        "num": 299581,
+        "word": "哪吒2二刷及以上人群不到1成",
+        "onboard_time": 1739357840,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 295271,
+        "num": 295271,
+        "word": "全球票房",
+        "onboard_time": 1739339540,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 289583,
+        "num": 289583,
+        "word": "赵丽颖杨幂唐嫣新剧或将对打",
+        "onboard_time": 1739360122,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165874,
+        "num": 289559,
+        "word": "冰舞",
+        "onboard_time": 1739359701,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24499,
+        "num": 289549,
+        "word": "吴柳芳祝大家元宵节快乐",
+        "onboard_time": 1739359821,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289548,
+        "num": 289548,
+        "word": "哪吒2",
+        "onboard_time": 1739347820,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 277348,
+        "num": 277348,
+        "word": "胡彦斌女友视角",
+        "onboard_time": 1739357781,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180950,
+        "num": 264574,
+        "word": "湖南卫视元宵喜乐会",
+        "onboard_time": 1739359940,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35815,
+        "num": 257400,
+        "word": "一代人有一代人的皮影戏",
+        "onboard_time": 1739359101,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 253592,
+        "num": 253592,
+        "word": "元宵",
+        "onboard_time": 1739350039,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113075,
+        "num": 253563,
+        "word": "李云霄一曲相思祝福元宵佳节",
+        "onboard_time": 1739357840,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16035,
+        "num": 253547,
+        "word": "潘展乐孤勇者返场",
+        "onboard_time": 1739360000,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253546,
+        "num": 253546,
+        "word": "河南一动物园卖老虎毛称能辟邪挡灾",
+        "onboard_time": 1739358140,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245259,
+        "num": 245259,
+        "word": "王一博腰上这一堆得多少斤",
+        "onboard_time": 1739355921,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219272,
+        "num": 219272,
+        "word": "伪骨科现偶拍成这样拿什么输",
+        "onboard_time": 1739357781,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215866,
+        "num": 215866,
+        "word": "汤圆",
+        "onboard_time": 1739351959,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 208487,
+        "num": 208487,
+        "word": "妲己打火舞",
+        "onboard_time": 1739358741,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 205656,
+        "num": 205656,
+        "word": "麦当劳涨价0.5元",
+        "onboard_time": 1739350580,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 205143,
+        "num": 205143,
+        "word": "董思成跳了lucifer",
+        "onboard_time": 1739358020,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189241,
+        "num": 189241,
+        "word": "周鸿祎被中奖用户挂掉电话",
+        "onboard_time": 1739353639,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 186081,
+        "num": 186081,
+        "word": "哪吒2票房超冰雪奇缘",
+        "onboard_time": 1739359521,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171929,
+        "num": 171929,
+        "word": "归棹",
+        "onboard_time": 1739354120,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166012,
+        "num": 166012,
+        "word": "补作业",
+        "onboard_time": 1739359459,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165382,
+        "num": 165382,
+        "word": "杨紫家业妆造变化",
+        "onboard_time": 1739355860,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160521,
+        "num": 160521,
+        "word": "难哄台词 咯噔文学",
+        "onboard_time": 1739350880,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160040,
+        "num": 160040,
+        "word": "比邪恶车厘子更气人的是邪恶地中海",
+        "onboard_time": 1739360058,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152583,
+        "num": 152583,
+        "word": "虞书欣叫小石榴宝宝们",
+        "onboard_time": 1739357421,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149625,
+        "num": 149625,
+        "word": "君有疾否",
+        "onboard_time": 1739358561,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132184,
+        "num": 149397,
+        "word": "卫生巾不需要花里胡俏的功能",
+        "onboard_time": 1739357933,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#把各民族优秀传统文化发扬光大#"
+    }
+  }
+}
