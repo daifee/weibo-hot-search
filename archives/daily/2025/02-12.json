@@ -1,6 +1,6 @@
 {
   "startTime": 1739291403043,
-  "endTime": 1739353055536,
+  "endTime": 1739355838570,
   "band_list": [
     {
       "raw_hot": 2740229,
@@ -27,6 +27,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2366107,
+      "num": 503155,
+      "word": "唐艺昕发与张若昀亲吻照",
+      "onboard_time": 1739353580,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2207230,
       "num": 319973,
       "word": "李明德前女友好友晒聊天记录",
@@ -41,6 +49,14 @@
       "onboard_time": 1739326217,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2113091,
+      "num": 502296,
+      "word": "李明德倒数",
+      "onboard_time": 1739355081,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 2112118,
@@ -131,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1187833,
+      "num": 1187833,
+      "word": "复旦欢迎中国籍留学生直博引热议",
+      "onboard_time": 1739353281,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1156881,
       "num": 1156881,
       "word": "饺子导演穷到装都装不出来你有钱",
@@ -193,6 +217,14 @@
       "onboard_time": 1739346500,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 875571,
+      "num": 659060,
+      "word": "小县城凭哪吒分账票房冲进全国前5",
+      "onboard_time": 1739353821,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 830010,
@@ -324,7 +356,7 @@
     },
     {
       "raw_hot": 673182,
-      "num": 389991,
+      "num": 533327,
       "word": "难哄台词 咯噔文学",
       "onboard_time": 1739350880,
       "rank": 12,
@@ -337,6 +369,14 @@
       "onboard_time": 1739335703,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 661504,
+      "num": 661504,
+      "word": "炸汤圆",
+      "onboard_time": 1739351240,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 640495,
@@ -755,6 +795,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 309669,
+      "num": 309669,
+      "word": "归棹",
+      "onboard_time": 1739354120,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 307711,
       "num": 301698,
       "word": "花样年华排片",
@@ -811,12 +859,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 298695,
+      "num": 267580,
+      "word": "周鸿祎被中奖用户挂掉电话",
+      "onboard_time": 1739353639,
+      "rank": 22,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 296659,
       "num": 258059,
       "word": "我至死都会暴烈地爱你",
       "onboard_time": 1739332281,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 293644,
+      "num": 266477,
+      "word": "唐艺昕晒一家三口合照",
+      "onboard_time": 1739353879,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 287975,
@@ -849,6 +913,14 @@
       "onboard_time": 1739349321,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 277444,
+      "num": 277444,
+      "word": "山东人不语只是一味买票",
+      "onboard_time": 1739353099,
+      "rank": 17,
+      "category": "民生新闻,幽默"
     },
     {
       "raw_hot": 274191,
@@ -897,6 +969,14 @@
       "onboard_time": 1739342120,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 252302,
+      "num": 252302,
+      "word": "元宵节快乐",
+      "onboard_time": 1739340200,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 246134,
@@ -1003,12 +1083,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 229675,
-      "num": 229675,
-      "word": "炸汤圆",
-      "onboard_time": 1739351240,
-      "rank": 26,
-      "category": "美食"
+      "raw_hot": 230717,
+      "num": 230717,
+      "word": "天官赐福动画短片更新",
+      "onboard_time": 1739354960,
+      "rank": 30,
+      "category": "动漫"
     },
     {
       "raw_hot": 226725,
@@ -1155,6 +1235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202198,
+      "num": 274086,
+      "word": "没人告诉我梁洁这么有姐感",
+      "onboard_time": 1739354720,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202171,
       "num": 202171,
       "word": "种地吧直播",
@@ -1267,6 +1355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191236,
+      "num": 191236,
+      "word": "引导型恋人就是很好很好啊",
+      "onboard_time": 1739355141,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191095,
       "num": 191095,
       "word": "逐玉",
@@ -1299,14 +1395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 190171,
-      "num": 190171,
-      "word": "元宵节快乐",
-      "onboard_time": 1739340200,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 189832,
       "num": 401748,
       "word": "救人的白龙马死因是肠道绞窄",
@@ -1321,6 +1409,14 @@
       "onboard_time": 1739330900,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189410,
+      "num": 189410,
+      "word": "元宵",
+      "onboard_time": 1739350039,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189027,
@@ -1363,6 +1459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185423,
+      "num": 185423,
+      "word": "沈月坐地铁自拍",
+      "onboard_time": 1739353639,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184741,
       "num": 184741,
       "word": "李瓒killmehealyou",
@@ -1371,12 +1475,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184423,
+      "num": 184423,
+      "word": "AG对战WB",
+      "onboard_time": 1739354781,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 182953,
+      "num": 182953,
+      "word": "杨幂元宵节随拍",
+      "onboard_time": 1739355682,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182587,
       "num": 182587,
       "word": "KPL",
       "onboard_time": 1739328618,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 181164,
+      "num": 181164,
+      "word": "白鹿元宵节请客",
+      "onboard_time": 1739353160,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 180046,
@@ -1419,12 +1547,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 175398,
-      "num": 175398,
-      "word": "元宵",
-      "onboard_time": 1739350039,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 174299,
+      "num": 174299,
+      "word": "AI无法预测彩票中奖号码",
+      "onboard_time": 1739353281,
+      "rank": 41,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 174231,
@@ -1507,6 +1635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167072,
+      "num": 167072,
+      "word": "饺子谈哪吒2为什么能火",
+      "onboard_time": 1739354241,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 166219,
       "num": 270354,
       "word": "解放军版烟花秀的满满安全感",
@@ -1545,6 +1681,14 @@
       "onboard_time": 1739334021,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 164397,
+      "num": 164397,
+      "word": "张云雷跟风试了一下咖啡汤圆",
+      "onboard_time": 1739354420,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 164055,
@@ -1641,6 +1785,22 @@
       "onboard_time": 1739338520,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149128,
+      "num": 149128,
+      "word": "一想到开学我就",
+      "onboard_time": 1739354601,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 148976,
+      "num": 148976,
+      "word": "俄方回应乌总统与俄交换土地提议",
+      "onboard_time": 1739355682,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 147906,
@@ -1875,6 +2035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123236,
+      "num": 504935,
+      "word": "中国体彩辟谣AI可以预测中奖号码",
+      "onboard_time": 1739354900,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 121116,
       "num": 121116,
       "word": "石矶娘娘配音演员澄清不是行政人员",
@@ -2075,6 +2243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85145,
+      "num": 190302,
+      "word": "张卫平说崔永熙很热血",
+      "onboard_time": 1739355800,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83982,
       "num": 274476,
       "word": "无人机视角下的王一博攀冰",
@@ -2212,7 +2388,7 @@
     },
     {
       "raw_hot": 71753,
-      "num": 194702,
+      "num": 237142,
       "word": "国乒WTT重庆冠军赛报名名单",
       "onboard_time": 1739352920,
       "rank": 33,
@@ -2460,7 +2636,7 @@
     },
     {
       "raw_hot": 47618,
-      "num": 185973,
+      "num": 1041663,
       "word": "正月十五赏花灯",
       "onboard_time": 1739332822,
       "rank": 42,
@@ -2529,6 +2705,14 @@
       "onboard_time": 1739331381,
       "rank": 28,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 41249,
+      "num": 233293,
+      "word": "魏建军称智能驾驶实践出真知",
+      "onboard_time": 1739355320,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 40173,
@@ -2643,12 +2827,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25312,
+      "num": 270933,
+      "word": "余承恩苏言成收到一则返校通知",
+      "onboard_time": 1739354540,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 24749,
       "num": 31009,
       "word": "张峻豪弹壳合作新歌",
       "onboard_time": 1739298793,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 24724,
+      "num": 276383,
+      "word": "毛宁分享亚冬会温暖瞬间",
+      "onboard_time": 1739354781,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 23459,

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1739353055536,
+  "endTime": 1739355838570,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1787,6 +1787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2366107,
+      "num": 503155,
+      "word": "唐艺昕发与张若昀亲吻照",
+      "onboard_time": 1739353580,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2363224,
       "num": 1371308,
       "word": "周锐官宣恋情",
@@ -2259,6 +2267,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 2113091,
+      "num": 502296,
+      "word": "李明德倒数",
+      "onboard_time": 1739355081,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2112118,
       "num": 373231,
       "word": "殡仪馆证实男子放礼花弹爆炸离世",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1739336301,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2059436,
-      "num": 2059436,
-      "word": "休2上4休1",
-      "onboard_time": 1738637423,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2057350,
-      "num": 2057350,
-      "word": "哪吒2因为时长砍掉镜头",
-      "onboard_time": 1738486578,
-      "rank": 0,
-      "category": "电影"
     }
   ],
   "hotgov_list": [
