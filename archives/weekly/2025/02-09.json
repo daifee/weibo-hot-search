@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739356865172,
+  "endTime": 1739359165595,
   "band_list": [
     {
       "raw_hot": 10037874,
@@ -427,6 +427,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1591864,
+      "num": 1591864,
+      "word": "小县城凭哪吒分账票房冲进全国前5",
+      "onboard_time": 1739353821,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1572933,
       "num": 1474546,
       "word": "哪吒2洛杉矶首映结束全场鼓掌",
@@ -475,14 +483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1491442,
-      "num": 1491442,
-      "word": "小县城凭哪吒分账票房冲进全国前5",
-      "onboard_time": 1739353821,
-      "rank": 6,
-      "category": "电影"
-    },
-    {
       "raw_hot": 1470037,
       "num": 1033364,
       "word": "无量仙翁拐杖",
@@ -505,6 +505,14 @@
       "onboard_time": 1739289621,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1418385,
+      "num": 472127,
+      "word": "哪吒里唯一绝望的人出现了",
+      "onboard_time": 1739355921,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 1411936,
@@ -1352,14 +1360,6 @@
       "word": "哪吒2进全球票房榜前25",
       "onboard_time": 1739334743,
       "rank": 26,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 785312,
-      "num": 306793,
-      "word": "哪吒里唯一绝望的人出现了",
-      "onboard_time": 1739355921,
-      "rank": 13,
       "category": "电影"
     },
     {
@@ -2643,6 +2643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 484727,
+      "num": 404724,
+      "word": "哪吒2票房超95亿",
+      "onboard_time": 1739358261,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 483307,
       "num": 483307,
       "word": "一直躺着玩手机双眼度数相差400",
@@ -2987,6 +2995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 406406,
+      "num": 406406,
+      "word": "AI无法预测彩票中奖号码",
+      "onboard_time": 1739353281,
+      "rank": 41,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 404788,
       "num": 500549,
       "word": "00后小伙苦练电焊成大师傅月入1万6",
@@ -3203,6 +3219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 381309,
+      "num": 381309,
+      "word": "元宵节快乐",
+      "onboard_time": 1739340200,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 380712,
       "num": 380712,
       "word": "孙颖莎3Q艾瑞万",
@@ -3217,6 +3241,14 @@
       "onboard_time": 1739207415,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 379372,
+      "num": 332083,
+      "word": "哪吒2二刷及以上人群不到1成",
+      "onboard_time": 1739357840,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 378626,
@@ -3249,6 +3281,14 @@
       "onboard_time": 1739249302,
       "rank": 17,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 376678,
+      "num": 376678,
+      "word": "杨幂元宵节随拍",
+      "onboard_time": 1739355682,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 373091,
@@ -3747,14 +3787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 312638,
-      "num": 312638,
-      "word": "元宵节快乐",
-      "onboard_time": 1739340200,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 311172,
       "num": 379578,
       "word": "樊振东对乒乓球还有更长远的向往",
@@ -3916,7 +3948,7 @@
     },
     {
       "raw_hot": 298695,
-      "num": 268805,
+      "num": 282149,
       "word": "周鸿祎被中奖用户挂掉电话",
       "onboard_time": 1739353639,
       "rank": 22,
@@ -4089,6 +4121,14 @@
       "onboard_time": 1739319259,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 283917,
+      "num": 345560,
+      "word": "虞书欣叫小石榴宝宝们",
+      "onboard_time": 1739357421,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 282546,
@@ -4291,6 +4331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 273955,
+      "num": 273955,
+      "word": "女子年前卖掉为儿子攒的三金赚10多万",
+      "onboard_time": 1739358380,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 273668,
       "num": 273668,
       "word": "蓝猫",
@@ -4425,6 +4473,14 @@
       "onboard_time": 1739283742,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 261646,
+      "num": 261646,
+      "word": "元宵",
+      "onboard_time": 1739350039,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 259686,
@@ -4627,6 +4683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 248240,
+      "num": 248240,
+      "word": "胡彦斌女友视角",
+      "onboard_time": 1739357781,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247876,
       "num": 247876,
       "word": "饺子说哪吒有时也不受他控制",
@@ -4699,6 +4763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 243911,
+      "num": 243911,
+      "word": "王一博腰上这一堆得多少斤",
+      "onboard_time": 1739355921,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 243835,
       "num": 192041,
       "word": "52天婴儿喝奶奶喂的蜂蜜水中毒进ICU",
@@ -4729,22 +4801,6 @@
       "onboard_time": 1739268682,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 243008,
-      "num": 243008,
-      "word": "元宵",
-      "onboard_time": 1739350039,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 242872,
-      "num": 309503,
-      "word": "AI无法预测彩票中奖号码",
-      "onboard_time": 1739353281,
-      "rank": 41,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 242838,
@@ -4835,6 +4891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237099,
+      "num": 237099,
+      "word": "胡歌唐嫣携手走红毯",
+      "onboard_time": 1739358680,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 236799,
       "num": 236799,
       "word": "千万不要学哪吒去收土拨鼠",
@@ -4880,6 +4944,14 @@
       "word": "吴倩六姊妹演技",
       "onboard_time": 1739064020,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 234752,
+      "num": 234752,
+      "word": "董思成跳了lucifer",
+      "onboard_time": 1739358020,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -5105,6 +5177,14 @@
       "onboard_time": 1739290640,
       "rank": 15,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 226672,
+      "num": 226672,
+      "word": "伪骨科现偶拍成这样拿什么输",
+      "onboard_time": 1739357781,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 226319,
@@ -5955,6 +6035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202643,
+      "num": 337327,
+      "word": "夫妻吵架4岁孩子哭着收拾残局",
+      "onboard_time": 1739358561,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202468,
       "num": 202468,
       "word": "鹊刀门2用作品开骂就差点名了",
@@ -6171,14 +6259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198063,
-      "num": 195805,
-      "word": "王一博腰上这一堆得多少斤",
-      "onboard_time": 1739355921,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 197952,
       "num": 194467,
       "word": "林诗栋男单男双混双三冠",
@@ -6291,14 +6371,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 197017,
-      "num": 197017,
-      "word": "杨幂元宵节随拍",
-      "onboard_time": 1739355682,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 196939,
       "num": 196939,
       "word": "梁洁古早照片好有生命力",
@@ -6355,6 +6427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196024,
+      "num": 196024,
+      "word": "烟花",
+      "onboard_time": 1739358321,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196022,
       "num": 196022,
       "word": "元宵晚会阵容",
@@ -6401,6 +6481,14 @@
       "onboard_time": 1739255360,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195523,
+      "num": 195523,
+      "word": "广东一公交车起火致6人死亡",
+      "onboard_time": 1739358919,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195410,
@@ -6715,6 +6803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189602,
+      "num": 189602,
+      "word": "君有疾否",
+      "onboard_time": 1739358561,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189450,
       "num": 189450,
       "word": "书卷一梦",
@@ -6899,6 +6995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 185945,
+      "num": 185945,
+      "word": "白鹿元宵节请客",
+      "onboard_time": 1739353160,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185877,
       "num": 185877,
       "word": "梁洁好心态决定女人一生",
@@ -6993,6 +7097,14 @@
       "onboard_time": 1739354781,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 184325,
+      "num": 184325,
+      "word": "马嘉祺国际象棋拍立得",
+      "onboard_time": 1739358799,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 184090,
@@ -7097,14 +7209,6 @@
       "onboard_time": 1739356221,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 181164,
-      "num": 181164,
-      "word": "白鹿元宵节请客",
-      "onboard_time": 1739353160,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 181028,
@@ -9491,6 +9595,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 130748,
+      "num": 195621,
+      "word": "虞书欣车上随拍",
+      "onboard_time": 1739358561,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130646,
       "num": 278926,
       "word": "微博元宵汇",
@@ -9969,6 +10081,14 @@
       "onboard_time": 1739059216,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117167,
+      "num": 380690,
+      "word": "卫生巾不需要花里胡俏的功能",
+      "onboard_time": 1739357933,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116559,
@@ -11604,7 +11724,7 @@
     },
     {
       "raw_hot": 54916,
-      "num": 193872,
+      "num": 235386,
       "word": "eStar回应宣传片相关内容",
       "onboard_time": 1739352500,
       "rank": 34,
@@ -11657,6 +11777,14 @@
       "onboard_time": 1739307671,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 54076,
+      "num": 332133,
+      "word": "任俊霏邢珈宁银牌",
+      "onboard_time": 1739358620,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 53753,
@@ -11811,6 +11939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 50078,
+      "num": 352565,
+      "word": "河南一动物园卖老虎毛称能辟邪挡灾",
+      "onboard_time": 1739358140,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49898,
       "num": 291551,
       "word": "札幌孩子踏着比自己高的雪去上学",
@@ -11833,6 +11969,14 @@
       "onboard_time": 1739151918,
       "rank": 19,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 49271,
+      "num": 183159,
+      "word": "一代人有一代人的皮影戏",
+      "onboard_time": 1739359101,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 48162,
@@ -12929,6 +13073,14 @@
       "onboard_time": 1739044751,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 19808,
+      "num": 182486,
+      "word": "绝区零1.5",
+      "onboard_time": 1739357601,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 19344,
