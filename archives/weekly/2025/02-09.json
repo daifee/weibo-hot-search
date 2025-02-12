@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739338720123,
+  "endTime": 1739341875996,
   "band_list": [
     {
       "raw_hot": 10037874,
@@ -1787,6 +1787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 607865,
+      "num": 329244,
+      "word": "沈小婷被前公司起诉",
+      "onboard_time": 1739339241,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 606051,
       "num": 606051,
       "word": "郑州一学校被曝查封致学生无法开学",
@@ -1849,6 +1857,14 @@
       "onboard_time": 1739273541,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 598063,
+      "num": 310790,
+      "word": "张馨予晒与老公何捷滑雪照",
+      "onboard_time": 1739338941,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 597363,
@@ -2611,6 +2627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 440804,
+      "num": 338817,
+      "word": "国台办希望哪吒2尽快上映",
+      "onboard_time": 1739338281,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 439237,
       "num": 439237,
       "word": "金钟仁退伍",
@@ -2721,6 +2745,14 @@
       "onboard_time": 1739270902,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 418340,
+      "num": 286945,
+      "word": "全球票房",
+      "onboard_time": 1739339540,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 415082,
@@ -3043,6 +3075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 372590,
+      "num": 372590,
+      "word": "巴西一女子手机在裤兜中爆炸",
+      "onboard_time": 1739334862,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 370234,
       "num": 370234,
       "word": "王濛发视频怒斥韩国选手推搡林孝埈",
@@ -3272,6 +3312,14 @@
       "word": "江西最强钉子户没料到公路改道",
       "onboard_time": 1739199321,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 332634,
+      "num": 332634,
+      "word": "殡仪馆证实男子放礼花弹爆炸离世",
+      "onboard_time": 1739341460,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -3548,7 +3596,7 @@
     },
     {
       "raw_hot": 304151,
-      "num": 273809,
+      "num": 278096,
       "word": "时代峰峻",
       "onboard_time": 1739337560,
       "rank": 38,
@@ -3899,14 +3947,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 275946,
-      "num": 311375,
-      "word": "巴西一女子手机在裤兜中爆炸",
-      "onboard_time": 1739334862,
-      "rank": 29,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 275674,
       "num": 275674,
       "word": "哪吒2 百亿补贴",
@@ -3920,6 +3960,14 @@
       "word": "张康乐经纪公司报案",
       "onboard_time": 1739200101,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 274191,
+      "num": 274191,
+      "word": "辛芷蕾穿了95年的古董高定",
+      "onboard_time": 1739339121,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -3979,12 +4027,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270450,
+      "num": 270450,
+      "word": "娃哈哈集团转让娃哈哈商标",
+      "onboard_time": 1739340982,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 270315,
+      "num": 299340,
+      "word": "朱易亚冬会首秀",
+      "onboard_time": 1739338402,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 269625,
       "num": 269625,
       "word": "酒店2米吊顶半夜掉了孕妇索赔17万",
       "onboard_time": 1739258479,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 269613,
+      "num": 269613,
+      "word": "演员请就位3导师阵容官宣",
+      "onboard_time": 1739339000,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 266997,
@@ -4009,6 +4081,14 @@
       "onboard_time": 1739156780,
       "rank": 23,
       "category": "电影,游戏"
+    },
+    {
+      "raw_hot": 266399,
+      "num": 294724,
+      "word": "五福临门见面会",
+      "onboard_time": 1739341160,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 265260,
@@ -4041,6 +4121,14 @@
       "onboard_time": 1739283742,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 260273,
+      "num": 260273,
+      "word": "美国队长4",
+      "onboard_time": 1739339361,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 259686,
@@ -4121,14 +4209,6 @@
       "onboard_time": 1739168061,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 257491,
-      "num": 257491,
-      "word": "国台办希望哪吒2尽快上映",
-      "onboard_time": 1739338281,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 256681,
@@ -5059,6 +5139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211859,
+      "num": 211859,
+      "word": "黄圣依淡淡性格超浓事业脑",
+      "onboard_time": 1739338581,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211617,
       "num": 211617,
       "word": "金秀贤抽烟路透",
@@ -5145,14 +5233,6 @@
       "onboard_time": 1739247922,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 209921,
-      "num": 209921,
-      "word": "黄圣依淡淡性格超浓事业脑",
-      "onboard_time": 1739338581,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 209861,
@@ -5979,6 +6059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192257,
+      "num": 268579,
+      "word": "花样年华排片",
+      "onboard_time": 1739341101,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 192238,
       "num": 278395,
       "word": "东航89名飞行学员被停飞背后",
@@ -6433,6 +6521,14 @@
       "onboard_time": 1739182520,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 181941,
+      "num": 313244,
+      "word": "朱易短节目62.90分",
+      "onboard_time": 1739341101,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 181907,
@@ -8387,6 +8483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137718,
+      "num": 319214,
+      "word": "谢广坤扮演者女儿辟谣觉得生活费少",
+      "onboard_time": 1739340200,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137607,
       "num": 137607,
       "word": "石凯曾赔钱上节目",
@@ -9091,6 +9195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118509,
+      "num": 289639,
+      "word": "樊振东千里红运",
+      "onboard_time": 1739341762,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118457,
       "num": 118457,
       "word": "3500年前的口红用牛心制作",
@@ -9208,6 +9320,14 @@
       "word": "浓眉独行侠首秀",
       "onboard_time": 1739061318,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114636,
+      "num": 278553,
+      "word": "绝世神兵杜兰特",
+      "onboard_time": 1739340140,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -10123,6 +10243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72662,
+      "num": 324585,
+      "word": "当地市民作诗献花祭拜救人白龙马",
+      "onboard_time": 1739340501,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72372,
       "num": 194089,
       "word": "周一早餐小学生的卷饼",
@@ -10265,6 +10393,14 @@
       "onboard_time": 1739196081,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65720,
+      "num": 308756,
+      "word": "这秀恩爱含金量太高了",
+      "onboard_time": 1739340501,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 65603,
@@ -11051,6 +11187,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 40124,
+      "num": 326820,
+      "word": "网友曝一萌宠园过年无人管有动物死亡",
+      "onboard_time": 1739340800,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39994,
       "num": 217686,
       "word": "泰国总理感谢中国女保镖",
@@ -11065,6 +11209,14 @@
       "onboard_time": 1739200339,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39691,
+      "num": 291551,
+      "word": "札幌孩子踏着比自己高的雪去上学",
+      "onboard_time": 1739340742,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 39651,
@@ -11323,6 +11475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 32943,
+      "num": 323658,
+      "word": "中国小伙越野滑雪接力金牌",
+      "onboard_time": 1739341280,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32779,
       "num": 473363,
       "word": "布鲁尔金牌",
@@ -11488,6 +11648,14 @@
       "word": "冯俊熙王雪金牌",
       "onboard_time": 1739244322,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 27415,
+      "num": 299040,
+      "word": "三金王韩梅回应收割奖牌",
+      "onboard_time": 1739340501,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -11723,6 +11891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21458,
+      "num": 313761,
+      "word": "地下钱庄用虚拟货币转移资金超10亿",
+      "onboard_time": 1739340622,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21271,
       "num": 21271,
       "word": "刘宇宁央视元宵晚会彩排",
@@ -11747,6 +11923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20609,
+      "num": 301779,
+      "word": "唐探正月十五特别MV",
+      "onboard_time": 1739341639,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 20459,
       "num": 198870,
       "word": "刘诗诗演的心医真的有原型",
@@ -11761,6 +11945,14 @@
       "onboard_time": 1739296213,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 20201,
+      "num": 268806,
+      "word": "谢广坤扮演者女儿称有人在造谣妈妈",
+      "onboard_time": 1739340860,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 20178,
@@ -11825,6 +12017,14 @@
       "onboard_time": 1739205016,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17857,
+      "num": 317488,
+      "word": "高亭宇朝着梦想极速前进",
+      "onboard_time": 1739340501,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 17399,
@@ -12009,14 +12209,6 @@
       "onboard_time": 1739294356,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12899,
-      "num": 275897,
-      "word": "朱易亚冬会首秀",
-      "onboard_time": 1739338402,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 12889,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1739341875996,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 965748,
+        "num": 1154519,
+        "word": "我开学了 你定档了",
+        "onboard_time": 1739331080,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 701373,
+        "num": 701373,
+        "word": "海底捞回应招211或985学历外送员",
+        "onboard_time": 1739336423,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21053,
+        "num": 684115,
+        "word": "中国队已集齐3个金牌九宫格",
+        "onboard_time": 1739304071,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 672822,
+        "num": 672822,
+        "word": "饺子导演穷到装都装不出来你有钱",
+        "onboard_time": 1739333481,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 432440,
+        "num": 432440,
+        "word": "王濛说林孝埈是我给整回来的",
+        "onboard_time": 1739335703,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 372590,
+        "num": 372590,
+        "word": "巴西一女子手机在裤兜中爆炸",
+        "onboard_time": 1739334862,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 622084,
+        "num": 368026,
+        "word": "哪吒2进全球票房榜前25",
+        "onboard_time": 1739334743,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 342185,
+        "num": 342185,
+        "word": "苏州终于要有机场了",
+        "onboard_time": 1739334622,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 440804,
+        "num": 338817,
+        "word": "国台办希望哪吒2尽快上映",
+        "onboard_time": 1739338281,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 332634,
+        "num": 332634,
+        "word": "殡仪馆证实男子放礼花弹爆炸离世",
+        "onboard_time": 1739341460,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1712562,
+        "num": 330947,
+        "word": "男子刮刮乐中25万淡定问店主能兑吗",
+        "onboard_time": 1739336301,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 607865,
+        "num": 329244,
+        "word": "沈小婷被前公司起诉",
+        "onboard_time": 1739339241,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40124,
+        "num": 326820,
+        "word": "网友曝一萌宠园过年无人管有动物死亡",
+        "onboard_time": 1739340800,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72662,
+        "num": 324585,
+        "word": "当地市民作诗献花祭拜救人白龙马",
+        "onboard_time": 1739340501,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32943,
+        "num": 323658,
+        "word": "中国小伙越野滑雪接力金牌",
+        "onboard_time": 1739341280,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 742000,
+        "num": 320922,
+        "word": "宝妈入住月子中心不到1天投湖轻生",
+        "onboard_time": 1739335402,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137718,
+        "num": 319214,
+        "word": "谢广坤扮演者女儿辟谣觉得生活费少",
+        "onboard_time": 1739340200,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17857,
+        "num": 317488,
+        "word": "高亭宇朝着梦想极速前进",
+        "onboard_time": 1739340501,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21458,
+        "num": 313761,
+        "word": "地下钱庄用虚拟货币转移资金超10亿",
+        "onboard_time": 1739340622,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181941,
+        "num": 313244,
+        "word": "朱易短节目62.90分",
+        "onboard_time": 1739341101,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 598063,
+        "num": 310790,
+        "word": "张馨予晒与老公何捷滑雪照",
+        "onboard_time": 1739338941,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65720,
+        "num": 308756,
+        "word": "这秀恩爱含金量太高了",
+        "onboard_time": 1739340501,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 599755,
+        "num": 307115,
+        "word": "蛇年元宵晚会节目单公布",
+        "onboard_time": 1739327420,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 440143,
+        "num": 303358,
+        "word": "多邻国猫头鹰去世",
+        "onboard_time": 1739326639,
+        "rank": 23,
+        "category": "互联网,教育"
+      },
+      {
+        "raw_hot": 20609,
+        "num": 301779,
+        "word": "唐探正月十五特别MV",
+        "onboard_time": 1739341639,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 270315,
+        "num": 299340,
+        "word": "朱易亚冬会首秀",
+        "onboard_time": 1739338402,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27415,
+        "num": 299040,
+        "word": "三金王韩梅回应收割奖牌",
+        "onboard_time": 1739340501,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 422667,
+        "num": 295205,
+        "word": "谁家男女主亲完嘴还互擦啊",
+        "onboard_time": 1739331261,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266399,
+        "num": 294724,
+        "word": "五福临门见面会",
+        "onboard_time": 1739341160,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39691,
+        "num": 291551,
+        "word": "札幌孩子踏着比自己高的雪去上学",
+        "onboard_time": 1739340742,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 118509,
+        "num": 289639,
+        "word": "樊振东千里红运",
+        "onboard_time": 1739341762,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 418340,
+        "num": 286945,
+        "word": "全球票房",
+        "onboard_time": 1739339540,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 475682,
+        "num": 284479,
+        "word": "益禾堂薄荷奶绿",
+        "onboard_time": 1739334382,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 390908,
+        "num": 283477,
+        "word": "by2差点回不了家",
+        "onboard_time": 1739337859,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341720,
+        "num": 281518,
+        "word": "女子吐槽袜子上出现狗牵女性不雅图片",
+        "onboard_time": 1739326217,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114636,
+        "num": 278553,
+        "word": "绝世神兵杜兰特",
+        "onboard_time": 1739340140,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278096,
+        "num": 278096,
+        "word": "时代峰峻",
+        "onboard_time": 1739337560,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 274191,
+        "num": 274191,
+        "word": "辛芷蕾穿了95年的古董高定",
+        "onboard_time": 1739339121,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270450,
+        "num": 270450,
+        "word": "娃哈哈集团转让娃哈哈商标",
+        "onboard_time": 1739340982,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269613,
+        "num": 269613,
+        "word": "演员请就位3导师阵容官宣",
+        "onboard_time": 1739339000,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20201,
+        "num": 268806,
+        "word": "谢广坤扮演者女儿称有人在造谣妈妈",
+        "onboard_time": 1739340860,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192257,
+        "num": 268579,
+        "word": "花样年华排片",
+        "onboard_time": 1739341101,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 268562,
+        "num": 268562,
+        "word": "张淼怡主演难哄",
+        "onboard_time": 1739331921,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260273,
+        "num": 260273,
+        "word": "美国队长4",
+        "onboard_time": 1739339361,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 257016,
+        "num": 257016,
+        "word": "哪吒",
+        "onboard_time": 1739315356,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 12202,
+        "num": 246199,
+        "word": "胡兵三天四国时装周飞行vlog",
+        "onboard_time": 1739330841,
+        "rank": 45,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 243364,
+        "num": 243364,
+        "word": "五福临门",
+        "onboard_time": 1739341521,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242910,
+        "num": 242910,
+        "word": "吴宣仪浪姐6上班造型",
+        "onboard_time": 1739336722,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238260,
+        "num": 238260,
+        "word": "男子酒后点燃礼花弹被炸当场身亡",
+        "onboard_time": 1739331921,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211859,
+        "num": 211859,
+        "word": "黄圣依淡淡性格超浓事业脑",
+        "onboard_time": 1739338581,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记这样部署东北全面振兴#"
+    }
+  }
+}

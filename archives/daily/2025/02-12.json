@@ -1,6 +1,6 @@
 {
   "startTime": 1739291403043,
-  "endTime": 1739338720123,
+  "endTime": 1739341875996,
   "band_list": [
     {
       "raw_hot": 2550003,
@@ -267,6 +267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 607865,
+      "num": 329244,
+      "word": "沈小婷被前公司起诉",
+      "onboard_time": 1739339241,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 606051,
       "num": 606051,
       "word": "郑州一学校被曝查封致学生无法开学",
@@ -281,6 +289,14 @@
       "onboard_time": 1739289559,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 598063,
+      "num": 310790,
+      "word": "张馨予晒与老公何捷滑雪照",
+      "onboard_time": 1739338941,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 597363,
@@ -387,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 440804,
+      "num": 338817,
+      "word": "国台办希望哪吒2尽快上映",
+      "onboard_time": 1739338281,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 425832,
       "num": 425832,
       "word": "漫城定档情人节",
@@ -409,6 +433,14 @@
       "onboard_time": 1739283621,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 418340,
+      "num": 286945,
+      "word": "全球票房",
+      "onboard_time": 1739339540,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 415082,
@@ -451,6 +483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 372590,
+      "num": 372590,
+      "word": "巴西一女子手机在裤兜中爆炸",
+      "onboard_time": 1739334862,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 353626,
       "num": 353626,
       "word": "董宇辉回应被网友说像无量仙翁",
@@ -491,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 332634,
+      "num": 332634,
+      "word": "殡仪馆证实男子放礼花弹爆炸离世",
+      "onboard_time": 1739341460,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 314995,
       "num": 314995,
       "word": "金包银哪吒手镯卖爆了",
@@ -516,7 +564,7 @@
     },
     {
       "raw_hot": 304151,
-      "num": 273809,
+      "num": 278096,
       "word": "时代峰峻",
       "onboard_time": 1739337560,
       "rank": 38,
@@ -563,12 +611,52 @@
       "category": "演出"
     },
     {
-      "raw_hot": 275946,
-      "num": 311375,
-      "word": "巴西一女子手机在裤兜中爆炸",
-      "onboard_time": 1739334862,
-      "rank": 29,
-      "category": "海外新闻"
+      "raw_hot": 274191,
+      "num": 274191,
+      "word": "辛芷蕾穿了95年的古董高定",
+      "onboard_time": 1739339121,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 270450,
+      "num": 270450,
+      "word": "娃哈哈集团转让娃哈哈商标",
+      "onboard_time": 1739340982,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 270315,
+      "num": 299340,
+      "word": "朱易亚冬会首秀",
+      "onboard_time": 1739338402,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 269613,
+      "num": 269613,
+      "word": "演员请就位3导师阵容官宣",
+      "onboard_time": 1739339000,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 266399,
+      "num": 294724,
+      "word": "五福临门见面会",
+      "onboard_time": 1739341160,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 260273,
+      "num": 260273,
+      "word": "美国队长4",
+      "onboard_time": 1739339361,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 258883,
@@ -587,20 +675,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 257491,
-      "num": 257491,
-      "word": "国台办希望哪吒2尽快上映",
-      "onboard_time": 1739338281,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 244641,
       "num": 244641,
       "word": "可可豆回应哪吒3上映时间",
       "onboard_time": 1739332341,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 243364,
+      "num": 243364,
+      "word": "五福临门",
+      "onboard_time": 1739264481,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 242599,
@@ -723,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211859,
+      "num": 211859,
+      "word": "黄圣依淡淡性格超浓事业脑",
+      "onboard_time": 1739338581,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211498,
       "num": 250153,
       "word": "西施新皮肤化身仙灵",
@@ -737,14 +833,6 @@
       "onboard_time": 1739327059,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 209921,
-      "num": 209921,
-      "word": "黄圣依淡淡性格超浓事业脑",
-      "onboard_time": 1739338581,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 204369,
@@ -801,6 +889,14 @@
       "onboard_time": 1739337022,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192257,
+      "num": 268579,
+      "word": "花样年华排片",
+      "onboard_time": 1739341101,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 191373,
@@ -881,6 +977,14 @@
       "onboard_time": 1739328618,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 181941,
+      "num": 313244,
+      "word": "朱易短节目62.90分",
+      "onboard_time": 1739341101,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 180046,
@@ -1099,6 +1203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137718,
+      "num": 319214,
+      "word": "谢广坤扮演者女儿辟谣觉得生活费少",
+      "onboard_time": 1739340200,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135610,
       "num": 538336,
       "word": "招聘人才年轻化不该一味卷年龄",
@@ -1235,12 +1347,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 118430,
-      "num": 118430,
-      "word": "五福临门",
-      "onboard_time": 1739264481,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 118509,
+      "num": 289639,
+      "word": "樊振东千里红运",
+      "onboard_time": 1739341762,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 118183,
@@ -1265,6 +1377,14 @@
       "onboard_time": 1739288959,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 114636,
+      "num": 278553,
+      "word": "绝世神兵杜兰特",
+      "onboard_time": 1739340140,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 114062,
@@ -1483,6 +1603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72662,
+      "num": 324585,
+      "word": "当地市民作诗献花祭拜救人白龙马",
+      "onboard_time": 1739340501,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68346,
       "num": 227582,
       "word": "刘梦婷大跳台金牌",
@@ -1497,6 +1625,14 @@
       "onboard_time": 1739300232,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 65720,
+      "num": 308756,
+      "word": "这秀恩爱含金量太高了",
+      "onboard_time": 1739340501,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 63831,
@@ -1699,6 +1835,22 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 40124,
+      "num": 326820,
+      "word": "网友曝一萌宠园过年无人管有动物死亡",
+      "onboard_time": 1739340800,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39691,
+      "num": 291551,
+      "word": "札幌孩子踏着比自己高的雪去上学",
+      "onboard_time": 1739340742,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 39651,
       "num": 39651,
       "word": "百色市联合工作组通报唐某某调查进展",
@@ -1739,6 +1891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32943,
+      "num": 323658,
+      "word": "中国小伙越野滑雪接力金牌",
+      "onboard_time": 1739341280,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29883,
       "num": 339274,
       "word": "亚冬会遇上元宵节",
@@ -1761,6 +1921,14 @@
       "onboard_time": 1739298192,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27415,
+      "num": 299040,
+      "word": "三金王韩梅回应收割奖牌",
+      "onboard_time": 1739340501,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 24749,
@@ -1819,12 +1987,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21458,
+      "num": 313761,
+      "word": "地下钱庄用虚拟货币转移资金超10亿",
+      "onboard_time": 1739340622,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20782,
       "num": 302872,
       "word": "英格拉姆提前续约猛龙",
       "onboard_time": 1739331381,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20609,
+      "num": 301779,
+      "word": "唐探正月十五特别MV",
+      "onboard_time": 1739341639,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 20221,
@@ -1835,12 +2019,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 20201,
+      "num": 268806,
+      "word": "谢广坤扮演者女儿称有人在造谣妈妈",
+      "onboard_time": 1739340860,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 19344,
       "num": 70416,
       "word": "专家建议不要盲目追涨黄金",
       "onboard_time": 1739301132,
       "rank": 21,
       "category": "财经"
+    },
+    {
+      "raw_hot": 17857,
+      "num": 317488,
+      "word": "高亭宇朝着梦想极速前进",
+      "onboard_time": 1739340501,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 17094,
@@ -1881,14 +2081,6 @@
       "onboard_time": 1739294356,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12899,
-      "num": 275897,
-      "word": "朱易亚冬会首秀",
-      "onboard_time": 1739338402,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 12412,
