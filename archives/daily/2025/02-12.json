@@ -1,6 +1,6 @@
 {
   "startTime": 1739291403043,
-  "endTime": 1739342638836,
+  "endTime": 1739344883027,
   "band_list": [
     {
       "raw_hot": 2550003,
@@ -43,6 +43,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 2005222,
+      "num": 373231,
+      "word": "殡仪馆证实男子放礼花弹爆炸离世",
+      "onboard_time": 1739341460,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1993322,
       "num": 1993322,
       "word": "难哄定档",
@@ -57,6 +65,14 @@
       "onboard_time": 1739281223,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1746494,
+      "num": 391864,
+      "word": "公司曝光沈小婷身份证",
+      "onboard_time": 1739341880,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 1454037,
@@ -91,14 +107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1178103,
-      "num": 373231,
-      "word": "殡仪馆证实男子放礼花弹爆炸离世",
-      "onboard_time": 1739341460,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1156881,
       "num": 1156881,
       "word": "饺子导演穷到装都装不出来你有钱",
@@ -113,6 +121,14 @@
       "onboard_time": 1739285062,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1137335,
+      "num": 1181973,
+      "word": "全球票房",
+      "onboard_time": 1739339540,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 1101586,
@@ -179,6 +195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 775223,
+      "num": 302228,
+      "word": "娃哈哈集团转让娃哈哈商标",
+      "onboard_time": 1739340982,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 771105,
       "num": 771105,
       "word": "哪吒2突破92亿",
@@ -209,6 +233,14 @@
       "onboard_time": 1739331921,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 714805,
+      "num": 345596,
+      "word": "国台办希望哪吒2尽快上映",
+      "onboard_time": 1739338281,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 709336,
@@ -315,14 +347,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 597280,
-      "num": 302382,
-      "word": "全球票房",
-      "onboard_time": 1739339540,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 579422,
       "num": 579422,
       "word": "元宵节",
@@ -379,14 +403,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 504734,
-      "num": 338817,
-      "word": "国台办希望哪吒2尽快上映",
-      "onboard_time": 1739338281,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 474100,
       "num": 474100,
       "word": "by2差点回不了家",
@@ -424,14 +440,6 @@
       "word": "人民会堂回应上午开会下午放哪吒2",
       "onboard_time": 1739286380,
       "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 436526,
-      "num": 302228,
-      "word": "娃哈哈集团转让娃哈哈商标",
-      "onboard_time": 1739340982,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -499,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 390305,
+      "num": 390305,
+      "word": "朱易短节目62.90分",
+      "onboard_time": 1739341101,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 387817,
       "num": 301876,
       "word": "五福临门",
@@ -513,14 +529,6 @@
       "onboard_time": 1739284762,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 358154,
-      "num": 302076,
-      "word": "公司曝光沈小婷身份证",
-      "onboard_time": 1739341880,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 353626,
@@ -563,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 338311,
+      "num": 276727,
+      "word": "美国队长4",
+      "onboard_time": 1739339361,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 327399,
       "num": 301747,
       "word": "五福临门见面会",
@@ -595,6 +611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 307110,
+      "num": 275000,
+      "word": "崔漫莉回应自曝无证酒驾肇事逃逸",
+      "onboard_time": 1739343020,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 305673,
       "num": 305673,
       "word": "两个孩子一间房怎么住",
@@ -617,14 +641,6 @@
       "onboard_time": 1739330000,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 301554,
-      "num": 313244,
-      "word": "朱易短节目62.90分",
-      "onboard_time": 1739341101,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 301339,
@@ -683,12 +699,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 269607,
-      "num": 269607,
-      "word": "美国队长4",
-      "onboard_time": 1739339361,
-      "rank": 43,
-      "category": "电影"
+      "raw_hot": 268358,
+      "num": 268358,
+      "word": "孟子义 短发造型",
+      "onboard_time": 1739343561,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 265302,
+      "num": 265302,
+      "word": "生9女1男女子回应网友质疑如何养活",
+      "onboard_time": 1739344342,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 258883,
@@ -707,12 +731,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252502,
+      "num": 252502,
+      "word": "贵州39岁女子回应生9女1男",
+      "onboard_time": 1739342120,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 244641,
       "num": 244641,
       "word": "可可豆回应哪吒3上映时间",
       "onboard_time": 1739332341,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 243785,
+      "num": 301686,
+      "word": "李宇春喊话龙丹妮录完了",
+      "onboard_time": 1739342360,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 242599,
@@ -739,20 +779,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 237423,
-      "num": 301686,
-      "word": "李宇春喊话龙丹妮录完了",
-      "onboard_time": 1739342360,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 235169,
       "num": 260425,
       "word": "国外爆了的一首小甜歌",
       "onboard_time": 1739330721,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 234863,
+      "num": 234863,
+      "word": "杨紫穿古装吃汤圆",
+      "onboard_time": 1739343921,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 233240,
@@ -843,6 +883,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 213065,
+      "num": 213065,
+      "word": "孙俪留下了这个显眼包孤独的身影",
+      "onboard_time": 1739342780,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212797,
       "num": 212797,
       "word": "难哄",
@@ -875,12 +923,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 205349,
-      "num": 205349,
-      "word": "贵州39岁女子回应生9女1男",
-      "onboard_time": 1739342120,
+      "raw_hot": 209985,
+      "num": 209985,
+      "word": "五福临门直播",
+      "onboard_time": 1739344040,
       "rank": 42,
-      "category": "民生新闻"
+      "category": "剧集"
     },
     {
       "raw_hot": 204369,
@@ -995,6 +1043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189027,
+      "num": 258502,
+      "word": "A股",
+      "onboard_time": 1739335402,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 188520,
       "num": 188520,
       "word": "漫城",
@@ -1064,6 +1120,14 @@
       "word": "四川成都新型碰瓷方式出现",
       "onboard_time": 1739328199,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173572,
+      "num": 173572,
+      "word": "女子感觉洗头被烫伤店员说活不起",
+      "onboard_time": 1739344400,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -1155,6 +1219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 159193,
+      "num": 159193,
+      "word": "与林高远一起不惧雨雪风霜",
+      "onboard_time": 1739344580,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155611,
       "num": 155611,
       "word": "泽连斯基称计划同俄互换部分领土",
@@ -1193,6 +1265,22 @@
       "onboard_time": 1739328378,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 145529,
+      "num": 145529,
+      "word": "句号",
+      "onboard_time": 1739343260,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 144921,
+      "num": 144921,
+      "word": "JDG对战Hero",
+      "onboard_time": 1739342720,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 144636,
@@ -1329,6 +1417,14 @@
       "onboard_time": 1739323698,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 130646,
+      "num": 278926,
+      "word": "微博元宵汇",
+      "onboard_time": 1739344400,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 130572,
@@ -1499,6 +1595,14 @@
       "category": "互联网,电影"
     },
     {
+      "raw_hot": 105863,
+      "num": 275991,
+      "word": "原神5.4版本上线",
+      "onboard_time": 1739340021,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 103305,
       "num": 103305,
       "word": "墨西哥湾古名叫中国海",
@@ -1553,6 +1657,14 @@
       "onboard_time": 1739275820,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 88049,
+      "num": 392143,
+      "word": "中国风吹到了巴黎",
+      "onboard_time": 1739343141,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83982,
@@ -1624,6 +1736,14 @@
       "word": "飞机落地印尼108人的行李还在广州",
       "onboard_time": 1739276479,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78516,
+      "num": 280654,
+      "word": "ABC申请的多项卫生巾专利已被驳回",
+      "onboard_time": 1739343741,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -1867,6 +1987,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 45705,
+      "num": 277616,
+      "word": "朱易创职业生涯短节目最高分",
+      "onboard_time": 1739344460,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 45657,
+      "num": 258728,
+      "word": "赵露思请小谢和女儿去迪士尼",
+      "onboard_time": 1739344701,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44147,
       "num": 207951,
       "word": "当地将为救人白马建纪念雕像",
@@ -1969,6 +2105,14 @@
       "onboard_time": 1739298192,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27596,
+      "num": 258134,
+      "word": "王昀楷元宵预制朋友圈",
+      "onboard_time": 1739344100,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 27415,
@@ -2123,6 +2267,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 14612,
+      "num": 280209,
+      "word": "女子冰壶中国9比5菲律宾",
+      "onboard_time": 1739343679,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 13029,
       "num": 73421,
       "word": "看自贡彩灯点亮中国非遗",
@@ -2145,6 +2297,14 @@
       "onboard_time": 1739315235,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 11983,
+      "num": 275592,
+      "word": "哪吒2到底用了多少种方言",
+      "onboard_time": 1739344580,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 9967,
@@ -2185,6 +2345,9 @@
     },
     {
       "word": "#习近平总书记这样部署东北全面振兴#"
+    },
+    {
+      "word": "#中国冰雪热为世界冰雪运动注入生机活力#"
     }
   ]
 }
