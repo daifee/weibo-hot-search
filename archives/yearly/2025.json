@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1739352248006,
+  "endTime": 1739353055536,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -2067,6 +2067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2207230,
+      "num": 319973,
+      "word": "李明德前女友好友晒聊天记录",
+      "onboard_time": 1739352320,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2187832,
       "num": 2187832,
       "word": "金价",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1738486578,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 2056912,
-      "num": 378230,
-      "word": "赵露思康复过程公开",
-      "onboard_time": 1737875656,
-      "rank": 30,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

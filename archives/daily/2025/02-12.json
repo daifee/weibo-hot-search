@@ -1,6 +1,6 @@
 {
   "startTime": 1739291403043,
-  "endTime": 1739352248006,
+  "endTime": 1739353055536,
   "band_list": [
     {
       "raw_hot": 2740229,
@@ -25,6 +25,14 @@
       "onboard_time": 1739331080,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2207230,
+      "num": 319973,
+      "word": "李明德前女友好友晒聊天记录",
+      "onboard_time": 1739352320,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2176498,
@@ -315,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 673182,
+      "num": 389991,
+      "word": "难哄台词 咯噔文学",
+      "onboard_time": 1739350880,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 669875,
       "num": 669875,
       "word": "王濛说林孝埈是我给整回来的",
@@ -419,20 +435,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 540362,
-      "num": 313986,
-      "word": "难哄台词 咯噔文学",
-      "onboard_time": 1739350880,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 539946,
       "num": 539946,
       "word": "天官赐福",
       "onboard_time": 1739323998,
       "rank": 23,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 536348,
+      "num": 536348,
+      "word": "麦当劳涨价0.5元",
+      "onboard_time": 1739350580,
+      "rank": 5,
+      "category": "美食"
     },
     {
       "raw_hot": 526356,
@@ -459,7 +475,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 489787,
+      "raw_hot": 501747,
       "num": 308811,
       "word": "哪吒2",
       "onboard_time": 1739347820,
@@ -521,14 +537,6 @@
       "onboard_time": 1739286380,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 426222,
-      "num": 426222,
-      "word": "麦当劳涨价0.5元",
-      "onboard_time": 1739350580,
-      "rank": 5,
-      "category": "美食"
     },
     {
       "raw_hot": 425832,
@@ -819,6 +827,14 @@
       "category": "互联网,数码"
     },
     {
+      "raw_hot": 284431,
+      "num": 284431,
+      "word": "汤圆",
+      "onboard_time": 1739319259,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 281235,
       "num": 299297,
       "word": "王嘉尔真回了你又不高兴",
@@ -987,6 +1003,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 229675,
+      "num": 229675,
+      "word": "炸汤圆",
+      "onboard_time": 1739351240,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 226725,
       "num": 260981,
       "word": "流感高烧3天不退小心是重症",
@@ -1019,14 +1043,6 @@
       "category": "民生新闻,体育"
     },
     {
-      "raw_hot": 222430,
-      "num": 222430,
-      "word": "汤圆",
-      "onboard_time": 1739319259,
-      "rank": 46,
-      "category": "美食"
-    },
-    {
       "raw_hot": 220430,
       "num": 220430,
       "word": "近期大量黄金等贵金属被运往美国",
@@ -1052,7 +1068,7 @@
     },
     {
       "raw_hot": 217546,
-      "num": 217546,
+      "num": 221141,
       "word": "王楚钦孙颖莎领衔重庆冠军赛阵容",
       "onboard_time": 1739350101,
       "rank": 35,
@@ -1155,6 +1171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200716,
+      "num": 200716,
+      "word": "肖战元宵节撒彩带",
+      "onboard_time": 1739352259,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199061,
       "num": 199061,
       "word": "三专配置",
@@ -1227,20 +1251,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193190,
+      "num": 193190,
+      "word": "哪吒2票房",
+      "onboard_time": 1739351900,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 191373,
       "num": 191373,
       "word": "衡门有狐",
       "onboard_time": 1739338402,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 191311,
-      "num": 191311,
-      "word": "哪吒2票房",
-      "onboard_time": 1739351900,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 191095,
@@ -1273,6 +1297,14 @@
       "onboard_time": 1739345961,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190171,
+      "num": 190171,
+      "word": "元宵节快乐",
+      "onboard_time": 1739340200,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 189832,
@@ -1355,6 +1387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176877,
+      "num": 245216,
+      "word": "朱易比赛结束收获娃娃雨",
+      "onboard_time": 1739351000,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175998,
       "num": 175998,
       "word": "网友提名哪吒真人化选角",
@@ -1379,8 +1419,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 174537,
-      "num": 174537,
+      "raw_hot": 175398,
+      "num": 175398,
       "word": "元宵",
       "onboard_time": 1739350039,
       "rank": 48,
@@ -1499,14 +1539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 164637,
-      "num": 245216,
-      "word": "朱易比赛结束收获娃娃雨",
-      "onboard_time": 1739351000,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 164407,
       "num": 164407,
       "word": "阿里大涨",
@@ -1515,12 +1547,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 164055,
+      "num": 164055,
+      "word": "刘卫东涉嫌严重违纪违法",
+      "onboard_time": 1739352859,
+      "rank": 47,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 163581,
       "num": 163581,
       "word": "崩坏星穹铁道",
       "onboard_time": 1739335223,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 163028,
+      "num": 321623,
+      "word": "今晚十五的月亮十五圆",
+      "onboard_time": 1739351900,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163023,
@@ -1564,7 +1612,7 @@
     },
     {
       "raw_hot": 155434,
-      "num": 311939,
+      "num": 315234,
       "word": "6岁版海阳大秧歌奶凶奶凶也撩人",
       "onboard_time": 1739349140,
       "rank": 32,
@@ -1595,6 +1643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147906,
+      "num": 313560,
+      "word": "申公豹的结巴需要心理脱敏",
+      "onboard_time": 1739351480,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 147480,
       "num": 147480,
       "word": "美国近70人感染H5N1型禽流感",
@@ -1617,14 +1673,6 @@
       "onboard_time": 1739330540,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 144614,
-      "num": 310896,
-      "word": "今晚十五的月亮十五圆",
-      "onboard_time": 1739351900,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 144177,
@@ -1761,14 +1809,6 @@
       "onboard_time": 1739338041,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 132328,
-      "num": 132328,
-      "word": "元宵节快乐",
-      "onboard_time": 1739340200,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 130840,
@@ -2083,6 +2123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82160,
+      "num": 307973,
+      "word": "余莺儿扮演者称驾车逃逸是乱吹牛",
+      "onboard_time": 1739352140,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 81420,
       "num": 281455,
       "word": "花滑",
@@ -2163,6 +2211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 71753,
+      "num": 194702,
+      "word": "国乒WTT重庆冠军赛报名名单",
+      "onboard_time": 1739352920,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68346,
       "num": 227582,
       "word": "刘梦婷大跳台金牌",
@@ -2179,19 +2235,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67705,
+      "num": 246754,
+      "word": "林孝埈中文祝元宵节快乐",
+      "onboard_time": 1739351661,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65720,
       "num": 308756,
       "word": "这秀恩爱含金量太高了",
       "onboard_time": 1739340501,
       "rank": 21,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 64382,
-      "num": 246754,
-      "word": "林孝埈中文祝元宵节快乐",
-      "onboard_time": 1739351661,
-      "rank": 29,
       "category": "体育"
     },
     {
@@ -2291,14 +2347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 55657,
-      "num": 230973,
-      "word": "余莺儿扮演者称驾车逃逸是乱吹牛",
-      "onboard_time": 1739352140,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 55615,
       "num": 55615,
       "word": "谢广坤疑似回应被女儿控诉",
@@ -2323,6 +2371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 54916,
+      "num": 193872,
+      "word": "eStar回应宣传片相关内容",
+      "onboard_time": 1739352500,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 54841,
       "num": 323658,
       "word": "中国小伙越野滑雪接力金牌",
@@ -2337,6 +2393,14 @@
       "onboard_time": 1739316976,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54584,
+      "num": 309161,
+      "word": "王珞丹浪姐6录制",
+      "onboard_time": 1739348900,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 54572,
@@ -2491,6 +2555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38579,
+      "num": 309778,
+      "word": "为什么哪吒形象如此受欢迎",
+      "onboard_time": 1739351360,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 38004,
       "num": 282606,
       "word": "朱易说第一个出场有些紧张",
@@ -2563,14 +2635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 27166,
-      "num": 309161,
-      "word": "王珞丹浪姐6录制",
-      "onboard_time": 1739348900,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 26216,
       "num": 313761,
       "word": "地下钱庄用虚拟货币转移资金超10亿",
@@ -2585,14 +2649,6 @@
       "onboard_time": 1739298793,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 24611,
-      "num": 309778,
-      "word": "为什么哪吒形象如此受欢迎",
-      "onboard_time": 1739351360,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 23459,
@@ -2649,14 +2705,6 @@
       "onboard_time": 1739302814,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21387,
-      "num": 312809,
-      "word": "申公豹的结巴需要心理脱敏",
-      "onboard_time": 1739351480,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 20782,
