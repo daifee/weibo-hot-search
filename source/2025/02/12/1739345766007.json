@@ -1,0 +1,410 @@
+{
+  "runTime": 1739345766007,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1557465,
+        "num": 1557465,
+        "word": "全球票房",
+        "onboard_time": 1739339540,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 567453,
+        "num": 567453,
+        "word": "海底捞回应招211或985学历外送员",
+        "onboard_time": 1739336423,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6849,
+        "num": 414559,
+        "word": "晒出你的科学含量",
+        "onboard_time": 1739345541,
+        "rank": 2,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 2067035,
+        "num": 395431,
+        "word": "公司曝光沈小婷身份证",
+        "onboard_time": 1739341880,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371723,
+        "num": 371723,
+        "word": "朱易短节目62.90分",
+        "onboard_time": 1739341101,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2112118,
+        "num": 367122,
+        "word": "殡仪馆证实男子放礼花弹爆炸离世",
+        "onboard_time": 1739341460,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 780777,
+        "num": 366687,
+        "word": "我开学了 你定档了",
+        "onboard_time": 1739331080,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348198,
+        "num": 348198,
+        "word": "崔漫莉回应自曝无证酒驾肇事逃逸",
+        "onboard_time": 1739343020,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323464,
+        "num": 323464,
+        "word": "句号",
+        "onboard_time": 1739343260,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 294487,
+        "num": 294487,
+        "word": "王濛说林孝埈是我给整回来的",
+        "onboard_time": 1739335703,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 826969,
+        "num": 294428,
+        "word": "男子刮刮乐中25万淡定问店主能兑吗",
+        "onboard_time": 1739336301,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 689197,
+        "num": 291341,
+        "word": "国台办希望哪吒2尽快上映",
+        "onboard_time": 1739338281,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 531213,
+        "num": 288494,
+        "word": "饺子导演穷到装都装不出来你有钱",
+        "onboard_time": 1739333481,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 504642,
+        "num": 287617,
+        "word": "蛇年元宵晚会节目单公布",
+        "onboard_time": 1739327420,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 495263,
+        "num": 284005,
+        "word": "生9女1男女子回应网友质疑如何养活",
+        "onboard_time": 1739344342,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 467159,
+        "num": 282400,
+        "word": "宝妈入住月子中心不到1天投湖轻生",
+        "onboard_time": 1739335402,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280917,
+        "num": 280917,
+        "word": "苏州终于要有机场了",
+        "onboard_time": 1739334622,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277884,
+        "num": 277884,
+        "word": "巴西一女子手机在裤兜中爆炸",
+        "onboard_time": 1739334862,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 196236,
+        "num": 276195,
+        "word": "ABC申请的多项卫生巾专利已被驳回",
+        "onboard_time": 1739343741,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61930,
+        "num": 274549,
+        "word": "哪吒2到底用了多少种方言",
+        "onboard_time": 1739344580,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 455419,
+        "num": 272750,
+        "word": "张馨予晒与老公何捷滑雪照",
+        "onboard_time": 1739338941,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447149,
+        "num": 269258,
+        "word": "谁家男女主亲完嘴还互擦啊",
+        "onboard_time": 1739331261,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317275,
+        "num": 266493,
+        "word": "杨紫穿古装吃汤圆",
+        "onboard_time": 1739343921,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110845,
+        "num": 266105,
+        "word": "中国风吹到了巴黎",
+        "onboard_time": 1739343141,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306348,
+        "num": 263087,
+        "word": "孟子义 短发造型",
+        "onboard_time": 1739343561,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261798,
+        "num": 261798,
+        "word": "美国队长4",
+        "onboard_time": 1739339361,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 254684,
+        "num": 254684,
+        "word": "花样年华排片",
+        "onboard_time": 1739341101,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 243267,
+        "num": 243267,
+        "word": "贵州39岁女子回应生9女1男",
+        "onboard_time": 1739342120,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92564,
+        "num": 243116,
+        "word": "王力宏回应是否想找新伴侣",
+        "onboard_time": 1739345541,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51623,
+        "num": 243114,
+        "word": "22岁的朱易拥抱了19岁的朱易",
+        "onboard_time": 1739345300,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37975,
+        "num": 243114,
+        "word": "朱易创职业生涯短节目最高分",
+        "onboard_time": 1739344460,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243114,
+        "num": 243113,
+        "word": "益禾堂薄荷奶绿",
+        "onboard_time": 1739334382,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 112590,
+        "num": 240409,
+        "word": "微博元宵汇",
+        "onboard_time": 1739344400,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239935,
+        "num": 239935,
+        "word": "哪吒2进全球票房榜前25",
+        "onboard_time": 1739334743,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 231300,
+        "num": 231300,
+        "word": "孕期脐带打结几乎无法预防",
+        "onboard_time": 1739345481,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 98653,
+        "num": 227973,
+        "word": "浪姐6路透",
+        "onboard_time": 1739345601,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226840,
+        "num": 226840,
+        "word": "哪吒",
+        "onboard_time": 1739315356,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 218897,
+        "num": 218897,
+        "word": "五福临门直播",
+        "onboard_time": 1739344040,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139981,
+        "num": 217643,
+        "word": "与林高远一起不惧雨雪风霜",
+        "onboard_time": 1739344580,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216494,
+        "num": 216494,
+        "word": "哪吒2票房也别保守到160亿",
+        "onboard_time": 1739345721,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204775,
+        "num": 204775,
+        "word": "女子感觉洗头被烫伤店员说活不起",
+        "onboard_time": 1739344400,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109216,
+        "num": 200995,
+        "word": "赵露思请小谢和女儿去迪士尼",
+        "onboard_time": 1739344701,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199986,
+        "num": 199986,
+        "word": "李宇春喊话龙丹妮录完了",
+        "onboard_time": 1739342360,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193727,
+        "num": 193727,
+        "word": "五福临门",
+        "onboard_time": 1739341521,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186768,
+        "num": 186768,
+        "word": "女子吐槽袜子上出现狗牵女性不雅图片",
+        "onboard_time": 1739326217,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165959,
+        "num": 165959,
+        "word": "锦月如歌",
+        "onboard_time": 1739345421,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161700,
+        "num": 161700,
+        "word": "沈小婷被前公司起诉",
+        "onboard_time": 1739339241,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145112,
+        "num": 145112,
+        "word": "多邻国猫头鹰去世",
+        "onboard_time": 1739326639,
+        "rank": 47,
+        "category": "互联网,教育"
+      },
+      {
+        "raw_hot": 142361,
+        "num": 142361,
+        "word": "元宵节解放军位台岛周边实兵演练",
+        "onboard_time": 1739344882,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 132328,
+        "num": 132328,
+        "word": "元宵节快乐",
+        "onboard_time": 1739340200,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#把各民族优秀传统文化发扬光大#"
+    }
+  }
+}
