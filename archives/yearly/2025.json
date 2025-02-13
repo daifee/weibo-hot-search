@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1739438687172,
+  "endTime": 1739439471714,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -969,6 +969,14 @@
       "onboard_time": 1736134101,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3243282,
+      "num": 3243282,
+      "word": "哪吒2突破99亿",
+      "onboard_time": 1739437641,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 3232536,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1738629201,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2077247,
-      "num": 351308,
-      "word": "陈哲远假唱忘记拿麦",
-      "onboard_time": 1735649307,
-      "rank": 30,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
