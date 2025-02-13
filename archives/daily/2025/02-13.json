@@ -1,6 +1,6 @@
 {
   "startTime": 1739377766335,
-  "endTime": 1739442262886,
+  "endTime": 1739443299135,
   "band_list": [
     {
       "raw_hot": 6171526,
@@ -19,7 +19,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 2777979,
+      "raw_hot": 2831846,
       "num": 399809,
       "word": "演员高亮去世",
       "onboard_time": 1739439980,
@@ -107,6 +107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1313056,
+      "num": 678347,
+      "word": "吒儿冲破100亿倒计时",
+      "onboard_time": 1739434161,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1239221,
       "num": 566345,
       "word": "期待哪吒2票房超过100亿",
@@ -128,14 +136,6 @@
       "word": "成都一影院29.9元只放哪吒2",
       "onboard_time": 1739422702,
       "rank": 6,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 1128619,
-      "num": 532666,
-      "word": "吒儿冲破100亿倒计时",
-      "onboard_time": 1739434161,
-      "rank": 25,
       "category": "电影"
     },
     {
@@ -184,6 +184,14 @@
       "word": "哪吒2破96亿",
       "onboard_time": 1739374761,
       "rank": 1,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1003480,
+      "num": 502564,
+      "word": "哪吒2又又又又破纪录了",
+      "onboard_time": 1739437940,
+      "rank": 23,
       "category": "电影"
     },
     {
@@ -283,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 676280,
+      "num": 676280,
+      "word": "洛杉矶遇害女生托福满分拿奖学金",
+      "onboard_time": 1739439800,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 675619,
       "num": 419370,
       "word": "3岁女童跟妈妈看房从7楼摔下",
@@ -339,20 +355,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 604805,
-      "num": 439815,
-      "word": "哪吒2又又又又破纪录了",
-      "onboard_time": 1739437940,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 596989,
       "num": 596989,
       "word": "1折火车票来了",
       "onboard_time": 1739413880,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 591500,
+      "num": 344056,
+      "word": "春节档流量明星失灵了",
+      "onboard_time": 1739441722,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 587811,
@@ -443,6 +459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 509836,
+      "num": 509836,
+      "word": "00后新人办三无婚礼",
+      "onboard_time": 1739438601,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 480867,
       "num": 480867,
       "word": "台湾一商场爆炸5死13伤",
@@ -465,14 +489,6 @@
       "onboard_time": 1739427859,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 475909,
-      "num": 475909,
-      "word": "洛杉矶遇害女生托福满分拿奖学金",
-      "onboard_time": 1739439800,
-      "rank": 4,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 472460,
@@ -531,14 +547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 427427,
-      "num": 427427,
-      "word": "00后新人办三无婚礼",
-      "onboard_time": 1739438601,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 425652,
       "num": 393989,
       "word": "邓为被邪恶车厘子说红温了",
@@ -547,12 +555,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 424143,
+      "num": 424143,
+      "word": "幼师作品获奖却被未参与同事挤掉署名",
+      "onboard_time": 1739441361,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 417379,
       "num": 363106,
       "word": "沙溢瘦太多了",
       "onboard_time": 1739366544,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 413036,
+      "num": 374082,
+      "word": "哪吒",
+      "onboard_time": 1739403858,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 400486,
@@ -617,14 +641,6 @@
       "onboard_time": 1739419280,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 374082,
-      "num": 374082,
-      "word": "哪吒",
-      "onboard_time": 1739403858,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 370771,
@@ -843,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 273559,
+      "num": 273559,
+      "word": "孙颖莎说WTT需要奥运冠军去参赛",
+      "onboard_time": 1739442442,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 273507,
       "num": 266602,
       "word": "刘亦菲羽毛头",
@@ -907,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249515,
+      "num": 219625,
+      "word": "刘浩存换了微博小尾巴",
+      "onboard_time": 1739441543,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 241141,
       "num": 241141,
       "word": "饺子导演绘画一次性成型没有废笔",
@@ -939,14 +971,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 237227,
-      "num": 219625,
-      "word": "刘浩存换了微博小尾巴",
-      "onboard_time": 1739441543,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 236867,
       "num": 269095,
       "word": "原来小猫上厕所也会憋不住",
@@ -961,6 +985,14 @@
       "onboard_time": 1739415140,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 234218,
+      "num": 234218,
+      "word": "中方要求澳大利亚停止侵权挑衅",
+      "onboard_time": 1739438361,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 232179,
@@ -1211,6 +1243,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 197896,
+      "num": 197896,
+      "word": "刘诗诗新剧夜宴步步惊心",
+      "onboard_time": 1739442802,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 197621,
+      "num": 197621,
+      "word": "登陆少年新歌我VSJustinBieber",
+      "onboard_time": 1739442201,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 197452,
       "num": 197452,
       "word": "声生不息巡演阵容官宣",
@@ -1257,14 +1305,6 @@
       "onboard_time": 1739367683,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192294,
-      "num": 192294,
-      "word": "春节档流量明星失灵了",
-      "onboard_time": 1739441722,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 191097,
@@ -1369,14 +1409,6 @@
       "onboard_time": 1739431040,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 184807,
-      "num": 222306,
-      "word": "中方要求澳大利亚停止侵权挑衅",
-      "onboard_time": 1739438361,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 183503,
@@ -1531,12 +1563,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 162911,
-      "num": 390943,
-      "word": "幼师作品获奖却被未参与同事挤掉署名",
-      "onboard_time": 1739441361,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 163298,
+      "num": 163298,
+      "word": "唐嫣波浪卷发",
+      "onboard_time": 1739442021,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 162066,
@@ -1779,6 +1811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141934,
+      "num": 141934,
+      "word": "韩东君说原生家庭不是你的爱情",
+      "onboard_time": 1739442683,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141208,
       "num": 293749,
       "word": "保安持棍殴打外卖员被行拘",
@@ -1843,6 +1883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136152,
+      "num": 136152,
+      "word": "舜天化工回应单身员工不结婚就解雇",
+      "onboard_time": 1739442442,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135671,
       "num": 135671,
       "word": "元宵晚会魔术",
@@ -1857,6 +1905,14 @@
       "onboard_time": 1739425223,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132394,
+      "num": 132394,
+      "word": "唐嫣复古氤氲大片",
+      "onboard_time": 1739442740,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 130963,
@@ -1915,6 +1971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123476,
+      "num": 123476,
+      "word": "中国乒乓球队回应WTT",
+      "onboard_time": 1739443041,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122282,
       "num": 122282,
       "word": "哪吒的新鳞甲是我们的文化自信",
@@ -1947,28 +2011,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 121844,
-      "num": 121844,
-      "word": "唐嫣波浪卷发",
-      "onboard_time": 1739442021,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 120782,
-      "num": 120782,
+      "raw_hot": 121846,
+      "num": 197634,
       "word": "香港金价一克便宜80元",
       "onboard_time": 1739440341,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 119349,
-      "num": 119349,
-      "word": "登陆少年新歌我VSJustinBieber",
-      "onboard_time": 1739442201,
-      "rank": 48,
-      "category": "音乐"
     },
     {
       "raw_hot": 118391,
@@ -2035,12 +2083,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114115,
+      "num": 114115,
+      "word": "周鸿祎称很多00后员工都单身",
+      "onboard_time": 1739440341,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 113925,
       "num": 113925,
       "word": "小县城凭哪吒分账票房冲进全国前5",
       "onboard_time": 1739353821,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 112314,
+      "num": 112314,
+      "word": "杨羡终于抱到五娘了",
+      "onboard_time": 1739443220,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 111891,
@@ -2195,6 +2259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98077,
+      "num": 217448,
+      "word": "好友称洛杉矶遇害女生的男友是凶手",
+      "onboard_time": 1739441422,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 96480,
       "num": 290995,
       "word": "朱易单人滑第五",
@@ -2331,14 +2403,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 77544,
-      "num": 217448,
-      "word": "好友称洛杉矶遇害女生的男友是凶手",
-      "onboard_time": 1739441422,
-      "rank": 28,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 74524,
       "num": 613663,
       "word": "银发列车点亮金色机遇",
@@ -2395,6 +2459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 59275,
+      "num": 232592,
+      "word": "十年前的NCTDREAM",
+      "onboard_time": 1739442323,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58678,
       "num": 84158,
       "word": "夫妻吵架4岁孩子哭着收拾残局",
@@ -2403,12 +2475,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58089,
+      "num": 214873,
+      "word": "NIP对战RNG",
+      "onboard_time": 1739442442,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 55706,
       "num": 181819,
       "word": "中国女留学生南加州遇害详情披露",
       "onboard_time": 1739432121,
       "rank": 35,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 55435,
+      "num": 678822,
+      "word": "我国最大超深原油生产区加快建设",
+      "onboard_time": 1739440642,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54931,
@@ -2505,14 +2593,6 @@
       "onboard_time": 1739396291,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 41269,
-      "num": 574443,
-      "word": "我国最大超深原油生产区加快建设",
-      "onboard_time": 1739440642,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39250,
@@ -2820,6 +2900,9 @@
     },
     {
       "word": "#花灯长廊情深意长#"
+    },
+    {
+      "word": "#绿水青山瞰我家#"
     }
   ]
 }
