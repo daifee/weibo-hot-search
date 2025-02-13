@@ -1,6 +1,6 @@
 {
   "startTime": 1739464152455,
-  "endTime": 1739485282737,
+  "endTime": 1739486316943,
   "band_list": [
     {
       "raw_hot": 1651076,
@@ -267,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105418,
+      "num": 105418,
+      "word": "美战机坠毁两飞行员弹射逃生",
+      "onboard_time": 1739481972,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 98291,
       "num": 98291,
       "word": "孙怡cha了九万字",
@@ -280,6 +288,22 @@
       "word": "乾隆一眼相中的瓶子自带动画特效",
       "onboard_time": 1739463079,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95247,
+      "num": 126735,
+      "word": "校友愤怒回应洛杉矶中国留学生被杀",
+      "onboard_time": 1739452223,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94950,
+      "num": 94950,
+      "word": "65万元春晚机器人一机难求",
+      "onboard_time": 1739470033,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -329,14 +353,6 @@
       "onboard_time": 1739452043,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 87597,
-      "num": 87597,
-      "word": "65万元春晚机器人一机难求",
-      "onboard_time": 1739470033,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84367,
@@ -395,14 +411,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 75777,
-      "num": 126735,
-      "word": "校友愤怒回应洛杉矶中国留学生被杀",
-      "onboard_time": 1739452223,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 73037,
       "num": 126883,
       "word": "董思成新剧从富二代到负二代",
@@ -433,14 +441,6 @@
       "onboard_time": 1739456781,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 62363,
-      "num": 62363,
-      "word": "美战机坠毁两飞行员弹射逃生",
-      "onboard_time": 1739481972,
-      "rank": 49,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 40403,
@@ -491,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34416,
+      "num": 34416,
+      "word": "复旦教授回应提倡年轻人啃老",
+      "onboard_time": 1739472371,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33225,
       "num": 33225,
       "word": "王楚钦说会更多注重重要赛事",
@@ -505,14 +513,6 @@
       "onboard_time": 1739455762,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 29885,
-      "num": 29885,
-      "word": "复旦教授回应提倡年轻人啃老",
-      "onboard_time": 1739472371,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 28452,
@@ -563,8 +563,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 14871,
-      "num": 28845,
+      "raw_hot": 15596,
+      "num": 30344,
       "word": "感觉已经在驭猪飞行了",
       "onboard_time": 1739473751,
       "rank": 49,
