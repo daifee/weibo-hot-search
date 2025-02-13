@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/02/13 17:37:51
+本榜单时间：2025/01/01 00:26:38 ~ 2025/02/13 18:24:22
 </p>
 </blockquote>
 <p>
@@ -1029,6 +1029,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E9%AB%98%E4%BA%AE%E5%8E%BB%E4%B8%96%23" target="weibo">
+演员高亮去世（热度：2777979）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BA%AF%20%E9%A9%AC%E9%A0%94%23" target="weibo">
 李纯 马頔（热度：2773326）
 </a>
@@ -1805,12 +1811,6 @@ B站弹幕（热度：2270595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%86%8A%E5%87%BA%E6%B2%A1%E7%A5%A8%E6%88%BF%E8%B6%85%E8%BF%87%E5%B0%84%E9%9B%95%23" target="weibo">
 熊出没票房超过射雕（热度：2085747）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8FS%E6%9B%BE%E5%9C%A8%E5%A7%90%E5%A7%90%E5%8E%BB%E4%B8%96%E5%89%8D%E5%87%A0%E5%B0%8F%E6%97%B6%E5%92%8C%E5%A6%88%E5%A6%88%E8%B7%B3%E8%88%9E%23" target="weibo">
-小S曾在姐姐去世前几小时和妈妈跳舞（热度：2081006）
 </a>
 </li>
 

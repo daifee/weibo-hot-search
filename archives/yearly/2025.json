@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1739439471714,
+  "endTime": 1739442262886,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1355,6 +1355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2777979,
+      "num": 399809,
+      "word": "演员高亮去世",
+      "onboard_time": 1739439980,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2773326,
       "num": 691236,
       "word": "李纯 马頔",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1739085919,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 2081006,
-      "num": 304018,
-      "word": "小S曾在姐姐去世前几小时和妈妈跳舞",
-      "onboard_time": 1738629201,
-      "rank": 10,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
