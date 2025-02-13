@@ -1,6 +1,6 @@
 {
   "startTime": 1739377766335,
-  "endTime": 1739415682457,
+  "endTime": 1739417197060,
   "band_list": [
     {
       "raw_hot": 1780872,
@@ -27,12 +27,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1283761,
-      "num": 1283761,
+      "raw_hot": 1490897,
+      "num": 1490897,
       "word": "哪吒2已超97亿",
       "onboard_time": 1739413640,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1456458,
+      "num": 369208,
+      "word": "潘玮柏女儿这么大了",
+      "onboard_time": 1739415199,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 1093484,
@@ -51,6 +59,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1026488,
+      "num": 1026488,
+      "word": "中国留学生洛杉矶遇害",
+      "onboard_time": 1739413880,
+      "rank": 5,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 969677,
       "num": 969677,
       "word": "女生来云南散心前后判若两人",
@@ -67,12 +83,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 741388,
+      "num": 493682,
+      "word": "哪吒2全球票房T0P20",
+      "onboard_time": 1739415438,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 671026,
       "num": 671026,
       "word": "留几手直播谈麦琳",
       "onboard_time": 1739407760,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 631441,
+      "num": 366360,
+      "word": "哪吒2国际版海报来了",
+      "onboard_time": 1739415559,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 606561,
@@ -83,20 +115,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 606042,
-      "num": 606042,
-      "word": "中国留学生洛杉矶遇害",
-      "onboard_time": 1739413880,
-      "rank": 5,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 563326,
       "num": 563326,
       "word": "李嘉琦浪姐路透瘦了好多",
       "onboard_time": 1739403498,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 562306,
+      "num": 562306,
+      "word": "1折火车票来了",
+      "onboard_time": 1739413880,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 536464,
+      "num": 356255,
+      "word": "网红臭蛋称被拼接不雅视频",
+      "onboard_time": 1739413521,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 532704,
+      "num": 532704,
+      "word": "文心一言4月1日起全面免费",
+      "onboard_time": 1739415438,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 527750,
@@ -132,7 +180,7 @@
     },
     {
       "raw_hot": 441767,
-      "num": 191383,
+      "num": 271485,
       "word": "原来中医不让多吃水果是真的",
       "onboard_time": 1739412080,
       "rank": 20,
@@ -147,28 +195,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 423257,
-      "num": 423257,
-      "word": "1折火车票来了",
-      "onboard_time": 1739413880,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 417379,
       "num": 363106,
       "word": "沙溢瘦太多了",
       "onboard_time": 1739366544,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 412704,
-      "num": 309005,
-      "word": "网红臭蛋称被拼接不雅视频",
-      "onboard_time": 1739413521,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 391243,
@@ -203,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 353474,
+      "num": 353474,
+      "word": "女子找男模3个月花450万公款被刑拘",
+      "onboard_time": 1739407581,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 326953,
       "num": 197632,
       "word": "43岁女子找男模花光450万公款",
@@ -219,14 +259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 323536,
-      "num": 177202,
-      "word": "潘玮柏女儿这么大了",
-      "onboard_time": 1739415199,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 317846,
       "num": 317846,
       "word": "土豆吕严小品",
@@ -235,8 +267,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 309743,
+      "num": 309743,
+      "word": "刘亦菲ELLE开季刊预热",
+      "onboard_time": 1739415559,
+      "rank": 48,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 299082,
-      "num": 208547,
+      "num": 259700,
       "word": "哪吒",
       "onboard_time": 1739403858,
       "rank": 19,
@@ -300,11 +340,27 @@
     },
     {
       "raw_hot": 267573,
-      "num": 191604,
+      "num": 244896,
       "word": "香港一医生疑因大肠杆菌感染重症去世",
       "onboard_time": 1739408480,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 263712,
+      "num": 374527,
+      "word": "最高检披露油罐车运输食用油案进展",
+      "onboard_time": 1739415378,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 234195,
+      "num": 362529,
+      "word": "银行小克重金条集体无现货",
+      "onboard_time": 1739416460,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 230972,
@@ -323,12 +379,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229679,
+      "num": 229679,
+      "word": "美军一架近5亿人民币的战机坠海",
+      "onboard_time": 1739416340,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 220706,
       "num": 177845,
       "word": "曾经很火但逐渐消失了的品牌",
       "onboard_time": 1739367083,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 211432,
+      "num": 211432,
+      "word": "周深在台下听着快哭了",
+      "onboard_time": 1739416579,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 210792,
+      "num": 210792,
+      "word": "登山式睡姿毁腰毁髋",
+      "onboard_time": 1739412080,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 208157,
@@ -355,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200629,
+      "num": 200629,
+      "word": "任敏中戏同学参加育儿综艺",
+      "onboard_time": 1739417121,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200423,
       "num": 156055,
       "word": "票房",
@@ -379,14 +467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 195586,
-      "num": 190945,
-      "word": "哪吒2国际版海报来了",
-      "onboard_time": 1739415559,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 194022,
       "num": 194022,
       "word": "不负好春光 上春山",
@@ -401,14 +481,6 @@
       "onboard_time": 1739412499,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 190452,
-      "num": 175405,
-      "word": "文心一言4月1日起全面免费",
-      "onboard_time": 1739415438,
-      "rank": 31,
-      "category": "互联网"
     },
     {
       "raw_hot": 188891,
@@ -443,19 +515,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 186127,
-      "num": 191679,
-      "word": "女子找男模3个月花450万公款被刑拘",
-      "onboard_time": 1739407581,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 183503,
       "num": 183503,
       "word": "17岁男孩遭人勒索还被脚踹围殴",
       "onboard_time": 1739411358,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183412,
+      "num": 183412,
+      "word": "小熊猫进酒店房间互动咬伤游客",
+      "onboard_time": 1739414721,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -483,14 +555,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 171575,
-      "num": 171575,
-      "word": "小熊猫进酒店房间互动咬伤游客",
-      "onboard_time": 1739414721,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 170284,
       "num": 169557,
       "word": "女子年前卖掉为儿子攒的三金赚10多万",
@@ -505,6 +569,14 @@
       "onboard_time": 1739369903,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 169426,
+      "num": 169426,
+      "word": "菲律宾一保安因同事上班迟到将其射杀",
+      "onboard_time": 1739415140,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 164334,
@@ -619,6 +691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 137383,
+      "num": 137383,
+      "word": "情人节不要内卷式送礼了",
+      "onboard_time": 1739412379,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137304,
       "num": 137304,
       "word": "今麦郎",
@@ -633,6 +713,14 @@
       "onboard_time": 1739377878,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136363,
+      "num": 372550,
+      "word": "4万余名缅北涉诈人员被批捕",
+      "onboard_time": 1739416159,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 135671,
@@ -651,12 +739,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 128255,
-      "num": 128255,
-      "word": "登山式睡姿毁腰毁髋",
-      "onboard_time": 1739412080,
-      "rank": 42,
-      "category": "健康医疗"
+      "raw_hot": 130638,
+      "num": 130638,
+      "word": "精致了50年的女孩子会怎样",
+      "onboard_time": 1739416939,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127055,
@@ -683,6 +771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 121952,
+      "num": 191467,
+      "word": "貂蝉猫影幻舞星传说",
+      "onboard_time": 1739410759,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 118391,
       "num": 118391,
       "word": "央妈很懂我",
@@ -707,14 +803,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 117300,
-      "num": 191467,
-      "word": "貂蝉猫影幻舞星传说",
-      "onboard_time": 1739410759,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 115702,
       "num": 115702,
       "word": "鞠婧祎 花仙",
@@ -728,14 +816,6 @@
       "word": "曝100多名娃哈哈老员工年终奖减半",
       "onboard_time": 1739378237,
       "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 114207,
-      "num": 114207,
-      "word": "情人节不要内卷式送礼了",
-      "onboard_time": 1739412379,
-      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -867,20 +947,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 95100,
-      "num": 95100,
-      "word": "菲律宾一保安因同事上班迟到将其射杀",
-      "onboard_time": 1739415140,
-      "rank": 47,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 93159,
-      "num": 93159,
-      "word": "刘亦菲ELLE开季刊预热",
-      "onboard_time": 1739415559,
-      "rank": 48,
-      "category": "艺人,时尚"
+      "raw_hot": 91685,
+      "num": 274203,
+      "word": "男子除夕看烟花被爆竹击中右眼摘除",
+      "onboard_time": 1739416279,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87991,
@@ -929,14 +1001,6 @@
       "onboard_time": 1739370083,
       "rank": 47,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 81814,
-      "num": 191364,
-      "word": "最高检披露油罐车运输食用油案进展",
-      "onboard_time": 1739415378,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 81282,
@@ -1035,6 +1099,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 50541,
+      "num": 359543,
+      "word": "明家跨境犯罪集团被公诉",
+      "onboard_time": 1739416700,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 44973,
       "num": 44973,
       "word": "杨蓉把魏晨何炅张若昀演沉默了",
@@ -1057,6 +1129,14 @@
       "onboard_time": 1739396291,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 39250,
+      "num": 239940,
+      "word": "湮灭之潮",
+      "onboard_time": 1739416279,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 34911,
