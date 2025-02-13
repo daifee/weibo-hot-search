@@ -1,0 +1,410 @@
+{
+  "runTime": 1739415682457,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1283761,
+        "num": 1283761,
+        "word": "哪吒2已超97亿",
+        "onboard_time": 1739413640,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 606042,
+        "num": 606042,
+        "word": "中国留学生洛杉矶遇害",
+        "onboard_time": 1739413880,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 40977,
+        "num": 514886,
+        "word": "一大批重大外资项目加快推进",
+        "onboard_time": 1739367322,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1088501,
+        "num": 498033,
+        "word": "饺子导演画着呢画着呢",
+        "onboard_time": 1739410520,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 446782,
+        "num": 446782,
+        "word": "女生来云南散心前后判若两人",
+        "onboard_time": 1739381774,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 423257,
+        "num": 423257,
+        "word": "1折火车票来了",
+        "onboard_time": 1739413880,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 883089,
+        "num": 401807,
+        "word": "演员别把肇事逃逸当演戏",
+        "onboard_time": 1739404939,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 451654,
+        "num": 396438,
+        "word": "哪吒打人 敖丙劝架",
+        "onboard_time": 1739364023,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308483,
+        "num": 308483,
+        "word": "全球首例同时换脸换手男子结婚",
+        "onboard_time": 1739369544,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 192012,
+        "num": 192012,
+        "word": "身份证号码泄露有哪些危害",
+        "onboard_time": 1739366844,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 412704,
+        "num": 191963,
+        "word": "网红臭蛋称被拼接不雅视频",
+        "onboard_time": 1739413521,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 316480,
+        "num": 191914,
+        "word": "李嘉琦浪姐路透瘦了好多",
+        "onboard_time": 1739403498,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302026,
+        "num": 191841,
+        "word": "留几手直播谈麦琳",
+        "onboard_time": 1739407760,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299196,
+        "num": 191806,
+        "word": "虞书欣何与双轨拥吻路透",
+        "onboard_time": 1739409499,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299082,
+        "num": 191728,
+        "word": "哪吒",
+        "onboard_time": 1739403858,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186127,
+        "num": 191679,
+        "word": "女子找男模3个月花450万公款被刑拘",
+        "onboard_time": 1739407581,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173565,
+        "num": 191631,
+        "word": "宗馥莉正式接管娃哈哈食品公司",
+        "onboard_time": 1739411659,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134430,
+        "num": 191565,
+        "word": "特朗普称俄美希望结束俄乌冲突",
+        "onboard_time": 1739403317,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123835,
+        "num": 191517,
+        "word": "美国一战斗机坠毁2名飞行员获救",
+        "onboard_time": 1739403918,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 117300,
+        "num": 191467,
+        "word": "貂蝉猫影幻舞星传说",
+        "onboard_time": 1739410759,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 441767,
+        "num": 191383,
+        "word": "原来中医不让多吃水果是真的",
+        "onboard_time": 1739412080,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 81814,
+        "num": 191364,
+        "word": "最高检披露油罐车运输食用油案进展",
+        "onboard_time": 1739415378,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267573,
+        "num": 191305,
+        "word": "香港一医生疑因大肠杆菌感染重症去世",
+        "onboard_time": 1739408480,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204321,
+        "num": 191233,
+        "word": "饺子 画册",
+        "onboard_time": 1739403977,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198798,
+        "num": 191175,
+        "word": "乐山大佛上天了",
+        "onboard_time": 1739413159,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195886,
+        "num": 191133,
+        "word": "哪吒2破96亿",
+        "onboard_time": 1739374761,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191097,
+        "num": 191097,
+        "word": "哪吒2里70%以上戏份饺子演过一遍",
+        "onboard_time": 1739412499,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195586,
+        "num": 190945,
+        "word": "哪吒2国际版海报来了",
+        "onboard_time": 1739415559,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188891,
+        "num": 188891,
+        "word": "祝绪丹白得好像开了滤镜",
+        "onboard_time": 1739408121,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177563,
+        "num": 177563,
+        "word": "女子双肺全白丈夫守护33天不离弃",
+        "onboard_time": 1739403977,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323536,
+        "num": 177202,
+        "word": "潘玮柏女儿这么大了",
+        "onboard_time": 1739415199,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190452,
+        "num": 175405,
+        "word": "文心一言4月1日起全面免费",
+        "onboard_time": 1739415438,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 171575,
+        "num": 171575,
+        "word": "小熊猫进酒店房间互动咬伤游客",
+        "onboard_time": 1739414721,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150907,
+        "num": 150907,
+        "word": "柳智敏权志龙将合作",
+        "onboard_time": 1739412019,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128255,
+        "num": 128255,
+        "word": "登山式睡姿毁腰毁髋",
+        "onboard_time": 1739412080,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128006,
+        "num": 128006,
+        "word": "今麦郎",
+        "onboard_time": 1739411299,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119923,
+        "num": 119923,
+        "word": "44岁宝妈怀第7胎已生4女2男",
+        "onboard_time": 1739370622,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1133257,
+        "num": 119184,
+        "word": "饺子 早知道十亿十亿画了",
+        "onboard_time": 1739367562,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117974,
+        "num": 117974,
+        "word": "哪吒3计划上映时间又改回2028年",
+        "onboard_time": 1739379136,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115144,
+        "num": 115144,
+        "word": "有人来管管这个撒贝宁吗",
+        "onboard_time": 1739368763,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114958,
+        "num": 114958,
+        "word": "沙溢瘦太多了",
+        "onboard_time": 1739366544,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114207,
+        "num": 114207,
+        "word": "情人节不要内卷式送礼了",
+        "onboard_time": 1739412379,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110052,
+        "num": 110052,
+        "word": "长发肖战",
+        "onboard_time": 1739369842,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109749,
+        "num": 109749,
+        "word": "圆字能带出多少祝福",
+        "onboard_time": 1739405840,
+        "rank": 43,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 108315,
+        "num": 108315,
+        "word": "特朗普称美已向乌提供3500亿美元",
+        "onboard_time": 1739414479,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108196,
+        "num": 108196,
+        "word": "卡琳娜像李艺彤请来的cos委托",
+        "onboard_time": 1739406922,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103320,
+        "num": 103320,
+        "word": "鸣潮",
+        "onboard_time": 1739415500,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 95100,
+        "num": 95100,
+        "word": "菲律宾一保安因同事上班迟到将其射杀",
+        "onboard_time": 1739415140,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 93159,
+        "num": 93159,
+        "word": "刘亦菲ELLE开季刊预热",
+        "onboard_time": 1739415559,
+        "rank": 48,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 173274,
+        "num": 91786,
+        "word": "人民日报专访哪吒2主创",
+        "onboard_time": 1739408901,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记家国同祝的问候与叮嘱#"
+    }
+  }
+}

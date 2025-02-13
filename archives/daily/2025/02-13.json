@@ -1,6 +1,6 @@
 {
   "startTime": 1739377766335,
-  "endTime": 1739415146315,
+  "endTime": 1739415682457,
   "band_list": [
     {
       "raw_hot": 1780872,
@@ -27,8 +27,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1137695,
-      "num": 1182031,
+      "raw_hot": 1283761,
+      "num": 1283761,
       "word": "哪吒2已超97亿",
       "onboard_time": 1739413640,
       "rank": 0,
@@ -83,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 606042,
+      "num": 606042,
+      "word": "中国留学生洛杉矶遇害",
+      "onboard_time": 1739413880,
+      "rank": 5,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 563326,
       "num": 563326,
       "word": "李嘉琦浪姐路透瘦了好多",
@@ -123,12 +131,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 441767,
+      "num": 191383,
+      "word": "原来中医不让多吃水果是真的",
+      "onboard_time": 1739412080,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 438101,
       "num": 438101,
       "word": "哪吒被藕饼整破防了",
       "onboard_time": 1739372302,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 423257,
+      "num": 423257,
+      "word": "1折火车票来了",
+      "onboard_time": 1739413880,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 417379,
@@ -139,20 +163,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 406750,
-      "num": 406750,
-      "word": "中国留学生洛杉矶遇害",
-      "onboard_time": 1739413880,
-      "rank": 5,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 393647,
-      "num": 180711,
-      "word": "原来中医不让多吃水果是真的",
-      "onboard_time": 1739412080,
-      "rank": 20,
-      "category": "健康医疗"
+      "raw_hot": 412704,
+      "num": 309005,
+      "word": "网红臭蛋称被拼接不雅视频",
+      "onboard_time": 1739413521,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 391243,
@@ -203,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 323536,
+      "num": 177202,
+      "word": "潘玮柏女儿这么大了",
+      "onboard_time": 1739415199,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 317846,
       "num": 317846,
       "word": "土豆吕严小品",
@@ -211,12 +235,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 309005,
-      "num": 309005,
-      "word": "网红臭蛋称被拼接不雅视频",
-      "onboard_time": 1739413521,
-      "rank": 11,
-      "category": "网红"
+      "raw_hot": 299082,
+      "num": 208547,
+      "word": "哪吒",
+      "onboard_time": 1739403858,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 293556,
@@ -259,14 +283,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 283559,
-      "num": 208547,
-      "word": "哪吒",
-      "onboard_time": 1739403858,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 281887,
       "num": 281887,
       "word": "外交部回应哪吒2登陆北美",
@@ -283,19 +299,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 266320,
+      "raw_hot": 267573,
       "num": 191604,
       "word": "香港一医生疑因大肠杆菌感染重症去世",
       "onboard_time": 1739408480,
       "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 257185,
-      "num": 257185,
-      "word": "1折火车票来了",
-      "onboard_time": 1739413880,
-      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -363,12 +371,52 @@
       "category": "电影"
     },
     {
+      "raw_hot": 198798,
+      "num": 191175,
+      "word": "乐山大佛上天了",
+      "onboard_time": 1739413159,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195586,
+      "num": 190945,
+      "word": "哪吒2国际版海报来了",
+      "onboard_time": 1739415559,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 194022,
       "num": 194022,
       "word": "不负好春光 上春山",
       "onboard_time": 1739367683,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191097,
+      "num": 191097,
+      "word": "哪吒2里70%以上戏份饺子演过一遍",
+      "onboard_time": 1739412499,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 190452,
+      "num": 175405,
+      "word": "文心一言4月1日起全面免费",
+      "onboard_time": 1739415438,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 188891,
+      "num": 188891,
+      "word": "祝绪丹白得好像开了滤镜",
+      "onboard_time": 1739408121,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 187715,
@@ -395,12 +443,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 185385,
-      "num": 177913,
-      "word": "祝绪丹白得好像开了滤镜",
-      "onboard_time": 1739408121,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 186127,
+      "num": 191679,
+      "word": "女子找男模3个月花450万公款被刑拘",
+      "onboard_time": 1739407581,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 183503,
@@ -412,7 +460,7 @@
     },
     {
       "raw_hot": 180968,
-      "num": 180968,
+      "num": 191631,
       "word": "宗馥莉正式接管娃哈哈食品公司",
       "onboard_time": 1739411659,
       "rank": 48,
@@ -427,28 +475,20 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 177863,
-      "num": 177863,
-      "word": "乐山大佛上天了",
-      "onboard_time": 1739413159,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 173798,
-      "num": 173798,
-      "word": "女子找男模3个月花450万公款被刑拘",
-      "onboard_time": 1739407581,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 173672,
       "num": 173672,
       "word": "柳智敏权志龙将合作",
       "onboard_time": 1739412019,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 171575,
+      "num": 171575,
+      "word": "小熊猫进酒店房间互动咬伤游客",
+      "onboard_time": 1739414721,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170284,
@@ -465,14 +505,6 @@
       "onboard_time": 1739369903,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 167879,
-      "num": 184043,
-      "word": "哪吒2里70%以上戏份饺子演过一遍",
-      "onboard_time": 1739412499,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 164334,
@@ -603,14 +635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 135835,
-      "num": 135835,
-      "word": "小熊猫进酒店房间互动咬伤游客",
-      "onboard_time": 1739414721,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135671,
       "num": 135671,
       "word": "元宵晚会魔术",
@@ -625,6 +649,14 @@
       "onboard_time": 1739346200,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128255,
+      "num": 128255,
+      "word": "登山式睡姿毁腰毁髋",
+      "onboard_time": 1739412080,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 127055,
@@ -675,8 +707,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 116785,
-      "num": 184542,
+      "raw_hot": 117300,
+      "num": 191467,
       "word": "貂蝉猫影幻舞星传说",
       "onboard_time": 1739410759,
       "rank": 44,
@@ -696,6 +728,14 @@
       "word": "曝100多名娃哈哈老员工年终奖减半",
       "onboard_time": 1739378237,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114207,
+      "num": 114207,
+      "word": "情人节不要内卷式送礼了",
+      "onboard_time": 1739412379,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -739,20 +779,20 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 108315,
+      "num": 108315,
+      "word": "特朗普称美已向乌提供3500亿美元",
+      "onboard_time": 1739414479,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 108279,
       "num": 108279,
       "word": "OpenAI真的火力全开了",
       "onboard_time": 1739411299,
       "rank": 44,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 107611,
-      "num": 107611,
-      "word": "情人节不要内卷式送礼了",
-      "onboard_time": 1739412379,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107380,
@@ -771,19 +811,19 @@
       "category": "教育"
     },
     {
-      "raw_hot": 105494,
-      "num": 105494,
-      "word": "登山式睡姿毁腰毁髋",
-      "onboard_time": 1739412080,
-      "rank": 42,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 103810,
       "num": 103810,
       "word": "无双深渊",
       "onboard_time": 1739410339,
       "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 103320,
+      "num": 103320,
+      "word": "鸣潮",
+      "onboard_time": 1739415500,
+      "rank": 46,
       "category": "游戏"
     },
     {
@@ -827,12 +867,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 94269,
-      "num": 94269,
-      "word": "特朗普称美已向乌提供3500亿美元",
-      "onboard_time": 1739414479,
-      "rank": 46,
-      "category": "国际时政"
+      "raw_hot": 95100,
+      "num": 95100,
+      "word": "菲律宾一保安因同事上班迟到将其射杀",
+      "onboard_time": 1739415140,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 93159,
+      "num": 93159,
+      "word": "刘亦菲ELLE开季刊预热",
+      "onboard_time": 1739415559,
+      "rank": 48,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 87991,
@@ -881,6 +929,14 @@
       "onboard_time": 1739370083,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 81814,
+      "num": 191364,
+      "word": "最高检披露油罐车运输食用油案进展",
+      "onboard_time": 1739415378,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81282,
