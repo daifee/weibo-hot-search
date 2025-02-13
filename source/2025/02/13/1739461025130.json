@@ -1,0 +1,410 @@
+{
+  "runTime": 1739461025130,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2891113,
+        "num": 2891113,
+        "word": "哪吒2破100亿",
+        "onboard_time": 1739445507,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1301081,
+        "num": 1301081,
+        "word": "两千万粉丝小网红母亲回应摆拍质疑",
+        "onboard_time": 1739451442,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26164,
+        "num": 800378,
+        "word": "首善答卷",
+        "onboard_time": 1739454563,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1639523,
+        "num": 784415,
+        "word": "张艺谋祝贺哪吒2破百亿",
+        "onboard_time": 1739460141,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 643467,
+        "num": 643467,
+        "word": "泽连斯基决定以叛国罪逮捕波罗申科",
+        "onboard_time": 1739457502,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 620561,
+        "num": 620561,
+        "word": "国务院国资委正在筹备组建一家新央企",
+        "onboard_time": 1739459661,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1231875,
+        "num": 615577,
+        "word": "哪吒2破百亿票房曲线图太燃了",
+        "onboard_time": 1739455102,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 605406,
+        "num": 605406,
+        "word": "妈妈离婚后失联6年孩子盼见面",
+        "onboard_time": 1739457022,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1175693,
+        "num": 542603,
+        "word": "孙千画了哪吒敖丙",
+        "onboard_time": 1739455703,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 459231,
+        "num": 459231,
+        "word": "光线传媒股价7天暴涨200%",
+        "onboard_time": 1739457526,
+        "rank": 9,
+        "category": "财经,电影"
+      },
+      {
+        "raw_hot": 836126,
+        "num": 457015,
+        "word": "陈岚",
+        "onboard_time": 1739454084,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 802063,
+        "num": 456292,
+        "word": "众星祝贺哪吒2",
+        "onboard_time": 1739456183,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 702490,
+        "num": 453733,
+        "word": "甄嬛传余莺儿扮演者被行拘",
+        "onboard_time": 1739449822,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 579859,
+        "num": 451528,
+        "word": "演员高亮去世",
+        "onboard_time": 1739439980,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26156,
+        "num": 450180,
+        "word": "海外华人从呼吁排片到自发包场",
+        "onboard_time": 1739459542,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 448005,
+        "num": 448005,
+        "word": "洛杉矶遇害女生托福满分拿奖学金",
+        "onboard_time": 1739439800,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 386120,
+        "num": 386120,
+        "word": "理记",
+        "onboard_time": 1739454084,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188812,
+        "num": 375710,
+        "word": "孙颖莎说WTT需要奥运冠军去参赛",
+        "onboard_time": 1739442442,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59112,
+        "num": 365537,
+        "word": "刘亦菲刘雯同登ELLE开季刊封面",
+        "onboard_time": 1739459901,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 35806,
+        "num": 333805,
+        "word": "目击者回忆台湾百货大楼爆炸瞬间",
+        "onboard_time": 1739460501,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 425977,
+        "num": 316753,
+        "word": "全球影史票房榜",
+        "onboard_time": 1739447664,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 313359,
+        "num": 313359,
+        "word": "章子怡被演员的表演雷到",
+        "onboard_time": 1739457743,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255291,
+        "num": 255291,
+        "word": "哪吒破百亿荣耀送10亿",
+        "onboard_time": 1739452043,
+        "rank": 22,
+        "category": "电影,数码"
+      },
+      {
+        "raw_hot": 173344,
+        "num": 173344,
+        "word": "教授称985毕业送外卖也很正常",
+        "onboard_time": 1739444782,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102562,
+        "num": 172860,
+        "word": "T1无缘全球先锋赛",
+        "onboard_time": 1739459241,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 249899,
+        "num": 172459,
+        "word": "美国队长4黑人",
+        "onboard_time": 1739454563,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 247867,
+        "num": 171692,
+        "word": "唐诡西行上星",
+        "onboard_time": 1739458101,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180141,
+        "num": 171118,
+        "word": "白敬亭粉丝包场",
+        "onboard_time": 1739460501,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62291,
+        "num": 170254,
+        "word": "朱易总结亚冬会",
+        "onboard_time": 1739460861,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24592,
+        "num": 169546,
+        "word": "公司负责人因阻止强拆遭逮捕公诉",
+        "onboard_time": 1739460621,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 169446,
+        "num": 169446,
+        "word": "即墨公布江某莲涉嫌骗捐等调查结果",
+        "onboard_time": 1739459661,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165194,
+        "num": 165194,
+        "word": "mujica",
+        "onboard_time": 1739459661,
+        "rank": 31,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 147494,
+        "num": 147494,
+        "word": "AI曹政奭直播掉马",
+        "onboard_time": 1739452043,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131091,
+        "num": 131091,
+        "word": "张凌赫白鹿新戏对打",
+        "onboard_time": 1739446526,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123619,
+        "num": 123619,
+        "word": "演技是演员最好的医美",
+        "onboard_time": 1739459601,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122322,
+        "num": 122322,
+        "word": "朱志鑫 heart",
+        "onboard_time": 1739456482,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120494,
+        "num": 120494,
+        "word": "董思成新剧从富二代到负二代",
+        "onboard_time": 1739456604,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119065,
+        "num": 119065,
+        "word": "大学生为救人戒奶茶3个月",
+        "onboard_time": 1739444901,
+        "rank": 37,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 115919,
+        "num": 115919,
+        "word": "26岁女子曝面试时遭七旬男子猥亵",
+        "onboard_time": 1739447366,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115496,
+        "num": 115496,
+        "word": "抠搜萨莉亚被平替后浪偷家了",
+        "onboard_time": 1739456781,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99653,
+        "num": 115495,
+        "word": "秦彻个人艺术展共创企划",
+        "onboard_time": 1739458402,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117384,
+        "num": 115487,
+        "word": "Jennie说基本没有休息日",
+        "onboard_time": 1739451621,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100646,
+        "num": 115483,
+        "word": "缅甸将向泰移交7000名电诈园区人员",
+        "onboard_time": 1739436081,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99725,
+        "num": 115482,
+        "word": "哪吒",
+        "onboard_time": 1739403858,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 90823,
+        "num": 115477,
+        "word": "孙怡cha了九万字",
+        "onboard_time": 1739448384,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82271,
+        "num": 115472,
+        "word": "16岁男生身高疯长到1米99急坏爸妈",
+        "onboard_time": 1739430380,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339732,
+        "num": 115468,
+        "word": "山东一企业通知员工不结婚就离职",
+        "onboard_time": 1739446586,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79788,
+        "num": 115462,
+        "word": "校友愤怒回应洛杉矶中国留学生被杀",
+        "onboard_time": 1739452223,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78102,
+        "num": 115457,
+        "word": "Gumayusi安慰Doran",
+        "onboard_time": 1739459901,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 77207,
+        "num": 115457,
+        "word": "妈妈为追梦辞职后又离婚6年无音讯",
+        "onboard_time": 1739449043,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#绿水青山瞰我家#"
+    }
+  }
+}

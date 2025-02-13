@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739460306288,
+  "endTime": 1739461025130,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1395,6 +1395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1639523,
+      "num": 784415,
+      "word": "张艺谋祝贺哪吒2破百亿",
+      "onboard_time": 1739460141,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1619939,
       "num": 479938,
       "word": "百色去世女生母亲发声",
@@ -2371,6 +2379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1175693,
+      "num": 542603,
+      "word": "孙千画了哪吒敖丙",
+      "onboard_time": 1739455703,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1173377,
       "num": 1187740,
       "word": "哪吒2超98亿",
@@ -2457,14 +2473,6 @@
       "onboard_time": 1738556207,
       "rank": 34,
       "category": "民生新闻,艺人"
-    },
-    {
-      "raw_hot": 1129348,
-      "num": 476961,
-      "word": "孙千画了哪吒敖丙",
-      "onboard_time": 1739455703,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 1127415,
@@ -2865,14 +2873,6 @@
       "onboard_time": 1738629020,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1028638,
-      "num": 272769,
-      "word": "张艺谋祝贺哪吒2破百亿",
-      "onboard_time": 1739460141,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 1028427,
@@ -5691,6 +5691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 620561,
+      "num": 620561,
+      "word": "国务院国资委正在筹备组建一家新央企",
+      "onboard_time": 1739459661,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 617915,
       "num": 617915,
       "word": "黄旭华院士生平",
@@ -5825,6 +5833,14 @@
       "onboard_time": 1738944080,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 605406,
+      "num": 605406,
+      "word": "妈妈离婚后失联6年孩子盼见面",
+      "onboard_time": 1739457022,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 604223,
@@ -7001,14 +7017,6 @@
       "onboard_time": 1739105784,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 520938,
-      "num": 520938,
-      "word": "妈妈离婚后失联6年孩子盼见面",
-      "onboard_time": 1739457022,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 520846,
@@ -8243,6 +8251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 459231,
+      "num": 459231,
+      "word": "光线传媒股价7天暴涨200%",
+      "onboard_time": 1739457526,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 458966,
       "num": 400292,
       "word": "哪吒2破84亿元",
@@ -9249,14 +9265,6 @@
       "onboard_time": 1738801642,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 402233,
-      "num": 402233,
-      "word": "光线传媒股价7天暴涨200%",
-      "onboard_time": 1739457526,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 401973,
@@ -10556,7 +10564,7 @@
     },
     {
       "raw_hot": 348764,
-      "num": 210433,
+      "num": 313359,
       "word": "章子怡被演员的表演雷到",
       "onboard_time": 1739457743,
       "rank": 21,
@@ -12337,14 +12345,6 @@
       "onboard_time": 1738887922,
       "rank": 16,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 297060,
-      "num": 297060,
-      "word": "国务院国资委正在筹备组建一家新央企",
-      "onboard_time": 1739459661,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 297042,
@@ -14483,6 +14483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 247867,
+      "num": 209397,
+      "word": "唐诡西行上星",
+      "onboard_time": 1739458101,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 247833,
       "num": 247833,
       "word": "哪吒之魔童闹海",
@@ -14737,14 +14745,6 @@
       "onboard_time": 1738900765,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 243942,
-      "num": 209397,
-      "word": "唐诡西行上星",
-      "onboard_time": 1739458101,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 243785,
@@ -21723,6 +21723,14 @@
       "category": "电影,科学科普"
     },
     {
+      "raw_hot": 180141,
+      "num": 171118,
+      "word": "白敬亭粉丝包场",
+      "onboard_time": 1739460501,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180063,
       "num": 180063,
       "word": "景区2米33巨人演员回应走红",
@@ -23067,6 +23075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169446,
+      "num": 169446,
+      "word": "即墨公布江某莲涉嫌骗捐等调查结果",
+      "onboard_time": 1739459661,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169417,
       "num": 301068,
       "word": "王传福说好技术就应该人人可享",
@@ -23769,14 +23785,6 @@
       "onboard_time": 1739280503,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 163822,
-      "num": 163822,
-      "word": "即墨公布江某莲涉嫌骗捐等调查结果",
-      "onboard_time": 1739459661,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 163796,
@@ -32075,6 +32083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102562,
+      "num": 209672,
+      "word": "T1无缘全球先锋赛",
+      "onboard_time": 1739459241,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 102551,
       "num": 1801091,
       "word": "中国红霸气亮相",
@@ -33187,14 +33203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 91071,
-      "num": 209672,
-      "word": "T1无缘全球先锋赛",
-      "onboard_time": 1739459241,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 90867,
       "num": 253539,
       "word": "王俊凯为角色剃寸头",
@@ -34211,6 +34219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78102,
+      "num": 115457,
+      "word": "Gumayusi安慰Doran",
+      "onboard_time": 1739459901,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 78097,
       "num": 81423,
       "word": "威海的海边美成了油画",
@@ -34505,14 +34521,6 @@
       "onboard_time": 1739330062,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 73583,
-      "num": 87705,
-      "word": "Gumayusi安慰Doran",
-      "onboard_time": 1739459901,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 73513,
@@ -35403,6 +35411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 62291,
+      "num": 170254,
+      "word": "朱易总结亚冬会",
+      "onboard_time": 1739460861,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62200,
       "num": 257322,
       "word": "王曼昱蒯曼vs泰国组合",
@@ -35689,6 +35705,14 @@
       "onboard_time": 1739071460,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 59112,
+      "num": 365537,
+      "word": "刘亦菲刘雯同登ELLE开季刊封面",
+      "onboard_time": 1739459901,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 59101,
@@ -37867,14 +37891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 37810,
-      "num": 211141,
-      "word": "刘亦菲刘雯同登ELLE开季刊封面",
-      "onboard_time": 1739459901,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 37729,
       "num": 250543,
       "word": "当地回应男子骑白马江中救人",
@@ -38097,6 +38113,14 @@
       "onboard_time": 1739417900,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 35806,
+      "num": 333805,
+      "word": "目击者回忆台湾百货大楼爆炸瞬间",
+      "onboard_time": 1739460501,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35773,
@@ -39219,6 +39243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26156,
+      "num": 450180,
+      "word": "海外华人从呼吁排片到自发包场",
+      "onboard_time": 1739459542,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 26045,
       "num": 360571,
       "word": "陈鹤一解冻了一支新疆vlog",
@@ -39433,6 +39465,14 @@
       "onboard_time": 1738538353,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24592,
+      "num": 169546,
+      "word": "公司负责人因阻止强拆遭逮捕公诉",
+      "onboard_time": 1739460621,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 24499,

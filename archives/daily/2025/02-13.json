@@ -1,6 +1,6 @@
 {
   "startTime": 1739377766335,
-  "endTime": 1739460306288,
+  "endTime": 1739461025130,
   "band_list": [
     {
       "raw_hot": 18452349,
@@ -155,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1639523,
+      "num": 784415,
+      "word": "张艺谋祝贺哪吒2破百亿",
+      "onboard_time": 1739460141,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1524675,
       "num": 427204,
       "word": "潘玮柏女儿这么大了",
@@ -251,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1175693,
+      "num": 542603,
+      "word": "孙千画了哪吒敖丙",
+      "onboard_time": 1739455703,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1173377,
       "num": 1187740,
       "word": "哪吒2超98亿",
@@ -263,14 +279,6 @@
       "num": 583211,
       "word": "成都一影院29.9元只放哪吒2",
       "onboard_time": 1739422702,
-      "rank": 6,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 1129348,
-      "num": 476961,
-      "word": "孙千画了哪吒敖丙",
-      "onboard_time": 1739455703,
       "rank": 6,
       "category": "电影"
     },
@@ -320,14 +328,6 @@
       "word": "哪吒2破96亿",
       "onboard_time": 1739374761,
       "rank": 1,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 1028638,
-      "num": 272769,
-      "word": "张艺谋祝贺哪吒2破百亿",
-      "onboard_time": 1739460141,
-      "rank": 11,
       "category": "电影"
     },
     {
@@ -515,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 620561,
+      "num": 620561,
+      "word": "国务院国资委正在筹备组建一家新央企",
+      "onboard_time": 1739459661,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 616261,
       "num": 454517,
       "word": "中国出了个小哪吒",
@@ -529,6 +537,14 @@
       "onboard_time": 1739367503,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 605406,
+      "num": 605406,
+      "word": "妈妈离婚后失联6年孩子盼见面",
+      "onboard_time": 1739457022,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 596989,
@@ -659,14 +675,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 520938,
-      "num": 520938,
-      "word": "妈妈离婚后失联6年孩子盼见面",
-      "onboard_time": 1739457022,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 515030,
       "num": 468635,
       "word": "Uzi我们结婚啦",
@@ -755,6 +763,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 459231,
+      "num": 459231,
+      "word": "光线传媒股价7天暴涨200%",
+      "onboard_time": 1739457526,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 456985,
       "num": 456985,
       "word": "哪吒2里的中药都有哪些功效",
@@ -809,14 +825,6 @@
       "onboard_time": 1739452043,
       "rank": 11,
       "category": "电影,数码"
-    },
-    {
-      "raw_hot": 402233,
-      "num": 402233,
-      "word": "光线传媒股价7天暴涨200%",
-      "onboard_time": 1739457526,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 400486,
@@ -924,7 +932,7 @@
     },
     {
       "raw_hot": 348764,
-      "num": 210433,
+      "num": 313359,
       "word": "章子怡被演员的表演雷到",
       "onboard_time": 1739457743,
       "rank": 21,
@@ -1091,14 +1099,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 297060,
-      "num": 297060,
-      "word": "国务院国资委正在筹备组建一家新央企",
-      "onboard_time": 1739459661,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 293813,
       "num": 485190,
       "word": "舜天化工回应单身员工不结婚就解雇",
@@ -1259,7 +1259,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 243942,
+      "raw_hot": 247867,
       "num": 209397,
       "word": "唐诡西行上星",
       "onboard_time": 1739458101,
@@ -1947,6 +1947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180141,
+      "num": 171118,
+      "word": "白敬亭粉丝包场",
+      "onboard_time": 1739460501,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178800,
       "num": 208505,
       "word": "中国兵器装备集团副总刘卫东被查",
@@ -2019,6 +2027,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 169446,
+      "num": 169446,
+      "word": "即墨公布江某莲涉嫌骗捐等调查结果",
+      "onboard_time": 1739459661,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164944,
       "num": 217029,
       "word": "蒋梦婕浪姐6穿浴袍上班",
@@ -2040,14 +2056,6 @@
       "word": "44岁宝妈怀第7胎已生4女2男",
       "onboard_time": 1739370622,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 163822,
-      "num": 163822,
-      "word": "即墨公布江某莲涉嫌骗捐等调查结果",
-      "onboard_time": 1739459661,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -2939,6 +2947,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 102562,
+      "num": 209672,
+      "word": "T1无缘全球先锋赛",
+      "onboard_time": 1739459241,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 101989,
       "num": 101989,
       "word": "男子用儿子第一双小袜子做车挂",
@@ -3051,14 +3067,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 91071,
-      "num": 209672,
-      "word": "T1无缘全球先锋赛",
-      "onboard_time": 1739459241,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 90049,
       "num": 260960,
       "word": "领克EM-P终于降价了",
@@ -3163,20 +3171,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 78102,
+      "num": 115457,
+      "word": "Gumayusi安慰Doran",
+      "onboard_time": 1739459901,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 74524,
       "num": 613663,
       "word": "银发列车点亮金色机遇",
       "onboard_time": 1739425283,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 73583,
-      "num": 87705,
-      "word": "Gumayusi安慰Doran",
-      "onboard_time": 1739459901,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 72306,
@@ -3243,6 +3251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62291,
+      "num": 170254,
+      "word": "朱易总结亚冬会",
+      "onboard_time": 1739460861,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60856,
       "num": 2052614,
       "word": "我国最大超深原油生产区加快建设",
@@ -3265,6 +3281,14 @@
       "onboard_time": 1739442323,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 59112,
+      "num": 365537,
+      "word": "刘亦菲刘雯同登ELLE开季刊封面",
+      "onboard_time": 1739459901,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 58678,
@@ -3459,14 +3483,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 37810,
-      "num": 211141,
-      "word": "刘亦菲刘雯同登ELLE开季刊封面",
-      "onboard_time": 1739459901,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 36882,
       "num": 345532,
       "word": "野猪进村扑倒村民致2人受伤送医",
@@ -3497,6 +3513,14 @@
       "onboard_time": 1739417900,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 35806,
+      "num": 333805,
+      "word": "目击者回忆台湾百货大楼爆炸瞬间",
+      "onboard_time": 1739460501,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35179,
@@ -3611,12 +3635,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26164,
+      "num": 1358687,
+      "word": "首善答卷",
+      "onboard_time": 1739454563,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26156,
+      "num": 450180,
+      "word": "海外华人从呼吁排片到自发包场",
+      "onboard_time": 1739459542,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 24982,
       "num": 210754,
       "word": "中国男子冰壶无缘决赛",
       "onboard_time": 1739453062,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24592,
+      "num": 169546,
+      "word": "公司负责人因阻止强拆遭逮捕公诉",
+      "onboard_time": 1739460621,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 24049,
@@ -3641,14 +3689,6 @@
       "onboard_time": 1739389091,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 21859,
-      "num": 1358687,
-      "word": "首善答卷",
-      "onboard_time": 1739454563,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21676,
