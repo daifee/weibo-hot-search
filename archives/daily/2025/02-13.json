@@ -1,7 +1,15 @@
 {
   "startTime": 1739377766335,
-  "endTime": 1739418029040,
+  "endTime": 1739420819979,
   "band_list": [
+    {
+      "raw_hot": 1891825,
+      "num": 1891825,
+      "word": "哪吒2全球票房TOP20",
+      "onboard_time": 1739415438,
+      "rank": 0,
+      "category": "电影"
+    },
     {
       "raw_hot": 1780872,
       "num": 1780872,
@@ -75,6 +83,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 911723,
+      "num": 494375,
+      "word": "任敏中戏同学参加育儿综艺",
+      "onboard_time": 1739417121,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 903915,
       "num": 903915,
       "word": "哪吒2全球票房T0P20",
@@ -91,8 +107,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 771980,
-      "num": 488219,
+      "raw_hot": 788397,
+      "num": 494185,
       "word": "哪吒2国际版海报来了",
       "onboard_time": 1739415559,
       "rank": 27,
@@ -105,6 +121,14 @@
       "onboard_time": 1739407760,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 642018,
+      "num": 642018,
+      "word": "美军一架近5亿人民币的战机坠海",
+      "onboard_time": 1739416340,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 606561,
@@ -161,6 +185,14 @@
       "onboard_time": 1739369544,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 497306,
+      "num": 497306,
+      "word": "小行星撞地球人类危机要来了吗",
+      "onboard_time": 1739419041,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 463231,
@@ -251,12 +283,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 348851,
+      "num": 279315,
+      "word": "中国出了个小哪吒",
+      "onboard_time": 1739419641,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 348130,
+      "num": 348130,
+      "word": "男子除夕看烟花被爆竹击中右眼摘除",
+      "onboard_time": 1739416279,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 326953,
       "num": 197632,
       "word": "43岁女子找男模花光450万公款",
       "onboard_time": 1739370143,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 326643,
+      "num": 283252,
+      "word": "哪吒",
+      "onboard_time": 1739403858,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 326202,
+      "num": 268094,
+      "word": "权志龙新歌MV女主是Karina",
+      "onboard_time": 1739419940,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 323837,
@@ -267,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 321232,
+      "num": 321232,
+      "word": "李现眼巴巴等马龙to签",
+      "onboard_time": 1739418680,
+      "rank": 16,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 317846,
       "num": 317846,
       "word": "土豆吕严小品",
@@ -275,28 +347,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 313968,
+      "num": 266473,
+      "word": "董思成人火了脸就变清晰",
+      "onboard_time": 1739419280,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 309743,
       "num": 309743,
       "word": "刘亦菲ELLE开季刊预热",
       "onboard_time": 1739415559,
       "rank": 48,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 308214,
-      "num": 308214,
-      "word": "美军一架近5亿人民币的战机坠海",
-      "onboard_time": 1739416340,
-      "rank": 27,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 299082,
-      "num": 283252,
-      "word": "哪吒",
-      "onboard_time": 1739403858,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 293556,
@@ -363,12 +427,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 264671,
+      "num": 264671,
+      "word": "仙台有树直播",
+      "onboard_time": 1739419460,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 263712,
       "num": 427680,
       "word": "最高检披露油罐车运输食用油案进展",
       "onboard_time": 1739415378,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 263505,
+      "num": 304884,
+      "word": "申公豹挥一鞭相当于300个皮卡丘放电",
+      "onboard_time": 1739417480,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 263377,
@@ -379,12 +459,44 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 237534,
-      "num": 237534,
-      "word": "任敏中戏同学参加育儿综艺",
-      "onboard_time": 1739417121,
-      "rank": 30,
+      "raw_hot": 256021,
+      "num": 256021,
+      "word": "刘亦菲羽毛头",
+      "onboard_time": 1739419101,
+      "rank": 32,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 239141,
+      "num": 239141,
+      "word": "谁家爸爸带娃只带13秒啊",
+      "onboard_time": 1739419821,
+      "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 238031,
+      "num": 407489,
+      "word": "在洛杉矶遇害中国留学生确认他杀",
+      "onboard_time": 1739419699,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 236867,
+      "num": 269095,
+      "word": "原来小猫上厕所也会憋不住",
+      "onboard_time": 1739419761,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 234968,
+      "num": 234968,
+      "word": "菲律宾一保安因同事上班迟到将其射杀",
+      "onboard_time": 1739415140,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 230972,
@@ -403,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222415,
+      "num": 222415,
+      "word": "熬夜戒不了就科学的深度休息",
+      "onboard_time": 1739419339,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 220706,
       "num": 177845,
       "word": "曾经很火但逐渐消失了的品牌",
@@ -411,12 +531,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 219424,
-      "num": 295332,
-      "word": "男子除夕看烟花被爆竹击中右眼摘除",
-      "onboard_time": 1739416279,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 216643,
+      "num": 216643,
+      "word": "仙台有树",
+      "onboard_time": 1739419821,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 211432,
@@ -467,6 +587,22 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 204486,
+      "num": 204486,
+      "word": "领馆回应中国留学生在美遇害",
+      "onboard_time": 1739418801,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 201713,
+      "num": 201713,
+      "word": "美媒称哪吒是可爱又恶魔般的孩子",
+      "onboard_time": 1739418861,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 201156,
       "num": 201156,
       "word": "程序员三个月在理发店充卡24万",
@@ -497,6 +633,14 @@
       "onboard_time": 1739413159,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197452,
+      "num": 197452,
+      "word": "声生不息巡演阵容官宣",
+      "onboard_time": 1739420782,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 194022,
@@ -561,14 +705,6 @@
       "onboard_time": 1739411358,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 183234,
-      "num": 183234,
-      "word": "菲律宾一保安因同事上班迟到将其射杀",
-      "onboard_time": 1739415140,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 182226,
@@ -643,14 +779,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 162262,
-      "num": 162262,
-      "word": "申公豹挥一鞭相当于300个皮卡丘放电",
-      "onboard_time": 1739417480,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 162066,
       "num": 162066,
       "word": "前经纪公司否认曝光沈小婷身份证",
@@ -673,6 +801,14 @@
       "onboard_time": 1739417660,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161325,
+      "num": 288206,
+      "word": "张凌赫好水灵灵的怼脸状态",
+      "onboard_time": 1739417721,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 160784,
@@ -707,6 +843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 156850,
+      "num": 156850,
+      "word": "文心一言深度搜索功能上线",
+      "onboard_time": 1739420660,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 152074,
       "num": 152074,
       "word": "饺子导演根本没敢休息",
@@ -720,6 +864,14 @@
       "word": "情人节不要内卷式送礼了",
       "onboard_time": 1739412379,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149565,
+      "num": 149565,
+      "word": "中国科学家在福建发现最早鸟类",
+      "onboard_time": 1739420481,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -841,14 +993,6 @@
       "onboard_time": 1739372842,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 115831,
-      "num": 120637,
-      "word": "张凌赫好水灵灵的怼脸状态",
-      "onboard_time": 1739417721,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 115702,
@@ -1001,6 +1145,14 @@
       "onboard_time": 1739370863,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90049,
+      "num": 260960,
+      "word": "领克EM-P终于降价了",
+      "onboard_time": 1739419940,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 87991,
@@ -1187,6 +1339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 35945,
+      "num": 173176,
+      "word": "张凌赫水系男艺人",
+      "onboard_time": 1739417900,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 34911,
       "num": 74643,
       "word": "外交部回应哪吒2北美放映",
@@ -1201,6 +1361,14 @@
       "onboard_time": 1739377098,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 31410,
+      "num": 265236,
+      "word": "美媒预判更多妥协压力给到乌克兰",
+      "onboard_time": 1739419821,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 30961,
@@ -1329,14 +1497,6 @@
       "onboard_time": 1739390292,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 5815,
-      "num": 117153,
-      "word": "张凌赫水系男艺人",
-      "onboard_time": 1739417900,
-      "rank": 47,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
