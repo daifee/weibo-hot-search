@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739464152455,
+  "endTime": 1739465064750,
   "band_list": [
     {
       "raw_hot": 18452349,
@@ -2691,6 +2691,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 599622,
+      "num": 300730,
+      "word": "赵丽颖发文祝愿中国动画电影越来越好",
+      "onboard_time": 1739464157,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 597363,
       "num": 504332,
       "word": "敖丙一开始被设计为反派角色",
@@ -4673,6 +4681,14 @@
       "onboard_time": 1739328259,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 339005,
+      "num": 339005,
+      "word": "情人节",
+      "onboard_time": 1739464877,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 338473,
@@ -7235,6 +7251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 217882,
+      "num": 217882,
+      "word": "坑了小米SU7的乡路修了",
+      "onboard_time": 1739462360,
+      "rank": 19,
+      "category": "民生新闻,汽车"
+    },
+    {
       "raw_hot": 217751,
       "num": 217751,
       "word": "演员请就位",
@@ -7873,6 +7897,14 @@
       "onboard_time": 1739105063,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204604,
+      "num": 155373,
+      "word": "时尚芭莎 张康乐",
+      "onboard_time": 1739463559,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 204486,
@@ -11539,14 +11571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 147617,
-      "num": 147617,
-      "word": "坑了小米SU7的乡路修了",
-      "onboard_time": 1739462360,
-      "rank": 19,
-      "category": "民生新闻,汽车"
-    },
-    {
       "raw_hot": 147480,
       "num": 147480,
       "word": "美国近70人感染H5N1型禽流感",
@@ -12417,6 +12441,14 @@
       "onboard_time": 1739333241,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133314,
+      "num": 133314,
+      "word": "十八年终于等来一个强吻",
+      "onboard_time": 1739464277,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 133241,
@@ -14283,14 +14315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 89094,
-      "num": 127374,
-      "word": "时尚芭莎 张康乐",
-      "onboard_time": 1739463559,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 88177,
       "num": 244574,
       "word": "谢娜这段时间一直陪孩子们",
@@ -14612,7 +14636,7 @@
     },
     {
       "raw_hot": 78102,
-      "num": 115457,
+      "num": 135378,
       "word": "Gumayusi安慰Doran",
       "onboard_time": 1739459901,
       "rank": 49,
@@ -14651,6 +14675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77219,
+      "num": 298562,
+      "word": "乾隆一眼相中的瓶子自带动画特效",
+      "onboard_time": 1739463079,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77197,
       "num": 342658,
       "word": "邓州听成郑州8旬大娘下错站难回家",
@@ -14673,6 +14705,14 @@
       "onboard_time": 1739024304,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 76806,
+      "num": 127069,
+      "word": "檀健次祝贺哪吒2",
+      "onboard_time": 1739455762,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 76714,
@@ -15603,14 +15643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 52127,
-      "num": 127410,
-      "word": "乾隆一眼相中的瓶子自带动画特效",
-      "onboard_time": 1739463079,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 52098,
       "num": 195694,
       "word": "电饭锅焖的小香薯",
@@ -15945,14 +15977,6 @@
       "onboard_time": 1739247501,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 44574,
-      "num": 127069,
-      "word": "檀健次祝贺哪吒2",
-      "onboard_time": 1739455762,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 44527,

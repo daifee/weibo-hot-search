@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739464152455,
+  "endTime": 1739465064750,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -5907,6 +5907,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 599622,
+      "num": 300730,
+      "word": "赵丽颖发文祝愿中国动画电影越来越好",
+      "onboard_time": 1739464157,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 599119,
       "num": 299579,
       "word": "张凌赫张婧仪被异性恋吓晕",
@@ -10849,6 +10857,14 @@
       "onboard_time": 1739328259,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 339005,
+      "num": 339005,
+      "word": "情人节",
+      "onboard_time": 1739464877,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 338945,
@@ -16747,6 +16763,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 217882,
+      "num": 217882,
+      "word": "坑了小米SU7的乡路修了",
+      "onboard_time": 1739462360,
+      "rank": 19,
+      "category": "民生新闻,汽车"
+    },
+    {
       "raw_hot": 217858,
       "num": 212386,
       "word": "拍射雕的3个初衷",
@@ -18105,6 +18129,14 @@
       "onboard_time": 1738898487,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 204604,
+      "num": 155373,
+      "word": "时尚芭莎 张康乐",
+      "onboard_time": 1739463559,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 204516,
@@ -26139,14 +26171,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 147617,
-      "num": 147617,
-      "word": "坑了小米SU7的乡路修了",
-      "onboard_time": 1739462360,
-      "rank": 19,
-      "category": "民生新闻,汽车"
-    },
-    {
       "raw_hot": 147609,
       "num": 147609,
       "word": "jayjay镜头",
@@ -28161,6 +28185,14 @@
       "onboard_time": 1738719380,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 133314,
+      "num": 133314,
+      "word": "十八年终于等来一个强吻",
+      "onboard_time": 1739464277,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 133274,
@@ -33371,14 +33403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 89094,
-      "num": 127374,
-      "word": "时尚芭莎 张康乐",
-      "onboard_time": 1739463559,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 88607,
       "num": 123739,
       "word": "谷歌涉嫌违反反垄断法",
@@ -34268,7 +34292,7 @@
     },
     {
       "raw_hot": 78102,
-      "num": 115457,
+      "num": 135378,
       "word": "Gumayusi安慰Doran",
       "onboard_time": 1739459901,
       "rank": 49,
@@ -34347,6 +34371,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 77219,
+      "num": 298562,
+      "word": "乾隆一眼相中的瓶子自带动画特效",
+      "onboard_time": 1739463079,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77197,
       "num": 342658,
       "word": "邓州听成郑州8旬大娘下错站难回家",
@@ -34377,6 +34409,14 @@
       "onboard_time": 1739070020,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76806,
+      "num": 127069,
+      "word": "檀健次祝贺哪吒2",
+      "onboard_time": 1739455762,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 76737,
@@ -36499,14 +36539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 52127,
-      "num": 127410,
-      "word": "乾隆一眼相中的瓶子自带动画特效",
-      "onboard_time": 1739463079,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 52098,
       "num": 195694,
       "word": "电饭锅焖的小香薯",
@@ -37289,14 +37321,6 @@
       "onboard_time": 1738602559,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44574,
-      "num": 127069,
-      "word": "檀健次祝贺哪吒2",
-      "onboard_time": 1739455762,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 44527,
