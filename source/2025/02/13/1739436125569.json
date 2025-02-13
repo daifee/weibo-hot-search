@@ -1,0 +1,410 @@
+{
+  "runTime": 1739436125569,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1087784,
+        "num": 1174045,
+        "word": "哪吒2超98亿",
+        "onboard_time": 1739428219,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 833952,
+        "num": 833952,
+        "word": "张家界一女教师徒步坠崖身亡",
+        "onboard_time": 1739434340,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56578,
+        "num": 566743,
+        "word": "银发列车点亮金色机遇",
+        "onboard_time": 1739425283,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1320068,
+        "num": 545741,
+        "word": "刘晓庆 就不死",
+        "onboard_time": 1739432841,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 480867,
+        "num": 480867,
+        "word": "台湾一商场爆炸5死13伤",
+        "onboard_time": 1739434100,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 406943,
+        "num": 406943,
+        "word": "村民举报20多亩农田被人挖土售卖",
+        "onboard_time": 1739431280,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 932625,
+        "num": 380069,
+        "word": "贾乃亮 过个年又胖了就你俩最舒服",
+        "onboard_time": 1739433979,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 913074,
+        "num": 374336,
+        "word": "一起陪哪吒冲刺百亿",
+        "onboard_time": 1739431040,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 345160,
+        "num": 345160,
+        "word": "在洛杉矶遇害中国留学生确认他杀",
+        "onboard_time": 1739419699,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 327488,
+        "num": 327488,
+        "word": "蔡崇信确认阿里与苹果合作",
+        "onboard_time": 1739431161,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 797722,
+        "num": 327199,
+        "word": "男孩嫌家庭压抑负气离家10年无音讯",
+        "onboard_time": 1739432841,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 570104,
+        "num": 326863,
+        "word": "美国队长4开分",
+        "onboard_time": 1739429959,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 498795,
+        "num": 326534,
+        "word": "哪吒2全球票房TOP20",
+        "onboard_time": 1739415438,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 391327,
+        "num": 326188,
+        "word": "庆奶要演少女就让她演吧",
+        "onboard_time": 1739428640,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380734,
+        "num": 325712,
+        "word": "成都一影院29.9元只放哪吒2",
+        "onboard_time": 1739422702,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 325471,
+        "num": 325471,
+        "word": "台湾一大楼美食街突发爆炸",
+        "onboard_time": 1739425040,
+        "rank": 15,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 222666,
+        "num": 325055,
+        "word": "网红饭店厕所标识是男性爬墙偷窥",
+        "onboard_time": 1739422883,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10354,
+        "num": 323754,
+        "word": "徐梦桃对自己第五次冬奥会充满期待",
+        "onboard_time": 1739435420,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136070,
+        "num": 323513,
+        "word": "贾乃亮晒狗辟谣",
+        "onboard_time": 1739435481,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173659,
+        "num": 322176,
+        "word": "内蒙古牧民吃上了包邮的榴莲",
+        "onboard_time": 1739435058,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 477703,
+        "num": 320893,
+        "word": "16岁男生身高疯长到1米99急坏爸妈",
+        "onboard_time": 1739430380,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320796,
+        "num": 320796,
+        "word": "吒儿冲破100亿倒计时",
+        "onboard_time": 1739434161,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 295855,
+        "num": 295855,
+        "word": "男子发现新婚妻子贷15万选择一起扛",
+        "onboard_time": 1739431161,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268277,
+        "num": 268277,
+        "word": "王嘉尔不知道是在跟谁做朋友",
+        "onboard_time": 1739430380,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 245212,
+        "num": 245212,
+        "word": "哪吒",
+        "onboard_time": 1739403858,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 229866,
+        "num": 229866,
+        "word": "哪吒2海外票房已达630万",
+        "onboard_time": 1739432300,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 220385,
+        "num": 220385,
+        "word": "厕所标识为什么越来越抽象",
+        "onboard_time": 1739434161,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197815,
+        "num": 197815,
+        "word": "杨幂英伦格调",
+        "onboard_time": 1739435239,
+        "rank": 27,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 197319,
+        "num": 197319,
+        "word": "石矶娘娘和结界兽帮我检票",
+        "onboard_time": 1739433380,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189409,
+        "num": 189409,
+        "word": "金价连涨黄金回收火爆",
+        "onboard_time": 1739431040,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187731,
+        "num": 187731,
+        "word": "刘诗诗线下扫楼状态",
+        "onboard_time": 1739435360,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183367,
+        "num": 183367,
+        "word": "肖战一袭暗红西装",
+        "onboard_time": 1739431639,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92184,
+        "num": 183102,
+        "word": "妈妈在外苦寻儿子10年没回家过年",
+        "onboard_time": 1739435901,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111781,
+        "num": 183092,
+        "word": "中国金球奖",
+        "onboard_time": 1739433320,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183092,
+        "num": 183091,
+        "word": "五福临门剧组爆改赵晴宣发组",
+        "onboard_time": 1739432600,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181374,
+        "num": 181374,
+        "word": "苏新皓跳哪吒同款舞",
+        "onboard_time": 1739435780,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178609,
+        "num": 178609,
+        "word": "情侣都忘记情人节是什么体验",
+        "onboard_time": 1739427800,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170901,
+        "num": 170901,
+        "word": "男孩放冲天炮炸昏妈妈",
+        "onboard_time": 1739425881,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32292,
+        "num": 164139,
+        "word": "欧文七剑下天山",
+        "onboard_time": 1739433380,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163374,
+        "num": 163374,
+        "word": "潘玮柏女儿这么大了",
+        "onboard_time": 1739415199,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155670,
+        "num": 155670,
+        "word": "蒋梦婕浪姐6穿浴袍上班",
+        "onboard_time": 1739430199,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23389,
+        "num": 153351,
+        "word": "启源Q07大作闹元宵",
+        "onboard_time": 1739435661,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153332,
+        "num": 153332,
+        "word": "杨洋包场方逸伦的新剧",
+        "onboard_time": 1739435058,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49010,
+        "num": 152121,
+        "word": "克莱打勇士下死手",
+        "onboard_time": 1739429241,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151701,
+        "num": 151701,
+        "word": "主流手机仅小米苹果未接入DeepSeek",
+        "onboard_time": 1739435841,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 147568,
+        "num": 147568,
+        "word": "王家卫说影院是所有电影梦的开始",
+        "onboard_time": 1739430921,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143463,
+        "num": 143463,
+        "word": "崔永熙为了87天梦想赔上一条韧带",
+        "onboard_time": 1739435000,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134981,
+        "num": 134981,
+        "word": "中国留学生洛杉矶遇害",
+        "onboard_time": 1739413880,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 134778,
+        "num": 134778,
+        "word": "原来女明星相亲也会遇到奇葩男",
+        "onboard_time": 1739431521,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132383,
+        "num": 132383,
+        "word": "缅甸将向泰移交7000名电诈园区人员",
+        "onboard_time": 1739436081,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#飞天揽月是中华民族延续千年的梦想#"
+    }
+  }
+}
