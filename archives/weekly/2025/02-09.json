@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739451533048,
+  "endTime": 1739453306241,
   "band_list": [
     {
       "raw_hot": 18452349,
@@ -81,6 +81,14 @@
       "onboard_time": 1739434161,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 3128233,
+      "num": 3128233,
+      "word": "官方通报江秋莲被举报诈捐",
+      "onboard_time": 1739449643,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2924632,
@@ -191,14 +199,6 @@
       "num": 2367503,
       "word": "2024年全国结婚登记610.6万对",
       "onboard_time": 1739108782,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2352044,
-      "num": 2352044,
-      "word": "官方通报江秋莲被举报诈捐",
-      "onboard_time": 1739449643,
       "rank": 1,
       "category": "民生新闻"
     },
@@ -417,6 +417,14 @@
       "onboard_time": 1739109801,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1878904,
+      "num": 1878904,
+      "word": "甄嬛传余莺儿扮演者被行拘",
+      "onboard_time": 1739449822,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1862522,
@@ -715,14 +723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1416606,
-      "num": 386856,
-      "word": "甄嬛传余莺儿扮演者被行拘",
-      "onboard_time": 1739449822,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1411936,
       "num": 452992,
       "word": "留几手后悔离婚",
@@ -825,6 +825,14 @@
       "onboard_time": 1739369544,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1304259,
+      "num": 326172,
+      "word": "国漫齐贺哪吒破百亿",
+      "onboard_time": 1739448563,
+      "rank": 15,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 1293515,
@@ -1049,14 +1057,6 @@
       "onboard_time": 1739270242,
       "rank": 42,
       "category": "民生新闻,电影"
-    },
-    {
-      "raw_hot": 1126621,
-      "num": 326172,
-      "word": "国漫齐贺哪吒破百亿",
-      "onboard_time": 1739448563,
-      "rank": 15,
-      "category": "电影,动漫"
     },
     {
       "raw_hot": 1126411,
@@ -2243,6 +2243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 668455,
+      "num": 306568,
+      "word": "江秋莲另育有一子与事实不符",
+      "onboard_time": 1739451263,
+      "rank": 17,
+      "category": "艺人,剧集"
+    },
+    {
       "raw_hot": 666599,
       "num": 666599,
       "word": "林孝埈将退出本赛季后续比赛",
@@ -2273,6 +2281,14 @@
       "onboard_time": 1739101401,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 663484,
+      "num": 663484,
+      "word": "江某莲求助捐钱涉嫌诈骗与事实不符",
+      "onboard_time": 1739450842,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 660338,
@@ -2931,6 +2947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 541879,
+      "num": 446173,
+      "word": "26岁女子曝面试时遭七旬男子猥亵",
+      "onboard_time": 1739447366,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 540928,
       "num": 429612,
       "word": "哪吒2北美首映日多场次瞬间爆满",
@@ -3080,14 +3104,6 @@
       "word": "百色被举报教师停职处理",
       "onboard_time": 1739210112,
       "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 525045,
-      "num": 446173,
-      "word": "26岁女子曝面试时遭七旬男子猥亵",
-      "onboard_time": 1739447366,
-      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -3489,6 +3505,14 @@
       "onboard_time": 1739402476,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 462097,
+      "num": 462097,
+      "word": "山东一企业通知员工不结婚就离职",
+      "onboard_time": 1739446586,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 461331,
@@ -4547,14 +4571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 337670,
-      "num": 337670,
-      "word": "山东一企业通知员工不结婚就离职",
-      "onboard_time": 1739446586,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 337360,
       "num": 337360,
       "word": "再送黄老一程",
@@ -4745,6 +4761,14 @@
       "onboard_time": 1739343260,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 322148,
+      "num": 271189,
+      "word": "Jennie说基本没有休息日",
+      "onboard_time": 1739451621,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 320904,
@@ -5795,14 +5819,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 259794,
-      "num": 334259,
-      "word": "江某莲求助捐钱涉嫌诈骗与事实不符",
-      "onboard_time": 1739450842,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 259686,
       "num": 230168,
       "word": "菲警方找到绑架案中国母子遗骸",
@@ -5977,6 +5993,14 @@
       "onboard_time": 1739342120,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 251201,
+      "num": 295621,
+      "word": "哪吒破百亿荣耀送10亿",
+      "onboard_time": 1739452043,
+      "rank": 11,
+      "category": "电影,数码"
     },
     {
       "raw_hot": 250691,
@@ -6739,6 +6763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 224276,
+      "num": 305588,
+      "word": "女演员崔某某自曝内容不实",
+      "onboard_time": 1739450721,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224221,
       "num": 339998,
       "word": "妈妈为追梦辞职后又离婚6年无音讯",
@@ -6931,6 +6963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 219870,
+      "num": 219870,
+      "word": "HLE战胜T1",
+      "onboard_time": 1739452943,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 219175,
       "num": 219175,
       "word": "董思成八年前vs八年后",
@@ -6985,6 +7025,14 @@
       "onboard_time": 1739110523,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 218601,
+      "num": 212498,
+      "word": "著名播音员虹云去世",
+      "onboard_time": 1739451383,
+      "rank": 41,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 218579,
@@ -7177,6 +7225,14 @@
       "onboard_time": 1739247622,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213861,
+      "num": 213861,
+      "word": "车俊焕亚冬会金牌",
+      "onboard_time": 1739450961,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 213781,
@@ -7481,6 +7537,14 @@
       "onboard_time": 1739108182,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 207891,
+      "num": 207891,
+      "word": "双吒合璧",
+      "onboard_time": 1739450662,
+      "rank": 28,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 207889,
@@ -7993,14 +8057,6 @@
       "onboard_time": 1739408901,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 198976,
-      "num": 198976,
-      "word": "双吒合璧",
-      "onboard_time": 1739450662,
-      "rank": 28,
-      "category": "电影,动漫"
     },
     {
       "raw_hot": 198798,
@@ -8584,6 +8640,14 @@
       "word": "780余人已赴山体滑坡现场救援",
       "onboard_time": 1739071699,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191428,
+      "num": 191428,
+      "word": "两千万粉丝小网红母亲回应摆拍质疑",
+      "onboard_time": 1739451442,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -9779,14 +9843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 171742,
-      "num": 171742,
-      "word": "女演员崔某某自曝内容不实",
-      "onboard_time": 1739450721,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 171298,
       "num": 504935,
       "word": "中国体彩辟谣AI可以预测中奖号码",
@@ -10491,14 +10547,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 160490,
-      "num": 160490,
-      "word": "车俊焕亚冬会金牌",
-      "onboard_time": 1739450961,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 160122,
       "num": 160122,
       "word": "吴倩新剧嘴硬得硌碎满口牙",
@@ -11011,6 +11059,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 151970,
+      "num": 151970,
+      "word": "WE对战eStar",
+      "onboard_time": 1739452943,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 151936,
       "num": 151936,
       "word": "封神2否认找外包公司4500元制作殷郊法相特效",
@@ -11129,6 +11185,14 @@
       "onboard_time": 1739241200,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 150321,
+      "num": 150321,
+      "word": "孙娜恩遭勒索",
+      "onboard_time": 1739451742,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 150302,
@@ -11491,6 +11555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144847,
+      "num": 144847,
+      "word": "郑业成cos哪吒",
+      "onboard_time": 1739452943,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144675,
       "num": 175233,
       "word": "台媒谈李现",
@@ -11504,6 +11576,14 @@
       "word": "IVE悼念去世粉丝",
       "onboard_time": 1739330540,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 144255,
+      "num": 144255,
+      "word": "王祖蓝李亚男结婚十周年纪念照",
+      "onboard_time": 1739452043,
+      "rank": 44,
       "category": "艺人"
     },
     {
@@ -11865,14 +11945,6 @@
       "onboard_time": 1739090239,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 137547,
-      "num": 137547,
-      "word": "著名播音员虹云去世",
-      "onboard_time": 1739451383,
-      "rank": 41,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 137416,
@@ -12819,14 +12891,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 118964,
-      "num": 118964,
-      "word": "两千万粉丝小网红母亲回应摆拍质疑",
-      "onboard_time": 1739451442,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 118676,
       "num": 118676,
       "word": "杨滨瑜3000米金牌",
@@ -13659,6 +13723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97669,
+      "num": 197436,
+      "word": "极氪请全体员工看哪吒",
+      "onboard_time": 1739452582,
+      "rank": 34,
+      "category": "电影,汽车"
+    },
+    {
       "raw_hot": 97086,
       "num": 97086,
       "word": "哪吒2票房超75亿",
@@ -13673,6 +13745,14 @@
       "onboard_time": 1739367203,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96591,
+      "num": 222304,
+      "word": "为青岛的海鸥疯狂心动一万次",
+      "onboard_time": 1739450542,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96552,
@@ -14043,6 +14123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 81573,
+      "num": 268253,
+      "word": "校友愤怒回应洛杉矶中国留学生被杀",
+      "onboard_time": 1739452223,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81420,
       "num": 281455,
       "word": "花滑",
@@ -14083,20 +14171,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 79922,
+      "num": 211101,
+      "word": "女子客厅装摄像头被合租室友告了",
+      "onboard_time": 1739451983,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79634,
       "num": 312486,
       "word": "德塔文认证梁洁90演技花",
       "onboard_time": 1739244322,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 79609,
-      "num": 222304,
-      "word": "为青岛的海鸥疯狂心动一万次",
-      "onboard_time": 1739450542,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 79323,
@@ -14305,14 +14393,6 @@
       "onboard_time": 1739330062,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 73566,
-      "num": 306568,
-      "word": "江秋莲另育有一子与事实不符",
-      "onboard_time": 1739451263,
-      "rank": 17,
-      "category": "艺人,剧集"
     },
     {
       "raw_hot": 73513,
@@ -17299,6 +17379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 8438,
+      "num": 210754,
+      "word": "中国男子冰壶无缘决赛",
+      "onboard_time": 1739453062,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 8261,
       "num": 120915,
       "word": "中国队选手包揽前四名",
@@ -17329,6 +17417,14 @@
       "onboard_time": 1739056755,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 7821,
+      "num": 240435,
+      "word": "中国女子冰壶一天双杀日本",
+      "onboard_time": 1739453002,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 7641,
