@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739478268007,
+  "endTime": 1739479056000,
   "band_list": [
     {
       "raw_hot": 18452349,
@@ -17803,6 +17803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12452,
+      "num": 16184,
+      "word": "美英未签人工智能行动峰会声明",
+      "onboard_time": 1739477471,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 12412,
       "num": 39055,
       "word": "张伟丽赛前赛后plog",
@@ -17841,14 +17849,6 @@
       "onboard_time": 1739073079,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 11636,
-      "num": 16184,
-      "word": "美英未签人工智能行动峰会声明",
-      "onboard_time": 1739477471,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 11197,
