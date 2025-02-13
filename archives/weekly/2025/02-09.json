@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739468176831,
+  "endTime": 1739471470848,
   "band_list": [
     {
       "raw_hot": 18452349,
@@ -14675,6 +14675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77544,
+      "num": 62072,
+      "word": "DeepSeek回答脱单的秘籍",
+      "onboard_time": 1739465357,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 77435,
       "num": 195496,
       "word": "男子情人互转数十万妻子要回8.5万",
@@ -15187,14 +15195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 62072,
-      "num": 62072,
-      "word": "DeepSeek回答脱单的秘籍",
-      "onboard_time": 1739465357,
-      "rank": 33,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 61930,
       "num": 275592,
       "word": "哪吒2到底用了多少种方言",
@@ -15433,6 +15433,14 @@
       "onboard_time": 1739258000,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57285,
+      "num": 57285,
+      "word": "65万元春晚机器人一机难求",
+      "onboard_time": 1739470033,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56854,
@@ -16171,6 +16179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40403,
+      "num": 40403,
+      "word": "林墨回应公开自己手机号码",
+      "onboard_time": 1739467634,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40329,
       "num": 203768,
       "word": "23岁研究生元宵节捐髓救人",
@@ -16225,6 +16241,14 @@
       "onboard_time": 1739294834,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39590,
+      "num": 57750,
+      "word": "刘诗诗转身这一下有多明媚",
+      "onboard_time": 1739467993,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 39341,
@@ -16475,6 +16499,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 35114,
+      "num": 183215,
+      "word": "园长回应幼师作品获奖被同事挤掉署名",
+      "onboard_time": 1739467094,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35099,
       "num": 53312,
       "word": "一群外地阿姨奔赴灾区捐菜又做饭",
@@ -16707,14 +16739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30356,
-      "num": 183215,
-      "word": "园长回应幼师作品获奖被同事挤掉署名",
-      "onboard_time": 1739467094,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30354,
       "num": 140929,
       "word": "李宇春薛凯琪透露声生不息女队氛围",
@@ -16811,6 +16835,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28759,
+      "num": 31812,
+      "word": "王楚钦说会更多注重重要赛事",
+      "onboard_time": 1739469313,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 28452,
+      "num": 31766,
+      "word": "俄乌局势新进展",
+      "onboard_time": 1739467694,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 28401,
       "num": 134607,
       "word": "邓为回应葱系帅哥",
@@ -16897,6 +16937,14 @@
       "onboard_time": 1739187322,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26443,
+      "num": 31735,
+      "word": "尿布狮找到了狮群",
+      "onboard_time": 1739468414,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26325,
@@ -17411,14 +17459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 17434,
-      "num": 57750,
-      "word": "刘诗诗转身这一下有多明媚",
-      "onboard_time": 1739467993,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 17399,
       "num": 45071,
       "word": "宜宾筠连山体滑坡救援正在进行",
@@ -17905,6 +17945,14 @@
       "onboard_time": 1739285841,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 8826,
+      "num": 33773,
+      "word": "哪吒2敖光首现人形BGM如何创作",
+      "onboard_time": 1739469733,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 8740,
