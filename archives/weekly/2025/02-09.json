@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739465064750,
+  "endTime": 1739467071101,
   "band_list": [
     {
       "raw_hot": 18452349,
@@ -4787,6 +4787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 328370,
+      "num": 201138,
+      "word": "时尚芭莎 张康乐",
+      "onboard_time": 1739463559,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 327399,
       "num": 301747,
       "word": "五福临门见面会",
@@ -6169,6 +6177,14 @@
       "onboard_time": 1739274200,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 250449,
+      "num": 197062,
+      "word": "光线传媒市值暴涨至849亿元",
+      "onboard_time": 1739461520,
+      "rank": 30,
+      "category": "财经,电影"
     },
     {
       "raw_hot": 250415,
@@ -7897,14 +7913,6 @@
       "onboard_time": 1739105063,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 204604,
-      "num": 155373,
-      "word": "时尚芭莎 张康乐",
-      "onboard_time": 1739463559,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 204486,
@@ -11747,6 +11755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145507,
+      "num": 145507,
+      "word": "十八年终于等来一个强吻",
+      "onboard_time": 1739464277,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145329,
       "num": 145329,
       "word": "WE战胜eStar",
@@ -12227,14 +12243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 136974,
-      "num": 127765,
-      "word": "光线传媒市值暴涨至849亿元",
-      "onboard_time": 1739461520,
-      "rank": 30,
-      "category": "财经,电影"
-    },
-    {
       "raw_hot": 136560,
       "num": 136560,
       "word": "蛇年元宵十五的月亮十五圆",
@@ -12441,14 +12449,6 @@
       "onboard_time": 1739333241,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 133314,
-      "num": 133314,
-      "word": "十八年终于等来一个强吻",
-      "onboard_time": 1739464277,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 133241,
@@ -14091,6 +14091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96609,
+      "num": 298562,
+      "word": "乾隆一眼相中的瓶子自带动画特效",
+      "onboard_time": 1739463079,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96591,
       "num": 222304,
       "word": "为青岛的海鸥疯狂心动一万次",
@@ -14675,14 +14683,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 77219,
-      "num": 298562,
-      "word": "乾隆一眼相中的瓶子自带动画特效",
-      "onboard_time": 1739463079,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77197,
       "num": 342658,
       "word": "邓州听成郑州8旬大娘下错站难回家",
@@ -15185,6 +15185,14 @@
       "onboard_time": 1739460861,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61943,
+      "num": 61943,
+      "word": "DeepSeek回答脱单的秘籍",
+      "onboard_time": 1739465357,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 61930,
@@ -16371,6 +16379,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 36282,
+      "num": 40060,
+      "word": "赵小童终于可以不穿秋裤了",
+      "onboard_time": 1739462600,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36052,
       "num": 469025,
       "word": "吴宇金牌",
@@ -16673,6 +16689,14 @@
       "onboard_time": 1739377039,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 30472,
+      "num": 205798,
+      "word": "宁走十步远不走一步险",
+      "onboard_time": 1739463737,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30418,
@@ -17547,6 +17571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 14852,
+      "num": 74935,
+      "word": "王芮神之一击",
+      "onboard_time": 1739464457,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 14788,
       "num": 215970,
       "word": "春装第一件",
@@ -17816,6 +17848,14 @@
       "word": "中国队第16金入手",
       "onboard_time": 1739197642,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 9646,
+      "num": 47903,
+      "word": "女子冰壶中国5比2日本",
+      "onboard_time": 1739459241,
+      "rank": 42,
       "category": "体育"
     },
     {

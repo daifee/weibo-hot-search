@@ -1,6 +1,6 @@
 {
   "startTime": 1739464152455,
-  "endTime": 1739465064750,
+  "endTime": 1739467071101,
   "band_list": [
     {
       "raw_hot": 1651076,
@@ -115,6 +115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 328370,
+      "num": 201138,
+      "word": "时尚芭莎 张康乐",
+      "onboard_time": 1739463559,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 316545,
       "num": 253969,
       "word": "陈岚",
@@ -128,6 +136,14 @@
       "word": "光线传媒股价7天暴涨200%",
       "onboard_time": 1739457526,
       "rank": 7,
+      "category": "财经,电影"
+    },
+    {
+      "raw_hot": 250449,
+      "num": 197062,
+      "word": "光线传媒市值暴涨至849亿元",
+      "onboard_time": 1739461520,
+      "rank": 30,
       "category": "财经,电影"
     },
     {
@@ -163,14 +179,6 @@
       "category": "民生新闻,汽车"
     },
     {
-      "raw_hot": 204604,
-      "num": 155373,
-      "word": "时尚芭莎 张康乐",
-      "onboard_time": 1739463559,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 176983,
       "num": 176983,
       "word": "理记",
@@ -203,12 +211,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 136974,
-      "num": 127765,
-      "word": "光线传媒市值暴涨至849亿元",
-      "onboard_time": 1739461520,
-      "rank": 30,
-      "category": "财经,电影"
+      "raw_hot": 145507,
+      "num": 145507,
+      "word": "十八年终于等来一个强吻",
+      "onboard_time": 1739464277,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 135778,
@@ -217,14 +225,6 @@
       "onboard_time": 1739454563,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 133314,
-      "num": 133314,
-      "word": "十八年终于等来一个强吻",
-      "onboard_time": 1739464277,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 128014,
@@ -259,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96609,
+      "num": 298562,
+      "word": "乾隆一眼相中的瓶子自带动画特效",
+      "onboard_time": 1739463079,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94441,
       "num": 127848,
       "word": "埃文凯尔回美国后一直称赞中国",
@@ -281,6 +289,14 @@
       "onboard_time": 1739444901,
       "rank": 29,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 92409,
+      "num": 92409,
+      "word": "孙怡cha了九万字",
+      "onboard_time": 1739448384,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 92130,
@@ -347,14 +363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 77219,
-      "num": 298562,
-      "word": "乾隆一眼相中的瓶子自带动画特效",
-      "onboard_time": 1739463079,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 76806,
       "num": 127069,
       "word": "檀健次祝贺哪吒2",
@@ -403,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 61943,
+      "num": 61943,
+      "word": "DeepSeek回答脱单的秘籍",
+      "onboard_time": 1739465357,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 38725,
       "num": 135378,
       "word": "Gumayusi安慰Doran",
@@ -411,12 +427,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 36282,
+      "num": 40060,
+      "word": "赵小童终于可以不穿秋裤了",
+      "onboard_time": 1739462600,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31766,
       "num": 127147,
       "word": "WE战胜eStar",
       "onboard_time": 1739455762,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 30472,
+      "num": 205798,
+      "word": "宁走十步远不走一步险",
+      "onboard_time": 1739463737,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21520,
@@ -433,6 +465,22 @@
       "onboard_time": 1739462059,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 14852,
+      "num": 74935,
+      "word": "王芮神之一击",
+      "onboard_time": 1739464457,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 9646,
+      "num": 47903,
+      "word": "女子冰壶中国5比2日本",
+      "onboard_time": 1739459241,
+      "rank": 42,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
