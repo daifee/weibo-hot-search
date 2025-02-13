@@ -1,6 +1,6 @@
 {
   "startTime": 1739377766335,
-  "endTime": 1739429029879,
+  "endTime": 1739431283365,
   "band_list": [
     {
       "raw_hot": 6171526,
@@ -72,6 +72,14 @@
       "word": "期待哪吒2票房超过100亿",
       "onboard_time": 1739424082,
       "rank": 3,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1142620,
+      "num": 1182819,
+      "word": "哪吒2超98亿",
+      "onboard_time": 1739428219,
+      "rank": 8,
       "category": "电影"
     },
     {
@@ -147,11 +155,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 840606,
-      "num": 573793,
-      "word": "哪吒2超98亿",
-      "onboard_time": 1739428219,
-      "rank": 8,
+      "raw_hot": 826277,
+      "num": 222416,
+      "word": "庆奶要演少女就让她演吧",
+      "onboard_time": 1739428640,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 800443,
+      "num": 457098,
+      "word": "美国队长4开分",
+      "onboard_time": 1739429959,
+      "rank": 3,
       "category": "电影"
     },
     {
@@ -209,6 +225,14 @@
       "onboard_time": 1739416340,
       "rank": 27,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 637136,
+      "num": 214615,
+      "word": "16岁男生身高疯长到1米99急坏爸妈",
+      "onboard_time": 1739430380,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 616261,
@@ -379,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 386959,
+      "num": 264506,
+      "word": "昨天定情镯今天阴阳隔",
+      "onboard_time": 1739428283,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 385046,
       "num": 385046,
       "word": "哪吒2全球票房排名第22",
@@ -433,6 +465,14 @@
       "onboard_time": 1739416279,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 328465,
+      "num": 214367,
+      "word": "情侣都忘记情人节是什么体验",
+      "onboard_time": 1739427800,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 326991,
@@ -563,14 +603,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 279771,
-      "num": 264506,
-      "word": "昨天定情镯今天阴阳隔",
-      "onboard_time": 1739428283,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 276842,
       "num": 270671,
       "word": "张馨予防风贴撕下来顺便去了一层脸毛",
@@ -593,6 +625,14 @@
       "onboard_time": 1739377997,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 270237,
+      "num": 218550,
+      "word": "王嘉尔不知道是在跟谁做朋友",
+      "onboard_time": 1739430380,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 267573,
@@ -699,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225592,
+      "num": 213668,
+      "word": "第一批返岗的打工人已经辞职了",
+      "onboard_time": 1739429840,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 222607,
       "num": 295850,
       "word": "雇人在妻子车上装定位后男子持刀伤妻",
@@ -803,14 +851,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 204750,
-      "num": 204750,
-      "word": "情侣都忘记情人节是什么体验",
-      "onboard_time": 1739427800,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 204486,
       "num": 204486,
       "word": "领馆回应中国留学生在美遇害",
@@ -859,6 +899,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194704,
+      "num": 194704,
+      "word": "封神2问题出在哪",
+      "onboard_time": 1739430380,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 194026,
+      "num": 217874,
+      "word": "男孩放冲天炮炸昏妈妈",
+      "onboard_time": 1739425881,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194022,
       "num": 194022,
       "word": "不负好春光 上春山",
@@ -897,6 +953,14 @@
       "onboard_time": 1739408121,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188885,
+      "num": 188885,
+      "word": "邓为大方",
+      "onboard_time": 1739428880,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 187715,
@@ -952,14 +1016,6 @@
       "word": "精致了50年的女孩子会怎样",
       "onboard_time": 1739416939,
       "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 181174,
-      "num": 181174,
-      "word": "男孩放冲天炮炸昏妈妈",
-      "onboard_time": 1739425881,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -1051,14 +1107,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 162757,
-      "num": 162757,
-      "word": "庆奶要演少女就让她演吧",
-      "onboard_time": 1739428640,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 162066,
       "num": 162066,
       "word": "前经纪公司否认曝光沈小婷身份证",
@@ -1147,12 +1195,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 156629,
+      "num": 156629,
+      "word": "你觉得哪吒2总票房能到多少",
+      "onboard_time": 1739431220,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 152074,
       "num": 152074,
       "word": "饺子导演根本没敢休息",
       "onboard_time": 1739411780,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 151575,
+      "num": 151575,
+      "word": "情人节送礼焦虑症",
+      "onboard_time": 1739431040,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 150302,
@@ -1179,12 +1243,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 146514,
+      "num": 216200,
+      "word": "A股市场出现三大积极信号",
+      "onboard_time": 1739429300,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 145844,
       "num": 145844,
       "word": "于适韩骁服役期间自拍照",
       "onboard_time": 1739377398,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145716,
+      "num": 408990,
+      "word": "中国留学生在美遇害公寓有男子翻窗",
+      "onboard_time": 1739427080,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 145320,
@@ -1339,6 +1419,30 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119791,
+      "num": 119791,
+      "word": "一起陪哪吒冲刺百亿",
+      "onboard_time": 1739431040,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 119367,
+      "num": 119367,
+      "word": "男子发现新婚妻子贷15万选择一起扛",
+      "onboard_time": 1739431161,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119040,
+      "num": 119040,
+      "word": "蔡崇信确认阿里与苹果合作",
+      "onboard_time": 1739431161,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 118391,
       "num": 118391,
       "word": "央妈很懂我",
@@ -1379,6 +1483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116618,
+      "num": 116618,
+      "word": "特效团队喊话饺子哪吒3轻点折磨",
+      "onboard_time": 1739430560,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 115702,
       "num": 115702,
       "word": "鞠婧祎 花仙",
@@ -1411,6 +1523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 112440,
+      "num": 112440,
+      "word": "金价连涨黄金回收火爆",
+      "onboard_time": 1739431040,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111891,
       "num": 111891,
       "word": "王一博腰上这一堆得多少斤",
@@ -1441,6 +1561,14 @@
       "onboard_time": 1739405840,
       "rank": 33,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 108474,
+      "num": 217029,
+      "word": "蒋梦婕浪姐6穿浴袍上班",
+      "onboard_time": 1739430199,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 108315,
@@ -1489,6 +1617,14 @@
       "onboard_time": 1739415500,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 102326,
+      "num": 183166,
+      "word": "王家卫说影院是所有电影梦的开始",
+      "onboard_time": 1739430921,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 101989,
@@ -1707,12 +1843,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 56994,
-      "num": 144932,
-      "word": "邓为大方",
-      "onboard_time": 1739428880,
-      "rank": 42,
-      "category": "剧集"
+      "raw_hot": 54931,
+      "num": 108038,
+      "word": "明世隐新皮肤免费送",
+      "onboard_time": 1739429840,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 53813,
@@ -1747,20 +1883,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 47115,
-      "num": 408990,
-      "word": "中国留学生在美遇害公寓有男子翻窗",
-      "onboard_time": 1739427080,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 46355,
       "num": 246959,
       "word": "李现伯纳乌观战皇马",
       "onboard_time": 1739427921,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 45884,
+      "num": 212137,
+      "word": "欧文42分",
+      "onboard_time": 1739426181,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 44973,
