@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1739450586127,
+  "endTime": 1739451533048,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1899,6 +1899,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 2352044,
+      "num": 2352044,
+      "word": "官方通报江秋莲被举报诈捐",
+      "onboard_time": 1739449643,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2350642,
       "num": 356870,
       "word": "陈乔恩为网红狗艾特发声",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735802482,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2098189,
-      "num": 2098189,
-      "word": "祝绪丹哭了",
-      "onboard_time": 1736004515,
-      "rank": 21,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
