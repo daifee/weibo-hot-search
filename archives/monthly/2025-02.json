@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739403345759,
+  "endTime": 1739410957212,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1243,6 +1243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1652968,
+      "num": 1652968,
+      "word": "演员别把肇事逃逸当演戏",
+      "onboard_time": 1739404939,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1652342,
       "num": 1652342,
       "word": "全球票房",
@@ -1441,6 +1449,14 @@
       "onboard_time": 1738370415,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1491918,
+      "num": 425155,
+      "word": "俄罗斯女首富宣布离婚",
+      "onboard_time": 1739406801,
+      "rank": 10,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1488180,
@@ -4643,6 +4659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 671026,
+      "num": 671026,
+      "word": "留几手直播谈麦琳",
+      "onboard_time": 1739407760,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 669875,
       "num": 669875,
       "word": "王濛说林孝埈是我给整回来的",
@@ -5857,6 +5881,14 @@
       "onboard_time": 1738920561,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 563326,
+      "num": 563326,
+      "word": "李嘉琦浪姐路透瘦了好多",
+      "onboard_time": 1739403498,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 562175,
@@ -7521,6 +7553,14 @@
       "onboard_time": 1739019863,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 463231,
+      "num": 174169,
+      "word": "特朗普普京通电话",
+      "onboard_time": 1739402476,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 461331,
@@ -11491,6 +11531,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 294311,
+      "num": 294311,
+      "word": "虞书欣何与双轨拥吻路透",
+      "onboard_time": 1739409499,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 294258,
       "num": 294258,
       "word": "林诗栋谈登顶世界第一的意义",
@@ -11537,6 +11585,14 @@
       "onboard_time": 1738907662,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 293556,
+      "num": 293556,
+      "word": "王者荣耀",
+      "onboard_time": 1738498040,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 293336,
@@ -11657,6 +11713,14 @@
       "onboard_time": 1738670544,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 289883,
+      "num": 191689,
+      "word": "女子双肺全白丈夫守护33天不离弃",
+      "onboard_time": 1739403977,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 289820,
@@ -14707,14 +14771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 226894,
-      "num": 226894,
-      "word": "王者荣耀",
-      "onboard_time": 1738498040,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 226858,
       "num": 189232,
       "word": "仙台有树OST阵容官宣",
@@ -15251,6 +15307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220541,
+      "num": 191604,
+      "word": "香港一医生疑因大肠杆菌感染重症去世",
+      "onboard_time": 1739408480,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220430,
       "num": 220430,
       "word": "近期大量黄金等贵金属被运往美国",
@@ -15571,6 +15635,14 @@
       "category": "国内时政,电影"
     },
     {
+      "raw_hot": 216865,
+      "num": 425174,
+      "word": "特朗普称俄美希望结束俄乌冲突",
+      "onboard_time": 1739403317,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 216852,
       "num": 216852,
       "word": "潘宏基地回应限制主人取回狗狗",
@@ -15753,6 +15825,14 @@
       "onboard_time": 1738376177,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 214439,
+      "num": 214439,
+      "word": "饺子 画册",
+      "onboard_time": 1739403977,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 214374,
@@ -16313,6 +16393,14 @@
       "onboard_time": 1738663824,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208157,
+      "num": 208157,
+      "word": "美国一战斗机坠毁2名飞行员获救",
+      "onboard_time": 1739403918,
+      "rank": 16,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 208129,
@@ -19059,6 +19147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187715,
+      "num": 187715,
+      "word": "抖音副总裁回应摆拍视频乱象",
+      "onboard_time": 1739402776,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 187704,
       "num": 187704,
       "word": "蛇是很多医学院校徽的主角",
@@ -21347,6 +21443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169532,
+      "num": 169532,
+      "word": "祝绪丹白得好像开了滤镜",
+      "onboard_time": 1739408121,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169417,
       "num": 301068,
       "word": "王传福说好技术就应该人人可享",
@@ -22065,6 +22169,14 @@
       "onboard_time": 1739284222,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163683,
+      "num": 163683,
+      "word": "张萌哪吒2悉尼首映礼vlog",
+      "onboard_time": 1739407640,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 163637,
@@ -22787,6 +22899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158720,
+      "num": 169589,
+      "word": "人民日报专访哪吒2主创",
+      "onboard_time": 1739408901,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 158646,
       "num": 210396,
       "word": "中国速滑队11金5银5铜收官",
@@ -22881,6 +23001,14 @@
       "onboard_time": 1738841722,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157990,
+      "num": 157990,
+      "word": "给哪吒rap配音全身都得动",
+      "onboard_time": 1739407340,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 157976,
@@ -23489,6 +23617,14 @@
       "onboard_time": 1738825404,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152766,
+      "num": 152766,
+      "word": "卡琳娜像李艺彤请来的cos委托",
+      "onboard_time": 1739406922,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 152739,
@@ -25331,14 +25467,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 139485,
-      "num": 139485,
-      "word": "特朗普普京通电话",
-      "onboard_time": 1739402476,
-      "rank": 15,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 139428,
       "num": 139428,
       "word": "创造营亚洲2首播",
@@ -25385,6 +25513,14 @@
       "onboard_time": 1738826185,
       "rank": 17,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 139237,
+      "num": 139237,
+      "word": "饺子导演画着呢画着呢",
+      "onboard_time": 1739410520,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 139183,
@@ -28979,6 +29115,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 109560,
+      "num": 158549,
+      "word": "圆字能带出多少祝福",
+      "onboard_time": 1739405840,
+      "rank": 33,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 109523,
       "num": 109523,
       "word": "哪吒2预测票房超85亿",
@@ -29539,6 +29683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104070,
+      "num": 104070,
+      "word": "貂蝉猫影幻舞星传说",
+      "onboard_time": 1739410759,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 103946,
       "num": 103946,
       "word": "开曼群岛附近海域8.0级地震",
@@ -29577,6 +29729,14 @@
       "onboard_time": 1738680924,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103810,
+      "num": 103810,
+      "word": "无双深渊",
+      "onboard_time": 1739410339,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 103765,
@@ -29753,6 +29913,14 @@
       "onboard_time": 1738508061,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101989,
+      "num": 101989,
+      "word": "男子用儿子第一双小袜子做车挂",
+      "onboard_time": 1739404458,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 101965,
@@ -30547,6 +30715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93910,
+      "num": 293749,
+      "word": "保安持棍殴打外卖员被行拘",
+      "onboard_time": 1739409740,
+      "rank": 13,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 93621,
       "num": 815934,
       "word": "中国人的春节传统走向世界了",
@@ -30609,14 +30785,6 @@
       "onboard_time": 1738373837,
       "rank": 8,
       "category": "互联网,财经"
-    },
-    {
-      "raw_hot": 92882,
-      "num": 92882,
-      "word": "抖音副总裁回应摆拍视频乱象",
-      "onboard_time": 1739402776,
-      "rank": 26,
-      "category": "互联网"
     },
     {
       "raw_hot": 92625,
@@ -31585,6 +31753,14 @@
       "onboard_time": 1739168600,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 78678,
+      "num": 158090,
+      "word": "守望先锋新中国英雄",
+      "onboard_time": 1739405419,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 78651,
@@ -32803,14 +32979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 62355,
-      "num": 62355,
-      "word": "特朗普称俄美希望结束俄乌冲突",
-      "onboard_time": 1739403317,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 62349,
       "num": 194298,
       "word": "赵一博烤冷面",
@@ -33345,6 +33513,14 @@
       "onboard_time": 1738942462,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56435,
+      "num": 1034508,
+      "word": "一大批重大外资项目加快推进",
+      "onboard_time": 1739367322,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55927,
@@ -35096,14 +35272,6 @@
       "word": "犯罪嫌疑人开走警车连撞3车",
       "onboard_time": 1739050751,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38590,
-      "num": 567516,
-      "word": "一大批重大外资项目加快推进",
-      "onboard_time": 1739367322,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
