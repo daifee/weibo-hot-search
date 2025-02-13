@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739486316943,
+  "endTime": 1739488931597,
   "band_list": [
     {
       "raw_hot": 18452349,
@@ -5147,6 +5147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 308296,
+      "num": 308296,
+      "word": "光线传媒市值暴涨至849亿元",
+      "onboard_time": 1739461520,
+      "rank": 30,
+      "category": "财经,电影"
+    },
+    {
       "raw_hot": 308229,
       "num": 308229,
       "word": "湖南元宵晚会灯谜节目单",
@@ -6171,20 +6179,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 250916,
+      "num": 250916,
+      "word": "65万元春晚机器人一机难求",
+      "onboard_time": 1739470033,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 250691,
       "num": 250691,
       "word": "五福临门大结局",
       "onboard_time": 1739274200,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 250449,
-      "num": 214000,
-      "word": "光线传媒市值暴涨至849亿元",
-      "onboard_time": 1739461520,
-      "rank": 30,
-      "category": "财经,电影"
     },
     {
       "raw_hot": 250415,
@@ -6305,6 +6313,14 @@
       "onboard_time": 1739073979,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 245321,
+      "num": 222849,
+      "word": "潘宏再回应艾特和小宝死亡事件",
+      "onboard_time": 1739488516,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 245171,
@@ -8169,6 +8185,14 @@
       "onboard_time": 1739352259,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200699,
+      "num": 200699,
+      "word": "马柏全",
+      "onboard_time": 1739488576,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 200636,
@@ -11499,6 +11523,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 149931,
+      "num": 268253,
+      "word": "校友愤怒回应洛杉矶中国留学生被杀",
+      "onboard_time": 1739452223,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149850,
       "num": 173943,
       "word": "陈哲远直接扑梁洁腿上了",
@@ -12475,6 +12507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132946,
+      "num": 132946,
+      "word": "刘诗诗回应下雨天穿白裙子",
+      "onboard_time": 1739488516,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132833,
       "num": 132833,
       "word": "88岁老人卖废品不够标准老板仍买下",
@@ -12881,14 +12921,6 @@
       "onboard_time": 1739439260,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124492,
-      "num": 268253,
-      "word": "校友愤怒回应洛杉矶中国留学生被杀",
-      "onboard_time": 1739452223,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124287,
@@ -13595,6 +13627,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 111254,
+      "num": 298562,
+      "word": "乾隆一眼相中的瓶子自带动画特效",
+      "onboard_time": 1739463079,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111056,
       "num": 159929,
       "word": "郑钦文黑长裙亮相晚宴",
@@ -13609,6 +13649,14 @@
       "onboard_time": 1739343141,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110792,
+      "num": 110792,
+      "word": "美战机坠毁两飞行员弹射逃生",
+      "onboard_time": 1739481972,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 110308,
@@ -13771,14 +13819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 105418,
-      "num": 105418,
-      "word": "美战机坠毁两飞行员弹射逃生",
-      "onboard_time": 1739481972,
-      "rank": 49,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 105291,
       "num": 225759,
       "word": "新加坡大满贯女单颁奖典礼",
@@ -13809,6 +13849,14 @@
       "onboard_time": 1739018722,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104406,
+      "num": 104406,
+      "word": "马柏全 张康乐",
+      "onboard_time": 1739488876,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 104392,
@@ -14067,6 +14115,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 98094,
+      "num": 98094,
+      "word": "DeepSeek回答脱单的秘籍",
+      "onboard_time": 1739465357,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 98041,
       "num": 219869,
       "word": "他们在相杀她们在相爱",
@@ -14105,14 +14161,6 @@
       "onboard_time": 1739367203,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 96609,
-      "num": 298562,
-      "word": "乾隆一眼相中的瓶子自带动画特效",
-      "onboard_time": 1739463079,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96591,
@@ -14169,14 +14217,6 @@
       "onboard_time": 1739261361,
       "rank": 29,
       "category": "运动健身,教育"
-    },
-    {
-      "raw_hot": 94950,
-      "num": 94950,
-      "word": "65万元春晚机器人一机难求",
-      "onboard_time": 1739470033,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 94441,
@@ -14304,6 +14344,14 @@
       "word": "张兰想在风口上逐利要承担后果",
       "onboard_time": 1739031319,
       "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 90846,
+      "num": 140650,
+      "word": "虞书欣黄杨钿甜八年前的合照",
+      "onboard_time": 1739488576,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -14539,6 +14587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81326,
+      "num": 81326,
+      "word": "复旦教授回应提倡年轻人啃老",
+      "onboard_time": 1739472371,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80874,
       "num": 150946,
       "word": "狄仁杰新皮肤",
@@ -14697,14 +14753,6 @@
       "onboard_time": 1739171960,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 77544,
-      "num": 62072,
-      "word": "DeepSeek回答脱单的秘籍",
-      "onboard_time": 1739465357,
-      "rank": 33,
-      "category": "互联网"
     },
     {
       "raw_hot": 77435,
@@ -15779,6 +15827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51014,
+      "num": 73117,
+      "word": "刘诗诗转身这一下有多明媚",
+      "onboard_time": 1739467993,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 50438,
       "num": 154341,
       "word": "已经开始期待明年过年了",
@@ -16235,6 +16291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39995,
+      "num": 72196,
+      "word": "王星越左手哪吒右手敖丙",
+      "onboard_time": 1739488516,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 39994,
       "num": 217686,
       "word": "泰国总理感谢中国女保镖",
@@ -16257,14 +16321,6 @@
       "onboard_time": 1739294834,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39590,
-      "num": 57750,
-      "word": "刘诗诗转身这一下有多明媚",
-      "onboard_time": 1739467993,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 39341,
@@ -16331,6 +16387,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 38622,
+      "num": 72137,
+      "word": "王楚钦说会更多注重重要赛事",
+      "onboard_time": 1739469313,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38579,
       "num": 309778,
       "word": "为什么哪吒形象如此受欢迎",
@@ -16368,6 +16432,14 @@
       "word": "黄旭华的深潜人生",
       "onboard_time": 1739158521,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36940,
+      "num": 183215,
+      "word": "园长回应幼师作品获奖被同事挤掉署名",
+      "onboard_time": 1739467094,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -16515,14 +16587,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 35114,
-      "num": 183215,
-      "word": "园长回应幼师作品获奖被同事挤掉署名",
-      "onboard_time": 1739467094,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 35099,
       "num": 53312,
       "word": "一群外地阿姨奔赴灾区捐菜又做饭",
@@ -16553,14 +16617,6 @@
       "onboard_time": 1739377098,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 34416,
-      "num": 34416,
-      "word": "复旦教授回应提倡年轻人啃老",
-      "onboard_time": 1739472371,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34390,
@@ -16611,20 +16667,20 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 33225,
-      "num": 33225,
-      "word": "王楚钦说会更多注重重要赛事",
-      "onboard_time": 1739469313,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 33210,
       "num": 218179,
       "word": "诈骗分子用AI模仿意大利国防部长",
       "onboard_time": 1739250441,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 33201,
+      "num": 71113,
+      "word": "俄乌局势新进展",
+      "onboard_time": 1739467694,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 33171,
@@ -16865,14 +16921,6 @@
       "onboard_time": 1739334862,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 28452,
-      "num": 31766,
-      "word": "俄乌局势新进展",
-      "onboard_time": 1739467694,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 28401,
