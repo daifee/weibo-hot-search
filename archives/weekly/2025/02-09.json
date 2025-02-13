@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739461025130,
+  "endTime": 1739464152455,
   "band_list": [
     {
       "raw_hot": 18452349,
@@ -4139,6 +4139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 392997,
+      "num": 313359,
+      "word": "章子怡被演员的表演雷到",
+      "onboard_time": 1739457743,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 392915,
       "num": 392915,
       "word": "美国队长4黑人",
@@ -4561,14 +4569,6 @@
       "onboard_time": 1739284762,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 348764,
-      "num": 313359,
-      "word": "章子怡被演员的表演雷到",
-      "onboard_time": 1739457743,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 348130,
@@ -6945,6 +6945,14 @@
       "onboard_time": 1739336481,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 223462,
+      "num": 333805,
+      "word": "目击者回忆台湾百货大楼爆炸瞬间",
+      "onboard_time": 1739460501,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 223411,
@@ -11531,6 +11539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147617,
+      "num": 147617,
+      "word": "坑了小米SU7的乡路修了",
+      "onboard_time": 1739462360,
+      "rank": 19,
+      "category": "民生新闻,汽车"
+    },
+    {
       "raw_hot": 147480,
       "num": 147480,
       "word": "美国近70人感染H5N1型禽流感",
@@ -12185,6 +12201,14 @@
       "onboard_time": 1739411299,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136974,
+      "num": 127765,
+      "word": "光线传媒市值暴涨至849亿元",
+      "onboard_time": 1739461520,
+      "rank": 30,
+      "category": "财经,电影"
     },
     {
       "raw_hot": 136560,
@@ -13579,6 +13603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 109077,
+      "num": 127964,
+      "word": "马柏全风尚志单人首封",
+      "onboard_time": 1739463139,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 109069,
       "num": 203036,
       "word": "三亚偶遇沈腾出海",
@@ -14083,6 +14115,14 @@
       "category": "运动健身,教育"
     },
     {
+      "raw_hot": 94441,
+      "num": 127848,
+      "word": "埃文凯尔回美国后一直称赞中国",
+      "onboard_time": 1739461161,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94282,
       "num": 280339,
       "word": "第一次看见用木乃伊方式包谷子",
@@ -14241,6 +14281,14 @@
       "onboard_time": 1739185640,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89094,
+      "num": 127374,
+      "word": "时尚芭莎 张康乐",
+      "onboard_time": 1739463559,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 88177,
@@ -15555,6 +15603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52127,
+      "num": 127410,
+      "word": "乾隆一眼相中的瓶子自带动画特效",
+      "onboard_time": 1739463079,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52098,
       "num": 195694,
       "word": "电饭锅焖的小香薯",
@@ -15889,6 +15945,14 @@
       "onboard_time": 1739247501,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 44574,
+      "num": 127069,
+      "word": "檀健次祝贺哪吒2",
+      "onboard_time": 1739455762,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 44527,
@@ -16297,14 +16361,6 @@
       "onboard_time": 1739417900,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 35806,
-      "num": 333805,
-      "word": "目击者回忆台湾百货大楼爆炸瞬间",
-      "onboard_time": 1739460501,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35773,
@@ -17121,6 +17177,14 @@
       "onboard_time": 1739128152,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21264,
+      "num": 127646,
+      "word": "易峥轮换上场",
+      "onboard_time": 1739462059,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 20782,
