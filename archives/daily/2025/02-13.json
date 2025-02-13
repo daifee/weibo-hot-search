@@ -1,7 +1,15 @@
 {
   "startTime": 1739377766335,
-  "endTime": 1739445552367,
+  "endTime": 1739446566952,
   "band_list": [
+    {
+      "raw_hot": 18452349,
+      "num": 18452349,
+      "word": "哪吒2破100亿",
+      "onboard_time": 1739445507,
+      "rank": 6,
+      "category": "电影"
+    },
     {
       "raw_hot": 6171526,
       "num": 6171526,
@@ -11,7 +19,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 4513174,
+      "raw_hot": 5336614,
       "num": 4513174,
       "word": "祝贺哪吒2票房破100亿",
       "onboard_time": 1739437641,
@@ -43,11 +51,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2318558,
-      "num": 566156,
-      "word": "哪吒2破100亿",
-      "onboard_time": 1739445507,
-      "rank": 6,
+      "raw_hot": 2390289,
+      "num": 554161,
+      "word": "春节档流量明星失灵了",
+      "onboard_time": 1739441722,
+      "rank": 33,
       "category": "电影"
     },
     {
@@ -67,19 +75,19 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1873768,
-      "num": 554161,
-      "word": "春节档流量明星失灵了",
-      "onboard_time": 1739441722,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 1780872,
       "num": 1780872,
       "word": "饺子 早知道十亿十亿画了",
       "onboard_time": 1739367562,
       "rank": 0,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1738419,
+      "num": 432801,
+      "word": "哪吒",
+      "onboard_time": 1739403858,
+      "rank": 19,
       "category": "电影"
     },
     {
@@ -139,19 +147,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1256285,
+      "num": 502564,
+      "word": "哪吒2又又又又破纪录了",
+      "onboard_time": 1739437940,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1239221,
       "num": 566345,
       "word": "期待哪吒2票房超过100亿",
       "onboard_time": 1739424082,
       "rank": 3,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 1206584,
-      "num": 432801,
-      "word": "哪吒",
-      "onboard_time": 1739403858,
-      "rank": 19,
       "category": "电影"
     },
     {
@@ -168,14 +176,6 @@
       "word": "哪吒2超98亿",
       "onboard_time": 1739428219,
       "rank": 8,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 1143520,
-      "num": 502564,
-      "word": "哪吒2又又又又破纪录了",
-      "onboard_time": 1739437940,
-      "rank": 23,
       "category": "电影"
     },
     {
@@ -323,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 707557,
+      "num": 388537,
+      "word": "哪吒票房",
+      "onboard_time": 1739438661,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 699951,
       "num": 364880,
       "word": "16岁男生身高疯长到1米99急坏爸妈",
@@ -369,14 +377,6 @@
       "onboard_time": 1739416340,
       "rank": 27,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 632314,
-      "num": 388537,
-      "word": "哪吒票房",
-      "onboard_time": 1739438661,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 616261,
@@ -515,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 506581,
+      "num": 506581,
+      "word": "教授称985毕业送外卖也很正常",
+      "onboard_time": 1739444782,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 480867,
       "num": 480867,
       "word": "台湾一商场爆炸5死13伤",
@@ -568,6 +576,14 @@
       "word": "张艺兴又去看哪吒了",
       "onboard_time": 1739368522,
       "rank": 5,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 456985,
+      "num": 456985,
+      "word": "哪吒2里的中药都有哪些功效",
+      "onboard_time": 1739446288,
+      "rank": 8,
       "category": "电影"
     },
     {
@@ -707,6 +723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 346688,
+      "num": 499212,
+      "word": "男子猥亵被行拘却因超70岁不执行",
+      "onboard_time": 1739439980,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 345802,
       "num": 345802,
       "word": "林允圈内宣发组好多人",
@@ -796,7 +820,7 @@
     },
     {
       "raw_hot": 314243,
-      "num": 239911,
+      "num": 286581,
       "word": "唐探1900票房超30亿",
       "onboard_time": 1739440762,
       "rank": 23,
@@ -905,6 +929,14 @@
       "onboard_time": 1739377997,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 267679,
+      "num": 267679,
+      "word": "张凌赫白鹿新戏对打",
+      "onboard_time": 1739446526,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 267573,
@@ -1107,6 +1139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220107,
+      "num": 220107,
+      "word": "大学生为救人戒奶茶3个月",
+      "onboard_time": 1739444901,
+      "rank": 33,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 218126,
       "num": 218126,
       "word": "黄景瑜吃饼饼受皮外伤",
@@ -1211,6 +1251,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 203792,
+      "num": 203792,
+      "word": "檀健次这脸放高中高低暗恋三年",
+      "onboard_time": 1739445806,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203656,
       "num": 203656,
       "word": "主流手机仅小米苹果未接入DeepSeek",
@@ -1251,12 +1299,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 199904,
-      "num": 499212,
-      "word": "男子猥亵被行拘却因超70岁不执行",
-      "onboard_time": 1739439980,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 200259,
+      "num": 200259,
+      "word": "登陆少年新歌我VSJustinBieber",
+      "onboard_time": 1739442201,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 199023,
@@ -1283,12 +1331,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197621,
-      "num": 197621,
-      "word": "登陆少年新歌我VSJustinBieber",
-      "onboard_time": 1739442201,
-      "rank": 48,
-      "category": "音乐"
+      "raw_hot": 197487,
+      "num": 181599,
+      "word": "檀健次这是闯进狼窝了吧",
+      "onboard_time": 1739445448,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 197452,
@@ -1305,6 +1353,14 @@
       "onboard_time": 1739432600,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195102,
+      "num": 345896,
+      "word": "官方回应企业通知员工不结婚就解聘",
+      "onboard_time": 1739445086,
+      "rank": 18,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 194938,
@@ -1332,7 +1388,7 @@
     },
     {
       "raw_hot": 191836,
-      "num": 180281,
+      "num": 200972,
       "word": "原来这就是生理性喜欢",
       "onboard_time": 1739444000,
       "rank": 29,
@@ -1393,14 +1449,6 @@
       "onboard_time": 1739428880,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 188813,
-      "num": 395888,
-      "word": "教授称985毕业送外卖也很正常",
-      "onboard_time": 1739444782,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 187715,
@@ -1515,6 +1563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174182,
+      "num": 217448,
+      "word": "好友称洛杉矶遇害女生的男友是凶手",
+      "onboard_time": 1739441422,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 173672,
       "num": 173672,
       "word": "柳智敏权志龙将合作",
@@ -1529,6 +1585,14 @@
       "onboard_time": 1739435058,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171058,
+      "num": 171058,
+      "word": "Zeus单杀Faker",
+      "onboard_time": 1739445327,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 170284,
@@ -1561,6 +1625,14 @@
       "onboard_time": 1739430199,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164528,
+      "num": 354768,
+      "word": "分手咨询7年后情侣复合",
+      "onboard_time": 1739445448,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164334,
@@ -1651,14 +1723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161073,
-      "num": 217448,
-      "word": "好友称洛杉矶遇害女生的男友是凶手",
-      "onboard_time": 1739441422,
-      "rank": 28,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 160784,
       "num": 195748,
       "word": "白马去世后主人醉酒痛哭",
@@ -1731,20 +1795,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 153333,
+      "num": 153333,
+      "word": "中国乒乓球队回应WTT",
+      "onboard_time": 1739443041,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153332,
       "num": 153332,
       "word": "杨洋包场方逸伦的新剧",
       "onboard_time": 1739435058,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 152711,
-      "num": 152711,
-      "word": "大学生为救人戒奶茶3个月",
-      "onboard_time": 1739444901,
-      "rank": 33,
-      "category": "正能量"
     },
     {
       "raw_hot": 152379,
@@ -1843,6 +1907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144381,
+      "num": 144381,
+      "word": "舜天化工回应单身员工不结婚就解雇",
+      "onboard_time": 1739442442,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144153,
       "num": 144153,
       "word": "赵丽颖杨幂唐嫣新剧或将对打",
@@ -1859,20 +1931,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142812,
+      "num": 142812,
+      "word": "人民空军正积极与古巴老爷爷联系",
+      "onboard_time": 1739441961,
+      "rank": 41,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 142063,
       "num": 142063,
       "word": "胡定欣首晒与男友合照",
       "onboard_time": 1739428701,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 141977,
-      "num": 141977,
-      "word": "中国乒乓球队回应WTT",
-      "onboard_time": 1739443041,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 141934,
@@ -1947,22 +2019,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 136194,
-      "num": 136194,
-      "word": "人民空军正积极与古巴老爷爷联系",
-      "onboard_time": 1739441961,
-      "rank": 41,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 136152,
-      "num": 136152,
-      "word": "舜天化工回应单身员工不结婚就解雇",
-      "onboard_time": 1739442442,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135671,
       "num": 135671,
       "word": "元宵晚会魔术",
@@ -1979,12 +2035,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134015,
-      "num": 134015,
-      "word": "Zeus单杀Faker",
-      "onboard_time": 1739445327,
-      "rank": 43,
-      "category": "电竞"
+      "raw_hot": 134102,
+      "num": 134102,
+      "word": "怎敌她千娇百媚",
+      "onboard_time": 1739446406,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 132394,
@@ -2001,6 +2057,14 @@
       "onboard_time": 1739346200,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130664,
+      "num": 130664,
+      "word": "我cp现场还原cp名",
+      "onboard_time": 1739445986,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 130151,
@@ -2051,6 +2115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123117,
+      "num": 123117,
+      "word": "天秤座最舒适的社交关系",
+      "onboard_time": 1739444841,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 122282,
       "num": 122282,
       "word": "哪吒的新鳞甲是我们的文化自信",
@@ -2089,6 +2161,14 @@
       "onboard_time": 1739443762,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119461,
+      "num": 119461,
+      "word": "驻站",
+      "onboard_time": 1739446465,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 118391,
@@ -2145,14 +2225,6 @@
       "onboard_time": 1739365942,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 115695,
-      "num": 115695,
-      "word": "分手咨询7年后情侣复合",
-      "onboard_time": 1739445448,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 114566,
@@ -2281,14 +2353,6 @@
       "onboard_time": 1739353281,
       "rank": 29,
       "category": "教育"
-    },
-    {
-      "raw_hot": 105782,
-      "num": 263235,
-      "word": "官方回应企业通知员工不结婚就解聘",
-      "onboard_time": 1739445086,
-      "rank": 18,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 103810,
@@ -2499,6 +2563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72306,
+      "num": 346483,
+      "word": "演员请就位3定档",
+      "onboard_time": 1739446166,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 69410,
       "num": 145075,
       "word": "原神",
@@ -2539,7 +2611,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 59658,
+      "raw_hot": 60856,
       "num": 678822,
       "word": "我国最大超深原油生产区加快建设",
       "onboard_time": 1739440642,
@@ -2699,6 +2771,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 36882,
+      "num": 345532,
+      "word": "野猪进村扑倒村民致2人受伤送医",
+      "onboard_time": 1739444901,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36689,
       "num": 221279,
       "word": "朱易心态进步了",
@@ -2825,14 +2905,6 @@
       "onboard_time": 1739368163,
       "rank": 2,
       "category": "民生新闻,科学科普"
-    },
-    {
-      "raw_hot": 23541,
-      "num": 257920,
-      "word": "野猪进村扑倒村民致2人受伤送医",
-      "onboard_time": 1739444901,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23389,

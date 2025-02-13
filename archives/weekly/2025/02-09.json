@@ -1,7 +1,15 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739445552367,
+  "endTime": 1739446566952,
   "band_list": [
+    {
+      "raw_hot": 18452349,
+      "num": 18452349,
+      "word": "哪吒2破100亿",
+      "onboard_time": 1739445507,
+      "rank": 6,
+      "category": "电影"
+    },
     {
       "raw_hot": 10705430,
       "num": 10705430,
@@ -27,7 +35,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 4513174,
+      "raw_hot": 5336614,
       "num": 4513174,
       "word": "祝贺哪吒2票房破100亿",
       "onboard_time": 1739437641,
@@ -163,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2390289,
+      "num": 554161,
+      "word": "春节档流量明星失灵了",
+      "onboard_time": 1739441722,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 2371724,
       "num": 2371724,
       "word": "DeepSeek",
@@ -177,14 +193,6 @@
       "onboard_time": 1739108782,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2318558,
-      "num": 566156,
-      "word": "哪吒2破100亿",
-      "onboard_time": 1739445507,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 2207230,
@@ -395,14 +403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1873768,
-      "num": 554161,
-      "word": "春节档流量明星失灵了",
-      "onboard_time": 1739441722,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 1862522,
       "num": 1862522,
       "word": "哪吒2再破81亿",
@@ -481,6 +481,14 @@
       "onboard_time": 1739158583,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1738419,
+      "num": 583497,
+      "word": "哪吒",
+      "onboard_time": 1739192963,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 1730645,
@@ -819,6 +827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1256285,
+      "num": 502564,
+      "word": "哪吒2又又又又破纪录了",
+      "onboard_time": 1739437940,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1252838,
       "num": 418077,
       "word": "百色去世女生父亲发声",
@@ -873,14 +889,6 @@
       "onboard_time": 1739071278,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1206584,
-      "num": 583497,
-      "word": "哪吒",
-      "onboard_time": 1739192963,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 1206163,
@@ -985,14 +993,6 @@
       "onboard_time": 1739344342,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1143520,
-      "num": 502564,
-      "word": "哪吒2又又又又破纪录了",
-      "onboard_time": 1739437940,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 1139890,
@@ -2011,6 +2011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 707557,
+      "num": 495474,
+      "word": "哪吒票房",
+      "onboard_time": 1739238740,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 707049,
       "num": 707049,
       "word": "唐某某严重违反教师职业道德",
@@ -2385,14 +2393,6 @@
       "onboard_time": 1739282543,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 632314,
-      "num": 495474,
-      "word": "哪吒票房",
-      "onboard_time": 1739238740,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 624189,
@@ -3187,6 +3187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 506581,
+      "num": 506581,
+      "word": "教授称985毕业送外卖也很正常",
+      "onboard_time": 1739444782,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 506568,
       "num": 532768,
       "word": "2024年全国结婚登记数再度下探",
@@ -3457,6 +3465,14 @@
       "onboard_time": 1739329220,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 456985,
+      "num": 456985,
+      "word": "哪吒2里的中药都有哪些功效",
+      "onboard_time": 1739446288,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 453291,
@@ -4339,6 +4355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 346688,
+      "num": 499212,
+      "word": "男子猥亵被行拘却因超70岁不执行",
+      "onboard_time": 1739439980,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 346455,
       "num": 563267,
       "word": "世界泳联兴奋剂检测前32位全是中国选手",
@@ -4772,7 +4796,7 @@
     },
     {
       "raw_hot": 314243,
-      "num": 239911,
+      "num": 286581,
       "word": "唐探1900票房超30亿",
       "onboard_time": 1739440762,
       "rank": 23,
@@ -5569,6 +5593,14 @@
       "onboard_time": 1739339000,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 267679,
+      "num": 267679,
+      "word": "张凌赫白鹿新戏对打",
+      "onboard_time": 1739446526,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 267573,
@@ -6779,6 +6811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220107,
+      "num": 220107,
+      "word": "大学生为救人戒奶茶3个月",
+      "onboard_time": 1739444901,
+      "rank": 33,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 219175,
       "num": 219175,
       "word": "董思成八年前vs八年后",
@@ -7515,6 +7555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203792,
+      "num": 203792,
+      "word": "檀健次这脸放高中高低暗恋三年",
+      "onboard_time": 1739445806,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203656,
       "num": 203656,
       "word": "主流手机仅小米苹果未接入DeepSeek",
@@ -7739,6 +7787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 200259,
+      "num": 200259,
+      "word": "登陆少年新歌我VSJustinBieber",
+      "onboard_time": 1739442201,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 200159,
       "num": 200159,
       "word": "年轻人的买黄金新玩法",
@@ -7753,14 +7809,6 @@
       "onboard_time": 1739193563,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199904,
-      "num": 499212,
-      "word": "男子猥亵被行拘却因超70岁不执行",
-      "onboard_time": 1739439980,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 199900,
@@ -7931,20 +7979,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 197621,
-      "num": 197621,
-      "word": "登陆少年新歌我VSJustinBieber",
-      "onboard_time": 1739442201,
-      "rank": 48,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 197494,
       "num": 197494,
       "word": "逐玉",
       "onboard_time": 1739110761,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197487,
+      "num": 181599,
+      "word": "檀健次这是闯进狼窝了吧",
+      "onboard_time": 1739445448,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 197452,
@@ -8137,6 +8185,14 @@
       "onboard_time": 1739170160,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195102,
+      "num": 345896,
+      "word": "官方回应企业通知员工不结婚就解聘",
+      "onboard_time": 1739445086,
+      "rank": 18,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 195091,
@@ -8356,7 +8412,7 @@
     },
     {
       "raw_hot": 191836,
-      "num": 180281,
+      "num": 200972,
       "word": "原来这就是生理性喜欢",
       "onboard_time": 1739444000,
       "rank": 29,
@@ -8593,14 +8649,6 @@
       "onboard_time": 1739428880,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 188813,
-      "num": 395888,
-      "word": "教授称985毕业送外卖也很正常",
-      "onboard_time": 1739444782,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 188520,
@@ -9411,6 +9459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174182,
+      "num": 217448,
+      "word": "好友称洛杉矶遇害女生的男友是凶手",
+      "onboard_time": 1739441422,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 174062,
       "num": 174062,
       "word": "韩国短道速滑 扒拉",
@@ -9601,6 +9657,14 @@
       "onboard_time": 1739003604,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 171058,
+      "num": 171058,
+      "word": "Zeus单杀Faker",
+      "onboard_time": 1739445327,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 171017,
@@ -9971,6 +10035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 164528,
+      "num": 354768,
+      "word": "分手咨询7年后情侣复合",
+      "onboard_time": 1739445448,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164519,
       "num": 460819,
       "word": "男孩被拐养家不让上学自己挣钱读书",
@@ -10249,14 +10321,6 @@
       "onboard_time": 1739281943,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 161073,
-      "num": 217448,
-      "word": "好友称洛杉矶遇害女生的男友是凶手",
-      "onboard_time": 1739441422,
-      "rank": 28,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 160975,
@@ -10667,6 +10731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153333,
+      "num": 153333,
+      "word": "中国乒乓球队回应WTT",
+      "onboard_time": 1739443041,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153332,
       "num": 153332,
       "word": "杨洋包场方逸伦的新剧",
@@ -10697,14 +10769,6 @@
       "onboard_time": 1739188403,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 152711,
-      "num": 152711,
-      "word": "大学生为救人戒奶茶3个月",
-      "onboard_time": 1739444901,
-      "rank": 33,
-      "category": "正能量"
     },
     {
       "raw_hot": 152707,
@@ -11251,6 +11315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144381,
+      "num": 144381,
+      "word": "舜天化工回应单身员工不结婚就解雇",
+      "onboard_time": 1739442442,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144177,
       "num": 144177,
       "word": "就冲当初这张图等了漫城一年",
@@ -11313,6 +11385,14 @@
       "onboard_time": 1739172921,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142812,
+      "num": 142812,
+      "word": "人民空军正积极与古巴老爷爷联系",
+      "onboard_time": 1739441961,
+      "rank": 41,
+      "category": "正能量"
     },
     {
       "raw_hot": 142565,
@@ -11385,14 +11465,6 @@
       "onboard_time": 1739067560,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 141977,
-      "num": 141977,
-      "word": "中国乒乓球队回应WTT",
-      "onboard_time": 1739443041,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 141934,
@@ -11667,28 +11739,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 136194,
-      "num": 136194,
-      "word": "人民空军正积极与古巴老爷爷联系",
-      "onboard_time": 1739441961,
-      "rank": 41,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 136178,
       "num": 136178,
       "word": "前冬奥冠军说韩国短道素质太次了",
       "onboard_time": 1739091260,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 136152,
-      "num": 136152,
-      "word": "舜天化工回应单身员工不结婚就解雇",
-      "onboard_time": 1739442442,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 135883,
@@ -11803,20 +11859,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134102,
+      "num": 134102,
+      "word": "怎敌她千娇百媚",
+      "onboard_time": 1739446406,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134049,
       "num": 263631,
       "word": "王楚钦第二本主流女刊",
       "onboard_time": 1739253921,
       "rank": 24,
       "category": "体育,时尚"
-    },
-    {
-      "raw_hot": 134015,
-      "num": 134015,
-      "word": "Zeus单杀Faker",
-      "onboard_time": 1739445327,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 133881,
@@ -11969,6 +12025,14 @@
       "onboard_time": 1739323698,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 130664,
+      "num": 130664,
+      "word": "我cp现场还原cp名",
+      "onboard_time": 1739445986,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 130646,
@@ -12307,6 +12371,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 123117,
+      "num": 123117,
+      "word": "天秤座最舒适的社交关系",
+      "onboard_time": 1739444841,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 122724,
       "num": 122724,
       "word": "四川筠连山体滑坡救援现场",
@@ -12481,6 +12553,14 @@
       "onboard_time": 1739065340,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119461,
+      "num": 119461,
+      "word": "驻站",
+      "onboard_time": 1739446465,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 119444,
@@ -12664,14 +12744,6 @@
       "word": "兰州一政务大厅窗口职员上班睡觉",
       "onboard_time": 1739065999,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115695,
-      "num": 115695,
-      "word": "分手咨询7年后情侣复合",
-      "onboard_time": 1739445448,
-      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -13073,14 +13145,6 @@
       "onboard_time": 1739340021,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 105782,
-      "num": 263235,
-      "word": "官方回应企业通知员工不结婚就解聘",
-      "onboard_time": 1739445086,
-      "rank": 18,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 105717,
@@ -14051,6 +14115,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 72306,
+      "num": 346483,
+      "word": "演员请就位3定档",
+      "onboard_time": 1739446166,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 71753,
       "num": 237142,
       "word": "国乒WTT重庆冠军赛报名名单",
@@ -14435,6 +14507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60856,
+      "num": 678822,
+      "word": "我国最大超深原油生产区加快建设",
+      "onboard_time": 1739440642,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60535,
       "num": 60535,
       "word": "林孝埈能为胜利拼搏到凌晨5点",
@@ -14488,14 +14568,6 @@
       "word": "网友曝一萌宠园过年无人管有动物死亡",
       "onboard_time": 1739340800,
       "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 59658,
-      "num": 678822,
-      "word": "我国最大超深原油生产区加快建设",
-      "onboard_time": 1739440642,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -15467,6 +15539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36882,
+      "num": 345532,
+      "word": "野猪进村扑倒村民致2人受伤送医",
+      "onboard_time": 1739444901,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36689,
       "num": 221279,
       "word": "朱易心态进步了",
@@ -16129,14 +16209,6 @@
       "onboard_time": 1739243061,
       "rank": 19,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 23541,
-      "num": 257920,
-      "word": "野猪进村扑倒村民致2人受伤送医",
-      "onboard_time": 1739444901,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23459,
