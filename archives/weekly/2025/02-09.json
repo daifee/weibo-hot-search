@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739453306241,
+  "endTime": 1739453979723,
   "band_list": [
     {
       "raw_hot": 18452349,
@@ -371,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1949493,
+      "num": 1878904,
+      "word": "甄嬛传余莺儿扮演者被行拘",
+      "onboard_time": 1739449822,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1948685,
       "num": 685489,
       "word": "苗苗生育状况写多子女",
@@ -417,14 +425,6 @@
       "onboard_time": 1739109801,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1878904,
-      "num": 1878904,
-      "word": "甄嬛传余莺儿扮演者被行拘",
-      "onboard_time": 1739449822,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 1862522,
@@ -828,7 +828,7 @@
     },
     {
       "raw_hot": 1304259,
-      "num": 326172,
+      "num": 337740,
       "word": "国漫齐贺哪吒破百亿",
       "onboard_time": 1739448563,
       "rank": 15,
@@ -1281,6 +1281,14 @@
       "onboard_time": 1739286321,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1008970,
+      "num": 252536,
+      "word": "张碧晨让饺子导演别有压力",
+      "onboard_time": 1739453363,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 1008651,
@@ -3499,20 +3507,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 464899,
+      "num": 464899,
+      "word": "山东一企业通知员工不结婚就离职",
+      "onboard_time": 1739446586,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 463231,
       "num": 174169,
       "word": "特朗普普京通电话",
       "onboard_time": 1739402476,
       "rank": 15,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 462097,
-      "num": 462097,
-      "word": "山东一企业通知员工不结婚就离职",
-      "onboard_time": 1739446586,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 461331,
@@ -3995,6 +4003,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 395142,
+      "num": 305588,
+      "word": "女演员崔某某自曝内容不实",
+      "onboard_time": 1739450721,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 395072,
       "num": 308224,
       "word": "种地吧",
@@ -4337,6 +4353,14 @@
       "onboard_time": 1739060117,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 360625,
+      "num": 360625,
+      "word": "两千万粉丝小网红母亲回应摆拍质疑",
+      "onboard_time": 1739451442,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 357395,
@@ -5819,6 +5843,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 260376,
+      "num": 295621,
+      "word": "哪吒破百亿荣耀送10亿",
+      "onboard_time": 1739452043,
+      "rank": 11,
+      "category": "电影,数码"
+    },
+    {
       "raw_hot": 259686,
       "num": 230168,
       "word": "菲警方找到绑架案中国母子遗骸",
@@ -5993,14 +6025,6 @@
       "onboard_time": 1739342120,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 251201,
-      "num": 295621,
-      "word": "哪吒破百亿荣耀送10亿",
-      "onboard_time": 1739452043,
-      "rank": 11,
-      "category": "电影,数码"
     },
     {
       "raw_hot": 250691,
@@ -6761,14 +6785,6 @@
       "onboard_time": 1739445448,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 224276,
-      "num": 305588,
-      "word": "女演员崔某某自曝内容不实",
-      "onboard_time": 1739450721,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 224221,
@@ -7723,6 +7739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 204224,
+      "num": 203608,
+      "word": "AI曹政奭直播掉马",
+      "onboard_time": 1739452043,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204166,
       "num": 204166,
       "word": "梁洁白色橄榄树亲情线好催泪",
@@ -7769,6 +7793,14 @@
       "onboard_time": 1739431639,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203397,
+      "num": 203397,
+      "word": "郑业成cos哪吒",
+      "onboard_time": 1739452943,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 203365,
@@ -8643,14 +8675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 191428,
-      "num": 191428,
-      "word": "两千万粉丝小网红母亲回应摆拍质疑",
-      "onboard_time": 1739451442,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 191373,
       "num": 191373,
       "word": "衡门有狐",
@@ -9233,6 +9257,14 @@
       "onboard_time": 1739254220,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182926,
+      "num": 212191,
+      "word": "WE对战eStar",
+      "onboard_time": 1739452943,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 182850,
@@ -10443,6 +10475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 162265,
+      "num": 162265,
+      "word": "王祖蓝李亚男结婚十周年纪念照",
+      "onboard_time": 1739452043,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162066,
       "num": 162066,
       "word": "前经纪公司否认曝光沈小婷身份证",
@@ -10803,6 +10843,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 157062,
+      "num": 157062,
+      "word": "陈哲远演出了书里没有的小表情",
+      "onboard_time": 1739453662,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157040,
       "num": 157040,
       "word": "中国队夺金速度拉满",
@@ -11057,14 +11105,6 @@
       "onboard_time": 1739411780,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 151970,
-      "num": 151970,
-      "word": "WE对战eStar",
-      "onboard_time": 1739452943,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 151936,
@@ -11555,14 +11595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 144847,
-      "num": 144847,
-      "word": "郑业成cos哪吒",
-      "onboard_time": 1739452943,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 144675,
       "num": 175233,
       "word": "台媒谈李现",
@@ -11576,14 +11608,6 @@
       "word": "IVE悼念去世粉丝",
       "onboard_time": 1739330540,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 144255,
-      "num": 144255,
-      "word": "王祖蓝李亚男结婚十周年纪念照",
-      "onboard_time": 1739452043,
-      "rank": 44,
       "category": "艺人"
     },
     {
@@ -12747,6 +12771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121402,
+      "num": 164364,
+      "word": "要来青岛看一场浪漫海鸥日出",
+      "onboard_time": 1739453722,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 121212,
       "num": 136352,
       "word": "林孝埈自己把自己说笑了",
@@ -12985,6 +13017,14 @@
       "onboard_time": 1739081300,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 116412,
+      "num": 203559,
+      "word": "极氪请全体员工看哪吒",
+      "onboard_time": 1739452582,
+      "rank": 34,
+      "category": "电影,汽车"
     },
     {
       "raw_hot": 116249,
@@ -13257,6 +13297,14 @@
       "onboard_time": 1739427859,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 111332,
+      "num": 268253,
+      "word": "校友愤怒回应洛杉矶中国留学生被杀",
+      "onboard_time": 1739452223,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111285,
@@ -13723,14 +13771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 97669,
-      "num": 197436,
-      "word": "极氪请全体员工看哪吒",
-      "onboard_time": 1739452582,
-      "rank": 34,
-      "category": "电影,汽车"
-    },
-    {
       "raw_hot": 97086,
       "num": 97086,
       "word": "哪吒2票房超75亿",
@@ -14027,6 +14067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 86429,
+      "num": 211101,
+      "word": "女子客厅装摄像头被合租室友告了",
+      "onboard_time": 1739451983,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85161,
       "num": 85161,
       "word": "宠物蛇价格最低几十元",
@@ -14123,14 +14171,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 81573,
-      "num": 268253,
-      "word": "校友愤怒回应洛杉矶中国留学生被杀",
-      "onboard_time": 1739452223,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 81420,
       "num": 281455,
       "word": "花滑",
@@ -14169,14 +14209,6 @@
       "onboard_time": 1739319979,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 79922,
-      "num": 211101,
-      "word": "女子客厅装摄像头被合租室友告了",
-      "onboard_time": 1739451983,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 79634,
@@ -14761,6 +14793,14 @@
       "onboard_time": 1739175141,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 62609,
+      "num": 240435,
+      "word": "中国女子冰壶一天双杀日本",
+      "onboard_time": 1739453002,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 62492,
@@ -15747,6 +15787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40329,
+      "num": 203768,
+      "word": "23岁研究生元宵节捐髓救人",
+      "onboard_time": 1739453784,
+      "rank": 28,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 40312,
       "num": 53384,
       "word": "直播间买神药吃9个月结节更大了",
@@ -16505,6 +16553,14 @@
       "onboard_time": 1739256021,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 24982,
+      "num": 210754,
+      "word": "中国男子冰壶无缘决赛",
+      "onboard_time": 1739453062,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 24749,
@@ -17379,14 +17435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 8438,
-      "num": 210754,
-      "word": "中国男子冰壶无缘决赛",
-      "onboard_time": 1739453062,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 8261,
       "num": 120915,
       "word": "中国队选手包揽前四名",
@@ -17417,14 +17465,6 @@
       "onboard_time": 1739056755,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 7821,
-      "num": 240435,
-      "word": "中国女子冰壶一天双杀日本",
-      "onboard_time": 1739453002,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 7641,
