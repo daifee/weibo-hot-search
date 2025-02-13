@@ -1,6 +1,6 @@
 {
   "startTime": 1739464152455,
-  "endTime": 1739475351125,
+  "endTime": 1739478268007,
   "band_list": [
     {
       "raw_hot": 1651076,
@@ -547,7 +547,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 15550,
+      "raw_hot": 17246,
       "num": 24689,
       "word": "董思成早期说韩语",
       "onboard_time": 1739474651,
@@ -569,6 +569,14 @@
       "onboard_time": 1739473751,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 11636,
+      "num": 16184,
+      "word": "美英未签人工智能行动峰会声明",
+      "onboard_time": 1739477471,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 9792,
