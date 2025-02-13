@@ -1,6 +1,6 @@
 {
   "startTime": 1739464152455,
-  "endTime": 1739471470848,
+  "endTime": 1739472251798,
   "band_list": [
     {
       "raw_hot": 1651076,
@@ -323,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87075,
+      "num": 87075,
+      "word": "65万元春晚机器人一机难求",
+      "onboard_time": 1739470033,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84367,
       "num": 126820,
       "word": "即墨公布江某莲涉嫌骗捐等调查结果",
@@ -419,12 +427,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 57285,
-      "num": 57285,
-      "word": "65万元春晚机器人一机难求",
-      "onboard_time": 1739470033,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 53722,
+      "num": 53722,
+      "word": "哪吒王者荣耀联动",
+      "onboard_time": 1739471892,
+      "rank": 20,
+      "category": "游戏,电影"
     },
     {
       "raw_hot": 40403,
@@ -475,20 +483,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33225,
+      "num": 33225,
+      "word": "王楚钦说会更多注重重要赛事",
+      "onboard_time": 1739469313,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 31766,
       "num": 127147,
       "word": "WE战胜eStar",
       "onboard_time": 1739455762,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 28759,
-      "num": 31812,
-      "word": "王楚钦说会更多注重重要赛事",
-      "onboard_time": 1739469313,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 28452,
@@ -544,6 +552,14 @@
       "word": "哪吒2敖光首现人形BGM如何创作",
       "onboard_time": 1739469733,
       "rank": 31,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 7103,
+      "num": 31732,
+      "word": "3岁娃完成了100亿的大项目",
+      "onboard_time": 1739471833,
+      "rank": 32,
       "category": "电影"
     }
   ],
