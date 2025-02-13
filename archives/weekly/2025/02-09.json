@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739428263856,
+  "endTime": 1739429029879,
   "band_list": [
     {
       "raw_hot": 10705430,
@@ -995,6 +995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1080480,
+      "num": 247046,
+      "word": "古庙回应禁止来例假女性入殿参拜",
+      "onboard_time": 1739427021,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1080086,
       "num": 1031683,
       "word": "合作导演称饺子不可能穿奢品",
@@ -1443,6 +1451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 840606,
+      "num": 573793,
+      "word": "哪吒2超98亿",
+      "onboard_time": 1739428219,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 834406,
       "num": 830191,
       "word": "于正新签两个短剧演员",
@@ -1611,12 +1627,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 788017,
-      "num": 247046,
-      "word": "古庙回应禁止来例假女性入殿参拜",
-      "onboard_time": 1739427021,
-      "rank": 20,
-      "category": "民生新闻"
+      "raw_hot": 782763,
+      "num": 782763,
+      "word": "台湾一大楼美食街突发爆炸",
+      "onboard_time": 1739425040,
+      "rank": 49,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 780838,
@@ -1657,14 +1673,6 @@
       "onboard_time": 1739082020,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 768069,
-      "num": 768069,
-      "word": "台湾一大楼美食街突发爆炸",
-      "onboard_time": 1739425040,
-      "rank": 49,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 763237,
@@ -1819,6 +1827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 717499,
+      "num": 422060,
+      "word": "网红饭店厕所标识是男性爬墙偷窥",
+      "onboard_time": 1739422883,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 714805,
       "num": 345596,
       "word": "国台办希望哪吒2尽快上映",
@@ -1913,14 +1929,6 @@
       "onboard_time": 1739283621,
       "rank": 44,
       "category": "网红"
-    },
-    {
-      "raw_hot": 686155,
-      "num": 422060,
-      "word": "网红饭店厕所标识是男性爬墙偷窥",
-      "onboard_time": 1739422883,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 682475,
@@ -3123,6 +3131,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 476262,
+      "num": 476262,
+      "word": "三岁 恋爱",
+      "onboard_time": 1739427859,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 474100,
       "num": 474100,
       "word": "by2差点回不了家",
@@ -3833,14 +3849,6 @@
       "onboard_time": 1739355682,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 374707,
-      "num": 374707,
-      "word": "哪吒2超98亿",
-      "onboard_time": 1739428219,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 373091,
@@ -5019,6 +5027,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 279771,
+      "num": 264506,
+      "word": "昨天定情镯今天阴阳隔",
+      "onboard_time": 1739428283,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 279090,
       "num": 279090,
       "word": "樊振东中式领封面",
@@ -5108,7 +5124,7 @@
     },
     {
       "raw_hot": 276842,
-      "num": 246709,
+      "num": 270671,
       "word": "张馨予防风贴撕下来顺便去了一层脸毛",
       "onboard_time": 1739426241,
       "rank": 23,
@@ -6513,6 +6529,14 @@
       "onboard_time": 1739320759,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217075,
+      "num": 249006,
+      "word": "仙台有树微博追剧团",
+      "onboard_time": 1739427740,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 216852,
@@ -7987,6 +8011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190054,
+      "num": 190054,
+      "word": "Ming亲Uzi",
+      "onboard_time": 1739428100,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 189975,
       "num": 189975,
       "word": "李冰冰 这姑娘帅爆啦",
@@ -8113,14 +8145,6 @@
       "onboard_time": 1739205078,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 187926,
-      "num": 249006,
-      "word": "仙台有树微博追剧团",
-      "onboard_time": 1739427740,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 187805,
@@ -9107,6 +9131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 170221,
+      "num": 243056,
+      "word": "于正给赵晴千娇百媚打call",
+      "onboard_time": 1739427500,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170010,
       "num": 388954,
       "word": "特朗普希望乌提供5000亿美元稀土换援助",
@@ -9499,6 +9531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 163628,
+      "num": 163628,
+      "word": "台中一百货大楼发生爆炸致6死",
+      "onboard_time": 1739428940,
+      "rank": 38,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 163581,
       "num": 163581,
       "word": "崩坏星穹铁道",
@@ -9553,6 +9593,14 @@
       "onboard_time": 1739204718,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 162757,
+      "num": 162757,
+      "word": "庆奶要演少女就让她演吧",
+      "onboard_time": 1739428640,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 162545,
@@ -9673,6 +9721,14 @@
       "onboard_time": 1739278461,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160068,
+      "num": 160068,
+      "word": "蔡岳勋于小惠离婚",
+      "onboard_time": 1739427921,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 160040,
@@ -10483,11 +10539,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145498,
-      "num": 243056,
-      "word": "于正给赵晴千娇百媚打call",
-      "onboard_time": 1739427500,
-      "rank": 29,
+      "raw_hot": 145320,
+      "num": 145320,
+      "word": "边哭边痛边吻这段太好品了",
+      "onboard_time": 1739427921,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -10539,6 +10595,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 144919,
+      "num": 144919,
+      "word": "檀健次放学后在健身房写作业吗",
+      "onboard_time": 1739425580,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144675,
       "num": 175233,
       "word": "台媒谈李现",
@@ -10576,14 +10640,6 @@
       "word": "是的她怀了闺蜜的孩子",
       "onboard_time": 1739019142,
       "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 143428,
-      "num": 143428,
-      "word": "檀健次放学后在健身房写作业吗",
-      "onboard_time": 1739425580,
-      "rank": 38,
       "category": "剧集"
     },
     {
@@ -10665,6 +10721,14 @@
       "onboard_time": 1739077519,
       "rank": 47,
       "category": "电影,互联网"
+    },
+    {
+      "raw_hot": 142063,
+      "num": 142063,
+      "word": "胡定欣首晒与男友合照",
+      "onboard_time": 1739428701,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 142051,
@@ -10833,14 +10897,6 @@
       "onboard_time": 1739171120,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 138400,
-      "num": 138400,
-      "word": "蔡岳勋于小惠离婚",
-      "onboard_time": 1739427921,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 138136,
@@ -11033,14 +11089,6 @@
       "onboard_time": 1739345899,
       "rank": 25,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 134659,
-      "num": 134659,
-      "word": "边哭边痛边吻这段太好品了",
-      "onboard_time": 1739427921,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 134566,
@@ -11259,6 +11307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130151,
+      "num": 130151,
+      "word": "情人节都来吃绘旅人新谷",
+      "onboard_time": 1739428580,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 130090,
       "num": 130090,
       "word": "晋江崩了",
@@ -11361,22 +11417,6 @@
       "onboard_time": 1739261240,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127903,
-      "num": 127903,
-      "word": "Ming亲Uzi",
-      "onboard_time": 1739428100,
-      "rank": 44,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 127831,
-      "num": 127831,
-      "word": "三岁 恋爱",
-      "onboard_time": 1739427859,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 127794,
@@ -11587,6 +11627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 122101,
+      "num": 122101,
+      "word": "齐思钧人尴尬的时候会有很多动作",
+      "onboard_time": 1739428040,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121952,
       "num": 191467,
       "word": "貂蝉猫影幻舞星传说",
@@ -11771,16 +11819,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117875,
-      "num": 117875,
-      "word": "齐思钧人尴尬的时候会有很多动作",
-      "onboard_time": 1739428040,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 117869,
-      "num": 117869,
+      "num": 208632,
       "word": "湖人靠布朗尼追分",
       "onboard_time": 1739426481,
       "rank": 48,
@@ -12803,6 +12843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84107,
+      "num": 329260,
+      "word": "大巴司机成植物人却无法认定工伤",
+      "onboard_time": 1739427021,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83982,
       "num": 274476,
       "word": "无人机视角下的王一博攀冰",
@@ -13707,6 +13755,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57071,
+      "num": 247064,
+      "word": "大学生返校前有种深深的无力感",
+      "onboard_time": 1739427859,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 56994,
+      "num": 144932,
+      "word": "邓为大方",
+      "onboard_time": 1739428880,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 56854,
       "num": 1483098,
       "word": "中国队已集齐3个金牌九宫格",
@@ -14099,6 +14163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47115,
+      "num": 408990,
+      "word": "中国留学生在美遇害公寓有男子翻窗",
+      "onboard_time": 1739427080,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 46985,
       "num": 46985,
       "word": "杨羡五娘 好嗑",
@@ -14121,6 +14193,14 @@
       "onboard_time": 1739244561,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 46355,
+      "num": 246959,
+      "word": "李现伯纳乌观战皇马",
+      "onboard_time": 1739427921,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 46306,
@@ -14192,14 +14272,6 @@
       "word": "老人被骗购买166张千元面值购物卡",
       "onboard_time": 1739196621,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44219,
-      "num": 329260,
-      "word": "大巴司机成植物人却无法认定工伤",
-      "onboard_time": 1739427021,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -14281,14 +14353,6 @@
       "onboard_time": 1739158762,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 42825,
-      "num": 246959,
-      "word": "李现伯纳乌观战皇马",
-      "onboard_time": 1739427921,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 42529,
@@ -15291,14 +15355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21407,
-      "num": 247064,
-      "word": "大学生返校前有种深深的无力感",
-      "onboard_time": 1739427859,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 21271,
       "num": 21271,
       "word": "刘宇宁央视元宵晚会彩排",
@@ -15545,6 +15601,14 @@
       "onboard_time": 1739125513,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15328,
+      "num": 210908,
+      "word": "朱易说冬奥会后自己经历了很多",
+      "onboard_time": 1739428461,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 15274,
@@ -16038,6 +16102,9 @@
     },
     {
       "word": "#飞天揽月是中华民族延续千年的梦想#"
+    },
+    {
+      "word": "#花灯长廊情深意长#"
     }
   ]
 }
