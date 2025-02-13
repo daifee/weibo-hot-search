@@ -1,6 +1,6 @@
 {
   "startTime": 1739377766335,
-  "endTime": 1739411940955,
+  "endTime": 1739415146315,
   "band_list": [
     {
       "raw_hot": 1780872,
@@ -25,6 +25,22 @@
       "onboard_time": 1739406801,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1137695,
+      "num": 1182031,
+      "word": "哪吒2已超97亿",
+      "onboard_time": 1739413640,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1093484,
+      "num": 1093484,
+      "word": "饺子导演画着呢画着呢",
+      "onboard_time": 1739410520,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 1041254,
@@ -123,6 +139,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 406750,
+      "num": 406750,
+      "word": "中国留学生洛杉矶遇害",
+      "onboard_time": 1739413880,
+      "rank": 5,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 393647,
+      "num": 180711,
+      "word": "原来中医不让多吃水果是真的",
+      "onboard_time": 1739412080,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 391243,
       "num": 391243,
       "word": "虞书欣何与双轨拥吻路透",
@@ -179,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 309005,
+      "num": 309005,
+      "word": "网红臭蛋称被拼接不雅视频",
+      "onboard_time": 1739413521,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 293556,
       "num": 293556,
       "word": "王者荣耀",
@@ -219,6 +259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 283559,
+      "num": 208547,
+      "word": "哪吒",
+      "onboard_time": 1739403858,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 281887,
       "num": 281887,
       "word": "外交部回应哪吒2登陆北美",
@@ -240,6 +288,14 @@
       "word": "香港一医生疑因大肠杆菌感染重症去世",
       "onboard_time": 1739408480,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 257185,
+      "num": 257185,
+      "word": "1折火车票来了",
+      "onboard_time": 1739413880,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -265,22 +321,6 @@
       "onboard_time": 1739367083,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 215686,
-      "num": 206653,
-      "word": "饺子导演画着呢画着呢",
-      "onboard_time": 1739410520,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 208547,
-      "num": 208547,
-      "word": "哪吒",
-      "onboard_time": 1739403858,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 208157,
@@ -312,6 +352,14 @@
       "word": "票房",
       "onboard_time": 1739374341,
       "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 199023,
+      "num": 178958,
+      "word": "人民日报专访哪吒2主创",
+      "onboard_time": 1739408901,
+      "rank": 28,
       "category": "电影"
     },
     {
@@ -347,11 +395,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 185385,
+      "num": 177913,
+      "word": "祝绪丹白得好像开了滤镜",
+      "onboard_time": 1739408121,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183503,
       "num": 183503,
       "word": "17岁男孩遭人勒索还被脚踹围殴",
       "onboard_time": 1739411358,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180968,
+      "num": 180968,
+      "word": "宗馥莉正式接管娃哈哈食品公司",
+      "onboard_time": 1739411659,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -361,6 +425,30 @@
       "onboard_time": 1739380694,
       "rank": 34,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 177863,
+      "num": 177863,
+      "word": "乐山大佛上天了",
+      "onboard_time": 1739413159,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173798,
+      "num": 173798,
+      "word": "女子找男模3个月花450万公款被刑拘",
+      "onboard_time": 1739407581,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173672,
+      "num": 173672,
+      "word": "柳智敏权志龙将合作",
+      "onboard_time": 1739412019,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 170284,
@@ -379,12 +467,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 169532,
-      "num": 169532,
-      "word": "祝绪丹白得好像开了滤镜",
-      "onboard_time": 1739408121,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 167879,
+      "num": 184043,
+      "word": "哪吒2里70%以上戏份饺子演过一遍",
+      "onboard_time": 1739412499,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 164334,
@@ -451,14 +539,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 158720,
-      "num": 169589,
-      "word": "人民日报专访哪吒2主创",
-      "onboard_time": 1739408901,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 157990,
       "num": 157990,
       "word": "给哪吒rap配音全身都得动",
@@ -507,6 +587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 137304,
+      "num": 137304,
+      "word": "今麦郎",
+      "onboard_time": 1739411299,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136534,
       "num": 136534,
       "word": "肖战晒柿子汤圆",
@@ -515,20 +603,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135835,
+      "num": 135835,
+      "word": "小熊猫进酒店房间互动咬伤游客",
+      "onboard_time": 1739414721,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135671,
       "num": 135671,
       "word": "元宵晚会魔术",
       "onboard_time": 1739376740,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 131550,
-      "num": 131550,
-      "word": "今麦郎",
-      "onboard_time": 1739411299,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 130963,
@@ -643,12 +731,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 109560,
+      "raw_hot": 110308,
       "num": 198803,
       "word": "圆字能带出多少祝福",
       "onboard_time": 1739405840,
       "rank": 33,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 108279,
+      "num": 108279,
+      "word": "OpenAI真的火力全开了",
+      "onboard_time": 1739411299,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 107611,
+      "num": 107611,
+      "word": "情人节不要内卷式送礼了",
+      "onboard_time": 1739412379,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107380,
@@ -665,6 +769,14 @@
       "onboard_time": 1739353281,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 105494,
+      "num": 105494,
+      "word": "登山式睡姿毁腰毁髋",
+      "onboard_time": 1739412080,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 103810,
@@ -715,11 +827,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 91650,
-      "num": 91650,
-      "word": "OpenAI真的火力全开了",
-      "onboard_time": 1739411299,
-      "rank": 44,
+      "raw_hot": 94269,
+      "num": 94269,
+      "word": "特朗普称美已向乌提供3500亿美元",
+      "onboard_time": 1739414479,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 87991,
+      "num": 87991,
+      "word": "GPT5模型即将发布",
+      "onboard_time": 1739415019,
+      "rank": 47,
       "category": "互联网"
     },
     {
@@ -737,6 +857,22 @@
       "onboard_time": 1739367142,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86481,
+      "num": 86481,
+      "word": "花花的眼神都是戏",
+      "onboard_time": 1739413760,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 85161,
+      "num": 85161,
+      "word": "宠物蛇价格最低几十元",
+      "onboard_time": 1739415079,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84573,
@@ -771,14 +907,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 74280,
-      "num": 82115,
-      "word": "宗馥莉正式接管娃哈哈食品公司",
-      "onboard_time": 1739411659,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 69410,
       "num": 145075,
       "word": "原神",
@@ -796,7 +924,7 @@
     },
     {
       "raw_hot": 62903,
-      "num": 1034508,
+      "num": 1077187,
       "word": "一大批重大外资项目加快推进",
       "onboard_time": 1739367322,
       "rank": 2,
