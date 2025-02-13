@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739446566952,
+  "endTime": 1739450586127,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -412,7 +412,7 @@
     },
     {
       "raw_hot": 2831846,
-      "num": 474510,
+      "num": 574193,
       "word": "演员高亮去世",
       "onboard_time": 1739439980,
       "rank": 10,
@@ -1091,6 +1091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1825281,
+      "num": 825226,
+      "word": "哪吒2百亿票根",
+      "onboard_time": 1739447664,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1812555,
       "num": 1812555,
       "word": "演员请就位 发疯",
@@ -1225,6 +1233,14 @@
       "onboard_time": 1739252840,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1726780,
+      "num": 591244,
+      "word": "饺子",
+      "onboard_time": 1738483578,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 1726433,
@@ -3059,6 +3075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 971497,
+      "num": 401166,
+      "word": "全球影史票房榜",
+      "onboard_time": 1739150239,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 969677,
       "num": 969677,
       "word": "女生来云南散心前后判若两人",
@@ -3729,6 +3753,14 @@
       "onboard_time": 1738820547,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 837076,
+      "num": 837076,
+      "word": "官方通报江秋莲被举报诈捐",
+      "onboard_time": 1739449643,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 835552,
@@ -4955,6 +4987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 670870,
+      "num": 307824,
+      "word": "国漫齐贺哪吒破百亿",
+      "onboard_time": 1739448563,
+      "rank": 15,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 669875,
       "num": 669875,
       "word": "王濛说林孝埈是我给整回来的",
@@ -5401,6 +5441,14 @@
       "onboard_time": 1739332100,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 635436,
+      "num": 635436,
+      "word": "教授称985毕业送外卖也很正常",
+      "onboard_time": 1739444782,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 634615,
@@ -5881,6 +5929,14 @@
       "onboard_time": 1739075960,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 585384,
+      "num": 358306,
+      "word": "甄嬛传余莺儿扮演者被行拘",
+      "onboard_time": 1739449822,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 585128,
@@ -6393,6 +6449,14 @@
       "onboard_time": 1738994364,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 548540,
+      "num": 267679,
+      "word": "张凌赫白鹿新戏对打",
+      "onboard_time": 1739446526,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 548342,
@@ -7121,14 +7185,6 @@
       "onboard_time": 1739244980,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 506581,
-      "num": 506581,
-      "word": "教授称985毕业送外卖也很正常",
-      "onboard_time": 1739444782,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 506568,
@@ -8305,6 +8361,14 @@
       "onboard_time": 1738909163,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 446173,
+      "num": 446173,
+      "word": "26岁女子曝面试时遭七旬男子猥亵",
+      "onboard_time": 1739447366,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 445582,
@@ -10763,6 +10827,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 332864,
+      "num": 266193,
+      "word": "孙怡cha了九张机",
+      "onboard_time": 1739448384,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 332778,
       "num": 332778,
       "word": "背刺何惟芳的店员成了杨紫的粉丝",
@@ -12275,6 +12347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 292712,
+      "num": 292712,
+      "word": "大学生为救人戒奶茶3个月",
+      "onboard_time": 1739444901,
+      "rank": 33,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 292151,
       "num": 292151,
       "word": "樊振东获得世界杯参赛资格",
@@ -13187,6 +13267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269479,
+      "num": 269479,
+      "word": "山东一企业通知员工不结婚就离职",
+      "onboard_time": 1739446586,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 269455,
       "num": 260549,
       "word": "敖闰姑姑真的好漂亮",
@@ -13225,14 +13313,6 @@
       "onboard_time": 1738747226,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 267679,
-      "num": 267679,
-      "word": "张凌赫白鹿新戏对打",
-      "onboard_time": 1739446526,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 267573,
@@ -15195,6 +15275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 231094,
+      "num": 231094,
+      "word": "章子怡说演员3不是流量的出口",
+      "onboard_time": 1739448862,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231083,
       "num": 231083,
       "word": "回南天到底是啥天",
@@ -15819,6 +15907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224959,
+      "num": 354768,
+      "word": "分手咨询7年后情侣复合",
+      "onboard_time": 1739445448,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 224813,
       "num": 114794,
       "word": "颜安帮助理姐征婚",
@@ -15849,6 +15945,14 @@
       "onboard_time": 1738461557,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 224221,
+      "num": 339998,
+      "word": "妈妈为追梦辞职后又离婚6年无音讯",
+      "onboard_time": 1739449043,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 224139,
@@ -16211,14 +16315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 220107,
-      "num": 220107,
-      "word": "大学生为救人戒奶茶3个月",
-      "onboard_time": 1739444901,
-      "rank": 33,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 220020,
       "num": 341395,
       "word": "第一天上班建议发呆5分钟",
@@ -16289,6 +16385,14 @@
       "onboard_time": 1739358561,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 219008,
+      "num": 219008,
+      "word": "中国电影里程碑",
+      "onboard_time": 1739449343,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 218905,
@@ -16473,14 +16577,6 @@
       "onboard_time": 1738718181,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 217356,
-      "num": 165572,
-      "word": "饺子",
-      "onboard_time": 1738483578,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 217321,
@@ -17681,6 +17777,14 @@
       "onboard_time": 1739273000,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 205199,
+      "num": 205199,
+      "word": "舜天化工回应单身员工不结婚就解雇",
+      "onboard_time": 1739442442,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 205091,
@@ -18969,6 +19073,14 @@
       "onboard_time": 1739343741,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196154,
+      "num": 196154,
+      "word": "天秤座最舒适的社交关系",
+      "onboard_time": 1739444841,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 196089,
@@ -21115,14 +21227,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 181868,
-      "num": 181868,
-      "word": "全球影史票房榜",
-      "onboard_time": 1739150239,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 181861,
       "num": 248160,
       "word": "陈鹤一素颜直播帅成这样",
@@ -23011,6 +23115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166605,
+      "num": 166605,
+      "word": "熊出没",
+      "onboard_time": 1738381157,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 166521,
       "num": 179285,
       "word": "孙颖莎晋级四强",
@@ -23265,14 +23377,6 @@
       "onboard_time": 1739097260,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 164528,
-      "num": 354768,
-      "word": "分手咨询7年后情侣复合",
-      "onboard_time": 1739445448,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 164519,
@@ -23624,6 +23728,14 @@
       "word": "小伙失恋半夜整理共享电瓶车",
       "onboard_time": 1739069419,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162466,
+      "num": 162466,
+      "word": "萌兰喜提乾坤圈",
+      "onboard_time": 1739447424,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -24363,6 +24475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157679,
+      "num": 157679,
+      "word": "狂野时代",
+      "onboard_time": 1739450002,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 157674,
       "num": 157674,
       "word": "1270余名运动员报名参赛亚冬会",
@@ -24425,6 +24545,14 @@
       "onboard_time": 1739107341,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157181,
+      "num": 157181,
+      "word": "Faker梅尔",
+      "onboard_time": 1739450063,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 157141,
@@ -25080,6 +25208,14 @@
       "word": "封神2否认找外包公司4500元制作殷郊法相特效",
       "onboard_time": 1739119756,
       "rank": 31,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 151884,
+      "num": 151884,
+      "word": "太乙真人语音包太上头了",
+      "onboard_time": 1739426301,
+      "rank": 37,
       "category": "电影"
     },
     {
@@ -26179,14 +26315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144381,
-      "num": 144381,
-      "word": "舜天化工回应单身员工不结婚就解雇",
-      "onboard_time": 1739442442,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 144365,
       "num": 144365,
       "word": "赫海",
@@ -26257,6 +26385,14 @@
       "onboard_time": 1738920922,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143997,
+      "num": 143997,
+      "word": "王者小蛇糕",
+      "onboard_time": 1739447303,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 143978,
@@ -26560,6 +26696,14 @@
       "word": "蛇年开工首日",
       "onboard_time": 1738685602,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142258,
+      "num": 142258,
+      "word": "留学生在美遇害前曾控诉男友暴力",
+      "onboard_time": 1739448203,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -28843,6 +28987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124845,
+      "num": 124845,
+      "word": "国乒回应WTT系列改革措施",
+      "onboard_time": 1739450421,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124842,
       "num": 124842,
       "word": "听障演员练不好节目急得骂自己",
@@ -29105,14 +29257,6 @@
       "onboard_time": 1739106441,
       "rank": 33,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 123117,
-      "num": 123117,
-      "word": "天秤座最舒适的社交关系",
-      "onboard_time": 1739444841,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 122989,
@@ -32027,14 +32171,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 98780,
-      "num": 98780,
-      "word": "熊出没",
-      "onboard_time": 1738381157,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
       "raw_hot": 98721,
       "num": 98721,
       "word": "让你越来越有福气的4件事",
@@ -34475,6 +34611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65975,
+      "num": 279932,
+      "word": "6岁小神兽为古老秧歌注入新精神",
+      "onboard_time": 1739448143,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65946,
       "num": 1466850,
       "word": "预防流感的最有效办法",
@@ -34916,7 +35060,7 @@
     },
     {
       "raw_hot": 60856,
-      "num": 678822,
+      "num": 825662,
       "word": "我国最大超深原油生产区加快建设",
       "onboard_time": 1739440642,
       "rank": 2,
@@ -35515,6 +35659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54880,
+      "num": 122450,
+      "word": "当地回应多个快递点被投诉加收3元",
+      "onboard_time": 1739448442,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54841,
       "num": 323658,
       "word": "中国小伙越野滑雪接力金牌",
@@ -35577,6 +35729,14 @@
       "onboard_time": 1738729703,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 54144,
+      "num": 266417,
+      "word": "烟台6岁萌娃舞出哪吒既视感",
+      "onboard_time": 1739448323,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54110,
@@ -35745,6 +35905,14 @@
       "onboard_time": 1739191342,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52749,
+      "num": 121299,
+      "word": "部分券商分析师陷入AI替代焦虑",
+      "onboard_time": 1739448563,
+      "rank": 47,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 52656,
@@ -36313,6 +36481,14 @@
       "onboard_time": 1739186060,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47400,
+      "num": 218188,
+      "word": "戴大卫单人滑第四",
+      "onboard_time": 1739449822,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 47209,
@@ -38009,6 +38185,14 @@
       "onboard_time": 1738988907,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 31050,
+      "num": 218302,
+      "word": "徐梦桃说充满使命感和成就感",
+      "onboard_time": 1739450002,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 30961,
@@ -40657,6 +40841,14 @@
       "onboard_time": 1739371102,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 8029,
+      "num": 120690,
+      "word": "为青岛的海鸥疯狂心动一万次",
+      "onboard_time": 1739450542,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 7875,
