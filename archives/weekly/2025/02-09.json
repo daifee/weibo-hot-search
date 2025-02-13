@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739436125569,
+  "endTime": 1739438687172,
   "band_list": [
     {
       "raw_hot": 10705430,
@@ -451,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1684153,
+      "num": 1684153,
+      "word": "贾乃亮晒狗辟谣",
+      "onboard_time": 1739435481,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1678690,
       "num": 278138,
       "word": "用DeepSeek买彩票真中奖了",
@@ -528,6 +536,14 @@
       "word": "导演称哪吒2可能不太符合北美调性",
       "onboard_time": 1739070199,
       "rank": 8,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1535897,
+      "num": 604564,
+      "word": "哪吒2突破99亿",
+      "onboard_time": 1739437641,
+      "rank": 3,
       "category": "电影"
     },
     {
@@ -835,6 +851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1193839,
+      "num": 404309,
+      "word": "一起陪哪吒冲刺百亿",
+      "onboard_time": 1739431040,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1187833,
       "num": 1187833,
       "word": "复旦欢迎中国籍留学生直博引热议",
@@ -1027,6 +1051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1078894,
+      "num": 1078894,
+      "word": "缅甸将向泰移交7000名电诈园区人员",
+      "onboard_time": 1739436081,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1076675,
       "num": 1046188,
       "word": "饺子大学同学说多亏华西宿舍不停电",
@@ -1057,6 +1089,14 @@
       "onboard_time": 1739251699,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1057067,
+      "num": 833952,
+      "word": "张家界一女教师徒步坠崖身亡",
+      "onboard_time": 1739434340,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1054116,
@@ -1195,6 +1235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 979796,
+      "num": 320796,
+      "word": "吒儿冲破100亿倒计时",
+      "onboard_time": 1739434161,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 978915,
       "num": 447625,
       "word": "Jennie时隔五年发微博",
@@ -1321,14 +1369,6 @@
       "onboard_time": 1739182221,
       "rank": 13,
       "category": "演出"
-    },
-    {
-      "raw_hot": 913074,
-      "num": 379462,
-      "word": "一起陪哪吒冲刺百亿",
-      "onboard_time": 1739431040,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 911723,
@@ -1505,14 +1545,6 @@
       "onboard_time": 1739069239,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 833952,
-      "num": 833952,
-      "word": "张家界一女教师徒步坠崖身亡",
-      "onboard_time": 1739434340,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 832296,
@@ -2611,6 +2643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 570034,
+      "num": 570034,
+      "word": "朱易自由滑105.96分",
+      "onboard_time": 1739436620,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 567872,
       "num": 513743,
       "word": "光线传媒回应哪吒2被偷票房",
@@ -3057,6 +3097,14 @@
       "onboard_time": 1739109322,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 505397,
+      "num": 289640,
+      "word": "哪吒2北美首映日多场次瞬间爆满",
+      "onboard_time": 1739436922,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 502940,
@@ -3689,6 +3737,14 @@
       "onboard_time": 1739193861,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 397774,
+      "num": 288738,
+      "word": "60只哪吒金镯2小时被抢光",
+      "onboard_time": 1739437162,
+      "rank": 15,
+      "category": "电影,财经"
     },
     {
       "raw_hot": 397121,
@@ -4475,6 +4531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 321912,
+      "num": 225322,
+      "word": "哪吒2又又又又破纪录了",
+      "onboard_time": 1739437940,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 320904,
       "num": 320904,
       "word": "熬夜戒不了就科学的深度休息",
@@ -4489,14 +4553,6 @@
       "onboard_time": 1739273360,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 320796,
-      "num": 320796,
-      "word": "吒儿冲破100亿倒计时",
-      "onboard_time": 1739434161,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 320385,
@@ -4537,6 +4593,14 @@
       "onboard_time": 1739149281,
       "rank": 19,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 318671,
+      "num": 288022,
+      "word": "Uzi我们结婚啦",
+      "onboard_time": 1739436201,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 318255,
@@ -4833,6 +4897,14 @@
       "onboard_time": 1739075180,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 299246,
+      "num": 299246,
+      "word": "台湾爆炸伤亡人数修正为4死26伤",
+      "onboard_time": 1739434100,
+      "rank": 7,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 298695,
@@ -6507,6 +6579,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 221032,
+      "num": 221032,
+      "word": "刘诗诗线下扫楼状态",
+      "onboard_time": 1739435360,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220705,
       "num": 226798,
       "word": "饺子身材依旧好",
@@ -6619,6 +6699,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 218677,
+      "num": 218677,
+      "word": "3岁女童跟妈妈看房从7楼摔下",
+      "onboard_time": 1739438242,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218579,
       "num": 218579,
       "word": "林孝埈说希望和朴知元有好的竞争",
@@ -6633,6 +6721,14 @@
       "onboard_time": 1739362700,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 218126,
+      "num": 218126,
+      "word": "黄景瑜吃饼饼受皮外伤",
+      "onboard_time": 1739437641,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 218006,
@@ -6817,6 +6913,14 @@
       "onboard_time": 1739010504,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213138,
+      "num": 224633,
+      "word": "孙颖莎王楚钦谈WTT规则改革",
+      "onboard_time": 1739437280,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 213065,
@@ -8371,14 +8475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 187731,
-      "num": 187731,
-      "word": "刘诗诗线下扫楼状态",
-      "onboard_time": 1739435360,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 187721,
       "num": 187721,
       "word": "颖儿新剧裸婚被赶出家",
@@ -8689,6 +8785,14 @@
       "onboard_time": 1739254220,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182891,
+      "num": 182891,
+      "word": "主流手机仅小米苹果未接入DeepSeek",
+      "onboard_time": 1739435841,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 182587,
@@ -10051,6 +10155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159067,
+      "num": 159067,
+      "word": "跟着赵丽颖的声音游布达拉宫",
+      "onboard_time": 1739437882,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158918,
       "num": 180813,
       "word": "四川宜宾山体滑坡原因",
@@ -10217,6 +10329,14 @@
       "onboard_time": 1739265742,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 156651,
+      "num": 156651,
+      "word": "中方要求澳大利亚停止侵权挑衅",
+      "onboard_time": 1739438361,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 156629,
@@ -10449,14 +10569,6 @@
       "onboard_time": 1739373321,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 151701,
-      "num": 151701,
-      "word": "主流手机仅小米苹果未接入DeepSeek",
-      "onboard_time": 1739435841,
-      "rank": 44,
-      "category": "数码"
     },
     {
       "raw_hot": 151690,
@@ -10923,6 +11035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143838,
+      "num": 297782,
+      "word": "缅甸向泰移交261名电诈园区被解救人员",
+      "onboard_time": 1739435661,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 143661,
       "num": 143661,
       "word": "海霞被聘任为河南大学学术副校长",
@@ -11155,6 +11275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139674,
+      "num": 139674,
+      "word": "SMTOWN接力飞吻",
+      "onboard_time": 1739437581,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139381,
       "num": 139381,
       "word": "与辉同行股东发生变更",
@@ -11291,20 +11419,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 136215,
+      "num": 136215,
+      "word": "这不是纱这是古籍修复纸",
+      "onboard_time": 1739438181,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136178,
       "num": 136178,
       "word": "前冬奥冠军说韩国短道素质太次了",
       "onboard_time": 1739091260,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 136070,
-      "num": 323513,
-      "word": "贾乃亮晒狗辟谣",
-      "onboard_time": 1739435481,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 135883,
@@ -11427,6 +11555,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 134038,
+      "num": 134038,
+      "word": "公司按黄帝内经规定如厕时间违者罚款",
+      "onboard_time": 1739438181,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133881,
       "num": 301869,
       "word": "樊振东千里红运",
@@ -11505,14 +11641,6 @@
       "onboard_time": 1739277141,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 132383,
-      "num": 132383,
-      "word": "缅甸将向泰移交7000名电诈园区人员",
-      "onboard_time": 1739436081,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 132184,
@@ -11707,6 +11835,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 128903,
+      "num": 128903,
+      "word": "北京到成都票价仅47元",
+      "onboard_time": 1739438661,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128729,
       "num": 128729,
       "word": "勇士vs独行侠",
@@ -11744,6 +11880,14 @@
       "word": "室友电瓶爆燃男生全身烧伤案将开庭",
       "onboard_time": 1739261240,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127854,
+      "num": 127854,
+      "word": "00后新人办三无婚礼",
+      "onboard_time": 1739438601,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -12939,6 +13083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96480,
+      "num": 290995,
+      "word": "朱易单人滑第五",
+      "onboard_time": 1739437882,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95848,
       "num": 95848,
       "word": "东契奇效应",
@@ -13491,6 +13643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75912,
+      "num": 222698,
+      "word": "美国空难中陨落的天才花滑少年",
+      "onboard_time": 1739437699,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 75672,
       "num": 118266,
       "word": "林孝埈打破韩国包揽9金的豪言",
@@ -13516,7 +13676,7 @@
     },
     {
       "raw_hot": 74524,
-      "num": 602214,
+      "num": 613663,
       "word": "银发列车点亮金色机遇",
       "onboard_time": 1739425283,
       "rank": 2,
@@ -14963,6 +15123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36689,
+      "num": 221279,
+      "word": "朱易心态进步了",
+      "onboard_time": 1739438060,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36601,
       "num": 1009795,
       "word": "从冬奥到亚冬冰雪热燃起来了",
@@ -15628,7 +15796,7 @@
     },
     {
       "raw_hot": 23389,
-      "num": 153351,
+      "num": 227664,
       "word": "启源Q07大作闹元宵",
       "onboard_time": 1739435661,
       "rank": 41,
