@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739467071101,
+  "endTime": 1739468176831,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -5908,7 +5908,7 @@
     },
     {
       "raw_hot": 599622,
-      "num": 300730,
+      "num": 352658,
       "word": "赵丽颖发文祝愿中国动画电影越来越好",
       "onboard_time": 1739464157,
       "rank": 8,
@@ -14348,7 +14348,7 @@
     },
     {
       "raw_hot": 250449,
-      "num": 197062,
+      "num": 214000,
       "word": "光线传媒市值暴涨至849亿元",
       "onboard_time": 1739461520,
       "rank": 30,
@@ -35515,20 +35515,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62072,
+      "num": 62072,
+      "word": "DeepSeek回答脱单的秘籍",
+      "onboard_time": 1739465357,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 62058,
       "num": 227331,
       "word": "梁靖崑玩的就是心跳",
       "onboard_time": 1738679546,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 61943,
-      "num": 61943,
-      "word": "DeepSeek回答脱单的秘籍",
-      "onboard_time": 1739465357,
-      "rank": 33,
-      "category": "互联网"
     },
     {
       "raw_hot": 61930,
@@ -38147,6 +38147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36426,
+      "num": 205798,
+      "word": "宁走十步远不走一步险",
+      "onboard_time": 1739463737,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36383,
       "num": 58554,
       "word": "不是hit是maestro",
@@ -38827,14 +38835,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30472,
-      "num": 205798,
-      "word": "宁走十步远不走一步险",
-      "onboard_time": 1739463737,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30469,
       "num": 139764,
       "word": "朱易亚冬会目标",
@@ -38857,6 +38857,14 @@
       "onboard_time": 1738951813,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 30356,
+      "num": 183215,
+      "word": "园长回应幼师作品获奖被同事挤掉署名",
+      "onboard_time": 1739467094,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30354,
@@ -40339,6 +40347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 17434,
+      "num": 57750,
+      "word": "刘诗诗转身这一下有多明媚",
+      "onboard_time": 1739467993,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 17418,
       "num": 196339,
       "word": "刘晓红希望能与刘晓庆放下隔阂",
@@ -41323,6 +41339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 9792,
+      "num": 51453,
+      "word": "女子冰壶中国5比2日本",
+      "onboard_time": 1739459241,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 9751,
       "num": 26843,
       "word": "送别黄旭华的留言看到泪目",
@@ -41352,14 +41376,6 @@
       "word": "中国队第16金入手",
       "onboard_time": 1739197642,
       "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 9646,
-      "num": 47903,
-      "word": "女子冰壶中国5比2日本",
-      "onboard_time": 1739459241,
-      "rank": 42,
       "category": "体育"
     },
     {
