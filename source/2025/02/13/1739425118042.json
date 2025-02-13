@@ -1,0 +1,410 @@
+{
+  "runTime": 1739425118042,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1341301,
+        "num": 1341301,
+        "word": "哪吒2全球票房TOP20",
+        "onboard_time": 1739415438,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 705814,
+        "num": 705814,
+        "word": "中国留学生洛杉矶遇害",
+        "onboard_time": 1739413880,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 20658,
+        "num": 591712,
+        "word": "亚冬会多个项目迎收官",
+        "onboard_time": 1739424502,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1239221,
+        "num": 566345,
+        "word": "期待哪吒2票房超过100亿",
+        "onboard_time": 1739424082,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 522450,
+        "num": 522450,
+        "word": "小行星撞地球人类危机要来了吗",
+        "onboard_time": 1739419041,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 457713,
+        "num": 457713,
+        "word": "在洛杉矶遇害中国留学生确认他杀",
+        "onboard_time": 1739419699,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1099154,
+        "num": 456862,
+        "word": "成都一影院29.9元只放哪吒2",
+        "onboard_time": 1739422702,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 470772,
+        "num": 454517,
+        "word": "中国出了个小哪吒",
+        "onboard_time": 1739419641,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 451184,
+        "num": 451184,
+        "word": "金价",
+        "onboard_time": 1739423483,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 422060,
+        "num": 422060,
+        "word": "网红饭店厕所标识是男性爬墙偷窥",
+        "onboard_time": 1739422883,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1104863,
+        "num": 419399,
+        "word": "最好的姐妹死在了自己面前",
+        "onboard_time": 1739421624,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 724023,
+        "num": 401591,
+        "word": "潘玮柏女儿这么大了",
+        "onboard_time": 1739415199,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 672318,
+        "num": 398557,
+        "word": "李明德 马天宇",
+        "onboard_time": 1739424441,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374082,
+        "num": 374082,
+        "word": "哪吒",
+        "onboard_time": 1739403858,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38705,
+        "num": 368405,
+        "word": "依靠科技与狠活来长高靠谱吗",
+        "onboard_time": 1739423663,
+        "rank": 14,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 364421,
+        "num": 364421,
+        "word": "哪吒2国际版海报来了",
+        "onboard_time": 1739415559,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 320904,
+        "num": 320904,
+        "word": "熬夜戒不了就科学的深度休息",
+        "onboard_time": 1739419339,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 316041,
+        "num": 316041,
+        "word": "文心一言4月1日起全面免费",
+        "onboard_time": 1739415438,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 311947,
+        "num": 311947,
+        "word": "任敏中戏同学参加育儿综艺",
+        "onboard_time": 1739417121,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299411,
+        "num": 299411,
+        "word": "董思成人火了脸就变清晰",
+        "onboard_time": 1739419280,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360103,
+        "num": 298463,
+        "word": "原来中医不让多吃水果是真的",
+        "onboard_time": 1739412080,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 326991,
+        "num": 297844,
+        "word": "吴昕做导演只一味安排番位",
+        "onboard_time": 1739424022,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296073,
+        "num": 296073,
+        "word": "哪吒打人 敖丙劝架",
+        "onboard_time": 1739364023,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263827,
+        "num": 263827,
+        "word": "李宁 时代少年团",
+        "onboard_time": 1739422702,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92921,
+        "num": 241501,
+        "word": "鸣潮",
+        "onboard_time": 1739415500,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 216309,
+        "num": 234462,
+        "word": "美军一架近5亿人民币的战机坠海",
+        "onboard_time": 1739416340,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 229713,
+        "num": 229713,
+        "word": "原来小猫上厕所也会憋不住",
+        "onboard_time": 1739419761,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222607,
+        "num": 222607,
+        "word": "雇人在妻子车上装定位后男子持刀伤妻",
+        "onboard_time": 1739423064,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220460,
+        "num": 220460,
+        "word": "不怕富二代啃老就怕富二代创业",
+        "onboard_time": 1739424202,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32266,
+        "num": 218896,
+        "word": "中国游客讲述因天气滞留南极",
+        "onboard_time": 1739423901,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218667,
+        "num": 218667,
+        "word": "刘亦菲羽毛头",
+        "onboard_time": 1739419101,
+        "rank": 30,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 215557,
+        "num": 215557,
+        "word": "李现眼巴巴等马龙to签",
+        "onboard_time": 1739418680,
+        "rank": 31,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 189299,
+        "num": 189299,
+        "word": "锤娜丽莎不是只有漂亮才能被爱",
+        "onboard_time": 1739423962,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186231,
+        "num": 186231,
+        "word": "美媒称哪吒是可爱又恶魔般的孩子",
+        "onboard_time": 1739418861,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138532,
+        "num": 185163,
+        "word": "tizzyt也让我赚上说唱钱了",
+        "onboard_time": 1739424562,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184365,
+        "num": 184365,
+        "word": "敖光敖丙这对美父子",
+        "onboard_time": 1739422584,
+        "rank": 35,
+        "category": "动漫,电影"
+      },
+      {
+        "raw_hot": 173651,
+        "num": 173651,
+        "word": "女子找男模3个月花450万公款被刑拘",
+        "onboard_time": 1739407581,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172834,
+        "num": 172834,
+        "word": "留几手让麦琳少尬舞多沉淀",
+        "onboard_time": 1739420541,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164945,
+        "num": 164945,
+        "word": "权志龙新歌MV女主是Karina",
+        "onboard_time": 1739419940,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 139936,
+        "num": 139936,
+        "word": "王者国色芳华联动",
+        "onboard_time": 1739421624,
+        "rank": 39,
+        "category": "游戏,作品衍生"
+      },
+      {
+        "raw_hot": 130305,
+        "num": 130305,
+        "word": "女生来云南散心前后判若两人",
+        "onboard_time": 1739381774,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 128729,
+        "num": 128729,
+        "word": "勇士vs独行侠",
+        "onboard_time": 1739421323,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127128,
+        "num": 127128,
+        "word": "香港一医生疑因大肠杆菌感染重症去世",
+        "onboard_time": 1739408480,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124838,
+        "num": 124838,
+        "word": "周深在台下听着快哭了",
+        "onboard_time": 1739416579,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120709,
+        "num": 120709,
+        "word": "谁家爸爸带娃只带13秒啊",
+        "onboard_time": 1739419821,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116559,
+        "num": 116559,
+        "word": "虞书欣何与双轨拥吻路透",
+        "onboard_time": 1739409499,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114662,
+        "num": 114662,
+        "word": "精致了50年的女孩子会怎样",
+        "onboard_time": 1739416939,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114376,
+        "num": 114376,
+        "word": "1折火车票来了",
+        "onboard_time": 1739413880,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108751,
+        "num": 108751,
+        "word": "他们破防是她们的兴奋剂",
+        "onboard_time": 1739423183,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108229,
+        "num": 108229,
+        "word": "台湾一大楼美食街突发爆炸",
+        "onboard_time": 1739425040,
+        "rank": 49,
+        "category": "突发/灾害"
+      }
+    ],
+    "hotgov": {
+      "word": "#飞天揽月是中华民族延续千年的梦想#"
+    }
+  }
+}
