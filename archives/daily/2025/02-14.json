@@ -1,6 +1,6 @@
 {
   "startTime": 1739464152455,
-  "endTime": 1739488931597,
+  "endTime": 1739489744184,
   "band_list": [
     {
       "raw_hot": 1651076,
@@ -11,8 +11,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1031103,
-      "num": 1031103,
+      "raw_hot": 1184356,
+      "num": 1184356,
       "word": "两千万粉丝小网红母亲回应摆拍质疑",
       "onboard_time": 1739451442,
       "rank": 1,
@@ -27,8 +27,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 734153,
-      "num": 623162,
+      "raw_hot": 761618,
+      "num": 761618,
       "word": "哪吒2破百亿票房曲线图太燃了",
       "onboard_time": 1739455102,
       "rank": 6,
@@ -59,11 +59,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 469495,
+      "num": 469495,
+      "word": "泽连斯基决定以叛国罪逮捕波罗申科",
+      "onboard_time": 1739457502,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 447331,
       "num": 447331,
       "word": "国务院国资委正在筹备组建一家新央企",
       "onboard_time": 1739459661,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 420318,
+      "num": 245263,
+      "word": "潘宏再回应艾特和小宝死亡事件",
+      "onboard_time": 1739488516,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -73,14 +89,6 @@
       "onboard_time": 1739457743,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 381706,
-      "num": 381706,
-      "word": "泽连斯基决定以叛国罪逮捕波罗申科",
-      "onboard_time": 1739457502,
-      "rank": 5,
-      "category": "国际时政"
     },
     {
       "raw_hot": 360860,
@@ -97,6 +105,14 @@
       "onboard_time": 1739456183,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 341504,
+      "num": 341504,
+      "word": "光线传媒市值暴涨至849亿元",
+      "onboard_time": 1739461520,
+      "rank": 30,
+      "category": "财经,电影"
     },
     {
       "raw_hot": 339476,
@@ -131,14 +147,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 308296,
-      "num": 308296,
-      "word": "光线传媒市值暴涨至849亿元",
-      "onboard_time": 1739461520,
-      "rank": 30,
-      "category": "财经,电影"
-    },
-    {
       "raw_hot": 306862,
       "num": 306862,
       "word": "光线传媒股价7天暴涨200%",
@@ -147,19 +155,11 @@
       "category": "财经,电影"
     },
     {
-      "raw_hot": 250916,
-      "num": 250916,
+      "raw_hot": 301263,
+      "num": 301263,
       "word": "65万元春晚机器人一机难求",
       "onboard_time": 1739470033,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 245321,
-      "num": 222849,
-      "word": "潘宏再回应艾特和小宝死亡事件",
-      "onboard_time": 1739488516,
-      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -179,6 +179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 231378,
+      "num": 231378,
+      "word": "马柏全 张康乐",
+      "onboard_time": 1739488876,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223462,
       "num": 223462,
       "word": "目击者回忆台湾百货大楼爆炸瞬间",
@@ -195,12 +203,28 @@
       "category": "民生新闻,汽车"
     },
     {
+      "raw_hot": 215383,
+      "num": 215383,
+      "word": "刘诗诗回应下雨天穿白裙子",
+      "onboard_time": 1739488516,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200699,
       "num": 200699,
       "word": "马柏全",
       "onboard_time": 1739488576,
       "rank": 13,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 177113,
+      "num": 177113,
+      "word": "张碧晨让饺子导演别有压力",
+      "onboard_time": 1739453363,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 176983,
@@ -219,12 +243,12 @@
       "category": "电影,数码"
     },
     {
-      "raw_hot": 154650,
-      "num": 154650,
-      "word": "张碧晨让饺子导演别有压力",
-      "onboard_time": 1739453363,
-      "rank": 16,
-      "category": "电影"
+      "raw_hot": 161142,
+      "num": 161142,
+      "word": "校友愤怒回应洛杉矶中国留学生被杀",
+      "onboard_time": 1739452223,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150397,
@@ -235,12 +259,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149931,
-      "num": 149931,
-      "word": "校友愤怒回应洛杉矶中国留学生被杀",
-      "onboard_time": 1739452223,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 150165,
+      "num": 180981,
+      "word": "虞书欣黄杨钿甜八年前的合照",
+      "onboard_time": 1739488576,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 145747,
@@ -259,20 +283,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138817,
+      "num": 138817,
+      "word": "孙怡cha了九万字",
+      "onboard_time": 1739448384,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135778,
       "num": 135778,
       "word": "美国队长4黑人",
       "onboard_time": 1739454563,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 132946,
-      "num": 132946,
-      "word": "刘诗诗回应下雨天穿白裙子",
-      "onboard_time": 1739488516,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 130449,
@@ -289,6 +313,22 @@
       "onboard_time": 1739458101,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125480,
+      "num": 254471,
+      "word": "DeepSeek回答脱单的秘籍",
+      "onboard_time": 1739465357,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 111905,
+      "num": 111905,
+      "word": "发朋友圈被误认出国的旅游地",
+      "onboard_time": 1739489596,
+      "rank": 26,
+      "category": "旅游"
     },
     {
       "raw_hot": 111254,
@@ -331,28 +371,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104406,
-      "num": 104406,
-      "word": "马柏全 张康乐",
-      "onboard_time": 1739488876,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 105921,
+      "num": 105921,
+      "word": "2月14日的浪漫从早安开始",
+      "onboard_time": 1739488996,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 102143,
-      "num": 102143,
-      "word": "孙怡cha了九万字",
-      "onboard_time": 1739448384,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 98094,
-      "num": 98094,
-      "word": "DeepSeek回答脱单的秘籍",
-      "onboard_time": 1739465357,
-      "rank": 33,
-      "category": "互联网"
+      "raw_hot": 102807,
+      "num": 102807,
+      "word": "美军航母在地中海与商船相撞",
+      "onboard_time": 1739488996,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94441,
@@ -385,14 +417,6 @@
       "onboard_time": 1739446526,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 90846,
-      "num": 140650,
-      "word": "虞书欣黄杨钿甜八年前的合照",
-      "onboard_time": 1739488576,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 89461,
@@ -475,12 +499,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72880,
+      "num": 72880,
+      "word": "用男性思维谈恋爱会有多爽",
+      "onboard_time": 1739488996,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 71090,
       "num": 126684,
       "word": "缅甸将向泰移交7000名电诈园区人员",
       "onboard_time": 1739436081,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 69872,
+      "num": 69872,
+      "word": "苹果将于2月19日发布新品",
+      "onboard_time": 1739489177,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 67445,
+      "num": 72196,
+      "word": "王星越左手哪吒右手敖丙",
+      "onboard_time": 1739488516,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 65614,
@@ -507,20 +555,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43125,
+      "num": 183215,
+      "word": "园长回应幼师作品获奖被同事挤掉署名",
+      "onboard_time": 1739467094,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40403,
       "num": 40403,
       "word": "林墨回应公开自己手机号码",
       "onboard_time": 1739467634,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 39995,
-      "num": 72196,
-      "word": "王星越左手哪吒右手敖丙",
-      "onboard_time": 1739488516,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 38725,
@@ -537,14 +585,6 @@
       "onboard_time": 1739469313,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 36940,
-      "num": 183215,
-      "word": "园长回应幼师作品获奖被同事挤掉署名",
-      "onboard_time": 1739467094,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 36426,
@@ -587,7 +627,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21520,
+      "raw_hot": 24628,
       "num": 807650,
       "word": "首善答卷",
       "onboard_time": 1739454563,
