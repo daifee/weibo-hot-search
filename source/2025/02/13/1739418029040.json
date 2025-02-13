@@ -1,0 +1,410 @@
+{
+  "runTime": 1739418029040,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1507416,
+        "num": 1507416,
+        "word": "哪吒2已超97亿",
+        "onboard_time": 1739413640,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1101298,
+        "num": 1101298,
+        "word": "中国留学生洛杉矶遇害",
+        "onboard_time": 1739413880,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 34818,
+        "num": 957808,
+        "word": "一大批重大外资项目加快推进",
+        "onboard_time": 1739367322,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 903915,
+        "num": 903915,
+        "word": "哪吒2全球票房T0P20",
+        "onboard_time": 1739415438,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 596989,
+        "num": 596989,
+        "word": "1折火车票来了",
+        "onboard_time": 1739413880,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 509330,
+        "num": 509330,
+        "word": "文心一言4月1日起全面免费",
+        "onboard_time": 1739415438,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 803293,
+        "num": 491159,
+        "word": "饺子导演画着呢画着呢",
+        "onboard_time": 1739410520,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 771980,
+        "num": 488219,
+        "word": "哪吒2国际版海报来了",
+        "onboard_time": 1739415559,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 460914,
+        "num": 460914,
+        "word": "银行小克重金条集体无现货",
+        "onboard_time": 1739416460,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 245487,
+        "num": 427680,
+        "word": "最高检披露油罐车运输食用油案进展",
+        "onboard_time": 1739415378,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1524675,
+        "num": 427204,
+        "word": "潘玮柏女儿这么大了",
+        "onboard_time": 1739415199,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 526839,
+        "num": 427008,
+        "word": "网红臭蛋称被拼接不雅视频",
+        "onboard_time": 1739413521,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 426571,
+        "num": 426571,
+        "word": "演员别把肇事逃逸当演戏",
+        "onboard_time": 1739404939,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386159,
+        "num": 386159,
+        "word": "哪吒打人 敖丙劝架",
+        "onboard_time": 1739364023,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68656,
+        "num": 374003,
+        "word": "明家跨境犯罪集团被公诉",
+        "onboard_time": 1739416700,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 263377,
+        "num": 369334,
+        "word": "4万余名缅北涉诈人员被批捕",
+        "onboard_time": 1739416159,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 369069,
+        "num": 369069,
+        "word": "女生来云南散心前后判若两人",
+        "onboard_time": 1739381774,
+        "rank": 16,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 308214,
+        "num": 308214,
+        "word": "美军一架近5亿人民币的战机坠海",
+        "onboard_time": 1739416340,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 307553,
+        "num": 307553,
+        "word": "女子找男模3个月花450万公款被刑拘",
+        "onboard_time": 1739407581,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219424,
+        "num": 295332,
+        "word": "男子除夕看烟花被爆竹击中右眼摘除",
+        "onboard_time": 1739416279,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 409027,
+        "num": 290866,
+        "word": "原来中医不让多吃水果是真的",
+        "onboard_time": 1739412080,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 284619,
+        "num": 284619,
+        "word": "刘亦菲ELLE开季刊预热",
+        "onboard_time": 1739415559,
+        "rank": 21,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 283252,
+        "num": 283252,
+        "word": "哪吒",
+        "onboard_time": 1739403858,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 207346,
+        "num": 270684,
+        "word": "李现拿到了有自己名字的皇马围巾",
+        "onboard_time": 1739416881,
+        "rank": 23,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 27671,
+        "num": 268217,
+        "word": "归期下刀子了",
+        "onboard_time": 1739417480,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 267286,
+        "num": 267286,
+        "word": "李嘉琦浪姐路透瘦了好多",
+        "onboard_time": 1739403498,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237534,
+        "num": 237534,
+        "word": "任敏中戏同学参加育儿综艺",
+        "onboard_time": 1739417121,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237453,
+        "num": 237453,
+        "word": "香港一医生疑因大肠杆菌感染重症去世",
+        "onboard_time": 1739408480,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220335,
+        "num": 220335,
+        "word": "虞书欣何与双轨拥吻路透",
+        "onboard_time": 1739409499,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208942,
+        "num": 208942,
+        "word": "张萌称在悉尼看哪吒2座无虚席",
+        "onboard_time": 1739417240,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186885,
+        "num": 186885,
+        "word": "小熊猫进酒店房间互动咬伤游客",
+        "onboard_time": 1739414721,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183234,
+        "num": 183234,
+        "word": "菲律宾一保安因同事上班迟到将其射杀",
+        "onboard_time": 1739415140,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 182226,
+        "num": 182226,
+        "word": "精致了50年的女孩子会怎样",
+        "onboard_time": 1739416939,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181004,
+        "num": 181004,
+        "word": "周深在台下听着快哭了",
+        "onboard_time": 1739416579,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177827,
+        "num": 177827,
+        "word": "全球首例同时换脸换手男子结婚",
+        "onboard_time": 1739369544,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 175329,
+        "num": 175329,
+        "word": "登山式睡姿毁腰毁髋",
+        "onboard_time": 1739412080,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 171940,
+        "num": 171940,
+        "word": "饺子 画册",
+        "onboard_time": 1739403977,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167173,
+        "num": 167173,
+        "word": "乐山大佛上天了",
+        "onboard_time": 1739413159,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162262,
+        "num": 162262,
+        "word": "申公豹挥一鞭相当于300个皮卡丘放电",
+        "onboard_time": 1739417480,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161998,
+        "num": 161998,
+        "word": "余烬之上",
+        "onboard_time": 1739417660,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161494,
+        "num": 161494,
+        "word": "女子双肺全白丈夫守护33天不离弃",
+        "onboard_time": 1739403977,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150302,
+        "num": 150302,
+        "word": "情人节不要内卷式送礼了",
+        "onboard_time": 1739412379,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143829,
+        "num": 143829,
+        "word": "留几手直播谈麦琳",
+        "onboard_time": 1739407760,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140105,
+        "num": 140105,
+        "word": "祝绪丹白得好像开了滤镜",
+        "onboard_time": 1739408121,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125932,
+        "num": 125932,
+        "word": "美国一战斗机坠毁2名飞行员获救",
+        "onboard_time": 1739403918,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 115831,
+        "num": 120637,
+        "word": "张凌赫好水灵灵的怼脸状态",
+        "onboard_time": 1739417721,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119994,
+        "num": 119994,
+        "word": "貂蝉猫影幻舞星传说",
+        "onboard_time": 1739410759,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 5815,
+        "num": 117153,
+        "word": "张凌赫水系男艺人",
+        "onboard_time": 1739417900,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107784,
+        "num": 115745,
+        "word": "宗馥莉正式接管娃哈哈食品公司",
+        "onboard_time": 1739411659,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114566,
+        "num": 114566,
+        "word": "朴彩英新歌舞蹈版",
+        "onboard_time": 1739417779,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记家国同祝的问候与叮嘱#"
+    }
+  }
+}
