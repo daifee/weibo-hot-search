@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739472251798,
+  "endTime": 1739474307480,
   "band_list": [
     {
       "raw_hot": 18452349,
@@ -13603,6 +13603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110356,
+      "num": 93325,
+      "word": "哪吒王者荣耀联动",
+      "onboard_time": 1739471892,
+      "rank": 20,
+      "category": "游戏,电影"
+    },
+    {
       "raw_hot": 110308,
       "num": 198803,
       "word": "圆字能带出多少祝福",
@@ -14363,6 +14371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87597,
+      "num": 87597,
+      "word": "65万元春晚机器人一机难求",
+      "onboard_time": 1739470033,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87437,
       "num": 92022,
       "word": "台湾网友想看哪吒2",
@@ -14377,14 +14393,6 @@
       "onboard_time": 1739022143,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 87075,
-      "num": 87075,
-      "word": "65万元春晚机器人一机难求",
-      "onboard_time": 1739470033,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 86919,
@@ -15593,14 +15601,6 @@
       "onboard_time": 1739088741,
       "rank": 19,
       "category": "议题讨论,体育"
-    },
-    {
-      "raw_hot": 53722,
-      "num": 53722,
-      "word": "哪吒王者荣耀联动",
-      "onboard_time": 1739471892,
-      "rank": 20,
-      "category": "游戏,电影"
     },
     {
       "raw_hot": 53659,
@@ -16955,6 +16955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26332,
+      "num": 28823,
+      "word": "复旦教授回应提倡年轻人啃老",
+      "onboard_time": 1739472371,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26325,
       "num": 26325,
       "word": "四川筠连山体滑坡",
@@ -17641,6 +17649,14 @@
       "onboard_time": 1739464457,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 14847,
+      "num": 28808,
+      "word": "感觉已经在驭猪飞行了",
+      "onboard_time": 1739473751,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 14788,
