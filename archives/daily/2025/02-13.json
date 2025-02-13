@@ -1,6 +1,6 @@
 {
   "startTime": 1739377766335,
-  "endTime": 1739425118042,
+  "endTime": 1739428263856,
   "band_list": [
     {
       "raw_hot": 6171526,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1139890,
-      "num": 492960,
+      "num": 583211,
       "word": "成都一影院29.9元只放哪吒2",
       "onboard_time": 1739422702,
       "rank": 6,
@@ -145,6 +145,30 @@
       "onboard_time": 1739415559,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 788017,
+      "num": 247046,
+      "word": "古庙回应禁止来例假女性入殿参拜",
+      "onboard_time": 1739427021,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 768069,
+      "num": 768069,
+      "word": "台湾一大楼美食街突发爆炸",
+      "onboard_time": 1739425040,
+      "rank": 49,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 686155,
+      "num": 422060,
+      "word": "网红饭店厕所标识是男性爬墙偷窥",
+      "onboard_time": 1739422883,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 672318,
@@ -227,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 550567,
+      "num": 550567,
+      "word": "Uzi补办婚礼",
+      "onboard_time": 1739425161,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 536464,
       "num": 427008,
       "word": "网红臭蛋称被拼接不雅视频",
@@ -307,14 +339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 422060,
-      "num": 422060,
-      "word": "网红饭店厕所标识是男性爬墙偷窥",
-      "onboard_time": 1739422883,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 417379,
       "num": 363106,
       "word": "沙溢瘦太多了",
@@ -361,6 +385,14 @@
       "onboard_time": 1739419280,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 374707,
+      "num": 374707,
+      "word": "哪吒2超98亿",
+      "onboard_time": 1739428219,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 374082,
@@ -417,6 +449,14 @@
       "onboard_time": 1739419940,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 325617,
+      "num": 325617,
+      "word": "李宁 时代少年团",
+      "onboard_time": 1739422702,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 323837,
@@ -515,6 +555,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 276842,
+      "num": 246709,
+      "word": "张馨予防风贴撕下来顺便去了一层脸毛",
+      "onboard_time": 1739426241,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 273507,
       "num": 266602,
       "word": "刘亦菲羽毛头",
@@ -547,14 +595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 263827,
-      "num": 263827,
-      "word": "李宁 时代少年团",
-      "onboard_time": 1739422702,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 263712,
       "num": 427680,
       "word": "最高检披露油罐车运输食用油案进展",
@@ -571,12 +611,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 253589,
+      "num": 253589,
+      "word": "敖光敖丙这对美父子",
+      "onboard_time": 1739422584,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 253152,
       "num": 253152,
       "word": "留几手让麦琳少尬舞多沉淀",
       "onboard_time": 1739420541,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 241141,
+      "num": 241141,
+      "word": "饺子导演绘画一次性成型没有废笔",
+      "onboard_time": 1739426421,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 239141,
@@ -723,6 +779,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 204750,
+      "num": 204750,
+      "word": "情侣都忘记情人节是什么体验",
+      "onboard_time": 1739427800,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 204486,
       "num": 204486,
       "word": "领馆回应中国留学生在美遇害",
@@ -803,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187926,
+      "num": 249006,
+      "word": "仙台有树微博追剧团",
+      "onboard_time": 1739427740,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187715,
       "num": 187715,
       "word": "抖音副总裁回应摆拍视频乱象",
@@ -843,14 +915,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 184365,
-      "num": 184365,
-      "word": "敖光敖丙这对美父子",
-      "onboard_time": 1739422584,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
       "raw_hot": 183503,
       "num": 183503,
       "word": "17岁男孩遭人勒索还被脚踹围殴",
@@ -864,6 +928,14 @@
       "word": "精致了50年的女孩子会怎样",
       "onboard_time": 1739416939,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181174,
+      "num": 181174,
+      "word": "男孩放冲天炮炸昏妈妈",
+      "onboard_time": 1739425881,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -1036,11 +1108,19 @@
     },
     {
       "raw_hot": 149565,
-      "num": 149565,
+      "num": 371878,
       "word": "中国科学家在福建发现最早鸟类",
       "onboard_time": 1739420481,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146754,
+      "num": 146754,
+      "word": "周鸿祎称95后00后有三大红利",
+      "onboard_time": 1739426241,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 145844,
@@ -1051,12 +1131,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145498,
+      "num": 243056,
+      "word": "于正给赵晴千娇百媚打call",
+      "onboard_time": 1739427500,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144153,
       "num": 144153,
       "word": "赵丽颖杨幂唐嫣新剧或将对打",
       "onboard_time": 1739360122,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 143428,
+      "num": 143428,
+      "word": "檀健次放学后在健身房写作业吗",
+      "onboard_time": 1739425580,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 141208,
@@ -1083,6 +1179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138400,
+      "num": 138400,
+      "word": "蔡岳勋于小惠离婚",
+      "onboard_time": 1739427921,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137304,
       "num": 137304,
       "word": "今麦郎",
@@ -1107,6 +1211,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135404,
+      "num": 135404,
+      "word": "梁洁说理解站姐的心情了",
+      "onboard_time": 1739425223,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 134659,
+      "num": 134659,
+      "word": "边哭边痛边吻这段太好品了",
+      "onboard_time": 1739427921,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130963,
       "num": 130963,
       "word": "ABC拿经期性感当卖点离了大谱",
@@ -1121,6 +1241,22 @@
       "onboard_time": 1739421323,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127903,
+      "num": 127903,
+      "word": "Ming亲Uzi",
+      "onboard_time": 1739428100,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 127831,
+      "num": 127831,
+      "word": "三岁 恋爱",
+      "onboard_time": 1739427859,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 127055,
@@ -1169,6 +1305,30 @@
       "onboard_time": 1739369483,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117875,
+      "num": 117875,
+      "word": "齐思钧人尴尬的时候会有很多动作",
+      "onboard_time": 1739428040,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 117869,
+      "num": 117869,
+      "word": "湖人靠布朗尼追分",
+      "onboard_time": 1739426481,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 117563,
+      "num": 246529,
+      "word": "克里斯蒂是单换的东契奇吗",
+      "onboard_time": 1739426721,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 117437,
@@ -1259,14 +1419,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 108229,
-      "num": 108229,
-      "word": "台湾一大楼美食街突发爆炸",
-      "onboard_time": 1739425040,
-      "rank": 49,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 107380,
       "num": 107380,
       "word": "特效师称赞饺子导演太能抠细节",
@@ -1337,6 +1489,14 @@
       "onboard_time": 1739370863,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93853,
+      "num": 138467,
+      "word": "竹荪破壳像穿了蓬蓬裙",
+      "onboard_time": 1739427740,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 93552,
@@ -1425,6 +1585,14 @@
       "onboard_time": 1739405419,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 74524,
+      "num": 602214,
+      "word": "银发列车点亮金色机遇",
+      "onboard_time": 1739425283,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69410,
@@ -1523,6 +1691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44219,
+      "num": 329260,
+      "word": "大巴司机成植物人却无法认定工伤",
+      "onboard_time": 1739427021,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44063,
       "num": 44063,
       "word": "花样年华",
@@ -1536,6 +1712,14 @@
       "word": "王一博 真正人生是旷野",
       "onboard_time": 1739396291,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 42825,
+      "num": 246959,
+      "word": "李现伯纳乌观战皇马",
+      "onboard_time": 1739427921,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -1665,6 +1849,14 @@
       "onboard_time": 1739387712,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21407,
+      "num": 247064,
+      "word": "大学生返校前有种深深的无力感",
+      "onboard_time": 1739427859,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 20658,
