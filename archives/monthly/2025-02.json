@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739481671772,
+  "endTime": 1739482524781,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -41076,7 +41076,7 @@
     },
     {
       "raw_hot": 12564,
-      "num": 16184,
+      "num": 18133,
       "word": "美英未签人工智能行动峰会声明",
       "onboard_time": 1739477471,
       "rank": 49,
@@ -41331,20 +41331,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 10721,
+      "num": 18127,
+      "word": "美好福建",
+      "onboard_time": 1739480412,
+      "rank": 49,
+      "category": "民生新闻,国内时政"
+    },
+    {
       "raw_hot": 10596,
       "num": 203944,
       "word": "新加坡大满贯赛2月6日赛程",
       "onboard_time": 1738847845,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 10571,
-      "num": 16180,
-      "word": "美好福建",
-      "onboard_time": 1739480412,
-      "rank": 49,
-      "category": "民生新闻,国内时政"
     },
     {
       "raw_hot": 10502,
@@ -41377,6 +41377,14 @@
       "onboard_time": 1739435420,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 10310,
+      "num": 18119,
+      "word": "美战机坠毁两飞行员弹射逃生",
+      "onboard_time": 1739481972,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 10154,
