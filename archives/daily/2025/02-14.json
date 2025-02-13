@@ -1,6 +1,6 @@
 {
   "startTime": 1739464152455,
-  "endTime": 1739474307480,
+  "endTime": 1739475351125,
   "band_list": [
     {
       "raw_hot": 1651076,
@@ -227,20 +227,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 130449,
+      "num": 130449,
+      "word": "哪吒王者荣耀联动",
+      "onboard_time": 1739471892,
+      "rank": 20,
+      "category": "游戏,电影"
+    },
+    {
       "raw_hot": 128014,
       "num": 128014,
       "word": "唐诡西行上星",
       "onboard_time": 1739458101,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 110356,
-      "num": 93325,
-      "word": "哪吒王者荣耀联动",
-      "onboard_time": 1739471892,
-      "rank": 20,
-      "category": "游戏,电影"
     },
     {
       "raw_hot": 109077,
@@ -499,6 +499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 29885,
+      "num": 29885,
+      "word": "复旦教授回应提倡年轻人啃老",
+      "onboard_time": 1739472371,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28452,
       "num": 31766,
       "word": "俄乌局势新进展",
@@ -512,14 +520,6 @@
       "word": "尿布狮找到了狮群",
       "onboard_time": 1739468414,
       "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26332,
-      "num": 28823,
-      "word": "复旦教授回应提倡年轻人啃老",
-      "onboard_time": 1739472371,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -537,6 +537,22 @@
       "onboard_time": 1739462059,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 17282,
+      "num": 24691,
+      "word": "登陆少年新专辑演唱会准备中",
+      "onboard_time": 1739474711,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 15550,
+      "num": 24689,
+      "word": "董思成早期说韩语",
+      "onboard_time": 1739474651,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 14852,
