@@ -1,9 +1,17 @@
 {
   "startTime": 1739377766335,
-  "endTime": 1739420819979,
+  "endTime": 1739421666289,
   "band_list": [
     {
-      "raw_hot": 1891825,
+      "raw_hot": 6171526,
+      "num": 6171526,
+      "word": "李明德因酒后砸车被刑拘",
+      "onboard_time": 1739420841,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2037423,
       "num": 1891825,
       "word": "哪吒2全球票房TOP20",
       "onboard_time": 1739415438,
@@ -123,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 655369,
+      "num": 655369,
+      "word": "小行星撞地球人类危机要来了吗",
+      "onboard_time": 1739419041,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 642018,
       "num": 642018,
       "word": "美军一架近5亿人民币的战机坠海",
@@ -145,6 +161,14 @@
       "onboard_time": 1739413880,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 565623,
+      "num": 565623,
+      "word": "在洛杉矶遇害中国留学生确认他杀",
+      "onboard_time": 1739419699,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 563326,
@@ -187,14 +211,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 497306,
-      "num": 497306,
-      "word": "小行星撞地球人类危机要来了吗",
-      "onboard_time": 1739419041,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 463231,
       "num": 174169,
       "word": "特朗普普京通电话",
@@ -233,6 +249,14 @@
       "onboard_time": 1739372302,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 432091,
+      "num": 432091,
+      "word": "中国出了个小哪吒",
+      "onboard_time": 1739419641,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 417379,
@@ -275,20 +299,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 355620,
+      "num": 321232,
+      "word": "李现眼巴巴等马龙to签",
+      "onboard_time": 1739418680,
+      "rank": 16,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 353474,
       "num": 353474,
       "word": "女子找男模3个月花450万公款被刑拘",
       "onboard_time": 1739407581,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 348851,
-      "num": 279315,
-      "word": "中国出了个小哪吒",
-      "onboard_time": 1739419641,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 348130,
@@ -299,20 +323,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 338092,
+      "num": 266473,
+      "word": "董思成人火了脸就变清晰",
+      "onboard_time": 1739419280,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 328887,
+      "num": 283252,
+      "word": "哪吒",
+      "onboard_time": 1739403858,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 326953,
       "num": 197632,
       "word": "43岁女子找男模花光450万公款",
       "onboard_time": 1739370143,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 326643,
-      "num": 283252,
-      "word": "哪吒",
-      "onboard_time": 1739403858,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 326202,
@@ -331,14 +363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 321232,
-      "num": 321232,
-      "word": "李现眼巴巴等马龙to签",
-      "onboard_time": 1739418680,
-      "rank": 16,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 317846,
       "num": 317846,
       "word": "土豆吕严小品",
@@ -347,12 +371,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 313968,
-      "num": 266473,
-      "word": "董思成人火了脸就变清晰",
-      "onboard_time": 1739419280,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 314857,
+      "num": 304884,
+      "word": "申公豹挥一鞭相当于300个皮卡丘放电",
+      "onboard_time": 1739417480,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 309743,
@@ -361,6 +385,14 @@
       "onboard_time": 1739415559,
       "rank": 48,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 308924,
+      "num": 244067,
+      "word": "王者国色芳华联动",
+      "onboard_time": 1739421624,
+      "rank": 26,
+      "category": "游戏,作品衍生"
     },
     {
       "raw_hot": 293556,
@@ -411,6 +443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 273507,
+      "num": 256021,
+      "word": "刘亦菲羽毛头",
+      "onboard_time": 1739419101,
+      "rank": 32,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 272270,
       "num": 272270,
       "word": "安睡裤",
@@ -443,14 +483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 263505,
-      "num": 304884,
-      "word": "申公豹挥一鞭相当于300个皮卡丘放电",
-      "onboard_time": 1739417480,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 263377,
       "num": 372550,
       "word": "4万余名缅北涉诈人员被批捕",
@@ -459,12 +491,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 256021,
-      "num": 256021,
-      "word": "刘亦菲羽毛头",
-      "onboard_time": 1739419101,
-      "rank": 32,
-      "category": "艺人,时尚"
+      "raw_hot": 253152,
+      "num": 253152,
+      "word": "留几手让麦琳少尬舞多沉淀",
+      "onboard_time": 1739420541,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 239141,
@@ -473,14 +505,6 @@
       "onboard_time": 1739419821,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 238031,
-      "num": 407489,
-      "word": "在洛杉矶遇害中国留学生确认他杀",
-      "onboard_time": 1739419699,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 236867,
@@ -531,12 +555,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 220497,
+      "num": 220497,
+      "word": "逃不过三岁看大七岁看老",
+      "onboard_time": 1739420900,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216643,
       "num": 216643,
       "word": "仙台有树",
       "onboard_time": 1739419821,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216403,
+      "num": 216403,
+      "word": "美媒称哪吒是可爱又恶魔般的孩子",
+      "onboard_time": 1739418861,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 211432,
@@ -593,14 +633,6 @@
       "onboard_time": 1739418801,
       "rank": 38,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 201713,
-      "num": 201713,
-      "word": "美媒称哪吒是可爱又恶魔般的孩子",
-      "onboard_time": 1739418861,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 201156,
@@ -699,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186248,
+      "num": 186248,
+      "word": "尊界S800路况测试表演水花消失术",
+      "onboard_time": 1739421202,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 183503,
       "num": 183503,
       "word": "17岁男孩遭人勒索还被脚踹围殴",
@@ -779,6 +819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 162692,
+      "num": 162692,
+      "word": "最好的姐妹死在了自己面前",
+      "onboard_time": 1739421624,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162066,
       "num": 162066,
       "word": "前经纪公司否认曝光沈小婷身份证",
@@ -809,6 +857,14 @@
       "onboard_time": 1739417721,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161289,
+      "num": 161289,
+      "word": "NBA",
+      "onboard_time": 1739420660,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 160784,
@@ -1347,6 +1403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 35179,
+      "num": 265236,
+      "word": "美媒预判更多妥协压力给到乌克兰",
+      "onboard_time": 1739419821,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 34911,
       "num": 74643,
       "word": "外交部回应哪吒2北美放映",
@@ -1361,14 +1425,6 @@
       "onboard_time": 1739377098,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 31410,
-      "num": 265236,
-      "word": "美媒预判更多妥协压力给到乌克兰",
-      "onboard_time": 1739419821,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 30961,

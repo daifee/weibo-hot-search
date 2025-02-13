@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739420819979,
+  "endTime": 1739421666289,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -136,6 +136,14 @@
       "word": "汪小菲评论大S老婆我好想你",
       "onboard_time": 1738663943,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 6171526,
+      "num": 6171526,
+      "word": "李明德因酒后砸车被刑拘",
+      "onboard_time": 1739420841,
+      "rank": 0,
       "category": "艺人"
     },
     {
@@ -779,6 +787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 2037423,
+      "num": 1891825,
+      "word": "哪吒2全球票房TOP20",
+      "onboard_time": 1739415438,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 2031661,
       "num": 1183818,
       "word": "百色性侵事件女生好友发声",
@@ -936,14 +952,6 @@
       "word": "公认是烂片但你却很喜欢的电影",
       "onboard_time": 1739022263,
       "rank": 3,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 1891825,
-      "num": 1891825,
-      "word": "哪吒2全球票房TOP20",
-      "onboard_time": 1739415438,
-      "rank": 0,
       "category": "电影"
     },
     {
@@ -4939,6 +4947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 655369,
+      "num": 655369,
+      "word": "小行星撞地球人类危机要来了吗",
+      "onboard_time": 1739419041,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 654927,
       "num": 654927,
       "word": "吴宣仪 浪姐",
@@ -5905,6 +5921,14 @@
       "onboard_time": 1738675524,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 565623,
+      "num": 565623,
+      "word": "在洛杉矶遇害中国留学生确认他杀",
+      "onboard_time": 1739419699,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 565452,
@@ -7025,14 +7049,6 @@
       "onboard_time": 1739001143,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 497306,
-      "num": 497306,
-      "word": "小行星撞地球人类危机要来了吗",
-      "onboard_time": 1739419041,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 497112,
@@ -8169,6 +8185,14 @@
       "onboard_time": 1738985544,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 432091,
+      "num": 432091,
+      "word": "中国出了个小哪吒",
+      "onboard_time": 1739419641,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 431932,
@@ -9739,6 +9763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 355620,
+      "num": 321232,
+      "word": "李现眼巴巴等马龙to签",
+      "onboard_time": 1739418680,
+      "rank": 16,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 355408,
       "num": 268921,
       "word": "六姊妹爸爸车祸去世",
@@ -9936,14 +9968,6 @@
       "word": "2025春节档票房排名",
       "onboard_time": 1738580250,
       "rank": 29,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 348851,
-      "num": 279315,
-      "word": "中国出了个小哪吒",
-      "onboard_time": 1739419641,
-      "rank": 21,
       "category": "电影"
     },
     {
@@ -10257,6 +10281,14 @@
       "onboard_time": 1739189422,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 338092,
+      "num": 266473,
+      "word": "董思成人火了脸就变清晰",
+      "onboard_time": 1739419280,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 337417,
@@ -10763,14 +10795,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 321232,
-      "num": 321232,
-      "word": "李现眼巴巴等马龙to签",
-      "onboard_time": 1739418680,
-      "rank": 16,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 320995,
       "num": 367238,
       "word": "钱天一1比3伊藤美诚",
@@ -10947,6 +10971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 314857,
+      "num": 304884,
+      "word": "申公豹挥一鞭相当于300个皮卡丘放电",
+      "onboard_time": 1739417480,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 314810,
       "num": 400174,
       "word": "举报提前开学补课被回怼究竟谁错了",
@@ -10961,14 +10993,6 @@
       "onboard_time": 1739238440,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 313968,
-      "num": 266473,
-      "word": "董思成人火了脸就变清晰",
-      "onboard_time": 1739419280,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 313897,
@@ -11137,6 +11161,14 @@
       "onboard_time": 1738552819,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 308924,
+      "num": 244067,
+      "word": "王者国色芳华联动",
+      "onboard_time": 1739421624,
+      "rank": 26,
+      "category": "游戏,作品衍生"
     },
     {
       "raw_hot": 308721,
@@ -12539,6 +12571,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 273507,
+      "num": 256021,
+      "word": "刘亦菲羽毛头",
+      "onboard_time": 1739419101,
+      "rank": 32,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 273110,
       "num": 273110,
       "word": "掌心好敢拍",
@@ -12897,14 +12937,6 @@
       "onboard_time": 1738822585,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 263505,
-      "num": 304884,
-      "word": "申公豹挥一鞭相当于300个皮卡丘放电",
-      "onboard_time": 1739417480,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 263377,
@@ -13267,14 +13299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 256021,
-      "num": 256021,
-      "word": "刘亦菲羽毛头",
-      "onboard_time": 1739419101,
-      "rank": 32,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 255832,
       "num": 255832,
       "word": "费城飞机坠毁许多车辆房屋被毁",
@@ -13425,6 +13449,14 @@
       "onboard_time": 1739267359,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 253152,
+      "num": 253152,
+      "word": "留几手让麦琳少尬舞多沉淀",
+      "onboard_time": 1739420541,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 253128,
@@ -14241,14 +14273,6 @@
       "onboard_time": 1738667663,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 238031,
-      "num": 407489,
-      "word": "在洛杉矶遇害中国留学生确认他杀",
-      "onboard_time": 1739419699,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 237930,
@@ -15587,6 +15611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220497,
+      "num": 220497,
+      "word": "逃不过三岁看大七岁看老",
+      "onboard_time": 1739420900,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220430,
       "num": 220430,
       "word": "近期大量黄金等贵金属被运往美国",
@@ -15929,6 +15961,14 @@
       "onboard_time": 1738459336,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216403,
+      "num": 216403,
+      "word": "美媒称哪吒是可爱又恶魔般的孩子",
+      "onboard_time": 1739418861,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 216390,
@@ -17537,14 +17577,6 @@
       "onboard_time": 1738832243,
       "rank": 29,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 201713,
-      "num": 201713,
-      "word": "美媒称哪吒是可爱又恶魔般的孩子",
-      "onboard_time": 1739418861,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 201690,
@@ -19689,6 +19721,14 @@
       "onboard_time": 1738740682,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186248,
+      "num": 186248,
+      "word": "尊界S800路况测试表演水花消失术",
+      "onboard_time": 1739421202,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 186116,
@@ -22715,6 +22755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162692,
+      "num": 162692,
+      "word": "最好的姐妹死在了自己面前",
+      "onboard_time": 1739421624,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162614,
       "num": 217745,
       "word": "勇士热火交易",
@@ -22923,6 +22971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161289,
+      "num": 161289,
+      "word": "NBA",
+      "onboard_time": 1738884857,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161283,
       "num": 161283,
       "word": "未定事件簿男菩萨",
@@ -23105,14 +23161,6 @@
       "onboard_time": 1738752087,
       "rank": 41,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 159966,
-      "num": 159966,
-      "word": "NBA",
-      "onboard_time": 1738884857,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 159959,
@@ -36099,6 +36147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35179,
+      "num": 265236,
+      "word": "美媒预判更多妥协压力给到乌克兰",
+      "onboard_time": 1739419821,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 35099,
       "num": 53312,
       "word": "一群外地阿姨奔赴灾区捐菜又做饭",
@@ -36521,14 +36577,6 @@
       "onboard_time": 1739003784,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 31410,
-      "num": 265236,
-      "word": "美媒预判更多妥协压力给到乌克兰",
-      "onboard_time": 1739419821,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 31344,

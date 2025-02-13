@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/02/09 00:24:46 ~ 2025/02/13 12:26:59
+本榜单时间：2025/02/09 00:24:46 ~ 2025/02/13 12:41:06
 </p>
 </blockquote>
 <p>
@@ -23,6 +23,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E6%9D%8E%E6%98%8E%E5%BE%B7%E5%89%8D%E5%A5%B3%E5%8F%8B%E5%8F%91%E6%96%87%23" target="weibo">
 疑似李明德前女友发文（热度：10037874）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%8E%E5%BE%B7%E5%9B%A0%E9%85%92%E5%90%8E%E7%A0%B8%E8%BD%A6%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
+李明德因酒后砸车被刑拘（热度：6171526）
 </a>
 </li>
 
@@ -183,6 +189,12 @@ DeepSeek（热度：2371724）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E5%85%A8%E7%90%83%E7%A5%A8%E6%88%BFTOP20%23" target="weibo">
+哪吒2全球票房TOP20（热度：2037423）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BE%E8%89%B2%E6%80%A7%E4%BE%B5%E4%BA%8B%E4%BB%B6%E5%A5%B3%E7%94%9F%E5%A5%BD%E5%8F%8B%E5%8F%91%E5%A3%B0%23" target="weibo">
 百色性侵事件女生好友发声（热度：2031661）
 </a>
@@ -257,12 +269,6 @@ DeepSeek（热度：2371724）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%BB%BA%E8%AE%AE%E8%BA%BA%E7%9D%80%E5%88%B7%E6%89%8B%E6%9C%BA%23" target="weibo">
 为什么不建议躺着刷手机（热度：1910847）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E5%85%A8%E7%90%83%E7%A5%A8%E6%88%BFTOP20%23" target="weibo">
-哪吒2全球票房TOP20（热度：1891825）
 </a>
 </li>
 
@@ -1533,6 +1539,12 @@ DeepSeek王炸组合榜（热度：709857）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%A1%8C%E6%98%9F%E6%92%9E%E5%9C%B0%E7%90%83%E4%BA%BA%E7%B1%BB%E5%8D%B1%E6%9C%BA%E8%A6%81%E6%9D%A5%E4%BA%86%E5%90%97%23" target="weibo">
+小行星撞地球人类危机要来了吗（热度：655369）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%92%E8%A2%AB%E8%97%95%E9%A5%BC%E6%95%B4%E7%A0%B4%E9%98%B2%E4%BA%86%23" target="weibo">
 哪吒被藕饼整破防了（热度：654293）
 </a>
@@ -1853,6 +1865,12 @@ WTT观众席疑似骑手团建（热度：585128）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E9%9A%90%E5%96%BB%E5%BC%95%E7%83%AD%E8%AE%AE%23" target="weibo">
 哪吒2隐喻引热议（热度：567551）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%B4%9B%E6%9D%89%E7%9F%B6%E9%81%87%E5%AE%B3%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E7%A1%AE%E8%AE%A4%E4%BB%96%E6%9D%80%23" target="weibo">
+在洛杉矶遇害中国留学生确认他杀（热度：565623）
 </a>
 </li>
 
@@ -2211,12 +2229,6 @@ g社镜头下的卢昱晓申有娜（热度：532718）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%A1%8C%E6%98%9F%E6%92%9E%E5%9C%B0%E7%90%83%E4%BA%BA%E7%B1%BB%E5%8D%B1%E6%9C%BA%E8%A6%81%E6%9D%A5%E4%BA%86%E5%90%97%23" target="weibo">
-小行星撞地球人类危机要来了吗（热度：497306）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%BE%99%E6%91%94%E5%80%92%23" target="weibo">
 孙龙摔倒（热度：497112）
 </a>
@@ -2435,6 +2447,12 @@ JDG 回家吧孩子（热度：458851）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%89%E9%9C%89%E8%A2%AB%E7%8B%82%E5%98%98%E6%B7%A1%E5%AE%9A%E7%AC%91%E4%BA%86%E7%AC%91%23" target="weibo">
 霉霉被狂嘘淡定笑了笑（热度：432406）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%87%BA%E4%BA%86%E4%B8%AA%E5%B0%8F%E5%93%AA%E5%90%92%23" target="weibo">
+中国出了个小哪吒（热度：432091）
 </a>
 </li>
 
@@ -2913,6 +2931,12 @@ DeepSeek涨价了（热度：398277）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E7%9C%BC%E5%B7%B4%E5%B7%B4%E7%AD%89%E9%A9%AC%E9%BE%99to%E7%AD%BE%23" target="weibo">
+李现眼巴巴等马龙to签（热度：355620）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
 比亚迪发布会（热度：354632）
 </a>
@@ -2963,12 +2987,6 @@ DeepSeek涨价了（热度：398277）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E7%A5%A8%E6%88%BF%E5%B7%B2%E7%A0%B491%E4%BA%BF%23" target="weibo">
 哪吒2票房已破91亿（热度：349571）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%87%BA%E4%BA%86%E4%B8%AA%E5%B0%8F%E5%93%AA%E5%90%92%23" target="weibo">
-中国出了个小哪吒（热度：348851）
 </a>
 </li>
 
@@ -3059,6 +3077,12 @@ WTT修改强制参赛规定（热度：345943）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E9%97%AE%E8%B0%81%E7%BB%99%E6%88%91%E6%8A%A5%E7%9A%84%E5%90%8D%23" target="weibo">
 邓为问谁给我报的名（热度：338223）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%80%9D%E6%88%90%E4%BA%BA%E7%81%AB%E4%BA%86%E8%84%B8%E5%B0%B1%E5%8F%98%E6%B8%85%E6%99%B0%23" target="weibo">
+董思成人火了脸就变清晰（热度：338092）
 </a>
 </li>
 
@@ -3183,12 +3207,6 @@ WTT修改强制参赛规定（热度：345943）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E7%9C%BC%E5%B7%B4%E5%B7%B4%E7%AD%89%E9%A9%AC%E9%BE%99to%E7%AD%BE%23" target="weibo">
-李现眼巴巴等马龙to签（热度：321232）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%88%90%E4%BA%9A%E5%86%AC%E4%BC%9A%E9%87%8E%E7%94%9F%E4%BB%A3%E8%A8%80%E4%BA%BA%23" target="weibo">
 王楚钦成亚冬会野生代言人（热度：320887）
 </a>
@@ -3261,14 +3279,14 @@ WTT修改强制参赛规定（热度：345943）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%AC%E5%91%A8%E5%81%9A%E4%BB%80%E4%B9%88%E9%83%BD%E9%A1%BA%E7%9A%84%E6%98%9F%E5%BA%A7%23" target="weibo">
-本周做什么都顺的星座（热度：314502）
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B3%E5%85%AC%E8%B1%B9%E6%8C%A5%E4%B8%80%E9%9E%AD%E7%9B%B8%E5%BD%93%E4%BA%8E300%E4%B8%AA%E7%9A%AE%E5%8D%A1%E4%B8%98%E6%94%BE%E7%94%B5%23" target="weibo">
+申公豹挥一鞭相当于300个皮卡丘放电（热度：314857）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%80%9D%E6%88%90%E4%BA%BA%E7%81%AB%E4%BA%86%E8%84%B8%E5%B0%B1%E5%8F%98%E6%B8%85%E6%99%B0%23" target="weibo">
-董思成人火了脸就变清晰（热度：313968）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%AC%E5%91%A8%E5%81%9A%E4%BB%80%E4%B9%88%E9%83%BD%E9%A1%BA%E7%9A%84%E6%98%9F%E5%BA%A7%23" target="weibo">
+本周做什么都顺的星座（热度：314502）
 </a>
 </li>
 
@@ -3305,6 +3323,12 @@ WTT修改强制参赛规定（热度：345943）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%92%E6%A3%B9%23" target="weibo">
 归棹（热度：309669）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%E8%81%94%E5%8A%A8%23" target="weibo">
+王者国色芳华联动（热度：308924）
 </a>
 </li>
 
@@ -3777,6 +3801,12 @@ WTT修改强制参赛规定（热度：345943）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E7%BE%BD%E6%AF%9B%E5%A4%B4%23" target="weibo">
+刘亦菲羽毛头（热度：273507）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E7%9F%B6%E5%A8%98%E5%A8%98%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E6%BE%84%E6%B8%85%E4%B8%8D%E6%98%AF%E8%A1%8C%E6%94%BF%E4%BA%BA%E5%91%98%23" target="weibo">
 石矶娘娘配音演员澄清不是行政人员（热度：273075）
 </a>
@@ -3891,12 +3921,6 @@ WTT修改强制参赛规定（热度：345943）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B3%E5%85%AC%E8%B1%B9%E6%8C%A5%E4%B8%80%E9%9E%AD%E7%9B%B8%E5%BD%93%E4%BA%8E300%E4%B8%AA%E7%9A%AE%E5%8D%A1%E4%B8%98%E6%94%BE%E7%94%B5%23" target="weibo">
-申公豹挥一鞭相当于300个皮卡丘放电（热度：263505）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%234%E4%B8%87%E4%BD%99%E5%90%8D%E7%BC%85%E5%8C%97%E6%B6%89%E8%AF%88%E4%BA%BA%E5%91%98%E8%A2%AB%E6%89%B9%E6%8D%95%23" target="weibo">
 4万余名缅北涉诈人员被批捕（热度：263377）
 </a>
@@ -3993,12 +4017,6 @@ DeepSeek创始人或跻身全球富豪榜（热度：259315）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E7%BE%BD%E6%AF%9B%E5%A4%B4%23" target="weibo">
-刘亦菲羽毛头（热度：256021）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E7%A5%A8%E6%88%BF%E8%B6%8582%E4%BA%BF%23" target="weibo">
 哪吒2票房超82亿（热度：255493）
 </a>
@@ -4037,6 +4055,12 @@ DeepSeek创始人或跻身全球富豪榜（热度：259315）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E4%BB%AA%E6%80%81%23" target="weibo">
 刘诗诗仪态（热度：253197）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%95%99%E5%87%A0%E6%89%8B%E8%AE%A9%E9%BA%A6%E7%90%B3%E5%B0%91%E5%B0%AC%E8%88%9E%E5%A4%9A%E6%B2%89%E6%B7%80%23" target="weibo">
+留几手让麦琳少尬舞多沉淀（热度：253152）
 </a>
 </li>
 
@@ -4241,12 +4265,6 @@ WTT（热度：240874）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%95%99%E5%87%A0%E6%89%8B%E8%AF%B4%E6%97%A9%E7%9F%A5%E9%81%93%E6%88%91%E4%B9%9F%E4%B8%8D%E7%A6%BB%E4%BA%86%23" target="weibo">
 留几手说早知道我也不离了（热度：238898）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%B4%9B%E6%9D%89%E7%9F%B6%E9%81%87%E5%AE%B3%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E7%A1%AE%E8%AE%A4%E4%BB%96%E6%9D%80%23" target="weibo">
-在洛杉矶遇害中国留学生确认他杀（热度：238031）
 </a>
 </li>
 
@@ -4659,6 +4677,12 @@ AI播报0失误播音专业学生怎么办（热度：222968）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%80%83%E4%B8%8D%E8%BF%87%E4%B8%89%E5%B2%81%E7%9C%8B%E5%A4%A7%E4%B8%83%E5%B2%81%E7%9C%8B%E8%80%81%23" target="weibo">
+逃不过三岁看大七岁看老（热度：220497）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%91%E6%9C%9F%E5%A4%A7%E9%87%8F%E9%BB%84%E9%87%91%E7%AD%89%E8%B4%B5%E9%87%91%E5%B1%9E%E8%A2%AB%E8%BF%90%E5%BE%80%E7%BE%8E%E5%9B%BD%23" target="weibo">
 近期大量黄金等贵金属被运往美国（热度：220430）
 </a>
@@ -4781,6 +4805,12 @@ JDG战胜WBG（热度：218687）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%99%E5%8F%B0%E6%9C%89%E6%A0%91%23" target="weibo">
 仙台有树（热度：216643）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E7%A7%B0%E5%93%AA%E5%90%92%E6%98%AF%E5%8F%AF%E7%88%B1%E5%8F%88%E6%81%B6%E9%AD%94%E8%88%AC%E7%9A%84%E5%AD%A9%E5%AD%90%23" target="weibo">
+美媒称哪吒是可爱又恶魔般的孩子（热度：216403）
 </a>
 </li>
 
@@ -5285,12 +5315,6 @@ SM女团出道预告照（热度：203015）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%81%B6%E4%BA%BA%E5%A4%9A%E6%8B%9C%E4%BD%9B%23" target="weibo">
 为什么恶人多拜佛（热度：201733）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E7%A7%B0%E5%93%AA%E5%90%92%E6%98%AF%E5%8F%AF%E7%88%B1%E5%8F%88%E6%81%B6%E9%AD%94%E8%88%AC%E7%9A%84%E5%AD%A9%E5%AD%90%23" target="weibo">
-美媒称哪吒是可爱又恶魔般的孩子（热度：201713）
 </a>
 </li>
 
@@ -6041,6 +6065,12 @@ EXO今年将结束军白期（热度：193196）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%B7%E5%8C%BB%E4%BF%9D%E4%B9%B0%E5%8D%8E%E4%B8%BA%E6%89%8B%E8%A1%A8%E9%9C%80%E5%BD%93%E5%9C%BA%E6%BF%80%E6%B4%BB%23" target="weibo">
 刷医保买华为手表需当场激活（热度：186429）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8A%E7%95%8CS800%E8%B7%AF%E5%86%B5%E6%B5%8B%E8%AF%95%E8%A1%A8%E6%BC%94%E6%B0%B4%E8%8A%B1%E6%B6%88%E5%A4%B1%E6%9C%AF%23" target="weibo">
+尊界S800路况测试表演水花消失术（热度：186248）
 </a>
 </li>
 
@@ -7011,6 +7041,12 @@ Hanni拒绝ADOR签证续签（热度：163245）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%80%E5%A5%BD%E7%9A%84%E5%A7%90%E5%A6%B9%E6%AD%BB%E5%9C%A8%E4%BA%86%E8%87%AA%E5%B7%B1%E9%9D%A2%E5%89%8D%23" target="weibo">
+最好的姐妹死在了自己面前（热度：162692）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E5%A4%B1%E6%81%8B%E5%8D%8A%E5%A4%9C%E6%95%B4%E7%90%86%E5%85%B1%E4%BA%AB%E7%94%B5%E7%93%B6%E8%BD%A6%23" target="weibo">
 小伙失恋半夜整理共享电瓶车（热度：162545）
 </a>
@@ -7065,6 +7101,12 @@ Hanni拒绝ADOR签证续签（热度：163245）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23NBA%23" target="weibo">
+NBA（热度：161289）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%AA%E5%AE%9A%E4%BA%8B%E4%BB%B6%E7%B0%BF%E7%94%B7%E8%8F%A9%E8%90%A8%23" target="weibo">
 未定事件簿男菩萨（热度：161283）
 </a>
@@ -7097,12 +7139,6 @@ Hanni拒绝ADOR签证续签（热度：163245）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%94%E9%82%AA%E6%81%B6%E8%BD%A6%E5%8E%98%E5%AD%90%E6%9B%B4%E6%B0%94%E4%BA%BA%E7%9A%84%E6%98%AF%E9%82%AA%E6%81%B6%E5%9C%B0%E4%B8%AD%E6%B5%B7%23" target="weibo">
 比邪恶车厘子更气人的是邪恶地中海（热度：160040）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23NBA%23" target="weibo">
-NBA（热度：159966）
 </a>
 </li>
 
@@ -10683,6 +10719,12 @@ Doinb采访（热度：38832）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E9%A2%84%E5%88%A4%E6%9B%B4%E5%A4%9A%E5%A6%A5%E5%8D%8F%E5%8E%8B%E5%8A%9B%E7%BB%99%E5%88%B0%E4%B9%8C%E5%85%8B%E5%85%B0%23" target="weibo">
+美媒预判更多妥协压力给到乌克兰（热度：35179）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%BE%A4%E5%A4%96%E5%9C%B0%E9%98%BF%E5%A7%A8%E5%A5%94%E8%B5%B4%E7%81%BE%E5%8C%BA%E6%8D%90%E8%8F%9C%E5%8F%88%E5%81%9A%E9%A5%AD%23" target="weibo">
 一群外地阿姨奔赴灾区捐菜又做饭（热度：35099）
 </a>
@@ -10805,12 +10847,6 @@ Doinb采访（热度：38832）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%BB%84%E7%8F%8D%E8%B4%B5%E7%85%A7%E7%89%87%E9%80%81%E5%88%AB%E9%BB%84%E8%80%81%23" target="weibo">
 一组珍贵照片送别黄老（热度：31626）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E9%A2%84%E5%88%A4%E6%9B%B4%E5%A4%9A%E5%A6%A5%E5%8D%8F%E5%8E%8B%E5%8A%9B%E7%BB%99%E5%88%B0%E4%B9%8C%E5%85%8B%E5%85%B0%23" target="weibo">
-美媒预判更多妥协压力给到乌克兰（热度：31410）
 </a>
 </li>
 
