@@ -1,6 +1,6 @@
 {
   "startTime": 1739464152455,
-  "endTime": 1739521722720,
+  "endTime": 1739522490897,
   "band_list": [
     {
       "raw_hot": 16764336,
@@ -9,6 +9,14 @@
       "onboard_time": 1739499200,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3406269,
+      "num": 3406269,
+      "word": "蛟龙行动撤档",
+      "onboard_time": 1739520383,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 2839319,
@@ -25,14 +33,6 @@
       "onboard_time": 1739494700,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 2427666,
-      "num": 2427666,
-      "word": "蛟龙行动撤档",
-      "onboard_time": 1739520383,
-      "rank": 0,
-      "category": "电影"
     },
     {
       "raw_hot": 2142887,
@@ -97,6 +97,14 @@
       "onboard_time": 1739501242,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1415601,
+      "num": 1238910,
+      "word": "哪吒2官博回复苏新皓",
+      "onboard_time": 1739519422,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 1341715,
@@ -211,14 +219,6 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 1041822,
-      "num": 1238910,
-      "word": "哪吒2官博回复苏新皓",
-      "onboard_time": 1739519422,
-      "rank": 7,
-      "category": "电影"
-    },
-    {
       "raw_hot": 969826,
       "num": 775809,
       "word": "张艺谋祝贺哪吒2破百亿",
@@ -289,6 +289,14 @@
       "onboard_time": 1739507544,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 624278,
+      "num": 624278,
+      "word": "情人节官宣的明星",
+      "onboard_time": 1739519960,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 604521,
@@ -387,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 494044,
+      "num": 494044,
+      "word": "爸爸要女儿相亲照片却得来一堆丑照",
+      "onboard_time": 1739520983,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 493767,
       "num": 294918,
       "word": "甄嬛传余莺儿扮演者被行拘",
@@ -460,7 +476,7 @@
     },
     {
       "raw_hot": 418093,
-      "num": 418093,
+      "num": 1079822,
       "word": "海底捞回应消费者疑吃出刀片被划伤",
       "onboard_time": 1739516301,
       "rank": 18,
@@ -499,20 +515,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 385820,
+      "num": 385820,
+      "word": "不小心误入抓娃娃机的设置界面",
+      "onboard_time": 1739517860,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 372781,
       "num": 350624,
       "word": "和暗恋九年的crush同居了",
       "onboard_time": 1739505683,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 372241,
-      "num": 372241,
-      "word": "情人节官宣的明星",
-      "onboard_time": 1739519960,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 372146,
@@ -667,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 323537,
+      "num": 263028,
+      "word": "哪吒2破103亿",
+      "onboard_time": 1739519061,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 318620,
       "num": 318620,
       "word": "无限暖暖",
@@ -681,22 +705,6 @@
       "onboard_time": 1739454084,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 315907,
-      "num": 336246,
-      "word": "不小心误入抓娃娃机的设置界面",
-      "onboard_time": 1739517860,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 312710,
-      "num": 263028,
-      "word": "哪吒2破103亿",
-      "onboard_time": 1739519061,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 312221,
@@ -731,6 +739,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 300064,
+      "num": 217381,
+      "word": "26岁李梦豪壮烈牺牲",
+      "onboard_time": 1739521880,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 299360,
       "num": 278821,
       "word": "樊振东是首位超级金满贯得主",
@@ -752,14 +768,6 @@
       "word": "美军航母在地中海与商船相撞",
       "onboard_time": 1739488996,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 286469,
-      "num": 328561,
-      "word": "爸爸要女儿相亲照片却得来一堆丑照",
-      "onboard_time": 1739520983,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -809,6 +817,14 @@
       "onboard_time": 1739489596,
       "rank": 26,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 258637,
+      "num": 1023849,
+      "word": "面试遭猥亵女子不敢独处每天洗手20遍",
+      "onboard_time": 1739520862,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 253016,
@@ -915,6 +931,14 @@
       "category": "音乐,互联网"
     },
     {
+      "raw_hot": 230363,
+      "num": 203306,
+      "word": "胡静不介意老公长胖多一点",
+      "onboard_time": 1739521942,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229699,
       "num": 297499,
       "word": "开学第一天",
@@ -929,6 +953,14 @@
       "onboard_time": 1739516782,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 224143,
+      "num": 224143,
+      "word": "男子领3只烈犬撕咬小猫并抛尸",
+      "onboard_time": 1739519182,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 223462,
@@ -1051,20 +1083,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203083,
+      "num": 203083,
+      "word": "2025金像奖提名名单",
+      "onboard_time": 1739521942,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 203016,
       "num": 203016,
       "word": "时代少年团成团第2000天",
       "onboard_time": 1739520681,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 202801,
-      "num": 202801,
-      "word": "男子领3只烈犬撕咬小猫并抛尸",
-      "onboard_time": 1739519182,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 202276,
@@ -1387,19 +1419,19 @@
       "category": "电影,数码"
     },
     {
+      "raw_hot": 161438,
+      "num": 161438,
+      "word": "黑神话悟空说要开始努力了",
+      "onboard_time": 1739522001,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 161142,
       "num": 161142,
       "word": "校友愤怒回应洛杉矶中国留学生被杀",
       "onboard_time": 1739452223,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161134,
-      "num": 324877,
-      "word": "面试遭猥亵女子不敢独处每天洗手20遍",
-      "onboard_time": 1739520862,
-      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -1531,6 +1563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139176,
+      "num": 149973,
+      "word": "美国军机罕见抵达莫斯科",
+      "onboard_time": 1739519481,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 138817,
       "num": 138817,
       "word": "孙怡cha了九万字",
@@ -1659,6 +1699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113649,
+      "num": 339287,
+      "word": "官方回应电线杆倒塌砸中路人",
+      "onboard_time": 1739520442,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112533,
       "num": 276581,
       "word": "哪吒2配音空降超话",
@@ -1769,6 +1817,14 @@
       "onboard_time": 1739461161,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94375,
+      "num": 1044108,
+      "word": "母亲说瑶一瑶小肉包没受伤",
+      "onboard_time": 1739521762,
+      "rank": 8,
+      "category": "网红"
     },
     {
       "raw_hot": 92836,
@@ -2083,6 +2139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49492,
+      "num": 326980,
+      "word": "伊朗拒绝向美羞辱投降",
+      "onboard_time": 1739521582,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 49382,
       "num": 279292,
       "word": "寒假作业赶工现场的紧张感",
@@ -2131,6 +2195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38972,
+      "num": 228042,
+      "word": "老年妆李艾表白85岁老公看哭我",
+      "onboard_time": 1739522001,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 38725,
       "num": 135378,
       "word": "Gumayusi安慰Doran",
@@ -2171,14 +2243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 36621,
-      "num": 326980,
-      "word": "伊朗拒绝向美羞辱投降",
-      "onboard_time": 1739521582,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 36426,
       "num": 205798,
       "word": "宁走十步远不走一步险",
@@ -2209,14 +2273,6 @@
       "onboard_time": 1739496500,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 34830,
-      "num": 339287,
-      "word": "官方回应电线杆倒塌砸中路人",
-      "onboard_time": 1739520442,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34079,
@@ -2267,6 +2323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25167,
+      "num": 324668,
+      "word": "普京特朗普通话传递何种信号",
+      "onboard_time": 1739521582,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 23024,
       "num": 228059,
       "word": "剧院就潘宏演出玩梗艾特洗澡道歉",
@@ -2307,6 +2371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 17779,
+      "num": 207155,
+      "word": "西蒙斯快船首秀",
+      "onboard_time": 1739513422,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 17282,
       "num": 24691,
       "word": "登陆少年新专辑演唱会准备中",
@@ -2321,14 +2393,6 @@
       "onboard_time": 1739474651,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 15813,
-      "num": 203899,
-      "word": "西蒙斯快船首秀",
-      "onboard_time": 1739513422,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 15596,
@@ -2387,12 +2451,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 8280,
-      "num": 324668,
-      "word": "普京特朗普通话传递何种信号",
-      "onboard_time": 1739521582,
-      "rank": 29,
-      "category": "国际时政"
+      "raw_hot": 8006,
+      "num": 209287,
+      "word": "世界乒联祝王艺迪生日快乐",
+      "onboard_time": 1739522300,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 7103,
