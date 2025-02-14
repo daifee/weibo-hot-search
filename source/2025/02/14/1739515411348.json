@@ -1,0 +1,410 @@
+{
+  "runTime": 1739515411348,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4186470,
+        "num": 4186470,
+        "word": "赵磊官宣结婚",
+        "onboard_time": 1739499200,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1202086,
+        "num": 1202086,
+        "word": "保时捷格局",
+        "onboard_time": 1739509883,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 121875,
+        "num": 1023644,
+        "word": "谢谢你哈尔滨",
+        "onboard_time": 1739502622,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1868473,
+        "num": 982428,
+        "word": "方力申官宣结婚",
+        "onboard_time": 1739512162,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 904326,
+        "num": 904326,
+        "word": "手机半夜自己下单1.5万元手表",
+        "onboard_time": 1739511500,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 378340,
+        "num": 378340,
+        "word": "情人节",
+        "onboard_time": 1739464877,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 314947,
+        "num": 314947,
+        "word": "央视曝光卖惨主播骗人流水线",
+        "onboard_time": 1739498359,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307265,
+        "num": 307265,
+        "word": "鲸鱼一口吞下皮划艇运动员又吐出",
+        "onboard_time": 1739505143,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2142887,
+        "num": 302632,
+        "word": "贺美琦加入时代峰峻",
+        "onboard_time": 1739514141,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114201,
+        "num": 297552,
+        "word": "瑶一瑶摆拍争议两个底线不容突破",
+        "onboard_time": 1739514920,
+        "rank": 9,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 906700,
+        "num": 290174,
+        "word": "董力女友晒照官宣恋情",
+        "onboard_time": 1739505863,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 638668,
+        "num": 286195,
+        "word": "瑶一瑶小肉包账号限制评论",
+        "onboard_time": 1739507306,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 605172,
+        "num": 282044,
+        "word": "饺子说哪吒3很难突破哪吒2",
+        "onboard_time": 1739499862,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 596720,
+        "num": 275871,
+        "word": "余承恩妈妈终于承认他帅了",
+        "onboard_time": 1739511982,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50604,
+        "num": 271074,
+        "word": "淘宝回应情人节被甩锅",
+        "onboard_time": 1739512881,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 312835,
+        "num": 261083,
+        "word": "长沙女子半夜惊醒床底揪出黑衣男",
+        "onboard_time": 1739506584,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259366,
+        "num": 259366,
+        "word": "大学生捐精七成以上不达标",
+        "onboard_time": 1739498540,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187007,
+        "num": 246906,
+        "word": "菲律宾夺亚冬会首金韩国队被打懵",
+        "onboard_time": 1739510064,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55707,
+        "num": 239298,
+        "word": "优酷情人节甜度超标",
+        "onboard_time": 1739514200,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237112,
+        "num": 237112,
+        "word": "马柏全风尚志销量",
+        "onboard_time": 1739513661,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1194650,
+        "num": 236927,
+        "word": "半藏森林",
+        "onboard_time": 1739506162,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 585339,
+        "num": 236354,
+        "word": "曝侃爷比安卡将离婚",
+        "onboard_time": 1739514081,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 583188,
+        "num": 235720,
+        "word": "易烊千玺 演唱会",
+        "onboard_time": 1739512640,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 434519,
+        "num": 234993,
+        "word": "无量仙翁祝贺哪吒2破100亿",
+        "onboard_time": 1739507544,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131803,
+        "num": 234391,
+        "word": "祁煜沙绘心海",
+        "onboard_time": 1739514620,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 408607,
+        "num": 233747,
+        "word": "赵磊站姐有这心态做什么都会成功的",
+        "onboard_time": 1739507484,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399809,
+        "num": 232940,
+        "word": "瑶一瑶小肉包",
+        "onboard_time": 1739497580,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 396745,
+        "num": 232663,
+        "word": "票房破百亿后找不到太乙真人了",
+        "onboard_time": 1739503103,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 278610,
+        "num": 231643,
+        "word": "15毫米针头留癌症患者体内30天",
+        "onboard_time": 1739511443,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148814,
+        "num": 231405,
+        "word": "今年玫瑰价格有些任性",
+        "onboard_time": 1739513901,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256957,
+        "num": 230690,
+        "word": "地铁抢座吓坏孩子父亲状告老人",
+        "onboard_time": 1739513422,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 368298,
+        "num": 230274,
+        "word": "家有儿女的雪竟然是毛巾",
+        "onboard_time": 1739494700,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330861,
+        "num": 229723,
+        "word": "赵露思病愈后开工状态",
+        "onboard_time": 1739514500,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161318,
+        "num": 228868,
+        "word": "桑延的爱永远拿得出手",
+        "onboard_time": 1739513841,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49382,
+        "num": 228287,
+        "word": "寒假作业赶工现场的紧张感",
+        "onboard_time": 1739514324,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 227877,
+        "num": 227877,
+        "word": "哪吒2破100亿",
+        "onboard_time": 1739445507,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 208326,
+        "num": 208326,
+        "word": "王俊凯的投入让导演惊讶了",
+        "onboard_time": 1739508744,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 194670,
+        "num": 194670,
+        "word": "妻子的浪漫旅行",
+        "onboard_time": 1739515161,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105404,
+        "num": 193314,
+        "word": "金价大涨年轻人拿父母老首饰换新",
+        "onboard_time": 1739515282,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20931,
+        "num": 193038,
+        "word": "成都新晋轮胎1星餐厅开盲盒",
+        "onboard_time": 1739514920,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 192837,
+        "num": 192837,
+        "word": "骄阳似我",
+        "onboard_time": 1739513542,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192678,
+        "num": 192678,
+        "word": "美国队长",
+        "onboard_time": 1739510481,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 53751,
+        "num": 190816,
+        "word": "王长田发声",
+        "onboard_time": 1739508923,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 71919,
+        "num": 190666,
+        "word": "张智霖吉利银河翼真L380首席机长",
+        "onboard_time": 1739514982,
+        "rank": 43,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 103783,
+        "num": 190630,
+        "word": "大熊猫永明去世",
+        "onboard_time": 1739504663,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190608,
+        "num": 190608,
+        "word": "妻子的浪漫旅行2025官宣",
+        "onboard_time": 1739503161,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182277,
+        "num": 182277,
+        "word": "女子18岁被拐山区生子33年终回家",
+        "onboard_time": 1739508624,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180580,
+        "num": 180580,
+        "word": "2名主播直播吸毒被抓获",
+        "onboard_time": 1739502924,
+        "rank": 47,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 175586,
+        "num": 175586,
+        "word": "特朗普听不懂印度口音英语",
+        "onboard_time": 1739510964,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150323,
+        "num": 150323,
+        "word": "xg杭州",
+        "onboard_time": 1739515342,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#绿水青山瞰我家#"
+    }
+  }
+}

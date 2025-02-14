@@ -1,6 +1,6 @@
 {
   "startTime": 1739464152455,
-  "endTime": 1739514648821,
+  "endTime": 1739515411348,
   "band_list": [
     {
       "raw_hot": 16764336,
@@ -27,6 +27,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2142887,
+      "num": 350024,
+      "word": "贺美琦加入时代峰峻",
+      "onboard_time": 1739514141,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2094019,
       "num": 515279,
       "word": "赵磊qko",
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 1933177,
-      "num": 918037,
+      "num": 982428,
       "word": "方力申官宣结婚",
       "onboard_time": 1739512162,
       "rank": 3,
@@ -57,14 +65,6 @@
       "onboard_time": 1739499862,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1720206,
-      "num": 350024,
-      "word": "贺美琦加入时代峰峻",
-      "onboard_time": 1739514141,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 1651076,
@@ -131,6 +131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1202086,
+      "num": 1202086,
+      "word": "保时捷格局",
+      "onboard_time": 1739509883,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1202074,
       "num": 546081,
       "word": "瑶一瑶小肉包账号限制评论",
@@ -145,14 +153,6 @@
       "onboard_time": 1739451442,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1157044,
-      "num": 1157044,
-      "word": "保时捷格局",
-      "onboard_time": 1739509883,
-      "rank": 34,
-      "category": "汽车"
     },
     {
       "raw_hot": 1131828,
@@ -179,6 +179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 904326,
+      "num": 904326,
+      "word": "手机半夜自己下单1.5万元手表",
+      "onboard_time": 1739511500,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 893220,
       "num": 893220,
       "word": "情人节",
@@ -201,14 +209,6 @@
       "onboard_time": 1739503161,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 775742,
-      "num": 775742,
-      "word": "手机半夜自己下单1.5万元手表",
-      "onboard_time": 1739511500,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 772516,
@@ -243,7 +243,23 @@
       "category": "电影"
     },
     {
-      "raw_hot": 572627,
+      "raw_hot": 596720,
+      "num": 284340,
+      "word": "余承恩妈妈终于承认他帅了",
+      "onboard_time": 1739511982,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 585339,
+      "num": 280150,
+      "word": "曝侃爷比安卡将离婚",
+      "onboard_time": 1739514081,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 583188,
       "num": 291295,
       "word": "易烊千玺 演唱会",
       "onboard_time": 1739512640,
@@ -321,14 +337,6 @@
       "onboard_time": 1739449822,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 483404,
-      "num": 284340,
-      "word": "余承恩妈妈终于承认他帅了",
-      "onboard_time": 1739511982,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 469495,
@@ -507,6 +515,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 330861,
+      "num": 258635,
+      "word": "赵露思病愈后开工状态",
+      "onboard_time": 1739514500,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 328557,
       "num": 268084,
       "word": "马柏全怎么了",
@@ -545,14 +561,6 @@
       "onboard_time": 1739503223,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 318228,
-      "num": 280150,
-      "word": "曝侃爷比安卡将离婚",
-      "onboard_time": 1739514081,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 316545,
@@ -611,6 +619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 278610,
+      "num": 280566,
+      "word": "15毫米针头留癌症患者体内30天",
+      "onboard_time": 1739511443,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 268487,
       "num": 245939,
       "word": "樱桃琥珀",
@@ -651,19 +667,11 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 258635,
-      "num": 258635,
-      "word": "赵露思病愈后开工状态",
-      "onboard_time": 1739514500,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 257287,
-      "num": 280566,
-      "word": "15毫米针头留癌症患者体内30天",
-      "onboard_time": 1739511443,
-      "rank": 25,
+      "raw_hot": 256957,
+      "num": 290370,
+      "word": "地铁抢座吓坏孩子父亲状告老人",
+      "onboard_time": 1739513422,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -729,6 +737,14 @@
       "onboard_time": 1739503462,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 237112,
+      "num": 276018,
+      "word": "马柏全风尚志销量",
+      "onboard_time": 1739513661,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 235578,
@@ -801,14 +817,6 @@
       "onboard_time": 1739490078,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 210115,
-      "num": 276018,
-      "word": "马柏全风尚志销量",
-      "onboard_time": 1739513661,
-      "rank": 31,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 209324,
@@ -923,6 +931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 194670,
+      "num": 194670,
+      "word": "妻子的浪漫旅行",
+      "onboard_time": 1739515161,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194420,
       "num": 194420,
       "word": "美国队长",
@@ -931,8 +947,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 192032,
-      "num": 192032,
+      "raw_hot": 192837,
+      "num": 192837,
       "word": "骄阳似我",
       "onboard_time": 1739513542,
       "rank": 43,
@@ -1060,7 +1076,7 @@
     },
     {
       "raw_hot": 173446,
-      "num": 923082,
+      "num": 1023644,
       "word": "谢谢你哈尔滨",
       "onboard_time": 1739502622,
       "rank": 2,
@@ -1171,12 +1187,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150323,
+      "num": 150323,
+      "word": "xg杭州",
+      "onboard_time": 1739515342,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 149340,
       "num": 149340,
       "word": "子夜归",
       "onboard_time": 1739501783,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148814,
+      "num": 231405,
+      "word": "今年玫瑰价格有些任性",
+      "onboard_time": 1739513901,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148586,
@@ -1209,14 +1241,6 @@
       "onboard_time": 1739460501,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 145628,
-      "num": 205759,
-      "word": "今年玫瑰价格有些任性",
-      "onboard_time": 1739513901,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 145507,
@@ -1307,6 +1331,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 131803,
+      "num": 234391,
+      "word": "祁煜沙绘心海",
+      "onboard_time": 1739514620,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 130449,
       "num": 130449,
       "word": "哪吒王者荣耀联动",
@@ -1363,12 +1395,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 113174,
-      "num": 231242,
-      "word": "祁煜沙绘心海",
-      "onboard_time": 1739514620,
-      "rank": 36,
-      "category": "游戏"
+      "raw_hot": 114201,
+      "num": 297552,
+      "word": "瑶一瑶摆拍争议两个底线不容突破",
+      "onboard_time": 1739514920,
+      "rank": 9,
+      "category": "网红"
     },
     {
       "raw_hot": 112533,
@@ -1427,6 +1459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105404,
+      "num": 193314,
+      "word": "金价大涨年轻人拿父母老首饰换新",
+      "onboard_time": 1739515282,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104334,
       "num": 270574,
       "word": "勇士当了回湖人侠",
@@ -1472,14 +1512,6 @@
       "word": "埃文凯尔回美国后一直称赞中国",
       "onboard_time": 1739461161,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93885,
-      "num": 290370,
-      "word": "地铁抢座吓坏孩子父亲状告老人",
-      "onboard_time": 1739513422,
-      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -1619,6 +1651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 71919,
+      "num": 190666,
+      "word": "张智霖吉利银河翼真L380首席机长",
+      "onboard_time": 1739514982,
+      "rank": 43,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 71709,
       "num": 408044,
       "word": "伴侣之间谁爱的多就是恋爱脑吗",
@@ -1715,12 +1755,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55707,
+      "num": 286426,
+      "word": "优酷情人节甜度超标",
+      "onboard_time": 1739514200,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 54642,
       "num": 238079,
       "word": "中国留学生在美遇害案最新进展",
       "onboard_time": 1739498060,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 53751,
+      "num": 190816,
+      "word": "王长田发声",
+      "onboard_time": 1739508923,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 51014,
@@ -1737,6 +1793,14 @@
       "onboard_time": 1739509403,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 49382,
+      "num": 279292,
+      "word": "寒假作业赶工现场的紧张感",
+      "onboard_time": 1739514324,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 44792,
@@ -1835,14 +1899,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 34341,
-      "num": 286426,
-      "word": "优酷情人节甜度超标",
-      "onboard_time": 1739514200,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 33201,
       "num": 71113,
       "word": "俄乌局势新进展",
@@ -1875,14 +1931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24369,
-      "num": 279292,
-      "word": "寒假作业赶工现场的紧张感",
-      "onboard_time": 1739514324,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 23024,
       "num": 228059,
       "word": "剧院就潘宏演出玩梗艾特洗澡道歉",
@@ -1897,6 +1945,14 @@
       "onboard_time": 1739462059,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 20931,
+      "num": 193038,
+      "word": "成都新晋轮胎1星餐厅开盲盒",
+      "onboard_time": 1739514920,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 20831,

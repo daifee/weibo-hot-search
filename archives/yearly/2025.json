@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1739514648821,
+  "endTime": 1739515411348,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -2315,6 +2315,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 2142887,
+      "num": 350024,
+      "word": "贺美琦加入时代峰峻",
+      "onboard_time": 1739514141,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2136319,
       "num": 2136319,
       "word": "金扫帚提名名单",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1739355081,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2112118,
-      "num": 373231,
-      "word": "殡仪馆证实男子放礼花弹爆炸离世",
-      "onboard_time": 1739341460,
-      "rank": 9,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
