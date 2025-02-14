@@ -1,6 +1,6 @@
 {
   "startTime": 1739464152455,
-  "endTime": 1739517662782,
+  "endTime": 1739518548358,
   "band_list": [
     {
       "raw_hot": 16764336,
@@ -251,20 +251,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 603328,
+      "num": 409223,
+      "word": "曝侃爷比安卡将离婚",
+      "onboard_time": 1739514081,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 599622,
       "num": 352658,
       "word": "赵丽颖发文祝愿中国动画电影越来越好",
       "onboard_time": 1739464157,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 585339,
-      "num": 409223,
-      "word": "曝侃爷比安卡将离婚",
-      "onboard_time": 1739514081,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 583188,
@@ -355,6 +355,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 457139,
+      "num": 356361,
+      "word": "男子为买大G出售5斤黄金净赚80万",
+      "onboard_time": 1739517441,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 455096,
+      "num": 383863,
+      "word": "瑶一瑶摆拍争议两个底线不容突破",
+      "onboard_time": 1739514920,
+      "rank": 9,
+      "category": "网红"
+    },
+    {
       "raw_hot": 447331,
       "num": 447331,
       "word": "国务院国资委正在筹备组建一家新央企",
@@ -403,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 418093,
+      "num": 418093,
+      "word": "海底捞回应消费者疑吃出刀片被划伤",
+      "onboard_time": 1739516301,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 410164,
       "num": 410164,
       "word": "65万元春晚机器人一机难求",
@@ -433,14 +457,6 @@
       "onboard_time": 1739457743,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 383863,
-      "num": 383863,
-      "word": "瑶一瑶摆拍争议两个底线不容突破",
-      "onboard_time": 1739514920,
-      "rank": 9,
-      "category": "网红"
     },
     {
       "raw_hot": 372781,
@@ -523,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 339827,
+      "num": 323817,
+      "word": "张馨予何捷情人节狗粮已送达",
+      "onboard_time": 1739515882,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 339476,
       "num": 289293,
       "word": "洛杉矶遇害女生托福满分拿奖学金",
@@ -579,14 +603,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 323817,
-      "num": 323817,
-      "word": "张馨予何捷情人节狗粮已送达",
-      "onboard_time": 1739515882,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 318620,
       "num": 318620,
       "word": "无限暖暖",
@@ -609,6 +625,14 @@
       "onboard_time": 1739504303,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 308469,
+      "num": 308469,
+      "word": "特朗普说要从台湾手里抢回芯片产业",
+      "onboard_time": 1739515641,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 307805,
@@ -641,6 +665,14 @@
       "onboard_time": 1739500824,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 294894,
+      "num": 412088,
+      "word": "母亲就拍瑶一瑶小肉包被绊倒致歉",
+      "onboard_time": 1739517021,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 292708,
@@ -771,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237233,
+      "num": 370070,
+      "word": "金价大涨年轻人拿父母老首饰换新",
+      "onboard_time": 1739515282,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 237112,
       "num": 276018,
       "word": "马柏全风尚志销量",
@@ -811,6 +851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 226021,
+      "num": 226021,
+      "word": "昭昭墨墨情人节营业啦",
+      "onboard_time": 1739516782,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223462,
       "num": 223462,
       "word": "目击者回忆台湾百货大楼爆炸瞬间",
@@ -819,11 +867,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 221451,
-      "num": 221451,
-      "word": "昭昭墨墨情人节营业啦",
-      "onboard_time": 1739516782,
-      "rank": 39,
+      "raw_hot": 222270,
+      "num": 222270,
+      "word": "邓为回家至少躺一天",
+      "onboard_time": 1739517981,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -833,14 +881,6 @@
       "onboard_time": 1739510064,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 218707,
-      "num": 368986,
-      "word": "金价大涨年轻人拿父母老首饰换新",
-      "onboard_time": 1739515282,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 217882,
@@ -865,6 +905,14 @@
       "onboard_time": 1739488996,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216414,
+      "num": 419069,
+      "word": "周笔畅声生不息微博网友挚爱歌手",
+      "onboard_time": 1739517323,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 214137,
@@ -947,6 +995,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199579,
+      "num": 199579,
+      "word": "张彬彬两千万腹利来了",
+      "onboard_time": 1739517561,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 198809,
+      "num": 198809,
+      "word": "赵露思开工状态",
+      "onboard_time": 1739514500,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197196,
       "num": 197196,
       "word": "入青云",
@@ -1011,6 +1075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191188,
+      "num": 191188,
+      "word": "蛟龙行动",
+      "onboard_time": 1739518161,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 189944,
       "num": 189944,
       "word": "山河枕",
@@ -1033,6 +1105,14 @@
       "onboard_time": 1739513841,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187821,
+      "num": 187821,
+      "word": "冰壶",
+      "onboard_time": 1739517921,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 187475,
@@ -1081,6 +1161,14 @@
       "onboard_time": 1739488576,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181508,
+      "num": 181508,
+      "word": "不小心误入抓娃娃机的设置界面",
+      "onboard_time": 1739517860,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 181505,
@@ -1187,14 +1275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165442,
-      "num": 165442,
-      "word": "男子为买大G出售5斤黄金净赚80万",
-      "onboard_time": 1739517441,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 162241,
       "num": 327765,
       "word": "你有孤独羞耻吗",
@@ -1217,14 +1297,6 @@
       "onboard_time": 1739452223,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 158833,
-      "num": 419069,
-      "word": "周笔畅声生不息微博网友挚爱歌手",
-      "onboard_time": 1739517323,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 157208,
@@ -1280,14 +1352,6 @@
       "word": "子夜归",
       "onboard_time": 1739501783,
       "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 148001,
-      "num": 148001,
-      "word": "张彬彬两千万腹利来了",
-      "onboard_time": 1739517561,
-      "rank": 47,
       "category": "剧集"
     },
     {
@@ -1353,6 +1417,14 @@
       "onboard_time": 1739494162,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 139463,
+      "num": 423447,
+      "word": "中国女子冰壶银牌",
+      "onboard_time": 1739516840,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 138817,
@@ -1547,14 +1619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 103180,
-      "num": 414473,
-      "word": "海底捞回应消费者疑吃出刀片被划伤",
-      "onboard_time": 1739516301,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 102399,
       "num": 148099,
       "word": "辅警跪地狂按救下一条命",
@@ -1657,14 +1721,6 @@
       "onboard_time": 1739494999,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 83567,
-      "num": 412088,
-      "word": "母亲就拍瑶一瑶小肉包被绊倒致歉",
-      "onboard_time": 1739517021,
-      "rank": 19,
-      "category": "网红"
     },
     {
       "raw_hot": 82059,
@@ -1803,14 +1859,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 66321,
-      "num": 423447,
-      "word": "中国女子冰壶银牌",
-      "onboard_time": 1739516840,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 66123,
       "num": 277355,
       "word": "中国男子冰壶铜牌",
@@ -1851,6 +1899,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58891,
+      "num": 383296,
+      "word": "瞿颖晒合照为胡兵庆生",
+      "onboard_time": 1739517501,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 58049,
+      "num": 320166,
+      "word": "无畏祝大家有钱花有桃花",
+      "onboard_time": 1739515521,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 57552,
       "num": 134440,
       "word": "拍卖惨视频引流已经形成产业链",
@@ -1881,14 +1945,6 @@
       "onboard_time": 1739508923,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 51044,
-      "num": 383296,
-      "word": "瞿颖晒合照为胡兵庆生",
-      "onboard_time": 1739517501,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 51014,
@@ -2027,6 +2083,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 34079,
+      "num": 377390,
+      "word": "泰国女选手举照片纪念坠机花滑运动员",
+      "onboard_time": 1739517441,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 33201,
       "num": 71113,
       "word": "俄乌局势新进展",
@@ -2145,14 +2209,6 @@
       "onboard_time": 1739477471,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 11931,
-      "num": 377390,
-      "word": "泰国女选手举照片纪念坠机花滑运动员",
-      "onboard_time": 1739517441,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 10721,

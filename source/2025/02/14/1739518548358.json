@@ -1,0 +1,410 @@
+{
+  "runTime": 1739518548358,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2845715,
+        "num": 2845715,
+        "word": "赵磊官宣结婚",
+        "onboard_time": 1739499200,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1098844,
+        "num": 1098844,
+        "word": "手机半夜自己下单1.5万元手表",
+        "onboard_time": 1739511500,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76770,
+        "num": 987707,
+        "word": "谢谢你哈尔滨",
+        "onboard_time": 1739502622,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 923435,
+        "num": 923435,
+        "word": "方力申官宣结婚",
+        "onboard_time": 1739512162,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479419,
+        "num": 479419,
+        "word": "保时捷格局",
+        "onboard_time": 1739509883,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 418093,
+        "num": 418093,
+        "word": "海底捞回应消费者疑吃出刀片被划伤",
+        "onboard_time": 1739516301,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 741100,
+        "num": 394747,
+        "word": "余承恩妈妈终于承认他帅了",
+        "onboard_time": 1739511982,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 716487,
+        "num": 386212,
+        "word": "哪吒",
+        "onboard_time": 1739516061,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 370494,
+        "num": 370494,
+        "word": "鲸鱼一口吞下皮划艇运动员又吐出",
+        "onboard_time": 1739505143,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237233,
+        "num": 370070,
+        "word": "金价大涨年轻人拿父母老首饰换新",
+        "onboard_time": 1739515282,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1716677,
+        "num": 367779,
+        "word": "贺美琦加入时代峰峻",
+        "onboard_time": 1739514141,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 673842,
+        "num": 366776,
+        "word": "瑶一瑶小肉包账号限制评论",
+        "onboard_time": 1739507306,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 568006,
+        "num": 366324,
+        "word": "饺子说哪吒3很难突破哪吒2",
+        "onboard_time": 1739499862,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 532490,
+        "num": 364776,
+        "word": "董力女友晒照官宣恋情",
+        "onboard_time": 1739505863,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233176,
+        "num": 363514,
+        "word": "15毫米针头留癌症患者体内30天",
+        "onboard_time": 1739511443,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362178,
+        "num": 362178,
+        "word": "情人节",
+        "onboard_time": 1739464877,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 457139,
+        "num": 356361,
+        "word": "男子为买大G出售5斤黄金净赚80万",
+        "onboard_time": 1739517441,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216414,
+        "num": 355205,
+        "word": "周笔畅声生不息微博网友挚爱歌手",
+        "onboard_time": 1739517323,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58891,
+        "num": 348660,
+        "word": "瞿颖晒合照为胡兵庆生",
+        "onboard_time": 1739517501,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294894,
+        "num": 342432,
+        "word": "母亲就拍瑶一瑶小肉包被绊倒致歉",
+        "onboard_time": 1739517021,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 825230,
+        "num": 332644,
+        "word": "半藏森林",
+        "onboard_time": 1739506162,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 603328,
+        "num": 328567,
+        "word": "曝侃爷比安卡将离婚",
+        "onboard_time": 1739514081,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 455096,
+        "num": 321061,
+        "word": "瑶一瑶摆拍争议两个底线不容突破",
+        "onboard_time": 1739514920,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 320337,
+        "num": 320337,
+        "word": "央视曝光卖惨主播骗人流水线",
+        "onboard_time": 1739498359,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58049,
+        "num": 320166,
+        "word": "无畏祝大家有钱花有桃花",
+        "onboard_time": 1739515521,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 423895,
+        "num": 319733,
+        "word": "无量仙翁祝贺哪吒2破100亿",
+        "onboard_time": 1739507544,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 56595,
+        "num": 319213,
+        "word": "张智霖吉利银河翼真L380首席机长",
+        "onboard_time": 1739514982,
+        "rank": 26,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 397980,
+        "num": 318866,
+        "word": "易烊千玺 演唱会",
+        "onboard_time": 1739512640,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 379962,
+        "num": 318436,
+        "word": "票房破百亿后找不到太乙真人了",
+        "onboard_time": 1739503103,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 34079,
+        "num": 317912,
+        "word": "泰国女选手举照片纪念坠机花滑运动员",
+        "onboard_time": 1739517441,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 339827,
+        "num": 317697,
+        "word": "张馨予何捷情人节狗粮已送达",
+        "onboard_time": 1739515882,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317348,
+        "num": 317348,
+        "word": "瑶一瑶小肉包",
+        "onboard_time": 1739497580,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 308469,
+        "num": 308469,
+        "word": "特朗普说要从台湾手里抢回芯片产业",
+        "onboard_time": 1739515641,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 297497,
+        "num": 297497,
+        "word": "张睿家结婚",
+        "onboard_time": 1739515703,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285298,
+        "num": 285298,
+        "word": "家有儿女的雪竟然是毛巾",
+        "onboard_time": 1739494700,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255322,
+        "num": 255322,
+        "word": "地铁抢座吓坏孩子父亲状告老人",
+        "onboard_time": 1739513422,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226021,
+        "num": 226021,
+        "word": "昭昭墨墨情人节营业啦",
+        "onboard_time": 1739516782,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225114,
+        "num": 225114,
+        "word": "用deepseek写的歌在网易云火了",
+        "onboard_time": 1739512582,
+        "rank": 37,
+        "category": "音乐,互联网"
+      },
+      {
+        "raw_hot": 222270,
+        "num": 222270,
+        "word": "邓为回家至少躺一天",
+        "onboard_time": 1739517981,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208992,
+        "num": 208992,
+        "word": "大学生捐精七成以上不达标",
+        "onboard_time": 1739498540,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199579,
+        "num": 199579,
+        "word": "张彬彬两千万腹利来了",
+        "onboard_time": 1739517561,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198809,
+        "num": 198809,
+        "word": "赵露思开工状态",
+        "onboard_time": 1739514500,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191188,
+        "num": 191188,
+        "word": "蛟龙行动",
+        "onboard_time": 1739518161,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188911,
+        "num": 188911,
+        "word": "赵磊qko",
+        "onboard_time": 1739499621,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189383,
+        "num": 188637,
+        "word": "王俊凯的投入让导演惊讶了",
+        "onboard_time": 1739508744,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187821,
+        "num": 187821,
+        "word": "冰壶",
+        "onboard_time": 1739517921,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181508,
+        "num": 181508,
+        "word": "不小心误入抓娃娃机的设置界面",
+        "onboard_time": 1739517860,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148336,
+        "num": 148336,
+        "word": "今年玫瑰价格有些任性",
+        "onboard_time": 1739513901,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139463,
+        "num": 139463,
+        "word": "中国女子冰壶银牌",
+        "onboard_time": 1739516840,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116180,
+        "num": 136724,
+        "word": "2名主播直播吸毒被抓获",
+        "onboard_time": 1739502924,
+        "rank": 49,
+        "category": "民生新闻,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#绿水青山瞰我家#"
+    }
+  }
+}
