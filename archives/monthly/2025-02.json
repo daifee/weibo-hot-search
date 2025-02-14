@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739511525827,
+  "endTime": 1739514648821,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1043,6 +1043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1933177,
+      "num": 918037,
+      "word": "方力申官宣结婚",
+      "onboard_time": 1739512162,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1931139,
       "num": 1931139,
       "word": "吴磊赵露思 三搭",
@@ -1337,6 +1345,14 @@
       "onboard_time": 1738754065,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1720206,
+      "num": 350024,
+      "word": "贺美琦加入时代峰峻",
+      "onboard_time": 1739514141,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1715829,
@@ -2529,6 +2545,14 @@
       "onboard_time": 1738405697,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1157044,
+      "num": 1157044,
+      "word": "保时捷格局",
+      "onboard_time": 1739509883,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 1156881,
@@ -4401,6 +4425,14 @@
       "onboard_time": 1738586129,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 775742,
+      "num": 775742,
+      "word": "手机半夜自己下单1.5万元手表",
+      "onboard_time": 1739511500,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 775223,
@@ -6419,6 +6451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 572627,
+      "num": 291295,
+      "word": "易烊千玺 演唱会",
+      "onboard_time": 1739512640,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 572379,
       "num": 572379,
       "word": "申公豹不是十二金仙的原因找到了",
@@ -6945,14 +6985,6 @@
       "onboard_time": 1738385537,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 540059,
-      "num": 540059,
-      "word": "保时捷格局",
-      "onboard_time": 1739509883,
-      "rank": 34,
-      "category": "汽车"
     },
     {
       "raw_hot": 539946,
@@ -8009,6 +8041,14 @@
       "onboard_time": 1738649722,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 483404,
+      "num": 284340,
+      "word": "余承恩妈妈终于承认他帅了",
+      "onboard_time": 1739511982,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 483307,
@@ -11939,6 +11979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 318228,
+      "num": 280150,
+      "word": "曝侃爷比安卡将离婚",
+      "onboard_time": 1739514081,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 318130,
       "num": 318130,
       "word": "国乒欢迎晚宴",
@@ -14355,6 +14403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 258635,
+      "num": 258635,
+      "word": "赵露思病愈后开工状态",
+      "onboard_time": 1739514500,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 258607,
       "num": 258607,
       "word": "郑钦文0比2贾巴尔",
@@ -14457,6 +14513,14 @@
       "onboard_time": 1738818388,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 257287,
+      "num": 280566,
+      "word": "15毫米针头留癌症患者体内30天",
+      "onboard_time": 1739511443,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 257271,
@@ -18027,6 +18091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210115,
+      "num": 276018,
+      "word": "马柏全风尚志销量",
+      "onboard_time": 1739513661,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 210040,
       "num": 210040,
       "word": "王星越给赵晴吓得韩语都出来了",
@@ -18161,6 +18233,14 @@
       "onboard_time": 1739020283,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208849,
+      "num": 208849,
+      "word": "蔡徐坤自制网站",
+      "onboard_time": 1739511203,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 208824,
@@ -20523,14 +20603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 192761,
-      "num": 192761,
-      "word": "蔡徐坤自制网站",
-      "onboard_time": 1739511203,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 192714,
       "num": 132635,
       "word": "云起时",
@@ -20641,6 +20713,14 @@
       "onboard_time": 1738557284,
       "rank": 13,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 192032,
+      "num": 192032,
+      "word": "骄阳似我",
+      "onboard_time": 1739513542,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 192008,
@@ -21240,6 +21320,14 @@
       "word": "漫城",
       "onboard_time": 1739328559,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 188429,
+      "num": 278522,
+      "word": "桑延的爱永远拿得出手",
+      "onboard_time": 1739513841,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -22003,6 +22091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183306,
+      "num": 183306,
+      "word": "特朗普听不懂印度口音英语",
+      "onboard_time": 1739510964,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 183291,
       "num": 183291,
       "word": "原来不止我一个人有过马路羞耻症",
@@ -22425,6 +22521,14 @@
       "onboard_time": 1739162002,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 180461,
+      "num": 180461,
+      "word": "九旬老人日夜大喊唤不来仨儿子",
+      "onboard_time": 1739512461,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180429,
@@ -23268,7 +23372,7 @@
     },
     {
       "raw_hot": 173446,
-      "num": 863960,
+      "num": 923082,
       "word": "谢谢你哈尔滨",
       "onboard_time": 1739502622,
       "rank": 2,
@@ -24857,6 +24961,14 @@
       "onboard_time": 1738746745,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162241,
+      "num": 327765,
+      "word": "你有孤独羞耻吗",
+      "onboard_time": 1739511022,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 162066,
@@ -26891,6 +27003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148586,
+      "num": 148586,
+      "word": "用deepseek写的歌在网易云火了",
+      "onboard_time": 1739512582,
+      "rank": 49,
+      "category": "音乐,互联网"
+    },
+    {
       "raw_hot": 148561,
       "num": 300719,
       "word": "王楚钦林诗栋vs卡尔森法尔克",
@@ -26905,14 +27025,6 @@
       "onboard_time": 1739175560,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 148522,
-      "num": 148522,
-      "word": "特朗普听不懂印度口音英语",
-      "onboard_time": 1739510964,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 148425,
@@ -27328,6 +27440,14 @@
       "word": "直播春运返程高峰",
       "onboard_time": 1738636163,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145628,
+      "num": 205759,
+      "word": "今年玫瑰价格有些任性",
+      "onboard_time": 1739513901,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -27936,14 +28056,6 @@
       "word": "南京地铁",
       "onboard_time": 1738751665,
       "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 142172,
-      "num": 142172,
-      "word": "手机半夜自己下单1.5万元手表",
-      "onboard_time": 1739511500,
-      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -31763,6 +31875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113174,
+      "num": 231242,
+      "word": "祁煜沙绘心海",
+      "onboard_time": 1739514620,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 113150,
       "num": 140338,
       "word": "高速上为救人女子喊到声音嘶哑",
@@ -32905,6 +33025,14 @@
       "onboard_time": 1739112143,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104334,
+      "num": 270574,
+      "word": "勇士当了回湖人侠",
+      "onboard_time": 1739513901,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 104297,
@@ -34059,6 +34187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93885,
+      "num": 290370,
+      "word": "地铁抢座吓坏孩子父亲状告老人",
+      "onboard_time": 1739513422,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93853,
       "num": 138467,
       "word": "竹荪破壳像穿了蓬蓬裙",
@@ -34384,6 +34520,14 @@
       "word": "丽江机场中转服务冷漠寒了游客心",
       "onboard_time": 1739185640,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88637,
+      "num": 277248,
+      "word": "家庭矛盾9旬老人日夜大喊唤仨儿子",
+      "onboard_time": 1739513061,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -34897,6 +35041,14 @@
       "onboard_time": 1739255661,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 82059,
+      "num": 290015,
+      "word": "淘宝回应情人节被甩锅",
+      "onboard_time": 1739512881,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 82032,
@@ -39195,6 +39347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37394,
+      "num": 261364,
+      "word": "哪吒1分钟的打斗画面磨了半年",
+      "onboard_time": 1739514560,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 37281,
       "num": 55534,
       "word": "宁艺卓Giselle自作曲",
@@ -39577,6 +39737,14 @@
       "onboard_time": 1738825343,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 34341,
+      "num": 286426,
+      "word": "优酷情人节甜度超标",
+      "onboard_time": 1739514200,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 34275,
@@ -40771,6 +40939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24369,
+      "num": 279292,
+      "word": "寒假作业赶工现场的紧张感",
+      "onboard_time": 1739514324,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 24158,
       "num": 161169,
       "word": "中国队高质量三跳",
@@ -41473,14 +41649,6 @@
       "onboard_time": 1739205016,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18562,
-      "num": 327765,
-      "word": "你有孤独羞耻吗",
-      "onboard_time": 1739511022,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 18505,

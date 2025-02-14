@@ -1,0 +1,410 @@
+{
+  "runTime": 1739514648821,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5365822,
+        "num": 5365822,
+        "word": "赵磊官宣结婚",
+        "onboard_time": 1739499200,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1157044,
+        "num": 1157044,
+        "word": "保时捷格局",
+        "onboard_time": 1739509883,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 115757,
+        "num": 923082,
+        "word": "谢谢你哈尔滨",
+        "onboard_time": 1739502622,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1933177,
+        "num": 918037,
+        "word": "方力申官宣结婚",
+        "onboard_time": 1739512162,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 775742,
+        "num": 775742,
+        "word": "手机半夜自己下单1.5万元手表",
+        "onboard_time": 1739511500,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 371985,
+        "num": 371985,
+        "word": "央视曝光卖惨主播骗人流水线",
+        "onboard_time": 1739498359,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1720206,
+        "num": 350024,
+        "word": "贺美琦加入时代峰峻",
+        "onboard_time": 1739514141,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 637958,
+        "num": 329156,
+        "word": "瑶一瑶小肉包账号限制评论",
+        "onboard_time": 1739507306,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 303485,
+        "num": 303485,
+        "word": "情人节",
+        "onboard_time": 1739464877,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 293265,
+        "num": 293265,
+        "word": "鲸鱼一口吞下皮划艇运动员又吐出",
+        "onboard_time": 1739505143,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1009463,
+        "num": 292601,
+        "word": "董力女友晒照官宣恋情",
+        "onboard_time": 1739505863,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 603720,
+        "num": 292366,
+        "word": "饺子说哪吒3很难突破哪吒2",
+        "onboard_time": 1739499862,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 572627,
+        "num": 291295,
+        "word": "易烊千玺 演唱会",
+        "onboard_time": 1739512640,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 93885,
+        "num": 290370,
+        "word": "地铁抢座吓坏孩子父亲状告老人",
+        "onboard_time": 1739513422,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82059,
+        "num": 290015,
+        "word": "淘宝回应情人节被甩锅",
+        "onboard_time": 1739512881,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 521370,
+        "num": 289188,
+        "word": "赵磊站姐有这心态做什么都会成功的",
+        "onboard_time": 1739507484,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387942,
+        "num": 287662,
+        "word": "票房破百亿后找不到太乙真人了",
+        "onboard_time": 1739503103,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 385364,
+        "num": 287470,
+        "word": "长沙女子半夜惊醒床底揪出黑衣男",
+        "onboard_time": 1739506584,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34341,
+        "num": 286426,
+        "word": "优酷情人节甜度超标",
+        "onboard_time": 1739514200,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157201,
+        "num": 285962,
+        "word": "菲律宾夺亚冬会首金韩国队被打懵",
+        "onboard_time": 1739510064,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1239026,
+        "num": 284972,
+        "word": "半藏森林",
+        "onboard_time": 1739506162,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483404,
+        "num": 284340,
+        "word": "余承恩妈妈终于承认他帅了",
+        "onboard_time": 1739511982,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 425374,
+        "num": 282989,
+        "word": "无量仙翁祝贺哪吒2破100亿",
+        "onboard_time": 1739507544,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 386017,
+        "num": 282054,
+        "word": "瑶一瑶小肉包",
+        "onboard_time": 1739497580,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 378505,
+        "num": 281469,
+        "word": "家有儿女的雪竟然是毛巾",
+        "onboard_time": 1739494700,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257287,
+        "num": 280566,
+        "word": "15毫米针头留癌症患者体内30天",
+        "onboard_time": 1739511443,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318228,
+        "num": 280150,
+        "word": "曝侃爷比安卡将离婚",
+        "onboard_time": 1739514081,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24369,
+        "num": 279292,
+        "word": "寒假作业赶工现场的紧张感",
+        "onboard_time": 1739514324,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188429,
+        "num": 278522,
+        "word": "桑延的爱永远拿得出手",
+        "onboard_time": 1739513841,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88637,
+        "num": 277248,
+        "word": "家庭矛盾9旬老人日夜大喊唤仨儿子",
+        "onboard_time": 1739513061,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277163,
+        "num": 277163,
+        "word": "大学生捐精七成以上不达标",
+        "onboard_time": 1739498540,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210115,
+        "num": 276018,
+        "word": "马柏全风尚志销量",
+        "onboard_time": 1739513661,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 104334,
+        "num": 270574,
+        "word": "勇士当了回湖人侠",
+        "onboard_time": 1739513901,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306950,
+        "num": 265908,
+        "word": "哪吒2破100亿",
+        "onboard_time": 1739445507,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 37394,
+        "num": 261364,
+        "word": "哪吒1分钟的打斗画面磨了半年",
+        "onboard_time": 1739514560,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 258635,
+        "num": 258635,
+        "word": "赵露思病愈后开工状态",
+        "onboard_time": 1739514500,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113174,
+        "num": 231242,
+        "word": "祁煜沙绘心海",
+        "onboard_time": 1739514620,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 222996,
+        "num": 222996,
+        "word": "王俊凯的投入让导演惊讶了",
+        "onboard_time": 1739508744,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 208849,
+        "num": 208849,
+        "word": "蔡徐坤自制网站",
+        "onboard_time": 1739511203,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145628,
+        "num": 205759,
+        "word": "今年玫瑰价格有些任性",
+        "onboard_time": 1739513901,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204579,
+        "num": 204579,
+        "word": "妻子的浪漫旅行2025官宣",
+        "onboard_time": 1739503161,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199099,
+        "num": 199099,
+        "word": "女子18岁被拐山区生子33年终回家",
+        "onboard_time": 1739508624,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194192,
+        "num": 194192,
+        "word": "美国队长",
+        "onboard_time": 1739510481,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192032,
+        "num": 192032,
+        "word": "骄阳似我",
+        "onboard_time": 1739513542,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183306,
+        "num": 183306,
+        "word": "特朗普听不懂印度口音英语",
+        "onboard_time": 1739510964,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 181505,
+        "num": 181505,
+        "word": "快乐再出发",
+        "onboard_time": 1739513422,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180461,
+        "num": 180461,
+        "word": "九旬老人日夜大喊唤不来仨儿子",
+        "onboard_time": 1739512461,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174899,
+        "num": 174899,
+        "word": "2名主播直播吸毒被抓获",
+        "onboard_time": 1739502924,
+        "rank": 47,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 162241,
+        "num": 162241,
+        "word": "你有孤独羞耻吗",
+        "onboard_time": 1739511022,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148586,
+        "num": 148586,
+        "word": "用deepseek写的歌在网易云火了",
+        "onboard_time": 1739512582,
+        "rank": 49,
+        "category": "音乐,互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#绿水青山瞰我家#"
+    }
+  }
+}
