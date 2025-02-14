@@ -1,6 +1,6 @@
 {
   "startTime": 1739464152455,
-  "endTime": 1739531944495,
+  "endTime": 1739532977199,
   "band_list": [
     {
       "raw_hot": 16764336,
@@ -123,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1486514,
+      "num": 534198,
+      "word": "董力官宣结婚",
+      "onboard_time": 1739528541,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1415601,
       "num": 1238910,
       "word": "哪吒2官博回复苏新皓",
@@ -144,14 +152,6 @@
       "word": "董力女友晒照官宣恋情",
       "onboard_time": 1739505863,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1302015,
-      "num": 534198,
-      "word": "董力官宣结婚",
-      "onboard_time": 1739528541,
-      "rank": 49,
       "category": "艺人"
     },
     {
@@ -241,6 +241,14 @@
       "onboard_time": 1739451442,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1136939,
+      "num": 464996,
+      "word": "看31遍哪吒2女生发声",
+      "onboard_time": 1739530342,
+      "rank": 13,
+      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 1131828,
@@ -371,16 +379,16 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 619743,
-      "num": 310029,
-      "word": "看31遍哪吒2女生发声",
-      "onboard_time": 1739530342,
-      "rank": 13,
-      "category": "民生新闻,电影"
+      "raw_hot": 624115,
+      "num": 309481,
+      "word": "谢娜回复张杰烦人精",
+      "onboard_time": 1739530642,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 617426,
-      "num": 235481,
+      "num": 296274,
       "word": "演员请就位 还播不播",
       "onboard_time": 1739528962,
       "rank": 25,
@@ -459,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 536956,
+      "num": 320142,
+      "word": "哪吒2全球票房TOP15",
+      "onboard_time": 1739531482,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 528003,
       "num": 262178,
       "word": "哪吒2让义乌几年前滞销商品翻红",
@@ -513,14 +529,6 @@
       "onboard_time": 1739514920,
       "rank": 9,
       "category": "网红"
-    },
-    {
-      "raw_hot": 452102,
-      "num": 188759,
-      "word": "谢娜回复张杰烦人精",
-      "onboard_time": 1739530642,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 447331,
@@ -659,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 367301,
+      "num": 258293,
+      "word": "潘宏下架全部视频",
+      "onboard_time": 1739531783,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 366604,
       "num": 273189,
       "word": "枭起青壤",
@@ -689,6 +705,14 @@
       "onboard_time": 1739503343,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 358038,
+      "num": 258150,
+      "word": "蔡徐坤 又是一年蓝玫瑰",
+      "onboard_time": 1739529742,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 352075,
@@ -740,7 +764,7 @@
     },
     {
       "raw_hot": 337769,
-      "num": 188334,
+      "num": 244432,
       "word": "种地吧直播",
       "onboard_time": 1739529983,
       "rank": 27,
@@ -812,7 +836,7 @@
     },
     {
       "raw_hot": 320728,
-      "num": 235386,
+      "num": 258030,
       "word": "郭子凡 等你跟我求婚",
       "onboard_time": 1739528483,
       "rank": 45,
@@ -833,14 +857,6 @@
       "onboard_time": 1739454084,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 312482,
-      "num": 187735,
-      "word": "蔡徐坤 又是一年蓝玫瑰",
-      "onboard_time": 1739529742,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 312221,
@@ -900,7 +916,7 @@
     },
     {
       "raw_hot": 291234,
-      "num": 187599,
+      "num": 257574,
       "word": "杨子黄圣依新综没同框的原因",
       "onboard_time": 1739531062,
       "rank": 33,
@@ -913,14 +929,6 @@
       "onboard_time": 1739488996,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 286462,
-      "num": 320142,
-      "word": "哪吒2全球票房TOP15",
-      "onboard_time": 1739531482,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 283816,
@@ -1235,14 +1243,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 211315,
-      "num": 187236,
-      "word": "潘宏下架全部视频",
-      "onboard_time": 1739531783,
-      "rank": 36,
-      "category": "网红"
-    },
-    {
       "raw_hot": 209324,
       "num": 209324,
       "word": "用男性思维谈恋爱会有多爽",
@@ -1275,6 +1275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208492,
+      "num": 208492,
+      "word": "时代少年团成团第2000天",
+      "onboard_time": 1739520681,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208249,
       "num": 208249,
       "word": "严浩翔今天这个日子有点浪漫",
@@ -1289,6 +1297,14 @@
       "onboard_time": 1739500643,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207673,
+      "num": 164553,
+      "word": "时代少年团三专",
+      "onboard_time": 1739532801,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 206759,
@@ -1345,14 +1361,6 @@
       "onboard_time": 1739521942,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 203016,
-      "num": 203016,
-      "word": "时代少年团成团第2000天",
-      "onboard_time": 1739520681,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 202276,
@@ -1483,6 +1491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194143,
+      "num": 194143,
+      "word": "于适曾高喊蛟龙行动只要公平",
+      "onboard_time": 1739532022,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 192837,
       "num": 192837,
       "word": "骄阳似我",
@@ -1524,7 +1540,7 @@
     },
     {
       "raw_hot": 189276,
-      "num": 236225,
+      "num": 259431,
       "word": "樊振东飞机头的含金量还在上升",
       "onboard_time": 1739528062,
       "rank": 42,
@@ -1747,12 +1763,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165057,
+      "num": 307123,
+      "word": "台民众有人打飞的来大陆看哪吒2",
+      "onboard_time": 1739530281,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 162241,
       "num": 327765,
       "word": "你有孤独羞耻吗",
       "onboard_time": 1739511022,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161760,
+      "num": 161760,
+      "word": "初代吃播网红因身体原因官宣隐退",
+      "onboard_time": 1739532142,
+      "rank": 43,
+      "category": "网红"
     },
     {
       "raw_hot": 161445,
@@ -1833,6 +1865,14 @@
       "onboard_time": 1739523741,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153029,
+      "num": 325719,
+      "word": "外国人看完哪吒2后补习中国神话",
+      "onboard_time": 1739531122,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 152967,
@@ -2052,7 +2092,7 @@
     },
     {
       "raw_hot": 134735,
-      "num": 179361,
+      "num": 252710,
       "word": "领克900将首搭英伟达Thor芯片",
       "onboard_time": 1739530042,
       "rank": 38,
@@ -2081,6 +2121,14 @@
       "onboard_time": 1739514620,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 130734,
+      "num": 259350,
+      "word": "王鹤棣同时拥有詹姆斯库里To签球衣",
+      "onboard_time": 1739532200,
+      "rank": 19,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 130449,
@@ -2137,14 +2185,6 @@
       "onboard_time": 1739516360,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115868,
-      "num": 307123,
-      "word": "台民众有人打飞的来大陆看哪吒2",
-      "onboard_time": 1739530281,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 115818,
@@ -2209,6 +2249,22 @@
       "onboard_time": 1739481972,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 110279,
+      "num": 165441,
+      "word": "拐卖王星的团伙成员全被捕",
+      "onboard_time": 1739531122,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 109318,
+      "num": 161288,
+      "word": "保时捷恭喜小米汽车",
+      "onboard_time": 1739532681,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 109077,
@@ -2276,7 +2332,7 @@
     },
     {
       "raw_hot": 101268,
-      "num": 188876,
+      "num": 259031,
       "word": "智界R7累计大定突破70000台",
       "onboard_time": 1739529383,
       "rank": 40,
@@ -2307,14 +2363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 95057,
-      "num": 165441,
-      "word": "拐卖王星的团伙成员全被捕",
-      "onboard_time": 1739531122,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 94441,
       "num": 127848,
       "word": "埃文凯尔回美国后一直称赞中国",
@@ -2331,12 +2379,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92531,
+      "num": 159813,
+      "word": "胖东来将对两个小段进行追责",
+      "onboard_time": 1739532440,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92130,
       "num": 127557,
       "word": "张凌赫白鹿新戏对打",
       "onboard_time": 1739446526,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90446,
+      "num": 337274,
+      "word": "哪吒2全球动画票房第2名",
+      "onboard_time": 1739532200,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 89461,
@@ -2723,14 +2787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 42193,
-      "num": 325719,
-      "word": "外国人看完哪吒2后补习中国神话",
-      "onboard_time": 1739531122,
-      "rank": 7,
-      "category": "电影"
-    },
-    {
       "raw_hot": 40403,
       "num": 40403,
       "word": "林墨回应公开自己手机号码",
@@ -2891,6 +2947,14 @@
       "category": "民生新闻,议题讨论"
     },
     {
+      "raw_hot": 27211,
+      "num": 331053,
+      "word": "亚冬会闭幕式杂粮煎饼杀回C位",
+      "onboard_time": 1739531783,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26443,
       "num": 31735,
       "word": "尿布狮找到了狮群",
@@ -2937,6 +3001,14 @@
       "onboard_time": 1739511260,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 19673,
+      "num": 257902,
+      "word": "流行快餐式恋爱的男女能找到爱情吗",
+      "onboard_time": 1739531421,
+      "rank": 29,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 19106,
@@ -3019,14 +3091,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 11435,
-      "num": 188035,
-      "word": "流行快餐式恋爱的男女能找到爱情吗",
-      "onboard_time": 1739531421,
-      "rank": 29,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 11159,
       "num": 244065,
       "word": "马柏全发长文回应",
@@ -3057,14 +3121,6 @@
       "onboard_time": 1739469733,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 8816,
-      "num": 187515,
-      "word": "亚冬会闭幕式杂粮煎饼杀回C位",
-      "onboard_time": 1739531783,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 8006,
