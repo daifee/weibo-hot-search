@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739510521024,
+  "endTime": 1739511525827,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -2348,7 +2348,7 @@
     },
     {
       "raw_hot": 1207525,
-      "num": 412441,
+      "num": 419036,
       "word": "票房破百亿后找不到太乙真人了",
       "onboard_time": 1739503103,
       "rank": 10,
@@ -2385,6 +2385,14 @@
       "onboard_time": 1739240779,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1202074,
+      "num": 546081,
+      "word": "瑶一瑶小肉包账号限制评论",
+      "onboard_time": 1739507306,
+      "rank": 9,
+      "category": "网红"
     },
     {
       "raw_hot": 1201938,
@@ -2833,14 +2841,6 @@
       "onboard_time": 1739251520,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1066636,
-      "num": 489141,
-      "word": "瑶一瑶小肉包账号限制评论",
-      "onboard_time": 1739507306,
-      "rank": 9,
-      "category": "网红"
     },
     {
       "raw_hot": 1062062,
@@ -6947,6 +6947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 540059,
+      "num": 540059,
+      "word": "保时捷格局",
+      "onboard_time": 1739509883,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 539946,
       "num": 539946,
       "word": "天官赐福",
@@ -7305,6 +7313,14 @@
       "onboard_time": 1739104461,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 515810,
+      "num": 408491,
+      "word": "长沙女子半夜惊醒床底揪出黑衣男",
+      "onboard_time": 1739506584,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 515657,
@@ -8811,6 +8827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 441303,
+      "num": 407881,
+      "word": "王俊凯的投入让导演惊讶了",
+      "onboard_time": 1739508744,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 441171,
       "num": 441171,
       "word": "周鸿祎回应称自己很委屈",
@@ -9211,14 +9235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 419714,
-      "num": 407881,
-      "word": "王俊凯的投入让导演惊讶了",
-      "onboard_time": 1739508744,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 419278,
       "num": 245650,
       "word": "六姊妹首播收视率破3",
@@ -9409,14 +9425,6 @@
       "onboard_time": 1738991304,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 408491,
-      "num": 408491,
-      "word": "长沙女子半夜惊醒床底揪出黑衣男",
-      "onboard_time": 1739506584,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 408486,
@@ -13419,14 +13427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 280112,
-      "num": 280112,
-      "word": "保时捷格局",
-      "onboard_time": 1739509883,
-      "rank": 34,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 279845,
       "num": 279845,
       "word": "吴京包场",
@@ -16987,6 +16987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 221245,
+      "num": 408265,
+      "word": "菲律宾夺亚冬会首金韩国队被打懵",
+      "onboard_time": 1739510064,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 221032,
       "num": 221032,
       "word": "刘诗诗线下扫楼状态",
@@ -20291,6 +20299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194420,
+      "num": 194420,
+      "word": "美国队长",
+      "onboard_time": 1739510481,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 194205,
       "num": 194205,
       "word": "刘诗诗原声台词好惊艳",
@@ -20505,6 +20521,14 @@
       "onboard_time": 1738309697,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192761,
+      "num": 192761,
+      "word": "蔡徐坤自制网站",
+      "onboard_time": 1739511203,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 192714,
@@ -21921,6 +21945,14 @@
       "onboard_time": 1738576346,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 183817,
+      "num": 164761,
+      "word": "情人节礼物",
+      "onboard_time": 1739048712,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 183810,
@@ -24059,6 +24091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 167507,
+      "num": 408084,
+      "word": "男子90万定二手奔驰50万被挪用",
+      "onboard_time": 1739509403,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167462,
       "num": 167462,
       "word": "王安宇说小巷人家上春晚出息了",
@@ -25755,6 +25795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 156415,
+      "num": 254464,
+      "word": "千娇百媚的男妲己工伤",
+      "onboard_time": 1739510421,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156410,
       "num": 165272,
       "word": "女子半夜惊醒床底发现黑衣男",
@@ -26009,14 +26057,6 @@
       "onboard_time": 1738826185,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 154632,
-      "num": 154632,
-      "word": "千娇百媚的男妲己工伤",
-      "onboard_time": 1739510421,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 154566,
@@ -26867,6 +26907,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 148522,
+      "num": 148522,
+      "word": "特朗普听不懂印度口音英语",
+      "onboard_time": 1739510964,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 148425,
       "num": 169165,
       "word": "陈梦说我永远热爱乒乓球",
@@ -27147,6 +27195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146264,
+      "num": 146264,
+      "word": "哪吒敖丙收拾收拾准备升咖",
+      "onboard_time": 1739511500,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 146218,
       "num": 146218,
       "word": "暗恋一个人10多年什么体验",
@@ -27289,14 +27345,6 @@
       "onboard_time": 1739276301,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 145526,
-      "num": 145526,
-      "word": "美国队长",
-      "onboard_time": 1739510481,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 145507,
@@ -27888,6 +27936,14 @@
       "word": "南京地铁",
       "onboard_time": 1738751665,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142172,
+      "num": 142172,
+      "word": "手机半夜自己下单1.5万元手表",
+      "onboard_time": 1739511500,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -28929,14 +28985,6 @@
       "onboard_time": 1739146639,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 134141,
-      "num": 408265,
-      "word": "菲律宾夺亚冬会首金韩国队被打懵",
-      "onboard_time": 1739510064,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 134102,
@@ -30209,14 +30257,6 @@
       "onboard_time": 1738512318,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 125364,
-      "num": 408084,
-      "word": "男子90万定二手奔驰50万被挪用",
-      "onboard_time": 1739509403,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 125105,
@@ -31947,6 +31987,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 111902,
+      "num": 366334,
+      "word": "周恩来与邓颖超的情书",
+      "onboard_time": 1739507123,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111878,
       "num": 1015969,
       "word": "中国队入场赢得全场欢呼",
@@ -33337,6 +33385,14 @@
       "onboard_time": 1738855285,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100739,
+      "num": 334022,
+      "word": "感情越好的情侣越容易长胖",
+      "onboard_time": 1739509943,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100712,
@@ -34827,14 +34883,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 82170,
-      "num": 260956,
-      "word": "周恩来与邓颖超的情书",
-      "onboard_time": 1739507123,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82160,
       "num": 307973,
       "word": "余莺儿扮演者称驾车逃逸是乱吹牛",
@@ -35633,6 +35681,14 @@
       "onboard_time": 1739446166,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 72139,
+      "num": 285630,
+      "word": "祁煜言出哔行",
+      "onboard_time": 1739511089,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 71935,
@@ -36593,14 +36649,6 @@
       "onboard_time": 1739187082,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 61175,
-      "num": 334022,
-      "word": "感情越好的情侣越容易长胖",
-      "onboard_time": 1739509943,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 61142,
@@ -37889,6 +37937,14 @@
       "onboard_time": 1738896682,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49911,
+      "num": 193152,
+      "word": "王星越情人节送玫瑰花",
+      "onboard_time": 1739509403,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 49898,
@@ -40899,6 +40955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 23024,
+      "num": 228059,
+      "word": "剧院就潘宏演出玩梗艾特洗澡道歉",
+      "onboard_time": 1739508684,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 22919,
       "num": 58608,
       "word": "五星红旗在祖国山河四季中前行",
@@ -41145,6 +41209,14 @@
       "onboard_time": 1738995685,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 20831,
+      "num": 306808,
+      "word": "刘昊然西装背头going我",
+      "onboard_time": 1739511260,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 20782,
@@ -41401,6 +41473,14 @@
       "onboard_time": 1739205016,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18562,
+      "num": 327765,
+      "word": "你有孤独羞耻吗",
+      "onboard_time": 1739511022,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 18505,
@@ -41889,14 +41969,6 @@
       "onboard_time": 1738865353,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14528,
-      "num": 15835,
-      "word": "情人节礼物",
-      "onboard_time": 1739048712,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 14471,
