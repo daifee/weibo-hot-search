@@ -1,6 +1,6 @@
 {
   "startTime": 1739550405629,
-  "endTime": 1739561731738,
+  "endTime": 1739564642867,
   "band_list": [
     {
       "raw_hot": 2090509,
@@ -283,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131654,
+      "num": 44412,
+      "word": "七旬董事长猥亵面试女子没道歉赔偿",
+      "onboard_time": 1739559015,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131421,
       "num": 131421,
       "word": "刘梓晨相柳part来了",
@@ -475,14 +483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 44412,
-      "num": 44412,
-      "word": "七旬董事长猥亵面试女子没道歉赔偿",
-      "onboard_time": 1739559015,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43172,
       "num": 43172,
       "word": "哪吒2全球动画电影票房榜第二",
@@ -579,12 +579,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 14268,
+      "raw_hot": 15675,
       "num": 27550,
       "word": "王者荣耀西施情限",
       "onboard_time": 1739559972,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 15671,
+      "num": 54447,
+      "word": "95后哪吒特效师反复打磨就为争口气",
+      "onboard_time": 1739561232,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 13746,
@@ -601,14 +609,6 @@
       "onboard_time": 1739557633,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 6831,
-      "num": 54447,
-      "word": "95后哪吒特效师反复打磨就为争口气",
-      "onboard_time": 1739561232,
-      "rank": 10,
-      "category": "电影"
     }
   ],
   "hotgov_list": [
