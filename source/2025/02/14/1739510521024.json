@@ -1,0 +1,410 @@
+{
+  "runTime": 1739510521024,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8434603,
+        "num": 8434603,
+        "word": "赵磊官宣结婚",
+        "onboard_time": 1739499200,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 737353,
+        "num": 737353,
+        "word": "央视曝光卖惨主播骗人流水线",
+        "onboard_time": 1739498359,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118951,
+        "num": 494072,
+        "word": "谢谢你哈尔滨",
+        "onboard_time": 1739502622,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1066636,
+        "num": 489141,
+        "word": "瑶一瑶小肉包账号限制评论",
+        "onboard_time": 1739507306,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 481555,
+        "num": 481555,
+        "word": "鲸鱼一口吞下皮划艇运动员又吐出",
+        "onboard_time": 1739505143,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 420229,
+        "num": 420229,
+        "word": "情人节",
+        "onboard_time": 1739464877,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 997903,
+        "num": 416120,
+        "word": "饺子说哪吒3很难突破哪吒2",
+        "onboard_time": 1739499862,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 649712,
+        "num": 412441,
+        "word": "票房破百亿后找不到太乙真人了",
+        "onboard_time": 1739503103,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 408491,
+        "num": 408491,
+        "word": "长沙女子半夜惊醒床底揪出黑衣男",
+        "onboard_time": 1739506584,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19106,
+        "num": 408450,
+        "word": "女子冰壶金牌战中国vs韩国",
+        "onboard_time": 1739509344,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1321071,
+        "num": 408441,
+        "word": "赵磊站姐有这心态做什么都会成功的",
+        "onboard_time": 1739507484,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 792097,
+        "num": 408403,
+        "word": "董力女友晒照官宣恋情",
+        "onboard_time": 1739505863,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 659086,
+        "num": 408333,
+        "word": "无量仙翁祝贺哪吒2破100亿",
+        "onboard_time": 1739507544,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 605831,
+        "num": 408310,
+        "word": "瑶一瑶小肉包",
+        "onboard_time": 1739497580,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 134141,
+        "num": 408265,
+        "word": "菲律宾夺亚冬会首金韩国队被打懵",
+        "onboard_time": 1739510064,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 592426,
+        "num": 408224,
+        "word": "家有儿女的雪竟然是毛巾",
+        "onboard_time": 1739494700,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 472168,
+        "num": 408178,
+        "word": "哪吒2破100亿",
+        "onboard_time": 1739445507,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195879,
+        "num": 408146,
+        "word": "彭楚粤说爱情保安在此",
+        "onboard_time": 1739509702,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46828,
+        "num": 408108,
+        "word": "情人节新中式花束为啥火了",
+        "onboard_time": 1739506525,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125364,
+        "num": 408084,
+        "word": "男子90万定二手奔驰50万被挪用",
+        "onboard_time": 1739509403,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71709,
+        "num": 408044,
+        "word": "伴侣之间谁爱的多就是恋爱脑吗",
+        "onboard_time": 1739508684,
+        "rank": 20,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 188582,
+        "num": 407963,
+        "word": "雷军称小米SU7Ultra定位是新豪车",
+        "onboard_time": 1739505742,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 2074537,
+        "num": 407942,
+        "word": "半藏森林",
+        "onboard_time": 1739506162,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419714,
+        "num": 407881,
+        "word": "王俊凯的投入让导演惊讶了",
+        "onboard_time": 1739508744,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 72615,
+        "num": 407871,
+        "word": "黎深巧克黎",
+        "onboard_time": 1739508504,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 407840,
+        "num": 407840,
+        "word": "qko是初代网红",
+        "onboard_time": 1739501242,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372422,
+        "num": 372422,
+        "word": "2名主播直播吸毒被抓获",
+        "onboard_time": 1739502924,
+        "rank": 26,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 44523,
+        "num": 346987,
+        "word": "除了无量仙翁吒儿还击败了谁",
+        "onboard_time": 1739501363,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 196042,
+        "num": 337858,
+        "word": "姚晨柏林红毯10秒怼脸含金量",
+        "onboard_time": 1739509762,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 61175,
+        "num": 334022,
+        "word": "感情越好的情侣越容易长胖",
+        "onboard_time": 1739509943,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333464,
+        "num": 333464,
+        "word": "大熊猫永明去世",
+        "onboard_time": 1739504663,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326685,
+        "num": 326685,
+        "word": "魏哲鸣郑合惠子新剧官宣",
+        "onboard_time": 1739507665,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290333,
+        "num": 290333,
+        "word": "刘学义孟子义24秒吻戏纯享版",
+        "onboard_time": 1739506403,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287056,
+        "num": 287056,
+        "word": "大学生捐精七成以上不达标",
+        "onboard_time": 1739498540,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280112,
+        "num": 280112,
+        "word": "保时捷格局",
+        "onboard_time": 1739509883,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 268388,
+        "num": 268388,
+        "word": "女子18岁被拐山区生子33年终回家",
+        "onboard_time": 1739508624,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240723,
+        "num": 240723,
+        "word": "妻子的浪漫旅行2025官宣",
+        "onboard_time": 1739503161,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203026,
+        "num": 203026,
+        "word": "柯南情人节杀人事件",
+        "onboard_time": 1739504663,
+        "rank": 37,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 195748,
+        "num": 195748,
+        "word": "逆水寒",
+        "onboard_time": 1739510182,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192063,
+        "num": 192063,
+        "word": "和暗恋九年的crush同居了",
+        "onboard_time": 1739505683,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188161,
+        "num": 188161,
+        "word": "微信开放520元大额红包",
+        "onboard_time": 1739500403,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 182189,
+        "num": 182189,
+        "word": "李惠利梦女",
+        "onboard_time": 1739494402,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181142,
+        "num": 181142,
+        "word": "女生同个视频播6小时后手机留下水印",
+        "onboard_time": 1739503042,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178299,
+        "num": 178299,
+        "word": "这段匿名录音是韩庚和卢靖姗吧",
+        "onboard_time": 1739504242,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174485,
+        "num": 174485,
+        "word": "原神情人节",
+        "onboard_time": 1739510064,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156482,
+        "num": 156482,
+        "word": "瑶一瑶小肉包母亲称停止恶意造谣",
+        "onboard_time": 1739496382,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 154632,
+        "num": 154632,
+        "word": "千娇百媚的男妲己工伤",
+        "onboard_time": 1739510421,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152967,
+        "num": 152967,
+        "word": "蔡徐坤范思哲",
+        "onboard_time": 1739508863,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 148451,
+        "num": 148451,
+        "word": "虞书欣何与新剧官宣",
+        "onboard_time": 1739503343,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145526,
+        "num": 145526,
+        "word": "美国队长",
+        "onboard_time": 1739510481,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#绿水青山瞰我家#"
+    }
+  }
+}
