@@ -1,0 +1,410 @@
+{
+  "runTime": 1739536936242,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1707423,
+        "num": 1707423,
+        "word": "哪吒2被删减画面首度公开",
+        "onboard_time": 1739527763,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 892477,
+        "num": 892477,
+        "word": "Deepseek预测有多靠谱",
+        "onboard_time": 1739534242,
+        "rank": 1,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 9240,
+        "num": 623371,
+        "word": "被办了亚冬会的Harbin整泪目了",
+        "onboard_time": 1739524042,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1604954,
+        "num": 542595,
+        "word": "黄圣依情人节晒照",
+        "onboard_time": 1739533220,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1018575,
+        "num": 516312,
+        "word": "看31遍哪吒2女生发声",
+        "onboard_time": 1739530342,
+        "rank": 4,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 439059,
+        "num": 439059,
+        "word": "26岁李梦豪壮烈牺牲",
+        "onboard_time": 1739521880,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 790399,
+        "num": 434331,
+        "word": "于正新签15后卢雅熙",
+        "onboard_time": 1739534902,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20380,
+        "num": 419269,
+        "word": "闭幕式中国队入场全场欢呼",
+        "onboard_time": 1739536162,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19881,
+        "num": 399447,
+        "word": "尔滨亚冬会闭幕式是个大party",
+        "onboard_time": 1739536162,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132808,
+        "num": 386696,
+        "word": "2025亚冬会闭幕式",
+        "onboard_time": 1739533521,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 963656,
+        "num": 375205,
+        "word": "董力官宣结婚",
+        "onboard_time": 1739528541,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 775344,
+        "num": 355258,
+        "word": "时代少年团三专",
+        "onboard_time": 1739532801,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 119233,
+        "num": 345838,
+        "word": "重庆燃气集团拟被罚810万元",
+        "onboard_time": 1739529622,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 693955,
+        "num": 326339,
+        "word": "哪吒2全球票房TOP15",
+        "onboard_time": 1739531482,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 581325,
+        "num": 314710,
+        "word": "潘宏下架全部视频",
+        "onboard_time": 1739531783,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 530643,
+        "num": 298485,
+        "word": "谢娜回复张杰烦人精",
+        "onboard_time": 1739530642,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 454077,
+        "num": 283896,
+        "word": "情人节官宣的明星",
+        "onboard_time": 1739519960,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13872,
+        "num": 262821,
+        "word": "康辉又在喊大家落座观礼",
+        "onboard_time": 1739536641,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260771,
+        "num": 260771,
+        "word": "为了活下去公交公司将40座改9座",
+        "onboard_time": 1739525721,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165160,
+        "num": 260577,
+        "word": "施展 雨微姐我不认识你",
+        "onboard_time": 1739535622,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 679804,
+        "num": 259202,
+        "word": "赵磊官宣结婚",
+        "onboard_time": 1739499200,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397150,
+        "num": 257463,
+        "word": "蛟龙行动撤档",
+        "onboard_time": 1739520383,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 380441,
+        "num": 256791,
+        "word": "射雕英雄传",
+        "onboard_time": 1739535501,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 294143,
+        "num": 256168,
+        "word": "球员回应WTT优化改革措施",
+        "onboard_time": 1739535381,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 312219,
+        "num": 254825,
+        "word": "演员请就位 还播不播",
+        "onboard_time": 1739528962,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309373,
+        "num": 253820,
+        "word": "蔡徐坤 又是一年蓝玫瑰",
+        "onboard_time": 1739529742,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48399,
+        "num": 252108,
+        "word": "春耕生产陆续展开",
+        "onboard_time": 1739524161,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284056,
+        "num": 251281,
+        "word": "哪吒",
+        "onboard_time": 1739516061,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 268110,
+        "num": 249924,
+        "word": "贺美琦加入时代峰峻",
+        "onboard_time": 1739514141,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70888,
+        "num": 249181,
+        "word": "多人烧炮被鞭炮炸伤从高空跳下",
+        "onboard_time": 1739535141,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248306,
+        "num": 248306,
+        "word": "时代少年团成团第2000天",
+        "onboard_time": 1739520681,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217553,
+        "num": 217553,
+        "word": "情人节微信状态",
+        "onboard_time": 1739534242,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 216643,
+        "num": 216643,
+        "word": "光线传媒给丁禹兮颁发优秀员工奖",
+        "onboard_time": 1739525362,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208861,
+        "num": 208861,
+        "word": "哪吒2各省份票房排名出炉",
+        "onboard_time": 1739527343,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202757,
+        "num": 202757,
+        "word": "哪吒2全球动画票房第2名",
+        "onboard_time": 1739532200,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190960,
+        "num": 190960,
+        "word": "演员请就位播了",
+        "onboard_time": 1739536702,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143573,
+        "num": 184199,
+        "word": "冰雪舞者摘金诠释中国美",
+        "onboard_time": 1739535862,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34445,
+        "num": 180494,
+        "word": "徐梦桃举国旗入场",
+        "onboard_time": 1739535741,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138895,
+        "num": 180338,
+        "word": "面试猥亵女子的董事长关联9家公司",
+        "onboard_time": 1739529983,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180283,
+        "num": 180283,
+        "word": "初代吃播网红因身体原因官宣隐退",
+        "onboard_time": 1739532142,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 179682,
+        "num": 179682,
+        "word": "郭子凡 等你跟我求婚",
+        "onboard_time": 1739528483,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178893,
+        "num": 178893,
+        "word": "结婚前没买结婚后大概也没有",
+        "onboard_time": 1739536522,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174835,
+        "num": 174835,
+        "word": "胡歌马伊琍周冬雨年少不知家卫好",
+        "onboard_time": 1739533641,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173269,
+        "num": 173269,
+        "word": "男子为买大G出售5斤黄金净赚80万",
+        "onboard_time": 1739517441,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150345,
+        "num": 150345,
+        "word": "杨子黄圣依新综没同框的原因",
+        "onboard_time": 1739531062,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149538,
+        "num": 149538,
+        "word": "严浩翔浪漫日子",
+        "onboard_time": 1739536461,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149526,
+        "num": 149526,
+        "word": "演员请就位3",
+        "onboard_time": 1739527941,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149470,
+        "num": 149470,
+        "word": "重庆燃气集团收费问题通报",
+        "onboard_time": 1739528123,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135811,
+        "num": 135811,
+        "word": "面试遭猥亵女子不敢独处每天洗手20遍",
+        "onboard_time": 1739520862,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127742,
+        "num": 127742,
+        "word": "胖东来发布红色内裤调查报告",
+        "onboard_time": 1739525601,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#绿水青山瞰我家#"
+    }
+  }
+}
