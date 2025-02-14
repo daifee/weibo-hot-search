@@ -1,0 +1,410 @@
+{
+  "runTime": 1739529625277,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2672712,
+        "num": 2672712,
+        "word": "哪吒2被删减画面首度公开",
+        "onboard_time": 1739527763,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 820995,
+        "num": 820995,
+        "word": "26岁李梦豪壮烈牺牲",
+        "onboard_time": 1739521880,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35273,
+        "num": 648199,
+        "word": "春耕生产陆续展开",
+        "onboard_time": 1739524161,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 633757,
+        "num": 633757,
+        "word": "为了活下去公交公司将40座改9座",
+        "onboard_time": 1739525721,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 435611,
+        "num": 435611,
+        "word": "切尔诺贝利核电站传出爆炸声",
+        "onboard_time": 1739523622,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1365639,
+        "num": 435408,
+        "word": "赵磊官宣结婚",
+        "onboard_time": 1739499200,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1163425,
+        "num": 434350,
+        "word": "情人节官宣的明星",
+        "onboard_time": 1739519960,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1153352,
+        "num": 433502,
+        "word": "蛟龙行动撤档",
+        "onboard_time": 1739520383,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 315684,
+        "num": 432734,
+        "word": "胖东来发布红色内裤调查报告",
+        "onboard_time": 1739525601,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237178,
+        "num": 431167,
+        "word": "重庆燃气集团收费问题通报",
+        "onboard_time": 1739528123,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 810903,
+        "num": 430478,
+        "word": "光线传媒给丁禹兮颁发优秀员工奖",
+        "onboard_time": 1739525362,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 586808,
+        "num": 430064,
+        "word": "贺美琦加入时代峰峻",
+        "onboard_time": 1739514141,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429188,
+        "num": 429188,
+        "word": "哪吒2官博回复苏新皓",
+        "onboard_time": 1739519422,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 412479,
+        "num": 412479,
+        "word": "董力官宣结婚",
+        "onboard_time": 1739528541,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125910,
+        "num": 347411,
+        "word": "滞留南极游客称花了50万没有赔偿",
+        "onboard_time": 1739527821,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341691,
+        "num": 341691,
+        "word": "哪吒",
+        "onboard_time": 1739516061,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 336813,
+        "num": 336813,
+        "word": "面试遭猥亵女子不敢独处每天洗手20遍",
+        "onboard_time": 1739520862,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328738,
+        "num": 328738,
+        "word": "男子为买大G出售5斤黄金净赚80万",
+        "onboard_time": 1739517441,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238358,
+        "num": 238358,
+        "word": "九尾Cat聊什么要聊两个半小时",
+        "onboard_time": 1739527401,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 178147,
+        "num": 238039,
+        "word": "夫妇花7万5做试管婴儿怀疑被骗",
+        "onboard_time": 1739524461,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291218,
+        "num": 237756,
+        "word": "半藏森林",
+        "onboard_time": 1739506162,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282173,
+        "num": 237293,
+        "word": "哪吒2各省份票房排名出炉",
+        "onboard_time": 1739527343,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 80636,
+        "num": 237006,
+        "word": "杨子如果有一天小丑真的哭了",
+        "onboard_time": 1739529383,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258178,
+        "num": 236513,
+        "word": "演员请就位3",
+        "onboard_time": 1739527941,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173109,
+        "num": 236225,
+        "word": "樊振东飞机头的含金量还在上升",
+        "onboard_time": 1739528062,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249400,
+        "num": 235481,
+        "word": "演员请就位 还播不播",
+        "onboard_time": 1739528962,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235386,
+        "num": 235386,
+        "word": "郭子凡 等你跟我求婚",
+        "onboard_time": 1739528483,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233128,
+        "num": 233128,
+        "word": "手机半夜自己下单1.5万元手表",
+        "onboard_time": 1739511500,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217120,
+        "num": 217120,
+        "word": "哪吒2超104亿",
+        "onboard_time": 1739525901,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 306241,
+        "num": 214051,
+        "word": "山东一公司不结婚就离职规定被叫停",
+        "onboard_time": 1739522541,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205479,
+        "num": 205479,
+        "word": "张远每个情人节都是工作日",
+        "onboard_time": 1739529082,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203909,
+        "num": 203909,
+        "word": "杨子孤独的情人节快乐",
+        "onboard_time": 1739527462,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145452,
+        "num": 198983,
+        "word": "极氪领克完成股权交割",
+        "onboard_time": 1739526202,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 195001,
+        "num": 195001,
+        "word": "易烊千玺 演唱会",
+        "onboard_time": 1739512640,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193421,
+        "num": 193421,
+        "word": "方力申官宣结婚",
+        "onboard_time": 1739512162,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191679,
+        "num": 191679,
+        "word": "谷嘉诚力挺赵磊",
+        "onboard_time": 1739528962,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177304,
+        "num": 177304,
+        "word": "白敬亭难哄裸上身",
+        "onboard_time": 1739526081,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173445,
+        "num": 173445,
+        "word": "景甜张晚意好实在的剧宣方式",
+        "onboard_time": 1739528302,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161253,
+        "num": 161253,
+        "word": "王一博对接辟谣参演女足",
+        "onboard_time": 1739528183,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156423,
+        "num": 156423,
+        "word": "菲律宾爆冷夺金韩国队表情",
+        "onboard_time": 1739523260,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101268,
+        "num": 154913,
+        "word": "智界R7累计大定突破70000台",
+        "onboard_time": 1739529383,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 158198,
+        "num": 154899,
+        "word": "董力女友晒照官宣恋情",
+        "onboard_time": 1739505863,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154748,
+        "num": 154748,
+        "word": "宋亚轩 第一句话重点听一下",
+        "onboard_time": 1739527282,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147842,
+        "num": 147842,
+        "word": "情人节",
+        "onboard_time": 1739464877,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147344,
+        "num": 147344,
+        "word": "时代少年团成团第2000天",
+        "onboard_time": 1739520681,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147301,
+        "num": 147301,
+        "word": "爸爸要女儿相亲照片却得来一堆丑照",
+        "onboard_time": 1739520983,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145055,
+        "num": 145055,
+        "word": "赵露思复工粉裙现身影棚",
+        "onboard_time": 1739526622,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106304,
+        "num": 117865,
+        "word": "中国资产集体狂欢",
+        "onboard_time": 1739527584,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117693,
+        "num": 117693,
+        "word": "金价连涨带火售收两端",
+        "onboard_time": 1739523922,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 89409,
+        "num": 113701,
+        "word": "金价大涨年轻人拿父母老首饰换新",
+        "onboard_time": 1739515282,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#绿水青山瞰我家#"
+    }
+  }
+}

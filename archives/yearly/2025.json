@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1739528601489,
+  "endTime": 1739529625277,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1531,6 +1531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 2672712,
+      "num": 2672712,
+      "word": "哪吒2被删减画面首度公开",
+      "onboard_time": 1739527763,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 2651426,
       "num": 2651426,
       "word": "警方捣毁绑架王星案涉案公司",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1738071094,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2118786,
-      "num": 2118786,
-      "word": "韩某某投敌叛变48小时内被抓",
-      "onboard_time": 1738887321,
-      "rank": 1,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
