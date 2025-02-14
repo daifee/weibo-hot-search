@@ -1,0 +1,410 @@
+{
+  "runTime": 1739521722720,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2427666,
+        "num": 2427666,
+        "word": "蛟龙行动撤档",
+        "onboard_time": 1739520383,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1341715,
+        "num": 1341715,
+        "word": "特朗普说要从台湾手里抢回芯片产业",
+        "onboard_time": 1739515641,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 89339,
+        "num": 1327650,
+        "word": "谢谢你哈尔滨",
+        "onboard_time": 1739502622,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 595956,
+        "num": 1306692,
+        "word": "手机半夜自己下单1.5万元手表",
+        "onboard_time": 1739511500,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2331591,
+        "num": 1296555,
+        "word": "赵磊官宣结婚",
+        "onboard_time": 1739499200,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372146,
+        "num": 1282019,
+        "word": "金价大涨年轻人拿父母老首饰换新",
+        "onboard_time": 1739515282,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1565425,
+        "num": 1248567,
+        "word": "母亲就拍瑶一瑶小肉包被绊倒致歉",
+        "onboard_time": 1739517021,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1041822,
+        "num": 1238910,
+        "word": "哪吒2官博回复苏新皓",
+        "onboard_time": 1739519422,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 50608,
+        "num": 1222286,
+        "word": "中国队金牌奖牌双榜第一",
+        "onboard_time": 1739520741,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54028,
+        "num": 1199395,
+        "word": "中国32枚金牌收官",
+        "onboard_time": 1739520681,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1191455,
+        "num": 1191455,
+        "word": "男子为买大G出售5斤黄金净赚80万",
+        "onboard_time": 1739517441,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1128472,
+        "num": 1128472,
+        "word": "贺美琦加入时代峰峻",
+        "onboard_time": 1739514141,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 604521,
+        "num": 604521,
+        "word": "蛟龙行动",
+        "onboard_time": 1739518161,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 552652,
+        "num": 552652,
+        "word": "方力申官宣结婚",
+        "onboard_time": 1739512162,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414333,
+        "num": 414333,
+        "word": "余承恩妈妈终于承认他帅了",
+        "onboard_time": 1739511982,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413777,
+        "num": 413777,
+        "word": "哪吒",
+        "onboard_time": 1739516061,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 372241,
+        "num": 372241,
+        "word": "情人节官宣的明星",
+        "onboard_time": 1739519960,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339501,
+        "num": 339501,
+        "word": "海底捞回应消费者疑吃出刀片被划伤",
+        "onboard_time": 1739516301,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34830,
+        "num": 339287,
+        "word": "官方回应电线杆倒塌砸中路人",
+        "onboard_time": 1739520442,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315907,
+        "num": 336246,
+        "word": "不小心误入抓娃娃机的设置界面",
+        "onboard_time": 1739517860,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 633247,
+        "num": 334574,
+        "word": "半藏森林",
+        "onboard_time": 1739506162,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413125,
+        "num": 333830,
+        "word": "瑶一瑶小肉包账号限制评论",
+        "onboard_time": 1739507306,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 403241,
+        "num": 330819,
+        "word": "董力女友晒照官宣恋情",
+        "onboard_time": 1739505863,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55407,
+        "num": 328953,
+        "word": "辅警跪地狂按救下一条命",
+        "onboard_time": 1739515461,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286469,
+        "num": 328561,
+        "word": "爸爸要女儿相亲照片却得来一堆丑照",
+        "onboard_time": 1739520983,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36621,
+        "num": 326980,
+        "word": "伊朗拒绝向美羞辱投降",
+        "onboard_time": 1739521582,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 325415,
+        "num": 325415,
+        "word": "张睿家结婚",
+        "onboard_time": 1739515703,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375187,
+        "num": 325215,
+        "word": "曝侃爷比安卡将离婚",
+        "onboard_time": 1739514081,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161134,
+        "num": 324877,
+        "word": "面试遭猥亵女子不敢独处每天洗手20遍",
+        "onboard_time": 1739520862,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8280,
+        "num": 324668,
+        "word": "普京特朗普通话传递何种信号",
+        "onboard_time": 1739521582,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30413,
+        "num": 324286,
+        "word": "哈尔滨亚冬会纪念短片",
+        "onboard_time": 1739510663,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 324276,
+        "num": 324276,
+        "word": "李承铉中国女婿申请出战",
+        "onboard_time": 1739518640,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323214,
+        "num": 323214,
+        "word": "饺子说哪吒3很难突破哪吒2",
+        "onboard_time": 1739499862,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 270217,
+        "num": 270217,
+        "word": "保时捷格局",
+        "onboard_time": 1739509883,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 312710,
+        "num": 263028,
+        "word": "哪吒2破103亿",
+        "onboard_time": 1739519061,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 248513,
+        "num": 248513,
+        "word": "瑶一瑶摆拍争议两个底线不容突破",
+        "onboard_time": 1739514920,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 271993,
+        "num": 245168,
+        "word": "无量仙翁祝贺哪吒2破100亿",
+        "onboard_time": 1739507544,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 234591,
+        "num": 234591,
+        "word": "母亲说今后不会出现伤害瑶一瑶情况",
+        "onboard_time": 1739519182,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 231469,
+        "num": 231469,
+        "word": "鲸鱼一口吞下皮划艇运动员又吐出",
+        "onboard_time": 1739505143,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208249,
+        "num": 208249,
+        "word": "严浩翔今天这个日子有点浪漫",
+        "onboard_time": 1739520802,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168166,
+        "num": 206929,
+        "word": "瑶一瑶小肉包母亲否认刻意冻娃",
+        "onboard_time": 1739517801,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 205626,
+        "num": 205626,
+        "word": "赵露思开工状态",
+        "onboard_time": 1739514500,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15813,
+        "num": 203899,
+        "word": "西蒙斯快船首秀",
+        "onboard_time": 1739513422,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203016,
+        "num": 203016,
+        "word": "时代少年团成团第2000天",
+        "onboard_time": 1739520681,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202801,
+        "num": 202801,
+        "word": "男子领3只烈犬撕咬小猫并抛尸",
+        "onboard_time": 1739519182,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193806,
+        "num": 193806,
+        "word": "大学生捐精七成以上不达标",
+        "onboard_time": 1739498540,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192511,
+        "num": 192511,
+        "word": "金像奖",
+        "onboard_time": 1739520621,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192332,
+        "num": 192332,
+        "word": "易烊千玺 演唱会",
+        "onboard_time": 1739512640,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192196,
+        "num": 192196,
+        "word": "赵磊qko",
+        "onboard_time": 1739499621,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189530,
+        "num": 189530,
+        "word": "票房破百亿后找不到太乙真人了",
+        "onboard_time": 1739503103,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#绿水青山瞰我家#"
+    }
+  }
+}
