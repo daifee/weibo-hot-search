@@ -1,6 +1,6 @@
 {
   "startTime": 1739550405629,
-  "endTime": 1739553585965,
+  "endTime": 1739554608368,
   "band_list": [
     {
       "raw_hot": 2090509,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 274992,
+      "num": 183778,
+      "word": "赵磊结婚谷嘉诚郭子凡在这又唱又跳",
+      "onboard_time": 1739550379,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 265783,
       "num": 265783,
       "word": "胖东来金饰每克便宜100元",
@@ -152,6 +160,14 @@
       "word": "两空乘尿检阳性被停职法医还清白",
       "onboard_time": 1739539583,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 236025,
+      "num": 183507,
+      "word": "广东一地烧炮出意外多人从高空跌落",
+      "onboard_time": 1739552478,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -179,14 +195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 183778,
-      "num": 183778,
-      "word": "赵磊结婚谷嘉诚郭子凡在这又唱又跳",
-      "onboard_time": 1739550379,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 162480,
       "num": 162480,
       "word": "董力官宣结婚",
@@ -201,14 +209,6 @@
       "onboard_time": 1739545042,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 159839,
-      "num": 183507,
-      "word": "广东一地烧炮出意外多人从高空跌落",
-      "onboard_time": 1739552478,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149436,
@@ -233,6 +233,14 @@
       "onboard_time": 1739525721,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139919,
+      "num": 139919,
+      "word": "夏以昼初恋",
+      "onboard_time": 1739550559,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 139637,
@@ -281,14 +289,6 @@
       "onboard_time": 1739541505,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 124575,
-      "num": 124575,
-      "word": "夏以昼初恋",
-      "onboard_time": 1739550559,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 123183,
@@ -481,11 +481,22 @@
       "onboard_time": 1739551337,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 11515,
+      "num": 147822,
+      "word": "台湾青年看哪吒2文化基因动了",
+      "onboard_time": 1739554036,
+      "rank": 9,
+      "category": "电影"
     }
   ],
   "hotgov_list": [
     {
       "word": "#绿水青山瞰我家#"
+    },
+    {
+      "word": "#飞天揽月是中华民族延续千年的梦想#"
     }
   ]
 }
