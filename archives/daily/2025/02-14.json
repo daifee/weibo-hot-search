@@ -1,6 +1,6 @@
 {
   "startTime": 1739464152455,
-  "endTime": 1739537835050,
+  "endTime": 1739539688423,
   "band_list": [
     {
       "raw_hot": 16764336,
@@ -41,6 +41,14 @@
       "onboard_time": 1739494700,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2363990,
+      "num": 262329,
+      "word": "张碧晨晒与女儿合照",
+      "onboard_time": 1739537602,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 2142887,
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 1136939,
-      "num": 559253,
+      "num": 704062,
       "word": "看31遍哪吒2女生发声",
       "onboard_time": 1739530342,
       "rank": 13,
@@ -331,6 +339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 810646,
+      "num": 403358,
+      "word": "姚笛 被删",
+      "onboard_time": 1739539282,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 807900,
       "num": 434331,
       "word": "于正新签15后卢雅熙",
@@ -379,6 +395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 752505,
+      "num": 354604,
+      "word": "射雕英雄传",
+      "onboard_time": 1739535501,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 723990,
       "num": 723990,
       "word": "为了活下去公交公司将40座改9座",
@@ -400,6 +424,14 @@
       "word": "爸爸要女儿相亲照片却得来一堆丑照",
       "onboard_time": 1739520983,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 660365,
+      "num": 660365,
+      "word": "胖东来金饰每克便宜100元",
+      "onboard_time": 1739537782,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -515,14 +547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 540001,
-      "num": 262329,
-      "word": "张碧晨晒与女儿合照",
-      "onboard_time": 1739537602,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 528003,
       "num": 262178,
       "word": "哪吒2让义乌几年前滞销商品翻红",
@@ -585,14 +609,6 @@
       "onboard_time": 1739459661,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 444418,
-      "num": 261291,
-      "word": "射雕英雄传",
-      "onboard_time": 1739535501,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 444004,
@@ -923,6 +939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 306864,
+      "num": 246616,
+      "word": "演员请就位播了",
+      "onboard_time": 1739536702,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306862,
       "num": 306862,
       "word": "光线传媒股价7天暴涨200%",
@@ -984,6 +1008,14 @@
       "word": "美军航母在地中海与商船相撞",
       "onboard_time": 1739488996,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 287799,
+      "num": 287799,
+      "word": "招女辅警须有羽毛球特长当地回应",
+      "onboard_time": 1739538201,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -1049,6 +1081,14 @@
       "onboard_time": 1739489596,
       "rank": 26,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 261952,
+      "num": 246462,
+      "word": "章子怡发飙让张嘉元下去",
+      "onboard_time": 1739539222,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 258178,
@@ -1411,6 +1451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205158,
+      "num": 249215,
+      "word": "徐梦桃夺冠后提极氪7X",
+      "onboard_time": 1739538201,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203909,
       "num": 374356,
       "word": "杨子孤独的情人节快乐",
@@ -1481,14 +1529,6 @@
       "onboard_time": 1739491460,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 199654,
-      "num": 199654,
-      "word": "演员请就位播了",
-      "onboard_time": 1739536702,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 199579,
@@ -1592,6 +1632,14 @@
       "word": "于适曾高喊蛟龙行动只要公平",
       "onboard_time": 1739532022,
       "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 193105,
+      "num": 193105,
+      "word": "哪吒2票房",
+      "onboard_time": 1739534182,
+      "rank": 35,
       "category": "电影"
     },
     {
@@ -1713,6 +1761,14 @@
       "onboard_time": 1739488576,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181768,
+      "num": 181768,
+      "word": "到底谁是魔童啊",
+      "onboard_time": 1739538143,
+      "rank": 37,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 181505,
@@ -1883,6 +1939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 163363,
+      "num": 163363,
+      "word": "谢霆锋说我一定会加场",
+      "onboard_time": 1739538081,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 162241,
       "num": 327765,
       "word": "你有孤独羞耻吗",
@@ -1913,6 +1977,14 @@
       "onboard_time": 1739452223,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160305,
+      "num": 248048,
+      "word": "林俊杰吃饭被粉丝贴脸唱歌",
+      "onboard_time": 1739537241,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 159578,
@@ -1995,6 +2067,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 151688,
+      "num": 151688,
+      "word": "田曦薇 祝福你每个节日都快乐",
+      "onboard_time": 1739538983,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150397,
       "num": 150397,
       "word": "孙颖莎说WTT需要奥运冠军去参赛",
@@ -2051,12 +2131,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 146516,
-      "num": 146516,
-      "word": "林俊杰吃饭被粉丝贴脸唱歌",
-      "onboard_time": 1739537241,
+      "raw_hot": 146711,
+      "num": 146711,
+      "word": "狼队对战KSG",
+      "onboard_time": 1739538983,
       "rank": 44,
-      "category": "艺人"
+      "category": "电竞"
     },
     {
       "raw_hot": 146281,
@@ -2115,6 +2195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 144442,
+      "num": 262742,
+      "word": "林孝埈在线看亚冬会闭幕式",
+      "onboard_time": 1739537062,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144409,
       "num": 144409,
       "word": "pako 明日方舟",
@@ -2129,6 +2217,22 @@
       "onboard_time": 1739535862,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143318,
+      "num": 143318,
+      "word": "两空乘尿检阳性被停职法医还清白",
+      "onboard_time": 1739539583,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142738,
+      "num": 142738,
+      "word": "时代少年团三专含精致手办",
+      "onboard_time": 1739538261,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 142145,
@@ -2305,14 +2409,6 @@
       "onboard_time": 1739458101,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124855,
-      "num": 124855,
-      "word": "胖东来金饰每克便宜100元",
-      "onboard_time": 1739537782,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 121779,
@@ -2555,6 +2651,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90254,
+      "num": 155053,
+      "word": "浪漫的不是花而是送花的人",
+      "onboard_time": 1739537121,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 89592,
+      "num": 247347,
+      "word": "我不懂车还不懂爱吗",
+      "onboard_time": 1739538261,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 89461,
       "num": 127517,
       "word": "mujica",
@@ -2643,12 +2755,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77031,
+      "num": 140009,
+      "word": "2029年亚冬会在沙特举行",
+      "onboard_time": 1739537902,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76806,
       "num": 127069,
       "word": "檀健次祝贺哪吒2",
       "onboard_time": 1739455762,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 74700,
+      "num": 246387,
+      "word": "中医科正成为医院里的高利润科室",
+      "onboard_time": 1739538621,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 73342,
@@ -2739,6 +2867,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 69385,
+      "num": 248970,
+      "word": "哈尔滨亚冬会火炬熄灭",
+      "onboard_time": 1739538742,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68701,
       "num": 238731,
       "word": "男生选情人节餐厅太难了",
@@ -2755,14 +2891,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 67399,
-      "num": 262742,
-      "word": "林孝埈在线看亚冬会闭幕式",
-      "onboard_time": 1739537062,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 66123,
       "num": 277355,
       "word": "中国男子冰壶铜牌",
@@ -2777,6 +2905,14 @@
       "onboard_time": 1739459241,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 64944,
+      "num": 731397,
+      "word": "被办了亚冬会的Harbin整泪目了",
+      "onboard_time": 1739524042,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 64885,
@@ -2963,6 +3099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41333,
+      "num": 250110,
+      "word": "徐梦桃大喊完美的亚冬会",
+      "onboard_time": 1739538801,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40403,
       "num": 40403,
       "word": "林墨回应公开自己手机号码",
@@ -3115,19 +3259,19 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 31337,
+      "num": 249748,
+      "word": "林孝埈谢谢哈尔滨",
+      "onboard_time": 1739539102,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30413,
       "num": 324286,
       "word": "哈尔滨亚冬会纪念短片",
       "onboard_time": 1739510663,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 29323,
-      "num": 676252,
-      "word": "被办了亚冬会的Harbin整泪目了",
-      "onboard_time": 1739524042,
-      "rank": 2,
       "category": "体育"
     },
     {
@@ -3137,14 +3281,6 @@
       "onboard_time": 1739537360,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 28269,
-      "num": 155053,
-      "word": "浪漫的不是花而是送花的人",
-      "onboard_time": 1739537121,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 28177,

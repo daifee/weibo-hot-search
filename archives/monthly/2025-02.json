@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739537835050,
+  "endTime": 1739539688423,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -633,6 +633,14 @@
       "onboard_time": 1739108782,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2363990,
+      "num": 262329,
+      "word": "张碧晨晒与女儿合照",
+      "onboard_time": 1739537602,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 2344339,
@@ -2700,7 +2708,7 @@
     },
     {
       "raw_hot": 1136939,
-      "num": 559253,
+      "num": 704062,
       "word": "看31遍哪吒2女生发声",
       "onboard_time": 1739530342,
       "rank": 13,
@@ -4315,6 +4323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 810646,
+      "num": 403358,
+      "word": "姚笛 被删",
+      "onboard_time": 1739539282,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 809270,
       "num": 674160,
       "word": "哪吒2",
@@ -4712,6 +4728,14 @@
       "word": "哪吒2破83亿",
       "onboard_time": 1739169261,
       "rank": 23,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 752505,
+      "num": 354604,
+      "word": "射雕英雄传",
+      "onboard_time": 1739535501,
+      "rank": 22,
       "category": "电影"
     },
     {
@@ -5537,6 +5561,14 @@
       "onboard_time": 1738624635,
       "rank": 20,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 660365,
+      "num": 660365,
+      "word": "胖东来金饰每克便宜100元",
+      "onboard_time": 1739537782,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 660338,
@@ -7209,14 +7241,6 @@
       "onboard_time": 1738385537,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 540001,
-      "num": 262329,
-      "word": "张碧晨晒与女儿合照",
-      "onboard_time": 1739537602,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 539946,
@@ -9056,14 +9080,6 @@
       "word": "哪吒2破64亿",
       "onboard_time": 1738913181,
       "rank": 35,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 444418,
-      "num": 261291,
-      "word": "射雕英雄传",
-      "onboard_time": 1739535501,
-      "rank": 22,
       "category": "电影"
     },
     {
@@ -12755,6 +12771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 306864,
+      "num": 246616,
+      "word": "演员请就位播了",
+      "onboard_time": 1739536702,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306821,
       "num": 306821,
       "word": "王俊凯现场还原别催",
@@ -13561,6 +13585,14 @@
       "onboard_time": 1739010202,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 287799,
+      "num": 287799,
+      "word": "招女辅警须有羽毛球特长当地回应",
+      "onboard_time": 1739538201,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 287357,
@@ -14633,6 +14665,14 @@
       "onboard_time": 1738545498,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 261952,
+      "num": 246462,
+      "word": "章子怡发飙让张嘉元下去",
+      "onboard_time": 1739539222,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 261761,
@@ -19259,6 +19299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205158,
+      "num": 249215,
+      "word": "徐梦桃夺冠后提极氪7X",
+      "onboard_time": 1739538201,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205091,
       "num": 205091,
       "word": "宋亚轩手电筒",
@@ -20137,14 +20185,6 @@
       "onboard_time": 1739238683,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 199654,
-      "num": 199654,
-      "word": "演员请就位播了",
-      "onboard_time": 1739536702,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 199590,
@@ -23059,6 +23099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181768,
+      "num": 181768,
+      "word": "到底谁是魔童啊",
+      "onboard_time": 1739538143,
+      "rank": 37,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 181720,
       "num": 181720,
       "word": "掌心拍出了唐朝萝莉岛",
@@ -25547,6 +25595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163363,
+      "num": 163363,
+      "word": "谢霆锋说我一定会加场",
+      "onboard_time": 1739538081,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 163362,
       "num": 142665,
       "word": "哪吒2上座率",
@@ -26049,6 +26105,14 @@
       "onboard_time": 1739458402,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 160305,
+      "num": 248048,
+      "word": "林俊杰吃饭被粉丝贴脸唱歌",
+      "onboard_time": 1739537241,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 160303,
@@ -27299,6 +27363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 151688,
+      "num": 151688,
+      "word": "田曦薇 祝福你每个节日都快乐",
+      "onboard_time": 1739538983,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151667,
       "num": 151667,
       "word": "黄旭华生前说要当一辈子无名英雄",
@@ -28075,6 +28147,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 146711,
+      "num": 146711,
+      "word": "狼队对战KSG",
+      "onboard_time": 1739538983,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 146704,
       "num": 131217,
       "word": "饼渣",
@@ -28089,14 +28169,6 @@
       "onboard_time": 1739272941,
       "rank": 41,
       "category": "电影,游戏"
-    },
-    {
-      "raw_hot": 146516,
-      "num": 146516,
-      "word": "林俊杰吃饭被粉丝贴脸唱歌",
-      "onboard_time": 1739537241,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 146514,
@@ -28475,6 +28547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144442,
+      "num": 262742,
+      "word": "林孝埈在线看亚冬会闭幕式",
+      "onboard_time": 1739537062,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144409,
       "num": 144409,
       "word": "pako 明日方舟",
@@ -28739,6 +28819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143318,
+      "num": 143318,
+      "word": "两空乘尿检阳性被停职法医还清白",
+      "onboard_time": 1739539583,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143161,
       "num": 183536,
       "word": "王俊凯才是春节档最大彩蛋",
@@ -28801,6 +28889,14 @@
       "onboard_time": 1739441961,
       "rank": 41,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 142738,
+      "num": 142738,
+      "word": "时代少年团三专含精致手办",
+      "onboard_time": 1739538261,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 142715,
@@ -31337,14 +31433,6 @@
       "onboard_time": 1738562557,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124855,
-      "num": 124855,
-      "word": "胖东来金饰每克便宜100元",
-      "onboard_time": 1739537782,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124845,
@@ -35443,6 +35531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90254,
+      "num": 155053,
+      "word": "浪漫的不是花而是送花的人",
+      "onboard_time": 1739537121,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 90106,
       "num": 79445,
       "word": "陈哲远连麦",
@@ -35481,6 +35577,14 @@
       "onboard_time": 1739100501,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89592,
+      "num": 247347,
+      "word": "我不懂车还不懂爱吗",
+      "onboard_time": 1739538261,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 89462,
@@ -36563,6 +36667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77031,
+      "num": 140009,
+      "word": "2029年亚冬会在沙特举行",
+      "onboard_time": 1739537902,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76806,
       "num": 127069,
       "word": "檀健次祝贺哪吒2",
@@ -36697,6 +36809,14 @@
       "onboard_time": 1739372722,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 74700,
+      "num": 246387,
+      "word": "中医科正成为医院里的高利润科室",
+      "onboard_time": 1739538621,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 74679,
@@ -37083,6 +37203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69385,
+      "num": 248970,
+      "word": "哈尔滨亚冬会火炬熄灭",
+      "onboard_time": 1739538742,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69291,
       "num": 69291,
       "word": "敢于表达是一种被严重低估的能力",
@@ -37323,14 +37451,6 @@
       "category": "动漫,艺人"
     },
     {
-      "raw_hot": 67399,
-      "num": 262742,
-      "word": "林孝埈在线看亚冬会闭幕式",
-      "onboard_time": 1739537062,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 67359,
       "num": 181231,
       "word": "王楚钦谈巴黎奥运会低潮期",
@@ -37489,6 +37609,14 @@
       "onboard_time": 1738351213,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 64944,
+      "num": 731397,
+      "word": "被办了亚冬会的Harbin整泪目了",
+      "onboard_time": 1739524042,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 64741,
@@ -40067,6 +40195,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 41333,
+      "num": 250110,
+      "word": "徐梦桃大喊完美的亚冬会",
+      "onboard_time": 1739538801,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41249,
       "num": 279622,
       "word": "魏建军称智能驾驶实践出真知",
@@ -41315,6 +41451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31337,
+      "num": 249748,
+      "word": "林孝埈谢谢哈尔滨",
+      "onboard_time": 1739539102,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 31143,
       "num": 353620,
       "word": "姜鑫杰生日当天摘银",
@@ -41507,14 +41651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 29323,
-      "num": 676252,
-      "word": "被办了亚冬会的Harbin整泪目了",
-      "onboard_time": 1739524042,
-      "rank": 2,
-      "category": "体育"
-    },
-    {
       "raw_hot": 29274,
       "num": 257897,
       "word": "制作敖光的龙牙刀用了一年半",
@@ -41609,14 +41745,6 @@
       "onboard_time": 1739384712,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28269,
-      "num": 155053,
-      "word": "浪漫的不是花而是送花的人",
-      "onboard_time": 1739537121,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 28250,

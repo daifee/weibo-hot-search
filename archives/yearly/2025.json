@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1739537835050,
+  "endTime": 1739539688423,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1915,6 +1915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2363990,
+      "num": 262329,
+      "word": "张碧晨晒与女儿合照",
+      "onboard_time": 1739537602,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2363224,
       "num": 1371308,
       "word": "周锐官宣恋情",
@@ -2392,14 +2400,6 @@
       "word": "星光大赏主持人好吵",
       "onboard_time": 1735971019,
       "rank": 3,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 2123012,
-      "num": 2123012,
-      "word": "刘涛 母神降临",
-      "onboard_time": 1738071094,
-      "rank": 15,
       "category": "综艺"
     }
   ],
