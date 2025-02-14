@@ -1,6 +1,6 @@
 {
   "startTime": 1739550405629,
-  "endTime": 1739551391159,
+  "endTime": 1739553585965,
   "band_list": [
     {
       "raw_hot": 2090509,
@@ -17,6 +17,14 @@
       "onboard_time": 1739539222,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1045884,
+      "num": 259310,
+      "word": "超90%成年人体内携带接吻病毒",
+      "onboard_time": 1739551278,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 750063,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 661136,
-      "num": 359127,
+      "num": 514099,
       "word": "哪吒2被删减画面首度公开",
       "onboard_time": 1739527763,
       "rank": 7,
@@ -139,14 +147,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 259310,
-      "num": 259310,
-      "word": "超90%成年人体内携带接吻病毒",
-      "onboard_time": 1739551278,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 258976,
       "num": 258976,
       "word": "两空乘尿检阳性被停职法医还清白",
@@ -201,6 +201,14 @@
       "onboard_time": 1739545042,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159839,
+      "num": 183507,
+      "word": "广东一地烧炮出意外多人从高空跌落",
+      "onboard_time": 1739552478,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149436,
@@ -273,6 +281,14 @@
       "onboard_time": 1739541505,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124575,
+      "num": 124575,
+      "word": "夏以昼初恋",
+      "onboard_time": 1739550559,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 123183,
@@ -403,12 +419,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 69241,
-      "num": 108668,
-      "word": "夏以昼初恋",
-      "onboard_time": 1739550559,
-      "rank": 48,
-      "category": "游戏"
+      "raw_hot": 66306,
+      "num": 66306,
+      "word": "单依纯新歌",
+      "onboard_time": 1739553016,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 64158,
+      "num": 110855,
+      "word": "难哄有用心地在哄",
+      "onboard_time": 1739551337,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 59522,
@@ -417,6 +441,22 @@
       "onboard_time": 1739548342,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 50111,
+      "num": 59486,
+      "word": "演员请就位3",
+      "onboard_time": 1739527941,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 38066,
+      "num": 59483,
+      "word": "26岁李梦豪壮烈牺牲",
+      "onboard_time": 1739521880,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28942,
@@ -436,19 +476,11 @@
     },
     {
       "raw_hot": 16053,
-      "num": 108861,
+      "num": 118209,
       "word": "紫幻希望狼队多拿冠军",
       "onboard_time": 1739551337,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 8370,
-      "num": 110855,
-      "word": "难哄有用心地在哄",
-      "onboard_time": 1739551337,
-      "rank": 35,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
