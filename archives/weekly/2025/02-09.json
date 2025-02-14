@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739503585191,
+  "endTime": 1739504428976,
   "band_list": [
     {
       "raw_hot": 18452349,
@@ -500,7 +500,7 @@
     },
     {
       "raw_hot": 1841298,
-      "num": 743710,
+      "num": 767948,
       "word": "饺子说哪吒3很难突破哪吒2",
       "onboard_time": 1739499862,
       "rank": 6,
@@ -1699,6 +1699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 862884,
+      "num": 315753,
+      "word": "瑶一瑶小肉包",
+      "onboard_time": 1739497580,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
       "raw_hot": 859930,
       "num": 522282,
       "word": "谢娜报平安",
@@ -1817,14 +1825,6 @@
       "onboard_time": 1739270540,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 821714,
-      "num": 315753,
-      "word": "瑶一瑶小肉包",
-      "onboard_time": 1739497580,
-      "rank": 29,
-      "category": "网红"
     },
     {
       "raw_hot": 821293,
@@ -1963,12 +1963,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 782011,
+      "num": 323545,
+      "word": "票房破百亿后找不到太乙真人了",
+      "onboard_time": 1739503103,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 780838,
       "num": 780838,
       "word": "张伟丽vs苏亚雷斯",
       "onboard_time": 1739065580,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 780766,
+      "num": 290430,
+      "word": "妻子的浪漫旅行2025官宣",
+      "onboard_time": 1739503161,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 776445,
@@ -2033,6 +2049,14 @@
       "onboard_time": 1739062159,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 761016,
+      "num": 390436,
+      "word": "qko是初代网红",
+      "onboard_time": 1739501242,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 759684,
@@ -2441,14 +2465,6 @@
       "onboard_time": 1739450842,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 662182,
-      "num": 390436,
-      "word": "qko是初代网红",
-      "onboard_time": 1739501242,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 660338,
@@ -3035,6 +3051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 561218,
+      "num": 561218,
+      "word": "微信开放520元大额红包",
+      "onboard_time": 1739500403,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 558985,
       "num": 251175,
       "word": "周扬青晒妈妈买的衣服",
@@ -3611,6 +3635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 485765,
+      "num": 288640,
+      "word": "2名主播直播吸毒被抓获",
+      "onboard_time": 1739502924,
+      "rank": 40,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 485725,
       "num": 407216,
       "word": "怪不得太乙真人说这才像正版哪吒",
@@ -3673,14 +3705,6 @@
       "onboard_time": 1739427859,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 476103,
-      "num": 283579,
-      "word": "妻子的浪漫旅行2025官宣",
-      "onboard_time": 1739503161,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 474100,
@@ -3811,14 +3835,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 453119,
-      "num": 356549,
-      "word": "微信开放520元大额红包",
-      "onboard_time": 1739500403,
-      "rank": 24,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 452178,
       "num": 452178,
       "word": "超级碗",
@@ -3915,20 +3931,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 433647,
+      "num": 287800,
+      "word": "好友曝鬼鬼产后心态很健康",
+      "onboard_time": 1739501962,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 432406,
       "num": 428233,
       "word": "霉霉被狂嘘淡定笑了笑",
       "onboard_time": 1739153058,
       "rank": 7,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 429963,
-      "num": 287800,
-      "word": "好友曝鬼鬼产后心态很健康",
-      "onboard_time": 1739501962,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 427617,
@@ -4683,6 +4699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 358163,
+      "num": 272096,
+      "word": "虞书欣何与新剧官宣",
+      "onboard_time": 1739503343,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 357395,
       "num": 357395,
       "word": "鞠婧祎 花仙",
@@ -5152,6 +5176,14 @@
       "word": "Jennie说基本没有休息日",
       "onboard_time": 1739451621,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 321073,
+      "num": 264124,
+      "word": "郭子凡 已经好多年了",
+      "onboard_time": 1739503161,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -6075,14 +6107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 272096,
-      "num": 272096,
-      "word": "虞书欣何与新剧官宣",
-      "onboard_time": 1739503343,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 271873,
       "num": 271873,
       "word": "原来这些角色都是锤娜丽莎演的",
@@ -6467,14 +6491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 250736,
-      "num": 318289,
-      "word": "票房破百亿后找不到太乙真人了",
-      "onboard_time": 1739503103,
-      "rank": 10,
-      "category": "电影"
-    },
-    {
       "raw_hot": 250691,
       "num": 250691,
       "word": "五福临门大结局",
@@ -6577,6 +6593,14 @@
       "onboard_time": 1739241380,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 246937,
+      "num": 246937,
+      "word": "女生同个视频播6小时后手机留下水印",
+      "onboard_time": 1739503042,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 246756,
@@ -6731,6 +6755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 240791,
+      "num": 240791,
+      "word": "迪丽热巴陈星旭祝大家情人节快乐",
+      "onboard_time": 1739503462,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 240439,
       "num": 230948,
       "word": "哪吒3会比哪吒2快很多",
@@ -6769,14 +6801,6 @@
       "onboard_time": 1739247383,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 238106,
-      "num": 238106,
-      "word": "2名主播直播吸毒被抓获",
-      "onboard_time": 1739502924,
-      "rank": 40,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 237741,
@@ -7643,6 +7667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216885,
+      "num": 291443,
+      "word": "做家务后意识到隐形的女性劳动",
+      "onboard_time": 1739502563,
+      "rank": 19,
+      "category": "情感,综艺"
+    },
+    {
       "raw_hot": 216852,
       "num": 216852,
       "word": "潘宏基地回应限制主人取回狗狗",
@@ -8003,6 +8035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 209193,
+      "num": 209193,
+      "word": "这段匿名录音是韩庚和卢靖姗吧",
+      "onboard_time": 1739504242,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208942,
       "num": 208942,
       "word": "张萌称在悉尼看哪吒2座无虚席",
@@ -8267,14 +8307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 204499,
-      "num": 204499,
-      "word": "女生同个视频播6小时后手机留下水印",
-      "onboard_time": 1739503042,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 204486,
       "num": 204486,
       "word": "领馆回应中国留学生在美遇害",
@@ -8521,6 +8553,14 @@
       "onboard_time": 1739157260,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200941,
+      "num": 196165,
+      "word": "难哄两支预告两种视角",
+      "onboard_time": 1739503161,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 200716,
@@ -8923,14 +8963,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 196165,
-      "num": 196165,
-      "word": "难哄两支预告两种视角",
-      "onboard_time": 1739503161,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 196154,
       "num": 196154,
       "word": "天秤座最舒适的社交关系",
@@ -9051,14 +9083,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 194511,
-      "num": 241479,
-      "word": "郭子凡 已经好多年了",
-      "onboard_time": 1739503161,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 194477,
       "num": 211397,
       "word": "刘少林赛后发文",
@@ -9121,6 +9145,14 @@
       "onboard_time": 1739082140,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 193465,
+      "num": 193465,
+      "word": "刘敏涛25岁精神状态20的腰",
+      "onboard_time": 1739504063,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 193455,
@@ -9363,6 +9395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 190103,
+      "num": 190103,
+      "word": "情人节和自担官宣结婚",
+      "onboard_time": 1739504303,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190054,
       "num": 190054,
       "word": "Ming亲Uzi",
@@ -9419,14 +9459,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189540,
-      "num": 189540,
-      "word": "迪丽热巴陈星旭祝大家情人节快乐",
-      "onboard_time": 1739503462,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 189450,
       "num": 189450,
       "word": "书卷一梦",
@@ -9449,6 +9481,14 @@
       "onboard_time": 1739099422,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189353,
+      "num": 192134,
+      "word": "华尔街专家震惊于Deepseek太便宜了",
+      "onboard_time": 1739503702,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 189299,
@@ -9865,6 +9905,14 @@
       "onboard_time": 1739254220,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182929,
+      "num": 192783,
+      "word": "浪漫游戏",
+      "onboard_time": 1739504003,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 182926,
@@ -12411,6 +12459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142899,
+      "num": 863960,
+      "word": "谢谢你哈尔滨",
+      "onboard_time": 1739502622,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142812,
       "num": 142812,
       "word": "人民空军正积极与古巴老爷爷联系",
@@ -12545,14 +12601,6 @@
       "onboard_time": 1739094499,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 141361,
-      "num": 291443,
-      "word": "做家务后意识到隐形的女性劳动",
-      "onboard_time": 1739502563,
-      "rank": 19,
-      "category": "情感,综艺"
     },
     {
       "raw_hot": 141208,
@@ -12803,6 +12851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136095,
+      "num": 278190,
+      "word": "勇士vs火箭",
+      "onboard_time": 1739503282,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135883,
       "num": 135883,
       "word": "权志龙新专辑",
@@ -12952,14 +13008,6 @@
       "word": "樊振东千里红运",
       "onboard_time": 1739341762,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 133799,
-      "num": 277783,
-      "word": "勇士vs火箭",
-      "onboard_time": 1739503282,
-      "rank": 26,
       "category": "体育"
     },
     {
@@ -14539,6 +14587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 101642,
+      "num": 275072,
+      "word": "美国人为吃鸡蛋开始养鸡",
+      "onboard_time": 1739502861,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 101604,
       "num": 689283,
       "word": "祝贺国乒女单包揽冠亚军",
@@ -15499,14 +15555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 69595,
-      "num": 275072,
-      "word": "美国人为吃鸡蛋开始养鸡",
-      "onboard_time": 1739502861,
-      "rank": 29,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 69291,
       "num": 69291,
       "word": "敢于表达是一种被严重低估的能力",
@@ -15521,6 +15569,14 @@
       "onboard_time": 1739422163,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68701,
+      "num": 238731,
+      "word": "男生选情人节餐厅太难了",
+      "onboard_time": 1739502083,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 68656,
@@ -15657,14 +15713,6 @@
       "onboard_time": 1738993765,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 65081,
-      "num": 238731,
-      "word": "男生选情人节餐厅太难了",
-      "onboard_time": 1739502083,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 64434,
@@ -15873,14 +15921,6 @@
       "onboard_time": 1739440642,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 60764,
-      "num": 863960,
-      "word": "谢谢你哈尔滨",
-      "onboard_time": 1739502622,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 60535,
@@ -16649,6 +16689,14 @@
       "onboard_time": 1739247501,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 44792,
+      "num": 306977,
+      "word": "百亿哪吒背后的动画新王光线",
+      "onboard_time": 1739503042,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 44527,
@@ -17865,14 +17913,6 @@
       "onboard_time": 1739085740,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 22328,
-      "num": 306977,
-      "word": "百亿哪吒背后的动画新王光线",
-      "onboard_time": 1739503042,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 22291,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1739504428976,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 13226722,
+        "num": 13226722,
+        "word": "赵磊官宣结婚",
+        "onboard_time": 1739499200,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1054456,
+        "num": 1054456,
+        "word": "央视曝光卖惨主播骗人流水线",
+        "onboard_time": 1739498359,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142899,
+        "num": 796520,
+        "word": "谢谢你哈尔滨",
+        "onboard_time": 1739502622,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1729536,
+        "num": 767948,
+        "word": "饺子说哪吒3很难突破哪吒2",
+        "onboard_time": 1739499862,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 561218,
+        "num": 561218,
+        "word": "微信开放520元大额红包",
+        "onboard_time": 1739500403,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 348666,
+        "num": 348666,
+        "word": "两千万粉丝小网红母亲回应摆拍质疑",
+        "onboard_time": 1739451442,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 992660,
+        "num": 337333,
+        "word": "家有儿女的雪竟然是毛巾",
+        "onboard_time": 1739494700,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 782011,
+        "num": 323545,
+        "word": "票房破百亿后找不到太乙真人了",
+        "onboard_time": 1739503103,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 452832,
+        "num": 318463,
+        "word": "情人节",
+        "onboard_time": 1739464877,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 293544,
+        "num": 293544,
+        "word": "无限暖暖",
+        "onboard_time": 1739503223,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 862884,
+        "num": 293057,
+        "word": "瑶一瑶小肉包",
+        "onboard_time": 1739497580,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 780766,
+        "num": 290430,
+        "word": "妻子的浪漫旅行2025官宣",
+        "onboard_time": 1739503161,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 541551,
+        "num": 289978,
+        "word": "哪吒2破100亿",
+        "onboard_time": 1739445507,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 485765,
+        "num": 288640,
+        "word": "2名主播直播吸毒被抓获",
+        "onboard_time": 1739502924,
+        "rank": 13,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 44792,
+        "num": 286108,
+        "word": "百亿哪吒背后的动画新王光线",
+        "onboard_time": 1739503042,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 433647,
+        "num": 285326,
+        "word": "好友曝鬼鬼产后心态很健康",
+        "onboard_time": 1739501962,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429907,
+        "num": 282268,
+        "word": "大学生捐精七成以上不达标",
+        "onboard_time": 1739498540,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191984,
+        "num": 281711,
+        "word": "开学第一天",
+        "onboard_time": 1739498000,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338120,
+        "num": 280252,
+        "word": "中国留学生在美遇害案嫌疑人照片公布",
+        "onboard_time": 1739497761,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 136095,
+        "num": 278190,
+        "word": "勇士vs火箭",
+        "onboard_time": 1739503282,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 513289,
+        "num": 277200,
+        "word": "瑶一瑶小肉包母亲称停止恶意造谣",
+        "onboard_time": 1739496382,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1742845,
+        "num": 275447,
+        "word": "赵磊qko",
+        "onboard_time": 1739499621,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 761016,
+        "num": 272549,
+        "word": "qko是初代网红",
+        "onboard_time": 1739501242,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404010,
+        "num": 271352,
+        "word": "哪吒2连说100个谢谢",
+        "onboard_time": 1739489296,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 216885,
+        "num": 269473,
+        "word": "做家务后意识到隐形的女性劳动",
+        "onboard_time": 1739502563,
+        "rank": 24,
+        "category": "情感,综艺"
+      },
+      {
+        "raw_hot": 358163,
+        "num": 268858,
+        "word": "虞书欣何与新剧官宣",
+        "onboard_time": 1739503343,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321146,
+        "num": 267341,
+        "word": "枭起青壤",
+        "onboard_time": 1739500403,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196620,
+        "num": 265439,
+        "word": "樊振东是首位超级金满贯得主",
+        "onboard_time": 1739500824,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 321073,
+        "num": 264124,
+        "word": "郭子凡 已经好多年了",
+        "onboard_time": 1739503161,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101642,
+        "num": 261919,
+        "word": "美国人为吃鸡蛋开始养鸡",
+        "onboard_time": 1739502861,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 321008,
+        "num": 259614,
+        "word": "李惠利梦女",
+        "onboard_time": 1739494402,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259323,
+        "num": 259323,
+        "word": "石矶娘娘1分钟画面做了1个月",
+        "onboard_time": 1739498300,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 251313,
+        "num": 251313,
+        "word": "未定事件簿",
+        "onboard_time": 1739503642,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 246937,
+        "num": 246937,
+        "word": "女生同个视频播6小时后手机留下水印",
+        "onboard_time": 1739503042,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240791,
+        "num": 240791,
+        "word": "迪丽热巴陈星旭祝大家情人节快乐",
+        "onboard_time": 1739503462,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224598,
+        "num": 224598,
+        "word": "网剧漫城开播",
+        "onboard_time": 1739499981,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223473,
+        "num": 223473,
+        "word": "23岁小伙每天超8小时赶论文血栓了",
+        "onboard_time": 1739497940,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213288,
+        "num": 213288,
+        "word": "马柏全 张康乐",
+        "onboard_time": 1739488876,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130241,
+        "num": 212604,
+        "word": "2月14日的浪漫从早安开始",
+        "onboard_time": 1739488996,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68701,
+        "num": 212149,
+        "word": "男生选情人节餐厅太难了",
+        "onboard_time": 1739502083,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212086,
+        "num": 212086,
+        "word": "哪吒2让义乌几年前滞销商品翻红",
+        "onboard_time": 1739495660,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209193,
+        "num": 209193,
+        "word": "这段匿名录音是韩庚和卢靖姗吧",
+        "onboard_time": 1739504242,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202276,
+        "num": 202276,
+        "word": "难哄",
+        "onboard_time": 1739503942,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193465,
+        "num": 193465,
+        "word": "刘敏涛25岁精神状态20的腰",
+        "onboard_time": 1739504063,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182929,
+        "num": 192783,
+        "word": "浪漫游戏",
+        "onboard_time": 1739504003,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189353,
+        "num": 192134,
+        "word": "华尔街专家震惊于Deepseek太便宜了",
+        "onboard_time": 1739503702,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 200941,
+        "num": 192127,
+        "word": "难哄两支预告两种视角",
+        "onboard_time": 1739503161,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192102,
+        "num": 192102,
+        "word": "樱桃琥珀",
+        "onboard_time": 1739500824,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190103,
+        "num": 190103,
+        "word": "情人节和自担官宣结婚",
+        "onboard_time": 1739504303,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106170,
+        "num": 184205,
+        "word": "65万元春晚机器人一机难求",
+        "onboard_time": 1739470033,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#绿水青山瞰我家#"
+    }
+  }
+}
