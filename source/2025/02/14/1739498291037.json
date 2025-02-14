@@ -1,0 +1,410 @@
+{
+  "runTime": 1739498291037,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2564082,
+        "num": 2564082,
+        "word": "家有儿女的雪竟然是毛巾",
+        "onboard_time": 1739494700,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1039342,
+        "num": 1039342,
+        "word": "两千万粉丝小网红母亲回应摆拍质疑",
+        "onboard_time": 1739451442,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30909,
+        "num": 956114,
+        "word": "首善答卷",
+        "onboard_time": 1739454563,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1229543,
+        "num": 927477,
+        "word": "哪吒2连说100个谢谢",
+        "onboard_time": 1739489296,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 893220,
+        "num": 893220,
+        "word": "情人节",
+        "onboard_time": 1739464877,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 408179,
+        "num": 408179,
+        "word": "苹果将于2月19日发布新品",
+        "onboard_time": 1739489177,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 591396,
+        "num": 402497,
+        "word": "哪吒2破100亿",
+        "onboard_time": 1739445507,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 388088,
+        "num": 388088,
+        "word": "65万元春晚机器人一机难求",
+        "onboard_time": 1739470033,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 583368,
+        "num": 354661,
+        "word": "哪吒2破百亿票房曲线图太燃了",
+        "onboard_time": 1739455102,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 258327,
+        "num": 258327,
+        "word": "美军航母在地中海与商船相撞",
+        "onboard_time": 1739488996,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1251555,
+        "num": 258265,
+        "word": "瑶一瑶小肉包母亲称停止恶意造谣",
+        "onboard_time": 1739496382,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 36071,
+        "num": 257140,
+        "word": "哪吒破百亿蒙牛来补贴",
+        "onboard_time": 1739496500,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 730200,
+        "num": 255288,
+        "word": "李惠利梦女",
+        "onboard_time": 1739494402,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93221,
+        "num": 254322,
+        "word": "中国留学生在美遇害案嫌疑人照片公布",
+        "onboard_time": 1739497761,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 121779,
+        "num": 253561,
+        "word": "中国队揽亚冬会一半的金牌",
+        "onboard_time": 1739497160,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 419042,
+        "num": 252143,
+        "word": "崔某某已被行拘",
+        "onboard_time": 1739490616,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335510,
+        "num": 250894,
+        "word": "马柏全 张康乐",
+        "onboard_time": 1739488876,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311949,
+        "num": 249611,
+        "word": "张艺谋祝贺哪吒2破百亿",
+        "onboard_time": 1739460141,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 274612,
+        "num": 248879,
+        "word": "特朗普宣布对美贸易伙伴征收对等关税",
+        "onboard_time": 1739491039,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 247911,
+        "num": 247911,
+        "word": "潘宏再回应艾特和小宝死亡事件",
+        "onboard_time": 1739488516,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 467910,
+        "num": 247599,
+        "word": "哪吒2让义乌几年前滞销商品翻红",
+        "onboard_time": 1739495660,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 246035,
+        "num": 246035,
+        "word": "马柏全怎么了",
+        "onboard_time": 1739491698,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241372,
+        "num": 241372,
+        "word": "发朋友圈被误认出国的旅游地",
+        "onboard_time": 1739489596,
+        "rank": 22,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 54642,
+        "num": 238079,
+        "word": "中国留学生在美遇害案最新进展",
+        "onboard_time": 1739498060,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 83867,
+        "num": 236036,
+        "word": "迪马利亚说C罗生错了时代",
+        "onboard_time": 1739494999,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235578,
+        "num": 235578,
+        "word": "TikTok已在美国AppStore重新上架",
+        "onboard_time": 1739496860,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 214137,
+        "num": 214137,
+        "word": "肖战拿到角色第一反应是不敢相信",
+        "onboard_time": 1739490078,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 211906,
+        "num": 211906,
+        "word": "光线传媒市值暴涨至849亿元",
+        "onboard_time": 1739461520,
+        "rank": 27,
+        "category": "财经,电影"
+      },
+      {
+        "raw_hot": 206287,
+        "num": 206287,
+        "word": "2月14日的浪漫从早安开始",
+        "onboard_time": 1739488996,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204650,
+        "num": 204650,
+        "word": "瑶一瑶小肉包",
+        "onboard_time": 1739497580,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 558985,
+        "num": 204335,
+        "word": "周扬青晒妈妈买的衣服",
+        "onboard_time": 1739494761,
+        "rank": 30,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 203850,
+        "num": 203850,
+        "word": "刘诗诗回应下雨天穿白裙子",
+        "onboard_time": 1739488516,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191941,
+        "num": 191941,
+        "word": "用男性思维谈恋爱会有多爽",
+        "onboard_time": 1739488996,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171731,
+        "num": 171731,
+        "word": "虞书欣黄杨钿甜八年前的合照",
+        "onboard_time": 1739488576,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167611,
+        "num": 167611,
+        "word": "哪吒妈妈",
+        "onboard_time": 1739495900,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163218,
+        "num": 163218,
+        "word": "怎么会有人分不清哪吒和红孩儿",
+        "onboard_time": 1739491460,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151867,
+        "num": 151867,
+        "word": "开学第一天",
+        "onboard_time": 1739498000,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136516,
+        "num": 136516,
+        "word": "猫猫一次主动换来一辈子内向",
+        "onboard_time": 1739489897,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 57552,
+        "num": 134440,
+        "word": "拍卖惨视频引流已经形成产业链",
+        "onboard_time": 1739497639,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134174,
+        "num": 134174,
+        "word": "坑了小米SU7的乡路修了",
+        "onboard_time": 1739462360,
+        "rank": 39,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 134028,
+        "num": 134028,
+        "word": "马斯克直言美国就该管好自己的事",
+        "onboard_time": 1739494162,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132845,
+        "num": 132845,
+        "word": "中医说爱生闷气易长肺结节",
+        "onboard_time": 1739493020,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 132114,
+        "num": 132114,
+        "word": "情人节文案",
+        "onboard_time": 1739496740,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128599,
+        "num": 128599,
+        "word": "韩男子在聊天室对234人实施性犯罪",
+        "onboard_time": 1739494402,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 123382,
+        "num": 123382,
+        "word": "王健林7702万股权被冻结",
+        "onboard_time": 1739494343,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 122524,
+        "num": 122524,
+        "word": "23岁小伙每天超8小时赶论文血栓了",
+        "onboard_time": 1739497940,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121429,
+        "num": 121429,
+        "word": "伊宁一社区主任撞脸太乙真人",
+        "onboard_time": 1739498119,
+        "rank": 46,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 112827,
+        "num": 112827,
+        "word": "全球影史票房榜",
+        "onboard_time": 1739447664,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105944,
+        "num": 105944,
+        "word": "DeepSeek回答脱单的秘籍",
+        "onboard_time": 1739465357,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 104374,
+        "num": 104374,
+        "word": "妈妈离婚后失联6年孩子盼见面",
+        "onboard_time": 1739457022,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#绿水青山瞰我家#"
+    }
+  }
+}

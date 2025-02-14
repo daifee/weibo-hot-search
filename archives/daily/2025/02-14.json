@@ -1,10 +1,10 @@
 {
   "startTime": 1739464152455,
-  "endTime": 1739497324726,
+  "endTime": 1739498291037,
   "band_list": [
     {
-      "raw_hot": 2542012,
-      "num": 2542012,
+      "raw_hot": 2564082,
+      "num": 2564082,
       "word": "家有儿女的雪竟然是毛巾",
       "onboard_time": 1739494700,
       "rank": 0,
@@ -20,11 +20,19 @@
     },
     {
       "raw_hot": 1290022,
-      "num": 730661,
+      "num": 927477,
       "word": "哪吒2连说100个谢谢",
       "onboard_time": 1739489296,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1251555,
+      "num": 286042,
+      "word": "瑶一瑶小肉包母亲称停止恶意造谣",
+      "onboard_time": 1739496382,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 1184356,
@@ -43,6 +51,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 893220,
+      "num": 893220,
+      "word": "情人节",
+      "onboard_time": 1739464877,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 772516,
       "num": 290089,
       "word": "李惠利梦女",
@@ -59,22 +75,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 701269,
-      "num": 286042,
-      "word": "瑶一瑶小肉包母亲称停止恶意造谣",
-      "onboard_time": 1739496382,
-      "rank": 11,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 685468,
-      "num": 685468,
-      "word": "情人节",
-      "onboard_time": 1739464877,
-      "rank": 5,
-      "category": "情感"
-    },
-    {
       "raw_hot": 599622,
       "num": 352658,
       "word": "赵丽颖发文祝愿中国动画电影越来越好",
@@ -83,20 +83,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 558985,
+      "num": 204335,
+      "word": "周扬青晒妈妈买的衣服",
+      "onboard_time": 1739494761,
+      "rank": 30,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 554105,
       "num": 282386,
       "word": "崔某某已被行拘",
       "onboard_time": 1739490616,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 540201,
-      "num": 166549,
-      "word": "周扬青晒妈妈买的衣服",
-      "onboard_time": 1739494761,
-      "rank": 30,
-      "category": "时尚"
     },
     {
       "raw_hot": 528003,
@@ -155,8 +155,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 407412,
-      "num": 407412,
+      "raw_hot": 408179,
+      "num": 408179,
       "word": "苹果将于2月19日发布新品",
       "onboard_time": 1739489177,
       "rank": 39,
@@ -291,6 +291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 235578,
+      "num": 235578,
+      "word": "TikTok已在美国AppStore重新上架",
+      "onboard_time": 1739496860,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 223462,
       "num": 223462,
       "word": "目击者回忆台湾百货大楼爆炸瞬间",
@@ -315,8 +323,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 213907,
-      "num": 213907,
+      "raw_hot": 214137,
+      "num": 214137,
       "word": "肖战拿到角色第一反应是不敢相信",
       "onboard_time": 1739490078,
       "rank": 24,
@@ -329,6 +337,14 @@
       "onboard_time": 1739488996,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 204650,
+      "num": 204650,
+      "word": "瑶一瑶小肉包",
+      "onboard_time": 1739497580,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 200699,
@@ -363,12 +379,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 168742,
+      "raw_hot": 171731,
       "num": 180981,
       "word": "虞书欣黄杨钿甜八年前的合照",
       "onboard_time": 1739488576,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167611,
+      "num": 167611,
+      "word": "哪吒妈妈",
+      "onboard_time": 1739495900,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 166836,
@@ -377,14 +401,6 @@
       "onboard_time": 1739496740,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 166541,
-      "num": 166541,
-      "word": "哪吒妈妈",
-      "onboard_time": 1739495900,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 161445,
@@ -411,6 +427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151867,
+      "num": 151867,
+      "word": "开学第一天",
+      "onboard_time": 1739498000,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150397,
       "num": 150397,
       "word": "孙颖莎说WTT需要奥运冠军去参赛",
@@ -433,14 +457,6 @@
       "onboard_time": 1739464277,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 144472,
-      "num": 144472,
-      "word": "TikTok已在美国AppStore重新上架",
-      "onboard_time": 1739496860,
-      "rank": 35,
-      "category": "互联网"
     },
     {
       "raw_hot": 142145,
@@ -515,20 +531,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122524,
+      "num": 122524,
+      "word": "23岁小伙每天超8小时赶论文血栓了",
+      "onboard_time": 1739497940,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121779,
+      "num": 253561,
+      "word": "中国队揽亚冬会一半的金牌",
+      "onboard_time": 1739497160,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 121429,
+      "num": 121429,
+      "word": "伊宁一社区主任撞脸太乙真人",
+      "onboard_time": 1739498119,
+      "rank": 46,
+      "category": "民生新闻,电影"
+    },
+    {
       "raw_hot": 115725,
       "num": 127771,
       "word": "大学生为救人戒奶茶3个月",
       "onboard_time": 1739444901,
       "rank": 29,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 113698,
-      "num": 166555,
-      "word": "中国队揽亚冬会一半的金牌",
-      "onboard_time": 1739497160,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 111254,
@@ -579,6 +611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93221,
+      "num": 254322,
+      "word": "中国留学生在美遇害案嫌疑人照片公布",
+      "onboard_time": 1739497761,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 92836,
       "num": 127694,
       "word": "演技是演员最好的医美",
@@ -619,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83867,
+      "num": 236036,
+      "word": "迪马利亚说C罗生错了时代",
+      "onboard_time": 1739494999,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82825,
       "num": 127277,
       "word": "哪吒",
@@ -641,14 +689,6 @@
       "onboard_time": 1739472371,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 79969,
-      "num": 96800,
-      "word": "迪马利亚说C罗生错了时代",
-      "onboard_time": 1739494999,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 79244,
@@ -715,6 +755,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57552,
+      "num": 134440,
+      "word": "拍卖惨视频引流已经形成产业链",
+      "onboard_time": 1739497639,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54642,
+      "num": 238079,
+      "word": "中国留学生在美遇害案最新进展",
+      "onboard_time": 1739498060,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 51014,
       "num": 73117,
       "word": "刘诗诗转身这一下有多明媚",
@@ -771,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36071,
+      "num": 264763,
+      "word": "哪吒破百亿蒙牛来补贴",
+      "onboard_time": 1739496500,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 33201,
       "num": 71113,
       "word": "俄乌局势新进展",
@@ -780,7 +844,7 @@
     },
     {
       "raw_hot": 31800,
-      "num": 807650,
+      "num": 956114,
       "word": "首善答卷",
       "onboard_time": 1739454563,
       "rank": 2,
@@ -793,14 +857,6 @@
       "onboard_time": 1739455762,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 30745,
-      "num": 264763,
-      "word": "哪吒破百亿蒙牛来补贴",
-      "onboard_time": 1739496500,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 26443,

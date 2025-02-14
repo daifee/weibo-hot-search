@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1739497324726,
+  "endTime": 1739498291037,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1587,6 +1587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2564082,
+      "num": 2564082,
+      "word": "家有儿女的雪竟然是毛巾",
+      "onboard_time": 1739494700,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2556287,
       "num": 2556287,
       "word": "留几手长文",
@@ -1617,14 +1625,6 @@
       "onboard_time": 1738081830,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2542012,
-      "num": 2542012,
-      "word": "家有儿女的雪竟然是毛巾",
-      "onboard_time": 1739494700,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 2534820,

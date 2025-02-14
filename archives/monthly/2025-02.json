@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739497324726,
+  "endTime": 1739498291037,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -507,20 +507,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2564082,
+      "num": 2564082,
+      "word": "家有儿女的雪竟然是毛巾",
+      "onboard_time": 1739494700,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2550003,
       "num": 1801583,
       "word": "宝妈入住月子中心不到1天投湖轻生",
       "onboard_time": 1739335402,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2542012,
-      "num": 2542012,
-      "word": "家有儿女的雪竟然是毛巾",
-      "onboard_time": 1739494700,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 2534820,
@@ -2036,7 +2036,7 @@
     },
     {
       "raw_hot": 1290022,
-      "num": 730661,
+      "num": 927477,
       "word": "哪吒2连说100个谢谢",
       "onboard_time": 1739489296,
       "rank": 3,
@@ -2145,6 +2145,14 @@
       "onboard_time": 1739264361,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1251555,
+      "num": 286042,
+      "word": "瑶一瑶小肉包母亲称停止恶意造谣",
+      "onboard_time": 1739496382,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 1243558,
@@ -3539,6 +3547,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 893220,
+      "num": 893220,
+      "word": "情人节",
+      "onboard_time": 1739464877,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 891295,
       "num": 484811,
       "word": "美国观众谈看完哪吒2感受",
@@ -4811,14 +4827,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 701269,
-      "num": 286042,
-      "word": "瑶一瑶小肉包母亲称停止恶意造谣",
-      "onboard_time": 1739496382,
-      "rank": 11,
-      "category": "网红"
-    },
-    {
       "raw_hot": 701146,
       "num": 351169,
       "word": "山东一婚姻登记处年后人满为患",
@@ -4945,14 +4953,6 @@
       "onboard_time": 1739283621,
       "rank": 44,
       "category": "网红"
-    },
-    {
-      "raw_hot": 685468,
-      "num": 685468,
-      "word": "情人节",
-      "onboard_time": 1739464877,
-      "rank": 5,
-      "category": "情感"
     },
     {
       "raw_hot": 682475,
@@ -6475,6 +6475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 558985,
+      "num": 204335,
+      "word": "周扬青晒妈妈买的衣服",
+      "onboard_time": 1739494761,
+      "rank": 30,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 558548,
       "num": 403947,
       "word": "浪姐6阵容",
@@ -6793,14 +6801,6 @@
       "onboard_time": 1738385537,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 540201,
-      "num": 166549,
-      "word": "周扬青晒妈妈买的衣服",
-      "onboard_time": 1739494761,
-      "rank": 30,
-      "category": "时尚"
     },
     {
       "raw_hot": 539946,
@@ -9243,20 +9243,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 408179,
+      "num": 408179,
+      "word": "苹果将于2月19日发布新品",
+      "onboard_time": 1739489177,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 407931,
       "num": 407931,
       "word": "为什么女厕所门口永远在排队",
       "onboard_time": 1738549593,
       "rank": 38,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 407412,
-      "num": 407412,
-      "word": "苹果将于2月19日发布新品",
-      "onboard_time": 1739489177,
-      "rank": 39,
-      "category": "数码"
     },
     {
       "raw_hot": 407159,
@@ -15355,6 +15355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235578,
+      "num": 235578,
+      "word": "TikTok已在美国AppStore重新上架",
+      "onboard_time": 1739496860,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 235419,
       "num": 175506,
       "word": "哪吒之魔童闹海影史春节档票房冠军",
@@ -17251,6 +17259,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 214137,
+      "num": 214137,
+      "word": "肖战拿到角色第一反应是不敢相信",
+      "onboard_time": 1739490078,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 213985,
       "num": 213985,
       "word": "恋与深空 沈星回",
@@ -17265,14 +17281,6 @@
       "onboard_time": 1739247622,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 213907,
-      "num": 213907,
-      "word": "肖战拿到角色第一反应是不敢相信",
-      "onboard_time": 1739490078,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 213861,
@@ -18289,6 +18297,14 @@
       "onboard_time": 1738732344,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204650,
+      "num": 204650,
+      "word": "瑶一瑶小肉包",
+      "onboard_time": 1739497580,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 204607,
@@ -22971,6 +22987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171731,
+      "num": 180981,
+      "word": "虞书欣黄杨钿甜八年前的合照",
+      "onboard_time": 1739488576,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171699,
       "num": 171699,
       "word": "尔滨这温度林孝埈还露脚脖子",
@@ -23371,14 +23395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 168742,
-      "num": 180981,
-      "word": "虞书欣黄杨钿甜八年前的合照",
-      "onboard_time": 1739488576,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 168726,
       "num": 452011,
       "word": "亚冬会机器狗成巡检员",
@@ -23539,6 +23555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 167611,
+      "num": 167611,
+      "word": "哪吒妈妈",
+      "onboard_time": 1739495900,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 167462,
       "num": 167462,
       "word": "王安宇说小巷人家上春晚出息了",
@@ -23641,14 +23665,6 @@
       "onboard_time": 1738912462,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 166541,
-      "num": 166541,
-      "word": "哪吒妈妈",
-      "onboard_time": 1739495900,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 166521,
@@ -25795,6 +25811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 151867,
+      "num": 151867,
+      "word": "开学第一天",
+      "onboard_time": 1739498000,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151749,
       "num": 151749,
       "word": "杨幂的年终总结",
@@ -26905,14 +26929,6 @@
       "onboard_time": 1739330540,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 144472,
-      "num": 144472,
-      "word": "TikTok已在美国AppStore重新上架",
-      "onboard_time": 1739496860,
-      "rank": 35,
-      "category": "互联网"
     },
     {
       "raw_hot": 144385,
@@ -30027,6 +30043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 122524,
+      "num": 122524,
+      "word": "23岁小伙每天超8小时赶论文血栓了",
+      "onboard_time": 1739497940,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122473,
       "num": 487089,
       "word": "亚冬会开幕式直播",
@@ -30123,6 +30147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121779,
+      "num": 253561,
+      "word": "中国队揽亚冬会一半的金牌",
+      "onboard_time": 1739497160,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121686,
       "num": 114889,
       "word": "五福临门集齐了所有晋江梗",
@@ -30161,6 +30193,14 @@
       "onboard_time": 1739081240,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121429,
+      "num": 121429,
+      "word": "伊宁一社区主任撞脸太乙真人",
+      "onboard_time": 1739498119,
+      "rank": 46,
+      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 121402,
@@ -31033,14 +31073,6 @@
       "onboard_time": 1738418119,
       "rank": 48,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 113698,
-      "num": 166555,
-      "word": "中国队揽亚冬会一半的金牌",
-      "onboard_time": 1739497160,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 113693,
@@ -33403,6 +33435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93221,
+      "num": 254322,
+      "word": "中国留学生在美遇害案嫌疑人照片公布",
+      "onboard_time": 1739497761,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 93208,
       "num": 250547,
       "word": "王楚钦第6局神之暂停连得5分",
@@ -34059,6 +34099,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 83867,
+      "num": 236036,
+      "word": "迪马利亚说C罗生错了时代",
+      "onboard_time": 1739494999,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83851,
       "num": 354836,
       "word": "你永远猜不到老一辈看直播买啥",
@@ -34337,14 +34385,6 @@
       "onboard_time": 1738338079,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 79969,
-      "num": 96800,
-      "word": "迪马利亚说C罗生错了时代",
-      "onboard_time": 1739494999,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 79960,
@@ -36275,6 +36315,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 57552,
+      "num": 134440,
+      "word": "拍卖惨视频引流已经形成产业链",
+      "onboard_time": 1739497639,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57518,
       "num": 57518,
       "word": "越南从韩国进口的无人机大批坠机",
@@ -36553,6 +36601,14 @@
       "onboard_time": 1739316976,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54642,
+      "num": 238079,
+      "word": "中国留学生在美遇害案最新进展",
+      "onboard_time": 1739498060,
+      "rank": 23,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 54616,
@@ -38523,6 +38579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 36071,
+      "num": 264763,
+      "word": "哪吒破百亿蒙牛来补贴",
+      "onboard_time": 1739496500,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 36052,
       "num": 469025,
       "word": "吴宇金牌",
@@ -39153,14 +39217,6 @@
       "onboard_time": 1738902507,
       "rank": 29,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 30745,
-      "num": 264763,
-      "word": "哪吒破百亿蒙牛来补贴",
-      "onboard_time": 1739496500,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 30668,
