@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739547473142,
+  "endTime": 1739550405629,
   "band_list": [
     {
       "raw_hot": 18452349,
@@ -1780,7 +1780,7 @@
     },
     {
       "raw_hot": 944656,
-      "num": 363718,
+      "num": 365134,
       "word": "演员请就位太可怕了",
       "onboard_time": 1739542822,
       "rank": 45,
@@ -4611,8 +4611,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 408656,
-      "num": 408656,
+      "raw_hot": 408690,
+      "num": 408690,
       "word": "拐卖王星的中国籍团伙成员被遣返",
       "onboard_time": 1739544322,
       "rank": 4,
@@ -5012,7 +5012,7 @@
     },
     {
       "raw_hot": 378250,
-      "num": 289383,
+      "num": 376889,
       "word": "32岁中国计量大学讲师石召君病逝",
       "onboard_time": 1739543961,
       "rank": 16,
@@ -5537,6 +5537,14 @@
       "onboard_time": 1739148621,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 337029,
+      "num": 281394,
+      "word": "翔霖",
+      "onboard_time": 1739547801,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 336428,
@@ -6457,6 +6465,14 @@
       "onboard_time": 1739073200,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 288208,
+      "num": 288208,
+      "word": "男子近九千报专升本最后成肄业",
+      "onboard_time": 1739547623,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 287551,
@@ -8051,6 +8067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226518,
+      "num": 226518,
+      "word": "山东纸面服刑村霸被执行死刑",
+      "onboard_time": 1739547741,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 226319,
       "num": 226319,
       "word": "多平台下架ABC比基尼安睡裤",
@@ -8265,6 +8289,14 @@
       "onboard_time": 1739147480,
       "rank": 27,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 221559,
+      "num": 221559,
+      "word": "快速恢复能量的100件小事",
+      "onboard_time": 1739547681,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 221458,
@@ -14331,6 +14363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137895,
+      "num": 137895,
+      "word": "一代人有一代人的情人节",
+      "onboard_time": 1739549601,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 137718,
       "num": 319214,
       "word": "谢广坤扮演者女儿辟谣觉得生活费少",
@@ -15467,6 +15507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119452,
+      "num": 119452,
+      "word": "丁禹兮光线销冠之一的实力",
+      "onboard_time": 1739547801,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119444,
       "num": 119444,
       "word": "羽生结弦冰上巡演",
@@ -15627,6 +15675,14 @@
       "category": "电影,汽车"
     },
     {
+      "raw_hot": 116255,
+      "num": 116255,
+      "word": "潘宏称每夜收千条短信轰炸",
+      "onboard_time": 1739545042,
+      "rank": 37,
+      "category": "网红"
+    },
+    {
       "raw_hot": 116249,
       "num": 195308,
       "word": "医院能不能使用集采非中选原研药",
@@ -15745,6 +15801,14 @@
       "onboard_time": 1739378237,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114381,
+      "num": 301067,
+      "word": "谁在为哪吒2贡献票房",
+      "onboard_time": 1739546783,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 114216,
@@ -15889,6 +15953,14 @@
       "onboard_time": 1739178561,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111929,
+      "num": 287871,
+      "word": "下周开学",
+      "onboard_time": 1739549241,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111902,
@@ -16675,6 +16747,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 93791,
+      "num": 118037,
+      "word": "专业人士提醒砸冰捞鱼具有危险性",
+      "onboard_time": 1739543424,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93552,
       "num": 200258,
       "word": "东契奇将魔法带到洛杉矶了",
@@ -16705,6 +16785,14 @@
       "onboard_time": 1739065220,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92803,
+      "num": 92803,
+      "word": "山东一纸面服刑村霸被执行死刑",
+      "onboard_time": 1739548160,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92629,
@@ -16953,6 +17041,14 @@
       "onboard_time": 1739115860,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84599,
+      "num": 84599,
+      "word": "演员请就位 刘品言",
+      "onboard_time": 1739545943,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 84107,
@@ -17209,6 +17305,14 @@
       "onboard_time": 1739199021,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 77630,
+      "num": 77630,
+      "word": "赵磊结婚谷嘉诚郭子凡在这又唱又跳",
+      "onboard_time": 1739550379,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 77568,
@@ -17521,14 +17625,6 @@
       "onboard_time": 1739279661,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 70241,
-      "num": 118037,
-      "word": "专业人士提醒砸冰捞鱼具有危险性",
-      "onboard_time": 1739543424,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 70214,
@@ -18041,6 +18137,14 @@
       "onboard_time": 1739340800,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59522,
+      "num": 73819,
+      "word": "马赛赛张之臻退赛",
+      "onboard_time": 1739548342,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 59491,
@@ -19681,14 +19785,6 @@
       "onboard_time": 1739255300,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 31629,
-      "num": 301067,
-      "word": "谁在为哪吒2贡献票房",
-      "onboard_time": 1739546783,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 31626,
