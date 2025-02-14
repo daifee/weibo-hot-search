@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1739507230162,
+  "endTime": 1739508048186,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1339,6 +1339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2839319,
+      "num": 355828,
+      "word": "半藏森林",
+      "onboard_time": 1739506162,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2831846,
       "num": 574193,
       "word": "演员高亮去世",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1739341460,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2106610,
-      "num": 400917,
-      "word": "王星目前还不能离开泰国",
-      "onboard_time": 1736296521,
-      "rank": 15,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

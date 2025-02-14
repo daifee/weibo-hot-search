@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739507230162,
+  "endTime": 1739508048186,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -425,6 +425,14 @@
       "onboard_time": 1739272700,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 2839319,
+      "num": 355828,
+      "word": "半藏森林",
+      "onboard_time": 1739506162,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2831846,
@@ -905,6 +913,14 @@
       "onboard_time": 1739326639,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 2006662,
+      "num": 297459,
+      "word": "赵磊站姐有这心态做什么都会成功的",
+      "onboard_time": 1739507484,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2003477,
@@ -1843,14 +1859,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1400057,
-      "num": 355828,
-      "word": "半藏森林",
-      "onboard_time": 1739506162,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1396956,
       "num": 1396956,
       "word": "建议别在晚上做重大决定",
@@ -1969,6 +1977,14 @@
       "onboard_time": 1738740143,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1327098,
+      "num": 355240,
+      "word": "董力女友晒照官宣恋情",
+      "onboard_time": 1739505863,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1326051,
@@ -2332,7 +2348,7 @@
     },
     {
       "raw_hot": 1207525,
-      "num": 379300,
+      "num": 389338,
       "word": "票房破百亿后找不到太乙真人了",
       "onboard_time": 1739503103,
       "rank": 10,
@@ -2616,14 +2632,6 @@
       "word": "韩泰山",
       "onboard_time": 1738513578,
       "rank": 7,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1113700,
-      "num": 355240,
-      "word": "董力女友晒照官宣恋情",
-      "onboard_time": 1739505863,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -8747,6 +8755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 444004,
+      "num": 444004,
+      "word": "大熊猫永明去世",
+      "onboard_time": 1739504663,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 443330,
       "num": 416864,
       "word": "黄晓明带父亲重走当年参军路",
@@ -9184,6 +9200,14 @@
       "word": "六姊妹首播收视率破3",
       "onboard_time": 1738641562,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 419203,
+      "num": 314698,
+      "word": "刘学义孟子义24秒吻戏纯享版",
+      "onboard_time": 1739506403,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -9705,14 +9729,6 @@
       "onboard_time": 1739256200,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 395175,
-      "num": 395175,
-      "word": "大熊猫永明去世",
-      "onboard_time": 1739504663,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 395142,
@@ -10433,6 +10449,14 @@
       "onboard_time": 1739088200,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 365737,
+      "num": 287088,
+      "word": "无量仙翁祝贺哪吒2破100亿",
+      "onboard_time": 1739507544,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 365595,
@@ -11993,14 +12017,6 @@
       "onboard_time": 1738815508,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 314698,
-      "num": 314698,
-      "word": "刘学义孟子义24秒吻戏纯享版",
-      "onboard_time": 1739506403,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 314502,
@@ -13971,6 +13987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 265673,
+      "num": 265673,
+      "word": "柯南情人节杀人事件",
+      "onboard_time": 1739504663,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 265283,
       "num": 265283,
       "word": "敖丙皮套",
@@ -14979,6 +15003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 246905,
+      "num": 289193,
+      "word": "时空中的绘旅人",
+      "onboard_time": 1739074580,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 246756,
       "num": 246756,
       "word": "虞书欣片场捂肚子",
@@ -15675,6 +15707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 235106,
+      "num": 235106,
+      "word": "魏哲鸣郑合惠子新剧官宣",
+      "onboard_time": 1739507665,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 235041,
       "num": 465808,
       "word": "王楚钦说比赛前打算吃饭",
@@ -16065,14 +16105,6 @@
       "onboard_time": 1739171840,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 229400,
-      "num": 229400,
-      "word": "柯南情人节杀人事件",
-      "onboard_time": 1739504663,
-      "rank": 39,
-      "category": "动漫"
     },
     {
       "raw_hot": 229291,
@@ -17739,6 +17771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212390,
+      "num": 314094,
+      "word": "长沙女子半夜惊醒床底揪出黑衣男",
+      "onboard_time": 1739506584,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212127,
       "num": 212127,
       "word": "三代世仇的两个家庭和解了",
@@ -18392,6 +18432,14 @@
       "word": "陈哲远梁洁共创视频",
       "onboard_time": 1739196742,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 206428,
+      "num": 206428,
+      "word": "难哄给哄蜜把汪苏泷找来了",
+      "onboard_time": 1739507185,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -19177,14 +19225,6 @@
       "onboard_time": 1739157260,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 200974,
-      "num": 200974,
-      "word": "难哄给哄蜜把汪苏泷找来了",
-      "onboard_time": 1739507185,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 200941,
@@ -23187,6 +23227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172823,
+      "num": 172823,
+      "word": "未定事件簿天线宝宝",
+      "onboard_time": 1739507364,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 172775,
       "num": 172775,
       "word": "娜然说妲己是殷寿欲望的放大镜",
@@ -23321,14 +23369,6 @@
       "onboard_time": 1738509979,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 171978,
-      "num": 254026,
-      "word": "时空中的绘旅人",
-      "onboard_time": 1739074580,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 171878,
@@ -25651,6 +25691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 156410,
+      "num": 165272,
+      "word": "女子半夜惊醒床底发现黑衣男",
+      "onboard_time": 1739507903,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156390,
       "num": 517644,
       "word": "四川山体滑坡救援进展",
@@ -27249,6 +27297,14 @@
       "onboard_time": 1739283203,
       "rank": 9,
       "category": "旅游,演出"
+    },
+    {
+      "raw_hot": 145180,
+      "num": 165245,
+      "word": "新兰only",
+      "onboard_time": 1739508024,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 145068,
@@ -31243,6 +31299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115818,
+      "num": 354164,
+      "word": "五星级酒店能被情人节盘活吗",
+      "onboard_time": 1739506344,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115800,
       "num": 115800,
       "word": "比打工人先到工位的是财神摆件",
@@ -33363,6 +33427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99277,
+      "num": 298091,
+      "word": "瑶一瑶小肉包账号限制评论",
+      "onboard_time": 1739507306,
+      "rank": 9,
+      "category": "网红"
+    },
+    {
       "raw_hot": 99275,
       "num": 446613,
       "word": "王一博祝中国健儿再创佳绩",
@@ -33577,6 +33649,14 @@
       "onboard_time": 1738668685,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96622,
+      "num": 292930,
+      "word": "情人节新中式花束为啥火了",
+      "onboard_time": 1739506525,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96591,
@@ -34809,14 +34889,6 @@
       "onboard_time": 1739006244,
       "rank": 47,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 80030,
-      "num": 259302,
-      "word": "情人节新中式花束为啥火了",
-      "onboard_time": 1739506525,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80025,
@@ -36059,6 +36131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64601,
+      "num": 302892,
+      "word": "你恋爱时都在偷偷搜什么问题",
+      "onboard_time": 1739505742,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 64544,
       "num": 194559,
       "word": "印度罕见神经系统疾病疑已致5死",
@@ -36273,6 +36353,14 @@
       "onboard_time": 1738818388,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62604,
+      "num": 294218,
+      "word": "张凌赫卡零点祝粉丝情人节快乐",
+      "onboard_time": 1739506765,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 62498,
@@ -36563,14 +36651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 59610,
-      "num": 302892,
-      "word": "你恋爱时都在偷偷搜什么问题",
-      "onboard_time": 1739505742,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 59574,
       "num": 349739,
       "word": "林孝埈戴上金牌",
@@ -36617,14 +36697,6 @@
       "onboard_time": 1739071460,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 59137,
-      "num": 314094,
-      "word": "长沙女子半夜惊醒床底揪出黑衣男",
-      "onboard_time": 1739506584,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 59112,
@@ -37947,14 +38019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 46800,
-      "num": 354164,
-      "word": "五星级酒店能被情人节盘活吗",
-      "onboard_time": 1739506344,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 46785,
       "num": 137111,
       "word": "哈尔滨亚冬会观赛日历来啦",
@@ -39089,6 +39153,14 @@
       "onboard_time": 1739462600,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 36196,
+      "num": 327883,
+      "word": "中国男冰亚冬会第四",
+      "onboard_time": 1739506883,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 36187,
@@ -40945,14 +41017,6 @@
       "onboard_time": 1738995685,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 20870,
-      "num": 327883,
-      "word": "中国男冰亚冬会第四",
-      "onboard_time": 1739506883,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 20782,
