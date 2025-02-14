@@ -1,6 +1,6 @@
 {
   "startTime": 1739464152455,
-  "endTime": 1739539688423,
+  "endTime": 1739540348945,
   "band_list": [
     {
       "raw_hot": 16764336,
@@ -17,6 +17,14 @@
       "onboard_time": 1739520383,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 3331179,
+      "num": 3331179,
+      "word": "姚笛 被删",
+      "onboard_time": 1739539282,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 2977340,
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 1604954,
-      "num": 564669,
+      "num": 626539,
       "word": "黄圣依情人节晒照",
       "onboard_time": 1739533220,
       "rank": 3,
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 1136939,
-      "num": 704062,
+      "num": 918636,
       "word": "看31遍哪吒2女生发声",
       "onboard_time": 1739530342,
       "rank": 13,
@@ -297,6 +305,14 @@
       "onboard_time": 1739521880,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1039167,
+      "num": 592239,
+      "word": "章子怡发飙让张嘉元下去",
+      "onboard_time": 1739539222,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 969826,
@@ -337,14 +353,6 @@
       "onboard_time": 1739403858,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 810646,
-      "num": 403358,
-      "word": "姚笛 被删",
-      "onboard_time": 1739539282,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 807900,
@@ -427,8 +435,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 660365,
-      "num": 660365,
+      "raw_hot": 672820,
+      "num": 672820,
       "word": "胖东来金饰每克便宜100元",
       "onboard_time": 1739537782,
       "rank": 48,
@@ -697,6 +705,14 @@
       "onboard_time": 1739457743,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 392806,
+      "num": 392806,
+      "word": "招女辅警须有羽毛球特长当地回应",
+      "onboard_time": 1739538201,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 385820,
@@ -1011,14 +1027,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 287799,
-      "num": 287799,
-      "word": "招女辅警须有羽毛球特长当地回应",
-      "onboard_time": 1739538201,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 283816,
       "num": 283816,
       "word": "夫妇花7万5做试管婴儿怀疑被骗",
@@ -1081,14 +1089,6 @@
       "onboard_time": 1739489596,
       "rank": 26,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 261952,
-      "num": 246462,
-      "word": "章子怡发飙让张嘉元下去",
-      "onboard_time": 1739539222,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 258178,
@@ -1387,6 +1387,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 208633,
+      "num": 208633,
+      "word": "两空乘尿检阳性被停职法医还清白",
+      "onboard_time": 1739539583,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208518,
       "num": 208518,
       "word": "律师称瑶一瑶若7岁还未上学或涉侵权",
@@ -1659,6 +1667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 192431,
+      "num": 248048,
+      "word": "林俊杰吃饭被粉丝贴脸唱歌",
+      "onboard_time": 1739537241,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191679,
       "num": 191679,
       "word": "谷嘉诚力挺赵磊",
@@ -1795,6 +1811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179236,
+      "num": 179236,
+      "word": "网红狗艾特主人简介改为恶人自有天收",
+      "onboard_time": 1739539882,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 178705,
       "num": 178705,
       "word": "逍遥",
@@ -1841,6 +1865,14 @@
       "onboard_time": 1739527642,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175820,
+      "num": 175820,
+      "word": "TT对战BLG",
+      "onboard_time": 1739540004,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 174835,
@@ -1979,19 +2011,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 160305,
-      "num": 248048,
-      "word": "林俊杰吃饭被粉丝贴脸唱歌",
-      "onboard_time": 1739537241,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 159578,
       "num": 159578,
       "word": "赵露思复工粉裙现身影棚",
       "onboard_time": 1739526622,
       "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 158775,
+      "num": 158775,
+      "word": "田曦薇 祝福你每个节日都快乐",
+      "onboard_time": 1739538983,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -2067,14 +2099,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 151688,
-      "num": 151688,
-      "word": "田曦薇 祝福你每个节日都快乐",
-      "onboard_time": 1739538983,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 150397,
       "num": 150397,
       "word": "孙颖莎说WTT需要奥运冠军去参赛",
@@ -2091,6 +2115,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 150119,
+      "num": 150119,
+      "word": "司晓迪曝光秦霄贤和李汶翰的原因",
+      "onboard_time": 1739540243,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149538,
       "num": 149538,
       "word": "严浩翔浪漫日子",
@@ -2105,6 +2137,14 @@
       "onboard_time": 1739501783,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148181,
+      "num": 148181,
+      "word": "情人节的玫瑰是王心凌送的",
+      "onboard_time": 1739540124,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 147073,
@@ -2195,6 +2235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 144485,
+      "num": 144485,
+      "word": "杨子演西门庆 章子怡工伤",
+      "onboard_time": 1739540185,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144442,
       "num": 262742,
       "word": "林孝埈在线看亚冬会闭幕式",
@@ -2217,14 +2265,6 @@
       "onboard_time": 1739535862,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143318,
-      "num": 143318,
-      "word": "两空乘尿检阳性被停职法医还清白",
-      "onboard_time": 1739539583,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 142738,
@@ -2395,6 +2435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128845,
+      "num": 128845,
+      "word": "星穹铁道3.1版本前瞻",
+      "onboard_time": 1739539762,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 128768,
       "num": 128768,
       "word": "周杰伦抱娃照",
@@ -2515,6 +2563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 109683,
+      "num": 208258,
+      "word": "王鹤棣立flag拍到詹姆斯撒镁粉",
+      "onboard_time": 1739540062,
+      "rank": 22,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 109318,
       "num": 161288,
       "word": "保时捷恭喜小米汽车",
@@ -2627,6 +2683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94218,
+      "num": 246387,
+      "word": "中医科正成为医院里的高利润科室",
+      "onboard_time": 1739538621,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 92836,
       "num": 127694,
       "word": "演技是演员最好的医美",
@@ -2651,20 +2715,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90609,
+      "num": 247347,
+      "word": "我不懂车还不懂爱吗",
+      "onboard_time": 1739538261,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 90254,
       "num": 155053,
       "word": "浪漫的不是花而是送花的人",
       "onboard_time": 1739537121,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 89592,
-      "num": 247347,
-      "word": "我不懂车还不懂爱吗",
-      "onboard_time": 1739538261,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 89461,
@@ -2771,14 +2835,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 74700,
-      "num": 246387,
-      "word": "中医科正成为医院里的高利润科室",
-      "onboard_time": 1739538621,
-      "rank": 29,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 73342,
       "num": 262821,
       "word": "康辉又在喊大家落座观礼",
@@ -2875,6 +2931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68734,
+      "num": 824526,
+      "word": "被办了亚冬会的Harbin整泪目了",
+      "onboard_time": 1739524042,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68701,
       "num": 238731,
       "word": "男生选情人节餐厅太难了",
@@ -2905,14 +2969,6 @@
       "onboard_time": 1739459241,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 64944,
-      "num": 731397,
-      "word": "被办了亚冬会的Harbin整泪目了",
-      "onboard_time": 1739524042,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 64885,
@@ -2961,6 +3017,14 @@
       "onboard_time": 1739523322,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59457,
+      "num": 249748,
+      "word": "林孝埈谢谢哈尔滨",
+      "onboard_time": 1739539102,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 58891,
@@ -3257,14 +3321,6 @@
       "onboard_time": 1739455762,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 31337,
-      "num": 249748,
-      "word": "林孝埈谢谢哈尔滨",
-      "onboard_time": 1739539102,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 30413,
