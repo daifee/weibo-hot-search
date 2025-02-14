@@ -1,6 +1,6 @@
 {
   "startTime": 1739464152455,
-  "endTime": 1739536936242,
+  "endTime": 1739537835050,
   "band_list": [
     {
       "raw_hot": 16764336,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1604954,
-      "num": 542595,
+      "num": 564669,
       "word": "黄圣依情人节晒照",
       "onboard_time": 1739533220,
       "rank": 3,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 1136939,
-      "num": 516312,
+      "num": 559253,
       "word": "看31遍哪吒2女生发声",
       "onboard_time": 1739530342,
       "rank": 13,
@@ -299,20 +299,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 951518,
+      "num": 951518,
+      "word": "Deepseek预测有多靠谱",
+      "onboard_time": 1739534242,
+      "rank": 1,
+      "category": "体育,互联网"
+    },
+    {
       "raw_hot": 893220,
       "num": 893220,
       "word": "情人节",
       "onboard_time": 1739464877,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 892477,
-      "num": 892477,
-      "word": "Deepseek预测有多靠谱",
-      "onboard_time": 1739534242,
-      "rank": 1,
-      "category": "体育,互联网"
     },
     {
       "raw_hot": 862884,
@@ -331,20 +331,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 807900,
+      "num": 434331,
+      "word": "于正新签15后卢雅熙",
+      "onboard_time": 1739534902,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 796181,
       "num": 438272,
       "word": "余承恩妈妈终于承认他帅了",
       "onboard_time": 1739511982,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 790399,
-      "num": 434331,
-      "word": "于正新签15后卢雅熙",
-      "onboard_time": 1739534902,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 780766,
@@ -515,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 540001,
+      "num": 262329,
+      "word": "张碧晨晒与女儿合照",
+      "onboard_time": 1739537602,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 528003,
       "num": 262178,
       "word": "哪吒2让义乌几年前滞销商品翻红",
@@ -577,6 +585,14 @@
       "onboard_time": 1739459661,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 444418,
+      "num": 261291,
+      "word": "射雕英雄传",
+      "onboard_time": 1739535501,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 444004,
@@ -673,14 +689,6 @@
       "onboard_time": 1739517860,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 380441,
-      "num": 256791,
-      "word": "射雕英雄传",
-      "onboard_time": 1739535501,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 372781,
@@ -1083,6 +1091,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 250189,
+      "num": 250189,
+      "word": "情人节微信状态",
+      "onboard_time": 1739534242,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 248821,
       "num": 407963,
       "word": "雷军称小米SU7Ultra定位是新豪车",
@@ -1259,14 +1275,6 @@
       "category": "民生新闻,汽车"
     },
     {
-      "raw_hot": 217553,
-      "num": 217553,
-      "word": "情人节微信状态",
-      "onboard_time": 1739534242,
-      "rank": 31,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 216885,
       "num": 291443,
       "word": "做家务后意识到隐形的女性劳动",
@@ -1289,6 +1297,14 @@
       "onboard_time": 1739517323,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 215183,
+      "num": 259267,
+      "word": "初代吃播网红因身体原因官宣隐退",
+      "onboard_time": 1739532142,
+      "rank": 43,
+      "category": "网红"
     },
     {
       "raw_hot": 214401,
@@ -1435,6 +1451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201026,
+      "num": 260577,
+      "word": "施展 雨微姐我不认识你",
+      "onboard_time": 1739535622,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200941,
       "num": 196165,
       "word": "难哄两支预告两种视角",
@@ -1457,6 +1481,14 @@
       "onboard_time": 1739491460,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 199654,
+      "num": 199654,
+      "word": "演员请就位播了",
+      "onboard_time": 1739536702,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 199579,
@@ -1488,6 +1520,14 @@
       "word": "入青云",
       "onboard_time": 1739501663,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 196569,
+      "num": 196569,
+      "word": "结婚前没买结婚后大概也没有",
+      "onboard_time": 1739536522,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -1577,14 +1617,6 @@
       "onboard_time": 1739528962,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 190960,
-      "num": 190960,
-      "word": "演员请就位播了",
-      "onboard_time": 1739536702,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 189944,
@@ -1699,20 +1731,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 180283,
-      "num": 180283,
-      "word": "初代吃播网红因身体原因官宣隐退",
-      "onboard_time": 1739532142,
-      "rank": 43,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 178893,
-      "num": 178893,
-      "word": "结婚前没买结婚后大概也没有",
-      "onboard_time": 1739536522,
-      "rank": 41,
-      "category": "剧集"
+      "raw_hot": 180130,
+      "num": 260413,
+      "word": "面试猥亵女子的董事长关联9家公司",
+      "onboard_time": 1739529983,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 178705,
@@ -1851,14 +1875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 165160,
-      "num": 260577,
-      "word": "施展 雨微姐我不认识你",
-      "onboard_time": 1739535622,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 165057,
       "num": 307123,
       "word": "台民众有人打飞的来大陆看哪吒2",
@@ -1913,6 +1929,14 @@
       "onboard_time": 1739525302,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 157315,
+      "num": 345838,
+      "word": "重庆燃气集团拟被罚810万元",
+      "onboard_time": 1739529622,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157276,
@@ -2027,6 +2051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 146516,
+      "num": 146516,
+      "word": "林俊杰吃饭被粉丝贴脸唱歌",
+      "onboard_time": 1739537241,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146281,
       "num": 295018,
       "word": "梁洁好淡一个人",
@@ -2092,7 +2124,7 @@
     },
     {
       "raw_hot": 143573,
-      "num": 184199,
+      "num": 257595,
       "word": "冰雪舞者摘金诠释中国美",
       "onboard_time": 1739535862,
       "rank": 36,
@@ -2129,14 +2161,6 @@
       "onboard_time": 1739519481,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 138895,
-      "num": 180338,
-      "word": "面试猥亵女子的董事长关联9家公司",
-      "onboard_time": 1739529983,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 138817,
@@ -2267,12 +2291,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128768,
+      "num": 128768,
+      "word": "周杰伦抱娃照",
+      "onboard_time": 1739537602,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128014,
       "num": 128014,
       "word": "唐诡西行上星",
       "onboard_time": 1739458101,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124855,
+      "num": 124855,
+      "word": "胖东来金饰每克便宜100元",
+      "onboard_time": 1739537782,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121779,
@@ -2304,14 +2344,6 @@
       "word": "大熊猫永明回潘达星了",
       "onboard_time": 1739516360,
       "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119233,
-      "num": 345838,
-      "word": "重庆燃气集团拟被罚810万元",
-      "onboard_time": 1739529622,
-      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -2380,7 +2412,7 @@
     },
     {
       "raw_hot": 110279,
-      "num": 165441,
+      "num": 256489,
       "word": "拐卖王星的团伙成员全被捕",
       "onboard_time": 1739531122,
       "rank": 48,
@@ -2619,6 +2651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 73342,
+      "num": 262821,
+      "word": "康辉又在喊大家落座观礼",
+      "onboard_time": 1739536641,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73037,
       "num": 126883,
       "word": "董思成新剧从富二代到负二代",
@@ -2713,6 +2753,14 @@
       "onboard_time": 1739488516,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 67399,
+      "num": 262742,
+      "word": "林孝埈在线看亚冬会闭幕式",
+      "onboard_time": 1739537062,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 66123,
@@ -3075,6 +3123,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29323,
+      "num": 676252,
+      "word": "被办了亚冬会的Harbin整泪目了",
+      "onboard_time": 1739524042,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 28452,
+      "num": 264035,
+      "word": "多国语言谢谢哈尔滨",
+      "onboard_time": 1739537360,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 28269,
+      "num": 155053,
+      "word": "浪漫的不是花而是送花的人",
+      "onboard_time": 1739537121,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 28177,
       "num": 211723,
       "word": "你愿意花钱买药延长宠物狗寿命吗",
@@ -3099,6 +3171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26218,
+      "num": 257091,
+      "word": "2025亚冬会正式闭幕",
+      "onboard_time": 1739537541,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 25167,
       "num": 324668,
       "word": "普京特朗普通话传递何种信号",
@@ -3113,6 +3193,14 @@
       "onboard_time": 1739508684,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 21440,
+      "num": 260907,
+      "word": "霍震霆宣布亚冬会闭幕",
+      "onboard_time": 1739537541,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 21264,
@@ -3227,14 +3315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 13872,
-      "num": 262821,
-      "word": "康辉又在喊大家落座观礼",
-      "onboard_time": 1739536641,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 13336,
       "num": 160019,
       "word": "美国观众说看完哪吒2笑中带泪",
@@ -3272,14 +3352,6 @@
       "word": "女子冰壶中国5比2日本",
       "onboard_time": 1739459241,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 9240,
-      "num": 623371,
-      "word": "被办了亚冬会的Harbin整泪目了",
-      "onboard_time": 1739524042,
-      "rank": 2,
       "category": "体育"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739536936242,
+  "endTime": 1739537835050,
   "band_list": [
     {
       "raw_hot": 18452349,
@@ -708,7 +708,7 @@
     },
     {
       "raw_hot": 1604954,
-      "num": 542595,
+      "num": 564669,
       "word": "黄圣依情人节晒照",
       "onboard_time": 1739533220,
       "rank": 3,
@@ -1332,7 +1332,7 @@
     },
     {
       "raw_hot": 1136939,
-      "num": 516312,
+      "num": 559253,
       "word": "看31遍哪吒2女生发声",
       "onboard_time": 1739530342,
       "rank": 13,
@@ -1731,6 +1731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 951518,
+      "num": 951518,
+      "word": "Deepseek预测有多靠谱",
+      "onboard_time": 1739534242,
+      "rank": 1,
+      "category": "体育,互联网"
+    },
+    {
       "raw_hot": 951191,
       "num": 532305,
       "word": "陈乔恩打电波脸肿了一个月",
@@ -1841,14 +1849,6 @@
       "onboard_time": 1739464877,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 892477,
-      "num": 892477,
-      "word": "Deepseek预测有多靠谱",
-      "onboard_time": 1739534242,
-      "rank": 1,
-      "category": "体育,互联网"
     },
     {
       "raw_hot": 891295,
@@ -2107,6 +2107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 807900,
+      "num": 434331,
+      "word": "于正新签15后卢雅熙",
+      "onboard_time": 1739534902,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 807259,
       "num": 476211,
       "word": "男生隔空猥亵未成年女孩被判5年",
@@ -2169,14 +2177,6 @@
       "onboard_time": 1739334743,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 790399,
-      "num": 434331,
-      "word": "于正新签15后卢雅熙",
-      "onboard_time": 1739534902,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 788397,
@@ -3523,6 +3523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 540001,
+      "num": 262329,
+      "word": "张碧晨晒与女儿合照",
+      "onboard_time": 1739537602,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 539946,
       "num": 539946,
       "word": "天官赐福",
@@ -4219,6 +4227,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 444418,
+      "num": 261291,
+      "word": "射雕英雄传",
+      "onboard_time": 1739535501,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 444004,
       "num": 444004,
       "word": "大熊猫永明去世",
@@ -4873,14 +4889,6 @@
       "onboard_time": 1739207415,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 380441,
-      "num": 256791,
-      "word": "射雕英雄传",
-      "onboard_time": 1739535501,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 379372,
@@ -7131,6 +7139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250189,
+      "num": 250189,
+      "word": "情人节微信状态",
+      "onboard_time": 1739534242,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 249800,
       "num": 249800,
       "word": "过年偶遇丁程鑫打麻将",
@@ -8339,14 +8355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 217553,
-      "num": 217553,
-      "word": "情人节微信状态",
-      "onboard_time": 1739534242,
-      "rank": 31,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 217546,
       "num": 221141,
       "word": "王楚钦孙颖莎领衔重庆冠军赛阵容",
@@ -8473,6 +8481,14 @@
       "onboard_time": 1739174300,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215183,
+      "num": 259267,
+      "word": "初代吃播网红因身体原因官宣隐退",
+      "onboard_time": 1739532142,
+      "rank": 43,
+      "category": "网红"
     },
     {
       "raw_hot": 215104,
@@ -9355,6 +9371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201026,
+      "num": 260577,
+      "word": "施展 雨微姐我不认识你",
+      "onboard_time": 1739535622,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200987,
       "num": 304253,
       "word": "西藏网友说王一博是藏羚羊",
@@ -9489,6 +9513,14 @@
       "onboard_time": 1739238683,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 199654,
+      "num": 199654,
+      "word": "演员请就位播了",
+      "onboard_time": 1739536702,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 199579,
@@ -9760,6 +9792,14 @@
       "word": "五福临门剧组爆改赵晴宣发组",
       "onboard_time": 1739432600,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 196569,
+      "num": 196569,
+      "word": "结婚前没买结婚后大概也没有",
+      "onboard_time": 1739536522,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -10257,14 +10297,6 @@
       "onboard_time": 1739331261,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 190960,
-      "num": 190960,
-      "word": "演员请就位播了",
-      "onboard_time": 1739536702,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 190780,
@@ -11051,14 +11083,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 180283,
-      "num": 180283,
-      "word": "初代吃播网红因身体原因官宣隐退",
-      "onboard_time": 1739532142,
-      "rank": 43,
-      "category": "网红"
-    },
-    {
       "raw_hot": 180188,
       "num": 180188,
       "word": "为什么龙王家族都姓敖",
@@ -11073,6 +11097,14 @@
       "onboard_time": 1739460501,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180130,
+      "num": 260413,
+      "word": "面试猥亵女子的董事长关联9家公司",
+      "onboard_time": 1739529983,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180046,
@@ -11129,14 +11161,6 @@
       "onboard_time": 1739237241,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 178893,
-      "num": 178893,
-      "word": "结婚前没买结婚后大概也没有",
-      "onboard_time": 1739536522,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 178800,
@@ -12019,14 +12043,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165160,
-      "num": 260577,
-      "word": "施展 雨微姐我不认识你",
-      "onboard_time": 1739535622,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 165057,
       "num": 307123,
       "word": "台民众有人打飞的来大陆看哪吒2",
@@ -12657,6 +12673,14 @@
       "onboard_time": 1739349680,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157315,
+      "num": 345838,
+      "word": "重庆燃气集团拟被罚810万元",
+      "onboard_time": 1739529622,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157276,
@@ -13387,6 +13411,14 @@
       "category": "电影,游戏"
     },
     {
+      "raw_hot": 146516,
+      "num": 146516,
+      "word": "林俊杰吃饭被粉丝贴脸唱歌",
+      "onboard_time": 1739537241,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146514,
       "num": 216200,
       "word": "A股市场出现三大积极信号",
@@ -13644,7 +13676,7 @@
     },
     {
       "raw_hot": 143573,
-      "num": 184199,
+      "num": 257595,
       "word": "冰雪舞者摘金诠释中国美",
       "onboard_time": 1739535862,
       "rank": 36,
@@ -13968,14 +14000,6 @@
       "word": "把发霉的馒头放大1000倍",
       "onboard_time": 1739322741,
       "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 138895,
-      "num": 180338,
-      "word": "面试猥亵女子的董事长关联9家公司",
-      "onboard_time": 1739529983,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -14651,6 +14675,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 128768,
+      "num": 128768,
+      "word": "周杰伦抱娃照",
+      "onboard_time": 1739537602,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128729,
       "num": 128729,
       "word": "勇士vs独行侠",
@@ -14768,6 +14800,14 @@
       "word": "女孩遭欺凌5名涉案人员均已到案",
       "onboard_time": 1739035216,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124855,
+      "num": 124855,
+      "word": "胖东来金饰每克便宜100元",
+      "onboard_time": 1739537782,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -15129,14 +15169,6 @@
       "onboard_time": 1739276839,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 119233,
-      "num": 345838,
-      "word": "重庆燃气集团拟被罚810万元",
-      "onboard_time": 1739529622,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119220,
@@ -15628,7 +15660,7 @@
     },
     {
       "raw_hot": 110279,
-      "num": 165441,
+      "num": 256489,
       "word": "拐卖王星的团伙成员全被捕",
       "onboard_time": 1739531122,
       "rank": 48,
@@ -16923,6 +16955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 73342,
+      "num": 262821,
+      "word": "康辉又在喊大家落座观礼",
+      "onboard_time": 1739536641,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73183,
       "num": 214109,
       "word": "孙颖莎说回去好好休息",
@@ -17177,6 +17217,14 @@
       "onboard_time": 1739488516,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 67399,
+      "num": 262742,
+      "word": "林孝埈在线看亚冬会闭幕式",
+      "onboard_time": 1739537062,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 67321,
@@ -19283,6 +19331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29323,
+      "num": 676252,
+      "word": "被办了亚冬会的Harbin整泪目了",
+      "onboard_time": 1739524042,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29274,
       "num": 257897,
       "word": "制作敖光的龙牙刀用了一年半",
@@ -19315,6 +19371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28452,
+      "num": 264035,
+      "word": "多国语言谢谢哈尔滨",
+      "onboard_time": 1739537360,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28401,
       "num": 134607,
       "word": "邓为回应葱系帅哥",
@@ -19337,6 +19401,14 @@
       "onboard_time": 1739384712,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28269,
+      "num": 155053,
+      "word": "浪漫的不是花而是送花的人",
+      "onboard_time": 1739537121,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 28199,
@@ -19456,6 +19528,14 @@
       "word": "单板滑雪武绍桐摘铜",
       "onboard_time": 1739423183,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 26218,
+      "num": 257091,
+      "word": "2025亚冬会正式闭幕",
+      "onboard_time": 1739537541,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -19769,6 +19849,14 @@
       "onboard_time": 1739302814,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21440,
+      "num": 260907,
+      "word": "霍震霆宣布亚冬会闭幕",
+      "onboard_time": 1739537541,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 21271,
@@ -20267,14 +20355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 13872,
-      "num": 262821,
-      "word": "康辉又在喊大家落座观礼",
-      "onboard_time": 1739536641,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 13618,
       "num": 253366,
       "word": "林诗栋曾说19也不年轻了吧",
@@ -20545,14 +20625,6 @@
       "onboard_time": 1739390292,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9240,
-      "num": 623371,
-      "word": "被办了亚冬会的Harbin整泪目了",
-      "onboard_time": 1739524042,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 9156,
