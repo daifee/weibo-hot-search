@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739525836897,
+  "endTime": 1739528601489,
   "band_list": [
     {
       "raw_hot": 18452349,
@@ -649,6 +649,14 @@
       "onboard_time": 1739239039,
       "rank": 21,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1674492,
+      "num": 1674492,
+      "word": "哪吒2被删减画面首度公开",
+      "onboard_time": 1739527763,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 1652968,
@@ -1457,6 +1465,14 @@
       "onboard_time": 1739082680,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1074579,
+      "num": 476977,
+      "word": "光线传媒给丁禹兮颁发优秀员工奖",
+      "onboard_time": 1739525362,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 1066696,
@@ -2320,6 +2336,14 @@
       "word": "丽江机场道歉",
       "onboard_time": 1739117659,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 723990,
+      "num": 723990,
+      "word": "为了活下去公交公司将40座改9座",
+      "onboard_time": 1739525721,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -5995,6 +6019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 294855,
+      "num": 294855,
+      "word": "胖东来发布红色内裤调查报告",
+      "onboard_time": 1739525601,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 294792,
       "num": 609794,
       "word": "刘少昂超越",
@@ -6193,6 +6225,14 @@
       "onboard_time": 1739357421,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 283816,
+      "num": 283816,
+      "word": "夫妇花7万5做试管婴儿怀疑被骗",
+      "onboard_time": 1739524461,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 282647,
@@ -6424,6 +6464,14 @@
       "word": "哪吒2 百亿补贴",
       "onboard_time": 1739103023,
       "rank": 23,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 275507,
+      "num": 275507,
+      "word": "哪吒2各省份票房排名出炉",
+      "onboard_time": 1739527343,
+      "rank": 26,
       "category": "电影"
     },
     {
@@ -6795,14 +6843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 256033,
-      "num": 256033,
-      "word": "夫妇花7万5做试管婴儿怀疑被骗",
-      "onboard_time": 1739524461,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 255493,
       "num": 255493,
       "word": "哪吒2票房超82亿",
@@ -6865,6 +6905,14 @@
       "onboard_time": 1739267359,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 253177,
+      "num": 288089,
+      "word": "九尾Cat聊什么要聊两个半小时",
+      "onboard_time": 1739527401,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 253152,
@@ -7787,6 +7835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223852,
+      "num": 209284,
+      "word": "哪吒2超104亿",
+      "onboard_time": 1739525901,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 223462,
       "num": 333805,
       "word": "目击者回忆台湾百货大楼爆炸瞬间",
@@ -8603,6 +8659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208518,
+      "num": 208518,
+      "word": "律师称瑶一瑶若7岁还未上学或涉侵权",
+      "onboard_time": 1739527941,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208487,
       "num": 208487,
       "word": "妲己打火舞",
@@ -8729,6 +8793,14 @@
       "onboard_time": 1739166921,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206759,
+      "num": 206759,
+      "word": "白敬亭难哄裸上身",
+      "onboard_time": 1739526081,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 206614,
@@ -9057,6 +9129,14 @@
       "onboard_time": 1739155460,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201982,
+      "num": 201982,
+      "word": "宋亚轩 第一句话重点听一下",
+      "onboard_time": 1739527282,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 201733,
@@ -9707,6 +9787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194465,
+      "num": 194465,
+      "word": "王一博对接辟谣参演女足",
+      "onboard_time": 1739528183,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194420,
       "num": 194420,
       "word": "一姐全程做一",
@@ -10139,6 +10227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189093,
+      "num": 374356,
+      "word": "杨子孤独的情人节快乐",
+      "onboard_time": 1739527462,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188930,
       "num": 188930,
       "word": "律师称若崔漫莉所言属实或被拘役",
@@ -10345,6 +10441,14 @@
       "onboard_time": 1739171300,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186399,
+      "num": 186399,
+      "word": "肖战休憩随拍",
+      "onboard_time": 1739527881,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 186248,
@@ -11003,12 +11107,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 175996,
+      "num": 198875,
+      "word": "极氪领克完成股权交割",
+      "onboard_time": 1739526202,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 175857,
+      "num": 175857,
+      "word": "剧里演刘诗诗闺蜜容易下线",
+      "onboard_time": 1739527642,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175835,
       "num": 175835,
       "word": "欧阳妮妮想再生两个小孩",
       "onboard_time": 1739169860,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175834,
+      "num": 175834,
+      "word": "樊振东飞机头的含金量还在上升",
+      "onboard_time": 1739528062,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 175738,
@@ -11049,6 +11177,14 @@
       "onboard_time": 1739073559,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174806,
+      "num": 174806,
+      "word": "景甜张晚意好实在的剧宣方式",
+      "onboard_time": 1739528302,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 174793,
@@ -11731,6 +11867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164517,
+      "num": 164517,
+      "word": "郭子凡 等你跟我求婚",
+      "onboard_time": 1739528483,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164430,
       "num": 164430,
       "word": "林孝埈米兰冬奥见",
@@ -12115,6 +12259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159578,
+      "num": 159578,
+      "word": "赵露思复工粉裙现身影棚",
+      "onboard_time": 1739526622,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159438,
       "num": 147281,
       "word": "BamBam是胡烨韬铁血单推",
@@ -12169,14 +12321,6 @@
       "onboard_time": 1739056274,
       "rank": 8,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 158906,
-      "num": 158906,
-      "word": "为了活下去公交公司将40座改9座",
-      "onboard_time": 1739525721,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158741,
@@ -12505,6 +12649,14 @@
       "onboard_time": 1739185521,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155039,
+      "num": 155039,
+      "word": "董力官宣结婚",
+      "onboard_time": 1739528541,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 154566,
@@ -13049,14 +13201,6 @@
       "onboard_time": 1739511500,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 146172,
-      "num": 146172,
-      "word": "胖东来发布红色内裤调查报告",
-      "onboard_time": 1739525601,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 146010,
@@ -13635,14 +13779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137627,
-      "num": 222560,
-      "word": "光线传媒给丁禹兮颁发优秀员工奖",
-      "onboard_time": 1739525362,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 137607,
       "num": 137607,
       "word": "石凯曾赔钱上节目",
@@ -14137,6 +14273,14 @@
       "onboard_time": 1739471892,
       "rank": 20,
       "category": "游戏,电影"
+    },
+    {
+      "raw_hot": 130293,
+      "num": 478839,
+      "word": "重庆燃气集团收费问题通报",
+      "onboard_time": 1739528123,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130191,
@@ -16259,6 +16403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 78617,
+      "num": 209812,
+      "word": "1月份人民币存款增长4.32万亿元",
+      "onboard_time": 1739528062,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 78535,
       "num": 197639,
       "word": "谁懂刘诗诗吹蜡烛这一下",
@@ -16817,6 +16969,14 @@
       "onboard_time": 1739402536,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63853,
+      "num": 397634,
+      "word": "想七折买房的人喂饱了法拍房中介",
+      "onboard_time": 1739527101,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63831,
@@ -17643,6 +17803,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 49617,
+      "num": 439689,
+      "word": "滞留南极游客称花了50万没有赔偿",
+      "onboard_time": 1739527821,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49492,
       "num": 326980,
       "word": "伊朗拒绝向美羞辱投降",
@@ -17756,7 +17924,7 @@
     },
     {
       "raw_hot": 46944,
-      "num": 766543,
+      "num": 785477,
       "word": "春耕生产陆续展开",
       "onboard_time": 1739524161,
       "rank": 2,
@@ -18241,6 +18409,14 @@
       "onboard_time": 1739348721,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37823,
+      "num": 416888,
+      "word": "林峯提名金像奖最佳男主角",
+      "onboard_time": 1739527821,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 37653,
@@ -18833,6 +19009,14 @@
       "onboard_time": 1739244322,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28177,
+      "num": 211723,
+      "word": "你愿意花钱买药延长宠物狗寿命吗",
+      "onboard_time": 1739527522,
+      "rank": 28,
+      "category": "民生新闻,议题讨论"
     },
     {
       "raw_hot": 27671,
