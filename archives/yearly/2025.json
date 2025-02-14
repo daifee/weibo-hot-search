@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1739489744184,
+  "endTime": 1739497324726,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1619,6 +1619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2542012,
+      "num": 2542012,
+      "word": "家有儿女的雪竟然是毛巾",
+      "onboard_time": 1739494700,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2534820,
       "num": 2534820,
       "word": "正月初六把穷气送出门",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736925798,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 2104042,
-      "num": 2104042,
-      "word": "台测试封杀小红书遭网友嘲讽",
-      "onboard_time": 1737339856,
-      "rank": 1,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
