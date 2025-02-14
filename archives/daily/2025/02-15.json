@@ -1,6 +1,6 @@
 {
   "startTime": 1739550405629,
-  "endTime": 1739550405629,
+  "endTime": 1739551391159,
   "band_list": [
     {
       "raw_hot": 2090509,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 750063,
-      "num": 285906,
+      "num": 289729,
       "word": "张碧晨晒与女儿合照",
       "onboard_time": 1739537602,
       "rank": 10,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 516240,
-      "num": 285007,
+      "num": 288506,
       "word": "哪吒2超107亿",
       "onboard_time": 1739544263,
       "rank": 11,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 361233,
+      "num": 361233,
+      "word": "男子近九千报专升本最后成肄业",
+      "onboard_time": 1739547623,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 353399,
       "num": 283449,
       "word": "张嘉元道歉",
@@ -84,26 +92,26 @@
     },
     {
       "raw_hot": 349238,
-      "num": 282877,
+      "num": 287873,
       "word": "Deepseek预测有多靠谱",
       "onboard_time": 1739534242,
       "rank": 13,
       "category": "体育,互联网"
     },
     {
-      "raw_hot": 337029,
-      "num": 281394,
+      "raw_hot": 347732,
+      "num": 287975,
       "word": "翔霖",
       "onboard_time": 1739547801,
       "rank": 14,
       "category": "艺人"
     },
     {
-      "raw_hot": 288208,
-      "num": 288208,
-      "word": "男子近九千报专升本最后成肄业",
-      "onboard_time": 1739547623,
-      "rank": 8,
+      "raw_hot": 290400,
+      "num": 290400,
+      "word": "下周开学",
+      "onboard_time": 1739549241,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 279075,
-      "num": 224080,
+      "num": 224541,
       "word": "黄圣依情人节晒照",
       "onboard_time": 1739533220,
       "rank": 20,
@@ -131,8 +139,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 246446,
-      "num": 246446,
+      "raw_hot": 259310,
+      "num": 259310,
+      "word": "超90%成年人体内携带接吻病毒",
+      "onboard_time": 1739551278,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258976,
+      "num": 258976,
       "word": "两空乘尿检阳性被停职法医还清白",
       "onboard_time": 1739539583,
       "rank": 17,
@@ -161,6 +177,14 @@
       "onboard_time": 1739547681,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183778,
+      "num": 183778,
+      "word": "赵磊结婚谷嘉诚郭子凡在这又唱又跳",
+      "onboard_time": 1739550379,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 162480,
@@ -227,20 +251,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 135040,
+      "num": 135040,
+      "word": "潘宏下架全部视频",
+      "onboard_time": 1739531783,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 134385,
       "num": 134385,
       "word": "徐开骋还在",
       "onboard_time": 1739540844,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 131651,
-      "num": 131651,
-      "word": "潘宏下架全部视频",
-      "onboard_time": 1739531783,
-      "rank": 31,
-      "category": "网红"
     },
     {
       "raw_hot": 131421,
@@ -307,16 +331,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 111929,
-      "num": 287871,
-      "word": "下周开学",
-      "onboard_time": 1739549241,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 106637,
-      "num": 106637,
+      "num": 108766,
       "word": "演员请就位播了",
       "onboard_time": 1739536702,
       "rank": 40,
@@ -324,7 +340,7 @@
     },
     {
       "raw_hot": 97526,
-      "num": 97526,
+      "num": 108697,
       "word": "哪吒2进全球票房前14",
       "onboard_time": 1739536221,
       "rank": 41,
@@ -332,7 +348,7 @@
     },
     {
       "raw_hot": 95868,
-      "num": 95868,
+      "num": 108718,
       "word": "单依纯我管不住我不期待",
       "onboard_time": 1739543843,
       "rank": 42,
@@ -340,7 +356,7 @@
     },
     {
       "raw_hot": 93969,
-      "num": 93969,
+      "num": 108804,
       "word": "世界之外",
       "onboard_time": 1739543603,
       "rank": 43,
@@ -348,7 +364,7 @@
     },
     {
       "raw_hot": 93791,
-      "num": 93791,
+      "num": 108619,
       "word": "专业人士提醒砸冰捞鱼具有危险性",
       "onboard_time": 1739543424,
       "rank": 44,
@@ -363,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86209,
+      "num": 108754,
+      "word": "于佩尔一眼看中孙丞潇",
+      "onboard_time": 1739550500,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 84599,
       "num": 84599,
       "word": "演员请就位 刘品言",
@@ -371,20 +395,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 77630,
-      "num": 77630,
-      "word": "赵磊结婚谷嘉诚郭子凡在这又唱又跳",
-      "onboard_time": 1739550379,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 74769,
       "num": 74769,
       "word": "光线传媒给丁禹兮颁发优秀员工奖",
       "onboard_time": 1739525362,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 69241,
+      "num": 108668,
+      "word": "夏以昼初恋",
+      "onboard_time": 1739550559,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 59522,
@@ -401,6 +425,30 @@
       "onboard_time": 1739542044,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21294,
+      "num": 290379,
+      "word": "丘成桐给年轻人的求学建议",
+      "onboard_time": 1739550439,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16053,
+      "num": 108861,
+      "word": "紫幻希望狼队多拿冠军",
+      "onboard_time": 1739551337,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 8370,
+      "num": 110855,
+      "word": "难哄有用心地在哄",
+      "onboard_time": 1739551337,
+      "rank": 35,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
