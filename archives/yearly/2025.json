@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1739498291037,
+  "endTime": 1739501536723,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -119,6 +119,14 @@
       "num": 16088904,
       "word": "鹿晗道歉",
       "onboard_time": 1736148990,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 15877904,
+      "num": 15877904,
+      "word": "赵磊官宣结婚",
+      "onboard_time": 1739499200,
       "rank": 0,
       "category": "艺人"
     },
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736296521,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2104574,
-      "num": 2104574,
-      "word": "洛杉矶富人有钱能让山火改道",
-      "onboard_time": 1736925798,
-      "rank": 19,
-      "category": "海外新闻"
     }
   ],
   "hotgov_list": [

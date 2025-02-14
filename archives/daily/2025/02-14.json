@@ -1,7 +1,15 @@
 {
   "startTime": 1739464152455,
-  "endTime": 1739498291037,
+  "endTime": 1739501536723,
   "band_list": [
+    {
+      "raw_hot": 15877904,
+      "num": 15877904,
+      "word": "赵磊官宣结婚",
+      "onboard_time": 1739499200,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2564082,
       "num": 2564082,
@@ -9,6 +17,22 @@
       "onboard_time": 1739494700,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1981063,
+      "num": 515279,
+      "word": "赵磊qko",
+      "onboard_time": 1739499621,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1763549,
+      "num": 471175,
+      "word": "饺子说哪吒3很难突破哪吒2",
+      "onboard_time": 1739499862,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 1651076,
@@ -43,6 +67,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1131828,
+      "num": 267536,
+      "word": "大学生捐精七成以上不达标",
+      "onboard_time": 1739498540,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1040047,
+      "num": 1040047,
+      "word": "央视曝光卖惨主播骗人流水线",
+      "onboard_time": 1739498359,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 969826,
       "num": 775809,
       "word": "张艺谋祝贺哪吒2破百亿",
@@ -73,6 +113,14 @@
       "onboard_time": 1739455102,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 659725,
+      "num": 212838,
+      "word": "瑶一瑶小肉包",
+      "onboard_time": 1739497580,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 599622,
@@ -163,6 +211,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 400121,
+      "num": 400121,
+      "word": "中国留学生在美遇害案嫌疑人照片公布",
+      "onboard_time": 1739497761,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 392997,
       "num": 292965,
       "word": "章子怡被演员的表演雷到",
@@ -187,11 +243,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 358175,
+      "num": 194097,
+      "word": "网剧漫城开播",
+      "onboard_time": 1739499981,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 352075,
       "num": 233267,
       "word": "众星祝贺哪吒2",
       "onboard_time": 1739456183,
       "rank": 13,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 342228,
+      "num": 193750,
+      "word": "石矶娘娘1分钟画面做了1个月",
+      "onboard_time": 1739498300,
+      "rank": 25,
       "category": "电影"
     },
     {
@@ -251,6 +323,22 @@
       "category": "财经,电影"
     },
     {
+      "raw_hot": 302268,
+      "num": 206132,
+      "word": "马云现身长沙",
+      "onboard_time": 1739499441,
+      "rank": 15,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 292708,
+      "num": 193389,
+      "word": "23岁小伙每天超8小时赶论文血栓了",
+      "onboard_time": 1739497940,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 290449,
       "num": 290449,
       "word": "美军航母在地中海与商船相撞",
@@ -272,6 +360,14 @@
       "word": "刘诗诗回应下雨天穿白裙子",
       "onboard_time": 1739488516,
       "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 247696,
+      "num": 192849,
+      "word": "枭起青壤",
+      "onboard_time": 1739500403,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -297,6 +393,14 @@
       "onboard_time": 1739496860,
       "rank": 35,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 233665,
+      "num": 191331,
+      "word": "光线传媒",
+      "onboard_time": 1739499079,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 223462,
@@ -339,12 +443,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 204650,
-      "num": 204650,
-      "word": "瑶一瑶小肉包",
-      "onboard_time": 1739497580,
-      "rank": 29,
-      "category": "网红"
+      "raw_hot": 208236,
+      "num": 190813,
+      "word": "滤镜定档",
+      "onboard_time": 1739500643,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 207816,
+      "num": 190316,
+      "word": "樱桃琥珀",
+      "onboard_time": 1739500824,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 200699,
@@ -363,6 +475,54 @@
       "category": "电影"
     },
     {
+      "raw_hot": 196918,
+      "num": 196918,
+      "word": "开学第一天",
+      "onboard_time": 1739498000,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193770,
+      "num": 193770,
+      "word": "微信开放520元大额红包",
+      "onboard_time": 1739500403,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 192797,
+      "num": 192797,
+      "word": "樊振东是首位超级金满贯得主",
+      "onboard_time": 1739500824,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 189944,
+      "num": 189944,
+      "word": "山河枕",
+      "onboard_time": 1739500523,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 182145,
+      "num": 182145,
+      "word": "虞书欣黄杨钿甜八年前的合照",
+      "onboard_time": 1739488576,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 178575,
+      "num": 178575,
+      "word": "潘宏在剧院演出时玩梗艾特洗澡",
+      "onboard_time": 1739499741,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 177113,
       "num": 177113,
       "word": "张碧晨让饺子导演别有压力",
@@ -379,10 +539,10 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 171731,
-      "num": 180981,
-      "word": "虞书欣黄杨钿甜八年前的合照",
-      "onboard_time": 1739488576,
+      "raw_hot": 172015,
+      "num": 196411,
+      "word": "qko是初代网红",
+      "onboard_time": 1739501242,
       "rank": 19,
       "category": "艺人"
     },
@@ -401,6 +561,14 @@
       "onboard_time": 1739496740,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166779,
+      "num": 166779,
+      "word": "双轨",
+      "onboard_time": 1739499921,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 161445,
@@ -427,20 +595,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 151867,
-      "num": 151867,
-      "word": "开学第一天",
-      "onboard_time": 1739498000,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 150397,
       "num": 150397,
       "word": "孙颖莎说WTT需要奥运冠军去参赛",
       "onboard_time": 1739442442,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150071,
+      "num": 150071,
+      "word": "逍遥",
+      "onboard_time": 1739501182,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 145747,
@@ -531,12 +699,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122524,
-      "num": 122524,
-      "word": "23岁小伙每天超8小时赶论文血栓了",
-      "onboard_time": 1739497940,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 121817,
+      "num": 131943,
+      "word": "不要谈套路式恋爱",
+      "onboard_time": 1739498781,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 121779,
@@ -548,7 +716,7 @@
     },
     {
       "raw_hot": 121429,
-      "num": 121429,
+      "num": 198263,
       "word": "伊宁一社区主任撞脸太乙真人",
       "onboard_time": 1739498119,
       "rank": 46,
@@ -561,6 +729,14 @@
       "onboard_time": 1739444901,
       "rank": 29,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 115611,
+      "num": 192700,
+      "word": "我会记得有亚冬会的冰雪春天",
+      "onboard_time": 1739501363,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 111254,
@@ -609,14 +785,6 @@
       "onboard_time": 1739461161,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93221,
-      "num": 254322,
-      "word": "中国留学生在美遇害案嫌疑人照片公布",
-      "onboard_time": 1739497761,
-      "rank": 13,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 92836,

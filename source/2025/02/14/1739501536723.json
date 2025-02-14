@@ -1,0 +1,410 @@
+{
+  "runTime": 1739501536723,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 15877904,
+        "num": 15877904,
+        "word": "赵磊官宣结婚",
+        "onboard_time": 1739499200,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1040047,
+        "num": 1040047,
+        "word": "央视曝光卖惨主播骗人流水线",
+        "onboard_time": 1739498359,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25010,
+        "num": 795822,
+        "word": "首善答卷",
+        "onboard_time": 1739454563,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 613360,
+        "num": 613360,
+        "word": "情人节",
+        "onboard_time": 1739464877,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 594518,
+        "num": 594518,
+        "word": "两千万粉丝小网红母亲回应摆拍质疑",
+        "onboard_time": 1739451442,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1981063,
+        "num": 515279,
+        "word": "赵磊qko",
+        "onboard_time": 1739499621,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1763549,
+        "num": 471175,
+        "word": "饺子说哪吒3很难突破哪吒2",
+        "onboard_time": 1739499862,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1539086,
+        "num": 462436,
+        "word": "家有儿女的雪竟然是毛巾",
+        "onboard_time": 1739494700,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 400121,
+        "num": 400121,
+        "word": "中国留学生在美遇害案嫌疑人照片公布",
+        "onboard_time": 1739497761,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 269107,
+        "num": 269107,
+        "word": "苹果将于2月19日发布新品",
+        "onboard_time": 1739489177,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1131828,
+        "num": 267536,
+        "word": "大学生捐精七成以上不达标",
+        "onboard_time": 1739498540,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9781,
+        "num": 250262,
+        "word": "哪吒破百亿蒙牛来补贴",
+        "onboard_time": 1739496500,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 984945,
+        "num": 236757,
+        "word": "瑶一瑶小肉包母亲称停止恶意造谣",
+        "onboard_time": 1739496382,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 680579,
+        "num": 225763,
+        "word": "哪吒2连说100个谢谢",
+        "onboard_time": 1739489296,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 659725,
+        "num": 212838,
+        "word": "瑶一瑶小肉包",
+        "onboard_time": 1739497580,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 302268,
+        "num": 206132,
+        "word": "马云现身长沙",
+        "onboard_time": 1739499441,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 200566,
+        "num": 200566,
+        "word": "65万元春晚机器人一机难求",
+        "onboard_time": 1739470033,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95706,
+        "num": 198263,
+        "word": "伊宁一社区主任撞脸太乙真人",
+        "onboard_time": 1739498119,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 196918,
+        "num": 196918,
+        "word": "开学第一天",
+        "onboard_time": 1739498000,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172015,
+        "num": 196411,
+        "word": "qko是初代网红",
+        "onboard_time": 1739501242,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 600082,
+        "num": 196016,
+        "word": "哪吒2破100亿",
+        "onboard_time": 1739445507,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 385250,
+        "num": 195477,
+        "word": "李惠利梦女",
+        "onboard_time": 1739494402,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363648,
+        "num": 195001,
+        "word": "哪吒2让义乌几年前滞销商品翻红",
+        "onboard_time": 1739495660,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 358175,
+        "num": 194097,
+        "word": "网剧漫城开播",
+        "onboard_time": 1739499981,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193770,
+        "num": 193770,
+        "word": "微信开放520元大额红包",
+        "onboard_time": 1739500403,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 342228,
+        "num": 193750,
+        "word": "石矶娘娘1分钟画面做了1个月",
+        "onboard_time": 1739498300,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 292708,
+        "num": 193389,
+        "word": "23岁小伙每天超8小时赶论文血栓了",
+        "onboard_time": 1739497940,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269996,
+        "num": 193055,
+        "word": "马柏全 张康乐",
+        "onboard_time": 1739488876,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247696,
+        "num": 192849,
+        "word": "枭起青壤",
+        "onboard_time": 1739500403,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192797,
+        "num": 192797,
+        "word": "樊振东是首位超级金满贯得主",
+        "onboard_time": 1739500824,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115611,
+        "num": 192700,
+        "word": "我会记得有亚冬会的冰雪春天",
+        "onboard_time": 1739501363,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288555,
+        "num": 192215,
+        "word": "周扬青晒妈妈买的衣服",
+        "onboard_time": 1739494761,
+        "rank": 31,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 242015,
+        "num": 191745,
+        "word": "哪吒2破百亿票房曲线图太燃了",
+        "onboard_time": 1739455102,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 233665,
+        "num": 191331,
+        "word": "光线传媒",
+        "onboard_time": 1739499079,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 208236,
+        "num": 190813,
+        "word": "滤镜定档",
+        "onboard_time": 1739500643,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207816,
+        "num": 190316,
+        "word": "樱桃琥珀",
+        "onboard_time": 1739500824,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189944,
+        "num": 189944,
+        "word": "山河枕",
+        "onboard_time": 1739500523,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182417,
+        "num": 182417,
+        "word": "崔某某已被行拘",
+        "onboard_time": 1739490616,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182145,
+        "num": 182145,
+        "word": "虞书欣黄杨钿甜八年前的合照",
+        "onboard_time": 1739488576,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163606,
+        "num": 179391,
+        "word": "2月14日的浪漫从早安开始",
+        "onboard_time": 1739488996,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178575,
+        "num": 178575,
+        "word": "潘宏在剧院演出时玩梗艾特洗澡",
+        "onboard_time": 1739499741,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 166779,
+        "num": 166779,
+        "word": "双轨",
+        "onboard_time": 1739499921,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163453,
+        "num": 163453,
+        "word": "发朋友圈被误认出国的旅游地",
+        "onboard_time": 1739489596,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 150352,
+        "num": 150352,
+        "word": "肖战拿到角色第一反应是不敢相信",
+        "onboard_time": 1739490078,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150071,
+        "num": 150071,
+        "word": "逍遥",
+        "onboard_time": 1739501182,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141610,
+        "num": 141610,
+        "word": "美军航母在地中海与商船相撞",
+        "onboard_time": 1739488996,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138142,
+        "num": 138142,
+        "word": "用男性思维谈恋爱会有多爽",
+        "onboard_time": 1739488996,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131946,
+        "num": 131946,
+        "word": "TikTok已在美国AppStore重新上架",
+        "onboard_time": 1739496860,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 121817,
+        "num": 131943,
+        "word": "不要谈套路式恋爱",
+        "onboard_time": 1739498781,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113464,
+        "num": 131376,
+        "word": "潘宏再回应艾特和小宝死亡事件",
+        "onboard_time": 1739488516,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#绿水青山瞰我家#"
+    }
+  }
+}
