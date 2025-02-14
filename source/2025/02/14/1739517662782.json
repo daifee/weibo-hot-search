@@ -1,0 +1,410 @@
+{
+  "runTime": 1739517662782,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2988414,
+        "num": 2988414,
+        "word": "赵磊官宣结婚",
+        "onboard_time": 1739499200,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1269941,
+        "num": 1269941,
+        "word": "手机半夜自己下单1.5万元手表",
+        "onboard_time": 1739511500,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 617003,
+        "num": 617003,
+        "word": "保时捷格局",
+        "onboard_time": 1739509883,
+        "rank": 2,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1079591,
+        "num": 576016,
+        "word": "方力申官宣结婚",
+        "onboard_time": 1739512162,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443958,
+        "num": 443958,
+        "word": "情人节",
+        "onboard_time": 1739464877,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 363094,
+        "num": 442049,
+        "word": "鲸鱼一口吞下皮划艇运动员又吐出",
+        "onboard_time": 1739505143,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 852636,
+        "num": 441156,
+        "word": "哪吒",
+        "onboard_time": 1739516061,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 796181,
+        "num": 438272,
+        "word": "余承恩妈妈终于承认他帅了",
+        "onboard_time": 1739511982,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320974,
+        "num": 437367,
+        "word": "央视曝光卖惨主播骗人流水线",
+        "onboard_time": 1739498359,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255621,
+        "num": 433994,
+        "word": "15毫米针头留癌症患者体内30天",
+        "onboard_time": 1739511443,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1909030,
+        "num": 431779,
+        "word": "贺美琦加入时代峰峻",
+        "onboard_time": 1739514141,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 591682,
+        "num": 430197,
+        "word": "董力女友晒照官宣恋情",
+        "onboard_time": 1739505863,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 577476,
+        "num": 428031,
+        "word": "瑶一瑶小肉包账号限制评论",
+        "onboard_time": 1739507306,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 561985,
+        "num": 424743,
+        "word": "饺子说哪吒3很难突破哪吒2",
+        "onboard_time": 1739499862,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 66321,
+        "num": 423447,
+        "word": "中国女子冰壶银牌",
+        "onboard_time": 1739516840,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121052,
+        "num": 421894,
+        "word": "大熊猫永明回潘达星了",
+        "onboard_time": 1739516360,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158833,
+        "num": 419069,
+        "word": "周笔畅声生不息微博网友挚爱歌手",
+        "onboard_time": 1739517323,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307805,
+        "num": 417986,
+        "word": "地铁抢座吓坏孩子父亲状告老人",
+        "onboard_time": 1739513422,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103180,
+        "num": 414473,
+        "word": "海底捞回应消费者疑吃出刀片被划伤",
+        "onboard_time": 1739516301,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83567,
+        "num": 412088,
+        "word": "母亲就拍瑶一瑶小肉包被绊倒致歉",
+        "onboard_time": 1739517021,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 772071,
+        "num": 409513,
+        "word": "半藏森林",
+        "onboard_time": 1739506162,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 579894,
+        "num": 409223,
+        "word": "曝侃爷比安卡将离婚",
+        "onboard_time": 1739514081,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223787,
+        "num": 406169,
+        "word": "大学生捐精七成以上不达标",
+        "onboard_time": 1739498540,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 480840,
+        "num": 404969,
+        "word": "无量仙翁祝贺哪吒2破100亿",
+        "onboard_time": 1739507544,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 458328,
+        "num": 401249,
+        "word": "易烊千玺 演唱会",
+        "onboard_time": 1739512640,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 400862,
+        "num": 400862,
+        "word": "票房破百亿后找不到太乙真人了",
+        "onboard_time": 1739503103,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41847,
+        "num": 386653,
+        "word": "张智霖吉利银河翼真L380首席机长",
+        "onboard_time": 1739514982,
+        "rank": 26,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 383863,
+        "num": 383863,
+        "word": "瑶一瑶摆拍争议两个底线不容突破",
+        "onboard_time": 1739514920,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 51044,
+        "num": 383296,
+        "word": "瞿颖晒合照为胡兵庆生",
+        "onboard_time": 1739517501,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11931,
+        "num": 377390,
+        "word": "泰国女选手举照片纪念坠机花滑运动员",
+        "onboard_time": 1739517441,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218707,
+        "num": 368986,
+        "word": "金价大涨年轻人拿父母老首饰换新",
+        "onboard_time": 1739515282,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37631,
+        "num": 365083,
+        "word": "克里斯蒂给独行侠球迷疗伤",
+        "onboard_time": 1739513241,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 363122,
+        "num": 363122,
+        "word": "瑶一瑶小肉包",
+        "onboard_time": 1739497580,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 329129,
+        "num": 329129,
+        "word": "张睿家结婚",
+        "onboard_time": 1739515703,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69904,
+        "num": 323984,
+        "word": "媒体评老年大学沦为大卖场",
+        "onboard_time": 1739515822,
+        "rank": 34,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 323817,
+        "num": 323817,
+        "word": "张馨予何捷情人节狗粮已送达",
+        "onboard_time": 1739515882,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299690,
+        "num": 299690,
+        "word": "家有儿女的雪竟然是毛巾",
+        "onboard_time": 1739494700,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282082,
+        "num": 282082,
+        "word": "赵露思病愈后开工状态",
+        "onboard_time": 1739514500,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231799,
+        "num": 231799,
+        "word": "用deepseek写的歌在网易云火了",
+        "onboard_time": 1739512582,
+        "rank": 38,
+        "category": "音乐,互联网"
+      },
+      {
+        "raw_hot": 221451,
+        "num": 221451,
+        "word": "昭昭墨墨情人节营业啦",
+        "onboard_time": 1739516782,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209074,
+        "num": 209074,
+        "word": "赵磊qko",
+        "onboard_time": 1739499621,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182217,
+        "num": 182217,
+        "word": "今年玫瑰价格有些任性",
+        "onboard_time": 1739513901,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36667,
+        "num": 180616,
+        "word": "哈登真劳模",
+        "onboard_time": 1739516301,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180387,
+        "num": 180387,
+        "word": "王俊凯的投入让导演惊讶了",
+        "onboard_time": 1739508744,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165442,
+        "num": 165442,
+        "word": "男子为买大G出售5斤黄金净赚80万",
+        "onboard_time": 1739517441,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151821,
+        "num": 151821,
+        "word": "妻子的浪漫旅行2025官宣",
+        "onboard_time": 1739503161,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102399,
+        "num": 148099,
+        "word": "辅警跪地狂按救下一条命",
+        "onboard_time": 1739515461,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148001,
+        "num": 148001,
+        "word": "张彬彬两千万腹利来了",
+        "onboard_time": 1739517561,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145131,
+        "num": 145131,
+        "word": "恋与制作人白起情人节气球",
+        "onboard_time": 1739517080,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143063,
+        "num": 143063,
+        "word": "长沙女子半夜惊醒床底揪出黑衣男",
+        "onboard_time": 1739506584,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#绿水青山瞰我家#"
+    }
+  }
+}

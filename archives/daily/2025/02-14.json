@@ -1,6 +1,6 @@
 {
   "startTime": 1739464152455,
-  "endTime": 1739515411348,
+  "endTime": 1739517662782,
   "band_list": [
     {
       "raw_hot": 16764336,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2839319,
-      "num": 407942,
+      "num": 409513,
       "word": "半藏森林",
       "onboard_time": 1739506162,
       "rank": 10,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2142887,
-      "num": 350024,
+      "num": 431779,
       "word": "贺美琦加入时代峰峻",
       "onboard_time": 1739514141,
       "rank": 6,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1327098,
-      "num": 408403,
+      "num": 430197,
       "word": "董力女友晒照官宣恋情",
       "onboard_time": 1739505863,
       "rank": 12,
@@ -105,6 +105,14 @@
       "onboard_time": 1739506765,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1269941,
+      "num": 1269941,
+      "word": "手机半夜自己下单1.5万元手表",
+      "onboard_time": 1739511500,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1259329,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 1131828,
-      "num": 350469,
+      "num": 406169,
       "word": "大学生捐精七成以上不达标",
       "onboard_time": 1739498540,
       "rank": 10,
@@ -179,14 +187,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 904326,
-      "num": 904326,
-      "word": "手机半夜自己下单1.5万元手表",
-      "onboard_time": 1739511500,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 893220,
       "num": 893220,
       "word": "情人节",
@@ -201,6 +201,22 @@
       "onboard_time": 1739497580,
       "rank": 29,
       "category": "网红"
+    },
+    {
+      "raw_hot": 852636,
+      "num": 441156,
+      "word": "哪吒",
+      "onboard_time": 1739403858,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 796181,
+      "num": 438272,
+      "word": "余承恩妈妈终于承认他帅了",
+      "onboard_time": 1739511982,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 780766,
@@ -243,16 +259,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 596720,
-      "num": 284340,
-      "word": "余承恩妈妈终于承认他帅了",
-      "onboard_time": 1739511982,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 585339,
-      "num": 280150,
+      "num": 409223,
       "word": "曝侃爷比安卡将离婚",
       "onboard_time": 1739514081,
       "rank": 26,
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 583188,
-      "num": 291295,
+      "num": 401249,
       "word": "易烊千玺 演唱会",
       "onboard_time": 1739512640,
       "rank": 12,
@@ -427,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 383863,
+      "num": 383863,
+      "word": "瑶一瑶摆拍争议两个底线不容突破",
+      "onboard_time": 1739514920,
+      "rank": 9,
+      "category": "网红"
+    },
+    {
       "raw_hot": 372781,
       "num": 350624,
       "word": "和暗恋九年的crush同居了",
@@ -516,10 +532,18 @@
     },
     {
       "raw_hot": 330861,
-      "num": 258635,
+      "num": 282082,
       "word": "赵露思病愈后开工状态",
       "onboard_time": 1739514500,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 329129,
+      "num": 329129,
+      "word": "张睿家结婚",
+      "onboard_time": 1739515703,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -555,6 +579,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 323817,
+      "num": 323817,
+      "word": "张馨予何捷情人节狗粮已送达",
+      "onboard_time": 1739515882,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 318620,
       "num": 318620,
       "word": "无限暖暖",
@@ -577,6 +609,14 @@
       "onboard_time": 1739504303,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 307805,
+      "num": 417986,
+      "word": "地铁抢座吓坏孩子父亲状告老人",
+      "onboard_time": 1739513422,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 306862,
@@ -620,7 +660,7 @@
     },
     {
       "raw_hot": 278610,
-      "num": 280566,
+      "num": 433994,
       "word": "15毫米针头留癌症患者体内30天",
       "onboard_time": 1739511443,
       "rank": 25,
@@ -665,14 +705,6 @@
       "onboard_time": 1739489596,
       "rank": 26,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 256957,
-      "num": 290370,
-      "word": "地铁抢座吓坏孩子父亲状告老人",
-      "onboard_time": 1739513422,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 253016,
@@ -763,6 +795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 231799,
+      "num": 231799,
+      "word": "用deepseek写的歌在网易云火了",
+      "onboard_time": 1739512582,
+      "rank": 49,
+      "category": "音乐,互联网"
+    },
+    {
       "raw_hot": 229699,
       "num": 297499,
       "word": "开学第一天",
@@ -779,12 +819,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 221451,
+      "num": 221451,
+      "word": "昭昭墨墨情人节营业啦",
+      "onboard_time": 1739516782,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221245,
       "num": 408265,
       "word": "菲律宾夺亚冬会首金韩国队被打懵",
       "onboard_time": 1739510064,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 218707,
+      "num": 368986,
+      "word": "金价大涨年轻人拿父母老首饰换新",
+      "onboard_time": 1739515282,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 217882,
@@ -1011,6 +1067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 182217,
+      "num": 231405,
+      "word": "今年玫瑰价格有些任性",
+      "onboard_time": 1739513901,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182145,
       "num": 182145,
       "word": "虞书欣黄杨钿甜八年前的合照",
@@ -1123,6 +1187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165442,
+      "num": 165442,
+      "word": "男子为买大G出售5斤黄金净赚80万",
+      "onboard_time": 1739517441,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162241,
       "num": 327765,
       "word": "你有孤独羞耻吗",
@@ -1145,6 +1217,14 @@
       "onboard_time": 1739452223,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158833,
+      "num": 419069,
+      "word": "周笔畅声生不息微博网友挚爱歌手",
+      "onboard_time": 1739517323,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 157208,
@@ -1203,20 +1283,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 148814,
-      "num": 231405,
-      "word": "今年玫瑰价格有些任性",
-      "onboard_time": 1739513901,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 148586,
-      "num": 148586,
-      "word": "用deepseek写的歌在网易云火了",
-      "onboard_time": 1739512582,
-      "rank": 49,
-      "category": "音乐,互联网"
+      "raw_hot": 148001,
+      "num": 148001,
+      "word": "张彬彬两千万腹利来了",
+      "onboard_time": 1739517561,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 146281,
@@ -1257,6 +1329,14 @@
       "onboard_time": 1739508024,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 145131,
+      "num": 145131,
+      "word": "恋与制作人白起情人节气球",
+      "onboard_time": 1739517080,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 142145,
@@ -1371,6 +1451,14 @@
       "category": "民生新闻,电影"
     },
     {
+      "raw_hot": 121052,
+      "num": 421894,
+      "word": "大熊猫永明回潘达星了",
+      "onboard_time": 1739516360,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115818,
       "num": 354164,
       "word": "五星级酒店能被情人节盘活吗",
@@ -1393,14 +1481,6 @@
       "onboard_time": 1739501363,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 114201,
-      "num": 297552,
-      "word": "瑶一瑶摆拍争议两个底线不容突破",
-      "onboard_time": 1739514920,
-      "rank": 9,
-      "category": "网红"
     },
     {
       "raw_hot": 112533,
@@ -1459,20 +1539,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105404,
-      "num": 193314,
-      "word": "金价大涨年轻人拿父母老首饰换新",
-      "onboard_time": 1739515282,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 104334,
       "num": 270574,
       "word": "勇士当了回湖人侠",
       "onboard_time": 1739513901,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103180,
+      "num": 414473,
+      "word": "海底捞回应消费者疑吃出刀片被划伤",
+      "onboard_time": 1739516301,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102399,
+      "num": 148099,
+      "word": "辅警跪地狂按救下一条命",
+      "onboard_time": 1739515461,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101642,
@@ -1571,12 +1659,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82825,
-      "num": 127277,
-      "word": "哪吒",
-      "onboard_time": 1739403858,
-      "rank": 38,
-      "category": "电影"
+      "raw_hot": 83567,
+      "num": 412088,
+      "word": "母亲就拍瑶一瑶小肉包被绊倒致歉",
+      "onboard_time": 1739517021,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 82059,
@@ -1652,7 +1740,7 @@
     },
     {
       "raw_hot": 71919,
-      "num": 190666,
+      "num": 386653,
       "word": "张智霖吉利银河翼真L380首席机长",
       "onboard_time": 1739514982,
       "rank": 43,
@@ -1691,6 +1779,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 69904,
+      "num": 323984,
+      "word": "媒体评老年大学沦为大卖场",
+      "onboard_time": 1739515822,
+      "rank": 34,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 68701,
       "num": 238731,
       "word": "男生选情人节餐厅太难了",
@@ -1705,6 +1801,14 @@
       "onboard_time": 1739488516,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 66321,
+      "num": 423447,
+      "word": "中国女子冰壶银牌",
+      "onboard_time": 1739516840,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 66123,
@@ -1777,6 +1881,14 @@
       "onboard_time": 1739508923,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 51044,
+      "num": 383296,
+      "word": "瞿颖晒合照为胡兵庆生",
+      "onboard_time": 1739517501,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 51014,
@@ -1859,12 +1971,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37631,
+      "num": 365083,
+      "word": "克里斯蒂给独行侠球迷疗伤",
+      "onboard_time": 1739513241,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37394,
       "num": 261364,
       "word": "哪吒1分钟的打斗画面磨了半年",
       "onboard_time": 1739514560,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 36667,
+      "num": 180616,
+      "word": "哈登真劳模",
+      "onboard_time": 1739516301,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 36426,
@@ -2017,6 +2145,14 @@
       "onboard_time": 1739477471,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 11931,
+      "num": 377390,
+      "word": "泰国女选手举照片纪念坠机花滑运动员",
+      "onboard_time": 1739517441,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 10721,
