@@ -1,6 +1,6 @@
 {
   "startTime": 1739464152455,
-  "endTime": 1739529625277,
+  "endTime": 1739531944495,
   "band_list": [
     {
       "raw_hot": 16764336,
@@ -19,20 +19,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 2977340,
+      "num": 2977340,
+      "word": "哪吒2被删减画面首度公开",
+      "onboard_time": 1739527763,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 2839319,
       "num": 409513,
       "word": "半藏森林",
       "onboard_time": 1739506162,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2672712,
-      "num": 2672712,
-      "word": "哪吒2被删减画面首度公开",
-      "onboard_time": 1739527763,
-      "rank": 0,
-      "category": "电影"
     },
     {
       "raw_hot": 2564082,
@@ -144,6 +144,14 @@
       "word": "董力女友晒照官宣恋情",
       "onboard_time": 1739505863,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1302015,
+      "num": 534198,
+      "word": "董力官宣结婚",
+      "onboard_time": 1739528541,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -363,6 +371,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 619743,
+      "num": 310029,
+      "word": "看31遍哪吒2女生发声",
+      "onboard_time": 1739530342,
+      "rank": 13,
+      "category": "民生新闻,电影"
+    },
+    {
+      "raw_hot": 617426,
+      "num": 235481,
+      "word": "演员请就位 还播不播",
+      "onboard_time": 1739528962,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 604521,
       "num": 604521,
       "word": "蛟龙行动",
@@ -491,6 +515,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 452102,
+      "num": 188759,
+      "word": "谢娜回复张杰烦人精",
+      "onboard_time": 1739530642,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 447331,
       "num": 447331,
       "word": "国务院国资委正在筹备组建一家新央企",
@@ -523,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 428135,
+      "num": 275507,
+      "word": "哪吒2各省份票房排名出炉",
+      "onboard_time": 1739527343,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 420318,
       "num": 271482,
       "word": "潘宏再回应艾特和小宝死亡事件",
@@ -545,14 +585,6 @@
       "onboard_time": 1739516301,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 412479,
-      "num": 412479,
-      "word": "董力官宣结婚",
-      "onboard_time": 1739528541,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 410164,
@@ -608,6 +640,14 @@
       "word": "金价大涨年轻人拿父母老首饰换新",
       "onboard_time": 1739515282,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 370000,
+      "num": 432734,
+      "word": "胖东来发布红色内裤调查报告",
+      "onboard_time": 1739525601,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -699,6 +739,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 337769,
+      "num": 188334,
+      "word": "种地吧直播",
+      "onboard_time": 1739529983,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 330861,
       "num": 282082,
       "word": "赵露思病愈后开工状态",
@@ -763,6 +811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 320728,
+      "num": 235386,
+      "word": "郭子凡 等你跟我求婚",
+      "onboard_time": 1739528483,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 318620,
       "num": 318620,
       "word": "无限暖暖",
@@ -779,12 +835,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 315684,
-      "num": 432734,
-      "word": "胖东来发布红色内裤调查报告",
-      "onboard_time": 1739525601,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 312482,
+      "num": 187735,
+      "word": "蔡徐坤 又是一年蓝玫瑰",
+      "onboard_time": 1739529742,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 312221,
@@ -811,6 +867,14 @@
       "category": "财经,电影"
     },
     {
+      "raw_hot": 305652,
+      "num": 478839,
+      "word": "重庆燃气集团收费问题通报",
+      "onboard_time": 1739528123,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 302268,
       "num": 259530,
       "word": "马云现身长沙",
@@ -835,6 +899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 291234,
+      "num": 187599,
+      "word": "杨子黄圣依新综没同框的原因",
+      "onboard_time": 1739531062,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 290449,
       "num": 290449,
       "word": "美军航母在地中海与商船相撞",
@@ -843,20 +915,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 286462,
+      "num": 320142,
+      "word": "哪吒2全球票房TOP15",
+      "onboard_time": 1739531482,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 283816,
       "num": 283816,
       "word": "夫妇花7万5做试管婴儿怀疑被骗",
       "onboard_time": 1739524461,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 282173,
-      "num": 275507,
-      "word": "哪吒2各省份票房排名出炉",
-      "onboard_time": 1739527343,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 278610,
@@ -897,6 +969,14 @@
       "onboard_time": 1739504663,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 264713,
+      "num": 264713,
+      "word": "赵磊否认嘴队友",
+      "onboard_time": 1739530701,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 263160,
@@ -947,14 +1027,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 249400,
-      "num": 235481,
-      "word": "演员请就位 还播不播",
-      "onboard_time": 1739528962,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 248821,
       "num": 407963,
       "word": "雷军称小米SU7Ultra定位是新豪车",
@@ -1003,14 +1075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 237178,
-      "num": 478839,
-      "word": "重庆燃气集团收费问题通报",
-      "onboard_time": 1739528123,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 237112,
       "num": 276018,
       "word": "马柏全风尚志销量",
@@ -1025,14 +1089,6 @@
       "onboard_time": 1739496860,
       "rank": 35,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 235386,
-      "num": 235386,
-      "word": "郭子凡 等你跟我求婚",
-      "onboard_time": 1739528483,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 234591,
@@ -1177,6 +1233,14 @@
       "onboard_time": 1739490078,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 211315,
+      "num": 187236,
+      "word": "潘宏下架全部视频",
+      "onboard_time": 1739531783,
+      "rank": 36,
+      "category": "网红"
     },
     {
       "raw_hot": 209324,
@@ -1347,6 +1411,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 198485,
+      "num": 178172,
+      "word": "马嘉祺 2000Days",
+      "onboard_time": 1739531362,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197196,
       "num": 197196,
       "word": "入青云",
@@ -1449,6 +1521,14 @@
       "onboard_time": 1739503702,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 189276,
+      "num": 236225,
+      "word": "樊振东飞机头的含金量还在上升",
+      "onboard_time": 1739528062,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 188429,
@@ -1585,14 +1665,6 @@
       "onboard_time": 1739527642,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 175834,
-      "num": 236225,
-      "word": "樊振东飞机头的含金量还在上升",
-      "onboard_time": 1739528062,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 174806,
@@ -1939,6 +2011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136331,
+      "num": 187957,
+      "word": "网友公开15年前和饺子邮件内容",
+      "onboard_time": 1739530042,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 136095,
       "num": 278190,
       "word": "勇士vs火箭",
@@ -1969,6 +2049,14 @@
       "onboard_time": 1739524220,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134735,
+      "num": 179361,
+      "word": "领克900将首搭英伟达Thor芯片",
+      "onboard_time": 1739530042,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 133588,
@@ -2003,20 +2091,20 @@
       "category": "游戏,电影"
     },
     {
+      "raw_hot": 130326,
+      "num": 439689,
+      "word": "滞留南极游客称花了50万没有赔偿",
+      "onboard_time": 1739527821,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128014,
       "num": 128014,
       "word": "唐诡西行上星",
       "onboard_time": 1739458101,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 125910,
-      "num": 439689,
-      "word": "滞留南极游客称花了50万没有赔偿",
-      "onboard_time": 1739527821,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 121779,
@@ -2035,12 +2123,28 @@
       "category": "民生新闻,电影"
     },
     {
+      "raw_hot": 121406,
+      "num": 209812,
+      "word": "1月份人民币存款增长4.32万亿元",
+      "onboard_time": 1739528062,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 121052,
       "num": 421894,
       "word": "大熊猫永明回潘达星了",
       "onboard_time": 1739516360,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115868,
+      "num": 307123,
+      "word": "台民众有人打飞的来大陆看哪吒2",
+      "onboard_time": 1739530281,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 115818,
@@ -2172,7 +2276,7 @@
     },
     {
       "raw_hot": 101268,
-      "num": 154913,
+      "num": 188876,
       "word": "智界R7累计大定突破70000台",
       "onboard_time": 1739529383,
       "rank": 40,
@@ -2201,6 +2305,14 @@
       "onboard_time": 1739506525,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95057,
+      "num": 165441,
+      "word": "拐卖王星的团伙成员全被捕",
+      "onboard_time": 1739531122,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 94441,
@@ -2305,14 +2417,6 @@
       "onboard_time": 1739451621,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 78617,
-      "num": 209812,
-      "word": "1月份人民币存款增长4.32万亿元",
-      "onboard_time": 1739528062,
-      "rank": 29,
-      "category": "财经"
     },
     {
       "raw_hot": 78279,
@@ -2619,6 +2723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42193,
+      "num": 325719,
+      "word": "外国人看完哪吒2后补习中国神话",
+      "onboard_time": 1739531122,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 40403,
       "num": 40403,
       "word": "林墨回应公开自己手机号码",
@@ -2835,6 +2947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 18409,
+      "num": 188906,
+      "word": "朴成训和亚冬花滑冠军曾是队友",
+      "onboard_time": 1739531241,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 17779,
       "num": 207155,
       "word": "西蒙斯快船首秀",
@@ -2875,6 +2995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 14246,
+      "num": 324342,
+      "word": "亚冬会开闭幕式形成首尾呼应",
+      "onboard_time": 1739531302,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 13336,
       "num": 160019,
       "word": "美国观众说看完哪吒2笑中带泪",
@@ -2889,6 +3017,14 @@
       "onboard_time": 1739477471,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 11435,
+      "num": 188035,
+      "word": "流行快餐式恋爱的男女能找到爱情吗",
+      "onboard_time": 1739531421,
+      "rank": 29,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 11159,
@@ -2921,6 +3057,14 @@
       "onboard_time": 1739469733,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 8816,
+      "num": 187515,
+      "word": "亚冬会闭幕式杂粮煎饼杀回C位",
+      "onboard_time": 1739531783,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 8006,
