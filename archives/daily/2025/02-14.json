@@ -1,6 +1,6 @@
 {
   "startTime": 1739464152455,
-  "endTime": 1739502048028,
+  "endTime": 1739503585191,
   "band_list": [
     {
       "raw_hot": 16764336,
@@ -27,8 +27,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1763549,
-      "num": 471175,
+      "raw_hot": 1841298,
+      "num": 743710,
       "word": "饺子说哪吒3很难突破哪吒2",
       "onboard_time": 1739499862,
       "rank": 6,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1251555,
-      "num": 286042,
+      "num": 311823,
       "word": "瑶一瑶小肉包母亲称停止恶意造谣",
       "onboard_time": 1739496382,
       "rank": 11,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1131828,
-      "num": 271819,
+      "num": 303324,
       "word": "大学生捐精七成以上不达标",
       "onboard_time": 1739498540,
       "rank": 10,
@@ -99,8 +99,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 784386,
-      "num": 270086,
+      "raw_hot": 821714,
+      "num": 315753,
       "word": "瑶一瑶小肉包",
       "onboard_time": 1739497580,
       "rank": 29,
@@ -121,6 +121,14 @@
       "onboard_time": 1739455102,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 662182,
+      "num": 390436,
+      "word": "qko是初代网红",
+      "onboard_time": 1739501242,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 599622,
@@ -171,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 476103,
+      "num": 283579,
+      "word": "妻子的浪漫旅行2025官宣",
+      "onboard_time": 1739503161,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 469495,
       "num": 469495,
       "word": "泽连斯基决定以叛国罪逮捕波罗申科",
@@ -179,12 +195,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 453119,
+      "num": 356549,
+      "word": "微信开放520元大额红包",
+      "onboard_time": 1739500403,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 447331,
       "num": 447331,
       "word": "国务院国资委正在筹备组建一家新央企",
       "onboard_time": 1739459661,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 429963,
+      "num": 287800,
+      "word": "好友曝鬼鬼产后心态很健康",
+      "onboard_time": 1739501962,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 420318,
@@ -235,8 +267,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 363423,
-      "num": 234188,
+      "raw_hot": 366604,
+      "num": 273189,
       "word": "枭起青壤",
       "onboard_time": 1739500403,
       "rank": 28,
@@ -252,7 +284,7 @@
     },
     {
       "raw_hot": 358175,
-      "num": 224137,
+      "num": 269845,
       "word": "网剧漫城开播",
       "onboard_time": 1739499981,
       "rank": 23,
@@ -268,7 +300,7 @@
     },
     {
       "raw_hot": 342228,
-      "num": 231040,
+      "num": 272330,
       "word": "石矶娘娘1分钟画面做了1个月",
       "onboard_time": 1739498300,
       "rank": 25,
@@ -315,6 +347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 318620,
+      "num": 318620,
+      "word": "无限暖暖",
+      "onboard_time": 1739503223,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 316545,
       "num": 253969,
       "word": "陈岚",
@@ -340,7 +380,7 @@
     },
     {
       "raw_hot": 299360,
-      "num": 220604,
+      "num": 278821,
       "word": "樊振东是首位超级金满贯得主",
       "onboard_time": 1739500824,
       "rank": 29,
@@ -348,7 +388,7 @@
     },
     {
       "raw_hot": 292708,
-      "num": 219896,
+      "num": 279469,
       "word": "23岁小伙每天超8小时赶论文血栓了",
       "onboard_time": 1739497940,
       "rank": 45,
@@ -363,24 +403,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 274406,
-      "num": 274406,
-      "word": "微信开放520元大额红包",
-      "onboard_time": 1739500403,
-      "rank": 24,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 268777,
-      "num": 268777,
-      "word": "qko是初代网红",
-      "onboard_time": 1739501242,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 272096,
+      "num": 272096,
+      "word": "虞书欣何与新剧官宣",
+      "onboard_time": 1739503343,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 268487,
-      "num": 216966,
+      "num": 245939,
       "word": "樱桃琥珀",
       "onboard_time": 1739500824,
       "rank": 35,
@@ -403,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 250736,
+      "num": 318289,
+      "word": "票房破百亿后找不到太乙真人了",
+      "onboard_time": 1739503103,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 243835,
       "num": 243835,
       "word": "妈妈离婚后失联6年孩子盼见面",
@@ -419,6 +459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 238106,
+      "num": 238106,
+      "word": "2名主播直播吸毒被抓获",
+      "onboard_time": 1739502924,
+      "rank": 40,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 235578,
       "num": 235578,
       "word": "TikTok已在美国AppStore重新上架",
@@ -433,6 +481,14 @@
       "onboard_time": 1739499079,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 229699,
+      "num": 297499,
+      "word": "开学第一天",
+      "onboard_time": 1739498000,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 223462,
@@ -467,14 +523,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 213759,
-      "num": 241882,
-      "word": "开学第一天",
-      "onboard_time": 1739498000,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 209324,
       "num": 209324,
       "word": "用男性思维谈恋爱会有多爽",
@@ -489,6 +537,14 @@
       "onboard_time": 1739500643,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204499,
+      "num": 204499,
+      "word": "女生同个视频播6小时后手机留下水印",
+      "onboard_time": 1739503042,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200699,
@@ -515,11 +571,35 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196165,
+      "num": 196165,
+      "word": "难哄两支预告两种视角",
+      "onboard_time": 1739503161,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 194511,
+      "num": 241479,
+      "word": "郭子凡 已经好多年了",
+      "onboard_time": 1739503161,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189944,
       "num": 189944,
       "word": "山河枕",
       "onboard_time": 1739500523,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 189540,
+      "num": 189540,
+      "word": "迪丽热巴陈星旭祝大家情人节快乐",
+      "onboard_time": 1739503462,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -603,14 +683,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 160958,
-      "num": 160958,
-      "word": "好友曝鬼鬼产后心态很健康",
-      "onboard_time": 1739501962,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 157208,
       "num": 157208,
       "word": "猫猫一次主动换来一辈子内向",
@@ -632,6 +704,14 @@
       "word": "子夜归",
       "onboard_time": 1739501783,
       "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 146281,
+      "num": 295018,
+      "word": "梁洁好淡一个人",
+      "onboard_time": 1739502741,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -657,6 +737,14 @@
       "onboard_time": 1739494402,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 141361,
+      "num": 291443,
+      "word": "做家务后意识到隐形的女性劳动",
+      "onboard_time": 1739502563,
+      "rank": 19,
+      "category": "情感,综艺"
     },
     {
       "raw_hot": 140313,
@@ -697,6 +785,14 @@
       "onboard_time": 1739454563,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 133799,
+      "num": 277783,
+      "word": "勇士vs火箭",
+      "onboard_time": 1739503282,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 133588,
@@ -761,6 +857,14 @@
       "onboard_time": 1739501363,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112533,
+      "num": 276581,
+      "word": "哪吒2配音空降超话",
+      "onboard_time": 1739503161,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 111254,
@@ -923,12 +1027,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 69595,
+      "num": 275072,
+      "word": "美国人为吃鸡蛋开始养鸡",
+      "onboard_time": 1739502861,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 67445,
       "num": 72196,
       "word": "王星越左手哪吒右手敖丙",
       "onboard_time": 1739488516,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 66123,
+      "num": 277355,
+      "word": "中国男子冰壶铜牌",
+      "onboard_time": 1739502323,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 65614,
@@ -939,12 +1059,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 65081,
+      "num": 238731,
+      "word": "男生选情人节餐厅太难了",
+      "onboard_time": 1739502083,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 64885,
       "num": 126548,
       "word": "抠搜萨莉亚被平替后浪偷家了",
       "onboard_time": 1739456781,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60764,
+      "num": 863960,
+      "word": "谢谢你哈尔滨",
+      "onboard_time": 1739502622,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 57552,
@@ -1057,6 +1193,14 @@
       "onboard_time": 1739468414,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22328,
+      "num": 306977,
+      "word": "百亿哪吒背后的动画新王光线",
+      "onboard_time": 1739503042,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 21264,
