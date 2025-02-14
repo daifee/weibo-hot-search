@@ -1,0 +1,410 @@
+{
+  "runTime": 1739576137889,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 265142,
+        "num": 844940,
+        "word": "哪吒2被删减画面首度公开",
+        "onboard_time": 1739527763,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203542,
+        "num": 203542,
+        "word": "拐卖王星的中国籍团伙成员被遣返",
+        "onboard_time": 1739544322,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17799,
+        "num": 184689,
+        "word": "载人航天命名里的中国浪漫",
+        "onboard_time": 1739542702,
+        "rank": 2,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 229664,
+        "num": 179816,
+        "word": "广东一地烧炮出意外多人从高空跌落",
+        "onboard_time": 1739552478,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172849,
+        "num": 172849,
+        "word": "周深世巡伦敦站取消",
+        "onboard_time": 1739575515,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140213,
+        "num": 140213,
+        "word": "被烟花击中摘除眼球男子寻找目击者",
+        "onboard_time": 1739544083,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154442,
+        "num": 140193,
+        "word": "演员请就位太可怕了",
+        "onboard_time": 1739542822,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138589,
+        "num": 138589,
+        "word": "胖东来金饰每克便宜100元",
+        "onboard_time": 1739537782,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113724,
+        "num": 113724,
+        "word": "一代人有一代人的情人节",
+        "onboard_time": 1739549601,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112005,
+        "num": 112005,
+        "word": "射雕英雄传",
+        "onboard_time": 1739535501,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 553236,
+        "num": 110182,
+        "word": "超90%成年人体内携带接吻病毒",
+        "onboard_time": 1739551278,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 435367,
+        "num": 105137,
+        "word": "七旬董事长猥亵面试女子没道歉赔偿",
+        "onboard_time": 1739559015,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299950,
+        "num": 102247,
+        "word": "张碧晨晒与女儿合照",
+        "onboard_time": 1739537602,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267667,
+        "num": 100657,
+        "word": "网红狗艾特主人简介改为恶人自有天收",
+        "onboard_time": 1739539882,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 37095,
+        "num": 95078,
+        "word": "王昶梁伟铿分开征战瑞士赛",
+        "onboard_time": 1739575515,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161930,
+        "num": 92619,
+        "word": "两空乘尿检阳性被停职法医还清白",
+        "onboard_time": 1739539583,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90375,
+        "num": 90375,
+        "word": "山东纸面服刑村霸被执行死刑",
+        "onboard_time": 1739547741,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78488,
+        "num": 78488,
+        "word": "哪吒2全球动画电影票房榜第二",
+        "onboard_time": 1739556914,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 81451,
+        "num": 78411,
+        "word": "Deepseek预测有多靠谱",
+        "onboard_time": 1739534242,
+        "rank": 18,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 53850,
+        "num": 78253,
+        "word": "王鹤棣出战名人赛",
+        "onboard_time": 1739574975,
+        "rank": 19,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 272657,
+        "num": 78142,
+        "word": "周深",
+        "onboard_time": 1739574854,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 762052,
+        "num": 77965,
+        "word": "姚笛 被删",
+        "onboard_time": 1739539282,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348414,
+        "num": 77907,
+        "word": "章子怡发飙让张嘉元下去",
+        "onboard_time": 1739539222,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102894,
+        "num": 77710,
+        "word": "8天刷31场哪吒2女生父亲发声",
+        "onboard_time": 1739555894,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 77625,
+        "num": 77625,
+        "word": "为了活下去公交公司将40座改9座",
+        "onboard_time": 1739525721,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77463,
+        "num": 77463,
+        "word": "32岁中国计量大学讲师石召君病逝",
+        "onboard_time": 1739543961,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74851,
+        "num": 74851,
+        "word": "哪吒2超107亿",
+        "onboard_time": 1739544263,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 74365,
+        "num": 74365,
+        "word": "赵磊结婚谷嘉诚郭子凡在这又唱又跳",
+        "onboard_time": 1739550379,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58048,
+        "num": 74353,
+        "word": "两千万粉丝小网红账号关评",
+        "onboard_time": 1739566272,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 55712,
+        "num": 74312,
+        "word": "专业人士提醒砸冰捞鱼具有危险性",
+        "onboard_time": 1739543424,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54192,
+        "num": 74302,
+        "word": "唐禹哲晒和未婚妻亲吻照",
+        "onboard_time": 1739543124,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53533,
+        "num": 74274,
+        "word": "黄圣依情人节晒照",
+        "onboard_time": 1739533220,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52809,
+        "num": 74247,
+        "word": "翔霖",
+        "onboard_time": 1739547801,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52721,
+        "num": 74198,
+        "word": "饺子说哪吒2最精彩的打斗都没出现",
+        "onboard_time": 1739575635,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 51929,
+        "num": 74195,
+        "word": "于正新签15后卢雅熙",
+        "onboard_time": 1739534902,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48103,
+        "num": 74147,
+        "word": "网贷联系人私自填他人被判道歉赔钱",
+        "onboard_time": 1739556434,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43324,
+        "num": 74123,
+        "word": "杨子演西门庆 章子怡工伤",
+        "onboard_time": 1739540185,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43044,
+        "num": 74109,
+        "word": "潘宏下架全部视频",
+        "onboard_time": 1739531783,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 40018,
+        "num": 74062,
+        "word": "董力官宣结婚",
+        "onboard_time": 1739528541,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38715,
+        "num": 74036,
+        "word": "广州月最低工资标准提高至2500元",
+        "onboard_time": 1739574494,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37345,
+        "num": 74025,
+        "word": "张嘉元说刘梓晨来这干啥",
+        "onboard_time": 1739540664,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36525,
+        "num": 73972,
+        "word": "乌方披露特泽会通话内容",
+        "onboard_time": 1739563871,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 33810,
+        "num": 73948,
+        "word": "胡静老公唯一关注",
+        "onboard_time": 1739568012,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32828,
+        "num": 73932,
+        "word": "刘梓晨相柳part来了",
+        "onboard_time": 1739541505,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31253,
+        "num": 73905,
+        "word": "下周开学",
+        "onboard_time": 1739549241,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31171,
+        "num": 73861,
+        "word": "官方回应多人烧炮被鞭炮炸伤",
+        "onboard_time": 1739573833,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30878,
+        "num": 73836,
+        "word": "数百人因天气无法乘机滞留在南极",
+        "onboard_time": 1739574554,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30415,
+        "num": 73803,
+        "word": "邓为发糖",
+        "onboard_time": 1739559253,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20779,
+        "num": 73780,
+        "word": "夏以昼初恋",
+        "onboard_time": 1739550559,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 9008,
+        "num": 73751,
+        "word": "被中国运动员的笑容感染到了",
+        "onboard_time": 1739575876,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#绿水青山瞰我家#"
+    }
+  }
+}

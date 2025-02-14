@@ -1,6 +1,6 @@
 {
   "startTime": 1739550405629,
-  "endTime": 1739575286366,
+  "endTime": 1739576137889,
   "band_list": [
     {
       "raw_hot": 2090509,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 661136,
-      "num": 729915,
+      "num": 844940,
       "word": "哪吒2被删减画面首度公开",
       "onboard_time": 1739527763,
       "rank": 7,
@@ -64,6 +64,14 @@
       "word": "被烟花击中摘除眼球男子寻找目击者",
       "onboard_time": 1739544083,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 435367,
+      "num": 106523,
+      "word": "七旬董事长猥亵面试女子没道歉赔偿",
+      "onboard_time": 1739559015,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -88,14 +96,6 @@
       "word": "男子近九千报专升本最后成肄业",
       "onboard_time": 1739547623,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 360903,
-      "num": 106523,
-      "word": "七旬董事长猥亵面试女子没道歉赔偿",
-      "onboard_time": 1739559015,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -155,6 +155,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 272657,
+      "num": 155255,
+      "word": "周深",
+      "onboard_time": 1739574854,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 267667,
+      "num": 149436,
+      "word": "网红狗艾特主人简介改为恶人自有天收",
+      "onboard_time": 1739539882,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 265783,
       "num": 265783,
       "word": "胖东来金饰每克便宜100元",
@@ -203,12 +219,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 216073,
-      "num": 149436,
-      "word": "网红狗艾特主人简介改为恶人自有天收",
-      "onboard_time": 1739539882,
-      "rank": 24,
-      "category": "网红"
+      "raw_hot": 172849,
+      "num": 172849,
+      "word": "周深世巡伦敦站取消",
+      "onboard_time": 1739575515,
+      "rank": 4,
+      "category": "演出"
     },
     {
       "raw_hot": 162480,
@@ -225,14 +241,6 @@
       "onboard_time": 1739545042,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 155255,
-      "num": 155255,
-      "word": "周深",
-      "onboard_time": 1739574854,
-      "rank": 4,
-      "category": "演出"
     },
     {
       "raw_hot": 144366,
@@ -387,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102894,
+      "num": 77710,
+      "word": "8天刷31场哪吒2女生父亲发声",
+      "onboard_time": 1739555894,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 97526,
       "num": 108697,
       "word": "哪吒2进全球票房前14",
@@ -427,14 +443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 87984,
-      "num": 68691,
-      "word": "8天刷31场哪吒2女生父亲发声",
-      "onboard_time": 1739555894,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
       "raw_hot": 86209,
       "num": 108754,
       "word": "于佩尔一眼看中孙丞潇",
@@ -449,6 +457,14 @@
       "onboard_time": 1739545943,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 78488,
+      "num": 78488,
+      "word": "哪吒2全球动画电影票房榜第二",
+      "onboard_time": 1739556914,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 74769,
@@ -467,14 +483,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 64880,
-      "num": 64880,
-      "word": "哪吒2全球动画电影票房榜第二",
-      "onboard_time": 1739556914,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 64158,
       "num": 110855,
       "word": "难哄有用心地在哄",
@@ -491,12 +499,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54590,
-      "num": 64865,
+      "raw_hot": 58048,
+      "num": 74353,
       "word": "两千万粉丝小网红账号关评",
       "onboard_time": 1739566272,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 53850,
+      "num": 78253,
+      "word": "王鹤棣出战名人赛",
+      "onboard_time": 1739574975,
+      "rank": 21,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 52721,
+      "num": 74198,
+      "word": "饺子说哪吒2最精彩的打斗都没出现",
+      "onboard_time": 1739575635,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 50111,
@@ -508,7 +532,7 @@
     },
     {
       "raw_hot": 45320,
-      "num": 64811,
+      "num": 73861,
       "word": "官方回应多人烧炮被鞭炮炸伤",
       "onboard_time": 1739573833,
       "rank": 31,
@@ -523,6 +547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 38715,
+      "num": 74036,
+      "word": "广州月最低工资标准提高至2500元",
+      "onboard_time": 1739574494,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38066,
       "num": 59483,
       "word": "26岁李梦豪壮烈牺牲",
@@ -531,24 +563,32 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 35467,
-      "num": 64695,
-      "word": "胡静老公唯一关注",
-      "onboard_time": 1739568012,
-      "rank": 48,
-      "category": "综艺"
+      "raw_hot": 37095,
+      "num": 95078,
+      "word": "王昶梁伟铿分开征战瑞士赛",
+      "onboard_time": 1739575515,
+      "rank": 14,
+      "category": "体育"
     },
     {
-      "raw_hot": 35380,
-      "num": 64682,
+      "raw_hot": 36525,
+      "num": 73972,
       "word": "乌方披露特泽会通话内容",
       "onboard_time": 1739563871,
       "rank": 45,
       "category": "国际时政"
     },
     {
+      "raw_hot": 35467,
+      "num": 73948,
+      "word": "胡静老公唯一关注",
+      "onboard_time": 1739568012,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 35126,
-      "num": 64668,
+      "num": 73803,
       "word": "邓为发糖",
       "onboard_time": 1739559253,
       "rank": 31,
@@ -561,6 +601,14 @@
       "onboard_time": 1739558414,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 30878,
+      "num": 73836,
+      "word": "数百人因天气无法乘机滞留在南极",
+      "onboard_time": 1739574554,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28942,
@@ -576,14 +624,6 @@
       "word": "企业回应单身员工限期成家否则辞退",
       "onboard_time": 1739558353,
       "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24699,
-      "num": 64594,
-      "word": "广州月最低工资标准提高至2500元",
-      "onboard_time": 1739574494,
-      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -603,14 +643,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 21369,
-      "num": 64551,
-      "word": "数百人因天气无法乘机滞留在南极",
-      "onboard_time": 1739574554,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 21294,
       "num": 290379,
       "word": "丘成桐给年轻人的求学建议",
@@ -627,20 +659,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 16526,
-      "num": 155379,
+      "raw_hot": 17799,
+      "num": 184689,
       "word": "载人航天命名里的中国浪漫",
       "onboard_time": 1739542702,
       "rank": 2,
       "category": "国内时政,科学科普"
-    },
-    {
-      "raw_hot": 16420,
-      "num": 69134,
-      "word": "王鹤棣出战名人赛",
-      "onboard_time": 1739574975,
-      "rank": 21,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 16053,
@@ -673,6 +697,14 @@
       "onboard_time": 1739557633,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9008,
+      "num": 73751,
+      "word": "被中国运动员的笑容感染到了",
+      "onboard_time": 1739575876,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
