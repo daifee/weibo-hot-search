@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739542870726,
+  "endTime": 1739543928994,
   "band_list": [
     {
       "raw_hot": 18452349,
@@ -51,20 +51,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 4918196,
+      "num": 4918196,
+      "word": "姚笛 被删",
+      "onboard_time": 1739539282,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 4199194,
       "num": 4199194,
       "word": "饺子偷偷改了哪吒3计划上映时间",
       "onboard_time": 1739261481,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 4036165,
-      "num": 4036165,
-      "word": "姚笛 被删",
-      "onboard_time": 1739539282,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 3624702,
@@ -3811,6 +3811,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 515315,
+      "num": 286031,
+      "word": "张嘉元说刘梓晨来这干啥",
+      "onboard_time": 1739540664,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 515191,
       "num": 515191,
       "word": "外媒预测阿凡达3上映前哪吒最卖座",
@@ -3873,14 +3881,6 @@
       "onboard_time": 1739280083,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 510895,
-      "num": 286031,
-      "word": "张嘉元说刘梓晨来这干啥",
-      "onboard_time": 1739540664,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 510731,
@@ -5659,6 +5659,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 325680,
+      "num": 264184,
+      "word": "司晓迪曝光秦霄贤和李汶翰的原因",
+      "onboard_time": 1739540243,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 325617,
       "num": 325617,
       "word": "李宁 时代少年团",
@@ -5745,6 +5753,14 @@
       "onboard_time": 1739451621,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 321621,
+      "num": 252812,
+      "word": "演员请就位太可怕了",
+      "onboard_time": 1739542822,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 320904,
@@ -5937,14 +5953,6 @@
       "onboard_time": 1739261840,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 311030,
-      "num": 262335,
-      "word": "司晓迪曝光秦霄贤和李汶翰的原因",
-      "onboard_time": 1739540243,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 310500,
@@ -6409,6 +6417,14 @@
       "onboard_time": 1739073200,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 287551,
+      "num": 247279,
+      "word": "刘梓晨相柳part来了",
+      "onboard_time": 1739541505,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 287357,
@@ -7068,7 +7084,7 @@
     },
     {
       "raw_hot": 257199,
-      "num": 257199,
+      "num": 261514,
       "word": "网红狗艾特主人简介改为恶人自有天收",
       "onboard_time": 1739539882,
       "rank": 36,
@@ -7425,14 +7441,6 @@
       "onboard_time": 1739268682,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 243089,
-      "num": 243089,
-      "word": "刘梓晨相柳part来了",
-      "onboard_time": 1739541505,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 242838,
@@ -9025,6 +9033,14 @@
       "onboard_time": 1739262320,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207421,
+      "num": 207421,
+      "word": "薛之谦天外来物巡回演唱会",
+      "onboard_time": 1739543424,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 207390,
@@ -12067,6 +12083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167444,
+      "num": 257493,
+      "word": "哪吒2进全球票房榜TOP15",
+      "onboard_time": 1739536221,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 167072,
       "num": 167072,
       "word": "饺子谈哪吒2为什么能火",
@@ -12305,6 +12329,14 @@
       "onboard_time": 1739361380,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163942,
+      "num": 163942,
+      "word": "张嘉元道歉",
+      "onboard_time": 1739543723,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 163880,
@@ -12795,6 +12827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157779,
+      "num": 157779,
+      "word": "宋亚轩情人节叫粉丝宝贝",
+      "onboard_time": 1739543723,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157724,
       "num": 157724,
       "word": "林孝埈赛后落泪道歉",
@@ -13049,6 +13089,14 @@
       "onboard_time": 1739185521,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154789,
+      "num": 154789,
+      "word": "唐禹哲晒和未婚妻亲吻照",
+      "onboard_time": 1739543124,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 154566,
@@ -13427,14 +13475,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 148593,
-      "num": 148593,
-      "word": "演员请就位太可怕了",
-      "onboard_time": 1739542822,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 148554,
       "num": 148554,
       "word": "林俊杰说完整了我的不完美",
@@ -13456,6 +13496,14 @@
       "word": "情人节的玫瑰是王心凌送的",
       "onboard_time": 1739540124,
       "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 148129,
+      "num": 148129,
+      "word": "单依纯我管不住我不期待",
+      "onboard_time": 1739543843,
+      "rank": 45,
       "category": "演出"
     },
     {
@@ -15091,6 +15139,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 123249,
+      "num": 284914,
+      "word": "哪吒海底龙宫场景相当于8个足球场",
+      "onboard_time": 1739541922,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 123244,
       "num": 123244,
       "word": "种地吧今天搭架子",
@@ -15641,14 +15697,6 @@
       "onboard_time": 1739440341,
       "rank": 47,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 113850,
-      "num": 257493,
-      "word": "哪吒2进全球票房榜TOP15",
-      "onboard_time": 1739536221,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 113673,
@@ -16363,6 +16411,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 99350,
+      "num": 250452,
+      "word": "TT拒绝让二追三",
+      "onboard_time": 1739542945,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 98653,
       "num": 227973,
       "word": "浪姐6路透",
@@ -16417,6 +16473,14 @@
       "onboard_time": 1739282781,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97213,
+      "num": 276106,
+      "word": "四川一男子卖大熊猫口粮获刑",
+      "onboard_time": 1739541922,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97086,
@@ -16865,14 +16929,6 @@
       "onboard_time": 1739254100,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 83056,
-      "num": 276106,
-      "word": "四川一男子卖大熊猫口粮获刑",
-      "onboard_time": 1739541922,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 82856,
@@ -19003,6 +19059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 39208,
+      "num": 538495,
+      "word": "哈尔滨亚冬会中国队登顶金牌榜",
+      "onboard_time": 1739542044,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38972,
       "num": 228042,
       "word": "老年妆李艾表白85岁老公看哭我",
@@ -19393,14 +19457,6 @@
       "onboard_time": 1739257640,
       "rank": 14,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 33246,
-      "num": 284914,
-      "word": "哪吒海底龙宫场景相当于8个足球场",
-      "onboard_time": 1739541922,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 33210,
@@ -19843,6 +19899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 25596,
+      "num": 269975,
+      "word": "下届亚冬会为什么选在沙特办",
+      "onboard_time": 1739543544,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 25533,
       "num": 26741,
       "word": "哪吒之魔童闹海新年集福卡",
@@ -20025,14 +20089,6 @@
       "onboard_time": 1739508684,
       "rank": 32,
       "category": "网红"
-    },
-    {
-      "raw_hot": 22881,
-      "num": 280870,
-      "word": "哈尔滨亚冬会中国队登顶金牌榜",
-      "onboard_time": 1739542044,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 22799,

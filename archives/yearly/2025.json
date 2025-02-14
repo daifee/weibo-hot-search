@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1739542870726,
+  "endTime": 1739543928994,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -547,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4918196,
+      "num": 4918196,
+      "word": "姚笛 被删",
+      "onboard_time": 1739539282,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 4913394,
       "num": 4076214,
       "word": "泰国喊话中国游客",
@@ -713,14 +721,6 @@
       "onboard_time": 1736477600,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 4036165,
-      "num": 4036165,
-      "word": "姚笛 被删",
-      "onboard_time": 1739539282,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 4022283,
