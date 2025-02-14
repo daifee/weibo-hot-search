@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1739540348945,
+  "endTime": 1739542870726,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -715,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4036165,
+      "num": 4036165,
+      "word": "姚笛 被删",
+      "onboard_time": 1739539282,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 4022283,
       "num": 1571832,
       "word": "星星疑被剃去头发腿上有红斑",
@@ -979,14 +987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 3331179,
-      "num": 3331179,
-      "word": "姚笛 被删",
-      "onboard_time": 1739539282,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 3330871,
       "num": 2974377,
       "word": "王嘉尔 共鸣",
@@ -1121,6 +1121,14 @@
       "onboard_time": 1738839504,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3098430,
+      "num": 615127,
+      "word": "章子怡发飙让张嘉元下去",
+      "onboard_time": 1739539222,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 3096612,
@@ -1924,7 +1932,7 @@
     },
     {
       "raw_hot": 2363990,
-      "num": 262329,
+      "num": 290706,
       "word": "张碧晨晒与女儿合照",
       "onboard_time": 1739537602,
       "rank": 15,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1737466459,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2126402,
-      "num": 322335,
-      "word": "廖慧佳晒聊天记录",
-      "onboard_time": 1736076265,
-      "rank": 21,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

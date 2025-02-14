@@ -1,0 +1,410 @@
+{
+  "runTime": 1739542870726,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4036165,
+        "num": 4036165,
+        "word": "姚笛 被删",
+        "onboard_time": 1739539282,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 871825,
+        "num": 871825,
+        "word": "Deepseek预测有多靠谱",
+        "onboard_time": 1739534242,
+        "rank": 1,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 7267,
+        "num": 632398,
+        "word": "载人航天命名里的中国浪漫",
+        "onboard_time": 1739542702,
+        "rank": 2,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 3098430,
+        "num": 615127,
+        "word": "章子怡发飙让张嘉元下去",
+        "onboard_time": 1739539222,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 590161,
+        "num": 590161,
+        "word": "招女辅警须有羽毛球特长当地回应",
+        "onboard_time": 1739538201,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 546455,
+        "num": 546455,
+        "word": "胖东来金饰每克便宜100元",
+        "onboard_time": 1739537782,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1269250,
+        "num": 475610,
+        "word": "哪吒2被删减画面首度公开",
+        "onboard_time": 1739527763,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1261113,
+        "num": 452334,
+        "word": "徐开骋还在",
+        "onboard_time": 1739540844,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292921,
+        "num": 292921,
+        "word": "为了活下去公交公司将40座改9座",
+        "onboard_time": 1739525721,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190739,
+        "num": 292278,
+        "word": "26岁李梦豪壮烈牺牲",
+        "onboard_time": 1739521880,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1279996,
+        "num": 290706,
+        "word": "张碧晨晒与女儿合照",
+        "onboard_time": 1739537602,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 672964,
+        "num": 289097,
+        "word": "两空乘尿检阳性被停职法医还清白",
+        "onboard_time": 1739539583,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 769381,
+        "num": 287651,
+        "word": "黄圣依情人节晒照",
+        "onboard_time": 1739533220,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 510895,
+        "num": 286031,
+        "word": "张嘉元说刘梓晨来这干啥",
+        "onboard_time": 1739540664,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33246,
+        "num": 284914,
+        "word": "哪吒海底龙宫场景相当于8个足球场",
+        "onboard_time": 1739541922,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 441523,
+        "num": 282376,
+        "word": "哪吒2全球票房TOP15",
+        "onboard_time": 1739531482,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 22881,
+        "num": 280870,
+        "word": "哈尔滨亚冬会中国队登顶金牌榜",
+        "onboard_time": 1739542044,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179328,
+        "num": 278843,
+        "word": "为啥爱人之间适合送藕",
+        "onboard_time": 1739540786,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64968,
+        "num": 277661,
+        "word": "袁一琦情人节直播",
+        "onboard_time": 1739541803,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83056,
+        "num": 276106,
+        "word": "四川一男子卖大熊猫口粮获刑",
+        "onboard_time": 1739541922,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418561,
+        "num": 274011,
+        "word": "赵磊官宣结婚",
+        "onboard_time": 1739499200,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140856,
+        "num": 273219,
+        "word": "徐梦桃夺冠后提极氪7X",
+        "onboard_time": 1739538201,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165827,
+        "num": 271622,
+        "word": "TT战胜BLG",
+        "onboard_time": 1739540424,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 407420,
+        "num": 269726,
+        "word": "董力官宣结婚",
+        "onboard_time": 1739528541,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72888,
+        "num": 267968,
+        "word": "星穹铁道3.1版本前瞻",
+        "onboard_time": 1739539762,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 375321,
+        "num": 266089,
+        "word": "射雕英雄传",
+        "onboard_time": 1739535501,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 345966,
+        "num": 265325,
+        "word": "杨子演西门庆 章子怡工伤",
+        "onboard_time": 1739540185,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344384,
+        "num": 263033,
+        "word": "潘宏下架全部视频",
+        "onboard_time": 1739531783,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 311030,
+        "num": 262335,
+        "word": "司晓迪曝光秦霄贤和李汶翰的原因",
+        "onboard_time": 1739540243,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20848,
+        "num": 261193,
+        "word": "防伪码可随意买卖低至2分钱一枚",
+        "onboard_time": 1739541922,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 259623,
+        "num": 259623,
+        "word": "哪吒",
+        "onboard_time": 1739516061,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113850,
+        "num": 257493,
+        "word": "哪吒2进全球票房榜TOP15",
+        "onboard_time": 1739536221,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 257199,
+        "num": 257199,
+        "word": "网红狗艾特主人简介改为恶人自有天收",
+        "onboard_time": 1739539882,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 243951,
+        "num": 243951,
+        "word": "于正新签15后卢雅熙",
+        "onboard_time": 1739534902,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243089,
+        "num": 243089,
+        "word": "刘梓晨相柳part来了",
+        "onboard_time": 1739541505,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211735,
+        "num": 211735,
+        "word": "演员请就位播了",
+        "onboard_time": 1739536702,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199890,
+        "num": 199890,
+        "word": "贺美琦加入时代峰峻",
+        "onboard_time": 1739514141,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188413,
+        "num": 188413,
+        "word": "情人节官宣的明星",
+        "onboard_time": 1739519960,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187427,
+        "num": 187427,
+        "word": "阿信 我爱你们",
+        "onboard_time": 1739541683,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186780,
+        "num": 186780,
+        "word": "蛟龙行动撤档",
+        "onboard_time": 1739520383,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 72096,
+        "num": 181411,
+        "word": "我不懂车还不懂爱吗",
+        "onboard_time": 1739538261,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 179300,
+        "num": 179300,
+        "word": "蔡徐坤 又是一年蓝玫瑰",
+        "onboard_time": 1739529742,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169591,
+        "num": 169591,
+        "word": "到底谁是魔童啊",
+        "onboard_time": 1739538143,
+        "rank": 42,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 167106,
+        "num": 167106,
+        "word": "时代少年团三专",
+        "onboard_time": 1739532801,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160537,
+        "num": 160537,
+        "word": "光线传媒给丁禹兮颁发优秀员工奖",
+        "onboard_time": 1739525362,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148593,
+        "num": 148593,
+        "word": "演员请就位太可怕了",
+        "onboard_time": 1739542822,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120391,
+        "num": 120391,
+        "word": "中医科正成为医院里的高利润科室",
+        "onboard_time": 1739538621,
+        "rank": 46,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 115586,
+        "num": 115586,
+        "word": "狼队对战KSG",
+        "onboard_time": 1739538983,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109285,
+        "num": 109285,
+        "word": "魔卡少女樱透明牌篇画风重制",
+        "onboard_time": 1739538081,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 76823,
+        "num": 109262,
+        "word": "vvns",
+        "onboard_time": 1739542822,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#绿水青山瞰我家#"
+    }
+  }
+}
