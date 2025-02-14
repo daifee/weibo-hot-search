@@ -1,0 +1,410 @@
+{
+  "runTime": 1739546650556,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3994810,
+        "num": 3994810,
+        "word": "姚笛 被删",
+        "onboard_time": 1739539282,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 493733,
+        "num": 493733,
+        "word": "招女辅警须有羽毛球特长当地回应",
+        "onboard_time": 1739538201,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34368,
+        "num": 438355,
+        "word": "哈尔滨亚冬会中国队登顶金牌榜",
+        "onboard_time": 1739542044,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2048838,
+        "num": 426730,
+        "word": "章子怡发飙让张嘉元下去",
+        "onboard_time": 1739539222,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 408656,
+        "num": 408656,
+        "word": "拐卖王星的中国籍团伙成员被遣返",
+        "onboard_time": 1739544322,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 394739,
+        "num": 394739,
+        "word": "被烟花击中摘除眼球男子寻找目击者",
+        "onboard_time": 1739544083,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 849171,
+        "num": 370970,
+        "word": "哪吒2被删减画面首度公开",
+        "onboard_time": 1739527763,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 782400,
+        "num": 363718,
+        "word": "演员请就位太可怕了",
+        "onboard_time": 1739542822,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307266,
+        "num": 307266,
+        "word": "胖东来金饰每克便宜100元",
+        "onboard_time": 1739537782,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38068,
+        "num": 306146,
+        "word": "只此青绿惊艳海外观众",
+        "onboard_time": 1739544142,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 883024,
+        "num": 297114,
+        "word": "张碧晨晒与女儿合照",
+        "onboard_time": 1739537602,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 596872,
+        "num": 293481,
+        "word": "Deepseek预测有多靠谱",
+        "onboard_time": 1739534242,
+        "rank": 11,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 508437,
+        "num": 286119,
+        "word": "张嘉元道歉",
+        "onboard_time": 1739543723,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 427952,
+        "num": 278702,
+        "word": "张嘉元说刘梓晨来这干啥",
+        "onboard_time": 1739540664,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 404418,
+        "num": 274900,
+        "word": "哪吒2超107亿",
+        "onboard_time": 1739544263,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 272419,
+        "num": 272419,
+        "word": "两空乘尿检阳性被停职法医还清白",
+        "onboard_time": 1739539583,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251693,
+        "num": 251693,
+        "word": "32岁中国计量大学讲师石召君病逝",
+        "onboard_time": 1739543961,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249880,
+        "num": 249880,
+        "word": "唐禹哲晒和未婚妻亲吻照",
+        "onboard_time": 1739543124,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164409,
+        "num": 246637,
+        "word": "为了活下去公交公司将40座改9座",
+        "onboard_time": 1739525721,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158924,
+        "num": 244866,
+        "word": "世界之外",
+        "onboard_time": 1739543603,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 357328,
+        "num": 239975,
+        "word": "徐开骋还在",
+        "onboard_time": 1739540844,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 769714,
+        "num": 238574,
+        "word": "黄圣依情人节晒照",
+        "onboard_time": 1739533220,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320307,
+        "num": 236025,
+        "word": "杨子演西门庆 章子怡工伤",
+        "onboard_time": 1739540185,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283811,
+        "num": 232978,
+        "word": "董力官宣结婚",
+        "onboard_time": 1739528541,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272945,
+        "num": 229717,
+        "word": "哪吒2全球票房TOP15",
+        "onboard_time": 1739531482,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 226687,
+        "num": 226687,
+        "word": "网红狗艾特主人简介改为恶人自有天收",
+        "onboard_time": 1739539882,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 212221,
+        "num": 212221,
+        "word": "刘梓晨相柳part来了",
+        "onboard_time": 1739541505,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199656,
+        "num": 199656,
+        "word": "郑雅贤截图回复粉丝",
+        "onboard_time": 1739545042,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190195,
+        "num": 190195,
+        "word": "潘宏下架全部视频",
+        "onboard_time": 1739531783,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 188429,
+        "num": 188429,
+        "word": "蔡徐坤 又是一年蓝玫瑰",
+        "onboard_time": 1739529742,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187526,
+        "num": 187526,
+        "word": "射雕英雄传",
+        "onboard_time": 1739535501,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185977,
+        "num": 185977,
+        "word": "陈哲远白色橄榄树裸上身",
+        "onboard_time": 1739544263,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126768,
+        "num": 181301,
+        "word": "TT战胜BLG",
+        "onboard_time": 1739540424,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 180531,
+        "num": 180531,
+        "word": "单依纯我管不住我不期待",
+        "onboard_time": 1739543843,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166442,
+        "num": 166442,
+        "word": "哪吒",
+        "onboard_time": 1739516061,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159503,
+        "num": 159503,
+        "word": "贺美琦加入时代峰峻",
+        "onboard_time": 1739514141,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159501,
+        "num": 159501,
+        "word": "于正新签15后卢雅熙",
+        "onboard_time": 1739534902,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157968,
+        "num": 157968,
+        "word": "司晓迪曝光秦霄贤和李汶翰的原因",
+        "onboard_time": 1739540243,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120157,
+        "num": 148466,
+        "word": "26岁李梦豪壮烈牺牲",
+        "onboard_time": 1739521880,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109709,
+        "num": 148017,
+        "word": "看31遍女生称哪吒2是至暗时刻的光",
+        "onboard_time": 1739530161,
+        "rank": 39,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 147805,
+        "num": 147805,
+        "word": "演员请就位播了",
+        "onboard_time": 1739536702,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146009,
+        "num": 146009,
+        "word": "姚晨一天穿了两套顶级高定",
+        "onboard_time": 1739544503,
+        "rank": 41,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 135809,
+        "num": 135809,
+        "word": "哪吒2进全球票房前14",
+        "onboard_time": 1739536221,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135238,
+        "num": 135238,
+        "word": "光线传媒给丁禹兮颁发优秀员工奖",
+        "onboard_time": 1739525362,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133024,
+        "num": 133024,
+        "word": "蛟龙行动撤档",
+        "onboard_time": 1739520383,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128791,
+        "num": 128791,
+        "word": "孙怡新剧一个眼神物是人非",
+        "onboard_time": 1739546122,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118941,
+        "num": 128786,
+        "word": "演员请就位3",
+        "onboard_time": 1739527941,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82002,
+        "num": 128772,
+        "word": "为啥爱人之间适合送藕",
+        "onboard_time": 1739540786,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71709,
+        "num": 128753,
+        "word": "下届亚冬会为什么选在沙特办",
+        "onboard_time": 1739543544,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68686,
+        "num": 128738,
+        "word": "中医科正成为医院里的高利润科室",
+        "onboard_time": 1739538621,
+        "rank": 49,
+        "category": "舆论监督"
+      }
+    ],
+    "hotgov": {
+      "word": "#绿水青山瞰我家#"
+    }
+  }
+}
