@@ -1,10 +1,10 @@
 {
   "startTime": 1739464152455,
-  "endTime": 1739501536723,
+  "endTime": 1739502048028,
   "band_list": [
     {
-      "raw_hot": 15877904,
-      "num": 15877904,
+      "raw_hot": 16764336,
+      "num": 16764336,
       "word": "赵磊官宣结婚",
       "onboard_time": 1739499200,
       "rank": 0,
@@ -19,7 +19,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1981063,
+      "raw_hot": 2094019,
       "num": 515279,
       "word": "赵磊qko",
       "onboard_time": 1739499621,
@@ -51,6 +51,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1259329,
+      "num": 1259329,
+      "word": "央视曝光卖惨主播骗人流水线",
+      "onboard_time": 1739498359,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1251555,
       "num": 286042,
       "word": "瑶一瑶小肉包母亲称停止恶意造谣",
@@ -68,18 +76,10 @@
     },
     {
       "raw_hot": 1131828,
-      "num": 267536,
+      "num": 271819,
       "word": "大学生捐精七成以上不达标",
       "onboard_time": 1739498540,
       "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1040047,
-      "num": 1040047,
-      "word": "央视曝光卖惨主播骗人流水线",
-      "onboard_time": 1739498359,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -99,6 +99,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 784386,
+      "num": 270086,
+      "word": "瑶一瑶小肉包",
+      "onboard_time": 1739497580,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
       "raw_hot": 772516,
       "num": 290089,
       "word": "李惠利梦女",
@@ -115,14 +123,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 659725,
-      "num": 212838,
-      "word": "瑶一瑶小肉包",
-      "onboard_time": 1739497580,
-      "rank": 29,
-      "category": "网红"
-    },
-    {
       "raw_hot": 599622,
       "num": 352658,
       "word": "赵丽颖发文祝愿中国动画电影越来越好",
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 558985,
-      "num": 204335,
+      "num": 251175,
       "word": "周扬青晒妈妈买的衣服",
       "onboard_time": 1739494761,
       "rank": 30,
@@ -235,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 363423,
+      "num": 234188,
+      "word": "枭起青壤",
+      "onboard_time": 1739500403,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 360860,
       "num": 289265,
       "word": "演员高亮去世",
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 358175,
-      "num": 194097,
+      "num": 224137,
       "word": "网剧漫城开播",
       "onboard_time": 1739499981,
       "rank": 23,
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 342228,
-      "num": 193750,
+      "num": 231040,
       "word": "石矶娘娘1分钟画面做了1个月",
       "onboard_time": 1739498300,
       "rank": 25,
@@ -324,15 +332,23 @@
     },
     {
       "raw_hot": 302268,
-      "num": 206132,
+      "num": 259530,
       "word": "马云现身长沙",
       "onboard_time": 1739499441,
       "rank": 15,
       "category": "互联网"
     },
     {
+      "raw_hot": 299360,
+      "num": 220604,
+      "word": "樊振东是首位超级金满贯得主",
+      "onboard_time": 1739500824,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 292708,
-      "num": 193389,
+      "num": 219896,
       "word": "23岁小伙每天超8小时赶论文血栓了",
       "onboard_time": 1739497940,
       "rank": 45,
@@ -345,6 +361,30 @@
       "onboard_time": 1739488996,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 274406,
+      "num": 274406,
+      "word": "微信开放520元大额红包",
+      "onboard_time": 1739500403,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 268777,
+      "num": 268777,
+      "word": "qko是初代网红",
+      "onboard_time": 1739501242,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 268487,
+      "num": 216966,
+      "word": "樱桃琥珀",
+      "onboard_time": 1739500824,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 263160,
@@ -360,14 +400,6 @@
       "word": "刘诗诗回应下雨天穿白裙子",
       "onboard_time": 1739488516,
       "rank": 21,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 247696,
-      "num": 192849,
-      "word": "枭起青壤",
-      "onboard_time": 1739500403,
-      "rank": 28,
       "category": "剧集"
     },
     {
@@ -396,7 +428,7 @@
     },
     {
       "raw_hot": 233665,
-      "num": 191331,
+      "num": 209877,
       "word": "光线传媒",
       "onboard_time": 1739499079,
       "rank": 33,
@@ -435,6 +467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 213759,
+      "num": 241882,
+      "word": "开学第一天",
+      "onboard_time": 1739498000,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 209324,
       "num": 209324,
       "word": "用男性思维谈恋爱会有多爽",
@@ -448,14 +488,6 @@
       "word": "滤镜定档",
       "onboard_time": 1739500643,
       "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 207816,
-      "num": 190316,
-      "word": "樱桃琥珀",
-      "onboard_time": 1739500824,
-      "rank": 35,
       "category": "剧集"
     },
     {
@@ -475,28 +507,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 196918,
-      "num": 196918,
-      "word": "开学第一天",
-      "onboard_time": 1739498000,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 193770,
-      "num": 193770,
-      "word": "微信开放520元大额红包",
-      "onboard_time": 1739500403,
-      "rank": 24,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 192797,
-      "num": 192797,
-      "word": "樊振东是首位超级金满贯得主",
-      "onboard_time": 1739500824,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 197196,
+      "num": 197196,
+      "word": "入青云",
+      "onboard_time": 1739501663,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 189944,
@@ -513,6 +529,14 @@
       "onboard_time": 1739488576,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178705,
+      "num": 178705,
+      "word": "逍遥",
+      "onboard_time": 1739501182,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 178575,
@@ -537,14 +561,6 @@
       "onboard_time": 1739454084,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 172015,
-      "num": 196411,
-      "word": "qko是初代网红",
-      "onboard_time": 1739501242,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 167611,
@@ -587,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160958,
+      "num": 160958,
+      "word": "好友曝鬼鬼产后心态很健康",
+      "onboard_time": 1739501962,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157208,
       "num": 157208,
       "word": "猫猫一次主动换来一辈子内向",
@@ -603,10 +627,10 @@
       "category": "体育"
     },
     {
-      "raw_hot": 150071,
-      "num": 150071,
-      "word": "逍遥",
-      "onboard_time": 1739501182,
+      "raw_hot": 149340,
+      "num": 149340,
+      "word": "子夜归",
+      "onboard_time": 1739501783,
       "rank": 44,
       "category": "剧集"
     },
@@ -675,6 +699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 133588,
+      "num": 133588,
+      "word": "不要谈套路式恋爱",
+      "onboard_time": 1739498781,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 132483,
       "num": 132483,
       "word": "王健林7702万股权被冻结",
@@ -699,14 +731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121817,
-      "num": 131943,
-      "word": "不要谈套路式恋爱",
-      "onboard_time": 1739498781,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 121779,
       "num": 253561,
       "word": "中国队揽亚冬会一半的金牌",
@@ -716,7 +740,7 @@
     },
     {
       "raw_hot": 121429,
-      "num": 198263,
+      "num": 272840,
       "word": "伊宁一社区主任撞脸太乙真人",
       "onboard_time": 1739498119,
       "rank": 46,
@@ -732,7 +756,7 @@
     },
     {
       "raw_hot": 115611,
-      "num": 192700,
+      "num": 229145,
       "word": "我会记得有亚冬会的冰雪春天",
       "onboard_time": 1739501363,
       "rank": 30,
