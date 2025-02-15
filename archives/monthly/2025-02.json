@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739597882119,
+  "endTime": 1739600996216,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1395,6 +1395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1723448,
+      "num": 1723448,
+      "word": "李艾和老公分手后对他刮目相看",
+      "onboard_time": 1739599159,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1722087,
       "num": 1722087,
       "word": "你好李焕英给哪吒的贺图",
@@ -2249,6 +2257,14 @@
       "onboard_time": 1739489296,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1288242,
+      "num": 1288242,
+      "word": "哪吒2已破110亿",
+      "onboard_time": 1739598559,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1287863,
@@ -7595,6 +7611,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 533619,
+      "num": 283650,
+      "word": "aespa演唱会talking环节",
+      "onboard_time": 1739599459,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 532718,
       "num": 411483,
       "word": "g社镜头下的卢昱晓申有娜",
@@ -10404,7 +10428,7 @@
     },
     {
       "raw_hot": 394763,
-      "num": 246034,
+      "num": 282210,
       "word": "潘宏妻子恳请停止谩骂",
       "onboard_time": 1739594959,
       "rank": 18,
@@ -14107,6 +14131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 285614,
+      "num": 285614,
+      "word": "中方从俄罗斯进口油气是为弥补缺口",
+      "onboard_time": 1739595920,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 285418,
       "num": 285418,
       "word": "射雕票房破6亿",
@@ -15203,12 +15235,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 260822,
+      "num": 245947,
+      "word": "哪吒2火了美媒问谁还需要好莱坞",
+      "onboard_time": 1739600359,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 260786,
       "num": 260786,
       "word": "哪吒之魔童闹海预测票房超108.5亿",
       "onboard_time": 1738854026,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 260078,
+      "num": 260078,
+      "word": "王毅用金庸小说里的话比喻中美关系",
+      "onboard_time": 1739598679,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 260076,
@@ -15393,6 +15441,14 @@
       "onboard_time": 1738559495,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 257833,
+      "num": 239771,
+      "word": "哪吒2票房超越速7",
+      "onboard_time": 1739598499,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 257783,
@@ -15665,14 +15721,6 @@
       "onboard_time": 1738473438,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 253032,
-      "num": 253032,
-      "word": "中方从俄罗斯进口油气是为弥补缺口",
-      "onboard_time": 1739595920,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 253016,
@@ -18611,6 +18659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 216412,
+      "num": 216412,
+      "word": "李小冉说和向太是豪门丫鬟",
+      "onboard_time": 1739596219,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216390,
       "num": 216390,
       "word": "肖战经历万千之后你还是你就好",
@@ -19457,14 +19513,6 @@
       "onboard_time": 1739527941,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 208494,
-      "num": 192368,
-      "word": "李小冉说和向太是豪门丫鬟",
-      "onboard_time": 1739596219,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 208487,
@@ -24083,6 +24131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179500,
+      "num": 250483,
+      "word": "马斯克查着账又被邀请去查案",
+      "onboard_time": 1739597839,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 179463,
       "num": 179463,
       "word": "李明德大学同学发文",
@@ -25561,6 +25617,14 @@
       "onboard_time": 1738981641,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168714,
+      "num": 168714,
+      "word": "李瓒自救",
+      "onboard_time": 1739599699,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 168687,
@@ -27289,6 +27353,14 @@
       "onboard_time": 1739158521,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157957,
+      "num": 144495,
+      "word": "檀健次魏哲鸣battle",
+      "onboard_time": 1739599939,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 157953,
@@ -29211,6 +29283,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 145651,
+      "num": 144424,
+      "word": "权志龙新专辑概念预告",
+      "onboard_time": 1739599759,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 145650,
       "num": 145650,
       "word": "WTT发文为王曼昱庆生",
@@ -29467,6 +29547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144381,
+      "num": 144381,
+      "word": "锦绣芳华开启招商",
+      "onboard_time": 1739598799,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144365,
       "num": 144365,
       "word": "赫海",
@@ -29713,6 +29801,14 @@
       "onboard_time": 1739106743,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143173,
+      "num": 143173,
+      "word": "陈哲远梁洁情人节cos朱迪尼克",
+      "onboard_time": 1739598139,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 143161,
@@ -30825,6 +30921,14 @@
       "onboard_time": 1739201060,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 135505,
+      "num": 135505,
+      "word": "杨紫李祯明制汉服长衫路透",
+      "onboard_time": 1739600959,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 135404,
@@ -34915,6 +35019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107099,
+      "num": 120935,
+      "word": "若WTT让樊振东从资格赛打起荒谬至极",
+      "onboard_time": 1739600420,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106984,
       "num": 106984,
       "word": "陈丽君把非遗穿到法国",
@@ -37027,6 +37139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 85679,
+      "num": 192794,
+      "word": "河南一澡堂垮塌村民称有亲戚身亡",
+      "onboard_time": 1739596757,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85632,
       "num": 98015,
       "word": "开工喝星巴克星想事成",
@@ -37113,14 +37233,6 @@
       "onboard_time": 1738648582,
       "rank": 48,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 84751,
-      "num": 93911,
-      "word": "马斯克查着账又被邀请去查案",
-      "onboard_time": 1739597839,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 84606,
@@ -37323,14 +37435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 82517,
-      "num": 192794,
-      "word": "河南一澡堂垮塌村民称有亲戚身亡",
-      "onboard_time": 1739596757,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82338,
       "num": 82338,
       "word": "亚冬会公众门票赛时销售启动",
@@ -37529,6 +37633,14 @@
       "onboard_time": 1738338079,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 80009,
+      "num": 119686,
+      "word": "杭州一狗狗离家出走逃票上地铁被抓",
+      "onboard_time": 1739600539,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79960,
@@ -44441,6 +44553,14 @@
       "onboard_time": 1738966572,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 19854,
+      "num": 285057,
+      "word": "部队为38对新人举办集体婚礼",
+      "onboard_time": 1739600299,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19808,
