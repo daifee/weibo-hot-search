@@ -1,6 +1,6 @@
 {
   "startTime": 1739550405629,
-  "endTime": 1739632888293,
+  "endTime": 1739633743135,
   "band_list": [
     {
       "raw_hot": 2975426,
@@ -163,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1235136,
+      "num": 1235136,
+      "word": "32岁病逝女博士幼时失去双亲",
+      "onboard_time": 1739631022,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1199965,
       "num": 1078086,
       "word": "哪吒官微半夜一次发3张海报",
@@ -171,12 +179,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1193484,
-      "num": 1193484,
-      "word": "32岁病逝女博士幼时失去双亲",
-      "onboard_time": 1739631022,
-      "rank": 1,
-      "category": "民生新闻"
+      "raw_hot": 1126890,
+      "num": 1126890,
+      "word": "全球票房",
+      "onboard_time": 1739630001,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 1100773,
@@ -371,14 +379,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 771508,
-      "num": 771508,
-      "word": "全球票房",
-      "onboard_time": 1739630001,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
       "raw_hot": 750063,
       "num": 289729,
       "word": "张碧晨晒与女儿合照",
@@ -483,6 +483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 626548,
+      "num": 626548,
+      "word": "林允有一种气血很足的美",
+      "onboard_time": 1739630901,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 624919,
       "num": 297403,
       "word": "王鹤棣全英文采访",
@@ -505,6 +513,14 @@
       "onboard_time": 1739621779,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 571480,
+      "num": 571480,
+      "word": "男女主化蝶",
+      "onboard_time": 1739630182,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 567923,
@@ -595,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 483763,
+      "num": 593782,
+      "word": "男子3小时花费2000元套中玛莎拉蒂",
+      "onboard_time": 1739632043,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 473690,
       "num": 473690,
       "word": "中国人从来不信邪不怕鬼",
@@ -633,14 +657,6 @@
       "onboard_time": 1739544083,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 455291,
-      "num": 455291,
-      "word": "林允有一种气血很足的美",
-      "onboard_time": 1739630901,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 448980,
@@ -713,14 +729,6 @@
       "onboard_time": 1739544322,
       "rank": 1,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 408221,
-      "num": 359730,
-      "word": "男女主化蝶",
-      "onboard_time": 1739630182,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 405263,
@@ -899,6 +907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 316401,
+      "num": 316401,
+      "word": "毛不易演唱会死嘴快亲啊",
+      "onboard_time": 1739631502,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 311087,
       "num": 311087,
       "word": "代号鸢",
@@ -955,28 +971,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 296906,
-      "num": 296906,
-      "word": "男子3小时花费2000元套中玛莎拉蒂",
-      "onboard_time": 1739632043,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 296772,
-      "num": 296772,
-      "word": "毛不易演唱会死嘴快亲啊",
-      "onboard_time": 1739631502,
-      "rank": 27,
-      "category": "演出"
-    },
-    {
       "raw_hot": 295160,
       "num": 297062,
       "word": "衡阳通报售卖出生证事件",
       "onboard_time": 1739614880,
       "rank": 38,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 293288,
+      "num": 600183,
+      "word": "32岁病逝女博士本已开始筹备婚礼",
+      "onboard_time": 1739631800,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 290400,
@@ -1001,14 +1009,6 @@
       "onboard_time": 1739587520,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 286226,
-      "num": 600183,
-      "word": "32岁病逝女博士本已开始筹备婚礼",
-      "onboard_time": 1739631800,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 285614,
@@ -1049,6 +1049,14 @@
       "onboard_time": 1739625920,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 276659,
+      "num": 452234,
+      "word": "真正能助眠的6种食物",
+      "onboard_time": 1739632461,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 274992,
@@ -1411,14 +1419,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 214039,
-      "num": 214039,
-      "word": "真正能助眠的6种食物",
-      "onboard_time": 1739632461,
-      "rank": 32,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 211127,
       "num": 211127,
       "word": "若WTT让樊振东从资格赛打起荒谬至极",
@@ -1507,6 +1507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203620,
+      "num": 203620,
+      "word": "王栎鑫白发黑西装",
+      "onboard_time": 1739633721,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 199601,
       "num": 199601,
       "word": "白色橄榄树",
@@ -1536,6 +1544,14 @@
       "word": "情敌是顶级绿茶有多气人",
       "onboard_time": 1739611159,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 196438,
+      "num": 196438,
+      "word": "滤镜",
+      "onboard_time": 1739633061,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -1665,6 +1681,14 @@
       "onboard_time": 1739577196,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 179040,
+      "num": 179040,
+      "word": "朱一龙直播",
+      "onboard_time": 1739632642,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 178272,
@@ -1883,8 +1907,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 164815,
-      "num": 164815,
+      "raw_hot": 165145,
+      "num": 165145,
       "word": "金智秀空降成绩",
       "onboard_time": 1739632282,
       "rank": 44,
@@ -1913,6 +1937,14 @@
       "onboard_time": 1739528541,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162212,
+      "num": 341633,
+      "word": "广州一中学被曝厕所装监控",
+      "onboard_time": 1739633002,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162013,
@@ -2211,14 +2243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 141485,
-      "num": 141485,
-      "word": "朱一龙直播",
-      "onboard_time": 1739632642,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 141463,
       "num": 141463,
       "word": "檀健次李兰迪hi6剧宣好甜",
@@ -2329,6 +2353,14 @@
       "onboard_time": 1739531783,
       "rank": 31,
       "category": "网红"
+    },
+    {
+      "raw_hot": 134425,
+      "num": 134425,
+      "word": "张颜齐第一个登上荧幕的角色",
+      "onboard_time": 1739630481,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 134400,
@@ -2457,6 +2489,14 @@
       "onboard_time": 1739534902,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122223,
+      "num": 189932,
+      "word": "亚团赛中国队晋级决赛",
+      "onboard_time": 1739633601,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 122052,
@@ -2884,7 +2924,7 @@
     },
     {
       "raw_hot": 86636,
-      "num": 1128307,
+      "num": 1172173,
       "word": "我国成全球领先的人形机器人生产国",
       "onboard_time": 1739623880,
       "rank": 2,
@@ -3041,6 +3081,14 @@
       "onboard_time": 1739551337,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 63981,
+      "num": 232570,
+      "word": "乌妇女在乌军征兵人员面前引爆炸弹",
+      "onboard_time": 1739633300,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 62823,

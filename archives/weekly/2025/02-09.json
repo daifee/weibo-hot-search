@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739632888293,
+  "endTime": 1739633743135,
   "band_list": [
     {
       "raw_hot": 18452349,
@@ -1315,6 +1315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1235136,
+      "num": 1235136,
+      "word": "32岁病逝女博士幼时失去双亲",
+      "onboard_time": 1739631022,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1230771,
       "num": 1230771,
       "word": "余莺儿扮演者直播称自己曾肇事逃逸",
@@ -1409,14 +1417,6 @@
       "onboard_time": 1739439800,
       "rank": 4,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1193484,
-      "num": 1193484,
-      "word": "32岁病逝女博士幼时失去双亲",
-      "onboard_time": 1739631022,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1191455,
@@ -3411,6 +3411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 626548,
+      "num": 626548,
+      "word": "林允有一种气血很足的美",
+      "onboard_time": 1739630901,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 624919,
       "num": 297403,
       "word": "王鹤棣全英文采访",
@@ -3849,6 +3857,14 @@
       "onboard_time": 1739442442,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 571480,
+      "num": 571480,
+      "word": "男女主化蝶",
+      "onboard_time": 1739630182,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 571467,
@@ -4627,6 +4643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 483763,
+      "num": 593782,
+      "word": "男子3小时花费2000元套中玛莎拉蒂",
+      "onboard_time": 1739632043,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 483307,
       "num": 483307,
       "word": "一直躺着玩手机双眼度数相差400",
@@ -4833,14 +4857,6 @@
       "onboard_time": 1739446288,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 455291,
-      "num": 455291,
-      "word": "林允有一种气血很足的美",
-      "onboard_time": 1739630901,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 455096,
@@ -5257,14 +5273,6 @@
       "onboard_time": 1739194163,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 408221,
-      "num": 359730,
-      "word": "男女主化蝶",
-      "onboard_time": 1739630182,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 408179,
@@ -6707,6 +6715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 316401,
+      "num": 316401,
+      "word": "毛不易演唱会死嘴快亲啊",
+      "onboard_time": 1739631502,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 316020,
       "num": 350418,
       "word": "成都住房公积金贷款最新调整",
@@ -7107,28 +7123,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 296906,
-      "num": 296906,
-      "word": "男子3小时花费2000元套中玛莎拉蒂",
-      "onboard_time": 1739632043,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 296816,
       "num": 296816,
       "word": "迪丽热巴侧脸睡颜",
       "onboard_time": 1739260339,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 296772,
-      "num": 296772,
-      "word": "毛不易演唱会死嘴快亲啊",
-      "onboard_time": 1739631502,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 296659,
@@ -7225,6 +7225,14 @@
       "onboard_time": 1739244741,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 293288,
+      "num": 600183,
+      "word": "32岁病逝女博士本已开始筹备婚礼",
+      "onboard_time": 1739631800,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 293134,
@@ -7377,14 +7385,6 @@
       "onboard_time": 1739268801,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 286226,
-      "num": 600183,
-      "word": "32岁病逝女博士本已开始筹备婚礼",
-      "onboard_time": 1739631800,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 285614,
@@ -7665,6 +7665,14 @@
       "onboard_time": 1739243000,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 276659,
+      "num": 452234,
+      "word": "真正能助眠的6种食物",
+      "onboard_time": 1739632461,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 275674,
@@ -9931,14 +9939,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 214039,
-      "num": 214039,
-      "word": "真正能助眠的6种食物",
-      "onboard_time": 1739632461,
-      "rank": 32,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 213985,
       "num": 213985,
       "word": "恋与深空 沈星回",
@@ -10691,6 +10691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203620,
+      "num": 203620,
+      "word": "王栎鑫白发黑西装",
+      "onboard_time": 1739633721,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 203397,
       "num": 203397,
       "word": "郑业成cos哪吒",
@@ -11339,6 +11347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196438,
+      "num": 196438,
+      "word": "滤镜",
+      "onboard_time": 1739331261,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196360,
       "num": 313028,
       "word": "电竞奥运会",
@@ -11865,14 +11881,6 @@
       "onboard_time": 1739372781,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190962,
-      "num": 190962,
-      "word": "滤镜",
-      "onboard_time": 1739331261,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 190874,
@@ -12857,6 +12865,14 @@
       "onboard_time": 1739191642,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179040,
+      "num": 179040,
+      "word": "朱一龙直播",
+      "onboard_time": 1739632642,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 178900,
@@ -13971,6 +13987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165145,
+      "num": 165145,
+      "word": "金智秀空降成绩",
+      "onboard_time": 1739632282,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 165057,
       "num": 307123,
       "word": "台民众有人打飞的来大陆看哪吒2",
@@ -14009,14 +14033,6 @@
       "onboard_time": 1739269461,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 164815,
-      "num": 164815,
-      "word": "金智秀空降成绩",
-      "onboard_time": 1739632282,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 164735,
@@ -14281,6 +14297,14 @@
       "onboard_time": 1739511022,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 162212,
+      "num": 341633,
+      "word": "广州一中学被曝厕所装监控",
+      "onboard_time": 1739633002,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162066,
@@ -16123,14 +16147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141485,
-      "num": 141485,
-      "word": "朱一龙直播",
-      "onboard_time": 1739632642,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 141463,
       "num": 141463,
       "word": "檀健次李兰迪hi6剧宣好甜",
@@ -16657,6 +16673,14 @@
       "onboard_time": 1739168841,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134425,
+      "num": 134425,
+      "word": "张颜齐第一个登上荧幕的角色",
+      "onboard_time": 1739630481,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 134400,
@@ -17449,6 +17473,14 @@
       "onboard_time": 1739375840,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 122223,
+      "num": 189932,
+      "word": "亚团赛中国队晋级决赛",
+      "onboard_time": 1739633601,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 122203,
@@ -19420,7 +19452,7 @@
     },
     {
       "raw_hot": 86636,
-      "num": 1128307,
+      "num": 1172173,
       "word": "我国成全球领先的人形机器人生产国",
       "onboard_time": 1739623880,
       "rank": 2,
@@ -20432,6 +20464,14 @@
       "word": "马斯克将审查美国防部支出",
       "onboard_time": 1739207354,
       "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 63981,
+      "num": 232570,
+      "word": "乌妇女在乌军征兵人员面前引爆炸弹",
+      "onboard_time": 1739633300,
+      "rank": 29,
       "category": "国际时政"
     },
     {
