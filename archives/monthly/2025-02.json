@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739644051589,
+  "endTime": 1739644824979,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -24955,6 +24955,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 180426,
+      "num": 161827,
+      "word": "终于理解陈哲远为什么很难走出来了",
+      "onboard_time": 1739641335,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180376,
       "num": 180376,
       "word": "汽车央企重组",
@@ -27817,14 +27825,6 @@
       "onboard_time": 1739257940,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161827,
-      "num": 161827,
-      "word": "终于理解陈哲远为什么很难走出来了",
-      "onboard_time": 1739641335,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 161780,
@@ -45147,6 +45147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 28399,
+      "num": 35266,
+      "word": "中国先进制造业上大分",
+      "onboard_time": 1739642294,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28339,
       "num": 36707,
       "word": "明天就是元宵节了",
@@ -45441,6 +45449,14 @@
       "onboard_time": 1738858701,
       "rank": 19,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 26353,
+      "num": 35264,
+      "word": "朴灿烈演唱会",
+      "onboard_time": 1739644633,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 26325,
