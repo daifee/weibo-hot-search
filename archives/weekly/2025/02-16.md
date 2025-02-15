@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/02/16 00:24:58 ~ 2025/02/16 03:18:34
+本榜单时间：2025/02/16 00:24:58 ~ 2025/02/16 03:35:31
 </p>
 </blockquote>
 <p>
@@ -425,6 +425,18 @@ YOASOBI上海演唱会（热度：28789）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23U20%E5%9B%BD%E8%B6%B3%E4%B8%A4%E8%BF%9E%E8%83%9C%E6%99%8B%E7%BA%A7%23" target="weibo">
 U20国足两连胜晋级（热度：21154）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23CBA%E4%BF%B1%E4%B9%90%E9%83%A8%E6%9D%AF%23" target="weibo">
+CBA俱乐部杯（热度：17234）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E6%B4%B2%E6%9D%AFU20%23" target="weibo">
+亚洲杯U20（热度：17069）
 </a>
 </li>
 

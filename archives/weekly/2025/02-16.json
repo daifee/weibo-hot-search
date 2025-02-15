@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739647114082,
+  "endTime": 1739648131647,
   "band_list": [
     {
       "raw_hot": 3115726,
@@ -552,6 +552,22 @@
       "word": "U20国足两连胜晋级",
       "onboard_time": 1739640196,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 17234,
+      "num": 26903,
+      "word": "CBA俱乐部杯",
+      "onboard_time": 1739647872,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 17069,
+      "num": 26900,
+      "word": "亚洲杯U20",
+      "onboard_time": 1739647931,
+      "rank": 48,
       "category": "体育"
     },
     {
