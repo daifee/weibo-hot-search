@@ -1,6 +1,6 @@
 {
   "startTime": 1739550405629,
-  "endTime": 1739600996216,
+  "endTime": 1739601816902,
   "band_list": [
     {
       "raw_hot": 2975426,
@@ -51,6 +51,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1367479,
+      "num": 1367479,
+      "word": "哪吒2已破110亿",
+      "onboard_time": 1739598559,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1332960,
       "num": 1228354,
       "word": "哪吒2票房不降反升",
@@ -64,14 +72,6 @@
       "word": "律师提醒情人节捡垃圾或违法",
       "onboard_time": 1739589380,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1288242,
-      "num": 1288242,
-      "word": "哪吒2已破110亿",
-      "onboard_time": 1739598559,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -211,20 +211,20 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 567923,
+      "num": 283650,
+      "word": "aespa演唱会talking环节",
+      "onboard_time": 1739599459,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 553564,
       "num": 285006,
       "word": "哪吒2再破109亿",
       "onboard_time": 1739592859,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 533619,
-      "num": 283650,
-      "word": "aespa演唱会talking环节",
-      "onboard_time": 1739599459,
-      "rank": 12,
-      "category": "音乐"
     },
     {
       "raw_hot": 531274,
@@ -283,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 421079,
+      "num": 245947,
+      "word": "哪吒2火了美媒问谁还需要好莱坞",
+      "onboard_time": 1739600359,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 412493,
       "num": 412493,
       "word": "男子潜入前女友男友家找出轨证据",
@@ -305,6 +313,14 @@
       "onboard_time": 1739585840,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 398109,
+      "num": 250483,
+      "word": "马斯克查着账又被邀请去查案",
+      "onboard_time": 1739597839,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 394763,
@@ -547,14 +563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 260822,
-      "num": 245947,
-      "word": "哪吒2火了美媒问谁还需要好莱坞",
-      "onboard_time": 1739600359,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 260078,
       "num": 260078,
       "word": "王毅用金庸小说里的话比喻中美关系",
@@ -595,6 +603,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 245793,
+      "num": 224323,
+      "word": "我家那小子",
+      "onboard_time": 1739598259,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236025,
       "num": 183507,
       "word": "广东一地烧炮出意外多人从高空跌落",
@@ -633,14 +649,6 @@
       "onboard_time": 1739578400,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 224323,
-      "num": 224323,
-      "word": "我家那小子",
-      "onboard_time": 1739598259,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 222507,
@@ -745,14 +753,6 @@
       "onboard_time": 1739577196,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 179500,
-      "num": 250483,
-      "word": "马斯克查着账又被邀请去查案",
-      "onboard_time": 1739597839,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 178272,
@@ -883,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157819,
+      "num": 157819,
+      "word": "若WTT让樊振东从资格赛打起荒谬至极",
+      "onboard_time": 1739600420,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157699,
       "num": 181872,
       "word": "百万网红两个小段关闭评论区",
@@ -947,20 +955,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 145284,
+      "num": 145284,
+      "word": "锦绣芳华开启招商",
+      "onboard_time": 1739598799,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144391,
       "num": 144391,
       "word": "万斯称欧洲最大威胁不是中国",
       "onboard_time": 1739589919,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 144381,
-      "num": 144381,
-      "word": "锦绣芳华开启招商",
-      "onboard_time": 1739598799,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 144366,
@@ -1000,6 +1008,14 @@
       "word": "未来至少一周全美无哪吒2IMAX排片",
       "onboard_time": 1739577076,
       "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 140211,
+      "num": 140211,
+      "word": "申小豹配音演员说同学们都很惊讶",
+      "onboard_time": 1739599818,
+      "rank": 34,
       "category": "电影"
     },
     {
@@ -1091,12 +1107,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128410,
+      "num": 185507,
+      "word": "结界兽火出圈全家帮赶青铜器手工",
+      "onboard_time": 1739601558,
+      "rank": 19,
+      "category": "民生新闻,电影"
+    },
+    {
       "raw_hot": 127723,
       "num": 127723,
       "word": "河南一澡堂垮塌有人不幸死亡",
       "onboard_time": 1739597538,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124437,
+      "num": 170645,
+      "word": "第一次见和什么都适配的台词",
+      "onboard_time": 1739601439,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 123183,
@@ -1203,20 +1235,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108526,
+      "num": 119686,
+      "word": "杭州一狗狗离家出走逃票上地铁被抓",
+      "onboard_time": 1739600539,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108315,
       "num": 76104,
       "word": "桐心薇泯",
       "onboard_time": 1739556614,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 107099,
-      "num": 120935,
-      "word": "若WTT让樊振东从资格赛打起荒谬至极",
-      "onboard_time": 1739600420,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 106637,
@@ -1371,12 +1403,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 80009,
-      "num": 119686,
-      "word": "杭州一狗狗离家出走逃票上地铁被抓",
-      "onboard_time": 1739600539,
+      "raw_hot": 82736,
+      "num": 82736,
+      "word": "特朗普为何执着于解密肯尼迪遇刺案",
+      "onboard_time": 1739601499,
       "rank": 49,
-      "category": "民生新闻"
+      "category": "国际时政"
     },
     {
       "raw_hot": 78488,
@@ -1507,11 +1539,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 48230,
+      "num": 285057,
+      "word": "部队为38对新人举办集体婚礼",
+      "onboard_time": 1739600299,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45320,
       "num": 73861,
       "word": "官方回应多人烧炮被鞭炮炸伤",
       "onboard_time": 1739573833,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43229,
+      "num": 197291,
+      "word": "河南周口回应澡堂垮塌",
+      "onboard_time": 1739601378,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -1649,14 +1697,6 @@
       "onboard_time": 1739593219,
       "rank": 19,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 19854,
-      "num": 285057,
-      "word": "部队为38对新人举办集体婚礼",
-      "onboard_time": 1739600299,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18628,

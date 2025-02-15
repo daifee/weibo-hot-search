@@ -1,0 +1,410 @@
+{
+  "runTime": 1739601816902,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1632109,
+        "num": 1632109,
+        "word": "李艾和老公分手后对他刮目相看",
+        "onboard_time": 1739599159,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1367479,
+        "num": 1367479,
+        "word": "哪吒2已破110亿",
+        "onboard_time": 1739598559,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10196,
+        "num": 1156613,
+        "word": "尔滨期待再相逢",
+        "onboard_time": 1739529922,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1075457,
+        "num": 1075457,
+        "word": "惠英红脸上缝了89针",
+        "onboard_time": 1739585840,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 660958,
+        "num": 660958,
+        "word": "胖东来奖励顾客500再追责不低于100万",
+        "onboard_time": 1739591899,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317631,
+        "num": 317631,
+        "word": "律师提醒情人节捡垃圾或违法",
+        "onboard_time": 1739589380,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 699316,
+        "num": 315762,
+        "word": "哪吒官微半夜一次发3张海报",
+        "onboard_time": 1739593339,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 671699,
+        "num": 307609,
+        "word": "饺子已成中国影史票房最高导演",
+        "onboard_time": 1739582838,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 240889,
+        "num": 240889,
+        "word": "中方从俄罗斯进口油气是为弥补缺口",
+        "onboard_time": 1739595920,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 197620,
+        "num": 197620,
+        "word": "王毅用金庸小说里的话比喻中美关系",
+        "onboard_time": 1739598679,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 43229,
+        "num": 197291,
+        "word": "河南周口回应澡堂垮塌",
+        "onboard_time": 1739601378,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 567923,
+        "num": 197086,
+        "word": "aespa演唱会talking环节",
+        "onboard_time": 1739599459,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 552395,
+        "num": 196845,
+        "word": "曝湖南某餐饮品牌厨房加工穿山甲",
+        "onboard_time": 1739584338,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 480778,
+        "num": 196445,
+        "word": "哪吒2票房不降反升",
+        "onboard_time": 1739577138,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 437528,
+        "num": 196058,
+        "word": "齐思钧女朋友参加综艺",
+        "onboard_time": 1739581578,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421079,
+        "num": 195725,
+        "word": "哪吒2火了美媒问谁还需要好莱坞",
+        "onboard_time": 1739600359,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 398109,
+        "num": 195600,
+        "word": "马斯克查着账又被邀请去查案",
+        "onboard_time": 1739597839,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 195285,
+        "num": 195285,
+        "word": "潘宏拒绝回应中国小动物保护协会辟谣",
+        "onboard_time": 1739582838,
+        "rank": 17,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 186797,
+        "num": 186797,
+        "word": "樊振东陈梦做了别人不敢做的事",
+        "onboard_time": 1739585660,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128410,
+        "num": 185507,
+        "word": "结界兽火出圈全家帮赶青铜器手工",
+        "onboard_time": 1739601558,
+        "rank": 19,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 251241,
+        "num": 184945,
+        "word": "潘宏妻子恳请停止谩骂",
+        "onboard_time": 1739594959,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 250699,
+        "num": 182182,
+        "word": "男子利用15分钟内免停车费逃费71次",
+        "onboard_time": 1739578337,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248406,
+        "num": 181863,
+        "word": "天雷滚滚我好怕怕传到手影界了",
+        "onboard_time": 1739592799,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 245793,
+        "num": 178880,
+        "word": "我家那小子",
+        "onboard_time": 1739598259,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235504,
+        "num": 178718,
+        "word": "哪吒2票房超越速7",
+        "onboard_time": 1739598499,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 234454,
+        "num": 176918,
+        "word": "王鹤棣全英文采访",
+        "onboard_time": 1739593099,
+        "rank": 25,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 205105,
+        "num": 174063,
+        "word": "吴尊疑似被贴脸开大",
+        "onboard_time": 1739587159,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201109,
+        "num": 173802,
+        "word": "李小冉说和向太是豪门丫鬟",
+        "onboard_time": 1739596219,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194088,
+        "num": 171885,
+        "word": "学校已被哪吒头占领",
+        "onboard_time": 1739593819,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124437,
+        "num": 170645,
+        "word": "第一次见和什么都适配的台词",
+        "onboard_time": 1739601439,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169114,
+        "num": 169114,
+        "word": "姚笛 被删",
+        "onboard_time": 1739539282,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157819,
+        "num": 157819,
+        "word": "若WTT让樊振东从资格赛打起荒谬至极",
+        "onboard_time": 1739600420,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145284,
+        "num": 145284,
+        "word": "锦绣芳华开启招商",
+        "onboard_time": 1739598799,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112586,
+        "num": 141619,
+        "word": "王毅说外媒可以找Deepseek翻译这句话",
+        "onboard_time": 1739583259,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 140211,
+        "num": 140211,
+        "word": "申小豹配音演员说同学们都很惊讶",
+        "onboard_time": 1739599818,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132081,
+        "num": 132081,
+        "word": "3岁吒儿被外国人认识了",
+        "onboard_time": 1739583978,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131829,
+        "num": 131829,
+        "word": "6年前一支大牌口红可买一克黄金",
+        "onboard_time": 1739596158,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 100374,
+        "num": 129225,
+        "word": "复旦教授称婚姻是最大的幸福来源",
+        "onboard_time": 1739581279,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128403,
+        "num": 128403,
+        "word": "李瓒自救",
+        "onboard_time": 1739599699,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127744,
+        "num": 127744,
+        "word": "王鹤棣说受不了詹眉断崖式分手",
+        "onboard_time": 1739593579,
+        "rank": 39,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 127541,
+        "num": 127541,
+        "word": "张亮坐张百乔旁边问他在哪",
+        "onboard_time": 1739596039,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127448,
+        "num": 127448,
+        "word": "陈哲远梁洁情人节cos朱迪尼克",
+        "onboard_time": 1739598139,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121188,
+        "num": 121188,
+        "word": "杨紫李祯明制汉服长衫路透",
+        "onboard_time": 1739600959,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115560,
+        "num": 115560,
+        "word": "河南一澡堂垮塌有人不幸死亡",
+        "onboard_time": 1739597538,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48230,
+        "num": 110704,
+        "word": "部队为38对新人举办集体婚礼",
+        "onboard_time": 1739600299,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109597,
+        "num": 109597,
+        "word": "失业没工作瞒着爸妈躺出租屋的一天",
+        "onboard_time": 1739585840,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108526,
+        "num": 108526,
+        "word": "杭州一狗狗离家出走逃票上地铁被抓",
+        "onboard_time": 1739600539,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94823,
+        "num": 94823,
+        "word": "田志希说不去韩国就没有乒乓球生涯",
+        "onboard_time": 1739593639,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84155,
+        "num": 84155,
+        "word": "小蛇糕",
+        "onboard_time": 1739595920,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 82736,
+        "num": 82736,
+        "word": "特朗普为何执着于解密肯尼迪遇刺案",
+        "onboard_time": 1739601499,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#从嫦娥奔月到嫦娥揽月#"
+    }
+  }
+}
