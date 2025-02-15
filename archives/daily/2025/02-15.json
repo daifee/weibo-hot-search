@@ -1,6 +1,6 @@
 {
   "startTime": 1739550405629,
-  "endTime": 1739618222229,
+  "endTime": 1739619326076,
   "band_list": [
     {
       "raw_hot": 2975426,
@@ -27,6 +27,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 2105482,
+      "num": 2105482,
+      "word": "奥斯卡评委喊话饺子导演",
+      "onboard_time": 1739615661,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 2095693,
       "num": 2095693,
       "word": "余莺儿戏份被剪了",
@@ -41,14 +49,6 @@
       "onboard_time": 1739539282,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2023177,
-      "num": 2023177,
-      "word": "奥斯卡评委喊话饺子导演",
-      "onboard_time": 1739615661,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 1752922,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 966482,
+      "num": 966482,
+      "word": "敖丙传封面",
+      "onboard_time": 1739614460,
+      "rank": 45,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 951141,
       "num": 951141,
       "word": "DeepSeek翻译他强任他强清风拂山岗",
@@ -235,14 +243,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 799529,
-      "num": 799529,
-      "word": "敖丙传封面",
-      "onboard_time": 1739614460,
-      "rank": 45,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 775586,
       "num": 736057,
       "word": "哪吒2已破111亿",
@@ -273,6 +273,22 @@
       "onboard_time": 1739585660,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 738223,
+      "num": 323727,
+      "word": "男子花百万彩礼娶亲不到一年闹离婚",
+      "onboard_time": 1739617700,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 736455,
+      "num": 366491,
+      "word": "白色橄榄树大结局",
+      "onboard_time": 1739616560,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 702092,
@@ -340,7 +356,7 @@
     },
     {
       "raw_hot": 623835,
-      "num": 282943,
+      "num": 312386,
       "word": "哪吒2再超112亿",
       "onboard_time": 1739612239,
       "rank": 21,
@@ -364,7 +380,7 @@
     },
     {
       "raw_hot": 536728,
-      "num": 266383,
+      "num": 296450,
       "word": "长月烬明飙升榜第一",
       "onboard_time": 1739604259,
       "rank": 23,
@@ -401,14 +417,6 @@
       "onboard_time": 1739610199,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 514834,
-      "num": 235814,
-      "word": "白色橄榄树大结局",
-      "onboard_time": 1739616560,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 473690,
@@ -448,6 +456,14 @@
       "word": "家长拒订牛奶老师怒怼有事别求",
       "onboard_time": 1739604259,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 437605,
+      "num": 307912,
+      "word": "41岁媒体人吴玉燕因流感离世",
+      "onboard_time": 1739617882,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -668,7 +684,7 @@
     },
     {
       "raw_hot": 295160,
-      "num": 295160,
+      "num": 297062,
       "word": "衡阳通报售卖出生证事件",
       "onboard_time": 1739614880,
       "rank": 38,
@@ -812,7 +828,7 @@
     },
     {
       "raw_hot": 262243,
-      "num": 213780,
+      "num": 220520,
       "word": "颖儿张口就是石矶娘娘台词",
       "onboard_time": 1739615059,
       "rank": 28,
@@ -929,6 +945,14 @@
       "onboard_time": 1739578400,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 223706,
+      "num": 223706,
+      "word": "李嘉琦好适合高饱和色调",
+      "onboard_time": 1739617999,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 222507,
@@ -1147,6 +1171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 176813,
+      "num": 176813,
+      "word": "春晚才过两周机器人就进化成这样了",
+      "onboard_time": 1739616801,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176332,
       "num": 176332,
       "word": "李盈莹受伤",
@@ -1275,28 +1307,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 163350,
-      "num": 163350,
-      "word": "李嘉琦好适合高饱和色调",
-      "onboard_time": 1739617999,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 162480,
       "num": 162480,
       "word": "董力官宣结婚",
       "onboard_time": 1739528541,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 161610,
-      "num": 183499,
-      "word": "男子花百万彩礼娶亲不到一年闹离婚",
-      "onboard_time": 1739617700,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 160991,
@@ -1427,14 +1443,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 149892,
-      "num": 170804,
-      "word": "春晚才过两周机器人就进化成这样了",
-      "onboard_time": 1739616801,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 149568,
       "num": 149568,
       "word": "敖丙配音千娇百媚里的反派",
@@ -1449,6 +1457,14 @@
       "onboard_time": 1739588959,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147435,
+      "num": 147435,
+      "word": "饺子导演",
+      "onboard_time": 1739618420,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 146644,
@@ -1561,14 +1577,6 @@
       "onboard_time": 1739516061,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 138454,
-      "num": 168610,
-      "word": "41岁媒体人吴玉燕因流感离世",
-      "onboard_time": 1739617882,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 137895,
@@ -1708,7 +1716,7 @@
     },
     {
       "raw_hot": 125651,
-      "num": 125651,
+      "num": 134333,
       "word": "豆角土豆焖面条",
       "onboard_time": 1739616500,
       "rank": 45,
@@ -1787,6 +1795,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 118487,
+      "num": 118487,
+      "word": "HMA",
+      "onboard_time": 1739618540,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117852,
       "num": 117852,
       "word": "陈哲远白色橄榄树裸上身",
@@ -1825,6 +1841,14 @@
       "onboard_time": 1739600539,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115259,
+      "num": 115259,
+      "word": "谁家cp冷战还一直在谈异地恋",
+      "onboard_time": 1739619200,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 114381,
@@ -1953,6 +1977,14 @@
       "onboard_time": 1739607379,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104223,
+      "num": 104223,
+      "word": "演员请就位",
+      "onboard_time": 1739616142,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 103605,
@@ -2115,6 +2147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85962,
+      "num": 94587,
+      "word": "RNGM对战TES",
+      "onboard_time": 1739619200,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 85679,
       "num": 192794,
       "word": "河南一澡堂垮塌村民称有亲戚身亡",
@@ -2243,6 +2283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 62730,
+      "num": 339097,
+      "word": "中国为不确定的世界提供最大确定性",
+      "onboard_time": 1739618659,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 60791,
       "num": 286593,
       "word": "工作友谊也会断崖式分手",
@@ -2268,7 +2316,7 @@
     },
     {
       "raw_hot": 58067,
-      "num": 678678,
+      "num": 700014,
       "word": "歌词海报送给开学的你",
       "onboard_time": 1739610860,
       "rank": 2,
@@ -2315,6 +2363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 50202,
+      "num": 313903,
+      "word": "镇政府回应有人钓鱼途中偶遇东北虎",
+      "onboard_time": 1739618120,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50111,
       "num": 59486,
       "word": "演员请就位3",
@@ -2336,6 +2392,14 @@
       "word": "谢谢每一位志愿者",
       "onboard_time": 1739609780,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 45872,
+      "num": 237635,
+      "word": "中国女排超级联赛",
+      "onboard_time": 1739617640,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -2505,14 +2569,6 @@
       "onboard_time": 1739593219,
       "rank": 19,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 20501,
-      "num": 176310,
-      "word": "镇政府回应有人钓鱼途中偶遇东北虎",
-      "onboard_time": 1739618120,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18628,
