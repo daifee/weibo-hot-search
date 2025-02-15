@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739661610694,
+  "endTime": 1739662547163,
   "band_list": [
     {
       "raw_hot": 3115726,
@@ -51,6 +51,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 774631,
+      "num": 926458,
+      "word": "32岁病逝女博士本已开始筹备婚礼",
+      "onboard_time": 1739631800,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 656972,
       "num": 656972,
       "word": "32岁病逝女博士幼时失去双亲",
@@ -59,12 +67,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 613105,
-      "num": 785614,
-      "word": "32岁病逝女博士本已开始筹备婚礼",
-      "onboard_time": 1739631800,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 566057,
+      "num": 74555,
+      "word": "靠哪吒2赚了4万6准备给老婆买金手镯",
+      "onboard_time": 1739661314,
+      "rank": 20,
+      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 540364,
@@ -99,6 +107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 439157,
+      "num": 439157,
+      "word": "疑似檀健次成为最大受害者",
+      "onboard_time": 1739655552,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 431967,
       "num": 431967,
       "word": "林允有一种气血很足的美",
@@ -129,22 +145,6 @@
       "onboard_time": 1739615661,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 350523,
-      "num": 62477,
-      "word": "靠哪吒2赚了4万6准备给老婆买金手镯",
-      "onboard_time": 1739661314,
-      "rank": 20,
-      "category": "民生新闻,电影"
-    },
-    {
-      "raw_hot": 340086,
-      "num": 340086,
-      "word": "疑似檀健次成为最大受害者",
-      "onboard_time": 1739655552,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 301676,
@@ -219,12 +219,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 216073,
+      "raw_hot": 220759,
       "num": 216073,
       "word": "乌妇女在乌军征兵人员面前引爆炸弹",
       "onboard_time": 1739633300,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 208080,
+      "num": 135434,
+      "word": "黄金昨夜跳水",
+      "onboard_time": 1739661434,
+      "rank": 40,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 198723,
@@ -283,20 +291,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 169149,
+      "num": 169149,
+      "word": "男子回应被鲸鱼吞了又吐出来",
+      "onboard_time": 1739619560,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 167547,
+      "num": 167547,
+      "word": "演员3问谁整容只有刘梓晨站起来",
+      "onboard_time": 1739625920,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154029,
       "num": 154029,
       "word": "吴宣仪浪姐6初舞台造型",
       "onboard_time": 1739626880,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 153329,
-      "num": 153329,
-      "word": "男子回应被鲸鱼吞了又吐出来",
-      "onboard_time": 1739619560,
-      "rank": 35,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 152224,
@@ -379,12 +395,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 130784,
-      "num": 130784,
-      "word": "演员3问谁整容只有刘梓晨站起来",
-      "onboard_time": 1739625920,
-      "rank": 47,
-      "category": "综艺"
+      "raw_hot": 130577,
+      "num": 130577,
+      "word": "赵磊不办传统婚礼",
+      "onboard_time": 1739661373,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 127371,
@@ -419,20 +435,20 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 103490,
+      "num": 90786,
+      "word": "申小豹演员配音时才11岁",
+      "onboard_time": 1739661373,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 95818,
       "num": 95818,
       "word": "复刻吒儿名场面没有最好只有更好",
       "onboard_time": 1739638218,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 95237,
-      "num": 95237,
-      "word": "赵磊不办传统婚礼",
-      "onboard_time": 1739661373,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 92672,
@@ -483,6 +499,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 65961,
+      "num": 62174,
+      "word": "怎么买到显贵的衣服",
+      "onboard_time": 1739662094,
+      "rank": 30,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 62137,
       "num": 62137,
       "word": "U20亚洲杯国足两连胜提前出线",
@@ -492,27 +516,35 @@
     },
     {
       "raw_hot": 60581,
-      "num": 48840,
+      "num": 59569,
       "word": "张继科回应吴敬平博文",
       "onboard_time": 1739655251,
       "rank": 30,
       "category": "体育"
     },
     {
-      "raw_hot": 58855,
-      "num": 58855,
+      "raw_hot": 59636,
+      "num": 59636,
       "word": "谁在操弄短视频平台封号权",
       "onboard_time": 1739658311,
       "rank": 45,
       "category": "互联网"
     },
     {
-      "raw_hot": 49025,
-      "num": 49025,
+      "raw_hot": 50775,
+      "num": 50775,
       "word": "10岁女孩看哪吒2后决心捐髓救父",
       "onboard_time": 1739648652,
       "rank": 29,
       "category": "民生新闻,电影"
+    },
+    {
+      "raw_hot": 48905,
+      "num": 48905,
+      "word": "Gala疑似和女友分手",
+      "onboard_time": 1739661253,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 48762,
@@ -520,6 +552,22 @@
       "word": "孙龙男子500米金牌",
       "onboard_time": 1739642235,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 48739,
+      "num": 48739,
+      "word": "金饰价格一夜大跌18元每克",
+      "onboard_time": 1739661735,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 48691,
+      "num": 48691,
+      "word": "费曼愚月合照",
+      "onboard_time": 1739661373,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -531,28 +579,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46774,
+      "num": 46774,
+      "word": "三维还原美军航母碰撞全过程",
+      "onboard_time": 1739661373,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 38792,
       "num": 117510,
       "word": "周末随心所欲也是一种快乐",
       "onboard_time": 1739640616,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 38598,
-      "num": 38598,
-      "word": "Gala疑似和女友分手",
-      "onboard_time": 1739661253,
-      "rank": 38,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 34956,
-      "num": 34956,
-      "word": "黄金昨夜跳水",
-      "onboard_time": 1739661434,
-      "rank": 40,
-      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 32287,
@@ -563,28 +603,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 31260,
-      "num": 31260,
-      "word": "费曼愚月合照",
-      "onboard_time": 1739661373,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 29630,
       "num": 141226,
       "word": "追踪团洲垸决堤后如何迁建",
       "onboard_time": 1739634561,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29609,
-      "num": 29609,
-      "word": "三维还原美军航母碰撞全过程",
-      "onboard_time": 1739661373,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 28789,
@@ -617,6 +641,14 @@
       "onboard_time": 1739637017,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 21900,
+      "num": 73278,
+      "word": "贝林厄姆红牌",
+      "onboard_time": 1739662154,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 21497,
