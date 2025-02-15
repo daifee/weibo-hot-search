@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739615901824,
+  "endTime": 1739618222229,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -985,6 +985,14 @@
       "onboard_time": 1738636102,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2023177,
+      "num": 2023177,
+      "word": "奥斯卡评委喊话饺子导演",
+      "onboard_time": 1739615661,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 2011639,
@@ -2265,6 +2273,14 @@
       "onboard_time": 1738570407,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1298877,
+      "num": 257023,
+      "word": "张艺兴吴世勋去了朴灿烈演唱会",
+      "onboard_time": 1739615480,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 1297754,
@@ -4633,6 +4649,14 @@
       "onboard_time": 1739019503,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 799529,
+      "num": 799529,
+      "word": "敖丙传封面",
+      "onboard_time": 1739614460,
+      "rank": 45,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 797904,
@@ -8027,6 +8051,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 514834,
+      "num": 235814,
+      "word": "白色橄榄树大结局",
+      "onboard_time": 1739616560,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 514828,
       "num": 514828,
       "word": "哪吒2票房超76亿",
@@ -10739,6 +10771,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 389612,
+      "num": 389612,
+      "word": "湖南通报妇幼保健院医生卖出生证",
+      "onboard_time": 1739614760,
+      "rank": 29,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 389167,
       "num": 389167,
       "word": "无量仙翁拐杖变木龙特效做了一年多",
@@ -11153,14 +11193,6 @@
       "onboard_time": 1738368916,
       "rank": 4,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 372203,
-      "num": 207721,
-      "word": "奥斯卡评委喊话饺子导演",
-      "onboard_time": 1739615661,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 372163,
@@ -13571,14 +13603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 302929,
-      "num": 302929,
-      "word": "敖丙传封面",
-      "onboard_time": 1739614460,
-      "rank": 45,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 302740,
       "num": 296388,
       "word": "饺子导演因穷但坚持被投资人选中",
@@ -15259,6 +15283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 264833,
+      "num": 259011,
+      "word": "虞书欣跳了igloo",
+      "onboard_time": 1739615661,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 264713,
       "num": 264713,
       "word": "赵磊否认嘴队友",
@@ -15419,6 +15451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 262243,
+      "num": 213780,
+      "word": "颖儿张口就是石矶娘娘台词",
+      "onboard_time": 1739615059,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 261761,
       "num": 187864,
       "word": "台媒讨论赵露思生病事件",
@@ -15545,14 +15585,6 @@
       "onboard_time": 1738926142,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 259011,
-      "num": 259011,
-      "word": "虞书欣跳了igloo",
-      "onboard_time": 1739615661,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 259000,
@@ -18691,14 +18723,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 218469,
-      "num": 282188,
-      "word": "湖南通报妇幼保健院医生卖出生证",
-      "onboard_time": 1739614760,
-      "rank": 29,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 218314,
       "num": 218314,
       "word": "原来康辉也会被影视剧误导",
@@ -19201,14 +19225,6 @@
       "onboard_time": 1739252720,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 213780,
-      "num": 213780,
-      "word": "颖儿张口就是石矶娘娘台词",
-      "onboard_time": 1739615059,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 213702,
@@ -22803,14 +22819,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 189785,
-      "num": 179902,
-      "word": "张艺兴吴世勋去了朴灿烈演唱会",
-      "onboard_time": 1739615480,
-      "rank": 35,
-      "category": "演出"
-    },
-    {
       "raw_hot": 189754,
       "num": 189754,
       "word": "林孝埈夺冠后第一时间冲去拥抱张晶",
@@ -23617,6 +23625,14 @@
       "onboard_time": 1739233459,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 185232,
+      "num": 175744,
+      "word": "陈哲远快把古子成说红温了",
+      "onboard_time": 1739617280,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 185191,
@@ -24889,6 +24905,14 @@
       "onboard_time": 1739161282,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 176332,
+      "num": 176332,
+      "word": "李盈莹受伤",
+      "onboard_time": 1739615240,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 176126,
@@ -26227,6 +26251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167110,
+      "num": 167110,
+      "word": "树下有片红房子",
+      "onboard_time": 1739617100,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167072,
       "num": 167072,
       "word": "饺子谈哪吒2为什么能火",
@@ -26867,6 +26899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 163350,
+      "num": 163350,
+      "word": "李嘉琦好适合高饱和色调",
+      "onboard_time": 1739617999,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163298,
       "num": 163298,
       "word": "唐嫣波浪卷发",
@@ -27128,6 +27168,14 @@
       "word": "多地返程遇雨雪",
       "onboard_time": 1738635083,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161610,
+      "num": 183499,
+      "word": "男子花百万彩礼娶亲不到一年闹离婚",
+      "onboard_time": 1739617700,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -29051,6 +29099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149892,
+      "num": 170804,
+      "word": "春晚才过两周机器人就进化成这样了",
+      "onboard_time": 1739616801,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149850,
       "num": 173943,
       "word": "陈哲远直接扑梁洁腿上了",
@@ -30563,6 +30619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141463,
+      "num": 141463,
+      "word": "檀健次李兰迪hi6剧宣好甜",
+      "onboard_time": 1739617039,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141366,
       "num": 206002,
       "word": "徐梦桃这次夺金意味着什么",
@@ -31003,6 +31067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138454,
+      "num": 168610,
+      "word": "41岁媒体人吴玉燕因流感离世",
+      "onboard_time": 1739617882,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138282,
       "num": 138282,
       "word": "朱雨玲3比0大藤沙月",
@@ -31177,6 +31249,14 @@
       "onboard_time": 1738743563,
       "rank": 26,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 136876,
+      "num": 136876,
+      "word": "张凌赫i人只敢在网上e",
+      "onboard_time": 1739617160,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 136780,
@@ -32427,6 +32507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129193,
+      "num": 179394,
+      "word": "iG晋级败者组",
+      "onboard_time": 1739616380,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 129142,
       "num": 189278,
       "word": "KPL春季赛全员出征照",
@@ -32969,6 +33057,14 @@
       "onboard_time": 1738389917,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125651,
+      "num": 125651,
+      "word": "豆角土豆焖面条",
+      "onboard_time": 1739616500,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 125609,
@@ -35939,14 +36035,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 103935,
-      "num": 121630,
-      "word": "李盈莹受伤",
-      "onboard_time": 1739615240,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 103893,
       "num": 77695,
       "word": "海芋恋一开口就回到了盛夏",
@@ -36857,6 +36945,14 @@
       "onboard_time": 1739065100,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 96942,
+      "num": 116747,
+      "word": "万斯演讲震动西方社会",
+      "onboard_time": 1739616680,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 96926,
@@ -40467,6 +40563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 58067,
+      "num": 678678,
+      "word": "歌词海报送给开学的你",
+      "onboard_time": 1739610860,
+      "rank": 2,
+      "category": "教育"
+    },
+    {
       "raw_hot": 58050,
       "num": 224380,
       "word": "大蘑菇团建",
@@ -40633,14 +40737,6 @@
       "onboard_time": 1739304071,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 56754,
-      "num": 678678,
-      "word": "歌词海报送给开学的你",
-      "onboard_time": 1739610860,
-      "rank": 2,
-      "category": "教育"
     },
     {
       "raw_hot": 56721,
@@ -45193,6 +45289,14 @@
       "onboard_time": 1738954692,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20501,
+      "num": 176310,
+      "word": "镇政府回应有人钓鱼途中偶遇东北虎",
+      "onboard_time": 1739618120,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20459,
