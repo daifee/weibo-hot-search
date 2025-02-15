@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739644824979,
+  "endTime": 1739647114082,
   "band_list": [
     {
       "raw_hot": 3115726,
@@ -443,8 +443,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 70043,
-      "num": 70043,
+      "raw_hot": 72713,
+      "num": 72713,
       "word": "李蠕蠕模仿哪吒2全明星",
       "onboard_time": 1739640435,
       "rank": 43,
@@ -551,6 +551,14 @@
       "num": 93541,
       "word": "U20国足两连胜晋级",
       "onboard_time": 1739640196,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 13760,
+      "num": 48228,
+      "word": "马尔穆什半场帽子戏法",
+      "onboard_time": 1739646372,
       "rank": 24,
       "category": "体育"
     },
