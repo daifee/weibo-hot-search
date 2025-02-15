@@ -1,0 +1,410 @@
+{
+  "runTime": 1739614938395,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2095693,
+        "num": 2095693,
+        "word": "余莺儿戏份被剪了",
+        "onboard_time": 1739610439,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 918036,
+        "num": 918036,
+        "word": "男子闯红灯被撞飞也得负全责",
+        "onboard_time": 1739610499,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50794,
+        "num": 634814,
+        "word": "歌词海报送给开学的你",
+        "onboard_time": 1739610860,
+        "rank": 2,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1524359,
+        "num": 616520,
+        "word": "周深哽咽致歉称最后悔也最不后悔",
+        "onboard_time": 1739603418,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 531827,
+        "num": 531827,
+        "word": "DeepSeek翻译他强任他强清风拂山岗",
+        "onboard_time": 1739605459,
+        "rank": 4,
+        "category": "电竞,游戏"
+      },
+      {
+        "raw_hot": 436697,
+        "num": 436697,
+        "word": "小米SU7智驾高速急刹被追尾",
+        "onboard_time": 1739613260,
+        "rank": 5,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 1026478,
+        "num": 389807,
+        "word": "哪吒2感谢225000000位观众",
+        "onboard_time": 1739610082,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 274829,
+        "num": 274829,
+        "word": "南宁警方回应老师被举报性侵学生",
+        "onboard_time": 1739605939,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 772083,
+        "num": 273566,
+        "word": "哪吒2冲击TOP10",
+        "onboard_time": 1739602698,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 271689,
+        "num": 271689,
+        "word": "胖东来奖励顾客500再追责不低于100万",
+        "onboard_time": 1739591899,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 863576,
+        "num": 270399,
+        "word": "警方通报无名尸体确认为命案逃犯",
+        "onboard_time": 1739606840,
+        "rank": 10,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 614136,
+        "num": 266130,
+        "word": "饺子已成中国影史票房最高导演",
+        "onboard_time": 1739582838,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 601521,
+        "num": 261648,
+        "word": "陈紫函戴向宇cos敖闰敖光",
+        "onboard_time": 1739609780,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 586692,
+        "num": 259653,
+        "word": "吴磊ins",
+        "onboard_time": 1739612299,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43161,
+        "num": 257582,
+        "word": "工作友谊也会断崖式分手",
+        "onboard_time": 1739614100,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 515520,
+        "num": 254027,
+        "word": "于正回应没签董思成",
+        "onboard_time": 1739610199,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335789,
+        "num": 249076,
+        "word": "河南170万玛莎拉蒂终被套圈成功",
+        "onboard_time": 1739602999,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247803,
+        "num": 247803,
+        "word": "家长拒订牛奶老师怒怼有事别求",
+        "onboard_time": 1739604259,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214732,
+        "num": 214732,
+        "word": "难哄漫画",
+        "onboard_time": 1739613560,
+        "rank": 18,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 29441,
+        "num": 213567,
+        "word": "AI挑战下学校与教师该如何改变",
+        "onboard_time": 1739614339,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 502236,
+        "num": 211995,
+        "word": "惠英红脸上缝了89针",
+        "onboard_time": 1739585840,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 453547,
+        "num": 208222,
+        "word": "哪吒2再超112亿",
+        "onboard_time": 1739612239,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 425682,
+        "num": 205712,
+        "word": "李艾和老公分手后对他刮目相看",
+        "onboard_time": 1739599159,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317176,
+        "num": 204658,
+        "word": "长月烬明飙升榜第一",
+        "onboard_time": 1739604259,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233302,
+        "num": 201488,
+        "word": "睡眠不好的人建议晚餐补点钾",
+        "onboard_time": 1739610320,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 112303,
+        "num": 199958,
+        "word": "学校回应家长拒订牛奶遭老师怒怼",
+        "onboard_time": 1739613560,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262541,
+        "num": 197893,
+        "word": "coser对饺子导演下手了",
+        "onboard_time": 1739614040,
+        "rank": 26,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 195971,
+        "num": 195971,
+        "word": "甄嬛传",
+        "onboard_time": 1739614580,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167159,
+        "num": 167159,
+        "word": "王安宇卷毛",
+        "onboard_time": 1739613619,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91030,
+        "num": 165478,
+        "word": "湖南通报妇幼保健院医生卖出生证",
+        "onboard_time": 1739614760,
+        "rank": 29,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 165400,
+        "num": 165400,
+        "word": "王一博四千米攀冰无人机视角",
+        "onboard_time": 1739613199,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147575,
+        "num": 147575,
+        "word": "陈哲远后悔剪头发了",
+        "onboard_time": 1739611700,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144500,
+        "num": 144500,
+        "word": "李小冉说和向太是豪门丫鬟",
+        "onboard_time": 1739596219,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139646,
+        "num": 139646,
+        "word": "辛纳被禁赛三个月",
+        "onboard_time": 1739613619,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130352,
+        "num": 136124,
+        "word": "向5岁认识的女孩求婚了",
+        "onboard_time": 1739607499,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134400,
+        "num": 134400,
+        "word": "动画公司说可可豆结款几乎业内最快",
+        "onboard_time": 1739613380,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131945,
+        "num": 131945,
+        "word": "时代峰峻官方店入驻小芒",
+        "onboard_time": 1739607440,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127935,
+        "num": 127935,
+        "word": "老人带80万拆迁款买黄金店员报警",
+        "onboard_time": 1739610800,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122437,
+        "num": 122437,
+        "word": "衡阳通报售卖出生证事件",
+        "onboard_time": 1739614880,
+        "rank": 38,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 122435,
+        "num": 122435,
+        "word": "吴敬平炮轰国乒被资本裹挟",
+        "onboard_time": 1739607019,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119391,
+        "num": 119391,
+        "word": "朴综星怎么了",
+        "onboard_time": 1739611940,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116926,
+        "num": 116926,
+        "word": "男子复合后借200万准丈人报警",
+        "onboard_time": 1739606840,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116543,
+        "num": 116543,
+        "word": "刘胤君曾拒绝过云之羽剧本",
+        "onboard_time": 1739614281,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116402,
+        "num": 116402,
+        "word": "饺子导演小学生照片曝光",
+        "onboard_time": 1739608700,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 42997,
+        "num": 116361,
+        "word": "王鹤棣宋雨琦合影",
+        "onboard_time": 1739611100,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116332,
+        "num": 116332,
+        "word": "敖丙传封面",
+        "onboard_time": 1739614460,
+        "rank": 45,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 112597,
+        "num": 112597,
+        "word": "iG对战FPX",
+        "onboard_time": 1739614460,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109726,
+        "num": 109726,
+        "word": "白色橄榄树",
+        "onboard_time": 1739614880,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104656,
+        "num": 104656,
+        "word": "学校已被哪吒头占领",
+        "onboard_time": 1739593819,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99931,
+        "num": 99931,
+        "word": "安徽老人带80万到苏州买金称是拆迁款",
+        "onboard_time": 1739604318,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#绿水青山瞰我家#"
+    }
+  }
+}

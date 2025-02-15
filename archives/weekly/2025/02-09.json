@@ -1,6 +1,6 @@
 {
   "startTime": 1739031886463,
-  "endTime": 1739612203766,
+  "endTime": 1739614938395,
   "band_list": [
     {
       "raw_hot": 18452349,
@@ -355,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2095693,
+      "num": 2095693,
+      "word": "余莺儿戏份被剪了",
+      "onboard_time": 1739610439,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2094019,
       "num": 515279,
       "word": "赵磊qko",
@@ -657,14 +665,6 @@
       "onboard_time": 1739598559,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1750539,
-      "num": 659640,
-      "word": "余莺儿戏份被剪了",
-      "onboard_time": 1739610439,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 1738419,
@@ -1723,6 +1723,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1026478,
+      "num": 389807,
+      "word": "哪吒2感谢225000000位观众",
+      "onboard_time": 1739610082,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1024839,
       "num": 1024839,
       "word": "张伟丽战胜苏亚雷斯卫冕",
@@ -1976,6 +1984,14 @@
       "word": "男子因新生儿子不跟自己姓选择分居",
       "onboard_time": 1739167821,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 918036,
+      "num": 918036,
+      "word": "男子闯红灯被撞飞也得负全责",
+      "onboard_time": 1739610499,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -2633,14 +2649,6 @@
       "onboard_time": 1739256200,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 725641,
-      "num": 272471,
-      "word": "哪吒2感谢225000000位观众",
-      "onboard_time": 1739610082,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 725341,
@@ -3515,6 +3523,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 586692,
+      "num": 259653,
+      "word": "吴磊ins",
+      "onboard_time": 1739612299,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 586504,
       "num": 560196,
       "word": "哪吒2已成美社交媒体网友讨论新话题",
@@ -3608,14 +3624,6 @@
       "word": "山东一公司不结婚就离职规定被叫停",
       "onboard_time": 1739522541,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 577285,
-      "num": 577285,
-      "word": "男子闯红灯被撞飞也得负全责",
-      "onboard_time": 1739610499,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -4147,6 +4155,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 515520,
+      "num": 254027,
+      "word": "于正回应没签董思成",
+      "onboard_time": 1739610199,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 515315,
       "num": 291532,
       "word": "张嘉元说刘梓晨来这干啥",
@@ -4595,6 +4611,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 453547,
+      "num": 208222,
+      "word": "哪吒2再超112亿",
+      "onboard_time": 1739612239,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 453291,
       "num": 360157,
       "word": "动画公司回应138家公司托举哪吒2",
@@ -4697,6 +4721,14 @@
       "onboard_time": 1739071100,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 436697,
+      "num": 436697,
+      "word": "小米SU7智驾高速急刹被追尾",
+      "onboard_time": 1739613260,
+      "rank": 5,
+      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 435853,
@@ -5017,14 +5049,6 @@
       "onboard_time": 1739243061,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 404206,
-      "num": 216521,
-      "word": "于正回应没签董思成",
-      "onboard_time": 1739610199,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 402662,
@@ -7603,6 +7627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 262541,
+      "num": 197893,
+      "word": "coser对饺子导演下手了",
+      "onboard_time": 1739614040,
+      "rank": 26,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 261646,
       "num": 261646,
       "word": "元宵",
@@ -8417,6 +8449,14 @@
       "onboard_time": 1739153840,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233302,
+      "num": 201488,
+      "word": "睡眠不好的人建议晚餐补点钾",
+      "onboard_time": 1739610320,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 232994,
@@ -9369,6 +9409,14 @@
       "onboard_time": 1739280441,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214732,
+      "num": 214732,
+      "word": "难哄漫画",
+      "onboard_time": 1739613560,
+      "rank": 18,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 214401,
@@ -10833,6 +10881,14 @@
       "onboard_time": 1739261600,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195971,
+      "num": 195971,
+      "word": "甄嬛传",
+      "onboard_time": 1739614580,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 195950,
@@ -13075,6 +13131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 167159,
+      "num": 167159,
+      "word": "王安宇卷毛",
+      "onboard_time": 1739613619,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167110,
       "num": 167110,
       "word": "熊乃槿否认整容",
@@ -13209,6 +13273,14 @@
       "onboard_time": 1739287401,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165400,
+      "num": 165400,
+      "word": "王一博四千米攀冰无人机视角",
+      "onboard_time": 1739613199,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 165057,
@@ -13617,14 +13689,6 @@
       "onboard_time": 1739436321,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 160530,
-      "num": 160530,
-      "word": "睡眠不好的人建议晚餐补点钾",
-      "onboard_time": 1739610320,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 160488,
@@ -15387,6 +15451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139646,
+      "num": 139646,
+      "word": "辛纳被禁赛三个月",
+      "onboard_time": 1739613619,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139463,
       "num": 423447,
       "word": "中国女子冰壶银牌",
@@ -15761,6 +15833,14 @@
       "onboard_time": 1739168841,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134400,
+      "num": 134400,
+      "word": "动画公司说可可豆结款几乎业内最快",
+      "onboard_time": 1739613380,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 134363,
@@ -16243,6 +16323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127935,
+      "num": 127935,
+      "word": "老人带80万拆迁款买黄金店员报警",
+      "onboard_time": 1739610800,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127849,
       "num": 127849,
       "word": "一葱油饼老板因跳投卖饼走红",
@@ -16489,6 +16577,14 @@
       "onboard_time": 1739077581,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 122437,
+      "num": 122437,
+      "word": "衡阳通报售卖出生证事件",
+      "onboard_time": 1739614880,
+      "rank": 38,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 122312,
@@ -16875,6 +16971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116543,
+      "num": 116543,
+      "word": "刘胤君曾拒绝过云之羽剧本",
+      "onboard_time": 1739614281,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116539,
       "num": 230996,
       "word": "武契奇专车后轮行驶中飞出",
@@ -16889,6 +16993,14 @@
       "onboard_time": 1739452582,
       "rank": 34,
       "category": "电影,汽车"
+    },
+    {
+      "raw_hot": 116332,
+      "num": 116332,
+      "word": "敖丙传封面",
+      "onboard_time": 1739614460,
+      "rank": 45,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 116255,
@@ -17139,6 +17251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112597,
+      "num": 112597,
+      "word": "iG对战FPX",
+      "onboard_time": 1739614460,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112533,
       "num": 276581,
       "word": "哪吒2配音空降超话",
@@ -17161,6 +17281,14 @@
       "onboard_time": 1739443220,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112303,
+      "num": 199958,
+      "word": "学校回应家长拒订牛奶遭老师怒怼",
+      "onboard_time": 1739613560,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112301,
@@ -18265,6 +18393,14 @@
       "onboard_time": 1739031319,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 91030,
+      "num": 165478,
+      "word": "湖南通报妇幼保健院医生卖出生证",
+      "onboard_time": 1739614760,
+      "rank": 29,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 90609,
@@ -20564,7 +20700,7 @@
     },
     {
       "raw_hot": 44360,
-      "num": 114526,
+      "num": 116361,
       "word": "王鹤棣宋雨琦合影",
       "onboard_time": 1739611100,
       "rank": 42,
@@ -20657,6 +20793,14 @@
       "onboard_time": 1739158762,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 43161,
+      "num": 257582,
+      "word": "工作友谊也会断崖式分手",
+      "onboard_time": 1739614100,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43125,
@@ -21577,6 +21721,14 @@
       "onboard_time": 1739387591,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 29441,
+      "num": 213567,
+      "word": "AI挑战下学校与教师该如何改变",
+      "onboard_time": 1739614339,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29274,
