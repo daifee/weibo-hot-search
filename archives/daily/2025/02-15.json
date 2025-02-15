@@ -1,6 +1,6 @@
 {
   "startTime": 1739550405629,
-  "endTime": 1739624005614,
+  "endTime": 1739625735625,
   "band_list": [
     {
       "raw_hot": 2975426,
@@ -131,6 +131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1290560,
+      "num": 1290560,
+      "word": "前国乒教练回应吴敬平",
+      "onboard_time": 1739624600,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1254510,
       "num": 569526,
       "word": "姚笛被删或因合同问题",
@@ -195,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 966959,
+      "num": 890332,
+      "word": "哪吒2突破113亿",
+      "onboard_time": 1739620581,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 966482,
       "num": 966482,
       "word": "敖丙传封面",
@@ -241,14 +257,6 @@
       "onboard_time": 1739584338,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 890332,
-      "num": 890332,
-      "word": "哪吒2突破113亿",
-      "onboard_time": 1739620581,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 871483,
@@ -395,6 +403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 574061,
+      "num": 574061,
+      "word": "美国专家喊话Deepseek创始人联系自己",
+      "onboard_time": 1739621779,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 567923,
       "num": 283650,
       "word": "aespa演唱会talking环节",
@@ -403,20 +419,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 558142,
+      "num": 558142,
+      "word": "广西一老师被举报性侵学生已被开除",
+      "onboard_time": 1739623460,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 553564,
       "num": 285006,
       "word": "哪吒2再破109亿",
       "onboard_time": 1739592859,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 549512,
-      "num": 549512,
-      "word": "美国专家喊话Deepseek创始人联系自己",
-      "onboard_time": 1739621779,
-      "rank": 18,
-      "category": "互联网"
     },
     {
       "raw_hot": 536728,
@@ -619,12 +635,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 376043,
+      "num": 266589,
+      "word": "哪吒2全球票房TOP11",
+      "onboard_time": 1739623760,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 372163,
       "num": 217223,
       "word": "熊乃瑾否认整容",
       "onboard_time": 1739577317,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 368908,
+      "num": 368908,
+      "word": "小警犬在考试中得了最后一名",
+      "onboard_time": 1739621481,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 361233,
@@ -745,6 +777,14 @@
       "onboard_time": 1739588120,
       "rank": 19,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 305243,
+      "num": 252232,
+      "word": "网传肖战主演刘医生返乡记",
+      "onboard_time": 1739625681,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 303657,
@@ -875,14 +915,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 266589,
-      "num": 266589,
-      "word": "哪吒2全球票房TOP11",
-      "onboard_time": 1739623760,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 265783,
       "num": 265783,
       "word": "胖东来金饰每克便宜100元",
@@ -979,6 +1011,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 251292,
+      "num": 251292,
+      "word": "高梓淇的无力感溢出屏幕了",
+      "onboard_time": 1739625081,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 250398,
+      "num": 250398,
+      "word": "余承恩姐姐说妈妈偏心",
+      "onboard_time": 1739623279,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 250163,
       "num": 274505,
       "word": "官方通报男子领烈犬撕咬小猫致死",
@@ -993,14 +1041,6 @@
       "onboard_time": 1739587400,
       "rank": 14,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 247490,
-      "num": 247490,
-      "word": "小警犬在考试中得了最后一名",
-      "onboard_time": 1739621481,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 245793,
@@ -1035,12 +1075,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 230488,
-      "num": 230488,
-      "word": "余承恩姐姐说妈妈偏心",
-      "onboard_time": 1739623279,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 229788,
+      "num": 252765,
+      "word": "让樊振东陈梦马龙回归赛场",
+      "onboard_time": 1739624360,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 226838,
@@ -1065,6 +1105,14 @@
       "onboard_time": 1739578400,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 225021,
+      "num": 225021,
+      "word": "夏之光金发",
+      "onboard_time": 1739624240,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 223706,
@@ -1211,6 +1259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200381,
+      "num": 200381,
+      "word": "湖南卫视惊喜重映哪吒闹海",
+      "onboard_time": 1739625140,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 199601,
       "num": 199601,
       "word": "白色橄榄树",
@@ -1273,6 +1329,22 @@
       "onboard_time": 1739604019,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191080,
+      "num": 191080,
+      "word": "白色橄榄树 私奔",
+      "onboard_time": 1739624060,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 190874,
+      "num": 190874,
+      "word": "尹肖发声",
+      "onboard_time": 1739625020,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 190297,
@@ -1417,6 +1489,14 @@
       "onboard_time": 1739578758,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169341,
+      "num": 169341,
+      "word": "余烬之上",
+      "onboard_time": 1739625262,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 168714,
@@ -1955,6 +2035,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 125560,
+      "num": 134380,
+      "word": "王楚钦锡纸烫",
+      "onboard_time": 1739625620,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124437,
       "num": 170645,
       "word": "第一次见和什么都适配的台词",
@@ -2001,6 +2089,14 @@
       "onboard_time": 1739621060,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120658,
+      "num": 132694,
+      "word": "冷冷冷冷模式又要回来了",
+      "onboard_time": 1739625441,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119637,
@@ -2257,6 +2353,14 @@
       "onboard_time": 1739555894,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 102523,
+      "num": 1146507,
+      "word": "演员崔某某编造肇事逃逸虚假警情被拘",
+      "onboard_time": 1739624600,
+      "rank": 2,
+      "category": "艺人"
     },
     {
       "raw_hot": 100436,
@@ -2555,14 +2659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 59039,
-      "num": 546431,
-      "word": "广西一老师被举报性侵学生已被开除",
-      "onboard_time": 1739623460,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 58067,
       "num": 1077572,
       "word": "歌词海报送给开学的你",
@@ -2691,6 +2787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 41442,
+      "num": 539720,
+      "word": "哪吒你还有多少细节是我不知道的",
+      "onboard_time": 1739624720,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 41324,
       "num": 367461,
       "word": "三个细节看哪吒2官方翻译好在哪",
@@ -2769,6 +2873,14 @@
       "onboard_time": 1739558414,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 29090,
+      "num": 400313,
+      "word": "学校回应对犯错学生鞭罚",
+      "onboard_time": 1739624661,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28942,
@@ -2932,6 +3044,9 @@
     },
     {
       "word": "#从嫦娥奔月到嫦娥揽月#"
+    },
+    {
+      "word": "#习近平向第38届非洲联盟峰会致贺电#"
     }
   ]
 }
