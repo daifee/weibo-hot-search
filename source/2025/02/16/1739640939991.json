@@ -1,0 +1,410 @@
+{
+  "runTime": 1739640939991,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 808616,
+        "num": 808616,
+        "word": "王皓马琳点赞尹肖",
+        "onboard_time": 1739634920,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 421516,
+        "num": 421516,
+        "word": "男女主化蝶",
+        "onboard_time": 1739630182,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34077,
+        "num": 363770,
+        "word": "我国成全球领先的人形机器人生产国",
+        "onboard_time": 1739623880,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1517899,
+        "num": 362885,
+        "word": "王皓",
+        "onboard_time": 1739634621,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 451993,
+        "num": 361881,
+        "word": "马琳",
+        "onboard_time": 1739635642,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 357217,
+        "num": 357217,
+        "word": "哪吒2全球票房TOP11",
+        "onboard_time": 1739623760,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 268637,
+        "num": 268637,
+        "word": "男子3小时花费2000元套中玛莎拉蒂",
+        "onboard_time": 1739632043,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234043,
+        "num": 234043,
+        "word": "全球票房",
+        "onboard_time": 1739630001,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180283,
+        "num": 180283,
+        "word": "32岁病逝女博士幼时失去双亲",
+        "onboard_time": 1739631022,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170558,
+        "num": 170558,
+        "word": "林允有一种气血很足的美",
+        "onboard_time": 1739630901,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213974,
+        "num": 169948,
+        "word": "陈玘说及时纠错发展会更好",
+        "onboard_time": 1739630361,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205510,
+        "num": 169895,
+        "word": "王楚钦锡纸烫",
+        "onboard_time": 1739625620,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169096,
+        "num": 169096,
+        "word": "乌妇女在乌军征兵人员面前引爆炸弹",
+        "onboard_time": 1739633300,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156841,
+        "num": 156841,
+        "word": "金智秀圈内好友名单",
+        "onboard_time": 1739634741,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150955,
+        "num": 150955,
+        "word": "奥斯卡评委喊话饺子导演",
+        "onboard_time": 1739615661,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150079,
+        "num": 150079,
+        "word": "来财",
+        "onboard_time": 1739638698,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135724,
+        "num": 135724,
+        "word": "尹肖说WTT逼退陈梦樊振东是颠倒黑白",
+        "onboard_time": 1739626701,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121102,
+        "num": 121102,
+        "word": "狗主人称潘宏歪曲事实",
+        "onboard_time": 1739619801,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38792,
+        "num": 117510,
+        "word": "周末随心所欲也是一种快乐",
+        "onboard_time": 1739640616,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116905,
+        "num": 116905,
+        "word": "董思成是王星越师哥",
+        "onboard_time": 1739636600,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143605,
+        "num": 114708,
+        "word": "男子婚后无夫妻生活欲索回138万彩礼",
+        "onboard_time": 1739628681,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105644,
+        "num": 105644,
+        "word": "32岁病逝女博士本已开始筹备婚礼",
+        "onboard_time": 1739631800,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104643,
+        "num": 104643,
+        "word": "白色橄榄树大结局",
+        "onboard_time": 1739616560,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97809,
+        "num": 97809,
+        "word": "毛不易演唱会死嘴快亲啊",
+        "onboard_time": 1739631502,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 21154,
+        "num": 93541,
+        "word": "U20国足两连胜晋级",
+        "onboard_time": 1739640196,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99988,
+        "num": 93401,
+        "word": "卢昱晓王星越认证董思成全组最i",
+        "onboard_time": 1739635340,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93080,
+        "num": 93080,
+        "word": "湖南卫视惊喜重映哪吒闹海",
+        "onboard_time": 1739625140,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 90697,
+        "num": 90697,
+        "word": "男子回应被鲸鱼吞了又吐出来",
+        "onboard_time": 1739619560,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 89255,
+        "num": 89255,
+        "word": "终于有人能接上哪吒的rap了",
+        "onboard_time": 1739628681,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 88364,
+        "num": 88364,
+        "word": "吒儿去冲奥斯卡吧我会投票",
+        "onboard_time": 1739639416,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 82619,
+        "num": 82619,
+        "word": "吴镇宇 钱难挣",
+        "onboard_time": 1739634140,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79234,
+        "num": 79234,
+        "word": "仙台有树重剪",
+        "onboard_time": 1739627302,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77425,
+        "num": 77425,
+        "word": "周深哽咽致歉称最后悔也最不后悔",
+        "onboard_time": 1739603418,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 77207,
+        "num": 77207,
+        "word": "演员3问谁整容只有刘梓晨站起来",
+        "onboard_time": 1739625920,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77072,
+        "num": 77072,
+        "word": "真正能助眠的6种食物",
+        "onboard_time": 1739632461,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 76971,
+        "num": 76971,
+        "word": "让樊振东陈梦马龙回归赛场",
+        "onboard_time": 1739624360,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71611,
+        "num": 71611,
+        "word": "男子酒后死亡同饮者没劝酒被判无责",
+        "onboard_time": 1739628261,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71228,
+        "num": 71228,
+        "word": "一艺考生时间冲突计划25万包机赶考",
+        "onboard_time": 1739620821,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70951,
+        "num": 70951,
+        "word": "警方通报无名尸体确认为命案逃犯",
+        "onboard_time": 1739606840,
+        "rank": 38,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 68802,
+        "num": 68802,
+        "word": "奥萨苏纳vs皇马",
+        "onboard_time": 1739637616,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67811,
+        "num": 67811,
+        "word": "复刻吒儿名场面没有最好只有更好",
+        "onboard_time": 1739638218,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 65708,
+        "num": 65708,
+        "word": "网传肖战主演刘医生返乡记",
+        "onboard_time": 1739625681,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64875,
+        "num": 64875,
+        "word": "尹肖回应国乒后备力量不足",
+        "onboard_time": 1739634561,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64482,
+        "num": 64482,
+        "word": "李蠕蠕模仿哪吒2全明星",
+        "onboard_time": 1739640435,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 63861,
+        "num": 63861,
+        "word": "41岁媒体人吴玉燕因流感离世",
+        "onboard_time": 1739617882,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59912,
+        "num": 59912,
+        "word": "高梓淇的无力感溢出屏幕了",
+        "onboard_time": 1739625081,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59064,
+        "num": 59064,
+        "word": "女子8年前买黄金为儿子准备彩礼",
+        "onboard_time": 1739620400,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58842,
+        "num": 58842,
+        "word": "一诺刷新最长连胜记录",
+        "onboard_time": 1739637200,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 57875,
+        "num": 57875,
+        "word": "吴宣仪浪姐6初舞台造型",
+        "onboard_time": 1739626880,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47099,
+        "num": 57853,
+        "word": "你好星期六下期有大侦探小分队",
+        "onboard_time": 1739628201,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向第38届非洲联盟峰会致贺电#"
+    }
+  }
+}
