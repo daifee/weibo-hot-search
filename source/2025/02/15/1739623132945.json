@@ -1,0 +1,410 @@
+{
+  "runTime": 1739623132945,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1732580,
+        "num": 1732580,
+        "word": "41岁媒体人吴玉燕因流感离世",
+        "onboard_time": 1739617882,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1530414,
+        "num": 1530414,
+        "word": "奥斯卡评委喊话饺子导演",
+        "onboard_time": 1739615661,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 50098,
+        "num": 1077572,
+        "word": "歌词海报送给开学的你",
+        "onboard_time": 1739610860,
+        "rank": 2,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 977084,
+        "num": 977084,
+        "word": "男子回应被鲸鱼吞了又吐出来",
+        "onboard_time": 1739619560,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 871483,
+        "num": 871483,
+        "word": "白色橄榄树大结局",
+        "onboard_time": 1739616560,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 818767,
+        "num": 818767,
+        "word": "狗主人称潘宏歪曲事实",
+        "onboard_time": 1739619801,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 857499,
+        "num": 815639,
+        "word": "周深哽咽致歉称最后悔也最不后悔",
+        "onboard_time": 1739603418,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 729606,
+        "num": 729606,
+        "word": "哪吒2突破113亿",
+        "onboard_time": 1739620581,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 463678,
+        "num": 463678,
+        "word": "敖丙传封面",
+        "onboard_time": 1739614460,
+        "rank": 8,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 448980,
+        "num": 448980,
+        "word": "柯洁剃了寸头",
+        "onboard_time": 1739619500,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 657482,
+        "num": 447386,
+        "word": "哪吒2冲击TOP10",
+        "onboard_time": 1739602698,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 647907,
+        "num": 443664,
+        "word": "饺子已成中国影史票房最高导演",
+        "onboard_time": 1739582838,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 564907,
+        "num": 441582,
+        "word": "男子花百万彩礼娶亲不到一年闹离婚",
+        "onboard_time": 1739617700,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 518903,
+        "num": 438504,
+        "word": "EXO",
+        "onboard_time": 1739619380,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 437794,
+        "num": 437794,
+        "word": "警方通报无名尸体确认为命案逃犯",
+        "onboard_time": 1739606840,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 156458,
+        "num": 405656,
+        "word": "中国为不确定的世界提供最大确定性",
+        "onboard_time": 1739618659,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 376989,
+        "num": 376989,
+        "word": "孙龙摔倒",
+        "onboard_time": 1739620340,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 372053,
+        "num": 372053,
+        "word": "惠英红脸上缝了89针",
+        "onboard_time": 1739585840,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 366017,
+        "num": 366017,
+        "word": "美国专家喊话Deepseek创始人联系自己",
+        "onboard_time": 1739621779,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 295022,
+        "num": 295022,
+        "word": "DeepSeek翻译他强任他强清风拂山岗",
+        "onboard_time": 1739605459,
+        "rank": 19,
+        "category": "电竞,游戏"
+      },
+      {
+        "raw_hot": 405263,
+        "num": 291659,
+        "word": "一艺考生时间冲突计划25万包机赶考",
+        "onboard_time": 1739620821,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364552,
+        "num": 281698,
+        "word": "女子8年前买黄金为儿子准备彩礼",
+        "onboard_time": 1739620400,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323867,
+        "num": 278762,
+        "word": "全球热包场",
+        "onboard_time": 1739621360,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 302304,
+        "num": 274663,
+        "word": "长月烬明飙升榜第一",
+        "onboard_time": 1739604259,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43071,
+        "num": 265268,
+        "word": "iG挺进淘汰赛",
+        "onboard_time": 1739622560,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 261365,
+        "num": 261365,
+        "word": "美国想要乌克兰一半矿产",
+        "onboard_time": 1739621060,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 57550,
+        "num": 249560,
+        "word": "张凌赫i人只敢在网上e",
+        "onboard_time": 1739617160,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247490,
+        "num": 247490,
+        "word": "小警犬在考试中得了最后一名",
+        "onboard_time": 1739621481,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 244067,
+        "num": 244067,
+        "word": "敖光",
+        "onboard_time": 1739619860,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 196726,
+        "num": 196726,
+        "word": "李艾和老公分手后对他刮目相看",
+        "onboard_time": 1739599159,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219975,
+        "num": 196318,
+        "word": "陈紫函戴向宇cos敖闰敖光",
+        "onboard_time": 1739609780,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192092,
+        "num": 192092,
+        "word": "李嘉琦好适合高饱和色调",
+        "onboard_time": 1739617999,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190297,
+        "num": 190297,
+        "word": "开春第一部青春校园剧来了",
+        "onboard_time": 1739620821,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189058,
+        "num": 189058,
+        "word": "肇事司机回应非机动车道撞人抢相机",
+        "onboard_time": 1739621120,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188658,
+        "num": 188658,
+        "word": "河南170万玛莎拉蒂终被套圈成功",
+        "onboard_time": 1739602999,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90437,
+        "num": 188358,
+        "word": "玩游戏不受控可能是游戏障碍",
+        "onboard_time": 1739620400,
+        "rank": 35,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 188254,
+        "num": 188254,
+        "word": "张韶涵范玮琪同场演出",
+        "onboard_time": 1739621481,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144473,
+        "num": 176962,
+        "word": "王鹤棣在国际场合进行了一波文化输出",
+        "onboard_time": 1739621660,
+        "rank": 37,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 171468,
+        "num": 171468,
+        "word": "吴磊ins",
+        "onboard_time": 1739612299,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169959,
+        "num": 169959,
+        "word": "虞书欣跳了igloo",
+        "onboard_time": 1739615661,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169471,
+        "num": 169471,
+        "word": "睡眠不好的人建议晚餐补点钾",
+        "onboard_time": 1739610320,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157549,
+        "num": 157549,
+        "word": "孤独摇滚第2季制作决定",
+        "onboard_time": 1739622981,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 157226,
+        "num": 157226,
+        "word": "湖南通报妇幼保健院医生卖出生证",
+        "onboard_time": 1739614760,
+        "rank": 42,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 147577,
+        "num": 147577,
+        "word": "哪吒2微博战报",
+        "onboard_time": 1739620641,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141658,
+        "num": 141658,
+        "word": "衡阳通报售卖出生证事件",
+        "onboard_time": 1739614880,
+        "rank": 44,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 129761,
+        "num": 129761,
+        "word": "陈哲远还是有点见外了",
+        "onboard_time": 1739623041,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127887,
+        "num": 127887,
+        "word": "iG晋级败者组",
+        "onboard_time": 1739616380,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127163,
+        "num": 127163,
+        "word": "super成舞C判官了",
+        "onboard_time": 1739622800,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126080,
+        "num": 126080,
+        "word": "U20国足vs吉尔吉斯斯坦U20",
+        "onboard_time": 1739617580,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120985,
+        "num": 120985,
+        "word": "创亚2一公歌单含金量",
+        "onboard_time": 1739621060,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#绿水青山瞰我家#"
+    }
+  }
+}
