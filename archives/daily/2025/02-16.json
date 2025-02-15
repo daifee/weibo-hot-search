@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739648131647,
+  "endTime": 1739650925160,
   "band_list": [
     {
       "raw_hot": 3115726,
@@ -529,6 +529,14 @@
       "onboard_time": 1739644633,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 25679,
+      "num": 25679,
+      "word": "10岁女孩看哪吒2后决心捐髓救父",
+      "onboard_time": 1739648652,
+      "rank": 29,
+      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 22736,
