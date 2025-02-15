@@ -1,6 +1,6 @@
 {
   "startTime": 1739550405629,
-  "endTime": 1739576137889,
+  "endTime": 1739583657013,
   "band_list": [
     {
       "raw_hot": 2090509,
@@ -19,12 +19,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1254510,
+      "num": 569526,
+      "word": "姚笛被删或因合同问题",
+      "onboard_time": 1739578098,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1228354,
+      "num": 1228354,
+      "word": "哪吒2票房不降反升",
+      "onboard_time": 1739577138,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1045884,
       "num": 259310,
       "word": "超90%成年人体内携带接吻病毒",
       "onboard_time": 1739551278,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 944023,
+      "num": 265038,
+      "word": "齐思钧女朋友参加综艺",
+      "onboard_time": 1739581578,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 819878,
+      "num": 819878,
+      "word": "黄金",
+      "onboard_time": 1739578937,
+      "rank": 1,
+      "category": "财经"
     },
     {
       "raw_hot": 750063,
@@ -51,12 +83,44 @@
       "category": "电影"
     },
     {
+      "raw_hot": 660140,
+      "num": 210059,
+      "word": "男子利用15分钟内免停车费逃费71次",
+      "onboard_time": 1739578337,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 601285,
+      "num": 230998,
+      "word": "最萌申小豹配音演员曝光",
+      "onboard_time": 1739581279,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 516240,
       "num": 288506,
       "word": "哪吒2超107亿",
       "onboard_time": 1739544263,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 469320,
+      "num": 469320,
+      "word": "复旦教授称婚姻是最大的幸福来源",
+      "onboard_time": 1739581279,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 467877,
+      "num": 226485,
+      "word": "梁王拆队",
+      "onboard_time": 1739578098,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 458755,
@@ -68,7 +132,7 @@
     },
     {
       "raw_hot": 435367,
-      "num": 106523,
+      "num": 197387,
       "word": "七旬董事长猥亵面试女子没道歉赔偿",
       "onboard_time": 1739559015,
       "rank": 19,
@@ -83,12 +147,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 384829,
+      "num": 223817,
+      "word": "卜冠今情商",
+      "onboard_time": 1739577317,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 376889,
       "num": 376889,
       "word": "32岁中国计量大学讲师石召君病逝",
       "onboard_time": 1739543961,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 372163,
+      "num": 217223,
+      "word": "熊乃瑾否认整容",
+      "onboard_time": 1739577317,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 361233,
@@ -123,12 +203,52 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 336912,
+      "num": 214273,
+      "word": "周深伦敦演唱会取消后现身致歉",
+      "onboard_time": 1739576956,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 326549,
+      "num": 258101,
+      "word": "饺子已成中国影史票房最高导演",
+      "onboard_time": 1739582838,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 305633,
+      "num": 209528,
+      "word": "哪吒2再破108亿",
+      "onboard_time": 1739577076,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 290400,
       "num": 290400,
       "word": "下周开学",
       "onboard_time": 1739549241,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 288990,
+      "num": 288990,
+      "word": "中部六省省会城市定位全部出炉",
+      "onboard_time": 1739579478,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 284297,
+      "num": 209286,
+      "word": "费曼杨阳洋合照",
+      "onboard_time": 1739577256,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 280254,
@@ -219,12 +339,84 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 210773,
+      "num": 210773,
+      "word": "潘宏拒绝回应中国小动物保护协会辟谣",
+      "onboard_time": 1739582838,
+      "rank": 17,
+      "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 209929,
+      "num": 199067,
+      "word": "宝宝醒来吃母乳不料商家拒绝出餐",
+      "onboard_time": 1739578400,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 209120,
+      "num": 209120,
+      "word": "年轻男性的雄激素正在流失",
+      "onboard_time": 1739577196,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 197906,
+      "num": 197906,
+      "word": "王佑硕整了又整回去就不算整",
+      "onboard_time": 1739579418,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 194777,
+      "num": 194777,
+      "word": "费曼和杨阳洋过情人节",
+      "onboard_time": 1739581880,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 183230,
+      "num": 235361,
+      "word": "4类及以上结节肿瘤发生率高",
+      "onboard_time": 1739579598,
+      "rank": 9,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 182358,
+      "num": 182358,
+      "word": "哪吒骑猪敖丙骑猪",
+      "onboard_time": 1739577196,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 173861,
+      "num": 173861,
+      "word": "周深补偿方案",
+      "onboard_time": 1739580259,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 172849,
       "num": 172849,
       "word": "周深世巡伦敦站取消",
       "onboard_time": 1739575515,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 171352,
+      "num": 171352,
+      "word": "王一博祝大家情人节快乐",
+      "onboard_time": 1739578758,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 162480,
@@ -235,12 +427,52 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161685,
+      "num": 161685,
+      "word": "王毅说外媒可以找Deepseek翻译这句话",
+      "onboard_time": 1739583259,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 160991,
       "num": 160991,
       "word": "郑雅贤截图回复粉丝",
       "onboard_time": 1739545042,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160488,
+      "num": 176822,
+      "word": "哪吒不姓李的原因找到了",
+      "onboard_time": 1739577736,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 154213,
+      "num": 207946,
+      "word": "数百人因天气无法乘机滞留在南极",
+      "onboard_time": 1739574554,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154013,
+      "num": 154013,
+      "word": "陈凯歌戳穿杨子不懂装懂",
+      "onboard_time": 1739577317,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 145245,
+      "num": 145245,
+      "word": "金巧巧迟到",
+      "onboard_time": 1739583320,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 144366,
@@ -257,6 +489,14 @@
       "onboard_time": 1739525721,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141168,
+      "num": 141168,
+      "word": "未来至少一周全美无哪吒2IMAX排片",
+      "onboard_time": 1739577076,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 139919,
@@ -289,6 +529,14 @@
       "onboard_time": 1739535501,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 135357,
+      "num": 135357,
+      "word": "苏醒陆虎叫齐思钧女朋友弟妹",
+      "onboard_time": 1739581099,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 135040,
@@ -337,6 +585,22 @@
       "onboard_time": 1739547801,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118980,
+      "num": 118980,
+      "word": "中国人从来不信邪不怕鬼",
+      "onboard_time": 1739581938,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 118870,
+      "num": 210504,
+      "word": "王鹤棣希望詹姆斯多打几年",
+      "onboard_time": 1739582960,
+      "rank": 19,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 117852,
@@ -419,6 +683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 95585,
+      "num": 154400,
+      "word": "2025NBA全明星",
+      "onboard_time": 1739578697,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93969,
       "num": 108804,
       "word": "世界之外",
@@ -467,6 +739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 76450,
+      "num": 76450,
+      "word": "若美执意打压遏制中国必将奉陪到底",
+      "onboard_time": 1739582058,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 74769,
       "num": 74769,
       "word": "光线传媒给丁禹兮颁发优秀员工奖",
@@ -491,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 60328,
+      "num": 203328,
+      "word": "外交部发言人发布高燃视频",
+      "onboard_time": 1739582660,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 59522,
       "num": 73819,
       "word": "马赛赛张之臻退赛",
@@ -505,6 +793,14 @@
       "onboard_time": 1739566272,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 54080,
+      "num": 210606,
+      "word": "男子潜入前女友男友家找出轨证据",
+      "onboard_time": 1739583199,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53850,
@@ -595,20 +891,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 32947,
+      "num": 635965,
+      "word": "载人航天命名里的中国浪漫",
+      "onboard_time": 1739542702,
+      "rank": 2,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 32350,
       "num": 43774,
       "word": "赵磊给粉丝发手写信",
       "onboard_time": 1739558414,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 30878,
-      "num": 73836,
-      "word": "数百人因天气无法乘机滞留在南极",
-      "onboard_time": 1739574554,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 28942,
@@ -657,14 +953,6 @@
       "onboard_time": 1739560033,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 17799,
-      "num": 184689,
-      "word": "载人航天命名里的中国浪漫",
-      "onboard_time": 1739542702,
-      "rank": 2,
-      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 16053,
