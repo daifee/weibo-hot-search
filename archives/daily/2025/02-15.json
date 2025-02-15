@@ -1,6 +1,6 @@
 {
   "startTime": 1739550405629,
-  "endTime": 1739590007726,
+  "endTime": 1739590866689,
   "band_list": [
     {
       "raw_hot": 2975426,
@@ -59,20 +59,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 970984,
+      "num": 368220,
+      "word": "吴尊疑似被贴脸开大",
+      "onboard_time": 1739587159,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 944023,
       "num": 467702,
       "word": "齐思钧女朋友参加综艺",
       "onboard_time": 1739581578,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 922725,
-      "num": 368220,
-      "word": "吴尊疑似被贴脸开大",
-      "onboard_time": 1739587159,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 896374,
@@ -227,6 +227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 400676,
+      "num": 256005,
+      "word": "失业没工作瞒着爸妈躺出租屋的一天",
+      "onboard_time": 1739585840,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 384829,
       "num": 223817,
       "word": "卜冠今情商",
@@ -297,6 +305,22 @@
       "onboard_time": 1739576956,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 330272,
+      "num": 254678,
+      "word": "外国小伙看完哪吒2对美国超级英雄祛魅",
+      "onboard_time": 1739588720,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 324504,
+      "num": 324504,
+      "word": "律师提醒情人节捡垃圾或违法",
+      "onboard_time": 1739589380,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 306454,
@@ -419,12 +443,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 255070,
-      "num": 255070,
-      "word": "失业没工作瞒着爸妈躺出租屋的一天",
-      "onboard_time": 1739585840,
-      "rank": 27,
-      "category": "情感"
+      "raw_hot": 249550,
+      "num": 447031,
+      "word": "为什么不建议打工人周末早起",
+      "onboard_time": 1739587400,
+      "rank": 14,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 236025,
@@ -465,14 +489,6 @@
       "onboard_time": 1739547681,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 211234,
-      "num": 447031,
-      "word": "为什么不建议打工人周末早起",
-      "onboard_time": 1739587400,
-      "rank": 14,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 209120,
@@ -547,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167110,
+      "num": 167110,
+      "word": "熊乃槿否认整容",
+      "onboard_time": 1739577317,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164267,
       "num": 164267,
       "word": "张百乔演技",
@@ -580,11 +604,19 @@
     },
     {
       "raw_hot": 159957,
-      "num": 250495,
+      "num": 257591,
       "word": "胡兵不语只是一味年轻",
       "onboard_time": 1739587820,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157699,
+      "num": 181872,
+      "word": "百万网红两个小段关闭评论区",
+      "onboard_time": 1739587700,
+      "rank": 36,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 154213,
@@ -611,20 +643,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 151029,
-      "num": 254678,
-      "word": "外国小伙看完哪吒2对美国超级英雄祛魅",
-      "onboard_time": 1739588720,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 148132,
       "num": 148132,
       "word": "吴敬平谈WTT制度改革",
       "onboard_time": 1739588959,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144391,
+      "num": 144391,
+      "word": "万斯称欧洲最大威胁不是中国",
+      "onboard_time": 1739589919,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 144366,
@@ -641,22 +673,6 @@
       "onboard_time": 1739525721,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 142649,
-      "num": 266974,
-      "word": "律师提醒情人节捡垃圾或违法",
-      "onboard_time": 1739589380,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 141944,
-      "num": 174024,
-      "word": "百万网红两个小段关闭评论区",
-      "onboard_time": 1739587700,
-      "rank": 36,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 141168,
@@ -739,14 +755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 130638,
-      "num": 130638,
-      "word": "万斯称欧洲最大威胁不是中国",
-      "onboard_time": 1739589919,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 123183,
       "num": 123183,
       "word": "于正新签15后卢雅熙",
@@ -761,6 +769,14 @@
       "onboard_time": 1739514141,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121441,
+      "num": 121441,
+      "word": "美国小伙看哪吒2前扎哪吒头",
+      "onboard_time": 1739589619,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 119452,
@@ -801,6 +817,14 @@
       "onboard_time": 1739545042,
       "rank": 37,
       "category": "网红"
+    },
+    {
+      "raw_hot": 115888,
+      "num": 115888,
+      "word": "面试被猥亵女子称已和妇联取得联系",
+      "onboard_time": 1739590519,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114381,
@@ -1059,6 +1083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42142,
+      "num": 281038,
+      "word": "加州山火后又遭泥石流威胁",
+      "onboard_time": 1739589499,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 41713,
       "num": 147822,
       "word": "台湾青年看哪吒2文化基因动了",
@@ -1163,14 +1195,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 23113,
-      "num": 281038,
-      "word": "加州山火后又遭泥石流威胁",
-      "onboard_time": 1739589499,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 21294,
       "num": 290379,
       "word": "丘成桐给年轻人的求学建议",
@@ -1235,8 +1259,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 7207,
-      "num": 460929,
+      "raw_hot": 8891,
+      "num": 493274,
       "word": "尔滨期待再相逢",
       "onboard_time": 1739529922,
       "rank": 2,
