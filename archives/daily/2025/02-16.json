@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739637712732,
+  "endTime": 1739639927950,
   "band_list": [
     {
       "raw_hot": 3115726,
@@ -195,6 +195,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 204546,
+      "num": 204546,
+      "word": "来财",
+      "onboard_time": 1739638698,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 198723,
       "num": 198723,
       "word": "白色橄榄树大结局",
@@ -387,12 +395,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 95818,
+      "num": 95818,
+      "word": "复刻吒儿名场面没有最好只有更好",
+      "onboard_time": 1739638218,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 92672,
       "num": 92672,
       "word": "SEVENTEEN曼谷演唱会",
       "onboard_time": 1739633781,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 82484,
+      "num": 82484,
+      "word": "让樊振东陈梦马龙回归赛场",
+      "onboard_time": 1739624360,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 77540,
@@ -411,12 +435,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 62137,
+      "num": 62137,
+      "word": "U20亚洲杯国足两连胜提前出线",
+      "onboard_time": 1739638397,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47771,
       "num": 283563,
       "word": "古人也有书法字帖天天练",
       "onboard_time": 1739635399,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32287,
+      "num": 83446,
+      "word": "AG跨赛季17大场连胜",
+      "onboard_time": 1739630783,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 29630,
@@ -433,6 +473,22 @@
       "onboard_time": 1739637017,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 21497,
+      "num": 82557,
+      "word": "2025亚洲羽毛球混合团体锦标赛",
+      "onboard_time": 1739639596,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 12054,
+      "num": 214150,
+      "word": "吒儿去冲奥斯卡吧我会投票",
+      "onboard_time": 1739639416,
+      "rank": 9,
+      "category": "电影"
     }
   ],
   "hotgov_list": [
