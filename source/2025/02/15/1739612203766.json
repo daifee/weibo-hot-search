@@ -1,0 +1,410 @@
+{
+  "runTime": 1739612203766,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1985288,
+        "num": 1985288,
+        "word": "周深哽咽致歉称最后悔也最不后悔",
+        "onboard_time": 1739603418,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 797394,
+        "num": 797394,
+        "word": "DeepSeek翻译他强任他强清风拂山岗",
+        "onboard_time": 1739605459,
+        "rank": 1,
+        "category": "电竞,游戏"
+      },
+      {
+        "raw_hot": 56261,
+        "num": 678678,
+        "word": "歌词海报送给开学的你",
+        "onboard_time": 1739610860,
+        "rank": 2,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1750539,
+        "num": 659640,
+        "word": "余莺儿戏份被剪了",
+        "onboard_time": 1739610439,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 577285,
+        "num": 577285,
+        "word": "男子闯红灯被撞飞也得负全责",
+        "onboard_time": 1739610499,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340744,
+        "num": 340744,
+        "word": "胖东来奖励顾客500再追责不低于100万",
+        "onboard_time": 1739591899,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 802947,
+        "num": 337724,
+        "word": "哪吒2冲击TOP10",
+        "onboard_time": 1739602698,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 325335,
+        "num": 325335,
+        "word": "南宁警方回应老师被举报性侵学生",
+        "onboard_time": 1739605939,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 782006,
+        "num": 323578,
+        "word": "陈紫函戴向宇cos敖闰敖光",
+        "onboard_time": 1739609780,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 53013,
+        "num": 304218,
+        "word": "重庆燃气抄表混乱何时休",
+        "onboard_time": 1739610620,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1458086,
+        "num": 291814,
+        "word": "警方通报无名尸体确认为命案逃犯",
+        "onboard_time": 1739606840,
+        "rank": 10,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 741574,
+        "num": 281232,
+        "word": "饺子已成中国影史票房最高导演",
+        "onboard_time": 1739582838,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 725641,
+        "num": 272471,
+        "word": "哪吒2感谢225000000位观众",
+        "onboard_time": 1739610082,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 559912,
+        "num": 256771,
+        "word": "惠英红脸上缝了89针",
+        "onboard_time": 1739585840,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 630498,
+        "num": 248319,
+        "word": "哪吒2已破111亿",
+        "onboard_time": 1739604918,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 385074,
+        "num": 231260,
+        "word": "河南170万玛莎拉蒂终被套圈成功",
+        "onboard_time": 1739602999,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229114,
+        "num": 229114,
+        "word": "家长拒订牛奶老师怒怼有事别求",
+        "onboard_time": 1739604259,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196223,
+        "num": 196223,
+        "word": "男子复合后借200万准丈人报警",
+        "onboard_time": 1739606840,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193112,
+        "num": 193112,
+        "word": "安徽老人带80万到苏州买金称是拆迁款",
+        "onboard_time": 1739604318,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111419,
+        "num": 189711,
+        "word": "多方回应导游用激光笔照射文物",
+        "onboard_time": 1739610560,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 496932,
+        "num": 188774,
+        "word": "李艾和老公分手后对他刮目相看",
+        "onboard_time": 1739599159,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269803,
+        "num": 182092,
+        "word": "陈哲远剪发不语只是一味苦笑",
+        "onboard_time": 1739609661,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404206,
+        "num": 179879,
+        "word": "于正回应没签董思成",
+        "onboard_time": 1739610199,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366689,
+        "num": 175845,
+        "word": "长月烬明飙升榜第一",
+        "onboard_time": 1739604259,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235621,
+        "num": 170094,
+        "word": "宋妍霏浪姐6挡脸上班",
+        "onboard_time": 1739607979,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218341,
+        "num": 168594,
+        "word": "哪吒2火了美媒问谁还需要好莱坞",
+        "onboard_time": 1739600359,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197419,
+        "num": 162638,
+        "word": "情敌是顶级绿茶有多气人",
+        "onboard_time": 1739611159,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160530,
+        "num": 160530,
+        "word": "睡眠不好的人建议晚餐补点钾",
+        "onboard_time": 1739610320,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 152894,
+        "num": 155637,
+        "word": "向5岁认识的女孩求婚了",
+        "onboard_time": 1739607499,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149993,
+        "num": 155575,
+        "word": "泽连斯基拒绝特朗普",
+        "onboard_time": 1739604980,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 190930,
+        "num": 155561,
+        "word": "时代峰峻官方店入驻小芒",
+        "onboard_time": 1739607440,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155542,
+        "num": 155542,
+        "word": "陈哲远后悔剪头发了",
+        "onboard_time": 1739611700,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154691,
+        "num": 154691,
+        "word": "朴综星怎么了",
+        "onboard_time": 1739611940,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150348,
+        "num": 150348,
+        "word": "饺子导演小学生照片曝光",
+        "onboard_time": 1739608700,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130821,
+        "num": 130821,
+        "word": "若WTT让樊振东从资格赛打起荒谬至极",
+        "onboard_time": 1739600420,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145557,
+        "num": 130797,
+        "word": "唐嫣赵又廷杀青捧花照",
+        "onboard_time": 1739608759,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126975,
+        "num": 126975,
+        "word": "吴敬平炮轰国乒被资本裹挟",
+        "onboard_time": 1739607019,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119637,
+        "num": 119637,
+        "word": "南京一金店排队4小时起步",
+        "onboard_time": 1739608581,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112287,
+        "num": 112287,
+        "word": "男子为母亲奔丧后确诊病毒性脑膜炎",
+        "onboard_time": 1739605699,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104229,
+        "num": 104229,
+        "word": "学校已被哪吒头占领",
+        "onboard_time": 1739593819,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128365,
+        "num": 104113,
+        "word": "李小冉说和向太是豪门丫鬟",
+        "onboard_time": 1739596219,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126077,
+        "num": 104009,
+        "word": "孟子义短发vs长发",
+        "onboard_time": 1739607499,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44360,
+        "num": 103747,
+        "word": "王鹤棣宋雨琦合影",
+        "onboard_time": 1739611100,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121971,
+        "num": 103468,
+        "word": "aespa演唱会talking环节",
+        "onboard_time": 1739599459,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 103411,
+        "num": 103411,
+        "word": "檀健次唱了多远都要在一起",
+        "onboard_time": 1739611998,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100806,
+        "num": 100806,
+        "word": "结界兽火出圈全家帮赶青铜器手工",
+        "onboard_time": 1739601558,
+        "rank": 45,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 99448,
+        "num": 99448,
+        "word": "男子利用15分钟内免停车费逃费71次",
+        "onboard_time": 1739578337,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93981,
+        "num": 98771,
+        "word": "曝湖南某餐饮品牌厨房加工穿山甲",
+        "onboard_time": 1739584338,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92858,
+        "num": 98504,
+        "word": "6年前一支大牌口红可买一克黄金",
+        "onboard_time": 1739596158,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 69828,
+        "num": 98429,
+        "word": "一葱油饼老板因跳投卖饼走红",
+        "onboard_time": 1739604918,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#绿水青山瞰我家#"
+    }
+  }
+}
