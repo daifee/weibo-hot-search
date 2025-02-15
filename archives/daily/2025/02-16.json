@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739658055209,
+  "endTime": 1739659104106,
   "band_list": [
     {
       "raw_hot": 3115726,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 239427,
-      "num": 369205,
+      "num": 463532,
       "word": "32岁病逝女博士本已开始筹备婚礼",
       "onboard_time": 1739631800,
       "rank": 31,
@@ -387,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119560,
+      "num": 119560,
+      "word": "疑似檀健次成为最大受害者",
+      "onboard_time": 1739655552,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112901,
       "num": 112901,
       "word": "浪姐6",
@@ -433,14 +441,6 @@
       "onboard_time": 1739624360,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 77854,
-      "num": 77854,
-      "word": "疑似檀健次成为最大受害者",
-      "onboard_time": 1739655552,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 77540,
@@ -499,20 +499,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 36220,
+      "num": 27222,
+      "word": "张继科回应吴敬平博文",
+      "onboard_time": 1739655251,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32287,
       "num": 83446,
       "word": "AG跨赛季17大场连胜",
       "onboard_time": 1739630783,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 30316,
-      "num": 24035,
-      "word": "张继科回应吴敬平博文",
-      "onboard_time": 1739655251,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 29630,
@@ -593,6 +593,14 @@
       "onboard_time": 1739647931,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 16551,
+      "num": 20173,
+      "word": "谁在操弄短视频平台封号权",
+      "onboard_time": 1739658311,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 13760,

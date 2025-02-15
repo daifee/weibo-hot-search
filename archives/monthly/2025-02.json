@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739658055209,
+  "endTime": 1739659104106,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -34715,6 +34715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 119560,
+      "num": 119560,
+      "word": "疑似檀健次成为最大受害者",
+      "onboard_time": 1739655552,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119461,
       "num": 119461,
       "word": "驻站",
@@ -39579,14 +39587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 77854,
-      "num": 77854,
-      "word": "疑似檀健次成为最大受害者",
-      "onboard_time": 1739655552,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 77838,
       "num": 224561,
       "word": "林孝埈亚冬会短道首日出战四项",
@@ -44171,6 +44171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36220,
+      "num": 27222,
+      "word": "张继科回应吴敬平博文",
+      "onboard_time": 1739655251,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36196,
       "num": 327883,
       "word": "中国男冰亚冬会第四",
@@ -44945,14 +44953,6 @@
       "onboard_time": 1739281160,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 30316,
-      "num": 24035,
-      "word": "张继科回应吴敬平博文",
-      "onboard_time": 1739655251,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 30278,
@@ -46801,6 +46801,14 @@
       "onboard_time": 1739455282,
       "rank": 37,
       "category": "电影,旅游"
+    },
+    {
+      "raw_hot": 16551,
+      "num": 20173,
+      "word": "谁在操弄短视频平台封号权",
+      "onboard_time": 1739658311,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 16318,
