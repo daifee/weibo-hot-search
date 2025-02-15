@@ -1,6 +1,6 @@
 {
   "startTime": 1739550405629,
-  "endTime": 1739626489676,
+  "endTime": 1739629111245,
   "band_list": [
     {
       "raw_hot": 2975426,
@@ -83,6 +83,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1703245,
+      "num": 1703245,
+      "word": "哪吒2全球票房TOP11",
+      "onboard_time": 1739623760,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1616118,
       "num": 1616118,
       "word": "胖东来奖励顾客500再追责不低于100万",
@@ -97,6 +105,14 @@
       "onboard_time": 1739582838,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1461220,
+      "num": 371200,
+      "word": "王楚钦锡纸烫",
+      "onboard_time": 1739625620,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 1435647,
@@ -168,6 +184,14 @@
       "word": "哪吒2感谢225000000位观众",
       "onboard_time": 1739610082,
       "rank": 21,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1005523,
+      "num": 764415,
+      "word": "湖南卫视惊喜重映哪吒闹海",
+      "onboard_time": 1739625140,
+      "rank": 33,
       "category": "电影"
     },
     {
@@ -259,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 889347,
+      "num": 520904,
+      "word": "高梓淇的无力感溢出屏幕了",
+      "onboard_time": 1739625081,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 871483,
       "num": 871483,
       "word": "白色橄榄树大结局",
@@ -289,6 +321,14 @@
       "onboard_time": 1739600359,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 777394,
+      "num": 777394,
+      "word": "尹肖说WTT逼退陈梦樊振东是颠倒黑白",
+      "onboard_time": 1739626701,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 775586,
@@ -361,6 +401,14 @@
       "onboard_time": 1739578337,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 653766,
+      "num": 370421,
+      "word": "吴宣仪浪姐6初舞台造型",
+      "onboard_time": 1739626880,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 642160,
@@ -443,6 +491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 538871,
+      "num": 369961,
+      "word": "仙台有树重剪",
+      "onboard_time": 1739627302,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 536728,
       "num": 296450,
       "word": "长月烬明飙升榜第一",
@@ -489,22 +545,6 @@
       "onboard_time": 1739610199,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 502453,
-      "num": 266589,
-      "word": "哪吒2全球票房TOP11",
-      "onboard_time": 1739623760,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 494758,
-      "num": 251292,
-      "word": "高梓淇的无力感溢出屏幕了",
-      "onboard_time": 1739625081,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 473690,
@@ -667,12 +707,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 371698,
-      "num": 239986,
-      "word": "湖南卫视惊喜重映哪吒闹海",
-      "onboard_time": 1739625140,
-      "rank": 33,
-      "category": "电影"
+      "raw_hot": 369047,
+      "num": 369047,
+      "word": "穆祉丞给陈天润高考祈福",
+      "onboard_time": 1739627061,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 368908,
@@ -763,6 +803,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 320594,
+      "num": 276756,
+      "word": "哪吒2超114亿",
+      "onboard_time": 1739627541,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 311087,
       "num": 311087,
       "word": "代号鸢",
@@ -825,14 +873,6 @@
       "onboard_time": 1739614880,
       "rank": 38,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 291929,
-      "num": 291929,
-      "word": "王楚钦锡纸烫",
-      "onboard_time": 1739625620,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 290400,
@@ -923,6 +963,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 270592,
+      "num": 270592,
+      "word": "娜扎来看哪吒",
+      "onboard_time": 1739627302,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 268797,
       "num": 230258,
       "word": "你们出国的人嘴真严",
@@ -1009,6 +1057,14 @@
       "onboard_time": 1739598499,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 256833,
+      "num": 256833,
+      "word": "演员3问谁整容只有刘梓晨站起来",
+      "onboard_time": 1739625920,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 255360,
@@ -1163,6 +1219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 219422,
+      "num": 219422,
+      "word": "5至10年后脑机数量或超过手机",
+      "onboard_time": 1739626761,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218536,
       "num": 218536,
       "word": "哪吒敖丙唐汉霄同台唱就是哪吒",
@@ -1177,6 +1241,14 @@
       "onboard_time": 1739595319,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216813,
+      "num": 216813,
+      "word": "日本米价暴涨82%",
+      "onboard_time": 1739627361,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 216412,
@@ -1273,6 +1345,14 @@
       "onboard_time": 1739592799,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203806,
+      "num": 203806,
+      "word": "你好星期六下期有大侦探小分队",
+      "onboard_time": 1739628201,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 203802,
@@ -1379,6 +1459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188728,
+      "num": 188728,
+      "word": "檀健次WDSF世界第三",
+      "onboard_time": 1739628621,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188254,
       "num": 188254,
       "word": "张韶涵范玮琪同场演出",
@@ -1451,12 +1539,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175877,
+      "num": 175877,
+      "word": "尹肖称不是每个年龄段都能出顶尖人才",
+      "onboard_time": 1739627781,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 175653,
+      "num": 175653,
+      "word": "U20国足5比2吉尔吉斯斯坦U20",
+      "onboard_time": 1739626401,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175567,
       "num": 175567,
       "word": "我们的爸爸",
       "onboard_time": 1739596339,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175442,
+      "num": 175442,
+      "word": "陈都灵粉丝给贵女做的网站",
+      "onboard_time": 1739628381,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 175321,
@@ -1667,14 +1779,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 157158,
-      "num": 157158,
-      "word": "演员3问谁整容只有刘梓晨站起来",
-      "onboard_time": 1739625920,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 156815,
       "num": 156815,
       "word": "尹涛导演",
@@ -1737,6 +1841,14 @@
       "onboard_time": 1739587520,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151364,
+      "num": 269937,
+      "word": "尹肖说看到了国际乒联的诚意",
+      "onboard_time": 1739626761,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 150811,
@@ -1803,6 +1915,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 146593,
+      "num": 146593,
+      "word": "U20国足提前晋级8强",
+      "onboard_time": 1739628142,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145651,
       "num": 144424,
       "word": "权志龙新专辑概念预告",
@@ -1817,6 +1937,14 @@
       "onboard_time": 1739598799,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144596,
+      "num": 144596,
+      "word": "男子婚后无夫妻生活欲索回138万彩礼",
+      "onboard_time": 1739628681,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144473,
@@ -1913,6 +2041,14 @@
       "onboard_time": 1739516061,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 138598,
+      "num": 144447,
+      "word": "U20国足8秒反击破门",
+      "onboard_time": 1739627483,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 137895,
@@ -2097,14 +2233,6 @@
       "onboard_time": 1739534902,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 123175,
-      "num": 123175,
-      "word": "U20国足5比2吉尔吉斯斯坦U20",
-      "onboard_time": 1739626401,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 122052,
@@ -2531,6 +2659,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 86636,
+      "num": 1125026,
+      "word": "我国成全球领先的人形机器人生产国",
+      "onboard_time": 1739623880,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 86209,
       "num": 108754,
       "word": "于佩尔一眼看中孙丞潇",
@@ -2595,6 +2731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81491,
+      "num": 369815,
+      "word": "男子酒后死亡同饮者没劝酒被判无责",
+      "onboard_time": 1739628261,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78488,
       "num": 78488,
       "word": "哪吒2全球动画电影票房榜第二",
@@ -2625,6 +2769,22 @@
       "onboard_time": 1739588660,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71691,
+      "num": 370846,
+      "word": "终于有人能接上哪吒的rap了",
+      "onboard_time": 1739628681,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 69842,
+      "num": 154521,
+      "word": "初三学生骑车被撞肇事司机辩称碰瓷",
+      "onboard_time": 1739626521,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69256,
@@ -2713,6 +2873,14 @@
       "onboard_time": 1739566272,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 53905,
+      "num": 171447,
+      "word": "赵小童忙里偷闲走马观花",
+      "onboard_time": 1739628860,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 53850,
@@ -3057,14 +3225,6 @@
       "onboard_time": 1739575876,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 6749,
-      "num": 1125026,
-      "word": "我国成全球领先的人形机器人生产国",
-      "onboard_time": 1739623880,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [

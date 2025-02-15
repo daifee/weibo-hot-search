@@ -1,0 +1,410 @@
+{
+  "runTime": 1739629111245,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1703245,
+        "num": 1703245,
+        "word": "哪吒2全球票房TOP11",
+        "onboard_time": 1739623760,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 777394,
+        "num": 777394,
+        "word": "尹肖说WTT逼退陈梦樊振东是颠倒黑白",
+        "onboard_time": 1739626701,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86636,
+        "num": 767053,
+        "word": "我国成全球领先的人形机器人生产国",
+        "onboard_time": 1739623880,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1005523,
+        "num": 764415,
+        "word": "湖南卫视惊喜重映哪吒闹海",
+        "onboard_time": 1739625140,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 757016,
+        "num": 757016,
+        "word": "41岁媒体人吴玉燕因流感离世",
+        "onboard_time": 1739617882,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 579394,
+        "num": 579394,
+        "word": "男子回应被鲸鱼吞了又吐出来",
+        "onboard_time": 1739619560,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 933394,
+        "num": 558935,
+        "word": "奥斯卡评委喊话饺子导演",
+        "onboard_time": 1739615661,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 889347,
+        "num": 520904,
+        "word": "高梓淇的无力感溢出屏幕了",
+        "onboard_time": 1739625081,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 446012,
+        "num": 446012,
+        "word": "狗主人称潘宏歪曲事实",
+        "onboard_time": 1739619801,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 371533,
+        "num": 371533,
+        "word": "广西一老师被举报性侵学生已被开除",
+        "onboard_time": 1739623460,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1461220,
+        "num": 371200,
+        "word": "王楚钦锡纸烫",
+        "onboard_time": 1739625620,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71691,
+        "num": 370846,
+        "word": "终于有人能接上哪吒的rap了",
+        "onboard_time": 1739628681,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 653766,
+        "num": 370421,
+        "word": "吴宣仪浪姐6初舞台造型",
+        "onboard_time": 1739626880,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 538871,
+        "num": 369961,
+        "word": "仙台有树重剪",
+        "onboard_time": 1739627302,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81491,
+        "num": 369815,
+        "word": "男子酒后死亡同饮者没劝酒被判无责",
+        "onboard_time": 1739628261,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 517315,
+        "num": 369447,
+        "word": "网传肖战主演刘医生返乡记",
+        "onboard_time": 1739625681,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 369047,
+        "num": 369047,
+        "word": "穆祉丞给陈天润高考祈福",
+        "onboard_time": 1739627061,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341089,
+        "num": 341089,
+        "word": "警方通报无名尸体确认为命案逃犯",
+        "onboard_time": 1739606840,
+        "rank": 17,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 285390,
+        "num": 285390,
+        "word": "美国专家喊话Deepseek创始人联系自己",
+        "onboard_time": 1739621779,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 237923,
+        "num": 283262,
+        "word": "男子花百万彩礼娶亲不到一年闹离婚",
+        "onboard_time": 1739617700,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 491853,
+        "num": 280537,
+        "word": "白色橄榄树大结局",
+        "onboard_time": 1739616560,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 482009,
+        "num": 279266,
+        "word": "周深哽咽致歉称最后悔也最不后悔",
+        "onboard_time": 1739603418,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 320594,
+        "num": 276756,
+        "word": "哪吒2超114亿",
+        "onboard_time": 1739627541,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 275524,
+        "num": 275524,
+        "word": "女子8年前买黄金为儿子准备彩礼",
+        "onboard_time": 1739620400,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270592,
+        "num": 270592,
+        "word": "娜扎来看哪吒",
+        "onboard_time": 1739627302,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151364,
+        "num": 269937,
+        "word": "尹肖说看到了国际乒联的诚意",
+        "onboard_time": 1739626761,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269434,
+        "num": 269434,
+        "word": "惠英红脸上缝了89针",
+        "onboard_time": 1739585840,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256833,
+        "num": 256833,
+        "word": "演员3问谁整容只有刘梓晨站起来",
+        "onboard_time": 1739625920,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219560,
+        "num": 219560,
+        "word": "一艺考生时间冲突计划25万包机赶考",
+        "onboard_time": 1739620821,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219422,
+        "num": 219422,
+        "word": "5至10年后脑机数量或超过手机",
+        "onboard_time": 1739626761,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216813,
+        "num": 216813,
+        "word": "日本米价暴涨82%",
+        "onboard_time": 1739627361,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 206308,
+        "num": 206308,
+        "word": "EXO",
+        "onboard_time": 1739619380,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 194369,
+        "num": 204091,
+        "word": "饺子已成中国影史票房最高导演",
+        "onboard_time": 1739582838,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203806,
+        "num": 203806,
+        "word": "你好星期六下期有大侦探小分队",
+        "onboard_time": 1739628201,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201023,
+        "num": 201023,
+        "word": "小警犬在考试中得了最后一名",
+        "onboard_time": 1739621481,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191436,
+        "num": 191436,
+        "word": "让樊振东陈梦马龙回归赛场",
+        "onboard_time": 1739624360,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188728,
+        "num": 188728,
+        "word": "檀健次WDSF世界第三",
+        "onboard_time": 1739628621,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176084,
+        "num": 176084,
+        "word": "余承恩姐姐说妈妈偏心",
+        "onboard_time": 1739623279,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175877,
+        "num": 175877,
+        "word": "尹肖称不是每个年龄段都能出顶尖人才",
+        "onboard_time": 1739627781,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175653,
+        "num": 175653,
+        "word": "U20国足5比2吉尔吉斯斯坦U20",
+        "onboard_time": 1739626401,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175442,
+        "num": 175442,
+        "word": "陈都灵粉丝给贵女做的网站",
+        "onboard_time": 1739628381,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173523,
+        "num": 173523,
+        "word": "陈紫函戴向宇cos敖闰敖光",
+        "onboard_time": 1739609780,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173080,
+        "num": 173080,
+        "word": "夏之光金发",
+        "onboard_time": 1739624240,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53905,
+        "num": 171447,
+        "word": "赵小童忙里偷闲走马观花",
+        "onboard_time": 1739628860,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170523,
+        "num": 170523,
+        "word": "长月烬明飙升榜第一",
+        "onboard_time": 1739604259,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69842,
+        "num": 154521,
+        "word": "初三学生骑车被撞肇事司机辩称碰瓷",
+        "onboard_time": 1739626521,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146593,
+        "num": 146593,
+        "word": "U20国足提前晋级8强",
+        "onboard_time": 1739628142,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145463,
+        "num": 145463,
+        "word": "敖丙传封面",
+        "onboard_time": 1739614460,
+        "rank": 47,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 144596,
+        "num": 144596,
+        "word": "男子婚后无夫妻生活欲索回138万彩礼",
+        "onboard_time": 1739628681,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138598,
+        "num": 144447,
+        "word": "U20国足8秒反击破门",
+        "onboard_time": 1739627483,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向第38届非洲联盟峰会致贺电#"
+    }
+  }
+}
