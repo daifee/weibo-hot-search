@@ -1,6 +1,6 @@
 {
   "startTime": 1739550405629,
-  "endTime": 1739596877203,
+  "endTime": 1739597882119,
   "band_list": [
     {
       "raw_hot": 2975426,
@@ -67,7 +67,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1078086,
+      "raw_hot": 1199965,
       "num": 1078086,
       "word": "哪吒官微半夜一次发3张海报",
       "onboard_time": 1739593339,
@@ -281,6 +281,14 @@
       "onboard_time": 1739585840,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 394763,
+      "num": 246034,
+      "word": "潘宏妻子恳请停止谩骂",
+      "onboard_time": 1739594959,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 384829,
@@ -515,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 253032,
+      "num": 253032,
+      "word": "中方从俄罗斯进口油气是为弥补缺口",
+      "onboard_time": 1739595920,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 250163,
       "num": 274505,
       "word": "官方通报男子领烈犬撕咬小猫致死",
@@ -529,14 +545,6 @@
       "onboard_time": 1739587400,
       "rank": 14,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 246034,
-      "num": 246034,
-      "word": "潘宏妻子恳请停止谩骂",
-      "onboard_time": 1739594959,
-      "rank": 18,
-      "category": "网红"
     },
     {
       "raw_hot": 236025,
@@ -635,6 +643,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 208494,
+      "num": 192368,
+      "word": "李小冉说和向太是豪门丫鬟",
+      "onboard_time": 1739596219,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207957,
       "num": 207957,
       "word": "新疆震感",
@@ -651,7 +667,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199408,
+      "raw_hot": 203802,
       "num": 199408,
       "word": "张亮坐张百乔旁边问他在哪",
       "onboard_time": 1739596039,
@@ -664,14 +680,6 @@
       "word": "王佑硕整了又整回去就不算整",
       "onboard_time": 1739579418,
       "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 192368,
-      "num": 192368,
-      "word": "李小冉说和向太是豪门丫鬟",
-      "onboard_time": 1739596219,
-      "rank": 32,
       "category": "综艺"
     },
     {
@@ -723,6 +731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 172724,
+      "num": 151460,
+      "word": "6年前一支大牌口红可买一克黄金",
+      "onboard_time": 1739596158,
+      "rank": 40,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 171352,
       "num": 171352,
       "word": "王一博祝大家情人节快乐",
@@ -755,14 +771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 162233,
-      "num": 162233,
-      "word": "中方从俄罗斯进口油气是为弥补缺口",
-      "onboard_time": 1739595920,
-      "rank": 37,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 160991,
       "num": 160991,
       "word": "郑雅贤截图回复粉丝",
@@ -785,6 +793,14 @@
       "onboard_time": 1739587820,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158401,
+      "num": 151015,
+      "word": "唐嫣独身女人哭戏",
+      "onboard_time": 1739597419,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 157699,
@@ -835,14 +851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146812,
-      "num": 146812,
-      "word": "6年前一支大牌口红可买一克黄金",
-      "onboard_time": 1739596158,
-      "rank": 40,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 146644,
       "num": 249341,
       "word": "特朗普宣布对等关税意欲何为",
@@ -873,6 +881,14 @@
       "onboard_time": 1739525721,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141257,
+      "num": 141257,
+      "word": "武林外传早就在暗示女装现状了",
+      "onboard_time": 1739596639,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 141168,
@@ -961,6 +977,14 @@
       "onboard_time": 1739541505,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127723,
+      "num": 127723,
+      "word": "河南一澡堂垮塌有人不幸死亡",
+      "onboard_time": 1739597538,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123183,
@@ -1107,6 +1131,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 98913,
+      "num": 143505,
+      "word": "我最想养的大型猫科宠出现了",
+      "onboard_time": 1739597359,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97526,
       "num": 108697,
       "word": "哪吒2进全球票房前14",
@@ -1145,6 +1177,14 @@
       "onboard_time": 1739585120,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94128,
+      "num": 94128,
+      "word": "如鸢危情印象PV",
+      "onboard_time": 1739597239,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 93969,
@@ -1187,12 +1227,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84751,
+      "num": 93911,
+      "word": "马斯克查着账又被邀请去查案",
+      "onboard_time": 1739597839,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 84599,
       "num": 84599,
       "word": "演员请就位 刘品言",
       "onboard_time": 1739545943,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 82517,
+      "num": 192794,
+      "word": "河南一澡堂垮塌村民称有亲戚身亡",
+      "onboard_time": 1739596757,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78488,
@@ -1321,14 +1377,6 @@
       "onboard_time": 1739527941,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 48277,
-      "num": 192794,
-      "word": "河南一澡堂垮塌村民称有亲戚身亡",
-      "onboard_time": 1739596757,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 45320,
