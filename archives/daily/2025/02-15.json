@@ -1,6 +1,6 @@
 {
   "startTime": 1739550405629,
-  "endTime": 1739614938395,
+  "endTime": 1739615901824,
   "band_list": [
     {
       "raw_hot": 2975426,
@@ -259,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 661273,
+      "num": 288659,
+      "word": "吴磊ins",
+      "onboard_time": 1739612299,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 661136,
       "num": 844940,
       "word": "哪吒2被删减画面首度公开",
@@ -307,12 +315,12 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 586692,
-      "num": 259653,
-      "word": "吴磊ins",
-      "onboard_time": 1739612299,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 623835,
+      "num": 282943,
+      "word": "哪吒2再超112亿",
+      "onboard_time": 1739612239,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 567923,
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 536728,
-      "num": 220139,
+      "num": 266383,
       "word": "长月烬明飙升榜第一",
       "onboard_time": 1739604259,
       "rank": 23,
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 515520,
-      "num": 254027,
+      "num": 270501,
       "word": "于正回应没签董思成",
       "onboard_time": 1739610199,
       "rank": 24,
@@ -387,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 466828,
+      "num": 436697,
+      "word": "小米SU7智驾高速急刹被追尾",
+      "onboard_time": 1739613260,
+      "rank": 5,
+      "category": "民生新闻,汽车"
+    },
+    {
       "raw_hot": 458755,
       "num": 378459,
       "word": "被烟花击中摘除眼球男子寻找目击者",
@@ -395,28 +411,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 453547,
-      "num": 208222,
-      "word": "哪吒2再超112亿",
-      "onboard_time": 1739612239,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 439852,
       "num": 380274,
       "word": "家长拒订牛奶老师怒怼有事别求",
       "onboard_time": 1739604259,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 436697,
-      "num": 436697,
-      "word": "小米SU7智驾高速急刹被追尾",
-      "onboard_time": 1739613260,
-      "rank": 5,
-      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 435367,
@@ -489,6 +489,14 @@
       "onboard_time": 1739543961,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 372203,
+      "num": 207721,
+      "word": "奥斯卡评委喊话饺子导演",
+      "onboard_time": 1739615661,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 372163,
@@ -619,12 +627,28 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 302929,
+      "num": 302929,
+      "word": "敖丙传封面",
+      "onboard_time": 1739614460,
+      "rank": 45,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 300907,
       "num": 203397,
       "word": "宋妍霏浪姐6挡脸上班",
       "onboard_time": 1739607979,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 295160,
+      "num": 295160,
+      "word": "衡阳通报售卖出生证事件",
+      "onboard_time": 1739614880,
+      "rank": 38,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 290400,
@@ -739,6 +763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 264362,
+      "num": 264362,
+      "word": "甄嬛传",
+      "onboard_time": 1739614580,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 262541,
       "num": 197893,
       "word": "coser对饺子导演下手了",
@@ -753,6 +785,14 @@
       "onboard_time": 1739598679,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 259011,
+      "num": 259011,
+      "word": "虞书欣跳了igloo",
+      "onboard_time": 1739615661,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 258976,
@@ -787,6 +827,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 251666,
+      "num": 251666,
+      "word": "睡眠不好的人建议晚餐补点钾",
+      "onboard_time": 1739610320,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 250163,
       "num": 274505,
       "word": "官方通报男子领烈犬撕咬小猫致死",
@@ -817,14 +865,6 @@
       "onboard_time": 1739552478,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 233302,
-      "num": 201488,
-      "word": "睡眠不好的人建议晚餐补点钾",
-      "onboard_time": 1739610320,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 232994,
@@ -883,6 +923,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 218469,
+      "num": 282188,
+      "word": "湖南通报妇幼保健院医生卖出生证",
+      "onboard_time": 1739614760,
+      "rank": 29,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 216937,
       "num": 216937,
       "word": "龙眼干是盐渍的苏易水是糖醋的",
@@ -913,6 +961,14 @@
       "onboard_time": 1739613560,
       "rank": 18,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 213780,
+      "num": 213780,
+      "word": "颖儿张口就是石矶娘娘台词",
+      "onboard_time": 1739615059,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 211127,
@@ -955,6 +1011,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 205098,
+      "num": 205098,
+      "word": "单依纯听到粉丝说好瘦的反应",
+      "onboard_time": 1739615059,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 204005,
       "num": 237570,
       "word": "吴敬平说看到乒坛乱象非常难过",
@@ -969,6 +1033,14 @@
       "onboard_time": 1739596039,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199601,
+      "num": 199601,
+      "word": "白色橄榄树",
+      "onboard_time": 1739614880,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 197906,
@@ -987,14 +1059,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195971,
-      "num": 195971,
-      "word": "甄嬛传",
-      "onboard_time": 1739614580,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 195263,
       "num": 195263,
       "word": "申小豹配音演员说同学们都很惊讶",
@@ -1003,12 +1067,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 195156,
+      "num": 195156,
+      "word": "勋兴",
+      "onboard_time": 1739615661,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193857,
       "num": 222265,
       "word": "陈哲远直播一下",
       "onboard_time": 1739604019,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189785,
+      "num": 179902,
+      "word": "张艺兴吴世勋去了朴灿烈演唱会",
+      "onboard_time": 1739615480,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 187163,
@@ -1025,6 +1105,14 @@
       "onboard_time": 1739602698,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 184808,
+      "num": 184808,
+      "word": "老人带80万拆迁款买黄金店员报警",
+      "onboard_time": 1739610800,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182358,
@@ -1179,6 +1267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 159987,
+      "num": 159987,
+      "word": "成毅没有一个动作是多余的",
+      "onboard_time": 1739615721,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159957,
       "num": 257591,
       "word": "胡兵不语只是一味年轻",
@@ -1257,6 +1353,14 @@
       "onboard_time": 1739577317,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152966,
+      "num": 199958,
+      "word": "学校回应家长拒订牛奶遭老师怒怼",
+      "onboard_time": 1739613560,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151874,
@@ -1499,14 +1603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 127935,
-      "num": 127935,
-      "word": "老人带80万拆迁款买黄金店员报警",
-      "onboard_time": 1739610800,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 127849,
       "num": 127849,
       "word": "一葱油饼老板因跳投卖饼走红",
@@ -1537,14 +1633,6 @@
       "onboard_time": 1739534902,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 122437,
-      "num": 122437,
-      "word": "衡阳通报售卖出生证事件",
-      "onboard_time": 1739614880,
-      "rank": 38,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 122052,
@@ -1619,14 +1707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116332,
-      "num": 116332,
-      "word": "敖丙传封面",
-      "onboard_time": 1739614460,
-      "rank": 45,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 116255,
       "num": 116255,
       "word": "潘宏称每夜收千条短信轰炸",
@@ -1691,14 +1771,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 112303,
-      "num": 199958,
-      "word": "学校回应家长拒订牛奶遭老师怒怼",
-      "onboard_time": 1739613560,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111419,
       "num": 267277,
       "word": "多方回应导游用激光笔照射文物",
@@ -1712,14 +1784,6 @@
       "word": "林允不语只一味发18宫格",
       "onboard_time": 1739607860,
       "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 109726,
-      "num": 109726,
-      "word": "白色橄榄树",
-      "onboard_time": 1739614880,
-      "rank": 47,
       "category": "剧集"
     },
     {
@@ -1779,12 +1843,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 106518,
+      "num": 122545,
+      "word": "妇幼保健院医生售卖出生证8人被抓",
+      "onboard_time": 1739615420,
+      "rank": 46,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 105253,
       "num": 105253,
       "word": "山东男子驱车600公里到河南套圈",
       "onboard_time": 1739607379,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103935,
+      "num": 121630,
+      "word": "李盈莹受伤",
+      "onboard_time": 1739615240,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 103605,
@@ -1931,14 +2011,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 91030,
-      "num": 165478,
-      "word": "湖南通报妇幼保健院医生卖出生证",
-      "onboard_time": 1739614760,
-      "rank": 29,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 86209,
       "num": 108754,
       "word": "于佩尔一眼看中孙丞潇",
@@ -1971,12 +2043,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 83810,
+      "num": 116902,
+      "word": "潘宏面对质疑不能当缩头乌龟",
+      "onboard_time": 1739615838,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82736,
       "num": 82736,
       "word": "特朗普为何执着于解密肯尼迪遇刺案",
       "onboard_time": 1739601499,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 81979,
+      "num": 274734,
+      "word": "AI挑战下学校与教师该如何改变",
+      "onboard_time": 1739614339,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78488,
@@ -2059,6 +2147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 60791,
+      "num": 286593,
+      "word": "工作友谊也会断崖式分手",
+      "onboard_time": 1739614100,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60328,
       "num": 203328,
       "word": "外交部发言人发布高燃视频",
@@ -2083,7 +2179,7 @@
       "category": "网红"
     },
     {
-      "raw_hot": 56261,
+      "raw_hot": 56754,
       "num": 678678,
       "word": "歌词海报送给开学的你",
       "onboard_time": 1739610860,
@@ -2161,14 +2257,6 @@
       "onboard_time": 1739611100,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 43161,
-      "num": 257582,
-      "word": "工作友谊也会断崖式分手",
-      "onboard_time": 1739614100,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 42142,
@@ -2265,14 +2353,6 @@
       "onboard_time": 1739558414,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 29441,
-      "num": 213567,
-      "word": "AI挑战下学校与教师该如何改变",
-      "onboard_time": 1739614339,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 28942,
