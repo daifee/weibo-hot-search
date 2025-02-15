@@ -1,0 +1,410 @@
+{
+  "runTime": 1739593689197,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2278219,
+        "num": 2278219,
+        "word": "惠英红脸上缝了89针",
+        "onboard_time": 1739585840,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1616118,
+        "num": 1616118,
+        "word": "胖东来奖励顾客500再追责不低于100万",
+        "onboard_time": 1739591899,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10330,
+        "num": 1424973,
+        "word": "尔滨期待再相逢",
+        "onboard_time": 1739529922,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1316234,
+        "num": 1316234,
+        "word": "律师提醒情人节捡垃圾或违法",
+        "onboard_time": 1739589380,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1198177,
+        "num": 1198177,
+        "word": "哪吒2票房不降反升",
+        "onboard_time": 1739577138,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 528150,
+        "num": 528150,
+        "word": "樊振东陈梦做了别人不敢做的事",
+        "onboard_time": 1739585660,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 830278,
+        "num": 507200,
+        "word": "饺子已成中国影史票房最高导演",
+        "onboard_time": 1739582838,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 633491,
+        "num": 455957,
+        "word": "吴尊疑似被贴脸开大",
+        "onboard_time": 1739587159,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359014,
+        "num": 359014,
+        "word": "王毅说外媒可以找Deepseek翻译这句话",
+        "onboard_time": 1739583259,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 282779,
+        "num": 282779,
+        "word": "复旦教授称婚姻是最大的幸福来源",
+        "onboard_time": 1739581279,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 622690,
+        "num": 282692,
+        "word": "曝湖南某餐饮品牌厨房加工穿山甲",
+        "onboard_time": 1739584338,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 496650,
+        "num": 281889,
+        "word": "齐思钧女朋友参加综艺",
+        "onboard_time": 1739581578,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400169,
+        "num": 281055,
+        "word": "天雷滚滚我好怕怕传到手影界了",
+        "onboard_time": 1739592799,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 379301,
+        "num": 280208,
+        "word": "潘宏拒绝回应中国小动物保护协会辟谣",
+        "onboard_time": 1739582838,
+        "rank": 13,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 57078,
+        "num": 279626,
+        "word": "保安承诺包上岸40多人被骗200万",
+        "onboard_time": 1739593040,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60945,
+        "num": 279134,
+        "word": "哪吒官微半夜一次发3张海报",
+        "onboard_time": 1739593339,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 375689,
+        "num": 278286,
+        "word": "王鹤棣全英文采访",
+        "onboard_time": 1739593099,
+        "rank": 16,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 278082,
+        "num": 278082,
+        "word": "失业没工作瞒着爸妈躺出租屋的一天",
+        "onboard_time": 1739585840,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208738,
+        "num": 274505,
+        "word": "官方通报男子领烈犬撕咬小猫致死",
+        "onboard_time": 1739589859,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16766,
+        "num": 272186,
+        "word": "2025年会是人形机器人的量产元年吗",
+        "onboard_time": 1739593219,
+        "rank": 19,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 461734,
+        "num": 266727,
+        "word": "姚笛 被删",
+        "onboard_time": 1739539282,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374765,
+        "num": 263717,
+        "word": "男子利用15分钟内免停车费逃费71次",
+        "onboard_time": 1739578337,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260401,
+        "num": 260401,
+        "word": "3岁吒儿被外国人认识了",
+        "onboard_time": 1739583978,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 257073,
+        "num": 257073,
+        "word": "中国人从来不信邪不怕鬼",
+        "onboard_time": 1739581938,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 198995,
+        "num": 237570,
+        "word": "吴敬平说看到乒坛乱象非常难过",
+        "onboard_time": 1739592799,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236100,
+        "num": 236100,
+        "word": "王鹤棣说受不了詹眉断崖式分手",
+        "onboard_time": 1739593579,
+        "rank": 25,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 216352,
+        "num": 216352,
+        "word": "哪吒2再破109亿",
+        "onboard_time": 1739592859,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215117,
+        "num": 215117,
+        "word": "你们出国的人嘴真严",
+        "onboard_time": 1739590940,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215069,
+        "num": 215069,
+        "word": "章子怡发飙让张嘉元下去",
+        "onboard_time": 1739539222,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182638,
+        "num": 212075,
+        "word": "哪吒敖丙唐汉霄同台唱就是哪吒",
+        "onboard_time": 1739593158,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 212059,
+        "num": 212059,
+        "word": "最萌申小豹配音演员曝光",
+        "onboard_time": 1739581279,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209245,
+        "num": 209245,
+        "word": "梁王拆队",
+        "onboard_time": 1739578098,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210343,
+        "num": 204951,
+        "word": "美国小伙看哪吒2前扎哪吒头",
+        "onboard_time": 1739589619,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198421,
+        "num": 198421,
+        "word": "张碧晨难哄OST晚点上线",
+        "onboard_time": 1739593579,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190833,
+        "num": 190833,
+        "word": "哪吒票房",
+        "onboard_time": 1739584338,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 181723,
+        "num": 181723,
+        "word": "田志希说不去韩国就没有乒乓球生涯",
+        "onboard_time": 1739593639,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178272,
+        "num": 178272,
+        "word": "哪吒2反诈宣传",
+        "onboard_time": 1739589140,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172639,
+        "num": 172639,
+        "word": "外国小伙看完哪吒2对美国超级英雄祛魅",
+        "onboard_time": 1739588720,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149519,
+        "num": 149519,
+        "word": "为什么不建议打工人周末早起",
+        "onboard_time": 1739587400,
+        "rank": 38,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 138334,
+        "num": 138334,
+        "word": "张百乔演技",
+        "onboard_time": 1739588419,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137468,
+        "num": 137468,
+        "word": "百万网红两个小段关闭评论区",
+        "onboard_time": 1739587700,
+        "rank": 40,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 137456,
+        "num": 137456,
+        "word": "万斯称欧洲最大威胁不是中国",
+        "onboard_time": 1739589919,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 135351,
+        "num": 135351,
+        "word": "吴敬平炮轰WTT避重就轻",
+        "onboard_time": 1739587520,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128113,
+        "num": 128113,
+        "word": "费曼和杨阳洋过情人节",
+        "onboard_time": 1739581880,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121183,
+        "num": 121183,
+        "word": "姚笛被删或因合同问题",
+        "onboard_time": 1739578098,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118962,
+        "num": 118962,
+        "word": "超90%成年人体内携带接吻病毒",
+        "onboard_time": 1739551278,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114589,
+        "num": 114589,
+        "word": "周深补偿方案",
+        "onboard_time": 1739580259,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112896,
+        "num": 112896,
+        "word": "考古的风终于吹到了梁洁",
+        "onboard_time": 1739591958,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112714,
+        "num": 112714,
+        "word": "宝宝醒来吃母乳不料商家拒绝出餐",
+        "onboard_time": 1739578400,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107255,
+        "num": 107255,
+        "word": "家长称日本一儿童绘本露女性内裤",
+        "onboard_time": 1739585660,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#从嫦娥奔月到嫦娥揽月#"
+    }
+  }
+}

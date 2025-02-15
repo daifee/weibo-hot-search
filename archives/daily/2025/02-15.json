@@ -1,6 +1,6 @@
 {
   "startTime": 1739550405629,
-  "endTime": 1739590866689,
+  "endTime": 1739593689197,
   "band_list": [
     {
       "raw_hot": 2975426,
@@ -17,6 +17,14 @@
       "onboard_time": 1739539282,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1616118,
+      "num": 1616118,
+      "word": "胖东来奖励顾客500再追责不低于100万",
+      "onboard_time": 1739591899,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1469692,
@@ -43,6 +51,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1316234,
+      "num": 1316234,
+      "word": "律师提醒情人节捡垃圾或违法",
+      "onboard_time": 1739589380,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1254510,
       "num": 569526,
       "word": "姚笛被删或因合同问题",
@@ -60,7 +76,7 @@
     },
     {
       "raw_hot": 970984,
-      "num": 368220,
+      "num": 455957,
       "word": "吴尊疑似被贴脸开大",
       "onboard_time": 1739587159,
       "rank": 26,
@@ -228,11 +244,19 @@
     },
     {
       "raw_hot": 400676,
-      "num": 256005,
+      "num": 278082,
       "word": "失业没工作瞒着爸妈躺出租屋的一天",
       "onboard_time": 1739585840,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 400169,
+      "num": 281055,
+      "word": "天雷滚滚我好怕怕传到手影界了",
+      "onboard_time": 1739592799,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 384829,
@@ -249,6 +273,14 @@
       "onboard_time": 1739543961,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 375689,
+      "num": 278286,
+      "word": "王鹤棣全英文采访",
+      "onboard_time": 1739593099,
+      "rank": 16,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 372163,
@@ -313,14 +345,6 @@
       "onboard_time": 1739588720,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 324504,
-      "num": 324504,
-      "word": "律师提醒情人节捡垃圾或违法",
-      "onboard_time": 1739589380,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 306454,
@@ -451,6 +475,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 236100,
+      "num": 236100,
+      "word": "王鹤棣说受不了詹眉断崖式分手",
+      "onboard_time": 1739593579,
+      "rank": 25,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 236025,
       "num": 183507,
       "word": "广东一地烧炮出意外多人从高空跌落",
@@ -491,6 +523,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 216352,
+      "num": 216352,
+      "word": "哪吒2再破109亿",
+      "onboard_time": 1739592859,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 215117,
+      "num": 215117,
+      "word": "你们出国的人嘴真严",
+      "onboard_time": 1739590940,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 210343,
+      "num": 204951,
+      "word": "美国小伙看哪吒2前扎哪吒头",
+      "onboard_time": 1739589619,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 209120,
       "num": 209120,
       "word": "年轻男性的雄激素正在流失",
@@ -507,12 +563,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 208738,
+      "num": 274505,
+      "word": "官方通报男子领烈犬撕咬小猫致死",
+      "onboard_time": 1739589859,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207957,
       "num": 207957,
       "word": "新疆震感",
       "onboard_time": 1739585719,
       "rank": 33,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 198995,
+      "num": 237570,
+      "word": "吴敬平说看到乒坛乱象非常难过",
+      "onboard_time": 1739592799,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 198421,
+      "num": 198421,
+      "word": "张碧晨难哄OST晚点上线",
+      "onboard_time": 1739593579,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 197906,
@@ -523,11 +603,35 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182638,
+      "num": 212075,
+      "word": "哪吒敖丙唐汉霄同台唱就是哪吒",
+      "onboard_time": 1739593158,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 182358,
       "num": 182358,
       "word": "哪吒骑猪敖丙骑猪",
       "onboard_time": 1739577196,
       "rank": 34,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 181723,
+      "num": 181723,
+      "word": "田志希说不去韩国就没有乒乓球生涯",
+      "onboard_time": 1739593639,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 178272,
+      "num": 178272,
+      "word": "哪吒2反诈宣传",
+      "onboard_time": 1739589140,
+      "rank": 36,
       "category": "电影"
     },
     {
@@ -771,14 +875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 121441,
-      "num": 121441,
-      "word": "美国小伙看哪吒2前扎哪吒头",
-      "onboard_time": 1739589619,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 119452,
       "num": 119452,
       "word": "丁禹兮光线销冠之一的实力",
@@ -841,6 +937,14 @@
       "onboard_time": 1739556434,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112896,
+      "num": 112896,
+      "word": "考古的风终于吹到了梁洁",
+      "onboard_time": 1739591958,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 112881,
@@ -947,14 +1051,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 92505,
-      "num": 126688,
-      "word": "官方通报男子领烈犬撕咬小猫致死",
-      "onboard_time": 1739589859,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86209,
       "num": 108754,
       "word": "于佩尔一眼看中孙丞潇",
@@ -1019,6 +1115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 60945,
+      "num": 279134,
+      "word": "哪吒官微半夜一次发3张海报",
+      "onboard_time": 1739593339,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 60328,
       "num": 203328,
       "word": "外交部发言人发布高燃视频",
@@ -1041,6 +1145,14 @@
       "onboard_time": 1739566272,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 57078,
+      "num": 279626,
+      "word": "保安承诺包上岸40多人被骗200万",
+      "onboard_time": 1739593040,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53850,
@@ -1211,6 +1323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 16766,
+      "num": 272186,
+      "word": "2025年会是人形机器人的量产元年吗",
+      "onboard_time": 1739593219,
+      "rank": 19,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 16053,
       "num": 118209,
       "word": "紫幻希望狼队多拿冠军",
@@ -1235,6 +1355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 10330,
+      "num": 1424973,
+      "word": "尔滨期待再相逢",
+      "onboard_time": 1739529922,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 9731,
       "num": 479936,
       "word": "只此青绿惊艳海外观众",
@@ -1256,14 +1384,6 @@
       "word": "被中国运动员的笑容感染到了",
       "onboard_time": 1739575876,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 8891,
-      "num": 493274,
-      "word": "尔滨期待再相逢",
-      "onboard_time": 1739529922,
-      "rank": 2,
       "category": "体育"
     }
   ],
