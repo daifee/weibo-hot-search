@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1739587844274,
+  "endTime": 1739588400401,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1235,6 +1235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2975426,
+      "num": 2975426,
+      "word": "惠英红脸上缝了89针",
+      "onboard_time": 1739585840,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2972538,
       "num": 2972538,
       "word": "任敏美甲",
@@ -1329,14 +1337,6 @@
       "onboard_time": 1736922259,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2888254,
-      "num": 2888254,
-      "word": "惠英红脸上缝了89针",
-      "onboard_time": 1739585840,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 2863170,

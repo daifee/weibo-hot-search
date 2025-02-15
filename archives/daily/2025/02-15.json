@@ -1,10 +1,10 @@
 {
   "startTime": 1739550405629,
-  "endTime": 1739587844274,
+  "endTime": 1739588400401,
   "band_list": [
     {
-      "raw_hot": 2888254,
-      "num": 2888254,
+      "raw_hot": 2975426,
+      "num": 2975426,
       "word": "惠英红脸上缝了89针",
       "onboard_time": 1739585840,
       "rank": 0,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 660140,
-      "num": 286556,
+      "num": 339301,
       "word": "男子利用15分钟内免停车费逃费71次",
       "onboard_time": 1739578337,
       "rank": 21,
@@ -129,6 +129,14 @@
       "onboard_time": 1739582838,
       "rank": 17,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 637647,
+      "num": 446180,
+      "word": "王毅说外媒可以找Deepseek翻译这句话",
+      "onboard_time": 1739583259,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 631680,
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 467877,
-      "num": 287547,
+      "num": 307279,
       "word": "梁王拆队",
       "onboard_time": 1739578098,
       "rank": 11,
@@ -187,20 +195,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 446180,
-      "num": 446180,
-      "word": "王毅说外媒可以找Deepseek翻译这句话",
-      "onboard_time": 1739583259,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 435367,
       "num": 197387,
       "word": "七旬董事长猥亵面试女子没道歉赔偿",
       "onboard_time": 1739559015,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 426968,
+      "num": 354920,
+      "word": "吴尊疑似被贴脸开大",
+      "onboard_time": 1739587159,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 412493,
@@ -387,20 +395,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 258767,
-      "num": 258767,
-      "word": "吴尊疑似被贴脸开大",
-      "onboard_time": 1739587159,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 255070,
       "num": 255070,
       "word": "失业没工作瞒着爸妈躺出租屋的一天",
       "onboard_time": 1739585840,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 247154,
+      "num": 247154,
+      "word": "哪吒票房",
+      "onboard_time": 1739584338,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 236025,
@@ -411,12 +419,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 229884,
-      "num": 229884,
-      "word": "哪吒票房",
-      "onboard_time": 1739584338,
-      "rank": 42,
-      "category": "电影"
+      "raw_hot": 228973,
+      "num": 401900,
+      "word": "吴敬平炮轰WTT避重就轻",
+      "onboard_time": 1739587520,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 226838,
@@ -483,20 +491,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 197130,
-      "num": 280146,
-      "word": "吴敬平炮轰WTT避重就轻",
-      "onboard_time": 1739587520,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 182358,
       "num": 182358,
       "word": "哪吒骑猪敖丙骑猪",
       "onboard_time": 1739577196,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 179792,
+      "num": 343073,
+      "word": "王鹤棣上场",
+      "onboard_time": 1739588120,
+      "rank": 19,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 173861,
@@ -651,12 +659,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134202,
+      "num": 147963,
+      "word": "胡兵不语只是一味年轻",
+      "onboard_time": 1739587820,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131421,
       "num": 131421,
       "word": "刘梓晨相柳part来了",
       "onboard_time": 1739541505,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124552,
+      "num": 124552,
+      "word": "陪伴八年的阿姨辞职店主含泪道别",
+      "onboard_time": 1739587520,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123183,
@@ -673,14 +697,6 @@
       "onboard_time": 1739514141,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 119579,
-      "num": 119579,
-      "word": "陪伴八年的阿姨辞职店主含泪道别",
-      "onboard_time": 1739587520,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119452,
@@ -700,7 +716,7 @@
     },
     {
       "raw_hot": 118514,
-      "num": 118514,
+      "num": 123132,
       "word": "黄金回收价格是不是越高越好",
       "onboard_time": 1739584279,
       "rank": 49,
@@ -769,6 +785,14 @@
       "onboard_time": 1739555894,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 100436,
+      "num": 464456,
+      "word": "王毅三句古话回应美国打压",
+      "onboard_time": 1739586980,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 97526,
@@ -843,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85945,
+      "num": 447031,
+      "word": "为什么不建议打工人周末早起",
+      "onboard_time": 1739587400,
+      "rank": 14,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 84599,
       "num": 84599,
       "word": "演员请就位 刘品言",
@@ -857,14 +889,6 @@
       "onboard_time": 1739587700,
       "rank": 36,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 81026,
-      "num": 108998,
-      "word": "胡兵不语只是一味年轻",
-      "onboard_time": 1739587820,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 78488,
@@ -889,14 +913,6 @@
       "onboard_time": 1739525362,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 74093,
-      "num": 464456,
-      "word": "王毅三句古话回应美国打压",
-      "onboard_time": 1739586980,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 66306,
@@ -952,6 +968,14 @@
       "word": "饺子说哪吒2最精彩的打斗都没出现",
       "onboard_time": 1739575635,
       "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 52060,
+      "num": 230743,
+      "word": "义乌老板哪吒发箍预定量超20万个",
+      "onboard_time": 1739587098,
+      "rank": 29,
       "category": "电影"
     },
     {
@@ -1043,14 +1067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 30174,
-      "num": 447031,
-      "word": "为什么不建议打工人周末早起",
-      "onboard_time": 1739587400,
-      "rank": 14,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 28942,
       "num": 380037,
       "word": "哈尔滨亚冬会中国队登顶金牌榜",
@@ -1065,14 +1081,6 @@
       "onboard_time": 1739558353,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27961,
-      "num": 230743,
-      "word": "义乌老板哪吒发箍预定量超20万个",
-      "onboard_time": 1739587098,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 23748,
@@ -1129,6 +1137,14 @@
       "onboard_time": 1739561232,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 9731,
+      "num": 479936,
+      "word": "只此青绿惊艳海外观众",
+      "onboard_time": 1739544142,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9720,
