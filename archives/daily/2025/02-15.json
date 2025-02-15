@@ -1,7 +1,15 @@
 {
   "startTime": 1739550405629,
-  "endTime": 1739584611424,
+  "endTime": 1739587844274,
   "band_list": [
+    {
+      "raw_hot": 2888254,
+      "num": 2888254,
+      "word": "惠英红脸上缝了89针",
+      "onboard_time": 1739585840,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 2090509,
       "num": 2090509,
@@ -52,11 +60,19 @@
     },
     {
       "raw_hot": 944023,
-      "num": 265038,
+      "num": 467702,
       "word": "齐思钧女朋友参加综艺",
       "onboard_time": 1739581578,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 896374,
+      "num": 460203,
+      "word": "曝湖南某餐饮品牌厨房加工穿山甲",
+      "onboard_time": 1739584338,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 819878,
@@ -73,6 +89,14 @@
       "onboard_time": 1739537602,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 744921,
+      "num": 744921,
+      "word": "樊振东陈梦做了别人不敢做的事",
+      "onboard_time": 1739585660,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 702092,
@@ -92,27 +116,43 @@
     },
     {
       "raw_hot": 660140,
-      "num": 210059,
+      "num": 286556,
       "word": "男子利用15分钟内免停车费逃费71次",
       "onboard_time": 1739578337,
       "rank": 21,
       "category": "民生新闻"
     },
     {
+      "raw_hot": 642160,
+      "num": 456601,
+      "word": "潘宏拒绝回应中国小动物保护协会辟谣",
+      "onboard_time": 1739582838,
+      "rank": 17,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 631680,
-      "num": 230998,
+      "num": 395688,
       "word": "最萌申小豹配音演员曝光",
       "onboard_time": 1739581279,
       "rank": 10,
       "category": "电影"
     },
     {
-      "raw_hot": 527142,
-      "num": 527142,
+      "raw_hot": 531274,
+      "num": 531274,
       "word": "复旦教授称婚姻是最大的幸福来源",
       "onboard_time": 1739581279,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 529906,
+      "num": 450593,
+      "word": "3岁吒儿被外国人认识了",
+      "onboard_time": 1739583978,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 516240,
@@ -123,8 +163,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 473690,
+      "num": 473690,
+      "word": "中国人从来不信邪不怕鬼",
+      "onboard_time": 1739581938,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 467877,
-      "num": 226485,
+      "num": 287547,
       "word": "梁王拆队",
       "onboard_time": 1739578098,
       "rank": 11,
@@ -139,11 +187,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 446180,
+      "num": 446180,
+      "word": "王毅说外媒可以找Deepseek翻译这句话",
+      "onboard_time": 1739583259,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 435367,
       "num": 197387,
       "word": "七旬董事长猥亵面试女子没道歉赔偿",
       "onboard_time": 1739559015,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 412493,
+      "num": 412493,
+      "word": "男子潜入前女友男友家找出轨证据",
+      "onboard_time": 1739583199,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -179,20 +243,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 365752,
-      "num": 210773,
-      "word": "潘宏拒绝回应中国小动物保护协会辟谣",
-      "onboard_time": 1739582838,
-      "rank": 17,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 361233,
       "num": 361233,
       "word": "男子近九千报专升本最后成肄业",
       "onboard_time": 1739547623,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 354632,
+      "num": 354632,
+      "word": "金巧巧迟到",
+      "onboard_time": 1739583320,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 353399,
@@ -219,22 +283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 342724,
-      "num": 199009,
-      "word": "金巧巧迟到",
-      "onboard_time": 1739583320,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 337491,
-      "num": 191956,
-      "word": "王毅说外媒可以找Deepseek翻译这句话",
-      "onboard_time": 1739583259,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 336912,
       "num": 214273,
       "word": "周深伦敦演唱会取消后现身致歉",
@@ -244,7 +292,7 @@
     },
     {
       "raw_hot": 305633,
-      "num": 209528,
+      "num": 240567,
       "word": "哪吒2再破108亿",
       "onboard_time": 1739577076,
       "rank": 24,
@@ -260,7 +308,7 @@
     },
     {
       "raw_hot": 288990,
-      "num": 288990,
+      "num": 466699,
       "word": "中部六省省会城市定位全部出炉",
       "onboard_time": 1739579478,
       "rank": 5,
@@ -299,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 274362,
+      "num": 274362,
+      "word": "费曼和杨阳洋过情人节",
+      "onboard_time": 1739581880,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 272657,
       "num": 155255,
       "word": "周深",
@@ -331,12 +387,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 258767,
+      "num": 258767,
+      "word": "吴尊疑似被贴脸开大",
+      "onboard_time": 1739587159,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 255070,
+      "num": 255070,
+      "word": "失业没工作瞒着爸妈躺出租屋的一天",
+      "onboard_time": 1739585840,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 236025,
       "num": 183507,
       "word": "广东一地烧炮出意外多人从高空跌落",
       "onboard_time": 1739552478,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 229884,
+      "num": 229884,
+      "word": "哪吒票房",
+      "onboard_time": 1739584338,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 226838,
@@ -387,20 +467,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 206355,
-      "num": 194777,
-      "word": "费曼和杨阳洋过情人节",
-      "onboard_time": 1739581880,
+      "raw_hot": 207957,
+      "num": 207957,
+      "word": "新疆震感",
+      "onboard_time": 1739585719,
       "rank": 33,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 198730,
-      "num": 198730,
-      "word": "曝湖南某餐饮品牌厨房加工穿山甲",
-      "onboard_time": 1739584338,
-      "rank": 17,
-      "category": "民生新闻"
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 197906,
@@ -411,20 +483,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192904,
-      "num": 206722,
-      "word": "3岁吒儿被外国人认识了",
-      "onboard_time": 1739583978,
-      "rank": 9,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 192535,
-      "num": 210606,
-      "word": "男子潜入前女友男友家找出轨证据",
-      "onboard_time": 1739583199,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 197130,
+      "num": 280146,
+      "word": "吴敬平炮轰WTT避重就轻",
+      "onboard_time": 1739587520,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 182358,
@@ -441,6 +505,14 @@
       "onboard_time": 1739580259,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 173668,
+      "num": 173668,
+      "word": "家长称日本一儿童绘本露女性内裤",
+      "onboard_time": 1739585660,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172849,
@@ -519,14 +591,6 @@
       "num": 141168,
       "word": "未来至少一周全美无哪吒2IMAX排片",
       "onboard_time": 1739577076,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 140612,
-      "num": 140612,
-      "word": "哪吒票房",
-      "onboard_time": 1739584338,
       "rank": 42,
       "category": "电影"
     },
@@ -611,12 +675,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 120116,
-      "num": 120116,
-      "word": "中国人从来不信邪不怕鬼",
-      "onboard_time": 1739581938,
+      "raw_hot": 119579,
+      "num": 119579,
+      "word": "陪伴八年的阿姨辞职店主含泪道别",
+      "onboard_time": 1739587520,
       "rank": 45,
-      "category": "国际时政"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119452,
@@ -633,6 +697,14 @@
       "onboard_time": 1739582960,
       "rank": 19,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 118514,
+      "num": 118514,
+      "word": "黄金回收价格是不是越高越好",
+      "onboard_time": 1739584279,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 117852,
@@ -731,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94233,
+      "num": 275985,
+      "word": "后期梁王依然有望携手出战",
+      "onboard_time": 1739585120,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93969,
       "num": 108804,
       "word": "世界之外",
@@ -771,6 +851,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 81451,
+      "num": 174024,
+      "word": "百万网红两个小段关闭评论区",
+      "onboard_time": 1739587700,
+      "rank": 36,
+      "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 81026,
+      "num": 108998,
+      "word": "胡兵不语只是一味年轻",
+      "onboard_time": 1739587820,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78488,
       "num": 78488,
       "word": "哪吒2全球动画电影票房榜第二",
@@ -795,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74093,
+      "num": 464456,
+      "word": "王毅三句古话回应美国打压",
+      "onboard_time": 1739586980,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 66306,
       "num": 66306,
       "word": "单依纯新歌",
@@ -809,14 +913,6 @@
       "onboard_time": 1739551337,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 60458,
-      "num": 94003,
-      "word": "黄金回收价格是不是越高越好",
-      "onboard_time": 1739584279,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 60328,
@@ -947,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30174,
+      "num": 447031,
+      "word": "为什么不建议打工人周末早起",
+      "onboard_time": 1739587400,
+      "rank": 14,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 28942,
       "num": 380037,
       "word": "哈尔滨亚冬会中国队登顶金牌榜",
@@ -961,6 +1065,14 @@
       "onboard_time": 1739558353,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27961,
+      "num": 230743,
+      "word": "义乌老板哪吒发箍预定量超20万个",
+      "onboard_time": 1739587098,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 23748,
