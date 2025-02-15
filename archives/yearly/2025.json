@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1739604932670,
+  "endTime": 1739607955729,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -2299,6 +2299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2166001,
+      "num": 2166001,
+      "word": "周深哽咽致歉称最后悔也最不后悔",
+      "onboard_time": 1739603418,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 2163783,
       "num": 756368,
       "word": "张雪峰一个口误公司春节放假23天",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1738242139,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2128275,
-      "num": 1486365,
-      "word": "敖瑞鹏预告红包",
-      "onboard_time": 1738039278,
-      "rank": 4,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

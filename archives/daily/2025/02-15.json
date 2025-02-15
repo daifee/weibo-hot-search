@@ -1,6 +1,6 @@
 {
   "startTime": 1739550405629,
-  "endTime": 1739604932670,
+  "endTime": 1739607955729,
   "band_list": [
     {
       "raw_hot": 2975426,
@@ -9,6 +9,14 @@
       "onboard_time": 1739585840,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2166001,
+      "num": 2166001,
+      "word": "周深哽咽致歉称最后悔也最不后悔",
+      "onboard_time": 1739603418,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 2090509,
@@ -75,12 +83,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1304574,
+      "num": 1003819,
+      "word": "哪吒2冲击TOP10",
+      "onboard_time": 1739602698,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1254510,
       "num": 569526,
       "word": "姚笛被删或因合同问题",
       "onboard_time": 1739578098,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1214610,
+      "num": 1214610,
+      "word": "警方通报无名尸体确认为命案逃犯",
+      "onboard_time": 1739606840,
+      "rank": 1,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1199965,
@@ -115,12 +139,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 912479,
-      "num": 608522,
-      "word": "周深哽咽致歉称最后悔也最不后悔",
-      "onboard_time": 1739603418,
-      "rank": 30,
-      "category": "演出"
+      "raw_hot": 896595,
+      "num": 896595,
+      "word": "南宁一高中老师被举报性侵学生",
+      "onboard_time": 1739602818,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 896374,
@@ -128,14 +152,6 @@
       "word": "曝湖南某餐饮品牌厨房加工穿山甲",
       "onboard_time": 1739584338,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 875438,
-      "num": 875438,
-      "word": "南宁一高中老师被举报性侵学生",
-      "onboard_time": 1739602818,
-      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -148,7 +164,7 @@
     },
     {
       "raw_hot": 811622,
-      "num": 259407,
+      "num": 395722,
       "word": "河南170万玛莎拉蒂终被套圈成功",
       "onboard_time": 1739602999,
       "rank": 10,
@@ -156,11 +172,19 @@
     },
     {
       "raw_hot": 807087,
-      "num": 283328,
+      "num": 364666,
       "word": "哪吒2火了美媒问谁还需要好莱坞",
       "onboard_time": 1739600359,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 776210,
+      "num": 941431,
+      "word": "DeepSeek翻译他强任他强清风拂山岗",
+      "onboard_time": 1739605459,
+      "rank": 4,
+      "category": "电竞,游戏"
     },
     {
       "raw_hot": 750063,
@@ -187,14 +211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 720717,
-      "num": 480505,
-      "word": "哪吒2冲击TOP10",
-      "onboard_time": 1739602698,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
       "raw_hot": 702092,
       "num": 365134,
       "word": "演员请就位太可怕了",
@@ -217,6 +233,14 @@
       "onboard_time": 1739578337,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 659112,
+      "num": 413846,
+      "word": "哪吒2已破111亿",
+      "onboard_time": 1739604918,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 642160,
@@ -267,6 +291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 536728,
+      "num": 202725,
+      "word": "长月烬明飙升榜第一",
+      "onboard_time": 1739604259,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 531274,
       "num": 531274,
       "word": "复旦教授称婚姻是最大的幸福来源",
@@ -315,10 +347,26 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 439852,
+      "num": 380274,
+      "word": "家长拒订牛奶老师怒怼有事别求",
+      "onboard_time": 1739604259,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 435367,
       "num": 197387,
       "word": "七旬董事长猥亵面试女子没道歉赔偿",
       "onboard_time": 1739559015,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 420469,
+      "num": 420469,
+      "word": "安徽老人带80万到苏州买金称是拆迁款",
+      "onboard_time": 1739604318,
       "rank": 19,
       "category": "民生新闻"
     },
@@ -523,6 +571,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 284614,
+      "num": 284614,
+      "word": "南宁警方回应老师被举报性侵学生",
+      "onboard_time": 1739605939,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 284297,
       "num": 209286,
       "word": "费曼杨阳洋合照",
@@ -627,12 +683,12 @@
       "category": "民生新闻,电影"
     },
     {
-      "raw_hot": 253588,
-      "num": 202725,
-      "word": "长月烬明飙升榜第一",
-      "onboard_time": 1739604259,
-      "rank": 23,
-      "category": "剧集"
+      "raw_hot": 251825,
+      "num": 251825,
+      "word": "泽连斯基拒绝特朗普",
+      "onboard_time": 1739604980,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 250163,
@@ -699,14 +755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 225274,
-      "num": 225274,
-      "word": "家长拒订牛奶老师怒怼有事别求",
-      "onboard_time": 1739604259,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 222507,
       "num": 222507,
       "word": "张碧晨难哄OST晚点上线",
@@ -745,6 +793,14 @@
       "onboard_time": 1739596219,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211127,
+      "num": 211127,
+      "word": "若WTT让樊振东从资格赛打起荒谬至极",
+      "onboard_time": 1739600420,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 210343,
@@ -803,28 +859,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 193857,
-      "num": 222265,
-      "word": "陈哲远直播一下",
-      "onboard_time": 1739604019,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 191041,
-      "num": 188141,
+      "raw_hot": 195263,
+      "num": 195263,
       "word": "申小豹配音演员说同学们都很惊讶",
       "onboard_time": 1739599818,
       "rank": 34,
       "category": "电影"
     },
     {
-      "raw_hot": 190563,
-      "num": 160543,
-      "word": "若WTT让樊振东从资格赛打起荒谬至极",
-      "onboard_time": 1739600420,
-      "rank": 44,
-      "category": "体育"
+      "raw_hot": 193857,
+      "num": 222265,
+      "word": "陈哲远直播一下",
+      "onboard_time": 1739604019,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 185364,
@@ -857,6 +905,14 @@
       "onboard_time": 1739596339,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174065,
+      "num": 199329,
+      "word": "男子复合后借200万准丈人报警",
+      "onboard_time": 1739606840,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173861,
@@ -939,6 +995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162045,
+      "num": 140168,
+      "word": "向5岁认识的女孩求婚了",
+      "onboard_time": 1739607499,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 160991,
       "num": 160991,
       "word": "郑雅贤截图回复粉丝",
@@ -960,6 +1024,14 @@
       "word": "胡兵不语只是一味年轻",
       "onboard_time": 1739587820,
       "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 158951,
+      "num": 158951,
+      "word": "时代峰峻官方店入驻小芒",
+      "onboard_time": 1739607440,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -1017,6 +1089,14 @@
       "onboard_time": 1739587520,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151708,
+      "num": 188600,
+      "word": "吴敬平炮轰国乒被资本裹挟",
+      "onboard_time": 1739607019,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 149568,
@@ -1147,6 +1227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 137139,
+      "num": 137139,
+      "word": "谁家cp坟头谈心啊",
+      "onboard_time": 1739604980,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135505,
       "num": 135505,
       "word": "杨紫李祯明制汉服长衫路透",
@@ -1169,6 +1257,14 @@
       "onboard_time": 1739531783,
       "rank": 31,
       "category": "网红"
+    },
+    {
+      "raw_hot": 134987,
+      "num": 129407,
+      "word": "孟子义短发vs长发",
+      "onboard_time": 1739607499,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 134385,
@@ -1203,6 +1299,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129583,
+      "num": 129583,
+      "word": "第五人格弓箭手",
+      "onboard_time": 1739605038,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 129067,
+      "num": 129067,
+      "word": "男子为母亲奔丧后确诊病毒性脑膜炎",
+      "onboard_time": 1739605699,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127723,
       "num": 127723,
       "word": "河南一澡堂垮塌有人不幸死亡",
@@ -1227,12 +1339,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122179,
+      "num": 122179,
+      "word": "一葱油饼老板因跳投卖饼走红",
+      "onboard_time": 1739604918,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122052,
       "num": 122052,
       "word": "贺美琦加入时代峰峻",
       "onboard_time": 1739514141,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121120,
+      "num": 121120,
+      "word": "余承恩高寒好歹毒的衣服",
+      "onboard_time": 1739605638,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 121003,
@@ -1331,12 +1459,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111358,
+      "num": 111358,
+      "word": "林允不语只一味发18宫格",
+      "onboard_time": 1739607860,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109718,
       "num": 109718,
       "word": "白色橄榄树大结局是he还是be",
       "onboard_time": 1739601859,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108742,
+      "num": 108742,
+      "word": "李宇春用rap回应质疑",
+      "onboard_time": 1739607739,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 108631,
@@ -1355,6 +1499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106775,
+      "num": 106775,
+      "word": "第五人格",
+      "onboard_time": 1739605038,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 106637,
       "num": 108766,
       "word": "演员请就位播了",
@@ -1369,6 +1521,14 @@
       "onboard_time": 1739595920,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 105253,
+      "num": 105253,
+      "word": "山东男子驱车600公里到河南套圈",
+      "onboard_time": 1739607379,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103605,
@@ -1707,12 +1867,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 41143,
-      "num": 221177,
-      "word": "安徽老人带80万到苏州买金称是拆迁款",
-      "onboard_time": 1739604318,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 41324,
+      "num": 367461,
+      "word": "三个细节看哪吒2官方翻译好在哪",
+      "onboard_time": 1739606598,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 38715,
