@@ -1,6 +1,6 @@
 {
   "startTime": 1739550405629,
-  "endTime": 1739608731228,
+  "endTime": 1739611371358,
   "band_list": [
     {
       "raw_hot": 2975426,
@@ -115,6 +115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1122260,
+      "num": 496336,
+      "word": "余莺儿戏份被剪了",
+      "onboard_time": 1739610439,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1045884,
       "num": 259310,
       "word": "超90%成年人体内携带接吻病毒",
@@ -123,12 +131,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 984710,
+      "num": 302918,
+      "word": "陈紫函戴向宇cos敖闰敖光",
+      "onboard_time": 1739609780,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 970984,
       "num": 455957,
       "word": "吴尊疑似被贴脸开大",
       "onboard_time": 1739587159,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 951141,
+      "num": 951141,
+      "word": "DeepSeek翻译他强任他强清风拂山岗",
+      "onboard_time": 1739605459,
+      "rank": 4,
+      "category": "电竞,游戏"
     },
     {
       "raw_hot": 944023,
@@ -179,12 +203,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 776210,
-      "num": 941431,
-      "word": "DeepSeek翻译他强任他强清风拂山岗",
-      "onboard_time": 1739605459,
-      "rank": 4,
-      "category": "电竞,游戏"
+      "raw_hot": 775586,
+      "num": 736057,
+      "word": "哪吒2已破111亿",
+      "onboard_time": 1739604918,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 750063,
@@ -209,14 +233,6 @@
       "onboard_time": 1739585660,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 736057,
-      "num": 736057,
-      "word": "哪吒2已破111亿",
-      "onboard_time": 1739604918,
-      "rank": 10,
-      "category": "电影"
     },
     {
       "raw_hot": 702092,
@@ -283,6 +299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 566286,
+      "num": 239487,
+      "word": "哪吒2感谢225000000位观众",
+      "onboard_time": 1739610082,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 553564,
       "num": 285006,
       "word": "哪吒2再破109亿",
@@ -292,7 +316,7 @@
     },
     {
       "raw_hot": 536728,
-      "num": 202725,
+      "num": 220139,
       "word": "长月烬明飙升榜第一",
       "onboard_time": 1739604259,
       "rank": 23,
@@ -451,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 353611,
+      "num": 235005,
+      "word": "陈哲远剪发不语只是一味苦笑",
+      "onboard_time": 1739609661,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 353399,
       "num": 283449,
       "word": "张嘉元道歉",
@@ -475,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 342825,
+      "num": 216521,
+      "word": "于正回应没签董思成",
+      "onboard_time": 1739610199,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 336912,
       "num": 214273,
       "word": "周深伦敦演唱会取消后现身致歉",
@@ -489,6 +529,14 @@
       "onboard_time": 1739588720,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 324935,
+      "num": 324935,
+      "word": "南宁警方回应老师被举报性侵学生",
+      "onboard_time": 1739605939,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 311087,
@@ -539,6 +587,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 300907,
+      "num": 203397,
+      "word": "宋妍霏浪姐6挡脸上班",
+      "onboard_time": 1739607979,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 290400,
       "num": 290400,
       "word": "下周开学",
@@ -569,14 +625,6 @@
       "onboard_time": 1739595920,
       "rank": 37,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 284614,
-      "num": 284614,
-      "word": "南宁警方回应老师被举报性侵学生",
-      "onboard_time": 1739605939,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 284297,
@@ -617,6 +665,14 @@
       "onboard_time": 1739581880,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 273996,
+      "num": 273996,
+      "word": "男子复合后借200万准丈人报警",
+      "onboard_time": 1739606840,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 272657,
@@ -713,14 +769,6 @@
       "onboard_time": 1739598259,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 237464,
-      "num": 237464,
-      "word": "男子复合后借200万准丈人报警",
-      "onboard_time": 1739606840,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 236025,
@@ -825,14 +873,6 @@
       "onboard_time": 1739589619,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 209814,
-      "num": 187908,
-      "word": "宋妍霏浪姐6挡脸上班",
-      "onboard_time": 1739607979,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 209120,
@@ -940,7 +980,7 @@
     },
     {
       "raw_hot": 173949,
-      "num": 140168,
+      "num": 153469,
       "word": "向5岁认识的女孩求婚了",
       "onboard_time": 1739607499,
       "rank": 30,
@@ -1059,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158854,
+      "num": 134282,
+      "word": "唐嫣赵又廷杀青捧花照",
+      "onboard_time": 1739608759,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158562,
       "num": 148551,
       "word": "陈哲远梁洁情人节cos朱迪尼克",
@@ -1129,6 +1177,14 @@
       "onboard_time": 1739588959,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148108,
+      "num": 123173,
+      "word": "饺子导演小学生照片曝光",
+      "onboard_time": 1739608700,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 146644,
@@ -1435,6 +1491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115187,
+      "num": 115187,
+      "word": "情敌是顶级绿茶有多气人",
+      "onboard_time": 1739611159,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114381,
       "num": 114381,
       "word": "谁在为哪吒2贡献票房",
@@ -1505,6 +1569,22 @@
       "onboard_time": 1739556614,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107756,
+      "num": 117715,
+      "word": "南京一金店排队4小时起步",
+      "onboard_time": 1739608581,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107195,
+      "num": 107195,
+      "word": "睡眠不好的人建议晚餐补点钾",
+      "onboard_time": 1739610320,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 106775,
@@ -1667,20 +1747,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 91651,
-      "num": 91651,
-      "word": "南京一金店排队4小时起步",
-      "onboard_time": 1739608581,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 91407,
+      "num": 257816,
+      "word": "哪吒配音演员说配完吒儿失声了",
+      "onboard_time": 1739610019,
+      "rank": 19,
+      "category": "电影"
     },
     {
-      "raw_hot": 90098,
-      "num": 90098,
-      "word": "饺子导演小学生照片曝光",
-      "onboard_time": 1739608700,
-      "rank": 48,
-      "category": "电影"
+      "raw_hot": 86762,
+      "num": 293738,
+      "word": "男子闯红灯被撞飞也得负全责",
+      "onboard_time": 1739610499,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86209,
@@ -1753,6 +1833,14 @@
       "onboard_time": 1739588660,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69406,
+      "num": 267277,
+      "word": "多方回应导游用激光笔照射文物",
+      "onboard_time": 1739610560,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69256,
@@ -1867,6 +1955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48193,
+      "num": 93719,
+      "word": "谢谢每一位志愿者",
+      "onboard_time": 1739609780,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45320,
       "num": 73861,
       "word": "官方回应多人烧炮被鞭炮炸伤",
@@ -1939,6 +2035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 35381,
+      "num": 313523,
+      "word": "重庆燃气抄表混乱何时休",
+      "onboard_time": 1739610620,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35126,
       "num": 73803,
       "word": "邓为发糖",
@@ -1968,6 +2072,14 @@
       "word": "赵磊给粉丝发手写信",
       "onboard_time": 1739558414,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 30631,
+      "num": 114526,
+      "word": "王鹤棣宋雨琦合影",
+      "onboard_time": 1739611100,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -2025,6 +2137,14 @@
       "onboard_time": 1739593219,
       "rank": 19,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 20862,
+      "num": 531823,
+      "word": "歌词海报送给开学的你",
+      "onboard_time": 1739610860,
+      "rank": 2,
+      "category": "教育"
     },
     {
       "raw_hot": 18628,
