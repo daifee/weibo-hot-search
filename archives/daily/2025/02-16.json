@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739654418850,
+  "endTime": 1739655338815,
   "band_list": [
     {
       "raw_hot": 3115726,
@@ -539,6 +539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 24209,
+      "num": 18606,
+      "word": "张继科回应吴敬平博文",
+      "onboard_time": 1739655251,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 22736,
       "num": 431841,
       "word": "文化中国行文博日历",
@@ -587,20 +595,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 13346,
+      "num": 44087,
+      "word": "饺子说哪吒承载了普通人的梦想",
+      "onboard_time": 1739653691,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 12210,
       "num": 161836,
       "word": "飞天火壶演出哪吒闹海既视感",
       "onboard_time": 1739641815,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 7400,
-      "num": 44087,
-      "word": "饺子说哪吒承载了普通人的梦想",
-      "onboard_time": 1739653691,
-      "rank": 9,
-      "category": "电影"
     }
   ],
   "hotgov_list": [
