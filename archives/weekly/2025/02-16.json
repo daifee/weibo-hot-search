@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739651726842,
+  "endTime": 1739654418850,
   "band_list": [
     {
       "raw_hot": 3115726,
@@ -593,6 +593,14 @@
       "onboard_time": 1739641815,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7400,
+      "num": 44087,
+      "word": "饺子说哪吒承载了普通人的梦想",
+      "onboard_time": 1739653691,
+      "rank": 9,
+      "category": "电影"
     }
   ],
   "hotgov_list": [
