@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739640939991,
+  "endTime": 1739644051589,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -17827,6 +17827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231191,
+      "num": 231191,
+      "word": "来财",
+      "onboard_time": 1739638698,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 231148,
       "num": 200734,
       "word": "普通人千万不要提前焦虑",
@@ -20833,14 +20841,6 @@
       "onboard_time": 1738898487,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 204546,
-      "num": 204546,
-      "word": "来财",
-      "onboard_time": 1739638698,
-      "rank": 13,
-      "category": "音乐"
     },
     {
       "raw_hot": 204516,
@@ -27817,6 +27817,14 @@
       "onboard_time": 1739257940,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161827,
+      "num": 161827,
+      "word": "终于理解陈哲远为什么很难走出来了",
+      "onboard_time": 1739641335,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 161780,
@@ -40203,6 +40211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70043,
+      "num": 70043,
+      "word": "李蠕蠕模仿哪吒2全明星",
+      "onboard_time": 1739640435,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 70034,
       "num": 169312,
       "word": "男子驾车47小时后终于返回广东",
@@ -40721,14 +40737,6 @@
       "onboard_time": 1738823243,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 64482,
-      "num": 64482,
-      "word": "李蠕蠕模仿哪吒2全明星",
-      "onboard_time": 1739640435,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 64434,
@@ -42681,6 +42689,14 @@
       "onboard_time": 1738988788,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 48762,
+      "num": 48762,
+      "word": "孙龙男子500米金牌",
+      "onboard_time": 1739642235,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 48734,
@@ -45091,6 +45107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28789,
+      "num": 40258,
+      "word": "YOASOBI上海演唱会",
+      "onboard_time": 1739643973,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 28656,
       "num": 423748,
       "word": "爱玩游戏不等同于沉迷游戏",
@@ -47425,6 +47449,14 @@
       "onboard_time": 1738827202,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 12210,
+      "num": 161836,
+      "word": "飞天火壶演出哪吒闹海既视感",
+      "onboard_time": 1739641815,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12148,
