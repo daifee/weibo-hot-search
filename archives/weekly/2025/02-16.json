@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739712212640,
+  "endTime": 1739712901752,
   "band_list": [
     {
       "raw_hot": 17381826,
@@ -31,6 +31,14 @@
       "num": 1070739,
       "word": "金赛纶 金秀贤",
       "onboard_time": 1739708306,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2656641,
+      "num": 739855,
+      "word": "金赛纶最后ins发了文彬",
+      "onboard_time": 1739712443,
       "rank": 5,
       "category": "艺人"
     },
@@ -227,6 +235,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 856547,
+      "num": 723757,
+      "word": "哪吒2突破119亿",
+      "onboard_time": 1739709744,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 842300,
       "num": 316589,
       "word": "我是哪吒2千万票房被批诈骗",
@@ -241,14 +257,6 @@
       "onboard_time": 1739668698,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 828889,
-      "num": 269709,
-      "word": "哪吒2突破119亿",
-      "onboard_time": 1739709744,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 825301,
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 791095,
-      "num": 284153,
+      "num": 553937,
       "word": "爱在高中",
       "onboard_time": 1739708664,
       "rank": 23,
@@ -313,6 +321,14 @@
       "onboard_time": 1739631800,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 735258,
+      "num": 453811,
+      "word": "曝光12亿贪腐案印度记者惨死化粪池",
+      "onboard_time": 1739711907,
+      "rank": 20,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 725650,
@@ -404,7 +420,7 @@
     },
     {
       "raw_hot": 595679,
-      "num": 271078,
+      "num": 356664,
       "word": "冯小刚曾向饺子发出邀约",
       "onboard_time": 1739702179,
       "rank": 30,
@@ -419,20 +435,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 588032,
+      "num": 450248,
+      "word": "长期不吃早餐身体的危害",
+      "onboard_time": 1739707460,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 575293,
       "num": 434148,
       "word": "商家回应民宿里有带血的HIV试纸",
       "onboard_time": 1739693418,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 551134,
-      "num": 240023,
-      "word": "曝光12亿贪腐案印度记者惨死化粪池",
-      "onboard_time": 1739711907,
-      "rank": 20,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 548843,
@@ -491,14 +507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 511434,
-      "num": 274880,
-      "word": "长期不吃早餐身体的危害",
-      "onboard_time": 1739707460,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 500760,
       "num": 1007461,
       "word": "郑州暴雨救祖孙3人的菜刀哥病危",
@@ -523,20 +531,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 488654,
+      "num": 488654,
+      "word": "小欢喜李庚希周奇郭子凡鼓励吴施乐",
+      "onboard_time": 1739709325,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 475235,
       "num": 445957,
       "word": "卫诗雅结婚",
       "onboard_time": 1739698878,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 473441,
-      "num": 265701,
-      "word": "小欢喜李庚希周奇郭子凡鼓励吴施乐",
-      "onboard_time": 1739709325,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 471235,
@@ -553,6 +561,22 @@
       "onboard_time": 1739633002,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 468708,
+      "num": 468708,
+      "word": "珂润直播",
+      "onboard_time": 1739708306,
+      "rank": 35,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 467891,
+      "num": 467891,
+      "word": "哪吒2票房一天一个新突破",
+      "onboard_time": 1739711065,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 465785,
@@ -651,20 +675,20 @@
       "category": "民生新闻,科学科普"
     },
     {
-      "raw_hot": 428022,
-      "num": 237118,
-      "word": "哪吒2票房一天一个新突破",
-      "onboard_time": 1739711065,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 426339,
       "num": 340039,
       "word": "张紫宁喊话猫眼演出",
       "onboard_time": 1739700739,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 420482,
+      "num": 420482,
+      "word": "徐明浩的A来了",
+      "onboard_time": 1739711545,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 419872,
@@ -811,12 +835,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 354194,
-      "num": 306112,
-      "word": "珂润直播",
-      "onboard_time": 1739708306,
-      "rank": 35,
-      "category": "美妆"
+      "raw_hot": 354955,
+      "num": 717250,
+      "word": "烟花炸伤右眼案已立为刑事案件",
+      "onboard_time": 1739711125,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 350872,
@@ -836,7 +860,7 @@
     },
     {
       "raw_hot": 340092,
-      "num": 280667,
+      "num": 468640,
       "word": "男子囤胖东来几百桶花生油卖不掉",
       "onboard_time": 1739708065,
       "rank": 16,
@@ -948,7 +972,7 @@
     },
     {
       "raw_hot": 289930,
-      "num": 280357,
+      "num": 467975,
       "word": "女幼师被害案凶手自辩有精神疾病",
       "onboard_time": 1739707579,
       "rank": 17,
@@ -1139,6 +1163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 238084,
+      "num": 238084,
+      "word": "道熙呀",
+      "onboard_time": 1739711725,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235018,
       "num": 235018,
       "word": "印度首都火车站踩踏事件现场曝光",
@@ -1153,6 +1185,14 @@
       "onboard_time": 1739662094,
       "rank": 30,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 232174,
+      "num": 232174,
+      "word": "60岁老人出现白肺鱼肝油竟是元凶",
+      "onboard_time": 1739709145,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 232061,
@@ -1179,12 +1219,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 227710,
-      "num": 214318,
-      "word": "徐明浩的A来了",
-      "onboard_time": 1739711545,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 227486,
+      "num": 468142,
+      "word": "金赛纶的人生",
+      "onboard_time": 1739712324,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 224792,
@@ -1233,14 +1273,6 @@
       "onboard_time": 1739682858,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 217749,
-      "num": 217749,
-      "word": "60岁老人出现白肺鱼肝油竟是元凶",
-      "onboard_time": 1739709145,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 216331,
@@ -1299,14 +1331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 208565,
-      "num": 208565,
-      "word": "道熙呀",
-      "onboard_time": 1739711725,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208080,
       "num": 189686,
       "word": "黄金昨夜跳水",
@@ -1345,14 +1369,6 @@
       "onboard_time": 1739701038,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 200016,
-      "num": 241670,
-      "word": "烟花炸伤右眼案已立为刑事案件",
-      "onboard_time": 1739711125,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 199889,
@@ -1409,6 +1425,14 @@
       "onboard_time": 1739694257,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194854,
+      "num": 194854,
+      "word": "特朗普称有人想拆散他和马斯克",
+      "onboard_time": 1739710465,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 194755,
@@ -1491,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187720,
+      "num": 184147,
+      "word": "胡烨韬锐评男团现状",
+      "onboard_time": 1739712505,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187499,
       "num": 187499,
       "word": "相柳蛇年上新剧了",
@@ -1521,14 +1553,6 @@
       "onboard_time": 1739690598,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 185717,
-      "num": 185717,
-      "word": "特朗普称有人想拆散他和马斯克",
-      "onboard_time": 1739710465,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 184252,
@@ -1579,6 +1603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 181676,
+      "num": 181676,
+      "word": "朱志鑫盒子里的猫第二季封面",
+      "onboard_time": 1739712623,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181564,
       "num": 181564,
       "word": "李瓒物理意义上破碎了",
@@ -1627,6 +1659,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 173572,
+      "num": 173572,
+      "word": "我的师尊是只猫",
+      "onboard_time": 1739712443,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173438,
       "num": 173438,
       "word": "赵磊不办传统婚礼",
@@ -1667,12 +1707,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 170518,
+      "num": 170518,
+      "word": "吴敬平尹肖的争论折射国乒转型之痛",
+      "onboard_time": 1739710885,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170437,
       "num": 170437,
       "word": "KPL",
       "onboard_time": 1739700858,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 169395,
+      "num": 169395,
+      "word": "哪吒2带火了一条不起眼的小巷",
+      "onboard_time": 1739711243,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 169149,
@@ -1809,14 +1865,6 @@
       "onboard_time": 1739619801,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 149114,
-      "num": 149114,
-      "word": "吴敬平尹肖的争论折射国乒转型之痛",
-      "onboard_time": 1739710885,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 147220,
@@ -2387,6 +2435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 95739,
+      "num": 712754,
+      "word": "广西零容忍打击侵害未成年人犯罪",
+      "onboard_time": 1739710825,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92672,
       "num": 92672,
       "word": "SEVENTEEN曼谷演唱会",
@@ -2515,14 +2571,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 60770,
-      "num": 252787,
-      "word": "广西零容忍打击侵害未成年人犯罪",
-      "onboard_time": 1739710825,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 60581,
       "num": 59569,
       "word": "张继科回应吴敬平博文",
@@ -2553,6 +2601,14 @@
       "onboard_time": 1739694558,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57346,
+      "num": 469247,
+      "word": "为什么周末总过得这么快",
+      "onboard_time": 1739712265,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 50775,
