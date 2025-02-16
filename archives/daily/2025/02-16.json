@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739688114666,
+  "endTime": 1739690499188,
   "band_list": [
     {
       "raw_hot": 3115726,
@@ -19,8 +19,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2168098,
-      "num": 2168098,
+      "raw_hot": 2615968,
+      "num": 2615968,
       "word": "套圈中170万玛莎拉蒂男子称想折现",
       "onboard_time": 1739685919,
       "rank": 0,
@@ -131,12 +131,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 825301,
+      "num": 429134,
+      "word": "南宁一大桥发生交通事故多人躺地",
+      "onboard_time": 1739687600,
+      "rank": 5,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 824108,
       "num": 824108,
       "word": "男子3小时花费2000元套中玛莎拉蒂",
       "onboard_time": 1739632043,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 824015,
+      "num": 286642,
+      "word": "雪碧代言",
+      "onboard_time": 1739688137,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 790797,
@@ -203,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 614312,
+      "num": 286036,
+      "word": "记者买7件100%羊绒衫一根羊绒也没",
+      "onboard_time": 1739687298,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 608663,
       "num": 317726,
       "word": "女医生疑辱骂患者不得好死",
@@ -265,6 +289,14 @@
       "onboard_time": 1739668938,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 488549,
+      "num": 336708,
+      "word": "漫城这对啃成这样",
+      "onboard_time": 1739688079,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 471235,
@@ -355,12 +387,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 402687,
-      "num": 402687,
-      "word": "南宁一大桥发生交通事故多人躺地",
-      "onboard_time": 1739687600,
-      "rank": 5,
-      "category": "突发/灾害"
+      "raw_hot": 401729,
+      "num": 285871,
+      "word": "哪吒2超117亿元",
+      "onboard_time": 1739689218,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 399593,
@@ -420,7 +452,7 @@
     },
     {
       "raw_hot": 366668,
-      "num": 216160,
+      "num": 228671,
       "word": "猫主人称罕见双面猫已去世",
       "onboard_time": 1739687359,
       "rank": 21,
@@ -507,7 +539,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 297037,
+      "raw_hot": 298212,
       "num": 297037,
       "word": "哪吒2票房",
       "onboard_time": 1739684778,
@@ -587,6 +619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 261827,
+      "num": 261827,
+      "word": "央视曝直播间廉价纯羊绒真相",
+      "onboard_time": 1739687298,
+      "rank": 48,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 259192,
       "num": 259192,
       "word": "男子酒后死亡同饮者没劝酒被判无责",
@@ -651,6 +691,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 227113,
+      "num": 227113,
+      "word": "哪吒2鹿童放大招1帧渲染40小时",
+      "onboard_time": 1739690237,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 224792,
       "num": 274446,
       "word": "校方回应老师被举报性侵",
@@ -699,20 +747,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 215764,
-      "num": 156210,
-      "word": "漫城这对啃成这样",
-      "onboard_time": 1739688079,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 215517,
       "num": 194903,
       "word": "第一次用歹毒形容一个综艺",
       "onboard_time": 1739667558,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213602,
+      "num": 213602,
+      "word": "张超评论尹肖",
+      "onboard_time": 1739689638,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 209604,
@@ -779,12 +827,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196049,
-      "num": 196049,
-      "word": "记者买7件100%羊绒衫一根羊绒也没",
-      "onboard_time": 1739687298,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 196263,
+      "num": 196263,
+      "word": "希林娜依高失声后思考换一种生活方式",
+      "onboard_time": 1739690357,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 193931,
@@ -1051,6 +1099,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 151909,
+      "num": 151909,
+      "word": "雨水节气将至建议省酸增甘饮食",
+      "onboard_time": 1739688377,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149273,
       "num": 149273,
       "word": "狗主人称潘宏歪曲事实",
@@ -1065,14 +1121,6 @@
       "onboard_time": 1739630422,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 146640,
-      "num": 146640,
-      "word": "央视曝直播间廉价纯羊绒真相",
-      "onboard_time": 1739687298,
-      "rank": 48,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 143307,
@@ -1171,6 +1219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131483,
+      "num": 131483,
+      "word": "檀健次和拖把的吻戏",
+      "onboard_time": 1739690237,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130937,
       "num": 130937,
       "word": "女子8年前买黄金为儿子准备彩礼",
@@ -1259,6 +1315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124601,
+      "num": 124601,
+      "word": "母猫生下罕见双面猫",
+      "onboard_time": 1739690299,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123521,
       "num": 123521,
       "word": "XYG羲和退役",
@@ -1275,12 +1339,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 119281,
+      "num": 119281,
+      "word": "何炅王鸥演员的信念感",
+      "onboard_time": 1739690357,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118682,
       "num": 141824,
       "word": "断念哥苏易水演我立flag",
       "onboard_time": 1739687538,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118346,
+      "num": 118346,
+      "word": "仙台有树2.0版更带感",
+      "onboard_time": 1739690058,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 116527,
+      "num": 116527,
+      "word": "虞书欣你在视频里加了什么",
+      "onboard_time": 1739688017,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 113718,
@@ -1315,6 +1403,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 105952,
+      "num": 105952,
+      "word": "林孝埈下决心学好中文",
+      "onboard_time": 1739690237,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104679,
       "num": 104679,
       "word": "开学了开学了开学了",
@@ -1347,14 +1443,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 101481,
-      "num": 101481,
-      "word": "虞书欣你在视频里加了什么",
-      "onboard_time": 1739688017,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 100694,
       "num": 100694,
       "word": "在理发店门口15分钟了不敢进去",
@@ -1376,6 +1464,22 @@
       "word": "云南7万亩油菜花已开好",
       "onboard_time": 1739668100,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99980,
+      "num": 99980,
+      "word": "EDGM对战DYG",
+      "onboard_time": 1739689758,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 97958,
+      "num": 285356,
+      "word": "蔬菜价格大跳水",
+      "onboard_time": 1739689338,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1475,6 +1579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62333,
+      "num": 228869,
+      "word": "哪吒2师徒去玉虚宫3分钟打磨半年",
+      "onboard_time": 1739689820,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 62137,
       "num": 62137,
       "word": "U20亚洲杯国足两连胜提前出线",
@@ -1489,6 +1601,14 @@
       "onboard_time": 1739655251,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 59719,
+      "num": 155133,
+      "word": "王诗晴爱情长跑14年",
+      "onboard_time": 1739689638,
+      "rank": 28,
+      "category": "时尚"
     },
     {
       "raw_hot": 59636,
@@ -1625,6 +1745,14 @@
       "onboard_time": 1739642294,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28239,
+      "num": 153778,
+      "word": "母女档高质感开箱",
+      "onboard_time": 1739689457,
+      "rank": 29,
+      "category": "时尚"
     },
     {
       "raw_hot": 26353,
