@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739720123247,
+  "endTime": 1739723108252,
   "band_list": [
     {
       "raw_hot": 17381826,
@@ -123,6 +123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1429396,
+      "num": 1429396,
+      "word": "K总官宣与女友结婚",
+      "onboard_time": 1739719340,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1376190,
       "num": 591997,
       "word": "成都除夕走失19天女子遗体被找到",
@@ -145,6 +153,14 @@
       "onboard_time": 1739707401,
       "rank": 3,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1263880,
+      "num": 1263880,
+      "word": "公积金三大调整方向持续助力安居",
+      "onboard_time": 1739720662,
+      "rank": 1,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 1257053,
@@ -481,14 +497,6 @@
       "onboard_time": 1739702179,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 589673,
-      "num": 303412,
-      "word": "K总官宣与女友结婚",
-      "onboard_time": 1739719340,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 588556,
@@ -1315,6 +1323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 238217,
+      "num": 152672,
+      "word": "哪吒2断层领跑",
+      "onboard_time": 1739719461,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 238084,
       "num": 238084,
       "word": "道熙呀",
@@ -1539,6 +1555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199487,
+      "num": 279621,
+      "word": "离开一段关系前建议先想明白的事",
+      "onboard_time": 1739720540,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199060,
       "num": 187402,
       "word": "哪吒读音难倒老外",
@@ -1569,6 +1593,14 @@
       "onboard_time": 1739709085,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 197905,
+      "num": 152577,
+      "word": "唐探1900中国影史票房TOP20",
+      "onboard_time": 1739720180,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 197376,
@@ -1931,6 +1963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162331,
+      "num": 152491,
+      "word": "权志龙综艺",
+      "onboard_time": 1739719941,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161625,
       "num": 161625,
       "word": "肖战独家大片花絮",
@@ -1969,6 +2009,14 @@
       "onboard_time": 1739679800,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156590,
+      "num": 289944,
+      "word": "王者荣耀牡丹新皮肤",
+      "onboard_time": 1739719041,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 156188,
@@ -2033,14 +2081,6 @@
       "onboard_time": 1739688377,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 150090,
-      "num": 150090,
-      "word": "哪吒2断层领跑",
-      "onboard_time": 1739719461,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 149273,
@@ -2217,6 +2257,14 @@
       "onboard_time": 1739690717,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132880,
+      "num": 132880,
+      "word": "海外观众说给哪吒2打11分",
+      "onboard_time": 1739722217,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 132765,
@@ -2443,20 +2491,20 @@
       "category": "汽车,电竞"
     },
     {
+      "raw_hot": 116969,
+      "num": 116969,
+      "word": "法国小伙来华捐622张日本侵华照片",
+      "onboard_time": 1739719402,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115770,
       "num": 285356,
       "word": "蔬菜价格大跳水",
       "onboard_time": 1739689338,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115465,
-      "num": 115465,
-      "word": "权志龙综艺",
-      "onboard_time": 1739719941,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 115377,
@@ -2497,6 +2545,14 @@
       "onboard_time": 1739683339,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113651,
+      "num": 113651,
+      "word": "中国影史年度票房最快200亿纪录",
+      "onboard_time": 1739721380,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 112901,
@@ -2579,14 +2635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105924,
-      "num": 289944,
-      "word": "王者荣耀牡丹新皮肤",
-      "onboard_time": 1739719041,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 105270,
       "num": 217080,
       "word": "摊主回应套中玛莎拉蒂男子想折现",
@@ -2633,14 +2681,6 @@
       "onboard_time": 1739665097,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 102693,
-      "num": 108395,
-      "word": "法国小伙来华捐622张日本侵华照片",
-      "onboard_time": 1739719402,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102093,
@@ -2691,6 +2731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98303,
+      "num": 102889,
+      "word": "影院回应支持哪吒2暂不排美队4",
+      "onboard_time": 1739722878,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 98225,
       "num": 141314,
       "word": "套中玛莎拉蒂男子称有一年使用权",
@@ -2713,6 +2761,14 @@
       "onboard_time": 1739710825,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95013,
+      "num": 102787,
+      "word": "那个苏什么的别打在屏幕上",
+      "onboard_time": 1739721140,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 92672,
@@ -2833,6 +2889,14 @@
       "onboard_time": 1739678001,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65493,
+      "num": 101703,
+      "word": "某暗部的少女共栖",
+      "onboard_time": 1739722819,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 62469,
