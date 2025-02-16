@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739691324509,
+  "endTime": 1739694356026,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -2537,6 +2537,14 @@
       "onboard_time": 1738646123,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1257053,
+      "num": 297062,
+      "word": "央视曝直播间廉价纯羊绒真相",
+      "onboard_time": 1739687298,
+      "rank": 48,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1256285,
@@ -6515,6 +6523,14 @@
       "category": "国际时政,国内时政"
     },
     {
+      "raw_hot": 640832,
+      "num": 640832,
+      "word": "哪吒2鹿童放大招1帧渲染40小时",
+      "onboard_time": 1739690237,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 640729,
       "num": 640729,
       "word": "切尔诺贝利核电站传出爆炸声",
@@ -8803,14 +8819,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 501242,
-      "num": 297062,
-      "word": "央视曝直播间廉价纯羊绒真相",
-      "onboard_time": 1739687298,
-      "rank": 48,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 501201,
       "num": 501201,
       "word": "Kanye唯一关注Taylor Swift",
@@ -9625,6 +9633,14 @@
       "onboard_time": 1738910184,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 465785,
+      "num": 465785,
+      "word": "张超评论尹肖",
+      "onboard_time": 1739689638,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 464854,
@@ -10817,14 +10833,6 @@
       "onboard_time": 1739353281,
       "rank": 41,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 405958,
-      "num": 405958,
-      "word": "张超评论尹肖",
-      "onboard_time": 1739689638,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 405748,
@@ -12203,6 +12211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 358164,
+      "num": 212224,
+      "word": "咸鱼飞升",
+      "onboard_time": 1739059216,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 358163,
       "num": 272096,
       "word": "虞书欣何与新剧官宣",
@@ -12977,14 +12993,6 @@
       "onboard_time": 1738382718,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 334355,
-      "num": 334355,
-      "word": "哪吒2鹿童放大招1帧渲染40小时",
-      "onboard_time": 1739690237,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 334183,
@@ -15179,6 +15187,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 284371,
+      "num": 208812,
+      "word": "母猫生下罕见双面猫",
+      "onboard_time": 1739690299,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 284297,
       "num": 209286,
       "word": "费曼杨阳洋合照",
@@ -16361,6 +16377,14 @@
       "onboard_time": 1738854092,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 259980,
+      "num": 208540,
+      "word": "为什么刚洗完头就有巨多头皮屑",
+      "onboard_time": 1739691258,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 259935,
@@ -19867,6 +19891,14 @@
       "category": "国内时政,电影"
     },
     {
+      "raw_hot": 216972,
+      "num": 216972,
+      "word": "商家回应民宿里有带血的HIV试纸",
+      "onboard_time": 1739693418,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 216937,
       "num": 216937,
       "word": "龙眼干是盐渍的苏易水是糖醋的",
@@ -23139,14 +23171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 194776,
-      "num": 168275,
-      "word": "母猫生下罕见双面猫",
-      "onboard_time": 1739690299,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 194747,
       "num": 697257,
       "word": "王楚钦林诗栋vs林昀儒高承睿",
@@ -25011,6 +25035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184271,
+      "num": 184271,
+      "word": "林孝埈下决心学好中文",
+      "onboard_time": 1739690237,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184265,
       "num": 167473,
       "word": "樊振东登上CCTV10",
@@ -25907,6 +25939,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 178429,
+      "num": 178429,
+      "word": "张超发声",
+      "onboard_time": 1739691499,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178376,
       "num": 178402,
       "word": "林诗栋说没想到4比0赢",
@@ -26337,14 +26377,6 @@
       "onboard_time": 1738402637,
       "rank": 17,
       "category": "民生新闻,旅游"
-    },
-    {
-      "raw_hot": 175604,
-      "num": 175604,
-      "word": "林孝埈下决心学好中文",
-      "onboard_time": 1739690237,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 175577,
@@ -27363,6 +27395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168946,
+      "num": 168946,
+      "word": "王诗晴爱情长跑14年",
+      "onboard_time": 1739689638,
+      "rank": 28,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 168908,
       "num": 173783,
       "word": "时代少年团非洲出发",
@@ -27523,14 +27563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 168107,
-      "num": 168107,
-      "word": "王诗晴爱情长跑14年",
-      "onboard_time": 1739689638,
-      "rank": 28,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 168085,
       "num": 118869,
       "word": "申公豹",
@@ -27649,6 +27681,14 @@
       "onboard_time": 1738547063,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167170,
+      "num": 167170,
+      "word": "李嘉琦浪姐出发差点上错车",
+      "onboard_time": 1739693838,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 167159,
@@ -29617,6 +29657,14 @@
       "onboard_time": 1738811123,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 156298,
+      "num": 156298,
+      "word": "原来切牛肉要横着切才嫩",
+      "onboard_time": 1739691378,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 156208,
@@ -33267,6 +33315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134560,
+      "num": 134560,
+      "word": "余承恩王子璇 漫城",
+      "onboard_time": 1739690717,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134425,
       "num": 134425,
       "word": "张颜齐第一个登上荧幕的角色",
@@ -34675,14 +34731,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 126223,
-      "num": 126223,
-      "word": "余承恩王子璇 漫城",
-      "onboard_time": 1739690717,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 126133,
       "num": 137584,
       "word": "柯颖有古早小说那味儿了",
@@ -34787,6 +34835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125212,
+      "num": 125212,
+      "word": "邓为新剧男狐狸爆改小猫咪",
+      "onboard_time": 1739692039,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125105,
       "num": 477028,
       "word": "孙颖莎王楚钦最新训练画面",
@@ -34873,6 +34929,14 @@
       "onboard_time": 1738480096,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124554,
+      "num": 124554,
+      "word": "申小豹一口辣条音可爱爆了",
+      "onboard_time": 1739691858,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 124437,
@@ -35947,14 +36011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 117190,
-      "num": 117190,
-      "word": "咸鱼飞升",
-      "onboard_time": 1739059216,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 117186,
       "num": 117186,
       "word": "吃撑后24小时身体有什么变化",
@@ -36177,6 +36233,14 @@
       "onboard_time": 1739689338,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115764,
+      "num": 115764,
+      "word": "周峻纬优绩主义将人物化",
+      "onboard_time": 1739694257,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 115755,
@@ -36441,6 +36505,14 @@
       "onboard_time": 1738418119,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 113881,
+      "num": 113881,
+      "word": "胡歌林一一个敢问一个敢答",
+      "onboard_time": 1739692457,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 113718,
@@ -36953,6 +37025,14 @@
       "onboard_time": 1738381578,
       "rank": 2,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 111037,
+      "num": 111037,
+      "word": "王家卫镜头下的张曼玉",
+      "onboard_time": 1739693958,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 111023,
@@ -37579,6 +37659,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 106322,
+      "num": 106322,
+      "word": "可以把冷空气撤回一下吗",
+      "onboard_time": 1739693660,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106304,
       "num": 117865,
       "word": "中国资产集体狂欢",
@@ -37937,6 +38025,14 @@
       "onboard_time": 1739611998,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103397,
+      "num": 211014,
+      "word": "勇救祖孙3人的菜刀哥病危妻子发声",
+      "onboard_time": 1739693117,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103332,
@@ -39123,6 +39219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 94106,
+      "num": 214052,
+      "word": "勇救三人的菜刀哥突发疾病昏迷",
+      "onboard_time": 1739692937,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94098,
       "num": 160727,
       "word": "男子酒店偷拍1843个视频获刑1年",
@@ -39401,14 +39505,6 @@
       "onboard_time": 1738428735,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 91200,
-      "num": 91200,
-      "word": "为什么刚洗完头就有巨多头皮屑",
-      "onboard_time": 1739691258,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 91181,
@@ -44185,6 +44281,14 @@
       "onboard_time": 1739573833,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45312,
+      "num": 214841,
+      "word": "想跟石矶娘娘学学精神状态",
+      "onboard_time": 1739694019,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 45294,
