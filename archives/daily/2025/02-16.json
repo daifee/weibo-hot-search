@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739716576984,
+  "endTime": 1739719262396,
   "band_list": [
     {
       "raw_hot": 17381826,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2656641,
-      "num": 739855,
+      "num": 1185478,
       "word": "金赛纶最后ins发了文彬",
       "onboard_time": 1739712443,
       "rank": 5,
@@ -195,6 +195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1110935,
+      "num": 1110935,
+      "word": "川航回应乘客在航班上昏迷后离世",
+      "onboard_time": 1739714905,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1051486,
       "num": 392576,
       "word": "哪吒2破115亿",
@@ -225,14 +233,6 @@
       "onboard_time": 1739700138,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 919737,
-      "num": 919737,
-      "word": "川航回应乘客在航班上昏迷后离世",
-      "onboard_time": 1739714905,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 888213,
@@ -305,6 +305,14 @@
       "onboard_time": 1739711907,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 811569,
+      "num": 534439,
+      "word": "这才是修仙剧男主该有的仪态",
+      "onboard_time": 1739714002,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 791095,
@@ -401,6 +409,14 @@
       "onboard_time": 1739712324,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 658245,
+      "num": 438393,
+      "word": "赵丽颖真的很喜欢哪吒",
+      "onboard_time": 1739714722,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 656972,
@@ -643,6 +659,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 453613,
+      "num": 469247,
+      "word": "为什么周末总过得这么快",
+      "onboard_time": 1739712265,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 451705,
       "num": 266782,
       "word": "贾乃亮说哪吒2前三没问题",
@@ -731,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 425567,
+      "num": 425567,
+      "word": "外交部发布未来已来高燃视频",
+      "onboard_time": 1739716104,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 420482,
       "num": 420482,
       "word": "徐明浩的A来了",
@@ -747,11 +779,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 409766,
+      "num": 409766,
+      "word": "让摄影师都害怕的艺人出现了",
+      "onboard_time": 1739716223,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 409150,
       "num": 409150,
       "word": "勇救三人的菜刀哥突发疾病昏迷",
       "onboard_time": 1739692937,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 408600,
+      "num": 408600,
+      "word": "法小伙带622张日军侵华照片抵达北京",
+      "onboard_time": 1739717242,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -819,6 +867,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 379222,
+      "num": 195643,
+      "word": "每天睡够8小时白天为何还犯困",
+      "onboard_time": 1739718262,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 374899,
       "num": 316220,
       "word": "Felix遭遇交通事故骨折",
@@ -859,14 +915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 364660,
-      "num": 364660,
-      "word": "赵丽颖真的很喜欢哪吒",
-      "onboard_time": 1739714722,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 360260,
       "num": 360260,
       "word": "哪吒2票房",
@@ -897,14 +945,6 @@
       "onboard_time": 1739705419,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 347142,
-      "num": 469247,
-      "word": "为什么周末总过得这么快",
-      "onboard_time": 1739712265,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 344312,
@@ -945,6 +985,14 @@
       "onboard_time": 1739666959,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 331897,
+      "num": 331897,
+      "word": "kiiikiii",
+      "onboard_time": 1739716886,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 329617,
@@ -1003,14 +1051,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 311932,
-      "num": 242921,
-      "word": "这才是修仙剧男主该有的仪态",
-      "onboard_time": 1739714002,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 306662,
       "num": 205918,
       "word": "诗琳大年初一还上过节目",
@@ -1049,6 +1089,14 @@
       "onboard_time": 1739710465,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 290559,
+      "num": 191349,
+      "word": "NBA总裁发了王鹤棣",
+      "onboard_time": 1739715502,
+      "rank": 49,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 289930,
@@ -1443,6 +1491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204028,
+      "num": 190279,
+      "word": "田曦薇周也光影大片",
+      "onboard_time": 1739718742,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 201783,
       "num": 201783,
       "word": "赵露思回复陈腾跃没有菜籽油吃了",
@@ -1475,12 +1531,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198790,
-      "num": 198790,
-      "word": "让摄影师都害怕的艺人出现了",
-      "onboard_time": 1739716223,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 199060,
+      "num": 187402,
+      "word": "哪吒读音难倒老外",
+      "onboard_time": 1739717362,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 198723,
@@ -1643,6 +1699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186689,
+      "num": 208376,
+      "word": "哪吒2特效团队给乾坤圈开发了算法",
+      "onboard_time": 1739716403,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 185940,
       "num": 185940,
       "word": "哪吒2",
@@ -1673,14 +1737,6 @@
       "onboard_time": 1739709806,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 183513,
-      "num": 183513,
-      "word": "NBA总裁发了王鹤棣",
-      "onboard_time": 1739715502,
-      "rank": 49,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 183369,
@@ -1889,6 +1945,14 @@
       "onboard_time": 1739691378,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 156748,
+      "num": 156748,
+      "word": "王嘉尔回归状态",
+      "onboard_time": 1739715982,
+      "rank": 37,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 156726,
@@ -2115,6 +2179,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 136613,
+      "num": 118200,
+      "word": "董思成回应苏坡扣马鼻",
+      "onboard_time": 1739717961,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135860,
       "num": 135860,
       "word": "崔然竣获奖感言",
@@ -2275,6 +2347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124577,
+      "num": 124577,
+      "word": "印度宣布要超越DeepSeek",
+      "onboard_time": 1739715924,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 124459,
       "num": 124459,
       "word": "仙台转生就在今天",
@@ -2347,11 +2427,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115377,
+      "num": 115377,
+      "word": "某科学的超电磁炮第4季",
+      "onboard_time": 1739717902,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 114818,
       "num": 114818,
       "word": "时代少年团上楼教学法",
       "onboard_time": 1739705419,
       "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 114649,
+      "num": 114649,
+      "word": "成毅一抹湛蓝",
+      "onboard_time": 1739718321,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -2451,6 +2547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105030,
+      "num": 449306,
+      "word": "美加两国冰球队员9秒内3次互殴",
+      "onboard_time": 1739717842,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104776,
       "num": 104776,
       "word": "杨子再聊就要给李奕臻发offer了",
@@ -2475,20 +2579,20 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 103667,
+      "num": 113925,
+      "word": "王者荣耀牡丹新皮肤",
+      "onboard_time": 1739719041,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 102819,
       "num": 102819,
       "word": "王者荣耀灵宝市集",
       "onboard_time": 1739665097,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 102238,
-      "num": 425482,
-      "word": "外交部发布未来已来高燃视频",
-      "onboard_time": 1739716104,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102093,
@@ -2673,6 +2777,14 @@
       "onboard_time": 1739678001,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65058,
+      "num": 413644,
+      "word": "劣质安全帽手一压就变形",
+      "onboard_time": 1739718202,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 62469,
@@ -2984,14 +3096,6 @@
       "word": "饺子说哪吒承载了普通人的梦想",
       "onboard_time": 1739653691,
       "rank": 9,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 13147,
-      "num": 208376,
-      "word": "哪吒2特效团队给乾坤圈开发了算法",
-      "onboard_time": 1739716403,
-      "rank": 33,
       "category": "电影"
     },
     {
