@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739690499188,
+  "endTime": 1739691324509,
   "band_list": [
     {
       "raw_hot": 3115726,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 824015,
-      "num": 286642,
+      "num": 300076,
       "word": "雪碧代言",
       "onboard_time": 1739688137,
       "rank": 11,
@@ -219,8 +219,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 614312,
-      "num": 286036,
+      "raw_hot": 644255,
+      "num": 298618,
       "word": "记者买7件100%羊绒衫一根羊绒也没",
       "onboard_time": 1739687298,
       "rank": 44,
@@ -241,6 +241,14 @@
       "onboard_time": 1739679499,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 548843,
+      "num": 336708,
+      "word": "漫城这对啃成这样",
+      "onboard_time": 1739688079,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 542046,
@@ -283,20 +291,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 501242,
+      "num": 297062,
+      "word": "央视曝直播间廉价纯羊绒真相",
+      "onboard_time": 1739687298,
+      "rank": 48,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 494479,
       "num": 370141,
       "word": "吴敬平发文品行干净好运自来",
       "onboard_time": 1739668938,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 488549,
-      "num": 336708,
-      "word": "漫城这对啃成这样",
-      "onboard_time": 1739688079,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 471235,
@@ -379,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 405958,
+      "num": 405958,
+      "word": "张超评论尹肖",
+      "onboard_time": 1739689638,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 403230,
       "num": 315584,
       "word": "哪吒2票房超116亿",
@@ -388,7 +404,7 @@
     },
     {
       "raw_hot": 401729,
-      "num": 285871,
+      "num": 387631,
       "word": "哪吒2超117亿元",
       "onboard_time": 1739689218,
       "rank": 13,
@@ -475,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 358978,
+      "num": 218159,
+      "word": "希林娜依高失声后思考换一种生活方式",
+      "onboard_time": 1739690357,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 343152,
       "num": 283393,
       "word": "医院回应女医生疑辱骂患者老妖婆",
@@ -483,12 +507,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 339148,
+      "num": 295779,
+      "word": "哪吒2师徒去玉虚宫3分钟打磨半年",
+      "onboard_time": 1739689820,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 336686,
       "num": 336686,
       "word": "金价",
       "onboard_time": 1739666959,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 334355,
+      "num": 334355,
+      "word": "哪吒2鹿童放大招1帧渲染40小时",
+      "onboard_time": 1739690237,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 329617,
@@ -619,14 +659,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 261827,
-      "num": 261827,
-      "word": "央视曝直播间廉价纯羊绒真相",
-      "onboard_time": 1739687298,
-      "rank": 48,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 259192,
       "num": 259192,
       "word": "男子酒后死亡同饮者没劝酒被判无责",
@@ -691,14 +723,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 227113,
-      "num": 227113,
-      "word": "哪吒2鹿童放大招1帧渲染40小时",
-      "onboard_time": 1739690237,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 224792,
       "num": 274446,
       "word": "校方回应老师被举报性侵",
@@ -755,14 +779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 213602,
-      "num": 213602,
-      "word": "张超评论尹肖",
-      "onboard_time": 1739689638,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 209604,
       "num": 184530,
       "word": "李汶翰上班",
@@ -792,6 +808,14 @@
       "word": "女主变来变去男主爱来爱去",
       "onboard_time": 1739682858,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 205218,
+      "num": 205218,
+      "word": "檀健次和拖把的吻戏",
+      "onboard_time": 1739690237,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -827,12 +851,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196263,
-      "num": 196263,
-      "word": "希林娜依高失声后思考换一种生活方式",
-      "onboard_time": 1739690357,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 194776,
+      "num": 168275,
+      "word": "母猫生下罕见双面猫",
+      "onboard_time": 1739690299,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193931,
@@ -907,6 +931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 185940,
+      "num": 185940,
+      "word": "哪吒2",
+      "onboard_time": 1739690598,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 184085,
       "num": 253014,
       "word": "哪吒打油诗英文也押韵",
@@ -971,6 +1003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175604,
+      "num": 175604,
+      "word": "林孝埈下决心学好中文",
+      "onboard_time": 1739690237,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173438,
       "num": 173438,
       "word": "赵磊不办传统婚礼",
@@ -1025,6 +1065,14 @@
       "onboard_time": 1739667317,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 168107,
+      "num": 168107,
+      "word": "王诗晴爱情长跑14年",
+      "onboard_time": 1739689638,
+      "rank": 28,
+      "category": "时尚"
     },
     {
       "raw_hot": 167547,
@@ -1171,6 +1219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141648,
+      "num": 141648,
+      "word": "仙台有树2.0版更带感",
+      "onboard_time": 1739690058,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141044,
       "num": 141044,
       "word": "41岁媒体人吴玉燕因流感离世",
@@ -1211,19 +1267,19 @@
       "category": "互联网,数码"
     },
     {
+      "raw_hot": 132747,
+      "num": 132747,
+      "word": "虞书欣你在视频里加了什么",
+      "onboard_time": 1739688017,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132419,
       "num": 132419,
       "word": "网传肖战主演刘医生返乡记",
       "onboard_time": 1739625681,
       "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 131483,
-      "num": 131483,
-      "word": "檀健次和拖把的吻戏",
-      "onboard_time": 1739690237,
-      "rank": 36,
       "category": "剧集"
     },
     {
@@ -1291,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126223,
+      "num": 126223,
+      "word": "余承恩王子璇 漫城",
+      "onboard_time": 1739690717,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125886,
       "num": 125886,
       "word": "韩国推出无豆咖啡",
@@ -1313,14 +1377,6 @@
       "onboard_time": 1739634561,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124601,
-      "num": 124601,
-      "word": "母猫生下罕见双面猫",
-      "onboard_time": 1739690299,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 123521,
@@ -1355,20 +1411,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 118346,
-      "num": 118346,
-      "word": "仙台有树2.0版更带感",
-      "onboard_time": 1739690058,
+      "raw_hot": 117156,
+      "num": 117156,
+      "word": "马斯克官宣Grok3",
+      "onboard_time": 1739689518,
       "rank": 39,
-      "category": "剧集"
+      "category": "汽车,电竞"
     },
     {
-      "raw_hot": 116527,
-      "num": 116527,
-      "word": "虞书欣你在视频里加了什么",
-      "onboard_time": 1739688017,
-      "rank": 46,
-      "category": "艺人"
+      "raw_hot": 115770,
+      "num": 285356,
+      "word": "蔬菜价格大跳水",
+      "onboard_time": 1739689338,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113718,
@@ -1401,14 +1457,6 @@
       "onboard_time": 1739663295,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 105952,
-      "num": 105952,
-      "word": "林孝埈下决心学好中文",
-      "onboard_time": 1739690237,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 104679,
@@ -1475,14 +1523,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 97958,
-      "num": 285356,
-      "word": "蔬菜价格大跳水",
-      "onboard_time": 1739689338,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 95818,
       "num": 95818,
       "word": "复刻吒儿名场面没有最好只有更好",
@@ -1505,6 +1545,14 @@
       "onboard_time": 1739673618,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 91200,
+      "num": 91200,
+      "word": "为什么刚洗完头就有巨多头皮屑",
+      "onboard_time": 1739691258,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 91181,
@@ -1579,14 +1627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 62333,
-      "num": 228869,
-      "word": "哪吒2师徒去玉虚宫3分钟打磨半年",
-      "onboard_time": 1739689820,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 62137,
       "num": 62137,
       "word": "U20亚洲杯国足两连胜提前出线",
@@ -1595,20 +1635,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61470,
+      "num": 168337,
+      "word": "现在追国漫像在逛动物园",
+      "onboard_time": 1739690777,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 60581,
       "num": 59569,
       "word": "张继科回应吴敬平博文",
       "onboard_time": 1739655251,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 59719,
-      "num": 155133,
-      "word": "王诗晴爱情长跑14年",
-      "onboard_time": 1739689638,
-      "rank": 28,
-      "category": "时尚"
     },
     {
       "raw_hot": 59636,
