@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739715572663,
+  "endTime": 1739716576984,
   "band_list": [
     {
       "raw_hot": 17381826,
@@ -123,6 +123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1376190,
+      "num": 591997,
+      "word": "成都除夕走失19天女子遗体被找到",
+      "onboard_time": 1739713824,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1342711,
       "num": 1342711,
       "word": "哪吒2冲击全球票房榜前10",
@@ -187,14 +195,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1092605,
-      "num": 591997,
-      "word": "成都除夕走失19天女子遗体被找到",
-      "onboard_time": 1739713824,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1051486,
       "num": 392576,
       "word": "哪吒2破115亿",
@@ -225,6 +225,14 @@
       "onboard_time": 1739700138,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 919737,
+      "num": 919737,
+      "word": "川航回应乘客在航班上昏迷后离世",
+      "onboard_time": 1739714905,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 888213,
@@ -339,6 +347,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 741471,
+      "num": 261724,
+      "word": "宋祖儿营业",
+      "onboard_time": 1739714363,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 738850,
+      "num": 589737,
+      "word": "哪吒2票房一天一个新突破",
+      "onboard_time": 1739711065,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 725650,
       "num": 236971,
       "word": "靠哪吒2赚了4万6准备给老婆买金手镯",
@@ -411,14 +435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 642760,
-      "num": 261724,
-      "word": "宋祖儿营业",
-      "onboard_time": 1739714363,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 608663,
       "num": 317726,
       "word": "女医生疑辱骂患者不得好死",
@@ -448,14 +464,6 @@
       "word": "冯小刚曾向饺子发出邀约",
       "onboard_time": 1739702179,
       "rank": 30,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 589737,
-      "num": 589737,
-      "word": "哪吒2票房一天一个新突破",
-      "onboard_time": 1739711065,
-      "rank": 23,
       "category": "电影"
     },
     {
@@ -651,6 +659,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 449214,
+      "num": 420794,
+      "word": "雪碧 檀健次",
+      "onboard_time": 1739713882,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 445937,
       "num": 445937,
       "word": "王中和被查",
@@ -803,14 +819,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 383737,
-      "num": 257376,
-      "word": "雪碧 檀健次",
-      "onboard_time": 1739713882,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 374899,
       "num": 316220,
       "word": "Felix遭遇交通事故骨折",
@@ -851,6 +859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 364660,
+      "num": 364660,
+      "word": "赵丽颖真的很喜欢哪吒",
+      "onboard_time": 1739714722,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 360260,
       "num": 360260,
       "word": "哪吒2票房",
@@ -883,12 +899,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 347494,
-      "num": 614856,
-      "word": "川航回应乘客在航班上昏迷后离世",
-      "onboard_time": 1739714905,
-      "rank": 8,
-      "category": "民生新闻"
+      "raw_hot": 347142,
+      "num": 469247,
+      "word": "为什么周末总过得这么快",
+      "onboard_time": 1739712265,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 344312,
@@ -905,14 +921,6 @@
       "onboard_time": 1739676199,
       "rank": 36,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 342100,
-      "num": 469247,
-      "word": "为什么周末总过得这么快",
-      "onboard_time": 1739712265,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 340092,
@@ -993,6 +1001,14 @@
       "onboard_time": 1739671339,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 311932,
+      "num": 242921,
+      "word": "这才是修仙剧男主该有的仪态",
+      "onboard_time": 1739714002,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 306662,
@@ -1219,14 +1235,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 244549,
-      "num": 244549,
-      "word": "赵丽颖真的很喜欢哪吒",
-      "onboard_time": 1739714722,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 243524,
       "num": 235163,
       "word": "张钧甯看了哪吒2",
@@ -1241,14 +1249,6 @@
       "onboard_time": 1739696538,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 239359,
-      "num": 239359,
-      "word": "这才是修仙剧男主该有的仪态",
-      "onboard_time": 1739714002,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 238084,
@@ -1267,8 +1267,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 233520,
-      "num": 233520,
+      "raw_hot": 233847,
+      "num": 233847,
       "word": "哪吒2带火了一条不起眼的小巷",
       "onboard_time": 1739711243,
       "rank": 46,
@@ -1459,11 +1459,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199992,
+      "num": 199992,
+      "word": "星船新女团出道MV",
+      "onboard_time": 1739716282,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 199889,
       "num": 199889,
       "word": "李嘉琦浪姐出发差点上错车",
       "onboard_time": 1739693838,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 198790,
+      "num": 198790,
+      "word": "让摄影师都害怕的艺人出现了",
+      "onboard_time": 1739716223,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -1659,6 +1675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183513,
+      "num": 183513,
+      "word": "NBA总裁发了王鹤棣",
+      "onboard_time": 1739715502,
+      "rank": 49,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 183369,
       "num": 183369,
       "word": "我妈到底都在网上看了些啥",
@@ -1740,7 +1764,7 @@
     },
     {
       "raw_hot": 174771,
-      "num": 174771,
+      "num": 228693,
       "word": "吴敬平尹肖的争论折射国乒转型之痛",
       "onboard_time": 1739710885,
       "rank": 48,
@@ -1851,6 +1875,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 161527,
+      "num": 161527,
+      "word": "余承恩直播i人要碎了",
+      "onboard_time": 1739716344,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157712,
       "num": 157712,
       "word": "原来切牛肉要横着切才嫩",
@@ -1929,14 +1961,6 @@
       "onboard_time": 1739688377,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 150692,
-      "num": 150692,
-      "word": "NBA总裁发了王鹤棣",
-      "onboard_time": 1739715502,
-      "rank": 49,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 149273,
@@ -2403,6 +2427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 106948,
+      "num": 593021,
+      "word": "重庆燃气再回应收费异常",
+      "onboard_time": 1739714843,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106821,
       "num": 184633,
       "word": "女子直播卖烧烤为儿子筹医药费后续",
@@ -2449,6 +2481,14 @@
       "onboard_time": 1739665097,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 102238,
+      "num": 425482,
+      "word": "外交部发布未来已来高燃视频",
+      "onboard_time": 1739716104,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102093,
@@ -2563,6 +2603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79634,
+      "num": 459219,
+      "word": "杜鲁门号撞船后照片首次曝光",
+      "onboard_time": 1739714543,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 77985,
       "num": 77985,
       "word": "杨子给自己饰演的西门庆打100分",
@@ -2625,14 +2673,6 @@
       "onboard_time": 1739678001,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 65116,
-      "num": 593021,
-      "word": "重庆燃气再回应收费异常",
-      "onboard_time": 1739714843,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 62469,
@@ -2721,14 +2761,6 @@
       "onboard_time": 1739661373,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 47795,
-      "num": 459219,
-      "word": "杜鲁门号撞船后照片首次曝光",
-      "onboard_time": 1739714543,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 47771,
@@ -2952,6 +2984,14 @@
       "word": "饺子说哪吒承载了普通人的梦想",
       "onboard_time": 1739653691,
       "rank": 9,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 13147,
+      "num": 208376,
+      "word": "哪吒2特效团队给乾坤圈开发了算法",
+      "onboard_time": 1739716403,
+      "rank": 33,
       "category": "电影"
     },
     {

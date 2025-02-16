@@ -1,0 +1,410 @@
+{
+  "runTime": 1739716576984,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6235798,
+        "num": 6235798,
+        "word": "金赛纶去世",
+        "onboard_time": 1739707158,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 919737,
+        "num": 919737,
+        "word": "川航回应乘客在航班上昏迷后离世",
+        "onboard_time": 1739714905,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50801,
+        "num": 917105,
+        "word": "60秒看中国智造齐聚一堂",
+        "onboard_time": 1739708907,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 916051,
+        "num": 916051,
+        "word": "你设置付款码隐私保护了吗",
+        "onboard_time": 1739707401,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 685544,
+        "num": 685544,
+        "word": "微信DeepSeek王炸组合",
+        "onboard_time": 1739701398,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1472277,
+        "num": 685397,
+        "word": "金赛纶最后ins发了文彬",
+        "onboard_time": 1739712443,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1022699,
+        "num": 605824,
+        "word": "哪吒2突破119亿",
+        "onboard_time": 1739709744,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 431347,
+        "num": 431347,
+        "word": "烟花炸伤右眼案已立为刑事案件",
+        "onboard_time": 1739711125,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 738850,
+        "num": 429032,
+        "word": "哪吒2票房一天一个新突破",
+        "onboard_time": 1739711065,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102238,
+        "num": 425482,
+        "word": "外交部发布未来已来高燃视频",
+        "onboard_time": 1739716104,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1376190,
+        "num": 422411,
+        "word": "成都除夕走失19天女子遗体被找到",
+        "onboard_time": 1739713824,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 449214,
+        "num": 420794,
+        "word": "雪碧 檀健次",
+        "onboard_time": 1739713882,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419269,
+        "num": 419269,
+        "word": "金冬天cue宁艺卓发言",
+        "onboard_time": 1739707401,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 364660,
+        "num": 364660,
+        "word": "赵丽颖真的很喜欢哪吒",
+        "onboard_time": 1739714722,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 347142,
+        "num": 347142,
+        "word": "为什么周末总过得这么快",
+        "onboard_time": 1739712265,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 265937,
+        "num": 265937,
+        "word": "特朗普称有人想拆散他和马斯克",
+        "onboard_time": 1739710465,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 263629,
+        "num": 263629,
+        "word": "珂润直播",
+        "onboard_time": 1739708306,
+        "rank": 16,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 222926,
+        "num": 258897,
+        "word": "套圈中170万玛莎拉蒂男子称想折现",
+        "onboard_time": 1739685919,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257524,
+        "num": 257524,
+        "word": "余承恩直播",
+        "onboard_time": 1739713642,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194692,
+        "num": 256291,
+        "word": "男子囤胖东来几百桶花生油卖不掉",
+        "onboard_time": 1739708065,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346477,
+        "num": 253310,
+        "word": "徐明浩的A来了",
+        "onboard_time": 1739711545,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 741471,
+        "num": 249937,
+        "word": "宋祖儿营业",
+        "onboard_time": 1739714363,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 726459,
+        "num": 248521,
+        "word": "曝光12亿贪腐案印度记者惨死化粪池",
+        "onboard_time": 1739711907,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 330923,
+        "num": 244888,
+        "word": "今天是金秀贤生日",
+        "onboard_time": 1739708725,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311932,
+        "num": 242921,
+        "word": "这才是修仙剧男主该有的仪态",
+        "onboard_time": 1739714002,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289587,
+        "num": 241396,
+        "word": "冯小刚曾向饺子发出邀约",
+        "onboard_time": 1739702179,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 281012,
+        "num": 238586,
+        "word": "哪吒2冲击全球票房榜前10",
+        "onboard_time": 1739697439,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 266840,
+        "num": 234140,
+        "word": "长期不吃早餐身体的危害",
+        "onboard_time": 1739707460,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 233847,
+        "num": 233847,
+        "word": "哪吒2带火了一条不起眼的小巷",
+        "onboard_time": 1739711243,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167552,
+        "num": 228693,
+        "word": "吴敬平尹肖的争论折射国乒转型之痛",
+        "onboard_time": 1739710885,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225278,
+        "num": 225278,
+        "word": "乌尔善回应封神2遭滑铁卢",
+        "onboard_time": 1739699178,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 222961,
+        "num": 222961,
+        "word": "60岁老人出现白肺鱼肝油竟是元凶",
+        "onboard_time": 1739709145,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 213044,
+        "num": 213044,
+        "word": "胡烨韬锐评男团现状",
+        "onboard_time": 1739712505,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13147,
+        "num": 208376,
+        "word": "哪吒2特效团队给乾坤圈开发了算法",
+        "onboard_time": 1739716403,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205048,
+        "num": 205048,
+        "word": "爱在高中",
+        "onboard_time": 1739708664,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79634,
+        "num": 200395,
+        "word": "杜鲁门号撞船后照片首次曝光",
+        "onboard_time": 1739714543,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 199992,
+        "num": 199992,
+        "word": "星船新女团出道MV",
+        "onboard_time": 1739716282,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 198790,
+        "num": 198790,
+        "word": "让摄影师都害怕的艺人出现了",
+        "onboard_time": 1739716223,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155619,
+        "num": 194312,
+        "word": "义乌幼儿园开学外籍孩子占一半",
+        "onboard_time": 1739708782,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153076,
+        "num": 193500,
+        "word": "黄金高位跳水",
+        "onboard_time": 1739695518,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 193298,
+        "num": 193298,
+        "word": "难哄导演为请何炅客串写了三页信",
+        "onboard_time": 1739696419,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183513,
+        "num": 183513,
+        "word": "NBA总裁发了王鹤棣",
+        "onboard_time": 1739715502,
+        "rank": 41,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 161527,
+        "num": 161527,
+        "word": "余承恩直播i人要碎了",
+        "onboard_time": 1739716344,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151852,
+        "num": 160339,
+        "word": "小米SU7断轴车主承认欺瞒网友",
+        "onboard_time": 1739698099,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 160215,
+        "num": 160215,
+        "word": "上了班才理解了李慧珍",
+        "onboard_time": 1739697919,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152356,
+        "num": 152356,
+        "word": "小欢喜李庚希周奇郭子凡鼓励吴施乐",
+        "onboard_time": 1739709325,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148943,
+        "num": 148943,
+        "word": "花4万瘦身去拜拜肉手臂差点保不住",
+        "onboard_time": 1739696839,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131931,
+        "num": 148862,
+        "word": "郑州暴雨救祖孙3人的菜刀哥病危",
+        "onboard_time": 1739703140,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126010,
+        "num": 147761,
+        "word": "女幼师被害案凶手自辩有精神疾病",
+        "onboard_time": 1739707579,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106948,
+        "num": 145995,
+        "word": "重庆燃气再回应收费异常",
+        "onboard_time": 1739714843,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#绿水青山瞰我家#"
+    }
+  }
+}
