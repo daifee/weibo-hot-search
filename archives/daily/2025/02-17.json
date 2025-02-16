@@ -1,6 +1,6 @@
 {
   "startTime": 1739723108252,
-  "endTime": 1739724047215,
+  "endTime": 1739726344716,
   "band_list": [
     {
       "raw_hot": 1620326,
@@ -33,6 +33,22 @@
       "onboard_time": 1739714002,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 554658,
+      "num": 201591,
+      "word": "金赛纶想要的只是第二次机会",
+      "onboard_time": 1739724256,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 549312,
+      "num": 549312,
+      "word": "美国务院网站删去不支持台独表述",
+      "onboard_time": 1739723837,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 517529,
@@ -299,14 +315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118035,
-      "num": 184469,
-      "word": "美国务院网站删去不支持台独表述",
-      "onboard_time": 1739723837,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 116969,
       "num": 116969,
       "word": "法国小伙来华捐622张日本侵华照片",
@@ -371,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74244,
+      "num": 74244,
+      "word": "哪吒2距全球票房前10仅差3.5亿",
+      "onboard_time": 1739724196,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 70381,
       "num": 85803,
       "word": "热刺vs曼联",
@@ -425,6 +441,22 @@
       "onboard_time": 1739708907,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 36571,
+      "num": 93412,
+      "word": "超43万条春节档电影侵权链接被查处",
+      "onboard_time": 1739724736,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9538,
+      "num": 93228,
+      "word": "徐梦桃被一个问题瞬间问哭",
+      "onboard_time": 1739726175,
+      "rank": 30,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
