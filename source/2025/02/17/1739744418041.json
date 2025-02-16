@@ -1,0 +1,410 @@
+{
+  "runTime": 1739744418041,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 181855,
+        "num": 364530,
+        "word": "公积金三大调整方向持续助力安居",
+        "onboard_time": 1739720662,
+        "rank": 0,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 130494,
+        "num": 130494,
+        "word": "美国务院网站删去不支持台独表述",
+        "onboard_time": 1739723837,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17633,
+        "num": 124941,
+        "word": "60秒看中国智造齐聚一堂",
+        "onboard_time": 1739708907,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141741,
+        "num": 124849,
+        "word": "金赛纶去世",
+        "onboard_time": 1739707158,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124634,
+        "num": 124634,
+        "word": "哪吒2带火了一条不起眼的小巷",
+        "onboard_time": 1739711243,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 88668,
+        "num": 88668,
+        "word": "川航回应乘客在航班上昏迷后离世",
+        "onboard_time": 1739714905,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117699,
+        "num": 77111,
+        "word": "K总官宣与女友结婚",
+        "onboard_time": 1739719340,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 53555,
+        "num": 53555,
+        "word": "你设置付款码隐私保护了吗",
+        "onboard_time": 1739707401,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 106324,
+        "num": 53420,
+        "word": "金赛纶想要的只是第二次机会",
+        "onboard_time": 1739724256,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47458,
+        "num": 47458,
+        "word": "微信DeepSeek王炸组合",
+        "onboard_time": 1739701398,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 122584,
+        "num": 47345,
+        "word": "成都除夕走失19天女子遗体被找到",
+        "onboard_time": 1739713824,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87950,
+        "num": 46912,
+        "word": "冯小刚曾向饺子发出邀约",
+        "onboard_time": 1739702179,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 59587,
+        "num": 46231,
+        "word": "这才是修仙剧男主该有的仪态",
+        "onboard_time": 1739714002,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59326,
+        "num": 45861,
+        "word": "法国小伙来华捐622张日本侵华照片",
+        "onboard_time": 1739719402,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48793,
+        "num": 44915,
+        "word": "让摄影师都害怕的艺人出现了",
+        "onboard_time": 1739716223,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44825,
+        "num": 44825,
+        "word": "哪吒2票房一天一个新突破",
+        "onboard_time": 1739711065,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 34447,
+        "num": 34447,
+        "word": "男子囤胖东来几百桶花生油卖不掉",
+        "onboard_time": 1739708065,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34043,
+        "num": 34043,
+        "word": "烟花炸伤右眼案已立为刑事案件",
+        "onboard_time": 1739711125,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31363,
+        "num": 31363,
+        "word": "离开一段关系前建议先想明白的事",
+        "onboard_time": 1739720540,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26261,
+        "num": 31237,
+        "word": "为什么周末总过得这么快",
+        "onboard_time": 1739712265,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 75751,
+        "num": 30509,
+        "word": "每天睡够8小时白天为何还犯困",
+        "onboard_time": 1739718262,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 56050,
+        "num": 29875,
+        "word": "曝光12亿贪腐案印度记者惨死化粪池",
+        "onboard_time": 1739711907,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 35525,
+        "num": 29788,
+        "word": "60岁老人出现白肺鱼肝油竟是元凶",
+        "onboard_time": 1739709145,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 31442,
+        "num": 29146,
+        "word": "唐探1900中国影史票房TOP20",
+        "onboard_time": 1739720180,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 28872,
+        "num": 28872,
+        "word": "长期不吃早餐身体的危害",
+        "onboard_time": 1739707460,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 28792,
+        "num": 28792,
+        "word": "哪吒2突破119亿",
+        "onboard_time": 1739709744,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27641,
+        "num": 27641,
+        "word": "中国影史年度票房最快200亿纪录",
+        "onboard_time": 1739721380,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26907,
+        "num": 26907,
+        "word": "司机猝死10位卡友自费护送返乡",
+        "onboard_time": 1739733191,
+        "rank": 27,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 26316,
+        "num": 26316,
+        "word": "影院回应支持哪吒2暂不排美队4",
+        "onboard_time": 1739722878,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25762,
+        "num": 25762,
+        "word": "哪吒2断层领跑",
+        "onboard_time": 1739719461,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27852,
+        "num": 25669,
+        "word": "5种最差的早餐搭配组合",
+        "onboard_time": 1739728573,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 25334,
+        "num": 25334,
+        "word": "宋祖儿营业",
+        "onboard_time": 1739714363,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24010,
+        "num": 24010,
+        "word": "哪吒2距全球票房前10仅差3.5亿",
+        "onboard_time": 1739724196,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 22259,
+        "num": 22259,
+        "word": "请学会为自己挺身而出",
+        "onboard_time": 1739724076,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22103,
+        "num": 22103,
+        "word": "乌尔善回应封神2遭滑铁卢",
+        "onboard_time": 1739699178,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 21734,
+        "num": 21734,
+        "word": "法小伙带622张日军侵华照片抵达北京",
+        "onboard_time": 1739717242,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21099,
+        "num": 21099,
+        "word": "雪碧 檀健次",
+        "onboard_time": 1739713882,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20353,
+        "num": 20353,
+        "word": "王者荣耀牡丹新皮肤",
+        "onboard_time": 1739719041,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19810,
+        "num": 19810,
+        "word": "走失19天不幸去世女子父亲发声",
+        "onboard_time": 1739733612,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19670,
+        "num": 19670,
+        "word": "外交部发布未来已来高燃视频",
+        "onboard_time": 1739716104,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18928,
+        "num": 18928,
+        "word": "金冬天cue宁艺卓发言",
+        "onboard_time": 1739707401,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18280,
+        "num": 18280,
+        "word": "赵丽颖真的很喜欢哪吒",
+        "onboard_time": 1739714722,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18279,
+        "num": 18279,
+        "word": "哪吒2冲击全球票房榜前10",
+        "onboard_time": 1739697439,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18165,
+        "num": 18165,
+        "word": "热刺vs曼联",
+        "onboard_time": 1739723657,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17646,
+        "num": 18164,
+        "word": "套圈中170万玛莎拉蒂男子称想折现",
+        "onboard_time": 1739685919,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17384,
+        "num": 18163,
+        "word": "郭德纲回应不让德云社直播带货",
+        "onboard_time": 1739743760,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17144,
+        "num": 18161,
+        "word": "海外观众说给哪吒2打11分",
+        "onboard_time": 1739722217,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16509,
+        "num": 18158,
+        "word": "权志龙综艺",
+        "onboard_time": 1739719941,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15792,
+        "num": 18155,
+        "word": "kiiikiii",
+        "onboard_time": 1739716886,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 13763,
+        "num": 18155,
+        "word": "ive师妹",
+        "onboard_time": 1739726475,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#绿水青山瞰我家#"
+    }
+  }
+}
