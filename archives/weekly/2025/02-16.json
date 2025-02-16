@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739733479886,
+  "endTime": 1739734537290,
   "band_list": [
     {
       "raw_hot": 17381826,
@@ -3099,6 +3099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33990,
+      "num": 36948,
+      "word": "请学会为自己挺身而出",
+      "onboard_time": 1739724076,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32287,
       "num": 83446,
       "word": "AG跨赛季17大场连胜",
@@ -3137,14 +3145,6 @@
       "onboard_time": 1739676020,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 29072,
-      "num": 36948,
-      "word": "请学会为自己挺身而出",
-      "onboard_time": 1739724076,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 28789,
@@ -3219,7 +3219,7 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 23101,
+      "raw_hot": 23190,
       "num": 23222,
       "word": "5种最差的早餐搭配组合",
       "onboard_time": 1739728573,
@@ -3275,6 +3275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19421,
+      "num": 19421,
+      "word": "司机猝死10位卡友自费护送返乡",
+      "onboard_time": 1739733191,
+      "rank": 48,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 19394,
       "num": 430979,
       "word": "吕先景公路车亚锦赛冠军",
@@ -3307,12 +3315,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 16776,
-      "num": 18554,
-      "word": "司机猝死10位卡友自费护送返乡",
-      "onboard_time": 1739733191,
-      "rank": 48,
-      "category": "正能量"
+      "raw_hot": 15806,
+      "num": 17741,
+      "word": "走失19天不幸去世女子父亲发声",
+      "onboard_time": 1739733612,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14855,
