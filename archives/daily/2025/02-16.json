@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739697675505,
+  "endTime": 1739698531252,
   "band_list": [
     {
       "raw_hot": 3115726,
@@ -43,6 +43,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1593537,
+      "num": 1593537,
+      "word": "咸鱼飞升",
+      "onboard_time": 1739693719,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1554834,
       "num": 788816,
       "word": "白头发是身体给你的压力警告",
@@ -67,16 +75,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1364709,
-      "num": 1364709,
-      "word": "咸鱼飞升",
-      "onboard_time": 1739693719,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1257053,
-      "num": 439979,
+      "num": 639779,
       "word": "央视曝直播间廉价纯羊绒真相",
       "onboard_time": 1739687298,
       "rank": 48,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1243713,
-      "num": 418593,
+      "num": 423042,
       "word": "李现拍的赵丽颖",
       "onboard_time": 1739684239,
       "rank": 34,
@@ -123,20 +123,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 899143,
+      "num": 899143,
+      "word": "难哄导演为请何炅客串写了三页信",
+      "onboard_time": 1739696419,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 864283,
+      "num": 864283,
+      "word": "黄金高位跳水",
+      "onboard_time": 1739695518,
+      "rank": 3,
+      "category": "财经"
+    },
+    {
       "raw_hot": 861730,
       "num": 861730,
       "word": "开学前全国统一姿势包书皮",
       "onboard_time": 1739677879,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 860950,
-      "num": 860950,
-      "word": "黄金高位跳水",
-      "onboard_time": 1739695518,
-      "rank": 3,
-      "category": "财经"
     },
     {
       "raw_hot": 842300,
@@ -291,14 +299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 567821,
-      "num": 567821,
-      "word": "难哄导演为请何炅客串写了三页信",
-      "onboard_time": 1739696419,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 548843,
       "num": 336708,
       "word": "漫城这对啃成这样",
@@ -331,6 +331,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 533067,
+      "num": 382399,
+      "word": "林孝埈说我是中国人",
+      "onboard_time": 1739694858,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 521339,
       "num": 289162,
       "word": "刘晓庆说感到不舒服时就拒绝",
@@ -345,6 +353,14 @@
       "onboard_time": 1739635642,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 497969,
+      "num": 497969,
+      "word": "他盛装出席她的毕业典礼",
+      "onboard_time": 1739694979,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 494479,
@@ -376,14 +392,6 @@
       "word": "张超评论尹肖",
       "onboard_time": 1739689638,
       "rank": 23,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 463618,
-      "num": 382399,
-      "word": "林孝埈说我是中国人",
-      "onboard_time": 1739694858,
-      "rank": 39,
       "category": "体育"
     },
     {
@@ -441,14 +449,6 @@
       "onboard_time": 1739667498,
       "rank": 37,
       "category": "民生新闻,科学科普"
-    },
-    {
-      "raw_hot": 417891,
-      "num": 417891,
-      "word": "他盛装出席她的毕业典礼",
-      "onboard_time": 1739694979,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 409150,
@@ -619,6 +619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 323019,
+      "num": 422058,
+      "word": "可以把冷空气撤回一下吗",
+      "onboard_time": 1739693660,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 320631,
       "num": 208812,
       "word": "母猫生下罕见双面猫",
@@ -675,6 +683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 297796,
+      "num": 297796,
+      "word": "小米SU7断轴车主承认欺瞒网友",
+      "onboard_time": 1739698099,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 288573,
       "num": 242430,
       "word": "哪吒2版权保护公告发布",
@@ -697,14 +713,6 @@
       "onboard_time": 1739676498,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 279768,
-      "num": 422058,
-      "word": "可以把冷空气撤回一下吗",
-      "onboard_time": 1739693660,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 272814,
@@ -787,6 +795,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 249853,
+      "num": 442178,
+      "word": "申小豹一口辣条音可爱爆了",
+      "onboard_time": 1739691858,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 240707,
+      "num": 424697,
+      "word": "棋牌室扰民老板说给业主装隔音棉",
+      "onboard_time": 1739696538,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 235018,
       "num": 235018,
       "word": "印度首都火车站踩踏事件现场曝光",
@@ -819,20 +843,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 225308,
-      "num": 442178,
-      "word": "申小豹一口辣条音可爱爆了",
-      "onboard_time": 1739691858,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 224792,
       "num": 274446,
       "word": "校方回应老师被举报性侵",
       "onboard_time": 1739673799,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220760,
+      "num": 220760,
+      "word": "DeepSeek引发连锁反应",
+      "onboard_time": 1739693117,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 220759,
@@ -867,12 +891,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 217755,
-      "num": 217755,
-      "word": "DeepSeek引发连锁反应",
-      "onboard_time": 1739693117,
-      "rank": 37,
-      "category": "互联网"
+      "raw_hot": 216991,
+      "num": 216991,
+      "word": "上美藕饼",
+      "onboard_time": 1739696658,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 216331,
@@ -889,6 +913,14 @@
       "onboard_time": 1739667558,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214871,
+      "num": 428598,
+      "word": "有人凌晨4点排队买黄金",
+      "onboard_time": 1739697019,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 210302,
@@ -913,6 +945,14 @@
       "onboard_time": 1739673979,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208556,
+      "num": 208556,
+      "word": "花4万瘦身去拜拜肉手臂差点保不住",
+      "onboard_time": 1739696839,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 208080,
@@ -945,6 +985,14 @@
       "onboard_time": 1739685678,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200006,
+      "num": 200006,
+      "word": "于正说刘些宁必火",
+      "onboard_time": 1739697798,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 199889,
@@ -1009,14 +1057,6 @@
       "onboard_time": 1739636600,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 192224,
-      "num": 192224,
-      "word": "上美藕饼",
-      "onboard_time": 1739696658,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 192171,
@@ -1107,6 +1147,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 182104,
+      "num": 236075,
+      "word": "李现拍的白敬亭吴磊",
+      "onboard_time": 1739697679,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181872,
       "num": 181872,
       "word": "特效影厅上次这么火还是2009年",
@@ -1129,6 +1177,14 @@
       "onboard_time": 1739641335,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177790,
+      "num": 177790,
+      "word": "哪吒2冲击全球票房榜前10",
+      "onboard_time": 1739697439,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 177589,
@@ -1283,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152730,
+      "num": 152730,
+      "word": "月明千里",
+      "onboard_time": 1739695878,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152224,
       "num": 152224,
       "word": "奥萨苏纳vs皇马",
@@ -1315,12 +1379,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147299,
+      "num": 147299,
+      "word": "女生许愿男友永不出轨蜡烛吹不灭",
+      "onboard_time": 1739697738,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146800,
       "num": 146800,
       "word": "男子偷5万叮嘱老婆我进去后你自己走",
       "onboard_time": 1739630422,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144825,
+      "num": 144825,
+      "word": "卢昱晓不让狗狗看柴安三娘大婚吻",
+      "onboard_time": 1739695338,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 143307,
@@ -1417,14 +1497,6 @@
       "onboard_time": 1739690717,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 132785,
-      "num": 132785,
-      "word": "卢昱晓不让狗狗看柴安三娘大婚吻",
-      "onboard_time": 1739695338,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 132765,
@@ -1531,12 +1603,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126499,
-      "num": 126499,
-      "word": "月明千里",
-      "onboard_time": 1739695878,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 126328,
+      "num": 126328,
+      "word": "哪吒2超118亿元",
+      "onboard_time": 1739698398,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 125886,
@@ -1619,12 +1691,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 114344,
-      "num": 195600,
-      "word": "花4万瘦身去拜拜肉手臂差点保不住",
-      "onboard_time": 1739696839,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 113763,
+      "num": 113763,
+      "word": "柯颖在cp赛道是有KPI吗",
+      "onboard_time": 1739698459,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 113718,
@@ -1633,6 +1705,14 @@
       "onboard_time": 1739683339,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113320,
+      "num": 113320,
+      "word": "上了班才理解了李慧珍",
+      "onboard_time": 1739697919,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 112901,
@@ -1649,14 +1729,6 @@
       "onboard_time": 1739672000,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 111237,
-      "num": 111237,
-      "word": "哪吒2冲击全球票房榜前10",
-      "onboard_time": 1739697439,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 111037,
@@ -1793,14 +1865,6 @@
       "onboard_time": 1739624360,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 78521,
-      "num": 424697,
-      "word": "棋牌室扰民老板说给业主装隔音棉",
-      "onboard_time": 1739696538,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 77985,
@@ -2020,7 +2084,7 @@
     },
     {
       "raw_hot": 28399,
-      "num": 903863,
+      "num": 1008077,
       "word": "中国先进制造业上大分",
       "onboard_time": 1739642294,
       "rank": 48,
@@ -2035,20 +2099,20 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 26799,
-      "num": 428598,
-      "word": "有人凌晨4点排队买黄金",
-      "onboard_time": 1739697019,
-      "rank": 13,
-      "category": "财经"
-    },
-    {
       "raw_hot": 26353,
       "num": 35264,
       "word": "朴灿烈演唱会",
       "onboard_time": 1739644633,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 26136,
+      "num": 199918,
+      "word": "导游强迫购物大巴雪天停无人区",
+      "onboard_time": 1739698040,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24243,
