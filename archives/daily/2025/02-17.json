@@ -1,6 +1,6 @@
 {
   "startTime": 1739723108252,
-  "endTime": 1739745441382,
+  "endTime": 1739748038785,
   "band_list": [
     {
       "raw_hot": 1620326,
@@ -33,6 +33,14 @@
       "onboard_time": 1739714002,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 573975,
+      "num": 573975,
+      "word": "哪吒2带火了一条不起眼的小巷",
+      "onboard_time": 1739711243,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 554658,
@@ -115,6 +123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 324379,
+      "num": 173064,
+      "word": "未成年拍举牌视频最便宜3元一条",
+      "onboard_time": 1739747235,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 314504,
       "num": 274245,
       "word": "kiiikiii",
@@ -131,6 +147,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 303132,
+      "num": 293949,
+      "word": "冯小刚曾向饺子发出邀约",
+      "onboard_time": 1739702179,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 284164,
       "num": 284164,
       "word": "离开一段关系前建议先想明白的事",
@@ -145,14 +169,6 @@
       "onboard_time": 1739707401,
       "rank": 7,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 278128,
-      "num": 212966,
-      "word": "哪吒2带火了一条不起眼的小巷",
-      "onboard_time": 1739711243,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 272505,
@@ -195,6 +211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 217822,
+      "num": 172457,
+      "word": "哪吒2距全球票房前10仅差3.5亿",
+      "onboard_time": 1739724196,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 213726,
       "num": 173149,
       "word": "金冬天cue宁艺卓发言",
@@ -211,12 +235,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 178607,
-      "num": 152533,
-      "word": "冯小刚曾向饺子发出邀约",
-      "onboard_time": 1739702179,
-      "rank": 27,
-      "category": "电影"
+      "raw_hot": 177329,
+      "num": 171704,
+      "word": "法国小伙来华捐622张日本侵华照片",
+      "onboard_time": 1739719402,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162331,
@@ -283,6 +307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 126209,
+      "num": 126209,
+      "word": "杨子再聊就要给李奕臻发offer了",
+      "onboard_time": 1739704219,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123327,
       "num": 123327,
       "word": "田曦薇周也光影大片",
@@ -315,12 +347,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 116969,
-      "num": 116969,
-      "word": "法国小伙来华捐622张日本侵华照片",
-      "onboard_time": 1739719402,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 117805,
+      "num": 104480,
+      "word": "美队4中国预测票房不足2亿",
+      "onboard_time": 1739745433,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 112680,
@@ -331,6 +363,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 103899,
+      "num": 112945,
+      "word": "60岁老人出现白肺鱼肝油竟是元凶",
+      "onboard_time": 1739709145,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 103091,
       "num": 103091,
       "word": "乌尔善回应封神2遭滑铁卢",
@@ -339,12 +379,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 102087,
-      "num": 112945,
-      "word": "60岁老人出现白肺鱼肝油竟是元凶",
-      "onboard_time": 1739709145,
-      "rank": 38,
-      "category": "健康医疗"
+      "raw_hot": 95853,
+      "num": 173815,
+      "word": "官方再通报高中收取723元打印费",
+      "onboard_time": 1739747295,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95013,
@@ -353,6 +393,46 @@
       "onboard_time": 1739721140,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92532,
+      "num": 92532,
+      "word": "哪吒版书皮得馋哭多少孩子",
+      "onboard_time": 1739745013,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 92370,
+      "num": 91762,
+      "word": "哪吒2里章鱼大将军为何敢烤自己的腕",
+      "onboard_time": 1739747415,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 91823,
+      "num": 91823,
+      "word": "郭德纲回应不让德云社直播带货",
+      "onboard_time": 1739743760,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 91739,
+      "num": 91739,
+      "word": "在河北博物院找到了七色宝莲",
+      "onboard_time": 1739710045,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 91613,
+      "num": 91613,
+      "word": "韩剧善意的竞争",
+      "onboard_time": 1739747415,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 86501,
@@ -371,20 +451,20 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 80427,
+      "num": 80427,
+      "word": "花几十元可定制未成年隐私部位内容",
+      "onboard_time": 1739747235,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75330,
       "num": 112803,
       "word": "吴敬平尹肖的争论折射国乒转型之痛",
       "onboard_time": 1739710885,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 74244,
-      "num": 74244,
-      "word": "哪吒2距全球票房前10仅差3.5亿",
-      "onboard_time": 1739724196,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 70398,
@@ -443,6 +523,14 @@
       "category": "民生新闻,电影"
     },
     {
+      "raw_hot": 47352,
+      "num": 47352,
+      "word": "司机猝死10位卡友自费护送返乡",
+      "onboard_time": 1739733191,
+      "rank": 48,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 42675,
       "num": 744390,
       "word": "60秒看中国智造齐聚一堂",
@@ -451,12 +539,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 39388,
-      "num": 35073,
-      "word": "郭德纲回应不让德云社直播带货",
-      "onboard_time": 1739743760,
-      "rank": 45,
-      "category": "艺人"
+      "raw_hot": 38249,
+      "num": 38249,
+      "word": "走失19天不幸去世女子父亲发声",
+      "onboard_time": 1739733612,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37717,
@@ -483,14 +571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34805,
-      "num": 34805,
-      "word": "司机猝死10位卡友自费护送返乡",
-      "onboard_time": 1739733191,
-      "rank": 48,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 33990,
       "num": 36948,
       "word": "请学会为自己挺身而出",
@@ -507,28 +587,12 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 25554,
-      "num": 34658,
-      "word": "走失19天不幸去世女子父亲发声",
-      "onboard_time": 1739733612,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23912,
       "num": 23912,
       "word": "王天辰古子成GLASS",
       "onboard_time": 1739730433,
       "rank": 49,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 22710,
-      "num": 34632,
-      "word": "哪吒版书皮得馋哭多少孩子",
-      "onboard_time": 1739745013,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 21097,
