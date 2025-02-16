@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739680766237,
+  "endTime": 1739683300665,
   "band_list": [
     {
       "raw_hot": 3115726,
@@ -81,6 +81,14 @@
       "onboard_time": 1739623760,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 861730,
+      "num": 861730,
+      "word": "开学前全国统一姿势包书皮",
+      "onboard_time": 1739677879,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 842300,
@@ -171,6 +179,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 606224,
+      "num": 336777,
+      "word": "外媒称诗琳因脑膜炎去世",
+      "onboard_time": 1739679499,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 542046,
       "num": 542046,
       "word": "第一次见把房子打包带走的搬家",
@@ -185,14 +201,6 @@
       "onboard_time": 1739630242,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 528070,
-      "num": 528070,
-      "word": "开学前全国统一姿势包书皮",
-      "onboard_time": 1739677879,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 521339,
@@ -217,6 +225,14 @@
       "onboard_time": 1739668938,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 471235,
+      "num": 219743,
+      "word": "敖丙传",
+      "onboard_time": 1739677700,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 471065,
@@ -283,12 +299,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 403230,
+      "num": 214098,
+      "word": "哪吒2票房超116亿",
+      "onboard_time": 1739678177,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 399593,
       "num": 399593,
       "word": "奥斯卡评委喊话饺子导演",
       "onboard_time": 1739615661,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 389445,
+      "num": 192561,
+      "word": "白头发是身体给你的压力警告",
+      "onboard_time": 1739682858,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 387145,
@@ -323,12 +355,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 359542,
-      "num": 248538,
-      "word": "外媒称诗琳因脑膜炎去世",
-      "onboard_time": 1739679499,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 343152,
+      "num": 247555,
+      "word": "医院回应女医生疑辱骂患者老妖婆",
+      "onboard_time": 1739676199,
+      "rank": 36,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 336686,
@@ -371,14 +403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 302566,
-      "num": 247555,
-      "word": "医院回应女医生疑辱骂患者老妖婆",
-      "onboard_time": 1739676199,
-      "rank": 36,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 301676,
       "num": 246252,
       "word": "男子婚后无夫妻生活欲索回138万彩礼",
@@ -395,19 +419,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 292713,
-      "num": 166414,
-      "word": "敖丙传",
-      "onboard_time": 1739677700,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 291641,
-      "num": 165841,
-      "word": "哪吒2票房超116亿",
-      "onboard_time": 1739678177,
-      "rank": 30,
+      "raw_hot": 288573,
+      "num": 188146,
+      "word": "哪吒2版权保护公告发布",
+      "onboard_time": 1739681839,
+      "rank": 25,
       "category": "电影"
     },
     {
@@ -425,6 +441,14 @@
       "onboard_time": 1739676498,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 283255,
+      "num": 186672,
+      "word": "看完哪吒2把从小吃到大的碗丢了",
+      "onboard_time": 1739679499,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 272814,
@@ -457,6 +481,14 @@
       "onboard_time": 1739672299,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 262363,
+      "num": 184691,
+      "word": "敖瑞鹏说同为敖家人也是沾光了",
+      "onboard_time": 1739680099,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 259192,
@@ -547,12 +579,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218867,
+      "num": 186181,
+      "word": "谁家女主用撸猫手法把男主哄成胚胎",
+      "onboard_time": 1739682858,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215517,
       "num": 194903,
       "word": "第一次用歹毒形容一个综艺",
       "onboard_time": 1739667558,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209604,
+      "num": 184530,
+      "word": "李汶翰上班",
+      "onboard_time": 1739682198,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 208837,
@@ -571,20 +619,20 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 200563,
-      "num": 162219,
-      "word": "敖瑞鹏说同为敖家人也是沾光了",
-      "onboard_time": 1739680099,
-      "rank": 30,
-      "category": "电影"
+      "raw_hot": 207749,
+      "num": 183838,
+      "word": "女主变来变去男主爱来爱去",
+      "onboard_time": 1739682858,
+      "rank": 33,
+      "category": "剧集"
     },
     {
-      "raw_hot": 198727,
-      "num": 161740,
-      "word": "看完哪吒2把从小吃到大的碗丢了",
-      "onboard_time": 1739679499,
-      "rank": 46,
-      "category": "电影"
+      "raw_hot": 205877,
+      "num": 183258,
+      "word": "克拉岛",
+      "onboard_time": 1739682919,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 198723,
@@ -659,12 +707,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186191,
+      "num": 186191,
+      "word": "恋与制作人",
+      "onboard_time": 1739682858,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 184085,
       "num": 253014,
       "word": "哪吒打油诗英文也押韵",
       "onboard_time": 1739667317,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 182516,
+      "num": 182516,
+      "word": "总觉得自己卡粉是因为离得太近了",
+      "onboard_time": 1739682079,
+      "rank": 36,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 181872,
+      "num": 181872,
+      "word": "特效影厅上次这么火还是2009年",
+      "onboard_time": 1739680519,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 181564,
+      "num": 181564,
+      "word": "李瓒物理意义上破碎了",
+      "onboard_time": 1739682858,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 180426,
@@ -747,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156726,
+      "num": 162866,
+      "word": "于正说应该给五福临门磕一个",
+      "onboard_time": 1739679800,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156188,
       "num": 156188,
       "word": "甄嬛传 余莺儿",
@@ -779,12 +867,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 150101,
-      "num": 162866,
-      "word": "于正说应该给五福临门磕一个",
-      "onboard_time": 1739679800,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 151935,
+      "num": 194263,
+      "word": "李泽言孤掷者胜",
+      "onboard_time": 1739682858,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 149273,
@@ -795,12 +883,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147211,
+      "num": 193345,
+      "word": "很多病都是脾虚引起的",
+      "onboard_time": 1739682858,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 146800,
       "num": 146800,
       "word": "男子偷5万叮嘱老婆我进去后你自己走",
       "onboard_time": 1739630422,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144305,
+      "num": 144305,
+      "word": "我妈到底都在网上看了些啥",
+      "onboard_time": 1739678177,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 143259,
@@ -963,6 +1067,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123521,
+      "num": 123521,
+      "word": "XYG羲和退役",
+      "onboard_time": 1739680579,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 122145,
+      "num": 122145,
+      "word": "肖战独家大片花絮",
+      "onboard_time": 1739682978,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 120987,
       "num": 120987,
       "word": "特朗普称或将于4月2日对进口汽车征税",
@@ -979,14 +1099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 112547,
-      "num": 112547,
-      "word": "我妈到底都在网上看了些啥",
-      "onboard_time": 1739678177,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 111948,
       "num": 198277,
       "word": "文班保罗聪明反被聪明误",
@@ -1001,14 +1113,6 @@
       "onboard_time": 1739663295,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 107773,
-      "num": 107773,
-      "word": "XYG羲和退役",
-      "onboard_time": 1739680579,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 104679,
@@ -1033,6 +1137,14 @@
       "onboard_time": 1739665097,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 100630,
+      "num": 182908,
+      "word": "陈哲远 我不会变的",
+      "onboard_time": 1739682019,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 100393,
@@ -1113,6 +1225,14 @@
       "onboard_time": 1739640435,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 70061,
+      "num": 561942,
+      "word": "我国已建成3万多家基础级智能工厂",
+      "onboard_time": 1739682079,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 68215,
@@ -1227,12 +1347,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 34327,
+      "num": 187636,
+      "word": "王鹤棣解说扣篮大赛",
+      "onboard_time": 1739683039,
+      "rank": 26,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 32287,
       "num": 83446,
       "word": "AG跨赛季17大场连胜",
       "onboard_time": 1739630783,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 31395,
+      "num": 235864,
+      "word": "学生家长不语只是一味等待开学",
+      "onboard_time": 1739682438,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 29630,
@@ -1273,6 +1409,14 @@
       "onboard_time": 1739644633,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 24070,
+      "num": 189077,
+      "word": "三分大赛",
+      "onboard_time": 1739676798,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 23539,
