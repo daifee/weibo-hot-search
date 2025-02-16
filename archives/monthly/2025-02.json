@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739719262396,
+  "endTime": 1739720123247,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -4659,6 +4659,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 847540,
+      "num": 534439,
+      "word": "这才是修仙剧男主该有的仪态",
+      "onboard_time": 1739714002,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 846066,
       "num": 846066,
       "word": "饺子导演的毛衣400块",
@@ -4969,14 +4977,6 @@
       "onboard_time": 1739602999,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 811569,
-      "num": 534439,
-      "word": "这才是修仙剧男主该有的仪态",
-      "onboard_time": 1739714002,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 809270,
@@ -5556,7 +5556,7 @@
     },
     {
       "raw_hot": 741471,
-      "num": 261724,
+      "num": 288433,
       "word": "宋祖儿营业",
       "onboard_time": 1739714363,
       "rank": 21,
@@ -7393,6 +7393,14 @@
       "onboard_time": 1738998982,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 589673,
+      "num": 303412,
+      "word": "K总官宣与女友结婚",
+      "onboard_time": 1739719340,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 589652,
@@ -9547,6 +9555,14 @@
       "category": "电影,财经"
     },
     {
+      "raw_hot": 479150,
+      "num": 479150,
+      "word": "外交部发布未来已来高燃视频",
+      "onboard_time": 1739716104,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 477646,
       "num": 477646,
       "word": "金价大涨背后推手是谁",
@@ -10523,6 +10539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 436897,
+      "num": 331897,
+      "word": "kiiikiii",
+      "onboard_time": 1739716886,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 435853,
       "num": 441371,
       "word": "381名员工因心得体会字数不符被罚",
@@ -10787,14 +10811,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 425567,
-      "num": 425567,
-      "word": "外交部发布未来已来高燃视频",
-      "onboard_time": 1739716104,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 425460,
       "num": 425460,
       "word": "春运期间退票为啥这么贵",
@@ -10979,6 +10995,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 418329,
+      "num": 282207,
+      "word": "每天睡够8小时白天为何还犯困",
+      "onboard_time": 1739718262,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 418239,
+      "num": 409766,
+      "word": "让摄影师都害怕的艺人出现了",
+      "onboard_time": 1739716223,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 418093,
       "num": 1079822,
       "word": "海底捞回应消费者疑吃出刀片被划伤",
@@ -11121,14 +11153,6 @@
       "onboard_time": 1739470033,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 409766,
-      "num": 409766,
-      "word": "让摄影师都害怕的艺人出现了",
-      "onboard_time": 1739716223,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 409570,
@@ -12033,14 +12057,6 @@
       "onboard_time": 1739357840,
       "rank": 20,
       "category": "电影"
-    },
-    {
-      "raw_hot": 379222,
-      "num": 195643,
-      "word": "每天睡够8小时白天为何还犯困",
-      "onboard_time": 1739718262,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 378626,
@@ -13475,14 +13491,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 331897,
-      "num": 331897,
-      "word": "kiiikiii",
-      "onboard_time": 1739716886,
-      "rank": 17,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 331886,
       "num": 331886,
       "word": "恋与深空助力亚冬会",
@@ -14451,6 +14459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 310277,
+      "num": 310277,
+      "word": "哪吒2带火了一条不起眼的小巷",
+      "onboard_time": 1739711243,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 310249,
       "num": 524297,
       "word": "林孝埈1500米晋级决赛",
@@ -15396,7 +15412,7 @@
     },
     {
       "raw_hot": 290559,
-      "num": 191349,
+      "num": 252280,
       "word": "NBA总裁发了王鹤棣",
       "onboard_time": 1739715502,
       "rank": 49,
@@ -18729,14 +18745,6 @@
       "onboard_time": 1739068460,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 233847,
-      "num": 233847,
-      "word": "哪吒2带火了一条不起眼的小巷",
-      "onboard_time": 1739711243,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 233660,
@@ -31467,6 +31475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150090,
+      "num": 150090,
+      "word": "哪吒2断层领跑",
+      "onboard_time": 1739719461,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 149964,
       "num": 149964,
       "word": "如鸢",
@@ -35043,6 +35059,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 129535,
+      "num": 129535,
+      "word": "印度宣布要超越DeepSeek",
+      "onboard_time": 1739715924,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 129373,
       "num": 167589,
       "word": "流感后高危人群最好48小时内用药",
@@ -35723,6 +35747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125192,
+      "num": 449306,
+      "word": "美加两国冰球队员9秒内3次互殴",
+      "onboard_time": 1739717842,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125105,
       "num": 477028,
       "word": "孙颖莎王楚钦最新训练画面",
@@ -35801,14 +35833,6 @@
       "onboard_time": 1739625441,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 124577,
-      "num": 124577,
-      "word": "印度宣布要超越DeepSeek",
-      "onboard_time": 1739715924,
-      "rank": 38,
-      "category": "互联网"
     },
     {
       "raw_hot": 124558,
@@ -37185,6 +37209,14 @@
       "onboard_time": 1738896862,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115465,
+      "num": 115465,
+      "word": "权志龙综艺",
+      "onboard_time": 1739719941,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 115377,
@@ -38683,6 +38715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105924,
+      "num": 289944,
+      "word": "王者荣耀牡丹新皮肤",
+      "onboard_time": 1739719041,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 105863,
       "num": 275991,
       "word": "原神5.4版本上线",
@@ -38795,14 +38835,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 105030,
-      "num": 449306,
-      "word": "美加两国冰球队员9秒内3次互殴",
-      "onboard_time": 1739717842,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 104884,
       "num": 104884,
       "word": "美国对墨西哥和加拿大商品征收25%关税",
@@ -38841,6 +38873,14 @@
       "onboard_time": 1739271501,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104601,
+      "num": 413644,
+      "word": "劣质安全帽手一压就变形",
+      "onboard_time": 1739718202,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 104524,
@@ -38971,14 +39011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 103667,
-      "num": 113925,
-      "word": "王者荣耀牡丹新皮肤",
-      "onboard_time": 1739719041,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 103640,
       "num": 103640,
       "word": "chiikawa小八变声了",
@@ -39105,6 +39137,14 @@
       "onboard_time": 1739018241,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102693,
+      "num": 108395,
+      "word": "法国小伙来华捐622张日本侵华照片",
+      "onboard_time": 1739719402,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102665,
@@ -40521,6 +40561,14 @@
       "onboard_time": 1739031319,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 91073,
+      "num": 106915,
+      "word": "用AI合成明星音视频违法吗",
+      "onboard_time": 1739719402,
+      "rank": 48,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 90867,
@@ -42889,14 +42937,6 @@
       "onboard_time": 1738935445,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 65058,
-      "num": 413644,
-      "word": "劣质安全帽手一压就变形",
-      "onboard_time": 1739718202,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 65046,
@@ -48809,6 +48849,14 @@
       "onboard_time": 1739044751,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 20126,
+      "num": 279924,
+      "word": "官方调查导游强制消费大巴停无人区",
+      "onboard_time": 1739719941,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19881,
