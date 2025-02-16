@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739676522401,
+  "endTime": 1739677319961,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1257,6 +1257,14 @@
       "onboard_time": 1738556446,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1849147,
+      "num": 1849147,
+      "word": "难哄里的何炅",
+      "onboard_time": 1739676259,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 1847068,
@@ -4243,14 +4251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 884968,
-      "num": 297366,
-      "word": "难哄里的何炅",
-      "onboard_time": 1739676259,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 873649,
       "num": 554747,
       "word": "谢娜晒7岁的跳跳俏俏",
@@ -5067,6 +5067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 775209,
+      "num": 246554,
+      "word": "李现 我拍的微博之夜",
+      "onboard_time": 1739676199,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 774631,
       "num": 926458,
       "word": "32岁病逝女博士本已开始筹备婚礼",
@@ -5097,6 +5105,14 @@
       "onboard_time": 1739494402,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 771839,
+      "num": 279743,
+      "word": "哪吒2海外排片量upupup",
+      "onboard_time": 1739676259,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 771105,
@@ -8347,14 +8363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 515433,
-      "num": 239805,
-      "word": "李现 我拍的微博之夜",
-      "onboard_time": 1739676199,
-      "rank": 13,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 515315,
       "num": 291532,
       "word": "张嘉元说刘梓晨来这干啥",
@@ -10489,14 +10497,6 @@
       "onboard_time": 1739334081,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 414642,
-      "num": 242285,
-      "word": "哪吒2海外排片量upupup",
-      "onboard_time": 1739676259,
-      "rank": 12,
-      "category": "电影"
     },
     {
       "raw_hot": 414587,
@@ -15867,6 +15867,14 @@
       "category": "海外新闻,数码"
     },
     {
+      "raw_hot": 264485,
+      "num": 264485,
+      "word": "海关查获藏零食罐里的2.4斤生腌响尾蛇",
+      "onboard_time": 1739672299,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 264362,
       "num": 264362,
       "word": "甄嬛传",
@@ -17025,14 +17033,6 @@
       "onboard_time": 1739074580,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 246899,
-      "num": 256742,
-      "word": "海关查获藏零食罐里的2.4斤生腌响尾蛇",
-      "onboard_time": 1739672299,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 246756,
@@ -21019,6 +21019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205233,
+      "num": 205233,
+      "word": "扣篮大赛",
+      "onboard_time": 1739676498,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205158,
       "num": 273219,
       "word": "徐梦桃夺冠后提极氪7X",
@@ -21217,6 +21225,14 @@
       "onboard_time": 1739592799,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203980,
+      "num": 198510,
+      "word": "XYG",
+      "onboard_time": 1739676199,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 203971,
@@ -22123,6 +22139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198495,
+      "num": 198495,
+      "word": "易烊千玺演的刘春和走向世界了",
+      "onboard_time": 1739676379,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 198485,
       "num": 178172,
       "word": "马嘉祺 2000Days",
@@ -22449,6 +22473,14 @@
       "onboard_time": 1739536522,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196513,
+      "num": 196513,
+      "word": "诗琳是清华大学本科学生",
+      "onboard_time": 1739676319,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 196495,
@@ -22955,6 +22987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193931,
+      "num": 193931,
+      "word": "代高政回应给章子怡下跪",
+      "onboard_time": 1739676619,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193857,
       "num": 222265,
       "word": "陈哲远直播一下",
@@ -23073,6 +23113,14 @@
       "onboard_time": 1738849646,
       "rank": 28,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 193163,
+      "num": 193163,
+      "word": "刘晓庆说感到不舒服时就拒绝",
+      "onboard_time": 1739676498,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 193151,
@@ -29339,14 +29387,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 155302,
-      "num": 155302,
-      "word": "XYG",
-      "onboard_time": 1739676199,
-      "rank": 33,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 155264,
       "num": 158683,
       "word": "王楚钦蛇年迎开门红",
@@ -32171,6 +32211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138431,
+      "num": 199525,
+      "word": "医院回应女医生疑辱骂患者老妖婆",
+      "onboard_time": 1739676199,
+      "rank": 36,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 138282,
       "num": 138282,
       "word": "朱雨玲3比0大藤沙月",
@@ -34203,6 +34251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 125724,
+      "num": 125724,
+      "word": "王天辰古子成glass",
+      "onboard_time": 1739676199,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 125653,
       "num": 87495,
       "word": "刘晓庆不服输也不扶人",
@@ -34811,14 +34867,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 121544,
-      "num": 121544,
-      "word": "医院回应女医生疑辱骂患者老妖婆",
-      "onboard_time": 1739676199,
-      "rank": 36,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 121460,
       "num": 121460,
       "word": "男主一句话女主八百个白眼",
@@ -35081,14 +35129,6 @@
       "onboard_time": 1739065340,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119599,
-      "num": 119599,
-      "word": "刘晓庆说感到不舒服时就拒绝",
-      "onboard_time": 1739676498,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 119596,
@@ -36275,14 +36315,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 111718,
-      "num": 111718,
-      "word": "扣篮大赛",
-      "onboard_time": 1739676498,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 111684,
       "num": 111684,
       "word": "迎灶神接好运",
@@ -37009,14 +37041,6 @@
       "onboard_time": 1739527584,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 106282,
-      "num": 106282,
-      "word": "易烊千玺演的刘春和走向世界了",
-      "onboard_time": 1739676379,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 106198,
@@ -38739,14 +38763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 91959,
-      "num": 145126,
-      "word": "诗琳是清华大学本科学生",
-      "onboard_time": 1739676319,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 91745,
       "num": 138544,
       "word": "王楚钦孙颖莎出战WTT新加坡大满贯",
@@ -38801,6 +38817,14 @@
       "onboard_time": 1738428735,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91181,
+      "num": 237855,
+      "word": "有人排队8小时买老铺黄金",
+      "onboard_time": 1739671039,
+      "rank": 44,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 91135,
@@ -39537,14 +39561,6 @@
       "onboard_time": 1738398558,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 82232,
-      "num": 237855,
-      "word": "有人排队8小时买老铺黄金",
-      "onboard_time": 1739671039,
-      "rank": 44,
-      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 82175,
@@ -44097,6 +44113,14 @@
       "onboard_time": 1739037553,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40575,
+      "num": 161881,
+      "word": "NBA大型前任见面会",
+      "onboard_time": 1739672060,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 40513,

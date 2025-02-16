@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739676522401,
+  "endTime": 1739677319961,
   "band_list": [
     {
       "raw_hot": 3115726,
@@ -17,6 +17,14 @@
       "onboard_time": 1739667920,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1849147,
+      "num": 1849147,
+      "word": "难哄里的何炅",
+      "onboard_time": 1739676259,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 1667596,
@@ -67,14 +75,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 884968,
-      "num": 297366,
-      "word": "难哄里的何炅",
-      "onboard_time": 1739676259,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 842300,
       "num": 316589,
       "word": "我是哪吒2千万票房被批诈骗",
@@ -115,12 +115,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 775209,
+      "num": 246554,
+      "word": "李现 我拍的微博之夜",
+      "onboard_time": 1739676199,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 774631,
       "num": 926458,
       "word": "32岁病逝女博士本已开始筹备婚礼",
       "onboard_time": 1739631800,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 771839,
+      "num": 279743,
+      "word": "哪吒2海外排片量upupup",
+      "onboard_time": 1739676259,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 725650,
@@ -161,14 +177,6 @@
       "onboard_time": 1739630242,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 515433,
-      "num": 239805,
-      "word": "李现 我拍的微博之夜",
-      "onboard_time": 1739676199,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 515012,
@@ -241,14 +249,6 @@
       "onboard_time": 1739667498,
       "rank": 37,
       "category": "民生新闻,科学科普"
-    },
-    {
-      "raw_hot": 414642,
-      "num": 242285,
-      "word": "哪吒2海外排片量upupup",
-      "onboard_time": 1739676259,
-      "rank": 12,
-      "category": "电影"
     },
     {
       "raw_hot": 406308,
@@ -371,6 +371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 264485,
+      "num": 264485,
+      "word": "海关查获藏零食罐里的2.4斤生腌响尾蛇",
+      "onboard_time": 1739672299,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 259192,
       "num": 259192,
       "word": "男子酒后死亡同饮者没劝酒被判无责",
@@ -401,14 +409,6 @@
       "onboard_time": 1739632461,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 246899,
-      "num": 256742,
-      "word": "海关查获藏零食罐里的2.4斤生腌响尾蛇",
-      "onboard_time": 1739672299,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 232792,
@@ -483,6 +483,22 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 205233,
+      "num": 205233,
+      "word": "扣篮大赛",
+      "onboard_time": 1739676498,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 203980,
+      "num": 198510,
+      "word": "XYG",
+      "onboard_time": 1739676199,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 198723,
       "num": 198723,
       "word": "白色橄榄树大结局",
@@ -491,12 +507,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198495,
+      "num": 198495,
+      "word": "易烊千玺演的刘春和走向世界了",
+      "onboard_time": 1739676379,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 196513,
+      "num": 196513,
+      "word": "诗琳是清华大学本科学生",
+      "onboard_time": 1739676319,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 193931,
+      "num": 193931,
+      "word": "代高政回应给章子怡下跪",
+      "onboard_time": 1739676619,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193591,
       "num": 155231,
       "word": "科学家回应哪吒2中海底炼狱是否编造",
       "onboard_time": 1739675058,
       "rank": 30,
       "category": "科学科普,电影"
+    },
+    {
+      "raw_hot": 193163,
+      "num": 193163,
+      "word": "刘晓庆说感到不舒服时就拒绝",
+      "onboard_time": 1739676498,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 192458,
@@ -619,14 +667,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 155302,
-      "num": 155302,
-      "word": "XYG",
-      "onboard_time": 1739676199,
-      "rank": 33,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 154029,
       "num": 154029,
       "word": "吴宣仪浪姐6初舞台造型",
@@ -675,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141962,
+      "num": 141962,
+      "word": "难哄",
+      "onboard_time": 1739667738,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141829,
       "num": 221748,
       "word": "一文看国乒两位功勋教练之争",
@@ -689,6 +737,14 @@
       "onboard_time": 1739617882,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138431,
+      "num": 199525,
+      "word": "医院回应女医生疑辱骂患者老妖婆",
+      "onboard_time": 1739676199,
+      "rank": 36,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 135860,
@@ -739,14 +795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130374,
-      "num": 130374,
-      "word": "难哄",
-      "onboard_time": 1739667738,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 128521,
       "num": 128521,
       "word": "重庆带娃摆摊宝妈收到网友捐款四十多万元",
@@ -771,28 +819,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 125724,
+      "num": 125724,
+      "word": "王天辰古子成glass",
+      "onboard_time": 1739676199,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 125463,
       "num": 219798,
       "word": "尹肖回应国乒后备力量不足",
       "onboard_time": 1739634561,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121544,
-      "num": 121544,
-      "word": "医院回应女医生疑辱骂患者老妖婆",
-      "onboard_time": 1739676199,
-      "rank": 36,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 119599,
-      "num": 119599,
-      "word": "刘晓庆说感到不舒服时就拒绝",
-      "onboard_time": 1739676498,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 112901,
@@ -811,28 +851,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111718,
-      "num": 111718,
-      "word": "扣篮大赛",
-      "onboard_time": 1739676498,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 110502,
       "num": 110502,
       "word": "当你今天开始早睡觉",
       "onboard_time": 1739663295,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 106282,
-      "num": 106282,
-      "word": "易烊千玺演的刘春和走向世界了",
-      "onboard_time": 1739676379,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 104210,
@@ -883,12 +907,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 91959,
-      "num": 145126,
-      "word": "诗琳是清华大学本科学生",
-      "onboard_time": 1739676319,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 91181,
+      "num": 237855,
+      "word": "有人排队8小时买老铺黄金",
+      "onboard_time": 1739671039,
+      "rank": 44,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 88364,
@@ -905,14 +929,6 @@
       "onboard_time": 1739624360,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 82232,
-      "num": 237855,
-      "word": "有人排队8小时买老铺黄金",
-      "onboard_time": 1739671039,
-      "rank": 44,
-      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 77985,
@@ -1017,6 +1033,14 @@
       "onboard_time": 1739661373,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 40575,
+      "num": 161881,
+      "word": "NBA大型前任见面会",
+      "onboard_time": 1739672060,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 38792,
