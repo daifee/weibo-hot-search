@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739695140389,
+  "endTime": 1739697675505,
   "band_list": [
     {
       "raw_hot": 3115726,
@@ -67,8 +67,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1364709,
+      "num": 1364709,
+      "word": "咸鱼飞升",
+      "onboard_time": 1739693719,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1257053,
-      "num": 328295,
+      "num": 439979,
       "word": "央视曝直播间廉价纯羊绒真相",
       "onboard_time": 1739687298,
       "rank": 48,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 1243713,
-      "num": 340973,
+      "num": 418593,
       "word": "李现拍的赵丽颖",
       "onboard_time": 1739684239,
       "rank": 34,
@@ -121,6 +129,14 @@
       "onboard_time": 1739677879,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 860950,
+      "num": 860950,
+      "word": "黄金高位跳水",
+      "onboard_time": 1739695518,
+      "rank": 3,
+      "category": "财经"
     },
     {
       "raw_hot": 842300,
@@ -235,6 +251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 654727,
+      "num": 654727,
+      "word": "亲属回应菜刀哥突发重病昏迷",
+      "onboard_time": 1739694917,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 644255,
       "num": 298618,
       "word": "记者买7件100%羊绒衫一根羊绒也没",
@@ -257,6 +281,22 @@
       "onboard_time": 1739679499,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 575293,
+      "num": 434148,
+      "word": "商家回应民宿里有带血的HIV试纸",
+      "onboard_time": 1739693418,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 567821,
+      "num": 567821,
+      "word": "难哄导演为请何炅客串写了三页信",
+      "onboard_time": 1739696419,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 548843,
@@ -339,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 463618,
+      "num": 382399,
+      "word": "林孝埈说我是中国人",
+      "onboard_time": 1739694858,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 461214,
       "num": 336433,
       "word": "国乒两位功勋教练之争实属罕见",
@@ -371,14 +419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 437818,
-      "num": 319163,
-      "word": "商家回应民宿里有带血的HIV试纸",
-      "onboard_time": 1739693418,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 431967,
       "num": 431967,
       "word": "林允有一种气血很足的美",
@@ -403,11 +443,11 @@
       "category": "民生新闻,科学科普"
     },
     {
-      "raw_hot": 425102,
-      "num": 403195,
-      "word": "咸鱼飞升",
-      "onboard_time": 1739693719,
-      "rank": 17,
+      "raw_hot": 417891,
+      "num": 417891,
+      "word": "他盛装出席她的毕业典礼",
+      "onboard_time": 1739694979,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -611,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 302872,
+      "num": 302872,
+      "word": "为什么刚洗完头就有巨多头皮屑",
+      "onboard_time": 1739691258,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 301676,
       "num": 246252,
       "word": "男子婚后无夫妻生活欲索回138万彩礼",
@@ -625,14 +673,6 @@
       "onboard_time": 1739626701,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 293712,
-      "num": 208540,
-      "word": "为什么刚洗完头就有巨多头皮屑",
-      "onboard_time": 1739691258,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 288573,
@@ -657,6 +697,14 @@
       "onboard_time": 1739676498,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 279768,
+      "num": 422058,
+      "word": "可以把冷空气撤回一下吗",
+      "onboard_time": 1739693660,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 272814,
@@ -771,6 +819,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 225308,
+      "num": 442178,
+      "word": "申小豹一口辣条音可爱爆了",
+      "onboard_time": 1739691858,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 224792,
       "num": 274446,
       "word": "校方回应老师被举报性侵",
@@ -809,6 +865,14 @@
       "onboard_time": 1739682858,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217755,
+      "num": 217755,
+      "word": "DeepSeek引发连锁反应",
+      "onboard_time": 1739693117,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 216331,
@@ -945,6 +1009,14 @@
       "onboard_time": 1739636600,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192224,
+      "num": 192224,
+      "word": "上美藕饼",
+      "onboard_time": 1739696658,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 192171,
@@ -1099,6 +1171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 171491,
+      "num": 383640,
+      "word": "王祖蓝好会给老婆准备惊喜",
+      "onboard_time": 1739696479,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171171,
       "num": 160991,
       "word": "原来在最懵懂的年纪就被喂了最细的糠",
@@ -1147,14 +1227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 166051,
-      "num": 166051,
-      "word": "申小豹一口辣条音可爱爆了",
-      "onboard_time": 1739691858,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 161625,
       "num": 161625,
       "word": "肖战独家大片花絮",
@@ -1163,20 +1235,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 157712,
+      "num": 157712,
+      "word": "原来切牛肉要横着切才嫩",
+      "onboard_time": 1739691378,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 156726,
       "num": 162866,
       "word": "于正说应该给五福临门磕一个",
       "onboard_time": 1739679800,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 156298,
-      "num": 156298,
-      "word": "原来切牛肉要横着切才嫩",
-      "onboard_time": 1739691378,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 156188,
@@ -1347,6 +1419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132785,
+      "num": 132785,
+      "word": "卢昱晓不让狗狗看柴安三娘大婚吻",
+      "onboard_time": 1739695338,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132765,
       "num": 132765,
       "word": "曝微信内测接入DeepSeek",
@@ -1363,20 +1443,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 132537,
-      "num": 132537,
-      "word": "他盛装出席她的毕业典礼",
-      "onboard_time": 1739694979,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 132419,
       "num": 132419,
       "word": "网传肖战主演刘医生返乡记",
       "onboard_time": 1739625681,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131213,
+      "num": 131213,
+      "word": "丁禹兮小七日常玩耍花絮",
+      "onboard_time": 1739697378,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 130937,
@@ -1419,14 +1499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 129261,
-      "num": 129261,
-      "word": "DeepSeek引发连锁反应",
-      "onboard_time": 1739693117,
-      "rank": 37,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 128521,
       "num": 128521,
       "word": "重庆带娃摆摊宝妈收到网友捐款四十多万元",
@@ -1443,12 +1515,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127222,
+      "num": 127222,
+      "word": "胡歌林一一个敢问一个敢答",
+      "onboard_time": 1739692457,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126587,
       "num": 126587,
       "word": "麦克朗三连冠",
       "onboard_time": 1739679139,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126499,
+      "num": 126499,
+      "word": "月明千里",
+      "onboard_time": 1739695878,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 125886,
@@ -1465,14 +1553,6 @@
       "onboard_time": 1739676199,
       "rank": 41,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 125496,
-      "num": 125496,
-      "word": "林孝埈说我是中国人",
-      "onboard_time": 1739694858,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 125463,
@@ -1499,28 +1579,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 121444,
-      "num": 121444,
-      "word": "可以把冷空气撤回一下吗",
-      "onboard_time": 1739693660,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120987,
       "num": 120987,
       "word": "特朗普称或将于4月2日对进口汽车征税",
       "onboard_time": 1739678839,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 119715,
-      "num": 119715,
-      "word": "胡歌林一一个敢问一个敢答",
-      "onboard_time": 1739692457,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 119281,
@@ -1555,6 +1619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114344,
+      "num": 195600,
+      "word": "花4万瘦身去拜拜肉手臂差点保不住",
+      "onboard_time": 1739696839,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113718,
       "num": 128627,
       "word": "国乒出战亚洲杯",
@@ -1579,6 +1651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111237,
+      "num": 111237,
+      "word": "哪吒2冲击全球票房榜前10",
+      "onboard_time": 1739697439,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 111037,
       "num": 111037,
       "word": "王家卫镜头下的张曼玉",
@@ -1601,14 +1681,6 @@
       "onboard_time": 1739663295,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 108676,
-      "num": 196108,
-      "word": "亲属回应菜刀哥突发重病昏迷",
-      "onboard_time": 1739694917,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104679,
@@ -1721,6 +1793,14 @@
       "onboard_time": 1739624360,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78521,
+      "num": 424697,
+      "word": "棋牌室扰民老板说给业主装隔音棉",
+      "onboard_time": 1739696538,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77985,
@@ -1940,7 +2020,7 @@
     },
     {
       "raw_hot": 28399,
-      "num": 656706,
+      "num": 903863,
       "word": "中国先进制造业上大分",
       "onboard_time": 1739642294,
       "rank": 48,
@@ -1953,6 +2033,14 @@
       "onboard_time": 1739689457,
       "rank": 29,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 26799,
+      "num": 428598,
+      "word": "有人凌晨4点排队买黄金",
+      "onboard_time": 1739697019,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 26353,
@@ -2008,6 +2096,14 @@
       "word": "U20国足两连胜晋级",
       "onboard_time": 1739640196,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 19394,
+      "num": 430979,
+      "word": "吕先景公路车亚锦赛冠军",
+      "onboard_time": 1739695398,
+      "rank": 12,
       "category": "体育"
     },
     {
