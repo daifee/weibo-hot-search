@@ -1,0 +1,410 @@
+{
+  "runTime": 1739687346108,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 946387,
+        "num": 1151421,
+        "word": "套圈中170万玛莎拉蒂男子称想折现",
+        "onboard_time": 1739685919,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 789572,
+        "num": 789572,
+        "word": "难哄里的何炅",
+        "onboard_time": 1739676259,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95168,
+        "num": 788951,
+        "word": "我国已建成3万多家基础级智能工厂",
+        "onboard_time": 1739682079,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1554834,
+        "num": 788816,
+        "word": "白头发是身体给你的压力警告",
+        "onboard_time": 1739682858,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 788679,
+        "num": 788679,
+        "word": "哪吒2海外排片量upupup",
+        "onboard_time": 1739676259,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 510309,
+        "num": 510309,
+        "word": "乌尔善说希望观众给封神3机会",
+        "onboard_time": 1739668520,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 373145,
+        "num": 373145,
+        "word": "余莺儿戏份线上平台正常播出",
+        "onboard_time": 1739683698,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 365349,
+        "num": 365349,
+        "word": "男子花6万5被中介骗去德国打黑工",
+        "onboard_time": 1739685078,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348745,
+        "num": 348745,
+        "word": "很多病都是脾虚引起的",
+        "onboard_time": 1739682858,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 344655,
+        "num": 344655,
+        "word": "用监控帮邻居查岗丈夫被告上法庭",
+        "onboard_time": 1739685498,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1207775,
+        "num": 340973,
+        "word": "李现拍的赵丽颖",
+        "onboard_time": 1739684239,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 461214,
+        "num": 336433,
+        "word": "国乒两位功勋教练之争实属罕见",
+        "onboard_time": 1739684178,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 351498,
+        "num": 334798,
+        "word": "看完哪吒2把从小吃到大的碗丢了",
+        "onboard_time": 1739679499,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 329937,
+        "num": 329937,
+        "word": "开学前全国统一姿势包书皮",
+        "onboard_time": 1739677879,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 315584,
+        "num": 315584,
+        "word": "哪吒2票房超116亿",
+        "onboard_time": 1739678177,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197293,
+        "num": 303248,
+        "word": "外媒称诗琳因脑膜炎去世",
+        "onboard_time": 1739679499,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299625,
+        "num": 299625,
+        "word": "哪吒2正面pk美国队长4",
+        "onboard_time": 1739672599,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 247950,
+        "num": 247950,
+        "word": "敖丙传",
+        "onboard_time": 1739677700,
+        "rank": 17,
+        "category": "动漫,电影"
+      },
+      {
+        "raw_hot": 237640,
+        "num": 237640,
+        "word": "哪吒2票房",
+        "onboard_time": 1739684778,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 670513,
+        "num": 237559,
+        "word": "得知闺蜜幼时是帮凶天塌了",
+        "onboard_time": 1739684239,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235018,
+        "num": 235018,
+        "word": "印度首都火车站踩踏事件现场曝光",
+        "onboard_time": 1739682739,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 216331,
+        "num": 216331,
+        "word": "名侦探学院",
+        "onboard_time": 1739686098,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205086,
+        "num": 205086,
+        "word": "女主变来变去男主爱来爱去",
+        "onboard_time": 1739682858,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201783,
+        "num": 201783,
+        "word": "赵露思回复陈腾跃没有菜籽油吃了",
+        "onboard_time": 1739685678,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187839,
+        "num": 187839,
+        "word": "一小行星有2%概率在2032年撞击地球",
+        "onboard_time": 1739667498,
+        "rank": 24,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 195457,
+        "num": 187830,
+        "word": "李现 我拍的微博之夜",
+        "onboard_time": 1739676199,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187499,
+        "num": 187499,
+        "word": "相柳蛇年上新剧了",
+        "onboard_time": 1739686217,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174844,
+        "num": 174844,
+        "word": "赵丽颖布达拉宫新颜旁白",
+        "onboard_time": 1739684898,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66518,
+        "num": 169748,
+        "word": "陈哲远 我不会变的",
+        "onboard_time": 1739682019,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169534,
+        "num": 169534,
+        "word": "女子被结了6次婚",
+        "onboard_time": 1739668340,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170305,
+        "num": 167069,
+        "word": "克拉岛",
+        "onboard_time": 1739682919,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155200,
+        "num": 155200,
+        "word": "蒋奇明日漫栗子头",
+        "onboard_time": 1739686759,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152647,
+        "num": 152647,
+        "word": "诗琳是清华大学本科学生",
+        "onboard_time": 1739676319,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142564,
+        "num": 142564,
+        "word": "医院回应女医生疑辱骂患者老妖婆",
+        "onboard_time": 1739676199,
+        "rank": 33,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 128063,
+        "num": 128063,
+        "word": "酒后小区挪车被认定醉驾司机起诉交警",
+        "onboard_time": 1739668698,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150497,
+        "num": 127820,
+        "word": "刘晓庆说感到不舒服时就拒绝",
+        "onboard_time": 1739676498,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147307,
+        "num": 126457,
+        "word": "李汶翰上班",
+        "onboard_time": 1739682198,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140564,
+        "num": 125964,
+        "word": "哪吒2版权保护公告发布",
+        "onboard_time": 1739681839,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 31949,
+        "num": 125195,
+        "word": "洁世一又又又夺冠了",
+        "onboard_time": 1739686039,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 124801,
+        "num": 124801,
+        "word": "特效影厅上次这么火还是2009年",
+        "onboard_time": 1739680519,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122359,
+        "num": 122359,
+        "word": "敖瑞鹏说同为敖家人也是沾光了",
+        "onboard_time": 1739680099,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121502,
+        "num": 121502,
+        "word": "章子怡说杨子太吓人",
+        "onboard_time": 1739672358,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114618,
+        "num": 114618,
+        "word": "海关查获藏零食罐里的2.4斤生腌响尾蛇",
+        "onboard_time": 1739672299,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114135,
+        "num": 114135,
+        "word": "我妈到底都在网上看了些啥",
+        "onboard_time": 1739678177,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113387,
+        "num": 113387,
+        "word": "记者买7件100%羊绒衫一根羊绒也没",
+        "onboard_time": 1739687298,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75850,
+        "num": 109838,
+        "word": "国乒出战亚洲杯",
+        "onboard_time": 1739683339,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109109,
+        "num": 109109,
+        "word": "总觉得自己卡粉是因为离得太近了",
+        "onboard_time": 1739682079,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 108305,
+        "num": 108305,
+        "word": "XYG",
+        "onboard_time": 1739676199,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108163,
+        "num": 108163,
+        "word": "央视曝直播间廉价纯羊绒真相",
+        "onboard_time": 1739687298,
+        "rank": 48,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 101567,
+        "num": 101567,
+        "word": "女医生疑辱骂患者不得好死",
+        "onboard_time": 1739671819,
+        "rank": 49,
+        "category": "舆论监督"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向第38届非洲联盟峰会致贺电#"
+    }
+  }
+}
