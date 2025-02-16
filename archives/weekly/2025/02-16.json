@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739744418041,
+  "endTime": 1739745441382,
   "band_list": [
     {
       "raw_hot": 17381826,
@@ -3075,6 +3075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39388,
+      "num": 35073,
+      "word": "郭德纲回应不让德云社直播带货",
+      "onboard_time": 1739743760,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 38792,
       "num": 117510,
       "word": "周末随心所欲也是一种快乐",
@@ -3091,12 +3099,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37412,
+      "num": 34748,
+      "word": "5种最差的早餐搭配组合",
+      "onboard_time": 1739728573,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 36571,
       "num": 93412,
       "word": "超43万条春节档电影侵权链接被查处",
       "onboard_time": 1739724736,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34805,
+      "num": 34805,
+      "word": "司机猝死10位卡友自费护送返乡",
+      "onboard_time": 1739733191,
+      "rank": 48,
+      "category": "正能量"
     },
     {
       "raw_hot": 33990,
@@ -3129,14 +3153,6 @@
       "onboard_time": 1739634561,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29537,
-      "num": 27119,
-      "word": "司机猝死10位卡友自费护送返乡",
-      "onboard_time": 1739733191,
-      "rank": 48,
-      "category": "正能量"
     },
     {
       "raw_hot": 29146,
@@ -3179,14 +3195,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 27852,
-      "num": 25669,
-      "word": "5种最差的早餐搭配组合",
-      "onboard_time": 1739728573,
-      "rank": 49,
-      "category": "美食"
-    },
-    {
       "raw_hot": 27523,
       "num": 27523,
       "word": "为什么总有人热衷排队",
@@ -3208,6 +3216,14 @@
       "word": "导游强迫购物大巴雪天停无人区",
       "onboard_time": 1739698040,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25554,
+      "num": 34658,
+      "word": "走失19天不幸去世女子父亲发声",
+      "onboard_time": 1739733612,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -3241,6 +3257,14 @@
       "onboard_time": 1739637017,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 22710,
+      "num": 34632,
+      "word": "哪吒版书皮得馋哭多少孩子",
+      "onboard_time": 1739745013,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 21900,
@@ -3283,14 +3307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19810,
-      "num": 19810,
-      "word": "走失19天不幸去世女子父亲发声",
-      "onboard_time": 1739733612,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 19394,
       "num": 430979,
       "word": "吕先景公路车亚锦赛冠军",
@@ -3305,14 +3321,6 @@
       "onboard_time": 1739709026,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 17384,
-      "num": 18163,
-      "word": "郭德纲回应不让德云社直播带货",
-      "onboard_time": 1739743760,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 17234,
