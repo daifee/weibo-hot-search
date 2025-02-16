@@ -1,7 +1,15 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739705734178,
+  "endTime": 1739709686524,
   "band_list": [
+    {
+      "raw_hot": 17381826,
+      "num": 17381826,
+      "word": "金赛纶去世",
+      "onboard_time": 1739707158,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 3115726,
       "num": 1037236,
@@ -25,6 +33,14 @@
       "onboard_time": 1739685919,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2502326,
+      "num": 1070739,
+      "word": "金赛纶 金秀贤",
+      "onboard_time": 1739708306,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 1989548,
@@ -75,6 +91,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1481497,
+      "num": 1051411,
+      "word": "三金",
+      "onboard_time": 1739708306,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1450407,
       "num": 1450407,
       "word": "男女主化蝶",
@@ -115,12 +139,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1217612,
+      "num": 1032041,
+      "word": "金冬天cue宁艺卓发言",
+      "onboard_time": 1739707401,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1214847,
       "num": 552939,
       "word": "哪吒2正面pk美国队长4",
       "onboard_time": 1739672599,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1094370,
+      "num": 1094370,
+      "word": "你设置付款码隐私保护了吗",
+      "onboard_time": 1739707401,
+      "rank": 3,
+      "category": "互联网"
     },
     {
       "raw_hot": 1051486,
@@ -249,6 +289,14 @@
       "onboard_time": 1739631800,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 755236,
+      "num": 755236,
+      "word": "今天是金秀贤生日",
+      "onboard_time": 1739708725,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 725650,
@@ -420,7 +468,7 @@
     },
     {
       "raw_hot": 500760,
-      "num": 331927,
+      "num": 1007461,
       "word": "郑州暴雨救祖孙3人的菜刀哥病危",
       "onboard_time": 1739703140,
       "rank": 15,
@@ -531,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 434774,
+      "num": 434774,
+      "word": "刘亦菲李宰汉聚会合照",
+      "onboard_time": 1739708846,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 431967,
       "num": 431967,
       "word": "林允有一种气血很足的美",
@@ -561,6 +617,14 @@
       "onboard_time": 1739700739,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 419872,
+      "num": 254786,
+      "word": "可可豆称哪吒2火出天际确实没想到",
+      "onboard_time": 1739704999,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 409150,
@@ -603,6 +667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 395163,
+      "num": 228184,
+      "word": "长期不吃早餐身体的危害",
+      "onboard_time": 1739707460,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 393396,
       "num": 393396,
       "word": "仙逆",
@@ -625,6 +697,14 @@
       "onboard_time": 1739666118,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 385704,
+      "num": 227375,
+      "word": "爱在高中",
+      "onboard_time": 1739708664,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 384476,
@@ -697,6 +777,14 @@
       "onboard_time": 1739690357,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 350872,
+      "num": 222754,
+      "word": "甄嬛传连门声都被开发出来了",
+      "onboard_time": 1739705419,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 343152,
@@ -811,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 289714,
+      "num": 221728,
+      "word": "金智秀朴彩英一起下班",
+      "onboard_time": 1739703260,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 288573,
       "num": 242430,
       "word": "哪吒2版权保护公告发布",
@@ -825,14 +921,6 @@
       "onboard_time": 1739677339,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 286380,
-      "num": 221728,
-      "word": "金智秀朴彩英一起下班",
-      "onboard_time": 1739703260,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 284192,
@@ -873,6 +961,14 @@
       "onboard_time": 1739628681,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 266956,
+      "num": 219414,
+      "word": "刘亦菲请朱珠剧组喝咖啡",
+      "onboard_time": 1739706020,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 264485,
@@ -955,6 +1051,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 250194,
+      "num": 250194,
+      "word": "男子囤胖东来几百桶花生油卖不掉",
+      "onboard_time": 1739708065,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 249853,
       "num": 442178,
       "word": "申小豹一口辣条音可爱爆了",
@@ -976,6 +1080,14 @@
       "word": "棋牌室扰民老板说给业主装隔音棉",
       "onboard_time": 1739696538,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 235357,
+      "num": 235357,
+      "word": "女幼师被害案凶手自辩有精神疾病",
+      "onboard_time": 1739707579,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -1059,6 +1171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217446,
+      "num": 217446,
+      "word": "珂润直播",
+      "onboard_time": 1739708306,
+      "rank": 35,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 216331,
       "num": 216331,
       "word": "名侦探学院",
@@ -1083,20 +1203,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 210968,
-      "num": 210968,
-      "word": "可可豆称哪吒2火出天际确实没想到",
-      "onboard_time": 1739704999,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 210302,
       "num": 210302,
       "word": "张超发声",
       "onboard_time": 1739691499,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209806,
+      "num": 209806,
+      "word": "韩国观众给予哪吒2很高的评价",
+      "onboard_time": 1739708486,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 209604,
@@ -1179,6 +1299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 198366,
+      "num": 209976,
+      "word": "eStar战胜JDG",
+      "onboard_time": 1739709085,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 197245,
       "num": 197245,
       "word": "赵丽颖布达拉宫新颜旁白",
@@ -1241,6 +1369,14 @@
       "onboard_time": 1739634140,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190318,
+      "num": 190318,
+      "word": "义乌幼儿园开学外籍孩子占一半",
+      "onboard_time": 1739708782,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189841,
@@ -1337,6 +1473,14 @@
       "onboard_time": 1739680519,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 181692,
+      "num": 181692,
+      "word": "60岁老人出现白肺鱼肝油竟是元凶",
+      "onboard_time": 1739709145,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 181564,
@@ -1513,6 +1657,14 @@
       "onboard_time": 1739686759,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154644,
+      "num": 154644,
+      "word": "小欢喜李庚希周奇郭子凡鼓励吴施乐",
+      "onboard_time": 1739709325,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 154029,
@@ -1771,14 +1923,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 129284,
-      "num": 129284,
-      "word": "甄嬛传连门声都被开发出来了",
-      "onboard_time": 1739705419,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 128521,
       "num": 128521,
       "word": "重庆带娃摆摊宝妈收到网友捐款四十多万元",
@@ -2035,6 +2179,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 104167,
+      "num": 981620,
+      "word": "60秒看中国智造齐聚一堂",
+      "onboard_time": 1739708907,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 102819,
       "num": 102819,
       "word": "王者荣耀灵宝市集",
@@ -2179,6 +2331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68980,
+      "num": 229752,
+      "word": "官方回应套圈套中玛莎拉蒂疑摆拍",
+      "onboard_time": 1739708365,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68215,
       "num": 1064711,
       "word": "我国成全球领先的人形机器人生产国",
@@ -2201,6 +2361,14 @@
       "onboard_time": 1739678001,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62469,
+      "num": 225175,
+      "word": "重庆燃气被整改后仍存抄表混乱问题",
+      "onboard_time": 1739707763,
+      "rank": 25,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 62137,
@@ -2355,6 +2523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29146,
+      "num": 226386,
+      "word": "吴敬平晒手书青松",
+      "onboard_time": 1739708907,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29103,
       "num": 111967,
       "word": "终于有人能接上哪吒的Rap了",
@@ -2372,7 +2548,7 @@
     },
     {
       "raw_hot": 28399,
-      "num": 1008077,
+      "num": 1115273,
       "word": "中国先进制造业上大分",
       "onboard_time": 1739642294,
       "rank": 48,
@@ -2457,6 +2633,14 @@
       "onboard_time": 1739695398,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18219,
+      "num": 230580,
+      "word": "赵丽颖手里拿着哪吒玩偶",
+      "onboard_time": 1739709026,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 17234,
