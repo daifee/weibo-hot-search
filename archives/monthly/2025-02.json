@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739710525849,
+  "endTime": 1739712212640,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -2443,6 +2443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1293657,
+      "num": 1293657,
+      "word": "你设置付款码隐私保护了吗",
+      "onboard_time": 1739707401,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1293515,
       "num": 1293515,
       "word": "医院回应禁止非医学需要终止妊娠",
@@ -3209,14 +3217,6 @@
       "onboard_time": 1739097800,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1094370,
-      "num": 1094370,
-      "word": "你设置付款码隐私保护了吗",
-      "onboard_time": 1739707401,
-      "rank": 3,
-      "category": "互联网"
     },
     {
       "raw_hot": 1093484,
@@ -4777,6 +4777,14 @@
       "onboard_time": 1739334622,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 828889,
+      "num": 269709,
+      "word": "哪吒2突破119亿",
+      "onboard_time": 1739709744,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 827861,
@@ -7963,6 +7971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 551134,
+      "num": 240023,
+      "word": "曝光12亿贪腐案印度记者惨死化粪池",
+      "onboard_time": 1739711907,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 550850,
       "num": 542156,
       "word": "战狼",
@@ -8787,6 +8803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 511434,
+      "num": 274880,
+      "word": "长期不吃早餐身体的危害",
+      "onboard_time": 1739707460,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 511214,
       "num": 411755,
       "word": "哪吒2里一根根锁链是导演的坚持",
@@ -9595,6 +9619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 473441,
+      "num": 265701,
+      "word": "小欢喜李庚希周奇郭子凡鼓励吴施乐",
+      "onboard_time": 1739709325,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 472765,
       "num": 362961,
       "word": "节后减重多吃3种发酵食物",
@@ -9609,14 +9641,6 @@
       "onboard_time": 1738743143,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 472737,
-      "num": 274880,
-      "word": "长期不吃早餐身体的危害",
-      "onboard_time": 1739707460,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 472460,
@@ -10585,6 +10609,14 @@
       "onboard_time": 1738572028,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 428022,
+      "num": 237118,
+      "word": "哪吒2票房一天一个新突破",
+      "onboard_time": 1739711065,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 428006,
@@ -12435,14 +12467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 359137,
-      "num": 269709,
-      "word": "哪吒2突破119亿",
-      "onboard_time": 1739709744,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 358978,
       "num": 218159,
       "word": "希林娜依高失声后思考换一种生活方式",
@@ -12593,6 +12617,14 @@
       "onboard_time": 1738904486,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 354194,
+      "num": 306112,
+      "word": "珂润直播",
+      "onboard_time": 1739708306,
+      "rank": 35,
+      "category": "美妆"
     },
     {
       "raw_hot": 354111,
@@ -13057,6 +13089,14 @@
       "onboard_time": 1739188221,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 340092,
+      "num": 280667,
+      "word": "男子囤胖东来几百桶花生油卖不掉",
+      "onboard_time": 1739708065,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 340027,
@@ -14499,14 +14539,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 306112,
-      "num": 306112,
-      "word": "珂润直播",
-      "onboard_time": 1739708306,
-      "rank": 35,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 305957,
       "num": 281736,
       "word": "关晓彤为哪吒2国漫打call",
@@ -14857,14 +14889,6 @@
       "onboard_time": 1739434100,
       "rank": 7,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 299009,
-      "num": 280667,
-      "word": "男子囤胖东来几百桶花生油卖不掉",
-      "onboard_time": 1739708065,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 298969,
@@ -15275,6 +15299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 289930,
+      "num": 280357,
+      "word": "女幼师被害案凶手自辩有精神疾病",
+      "onboard_time": 1739707579,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 289820,
       "num": 289820,
       "word": "李小冉反省自己一着急就会臭脸",
@@ -15289,22 +15321,6 @@
       "onboard_time": 1739703260,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 289506,
-      "num": 265701,
-      "word": "小欢喜李庚希周奇郭子凡鼓励吴施乐",
-      "onboard_time": 1739709325,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 289418,
-      "num": 280357,
-      "word": "女幼师被害案凶手自辩有精神疾病",
-      "onboard_time": 1739707579,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 289395,
@@ -17819,6 +17835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 245235,
+      "num": 273701,
+      "word": "在河北博物院找到了七色宝莲",
+      "onboard_time": 1739710045,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 245225,
       "num": 215295,
       "word": "大侦探",
@@ -18667,6 +18691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 232061,
+      "num": 278382,
+      "word": "义乌幼儿园开学外籍孩子占一半",
+      "onboard_time": 1739708782,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 231799,
       "num": 231799,
       "word": "用deepseek写的歌在网易云火了",
@@ -19065,6 +19097,14 @@
       "onboard_time": 1738901726,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 227710,
+      "num": 214318,
+      "word": "徐明浩的A来了",
+      "onboard_time": 1739711545,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 227694,
@@ -20211,6 +20251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217749,
+      "num": 217749,
+      "word": "60岁老人出现白肺鱼肝油竟是元凶",
+      "onboard_time": 1739709145,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 217714,
       "num": 277204,
       "word": "林诗栋4比1林昀儒",
@@ -21107,14 +21155,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 209718,
-      "num": 278382,
-      "word": "义乌幼儿园开学外籍孩子占一半",
-      "onboard_time": 1739708782,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 209604,
       "num": 184530,
       "word": "李汶翰上班",
@@ -21304,6 +21344,14 @@
       "word": "张康乐 BBR",
       "onboard_time": 1739280382,
       "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 208565,
+      "num": 208565,
+      "word": "道熙呀",
+      "onboard_time": 1739711725,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -22667,6 +22715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200016,
+      "num": 241670,
+      "word": "烟花炸伤右眼案已立为刑事案件",
+      "onboard_time": 1739711125,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199900,
       "num": 199900,
       "word": "雷军开小米YU7实测一千公里",
@@ -23155,6 +23211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197132,
+      "num": 197132,
+      "word": "iG淘汰赛对战TES",
+      "onboard_time": 1739711304,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 197100,
       "num": 197100,
       "word": "间接亲吻怎么不算亲呢",
@@ -23489,14 +23553,6 @@
       "onboard_time": 1738382777,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 195509,
-      "num": 216282,
-      "word": "60岁老人出现白肺鱼肝油竟是元凶",
-      "onboard_time": 1739709145,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 195412,
@@ -25251,6 +25307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185717,
+      "num": 185717,
+      "word": "特朗普称有人想拆散他和马斯克",
+      "onboard_time": 1739710465,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 185679,
       "num": 225108,
       "word": "封神第二部已成功打入小孩圈",
@@ -26249,6 +26313,14 @@
       "onboard_time": 1739331742,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180014,
+      "num": 216159,
+      "word": "LPL第一赛段抽签",
+      "onboard_time": 1739710465,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 180009,
@@ -29795,14 +29867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 158079,
-      "num": 216159,
-      "word": "LPL第一赛段抽签",
-      "onboard_time": 1739710465,
-      "rank": 39,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 157990,
       "num": 157990,
       "word": "给哪吒rap配音全身都得动",
@@ -31355,14 +31419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 149242,
-      "num": 273701,
-      "word": "在河北博物院找到了七色宝莲",
-      "onboard_time": 1739710045,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 149187,
       "num": 131296,
       "word": "二月最幸运星座",
@@ -31377,6 +31433,14 @@
       "onboard_time": 1739354601,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 149114,
+      "num": 149114,
+      "word": "吴敬平尹肖的争论折射国乒转型之痛",
+      "onboard_time": 1739710885,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 149106,
@@ -31593,6 +31657,14 @@
       "onboard_time": 1739169200,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147220,
+      "num": 147220,
+      "word": "干物妹小埋参考了妹妹",
+      "onboard_time": 1739711907,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 147215,
@@ -32089,6 +32161,14 @@
       "onboard_time": 1738656324,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 144999,
+      "num": 242864,
+      "word": "董思成直播",
+      "onboard_time": 1739705839,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 144984,
@@ -34073,14 +34153,6 @@
       "onboard_time": 1738824564,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 133163,
-      "num": 133163,
-      "word": "特朗普称有人想拆散他和马斯克",
-      "onboard_time": 1739710465,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 133157,
@@ -43024,6 +43096,14 @@
       "word": "工作友谊也会断崖式分手",
       "onboard_time": 1739614100,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60770,
+      "num": 252787,
+      "word": "广西零容忍打击侵害未成年人犯罪",
+      "onboard_time": 1739710825,
+      "rank": 9,
       "category": "民生新闻"
     },
     {

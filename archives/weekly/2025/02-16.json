@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739710525849,
+  "endTime": 1739712212640,
   "band_list": [
     {
       "raw_hot": 17381826,
@@ -123,6 +123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1293657,
+      "num": 1293657,
+      "word": "你设置付款码隐私保护了吗",
+      "onboard_time": 1739707401,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1257053,
       "num": 639779,
       "word": "央视曝直播间廉价纯羊绒真相",
@@ -161,14 +169,6 @@
       "onboard_time": 1739672599,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1094370,
-      "num": 1094370,
-      "word": "你设置付款码隐私保护了吗",
-      "onboard_time": 1739707401,
-      "rank": 3,
-      "category": "互联网"
     },
     {
       "raw_hot": 1051486,
@@ -241,6 +241,14 @@
       "onboard_time": 1739668698,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 828889,
+      "num": 269709,
+      "word": "哪吒2突破119亿",
+      "onboard_time": 1739709744,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 825301,
@@ -419,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 551134,
+      "num": 240023,
+      "word": "曝光12亿贪腐案印度记者惨死化粪池",
+      "onboard_time": 1739711907,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 548843,
       "num": 336708,
       "word": "漫城这对啃成这样",
@@ -475,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 511434,
+      "num": 274880,
+      "word": "长期不吃早餐身体的危害",
+      "onboard_time": 1739707460,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 500760,
       "num": 1007461,
       "word": "郑州暴雨救祖孙3人的菜刀哥病危",
@@ -507,12 +531,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 472737,
-      "num": 274880,
-      "word": "长期不吃早餐身体的危害",
-      "onboard_time": 1739707460,
-      "rank": 22,
-      "category": "健康医疗"
+      "raw_hot": 473441,
+      "num": 265701,
+      "word": "小欢喜李庚希周奇郭子凡鼓励吴施乐",
+      "onboard_time": 1739709325,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 471235,
@@ -625,6 +649,14 @@
       "onboard_time": 1739667498,
       "rank": 37,
       "category": "民生新闻,科学科普"
+    },
+    {
+      "raw_hot": 428022,
+      "num": 237118,
+      "word": "哪吒2票房一天一个新突破",
+      "onboard_time": 1739711065,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 426339,
@@ -771,20 +803,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 359137,
-      "num": 269709,
-      "word": "哪吒2突破119亿",
-      "onboard_time": 1739709744,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 358978,
       "num": 218159,
       "word": "希林娜依高失声后思考换一种生活方式",
       "onboard_time": 1739690357,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 354194,
+      "num": 306112,
+      "word": "珂润直播",
+      "onboard_time": 1739708306,
+      "rank": 35,
+      "category": "美妆"
     },
     {
       "raw_hot": 350872,
@@ -801,6 +833,14 @@
       "onboard_time": 1739676199,
       "rank": 36,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 340092,
+      "num": 280667,
+      "word": "男子囤胖东来几百桶花生油卖不掉",
+      "onboard_time": 1739708065,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 339148,
@@ -883,14 +923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 306112,
-      "num": 306112,
-      "word": "珂润直播",
-      "onboard_time": 1739708306,
-      "rank": 35,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 302872,
       "num": 302872,
       "word": "为什么刚洗完头就有巨多头皮屑",
@@ -915,11 +947,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 299009,
-      "num": 280667,
-      "word": "男子囤胖东来几百桶花生油卖不掉",
-      "onboard_time": 1739708065,
-      "rank": 16,
+      "raw_hot": 289930,
+      "num": 280357,
+      "word": "女幼师被害案凶手自辩有精神疾病",
+      "onboard_time": 1739707579,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -929,22 +961,6 @@
       "onboard_time": 1739703260,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 289506,
-      "num": 265701,
-      "word": "小欢喜李庚希周奇郭子凡鼓励吴施乐",
-      "onboard_time": 1739709325,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 289418,
-      "num": 280357,
-      "word": "女幼师被害案凶手自辩有精神疾病",
-      "onboard_time": 1739707579,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 288573,
@@ -1099,6 +1115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 245235,
+      "num": 273701,
+      "word": "在河北博物院找到了七色宝莲",
+      "onboard_time": 1739710045,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 243524,
       "num": 235163,
       "word": "张钧甯看了哪吒2",
@@ -1131,6 +1155,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 232061,
+      "num": 278382,
+      "word": "义乌幼儿园开学外籍孩子占一半",
+      "onboard_time": 1739708782,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 231191,
       "num": 231191,
       "word": "来财",
@@ -1145,6 +1177,14 @@
       "onboard_time": 1739661735,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 227710,
+      "num": 214318,
+      "word": "徐明浩的A来了",
+      "onboard_time": 1739711545,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 224792,
@@ -1195,6 +1235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217749,
+      "num": 217749,
+      "word": "60岁老人出现白肺鱼肝油竟是元凶",
+      "onboard_time": 1739709145,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 216331,
       "num": 216331,
       "word": "名侦探学院",
@@ -1235,14 +1283,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 209718,
-      "num": 278382,
-      "word": "义乌幼儿园开学外籍孩子占一半",
-      "onboard_time": 1739708782,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 209604,
       "num": 184530,
       "word": "李汶翰上班",
@@ -1256,6 +1296,14 @@
       "word": "宁艺卓没有发言",
       "onboard_time": 1739673979,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 208565,
+      "num": 208565,
+      "word": "道熙呀",
+      "onboard_time": 1739711725,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -1299,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200016,
+      "num": 241670,
+      "word": "烟花炸伤右眼案已立为刑事案件",
+      "onboard_time": 1739711125,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199889,
       "num": 199889,
       "word": "李嘉琦浪姐出发差点上错车",
@@ -1339,20 +1395,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197132,
+      "num": 197132,
+      "word": "iG淘汰赛对战TES",
+      "onboard_time": 1739711304,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 195570,
       "num": 195570,
       "word": "周峻纬优绩主义将人物化",
       "onboard_time": 1739694257,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195509,
-      "num": 216282,
-      "word": "60岁老人出现白肺鱼肝油竟是元凶",
-      "onboard_time": 1739709145,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 194755,
@@ -1369,6 +1425,14 @@
       "onboard_time": 1739676619,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193689,
+      "num": 193689,
+      "word": "黄金",
+      "onboard_time": 1739710465,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 193591,
@@ -1459,6 +1523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 185717,
+      "num": 185717,
+      "word": "特朗普称有人想拆散他和马斯克",
+      "onboard_time": 1739710465,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 184252,
       "num": 184252,
       "word": "女生许愿男友永不出轨蜡烛吹不灭",
@@ -1521,6 +1593,14 @@
       "onboard_time": 1739641335,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180014,
+      "num": 216159,
+      "word": "LPL第一赛段抽签",
+      "onboard_time": 1739710465,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 177589,
@@ -1643,14 +1723,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 158079,
-      "num": 216159,
-      "word": "LPL第一赛段抽签",
-      "onboard_time": 1739710465,
-      "rank": 39,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 157712,
       "num": 157712,
       "word": "原来切牛肉要横着切才嫩",
@@ -1739,12 +1811,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 149242,
-      "num": 273701,
-      "word": "在河北博物院找到了七色宝莲",
-      "onboard_time": 1739710045,
-      "rank": 21,
-      "category": "电影"
+      "raw_hot": 149114,
+      "num": 149114,
+      "word": "吴敬平尹肖的争论折射国乒转型之痛",
+      "onboard_time": 1739710885,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 147220,
+      "num": 147220,
+      "word": "干物妹小埋参考了妹妹",
+      "onboard_time": 1739711907,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 146800,
@@ -1753,6 +1833,14 @@
       "onboard_time": 1739630422,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144999,
+      "num": 242864,
+      "word": "董思成直播",
+      "onboard_time": 1739705839,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 144825,
@@ -1889,14 +1977,6 @@
       "onboard_time": 1739690717,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 133163,
-      "num": 133163,
-      "word": "特朗普称有人想拆散他和马斯克",
-      "onboard_time": 1739710465,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 132765,
@@ -2073,14 +2153,6 @@
       "onboard_time": 1739678839,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 120371,
-      "num": 132884,
-      "word": "黄金",
-      "onboard_time": 1739710465,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 119281,
@@ -2441,6 +2513,14 @@
       "onboard_time": 1739690777,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 60770,
+      "num": 252787,
+      "word": "广西零容忍打击侵害未成年人犯罪",
+      "onboard_time": 1739710825,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60581,
