@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739726344716,
+  "endTime": 1739727318852,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -42483,6 +42483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70398,
+      "num": 70398,
+      "word": "ive师妹",
+      "onboard_time": 1739726475,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 70381,
       "num": 85803,
       "word": "热刺vs曼联",
@@ -46369,6 +46377,14 @@
       "onboard_time": 1738753464,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37717,
+      "num": 143545,
+      "word": "徐梦桃被一个问题瞬间问哭",
+      "onboard_time": 1739726175,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 37688,
@@ -50409,14 +50425,6 @@
       "onboard_time": 1738519033,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 9538,
-      "num": 93228,
-      "word": "徐梦桃被一个问题瞬间问哭",
-      "onboard_time": 1739726175,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 9533,
