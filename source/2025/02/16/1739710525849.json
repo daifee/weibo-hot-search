@@ -1,0 +1,410 @@
+{
+  "runTime": 1739710525849,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 14140486,
+        "num": 14140486,
+        "word": "金赛纶去世",
+        "onboard_time": 1739707158,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1122040,
+        "num": 1122040,
+        "word": "微信DeepSeek王炸组合",
+        "onboard_time": 1739701398,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 13094,
+        "num": 1068384,
+        "word": "中国先进制造业上大分",
+        "onboard_time": 1739642294,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1062030,
+        "num": 1062030,
+        "word": "你设置付款码隐私保护了吗",
+        "onboard_time": 1739707401,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 440363,
+        "num": 440363,
+        "word": "套圈中170万玛莎拉蒂男子称想折现",
+        "onboard_time": 1739685919,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2873262,
+        "num": 411316,
+        "word": "金赛纶 金秀贤",
+        "onboard_time": 1739708306,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1547282,
+        "num": 405309,
+        "word": "三金",
+        "onboard_time": 1739708306,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348262,
+        "num": 348262,
+        "word": "郑州暴雨救祖孙3人的菜刀哥病危",
+        "onboard_time": 1739703140,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306112,
+        "num": 306112,
+        "word": "珂润直播",
+        "onboard_time": 1739708306,
+        "rank": 8,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 288607,
+        "num": 288607,
+        "word": "小米SU7断轴车主承认欺瞒网友",
+        "onboard_time": 1739698099,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1887589,
+        "num": 288126,
+        "word": "今天是金秀贤生日",
+        "onboard_time": 1739708725,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1155524,
+        "num": 285969,
+        "word": "金冬天cue宁艺卓发言",
+        "onboard_time": 1739707401,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 800518,
+        "num": 285648,
+        "word": "哪吒2冲击全球票房榜前10",
+        "onboard_time": 1739697439,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 791095,
+        "num": 284153,
+        "word": "爱在高中",
+        "onboard_time": 1739708664,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 449871,
+        "num": 283153,
+        "word": "刘亦菲李宰汉聚会合照",
+        "onboard_time": 1739708846,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 299009,
+        "num": 280667,
+        "word": "男子囤胖东来几百桶花生油卖不掉",
+        "onboard_time": 1739708065,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289418,
+        "num": 280357,
+        "word": "女幼师被害案凶手自辩有精神疾病",
+        "onboard_time": 1739707579,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209718,
+        "num": 278382,
+        "word": "义乌幼儿园开学外籍孩子占一半",
+        "onboard_time": 1739708782,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178401,
+        "num": 277086,
+        "word": "花4万瘦身去拜拜肉手臂差点保不住",
+        "onboard_time": 1739696839,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168169,
+        "num": 275580,
+        "word": "黄金高位跳水",
+        "onboard_time": 1739695518,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 472737,
+        "num": 274880,
+        "word": "长期不吃早餐身体的危害",
+        "onboard_time": 1739707460,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149242,
+        "num": 273701,
+        "word": "在河北博物院找到了七色宝莲",
+        "onboard_time": 1739710045,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 420120,
+        "num": 271314,
+        "word": "难哄导演为请何炅客串写了三页信",
+        "onboard_time": 1739696419,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 405081,
+        "num": 271078,
+        "word": "冯小刚曾向饺子发出邀约",
+        "onboard_time": 1739702179,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 359137,
+        "num": 269709,
+        "word": "哪吒2突破119亿",
+        "onboard_time": 1739709744,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 301890,
+        "num": 268265,
+        "word": "乌尔善回应封神2遭滑铁卢",
+        "onboard_time": 1739699178,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 298291,
+        "num": 267024,
+        "word": "可可豆称哪吒2火出天际确实没想到",
+        "onboard_time": 1739704999,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 289506,
+        "num": 265701,
+        "word": "小欢喜李庚希周奇郭子凡鼓励吴施乐",
+        "onboard_time": 1739709325,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264428,
+        "num": 264428,
+        "word": "林孝埈说我是中国人",
+        "onboard_time": 1739694858,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146698,
+        "num": 253864,
+        "word": "eStar战胜JDG",
+        "onboard_time": 1739709085,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 250886,
+        "num": 250886,
+        "word": "甄嬛传连门声都被开发出来了",
+        "onboard_time": 1739705419,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241838,
+        "num": 241838,
+        "word": "刘亦菲请朱珠剧组喝咖啡",
+        "onboard_time": 1739706020,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234881,
+        "num": 234881,
+        "word": "金智秀朴彩英一起下班",
+        "onboard_time": 1739703260,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 125398,
+        "num": 221469,
+        "word": "重庆燃气集团发布公告",
+        "onboard_time": 1739701279,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131979,
+        "num": 219302,
+        "word": "60秒看中国智造齐聚一堂",
+        "onboard_time": 1739708907,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 218051,
+        "num": 218051,
+        "word": "李现拍的赵丽颖",
+        "onboard_time": 1739684239,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 216585,
+        "num": 216585,
+        "word": "上了班才理解了李慧珍",
+        "onboard_time": 1739697919,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195509,
+        "num": 216282,
+        "word": "60岁老人出现白肺鱼肝油竟是元凶",
+        "onboard_time": 1739709145,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 173746,
+        "num": 216178,
+        "word": "为什么刚洗完头就有巨多头皮屑",
+        "onboard_time": 1739691258,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 158079,
+        "num": 216159,
+        "word": "LPL第一赛段抽签",
+        "onboard_time": 1739710465,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 216147,
+        "num": 216147,
+        "word": "李现拍的白敬亭吴磊",
+        "onboard_time": 1739697679,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212345,
+        "num": 212345,
+        "word": "封神第三部已剪完",
+        "onboard_time": 1739700138,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205530,
+        "num": 205530,
+        "word": "韩国观众给予哪吒2很高的评价",
+        "onboard_time": 1739708486,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137233,
+        "num": 185057,
+        "word": "Shaoye 4396",
+        "onboard_time": 1739710105,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 183842,
+        "num": 183842,
+        "word": "邓为不语只是一味晒猫",
+        "onboard_time": 1739709806,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171964,
+        "num": 171964,
+        "word": "只有考上985和211才有出路吗",
+        "onboard_time": 1739701519,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133163,
+        "num": 133163,
+        "word": "特朗普称有人想拆散他和马斯克",
+        "onboard_time": 1739710465,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120371,
+        "num": 132884,
+        "word": "黄金",
+        "onboard_time": 1739710465,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 118152,
+        "num": 132484,
+        "word": "王中和被查",
+        "onboard_time": 1739701339,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117914,
+        "num": 132117,
+        "word": "女生许愿男友永不出轨蜡烛吹不灭",
+        "onboard_time": 1739697738,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向第38届非洲联盟峰会致贺电#"
+    }
+  }
+}
