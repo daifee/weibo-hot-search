@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1739687346108,
+  "endTime": 1739688114666,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -2323,6 +2323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2168098,
+      "num": 2168098,
+      "word": "套圈中170万玛莎拉蒂男子称想折现",
+      "onboard_time": 1739685919,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2166099,
       "num": 2166099,
       "word": "杨子黄圣依彻底分开了",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1738559436,
       "rank": 15,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 2142887,
-      "num": 1128472,
-      "word": "贺美琦加入时代峰峻",
-      "onboard_time": 1739514141,
-      "rank": 6,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
