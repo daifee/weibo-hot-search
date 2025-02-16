@@ -1,0 +1,410 @@
+{
+  "runTime": 1739680766237,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1822140,
+        "num": 1822140,
+        "word": "难哄里的何炅",
+        "onboard_time": 1739676259,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 544295,
+        "num": 544295,
+        "word": "酒后小区挪车被认定醉驾司机起诉交警",
+        "onboard_time": 1739668698,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34287,
+        "num": 531273,
+        "word": "我国成全球领先的人形机器人生产国",
+        "onboard_time": 1739623880,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1224921,
+        "num": 529680,
+        "word": "哪吒2海外排片量upupup",
+        "onboard_time": 1739676259,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 528070,
+        "num": 528070,
+        "word": "开学前全国统一姿势包书皮",
+        "onboard_time": 1739677879,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 358923,
+        "num": 358923,
+        "word": "一小行星有2%概率在2032年撞击地球",
+        "onboard_time": 1739667498,
+        "rank": 5,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 698836,
+        "num": 322479,
+        "word": "乌尔善说希望观众给封神3机会",
+        "onboard_time": 1739668520,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 690805,
+        "num": 305743,
+        "word": "诗琳是清华大学本科学生",
+        "onboard_time": 1739676319,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253294,
+        "num": 253294,
+        "word": "扣篮大赛",
+        "onboard_time": 1739676498,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250266,
+        "num": 250266,
+        "word": "海关查获藏零食罐里的2.4斤生腌响尾蛇",
+        "onboard_time": 1739672299,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 623317,
+        "num": 250088,
+        "word": "哪吒2正面pk美国队长4",
+        "onboard_time": 1739672599,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 521339,
+        "num": 249648,
+        "word": "刘晓庆说感到不舒服时就拒绝",
+        "onboard_time": 1739676498,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 509022,
+        "num": 248791,
+        "word": "李现 我拍的微博之夜",
+        "onboard_time": 1739676199,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 359542,
+        "num": 248538,
+        "word": "外媒称诗琳因脑膜炎去世",
+        "onboard_time": 1739679499,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344724,
+        "num": 247851,
+        "word": "女医生疑辱骂患者不得好死",
+        "onboard_time": 1739671819,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 247555,
+        "num": 247555,
+        "word": "医院回应女医生疑辱骂患者老妖婆",
+        "onboard_time": 1739676199,
+        "rank": 15,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 231143,
+        "num": 231143,
+        "word": "女子被结了6次婚",
+        "onboard_time": 1739668340,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210855,
+        "num": 210855,
+        "word": "XYG",
+        "onboard_time": 1739676199,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 167630,
+        "num": 167630,
+        "word": "第一次见把房子打包带走的搬家",
+        "onboard_time": 1739669478,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143367,
+        "num": 167255,
+        "word": "男子3小时花费2000元套中玛莎拉蒂",
+        "onboard_time": 1739632043,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306662,
+        "num": 167040,
+        "word": "诗琳大年初一还上过节目",
+        "onboard_time": 1739678057,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292713,
+        "num": 166414,
+        "word": "敖丙传",
+        "onboard_time": 1739677700,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 291641,
+        "num": 165841,
+        "word": "哪吒2票房超116亿",
+        "onboard_time": 1739678177,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 231712,
+        "num": 165662,
+        "word": "章子怡说杨子太吓人",
+        "onboard_time": 1739672358,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46881,
+        "num": 164867,
+        "word": "杜兰特欧文哈登又在一起了",
+        "onboard_time": 1739675778,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226937,
+        "num": 164297,
+        "word": "我是哪吒2千万票房被批诈骗",
+        "onboard_time": 1739666777,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 224987,
+        "num": 163817,
+        "word": "见多了爽文女主第一次见爽文母女",
+        "onboard_time": 1739677339,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184717,
+        "num": 163410,
+        "word": "男子开车撞伤女生因探病日久生情结婚",
+        "onboard_time": 1739663416,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150101,
+        "num": 162866,
+        "word": "于正说应该给五福临门磕一个",
+        "onboard_time": 1739679800,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23539,
+        "num": 162603,
+        "word": "回顾94年的秀场风格",
+        "onboard_time": 1739680039,
+        "rank": 29,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 200563,
+        "num": 162219,
+        "word": "敖瑞鹏说同为敖家人也是沾光了",
+        "onboard_time": 1739680099,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198727,
+        "num": 161740,
+        "word": "看完哪吒2把从小吃到大的碗丢了",
+        "onboard_time": 1739679499,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171171,
+        "num": 160991,
+        "word": "原来在最懵懂的年纪就被喂了最细的糠",
+        "onboard_time": 1739679619,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184085,
+        "num": 160593,
+        "word": "哪吒打油诗英文也押韵",
+        "onboard_time": 1739667317,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142191,
+        "num": 159919,
+        "word": "孙颖莎亚洲杯出发",
+        "onboard_time": 1739679379,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159845,
+        "num": 159845,
+        "word": "代高政回应给章子怡下跪",
+        "onboard_time": 1739676619,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153538,
+        "num": 153538,
+        "word": "难哄ost阵容",
+        "onboard_time": 1739671759,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130846,
+        "num": 144271,
+        "word": "乒乓球双打是否会耽误单打",
+        "onboard_time": 1739679858,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129060,
+        "num": 143402,
+        "word": "金饰价格一夜大跌18元每克",
+        "onboard_time": 1739661735,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124896,
+        "num": 143378,
+        "word": "商场偶遇王昶钱天一买对戒",
+        "onboard_time": 1739666118,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143376,
+        "num": 143376,
+        "word": "易烊千玺演的刘春和走向世界了",
+        "onboard_time": 1739676379,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137222,
+        "num": 137222,
+        "word": "李现微博之夜库存照",
+        "onboard_time": 1739678539,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136598,
+        "num": 136598,
+        "word": "宁艺卓没有发言",
+        "onboard_time": 1739673979,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125867,
+        "num": 125867,
+        "word": "Felix遭遇交通事故骨折",
+        "onboard_time": 1739672000,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124422,
+        "num": 124422,
+        "word": "00后女生毕业去养猪场养猪月薪8千",
+        "onboard_time": 1739670259,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124292,
+        "num": 124292,
+        "word": "难哄",
+        "onboard_time": 1739667738,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120987,
+        "num": 120987,
+        "word": "特朗普称或将于4月2日对进口汽车征税",
+        "onboard_time": 1739678839,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112547,
+        "num": 112547,
+        "word": "我妈到底都在网上看了些啥",
+        "onboard_time": 1739678177,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107773,
+        "num": 107773,
+        "word": "XYG羲和退役",
+        "onboard_time": 1739680579,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104679,
+        "num": 104679,
+        "word": "开学了开学了开学了",
+        "onboard_time": 1739680099,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向第38届非洲联盟峰会致贺电#"
+    }
+  }
+}
