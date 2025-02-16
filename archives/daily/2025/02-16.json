@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739698531252,
+  "endTime": 1739701295331,
   "band_list": [
     {
       "raw_hot": 3115726,
@@ -115,6 +115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 979532,
+      "num": 899143,
+      "word": "难哄导演为请何炅客串写了三页信",
+      "onboard_time": 1739696419,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 949508,
       "num": 949508,
       "word": "哪吒2全球票房TOP11",
@@ -123,12 +131,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 899143,
-      "num": 899143,
-      "word": "难哄导演为请何炅客串写了三页信",
-      "onboard_time": 1739696419,
-      "rank": 5,
-      "category": "剧集"
+      "raw_hot": 888213,
+      "num": 888213,
+      "word": "小米SU7断轴车主承认欺瞒网友",
+      "onboard_time": 1739698099,
+      "rank": 15,
+      "category": "汽车"
     },
     {
       "raw_hot": 864283,
@@ -235,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 674382,
+      "num": 674382,
+      "word": "花4万瘦身去拜拜肉手臂差点保不住",
+      "onboard_time": 1739696839,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 670513,
       "num": 237559,
       "word": "得知闺蜜幼时是帮凶天塌了",
@@ -267,12 +283,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 649386,
+      "num": 649386,
+      "word": "哪吒2冲击全球票房榜前10",
+      "onboard_time": 1739697439,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 644255,
       "num": 298618,
       "word": "记者买7件100%羊绒衫一根羊绒也没",
       "onboard_time": 1739687298,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 637026,
+      "num": 637026,
+      "word": "封神第三部已剪完",
+      "onboard_time": 1739700138,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 608663,
@@ -419,6 +451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 440611,
+      "num": 440611,
+      "word": "哪吒2超118亿元",
+      "onboard_time": 1739698398,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 439157,
       "num": 439157,
       "word": "疑似檀健次成为最大受害者",
@@ -449,6 +489,14 @@
       "onboard_time": 1739667498,
       "rank": 37,
       "category": "民生新闻,科学科普"
+    },
+    {
+      "raw_hot": 424992,
+      "num": 424992,
+      "word": "上美藕饼",
+      "onboard_time": 1739696658,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 409150,
@@ -497,6 +545,14 @@
       "onboard_time": 1739685498,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 388619,
+      "num": 388619,
+      "word": "乌尔善回应封神2遭滑铁卢",
+      "onboard_time": 1739699178,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 387145,
@@ -579,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 356905,
+      "num": 184230,
+      "word": "卫诗雅结婚",
+      "onboard_time": 1739698878,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 343152,
       "num": 283393,
       "word": "医院回应女医生疑辱骂患者老妖婆",
@@ -635,6 +699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 317600,
+      "num": 236075,
+      "word": "李现拍的白敬亭吴磊",
+      "onboard_time": 1739697679,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 316248,
       "num": 257552,
       "word": "男子开车撞伤女生因探病日久生情结婚",
@@ -681,14 +753,6 @@
       "onboard_time": 1739626701,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 297796,
-      "num": 297796,
-      "word": "小米SU7断轴车主承认欺瞒网友",
-      "onboard_time": 1739698099,
-      "rank": 15,
-      "category": "汽车"
     },
     {
       "raw_hot": 288573,
@@ -771,6 +835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 258228,
+      "num": 200006,
+      "word": "于正说刘些宁必火",
+      "onboard_time": 1739697798,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 256925,
       "num": 239370,
       "word": "金智秀圈内好友名单",
@@ -801,6 +873,14 @@
       "onboard_time": 1739691858,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 247839,
+      "num": 180209,
+      "word": "上了班才理解了李慧珍",
+      "onboard_time": 1739697919,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 240707,
@@ -891,14 +971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 216991,
-      "num": 216991,
-      "word": "上美藕饼",
-      "onboard_time": 1739696658,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 216331,
       "num": 216331,
       "word": "名侦探学院",
@@ -947,14 +1019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 208556,
-      "num": 208556,
-      "word": "花4万瘦身去拜拜肉手臂差点保不住",
-      "onboard_time": 1739696839,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 208080,
       "num": 189686,
       "word": "黄金昨夜跳水",
@@ -985,14 +1049,6 @@
       "onboard_time": 1739685678,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200006,
-      "num": 200006,
-      "word": "于正说刘些宁必火",
-      "onboard_time": 1739697798,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 199889,
@@ -1033,6 +1089,14 @@
       "onboard_time": 1739694257,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194618,
+      "num": 179088,
+      "word": "张紫宁喊话猫眼演出",
+      "onboard_time": 1739700739,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 193931,
@@ -1147,14 +1211,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 182104,
-      "num": 236075,
-      "word": "李现拍的白敬亭吴磊",
-      "onboard_time": 1739697679,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 181872,
       "num": 181872,
       "word": "特效影厅上次这么火还是2009年",
@@ -1179,12 +1235,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 177790,
-      "num": 177790,
-      "word": "哪吒2冲击全球票房榜前10",
-      "onboard_time": 1739697439,
-      "rank": 45,
-      "category": "电影"
+      "raw_hot": 179398,
+      "num": 179398,
+      "word": "张极考驾照了",
+      "onboard_time": 1739700619,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 178786,
+      "num": 178786,
+      "word": "女生许愿男友永不出轨蜡烛吹不灭",
+      "onboard_time": 1739697738,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177589,
@@ -1201,6 +1265,14 @@
       "onboard_time": 1739687657,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177029,
+      "num": 177029,
+      "word": "邝玲玲精品购物指南封面",
+      "onboard_time": 1739700258,
+      "rank": 36,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 173438,
@@ -1241,6 +1313,14 @@
       "onboard_time": 1739679619,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 170437,
+      "num": 170437,
+      "word": "KPL",
+      "onboard_time": 1739700858,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 169149,
@@ -1289,6 +1369,14 @@
       "onboard_time": 1739682978,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 161320,
+      "num": 161320,
+      "word": "仙逆",
+      "onboard_time": 1739701160,
+      "rank": 39,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 157712,
@@ -1347,6 +1435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152535,
+      "num": 152535,
+      "word": "苏新皓拍了灯牌",
+      "onboard_time": 1739701038,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152224,
       "num": 152224,
       "word": "奥萨苏纳vs皇马",
@@ -1379,14 +1475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 147299,
-      "num": 147299,
-      "word": "女生许愿男友永不出轨蜡烛吹不灭",
-      "onboard_time": 1739697738,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 146800,
       "num": 146800,
       "word": "男子偷5万叮嘱老婆我进去后你自己走",
@@ -1401,6 +1489,14 @@
       "onboard_time": 1739695338,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144787,
+      "num": 144787,
+      "word": "韩国金条断货",
+      "onboard_time": 1739699479,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 143307,
@@ -1603,14 +1699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126328,
-      "num": 126328,
-      "word": "哪吒2超118亿元",
-      "onboard_time": 1739698398,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 125886,
       "num": 125886,
       "word": "韩国推出无豆咖啡",
@@ -1705,14 +1793,6 @@
       "onboard_time": 1739683339,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 113320,
-      "num": 113320,
-      "word": "上了班才理解了李慧珍",
-      "onboard_time": 1739697919,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 112901,
@@ -1963,6 +2043,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 58101,
+      "num": 182571,
+      "word": "吴敬平曾被外媒评为金牌教练",
+      "onboard_time": 1739694558,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 55423,
+      "num": 184633,
+      "word": "女子直播卖烧烤为儿子筹医药费后续",
+      "onboard_time": 1739700318,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50775,
       "num": 50775,
       "word": "10岁女孩看哪吒2后决心捐髓救父",
@@ -2187,6 +2283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 14807,
+      "num": 180645,
+      "word": "00后大学生返校像逃荒",
+      "onboard_time": 1739700979,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 13760,
       "num": 48228,
       "word": "马尔穆什半场帽子戏法",
@@ -2209,6 +2313,14 @@
       "onboard_time": 1739641815,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10698,
+      "num": 180377,
+      "word": "魔卡少女樱天降中华男",
+      "onboard_time": 1739700858,
+      "rank": 29,
+      "category": "动漫"
     }
   ],
   "hotgov_list": [
