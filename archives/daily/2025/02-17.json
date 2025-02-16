@@ -1,6 +1,6 @@
 {
   "startTime": 1739723108252,
-  "endTime": 1739748038785,
+  "endTime": 1739748977110,
   "band_list": [
     {
       "raw_hot": 1620326,
@@ -35,8 +35,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 573975,
-      "num": 573975,
+      "raw_hot": 697868,
+      "num": 189169,
+      "word": "未成年拍举牌视频最便宜3元一条",
+      "onboard_time": 1739747235,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 647842,
+      "num": 647842,
       "word": "哪吒2带火了一条不起眼的小巷",
       "onboard_time": 1739711243,
       "rank": 22,
@@ -75,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 463785,
+      "num": 463785,
+      "word": "官方再通报高中收取723元打印费",
+      "onboard_time": 1739747295,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 400146,
       "num": 400146,
       "word": "微信DeepSeek王炸组合",
@@ -83,20 +99,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 399944,
+      "num": 182272,
+      "word": "每天睡够8小时白天为何还犯困",
+      "onboard_time": 1739718262,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 399813,
       "num": 281859,
       "word": "金赛纶最后ins发了文彬",
       "onboard_time": 1739712443,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 395260,
-      "num": 182272,
-      "word": "每天睡够8小时白天为何还犯困",
-      "onboard_time": 1739718262,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 391990,
@@ -115,20 +131,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 348049,
+      "num": 293949,
+      "word": "冯小刚曾向饺子发出邀约",
+      "onboard_time": 1739702179,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 325440,
       "num": 272840,
       "word": "哪吒2票房一天一个新突破",
       "onboard_time": 1739711065,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 324379,
-      "num": 173064,
-      "word": "未成年拍举牌视频最便宜3元一条",
-      "onboard_time": 1739747235,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 314504,
@@ -145,14 +161,6 @@
       "onboard_time": 1739711907,
       "rank": 21,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 303132,
-      "num": 293949,
-      "word": "冯小刚曾向饺子发出邀约",
-      "onboard_time": 1739702179,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 284164,
@@ -203,19 +211,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 254041,
+      "num": 186233,
+      "word": "哪吒2距全球票房前10仅差3.5亿",
+      "onboard_time": 1739724196,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 238217,
       "num": 176292,
       "word": "哪吒2断层领跑",
       "onboard_time": 1739719461,
       "rank": 24,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 217822,
-      "num": 172457,
-      "word": "哪吒2距全球票房前10仅差3.5亿",
-      "onboard_time": 1739724196,
-      "rank": 36,
       "category": "电影"
     },
     {
@@ -233,6 +241,30 @@
       "onboard_time": 1739720180,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 187870,
+      "num": 132081,
+      "word": "美队4中国预测票房不足2亿",
+      "onboard_time": 1739745433,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 187301,
+      "num": 93061,
+      "word": "哪吒2里章鱼大将军为何敢烤自己的腕",
+      "onboard_time": 1739747415,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 179425,
+      "num": 179425,
+      "word": "韩剧善意的竞争",
+      "onboard_time": 1739747415,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 177329,
@@ -307,6 +339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 126233,
+      "num": 126233,
+      "word": "在河北博物院找到了七色宝莲",
+      "onboard_time": 1739710045,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 126209,
       "num": 126209,
       "word": "杨子再聊就要给李奕臻发offer了",
@@ -347,12 +387,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117805,
-      "num": 104480,
-      "word": "美队4中国预测票房不足2亿",
-      "onboard_time": 1739745433,
-      "rank": 23,
-      "category": "电影"
+      "raw_hot": 119550,
+      "num": 119550,
+      "word": "60岁老人出现白肺鱼肝油竟是元凶",
+      "onboard_time": 1739709145,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 119423,
+      "num": 149146,
+      "word": "花几十元可定制未成年隐私部位内容",
+      "onboard_time": 1739747235,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112680,
@@ -363,28 +411,12 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 103899,
-      "num": 112945,
-      "word": "60岁老人出现白肺鱼肝油竟是元凶",
-      "onboard_time": 1739709145,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 103091,
       "num": 103091,
       "word": "乌尔善回应封神2遭滑铁卢",
       "onboard_time": 1739699178,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 95853,
-      "num": 173815,
-      "word": "官方再通报高中收取723元打印费",
-      "onboard_time": 1739747295,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95013,
@@ -395,44 +427,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 92532,
-      "num": 92532,
-      "word": "哪吒版书皮得馋哭多少孩子",
-      "onboard_time": 1739745013,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 92370,
-      "num": 91762,
-      "word": "哪吒2里章鱼大将军为何敢烤自己的腕",
-      "onboard_time": 1739747415,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 91823,
-      "num": 91823,
+      "raw_hot": 93323,
+      "num": 93323,
       "word": "郭德纲回应不让德云社直播带货",
       "onboard_time": 1739743760,
       "rank": 45,
       "category": "艺人"
     },
     {
-      "raw_hot": 91739,
-      "num": 91739,
-      "word": "在河北博物院找到了七色宝莲",
-      "onboard_time": 1739710045,
-      "rank": 31,
+      "raw_hot": 92532,
+      "num": 92532,
+      "word": "哪吒版书皮得馋哭多少孩子",
+      "onboard_time": 1739745013,
+      "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 91613,
-      "num": 91613,
-      "word": "韩剧善意的竞争",
-      "onboard_time": 1739747415,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 86501,
@@ -451,20 +459,20 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 80427,
-      "num": 80427,
-      "word": "花几十元可定制未成年隐私部位内容",
-      "onboard_time": 1739747235,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 75330,
       "num": 112803,
       "word": "吴敬平尹肖的争论折射国乒转型之痛",
       "onboard_time": 1739710885,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71427,
+      "num": 80380,
+      "word": "司机猝死10位卡友自费护送返乡",
+      "onboard_time": 1739733191,
+      "rank": 48,
+      "category": "正能量"
     },
     {
       "raw_hot": 70398,
@@ -523,12 +531,12 @@
       "category": "民生新闻,电影"
     },
     {
-      "raw_hot": 47352,
-      "num": 47352,
-      "word": "司机猝死10位卡友自费护送返乡",
-      "onboard_time": 1739733191,
-      "rank": 48,
-      "category": "正能量"
+      "raw_hot": 56346,
+      "num": 56346,
+      "word": "走失19天不幸去世女子父亲发声",
+      "onboard_time": 1739733612,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42675,
@@ -537,14 +545,6 @@
       "onboard_time": 1739708907,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 38249,
-      "num": 38249,
-      "word": "走失19天不幸去世女子父亲发声",
-      "onboard_time": 1739733612,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37717,
