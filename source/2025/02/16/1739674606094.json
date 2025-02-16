@@ -1,0 +1,410 @@
+{
+  "runTime": 1739674606094,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1446519,
+        "num": 1446519,
+        "word": "乌尔善说希望观众给封神3机会",
+        "onboard_time": 1739668520,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 713594,
+        "num": 713594,
+        "word": "酒后小区挪车被认定醉驾司机起诉交警",
+        "onboard_time": 1739668698,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48754,
+        "num": 556020,
+        "word": "我国成全球领先的人形机器人生产国",
+        "onboard_time": 1739623880,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1025735,
+        "num": 552939,
+        "word": "哪吒2正面pk美国队长4",
+        "onboard_time": 1739672599,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 542046,
+        "num": 542046,
+        "word": "第一次见把房子打包带走的搬家",
+        "onboard_time": 1739669478,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403677,
+        "num": 403677,
+        "word": "一小行星有2%概率在2032年撞击地球",
+        "onboard_time": 1739667498,
+        "rank": 5,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 327534,
+        "num": 327534,
+        "word": "男子3小时花费2000元套中玛莎拉蒂",
+        "onboard_time": 1739632043,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307502,
+        "num": 307502,
+        "word": "金价",
+        "onboard_time": 1739666959,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 222315,
+        "num": 306820,
+        "word": "你的吒儿埋了多少文物梗",
+        "onboard_time": 1739671339,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 2238479,
+        "num": 305252,
+        "word": "诗琳去世",
+        "onboard_time": 1739667920,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 878818,
+        "num": 304530,
+        "word": "哪吒2破115亿",
+        "onboard_time": 1739662755,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 762767,
+        "num": 303325,
+        "word": "章子怡说杨子太吓人",
+        "onboard_time": 1739672358,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 514615,
+        "num": 302387,
+        "word": "我是哪吒2千万票房被批诈骗",
+        "onboard_time": 1739666777,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 401563,
+        "num": 301201,
+        "word": "女医生疑辱骂患者不得好死",
+        "onboard_time": 1739671819,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 366509,
+        "num": 299644,
+        "word": "Felix遭遇交通事故骨折",
+        "onboard_time": 1739672000,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366751,
+        "num": 298595,
+        "word": "吴敬平发文品行干净好运自来",
+        "onboard_time": 1739668938,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 359909,
+        "num": 297826,
+        "word": "女子被结了6次婚",
+        "onboard_time": 1739668340,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350947,
+        "num": 296954,
+        "word": "32岁病逝女博士本已开始筹备婚礼",
+        "onboard_time": 1739631800,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295954,
+        "num": 295954,
+        "word": "申小豹演员配音时才11岁",
+        "onboard_time": 1739661373,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 226266,
+        "num": 261925,
+        "word": "商场偶遇王昶钱天一买对戒",
+        "onboard_time": 1739666118,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257552,
+        "num": 257552,
+        "word": "男子开车撞伤女生因探病日久生情结婚",
+        "onboard_time": 1739663416,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236971,
+        "num": 236971,
+        "word": "靠哪吒2赚了4万6准备给老婆买金手镯",
+        "onboard_time": 1739661314,
+        "rank": 21,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 221730,
+        "num": 221730,
+        "word": "难哄ost阵容",
+        "onboard_time": 1739671759,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205049,
+        "num": 205049,
+        "word": "海关查获藏零食罐里的2.4斤生腌响尾蛇",
+        "onboard_time": 1739672299,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111948,
+        "num": 198277,
+        "word": "文班保罗聪明反被聪明误",
+        "onboard_time": 1739672000,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197242,
+        "num": 197242,
+        "word": "金饰价格一夜大跌18元每克",
+        "onboard_time": 1739661735,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 185987,
+        "num": 185987,
+        "word": "全球票房",
+        "onboard_time": 1739630001,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180873,
+        "num": 180873,
+        "word": "男子婚后无夫妻生活欲索回138万彩礼",
+        "onboard_time": 1739628681,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171906,
+        "num": 171906,
+        "word": "真正能助眠的6种食物",
+        "onboard_time": 1739632461,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 165504,
+        "num": 165504,
+        "word": "乌兹别克斯坦歌手诗琳去世",
+        "onboard_time": 1739669959,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163638,
+        "num": 163638,
+        "word": "疑似檀健次成为最大受害者",
+        "onboard_time": 1739655552,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158524,
+        "num": 158524,
+        "word": "印度一火车站发生踩踏至少15死",
+        "onboard_time": 1739666838,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 155060,
+        "num": 155060,
+        "word": "00后女生毕业去养猪场养猪月薪8千",
+        "onboard_time": 1739670259,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154675,
+        "num": 154675,
+        "word": "赵磊不办传统婚礼",
+        "onboard_time": 1739661373,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145982,
+        "num": 145982,
+        "word": "诗琳经纪人发布讣告",
+        "onboard_time": 1739669540,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137566,
+        "num": 137566,
+        "word": "白色橄榄树书粉",
+        "onboard_time": 1739671819,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134229,
+        "num": 134229,
+        "word": "齐天大圣的含金量还在上升",
+        "onboard_time": 1739671939,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133465,
+        "num": 133465,
+        "word": "一文看国乒两位功勋教练之争",
+        "onboard_time": 1739673318,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129512,
+        "num": 129512,
+        "word": "宁艺卓没有发言",
+        "onboard_time": 1739673979,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127525,
+        "num": 127525,
+        "word": "你以为正常实际压力过大的表现",
+        "onboard_time": 1739667317,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124935,
+        "num": 124935,
+        "word": "第一次用歹毒形容一个综艺",
+        "onboard_time": 1739667558,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124582,
+        "num": 124582,
+        "word": "腾讯回应微信接入DeepSeek",
+        "onboard_time": 1739663657,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 116316,
+        "num": 116316,
+        "word": "韩国推出无豆咖啡",
+        "onboard_time": 1739667798,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 109504,
+        "num": 109504,
+        "word": "校方回应老师被举报性侵",
+        "onboard_time": 1739673799,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104050,
+        "num": 104050,
+        "word": "难哄",
+        "onboard_time": 1739667738,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98671,
+        "num": 98671,
+        "word": "重庆带娃摆摊宝妈收到网友捐款四十多万元",
+        "onboard_time": 1739669718,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98554,
+        "num": 98554,
+        "word": "保罗文班亚马被取消成绩",
+        "onboard_time": 1739672299,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97984,
+        "num": 97984,
+        "word": "怎么买到显贵的衣服",
+        "onboard_time": 1739662094,
+        "rank": 47,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 92969,
+        "num": 92969,
+        "word": "终于理解陈哲远为什么很难走出来了",
+        "onboard_time": 1739641335,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92121,
+        "num": 92121,
+        "word": "林俊杰与合音老师们合作给大家小驚喜",
+        "onboard_time": 1739673618,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向第38届非洲联盟峰会致贺电#"
+    }
+  }
+}
