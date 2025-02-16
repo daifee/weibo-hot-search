@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739670542028,
+  "endTime": 1739671803716,
   "band_list": [
     {
       "raw_hot": 3115726,
@@ -35,15 +35,15 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1161295,
-      "num": 515054,
+      "raw_hot": 1347145,
+      "num": 555560,
       "word": "乌尔善说希望观众给封神3机会",
       "onboard_time": 1739668520,
       "rank": 3,
       "category": "电影"
     },
     {
-      "raw_hot": 1027539,
+      "raw_hot": 1051486,
       "num": 372518,
       "word": "哪吒2破115亿",
       "onboard_time": 1739662755,
@@ -65,6 +65,14 @@
       "onboard_time": 1739666777,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 835997,
+      "num": 835997,
+      "word": "酒后小区挪车被认定醉驾司机起诉交警",
+      "onboard_time": 1739668698,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 824108,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 725650,
-      "num": 186781,
+      "num": 199863,
       "word": "靠哪吒2赚了4万6准备给老婆买金手镯",
       "onboard_time": 1739661314,
       "rank": 20,
@@ -123,12 +131,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 508408,
-      "num": 508408,
-      "word": "酒后小区挪车被认定醉驾司机起诉交警",
-      "onboard_time": 1739668698,
-      "rank": 4,
-      "category": "民生新闻"
+      "raw_hot": 494479,
+      "num": 370141,
+      "word": "吴敬平发文品行干净好运自来",
+      "onboard_time": 1739668938,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 471065,
@@ -195,7 +203,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 376137,
+      "raw_hot": 387145,
       "num": 253929,
       "word": "商场偶遇王昶钱天一买对戒",
       "onboard_time": 1739666118,
@@ -211,12 +219,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 370141,
-      "num": 370141,
-      "word": "吴敬平发文品行干净好运自来",
-      "onboard_time": 1739668938,
-      "rank": 7,
-      "category": "体育"
+      "raw_hot": 336686,
+      "num": 336686,
+      "word": "金价",
+      "onboard_time": 1739666959,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 329617,
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 316248,
-      "num": 185506,
+      "num": 198752,
       "word": "男子开车撞伤女生因探病日久生情结婚",
       "onboard_time": 1739663416,
       "rank": 22,
@@ -249,14 +257,6 @@
       "onboard_time": 1739626701,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 297762,
-      "num": 297762,
-      "word": "金价",
-      "onboard_time": 1739666959,
-      "rank": 8,
-      "category": "财经"
     },
     {
       "raw_hot": 272814,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 229827,
-      "num": 181803,
+      "num": 195320,
       "word": "金饰价格一夜大跌18元每克",
       "onboard_time": 1739661735,
       "rank": 39,
@@ -339,12 +339,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 219034,
+      "num": 293015,
+      "word": "诗琳经纪人发布讣告",
+      "onboard_time": 1739669540,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215517,
-      "num": 181125,
+      "num": 194903,
       "word": "第一次用歹毒形容一个综艺",
       "onboard_time": 1739667558,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214363,
+      "num": 214363,
+      "word": "女子被结了6次婚",
+      "onboard_time": 1739668340,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 208080,
@@ -353,6 +369,14 @@
       "onboard_time": 1739661434,
       "rank": 40,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 206006,
+      "num": 206006,
+      "word": "第一次见把房子打包带走的搬家",
+      "onboard_time": 1739669478,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198723,
@@ -385,6 +409,14 @@
       "onboard_time": 1739627302,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188919,
+      "num": 244539,
+      "word": "乌兹别克斯坦歌手诗琳去世",
+      "onboard_time": 1739669959,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 180426,
@@ -459,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153058,
+      "num": 153058,
+      "word": "一小行星有2%概率在2032年撞击地球",
+      "onboard_time": 1739667498,
+      "rank": 37,
+      "category": "民生新闻,科学科普"
+    },
+    {
       "raw_hot": 152224,
       "num": 152224,
       "word": "奥萨苏纳vs皇马",
@@ -483,12 +523,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 143768,
-      "num": 143768,
-      "word": "第一次见把房子打包带走的搬家",
-      "onboard_time": 1739669478,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 143259,
+      "num": 143259,
+      "word": "腾讯回应微信接入DeepSeek",
+      "onboard_time": 1739663657,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 142674,
@@ -505,14 +545,6 @@
       "onboard_time": 1739617882,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 139059,
-      "num": 139059,
-      "word": "腾讯回应微信接入DeepSeek",
-      "onboard_time": 1739663657,
-      "rank": 34,
-      "category": "互联网"
     },
     {
       "raw_hot": 135860,
@@ -555,20 +587,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 130750,
-      "num": 293015,
-      "word": "诗琳经纪人发布讣告",
-      "onboard_time": 1739669540,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 130374,
       "num": 130374,
       "word": "难哄",
       "onboard_time": 1739667738,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128521,
+      "num": 128521,
+      "word": "重庆带娃摆摊宝妈收到网友捐款四十多万元",
+      "onboard_time": 1739669718,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127371,
@@ -579,28 +611,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125886,
+      "num": 125886,
+      "word": "韩国推出无豆咖啡",
+      "onboard_time": 1739667798,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 125463,
       "num": 219798,
       "word": "尹肖回应国乒后备力量不足",
       "onboard_time": 1739634561,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121178,
-      "num": 121178,
-      "word": "乌兹别克斯坦歌手诗琳去世",
-      "onboard_time": 1739669959,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 120422,
-      "num": 120422,
-      "word": "一小行星有2%概率在2032年撞击地球",
-      "onboard_time": 1739667498,
-      "rank": 37,
-      "category": "民生新闻,科学科普"
     },
     {
       "raw_hot": 112901,
@@ -611,28 +635,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 112298,
-      "num": 112298,
-      "word": "韩国推出无豆咖啡",
-      "onboard_time": 1739667798,
-      "rank": 40,
-      "category": "美食"
-    },
-    {
       "raw_hot": 110502,
       "num": 110502,
       "word": "当你今天开始早睡觉",
       "onboard_time": 1739663295,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 108516,
-      "num": 108516,
-      "word": "重庆带娃摆摊宝妈收到网友捐款四十多万元",
-      "onboard_time": 1739669718,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104210,
@@ -651,11 +659,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 101641,
-      "num": 101641,
-      "word": "女子被结了6次婚",
-      "onboard_time": 1739668340,
-      "rank": 45,
+      "raw_hot": 100915,
+      "num": 100915,
+      "word": "你的吒儿埋了多少文物梗",
+      "onboard_time": 1739671339,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 100615,
+      "num": 100615,
+      "word": "00后女生毕业去养猪场养猪月薪8千",
+      "onboard_time": 1739670259,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -673,14 +689,6 @@
       "onboard_time": 1739638218,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 93370,
-      "num": 93370,
-      "word": "00后女生毕业去养猪场养猪月薪8千",
-      "onboard_time": 1739670259,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 92672,
@@ -705,6 +713,22 @@
       "onboard_time": 1739624360,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82232,
+      "num": 82232,
+      "word": "有人排队8小时买老铺黄金",
+      "onboard_time": 1739671039,
+      "rank": 44,
+      "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 80251,
+      "num": 80251,
+      "word": "难哄ost阵容",
+      "onboard_time": 1739671759,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 77540,
