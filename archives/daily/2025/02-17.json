@@ -1,6 +1,6 @@
 {
   "startTime": 1739723108252,
-  "endTime": 1739731263069,
+  "endTime": 1739733479886,
   "band_list": [
     {
       "raw_hot": 1620326,
@@ -467,20 +467,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29072,
+      "num": 36948,
+      "word": "请学会为自己挺身而出",
+      "onboard_time": 1739724076,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27523,
       "num": 27523,
       "word": "为什么总有人热衷排队",
       "onboard_time": 1739727495,
       "rank": 42,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 27039,
-      "num": 27039,
-      "word": "请学会为自己挺身而出",
-      "onboard_time": 1739724076,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23912,
@@ -491,7 +491,7 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 21157,
+      "raw_hot": 23101,
       "num": 23222,
       "word": "5种最差的早餐搭配组合",
       "onboard_time": 1739728573,
@@ -505,6 +505,30 @@
       "onboard_time": 1739728933,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18567,
+      "num": 18567,
+      "word": "套圈中170万玛莎拉蒂男子称想折现",
+      "onboard_time": 1739685919,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16776,
+      "num": 18554,
+      "word": "司机猝死10位卡友自费护送返乡",
+      "onboard_time": 1739733191,
+      "rank": 48,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 14855,
+      "num": 18545,
+      "word": "带呼吸法口令的八段锦教学",
+      "onboard_time": 1739728752,
+      "rank": 49,
+      "category": "运动健身"
     }
   ],
   "hotgov_list": [
