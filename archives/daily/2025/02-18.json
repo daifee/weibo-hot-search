@@ -1,6 +1,6 @@
 {
   "startTime": 1739809696665,
-  "endTime": 1739813827785,
+  "endTime": 1739817006824,
   "band_list": [
     {
       "raw_hot": 1442655,
@@ -267,12 +267,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96773,
+      "num": 96773,
+      "word": "听潮阁",
+      "onboard_time": 1739813053,
+      "rank": 19,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 94044,
       "num": 94044,
       "word": "哪吒2发破120亿海报",
       "onboard_time": 1739797400,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 93246,
+      "num": 93246,
+      "word": "乌方不承认美俄谈判达成协议",
+      "onboard_time": 1739815334,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 91709,
@@ -419,14 +435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 46787,
-      "num": 68329,
-      "word": "听潮阁",
-      "onboard_time": 1739813053,
-      "rank": 19,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 44276,
       "num": 108393,
       "word": "深圳70名AI数智员工上岗",
@@ -451,12 +459,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36084,
+      "num": 36084,
+      "word": "甜茶凯莉十指相扣",
+      "onboard_time": 1739814913,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35798,
       "num": 111956,
       "word": "1.6万件套文物被追缴",
       "onboard_time": 1739809997,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20930,
+      "num": 43486,
+      "word": "律师称乘客猝死航司无需担责",
+      "onboard_time": 1739813593,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20626,
+      "num": 50338,
+      "word": "武汉辅警韩靖回应抱娃狂奔500米送医",
+      "onboard_time": 1739815334,
+      "rank": 20,
+      "category": "正能量"
     },
     {
       "raw_hot": 17046,
@@ -467,17 +499,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 11368,
-      "num": 43486,
-      "word": "律师称乘客猝死航司无需担责",
-      "onboard_time": 1739813593,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 12196,
+      "num": 26528,
+      "word": "企业家就促进民营经济发展提出意见建议",
+      "onboard_time": 1739814793,
+      "rank": 32,
+      "category": "国内时政,财经"
     }
   ],
   "hotgov_list": [
     {
       "word": "#视频看民营企业座谈会现场#"
+    },
+    {
+      "word": "#民营经济发展前景广阔大有可为#"
     }
   ]
 }

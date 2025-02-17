@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739813827785,
+  "endTime": 1739817006824,
   "band_list": [
     {
       "raw_hot": 17381826,
@@ -5299,6 +5299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96773,
+      "num": 96773,
+      "word": "听潮阁",
+      "onboard_time": 1739813053,
+      "rank": 19,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 96112,
       "num": 223117,
       "word": "马龙用铁尺颠球",
@@ -5377,6 +5385,14 @@
       "onboard_time": 1739743760,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93246,
+      "num": 93246,
+      "word": "乌方不承认美俄谈判达成协议",
+      "onboard_time": 1739815334,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 92960,
@@ -5923,14 +5939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 46787,
-      "num": 68329,
-      "word": "听潮阁",
-      "onboard_time": 1739813053,
-      "rank": 19,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 46774,
       "num": 46774,
       "word": "三维还原美军航母碰撞全过程",
@@ -6057,6 +6065,14 @@
       "onboard_time": 1739724736,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36084,
+      "num": 36084,
+      "word": "甜茶凯莉十指相扣",
+      "onboard_time": 1739814913,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 35798,
@@ -6299,6 +6315,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 20930,
+      "num": 43486,
+      "word": "律师称乘客猝死航司无需担责",
+      "onboard_time": 1739813593,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20626,
+      "num": 50338,
+      "word": "武汉辅警韩靖回应抱娃狂奔500米送医",
+      "onboard_time": 1739815334,
+      "rank": 20,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 20277,
       "num": 212091,
       "word": "治理教育乱收费不应个案式处理",
@@ -6427,12 +6459,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11368,
-      "num": 43486,
-      "word": "律师称乘客猝死航司无需担责",
-      "onboard_time": 1739813593,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 12196,
+      "num": 26528,
+      "word": "企业家就促进民营经济发展提出意见建议",
+      "onboard_time": 1739814793,
+      "rank": 32,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 10698,
