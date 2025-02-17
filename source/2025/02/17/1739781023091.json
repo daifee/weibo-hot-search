@@ -1,0 +1,410 @@
+{
+  "runTime": 1739781023091,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7815890,
+        "num": 7815890,
+        "word": "哪吒2全球影史票房第10",
+        "onboard_time": 1739775141,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 981258,
+        "num": 981258,
+        "word": "中国已开始部署防御小行星撞击地球",
+        "onboard_time": 1739777421,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92687,
+        "num": 860741,
+        "word": "多地以旧换新多重buff拉满",
+        "onboard_time": 1739761638,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 788142,
+        "num": 788142,
+        "word": "老外连炫1个月砂糖桔变小黄人",
+        "onboard_time": 1739776761,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 639455,
+        "num": 639455,
+        "word": "沈梦辰杜海涛庆祝结婚3周年",
+        "onboard_time": 1739778741,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366198,
+        "num": 366198,
+        "word": "最接近刘翔的运动员出现了",
+        "onboard_time": 1739773519,
+        "rank": 5,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 1097972,
+        "num": 363519,
+        "word": "韩国禁止新用户下载DeepSeek",
+        "onboard_time": 1739777601,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 630273,
+        "num": 359359,
+        "word": "真正的哪吒闹海开始了",
+        "onboard_time": 1739776579,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 352348,
+        "num": 352348,
+        "word": "2025民营企业座谈会",
+        "onboard_time": 1739765121,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 169813,
+        "num": 350718,
+        "word": "光线传媒一季度已接近前2年营收",
+        "onboard_time": 1739780242,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 730150,
+        "num": 341824,
+        "word": "女儿分手妈妈谎称丈夫病亡拒还款",
+        "onboard_time": 1739777362,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 548168,
+        "num": 338294,
+        "word": "130多家公司托举哪吒2票房冲击记录",
+        "onboard_time": 1739763620,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 496150,
+        "num": 335264,
+        "word": "元斌给金赛纶灵堂送去花圈",
+        "onboard_time": 1739776821,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43930,
+        "num": 326743,
+        "word": "英首相称必要时向乌派遣部队",
+        "onboard_time": 1739779399,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 459500,
+        "num": 323840,
+        "word": "李一桐发了三代黄蓉合照",
+        "onboard_time": 1739778081,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401865,
+        "num": 314670,
+        "word": "谁家老公把老婆当员工啊",
+        "onboard_time": 1739776339,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312718,
+        "num": 312718,
+        "word": "套圈玛莎拉蒂摆摊者承认此前说谎",
+        "onboard_time": 1739774358,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264577,
+        "num": 264577,
+        "word": "黄杨钿甜不理解并给了镜头一拳",
+        "onboard_time": 1739778021,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173845,
+        "num": 260063,
+        "word": "未成年人拍举牌视频属于性剥削",
+        "onboard_time": 1739778801,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57619,
+        "num": 252366,
+        "word": "男孩撞伤醉酒男子后逃逸父母判赔34万",
+        "onboard_time": 1739779461,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1024395,
+        "num": 243706,
+        "word": "93岁老人犯强奸罪被判15年",
+        "onboard_time": 1739774420,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 428610,
+        "num": 237531,
+        "word": "刘亦菲说成年三部曲没丢自己的脸",
+        "onboard_time": 1739769560,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 397272,
+        "num": 227950,
+        "word": "金赛纶死亡现场没有遗书",
+        "onboard_time": 1739769380,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312557,
+        "num": 222677,
+        "word": "男童3年前生吃蟹腿寄生虫钻进心脏",
+        "onboard_time": 1739771479,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219635,
+        "num": 219635,
+        "word": "周洁琼前队友宣布订婚",
+        "onboard_time": 1739773399,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205418,
+        "num": 205418,
+        "word": "浪姐6一公分组",
+        "onboard_time": 1739768961,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202849,
+        "num": 202849,
+        "word": "女子取出9岁存了24年的压岁钱",
+        "onboard_time": 1739749578,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192125,
+        "num": 192125,
+        "word": "仙台有树扫楼",
+        "onboard_time": 1739779580,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77467,
+        "num": 191745,
+        "word": "搞副业的打工人捂嘴笑了",
+        "onboard_time": 1739779762,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15881,
+        "num": 191525,
+        "word": "法院披露假章假证类犯罪产业链",
+        "onboard_time": 1739779702,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150181,
+        "num": 191401,
+        "word": "崔永熙不放弃冲击NBA的梦想",
+        "onboard_time": 1739779762,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191369,
+        "num": 191369,
+        "word": "六姊妹 嫁给对的人是什么感觉",
+        "onboard_time": 1739780121,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180232,
+        "num": 180232,
+        "word": "哪吒敖丙和敖光的身高差",
+        "onboard_time": 1739778801,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170721,
+        "num": 170721,
+        "word": "父母离婚女儿百万死亡赔偿金咋分配",
+        "onboard_time": 1739768541,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22619,
+        "num": 156869,
+        "word": "李书福建议初中阶段开始因材施教",
+        "onboard_time": 1739776400,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 155908,
+        "num": 155908,
+        "word": "这下遇到真石矶娘娘了",
+        "onboard_time": 1739769981,
+        "rank": 35,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 6821,
+        "num": 151673,
+        "word": "早睡一周就能感到皮肤变好",
+        "onboard_time": 1739780842,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148575,
+        "num": 148575,
+        "word": "光线传媒5分钟巨震40%",
+        "onboard_time": 1739761459,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 142879,
+        "num": 142879,
+        "word": "嘉行创始人被冻结217万股权",
+        "onboard_time": 1739763979,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 99767,
+        "num": 139227,
+        "word": "谷嘉诚与女生牵手同游丽江",
+        "onboard_time": 1739775019,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138269,
+        "num": 138269,
+        "word": "火车站现专盯大学生的假表抵押骗局",
+        "onboard_time": 1739778680,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132990,
+        "num": 132990,
+        "word": "何炅在难哄也是救场大师",
+        "onboard_time": 1739773220,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51737,
+        "num": 127683,
+        "word": "樊振东国家队13年的冠军图好长啊",
+        "onboard_time": 1739768303,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125878,
+        "num": 125878,
+        "word": "社保挂靠代缴为何屡禁不止",
+        "onboard_time": 1739764100,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125031,
+        "num": 125031,
+        "word": "吒儿丙丙120亿reaction",
+        "onboard_time": 1739780721,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123414,
+        "num": 123414,
+        "word": "日本天才动画导演大赞哪吒2",
+        "onboard_time": 1739771360,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119009,
+        "num": 119009,
+        "word": "官方回应湖北荆州一桥刚竣工就歪了",
+        "onboard_time": 1739777961,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118973,
+        "num": 118973,
+        "word": "许凯邓恩熙cp感",
+        "onboard_time": 1739774659,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111060,
+        "num": 111060,
+        "word": "67岁大爷爆改龙爹敖光",
+        "onboard_time": 1739763019,
+        "rank": 48,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 109708,
+        "num": 109708,
+        "word": "女子去世无继承人房产收归国家",
+        "onboard_time": 1739780421,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#切实让特权现象和腐败问题无所遁形#"
+    }
+  }
+}
