@@ -1,6 +1,6 @@
 {
   "startTime": 1739723108252,
-  "endTime": 1739767288612,
+  "endTime": 1739769839975,
   "band_list": [
     {
       "raw_hot": 3038517,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1330380,
+      "num": 1330380,
+      "word": "社保挂靠代缴为何屡禁不止",
+      "onboard_time": 1739764100,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1291681,
       "num": 1291681,
       "word": "光线传媒",
@@ -131,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 824676,
+      "num": 740820,
+      "word": "130多家公司托举哪吒2票房冲击记录",
+      "onboard_time": 1739763620,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 822692,
       "num": 701781,
       "word": "饺子导演从来不会说不行不对",
@@ -163,12 +179,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 762446,
-      "num": 762446,
-      "word": "社保挂靠代缴为何屡禁不止",
-      "onboard_time": 1739764100,
-      "rank": 15,
-      "category": "民生新闻"
+      "raw_hot": 718456,
+      "num": 758184,
+      "word": "2025民营企业座谈会",
+      "onboard_time": 1739765121,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 717946,
@@ -220,7 +236,7 @@
     },
     {
       "raw_hot": 630293,
-      "num": 369848,
+      "num": 373158,
       "word": "李惠利吻戏",
       "onboard_time": 1739750119,
       "rank": 10,
@@ -283,6 +299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 519107,
+      "num": 398950,
+      "word": "韩裔女演员克拉拉cos敖闰",
+      "onboard_time": 1739766322,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 517529,
       "num": 278895,
       "word": "成都除夕走失19天女子遗体被找到",
@@ -297,22 +321,6 @@
       "onboard_time": 1739758759,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 501221,
-      "num": 758184,
-      "word": "2025民营企业座谈会",
-      "onboard_time": 1739765121,
-      "rank": 7,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 500947,
-      "num": 349805,
-      "word": "韩裔女演员克拉拉cos敖闰",
-      "onboard_time": 1739766322,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 489378,
@@ -331,12 +339,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 475294,
+      "num": 381130,
+      "word": "父母离婚女儿百万死亡赔偿金咋分配",
+      "onboard_time": 1739768541,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 463785,
       "num": 463785,
       "word": "官方再通报高中收取723元打印费",
       "onboard_time": 1739747295,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 434696,
+      "num": 434696,
+      "word": "浪姐6一公分组",
+      "onboard_time": 1739768961,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 400146,
@@ -371,12 +395,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 391980,
+      "num": 391980,
+      "word": "刘亦菲说成年三部曲没丢自己的脸",
+      "onboard_time": 1739769560,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 384260,
       "num": 276079,
       "word": "哪吒2突破119亿",
       "onboard_time": 1739709744,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 375365,
+      "num": 375365,
+      "word": "邵艺辉说人脉饭局是糊弄年轻人",
+      "onboard_time": 1739766561,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 375112,
@@ -393,14 +433,6 @@
       "onboard_time": 1739751679,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 373281,
-      "num": 740820,
-      "word": "130多家公司托举哪吒2票房冲击记录",
-      "onboard_time": 1739763620,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 371997,
@@ -451,6 +483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 317920,
+      "num": 429828,
+      "word": "男孩抄作业不还被打断牙后起诉同学",
+      "onboard_time": 1739765179,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 314504,
       "num": 274245,
       "word": "kiiikiii",
@@ -475,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 301043,
+      "num": 381876,
+      "word": "徐冬冬发文表白尹子维",
+      "onboard_time": 1739768661,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300664,
       "num": 729842,
       "word": "库里全明星MVP",
@@ -489,14 +537,6 @@
       "onboard_time": 1739763439,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 294231,
-      "num": 294231,
-      "word": "男孩抄作业不还被打断牙后起诉同学",
-      "onboard_time": 1739765179,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 286837,
@@ -531,6 +571,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 278898,
+      "num": 278898,
+      "word": "马龙现身小学开学第一课",
+      "onboard_time": 1739768242,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 272505,
       "num": 272505,
       "word": "外交部发布未来已来高燃视频",
@@ -545,6 +593,14 @@
       "onboard_time": 1739714363,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 265903,
+      "num": 265903,
+      "word": "檀健次虐戏现偶vs古偶",
+      "onboard_time": 1739769079,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 259300,
@@ -579,20 +635,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 253533,
-      "num": 253533,
-      "word": "邵艺辉说人脉饭局是糊弄年轻人",
-      "onboard_time": 1739766561,
-      "rank": 38,
-      "category": "演出"
-    },
-    {
       "raw_hot": 253402,
       "num": 245182,
       "word": "何某某发表数百条攻击陈丽君博文",
       "onboard_time": 1739755938,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251345,
+      "num": 251345,
+      "word": "未成年人卷入网络软色情",
+      "onboard_time": 1739767521,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 251042,
@@ -729,6 +785,14 @@
       "onboard_time": 1739760139,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 198508,
+      "num": 198508,
+      "word": "刘亦菲说自己平时聊天有两面性",
+      "onboard_time": 1739768062,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 197905,
@@ -883,6 +947,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 153084,
+      "num": 410568,
+      "word": "美政府紧急召回一批辞退员工",
+      "onboard_time": 1739767821,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 152888,
       "num": 152888,
       "word": "烟花炸伤右眼案已立为刑事案件",
@@ -921,6 +993,22 @@
       "onboard_time": 1739757378,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148867,
+      "num": 148867,
+      "word": "VOGUE一周最佳穿搭",
+      "onboard_time": 1739769200,
+      "rank": 42,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 146234,
+      "num": 146234,
+      "word": "白敬亭演唱难哄OST",
+      "onboard_time": 1739768721,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 144504,
@@ -963,6 +1051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138454,
+      "num": 138454,
+      "word": "哪吒2海外票房成绩",
+      "onboard_time": 1739769620,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 137782,
       "num": 137782,
       "word": "海外观众说给哪吒2打11分",
@@ -979,12 +1075,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 136794,
+      "num": 136794,
+      "word": "黎深福布斯",
+      "onboard_time": 1739769380,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 131226,
       "num": 131226,
       "word": "虞书欣何与双轨拍摄物料路透",
       "onboard_time": 1739756478,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129868,
+      "num": 129868,
+      "word": "樊振东国家队13年的冠军图好长啊",
+      "onboard_time": 1739768303,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 127819,
@@ -1291,6 +1403,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 65382,
+      "num": 270548,
+      "word": "金赛纶死亡现场没有遗书",
+      "onboard_time": 1739769380,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 63457,
       "num": 101519,
       "word": "美加两国冰球队员9秒内3次互殴",
@@ -1316,7 +1436,7 @@
     },
     {
       "raw_hot": 59553,
-      "num": 454565,
+      "num": 517178,
       "word": "张凌赫吃面把我看馋了",
       "onboard_time": 1739765361,
       "rank": 29,
