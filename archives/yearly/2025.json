@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1739776938138,
+  "endTime": 1739777742407,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -331,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 9177808,
+      "num": 9177808,
+      "word": "哪吒2全球影史票房第10",
+      "onboard_time": 1739775141,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 9123207,
       "num": 5161800,
       "word": "三人行剧组回应",
@@ -609,14 +617,6 @@
       "onboard_time": 1738662923,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 4615958,
-      "num": 4615958,
-      "word": "哪吒2全球影史票房第10",
-      "onboard_time": 1739775141,
-      "rank": 0,
-      "category": "电影"
     },
     {
       "raw_hot": 4591252,
