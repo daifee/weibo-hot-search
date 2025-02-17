@@ -1,6 +1,6 @@
 {
   "startTime": 1739723108252,
-  "endTime": 1739788946355,
+  "endTime": 1739791231966,
   "band_list": [
     {
       "raw_hot": 9177808,
@@ -131,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1197053,
+      "num": 435289,
+      "word": "哪吒领奖导播切镜头给敖丙",
+      "onboard_time": 1739789542,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1167967,
       "num": 1167967,
       "word": "光线传媒5分钟巨震40%",
@@ -209,6 +217,14 @@
       "onboard_time": 1739749157,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 884208,
+      "num": 351149,
+      "word": "咸鱼飞升女主换林允",
+      "onboard_time": 1739788819,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 860823,
@@ -387,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 597668,
+      "num": 314293,
+      "word": "欧阳震华口误",
+      "onboard_time": 1739787621,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 580437,
       "num": 262413,
       "word": "患癌公公给儿媳红包里塞催生纸条",
@@ -507,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 515519,
+      "num": 212153,
+      "word": "曝韦雪今年直播收入已超9亿",
+      "onboard_time": 1739790381,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 513052,
       "num": 513052,
       "word": "第一批用DeepSeek赶作业的小学生出现了",
@@ -579,12 +611,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 417671,
-      "num": 314293,
-      "word": "欧阳震华口误",
-      "onboard_time": 1739787621,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 425670,
+      "num": 348763,
+      "word": "刘浩存柏林电影节黑天鹅造型",
+      "onboard_time": 1739789300,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 401865,
@@ -699,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 359340,
+      "num": 359340,
+      "word": "四川一医院窗口工作人员上班玩游戏",
+      "onboard_time": 1739784799,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 349618,
       "num": 349618,
       "word": "倪萍硬cue易烊千玺",
@@ -731,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 333220,
+      "num": 209202,
+      "word": "医生你的手术刀是裂空爪啊",
+      "onboard_time": 1739790381,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 332708,
       "num": 332708,
       "word": "DeepSeek公司主要人员发生变更",
@@ -753,14 +801,6 @@
       "onboard_time": 1739711065,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 322093,
-      "num": 322093,
-      "word": "四川一医院窗口工作人员上班玩游戏",
-      "onboard_time": 1739784799,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 320330,
@@ -889,14 +929,6 @@
       "onboard_time": 1739787919,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 268511,
-      "num": 268511,
-      "word": "咸鱼飞升女主换林允",
-      "onboard_time": 1739788819,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 267846,
@@ -1041,6 +1073,14 @@
       "onboard_time": 1739764880,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250830,
+      "num": 209497,
+      "word": "哪吒2突破121亿",
+      "onboard_time": 1739790319,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 247906,
@@ -1251,6 +1291,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 208264,
+      "num": 208264,
+      "word": "不仅有国补还有省补",
+      "onboard_time": 1739789480,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207040,
       "num": 207040,
       "word": "谢娜谁聚会想要听课啊",
@@ -1331,6 +1379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 192383,
+      "num": 192383,
+      "word": "仙台有树",
+      "onboard_time": 1739790139,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192125,
       "num": 192125,
       "word": "仙台有树扫楼",
@@ -1379,6 +1435,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 188177,
+      "num": 188177,
+      "word": "有冒充饺子导演账号吸粉6万后卖出",
+      "onboard_time": 1739790020,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187870,
       "num": 185359,
       "word": "美队4中国预测票房不足2亿",
@@ -1393,6 +1457,14 @@
       "onboard_time": 1739747415,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 186215,
+      "num": 186215,
+      "word": "六姊妹二姐夫癌症晚期",
+      "onboard_time": 1739790381,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 181225,
@@ -1707,6 +1779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148989,
+      "num": 148989,
+      "word": "刘浩存文淇电影首映路透",
+      "onboard_time": 1739789840,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 148867,
       "num": 148867,
       "word": "VOGUE一周最佳穿搭",
@@ -1721,6 +1801,14 @@
       "onboard_time": 1739786720,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 147580,
+      "num": 144854,
+      "word": "谢娜李维嘉杜海涛熟人局就是敢说",
+      "onboard_time": 1739790620,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 146234,
@@ -1753,6 +1841,14 @@
       "onboard_time": 1739697439,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 143820,
+      "num": 143820,
+      "word": "蜂蜜小面包不是韩国的",
+      "onboard_time": 1739791100,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 143358,
@@ -1825,6 +1921,22 @@
       "onboard_time": 1739761099,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 136931,
+      "num": 136931,
+      "word": "想飞的女孩",
+      "onboard_time": 1739791160,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 133888,
+      "num": 141957,
+      "word": "马龙被小学生逼出大招",
+      "onboard_time": 1739788639,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 131226,
@@ -2219,12 +2331,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 82261,
-      "num": 133722,
-      "word": "马龙被小学生逼出大招",
-      "onboard_time": 1739788639,
-      "rank": 47,
-      "category": "体育"
+      "raw_hot": 84927,
+      "num": 211608,
+      "word": "国台办回应美国务院官网删除不支持台独表述",
+      "onboard_time": 1739790800,
+      "rank": 23,
+      "category": "国内时政,国际时政"
     },
     {
       "raw_hot": 81548,
@@ -2363,6 +2475,14 @@
       "category": "民生新闻,电影"
     },
     {
+      "raw_hot": 61166,
+      "num": 211204,
+      "word": "中方围棋裁判将与韩方共同处理",
+      "onboard_time": 1739789781,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60674,
       "num": 238694,
       "word": "61岁老人飞机上猝死当地已立案",
@@ -2443,6 +2563,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 48557,
+      "num": 208612,
+      "word": "你一般每天睡多少个小时",
+      "onboard_time": 1739791041,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 47298,
       "num": 196273,
       "word": "男子遇医院收费员玩游戏质问反被怼",
@@ -2457,6 +2585,14 @@
       "onboard_time": 1739766261,
       "rank": 30,
       "category": "民生新闻,议题讨论"
+    },
+    {
+      "raw_hot": 44587,
+      "num": 212827,
+      "word": "官方回应网传杭州出台最严养犬新规",
+      "onboard_time": 1739790680,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 43930,
