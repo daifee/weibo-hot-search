@@ -1,6 +1,6 @@
 {
   "startTime": 1739723108252,
-  "endTime": 1739792162804,
+  "endTime": 1739796245277,
   "band_list": [
     {
       "raw_hot": 9177808,
@@ -49,6 +49,14 @@
       "onboard_time": 1739762418,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1658983,
+      "num": 1658983,
+      "word": "金赛纶负债高达7亿韩元",
+      "onboard_time": 1739793739,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1620326,
@@ -121,6 +129,14 @@
       "onboard_time": 1739720662,
       "rank": 1,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 1224109,
+      "num": 1224109,
+      "word": "警方介入温州小学班主任校内身亡",
+      "onboard_time": 1739792121,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1221220,
@@ -200,6 +216,14 @@
       "word": "女儿分手妈妈谎称丈夫病亡拒还款",
       "onboard_time": 1739777362,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 947734,
+      "num": 280053,
+      "word": "93岁老人犯强奸罪后看守所拒绝收押",
+      "onboard_time": 1739794760,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -379,6 +403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 639799,
+      "num": 386973,
+      "word": "哪吒2香港首映时间定了",
+      "onboard_time": 1739792361,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 631324,
       "num": 631324,
       "word": "雪碧 柳智敏",
@@ -443,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 563077,
+      "num": 384103,
+      "word": "片方回应饺子导演被假冒带货",
+      "onboard_time": 1739794220,
+      "rank": 7,
+      "category": "电影,民生新闻"
+    },
+    {
       "raw_hot": 562628,
       "num": 562628,
       "word": "哪吒2首波海外影评来了",
@@ -452,7 +492,7 @@
     },
     {
       "raw_hot": 561023,
-      "num": 309642,
+      "num": 557261,
       "word": "医生你的手术刀是裂空爪啊",
       "onboard_time": 1739790381,
       "rank": 30,
@@ -571,6 +611,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 497001,
+      "num": 250965,
+      "word": "香港人为什么这么喜欢雇菲佣",
+      "onboard_time": 1739791820,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 489378,
       "num": 489378,
       "word": "高中收取723元作业打印费认定违规",
@@ -667,6 +715,30 @@
       "category": "电影"
     },
     {
+      "raw_hot": 389778,
+      "num": 231735,
+      "word": "文淇 大大方方的",
+      "onboard_time": 1739795119,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 388671,
+      "num": 388671,
+      "word": "官方回应小学教师因末位淘汰制轻生不实",
+      "onboard_time": 1739793620,
+      "rank": 5,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 386694,
+      "num": 232807,
+      "word": "蜂蜜小面包不是韩国的",
+      "onboard_time": 1739791100,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 384260,
       "num": 276079,
       "word": "哪吒2突破119亿",
@@ -689,6 +761,14 @@
       "onboard_time": 1739773399,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 375677,
+      "num": 375677,
+      "word": "不仅有国补还有省补",
+      "onboard_time": 1739789480,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 375365,
@@ -873,14 +953,6 @@
       "onboard_time": 1739763439,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 288041,
-      "num": 318432,
-      "word": "不仅有国补还有省补",
-      "onboard_time": 1739789480,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 286837,
@@ -1099,20 +1171,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 247584,
-      "num": 247584,
-      "word": "香港人为什么这么喜欢雇菲佣",
-      "onboard_time": 1739791820,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 246594,
       "num": 246594,
       "word": "乘客航班上猝死航司责任如何界定",
       "onboard_time": 1739753841,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 243885,
+      "num": 208093,
+      "word": "建议饺子导演学学宫崎骏",
+      "onboard_time": 1739795960,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 241474,
@@ -1177,14 +1249,6 @@
       "onboard_time": 1739761701,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 232807,
-      "num": 232807,
-      "word": "蜂蜜小面包不是韩国的",
-      "onboard_time": 1739791100,
-      "rank": 44,
-      "category": "美食"
     },
     {
       "raw_hot": 230743,
@@ -1451,6 +1515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191630,
+      "num": 191630,
+      "word": "民营经济发展前景广阔大有可为",
+      "onboard_time": 1739792300,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 191475,
       "num": 191475,
       "word": "小演员一口辣条音把申小豹配活了",
@@ -1504,6 +1576,22 @@
       "word": "哪吒2里章鱼大将军为何敢烤自己的腕",
       "onboard_time": 1739747415,
       "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 186383,
+      "num": 186383,
+      "word": "张凌赫吊威亚撞到了摇臂",
+      "onboard_time": 1739793800,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 182651,
+      "num": 182651,
+      "word": "刘浩存柏林电影节这1分钟",
+      "onboard_time": 1739795239,
+      "rank": 37,
       "category": "电影"
     },
     {
@@ -1723,6 +1811,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159347,
+      "num": 159347,
+      "word": "土象星座最伤人的一点",
+      "onboard_time": 1739794938,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 158125,
+      "num": 209834,
+      "word": "数十个饺子导演账号全是假的",
+      "onboard_time": 1739794879,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157441,
       "num": 157441,
       "word": "光线传媒市值突破千亿",
@@ -1785,6 +1889,14 @@
       "onboard_time": 1739764640,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151889,
+      "num": 151889,
+      "word": "当你和鸟胃猪瘾的朋友吃饭时",
+      "onboard_time": 1739795420,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 151570,
@@ -1987,14 +2099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130859,
-      "num": 130859,
-      "word": "警方介入温州小学班主任校内身亡",
-      "onboard_time": 1739792121,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 130003,
       "num": 130003,
       "word": "贵州真的是酸辣的神",
@@ -2187,6 +2291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114471,
+      "num": 210131,
+      "word": "仙剑世界首发",
+      "onboard_time": 1739792421,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 112680,
       "num": 112680,
       "word": "NBA总裁发了王鹤棣",
@@ -2209,6 +2321,14 @@
       "onboard_time": 1739769860,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106364,
+      "num": 141154,
+      "word": "广东一中学被曝禁止学生自带面包",
+      "onboard_time": 1739794280,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105235,
@@ -2387,6 +2507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89054,
+      "num": 123807,
+      "word": "AI医疗火了",
+      "onboard_time": 1739795480,
+      "rank": 48,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 86501,
       "num": 102589,
       "word": "徐明浩的A来了",
@@ -2417,6 +2545,22 @@
       "onboard_time": 1739779762,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79766,
+      "num": 208777,
+      "word": "上海成为中国首个GDP5万亿之城",
+      "onboard_time": 1739796082,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79187,
+      "num": 118959,
+      "word": "王兴兴给90后长脸了",
+      "onboard_time": 1739795901,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 76003,
@@ -2627,6 +2771,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 49837,
+      "num": 208290,
+      "word": "潜逃28年嫌犯给村民放羊漂白身份",
+      "onboard_time": 1739794640,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48557,
       "num": 268740,
       "word": "你一般每天睡多少个小时",
@@ -2665,6 +2817,14 @@
       "onboard_time": 1739779399,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 42773,
+      "num": 240914,
+      "word": "哪吒片尾字幕里藏着4000多名匠人",
+      "onboard_time": 1739794460,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 42675,
@@ -2713,6 +2873,14 @@
       "onboard_time": 1739724736,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36240,
+      "num": 788369,
+      "word": "中国式现代化的万千气象海南行",
+      "onboard_time": 1739782103,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 33990,
@@ -2793,14 +2961,6 @@
       "onboard_time": 1739775921,
       "rank": 21,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 21651,
-      "num": 468103,
-      "word": "中国式现代化的万千气象海南行",
-      "onboard_time": 1739782103,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 21097,
