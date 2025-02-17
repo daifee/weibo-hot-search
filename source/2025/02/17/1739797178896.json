@@ -1,0 +1,410 @@
+{
+  "runTime": 1739797178896,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1651071,
+        "num": 1651071,
+        "word": "金赛纶负债高达7亿韩元",
+        "onboard_time": 1739793739,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1344100,
+        "num": 1344100,
+        "word": "警方介入温州小学班主任校内身亡",
+        "onboard_time": 1739792121,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37354,
+        "num": 1325747,
+        "word": "中国式现代化的万千气象海南行",
+        "onboard_time": 1739782103,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1321799,
+        "num": 1321799,
+        "word": "哪吒2全球影史票房第10",
+        "onboard_time": 1739775141,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 473776,
+        "num": 473776,
+        "word": "医生你的手术刀是裂空爪啊",
+        "onboard_time": 1739790381,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 443217,
+        "num": 443217,
+        "word": "官方回应小学教师因末位淘汰制轻生不实",
+        "onboard_time": 1739793620,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1264572,
+        "num": 423487,
+        "word": "文淇 大大方方的",
+        "onboard_time": 1739795119,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 607810,
+        "num": 406289,
+        "word": "哪吒2香港首映时间定了",
+        "onboard_time": 1739792361,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 298244,
+        "num": 298244,
+        "word": "不仅有国补还有省补",
+        "onboard_time": 1739789480,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243701,
+        "num": 243701,
+        "word": "民营经济发展前景广阔大有可为",
+        "onboard_time": 1739792300,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2170134,
+        "num": 243656,
+        "word": "93岁老人犯强奸罪后看守所拒绝收押",
+        "onboard_time": 1739794760,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 729791,
+        "num": 243086,
+        "word": "蒋欣评论区回应为何不结婚",
+        "onboard_time": 1739785100,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 578264,
+        "num": 242539,
+        "word": "建议饺子导演学学宫崎骏",
+        "onboard_time": 1739795960,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 568774,
+        "num": 242110,
+        "word": "片方回应饺子导演被假冒带货",
+        "onboard_time": 1739794220,
+        "rank": 13,
+        "category": "电影,民生新闻"
+      },
+      {
+        "raw_hot": 501974,
+        "num": 241272,
+        "word": "香港人为什么这么喜欢雇菲佣",
+        "onboard_time": 1739791820,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 409213,
+        "num": 240920,
+        "word": "哪吒领奖导播切镜头给敖丙",
+        "onboard_time": 1739789542,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 327484,
+        "num": 240265,
+        "word": "蜂蜜小面包不是韩国的",
+        "onboard_time": 1739791100,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 240122,
+        "num": 240122,
+        "word": "刘浩存柏林电影节黑天鹅造型",
+        "onboard_time": 1739789300,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189895,
+        "num": 233485,
+        "word": "上海成为中国首个GDP5万亿之城",
+        "onboard_time": 1739796082,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232409,
+        "num": 232409,
+        "word": "第一批用DeepSeek赶作业的小学生出现了",
+        "onboard_time": 1739783482,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389652,
+        "num": 230933,
+        "word": "咸鱼飞升女主换林允",
+        "onboard_time": 1739788819,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291229,
+        "num": 227283,
+        "word": "患癌公公给儿媳红包里塞催生纸条",
+        "onboard_time": 1739786780,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263755,
+        "num": 227224,
+        "word": "元斌在金赛纶灵堂擦眼泪",
+        "onboard_time": 1739782882,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223278,
+        "num": 223278,
+        "word": "女子去世无继承人房产收归国家",
+        "onboard_time": 1739780421,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219855,
+        "num": 219855,
+        "word": "沈梦辰杜海涛庆祝结婚3周年",
+        "onboard_time": 1739778741,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206243,
+        "num": 206243,
+        "word": "六姊妹",
+        "onboard_time": 1739796260,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204801,
+        "num": 204801,
+        "word": "曝韦雪今年直播收入已超9亿",
+        "onboard_time": 1739790381,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 202657,
+        "num": 202657,
+        "word": "哪吒2突破121亿",
+        "onboard_time": 1739790319,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200088,
+        "num": 200088,
+        "word": "主持人介绍刘浩存",
+        "onboard_time": 1739796622,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198821,
+        "num": 198821,
+        "word": "2025民营企业座谈会",
+        "onboard_time": 1739765121,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 198726,
+        "num": 198726,
+        "word": "当你和鸟胃猪瘾的朋友吃饭时",
+        "onboard_time": 1739795420,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192617,
+        "num": 192617,
+        "word": "情侣模仿桑延温以凡",
+        "onboard_time": 1739796922,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185802,
+        "num": 185802,
+        "word": "哪吒2进入全球影史票房前9",
+        "onboard_time": 1739796981,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 9258,
+        "num": 181763,
+        "word": "开学第一天就遇见马龙",
+        "onboard_time": 1739795718,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178542,
+        "num": 178542,
+        "word": "李羲承进行曲",
+        "onboard_time": 1739796860,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175537,
+        "num": 175537,
+        "word": "土象星座最伤人的一点",
+        "onboard_time": 1739794938,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173990,
+        "num": 173990,
+        "word": "商家用女童跪撩上衣姿势展示童装",
+        "onboard_time": 1739797161,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173210,
+        "num": 173210,
+        "word": "妙瓦底电诈园区被三个国家联合打击",
+        "onboard_time": 1739781442,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70170,
+        "num": 166144,
+        "word": "四川山体滑坡已致10死19失联",
+        "onboard_time": 1739797101,
+        "rank": 38,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 95103,
+        "num": 161227,
+        "word": "仙剑世界首发",
+        "onboard_time": 1739792421,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160700,
+        "num": 160700,
+        "word": "邹家华逝世",
+        "onboard_time": 1739785100,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 157455,
+        "num": 157455,
+        "word": "真正的哪吒闹海开始了",
+        "onboard_time": 1739776579,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148318,
+        "num": 148318,
+        "word": "数十个饺子导演账号全是假的",
+        "onboard_time": 1739794879,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146869,
+        "num": 146869,
+        "word": "张凌赫吊威亚撞到了摇臂",
+        "onboard_time": 1739793800,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140838,
+        "num": 140838,
+        "word": "欧阳震华口误",
+        "onboard_time": 1739787621,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134019,
+        "num": 134019,
+        "word": "老外连炫1个月砂糖桔变小黄人",
+        "onboard_time": 1739776761,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133780,
+        "num": 133780,
+        "word": "六姊妹二姐夫癌症晚期",
+        "onboard_time": 1739790381,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132423,
+        "num": 132423,
+        "word": "中国已开始部署防御小行星撞击地球",
+        "onboard_time": 1739777421,
+        "rank": 47,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 124996,
+        "num": 124996,
+        "word": "当我试图了解二胎育儿成本",
+        "onboard_time": 1739796442,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98322,
+        "num": 121706,
+        "word": "AI医疗火了",
+        "onboard_time": 1739795480,
+        "rank": 49,
+        "category": "财经,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#民营经济发展前景广阔大有可为#"
+    }
+  }
+}

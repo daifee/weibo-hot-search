@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1739796245277,
+  "endTime": 1739797178896,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -2371,6 +2371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2170134,
+      "num": 280053,
+      "word": "93岁老人犯强奸罪后看守所拒绝收押",
+      "onboard_time": 1739794760,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2166099,
       "num": 2166099,
       "word": "杨子黄圣依彻底分开了",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1738118901,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2160261,
-      "num": 2160261,
-      "word": "将门毒后",
-      "onboard_time": 1736851396,
-      "rank": 0,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
