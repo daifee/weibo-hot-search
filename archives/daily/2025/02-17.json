@@ -1,6 +1,6 @@
 {
   "startTime": 1739723108252,
-  "endTime": 1739802145915,
+  "endTime": 1739803230693,
   "band_list": [
     {
       "raw_hot": 9177808,
@@ -171,6 +171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1213628,
+      "num": 256234,
+      "word": "女子多次试管怀孕乘网约车车祸流产",
+      "onboard_time": 1739801541,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1200437,
       "num": 295729,
       "word": "93岁老人犯强奸罪被判15年",
@@ -225,6 +233,14 @@
       "onboard_time": 1739777421,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1047087,
+      "num": 384835,
+      "word": "余承恩你还要亲成什么样",
+      "onboard_time": 1739800341,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 1010385,
@@ -305,14 +321,6 @@
       "onboard_time": 1739781442,
       "rank": 22,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 837600,
-      "num": 283044,
-      "word": "余承恩你还要亲成什么样",
-      "onboard_time": 1739800341,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 827598,
@@ -491,6 +499,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 606135,
+      "num": 263779,
+      "word": "官方回应93岁强奸犯进行社区矫正",
+      "onboard_time": 1739801242,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 605631,
+      "num": 247079,
+      "word": "psy因过度减肥向粉丝道歉",
+      "onboard_time": 1739800880,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 593601,
       "num": 593601,
       "word": "上海成为中国首个GDP5万亿之城",
@@ -521,6 +545,14 @@
       "onboard_time": 1739780421,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 576096,
+      "num": 240499,
+      "word": "周扬青回应网曝新恋情",
+      "onboard_time": 1739801841,
+      "rank": 36,
+      "category": "时尚,网红"
     },
     {
       "raw_hot": 568774,
@@ -601,6 +633,14 @@
       "onboard_time": 1739776821,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 540577,
+      "num": 225066,
+      "word": "网红顾茜茜自曝日收入超30万",
+      "onboard_time": 1739801602,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 539086,
@@ -739,6 +779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 411663,
+      "num": 313830,
+      "word": "哪吒2发破120亿海报",
+      "onboard_time": 1739797400,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 401865,
       "num": 314670,
       "word": "谁家老公把老婆当员工啊",
@@ -777,14 +825,6 @@
       "onboard_time": 1739712443,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 396765,
-      "num": 313830,
-      "word": "哪吒2发破120亿海报",
-      "onboard_time": 1739797400,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 391990,
@@ -883,28 +923,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 370259,
-      "num": 370259,
-      "word": "深圳地铁11号线",
-      "onboard_time": 1739755459,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 369065,
-      "num": 369065,
+      "raw_hot": 370930,
+      "num": 370930,
       "word": "小米YU7续航信息曝光",
       "onboard_time": 1739798899,
       "rank": 41,
       "category": "汽车"
     },
     {
-      "raw_hot": 365631,
-      "num": 221606,
-      "word": "psy因过度减肥向粉丝道歉",
-      "onboard_time": 1739800880,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 370259,
+      "num": 370259,
+      "word": "深圳地铁11号线",
+      "onboard_time": 1739755459,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 359340,
@@ -920,14 +952,6 @@
       "word": "谁参加了这场最高规格的座谈会",
       "onboard_time": 1739797220,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 351775,
-      "num": 256234,
-      "word": "女子多次试管怀孕乘网约车车祸流产",
-      "onboard_time": 1739801541,
-      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -1068,7 +1092,7 @@
     },
     {
       "raw_hot": 290609,
-      "num": 213495,
+      "num": 221058,
       "word": "66岁单身大妈去养生局感染HPV",
       "onboard_time": 1739800281,
       "rank": 25,
@@ -1217,6 +1241,14 @@
       "onboard_time": 1739764339,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 257249,
+      "num": 257249,
+      "word": "不喜欢求助他人可能是缺爱",
+      "onboard_time": 1739800520,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 257211,
@@ -1411,14 +1443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 223639,
-      "num": 211691,
-      "word": "网红顾茜茜自曝日收入超30万",
-      "onboard_time": 1739801602,
-      "rank": 27,
-      "category": "网红"
-    },
-    {
       "raw_hot": 221466,
       "num": 221466,
       "word": "六姊妹婆婆是我顶头上司",
@@ -1457,14 +1481,6 @@
       "onboard_time": 1739761638,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 214896,
-      "num": 214896,
-      "word": "不喜欢求助他人可能是缺爱",
-      "onboard_time": 1739800520,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 214738,
@@ -1555,6 +1571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 207475,
+      "num": 207475,
+      "word": "仿妆余莺儿网红称面临失业风险",
+      "onboard_time": 1739799560,
+      "rank": 49,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 207040,
       "num": 207040,
       "word": "谢娜谁聚会想要听课啊",
@@ -1563,12 +1587,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206973,
+      "num": 206973,
+      "word": "红房子",
+      "onboard_time": 1739802081,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206243,
       "num": 206243,
       "word": "六姊妹",
       "onboard_time": 1739796260,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205459,
+      "num": 205459,
+      "word": "美国队长2电梯名场面",
+      "onboard_time": 1739800221,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 204103,
@@ -1683,14 +1723,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 193808,
-      "num": 193808,
-      "word": "美国队长2电梯名场面",
-      "onboard_time": 1739800221,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 193455,
       "num": 193455,
       "word": "六姊妹二姐夫癌症晚期",
@@ -1729,14 +1761,6 @@
       "onboard_time": 1739754440,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 191163,
-      "num": 191163,
-      "word": "仿妆余莺儿网红称面临失业风险",
-      "onboard_time": 1739799560,
-      "rank": 49,
-      "category": "美妆"
     },
     {
       "raw_hot": 190688,
@@ -1907,6 +1931,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 173474,
+      "num": 173474,
+      "word": "刘亦菲说女性别再给自己上枷锁",
+      "onboard_time": 1739802802,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173462,
       "num": 201251,
       "word": "公务员考试",
@@ -1953,14 +1985,6 @@
       "onboard_time": 1739770099,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 167620,
-      "num": 167620,
-      "word": "周扬青回应网曝新恋情",
-      "onboard_time": 1739801841,
-      "rank": 36,
-      "category": "时尚,网红"
     },
     {
       "raw_hot": 167300,
@@ -2163,6 +2187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151463,
+      "num": 151463,
+      "word": "于正五年前买股王星越黄杨钿甜",
+      "onboard_time": 1739799982,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150950,
       "num": 150950,
       "word": "颜安是何洛洛的兵",
@@ -2243,11 +2275,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145311,
-      "num": 145311,
-      "word": "于正五年前买股王星越黄杨钿甜",
-      "onboard_time": 1739799982,
-      "rank": 43,
+      "raw_hot": 145042,
+      "num": 245643,
+      "word": "邓为说开学了记得断念",
+      "onboard_time": 1739801481,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -2363,12 +2395,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132081,
-      "num": 132081,
-      "word": "红房子",
-      "onboard_time": 1739802081,
-      "rank": 47,
-      "category": "剧集"
+      "raw_hot": 133023,
+      "num": 198671,
+      "word": "杭州路上开始积雪了",
+      "onboard_time": 1739802443,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131226,
@@ -2473,6 +2505,14 @@
       "onboard_time": 1739770162,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123617,
+      "num": 242982,
+      "word": "一民办学校多次向教职工借款不还",
+      "onboard_time": 1739801422,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123457,
@@ -2609,14 +2649,6 @@
       "onboard_time": 1739715502,
       "rank": 40,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 110912,
-      "num": 263779,
-      "word": "官方回应93岁强奸犯进行社区矫正",
-      "onboard_time": 1739801242,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110419,
@@ -2915,6 +2947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71432,
+      "num": 219489,
+      "word": "俄美将在沙特举行会晤",
+      "onboard_time": 1739802141,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 71427,
       "num": 80380,
       "word": "司机猝死10位卡友自费护送返乡",
@@ -3035,6 +3075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58710,
+      "num": 208318,
+      "word": "脂肪肝少吃主食还是少吃肉",
+      "onboard_time": 1739802501,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 58616,
       "num": 312969,
       "word": "跟着贾冰学省钱",
@@ -3091,14 +3139,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 49934,
-      "num": 245643,
-      "word": "邓为说开学了记得断念",
-      "onboard_time": 1739801481,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 49837,
       "num": 208290,
       "word": "潜逃28年嫌犯给村民放羊漂白身份",
@@ -3120,14 +3160,6 @@
       "word": "男子遇医院收费员玩游戏质问反被怼",
       "onboard_time": 1739783119,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 46185,
-      "num": 242982,
-      "word": "一民办学校多次向教职工借款不还",
-      "onboard_time": 1739801422,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -3377,6 +3409,14 @@
       "onboard_time": 1739784082,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 9600,
+      "num": 112694,
+      "word": "被张凌赫360度包围了",
+      "onboard_time": 1739803162,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 9258,
