@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739761495151,
+  "endTime": 1739762945545,
   "band_list": [
     {
       "raw_hot": 17381826,
@@ -97,6 +97,14 @@
       "onboard_time": 1739634920,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1650894,
+      "num": 1650894,
+      "word": "哪吒2冲顶全球动画榜",
+      "onboard_time": 1739759359,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 1593537,
@@ -259,14 +267,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1034543,
-      "num": 1034543,
-      "word": "哪吒2冲顶全球动画榜",
-      "onboard_time": 1739759359,
-      "rank": 6,
-      "category": "电影"
-    },
-    {
       "raw_hot": 979532,
       "num": 899143,
       "word": "难哄导演为请何炅客串写了三页信",
@@ -331,6 +331,14 @@
       "category": "电影,美妆"
     },
     {
+      "raw_hot": 853584,
+      "num": 566750,
+      "word": "吴敬平删博",
+      "onboard_time": 1739760919,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 847540,
       "num": 534439,
       "word": "这才是修仙剧男主该有的仪态",
@@ -345,6 +353,14 @@
       "onboard_time": 1739666777,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 837397,
+      "num": 837397,
+      "word": "光线传媒5分钟巨震40%",
+      "onboard_time": 1739761459,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 835997,
@@ -380,7 +396,7 @@
     },
     {
       "raw_hot": 822692,
-      "num": 416951,
+      "num": 701781,
       "word": "饺子导演从来不会说不行不对",
       "onboard_time": 1739757618,
       "rank": 47,
@@ -412,7 +428,7 @@
     },
     {
       "raw_hot": 783120,
-      "num": 253882,
+      "num": 274656,
       "word": "女子取出9岁存了24年的压岁钱",
       "onboard_time": 1739749578,
       "rank": 20,
@@ -441,6 +457,14 @@
       "onboard_time": 1739631800,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 772844,
+      "num": 682976,
+      "word": "哪吒票房",
+      "onboard_time": 1739752459,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 741471,
@@ -572,7 +596,7 @@
     },
     {
       "raw_hot": 624174,
-      "num": 390392,
+      "num": 483411,
       "word": "丈夫回应妻子疑带三月大女儿跳江",
       "onboard_time": 1739756178,
       "rank": 38,
@@ -633,14 +657,6 @@
       "onboard_time": 1739693418,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 571545,
-      "num": 392682,
-      "word": "哪吒票房",
-      "onboard_time": 1739752459,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 556992,
@@ -801,6 +817,14 @@
       "onboard_time": 1739633002,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 469057,
+      "num": 649558,
+      "word": "国际现货黄金价格已上涨63%",
+      "onboard_time": 1739758759,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 468708,
@@ -987,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 410021,
+      "num": 410021,
+      "word": "难哄cp海报是两种爱情",
+      "onboard_time": 1739761638,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 409150,
       "num": 409150,
       "word": "勇救三人的菜刀哥突发疾病昏迷",
@@ -1155,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 350896,
+      "num": 350896,
+      "word": "腾讯市值暴涨3000亿",
+      "onboard_time": 1739761219,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 350872,
       "num": 250886,
       "word": "甄嬛传连门声都被开发出来了",
@@ -1217,14 +1257,6 @@
       "onboard_time": 1739693117,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 327285,
-      "num": 327285,
-      "word": "国际现货黄金价格已上涨63%",
-      "onboard_time": 1739758759,
-      "rank": 19,
-      "category": "财经"
     },
     {
       "raw_hot": 323019,
@@ -1459,14 +1491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 257195,
-      "num": 257195,
-      "word": "吴敬平删博",
-      "onboard_time": 1739760919,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 256925,
       "num": 239370,
       "word": "金智秀圈内好友名单",
@@ -1603,6 +1627,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 233397,
+      "num": 233397,
+      "word": "尹子维亲徐冬冬脸",
+      "onboard_time": 1739761701,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232792,
       "num": 232792,
       "word": "怎么买到显贵的衣服",
@@ -1691,12 +1723,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217156,
+      "num": 217156,
+      "word": "难哄",
+      "onboard_time": 1739667738,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216331,
       "num": 216331,
       "word": "名侦探学院",
       "onboard_time": 1739686098,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 216190,
+      "num": 216190,
+      "word": "哪吒2海外票房突破千万美元",
+      "onboard_time": 1739761638,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 215517,
@@ -1761,14 +1809,6 @@
       "onboard_time": 1739673979,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 208818,
-      "num": 208818,
-      "word": "难哄",
-      "onboard_time": 1739667738,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 208080,
@@ -1995,6 +2035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 190140,
+      "num": 353310,
+      "word": "起底独处30天赢40万自律挑战骗局",
+      "onboard_time": 1739760499,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189841,
       "num": 189841,
       "word": "00后女生毕业去养猪场养猪月薪8千",
@@ -2009,6 +2057,14 @@
       "onboard_time": 1739627302,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189313,
+      "num": 189313,
+      "word": "光线传媒股价巨震",
+      "onboard_time": 1739762000,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 188919,
@@ -2339,20 +2395,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158365,
-      "num": 158365,
-      "word": "腾讯市值暴涨3000亿",
-      "onboard_time": 1739761219,
-      "rank": 32,
-      "category": "财经"
-    },
-    {
       "raw_hot": 157712,
       "num": 157712,
       "word": "原来切牛肉要横着切才嫩",
       "onboard_time": 1739691378,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 157441,
+      "num": 157441,
+      "word": "光线传媒市值突破千亿",
+      "onboard_time": 1739762000,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 156748,
@@ -2451,19 +2507,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149384,
+      "num": 149384,
+      "word": "深圳一商场惊现哪吒通天梯",
+      "onboard_time": 1739757378,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149273,
       "num": 149273,
       "word": "狗主人称潘宏歪曲事实",
       "onboard_time": 1739619801,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 148444,
-      "num": 148444,
-      "word": "深圳一商场惊现哪吒通天梯",
-      "onboard_time": 1739757378,
-      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -2527,6 +2583,14 @@
       "num": 143210,
       "word": "詹姆斯与欧文疯狂贴贴",
       "onboard_time": 1739757738,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 142928,
+      "num": 142928,
+      "word": "NBA",
+      "onboard_time": 1739762540,
       "rank": 38,
       "category": "体育"
     },
@@ -3011,6 +3075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112449,
+      "num": 112449,
+      "word": "仙逆最新一集战天道名场面",
+      "onboard_time": 1739762660,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 111948,
       "num": 198277,
       "word": "文班保罗聪明反被聪明误",
@@ -3187,6 +3259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 99682,
+      "num": 865332,
+      "word": "多地以旧换新多重buff拉满",
+      "onboard_time": 1739761638,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98225,
       "num": 141314,
       "word": "套中玛莎拉蒂男子称有一年使用权",
@@ -3275,12 +3355,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 83815,
-      "num": 353310,
-      "word": "起底独处30天赢40万自律挑战骗局",
-      "onboard_time": 1739760499,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 86031,
+      "num": 611885,
+      "word": "光线传媒节后累计涨超300%",
+      "onboard_time": 1739761701,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 82484,
@@ -3441,6 +3521,14 @@
       "onboard_time": 1739655251,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 60036,
+      "num": 203343,
+      "word": "美施压台积电入股英特尔",
+      "onboard_time": 1739761578,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 59636,
@@ -3827,14 +3915,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 10021,
-      "num": 137468,
-      "word": "光线传媒5分钟巨震40%",
-      "onboard_time": 1739761459,
-      "rank": 41,
-      "category": "财经"
-    },
-    {
       "raw_hot": 6998,
       "num": 161187,
       "word": "林孝埈的北京初雪",
@@ -3849,6 +3929,9 @@
     },
     {
       "word": "#绿水青山瞰我家#"
+    },
+    {
+      "word": "#切实让特权现象和腐败问题无所遁形#"
     }
   ]
 }
