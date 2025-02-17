@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739766439139,
+  "endTime": 1739767288612,
   "band_list": [
     {
       "raw_hot": 17381826,
@@ -99,20 +99,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1813270,
+      "num": 1813270,
+      "word": "哪吒2票房120亿了",
+      "onboard_time": 1739762418,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1667596,
       "num": 1667596,
       "word": "王皓马琳点赞尹肖",
       "onboard_time": 1739634920,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1626818,
-      "num": 1626818,
-      "word": "哪吒2票房120亿了",
-      "onboard_time": 1739762418,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 1593537,
@@ -171,8 +171,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1380333,
-      "num": 778111,
+      "raw_hot": 1388627,
+      "num": 1104355,
       "word": "金赛纶被曝生前重度抑郁",
       "onboard_time": 1739763259,
       "rank": 26,
@@ -291,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1084452,
+      "num": 759299,
+      "word": "赵丽颖满心满眼都是吒儿",
+      "onboard_time": 1739764160,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1051486,
       "num": 392576,
       "word": "哪吒2破115亿",
@@ -320,14 +328,6 @@
       "word": "哪吒2燃爆北美五星评论霸屏",
       "onboard_time": 1739749157,
       "rank": 3,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 931719,
-      "num": 712528,
-      "word": "赵丽颖满心满眼都是吒儿",
-      "onboard_time": 1739764160,
-      "rank": 10,
       "category": "电影"
     },
     {
@@ -468,7 +468,7 @@
     },
     {
       "raw_hot": 783120,
-      "num": 363156,
+      "num": 424254,
       "word": "女子取出9岁存了24年的压岁钱",
       "onboard_time": 1739749578,
       "rank": 20,
@@ -505,6 +505,14 @@
       "onboard_time": 1739752459,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 762446,
+      "num": 762446,
+      "word": "社保挂靠代缴为何屡禁不止",
+      "onboard_time": 1739764100,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 741471,
@@ -635,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 631324,
+      "num": 631324,
+      "word": "雪碧 柳智敏",
+      "onboard_time": 1739764880,
+      "rank": 23,
+      "category": "艺人,美食"
+    },
+    {
       "raw_hot": 630293,
       "num": 369848,
       "word": "李惠利吻戏",
@@ -705,6 +721,14 @@
       "onboard_time": 1739693418,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 562628,
+      "num": 562628,
+      "word": "哪吒2首波海外影评来了",
+      "onboard_time": 1739764939,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 559692,
@@ -811,20 +835,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 501221,
+      "num": 758184,
+      "word": "2025民营企业座谈会",
+      "onboard_time": 1739765121,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 500947,
+      "num": 349805,
+      "word": "韩裔女演员克拉拉cos敖闰",
+      "onboard_time": 1739766322,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 500760,
       "num": 1007461,
       "word": "郑州暴雨救祖孙3人的菜刀哥病危",
       "onboard_time": 1739703140,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 499995,
-      "num": 758184,
-      "word": "2025民营企业座谈会",
-      "onboard_time": 1739765121,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 497969,
@@ -1123,22 +1155,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 398766,
-      "num": 297009,
-      "word": "雪碧 柳智敏",
-      "onboard_time": 1739764880,
-      "rank": 23,
-      "category": "艺人,美食"
-    },
-    {
-      "raw_hot": 393678,
-      "num": 393678,
-      "word": "社保挂靠代缴为何屡禁不止",
-      "onboard_time": 1739764100,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 393396,
       "num": 393396,
       "word": "仙逆",
@@ -1171,6 +1187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 375112,
+      "num": 375112,
+      "word": "3岁百亿影帝开学了",
+      "onboard_time": 1739766021,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 374899,
       "num": 316220,
       "word": "Felix遭遇交通事故骨折",
@@ -1193,6 +1217,14 @@
       "onboard_time": 1739751679,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 373281,
+      "num": 740820,
+      "word": "130多家公司托举哪吒2票房冲击记录",
+      "onboard_time": 1739763620,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 373145,
@@ -1267,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 349618,
+      "num": 349618,
+      "word": "倪萍硬cue易烊千玺",
+      "onboard_time": 1739765481,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 344312,
       "num": 344312,
       "word": "余承恩直播",
@@ -1307,12 +1347,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 330591,
-      "num": 330591,
-      "word": "哪吒2首波海外影评来了",
-      "onboard_time": 1739764939,
-      "rank": 17,
-      "category": "电影"
+      "raw_hot": 332708,
+      "num": 332708,
+      "word": "DeepSeek公司主要人员发生变更",
+      "onboard_time": 1739765361,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 329617,
@@ -1347,14 +1387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 317753,
-      "num": 289684,
-      "word": "倪萍硬cue易烊千玺",
-      "onboard_time": 1739765481,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 317600,
       "num": 247332,
       "word": "李现拍的白敬亭吴磊",
@@ -1376,14 +1408,6 @@
       "word": "你的吒儿埋了多少文物梗",
       "onboard_time": 1739671339,
       "rank": 40,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 310434,
-      "num": 287503,
-      "word": "3岁百亿影帝开学了",
-      "onboard_time": 1739766021,
-      "rank": 33,
       "category": "电影"
     },
     {
@@ -1427,12 +1451,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 300664,
+      "num": 729842,
+      "word": "库里全明星MVP",
+      "onboard_time": 1739765841,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 297444,
       "num": 364007,
       "word": "金赛纶去世和金秀贤生日是同一天",
       "onboard_time": 1739763439,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 294231,
+      "num": 294231,
+      "word": "男孩抄作业不还被打断牙后起诉同学",
+      "onboard_time": 1739765179,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 292886,
@@ -1513,14 +1553,6 @@
       "onboard_time": 1739720540,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 284094,
-      "num": 284094,
-      "word": "DeepSeek公司主要人员发生变更",
-      "onboard_time": 1739765361,
-      "rank": 36,
-      "category": "互联网"
     },
     {
       "raw_hot": 278070,
@@ -1659,6 +1691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 253533,
+      "num": 253533,
+      "word": "邵艺辉说人脉饭局是糊弄年轻人",
+      "onboard_time": 1739766561,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 253402,
       "num": 245182,
       "word": "何某某发表数百条攻击陈丽君博文",
@@ -1737,6 +1777,14 @@
       "onboard_time": 1739764821,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 239282,
+      "num": 239282,
+      "word": "第五人格 福尔摩斯",
+      "onboard_time": 1739766381,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 238217,
@@ -1899,6 +1947,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 214301,
+      "num": 214301,
+      "word": "女子多次楼道烧香倒灰撒冥纸邻居崩溃",
+      "onboard_time": 1739763561,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 214005,
       "num": 214005,
       "word": "人民网评重庆燃气屡次点燃群众火气",
@@ -1913,6 +1969,14 @@
       "onboard_time": 1739750058,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 212935,
+      "num": 363081,
+      "word": "陈哲远演技口碑",
+      "onboard_time": 1739765121,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 210302,
@@ -1947,6 +2011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208653,
+      "num": 208653,
+      "word": "刘亦菲羽毛头",
+      "onboard_time": 1739767041,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 208080,
       "num": 189686,
       "word": "黄金昨夜跳水",
@@ -1963,28 +2035,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205464,
-      "num": 205464,
-      "word": "女子多次楼道烧香倒灰撒冥纸邻居崩溃",
-      "onboard_time": 1739763561,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 205218,
       "num": 205218,
       "word": "檀健次和拖把的吻戏",
       "onboard_time": 1739690237,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 204362,
-      "num": 204362,
-      "word": "男孩抄作业不还被打断牙后起诉同学",
-      "onboard_time": 1739765179,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 204028,
@@ -2105,14 +2161,6 @@
       "onboard_time": 1739711304,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 196864,
-      "num": 729842,
-      "word": "库里全明星MVP",
-      "onboard_time": 1739765841,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 196841,
@@ -2403,14 +2451,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 176707,
-      "num": 740820,
-      "word": "130多家公司托举哪吒2票房冲击记录",
-      "onboard_time": 1739763620,
-      "rank": 8,
-      "category": "电影"
-    },
-    {
       "raw_hot": 174771,
       "num": 228693,
       "word": "吴敬平尹肖的争论折射国乒转型之痛",
@@ -2483,11 +2523,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 170612,
-      "num": 235966,
-      "word": "陈哲远演技口碑",
-      "onboard_time": 1739765121,
-      "rank": 39,
+      "raw_hot": 170620,
+      "num": 373833,
+      "word": "180天重启计划开播",
+      "onboard_time": 1739766021,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -2585,14 +2625,6 @@
       "onboard_time": 1739716344,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 161473,
-      "num": 161473,
-      "word": "第五人格 福尔摩斯",
-      "onboard_time": 1739766381,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 157712,
@@ -2715,7 +2747,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 150206,
+      "raw_hot": 151570,
       "num": 1118001,
       "word": "多地以旧换新多重buff拉满",
       "onboard_time": 1739761638,
@@ -3035,14 +3067,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 129201,
-      "num": 315328,
-      "word": "180天重启计划开播",
-      "onboard_time": 1739766021,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 128521,
       "num": 128521,
       "word": "重庆带娃摆摊宝妈收到网友捐款四十多万元",
@@ -3201,6 +3225,14 @@
       "onboard_time": 1739690357,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118757,
+      "num": 361659,
+      "word": "月子中心回应宝妈出走后投湖轻生",
+      "onboard_time": 1739765481,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118682,
@@ -3492,7 +3524,7 @@
     },
     {
       "raw_hot": 98602,
-      "num": 574305,
+      "num": 592863,
       "word": "成毅六边形实力具象化",
       "onboard_time": 1739765001,
       "rank": 13,
@@ -3539,6 +3571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92960,
+      "num": 434870,
+      "word": "已有超20城优化调整住房公积金",
+      "onboard_time": 1739766561,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92672,
       "num": 92672,
       "word": "SEVENTEEN曼谷演唱会",
@@ -3561,14 +3601,6 @@
       "onboard_time": 1739673618,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 91243,
-      "num": 293014,
-      "word": "月子中心回应宝妈出走后投湖轻生",
-      "onboard_time": 1739765481,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91181,
@@ -3731,6 +3763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65615,
+      "num": 210530,
+      "word": "于适写的姬发战前动员演讲",
+      "onboard_time": 1739767160,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 65493,
       "num": 101703,
       "word": "某暗部的少女共栖",
@@ -3795,8 +3835,16 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 59553,
+      "num": 454565,
+      "word": "张凌赫吃面把我看馋了",
+      "onboard_time": 1739765361,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58616,
-      "num": 292246,
+      "num": 312969,
       "word": "跟着贾冰学省钱",
       "onboard_time": 1739763259,
       "rank": 37,
@@ -3825,6 +3873,14 @@
       "onboard_time": 1739765001,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56481,
+      "num": 355572,
+      "word": "进击的巨人白夜",
+      "onboard_time": 1739766441,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 56346,
@@ -3899,20 +3955,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 44682,
+      "num": 521306,
+      "word": "15天掌握AI技术快速变现是智商税吗",
+      "onboard_time": 1739766261,
+      "rank": 30,
+      "category": "民生新闻,议题讨论"
+    },
+    {
       "raw_hot": 40575,
       "num": 161881,
       "word": "NBA大型前任见面会",
       "onboard_time": 1739672060,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 40262,
-      "num": 291390,
-      "word": "张凌赫吃面把我看馋了",
-      "onboard_time": 1739765361,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 38792,
@@ -4131,14 +4187,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 18143,
-      "num": 290532,
-      "word": "15天掌握AI技术快速变现是智商税吗",
-      "onboard_time": 1739766261,
-      "rank": 30,
-      "category": "民生新闻,议题讨论"
-    },
-    {
       "raw_hot": 17234,
       "num": 26903,
       "word": "CBA俱乐部杯",
@@ -4164,7 +4212,7 @@
     },
     {
       "raw_hot": 14594,
-      "num": 234657,
+      "num": 357398,
       "word": "美貌的酷拉皮卡",
       "onboard_time": 1739766381,
       "rank": 40,

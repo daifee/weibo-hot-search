@@ -1,0 +1,410 @@
+{
+  "runTime": 1739767288612,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1813270,
+        "num": 1813270,
+        "word": "哪吒2票房120亿了",
+        "onboard_time": 1739762418,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1115555,
+        "num": 1115555,
+        "word": "67岁大爷爆改龙爹敖光",
+        "onboard_time": 1739763019,
+        "rank": 1,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 151570,
+        "num": 1105765,
+        "word": "多地以旧换新多重buff拉满",
+        "onboard_time": 1739761638,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1388627,
+        "num": 1104355,
+        "word": "金赛纶被曝生前重度抑郁",
+        "onboard_time": 1739763259,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1102435,
+        "num": 1102435,
+        "word": "光线传媒5分钟巨震40%",
+        "onboard_time": 1739761459,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 762446,
+        "num": 762446,
+        "word": "社保挂靠代缴为何屡禁不止",
+        "onboard_time": 1739764100,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1181679,
+        "num": 761479,
+        "word": "哪吒2冲顶全球动画榜",
+        "onboard_time": 1739759359,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1084452,
+        "num": 759299,
+        "word": "赵丽颖满心满眼都是吒儿",
+        "onboard_time": 1739764160,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 754209,
+        "num": 754209,
+        "word": "腾讯市值暴涨3000亿",
+        "onboard_time": 1739761219,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 661092,
+        "num": 661092,
+        "word": "61岁母亲飞机上猝死女儿发声",
+        "onboard_time": 1739751139,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 646375,
+        "num": 646375,
+        "word": "嘉行创始人被冻结217万股权",
+        "onboard_time": 1739763979,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 631324,
+        "num": 631324,
+        "word": "雪碧 柳智敏",
+        "onboard_time": 1739764880,
+        "rank": 11,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 34687,
+        "num": 592863,
+        "word": "成毅六边形实力具象化",
+        "onboard_time": 1739765001,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 562628,
+        "num": 562628,
+        "word": "哪吒2首波海外影评来了",
+        "onboard_time": 1739764939,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 44682,
+        "num": 521306,
+        "word": "15天掌握AI技术快速变现是智商税吗",
+        "onboard_time": 1739766261,
+        "rank": 14,
+        "category": "民生新闻,议题讨论"
+      },
+      {
+        "raw_hot": 501221,
+        "num": 501221,
+        "word": "2025民营企业座谈会",
+        "onboard_time": 1739765121,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 463359,
+        "num": 463359,
+        "word": "吴敬平删博",
+        "onboard_time": 1739760919,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59553,
+        "num": 454565,
+        "word": "张凌赫吃面把我看馋了",
+        "onboard_time": 1739765361,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344097,
+        "num": 447834,
+        "word": "丈夫回应妻子疑带三月大女儿跳江",
+        "onboard_time": 1739756178,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92960,
+        "num": 434870,
+        "word": "已有超20城优化调整住房公积金",
+        "onboard_time": 1739766561,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 689251,
+        "num": 424254,
+        "word": "女子取出9岁存了24年的压岁钱",
+        "onboard_time": 1739749578,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 420147,
+        "num": 420147,
+        "word": "饺子导演从来不会说不行不对",
+        "onboard_time": 1739757618,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 375112,
+        "num": 375112,
+        "word": "3岁百亿影帝开学了",
+        "onboard_time": 1739766021,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170620,
+        "num": 373833,
+        "word": "180天重启计划开播",
+        "onboard_time": 1739766021,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 373281,
+        "num": 373281,
+        "word": "130多家公司托举哪吒2票房冲击记录",
+        "onboard_time": 1739763620,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 365160,
+        "num": 365160,
+        "word": "难哄cp海报是两种爱情",
+        "onboard_time": 1739761638,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212935,
+        "num": 363081,
+        "word": "陈哲远演技口碑",
+        "onboard_time": 1739765121,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118757,
+        "num": 361659,
+        "word": "月子中心回应宝妈出走后投湖轻生",
+        "onboard_time": 1739765481,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14129,
+        "num": 357398,
+        "word": "美貌的酷拉皮卡",
+        "onboard_time": 1739766381,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 56481,
+        "num": 355572,
+        "word": "进击的巨人白夜",
+        "onboard_time": 1739766441,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 500947,
+        "num": 349805,
+        "word": "韩裔女演员克拉拉cos敖闰",
+        "onboard_time": 1739766322,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349618,
+        "num": 349618,
+        "word": "倪萍硬cue易烊千玺",
+        "onboard_time": 1739765481,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346933,
+        "num": 346933,
+        "word": "李惠利吻戏",
+        "onboard_time": 1739750119,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 332708,
+        "num": 332708,
+        "word": "DeepSeek公司主要人员发生变更",
+        "onboard_time": 1739765361,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 25014,
+        "num": 312969,
+        "word": "跟着贾冰学省钱",
+        "onboard_time": 1739763259,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 300664,
+        "num": 300664,
+        "word": "库里全明星MVP",
+        "onboard_time": 1739765841,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 294231,
+        "num": 294231,
+        "word": "男孩抄作业不还被打断牙后起诉同学",
+        "onboard_time": 1739765179,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273152,
+        "num": 273152,
+        "word": "哪吒2燃爆北美五星评论霸屏",
+        "onboard_time": 1739749157,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 253533,
+        "num": 253533,
+        "word": "邵艺辉说人脉饭局是糊弄年轻人",
+        "onboard_time": 1739766561,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 253258,
+        "num": 253258,
+        "word": "公积金三大调整方向持续助力安居",
+        "onboard_time": 1739720662,
+        "rank": 39,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 239282,
+        "num": 239282,
+        "word": "第五人格 福尔摩斯",
+        "onboard_time": 1739766381,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 223597,
+        "num": 223597,
+        "word": "国际现货黄金价格已上涨63%",
+        "onboard_time": 1739758759,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 214301,
+        "num": 214301,
+        "word": "女子多次楼道烧香倒灰撒冥纸邻居崩溃",
+        "onboard_time": 1739763561,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211902,
+        "num": 211902,
+        "word": "柯淳 费加罗",
+        "onboard_time": 1739756120,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 65615,
+        "num": 210530,
+        "word": "于适写的姬发战前动员演讲",
+        "onboard_time": 1739767160,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209484,
+        "num": 209484,
+        "word": "哪吒",
+        "onboard_time": 1739750058,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 208653,
+        "num": 208653,
+        "word": "刘亦菲羽毛头",
+        "onboard_time": 1739767041,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 202278,
+        "num": 202278,
+        "word": "梁洁这段每个表情都是痛",
+        "onboard_time": 1739764339,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198451,
+        "num": 198451,
+        "word": "奥尼尔队全明星夺冠",
+        "onboard_time": 1739764821,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183476,
+        "num": 183476,
+        "word": "全红婵评论区王楚钦表情包满天飞",
+        "onboard_time": 1739756240,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#切实让特权现象和腐败问题无所遁形#"
+    }
+  }
+}
