@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739763777297,
+  "endTime": 1739766439139,
   "band_list": [
     {
       "raw_hot": 17381826,
@@ -107,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1626818,
+      "num": 1626818,
+      "word": "哪吒2票房120亿了",
+      "onboard_time": 1739762418,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1593537,
       "num": 1593537,
       "word": "咸鱼飞升",
@@ -161,6 +169,14 @@
       "onboard_time": 1739719340,
       "rank": 13,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1380333,
+      "num": 778111,
+      "word": "金赛纶被曝生前重度抑郁",
+      "onboard_time": 1739763259,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 1376190,
@@ -251,28 +267,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1110935,
-      "num": 1110935,
-      "word": "川航回应乘客在航班上昏迷后离世",
-      "onboard_time": 1739714905,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1104088,
-      "num": 1104088,
+      "raw_hot": 1167967,
+      "num": 1167967,
       "word": "光线传媒5分钟巨震40%",
       "onboard_time": 1739761459,
       "rank": 41,
       "category": "财经"
     },
     {
-      "raw_hot": 1059415,
-      "num": 1059415,
-      "word": "哪吒2票房120亿了",
-      "onboard_time": 1739762418,
-      "rank": 3,
-      "category": "电影"
+      "raw_hot": 1116714,
+      "num": 1116714,
+      "word": "67岁大爷爆改龙爹敖光",
+      "onboard_time": 1739763019,
+      "rank": 14,
+      "category": "民生新闻,电影"
+    },
+    {
+      "raw_hot": 1110935,
+      "num": 1110935,
+      "word": "川航回应乘客在航班上昏迷后离世",
+      "onboard_time": 1739714905,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1051486,
@@ -304,6 +320,14 @@
       "word": "哪吒2燃爆北美五星评论霸屏",
       "onboard_time": 1739749157,
       "rank": 3,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 931719,
+      "num": 712528,
+      "word": "赵丽颖满心满眼都是吒儿",
+      "onboard_time": 1739764160,
+      "rank": 10,
       "category": "电影"
     },
     {
@@ -435,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 783934,
+      "num": 783934,
+      "word": "腾讯市值暴涨3000亿",
+      "onboard_time": 1739761219,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 783120,
       "num": 363156,
       "word": "女子取出9岁存了24年的压岁钱",
@@ -537,6 +569,14 @@
       "onboard_time": 1739684239,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 668291,
+      "num": 668291,
+      "word": "嘉行创始人被冻结217万股权",
+      "onboard_time": 1739763979,
+      "rank": 12,
+      "category": "财经"
     },
     {
       "raw_hot": 661734,
@@ -691,14 +731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 553501,
-      "num": 553501,
-      "word": "腾讯市值暴涨3000亿",
-      "onboard_time": 1739761219,
-      "rank": 32,
-      "category": "财经"
-    },
-    {
       "raw_hot": 549312,
       "num": 549312,
       "word": "美国务院网站删去不支持台独表述",
@@ -785,6 +817,14 @@
       "onboard_time": 1739703140,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 499995,
+      "num": 758184,
+      "word": "2025民营企业座谈会",
+      "onboard_time": 1739765121,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 497969,
@@ -1083,6 +1123,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 398766,
+      "num": 297009,
+      "word": "雪碧 柳智敏",
+      "onboard_time": 1739764880,
+      "rank": 23,
+      "category": "艺人,美食"
+    },
+    {
+      "raw_hot": 393678,
+      "num": 393678,
+      "word": "社保挂靠代缴为何屡禁不止",
+      "onboard_time": 1739764100,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 393396,
       "num": 393396,
       "word": "仙逆",
@@ -1251,6 +1307,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 330591,
+      "num": 330591,
+      "word": "哪吒2首波海外影评来了",
+      "onboard_time": 1739764939,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 329617,
       "num": 295954,
       "word": "申小豹演员配音时才11岁",
@@ -1283,6 +1347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 317753,
+      "num": 289684,
+      "word": "倪萍硬cue易烊千玺",
+      "onboard_time": 1739765481,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 317600,
       "num": 247332,
       "word": "李现拍的白敬亭吴磊",
@@ -1304,6 +1376,14 @@
       "word": "你的吒儿埋了多少文物梗",
       "onboard_time": 1739671339,
       "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 310434,
+      "num": 287503,
+      "word": "3岁百亿影帝开学了",
+      "onboard_time": 1739766021,
+      "rank": 33,
       "category": "电影"
     },
     {
@@ -1403,6 +1483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 286837,
+      "num": 286837,
+      "word": "光线传媒从涨停到逼近跌停",
+      "onboard_time": 1739764460,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 284384,
       "num": 284384,
       "word": "权志龙看眼泪女王看哭了",
@@ -1425,6 +1513,14 @@
       "onboard_time": 1739720540,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 284094,
+      "num": 284094,
+      "word": "DeepSeek公司主要人员发生变更",
+      "onboard_time": 1739765361,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 278070,
@@ -1499,6 +1595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 258985,
+      "num": 258985,
+      "word": "梁洁这段每个表情都是痛",
+      "onboard_time": 1739764339,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258228,
       "num": 200006,
       "word": "于正说刘些宁必火",
@@ -1571,6 +1675,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 250892,
+      "num": 288704,
+      "word": "赵丽颖短发live图",
+      "onboard_time": 1739764880,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249853,
       "num": 442178,
       "word": "申小豹一口辣条音可爱爆了",
@@ -1619,12 +1731,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 239074,
-      "num": 239074,
-      "word": "金赛纶被曝生前重度抑郁",
-      "onboard_time": 1739763259,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 239523,
+      "num": 239523,
+      "word": "奥尼尔队全明星夺冠",
+      "onboard_time": 1739764821,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 238217,
@@ -1851,12 +1963,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205464,
+      "num": 205464,
+      "word": "女子多次楼道烧香倒灰撒冥纸邻居崩溃",
+      "onboard_time": 1739763561,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205218,
       "num": 205218,
       "word": "檀健次和拖把的吻戏",
       "onboard_time": 1739690237,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204362,
+      "num": 204362,
+      "word": "男孩抄作业不还被打断牙后起诉同学",
+      "onboard_time": 1739765179,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 204028,
@@ -1979,6 +2107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 196864,
+      "num": 729842,
+      "word": "库里全明星MVP",
+      "onboard_time": 1739765841,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196841,
       "num": 196841,
       "word": "种地吧直播",
@@ -1993,14 +2129,6 @@
       "onboard_time": 1739694257,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195519,
-      "num": 454535,
-      "word": "67岁大爷爆改龙爹敖光",
-      "onboard_time": 1739763019,
-      "rank": 14,
-      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 194755,
@@ -2243,14 +2371,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 179652,
-      "num": 179652,
-      "word": "女子多次楼道烧香倒灰撒冥纸邻居崩溃",
-      "onboard_time": 1739763561,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 179425,
       "num": 179425,
       "word": "韩剧善意的竞争",
@@ -2281,6 +2401,14 @@
       "onboard_time": 1739700258,
       "rank": 36,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 176707,
+      "num": 740820,
+      "word": "130多家公司托举哪吒2票房冲击记录",
+      "onboard_time": 1739763620,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 174771,
@@ -2355,6 +2483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 170612,
+      "num": 235966,
+      "word": "陈哲远演技口碑",
+      "onboard_time": 1739765121,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170437,
       "num": 170437,
       "word": "KPL",
@@ -2419,6 +2555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162819,
+      "num": 162819,
+      "word": "七旬阿婆网恋战地医生被骗111万",
+      "onboard_time": 1739765242,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162331,
       "num": 152491,
       "word": "权志龙综艺",
@@ -2441,6 +2585,14 @@
       "onboard_time": 1739716344,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161473,
+      "num": 161473,
+      "word": "第五人格 福尔摩斯",
+      "onboard_time": 1739766381,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 157712,
@@ -2539,6 +2691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152193,
+      "num": 296147,
+      "word": "奥委会发布樊振东反手打球集锦",
+      "onboard_time": 1739764640,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151935,
       "num": 194263,
       "word": "李泽言孤掷者胜",
@@ -2552,6 +2712,14 @@
       "word": "雨水节气将至建议省酸增甘饮食",
       "onboard_time": 1739688377,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150206,
+      "num": 1118001,
+      "word": "多地以旧换新多重buff拉满",
+      "onboard_time": 1739761638,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -2755,14 +2923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 136475,
-      "num": 1062241,
-      "word": "多地以旧换新多重buff拉满",
-      "onboard_time": 1739761638,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135860,
       "num": 135860,
       "word": "崔然竣获奖感言",
@@ -2873,6 +3033,14 @@
       "onboard_time": 1739715924,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 129201,
+      "num": 315328,
+      "word": "180天重启计划开播",
+      "onboard_time": 1739766021,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 128521,
@@ -3323,6 +3491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98602,
+      "num": 574305,
+      "word": "成毅六边形实力具象化",
+      "onboard_time": 1739765001,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 98225,
       "num": 141314,
       "word": "套中玛莎拉蒂男子称有一年使用权",
@@ -3385,6 +3561,14 @@
       "onboard_time": 1739673618,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 91243,
+      "num": 293014,
+      "word": "月子中心回应宝妈出走后投湖轻生",
+      "onboard_time": 1739765481,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91181,
@@ -3612,7 +3796,7 @@
     },
     {
       "raw_hot": 58616,
-      "num": 140037,
+      "num": 292246,
       "word": "跟着贾冰学省钱",
       "onboard_time": 1739763259,
       "rank": 37,
@@ -3632,6 +3816,14 @@
       "word": "吴敬平曾被外媒评为金牌教练",
       "onboard_time": 1739694558,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 56861,
+      "num": 161811,
+      "word": "格林给全明星新赛制打0分",
+      "onboard_time": 1739765001,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -3713,6 +3905,14 @@
       "onboard_time": 1739672060,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 40262,
+      "num": 291390,
+      "word": "张凌赫吃面把我看馋了",
+      "onboard_time": 1739765361,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 38792,
@@ -3931,6 +4131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 18143,
+      "num": 290532,
+      "word": "15天掌握AI技术快速变现是智商税吗",
+      "onboard_time": 1739766261,
+      "rank": 30,
+      "category": "民生新闻,议题讨论"
+    },
+    {
       "raw_hot": 17234,
       "num": 26903,
       "word": "CBA俱乐部杯",
@@ -3953,6 +4161,14 @@
       "onboard_time": 1739728752,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 14594,
+      "num": 234657,
+      "word": "美貌的酷拉皮卡",
+      "onboard_time": 1739766381,
+      "rank": 40,
+      "category": "动漫"
     },
     {
       "raw_hot": 13760,
