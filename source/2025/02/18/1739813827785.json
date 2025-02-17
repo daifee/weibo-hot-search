@@ -1,0 +1,410 @@
+{
+  "runTime": 1739813827785,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 546350,
+        "num": 546350,
+        "word": "红房子",
+        "onboard_time": 1739802081,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247268,
+        "num": 247268,
+        "word": "小行星或撞地球是虚惊还是严重威胁",
+        "onboard_time": 1739804721,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7642,
+        "num": 238055,
+        "word": "中国式现代化的万千气象海南行",
+        "onboard_time": 1739782103,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 230513,
+        "num": 230513,
+        "word": "哪吒2进入全球影史票房前9",
+        "onboard_time": 1739796981,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129406,
+        "num": 129406,
+        "word": "不喜欢求助他人可能是缺爱",
+        "onboard_time": 1739800520,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116975,
+        "num": 116975,
+        "word": "当事人回应高速旁停车抽打教育小孩",
+        "onboard_time": 1739807599,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166865,
+        "num": 116857,
+        "word": "余承恩你还要亲成什么样",
+        "onboard_time": 1739800341,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136921,
+        "num": 116735,
+        "word": "psy因过度减肥向粉丝道歉",
+        "onboard_time": 1739800880,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70389,
+        "num": 116296,
+        "word": "孙颖莎王楚钦等亚洲杯训练画面",
+        "onboard_time": 1739807959,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52047,
+        "num": 116241,
+        "word": "小米YU7续航信息曝光",
+        "onboard_time": 1739798899,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 376415,
+        "num": 116029,
+        "word": "网红顾茜茜自曝日收入超30万",
+        "onboard_time": 1739801602,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 180251,
+        "num": 115731,
+        "word": "曝韦雪今年直播收入已超9亿",
+        "onboard_time": 1739790381,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 175804,
+        "num": 115409,
+        "word": "女子多次试管怀孕乘网约车车祸流产",
+        "onboard_time": 1739801541,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131727,
+        "num": 115175,
+        "word": "周扬青回应网曝新恋情",
+        "onboard_time": 1739801841,
+        "rank": 13,
+        "category": "时尚,网红"
+      },
+      {
+        "raw_hot": 115132,
+        "num": 115132,
+        "word": "建议饺子导演学学宫崎骏",
+        "onboard_time": 1739795960,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95690,
+        "num": 95690,
+        "word": "文淇 大大方方的",
+        "onboard_time": 1739795119,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 93352,
+        "num": 93352,
+        "word": "官方回应93岁强奸犯进行社区矫正",
+        "onboard_time": 1739801242,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86530,
+        "num": 86530,
+        "word": "刘亦菲说女性别再给自己上枷锁",
+        "onboard_time": 1739802802,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47331,
+        "num": 70058,
+        "word": "医生你的手术刀是裂空爪啊",
+        "onboard_time": 1739790381,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46787,
+        "num": 68329,
+        "word": "听潮阁",
+        "onboard_time": 1739813053,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 120757,
+        "num": 68030,
+        "word": "金赛纶负债高达7亿韩元",
+        "onboard_time": 1739793739,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67402,
+        "num": 67402,
+        "word": "刘浩存文淇柏林互动好甜",
+        "onboard_time": 1739806161,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 65221,
+        "num": 65221,
+        "word": "缺爱的人很难进入一段亲密关系",
+        "onboard_time": 1739806820,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 64282,
+        "num": 64282,
+        "word": "蒋欣评论区回应为何不结婚",
+        "onboard_time": 1739785100,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58261,
+        "num": 58261,
+        "word": "张嘉元直播爆料演员3未播片段",
+        "onboard_time": 1739803582,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52509,
+        "num": 52509,
+        "word": "哪吒2成功是长期主义者的胜利",
+        "onboard_time": 1739808797,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 44276,
+        "num": 44276,
+        "word": "深圳70名AI数智员工上岗",
+        "onboard_time": 1739812394,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38680,
+        "num": 44079,
+        "word": "上海成为中国首个GDP5万亿之城",
+        "onboard_time": 1739796082,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54620,
+        "num": 43632,
+        "word": "商家用女童跪撩上衣姿势展示童装",
+        "onboard_time": 1739797161,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11368,
+        "num": 43486,
+        "word": "律师称乘客猝死航司无需担责",
+        "onboard_time": 1739813593,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97006,
+        "num": 42889,
+        "word": "6万买饺子导演高仿号当事人发声",
+        "onboard_time": 1739810358,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47508,
+        "num": 42855,
+        "word": "66岁单身大妈去养生局感染HPV",
+        "onboard_time": 1739800281,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42519,
+        "num": 42519,
+        "word": "女生被催婚催烦一口气把长发剪了",
+        "onboard_time": 1739803582,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39641,
+        "num": 39641,
+        "word": "土象星座最伤人的一点",
+        "onboard_time": 1739794938,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 38938,
+        "num": 38938,
+        "word": "脂肪肝少吃主食还是少吃肉",
+        "onboard_time": 1739802501,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 38618,
+        "num": 38618,
+        "word": "你被北大录取后的大学生活",
+        "onboard_time": 1739797520,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 36893,
+        "num": 36893,
+        "word": "难哄激起了我暴烈的胜负欲",
+        "onboard_time": 1739799080,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36532,
+        "num": 36532,
+        "word": "杨洋展昭杀青请客",
+        "onboard_time": 1739808378,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34914,
+        "num": 34914,
+        "word": "300斤孕妈背部脂肪8cm高危产子",
+        "onboard_time": 1739797761,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34218,
+        "num": 34218,
+        "word": "哪吒2发破120亿海报",
+        "onboard_time": 1739797400,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 33713,
+        "num": 33713,
+        "word": "哪吒2香港口碑",
+        "onboard_time": 1739805021,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 33402,
+        "num": 33402,
+        "word": "患癌公公给儿媳红包里塞催生纸条",
+        "onboard_time": 1739786780,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32916,
+        "num": 32916,
+        "word": "董思成北京环球影城被偶遇",
+        "onboard_time": 1739806939,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32250,
+        "num": 32250,
+        "word": "片方回应饺子导演被假冒带货",
+        "onboard_time": 1739794220,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32028,
+        "num": 32028,
+        "word": "美国11个州超53万用户断电",
+        "onboard_time": 1739806280,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31848,
+        "num": 31848,
+        "word": "仙台有树青龙特效",
+        "onboard_time": 1739805860,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31755,
+        "num": 31755,
+        "word": "香港人为什么这么喜欢雇菲佣",
+        "onboard_time": 1739791820,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31312,
+        "num": 31312,
+        "word": "杭州路上开始积雪了",
+        "onboard_time": 1739802443,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30571,
+        "num": 30571,
+        "word": "中国已开始部署防御小行星撞击地球",
+        "onboard_time": 1739777421,
+        "rank": 48,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 30516,
+        "num": 30516,
+        "word": "我国流感流行强度总体下降",
+        "onboard_time": 1739811195,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#视频看民营企业座谈会现场#"
+    }
+  }
+}
