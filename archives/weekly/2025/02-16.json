@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739785120209,
+  "endTime": 1739787944230,
   "band_list": [
     {
       "raw_hot": 17381826,
@@ -115,6 +115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1772414,
+      "num": 529138,
+      "word": "93岁男子强奸被判15年为何能监外执行",
+      "onboard_time": 1739784799,
+      "rank": 11,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1667596,
       "num": 1667596,
       "word": "王皓马琳点赞尹肖",
@@ -209,6 +217,14 @@
       "onboard_time": 1739713824,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1368950,
+      "num": 292420,
+      "word": "蒋欣评论区回应为何不结婚",
+      "onboard_time": 1739785100,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1342711,
@@ -393,6 +409,14 @@
       "onboard_time": 1739623760,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 947527,
+      "num": 947527,
+      "word": "邹家华逝世",
+      "onboard_time": 1739785100,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 936543,
@@ -668,7 +692,7 @@
     },
     {
       "raw_hot": 684013,
-      "num": 398260,
+      "num": 532979,
       "word": "元斌在金赛纶灵堂擦眼泪",
       "onboard_time": 1739782882,
       "rank": 6,
@@ -1011,6 +1035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 513052,
+      "num": 513052,
+      "word": "第一批用DeepSeek赶作业的小学生出现了",
+      "onboard_time": 1739783482,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 502190,
       "num": 649558,
       "word": "国际现货黄金价格已上涨63%",
@@ -1161,6 +1193,14 @@
       "onboard_time": 1739712265,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 452788,
+      "num": 208902,
+      "word": "患癌公公给儿媳红包里塞催生纸条",
+      "onboard_time": 1739786780,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 451705,
@@ -1587,14 +1627,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 334979,
-      "num": 249622,
-      "word": "蒋欣评论区回应为何不结婚",
-      "onboard_time": 1739785100,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 332708,
       "num": 332708,
       "word": "DeepSeek公司主要人员发生变更",
@@ -1827,20 +1859,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 281017,
-      "num": 281017,
-      "word": "第一批用DeepSeek赶作业的小学生出现了",
-      "onboard_time": 1739783482,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 278898,
       "num": 278898,
       "word": "马龙现身小学开学第一课",
       "onboard_time": 1739768242,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 278319,
+      "num": 292421,
+      "word": "四川一医院窗口工作人员上班玩游戏",
+      "onboard_time": 1739784799,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 278070,
@@ -1907,6 +1939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 263815,
+      "num": 263815,
+      "word": "乘风2025",
+      "onboard_time": 1739784981,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262758,
       "num": 262758,
       "word": "克拉岛",
@@ -1929,6 +1969,14 @@
       "onboard_time": 1739680099,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 261178,
+      "num": 261178,
+      "word": "魏晨擦防晒只用擦额头",
+      "onboard_time": 1739786060,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 259192,
@@ -2033,14 +2081,6 @@
       "onboard_time": 1739769981,
       "rank": 31,
       "category": "民生新闻,电影"
-    },
-    {
-      "raw_hot": 252167,
-      "num": 252167,
-      "word": "93岁男子强奸被判15年为何能监外执行",
-      "onboard_time": 1739784799,
-      "rank": 11,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 252095,
@@ -2177,6 +2217,14 @@
       "onboard_time": 1739781140,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 235273,
+      "num": 186389,
+      "word": "哪吒第一天回校放学啦",
+      "onboard_time": 1739786959,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 235018,
@@ -2475,6 +2523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207040,
+      "num": 207040,
+      "word": "谢娜谁聚会想要听课啊",
+      "onboard_time": 1739785522,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205218,
       "num": 205218,
       "word": "檀健次和拖把的吻戏",
@@ -2513,6 +2569,14 @@
       "onboard_time": 1739685678,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200681,
+      "num": 200681,
+      "word": "这俩人亲嘴晚上得失眠吧",
+      "onboard_time": 1739787440,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 200215,
@@ -2665,6 +2729,14 @@
       "onboard_time": 1739676619,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193811,
+      "num": 193811,
+      "word": "饺树人",
+      "onboard_time": 1739786181,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 193689,
@@ -2891,6 +2963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181225,
+      "num": 181225,
+      "word": "树下有片红房子",
+      "onboard_time": 1739785341,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180426,
       "num": 161827,
       "word": "终于理解陈哲远为什么很难走出来了",
@@ -2961,6 +3041,14 @@
       "onboard_time": 1739700258,
       "rank": 36,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 176208,
+      "num": 176208,
+      "word": "欧阳震华口误",
+      "onboard_time": 1739787621,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 175216,
@@ -3235,12 +3323,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 160882,
-      "num": 160882,
-      "word": "乘风2025",
-      "onboard_time": 1739784981,
+      "raw_hot": 160557,
+      "num": 160557,
+      "word": "宋雨琦姚明合照",
+      "onboard_time": 1739786480,
       "rank": 37,
-      "category": "综艺"
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 157712,
@@ -3427,6 +3515,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 148610,
+      "num": 186489,
+      "word": "花海春季赛定妆照",
+      "onboard_time": 1739786720,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 147220,
       "num": 147220,
       "word": "干物妹小埋参考了妹妹",
@@ -3563,6 +3659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141289,
+      "num": 141289,
+      "word": "原神",
+      "onboard_time": 1739787919,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 141044,
       "num": 141044,
       "word": "41岁媒体人吴玉燕因流感离世",
@@ -3659,14 +3763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 136182,
-      "num": 136182,
-      "word": "邹家华逝世",
-      "onboard_time": 1739785100,
-      "rank": 45,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 135860,
       "num": 135860,
       "word": "崔然竣获奖感言",
@@ -3681,6 +3777,14 @@
       "onboard_time": 1739690717,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133688,
+      "num": 133688,
+      "word": "韩国警方认为金赛纶是自杀",
+      "onboard_time": 1739786362,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 132765,
@@ -3979,6 +4083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119196,
+      "num": 211354,
+      "word": "敖瑞鹏1月微博演员全站涨粉最高",
+      "onboard_time": 1739786299,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119082,
       "num": 119082,
       "word": "地铁上的返校大学生",
@@ -4235,6 +4347,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 104364,
+      "num": 830921,
+      "word": "开学第1周",
+      "onboard_time": 1739783241,
+      "rank": 2,
+      "category": "教育"
+    },
+    {
       "raw_hot": 104210,
       "num": 104210,
       "word": "警方通报无名尸体确认为命案逃犯",
@@ -4331,6 +4451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96708,
+      "num": 212512,
+      "word": "老人强奸被判15年为何能监外执行",
+      "onboard_time": 1739787260,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96033,
       "num": 196326,
       "word": "李书福建议初中阶段开始因材施教",
@@ -4369,14 +4497,6 @@
       "onboard_time": 1739721140,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 94471,
-      "num": 830921,
-      "word": "开学第1周",
-      "onboard_time": 1739783241,
-      "rank": 2,
-      "category": "教育"
     },
     {
       "raw_hot": 94418,
@@ -4544,6 +4664,14 @@
       "word": "奥尼尔队晋级决赛",
       "onboard_time": 1739763019,
       "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 75775,
+      "num": 143135,
+      "word": "马龙用铁尺颠球",
+      "onboard_time": 1739787919,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -4945,6 +5073,14 @@
       "onboard_time": 1739724076,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32455,
+      "num": 187554,
+      "word": "DeepSeek付费课真有料还是割韭菜",
+      "onboard_time": 1739786600,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 32345,

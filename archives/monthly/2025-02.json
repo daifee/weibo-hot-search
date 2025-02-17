@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739785120209,
+  "endTime": 1739787944230,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1499,6 +1499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1772414,
+      "num": 529138,
+      "word": "93岁男子强奸被判15年为何能监外执行",
+      "onboard_time": 1739784799,
+      "rank": 11,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1752922,
       "num": 1752922,
       "word": "哪吒2已破110亿",
@@ -2337,6 +2345,14 @@
       "onboard_time": 1739713824,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1368950,
+      "num": 292420,
+      "word": "蒋欣评论区回应为何不结婚",
+      "onboard_time": 1739785100,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1362719,
@@ -4209,6 +4225,14 @@
       "onboard_time": 1739605459,
       "rank": 4,
       "category": "电竞,游戏"
+    },
+    {
+      "raw_hot": 947527,
+      "num": 947527,
+      "word": "邹家华逝世",
+      "onboard_time": 1739785100,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 944656,
@@ -6324,7 +6348,7 @@
     },
     {
       "raw_hot": 684013,
-      "num": 398260,
+      "num": 532979,
       "word": "元斌在金赛纶灵堂擦眼泪",
       "onboard_time": 1739782882,
       "rank": 6,
@@ -9251,6 +9275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 513052,
+      "num": 513052,
+      "word": "第一批用DeepSeek赶作业的小学生出现了",
+      "onboard_time": 1739783482,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 512771,
       "num": 512771,
       "word": "幼师作品获奖却被未参与同事挤掉署名",
@@ -10649,6 +10681,14 @@
       "onboard_time": 1738770206,
       "rank": 5,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 452788,
+      "num": 208902,
+      "word": "患癌公公给儿媳红包里塞催生纸条",
+      "onboard_time": 1739786780,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 452373,
@@ -13995,14 +14035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 334979,
-      "num": 249622,
-      "word": "蒋欣评论区回应为何不结婚",
-      "onboard_time": 1739785100,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 334972,
       "num": 334972,
       "word": "腾讯视频二月大剧片单",
@@ -16491,14 +16523,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 281017,
-      "num": 281017,
-      "word": "第一批用DeepSeek赶作业的小学生出现了",
-      "onboard_time": 1739783482,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 280917,
       "num": 280917,
       "word": "电影独一无二演员阵容",
@@ -16641,6 +16665,14 @@
       "onboard_time": 1739001091,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 278319,
+      "num": 292421,
+      "word": "四川一医院窗口工作人员上班玩游戏",
+      "onboard_time": 1739784799,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 278104,
@@ -17403,6 +17435,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 263815,
+      "num": 263815,
+      "word": "乘风2025",
+      "onboard_time": 1739784981,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263712,
       "num": 427680,
       "word": "最高检披露油罐车运输食用油案进展",
@@ -17569,6 +17609,14 @@
       "onboard_time": 1739364141,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 261178,
+      "num": 261178,
+      "word": "魏晨擦防晒只用擦额头",
+      "onboard_time": 1739786060,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 260928,
@@ -18209,14 +18257,6 @@
       "onboard_time": 1739342120,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 252167,
-      "num": 252167,
-      "word": "93岁男子强奸被判15年为何能监外执行",
-      "onboard_time": 1739784799,
-      "rank": 11,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 252159,
@@ -19456,6 +19496,14 @@
       "word": "哪吒之魔童闹海影史春节档票房冠军",
       "onboard_time": 1738566268,
       "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 235273,
+      "num": 186389,
+      "word": "哪吒第一天回校放学啦",
+      "onboard_time": 1739786959,
+      "rank": 31,
       "category": "电影"
     },
     {
@@ -22691,6 +22739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207040,
+      "num": 207040,
+      "word": "谢娜谁聚会想要听课啊",
+      "onboard_time": 1739785522,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206892,
       "num": 201650,
       "word": "五福临门全是男妲己",
@@ -23721,6 +23777,14 @@
       "onboard_time": 1739488576,
       "rank": 13,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 200681,
+      "num": 200681,
+      "word": "这俩人亲嘴晚上得失眠吧",
+      "onboard_time": 1739787440,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 200650,
@@ -25057,6 +25121,14 @@
       "onboard_time": 1739006364,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193811,
+      "num": 193811,
+      "word": "饺树人",
+      "onboard_time": 1739786181,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 193706,
@@ -27387,6 +27459,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 181225,
+      "num": 181225,
+      "word": "树下有片红房子",
+      "onboard_time": 1739617100,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181144,
       "num": 181144,
       "word": "敖瑞鹏师兄太稳健杀青应援",
@@ -28097,6 +28177,14 @@
       "onboard_time": 1739629760,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176208,
+      "num": 176208,
+      "word": "欧阳震华口误",
+      "onboard_time": 1739787621,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 176126,
@@ -29635,14 +29723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 167110,
-      "num": 167110,
-      "word": "树下有片红房子",
-      "onboard_time": 1739617100,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 167072,
       "num": 167072,
       "word": "饺子谈哪吒2为什么能火",
@@ -30851,14 +30931,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 160882,
-      "num": 160882,
-      "word": "乘风2025",
-      "onboard_time": 1739784981,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 160760,
       "num": 160760,
       "word": "英语好是大学生最大的刻板印象",
@@ -30881,6 +30953,14 @@
       "onboard_time": 1738461798,
       "rank": 43,
       "category": "军事"
+    },
+    {
+      "raw_hot": 160557,
+      "num": 160557,
+      "word": "宋雨琦姚明合照",
+      "onboard_time": 1739786480,
+      "rank": 37,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 160488,
@@ -33009,6 +33089,14 @@
       "onboard_time": 1739025262,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148610,
+      "num": 186489,
+      "word": "花海春季赛定妆照",
+      "onboard_time": 1739786720,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 148561,
@@ -35251,14 +35339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 136182,
-      "num": 136182,
-      "word": "邹家华逝世",
-      "onboard_time": 1739785100,
-      "rank": 45,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 136178,
       "num": 136178,
       "word": "前冬奥冠军说韩国短道素质太次了",
@@ -35681,6 +35761,14 @@
       "onboard_time": 1739088080,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133688,
+      "num": 133688,
+      "word": "韩国警方认为金赛纶是自杀",
+      "onboard_time": 1739786362,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 133588,
@@ -38179,6 +38267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119196,
+      "num": 211354,
+      "word": "敖瑞鹏1月微博演员全站涨粉最高",
+      "onboard_time": 1739786299,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119157,
       "num": 119157,
       "word": "朱雨玲3比0杜凯琹",
@@ -40459,6 +40555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104364,
+      "num": 830921,
+      "word": "开学第1周",
+      "onboard_time": 1739783241,
+      "rank": 2,
+      "category": "教育"
+    },
+    {
       "raw_hot": 104334,
       "num": 270574,
       "word": "勇士当了回湖人侠",
@@ -41539,6 +41643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96708,
+      "num": 212512,
+      "word": "老人强奸被判15年为何能监外执行",
+      "onboard_time": 1739787260,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96698,
       "num": 96698,
       "word": "谁家年代剧比偶像剧还好嗑",
@@ -41793,14 +41905,6 @@
       "onboard_time": 1738772660,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 94471,
-      "num": 830921,
-      "word": "开学第1周",
-      "onboard_time": 1739783241,
-      "rank": 2,
-      "category": "教育"
     },
     {
       "raw_hot": 94441,
@@ -43681,6 +43785,14 @@
       "onboard_time": 1739544142,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75775,
+      "num": 143135,
+      "word": "马龙用铁尺颠球",
+      "onboard_time": 1739787919,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 75718,
@@ -48905,6 +49017,14 @@
       "onboard_time": 1738848145,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32455,
+      "num": 187554,
+      "word": "DeepSeek付费课真有料还是割韭菜",
+      "onboard_time": 1739786600,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 32438,
