@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739817006824,
+  "endTime": 1739817778360,
   "band_list": [
     {
       "raw_hot": 17381826,
@@ -5323,6 +5323,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 95869,
+      "num": 95869,
+      "word": "乌方不承认美俄谈判达成协议",
+      "onboard_time": 1739815334,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 95818,
       "num": 95818,
       "word": "复刻吒儿名场面没有最好只有更好",
@@ -5385,14 +5393,6 @@
       "onboard_time": 1739743760,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 93246,
-      "num": 93246,
-      "word": "乌方不承认美俄谈判达成协议",
-      "onboard_time": 1739815334,
-      "rank": 5,
-      "category": "国际时政"
     },
     {
       "raw_hot": 92960,
@@ -6059,20 +6059,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 37316,
+      "num": 37316,
+      "word": "甜茶凯莉十指相扣",
+      "onboard_time": 1739814913,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36571,
       "num": 93412,
       "word": "超43万条春节档电影侵权链接被查处",
       "onboard_time": 1739724736,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36084,
-      "num": 36084,
-      "word": "甜茶凯莉十指相扣",
-      "onboard_time": 1739814913,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 35798,
@@ -6251,6 +6251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24018,
+      "num": 24018,
+      "word": "树下有片红房子性价比",
+      "onboard_time": 1739817731,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 23912,
       "num": 23912,
       "word": "王天辰古子成GLASS",
@@ -6291,6 +6299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 21778,
+      "num": 50338,
+      "word": "武汉辅警韩靖回应抱娃狂奔500米送医",
+      "onboard_time": 1739815334,
+      "rank": 20,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 21497,
       "num": 82557,
       "word": "2025亚洲羽毛球混合团体锦标赛",
@@ -6321,14 +6337,6 @@
       "onboard_time": 1739813593,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20626,
-      "num": 50338,
-      "word": "武汉辅警韩靖回应抱娃狂奔500米送医",
-      "onboard_time": 1739815334,
-      "rank": 20,
-      "category": "正能量"
     },
     {
       "raw_hot": 20277,
@@ -6473,6 +6481,14 @@
       "onboard_time": 1739700858,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 9712,
+      "num": 77846,
+      "word": "110秒回顾陪我们成长的中国动画",
+      "onboard_time": 1739817192,
+      "rank": 9,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 9258,
