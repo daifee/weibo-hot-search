@@ -1,6 +1,6 @@
 {
   "startTime": 1739723108252,
-  "endTime": 1739781023091,
+  "endTime": 1739781795031,
   "band_list": [
     {
       "raw_hot": 9177808,
@@ -147,6 +147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1068558,
+      "num": 1068558,
+      "word": "中国已开始部署防御小行星撞击地球",
+      "onboard_time": 1739777421,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1010385,
       "num": 625184,
       "word": "金赛纶死亡现场没有遗书",
@@ -155,11 +163,11 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 981258,
-      "num": 981258,
-      "word": "中国已开始部署防御小行星撞击地球",
-      "onboard_time": 1739777421,
-      "rank": 34,
+      "raw_hot": 985547,
+      "num": 341824,
+      "word": "女儿分手妈妈谎称丈夫病亡拒还款",
+      "onboard_time": 1739777362,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -243,14 +251,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 730150,
-      "num": 341824,
-      "word": "女儿分手妈妈谎称丈夫病亡拒还款",
-      "onboard_time": 1739777362,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 718456,
       "num": 758184,
       "word": "2025民营企业座谈会",
@@ -273,6 +273,14 @@
       "onboard_time": 1739773519,
       "rank": 19,
       "category": "民生新闻,体育"
+    },
+    {
+      "raw_hot": 699235,
+      "num": 639455,
+      "word": "沈梦辰杜海涛庆祝结婚3周年",
+      "onboard_time": 1739778741,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 697868,
@@ -305,14 +313,6 @@
       "onboard_time": 1739711243,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 639455,
-      "num": 639455,
-      "word": "沈梦辰杜海涛庆祝结婚3周年",
-      "onboard_time": 1739778741,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 631324,
@@ -667,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 315131,
+      "num": 350718,
+      "word": "光线传媒一季度已接近前2年营收",
+      "onboard_time": 1739780242,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 314504,
       "num": 274245,
       "word": "kiiikiii",
@@ -752,6 +760,14 @@
       "word": "外交部发布未来已来高燃视频",
       "onboard_time": 1739716104,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 269074,
+      "num": 269074,
+      "word": "常州市委书记陈金虎任上被查",
+      "onboard_time": 1739781021,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -859,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247906,
+      "num": 201402,
+      "word": "六姊妹 嫁给对的人是什么感觉",
+      "onboard_time": 1739780121,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246594,
       "num": 246594,
       "word": "乘客航班上猝死航司责任如何界定",
@@ -897,6 +921,14 @@
       "onboard_time": 1739719461,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 237690,
+      "num": 237690,
+      "word": "刘诗诗演出了内外都是伤的疼",
+      "onboard_time": 1739781140,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 233397,
@@ -1019,6 +1051,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 204666,
+      "num": 260063,
+      "word": "未成年人拍举牌视频属于性剥削",
+      "onboard_time": 1739778801,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202816,
       "num": 202816,
       "word": "杨紫李祯盘发路透",
@@ -1075,6 +1115,14 @@
       "category": "体育,电影"
     },
     {
+      "raw_hot": 193910,
+      "num": 193910,
+      "word": "fayeyoko",
+      "onboard_time": 1739781021,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192125,
       "num": 192125,
       "word": "仙台有树扫楼",
@@ -1089,14 +1137,6 @@
       "onboard_time": 1739754440,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 191369,
-      "num": 191369,
-      "word": "六姊妹 嫁给对的人是什么感觉",
-      "onboard_time": 1739780121,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 190140,
@@ -1179,14 +1219,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 173845,
-      "num": 260063,
-      "word": "未成年人拍举牌视频属于性剥削",
-      "onboard_time": 1739778801,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 173462,
       "num": 201251,
       "word": "公务员考试",
@@ -1211,12 +1243,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 169813,
-      "num": 350718,
-      "word": "光线传媒一季度已接近前2年营收",
-      "onboard_time": 1739780242,
-      "rank": 9,
-      "category": "电影"
+      "raw_hot": 169599,
+      "num": 169599,
+      "word": "火车站现专盯大学生的假表抵押骗局",
+      "onboard_time": 1739778680,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168563,
@@ -1244,7 +1276,7 @@
     },
     {
       "raw_hot": 164349,
-      "num": 164349,
+      "num": 204510,
       "word": "谷嘉诚与女生牵手同游丽江",
       "onboard_time": 1739775019,
       "rank": 45,
@@ -1307,6 +1339,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 161242,
+      "num": 161242,
+      "word": "孙怡戚夏持续性生长痛",
+      "onboard_time": 1739781321,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159611,
       "num": 152475,
       "word": "让摄影师都害怕的艺人出现了",
@@ -1329,6 +1369,14 @@
       "onboard_time": 1739770700,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157092,
+      "num": 157092,
+      "word": "女子去世无继承人房产收归国家",
+      "onboard_time": 1739780421,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156590,
@@ -1369,6 +1417,14 @@
       "onboard_time": 1739764640,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151573,
+      "num": 203537,
+      "word": "妙瓦底电诈园区被三个国家联合打击",
+      "onboard_time": 1739781442,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 151570,
@@ -1499,12 +1555,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 138269,
-      "num": 138269,
-      "word": "火车站现专盯大学生的假表抵押骗局",
-      "onboard_time": 1739778680,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 137905,
+      "num": 137905,
+      "word": "吒儿丙丙120亿reaction",
+      "onboard_time": 1739780721,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 137782,
@@ -1563,14 +1619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 125031,
-      "num": 125031,
-      "word": "吒儿丙丙120亿reaction",
-      "onboard_time": 1739780721,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 124542,
       "num": 124542,
       "word": "塔图姆绝杀",
@@ -1585,6 +1633,14 @@
       "onboard_time": 1739770162,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123457,
+      "num": 123457,
+      "word": "王健林再被冻结1200万股权",
+      "onboard_time": 1739781561,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 123327,
@@ -1667,6 +1723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118575,
+      "num": 118575,
+      "word": "缅甸控制1030名妙瓦底非法入境人员",
+      "onboard_time": 1739781621,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 117884,
       "num": 117884,
       "word": "燃气收费异常为何屡禁不止",
@@ -1715,12 +1779,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 109708,
-      "num": 109708,
-      "word": "女子去世无继承人房产收归国家",
-      "onboard_time": 1739780421,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 108616,
+      "num": 108616,
+      "word": "丁真超绝西装杀",
+      "onboard_time": 1739781741,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 108351,
@@ -1867,7 +1931,7 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 77467,
+      "raw_hot": 80319,
       "num": 191745,
       "word": "搞副业的打工人捂嘴笑了",
       "onboard_time": 1739779762,
@@ -2091,6 +2155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37450,
+      "num": 201304,
+      "word": "早睡一周就能感到皮肤变好",
+      "onboard_time": 1739780842,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 37412,
       "num": 34748,
       "word": "5种最差的早餐搭配组合",
@@ -2137,6 +2209,14 @@
       "onboard_time": 1739777300,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25297,
+      "num": 202944,
+      "word": "如何评价全明星新赛制",
+      "onboard_time": 1739781321,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 23912,
@@ -2193,14 +2273,6 @@
       "onboard_time": 1739766381,
       "rank": 40,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 6821,
-      "num": 151673,
-      "word": "早睡一周就能感到皮肤变好",
-      "onboard_time": 1739780842,
-      "rank": 36,
-      "category": "健康医疗"
     }
   ],
   "hotgov_list": [
