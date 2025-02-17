@@ -1,10 +1,10 @@
 {
   "startTime": 1739723108252,
-  "endTime": 1739757798896,
+  "endTime": 1739760934357,
   "band_list": [
     {
-      "raw_hot": 2435148,
-      "num": 2435148,
+      "raw_hot": 3038517,
+      "num": 3038517,
       "word": "DeepSeek",
       "onboard_time": 1739752820,
       "rank": 0,
@@ -43,6 +43,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 1106928,
+      "num": 1106928,
+      "word": "光线传媒",
+      "onboard_time": 1739757078,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 936543,
       "num": 936543,
       "word": "哪吒2燃爆北美五星评论霸屏",
@@ -59,8 +67,16 @@
       "category": "电影,美妆"
     },
     {
+      "raw_hot": 786843,
+      "num": 427112,
+      "word": "哪吒2冲顶全球动画榜",
+      "onboard_time": 1739759359,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 783120,
-      "num": 222118,
+      "num": 233725,
       "word": "女子取出9岁存了24年的压岁钱",
       "onboard_time": 1739749578,
       "rank": 20,
@@ -73,6 +89,14 @@
       "onboard_time": 1739714002,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 717612,
+      "num": 416951,
+      "word": "饺子导演从来不会说不行不对",
+      "onboard_time": 1739757618,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 697868,
@@ -107,6 +131,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 624174,
+      "num": 390392,
+      "word": "丈夫回应妻子疑带三月大女儿跳江",
+      "onboard_time": 1739756178,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 556992,
+      "num": 420213,
+      "word": "柯淳 费加罗",
+      "onboard_time": 1739756120,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 554658,
       "num": 235652,
       "word": "金赛纶想要的只是第二次机会",
@@ -121,6 +161,22 @@
       "onboard_time": 1739723837,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 548066,
+      "num": 363330,
+      "word": "尹肖删博",
+      "onboard_time": 1739757378,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 539814,
+      "num": 392682,
+      "word": "哪吒票房",
+      "onboard_time": 1739752459,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 517529,
@@ -155,14 +211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 420213,
-      "num": 420213,
-      "word": "柯淳 费加罗",
-      "onboard_time": 1739756120,
-      "rank": 24,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 400146,
       "num": 400146,
       "word": "微信DeepSeek王炸组合",
@@ -172,7 +220,7 @@
     },
     {
       "raw_hot": 399944,
-      "num": 219004,
+      "num": 233266,
       "word": "每天睡够8小时白天为何还犯困",
       "onboard_time": 1739718262,
       "rank": 20,
@@ -185,14 +233,6 @@
       "onboard_time": 1739712443,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 392682,
-      "num": 392682,
-      "word": "哪吒票房",
-      "onboard_time": 1739752459,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 391990,
@@ -251,22 +291,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 321633,
-      "num": 321633,
-      "word": "丈夫回应妻子疑带三月大女儿跳江",
-      "onboard_time": 1739756178,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 315894,
-      "num": 319831,
-      "word": "光线传媒",
-      "onboard_time": 1739757078,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 314504,
       "num": 274245,
       "word": "kiiikiii",
@@ -283,8 +307,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 295092,
-      "num": 220658,
+      "raw_hot": 306486,
+      "num": 233466,
       "word": "全红婵评论区王楚钦表情包满天飞",
       "onboard_time": 1739756240,
       "rank": 34,
@@ -356,11 +380,19 @@
     },
     {
       "raw_hot": 253402,
-      "num": 217499,
+      "num": 232858,
       "word": "何某某发表数百条攻击陈丽君博文",
       "onboard_time": 1739755938,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251042,
+      "num": 251042,
+      "word": "A股",
+      "onboard_time": 1739759599,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 246594,
@@ -379,6 +411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 233752,
+      "num": 233752,
+      "word": "国际现货黄金价格已上涨63%",
+      "onboard_time": 1739758759,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 213726,
       "num": 173149,
       "word": "金冬天cue宁艺卓发言",
@@ -387,12 +427,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 208710,
+      "num": 208710,
+      "word": "人民网评重庆燃气屡次点燃群众火气",
+      "onboard_time": 1739757618,
+      "rank": 32,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 202816,
       "num": 202816,
       "word": "杨紫李祯盘发路透",
       "onboard_time": 1739756298,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198582,
+      "num": 198582,
+      "word": "成毅 蜜丝婷",
+      "onboard_time": 1739760139,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 197905,
@@ -409,6 +465,22 @@
       "onboard_time": 1739756778,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193221,
+      "num": 193221,
+      "word": "哪吒",
+      "onboard_time": 1739750058,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 193181,
+      "num": 193181,
+      "word": "难哄",
+      "onboard_time": 1739760019,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 191475,
@@ -443,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177203,
+      "num": 177203,
+      "word": "吴敬平删博",
+      "onboard_time": 1739760919,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165160,
       "num": 165160,
       "word": "真的有T6666次列车",
@@ -459,28 +539,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 162463,
-      "num": 162463,
-      "word": "尹肖删博",
-      "onboard_time": 1739757378,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 162331,
       "num": 152491,
       "word": "权志龙综艺",
       "onboard_time": 1739719941,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 161918,
-      "num": 158518,
-      "word": "哪吒",
-      "onboard_time": 1739750058,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 159611,
@@ -521,6 +585,14 @@
       "onboard_time": 1739707460,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 148444,
+      "num": 148444,
+      "word": "深圳一商场惊现哪吒通天梯",
+      "onboard_time": 1739757378,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144504,
@@ -579,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125306,
+      "num": 125306,
+      "word": "虞书欣何与双轨拍摄物料路透",
+      "onboard_time": 1739756478,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123327,
       "num": 123327,
       "word": "田曦薇周也光影大片",
@@ -619,28 +699,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 119686,
-      "num": 119686,
-      "word": "深圳一商场惊现哪吒通天梯",
-      "onboard_time": 1739757378,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119550,
       "num": 119550,
       "word": "60岁老人出现白肺鱼肝油竟是元凶",
       "onboard_time": 1739709145,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 119435,
-      "num": 119435,
-      "word": "虞书欣何与双轨拍摄物料路透",
-      "onboard_time": 1739756478,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 119423,
@@ -651,12 +715,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117843,
-      "num": 117843,
-      "word": "饺子导演从来不会说不行不对",
-      "onboard_time": 1739757618,
-      "rank": 47,
-      "category": "电影"
+      "raw_hot": 117884,
+      "num": 117884,
+      "word": "燃气收费异常为何屡禁不止",
+      "onboard_time": 1739757978,
+      "rank": 48,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 115096,
@@ -665,6 +729,22 @@
       "onboard_time": 1739757139,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115066,
+      "num": 115066,
+      "word": "全明星",
+      "onboard_time": 1739759060,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114617,
+      "num": 396729,
+      "word": "北京中小学体育八条",
+      "onboard_time": 1739755339,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 112680,
@@ -771,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69694,
+      "num": 195031,
+      "word": "NBA星有灵犀",
+      "onboard_time": 1739760679,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68989,
       "num": 102213,
       "word": "劣质安全帽手一压就变形",
@@ -827,6 +915,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 41795,
+      "num": 353310,
+      "word": "起底独处30天赢40万自律挑战骗局",
+      "onboard_time": 1739760499,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37717,
       "num": 143545,
       "word": "徐梦桃被一个问题瞬间问哭",
@@ -857,14 +953,6 @@
       "onboard_time": 1739724076,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30982,
-      "num": 164234,
-      "word": "人民网评重庆燃气屡次点燃群众火气",
-      "onboard_time": 1739757618,
-      "rank": 32,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 27523,
