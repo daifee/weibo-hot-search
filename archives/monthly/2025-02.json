@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739817778360,
+  "endTime": 1739819910143,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -51699,6 +51699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21480,
+      "num": 38546,
+      "word": "哪吒2从全球50升到10仅用9天",
+      "onboard_time": 1739818573,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 21443,
       "num": 54958,
       "word": "巴赫收到一份非遗礼物",
@@ -52329,6 +52337,14 @@
       "onboard_time": 1738782133,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 16905,
+      "num": 16905,
+      "word": "文化中国行雨水节气",
+      "onboard_time": 1739812214,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16674,
@@ -53633,6 +53649,14 @@
       "onboard_time": 1739114601,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 8103,
+      "num": 20198,
+      "word": "演员李雪健人民日报撰文谈家风",
+      "onboard_time": 1739817912,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 8100,

@@ -1,6 +1,6 @@
 {
   "startTime": 1739809696665,
-  "endTime": 1739817778360,
+  "endTime": 1739819910143,
   "band_list": [
     {
       "raw_hot": 1442655,
@@ -491,6 +491,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 21480,
+      "num": 38546,
+      "word": "哪吒2从全球50升到10仅用9天",
+      "onboard_time": 1739818573,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 20930,
       "num": 43486,
       "word": "律师称乘客猝死航司无需担责",
@@ -507,6 +515,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16905,
+      "num": 16905,
+      "word": "文化中国行雨水节气",
+      "onboard_time": 1739812214,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12196,
       "num": 26528,
       "word": "企业家就促进民营经济发展提出意见建议",
@@ -521,6 +537,14 @@
       "onboard_time": 1739817192,
       "rank": 9,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 8103,
+      "num": 20198,
+      "word": "演员李雪健人民日报撰文谈家风",
+      "onboard_time": 1739817912,
+      "rank": 36,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
