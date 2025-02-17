@@ -1,6 +1,6 @@
 {
   "startTime": 1739809696665,
-  "endTime": 1739831884513,
+  "endTime": 1739834466978,
   "band_list": [
     {
       "raw_hot": 1442655,
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 402064,
+      "num": 402064,
+      "word": "当事人回应高速旁停车抽打教育小孩",
+      "onboard_time": 1739807599,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 398294,
       "num": 286172,
       "word": "余承恩你还要亲成什么样",
@@ -75,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 304380,
+      "num": 168951,
+      "word": "张嘉元聊被章子怡轰下台感受",
+      "onboard_time": 1739832673,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 303061,
       "num": 255116,
       "word": "建议饺子导演学学宫崎骏",
@@ -99,6 +115,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 260362,
+      "num": 260362,
+      "word": "父亲透露金赛纶遭受严重心理创伤",
+      "onboard_time": 1739822050,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 244932,
+      "num": 168218,
+      "word": "汪峰携女友森林北看演唱会",
+      "onboard_time": 1739833935,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 235263,
       "num": 235263,
       "word": "曝韦雪今年直播收入已超9亿",
@@ -115,6 +147,30 @@
       "category": "电影"
     },
     {
+      "raw_hot": 219918,
+      "num": 219918,
+      "word": "乌方不承认美俄谈判达成协议",
+      "onboard_time": 1739815334,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 217688,
+      "num": 175204,
+      "word": "哪吒2从全球50升到10仅用9天",
+      "onboard_time": 1739818573,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 204708,
+      "num": 167392,
+      "word": "沈梦辰杜海涛经历9年爱情长跑",
+      "onboard_time": 1739825951,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189023,
       "num": 189023,
       "word": "蒋欣评论区回应为何不结婚",
@@ -123,12 +179,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182623,
+      "num": 182623,
+      "word": "雨水",
+      "onboard_time": 1739833875,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179728,
+      "num": 165113,
+      "word": "商家用女童跪撩上衣姿势展示童装",
+      "onboard_time": 1739797161,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171146,
+      "num": 171146,
+      "word": "脂肪肝少吃主食还是少吃肉",
+      "onboard_time": 1739802501,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 165850,
       "num": 165850,
       "word": "女生被催婚催烦一口气把长发剪了",
       "onboard_time": 1739803582,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164853,
+      "num": 164853,
+      "word": "春季第二个节气到了",
+      "onboard_time": 1739833394,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163119,
@@ -163,20 +251,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 150275,
+      "num": 150275,
+      "word": "一客机加拿大降落时发生事故多人伤",
+      "onboard_time": 1739833935,
+      "rank": 20,
+      "category": "国际时政,国际时政"
+    },
+    {
       "raw_hot": 146411,
       "num": 146411,
       "word": "刘浩存文淇柏林互动好甜",
       "onboard_time": 1739806161,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 145041,
-      "num": 145041,
-      "word": "商家用女童跪撩上衣姿势展示童装",
-      "onboard_time": 1739797161,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 143363,
@@ -203,11 +291,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 139270,
-      "num": 241913,
-      "word": "当事人回应高速旁停车抽打教育小孩",
-      "onboard_time": 1739807599,
-      "rank": 18,
+      "raw_hot": 136759,
+      "num": 72878,
+      "word": "6万买饺子导演高仿号当事人发声",
+      "onboard_time": 1739810358,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -219,12 +307,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124724,
-      "num": 124724,
-      "word": "乌方不承认美俄谈判达成协议",
-      "onboard_time": 1739815334,
-      "rank": 5,
-      "category": "国际时政"
+      "raw_hot": 125386,
+      "num": 125386,
+      "word": "66岁单身大妈去养生局感染HPV",
+      "onboard_time": 1739800281,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124003,
@@ -243,22 +331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 117140,
-      "num": 117140,
-      "word": "66岁单身大妈去养生局感染HPV",
-      "onboard_time": 1739800281,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 104183,
-      "num": 104183,
-      "word": "父亲透露金赛纶遭受严重心理创伤",
-      "onboard_time": 1739822050,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 102450,
       "num": 102450,
       "word": "美国11个州超53万用户断电",
@@ -267,28 +339,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 101296,
-      "num": 50934,
-      "word": "沈梦辰杜海涛经历9年爱情长跑",
-      "onboard_time": 1739825951,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 97017,
       "num": 274312,
       "word": "哪吒2成功是长期主义者的胜利",
       "onboard_time": 1739808797,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 97006,
-      "num": 58231,
-      "word": "6万买饺子导演高仿号当事人发声",
-      "onboard_time": 1739810358,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96773,
@@ -307,6 +363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 93164,
+      "num": 93164,
+      "word": "患癌公公给儿媳红包里塞催生纸条",
+      "onboard_time": 1739786780,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91709,
       "num": 145322,
       "word": "杭州路上开始积雪了",
@@ -315,28 +379,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91531,
+      "num": 91531,
+      "word": "多喝五黑汤气血充足睡眠好",
+      "onboard_time": 1739833154,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 91074,
       "num": 91074,
       "word": "土象星座最伤人的一点",
       "onboard_time": 1739794938,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 90084,
-      "num": 90084,
-      "word": "脂肪肝少吃主食还是少吃肉",
-      "onboard_time": 1739802501,
-      "rank": 37,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 87989,
-      "num": 87989,
-      "word": "患癌公公给儿媳红包里塞催生纸条",
-      "onboard_time": 1739786780,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83079,
@@ -379,14 +435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 72166,
-      "num": 63272,
-      "word": "哪吒2从全球50升到10仅用9天",
-      "onboard_time": 1739818573,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
       "raw_hot": 70722,
       "num": 84193,
       "word": "中国已开始部署防御小行星撞击地球",
@@ -419,6 +467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 66243,
+      "num": 66243,
+      "word": "六姊妹24集",
+      "onboard_time": 1739831593,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 59998,
       "num": 70061,
       "word": "民营经济发展前景广阔大有可为",
@@ -427,12 +483,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 59978,
+      "num": 59978,
+      "word": "文化中国行雨水节气",
+      "onboard_time": 1739812214,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57935,
       "num": 57935,
       "word": "香港人为什么这么喜欢雇菲佣",
       "onboard_time": 1739791820,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 57158,
+      "num": 171006,
+      "word": "美国冬季风暴死亡升至11人",
+      "onboard_time": 1739832854,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 52800,
@@ -459,11 +531,35 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 48610,
+      "num": 48610,
+      "word": "语文老师粉笔画哪吒引惊呼",
+      "onboard_time": 1739831232,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44276,
       "num": 108393,
       "word": "深圳70名AI数智员工上岗",
       "onboard_time": 1739812394,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43544,
+      "num": 43544,
+      "word": "外媒评价哪吒2连龙套都很有质感",
+      "onboard_time": 1739823250,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 42480,
+      "num": 42480,
+      "word": "女子高速路边停车打孩子",
+      "onboard_time": 1739829552,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -499,12 +595,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34084,
-      "num": 41804,
-      "word": "文化中国行雨水节气",
-      "onboard_time": 1739812214,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 25762,
+      "num": 93599,
+      "word": "马龙现身小学的开学典礼",
+      "onboard_time": 1739833935,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 25053,
@@ -539,28 +635,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 21418,
-      "num": 30805,
-      "word": "外媒评价哪吒2连龙套都很有质感",
-      "onboard_time": 1739823250,
-      "rank": 9,
-      "category": "电影"
-    },
-    {
       "raw_hot": 20930,
       "num": 43486,
       "word": "律师称乘客猝死航司无需担责",
       "onboard_time": 1739813593,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19257,
-      "num": 24935,
-      "word": "六姊妹24集",
-      "onboard_time": 1739831593,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 17046,
