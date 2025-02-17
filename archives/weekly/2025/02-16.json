@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739828137607,
+  "endTime": 1739830870146,
   "band_list": [
     {
       "raw_hot": 17381826,
@@ -5195,6 +5195,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 101988,
+      "num": 101988,
+      "word": "乌方不承认美俄谈判达成协议",
+      "onboard_time": 1739815334,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 101469,
       "num": 101469,
       "word": "LCK",
@@ -5321,14 +5329,6 @@
       "onboard_time": 1739776400,
       "rank": 36,
       "category": "教育"
-    },
-    {
-      "raw_hot": 95869,
-      "num": 95869,
-      "word": "乌方不承认美俄谈判达成协议",
-      "onboard_time": 1739815334,
-      "rank": 5,
-      "category": "国际时政"
     },
     {
       "raw_hot": 95818,
@@ -5499,6 +5499,14 @@
       "category": "国内时政,国际时政"
     },
     {
+      "raw_hot": 83671,
+      "num": 83671,
+      "word": "父亲透露金赛纶遭受严重心理创伤",
+      "onboard_time": 1739822050,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82484,
       "num": 82484,
       "word": "让樊振东陈梦马龙回归赛场",
@@ -5603,6 +5611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70597,
+      "num": 42923,
+      "word": "沈梦辰杜海涛经历9年爱情长跑",
+      "onboard_time": 1739825951,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 70398,
       "num": 70398,
       "word": "ive师妹",
@@ -5673,6 +5689,14 @@
       "onboard_time": 1739678001,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66070,
+      "num": 55646,
+      "word": "哪吒2从全球50升到10仅用9天",
+      "onboard_time": 1739818573,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 65615,
@@ -5779,14 +5803,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 58330,
-      "num": 58330,
-      "word": "父亲透露金赛纶遭受严重心理创伤",
-      "onboard_time": 1739822050,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 58300,
       "num": 282087,
       "word": "学生家长不语只是一味等待开学",
@@ -5849,14 +5865,6 @@
       "onboard_time": 1739783900,
       "rank": 44,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 55646,
-      "num": 55646,
-      "word": "哪吒2从全球50升到10仅用9天",
-      "onboard_time": 1739818573,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 52800,
@@ -6107,14 +6115,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 34415,
-      "num": 17134,
-      "word": "沈梦辰杜海涛经历9年爱情长跑",
-      "onboard_time": 1739825951,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 33990,
       "num": 36948,
       "word": "请学会为自己挺身而出",
@@ -6235,6 +6235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 26208,
+      "num": 41804,
+      "word": "文化中国行雨水节气",
+      "onboard_time": 1739812214,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26136,
       "num": 199918,
       "word": "导游强迫购物大巴雪天停无人区",
@@ -6291,12 +6299,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 23768,
+      "num": 23768,
+      "word": "特朗普说美国这3周进步多于4年",
+      "onboard_time": 1739823790,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23539,
       "num": 162603,
       "word": "回顾94年的秀场风格",
       "onboard_time": 1739680039,
       "rank": 29,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 23117,
+      "num": 23117,
+      "word": "泰国共享诈骗团伙IP地址",
+      "onboard_time": 1739825230,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 22961,
@@ -6387,14 +6411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 19029,
-      "num": 24832,
-      "word": "文化中国行雨水节气",
-      "onboard_time": 1739812214,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 18219,
       "num": 230580,
       "word": "赵丽颖手里拿着哪吒玩偶",
@@ -6411,28 +6427,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 17157,
+      "num": 30805,
+      "word": "外媒评价哪吒2连龙套都很有质感",
+      "onboard_time": 1739823250,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 17069,
       "num": 26900,
       "word": "亚洲杯U20",
       "onboard_time": 1739647931,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 16938,
-      "num": 16938,
-      "word": "特朗普说美国这3周进步多于4年",
-      "onboard_time": 1739823790,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16749,
-      "num": 16749,
-      "word": "泰国共享诈骗团伙IP地址",
-      "onboard_time": 1739825230,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 15881,
@@ -6523,12 +6531,12 @@
       "category": "国内时政,财经"
     },
     {
-      "raw_hot": 11010,
-      "num": 30805,
-      "word": "外媒评价哪吒2连龙套都很有质感",
-      "onboard_time": 1739823250,
-      "rank": 9,
-      "category": "电影"
+      "raw_hot": 11376,
+      "num": 29625,
+      "word": "这真是灯火里的中国",
+      "onboard_time": 1739830632,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10698,
