@@ -1,7 +1,15 @@
 {
   "startTime": 1739723108252,
-  "endTime": 1739774715014,
+  "endTime": 1739776938138,
   "band_list": [
+    {
+      "raw_hot": 4615958,
+      "num": 4615958,
+      "word": "哪吒2全球影史票房第10",
+      "onboard_time": 1739775141,
+      "rank": 0,
+      "category": "电影"
+    },
     {
       "raw_hot": 3038517,
       "num": 3038517,
@@ -99,6 +107,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 1200437,
+      "num": 272179,
+      "word": "93岁老人犯强奸罪被判15年",
+      "onboard_time": 1739774420,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1167967,
       "num": 1167967,
       "word": "光线传媒5分钟巨震40%",
@@ -153,6 +169,14 @@
       "onboard_time": 1739760919,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 827598,
+      "num": 280098,
+      "word": "套圈玛莎拉蒂摆摊者承认此前说谎",
+      "onboard_time": 1739774358,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 824676,
@@ -217,6 +241,14 @@
       "onboard_time": 1739747235,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 692989,
+      "num": 692989,
+      "word": "最接近刘翔的运动员出现了",
+      "onboard_time": 1739773519,
+      "rank": 19,
+      "category": "民生新闻,体育"
     },
     {
       "raw_hot": 681184,
@@ -395,12 +427,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 462813,
+      "num": 281746,
+      "word": "元斌给金赛纶灵堂送去花圈",
+      "onboard_time": 1739776821,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 439219,
       "num": 439219,
       "word": "水利局回应村民反映新桥刚竣工就歪",
       "onboard_time": 1739771238,
       "rank": 4,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 426442,
+      "num": 276264,
+      "word": "何炅在难哄也是救场大师",
+      "onboard_time": 1739773220,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 400146,
@@ -452,7 +500,7 @@
     },
     {
       "raw_hot": 378645,
-      "num": 254039,
+      "num": 268401,
       "word": "周洁琼前队友宣布订婚",
       "onboard_time": 1739773399,
       "rank": 26,
@@ -481,6 +529,14 @@
       "onboard_time": 1739751679,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 372469,
+      "num": 312142,
+      "word": "日本天才动画导演大赞哪吒2",
+      "onboard_time": 1739771360,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 371997,
@@ -515,6 +571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 347394,
+      "num": 347394,
+      "word": "5岁女孩学舞受伤后诊断出脊髓空洞症",
+      "onboard_time": 1739773279,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 332708,
       "num": 332708,
       "word": "DeepSeek公司主要人员发生变更",
@@ -528,14 +592,6 @@
       "word": "哪吒2票房一天一个新突破",
       "onboard_time": 1739711065,
       "rank": 14,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 322356,
-      "num": 312142,
-      "word": "日本天才动画导演大赞哪吒2",
-      "onboard_time": 1739771360,
-      "rank": 23,
       "category": "电影"
     },
     {
@@ -667,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257211,
+      "num": 257211,
+      "word": "许凯邓恩熙cp感",
+      "onboard_time": 1739774659,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255832,
       "num": 255832,
       "word": "为什么周末总过得这么快",
@@ -689,14 +753,6 @@
       "onboard_time": 1739755938,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 253106,
-      "num": 314934,
-      "word": "5岁女孩学舞受伤后诊断出脊髓空洞症",
-      "onboard_time": 1739773279,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 252794,
@@ -827,14 +883,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 216012,
-      "num": 216012,
-      "word": "何炅在难哄也是救场大师",
-      "onboard_time": 1739773220,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 214738,
       "num": 295720,
       "word": "最好用的刀变最扎心的箭",
@@ -857,6 +905,14 @@
       "onboard_time": 1739757618,
       "rank": 32,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 213748,
+      "num": 213748,
+      "word": "谁家老公把老婆当员工啊",
+      "onboard_time": 1739776339,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 213726,
@@ -889,14 +945,6 @@
       "onboard_time": 1739767041,
       "rank": 46,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 203725,
-      "num": 203725,
-      "word": "93岁老人犯强奸罪被判15年",
-      "onboard_time": 1739774420,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 202816,
@@ -1027,6 +1075,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 174079,
+      "num": 174079,
+      "word": "真正的哪吒闹海开始了",
+      "onboard_time": 1739776579,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 173862,
       "num": 396729,
       "word": "北京中小学体育八条",
@@ -1067,12 +1123,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 167300,
+      "num": 174461,
+      "word": "梁洁三声阿瓒的台词变化",
+      "onboard_time": 1739775501,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165160,
       "num": 165160,
       "word": "真的有T6666次列车",
       "onboard_time": 1739756658,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165105,
+      "num": 278949,
+      "word": "光线传媒上演准天地板",
+      "onboard_time": 1739768242,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 164252,
@@ -1091,12 +1163,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 163455,
-      "num": 163455,
-      "word": "套圈玛莎拉蒂摆摊者承认此前说谎",
-      "onboard_time": 1739774358,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 163171,
+      "num": 163171,
+      "word": "你俩嘴硬互啄都能亲在一起",
+      "onboard_time": 1739775739,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 162819,
@@ -1163,12 +1235,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 153358,
-      "num": 314267,
-      "word": "最接近刘翔的运动员出现了",
-      "onboard_time": 1739773519,
-      "rank": 19,
-      "category": "民生新闻,体育"
+      "raw_hot": 152904,
+      "num": 152904,
+      "word": "谷嘉诚与女生牵手同游丽江",
+      "onboard_time": 1739775019,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 152888,
@@ -1203,6 +1275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150950,
+      "num": 150950,
+      "word": "颜安是何洛洛的兵",
+      "onboard_time": 1739775141,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149384,
       "num": 149384,
       "word": "深圳一商场惊现哪吒通天梯",
@@ -1219,12 +1299,28 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 148286,
+      "num": 148286,
+      "word": "老外连炫1个月砂糖桔变小黄人",
+      "onboard_time": 1739776761,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146234,
       "num": 146234,
       "word": "白敬亭演唱难哄OST",
       "onboard_time": 1739768721,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144889,
+      "num": 144889,
+      "word": "吒儿打进世界前10了",
+      "onboard_time": 1739776520,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 144504,
@@ -1265,14 +1361,6 @@
       "onboard_time": 1739762540,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139378,
-      "num": 139378,
-      "word": "许凯邓恩熙cp感",
-      "onboard_time": 1739774659,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 138579,
@@ -1451,6 +1539,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 116343,
+      "num": 177830,
+      "word": "秦彻明天见",
+      "onboard_time": 1739775621,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 115096,
       "num": 115096,
       "word": "特6666的火车站广播",
@@ -1515,6 +1611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 96033,
+      "num": 175841,
+      "word": "李书福建议初中阶段开始因材施教",
+      "onboard_time": 1739776400,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 95013,
       "num": 102787,
       "word": "那个苏什么的别打在屏幕上",
@@ -1524,7 +1628,7 @@
     },
     {
       "raw_hot": 94418,
-      "num": 153290,
+      "num": 277358,
       "word": "原来速食拉面也能吃得健康",
       "onboard_time": 1739774058,
       "rank": 44,
@@ -1576,6 +1680,14 @@
       "word": "刘亦菲回忆十几岁剧组生活",
       "onboard_time": 1739773938,
       "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 91151,
+      "num": 272772,
+      "word": "刘亦菲希望为一个永远的代表作而努力",
+      "onboard_time": 1739776339,
+      "rank": 19,
       "category": "作品衍生,时尚"
     },
     {
@@ -1787,6 +1899,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 39177,
+      "num": 213754,
+      "word": "深圳一公园野生猴子袭击女童",
+      "onboard_time": 1739775980,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37717,
       "num": 143545,
       "word": "徐梦桃被一个问题瞬间问哭",
@@ -1816,6 +1936,14 @@
       "word": "请学会为自己挺身而出",
       "onboard_time": 1739724076,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32345,
+      "num": 213749,
+      "word": "医生怕救完人还得救自己",
+      "onboard_time": 1739776160,
+      "rank": 29,
       "category": "民生新闻"
     },
     {

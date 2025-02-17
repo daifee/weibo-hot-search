@@ -1,0 +1,410 @@
+{
+  "runTime": 1739776938138,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4615958,
+        "num": 4615958,
+        "word": "哪吒2全球影史票房第10",
+        "onboard_time": 1739775141,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 692989,
+        "num": 692989,
+        "word": "最接近刘翔的运动员出现了",
+        "onboard_time": 1739773519,
+        "rank": 1,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 117582,
+        "num": 492722,
+        "word": "多地以旧换新多重buff拉满",
+        "onboard_time": 1739761638,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 749288,
+        "num": 461742,
+        "word": "刘亦菲说成年三部曲没丢自己的脸",
+        "onboard_time": 1739769560,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 401828,
+        "num": 401828,
+        "word": "社保挂靠代缴为何屡禁不止",
+        "onboard_time": 1739764100,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 379329,
+        "num": 379329,
+        "word": "2025民营企业座谈会",
+        "onboard_time": 1739765121,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 526824,
+        "num": 375360,
+        "word": "金赛纶死亡现场没有遗书",
+        "onboard_time": 1739769380,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 524284,
+        "num": 367932,
+        "word": "130多家公司托举哪吒2票房冲击记录",
+        "onboard_time": 1739763620,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 347394,
+        "num": 347394,
+        "word": "5岁女孩学舞受伤后诊断出脊髓空洞症",
+        "onboard_time": 1739773279,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282473,
+        "num": 282473,
+        "word": "67岁大爷爆改龙爹敖光",
+        "onboard_time": 1739763019,
+        "rank": 9,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 462813,
+        "num": 281746,
+        "word": "元斌给金赛纶灵堂送去花圈",
+        "onboard_time": 1739776821,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 507372,
+        "num": 280721,
+        "word": "哪吒2冲顶全球动画榜",
+        "onboard_time": 1739759359,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 827598,
+        "num": 280098,
+        "word": "套圈玛莎拉蒂摆摊者承认此前说谎",
+        "onboard_time": 1739774358,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165105,
+        "num": 278949,
+        "word": "光线传媒上演准天地板",
+        "onboard_time": 1739768242,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 483917,
+        "num": 278188,
+        "word": "哪吒2票房120亿了",
+        "onboard_time": 1739762418,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23456,
+        "num": 277358,
+        "word": "原来速食拉面也能吃得健康",
+        "onboard_time": 1739774058,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 426442,
+        "num": 276264,
+        "word": "何炅在难哄也是救场大师",
+        "onboard_time": 1739773220,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330148,
+        "num": 275285,
+        "word": "女子全职带俩娃嗓子疼查出恶性结节",
+        "onboard_time": 1739771419,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297484,
+        "num": 274287,
+        "word": "光线传媒5分钟巨震40%",
+        "onboard_time": 1739761459,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 91151,
+        "num": 272772,
+        "word": "刘亦菲希望为一个永远的代表作而努力",
+        "onboard_time": 1739776339,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1200437,
+        "num": 272179,
+        "word": "93岁老人犯强奸罪被判15年",
+        "onboard_time": 1739774420,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 429674,
+        "num": 271373,
+        "word": "男童3年前生吃蟹腿寄生虫钻进心脏",
+        "onboard_time": 1739771479,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372469,
+        "num": 270659,
+        "word": "日本天才动画导演大赞哪吒2",
+        "onboard_time": 1739771360,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 297452,
+        "num": 269765,
+        "word": "女子取出9岁存了24年的压岁钱",
+        "onboard_time": 1739749578,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297431,
+        "num": 268401,
+        "word": "周洁琼前队友宣布订婚",
+        "onboard_time": 1739773399,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267849,
+        "num": 267849,
+        "word": "父母离婚女儿百万死亡赔偿金咋分配",
+        "onboard_time": 1739768541,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257211,
+        "num": 257211,
+        "word": "许凯邓恩熙cp感",
+        "onboard_time": 1739774659,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213759,
+        "num": 213759,
+        "word": "浪姐6一公分组",
+        "onboard_time": 1739768961,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39177,
+        "num": 213754,
+        "word": "深圳一公园野生猴子袭击女童",
+        "onboard_time": 1739775980,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32345,
+        "num": 213749,
+        "word": "医生怕救完人还得救自己",
+        "onboard_time": 1739776160,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213748,
+        "num": 213748,
+        "word": "谁家老公把老婆当员工啊",
+        "onboard_time": 1739776339,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205946,
+        "num": 205946,
+        "word": "嘉行创始人被冻结217万股权",
+        "onboard_time": 1739763979,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 205853,
+        "num": 205853,
+        "word": "这下遇到真石矶娘娘了",
+        "onboard_time": 1739769981,
+        "rank": 32,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 189544,
+        "num": 189544,
+        "word": "赵丽颖满心满眼都是吒儿",
+        "onboard_time": 1739764160,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116343,
+        "num": 177830,
+        "word": "秦彻明天见",
+        "onboard_time": 1739775621,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177484,
+        "num": 177484,
+        "word": "哪吒",
+        "onboard_time": 1739750058,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96033,
+        "num": 175841,
+        "word": "李书福建议初中阶段开始因材施教",
+        "onboard_time": 1739776400,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175184,
+        "num": 175184,
+        "word": "水利局回应村民反映新桥刚竣工就歪",
+        "onboard_time": 1739771238,
+        "rank": 37,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 167300,
+        "num": 174461,
+        "word": "梁洁三声阿瓒的台词变化",
+        "onboard_time": 1739775501,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174079,
+        "num": 174079,
+        "word": "真正的哪吒闹海开始了",
+        "onboard_time": 1739776579,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122302,
+        "num": 168884,
+        "word": "国乒亚洲杯训练",
+        "onboard_time": 1739772679,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167906,
+        "num": 167906,
+        "word": "光线传媒涨停后快速跳水",
+        "onboard_time": 1739772980,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 163171,
+        "num": 163171,
+        "word": "你俩嘴硬互啄都能亲在一起",
+        "onboard_time": 1739775739,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161155,
+        "num": 161155,
+        "word": "腾讯市值暴涨3000亿",
+        "onboard_time": 1739761219,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 154698,
+        "num": 154698,
+        "word": "王鹤棣全明星偶遇王嘉尔",
+        "onboard_time": 1739773160,
+        "rank": 44,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 152904,
+        "num": 152904,
+        "word": "谷嘉诚与女生牵手同游丽江",
+        "onboard_time": 1739775019,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150950,
+        "num": 150950,
+        "word": "颜安是何洛洛的兵",
+        "onboard_time": 1739775141,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148286,
+        "num": 148286,
+        "word": "老外连炫1个月砂糖桔变小黄人",
+        "onboard_time": 1739776761,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146177,
+        "num": 146177,
+        "word": "邵艺辉说人脉饭局是糊弄年轻人",
+        "onboard_time": 1739766561,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144889,
+        "num": 144889,
+        "word": "吒儿打进世界前10了",
+        "onboard_time": 1739776520,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#切实让特权现象和腐败问题无所遁形#"
+    }
+  }
+}
