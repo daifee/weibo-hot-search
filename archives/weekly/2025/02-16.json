@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739834466978,
+  "endTime": 1739835350456,
   "band_list": [
     {
       "raw_hot": 17381826,
@@ -1155,6 +1155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 545394,
+      "num": 209508,
+      "word": "汪峰携女友森林北看演唱会",
+      "onboard_time": 1739833935,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 542427,
       "num": 335264,
       "word": "元斌给金赛纶灵堂送去花圈",
@@ -1297,6 +1305,14 @@
       "onboard_time": 1739668938,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 492983,
+      "num": 492983,
+      "word": "当事人回应高速旁停车抽打教育小孩",
+      "onboard_time": 1739807599,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 489378,
@@ -1611,14 +1627,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 402064,
-      "num": 402064,
-      "word": "当事人回应高速旁停车抽打教育小孩",
-      "onboard_time": 1739807599,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 401865,
       "num": 314670,
       "word": "谁家老公把老婆当员工啊",
@@ -1825,6 +1833,14 @@
       "onboard_time": 1739802802,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 360436,
+      "num": 194694,
+      "word": "张嘉元聊被章子怡轰下台感受",
+      "onboard_time": 1739832673,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 360260,
@@ -2067,14 +2083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 304380,
-      "num": 168951,
-      "word": "张嘉元聊被章子怡轰下台感受",
-      "onboard_time": 1739832673,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 302872,
       "num": 302872,
       "word": "为什么刚洗完头就有巨多头皮屑",
@@ -2097,6 +2105,14 @@
       "onboard_time": 1739626701,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 301344,
+      "num": 260362,
+      "word": "父亲透露金赛纶遭受严重心理创伤",
+      "onboard_time": 1739822050,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 300664,
@@ -2347,14 +2363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 260362,
-      "num": 260362,
-      "word": "父亲透露金赛纶遭受严重心理创伤",
-      "onboard_time": 1739822050,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 259192,
       "num": 259192,
       "word": "男子酒后死亡同饮者没劝酒被判无责",
@@ -2425,6 +2433,22 @@
       "onboard_time": 1739697919,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 255674,
+      "num": 230635,
+      "word": "哪吒2从全球50升到10仅用9天",
+      "onboard_time": 1739818573,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 255191,
+      "num": 255191,
+      "word": "春季第二个节气到了",
+      "onboard_time": 1739833394,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 254847,
@@ -2539,14 +2563,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 244932,
-      "num": 168218,
-      "word": "汪峰携女友森林北看演唱会",
-      "onboard_time": 1739833935,
-      "rank": 13,
-      "category": "演出"
-    },
-    {
       "raw_hot": 243701,
       "num": 243701,
       "word": "民营经济发展前景广阔大有可为",
@@ -2561,6 +2577,14 @@
       "onboard_time": 1739702781,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 242316,
+      "num": 242316,
+      "word": "乌方不承认美俄谈判达成协议",
+      "onboard_time": 1739815334,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 241474,
@@ -2593,6 +2617,14 @@
       "onboard_time": 1739764821,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 239501,
+      "num": 193648,
+      "word": "沈梦辰杜海涛经历9年爱情长跑",
+      "onboard_time": 1739825951,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 239282,
@@ -2731,6 +2763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221235,
+      "num": 221235,
+      "word": "脂肪肝少吃主食还是少吃肉",
+      "onboard_time": 1739802501,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 220760,
       "num": 220760,
       "word": "DeepSeek引发连锁反应",
@@ -2744,14 +2784,6 @@
       "word": "乌妇女在乌军征兵人员面前引爆炸弹",
       "onboard_time": 1739633300,
       "rank": 25,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 219918,
-      "num": 219918,
-      "word": "乌方不承认美俄谈判达成协议",
-      "onboard_time": 1739815334,
-      "rank": 5,
       "category": "国际时政"
     },
     {
@@ -2803,12 +2835,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 217688,
-      "num": 175204,
-      "word": "哪吒2从全球50升到10仅用9天",
-      "onboard_time": 1739818573,
-      "rank": 15,
-      "category": "电影"
+      "raw_hot": 217592,
+      "num": 217592,
+      "word": "一客机加拿大降落时发生事故多人伤",
+      "onboard_time": 1739833935,
+      "rank": 20,
+      "category": "国际时政,国际时政"
     },
     {
       "raw_hot": 217156,
@@ -3017,14 +3049,6 @@
       "onboard_time": 1739690237,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 204708,
-      "num": 167392,
-      "word": "沈梦辰杜海涛经历9年爱情长跑",
-      "onboard_time": 1739825951,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 204103,
@@ -3555,6 +3579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181585,
+      "num": 87566,
+      "word": "6万买饺子导演高仿号当事人发声",
+      "onboard_time": 1739810358,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181564,
       "num": 181564,
       "word": "李瓒物理意义上破碎了",
@@ -3779,14 +3811,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 171146,
-      "num": 208318,
-      "word": "脂肪肝少吃主食还是少吃肉",
-      "onboard_time": 1739802501,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 171045,
       "num": 171045,
       "word": "穿校服的哪吒敖丙好可爱",
@@ -3880,14 +3904,6 @@
       "word": "真的有T6666次列车",
       "onboard_time": 1739756658,
       "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 164853,
-      "num": 164853,
-      "word": "春季第二个节气到了",
-      "onboard_time": 1739833394,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -4185,14 +4201,6 @@
       "onboard_time": 1739775141,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 150275,
-      "num": 150275,
-      "word": "一客机加拿大降落时发生事故多人伤",
-      "onboard_time": 1739833935,
-      "rank": 20,
-      "category": "国际时政,国际时政"
     },
     {
       "raw_hot": 150181,
@@ -4507,14 +4515,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 136759,
-      "num": 72878,
-      "word": "6万买饺子导演高仿号当事人发声",
-      "onboard_time": 1739810358,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136674,
       "num": 136674,
       "word": "林孝埈坚定的冰上少年",
@@ -4745,6 +4745,14 @@
       "onboard_time": 1739692457,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126867,
+      "num": 126867,
+      "word": "多喝五黑汤气血充足睡眠好",
+      "onboard_time": 1739833154,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 126587,
@@ -5507,14 +5515,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 91531,
-      "num": 91531,
-      "word": "多喝五黑汤气血充足睡眠好",
-      "onboard_time": 1739833154,
-      "rank": 26,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 91181,
       "num": 237855,
       "word": "有人排队8小时买老铺黄金",
@@ -5715,6 +5715,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 68188,
+      "num": 68188,
+      "word": "花八万给妈妈补上十几年的社保",
+      "onboard_time": 1739835197,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 67510,
       "num": 202446,
       "word": "市委督查组调查网传新桥刚竣工就歪",
@@ -5729,6 +5737,14 @@
       "onboard_time": 1739683039,
       "rank": 26,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 67183,
+      "num": 67183,
+      "word": "我爱的那些人 杨幂",
+      "onboard_time": 1739835017,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 66659,
@@ -5793,6 +5809,14 @@
       "onboard_time": 1739638397,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62111,
+      "num": 63124,
+      "word": "语文老师粉笔画哪吒引惊呼",
+      "onboard_time": 1739831232,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61470,
@@ -5883,20 +5907,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57931,
+      "num": 171006,
+      "word": "美国冬季风暴死亡升至11人",
+      "onboard_time": 1739832854,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 57619,
       "num": 252366,
       "word": "男孩撞伤醉酒男子后逃逸父母判赔34万",
       "onboard_time": 1739779461,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 57158,
-      "num": 171006,
-      "word": "美国冬季风暴死亡升至11人",
-      "onboard_time": 1739832854,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 56861,
@@ -5947,6 +5971,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 52656,
+      "num": 52656,
+      "word": "女子高速路边停车打孩子",
+      "onboard_time": 1739829552,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52483,
       "num": 236917,
       "word": "韩素希吊唁金赛纶",
@@ -5995,20 +6027,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 48610,
-      "num": 48610,
-      "word": "语文老师粉笔画哪吒引惊呼",
-      "onboard_time": 1739831232,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 48557,
       "num": 268740,
       "word": "你一般每天睡多少个小时",
       "onboard_time": 1739791041,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 48546,
+      "num": 48546,
+      "word": "周深感谢大家的理解包容",
+      "onboard_time": 1739835317,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 48339,
@@ -6107,14 +6139,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 42480,
-      "num": 42480,
-      "word": "女子高速路边停车打孩子",
-      "onboard_time": 1739829552,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 42081,
       "num": 203779,
       "word": "A股机器人概念持续活跃",
@@ -6201,6 +6225,14 @@
       "onboard_time": 1739809997,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35635,
+      "num": 93599,
+      "word": "马龙现身小学的开学典礼",
+      "onboard_time": 1739833935,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 34503,
@@ -6337,14 +6369,6 @@
       "onboard_time": 1739698040,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25762,
-      "num": 93599,
-      "word": "马龙现身小学的开学典礼",
-      "onboard_time": 1739833935,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 25297,
@@ -6561,6 +6585,14 @@
       "onboard_time": 1739766381,
       "rank": 40,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 14521,
+      "num": 164203,
+      "word": "周柯宇直播",
+      "onboard_time": 1739834837,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 13898,
