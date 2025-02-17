@@ -1,6 +1,6 @@
 {
   "startTime": 1739723108252,
-  "endTime": 1739762945545,
+  "endTime": 1739763777297,
   "band_list": [
     {
       "raw_hot": 3038517,
@@ -19,8 +19,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1650894,
-      "num": 1650894,
+      "raw_hot": 1856441,
+      "num": 1856441,
       "word": "哪吒2冲顶全球动画榜",
       "onboard_time": 1739759359,
       "rank": 6,
@@ -67,6 +67,22 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 1104088,
+      "num": 1104088,
+      "word": "光线传媒5分钟巨震40%",
+      "onboard_time": 1739761459,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 1059415,
+      "num": 1059415,
+      "word": "哪吒2票房120亿了",
+      "onboard_time": 1739762418,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 936543,
       "num": 936543,
       "word": "哪吒2燃爆北美五星评论霸屏",
@@ -91,14 +107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 837397,
-      "num": 837397,
-      "word": "光线传媒5分钟巨震40%",
-      "onboard_time": 1739761459,
-      "rank": 41,
-      "category": "财经"
-    },
-    {
       "raw_hot": 822692,
       "num": 701781,
       "word": "饺子导演从来不会说不行不对",
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 783120,
-      "num": 274656,
+      "num": 363156,
       "word": "女子取出9岁存了24年的压岁钱",
       "onboard_time": 1739749578,
       "rank": 20,
@@ -171,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 559692,
+      "num": 470078,
+      "word": "难哄cp海报是两种爱情",
+      "onboard_time": 1739761638,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 556992,
       "num": 420213,
       "word": "柯淳 费加罗",
@@ -185,6 +201,14 @@
       "onboard_time": 1739724256,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 553501,
+      "num": 553501,
+      "word": "腾讯市值暴涨3000亿",
+      "onboard_time": 1739761219,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 549312,
@@ -211,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 502190,
+      "num": 649558,
+      "word": "国际现货黄金价格已上涨63%",
+      "onboard_time": 1739758759,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 489378,
       "num": 489378,
       "word": "高中收取723元作业打印费认定违规",
@@ -227,28 +259,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 469057,
-      "num": 649558,
-      "word": "国际现货黄金价格已上涨63%",
-      "onboard_time": 1739758759,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
       "raw_hot": 463785,
       "num": 463785,
       "word": "官方再通报高中收取723元打印费",
       "onboard_time": 1739747295,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 410021,
-      "num": 410021,
-      "word": "难哄cp海报是两种爱情",
-      "onboard_time": 1739761638,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 400146,
@@ -315,14 +331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 350896,
-      "num": 350896,
-      "word": "腾讯市值暴涨3000亿",
-      "onboard_time": 1739761219,
-      "rank": 32,
-      "category": "财经"
-    },
-    {
       "raw_hot": 348049,
       "num": 293949,
       "word": "冯小刚曾向饺子发出邀约",
@@ -361,6 +369,14 @@
       "onboard_time": 1739756240,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 297444,
+      "num": 364007,
+      "word": "金赛纶去世和金秀贤生日是同一天",
+      "onboard_time": 1739763439,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 284384,
@@ -451,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 239074,
+      "num": 239074,
+      "word": "金赛纶被曝生前重度抑郁",
+      "onboard_time": 1739763259,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238217,
       "num": 176292,
       "word": "哪吒2断层领跑",
@@ -539,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195519,
+      "num": 454535,
+      "word": "67岁大爷爆改龙爹敖光",
+      "onboard_time": 1739763019,
+      "rank": 14,
+      "category": "民生新闻,电影"
+    },
+    {
       "raw_hot": 191475,
       "num": 191475,
       "word": "小演员一口辣条音把申小豹配活了",
@@ -579,6 +611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 179652,
+      "num": 179652,
+      "word": "女子多次楼道烧香倒灰撒冥纸邻居崩溃",
+      "onboard_time": 1739763561,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179425,
       "num": 179425,
       "word": "韩剧善意的竞争",
@@ -592,6 +632,14 @@
       "word": "北京中小学体育八条",
       "onboard_time": 1739755339,
       "rank": 9,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 173462,
+      "num": 201251,
+      "word": "公务员考试",
+      "onboard_time": 1739763620,
+      "rank": 29,
       "category": "教育"
     },
     {
@@ -731,6 +779,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 136475,
+      "num": 1062241,
+      "word": "多地以旧换新多重buff拉满",
+      "onboard_time": 1739761638,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131226,
       "num": 131226,
       "word": "虞书欣何与双轨拍摄物料路透",
@@ -827,6 +883,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 116639,
+      "num": 116639,
+      "word": "仙逆最新一集战天道名场面",
+      "onboard_time": 1739762660,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 115096,
       "num": 115096,
       "word": "特6666的火车站广播",
@@ -841,14 +905,6 @@
       "onboard_time": 1739715502,
       "rank": 40,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 112449,
-      "num": 112449,
-      "word": "仙逆最新一集战天道名场面",
-      "onboard_time": 1739762660,
-      "rank": 46,
-      "category": "动漫"
     },
     {
       "raw_hot": 110419,
@@ -875,12 +931,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 99682,
-      "num": 865332,
-      "word": "多地以旧换新多重buff拉满",
-      "onboard_time": 1739761638,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 101350,
+      "num": 611885,
+      "word": "光线传媒节后累计涨超300%",
+      "onboard_time": 1739761701,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 95013,
@@ -907,6 +963,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 90612,
+      "num": 373638,
+      "word": "邓为新剧人设美强惨",
+      "onboard_time": 1739763199,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86501,
       "num": 102589,
       "word": "徐明浩的A来了",
@@ -915,20 +979,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 86031,
-      "num": 611885,
-      "word": "光线传媒节后累计涨超300%",
-      "onboard_time": 1739761701,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 81548,
       "num": 102321,
       "word": "王嘉尔回归状态",
       "onboard_time": 1739715982,
       "rank": 45,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 76003,
+      "num": 460662,
+      "word": "奥尼尔队晋级决赛",
+      "onboard_time": 1739763019,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 75409,
+      "num": 137158,
+      "word": "今天穿什么",
+      "onboard_time": 1739763620,
+      "rank": 39,
+      "category": "时尚"
     },
     {
       "raw_hot": 75330,
@@ -1017,6 +1089,14 @@
       "onboard_time": 1739761578,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 58616,
+      "num": 140037,
+      "word": "跟着贾冰学省钱",
+      "onboard_time": 1739763259,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 56346,

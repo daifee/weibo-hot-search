@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739762945545,
+  "endTime": 1739763777297,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1291,6 +1291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1856441,
+      "num": 1856441,
+      "word": "哪吒2冲顶全球动画榜",
+      "onboard_time": 1739759359,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1855847,
       "num": 1855847,
       "word": "接哪吒后外包公司离职率陡升",
@@ -1656,14 +1664,6 @@
       "word": "全球票房",
       "onboard_time": 1739339540,
       "rank": 31,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 1650894,
-      "num": 1650894,
-      "word": "哪吒2冲顶全球动画榜",
-      "onboard_time": 1739759359,
-      "rank": 6,
       "category": "电影"
     },
     {
@@ -3227,6 +3227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1104088,
+      "num": 1104088,
+      "word": "光线传媒5分钟巨震40%",
+      "onboard_time": 1739761459,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1103201,
       "num": 1103201,
       "word": "蒯曼vs王曼昱",
@@ -3441,6 +3449,14 @@
       "onboard_time": 1738671864,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1059415,
+      "num": 1059415,
+      "word": "哪吒2票房120亿了",
+      "onboard_time": 1739762418,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 1057067,
@@ -4819,14 +4835,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 837397,
-      "num": 837397,
-      "word": "光线传媒5分钟巨震40%",
-      "onboard_time": 1739761459,
-      "rank": 41,
-      "category": "财经"
-    },
-    {
       "raw_hot": 835997,
       "num": 835997,
       "word": "酒后小区挪车被认定醉驾司机起诉交警",
@@ -5268,7 +5276,7 @@
     },
     {
       "raw_hot": 783120,
-      "num": 274656,
+      "num": 363156,
       "word": "女子取出9岁存了24年的压岁钱",
       "onboard_time": 1739749578,
       "rank": 20,
@@ -8043,6 +8051,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 559692,
+      "num": 470078,
+      "word": "难哄cp海报是两种爱情",
+      "onboard_time": 1739761638,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 558985,
       "num": 251175,
       "word": "周扬青晒妈妈买的衣服",
@@ -8169,6 +8185,14 @@
       "onboard_time": 1739592859,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 553501,
+      "num": 553501,
+      "word": "腾讯市值暴涨3000亿",
+      "onboard_time": 1739761219,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 553094,
@@ -9227,6 +9251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 502190,
+      "num": 649558,
+      "word": "国际现货黄金价格已上涨63%",
+      "onboard_time": 1739758759,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 501253,
       "num": 501253,
       "word": "哪吒2海外首映有观众哭花妆",
@@ -9993,14 +10025,6 @@
       "onboard_time": 1739003424,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 469057,
-      "num": 649558,
-      "word": "国际现货黄金价格已上涨63%",
-      "onboard_time": 1739758759,
-      "rank": 19,
-      "category": "财经"
     },
     {
       "raw_hot": 468808,
@@ -11329,14 +11353,6 @@
       "onboard_time": 1739470033,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 410021,
-      "num": 410021,
-      "word": "难哄cp海报是两种爱情",
-      "onboard_time": 1739761638,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 409570,
@@ -13057,14 +13073,6 @@
       "onboard_time": 1739330000,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 350896,
-      "num": 350896,
-      "word": "腾讯市值暴涨3000亿",
-      "onboard_time": 1739761219,
-      "rank": 32,
-      "category": "财经"
     },
     {
       "raw_hot": 350894,
@@ -15320,6 +15328,14 @@
       "word": "张云雷称在家24小时被私生饭监控",
       "onboard_time": 1739078061,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 297444,
+      "num": 364007,
+      "word": "金赛纶去世和金秀贤生日是同一天",
+      "onboard_time": 1739763439,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -18641,6 +18657,14 @@
       "onboard_time": 1739419821,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 239074,
+      "num": 239074,
+      "word": "金赛纶被曝生前重度抑郁",
+      "onboard_time": 1739763259,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 238959,
@@ -24059,6 +24083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195519,
+      "num": 454535,
+      "word": "67岁大爷爆改龙爹敖光",
+      "onboard_time": 1739763019,
+      "rank": 14,
+      "category": "民生新闻,电影"
+    },
+    {
       "raw_hot": 195412,
       "num": 195412,
       "word": "因为一首OST追完一部剧",
@@ -26915,6 +26947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179652,
+      "num": 179652,
+      "word": "女子多次楼道烧香倒灰撒冥纸邻居崩溃",
+      "onboard_time": 1739763561,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179650,
       "num": 202316,
       "word": "这波金价缘何上涨",
@@ -27841,6 +27881,14 @@
       "onboard_time": 1739337441,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173462,
+      "num": 201251,
+      "word": "公务员考试",
+      "onboard_time": 1739763620,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 173446,
@@ -34275,6 +34323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136475,
+      "num": 1062241,
+      "word": "多地以旧换新多重buff拉满",
+      "onboard_time": 1739761638,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136411,
       "num": 190422,
       "word": "接王长田事业运",
@@ -37475,6 +37531,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 116639,
+      "num": 116639,
+      "word": "仙逆最新一集战天道名场面",
+      "onboard_time": 1739762660,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 116559,
       "num": 116559,
       "word": "世界之外情人节",
@@ -38185,14 +38249,6 @@
       "onboard_time": 1738676305,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 112449,
-      "num": 112449,
-      "word": "仙逆最新一集战天道名场面",
-      "onboard_time": 1739762660,
-      "rank": 46,
-      "category": "动漫"
     },
     {
       "raw_hot": 112381,
@@ -39891,6 +39947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101350,
+      "num": 611885,
+      "word": "光线传媒节后累计涨超300%",
+      "onboard_time": 1739761701,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 101268,
       "num": 259031,
       "word": "智界R7累计大定突破70000台",
@@ -40185,14 +40249,6 @@
       "onboard_time": 1738703171,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 99682,
-      "num": 865332,
-      "word": "多地以旧换新多重buff拉满",
-      "onboard_time": 1739761638,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99651,
@@ -41139,6 +41195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90612,
+      "num": 373638,
+      "word": "邓为新剧人设美强惨",
+      "onboard_time": 1739763199,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90609,
       "num": 247347,
       "word": "我不懂车还不懂爱吗",
@@ -41481,14 +41545,6 @@
       "onboard_time": 1739550500,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 86031,
-      "num": 611885,
-      "word": "光线传媒节后累计涨超300%",
-      "onboard_time": 1739761701,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 85997,
@@ -42531,6 +42587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76003,
+      "num": 460662,
+      "word": "奥尼尔队晋级决赛",
+      "onboard_time": 1739763019,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75939,
       "num": 131986,
       "word": "林诗栋回应男双首搭王楚钦",
@@ -42561,6 +42625,14 @@
       "onboard_time": 1738582531,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75409,
+      "num": 137158,
+      "word": "今天穿什么",
+      "onboard_time": 1739763620,
+      "rank": 39,
+      "category": "时尚"
     },
     {
       "raw_hot": 75375,
@@ -44321,6 +44393,14 @@
       "onboard_time": 1739273661,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 58616,
+      "num": 140037,
+      "word": "跟着贾冰学省钱",
+      "onboard_time": 1739763259,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 58519,

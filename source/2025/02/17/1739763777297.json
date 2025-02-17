@@ -1,0 +1,410 @@
+{
+  "runTime": 1739763777297,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1856441,
+        "num": 1856441,
+        "word": "哪吒2冲顶全球动画榜",
+        "onboard_time": 1739759359,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1104088,
+        "num": 1104088,
+        "word": "光线传媒5分钟巨震40%",
+        "onboard_time": 1739761459,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 136475,
+        "num": 1062241,
+        "word": "多地以旧换新多重buff拉满",
+        "onboard_time": 1739761638,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1059415,
+        "num": 1059415,
+        "word": "哪吒2票房120亿了",
+        "onboard_time": 1739762418,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 773145,
+        "num": 773145,
+        "word": "61岁母亲飞机上猝死女儿发声",
+        "onboard_time": 1739751139,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 553501,
+        "num": 553501,
+        "word": "腾讯市值暴涨3000亿",
+        "onboard_time": 1739761219,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 964962,
+        "num": 537526,
+        "word": "光线传媒",
+        "onboard_time": 1739757078,
+        "rank": 6,
+        "category": "电影,财经"
+      },
+      {
+        "raw_hot": 790994,
+        "num": 521597,
+        "word": "饺子导演从来不会说不行不对",
+        "onboard_time": 1739757618,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 592029,
+        "num": 513791,
+        "word": "哪吒票房",
+        "onboard_time": 1739752459,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 502190,
+        "num": 502190,
+        "word": "国际现货黄金价格已上涨63%",
+        "onboard_time": 1739758759,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 773721,
+        "num": 496652,
+        "word": "吴敬平删博",
+        "onboard_time": 1739760919,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 590958,
+        "num": 483699,
+        "word": "哪吒2燃爆北美五星评论霸屏",
+        "onboard_time": 1739749157,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 559692,
+        "num": 470078,
+        "word": "难哄cp海报是两种爱情",
+        "onboard_time": 1739761638,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76003,
+        "num": 460662,
+        "word": "奥尼尔队晋级决赛",
+        "onboard_time": 1739763019,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195519,
+        "num": 454535,
+        "word": "67岁大爷爆改龙爹敖光",
+        "onboard_time": 1739763019,
+        "rank": 14,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 447279,
+        "num": 447279,
+        "word": "多企业系统接入DeepSeek",
+        "onboard_time": 1739752820,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 475563,
+        "num": 426872,
+        "word": "丈夫回应妻子疑带三月大女儿跳江",
+        "onboard_time": 1739756178,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397674,
+        "num": 397674,
+        "word": "公积金三大调整方向持续助力安居",
+        "onboard_time": 1739720662,
+        "rank": 17,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 90612,
+        "num": 373638,
+        "word": "邓为新剧人设美强惨",
+        "onboard_time": 1739763199,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297444,
+        "num": 364007,
+        "word": "金赛纶去世和金秀贤生日是同一天",
+        "onboard_time": 1739763439,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 685568,
+        "num": 363156,
+        "word": "女子取出9岁存了24年的压岁钱",
+        "onboard_time": 1739749578,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356157,
+        "num": 356157,
+        "word": "柯淳 费加罗",
+        "onboard_time": 1739756120,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 345929,
+        "num": 345929,
+        "word": "玻璃做的裂空爪",
+        "onboard_time": 1739755459,
+        "rank": 22,
+        "category": "电影,美妆"
+      },
+      {
+        "raw_hot": 305097,
+        "num": 305097,
+        "word": "近一千辆车45度角为120让路",
+        "onboard_time": 1739753841,
+        "rank": 23,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 335375,
+        "num": 284669,
+        "word": "李惠利吻戏",
+        "onboard_time": 1739750119,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244313,
+        "num": 244313,
+        "word": "每天睡够8小时白天为何还犯困",
+        "onboard_time": 1739718262,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 239074,
+        "num": 239074,
+        "word": "金赛纶被曝生前重度抑郁",
+        "onboard_time": 1739763259,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219034,
+        "num": 219034,
+        "word": "全红婵评论区王楚钦表情包满天飞",
+        "onboard_time": 1739756240,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211319,
+        "num": 211319,
+        "word": "尹子维亲徐冬冬脸",
+        "onboard_time": 1739761701,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173462,
+        "num": 201251,
+        "word": "公务员考试",
+        "onboard_time": 1739763620,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 200989,
+        "num": 200989,
+        "word": "何某某发表数百条攻击陈丽君博文",
+        "onboard_time": 1739755938,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196543,
+        "num": 196543,
+        "word": "尹肖删博",
+        "onboard_time": 1739757378,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194862,
+        "num": 194862,
+        "word": "哪吒",
+        "onboard_time": 1739750058,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187543,
+        "num": 187543,
+        "word": "难哄",
+        "onboard_time": 1739760019,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179652,
+        "num": 179652,
+        "word": "女子多次楼道烧香倒灰撒冥纸邻居崩溃",
+        "onboard_time": 1739763561,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144027,
+        "num": 144027,
+        "word": "起底独处30天赢40万自律挑战骗局",
+        "onboard_time": 1739760499,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230788,
+        "num": 141895,
+        "word": "金赛纶去世",
+        "onboard_time": 1739707158,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58616,
+        "num": 140037,
+        "word": "跟着贾冰学省钱",
+        "onboard_time": 1739763259,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139108,
+        "num": 139108,
+        "word": "美队4中国预测票房不足2亿",
+        "onboard_time": 1739745433,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 75409,
+        "num": 137158,
+        "word": "今天穿什么",
+        "onboard_time": 1739763620,
+        "rank": 39,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 137001,
+        "num": 137001,
+        "word": "成毅 蜜丝婷",
+        "onboard_time": 1739760139,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135973,
+        "num": 135973,
+        "word": "法国小伙来华捐622张日本侵华照片",
+        "onboard_time": 1739719402,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138074,
+        "num": 135687,
+        "word": "光线传媒股价巨震",
+        "onboard_time": 1739762000,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 101350,
+        "num": 135275,
+        "word": "光线传媒节后累计涨超300%",
+        "onboard_time": 1739761701,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 135066,
+        "num": 135066,
+        "word": "权志龙看眼泪女王看哭了",
+        "onboard_time": 1739755579,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130789,
+        "num": 130789,
+        "word": "詹姆斯退出全明星",
+        "onboard_time": 1739751679,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124083,
+        "num": 124083,
+        "word": "深圳一商场惊现哪吒通天梯",
+        "onboard_time": 1739757378,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122776,
+        "num": 122776,
+        "word": "NBA",
+        "onboard_time": 1739762540,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116639,
+        "num": 116639,
+        "word": "仙逆最新一集战天道名场面",
+        "onboard_time": 1739762660,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 115067,
+        "num": 115067,
+        "word": "光线传媒市值突破千亿",
+        "onboard_time": 1739762000,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#切实让特权现象和腐败问题无所遁形#"
+    }
+  }
+}
