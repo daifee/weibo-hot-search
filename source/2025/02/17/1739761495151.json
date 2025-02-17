@@ -1,0 +1,410 @@
+{
+  "runTime": 1739761495151,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2200902,
+        "num": 2200902,
+        "word": "多企业系统接入DeepSeek",
+        "onboard_time": 1739752820,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1291681,
+        "num": 1291681,
+        "word": "光线传媒",
+        "onboard_time": 1739757078,
+        "rank": 1,
+        "category": "电影,财经"
+      },
+      {
+        "raw_hot": 37653,
+        "num": 1131740,
+        "word": "60秒看中国智造齐聚一堂",
+        "onboard_time": 1739708907,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1034543,
+        "num": 1034543,
+        "word": "哪吒2冲顶全球动画榜",
+        "onboard_time": 1739759359,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 731818,
+        "num": 731818,
+        "word": "61岁母亲飞机上猝死女儿发声",
+        "onboard_time": 1739751139,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 426285,
+        "num": 426285,
+        "word": "公积金三大调整方向持续助力安居",
+        "onboard_time": 1739720662,
+        "rank": 5,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 850558,
+        "num": 401603,
+        "word": "玻璃做的裂空爪",
+        "onboard_time": 1739755459,
+        "rank": 6,
+        "category": "电影,美妆"
+      },
+      {
+        "raw_hot": 822692,
+        "num": 399020,
+        "word": "饺子导演从来不会说不行不对",
+        "onboard_time": 1739757618,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 372292,
+        "num": 372292,
+        "word": "近一千辆车45度角为120让路",
+        "onboard_time": 1739753841,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 327285,
+        "num": 327285,
+        "word": "国际现货黄金价格已上涨63%",
+        "onboard_time": 1739758759,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 594845,
+        "num": 322895,
+        "word": "丈夫回应妻子疑带三月大女儿跳江",
+        "onboard_time": 1739756178,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 571545,
+        "num": 309852,
+        "word": "哪吒票房",
+        "onboard_time": 1739752459,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 523918,
+        "num": 309735,
+        "word": "柯淳 费加罗",
+        "onboard_time": 1739756120,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 173862,
+        "num": 295762,
+        "word": "北京中小学体育八条",
+        "onboard_time": 1739755339,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 83815,
+        "num": 291045,
+        "word": "起底独处30天赢40万自律挑战骗局",
+        "onboard_time": 1739760499,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 534535,
+        "num": 283341,
+        "word": "哪吒2燃爆北美五星评论霸屏",
+        "onboard_time": 1739749157,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 497733,
+        "num": 270659,
+        "word": "尹肖删博",
+        "onboard_time": 1739757378,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 362942,
+        "num": 262591,
+        "word": "李惠利吻戏",
+        "onboard_time": 1739750119,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257195,
+        "num": 257195,
+        "word": "吴敬平删博",
+        "onboard_time": 1739760919,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255139,
+        "num": 255139,
+        "word": "法国小伙来华捐622张日本侵华照片",
+        "onboard_time": 1739719402,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 684789,
+        "num": 253882,
+        "word": "女子取出9岁存了24年的压岁钱",
+        "onboard_time": 1739749578,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278707,
+        "num": 251819,
+        "word": "全红婵评论区王楚钦表情包满天飞",
+        "onboard_time": 1739756240,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265617,
+        "num": 249739,
+        "word": "每天睡够8小时白天为何还犯困",
+        "onboard_time": 1739718262,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 237640,
+        "num": 245558,
+        "word": "A股",
+        "onboard_time": 1739759599,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 245182,
+        "num": 245182,
+        "word": "何某某发表数百条攻击陈丽君博文",
+        "onboard_time": 1739755938,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239206,
+        "num": 239206,
+        "word": "金赛纶去世",
+        "onboard_time": 1739707158,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221912,
+        "num": 221912,
+        "word": "权志龙看眼泪女王看哭了",
+        "onboard_time": 1739755579,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214005,
+        "num": 214005,
+        "word": "人民网评重庆燃气屡次点燃群众火气",
+        "onboard_time": 1739757618,
+        "rank": 27,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 213129,
+        "num": 213129,
+        "word": "哪吒",
+        "onboard_time": 1739750058,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 208818,
+        "num": 208818,
+        "word": "难哄",
+        "onboard_time": 1739760019,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172117,
+        "num": 172117,
+        "word": "成毅 蜜丝婷",
+        "onboard_time": 1739760139,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160640,
+        "num": 160640,
+        "word": "K总官宣与女友结婚",
+        "onboard_time": 1739719340,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 158365,
+        "num": 158365,
+        "word": "腾讯市值暴涨3000亿",
+        "onboard_time": 1739761219,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 152210,
+        "num": 152210,
+        "word": "小演员一口辣条音把申小豹配活了",
+        "onboard_time": 1739754440,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149940,
+        "num": 149940,
+        "word": "詹姆斯退出全明星",
+        "onboard_time": 1739751679,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146939,
+        "num": 146939,
+        "word": "美队4中国预测票房不足2亿",
+        "onboard_time": 1739745433,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146193,
+        "num": 146193,
+        "word": "金赛纶想要的只是第二次机会",
+        "onboard_time": 1739724256,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143782,
+        "num": 143782,
+        "word": "深圳一商场惊现哪吒通天梯",
+        "onboard_time": 1739757378,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139528,
+        "num": 139528,
+        "word": "真的有T6666次列车",
+        "onboard_time": 1739756658,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138579,
+        "num": 138579,
+        "word": "全明星",
+        "onboard_time": 1739759060,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137585,
+        "num": 137585,
+        "word": "深圳地铁11号线",
+        "onboard_time": 1739755459,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10021,
+        "num": 137468,
+        "word": "光线传媒5分钟巨震40%",
+        "onboard_time": 1739761459,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 137452,
+        "num": 137452,
+        "word": "和DeepSeek交流要提供具体细节",
+        "onboard_time": 1739761099,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131226,
+        "num": 131226,
+        "word": "虞书欣何与双轨拍摄物料路透",
+        "onboard_time": 1739756478,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129464,
+        "num": 129464,
+        "word": "杨紫李祯盘发路透",
+        "onboard_time": 1739756298,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122901,
+        "num": 122901,
+        "word": "高中收取723元作业打印费认定违规",
+        "onboard_time": 1739751378,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119443,
+        "num": 119443,
+        "word": "曝光12亿贪腐案印度记者惨死化粪池",
+        "onboard_time": 1739711907,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 118940,
+        "num": 118940,
+        "word": "燕云十六声",
+        "onboard_time": 1739752881,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117947,
+        "num": 117947,
+        "word": "这才是修仙剧男主该有的仪态",
+        "onboard_time": 1739714002,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115077,
+        "num": 115077,
+        "word": "未成年拍举牌视频最便宜3元一条",
+        "onboard_time": 1739747235,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#绿水青山瞰我家#"
+    }
+  }
+}

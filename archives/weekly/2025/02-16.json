@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739760934357,
+  "endTime": 1739761495151,
   "band_list": [
     {
       "raw_hot": 17381826,
@@ -57,6 +57,14 @@
       "onboard_time": 1739685919,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2200902,
+      "num": 2200902,
+      "word": "多企业系统接入DeepSeek",
+      "onboard_time": 1739752820,
+      "rank": 0,
+      "category": "互联网"
     },
     {
       "raw_hot": 1989548,
@@ -171,6 +179,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1291681,
+      "num": 1291681,
+      "word": "光线传媒",
+      "onboard_time": 1739757078,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1263880,
       "num": 1263880,
       "word": "公积金三大调整方向持续助力安居",
@@ -235,18 +251,18 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1106928,
-      "num": 1106928,
-      "word": "光线传媒",
-      "onboard_time": 1739757078,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 1051486,
       "num": 392576,
       "word": "哪吒2破115亿",
       "onboard_time": 1739662755,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1034543,
+      "num": 1034543,
+      "word": "哪吒2冲顶全球动画榜",
+      "onboard_time": 1739759359,
       "rank": 6,
       "category": "电影"
     },
@@ -363,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 822692,
+      "num": 416951,
+      "word": "饺子导演从来不会说不行不对",
+      "onboard_time": 1739757618,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 817700,
       "num": 453811,
       "word": "曝光12亿贪腐案印度记者惨死化粪池",
@@ -387,16 +411,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 786843,
-      "num": 427112,
-      "word": "哪吒2冲顶全球动画榜",
-      "onboard_time": 1739759359,
-      "rank": 6,
-      "category": "电影"
-    },
-    {
       "raw_hot": 783120,
-      "num": 233725,
+      "num": 253882,
       "word": "女子取出9岁存了24年的压岁钱",
       "onboard_time": 1739749578,
       "rank": 20,
@@ -449,14 +465,6 @@
       "onboard_time": 1739661314,
       "rank": 20,
       "category": "民生新闻,电影"
-    },
-    {
-      "raw_hot": 717612,
-      "num": 416951,
-      "word": "饺子导演从来不会说不行不对",
-      "onboard_time": 1739757618,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 697868,
@@ -627,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 571545,
+      "num": 392682,
+      "word": "哪吒票房",
+      "onboard_time": 1739752459,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 556992,
       "num": 420213,
       "word": "柯淳 费加罗",
@@ -681,14 +697,6 @@
       "onboard_time": 1739630242,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 539814,
-      "num": 392682,
-      "word": "哪吒票房",
-      "onboard_time": 1739752459,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 538019,
@@ -1211,6 +1219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 327285,
+      "num": 327285,
+      "word": "国际现货黄金价格已上涨63%",
+      "onboard_time": 1739758759,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 323019,
       "num": 422058,
       "word": "可以把冷空气撤回一下吗",
@@ -1260,7 +1276,7 @@
     },
     {
       "raw_hot": 306486,
-      "num": 233466,
+      "num": 251819,
       "word": "全红婵评论区王楚钦表情包满天飞",
       "onboard_time": 1739756240,
       "rank": 34,
@@ -1443,6 +1459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257195,
+      "num": 257195,
+      "word": "吴敬平删博",
+      "onboard_time": 1739760919,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 256925,
       "num": 239370,
       "word": "金智秀圈内好友名单",
@@ -1492,7 +1516,7 @@
     },
     {
       "raw_hot": 253402,
-      "num": 232858,
+      "num": 245182,
       "word": "何某某发表数百条攻击陈丽君博文",
       "onboard_time": 1739755938,
       "rank": 22,
@@ -1577,14 +1601,6 @@
       "onboard_time": 1739682739,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 233752,
-      "num": 233752,
-      "word": "国际现货黄金价格已上涨63%",
-      "onboard_time": 1739758759,
-      "rank": 19,
-      "category": "财经"
     },
     {
       "raw_hot": 232792,
@@ -1699,6 +1715,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 214005,
+      "num": 214005,
+      "word": "人民网评重庆燃气屡次点燃群众火气",
+      "onboard_time": 1739757618,
+      "rank": 32,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 213129,
+      "num": 213129,
+      "word": "哪吒",
+      "onboard_time": 1739750058,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 210302,
       "num": 210302,
       "word": "张超发声",
@@ -1731,12 +1763,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 208710,
-      "num": 208710,
-      "word": "人民网评重庆燃气屡次点燃群众火气",
-      "onboard_time": 1739757618,
-      "rank": 32,
-      "category": "舆论监督"
+      "raw_hot": 208818,
+      "num": 208818,
+      "word": "难哄",
+      "onboard_time": 1739667738,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 208080,
@@ -1929,22 +1961,6 @@
       "onboard_time": 1739675058,
       "rank": 30,
       "category": "科学科普,电影"
-    },
-    {
-      "raw_hot": 193221,
-      "num": 193221,
-      "word": "哪吒",
-      "onboard_time": 1739750058,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 193181,
-      "num": 193181,
-      "word": "难哄",
-      "onboard_time": 1739667738,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 192458,
@@ -2163,14 +2179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 177203,
-      "num": 177203,
-      "word": "吴敬平删博",
-      "onboard_time": 1739760919,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 177029,
       "num": 177029,
       "word": "邝玲玲精品购物指南封面",
@@ -2185,6 +2193,14 @@
       "onboard_time": 1739710885,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173862,
+      "num": 396729,
+      "word": "北京中小学体育八条",
+      "onboard_time": 1739755339,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 173572,
@@ -2321,6 +2337,14 @@
       "onboard_time": 1739716344,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158365,
+      "num": 158365,
+      "word": "腾讯市值暴涨3000亿",
+      "onboard_time": 1739761219,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 157712,
@@ -2563,12 +2587,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 138579,
+      "num": 138579,
+      "word": "全明星",
+      "onboard_time": 1739759060,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137782,
       "num": 137782,
       "word": "海外观众说给哪吒2打11分",
       "onboard_time": 1739722217,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 137452,
+      "num": 137452,
+      "word": "和DeepSeek交流要提供具体细节",
+      "onboard_time": 1739761099,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 137275,
@@ -2644,11 +2684,19 @@
     },
     {
       "raw_hot": 131979,
-      "num": 1109996,
+      "num": 1131740,
       "word": "60秒看中国智造齐聚一堂",
       "onboard_time": 1739708907,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 131226,
+      "num": 131226,
+      "word": "虞书欣何与双轨拍摄物料路透",
+      "onboard_time": 1739756478,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 131213,
@@ -2777,14 +2825,6 @@
       "onboard_time": 1739634561,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125306,
-      "num": 125306,
-      "word": "虞书欣何与双轨拍摄物料路透",
-      "onboard_time": 1739756478,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 125212,
@@ -2931,14 +2971,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 115066,
-      "num": 115066,
-      "word": "全明星",
-      "onboard_time": 1739759060,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 114818,
       "num": 114818,
       "word": "时代少年团上楼教学法",
@@ -2953,14 +2985,6 @@
       "onboard_time": 1739718321,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 114617,
-      "num": 396729,
-      "word": "北京中小学体育八条",
-      "onboard_time": 1739755339,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 113763,
@@ -3251,6 +3275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 83815,
+      "num": 353310,
+      "word": "起底独处30天赢40万自律挑战骗局",
+      "onboard_time": 1739760499,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82484,
       "num": 82484,
       "word": "让樊振东陈梦马龙回归赛场",
@@ -3505,14 +3537,6 @@
       "onboard_time": 1739694019,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 41795,
-      "num": 353310,
-      "word": "起底独处30天赢40万自律挑战骗局",
-      "onboard_time": 1739760499,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 40575,
@@ -3801,6 +3825,14 @@
       "onboard_time": 1739700858,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 10021,
+      "num": 137468,
+      "word": "光线传媒5分钟巨震40%",
+      "onboard_time": 1739761459,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 6998,
