@@ -1,6 +1,6 @@
 {
   "startTime": 1739809696665,
-  "endTime": 1739827236665,
+  "endTime": 1739828137607,
   "band_list": [
     {
       "raw_hot": 1442655,
@@ -403,6 +403,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 58330,
+      "num": 58330,
+      "word": "父亲透露金赛纶遭受严重心理创伤",
+      "onboard_time": 1739822050,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57935,
       "num": 57935,
       "word": "香港人为什么这么喜欢雇菲佣",
@@ -441,14 +449,6 @@
       "onboard_time": 1739799080,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 47040,
-      "num": 35925,
-      "word": "父亲透露金赛纶遭受严重心理创伤",
-      "onboard_time": 1739822050,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 44276,
@@ -491,20 +491,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34415,
+      "num": 17134,
+      "word": "沈梦辰杜海涛经历9年爱情长跑",
+      "onboard_time": 1739825951,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 24018,
       "num": 24018,
       "word": "树下有片红房子性价比",
       "onboard_time": 1739817731,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 22847,
-      "num": 16617,
-      "word": "沈梦辰杜海涛经历9年爱情长跑",
-      "onboard_time": 1739825951,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 21778,
@@ -539,16 +539,16 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 16430,
-      "num": 16430,
+      "raw_hot": 16938,
+      "num": 16938,
       "word": "特朗普说美国这3周进步多于4年",
       "onboard_time": 1739823790,
       "rank": 49,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 15265,
-      "num": 15265,
+      "raw_hot": 16749,
+      "num": 16749,
       "word": "泰国共享诈骗团伙IP地址",
       "onboard_time": 1739825230,
       "rank": 37,
