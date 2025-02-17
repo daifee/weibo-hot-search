@@ -1,6 +1,6 @@
 {
   "startTime": 1739723108252,
-  "endTime": 1739791231966,
+  "endTime": 1739792162804,
   "band_list": [
     {
       "raw_hot": 9177808,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1368950,
-      "num": 314303,
+      "num": 315191,
       "word": "蒋欣评论区回应为何不结婚",
       "onboard_time": 1739785100,
       "rank": 15,
@@ -123,20 +123,20 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 1221220,
+      "num": 467823,
+      "word": "哪吒领奖导播切镜头给敖丙",
+      "onboard_time": 1739789542,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1200437,
       "num": 295729,
       "word": "93岁老人犯强奸罪被判15年",
       "onboard_time": 1739774420,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1197053,
-      "num": 435289,
-      "word": "哪吒领奖导播切镜头给敖丙",
-      "onboard_time": 1739789542,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 1167967,
@@ -355,6 +355,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 674809,
+      "num": 314293,
+      "word": "欧阳震华口误",
+      "onboard_time": 1739787621,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 668291,
       "num": 668291,
       "word": "嘉行创始人被冻结217万股权",
@@ -403,16 +411,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 597668,
-      "num": 314293,
-      "word": "欧阳震华口误",
-      "onboard_time": 1739787621,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 593115,
+      "num": 348763,
+      "word": "刘浩存柏林电影节黑天鹅造型",
+      "onboard_time": 1739789300,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 580437,
-      "num": 262413,
+      "num": 263784,
       "word": "患癌公公给儿媳红包里塞催生纸条",
       "onboard_time": 1739786780,
       "rank": 23,
@@ -441,6 +449,14 @@
       "onboard_time": 1739764939,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 561023,
+      "num": 309642,
+      "word": "医生你的手术刀是裂空爪啊",
+      "onboard_time": 1739790381,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 559692,
@@ -499,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 535417,
+      "num": 267176,
+      "word": "曝韦雪今年直播收入已超9亿",
+      "onboard_time": 1739790381,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 519749,
       "num": 453388,
       "word": "浪姐6一公分组",
@@ -529,14 +553,6 @@
       "onboard_time": 1739713824,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 515519,
-      "num": 212153,
-      "word": "曝韦雪今年直播收入已超9亿",
-      "onboard_time": 1739790381,
-      "rank": 21,
-      "category": "网红"
     },
     {
       "raw_hot": 513052,
@@ -609,14 +625,6 @@
       "onboard_time": 1739773220,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 425670,
-      "num": 348763,
-      "word": "刘浩存柏林电影节黑天鹅造型",
-      "onboard_time": 1739789300,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 401865,
@@ -763,20 +771,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 345342,
+      "num": 260937,
+      "word": "哪吒2突破121亿",
+      "onboard_time": 1739790319,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 343982,
       "num": 260891,
       "word": "这俩人亲嘴晚上得失眠吧",
       "onboard_time": 1739787440,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 333220,
-      "num": 209202,
-      "word": "医生你的手术刀是裂空爪啊",
-      "onboard_time": 1739790381,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 332708,
@@ -865,6 +873,14 @@
       "onboard_time": 1739763439,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 288041,
+      "num": 318432,
+      "word": "不仅有国补还有省补",
+      "onboard_time": 1739789480,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 286837,
@@ -1075,20 +1091,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 250830,
-      "num": 209497,
-      "word": "哪吒2突破121亿",
-      "onboard_time": 1739790319,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 247906,
       "num": 234392,
       "word": "六姊妹 嫁给对的人是什么感觉",
       "onboard_time": 1739780121,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 247584,
+      "num": 247584,
+      "word": "香港人为什么这么喜欢雇菲佣",
+      "onboard_time": 1739791820,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 246594,
@@ -1161,6 +1177,14 @@
       "onboard_time": 1739761701,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 232807,
+      "num": 232807,
+      "word": "蜂蜜小面包不是韩国的",
+      "onboard_time": 1739791100,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 230743,
@@ -1283,6 +1307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 209040,
+      "num": 255137,
+      "word": "徐睿知悼念金赛纶",
+      "onboard_time": 1739791640,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208653,
       "num": 208653,
       "word": "刘亦菲羽毛头",
@@ -1291,12 +1323,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 208264,
-      "num": 208264,
-      "word": "不仅有国补还有省补",
-      "onboard_time": 1739789480,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 208400,
+      "num": 262012,
+      "word": "刘浩存红毯生图",
+      "onboard_time": 1739791280,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 207040,
@@ -1321,6 +1353,14 @@
       "onboard_time": 1739756298,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200006,
+      "num": 200006,
+      "word": "徐明浩BamBam四国语言聊天",
+      "onboard_time": 1739791520,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 199668,
@@ -1355,6 +1395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 196914,
+      "num": 196914,
+      "word": "有冒充饺子导演账号吸粉6万后卖出",
+      "onboard_time": 1739790020,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196841,
       "num": 196841,
       "word": "种地吧直播",
@@ -1377,6 +1425,14 @@
       "onboard_time": 1739786181,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 193455,
+      "num": 193455,
+      "word": "六姊妹二姐夫癌症晚期",
+      "onboard_time": 1739790381,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 192383,
@@ -1435,14 +1491,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 188177,
-      "num": 188177,
-      "word": "有冒充饺子导演账号吸粉6万后卖出",
-      "onboard_time": 1739790020,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 187870,
       "num": 185359,
       "word": "美队4中国预测票房不足2亿",
@@ -1457,14 +1505,6 @@
       "onboard_time": 1739747415,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 186215,
-      "num": 186215,
-      "word": "六姊妹二姐夫癌症晚期",
-      "onboard_time": 1739790381,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 181225,
@@ -1545,6 +1585,14 @@
       "onboard_time": 1739763620,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 172454,
+      "num": 172454,
+      "word": "想飞的女孩",
+      "onboard_time": 1739791160,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 171348,
@@ -1843,14 +1891,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 143820,
-      "num": 143820,
-      "word": "蜂蜜小面包不是韩国的",
-      "onboard_time": 1739791100,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 143358,
       "num": 202339,
       "word": "JDE官宣更名JDG",
@@ -1923,12 +1963,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 136931,
-      "num": 136931,
-      "word": "想飞的女孩",
-      "onboard_time": 1739791160,
-      "rank": 49,
-      "category": "电影"
+      "raw_hot": 134939,
+      "num": 134939,
+      "word": "上一秒凶狠师父下一秒温柔逆徒",
+      "onboard_time": 1739791762,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 133888,
@@ -1945,6 +1985,22 @@
       "onboard_time": 1739756478,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130859,
+      "num": 130859,
+      "word": "警方介入温州小学班主任校内身亡",
+      "onboard_time": 1739792121,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130003,
+      "num": 130003,
+      "word": "贵州真的是酸辣的神",
+      "onboard_time": 1739790381,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 129868,
@@ -2196,11 +2252,19 @@
     },
     {
       "raw_hot": 101317,
-      "num": 101317,
+      "num": 178141,
       "word": "全球对冲基金涌入中国股市",
       "onboard_time": 1739784021,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 99597,
+      "num": 269669,
+      "word": "官方回应网传杭州出台最严养犬新规",
+      "onboard_time": 1739790680,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 98602,
@@ -2564,7 +2628,7 @@
     },
     {
       "raw_hot": 48557,
-      "num": 208612,
+      "num": 268740,
       "word": "你一般每天睡多少个小时",
       "onboard_time": 1739791041,
       "rank": 31,
@@ -2587,12 +2651,12 @@
       "category": "民生新闻,议题讨论"
     },
     {
-      "raw_hot": 44587,
-      "num": 212827,
-      "word": "官方回应网传杭州出台最严养犬新规",
-      "onboard_time": 1739790680,
-      "rank": 19,
-      "category": "辟谣/通报"
+      "raw_hot": 44004,
+      "num": 235323,
+      "word": "原神5.4版本",
+      "onboard_time": 1739792000,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 43930,
@@ -2617,6 +2681,14 @@
       "onboard_time": 1739774480,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 41883,
+      "num": 250958,
+      "word": "清远长隆度假区大象疑被强迫滑滑梯",
+      "onboard_time": 1739791700,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37717,
@@ -2699,6 +2771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24466,
+      "num": 267758,
+      "word": "美甲师5天接约30个裂空爪订单",
+      "onboard_time": 1739785701,
+      "rank": 19,
+      "category": "美妆,民生新闻"
+    },
+    {
       "raw_hot": 23912,
       "num": 23912,
       "word": "王天辰古子成GLASS",
@@ -2713,6 +2793,14 @@
       "onboard_time": 1739775921,
       "rank": 21,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 21651,
+      "num": 468103,
+      "word": "中国式现代化的万千气象海南行",
+      "onboard_time": 1739782103,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 21097,

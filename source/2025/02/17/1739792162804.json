@@ -1,0 +1,410 @@
+{
+  "runTime": 1739792162804,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2431159,
+        "num": 2431159,
+        "word": "哪吒2全球影史票房第10",
+        "onboard_time": 1739775141,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 469926,
+        "num": 469926,
+        "word": "第一批用DeepSeek赶作业的小学生出现了",
+        "onboard_time": 1739783482,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21651,
+        "num": 468103,
+        "word": "中国式现代化的万千气象海南行",
+        "onboard_time": 1739782103,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1221220,
+        "num": 467823,
+        "word": "哪吒领奖导播切镜头给敖丙",
+        "onboard_time": 1739789542,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 466721,
+        "num": 466721,
+        "word": "邹家华逝世",
+        "onboard_time": 1739785100,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 323792,
+        "num": 323792,
+        "word": "妙瓦底电诈园区被三个国家联合打击",
+        "onboard_time": 1739781442,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 593115,
+        "num": 323131,
+        "word": "刘浩存柏林电影节黑天鹅造型",
+        "onboard_time": 1739789300,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 321771,
+        "num": 321771,
+        "word": "中国已开始部署防御小行星撞击地球",
+        "onboard_time": 1739777421,
+        "rank": 7,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 72685,
+        "num": 320626,
+        "word": "开学第1周",
+        "onboard_time": 1739783241,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 288041,
+        "num": 318432,
+        "word": "不仅有国补还有省补",
+        "onboard_time": 1739789480,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 862543,
+        "num": 315191,
+        "word": "蒋欣评论区回应为何不结婚",
+        "onboard_time": 1739785100,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 802268,
+        "num": 314503,
+        "word": "咸鱼飞升女主换林允",
+        "onboard_time": 1739788819,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 674809,
+        "num": 311204,
+        "word": "欧阳震华口误",
+        "onboard_time": 1739787621,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 561023,
+        "num": 309642,
+        "word": "医生你的手术刀是裂空爪啊",
+        "onboard_time": 1739790381,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307413,
+        "num": 307413,
+        "word": "女儿分手妈妈谎称丈夫病亡拒还款",
+        "onboard_time": 1739777362,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291107,
+        "num": 291107,
+        "word": "四川一医院窗口工作人员上班玩游戏",
+        "onboard_time": 1739784799,
+        "rank": 15,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 270697,
+        "num": 270697,
+        "word": "真正的哪吒闹海开始了",
+        "onboard_time": 1739776579,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99597,
+        "num": 269669,
+        "word": "官方回应网传杭州出台最严养犬新规",
+        "onboard_time": 1739790680,
+        "rank": 17,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 39603,
+        "num": 268740,
+        "word": "你一般每天睡多少个小时",
+        "onboard_time": 1739791041,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 24466,
+        "num": 267758,
+        "word": "美甲师5天接约30个裂空爪订单",
+        "onboard_time": 1739785701,
+        "rank": 19,
+        "category": "美妆,民生新闻"
+      },
+      {
+        "raw_hot": 535417,
+        "num": 267176,
+        "word": "曝韦雪今年直播收入已超9亿",
+        "onboard_time": 1739790381,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 525372,
+        "num": 265216,
+        "word": "元斌在金赛纶灵堂擦眼泪",
+        "onboard_time": 1739782882,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204713,
+        "num": 264948,
+        "word": "乘风2025",
+        "onboard_time": 1739784981,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 467321,
+        "num": 263784,
+        "word": "患癌公公给儿媳红包里塞催生纸条",
+        "onboard_time": 1739786780,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208400,
+        "num": 262012,
+        "word": "刘浩存红毯生图",
+        "onboard_time": 1739791280,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 345342,
+        "num": 260937,
+        "word": "哪吒2突破121亿",
+        "onboard_time": 1739790319,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 260523,
+        "num": 260523,
+        "word": "2025民营企业座谈会",
+        "onboard_time": 1739765121,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 296541,
+        "num": 259664,
+        "word": "沈梦辰杜海涛庆祝结婚3周年",
+        "onboard_time": 1739778741,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209040,
+        "num": 255137,
+        "word": "徐睿知悼念金赛纶",
+        "onboard_time": 1739791640,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41883,
+        "num": 250958,
+        "word": "清远长隆度假区大象疑被强迫滑滑梯",
+        "onboard_time": 1739791700,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264992,
+        "num": 248111,
+        "word": "女子去世无继承人房产收归国家",
+        "onboard_time": 1739780421,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247584,
+        "num": 247584,
+        "word": "香港人为什么这么喜欢雇菲佣",
+        "onboard_time": 1739791820,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240588,
+        "num": 240588,
+        "word": "李一桐发了三代黄蓉合照",
+        "onboard_time": 1739778081,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44004,
+        "num": 235323,
+        "word": "原神5.4版本",
+        "onboard_time": 1739792000,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 232807,
+        "num": 232807,
+        "word": "蜂蜜小面包不是韩国的",
+        "onboard_time": 1739791100,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 220470,
+        "num": 220470,
+        "word": "老外连炫1个月砂糖桔变小黄人",
+        "onboard_time": 1739776761,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200006,
+        "num": 200006,
+        "word": "徐明浩BamBam四国语言聊天",
+        "onboard_time": 1739791520,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196914,
+        "num": 196914,
+        "word": "有冒充饺子导演账号吸粉6万后卖出",
+        "onboard_time": 1739790020,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195571,
+        "num": 195571,
+        "word": "原神",
+        "onboard_time": 1739787919,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193455,
+        "num": 193455,
+        "word": "六姊妹二姐夫癌症晚期",
+        "onboard_time": 1739790381,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29450,
+        "num": 178141,
+        "word": "全球对冲基金涌入中国股市",
+        "onboard_time": 1739784021,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 172454,
+        "num": 172454,
+        "word": "想飞的女孩",
+        "onboard_time": 1739791160,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164519,
+        "num": 164519,
+        "word": "宋雨琦姚明合照",
+        "onboard_time": 1739786480,
+        "rank": 42,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 161372,
+        "num": 161372,
+        "word": "男童3年前生吃蟹腿寄生虫钻进心脏",
+        "onboard_time": 1739771479,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146492,
+        "num": 146492,
+        "word": "常州市委书记陈金虎任上被查",
+        "onboard_time": 1739781021,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146323,
+        "num": 146323,
+        "word": "魏晨擦防晒只用擦额头",
+        "onboard_time": 1739786060,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135955,
+        "num": 135955,
+        "word": "谢娜谁聚会想要听课啊",
+        "onboard_time": 1739785522,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134939,
+        "num": 134939,
+        "word": "上一秒凶狠师父下一秒温柔逆徒",
+        "onboard_time": 1739791762,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130859,
+        "num": 130859,
+        "word": "警方介入温州小学班主任校内身亡",
+        "onboard_time": 1739792121,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130003,
+        "num": 130003,
+        "word": "贵州真的是酸辣的神",
+        "onboard_time": 1739790381,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席民营企业座谈会#"
+    }
+  }
+}
