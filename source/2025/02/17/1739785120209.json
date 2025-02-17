@@ -1,0 +1,410 @@
+{
+  "runTime": 1739785120209,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6196850,
+        "num": 6196850,
+        "word": "哪吒2全球影史票房第10",
+        "onboard_time": 1739775141,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 850428,
+        "num": 850428,
+        "word": "妙瓦底电诈园区被三个国家联合打击",
+        "onboard_time": 1739781442,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94471,
+        "num": 830921,
+        "word": "开学第1周",
+        "onboard_time": 1739783241,
+        "rank": 2,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 820755,
+        "num": 820755,
+        "word": "中国已开始部署防御小行星撞击地球",
+        "onboard_time": 1739777421,
+        "rank": 3,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 465620,
+        "num": 465620,
+        "word": "常州市委书记陈金虎任上被查",
+        "onboard_time": 1739781021,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 968946,
+        "num": 432384,
+        "word": "沈梦辰杜海涛庆祝结婚3周年",
+        "onboard_time": 1739778741,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 614272,
+        "num": 365379,
+        "word": "元斌在金赛纶灵堂擦眼泪",
+        "onboard_time": 1739782882,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 467220,
+        "num": 332197,
+        "word": "李一桐发了三代黄蓉合照",
+        "onboard_time": 1739778081,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281017,
+        "num": 281017,
+        "word": "第一批用DeepSeek赶作业的小学生出现了",
+        "onboard_time": 1739783482,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257031,
+        "num": 257031,
+        "word": "GDP万亿城市增至27座",
+        "onboard_time": 1739782582,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 570149,
+        "num": 255787,
+        "word": "女儿分手妈妈谎称丈夫病亡拒还款",
+        "onboard_time": 1739777362,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252167,
+        "num": 252167,
+        "word": "93岁男子强奸被判15年为何能监外执行",
+        "onboard_time": 1739784799,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 381465,
+        "num": 252120,
+        "word": "老外连炫1个月砂糖桔变小黄人",
+        "onboard_time": 1739776761,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355985,
+        "num": 250815,
+        "word": "真正的哪吒闹海开始了",
+        "onboard_time": 1739776579,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 320330,
+        "num": 250479,
+        "word": "早睡一周就能感到皮肤变好",
+        "onboard_time": 1739780842,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 334979,
+        "num": 249622,
+        "word": "蒋欣评论区回应为何不结婚",
+        "onboard_time": 1739785100,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332114,
+        "num": 248746,
+        "word": "未成年人拍举牌视频属于性剥削",
+        "onboard_time": 1739778801,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310935,
+        "num": 247866,
+        "word": "130多家公司托举哪吒2票房冲击记录",
+        "onboard_time": 1739763620,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 280936,
+        "num": 246975,
+        "word": "谁家老公把老婆当员工啊",
+        "onboard_time": 1739776339,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13898,
+        "num": 246143,
+        "word": "网红孵化公司经营不善转型搞诈骗",
+        "onboard_time": 1739784560,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 848678,
+        "num": 245565,
+        "word": "93岁老人犯强奸罪被判15年",
+        "onboard_time": 1739774420,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 578552,
+        "num": 244197,
+        "word": "女子去世无继承人房产收归国家",
+        "onboard_time": 1739780421,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261307,
+        "num": 243774,
+        "word": "快乐家族在太阳市集团建了",
+        "onboard_time": 1739783001,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255507,
+        "num": 242377,
+        "word": "最接近刘翔的运动员出现了",
+        "onboard_time": 1739773519,
+        "rank": 23,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 77127,
+        "num": 242259,
+        "word": "Doinb获得周最佳选手",
+        "onboard_time": 1739784320,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 241474,
+        "num": 241474,
+        "word": "肖战登顶1月微博演员热度报告",
+        "onboard_time": 1739785039,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232475,
+        "num": 232475,
+        "word": "男童3年前生吃蟹腿寄生虫钻进心脏",
+        "onboard_time": 1739771479,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213510,
+        "num": 213510,
+        "word": "六姊妹 嫁给对的人是什么感觉",
+        "onboard_time": 1739780121,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12852,
+        "num": 212639,
+        "word": "春天掐带脉可以疏肝行滞",
+        "onboard_time": 1739784082,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 20277,
+        "num": 212091,
+        "word": "治理教育乱收费不应个案式处理",
+        "onboard_time": 1739784441,
+        "rank": 29,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 212035,
+        "num": 212035,
+        "word": "中缅就联合打击网赌电诈犯罪等交换意见",
+        "onboard_time": 1739784799,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 211530,
+        "num": 211530,
+        "word": "丁真超绝西装杀",
+        "onboard_time": 1739781741,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203902,
+        "num": 203902,
+        "word": "套圈玛莎拉蒂摆摊者承认此前说谎",
+        "onboard_time": 1739774358,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199710,
+        "num": 199710,
+        "word": "刘亦菲说成年三部曲没丢自己的脸",
+        "onboard_time": 1739769560,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 189132,
+        "num": 189132,
+        "word": "光线传媒一季度已接近前2年营收",
+        "onboard_time": 1739780242,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187989,
+        "num": 187989,
+        "word": "2025民营企业座谈会",
+        "onboard_time": 1739765121,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95590,
+        "num": 167586,
+        "word": "中方望有关国家避免将经贸科技问题政治化",
+        "onboard_time": 1739784441,
+        "rank": 36,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 160882,
+        "num": 160882,
+        "word": "乘风2025",
+        "onboard_time": 1739784981,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158920,
+        "num": 158920,
+        "word": "浪姐6一公分组",
+        "onboard_time": 1739768961,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150297,
+        "num": 150297,
+        "word": "金赛纶死亡现场没有遗书",
+        "onboard_time": 1739769380,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150230,
+        "num": 150230,
+        "word": "这下遇到真石矶娘娘了",
+        "onboard_time": 1739769981,
+        "rank": 40,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 147749,
+        "num": 147749,
+        "word": "哪吒2中B级特效需达S级要求",
+        "onboard_time": 1739783061,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 56275,
+        "num": 143062,
+        "word": "DeepSeek才是最好的干饭搭子",
+        "onboard_time": 1739783900,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 168006,
+        "num": 142443,
+        "word": "fayeyoko",
+        "onboard_time": 1739781021,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139122,
+        "num": 139122,
+        "word": "缅甸控制1030名妙瓦底非法入境人员",
+        "onboard_time": 1739781621,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136182,
+        "num": 136182,
+        "word": "邹家华逝世",
+        "onboard_time": 1739785100,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 130178,
+        "num": 130178,
+        "word": "火车站现专盯大学生的假表抵押骗局",
+        "onboard_time": 1739778680,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128409,
+        "num": 128409,
+        "word": "周洁琼前队友宣布订婚",
+        "onboard_time": 1739773399,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47298,
+        "num": 128391,
+        "word": "男子遇医院收费员玩游戏质问反被怼",
+        "onboard_time": 1739783119,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128382,
+        "num": 128382,
+        "word": "陆虎今天看别人谈恋爱",
+        "onboard_time": 1739782640,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席民营企业座谈会#"
+    }
+  }
+}

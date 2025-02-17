@@ -1,6 +1,6 @@
 {
   "startTime": 1739723108252,
-  "endTime": 1739784355112,
+  "endTime": 1739785120209,
   "band_list": [
     {
       "raw_hot": 9177808,
@@ -203,6 +203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 850428,
+      "num": 850428,
+      "word": "妙瓦底电诈园区被三个国家联合打击",
+      "onboard_time": 1739781442,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 827598,
       "num": 312718,
       "word": "套圈玛莎拉蒂摆摊者承认此前说谎",
@@ -291,14 +299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 694219,
-      "num": 694219,
-      "word": "妙瓦底电诈园区被三个国家联合打击",
-      "onboard_time": 1739781442,
-      "rank": 22,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 684013,
       "num": 398260,
       "word": "元斌在金赛纶灵堂擦眼泪",
@@ -363,8 +363,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 574089,
-      "num": 220446,
+      "raw_hot": 578552,
+      "num": 244197,
       "word": "女子去世无继承人房产收归国家",
       "onboard_time": 1739780421,
       "rank": 49,
@@ -675,6 +675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 334979,
+      "num": 249622,
+      "word": "蒋欣评论区回应为何不结婚",
+      "onboard_time": 1739785100,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 332708,
       "num": 332708,
       "word": "DeepSeek公司主要人员发生变更",
@@ -683,12 +691,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 332114,
+      "num": 260063,
+      "word": "未成年人拍举牌视频属于性剥削",
+      "onboard_time": 1739778801,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 325440,
       "num": 272840,
       "word": "哪吒2票房一天一个新突破",
       "onboard_time": 1739711065,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 320330,
+      "num": 250479,
+      "word": "早睡一周就能感到皮肤变好",
+      "onboard_time": 1739780842,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 317920,
@@ -721,14 +745,6 @@
       "onboard_time": 1739711907,
       "rank": 21,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 308369,
-      "num": 260063,
-      "word": "未成年人拍举牌视频属于性剥削",
-      "onboard_time": 1739778801,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 306486,
@@ -787,6 +803,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 281017,
+      "num": 281017,
+      "word": "第一批用DeepSeek赶作业的小学生出现了",
+      "onboard_time": 1739783482,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 278898,
       "num": 278898,
       "word": "马龙现身小学开学第一课",
@@ -828,7 +852,7 @@
     },
     {
       "raw_hot": 262636,
-      "num": 219719,
+      "num": 243774,
       "word": "快乐家族在太阳市集团建了",
       "onboard_time": 1739783001,
       "rank": 23,
@@ -857,6 +881,14 @@
       "onboard_time": 1739774659,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 257031,
+      "num": 257031,
+      "word": "GDP万亿城市增至27座",
+      "onboard_time": 1739782582,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 255832,
@@ -889,6 +921,14 @@
       "onboard_time": 1739769981,
       "rank": 31,
       "category": "民生新闻,电影"
+    },
+    {
+      "raw_hot": 252167,
+      "num": 252167,
+      "word": "93岁男子强奸被判15年为何能监外执行",
+      "onboard_time": 1739784799,
+      "rank": 11,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 252095,
@@ -929,6 +969,14 @@
       "onboard_time": 1739753841,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 241474,
+      "num": 241474,
+      "word": "肖战登顶1月微博演员热度报告",
+      "onboard_time": 1739785039,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 240144,
@@ -987,14 +1035,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 224247,
-      "num": 224247,
-      "word": "早睡一周就能感到皮肤变好",
-      "onboard_time": 1739780842,
-      "rank": 36,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 223697,
       "num": 223697,
       "word": "赵露思小谢聊第一次见面的场景",
@@ -1009,14 +1049,6 @@
       "onboard_time": 1739773279,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 221182,
-      "num": 221182,
-      "word": "GDP万亿城市增至27座",
-      "onboard_time": 1739782582,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 219238,
@@ -1099,6 +1131,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212035,
+      "num": 212035,
+      "word": "中缅就联合打击网赌电诈犯罪等交换意见",
+      "onboard_time": 1739784799,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 211530,
+      "num": 211530,
+      "word": "丁真超绝西装杀",
+      "onboard_time": 1739781741,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 208653,
       "num": 208653,
       "word": "刘亦菲羽毛头",
@@ -1171,14 +1219,6 @@
       "category": "体育,电影"
     },
     {
-      "raw_hot": 194606,
-      "num": 194606,
-      "word": "丁真超绝西装杀",
-      "onboard_time": 1739781741,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 192125,
       "num": 192125,
       "word": "仙台有树扫楼",
@@ -1225,14 +1265,6 @@
       "onboard_time": 1739745433,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 187473,
-      "num": 187473,
-      "word": "第一批用DeepSeek赶作业的小学生出现了",
-      "onboard_time": 1739783482,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 187301,
@@ -1425,6 +1457,14 @@
       "onboard_time": 1739781321,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160882,
+      "num": 160882,
+      "word": "乘风2025",
+      "onboard_time": 1739784981,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 159611,
@@ -1643,6 +1683,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 136182,
+      "num": 136182,
+      "word": "邹家华逝世",
+      "onboard_time": 1739785100,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 131226,
       "num": 131226,
       "word": "虞书欣何与双轨拍摄物料路透",
@@ -1657,6 +1705,14 @@
       "onboard_time": 1739768303,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128382,
+      "num": 128382,
+      "word": "陆虎今天看别人谈恋爱",
+      "onboard_time": 1739782640,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 127819,
@@ -1745,14 +1801,6 @@
       "onboard_time": 1739754919,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119759,
-      "num": 119759,
-      "word": "陆虎今天看别人谈恋爱",
-      "onboard_time": 1739782640,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 119550,
@@ -1899,12 +1947,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 95590,
+      "num": 167586,
+      "word": "中方望有关国家避免将经贸科技问题政治化",
+      "onboard_time": 1739784441,
+      "rank": 36,
+      "category": "国内时政,互联网"
+    },
+    {
       "raw_hot": 95013,
       "num": 102787,
       "word": "那个苏什么的别打在屏幕上",
       "onboard_time": 1739721140,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94471,
+      "num": 830921,
+      "word": "开学第1周",
+      "onboard_time": 1739783241,
+      "rank": 2,
+      "category": "教育"
     },
     {
       "raw_hot": 94418,
@@ -1916,7 +1980,7 @@
     },
     {
       "raw_hot": 94201,
-      "num": 94201,
+      "num": 242259,
       "word": "Doinb获得周最佳选手",
       "onboard_time": 1739784320,
       "rank": 49,
@@ -1977,14 +2041,6 @@
       "onboard_time": 1739776339,
       "rank": 19,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 91115,
-      "num": 760361,
-      "word": "开学第1周",
-      "onboard_time": 1739783241,
-      "rank": 2,
-      "category": "教育"
     },
     {
       "raw_hot": 90612,
@@ -2203,6 +2259,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56275,
+      "num": 143062,
+      "word": "DeepSeek才是最好的干饭搭子",
+      "onboard_time": 1739783900,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 47298,
+      "num": 196273,
+      "word": "男子遇医院收费员玩游戏质问反被怼",
+      "onboard_time": 1739783119,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44682,
       "num": 521306,
       "word": "15天掌握AI技术快速变现是智商税吗",
@@ -2233,14 +2305,6 @@
       "onboard_time": 1739774480,
       "rank": 29,
       "category": "财经"
-    },
-    {
-      "raw_hot": 39895,
-      "num": 196273,
-      "word": "男子遇医院收费员玩游戏质问反被怼",
-      "onboard_time": 1739783119,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37717,
@@ -2291,14 +2355,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 27010,
-      "num": 122695,
-      "word": "DeepSeek才是最好的干饭搭子",
-      "onboard_time": 1739783900,
-      "rank": 44,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 26566,
       "num": 296917,
       "word": "重庆燃气别添堵了",
@@ -2339,6 +2395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 20277,
+      "num": 212091,
+      "word": "治理教育乱收费不应个案式处理",
+      "onboard_time": 1739784441,
+      "rank": 29,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 20240,
       "num": 34622,
       "word": "套圈中170万玛莎拉蒂男子称想折现",
@@ -2371,6 +2435,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 13898,
+      "num": 246143,
+      "word": "网红孵化公司经营不善转型搞诈骗",
+      "onboard_time": 1739784560,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12903,
       "num": 212876,
       "word": "魔动闪霸这回真的newrap了",
@@ -2379,8 +2451,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 6362,
-      "num": 196722,
+      "raw_hot": 12852,
+      "num": 212639,
       "word": "春天掐带脉可以疏肝行滞",
       "onboard_time": 1739784082,
       "rank": 28,
