@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739781795031,
+  "endTime": 1739784355112,
   "band_list": [
     {
       "raw_hot": 17381826,
@@ -363,6 +363,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 986898,
+      "num": 639455,
+      "word": "沈梦辰杜海涛庆祝结婚3周年",
+      "onboard_time": 1739778741,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 985547,
       "num": 341824,
       "word": "女儿分手妈妈谎称丈夫病亡拒还款",
@@ -635,14 +643,6 @@
       "category": "民生新闻,体育"
     },
     {
-      "raw_hot": 699235,
-      "num": 639455,
-      "word": "沈梦辰杜海涛庆祝结婚3周年",
-      "onboard_time": 1739778741,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 697868,
       "num": 363687,
       "word": "未成年拍举牌视频最便宜3元一条",
@@ -651,11 +651,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 694219,
+      "num": 694219,
+      "word": "妙瓦底电诈园区被三个国家联合打击",
+      "onboard_time": 1739781442,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 690805,
       "num": 305743,
       "word": "诗琳是清华大学本科学生",
       "onboard_time": 1739676319,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 684013,
+      "num": 398260,
+      "word": "元斌在金赛纶灵堂擦眼泪",
+      "onboard_time": 1739782882,
+      "rank": 6,
       "category": "艺人"
     },
     {
@@ -835,6 +851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 574089,
+      "num": 220446,
+      "word": "女子去世无继承人房产收归国家",
+      "onboard_time": 1739780421,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 566989,
       "num": 313306,
       "word": "男童3年前生吃蟹腿寄生虫钻进心脏",
@@ -921,6 +945,14 @@
       "onboard_time": 1739630242,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 539086,
+      "num": 387464,
+      "word": "李一桐发了三代黄蓉合照",
+      "onboard_time": 1739778081,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 538019,
@@ -1027,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 482128,
+      "num": 482128,
+      "word": "常州市委书记陈金虎任上被查",
+      "onboard_time": 1739781021,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 479150,
       "num": 479150,
       "word": "外交部发布未来已来高燃视频",
@@ -1105,14 +1145,6 @@
       "onboard_time": 1739684178,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 459500,
-      "num": 323840,
-      "word": "李一桐发了三代黄蓉合照",
-      "onboard_time": 1739778081,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 456736,
@@ -1635,6 +1667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 308369,
+      "num": 260063,
+      "word": "未成年人拍举牌视频属于性剥削",
+      "onboard_time": 1739778801,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 306662,
       "num": 205918,
       "word": "诗琳大年初一还上过节目",
@@ -1803,14 +1843,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 269074,
-      "num": 269074,
-      "word": "常州市委书记陈金虎任上被查",
-      "onboard_time": 1739781021,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 266984,
       "num": 238738,
       "word": "终于有人能接上哪吒的rap了",
@@ -1856,6 +1888,14 @@
       "word": "克拉岛",
       "onboard_time": 1739682919,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 262636,
+      "num": 219719,
+      "word": "快乐家族在太阳市集团建了",
+      "onboard_time": 1739783001,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -1996,7 +2036,7 @@
     },
     {
       "raw_hot": 247906,
-      "num": 201402,
+      "num": 234392,
       "word": "六姊妹 嫁给对的人是什么感觉",
       "onboard_time": 1739780121,
       "rank": 31,
@@ -2163,6 +2203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 224247,
+      "num": 224247,
+      "word": "早睡一周就能感到皮肤变好",
+      "onboard_time": 1739780842,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 223697,
       "num": 223697,
       "word": "赵露思小谢聊第一次见面的场景",
@@ -2177,6 +2225,14 @@
       "onboard_time": 1739773279,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221182,
+      "num": 221182,
+      "word": "GDP万亿城市增至27座",
+      "onboard_time": 1739782582,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 220760,
@@ -2379,12 +2435,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 204666,
-      "num": 260063,
-      "word": "未成年人拍举牌视频属于性剥削",
-      "onboard_time": 1739778801,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 204103,
+      "num": 204103,
+      "word": "fayeyoko",
+      "onboard_time": 1739781021,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 204028,
@@ -2555,20 +2611,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194606,
+      "num": 194606,
+      "word": "丁真超绝西装杀",
+      "onboard_time": 1739781741,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 193931,
       "num": 193931,
       "word": "代高政回应给章子怡下跪",
       "onboard_time": 1739676619,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193910,
-      "num": 193910,
-      "word": "fayeyoko",
-      "onboard_time": 1739781021,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 193689,
@@ -2689,6 +2745,14 @@
       "onboard_time": 1739686217,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187473,
+      "num": 187473,
+      "word": "第一批用DeepSeek赶作业的小学生出现了",
+      "onboard_time": 1739783482,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187301,
@@ -2819,6 +2883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 179764,
+      "num": 264533,
+      "word": "缅甸控制1030名妙瓦底非法入境人员",
+      "onboard_time": 1739781621,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 179425,
       "num": 179425,
       "word": "韩剧善意的竞争",
@@ -2881,6 +2953,14 @@
       "onboard_time": 1739755339,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 173819,
+      "num": 173819,
+      "word": "哪吒2中B级特效需达S级要求",
+      "onboard_time": 1739783061,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 173572,
@@ -3147,14 +3227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157092,
-      "num": 157092,
-      "word": "女子去世无继承人房产收归国家",
-      "onboard_time": 1739780421,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156748,
       "num": 156748,
       "word": "王嘉尔回归状态",
@@ -3257,14 +3329,6 @@
       "onboard_time": 1739688377,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 151573,
-      "num": 203537,
-      "word": "妙瓦底电诈园区被三个国家联合打击",
-      "onboard_time": 1739781442,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 151570,
@@ -3843,6 +3907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119759,
+      "num": 119759,
+      "word": "陆虎今天看别人谈恋爱",
+      "onboard_time": 1739782640,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119423,
       "num": 149146,
       "word": "花几十元可定制未成年隐私部位内容",
@@ -3889,14 +3961,6 @@
       "onboard_time": 1739687538,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 118575,
-      "num": 118575,
-      "word": "缅甸控制1030名妙瓦底非法入境人员",
-      "onboard_time": 1739781621,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 117884,
@@ -4051,14 +4115,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 108616,
-      "num": 108616,
-      "word": "丁真超绝西装杀",
-      "onboard_time": 1739781741,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 108565,
       "num": 108565,
       "word": "藕饼",
@@ -4171,6 +4227,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 101317,
+      "num": 101317,
+      "word": "全球对冲基金涌入中国股市",
+      "onboard_time": 1739784021,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 100694,
       "num": 100694,
       "word": "在理发店门口15分钟了不敢进去",
@@ -4259,6 +4323,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 94201,
+      "num": 94201,
+      "word": "Doinb获得周最佳选手",
+      "onboard_time": 1739784320,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 93672,
       "num": 275314,
       "word": "奥运冠军马龙被小学生逼出大招",
@@ -4337,6 +4409,14 @@
       "onboard_time": 1739776339,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 91115,
+      "num": 760361,
+      "word": "开学第1周",
+      "onboard_time": 1739783241,
+      "rank": 2,
+      "category": "教育"
     },
     {
       "raw_hot": 91073,
@@ -4635,6 +4715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56835,
+      "num": 163004,
+      "word": "哪吒神话给我们提了个什么醒",
+      "onboard_time": 1739782400,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 56481,
       "num": 355572,
       "word": "进击的巨人白夜",
@@ -4747,6 +4835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39895,
+      "num": 196273,
+      "word": "男子遇医院收费员玩游戏质问反被怼",
+      "onboard_time": 1739783119,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38792,
       "num": 117510,
       "word": "周末随心所欲也是一种快乐",
@@ -4761,14 +4857,6 @@
       "onboard_time": 1739726175,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 37450,
-      "num": 201304,
-      "word": "早睡一周就能感到皮肤变好",
-      "onboard_time": 1739780842,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 37412,
@@ -4873,6 +4961,14 @@
       "onboard_time": 1739727495,
       "rank": 42,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 27010,
+      "num": 122695,
+      "word": "DeepSeek才是最好的干饭搭子",
+      "onboard_time": 1739783900,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 26566,
@@ -5059,6 +5155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 12903,
+      "num": 212876,
+      "word": "魔动闪霸这回真的newrap了",
+      "onboard_time": 1739783722,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 12248,
       "num": 256781,
       "word": "这就是开学季家长的相同姿势",
@@ -5089,6 +5193,14 @@
       "onboard_time": 1739702179,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 6362,
+      "num": 196722,
+      "word": "春天掐带脉可以疏肝行滞",
+      "onboard_time": 1739784082,
+      "rank": 28,
+      "category": "健康医疗"
     }
   ],
   "hotgov_list": [
@@ -5100,6 +5212,9 @@
     },
     {
       "word": "#切实让特权现象和腐败问题无所遁形#"
+    },
+    {
+      "word": "#习近平出席民营企业座谈会#"
     }
   ]
 }
