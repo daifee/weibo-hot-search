@@ -1,6 +1,6 @@
 {
   "startTime": 1739809696665,
-  "endTime": 1739810536787,
+  "endTime": 1739812812502,
   "band_list": [
     {
       "raw_hot": 1442655,
@@ -203,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137836,
+      "num": 241913,
+      "word": "当事人回应高速旁停车抽打教育小孩",
+      "onboard_time": 1739807599,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131927,
       "num": 131927,
       "word": "张嘉元直播爆料演员3未播片段",
@@ -225,14 +233,6 @@
       "onboard_time": 1739808378,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 117604,
-      "num": 241913,
-      "word": "当事人回应高速旁停车抽打教育小孩",
-      "onboard_time": 1739807599,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117140,
@@ -281,6 +281,14 @@
       "onboard_time": 1739794938,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 90564,
+      "num": 58231,
+      "word": "6万买饺子导演高仿号当事人发声",
+      "onboard_time": 1739810358,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90084,
@@ -403,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51933,
+      "num": 51933,
+      "word": "难哄激起了我暴烈的胜负欲",
+      "onboard_time": 1739799080,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 41953,
       "num": 69983,
       "word": "2025民营企业座谈会",
@@ -411,7 +427,15 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 26351,
+      "raw_hot": 37429,
+      "num": 38600,
+      "word": "我国流感流行强度总体下降",
+      "onboard_time": 1739811195,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35798,
       "num": 111956,
       "word": "1.6万件套文物被追缴",
       "onboard_time": 1739809997,
@@ -425,6 +449,14 @@
       "onboard_time": 1739782103,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12744,
+      "num": 108393,
+      "word": "深圳70名AI数智员工上岗",
+      "onboard_time": 1739812394,
+      "rank": 17,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739810536787,
+  "endTime": 1739812812502,
   "band_list": [
     {
       "raw_hot": 17381826,
@@ -4395,6 +4395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 137836,
+      "num": 241913,
+      "word": "当事人回应高速旁停车抽打教育小孩",
+      "onboard_time": 1739807599,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137782,
       "num": 137782,
       "word": "海外观众说给哪吒2打11分",
@@ -4897,14 +4905,6 @@
       "onboard_time": 1739701878,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117604,
-      "num": 241913,
-      "word": "当事人回应高速旁停车抽打教育小孩",
-      "onboard_time": 1739807599,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117156,
@@ -5449,6 +5449,14 @@
       "onboard_time": 1739763199,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90564,
+      "num": 58231,
+      "word": "6万买饺子导演高仿号当事人发声",
+      "onboard_time": 1739810358,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88364,
@@ -6003,6 +6011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37429,
+      "num": 38600,
+      "word": "我国流感流行强度总体下降",
+      "onboard_time": 1739811195,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37412,
       "num": 34748,
       "word": "5种最差的早餐搭配组合",
@@ -6024,6 +6040,14 @@
       "word": "超43万条春节档电影侵权链接被查处",
       "onboard_time": 1739724736,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35798,
+      "num": 111956,
+      "word": "1.6万件套文物被追缴",
+      "onboard_time": 1739809997,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -6153,14 +6177,6 @@
       "onboard_time": 1739644633,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 26351,
-      "num": 111956,
-      "word": "1.6万件套文物被追缴",
-      "onboard_time": 1739809997,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26136,
@@ -6377,6 +6393,14 @@
       "onboard_time": 1739784082,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 12744,
+      "num": 108393,
+      "word": "深圳70名AI数智员工上岗",
+      "onboard_time": 1739812394,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12248,
