@@ -1,0 +1,410 @@
+{
+  "runTime": 1739802145915,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1420006,
+        "num": 1420006,
+        "word": "文淇 大大方方的",
+        "onboard_time": 1739795119,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 593601,
+        "num": 593601,
+        "word": "上海成为中国首个GDP5万亿之城",
+        "onboard_time": 1739796082,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31125,
+        "num": 490005,
+        "word": "中国式现代化的万千气象海南行",
+        "onboard_time": 1739782103,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1211172,
+        "num": 489396,
+        "word": "建议饺子导演学学宫崎骏",
+        "onboard_time": 1739795960,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 399851,
+        "num": 399851,
+        "word": "医生你的手术刀是裂空爪啊",
+        "onboard_time": 1739790381,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369065,
+        "num": 369065,
+        "word": "小米YU7续航信息曝光",
+        "onboard_time": 1739798899,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 956589,
+        "num": 366799,
+        "word": "金赛纶负债高达7亿韩元",
+        "onboard_time": 1739793739,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353768,
+        "num": 353768,
+        "word": "谁参加了这场最高规格的座谈会",
+        "onboard_time": 1739797220,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299594,
+        "num": 299594,
+        "word": "哪吒2香港首映时间定了",
+        "onboard_time": 1739792361,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 287929,
+        "num": 287929,
+        "word": "四川山体滑坡已致10死19失联",
+        "onboard_time": 1739797101,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 837600,
+        "num": 283044,
+        "word": "余承恩你还要亲成什么样",
+        "onboard_time": 1739800341,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 701716,
+        "num": 280441,
+        "word": "哪吒2全球票房榜排名第9",
+        "onboard_time": 1739775141,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 536583,
+        "num": 277200,
+        "word": "蒋欣评论区回应为何不结婚",
+        "onboard_time": 1739785100,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400764,
+        "num": 270355,
+        "word": "主持人介绍刘浩存",
+        "onboard_time": 1739796622,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110912,
+        "num": 263779,
+        "word": "官方回应93岁强奸犯进行社区矫正",
+        "onboard_time": 1739801242,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87000,
+        "num": 260422,
+        "word": "丁禹兮全棉好物分享",
+        "onboard_time": 1739799201,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351775,
+        "num": 256234,
+        "word": "女子多次试管怀孕乘网约车车祸流产",
+        "onboard_time": 1739801541,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252435,
+        "num": 252435,
+        "word": "土象星座最伤人的一点",
+        "onboard_time": 1739794938,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 49934,
+        "num": 245643,
+        "word": "邓为说开学了记得断念",
+        "onboard_time": 1739801481,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46185,
+        "num": 242982,
+        "word": "一民办学校多次向教职工借款不还",
+        "onboard_time": 1739801422,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396765,
+        "num": 232144,
+        "word": "哪吒2发破120亿海报",
+        "onboard_time": 1739797400,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 372653,
+        "num": 229823,
+        "word": "商家用女童跪撩上衣姿势展示童装",
+        "onboard_time": 1739797161,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365631,
+        "num": 221606,
+        "word": "psy因过度减肥向粉丝道歉",
+        "onboard_time": 1739800880,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214896,
+        "num": 214896,
+        "word": "不喜欢求助他人可能是缺爱",
+        "onboard_time": 1739800520,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 323549,
+        "num": 214354,
+        "word": "你被北大录取后的大学生活",
+        "onboard_time": 1739797520,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 290609,
+        "num": 213495,
+        "word": "66岁单身大妈去养生局感染HPV",
+        "onboard_time": 1739800281,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271747,
+        "num": 213089,
+        "word": "300斤孕妈背部脂肪8cm高危产子",
+        "onboard_time": 1739797761,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223639,
+        "num": 211691,
+        "word": "网红顾茜茜自曝日收入超30万",
+        "onboard_time": 1739801602,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 156050,
+        "num": 211526,
+        "word": "简阳地震",
+        "onboard_time": 1739796561,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210866,
+        "num": 210866,
+        "word": "患癌公公给儿媳红包里塞催生纸条",
+        "onboard_time": 1739786780,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198764,
+        "num": 198764,
+        "word": "丁禹兮直播营业",
+        "onboard_time": 1739801121,
+        "rank": 30,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 197102,
+        "num": 197102,
+        "word": "沈梦辰杜海涛庆祝结婚3周年",
+        "onboard_time": 1739778741,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196333,
+        "num": 196333,
+        "word": "香港人为什么这么喜欢雇菲佣",
+        "onboard_time": 1739791820,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193808,
+        "num": 193808,
+        "word": "美国队长2电梯名场面",
+        "onboard_time": 1739800221,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147296,
+        "num": 192125,
+        "word": "深圳街头偶遇王楚钦",
+        "onboard_time": 1739798721,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191163,
+        "num": 191163,
+        "word": "仿妆余莺儿网红称面临失业风险",
+        "onboard_time": 1739799560,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 167620,
+        "num": 167620,
+        "word": "周扬青回应网曝新恋情",
+        "onboard_time": 1739801841,
+        "rank": 36,
+        "category": "时尚,网红"
+      },
+      {
+        "raw_hot": 1864397,
+        "num": 166968,
+        "word": "93岁老人犯强奸罪后看守所拒绝收押",
+        "onboard_time": 1739794760,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165545,
+        "num": 165545,
+        "word": "女子去世无继承人房产收归国家",
+        "onboard_time": 1739780421,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143438,
+        "num": 158341,
+        "word": "2025民营企业座谈会",
+        "onboard_time": 1739765121,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 157528,
+        "num": 157528,
+        "word": "周深方再次致歉",
+        "onboard_time": 1739797400,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1004220,
+        "num": 153824,
+        "word": "警方介入温州小学班主任校内身亡",
+        "onboard_time": 1739792121,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148618,
+        "num": 148618,
+        "word": "难哄激起了我暴烈的胜负欲",
+        "onboard_time": 1739799080,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145311,
+        "num": 145311,
+        "word": "于正五年前买股王星越黄杨钿甜",
+        "onboard_time": 1739799982,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143774,
+        "num": 143774,
+        "word": "曝韦雪今年直播收入已超9亿",
+        "onboard_time": 1739790381,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 138019,
+        "num": 138019,
+        "word": "咸鱼飞升女主换林允",
+        "onboard_time": 1739788819,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311617,
+        "num": 137256,
+        "word": "官方回应小学教师因末位淘汰制轻生不实",
+        "onboard_time": 1739793620,
+        "rank": 46,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 132081,
+        "num": 132081,
+        "word": "红房子",
+        "onboard_time": 1739802081,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130736,
+        "num": 130736,
+        "word": "三人疑因10元停车费摔打六旬保安",
+        "onboard_time": 1739798960,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130087,
+        "num": 130087,
+        "word": "警方回应女子疑携小女儿跳江",
+        "onboard_time": 1739799021,
+        "rank": 49,
+        "category": "辟谣/通报"
+      }
+    ],
+    "hotgov": {
+      "word": "#民营经济发展前景广阔大有可为#"
+    }
+  }
+}

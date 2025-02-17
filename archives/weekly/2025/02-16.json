@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739799655942,
+  "endTime": 1739802145915,
   "band_list": [
     {
       "raw_hot": 17381826,
@@ -571,6 +571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 837600,
+      "num": 283044,
+      "word": "余承恩你还要亲成什么样",
+      "onboard_time": 1739800341,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 835997,
       "num": 835997,
       "word": "酒后小区挪车被认定醉驾司机起诉交警",
@@ -947,20 +955,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 593601,
+      "num": 593601,
+      "word": "上海成为中国首个GDP5万亿之城",
+      "onboard_time": 1739796082,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 593115,
       "num": 348763,
       "word": "刘浩存柏林电影节黑天鹅造型",
       "onboard_time": 1739789300,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 591714,
-      "num": 591714,
-      "word": "上海成为中国首个GDP5万亿之城",
-      "onboard_time": 1739796082,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 588556,
@@ -1547,11 +1555,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 400764,
+      "num": 270355,
+      "word": "主持人介绍刘浩存",
+      "onboard_time": 1739796622,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 399593,
       "num": 399593,
       "word": "奥斯卡评委喊话饺子导演",
       "onboard_time": 1739615661,
       "rank": 13,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 396765,
+      "num": 313830,
+      "word": "哪吒2发破120亿海报",
+      "onboard_time": 1739797400,
+      "rank": 15,
       "category": "电影"
     },
     {
@@ -1699,12 +1723,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 369065,
+      "num": 369065,
+      "word": "小米YU7续航信息曝光",
+      "onboard_time": 1739798899,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 366668,
       "num": 228671,
       "word": "猫主人称罕见双面猫已去世",
       "onboard_time": 1739687359,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 365631,
+      "num": 221606,
+      "word": "psy因过度减肥向粉丝道歉",
+      "onboard_time": 1739800880,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 365349,
@@ -1745,6 +1785,22 @@
       "onboard_time": 1739690357,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 353768,
+      "num": 369335,
+      "word": "谁参加了这场最高规格的座谈会",
+      "onboard_time": 1739797220,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 351775,
+      "num": 256234,
+      "word": "女子多次试管怀孕乘网约车车祸流产",
+      "onboard_time": 1739801541,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 350872,
@@ -1819,14 +1875,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 338058,
-      "num": 313830,
-      "word": "哪吒2发破120亿海报",
-      "onboard_time": 1739797400,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
       "raw_hot": 336686,
       "num": 336686,
       "word": "金价",
@@ -1865,6 +1913,14 @@
       "onboard_time": 1739693117,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 323549,
+      "num": 252179,
+      "word": "你被北大录取后的大学生活",
+      "onboard_time": 1739797520,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 323019,
@@ -1993,6 +2049,14 @@
       "onboard_time": 1739710465,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 290609,
+      "num": 213495,
+      "word": "66岁单身大妈去养生局感染HPV",
+      "onboard_time": 1739800281,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 290559,
@@ -2323,12 +2387,12 @@
       "category": "民生新闻,电影"
     },
     {
-      "raw_hot": 252179,
-      "num": 252179,
-      "word": "你被北大录取后的大学生活",
-      "onboard_time": 1739797520,
-      "rank": 26,
-      "category": "教育"
+      "raw_hot": 252435,
+      "num": 289710,
+      "word": "土象星座最伤人的一点",
+      "onboard_time": 1739794938,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 252095,
@@ -2411,14 +2475,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 241985,
-      "num": 241985,
-      "word": "主持人介绍刘浩存",
-      "onboard_time": 1739796622,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 241474,
       "num": 241474,
       "word": "肖战登顶1月微博演员热度报告",
@@ -2465,14 +2521,6 @@
       "onboard_time": 1739719461,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 238198,
-      "num": 289710,
-      "word": "土象星座最伤人的一点",
-      "onboard_time": 1739794938,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 238084,
@@ -2579,12 +2627,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 221852,
-      "num": 221852,
-      "word": "小米YU7续航信息曝光",
-      "onboard_time": 1739798899,
-      "rank": 41,
-      "category": "汽车"
+      "raw_hot": 223639,
+      "num": 211691,
+      "word": "网红顾茜茜自曝日收入超30万",
+      "onboard_time": 1739801602,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 221466,
@@ -2681,6 +2729,14 @@
       "onboard_time": 1739667558,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214896,
+      "num": 214896,
+      "word": "不喜欢求助他人可能是缺爱",
+      "onboard_time": 1739800520,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 214871,
@@ -2923,6 +2979,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 198764,
+      "num": 198764,
+      "word": "丁禹兮直播营业",
+      "onboard_time": 1739801121,
+      "rank": 30,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 198726,
       "num": 198726,
       "word": "当你和鸟胃猪瘾的朋友吃饭时",
@@ -3067,6 +3131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 193808,
+      "num": 193808,
+      "word": "美国队长2电梯名场面",
+      "onboard_time": 1739800221,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 193689,
       "num": 193689,
       "word": "黄金",
@@ -3123,14 +3195,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 192354,
-      "num": 369335,
-      "word": "谁参加了这场最高规格的座谈会",
-      "onboard_time": 1739797220,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 192171,
       "num": 192171,
       "word": "吴镇宇 钱难挣",
@@ -3153,6 +3217,14 @@
       "onboard_time": 1739754440,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 191163,
+      "num": 191163,
+      "word": "仿妆余莺儿网红称面临失业风险",
+      "onboard_time": 1739799560,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 190688,
@@ -3635,6 +3707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 167620,
+      "num": 167620,
+      "word": "周扬青回应网曝新恋情",
+      "onboard_time": 1739801841,
+      "rank": 36,
+      "category": "时尚,网红"
+    },
+    {
       "raw_hot": 167547,
       "num": 167547,
       "word": "演员3问谁整容只有刘梓晨站起来",
@@ -3756,7 +3836,7 @@
     },
     {
       "raw_hot": 158692,
-      "num": 158692,
+      "num": 211526,
       "word": "简阳地震",
       "onboard_time": 1739796561,
       "rank": 43,
@@ -3996,7 +4076,7 @@
     },
     {
       "raw_hot": 147312,
-      "num": 147312,
+      "num": 192125,
       "word": "深圳街头偶遇王楚钦",
       "onboard_time": 1739798721,
       "rank": 45,
@@ -4023,6 +4103,14 @@
       "num": 146234,
       "word": "白敬亭演唱难哄OST",
       "onboard_time": 1739768721,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 145311,
+      "num": 145311,
+      "word": "于正五年前买股王星越黄杨钿甜",
+      "onboard_time": 1739799982,
       "rank": 43,
       "category": "剧集"
     },
@@ -4291,6 +4379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132081,
+      "num": 132081,
+      "word": "红房子",
+      "onboard_time": 1739802081,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131979,
       "num": 1131740,
       "word": "60秒看中国智造齐聚一堂",
@@ -4339,12 +4435,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130736,
+      "num": 212748,
+      "word": "三人疑因10元停车费摔打六旬保安",
+      "onboard_time": 1739798960,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130536,
       "num": 213898,
       "word": "保罗文班亚马被取消成绩",
       "onboard_time": 1739672299,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130087,
+      "num": 289335,
+      "word": "警方回应女子疑携小女儿跳江",
+      "onboard_time": 1739799021,
+      "rank": 18,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 130003,
@@ -4755,6 +4867,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 110912,
+      "num": 263779,
+      "word": "官方回应93岁强奸犯进行社区矫正",
+      "onboard_time": 1739801242,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110789,
       "num": 110789,
       "word": "GEN对战HLE",
@@ -4817,14 +4937,6 @@
       "onboard_time": 1739700318,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 106559,
-      "num": 123954,
-      "word": "仿妆余莺儿网红称面临失业风险",
-      "onboard_time": 1739799560,
-      "rank": 49,
-      "category": "美妆"
     },
     {
       "raw_hot": 106364,
@@ -5171,6 +5283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 87000,
+      "num": 260422,
+      "word": "丁禹兮全棉好物分享",
+      "onboard_time": 1739799201,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84927,
       "num": 211608,
       "word": "国台办回应美国务院官网删除不支持台独表述",
@@ -5257,14 +5377,6 @@
       "onboard_time": 1739640435,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 72444,
-      "num": 163842,
-      "word": "丁禹兮全棉好物分享",
-      "onboard_time": 1739799201,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 71427,
@@ -5515,20 +5627,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 54235,
-      "num": 289335,
-      "word": "警方回应女子疑携小女儿跳江",
-      "onboard_time": 1739799021,
-      "rank": 18,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 50775,
       "num": 50775,
       "word": "10岁女孩看哪吒2后决心捐髓救父",
       "onboard_time": 1739648652,
       "rank": 29,
       "category": "民生新闻,电影"
+    },
+    {
+      "raw_hot": 49934,
+      "num": 245643,
+      "word": "邓为说开学了记得断念",
+      "onboard_time": 1739801481,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 49837,
@@ -5601,6 +5713,14 @@
       "onboard_time": 1739661373,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 46185,
+      "num": 242982,
+      "word": "一民办学校多次向教职工借款不还",
+      "onboard_time": 1739801422,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45312,
@@ -5889,14 +6009,6 @@
       "onboard_time": 1739775921,
       "rank": 21,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 22741,
-      "num": 212748,
-      "word": "三人疑因10元停车费摔打六旬保安",
-      "onboard_time": 1739798960,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22736,
