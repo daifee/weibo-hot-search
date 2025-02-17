@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739830870146,
+  "endTime": 1739831884513,
   "band_list": [
     {
       "raw_hot": 17381826,
@@ -4371,6 +4371,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 139270,
+      "num": 241913,
+      "word": "当事人回应高速旁停车抽打教育小孩",
+      "onboard_time": 1739807599,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138579,
       "num": 138579,
       "word": "全明星",
@@ -4393,14 +4401,6 @@
       "onboard_time": 1739780721,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 137836,
-      "num": 241913,
-      "word": "当事人回应高速旁停车抽打教育小孩",
-      "onboard_time": 1739807599,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 137782,
@@ -4737,6 +4737,14 @@
       "onboard_time": 1739796442,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 124724,
+      "num": 124724,
+      "word": "乌方不承认美俄谈判达成协议",
+      "onboard_time": 1739815334,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 124542,
@@ -5155,6 +5163,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 104183,
+      "num": 104183,
+      "word": "父亲透露金赛纶遭受严重心理创伤",
+      "onboard_time": 1739822050,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104082,
       "num": 196470,
       "word": "吃砂糖橘一天别超过10个",
@@ -5195,14 +5211,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 101988,
-      "num": 101988,
-      "word": "乌方不承认美俄谈判达成协议",
-      "onboard_time": 1739815334,
-      "rank": 5,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 101469,
       "num": 101469,
       "word": "LCK",
@@ -5225,6 +5233,14 @@
       "onboard_time": 1739784021,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 101296,
+      "num": 50934,
+      "word": "沈梦辰杜海涛经历9年爱情长跑",
+      "onboard_time": 1739825951,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 100694,
@@ -5499,14 +5515,6 @@
       "category": "国内时政,国际时政"
     },
     {
-      "raw_hot": 83671,
-      "num": 83671,
-      "word": "父亲透露金赛纶遭受严重心理创伤",
-      "onboard_time": 1739822050,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 82484,
       "num": 82484,
       "word": "让樊振东陈梦马龙回归赛场",
@@ -5587,6 +5595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 72166,
+      "num": 63272,
+      "word": "哪吒2从全球50升到10仅用9天",
+      "onboard_time": 1739818573,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 71432,
       "num": 219489,
       "word": "俄美将在沙特举行会晤",
@@ -5609,14 +5625,6 @@
       "onboard_time": 1739694617,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 70597,
-      "num": 42923,
-      "word": "沈梦辰杜海涛经历9年爱情长跑",
-      "onboard_time": 1739825951,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 70398,
@@ -5689,14 +5697,6 @@
       "onboard_time": 1739678001,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 66070,
-      "num": 55646,
-      "word": "哪吒2从全球50升到10仅用9天",
-      "onboard_time": 1739818573,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 65615,
@@ -6115,6 +6115,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 34084,
+      "num": 41804,
+      "word": "文化中国行雨水节气",
+      "onboard_time": 1739812214,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33990,
       "num": 36948,
       "word": "请学会为自己挺身而出",
@@ -6235,14 +6243,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 26208,
-      "num": 41804,
-      "word": "文化中国行雨水节气",
-      "onboard_time": 1739812214,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26136,
       "num": 199918,
       "word": "导游强迫购物大巴雪天停无人区",
@@ -6257,6 +6257,14 @@
       "onboard_time": 1739781321,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 25053,
+      "num": 25053,
+      "word": "特朗普说美国这3周进步多于4年",
+      "onboard_time": 1739823790,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24804,
@@ -6299,14 +6307,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 23768,
-      "num": 23768,
-      "word": "特朗普说美国这3周进步多于4年",
-      "onboard_time": 1739823790,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23539,
       "num": 162603,
       "word": "回顾94年的秀场风格",
@@ -6316,7 +6316,7 @@
     },
     {
       "raw_hot": 23117,
-      "num": 23117,
+      "num": 24949,
       "word": "泰国共享诈骗团伙IP地址",
       "onboard_time": 1739825230,
       "rank": 37,
@@ -6361,6 +6361,14 @@
       "onboard_time": 1739639596,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21418,
+      "num": 30805,
+      "word": "外媒评价哪吒2连龙套都很有质感",
+      "onboard_time": 1739823250,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 21154,
@@ -6411,6 +6419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 19257,
+      "num": 24935,
+      "word": "六姊妹24集",
+      "onboard_time": 1739831593,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18219,
       "num": 230580,
       "word": "赵丽颖手里拿着哪吒玩偶",
@@ -6427,20 +6443,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 17157,
-      "num": 30805,
-      "word": "外媒评价哪吒2连龙套都很有质感",
-      "onboard_time": 1739823250,
-      "rank": 9,
-      "category": "电影"
-    },
-    {
       "raw_hot": 17069,
       "num": 26900,
       "word": "亚洲杯U20",
       "onboard_time": 1739647931,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 16362,
+      "num": 54798,
+      "word": "这真是灯火里的中国",
+      "onboard_time": 1739830632,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15881,
@@ -6529,14 +6545,6 @@
       "onboard_time": 1739814793,
       "rank": 32,
       "category": "国内时政,财经"
-    },
-    {
-      "raw_hot": 11376,
-      "num": 29625,
-      "word": "这真是灯火里的中国",
-      "onboard_time": 1739830632,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10698,

@@ -1,6 +1,6 @@
 {
   "startTime": 1739809696665,
-  "endTime": 1739830870146,
+  "endTime": 1739831884513,
   "band_list": [
     {
       "raw_hot": 1442655,
@@ -203,7 +203,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 137836,
+      "raw_hot": 139270,
       "num": 241913,
       "word": "当事人回应高速旁停车抽打教育小孩",
       "onboard_time": 1739807599,
@@ -217,6 +217,14 @@
       "onboard_time": 1739803582,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124724,
+      "num": 124724,
+      "word": "乌方不承认美俄谈判达成协议",
+      "onboard_time": 1739815334,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 124003,
@@ -243,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104183,
+      "num": 104183,
+      "word": "父亲透露金赛纶遭受严重心理创伤",
+      "onboard_time": 1739822050,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102450,
       "num": 102450,
       "word": "美国11个州超53万用户断电",
@@ -251,12 +267,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 101988,
-      "num": 101988,
-      "word": "乌方不承认美俄谈判达成协议",
-      "onboard_time": 1739815334,
-      "rank": 5,
-      "category": "国际时政"
+      "raw_hot": 101296,
+      "num": 50934,
+      "word": "沈梦辰杜海涛经历9年爱情长跑",
+      "onboard_time": 1739825951,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 97017,
@@ -323,14 +339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 83671,
-      "num": 83671,
-      "word": "父亲透露金赛纶遭受严重心理创伤",
-      "onboard_time": 1739822050,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 83079,
       "num": 83079,
       "word": "你被北大录取后的大学生活",
@@ -371,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72166,
+      "num": 63272,
+      "word": "哪吒2从全球50升到10仅用9天",
+      "onboard_time": 1739818573,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 70722,
       "num": 84193,
       "word": "中国已开始部署防御小行星撞击地球",
@@ -387,14 +403,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 70597,
-      "num": 42923,
-      "word": "沈梦辰杜海涛经历9年爱情长跑",
-      "onboard_time": 1739825951,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 70214,
       "num": 70214,
       "word": "裴秀智回归MV",
@@ -409,14 +417,6 @@
       "onboard_time": 1739808138,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 66070,
-      "num": 55646,
-      "word": "哪吒2从全球50升到10仅用9天",
-      "onboard_time": 1739818573,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 59998,
@@ -499,10 +499,18 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26208,
+      "raw_hot": 34084,
       "num": 41804,
       "word": "文化中国行雨水节气",
       "onboard_time": 1739812214,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25053,
+      "num": 25053,
+      "word": "特朗普说美国这3周进步多于4年",
+      "onboard_time": 1739823790,
       "rank": 49,
       "category": "民生新闻"
     },
@@ -515,16 +523,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 23768,
-      "num": 23768,
-      "word": "特朗普说美国这3周进步多于4年",
-      "onboard_time": 1739823790,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23117,
-      "num": 23117,
+      "num": 24949,
       "word": "泰国共享诈骗团伙IP地址",
       "onboard_time": 1739825230,
       "rank": 37,
@@ -539,6 +539,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 21418,
+      "num": 30805,
+      "word": "外媒评价哪吒2连龙套都很有质感",
+      "onboard_time": 1739823250,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 20930,
       "num": 43486,
       "word": "律师称乘客猝死航司无需担责",
@@ -547,12 +555,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17157,
-      "num": 30805,
-      "word": "外媒评价哪吒2连龙套都很有质感",
-      "onboard_time": 1739823250,
-      "rank": 9,
-      "category": "电影"
+      "raw_hot": 19257,
+      "num": 24935,
+      "word": "六姊妹24集",
+      "onboard_time": 1739831593,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 17046,
@@ -563,20 +571,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16362,
+      "num": 54798,
+      "word": "这真是灯火里的中国",
+      "onboard_time": 1739830632,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12196,
       "num": 26528,
       "word": "企业家就促进民营经济发展提出意见建议",
       "onboard_time": 1739814793,
       "rank": 32,
       "category": "国内时政,财经"
-    },
-    {
-      "raw_hot": 11376,
-      "num": 29625,
-      "word": "这真是灯火里的中国",
-      "onboard_time": 1739830632,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 9712,
