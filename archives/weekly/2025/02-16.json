@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739787944230,
+  "endTime": 1739788946355,
   "band_list": [
     {
       "raw_hot": 17381826,
@@ -83,6 +83,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1926156,
+      "num": 529138,
+      "word": "93岁男子强奸被判15年为何能监外执行",
+      "onboard_time": 1739784799,
+      "rank": 11,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1887589,
       "num": 755236,
       "word": "今天是金秀贤生日",
@@ -113,14 +121,6 @@
       "onboard_time": 1739762418,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1772414,
-      "num": 529138,
-      "word": "93岁男子强奸被判15年为何能监外执行",
-      "onboard_time": 1739784799,
-      "rank": 11,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 1667596,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 1368950,
-      "num": 292420,
+      "num": 314303,
       "word": "蒋欣评论区回应为何不结婚",
       "onboard_time": 1739785100,
       "rank": 15,
@@ -692,7 +692,7 @@
     },
     {
       "raw_hot": 684013,
-      "num": 532979,
+      "num": 540229,
       "word": "元斌在金赛纶灵堂擦眼泪",
       "onboard_time": 1739782882,
       "rank": 6,
@@ -867,8 +867,16 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 580437,
+      "num": 262413,
+      "word": "患癌公公给儿媳红包里塞催生纸条",
+      "onboard_time": 1739786780,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 578552,
-      "num": 244197,
+      "num": 259978,
       "word": "女子去世无继承人房产收归国家",
       "onboard_time": 1739780421,
       "rank": 49,
@@ -1195,14 +1203,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 452788,
-      "num": 208902,
-      "word": "患癌公公给儿媳红包里塞催生纸条",
-      "onboard_time": 1739786780,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 451705,
       "num": 266782,
       "word": "贾乃亮说哪吒2前三没问题",
@@ -1345,6 +1345,14 @@
       "onboard_time": 1739716223,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 417671,
+      "num": 314293,
+      "word": "欧阳震华口误",
+      "onboard_time": 1739787621,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 409150,
@@ -1595,6 +1603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 343982,
+      "num": 260891,
+      "word": "这俩人亲嘴晚上得失眠吧",
+      "onboard_time": 1739787440,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 343152,
       "num": 283393,
       "word": "医院回应女医生疑辱骂患者老妖婆",
@@ -1665,6 +1681,14 @@
       "onboard_time": 1739693660,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 322093,
+      "num": 322093,
+      "word": "四川一医院窗口工作人员上班玩游戏",
+      "onboard_time": 1739784799,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 320631,
@@ -1867,14 +1891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 278319,
-      "num": 292421,
-      "word": "四川一医院窗口工作人员上班玩游戏",
-      "onboard_time": 1739784799,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 278070,
       "num": 235733,
       "word": "只有考上985和211才有出路吗",
@@ -1897,6 +1913,38 @@
       "onboard_time": 1739625140,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 269640,
+      "num": 269640,
+      "word": "老人强奸被判15年为何能监外执行",
+      "onboard_time": 1739787260,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 269409,
+      "num": 269409,
+      "word": "原神",
+      "onboard_time": 1739787919,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 268511,
+      "num": 268511,
+      "word": "咸鱼飞升女主换林允",
+      "onboard_time": 1739788819,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 267846,
+      "num": 267846,
+      "word": "乘风2025",
+      "onboard_time": 1739784981,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 266984,
@@ -1937,14 +1985,6 @@
       "onboard_time": 1739672299,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 263815,
-      "num": 263815,
-      "word": "乘风2025",
-      "onboard_time": 1739784981,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 262758,
@@ -2073,6 +2113,14 @@
       "onboard_time": 1739755938,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 252811,
+      "num": 248134,
+      "word": "宋雨琦姚明合照",
+      "onboard_time": 1739786480,
+      "rank": 37,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 252794,
@@ -2220,7 +2268,7 @@
     },
     {
       "raw_hot": 235273,
-      "num": 186389,
+      "num": 205612,
       "word": "哪吒第一天回校放学啦",
       "onboard_time": 1739786959,
       "rank": 31,
@@ -2571,14 +2619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200681,
-      "num": 200681,
-      "word": "这俩人亲嘴晚上得失眠吧",
-      "onboard_time": 1739787440,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 200215,
       "num": 200215,
       "word": "苏新皓拍了灯牌",
@@ -2795,6 +2835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 190688,
+      "num": 190688,
+      "word": "藕饼跳舞",
+      "onboard_time": 1739788161,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 190140,
       "num": 353310,
       "word": "起底独处30天赢40万自律挑战骗局",
@@ -2987,6 +3035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 180177,
+      "num": 314311,
+      "word": "韩国警方认为金赛纶是自杀",
+      "onboard_time": 1739786362,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180014,
       "num": 216159,
       "word": "LPL第一赛段抽签",
@@ -3041,14 +3097,6 @@
       "onboard_time": 1739700258,
       "rank": 36,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 176208,
-      "num": 176208,
-      "word": "欧阳震华口误",
-      "onboard_time": 1739787621,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 175216,
@@ -3323,14 +3371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 160557,
-      "num": 160557,
-      "word": "宋雨琦姚明合照",
-      "onboard_time": 1739786480,
-      "rank": 37,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 157712,
       "num": 157712,
       "word": "原来切牛肉要横着切才嫩",
@@ -3409,6 +3449,14 @@
       "onboard_time": 1739750178,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 154354,
+      "num": 154354,
+      "word": "小米推出中央空调对标大金",
+      "onboard_time": 1739788521,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 154029,
@@ -3659,14 +3707,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 141289,
-      "num": 141289,
-      "word": "原神",
-      "onboard_time": 1739787919,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 141044,
       "num": 141044,
       "word": "41岁媒体人吴玉燕因流感离世",
@@ -3779,14 +3819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 133688,
-      "num": 133688,
-      "word": "韩国警方认为金赛纶是自杀",
-      "onboard_time": 1739786362,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 132765,
       "num": 132765,
       "word": "曝微信内测接入DeepSeek",
@@ -3889,6 +3921,14 @@
       "onboard_time": 1739715924,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 128807,
+      "num": 263754,
+      "word": "敖瑞鹏1月微博演员全站涨粉最高",
+      "onboard_time": 1739786299,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 128521,
@@ -4081,14 +4121,6 @@
       "onboard_time": 1739690357,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 119196,
-      "num": 211354,
-      "word": "敖瑞鹏1月微博演员全站涨粉最高",
-      "onboard_time": 1739786299,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 119082,
@@ -4363,6 +4395,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 104082,
+      "num": 196470,
+      "word": "吃砂糖橘一天别超过10个",
+      "onboard_time": 1739786060,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 102819,
       "num": 102819,
       "word": "王者荣耀灵宝市集",
@@ -4451,12 +4491,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96708,
-      "num": 212512,
-      "word": "老人强奸被判15年为何能监外执行",
-      "onboard_time": 1739787260,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 96112,
+      "num": 223117,
+      "word": "马龙用铁尺颠球",
+      "onboard_time": 1739787919,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 96033,
@@ -4627,6 +4667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82261,
+      "num": 133722,
+      "word": "马龙被小学生逼出大招",
+      "onboard_time": 1739788639,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80319,
       "num": 191745,
       "word": "搞副业的打工人捂嘴笑了",
@@ -4664,14 +4712,6 @@
       "word": "奥尼尔队晋级决赛",
       "onboard_time": 1739763019,
       "rank": 13,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 75775,
-      "num": 143135,
-      "word": "马龙用铁尺颠球",
-      "onboard_time": 1739787919,
-      "rank": 41,
       "category": "体育"
     },
     {
@@ -4825,6 +4865,14 @@
       "onboard_time": 1739690777,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 60674,
+      "num": 238694,
+      "word": "61岁老人飞机上猝死当地已立案",
+      "onboard_time": 1739787979,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60581,
@@ -5193,6 +5241,14 @@
       "onboard_time": 1739781321,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24804,
+      "num": 266088,
+      "word": "工作人员回应老人躺担架床办业务",
+      "onboard_time": 1739788161,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24243,
