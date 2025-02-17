@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739824643108,
+  "endTime": 1739827236665,
   "band_list": [
     {
       "raw_hot": 17381826,
@@ -5939,6 +5939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47040,
+      "num": 35925,
+      "word": "父亲透露金赛纶遭受严重心理创伤",
+      "onboard_time": 1739822050,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 46881,
       "num": 164867,
       "word": "杜兰特欧文哈登又在一起了",
@@ -6291,20 +6299,20 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 22847,
+      "num": 16617,
+      "word": "沈梦辰杜海涛经历9年爱情长跑",
+      "onboard_time": 1739825951,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 22736,
       "num": 431841,
       "word": "文化中国行文博日历",
       "onboard_time": 1739637017,
       "rank": 9,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 22319,
-      "num": 18345,
-      "word": "父亲透露金赛纶遭受严重心理创伤",
-      "onboard_time": 1739822050,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 21900,
@@ -6379,6 +6387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 19029,
+      "num": 24832,
+      "word": "文化中国行雨水节气",
+      "onboard_time": 1739812214,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18219,
       "num": 230580,
       "word": "赵丽颖手里拿着哪吒玩偶",
@@ -6403,10 +6419,10 @@
       "category": "体育"
     },
     {
-      "raw_hot": 16905,
-      "num": 16905,
-      "word": "文化中国行雨水节气",
-      "onboard_time": 1739812214,
+      "raw_hot": 16430,
+      "num": 16430,
+      "word": "特朗普说美国这3周进步多于4年",
+      "onboard_time": 1739823790,
       "rank": 49,
       "category": "民生新闻"
     },
@@ -6419,12 +6435,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14969,
-      "num": 14969,
-      "word": "特朗普说美国这3周进步多于4年",
-      "onboard_time": 1739823790,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 15265,
+      "num": 15265,
+      "word": "泰国共享诈骗团伙IP地址",
+      "onboard_time": 1739825230,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 14855,

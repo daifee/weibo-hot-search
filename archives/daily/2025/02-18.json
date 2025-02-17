@@ -1,6 +1,6 @@
 {
   "startTime": 1739809696665,
-  "endTime": 1739824643108,
+  "endTime": 1739827236665,
   "band_list": [
     {
       "raw_hot": 1442655,
@@ -443,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 47040,
+      "num": 35925,
+      "word": "父亲透露金赛纶遭受严重心理创伤",
+      "onboard_time": 1739822050,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44276,
       "num": 108393,
       "word": "深圳70名AI数智员工上岗",
@@ -491,11 +499,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 22319,
-      "num": 18345,
-      "word": "父亲透露金赛纶遭受严重心理创伤",
-      "onboard_time": 1739822050,
-      "rank": 25,
+      "raw_hot": 22847,
+      "num": 16617,
+      "word": "沈梦辰杜海涛经历9年爱情长跑",
+      "onboard_time": 1739825951,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -515,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19029,
+      "num": 24832,
+      "word": "文化中国行雨水节气",
+      "onboard_time": 1739812214,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17046,
       "num": 745143,
       "word": "中国式现代化的万千气象海南行",
@@ -523,20 +539,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 16905,
-      "num": 16905,
-      "word": "文化中国行雨水节气",
-      "onboard_time": 1739812214,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14969,
-      "num": 14969,
+      "raw_hot": 16430,
+      "num": 16430,
       "word": "特朗普说美国这3周进步多于4年",
       "onboard_time": 1739823790,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15265,
+      "num": 15265,
+      "word": "泰国共享诈骗团伙IP地址",
+      "onboard_time": 1739825230,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 12196,
