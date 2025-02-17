@@ -1,6 +1,6 @@
 {
   "startTime": 1739809696665,
-  "endTime": 1739819910143,
+  "endTime": 1739820955835,
   "band_list": [
     {
       "raw_hot": 1442655,
@@ -467,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36526,
+      "num": 38546,
+      "word": "哪吒2从全球50升到10仅用9天",
+      "onboard_time": 1739818573,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 35798,
       "num": 111956,
       "word": "1.6万件套文物被追缴",
@@ -489,14 +497,6 @@
       "onboard_time": 1739815334,
       "rank": 20,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 21480,
-      "num": 38546,
-      "word": "哪吒2从全球50升到10仅用9天",
-      "onboard_time": 1739818573,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 20930,
@@ -539,12 +539,20 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 8103,
-      "num": 20198,
+      "raw_hot": 8873,
+      "num": 29346,
       "word": "演员李雪健人民日报撰文谈家风",
       "onboard_time": 1739817912,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 7804,
+      "num": 20404,
+      "word": "潮玩企业说哪吒是第2个冰墩墩",
+      "onboard_time": 1739820851,
+      "rank": 34,
+      "category": "电影"
     }
   ],
   "hotgov_list": [
