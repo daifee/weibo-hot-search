@@ -1,0 +1,410 @@
+{
+  "runTime": 1739757798896,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2392628,
+        "num": 2392628,
+        "word": "DeepSeek",
+        "onboard_time": 1739752820,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1250987,
+        "num": 1250987,
+        "word": "61岁母亲飞机上猝死女儿发声",
+        "onboard_time": 1739751139,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41189,
+        "num": 1044309,
+        "word": "60秒看中国智造齐聚一堂",
+        "onboard_time": 1739708907,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 860823,
+        "num": 860823,
+        "word": "玻璃做的裂空爪",
+        "onboard_time": 1739755459,
+        "rank": 3,
+        "category": "电影,美妆"
+      },
+      {
+        "raw_hot": 735376,
+        "num": 735376,
+        "word": "哪吒2燃爆北美五星评论霸屏",
+        "onboard_time": 1739749157,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 634153,
+        "num": 634153,
+        "word": "近一千辆车45度角为120让路",
+        "onboard_time": 1739753841,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 568390,
+        "num": 568390,
+        "word": "公积金三大调整方向持续助力安居",
+        "onboard_time": 1739720662,
+        "rank": 6,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 420213,
+        "num": 420213,
+        "word": "柯淳 费加罗",
+        "onboard_time": 1739756120,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 395467,
+        "num": 395467,
+        "word": "高中收取723元作业打印费认定违规",
+        "onboard_time": 1739751378,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370259,
+        "num": 370259,
+        "word": "深圳地铁11号线",
+        "onboard_time": 1739755459,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 525054,
+        "num": 369848,
+        "word": "李惠利吻戏",
+        "onboard_time": 1739750119,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 369146,
+        "num": 369146,
+        "word": "哪吒票房",
+        "onboard_time": 1739752459,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 324718,
+        "num": 324718,
+        "word": "詹姆斯退出全明星",
+        "onboard_time": 1739751679,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 321633,
+        "num": 321633,
+        "word": "丈夫回应妻子疑带三月大女儿跳江",
+        "onboard_time": 1739756178,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315894,
+        "num": 319831,
+        "word": "光线传媒",
+        "onboard_time": 1739757078,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 318221,
+        "num": 318221,
+        "word": "法国小伙来华捐622张日本侵华照片",
+        "onboard_time": 1739719402,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294240,
+        "num": 294240,
+        "word": "未成年拍举牌视频最便宜3元一条",
+        "onboard_time": 1739747235,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284384,
+        "num": 284384,
+        "word": "权志龙看眼泪女王看哭了",
+        "onboard_time": 1739755579,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327049,
+        "num": 278112,
+        "word": "金赛纶去世",
+        "onboard_time": 1739707158,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222601,
+        "num": 222601,
+        "word": "乘客航班上猝死航司责任如何界定",
+        "onboard_time": 1739753841,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 782890,
+        "num": 222118,
+        "word": "女子取出9岁存了24年的压岁钱",
+        "onboard_time": 1739749578,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295092,
+        "num": 220658,
+        "word": "全红婵评论区王楚钦表情包满天飞",
+        "onboard_time": 1739756240,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290634,
+        "num": 219004,
+        "word": "每天睡够8小时白天为何还犯困",
+        "onboard_time": 1739718262,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 253402,
+        "num": 217499,
+        "word": "何某某发表数百条攻击陈丽君博文",
+        "onboard_time": 1739755938,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239751,
+        "num": 215357,
+        "word": "金赛纶想要的只是第二次机会",
+        "onboard_time": 1739724256,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214996,
+        "num": 214996,
+        "word": "哪吒2带火了一条不起眼的小巷",
+        "onboard_time": 1739711243,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197318,
+        "num": 197318,
+        "word": "这才是修仙剧男主该有的仪态",
+        "onboard_time": 1739714002,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196841,
+        "num": 196841,
+        "word": "种地吧直播",
+        "onboard_time": 1739756778,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191475,
+        "num": 191475,
+        "word": "小演员一口辣条音把申小豹配活了",
+        "onboard_time": 1739754440,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183580,
+        "num": 183580,
+        "word": "美队4中国预测票房不足2亿",
+        "onboard_time": 1739745433,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182268,
+        "num": 182268,
+        "word": "曝光12亿贪腐案印度记者惨死化粪池",
+        "onboard_time": 1739711907,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 165160,
+        "num": 165160,
+        "word": "真的有T6666次列车",
+        "onboard_time": 1739756658,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30982,
+        "num": 164234,
+        "word": "人民网评重庆燃气屡次点燃群众火气",
+        "onboard_time": 1739757618,
+        "rank": 32,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 163589,
+        "num": 163589,
+        "word": "燕云十六声",
+        "onboard_time": 1739752881,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162463,
+        "num": 162463,
+        "word": "尹肖删博",
+        "onboard_time": 1739757378,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161433,
+        "num": 161433,
+        "word": "哪吒2里章鱼大将军为何敢烤自己的腕",
+        "onboard_time": 1739747415,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161918,
+        "num": 157405,
+        "word": "哪吒",
+        "onboard_time": 1739750058,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152461,
+        "num": 152461,
+        "word": "杨紫李祯盘发路透",
+        "onboard_time": 1739756298,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143210,
+        "num": 143210,
+        "word": "詹姆斯与欧文疯狂贴贴",
+        "onboard_time": 1739757738,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142154,
+        "num": 142154,
+        "word": "K总官宣与女友结婚",
+        "onboard_time": 1739719340,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 135341,
+        "num": 135341,
+        "word": "官方再通报高中收取723元打印费",
+        "onboard_time": 1739747295,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134219,
+        "num": 134219,
+        "word": "成都除夕走失19天女子遗体被找到",
+        "onboard_time": 1739713824,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130676,
+        "num": 130676,
+        "word": "东部战区回应加舰过航台湾海峡",
+        "onboard_time": 1739750178,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127819,
+        "num": 127819,
+        "word": "章若楠张淼怡一切的一切",
+        "onboard_time": 1739754500,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120493,
+        "num": 120493,
+        "word": "为什么周末总过得这么快",
+        "onboard_time": 1739712265,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119686,
+        "num": 119686,
+        "word": "深圳一商场惊现哪吒通天梯",
+        "onboard_time": 1739757378,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119435,
+        "num": 119435,
+        "word": "虞书欣何与双轨拍摄物料路透",
+        "onboard_time": 1739756478,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117843,
+        "num": 117843,
+        "word": "饺子导演从来不会说不行不对",
+        "onboard_time": 1739757618,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117408,
+        "num": 117408,
+        "word": "长期不吃早餐身体的危害",
+        "onboard_time": 1739707460,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115096,
+        "num": 115096,
+        "word": "特6666的火车站广播",
+        "onboard_time": 1739757139,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#绿水青山瞰我家#"
+    }
+  }
+}

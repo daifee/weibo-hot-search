@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739756730767,
+  "endTime": 1739757798896,
   "band_list": [
     {
       "raw_hot": 17381826,
@@ -299,6 +299,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 860823,
+      "num": 860823,
+      "word": "玻璃做的裂空爪",
+      "onboard_time": 1739755459,
+      "rank": 30,
+      "category": "电影,美妆"
+    },
+    {
       "raw_hot": 847540,
       "num": 534439,
       "word": "这才是修仙剧男主该有的仪态",
@@ -372,7 +380,7 @@
     },
     {
       "raw_hot": 783120,
-      "num": 202125,
+      "num": 222118,
       "word": "女子取出9岁存了24年的压岁钱",
       "onboard_time": 1739749578,
       "rank": 20,
@@ -524,7 +532,7 @@
     },
     {
       "raw_hot": 630293,
-      "num": 365474,
+      "num": 369848,
       "word": "李惠利吻戏",
       "onboard_time": 1739750119,
       "rank": 10,
@@ -681,14 +689,6 @@
       "onboard_time": 1739668938,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 489604,
-      "num": 170760,
-      "word": "玻璃做的裂空爪",
-      "onboard_time": 1739755459,
-      "rank": 30,
-      "category": "电影,美妆"
     },
     {
       "raw_hot": 489378,
@@ -899,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 420213,
+      "num": 420213,
+      "word": "柯淳 费加罗",
+      "onboard_time": 1739756120,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 419872,
       "num": 267024,
       "word": "可可豆称哪吒2火出天际确实没想到",
@@ -1051,6 +1059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 370259,
+      "num": 370259,
+      "word": "深圳地铁11号线",
+      "onboard_time": 1739755459,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 366668,
       "num": 228671,
       "word": "猫主人称罕见双面猫已去世",
@@ -1163,6 +1179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 321633,
+      "num": 321633,
+      "word": "丈夫回应妻子疑带三月大女儿跳江",
+      "onboard_time": 1739756178,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 320631,
       "num": 208812,
       "word": "母猫生下罕见双面猫",
@@ -1187,20 +1211,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 315894,
+      "num": 319831,
+      "word": "光线传媒",
+      "onboard_time": 1739757078,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 315340,
       "num": 315340,
       "word": "你的吒儿埋了多少文物梗",
       "onboard_time": 1739671339,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 310718,
-      "num": 310718,
-      "word": "深圳地铁11号线",
-      "onboard_time": 1739755459,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 306662,
@@ -1232,6 +1256,14 @@
       "word": "尹肖说WTT逼退陈梦樊振东是颠倒黑白",
       "onboard_time": 1739626701,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 295092,
+      "num": 220658,
+      "word": "全红婵评论区王楚钦表情包满天飞",
+      "onboard_time": 1739756240,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -1281,6 +1313,14 @@
       "onboard_time": 1739677339,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 284384,
+      "num": 284384,
+      "word": "权志龙看眼泪女王看哭了",
+      "onboard_time": 1739755579,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 284192,
@@ -1427,6 +1467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 253402,
+      "num": 217499,
+      "word": "何某某发表数百条攻击陈丽君博文",
+      "onboard_time": 1739755938,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249853,
       "num": 442178,
       "word": "申小豹一口辣条音可爱爆了",
@@ -1467,14 +1515,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 242970,
-      "num": 200958,
-      "word": "何某某发表数百条攻击陈丽君博文",
-      "onboard_time": 1739755938,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 240707,
       "num": 424697,
       "word": "棋牌室扰民老板说给业主装隔音棉",
@@ -1497,14 +1537,6 @@
       "onboard_time": 1739711725,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 235763,
-      "num": 235763,
-      "word": "权志龙看眼泪女王看哭了",
-      "onboard_time": 1739755579,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 235018,
@@ -1731,14 +1763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199723,
-      "num": 199723,
-      "word": "柯淳 费加罗",
-      "onboard_time": 1739756120,
-      "rank": 24,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 199060,
       "num": 187402,
       "word": "哪吒读音难倒老外",
@@ -1803,6 +1827,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 196841,
+      "num": 196841,
+      "word": "种地吧直播",
+      "onboard_time": 1739756778,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195570,
       "num": 195570,
       "word": "周峻纬优绩主义将人物化",
@@ -1865,6 +1897,14 @@
       "onboard_time": 1739634140,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191475,
+      "num": 191475,
+      "word": "小演员一口辣条音把申小豹配活了",
+      "onboard_time": 1739754440,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 189841,
@@ -2099,14 +2139,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 171643,
-      "num": 171643,
-      "word": "小演员一口辣条音把申小豹配活了",
-      "onboard_time": 1739754440,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 171491,
       "num": 383640,
       "word": "王祖蓝好会给老婆准备惊喜",
@@ -2171,12 +2203,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165160,
+      "num": 165160,
+      "word": "真的有T6666次列车",
+      "onboard_time": 1739756658,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163589,
+      "num": 163589,
+      "word": "燕云十六声",
+      "onboard_time": 1739752881,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 162463,
+      "num": 162463,
+      "word": "尹肖删博",
+      "onboard_time": 1739757378,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162331,
       "num": 152491,
       "word": "权志龙综艺",
       "onboard_time": 1739719941,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161918,
+      "num": 158518,
+      "word": "哪吒",
+      "onboard_time": 1739750058,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 161625,
@@ -2193,14 +2257,6 @@
       "onboard_time": 1739716344,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 158518,
-      "num": 158518,
-      "word": "哪吒",
-      "onboard_time": 1739750058,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 157712,
@@ -2275,14 +2331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153428,
-      "num": 153428,
-      "word": "全红婵评论区王楚钦表情包满天飞",
-      "onboard_time": 1739756240,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 152730,
       "num": 152730,
       "word": "月明千里",
@@ -2321,14 +2369,6 @@
       "onboard_time": 1739619801,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 148856,
-      "num": 148856,
-      "word": "燕云十六声",
-      "onboard_time": 1739752881,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 147220,
@@ -2387,6 +2427,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 143210,
+      "num": 143210,
+      "word": "詹姆斯与欧文疯狂贴贴",
+      "onboard_time": 1739757738,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142674,
       "num": 142674,
       "word": "陈玘谈WTT改革",
@@ -2432,14 +2480,6 @@
       "word": "41岁媒体人吴玉燕因流感离世",
       "onboard_time": 1739617882,
       "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140368,
-      "num": 140368,
-      "word": "丈夫回应妻子疑带三月大女儿跳江",
-      "onboard_time": 1739756178,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -2611,6 +2651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127819,
+      "num": 127819,
+      "word": "章若楠张淼怡一切的一切",
+      "onboard_time": 1739754500,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127371,
       "num": 127371,
       "word": "一艺考生时间冲突计划25万包机赶考",
@@ -2739,6 +2787,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119686,
+      "num": 119686,
+      "word": "深圳一商场惊现哪吒通天梯",
+      "onboard_time": 1739757378,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119435,
+      "num": 119435,
+      "word": "虞书欣何与双轨拍摄物料路透",
+      "onboard_time": 1739756478,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119423,
       "num": 149146,
       "word": "花几十元可定制未成年隐私部位内容",
@@ -2761,6 +2825,14 @@
       "onboard_time": 1739687538,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117843,
+      "num": 117843,
+      "word": "饺子导演从来不会说不行不对",
+      "onboard_time": 1739757618,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 117669,
@@ -2793,6 +2865,14 @@
       "onboard_time": 1739717902,
       "rank": 45,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 115096,
+      "num": 115096,
+      "word": "特6666的火车站广播",
+      "onboard_time": 1739757139,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114818,
@@ -2851,14 +2931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111230,
-      "num": 111230,
-      "word": "虞书欣何与双轨拍摄物料路透",
-      "onboard_time": 1739756478,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 111037,
       "num": 111037,
       "word": "王家卫镜头下的张曼玉",
@@ -2891,28 +2963,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 110404,
-      "num": 110404,
-      "word": "章若楠张淼怡一切的一切",
-      "onboard_time": 1739754500,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 108565,
       "num": 108565,
       "word": "藕饼",
       "onboard_time": 1739719882,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 107397,
-      "num": 107397,
-      "word": "真的有T6666次列车",
-      "onboard_time": 1739756658,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107272,
@@ -3433,6 +3489,14 @@
       "onboard_time": 1739686039,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 30982,
+      "num": 164234,
+      "word": "人民网评重庆燃气屡次点燃群众火气",
+      "onboard_time": 1739757618,
+      "rank": 32,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 29630,
