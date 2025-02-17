@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739769839975,
+  "endTime": 1739770824982,
   "band_list": [
     {
       "raw_hot": 17381826,
@@ -171,6 +171,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1409979,
+      "num": 1409979,
+      "word": "社保挂靠代缴为何屡禁不止",
+      "onboard_time": 1739764100,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1388627,
       "num": 1104355,
       "word": "金赛纶被曝生前重度抑郁",
@@ -195,12 +203,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1330380,
-      "num": 1330380,
-      "word": "社保挂靠代缴为何屡禁不止",
-      "onboard_time": 1739764100,
-      "rank": 15,
-      "category": "民生新闻"
+      "raw_hot": 1300989,
+      "num": 1300989,
+      "word": "刘亦菲说成年三部曲没丢自己的脸",
+      "onboard_time": 1739769560,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1293657,
@@ -675,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 625184,
+      "num": 625184,
+      "word": "金赛纶死亡现场没有遗书",
+      "onboard_time": 1739769380,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 624174,
       "num": 483411,
       "word": "丈夫回应妻子疑带三月大女儿跳江",
@@ -833,6 +849,22 @@
       "onboard_time": 1739676498,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 519749,
+      "num": 453388,
+      "word": "浪姐6一公分组",
+      "onboard_time": 1739768961,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 519370,
+      "num": 450936,
+      "word": "徐冬冬发文表白尹子维",
+      "onboard_time": 1739768661,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 519107,
@@ -1059,14 +1091,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 434696,
-      "num": 434696,
-      "word": "浪姐6一公分组",
-      "onboard_time": 1739768961,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 431967,
       "num": 431967,
       "word": "林允有一种气血很足的美",
@@ -1185,14 +1209,6 @@
       "onboard_time": 1739701160,
       "rank": 39,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 391980,
-      "num": 391980,
-      "word": "刘亦菲说成年三部曲没丢自己的脸",
-      "onboard_time": 1739769560,
-      "rank": 22,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 388720,
@@ -1491,14 +1507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 301043,
-      "num": 381876,
-      "word": "徐冬冬发文表白尹子维",
-      "onboard_time": 1739768661,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 300664,
       "num": 729842,
       "word": "库里全明星MVP",
@@ -1755,8 +1763,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 251345,
-      "num": 251345,
+      "raw_hot": 252794,
+      "num": 252794,
+      "word": "这下遇到真石矶娘娘了",
+      "onboard_time": 1739769981,
+      "rank": 31,
+      "category": "民生新闻,电影"
+    },
+    {
+      "raw_hot": 252095,
+      "num": 252095,
       "word": "未成年人卷入网络软色情",
       "onboard_time": 1739767521,
       "rank": 31,
@@ -1907,6 +1923,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 230974,
+      "num": 410568,
+      "word": "美政府紧急召回一批辞退员工",
+      "onboard_time": 1739767821,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 230743,
+      "num": 230743,
+      "word": "成年人的新型情绪搭子",
+      "onboard_time": 1739770280,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 229827,
       "num": 197242,
       "word": "金饰价格一夜大跌18元每克",
@@ -2001,6 +2033,14 @@
       "onboard_time": 1739697019,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 214738,
+      "num": 295720,
+      "word": "最好用的刀变最扎心的箭",
+      "onboard_time": 1739769981,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 214301,
@@ -2515,6 +2555,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 175216,
+      "num": 291684,
+      "word": "黎深福布斯",
+      "onboard_time": 1739769380,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 174771,
       "num": 228693,
       "word": "吴敬平尹肖的争论折射国乒转型之痛",
@@ -2691,6 +2739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159684,
+      "num": 293810,
+      "word": "朱茵林依晨李一桐合体封面",
+      "onboard_time": 1739770099,
+      "rank": 21,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 157712,
       "num": 157712,
       "word": "原来切牛肉要横着切才嫩",
@@ -2705,6 +2761,14 @@
       "onboard_time": 1739762000,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 157372,
+      "num": 253227,
+      "word": "你对象叫你平安回家拍出来了",
+      "onboard_time": 1739770700,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 156748,
@@ -2769,14 +2833,6 @@
       "onboard_time": 1739626880,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 153084,
-      "num": 410568,
-      "word": "美政府紧急召回一批辞退员工",
-      "onboard_time": 1739767821,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 152730,
@@ -2897,6 +2953,14 @@
       "onboard_time": 1739699479,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 143358,
+      "num": 143358,
+      "word": "JDE官宣更名JDG",
+      "onboard_time": 1739770700,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 143307,
@@ -3033,14 +3097,6 @@
       "onboard_time": 1739710105,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 136794,
-      "num": 136794,
-      "word": "黎深福布斯",
-      "onboard_time": 1739769380,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 136674,
@@ -3267,12 +3323,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124542,
+      "num": 124542,
+      "word": "塔图姆绝杀",
+      "onboard_time": 1739770400,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124459,
       "num": 124459,
       "word": "仙台转生就在今天",
       "onboard_time": 1739702058,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124002,
+      "num": 124002,
+      "word": "国乒球迷要的是公开和透明",
+      "onboard_time": 1739770162,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 123521,
@@ -3337,6 +3409,14 @@
       "onboard_time": 1739690357,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119082,
+      "num": 119082,
+      "word": "地铁上的返校大学生",
+      "onboard_time": 1739770219,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 118757,
@@ -3505,6 +3585,14 @@
       "onboard_time": 1739719882,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 108351,
+      "num": 169836,
+      "word": "赵丽颖温柔溢出屏幕了",
+      "onboard_time": 1739769860,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 107272,
@@ -3707,6 +3795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 92189,
+      "num": 157278,
+      "word": "吉克隽逸带妈妈去旅行了",
+      "onboard_time": 1739770460,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92121,
       "num": 92121,
       "word": "林俊杰与合音老师们合作给大家小驚喜",
@@ -3889,14 +3985,6 @@
       "onboard_time": 1739722819,
       "rank": 48,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 65382,
-      "num": 270548,
-      "word": "金赛纶死亡现场没有遗书",
-      "onboard_time": 1739769380,
-      "rank": 28,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 62469,
@@ -4089,6 +4177,14 @@
       "onboard_time": 1739672060,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 40034,
+      "num": 356162,
+      "word": "哪吒手办众筹金额暴涨近30000%",
+      "onboard_time": 1739770099,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 38792,

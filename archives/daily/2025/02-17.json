@@ -1,6 +1,6 @@
 {
   "startTime": 1739723108252,
-  "endTime": 1739769839975,
+  "endTime": 1739770824982,
   "band_list": [
     {
       "raw_hot": 3038517,
@@ -59,6 +59,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1409979,
+      "num": 1409979,
+      "word": "社保挂靠代缴为何屡禁不止",
+      "onboard_time": 1739764100,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1388627,
       "num": 1104355,
       "word": "金赛纶被曝生前重度抑郁",
@@ -67,12 +75,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1330380,
-      "num": 1330380,
-      "word": "社保挂靠代缴为何屡禁不止",
-      "onboard_time": 1739764100,
-      "rank": 15,
-      "category": "民生新闻"
+      "raw_hot": 1300989,
+      "num": 1300989,
+      "word": "刘亦菲说成年三部曲没丢自己的脸",
+      "onboard_time": 1739769560,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1291681,
@@ -243,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 625184,
+      "num": 625184,
+      "word": "金赛纶死亡现场没有遗书",
+      "onboard_time": 1739769380,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 624174,
       "num": 483411,
       "word": "丈夫回应妻子疑带三月大女儿跳江",
@@ -297,6 +313,22 @@
       "onboard_time": 1739757378,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 519749,
+      "num": 453388,
+      "word": "浪姐6一公分组",
+      "onboard_time": 1739768961,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 519370,
+      "num": 450936,
+      "word": "徐冬冬发文表白尹子维",
+      "onboard_time": 1739768661,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 519107,
@@ -355,14 +387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 434696,
-      "num": 434696,
-      "word": "浪姐6一公分组",
-      "onboard_time": 1739768961,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 400146,
       "num": 400146,
       "word": "微信DeepSeek王炸组合",
@@ -393,14 +417,6 @@
       "onboard_time": 1739714722,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 391980,
-      "num": 391980,
-      "word": "刘亦菲说成年三部曲没丢自己的脸",
-      "onboard_time": 1739769560,
-      "rank": 22,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 384260,
@@ -513,14 +529,6 @@
       "onboard_time": 1739756240,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 301043,
-      "num": 381876,
-      "word": "徐冬冬发文表白尹子维",
-      "onboard_time": 1739768661,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 300664,
@@ -643,8 +651,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 251345,
-      "num": 251345,
+      "raw_hot": 252794,
+      "num": 252794,
+      "word": "这下遇到真石矶娘娘了",
+      "onboard_time": 1739769981,
+      "rank": 31,
+      "category": "民生新闻,电影"
+    },
+    {
+      "raw_hot": 252095,
+      "num": 252095,
       "word": "未成年人卷入网络软色情",
       "onboard_time": 1739767521,
       "rank": 31,
@@ -707,6 +723,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230974,
+      "num": 410568,
+      "word": "美政府紧急召回一批辞退员工",
+      "onboard_time": 1739767821,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 230743,
+      "num": 230743,
+      "word": "成年人的新型情绪搭子",
+      "onboard_time": 1739770280,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 217156,
       "num": 217156,
       "word": "难哄",
@@ -721,6 +753,14 @@
       "onboard_time": 1739761638,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 214738,
+      "num": 295720,
+      "word": "最好用的刀变最扎心的箭",
+      "onboard_time": 1739769981,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 214301,
@@ -859,6 +899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175216,
+      "num": 291684,
+      "word": "黎深福布斯",
+      "onboard_time": 1739769380,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 173862,
       "num": 396729,
       "word": "北京中小学体育八条",
@@ -915,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159684,
+      "num": 293810,
+      "word": "朱茵林依晨李一桐合体封面",
+      "onboard_time": 1739770099,
+      "rank": 21,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 159611,
       "num": 152475,
       "word": "让摄影师都害怕的艺人出现了",
@@ -931,6 +987,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 157372,
+      "num": 253227,
+      "word": "你对象叫你平安回家拍出来了",
+      "onboard_time": 1739770700,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156590,
       "num": 152419,
       "word": "王者荣耀牡丹新皮肤",
@@ -945,14 +1009,6 @@
       "onboard_time": 1739750178,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 153084,
-      "num": 410568,
-      "word": "美政府紧急召回一批辞退员工",
-      "onboard_time": 1739767821,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 152888,
@@ -1027,6 +1083,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 143358,
+      "num": 143358,
+      "word": "JDE官宣更名JDG",
+      "onboard_time": 1739770700,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 143210,
       "num": 143210,
       "word": "詹姆斯与欧文疯狂贴贴",
@@ -1075,14 +1139,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 136794,
-      "num": 136794,
-      "word": "黎深福布斯",
-      "onboard_time": 1739769380,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 131226,
       "num": 131226,
       "word": "虞书欣何与双轨拍摄物料路透",
@@ -1121,6 +1177,22 @@
       "onboard_time": 1739704219,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124542,
+      "num": 124542,
+      "word": "塔图姆绝杀",
+      "onboard_time": 1739770400,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 124002,
+      "num": 124002,
+      "word": "国乒球迷要的是公开和透明",
+      "onboard_time": 1739770162,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 123327,
@@ -1179,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119082,
+      "num": 119082,
+      "word": "地铁上的返校大学生",
+      "onboard_time": 1739770219,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118757,
       "num": 361659,
       "word": "月子中心回应宝妈出走后投湖轻生",
@@ -1225,6 +1305,14 @@
       "onboard_time": 1739750598,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 108351,
+      "num": 169836,
+      "word": "赵丽颖温柔溢出屏幕了",
+      "onboard_time": 1739769860,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 105235,
@@ -1289,6 +1377,14 @@
       "onboard_time": 1739745013,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 92189,
+      "num": 157278,
+      "word": "吉克隽逸带妈妈去旅行了",
+      "onboard_time": 1739770460,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 90612,
@@ -1403,14 +1499,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 65382,
-      "num": 270548,
-      "word": "金赛纶死亡现场没有遗书",
-      "onboard_time": 1739769380,
-      "rank": 28,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 63457,
       "num": 101519,
       "word": "美加两国冰球队员9秒内3次互殴",
@@ -1489,6 +1577,14 @@
       "onboard_time": 1739708907,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 40034,
+      "num": 356162,
+      "word": "哪吒手办众筹金额暴涨近30000%",
+      "onboard_time": 1739770099,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 37717,
