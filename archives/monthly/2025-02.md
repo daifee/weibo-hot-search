@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/02/01 00:26:54 ~ 2025/02/17 23:37:20
+本榜单时间：2025/02/01 00:26:54 ~ 2025/02/18 00:28:16
 </p>
 </blockquote>
 <p>
@@ -3753,6 +3753,12 @@ DeepSeek创始人老家村口拉起横幅（热度：931807）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%A1%8C%E6%98%9F%E6%88%96%E6%92%9E%E5%9C%B0%E7%90%83%E6%98%AF%E8%99%9A%E6%83%8A%E8%BF%98%E6%98%AF%E4%B8%A5%E9%87%8D%E5%A8%81%E8%83%81%23" target="weibo">
+小行星或撞地球是虚惊还是严重威胁（热度：847023）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A5%BA%E5%AD%90%E5%AF%BC%E6%BC%94%E7%9A%84%E6%AF%9B%E8%A1%A3400%E5%9D%97%23" target="weibo">
 饺子导演的毛衣400块（热度：846066）
 </a>
@@ -6005,12 +6011,6 @@ WTT观众席疑似骑手团建（热度：585128）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%8B%E7%94%B5%E5%BD%B1%E7%9A%84%E6%9C%80%E4%BD%B3%E4%BD%8D%E7%BD%AE%E4%B8%8D%E6%98%AF%E6%AD%A3%E4%B8%AD%E9%97%B4%23" target="weibo">
 看电影的最佳位置不是正中间（热度：584977）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E7%A5%A8%E6%88%BF%E8%B6%85%E8%BF%87100%E4%BA%BF%23" target="weibo">
-哪吒2票房超过100亿（热度：584649）
 </a>
 </li>
 
