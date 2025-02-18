@@ -1,0 +1,410 @@
+{
+  "runTime": 1739913686519,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 77382,
+        "num": 123492,
+        "word": "哪吒2全球动画第1",
+        "onboard_time": 1739879063,
+        "rank": 0,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 42600,
+        "num": 42600,
+        "word": "泰国总理称中国女保镖在泰国也火了",
+        "onboard_time": 1739888663,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1936,
+        "num": 40893,
+        "word": "中国式现代化的万千气象海南行",
+        "onboard_time": 1739782103,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73828,
+        "num": 40820,
+        "word": "周星驰cos哪吒造型",
+        "onboard_time": 1739884104,
+        "rank": 3,
+        "category": "艺人,电影"
+      },
+      {
+        "raw_hot": 40365,
+        "num": 40365,
+        "word": "美俄将任命谈判团队结束乌克兰冲突",
+        "onboard_time": 1739893341,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 36173,
+        "num": 36173,
+        "word": "石矶娘娘有广州公司参与设计",
+        "onboard_time": 1739895799,
+        "rank": 5,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 71610,
+        "num": 36068,
+        "word": "温以凡床单",
+        "onboard_time": 1739892501,
+        "rank": 6,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 50668,
+        "num": 35376,
+        "word": "王嘉尔不再用经纪人的原因",
+        "onboard_time": 1739877924,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34012,
+        "num": 34012,
+        "word": "街道办回应招聘环卫工要求35岁以下",
+        "onboard_time": 1739891122,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30883,
+        "num": 30883,
+        "word": "阿尔茨海默病可以手术治疗了",
+        "onboard_time": 1739883622,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 84996,
+        "num": 30685,
+        "word": "陈晓陈妍希 1370天",
+        "onboard_time": 1739910311,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80235,
+        "num": 30657,
+        "word": "王大陆或被判5年以下有期徒刑",
+        "onboard_time": 1739872704,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42394,
+        "num": 30270,
+        "word": "刘楚恬演的桑稚",
+        "onboard_time": 1739890282,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38807,
+        "num": 30087,
+        "word": "丈夫灌面汤呛死妻子案家属望重判",
+        "onboard_time": 1739882182,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38428,
+        "num": 29951,
+        "word": "白敬亭 双开门",
+        "onboard_time": 1739879183,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59321,
+        "num": 29802,
+        "word": "陈晓陈妍希离婚博坚持打卡1370天",
+        "onboard_time": 1739890823,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31346,
+        "num": 29426,
+        "word": "哪吒2成为全球影史第8",
+        "onboard_time": 1739879963,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29423,
+        "num": 29423,
+        "word": "陶勇谈郭艾伦眼睛受伤",
+        "onboard_time": 1739892143,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24847,
+        "num": 24847,
+        "word": "胡歌想再多活几年陪伴女儿",
+        "onboard_time": 1739889024,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20915,
+        "num": 24367,
+        "word": "教师被举报家暴及性骚扰学生后仍在职",
+        "onboard_time": 1739890462,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24073,
+        "num": 24073,
+        "word": "13岁女孩险被骗59万被支付宝拦截",
+        "onboard_time": 1739896816,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24057,
+        "num": 24057,
+        "word": "护士因拔针出血跪求患者原谅",
+        "onboard_time": 1739866042,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23786,
+        "num": 23786,
+        "word": "博主用70万黄金锅涮火锅",
+        "onboard_time": 1739885363,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22350,
+        "num": 22350,
+        "word": "怎么可能我的孩子会抑郁",
+        "onboard_time": 1739889562,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21807,
+        "num": 21807,
+        "word": "白色橄榄树重剪",
+        "onboard_time": 1739891543,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21528,
+        "num": 21528,
+        "word": "马斯克质疑美国黄金储备量真实性",
+        "onboard_time": 1739893102,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21475,
+        "num": 21475,
+        "word": "药王谷",
+        "onboard_time": 1739890403,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21100,
+        "num": 21100,
+        "word": "俄方反对乌克兰加入军事联盟",
+        "onboard_time": 1739895618,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20657,
+        "num": 20657,
+        "word": "惠英红杨幂 又搂又抱又亲",
+        "onboard_time": 1739887464,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 18040,
+        "num": 20315,
+        "word": "郭艾伦眼睛流血",
+        "onboard_time": 1739872284,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20298,
+        "num": 20298,
+        "word": "医生接产带壳宝宝难掩惊喜",
+        "onboard_time": 1739881163,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8359,
+        "num": 20249,
+        "word": "翻翻内存卡看火箭军锤炼本领",
+        "onboard_time": 1739911931,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20244,
+        "num": 20244,
+        "word": "王大陆将会被移送新北地检署",
+        "onboard_time": 1739907311,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19574,
+        "num": 19574,
+        "word": "医院回应护士向患者下跪道歉",
+        "onboard_time": 1739908512,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18921,
+        "num": 18921,
+        "word": "石矶娘娘的风吹到了TVB",
+        "onboard_time": 1739889263,
+        "rank": 34,
+        "category": "剧集,电影"
+      },
+      {
+        "raw_hot": 18810,
+        "num": 18810,
+        "word": "郭艾伦 以后可能打不了篮球了",
+        "onboard_time": 1739872403,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7837,
+        "num": 17953,
+        "word": "哪吒电影周边卷出新高度",
+        "onboard_time": 1739911570,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17723,
+        "num": 17880,
+        "word": "3岁哪吒勇闯联合国",
+        "onboard_time": 1739889984,
+        "rank": 37,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 17852,
+        "num": 17852,
+        "word": "斯琴高丽与顾峰不存在夫妻关系",
+        "onboard_time": 1739894061,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17802,
+        "num": 17802,
+        "word": "怎么刘诗诗就越演越轻盈",
+        "onboard_time": 1739894180,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17487,
+        "num": 17487,
+        "word": "难哄",
+        "onboard_time": 1739852005,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17012,
+        "num": 17012,
+        "word": "俄说加入欧盟是乌克兰主权权利",
+        "onboard_time": 1739887403,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 8810,
+        "num": 16918,
+        "word": "剪纸界出哪吒表情包了",
+        "onboard_time": 1739908930,
+        "rank": 42,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 16867,
+        "num": 16867,
+        "word": "俄美决定未来将在多领域合作",
+        "onboard_time": 1739913611,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15988,
+        "num": 15988,
+        "word": "成毅全新花絮照",
+        "onboard_time": 1739912892,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15904,
+        "num": 15904,
+        "word": "广州一街道招聘环卫工要求35岁以下",
+        "onboard_time": 1739890763,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15503,
+        "num": 15503,
+        "word": "难哄偷偷藏不住同一角色对比",
+        "onboard_time": 1739883023,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15450,
+        "num": 15450,
+        "word": "媒体评小学生开始用DeepSeek写作业",
+        "onboard_time": 1739907731,
+        "rank": 47,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 14282,
+        "num": 15288,
+        "word": "这些话说到民营企业家心坎上",
+        "onboard_time": 1739901733,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15288,
+        "num": 15287,
+        "word": "杨幂 皮裙甜妹",
+        "onboard_time": 1739887644,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#这些话说到民营企业家心坎上#"
+    }
+  }
+}
