@@ -1,7 +1,15 @@
 {
   "startTime": 1739809696665,
-  "endTime": 1739835350456,
+  "endTime": 1739842929446,
   "band_list": [
+    {
+      "raw_hot": 1627621,
+      "num": 1627621,
+      "word": "AI公务员上岗",
+      "onboard_time": 1739835977,
+      "rank": 0,
+      "category": "互联网"
+    },
     {
       "raw_hot": 1442655,
       "num": 1442655,
@@ -19,11 +27,51 @@
       "category": "网红"
     },
     {
+      "raw_hot": 961184,
+      "num": 961184,
+      "word": "石国瑞逝世",
+      "onboard_time": 1739837900,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 913796,
+      "num": 456758,
+      "word": "沈梦辰杜海涛经历9年爱情长跑",
+      "onboard_time": 1739825951,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 847023,
       "num": 847023,
       "word": "小行星或撞地球是虚惊还是严重威胁",
       "onboard_time": 1739804721,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 834506,
+      "num": 834506,
+      "word": "6万买饺子导演高仿号当事人发声",
+      "onboard_time": 1739810358,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 729823,
+      "num": 729823,
+      "word": "AI才女罗福莉已到新岗位上班",
+      "onboard_time": 1739836278,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 700061,
+      "num": 453675,
+      "word": "女子多次试管怀孕乘网约车车祸流产",
+      "onboard_time": 1739801541,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -35,16 +83,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 552474,
-      "num": 268383,
-      "word": "女子多次试管怀孕乘网约车车祸流产",
-      "onboard_time": 1739801541,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 545394,
-      "num": 209508,
+      "raw_hot": 577732,
+      "num": 450672,
       "word": "汪峰携女友森林北看演唱会",
       "onboard_time": 1739833935,
       "rank": 13,
@@ -57,6 +97,46 @@
       "onboard_time": 1739807599,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 471985,
+      "num": 471985,
+      "word": "相柳这次终于是桐华的男主了",
+      "onboard_time": 1739838620,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 446917,
+      "num": 446917,
+      "word": "亲属称罗福莉与丈夫研究领域相同",
+      "onboard_time": 1739840239,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 426545,
+      "num": 426545,
+      "word": "春季第二个节气到了",
+      "onboard_time": 1739833394,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 418645,
+      "num": 418645,
+      "word": "原来难哄的是桑延",
+      "onboard_time": 1739836699,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 400392,
+      "num": 400392,
+      "word": "为什么明星更易患抑郁症",
+      "onboard_time": 1739838680,
+      "rank": 16,
+      "category": "健康医疗,艺人"
     },
     {
       "raw_hot": 398294,
@@ -75,12 +155,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 355748,
+      "num": 273595,
+      "word": "花八万给妈妈补上十几年的社保",
+      "onboard_time": 1739835197,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 349814,
       "num": 262867,
       "word": "周扬青回应网曝新恋情",
       "onboard_time": 1739801841,
       "rank": 12,
       "category": "时尚,网红"
+    },
+    {
+      "raw_hot": 347410,
+      "num": 347410,
+      "word": "迪丽热巴风衣阔腿裤造型",
+      "onboard_time": 1739835917,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 346234,
@@ -97,6 +193,14 @@
       "onboard_time": 1739800880,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 333337,
+      "num": 333337,
+      "word": "美一客机加拿大降落时发生事故15伤",
+      "onboard_time": 1739838741,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 330121,
@@ -131,20 +235,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 281067,
+      "num": 463388,
+      "word": "专家称不必过于担忧AI抢人类铁饭碗",
+      "onboard_time": 1739842398,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 267641,
+      "num": 267641,
+      "word": "商家用女童跪撩上衣姿势展示童装",
+      "onboard_time": 1739797161,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 255674,
       "num": 230635,
       "word": "哪吒2从全球50升到10仅用9天",
       "onboard_time": 1739818573,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 255191,
-      "num": 255191,
-      "word": "春季第二个节气到了",
-      "onboard_time": 1739833394,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 242316,
@@ -155,20 +267,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 239501,
-      "num": 193648,
-      "word": "沈梦辰杜海涛经历9年爱情长跑",
-      "onboard_time": 1739825951,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 237227,
-      "num": 185806,
-      "word": "商家用女童跪撩上衣姿势展示童装",
-      "onboard_time": 1739797161,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 241458,
+      "num": 241458,
+      "word": "全红婵等奥运健儿领取终身保障",
+      "onboard_time": 1739840479,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 235263,
@@ -179,12 +283,36 @@
       "category": "网红"
     },
     {
+      "raw_hot": 224467,
+      "num": 224467,
+      "word": "深圳70名AI数智员工上岗",
+      "onboard_time": 1739812394,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 224419,
+      "num": 224419,
+      "word": "工行竟和居委会批量代开养老金账户",
+      "onboard_time": 1739837178,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222747,
       "num": 222747,
       "word": "文淇 大大方方的",
       "onboard_time": 1739795119,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 222033,
+      "num": 222033,
+      "word": "多喝五黑汤气血充足睡眠好",
+      "onboard_time": 1739833154,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 221235,
@@ -219,20 +347,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 181585,
-      "num": 87566,
-      "word": "6万买饺子导演高仿号当事人发声",
-      "onboard_time": 1739810358,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 165850,
-      "num": 165850,
+      "raw_hot": 177841,
+      "num": 177841,
       "word": "女生被催婚催烦一口气把长发剪了",
       "onboard_time": 1739803582,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 166845,
+      "num": 166845,
+      "word": "她穿着最甜的服装做最狠的引体向上",
+      "onboard_time": 1739837479,
+      "rank": 33,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 165781,
+      "num": 165781,
+      "word": "DeepSeek手机版安全使用教程",
+      "onboard_time": 1739842818,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 163119,
@@ -243,12 +379,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163091,
+      "num": 210530,
+      "word": "奶奶给孙女缝结界兽套装回头率爆表",
+      "onboard_time": 1739840599,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 160516,
+      "num": 205445,
+      "word": "我爱的那些人 杨幂",
+      "onboard_time": 1739835017,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 159763,
+      "num": 159763,
+      "word": "美国客机机身翻转落地",
+      "onboard_time": 1739833935,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 159219,
       "num": 159219,
       "word": "缺爱的人很难进入一段亲密关系",
       "onboard_time": 1739806820,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 158441,
+      "num": 201650,
+      "word": "开除树籍",
+      "onboard_time": 1739842038,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 155726,
@@ -267,6 +435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 153284,
+      "num": 153284,
+      "word": "2025开年的中国给世界亿点点震撼",
+      "onboard_time": 1739840419,
+      "rank": 38,
+      "category": "民生新闻,国内时政"
+    },
+    {
       "raw_hot": 151376,
       "num": 151376,
       "word": "66岁单身大妈去养生局感染HPV",
@@ -275,12 +451,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149077,
+      "num": 149077,
+      "word": "杭州AI主播和真人长得也太像了",
+      "onboard_time": 1739838259,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148608,
+      "num": 135984,
+      "word": "难哄开播",
+      "onboard_time": 1739842759,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146411,
       "num": 146411,
       "word": "刘浩存文淇柏林互动好甜",
       "onboard_time": 1739806161,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 144425,
+      "num": 144425,
+      "word": "桑延20个6",
+      "onboard_time": 1739837719,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 143363,
@@ -307,20 +507,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136176,
+      "num": 136176,
+      "word": "翟潇闻演技",
+      "onboard_time": 1739836459,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131927,
       "num": 131927,
       "word": "张嘉元直播爆料演员3未播片段",
       "onboard_time": 1739803582,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 126867,
-      "num": 126867,
-      "word": "多喝五黑汤气血充足睡眠好",
-      "onboard_time": 1739833154,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 124003,
@@ -339,12 +539,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122388,
+      "num": 118584,
+      "word": "医生建议雨水时节要午睡20分钟",
+      "onboard_time": 1739839100,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120452,
       "num": 120452,
       "word": "患癌公公给儿媳红包里塞催生纸条",
       "onboard_time": 1739786780,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118590,
+      "num": 118590,
+      "word": "孙颖莎林诗栋世排保持第一",
+      "onboard_time": 1739842878,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114222,
+      "num": 458805,
+      "word": "加拿大客机事故现场视频",
+      "onboard_time": 1739842218,
+      "rank": 9,
+      "category": "国际时政,国际时政"
     },
     {
       "raw_hot": 102450,
@@ -459,22 +683,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 68188,
-      "num": 68188,
-      "word": "花八万给妈妈补上十几年的社保",
-      "onboard_time": 1739835197,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 67183,
-      "num": 67183,
-      "word": "我爱的那些人 杨幂",
-      "onboard_time": 1739835017,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 66659,
       "num": 78088,
       "word": "微博演员青云专项",
@@ -579,14 +787,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 44276,
-      "num": 108393,
-      "word": "深圳70名AI数智员工上岗",
-      "onboard_time": 1739812394,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43544,
       "num": 43544,
       "word": "外媒评价哪吒2连龙套都很有质感",
@@ -676,7 +876,7 @@
     },
     {
       "raw_hot": 17046,
-      "num": 745143,
+      "num": 865177,
       "word": "中国式现代化的万千气象海南行",
       "onboard_time": 1739782103,
       "rank": 2,
