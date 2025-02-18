@@ -1,0 +1,410 @@
+{
+  "runTime": 1739860283088,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 18354939,
+        "num": 18354939,
+        "word": "陈晓陈妍希离婚",
+        "onboard_time": 1739855131,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 5362052,
+        "num": 5362052,
+        "word": "曝王大陆涉嫌逃兵役被捕",
+        "onboard_time": 1739849540,
+        "rank": 1,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 80839,
+        "num": 1037154,
+        "word": "一句句古诗词感受雨水节气",
+        "onboard_time": 1739853745,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 719854,
+        "num": 719854,
+        "word": "韩国空姐打开应急舱门站机翼上自拍",
+        "onboard_time": 1739853025,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 655118,
+        "num": 655118,
+        "word": "石矶娘娘东山再起竟要等上亿年",
+        "onboard_time": 1739848879,
+        "rank": 4,
+        "category": "科学科普,电影"
+      },
+      {
+        "raw_hot": 13347296,
+        "num": 13347296,
+        "word": "陈晓陈妍希 真难哄",
+        "onboard_time": 1739857118,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 619259,
+        "num": 619259,
+        "word": "18岁抗癌博主晟宝去世",
+        "onboard_time": 1739857777,
+        "rank": 6,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 420601,
+        "num": 420601,
+        "word": "iPhone17Pro模具曝光",
+        "onboard_time": 1739859515,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 399687,
+        "num": 399687,
+        "word": "专家称不必过于担忧AI抢人类铁饭碗",
+        "onboard_time": 1739842398,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228476,
+        "num": 398457,
+        "word": "哪吒2冲击全球动画票房第1",
+        "onboard_time": 1739851403,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 2864001,
+        "num": 396770,
+        "word": "内娱离婚文案",
+        "onboard_time": 1739858195,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2290834,
+        "num": 396192,
+        "word": "截爆难哄",
+        "onboard_time": 1739857715,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1942666,
+        "num": 393801,
+        "word": "难看",
+        "onboard_time": 1739856215,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1857824,
+        "num": 393000,
+        "word": "品鉴难哄",
+        "onboard_time": 1739855067,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187557,
+        "num": 391716,
+        "word": "网友问DeepSeek最多的问题",
+        "onboard_time": 1739859155,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1714953,
+        "num": 390350,
+        "word": "杨丞琳李荣浩婚礼1周年",
+        "onboard_time": 1739854823,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435440,
+        "num": 389009,
+        "word": "王楚钦给肖凯文加油",
+        "onboard_time": 1739858435,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43928,
+        "num": 386862,
+        "word": "AI面试外挂8小时收费188.8元",
+        "onboard_time": 1739859755,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64580,
+        "num": 384643,
+        "word": "周柯宇白磷型剧宣",
+        "onboard_time": 1739858797,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46050,
+        "num": 383178,
+        "word": "哪吒2靠IP衍生品赚了多少钱",
+        "onboard_time": 1739858736,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1485978,
+        "num": 381608,
+        "word": "王大陆被带上警车现场",
+        "onboard_time": 1739855674,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1472076,
+        "num": 380201,
+        "word": "杨幂这句的含金量",
+        "onboard_time": 1739857777,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1028646,
+        "num": 379482,
+        "word": "头纱吻",
+        "onboard_time": 1739857180,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 756450,
+        "num": 378419,
+        "word": "浙江妈妈早产生下双胞胎哪吒",
+        "onboard_time": 1739845158,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281853,
+        "num": 376420,
+        "word": "大学生刷短视频一个月流量超8000元",
+        "onboard_time": 1739851403,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 792847,
+        "num": 374991,
+        "word": "难哄",
+        "onboard_time": 1739852005,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 726585,
+        "num": 373411,
+        "word": "哪吒2预测票房下跌",
+        "onboard_time": 1739844377,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 372419,
+        "num": 372419,
+        "word": "眼科医生眼里最伤眼睛的行为",
+        "onboard_time": 1739847498,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 356907,
+        "num": 356907,
+        "word": "网传小学老师因末位淘汰轻生",
+        "onboard_time": 1739854283,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262789,
+        "num": 355858,
+        "word": "爱豆黄明昊在22岁最后一天回归",
+        "onboard_time": 1739859695,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 684872,
+        "num": 349720,
+        "word": "鹿晗关注了sana的ins",
+        "onboard_time": 1739847319,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23213,
+        "num": 339454,
+        "word": "记者调查9.9元体验课陷阱",
+        "onboard_time": 1739860111,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13197,
+        "num": 334139,
+        "word": "独行侠从未考虑给东契奇超级顶薪",
+        "onboard_time": 1739857180,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 532884,
+        "num": 327658,
+        "word": "难哄把OST大户聚齐了",
+        "onboard_time": 1739850322,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326416,
+        "num": 326416,
+        "word": "何炅吴昕没来又好像来了",
+        "onboard_time": 1739859215,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80571,
+        "num": 315987,
+        "word": "试管夫妻丈夫中途去世医院拒移植",
+        "onboard_time": 1739860231,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313263,
+        "num": 313263,
+        "word": "半夜被DeepSeek气笑了",
+        "onboard_time": 1739853205,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 318602,
+        "num": 311783,
+        "word": "章若楠好漂亮",
+        "onboard_time": 1739855614,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64899,
+        "num": 307504,
+        "word": "台湾任天堂股份有限公司成立",
+        "onboard_time": 1739857715,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 305001,
+        "num": 305001,
+        "word": "Deepseek被问最多的问题",
+        "onboard_time": 1739859455,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 283309,
+        "num": 283309,
+        "word": "喝羽衣甘蓝粉或可可粉真能减肥吗",
+        "onboard_time": 1739854643,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 269066,
+        "num": 269066,
+        "word": "朴灿烈遛狗偶遇RM节目录制",
+        "onboard_time": 1739851585,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263565,
+        "num": 263565,
+        "word": "光线传媒再度巨震",
+        "onboard_time": 1739851165,
+        "rank": 42,
+        "category": "电影,财经"
+      },
+      {
+        "raw_hot": 239204,
+        "num": 239204,
+        "word": "沈梦辰杜海涛经历9年爱情长跑",
+        "onboard_time": 1739825951,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216063,
+        "num": 216063,
+        "word": "女子多次试管怀孕乘网约车车祸流产",
+        "onboard_time": 1739801541,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202928,
+        "num": 202928,
+        "word": "深圳福田AI员工上线",
+        "onboard_time": 1739847439,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199224,
+        "num": 199224,
+        "word": "女生宿舍开学后减肥现状",
+        "onboard_time": 1739856278,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177706,
+        "num": 177706,
+        "word": "网曝河北邢台一局长酒后砸店伤人",
+        "onboard_time": 1739859695,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173502,
+        "num": 173502,
+        "word": "罗福莉为DeepSeek创始人名下企业合伙人",
+        "onboard_time": 1739856099,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 167504,
+        "num": 167504,
+        "word": "丈夫去世后妻子想完成试管婴儿遭拒",
+        "onboard_time": 1739858136,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#希望广大民营企业和民营企业家胸怀报国志#"
+    }
+  }
+}

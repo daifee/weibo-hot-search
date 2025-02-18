@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739857187554,
+  "endTime": 1739860283088,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -16,6 +16,14 @@
       "word": "金赛纶去世",
       "onboard_time": 1739707158,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 13347296,
+      "num": 13347296,
+      "word": "陈晓陈妍希 真难哄",
+      "onboard_time": 1739857118,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -99,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2864001,
+      "num": 396770,
+      "word": "内娱离婚文案",
+      "onboard_time": 1739858195,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2716920,
       "num": 2716920,
       "word": "哪吒2预测票房下跌",
@@ -121,6 +137,14 @@
       "onboard_time": 1739685919,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2290834,
+      "num": 396192,
+      "word": "截爆难哄",
+      "onboard_time": 1739857715,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 2200902,
@@ -152,6 +176,14 @@
       "word": "难哄里的何炅",
       "onboard_time": 1739676259,
       "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1942666,
+      "num": 393801,
+      "word": "难看",
+      "onboard_time": 1739856215,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -305,6 +337,14 @@
       "onboard_time": 1739668520,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1472076,
+      "num": 380201,
+      "word": "杨幂这句的含金量",
+      "onboard_time": 1739857777,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 1450407,
@@ -507,14 +547,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 1158618,
-      "num": 307643,
-      "word": "难看",
-      "onboard_time": 1739856215,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1146866,
       "num": 1146866,
       "word": "韩国空姐打开应急舱门站机翼上自拍",
@@ -593,6 +625,14 @@
       "onboard_time": 1739800341,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1028646,
+      "num": 379482,
+      "word": "头纱吻",
+      "onboard_time": 1739857180,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 1025925,
@@ -1219,6 +1259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 619259,
+      "num": 619259,
+      "word": "18岁抗癌博主晟宝去世",
+      "onboard_time": 1739857777,
+      "rank": 6,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 608663,
       "num": 317726,
       "word": "女医生疑辱骂患者不得好死",
@@ -1579,14 +1627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 497812,
-      "num": 281484,
-      "word": "陈晓陈妍希 真难哄",
-      "onboard_time": 1739857118,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 494479,
       "num": 370141,
       "word": "吴敬平发文品行干净好运自来",
@@ -1859,6 +1899,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 435440,
+      "num": 389009,
+      "word": "王楚钦给肖凯文加油",
+      "onboard_time": 1739858435,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 431967,
       "num": 431967,
       "word": "林允有一种气血很足的美",
@@ -1905,6 +1953,14 @@
       "onboard_time": 1739700739,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 420601,
+      "num": 420601,
+      "word": "iPhone17Pro模具曝光",
+      "onboard_time": 1739859515,
+      "rank": 7,
+      "category": "数码"
     },
     {
       "raw_hot": 420482,
@@ -2251,6 +2307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 356907,
+      "num": 356907,
+      "word": "网传小学老师因末位淘汰轻生",
+      "onboard_time": 1739854283,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 355748,
       "num": 293288,
       "word": "花八万给妈妈补上十几年的社保",
@@ -2299,14 +2363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 347646,
-      "num": 320110,
-      "word": "网传小学老师因末位淘汰轻生",
-      "onboard_time": 1739854283,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 347410,
       "num": 347410,
       "word": "迪丽热巴风衣阔腿裤造型",
@@ -2324,7 +2380,7 @@
     },
     {
       "raw_hot": 345557,
-      "num": 289431,
+      "num": 313263,
       "word": "半夜被DeepSeek气笑了",
       "onboard_time": 1739853205,
       "rank": 41,
@@ -2451,6 +2507,14 @@
       "category": "民生新闻,情感"
     },
     {
+      "raw_hot": 326416,
+      "num": 326416,
+      "word": "何炅吴昕没来又好像来了",
+      "onboard_time": 1739859215,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 323549,
       "num": 252179,
       "word": "你被北大录取后的大学生活",
@@ -2561,6 +2625,14 @@
       "onboard_time": 1739756240,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 305001,
+      "num": 305001,
+      "word": "Deepseek被问最多的问题",
+      "onboard_time": 1739859455,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 302872,
@@ -2763,6 +2835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 283309,
+      "num": 283309,
+      "word": "喝羽衣甘蓝粉或可可粉真能减肥吗",
+      "onboard_time": 1739854643,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 278898,
       "num": 278898,
       "word": "马龙现身小学开学第一课",
@@ -2865,6 +2945,14 @@
       "onboard_time": 1739672299,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 262789,
+      "num": 355858,
+      "word": "爱豆黄明昊在22岁最后一天回归",
+      "onboard_time": 1739859695,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 262758,
@@ -3651,14 +3739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 207502,
-      "num": 207502,
-      "word": "喝羽衣甘蓝粉或可可粉真能减肥吗",
-      "onboard_time": 1739854643,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 207040,
       "num": 207040,
       "word": "谢娜谁聚会想要听课啊",
@@ -4147,6 +4227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 187557,
+      "num": 391716,
+      "word": "网友问DeepSeek最多的问题",
+      "onboard_time": 1739859155,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187499,
       "num": 187499,
       "word": "相柳蛇年上新剧了",
@@ -4379,6 +4467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177706,
+      "num": 177706,
+      "word": "网曝河北邢台一局长酒后砸店伤人",
+      "onboard_time": 1739859695,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177589,
       "num": 177589,
       "word": "高梓淇的无力感溢出屏幕了",
@@ -4609,6 +4705,14 @@
       "onboard_time": 1739625920,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167504,
+      "num": 167504,
+      "word": "丈夫去世后妻子想完成试管婴儿遭拒",
+      "onboard_time": 1739858136,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 167300,
@@ -6595,6 +6699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80571,
+      "num": 315987,
+      "word": "试管夫妻丈夫中途去世医院拒移植",
+      "onboard_time": 1739860231,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80386,
       "num": 351182,
       "word": "美航司客机事故逃生画面曝光",
@@ -6825,6 +6937,22 @@
       "onboard_time": 1739855734,
       "rank": 28,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 64899,
+      "num": 307504,
+      "word": "台湾任天堂股份有限公司成立",
+      "onboard_time": 1739857715,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 64580,
+      "num": 384643,
+      "word": "周柯宇白磷型剧宣",
+      "onboard_time": 1739858797,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 62469,
@@ -7131,6 +7259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 46050,
+      "num": 383178,
+      "word": "哪吒2靠IP衍生品赚了多少钱",
+      "onboard_time": 1739858736,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 45312,
       "num": 214841,
       "word": "想跟石矶娘娘学学精神状态",
@@ -7161,6 +7297,14 @@
       "onboard_time": 1739779399,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 43928,
+      "num": 386862,
+      "word": "AI面试外挂8小时收费188.8元",
+      "onboard_time": 1739859755,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43544,
@@ -7499,6 +7643,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 23213,
+      "num": 339454,
+      "word": "记者调查9.9元体验课陷阱",
+      "onboard_time": 1739860111,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23117,
       "num": 24949,
       "word": "泰国共享诈骗团伙IP地址",
@@ -7697,6 +7849,14 @@
       "onboard_time": 1739653691,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 13197,
+      "num": 334139,
+      "word": "独行侠从未考虑给东契奇超级顶薪",
+      "onboard_time": 1739857180,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 13148,

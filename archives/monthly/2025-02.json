@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739857187554,
+  "endTime": 1739860283088,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -72,6 +72,14 @@
       "word": "张兰汪小菲抖音无限期封禁",
       "onboard_time": 1738985241,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 13347296,
+      "num": 13347296,
+      "word": "陈晓陈妍希 真难哄",
+      "onboard_time": 1739857118,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -539,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2864001,
+      "num": 396770,
+      "word": "内娱离婚文案",
+      "onboard_time": 1739858195,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2863170,
       "num": 2863170,
       "word": "曝哪吒2被偷票房损失几千万",
@@ -793,6 +809,14 @@
       "onboard_time": 1738629080,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2290834,
+      "num": 396192,
+      "word": "截爆难哄",
+      "onboard_time": 1739857715,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 2280058,
@@ -1265,6 +1289,14 @@
       "onboard_time": 1739447664,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1942666,
+      "num": 393801,
+      "word": "难看",
+      "onboard_time": 1739856215,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 1935813,
@@ -2185,6 +2217,14 @@
       "onboard_time": 1738684643,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1472076,
+      "num": 380201,
+      "word": "杨幂这句的含金量",
+      "onboard_time": 1739857777,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 1470037,
@@ -3339,14 +3379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1158618,
-      "num": 307643,
-      "word": "难看",
-      "onboard_time": 1739856215,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1156881,
       "num": 1156881,
       "word": "饺子导演穷到装都装不出来你有钱",
@@ -3936,6 +3968,14 @@
       "word": "医生称大S去世或与基础性疾病有关",
       "onboard_time": 1738629020,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1028646,
+      "num": 379482,
+      "word": "头纱吻",
+      "onboard_time": 1739857180,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -7771,6 +7811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 619259,
+      "num": 619259,
+      "word": "18岁抗癌博主晟宝去世",
+      "onboard_time": 1739857777,
+      "rank": 6,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 618729,
       "num": 295600,
       "word": "张嘉元道歉",
@@ -10179,14 +10227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 497812,
-      "num": 281484,
-      "word": "陈晓陈妍希 真难哄",
-      "onboard_time": 1739857118,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 497784,
       "num": 497784,
       "word": "林孝埈集齐最后一块冠军拼图",
@@ -11643,6 +11683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 435440,
+      "num": 389009,
+      "word": "王楚钦给肖凯文加油",
+      "onboard_time": 1739858435,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 435367,
       "num": 197387,
       "word": "七旬董事长猥亵面试女子没道歉赔偿",
@@ -11985,6 +12033,14 @@
       "onboard_time": 1738665563,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 420601,
+      "num": 420601,
+      "word": "iPhone17Pro模具曝光",
+      "onboard_time": 1739859515,
+      "rank": 7,
+      "category": "数码"
     },
     {
       "raw_hot": 420576,
@@ -13955,6 +14011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356907,
+      "num": 356907,
+      "word": "网传小学老师因末位淘汰轻生",
+      "onboard_time": 1739854283,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 356641,
       "num": 356641,
       "word": "浓眉",
@@ -14267,14 +14331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 347646,
-      "num": 320110,
-      "word": "网传小学老师因末位淘汰轻生",
-      "onboard_time": 1739854283,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 347557,
       "num": 434560,
       "word": "掌心一集130条人命",
@@ -14412,7 +14468,7 @@
     },
     {
       "raw_hot": 345557,
-      "num": 289431,
+      "num": 313263,
       "word": "半夜被DeepSeek气笑了",
       "onboard_time": 1739853205,
       "rank": 41,
@@ -15177,6 +15233,14 @@
       "onboard_time": 1738895601,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 326416,
+      "num": 326416,
+      "word": "何炅吴昕没来又好像来了",
+      "onboard_time": 1739859215,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 326352,
@@ -16217,6 +16281,14 @@
       "onboard_time": 1738513277,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 305001,
+      "num": 305001,
+      "word": "Deepseek被问最多的问题",
+      "onboard_time": 1739859455,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 304988,
@@ -17331,6 +17403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 283309,
+      "num": 283309,
+      "word": "喝羽衣甘蓝粉或可可粉真能减肥吗",
+      "onboard_time": 1739854643,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 282715,
       "num": 292516,
       "word": "喝酒前吃了药一家三口被送抢救室",
@@ -18409,6 +18489,14 @@
       "onboard_time": 1738989207,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 262789,
+      "num": 355858,
+      "word": "爱豆黄明昊在22岁最后一天回归",
+      "onboard_time": 1739859695,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 262758,
@@ -23787,14 +23875,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 207502,
-      "num": 207502,
-      "word": "喝羽衣甘蓝粉或可可粉真能减肥吗",
-      "onboard_time": 1739854643,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 207421,
       "num": 207421,
       "word": "薛之谦天外来物巡回演唱会",
@@ -27563,6 +27643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187557,
+      "num": 391716,
+      "word": "网友问DeepSeek最多的问题",
+      "onboard_time": 1739859155,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187544,
       "num": 187544,
       "word": "李嘉琦新剧好强的饭张力",
@@ -29307,6 +29395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177706,
+      "num": 177706,
+      "word": "网曝河北邢台一局长酒后砸店伤人",
+      "onboard_time": 1739859695,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177648,
       "num": 285093,
       "word": "中国姑娘包揽速度滑冰3000米金银铜",
@@ -31024,6 +31120,14 @@
       "word": "男子90万定二手奔驰50万被挪用",
       "onboard_time": 1739509403,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167504,
+      "num": 167504,
+      "word": "丈夫去世后妻子想完成试管婴儿遭拒",
+      "onboard_time": 1739858136,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -45131,6 +45235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 80571,
+      "num": 315987,
+      "word": "试管夫妻丈夫中途去世医院拒移植",
+      "onboard_time": 1739860231,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80526,
       "num": 80526,
       "word": "DeepSeek为何会引起美国AI巨头焦虑",
@@ -46819,6 +46931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 64899,
+      "num": 307504,
+      "word": "台湾任天堂股份有限公司成立",
+      "onboard_time": 1739857715,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 64741,
       "num": 358720,
       "word": "王艺迪3比1迪亚兹",
@@ -46841,6 +46961,14 @@
       "onboard_time": 1739505742,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 64580,
+      "num": 384643,
+      "word": "周柯宇白磷型剧宣",
+      "onboard_time": 1739858797,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 64544,
@@ -49323,6 +49451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 46050,
+      "num": 383178,
+      "word": "哪吒2靠IP衍生品赚了多少钱",
+      "onboard_time": 1739858736,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 46026,
       "num": 441454,
       "word": "亚冬会中国队赛程看点",
@@ -49609,6 +49745,14 @@
       "onboard_time": 1739779399,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 43928,
+      "num": 386862,
+      "word": "AI面试外挂8小时收费188.8元",
+      "onboard_time": 1739859755,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43832,
@@ -52643,6 +52787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 23213,
+      "num": 339454,
+      "word": "记者调查9.9元体验课陷阱",
+      "onboard_time": 1739860111,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23200,
       "num": 19919,
       "word": "丁禹兮新春写真",
@@ -54120,6 +54272,14 @@
       "word": "短道速滑男子500米林孝埈夺冠",
       "onboard_time": 1739050931,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 13197,
+      "num": 334139,
+      "word": "独行侠从未考虑给东契奇超级顶薪",
+      "onboard_time": 1739857180,
+      "rank": 32,
       "category": "体育"
     },
     {
