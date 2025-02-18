@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1739885967195,
+  "endTime": 1739888513131,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1883,6 +1883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2504377,
+      "num": 546960,
+      "word": "周星驰cos哪吒造型",
+      "onboard_time": 1739884104,
+      "rank": 15,
+      "category": "艺人,电影"
+    },
+    {
       "raw_hot": 2494692,
       "num": 2494692,
       "word": "我开学了 你定档了",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1739003604,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 2220278,
-      "num": 2220278,
-      "word": "被车撞了6天后突然去世该谁担责",
-      "onboard_time": 1736822957,
-      "rank": 27,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
