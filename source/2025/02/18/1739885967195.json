@@ -1,0 +1,410 @@
+{
+  "runTime": 1739885967195,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8185576,
+        "num": 8185576,
+        "word": "哪吒2全球动画第1",
+        "onboard_time": 1739879063,
+        "rank": 0,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 1125861,
+        "num": 1125861,
+        "word": "丈夫灌面汤呛死妻子案家属望重判",
+        "onboard_time": 1739882182,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79985,
+        "num": 1019003,
+        "word": "有多少人喜欢听细细春雨",
+        "onboard_time": 1739884642,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1227152,
+        "num": 998099,
+        "word": "哪吒2成为全球影史第8",
+        "onboard_time": 1739879963,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 965312,
+        "num": 965312,
+        "word": "郭艾伦 以后可能打不了篮球了",
+        "onboard_time": 1739872403,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 400650,
+        "num": 400650,
+        "word": "郭艾伦眼睛流血",
+        "onboard_time": 1739872284,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1101944,
+        "num": 399567,
+        "word": "周星驰cos哪吒造型",
+        "onboard_time": 1739884104,
+        "rank": 6,
+        "category": "艺人,电影"
+      },
+      {
+        "raw_hot": 851084,
+        "num": 396630,
+        "word": "王嘉尔不再用经纪人的原因",
+        "onboard_time": 1739877924,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303337,
+        "num": 392741,
+        "word": "国足",
+        "onboard_time": 1739881583,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92302,
+        "num": 390328,
+        "word": "新疆牧民将爱马送给去世白马的主人",
+        "onboard_time": 1739884283,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1090738,
+        "num": 389362,
+        "word": "王大陆或被判5年以下有期徒刑",
+        "onboard_time": 1739872704,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 850853,
+        "num": 386098,
+        "word": "贵州六盘水失踪6岁男孩已遇害",
+        "onboard_time": 1739882603,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 804907,
+        "num": 382454,
+        "word": "白敬亭 双开门",
+        "onboard_time": 1739879183,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 746251,
+        "num": 380561,
+        "word": "难哄偷偷藏不住同一角色对比",
+        "onboard_time": 1739883023,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 616595,
+        "num": 378014,
+        "word": "陈晓赵丽颖 接二搭",
+        "onboard_time": 1739866042,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 522003,
+        "num": 376911,
+        "word": "医生谈郭艾伦结膜受伤",
+        "onboard_time": 1739881944,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 478151,
+        "num": 371988,
+        "word": "国产剧终于有真正的出租屋了",
+        "onboard_time": 1739867903,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 459207,
+        "num": 370773,
+        "word": "护士因拔针出血跪求患者原谅",
+        "onboard_time": 1739866042,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19438,
+        "num": 368095,
+        "word": "总制片人回应难哄剧情节奏争议",
+        "onboard_time": 1739885424,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223815,
+        "num": 364568,
+        "word": "陈妍希方声明",
+        "onboard_time": 1739860770,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442919,
+        "num": 362358,
+        "word": "陈晓曾担心感情破裂",
+        "onboard_time": 1739880203,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361093,
+        "num": 361093,
+        "word": "胡歌看着女儿感觉时间不够用",
+        "onboard_time": 1739876364,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332201,
+        "num": 332201,
+        "word": "王大陆已被保释",
+        "onboard_time": 1739877263,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286182,
+        "num": 324056,
+        "word": "英雄联盟崩了",
+        "onboard_time": 1739883262,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142238,
+        "num": 323487,
+        "word": "俱乐部称郭艾伦手术完成在恢复阶段",
+        "onboard_time": 1739884883,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323134,
+        "num": 323134,
+        "word": "马来西亚公主也喜欢肖战",
+        "onboard_time": 1739882963,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 316905,
+        "num": 316905,
+        "word": "医生接产带壳宝宝难掩惊喜",
+        "onboard_time": 1739881163,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314429,
+        "num": 314429,
+        "word": "嘉许哥想你了",
+        "onboard_time": 1739877684,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24454,
+        "num": 274274,
+        "word": "台球厅老板厕所偷拍还栽赃给同行",
+        "onboard_time": 1739884703,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38925,
+        "num": 272670,
+        "word": "澳大利亚父母让女儿只吃素食被判刑",
+        "onboard_time": 1739885543,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 405389,
+        "num": 272266,
+        "word": "难看",
+        "onboard_time": 1739856215,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271541,
+        "num": 271541,
+        "word": "阿尔茨海默病可以手术治疗了",
+        "onboard_time": 1739883622,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 301429,
+        "num": 271026,
+        "word": "品鉴难哄",
+        "onboard_time": 1739855067,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269313,
+        "num": 269313,
+        "word": "博主用70万黄金锅涮火锅",
+        "onboard_time": 1739885363,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260784,
+        "num": 260784,
+        "word": "难哄",
+        "onboard_time": 1739852005,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236677,
+        "num": 236677,
+        "word": "导演晒杨洋雨霖铃杀青照",
+        "onboard_time": 1739881704,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231640,
+        "num": 231640,
+        "word": "气血不足的人容易把自己封闭起来",
+        "onboard_time": 1739880442,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 209761,
+        "num": 209761,
+        "word": "郭艾伦眼睛缝了四十多针",
+        "onboard_time": 1739874264,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206058,
+        "num": 206058,
+        "word": "柯淳直播",
+        "onboard_time": 1739881102,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196730,
+        "num": 196730,
+        "word": "陶喆 抢票",
+        "onboard_time": 1739882662,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 185858,
+        "num": 185858,
+        "word": "俱乐部回应郭艾伦受伤",
+        "onboard_time": 1739881462,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165148,
+        "num": 165148,
+        "word": "吒儿你还有多少惊喜",
+        "onboard_time": 1739881882,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165009,
+        "num": 165009,
+        "word": "大学生流量用超34G欠下万元话费",
+        "onboard_time": 1739877083,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159275,
+        "num": 159275,
+        "word": "陈都灵罗意威活动",
+        "onboard_time": 1739882424,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 151229,
+        "num": 151229,
+        "word": "封神2延长上映",
+        "onboard_time": 1739879723,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150785,
+        "num": 150785,
+        "word": "员工拒调岗被收走电脑罚抄心经百遍",
+        "onboard_time": 1739883803,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150672,
+        "num": 150672,
+        "word": "赵樱子回应曾对成毅因戏生情",
+        "onboard_time": 1739870602,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137532,
+        "num": 137532,
+        "word": "鬼灭之刃新情报",
+        "onboard_time": 1739885844,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 134922,
+        "num": 134922,
+        "word": "U20",
+        "onboard_time": 1739875642,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131839,
+        "num": 131839,
+        "word": "女子10万买金饰却收到金包银",
+        "onboard_time": 1739880084,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#这些话说到民营企业家心坎上#"
+    }
+  }
+}

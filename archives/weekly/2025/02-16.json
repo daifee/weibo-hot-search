@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739885291880,
+  "endTime": 1739885967195,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -659,6 +659,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1125861,
+      "num": 1125861,
+      "word": "丈夫灌面汤呛死妻子案家属望重判",
+      "onboard_time": 1739882182,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1116714,
       "num": 1116714,
       "word": "67岁大爷爆改龙爹敖光",
@@ -681,6 +689,14 @@
       "onboard_time": 1739846538,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1101944,
+      "num": 399567,
+      "word": "周星驰cos哪吒造型",
+      "onboard_time": 1739884104,
+      "rank": 15,
+      "category": "艺人,电影"
     },
     {
       "raw_hot": 1097972,
@@ -1043,14 +1059,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 820645,
-      "num": 820645,
-      "word": "丈夫灌面汤呛死妻子案家属望重判",
-      "onboard_time": 1739882182,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 817700,
       "num": 453811,
       "word": "曝光12亿贪腐案印度记者惨死化粪池",
@@ -1171,6 +1179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 746251,
+      "num": 408080,
+      "word": "难哄偷偷藏不住同一角色对比",
+      "onboard_time": 1739883023,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 741471,
       "num": 288433,
       "word": "宋祖儿营业",
@@ -1201,14 +1217,6 @@
       "onboard_time": 1739800880,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 726866,
-      "num": 408080,
-      "word": "难哄偷偷藏不住同一角色对比",
-      "onboard_time": 1739883023,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 726814,
@@ -1747,6 +1755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 522003,
+      "num": 387339,
+      "word": "医生谈郭艾伦结膜受伤",
+      "onboard_time": 1739881944,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 521339,
       "num": 289162,
       "word": "刘晓庆说感到不舒服时就拒绝",
@@ -1875,14 +1891,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 492407,
-      "num": 391790,
-      "word": "周星驰cos哪吒造型",
-      "onboard_time": 1739884104,
-      "rank": 15,
-      "category": "艺人,电影"
-    },
-    {
       "raw_hot": 490364,
       "num": 434623,
       "word": "难哄 玄学",
@@ -1916,7 +1924,7 @@
     },
     {
       "raw_hot": 487504,
-      "num": 336786,
+      "num": 364568,
       "word": "陈妍希方声明",
       "onboard_time": 1739860770,
       "rank": 32,
@@ -1929,14 +1937,6 @@
       "onboard_time": 1739781021,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 480154,
-      "num": 387339,
-      "word": "医生谈郭艾伦结膜受伤",
-      "onboard_time": 1739881944,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 479150,
@@ -2137,6 +2137,14 @@
       "onboard_time": 1739797161,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 442919,
+      "num": 385140,
+      "word": "陈晓曾担心感情破裂",
+      "onboard_time": 1739880203,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 441514,
@@ -2803,14 +2811,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 334010,
-      "num": 385140,
-      "word": "陈晓曾担心感情破裂",
-      "onboard_time": 1739880203,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 333656,
       "num": 393416,
       "word": "赵露思穿藏族服饰",
@@ -2897,6 +2897,14 @@
       "onboard_time": 1739797520,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 323134,
+      "num": 323134,
+      "word": "马来西亚公主也喜欢肖战",
+      "onboard_time": 1739882963,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 323019,
@@ -3025,6 +3033,14 @@
       "onboard_time": 1739859455,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 303337,
+      "num": 392741,
+      "word": "国足",
+      "onboard_time": 1739881583,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 302872,
@@ -3331,12 +3347,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 272593,
-      "num": 272593,
-      "word": "马来西亚公主也喜欢肖战",
-      "onboard_time": 1739882963,
-      "rank": 45,
-      "category": "电影"
+      "raw_hot": 271541,
+      "num": 271541,
+      "word": "阿尔茨海默病可以手术治疗了",
+      "onboard_time": 1739883622,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 270797,
@@ -3345,22 +3361,6 @@
       "onboard_time": 1739625140,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 270695,
-      "num": 289509,
-      "word": "国足",
-      "onboard_time": 1739881583,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 269995,
-      "num": 269995,
-      "word": "阿尔茨海默病可以手术治疗了",
-      "onboard_time": 1739883622,
-      "rank": 27,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 269640,
@@ -3377,6 +3377,14 @@
       "onboard_time": 1739787919,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 269313,
+      "num": 269313,
+      "word": "博主用70万黄金锅涮火锅",
+      "onboard_time": 1739885363,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 267846,
@@ -3848,6 +3856,14 @@
       "word": "刘诗诗演出了内外都是伤的疼",
       "onboard_time": 1739781140,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 236677,
+      "num": 236677,
+      "word": "导演晒杨洋雨霖铃杀青照",
+      "onboard_time": 1739881704,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -4497,14 +4513,6 @@
       "onboard_time": 1739876482,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 203064,
-      "num": 203064,
-      "word": "导演晒杨洋雨霖铃杀青照",
-      "onboard_time": 1739881704,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 203058,
@@ -5540,7 +5548,7 @@
     },
     {
       "raw_hot": 167214,
-      "num": 167214,
+      "num": 323487,
       "word": "俱乐部称郭艾伦手术完成在恢复阶段",
       "onboard_time": 1739884883,
       "rank": 44,
@@ -5987,6 +5995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150785,
+      "num": 382407,
+      "word": "员工拒调岗被收走电脑罚抄心经百遍",
+      "onboard_time": 1739883803,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150181,
       "num": 191401,
       "word": "崔永熙不放弃冲击NBA的梦想",
@@ -6361,6 +6377,14 @@
       "onboard_time": 1739722217,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 137532,
+      "num": 137532,
+      "word": "鬼灭之刃新情报",
+      "onboard_time": 1739885844,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 137452,
@@ -7595,6 +7619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 92302,
+      "num": 404206,
+      "word": "新疆牧民将爱马送给去世白马的主人",
+      "onboard_time": 1739884283,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92189,
       "num": 157278,
       "word": "吉克隽逸带妈妈去旅行了",
@@ -7737,6 +7769,14 @@
       "onboard_time": 1739884043,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79985,
+      "num": 1019003,
+      "word": "有多少人喜欢听细细春雨",
+      "onboard_time": 1739884642,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79634,
@@ -7959,14 +7999,6 @@
       "num": 229752,
       "word": "官方回应套圈套中玛莎拉蒂疑摆拍",
       "onboard_time": 1739708365,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 68628,
-      "num": 382407,
-      "word": "员工拒调岗被收走电脑罚抄心经百遍",
-      "onboard_time": 1739883803,
       "rank": 19,
       "category": "民生新闻"
     },
@@ -8315,14 +8347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 53943,
-      "num": 404206,
-      "word": "新疆牧民将爱马送给去世白马的主人",
-      "onboard_time": 1739884283,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 52932,
       "num": 257502,
       "word": "藕饼烈火焚尽桎梏",
@@ -8579,6 +8603,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 38925,
+      "num": 272670,
+      "word": "澳大利亚父母让女儿只吃素食被判刑",
+      "onboard_time": 1739885543,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 38792,
       "num": 117510,
       "word": "周末随心所欲也是一种快乐",
@@ -8697,14 +8729,6 @@
       "onboard_time": 1739882724,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 32954,
-      "num": 843986,
-      "word": "有多少人喜欢听细细春雨",
-      "onboard_time": 1739884642,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32455,
@@ -8907,6 +8931,14 @@
       "category": "美妆,民生新闻"
     },
     {
+      "raw_hot": 24454,
+      "num": 274274,
+      "word": "台球厅老板厕所偷拍还栽赃给同行",
+      "onboard_time": 1739884703,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24243,
       "num": 189077,
       "word": "三分大赛",
@@ -9075,6 +9107,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 19438,
+      "num": 368095,
+      "word": "总制片人回应难哄剧情节奏争议",
+      "onboard_time": 1739885424,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 19394,
       "num": 430979,
       "word": "吕先景公路车亚锦赛冠军",
@@ -9097,14 +9137,6 @@
       "onboard_time": 1739709026,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 18169,
-      "num": 269494,
-      "word": "台球厅老板厕所偷拍还栽赃给同行",
-      "onboard_time": 1739884703,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17234,
