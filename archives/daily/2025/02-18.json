@@ -1,6 +1,6 @@
 {
   "startTime": 1739809696665,
-  "endTime": 1739874263623,
+  "endTime": 1739875293558,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -35,8 +35,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 3388095,
-      "num": 223854,
+      "raw_hot": 3475997,
+      "num": 325934,
       "word": "王大陆或被判5年以下有期徒刑",
       "onboard_time": 1739872704,
       "rank": 11,
@@ -108,11 +108,19 @@
     },
     {
       "raw_hot": 2354462,
-      "num": 218881,
+      "num": 280003,
       "word": "陈妍希只有生日才敢叫陈晓出去吃饭",
       "onboard_time": 1739873723,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2055547,
+      "num": 2055547,
+      "word": "郭艾伦眼睛流血",
+      "onboard_time": 1739872284,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1942666,
@@ -121,14 +129,6 @@
       "onboard_time": 1739856215,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1888148,
-      "num": 1888148,
-      "word": "郭艾伦眼睛流血",
-      "onboard_time": 1739872284,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 1880268,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 1077492,
-      "num": 221254,
+      "num": 289561,
       "word": "王大陆保释后没道歉",
       "onboard_time": 1739871683,
       "rank": 16,
@@ -395,8 +395,8 @@
       "category": "健康医疗,艺人"
     },
     {
-      "raw_hot": 710194,
-      "num": 710194,
+      "raw_hot": 712421,
+      "num": 712421,
       "word": "DeepSeek回答学什么不会被淘汰",
       "onboard_time": 1739872284,
       "rank": 4,
@@ -627,6 +627,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 410186,
+      "num": 410186,
+      "word": "解放军回应菲飞机非法闯入中国领空",
+      "onboard_time": 1739873422,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 398294,
       "num": 286172,
       "word": "余承恩你还要亲成什么样",
@@ -657,6 +665,14 @@
       "onboard_time": 1739860770,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 366102,
+      "num": 286891,
+      "word": "赵樱子回应曾对成毅因戏生情",
+      "onboard_time": 1739870602,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 362563,
@@ -697,14 +713,6 @@
       "onboard_time": 1739835197,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 355440,
-      "num": 252230,
-      "word": "赵樱子回应曾对成毅因戏生情",
-      "onboard_time": 1739870602,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 353638,
@@ -947,6 +955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 291966,
+      "num": 291966,
+      "word": "韩国教师杀害学生被拘仍可领退休金",
+      "onboard_time": 1739873002,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 291036,
       "num": 291036,
       "word": "不喜欢求助他人可能是缺爱",
@@ -987,6 +1003,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 275837,
+      "num": 275837,
+      "word": "郭艾伦眼睛缝了四十多针",
+      "onboard_time": 1739874264,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 267641,
       "num": 267641,
       "word": "商家用女童跪撩上衣姿势展示童装",
@@ -1001,6 +1025,14 @@
       "onboard_time": 1739866702,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 260254,
+      "num": 260254,
+      "word": "桑延裤链没拉",
+      "onboard_time": 1739874264,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 258984,
@@ -1067,6 +1099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 240756,
+      "num": 260259,
+      "word": "谢娜李维嘉杜海涛抱着抱着就哭了",
+      "onboard_time": 1739874202,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240418,
       "num": 410884,
       "word": "美社保局长拒向马斯克交出数据被撤职",
@@ -1129,14 +1169,6 @@
       "onboard_time": 1739837178,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 224385,
-      "num": 224385,
-      "word": "解放军回应菲飞机非法闯入中国领空",
-      "onboard_time": 1739873422,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 223012,
@@ -1251,14 +1283,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 216912,
-      "num": 216912,
-      "word": "谢娜李维嘉杜海涛抱着抱着就哭了",
-      "onboard_time": 1739874202,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 215889,
       "num": 260312,
       "word": "苏炳添全运年首秀夺冠",
@@ -1289,6 +1313,14 @@
       "onboard_time": 1739873062,
       "rank": 20,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 208162,
+      "num": 208162,
+      "word": "刘浩存文淇 内娱天才女友",
+      "onboard_time": 1739874742,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 206150,
@@ -1329,6 +1361,14 @@
       "onboard_time": 1739853324,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202053,
+      "num": 260661,
+      "word": "亚洲杯赛程",
+      "onboard_time": 1739873603,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 201789,
@@ -1387,6 +1427,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191512,
+      "num": 191512,
+      "word": "雷军",
+      "onboard_time": 1739874383,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 190311,
+      "num": 190311,
+      "word": "郭艾伦受伤过程",
+      "onboard_time": 1739874921,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189023,
       "num": 189023,
       "word": "蒋欣评论区回应为何不结婚",
@@ -1411,20 +1467,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182806,
+      "num": 182806,
+      "word": "滤镜 虐恋",
+      "onboard_time": 1739874145,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182623,
       "num": 182623,
       "word": "雨水",
       "onboard_time": 1739833875,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 181812,
-      "num": 181812,
-      "word": "亚洲杯赛程",
-      "onboard_time": 1739873603,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 181056,
@@ -1499,6 +1555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167203,
+      "num": 222271,
+      "word": "男子酒后殴打陌生人赔了20万获刑",
+      "onboard_time": 1739872824,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166845,
       "num": 166845,
       "word": "她穿着最甜的服装做最狠的引体向上",
@@ -1513,14 +1577,6 @@
       "onboard_time": 1739840419,
       "rank": 38,
       "category": "民生新闻,国内时政"
-    },
-    {
-      "raw_hot": 164957,
-      "num": 164957,
-      "word": "滤镜 虐恋",
-      "onboard_time": 1739874145,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 163091,
@@ -1635,14 +1691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 150859,
-      "num": 222271,
-      "word": "男子酒后殴打陌生人赔了20万获刑",
-      "onboard_time": 1739872824,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 149437,
       "num": 149437,
       "word": "郑钦文晚宴造型好飒",
@@ -1739,6 +1787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139608,
+      "num": 217353,
+      "word": "沈星回已经在你手里了",
+      "onboard_time": 1739873062,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 138467,
       "num": 181864,
       "word": "缅方在妙瓦底再抓捕273人",
@@ -1787,6 +1843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134710,
+      "num": 134710,
+      "word": "女生预感领导不轨提前求助闺蜜获救",
+      "onboard_time": 1739875223,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133541,
       "num": 133541,
       "word": "英雄联盟铁男圣堂皮肤",
@@ -1801,14 +1865,6 @@
       "onboard_time": 1739803582,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 130642,
-      "num": 217353,
-      "word": "沈星回已经在你手里了",
-      "onboard_time": 1739873062,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 130170,
@@ -1915,14 +1971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 114130,
-      "num": 219639,
-      "word": "韩国教师杀害学生被拘仍可领退休金",
-      "onboard_time": 1739873002,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 113220,
       "num": 358368,
       "word": "中国导演20万美元拍出北美短剧第一",
@@ -1937,6 +1985,14 @@
       "onboard_time": 1739849841,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106566,
+      "num": 276175,
+      "word": "菲律宾军事挑衅注定徒劳",
+      "onboard_time": 1739874622,
+      "rank": 21,
+      "category": "国内时政"
     },
     {
       "raw_hot": 104564,
@@ -2137,6 +2193,14 @@
       "onboard_time": 1739866283,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76012,
+      "num": 214568,
+      "word": "重庆通报污水排入长江事件",
+      "onboard_time": 1739873422,
+      "rank": 29,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 75031,
@@ -2371,14 +2435,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 52699,
-      "num": 214568,
-      "word": "重庆通报污水排入长江事件",
-      "onboard_time": 1739873422,
-      "rank": 29,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 52656,
       "num": 52656,
       "word": "女子高速路边停车打孩子",
@@ -2531,12 +2587,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29322,
+      "num": 216356,
+      "word": "美俄会谈很难取得突破性进展",
+      "onboard_time": 1739874921,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 27570,
       "num": 329893,
       "word": "俄乌局势新进展",
       "onboard_time": 1739863286,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 26844,
+      "num": 140372,
+      "word": "胡歌聊这几年的心理变化",
+      "onboard_time": 1739869522,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 26327,
+      "num": 230413,
+      "word": "敖闰cos",
+      "onboard_time": 1739874503,
+      "rank": 28,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 25954,

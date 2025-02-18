@@ -1,0 +1,410 @@
+{
+  "runTime": 1739875293558,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2055547,
+        "num": 2055547,
+        "word": "郭艾伦眼睛流血",
+        "onboard_time": 1739872284,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1405397,
+        "num": 1405397,
+        "word": "国产剧终于有真正的出租屋了",
+        "onboard_time": 1739867903,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9107,
+        "num": 1139489,
+        "word": "中国式现代化的万千气象海南行",
+        "onboard_time": 1739782103,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1134936,
+        "num": 1134936,
+        "word": "郭艾伦 以后可能打不了篮球了",
+        "onboard_time": 1739872403,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 712421,
+        "num": 712421,
+        "word": "DeepSeek回答学什么不会被淘汰",
+        "onboard_time": 1739872284,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 492531,
+        "num": 492531,
+        "word": "品鉴难哄",
+        "onboard_time": 1739855067,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 410186,
+        "num": 410186,
+        "word": "解放军回应菲飞机非法闯入中国领空",
+        "onboard_time": 1739873422,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 577905,
+        "num": 400709,
+        "word": "难看",
+        "onboard_time": 1739856215,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 351196,
+        "num": 351196,
+        "word": "iPhone17Pro模具曝光",
+        "onboard_time": 1739859515,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 433240,
+        "num": 350446,
+        "word": "难哄",
+        "onboard_time": 1739852005,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 5817382,
+        "num": 5817382,
+        "word": "陈晓陈妍希离婚",
+        "onboard_time": 1739855131,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3475997,
+        "num": 325934,
+        "word": "王大陆或被判5年以下有期徒刑",
+        "onboard_time": 1739872704,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1053711,
+        "num": 312720,
+        "word": "于正的发文",
+        "onboard_time": 1739863046,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 698796,
+        "num": 299335,
+        "word": "护士因拔针出血跪求患者原谅",
+        "onboard_time": 1739866042,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291966,
+        "num": 291966,
+        "word": "韩国教师杀害学生被拘仍可领退休金",
+        "onboard_time": 1739873002,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 456348,
+        "num": 290950,
+        "word": "截爆难哄",
+        "onboard_time": 1739857715,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 977434,
+        "num": 289561,
+        "word": "王大陆保释后没道歉",
+        "onboard_time": 1739871683,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366102,
+        "num": 286891,
+        "word": "赵樱子回应曾对成毅因戏生情",
+        "onboard_time": 1739870602,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355790,
+        "num": 284325,
+        "word": "内娱离婚文案",
+        "onboard_time": 1739858195,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302801,
+        "num": 282383,
+        "word": "哪吒2冲击全球动画票房第1",
+        "onboard_time": 1739851403,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 2057582,
+        "num": 280003,
+        "word": "陈妍希只有生日才敢叫陈晓出去吃饭",
+        "onboard_time": 1739873723,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106566,
+        "num": 276175,
+        "word": "菲律宾军事挑衅注定徒劳",
+        "onboard_time": 1739874622,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 275837,
+        "num": 275837,
+        "word": "郭艾伦眼睛缝了四十多针",
+        "onboard_time": 1739874264,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241494,
+        "num": 261111,
+        "word": "杨幂这句的含金量",
+        "onboard_time": 1739857777,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202053,
+        "num": 260661,
+        "word": "亚洲杯赛程",
+        "onboard_time": 1739873603,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240756,
+        "num": 260259,
+        "word": "谢娜李维嘉杜海涛抱着抱着就哭了",
+        "onboard_time": 1739874202,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260254,
+        "num": 260254,
+        "word": "桑延裤链没拉",
+        "onboard_time": 1739874264,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260013,
+        "num": 260013,
+        "word": "北约突改俄乌冲突措辞",
+        "onboard_time": 1739867123,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26327,
+        "num": 230413,
+        "word": "敖闰cos",
+        "onboard_time": 1739874503,
+        "rank": 28,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 29322,
+        "num": 216356,
+        "word": "美俄会谈很难取得突破性进展",
+        "onboard_time": 1739874921,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 210576,
+        "num": 210576,
+        "word": "赵露思不用拐杖了",
+        "onboard_time": 1739867242,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208162,
+        "num": 208162,
+        "word": "刘浩存文淇 内娱天才女友",
+        "onboard_time": 1739874742,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200734,
+        "num": 200734,
+        "word": "红房子",
+        "onboard_time": 1739874145,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191512,
+        "num": 191512,
+        "word": "雷军",
+        "onboard_time": 1739874383,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 76012,
+        "num": 190464,
+        "word": "重庆通报污水排入长江事件",
+        "onboard_time": 1739873422,
+        "rank": 34,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 190311,
+        "num": 190311,
+        "word": "郭艾伦受伤过程",
+        "onboard_time": 1739874921,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186157,
+        "num": 186157,
+        "word": "哪吒2突破122亿",
+        "onboard_time": 1739860291,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182806,
+        "num": 182806,
+        "word": "滤镜 虐恋",
+        "onboard_time": 1739874145,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167203,
+        "num": 167203,
+        "word": "男子酒后殴打陌生人赔了20万获刑",
+        "onboard_time": 1739872824,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165247,
+        "num": 165247,
+        "word": "杨丞琳李荣浩婚礼1周年",
+        "onboard_time": 1739854823,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162663,
+        "num": 162663,
+        "word": "男子偷妻子攒的19万贼喊捉贼",
+        "onboard_time": 1739870783,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145058,
+        "num": 145058,
+        "word": "韩国人开始抛弃咖啡了",
+        "onboard_time": 1739864243,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143704,
+        "num": 143704,
+        "word": "女子2个月减重40斤后竟严重脱发",
+        "onboard_time": 1739865443,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26844,
+        "num": 140372,
+        "word": "胡歌聊这几年的心理变化",
+        "onboard_time": 1739869522,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139608,
+        "num": 139608,
+        "word": "沈星回已经在你手里了",
+        "onboard_time": 1739873062,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138879,
+        "num": 138879,
+        "word": "韩国空姐打开应急舱门站机翼上自拍",
+        "onboard_time": 1739853025,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 135436,
+        "num": 135436,
+        "word": "檀健次中老年模特拍照",
+        "onboard_time": 1739873903,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134710,
+        "num": 134710,
+        "word": "女生预感领导不轨提前求助闺蜜获救",
+        "onboard_time": 1739875223,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132287,
+        "num": 132287,
+        "word": "王佑硕说顶线的艺人是肖战",
+        "onboard_time": 1739864484,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130296,
+        "num": 130296,
+        "word": "哪吒2预测票房下跌",
+        "onboard_time": 1739844377,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记一直心系民营企业#"
+    }
+  }
+}
