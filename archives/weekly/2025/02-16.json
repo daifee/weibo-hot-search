@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739877564022,
+  "endTime": 1739878579637,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -171,19 +171,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2440350,
+      "num": 392374,
+      "word": "杨丞琳发声力挺陈妍希",
+      "onboard_time": 1739877083,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2354462,
       "num": 280003,
       "word": "陈妍希只有生日才敢叫陈晓出去吃饭",
       "onboard_time": 1739873723,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2310414,
-      "num": 392374,
-      "word": "杨丞琳发声力挺陈妍希",
-      "onboard_time": 1739877083,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -1051,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 780560,
+      "num": 386018,
+      "word": "王大陆已被保释",
+      "onboard_time": 1739877263,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 778945,
       "num": 778945,
       "word": "全球票房",
@@ -1105,14 +1113,6 @@
       "onboard_time": 1739872284,
       "rank": 4,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 765511,
-      "num": 386018,
-      "word": "王大陆已被保释",
-      "onboard_time": 1739877263,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 750935,
@@ -1195,6 +1195,14 @@
       "category": "民生新闻,体育"
     },
     {
+      "raw_hot": 709777,
+      "num": 387846,
+      "word": "胡歌看着女儿感觉时间不够用",
+      "onboard_time": 1739876364,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 697868,
       "num": 363687,
       "word": "未成年拍举牌视频最便宜3元一条",
@@ -1275,6 +1283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 660977,
+      "num": 660977,
+      "word": "哪吒2冲击全球动画票房第1",
+      "onboard_time": 1739851403,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 659353,
       "num": 659353,
       "word": "深圳亚洲杯抽签仪式",
@@ -1329,6 +1345,14 @@
       "onboard_time": 1739711243,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 646036,
+      "num": 384156,
+      "word": "赵樱子回应曾对成毅因戏生情",
+      "onboard_time": 1739870602,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 644255,
@@ -1393,14 +1417,6 @@
       "onboard_time": 1739756178,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 619451,
-      "num": 384156,
-      "word": "赵樱子回应曾对成毅因戏生情",
-      "onboard_time": 1739870602,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 608663,
@@ -1739,14 +1755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 502727,
-      "num": 502727,
-      "word": "哪吒2冲击全球动画票房第1",
-      "onboard_time": 1739851403,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 502190,
       "num": 649558,
       "word": "国际现货黄金价格已上涨63%",
@@ -1867,6 +1875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 471786,
+      "num": 471786,
+      "word": "郭艾伦眼睛缝了四十多针",
+      "onboard_time": 1739874264,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 471235,
       "num": 287882,
       "word": "敖丙传",
@@ -1913,14 +1929,6 @@
       "onboard_time": 1739747295,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 463182,
-      "num": 387846,
-      "word": "胡歌看着女儿感觉时间不够用",
-      "onboard_time": 1739876364,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 461214,
@@ -2243,6 +2251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 402386,
+      "num": 281631,
+      "word": "王嘉尔不再用经纪人的原因",
+      "onboard_time": 1739877924,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 401865,
       "num": 314670,
       "word": "谁家老公把老婆当员工啊",
@@ -2273,14 +2289,6 @@
       "onboard_time": 1739615661,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 395007,
-      "num": 395007,
-      "word": "郭艾伦眼睛缝了四十多针",
-      "onboard_time": 1739874264,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 393396,
@@ -3107,6 +3115,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 286481,
+      "num": 256715,
+      "word": "女生预感领导不轨提前求助闺蜜获救",
+      "onboard_time": 1739875223,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 286098,
       "num": 286098,
       "word": "300斤孕妈背部脂肪8cm高危产子",
@@ -3168,6 +3184,14 @@
       "word": "只有考上985和211才有出路吗",
       "onboard_time": 1739701519,
       "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 273393,
+      "num": 273393,
+      "word": "谢娜李维嘉杜海涛抱着抱着就哭了",
+      "onboard_time": 1739874202,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -3241,14 +3265,6 @@
       "onboard_time": 1739797400,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 265039,
-      "num": 265039,
-      "word": "谢娜李维嘉杜海涛抱着抱着就哭了",
-      "onboard_time": 1739874202,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 264577,
@@ -3483,6 +3499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250047,
+      "num": 250047,
+      "word": "哪吒2票房123亿了",
+      "onboard_time": 1739878164,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 249853,
       "num": 442178,
       "word": "申小豹一口辣条音可爱爆了",
@@ -3539,6 +3563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245812,
+      "num": 245812,
+      "word": "我吃瓜就谢娜这样",
+      "onboard_time": 1739877322,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245235,
       "num": 273701,
       "word": "在河北博物院找到了七色宝莲",
@@ -3587,6 +3619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 241002,
+      "num": 241002,
+      "word": "大学生流量用超34G欠下万元话费",
+      "onboard_time": 1739877083,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 240707,
       "num": 424697,
       "word": "棋牌室扰民老板说给业主装隔音棉",
@@ -3617,6 +3657,14 @@
       "onboard_time": 1739764821,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 239413,
+      "num": 239413,
+      "word": "黄杨钿甜说张康乐一夜之间火了",
+      "onboard_time": 1739877803,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 239282,
@@ -3659,14 +3707,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 235264,
-      "num": 235264,
-      "word": "女生预感领导不轨提前求助闺蜜获救",
-      "onboard_time": 1739875223,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 235018,
       "num": 235018,
       "word": "印度首都火车站踩踏事件现场曝光",
@@ -3689,6 +3729,14 @@
       "onboard_time": 1739761701,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 232923,
+      "num": 232923,
+      "word": "嘉许哥想你了",
+      "onboard_time": 1739877684,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 232800,
@@ -4187,6 +4235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206317,
+      "num": 206317,
+      "word": "董宇辉全平台发布个人单曲",
+      "onboard_time": 1739876242,
+      "rank": 41,
+      "category": "互联网,音乐"
+    },
+    {
       "raw_hot": 206243,
       "num": 206243,
       "word": "六姊妹",
@@ -4225,6 +4281,14 @@
       "onboard_time": 1739756778,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204605,
+      "num": 204605,
+      "word": "从女师男徒到男师女徒",
+      "onboard_time": 1739877924,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 204184,
@@ -4651,20 +4715,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 190950,
+      "num": 190950,
+      "word": "当农学生种出银环蛇甘蔗",
+      "onboard_time": 1739877383,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190688,
       "num": 190688,
       "word": "藕饼跳舞",
       "onboard_time": 1739788161,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 190358,
-      "num": 190358,
-      "word": "当农学生种出银环蛇甘蔗",
-      "onboard_time": 1739877383,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 190140,
@@ -4825,14 +4889,6 @@
       "onboard_time": 1739678177,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 183121,
-      "num": 183121,
-      "word": "董宇辉全平台发布个人单曲",
-      "onboard_time": 1739876242,
-      "rank": 41,
-      "category": "互联网,音乐"
     },
     {
       "raw_hot": 182932,
@@ -5115,14 +5171,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 172179,
-      "num": 172179,
-      "word": "我吃瓜就谢娜这样",
-      "onboard_time": 1739877322,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 171691,
       "num": 458805,
       "word": "加拿大客机事故现场视频",
@@ -5203,6 +5251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169183,
+      "num": 284235,
+      "word": "秦彻的眼即是准星",
+      "onboard_time": 1739876964,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 169149,
       "num": 169149,
       "word": "男子回应被鲸鱼吞了又吐出来",
@@ -5273,6 +5329,14 @@
       "onboard_time": 1739872824,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166985,
+      "num": 386975,
+      "word": "陈思诚说拍唐探1900不是为了讨好",
+      "onboard_time": 1739876721,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 166845,
@@ -5609,14 +5673,6 @@
       "onboard_time": 1739695878,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 152434,
-      "num": 152434,
-      "word": "大学生流量用超34G欠下万元话费",
-      "onboard_time": 1739877083,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 152224,
@@ -6692,7 +6748,7 @@
     },
     {
       "raw_hot": 116390,
-      "num": 182896,
+      "num": 222337,
       "word": "白敬亭章若楠难哄口碑",
       "onboard_time": 1739871983,
       "rank": 34,
@@ -6705,14 +6761,6 @@
       "onboard_time": 1739775621,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 116225,
-      "num": 386975,
-      "word": "陈思诚说拍唐探1900不是为了讨好",
-      "onboard_time": 1739876721,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 115770,
@@ -7025,6 +7073,14 @@
       "onboard_time": 1739806280,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 102306,
+      "num": 252752,
+      "word": "难哄有自己的申公豹",
+      "onboard_time": 1739872883,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 102093,
@@ -7395,6 +7451,14 @@
       "category": "国内时政,国际时政"
     },
     {
+      "raw_hot": 84024,
+      "num": 274208,
+      "word": "哪一首是你春天的主题曲",
+      "onboard_time": 1739872284,
+      "rank": 27,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 82484,
       "num": 82484,
       "word": "让樊振东陈梦马龙回归赛场",
@@ -7433,6 +7497,14 @@
       "onboard_time": 1739795901,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 78812,
+      "num": 297314,
+      "word": "女子称名下莫名多出公司欠税20多万",
+      "onboard_time": 1739877442,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78806,
@@ -7545,6 +7617,14 @@
       "onboard_time": 1739851585,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 71509,
+      "num": 419973,
+      "word": "一违纪被退伍人员窃取军事秘密被捕",
+      "onboard_time": 1739876541,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71500,
@@ -8084,19 +8164,11 @@
     },
     {
       "raw_hot": 46596,
-      "num": 154990,
+      "num": 307009,
       "word": "CT5刷新浙赛圈速纪录",
       "onboard_time": 1739877203,
       "rank": 45,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 46582,
-      "num": 203628,
-      "word": "女子称名下莫名多出公司欠税20多万",
-      "onboard_time": 1739877442,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 46050,
@@ -8345,14 +8417,6 @@
       "onboard_time": 1739686039,
       "rank": 38,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 31506,
-      "num": 419973,
-      "word": "一违纪被退伍人员窃取军事秘密被捕",
-      "onboard_time": 1739876541,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31312,
@@ -8673,6 +8737,14 @@
       "onboard_time": 1739863645,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 19631,
+      "num": 272049,
+      "word": "杭州凭什么孕育出全球顶尖AI企业",
+      "onboard_time": 1739878102,
+      "rank": 29,
+      "category": "民生新闻,议题讨论"
     },
     {
       "raw_hot": 19624,

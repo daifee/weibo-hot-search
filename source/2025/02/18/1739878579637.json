@@ -1,0 +1,410 @@
+{
+  "runTime": 1739878579637,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1788551,
+        "num": 1788551,
+        "word": "郭艾伦眼睛流血",
+        "onboard_time": 1739872284,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1496488,
+        "num": 1496488,
+        "word": "郭艾伦 以后可能打不了篮球了",
+        "onboard_time": 1739872403,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7987,
+        "num": 1193108,
+        "word": "中国式现代化的万千气象海南行",
+        "onboard_time": 1739782103,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 937576,
+        "num": 937576,
+        "word": "国产剧终于有真正的出租屋了",
+        "onboard_time": 1739867903,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 671140,
+        "num": 671140,
+        "word": "DeepSeek回答学什么不会被淘汰",
+        "onboard_time": 1739872284,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 660977,
+        "num": 660977,
+        "word": "哪吒2冲击全球动画票房第1",
+        "onboard_time": 1739851403,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 499099,
+        "num": 499099,
+        "word": "品鉴难哄",
+        "onboard_time": 1739855067,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 471786,
+        "num": 471786,
+        "word": "郭艾伦眼睛缝了四十多针",
+        "onboard_time": 1739874264,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 450402,
+        "num": 450402,
+        "word": "解放军回应菲飞机非法闯入中国领空",
+        "onboard_time": 1739873422,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 370657,
+        "num": 370657,
+        "word": "难哄",
+        "onboard_time": 1739852005,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 3097259,
+        "num": 358143,
+        "word": "陈晓陈妍希离婚",
+        "onboard_time": 1739855131,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2473810,
+        "num": 348019,
+        "word": "王大陆或被判5年以下有期徒刑",
+        "onboard_time": 1739872704,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 695530,
+        "num": 344105,
+        "word": "护士因拔针出血跪求患者原谅",
+        "onboard_time": 1739866042,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 312981,
+        "num": 312981,
+        "word": "郭艾伦受伤过程",
+        "onboard_time": 1739874921,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43544,
+        "num": 310253,
+        "word": "农村花4万用拼多多拼的家怎么样",
+        "onboard_time": 1739870003,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2440350,
+        "num": 309987,
+        "word": "杨丞琳发声力挺陈妍希",
+        "onboard_time": 1739877083,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45651,
+        "num": 307009,
+        "word": "CT5刷新浙赛圈速纪录",
+        "onboard_time": 1739877203,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1599788,
+        "num": 302263,
+        "word": "陈晓曾被曝离婚可以净身出户",
+        "onboard_time": 1739868323,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 780560,
+        "num": 301475,
+        "word": "王大陆已被保释",
+        "onboard_time": 1739877263,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78812,
+        "num": 297314,
+        "word": "女子称名下莫名多出公司欠税20多万",
+        "onboard_time": 1739877442,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 709777,
+        "num": 293347,
+        "word": "胡歌看着女儿感觉时间不够用",
+        "onboard_time": 1739876364,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 646036,
+        "num": 291066,
+        "word": "赵樱子回应曾对成毅因戏生情",
+        "onboard_time": 1739870602,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166985,
+        "num": 288524,
+        "word": "陈思诚说拍唐探1900不是为了讨好",
+        "onboard_time": 1739876721,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 588027,
+        "num": 285662,
+        "word": "于正的发文",
+        "onboard_time": 1739863046,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169183,
+        "num": 284235,
+        "word": "秦彻的眼即是准星",
+        "onboard_time": 1739876964,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 402386,
+        "num": 281631,
+        "word": "王嘉尔不再用经纪人的原因",
+        "onboard_time": 1739877924,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329959,
+        "num": 276224,
+        "word": "桑延裤链没拉",
+        "onboard_time": 1739874264,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84024,
+        "num": 274208,
+        "word": "哪一首是你春天的主题曲",
+        "onboard_time": 1739872284,
+        "rank": 27,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 273393,
+        "num": 273393,
+        "word": "谢娜李维嘉杜海涛抱着抱着就哭了",
+        "onboard_time": 1739874202,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19631,
+        "num": 272049,
+        "word": "杭州凭什么孕育出全球顶尖AI企业",
+        "onboard_time": 1739878102,
+        "rank": 29,
+        "category": "民生新闻,议题讨论"
+      },
+      {
+        "raw_hot": 71509,
+        "num": 267887,
+        "word": "一违纪被退伍人员窃取军事秘密被捕",
+        "onboard_time": 1739876541,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 556401,
+        "num": 264278,
+        "word": "难看",
+        "onboard_time": 1739856215,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335943,
+        "num": 260989,
+        "word": "内娱离婚文案",
+        "onboard_time": 1739858195,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346472,
+        "num": 259093,
+        "word": "截爆难哄",
+        "onboard_time": 1739857715,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286481,
+        "num": 256715,
+        "word": "女生预感领导不轨提前求助闺蜜获救",
+        "onboard_time": 1739875223,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102306,
+        "num": 252752,
+        "word": "难哄有自己的申公豹",
+        "onboard_time": 1739872883,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250047,
+        "num": 250047,
+        "word": "哪吒2票房123亿了",
+        "onboard_time": 1739878164,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 245812,
+        "num": 245812,
+        "word": "我吃瓜就谢娜这样",
+        "onboard_time": 1739877322,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241230,
+        "num": 241230,
+        "word": "刘浩存文淇 内娱天才女友",
+        "onboard_time": 1739874742,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 241002,
+        "num": 241002,
+        "word": "大学生流量用超34G欠下万元话费",
+        "onboard_time": 1739877083,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239413,
+        "num": 239413,
+        "word": "黄杨钿甜说张康乐一夜之间火了",
+        "onboard_time": 1739877803,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234953,
+        "num": 234953,
+        "word": "一诺脖子扭了",
+        "onboard_time": 1739875822,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 232923,
+        "num": 232923,
+        "word": "嘉许哥想你了",
+        "onboard_time": 1739877684,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87039,
+        "num": 222337,
+        "word": "白敬亭章若楠难哄口碑",
+        "onboard_time": 1739871983,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219173,
+        "num": 219173,
+        "word": "iPhone17Pro模具曝光",
+        "onboard_time": 1739859515,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 206317,
+        "num": 206317,
+        "word": "董宇辉全平台发布个人单曲",
+        "onboard_time": 1739876242,
+        "rank": 45,
+        "category": "互联网,音乐"
+      },
+      {
+        "raw_hot": 204605,
+        "num": 204605,
+        "word": "从女师男徒到男师女徒",
+        "onboard_time": 1739877924,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190950,
+        "num": 190950,
+        "word": "当农学生种出银环蛇甘蔗",
+        "onboard_time": 1739877383,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183710,
+        "num": 183710,
+        "word": "赵露思不用拐杖了",
+        "onboard_time": 1739867242,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183499,
+        "num": 183499,
+        "word": "男子偷妻子攒的19万贼喊捉贼",
+        "onboard_time": 1739870783,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#民营企业座谈会释放三个信号#"
+    }
+  }
+}
