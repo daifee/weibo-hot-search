@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739863287301,
+  "endTime": 1739864142343,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -660,7 +660,7 @@
     },
     {
       "raw_hot": 2710302,
-      "num": 418669,
+      "num": 1629426,
       "word": "截爆难哄",
       "onboard_time": 1739857715,
       "rank": 11,
@@ -3600,6 +3600,14 @@
       "word": "光明网评张兰汪小菲账号被封",
       "onboard_time": 1739014702,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1098103,
+      "num": 332209,
+      "word": "于正的发文",
+      "onboard_time": 1739863046,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -12299,6 +12307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 411897,
+      "num": 333967,
+      "word": "难哄 玄学",
+      "onboard_time": 1739862208,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 411876,
       "num": 411876,
       "word": "往往顶级恋爱脑都是出自风象星座",
@@ -14923,12 +14939,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 333967,
-      "num": 333967,
-      "word": "难哄 玄学",
-      "onboard_time": 1739862208,
-      "rank": 35,
-      "category": "剧集"
+      "raw_hot": 333656,
+      "num": 393416,
+      "word": "赵露思穿藏族服饰",
+      "onboard_time": 1739862807,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 333573,
@@ -15907,6 +15923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 313820,
+      "num": 313820,
+      "word": "章若楠演技",
+      "onboard_time": 1739861009,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 313593,
       "num": 313593,
       "word": "警方通报欺凌视频事实基本属实",
@@ -16843,6 +16867,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 294281,
+      "num": 376215,
+      "word": "难哄 电视剧界汪峰",
+      "onboard_time": 1739861908,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 294258,
       "num": 294258,
       "word": "林诗栋谈登顶世界第一的意义",
@@ -17601,14 +17633,6 @@
       "onboard_time": 1738831704,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 280370,
-      "num": 284072,
-      "word": "章若楠演技",
-      "onboard_time": 1739861009,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 280346,
@@ -19027,14 +19051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 256470,
-      "num": 256470,
-      "word": "于正的发文",
-      "onboard_time": 1739863046,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 256462,
       "num": 256462,
       "word": "难哄ost阵容",
@@ -19569,14 +19585,6 @@
       "onboard_time": 1739691858,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 249834,
-      "num": 376215,
-      "word": "难哄 电视剧界汪峰",
-      "onboard_time": 1739861908,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 249800,
@@ -23051,6 +23059,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 214390,
+      "num": 214390,
+      "word": "油炸冰溜子居然不是个梗",
+      "onboard_time": 1739863345,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 214374,
       "num": 269859,
       "word": "KPL宣传片",
@@ -26099,14 +26115,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195972,
-      "num": 393416,
-      "word": "赵露思穿藏族服饰",
-      "onboard_time": 1739862807,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 195950,
       "num": 183121,
       "word": "王鹤棣孟子义偷吃花生米",
@@ -27601,6 +27609,14 @@
       "onboard_time": 1739513841,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188342,
+      "num": 424170,
+      "word": "官方辟谣小学老师因末位淘汰轻生",
+      "onboard_time": 1739862866,
+      "rank": 10,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 188305,
@@ -30881,6 +30897,14 @@
       "onboard_time": 1738401617,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 169627,
+      "num": 169627,
+      "word": "iPhone17Air手机壳",
+      "onboard_time": 1739863105,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 169602,
@@ -35987,14 +36011,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143046,
-      "num": 143046,
-      "word": "iPhone17Air手机壳",
-      "onboard_time": 1739863105,
-      "rank": 48,
-      "category": "数码"
-    },
-    {
       "raw_hot": 143042,
       "num": 317658,
       "word": "四川筠连山体滑坡救援现场",
@@ -39539,14 +39555,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 123524,
-      "num": 424170,
-      "word": "官方辟谣小学老师因末位淘汰轻生",
-      "onboard_time": 1739862866,
-      "rank": 10,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 123523,
       "num": 217463,
       "word": "旅客称返程高峰有票无法上车",
@@ -41193,6 +41201,14 @@
       "onboard_time": 1739855853,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113173,
+      "num": 313092,
+      "word": "新学期国家助学金提标扩面",
+      "onboard_time": 1739864065,
+      "rank": 36,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 113150,
@@ -42984,6 +43000,14 @@
       "word": "东契奇浓眉互换",
       "onboard_time": 1738508061,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 102021,
+      "num": 330417,
+      "word": "詹姆斯向美娜透露中国行",
+      "onboard_time": 1739863825,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -47907,6 +47931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58755,
+      "num": 378288,
+      "word": "非人源DNA锁定咬人犬只",
+      "onboard_time": 1739862686,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58650,
       "num": 156151,
       "word": "丹麦人网上请愿买下美国加州",
@@ -51396,7 +51428,7 @@
     },
     {
       "raw_hot": 33201,
-      "num": 71113,
+      "num": 329893,
       "word": "俄乌局势新进展",
       "onboard_time": 1739467694,
       "rank": 39,
@@ -52048,14 +52080,6 @@
       "word": "企业回应单身员工限期成家否则辞退",
       "onboard_time": 1739558353,
       "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28480,
-      "num": 378288,
-      "word": "非人源DNA锁定咬人犬只",
-      "onboard_time": 1739862686,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -53131,6 +53155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 22240,
+      "num": 331242,
+      "word": "公司奇葩规定年年有今年特别多",
+      "onboard_time": 1739863765,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22182,
       "num": 221802,
       "word": "张雨霏说低估了尔滨的冷",
@@ -53161,6 +53193,14 @@
       "onboard_time": 1738826602,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 22075,
+      "num": 380534,
+      "word": "一些微短剧将女性刻画成花瓶和附属品",
+      "onboard_time": 1739863105,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 22034,
@@ -53547,6 +53587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20077,
+      "num": 330021,
+      "word": "刚回校的大学生已经开始想家了",
+      "onboard_time": 1739863645,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 19881,
       "num": 399447,
       "word": "尔滨亚冬会闭幕式是个大party",
@@ -53897,14 +53945,6 @@
       "onboard_time": 1738782133,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 16913,
-      "num": 380534,
-      "word": "一些微短剧将女性刻画成花瓶和附属品",
-      "onboard_time": 1739863105,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 16674,
