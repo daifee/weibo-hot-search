@@ -1,6 +1,6 @@
 {
   "startTime": 1739896170867,
-  "endTime": 1739910251448,
+  "endTime": 1739911074275,
   "band_list": [
     {
       "raw_hot": 1448214,
@@ -443,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39216,
+      "num": 34763,
+      "word": "陈晓陈妍希 1370天",
+      "onboard_time": 1739910311,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 38294,
       "num": 48950,
       "word": "美客机加拿大降落时侧翻至少17伤",
@@ -555,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 18755,
+      "num": 20167,
+      "word": "医院回应护士向患者下跪道歉",
+      "onboard_time": 1739908512,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18699,
       "num": 28955,
       "word": "民营企业座谈会释放三个信号",
@@ -571,16 +587,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 17596,
-      "num": 17596,
-      "word": "医院回应护士向患者下跪道歉",
-      "onboard_time": 1739908512,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 17200,
-      "num": 17200,
+      "num": 19572,
       "word": "媒体评小学生开始用DeepSeek写作业",
       "onboard_time": 1739907731,
       "rank": 41,
@@ -603,6 +611,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 13486,
+      "num": 31078,
+      "word": "哪吒2仅用21天登顶全球动画榜",
+      "onboard_time": 1739909650,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 11507,
       "num": 48300,
       "word": "对话谈判是解决危机的唯一可行出路",
@@ -619,12 +635,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 7664,
-      "num": 31078,
-      "word": "哪吒2仅用21天登顶全球动画榜",
-      "onboard_time": 1739909650,
-      "rank": 9,
-      "category": "电影"
+      "raw_hot": 7893,
+      "num": 19956,
+      "word": "9件小事打卡春日仪式感",
+      "onboard_time": 1739910851,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 6877,
