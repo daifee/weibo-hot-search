@@ -1,6 +1,6 @@
 {
   "startTime": 1739896170867,
-  "endTime": 1739920879160,
+  "endTime": 1739921742132,
   "band_list": [
     {
       "raw_hot": 1448214,
@@ -11,36 +11,36 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 1019203,
-      "num": 439829,
-      "word": "哪吒2全球动画第1",
-      "onboard_time": 1739879063,
-      "rank": 3,
-      "category": "电影,动漫"
-    },
-    {
-      "raw_hot": 849067,
-      "num": 781136,
-      "word": "周星驰cos哪吒造型",
-      "onboard_time": 1739884104,
-      "rank": 6,
-      "category": "艺人,电影"
-    },
-    {
-      "raw_hot": 824381,
-      "num": 168902,
+      "raw_hot": 1025261,
+      "num": 199607,
       "word": "杨丞琳李荣浩是闷声干大事的人",
       "onboard_time": 1739919795,
       "rank": 10,
       "category": "艺人"
     },
     {
-      "raw_hot": 742053,
-      "num": 161852,
+      "raw_hot": 1019203,
+      "num": 525517,
+      "word": "哪吒2全球动画第1",
+      "onboard_time": 1739879063,
+      "rank": 3,
+      "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 938022,
+      "num": 196791,
       "word": "台媒称王大陆兵役逃了10年",
       "onboard_time": 1739917452,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 849067,
+      "num": 914037,
+      "word": "周星驰cos哪吒造型",
+      "onboard_time": 1739884104,
+      "rank": 6,
+      "category": "艺人,电影"
     },
     {
       "raw_hot": 588955,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 558034,
+      "num": 558034,
+      "word": "俄美决定未来将在多领域合作",
+      "onboard_time": 1739913611,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 541991,
       "num": 264422,
       "word": "陈晓陈妍希离婚博坚持打卡1370天",
@@ -73,14 +81,6 @@
       "onboard_time": 1739891543,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 499207,
-      "num": 499207,
-      "word": "俄美决定未来将在多领域合作",
-      "onboard_time": 1739913611,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 434352,
@@ -99,6 +99,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 387899,
+      "num": 193507,
+      "word": "陈晓陈妍希 1370天",
+      "onboard_time": 1739910311,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 343536,
       "num": 343536,
       "word": "阿尔茨海默病可以手术治疗了",
@@ -113,14 +121,6 @@
       "onboard_time": 1739888663,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 332173,
-      "num": 158683,
-      "word": "陈晓陈妍希 1370天",
-      "onboard_time": 1739910311,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 326264,
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224645,
+      "num": 224645,
+      "word": "19岁小伙644元1克卖金饰骗近20万",
+      "onboard_time": 1739913672,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 221020,
       "num": 221020,
       "word": "杨幂 皮裙甜妹",
@@ -235,19 +243,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 192971,
-      "num": 192971,
-      "word": "19岁小伙644元1克卖金饰骗近20万",
-      "onboard_time": 1739913672,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 190287,
       "num": 190287,
       "word": "胡歌想再多活几年陪伴女儿",
       "onboard_time": 1739889024,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 184607,
+      "num": 184607,
+      "word": "于适回应争议",
+      "onboard_time": 1739920938,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -275,6 +283,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159827,
+      "num": 159827,
+      "word": "于适直播",
+      "onboard_time": 1739920938,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 159745,
+      "num": 159745,
+      "word": "博主用70万黄金锅涮火锅",
+      "onboard_time": 1739885363,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157403,
       "num": 157403,
       "word": "难哄",
@@ -291,11 +315,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144390,
-      "num": 144390,
-      "word": "博主用70万黄金锅涮火锅",
-      "onboard_time": 1739885363,
-      "rank": 35,
+      "raw_hot": 149649,
+      "num": 149649,
+      "word": "泽连斯基就美俄会谈发声",
+      "onboard_time": 1739917813,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 146254,
+      "num": 146254,
+      "word": "13岁女孩险被骗59万被支付宝拦截",
+      "onboard_time": 1739896816,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -315,14 +347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 123634,
-      "num": 123634,
-      "word": "13岁女孩险被骗59万被支付宝拦截",
-      "onboard_time": 1739896816,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 123422,
       "num": 123422,
       "word": "哪吒登顶海报团建式刷屏",
@@ -337,6 +361,14 @@
       "onboard_time": 1739883023,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120282,
+      "num": 123742,
+      "word": "医院回应护士向患者下跪道歉",
+      "onboard_time": 1739908512,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119353,
@@ -371,14 +403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 111466,
-      "num": 123742,
-      "word": "医院回应护士向患者下跪道歉",
-      "onboard_time": 1739908512,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109516,
       "num": 109516,
       "word": "马斯克质疑美国黄金储备量真实性",
@@ -401,6 +425,14 @@
       "onboard_time": 1739855067,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 99177,
+      "num": 99177,
+      "word": "美队4中国预测票房连续下跌至1.2亿",
+      "onboard_time": 1739903352,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 91607,
@@ -443,14 +475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 76948,
-      "num": 76948,
-      "word": "美队4中国预测票房连续下跌至1.2亿",
-      "onboard_time": 1739903352,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 73737,
       "num": 73737,
       "word": "张宥浩你确实有点冒昧多余了",
@@ -459,12 +483,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 71339,
-      "num": 88680,
-      "word": "泽连斯基就美俄会谈发声",
-      "onboard_time": 1739917813,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 72540,
+      "num": 72540,
+      "word": "湖南卫视连发5条檀健次",
+      "onboard_time": 1739921297,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 64995,
@@ -475,7 +499,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 60218,
+      "raw_hot": 61016,
       "num": 91682,
       "word": "石矶娘娘有广州公司参与设计",
       "onboard_time": 1739895799,
@@ -492,11 +516,27 @@
     },
     {
       "raw_hot": 49443,
-      "num": 50997,
+      "num": 65868,
       "word": "檀健次crush降临",
       "onboard_time": 1739919795,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 47699,
+      "num": 65922,
+      "word": "林孝埈手术结束报平安",
+      "onboard_time": 1739900773,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 47474,
+      "num": 65900,
+      "word": "俄说加入欧盟是乌克兰主权权利",
+      "onboard_time": 1739887403,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 47229,
@@ -505,22 +545,6 @@
       "onboard_time": 1739882963,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 46508,
-      "num": 50996,
-      "word": "俄说加入欧盟是乌克兰主权权利",
-      "onboard_time": 1739887403,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 45546,
-      "num": 51005,
-      "word": "林孝埈手术结束报平安",
-      "onboard_time": 1739900773,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 42091,
@@ -740,7 +764,7 @@
     },
     {
       "raw_hot": 4987,
-      "num": 462775,
+      "num": 529524,
       "word": "中国式现代化的万千气象海南行",
       "onboard_time": 1739782103,
       "rank": 2,
