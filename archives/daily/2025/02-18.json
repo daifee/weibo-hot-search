@@ -1,6 +1,6 @@
 {
   "startTime": 1739809696665,
-  "endTime": 1739861048114,
+  "endTime": 1739863287301,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 2864001,
-      "num": 396770,
+      "num": 407361,
       "word": "内娱离婚文案",
       "onboard_time": 1739858195,
       "rank": 10,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 2710302,
-      "num": 396192,
+      "num": 418669,
       "word": "截爆难哄",
       "onboard_time": 1739857715,
       "rank": 11,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1942666,
-      "num": 393801,
+      "num": 416539,
       "word": "难看",
       "onboard_time": 1739856215,
       "rank": 21,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 1472076,
-      "num": 380201,
+      "num": 396706,
       "word": "杨幂这句的含金量",
       "onboard_time": 1739857777,
       "rank": 21,
@@ -235,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 912700,
+      "num": 912700,
+      "word": "iPhone17Pro模具曝光",
+      "onboard_time": 1739859515,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 867448,
       "num": 517152,
       "word": "朴灿烈遛狗偶遇RM节目录制",
@@ -267,14 +275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 784076,
-      "num": 784076,
-      "word": "iPhone17Pro模具曝光",
-      "onboard_time": 1739859515,
-      "rank": 7,
-      "category": "数码"
-    },
-    {
       "raw_hot": 774181,
       "num": 774181,
       "word": "DeepSeek迎来最强队友",
@@ -289,6 +289,14 @@
       "onboard_time": 1739855614,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 750935,
+      "num": 413428,
+      "word": "试管夫妻丈夫中途去世医院拒移植",
+      "onboard_time": 1739860231,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 729823,
@@ -323,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 659353,
+      "num": 659353,
+      "word": "深圳亚洲杯抽签仪式",
+      "onboard_time": 1739862146,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 644248,
       "num": 644248,
       "word": "哪吒2进入全球影史票房前9",
@@ -331,8 +347,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 633135,
-      "num": 633135,
+      "raw_hot": 636451,
+      "num": 636451,
       "word": "18岁抗癌博主晟宝去世",
       "onboard_time": 1739857777,
       "rank": 6,
@@ -411,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 461043,
+      "num": 372180,
+      "word": "偷偷藏不住",
+      "onboard_time": 1739860350,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 460937,
       "num": 460937,
       "word": "DeepSeek手机版安全使用教程",
@@ -452,7 +476,7 @@
     },
     {
       "raw_hot": 435440,
-      "num": 389009,
+      "num": 403842,
       "word": "王楚钦给肖凯文加油",
       "onboard_time": 1739858435,
       "rank": 16,
@@ -491,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 372045,
+      "num": 372045,
+      "word": "顾盼生辉",
+      "onboard_time": 1739860770,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 362563,
       "num": 362563,
       "word": "哪吒2在联合国特别放映",
@@ -505,14 +537,6 @@
       "onboard_time": 1739832673,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 359338,
-      "num": 359338,
-      "word": "偷偷藏不住",
-      "onboard_time": 1739860350,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 356907,
@@ -552,6 +576,14 @@
       "word": "橘子冒烟小心肺部真菌感染",
       "onboard_time": 1739846478,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 349352,
+      "num": 405841,
+      "word": "网曝河北邢台一局长酒后砸店伤人",
+      "onboard_time": 1739859695,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -611,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 333967,
+      "num": 333967,
+      "word": "难哄 玄学",
+      "onboard_time": 1739862208,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 333337,
       "num": 333337,
       "word": "美一客机加拿大降落时发生事故15伤",
@@ -624,6 +664,14 @@
       "word": "建议饺子导演学学宫崎骏",
       "onboard_time": 1739795960,
       "rank": 14,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 329095,
+      "num": 329095,
+      "word": "哪吒2突破122亿",
+      "onboard_time": 1739860291,
+      "rank": 34,
       "category": "电影"
     },
     {
@@ -665,14 +713,6 @@
       "onboard_time": 1739852183,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 305654,
-      "num": 305654,
-      "word": "哪吒2突破122亿",
-      "onboard_time": 1739860291,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 305001,
@@ -779,12 +819,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 275005,
-      "num": 275005,
-      "word": "网曝河北邢台一局长酒后砸店伤人",
-      "onboard_time": 1739859695,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 280370,
+      "num": 284072,
+      "word": "章若楠演技",
+      "onboard_time": 1739861009,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 267641,
@@ -803,12 +843,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 256470,
+      "num": 256470,
+      "word": "于正的发文",
+      "onboard_time": 1739863046,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 255674,
       "num": 230635,
       "word": "哪吒2从全球50升到10仅用9天",
       "onboard_time": 1739818573,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 249834,
+      "num": 376215,
+      "word": "难哄 电视剧界汪峰",
+      "onboard_time": 1739861908,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 246176,
@@ -833,14 +889,6 @@
       "onboard_time": 1739840479,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 237744,
-      "num": 237744,
-      "word": "顾盼生辉",
-      "onboard_time": 1739860770,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 235263,
@@ -971,19 +1019,27 @@
       "category": "国际时政,国际时政"
     },
     {
+      "raw_hot": 217208,
+      "num": 217208,
+      "word": "抗癌博主晟宝去世母亲发声",
+      "onboard_time": 1739861069,
+      "rank": 43,
+      "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 217065,
+      "num": 217065,
+      "word": "骨肉瘤为何被称为青少年杀手",
+      "onboard_time": 1739858916,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 215672,
       "num": 391716,
       "word": "网友问DeepSeek最多的问题",
       "onboard_time": 1739859155,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 214123,
-      "num": 370025,
-      "word": "试管夫妻丈夫中途去世医院拒移植",
-      "onboard_time": 1739860231,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -1041,6 +1097,14 @@
       "onboard_time": 1739847799,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 195972,
+      "num": 393416,
+      "word": "赵露思穿藏族服饰",
+      "onboard_time": 1739862807,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 193226,
@@ -1291,6 +1355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143046,
+      "num": 143046,
+      "word": "iPhone17Air手机壳",
+      "onboard_time": 1739863105,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 142522,
       "num": 280326,
       "word": "医生你的手术刀是裂空爪啊",
@@ -1427,6 +1499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123524,
+      "num": 424170,
+      "word": "官方辟谣小学老师因末位淘汰轻生",
+      "onboard_time": 1739862866,
+      "rank": 10,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 123502,
       "num": 123502,
       "word": "杨洋展昭杀青请客",
@@ -1504,6 +1584,14 @@
       "word": "亚洲杯",
       "onboard_time": 1739853445,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 98083,
+      "num": 389001,
+      "word": "林诗栋王楚钦对练",
+      "onboard_time": 1739862086,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -1619,6 +1707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75031,
+      "num": 229612,
+      "word": "杨天真王嘉尔共鸣",
+      "onboard_time": 1739862686,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74362,
       "num": 74362,
       "word": "想来中国捐家族相册的法国小伙抵京",
@@ -1699,6 +1795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 65932,
+      "num": 410337,
+      "word": "颜怡颜悦说女性愤怒值得被表达",
+      "onboard_time": 1739862327,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 65262,
       "num": 360178,
       "word": "毛利兰春天新衣服",
@@ -1753,14 +1857,6 @@
       "onboard_time": 1739812214,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 59751,
-      "num": 284072,
-      "word": "章若楠演技",
-      "onboard_time": 1739861009,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 57935,
@@ -1939,6 +2035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28480,
+      "num": 378288,
+      "word": "非人源DNA锁定咬人犬只",
+      "onboard_time": 1739862686,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25954,
       "num": 228549,
       "word": "孙颖莎给家乡人说心里话",
@@ -2009,6 +2113,14 @@
       "onboard_time": 1739782103,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 16913,
+      "num": 380534,
+      "word": "一些微短剧将女性刻画成花瓶和附属品",
+      "onboard_time": 1739863105,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 16362,
