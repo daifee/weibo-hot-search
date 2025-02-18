@@ -1,6 +1,6 @@
 {
   "startTime": 1739809696665,
-  "endTime": 1739889625960,
+  "endTime": 1739892327710,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -89,6 +89,14 @@
       "onboard_time": 1739868323,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2888444,
+      "num": 618152,
+      "word": "男子性侵女孩失败后故意使其溺亡",
+      "onboard_time": 1739890224,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2864001,
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 1340032,
-      "num": 530542,
+      "num": 543302,
       "word": "护士因拔针出血跪求患者原谅",
       "onboard_time": 1739866042,
       "rank": 10,
@@ -291,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1180515,
+      "num": 624665,
+      "word": "刘楚恬演的桑稚",
+      "onboard_time": 1739890282,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1146866,
       "num": 1146866,
       "word": "韩国空姐打开应急舱门站机翼上自拍",
@@ -308,7 +324,7 @@
     },
     {
       "raw_hot": 1077492,
-      "num": 526191,
+      "num": 614908,
       "word": "王大陆保释后没道歉",
       "onboard_time": 1739871683,
       "rank": 16,
@@ -345,6 +361,14 @@
       "onboard_time": 1739851165,
       "rank": 24,
       "category": "电影,财经"
+    },
+    {
+      "raw_hot": 1002600,
+      "num": 1002600,
+      "word": "泰国总理称中国女保镖在泰国也火了",
+      "onboard_time": 1739888663,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 976640,
@@ -587,6 +611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 613515,
+      "num": 613515,
+      "word": "白色橄榄树重剪",
+      "onboard_time": 1739891543,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 593622,
       "num": 516490,
       "word": "张凌赫首部男主现偶剧",
@@ -609,6 +641,14 @@
       "onboard_time": 1739838620,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 560585,
+      "num": 560585,
+      "word": "杨幂 皮裙甜妹",
+      "onboard_time": 1739887644,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 555672,
@@ -827,12 +867,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 406246,
+      "num": 406246,
+      "word": "陈晓陈妍希离婚博坚持打卡1370天",
+      "onboard_time": 1739890823,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 398294,
       "num": 286172,
       "word": "余承恩你还要亲成什么样",
       "onboard_time": 1739800341,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 395892,
+      "num": 395892,
+      "word": "胡歌想再多活几年陪伴女儿",
+      "onboard_time": 1739889024,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 393133,
+      "num": 444824,
+      "word": "石矶娘娘的风吹到了TVB",
+      "onboard_time": 1739889263,
+      "rank": 21,
+      "category": "剧集,电影"
     },
     {
       "raw_hot": 383122,
@@ -857,14 +921,6 @@
       "onboard_time": 1739860770,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 366832,
-      "num": 366832,
-      "word": "杨幂 皮裙甜妹",
-      "onboard_time": 1739887644,
-      "rank": 45,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 362563,
@@ -1059,6 +1115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 323500,
+      "num": 323500,
+      "word": "哪吒登顶海报团建式刷屏",
+      "onboard_time": 1739889562,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 320863,
       "num": 320863,
       "word": "白敬亭帅出新高度",
@@ -1097,14 +1161,6 @@
       "onboard_time": 1739852183,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 305754,
-      "num": 1000423,
-      "word": "泰国总理称中国女保镖在泰国也火了",
-      "onboard_time": 1739888663,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 305001,
@@ -1169,6 +1225,14 @@
       "onboard_time": 1739861908,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 294137,
+      "num": 620529,
+      "word": "怎么可能我的孩子会抑郁",
+      "onboard_time": 1739889562,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 292790,
@@ -1259,14 +1323,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 286083,
-      "num": 286083,
-      "word": "胡歌想再多活几年陪伴女儿",
-      "onboard_time": 1739889024,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 283309,
       "num": 283309,
       "word": "喝羽衣甘蓝粉或可可粉真能减肥吗",
@@ -1307,6 +1363,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270552,
+      "num": 619221,
+      "word": "3岁哪吒勇闯联合国",
+      "onboard_time": 1739889984,
+      "rank": 9,
+      "category": "民生新闻,电影"
+    },
+    {
+      "raw_hot": 269716,
+      "num": 463000,
+      "word": "网友偶遇赵露思山区做公益",
+      "onboard_time": 1739889383,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269228,
       "num": 269228,
       "word": "谢娜 我不难过因为我知道会再聚的",
@@ -1336,6 +1408,14 @@
       "word": "大学生流量用超34G欠下万元话费",
       "onboard_time": 1739877083,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 262540,
+      "num": 550451,
+      "word": "广州一街道招聘环卫工要求35岁以下",
+      "onboard_time": 1739890763,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -1803,6 +1883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199524,
+      "num": 199524,
+      "word": "敖光炼狱淬龙魂",
+      "onboard_time": 1739891303,
+      "rank": 45,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 199383,
       "num": 199383,
       "word": "哪吒2港澳定档22日",
@@ -1817,6 +1905,22 @@
       "onboard_time": 1739847799,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 195686,
+      "num": 406609,
+      "word": "赵一博白干文学",
+      "onboard_time": 1739892202,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 194422,
+      "num": 194422,
+      "word": "豪雨",
+      "onboard_time": 1739891961,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 193226,
@@ -2171,14 +2275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 151649,
-      "num": 228911,
-      "word": "哪吒登顶海报团建式刷屏",
-      "onboard_time": 1739889562,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 151563,
       "num": 282203,
       "word": "容嬷嬷下桌何医生上桌",
@@ -2193,14 +2289,6 @@
       "onboard_time": 1739843297,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 151503,
-      "num": 274100,
-      "word": "怎么可能我的孩子会抑郁",
-      "onboard_time": 1739889562,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 151376,
@@ -2340,7 +2428,7 @@
     },
     {
       "raw_hot": 137532,
-      "num": 137532,
+      "num": 433563,
       "word": "鬼灭之刃新情报",
       "onboard_time": 1739885844,
       "rank": 47,
@@ -2395,12 +2483,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 133020,
+      "num": 432534,
+      "word": "教师被举报家暴及性骚扰学生后仍在职",
+      "onboard_time": 1739890462,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131927,
       "num": 131927,
       "word": "张嘉元直播爆料演员3未播片段",
       "onboard_time": 1739803582,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130248,
+      "num": 436271,
+      "word": "街道办回应招聘环卫工要求35岁以下",
+      "onboard_time": 1739891122,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130170,
@@ -2497,6 +2601,14 @@
       "onboard_time": 1739870003,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119515,
+      "num": 410156,
+      "word": "陶勇谈郭艾伦眼睛受伤",
+      "onboard_time": 1739892143,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 116390,
@@ -2955,6 +3067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66870,
+      "num": 406321,
+      "word": "赵小童说今天的落日又大又红",
+      "onboard_time": 1739891423,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 66659,
       "num": 78088,
       "word": "微博演员青云专项",
@@ -3403,6 +3523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23272,
+      "num": 434311,
+      "word": "chiikawa泄气现场",
+      "onboard_time": 1739891483,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 23117,
       "num": 24949,
       "word": "泰国共享诈骗团伙IP地址",
@@ -3481,6 +3609,14 @@
       "onboard_time": 1739885424,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 18773,
+      "num": 439150,
+      "word": "林诗栋是第一次来深圳",
+      "onboard_time": 1739891543,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 18669,
@@ -3563,6 +3699,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 11145,
+      "num": 536194,
+      "word": "竞演综艺中演技为何成了奢侈品",
+      "onboard_time": 1739891363,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 10531,
       "num": 276164,
       "word": "申公豹一家的黑色美甲",
@@ -3571,20 +3715,28 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 10335,
+      "num": 437521,
+      "word": "苏炳添说全运会站好最后一班岗",
+      "onboard_time": 1739891183,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 9809,
+      "num": 435244,
+      "word": "蓝色监狱帅哥合宿日常",
+      "onboard_time": 1739891423,
+      "rank": 26,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 9712,
       "num": 77846,
       "word": "110秒回顾陪我们成长的中国动画",
       "onboard_time": 1739817192,
       "rank": 9,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 9307,
-      "num": 463000,
-      "word": "网友偶遇赵露思山区做公益",
-      "onboard_time": 1739889383,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 8873,

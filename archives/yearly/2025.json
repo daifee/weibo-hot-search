@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1739889625960,
+  "endTime": 1739892327710,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1467,6 +1467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2888444,
+      "num": 618152,
+      "word": "男子性侵女孩失败后故意使其溺亡",
+      "onboard_time": 1739890224,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2873262,
       "num": 1070739,
       "word": "金赛纶 金秀贤",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735810700,
       "rank": 3,
       "category": "海外新闻,网红"
-    },
-    {
-      "raw_hot": 2226824,
-      "num": 2226824,
-      "word": "哪吒2感谢140000000位观众",
-      "onboard_time": 1739003604,
-      "rank": 42,
-      "category": "电影"
     }
   ],
   "hotgov_list": [

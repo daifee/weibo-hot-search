@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739889625960,
+  "endTime": 1739892327710,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -129,6 +129,14 @@
       "onboard_time": 1739868323,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2888444,
+      "num": 618152,
+      "word": "男子性侵女孩失败后故意使其溺亡",
+      "onboard_time": 1739890224,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2873262,
@@ -532,7 +540,7 @@
     },
     {
       "raw_hot": 1340032,
-      "num": 530542,
+      "num": 543302,
       "word": "护士因拔针出血跪求患者原谅",
       "onboard_time": 1739866042,
       "rank": 10,
@@ -667,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1180515,
+      "num": 624665,
+      "word": "刘楚恬演的桑稚",
+      "onboard_time": 1739890282,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1167967,
       "num": 1167967,
       "word": "光线传媒5分钟巨震40%",
@@ -732,7 +748,7 @@
     },
     {
       "raw_hot": 1077492,
-      "num": 526191,
+      "num": 614908,
       "word": "王大陆保释后没道歉",
       "onboard_time": 1739871683,
       "rank": 16,
@@ -801,6 +817,14 @@
       "onboard_time": 1739851165,
       "rank": 24,
       "category": "电影,财经"
+    },
+    {
+      "raw_hot": 1002600,
+      "num": 1002600,
+      "word": "泰国总理称中国女保镖在泰国也火了",
+      "onboard_time": 1739888663,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 986898,
@@ -1523,6 +1547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 613515,
+      "num": 613515,
+      "word": "白色橄榄树重剪",
+      "onboard_time": 1739891543,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 608663,
       "num": 317726,
       "word": "女医生疑辱骂患者不得好死",
@@ -1673,6 +1705,14 @@
       "onboard_time": 1739790381,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 560585,
+      "num": 560585,
+      "word": "杨幂 皮裙甜妹",
+      "onboard_time": 1739887644,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 559692,
@@ -2387,6 +2427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 406246,
+      "num": 406246,
+      "word": "陈晓陈妍希离婚博坚持打卡1370天",
+      "onboard_time": 1739890823,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 403230,
       "num": 315584,
       "word": "哪吒2票房超116亿",
@@ -2427,12 +2475,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 395892,
+      "num": 395892,
+      "word": "胡歌想再多活几年陪伴女儿",
+      "onboard_time": 1739889024,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 393396,
       "num": 393396,
       "word": "仙逆",
       "onboard_time": 1739701160,
       "rank": 39,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 393133,
+      "num": 444824,
+      "word": "石矶娘娘的风吹到了TVB",
+      "onboard_time": 1739889263,
+      "rank": 21,
+      "category": "剧集,电影"
     },
     {
       "raw_hot": 389631,
@@ -2601,14 +2665,6 @@
       "onboard_time": 1739755459,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 366832,
-      "num": 366832,
-      "word": "杨幂 皮裙甜妹",
-      "onboard_time": 1739887644,
-      "rank": 45,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 366668,
@@ -2955,6 +3011,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 323500,
+      "num": 323500,
+      "word": "哪吒登顶海报团建式刷屏",
+      "onboard_time": 1739889562,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 323019,
       "num": 422058,
       "word": "可以把冷空气撤回一下吗",
@@ -3075,14 +3139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 305754,
-      "num": 1000423,
-      "word": "泰国总理称中国女保镖在泰国也火了",
-      "onboard_time": 1739888663,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 305001,
       "num": 305001,
       "word": "Deepseek被问最多的问题",
@@ -3177,6 +3233,14 @@
       "onboard_time": 1739861908,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 294137,
+      "num": 620529,
+      "word": "怎么可能我的孩子会抑郁",
+      "onboard_time": 1739889562,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 292886,
@@ -3331,14 +3395,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 286083,
-      "num": 286083,
-      "word": "胡歌想再多活几年陪伴女儿",
-      "onboard_time": 1739889024,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 284384,
       "num": 284384,
       "word": "权志龙看眼泪女王看哭了",
@@ -3433,6 +3489,22 @@
       "onboard_time": 1739625140,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 270552,
+      "num": 619221,
+      "word": "3岁哪吒勇闯联合国",
+      "onboard_time": 1739889984,
+      "rank": 9,
+      "category": "民生新闻,电影"
+    },
+    {
+      "raw_hot": 269716,
+      "num": 463000,
+      "word": "网友偶遇赵露思山区做公益",
+      "onboard_time": 1739889383,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 269640,
@@ -3545,6 +3617,14 @@
       "onboard_time": 1739783001,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 262540,
+      "num": 550451,
+      "word": "广州一街道招聘环卫工要求35岁以下",
+      "onboard_time": 1739890763,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 262363,
@@ -4715,6 +4795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199524,
+      "num": 199524,
+      "word": "敖光炼狱淬龙魂",
+      "onboard_time": 1739891303,
+      "rank": 45,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 199383,
       "num": 199383,
       "word": "哪吒2港澳定档22日",
@@ -4851,6 +4939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195686,
+      "num": 406609,
+      "word": "赵一博白干文学",
+      "onboard_time": 1739892202,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195570,
       "num": 195570,
       "word": "周峻纬优绩主义将人物化",
@@ -4873,6 +4969,14 @@
       "onboard_time": 1739701279,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194422,
+      "num": 194422,
+      "word": "豪雨",
+      "onboard_time": 1739891961,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 193931,
@@ -6067,14 +6171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 151649,
-      "num": 228911,
-      "word": "哪吒登顶海报团建式刷屏",
-      "onboard_time": 1739889562,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 151570,
       "num": 1118001,
       "word": "多地以旧换新多重buff拉满",
@@ -6097,14 +6193,6 @@
       "onboard_time": 1739843297,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 151503,
-      "num": 274100,
-      "word": "怎么可能我的孩子会抑郁",
-      "onboard_time": 1739889562,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 151463,
@@ -6508,7 +6596,7 @@
     },
     {
       "raw_hot": 137532,
-      "num": 137532,
+      "num": 433563,
       "word": "鬼灭之刃新情报",
       "onboard_time": 1739885844,
       "rank": 47,
@@ -6635,6 +6723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 133020,
+      "num": 432534,
+      "word": "教师被举报家暴及性骚扰学生后仍在职",
+      "onboard_time": 1739890462,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132765,
       "num": 132765,
       "word": "曝微信内测接入DeepSeek",
@@ -6729,6 +6825,14 @@
       "onboard_time": 1739672299,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130248,
+      "num": 436271,
+      "word": "街道办回应招聘环卫工要求35岁以下",
+      "onboard_time": 1739891122,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130170,
@@ -7065,6 +7169,14 @@
       "onboard_time": 1739805860,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119515,
+      "num": 410156,
+      "word": "陶勇谈郭艾伦眼睛受伤",
+      "onboard_time": 1739892143,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 119423,
@@ -8211,6 +8323,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 66870,
+      "num": 406321,
+      "word": "赵小童说今天的落日又大又红",
+      "onboard_time": 1739891423,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 66659,
       "num": 78088,
       "word": "微博演员青云专项",
@@ -9171,6 +9291,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 23272,
+      "num": 434311,
+      "word": "chiikawa泄气现场",
+      "onboard_time": 1739891483,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 23117,
       "num": 24949,
       "word": "泰国共享诈骗团伙IP地址",
@@ -9320,6 +9448,14 @@
       "word": "吕先景公路车亚锦赛冠军",
       "onboard_time": 1739695398,
       "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 18773,
+      "num": 439150,
+      "word": "林诗栋是第一次来深圳",
+      "onboard_time": 1739891543,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -9499,6 +9635,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 11145,
+      "num": 536194,
+      "word": "竞演综艺中演技为何成了奢侈品",
+      "onboard_time": 1739891363,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 10698,
       "num": 180377,
       "word": "魔卡少女樱天降中华男",
@@ -9515,20 +9659,28 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 10335,
+      "num": 437521,
+      "word": "苏炳添说全运会站好最后一班岗",
+      "onboard_time": 1739891183,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 9809,
+      "num": 435244,
+      "word": "蓝色监狱帅哥合宿日常",
+      "onboard_time": 1739891423,
+      "rank": 26,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 9712,
       "num": 77846,
       "word": "110秒回顾陪我们成长的中国动画",
       "onboard_time": 1739817192,
       "rank": 9,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 9307,
-      "num": 463000,
-      "word": "网友偶遇赵露思山区做公益",
-      "onboard_time": 1739889383,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 9258,
