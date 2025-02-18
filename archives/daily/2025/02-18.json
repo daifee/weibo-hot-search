@@ -1,10 +1,10 @@
 {
   "startTime": 1739809696665,
-  "endTime": 1739852822212,
+  "endTime": 1739853631796,
   "band_list": [
     {
-      "raw_hot": 7898526,
-      "num": 7898526,
+      "raw_hot": 8829018,
+      "num": 8829018,
       "word": "曝王大陆涉嫌逃兵役被捕",
       "onboard_time": 1739849540,
       "rank": 6,
@@ -17,6 +17,14 @@
       "onboard_time": 1739844377,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1880268,
+      "num": 814324,
+      "word": "难哄开播",
+      "onboard_time": 1739842759,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 1851322,
@@ -35,20 +43,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1651848,
-      "num": 814324,
-      "word": "难哄开播",
-      "onboard_time": 1739842759,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1627621,
       "num": 1627621,
       "word": "AI公务员上岗",
       "onboard_time": 1739835977,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1586433,
+      "num": 1586433,
+      "word": "石矶娘娘东山再起竟要等上亿年",
+      "onboard_time": 1739848879,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 1514136,
@@ -67,14 +75,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1431105,
-      "num": 1431105,
-      "word": "石矶娘娘东山再起竟要等上亿年",
-      "onboard_time": 1739848879,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 1189476,
       "num": 271163,
       "word": "网红顾茜茜自曝日收入超30万",
@@ -83,12 +83,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 990831,
+      "raw_hot": 1105239,
       "num": 584579,
       "word": "网红顾茜茜说日收入30万都是辛苦钱",
       "onboard_time": 1739846538,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 986459,
+      "num": 571368,
+      "word": "难哄把OST大户聚齐了",
+      "onboard_time": 1739850322,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 961184,
@@ -99,14 +107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 937532,
-      "num": 571368,
-      "word": "难哄把OST大户聚齐了",
-      "onboard_time": 1739850322,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 924478,
       "num": 295181,
       "word": "美国男子蜜月期殴打华裔妻子致死",
@@ -115,11 +115,35 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 916590,
+      "num": 516679,
+      "word": "难哄",
+      "onboard_time": 1739852005,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 913796,
       "num": 456758,
       "word": "沈梦辰杜海涛经历9年爱情长跑",
       "onboard_time": 1739825951,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 867448,
+      "num": 517152,
+      "word": "朴灿烈遛狗偶遇RM节目录制",
+      "onboard_time": 1739851585,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 854456,
+      "num": 518988,
+      "word": "迪丽热巴直播",
+      "onboard_time": 1739850442,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -139,28 +163,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 818072,
-      "num": 518988,
-      "word": "迪丽热巴直播",
-      "onboard_time": 1739850442,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 787814,
-      "num": 517152,
-      "word": "朴灿烈遛狗偶遇RM节目录制",
-      "onboard_time": 1739851585,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 786300,
-      "num": 516679,
-      "word": "难哄",
-      "onboard_time": 1739852005,
-      "rank": 22,
-      "category": "剧集"
+      "raw_hot": 774181,
+      "num": 774181,
+      "word": "DeepSeek迎来最强队友",
+      "onboard_time": 1739849961,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 729823,
@@ -187,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 647232,
+      "num": 516421,
+      "word": "光线传媒再度巨震",
+      "onboard_time": 1739851165,
+      "rank": 24,
+      "category": "电影,财经"
+    },
+    {
       "raw_hot": 644248,
       "num": 644248,
       "word": "哪吒2进入全球影史票房前9",
@@ -195,12 +211,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 637639,
-      "num": 637639,
-      "word": "DeepSeek迎来最强队友",
-      "onboard_time": 1739849961,
-      "rank": 19,
-      "category": "互联网"
+      "raw_hot": 600855,
+      "num": 600855,
+      "word": "专家称不必过于担忧AI抢人类铁饭碗",
+      "onboard_time": 1739842398,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 593622,
@@ -209,14 +225,6 @@
       "onboard_time": 1739849841,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 582676,
-      "num": 582676,
-      "word": "专家称不必过于担忧AI抢人类铁饭碗",
-      "onboard_time": 1739842398,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 577732,
@@ -241,14 +249,6 @@
       "onboard_time": 1739846899,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 521864,
-      "num": 516421,
-      "word": "光线传媒再度巨震",
-      "onboard_time": 1739851165,
-      "rank": 24,
-      "category": "电影,财经"
     },
     {
       "raw_hot": 517192,
@@ -347,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 390871,
+      "num": 422097,
+      "word": "大学生刷短视频一个月流量超8000元",
+      "onboard_time": 1739851403,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 362563,
       "num": 362563,
       "word": "哪吒2在联合国特别放映",
@@ -371,6 +379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 353638,
+      "num": 417533,
+      "word": "周深伦敦演唱会补偿力度",
+      "onboard_time": 1739852183,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 349814,
       "num": 262867,
       "word": "周扬青回应网曝新恋情",
@@ -393,14 +409,6 @@
       "onboard_time": 1739835917,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 347357,
-      "num": 347357,
-      "word": "大学生刷短视频一个月流量超8000元",
-      "onboard_time": 1739851403,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 346234,
@@ -483,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 298837,
+      "num": 298837,
+      "word": "孙俪分享小花学瑜伽日常",
+      "onboard_time": 1739851945,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 292354,
       "num": 240673,
       "word": "女子晒双胞胎儿子cos哪吒敖丙",
@@ -515,20 +531,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 284848,
-      "num": 284848,
-      "word": "孙俪分享小花学瑜伽日常",
-      "onboard_time": 1739851945,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 267641,
       "num": 267641,
       "word": "商家用女童跪撩上衣姿势展示童装",
       "onboard_time": 1739797161,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258787,
+      "num": 456391,
+      "word": "梁洁被捂住半张脸还能看出演技",
+      "onboard_time": 1739852966,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 255674,
@@ -577,6 +593,14 @@
       "onboard_time": 1739849299,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 224833,
+      "num": 603476,
+      "word": "多品牌回应咖啡是否涨价",
+      "onboard_time": 1739851765,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 224467,
@@ -651,20 +675,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 218546,
+      "num": 515963,
+      "word": "为什么上网感觉都是高收入人群",
+      "onboard_time": 1739852303,
+      "rank": 29,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 217592,
       "num": 217592,
       "word": "一客机加拿大降落时发生事故多人伤",
       "onboard_time": 1739833935,
       "rank": 20,
       "category": "国际时政,国际时政"
-    },
-    {
-      "raw_hot": 214782,
-      "num": 214782,
-      "word": "周深伦敦演唱会补偿力度",
-      "onboard_time": 1739852183,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 206150,
@@ -689,6 +713,14 @@
       "onboard_time": 1739843297,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 202288,
+      "num": 414515,
+      "word": "当火象和土象开始恋爱",
+      "onboard_time": 1739853324,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 200273,
@@ -753,14 +785,6 @@
       "onboard_time": 1739846779,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 180239,
-      "num": 603476,
-      "word": "多品牌回应咖啡是否涨价",
-      "onboard_time": 1739851765,
-      "rank": 9,
-      "category": "美食"
     },
     {
       "raw_hot": 177841,
@@ -915,14 +939,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 146209,
-      "num": 515963,
-      "word": "为什么上网感觉都是高收入人群",
-      "onboard_time": 1739852303,
-      "rank": 29,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 144425,
       "num": 144425,
       "word": "桑延20个6",
@@ -980,7 +996,7 @@
     },
     {
       "raw_hot": 136390,
-      "num": 330297,
+      "num": 463479,
       "word": "大衣哥辟谣买豪宅给儿媳开金店",
       "onboard_time": 1739849780,
       "rank": 45,
@@ -993,6 +1009,14 @@
       "onboard_time": 1739836459,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135008,
+      "num": 528553,
+      "word": "南京一卤货作坊脏乱操作间紧挨厕所",
+      "onboard_time": 1739851765,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133541,
@@ -1028,7 +1052,7 @@
     },
     {
       "raw_hot": 129944,
-      "num": 378991,
+      "num": 415517,
       "word": "又一国产大模型宣布开源",
       "onboard_time": 1739849721,
       "rank": 48,
@@ -1115,12 +1139,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109721,
+      "num": 419608,
+      "word": "韩国空姐打开应急舱门站机翼上自拍",
+      "onboard_time": 1739853025,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 102450,
       "num": 102450,
       "word": "美国11个州超53万用户断电",
       "onboard_time": 1739806280,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 102064,
+      "num": 517067,
+      "word": "曾黎介绍最早的宋代龙王敖光",
+      "onboard_time": 1739852365,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 98500,
+      "num": 423264,
+      "word": "亚洲杯",
+      "onboard_time": 1739853445,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 97017,
@@ -1147,6 +1195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 93521,
+      "num": 516348,
+      "word": "加拿大翻覆客机着陆时画面曝光",
+      "onboard_time": 1739851945,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 91709,
       "num": 145322,
       "word": "杭州路上开始积雪了",
@@ -1161,6 +1217,14 @@
       "onboard_time": 1739794938,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 87169,
+      "num": 520159,
+      "word": "被指居者控诉被办案人员吊起电击",
+      "onboard_time": 1739851765,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86956,
@@ -1203,22 +1267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 76936,
-      "num": 517067,
-      "word": "曾黎介绍最早的宋代龙王敖光",
-      "onboard_time": 1739852365,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 74749,
-      "num": 528553,
-      "word": "南京一卤货作坊脏乱操作间紧挨厕所",
-      "onboard_time": 1739851765,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74362,
       "num": 74362,
       "word": "想来中国捐家族相册的法国小伙抵京",
@@ -1235,6 +1283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 71954,
+      "num": 306863,
+      "word": "王大陆正在接受侦讯",
+      "onboard_time": 1739851585,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 70722,
       "num": 84193,
       "word": "中国已开始部署防御小行星撞击地球",
@@ -1249,6 +1305,14 @@
       "onboard_time": 1739794220,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 70600,
+      "num": 516158,
+      "word": "沈星回风驰电掣",
+      "onboard_time": 1739852724,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 70214,
@@ -1273,14 +1337,6 @@
       "onboard_time": 1739831593,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 62540,
-      "num": 520159,
-      "word": "被指居者控诉被办案人员吊起电击",
-      "onboard_time": 1739851765,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 62111,
@@ -1328,22 +1384,6 @@
       "word": "美国冬季风暴死亡升至11人",
       "onboard_time": 1739832854,
       "rank": 9,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 56736,
-      "num": 516158,
-      "word": "沈星回风驰电掣",
-      "onboard_time": 1739852724,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 54127,
-      "num": 516348,
-      "word": "加拿大翻覆客机着陆时画面曝光",
-      "onboard_time": 1739851945,
-      "rank": 25,
       "category": "海外新闻"
     },
     {
@@ -1441,6 +1481,14 @@
       "onboard_time": 1739833935,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31312,
+      "num": 1010484,
+      "word": "文化中国行看雨水节气",
+      "onboard_time": 1739853084,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25954,
@@ -1604,6 +1652,9 @@
     },
     {
       "word": "#对民营企业的期待要求在这20字里#"
+    },
+    {
+      "word": "#希望广大民营企业和民营企业家胸怀报国志#"
     }
   ]
 }

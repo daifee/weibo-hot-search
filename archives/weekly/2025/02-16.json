@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739852822212,
+  "endTime": 1739853631796,
   "band_list": [
     {
       "raw_hot": 17381826,
@@ -19,8 +19,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 7898526,
-      "num": 7898526,
+      "raw_hot": 8829018,
+      "num": 8829018,
       "word": "曝王大陆涉嫌逃兵役被捕",
       "onboard_time": 1739849540,
       "rank": 6,
@@ -139,6 +139,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1880268,
+      "num": 814324,
+      "word": "难哄开播",
+      "onboard_time": 1739842759,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1856441,
       "num": 1856441,
       "word": "哪吒2冲顶全球动画榜",
@@ -195,14 +203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1651848,
-      "num": 814324,
-      "word": "难哄开播",
-      "onboard_time": 1739842759,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1627621,
       "num": 1627621,
       "word": "AI公务员上岗",
@@ -217,6 +217,14 @@
       "onboard_time": 1739693719,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1586433,
+      "num": 1586433,
+      "word": "石矶娘娘东山再起竟要等上亿年",
+      "onboard_time": 1739848879,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 1554834,
@@ -265,14 +273,6 @@
       "onboard_time": 1739630182,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1431105,
-      "num": 1431105,
-      "word": "石矶娘娘东山再起竟要等上亿年",
-      "onboard_time": 1739848879,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 1429396,
@@ -483,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1105239,
+      "num": 584579,
+      "word": "网红顾茜茜说日收入30万都是辛苦钱",
+      "onboard_time": 1739846538,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1097972,
       "num": 363519,
       "word": "韩国禁止新用户下载DeepSeek",
@@ -539,20 +547,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 990831,
-      "num": 584579,
-      "word": "网红顾茜茜说日收入30万都是辛苦钱",
-      "onboard_time": 1739846538,
-      "rank": 30,
-      "category": "网红"
-    },
-    {
       "raw_hot": 986898,
       "num": 639455,
       "word": "沈梦辰杜海涛庆祝结婚3周年",
       "onboard_time": 1739778741,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 986459,
+      "num": 571368,
+      "word": "难哄把OST大户聚齐了",
+      "onboard_time": 1739850322,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 985547,
@@ -595,14 +603,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 937532,
-      "num": 571368,
-      "word": "难哄把OST大户聚齐了",
-      "onboard_time": 1739850322,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 936543,
       "num": 936543,
       "word": "哪吒2燃爆北美五星评论霸屏",
@@ -625,6 +625,14 @@
       "onboard_time": 1739700138,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 916590,
+      "num": 516679,
+      "word": "难哄",
+      "onboard_time": 1739667738,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 913796,
@@ -651,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 867448,
+      "num": 517152,
+      "word": "朴灿烈遛狗偶遇RM节目录制",
+      "onboard_time": 1739851585,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 864283,
       "num": 864283,
       "word": "黄金高位跳水",
@@ -673,6 +689,14 @@
       "onboard_time": 1739755459,
       "rank": 30,
       "category": "电影,美妆"
+    },
+    {
+      "raw_hot": 854456,
+      "num": 518988,
+      "word": "迪丽热巴直播",
+      "onboard_time": 1739850442,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 853584,
@@ -779,14 +803,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 818072,
-      "num": 518988,
-      "word": "迪丽热巴直播",
-      "onboard_time": 1739850442,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 817700,
       "num": 453811,
       "word": "曝光12亿贪腐案印度记者惨死化粪池",
@@ -817,22 +833,6 @@
       "onboard_time": 1739776761,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 787814,
-      "num": 517152,
-      "word": "朴灿烈遛狗偶遇RM节目录制",
-      "onboard_time": 1739851585,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 786300,
-      "num": 516679,
-      "word": "难哄",
-      "onboard_time": 1739667738,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 783934,
@@ -873,6 +873,14 @@
       "onboard_time": 1739631800,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 774181,
+      "num": 774181,
+      "word": "DeepSeek迎来最强队友",
+      "onboard_time": 1739849961,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 772844,
@@ -1075,6 +1083,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 647232,
+      "num": 516421,
+      "word": "光线传媒再度巨震",
+      "onboard_time": 1739851165,
+      "rank": 24,
+      "category": "电影,财经"
+    },
+    {
       "raw_hot": 644255,
       "num": 298618,
       "word": "记者买7件100%羊绒衫一根羊绒也没",
@@ -1089,14 +1105,6 @@
       "onboard_time": 1739792361,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 637639,
-      "num": 637639,
-      "word": "DeepSeek迎来最强队友",
-      "onboard_time": 1739849961,
-      "rank": 19,
-      "category": "互联网"
     },
     {
       "raw_hot": 631324,
@@ -1163,6 +1171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 600855,
+      "num": 600855,
+      "word": "专家称不必过于担忧AI抢人类铁饭碗",
+      "onboard_time": 1739842398,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 598178,
       "num": 447378,
       "word": "乌尔善回应封神2遭滑铁卢",
@@ -1217,14 +1233,6 @@
       "onboard_time": 1739707460,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 582676,
-      "num": 582676,
-      "word": "专家称不必过于担忧AI抢人类铁饭碗",
-      "onboard_time": 1739842398,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 580437,
@@ -1409,14 +1417,6 @@
       "onboard_time": 1739694858,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 521864,
-      "num": 516421,
-      "word": "光线传媒再度巨震",
-      "onboard_time": 1739851165,
-      "rank": 24,
-      "category": "电影,财经"
     },
     {
       "raw_hot": 521339,
@@ -1947,6 +1947,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 390871,
+      "num": 422097,
+      "word": "大学生刷短视频一个月流量超8000元",
+      "onboard_time": 1739851403,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 389631,
       "num": 389631,
       "word": "四川山体滑坡已致10死19失联",
@@ -2179,6 +2187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 353638,
+      "num": 417533,
+      "word": "周深伦敦演唱会补偿力度",
+      "onboard_time": 1739852183,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 350872,
       "num": 250886,
       "word": "甄嬛传连门声都被开发出来了",
@@ -2216,14 +2232,6 @@
       "word": "5岁女孩学舞受伤后诊断出脊髓空洞症",
       "onboard_time": 1739773279,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 347357,
-      "num": 347357,
-      "word": "大学生刷短视频一个月流量超8000元",
-      "onboard_time": 1739851403,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -2483,6 +2491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 298837,
+      "num": 298837,
+      "word": "孙俪分享小花学瑜伽日常",
+      "onboard_time": 1739851945,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 297444,
       "num": 364007,
       "word": "金赛纶去世和金秀贤生日是同一天",
@@ -2585,14 +2601,6 @@
       "onboard_time": 1739845519,
       "rank": 15,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 284848,
-      "num": 284848,
-      "word": "孙俪分享小花学瑜伽日常",
-      "onboard_time": 1739851945,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 284384,
@@ -2768,6 +2776,14 @@
       "word": "梁洁这段每个表情都是痛",
       "onboard_time": 1739764339,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 258787,
+      "num": 456391,
+      "word": "梁洁被捂住半张脸还能看出演技",
+      "onboard_time": 1739852966,
+      "rank": 17,
       "category": "剧集"
     },
     {
@@ -3131,6 +3147,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 224833,
+      "num": 603476,
+      "word": "多品牌回应咖啡是否涨价",
+      "onboard_time": 1739851765,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 224792,
       "num": 274446,
       "word": "校方回应老师被举报性侵",
@@ -3291,6 +3315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218546,
+      "num": 515963,
+      "word": "为什么上网感觉都是高收入人群",
+      "onboard_time": 1739852303,
+      "rank": 29,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 217592,
       "num": 217592,
       "word": "一客机加拿大降落时发生事故多人伤",
@@ -3329,14 +3361,6 @@
       "onboard_time": 1739697019,
       "rank": 13,
       "category": "财经"
-    },
-    {
-      "raw_hot": 214782,
-      "num": 214782,
-      "word": "周深伦敦演唱会补偿力度",
-      "onboard_time": 1739852183,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 214738,
@@ -3552,6 +3576,14 @@
       "word": "杨紫李祯盘发路透",
       "onboard_time": 1739756298,
       "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 202288,
+      "num": 414515,
+      "word": "当火象和土象开始恋爱",
+      "onboard_time": 1739853324,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -4121,14 +4153,6 @@
       "onboard_time": 1739641335,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 180239,
-      "num": 603476,
-      "word": "多品牌回应咖啡是否涨价",
-      "onboard_time": 1739851765,
-      "rank": 9,
-      "category": "美食"
     },
     {
       "raw_hot": 180232,
@@ -4915,14 +4939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 146209,
-      "num": 515963,
-      "word": "为什么上网感觉都是高收入人群",
-      "onboard_time": 1739852303,
-      "rank": 29,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 145042,
       "num": 245643,
       "word": "邓为说开学了记得断念",
@@ -5188,7 +5204,7 @@
     },
     {
       "raw_hot": 136390,
-      "num": 330297,
+      "num": 463479,
       "word": "大衣哥辟谣买豪宅给儿媳开金店",
       "onboard_time": 1739849780,
       "rank": 45,
@@ -5209,6 +5225,14 @@
       "onboard_time": 1739635819,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135008,
+      "num": 528553,
+      "word": "南京一卤货作坊脏乱操作间紧挨厕所",
+      "onboard_time": 1739851765,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134939,
@@ -5372,7 +5396,7 @@
     },
     {
       "raw_hot": 129944,
-      "num": 378991,
+      "num": 415517,
       "word": "又一国产大模型宣布开源",
       "onboard_time": 1739849721,
       "rank": 48,
@@ -5891,6 +5915,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 109721,
+      "num": 419608,
+      "word": "韩国空姐打开应急舱门站机翼上自拍",
+      "onboard_time": 1739853025,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 108565,
       "num": 108565,
       "word": "藕饼",
@@ -6035,6 +6067,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 102064,
+      "num": 517067,
+      "word": "曾黎介绍最早的宋代龙王敖光",
+      "onboard_time": 1739852365,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101469,
       "num": 101469,
       "word": "LCK",
@@ -6105,6 +6145,14 @@
       "onboard_time": 1739765001,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 98500,
+      "num": 423264,
+      "word": "亚洲杯",
+      "onboard_time": 1739853445,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 98322,
@@ -6211,6 +6259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93521,
+      "num": 516348,
+      "word": "加拿大翻覆客机着陆时画面曝光",
+      "onboard_time": 1739851945,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 93323,
       "num": 93323,
       "word": "郭德纲回应不让德云社直播带货",
@@ -6307,6 +6363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 87169,
+      "num": 520159,
+      "word": "被指居者控诉被办案人员吊起电击",
+      "onboard_time": 1739851765,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87000,
       "num": 260422,
       "word": "丁禹兮全棉好物分享",
@@ -6387,14 +6451,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 76936,
-      "num": 517067,
-      "word": "曾黎介绍最早的宋代龙王敖光",
-      "onboard_time": 1739852365,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 76003,
       "num": 460662,
       "word": "奥尼尔队晋级决赛",
@@ -6411,14 +6467,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 74749,
-      "num": 528553,
-      "word": "南京一卤货作坊脏乱操作间紧挨厕所",
-      "onboard_time": 1739851765,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74484,
       "num": 263919,
       "word": "深圳一公园野生猴子袭击女童",
@@ -6433,6 +6481,14 @@
       "onboard_time": 1739640435,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 71954,
+      "num": 306863,
+      "word": "王大陆正在接受侦讯",
+      "onboard_time": 1739851585,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 71432,
@@ -6457,6 +6513,14 @@
       "onboard_time": 1739694617,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70600,
+      "num": 516158,
+      "word": "沈星回风驰电掣",
+      "onboard_time": 1739852724,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 70398,
@@ -6553,14 +6617,6 @@
       "onboard_time": 1739722819,
       "rank": 48,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 62540,
-      "num": 520159,
-      "word": "被指居者控诉被办案人员吊起电击",
-      "onboard_time": 1739851765,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 62469,
@@ -6715,14 +6771,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 56736,
-      "num": 516158,
-      "word": "沈星回风驰电掣",
-      "onboard_time": 1739852724,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 56481,
       "num": 355572,
       "word": "进击的巨人白夜",
@@ -6745,14 +6793,6 @@
       "onboard_time": 1739783900,
       "rank": 44,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 54127,
-      "num": 516348,
-      "word": "加拿大翻覆客机着陆时画面曝光",
-      "onboard_time": 1739851945,
-      "rank": 25,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 52800,
@@ -7073,6 +7113,14 @@
       "onboard_time": 1739686039,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 31312,
+      "num": 1010484,
+      "word": "文化中国行看雨水节气",
+      "onboard_time": 1739853084,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29630,
@@ -7576,6 +7624,9 @@
     },
     {
       "word": "#对民营企业的期待要求在这20字里#"
+    },
+    {
+      "word": "#希望广大民营企业和民营企业家胸怀报国志#"
     }
   ]
 }
