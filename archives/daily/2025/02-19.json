@@ -1,6 +1,6 @@
 {
   "startTime": 1739896170867,
-  "endTime": 1739899244679,
+  "endTime": 1739900289864,
   "band_list": [
     {
       "raw_hot": 1448214,
@@ -395,7 +395,15 @@
       "category": "电影"
     },
     {
-      "raw_hot": 63271,
+      "raw_hot": 66862,
+      "num": 66862,
+      "word": "13岁女孩险被骗59万被支付宝拦截",
+      "onboard_time": 1739896816,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64995,
       "num": 84194,
       "word": "法老否认出轨",
       "onboard_time": 1739897955,
@@ -403,15 +411,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 60847,
-      "num": 60847,
-      "word": "13岁女孩险被骗59万被支付宝拦截",
-      "onboard_time": 1739896816,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 52508,
+      "raw_hot": 54920,
       "num": 89868,
       "word": "你有当面被叫网名的经历吗",
       "onboard_time": 1739896996,
@@ -435,6 +435,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38294,
+      "num": 48950,
+      "word": "美客机加拿大降落时侧翻至少17伤",
+      "onboard_time": 1739899874,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 32971,
+      "num": 48934,
+      "word": "俱乐部回应郭艾伦受伤",
+      "onboard_time": 1739881462,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30814,
       "num": 91682,
       "word": "石矶娘娘有广州公司参与设计",
@@ -449,6 +465,14 @@
       "onboard_time": 1739897716,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21971,
+      "num": 97817,
+      "word": "菲律宾1架飞机非法闯入中国黄岩岛领空",
+      "onboard_time": 1739899634,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 9504,

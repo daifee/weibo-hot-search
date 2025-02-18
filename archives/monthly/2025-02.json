@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739899244679,
+  "endTime": 1739900289864,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -48259,6 +48259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66862,
+      "num": 66862,
+      "word": "13岁女孩险被骗59万被支付宝拦截",
+      "onboard_time": 1739896816,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66756,
       "num": 91399,
       "word": "90岁奶奶在哥哥身边也是女孩",
@@ -48459,6 +48467,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 64995,
+      "num": 84194,
+      "word": "法老否认出轨",
+      "onboard_time": 1739897955,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 64968,
       "num": 277661,
       "word": "袁一琦情人节直播",
@@ -48625,14 +48641,6 @@
       "onboard_time": 1738567348,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 63271,
-      "num": 84194,
-      "word": "法老否认出轨",
-      "onboard_time": 1739897955,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 63235,
@@ -48976,14 +48984,6 @@
       "word": "我国最大超深原油生产区加快建设",
       "onboard_time": 1739440642,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 60847,
-      "num": 60847,
-      "word": "13岁女孩险被骗59万被支付宝拦截",
-      "onboard_time": 1739896816,
-      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -49843,6 +49843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54920,
+      "num": 89868,
+      "word": "你有当面被叫网名的经历吗",
+      "onboard_time": 1739896996,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54916,
       "num": 235386,
       "word": "eStar回应宣传片相关内容",
@@ -50257,14 +50265,6 @@
       "onboard_time": 1739356042,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 52508,
-      "num": 89868,
-      "word": "你有当面被叫网名的经历吗",
-      "onboard_time": 1739896996,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 52483,
@@ -52177,6 +52177,14 @@
       "onboard_time": 1739003784,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38294,
+      "num": 48950,
+      "word": "美客机加拿大降落时侧翻至少17伤",
+      "onboard_time": 1739899874,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 38085,
@@ -54753,6 +54761,14 @@
       "onboard_time": 1738482497,
       "rank": 36,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 21971,
+      "num": 97817,
+      "word": "菲律宾1架飞机非法闯入中国黄岩岛领空",
+      "onboard_time": 1739899634,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 21966,
