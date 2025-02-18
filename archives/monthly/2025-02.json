@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739860283088,
+  "endTime": 1739861048114,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -67,19 +67,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 15071820,
+      "num": 15071820,
+      "word": "陈晓陈妍希 真难哄",
+      "onboard_time": 1739857118,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 14397354,
       "num": 14397354,
       "word": "张兰汪小菲抖音无限期封禁",
       "onboard_time": 1738985241,
       "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 13347296,
-      "num": 13347296,
-      "word": "陈晓陈妍希 真难哄",
-      "onboard_time": 1739857118,
-      "rank": 35,
       "category": "艺人"
     },
     {
@@ -659,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2710302,
+      "num": 396192,
+      "word": "截爆难哄",
+      "onboard_time": 1739857715,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2693767,
       "num": 1704350,
       "word": "众星发声悼念",
@@ -809,14 +817,6 @@
       "onboard_time": 1738629080,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2290834,
-      "num": 396192,
-      "word": "截爆难哄",
-      "onboard_time": 1739857715,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 2280058,
@@ -5779,6 +5779,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 784076,
+      "num": 784076,
+      "word": "iPhone17Pro模具曝光",
+      "onboard_time": 1739859515,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 783934,
       "num": 783934,
       "word": "腾讯市值暴涨3000亿",
@@ -7587,6 +7595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 633135,
+      "num": 633135,
+      "word": "18岁抗癌博主晟宝去世",
+      "onboard_time": 1739857777,
+      "rank": 6,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 632502,
       "num": 831526,
       "word": "马龙跟李现说这么破费",
@@ -7809,14 +7825,6 @@
       "onboard_time": 1739459661,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 619259,
-      "num": 619259,
-      "word": "18岁抗癌博主晟宝去世",
-      "onboard_time": 1739857777,
-      "rank": 6,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 618729,
@@ -12035,14 +12043,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 420601,
-      "num": 420601,
-      "word": "iPhone17Pro模具曝光",
-      "onboard_time": 1739859515,
-      "rank": 7,
-      "category": "数码"
-    },
-    {
       "raw_hot": 420576,
       "num": 420576,
       "word": "哪吒2成史上最快破40亿电影",
@@ -13931,6 +13931,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 359338,
+      "num": 359338,
+      "word": "偷偷藏不住",
+      "onboard_time": 1739860350,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 358978,
       "num": 218159,
       "word": "希林娜依高失声后思考换一种生活方式",
@@ -14809,6 +14817,14 @@
       "onboard_time": 1739576956,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 336786,
+      "num": 336786,
+      "word": "陈妍希方声明",
+      "onboard_time": 1739860770,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 336428,
@@ -16235,6 +16251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 305654,
+      "num": 305654,
+      "word": "哪吒2突破122亿",
+      "onboard_time": 1739860291,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 305652,
       "num": 478839,
       "word": "重庆燃气集团收费问题通报",
@@ -16881,6 +16905,14 @@
       "onboard_time": 1739710465,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 292790,
+      "num": 361777,
+      "word": "爱豆黄明昊在22岁最后一天回归",
+      "onboard_time": 1739859695,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 292712,
@@ -17827,6 +17859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 275005,
+      "num": 275005,
+      "word": "网曝河北邢台一局长酒后砸店伤人",
+      "onboard_time": 1739859695,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 274992,
       "num": 183778,
       "word": "赵磊结婚谷嘉诚郭子凡在这又唱又跳",
@@ -18489,14 +18529,6 @@
       "onboard_time": 1738989207,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 262789,
-      "num": 355858,
-      "word": "爱豆黄明昊在22岁最后一天回归",
-      "onboard_time": 1739859695,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 262758,
@@ -20361,6 +20393,14 @@
       "onboard_time": 1738753945,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 237744,
+      "num": 237744,
+      "word": "顾盼生辉",
+      "onboard_time": 1739860770,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 237741,
@@ -22795,6 +22835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215672,
+      "num": 391716,
+      "word": "网友问DeepSeek最多的问题",
+      "onboard_time": 1739859155,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215637,
       "num": 142778,
       "word": "敖光一款过于美貌的爹",
@@ -22985,6 +23033,14 @@
       "onboard_time": 1739490078,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 214123,
+      "num": 370025,
+      "word": "试管夫妻丈夫中途去世医院拒移植",
+      "onboard_time": 1739860231,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 214005,
@@ -27643,14 +27699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187557,
-      "num": 391716,
-      "word": "网友问DeepSeek最多的问题",
-      "onboard_time": 1739859155,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 187544,
       "num": 187544,
       "word": "李嘉琦新剧好强的饭张力",
@@ -29393,14 +29441,6 @@
       "onboard_time": 1739434100,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 177706,
-      "num": 177706,
-      "word": "网曝河北邢台一局长酒后砸店伤人",
-      "onboard_time": 1739859695,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 177648,
@@ -36201,6 +36241,14 @@
       "onboard_time": 1739617039,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141373,
+      "num": 386862,
+      "word": "AI面试外挂8小时收费188.8元",
+      "onboard_time": 1739859755,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141366,
@@ -45235,14 +45283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 80571,
-      "num": 315987,
-      "word": "试管夫妻丈夫中途去世医院拒移植",
-      "onboard_time": 1739860231,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80526,
       "num": 80526,
       "word": "DeepSeek为何会引起美国AI巨头焦虑",
@@ -46073,6 +46113,14 @@
       "onboard_time": 1739508504,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 72585,
+      "num": 370769,
+      "word": "当地纪委介入调查局长酒后砸店伤人",
+      "onboard_time": 1739860410,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72372,
@@ -47579,6 +47627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59751,
+      "num": 284072,
+      "word": "章若楠演技",
+      "onboard_time": 1739861009,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 59727,
       "num": 147634,
       "word": "日本去年12月出现持续药品荒",
@@ -48171,6 +48227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55391,
+      "num": 373305,
+      "word": "加拿大机场回应客机事故",
+      "onboard_time": 1739860350,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 55376,
       "num": 142417,
       "word": "梁靖崑3比0周哲宇",
@@ -48345,6 +48409,14 @@
       "onboard_time": 1738729703,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 54284,
+      "num": 360686,
+      "word": "记者调查9.9元体验课陷阱",
+      "onboard_time": 1739860111,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54144,
@@ -49747,14 +49819,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 43928,
-      "num": 386862,
-      "word": "AI面试外挂8小时收费188.8元",
-      "onboard_time": 1739859755,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43832,
       "num": 523601,
       "word": "中国队短道速滑女子3000米接力金牌",
@@ -50483,6 +50547,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 38371,
+      "num": 257385,
+      "word": "王嘉尔到了再讲",
+      "onboard_time": 1739856818,
+      "rank": 45,
+      "category": "音乐,艺人"
+    },
+    {
       "raw_hot": 38355,
       "num": 343001,
       "word": "李方慧亚冬会夺金后发博致谢",
@@ -50971,12 +51043,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35397,
+      "num": 270692,
+      "word": "周柯宇翟潇闻勇闯非诚勿扰赛道",
+      "onboard_time": 1739858978,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 35370,
       "num": 294529,
       "word": "中国队亚冬会已夺21金18银15铜",
       "onboard_time": 1739197941,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35370,
+      "num": 363465,
+      "word": "民国夏以昼",
+      "onboard_time": 1739860410,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 35355,
@@ -51564,7 +51652,7 @@
     },
     {
       "raw_hot": 31312,
-      "num": 1010484,
+      "num": 1324065,
       "word": "文化中国行看雨水节气",
       "onboard_time": 1739853084,
       "rank": 2,
@@ -52787,14 +52875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 23213,
-      "num": 339454,
-      "word": "记者调查9.9元体验课陷阱",
-      "onboard_time": 1739860111,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23200,
       "num": 19919,
       "word": "丁禹兮新春写真",
@@ -53401,6 +53481,14 @@
       "onboard_time": 1739531421,
       "rank": 29,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 19624,
+      "num": 360146,
+      "word": "怪盗基德cos工藤新一",
+      "onboard_time": 1739860291,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 19394,

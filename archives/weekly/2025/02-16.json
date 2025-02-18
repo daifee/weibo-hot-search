@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739860283088,
+  "endTime": 1739861048114,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -19,8 +19,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 13347296,
-      "num": 13347296,
+      "raw_hot": 15071820,
+      "num": 15071820,
       "word": "陈晓陈妍希 真难哄",
       "onboard_time": 1739857118,
       "rank": 35,
@@ -123,6 +123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 2710302,
+      "num": 396192,
+      "word": "截爆难哄",
+      "onboard_time": 1739857715,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2656641,
       "num": 1185478,
       "word": "金赛纶最后ins发了文彬",
@@ -137,14 +145,6 @@
       "onboard_time": 1739685919,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2290834,
-      "num": 396192,
-      "word": "截爆难哄",
-      "onboard_time": 1739857715,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 2200902,
@@ -939,6 +939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 784076,
+      "num": 784076,
+      "word": "iPhone17Pro模具曝光",
+      "onboard_time": 1739859515,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 783934,
       "num": 783934,
       "word": "腾讯市值暴涨3000亿",
@@ -1219,6 +1227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 633135,
+      "num": 633135,
+      "word": "18岁抗癌博主晟宝去世",
+      "onboard_time": 1739857777,
+      "rank": 6,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 631324,
       "num": 631324,
       "word": "雪碧 柳智敏",
@@ -1257,14 +1273,6 @@
       "onboard_time": 1739756178,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 619259,
-      "num": 619259,
-      "word": "18岁抗癌博主晟宝去世",
-      "onboard_time": 1739857777,
-      "rank": 6,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 608663,
@@ -1955,14 +1963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 420601,
-      "num": 420601,
-      "word": "iPhone17Pro模具曝光",
-      "onboard_time": 1739859515,
-      "rank": 7,
-      "category": "数码"
-    },
-    {
       "raw_hot": 420482,
       "num": 420482,
       "word": "徐明浩的A来了",
@@ -2299,6 +2299,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 359338,
+      "num": 359338,
+      "word": "偷偷藏不住",
+      "onboard_time": 1739860350,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 358978,
       "num": 218159,
       "word": "希林娜依高失声后思考换一种生活方式",
@@ -2449,6 +2457,14 @@
       "onboard_time": 1739689820,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 336786,
+      "num": 336786,
+      "word": "陈妍希方声明",
+      "onboard_time": 1739860770,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 336686,
@@ -2627,6 +2643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 305654,
+      "num": 305654,
+      "word": "哪吒2突破122亿",
+      "onboard_time": 1739860291,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 305001,
       "num": 305001,
       "word": "Deepseek被问最多的问题",
@@ -2713,6 +2737,14 @@
       "onboard_time": 1739710465,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 292790,
+      "num": 361777,
+      "word": "爱豆黄明昊在22岁最后一天回归",
+      "onboard_time": 1739859695,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 292354,
@@ -2859,6 +2891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 275005,
+      "num": 275005,
+      "word": "网曝河北邢台一局长酒后砸店伤人",
+      "onboard_time": 1739859695,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 272814,
       "num": 272814,
       "word": "卢昱晓王星越认证董思成全组最i",
@@ -2945,14 +2985,6 @@
       "onboard_time": 1739672299,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 262789,
-      "num": 355858,
-      "word": "爱豆黄明昊在22岁最后一天回归",
-      "onboard_time": 1739859695,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 262758,
@@ -3283,6 +3315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237744,
+      "num": 237744,
+      "word": "顾盼生辉",
+      "onboard_time": 1739860770,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 237690,
       "num": 237690,
       "word": "刘诗诗演出了内外都是伤的疼",
@@ -3587,6 +3627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 215672,
+      "num": 391716,
+      "word": "网友问DeepSeek最多的问题",
+      "onboard_time": 1739859155,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215517,
       "num": 194903,
       "word": "第一次用歹毒形容一个综艺",
@@ -3616,6 +3664,14 @@
       "word": "女子多次楼道烧香倒灰撒冥纸邻居崩溃",
       "onboard_time": 1739763561,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214123,
+      "num": 370025,
+      "word": "试管夫妻丈夫中途去世医院拒移植",
+      "onboard_time": 1739860231,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -4227,14 +4283,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 187557,
-      "num": 391716,
-      "word": "网友问DeepSeek最多的问题",
-      "onboard_time": 1739859155,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 187499,
       "num": 187499,
       "word": "相柳蛇年上新剧了",
@@ -4465,14 +4513,6 @@
       "onboard_time": 1739796860,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 177706,
-      "num": 177706,
-      "word": "网曝河北邢台一局长酒后砸店伤人",
-      "onboard_time": 1739859695,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 177589,
@@ -5361,6 +5401,14 @@
       "onboard_time": 1739690058,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141373,
+      "num": 386862,
+      "word": "AI面试外挂8小时收费188.8元",
+      "onboard_time": 1739859755,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141163,
@@ -6699,14 +6747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 80571,
-      "num": 315987,
-      "word": "试管夫妻丈夫中途去世医院拒移植",
-      "onboard_time": 1739860231,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80386,
       "num": 351182,
       "word": "美航司客机事故逃生画面曝光",
@@ -6793,6 +6833,14 @@
       "onboard_time": 1739640435,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 72585,
+      "num": 370769,
+      "word": "当地纪委介入调查局长酒后砸店伤人",
+      "onboard_time": 1739860410,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71954,
@@ -7035,6 +7083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59751,
+      "num": 284072,
+      "word": "章若楠演技",
+      "onboard_time": 1739861009,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 59636,
       "num": 59636,
       "word": "谁在操弄短视频平台封号权",
@@ -7129,6 +7185,22 @@
       "onboard_time": 1739783900,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 55391,
+      "num": 373305,
+      "word": "加拿大机场回应客机事故",
+      "onboard_time": 1739860350,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 54284,
+      "num": 360686,
+      "word": "记者调查9.9元体验课陷阱",
+      "onboard_time": 1739860111,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52800,
@@ -7299,14 +7371,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 43928,
-      "num": 386862,
-      "word": "AI面试外挂8小时收费188.8元",
-      "onboard_time": 1739859755,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43544,
       "num": 43544,
       "word": "外媒评价哪吒2连龙套都很有质感",
@@ -7361,6 +7425,14 @@
       "onboard_time": 1739640616,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 38371,
+      "num": 257385,
+      "word": "王嘉尔到了再讲",
+      "onboard_time": 1739856818,
+      "rank": 45,
+      "category": "音乐,艺人"
     },
     {
       "raw_hot": 37717,
@@ -7427,6 +7499,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35397,
+      "num": 270692,
+      "word": "周柯宇翟潇闻勇闯非诚勿扰赛道",
+      "onboard_time": 1739858978,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 35370,
+      "num": 363465,
+      "word": "民国夏以昼",
+      "onboard_time": 1739860410,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 34503,
       "num": 287477,
       "word": "宋雨琦NBA全明星之旅圆梦了",
@@ -7476,7 +7564,7 @@
     },
     {
       "raw_hot": 31312,
-      "num": 1010484,
+      "num": 1324065,
       "word": "文化中国行看雨水节气",
       "onboard_time": 1739853084,
       "rank": 2,
@@ -7643,14 +7731,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 23213,
-      "num": 339454,
-      "word": "记者调查9.9元体验课陷阱",
-      "onboard_time": 1739860111,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23117,
       "num": 24949,
       "word": "泰国共享诈骗团伙IP地址",
@@ -7745,6 +7825,14 @@
       "onboard_time": 1739719941,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19624,
+      "num": 360146,
+      "word": "怪盗基德cos工藤新一",
+      "onboard_time": 1739860291,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 19394,

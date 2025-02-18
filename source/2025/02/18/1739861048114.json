@@ -1,0 +1,410 @@
+{
+  "runTime": 1739861048114,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 17206379,
+        "num": 17206379,
+        "word": "陈晓陈妍希离婚",
+        "onboard_time": 1739855131,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 4028682,
+        "num": 4028682,
+        "word": "曝王大陆涉嫌逃兵役被捕",
+        "onboard_time": 1739849540,
+        "rank": 1,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 26201,
+        "num": 1324065,
+        "word": "文化中国行看雨水节气",
+        "onboard_time": 1739853084,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 784076,
+        "num": 784076,
+        "word": "iPhone17Pro模具曝光",
+        "onboard_time": 1739859515,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 633135,
+        "num": 633135,
+        "word": "18岁抗癌博主晟宝去世",
+        "onboard_time": 1739857777,
+        "rank": 4,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 15071820,
+        "num": 15071820,
+        "word": "陈晓陈妍希 真难哄",
+        "onboard_time": 1739857118,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 631363,
+        "num": 631363,
+        "word": "韩国空姐打开应急舱门站机翼上自拍",
+        "onboard_time": 1739853025,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 577489,
+        "num": 577489,
+        "word": "石矶娘娘东山再起竟要等上亿年",
+        "onboard_time": 1739848879,
+        "rank": 7,
+        "category": "科学科普,电影"
+      },
+      {
+        "raw_hot": 373393,
+        "num": 373393,
+        "word": "专家称不必过于担忧AI抢人类铁饭碗",
+        "onboard_time": 1739842398,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55391,
+        "num": 373305,
+        "word": "加拿大机场回应客机事故",
+        "onboard_time": 1739860350,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 2710302,
+        "num": 372219,
+        "word": "截爆难哄",
+        "onboard_time": 1739857715,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1739149,
+        "num": 371892,
+        "word": "难看",
+        "onboard_time": 1739856215,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1491509,
+        "num": 371105,
+        "word": "杨丞琳李荣浩婚礼1周年",
+        "onboard_time": 1739854823,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72585,
+        "num": 370769,
+        "word": "当地纪委介入调查局长酒后砸店伤人",
+        "onboard_time": 1739860410,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214123,
+        "num": 370025,
+        "word": "试管夫妻丈夫中途去世医院拒移植",
+        "onboard_time": 1739860231,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2610913,
+        "num": 369363,
+        "word": "内娱离婚文案",
+        "onboard_time": 1739858195,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1400562,
+        "num": 368324,
+        "word": "品鉴难哄",
+        "onboard_time": 1739855067,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1301343,
+        "num": 368221,
+        "word": "王大陆被带上警车现场",
+        "onboard_time": 1739855674,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385850,
+        "num": 367225,
+        "word": "王楚钦给肖凯文加油",
+        "onboard_time": 1739858435,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141373,
+        "num": 366854,
+        "word": "AI面试外挂8小时收费188.8元",
+        "onboard_time": 1739859755,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1454255,
+        "num": 365931,
+        "word": "杨幂这句的含金量",
+        "onboard_time": 1739857777,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 742744,
+        "num": 365217,
+        "word": "难哄",
+        "onboard_time": 1739852005,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 671457,
+        "num": 365052,
+        "word": "浙江妈妈早产生下双胞胎哪吒",
+        "onboard_time": 1739845158,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 582581,
+        "num": 363922,
+        "word": "哪吒2预测票房下跌",
+        "onboard_time": 1739844377,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 35370,
+        "num": 363465,
+        "word": "民国夏以昼",
+        "onboard_time": 1739860410,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 582066,
+        "num": 362847,
+        "word": "头纱吻",
+        "onboard_time": 1739857180,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 537057,
+        "num": 362350,
+        "word": "鹿晗关注了sana的ins",
+        "onboard_time": 1739847319,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292790,
+        "num": 361777,
+        "word": "爱豆黄明昊在22岁最后一天回归",
+        "onboard_time": 1739859695,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54284,
+        "num": 360686,
+        "word": "记者调查9.9元体验课陷阱",
+        "onboard_time": 1739860111,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19624,
+        "num": 360146,
+        "word": "怪盗基德cos工藤新一",
+        "onboard_time": 1739860291,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 483002,
+        "num": 359916,
+        "word": "难哄把OST大户聚齐了",
+        "onboard_time": 1739850322,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 359338,
+        "num": 359338,
+        "word": "偷偷藏不住",
+        "onboard_time": 1739860350,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 336786,
+        "num": 336786,
+        "word": "陈妍希方声明",
+        "onboard_time": 1739860770,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332796,
+        "num": 332796,
+        "word": "眼科医生眼里最伤眼睛的行为",
+        "onboard_time": 1739847498,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 305654,
+        "num": 305654,
+        "word": "哪吒2突破122亿",
+        "onboard_time": 1739860291,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 300984,
+        "num": 300984,
+        "word": "Deepseek被问最多的问题",
+        "onboard_time": 1739859455,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 215672,
+        "num": 295880,
+        "word": "网友问DeepSeek最多的问题",
+        "onboard_time": 1739859155,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293908,
+        "num": 293908,
+        "word": "网传小学老师因末位淘汰轻生",
+        "onboard_time": 1739854283,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285369,
+        "num": 285369,
+        "word": "哪吒2冲击全球动画票房第1",
+        "onboard_time": 1739851403,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 59751,
+        "num": 284072,
+        "word": "章若楠演技",
+        "onboard_time": 1739861009,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283678,
+        "num": 283678,
+        "word": "半夜被DeepSeek气笑了",
+        "onboard_time": 1739853205,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 275005,
+        "num": 275005,
+        "word": "网曝河北邢台一局长酒后砸店伤人",
+        "onboard_time": 1739859695,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35397,
+        "num": 270692,
+        "word": "周柯宇翟潇闻勇闯非诚勿扰赛道",
+        "onboard_time": 1739858978,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269865,
+        "num": 269865,
+        "word": "大学生刷短视频一个月流量超8000元",
+        "onboard_time": 1739851403,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266352,
+        "num": 266352,
+        "word": "章若楠好漂亮",
+        "onboard_time": 1739855614,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38371,
+        "num": 257385,
+        "word": "王嘉尔到了再讲",
+        "onboard_time": 1739856818,
+        "rank": 45,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 250334,
+        "num": 250334,
+        "word": "何炅吴昕没来又好像来了",
+        "onboard_time": 1739859215,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237744,
+        "num": 237744,
+        "word": "顾盼生辉",
+        "onboard_time": 1739860770,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223597,
+        "num": 223597,
+        "word": "朴灿烈遛狗偶遇RM节目录制",
+        "onboard_time": 1739851585,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220271,
+        "num": 220271,
+        "word": "深圳福田AI员工上线",
+        "onboard_time": 1739847439,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#对民营企业的期待要求在这20字里#"
+    }
+  }
+}
