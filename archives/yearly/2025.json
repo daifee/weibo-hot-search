@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1739878579637,
+  "endTime": 1739882509941,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -337,6 +337,14 @@
       "onboard_time": 1737808998,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 9586040,
+      "num": 9586040,
+      "word": "哪吒2全球动画第1",
+      "onboard_time": 1739879063,
+      "rank": 0,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 9461281,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736822957,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2218677,
-      "num": 2218677,
-      "word": "麦琳回门宴瘦了好多",
-      "onboard_time": 1736472738,
-      "rank": 1,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

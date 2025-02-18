@@ -1,0 +1,410 @@
+{
+  "runTime": 1739882509941,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9586040,
+        "num": 9586040,
+        "word": "哪吒2全球动画第1",
+        "onboard_time": 1739879063,
+        "rank": 0,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 1252857,
+        "num": 1252857,
+        "word": "郭艾伦 以后可能打不了篮球了",
+        "onboard_time": 1739872403,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8187,
+        "num": 792453,
+        "word": "中国式现代化的万千气象海南行",
+        "onboard_time": 1739782103,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1330599,
+        "num": 767544,
+        "word": "哪吒2成为全球影史第8",
+        "onboard_time": 1739879963,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 610835,
+        "num": 610835,
+        "word": "郭艾伦眼睛流血",
+        "onboard_time": 1739872284,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 454985,
+        "num": 454985,
+        "word": "DeepSeek回答学什么不会被淘汰",
+        "onboard_time": 1739872284,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1184478,
+        "num": 453398,
+        "word": "王嘉尔不再用经纪人的原因",
+        "onboard_time": 1739877924,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351316,
+        "num": 351316,
+        "word": "郭艾伦眼睛缝了四十多针",
+        "onboard_time": 1739874264,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289467,
+        "num": 289467,
+        "word": "郭艾伦受伤过程",
+        "onboard_time": 1739874921,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100923,
+        "num": 289152,
+        "word": "吒儿你还有多少惊喜",
+        "onboard_time": 1739881882,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1230498,
+        "num": 287953,
+        "word": "杨丞琳发声力挺陈妍希",
+        "onboard_time": 1739877083,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 953850,
+        "num": 286160,
+        "word": "王大陆或被判5年以下有期徒刑",
+        "onboard_time": 1739872704,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 800177,
+        "num": 285480,
+        "word": "白敬亭 双开门",
+        "onboard_time": 1739879183,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 725530,
+        "num": 284349,
+        "word": "陈晓赵丽颖 接二搭",
+        "onboard_time": 1739866042,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27054,
+        "num": 282794,
+        "word": "男子为争夺抚养权藏匿儿子长达10年",
+        "onboard_time": 1739881824,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 558236,
+        "num": 282380,
+        "word": "护士因拔针出血跪求患者原谅",
+        "onboard_time": 1739866042,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 534838,
+        "num": 281160,
+        "word": "国产剧终于有真正的出租屋了",
+        "onboard_time": 1739867903,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 527698,
+        "num": 279955,
+        "word": "王大陆已被保释",
+        "onboard_time": 1739877263,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447034,
+        "num": 279097,
+        "word": "胡歌看着女儿感觉时间不够用",
+        "onboard_time": 1739876364,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206060,
+        "num": 276993,
+        "word": "医生谈郭艾伦结膜受伤",
+        "onboard_time": 1739881944,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 775755,
+        "num": 276524,
+        "word": "陈妍希只有生日才敢叫陈晓出去吃饭",
+        "onboard_time": 1739873723,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427098,
+        "num": 275713,
+        "word": "嘉许哥想你了",
+        "onboard_time": 1739877684,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 407747,
+        "num": 273631,
+        "word": "俱乐部回应郭艾伦受伤",
+        "onboard_time": 1739881462,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355888,
+        "num": 272494,
+        "word": "哪吒2票房123亿了",
+        "onboard_time": 1739878164,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38601,
+        "num": 272292,
+        "word": "中国国乒2月19日亚洲杯赛程",
+        "onboard_time": 1739873964,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 351450,
+        "num": 270096,
+        "word": "品鉴难哄",
+        "onboard_time": 1739855067,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290550,
+        "num": 269006,
+        "word": "龙狮回应郭艾伦伤情",
+        "onboard_time": 1739880563,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 322193,
+        "num": 268889,
+        "word": "难哄",
+        "onboard_time": 1739852005,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267809,
+        "num": 267809,
+        "word": "封神2延长上映",
+        "onboard_time": 1739879723,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 56707,
+        "num": 259554,
+        "word": "眼结膜破裂会失明吗",
+        "onboard_time": 1739881882,
+        "rank": 29,
+        "category": "体育,健康医疗"
+      },
+      {
+        "raw_hot": 306669,
+        "num": 259135,
+        "word": "截爆难哄",
+        "onboard_time": 1739857715,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258414,
+        "num": 258414,
+        "word": "赵樱子回应曾对成毅因戏生情",
+        "onboard_time": 1739870602,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268366,
+        "num": 256957,
+        "word": "难看",
+        "onboard_time": 1739856215,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244488,
+        "num": 244488,
+        "word": "大学生流量用超34G欠下万元话费",
+        "onboard_time": 1739877083,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242402,
+        "num": 242402,
+        "word": "医生接产带壳宝宝难掩惊喜",
+        "onboard_time": 1739881163,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228423,
+        "num": 228423,
+        "word": "气血不足的人容易把自己封闭起来",
+        "onboard_time": 1739880442,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 213240,
+        "num": 213240,
+        "word": "女子10万买金饰却收到金包银",
+        "onboard_time": 1739880084,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203064,
+        "num": 203064,
+        "word": "导演晒杨洋雨霖铃杀青照",
+        "onboard_time": 1739881704,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197981,
+        "num": 197981,
+        "word": "国足",
+        "onboard_time": 1739881583,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183434,
+        "num": 183434,
+        "word": "U20",
+        "onboard_time": 1739875642,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180760,
+        "num": 180760,
+        "word": "女生预感领导不轨提前求助闺蜜获救",
+        "onboard_time": 1739875223,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178913,
+        "num": 178913,
+        "word": "央视采访90后CEO王兴兴",
+        "onboard_time": 1739878583,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174711,
+        "num": 174711,
+        "word": "余烬之上",
+        "onboard_time": 1739882303,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173448,
+        "num": 173448,
+        "word": "黄杨钿甜说张康乐一夜之间火了",
+        "onboard_time": 1739877803,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169520,
+        "num": 169520,
+        "word": "我吃瓜就谢娜这样",
+        "onboard_time": 1739877322,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167225,
+        "num": 167225,
+        "word": "陈都灵罗意威活动",
+        "onboard_time": 1739882424,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 164531,
+        "num": 164531,
+        "word": "丈夫灌面汤呛死妻子案家属望重判",
+        "onboard_time": 1739882182,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164283,
+        "num": 164283,
+        "word": "郭艾伦或缺席CBA全明星赛",
+        "onboard_time": 1739880983,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162982,
+        "num": 162982,
+        "word": "于正的发文",
+        "onboard_time": 1739863046,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159005,
+        "num": 159005,
+        "word": "当农学生种出银环蛇甘蔗",
+        "onboard_time": 1739877383,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记一直心系民营企业#"
+    }
+  }
+}

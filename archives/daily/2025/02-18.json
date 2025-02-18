@@ -1,6 +1,6 @@
 {
   "startTime": 1739809696665,
-  "endTime": 1739878579637,
+  "endTime": 1739882509941,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -25,6 +25,14 @@
       "onboard_time": 1739849540,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 9586040,
+      "num": 9586040,
+      "word": "哪吒2全球动画第1",
+      "onboard_time": 1739879063,
+      "rank": 0,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 4677462,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 1818444,
-      "num": 282116,
+      "num": 284349,
       "word": "陈晓赵丽颖 接二搭",
       "onboard_time": 1739866042,
       "rank": 16,
@@ -235,12 +243,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1330599,
+      "num": 767544,
+      "word": "哪吒2成为全球影史第8",
+      "onboard_time": 1739879963,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1189476,
       "num": 271163,
       "word": "网红顾茜茜自曝日收入超30万",
       "onboard_time": 1739801602,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1184478,
+      "num": 453398,
+      "word": "王嘉尔不再用经纪人的原因",
+      "onboard_time": 1739877924,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 1146866,
@@ -361,6 +385,14 @@
       "onboard_time": 1739810358,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 800177,
+      "num": 285480,
+      "word": "白敬亭 双开门",
+      "onboard_time": 1739879183,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 780560,
@@ -651,6 +683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 427098,
+      "num": 275713,
+      "word": "嘉许哥想你了",
+      "onboard_time": 1739877684,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 426545,
       "num": 426545,
       "word": "春季第二个节气到了",
@@ -683,12 +723,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 402386,
-      "num": 281631,
-      "word": "王嘉尔不再用经纪人的原因",
-      "onboard_time": 1739877924,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 407747,
+      "num": 273631,
+      "word": "俱乐部回应郭艾伦受伤",
+      "onboard_time": 1739881462,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 398294,
@@ -753,6 +793,14 @@
       "onboard_time": 1739854283,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 355888,
+      "num": 272494,
+      "word": "哪吒2票房123亿了",
+      "onboard_time": 1739878164,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 355748,
@@ -1027,6 +1075,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 290550,
+      "num": 269006,
+      "word": "龙狮回应郭艾伦伤情",
+      "onboard_time": 1739880563,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 290023,
       "num": 516051,
       "word": "铁打的女主打铁的男主",
@@ -1083,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 267809,
+      "num": 267809,
+      "word": "封神2延长上映",
+      "onboard_time": 1739879723,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 267641,
       "num": 267641,
       "word": "商家用女童跪撩上衣姿势展示童装",
@@ -1131,14 +1195,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 250047,
-      "num": 250047,
-      "word": "哪吒2票房123亿了",
-      "onboard_time": 1739878164,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
       "raw_hot": 248770,
       "num": 329829,
       "word": "一诺脖子扭了",
@@ -1171,6 +1227,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244488,
+      "num": 244488,
+      "word": "大学生流量用超34G欠下万元话费",
+      "onboard_time": 1739877083,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 242402,
+      "num": 242402,
+      "word": "医生接产带壳宝宝难掩惊喜",
+      "onboard_time": 1739881163,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 242316,
       "num": 242316,
       "word": "乌方不承认美俄谈判达成协议",
@@ -1185,14 +1257,6 @@
       "onboard_time": 1739840479,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 241002,
-      "num": 241002,
-      "word": "大学生流量用超34G欠下万元话费",
-      "onboard_time": 1739877083,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 240418,
@@ -1227,14 +1291,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 232923,
-      "num": 232923,
-      "word": "嘉许哥想你了",
-      "onboard_time": 1739877684,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 232800,
       "num": 232800,
       "word": "邮轮上偶遇尤长靖",
@@ -1249,6 +1305,14 @@
       "onboard_time": 1739865443,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 228423,
+      "num": 228423,
+      "word": "气血不足的人容易把自己封闭起来",
+      "onboard_time": 1739880442,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 224833,
@@ -1411,6 +1475,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 213240,
+      "num": 213240,
+      "word": "女子10万买金饰却收到金包银",
+      "onboard_time": 1739880084,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212502,
       "num": 218922,
       "word": "王鹤棣显摆To签球衣",
@@ -1433,6 +1505,14 @@
       "onboard_time": 1739846838,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 206060,
+      "num": 276993,
+      "word": "医生谈郭艾伦结膜受伤",
+      "onboard_time": 1739881944,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 205056,
@@ -1473,6 +1553,14 @@
       "onboard_time": 1739876482,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 203064,
+      "num": 203064,
+      "word": "导演晒杨洋雨霖铃杀青照",
+      "onboard_time": 1739881704,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 202288,
@@ -1531,6 +1619,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 197981,
+      "num": 197981,
+      "word": "国足",
+      "onboard_time": 1739881583,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193226,
       "num": 351245,
       "word": "卢昱晓感谢这场盛大的相逢",
@@ -1587,6 +1683,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 183434,
+      "num": 183434,
+      "word": "U20",
+      "onboard_time": 1739875642,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182932,
       "num": 185964,
       "word": "国足怎么突然变强了",
@@ -1627,12 +1731,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 178913,
+      "num": 178913,
+      "word": "央视采访90后CEO王兴兴",
+      "onboard_time": 1739878583,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177841,
       "num": 177841,
       "word": "女生被催婚催烦一口气把长发剪了",
       "onboard_time": 1739803582,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 174711,
+      "num": 174711,
+      "word": "余烬之上",
+      "onboard_time": 1739882303,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 172020,
@@ -1652,7 +1772,7 @@
     },
     {
       "raw_hot": 169894,
-      "num": 169894,
+      "num": 272292,
       "word": "中国国乒2月19日亚洲杯赛程",
       "onboard_time": 1739873964,
       "rank": 37,
@@ -1681,6 +1801,14 @@
       "onboard_time": 1739858136,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167225,
+      "num": 167225,
+      "word": "陈都灵罗意威活动",
+      "onboard_time": 1739882424,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 167203,
@@ -1713,6 +1841,22 @@
       "onboard_time": 1739840419,
       "rank": 38,
       "category": "民生新闻,国内时政"
+    },
+    {
+      "raw_hot": 164531,
+      "num": 164531,
+      "word": "丈夫灌面汤呛死妻子案家属望重判",
+      "onboard_time": 1739882182,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164283,
+      "num": 164283,
+      "word": "郭艾伦或缺席CBA全明星赛",
+      "onboard_time": 1739880983,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 163091,
@@ -2195,6 +2339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100923,
+      "num": 289152,
+      "word": "吒儿你还有多少惊喜",
+      "onboard_time": 1739881882,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 100001,
       "num": 156974,
       "word": "敖丙爹地啊他人很好的",
@@ -2603,6 +2755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 56707,
+      "num": 259554,
+      "word": "眼结膜破裂会失明吗",
+      "onboard_time": 1739881882,
+      "rank": 29,
+      "category": "体育,健康医疗"
+    },
+    {
       "raw_hot": 55391,
       "num": 373305,
       "word": "加拿大机场回应客机事故",
@@ -2809,6 +2969,14 @@
       "onboard_time": 1739863286,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 27054,
+      "num": 282794,
+      "word": "男子为争夺抚养权藏匿儿子长达10年",
+      "onboard_time": 1739881824,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26844,
