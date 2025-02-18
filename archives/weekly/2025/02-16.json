@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739847612324,
+  "endTime": 1739849162731,
   "band_list": [
     {
       "raw_hot": 17381826,
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1533122,
+      "num": 1533122,
+      "word": "马斯克查美社保称发现360岁老人",
+      "onboard_time": 1739846478,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1510384,
       "num": 1510384,
       "word": "61岁母亲飞机上猝死女儿发声",
@@ -321,6 +329,14 @@
       "onboard_time": 1739707401,
       "rank": 3,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1293184,
+      "num": 1293184,
+      "word": "鹿晗关注了sana的ins",
+      "onboard_time": 1739847319,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 1291681,
@@ -739,12 +755,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 812333,
-      "num": 299037,
-      "word": "马斯克查美社保称发现360岁老人",
-      "onboard_time": 1739846478,
-      "rank": 13,
-      "category": "海外新闻"
+      "raw_hot": 806744,
+      "num": 477776,
+      "word": "网红顾茜茜说日收入30万都是辛苦钱",
+      "onboard_time": 1739846538,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 791095,
@@ -1235,6 +1251,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 555672,
+      "num": 242546,
+      "word": "向太公开最年轻照片神似郭碧婷",
+      "onboard_time": 1739846899,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 554658,
       "num": 235652,
       "word": "金赛纶想要的只是第二次机会",
@@ -1435,6 +1459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 484328,
+      "num": 484328,
+      "word": "深圳福田AI员工上线",
+      "onboard_time": 1739847439,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 482128,
       "num": 482128,
       "word": "常州市委书记陈金虎任上被查",
@@ -1523,6 +1555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 460937,
+      "num": 460937,
+      "word": "DeepSeek手机版安全使用教程",
+      "onboard_time": 1739842818,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 456736,
       "num": 456736,
       "word": "毛不易演唱会死嘴快亲啊",
@@ -1553,14 +1593,6 @@
       "onboard_time": 1739708846,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 449813,
-      "num": 391776,
-      "word": "鹿晗关注了sana的ins",
-      "onboard_time": 1739847319,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 449214,
@@ -1633,14 +1665,6 @@
       "onboard_time": 1739716886,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 432962,
-      "num": 432962,
-      "word": "DeepSeek手机版安全使用教程",
-      "onboard_time": 1739842818,
-      "rank": 34,
-      "category": "互联网"
     },
     {
       "raw_hot": 431967,
@@ -1732,7 +1756,7 @@
     },
     {
       "raw_hot": 411833,
-      "num": 196363,
+      "num": 228835,
       "word": "眼科医生眼里最伤眼睛的行为",
       "onboard_time": 1739847498,
       "rank": 30,
@@ -2155,14 +2179,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 332236,
-      "num": 242546,
-      "word": "向太公开最年轻照片神似郭碧婷",
-      "onboard_time": 1739846899,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 332114,
       "num": 260063,
       "word": "未成年人拍举牌视频属于性剥削",
@@ -2184,6 +2200,14 @@
       "word": "勇救祖孙3人的菜刀哥病危妻子发声",
       "onboard_time": 1739693117,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 327960,
+      "num": 327960,
+      "word": "橘子冒烟小心肺部真菌感染",
+      "onboard_time": 1739846478,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -2233,6 +2257,14 @@
       "onboard_time": 1739697679,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 316852,
+      "num": 316852,
+      "word": "申小豹仿妆",
+      "onboard_time": 1739845576,
+      "rank": 18,
+      "category": "电影,美妆"
     },
     {
       "raw_hot": 316248,
@@ -2353,14 +2385,6 @@
       "onboard_time": 1739715502,
       "rank": 49,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 290009,
-      "num": 290009,
-      "word": "网红顾茜茜说日收入30万都是辛苦钱",
-      "onboard_time": 1739846538,
-      "rank": 30,
-      "category": "网红"
     },
     {
       "raw_hot": 289930,
@@ -2763,14 +2787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 245903,
-      "num": 245903,
-      "word": "申小豹仿妆",
-      "onboard_time": 1739845576,
-      "rank": 18,
-      "category": "电影,美妆"
-    },
-    {
       "raw_hot": 245235,
       "num": 273701,
       "word": "在河北博物院找到了七色宝莲",
@@ -2849,14 +2865,6 @@
       "onboard_time": 1739766381,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 239272,
-      "num": 239272,
-      "word": "橘子冒烟小心肺部真菌感染",
-      "onboard_time": 1739846478,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 238217,
@@ -3323,6 +3331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204382,
+      "num": 204382,
+      "word": "刘浩存文淇柏林电影节第二套look",
+      "onboard_time": 1739842998,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 204103,
       "num": 204103,
       "word": "fayeyoko",
@@ -3361,6 +3377,14 @@
       "onboard_time": 1739685678,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200273,
+      "num": 200273,
+      "word": "三线谜回杀青",
+      "onboard_time": 1739848038,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 200215,
@@ -3523,12 +3547,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196427,
+      "num": 196427,
+      "word": "哇唧唧哇为了难哄拼了",
+      "onboard_time": 1739848820,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196137,
       "num": 196137,
       "word": "谁家母女第1集分1个离1个",
       "onboard_time": 1739798542,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196037,
+      "num": 229578,
+      "word": "章昊模仿徐冬冬姿势",
+      "onboard_time": 1739848758,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 195570,
@@ -3627,6 +3667,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 192190,
+      "num": 192190,
+      "word": "女二男二都想加入这个家",
+      "onboard_time": 1739848460,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192171,
       "num": 192171,
       "word": "吴镇宇 钱难挣",
@@ -3649,6 +3697,14 @@
       "onboard_time": 1739754440,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 190860,
+      "num": 190860,
+      "word": "小米再创新高",
+      "onboard_time": 1739847799,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 190688,
@@ -3843,12 +3899,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 181907,
-      "num": 181907,
-      "word": "刘浩存文淇柏林电影节第二套look",
-      "onboard_time": 1739842998,
-      "rank": 30,
-      "category": "电影"
+      "raw_hot": 182295,
+      "num": 182295,
+      "word": "酒店擅自分装洗发水沐浴露涉嫌违法",
+      "onboard_time": 1739848638,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 181872,
@@ -3969,6 +4025,14 @@
       "onboard_time": 1739700258,
       "rank": 36,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 175983,
+      "num": 175983,
+      "word": "俄乌战争谈判乌克兰和欧洲未被邀请",
+      "onboard_time": 1739846779,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 175216,
@@ -4227,6 +4291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163999,
+      "num": 163999,
+      "word": "联通回应流量超34G欠费8700元",
+      "onboard_time": 1739848758,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163761,
       "num": 163761,
       "word": "六姊妹老五老六卧龙凤雏",
@@ -4273,6 +4345,14 @@
       "onboard_time": 1739765242,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162403,
+      "num": 162403,
+      "word": "粉蓝色的玉龙雪山太美了吧",
+      "onboard_time": 1739847739,
+      "rank": 40,
+      "category": "旅游"
     },
     {
       "raw_hot": 162331,
@@ -4851,6 +4931,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 138106,
+      "num": 175294,
+      "word": "金赛纶在话剧排练时脸色变得煞白",
+      "onboard_time": 1739846961,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137905,
       "num": 137905,
       "word": "吒儿丙丙120亿reaction",
@@ -4937,14 +5025,6 @@
       "onboard_time": 1739690717,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134480,
-      "num": 134480,
-      "word": "俄乌战争谈判乌克兰和欧洲未被邀请",
-      "onboard_time": 1739846779,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 133888,
@@ -5177,6 +5257,14 @@
       "onboard_time": 1739704219,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126109,
+      "num": 126109,
+      "word": "郑钦文晚宴造型好飒",
+      "onboard_time": 1739849060,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 125886,
@@ -5443,14 +5531,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 116535,
-      "num": 200353,
-      "word": "深圳福田AI员工上线",
-      "onboard_time": 1739847439,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 116343,
       "num": 177830,
       "word": "秦彻明天见",
@@ -5545,14 +5625,6 @@
       "onboard_time": 1739672000,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 111733,
-      "num": 175294,
-      "word": "金赛纶在话剧排练时脸色变得煞白",
-      "onboard_time": 1739846961,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 111678,
@@ -6011,6 +6083,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 87327,
+      "num": 290616,
+      "word": "美国20天6起飞机事故",
+      "onboard_time": 1739848038,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 87000,
       "num": 260422,
       "word": "丁禹兮全棉好物分享",
@@ -6225,6 +6305,14 @@
       "onboard_time": 1739722819,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 65058,
+      "num": 193671,
+      "word": "石矶娘娘东山再起竟要等上亿年",
+      "onboard_time": 1739848879,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 62469,
@@ -6628,7 +6716,7 @@
     },
     {
       "raw_hot": 37354,
-      "num": 1325747,
+      "num": 1394139,
       "word": "中国式现代化的万千气象海南行",
       "onboard_time": 1739782103,
       "rank": 2,
@@ -6801,6 +6889,14 @@
       "onboard_time": 1739698040,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25954,
+      "num": 228549,
+      "word": "孙颖莎给家乡人说心里话",
+      "onboard_time": 1739848638,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 25297,
@@ -7059,6 +7155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 13148,
+      "num": 210820,
+      "word": "葬送的芙莉莲辛芙白头偕老",
+      "onboard_time": 1739848338,
+      "rank": 28,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 12903,
       "num": 212876,
       "word": "魔动闪霸这回真的newrap了",
@@ -7097,6 +7201,14 @@
       "onboard_time": 1739814793,
       "rank": 32,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 11864,
+      "num": 204547,
+      "word": "大热IP动漫宣布新动画后",
+      "onboard_time": 1739848338,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 10698,

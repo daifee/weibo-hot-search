@@ -1,0 +1,410 @@
+{
+  "runTime": 1739849162731,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2658477,
+        "num": 2658477,
+        "word": "哪吒2预测票房下跌",
+        "onboard_time": 1739844377,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1533122,
+        "num": 1533122,
+        "word": "马斯克查美社保称发现360岁老人",
+        "onboard_time": 1739846478,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 6819,
+        "num": 1394139,
+        "word": "中国式现代化的万千气象海南行",
+        "onboard_time": 1739782103,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1293184,
+        "num": 1293184,
+        "word": "鹿晗关注了sana的ins",
+        "onboard_time": 1739847319,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 484328,
+        "num": 484328,
+        "word": "深圳福田AI员工上线",
+        "onboard_time": 1739847439,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 620886,
+        "num": 478689,
+        "word": "AI公务员上岗",
+        "onboard_time": 1739835977,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 806744,
+        "num": 477776,
+        "word": "网红顾茜茜说日收入30万都是辛苦钱",
+        "onboard_time": 1739846538,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 735525,
+        "num": 477169,
+        "word": "难哄开播",
+        "onboard_time": 1739842759,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 460937,
+        "num": 460937,
+        "word": "DeepSeek手机版安全使用教程",
+        "onboard_time": 1739842818,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 428754,
+        "num": 428754,
+        "word": "专家称不必过于担忧AI抢人类铁饭碗",
+        "onboard_time": 1739842398,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 468716,
+        "num": 418841,
+        "word": "沈梦辰杜海涛经历9年爱情长跑",
+        "onboard_time": 1739825951,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394484,
+        "num": 394484,
+        "word": "相柳这次终于是桐华的男主了",
+        "onboard_time": 1739838620,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327960,
+        "num": 327960,
+        "word": "橘子冒烟小心肺部真菌感染",
+        "onboard_time": 1739846478,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316852,
+        "num": 316852,
+        "word": "申小豹仿妆",
+        "onboard_time": 1739845576,
+        "rank": 13,
+        "category": "电影,美妆"
+      },
+      {
+        "raw_hot": 87327,
+        "num": 290616,
+        "word": "美国20天6起飞机事故",
+        "onboard_time": 1739848038,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 287875,
+        "num": 287875,
+        "word": "汪峰携女友森林北看演唱会",
+        "onboard_time": 1739833935,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 266982,
+        "num": 266982,
+        "word": "女子多次试管怀孕乘网约车车祸流产",
+        "onboard_time": 1739801541,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252750,
+        "num": 252750,
+        "word": "春季第二个节气到了",
+        "onboard_time": 1739833394,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229703,
+        "num": 229703,
+        "word": "仿冒DeepSeek手机病毒出现",
+        "onboard_time": 1739845519,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 196037,
+        "num": 229578,
+        "word": "章昊模仿徐冬冬姿势",
+        "onboard_time": 1739848758,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1179053,
+        "num": 229332,
+        "word": "浙江妈妈早产生下双胞胎哪吒",
+        "onboard_time": 1739845158,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 555672,
+        "num": 229195,
+        "word": "向太公开最年轻照片神似郭碧婷",
+        "onboard_time": 1739846899,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409003,
+        "num": 228835,
+        "word": "眼科医生眼里最伤眼睛的行为",
+        "onboard_time": 1739847498,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 397146,
+        "num": 228764,
+        "word": "美国男子蜜月期殴打华裔妻子致死",
+        "onboard_time": 1739845038,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25954,
+        "num": 228549,
+        "word": "孙颖莎给家乡人说心里话",
+        "onboard_time": 1739848638,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228383,
+        "num": 228383,
+        "word": "6万买饺子导演高仿号当事人发声",
+        "onboard_time": 1739810358,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300800,
+        "num": 228169,
+        "word": "全国仅4台的限量款耳机是啥样的",
+        "onboard_time": 1739845458,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223505,
+        "num": 223505,
+        "word": "女子晒双胞胎儿子cos哪吒敖丙",
+        "onboard_time": 1739844377,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13148,
+        "num": 210820,
+        "word": "葬送的芙莉莲辛芙白头偕老",
+        "onboard_time": 1739848338,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 11864,
+        "num": 204547,
+        "word": "大热IP动漫宣布新动画后",
+        "onboard_time": 1739848338,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 204382,
+        "num": 204382,
+        "word": "刘浩存文淇柏林电影节第二套look",
+        "onboard_time": 1739842998,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200273,
+        "num": 200273,
+        "word": "三线谜回杀青",
+        "onboard_time": 1739848038,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196427,
+        "num": 196427,
+        "word": "哇唧唧哇为了难哄拼了",
+        "onboard_time": 1739848820,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65058,
+        "num": 193671,
+        "word": "石矶娘娘东山再起竟要等上亿年",
+        "onboard_time": 1739848879,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192190,
+        "num": 192190,
+        "word": "女二男二都想加入这个家",
+        "onboard_time": 1739848460,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190860,
+        "num": 190860,
+        "word": "小米再创新高",
+        "onboard_time": 1739847799,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 182295,
+        "num": 182295,
+        "word": "酒店擅自分装洗发水沐浴露涉嫌违法",
+        "onboard_time": 1739848638,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175983,
+        "num": 175983,
+        "word": "俄乌战争谈判乌克兰和欧洲未被邀请",
+        "onboard_time": 1739846779,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 171693,
+        "num": 171693,
+        "word": "迪丽热巴风衣阔腿裤造型",
+        "onboard_time": 1739835917,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163999,
+        "num": 163999,
+        "word": "联通回应流量超34G欠费8700元",
+        "onboard_time": 1739848758,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162403,
+        "num": 162403,
+        "word": "粉蓝色的玉龙雪山太美了吧",
+        "onboard_time": 1739847739,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 158013,
+        "num": 158013,
+        "word": "红房子",
+        "onboard_time": 1739802081,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149287,
+        "num": 149287,
+        "word": "为防AI作业老师说不用补寒假作业",
+        "onboard_time": 1739846538,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143339,
+        "num": 143339,
+        "word": "花八万给妈妈补上十几年的社保",
+        "onboard_time": 1739835197,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142597,
+        "num": 142597,
+        "word": "深圳70名AI数智员工上岗",
+        "onboard_time": 1739812394,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138811,
+        "num": 138811,
+        "word": "美航司客机翻转落地内部一片狼藉",
+        "onboard_time": 1739843297,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 138106,
+        "num": 138106,
+        "word": "金赛纶在话剧排练时脸色变得煞白",
+        "onboard_time": 1739846961,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135233,
+        "num": 135233,
+        "word": "石国瑞逝世",
+        "onboard_time": 1739837900,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127413,
+        "num": 127413,
+        "word": "AI才女罗福莉已到新岗位上班",
+        "onboard_time": 1739836278,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126109,
+        "num": 126109,
+        "word": "郑钦文晚宴造型好飒",
+        "onboard_time": 1739849060,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#视频看民营企业座谈会现场#"
+    }
+  }
+}
