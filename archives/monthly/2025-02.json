@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739906341594,
+  "endTime": 1739907364229,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -55643,6 +55643,14 @@
       "category": "电影,旅游"
     },
     {
+      "raw_hot": 16478,
+      "num": 22443,
+      "word": "王大陆将会被移送新北地检署",
+      "onboard_time": 1739907311,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 16362,
       "num": 54798,
       "word": "这真是灯火里的中国",
@@ -56713,6 +56721,14 @@
       "onboard_time": 1738474338,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 10455,
+      "num": 45662,
+      "word": "AI主播也接入DeepSeek了",
+      "onboard_time": 1739906532,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 10354,

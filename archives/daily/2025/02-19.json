@@ -1,6 +1,6 @@
 {
   "startTime": 1739896170867,
-  "endTime": 1739906341594,
+  "endTime": 1739907364229,
   "band_list": [
     {
       "raw_hot": 1448214,
@@ -555,12 +555,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 17965,
+      "num": 22449,
+      "word": "俄说加入欧盟是乌克兰主权权利",
+      "onboard_time": 1739887403,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 16478,
+      "num": 22443,
+      "word": "王大陆将会被移送新北地检署",
+      "onboard_time": 1739907311,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 11507,
       "num": 48300,
       "word": "对话谈判是解决危机的唯一可行出路",
       "onboard_time": 1739905332,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10455,
+      "num": 45662,
+      "word": "AI主播也接入DeepSeek了",
+      "onboard_time": 1739906532,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 9504,
