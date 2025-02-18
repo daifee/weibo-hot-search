@@ -1,6 +1,6 @@
 {
   "startTime": 1739896170867,
-  "endTime": 1739914566295,
+  "endTime": 1739917286085,
   "band_list": [
     {
       "raw_hot": 1448214,
@@ -235,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157680,
+      "num": 365506,
+      "word": "俄美决定未来将在多领域合作",
+      "onboard_time": 1739913611,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 157403,
       "num": 157403,
       "word": "难哄",
@@ -307,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115484,
+      "num": 59235,
+      "word": "陈晓陈妍希 1370天",
+      "onboard_time": 1739910311,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114298,
       "num": 114298,
       "word": "祝贺哪吒又拿第1再创历史",
@@ -355,14 +371,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 84996,
-      "num": 42846,
-      "word": "陈晓陈妍希 1370天",
-      "onboard_time": 1739910311,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 80898,
       "num": 100000,
       "word": "嘉许哥想你了",
@@ -408,6 +416,14 @@
       "word": "13岁女孩险被骗59万被支付宝拦截",
       "onboard_time": 1739896816,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65266,
+      "num": 65266,
+      "word": "19岁小伙644元1克卖金饰骗近20万",
+      "onboard_time": 1739913672,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -499,6 +515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 28921,
+      "num": 28921,
+      "word": "医院回应护士向患者下跪道歉",
+      "onboard_time": 1739908512,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28154,
       "num": 28154,
       "word": "桑头牌",
@@ -513,14 +537,6 @@
       "onboard_time": 1739900773,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24244,
-      "num": 42997,
-      "word": "俄美决定未来将在多领域合作",
-      "onboard_time": 1739913611,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 22829,
@@ -539,20 +555,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22018,
+      "num": 22449,
+      "word": "俄说加入欧盟是乌克兰主权权利",
+      "onboard_time": 1739887403,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 21971,
       "num": 97817,
       "word": "菲律宾1架飞机非法闯入中国黄岩岛领空",
       "onboard_time": 1739899634,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 21818,
-      "num": 21909,
-      "word": "19岁小伙644元1克卖金饰骗近20万",
-      "onboard_time": 1739913672,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20728,
@@ -571,14 +587,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 19574,
-      "num": 20167,
-      "word": "医院回应护士向患者下跪道歉",
-      "onboard_time": 1739908512,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 19480,
       "num": 19480,
       "word": "难哄哄然心动分享会",
@@ -595,16 +603,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 17965,
-      "num": 22449,
-      "word": "俄说加入欧盟是乌克兰主权权利",
-      "onboard_time": 1739887403,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 17200,
-      "num": 19572,
+      "num": 20852,
       "word": "媒体评小学生开始用DeepSeek写作业",
       "onboard_time": 1739907731,
       "rank": 41,
@@ -688,6 +688,14 @@
       "word": "哪吒电影周边卷出新高度",
       "onboard_time": 1739911570,
       "rank": 36,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 7506,
+      "num": 31964,
+      "word": "全球动画电影新顶流",
+      "onboard_time": 1739917033,
+      "rank": 28,
       "category": "电影"
     },
     {
