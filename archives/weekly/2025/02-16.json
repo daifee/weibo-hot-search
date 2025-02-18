@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739849162731,
+  "endTime": 1739849996620,
   "band_list": [
     {
       "raw_hot": 17381826,
@@ -155,6 +155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1706142,
+      "num": 1706142,
+      "word": "马斯克查美社保称发现360岁老人",
+      "onboard_time": 1739846478,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1701462,
       "num": 1701462,
       "word": "红房子",
@@ -211,12 +219,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1533122,
-      "num": 1533122,
-      "word": "马斯克查美社保称发现360岁老人",
-      "onboard_time": 1739846478,
-      "rank": 13,
-      "category": "海外新闻"
+      "raw_hot": 1514136,
+      "num": 1514136,
+      "word": "鹿晗关注了sana的ins",
+      "onboard_time": 1739847319,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 1510384,
@@ -329,14 +337,6 @@
       "onboard_time": 1739707401,
       "rank": 3,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1293184,
-      "num": 1293184,
-      "word": "鹿晗关注了sana的ins",
-      "onboard_time": 1739847319,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 1291681,
@@ -507,12 +507,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1036031,
+      "num": 411679,
+      "word": "曝王大陆涉嫌逃兵役被捕",
+      "onboard_time": 1739849540,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1010385,
       "num": 625184,
       "word": "金赛纶死亡现场没有遗书",
       "onboard_time": 1739769380,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 990831,
+      "num": 477776,
+      "word": "网红顾茜茜说日收入30万都是辛苦钱",
+      "onboard_time": 1739846538,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 986898,
@@ -753,14 +769,6 @@
       "onboard_time": 1739842759,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 806744,
-      "num": 477776,
-      "word": "网红顾茜茜说日收入30万都是辛苦钱",
-      "onboard_time": 1739846538,
-      "rank": 30,
-      "category": "网红"
     },
     {
       "raw_hot": 791095,
@@ -1252,7 +1260,7 @@
     },
     {
       "raw_hot": 555672,
-      "num": 242546,
+      "num": 282286,
       "word": "向太公开最年轻照片神似郭碧婷",
       "onboard_time": 1739846899,
       "rank": 38,
@@ -1611,6 +1619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 446759,
+      "num": 282088,
+      "word": "哇唧唧哇为了难哄拼了",
+      "onboard_time": 1739848820,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 445937,
       "num": 445937,
       "word": "王中和被查",
@@ -1756,7 +1772,7 @@
     },
     {
       "raw_hot": 411833,
-      "num": 228835,
+      "num": 246042,
       "word": "眼科医生眼里最伤眼睛的行为",
       "onboard_time": 1739847498,
       "rank": 30,
@@ -2075,6 +2091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 349789,
+      "num": 349789,
+      "word": "橘子冒烟小心肺部真菌感染",
+      "onboard_time": 1739846478,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 349618,
       "num": 349618,
       "word": "倪萍硬cue易烊千玺",
@@ -2163,6 +2187,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 335990,
+      "num": 335990,
+      "word": "酒店擅自分装洗发水沐浴露涉嫌违法",
+      "onboard_time": 1739848638,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 333337,
       "num": 333337,
       "word": "美一客机加拿大降落时发生事故15伤",
@@ -2200,14 +2232,6 @@
       "word": "勇救祖孙3人的菜刀哥病危妻子发声",
       "onboard_time": 1739693117,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 327960,
-      "num": 327960,
-      "word": "橘子冒烟小心肺部真菌感染",
-      "onboard_time": 1739846478,
-      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -2465,6 +2489,14 @@
       "onboard_time": 1739720540,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 283981,
+      "num": 283981,
+      "word": "DeepSeek迎来最强队友",
+      "onboard_time": 1739849961,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 278898,
@@ -2787,6 +2819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 246176,
+      "num": 246176,
+      "word": "章昊模仿徐冬冬姿势",
+      "onboard_time": 1739848758,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 245235,
       "num": 273701,
       "word": "在河北博物院找到了七色宝莲",
@@ -2833,6 +2873,14 @@
       "onboard_time": 1739840479,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 241353,
+      "num": 241353,
+      "word": "联通回应流量超34G欠费8700元",
+      "onboard_time": 1739848758,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 240707,
@@ -2913,6 +2961,14 @@
       "onboard_time": 1739761701,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 232800,
+      "num": 232800,
+      "word": "邮轮上偶遇尤长靖",
+      "onboard_time": 1739849299,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 232792,
@@ -3019,6 +3075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 221516,
+      "num": 290616,
+      "word": "美国20天6起飞机事故",
+      "onboard_time": 1739848038,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 221466,
       "num": 221466,
       "word": "六姊妹婆婆是我顶头上司",
@@ -3057,6 +3121,14 @@
       "onboard_time": 1739799560,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 219770,
+      "num": 219770,
+      "word": "刘浩存文淇柏林电影节第二套look",
+      "onboard_time": 1739842998,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 219295,
@@ -3275,6 +3347,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 207902,
+      "num": 398268,
+      "word": "石矶娘娘东山再起竟要等上亿年",
+      "onboard_time": 1739848879,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 207749,
       "num": 205086,
       "word": "女主变来变去男主爱来爱去",
@@ -3329,14 +3409,6 @@
       "onboard_time": 1739756778,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204382,
-      "num": 204382,
-      "word": "刘浩存文淇柏林电影节第二套look",
-      "onboard_time": 1739842998,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 204103,
@@ -3433,6 +3505,14 @@
       "onboard_time": 1739846478,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 199265,
+      "num": 199265,
+      "word": "小米再创新高",
+      "onboard_time": 1739847799,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 199060,
@@ -3547,28 +3627,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 196427,
-      "num": 196427,
-      "word": "哇唧唧哇为了难哄拼了",
-      "onboard_time": 1739848820,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 196137,
       "num": 196137,
       "word": "谁家母女第1集分1个离1个",
       "onboard_time": 1739798542,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196037,
-      "num": 229578,
-      "word": "章昊模仿徐冬冬姿势",
-      "onboard_time": 1739848758,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 195570,
@@ -3691,20 +3755,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191789,
+      "num": 191789,
+      "word": "六姊妹拍摄地人人人人人",
+      "onboard_time": 1739849841,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191475,
       "num": 191475,
       "word": "小演员一口辣条音把申小豹配活了",
       "onboard_time": 1739754440,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 190860,
-      "num": 190860,
-      "word": "小米再创新高",
-      "onboard_time": 1739847799,
-      "rank": 35,
-      "category": "财经"
     },
     {
       "raw_hot": 190688,
@@ -3803,6 +3867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186865,
+      "num": 186865,
+      "word": "张凌赫首部男主现偶剧",
+      "onboard_time": 1739849841,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186689,
       "num": 208376,
       "word": "哪吒2特效团队给乾坤圈开发了算法",
@@ -3899,14 +3971,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 182295,
-      "num": 182295,
-      "word": "酒店擅自分装洗发水沐浴露涉嫌违法",
-      "onboard_time": 1739848638,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 181872,
       "num": 181872,
       "word": "特效影厅上次这么火还是2009年",
@@ -3937,6 +4001,14 @@
       "onboard_time": 1739785341,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181013,
+      "num": 181013,
+      "word": "俄乌战争谈判乌克兰和欧洲未被邀请",
+      "onboard_time": 1739846779,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 180426,
@@ -4025,14 +4097,6 @@
       "onboard_time": 1739700258,
       "rank": 36,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 175983,
-      "num": 175983,
-      "word": "俄乌战争谈判乌克兰和欧洲未被邀请",
-      "onboard_time": 1739846779,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 175216,
@@ -4291,14 +4355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 163999,
-      "num": 163999,
-      "word": "联通回应流量超34G欠费8700元",
-      "onboard_time": 1739848758,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 163761,
       "num": 163761,
       "word": "六姊妹老五老六卧龙凤雏",
@@ -4409,6 +4465,14 @@
       "onboard_time": 1739833935,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 159252,
+      "num": 159252,
+      "word": "红房子剧宣",
+      "onboard_time": 1739846779,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 159219,
@@ -4641,6 +4705,14 @@
       "onboard_time": 1739777541,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 149437,
+      "num": 149437,
+      "word": "郑钦文晚宴造型好飒",
+      "onboard_time": 1739849060,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 149384,
@@ -4995,6 +5067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136390,
+      "num": 136390,
+      "word": "大衣哥辟谣买豪宅给儿媳开金店",
+      "onboard_time": 1739849780,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136176,
       "num": 136176,
       "word": "翟潇闻演技",
@@ -5123,6 +5203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130798,
+      "num": 130798,
+      "word": "浮潜脑死亡女子未被及时发放救生衣",
+      "onboard_time": 1739849480,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130736,
       "num": 212748,
       "word": "三人疑因10元停车费摔打六旬保安",
@@ -5139,6 +5227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130170,
+      "num": 130170,
+      "word": "中小学老师学如何判断AI作业",
+      "onboard_time": 1739849721,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130087,
       "num": 289335,
       "word": "警方回应女子疑携小女儿跳江",
@@ -5153,6 +5249,14 @@
       "onboard_time": 1739790381,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 129944,
+      "num": 130471,
+      "word": "又一国产大模型宣布开源",
+      "onboard_time": 1739849721,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 129868,
@@ -5257,14 +5361,6 @@
       "onboard_time": 1739704219,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 126109,
-      "num": 126109,
-      "word": "郑钦文晚宴造型好飒",
-      "onboard_time": 1739849060,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 125886,
@@ -6083,14 +6179,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 87327,
-      "num": 290616,
-      "word": "美国20天6起飞机事故",
-      "onboard_time": 1739848038,
-      "rank": 14,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 87000,
       "num": 260422,
       "word": "丁禹兮全棉好物分享",
@@ -6113,6 +6201,14 @@
       "onboard_time": 1739624360,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80386,
+      "num": 351182,
+      "word": "美航司客机事故逃生画面曝光",
+      "onboard_time": 1739849540,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 80319,
@@ -6305,14 +6401,6 @@
       "onboard_time": 1739722819,
       "rank": 48,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 65058,
-      "num": 193671,
-      "word": "石矶娘娘东山再起竟要等上亿年",
-      "onboard_time": 1739848879,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 62469,
@@ -6513,6 +6601,14 @@
       "onboard_time": 1739809157,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51374,
+      "num": 247497,
+      "word": "德约科维奇认为辛纳被袒护",
+      "onboard_time": 1739849540,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 50775,
@@ -6716,7 +6812,7 @@
     },
     {
       "raw_hot": 37354,
-      "num": 1394139,
+      "num": 1576781,
       "word": "中国式现代化的万千气象海南行",
       "onboard_time": 1739782103,
       "rank": 2,
@@ -7096,6 +7192,14 @@
       "word": "法院披露假章假证类犯罪产业链",
       "onboard_time": 1739779702,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15838,
+      "num": 220259,
+      "word": "史上首个猪肾人体移植临床获批",
+      "onboard_time": 1739849841,
+      "rank": 33,
       "category": "民生新闻"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1739849996620,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2562515,
+        "num": 2562515,
+        "word": "哪吒2预测票房下跌",
+        "onboard_time": 1739844377,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1706142,
+        "num": 1706142,
+        "word": "马斯克查美社保称发现360岁老人",
+        "onboard_time": 1739846478,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 6849,
+        "num": 1576781,
+        "word": "中国式现代化的万千气象海南行",
+        "onboard_time": 1739782103,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1514136,
+        "num": 1514136,
+        "word": "鹿晗关注了sana的ins",
+        "onboard_time": 1739847319,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412549,
+        "num": 412549,
+        "word": "深圳福田AI员工上线",
+        "onboard_time": 1739847439,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 639443,
+        "num": 411756,
+        "word": "AI公务员上岗",
+        "onboard_time": 1739835977,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1036031,
+        "num": 411679,
+        "word": "曝王大陆涉嫌逃兵役被捕",
+        "onboard_time": 1739849540,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410681,
+        "num": 410681,
+        "word": "专家称不必过于担忧AI抢人类铁饭碗",
+        "onboard_time": 1739842398,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410097,
+        "num": 410097,
+        "word": "DeepSeek手机版安全使用教程",
+        "onboard_time": 1739842818,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 207902,
+        "num": 398268,
+        "word": "石矶娘娘东山再起竟要等上亿年",
+        "onboard_time": 1739848879,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 990831,
+        "num": 391682,
+        "word": "网红顾茜茜说日收入30万都是辛苦钱",
+        "onboard_time": 1739846538,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 749933,
+        "num": 376326,
+        "word": "难哄开播",
+        "onboard_time": 1739842759,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 420015,
+        "num": 353668,
+        "word": "沈梦辰杜海涛经历9年爱情长跑",
+        "onboard_time": 1739825951,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353358,
+        "num": 353358,
+        "word": "相柳这次终于是桐华的男主了",
+        "onboard_time": 1739838620,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80386,
+        "num": 351182,
+        "word": "美航司客机事故逃生画面曝光",
+        "onboard_time": 1739849540,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 349789,
+        "num": 349789,
+        "word": "橘子冒烟小心肺部真菌感染",
+        "onboard_time": 1739846478,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335990,
+        "num": 335990,
+        "word": "酒店擅自分装洗发水沐浴露涉嫌违法",
+        "onboard_time": 1739848638,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293727,
+        "num": 293727,
+        "word": "汪峰携女友森林北看演唱会",
+        "onboard_time": 1739833935,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 284861,
+        "num": 284861,
+        "word": "女子多次试管怀孕乘网约车车祸流产",
+        "onboard_time": 1739801541,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283981,
+        "num": 283981,
+        "word": "DeepSeek迎来最强队友",
+        "onboard_time": 1739849961,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1013114,
+        "num": 283100,
+        "word": "浙江妈妈早产生下双胞胎哪吒",
+        "onboard_time": 1739845158,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 554665,
+        "num": 282286,
+        "word": "向太公开最年轻照片神似郭碧婷",
+        "onboard_time": 1739846899,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446759,
+        "num": 282088,
+        "word": "哇唧唧哇为了难哄拼了",
+        "onboard_time": 1739848820,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281452,
+        "num": 281452,
+        "word": "春季第二个节气到了",
+        "onboard_time": 1739833394,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51374,
+        "num": 247497,
+        "word": "德约科维奇认为辛纳被袒护",
+        "onboard_time": 1739849540,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246176,
+        "num": 246176,
+        "word": "章昊模仿徐冬冬姿势",
+        "onboard_time": 1739848758,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393272,
+        "num": 246042,
+        "word": "眼科医生眼里最伤眼睛的行为",
+        "onboard_time": 1739847498,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 286621,
+        "num": 244014,
+        "word": "美国男子蜜月期殴打华裔妻子致死",
+        "onboard_time": 1739845038,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 281588,
+        "num": 242829,
+        "word": "申小豹仿妆",
+        "onboard_time": 1739845576,
+        "rank": 28,
+        "category": "电影,美妆"
+      },
+      {
+        "raw_hot": 273811,
+        "num": 241427,
+        "word": "全国仅4台的限量款耳机是啥样的",
+        "onboard_time": 1739845458,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241353,
+        "num": 241353,
+        "word": "联通回应流量超34G欠费8700元",
+        "onboard_time": 1739848758,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232800,
+        "num": 232800,
+        "word": "邮轮上偶遇尤长靖",
+        "onboard_time": 1739849299,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221516,
+        "num": 221516,
+        "word": "美国20天6起飞机事故",
+        "onboard_time": 1739848038,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 15838,
+        "num": 220259,
+        "word": "史上首个猪肾人体移植临床获批",
+        "onboard_time": 1739849841,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219770,
+        "num": 219770,
+        "word": "刘浩存文淇柏林电影节第二套look",
+        "onboard_time": 1739842998,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199265,
+        "num": 199265,
+        "word": "小米再创新高",
+        "onboard_time": 1739847799,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 191789,
+        "num": 191789,
+        "word": "六姊妹拍摄地人人人人人",
+        "onboard_time": 1739849841,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186865,
+        "num": 186865,
+        "word": "张凌赫首部男主现偶剧",
+        "onboard_time": 1739849841,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186302,
+        "num": 186302,
+        "word": "女二男二都想加入这个家",
+        "onboard_time": 1739848460,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181013,
+        "num": 181013,
+        "word": "俄乌战争谈判乌克兰和欧洲未被邀请",
+        "onboard_time": 1739846779,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 175375,
+        "num": 175375,
+        "word": "迪丽热巴风衣阔腿裤造型",
+        "onboard_time": 1739835917,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162070,
+        "num": 162070,
+        "word": "女子晒双胞胎儿子cos哪吒敖丙",
+        "onboard_time": 1739844377,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159252,
+        "num": 159252,
+        "word": "红房子剧宣",
+        "onboard_time": 1739846779,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149437,
+        "num": 149437,
+        "word": "郑钦文晚宴造型好飒",
+        "onboard_time": 1739849060,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148717,
+        "num": 148717,
+        "word": "红房子",
+        "onboard_time": 1739802081,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136390,
+        "num": 136390,
+        "word": "大衣哥辟谣买豪宅给儿媳开金店",
+        "onboard_time": 1739849780,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134055,
+        "num": 134055,
+        "word": "为防AI作业老师说不用补寒假作业",
+        "onboard_time": 1739846538,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130798,
+        "num": 130798,
+        "word": "浮潜脑死亡女子未被及时发放救生衣",
+        "onboard_time": 1739849480,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129944,
+        "num": 130471,
+        "word": "又一国产大模型宣布开源",
+        "onboard_time": 1739849721,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 130170,
+        "num": 130170,
+        "word": "中小学老师学如何判断AI作业",
+        "onboard_time": 1739849721,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#民营经济发展前景广阔大有可为#"
+    }
+  }
+}
