@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739918335929,
+  "endTime": 1739920879160,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -1091,6 +1091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 824381,
+      "num": 168902,
+      "word": "杨丞琳李荣浩是闷声干大事的人",
+      "onboard_time": 1739919795,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 824108,
       "num": 824108,
       "word": "男子3小时花费2000元套中玛莎拉蒂",
@@ -1249,6 +1257,14 @@
       "onboard_time": 1739883023,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 742053,
+      "num": 161852,
+      "word": "台媒称王大陆兵役逃了10年",
+      "onboard_time": 1739917452,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 741471,
@@ -1953,6 +1969,14 @@
       "onboard_time": 1739703140,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 499207,
+      "num": 499207,
+      "word": "俄美决定未来将在多领域合作",
+      "onboard_time": 1739913611,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 497969,
@@ -2979,6 +3003,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 332173,
+      "num": 158683,
+      "word": "陈晓陈妍希 1370天",
+      "onboard_time": 1739910311,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 332114,
       "num": 260063,
       "word": "未成年人拍举牌视频属于性剥削",
@@ -3801,14 +3833,6 @@
       "onboard_time": 1739632461,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 254612,
-      "num": 474140,
-      "word": "俄美决定未来将在多领域合作",
-      "onboard_time": 1739913611,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 254041,
@@ -5083,6 +5107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192971,
+      "num": 192971,
+      "word": "19岁小伙644元1克卖金饰骗近20万",
+      "onboard_time": 1739913672,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192617,
       "num": 192617,
       "word": "情侣模仿桑延温以凡",
@@ -5641,14 +5673,6 @@
       "onboard_time": 1739678539,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 172640,
-      "num": 86220,
-      "word": "陈晓陈妍希 1370天",
-      "onboard_time": 1739910311,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 172454,
@@ -7155,6 +7179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123634,
+      "num": 123634,
+      "word": "13岁女孩险被骗59万被支付宝拦截",
+      "onboard_time": 1739896816,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123617,
       "num": 242982,
       "word": "一民办学校多次向教职工借款不还",
@@ -7481,6 +7513,14 @@
       "onboard_time": 1739698639,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111466,
+      "num": 123742,
+      "word": "医院回应护士向患者下跪道歉",
+      "onboard_time": 1739908512,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111037,
@@ -7857,14 +7897,6 @@
       "onboard_time": 1739862086,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 98051,
-      "num": 98051,
-      "word": "19岁小伙644元1克卖金饰骗近20万",
-      "onboard_time": 1739913672,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 97017,
@@ -8251,6 +8283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76948,
+      "num": 76948,
+      "word": "美队4中国预测票房连续下跌至1.2亿",
+      "onboard_time": 1739903352,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 76012,
       "num": 214568,
       "word": "重庆通报污水排入长江事件",
@@ -8371,6 +8411,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 71339,
+      "num": 88680,
+      "word": "泽连斯基就美俄会谈发声",
+      "onboard_time": 1739917813,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 70867,
       "num": 117550,
       "word": "人工智能大模型纷纷宣布免费开放",
@@ -8449,14 +8497,6 @@
       "onboard_time": 1739891423,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 66862,
-      "num": 66862,
-      "word": "13岁女孩险被骗59万被支付宝拦截",
-      "onboard_time": 1739896816,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 66659,
@@ -8859,6 +8899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49443,
+      "num": 50997,
+      "word": "檀健次crush降临",
+      "onboard_time": 1739919795,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 48905,
       "num": 48905,
       "word": "Gala疑似和女友分手",
@@ -8955,12 +9003,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 45649,
-      "num": 45649,
-      "word": "台媒称王大陆兵役逃了10年",
-      "onboard_time": 1739917452,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 45546,
+      "num": 51005,
+      "word": "林孝埈手术结束报平安",
+      "onboard_time": 1739900773,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 45378,
@@ -9099,14 +9147,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 38707,
-      "num": 38707,
-      "word": "医院回应护士向患者下跪道歉",
-      "onboard_time": 1739908512,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 38371,
       "num": 257385,
       "word": "王嘉尔到了再讲",
@@ -9129,14 +9169,6 @@
       "onboard_time": 1739726175,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 37479,
-      "num": 37479,
-      "word": "美队4中国预测票房连续下跌至1.2亿",
-      "onboard_time": 1739903352,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 37429,
@@ -9369,14 +9401,6 @@
       "onboard_time": 1739863286,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 27541,
-      "num": 44617,
-      "word": "林孝埈手术结束报平安",
-      "onboard_time": 1739900773,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 27523,
@@ -9825,14 +9849,6 @@
       "onboard_time": 1739728752,
       "rank": 49,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 14652,
-      "num": 88680,
-      "word": "泽连斯基就美俄会谈发声",
-      "onboard_time": 1739917813,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 14594,
