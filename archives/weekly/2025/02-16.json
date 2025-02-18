@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739843893968,
+  "endTime": 1739847094624,
   "band_list": [
     {
       "raw_hot": 17381826,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2515846,
+      "num": 2515846,
+      "word": "哪吒2预测票房下跌",
+      "onboard_time": 1739844377,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 2200902,
       "num": 2200902,
       "word": "多企业系统接入DeepSeek",
@@ -129,6 +137,14 @@
       "onboard_time": 1739759359,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1851322,
+      "num": 301032,
+      "word": "浙江妈妈早产生下双胞胎哪吒",
+      "onboard_time": 1739845158,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1813270,
@@ -539,6 +555,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 924478,
+      "num": 295181,
+      "word": "美国男子蜜月期殴打华裔妻子致死",
+      "onboard_time": 1739845038,
+      "rank": 12,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 920015,
       "num": 637026,
       "word": "封神第三部已剪完",
@@ -865,6 +889,14 @@
       "onboard_time": 1739676319,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 684898,
+      "num": 684898,
+      "word": "难哄开播",
+      "onboard_time": 1739842759,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 684013,
@@ -1555,6 +1587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 440147,
+      "num": 291333,
+      "word": "马斯克查美社保称发现360岁老人",
+      "onboard_time": 1739846478,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 439892,
       "num": 439892,
       "word": "上美藕饼",
@@ -1609,6 +1649,14 @@
       "onboard_time": 1739667498,
       "rank": 37,
       "category": "民生新闻,科学科普"
+    },
+    {
+      "raw_hot": 427525,
+      "num": 427525,
+      "word": "DeepSeek手机版安全使用教程",
+      "onboard_time": 1739842818,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 426545,
@@ -1809,14 +1857,6 @@
       "onboard_time": 1739773399,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 377784,
-      "num": 308955,
-      "word": "难哄开播",
-      "onboard_time": 1739842759,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 375677,
@@ -2259,6 +2299,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 292532,
+      "num": 227950,
+      "word": "全国仅4台的限量款耳机是啥样的",
+      "onboard_time": 1739845458,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 292354,
+      "num": 227781,
+      "word": "女子晒双胞胎儿子cos哪吒敖丙",
+      "onboard_time": 1739844377,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 290609,
       "num": 238058,
       "word": "66岁单身大妈去养生局感染HPV",
@@ -2321,6 +2377,14 @@
       "onboard_time": 1739797761,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 286097,
+      "num": 286097,
+      "word": "仿冒DeepSeek手机病毒出现",
+      "onboard_time": 1739845519,
+      "rank": 15,
+      "category": "互联网"
     },
     {
       "raw_hot": 284384,
@@ -2835,6 +2899,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 229896,
+      "num": 229896,
+      "word": "申小豹仿妆",
+      "onboard_time": 1739845576,
+      "rank": 18,
+      "category": "电影,美妆"
+    },
+    {
       "raw_hot": 229827,
       "num": 197242,
       "word": "金饰价格一夜大跌18元每克",
@@ -3179,6 +3251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206150,
+      "num": 206150,
+      "word": "编号17定档",
+      "onboard_time": 1739846838,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 205459,
       "num": 205459,
       "word": "美国队长2电梯名场面",
@@ -3219,12 +3299,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 202848,
+      "num": 202848,
+      "word": "橘子冒烟小心肺部真菌感染",
+      "onboard_time": 1739846478,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202816,
       "num": 202816,
       "word": "杨紫李祯盘发路透",
       "onboard_time": 1739756298,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202517,
+      "num": 175380,
+      "word": "网红顾茜茜说日收入30万都是辛苦钱",
+      "onboard_time": 1739846538,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 201783,
@@ -3827,6 +3923,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 175382,
+      "num": 175382,
+      "word": "刘浩存文淇柏林电影节第二套look",
+      "onboard_time": 1739842998,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 175216,
       "num": 291684,
       "word": "黎深福布斯",
@@ -3865,14 +3969,6 @@
       "onboard_time": 1739755339,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 173845,
-      "num": 173845,
-      "word": "刘浩存文淇柏林电影节第二套look",
-      "onboard_time": 1739842998,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 173819,
@@ -4059,20 +4155,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 165781,
-      "num": 165781,
-      "word": "DeepSeek手机版安全使用教程",
-      "onboard_time": 1739842818,
-      "rank": 34,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 165628,
       "num": 325107,
       "word": "2025开年的中国给世界亿点点震撼",
       "onboard_time": 1739840419,
       "rank": 38,
       "category": "民生新闻,国内时政"
+    },
+    {
+      "raw_hot": 165311,
+      "num": 165311,
+      "word": "哪吒2港澳定档22日",
+      "onboard_time": 1739846478,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 165160,
@@ -4347,6 +4443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152511,
+      "num": 152511,
+      "word": "向太公开最年轻照片神似郭碧婷",
+      "onboard_time": 1739846899,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152224,
       "num": 152224,
       "word": "奥萨苏纳vs皇马",
@@ -4361,6 +4465,14 @@
       "onboard_time": 1739764640,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152133,
+      "num": 152133,
+      "word": "为防AI作业老师说不用补寒假作业",
+      "onboard_time": 1739846538,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151935,
@@ -4659,6 +4771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141104,
+      "num": 141104,
+      "word": "福宝浑身都是笋",
+      "onboard_time": 1739844318,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141044,
       "num": 141044,
       "word": "41岁媒体人吴玉燕因流感离世",
@@ -4692,7 +4812,7 @@
     },
     {
       "raw_hot": 138467,
-      "num": 138467,
+      "num": 152830,
       "word": "缅方在妙瓦底再抓捕273人",
       "onboard_time": 1739843537,
       "rank": 41,
@@ -4801,6 +4921,14 @@
       "onboard_time": 1739788639,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133541,
+      "num": 133541,
+      "word": "英雄联盟铁男圣堂皮肤",
+      "onboard_time": 1739846599,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 132765,
@@ -4995,6 +5123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127196,
+      "num": 127196,
+      "word": "福宝出门晒太阳了",
+      "onboard_time": 1739843719,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126587,
       "num": 126587,
       "word": "麦克朗三连冠",
@@ -5065,6 +5201,14 @@
       "onboard_time": 1739796442,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 124581,
+      "num": 124581,
+      "word": "红房子导演 穷出自信穷出风采",
+      "onboard_time": 1739844918,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 124542,
@@ -5283,12 +5427,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 115172,
-      "num": 115172,
-      "word": "福宝出门晒太阳了",
-      "onboard_time": 1739843719,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 115341,
+      "num": 206402,
+      "word": "科比东契奇巨幅壁画",
+      "onboard_time": 1739845818,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 115096,
@@ -5691,6 +5835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94567,
+      "num": 307563,
+      "word": "美航司客机翻转落地内部一片狼藉",
+      "onboard_time": 1739843297,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 94418,
       "num": 297480,
       "word": "原来速食拉面也能吃得健康",
@@ -5785,6 +5937,14 @@
       "onboard_time": 1739776339,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 91090,
+      "num": 175294,
+      "word": "金赛纶在话剧排练时脸色变得煞白",
+      "onboard_time": 1739846961,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 91073,
@@ -6889,6 +7049,14 @@
       "onboard_time": 1739814793,
       "rank": 32,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 11002,
+      "num": 152165,
+      "word": "四菜一汤家常菜",
+      "onboard_time": 1739846961,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 10698,
