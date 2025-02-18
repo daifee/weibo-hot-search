@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739904287206,
+  "endTime": 1739906341594,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -9243,20 +9243,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31278,
+      "num": 31278,
+      "word": "神雕侠侣",
+      "onboard_time": 1739904732,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 30279,
+      "num": 30279,
+      "word": "美队4中国预测票房连续下跌至1.2亿",
+      "onboard_time": 1739903352,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 29630,
       "num": 141226,
       "word": "追踪团洲垸决堤后如何迁建",
       "onboard_time": 1739634561,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29476,
-      "num": 29476,
-      "word": "美队4中国预测票房连续下跌至1.2亿",
-      "onboard_time": 1739903352,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 29322,
@@ -9587,6 +9595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20728,
+      "num": 20728,
+      "word": "登陆少年舞台特效限时推荐",
+      "onboard_time": 1739905691,
+      "rank": 44,
+      "category": "综艺,作品衍生"
+    },
+    {
       "raw_hot": 20419,
       "num": 52621,
       "word": "假饺子账号比捉妖队抓的妖怪还多",
@@ -9635,6 +9651,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 19480,
+      "num": 19480,
+      "word": "难哄哄然心动分享会",
+      "onboard_time": 1739905032,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 19438,
       "num": 368095,
       "word": "总制片人回应难哄剧情节奏争议",
@@ -9665,6 +9689,14 @@
       "onboard_time": 1739891543,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18699,
+      "num": 28955,
+      "word": "民营企业座谈会释放三个信号",
+      "onboard_time": 1739903413,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 18669,
@@ -9843,11 +9875,11 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 11570,
-      "num": 28955,
-      "word": "民营企业座谈会释放三个信号",
-      "onboard_time": 1739903413,
-      "rank": 40,
+      "raw_hot": 11507,
+      "num": 48300,
+      "word": "对话谈判是解决危机的唯一可行出路",
+      "onboard_time": 1739905332,
+      "rank": 9,
       "category": "国内时政"
     },
     {
@@ -9929,6 +9961,14 @@
       "onboard_time": 1739702179,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 6877,
+      "num": 42438,
+      "word": "黄仁俊直播",
+      "onboard_time": 1739905871,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 5519,
