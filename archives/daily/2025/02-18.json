@@ -1,6 +1,6 @@
 {
   "startTime": 1739809696665,
-  "endTime": 1739882509941,
+  "endTime": 1739883457076,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -27,8 +27,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 9586040,
-      "num": 9586040,
+      "raw_hot": 9966428,
+      "num": 9966428,
       "word": "哪吒2全球动画第1",
       "onboard_time": 1739879063,
       "rank": 0,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 2354462,
-      "num": 280003,
+      "num": 289802,
       "word": "陈妍希只有生日才敢叫陈晓出去吃饭",
       "onboard_time": 1739873723,
       "rank": 21,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 1818444,
-      "num": 284349,
+      "num": 290248,
       "word": "陈晓赵丽颖 接二搭",
       "onboard_time": 1739866042,
       "rank": 16,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 1330599,
-      "num": 767544,
+      "num": 1164842,
       "word": "哪吒2成为全球影史第8",
       "onboard_time": 1739879963,
       "rank": 3,
@@ -339,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 915736,
+      "num": 290326,
+      "word": "白敬亭 双开门",
+      "onboard_time": 1739879183,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 913796,
       "num": 456758,
       "word": "沈梦辰杜海涛经历9年爱情长跑",
@@ -385,14 +393,6 @@
       "onboard_time": 1739810358,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 800177,
-      "num": 285480,
-      "word": "白敬亭 双开门",
-      "onboard_time": 1739879183,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 780560,
@@ -515,6 +515,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 631806,
+      "num": 287509,
+      "word": "英雄联盟崩了",
+      "onboard_time": 1739883262,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 593622,
       "num": 516490,
       "word": "张凌赫首部男主现偶剧",
@@ -561,6 +569,14 @@
       "onboard_time": 1739867242,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 514679,
+      "num": 290107,
+      "word": "嘉许哥想你了",
+      "onboard_time": 1739877684,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 507288,
@@ -651,6 +667,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 450575,
+      "num": 289969,
+      "word": "医生谈郭艾伦结膜受伤",
+      "onboard_time": 1739881944,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 446917,
       "num": 446917,
       "word": "亲属称罗福莉与丈夫研究领域相同",
@@ -683,14 +707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 427098,
-      "num": 275713,
-      "word": "嘉许哥想你了",
-      "onboard_time": 1739877684,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 426545,
       "num": 426545,
       "word": "春季第二个节气到了",
@@ -715,6 +731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 409726,
+      "num": 289916,
+      "word": "难哄偷偷藏不住同一角色对比",
+      "onboard_time": 1739883023,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 407907,
       "num": 383196,
       "word": "桑延裤链没拉",
@@ -724,7 +748,7 @@
     },
     {
       "raw_hot": 407747,
-      "num": 273631,
+      "num": 289450,
       "word": "俱乐部回应郭艾伦受伤",
       "onboard_time": 1739881462,
       "rank": 22,
@@ -777,6 +801,14 @@
       "onboard_time": 1739832673,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 360399,
+      "num": 289707,
+      "word": "贵州六盘水失踪6岁男孩已遇害",
+      "onboard_time": 1739882603,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 360312,
@@ -1083,6 +1115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 290459,
+      "num": 290459,
+      "word": "丈夫灌面汤呛死妻子案家属望重判",
+      "onboard_time": 1739882182,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 290023,
       "num": 516051,
       "word": "铁打的女主打铁的男主",
@@ -1123,11 +1163,27 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 283991,
+      "num": 283991,
+      "word": "医生接产带壳宝宝难掩惊喜",
+      "onboard_time": 1739881163,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 283309,
       "num": 283309,
       "word": "喝羽衣甘蓝粉或可可粉真能减肥吗",
       "onboard_time": 1739854643,
       "rank": 48,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 275396,
+      "num": 275396,
+      "word": "气血不足的人容易把自己封闭起来",
+      "onboard_time": 1739880442,
+      "rank": 35,
       "category": "健康医疗"
     },
     {
@@ -1137,6 +1193,14 @@
       "onboard_time": 1739874202,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 270695,
+      "num": 289509,
+      "word": "国足",
+      "onboard_time": 1739881583,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 267809,
@@ -1152,6 +1216,14 @@
       "word": "商家用女童跪撩上衣姿势展示童装",
       "onboard_time": 1739797161,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 263385,
+      "num": 263385,
+      "word": "大学生流量用超34G欠下万元话费",
+      "onboard_time": 1739877083,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -1227,22 +1299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 244488,
-      "num": 244488,
-      "word": "大学生流量用超34G欠下万元话费",
-      "onboard_time": 1739877083,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 242402,
-      "num": 242402,
-      "word": "医生接产带壳宝宝难掩惊喜",
-      "onboard_time": 1739881163,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 242316,
       "num": 242316,
       "word": "乌方不承认美俄谈判达成协议",
@@ -1305,14 +1361,6 @@
       "onboard_time": 1739865443,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 228423,
-      "num": 228423,
-      "word": "气血不足的人容易把自己封闭起来",
-      "onboard_time": 1739880442,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 224833,
@@ -1491,6 +1539,22 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 207344,
+      "num": 289152,
+      "word": "吒儿你还有多少惊喜",
+      "onboard_time": 1739881882,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 206795,
+      "num": 289635,
+      "word": "柯淳直播",
+      "onboard_time": 1739881102,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206317,
       "num": 206317,
       "word": "董宇辉全平台发布个人单曲",
@@ -1505,14 +1569,6 @@
       "onboard_time": 1739846838,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 206060,
-      "num": 276993,
-      "word": "医生谈郭艾伦结膜受伤",
-      "onboard_time": 1739881944,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 205056,
@@ -1563,6 +1619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203058,
+      "num": 203058,
+      "word": "余烬之上",
+      "onboard_time": 1739882303,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202288,
       "num": 414515,
       "word": "当火象和土象开始恋爱",
@@ -1585,6 +1649,14 @@
       "onboard_time": 1739866042,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 201256,
+      "num": 201256,
+      "word": "陶喆 抢票",
+      "onboard_time": 1739882662,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 200780,
@@ -1617,14 +1689,6 @@
       "onboard_time": 1739847799,
       "rank": 35,
       "category": "财经"
-    },
-    {
-      "raw_hot": 197981,
-      "num": 197981,
-      "word": "国足",
-      "onboard_time": 1739881583,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 193226,
@@ -1667,6 +1731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189381,
+      "num": 189381,
+      "word": "马来西亚公主也喜欢肖战",
+      "onboard_time": 1739882963,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 189023,
       "num": 189023,
       "word": "蒋欣评论区回应为何不结婚",
@@ -1681,6 +1753,22 @@
       "onboard_time": 1739862866,
       "rank": 10,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 188005,
+      "num": 188005,
+      "word": "陈都灵罗意威活动",
+      "onboard_time": 1739882424,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 184502,
+      "num": 184502,
+      "word": "央视采访90后CEO王兴兴",
+      "onboard_time": 1739878583,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 183434,
@@ -1731,28 +1819,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 178913,
-      "num": 178913,
-      "word": "央视采访90后CEO王兴兴",
-      "onboard_time": 1739878583,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 177841,
       "num": 177841,
       "word": "女生被催婚催烦一口气把长发剪了",
       "onboard_time": 1739803582,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 174711,
-      "num": 174711,
-      "word": "余烬之上",
-      "onboard_time": 1739882303,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 172020,
@@ -1803,14 +1875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 167225,
-      "num": 167225,
-      "word": "陈都灵罗意威活动",
-      "onboard_time": 1739882424,
-      "rank": 45,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 167203,
       "num": 222271,
       "word": "男子酒后殴打陌生人赔了20万获刑",
@@ -1841,14 +1905,6 @@
       "onboard_time": 1739840419,
       "rank": 38,
       "category": "民生新闻,国内时政"
-    },
-    {
-      "raw_hot": 164531,
-      "num": 164531,
-      "word": "丈夫灌面汤呛死妻子案家属望重判",
-      "onboard_time": 1739882182,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 164283,
@@ -2299,6 +2355,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 103939,
+      "num": 289582,
+      "word": "京城大师赛",
+      "onboard_time": 1739883203,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 103510,
       "num": 240317,
       "word": "颖儿新剧不是恋爱脑是搞钱脑",
@@ -2337,14 +2401,6 @@
       "onboard_time": 1739863825,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100923,
-      "num": 289152,
-      "word": "吒儿你还有多少惊喜",
-      "onboard_time": 1739881882,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 100001,
@@ -2537,6 +2593,14 @@
       "onboard_time": 1739862686,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 74481,
+      "num": 290226,
+      "word": "男子为争夺抚养权藏匿儿子长达10年",
+      "onboard_time": 1739881824,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74362,
@@ -2771,6 +2835,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 54502,
+      "num": 289866,
+      "word": "DeepSeek发布技术论文",
+      "onboard_time": 1739877023,
+      "rank": 20,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 54284,
       "num": 360686,
       "word": "记者调查9.9元体验课陷阱",
@@ -2947,6 +3019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 33570,
+      "num": 196651,
+      "word": "任天堂停止发放黄金点数",
+      "onboard_time": 1739882724,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 31312,
       "num": 1324065,
       "word": "文化中国行看雨水节气",
@@ -2969,14 +3049,6 @@
       "onboard_time": 1739863286,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 27054,
-      "num": 282794,
-      "word": "男子为争夺抚养权藏匿儿子长达10年",
-      "onboard_time": 1739881824,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26844,
