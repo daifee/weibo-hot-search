@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1739856221193,
+  "endTime": 1739857187554,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -267,8 +267,8 @@
       "category": "情感,民生新闻"
     },
     {
-      "raw_hot": 10241559,
-      "num": 10241559,
+      "raw_hot": 10676056,
+      "num": 10676056,
       "word": "曝王大陆涉嫌逃兵役被捕",
       "onboard_time": 1739849540,
       "rank": 6,
@@ -620,7 +620,7 @@
     },
     {
       "raw_hot": 4677462,
-      "num": 909468,
+      "num": 1120495,
       "word": "陈晓陈妍希 今后各自安好",
       "onboard_time": 1739855312,
       "rank": 5,
@@ -1123,6 +1123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 3173057,
+      "num": 1080319,
+      "word": "王大陆被带上警车现场",
+      "onboard_time": 1739855674,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3152316,
       "num": 3152316,
       "word": "导演组回应沈腾马丽小品没演完",
@@ -1169,6 +1177,14 @@
       "onboard_time": 1739634621,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3110747,
+      "num": 846998,
+      "word": "杨丞琳李荣浩婚礼1周年",
+      "onboard_time": 1739854823,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 3098430,
@@ -1257,6 +1273,14 @@
       "onboard_time": 1738076625,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3006088,
+      "num": 758465,
+      "word": "品鉴难哄",
+      "onboard_time": 1739855067,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 2996452,
@@ -2376,30 +2400,6 @@
       "word": "徐以若律师声明",
       "onboard_time": 1735782440,
       "rank": 1,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2176498,
-      "num": 601787,
-      "word": "女子吐槽袜子上出现狗牵女性不雅图片",
-      "onboard_time": 1739326217,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2175833,
-      "num": 2175833,
-      "word": "央视元宵晚会",
-      "onboard_time": 1739360539,
-      "rank": 0,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 2174149,
-      "num": 2174149,
-      "word": "马丽 甲状腺",
-      "onboard_time": 1738128082,
-      "rank": 0,
       "category": "艺人"
     }
   ],
