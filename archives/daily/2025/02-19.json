@@ -1,6 +1,6 @@
 {
   "startTime": 1739896170867,
-  "endTime": 1739903497503,
+  "endTime": 1739904287206,
   "band_list": [
     {
       "raw_hot": 1448214,
@@ -443,6 +443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 35912,
+      "num": 35912,
+      "word": "哪吒现实世界冲破了鼎盖",
+      "onboard_time": 1739904072,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 32971,
       "num": 48934,
       "word": "俱乐部回应郭艾伦受伤",
@@ -467,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29476,
+      "num": 29476,
+      "word": "美队4中国预测票房连续下跌至1.2亿",
+      "onboard_time": 1739903352,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 28154,
       "num": 28154,
       "word": "桑头牌",
@@ -475,16 +491,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 27898,
-      "num": 27898,
-      "word": "美队4中国预测票房连续下跌至1.2亿",
-      "onboard_time": 1739903352,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 27541,
-      "num": 29304,
+      "num": 44617,
       "word": "林孝埈手术结束报平安",
       "onboard_time": 1739900773,
       "rank": 39,
@@ -507,20 +515,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 20419,
+      "num": 52621,
+      "word": "假饺子账号比捉妖队抓的妖怪还多",
+      "onboard_time": 1739902933,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 11570,
       "num": 28955,
       "word": "民营企业座谈会释放三个信号",
       "onboard_time": 1739903413,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 10745,
-      "num": 47251,
-      "word": "假饺子账号比捉妖队抓的妖怪还多",
-      "onboard_time": 1739902933,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 9504,
