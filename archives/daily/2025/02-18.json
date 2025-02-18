@@ -1,10 +1,10 @@
 {
   "startTime": 1739809696665,
-  "endTime": 1739847094624,
+  "endTime": 1739847612324,
   "band_list": [
     {
-      "raw_hot": 2515846,
-      "num": 2515846,
+      "raw_hot": 2716920,
+      "num": 2716920,
       "word": "哪吒2预测票房下跌",
       "onboard_time": 1739844377,
       "rank": 0,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1851322,
-      "num": 301032,
+      "num": 303599,
       "word": "浙江妈妈早产生下双胞胎哪吒",
       "onboard_time": 1739845158,
       "rank": 10,
@@ -83,6 +83,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 814324,
+      "num": 814324,
+      "word": "难哄开播",
+      "onboard_time": 1739842759,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 812333,
+      "num": 299037,
+      "word": "马斯克查美社保称发现360岁老人",
+      "onboard_time": 1739846478,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 729823,
       "num": 729823,
       "word": "AI才女罗福莉已到新岗位上班",
@@ -105,14 +121,6 @@
       "onboard_time": 1739801541,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 684898,
-      "num": 684898,
-      "word": "难哄开播",
-      "onboard_time": 1739842759,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 644248,
@@ -155,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 449813,
+      "num": 391776,
+      "word": "鹿晗关注了sana的ins",
+      "onboard_time": 1739847319,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 446917,
       "num": 446917,
       "word": "亲属称罗福莉与丈夫研究领域相同",
@@ -163,16 +179,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 440147,
-      "num": 291333,
-      "word": "马斯克查美社保称发现360岁老人",
-      "onboard_time": 1739846478,
-      "rank": 13,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 427525,
-      "num": 427525,
+      "raw_hot": 432962,
+      "num": 432962,
       "word": "DeepSeek手机版安全使用教程",
       "onboard_time": 1739842818,
       "rank": 34,
@@ -193,6 +201,14 @@
       "onboard_time": 1739836699,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 411833,
+      "num": 196363,
+      "word": "眼科医生眼里最伤眼睛的行为",
+      "onboard_time": 1739847498,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 398294,
@@ -243,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 342939,
+      "num": 243647,
+      "word": "全国仅4台的限量款耳机是啥样的",
+      "onboard_time": 1739845458,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 337147,
       "num": 260670,
       "word": "psy因过度减肥向粉丝道歉",
@@ -257,6 +281,14 @@
       "onboard_time": 1739838741,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 332236,
+      "num": 242546,
+      "word": "向太公开最年轻照片神似郭碧婷",
+      "onboard_time": 1739846899,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 330121,
@@ -283,16 +315,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 292532,
-      "num": 227950,
-      "word": "全国仅4台的限量款耳机是啥样的",
-      "onboard_time": 1739845458,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 292354,
-      "num": 227781,
+      "num": 240673,
       "word": "女子晒双胞胎儿子cos哪吒敖丙",
       "onboard_time": 1739844377,
       "rank": 21,
@@ -305,6 +329,14 @@
       "onboard_time": 1739800520,
       "rank": 4,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 290009,
+      "num": 290009,
+      "word": "网红顾茜茜说日收入30万都是辛苦钱",
+      "onboard_time": 1739846538,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 286097,
@@ -331,6 +363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 245903,
+      "num": 245903,
+      "word": "申小豹仿妆",
+      "onboard_time": 1739845576,
+      "rank": 18,
+      "category": "电影,美妆"
+    },
+    {
       "raw_hot": 242316,
       "num": 242316,
       "word": "乌方不承认美俄谈判达成协议",
@@ -347,20 +387,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 239272,
+      "num": 239272,
+      "word": "橘子冒烟小心肺部真菌感染",
+      "onboard_time": 1739846478,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 235263,
       "num": 235263,
       "word": "曝韦雪今年直播收入已超9亿",
       "onboard_time": 1739790381,
       "rank": 20,
       "category": "网红"
-    },
-    {
-      "raw_hot": 229896,
-      "num": 229896,
-      "word": "申小豹仿妆",
-      "onboard_time": 1739845576,
-      "rank": 18,
-      "category": "电影,美妆"
     },
     {
       "raw_hot": 224467,
@@ -435,20 +475,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 202848,
-      "num": 202848,
-      "word": "橘子冒烟小心肺部真菌感染",
-      "onboard_time": 1739846478,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 203580,
+      "num": 307563,
+      "word": "美航司客机翻转落地内部一片狼藉",
+      "onboard_time": 1739843297,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
-      "raw_hot": 202517,
-      "num": 175380,
-      "word": "网红顾茜茜说日收入30万都是辛苦钱",
-      "onboard_time": 1739846538,
-      "rank": 30,
-      "category": "网红"
+      "raw_hot": 199383,
+      "num": 199383,
+      "word": "哪吒2港澳定档22日",
+      "onboard_time": 1739846478,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 189023,
@@ -467,20 +507,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 181907,
+      "num": 181907,
+      "word": "刘浩存文淇柏林电影节第二套look",
+      "onboard_time": 1739842998,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 177841,
       "num": 177841,
       "word": "女生被催婚催烦一口气把长发剪了",
       "onboard_time": 1739803582,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 175382,
-      "num": 175382,
-      "word": "刘浩存文淇柏林电影节第二套look",
-      "onboard_time": 1739842998,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 172020,
@@ -513,14 +553,6 @@
       "onboard_time": 1739840419,
       "rank": 38,
       "category": "民生新闻,国内时政"
-    },
-    {
-      "raw_hot": 165311,
-      "num": 165311,
-      "word": "哪吒2港澳定档22日",
-      "onboard_time": 1739846478,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 163091,
@@ -571,16 +603,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 152511,
-      "num": 152511,
-      "word": "向太公开最年轻照片神似郭碧婷",
-      "onboard_time": 1739846899,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 152133,
-      "num": 152133,
+      "raw_hot": 152136,
+      "num": 152136,
       "word": "为防AI作业老师说不用补寒假作业",
       "onboard_time": 1739846538,
       "rank": 40,
@@ -660,7 +684,7 @@
     },
     {
       "raw_hot": 138467,
-      "num": 152830,
+      "num": 181864,
       "word": "缅方在妙瓦底再抓捕273人",
       "onboard_time": 1739843537,
       "rank": 41,
@@ -673,6 +697,14 @@
       "onboard_time": 1739836459,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134480,
+      "num": 134480,
+      "word": "俄乌战争谈判乌克兰和欧洲未被邀请",
+      "onboard_time": 1739846779,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 133541,
@@ -705,6 +737,14 @@
       "onboard_time": 1739843719,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124781,
+      "num": 124781,
+      "word": "种地吧今天铺基质土",
+      "onboard_time": 1739847560,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 124581,
@@ -747,12 +787,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116535,
+      "num": 200353,
+      "word": "深圳福田AI员工上线",
+      "onboard_time": 1739847439,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115341,
-      "num": 206402,
+      "num": 239539,
       "word": "科比东契奇巨幅壁画",
       "onboard_time": 1739845818,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111733,
+      "num": 175294,
+      "word": "金赛纶在话剧排练时脸色变得煞白",
+      "onboard_time": 1739846961,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 102450,
@@ -779,14 +835,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 94567,
-      "num": 307563,
-      "word": "美航司客机翻转落地内部一片狼藉",
-      "onboard_time": 1739843297,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 94044,
       "num": 94044,
       "word": "哪吒2发破120亿海报",
@@ -801,14 +849,6 @@
       "onboard_time": 1739802443,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 91090,
-      "num": 175294,
-      "word": "金赛纶在话剧排练时脸色变得煞白",
-      "onboard_time": 1739846961,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 91074,
@@ -1099,20 +1139,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 14357,
+      "num": 158389,
+      "word": "四菜一汤家常菜",
+      "onboard_time": 1739846961,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 12196,
       "num": 26528,
       "word": "企业家就促进民营经济发展提出意见建议",
       "onboard_time": 1739814793,
       "rank": 32,
       "category": "国内时政,财经"
-    },
-    {
-      "raw_hot": 11002,
-      "num": 152165,
-      "word": "四菜一汤家常菜",
-      "onboard_time": 1739846961,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 9712,
