@@ -1,6 +1,6 @@
 {
   "startTime": 1739896170867,
-  "endTime": 1739917286085,
+  "endTime": 1739918335929,
   "band_list": [
     {
       "raw_hot": 1448214,
@@ -155,6 +155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 254612,
+      "num": 474140,
+      "word": "俄美决定未来将在多领域合作",
+      "onboard_time": 1739913611,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 243308,
       "num": 243308,
       "word": "广州一街道招聘环卫工要求35岁以下",
@@ -219,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172640,
+      "num": 86220,
+      "word": "陈晓陈妍希 1370天",
+      "onboard_time": 1739910311,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163271,
       "num": 163271,
       "word": "留几手演戏",
@@ -233,14 +249,6 @@
       "onboard_time": 1739866042,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 157680,
-      "num": 365506,
-      "word": "俄美决定未来将在多领域合作",
-      "onboard_time": 1739913611,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 157403,
@@ -315,14 +323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 115484,
-      "num": 59235,
-      "word": "陈晓陈妍希 1370天",
-      "onboard_time": 1739910311,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 114298,
       "num": 114298,
       "word": "祝贺哪吒又拿第1再创历史",
@@ -361,6 +361,14 @@
       "onboard_time": 1739855067,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98051,
+      "num": 98051,
+      "word": "19岁小伙644元1克卖金饰骗近20万",
+      "onboard_time": 1739913672,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91607,
@@ -419,20 +427,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 65266,
-      "num": 65266,
-      "word": "19岁小伙644元1克卖金饰骗近20万",
-      "onboard_time": 1739913672,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 64995,
       "num": 84194,
       "word": "法老否认出轨",
       "onboard_time": 1739897955,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 60218,
+      "num": 91682,
+      "word": "石矶娘娘有广州公司参与设计",
+      "onboard_time": 1739895799,
+      "rank": 40,
+      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 54920,
@@ -451,12 +459,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 42728,
-      "num": 91682,
-      "word": "石矶娘娘有广州公司参与设计",
-      "onboard_time": 1739895799,
-      "rank": 40,
-      "category": "民生新闻,电影"
+      "raw_hot": 45649,
+      "num": 45649,
+      "word": "台媒称王大陆兵役逃了10年",
+      "onboard_time": 1739917452,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 42091,
@@ -467,12 +475,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38707,
+      "num": 38707,
+      "word": "医院回应护士向患者下跪道歉",
+      "onboard_time": 1739908512,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38294,
       "num": 48950,
       "word": "美客机加拿大降落时侧翻至少17伤",
       "onboard_time": 1739899874,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 37479,
+      "num": 37479,
+      "word": "美队4中国预测票房连续下跌至1.2亿",
+      "onboard_time": 1739903352,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 35912,
@@ -507,28 +531,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 30279,
-      "num": 30279,
-      "word": "美队4中国预测票房连续下跌至1.2亿",
-      "onboard_time": 1739903352,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 28921,
-      "num": 28921,
-      "word": "医院回应护士向患者下跪道歉",
-      "onboard_time": 1739908512,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 28154,
       "num": 28154,
       "word": "桑头牌",
       "onboard_time": 1739900712,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 27852,
+      "num": 27852,
+      "word": "俄说加入欧盟是乌克兰主权权利",
+      "onboard_time": 1739887403,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 27541,
@@ -553,14 +569,6 @@
       "onboard_time": 1739897716,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22018,
-      "num": 22449,
-      "word": "俄说加入欧盟是乌克兰主权权利",
-      "onboard_time": 1739887403,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 21971,
@@ -625,6 +633,14 @@
       "onboard_time": 1739906532,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 14652,
+      "num": 88680,
+      "word": "泽连斯基就美俄会谈发声",
+      "onboard_time": 1739917813,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 14282,
