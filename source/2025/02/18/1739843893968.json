@@ -1,0 +1,410 @@
+{
+  "runTime": 1739843893968,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1373548,
+        "num": 1373548,
+        "word": "AI公务员上岗",
+        "onboard_time": 1739835977,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 804082,
+        "num": 804082,
+        "word": "石国瑞逝世",
+        "onboard_time": 1739837900,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7007,
+        "num": 718356,
+        "word": "中国式现代化的万千气象海南行",
+        "onboard_time": 1739782103,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 655547,
+        "num": 655547,
+        "word": "6万买饺子导演高仿号当事人发声",
+        "onboard_time": 1739810358,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 582676,
+        "num": 582676,
+        "word": "专家称不必过于担忧AI抢人类铁饭碗",
+        "onboard_time": 1739842398,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 575953,
+        "num": 575953,
+        "word": "相柳这次终于是桐华的男主了",
+        "onboard_time": 1739838620,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 553376,
+        "num": 553376,
+        "word": "AI才女罗福莉已到新岗位上班",
+        "onboard_time": 1739836278,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 460613,
+        "num": 460613,
+        "word": "红房子",
+        "onboard_time": 1739802081,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 448113,
+        "num": 448113,
+        "word": "哪吒2进入全球影史票房前9",
+        "onboard_time": 1739796981,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 330216,
+        "num": 330216,
+        "word": "春季第二个节气到了",
+        "onboard_time": 1739833394,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 826994,
+        "num": 326786,
+        "word": "沈梦辰杜海涛经历9年爱情长跑",
+        "onboard_time": 1739825951,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165628,
+        "num": 325107,
+        "word": "2025开年的中国给世界亿点点震撼",
+        "onboard_time": 1739840419,
+        "rank": 11,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 724893,
+        "num": 322114,
+        "word": "为什么明星更易患抑郁症",
+        "onboard_time": 1739838680,
+        "rank": 12,
+        "category": "健康医疗,艺人"
+      },
+      {
+        "raw_hot": 557848,
+        "num": 317710,
+        "word": "女子多次试管怀孕乘网约车车祸流产",
+        "onboard_time": 1739801541,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 520840,
+        "num": 314466,
+        "word": "汪峰携女友森林北看演唱会",
+        "onboard_time": 1739833935,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 377784,
+        "num": 308955,
+        "word": "难哄开播",
+        "onboard_time": 1739842759,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307434,
+        "num": 307434,
+        "word": "亲属称罗福莉与丈夫研究领域相同",
+        "onboard_time": 1739840239,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332575,
+        "num": 307389,
+        "word": "原来难哄的是桑延",
+        "onboard_time": 1739836699,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 303695,
+        "num": 303695,
+        "word": "迪丽热巴风衣阔腿裤造型",
+        "onboard_time": 1739835917,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151562,
+        "num": 297127,
+        "word": "加拿大客机翻转落地内部一片狼藉",
+        "onboard_time": 1739843297,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 293288,
+        "num": 293288,
+        "word": "花八万给妈妈补上十几年的社保",
+        "onboard_time": 1739835197,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277138,
+        "num": 277138,
+        "word": "美一客机加拿大降落时发生事故15伤",
+        "onboard_time": 1739838741,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 228594,
+        "num": 228594,
+        "word": "商家用女童跪撩上衣姿势展示童装",
+        "onboard_time": 1739797161,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223012,
+        "num": 223012,
+        "word": "开除树籍",
+        "onboard_time": 1739842038,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200554,
+        "num": 217471,
+        "word": "全红婵等奥运健儿领取终身保障",
+        "onboard_time": 1739840479,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213368,
+        "num": 213368,
+        "word": "多喝五黑汤气血充足睡眠好",
+        "onboard_time": 1739833154,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 206856,
+        "num": 206856,
+        "word": "建议饺子导演学学宫崎骏",
+        "onboard_time": 1739795960,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 206465,
+        "num": 206465,
+        "word": "哪吒2从全球50升到10仅用9天",
+        "onboard_time": 1739818573,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 206097,
+        "num": 206097,
+        "word": "深圳70名AI数智员工上岗",
+        "onboard_time": 1739812394,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205056,
+        "num": 205056,
+        "word": "种地吧直播",
+        "onboard_time": 1739843058,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173845,
+        "num": 173845,
+        "word": "刘浩存文淇柏林电影节第二套look",
+        "onboard_time": 1739842998,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172020,
+        "num": 172020,
+        "word": "官方回应93岁强奸犯进行社区矫正",
+        "onboard_time": 1739801242,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171691,
+        "num": 171691,
+        "word": "加拿大客机事故现场视频",
+        "onboard_time": 1739842218,
+        "rank": 32,
+        "category": "国际时政,国际时政"
+      },
+      {
+        "raw_hot": 171164,
+        "num": 171164,
+        "word": "女生被催婚催烦一口气把长发剪了",
+        "onboard_time": 1739803582,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165658,
+        "num": 165658,
+        "word": "DeepSeek手机版安全使用教程",
+        "onboard_time": 1739842818,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 163346,
+        "num": 163346,
+        "word": "周扬青回应网曝新恋情",
+        "onboard_time": 1739801841,
+        "rank": 35,
+        "category": "时尚,网红"
+      },
+      {
+        "raw_hot": 159472,
+        "num": 159472,
+        "word": "奶奶给孙女缝结界兽套装回头率爆表",
+        "onboard_time": 1739840599,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154917,
+        "num": 154917,
+        "word": "工行竟和居委会批量代开养老金账户",
+        "onboard_time": 1739837178,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150515,
+        "num": 150515,
+        "word": "她穿着最甜的服装做最狠的引体向上",
+        "onboard_time": 1739837479,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 148866,
+        "num": 148866,
+        "word": "我爱的那些人 杨幂",
+        "onboard_time": 1739835017,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141280,
+        "num": 141280,
+        "word": "当事人回应高速旁停车抽打教育小孩",
+        "onboard_time": 1739807599,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138467,
+        "num": 138467,
+        "word": "缅方在妙瓦底再抓捕273人",
+        "onboard_time": 1739843537,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134197,
+        "num": 134197,
+        "word": "66岁单身大妈去养生局感染HPV",
+        "onboard_time": 1739800281,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129515,
+        "num": 129515,
+        "word": "脂肪肝少吃主食还是少吃肉",
+        "onboard_time": 1739802501,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128222,
+        "num": 128222,
+        "word": "孙颖莎林诗栋世排保持第一",
+        "onboard_time": 1739842878,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118316,
+        "num": 118316,
+        "word": "杭州AI主播和真人长得也太像了",
+        "onboard_time": 1739838259,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117105,
+        "num": 117105,
+        "word": "余承恩你还要亲成什么样",
+        "onboard_time": 1739800341,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116240,
+        "num": 116240,
+        "word": "父亲透露金赛纶遭受严重心理创伤",
+        "onboard_time": 1739822050,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116213,
+        "num": 116213,
+        "word": "雨水",
+        "onboard_time": 1739833875,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115172,
+        "num": 115172,
+        "word": "福宝出门晒太阳了",
+        "onboard_time": 1739843719,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#视频看民营企业座谈会现场#"
+    }
+  }
+}
