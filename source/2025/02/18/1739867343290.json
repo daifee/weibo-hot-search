@@ -1,0 +1,410 @@
+{
+  "runTime": 1739867343290,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2973077,
+        "num": 2973077,
+        "word": "于正的发文",
+        "onboard_time": 1739863046,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 687732,
+        "num": 687732,
+        "word": "iPhone17Pro模具曝光",
+        "onboard_time": 1739859515,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 23369,
+        "num": 528089,
+        "word": "文化中国行看雨水节气",
+        "onboard_time": 1739853084,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1331519,
+        "num": 497957,
+        "word": "王大陆被带上警车现场",
+        "onboard_time": 1739855674,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445922,
+        "num": 445922,
+        "word": "韩国空姐打开应急舱门站机翼上自拍",
+        "onboard_time": 1739853025,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 325860,
+        "num": 325860,
+        "word": "18岁抗癌博主晟宝去世",
+        "onboard_time": 1739857777,
+        "rank": 5,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 979762,
+        "num": 325515,
+        "word": "截爆难哄",
+        "onboard_time": 1739857715,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 658740,
+        "num": 325373,
+        "word": "难看",
+        "onboard_time": 1739856215,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323230,
+        "num": 323230,
+        "word": "深圳亚洲杯抽签仪式",
+        "onboard_time": 1739862146,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109413,
+        "num": 306552,
+        "word": "中方回应俄美代表团举行会晤",
+        "onboard_time": 1739866042,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 840140,
+        "num": 290384,
+        "word": "护士因拔针出血跪求患者原谅",
+        "onboard_time": 1739866042,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7519494,
+        "num": 7519494,
+        "word": "陈晓陈妍希离婚",
+        "onboard_time": 1739855131,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425107,
+        "num": 266465,
+        "word": "试管夫妻丈夫中途去世医院拒移植",
+        "onboard_time": 1739860231,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249701,
+        "num": 249701,
+        "word": "专家称不必过于担忧AI抢人类铁饭碗",
+        "onboard_time": 1739842398,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111735,
+        "num": 249610,
+        "word": "四海龙王1个貌1个魅2个冒昧",
+        "onboard_time": 1739866042,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 490364,
+        "num": 249038,
+        "word": "难哄 玄学",
+        "onboard_time": 1739862208,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1818444,
+        "num": 248437,
+        "word": "陈晓赵丽颖 接二搭",
+        "onboard_time": 1739866042,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447098,
+        "num": 248309,
+        "word": "品鉴难哄",
+        "onboard_time": 1739855067,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 388595,
+        "num": 247888,
+        "word": "王大陆被带进问询室",
+        "onboard_time": 1739867242,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58321,
+        "num": 247459,
+        "word": "男子中风小狗狂叫救回一命",
+        "onboard_time": 1739866283,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 441514,
+        "num": 246779,
+        "word": "章若楠演技",
+        "onboard_time": 1739861009,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 979984,
+        "num": 246583,
+        "word": "内娱离婚文案",
+        "onboard_time": 1739858195,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372116,
+        "num": 246020,
+        "word": "难哄",
+        "onboard_time": 1739852005,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66522,
+        "num": 245596,
+        "word": "俄美代表开始在沙特举行会谈",
+        "onboard_time": 1739867064,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103909,
+        "num": 245163,
+        "word": "法老 我从来没说过退圈",
+        "onboard_time": 1739866702,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369423,
+        "num": 244917,
+        "word": "哪吒2预测票房下跌",
+        "onboard_time": 1739844377,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 370328,
+        "num": 244413,
+        "word": "杨幂这句的含金量",
+        "onboard_time": 1739857777,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335153,
+        "num": 243896,
+        "word": "杨丞琳李荣浩婚礼1周年",
+        "onboard_time": 1739854823,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277322,
+        "num": 243541,
+        "word": "浙江妈妈早产生下双胞胎哪吒",
+        "onboard_time": 1739845158,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123808,
+        "num": 242771,
+        "word": "AI主播零失误上岗",
+        "onboard_time": 1739866223,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275438,
+        "num": 242521,
+        "word": "赵露思穿藏族服饰",
+        "onboard_time": 1739862807,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242316,
+        "num": 242316,
+        "word": "93岁男子强奸案被害人系未成年",
+        "onboard_time": 1739865321,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235672,
+        "num": 235672,
+        "word": "宣璐复刻任盈盈原著造型",
+        "onboard_time": 1739865924,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232318,
+        "num": 232318,
+        "word": "韩国人开始抛弃咖啡了",
+        "onboard_time": 1739864243,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73224,
+        "num": 227550,
+        "word": "哪吒2饼饼和父王一起睡",
+        "onboard_time": 1739867303,
+        "rank": 34,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 254024,
+        "num": 226892,
+        "word": "赵露思不用拐杖了",
+        "onboard_time": 1739867242,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225958,
+        "num": 225958,
+        "word": "石矶娘娘东山再起竟要等上亿年",
+        "onboard_time": 1739848879,
+        "rank": 36,
+        "category": "科学科普,电影"
+      },
+      {
+        "raw_hot": 225276,
+        "num": 225276,
+        "word": "DeepSeek迎来最强队友",
+        "onboard_time": 1739849961,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 487504,
+        "num": 224954,
+        "word": "陈妍希方声明",
+        "onboard_time": 1739860770,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223897,
+        "num": 223897,
+        "word": "新学期国家助学金提标扩面",
+        "onboard_time": 1739864065,
+        "rank": 39,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 222586,
+        "num": 222586,
+        "word": "王佑硕说顶线的艺人是肖战",
+        "onboard_time": 1739864484,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219481,
+        "num": 219481,
+        "word": "鹿晗关注了sana的ins",
+        "onboard_time": 1739847319,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217747,
+        "num": 217747,
+        "word": "难哄把OST大户聚齐了",
+        "onboard_time": 1739850322,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212862,
+        "num": 212862,
+        "word": "哪吒2突破122亿",
+        "onboard_time": 1739860291,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202939,
+        "num": 202939,
+        "word": "女子2个月减重40斤后竟严重脱发",
+        "onboard_time": 1739865443,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208281,
+        "num": 199495,
+        "word": "哪吒2冲击全球动画票房第1",
+        "onboard_time": 1739851403,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195317,
+        "num": 195317,
+        "word": "偷偷藏不住",
+        "onboard_time": 1739860350,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186511,
+        "num": 186511,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1739866943,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183128,
+        "num": 183128,
+        "word": "难哄 电视剧界汪峰",
+        "onboard_time": 1739861908,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181056,
+        "num": 181056,
+        "word": "爱迪丽热巴的心却不分四季",
+        "onboard_time": 1739866582,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#希望广大民营企业和民营企业家胸怀报国志#"
+    }
+  }
+}

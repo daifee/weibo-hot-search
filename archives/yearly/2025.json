@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1739864142343,
+  "endTime": 1739867343290,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1339,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2973077,
+      "num": 2973077,
+      "word": "于正的发文",
+      "onboard_time": 1739863046,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2972538,
       "num": 2972538,
       "word": "任敏美甲",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1739352320,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2200902,
-      "num": 2200902,
-      "word": "多企业系统接入DeepSeek",
-      "onboard_time": 1739752820,
-      "rank": 0,
-      "category": "互联网"
     }
   ],
   "hotgov_list": [

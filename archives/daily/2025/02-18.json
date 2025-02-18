@@ -1,6 +1,6 @@
 {
   "startTime": 1739809696665,
-  "endTime": 1739864142343,
+  "endTime": 1739867343290,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -59,6 +59,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2973077,
+      "num": 2973077,
+      "word": "于正的发文",
+      "onboard_time": 1739863046,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2864001,
       "num": 407361,
       "word": "内娱离婚文案",
@@ -105,6 +113,14 @@
       "onboard_time": 1739845158,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1818444,
+      "num": 248437,
+      "word": "陈晓赵丽颖 接二搭",
+      "onboard_time": 1739866042,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1706142,
@@ -177,14 +193,6 @@
       "onboard_time": 1739846538,
       "rank": 30,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1098103,
-      "num": 332209,
-      "word": "于正的发文",
-      "onboard_time": 1739863046,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 1028646,
@@ -272,6 +280,14 @@
       "word": "小行星或撞地球是虚惊还是严重威胁",
       "onboard_time": 1739804721,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 840140,
+      "num": 290384,
+      "word": "护士因拔针出血跪求患者原谅",
+      "onboard_time": 1739866042,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -419,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 490364,
+      "num": 333967,
+      "word": "难哄 玄学",
+      "onboard_time": 1739862208,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 490091,
       "num": 427620,
       "word": "哪吒2冲击全球动画票房第1",
@@ -433,6 +457,14 @@
       "onboard_time": 1739848638,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 487504,
+      "num": 336786,
+      "word": "陈妍希方声明",
+      "onboard_time": 1739860770,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 461043,
@@ -483,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 441514,
+      "num": 313820,
+      "word": "章若楠演技",
+      "onboard_time": 1739861009,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 435440,
       "num": 403842,
       "word": "王楚钦给肖凯文加油",
@@ -507,20 +547,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 411897,
-      "num": 333967,
-      "word": "难哄 玄学",
-      "onboard_time": 1739862208,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 398294,
       "num": 286172,
       "word": "余承恩你还要亲成什么样",
       "onboard_time": 1739800341,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 388595,
+      "num": 247888,
+      "word": "王大陆被带进问询室",
+      "onboard_time": 1739867242,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 383122,
@@ -651,14 +691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 336786,
-      "num": 336786,
-      "word": "陈妍希方声明",
-      "onboard_time": 1739860770,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 333656,
       "num": 393416,
       "word": "赵露思穿藏族服饰",
@@ -721,14 +753,6 @@
       "onboard_time": 1739845576,
       "rank": 18,
       "category": "电影,美妆"
-    },
-    {
-      "raw_hot": 313820,
-      "num": 313820,
-      "word": "章若楠演技",
-      "onboard_time": 1739861009,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 312910,
@@ -875,6 +899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 254024,
+      "num": 226892,
+      "word": "赵露思不用拐杖了",
+      "onboard_time": 1739867242,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 246176,
       "num": 246176,
       "word": "章昊模仿徐冬冬姿势",
@@ -891,12 +923,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 242316,
+      "num": 242316,
+      "word": "93岁男子强奸案被害人系未成年",
+      "onboard_time": 1739865321,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 241458,
       "num": 241458,
       "word": "全红婵等奥运健儿领取终身保障",
       "onboard_time": 1739840479,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 235672,
+      "num": 235672,
+      "word": "宣璐复刻任盈盈原著造型",
+      "onboard_time": 1739865924,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 235263,
@@ -923,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232318,
+      "num": 232318,
+      "word": "韩国人开始抛弃咖啡了",
+      "onboard_time": 1739864243,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 224833,
       "num": 603476,
       "word": "多品牌回应咖啡是否涨价",
@@ -947,6 +1003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 223897,
+      "num": 313092,
+      "word": "新学期国家助学金提标扩面",
+      "onboard_time": 1739864065,
+      "rank": 36,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 223012,
       "num": 223012,
       "word": "开除树籍",
@@ -961,6 +1025,14 @@
       "onboard_time": 1739795119,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 222586,
+      "num": 222586,
+      "word": "王佑硕说顶线的艺人是肖战",
+      "onboard_time": 1739864484,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 222036,
@@ -1083,6 +1155,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 202939,
+      "num": 202939,
+      "word": "女子2个月减重40斤后竟严重脱发",
+      "onboard_time": 1739865443,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202288,
       "num": 414515,
       "word": "当火象和土象开始恋爱",
@@ -1155,12 +1235,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 186511,
+      "num": 186511,
+      "word": "狙击蝴蝶",
+      "onboard_time": 1739866943,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 182623,
       "num": 182623,
       "word": "雨水",
       "onboard_time": 1739833875,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181056,
+      "num": 181056,
+      "word": "爱迪丽热巴的心却不分四季",
+      "onboard_time": 1739866582,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 181013,
@@ -1515,6 +1611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123808,
+      "num": 242771,
+      "word": "AI主播零失误上岗",
+      "onboard_time": 1739866223,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123502,
       "num": 123502,
       "word": "杨洋展昭杀青请客",
@@ -1555,20 +1659,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 113173,
-      "num": 313092,
-      "word": "新学期国家助学金提标扩面",
-      "onboard_time": 1739864065,
-      "rank": 36,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 112153,
       "num": 584359,
       "word": "史上首个猪肾人体移植临床获批",
       "onboard_time": 1739849841,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111735,
+      "num": 249610,
+      "word": "四海龙王1个貌1个魅2个冒昧",
+      "onboard_time": 1739866042,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 109413,
+      "num": 306552,
+      "word": "中方回应俄美代表团举行会晤",
+      "onboard_time": 1739866042,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 103909,
+      "num": 245163,
+      "word": "法老 我从来没说过退圈",
+      "onboard_time": 1739866702,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 103510,
@@ -1755,6 +1875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73224,
+      "num": 227550,
+      "word": "哪吒2饼饼和父王一起睡",
+      "onboard_time": 1739867303,
+      "rank": 34,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 72585,
       "num": 370769,
       "word": "当地纪委介入调查局长酒后砸店伤人",
@@ -1809,6 +1937,14 @@
       "onboard_time": 1739808138,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 66522,
+      "num": 245596,
+      "word": "俄美代表开始在沙特举行会谈",
+      "onboard_time": 1739867064,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66243,
@@ -1888,6 +2024,14 @@
       "word": "非人源DNA锁定咬人犬只",
       "onboard_time": 1739862686,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58321,
+      "num": 247459,
+      "word": "男子中风小狗狂叫救回一命",
+      "onboard_time": 1739866283,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
