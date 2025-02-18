@@ -1,0 +1,410 @@
+{
+  "runTime": 1739852822212,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7898526,
+        "num": 7898526,
+        "word": "曝王大陆涉嫌逃兵役被捕",
+        "onboard_time": 1739849540,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1431105,
+        "num": 1431105,
+        "word": "石矶娘娘东山再起竟要等上亿年",
+        "onboard_time": 1739848879,
+        "rank": 1,
+        "category": "科学科普,电影"
+      },
+      {
+        "raw_hot": 5519,
+        "num": 708355,
+        "word": "春耕沃野生机勃勃",
+        "onboard_time": 1739852724,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2172876,
+        "num": 691083,
+        "word": "哪吒2预测票房下跌",
+        "onboard_time": 1739844377,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1620421,
+        "num": 681507,
+        "word": "马斯克查美社保称发现360岁老人",
+        "onboard_time": 1739846478,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 637639,
+        "num": 637639,
+        "word": "DeepSeek迎来最强队友",
+        "onboard_time": 1739849961,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1651848,
+        "num": 628836,
+        "word": "难哄开播",
+        "onboard_time": 1739842759,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1298422,
+        "num": 620538,
+        "word": "鹿晗关注了sana的ins",
+        "onboard_time": 1739847319,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 507288,
+        "num": 603908,
+        "word": "联通回应流量超34G欠费8700元",
+        "onboard_time": 1739848758,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180239,
+        "num": 603476,
+        "word": "多品牌回应咖啡是否涨价",
+        "onboard_time": 1739851765,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 962269,
+        "num": 584579,
+        "word": "网红顾茜茜说日收入30万都是辛苦钱",
+        "onboard_time": 1739846538,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 937532,
+        "num": 571368,
+        "word": "难哄把OST大户聚齐了",
+        "onboard_time": 1739850322,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 570132,
+        "num": 570132,
+        "word": "专家称不必过于担忧AI抢人类铁饭碗",
+        "onboard_time": 1739842398,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74749,
+        "num": 528553,
+        "word": "南京一卤货作坊脏乱操作间紧挨厕所",
+        "onboard_time": 1739851765,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62540,
+        "num": 520159,
+        "word": "被指居者控诉被办案人员吊起电击",
+        "onboard_time": 1739851765,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 818072,
+        "num": 518988,
+        "word": "迪丽热巴直播",
+        "onboard_time": 1739850442,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 517192,
+        "num": 517192,
+        "word": "深圳福田AI员工上线",
+        "onboard_time": 1739847439,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 787814,
+        "num": 517152,
+        "word": "朴灿烈遛狗偶遇RM节目录制",
+        "onboard_time": 1739851585,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76936,
+        "num": 517067,
+        "word": "曾黎介绍最早的宋代龙王敖光",
+        "onboard_time": 1739852365,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22323,
+        "num": 516973,
+        "word": "上海超百家医院报名试点商保同步结算",
+        "onboard_time": 1739852244,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 924262,
+        "num": 516863,
+        "word": "浙江妈妈早产生下双胞胎哪吒",
+        "onboard_time": 1739845158,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8918,
+        "num": 516745,
+        "word": "中国式现代化的万千气象海南行",
+        "onboard_time": 1739782103,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 786300,
+        "num": 516679,
+        "word": "难哄",
+        "onboard_time": 1739852005,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 593622,
+        "num": 516490,
+        "word": "张凌赫首部男主现偶剧",
+        "onboard_time": 1739849841,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 521864,
+        "num": 516421,
+        "word": "光线传媒再度巨震",
+        "onboard_time": 1739851165,
+        "rank": 24,
+        "category": "电影,财经"
+      },
+      {
+        "raw_hot": 54127,
+        "num": 516348,
+        "word": "加拿大翻覆客机着陆时画面曝光",
+        "onboard_time": 1739851945,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 125101,
+        "num": 516212,
+        "word": "脾胃虚弱会让人变丑",
+        "onboard_time": 1739851765,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 56736,
+        "num": 516158,
+        "word": "沈星回风驰电掣",
+        "onboard_time": 1739852724,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 290023,
+        "num": 516051,
+        "word": "铁打的女主打铁的男主",
+        "onboard_time": 1739851105,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146209,
+        "num": 515963,
+        "word": "为什么上网感觉都是高收入人群",
+        "onboard_time": 1739852303,
+        "rank": 29,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 515884,
+        "num": 515884,
+        "word": "AI公务员上岗",
+        "onboard_time": 1739835977,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 489153,
+        "num": 489153,
+        "word": "酒店擅自分装洗发水沐浴露涉嫌违法",
+        "onboard_time": 1739848638,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 448765,
+        "num": 448765,
+        "word": "眼科医生眼里最伤眼睛的行为",
+        "onboard_time": 1739847498,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 427620,
+        "num": 427620,
+        "word": "哪吒2冲击全球动画票房第1",
+        "onboard_time": 1739851403,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 422608,
+        "num": 422608,
+        "word": "哇唧唧哇为了难哄拼了",
+        "onboard_time": 1739848820,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83949,
+        "num": 378991,
+        "word": "又一国产大模型宣布开源",
+        "onboard_time": 1739849721,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 86956,
+        "num": 367918,
+        "word": "吴敬平再晒书法青松",
+        "onboard_time": 1739850081,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 362563,
+        "num": 362563,
+        "word": "哪吒2在联合国特别放映",
+        "onboard_time": 1739851585,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 347357,
+        "num": 347357,
+        "word": "大学生刷短视频一个月流量超8000元",
+        "onboard_time": 1739851403,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342178,
+        "num": 342178,
+        "word": "女子多次试管怀孕乘网约车车祸流产",
+        "onboard_time": 1739801541,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95081,
+        "num": 330297,
+        "word": "大衣哥辟谣买豪宅给儿媳开金店",
+        "onboard_time": 1739849780,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327122,
+        "num": 327122,
+        "word": "打工人就业收入你排在什么水平",
+        "onboard_time": 1739851345,
+        "rank": 41,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 321478,
+        "num": 321478,
+        "word": "橘子冒烟小心肺部真菌感染",
+        "onboard_time": 1739846478,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 312910,
+        "num": 312910,
+        "word": "光遇复刻",
+        "onboard_time": 1739852183,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 286668,
+        "num": 286668,
+        "word": "沈梦辰杜海涛经历9年爱情长跑",
+        "onboard_time": 1739825951,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284848,
+        "num": 284848,
+        "word": "孙俪分享小花学瑜伽日常",
+        "onboard_time": 1739851945,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267569,
+        "num": 267569,
+        "word": "向太公开最年轻照片神似郭碧婷",
+        "onboard_time": 1739846899,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218890,
+        "num": 218890,
+        "word": "虔诚有小宝宝了",
+        "onboard_time": 1739850621,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 215291,
+        "num": 215291,
+        "word": "春季第二个节气到了",
+        "onboard_time": 1739833394,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214782,
+        "num": 214782,
+        "word": "周深伦敦演唱会补偿力度",
+        "onboard_time": 1739852183,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#对民营企业的期待要求在这20字里#"
+    }
+  }
+}

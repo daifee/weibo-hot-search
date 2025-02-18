@@ -1,7 +1,15 @@
 {
   "startTime": 1739809696665,
-  "endTime": 1739849996620,
+  "endTime": 1739852822212,
   "band_list": [
+    {
+      "raw_hot": 7898526,
+      "num": 7898526,
+      "word": "曝王大陆涉嫌逃兵役被捕",
+      "onboard_time": 1739849540,
+      "rank": 6,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2716920,
       "num": 2716920,
@@ -12,7 +20,7 @@
     },
     {
       "raw_hot": 1851322,
-      "num": 303599,
+      "num": 516863,
       "word": "浙江妈妈早产生下双胞胎哪吒",
       "onboard_time": 1739845158,
       "rank": 10,
@@ -25,6 +33,14 @@
       "onboard_time": 1739846478,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1651848,
+      "num": 814324,
+      "word": "难哄开播",
+      "onboard_time": 1739842759,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 1627621,
@@ -51,6 +67,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1431105,
+      "num": 1431105,
+      "word": "石矶娘娘东山再起竟要等上亿年",
+      "onboard_time": 1739848879,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1189476,
       "num": 271163,
       "word": "网红顾茜茜自曝日收入超30万",
@@ -59,16 +83,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1036031,
-      "num": 411679,
-      "word": "曝王大陆涉嫌逃兵役被捕",
-      "onboard_time": 1739849540,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 990831,
-      "num": 477776,
+      "num": 584579,
       "word": "网红顾茜茜说日收入30万都是辛苦钱",
       "onboard_time": 1739846538,
       "rank": 30,
@@ -81,6 +97,14 @@
       "onboard_time": 1739837900,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 937532,
+      "num": 571368,
+      "word": "难哄把OST大户聚齐了",
+      "onboard_time": 1739850322,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 924478,
@@ -115,11 +139,27 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 814324,
-      "num": 814324,
-      "word": "难哄开播",
-      "onboard_time": 1739842759,
-      "rank": 42,
+      "raw_hot": 818072,
+      "num": 518988,
+      "word": "迪丽热巴直播",
+      "onboard_time": 1739850442,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 787814,
+      "num": 517152,
+      "word": "朴灿烈遛狗偶遇RM节目录制",
+      "onboard_time": 1739851585,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 786300,
+      "num": 516679,
+      "word": "难哄",
+      "onboard_time": 1739852005,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -155,6 +195,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 637639,
+      "num": 637639,
+      "word": "DeepSeek迎来最强队友",
+      "onboard_time": 1739849961,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 593622,
+      "num": 516490,
+      "word": "张凌赫首部男主现偶剧",
+      "onboard_time": 1739849841,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 582676,
       "num": 582676,
       "word": "专家称不必过于担忧AI抢人类铁饭碗",
@@ -187,6 +243,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 521864,
+      "num": 516421,
+      "word": "光线传媒再度巨震",
+      "onboard_time": 1739851165,
+      "rank": 24,
+      "category": "电影,财经"
+    },
+    {
+      "raw_hot": 517192,
+      "num": 517192,
+      "word": "深圳福田AI员工上线",
+      "onboard_time": 1739847439,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 507288,
+      "num": 603908,
+      "word": "联通回应流量超34G欠费8700元",
+      "onboard_time": 1739848758,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 492983,
       "num": 492983,
       "word": "当事人回应高速旁停车抽打教育小孩",
@@ -195,11 +275,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 484328,
-      "num": 484328,
-      "word": "深圳福田AI员工上线",
-      "onboard_time": 1739847439,
-      "rank": 27,
+      "raw_hot": 489153,
+      "num": 489153,
+      "word": "酒店擅自分装洗发水沐浴露涉嫌违法",
+      "onboard_time": 1739848638,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -211,6 +291,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 448765,
+      "num": 448765,
+      "word": "眼科医生眼里最伤眼睛的行为",
+      "onboard_time": 1739847498,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 446917,
       "num": 446917,
       "word": "亲属称罗福莉与丈夫研究领域相同",
@@ -220,11 +308,19 @@
     },
     {
       "raw_hot": 446759,
-      "num": 282088,
+      "num": 422608,
       "word": "哇唧唧哇为了难哄拼了",
       "onboard_time": 1739848820,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 427620,
+      "num": 427620,
+      "word": "哪吒2冲击全球动画票房第1",
+      "onboard_time": 1739851403,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 426545,
@@ -243,20 +339,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 411833,
-      "num": 246042,
-      "word": "眼科医生眼里最伤眼睛的行为",
-      "onboard_time": 1739847498,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 398294,
       "num": 286172,
       "word": "余承恩你还要亲成什么样",
       "onboard_time": 1739800341,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 362563,
+      "num": 362563,
+      "word": "哪吒2在联合国特别放映",
+      "onboard_time": 1739851585,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 360436,
@@ -299,6 +395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 347357,
+      "num": 347357,
+      "word": "大学生刷短视频一个月流量超8000元",
+      "onboard_time": 1739851403,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 346234,
       "num": 164323,
       "word": "金赛纶负债高达7亿韩元",
@@ -323,14 +427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 335990,
-      "num": 335990,
-      "word": "酒店擅自分装洗发水沐浴露涉嫌违法",
-      "onboard_time": 1739848638,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 333337,
       "num": 333337,
       "word": "美一客机加拿大降落时发生事故15伤",
@@ -347,12 +443,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 327122,
+      "num": 327122,
+      "word": "打工人就业收入你排在什么水平",
+      "onboard_time": 1739851345,
+      "rank": 41,
+      "category": "民生新闻,情感"
+    },
+    {
       "raw_hot": 316852,
       "num": 316852,
       "word": "申小豹仿妆",
       "onboard_time": 1739845576,
       "rank": 18,
       "category": "电影,美妆"
+    },
+    {
+      "raw_hot": 312910,
+      "num": 312910,
+      "word": "光遇复刻",
+      "onboard_time": 1739852183,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 301403,
@@ -387,6 +499,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 290023,
+      "num": 516051,
+      "word": "铁打的女主打铁的男主",
+      "onboard_time": 1739851105,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 286097,
       "num": 286097,
       "word": "仿冒DeepSeek手机病毒出现",
@@ -395,12 +515,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 283981,
-      "num": 283981,
-      "word": "DeepSeek迎来最强队友",
-      "onboard_time": 1739849961,
-      "rank": 19,
-      "category": "互联网"
+      "raw_hot": 284848,
+      "num": 284848,
+      "word": "孙俪分享小花学瑜伽日常",
+      "onboard_time": 1739851945,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 267641,
@@ -441,14 +561,6 @@
       "onboard_time": 1739840479,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 241353,
-      "num": 241353,
-      "word": "联通回应流量超34G欠费8700元",
-      "onboard_time": 1739848758,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 235263,
@@ -531,6 +643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 218890,
+      "num": 218890,
+      "word": "虔诚有小宝宝了",
+      "onboard_time": 1739850621,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 217592,
       "num": 217592,
       "word": "一客机加拿大降落时发生事故多人伤",
@@ -539,12 +659,12 @@
       "category": "国际时政,国际时政"
     },
     {
-      "raw_hot": 207902,
-      "num": 398268,
-      "word": "石矶娘娘东山再起竟要等上亿年",
-      "onboard_time": 1739848879,
-      "rank": 33,
-      "category": "电影"
+      "raw_hot": 214782,
+      "num": 214782,
+      "word": "周深伦敦演唱会补偿力度",
+      "onboard_time": 1739852183,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 206150,
@@ -619,14 +739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 186865,
-      "num": 186865,
-      "word": "张凌赫首部男主现偶剧",
-      "onboard_time": 1739849841,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 182623,
       "num": 182623,
       "word": "雨水",
@@ -641,6 +753,14 @@
       "onboard_time": 1739846779,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 180239,
+      "num": 603476,
+      "word": "多品牌回应咖啡是否涨价",
+      "onboard_time": 1739851765,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 177841,
@@ -795,6 +915,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 146209,
+      "num": 515963,
+      "word": "为什么上网感觉都是高收入人群",
+      "onboard_time": 1739852303,
+      "rank": 29,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 144425,
       "num": 144425,
       "word": "桑延20个6",
@@ -852,7 +980,7 @@
     },
     {
       "raw_hot": 136390,
-      "num": 136390,
+      "num": 330297,
       "word": "大衣哥辟谣买豪宅给儿媳开金店",
       "onboard_time": 1739849780,
       "rank": 45,
@@ -900,7 +1028,7 @@
     },
     {
       "raw_hot": 129944,
-      "num": 130471,
+      "num": 378991,
       "word": "又一国产大模型宣布开源",
       "onboard_time": 1739849721,
       "rank": 48,
@@ -921,6 +1049,14 @@
       "onboard_time": 1739843719,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125101,
+      "num": 516212,
+      "word": "脾胃虚弱会让人变丑",
+      "onboard_time": 1739851765,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 124781,
@@ -1027,6 +1163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 86956,
+      "num": 367918,
+      "word": "吴敬平再晒书法青松",
+      "onboard_time": 1739850081,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83079,
       "num": 83079,
       "word": "你被北大录取后的大学生活",
@@ -1056,6 +1200,22 @@
       "word": "300斤孕妈背部脂肪8cm高危产子",
       "onboard_time": 1739797761,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76936,
+      "num": 517067,
+      "word": "曾黎介绍最早的宋代龙王敖光",
+      "onboard_time": 1739852365,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 74749,
+      "num": 528553,
+      "word": "南京一卤货作坊脏乱操作间紧挨厕所",
+      "onboard_time": 1739851765,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -1115,6 +1275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 62540,
+      "num": 520159,
+      "word": "被指居者控诉被办案人员吊起电击",
+      "onboard_time": 1739851765,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62111,
       "num": 63124,
       "word": "语文老师粉笔画哪吒引惊呼",
@@ -1160,6 +1328,22 @@
       "word": "美国冬季风暴死亡升至11人",
       "onboard_time": 1739832854,
       "rank": 9,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 56736,
+      "num": 516158,
+      "word": "沈星回风驰电掣",
+      "onboard_time": 1739852724,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 54127,
+      "num": 516348,
+      "word": "加拿大翻覆客机着陆时画面曝光",
+      "onboard_time": 1739851945,
+      "rank": 25,
       "category": "海外新闻"
     },
     {
@@ -1291,6 +1475,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 22323,
+      "num": 516973,
+      "word": "上海超百家医院报名试点商保同步结算",
+      "onboard_time": 1739852244,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21778,
       "num": 50338,
       "word": "武汉辅警韩靖回应抱娃狂奔500米送医",
@@ -1393,6 +1585,14 @@
       "onboard_time": 1739820851,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 5519,
+      "num": 708355,
+      "word": "春耕沃野生机勃勃",
+      "onboard_time": 1739852724,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -1401,6 +1601,9 @@
     },
     {
       "word": "#民营经济发展前景广阔大有可为#"
+    },
+    {
+      "word": "#对民营企业的期待要求在这20字里#"
     }
   ]
 }

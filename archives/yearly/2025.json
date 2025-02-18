@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1739849996620,
+  "endTime": 1739852822212,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -392,6 +392,14 @@
       "word": "汪小菲说大S是我的家人",
       "onboard_time": 1738584151,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 7898526,
+      "num": 7898526,
+      "word": "曝王大陆涉嫌逃兵役被捕",
+      "onboard_time": 1739849540,
+      "rank": 6,
       "category": "艺人"
     },
     {
@@ -2393,14 +2401,6 @@
       "onboard_time": 1737010218,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2163783,
-      "num": 756368,
-      "word": "张雪峰一个口误公司春节放假23天",
-      "onboard_time": 1736566819,
-      "rank": 31,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
