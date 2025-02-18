@@ -1,0 +1,410 @@
+{
+  "runTime": 1739874263623,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1888148,
+        "num": 1888148,
+        "word": "郭艾伦眼睛流血",
+        "onboard_time": 1739872284,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1448535,
+        "num": 1448535,
+        "word": "国产剧终于有真正的出租屋了",
+        "onboard_time": 1739867903,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 7286,
+        "num": 1359817,
+        "word": "中国式现代化的万千气象海南行",
+        "onboard_time": 1739782103,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1323972,
+        "num": 1323972,
+        "word": "郭艾伦 以后可能打不了篮球了",
+        "onboard_time": 1739872403,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 710194,
+        "num": 710194,
+        "word": "DeepSeek回答学什么不会被淘汰",
+        "onboard_time": 1739872284,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 577738,
+        "num": 577738,
+        "word": "难看",
+        "onboard_time": 1739856215,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 409525,
+        "num": 409525,
+        "word": "iPhone17Pro模具曝光",
+        "onboard_time": 1739859515,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 521492,
+        "num": 373947,
+        "word": "品鉴难哄",
+        "onboard_time": 1739855067,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 332578,
+        "num": 332578,
+        "word": "北约突改俄乌冲突措辞",
+        "onboard_time": 1739867123,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 224385,
+        "num": 224385,
+        "word": "解放军回应菲飞机非法闯入中国领空",
+        "onboard_time": 1739873422,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 5961320,
+        "num": 5961320,
+        "word": "陈晓陈妍希离婚",
+        "onboard_time": 1739855131,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3388095,
+        "num": 223854,
+        "word": "王大陆或被判5年以下有期徒刑",
+        "onboard_time": 1739872704,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1325906,
+        "num": 223018,
+        "word": "于正的发文",
+        "onboard_time": 1739863046,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 819496,
+        "num": 222627,
+        "word": "护士因拔针出血跪求患者原谅",
+        "onboard_time": 1739866042,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150859,
+        "num": 222271,
+        "word": "男子酒后殴打陌生人赔了20万获刑",
+        "onboard_time": 1739872824,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 515647,
+        "num": 221439,
+        "word": "截爆难哄",
+        "onboard_time": 1739857715,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1077492,
+        "num": 221254,
+        "word": "王大陆保释后没道歉",
+        "onboard_time": 1739871683,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448685,
+        "num": 220413,
+        "word": "难哄",
+        "onboard_time": 1739852005,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 392668,
+        "num": 220046,
+        "word": "内娱离婚文案",
+        "onboard_time": 1739858195,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114130,
+        "num": 219639,
+        "word": "韩国教师杀害学生被拘仍可领退休金",
+        "onboard_time": 1739873002,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 212502,
+        "num": 218922,
+        "word": "王鹤棣显摆To签球衣",
+        "onboard_time": 1739873062,
+        "rank": 20,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 2354462,
+        "num": 218881,
+        "word": "陈妍希只有生日才敢叫陈晓出去吃饭",
+        "onboard_time": 1739873723,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355440,
+        "num": 218300,
+        "word": "赵樱子回应曾对成毅因戏生情",
+        "onboard_time": 1739870602,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278831,
+        "num": 217598,
+        "word": "哪吒2冲击全球动画票房第1",
+        "onboard_time": 1739851403,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130642,
+        "num": 217353,
+        "word": "沈星回已经在你手里了",
+        "onboard_time": 1739873062,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 216912,
+        "num": 216912,
+        "word": "谢娜李维嘉杜海涛抱着抱着就哭了",
+        "onboard_time": 1739874202,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187296,
+        "num": 216576,
+        "word": "韩国空姐打开应急舱门站机翼上自拍",
+        "onboard_time": 1739853025,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 234405,
+        "num": 215716,
+        "word": "杨幂这句的含金量",
+        "onboard_time": 1739857777,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18669,
+        "num": 215414,
+        "word": "体重正常的人也要当心脂肪肝",
+        "onboard_time": 1739873482,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 52699,
+        "num": 214568,
+        "word": "重庆通报污水排入长江事件",
+        "onboard_time": 1739873422,
+        "rank": 29,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 213918,
+        "num": 213918,
+        "word": "赵露思不用拐杖了",
+        "onboard_time": 1739867242,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178010,
+        "num": 212554,
+        "word": "哪吒2突破122亿",
+        "onboard_time": 1739860291,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 211604,
+        "num": 211604,
+        "word": "美社保局长拒向马斯克交出数据被撤职",
+        "onboard_time": 1739869642,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 184068,
+        "num": 184068,
+        "word": "韩国人开始抛弃咖啡了",
+        "onboard_time": 1739864243,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116390,
+        "num": 182896,
+        "word": "白敬亭章若楠难哄口碑",
+        "onboard_time": 1739871983,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181812,
+        "num": 181812,
+        "word": "亚洲杯赛程",
+        "onboard_time": 1739873603,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175238,
+        "num": 175238,
+        "word": "男子偷妻子攒的19万贼喊捉贼",
+        "onboard_time": 1739870783,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169894,
+        "num": 169894,
+        "word": "中国国乒2月19日亚洲杯赛程",
+        "onboard_time": 1739873964,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44546,
+        "num": 168733,
+        "word": "黑执事古早必出神图",
+        "onboard_time": 1739872883,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 168116,
+        "num": 168116,
+        "word": "杨丞琳李荣浩婚礼1周年",
+        "onboard_time": 1739854823,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164957,
+        "num": 164957,
+        "word": "滤镜 虐恋",
+        "onboard_time": 1739874145,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100001,
+        "num": 156974,
+        "word": "敖丙爹地啊他人很好的",
+        "onboard_time": 1739871262,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 155670,
+        "num": 155670,
+        "word": "哪吒2预测票房下跌",
+        "onboard_time": 1739844377,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155407,
+        "num": 155407,
+        "word": "女子2个月减重40斤后竟严重脱发",
+        "onboard_time": 1739865443,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43633,
+        "num": 153329,
+        "word": "农村花4万用拼多多拼的家怎么样",
+        "onboard_time": 1739870003,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151451,
+        "num": 151451,
+        "word": "红房子",
+        "onboard_time": 1739874145,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148730,
+        "num": 148730,
+        "word": "试管夫妻丈夫中途去世医院拒移植",
+        "onboard_time": 1739860231,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147425,
+        "num": 147425,
+        "word": "檀健次中老年模特拍照",
+        "onboard_time": 1739873903,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78806,
+        "num": 147361,
+        "word": "吃方便面我是认真的",
+        "onboard_time": 1739871082,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 147346,
+        "num": 147346,
+        "word": "翟潇闻非诚勿扰男嘉宾",
+        "onboard_time": 1739870303,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#民营企业座谈会释放三个信号#"
+    }
+  }
+}
