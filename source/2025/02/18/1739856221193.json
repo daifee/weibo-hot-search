@@ -1,0 +1,410 @@
+{
+  "runTime": 1739856221193,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 28357732,
+        "num": 28357732,
+        "word": "陈晓陈妍希离婚",
+        "onboard_time": 1739855131,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10241559,
+        "num": 10241559,
+        "word": "曝王大陆涉嫌逃兵役被捕",
+        "onboard_time": 1739849540,
+        "rank": 1,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 155143,
+        "num": 3986480,
+        "word": "一句句古诗词感受雨水节气",
+        "onboard_time": 1739853745,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1414382,
+        "num": 1414382,
+        "word": "石矶娘娘东山再起竟要等上亿年",
+        "onboard_time": 1739848879,
+        "rank": 3,
+        "category": "科学科普,电影"
+      },
+      {
+        "raw_hot": 928478,
+        "num": 928478,
+        "word": "韩国空姐打开应急舱门站机翼上自拍",
+        "onboard_time": 1739853025,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 4677462,
+        "num": 909468,
+        "word": "陈晓陈妍希 今后各自安好",
+        "onboard_time": 1739855312,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2153166,
+        "num": 846998,
+        "word": "杨丞琳李荣浩婚礼1周年",
+        "onboard_time": 1739854823,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1861574,
+        "num": 758465,
+        "word": "品鉴难哄",
+        "onboard_time": 1739855067,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1070694,
+        "num": 652476,
+        "word": "马斯克查美社保称发现360岁老人",
+        "onboard_time": 1739846478,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 607769,
+        "num": 607769,
+        "word": "专家称不必过于担忧AI抢人类铁饭碗",
+        "onboard_time": 1739842398,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1811937,
+        "num": 606529,
+        "word": "难哄开播",
+        "onboard_time": 1739842759,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1724199,
+        "num": 598764,
+        "word": "哪吒2预测票房下跌",
+        "onboard_time": 1739844377,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1482331,
+        "num": 592986,
+        "word": "鹿晗关注了sana的ins",
+        "onboard_time": 1739847319,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1458610,
+        "num": 591304,
+        "word": "王大陆被带上警车现场",
+        "onboard_time": 1739855674,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68696,
+        "num": 584359,
+        "word": "史上首个猪肾人体移植临床获批",
+        "onboard_time": 1739849841,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 580997,
+        "num": 580997,
+        "word": "DeepSeek迎来最强队友",
+        "onboard_time": 1739849961,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 454825,
+        "num": 454825,
+        "word": "大学生刷短视频一个月流量超8000元",
+        "onboard_time": 1739851403,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383122,
+        "num": 383122,
+        "word": "难哄 重庆",
+        "onboard_time": 1739855001,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228832,
+        "num": 382459,
+        "word": "孙俪分享小花学瑜伽日常",
+        "onboard_time": 1739851945,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54978,
+        "num": 378950,
+        "word": "私家车占人行道家长担忧孩子走车道",
+        "onboard_time": 1739855067,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292076,
+        "num": 377325,
+        "word": "浮潜脑死亡女子未被及时发放救生衣",
+        "onboard_time": 1739849480,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1213908,
+        "num": 375668,
+        "word": "浙江妈妈早产生下双胞胎哪吒",
+        "onboard_time": 1739845158,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29863,
+        "num": 373326,
+        "word": "22日起哪吒2港澳地区全面上映",
+        "onboard_time": 1739855977,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1025925,
+        "num": 370490,
+        "word": "难哄把OST大户聚齐了",
+        "onboard_time": 1739850322,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147656,
+        "num": 368349,
+        "word": "虔诚有小宝宝了",
+        "onboard_time": 1739850621,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1006184,
+        "num": 366440,
+        "word": "光线传媒再度巨震",
+        "onboard_time": 1739851165,
+        "rank": 25,
+        "category": "电影,财经"
+      },
+      {
+        "raw_hot": 991470,
+        "num": 363017,
+        "word": "网红顾茜茜说日收入30万都是辛苦钱",
+        "onboard_time": 1739846538,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 698672,
+        "num": 362706,
+        "word": "难哄",
+        "onboard_time": 1739852005,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44375,
+        "num": 360178,
+        "word": "毛利兰春天新衣服",
+        "onboard_time": 1739855734,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 61089,
+        "num": 358368,
+        "word": "中国导演20万美元拍出北美短剧第一",
+        "onboard_time": 1739855853,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 435408,
+        "num": 354284,
+        "word": "眼科医生眼里最伤眼睛的行为",
+        "onboard_time": 1739847498,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 95044,
+        "num": 353895,
+        "word": "罗福莉为DeepSeek创始人名下企业合伙人",
+        "onboard_time": 1739856099,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 193226,
+        "num": 351245,
+        "word": "卢昱晓感谢这场盛大的相逢",
+        "onboard_time": 1739855916,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 615182,
+        "num": 348422,
+        "word": "朴灿烈遛狗偶遇RM节目录制",
+        "onboard_time": 1739851585,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 579324,
+        "num": 345799,
+        "word": "章若楠好漂亮",
+        "onboard_time": 1739855614,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 490091,
+        "num": 343076,
+        "word": "哪吒2冲击全球动画票房第1",
+        "onboard_time": 1739851403,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 447243,
+        "num": 341949,
+        "word": "张凌赫首部男主现偶剧",
+        "onboard_time": 1739849841,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340527,
+        "num": 340527,
+        "word": "梁洁被捂住半张脸还能看出演技",
+        "onboard_time": 1739852966,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304271,
+        "num": 304271,
+        "word": "网传小学老师因末位淘汰轻生",
+        "onboard_time": 1739854283,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303433,
+        "num": 303433,
+        "word": "深圳福田AI员工上线",
+        "onboard_time": 1739847439,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297133,
+        "num": 297133,
+        "word": "祁煜号高铁",
+        "onboard_time": 1739854223,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 289431,
+        "num": 289431,
+        "word": "半夜被DeepSeek气笑了",
+        "onboard_time": 1739853205,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 266130,
+        "num": 266130,
+        "word": "张睿发寻物启事找眼镜",
+        "onboard_time": 1739855674,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263317,
+        "num": 263317,
+        "word": "联通回应流量超34G欠费8700元",
+        "onboard_time": 1739848758,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103510,
+        "num": 240317,
+        "word": "颖儿新剧不是恋爱脑是搞钱脑",
+        "onboard_time": 1739854764,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225821,
+        "num": 225821,
+        "word": "AI公务员上岗",
+        "onboard_time": 1739835977,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 224044,
+        "num": 224044,
+        "word": "酒店擅自分装洗发水沐浴露涉嫌违法",
+        "onboard_time": 1739848638,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222036,
+        "num": 222036,
+        "word": "脾胃虚弱会让人变丑",
+        "onboard_time": 1739851765,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 207502,
+        "num": 207502,
+        "word": "喝羽衣甘蓝粉或可可粉真能减肥吗",
+        "onboard_time": 1739854643,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 203379,
+        "num": 203379,
+        "word": "女子多次试管怀孕乘网约车车祸流产",
+        "onboard_time": 1739801541,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#希望广大民营企业和民营企业家胸怀报国志#"
+    }
+  }
+}

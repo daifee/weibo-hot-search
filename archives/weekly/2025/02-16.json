@@ -1,13 +1,29 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739853631796,
+  "endTime": 1739856221193,
   "band_list": [
+    {
+      "raw_hot": 28357732,
+      "num": 28357732,
+      "word": "陈晓陈妍希离婚",
+      "onboard_time": 1739855131,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 17381826,
       "num": 17381826,
       "word": "金赛纶去世",
       "onboard_time": 1739707158,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 10241559,
+      "num": 10241559,
+      "word": "曝王大陆涉嫌逃兵役被捕",
+      "onboard_time": 1739849540,
+      "rank": 6,
       "category": "艺人"
     },
     {
@@ -19,11 +35,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 8829018,
-      "num": 8829018,
-      "word": "曝王大陆涉嫌逃兵役被捕",
-      "onboard_time": 1739849540,
-      "rank": 6,
+      "raw_hot": 4677462,
+      "num": 909468,
+      "word": "陈晓陈妍希 今后各自安好",
+      "onboard_time": 1739855312,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -99,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2153166,
+      "num": 846998,
+      "word": "杨丞琳李荣浩婚礼1周年",
+      "onboard_time": 1739854823,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2026977,
       "num": 2026977,
       "word": "文淇 大大方方的",
@@ -144,6 +168,14 @@
       "word": "难哄开播",
       "onboard_time": 1739842759,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1861574,
+      "num": 758465,
+      "word": "品鉴难哄",
+      "onboard_time": 1739855067,
+      "rank": 7,
       "category": "剧集"
     },
     {
@@ -265,6 +297,14 @@
       "onboard_time": 1739668520,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1458610,
+      "num": 591304,
+      "word": "王大陆被带上警车现场",
+      "onboard_time": 1739855674,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1450407,
@@ -539,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1025925,
+      "num": 571368,
+      "word": "难哄把OST大户聚齐了",
+      "onboard_time": 1739850322,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1010385,
       "num": 625184,
       "word": "金赛纶死亡现场没有遗书",
@@ -547,20 +595,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1006184,
+      "num": 516421,
+      "word": "光线传媒再度巨震",
+      "onboard_time": 1739851165,
+      "rank": 24,
+      "category": "电影,财经"
+    },
+    {
       "raw_hot": 986898,
       "num": 639455,
       "word": "沈梦辰杜海涛庆祝结婚3周年",
       "onboard_time": 1739778741,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 986459,
-      "num": 571368,
-      "word": "难哄把OST大户聚齐了",
-      "onboard_time": 1739850322,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 985547,
@@ -609,6 +657,14 @@
       "onboard_time": 1739749157,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 928478,
+      "num": 928478,
+      "word": "韩国空姐打开应急舱门站机翼上自拍",
+      "onboard_time": 1739853025,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 924478,
@@ -1083,14 +1139,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 647232,
-      "num": 516421,
-      "word": "光线传媒再度巨震",
-      "onboard_time": 1739851165,
-      "rank": 24,
-      "category": "电影,财经"
-    },
-    {
       "raw_hot": 644255,
       "num": 298618,
       "word": "记者买7件100%羊绒衫一根羊绒也没",
@@ -1155,6 +1203,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 607769,
+      "num": 607769,
+      "word": "专家称不必过于担忧AI抢人类铁饭碗",
+      "onboard_time": 1739842398,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 606224,
       "num": 533687,
       "word": "外媒称诗琳因脑膜炎去世",
@@ -1168,14 +1224,6 @@
       "word": "官方回应93岁强奸犯进行社区矫正",
       "onboard_time": 1739801242,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 600855,
-      "num": 600855,
-      "word": "专家称不必过于担忧AI抢人类铁饭碗",
-      "onboard_time": 1739842398,
-      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -1241,6 +1289,14 @@
       "onboard_time": 1739786780,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 579324,
+      "num": 345799,
+      "word": "章若楠好漂亮",
+      "onboard_time": 1739855614,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 578552,
@@ -1531,6 +1587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 490091,
+      "num": 427620,
+      "word": "哪吒2冲击全球动画票房第1",
+      "onboard_time": 1739851403,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 489378,
       "num": 489378,
       "word": "高中收取723元作业打印费认定违规",
@@ -1657,6 +1721,14 @@
       "onboard_time": 1739631502,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 454825,
+      "num": 454825,
+      "word": "大学生刷短视频一个月流量超8000元",
+      "onboard_time": 1739851403,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 453613,
@@ -1793,14 +1865,6 @@
       "onboard_time": 1739667498,
       "rank": 37,
       "category": "民生新闻,科学科普"
-    },
-    {
-      "raw_hot": 427620,
-      "num": 427620,
-      "word": "哪吒2冲击全球动画票房第1",
-      "onboard_time": 1739851403,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 426545,
@@ -1947,14 +2011,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 390871,
-      "num": 422097,
-      "word": "大学生刷短视频一个月流量超8000元",
-      "onboard_time": 1739851403,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 389631,
       "num": 389631,
       "word": "四川山体滑坡已致10死19失联",
@@ -2001,6 +2057,14 @@
       "onboard_time": 1739771419,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 383122,
+      "num": 383122,
+      "word": "难哄 重庆",
+      "onboard_time": 1739855001,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 378645,
@@ -2275,6 +2339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 340527,
+      "num": 456391,
+      "word": "梁洁被捂住半张脸还能看出演技",
+      "onboard_time": 1739852966,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 340092,
       "num": 468640,
       "word": "男子囤胖东来几百桶花生油卖不掉",
@@ -2451,6 +2523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 304271,
+      "num": 304271,
+      "word": "网传小学老师因末位淘汰轻生",
+      "onboard_time": 1739854283,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 302872,
       "num": 302872,
       "word": "为什么刚洗完头就有巨多头皮屑",
@@ -2492,7 +2572,7 @@
     },
     {
       "raw_hot": 298837,
-      "num": 298837,
+      "num": 382459,
       "word": "孙俪分享小花学瑜伽日常",
       "onboard_time": 1739851945,
       "rank": 45,
@@ -2505,6 +2585,14 @@
       "onboard_time": 1739763439,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 297133,
+      "num": 297133,
+      "word": "祁煜号高铁",
+      "onboard_time": 1739854223,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 292886,
@@ -2521,6 +2609,14 @@
       "onboard_time": 1739844377,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 292076,
+      "num": 377325,
+      "word": "浮潜脑死亡女子未被及时发放救生衣",
+      "onboard_time": 1739849480,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 290609,
@@ -2561,6 +2657,14 @@
       "onboard_time": 1739703260,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 289431,
+      "num": 289431,
+      "word": "半夜被DeepSeek气笑了",
+      "onboard_time": 1739853205,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 288573,
@@ -2699,6 +2803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 266130,
+      "num": 266130,
+      "word": "张睿发寻物启事找眼镜",
+      "onboard_time": 1739855674,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 265903,
       "num": 265903,
       "word": "檀健次虐戏现偶vs古偶",
@@ -2776,14 +2888,6 @@
       "word": "梁洁这段每个表情都是痛",
       "onboard_time": 1739764339,
       "rank": 37,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 258787,
-      "num": 456391,
-      "word": "梁洁被捂住半张脸还能看出演技",
-      "onboard_time": 1739852966,
-      "rank": 17,
       "category": "剧集"
     },
     {
@@ -3195,6 +3299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222036,
+      "num": 516212,
+      "word": "脾胃虚弱会让人变丑",
+      "onboard_time": 1739851765,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 222033,
       "num": 222033,
       "word": "多喝五黑汤气血充足睡眠好",
@@ -3300,7 +3412,7 @@
     },
     {
       "raw_hot": 218890,
-      "num": 218890,
+      "num": 368349,
       "word": "虔诚有小宝宝了",
       "onboard_time": 1739850621,
       "rank": 47,
@@ -3497,6 +3609,14 @@
       "onboard_time": 1739682858,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207502,
+      "num": 207502,
+      "word": "喝羽衣甘蓝粉或可可粉真能减肥吗",
+      "onboard_time": 1739854643,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 207040,
@@ -3840,6 +3960,14 @@
       "word": "六姊妹二姐夫癌症晚期",
       "onboard_time": 1739790381,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 193226,
+      "num": 351245,
+      "word": "卢昱晓感谢这场盛大的相逢",
+      "onboard_time": 1739855916,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -4723,6 +4851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155143,
+      "num": 3986480,
+      "word": "一句句古诗词感受雨水节气",
+      "onboard_time": 1739853745,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154839,
       "num": 154839,
       "word": "东部战区回应加舰过航台湾海峡",
@@ -5347,14 +5483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130798,
-      "num": 130798,
-      "word": "浮潜脑死亡女子未被及时发放救生衣",
-      "onboard_time": 1739849480,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 130736,
       "num": 212748,
       "word": "三人疑因10元停车费摔打六旬保安",
@@ -5553,14 +5681,6 @@
       "onboard_time": 1739717842,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125101,
-      "num": 516212,
-      "word": "脾胃虚弱会让人变丑",
-      "onboard_time": 1739851765,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 124996,
@@ -5915,14 +6035,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 109721,
-      "num": 419608,
-      "word": "韩国空姐打开应急舱门站机翼上自拍",
-      "onboard_time": 1739853025,
-      "rank": 29,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 108565,
       "num": 108565,
       "word": "藕饼",
@@ -6041,6 +6153,14 @@
       "onboard_time": 1739797880,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103510,
+      "num": 240317,
+      "word": "颖儿新剧不是恋爱脑是搞钱脑",
+      "onboard_time": 1739854764,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 102819,
@@ -6225,6 +6345,14 @@
       "onboard_time": 1739784441,
       "rank": 36,
       "category": "国内时政,互联网"
+    },
+    {
+      "raw_hot": 95044,
+      "num": 353895,
+      "word": "罗福莉为DeepSeek创始人名下企业合伙人",
+      "onboard_time": 1739856099,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 95013,
@@ -6555,6 +6683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68696,
+      "num": 584359,
+      "word": "史上首个猪肾人体移植临床获批",
+      "onboard_time": 1739849841,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68215,
       "num": 1064711,
       "word": "我国成全球领先的人形机器人生产国",
@@ -6665,6 +6801,14 @@
       "onboard_time": 1739789781,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61089,
+      "num": 358368,
+      "word": "中国导演20万美元拍出北美短剧第一",
+      "onboard_time": 1739855853,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 60674,
@@ -6793,6 +6937,14 @@
       "onboard_time": 1739783900,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 54978,
+      "num": 378950,
+      "word": "私家车占人行道家长担忧孩子走车道",
+      "onboard_time": 1739855067,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52800,
@@ -6937,6 +7089,14 @@
       "onboard_time": 1739766261,
       "rank": 30,
       "category": "民生新闻,议题讨论"
+    },
+    {
+      "raw_hot": 44375,
+      "num": 360178,
+      "word": "毛利兰春天新衣服",
+      "onboard_time": 1739855734,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 44004,
@@ -7121,6 +7281,14 @@
       "onboard_time": 1739853084,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29863,
+      "num": 373326,
+      "word": "22日起哪吒2港澳地区全面上映",
+      "onboard_time": 1739855977,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 29630,
@@ -7424,14 +7592,6 @@
       "word": "法院披露假章假证类犯罪产业链",
       "onboard_time": 1739779702,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15838,
-      "num": 220259,
-      "word": "史上首个猪肾人体移植临床获批",
-      "onboard_time": 1739849841,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
