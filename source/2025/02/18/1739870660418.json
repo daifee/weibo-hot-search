@@ -1,0 +1,410 @@
+{
+  "runTime": 1739870660418,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1290268,
+        "num": 1290268,
+        "word": "国产剧终于有真正的出租屋了",
+        "onboard_time": 1739867903,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 657219,
+        "num": 657219,
+        "word": "iPhone17Pro模具曝光",
+        "onboard_time": 1739859515,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 5381,
+        "num": 588495,
+        "word": "中国式现代化的万千气象海南行",
+        "onboard_time": 1739782103,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 580312,
+        "num": 580312,
+        "word": "难看",
+        "onboard_time": 1739856215,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 382439,
+        "num": 382439,
+        "word": "韩国空姐打开应急舱门站机翼上自拍",
+        "onboard_time": 1739853025,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 352929,
+        "num": 352929,
+        "word": "北约突改俄乌冲突措辞",
+        "onboard_time": 1739867123,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 527843,
+        "num": 349115,
+        "word": "品鉴难哄",
+        "onboard_time": 1739855067,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45378,
+        "num": 346309,
+        "word": "18日18时7分雨水节气",
+        "onboard_time": 1739868025,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256838,
+        "num": 341791,
+        "word": "新学期国家助学金提标扩面",
+        "onboard_time": 1739864065,
+        "rank": 8,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 158114,
+        "num": 337465,
+        "word": "美社保局长拒向马斯克交出数据被撤职",
+        "onboard_time": 1739869642,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 6763457,
+        "num": 6763457,
+        "word": "陈晓陈妍希离婚",
+        "onboard_time": 1739855131,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1919742,
+        "num": 331054,
+        "word": "于正的发文",
+        "onboard_time": 1739863046,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1279874,
+        "num": 325147,
+        "word": "护士因拔针出血跪求患者原谅",
+        "onboard_time": 1739866042,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388506,
+        "num": 323409,
+        "word": "难哄",
+        "onboard_time": 1739852005,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247647,
+        "num": 319346,
+        "word": "韩国人开始抛弃咖啡了",
+        "onboard_time": 1739864243,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2943890,
+        "num": 314295,
+        "word": "陈晓曾被曝离婚可以净身出户",
+        "onboard_time": 1739868323,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1037218,
+        "num": 310045,
+        "word": "王大陆被带上警车现场",
+        "onboard_time": 1739855674,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73271,
+        "num": 308589,
+        "word": "翟潇闻非诚勿扰男嘉宾",
+        "onboard_time": 1739870303,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 915688,
+        "num": 302398,
+        "word": "内娱离婚文案",
+        "onboard_time": 1739858195,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41833,
+        "num": 298571,
+        "word": "业内称美妆头部达人佣金或超40%",
+        "onboard_time": 1739869642,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 788482,
+        "num": 293702,
+        "word": "截爆难哄",
+        "onboard_time": 1739857715,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 504941,
+        "num": 289375,
+        "word": "王大陆被带进问询室",
+        "onboard_time": 1739867242,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289273,
+        "num": 289273,
+        "word": "93岁男子强奸案被害人系未成年",
+        "onboard_time": 1739865321,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360312,
+        "num": 288266,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1739866943,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 324232,
+        "num": 280367,
+        "word": "赵露思不用拐杖了",
+        "onboard_time": 1739867242,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261738,
+        "num": 261738,
+        "word": "哪吒2冲击全球动画票房第1",
+        "onboard_time": 1739851403,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 260609,
+        "num": 260609,
+        "word": "法老 我从来没说过退圈",
+        "onboard_time": 1739866702,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217607,
+        "num": 260420,
+        "word": "AI主播零失误上岗",
+        "onboard_time": 1739866223,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215889,
+        "num": 260312,
+        "word": "苏炳添全运年首秀夺冠",
+        "onboard_time": 1739868501,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93988,
+        "num": 260023,
+        "word": "春日穿搭",
+        "onboard_time": 1739870243,
+        "rank": 29,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 269576,
+        "num": 259809,
+        "word": "杨幂这句的含金量",
+        "onboard_time": 1739857777,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259653,
+        "num": 259653,
+        "word": "哪吒2预测票房下跌",
+        "onboard_time": 1739844377,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 248966,
+        "num": 248966,
+        "word": "试管夫妻丈夫中途去世医院拒移植",
+        "onboard_time": 1739860231,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244612,
+        "num": 244612,
+        "word": "男童吃火锅烫嘴3天后全身溃烂",
+        "onboard_time": 1739869945,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232633,
+        "num": 232633,
+        "word": "女子2个月减重40斤后竟严重脱发",
+        "onboard_time": 1739865443,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116900,
+        "num": 222498,
+        "word": "农村花4万用拼多多拼的家怎么样",
+        "onboard_time": 1739870003,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218493,
+        "num": 218493,
+        "word": "杨丞琳李荣浩婚礼1周年",
+        "onboard_time": 1739854823,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199356,
+        "num": 199356,
+        "word": "浙江妈妈早产生下双胞胎哪吒",
+        "onboard_time": 1739845158,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188262,
+        "num": 188262,
+        "word": "难哄 玄学",
+        "onboard_time": 1739862208,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164241,
+        "num": 185964,
+        "word": "国足怎么突然变强了",
+        "onboard_time": 1739870123,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185064,
+        "num": 185064,
+        "word": "王佑硕说顶线的艺人是肖战",
+        "onboard_time": 1739864484,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183546,
+        "num": 183546,
+        "word": "章若楠演技",
+        "onboard_time": 1739861009,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168008,
+        "num": 168008,
+        "word": "宣璐复刻任盈盈原著造型",
+        "onboard_time": 1739865924,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166745,
+        "num": 166745,
+        "word": "鹿晗关注了sana的ins",
+        "onboard_time": 1739847319,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155542,
+        "num": 155542,
+        "word": "中方回应俄美代表团举行会晤",
+        "onboard_time": 1739866042,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 147267,
+        "num": 147267,
+        "word": "DeepSeek迎来最强队友",
+        "onboard_time": 1739849961,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 146850,
+        "num": 146850,
+        "word": "成本10元的果冻做成了吃不起的样子",
+        "onboard_time": 1739869642,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 139823,
+        "num": 139823,
+        "word": "赵露思穿藏族服饰",
+        "onboard_time": 1739862807,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136084,
+        "num": 136084,
+        "word": "专家称不必过于担忧AI抢人类铁饭碗",
+        "onboard_time": 1739842398,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135457,
+        "num": 135457,
+        "word": "赵樱子回应曾对成毅因戏生情",
+        "onboard_time": 1739870602,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记一直心系民营企业#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1739809696665,
-  "endTime": 1739868136992,
+  "endTime": 1739870660418,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2943890,
+      "num": 314295,
+      "word": "陈晓曾被曝离婚可以净身出户",
+      "onboard_time": 1739868323,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2864001,
       "num": 420786,
       "word": "内娱离婚文案",
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1942666,
-      "num": 565805,
+      "num": 580312,
       "word": "难看",
       "onboard_time": 1739856215,
       "rank": 21,
@@ -177,6 +185,14 @@
       "onboard_time": 1739866042,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1290268,
+      "num": 1290268,
+      "word": "国产剧终于有真正的出租屋了",
+      "onboard_time": 1739867903,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 1189476,
@@ -595,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 360312,
+      "num": 288266,
+      "word": "狙击蝴蝶",
+      "onboard_time": 1739866943,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 356907,
       "num": 356907,
       "word": "网传小学老师因末位淘汰轻生",
@@ -617,6 +641,14 @@
       "onboard_time": 1739852183,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 352929,
+      "num": 352929,
+      "word": "北约突改俄乌冲突措辞",
+      "onboard_time": 1739867123,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 349814,
@@ -739,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 324232,
+      "num": 282820,
+      "word": "赵露思不用拐杖了",
+      "onboard_time": 1739867242,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 320863,
       "num": 320863,
       "word": "白敬亭帅出新高度",
@@ -859,6 +899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 289273,
+      "num": 289273,
+      "word": "93岁男子强奸案被害人系未成年",
+      "onboard_time": 1739865321,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 286097,
       "num": 286097,
       "word": "仿冒DeepSeek手机病毒出现",
@@ -875,28 +923,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 282820,
-      "num": 282820,
-      "word": "赵露思不用拐杖了",
-      "onboard_time": 1739867242,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 273411,
-      "num": 273411,
-      "word": "狙击蝴蝶",
-      "onboard_time": 1739866943,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 267641,
       "num": 267641,
       "word": "商家用女童跪撩上衣姿势展示童装",
       "onboard_time": 1739797161,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 260609,
+      "num": 301701,
+      "word": "法老 我从来没说过退圈",
+      "onboard_time": 1739866702,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 258984,
@@ -907,20 +947,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 257493,
-      "num": 257493,
-      "word": "国产剧终于有真正的出租屋了",
-      "onboard_time": 1739867903,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 256861,
       "num": 256861,
       "word": "女生宿舍开学后减肥现状",
       "onboard_time": 1739856278,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 256838,
+      "num": 551662,
+      "word": "新学期国家助学金提标扩面",
+      "onboard_time": 1739864065,
+      "rank": 36,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 255674,
@@ -931,12 +971,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 255038,
-      "num": 551662,
-      "word": "新学期国家助学金提标扩面",
-      "onboard_time": 1739864065,
-      "rank": 36,
-      "category": "民生新闻,教育"
+      "raw_hot": 247647,
+      "num": 319346,
+      "word": "韩国人开始抛弃咖啡了",
+      "onboard_time": 1739864243,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 246176,
@@ -947,20 +987,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244612,
+      "num": 244612,
+      "word": "男童吃火锅烫嘴3天后全身溃烂",
+      "onboard_time": 1739869945,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 242316,
       "num": 242316,
       "word": "乌方不承认美俄谈判达成协议",
       "onboard_time": 1739815334,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 242316,
-      "num": 242316,
-      "word": "93岁男子强奸案被害人系未成年",
-      "onboard_time": 1739865321,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 241458,
@@ -995,11 +1035,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 232318,
-      "num": 257970,
-      "word": "韩国人开始抛弃咖啡了",
-      "onboard_time": 1739864243,
-      "rank": 33,
+      "raw_hot": 232633,
+      "num": 232633,
+      "word": "女子2个月减重40斤后竟严重脱发",
+      "onboard_time": 1739865443,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -1107,6 +1147,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 217607,
+      "num": 260420,
+      "word": "AI主播零失误上岗",
+      "onboard_time": 1739866223,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 217592,
       "num": 217592,
       "word": "一客机加拿大降落时发生事故多人伤",
@@ -1129,6 +1177,14 @@
       "onboard_time": 1739858916,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 215889,
+      "num": 260312,
+      "word": "苏炳添全运年首秀夺冠",
+      "onboard_time": 1739868501,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 215672,
@@ -1177,14 +1233,6 @@
       "onboard_time": 1739843297,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 202939,
-      "num": 202939,
-      "word": "女子2个月减重40斤后竟严重脱发",
-      "onboard_time": 1739865443,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 202288,
@@ -1299,14 +1347,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 174720,
-      "num": 301644,
-      "word": "北约突改俄乌冲突措辞",
-      "onboard_time": 1739867123,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 172020,
       "num": 246971,
       "word": "官方回应93岁强奸犯进行社区矫正",
@@ -1355,12 +1395,12 @@
       "category": "民生新闻,国内时政"
     },
     {
-      "raw_hot": 165254,
-      "num": 242771,
-      "word": "AI主播零失误上岗",
-      "onboard_time": 1739866223,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 164241,
+      "num": 185964,
+      "word": "国足怎么突然变强了",
+      "onboard_time": 1739870123,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 163091,
@@ -1409,6 +1449,14 @@
       "onboard_time": 1739806820,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 158114,
+      "num": 337465,
+      "word": "美社保局长拒向马斯克交出数据被撤职",
+      "onboard_time": 1739869642,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 155726,
@@ -1481,6 +1529,14 @@
       "onboard_time": 1739838259,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146850,
+      "num": 146850,
+      "word": "成本10元的果冻做成了吃不起的样子",
+      "onboard_time": 1739869642,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 146411,
@@ -1579,6 +1635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135457,
+      "num": 135457,
+      "word": "赵樱子回应曾对成毅因戏生情",
+      "onboard_time": 1739870602,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135008,
       "num": 528553,
       "word": "南京一卤货作坊脏乱操作间紧挨厕所",
@@ -1675,19 +1739,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 121318,
-      "num": 301701,
-      "word": "法老 我从来没说过退圈",
-      "onboard_time": 1739866702,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 120452,
       "num": 120452,
       "word": "患癌公公给儿媳红包里塞催生纸条",
       "onboard_time": 1739786780,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116900,
+      "num": 222498,
+      "word": "农村花4万用拼多多拼的家怎么样",
+      "onboard_time": 1739870003,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -1785,6 +1849,14 @@
       "onboard_time": 1739797400,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 93988,
+      "num": 260023,
+      "word": "春日穿搭",
+      "onboard_time": 1739870243,
+      "rank": 29,
+      "category": "时尚"
     },
     {
       "raw_hot": 93521,
@@ -1913,6 +1985,14 @@
       "onboard_time": 1739805860,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 73271,
+      "num": 308589,
+      "word": "翟潇闻非诚勿扰男嘉宾",
+      "onboard_time": 1739870303,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 72585,
@@ -2155,6 +2235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 45378,
+      "num": 614675,
+      "word": "18日18时7分雨水节气",
+      "onboard_time": 1739868025,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43544,
       "num": 43544,
       "word": "外媒评价哪吒2连龙套都很有质感",
@@ -2169,6 +2257,14 @@
       "onboard_time": 1739765121,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 41833,
+      "num": 298571,
+      "word": "业内称美妆头部达人佣金或超40%",
+      "onboard_time": 1739869642,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38934,
@@ -2443,14 +2539,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 7302,
-      "num": 614675,
-      "word": "18日18时7分雨水节气",
-      "onboard_time": 1739868025,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 5519,
       "num": 708355,
       "word": "春耕沃野生机勃勃",
@@ -2471,6 +2559,9 @@
     },
     {
       "word": "#希望广大民营企业和民营企业家胸怀报国志#"
+    },
+    {
+      "word": "#总书记一直心系民营企业#"
     }
   ]
 }
