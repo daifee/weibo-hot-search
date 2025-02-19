@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1739969847337,
+  "endTime": 1739971693889,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1859,6 +1859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2557201,
+      "num": 2557201,
+      "word": "哪吒创作团队停止所有对外采访",
+      "onboard_time": 1739967800,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 2556287,
       "num": 2556287,
       "word": "留几手长文",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1737081558,
       "rank": 5,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 2252717,
-      "num": 2252717,
-      "word": "演员严屹宽被指撞脸敖光",
-      "onboard_time": 1738909582,
-      "rank": 29,
-      "category": "艺人,电影"
     }
   ],
   "hotgov_list": [

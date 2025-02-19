@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739969847337,
+  "endTime": 1739971693889,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -211,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2557201,
+      "num": 2557201,
+      "word": "哪吒创作团队停止所有对外采访",
+      "onboard_time": 1739967800,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 2504377,
       "num": 1034114,
       "word": "周星驰cos哪吒造型",
@@ -257,14 +265,6 @@
       "onboard_time": 1739957721,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2234322,
-      "num": 2234322,
-      "word": "哪吒创作团队停止所有对外采访",
-      "onboard_time": 1739967800,
-      "rank": 4,
-      "category": "电影"
     },
     {
       "raw_hot": 2205164,
@@ -732,7 +732,7 @@
     },
     {
       "raw_hot": 1298785,
-      "num": 280245,
+      "num": 303718,
       "word": "男子爱挖鼻孔致动脉血管破裂",
       "onboard_time": 1739966121,
       "rank": 21,
@@ -1219,6 +1219,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 922798,
+      "num": 570493,
+      "word": "认不出来这是A妹了",
+      "onboard_time": 1739967080,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 920015,
       "num": 637026,
       "word": "封神第三部已剪完",
@@ -1376,6 +1384,14 @@
       "word": "6万买饺子导演高仿号当事人发声",
       "onboard_time": 1739810358,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 832236,
+      "num": 509630,
+      "word": "网曝711店员熟食区做不雅行为",
+      "onboard_time": 1739959400,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -1715,14 +1731,6 @@
       "category": "民生新闻,体育"
     },
     {
-      "raw_hot": 713112,
-      "num": 570493,
-      "word": "认不出来这是A妹了",
-      "onboard_time": 1739967080,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 709777,
       "num": 387846,
       "word": "胡歌看着女儿感觉时间不够用",
@@ -1835,6 +1843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 658948,
+      "num": 542050,
+      "word": "三部在播剧口碑分化",
+      "onboard_time": 1739968521,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 658546,
       "num": 658546,
       "word": "老人2天没散步被网格员发现出意外",
@@ -1931,14 +1947,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 636839,
-      "num": 509630,
-      "word": "网曝711店员熟食区做不雅行为",
-      "onboard_time": 1739959400,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 636451,
       "num": 636451,
       "word": "18岁抗癌博主晟宝去世",
@@ -2001,6 +2009,14 @@
       "onboard_time": 1739756178,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 623985,
+      "num": 415979,
+      "word": "哪吒2破125亿",
+      "onboard_time": 1739970081,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 613365,
@@ -2097,6 +2113,14 @@
       "onboard_time": 1739786780,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 579182,
+      "num": 579182,
+      "word": "王楚钦vs阿拉米扬",
+      "onboard_time": 1739970200,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 578552,
@@ -3467,6 +3491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 359414,
+      "num": 299078,
+      "word": "红房子 父母爱情",
+      "onboard_time": 1739970320,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 359340,
       "num": 359340,
       "word": "四川一医院窗口工作人员上班玩游戏",
@@ -3513,6 +3545,14 @@
       "onboard_time": 1739835197,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 354541,
+      "num": 298340,
+      "word": "我承认对难哄大声了一点",
+      "onboard_time": 1739969841,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 353768,
@@ -3947,6 +3987,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 309354,
+      "num": 309354,
+      "word": "配音圈团建",
+      "onboard_time": 1739969061,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 307930,
       "num": 303345,
       "word": "生命树",
@@ -4163,14 +4211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 290265,
-      "num": 207408,
-      "word": "三部在播剧口碑分化",
-      "onboard_time": 1739968521,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 290023,
       "num": 516051,
       "word": "铁打的女主打铁的男主",
@@ -4249,6 +4289,14 @@
       "onboard_time": 1739875223,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 286203,
+      "num": 286203,
+      "word": "金莎孙丞潇给狗狗过三岁生日",
+      "onboard_time": 1739969301,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 286098,
@@ -4409,6 +4457,14 @@
       "onboard_time": 1739953823,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 271667,
+      "num": 271667,
+      "word": "湖南卫视考古杨紫",
+      "onboard_time": 1739968580,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 270797,
@@ -5075,6 +5131,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 238339,
+      "num": 238339,
+      "word": "张睿有五个账号",
+      "onboard_time": 1739970025,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238217,
       "num": 176292,
       "word": "哪吒2断层领跑",
@@ -5145,14 +5209,6 @@
       "onboard_time": 1739786959,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 235270,
-      "num": 206425,
-      "word": "湖南卫视考古杨紫",
-      "onboard_time": 1739968580,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 235018,
@@ -5489,6 +5545,14 @@
       "onboard_time": 1739842998,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 219665,
+      "num": 219665,
+      "word": "小行星撞出物种灭绝平均要隔1亿年",
+      "onboard_time": 1739969781,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 219295,
@@ -6075,6 +6139,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 203629,
+      "num": 203629,
+      "word": "孟子义攒了几部剧没播",
+      "onboard_time": 1739971343,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203580,
       "num": 307563,
       "word": "美航司客机翻转落地内部一片狼藉",
@@ -6192,6 +6264,14 @@
       "word": "男子偷妻子攒的19万贼喊捉贼",
       "onboard_time": 1739870783,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200438,
+      "num": 271861,
+      "word": "589元浴霸退货运费449元",
+      "onboard_time": 1739968880,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -6395,12 +6475,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 197091,
+      "num": 434905,
+      "word": "浙江大学上线免费满血版deepseek",
+      "onboard_time": 1739969660,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 196914,
       "num": 196914,
       "word": "有冒充饺子导演账号吸粉6万后卖出",
       "onboard_time": 1739790020,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196658,
+      "num": 308243,
+      "word": "周深超话冒泡",
+      "onboard_time": 1739970741,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 196137,
@@ -6515,6 +6611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192511,
+      "num": 192511,
+      "word": "可可动画回应饺子导演闭关",
+      "onboard_time": 1739971103,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 192458,
       "num": 189678,
       "word": "董思成是王星越师哥",
@@ -6611,14 +6715,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 191227,
-      "num": 208402,
-      "word": "金莎孙丞潇给狗狗过三岁生日",
-      "onboard_time": 1739969301,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 190950,
       "num": 190950,
       "word": "当农学生种出银环蛇甘蔗",
@@ -6713,6 +6809,14 @@
       "onboard_time": 1739745433,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 187694,
+      "num": 187694,
+      "word": "好一个乖乖女",
+      "onboard_time": 1739971222,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 187499,
@@ -7043,14 +7147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178196,
-      "num": 188749,
-      "word": "589元浴霸退货运费449元",
-      "onboard_time": 1739968880,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 177620,
       "num": 206135,
       "word": "郭艾伦最新采访",
@@ -7331,6 +7427,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 169082,
+      "num": 169082,
+      "word": "无限超越班",
+      "onboard_time": 1739970981,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168954,
       "num": 168954,
       "word": "白色橄榄树书粉",
@@ -7411,6 +7515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167172,
+      "num": 167172,
+      "word": "广州地铁",
+      "onboard_time": 1739967680,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166985,
       "num": 386975,
       "word": "陈思诚说拍唐探1900不是为了讨好",
@@ -7441,14 +7553,6 @@
       "onboard_time": 1739949200,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 165926,
-      "num": 165926,
-      "word": "配音圈团建",
-      "onboard_time": 1739969061,
-      "rank": 46,
-      "category": "动漫"
     },
     {
       "raw_hot": 165710,
@@ -7643,6 +7747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160157,
+      "num": 160157,
+      "word": "看陈哲远收官博泪水一下变成口水",
+      "onboard_time": 1739970500,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159827,
       "num": 159827,
       "word": "于适直播",
@@ -7771,14 +7883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 155756,
-      "num": 155756,
-      "word": "广州地铁",
-      "onboard_time": 1739967680,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 155726,
       "num": 155726,
       "word": "董思成北京环球影城被偶遇",
@@ -7889,6 +7993,14 @@
       "onboard_time": 1739876843,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 153767,
+      "num": 238809,
+      "word": "官方整改环卫招聘35岁以下要求",
+      "onboard_time": 1739969722,
+      "rank": 35,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 152803,
@@ -8331,6 +8443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141999,
+      "num": 141999,
+      "word": "周雨采访林高远",
+      "onboard_time": 1739970432,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141829,
       "num": 221748,
       "word": "一文看国乒两位功勋教练之争",
@@ -8656,6 +8776,14 @@
       "word": "英雄联盟铁男圣堂皮肤",
       "onboard_time": 1739846599,
       "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 133525,
+      "num": 210131,
+      "word": "仙剑世界首发",
+      "onboard_time": 1739792421,
+      "rank": 24,
       "category": "游戏"
     },
     {
@@ -9321,14 +9449,6 @@
       "onboard_time": 1739955800,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 114471,
-      "num": 210131,
-      "word": "仙剑世界首发",
-      "onboard_time": 1739792421,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 114298,
@@ -10523,14 +10643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 71545,
-      "num": 190972,
-      "word": "浙江大学上线免费满血版deepseek",
-      "onboard_time": 1739969660,
-      "rank": 38,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 71509,
       "num": 419973,
       "word": "一违纪被退伍人员窃取军事秘密被捕",
@@ -10617,6 +10729,14 @@
       "onboard_time": 1739760679,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69646,
+      "num": 306095,
+      "word": "内蒙古28年前命案告破家属发声",
+      "onboard_time": 1739970500,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68980,
@@ -10817,14 +10937,6 @@
       "onboard_time": 1739895799,
       "rank": 40,
       "category": "民生新闻,电影"
-    },
-    {
-      "raw_hot": 60722,
-      "num": 205791,
-      "word": "小行星撞出物种灭绝平均要隔1亿年",
-      "onboard_time": 1739969781,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60674,
@@ -11259,14 +11371,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 46680,
-      "num": 205853,
-      "word": "官方整改环卫招聘35岁以下要求",
-      "onboard_time": 1739969722,
-      "rank": 35,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 46596,
       "num": 307009,
       "word": "CT5刷新浙赛圈速纪录",
@@ -11297,6 +11401,14 @@
       "onboard_time": 1739868025,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45341,
+      "num": 272259,
+      "word": "梅梅厦门",
+      "onboard_time": 1739971222,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 45312,
@@ -12028,7 +12140,7 @@
     },
     {
       "raw_hot": 21556,
-      "num": 206486,
+      "num": 301834,
       "word": "上海寸土寸金具象化了",
       "onboard_time": 1739969061,
       "rank": 29,
