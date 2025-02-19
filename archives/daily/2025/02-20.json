@@ -1,6 +1,6 @@
 {
   "startTime": 1739982473012,
-  "endTime": 1739997487871,
+  "endTime": 1740000110759,
   "band_list": [
     {
       "raw_hot": 1412108,
@@ -531,6 +531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 28708,
+      "num": 28708,
+      "word": "缅北明家案整理出卷宗1100本",
+      "onboard_time": 1739997731,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28655,
       "num": 28655,
       "word": "蔡徐坤暗夜无界锋芒自现",
@@ -547,6 +555,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24817,
+      "num": 24817,
+      "word": "六姊妹秘方传女不传男",
+      "onboard_time": 1739993711,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 23312,
+      "num": 23312,
+      "word": "特朗普称美国给了乌克兰很多钱",
+      "onboard_time": 1739997912,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 21401,
       "num": 21401,
       "word": "180天重启计划",
@@ -561,14 +585,6 @@
       "onboard_time": 1739988733,
       "rank": 48,
       "category": "数码"
-    },
-    {
-      "raw_hot": 17623,
-      "num": 19003,
-      "word": "六姊妹秘方传女不传男",
-      "onboard_time": 1739993711,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 14762,
@@ -600,6 +616,22 @@
       "word": "张红力受贿案一审宣判",
       "onboard_time": 1739994131,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9520,
+      "num": 23632,
+      "word": "马库斯一行说真正的英雄是先烈",
+      "onboard_time": 1739998930,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8255,
+      "num": 15622,
+      "word": "张红力非法收受1.77亿余元被判死缓",
+      "onboard_time": 1739999650,
+      "rank": 49,
       "category": "民生新闻"
     }
   ],
