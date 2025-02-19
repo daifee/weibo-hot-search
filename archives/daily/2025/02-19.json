@@ -1,6 +1,6 @@
 {
   "startTime": 1739896170867,
-  "endTime": 1739976030873,
+  "endTime": 1739978729987,
   "band_list": [
     {
       "raw_hot": 3828682,
@@ -219,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1225993,
+      "num": 1225993,
+      "word": "红房子13集 封神",
+      "onboard_time": 1739975241,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1219165,
       "num": 559912,
       "word": "网曝711店员熟食区做不雅行为",
@@ -241,6 +249,14 @@
       "onboard_time": 1739947760,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1133705,
+      "num": 671945,
+      "word": "昀牵孟绕",
+      "onboard_time": 1739975603,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1116515,
@@ -280,6 +296,14 @@
       "word": "2032年小行星撞击地球概率已升至3.1%",
       "onboard_time": 1739952681,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1051743,
+      "num": 1051743,
+      "word": "重庆姐弟坠亡案2个母亲的重生路",
+      "onboard_time": 1739977461,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -483,6 +507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 674583,
+      "num": 674583,
+      "word": "王楚钦大心脏",
+      "onboard_time": 1739974703,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 659961,
       "num": 659961,
       "word": "别墅月租1万因漏水退租要交7万",
@@ -553,6 +585,14 @@
       "onboard_time": 1739973263,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 561951,
+      "num": 432239,
+      "word": "别再P图了好吗发博道歉",
+      "onboard_time": 1739976624,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 558034,
@@ -667,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 484999,
+      "num": 484999,
+      "word": "金价一夜暴涨12元",
+      "onboard_time": 1739974224,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 481073,
       "num": 481073,
       "word": "女子挪用公司1400万买包被判刑",
@@ -723,6 +771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 453943,
+      "num": 360531,
+      "word": "女子戴耳环不摘耳垂长出葡萄瘤",
+      "onboard_time": 1739974523,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 445800,
       "num": 445800,
       "word": "林俊杰 你们竟然不关心我的健康",
@@ -771,6 +827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 404265,
+      "num": 404265,
+      "word": "哪吒2官方登顶海报",
+      "onboard_time": 1739974523,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 404234,
       "num": 404234,
       "word": "NASA称2032年将出现最危险太空岩石",
@@ -809,14 +873,6 @@
       "onboard_time": 1739957540,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 389934,
-      "num": 389934,
-      "word": "王楚钦大心脏",
-      "onboard_time": 1739974703,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 387899,
@@ -859,20 +915,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 379097,
-      "num": 379097,
-      "word": "昀牵孟绕",
-      "onboard_time": 1739975603,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 375935,
       "num": 375935,
       "word": "孟子义攒了几部剧没播",
       "onboard_time": 1739971343,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 366726,
+      "num": 366726,
+      "word": "七旬老人动迁分4套房卖了16次",
+      "onboard_time": 1739974942,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 365614,
@@ -897,14 +953,6 @@
       "onboard_time": 1739960602,
       "rank": 17,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 349183,
-      "num": 321608,
-      "word": "女子戴耳环不摘耳垂长出葡萄瘤",
-      "onboard_time": 1739974523,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 344046,
@@ -940,7 +988,7 @@
     },
     {
       "raw_hot": 338903,
-      "num": 320260,
+      "num": 330693,
       "word": "眼科医生给高度近视的20个建议",
       "onboard_time": 1739972423,
       "rank": 31,
@@ -1027,6 +1075,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 306111,
+      "num": 306111,
+      "word": "哪吒2一亿一亿往上追",
+      "onboard_time": 1739976202,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 305206,
       "num": 406390,
       "word": "黄俊捷工作室换置顶",
@@ -1065,14 +1121,6 @@
       "onboard_time": 1739852005,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 287056,
-      "num": 287056,
-      "word": "金价一夜暴涨12元",
-      "onboard_time": 1739974224,
-      "rank": 42,
-      "category": "财经"
     },
     {
       "raw_hot": 286728,
@@ -1211,14 +1259,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 265570,
-      "num": 270167,
-      "word": "七旬老人动迁分4套房卖了16次",
-      "onboard_time": 1739974942,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 264662,
       "num": 264662,
       "word": "美俄将任命谈判团队结束乌克兰冲突",
@@ -1288,14 +1328,6 @@
       "word": "仙台有树新浪扫楼",
       "onboard_time": 1739948960,
       "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 247675,
-      "num": 247675,
-      "word": "红房子13集 封神",
-      "onboard_time": 1739975241,
-      "rank": 33,
       "category": "剧集"
     },
     {
@@ -1489,6 +1521,14 @@
       "onboard_time": 1739894061,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227103,
+      "num": 227103,
+      "word": "红房子直播",
+      "onboard_time": 1739977522,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 226480,
@@ -1947,12 +1987,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190405,
+      "num": 476428,
+      "word": "警方通报导演郑某峰涉嫌猥亵儿童",
+      "onboard_time": 1739977643,
+      "rank": 10,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 190287,
       "num": 190287,
       "word": "胡歌想再多活几年陪伴女儿",
       "onboard_time": 1739889024,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189236,
+      "num": 189236,
+      "word": "温以凡换床单了",
+      "onboard_time": 1739977461,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 189163,
@@ -2057,14 +2113,6 @@
       "onboard_time": 1739952561,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 176579,
-      "num": 176579,
-      "word": "哪吒2官方登顶海报",
-      "onboard_time": 1739974523,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 174728,
@@ -2251,6 +2299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159635,
+      "num": 159635,
+      "word": "高校回应不交800元考证无法毕业",
+      "onboard_time": 1739976504,
+      "rank": 35,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 159407,
       "num": 350210,
       "word": "周柯宇你再笑我就要哭了",
@@ -2337,6 +2393,14 @@
       "onboard_time": 1739953582,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151587,
+      "num": 217522,
+      "word": "医生称郭艾伦情况较乐观",
+      "onboard_time": 1739973624,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 149649,
@@ -2539,6 +2603,14 @@
       "category": "剧集,电影"
     },
     {
+      "raw_hot": 125706,
+      "num": 125706,
+      "word": "董思成kissshy手势舞",
+      "onboard_time": 1739978541,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124915,
       "num": 280972,
       "word": "尚雯婕和papi好像在演学霸和我",
@@ -2595,6 +2667,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 121216,
+      "num": 121216,
+      "word": "十年前的白梦妍嫩得掐出水来了",
+      "onboard_time": 1739978601,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120379,
       "num": 120379,
       "word": "杨紫 西班牙的回忆",
@@ -2619,12 +2699,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119552,
+      "num": 360613,
+      "word": "丈夫离家18年后要离婚分妻子家产",
+      "onboard_time": 1739977822,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119353,
       "num": 119353,
       "word": "医生接产带壳宝宝难掩惊喜",
       "onboard_time": 1739881163,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117016,
+      "num": 117016,
+      "word": "邓为原声",
+      "onboard_time": 1739978601,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 116560,
@@ -2819,6 +2915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93222,
+      "num": 151840,
+      "word": "演员请就位3比演技还是博流量",
+      "onboard_time": 1739976802,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 92454,
       "num": 508862,
       "word": "饺子的作品里充满了星爷情怀",
@@ -2939,6 +3043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79836,
+      "num": 123246,
+      "word": "泽连斯基称希望今年结束战争",
+      "onboard_time": 1739976624,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 79780,
       "num": 99870,
       "word": "竹内亮导演喊话饺子导演",
@@ -2979,6 +3091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77692,
+      "num": 434025,
+      "word": "一张实名手机卡卖600至1000元不等",
+      "onboard_time": 1739977102,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 77005,
       "num": 239482,
       "word": "律师谈孕妇被箱子砸致孩子离世",
@@ -3009,14 +3129,6 @@
       "onboard_time": 1739953823,
       "rank": 29,
       "category": "财经"
-    },
-    {
-      "raw_hot": 74448,
-      "num": 217522,
-      "word": "医生称郭艾伦情况较乐观",
-      "onboard_time": 1739973624,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 74004,
@@ -3121,6 +3233,14 @@
       "onboard_time": 1739969242,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55141,
+      "num": 1244884,
+      "word": "专家解读促进民营经济发展工作重点",
+      "onboard_time": 1739976024,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54920,

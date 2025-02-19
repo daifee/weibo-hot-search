@@ -1,0 +1,410 @@
+{
+  "runTime": 1739978729987,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3175334,
+        "num": 3175334,
+        "word": "导演郑某峰涉嫌猥亵儿童被刑拘",
+        "onboard_time": 1739972602,
+        "rank": 0,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 1286508,
+        "num": 1286508,
+        "word": "我承认对难哄大声了一点",
+        "onboard_time": 1739969841,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55141,
+        "num": 1244884,
+        "word": "专家解读促进民营经济发展工作重点",
+        "onboard_time": 1739976024,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1225993,
+        "num": 1225993,
+        "word": "红房子13集 封神",
+        "onboard_time": 1739975241,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1051743,
+        "num": 1051743,
+        "word": "重庆姐弟坠亡案2个母亲的重生路",
+        "onboard_time": 1739977461,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 674583,
+        "num": 674583,
+        "word": "王楚钦大心脏",
+        "onboard_time": 1739974703,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1133705,
+        "num": 671945,
+        "word": "昀牵孟绕",
+        "onboard_time": 1739975603,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1097855,
+        "num": 664477,
+        "word": "哪吒创作团队停止所有对外采访",
+        "onboard_time": 1739967800,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 649365,
+        "num": 649365,
+        "word": "特朗普说美国有360岁老人还在领社保",
+        "onboard_time": 1739964320,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 484999,
+        "num": 484999,
+        "word": "金价一夜暴涨12元",
+        "onboard_time": 1739974224,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 190405,
+        "num": 476428,
+        "word": "警方通报导演郑某峰涉嫌猥亵儿童",
+        "onboard_time": 1739977643,
+        "rank": 10,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 728184,
+        "num": 465781,
+        "word": "饺子导演已闭关",
+        "onboard_time": 1739950400,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 616616,
+        "num": 462492,
+        "word": "网曝711店员熟食区做不雅行为",
+        "onboard_time": 1739959400,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 607831,
+        "num": 450175,
+        "word": "朴春 李敏镐",
+        "onboard_time": 1739957721,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77692,
+        "num": 434025,
+        "word": "一张实名手机卡卖600至1000元不等",
+        "onboard_time": 1739977102,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 561951,
+        "num": 432239,
+        "word": "别再P图了好吗发博道歉",
+        "onboard_time": 1739976624,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 422714,
+        "num": 422714,
+        "word": "好利来通报表扬员工连续工作29小时",
+        "onboard_time": 1739961860,
+        "rank": 16,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 404265,
+        "num": 404265,
+        "word": "哪吒2官方登顶海报",
+        "onboard_time": 1739974523,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 366726,
+        "num": 366726,
+        "word": "七旬老人动迁分4套房卖了16次",
+        "onboard_time": 1739974942,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119552,
+        "num": 360613,
+        "word": "丈夫离家18年后要离婚分妻子家产",
+        "onboard_time": 1739977822,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 453943,
+        "num": 360531,
+        "word": "女子戴耳环不摘耳垂长出葡萄瘤",
+        "onboard_time": 1739974523,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360309,
+        "num": 360309,
+        "word": "哪吒2破125亿",
+        "onboard_time": 1739970081,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 353175,
+        "num": 353175,
+        "word": "认不出来这是A妹了",
+        "onboard_time": 1739967080,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330693,
+        "num": 330693,
+        "word": "眼科医生给高度近视的20个建议",
+        "onboard_time": 1739972423,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 326271,
+        "num": 326271,
+        "word": "温以凡 明艳大美女",
+        "onboard_time": 1739954961,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306111,
+        "num": 306111,
+        "word": "哪吒2一亿一亿往上追",
+        "onboard_time": 1739976202,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 281827,
+        "num": 281827,
+        "word": "内耗的人适合培养输出型爱好",
+        "onboard_time": 1739961260,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227103,
+        "num": 227103,
+        "word": "红房子直播",
+        "onboard_time": 1739977522,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223947,
+        "num": 223947,
+        "word": "孟子义攒了几部剧没播",
+        "onboard_time": 1739971343,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210971,
+        "num": 210971,
+        "word": "网友晒与白鹿十年前合照",
+        "onboard_time": 1739957000,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201229,
+        "num": 201229,
+        "word": "柯淳 无限超越班",
+        "onboard_time": 1739966840,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192966,
+        "num": 192966,
+        "word": "哪吒2全球动画第1",
+        "onboard_time": 1739879063,
+        "rank": 31,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 189236,
+        "num": 189236,
+        "word": "温以凡换床单了",
+        "onboard_time": 1739977461,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175949,
+        "num": 175949,
+        "word": "好一个乖乖女",
+        "onboard_time": 1739971222,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170793,
+        "num": 170793,
+        "word": "爱奇艺会员收入降13%",
+        "onboard_time": 1739975543,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 159635,
+        "num": 159635,
+        "word": "高校回应不交800元考证无法毕业",
+        "onboard_time": 1739976504,
+        "rank": 35,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 156438,
+        "num": 156438,
+        "word": "男子爱挖鼻孔致动脉血管破裂",
+        "onboard_time": 1739966121,
+        "rank": 36,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 156157,
+        "num": 156157,
+        "word": "配音圈团建",
+        "onboard_time": 1739969061,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 155737,
+        "num": 155737,
+        "word": "红房子 父母爱情",
+        "onboard_time": 1739970320,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152150,
+        "num": 152150,
+        "word": "湖南卫视考古杨紫",
+        "onboard_time": 1739968580,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93222,
+        "num": 151840,
+        "word": "演员请就位3比演技还是博流量",
+        "onboard_time": 1739976802,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151587,
+        "num": 151587,
+        "word": "医生称郭艾伦情况较乐观",
+        "onboard_time": 1739973624,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133823,
+        "num": 133823,
+        "word": "李某某当庭否认殴打妻子灌面汤",
+        "onboard_time": 1739975962,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132848,
+        "num": 132848,
+        "word": "3种蔬菜比牛奶还补钙",
+        "onboard_time": 1739962761,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 125706,
+        "num": 125706,
+        "word": "董思成kissshy手势舞",
+        "onboard_time": 1739978541,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79836,
+        "num": 123246,
+        "word": "泽连斯基称希望今年结束战争",
+        "onboard_time": 1739976624,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122338,
+        "num": 122338,
+        "word": "三部在播剧口碑分化",
+        "onboard_time": 1739968521,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121216,
+        "num": 121216,
+        "word": "十年前的白梦妍嫩得掐出水来了",
+        "onboard_time": 1739978601,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117016,
+        "num": 117016,
+        "word": "邓为原声",
+        "onboard_time": 1739978601,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113133,
+        "num": 113133,
+        "word": "1岁半宝宝打疫苗双手插兜表情淡定",
+        "onboard_time": 1739972543,
+        "rank": 49,
+        "category": "民生新闻,母婴育儿"
+      }
+    ],
+    "hotgov": {
+      "word": "#感悟总书记对民企发展的关怀#"
+    }
+  }
+}
