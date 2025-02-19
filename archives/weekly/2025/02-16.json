@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1740007292312,
+  "endTime": 1740008151074,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -337,6 +337,14 @@
       "onboard_time": 1739784799,
       "rank": 11,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1889517,
+      "num": 163392,
+      "word": "男孩蛋蛋被同学踢碎成果冻",
+      "onboard_time": 1740006555,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1887589,
@@ -721,14 +729,6 @@
       "onboard_time": 1739697439,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1340404,
-      "num": 130534,
-      "word": "男孩蛋蛋被同学踢碎成果冻",
-      "onboard_time": 1740006555,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1340032,
@@ -1569,6 +1569,14 @@
       "onboard_time": 1739932880,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 803700,
+      "num": 803700,
+      "word": "外交部回应小特朗普涉华言论",
+      "onboard_time": 1740006616,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 801259,
@@ -2793,14 +2801,6 @@
       "onboard_time": 1739969061,
       "rank": 46,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 469994,
-      "num": 469994,
-      "word": "外交部回应小特朗普涉华言论",
-      "onboard_time": 1740006616,
-      "rank": 3,
-      "category": "国际时政"
     },
     {
       "raw_hot": 469690,
@@ -5091,6 +5091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 251484,
+      "num": 251484,
+      "word": "iPhone16e定价4499元起",
+      "onboard_time": 1739982915,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 251421,
       "num": 360408,
       "word": "盛李豪黄雨婷又夺冠了",
@@ -5331,6 +5339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240378,
+      "num": 291878,
+      "word": "俄军已越过库尔斯克地区俄乌边界",
+      "onboard_time": 1739978721,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 240144,
       "num": 410568,
       "word": "美政府紧急召回一批辞退员工",
@@ -5409,6 +5425,14 @@
       "onboard_time": 1739961081,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 237691,
+      "num": 237691,
+      "word": "体育课不能说起来重要忙起来不要",
+      "onboard_time": 1740004513,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 237690,
@@ -5491,6 +5515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234089,
+      "num": 162840,
+      "word": "老板回应因顾客加5勺辣椒报警",
+      "onboard_time": 1739978960,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 233706,
       "num": 494378,
       "word": "罗福莉为DeepSeek创始人名下企业合伙人",
@@ -5521,14 +5553,6 @@
       "onboard_time": 1739662094,
       "rank": 30,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 232689,
-      "num": 291878,
-      "word": "俄军已越过库尔斯克地区俄乌边界",
-      "onboard_time": 1739978721,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 232633,
@@ -5819,14 +5843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 220245,
-      "num": 220245,
-      "word": "iPhone16e定价4499元起",
-      "onboard_time": 1739982915,
-      "rank": 16,
-      "category": "数码"
-    },
-    {
       "raw_hot": 219857,
       "num": 219857,
       "word": "仿妆余莺儿网红称面临失业风险",
@@ -5841,14 +5857,6 @@
       "onboard_time": 1739842998,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 219646,
-      "num": 219646,
-      "word": "体育课不能说起来重要忙起来不要",
-      "onboard_time": 1740004513,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 219295,
@@ -7195,14 +7203,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 185708,
-      "num": 128242,
-      "word": "老板回应因顾客加5勺辣椒报警",
-      "onboard_time": 1739978960,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 185585,
       "num": 185585,
       "word": "HLE晋级LCK杯决赛",
@@ -8480,6 +8480,14 @@
       "word": "加拿大客机翻转落地内部一片狼藉",
       "onboard_time": 1739843297,
       "rank": 19,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 151480,
+      "num": 234751,
+      "word": "美国2架小飞机空中相撞",
+      "onboard_time": 1740007036,
+      "rank": 24,
       "category": "海外新闻"
     },
     {
@@ -9891,6 +9899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114696,
+      "num": 114696,
+      "word": "六姊妹秘方传女不传男",
+      "onboard_time": 1739993711,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114649,
       "num": 114649,
       "word": "成毅一抹湛蓝",
@@ -9939,20 +9955,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 113644,
-      "num": 113644,
-      "word": "美国2架小飞机空中相撞",
-      "onboard_time": 1740007036,
-      "rank": 24,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 113335,
       "num": 113335,
       "word": "这个2.5亿意味着什么",
       "onboard_time": 1739928679,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 113260,
+      "num": 193040,
+      "word": "四川一地明令禁止聚餐使用四季豆",
+      "onboard_time": 1739984418,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113220,
@@ -10027,14 +10043,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 110607,
-      "num": 110607,
-      "word": "六姊妹秘方传女不传男",
-      "onboard_time": 1739993711,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 110502,
       "num": 110502,
       "word": "当你今天开始早睡觉",
@@ -10065,6 +10073,14 @@
       "onboard_time": 1739893102,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 109438,
+      "num": 109438,
+      "word": "5万悬赏爱犬被两条流浪狗收养",
+      "onboard_time": 1740007036,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109048,
@@ -10177,6 +10193,14 @@
       "onboard_time": 1739929880,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105271,
+      "num": 234912,
+      "word": "DeepSeek测出理想伴侣仅存个位数",
+      "onboard_time": 1740007036,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 105270,
@@ -10401,14 +10425,6 @@
       "onboard_time": 1739682019,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 100494,
-      "num": 193040,
-      "word": "四川一地明令禁止聚餐使用四季豆",
-      "onboard_time": 1739984418,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 100393,
@@ -11315,14 +11331,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 68712,
-      "num": 68712,
-      "word": "5万悬赏爱犬被两条流浪狗收养",
-      "onboard_time": 1740007036,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 68215,
       "num": 1064711,
       "word": "我国成全球领先的人形机器人生产国",
@@ -11531,6 +11539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60658,
+      "num": 60658,
+      "word": "特朗普称美国给了乌克兰很多钱",
+      "onboard_time": 1739997912,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 60581,
       "num": 59569,
       "word": "张继科回应吴敬平博文",
@@ -11568,6 +11584,14 @@
       "word": "男子跳入冰河救起三名儿童默默离开",
       "onboard_time": 1739875642,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59726,
+      "num": 59726,
+      "word": "美甲师做敖闰穿戴甲忙疯了",
+      "onboard_time": 1740008058,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -11723,14 +11747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 54849,
-      "num": 54849,
-      "word": "特朗普称美国给了乌克兰很多钱",
-      "onboard_time": 1739997912,
-      "rank": 27,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 54502,
       "num": 289866,
       "word": "DeepSeek发布技术论文",
@@ -11825,14 +11841,6 @@
       "onboard_time": 1739648652,
       "rank": 29,
       "category": "民生新闻,电影"
-    },
-    {
-      "raw_hot": 50453,
-      "num": 50453,
-      "word": "DeepSeek测出理想伴侣仅存个位数",
-      "onboard_time": 1740007036,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 49837,
