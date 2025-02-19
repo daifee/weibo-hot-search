@@ -1,6 +1,6 @@
 {
   "startTime": 1739982473012,
-  "endTime": 1739983421856,
+  "endTime": 1739985642169,
   "band_list": [
     {
       "raw_hot": 1412108,
@@ -27,6 +27,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 731357,
+      "num": 731357,
+      "word": "iPhone16e发布",
+      "onboard_time": 1739982618,
+      "rank": 3,
+      "category": "数码"
+    },
+    {
       "raw_hot": 687766,
       "num": 340726,
       "word": "别再P图了好吗发博道歉",
@@ -51,14 +59,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 632236,
-      "num": 632236,
-      "word": "iPhone16e发布",
-      "onboard_time": 1739982618,
-      "rank": 3,
-      "category": "数码"
-    },
-    {
       "raw_hot": 596359,
       "num": 596359,
       "word": "重庆姐弟坠亡案2个母亲的重生路",
@@ -81,6 +81,14 @@
       "onboard_time": 1739975603,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 483449,
+      "num": 483449,
+      "word": "苹果发布会",
+      "onboard_time": 1739983575,
+      "rank": 3,
+      "category": "数码"
     },
     {
       "raw_hot": 448156,
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 226938,
-      "num": 158117,
+      "num": 213496,
       "word": "白敬亭发博晒重庆难哄限定版",
       "onboard_time": 1739979920,
       "rank": 25,
@@ -192,6 +200,14 @@
       "word": "女子戴耳环不摘耳垂长出葡萄瘤",
       "onboard_time": 1739974523,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191037,
+      "num": 191037,
+      "word": "一高中禁带面包后菜价降5毛",
+      "onboard_time": 1739983216,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -241,6 +257,22 @@
       "onboard_time": 1739961260,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 144567,
+      "num": 144567,
+      "word": "iPhone16e",
+      "onboard_time": 1739984235,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 141943,
+      "num": 141943,
+      "word": "iPhone16e配置",
+      "onboard_time": 1739984418,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 141370,
@@ -297,6 +329,14 @@
       "onboard_time": 1739970081,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 128608,
+      "num": 128608,
+      "word": "肖凯文回应借王楚钦衣服",
+      "onboard_time": 1739983335,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 127704,
@@ -363,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96392,
+      "num": 193040,
+      "word": "四川一地明令禁止聚餐使用四季豆",
+      "onboard_time": 1739984418,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87653,
       "num": 87653,
       "word": "湖南卫视考古杨紫",
@@ -403,14 +451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 77543,
-      "num": 77543,
-      "word": "肖凯文回应借王楚钦衣服",
-      "onboard_time": 1739983335,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 76207,
       "num": 76207,
       "word": "iPhone16e两款配色",
@@ -427,12 +467,12 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 40128,
-      "num": 131082,
-      "word": "一高中禁带面包后菜价降5毛",
-      "onboard_time": 1739983216,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 51726,
+      "num": 51726,
+      "word": "皇马vs曼城",
+      "onboard_time": 1739982257,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 35211,
@@ -440,6 +480,14 @@
       "word": "专家解读促进民营经济发展工作重点",
       "onboard_time": 1739976024,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17415,
+      "num": 55160,
+      "word": "宇树科技机器人爆火一度断货下架",
+      "onboard_time": 1739985617,
+      "rank": 42,
       "category": "民生新闻"
     }
   ],

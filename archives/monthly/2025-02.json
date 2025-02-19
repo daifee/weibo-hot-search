@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739983421856,
+  "endTime": 1739985642169,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -6979,6 +6979,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 731357,
+      "num": 731357,
+      "word": "iPhone16e发布",
+      "onboard_time": 1739982618,
+      "rank": 3,
+      "category": "数码"
+    },
+    {
       "raw_hot": 729823,
       "num": 729823,
       "word": "AI才女罗福莉已到新岗位上班",
@@ -8425,14 +8433,6 @@
       "onboard_time": 1739282543,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 632236,
-      "num": 632236,
-      "word": "iPhone16e发布",
-      "onboard_time": 1739982618,
-      "rank": 3,
-      "category": "数码"
     },
     {
       "raw_hot": 631861,
@@ -11521,6 +11521,14 @@
       "onboard_time": 1738649722,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 483449,
+      "num": 483449,
+      "word": "苹果发布会",
+      "onboard_time": 1739983575,
+      "rank": 3,
+      "category": "数码"
     },
     {
       "raw_hot": 483307,
@@ -23540,7 +23548,7 @@
     },
     {
       "raw_hot": 226938,
-      "num": 158117,
+      "num": 213496,
       "word": "白敬亭发博晒重庆难哄限定版",
       "onboard_time": 1739979920,
       "rank": 25,
@@ -29729,6 +29737,14 @@
       "onboard_time": 1739145859,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191037,
+      "num": 191037,
+      "word": "一高中禁带面包后菜价降5毛",
+      "onboard_time": 1739983216,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190998,
@@ -38915,6 +38931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144567,
+      "num": 144567,
+      "word": "iPhone16e",
+      "onboard_time": 1739984235,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 144473,
       "num": 176962,
       "word": "王鹤棣在国际场合进行了一波文化输出",
@@ -39513,6 +39537,14 @@
       "onboard_time": 1739970432,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141943,
+      "num": 141943,
+      "word": "iPhone16e配置",
+      "onboard_time": 1739984418,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 141934,
@@ -42064,6 +42096,14 @@
       "word": "孙颖莎夺冠后说谢谢大家来加油",
       "onboard_time": 1739112322,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 128608,
+      "num": 128608,
+      "word": "肖凯文回应借王楚钦衣服",
+      "onboard_time": 1739983335,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -47555,6 +47595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96392,
+      "num": 193040,
+      "word": "四川一地明令禁止聚餐使用四季豆",
+      "onboard_time": 1739984418,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96366,
       "num": 96366,
       "word": "只有浙江人才知道的省饮",
@@ -49801,14 +49849,6 @@
       "onboard_time": 1739171960,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 77543,
-      "num": 77543,
-      "word": "肖凯文回应借王楚钦衣服",
-      "onboard_time": 1739983335,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 77540,
@@ -53211,6 +53251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51726,
+      "num": 51726,
+      "word": "皇马vs曼城",
+      "onboard_time": 1739982257,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51686,
       "num": 242492,
       "word": "中国姑娘包揽金银铜",
@@ -54833,14 +54881,6 @@
       "onboard_time": 1739347281,
       "rank": 14,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 40128,
-      "num": 131082,
-      "word": "一高中禁带面包后菜价降5毛",
-      "onboard_time": 1739983216,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 40091,
@@ -58593,6 +58633,14 @@
       "onboard_time": 1738942462,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 17415,
+      "num": 55160,
+      "word": "宇树科技机器人爆火一度断货下架",
+      "onboard_time": 1739985617,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17399,
