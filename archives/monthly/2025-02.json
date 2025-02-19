@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739947465217,
+  "endTime": 1739949705735,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -2651,6 +2651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1390116,
+      "num": 1390116,
+      "word": "章若楠 没有攻击性",
+      "onboard_time": 1739946441,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1388627,
       "num": 1104355,
       "word": "金赛纶被曝生前重度抑郁",
@@ -3265,14 +3273,6 @@
       "onboard_time": 1739263342,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1227658,
-      "num": 1227658,
-      "word": "章若楠 没有攻击性",
-      "onboard_time": 1739946441,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 1225009,
@@ -4499,6 +4499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 992940,
+      "num": 992940,
+      "word": "难哄剧情 无聊",
+      "onboard_time": 1739947760,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 991425,
       "num": 706839,
       "word": "马丽方律师声明",
@@ -4705,6 +4713,14 @@
       "onboard_time": 1739150239,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 971357,
+      "num": 458744,
+      "word": "张馨予滑雪买了500元照片",
+      "onboard_time": 1739947398,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 970984,
@@ -12427,6 +12443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 434446,
+      "num": 376364,
+      "word": "朴灿烈ins晒与张艺兴合照",
+      "onboard_time": 1739946921,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 434352,
       "num": 410156,
       "word": "陶勇谈郭艾伦眼睛受伤",
@@ -14745,6 +14769,14 @@
       "onboard_time": 1739866943,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 360138,
+      "num": 360138,
+      "word": "张晚意工作室回应恋情传闻",
+      "onboard_time": 1739947700,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 359909,
@@ -18771,6 +18803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 278039,
+      "num": 278039,
+      "word": "生命树",
+      "onboard_time": 1739946680,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 278035,
       "num": 267318,
       "word": "不要因为花父母的钱而感到内疚",
@@ -20571,6 +20611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 251421,
+      "num": 360408,
+      "word": "盛李豪黄雨婷又夺冠了",
+      "onboard_time": 1739949141,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251296,
       "num": 516361,
       "word": "孙颖莎3比0徐孝元",
@@ -20601,6 +20649,14 @@
       "onboard_time": 1738474338,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 250909,
+      "num": 360953,
+      "word": "仙台有树新浪扫楼",
+      "onboard_time": 1739948960,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 250892,
@@ -21059,6 +21115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245847,
+      "num": 245847,
+      "word": "黄友政3比1张本智和",
+      "onboard_time": 1739948479,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 245812,
       "num": 245812,
       "word": "我吃瓜就谢娜这样",
@@ -21177,6 +21241,14 @@
       "onboard_time": 1738466657,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 244391,
+      "num": 301335,
+      "word": "泽连斯基被曝仅有1小时同意美方方案",
+      "onboard_time": 1739939302,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 244266,
@@ -24171,14 +24243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 215922,
-      "num": 321473,
-      "word": "朴灿烈ins晒与张艺兴合照",
-      "onboard_time": 1739946921,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 215920,
       "num": 215920,
       "word": "张馨予用AI变装敖闰",
@@ -25033,6 +25097,14 @@
       "onboard_time": 1738498459,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 209283,
+      "num": 209283,
+      "word": "鲁尼求婚成功",
+      "onboard_time": 1739949200,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 209273,
@@ -27009,14 +27081,6 @@
       "onboard_time": 1739939843,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199087,
-      "num": 199087,
-      "word": "生命树",
-      "onboard_time": 1739946680,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 199061,
@@ -30155,6 +30219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183392,
+      "num": 183392,
+      "word": "魏大勋这是大侦探不是春晚",
+      "onboard_time": 1739949320,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183369,
       "num": 183369,
       "word": "我妈到底都在网上看了些啥",
@@ -30771,6 +30843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 180296,
+      "num": 180296,
+      "word": "多邻国官宣去世的小绿鸟还有后续",
+      "onboard_time": 1739949259,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 180232,
       "num": 180232,
       "word": "哪吒敖丙和敖光的身高差",
@@ -30993,6 +31073,14 @@
       "onboard_time": 1739632642,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179037,
+      "num": 179037,
+      "word": "法国小伙亲人遭侵华日军毒果汁毒死",
+      "onboard_time": 1739949320,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 178900,
@@ -31385,14 +31473,6 @@
       "onboard_time": 1739615240,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 176272,
-      "num": 301335,
-      "word": "泽连斯基被曝仅有1小时同意美方方案",
-      "onboard_time": 1739939302,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 176250,
@@ -31921,6 +32001,14 @@
       "onboard_time": 1738805183,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 173305,
+      "num": 173305,
+      "word": "桑延难哄白敬亭好哄",
+      "onboard_time": 1739949380,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 173304,
@@ -32584,6 +32672,14 @@
       "word": "苦药亦是药",
       "onboard_time": 1739934321,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 169785,
+      "num": 169785,
+      "word": "杨紫李光洁金瀚或主演生命树",
+      "onboard_time": 1739948120,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -33275,6 +33371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165987,
+      "num": 165987,
+      "word": "花傲天说LGD的目标依然是冠军",
+      "onboard_time": 1739949200,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165971,
       "num": 165971,
       "word": "哪吒2美国热映观众评价太棒了",
@@ -33329,6 +33433,14 @@
       "onboard_time": 1739349261,
       "rank": 20,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 165710,
+      "num": 382171,
+      "word": "A股指数走高",
+      "onboard_time": 1739949141,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 165628,
@@ -33633,6 +33745,14 @@
       "onboard_time": 1738840344,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163913,
+      "num": 163913,
+      "word": "许昕坐刘国梁旁边",
+      "onboard_time": 1739949080,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 163883,
@@ -36361,6 +36481,14 @@
       "onboard_time": 1739021423,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150357,
+      "num": 254395,
+      "word": "国家网信办查处82款违法违规APP",
+      "onboard_time": 1739947700,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150348,
@@ -40955,14 +41083,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 127191,
-      "num": 127191,
-      "word": "张馨予滑雪买了500元照片",
-      "onboard_time": 1739947398,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 127182,
       "num": 127182,
       "word": "梁永棋女婿误入姐妹群",
@@ -44187,6 +44307,14 @@
       "category": "电影,民生新闻"
     },
     {
+      "raw_hot": 108823,
+      "num": 203556,
+      "word": "未来AI机器人或能小到进入血管",
+      "onboard_time": 1739947460,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108771,
       "num": 117569,
       "word": "德银称中国股票的估值折价将消失",
@@ -44625,6 +44753,14 @@
       "onboard_time": 1738669765,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105734,
+      "num": 259845,
+      "word": "孙颖莎亚洲杯首胜",
+      "onboard_time": 1739949200,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 105717,
@@ -45817,6 +45953,14 @@
       "onboard_time": 1739597359,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98751,
+      "num": 384940,
+      "word": "高中就不许学生带面包入校致歉",
+      "onboard_time": 1739948960,
+      "rank": 13,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 98721,
@@ -50811,6 +50955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56371,
+      "num": 202989,
+      "word": "律师谈孕妇被箱子砸致孩子离世",
+      "onboard_time": 1739949561,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56346,
       "num": 56346,
       "word": "走失19天不幸去世女子父亲发声",
@@ -54497,6 +54649,14 @@
       "onboard_time": 1739902153,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 31481,
+      "num": 203160,
+      "word": "郑钦文vs斯特恩斯",
+      "onboard_time": 1739949621,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 31416,
