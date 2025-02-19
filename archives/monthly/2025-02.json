@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739964963830,
+  "endTime": 1739968873669,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -2123,6 +2123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1576527,
+      "num": 1576527,
+      "word": "好利来通报表扬员工连续工作29小时",
+      "onboard_time": 1739961860,
+      "rank": 5,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 1572933,
       "num": 1474546,
       "word": "哪吒2洛杉矶首映结束全场鼓掌",
@@ -3011,6 +3019,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1298785,
+      "num": 280245,
+      "word": "男子爱挖鼻孔致动脉血管破裂",
+      "onboard_time": 1739966121,
+      "rank": 21,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 1297754,
       "num": 1297754,
       "word": "哪吒之魔童闹海总票房破57亿元",
@@ -3137,6 +3153,14 @@
       "onboard_time": 1739511500,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1269182,
+      "num": 1269182,
+      "word": "特朗普说美国有360岁老人还在领社保",
+      "onboard_time": 1739964320,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1266281,
@@ -3513,14 +3537,6 @@
       "onboard_time": 1738912163,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1200526,
-      "num": 1200526,
-      "word": "好利来通报表扬员工连续工作29小时",
-      "onboard_time": 1739961860,
-      "rank": 5,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 1200437,
@@ -4720,6 +4736,14 @@
       "word": "饺子导演原来是周星驰的迷弟",
       "onboard_time": 1739886923,
       "rank": 23,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 975800,
+      "num": 975800,
+      "word": "哪吒创作团队停止所有对外采访",
+      "onboard_time": 1739967800,
+      "rank": 4,
       "category": "电影"
     },
     {
@@ -9787,6 +9811,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 547383,
+      "num": 547383,
+      "word": "柯淳 无限超越班",
+      "onboard_time": 1739966840,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 547202,
       "num": 545331,
       "word": "陈乔恩回应被指虚伪",
@@ -9873,6 +9905,14 @@
       "onboard_time": 1738808963,
       "rank": 8,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 542742,
+      "num": 365762,
+      "word": "难哄全网登顶",
+      "onboard_time": 1739963181,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 542427,
@@ -10361,6 +10401,14 @@
       "onboard_time": 1738671505,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 520821,
+      "num": 520821,
+      "word": "家属否认39岁博导因被劝酒去世",
+      "onboard_time": 1739966780,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 520551,
@@ -11457,6 +11505,14 @@
       "onboard_time": 1739716104,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 478963,
+      "num": 364066,
+      "word": "认不出来这是A妹了",
+      "onboard_time": 1739967080,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 477646,
@@ -15123,6 +15179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 357380,
+      "num": 357380,
+      "word": "网曝711店员熟食区做不雅行为",
+      "onboard_time": 1739959400,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 356907,
       "num": 356907,
       "word": "网传小学老师因末位淘汰轻生",
@@ -15433,6 +15497,14 @@
       "onboard_time": 1738848265,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 349354,
+      "num": 349354,
+      "word": "美团全职及稳定兼职骑手将获社保",
+      "onboard_time": 1739960602,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 349352,
@@ -17195,6 +17267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 310764,
+      "num": 279062,
+      "word": "3种蔬菜比牛奶还补钙",
+      "onboard_time": 1739962761,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 310546,
       "num": 310546,
       "word": "特朗普为内塔尼亚胡推椅子",
@@ -17729,14 +17809,6 @@
       "onboard_time": 1738899448,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 301057,
-      "num": 301057,
-      "word": "网曝711店员熟食区做不雅行为",
-      "onboard_time": 1739959400,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 300959,
@@ -18771,14 +18843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 283889,
-      "num": 283889,
-      "word": "难哄全网登顶",
-      "onboard_time": 1739963181,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 283816,
       "num": 283816,
       "word": "夫妇花7万5做试管婴儿怀疑被骗",
@@ -18865,6 +18929,14 @@
       "onboard_time": 1738988788,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 281296,
+      "num": 281296,
+      "word": "蔡徐坤亚洲最时尚大赏",
+      "onboard_time": 1739967022,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 281235,
@@ -19057,6 +19129,14 @@
       "onboard_time": 1739001091,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 278227,
+      "num": 278227,
+      "word": "魏大勋听不得马耳他三个字",
+      "onboard_time": 1739961140,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 278104,
@@ -22395,14 +22475,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 234450,
-      "num": 234450,
-      "word": "魏大勋听不得马耳他三个字",
-      "onboard_time": 1739961140,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 234432,
       "num": 349326,
       "word": "前田陆归队",
@@ -23555,14 +23627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 223929,
-      "num": 223929,
-      "word": "3种蔬菜比牛奶还补钙",
-      "onboard_time": 1739962761,
-      "rank": 42,
-      "category": "美食"
-    },
-    {
       "raw_hot": 223909,
       "num": 311095,
       "word": "丁宁担任亚冬会执旗手",
@@ -23712,6 +23776,14 @@
       "word": "王佑硕说顶线的艺人是肖战",
       "onboard_time": 1739864484,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 222571,
+      "num": 222571,
+      "word": "任贤齐南京开摩托违规被开罚单",
+      "onboard_time": 1739964859,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -24595,6 +24667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216596,
+      "num": 216596,
+      "word": "孟子义何与 东风信",
+      "onboard_time": 1739964559,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216414,
       "num": 419069,
       "word": "周笔畅声生不息微博网友挚爱歌手",
@@ -25345,14 +25425,6 @@
       "onboard_time": 1739412080,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 210780,
-      "num": 210780,
-      "word": "特朗普说美国有360岁老人还在领社保",
-      "onboard_time": 1739964320,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 210689,
@@ -26216,6 +26288,14 @@
       "word": "云包场",
       "onboard_time": 1738404497,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 205647,
+      "num": 205647,
+      "word": "陈哲远说阿瓒是时候说再见了",
+      "onboard_time": 1739967622,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -27355,6 +27435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200076,
+      "num": 200076,
+      "word": "英雄联盟",
+      "onboard_time": 1739967920,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 200006,
       "num": 200006,
       "word": "徐明浩BamBam四国语言聊天",
@@ -27857,14 +27945,6 @@
       "onboard_time": 1739155880,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 197850,
-      "num": 197850,
-      "word": "孟子义何与 东风信",
-      "onboard_time": 1739964559,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 197710,
@@ -28577,6 +28657,14 @@
       "onboard_time": 1739510481,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 194263,
+      "num": 194263,
+      "word": "一觉醒来周边都被家长卖了的体验",
+      "onboard_time": 1739968222,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 194205,
@@ -30363,6 +30451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185463,
+      "num": 185463,
+      "word": "三部在播剧口碑分化",
+      "onboard_time": 1739968521,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185423,
       "num": 185423,
       "word": "沈月坐地铁自拍",
@@ -31832,6 +31928,14 @@
       "word": "范可新超越好帅",
       "onboard_time": 1738983380,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 177602,
+      "num": 177602,
+      "word": "郭艾伦最新采访",
+      "onboard_time": 1739965881,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -35459,6 +35563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 158577,
+      "num": 158577,
+      "word": "湖南卫视考古杨紫",
+      "onboard_time": 1739968580,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158562,
       "num": 148551,
       "word": "陈哲远梁洁情人节cos朱迪尼克",
@@ -37915,6 +38027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146195,
+      "num": 146195,
+      "word": "广州地铁",
+      "onboard_time": 1739967680,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146182,
       "num": 189143,
       "word": "杨颖民国新娘单手持枪反差感",
@@ -37937,6 +38057,14 @@
       "onboard_time": 1738384398,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146048,
+      "num": 146048,
+      "word": "郭子凡徐梦洁新剧演夫妻",
+      "onboard_time": 1739968822,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 146038,
@@ -39433,14 +39561,6 @@
       "onboard_time": 1738497678,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 138995,
-      "num": 138995,
-      "word": "任贤齐南京开摩托违规被开罚单",
-      "onboard_time": 1739964859,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 138987,
@@ -46395,6 +46515,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 100333,
+      "num": 141806,
+      "word": "法国小伙所捐照片鉴定后择期进行仪式",
+      "onboard_time": 1739965759,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 100159,
       "num": 210197,
       "word": "黎深狼尾发型",
@@ -46737,6 +46865,14 @@
       "onboard_time": 1738844903,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97801,
+      "num": 280505,
+      "word": "熟悉的乱穿衣模式回来了",
+      "onboard_time": 1739968460,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97735,
@@ -47105,6 +47241,14 @@
       "onboard_time": 1738750046,
       "rank": 46,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 94820,
+      "num": 280792,
+      "word": "王曼昱vs李恩惠",
+      "onboard_time": 1739968281,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 94677,
@@ -48793,6 +48937,14 @@
       "onboard_time": 1739795901,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 79080,
+      "num": 278734,
+      "word": "观众叫不出周柯宇但能叫出宋丛",
+      "onboard_time": 1739967622,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 79036,
@@ -50785,6 +50937,14 @@
       "onboard_time": 1739506765,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 62591,
+      "num": 223288,
+      "word": "取消外商投资性公司使用境内贷款限制",
+      "onboard_time": 1739968281,
+      "rank": 29,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 62498,
@@ -59481,6 +59641,14 @@
       "onboard_time": 1739702179,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 6887,
+      "num": 194759,
+      "word": "邓为与向涵之现场还原表情包",
+      "onboard_time": 1739968822,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 6877,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1739968873669,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1576527,
+        "num": 1576527,
+        "word": "好利来通报表扬员工连续工作29小时",
+        "onboard_time": 1739961860,
+        "rank": 0,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 1269182,
+        "num": 1269182,
+        "word": "特朗普说美国有360岁老人还在领社保",
+        "onboard_time": 1739964320,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 7256,
+        "num": 1261974,
+        "word": "中国式现代化的万千气象海南行",
+        "onboard_time": 1739782103,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1258648,
+        "num": 1258648,
+        "word": "饺子导演已闭关",
+        "onboard_time": 1739950400,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 975800,
+        "num": 975800,
+        "word": "哪吒创作团队停止所有对外采访",
+        "onboard_time": 1739967800,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 731297,
+        "num": 731297,
+        "word": "内耗的人适合培养输出型爱好",
+        "onboard_time": 1739961260,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 587693,
+        "num": 587693,
+        "word": "网友晒与白鹿十年前合照",
+        "onboard_time": 1739957000,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 547383,
+        "num": 547383,
+        "word": "柯淳 无限超越班",
+        "onboard_time": 1739966840,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 520821,
+        "num": 520821,
+        "word": "家属否认39岁博导因被劝酒去世",
+        "onboard_time": 1739966780,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 371835,
+        "num": 371835,
+        "word": "2032年小行星撞击地球概率已升至3.1%",
+        "onboard_time": 1739952681,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1159490,
+        "num": 370261,
+        "word": "朴春 李敏镐",
+        "onboard_time": 1739957721,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1114533,
+        "num": 367869,
+        "word": "没人会在35岁突然丧失工作能力",
+        "onboard_time": 1739953642,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 542742,
+        "num": 365762,
+        "word": "难哄全网登顶",
+        "onboard_time": 1739963181,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 478963,
+        "num": 364066,
+        "word": "认不出来这是A妹了",
+        "onboard_time": 1739967080,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432946,
+        "num": 360500,
+        "word": "哪吒2外网首批口碑",
+        "onboard_time": 1739953041,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 384184,
+        "num": 359688,
+        "word": "711回应店员熟食区做不雅行为",
+        "onboard_time": 1739958501,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 357380,
+        "num": 357380,
+        "word": "网曝711店员熟食区做不雅行为",
+        "onboard_time": 1739959400,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349354,
+        "num": 349354,
+        "word": "美团全职及稳定兼职骑手将获社保",
+        "onboard_time": 1739960602,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 281296,
+        "num": 281296,
+        "word": "蔡徐坤亚洲最时尚大赏",
+        "onboard_time": 1739967022,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94820,
+        "num": 280792,
+        "word": "王曼昱vs李恩惠",
+        "onboard_time": 1739968281,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97801,
+        "num": 280505,
+        "word": "熟悉的乱穿衣模式回来了",
+        "onboard_time": 1739968460,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1298785,
+        "num": 280245,
+        "word": "男子爱挖鼻孔致动脉血管破裂",
+        "onboard_time": 1739966121,
+        "rank": 21,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 785286,
+        "num": 279437,
+        "word": "温以凡 明艳大美女",
+        "onboard_time": 1739954961,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310764,
+        "num": 279062,
+        "word": "3种蔬菜比牛奶还补钙",
+        "onboard_time": 1739962761,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 79080,
+        "num": 278734,
+        "word": "观众叫不出周柯宇但能叫出宋丛",
+        "onboard_time": 1739967622,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278227,
+        "num": 278227,
+        "word": "魏大勋听不得马耳他三个字",
+        "onboard_time": 1739961140,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275512,
+        "num": 275512,
+        "word": "12306回应孕妇被行李箱砸中致早产",
+        "onboard_time": 1739940202,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262870,
+        "num": 262870,
+        "word": "哪吒2全球动画第1",
+        "onboard_time": 1739879063,
+        "rank": 27,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 226480,
+        "num": 226480,
+        "word": "六姊妹",
+        "onboard_time": 1739967320,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62591,
+        "num": 223288,
+        "word": "取消外商投资性公司使用境内贷款限制",
+        "onboard_time": 1739968281,
+        "rank": 29,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 222571,
+        "num": 222571,
+        "word": "任贤齐南京开摩托违规被开罚单",
+        "onboard_time": 1739964859,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216596,
+        "num": 216596,
+        "word": "孟子义何与 东风信",
+        "onboard_time": 1739964559,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205647,
+        "num": 205647,
+        "word": "陈哲远说阿瓒是时候说再见了",
+        "onboard_time": 1739967622,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203104,
+        "num": 203104,
+        "word": "射雕英雄传延长上映至3月31日",
+        "onboard_time": 1739960000,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200076,
+        "num": 200076,
+        "word": "英雄联盟",
+        "onboard_time": 1739967920,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 6887,
+        "num": 194759,
+        "word": "邓为与向涵之现场还原表情包",
+        "onboard_time": 1739968822,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194263,
+        "num": 194263,
+        "word": "一觉醒来周边都被家长卖了的体验",
+        "onboard_time": 1739968222,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185463,
+        "num": 185463,
+        "word": "三部在播剧口碑分化",
+        "onboard_time": 1739968521,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177602,
+        "num": 177602,
+        "word": "郭艾伦最新采访",
+        "onboard_time": 1739965881,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173053,
+        "num": 173053,
+        "word": "石矶娘娘雪糕",
+        "onboard_time": 1739959460,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 146717,
+        "num": 165820,
+        "word": "李行亮否认补录再见爱人",
+        "onboard_time": 1739964440,
+        "rank": 40,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 162952,
+        "num": 162952,
+        "word": "仙台有树",
+        "onboard_time": 1739967680,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158666,
+        "num": 158666,
+        "word": "苍兰诀大黑龙追妻的方式好霸总",
+        "onboard_time": 1739961081,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158577,
+        "num": 158577,
+        "word": "湖南卫视考古杨紫",
+        "onboard_time": 1739968580,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150365,
+        "num": 150365,
+        "word": "哪吒",
+        "onboard_time": 1739956641,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146195,
+        "num": 146195,
+        "word": "广州地铁",
+        "onboard_time": 1739967680,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146048,
+        "num": 146048,
+        "word": "郭子凡徐梦洁新剧演夫妻",
+        "onboard_time": 1739968822,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141892,
+        "num": 141892,
+        "word": "何炅帮谢娜节目取了十个名字没用上",
+        "onboard_time": 1739958501,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100333,
+        "num": 141806,
+        "word": "法国小伙所捐照片鉴定后择期进行仪式",
+        "onboard_time": 1739965759,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 8215,
+        "num": 141794,
+        "word": "吉利银河2周年23亿宠粉",
+        "onboard_time": 1739964740,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为民营企业鼓劲#"
+    }
+  }
+}
