@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739996703471,
+  "endTime": 1739997487871,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -13075,6 +13075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14012,
+      "num": 50334,
+      "word": "周末雨雪天气正在加载中",
+      "onboard_time": 1739996531,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14010,
       "num": 210756,
       "word": "魔卡少女樱草莓小蛋糕",
@@ -13265,14 +13273,6 @@
       "onboard_time": 1739891423,
       "rank": 26,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 9737,
-      "num": 24694,
-      "word": "周末雨雪天气正在加载中",
-      "onboard_time": 1739996531,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 9712,
