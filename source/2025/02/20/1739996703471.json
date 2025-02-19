@@ -1,0 +1,410 @@
+{
+  "runTime": 1739996703471,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 148495,
+        "num": 148495,
+        "word": "iPhone16e两款配色",
+        "onboard_time": 1739983397,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 79080,
+        "num": 79080,
+        "word": "李行亮称节目带没带剧本很难自证",
+        "onboard_time": 1739988073,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11517,
+        "num": 65085,
+        "word": "专家解读促进民营经济发展工作重点",
+        "onboard_time": 1739976024,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63609,
+        "num": 63609,
+        "word": "哪吒创作团队停止所有对外采访",
+        "onboard_time": 1739967800,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 62201,
+        "num": 62201,
+        "word": "iPhone16e发布",
+        "onboard_time": 1739982618,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 114656,
+        "num": 60806,
+        "word": "导演郑某峰涉嫌猥亵儿童被刑拘",
+        "onboard_time": 1739972602,
+        "rank": 5,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 62830,
+        "num": 60733,
+        "word": "我承认对难哄大声了一点",
+        "onboard_time": 1739969841,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58206,
+        "num": 58206,
+        "word": "红房子13集 封神",
+        "onboard_time": 1739975241,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55334,
+        "num": 55334,
+        "word": "灌面汤呛死妻子案被告人当庭认罪认罚",
+        "onboard_time": 1739981420,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49862,
+        "num": 49862,
+        "word": "iPhone16e",
+        "onboard_time": 1739984235,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 48485,
+        "num": 48485,
+        "word": "美方打劫乌克兰协议细节曝光",
+        "onboard_time": 1739979321,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 47910,
+        "num": 47910,
+        "word": "BLACKPINK官宣2025世巡场次",
+        "onboard_time": 1739980221,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 45735,
+        "num": 45735,
+        "word": "特朗普说美国有360岁老人还在领社保",
+        "onboard_time": 1739964320,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 42880,
+        "num": 42880,
+        "word": "重庆姐弟坠亡案2个母亲的重生路",
+        "onboard_time": 1739977461,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41261,
+        "num": 41261,
+        "word": "哪吒2香港公映首日获九成影院排片",
+        "onboard_time": 1739981179,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38129,
+        "num": 38129,
+        "word": "天津街头堵飞机了",
+        "onboard_time": 1739991852,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36467,
+        "num": 36467,
+        "word": "朴春 李敏镐",
+        "onboard_time": 1739957721,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31851,
+        "num": 31851,
+        "word": "网曝711店员熟食区做不雅行为",
+        "onboard_time": 1739959400,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31819,
+        "num": 31819,
+        "word": "皇马vs曼城",
+        "onboard_time": 1739982257,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28900,
+        "num": 28900,
+        "word": "十年前的白梦妍嫩得掐出水来了",
+        "onboard_time": 1739978601,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28113,
+        "num": 28113,
+        "word": "iPhone16e定价4499元起",
+        "onboard_time": 1739982915,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 26941,
+        "num": 26941,
+        "word": "七旬老人动迁分4套房卖了16次",
+        "onboard_time": 1739974942,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26246,
+        "num": 26246,
+        "word": "遇害女幼师父亲说女儿是个勇士",
+        "onboard_time": 1739994910,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25530,
+        "num": 25530,
+        "word": "金价一夜暴涨12元",
+        "onboard_time": 1739974224,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 25435,
+        "num": 25435,
+        "word": "哪吒2全球动画第1",
+        "onboard_time": 1739879063,
+        "rank": 24,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 25111,
+        "num": 25111,
+        "word": "俄军已越过库尔斯克地区俄乌边界",
+        "onboard_time": 1739978721,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 9737,
+        "num": 24694,
+        "word": "周末雨雪天气正在加载中",
+        "onboard_time": 1739996531,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24578,
+        "num": 24578,
+        "word": "老板回应因顾客加5勺辣椒报警",
+        "onboard_time": 1739978960,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23206,
+        "num": 23206,
+        "word": "iPhone16e配置",
+        "onboard_time": 1739984418,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 21525,
+        "num": 22894,
+        "word": "哪吒2官方登顶海报",
+        "onboard_time": 1739974523,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 22677,
+        "num": 22677,
+        "word": "女子戴耳环不摘耳垂长出葡萄瘤",
+        "onboard_time": 1739974523,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22122,
+        "num": 22122,
+        "word": "苹果发布会",
+        "onboard_time": 1739983575,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 21463,
+        "num": 21463,
+        "word": "别再P图了好吗发博道歉",
+        "onboard_time": 1739976624,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21193,
+        "num": 21193,
+        "word": "四川一地明令禁止聚餐使用四季豆",
+        "onboard_time": 1739984418,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20746,
+        "num": 20746,
+        "word": "肖凯文回应借王楚钦衣服",
+        "onboard_time": 1739983335,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20716,
+        "num": 20716,
+        "word": "哪吒2一亿一亿往上追",
+        "onboard_time": 1739976202,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19953,
+        "num": 19953,
+        "word": "饺子导演已闭关",
+        "onboard_time": 1739950400,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19701,
+        "num": 19701,
+        "word": "好利来通报表扬员工连续工作29小时",
+        "onboard_time": 1739961860,
+        "rank": 37,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 19640,
+        "num": 19640,
+        "word": "王楚钦决胜局救起一颗精彩球",
+        "onboard_time": 1739980820,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18854,
+        "num": 18854,
+        "word": "警方通报导演郑某峰涉嫌猥亵儿童",
+        "onboard_time": 1739977643,
+        "rank": 39,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 18739,
+        "num": 18739,
+        "word": "昀牵孟绕",
+        "onboard_time": 1739975603,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18693,
+        "num": 18693,
+        "word": "男子爱挖鼻孔致动脉血管破裂",
+        "onboard_time": 1739966121,
+        "rank": 41,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 17701,
+        "num": 17701,
+        "word": "认不出来这是A妹了",
+        "onboard_time": 1739967080,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17623,
+        "num": 17623,
+        "word": "六姊妹秘方传女不传男",
+        "onboard_time": 1739993711,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17448,
+        "num": 17448,
+        "word": "柯淳 无限超越班",
+        "onboard_time": 1739966840,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10835,
+        "num": 17324,
+        "word": "张红力受贿案一审宣判",
+        "onboard_time": 1739994131,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17276,
+        "num": 17276,
+        "word": "一高中禁带面包后菜价降5毛",
+        "onboard_time": 1739983216,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16109,
+        "num": 16109,
+        "word": "温以凡 明艳大美女",
+        "onboard_time": 1739954961,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15691,
+        "num": 15691,
+        "word": "王楚钦大心脏",
+        "onboard_time": 1739974703,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15490,
+        "num": 15490,
+        "word": "iPhone14停售",
+        "onboard_time": 1739988733,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#感悟总书记对民企发展的关怀#"
+    }
+  }
+}
