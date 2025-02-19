@@ -1,6 +1,6 @@
 {
   "startTime": 1739896170867,
-  "endTime": 1739933591530,
+  "endTime": 1739934121184,
   "band_list": [
     {
       "raw_hot": 2861674,
@@ -11,8 +11,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 2193284,
-      "num": 2193284,
+      "raw_hot": 2237671,
+      "num": 2237671,
       "word": "DeepSeek",
       "onboard_time": 1739926282,
       "rank": 25,
@@ -115,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 571848,
+      "num": 571848,
+      "word": "男鬼桑延",
+      "onboard_time": 1739932699,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 571470,
       "num": 262588,
       "word": "王大陆或被判5年以下有期徒刑",
@@ -136,6 +144,14 @@
       "word": "陈晓陈妍希离婚博坚持打卡1370天",
       "onboard_time": 1739890823,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 534760,
+      "num": 392376,
+      "word": "马天宇卖汤圆",
+      "onboard_time": 1739932280,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -164,7 +180,7 @@
     },
     {
       "raw_hot": 461653,
-      "num": 387509,
+      "num": 389540,
       "word": "冲着霸王茶姬投资几十万结果没关联",
       "onboard_time": 1739928140,
       "rank": 31,
@@ -195,14 +211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 393902,
-      "num": 393902,
-      "word": "男鬼桑延",
-      "onboard_time": 1739932699,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 387899,
       "num": 288837,
       "word": "陈晓陈妍希 1370天",
@@ -211,12 +219,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 355831,
-      "num": 355831,
-      "word": "马天宇卖汤圆",
-      "onboard_time": 1739932280,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 364473,
+      "num": 364473,
+      "word": "女子被丈夫灌面汤呛死家属发声",
+      "onboard_time": 1739932880,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 344046,
@@ -265,6 +273,22 @@
       "onboard_time": 1739927421,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 311338,
+      "num": 429084,
+      "word": "四川一地坝坝宴将不得用四季豆",
+      "onboard_time": 1739931620,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 303727,
+      "num": 303727,
+      "word": "女子网购100克黄金收到一卷手纸",
+      "onboard_time": 1739933899,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 298766,
@@ -331,14 +355,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 263687,
-      "num": 263687,
-      "word": "四川一地坝坝宴将不得用四季豆",
-      "onboard_time": 1739931620,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 256990,
       "num": 256990,
       "word": "白敬亭 双开门",
@@ -361,14 +377,6 @@
       "onboard_time": 1739866042,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 231839,
-      "num": 231839,
-      "word": "女子被丈夫灌面汤呛死家属发声",
-      "onboard_time": 1739932880,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 228337,
@@ -419,6 +427,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 209087,
+      "num": 217347,
+      "word": "哪吒到底召唤了多少神技能",
+      "onboard_time": 1739931620,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 208860,
+      "num": 405266,
+      "word": "特朗普暗示乌克兰举行新的选举",
+      "onboard_time": 1739932459,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 207680,
       "num": 259063,
       "word": "郭艾伦眼睛流血",
@@ -427,20 +451,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204754,
+      "num": 204754,
+      "word": "华为三折叠引外媒集体围观",
+      "onboard_time": 1739932819,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 202686,
       "num": 202686,
       "word": "博主用70万黄金锅涮火锅",
       "onboard_time": 1739885363,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 202448,
-      "num": 202448,
-      "word": "华为三折叠引外媒集体围观",
-      "onboard_time": 1739932819,
-      "rank": 32,
-      "category": "数码"
     },
     {
       "raw_hot": 201780,
@@ -531,22 +555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 160961,
-      "num": 217347,
-      "word": "哪吒到底召唤了多少神技能",
-      "onboard_time": 1739931620,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 160090,
-      "num": 175705,
-      "word": "特朗普暗示乌克兰举行新的选举",
-      "onboard_time": 1739932459,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 159827,
       "num": 159827,
       "word": "于适直播",
@@ -563,6 +571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156820,
+      "num": 156820,
+      "word": "A股",
+      "onboard_time": 1739933542,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 153922,
       "num": 153922,
       "word": "守望先锋",
@@ -571,12 +587,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 153830,
+      "num": 291615,
+      "word": "孙颖莎赛前认真热身",
+      "onboard_time": 1739933599,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149649,
       "num": 149649,
       "word": "泽连斯基就美俄会谈发声",
       "onboard_time": 1739917813,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 148746,
+      "num": 148746,
+      "word": "张极说登陆少年今年有很多场演唱会",
+      "onboard_time": 1739933899,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 148400,
@@ -643,20 +675,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122574,
-      "num": 122574,
-      "word": "A股",
-      "onboard_time": 1739933542,
-      "rank": 46,
-      "category": "财经"
-    },
-    {
       "raw_hot": 121765,
       "num": 218247,
       "word": "美国再舞关税大棒",
       "onboard_time": 1739931679,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 120379,
+      "num": 120379,
+      "word": "杨紫 西班牙的回忆",
+      "onboard_time": 1739933840,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 120282,
@@ -705,6 +737,14 @@
       "onboard_time": 1739928679,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 112092,
+      "num": 112092,
+      "word": "张凌赫 爸爸妈妈不要只看吻戏",
+      "onboard_time": 1739934080,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 111706,
@@ -764,7 +804,7 @@
     },
     {
       "raw_hot": 96034,
-      "num": 209310,
+      "num": 363192,
       "word": "岸田文雄遇袭案嫌疑人获刑10年",
       "onboard_time": 1739933420,
       "rank": 30,
@@ -827,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 66135,
+      "num": 386900,
+      "word": "泽连斯基说俄美会谈令人吃惊",
+      "onboard_time": 1739933360,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 64995,
       "num": 84194,
       "word": "法老否认出轨",
@@ -881,14 +929,6 @@
       "onboard_time": 1739882963,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 43982,
-      "num": 222108,
-      "word": "泽连斯基说俄美会谈令人吃惊",
-      "onboard_time": 1739933360,
-      "rank": 24,
-      "category": "国际时政"
     },
     {
       "raw_hot": 42091,
@@ -1075,6 +1115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 8942,
+      "num": 1024353,
+      "word": "中国式现代化的万千气象海南行",
+      "onboard_time": 1739782103,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 8810,
       "num": 16918,
       "word": "剪纸界出哪吒表情包了",
@@ -1121,14 +1169,6 @@
       "onboard_time": 1739905871,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 6728,
-      "num": 1024353,
-      "word": "中国式现代化的万千气象海南行",
-      "onboard_time": 1739782103,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
