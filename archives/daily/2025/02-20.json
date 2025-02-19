@@ -1,6 +1,6 @@
 {
   "startTime": 1739982473012,
-  "endTime": 1739992706551,
+  "endTime": 1739993756210,
   "band_list": [
     {
       "raw_hot": 1412108,
@@ -475,8 +475,8 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 51726,
-      "num": 51726,
+      "raw_hot": 55123,
+      "num": 55123,
       "word": "皇马vs曼城",
       "onboard_time": 1739982257,
       "rank": 47,
@@ -496,6 +496,14 @@
       "word": "宇树科技机器人爆火一度断货下架",
       "onboard_time": 1739985617,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40664,
+      "num": 78273,
+      "word": "天津街头堵飞机了",
+      "onboard_time": 1739991852,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -539,20 +547,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 19814,
-      "num": 19814,
+      "raw_hot": 19939,
+      "num": 19939,
       "word": "iPhone14停售",
       "onboard_time": 1739988733,
       "rank": 48,
       "category": "数码"
     },
     {
-      "raw_hot": 16399,
-      "num": 78273,
-      "word": "天津街头堵飞机了",
-      "onboard_time": 1739991852,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 17190,
+      "num": 19003,
+      "word": "六姊妹秘方传女不传男",
+      "onboard_time": 1739993711,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 14762,
+      "num": 55942,
+      "word": "2000多架无人机表演为哪吒2庆祝",
+      "onboard_time": 1739990053,
+      "rank": 19,
+      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 12885,
@@ -561,14 +577,6 @@
       "onboard_time": 1739989332,
       "rank": 9,
       "category": "军事"
-    },
-    {
-      "raw_hot": 11407,
-      "num": 55942,
-      "word": "2000多架无人机表演为哪吒2庆祝",
-      "onboard_time": 1739990053,
-      "rank": 19,
-      "category": "民生新闻,电影"
     }
   ],
   "hotgov_list": [

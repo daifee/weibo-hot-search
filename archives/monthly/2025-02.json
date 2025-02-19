@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739992706551,
+  "endTime": 1739993756210,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -52691,6 +52691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55123,
+      "num": 55123,
+      "word": "皇马vs曼城",
+      "onboard_time": 1739982257,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 54931,
       "num": 108038,
       "word": "明世隐新皮肤免费送",
@@ -53256,14 +53264,6 @@
       "word": "混双冰壶中国队进铜牌赛",
       "onboard_time": 1738912462,
       "rank": 29,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 51726,
-      "num": 51726,
-      "word": "皇马vs曼城",
-      "onboard_time": 1739982257,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -54833,6 +54833,14 @@
       "onboard_time": 1738934843,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 40664,
+      "num": 78273,
+      "word": "天津街头堵飞机了",
+      "onboard_time": 1739991852,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40653,
@@ -58371,6 +58379,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 19939,
+      "num": 19939,
+      "word": "iPhone14停售",
+      "onboard_time": 1739988733,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 19881,
       "num": 399447,
       "word": "尔滨亚冬会闭幕式是个大party",
@@ -58385,14 +58401,6 @@
       "onboard_time": 1738966572,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 19814,
-      "num": 19814,
-      "word": "iPhone14停售",
-      "onboard_time": 1739988733,
-      "rank": 48,
-      "category": "数码"
     },
     {
       "raw_hot": 19808,
@@ -58763,6 +58771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 17190,
+      "num": 19003,
+      "word": "六姊妹秘方传女不传男",
+      "onboard_time": 1739993711,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 17094,
       "num": 39068,
       "word": "郑钦文多哈赛首战落败",
@@ -58817,14 +58833,6 @@
       "onboard_time": 1739455282,
       "rank": 37,
       "category": "电影,旅游"
-    },
-    {
-      "raw_hot": 16399,
-      "num": 78273,
-      "word": "天津街头堵飞机了",
-      "onboard_time": 1739991852,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16362,
@@ -59177,6 +59185,14 @@
       "onboard_time": 1739052911,
       "rank": 49,
       "category": "教育,读书作家"
+    },
+    {
+      "raw_hot": 14762,
+      "num": 55942,
+      "word": "2000多架无人机表演为哪吒2庆祝",
+      "onboard_time": 1739990053,
+      "rank": 19,
+      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 14737,
@@ -59817,14 +59833,6 @@
       "onboard_time": 1738773679,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 11407,
-      "num": 55942,
-      "word": "2000多架无人机表演为哪吒2庆祝",
-      "onboard_time": 1739990053,
-      "rank": 19,
-      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 11197,
