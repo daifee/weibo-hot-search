@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1739950546675,
+  "endTime": 1739953787146,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1467,6 +1467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2896427,
+      "num": 2896427,
+      "word": "饺子导演已闭关",
+      "onboard_time": 1739950400,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 2888444,
       "num": 618152,
       "word": "男子性侵女孩失败后故意使其溺亡",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1738677025,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 2236543,
-      "num": 505789,
-      "word": "小S两个女儿回台",
-      "onboard_time": 1738590329,
-      "rank": 12,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

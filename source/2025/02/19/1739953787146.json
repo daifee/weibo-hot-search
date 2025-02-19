@@ -1,0 +1,410 @@
+{
+  "runTime": 1739953787146,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2896427,
+        "num": 2896427,
+        "word": "饺子导演已闭关",
+        "onboard_time": 1739950400,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1072727,
+        "num": 1072727,
+        "word": "12306回应孕妇被行李箱砸中致早产",
+        "onboard_time": 1739940202,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98931,
+        "num": 942462,
+        "word": "我国自研机器人实现重要技术突破",
+        "onboard_time": 1739952982,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1622174,
+        "num": 934188,
+        "word": "老人花一辈子积蓄全款买房被查封",
+        "onboard_time": 1739950641,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 912514,
+        "num": 912514,
+        "word": "难哄剧情 无聊",
+        "onboard_time": 1739947760,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 585851,
+        "num": 585851,
+        "word": "金价",
+        "onboard_time": 1739934739,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 721922,
+        "num": 579540,
+        "word": "仙侠剧男主怎么就不能是40岁了",
+        "onboard_time": 1739949982,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 563072,
+        "num": 563072,
+        "word": "章若楠 没有攻击性",
+        "onboard_time": 1739946441,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 376993,
+        "num": 376993,
+        "word": "韩国女学生跳车身亡八旬出租车司机无罪",
+        "onboard_time": 1739935100,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 371807,
+        "num": 371807,
+        "word": "马库斯揭露触目惊心的黄浦江尸体照片",
+        "onboard_time": 1739937082,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 656409,
+        "num": 367589,
+        "word": "法国小伙亲人遭侵华日军毒果汁毒死",
+        "onboard_time": 1739949320,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 485890,
+        "num": 360314,
+        "word": "外卖员回应京东给骑手缴社保",
+        "onboard_time": 1739950522,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 468120,
+        "num": 360228,
+        "word": "张馨予滑雪买了500元照片",
+        "onboard_time": 1739947398,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36794,
+        "num": 353274,
+        "word": "黄友政回应战胜张本智和",
+        "onboard_time": 1739952982,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207468,
+        "num": 347510,
+        "word": "女子挪用公司1400万买包被判刑",
+        "onboard_time": 1739952561,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 437660,
+        "num": 339303,
+        "word": "林俊杰 你们竟然不关心我的健康",
+        "onboard_time": 1739943081,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 413983,
+        "num": 334740,
+        "word": "张晚意工作室回应恋情传闻",
+        "onboard_time": 1739947700,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386441,
+        "num": 325697,
+        "word": "陈天润黄杨钿甜参加中传艺考",
+        "onboard_time": 1739952261,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325679,
+        "num": 325679,
+        "word": "74岁老人服用纯中药抗癌汤肿瘤消失",
+        "onboard_time": 1739938340,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307778,
+        "num": 307778,
+        "word": "2025高考时间公布",
+        "onboard_time": 1739934620,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 311069,
+        "num": 304738,
+        "word": "哪吒2外网首批口碑",
+        "onboard_time": 1739953041,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 307930,
+        "num": 303345,
+        "word": "生命树",
+        "onboard_time": 1739946680,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297961,
+        "num": 297961,
+        "word": "金赛纶亲自走访57家遭遇损失店铺",
+        "onboard_time": 1739953101,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272918,
+        "num": 272918,
+        "word": "2032年小行星撞击地球概率已升至3.1%",
+        "onboard_time": 1739952681,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134186,
+        "num": 269942,
+        "word": "王者荣耀",
+        "onboard_time": 1739953339,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 267151,
+        "num": 267151,
+        "word": "朴灿烈ins晒与张艺兴合照",
+        "onboard_time": 1739946921,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254600,
+        "num": 254600,
+        "word": "哪吒2票房124亿",
+        "onboard_time": 1739946021,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 261652,
+        "num": 253683,
+        "word": "疑似网红燕来妈妈被杀",
+        "onboard_time": 1739940862,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136047,
+        "num": 242629,
+        "word": "郑钦文比赛画面看不清球",
+        "onboard_time": 1739952561,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152803,
+        "num": 237864,
+        "word": "网友自制哪吒2中土拨鼠的汤",
+        "onboard_time": 1739952321,
+        "rank": 29,
+        "category": "美食,电影"
+      },
+      {
+        "raw_hot": 235440,
+        "num": 235440,
+        "word": "隔夜不能吃的食物",
+        "onboard_time": 1739950461,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118614,
+        "num": 227102,
+        "word": "缅北明家犯罪集团主案一审开庭",
+        "onboard_time": 1739953642,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219927,
+        "num": 219927,
+        "word": "刘强东或再引行业变革",
+        "onboard_time": 1739952321,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 209027,
+        "num": 209027,
+        "word": "多邻国官宣去世的小绿鸟还有后续",
+        "onboard_time": 1739949259,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 207681,
+        "num": 207681,
+        "word": "哪吒2全球动画第1",
+        "onboard_time": 1739879063,
+        "rank": 34,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 195935,
+        "num": 195935,
+        "word": "魏大勋这是大侦探不是春晚",
+        "onboard_time": 1739949320,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189222,
+        "num": 189222,
+        "word": "DeepSeek正成为恋爱军师",
+        "onboard_time": 1739952081,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 188573,
+        "num": 188573,
+        "word": "90后财务痴迷买包挪用公司1400万",
+        "onboard_time": 1739953403,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179356,
+        "num": 179356,
+        "word": "高中就不许学生带面包入校致歉",
+        "onboard_time": 1739948960,
+        "rank": 38,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 176628,
+        "num": 176628,
+        "word": "欧盟准备军援乌克兰",
+        "onboard_time": 1739948421,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 175122,
+        "num": 175122,
+        "word": "赵露思给桑稚买的青蛙手机壳",
+        "onboard_time": 1739939900,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166552,
+        "num": 166552,
+        "word": "没人会在35岁突然丧失工作能力",
+        "onboard_time": 1739953642,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11075,
+        "num": 160347,
+        "word": "于适写了个音综策划出来",
+        "onboard_time": 1739953760,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83320,
+        "num": 158712,
+        "word": "法国小伙外祖父拍照片遭侵华日军报复",
+        "onboard_time": 1739951241,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158552,
+        "num": 158552,
+        "word": "江苏一龙凤胎出生时自带结界",
+        "onboard_time": 1739938763,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157803,
+        "num": 157803,
+        "word": "金饰价格逼向900元每克",
+        "onboard_time": 1739953282,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 154403,
+        "num": 154403,
+        "word": "孕妇被行李砸中孩子早产离世谁担责",
+        "onboard_time": 1739951903,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147571,
+        "num": 147571,
+        "word": "虞书欣姜暮新中式look",
+        "onboard_time": 1739949801,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140842,
+        "num": 140842,
+        "word": "未来AI机器人或能小到进入血管",
+        "onboard_time": 1739947460,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138719,
+        "num": 138719,
+        "word": "鸡煲店擦边营销模特把脚放餐桌上",
+        "onboard_time": 1739953582,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为民营企业鼓劲#"
+    }
+  }
+}

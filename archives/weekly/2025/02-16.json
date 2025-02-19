@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739950546675,
+  "endTime": 1739953787146,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -129,6 +129,14 @@
       "onboard_time": 1739868323,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2896427,
+      "num": 2896427,
+      "word": "饺子导演已闭关",
+      "onboard_time": 1739950400,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 2888444,
@@ -408,6 +416,14 @@
       "word": "74岁老人服用纯中药抗癌汤肿瘤消失",
       "onboard_time": 1739938340,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1622174,
+      "num": 934188,
+      "word": "老人花一辈子积蓄全款买房被查封",
+      "onboard_time": 1739950641,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -1547,6 +1563,14 @@
       "category": "健康医疗,艺人"
     },
     {
+      "raw_hot": 721922,
+      "num": 579540,
+      "word": "仙侠剧男主怎么就不能是40岁了",
+      "onboard_time": 1739949982,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 718456,
       "num": 758184,
       "word": "2025民营企业座谈会",
@@ -1697,6 +1721,14 @@
       "onboard_time": 1739631022,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 656409,
+      "num": 367589,
+      "word": "法国小伙亲人遭侵华日军毒果汁毒死",
+      "onboard_time": 1739949320,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 655897,
@@ -2331,6 +2363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 485890,
+      "num": 360314,
+      "word": "外卖员回应京东给骑手缴社保",
+      "onboard_time": 1739950522,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 482128,
       "num": 482128,
       "word": "常州市委书记陈金虎任上被查",
@@ -2457,14 +2497,6 @@
       "onboard_time": 1739747295,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 462744,
-      "num": 379413,
-      "word": "饺子导演已闭关",
-      "onboard_time": 1739950400,
-      "rank": 12,
-      "category": "电影"
     },
     {
       "raw_hot": 461653,
@@ -2953,6 +2985,14 @@
       "onboard_time": 1739791100,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 386441,
+      "num": 325697,
+      "word": "陈天润黄杨钿甜参加中传艺考",
+      "onboard_time": 1739952261,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 384476,
@@ -3619,6 +3659,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 311069,
+      "num": 304738,
+      "word": "哪吒2外网首批口碑",
+      "onboard_time": 1739953041,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 307930,
+      "num": 303345,
+      "word": "生命树",
+      "onboard_time": 1739946680,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 307649,
       "num": 307649,
       "word": "北美不卖IMAX票当地华人包场支持哪吒2",
@@ -3704,6 +3760,14 @@
       "word": "孙俪分享小花学瑜伽日常",
       "onboard_time": 1739851945,
       "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 297961,
+      "num": 297961,
+      "word": "金赛纶亲自走访57家遭遇损失店铺",
+      "onboard_time": 1739953101,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -4003,14 +4067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 278039,
-      "num": 278039,
-      "word": "生命树",
-      "onboard_time": 1739946680,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 277059,
       "num": 986528,
       "word": "俄说加入欧盟是乌克兰主权权利",
@@ -4033,6 +4089,14 @@
       "onboard_time": 1739874202,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 272918,
+      "num": 272918,
+      "word": "2032年小行星撞击地球概率已升至3.1%",
+      "onboard_time": 1739952681,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 272814,
@@ -4153,14 +4217,6 @@
       "onboard_time": 1739797400,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 265229,
-      "num": 238886,
-      "word": "法国小伙亲人遭侵华日军毒果汁毒死",
-      "onboard_time": 1739949320,
-      "rank": 42,
-      "category": "国内时政"
     },
     {
       "raw_hot": 264662,
@@ -4707,6 +4763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 235440,
+      "num": 235440,
+      "word": "隔夜不能吃的食物",
+      "onboard_time": 1739950461,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 235273,
       "num": 205612,
       "word": "哪吒第一天回校放学啦",
@@ -4817,14 +4881,6 @@
       "onboard_time": 1739881882,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 228508,
-      "num": 228508,
-      "word": "外卖员回应京东给骑手缴社保",
-      "onboard_time": 1739950522,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 228337,
@@ -5001,6 +5057,14 @@
       "onboard_time": 1739927541,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219927,
+      "num": 219927,
+      "word": "刘强东或再引行业变革",
+      "onboard_time": 1739952321,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 219857,
@@ -5339,6 +5403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209027,
+      "num": 209027,
+      "word": "多邻国官宣去世的小绿鸟还有后续",
+      "onboard_time": 1739949259,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 208860,
       "num": 405266,
       "word": "特朗普暗示乌克兰举行新的选举",
@@ -5385,6 +5457,14 @@
       "onboard_time": 1739682858,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207468,
+      "num": 347510,
+      "word": "女子挪用公司1400万买包被判刑",
+      "onboard_time": 1739952561,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207040,
@@ -5563,14 +5643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 202463,
-      "num": 202463,
-      "word": "仙侠剧男主怎么就不能是40岁了",
-      "onboard_time": 1739949982,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 202288,
       "num": 414515,
       "word": "当火象和土象开始恋爱",
@@ -5625,14 +5697,6 @@
       "onboard_time": 1739882662,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 200789,
-      "num": 200789,
-      "word": "多邻国官宣去世的小绿鸟还有后续",
-      "onboard_time": 1739949259,
-      "rank": 41,
-      "category": "互联网"
     },
     {
       "raw_hot": 200780,
@@ -6091,6 +6155,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 189222,
+      "num": 189222,
+      "word": "DeepSeek正成为恋爱军师",
+      "onboard_time": 1739952081,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 189163,
       "num": 189163,
       "word": "虞书欣姜暮新中式look",
@@ -6105,6 +6177,14 @@
       "onboard_time": 1739669959,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188573,
+      "num": 188573,
+      "word": "90后财务痴迷买包挪用公司1400万",
+      "onboard_time": 1739953403,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 188342,
@@ -6795,6 +6875,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 166552,
+      "num": 166552,
+      "word": "没人会在35岁突然丧失工作能力",
+      "onboard_time": 1739953642,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165987,
       "num": 165987,
       "word": "花傲天说LGD的目标依然是冠军",
@@ -7043,6 +7131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157803,
+      "num": 157803,
+      "word": "金饰价格逼向900元每克",
+      "onboard_time": 1739953282,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 157712,
       "num": 157712,
       "word": "原来切牛肉要横着切才嫩",
@@ -7155,6 +7251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154403,
+      "num": 154403,
+      "word": "孕妇被行李砸中孩子早产离世谁担责",
+      "onboard_time": 1739951903,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154354,
       "num": 154354,
       "word": "小米推出中央空调对标大金",
@@ -7201,6 +7305,14 @@
       "onboard_time": 1739876843,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152803,
+      "num": 237864,
+      "word": "网友自制哪吒2中土拨鼠的汤",
+      "onboard_time": 1739952321,
+      "rank": 29,
+      "category": "美食,电影"
     },
     {
       "raw_hot": 152730,
@@ -7659,6 +7771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140842,
+      "num": 276676,
+      "word": "未来AI机器人或能小到进入血管",
+      "onboard_time": 1739947460,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140209,
       "num": 464918,
       "word": "男子乘车为抽烟把烟雾报警器拆了",
@@ -7713,6 +7833,14 @@
       "onboard_time": 1739939665,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 138719,
+      "num": 138719,
+      "word": "鸡煲店擦边营销模特把脚放餐桌上",
+      "onboard_time": 1739953582,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138579,
@@ -7835,6 +7963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136047,
+      "num": 242629,
+      "word": "郑钦文比赛画面看不清球",
+      "onboard_time": 1739952561,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135860,
       "num": 135860,
       "word": "崔然竣获奖感言",
@@ -7873,6 +8009,14 @@
       "onboard_time": 1739690717,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134186,
+      "num": 269942,
+      "word": "王者荣耀",
+      "onboard_time": 1739953339,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 133907,
@@ -8451,6 +8595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118614,
+      "num": 227102,
+      "word": "缅北明家犯罪集团主案一审开庭",
+      "onboard_time": 1739953642,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117884,
       "num": 117884,
       "word": "燃气收费异常为何屡禁不止",
@@ -8697,14 +8849,6 @@
       "onboard_time": 1739893102,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 108823,
-      "num": 276676,
-      "word": "未来AI机器人或能小到进入血管",
-      "onboard_time": 1739947460,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108565,
@@ -9049,6 +9193,14 @@
       "onboard_time": 1739903352,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 98931,
+      "num": 942462,
+      "word": "我国自研机器人实现重要技术突破",
+      "onboard_time": 1739952982,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98602,
@@ -9401,6 +9553,14 @@
       "onboard_time": 1739872284,
       "rank": 27,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 83320,
+      "num": 158712,
+      "word": "法国小伙外祖父拍照片遭侵华日军报复",
+      "onboard_time": 1739951241,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82493,
@@ -10539,6 +10699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36794,
+      "num": 353274,
+      "word": "黄友政回应战胜张本智和",
+      "onboard_time": 1739952982,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36571,
       "num": 93412,
       "word": "超43万条春节档电影侵权链接被查处",
@@ -11377,6 +11545,14 @@
       "onboard_time": 1739905332,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11075,
+      "num": 160347,
+      "word": "于适写了个音综策划出来",
+      "onboard_time": 1739953760,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 10741,
