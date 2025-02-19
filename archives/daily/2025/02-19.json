@@ -1,6 +1,6 @@
 {
   "startTime": 1739896170867,
-  "endTime": 1739961697436,
+  "endTime": 1739963962836,
   "band_list": [
     {
       "raw_hot": 2896427,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2254667,
-      "num": 419535,
+      "num": 497907,
       "word": "朴春 李敏镐",
       "onboard_time": 1739957721,
       "rank": 46,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1464322,
-      "num": 417143,
+      "num": 487502,
       "word": "711回应店员熟食区做不雅行为",
       "onboard_time": 1739958501,
       "rank": 11,
@@ -177,6 +177,14 @@
       "onboard_time": 1739947760,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1126833,
+      "num": 492788,
+      "word": "美团将为所有骑手缴纳社保",
+      "onboard_time": 1739960602,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 1116515,
@@ -283,12 +291,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 873319,
+      "raw_hot": 927037,
       "num": 643245,
       "word": "网友晒与白鹿十年前合照",
       "onboard_time": 1739957000,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 855974,
+      "num": 855974,
+      "word": "内耗的人适合培养输出型爱好",
+      "onboard_time": 1739961260,
+      "rank": 3,
+      "category": "情感"
     },
     {
       "raw_hot": 849067,
@@ -369,6 +385,14 @@
       "onboard_time": 1739932699,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 734018,
+      "num": 734018,
+      "word": "好利来通报表扬员工连续工作29小时",
+      "onboard_time": 1739961860,
+      "rank": 5,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 721922,
@@ -499,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 500931,
+      "num": 500931,
+      "word": "足金饰品克价已达892元",
+      "onboard_time": 1739959521,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 492138,
       "num": 449313,
       "word": "陈天润黄杨钿甜参加中传艺考",
@@ -547,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 465271,
+      "num": 465271,
+      "word": "明家犯罪集团主案证据重达2吨",
+      "onboard_time": 1739960299,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 465157,
       "num": 465157,
       "word": "孙颖莎vs简彤娟",
@@ -592,14 +632,6 @@
       "word": "官方通报孕妇被行李箱砸中致早产",
       "onboard_time": 1739954000,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 421132,
-      "num": 421132,
-      "word": "足金饰品克价已达892元",
-      "onboard_time": 1739959521,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -691,6 +723,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 365614,
+      "num": 469051,
+      "word": "王珞丹素颜朝天辫",
+      "onboard_time": 1739961501,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 358425,
+      "num": 287745,
+      "word": "石矶娘娘雪糕",
+      "onboard_time": 1739959460,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 344046,
       "num": 344046,
       "word": "哪吒2香港首映礼含星量",
@@ -737,14 +785,6 @@
       "onboard_time": 1739888663,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 332374,
-      "num": 332374,
-      "word": "明家犯罪集团主案证据重达2吨",
-      "onboard_time": 1739960299,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 330588,
@@ -811,14 +851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 299524,
-      "num": 267956,
-      "word": "石矶娘娘雪糕",
-      "onboard_time": 1739959460,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 298766,
       "num": 259988,
       "word": "王嘉尔不再用经纪人的原因",
@@ -881,6 +913,14 @@
       "onboard_time": 1739933360,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 277381,
+      "num": 277381,
+      "word": "难哄全网登顶",
+      "onboard_time": 1739963181,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 272157,
@@ -1099,6 +1139,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 237537,
+      "num": 253477,
+      "word": "工作单位回应39岁博士疑被灌酒去世",
+      "onboard_time": 1739955141,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 237415,
       "num": 237415,
       "word": "医生解释农村聚餐为何不建议用四季豆",
@@ -1259,6 +1307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 211083,
+      "num": 211083,
+      "word": "苍兰诀大黑龙追妻的方式好霸总",
+      "onboard_time": 1739961081,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210361,
       "num": 210361,
       "word": "24岁有20年翻译工作经历",
@@ -1379,12 +1435,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203138,
+      "num": 203138,
+      "word": "魏大勋听不得马耳他三个字",
+      "onboard_time": 1739961140,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202686,
       "num": 202686,
       "word": "博主用70万黄金锅涮火锅",
       "onboard_time": 1739885363,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202584,
+      "num": 197096,
+      "word": "虞书欣Hi6录制出发",
+      "onboard_time": 1739961981,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 202537,
@@ -1435,12 +1507,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194438,
-      "num": 194438,
-      "word": "美团将为所有骑手缴纳社保",
-      "onboard_time": 1739960602,
-      "rank": 43,
-      "category": "互联网"
+      "raw_hot": 197534,
+      "num": 197534,
+      "word": "谁家女主给一条鲫鱼送终",
+      "onboard_time": 1739963001,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 193775,
@@ -1448,14 +1520,6 @@
       "word": "13岁女孩险被骗59万被支付宝拦截",
       "onboard_time": 1739896816,
       "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 192999,
-      "num": 253477,
-      "word": "工作单位回应39岁博士疑被灌酒去世",
-      "onboard_time": 1739955141,
-      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -1467,20 +1531,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191648,
+      "num": 191648,
+      "word": "以为100亿是极限没想到只是开始",
+      "onboard_time": 1739961860,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190287,
       "num": 190287,
       "word": "胡歌想再多活几年陪伴女儿",
       "onboard_time": 1739889024,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 189796,
-      "num": 189796,
-      "word": "魏大勋听不得马耳他三个字",
-      "onboard_time": 1739961140,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 189163,
@@ -1539,6 +1603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178029,
+      "num": 178029,
+      "word": "3种蔬菜比牛奶还补钙",
+      "onboard_time": 1739962761,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 177327,
       "num": 242629,
       "word": "郑钦文比赛画面看不清球",
@@ -1553,14 +1625,6 @@
       "onboard_time": 1739871683,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 171974,
-      "num": 171974,
-      "word": "苍兰诀大黑龙追妻的方式好霸总",
-      "onboard_time": 1739961081,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 171888,
@@ -1648,14 +1712,6 @@
       "word": "我和闺蜜互拍就高圆圆这样",
       "onboard_time": 1739946980,
       "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 163689,
-      "num": 163689,
-      "word": "王珞丹素颜朝天辫",
-      "onboard_time": 1739961501,
-      "rank": 43,
       "category": "艺人"
     },
     {
@@ -1859,6 +1915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 139097,
+      "num": 238075,
+      "word": "周柯宇你再笑我就要哭了",
+      "onboard_time": 1739963781,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138874,
       "num": 230430,
       "word": "谢霆锋快拽一下我",
@@ -2017,6 +2081,14 @@
       "onboard_time": 1739881163,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117397,
+      "num": 223327,
+      "word": "美甲店赶制敖闰裂空爪同款穿戴甲",
+      "onboard_time": 1739963539,
+      "rank": 29,
+      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 116560,
@@ -2299,6 +2371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76737,
+      "num": 138237,
+      "word": "林高远vs黄彦诚",
+      "onboard_time": 1739962521,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75880,
       "num": 372806,
       "word": "Grok3发布会坐C位的两个华人是谁",
@@ -2411,6 +2491,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 54095,
+      "num": 197577,
+      "word": "没有人能拒绝养自己的cp",
+      "onboard_time": 1739962580,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 52422,
       "num": 222093,
       "word": "上海影城重映1979年版哪吒",
@@ -2425,6 +2513,22 @@
       "onboard_time": 1739934199,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 50025,
+      "num": 499597,
+      "word": "马库斯所捐照片将于20日在上海鉴定",
+      "onboard_time": 1739963001,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49921,
+      "num": 305202,
+      "word": "哪吒2的龙王颜值为何相差那么多",
+      "onboard_time": 1739963480,
+      "rank": 19,
+      "category": "科学科普,电影"
     },
     {
       "raw_hot": 49547,
@@ -2571,6 +2675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32151,
+      "num": 248618,
+      "word": "在法国采访60人无一人知道抗日战争",
+      "onboard_time": 1739963662,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32095,
       "num": 161591,
       "word": "林诗栋3比0胜黄镇廷",
@@ -2673,6 +2785,14 @@
       "onboard_time": 1739897716,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21974,
+      "num": 325252,
+      "word": "黄俊捷工作室换置顶回应",
+      "onboard_time": 1739960661,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 21971,
