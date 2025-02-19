@@ -1,0 +1,410 @@
+{
+  "runTime": 1739930367276,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1488147,
+        "num": 1488147,
+        "word": "哪吒2被曝字幕中出现多处错别字",
+        "onboard_time": 1739927121,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1263939,
+        "num": 1263939,
+        "word": "乌克兰",
+        "onboard_time": 1739922319,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 5368,
+        "num": 979951,
+        "word": "中国式现代化的万千气象海南行",
+        "onboard_time": 1739782103,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 731167,
+        "num": 731167,
+        "word": "小红书崩了",
+        "onboard_time": 1739921898,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 643878,
+        "num": 643878,
+        "word": "DeepSeek",
+        "onboard_time": 1739926282,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 353475,
+        "num": 638937,
+        "word": "街道办回应招聘环卫工要求35岁以下",
+        "onboard_time": 1739891122,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 637648,
+        "num": 637648,
+        "word": "哪吒2全球动画第1",
+        "onboard_time": 1739879063,
+        "rank": 6,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 2720920,
+        "num": 634095,
+        "word": "殡仪馆证实网红王子墨去世",
+        "onboard_time": 1739927541,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 759383,
+        "num": 625641,
+        "word": "教育局通报小学教师在教室去世",
+        "onboard_time": 1739927180,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 191899,
+        "num": 622740,
+        "word": "司机66公里收乘客800元被立案",
+        "onboard_time": 1739929101,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1036425,
+        "num": 615460,
+        "word": "女生遭侵犯逃跑时落水被阻上岸溺亡",
+        "onboard_time": 1739926340,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 963374,
+        "num": 607125,
+        "word": "挖呀挖黄老师已成早教王者",
+        "onboard_time": 1739925562,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 606399,
+        "num": 606399,
+        "word": "杨丞琳李荣浩是闷声干大事的人",
+        "onboard_time": 1739919795,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 484405,
+        "num": 484405,
+        "word": "台媒称王大陆兵役逃了10年",
+        "onboard_time": 1739917452,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471985,
+        "num": 471985,
+        "word": "周星驰cos哪吒造型",
+        "onboard_time": 1739884104,
+        "rank": 14,
+        "category": "艺人,电影"
+      },
+      {
+        "raw_hot": 425941,
+        "num": 425941,
+        "word": "温以凡床单",
+        "onboard_time": 1739892501,
+        "rank": 15,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 338050,
+        "num": 338050,
+        "word": "冲着霸王茶姬投资几十万结果没关联",
+        "onboard_time": 1739928140,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267695,
+        "num": 332582,
+        "word": "官方通报打车66公里被收800元",
+        "onboard_time": 1739926102,
+        "rank": 17,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 330588,
+        "num": 330588,
+        "word": "丈夫灌面汤呛死妻子案家属望重判",
+        "onboard_time": 1739882182,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185447,
+        "num": 329620,
+        "word": "于适我一路走来脚踏实地",
+        "onboard_time": 1739929221,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328822,
+        "num": 328822,
+        "word": "陈晓陈妍希离婚博坚持打卡1370天",
+        "onboard_time": 1739890823,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486060,
+        "num": 328157,
+        "word": "女生坚持跑步30天瘦脸效果惊人",
+        "onboard_time": 1739926161,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326673,
+        "num": 326673,
+        "word": "王嘉尔回应心理健康问题",
+        "onboard_time": 1739927421,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268016,
+        "num": 268016,
+        "word": "iPhone17Pro系列或回归铝合金",
+        "onboard_time": 1739926161,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 266896,
+        "num": 266896,
+        "word": "难哄",
+        "onboard_time": 1739925801,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259016,
+        "num": 259016,
+        "word": "哪吒2香港首映礼含星量",
+        "onboard_time": 1739922378,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 249798,
+        "num": 249798,
+        "word": "于适回应争议",
+        "onboard_time": 1739920938,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221317,
+        "num": 221317,
+        "word": "泰国总理称中国女保镖在泰国也火了",
+        "onboard_time": 1739888663,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 205744,
+        "num": 205744,
+        "word": "真实土拨鼠打架和哪吒2里一样好笑",
+        "onboard_time": 1739927839,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168832,
+        "num": 186479,
+        "word": "怎么可能我的孩子会抑郁",
+        "onboard_time": 1739889562,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233847,
+        "num": 184535,
+        "word": "刘楚恬演的桑稚",
+        "onboard_time": 1739890282,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222200,
+        "num": 184382,
+        "word": "陈晓陈妍希 1370天",
+        "onboard_time": 1739910311,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179569,
+        "num": 179569,
+        "word": "杨洋给白敬亭包场梦回旋风少女",
+        "onboard_time": 1739927421,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178195,
+        "num": 178195,
+        "word": "阴阳师",
+        "onboard_time": 1739928560,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173162,
+        "num": 173162,
+        "word": "13岁女孩险被骗59万被支付宝拦截",
+        "onboard_time": 1739896816,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170608,
+        "num": 170608,
+        "word": "博主用70万黄金锅涮火锅",
+        "onboard_time": 1739885363,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170252,
+        "num": 170252,
+        "word": "哪吒2成为全球影史第8",
+        "onboard_time": 1739879963,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164431,
+        "num": 164431,
+        "word": "俄美决定未来将在多领域合作",
+        "onboard_time": 1739913611,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 154279,
+        "num": 154279,
+        "word": "陶勇谈郭艾伦眼睛受伤",
+        "onboard_time": 1739892143,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148400,
+        "num": 148400,
+        "word": "名创优品回应未拆封内裤有不明污渍",
+        "onboard_time": 1739929760,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147326,
+        "num": 147326,
+        "word": "青岛2女幼师遇害案家属发声",
+        "onboard_time": 1739927541,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143645,
+        "num": 143645,
+        "word": "女生花10个晚上缝制凤冠送朋友出嫁",
+        "onboard_time": 1739928621,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142275,
+        "num": 142275,
+        "word": "19岁小伙644元1克卖金饰骗近20万",
+        "onboard_time": 1739913672,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139365,
+        "num": 139365,
+        "word": "炉石传说",
+        "onboard_time": 1739929341,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130150,
+        "num": 130150,
+        "word": "杨紫西班牙记录",
+        "onboard_time": 1739930180,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128045,
+        "num": 128045,
+        "word": "守望先锋",
+        "onboard_time": 1739927960,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119303,
+        "num": 119303,
+        "word": "白色橄榄树重剪",
+        "onboard_time": 1739891543,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106831,
+        "num": 106831,
+        "word": "惠英红杨幂 又搂又抱又亲",
+        "onboard_time": 1739887464,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 105545,
+        "num": 105545,
+        "word": "妈妈永远是女儿的退路",
+        "onboard_time": 1739929880,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104841,
+        "num": 104841,
+        "word": "猫咪拦路下一秒塌方男子刹车躲过",
+        "onboard_time": 1739929820,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#这些话说到民营企业家心坎上#"
+    }
+  }
+}

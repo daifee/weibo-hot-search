@@ -1,6 +1,6 @@
 {
   "startTime": 1739896170867,
-  "endTime": 1739929371065,
+  "endTime": 1739930367276,
   "band_list": [
     {
       "raw_hot": 2861674,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1622921,
-      "num": 1020104,
+      "num": 1488147,
       "word": "哪吒2被曝字幕中出现多处错别字",
       "onboard_time": 1739927121,
       "rank": 3,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1345860,
-      "num": 385447,
+      "num": 607125,
       "word": "挖呀挖黄老师已成早教王者",
       "onboard_time": 1739925562,
       "rank": 10,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1248592,
-      "num": 378008,
+      "num": 615460,
       "word": "女生遭侵犯逃跑时落水被阻上岸溺亡",
       "onboard_time": 1739926340,
       "rank": 11,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1025261,
-      "num": 363470,
+      "num": 606399,
       "word": "杨丞琳李荣浩是闷声干大事的人",
       "onboard_time": 1739919795,
       "rank": 10,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 938022,
-      "num": 353366,
+      "num": 484405,
       "word": "台媒称王大陆兵役逃了10年",
       "onboard_time": 1739917452,
       "rank": 24,
@@ -97,6 +97,14 @@
       "onboard_time": 1739927180,
       "rank": 5,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 643878,
+      "num": 643878,
+      "word": "DeepSeek",
+      "onboard_time": 1739926282,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 588955,
@@ -139,8 +147,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 442776,
-      "num": 289133,
+      "raw_hot": 486060,
+      "num": 328157,
       "word": "女生坚持跑步30天瘦脸效果惊人",
       "onboard_time": 1739926161,
       "rank": 20,
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 408875,
-      "num": 408875,
+      "num": 638937,
       "word": "街道办回应招聘环卫工要求35岁以下",
       "onboard_time": 1739891122,
       "rank": 5,
@@ -203,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 338050,
+      "num": 338050,
+      "word": "冲着霸王茶姬投资几十万结果没关联",
+      "onboard_time": 1739928140,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 337213,
       "num": 337213,
       "word": "泰国总理称中国女保镖在泰国也火了",
@@ -211,16 +227,16 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 324346,
-      "num": 324346,
+      "raw_hot": 330588,
+      "num": 330588,
       "word": "丈夫灌面汤呛死妻子案家属望重判",
       "onboard_time": 1739882182,
       "rank": 16,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 320776,
-      "num": 288964,
+      "raw_hot": 326673,
+      "num": 326673,
       "word": "王嘉尔回应心理健康问题",
       "onboard_time": 1739927421,
       "rank": 21,
@@ -267,20 +283,28 @@
       "category": "民生新闻,电影"
     },
     {
+      "raw_hot": 268016,
+      "num": 268016,
+      "word": "iPhone17Pro系列或回归铝合金",
+      "onboard_time": 1739926161,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 267695,
+      "num": 392096,
+      "word": "官方通报打车66公里被收800元",
+      "onboard_time": 1739926102,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 264662,
       "num": 264662,
       "word": "美俄将任命谈判团队结束乌克兰冲突",
       "onboard_time": 1739893341,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 258909,
-      "num": 258909,
-      "word": "DeepSeek",
-      "onboard_time": 1739926282,
-      "rank": 25,
-      "category": "互联网"
     },
     {
       "raw_hot": 256990,
@@ -305,14 +329,6 @@
       "onboard_time": 1739866042,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 229610,
-      "num": 229610,
-      "word": "iPhone17Pro系列或回归铝合金",
-      "onboard_time": 1739926161,
-      "rank": 26,
-      "category": "数码"
     },
     {
       "raw_hot": 228337,
@@ -347,27 +363,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 219715,
-      "num": 392096,
-      "word": "官方通报打车66公里被收800元",
-      "onboard_time": 1739926102,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 218565,
       "num": 218565,
       "word": "真实土拨鼠打架和哪吒2里一样好笑",
       "onboard_time": 1739927839,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 215199,
-      "num": 215199,
-      "word": "冲着霸王茶姬投资几十万结果没关联",
-      "onboard_time": 1739928140,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -403,12 +403,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191899,
+      "num": 622740,
+      "word": "司机66公里收乘客800元被立案",
+      "onboard_time": 1739929101,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190287,
       "num": 190287,
       "word": "胡歌想再多活几年陪伴女儿",
       "onboard_time": 1739889024,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185447,
+      "num": 329620,
+      "word": "于适我一路走来脚踏实地",
+      "onboard_time": 1739929221,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 179569,
+      "num": 179569,
+      "word": "杨洋给白敬亭包场梦回旋风少女",
+      "onboard_time": 1739927421,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 178195,
+      "num": 178195,
+      "word": "阴阳师",
+      "onboard_time": 1739928560,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 174728,
@@ -467,14 +499,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 152061,
-      "num": 152061,
-      "word": "阴阳师",
-      "onboard_time": 1739928560,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 149649,
       "num": 149649,
       "word": "泽连斯基就美俄会谈发声",
@@ -483,12 +507,36 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 146344,
-      "num": 146344,
-      "word": "杨洋给白敬亭包场梦回旋风少女",
-      "onboard_time": 1739927421,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 148400,
+      "num": 148400,
+      "word": "名创优品回应未拆封内裤有不明污渍",
+      "onboard_time": 1739929760,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143645,
+      "num": 143645,
+      "word": "女生花10个晚上缝制凤冠送朋友出嫁",
+      "onboard_time": 1739928621,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139365,
+      "num": 139365,
+      "word": "炉石传说",
+      "onboard_time": 1739929341,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 130150,
+      "num": 130150,
+      "word": "杨紫西班牙记录",
+      "onboard_time": 1739930180,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 126691,
@@ -523,14 +571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121840,
-      "num": 121840,
-      "word": "司机66公里收乘客800元被立案",
-      "onboard_time": 1739929101,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120282,
       "num": 123742,
       "word": "医院回应护士向患者下跪道歉",
@@ -555,14 +595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 115588,
-      "num": 115588,
-      "word": "女生花10个晚上缝制凤冠送朋友出嫁",
-      "onboard_time": 1739928621,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115508,
       "num": 168192,
       "word": "教师被举报家暴及性骚扰学生后仍在职",
@@ -577,14 +609,6 @@
       "onboard_time": 1739893221,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 113375,
-      "num": 113375,
-      "word": "炉石传说",
-      "onboard_time": 1739929341,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 113335,
@@ -609,6 +633,22 @@
       "onboard_time": 1739893102,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 105545,
+      "num": 105545,
+      "word": "妈妈永远是女儿的退路",
+      "onboard_time": 1739929880,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 104841,
+      "num": 104841,
+      "word": "猫咪拦路下一秒塌方男子刹车躲过",
+      "onboard_time": 1739929820,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101878,
@@ -784,14 +824,6 @@
       "word": "KiiiKiii",
       "onboard_time": 1739902153,
       "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 31450,
-      "num": 216667,
-      "word": "于适我一路走来脚踏实地",
-      "onboard_time": 1739929221,
-      "rank": 29,
       "category": "艺人"
     },
     {
