@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739946698464,
+  "endTime": 1739947465217,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -3265,6 +3265,14 @@
       "onboard_time": 1739263342,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1227658,
+      "num": 1227658,
+      "word": "章若楠 没有攻击性",
+      "onboard_time": 1739946441,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 1225009,
@@ -14051,6 +14059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 380022,
+      "num": 380022,
+      "word": "黄友政vs张本智和",
+      "onboard_time": 1739944820,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 379788,
       "num": 249277,
       "word": "石矶娘娘配音演员照片宛如石矶本矶",
@@ -14241,14 +14257,6 @@
       "onboard_time": 1739666838,
       "rank": 5,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 373965,
-      "num": 373965,
-      "word": "黄友政vs张本智和",
-      "onboard_time": 1739944820,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 373930,
@@ -16851,6 +16859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 312487,
+      "num": 448849,
+      "word": "余承恩不看好奇看了红温",
+      "onboard_time": 1739945961,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 312221,
       "num": 351163,
       "word": "情人节和自担官宣结婚",
@@ -18555,6 +18571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 281051,
+      "num": 281051,
+      "word": "哪吒2票房124亿",
+      "onboard_time": 1739946021,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 281031,
       "num": 281031,
       "word": "未定事件簿",
@@ -19073,14 +19097,6 @@
       "onboard_time": 1738901965,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 271996,
-      "num": 271996,
-      "word": "哪吒2票房124亿",
-      "onboard_time": 1739946021,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 271873,
@@ -22339,14 +22355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 229979,
-      "num": 255153,
-      "word": "章若楠 没有攻击性",
-      "onboard_time": 1739946441,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 229866,
       "num": 229866,
       "word": "哪吒2海外票房已达630万",
@@ -24161,6 +24169,14 @@
       "onboard_time": 1738841484,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 215922,
+      "num": 321473,
+      "word": "朴灿烈ins晒与张艺兴合照",
+      "onboard_time": 1739946921,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 215920,
@@ -26771,6 +26787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 199930,
+      "num": 199930,
+      "word": "吴磊也去看哪吒2了",
+      "onboard_time": 1739947160,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 199900,
       "num": 199900,
       "word": "雷军开小米YU7实测一千公里",
@@ -26985,6 +27009,14 @@
       "onboard_time": 1739939843,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199087,
+      "num": 199087,
+      "word": "生命树",
+      "onboard_time": 1739946680,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 199061,
@@ -33076,7 +33108,7 @@
     },
     {
       "raw_hot": 166874,
-      "num": 166874,
+      "num": 484664,
       "word": "82岁独居老人倒地在家2天才被发现",
       "onboard_time": 1739945961,
       "rank": 42,
@@ -33513,6 +33545,14 @@
       "onboard_time": 1739379136,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 164326,
+      "num": 164326,
+      "word": "我和闺蜜互拍就高圆圆这样",
+      "onboard_time": 1739946980,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 164283,
@@ -36667,14 +36707,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 148818,
-      "num": 448849,
-      "word": "余承恩不看好奇看了红温",
-      "onboard_time": 1739945961,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 148761,
       "num": 148761,
       "word": "孙颖莎王艺迪难分难解",
@@ -37275,14 +37307,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 145656,
-      "num": 145656,
-      "word": "生命树",
-      "onboard_time": 1739946680,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 145651,
       "num": 144424,
       "word": "权志龙新专辑概念预告",
@@ -37489,6 +37513,14 @@
       "onboard_time": 1739089220,
       "rank": 35,
       "category": "互联网,汽车"
+    },
+    {
+      "raw_hot": 144950,
+      "num": 419370,
+      "word": "高圆圆佛山逛吃之旅",
+      "onboard_time": 1739945901,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 144921,
@@ -40923,6 +40955,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 127191,
+      "num": 127191,
+      "word": "张馨予滑雪买了500元照片",
+      "onboard_time": 1739947398,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127182,
       "num": 127182,
       "word": "梁永棋女婿误入姐妹群",
@@ -42193,6 +42233,14 @@
       "onboard_time": 1739271381,
       "rank": 48,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 120047,
+      "num": 120047,
+      "word": "孙颖莎球迷现场大喊我爱你",
+      "onboard_time": 1739943563,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 120007,
@@ -44668,7 +44716,7 @@
     },
     {
       "raw_hot": 105115,
-      "num": 1061235,
+      "num": 1134374,
       "word": "各地出招促进民营经济发展",
       "onboard_time": 1739942601,
       "rank": 2,
@@ -45947,14 +45995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 97390,
-      "num": 419370,
-      "word": "高圆圆佛山逛吃之旅",
-      "onboard_time": 1739945901,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 97213,
       "num": 276106,
       "word": "四川一男子卖大熊猫口粮获刑",
@@ -46665,6 +46705,14 @@
       "onboard_time": 1738339518,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91655,
+      "num": 454716,
+      "word": "韩国娱乐圈的男女有别",
+      "onboard_time": 1739946079,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 91646,
@@ -48539,6 +48587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74004,
+      "num": 289431,
+      "word": "守望先锋国服",
+      "onboard_time": 1739946199,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 73737,
       "num": 73737,
       "word": "张宥浩你确实有点冒昧多余了",
@@ -48560,14 +48616,6 @@
       "word": "游戏浪漫团圆夜",
       "onboard_time": 1739349140,
       "rank": 22,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 73384,
-      "num": 144681,
-      "word": "守望先锋国服",
-      "onboard_time": 1739946199,
-      "rank": 45,
       "category": "游戏"
     },
     {
@@ -55633,14 +55681,6 @@
       "onboard_time": 1739557633,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 23739,
-      "num": 454716,
-      "word": "韩国娱乐圈的男女有别",
-      "onboard_time": 1739946079,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 23698,

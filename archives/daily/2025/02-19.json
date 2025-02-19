@@ -1,6 +1,6 @@
 {
   "startTime": 1739896170867,
-  "endTime": 1739946698464,
+  "endTime": 1739947465217,
   "band_list": [
     {
       "raw_hot": 2861674,
@@ -105,6 +105,14 @@
       "onboard_time": 1739926340,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1227658,
+      "num": 1227658,
+      "word": "章若楠 没有攻击性",
+      "onboard_time": 1739946441,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 1218406,
@@ -451,8 +459,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 373965,
-      "num": 373965,
+      "raw_hot": 380022,
+      "num": 380022,
       "word": "黄友政vs张本智和",
       "onboard_time": 1739944820,
       "rank": 21,
@@ -523,6 +531,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 312487,
+      "num": 448849,
+      "word": "余承恩不看好奇看了红温",
+      "onboard_time": 1739945961,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 307649,
       "num": 307649,
       "word": "北美不卖IMAX票当地华人包场支持哪吒2",
@@ -579,20 +595,20 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 281051,
+      "num": 281051,
+      "word": "哪吒2票房124亿",
+      "onboard_time": 1739946021,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 279764,
       "num": 386900,
       "word": "泽连斯基说俄美会谈令人吃惊",
       "onboard_time": 1739933360,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 271996,
-      "num": 271996,
-      "word": "哪吒2票房124亿",
-      "onboard_time": 1739946021,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 271431,
@@ -715,14 +731,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 229979,
-      "num": 255153,
-      "word": "章若楠 没有攻击性",
-      "onboard_time": 1739946441,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 228337,
       "num": 201751,
       "word": "斯琴高丽与顾峰不存在夫妻关系",
@@ -793,6 +801,14 @@
       "onboard_time": 1739939722,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 215922,
+      "num": 321473,
+      "word": "朴灿烈ins晒与张艺兴合照",
+      "onboard_time": 1739946921,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 215920,
@@ -907,12 +923,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199930,
+      "num": 199930,
+      "word": "吴磊也去看哪吒2了",
+      "onboard_time": 1739947160,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 199189,
       "num": 206297,
       "word": "苏醒苦了兄弟不能苦自己",
       "onboard_time": 1739939843,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199087,
+      "num": 199087,
+      "word": "生命树",
+      "onboard_time": 1739946680,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 193775,
@@ -1020,11 +1052,19 @@
     },
     {
       "raw_hot": 166874,
-      "num": 166874,
+      "num": 484664,
       "word": "82岁独居老人倒地在家2天才被发现",
       "onboard_time": 1739945961,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164326,
+      "num": 164326,
+      "word": "我和闺蜜互拍就高圆圆这样",
+      "onboard_time": 1739946980,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 163271,
@@ -1123,14 +1163,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 148818,
-      "num": 448849,
-      "word": "余承恩不看好奇看了红温",
-      "onboard_time": 1739945961,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 148746,
       "num": 148746,
       "word": "张极说登陆少年今年有很多场演唱会",
@@ -1147,12 +1179,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 145656,
-      "num": 145656,
-      "word": "生命树",
-      "onboard_time": 1739946680,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 144950,
+      "num": 419370,
+      "word": "高圆圆佛山逛吃之旅",
+      "onboard_time": 1739945901,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 143645,
@@ -1209,6 +1241,14 @@
       "onboard_time": 1739942360,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127191,
+      "num": 127191,
+      "word": "张馨予滑雪买了500元照片",
+      "onboard_time": 1739947398,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 126691,
@@ -1291,6 +1331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120047,
+      "num": 120047,
+      "word": "孙颖莎球迷现场大喊我爱你",
+      "onboard_time": 1739943563,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119353,
       "num": 119353,
       "word": "医生接产带壳宝宝难掩惊喜",
@@ -1364,7 +1412,7 @@
     },
     {
       "raw_hot": 105115,
-      "num": 1061235,
+      "num": 1134374,
       "word": "各地出招促进民营经济发展",
       "onboard_time": 1739942601,
       "rank": 2,
@@ -1419,20 +1467,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 97390,
-      "num": 419370,
-      "word": "高圆圆佛山逛吃之旅",
-      "onboard_time": 1739945901,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 96034,
       "num": 363192,
       "word": "岸田文雄遇袭案嫌疑人获刑10年",
       "onboard_time": 1739933420,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 91655,
+      "num": 454716,
+      "word": "韩国娱乐圈的男女有别",
+      "onboard_time": 1739946079,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 91607,
@@ -1507,20 +1555,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 74004,
+      "num": 289431,
+      "word": "守望先锋国服",
+      "onboard_time": 1739946199,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 73737,
       "num": 73737,
       "word": "张宥浩你确实有点冒昧多余了",
       "onboard_time": 1739897655,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 73384,
-      "num": 144681,
-      "word": "守望先锋国服",
-      "onboard_time": 1739946199,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 72540,
@@ -1737,14 +1785,6 @@
       "onboard_time": 1739941462,
       "rank": 29,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 23739,
-      "num": 454716,
-      "word": "韩国娱乐圈的男女有别",
-      "onboard_time": 1739946079,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 22829,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1739947465217,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2006198,
+        "num": 2006198,
+        "word": "12306回应孕妇被行李箱砸中致早产",
+        "onboard_time": 1739940202,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1227658,
+        "num": 1227658,
+        "word": "章若楠 没有攻击性",
+        "onboard_time": 1739946441,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93114,
+        "num": 1134374,
+        "word": "各地出招促进民营经济发展",
+        "onboard_time": 1739942601,
+        "rank": 2,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 1124040,
+        "num": 1124040,
+        "word": "金价",
+        "onboard_time": 1739934739,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 604374,
+        "num": 604374,
+        "word": "赵露思给桑稚买的青蛙手机壳",
+        "onboard_time": 1739939900,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 578727,
+        "num": 578727,
+        "word": "老人2天没散步被网格员发现出意外",
+        "onboard_time": 1739941401,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 546684,
+        "num": 546684,
+        "word": "胡歌称40岁已经进入人生倒计时了",
+        "onboard_time": 1739942481,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 487931,
+        "num": 487931,
+        "word": "哪吒2全球动画第1",
+        "onboard_time": 1739879063,
+        "rank": 7,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 552279,
+        "num": 487558,
+        "word": "74岁老人服用纯中药抗癌汤肿瘤消失",
+        "onboard_time": 1739938340,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137085,
+        "num": 484664,
+        "word": "82岁独居老人倒地在家2天才被发现",
+        "onboard_time": 1739945961,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 885005,
+        "num": 484487,
+        "word": "疑似网红燕来妈妈被杀",
+        "onboard_time": 1739940862,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 483370,
+        "num": 483370,
+        "word": "韩国女学生跳车身亡八旬出租车司机无罪",
+        "onboard_time": 1739935100,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 479400,
+        "num": 479400,
+        "word": "朴灿烈没握到张艺兴的手",
+        "onboard_time": 1739942241,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 429738,
+        "num": 429738,
+        "word": "哪吒2延长上映至3月30日",
+        "onboard_time": 1739935941,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 429669,
+        "num": 429669,
+        "word": "吴倩莲近照",
+        "onboard_time": 1739942781,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426932,
+        "num": 426932,
+        "word": "马库斯揭露触目惊心的黄浦江尸体照片",
+        "onboard_time": 1739937082,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380022,
+        "num": 380022,
+        "word": "黄友政vs张本智和",
+        "onboard_time": 1739944820,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323393,
+        "num": 323393,
+        "word": "江苏一龙凤胎出生时自带结界",
+        "onboard_time": 1739938763,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215922,
+        "num": 321473,
+        "word": "朴灿烈ins晒与张艺兴合照",
+        "onboard_time": 1739946921,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91655,
+        "num": 319956,
+        "word": "韩国娱乐圈的男女有别",
+        "onboard_time": 1739946079,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423620,
+        "num": 315309,
+        "word": "南芜双狗",
+        "onboard_time": 1739941880,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 382303,
+        "num": 312922,
+        "word": "林俊杰 你们竟然不关心我的健康",
+        "onboard_time": 1739943081,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312487,
+        "num": 312487,
+        "word": "余承恩不看好奇看了红温",
+        "onboard_time": 1739945961,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308945,
+        "num": 308945,
+        "word": "金巧巧发千字长文回应黑粉",
+        "onboard_time": 1739937681,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74004,
+        "num": 289431,
+        "word": "守望先锋国服",
+        "onboard_time": 1739946199,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 281051,
+        "num": 281051,
+        "word": "哪吒2票房124亿",
+        "onboard_time": 1739946021,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 249340,
+        "num": 249340,
+        "word": "DeepSeek评我的择偶标准",
+        "onboard_time": 1739943739,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 249061,
+        "num": 249061,
+        "word": "2025高考时间公布",
+        "onboard_time": 1739934620,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 226319,
+        "num": 226319,
+        "word": "挖呀挖黄老师已成早教王者",
+        "onboard_time": 1739925562,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199930,
+        "num": 199930,
+        "word": "吴磊也去看哪吒2了",
+        "onboard_time": 1739947160,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205658,
+        "num": 199511,
+        "word": "女子网购100克黄金收到一卷手纸",
+        "onboard_time": 1739933899,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213620,
+        "num": 199430,
+        "word": "网友涂鸦申公豹老人称会吓到孩子",
+        "onboard_time": 1739938402,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199087,
+        "num": 199087,
+        "word": "生命树",
+        "onboard_time": 1739946680,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198446,
+        "num": 198446,
+        "word": "专家称哪吒2被曝错别字值得重视",
+        "onboard_time": 1739940683,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191775,
+        "num": 191775,
+        "word": "医生解释农村聚餐为何不建议用四季豆",
+        "onboard_time": 1739943022,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190161,
+        "num": 190161,
+        "word": "惠英红给杨幂花开富贵红包",
+        "onboard_time": 1739943739,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188465,
+        "num": 188465,
+        "word": "难哄",
+        "onboard_time": 1739925801,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173561,
+        "num": 173561,
+        "word": "女子被丈夫灌面汤呛死家属发声",
+        "onboard_time": 1739932880,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170293,
+        "num": 170293,
+        "word": "戚薇想着姐妹李承铉想着兄弟",
+        "onboard_time": 1739944580,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166942,
+        "num": 166942,
+        "word": "泽连斯基被曝仅有1小时同意美方方案",
+        "onboard_time": 1739939302,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 164326,
+        "num": 164326,
+        "word": "我和闺蜜互拍就高圆圆这样",
+        "onboard_time": 1739946980,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147920,
+        "num": 147920,
+        "word": "白敬亭不愧是沈腾带出来的兵",
+        "onboard_time": 1739945600,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134125,
+        "num": 134125,
+        "word": "江苏哪吒宝宝出生",
+        "onboard_time": 1739935221,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130232,
+        "num": 130232,
+        "word": "马天宇卖汤圆",
+        "onboard_time": 1739932280,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127191,
+        "num": 127191,
+        "word": "张馨予滑雪买了500元照片",
+        "onboard_time": 1739947398,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144950,
+        "num": 126955,
+        "word": "高圆圆佛山逛吃之旅",
+        "onboard_time": 1739945901,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124889,
+        "num": 124889,
+        "word": "被杀女幼师曾与凶手缠斗",
+        "onboard_time": 1739938642,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124256,
+        "num": 124256,
+        "word": "张凌赫 爸爸妈妈不要只看吻戏",
+        "onboard_time": 1739934080,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120047,
+        "num": 120047,
+        "word": "孙颖莎球迷现场大喊我爱你",
+        "onboard_time": 1739943563,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117437,
+        "num": 117437,
+        "word": "投行预计金价年底回落至2700美元",
+        "onboard_time": 1739944580,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为民营企业鼓劲#"
+    }
+  }
+}
