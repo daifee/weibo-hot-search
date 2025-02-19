@@ -1,0 +1,410 @@
+{
+  "runTime": 1739942517245,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1719131,
+        "num": 1719131,
+        "word": "韩国女学生跳车身亡八旬出租车司机无罪",
+        "onboard_time": 1739935100,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1481901,
+        "num": 1481901,
+        "word": "12306回应孕妇被行李箱砸中致早产",
+        "onboard_time": 1739940202,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7364,
+        "num": 1274768,
+        "word": "中国式现代化的万千气象海南行",
+        "onboard_time": 1739782103,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1240018,
+        "num": 1240018,
+        "word": "74岁老人服用纯中药抗癌汤肿瘤消失",
+        "onboard_time": 1739938340,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1128761,
+        "num": 1128761,
+        "word": "哪吒2延长上映至3月30日",
+        "onboard_time": 1739935941,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1076118,
+        "num": 1076118,
+        "word": "赵露思给桑稚买的青蛙手机壳",
+        "onboard_time": 1739939900,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1069858,
+        "num": 1069858,
+        "word": "金价",
+        "onboard_time": 1739934739,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 818822,
+        "num": 818822,
+        "word": "马库斯揭露触目惊心的黄浦江尸体照片",
+        "onboard_time": 1739937082,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 685246,
+        "num": 802667,
+        "word": "哪吒2全球动画第1",
+        "onboard_time": 1739879063,
+        "rank": 8,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 122527,
+        "num": 801078,
+        "word": "被杀女幼师将被申报见义勇为",
+        "onboard_time": 1739941522,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1021186,
+        "num": 800978,
+        "word": "江苏一龙凤胎出生时自带结界",
+        "onboard_time": 1739938763,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 799613,
+        "num": 799613,
+        "word": "金巧巧发千字长文回应黑粉",
+        "onboard_time": 1739937681,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 793614,
+        "num": 793614,
+        "word": "疑似网红燕来妈妈被杀",
+        "onboard_time": 1739940862,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 560606,
+        "num": 560606,
+        "word": "特朗普严厉批评泽连斯基",
+        "onboard_time": 1739934321,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 49821,
+        "num": 547572,
+        "word": "泽连斯基称没人对阿富汗2.0感兴趣",
+        "onboard_time": 1739941821,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 424041,
+        "num": 540420,
+        "word": "张凌赫 爸爸妈妈不要只看吻戏",
+        "onboard_time": 1739934080,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 538842,
+        "num": 538842,
+        "word": "网友涂鸦申公豹老人称会吓到孩子",
+        "onboard_time": 1739938402,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 526605,
+        "num": 526605,
+        "word": "江苏哪吒宝宝出生",
+        "onboard_time": 1739935221,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253017,
+        "num": 516295,
+        "word": "全国文旅喊话邓为别断念了",
+        "onboard_time": 1739941941,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197135,
+        "num": 513350,
+        "word": "老人2天没散步被网格员发现出意外",
+        "onboard_time": 1739941401,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 510804,
+        "num": 510804,
+        "word": "2025高考时间公布",
+        "onboard_time": 1739934620,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 399877,
+        "num": 399877,
+        "word": "被杀女幼师曾与凶手缠斗",
+        "onboard_time": 1739938642,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376176,
+        "num": 376176,
+        "word": "原来只有敖光是纯正龙族血统",
+        "onboard_time": 1739935040,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 340395,
+        "num": 340395,
+        "word": "女子网购100克黄金收到一卷手纸",
+        "onboard_time": 1739933899,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241428,
+        "num": 339335,
+        "word": "比白磷还易燃的生物出现了",
+        "onboard_time": 1739937443,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 339051,
+        "num": 339051,
+        "word": "挖呀挖黄老师已成早教王者",
+        "onboard_time": 1739925562,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294517,
+        "num": 294517,
+        "word": "北美不卖IMAX票当地华人包场支持哪吒2",
+        "onboard_time": 1739940683,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 290296,
+        "num": 290296,
+        "word": "马天宇卖汤圆",
+        "onboard_time": 1739932280,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285387,
+        "num": 285387,
+        "word": "专家称哪吒2被曝错别字值得重视",
+        "onboard_time": 1739940683,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24804,
+        "num": 280727,
+        "word": "刘雯黑白双羽ELLE大片",
+        "onboard_time": 1739941462,
+        "rank": 29,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 278062,
+        "num": 278062,
+        "word": "女子被丈夫灌面汤呛死家属发声",
+        "onboard_time": 1739932880,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224591,
+        "num": 266975,
+        "word": "南芜双狗",
+        "onboard_time": 1739941880,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264551,
+        "num": 264551,
+        "word": "白敬亭谁教你们这么剪转场的",
+        "onboard_time": 1739937742,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250351,
+        "num": 250351,
+        "word": "金赛纶今天出殡",
+        "onboard_time": 1739937502,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163414,
+        "num": 249536,
+        "word": "朴灿烈没握到张艺兴的手",
+        "onboard_time": 1739942241,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 249061,
+        "num": 249061,
+        "word": "黄杨钿甜17岁演了33部戏",
+        "onboard_time": 1739935343,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218973,
+        "num": 218973,
+        "word": "难哄第3集上头",
+        "onboard_time": 1739940802,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209262,
+        "num": 209262,
+        "word": "陈晓陈妍希离婚博坚持打卡1370天",
+        "onboard_time": 1739890823,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208544,
+        "num": 208544,
+        "word": "24岁有20年翻译工作经历",
+        "onboard_time": 1739939182,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178963,
+        "num": 178963,
+        "word": "难哄",
+        "onboard_time": 1739925801,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203431,
+        "num": 178834,
+        "word": "预制的风吹到了手工作业",
+        "onboard_time": 1739940562,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177722,
+        "num": 177722,
+        "word": "男鬼桑延",
+        "onboard_time": 1739932699,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165290,
+        "num": 165290,
+        "word": "二胎家庭孩子缺少安全感是父母问题吗",
+        "onboard_time": 1739942300,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32095,
+        "num": 161591,
+        "word": "林诗栋3比0胜黄镇廷",
+        "onboard_time": 1739941343,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161510,
+        "num": 161510,
+        "word": "面汤呛妻案中妻子先被殴打又拖入锅中",
+        "onboard_time": 1739940622,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153062,
+        "num": 153062,
+        "word": "胡歌称40岁已经进入人生倒计时了",
+        "onboard_time": 1739942481,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152181,
+        "num": 152181,
+        "word": "泽连斯基被曝仅有1小时同意美方方案",
+        "onboard_time": 1739939302,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141257,
+        "num": 141257,
+        "word": "四川一地坝坝宴将不得用四季豆",
+        "onboard_time": 1739931620,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136387,
+        "num": 136387,
+        "word": "燕云十六声",
+        "onboard_time": 1739939722,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127805,
+        "num": 127805,
+        "word": "深圳亚洲杯开赛",
+        "onboard_time": 1739942360,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为民营企业鼓劲#"
+    }
+  }
+}
