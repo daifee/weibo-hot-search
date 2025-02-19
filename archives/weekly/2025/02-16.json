@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739943549260,
+  "endTime": 1739946698464,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -1643,6 +1643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 658546,
+      "num": 658546,
+      "word": "老人2天没散步被网格员发现出意外",
+      "onboard_time": 1739941401,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 658269,
       "num": 658269,
       "word": "不喜欢求助他人可能是缺爱",
@@ -1779,14 +1787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 618780,
-      "num": 618780,
-      "word": "老人2天没散步被网格员发现出意外",
-      "onboard_time": 1739941401,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 608663,
       "num": 317726,
       "word": "女医生疑辱骂患者不得好死",
@@ -1907,6 +1907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 569990,
+      "num": 569990,
+      "word": "胡歌称40岁已经进入人生倒计时了",
+      "onboard_time": 1739942481,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 568774,
       "num": 384103,
       "word": "片方回应饺子导演被假冒带货",
@@ -2017,6 +2025,14 @@
       "onboard_time": 1739776821,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 542123,
+      "num": 542123,
+      "word": "朴灿烈没握到张艺兴的手",
+      "onboard_time": 1739942241,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 542046,
@@ -2291,6 +2307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 479496,
+      "num": 475354,
+      "word": "吴倩莲近照",
+      "onboard_time": 1739942781,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 479150,
       "num": 479150,
       "word": "外交部发布未来已来高燃视频",
@@ -2353,6 +2377,14 @@
       "onboard_time": 1739889562,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 468845,
+      "num": 468845,
+      "word": "南芜双狗",
+      "onboard_time": 1739941880,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 468708,
@@ -2659,6 +2691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 419145,
+      "num": 419145,
+      "word": "林俊杰 你们竟然不关心我的健康",
+      "onboard_time": 1739943081,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 418645,
       "num": 418645,
       "word": "原来难哄的是桑延",
@@ -2835,14 +2875,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 389121,
-      "num": 422353,
-      "word": "朴灿烈没握到张艺兴的手",
-      "onboard_time": 1739942241,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 388720,
       "num": 388720,
       "word": "用监控帮邻居查岗丈夫被告上法庭",
@@ -2969,6 +3001,14 @@
       "onboard_time": 1739666838,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 373965,
+      "num": 373965,
+      "word": "黄友政vs张本智和",
+      "onboard_time": 1739944820,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 373521,
@@ -3635,14 +3675,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 296607,
-      "num": 296607,
-      "word": "南芜双狗",
-      "onboard_time": 1739941880,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 294281,
       "num": 376215,
       "word": "难哄 电视剧界汪峰",
@@ -3697,14 +3729,6 @@
       "onboard_time": 1739873002,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 290626,
-      "num": 290626,
-      "word": "胡歌称40岁已经进入人生倒计时了",
-      "onboard_time": 1739942481,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 290609,
@@ -3899,14 +3923,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 278951,
-      "num": 278951,
-      "word": "吴倩莲近照",
-      "onboard_time": 1739942781,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 278898,
       "num": 278898,
       "word": "马龙现身小学开学第一课",
@@ -3953,6 +3969,14 @@
       "onboard_time": 1739635340,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 271996,
+      "num": 271996,
+      "word": "哪吒2票房124亿",
+      "onboard_time": 1739946021,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 270797,
@@ -4017,6 +4041,14 @@
       "onboard_time": 1739879723,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 267762,
+      "num": 267762,
+      "word": "DeepSeek评我的择偶标准",
+      "onboard_time": 1739943739,
+      "rank": 26,
+      "category": "互联网"
     },
     {
       "raw_hot": 266984,
@@ -4241,6 +4273,14 @@
       "onboard_time": 1739818573,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 254959,
+      "num": 254959,
+      "word": "惠英红给杨幂花开富贵红包",
+      "onboard_time": 1739943739,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 254847,
@@ -4515,6 +4555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237415,
+      "num": 237415,
+      "word": "医生解释农村聚餐为何不建议用四季豆",
+      "onboard_time": 1739943022,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 236677,
       "num": 236677,
       "word": "导演晒杨洋雨霖铃杀青照",
@@ -4625,6 +4673,14 @@
       "onboard_time": 1739770280,
       "rank": 35,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 229979,
+      "num": 255153,
+      "word": "章若楠 没有攻击性",
+      "onboard_time": 1739946441,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 229827,
@@ -5115,14 +5171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 209359,
-      "num": 209359,
-      "word": "林俊杰 你们竟然不关心我的健康",
-      "onboard_time": 1739943081,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 209087,
       "num": 217347,
       "word": "哪吒到底召唤了多少神技能",
@@ -5369,6 +5417,14 @@
       "onboard_time": 1739873603,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201887,
+      "num": 201887,
+      "word": "戚薇想着姐妹李承铉想着兄弟",
+      "onboard_time": 1739944580,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 201789,
@@ -6219,6 +6275,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 176272,
+      "num": 301335,
+      "word": "泽连斯基被曝仅有1小时同意美方方案",
+      "onboard_time": 1739939302,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 175216,
       "num": 291684,
       "word": "黎深福布斯",
@@ -6353,6 +6417,14 @@
       "onboard_time": 1739679619,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 171152,
+      "num": 171152,
+      "word": "白敬亭不愧是沈腾带出来的兵",
+      "onboard_time": 1739945600,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 171045,
@@ -6513,6 +6585,14 @@
       "onboard_time": 1739876721,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 166874,
+      "num": 166874,
+      "word": "82岁独居老人倒地在家2天才被发现",
+      "onboard_time": 1739945961,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166845,
@@ -6737,14 +6817,6 @@
       "onboard_time": 1739796561,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 158424,
-      "num": 301335,
-      "word": "泽连斯基被曝仅有1小时同意美方方案",
-      "onboard_time": 1739939302,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 158125,
@@ -7091,6 +7163,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 148818,
+      "num": 448849,
+      "word": "余承恩不看好奇看了红温",
+      "onboard_time": 1739945961,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148746,
       "num": 148746,
       "word": "张极说登陆少年今年有很多场演唱会",
@@ -7175,6 +7255,14 @@
       "num": 146234,
       "word": "白敬亭演唱难哄OST",
       "onboard_time": 1739768721,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 145656,
+      "num": 145656,
+      "word": "生命树",
+      "onboard_time": 1739946680,
       "rank": 43,
       "category": "剧集"
     },
@@ -7499,14 +7587,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 136771,
-      "num": 204877,
-      "word": "医生解释农村聚餐为何不建议用四季豆",
-      "onboard_time": 1739943022,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136674,
       "num": 136674,
       "word": "林孝埈坚定的冰上少年",
@@ -7585,6 +7665,14 @@
       "onboard_time": 1739690717,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133907,
+      "num": 133907,
+      "word": "投行预计金价年底回落至2700美元",
+      "onboard_time": 1739944580,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 133888,
@@ -8483,6 +8571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 105115,
+      "num": 1061235,
+      "word": "各地出招促进民营经济发展",
+      "onboard_time": 1739942601,
+      "rank": 2,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 104841,
       "num": 104841,
       "word": "猫咪拦路下一秒塌方男子刹车躲过",
@@ -8617,6 +8713,14 @@
       "onboard_time": 1739852365,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102043,
+      "num": 504410,
+      "word": "2024年中国考古新发现揭晓",
+      "onboard_time": 1739945179,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102021,
@@ -8761,6 +8865,14 @@
       "onboard_time": 1739862086,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97390,
+      "num": 419370,
+      "word": "高圆圆佛山逛吃之旅",
+      "onboard_time": 1739945901,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 97017,
@@ -9083,6 +9195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80076,
+      "num": 237445,
+      "word": "林诗栋亚洲杯男单开门红",
+      "onboard_time": 1739946500,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80070,
       "num": 269671,
       "word": "蒯纪闻凌空斩",
@@ -9241,6 +9361,14 @@
       "onboard_time": 1739897655,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 73384,
+      "num": 144681,
+      "word": "守望先锋国服",
+      "onboard_time": 1739946199,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 72713,
@@ -9779,6 +9907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52422,
+      "num": 222093,
+      "word": "上海影城重映1979年版哪吒",
+      "onboard_time": 1739944880,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 51501,
       "num": 225067,
       "word": "业内称金价上行格局尚未打破",
@@ -9801,14 +9937,6 @@
       "onboard_time": 1739648652,
       "rank": 29,
       "category": "民生新闻,电影"
-    },
-    {
-      "raw_hot": 50090,
-      "num": 1061235,
-      "word": "各地出招促进民营经济发展",
-      "onboard_time": 1739942601,
-      "rank": 2,
-      "category": "国内时政,财经"
     },
     {
       "raw_hot": 49837,
@@ -10515,6 +10643,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 23739,
+      "num": 454716,
+      "word": "韩国娱乐圈的男女有别",
+      "onboard_time": 1739946079,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 23539,
       "num": 162603,
       "word": "回顾94年的秀场风格",
@@ -10625,6 +10761,14 @@
       "onboard_time": 1739639596,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21340,
+      "num": 432850,
+      "word": "达美航空翻转落地实拍",
+      "onboard_time": 1739945600,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 21154,

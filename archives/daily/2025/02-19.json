@@ -1,6 +1,6 @@
 {
   "startTime": 1739896170867,
-  "endTime": 1739943549260,
+  "endTime": 1739946698464,
   "band_list": [
     {
       "raw_hot": 2861674,
@@ -251,8 +251,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 618780,
-      "num": 618780,
+      "raw_hot": 658546,
+      "num": 658546,
       "word": "老人2天没散步被网格员发现出意外",
       "onboard_time": 1739941401,
       "rank": 19,
@@ -275,12 +275,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 569990,
+      "num": 569990,
+      "word": "胡歌称40岁已经进入人生倒计时了",
+      "onboard_time": 1739942481,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 558034,
       "num": 558034,
       "word": "俄美决定未来将在多领域合作",
       "onboard_time": 1739913611,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 542123,
+      "num": 542123,
+      "word": "朴灿烈没握到张艺兴的手",
+      "onboard_time": 1739942241,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 541991,
@@ -331,6 +347,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 479496,
+      "num": 475354,
+      "word": "吴倩莲近照",
+      "onboard_time": 1739942781,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 468845,
+      "num": 468845,
+      "word": "南芜双狗",
+      "onboard_time": 1739941880,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 465157,
       "num": 465157,
       "word": "孙颖莎vs简彤娟",
@@ -353,6 +385,14 @@
       "onboard_time": 1739892143,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 419145,
+      "num": 419145,
+      "word": "林俊杰 你们竟然不关心我的健康",
+      "onboard_time": 1739943081,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 413605,
@@ -387,14 +427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 389121,
-      "num": 422353,
-      "word": "朴灿烈没握到张艺兴的手",
-      "onboard_time": 1739942241,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 387899,
       "num": 288837,
       "word": "陈晓陈妍希 1370天",
@@ -417,6 +449,14 @@
       "onboard_time": 1739937502,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 373965,
+      "num": 373965,
+      "word": "黄友政vs张本智和",
+      "onboard_time": 1739944820,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 344046,
@@ -499,22 +539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 296607,
-      "num": 296607,
-      "word": "南芜双狗",
-      "onboard_time": 1739941880,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 290626,
-      "num": 290626,
-      "word": "胡歌称40岁已经进入人生倒计时了",
-      "onboard_time": 1739942481,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 290311,
       "num": 290311,
       "word": "六姊妹二姐夫病逝",
@@ -563,12 +587,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 278951,
-      "num": 278951,
-      "word": "吴倩莲近照",
-      "onboard_time": 1739942781,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 271996,
+      "num": 271996,
+      "word": "哪吒2票房124亿",
+      "onboard_time": 1739946021,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 271431,
@@ -593,6 +617,14 @@
       "onboard_time": 1739926161,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 267762,
+      "num": 267762,
+      "word": "DeepSeek评我的择偶标准",
+      "onboard_time": 1739943739,
+      "rank": 26,
+      "category": "互联网"
     },
     {
       "raw_hot": 266866,
@@ -627,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 254959,
+      "num": 254959,
+      "word": "惠英红给杨幂花开富贵红包",
+      "onboard_time": 1739943739,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253017,
       "num": 516295,
       "word": "全国文旅喊话邓为别断念了",
@@ -651,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237415,
+      "num": 237415,
+      "word": "医生解释农村聚餐为何不建议用四季豆",
+      "onboard_time": 1739943022,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 235944,
       "num": 235944,
       "word": "儿子开会摸鱼被父亲眼神封印",
@@ -665,6 +713,14 @@
       "onboard_time": 1739935523,
       "rank": 33,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 229979,
+      "num": 255153,
+      "word": "章若楠 没有攻击性",
+      "onboard_time": 1739946441,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 228337,
@@ -763,14 +819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209359,
-      "num": 209359,
-      "word": "林俊杰 你们竟然不关心我的健康",
-      "onboard_time": 1739943081,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 209087,
       "num": 217347,
       "word": "哪吒到底召唤了多少神技能",
@@ -841,6 +889,14 @@
       "onboard_time": 1739935941,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201887,
+      "num": 201887,
+      "word": "戚薇想着姐妹李承铉想着兄弟",
+      "onboard_time": 1739944580,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 201780,
@@ -915,6 +971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176272,
+      "num": 301335,
+      "word": "泽连斯基被曝仅有1小时同意美方方案",
+      "onboard_time": 1739939302,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 174728,
       "num": 174728,
       "word": "王大陆保释后没道歉",
@@ -931,6 +995,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 171152,
+      "num": 171152,
+      "word": "白敬亭不愧是沈腾带出来的兵",
+      "onboard_time": 1739945600,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170300,
       "num": 115259,
       "word": "特朗普称本月底前将与普京会面",
@@ -945,6 +1017,14 @@
       "onboard_time": 1739934321,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166874,
+      "num": 166874,
+      "word": "82岁独居老人倒地在家2天才被发现",
+      "onboard_time": 1739945961,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163271,
@@ -995,14 +1075,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158424,
-      "num": 301335,
-      "word": "泽连斯基被曝仅有1小时同意美方方案",
-      "onboard_time": 1739939302,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 156945,
       "num": 156945,
       "word": "郭艾伦 以后可能打不了篮球了",
@@ -1051,6 +1123,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 148818,
+      "num": 448849,
+      "word": "余承恩不看好奇看了红温",
+      "onboard_time": 1739945961,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148746,
       "num": 148746,
       "word": "张极说登陆少年今年有很多场演唱会",
@@ -1065,6 +1145,14 @@
       "onboard_time": 1739929760,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145656,
+      "num": 145656,
+      "word": "生命树",
+      "onboard_time": 1739946680,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 143645,
@@ -1099,12 +1187,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 136771,
-      "num": 204877,
-      "word": "医生解释农村聚餐为何不建议用四季豆",
-      "onboard_time": 1739943022,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 133907,
+      "num": 133907,
+      "word": "投行预计金价年底回落至2700美元",
+      "onboard_time": 1739944580,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 132996,
@@ -1275,6 +1363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105115,
+      "num": 1061235,
+      "word": "各地出招促进民营经济发展",
+      "onboard_time": 1739942601,
+      "rank": 2,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 104841,
       "num": 104841,
       "word": "猫咪拦路下一秒塌方男子刹车躲过",
@@ -1289,6 +1385,14 @@
       "onboard_time": 1739942722,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102043,
+      "num": 504410,
+      "word": "2024年中国考古新发现揭晓",
+      "onboard_time": 1739945179,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101878,
@@ -1313,6 +1417,14 @@
       "onboard_time": 1739903352,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 97390,
+      "num": 419370,
+      "word": "高圆圆佛山逛吃之旅",
+      "onboard_time": 1739945901,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 96034,
@@ -1355,6 +1467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80076,
+      "num": 237445,
+      "word": "林诗栋亚洲杯男单开门红",
+      "onboard_time": 1739946500,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79780,
       "num": 99870,
       "word": "竹内亮导演喊话饺子导演",
@@ -1393,6 +1513,14 @@
       "onboard_time": 1739897655,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 73384,
+      "num": 144681,
+      "word": "守望先锋国服",
+      "onboard_time": 1739946199,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 72540,
@@ -1443,20 +1571,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 52422,
+      "num": 222093,
+      "word": "上海影城重映1979年版哪吒",
+      "onboard_time": 1739944880,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 51501,
       "num": 225067,
       "word": "业内称金价上行格局尚未打破",
       "onboard_time": 1739934199,
       "rank": 29,
       "category": "财经"
-    },
-    {
-      "raw_hot": 50090,
-      "num": 1061235,
-      "word": "各地出招促进民营经济发展",
-      "onboard_time": 1739942601,
-      "rank": 2,
-      "category": "国内时政,财经"
     },
     {
       "raw_hot": 49547,
@@ -1611,6 +1739,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 23739,
+      "num": 454716,
+      "word": "韩国娱乐圈的男女有别",
+      "onboard_time": 1739946079,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 22829,
       "num": 22829,
       "word": "王大陆将会被移送新北地检署",
@@ -1633,6 +1769,14 @@
       "onboard_time": 1739899634,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 21340,
+      "num": 432850,
+      "word": "达美航空翻转落地实拍",
+      "onboard_time": 1739945600,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 20728,
