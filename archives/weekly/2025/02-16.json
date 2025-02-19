@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739968873669,
+  "endTime": 1739969847337,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -252,11 +252,19 @@
     },
     {
       "raw_hot": 2254667,
-      "num": 497907,
+      "num": 512680,
       "word": "朴春 李敏镐",
       "onboard_time": 1739957721,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2234322,
+      "num": 2234322,
+      "word": "哪吒创作团队停止所有对外采访",
+      "onboard_time": 1739967800,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 2205164,
@@ -1139,14 +1147,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 975800,
-      "num": 975800,
-      "word": "哪吒创作团队停止所有对外采访",
-      "onboard_time": 1739967800,
-      "rank": 4,
-      "category": "电影"
-    },
-    {
       "raw_hot": 974568,
       "num": 910085,
       "word": "哪吒2外网首批口碑",
@@ -1715,6 +1715,14 @@
       "category": "民生新闻,体育"
     },
     {
+      "raw_hot": 713112,
+      "num": 570493,
+      "word": "认不出来这是A妹了",
+      "onboard_time": 1739967080,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 709777,
       "num": 387846,
       "word": "胡歌看着女儿感觉时间不够用",
@@ -1923,12 +1931,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 636839,
+      "num": 509630,
+      "word": "网曝711店员熟食区做不雅行为",
+      "onboard_time": 1739959400,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 636451,
       "num": 636451,
       "word": "18岁抗癌博主晟宝去世",
       "onboard_time": 1739857777,
       "rank": 6,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 635677,
+      "num": 556739,
+      "word": "柯淳 无限超越班",
+      "onboard_time": 1739966840,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 631806,
@@ -2219,16 +2243,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 547383,
-      "num": 547383,
-      "word": "柯淳 无限超越班",
-      "onboard_time": 1739966840,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 542742,
-      "num": 365762,
+      "num": 405222,
       "word": "难哄全网登顶",
       "onboard_time": 1739963181,
       "rank": 22,
@@ -2323,6 +2339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 528142,
+      "num": 528142,
+      "word": "家属否认39岁博导因被劝酒去世",
+      "onboard_time": 1739966780,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 525637,
       "num": 384981,
       "word": "张晚意工作室回应恋情传闻",
@@ -2345,14 +2369,6 @@
       "onboard_time": 1739676498,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 520821,
-      "num": 520821,
-      "word": "家属否认39岁博导因被劝酒去世",
-      "onboard_time": 1739966780,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 519749,
@@ -2585,14 +2601,6 @@
       "onboard_time": 1739716104,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 478963,
-      "num": 364066,
-      "word": "认不出来这是A妹了",
-      "onboard_time": 1739967080,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 475294,
@@ -3483,14 +3491,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 357380,
-      "num": 357380,
-      "word": "网曝711店员熟食区做不雅行为",
-      "onboard_time": 1739959400,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 356907,
       "num": 356907,
       "word": "网传小学老师因末位淘汰轻生",
@@ -4160,6 +4160,14 @@
       "word": "六姊妹二姐夫病逝",
       "onboard_time": 1739935040,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 290265,
+      "num": 207408,
+      "word": "三部在播剧口碑分化",
+      "onboard_time": 1739968521,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -5139,12 +5147,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 235270,
+      "num": 206425,
+      "word": "湖南卫视考古杨紫",
+      "onboard_time": 1739968580,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235018,
       "num": 235018,
       "word": "印度首都火车站踩踏事件现场曝光",
       "onboard_time": 1739682739,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 234150,
+      "num": 206297,
+      "word": "桑延 这事传到哪了",
+      "onboard_time": 1739968880,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 233706,
@@ -5827,6 +5851,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 209026,
+      "num": 209026,
+      "word": "英雄联盟",
+      "onboard_time": 1739967920,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 208860,
       "num": 405266,
       "word": "特朗普暗示乌克兰举行新的选举",
@@ -5899,6 +5931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206560,
+      "num": 280792,
+      "word": "王曼昱vs李恩惠",
+      "onboard_time": 1739968281,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206317,
       "num": 206317,
       "word": "董宇辉全平台发布个人单曲",
@@ -5921,6 +5961,14 @@
       "onboard_time": 1739964440,
       "rank": 35,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 205744,
+      "num": 205744,
+      "word": "郭子凡徐梦洁新剧演夫妻",
+      "onboard_time": 1739968822,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 205647,
@@ -6161,14 +6209,6 @@
       "onboard_time": 1739701038,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 200076,
-      "num": 200076,
-      "word": "英雄联盟",
-      "onboard_time": 1739967920,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 200006,
@@ -6571,6 +6611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 191227,
+      "num": 208402,
+      "word": "金莎孙丞潇给狗狗过三岁生日",
+      "onboard_time": 1739969301,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190950,
       "num": 190950,
       "word": "当农学生种出银环蛇甘蔗",
@@ -6721,14 +6769,6 @@
       "onboard_time": 1739690598,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 185463,
-      "num": 185463,
-      "word": "三部在播剧口碑分化",
-      "onboard_time": 1739968521,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 185288,
@@ -7003,8 +7043,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 177602,
-      "num": 177602,
+      "raw_hot": 178196,
+      "num": 188749,
+      "word": "589元浴霸退货运费449元",
+      "onboard_time": 1739968880,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177620,
+      "num": 206135,
       "word": "郭艾伦最新采访",
       "onboard_time": 1739965881,
       "rank": 38,
@@ -7395,6 +7443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 165926,
+      "num": 165926,
+      "word": "配音圈团建",
+      "onboard_time": 1739969061,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 165710,
       "num": 382171,
       "word": "A股指数走高",
@@ -7635,14 +7691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 158577,
-      "num": 158577,
-      "word": "湖南卫视考古杨紫",
-      "onboard_time": 1739968580,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 158125,
       "num": 209834,
       "word": "数十个饺子导演账号全是假的",
@@ -7721,6 +7769,14 @@
       "onboard_time": 1739667137,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155756,
+      "num": 155756,
+      "word": "广州地铁",
+      "onboard_time": 1739967680,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155726,
@@ -7995,6 +8051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149102,
+      "num": 280505,
+      "word": "熟悉的乱穿衣模式回来了",
+      "onboard_time": 1739968460,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149077,
       "num": 149077,
       "word": "杭州AI主播和真人长得也太像了",
@@ -8112,22 +8176,6 @@
       "word": "白敬亭演唱难哄OST",
       "onboard_time": 1739768721,
       "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 146195,
-      "num": 146195,
-      "word": "广州地铁",
-      "onboard_time": 1739967680,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 146048,
-      "num": 146048,
-      "word": "郭子凡徐梦洁新剧演夫妻",
-      "onboard_time": 1739968822,
-      "rank": 46,
       "category": "剧集"
     },
     {
@@ -9843,14 +9891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 97801,
-      "num": 280505,
-      "word": "熟悉的乱穿衣模式回来了",
-      "onboard_time": 1739968460,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 97017,
       "num": 274312,
       "word": "哪吒2成功是长期主义者的胜利",
@@ -9929,14 +9969,6 @@
       "onboard_time": 1739886082,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94820,
-      "num": 280792,
-      "word": "王曼昱vs李恩惠",
-      "onboard_time": 1739968281,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 94418,
@@ -10491,6 +10523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71545,
+      "num": 190972,
+      "word": "浙江大学上线免费满血版deepseek",
+      "onboard_time": 1739969660,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 71509,
       "num": 419973,
       "word": "一违纪被退伍人员窃取军事秘密被捕",
@@ -10779,6 +10819,14 @@
       "category": "民生新闻,电影"
     },
     {
+      "raw_hot": 60722,
+      "num": 205791,
+      "word": "小行星撞出物种灭绝平均要隔1亿年",
+      "onboard_time": 1739969781,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60674,
       "num": 238694,
       "word": "61岁老人飞机上猝死当地已立案",
@@ -10873,6 +10921,14 @@
       "onboard_time": 1739682438,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 58189,
+      "num": 208601,
+      "word": "林高远推荐深圳美食",
+      "onboard_time": 1739969242,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 58101,
@@ -11201,6 +11257,14 @@
       "onboard_time": 1739661373,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 46680,
+      "num": 205853,
+      "word": "官方整改环卫招聘35岁以下要求",
+      "onboard_time": 1739969722,
+      "rank": 35,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 46596,
@@ -11963,6 +12027,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 21556,
+      "num": 206486,
+      "word": "上海寸土寸金具象化了",
+      "onboard_time": 1739969061,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 21497,
       "num": 82557,
       "word": "2025亚洲羽毛球混合团体锦标赛",
@@ -12299,6 +12371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 13171,
+      "num": 208840,
+      "word": "邓为与向涵之现场还原表情包",
+      "onboard_time": 1739968822,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 13148,
       "num": 210820,
       "word": "葬送的芙莉莲辛芙白头偕老",
@@ -12497,14 +12577,6 @@
       "onboard_time": 1739702179,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 6887,
-      "num": 194759,
-      "word": "邓为与向涵之现场还原表情包",
-      "onboard_time": 1739968822,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 6877,
