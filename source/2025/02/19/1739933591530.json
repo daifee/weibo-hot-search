@@ -1,0 +1,410 @@
+{
+  "runTime": 1739933591530,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2193284,
+        "num": 2193284,
+        "word": "DeepSeek",
+        "onboard_time": 1739926282,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 602145,
+        "num": 602145,
+        "word": "乌克兰",
+        "onboard_time": 1739922319,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 5849,
+        "num": 544849,
+        "word": "中国式现代化的万千气象海南行",
+        "onboard_time": 1739782103,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1125549,
+        "num": 528440,
+        "word": "哪吒2被曝字幕中出现多处错别字",
+        "onboard_time": 1739927121,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 504771,
+        "num": 504771,
+        "word": "杨紫西班牙记录",
+        "onboard_time": 1739930180,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289170,
+        "num": 482206,
+        "word": "街道办回应招聘环卫工要求35岁以下",
+        "onboard_time": 1739891122,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 462156,
+        "num": 462156,
+        "word": "哪吒2全球动画第1",
+        "onboard_time": 1739879063,
+        "rank": 6,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 426184,
+        "num": 426184,
+        "word": "小红书崩了",
+        "onboard_time": 1739921898,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 393902,
+        "num": 393902,
+        "word": "男鬼桑延",
+        "onboard_time": 1739932699,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282587,
+        "num": 393012,
+        "word": "官方通报打车66公里被收800元",
+        "onboard_time": 1739926102,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 639189,
+        "num": 388729,
+        "word": "挖呀挖黄老师已成早教王者",
+        "onboard_time": 1739925562,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 461653,
+        "num": 387509,
+        "word": "冲着霸王茶姬投资几十万结果没关联",
+        "onboard_time": 1739928140,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 412029,
+        "num": 384088,
+        "word": "女生遭侵犯逃跑时落水被阻上岸溺亡",
+        "onboard_time": 1739926340,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382532,
+        "num": 382532,
+        "word": "杨丞琳李荣浩是闷声干大事的人",
+        "onboard_time": 1739919795,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368996,
+        "num": 368996,
+        "word": "周星驰cos哪吒造型",
+        "onboard_time": 1739884104,
+        "rank": 14,
+        "category": "艺人,电影"
+      },
+      {
+        "raw_hot": 355831,
+        "num": 355831,
+        "word": "马天宇卖汤圆",
+        "onboard_time": 1739932280,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344104,
+        "num": 344104,
+        "word": "台媒称王大陆兵役逃了10年",
+        "onboard_time": 1739917452,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316465,
+        "num": 316465,
+        "word": "王嘉尔回应心理健康问题",
+        "onboard_time": 1739927421,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307628,
+        "num": 307628,
+        "word": "温以凡床单",
+        "onboard_time": 1739892501,
+        "rank": 18,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 263687,
+        "num": 263687,
+        "word": "四川一地坝坝宴将不得用四季豆",
+        "onboard_time": 1739931620,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342359,
+        "num": 248040,
+        "word": "女生坚持跑步30天瘦脸效果惊人",
+        "onboard_time": 1739926161,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231839,
+        "num": 231839,
+        "word": "女子被丈夫灌面汤呛死家属发声",
+        "onboard_time": 1739932880,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222264,
+        "num": 222264,
+        "word": "于适我一路走来脚踏实地",
+        "onboard_time": 1739929221,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222223,
+        "num": 222223,
+        "word": "iPhone17Pro系列或回归铝合金",
+        "onboard_time": 1739926161,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 43982,
+        "num": 222108,
+        "word": "泽连斯基说俄美会谈令人吃惊",
+        "onboard_time": 1739933360,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121765,
+        "num": 218247,
+        "word": "美国再舞关税大棒",
+        "onboard_time": 1739931679,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160961,
+        "num": 217347,
+        "word": "哪吒到底召唤了多少神技能",
+        "onboard_time": 1739931620,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190094,
+        "num": 214058,
+        "word": "真实土拨鼠打架和哪吒2里一样好笑",
+        "onboard_time": 1739927839,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147505,
+        "num": 213179,
+        "word": "名创优品回应未拆封内裤有不明污渍",
+        "onboard_time": 1739929760,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14010,
+        "num": 210756,
+        "word": "魔卡少女樱草莓小蛋糕",
+        "onboard_time": 1739932760,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 96034,
+        "num": 209310,
+        "word": "岸田文雄遇袭案嫌疑人获刑10年",
+        "onboard_time": 1739933420,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 207790,
+        "num": 207790,
+        "word": "陈晓陈妍希离婚博坚持打卡1370天",
+        "onboard_time": 1739890823,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202448,
+        "num": 202448,
+        "word": "华为三折叠引外媒集体围观",
+        "onboard_time": 1739932819,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 185288,
+        "num": 185288,
+        "word": "中年雄竞的风吹到了国产剧",
+        "onboard_time": 1739931260,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182732,
+        "num": 182732,
+        "word": "丈夫灌面汤呛死妻子案家属望重判",
+        "onboard_time": 1739882182,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160090,
+        "num": 175705,
+        "word": "特朗普暗示乌克兰举行新的选举",
+        "onboard_time": 1739932459,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145769,
+        "num": 174373,
+        "word": "司机66公里收乘客800元被立案",
+        "onboard_time": 1739929101,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173647,
+        "num": 173647,
+        "word": "难哄",
+        "onboard_time": 1739925801,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168454,
+        "num": 168454,
+        "word": "陈晓陈妍希 1370天",
+        "onboard_time": 1739910311,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157772,
+        "num": 157772,
+        "word": "刘楚恬演的桑稚",
+        "onboard_time": 1739890282,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139786,
+        "num": 139786,
+        "word": "以后在杭州骑狗上班",
+        "onboard_time": 1739932699,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136873,
+        "num": 136873,
+        "word": "杨洋给白敬亭包场梦回旋风少女",
+        "onboard_time": 1739927421,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134042,
+        "num": 134042,
+        "word": "女生花10个晚上缝制凤冠送朋友出嫁",
+        "onboard_time": 1739928621,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132793,
+        "num": 132793,
+        "word": "13岁女孩险被骗59万被支付宝拦截",
+        "onboard_time": 1739896816,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123340,
+        "num": 123340,
+        "word": "哪吒2香港首映礼含星量",
+        "onboard_time": 1739922378,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26188,
+        "num": 122905,
+        "word": "直击山东女幼师被害案二审开庭现场",
+        "onboard_time": 1739931739,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122574,
+        "num": 122574,
+        "word": "A股",
+        "onboard_time": 1739933542,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 119575,
+        "num": 119575,
+        "word": "俄美决定未来将在多领域合作",
+        "onboard_time": 1739913611,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119145,
+        "num": 119145,
+        "word": "博主用70万黄金锅涮火锅",
+        "onboard_time": 1739885363,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117078,
+        "num": 117078,
+        "word": "陶勇谈郭艾伦眼睛受伤",
+        "onboard_time": 1739892143,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#这些话说到民营企业家心坎上#"
+    }
+  }
+}
