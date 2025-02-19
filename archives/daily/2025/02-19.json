@@ -1,6 +1,6 @@
 {
   "startTime": 1739896170867,
-  "endTime": 1739939304952,
+  "endTime": 1739940143782,
   "band_list": [
     {
       "raw_hot": 2861674,
@@ -43,6 +43,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1622780,
+      "num": 1622780,
+      "word": "74岁老人服用纯中药抗癌汤肿瘤消失",
+      "onboard_time": 1739938340,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1580384,
+      "num": 1580384,
+      "word": "金价",
+      "onboard_time": 1739934739,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1526818,
       "num": 1526818,
       "word": "乌克兰",
@@ -57,14 +73,6 @@
       "onboard_time": 1739892501,
       "rank": 0,
       "category": "作品衍生,艺人"
-    },
-    {
-      "raw_hot": 1406825,
-      "num": 1406825,
-      "word": "金价",
-      "onboard_time": 1739934739,
-      "rank": 23,
-      "category": "财经"
     },
     {
       "raw_hot": 1345860,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 1218406,
-      "num": 613287,
+      "num": 656813,
       "word": "女子网购100克黄金收到一卷手纸",
       "onboard_time": 1739933899,
       "rank": 22,
@@ -97,6 +105,14 @@
       "onboard_time": 1739934321,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1075118,
+      "num": 675809,
+      "word": "江苏哪吒宝宝出生",
+      "onboard_time": 1739935221,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1039975,
@@ -123,28 +139,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1024048,
-      "num": 664478,
-      "word": "江苏哪吒宝宝出生",
-      "onboard_time": 1739935221,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1019203,
       "num": 753374,
       "word": "哪吒2全球动画第1",
       "onboard_time": 1739879063,
       "rank": 3,
       "category": "电影,动漫"
-    },
-    {
-      "raw_hot": 1009818,
-      "num": 1009818,
-      "word": "74岁老人服用纯中药抗癌汤肿瘤消失",
-      "onboard_time": 1739938340,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1009373,
@@ -195,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 789796,
+      "num": 789796,
+      "word": "金巧巧发千字长文回应黑粉",
+      "onboard_time": 1739937681,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 789038,
       "num": 789038,
       "word": "教育局通报小学教师在教室去世",
@@ -227,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 570906,
+      "num": 570906,
+      "word": "江苏一龙凤胎出生时自带结界",
+      "onboard_time": 1739938763,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 558034,
       "num": 558034,
       "word": "俄美决定未来将在多领域合作",
@@ -243,8 +259,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 533738,
-      "num": 533738,
+      "raw_hot": 538479,
+      "num": 538479,
       "word": "原来只有敖光是纯正龙族血统",
       "onboard_time": 1739935040,
       "rank": 16,
@@ -273,14 +289,6 @@
       "onboard_time": 1739926161,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 482776,
-      "num": 482776,
-      "word": "金巧巧发千字长文回应黑粉",
-      "onboard_time": 1739937681,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 465157,
@@ -320,6 +328,22 @@
       "word": "街道办回应招聘环卫工要求35岁以下",
       "onboard_time": 1739891122,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 407578,
+      "num": 407578,
+      "word": "赵露思给桑稚买的青蛙手机壳",
+      "onboard_time": 1739939900,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 398360,
+      "num": 675940,
+      "word": "网友涂鸦申公豹老人称会吓到孩子",
+      "onboard_time": 1739938402,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -401,6 +425,14 @@
       "onboard_time": 1739927421,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 324897,
+      "num": 324897,
+      "word": "比白磷还易燃的生物出现了",
+      "onboard_time": 1739937443,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 298766,
@@ -491,12 +523,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 262087,
-      "num": 262087,
-      "word": "江苏一龙凤胎出生时自带结界",
-      "onboard_time": 1739938763,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 261571,
+      "num": 261571,
+      "word": "张钧甯超大素颜特写",
+      "onboard_time": 1739935343,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 256990,
@@ -507,14 +539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 250785,
-      "num": 250784,
-      "word": "比白磷还易燃的生物出现了",
-      "onboard_time": 1739937443,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 243308,
       "num": 243308,
       "word": "广州一街道招聘环卫工要求35岁以下",
@@ -523,12 +547,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 241032,
-      "num": 241032,
-      "word": "张钧甯超大素颜特写",
-      "onboard_time": 1739935343,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 242138,
+      "num": 242138,
+      "word": "被杀女幼师曾与凶手缠斗",
+      "onboard_time": 1739938642,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 239760,
@@ -561,14 +585,6 @@
       "onboard_time": 1739894061,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 224869,
-      "num": 250785,
-      "word": "网友涂鸦申公豹老人称会吓到孩子",
-      "onboard_time": 1739938402,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 224645,
@@ -619,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 216325,
+      "num": 216325,
+      "word": "燕云十六声",
+      "onboard_time": 1739939722,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 215920,
       "num": 215920,
       "word": "张馨予用AI变装敖闰",
@@ -643,12 +667,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 211518,
-      "num": 211518,
-      "word": "被杀女幼师曾与凶手缠斗",
-      "onboard_time": 1739938642,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 210361,
+      "num": 210361,
+      "word": "24岁有20年翻译工作经历",
+      "onboard_time": 1739939182,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 209087,
@@ -683,6 +707,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 203144,
+      "num": 426387,
+      "word": "于适称从没走过捷径",
+      "onboard_time": 1739939182,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202686,
       "num": 202686,
       "word": "博主用70万黄金锅涮火锅",
@@ -707,11 +739,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197623,
-      "num": 197623,
-      "word": "24岁有20年翻译工作经历",
-      "onboard_time": 1739939182,
-      "rank": 46,
+      "raw_hot": 199189,
+      "num": 206297,
+      "word": "苏醒苦了兄弟不能苦自己",
+      "onboard_time": 1739939843,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -883,6 +915,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 149364,
+      "num": 295044,
+      "word": "张韶涵龙鳞面纱开大",
+      "onboard_time": 1739937863,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 148746,
       "num": 148746,
       "word": "张极说登陆少年今年有很多场演唱会",
@@ -921,6 +961,22 @@
       "onboard_time": 1739929341,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 138874,
+      "num": 230430,
+      "word": "谢霆锋快拽一下我",
+      "onboard_time": 1739939665,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 132996,
+      "num": 495190,
+      "word": "多人表示面汤呛妻案中妻子被殴打",
+      "onboard_time": 1739937921,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126691,
@@ -1003,14 +1059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 114564,
-      "num": 215546,
-      "word": "于适称从没走过捷径",
-      "onboard_time": 1739939182,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 114298,
       "num": 114298,
       "word": "祝贺哪吒又拿第1再创历史",
@@ -1056,14 +1104,6 @@
       "word": "猫咪拦路下一秒塌方男子刹车躲过",
       "onboard_time": 1739929820,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103225,
-      "num": 495190,
-      "word": "多人表示面汤呛妻案中妻子被殴打",
-      "onboard_time": 1739937921,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1113,6 +1153,14 @@
       "onboard_time": 1739936120,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 82493,
+      "num": 303739,
+      "word": "乌克兰与欧洲相互甩锅",
+      "onboard_time": 1739938583,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 80898,
@@ -1203,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54359,
+      "num": 603513,
+      "word": "俄乌和谈欧洲上不了桌",
+      "onboard_time": 1739939243,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 51501,
       "num": 225067,
       "word": "业内称金价上行格局尚未打破",
@@ -1211,12 +1267,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 49547,
+      "num": 373557,
+      "word": "如何看待俄美会谈",
+      "onboard_time": 1739938243,
+      "rank": 18,
+      "category": "国际时政,议题讨论"
+    },
+    {
       "raw_hot": 49443,
       "num": 65868,
       "word": "檀健次crush降临",
       "onboard_time": 1739919795,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 48779,
+      "num": 344399,
+      "word": "WTA",
+      "onboard_time": 1739939122,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 47699,
@@ -1235,14 +1307,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 47369,
-      "num": 250845,
-      "word": "乌克兰与欧洲相互甩锅",
-      "onboard_time": 1739938583,
-      "rank": 27,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 47229,
       "num": 60820,
       "word": "马来西亚公主也喜欢肖战",
@@ -1251,12 +1315,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 45577,
-      "num": 224842,
-      "word": "WTA",
-      "onboard_time": 1739939122,
-      "rank": 35,
-      "category": "体育"
+      "raw_hot": 46486,
+      "num": 214628,
+      "word": "早餐烙饼吃简单好吃",
+      "onboard_time": 1739939302,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 42313,
+      "num": 301335,
+      "word": "泽连斯基被曝仅有1小时同意美方方案",
+      "onboard_time": 1739939302,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 42091,
@@ -1265,14 +1337,6 @@
       "onboard_time": 1739887164,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 39030,
-      "num": 373557,
-      "word": "如何看待俄美会谈",
-      "onboard_time": 1739938243,
-      "rank": 18,
-      "category": "国际时政,议题讨论"
     },
     {
       "raw_hot": 38682,
@@ -1403,14 +1467,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 17765,
-      "num": 208616,
-      "word": "俄乌和谈欧洲上不了桌",
-      "onboard_time": 1739939243,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 17200,
       "num": 20852,
       "word": "媒体评小学生开始用DeepSeek写作业",
@@ -1460,7 +1516,7 @@
     },
     {
       "raw_hot": 11809,
-      "num": 1465223,
+      "num": 1683207,
       "word": "中国式现代化的万千气象海南行",
       "onboard_time": 1739782103,
       "rank": 2,
