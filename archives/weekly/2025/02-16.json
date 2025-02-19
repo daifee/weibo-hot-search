@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1740000962390,
+  "endTime": 1740003658812,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -4188,7 +4188,7 @@
     },
     {
       "raw_hot": 305083,
-      "num": 305083,
+      "num": 374492,
       "word": "iPhone16e两款配色",
       "onboard_time": 1739983397,
       "rank": 49,
@@ -9371,6 +9371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128196,
+      "num": 128196,
+      "word": "李行亮称节目带没带剧本很难自证",
+      "onboard_time": 1739988073,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127819,
       "num": 127819,
       "word": "章若楠张淼怡一切的一切",
@@ -9641,14 +9649,6 @@
       "onboard_time": 1739678839,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 120712,
-      "num": 120712,
-      "word": "李行亮称节目带没带剧本很难自证",
-      "onboard_time": 1739988073,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 120640,
@@ -11059,6 +11059,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 75127,
+      "num": 75127,
+      "word": "皇马vs曼城",
+      "onboard_time": 1739982257,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75090,
       "num": 359362,
       "word": "吴汉坤封神路演用deepseek写软件",
@@ -11651,14 +11659,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 55123,
-      "num": 55123,
-      "word": "皇马vs曼城",
-      "onboard_time": 1739982257,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 54920,
       "num": 89868,
       "word": "你有当面被叫网名的经历吗",
@@ -12083,6 +12083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40459,
+      "num": 40459,
+      "word": "特朗普称美国给了乌克兰很多钱",
+      "onboard_time": 1739997912,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 38934,
       "num": 282298,
       "word": "鹿童鹤童美貌坏蛋",
@@ -12241,6 +12249,14 @@
       "onboard_time": 1739860410,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 34716,
+      "num": 34716,
+      "word": "六姊妹秘方传女不传男",
+      "onboard_time": 1739993711,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 34503,
@@ -12475,6 +12491,14 @@
       "category": "电影,民生新闻"
     },
     {
+      "raw_hot": 26943,
+      "num": 26943,
+      "word": "iPhone14停售",
+      "onboard_time": 1739988733,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 26844,
       "num": 140372,
       "word": "胡歌聊这几年的心理变化",
@@ -12497,14 +12521,6 @@
       "onboard_time": 1739644633,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 26352,
-      "num": 26352,
-      "word": "特朗普称美国给了乌克兰很多钱",
-      "onboard_time": 1739997912,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 26327,
@@ -12545,14 +12561,6 @@
       "onboard_time": 1739848638,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 25931,
-      "num": 25931,
-      "word": "六姊妹秘方传女不传男",
-      "onboard_time": 1739993711,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 25297,
@@ -12865,14 +12873,6 @@
       "onboard_time": 1739863645,
       "rank": 26,
       "category": "教育"
-    },
-    {
-      "raw_hot": 19939,
-      "num": 19939,
-      "word": "iPhone14停售",
-      "onboard_time": 1739988733,
-      "rank": 48,
-      "category": "数码"
     },
     {
       "raw_hot": 19631,
