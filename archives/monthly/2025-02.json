@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739985642169,
+  "endTime": 1739986711947,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -10611,6 +10611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 517767,
+      "num": 517767,
+      "word": "苹果发布会",
+      "onboard_time": 1739983575,
+      "rank": 3,
+      "category": "数码"
+    },
+    {
       "raw_hot": 517192,
       "num": 517192,
       "word": "深圳福田AI员工上线",
@@ -11521,14 +11529,6 @@
       "onboard_time": 1738649722,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 483449,
-      "num": 483449,
-      "word": "苹果发布会",
-      "onboard_time": 1739983575,
-      "rank": 3,
-      "category": "数码"
     },
     {
       "raw_hot": 483307,
@@ -40427,6 +40427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137015,
+      "num": 137015,
+      "word": "肖凯文回应借王楚钦衣服",
+      "onboard_time": 1739983335,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136881,
       "num": 192705,
       "word": "首个非遗春节假期盘点",
@@ -42096,14 +42104,6 @@
       "word": "孙颖莎夺冠后说谢谢大家来加油",
       "onboard_time": 1739112322,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 128608,
-      "num": 128608,
-      "word": "肖凯文回应借王楚钦衣服",
-      "onboard_time": 1739983335,
-      "rank": 48,
       "category": "体育"
     },
     {
@@ -47027,6 +47027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 100494,
+      "num": 193040,
+      "word": "四川一地明令禁止聚餐使用四季豆",
+      "onboard_time": 1739984418,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100480,
       "num": 297813,
       "word": "HANNI拿到签证",
@@ -47593,14 +47601,6 @@
       "onboard_time": 1739437882,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 96392,
-      "num": 193040,
-      "word": "四川一地明令禁止聚餐使用四季豆",
-      "onboard_time": 1739984418,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96366,
@@ -54083,6 +54083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45799,
+      "num": 45799,
+      "word": "蒋敦豪上课",
+      "onboard_time": 1739986033,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 45740,
       "num": 134942,
       "word": "大学第一课是学会处理好宿舍关系",
@@ -54113,6 +54121,14 @@
       "onboard_time": 1739155700,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 45645,
+      "num": 186338,
+      "word": "宇树科技机器人爆火一度断货下架",
+      "onboard_time": 1739985617,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45642,
@@ -58633,14 +58649,6 @@
       "onboard_time": 1738942462,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 17415,
-      "num": 55160,
-      "word": "宇树科技机器人爆火一度断货下架",
-      "onboard_time": 1739985617,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17399,
