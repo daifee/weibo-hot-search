@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1740003658812,
+  "endTime": 1740004673815,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -4123,6 +4123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 313554,
+      "num": 478102,
+      "word": "iPhone16e两款配色",
+      "onboard_time": 1739983397,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 312910,
       "num": 312910,
       "word": "光遇复刻",
@@ -4185,14 +4193,6 @@
       "onboard_time": 1739959580,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 305083,
-      "num": 374492,
-      "word": "iPhone16e两款配色",
-      "onboard_time": 1739983397,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 305001,
@@ -7387,6 +7387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179891,
+      "num": 179891,
+      "word": "李行亮称节目带没带剧本很难自证",
+      "onboard_time": 1739988073,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179764,
       "num": 264533,
       "word": "缅甸控制1030名妙瓦底非法入境人员",
@@ -9371,14 +9379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128196,
-      "num": 128196,
-      "word": "李行亮称节目带没带剧本很难自证",
-      "onboard_time": 1739988073,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 127819,
       "num": 127819,
       "word": "章若楠张淼怡一切的一切",
@@ -10835,6 +10835,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 83669,
+      "num": 83669,
+      "word": "皇马vs曼城",
+      "onboard_time": 1739982257,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83320,
       "num": 158712,
       "word": "法国小伙外祖父拍照片遭侵华日军报复",
@@ -11057,14 +11065,6 @@
       "onboard_time": 1739763620,
       "rank": 39,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 75127,
-      "num": 75127,
-      "word": "皇马vs曼城",
-      "onboard_time": 1739982257,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 75090,
@@ -11875,6 +11875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47374,
+      "num": 47374,
+      "word": "六姊妹秘方传女不传男",
+      "onboard_time": 1739993711,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 47298,
       "num": 196273,
       "word": "男子遇医院收费员玩游戏质问反被怼",
@@ -11921,6 +11929,14 @@
       "onboard_time": 1739858736,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 45814,
+      "num": 45814,
+      "word": "皇马3比1曼城",
+      "onboard_time": 1740004453,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 45799,
@@ -12251,14 +12267,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 34716,
-      "num": 34716,
-      "word": "六姊妹秘方传女不传男",
-      "onboard_time": 1739993711,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 34503,
       "num": 287477,
       "word": "宋雨琦NBA全明星之旅圆梦了",
@@ -12403,6 +12411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 28975,
+      "num": 28975,
+      "word": "iPhone14停售",
+      "onboard_time": 1739988733,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 28789,
       "num": 40258,
       "word": "YOASOBI上海演唱会",
@@ -12489,14 +12505,6 @@
       "onboard_time": 1739804302,
       "rank": 19,
       "category": "电影,民生新闻"
-    },
-    {
-      "raw_hot": 26943,
-      "num": 26943,
-      "word": "iPhone14停售",
-      "onboard_time": 1739988733,
-      "rank": 48,
-      "category": "数码"
     },
     {
       "raw_hot": 26844,
@@ -13305,6 +13313,14 @@
       "onboard_time": 1739817192,
       "rank": 9,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 9615,
+      "num": 37186,
+      "word": "体育课不能说起来重要忙起来不要",
+      "onboard_time": 1740004513,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 9258,

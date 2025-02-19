@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740003658812,
+  "endTime": 1740004673815,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -17371,6 +17371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 313554,
+      "num": 478102,
+      "word": "iPhone16e两款配色",
+      "onboard_time": 1739983397,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 313389,
       "num": 313389,
       "word": "掌心",
@@ -17841,14 +17849,6 @@
       "onboard_time": 1738513277,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 305083,
-      "num": 374492,
-      "word": "iPhone16e两款配色",
-      "onboard_time": 1739983397,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 305001,
@@ -32011,6 +32011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179891,
+      "num": 179891,
+      "word": "李行亮称节目带没带剧本很难自证",
+      "onboard_time": 1739988073,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179877,
       "num": 179877,
       "word": "贪财的妈恶毒的爹破碎的他",
@@ -42163,14 +42171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128196,
-      "num": 128196,
-      "word": "李行亮称节目带没带剧本很难自证",
-      "onboard_time": 1739988073,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 128192,
       "num": 128192,
       "word": "特效团队喊话饺子哪吒3轻点折磨",
@@ -49107,6 +49107,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 83669,
+      "num": 83669,
+      "word": "皇马vs曼城",
+      "onboard_time": 1739982257,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83547,
       "num": 162186,
       "word": "王一博向世界传递中国青年声音",
@@ -50137,14 +50145,6 @@
       "onboard_time": 1738829602,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 75127,
-      "num": 75127,
-      "word": "皇马vs曼城",
-      "onboard_time": 1739982257,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 75090,
@@ -53907,6 +53907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47374,
+      "num": 47374,
+      "word": "六姊妹秘方传女不传男",
+      "onboard_time": 1739993711,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 47298,
       "num": 196273,
       "word": "男子遇医院收费员玩游戏质问反被怼",
@@ -54088,6 +54096,14 @@
       "word": "中国女排超级联赛",
       "onboard_time": 1739617640,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 45814,
+      "num": 45814,
+      "word": "皇马3比1曼城",
+      "onboard_time": 1740004453,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -55827,14 +55843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34716,
-      "num": 34716,
-      "word": "六姊妹秘方传女不传男",
-      "onboard_time": 1739993711,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 34618,
       "num": 116029,
       "word": "紫幻说女娲无他唯手熟尔",
@@ -56651,6 +56659,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 28975,
+      "num": 28975,
+      "word": "iPhone14停售",
+      "onboard_time": 1739988733,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 28922,
       "num": 306072,
       "word": "筠连滑坡至今一直处于降雨状态",
@@ -57009,14 +57025,6 @@
       "onboard_time": 1739225119,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 26943,
-      "num": 26943,
-      "word": "iPhone14停售",
-      "onboard_time": 1739988733,
-      "rank": 48,
-      "category": "数码"
     },
     {
       "raw_hot": 26900,
@@ -60201,6 +60209,14 @@
       "onboard_time": 1738522572,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9615,
+      "num": 37186,
+      "word": "体育课不能说起来重要忙起来不要",
+      "onboard_time": 1740004513,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 9562,
