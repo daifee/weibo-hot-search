@@ -1,0 +1,410 @@
+{
+  "runTime": 1739972374907,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2487351,
+        "num": 2487351,
+        "word": "哪吒创作团队停止所有对外采访",
+        "onboard_time": 1739967800,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 940305,
+        "num": 940305,
+        "word": "好利来通报表扬员工连续工作29小时",
+        "onboard_time": 1739961860,
+        "rank": 1,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 7855,
+        "num": 918404,
+        "word": "中国式现代化的万千气象海南行",
+        "onboard_time": 1739782103,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1000346,
+        "num": 917849,
+        "word": "饺子导演已闭关",
+        "onboard_time": 1739950400,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 915139,
+        "num": 915139,
+        "word": "王楚钦vs阿拉米扬",
+        "onboard_time": 1739970200,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 762811,
+        "num": 762811,
+        "word": "特朗普说美国有360岁老人还在领社保",
+        "onboard_time": 1739964320,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 868098,
+        "num": 750440,
+        "word": "三部在播剧口碑分化",
+        "onboard_time": 1739968521,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 868097,
+        "num": 728351,
+        "word": "认不出来这是A妹了",
+        "onboard_time": 1739967080,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479631,
+        "num": 479631,
+        "word": "内耗的人适合培养输出型爱好",
+        "onboard_time": 1739961260,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 403458,
+        "num": 403458,
+        "word": "配音圈团建",
+        "onboard_time": 1739969061,
+        "rank": 9,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 910834,
+        "num": 403350,
+        "word": "朴春 李敏镐",
+        "onboard_time": 1739957721,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 894045,
+        "num": 402551,
+        "word": "网曝711店员熟食区做不雅行为",
+        "onboard_time": 1739959400,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 643835,
+        "num": 401389,
+        "word": "哪吒2破125亿",
+        "onboard_time": 1739970081,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 566670,
+        "num": 400955,
+        "word": "柯淳 无限超越班",
+        "onboard_time": 1739966840,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 416693,
+        "num": 399440,
+        "word": "网友晒与白鹿十年前合照",
+        "onboard_time": 1739957000,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399429,
+        "num": 399429,
+        "word": "红房子 父母爱情",
+        "onboard_time": 1739970320,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294220,
+        "num": 294220,
+        "word": "711回应店员熟食区做不雅行为",
+        "onboard_time": 1739958501,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279407,
+        "num": 279407,
+        "word": "家属否认39岁博导因被劝酒去世",
+        "onboard_time": 1739966780,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270952,
+        "num": 270952,
+        "word": "浙江大学上线免费满血版deepseek",
+        "onboard_time": 1739969660,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 236805,
+        "num": 270893,
+        "word": "内蒙古28年前命案告破家属发声",
+        "onboard_time": 1739970500,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 787384,
+        "num": 270420,
+        "word": "温以凡 明艳大美女",
+        "onboard_time": 1739954961,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 481152,
+        "num": 269879,
+        "word": "男子爱挖鼻孔致动脉血管破裂",
+        "onboard_time": 1739966121,
+        "rank": 21,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 374430,
+        "num": 269231,
+        "word": "我承认对难哄大声了一点",
+        "onboard_time": 1739969841,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95638,
+        "num": 268399,
+        "word": "马库斯惊叹被轰炸建筑又活过来了",
+        "onboard_time": 1739972062,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22578,
+        "num": 268021,
+        "word": "上海寸土寸金具象化了",
+        "onboard_time": 1739969061,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 267761,
+        "num": 267761,
+        "word": "湖南卫视考古杨紫",
+        "onboard_time": 1739968580,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261827,
+        "num": 261827,
+        "word": "孟子义攒了几部剧没播",
+        "onboard_time": 1739971343,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257482,
+        "num": 257482,
+        "word": "哪吒2外网首批口碑",
+        "onboard_time": 1739953041,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19503,
+        "num": 243780,
+        "word": "再看丘索维金娜8届奥运依旧感动",
+        "onboard_time": 1739972180,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58867,
+        "num": 238263,
+        "word": "梅梅厦门",
+        "onboard_time": 1739971222,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 237748,
+        "num": 237748,
+        "word": "金莎孙丞潇给狗狗过三岁生日",
+        "onboard_time": 1739969301,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236121,
+        "num": 236121,
+        "word": "好一个乖乖女",
+        "onboard_time": 1739971222,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235928,
+        "num": 235928,
+        "word": "哪吒2全球动画第1",
+        "onboard_time": 1739879063,
+        "rank": 32,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 234189,
+        "num": 234189,
+        "word": "小行星撞出物种灭绝平均要隔1亿年",
+        "onboard_time": 1739969781,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214935,
+        "num": 214935,
+        "word": "12306回应孕妇被行李箱砸中致早产",
+        "onboard_time": 1739940202,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224375,
+        "num": 213241,
+        "word": "张睿有五个账号",
+        "onboard_time": 1739970025,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211256,
+        "num": 211256,
+        "word": "3种蔬菜比牛奶还补钙",
+        "onboard_time": 1739962761,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 196403,
+        "num": 196403,
+        "word": "王楚钦首局14比12",
+        "onboard_time": 1739972001,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194851,
+        "num": 194851,
+        "word": "589元浴霸退货运费449元",
+        "onboard_time": 1739968880,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185712,
+        "num": 185712,
+        "word": "可可动画回应饺子导演闭关",
+        "onboard_time": 1739971103,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183184,
+        "num": 183184,
+        "word": "周深超话冒泡",
+        "onboard_time": 1739970741,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182565,
+        "num": 182565,
+        "word": "难哄全网登顶",
+        "onboard_time": 1739963181,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179406,
+        "num": 179406,
+        "word": "广州地铁",
+        "onboard_time": 1739967680,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175376,
+        "num": 175376,
+        "word": "蔡徐坤亚洲最时尚大赏",
+        "onboard_time": 1739967022,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166132,
+        "num": 166132,
+        "word": "无限超越班",
+        "onboard_time": 1739970981,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165461,
+        "num": 165461,
+        "word": "英雄联盟",
+        "onboard_time": 1739967920,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160227,
+        "num": 160227,
+        "word": "官方整改环卫招聘35岁以下要求",
+        "onboard_time": 1739969722,
+        "rank": 46,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 146490,
+        "num": 146490,
+        "word": "射雕英雄传延长上映至3月31日",
+        "onboard_time": 1739960000,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146287,
+        "num": 146287,
+        "word": "哪吒",
+        "onboard_time": 1739956641,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144348,
+        "num": 144348,
+        "word": "王曼昱亚洲杯开门红",
+        "onboard_time": 1739971823,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为民营企业鼓劲#"
+    }
+  }
+}

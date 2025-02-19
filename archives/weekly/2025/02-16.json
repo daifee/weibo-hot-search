@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739971693889,
+  "endTime": 1739972374907,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -1220,7 +1220,7 @@
     },
     {
       "raw_hot": 922798,
-      "num": 570493,
+      "num": 728351,
       "word": "认不出来这是A妹了",
       "onboard_time": 1739967080,
       "rank": 13,
@@ -1251,6 +1251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 915139,
+      "num": 915139,
+      "word": "王楚钦vs阿拉米扬",
+      "onboard_time": 1739970200,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 913796,
       "num": 456758,
       "word": "沈梦辰杜海涛经历9年爱情长跑",
@@ -1275,6 +1283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 894045,
+      "num": 509630,
+      "word": "网曝711店员熟食区做不雅行为",
+      "onboard_time": 1739959400,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 888213,
       "num": 888213,
       "word": "小米SU7断轴车主承认欺瞒网友",
@@ -1288,6 +1304,14 @@
       "word": "咸鱼飞升女主换林允",
       "onboard_time": 1739788819,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 868098,
+      "num": 750440,
+      "word": "三部在播剧口碑分化",
+      "onboard_time": 1739968521,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -1384,14 +1408,6 @@
       "word": "6万买饺子导演高仿号当事人发声",
       "onboard_time": 1739810358,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 832236,
-      "num": 509630,
-      "word": "网曝711店员熟食区做不雅行为",
-      "onboard_time": 1739959400,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -1843,14 +1859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 658948,
-      "num": 542050,
-      "word": "三部在播剧口碑分化",
-      "onboard_time": 1739968521,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 658546,
       "num": 658546,
       "word": "老人2天没散步被网格员发现出意外",
@@ -1931,6 +1939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 643835,
+      "num": 415979,
+      "word": "哪吒2破125亿",
+      "onboard_time": 1739970081,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 639799,
       "num": 406289,
       "word": "哪吒2香港首映时间定了",
@@ -2009,14 +2025,6 @@
       "onboard_time": 1739756178,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 623985,
-      "num": 415979,
-      "word": "哪吒2破125亿",
-      "onboard_time": 1739970081,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 613365,
@@ -2113,14 +2121,6 @@
       "onboard_time": 1739786780,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 579182,
-      "num": 579182,
-      "word": "王楚钦vs阿拉米扬",
-      "onboard_time": 1739970200,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 578552,
@@ -3123,6 +3123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 403458,
+      "num": 403458,
+      "word": "配音圈团建",
+      "onboard_time": 1739969061,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 403230,
       "num": 315584,
       "word": "哪吒2票房超116亿",
@@ -3169,6 +3177,14 @@
       "onboard_time": 1739615661,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 399429,
+      "num": 399429,
+      "word": "红房子 父母爱情",
+      "onboard_time": 1739970320,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 396814,
@@ -3355,6 +3371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 374430,
+      "num": 298340,
+      "word": "我承认对难哄大声了一点",
+      "onboard_time": 1739969841,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 374005,
       "num": 374005,
       "word": "印度一火车站发生踩踏至少15死",
@@ -3491,14 +3515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 359414,
-      "num": 299078,
-      "word": "红房子 父母爱情",
-      "onboard_time": 1739970320,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 359340,
       "num": 359340,
       "word": "四川一医院窗口工作人员上班玩游戏",
@@ -3545,14 +3561,6 @@
       "onboard_time": 1739835197,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 354541,
-      "num": 298340,
-      "word": "我承认对难哄大声了一点",
-      "onboard_time": 1739969841,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 353768,
@@ -3985,14 +3993,6 @@
       "onboard_time": 1739962761,
       "rank": 42,
       "category": "美食"
-    },
-    {
-      "raw_hot": 309354,
-      "num": 309354,
-      "word": "配音圈团建",
-      "onboard_time": 1739969061,
-      "rank": 46,
-      "category": "动漫"
     },
     {
       "raw_hot": 307930,
@@ -4467,6 +4467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270952,
+      "num": 434905,
+      "word": "浙江大学上线免费满血版deepseek",
+      "onboard_time": 1739969660,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 270797,
       "num": 270797,
       "word": "湖南卫视惊喜重映哪吒闹海",
@@ -4633,6 +4641,14 @@
       "onboard_time": 1739680099,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 261827,
+      "num": 261827,
+      "word": "孟子义攒了几部剧没播",
+      "onboard_time": 1739971343,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 261571,
@@ -5187,11 +5203,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 236805,
+      "num": 306095,
+      "word": "内蒙古28年前命案告破家属发声",
+      "onboard_time": 1739970500,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 236677,
       "num": 236677,
       "word": "导演晒杨洋雨霖铃杀青照",
       "onboard_time": 1739881704,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 236121,
+      "num": 236121,
+      "word": "好一个乖乖女",
+      "onboard_time": 1739971222,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -5217,6 +5249,14 @@
       "onboard_time": 1739682739,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 234189,
+      "num": 234189,
+      "word": "小行星撞出物种灭绝平均要隔1亿年",
+      "onboard_time": 1739969781,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 234150,
@@ -5545,14 +5585,6 @@
       "onboard_time": 1739842998,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 219665,
-      "num": 219665,
-      "word": "小行星撞出物种灭绝平均要隔1亿年",
-      "onboard_time": 1739969781,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 219295,
@@ -6139,14 +6171,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 203629,
-      "num": 203629,
-      "word": "孟子义攒了几部剧没播",
-      "onboard_time": 1739971343,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 203580,
       "num": 307563,
       "word": "美航司客机翻转落地内部一片狼藉",
@@ -6475,14 +6499,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 197091,
-      "num": 434905,
-      "word": "浙江大学上线免费满血版deepseek",
-      "onboard_time": 1739969660,
-      "rank": 38,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 196914,
       "num": 196914,
       "word": "有冒充饺子导演账号吸粉6万后卖出",
@@ -6497,6 +6513,14 @@
       "onboard_time": 1739970741,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196403,
+      "num": 196403,
+      "word": "王楚钦首局14比12",
+      "onboard_time": 1739972001,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 196137,
@@ -6811,14 +6835,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 187694,
-      "num": 187694,
-      "word": "好一个乖乖女",
-      "onboard_time": 1739971222,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 187499,
       "num": 187499,
       "word": "相柳蛇年上新剧了",
@@ -7113,6 +7129,14 @@
       "onboard_time": 1739747415,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179406,
+      "num": 179406,
+      "word": "广州地铁",
+      "onboard_time": 1739967680,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179255,
@@ -7515,14 +7539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 167172,
-      "num": 167172,
-      "word": "广州地铁",
-      "onboard_time": 1739967680,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 166985,
       "num": 386975,
       "word": "陈思诚说拍唐探1900不是为了讨好",
@@ -7745,6 +7761,14 @@
       "onboard_time": 1739835017,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160227,
+      "num": 238809,
+      "word": "官方整改环卫招聘35岁以下要求",
+      "onboard_time": 1739969722,
+      "rank": 35,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 160157,
@@ -7993,14 +8017,6 @@
       "onboard_time": 1739876843,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 153767,
-      "num": 238809,
-      "word": "官方整改环卫招聘35岁以下要求",
-      "onboard_time": 1739969722,
-      "rank": 35,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 152803,
@@ -8361,6 +8377,14 @@
       "onboard_time": 1739837719,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144348,
+      "num": 144348,
+      "word": "王曼昱亚洲杯开门红",
+      "onboard_time": 1739971823,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 143645,
@@ -10067,6 +10091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95638,
+      "num": 268399,
+      "word": "马库斯惊叹被轰炸建筑又活过来了",
+      "onboard_time": 1739972062,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95590,
       "num": 167586,
       "word": "中方望有关国家避免将经贸科技问题政治化",
@@ -10731,14 +10763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 69646,
-      "num": 306095,
-      "word": "内蒙古28年前命案告破家属发声",
-      "onboard_time": 1739970500,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 68980,
       "num": 229752,
       "word": "官方回应套圈套中玛莎拉蒂疑摆拍",
@@ -11009,6 +11033,14 @@
       "onboard_time": 1739765361,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 58867,
+      "num": 272259,
+      "word": "梅梅厦门",
+      "onboard_time": 1739971222,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 58755,
@@ -11401,14 +11433,6 @@
       "onboard_time": 1739868025,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45341,
-      "num": 272259,
-      "word": "梅梅厦门",
-      "onboard_time": 1739971222,
-      "rank": 28,
-      "category": "动漫"
     },
     {
       "raw_hot": 45312,
@@ -12075,6 +12099,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 22578,
+      "num": 301834,
+      "word": "上海寸土寸金具象化了",
+      "onboard_time": 1739969061,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 22323,
       "num": 516973,
       "word": "上海超百家医院报名试点商保同步结算",
@@ -12137,14 +12169,6 @@
       "onboard_time": 1739815334,
       "rank": 20,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 21556,
-      "num": 301834,
-      "word": "上海寸土寸金具象化了",
-      "onboard_time": 1739969061,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 21497,
@@ -12249,6 +12273,14 @@
       "onboard_time": 1739860291,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 19503,
+      "num": 243780,
+      "word": "再看丘索维金娜8届奥运依旧感动",
+      "onboard_time": 1739972180,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 19480,
