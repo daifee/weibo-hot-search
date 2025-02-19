@@ -1,0 +1,410 @@
+{
+  "runTime": 1739979492135,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2820215,
+        "num": 2820215,
+        "word": "导演郑某峰涉嫌猥亵儿童被刑拘",
+        "onboard_time": 1739972602,
+        "rank": 0,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 1357170,
+        "num": 1357170,
+        "word": "红房子13集 封神",
+        "onboard_time": 1739975241,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61749,
+        "num": 1217121,
+        "word": "专家解读促进民营经济发展工作重点",
+        "onboard_time": 1739976024,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1127382,
+        "num": 1127382,
+        "word": "我承认对难哄大声了一点",
+        "onboard_time": 1739969841,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1078375,
+        "num": 1078375,
+        "word": "重庆姐弟坠亡案2个母亲的重生路",
+        "onboard_time": 1739977461,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 601421,
+        "num": 601421,
+        "word": "王楚钦大心脏",
+        "onboard_time": 1739974703,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1057861,
+        "num": 598410,
+        "word": "哪吒创作团队停止所有对外采访",
+        "onboard_time": 1739967800,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 972372,
+        "num": 593840,
+        "word": "昀牵孟绕",
+        "onboard_time": 1739975603,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 583996,
+        "num": 583996,
+        "word": "特朗普说美国有360岁老人还在领社保",
+        "onboard_time": 1739964320,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 185775,
+        "num": 578863,
+        "word": "警方通报导演郑某峰涉嫌猥亵儿童",
+        "onboard_time": 1739977643,
+        "rank": 9,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 867531,
+        "num": 577866,
+        "word": "别再P图了好吗发博道歉",
+        "onboard_time": 1739976624,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 680120,
+        "num": 577826,
+        "word": "饺子导演已闭关",
+        "onboard_time": 1739950400,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 576823,
+        "num": 576823,
+        "word": "网曝711店员熟食区做不雅行为",
+        "onboard_time": 1739959400,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 567391,
+        "num": 567391,
+        "word": "朴春 李敏镐",
+        "onboard_time": 1739957721,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465761,
+        "num": 465761,
+        "word": "金价一夜暴涨12元",
+        "onboard_time": 1739974224,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 447132,
+        "num": 447132,
+        "word": "哪吒2官方登顶海报",
+        "onboard_time": 1739974523,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 341978,
+        "num": 341978,
+        "word": "好利来通报表扬员工连续工作29小时",
+        "onboard_time": 1739961860,
+        "rank": 16,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 327886,
+        "num": 327886,
+        "word": "七旬老人动迁分4套房卖了16次",
+        "onboard_time": 1739974942,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258226,
+        "num": 258226,
+        "word": "内耗的人适合培养输出型爱好",
+        "onboard_time": 1739961260,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155994,
+        "num": 257200,
+        "word": "丈夫离家18年后要离婚分妻子家产",
+        "onboard_time": 1739977822,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 374361,
+        "num": 257016,
+        "word": "女子戴耳环不摘耳垂长出葡萄瘤",
+        "onboard_time": 1739974523,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340553,
+        "num": 255800,
+        "word": "哪吒2一亿一亿往上追",
+        "onboard_time": 1739976202,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 305247,
+        "num": 253724,
+        "word": "认不出来这是A妹了",
+        "onboard_time": 1739967080,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303102,
+        "num": 253370,
+        "word": "哪吒2破125亿",
+        "onboard_time": 1739970081,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 277562,
+        "num": 252101,
+        "word": "温以凡 明艳大美女",
+        "onboard_time": 1739954961,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251162,
+        "num": 251162,
+        "word": "眼科医生给高度近视的20个建议",
+        "onboard_time": 1739972423,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 221926,
+        "num": 221926,
+        "word": "红房子直播",
+        "onboard_time": 1739977522,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201687,
+        "num": 201687,
+        "word": "温以凡换床单了",
+        "onboard_time": 1739977461,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197082,
+        "num": 197082,
+        "word": "网友晒与白鹿十年前合照",
+        "onboard_time": 1739957000,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195510,
+        "num": 195510,
+        "word": "孟子义攒了几部剧没播",
+        "onboard_time": 1739971343,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182495,
+        "num": 182495,
+        "word": "柯淳 无限超越班",
+        "onboard_time": 1739966840,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181249,
+        "num": 181249,
+        "word": "十年前的白梦妍嫩得掐出水来了",
+        "onboard_time": 1739978601,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165804,
+        "num": 165804,
+        "word": "哪吒2全球动画第1",
+        "onboard_time": 1739879063,
+        "rank": 32,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 164607,
+        "num": 164607,
+        "word": "医生称郭艾伦情况较乐观",
+        "onboard_time": 1739973624,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161326,
+        "num": 161326,
+        "word": "男子爱挖鼻孔致动脉血管破裂",
+        "onboard_time": 1739966121,
+        "rank": 34,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 161824,
+        "num": 161305,
+        "word": "好一个乖乖女",
+        "onboard_time": 1739971222,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155613,
+        "num": 155613,
+        "word": "爱奇艺会员收入降13%",
+        "onboard_time": 1739975543,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 155544,
+        "num": 155544,
+        "word": "俄军已越过库尔斯克地区俄乌边界",
+        "onboard_time": 1739978721,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143959,
+        "num": 143959,
+        "word": "高校回应不交800元考证无法毕业",
+        "onboard_time": 1739976504,
+        "rank": 38,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 140828,
+        "num": 140828,
+        "word": "董思成kissshy手势舞",
+        "onboard_time": 1739978541,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138982,
+        "num": 138982,
+        "word": "湖南卫视考古杨紫",
+        "onboard_time": 1739968580,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138605,
+        "num": 138605,
+        "word": "李某某当庭否认殴打妻子灌面汤",
+        "onboard_time": 1739975962,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138159,
+        "num": 138159,
+        "word": "美方打劫乌克兰协议细节曝光",
+        "onboard_time": 1739979321,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134043,
+        "num": 134043,
+        "word": "配音圈团建",
+        "onboard_time": 1739969061,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 123805,
+        "num": 123805,
+        "word": "红房子 父母爱情",
+        "onboard_time": 1739970320,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118686,
+        "num": 118686,
+        "word": "邓为原声",
+        "onboard_time": 1739978601,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118326,
+        "num": 118326,
+        "word": "3种蔬菜比牛奶还补钙",
+        "onboard_time": 1739962761,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 109048,
+        "num": 109048,
+        "word": "一张实名手机卡卖600至1000元不等",
+        "onboard_time": 1739977102,
+        "rank": 47,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 108696,
+        "num": 108696,
+        "word": "三部在播剧口碑分化",
+        "onboard_time": 1739968521,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98912,
+        "num": 98912,
+        "word": "老板回应因顾客加5勺辣椒报警",
+        "onboard_time": 1739978960,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#感悟总书记对民企发展的关怀#"
+    }
+  }
+}
