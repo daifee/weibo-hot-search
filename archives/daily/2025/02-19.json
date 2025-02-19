@@ -1,6 +1,6 @@
 {
   "startTime": 1739896170867,
-  "endTime": 1739949705735,
+  "endTime": 1739950546675,
   "band_list": [
     {
       "raw_hot": 2861674,
@@ -123,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1209573,
+      "num": 1209573,
+      "word": "难哄剧情 无聊",
+      "onboard_time": 1739947760,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1116515,
       "num": 1116515,
       "word": "特朗普严厉批评泽连斯基",
@@ -195,16 +203,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 992940,
-      "num": 992940,
-      "word": "难哄剧情 无聊",
-      "onboard_time": 1739947760,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 971357,
-      "num": 458744,
+      "num": 510307,
       "word": "张馨予滑雪买了500元照片",
       "onboard_time": 1739947398,
       "rank": 44,
@@ -347,6 +347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 525637,
+      "num": 384981,
+      "word": "张晚意工作室回应恋情传闻",
+      "onboard_time": 1739947700,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 518881,
       "num": 263849,
       "word": "白色橄榄树重剪",
@@ -395,12 +403,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 462744,
+      "num": 379413,
+      "word": "饺子导演已闭关",
+      "onboard_time": 1739950400,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 461653,
       "num": 389540,
       "word": "冲着霸王茶姬投资几十万结果没关联",
       "onboard_time": 1739928140,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 445800,
+      "num": 445800,
+      "word": "林俊杰 你们竟然不关心我的健康",
+      "onboard_time": 1739943081,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 434446,
@@ -417,14 +441,6 @@
       "onboard_time": 1739892143,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 419145,
-      "num": 419145,
-      "word": "林俊杰 你们竟然不关心我的健康",
-      "onboard_time": 1739943081,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 413605,
@@ -489,14 +505,6 @@
       "onboard_time": 1739944820,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 360138,
-      "num": 360138,
-      "word": "张晚意工作室回应恋情传闻",
-      "onboard_time": 1739947700,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 344046,
@@ -691,6 +699,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 265229,
+      "num": 238886,
+      "word": "法国小伙亲人遭侵华日军毒果汁毒死",
+      "onboard_time": 1739949320,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 264662,
       "num": 264662,
       "word": "美俄将任命谈判团队结束乌克兰冲突",
@@ -771,12 +787,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 242792,
+      "num": 254395,
+      "word": "国家网信办查处82款违法违规APP",
+      "onboard_time": 1739947700,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239760,
       "num": 239760,
       "word": "陈晓赵丽颖 接二搭",
       "onboard_time": 1739866042,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 239629,
+      "num": 239629,
+      "word": "魏大勋这是大侦探不是春晚",
+      "onboard_time": 1739949320,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 239125,
+      "num": 384940,
+      "word": "高中就不许学生带面包入校致歉",
+      "onboard_time": 1739948960,
+      "rank": 13,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 237415,
@@ -803,12 +843,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 228508,
+      "num": 228508,
+      "word": "外卖员回应京东给骑手缴社保",
+      "onboard_time": 1739950522,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 228337,
       "num": 201751,
       "word": "斯琴高丽与顾峰不存在夫妻关系",
       "onboard_time": 1739894061,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 225959,
+      "num": 238987,
+      "word": "欧盟准备军援乌克兰",
+      "onboard_time": 1739948421,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 224645,
@@ -825,6 +881,14 @@
       "onboard_time": 1739929221,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221595,
+      "num": 221595,
+      "word": "许昕坐刘国梁旁边",
+      "onboard_time": 1739949080,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 221020,
@@ -931,6 +995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205551,
+      "num": 209216,
+      "word": "桑延难哄白敬亭好哄",
+      "onboard_time": 1739949380,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204808,
       "num": 204808,
       "word": "二胎家庭孩子缺少安全感是父母问题吗",
@@ -979,6 +1051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202463,
+      "num": 202463,
+      "word": "仙侠剧男主怎么就不能是40岁了",
+      "onboard_time": 1739949982,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201887,
       "num": 201887,
       "word": "戚薇想着姐妹李承铉想着兄弟",
@@ -993,6 +1073,14 @@
       "onboard_time": 1739894180,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200789,
+      "num": 200789,
+      "word": "多邻国官宣去世的小绿鸟还有后续",
+      "onboard_time": 1739949259,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 199930,
@@ -1035,6 +1123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189163,
+      "num": 189163,
+      "word": "虞书欣姜暮新中式look",
+      "onboard_time": 1739949801,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185288,
       "num": 185288,
       "word": "中年雄竞的风吹到了国产剧",
@@ -1049,22 +1145,6 @@
       "onboard_time": 1739934441,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 183392,
-      "num": 183392,
-      "word": "魏大勋这是大侦探不是春晚",
-      "onboard_time": 1739949320,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 180296,
-      "num": 180296,
-      "word": "多邻国官宣去世的小绿鸟还有后续",
-      "onboard_time": 1739949259,
-      "rank": 41,
-      "category": "互联网"
     },
     {
       "raw_hot": 179998,
@@ -1083,28 +1163,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 179037,
-      "num": 179037,
-      "word": "法国小伙亲人遭侵华日军毒果汁毒死",
-      "onboard_time": 1739949320,
-      "rank": 42,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 174728,
       "num": 174728,
       "word": "王大陆保释后没道歉",
       "onboard_time": 1739871683,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 173305,
-      "num": 173305,
-      "word": "桑延难哄白敬亭好哄",
-      "onboard_time": 1739949380,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 171772,
@@ -1177,14 +1241,6 @@
       "onboard_time": 1739946980,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163913,
-      "num": 163913,
-      "word": "许昕坐刘国梁旁边",
-      "onboard_time": 1739949080,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 163271,
@@ -1265,14 +1321,6 @@
       "onboard_time": 1739933599,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 150357,
-      "num": 254395,
-      "word": "国家网信办查处82款违法违规APP",
-      "onboard_time": 1739947700,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149649,
@@ -1524,7 +1572,7 @@
     },
     {
       "raw_hot": 108823,
-      "num": 203556,
+      "num": 276676,
       "word": "未来AI机器人或能小到进入血管",
       "onboard_time": 1739947460,
       "rank": 36,
@@ -1548,7 +1596,7 @@
     },
     {
       "raw_hot": 105115,
-      "num": 1134374,
+      "num": 1254758,
       "word": "各地出招促进民营经济发展",
       "onboard_time": 1739942601,
       "rank": 2,
@@ -1603,14 +1651,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 98751,
-      "num": 384940,
-      "word": "高中就不许学生带面包入校致歉",
-      "onboard_time": 1739948960,
-      "rank": 13,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 96034,
       "num": 363192,
       "word": "岸田文雄遇袭案嫌疑人获刑10年",
@@ -1633,6 +1673,14 @@
       "onboard_time": 1739895618,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 89865,
+      "num": 373567,
+      "word": "郑钦文vs斯特恩斯",
+      "onboard_time": 1739949621,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 84748,
@@ -1660,7 +1708,7 @@
     },
     {
       "raw_hot": 80076,
-      "num": 237445,
+      "num": 239264,
       "word": "林诗栋亚洲杯男单开门红",
       "onboard_time": 1739946500,
       "rank": 31,
@@ -1688,6 +1736,14 @@
       "word": "家属想为遇害幼师争取见义勇为称号",
       "onboard_time": 1739892501,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77005,
+      "num": 239482,
+      "word": "律师谈孕妇被箱子砸致孩子离世",
+      "onboard_time": 1739949561,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -1747,12 +1803,12 @@
       "category": "民生新闻,电影"
     },
     {
-      "raw_hot": 56371,
-      "num": 202989,
-      "word": "律师谈孕妇被箱子砸致孩子离世",
-      "onboard_time": 1739949561,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 59607,
+      "num": 348435,
+      "word": "周柯宇共情式哭戏太扎心",
+      "onboard_time": 1739950161,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 54920,
@@ -1897,14 +1953,6 @@
       "onboard_time": 1739902153,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 31481,
-      "num": 203160,
-      "word": "郑钦文vs斯特恩斯",
-      "onboard_time": 1739949621,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 31278,
@@ -2073,6 +2121,14 @@
       "onboard_time": 1739905332,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10522,
+      "num": 230056,
+      "word": "国产动画片值得一看不止哪吒",
+      "onboard_time": 1739950522,
+      "rank": 36,
+      "category": "动漫"
     },
     {
       "raw_hot": 9504,
