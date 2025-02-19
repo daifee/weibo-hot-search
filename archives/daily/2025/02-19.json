@@ -1,6 +1,6 @@
 {
   "startTime": 1739896170867,
-  "endTime": 1739960667535,
+  "endTime": 1739961697436,
   "band_list": [
     {
       "raw_hot": 2896427,
@@ -43,20 +43,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2254667,
+      "num": 419535,
+      "word": "朴春 李敏镐",
+      "onboard_time": 1739957721,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2237671,
       "num": 2237671,
       "word": "DeepSeek",
       "onboard_time": 1739926282,
       "rank": 25,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 2226430,
-      "num": 419535,
-      "word": "朴春 李敏镐",
-      "onboard_time": 1739957721,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 2205164,
@@ -331,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 801259,
+      "num": 617003,
+      "word": "射雕英雄传延长上映至3月31日",
+      "onboard_time": 1739960000,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 799613,
       "num": 799613,
       "word": "金巧巧发千字长文回应黑粉",
@@ -587,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 421132,
+      "num": 421132,
+      "word": "足金饰品克价已达892元",
+      "onboard_time": 1739959521,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 413605,
       "num": 260939,
       "word": "哪吒2成为全球影史第8",
@@ -723,6 +739,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 332374,
+      "num": 332374,
+      "word": "明家犯罪集团主案证据重达2吨",
+      "onboard_time": 1739960299,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 330588,
       "num": 330588,
       "word": "丈夫灌面汤呛死妻子案家属望重判",
@@ -779,6 +803,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 305206,
+      "num": 406390,
+      "word": "黄俊捷工作室换置顶",
+      "onboard_time": 1739959580,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 299524,
+      "num": 267956,
+      "word": "石矶娘娘雪糕",
+      "onboard_time": 1739959460,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 298766,
       "num": 259988,
       "word": "王嘉尔不再用经纪人的原因",
@@ -787,28 +827,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 293920,
-      "num": 293920,
-      "word": "射雕英雄传延长上映至3月31日",
-      "onboard_time": 1739960000,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 290311,
       "num": 290311,
       "word": "六姊妹二姐夫病逝",
       "onboard_time": 1739935040,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 289798,
-      "num": 406390,
-      "word": "黄俊捷工作室换置顶",
-      "onboard_time": 1739959580,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 287738,
@@ -1043,6 +1067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 240416,
+      "num": 240416,
+      "word": "汪苏泷许嵩在线等一个徐良",
+      "onboard_time": 1739959221,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239760,
       "num": 239760,
       "word": "陈晓赵丽颖 接二搭",
@@ -1121,14 +1153,6 @@
       "onboard_time": 1739913672,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 224046,
-      "num": 224046,
-      "word": "汪苏泷许嵩在线等一个徐良",
-      "onboard_time": 1739959221,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 222264,
@@ -1299,14 +1323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206398,
-      "num": 206398,
-      "word": "石矶娘娘雪糕",
-      "onboard_time": 1739959460,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 205551,
       "num": 209216,
       "word": "桑延难哄白敬亭好哄",
@@ -1419,11 +1435,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194438,
+      "num": 194438,
+      "word": "美团将为所有骑手缴纳社保",
+      "onboard_time": 1739960602,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 193775,
       "num": 193775,
       "word": "13岁女孩险被骗59万被支付宝拦截",
       "onboard_time": 1739896816,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192999,
+      "num": 253477,
+      "word": "工作单位回应39岁博士疑被灌酒去世",
+      "onboard_time": 1739955141,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -1443,20 +1475,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189796,
+      "num": 189796,
+      "word": "魏大勋听不得马耳他三个字",
+      "onboard_time": 1739961140,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189163,
       "num": 189163,
       "word": "虞书欣姜暮新中式look",
       "onboard_time": 1739949801,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 188297,
-      "num": 188297,
-      "word": "工作单位回应39岁博士疑被灌酒去世",
-      "onboard_time": 1739955141,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 185288,
@@ -1473,6 +1505,14 @@
       "onboard_time": 1739934441,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 181892,
+      "num": 181892,
+      "word": "郑钦文迪拜站出局",
+      "onboard_time": 1739961561,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 179998,
@@ -1513,6 +1553,14 @@
       "onboard_time": 1739871683,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171974,
+      "num": 171974,
+      "word": "苍兰诀大黑龙追妻的方式好霸总",
+      "onboard_time": 1739961081,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 171888,
@@ -1600,6 +1648,14 @@
       "word": "我和闺蜜互拍就高圆圆这样",
       "onboard_time": 1739946980,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 163689,
+      "num": 163689,
+      "word": "王珞丹素颜朝天辫",
+      "onboard_time": 1739961501,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -1771,14 +1827,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144154,
-      "num": 144154,
-      "word": "美团将为所有骑手缴纳社保",
-      "onboard_time": 1739960602,
-      "rank": 43,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 143645,
       "num": 143645,
       "word": "女生花10个晚上缝制凤冠送朋友出嫁",
@@ -1825,6 +1873,14 @@
       "onboard_time": 1739956040,
       "rank": 14,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 137496,
+      "num": 137496,
+      "word": "车企回应问界M9被曝高速起火",
+      "onboard_time": 1739960900,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 135958,
@@ -2011,6 +2067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111660,
+      "num": 342773,
+      "word": "多城宣布空置房可少缴物业费",
+      "onboard_time": 1739959699,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109808,
       "num": 547572,
       "word": "泽连斯基称没人对阿富汗2.0感兴趣",
@@ -2041,14 +2105,6 @@
       "onboard_time": 1739955201,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 105963,
-      "num": 225221,
-      "word": "明家犯罪集团主案证据重达2吨",
-      "onboard_time": 1739960299,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105734,
@@ -2129,14 +2185,6 @@
       "onboard_time": 1739933420,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 93916,
-      "num": 411170,
-      "word": "足金饰品克价已达892元",
-      "onboard_time": 1739959521,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91655,
@@ -2315,6 +2363,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 67802,
+      "num": 412927,
+      "word": "法国小伙展示龙华寺被轰炸前后对比图",
+      "onboard_time": 1739945121,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 64995,
       "num": 84194,
       "word": "法老否认出轨",
@@ -2451,28 +2507,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 39904,
-      "num": 412927,
-      "word": "法国小伙展示龙华寺被轰炸前后对比图",
-      "onboard_time": 1739945121,
-      "rank": 13,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 38964,
-      "num": 342773,
-      "word": "多城宣布空置房可少缴物业费",
-      "onboard_time": 1739959699,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 38682,
       "num": 211865,
       "word": "守望先锋国服开服",
       "onboard_time": 1739938222,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 38663,
+      "num": 211833,
+      "word": "被砸致流产孕妇称已起诉两方责任人",
+      "onboard_time": 1739961021,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38294,
@@ -2529,6 +2577,14 @@
       "onboard_time": 1739941343,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31557,
+      "num": 210667,
+      "word": "穿越鳌太线获救小伙称山放过了我",
+      "onboard_time": 1739960841,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31546,
@@ -2753,6 +2809,14 @@
       "onboard_time": 1739950522,
       "rank": 36,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 10387,
+      "num": 242981,
+      "word": "林诗栋亚洲杯开门红",
+      "onboard_time": 1739961081,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 9504,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1739961697436,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1661878,
+        "num": 1661878,
+        "word": "没人会在35岁突然丧失工作能力",
+        "onboard_time": 1739953642,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1381039,
+        "num": 1381039,
+        "word": "饺子导演已闭关",
+        "onboard_time": 1739950400,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 7440,
+        "num": 1138850,
+        "word": "中国式现代化的万千气象海南行",
+        "onboard_time": 1739782103,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1005865,
+        "num": 1005865,
+        "word": "温以凡 明艳大美女",
+        "onboard_time": 1739954961,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 730714,
+        "num": 730714,
+        "word": "12306回应孕妇被行李箱砸中致早产",
+        "onboard_time": 1739940202,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 622564,
+        "num": 622564,
+        "word": "2032年小行星撞击地球概率已升至3.1%",
+        "onboard_time": 1739952681,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 801259,
+        "num": 617003,
+        "word": "射雕英雄传延长上映至3月31日",
+        "onboard_time": 1739960000,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 824680,
+        "num": 541369,
+        "word": "网友晒与白鹿十年前合照",
+        "onboard_time": 1739957000,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421132,
+        "num": 421132,
+        "word": "足金饰品克价已达892元",
+        "onboard_time": 1739959521,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332374,
+        "num": 332374,
+        "word": "明家犯罪集团主案证据重达2吨",
+        "onboard_time": 1739960299,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2254667,
+        "num": 331155,
+        "word": "朴春 李敏镐",
+        "onboard_time": 1739957721,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1377285,
+        "num": 326973,
+        "word": "711回应店员熟食区做不雅行为",
+        "onboard_time": 1739958501,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 497911,
+        "num": 324533,
+        "word": "哪吒2外网首批口碑",
+        "onboard_time": 1739953041,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 440988,
+        "num": 322974,
+        "word": "杨洋章若楠杀青合照",
+        "onboard_time": 1739955201,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 397269,
+        "num": 320861,
+        "word": "别墅月租1万因漏水退租要交7万",
+        "onboard_time": 1739955741,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318290,
+        "num": 318290,
+        "word": "何炅帮谢娜节目取了十个名字没用上",
+        "onboard_time": 1739958501,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313058,
+        "num": 313058,
+        "word": "NASA称2032年将出现最危险太空岩石",
+        "onboard_time": 1739956462,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305206,
+        "num": 305206,
+        "word": "黄俊捷工作室换置顶",
+        "onboard_time": 1739959580,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293535,
+        "num": 293535,
+        "word": "郑钦文1比2斯特恩斯",
+        "onboard_time": 1739959161,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272365,
+        "num": 272365,
+        "word": "老人花一辈子积蓄全款买房被查封",
+        "onboard_time": 1739950641,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299524,
+        "num": 267956,
+        "word": "石矶娘娘雪糕",
+        "onboard_time": 1739959460,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 261676,
+        "num": 261676,
+        "word": "23人涉赌诈百亿元致14名中国公民死亡",
+        "onboard_time": 1739954481,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192999,
+        "num": 253477,
+        "word": "工作单位回应39岁博士疑被灌酒去世",
+        "onboard_time": 1739955141,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252372,
+        "num": 252372,
+        "word": "官方通报孕妇被行李箱砸中致早产",
+        "onboard_time": 1739954000,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10387,
+        "num": 242981,
+        "word": "林诗栋亚洲杯开门红",
+        "onboard_time": 1739961081,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240416,
+        "num": 240416,
+        "word": "汪苏泷许嵩在线等一个徐良",
+        "onboard_time": 1739959221,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239568,
+        "num": 239568,
+        "word": "金赛纶亲自走访57家遭遇损失店铺",
+        "onboard_time": 1739953101,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238014,
+        "num": 238014,
+        "word": "哪吒2全球动画第1",
+        "onboard_time": 1739879063,
+        "rank": 27,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 38663,
+        "num": 211833,
+        "word": "被砸致流产孕妇称已起诉两方责任人",
+        "onboard_time": 1739961021,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31557,
+        "num": 210667,
+        "word": "穿越鳌太线获救小伙称山放过了我",
+        "onboard_time": 1739960841,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209929,
+        "num": 209929,
+        "word": "39岁医学博士娄华勇去世",
+        "onboard_time": 1739955860,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206650,
+        "num": 206650,
+        "word": "仙侠剧男主怎么就不能是40岁了",
+        "onboard_time": 1739949982,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203668,
+        "num": 203668,
+        "word": "网曝711店员熟食区做不雅行为",
+        "onboard_time": 1739959400,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194438,
+        "num": 194438,
+        "word": "美团将为所有骑手缴纳社保",
+        "onboard_time": 1739960602,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 111660,
+        "num": 193816,
+        "word": "多城宣布空置房可少缴物业费",
+        "onboard_time": 1739959699,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67802,
+        "num": 193522,
+        "word": "法国小伙展示龙华寺被轰炸前后对比图",
+        "onboard_time": 1739945121,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 193237,
+        "num": 193237,
+        "word": "难哄剧情 无聊",
+        "onboard_time": 1739947760,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189796,
+        "num": 189796,
+        "word": "魏大勋听不得马耳他三个字",
+        "onboard_time": 1739961140,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185592,
+        "num": 185592,
+        "word": "红房子",
+        "onboard_time": 1739960241,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181892,
+        "num": 181892,
+        "word": "郑钦文迪拜站出局",
+        "onboard_time": 1739961561,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180442,
+        "num": 180442,
+        "word": "哪吒2票房124亿",
+        "onboard_time": 1739946021,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171974,
+        "num": 171974,
+        "word": "苍兰诀大黑龙追妻的方式好霸总",
+        "onboard_time": 1739961081,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166962,
+        "num": 166962,
+        "word": "法国小伙亲人遭侵华日军毒果汁毒死",
+        "onboard_time": 1739949320,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 163689,
+        "num": 163689,
+        "word": "王珞丹素颜朝天辫",
+        "onboard_time": 1739961501,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163082,
+        "num": 163082,
+        "word": "DeepSeek正成为恋爱军师",
+        "onboard_time": 1739952081,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 156230,
+        "num": 156230,
+        "word": "难哄原著",
+        "onboard_time": 1739959822,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153296,
+        "num": 153296,
+        "word": "旅客将行李箱放置行李架隔断致掉落",
+        "onboard_time": 1739955741,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151951,
+        "num": 151951,
+        "word": "刘强东或再引行业变革",
+        "onboard_time": 1739952321,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 137496,
+        "num": 137496,
+        "word": "车企回应问界M9被曝高速起火",
+        "onboard_time": 1739960900,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 136046,
+        "num": 136046,
+        "word": "哪吒",
+        "onboard_time": 1739956641,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为民营企业鼓劲#"
+    }
+  }
+}
