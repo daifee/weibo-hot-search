@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739972374907,
+  "endTime": 1739974918015,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -57,6 +57,14 @@
       "onboard_time": 1739855312,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3552315,
+      "num": 3552315,
+      "word": "导演郑某峰涉嫌猥亵儿童被刑拘",
+      "onboard_time": 1739972602,
+      "rank": 0,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 3475997,
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 2254667,
-      "num": 512680,
+      "num": 550984,
       "word": "朴春 李敏镐",
       "onboard_time": 1739957721,
       "rank": 46,
@@ -827,6 +835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1219165,
+      "num": 559912,
+      "word": "网曝711店员熟食区做不雅行为",
+      "onboard_time": 1739959400,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1218406,
       "num": 656813,
       "word": "女子网购100克黄金收到一卷手纸",
@@ -1048,6 +1064,14 @@
       "word": "张凌赫 爸爸妈妈不要只看吻戏",
       "onboard_time": 1739934080,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1036393,
+      "num": 1036393,
+      "word": "我承认对难哄大声了一点",
+      "onboard_time": 1739969841,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -1280,14 +1304,6 @@
       "word": "贵州六盘水失踪6岁男孩已遇害",
       "onboard_time": 1739882603,
       "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 894045,
-      "num": 509630,
-      "word": "网曝711店员熟食区做不雅行为",
-      "onboard_time": 1739959400,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -1787,6 +1803,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 678601,
+      "num": 678601,
+      "word": "哪吒2破125亿",
+      "onboard_time": 1739970081,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 674809,
       "num": 314293,
       "word": "欧阳震华口误",
@@ -1937,14 +1961,6 @@
       "onboard_time": 1739687298,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 643835,
-      "num": 415979,
-      "word": "哪吒2破125亿",
-      "onboard_time": 1739970081,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 639799,
@@ -2169,6 +2185,14 @@
       "onboard_time": 1739794220,
       "rank": 7,
       "category": "电影,民生新闻"
+    },
+    {
+      "raw_hot": 567353,
+      "num": 567353,
+      "word": "王楚钦3比2阿拉米扬",
+      "onboard_time": 1739973263,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 566989,
@@ -2675,6 +2699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 470136,
+      "num": 470136,
+      "word": "配音圈团建",
+      "onboard_time": 1739969061,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 469690,
       "num": 620529,
       "word": "怎么可能我的孩子会抑郁",
@@ -3123,14 +3155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 403458,
-      "num": 403458,
-      "word": "配音圈团建",
-      "onboard_time": 1739969061,
-      "rank": 46,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 403230,
       "num": 315584,
       "word": "哪吒2票房超116亿",
@@ -3369,14 +3393,6 @@
       "onboard_time": 1739672000,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 374430,
-      "num": 298340,
-      "word": "我承认对难哄大声了一点",
-      "onboard_time": 1739969841,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 374005,
@@ -3771,6 +3787,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 332967,
+      "num": 332967,
+      "word": "孟子义攒了几部剧没播",
+      "onboard_time": 1739971343,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 332708,
       "num": 332708,
       "word": "DeepSeek公司主要人员发生变更",
@@ -3995,6 +4019,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 308191,
+      "num": 308191,
+      "word": "眼科医生给高度近视的20个建议",
+      "onboard_time": 1739972423,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 307930,
       "num": 303345,
       "word": "生命树",
@@ -4121,6 +4153,14 @@
       "onboard_time": 1739854223,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 295273,
+      "num": 295273,
+      "word": "金莎孙丞潇给狗狗过三岁生日",
+      "onboard_time": 1739969301,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 294281,
@@ -4291,14 +4331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 286203,
-      "num": 286203,
-      "word": "金莎孙丞潇给狗狗过三岁生日",
-      "onboard_time": 1739969301,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 286098,
       "num": 286098,
       "word": "300斤孕妈背部脂肪8cm高危产子",
@@ -4393,6 +4425,14 @@
       "onboard_time": 1739933360,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 279037,
+      "num": 306095,
+      "word": "内蒙古28年前命案告破家属发声",
+      "onboard_time": 1739970500,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 278898,
@@ -4641,14 +4681,6 @@
       "onboard_time": 1739680099,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 261827,
-      "num": 261827,
-      "word": "孟子义攒了几部剧没播",
-      "onboard_time": 1739971343,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 261571,
@@ -5203,12 +5235,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 236805,
-      "num": 306095,
-      "word": "内蒙古28年前命案告破家属发声",
-      "onboard_time": 1739970500,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 236794,
+      "num": 236794,
+      "word": "1岁半宝宝打疫苗双手插兜表情淡定",
+      "onboard_time": 1739972543,
+      "rank": 36,
+      "category": "民生新闻,母婴育儿"
     },
     {
       "raw_hot": 236677,
@@ -5785,6 +5817,14 @@
       "onboard_time": 1739769981,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214497,
+      "num": 214497,
+      "word": "金价一夜暴涨12元",
+      "onboard_time": 1739974224,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 214390,
@@ -6539,6 +6579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195486,
+      "num": 494684,
+      "word": "王楚钦晋级男单第2轮",
+      "onboard_time": 1739973924,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195326,
       "num": 195326,
       "word": "当马龙樊振东遇上敖丙哪吒",
@@ -6891,6 +6939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 185585,
+      "num": 185585,
+      "word": "HLE晋级LCK杯决赛",
+      "onboard_time": 1739973861,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 185288,
       "num": 185288,
       "word": "中年雄竞的风吹到了国产剧",
@@ -7041,6 +7097,14 @@
       "onboard_time": 1739682858,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181343,
+      "num": 181343,
+      "word": "女子戴耳环不摘耳垂长出葡萄瘤",
+      "onboard_time": 1739974523,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 181225,
@@ -7299,6 +7363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 172449,
+      "num": 342497,
+      "word": "王楚钦大心脏",
+      "onboard_time": 1739974703,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172420,
       "num": 172420,
       "word": "周深哽咽致歉称最后悔也最不后悔",
@@ -7537,6 +7609,14 @@
       "onboard_time": 1739872824,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167167,
+      "num": 272259,
+      "word": "梅梅厦门",
+      "onboard_time": 1739971222,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 166985,
@@ -10187,6 +10267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 92454,
+      "num": 508862,
+      "word": "饺子的作品里充满了星爷情怀",
+      "onboard_time": 1739973202,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 92302,
       "num": 404206,
       "word": "新疆牧民将爱马送给去世白马的主人",
@@ -10483,6 +10571,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 78395,
+      "num": 337845,
+      "word": "美农户买中国机器被指美国叛徒",
+      "onboard_time": 1739973383,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 78080,
       "num": 274161,
       "word": "哪吒2饼饼和父王一起睡",
@@ -10619,6 +10715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74448,
+      "num": 217522,
+      "word": "医生称郭艾伦情况较乐观",
+      "onboard_time": 1739973624,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74004,
       "num": 289431,
       "word": "守望先锋国服",
@@ -10673,6 +10777,14 @@
       "onboard_time": 1739851585,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 71892,
+      "num": 333832,
+      "word": "周雨采访王楚钦",
+      "onboard_time": 1739974762,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 71509,
@@ -11033,14 +11145,6 @@
       "onboard_time": 1739765361,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 58867,
-      "num": 272259,
-      "word": "梅梅厦门",
-      "onboard_time": 1739971222,
-      "rank": 28,
-      "category": "动漫"
     },
     {
       "raw_hot": 58755,
@@ -11539,6 +11643,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 40789,
+      "num": 247965,
+      "word": "严浩翔变身手工达人",
+      "onboard_time": 1739974881,
+      "rank": 34,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 40575,
       "num": 161881,
       "word": "NBA大型前任见面会",
@@ -11659,6 +11771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36225,
+      "num": 347050,
+      "word": "上职校就是没前途的偏见该改变了",
+      "onboard_time": 1739973924,
+      "rank": 26,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 35912,
       "num": 35912,
       "word": "哪吒现实世界冲破了鼎盖",
@@ -11713,6 +11833,14 @@
       "onboard_time": 1739724076,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33961,
+      "num": 522523,
+      "word": "哪吒2全片参与人数是哪吒1的两三倍",
+      "onboard_time": 1739974043,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 33676,
@@ -11833,6 +11961,22 @@
       "onboard_time": 1739676020,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 28977,
+      "num": 378009,
+      "word": "街道招聘环卫工不超35岁已有人应聘",
+      "onboard_time": 1739974762,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28903,
+      "num": 424474,
+      "word": "加沙冲突等热点不应被边缘化",
+      "onboard_time": 1739974582,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 28789,
@@ -11977,6 +12121,14 @@
       "onboard_time": 1739823790,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24895,
+      "num": 383274,
+      "word": "AI儿科医生看病靠谱吗",
+      "onboard_time": 1739973802,
+      "rank": 19,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 24804,

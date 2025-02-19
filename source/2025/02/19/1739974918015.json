@@ -1,0 +1,410 @@
+{
+  "runTime": 1739974918015,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3552315,
+        "num": 3552315,
+        "word": "导演郑某峰涉嫌猥亵儿童被刑拘",
+        "onboard_time": 1739972602,
+        "rank": 0,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 1912383,
+        "num": 1912383,
+        "word": "哪吒创作团队停止所有对外采访",
+        "onboard_time": 1739967800,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 8913,
+        "num": 1207057,
+        "word": "中国式现代化的万千气象海南行",
+        "onboard_time": 1739782103,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1036393,
+        "num": 1036393,
+        "word": "我承认对难哄大声了一点",
+        "onboard_time": 1739969841,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 883575,
+        "num": 883575,
+        "word": "王楚钦vs阿拉米扬",
+        "onboard_time": 1739970200,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 724058,
+        "num": 724058,
+        "word": "好利来通报表扬员工连续工作29小时",
+        "onboard_time": 1739961860,
+        "rank": 5,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 856509,
+        "num": 718342,
+        "word": "饺子导演已闭关",
+        "onboard_time": 1739950400,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 678601,
+        "num": 678601,
+        "word": "哪吒2破125亿",
+        "onboard_time": 1739970081,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 678313,
+        "num": 678313,
+        "word": "特朗普说美国有360岁老人还在领社保",
+        "onboard_time": 1739964320,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 567353,
+        "num": 567353,
+        "word": "王楚钦3比2阿拉米扬",
+        "onboard_time": 1739973263,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1219165,
+        "num": 559912,
+        "word": "网曝711店员熟食区做不雅行为",
+        "onboard_time": 1739959400,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 843633,
+        "num": 550984,
+        "word": "朴春 李敏镐",
+        "onboard_time": 1739957721,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33961,
+        "num": 522523,
+        "word": "哪吒2全片参与人数是哪吒1的两三倍",
+        "onboard_time": 1739974043,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92454,
+        "num": 508862,
+        "word": "饺子的作品里充满了星爷情怀",
+        "onboard_time": 1739973202,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195486,
+        "num": 494684,
+        "word": "王楚钦晋级男单第2轮",
+        "onboard_time": 1739973924,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 613867,
+        "num": 470472,
+        "word": "认不出来这是A妹了",
+        "onboard_time": 1739967080,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 470136,
+        "num": 470136,
+        "word": "配音圈团建",
+        "onboard_time": 1739969061,
+        "rank": 16,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 28903,
+        "num": 424474,
+        "word": "加沙冲突等热点不应被边缘化",
+        "onboard_time": 1739974582,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 385507,
+        "num": 385507,
+        "word": "柯淳 无限超越班",
+        "onboard_time": 1739966840,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24895,
+        "num": 383274,
+        "word": "AI儿科医生看病靠谱吗",
+        "onboard_time": 1739973802,
+        "rank": 19,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 541113,
+        "num": 383254,
+        "word": "温以凡 明艳大美女",
+        "onboard_time": 1739954961,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 458409,
+        "num": 383201,
+        "word": "三部在播剧口碑分化",
+        "onboard_time": 1739968521,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 382876,
+        "num": 382876,
+        "word": "网友晒与白鹿十年前合照",
+        "onboard_time": 1739957000,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28977,
+        "num": 378009,
+        "word": "街道招聘环卫工不超35岁已有人应聘",
+        "onboard_time": 1739974762,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376950,
+        "num": 376950,
+        "word": "内耗的人适合培养输出型爱好",
+        "onboard_time": 1739961260,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 350194,
+        "num": 350194,
+        "word": "红房子 父母爱情",
+        "onboard_time": 1739970320,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36225,
+        "num": 347050,
+        "word": "上职校就是没前途的偏见该改变了",
+        "onboard_time": 1739973924,
+        "rank": 26,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 172449,
+        "num": 342497,
+        "word": "王楚钦大心脏",
+        "onboard_time": 1739974703,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78395,
+        "num": 337845,
+        "word": "美农户买中国机器被指美国叛徒",
+        "onboard_time": 1739973383,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 71892,
+        "num": 333832,
+        "word": "周雨采访王楚钦",
+        "onboard_time": 1739974762,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 332967,
+        "num": 332967,
+        "word": "孟子义攒了几部剧没播",
+        "onboard_time": 1739971343,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308191,
+        "num": 308191,
+        "word": "眼科医生给高度近视的20个建议",
+        "onboard_time": 1739972423,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 295273,
+        "num": 295273,
+        "word": "金莎孙丞潇给狗狗过三岁生日",
+        "onboard_time": 1739969301,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279037,
+        "num": 279037,
+        "word": "内蒙古28年前命案告破家属发声",
+        "onboard_time": 1739970500,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40789,
+        "num": 247965,
+        "word": "严浩翔变身手工达人",
+        "onboard_time": 1739974881,
+        "rank": 34,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 237217,
+        "num": 237217,
+        "word": "男子爱挖鼻孔致动脉血管破裂",
+        "onboard_time": 1739966121,
+        "rank": 35,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 236794,
+        "num": 236794,
+        "word": "1岁半宝宝打疫苗双手插兜表情淡定",
+        "onboard_time": 1739972543,
+        "rank": 36,
+        "category": "民生新闻,母婴育儿"
+      },
+      {
+        "raw_hot": 236210,
+        "num": 236210,
+        "word": "浙江大学上线免费满血版deepseek",
+        "onboard_time": 1739969660,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 231202,
+        "num": 231202,
+        "word": "好一个乖乖女",
+        "onboard_time": 1739971222,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228724,
+        "num": 228724,
+        "word": "湖南卫视考古杨紫",
+        "onboard_time": 1739968580,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227859,
+        "num": 227859,
+        "word": "哪吒2全球动画第1",
+        "onboard_time": 1739879063,
+        "rank": 40,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 74448,
+        "num": 217522,
+        "word": "医生称郭艾伦情况较乐观",
+        "onboard_time": 1739973624,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214497,
+        "num": 214497,
+        "word": "金价一夜暴涨12元",
+        "onboard_time": 1739974224,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 208978,
+        "num": 208978,
+        "word": "英雄联盟",
+        "onboard_time": 1739967920,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 185585,
+        "num": 185585,
+        "word": "HLE晋级LCK杯决赛",
+        "onboard_time": 1739973861,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 181343,
+        "num": 181343,
+        "word": "女子戴耳环不摘耳垂长出葡萄瘤",
+        "onboard_time": 1739974523,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178543,
+        "num": 178543,
+        "word": "3种蔬菜比牛奶还补钙",
+        "onboard_time": 1739962761,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 178314,
+        "num": 178314,
+        "word": "可可动画回应饺子导演闭关",
+        "onboard_time": 1739971103,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167167,
+        "num": 167167,
+        "word": "梅梅厦门",
+        "onboard_time": 1739971222,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 177220,
+        "num": 166985,
+        "word": "哪吒2外网首批口碑",
+        "onboard_time": 1739953041,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为民营企业鼓劲#"
+    }
+  }
+}
