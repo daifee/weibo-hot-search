@@ -1,6 +1,6 @@
 {
   "startTime": 1739896170867,
-  "endTime": 1739957044656,
+  "endTime": 1739957878416,
   "band_list": [
     {
       "raw_hot": 2896427,
@@ -35,8 +35,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 2260410,
-      "num": 2260410,
+      "raw_hot": 2403547,
+      "num": 2403547,
       "word": "没人会在35岁突然丧失工作能力",
       "onboard_time": 1739953642,
       "rank": 41,
@@ -115,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1362830,
+      "num": 1362830,
+      "word": "温以凡 明艳大美女",
+      "onboard_time": 1739954961,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1347412,
       "num": 793614,
       "word": "疑似网红燕来妈妈被杀",
@@ -145,14 +153,6 @@
       "onboard_time": 1739933899,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1211191,
-      "num": 1211191,
-      "word": "温以凡 明艳大美女",
-      "onboard_time": 1739954961,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 1209573,
@@ -323,6 +323,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 768894,
+      "num": 768894,
+      "word": "杨洋章若楠杀青合照",
+      "onboard_time": 1739955201,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 763328,
       "num": 763328,
       "word": "男鬼桑延",
@@ -339,12 +347,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 717692,
-      "num": 717692,
-      "word": "杨洋章若楠杀青合照",
-      "onboard_time": 1739955201,
-      "rank": 8,
-      "category": "剧集"
+      "raw_hot": 659961,
+      "num": 659961,
+      "word": "别墅月租1万因漏水退租要交7万",
+      "onboard_time": 1739955741,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 658546,
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 613365,
-      "num": 391957,
+      "num": 553116,
       "word": "金赛纶亲自走访57家遭遇损失店铺",
       "onboard_time": 1739953101,
       "rank": 22,
@@ -579,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 391998,
+      "num": 391998,
+      "word": "阿凡达重映",
+      "onboard_time": 1739957540,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 387899,
       "num": 288837,
       "word": "陈晓陈妍希 1370天",
@@ -665,6 +681,14 @@
       "onboard_time": 1739888663,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 334246,
+      "num": 334246,
+      "word": "网友晒与白鹿十年前合照",
+      "onboard_time": 1739957000,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 330588,
@@ -939,6 +963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 243017,
+      "num": 243017,
+      "word": "DeepSeek正成为恋爱军师",
+      "onboard_time": 1739952081,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 242792,
       "num": 254395,
       "word": "国家网信办查处82款违法违规APP",
@@ -987,14 +1019,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 234953,
-      "num": 234953,
-      "word": "DeepSeek正成为恋爱军师",
-      "onboard_time": 1739952081,
-      "rank": 36,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 230841,
       "num": 230841,
       "word": "漫画难哄TOP级名场面还原",
@@ -1041,6 +1065,14 @@
       "onboard_time": 1739929221,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 222009,
+      "num": 222009,
+      "word": "39岁医学博士娄华勇去世",
+      "onboard_time": 1739955860,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 221595,
@@ -1096,14 +1128,6 @@
       "word": "真实土拨鼠打架和哪吒2里一样好笑",
       "onboard_time": 1739927839,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 217229,
-      "num": 217229,
-      "word": "39岁医学博士娄华勇去世",
-      "onboard_time": 1739955860,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -1203,6 +1227,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205337,
+      "num": 205337,
+      "word": "哪吒",
+      "onboard_time": 1739956641,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 205144,
+      "num": 205144,
+      "word": "云合",
+      "onboard_time": 1739957180,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204808,
       "num": 204808,
       "word": "二胎家庭孩子缺少安全感是父母问题吗",
@@ -1217,6 +1257,14 @@
       "onboard_time": 1739932819,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 203590,
+      "num": 212642,
+      "word": "NASA称2032年将出现最危险太空岩石",
+      "onboard_time": 1739956462,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 203431,
@@ -1283,14 +1331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198199,
-      "num": 198199,
-      "word": "NASA称2032年将出现最危险太空岩石",
-      "onboard_time": 1739956462,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 193775,
       "num": 193775,
       "word": "13岁女孩险被骗59万被支付宝拦截",
@@ -1321,14 +1361,6 @@
       "onboard_time": 1739949801,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 188876,
-      "num": 188876,
-      "word": "哪吒",
-      "onboard_time": 1739956641,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 188297,
@@ -1387,14 +1419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177138,
-      "num": 177138,
-      "word": "网友晒与白鹿十年前合照",
-      "onboard_time": 1739957000,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 174728,
       "num": 174728,
       "word": "王大陆保释后没道歉",
@@ -1433,14 +1457,6 @@
       "onboard_time": 1739925502,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 169902,
-      "num": 350278,
-      "word": "别墅月租1万因漏水退租要交7万",
-      "onboard_time": 1739955741,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 169818,
@@ -1627,6 +1643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 149223,
+      "num": 149223,
+      "word": "朴春 李敏镐",
+      "onboard_time": 1739957721,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148746,
       "num": 148746,
       "word": "张极说登陆少年今年有很多场演唱会",
@@ -1697,6 +1721,14 @@
       "onboard_time": 1739939665,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 137506,
+      "num": 366092,
+      "word": "去年全球4次成功预警小行星撞地球",
+      "onboard_time": 1739956040,
+      "rank": 14,
+      "category": "科学科普"
     },
     {
       "raw_hot": 133907,
@@ -1881,6 +1913,14 @@
       "onboard_time": 1739893102,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 106543,
+      "num": 374018,
+      "word": "律师解读火车行李坠落致孕妇早产",
+      "onboard_time": 1739956641,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106407,
@@ -2091,14 +2131,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 75091,
-      "num": 364517,
-      "word": "律师解读火车行李坠落致孕妇早产",
-      "onboard_time": 1739956641,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74004,
       "num": 289431,
       "word": "守望先锋国服",
@@ -2235,6 +2267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47598,
+      "num": 361099,
+      "word": "招环卫工不超35岁别给职场门槛加码",
+      "onboard_time": 1739956221,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47474,
       "num": 65900,
       "word": "俄说加入欧盟是乌克兰主权权利",
@@ -2257,14 +2297,6 @@
       "onboard_time": 1739939302,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 43499,
-      "num": 366092,
-      "word": "去年全球4次成功预警小行星撞地球",
-      "onboard_time": 1739956040,
-      "rank": 14,
-      "category": "科学科普"
     },
     {
       "raw_hot": 42091,
@@ -2299,20 +2331,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 37863,
+      "num": 212721,
+      "word": "妇联回应孕妇称被行李砸中致胎儿夭折",
+      "onboard_time": 1739957600,
+      "rank": 29,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 36516,
+      "num": 243733,
+      "word": "干饭哥阿条姐闷声拿金牌",
+      "onboard_time": 1739954961,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 35912,
       "num": 35912,
       "word": "哪吒现实世界冲破了鼎盖",
       "onboard_time": 1739904072,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 35125,
-      "num": 361099,
-      "word": "招环卫工不超35岁别给职场门槛加码",
-      "onboard_time": 1739956221,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32971,
