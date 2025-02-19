@@ -1,6 +1,6 @@
 {
   "startTime": 1739982473012,
-  "endTime": 1739986711947,
+  "endTime": 1739989799886,
   "band_list": [
     {
       "raw_hot": 1412108,
@@ -139,6 +139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 292824,
+      "num": 292824,
+      "word": "iPhone16e两款配色",
+      "onboard_time": 1739983397,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 290549,
       "num": 290549,
       "word": "警方通报导演郑某峰涉嫌猥亵儿童",
@@ -185,6 +193,14 @@
       "onboard_time": 1739979920,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221471,
+      "num": 221471,
+      "word": "iPhone16e",
+      "onboard_time": 1739984235,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 212951,
@@ -257,14 +273,6 @@
       "onboard_time": 1739961260,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 144567,
-      "num": 144567,
-      "word": "iPhone16e",
-      "onboard_time": 1739984235,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 141943,
@@ -451,12 +459,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 76207,
-      "num": 76207,
-      "word": "iPhone16e两款配色",
-      "onboard_time": 1739983397,
-      "rank": 49,
-      "category": "数码"
+      "raw_hot": 68997,
+      "num": 68997,
+      "word": "李行亮称节目带没带剧本很难自证",
+      "onboard_time": 1739988073,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 68926,
@@ -491,12 +499,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40637,
+      "num": 40637,
+      "word": "蔡徐坤getready",
+      "onboard_time": 1739986753,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35211,
       "num": 1035707,
       "word": "专家解读促进民营经济发展工作重点",
       "onboard_time": 1739976024,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34079,
+      "num": 34079,
+      "word": "哪吒2制片人和饺子合作20年了",
+      "onboard_time": 1739986813,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 28655,
+      "num": 28655,
+      "word": "蔡徐坤暗夜无界锋芒自现",
+      "onboard_time": 1739989091,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 11375,
+      "num": 126996,
+      "word": "人工智能辅助空军招飞定选",
+      "onboard_time": 1739989332,
+      "rank": 9,
+      "category": "军事"
     }
   ],
   "hotgov_list": [
