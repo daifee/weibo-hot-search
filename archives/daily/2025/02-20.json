@@ -1,6 +1,6 @@
 {
   "startTime": 1739982473012,
-  "endTime": 1739989799886,
+  "endTime": 1739990648937,
   "band_list": [
     {
       "raw_hot": 1412108,
@@ -131,20 +131,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 305083,
+      "num": 305083,
+      "word": "iPhone16e两款配色",
+      "onboard_time": 1739983397,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 302889,
       "num": 159024,
       "word": "哪吒2官方登顶海报",
       "onboard_time": 1739974523,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 292824,
-      "num": 292824,
-      "word": "iPhone16e两款配色",
-      "onboard_time": 1739983397,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 290549,
@@ -459,8 +459,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 68997,
-      "num": 68997,
+      "raw_hot": 75894,
+      "num": 75894,
       "word": "李行亮称节目带没带剧本很难自证",
       "onboard_time": 1739988073,
       "rank": 20,
@@ -531,12 +531,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 11375,
+      "raw_hot": 12885,
       "num": 126996,
       "word": "人工智能辅助空军招飞定选",
       "onboard_time": 1739989332,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 11407,
+      "num": 55942,
+      "word": "2000多架无人机表演为哪吒2庆祝",
+      "onboard_time": 1739990053,
+      "rank": 19,
+      "category": "民生新闻,电影"
     }
   ],
   "hotgov_list": [
