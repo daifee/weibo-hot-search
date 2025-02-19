@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739990648937,
+  "endTime": 1739992706551,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -43555,6 +43555,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 120712,
+      "num": 120712,
+      "word": "李行亮称节目带没带剧本很难自证",
+      "onboard_time": 1739988073,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120667,
       "num": 120667,
       "word": "应到两人实到两人一狗",
@@ -50049,14 +50057,6 @@
       "onboard_time": 1738770564,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 75894,
-      "num": 75894,
-      "word": "李行亮称节目带没带剧本很难自证",
-      "onboard_time": 1739988073,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 75880,
@@ -58059,6 +58059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 21401,
+      "num": 21401,
+      "word": "180天重启计划",
+      "onboard_time": 1739992272,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 21379,
       "num": 206731,
       "word": "我们都想成为哪吒怎么活成了申公豹",
@@ -58377,6 +58385,14 @@
       "onboard_time": 1738966572,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 19814,
+      "num": 19814,
+      "word": "iPhone14停售",
+      "onboard_time": 1739988733,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 19808,
@@ -58801,6 +58817,14 @@
       "onboard_time": 1739455282,
       "rank": 37,
       "category": "电影,旅游"
+    },
+    {
+      "raw_hot": 16399,
+      "num": 78273,
+      "word": "天津街头堵飞机了",
+      "onboard_time": 1739991852,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16362,

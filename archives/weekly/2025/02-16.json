@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739990648937,
+  "endTime": 1739992706551,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -9643,6 +9643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 120712,
+      "num": 120712,
+      "word": "李行亮称节目带没带剧本很难自证",
+      "onboard_time": 1739988073,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120640,
       "num": 120640,
       "word": "云南一女子失联疑带3月龄女儿跳江",
@@ -11025,14 +11033,6 @@
       "onboard_time": 1739763019,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 75894,
-      "num": 75894,
-      "word": "李行亮称节目带没带剧本很难自证",
-      "onboard_time": 1739988073,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 75880,
@@ -12739,6 +12739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 21401,
+      "num": 21401,
+      "word": "180天重启计划",
+      "onboard_time": 1739992272,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 21340,
       "num": 432850,
       "word": "达美航空翻转落地实拍",
@@ -12817,6 +12825,14 @@
       "onboard_time": 1739863645,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 19814,
+      "num": 19814,
+      "word": "iPhone14停售",
+      "onboard_time": 1739988733,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 19631,
@@ -12929,6 +12945,14 @@
       "onboard_time": 1739647931,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 16399,
+      "num": 78273,
+      "word": "天津街头堵飞机了",
+      "onboard_time": 1739991852,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16362,
