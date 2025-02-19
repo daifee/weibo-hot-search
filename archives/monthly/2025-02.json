@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1739934121184,
+  "endTime": 1739935786259,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -3267,6 +3267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1218406,
+      "num": 406721,
+      "word": "女子网购100克黄金收到一卷手纸",
+      "onboard_time": 1739933899,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1217612,
       "num": 1032041,
       "word": "金冬天cue宁艺卓发言",
@@ -5099,6 +5107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 897360,
+      "num": 897360,
+      "word": "张凌赫 爸爸妈妈不要只看吻戏",
+      "onboard_time": 1739934080,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 896595,
       "num": 896595,
       "word": "南宁一高中老师被举报性侵学生",
@@ -5723,6 +5739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 821637,
+      "num": 821637,
+      "word": "韩国女学生跳车身亡八旬出租车司机无罪",
+      "onboard_time": 1739935100,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 821293,
       "num": 821293,
       "word": "孙颖莎战胜蒯曼夺冠",
@@ -5795,12 +5819,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 816178,
+      "num": 405782,
+      "word": "马天宇卖汤圆",
+      "onboard_time": 1739932280,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 815707,
       "num": 613515,
       "word": "白色橄榄树重剪",
       "onboard_time": 1739891543,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 815217,
+      "num": 402249,
+      "word": "女子被丈夫灌面汤呛死家属发声",
+      "onboard_time": 1739932880,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 813795,
@@ -6281,6 +6321,14 @@
       "onboard_time": 1739082020,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 763328,
+      "num": 763328,
+      "word": "男鬼桑延",
+      "onboard_time": 1739932699,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 763237,
@@ -7609,6 +7657,14 @@
       "onboard_time": 1738673785,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 655099,
+      "num": 655099,
+      "word": "特朗普严厉批评泽连斯基",
+      "onboard_time": 1739934321,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 654927,
@@ -8955,14 +9011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 571848,
-      "num": 571848,
-      "word": "男鬼桑延",
-      "onboard_time": 1739932699,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 571467,
       "num": 772059,
       "word": "饺子想快点回归创作阶段",
@@ -9785,14 +9833,6 @@
       "onboard_time": 1738853665,
       "rank": 20,
       "category": "电影"
-    },
-    {
-      "raw_hot": 534760,
-      "num": 392376,
-      "word": "马天宇卖汤圆",
-      "onboard_time": 1739932280,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 534758,
@@ -13267,6 +13307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 396814,
+      "num": 429084,
+      "word": "四川一地坝坝宴将不得用四季豆",
+      "onboard_time": 1739931620,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 396218,
       "num": 359485,
       "word": "短剧迎来真正大女主",
@@ -14363,14 +14411,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 364473,
-      "num": 364473,
-      "word": "女子被丈夫灌面汤呛死家属发声",
-      "onboard_time": 1739932880,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 364470,
       "num": 364470,
       "word": "敖光",
@@ -15433,6 +15473,14 @@
       "onboard_time": 1738979001,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 337764,
+      "num": 337764,
+      "word": "原来只有敖光是纯正龙族血统",
+      "onboard_time": 1739935040,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 337417,
@@ -16627,14 +16675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 311338,
-      "num": 429084,
-      "word": "四川一地坝坝宴将不得用四季豆",
-      "onboard_time": 1739931620,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 311187,
       "num": 311187,
       "word": "新疆5.0级地震",
@@ -17059,14 +17099,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 303727,
-      "num": 303727,
-      "word": "女子网购100克黄金收到一卷手纸",
-      "onboard_time": 1739933899,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 303657,
       "num": 236100,
       "word": "王鹤棣说受不了詹眉断崖式分手",
@@ -17457,6 +17489,14 @@
       "onboard_time": 1738739061,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 296083,
+      "num": 296083,
+      "word": "孙颖莎vs简彤娟",
+      "onboard_time": 1739934620,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 295699,
@@ -18379,6 +18419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 279764,
+      "num": 386900,
+      "word": "泽连斯基说俄美会谈令人吃惊",
+      "onboard_time": 1739933360,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 279713,
       "num": 279713,
       "word": "印度称DeepSeek很快部署在当地服务器",
@@ -18801,6 +18849,14 @@
       "onboard_time": 1739574854,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 272628,
+      "num": 412688,
+      "word": "2025高考时间公布",
+      "onboard_time": 1739934620,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 272270,
@@ -21297,6 +21353,14 @@
       "onboard_time": 1739719461,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 238101,
+      "num": 238101,
+      "word": "六姊妹二姐夫病逝",
+      "onboard_time": 1739935040,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 238084,
@@ -23851,6 +23915,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 215797,
+      "num": 215797,
+      "word": "江苏哪吒宝宝出生",
+      "onboard_time": 1739935221,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215789,
       "num": 215789,
       "word": "权志龙官宣世界巡回演唱会",
@@ -24259,6 +24331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 212423,
+      "num": 280606,
+      "word": "阴阳师",
+      "onboard_time": 1738828765,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 212392,
       "num": 212392,
       "word": "男子放出400斤白牦牛给亲戚看",
@@ -24595,6 +24675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 209640,
+      "num": 209640,
+      "word": "漫画难哄TOP级名场面还原",
+      "onboard_time": 1739935523,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 209604,
       "num": 184530,
       "word": "李汶翰上班",
@@ -24625,6 +24713,14 @@
       "onboard_time": 1739423183,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209422,
+      "num": 209422,
+      "word": "香椿120元一斤上架就被抢光",
+      "onboard_time": 1739935040,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 209324,
@@ -26729,6 +26825,14 @@
       "onboard_time": 1738989090,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198221,
+      "num": 198221,
+      "word": "黄杨钿甜17岁演了33部戏",
+      "onboard_time": 1739935343,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 198166,
@@ -30635,14 +30739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 178195,
-      "num": 178195,
-      "word": "阴阳师",
-      "onboard_time": 1738828765,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 178175,
       "num": 178175,
       "word": "特朗普称撞机事故都怪奥巴马和拜登",
@@ -31395,6 +31491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173644,
+      "num": 173644,
+      "word": "张钧甯超大素颜特写",
+      "onboard_time": 1739935343,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173629,
       "num": 173629,
       "word": "蒯曼亚军",
@@ -32089,6 +32193,14 @@
       "onboard_time": 1739005823,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169818,
+      "num": 169818,
+      "word": "苦药亦是药",
+      "onboard_time": 1739934321,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 169769,
@@ -32947,6 +33059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164768,
+      "num": 164768,
+      "word": "Grok3翻车了",
+      "onboard_time": 1739935401,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 164735,
       "num": 161202,
       "word": "哪吒2登上全球动画票房TOP5",
@@ -33353,6 +33473,14 @@
       "onboard_time": 1739775739,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163114,
+      "num": 163114,
+      "word": "黄明昊薄荷曼波发色",
+      "onboard_time": 1739934801,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 163105,
@@ -42947,14 +43075,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 112092,
-      "num": 112092,
-      "word": "张凌赫 爸爸妈妈不要只看吻戏",
-      "onboard_time": 1739934080,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 112048,
       "num": 112048,
       "word": "泽连斯基称无法收回失地拟结束热战",
@@ -47835,6 +47955,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 74680,
+      "num": 291520,
+      "word": "美陆军巨额伙食费去向不明",
+      "onboard_time": 1739934441,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 74679,
       "num": 217021,
       "word": "后詹姆斯时代真要来了",
@@ -48785,14 +48913,6 @@
       "onboard_time": 1739678001,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 66135,
-      "num": 386900,
-      "word": "泽连斯基说俄美会谈令人吃惊",
-      "onboard_time": 1739933360,
-      "rank": 24,
-      "category": "国际时政"
     },
     {
       "raw_hot": 66123,
@@ -50467,6 +50587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 53909,
+      "num": 176215,
+      "word": "春天可以多吃的时令菜",
+      "onboard_time": 1739935581,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 53905,
       "num": 171447,
       "word": "赵小童忙里偷闲走马观花",
@@ -50841,6 +50969,14 @@
       "onboard_time": 1738754663,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51501,
+      "num": 225067,
+      "word": "业内称金价上行格局尚未打破",
+      "onboard_time": 1739934199,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 51499,

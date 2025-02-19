@@ -1,6 +1,6 @@
 {
   "startTime": 1739896170867,
-  "endTime": 1739934121184,
+  "endTime": 1739935786259,
   "band_list": [
     {
       "raw_hot": 2861674,
@@ -59,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1218406,
+      "num": 406721,
+      "word": "女子网购100克黄金收到一卷手纸",
+      "onboard_time": 1739933899,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1025261,
       "num": 606399,
       "word": "杨丞琳李荣浩是闷声干大事的人",
@@ -91,12 +99,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 897360,
+      "num": 897360,
+      "word": "张凌赫 爸爸妈妈不要只看吻戏",
+      "onboard_time": 1739934080,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 849067,
       "num": 914037,
       "word": "周星驰cos哪吒造型",
       "onboard_time": 1739884104,
       "rank": 6,
       "category": "艺人,电影"
+    },
+    {
+      "raw_hot": 821637,
+      "num": 821637,
+      "word": "韩国女学生跳车身亡八旬出租车司机无罪",
+      "onboard_time": 1739935100,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 816178,
+      "num": 405782,
+      "word": "马天宇卖汤圆",
+      "onboard_time": 1739932280,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 815217,
+      "num": 402249,
+      "word": "女子被丈夫灌面汤呛死家属发声",
+      "onboard_time": 1739932880,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 789038,
@@ -107,19 +147,27 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 763328,
+      "num": 763328,
+      "word": "男鬼桑延",
+      "onboard_time": 1739932699,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 655099,
+      "num": 655099,
+      "word": "特朗普严厉批评泽连斯基",
+      "onboard_time": 1739934321,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 588955,
       "num": 295875,
       "word": "刘楚恬演的桑稚",
       "onboard_time": 1739890282,
       "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 571848,
-      "num": 571848,
-      "word": "男鬼桑延",
-      "onboard_time": 1739932699,
-      "rank": 8,
       "category": "剧集"
     },
     {
@@ -144,14 +192,6 @@
       "word": "陈晓陈妍希离婚博坚持打卡1370天",
       "onboard_time": 1739890823,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 534760,
-      "num": 392376,
-      "word": "马天宇卖汤圆",
-      "onboard_time": 1739932280,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -211,20 +251,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 396814,
+      "num": 429084,
+      "word": "四川一地坝坝宴将不得用四季豆",
+      "onboard_time": 1739931620,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 387899,
       "num": 288837,
       "word": "陈晓陈妍希 1370天",
       "onboard_time": 1739910311,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 364473,
-      "num": 364473,
-      "word": "女子被丈夫灌面汤呛死家属发声",
-      "onboard_time": 1739932880,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 344046,
@@ -251,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 337764,
+      "num": 337764,
+      "word": "原来只有敖光是纯正龙族血统",
+      "onboard_time": 1739935040,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 337213,
       "num": 337213,
       "word": "泰国总理称中国女保镖在泰国也火了",
@@ -275,28 +323,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 311338,
-      "num": 429084,
-      "word": "四川一地坝坝宴将不得用四季豆",
-      "onboard_time": 1739931620,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 303727,
-      "num": 303727,
-      "word": "女子网购100克黄金收到一卷手纸",
-      "onboard_time": 1739933899,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 298766,
       "num": 259988,
       "word": "王嘉尔不再用经纪人的原因",
       "onboard_time": 1739877924,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 296083,
+      "num": 296083,
+      "word": "孙颖莎vs简彤娟",
+      "onboard_time": 1739934620,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 287738,
@@ -315,12 +355,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 282942,
+      "num": 282942,
+      "word": "金价",
+      "onboard_time": 1739934739,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 282587,
       "num": 393012,
       "word": "官方通报打车66公里被收800元",
       "onboard_time": 1739926102,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 279764,
+      "num": 386900,
+      "word": "泽连斯基说俄美会谈令人吃惊",
+      "onboard_time": 1739933360,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 272628,
+      "num": 412688,
+      "word": "2025高考时间公布",
+      "onboard_time": 1739934620,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 271431,
@@ -379,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 238101,
+      "num": 238101,
+      "word": "六姊妹二姐夫病逝",
+      "onboard_time": 1739935040,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 228337,
       "num": 201751,
       "word": "斯琴高丽与顾峰不存在夫妻关系",
@@ -425,6 +497,38 @@
       "onboard_time": 1739927839,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 215797,
+      "num": 215797,
+      "word": "江苏哪吒宝宝出生",
+      "onboard_time": 1739935221,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212423,
+      "num": 280606,
+      "word": "阴阳师",
+      "onboard_time": 1739928560,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 209640,
+      "num": 209640,
+      "word": "漫画难哄TOP级名场面还原",
+      "onboard_time": 1739935523,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 209422,
+      "num": 209422,
+      "word": "香椿120元一斤上架就被抢光",
+      "onboard_time": 1739935040,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 209087,
@@ -475,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198221,
+      "num": 198221,
+      "word": "黄杨钿甜17岁演了33部戏",
+      "onboard_time": 1739935343,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193775,
       "num": 193775,
       "word": "13岁女孩险被骗59万被支付宝拦截",
@@ -515,19 +627,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 178195,
-      "num": 178195,
-      "word": "阴阳师",
-      "onboard_time": 1739928560,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 174728,
       "num": 174728,
       "word": "王大陆保释后没道歉",
       "onboard_time": 1739871683,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 173644,
+      "num": 173644,
+      "word": "张钧甯超大素颜特写",
+      "onboard_time": 1739935343,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -539,11 +651,35 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 169818,
+      "num": 169818,
+      "word": "苦药亦是药",
+      "onboard_time": 1739934321,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 164768,
+      "num": 164768,
+      "word": "Grok3翻车了",
+      "onboard_time": 1739935401,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 163271,
       "num": 163271,
       "word": "留几手演戏",
       "onboard_time": 1739894419,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 163114,
+      "num": 163114,
+      "word": "黄明昊薄荷曼波发色",
+      "onboard_time": 1739934801,
+      "rank": 47,
       "category": "艺人"
     },
     {
@@ -739,14 +875,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 112092,
-      "num": 112092,
-      "word": "张凌赫 爸爸妈妈不要只看吻戏",
-      "onboard_time": 1739934080,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 111706,
       "num": 258830,
       "word": "杨丞琳说永远支持陈妍希",
@@ -851,6 +979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74680,
+      "num": 291520,
+      "word": "美陆军巨额伙食费去向不明",
+      "onboard_time": 1739934441,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 73737,
       "num": 73737,
       "word": "张宥浩你确实有点冒昧多余了",
@@ -865,14 +1001,6 @@
       "onboard_time": 1739921297,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 66135,
-      "num": 386900,
-      "word": "泽连斯基说俄美会谈令人吃惊",
-      "onboard_time": 1739933360,
-      "rank": 24,
-      "category": "国际时政"
     },
     {
       "raw_hot": 64995,
@@ -897,6 +1025,22 @@
       "onboard_time": 1739896996,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53909,
+      "num": 176215,
+      "word": "春天可以多吃的时令菜",
+      "onboard_time": 1739935581,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 51501,
+      "num": 225067,
+      "word": "业内称金价上行格局尚未打破",
+      "onboard_time": 1739934199,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 49443,
@@ -1107,20 +1251,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 10427,
+      "num": 1024353,
+      "word": "中国式现代化的万千气象海南行",
+      "onboard_time": 1739782103,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 9504,
       "num": 191694,
       "word": "苏翊鸣说谢谢大家的支持与爱",
       "onboard_time": 1739892383,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 8942,
-      "num": 1024353,
-      "word": "中国式现代化的万千气象海南行",
-      "onboard_time": 1739782103,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 8810,
