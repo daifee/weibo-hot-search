@@ -1,6 +1,6 @@
 {
   "startTime": 1739896170867,
-  "endTime": 1739935786259,
+  "endTime": 1739936672148,
   "band_list": [
     {
       "raw_hot": 2861674,
@@ -17,6 +17,14 @@
       "onboard_time": 1739926282,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 2098913,
+      "num": 2098913,
+      "word": "韩国女学生跳车身亡八旬出租车司机无罪",
+      "onboard_time": 1739935100,
+      "rank": 4,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1622921,
@@ -60,11 +68,27 @@
     },
     {
       "raw_hot": 1218406,
-      "num": 406721,
+      "num": 506537,
       "word": "女子网购100克黄金收到一卷手纸",
       "onboard_time": 1739933899,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1116515,
+      "num": 1116515,
+      "word": "特朗普严厉批评泽连斯基",
+      "onboard_time": 1739934321,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1036510,
+      "num": 1036510,
+      "word": "张凌赫 爸爸妈妈不要只看吻戏",
+      "onboard_time": 1739934080,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 1025261,
@@ -91,20 +115,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1003999,
+      "num": 1003999,
+      "word": "哪吒2延长上映至3月30日",
+      "onboard_time": 1739935941,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 938022,
       "num": 484405,
       "word": "台媒称王大陆兵役逃了10年",
       "onboard_time": 1739917452,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 897360,
-      "num": 897360,
-      "word": "张凌赫 爸爸妈妈不要只看吻戏",
-      "onboard_time": 1739934080,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 849067,
@@ -115,16 +139,8 @@
       "category": "艺人,电影"
     },
     {
-      "raw_hot": 821637,
-      "num": 821637,
-      "word": "韩国女学生跳车身亡八旬出租车司机无罪",
-      "onboard_time": 1739935100,
-      "rank": 4,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 816178,
-      "num": 405782,
+      "num": 489729,
       "word": "马天宇卖汤圆",
       "onboard_time": 1739932280,
       "rank": 15,
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 815217,
-      "num": 402249,
+      "num": 481254,
       "word": "女子被丈夫灌面汤呛死家属发声",
       "onboard_time": 1739932880,
       "rank": 21,
@@ -153,14 +169,6 @@
       "onboard_time": 1739932699,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 655099,
-      "num": 655099,
-      "word": "特朗普严厉批评泽连斯基",
-      "onboard_time": 1739934321,
-      "rank": 6,
-      "category": "国际时政"
     },
     {
       "raw_hot": 588955,
@@ -203,6 +211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 515064,
+      "num": 515064,
+      "word": "2025高考时间公布",
+      "onboard_time": 1739934620,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 504771,
       "num": 504771,
       "word": "杨紫西班牙记录",
@@ -219,12 +235,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 465157,
+      "num": 465157,
+      "word": "孙颖莎vs简彤娟",
+      "onboard_time": 1739934620,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 461653,
       "num": 389540,
       "word": "冲着霸王茶姬投资几十万结果没关联",
       "onboard_time": 1739928140,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 452733,
+      "num": 452733,
+      "word": "江苏哪吒宝宝出生",
+      "onboard_time": 1739935221,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 444468,
+      "num": 444468,
+      "word": "原来只有敖光是纯正龙族血统",
+      "onboard_time": 1739935040,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 434352,
@@ -267,6 +307,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 382697,
+      "num": 382697,
+      "word": "黄杨钿甜17岁演了33部戏",
+      "onboard_time": 1739935343,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 366178,
+      "num": 366178,
+      "word": "金价",
+      "onboard_time": 1739934739,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 344046,
       "num": 344046,
       "word": "哪吒2香港首映礼含星量",
@@ -289,14 +345,6 @@
       "onboard_time": 1739920938,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 337764,
-      "num": 337764,
-      "word": "原来只有敖光是纯正龙族血统",
-      "onboard_time": 1739935040,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 337213,
@@ -331,12 +379,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 296083,
-      "num": 296083,
-      "word": "孙颖莎vs简彤娟",
-      "onboard_time": 1739934620,
-      "rank": 18,
-      "category": "体育"
+      "raw_hot": 290311,
+      "num": 290311,
+      "word": "六姊妹二姐夫病逝",
+      "onboard_time": 1739935040,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 287738,
@@ -355,14 +403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 282942,
-      "num": 282942,
-      "word": "金价",
-      "onboard_time": 1739934739,
-      "rank": 23,
-      "category": "财经"
-    },
-    {
       "raw_hot": 282587,
       "num": 393012,
       "word": "官方通报打车66公里被收800元",
@@ -377,14 +417,6 @@
       "onboard_time": 1739933360,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 272628,
-      "num": 412688,
-      "word": "2025高考时间公布",
-      "onboard_time": 1739934620,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 271431,
@@ -409,6 +441,14 @@
       "onboard_time": 1739926161,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 266866,
+      "num": 266866,
+      "word": "香椿120元一斤上架就被抢光",
+      "onboard_time": 1739935040,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 264662,
@@ -443,12 +483,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 238101,
-      "num": 238101,
-      "word": "六姊妹二姐夫病逝",
-      "onboard_time": 1739935040,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 230841,
+      "num": 230841,
+      "word": "漫画难哄TOP级名场面还原",
+      "onboard_time": 1739935523,
+      "rank": 33,
+      "category": "动漫"
     },
     {
       "raw_hot": 228337,
@@ -499,11 +539,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 215797,
-      "num": 215797,
-      "word": "江苏哪吒宝宝出生",
-      "onboard_time": 1739935221,
-      "rank": 32,
+      "raw_hot": 213655,
+      "num": 213655,
+      "word": "儿子开会摸鱼被父亲眼神封印",
+      "onboard_time": 1739935882,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -513,22 +553,6 @@
       "onboard_time": 1739928560,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 209640,
-      "num": 209640,
-      "word": "漫画难哄TOP级名场面还原",
-      "onboard_time": 1739935523,
-      "rank": 33,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 209422,
-      "num": 209422,
-      "word": "香椿120元一斤上架就被抢光",
-      "onboard_time": 1739935040,
-      "rank": 34,
-      "category": "美食"
     },
     {
       "raw_hot": 209087,
@@ -571,19 +595,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 202537,
+      "num": 202537,
+      "word": "林高远亚洲杯宣誓",
+      "onboard_time": 1739935941,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201780,
       "num": 201780,
       "word": "怎么刘诗诗就越演越轻盈",
       "onboard_time": 1739894180,
       "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 198221,
-      "num": 198221,
-      "word": "黄杨钿甜17岁演了33部戏",
-      "onboard_time": 1739935343,
-      "rank": 36,
       "category": "剧集"
     },
     {
@@ -603,6 +627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191605,
+      "num": 191605,
+      "word": "张钧甯超大素颜特写",
+      "onboard_time": 1739935343,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190287,
       "num": 190287,
       "word": "胡歌想再多活几年陪伴女儿",
@@ -616,6 +648,22 @@
       "word": "中年雄竞的风吹到了国产剧",
       "onboard_time": 1739931260,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 184639,
+      "num": 291520,
+      "word": "美陆军巨额伙食费去向不明",
+      "onboard_time": 1739934441,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 179998,
+      "num": 179998,
+      "word": "于正说五福临门或拍续集",
+      "onboard_time": 1739936302,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -635,12 +683,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 173644,
-      "num": 173644,
-      "word": "张钧甯超大素颜特写",
-      "onboard_time": 1739935343,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 171772,
+      "num": 171772,
+      "word": "Grok3翻车了",
+      "onboard_time": 1739935401,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 170300,
@@ -657,14 +705,6 @@
       "onboard_time": 1739934321,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 164768,
-      "num": 164768,
-      "word": "Grok3翻车了",
-      "onboard_time": 1739935401,
-      "rank": 46,
-      "category": "互联网"
     },
     {
       "raw_hot": 163271,
@@ -689,6 +729,14 @@
       "onboard_time": 1739866042,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161187,
+      "num": 514432,
+      "word": "孙颖莎3比0简彤娟",
+      "onboard_time": 1739936120,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 159827,
@@ -947,6 +995,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 84748,
+      "num": 301127,
+      "word": "DOTA2",
+      "onboard_time": 1739936120,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 80898,
       "num": 100000,
       "word": "嘉许哥想你了",
@@ -979,14 +1035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74680,
-      "num": 291520,
-      "word": "美陆军巨额伙食费去向不明",
-      "onboard_time": 1739934441,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 73737,
       "num": 73737,
       "word": "张宥浩你确实有点冒昧多余了",
@@ -1001,6 +1049,14 @@
       "onboard_time": 1739921297,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 69751,
+      "num": 181421,
+      "word": "春天可以多吃的时令菜",
+      "onboard_time": 1739935581,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 64995,
@@ -1025,14 +1081,6 @@
       "onboard_time": 1739896996,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 53909,
-      "num": 176215,
-      "word": "春天可以多吃的时令菜",
-      "onboard_time": 1739935581,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 51501,
@@ -1121,6 +1169,14 @@
       "onboard_time": 1739904732,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 28281,
+      "num": 469117,
+      "word": "雷军称中国企业合作形成了一个生态",
+      "onboard_time": 1739936181,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 28154,
@@ -1252,7 +1308,7 @@
     },
     {
       "raw_hot": 10427,
-      "num": 1024353,
+      "num": 1180854,
       "word": "中国式现代化的万千气象海南行",
       "onboard_time": 1739782103,
       "rank": 2,
