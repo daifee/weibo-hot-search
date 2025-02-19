@@ -1,10 +1,10 @@
 {
   "startTime": 1739896170867,
-  "endTime": 1739974918015,
+  "endTime": 1739976030873,
   "band_list": [
     {
-      "raw_hot": 3552315,
-      "num": 3552315,
+      "raw_hot": 3828682,
+      "num": 3828682,
       "word": "导演郑某峰涉嫌猥亵儿童被刑拘",
       "onboard_time": 1739972602,
       "rank": 0,
@@ -179,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1320753,
+      "num": 1320753,
+      "word": "我承认对难哄大声了一点",
+      "onboard_time": 1739969841,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1318208,
       "num": 492788,
       "word": "美团将为所有骑手缴纳社保",
@@ -288,14 +296,6 @@
       "word": "张凌赫 爸爸妈妈不要只看吻戏",
       "onboard_time": 1739934080,
       "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 1036393,
-      "num": 1036393,
-      "word": "我承认对难哄大声了一点",
-      "onboard_time": 1739969841,
-      "rank": 24,
       "category": "剧集"
     },
     {
@@ -475,7 +475,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 678601,
+      "raw_hot": 701504,
       "num": 678601,
       "word": "哪吒2破125亿",
       "onboard_time": 1739970081,
@@ -811,6 +811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 389934,
+      "num": 389934,
+      "word": "王楚钦大心脏",
+      "onboard_time": 1739974703,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 387899,
       "num": 288837,
       "word": "陈晓陈妍希 1370天",
@@ -851,6 +859,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 379097,
+      "num": 379097,
+      "word": "昀牵孟绕",
+      "onboard_time": 1739975603,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 375935,
+      "num": 375935,
+      "word": "孟子义攒了几部剧没播",
+      "onboard_time": 1739971343,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 365614,
       "num": 469051,
       "word": "王珞丹素颜朝天辫",
@@ -873,6 +897,14 @@
       "onboard_time": 1739960602,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 349183,
+      "num": 321608,
+      "word": "女子戴耳环不摘耳垂长出葡萄瘤",
+      "onboard_time": 1739974523,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 344046,
@@ -907,6 +939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 338903,
+      "num": 320260,
+      "word": "眼科医生给高度近视的20个建议",
+      "onboard_time": 1739972423,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 338506,
       "num": 338506,
       "word": "白敬亭谁教你们这么剪转场的",
@@ -921,14 +961,6 @@
       "onboard_time": 1739888663,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 332967,
-      "num": 332967,
-      "word": "孟子义攒了几部剧没播",
-      "onboard_time": 1739971343,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 330588,
@@ -977,14 +1009,6 @@
       "onboard_time": 1739962761,
       "rank": 42,
       "category": "美食"
-    },
-    {
-      "raw_hot": 308191,
-      "num": 308191,
-      "word": "眼科医生给高度近视的20个建议",
-      "onboard_time": 1739972423,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 307930,
@@ -1041,6 +1065,22 @@
       "onboard_time": 1739852005,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 287056,
+      "num": 287056,
+      "word": "金价一夜暴涨12元",
+      "onboard_time": 1739974224,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 286728,
+      "num": 286728,
+      "word": "王楚钦开门红",
+      "onboard_time": 1739973924,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 285387,
@@ -1171,6 +1211,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 265570,
+      "num": 270167,
+      "word": "七旬老人动迁分4套房卖了16次",
+      "onboard_time": 1739974942,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 264662,
       "num": 264662,
       "word": "美俄将任命谈判团队结束乌克兰冲突",
@@ -1243,6 +1291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 247675,
+      "num": 247675,
+      "word": "红房子13集 封神",
+      "onboard_time": 1739975241,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246813,
       "num": 341073,
       "word": "39岁医学博士娄华勇去世",
@@ -1257,6 +1313,14 @@
       "onboard_time": 1739948479,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 245606,
+      "num": 245606,
+      "word": "好一个乖乖女",
+      "onboard_time": 1739971222,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 245282,
@@ -1377,14 +1441,6 @@
       "onboard_time": 1739972543,
       "rank": 36,
       "category": "民生新闻,母婴育儿"
-    },
-    {
-      "raw_hot": 236121,
-      "num": 236121,
-      "word": "好一个乖乖女",
-      "onboard_time": 1739971222,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 235944,
@@ -1571,14 +1627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 214497,
-      "num": 214497,
-      "word": "金价一夜暴涨12元",
-      "onboard_time": 1739974224,
-      "rank": 42,
-      "category": "财经"
-    },
-    {
       "raw_hot": 212423,
       "num": 280606,
       "word": "阴阳师",
@@ -1593,6 +1641,14 @@
       "onboard_time": 1739939182,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209828,
+      "num": 209828,
+      "word": "英雄联盟",
+      "onboard_time": 1739967920,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 209593,
@@ -1625,14 +1681,6 @@
       "onboard_time": 1739949259,
       "rank": 41,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 209026,
-      "num": 209026,
-      "word": "英雄联盟",
-      "onboard_time": 1739967920,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 208860,
@@ -1835,6 +1883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196430,
+      "num": 196430,
+      "word": "爱奇艺会员收入降13%",
+      "onboard_time": 1739975543,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 196403,
       "num": 196403,
       "word": "王楚钦首局14比12",
@@ -1931,6 +1987,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 181950,
+      "num": 181950,
+      "word": "上海海港vs横滨水手",
+      "onboard_time": 1739975782,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181892,
       "num": 181892,
       "word": "郑钦文迪拜站出局",
@@ -1939,12 +2003,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 181343,
-      "num": 181343,
-      "word": "女子戴耳环不摘耳垂长出葡萄瘤",
-      "onboard_time": 1739974523,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 180174,
+      "num": 333832,
+      "word": "周雨采访王楚钦",
+      "onboard_time": 1739974762,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 179998,
@@ -1995,20 +2059,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176579,
+      "num": 176579,
+      "word": "哪吒2官方登顶海报",
+      "onboard_time": 1739974523,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 174728,
       "num": 174728,
       "word": "王大陆保释后没道歉",
       "onboard_time": 1739871683,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 172449,
-      "num": 342497,
-      "word": "王楚钦大心脏",
-      "onboard_time": 1739974703,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 171888,
@@ -2315,6 +2379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147431,
+      "num": 147431,
+      "word": "李某某当庭否认殴打妻子灌面汤",
+      "onboard_time": 1739975962,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144978,
       "num": 269942,
       "word": "王者荣耀",
@@ -2449,6 +2521,14 @@
       "onboard_time": 1739942360,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127256,
+      "num": 522523,
+      "word": "哪吒2全片参与人数是哪吒1的两三倍",
+      "onboard_time": 1739974043,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 126691,
@@ -2731,6 +2811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95199,
+      "num": 378009,
+      "word": "街道招聘环卫工不超35岁已有人应聘",
+      "onboard_time": 1739974762,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92454,
       "num": 508862,
       "word": "饺子的作品里充满了星爷情怀",
@@ -2785,6 +2873,14 @@
       "onboard_time": 1739963480,
       "rank": 19,
       "category": "科学科普,电影"
+    },
+    {
+      "raw_hot": 86973,
+      "num": 247965,
+      "word": "严浩翔变身手工达人",
+      "onboard_time": 1739974881,
+      "rank": 34,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 84937,
@@ -2955,12 +3051,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 71892,
-      "num": 333832,
-      "word": "周雨采访王楚钦",
-      "onboard_time": 1739974762,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 70550,
+      "num": 273305,
+      "word": "顺风车司机以扔猫威胁主人打钱",
+      "onboard_time": 1739975241,
+      "rank": 28,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 70519,
@@ -3139,6 +3235,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 45566,
+      "num": 477936,
+      "word": "加沙冲突等热点不应被边缘化",
+      "onboard_time": 1739974582,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 42091,
       "num": 135283,
       "word": "郭艾伦受伤在场球员都很自责",
@@ -3153,14 +3257,6 @@
       "onboard_time": 1739954061,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 40789,
-      "num": 247965,
-      "word": "严浩翔变身手工达人",
-      "onboard_time": 1739974881,
-      "rank": 34,
-      "category": "艺人,综艺"
     },
     {
       "raw_hot": 38682,
@@ -3211,14 +3307,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 33961,
-      "num": 522523,
-      "word": "哪吒2全片参与人数是哪吒1的两三倍",
-      "onboard_time": 1739974043,
-      "rank": 12,
-      "category": "电影"
-    },
-    {
       "raw_hot": 33676,
       "num": 136936,
       "word": "林高远代表运动员宣誓",
@@ -3265,22 +3353,6 @@
       "onboard_time": 1739904732,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 28977,
-      "num": 378009,
-      "word": "街道招聘环卫工不超35岁已有人应聘",
-      "onboard_time": 1739974762,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28903,
-      "num": 424474,
-      "word": "加沙冲突等热点不应被边缘化",
-      "onboard_time": 1739974582,
-      "rank": 17,
-      "category": "国际时政"
     },
     {
       "raw_hot": 28414,
@@ -3609,6 +3681,9 @@
     },
     {
       "word": "#总书记为民营企业鼓劲#"
+    },
+    {
+      "word": "#感悟总书记对民企发展的关怀#"
     }
   ]
 }
