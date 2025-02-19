@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739954574025,
+  "endTime": 1739957044656,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -241,6 +241,14 @@
       "onboard_time": 1739873723,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2260410,
+      "num": 2260410,
+      "word": "没人会在35岁突然丧失工作能力",
+      "onboard_time": 1739953642,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2205164,
@@ -787,6 +795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1211191,
+      "num": 1211191,
+      "word": "温以凡 明艳大美女",
+      "onboard_time": 1739954961,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1209573,
       "num": 1209573,
       "word": "难哄剧情 无聊",
@@ -923,6 +939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1058973,
+      "num": 1058973,
+      "word": "2032年小行星撞击地球概率已升至3.1%",
+      "onboard_time": 1739952681,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1051486,
       "num": 392576,
       "word": "哪吒2破115亿",
@@ -1056,6 +1080,14 @@
       "word": "饺子导演原来是周星驰的迷弟",
       "onboard_time": 1739886923,
       "rank": 23,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 974568,
+      "num": 910085,
+      "word": "哪吒2外网首批口碑",
+      "onboard_time": 1739953041,
+      "rank": 20,
       "category": "电影"
     },
     {
@@ -1281,6 +1313,14 @@
       "onboard_time": 1739934620,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 830041,
+      "num": 830041,
+      "word": "缅北明家犯罪集团主案一审开庭",
+      "onboard_time": 1739953642,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 827598,
@@ -1579,6 +1619,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 717692,
+      "num": 717692,
+      "word": "杨洋章若楠杀青合照",
+      "onboard_time": 1739955201,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 713185,
       "num": 713185,
       "word": "最接近刘翔的运动员出现了",
@@ -1625,14 +1673,6 @@
       "onboard_time": 1739753841,
       "rank": 5,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 676225,
-      "num": 473309,
-      "word": "哪吒2外网首批口碑",
-      "onboard_time": 1739953041,
-      "rank": 20,
-      "category": "电影"
     },
     {
       "raw_hot": 674809,
@@ -1849,6 +1889,14 @@
       "onboard_time": 1739756178,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 613365,
+      "num": 391957,
+      "word": "金赛纶亲自走访57家遭遇损失店铺",
+      "onboard_time": 1739953101,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 608663,
@@ -2891,14 +2939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 403283,
-      "num": 374071,
-      "word": "金赛纶亲自走访57家遭遇损失店铺",
-      "onboard_time": 1739953101,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 403230,
       "num": 315584,
       "word": "哪吒2票房超116亿",
@@ -2961,14 +3001,6 @@
       "onboard_time": 1739889024,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 394722,
-      "num": 394722,
-      "word": "2032年小行星撞击地球概率已升至3.1%",
-      "onboard_time": 1739952681,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 393396,
@@ -3057,6 +3089,14 @@
       "onboard_time": 1739855001,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 380473,
+      "num": 380473,
+      "word": "23人涉赌诈百亿元致14名中国公民死亡",
+      "onboard_time": 1739954481,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 380283,
@@ -3195,6 +3235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 365601,
+      "num": 470298,
+      "word": "官方通报孕妇被行李箱砸中致早产",
+      "onboard_time": 1739954000,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 365349,
       "num": 365349,
       "word": "男子花6万5被中介骗去德国打黑工",
@@ -3291,14 +3339,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 355229,
-      "num": 460478,
-      "word": "缅北明家犯罪集团主案一审开庭",
-      "onboard_time": 1739953642,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 353768,
       "num": 369335,
       "word": "谁参加了这场最高规格的座谈会",
@@ -3385,14 +3425,6 @@
       "onboard_time": 1739790319,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 344426,
-      "num": 344426,
-      "word": "没人会在35岁突然丧失工作能力",
-      "onboard_time": 1739953642,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 344312,
@@ -4131,6 +4163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 272157,
+      "num": 435274,
+      "word": "被行李箱砸中致早产孕妇发声",
+      "onboard_time": 1739953823,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 270797,
       "num": 270797,
       "word": "湖南卫视惊喜重映哪吒闹海",
@@ -4619,6 +4659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245282,
+      "num": 245282,
+      "word": "旅客将行李箱放置行李架隔断致掉落",
+      "onboard_time": 1739955741,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 245235,
       "num": 273701,
       "word": "在河北博物院找到了七色宝莲",
@@ -4827,6 +4875,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 234953,
+      "num": 234953,
+      "word": "DeepSeek正成为恋爱军师",
+      "onboard_time": 1739952081,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 233706,
       "num": 494378,
       "word": "罗福莉为DeepSeek创始人名下企业合伙人",
@@ -4905,6 +4961,14 @@
       "onboard_time": 1739770280,
       "rank": 35,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 230482,
+      "num": 230482,
+      "word": "难哄 悬浮",
+      "onboard_time": 1739954301,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 229827,
@@ -5075,6 +5139,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 220945,
+      "num": 220945,
+      "word": "易烊千玺刘春和外网零帧起手",
+      "onboard_time": 1739956341,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 220760,
       "num": 220760,
       "word": "DeepSeek引发连锁反应",
@@ -5203,6 +5275,14 @@
       "category": "国际时政,国际时政"
     },
     {
+      "raw_hot": 217229,
+      "num": 217229,
+      "word": "39岁医学博士娄华勇去世",
+      "onboard_time": 1739955860,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 217208,
       "num": 217208,
       "word": "抗癌博主晟宝去世母亲发声",
@@ -5273,6 +5353,14 @@
       "onboard_time": 1739667558,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 215224,
+      "num": 215224,
+      "word": "孕妇被行李箱砸中致早产情况说明",
+      "onboard_time": 1739955920,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 214871,
@@ -5465,6 +5553,14 @@
       "onboard_time": 1739767041,
       "rank": 46,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 208415,
+      "num": 208415,
+      "word": "朴春称表白李敏镐帖子是公司删的",
+      "onboard_time": 1739954722,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 208400,
@@ -5883,6 +5979,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 198199,
+      "num": 198199,
+      "word": "NASA称2032年将出现最危险太空岩石",
+      "onboard_time": 1739956462,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198085,
       "num": 198085,
       "word": "刘浩存文淇柏林互动好甜",
@@ -6107,14 +6211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 191716,
-      "num": 191716,
-      "word": "DeepSeek正成为恋爱军师",
-      "onboard_time": 1739952081,
-      "rank": 36,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 191512,
       "num": 191512,
       "word": "雷军",
@@ -6203,20 +6299,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188897,
-      "num": 188897,
-      "word": "难哄 悬浮",
-      "onboard_time": 1739954301,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 188342,
       "num": 424170,
       "word": "官方辟谣小学老师因末位淘汰轻生",
       "onboard_time": 1739862866,
       "rank": 10,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 188297,
+      "num": 188297,
+      "word": "工作单位回应39岁博士疑被灌酒去世",
+      "onboard_time": 1739955141,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 188005,
@@ -6320,14 +6416,6 @@
       "word": "女生许愿男友永不出轨蜡烛吹不灭",
       "onboard_time": 1739697738,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 184158,
-      "num": 470298,
-      "word": "官方通报孕妇被行李箱砸中致早产",
-      "onboard_time": 1739954000,
-      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -6547,6 +6635,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 178769,
+      "num": 942462,
+      "word": "我国自研机器人实现重要技术突破",
+      "onboard_time": 1739952982,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178542,
       "num": 178542,
       "word": "李羲承进行曲",
@@ -6577,6 +6673,14 @@
       "onboard_time": 1739952561,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177138,
+      "num": 177138,
+      "word": "网友晒与白鹿十年前合照",
+      "onboard_time": 1739957000,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 177029,
@@ -6683,6 +6787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 171888,
+      "num": 355911,
+      "word": "邓为候场坐得比我上课还笔直",
+      "onboard_time": 1739956641,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171772,
       "num": 171772,
       "word": "Grok3翻车了",
@@ -6761,6 +6873,14 @@
       "onboard_time": 1739925502,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 169902,
+      "num": 350278,
+      "word": "别墅月租1万因漏水退租要交7万",
+      "onboard_time": 1739955741,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169894,
@@ -7225,14 +7345,6 @@
       "onboard_time": 1739667137,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 155872,
-      "num": 942462,
-      "word": "我国自研机器人实现重要技术突破",
-      "onboard_time": 1739952982,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 155726,
@@ -7811,14 +7923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141161,
-      "num": 435274,
-      "word": "被行李箱砸中致早产孕妇发声",
-      "onboard_time": 1739953823,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 141104,
       "num": 141104,
       "word": "福宝浑身都是笋",
@@ -8113,14 +8217,6 @@
       "onboard_time": 1739625681,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 132266,
-      "num": 256240,
-      "word": "23人涉赌诈百亿元致14名中国公民死亡",
-      "onboard_time": 1739954481,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131979,
@@ -8747,6 +8843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114612,
+      "num": 209466,
+      "word": "许昕班味好重",
+      "onboard_time": 1739955800,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114471,
       "num": 210131,
       "word": "仙剑世界首发",
@@ -8945,6 +9049,14 @@
       "onboard_time": 1739874622,
       "rank": 21,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 106407,
+      "num": 232657,
+      "word": "第五人格",
+      "onboard_time": 1739955201,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 106364,
@@ -9779,6 +9891,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 75091,
+      "num": 364517,
+      "word": "律师解读火车行李坠落致孕妇早产",
+      "onboard_time": 1739956641,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75090,
       "num": 359362,
       "word": "吴汉坤封神路演用deepseek写软件",
@@ -9833,6 +9953,14 @@
       "onboard_time": 1739640435,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 72666,
+      "num": 189115,
+      "word": "看似随意实则养生的6个动作",
+      "onboard_time": 1739955680,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 72585,
@@ -10635,6 +10763,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 43499,
+      "num": 366092,
+      "word": "去年全球4次成功预警小行星撞地球",
+      "onboard_time": 1739956040,
+      "rank": 14,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 42773,
       "num": 240914,
       "word": "哪吒片尾字幕里藏着4000多名匠人",
@@ -10809,6 +10945,14 @@
       "onboard_time": 1739860410,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 35125,
+      "num": 361099,
+      "word": "招环卫工不超35岁别给职场门槛加码",
+      "onboard_time": 1739956221,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34503,
@@ -11081,6 +11225,14 @@
       "onboard_time": 1739941462,
       "rank": 29,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 24744,
+      "num": 225070,
+      "word": "WTT重庆冠军赛门票已售罄",
+      "onboard_time": 1739955680,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 24466,
