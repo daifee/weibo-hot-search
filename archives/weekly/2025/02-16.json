@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1739936672148,
+  "endTime": 1739939304952,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -211,12 +211,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2432034,
+      "num": 2432034,
+      "word": "韩国女学生跳车身亡八旬出租车司机无罪",
+      "onboard_time": 1739935100,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 2354462,
       "num": 289802,
       "word": "陈妍希只有生日才敢叫陈晓出去吃饭",
       "onboard_time": 1739873723,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2205164,
+      "num": 2205164,
+      "word": "哪吒2延长上映至3月30日",
+      "onboard_time": 1739935941,
+      "rank": 5,
+      "category": "电影"
     },
     {
       "raw_hot": 2200902,
@@ -241,14 +257,6 @@
       "onboard_time": 1739794760,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2098913,
-      "num": 2098913,
-      "word": "韩国女学生跳车身亡八旬出租车司机无罪",
-      "onboard_time": 1739935100,
-      "rank": 4,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 2026977,
@@ -531,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1406825,
+      "num": 1406825,
+      "word": "金价",
+      "onboard_time": 1739666959,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1388627,
       "num": 1104355,
       "word": "金赛纶被曝生前重度抑郁",
@@ -692,7 +708,7 @@
     },
     {
       "raw_hot": 1218406,
-      "num": 506537,
+      "num": 613287,
       "word": "女子网购100克黄金收到一卷手纸",
       "onboard_time": 1739933899,
       "rank": 22,
@@ -859,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1039975,
+      "num": 1039975,
+      "word": "马库斯揭露触目惊心的黄浦江尸体照片",
+      "onboard_time": 1739937082,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1036510,
       "num": 1036510,
       "word": "张凌赫 爸爸妈妈不要只看吻戏",
@@ -891,12 +915,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1024048,
+      "num": 664478,
+      "word": "江苏哪吒宝宝出生",
+      "onboard_time": 1739935221,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1010385,
       "num": 625184,
       "word": "金赛纶死亡现场没有遗书",
       "onboard_time": 1739769380,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1009818,
+      "num": 1009818,
+      "word": "74岁老人服用纯中药抗癌汤肿瘤消失",
+      "onboard_time": 1739938340,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1009373,
@@ -913,14 +953,6 @@
       "onboard_time": 1739851165,
       "rank": 24,
       "category": "电影,财经"
-    },
-    {
-      "raw_hot": 1003999,
-      "num": 1003999,
-      "word": "哪吒2延长上映至3月30日",
-      "onboard_time": 1739935941,
-      "rank": 5,
-      "category": "电影"
     },
     {
       "raw_hot": 1002600,
@@ -1169,6 +1201,14 @@
       "onboard_time": 1739810358,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 830633,
+      "num": 830633,
+      "word": "2025高考时间公布",
+      "onboard_time": 1739934620,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 827598,
@@ -1979,6 +2019,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 533738,
+      "num": 533738,
+      "word": "原来只有敖光是纯正龙族血统",
+      "onboard_time": 1739935040,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 533067,
       "num": 382399,
       "word": "林孝埈说我是中国人",
@@ -2041,14 +2089,6 @@
       "onboard_time": 1739867242,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 515064,
-      "num": 515064,
-      "word": "2025高考时间公布",
-      "onboard_time": 1739934620,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 515012,
@@ -2185,6 +2225,14 @@
       "onboard_time": 1739926161,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 482776,
+      "num": 482776,
+      "word": "金巧巧发千字长文回应黑粉",
+      "onboard_time": 1739937681,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 482128,
@@ -2363,14 +2411,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 452733,
-      "num": 452733,
-      "word": "江苏哪吒宝宝出生",
-      "onboard_time": 1739935221,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 452655,
       "num": 452655,
       "word": "解放军回应菲飞机非法闯入中国领空",
@@ -2425,14 +2465,6 @@
       "onboard_time": 1739701339,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 444468,
-      "num": 444468,
-      "word": "原来只有敖光是纯正龙族血统",
-      "onboard_time": 1739935040,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 443941,
@@ -2795,6 +2827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 383477,
+      "num": 382697,
+      "word": "黄杨钿甜17岁演了33部戏",
+      "onboard_time": 1739935343,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 383122,
       "num": 383122,
       "word": "难哄 重庆",
@@ -2803,12 +2843,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 382697,
-      "num": 382697,
-      "word": "黄杨钿甜17岁演了33部戏",
-      "onboard_time": 1739935343,
-      "rank": 36,
-      "category": "剧集"
+      "raw_hot": 380283,
+      "num": 380283,
+      "word": "金赛纶今天出殡",
+      "onboard_time": 1739937502,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 379334,
@@ -2929,14 +2969,6 @@
       "onboard_time": 1739687359,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 366178,
-      "num": 366178,
-      "word": "金价",
-      "onboard_time": 1739666959,
-      "rank": 8,
-      "category": "财经"
     },
     {
       "raw_hot": 365349,
@@ -3963,6 +3995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 262087,
+      "num": 262087,
+      "word": "江苏一龙凤胎出生时自带结界",
+      "onboard_time": 1739938763,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 261178,
       "num": 261178,
       "word": "魏晨擦防晒只用擦额头",
@@ -4155,6 +4195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250785,
+      "num": 250784,
+      "word": "比白磷还易燃的生物出现了",
+      "onboard_time": 1739937443,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 249853,
       "num": 442178,
       "word": "申小豹一口辣条音可爱爆了",
@@ -4275,6 +4323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 241032,
+      "num": 241032,
+      "word": "张钧甯超大素颜特写",
+      "onboard_time": 1739935343,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240707,
       "num": 424697,
       "word": "棋牌室扰民老板说给业主装隔音棉",
@@ -4353,6 +4409,14 @@
       "onboard_time": 1739881704,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 235944,
+      "num": 235944,
+      "word": "儿子开会摸鱼被父亲眼神封印",
+      "onboard_time": 1739935882,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 235273,
@@ -4473,6 +4537,14 @@
       "onboard_time": 1739894061,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224869,
+      "num": 250785,
+      "word": "网友涂鸦申公豹老人称会吓到孩子",
+      "onboard_time": 1739938402,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 224833,
@@ -4755,6 +4827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 215920,
+      "num": 215920,
+      "word": "张馨予用AI变装敖闰",
+      "onboard_time": 1739936662,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 215889,
       "num": 260312,
       "word": "苏炳添全运年首秀夺冠",
@@ -4777,6 +4857,14 @@
       "onboard_time": 1739667558,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 215047,
+      "num": 215047,
+      "word": "白敬亭谁教你们这么剪转场的",
+      "onboard_time": 1739937742,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 214871,
@@ -4817,14 +4905,6 @@
       "onboard_time": 1739757618,
       "rank": 32,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 213655,
-      "num": 213655,
-      "word": "儿子开会摸鱼被父亲眼神封印",
-      "onboard_time": 1739935882,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 213240,
@@ -4881,6 +4961,14 @@
       "onboard_time": 1739781741,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 211518,
+      "num": 211518,
+      "word": "被杀女幼师曾与凶手缠斗",
+      "onboard_time": 1739938642,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 210502,
@@ -5331,6 +5419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 197623,
+      "num": 197623,
+      "word": "24岁有20年翻译工作经历",
+      "onboard_time": 1739939182,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197376,
       "num": 174283,
       "word": "王子奇哭戏",
@@ -5537,14 +5633,6 @@
       "onboard_time": 1739849841,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 191605,
-      "num": 191605,
-      "word": "张钧甯超大素颜特写",
-      "onboard_time": 1739935343,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 191512,
@@ -7947,6 +8035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114564,
+      "num": 215546,
+      "word": "于适称从没走过捷径",
+      "onboard_time": 1739939182,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114471,
       "num": 210131,
       "word": "仙剑世界首发",
@@ -8257,6 +8353,14 @@
       "onboard_time": 1739854764,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103225,
+      "num": 495190,
+      "word": "多人表示面汤呛妻案中妻子被殴打",
+      "onboard_time": 1739937921,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102819,
@@ -8857,6 +8961,14 @@
       "onboard_time": 1739763019,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75880,
+      "num": 372806,
+      "word": "Grok3发布会坐C位的两个华人是谁",
+      "onboard_time": 1739928980,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 75409,
@@ -9539,6 +9651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47369,
+      "num": 250845,
+      "word": "乌克兰与欧洲相互甩锅",
+      "onboard_time": 1739938583,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 47298,
       "num": 196273,
       "word": "男子遇医院收费员玩游戏质问反被怼",
@@ -9577,6 +9697,14 @@
       "onboard_time": 1739858736,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 45577,
+      "num": 224842,
+      "word": "WTA",
+      "onboard_time": 1739939122,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 45378,
@@ -9691,6 +9819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39030,
+      "num": 373557,
+      "word": "如何看待俄美会谈",
+      "onboard_time": 1739938243,
+      "rank": 18,
+      "category": "国际时政,议题讨论"
+    },
+    {
       "raw_hot": 38934,
       "num": 282298,
       "word": "鹿童鹤童美貌坏蛋",
@@ -9713,6 +9849,14 @@
       "onboard_time": 1739640616,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 38682,
+      "num": 211865,
+      "word": "守望先锋国服开服",
+      "onboard_time": 1739938222,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 38371,
@@ -10369,6 +10513,14 @@
       "onboard_time": 1739709026,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 17765,
+      "num": 208616,
+      "word": "俄乌和谈欧洲上不了桌",
+      "onboard_time": 1739939243,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 17234,

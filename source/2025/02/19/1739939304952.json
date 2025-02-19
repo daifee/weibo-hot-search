@@ -1,0 +1,410 @@
+{
+  "runTime": 1739939304952,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2432034,
+        "num": 2432034,
+        "word": "韩国女学生跳车身亡八旬出租车司机无罪",
+        "onboard_time": 1739935100,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 2205164,
+        "num": 2205164,
+        "word": "哪吒2延长上映至3月30日",
+        "onboard_time": 1739935941,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 11809,
+        "num": 1465223,
+        "word": "中国式现代化的万千气象海南行",
+        "onboard_time": 1739782103,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1406825,
+        "num": 1406825,
+        "word": "金价",
+        "onboard_time": 1739934739,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1039975,
+        "num": 1039975,
+        "word": "马库斯揭露触目惊心的黄浦江尸体照片",
+        "onboard_time": 1739937082,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1009818,
+        "num": 1009818,
+        "word": "74岁老人服用纯中药抗癌汤肿瘤消失",
+        "onboard_time": 1739938340,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 917618,
+        "num": 917618,
+        "word": "特朗普严厉批评泽连斯基",
+        "onboard_time": 1739934321,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 830633,
+        "num": 830633,
+        "word": "2025高考时间公布",
+        "onboard_time": 1739934620,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 822156,
+        "num": 822156,
+        "word": "张凌赫 爸爸妈妈不要只看吻戏",
+        "onboard_time": 1739934080,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 753374,
+        "num": 753374,
+        "word": "哪吒2全球动画第1",
+        "onboard_time": 1739879063,
+        "rank": 9,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 1024048,
+        "num": 664478,
+        "word": "江苏哪吒宝宝出生",
+        "onboard_time": 1739935221,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 821435,
+        "num": 613287,
+        "word": "女子网购100克黄金收到一卷手纸",
+        "onboard_time": 1739933899,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 561192,
+        "num": 561192,
+        "word": "DeepSeek",
+        "onboard_time": 1739926282,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 533738,
+        "num": 533738,
+        "word": "原来只有敖光是纯正龙族血统",
+        "onboard_time": 1739935040,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103225,
+        "num": 495190,
+        "word": "多人表示面汤呛妻案中妻子被殴打",
+        "onboard_time": 1739937921,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 482776,
+        "num": 482776,
+        "word": "金巧巧发千字长文回应黑粉",
+        "onboard_time": 1739937681,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480080,
+        "num": 480080,
+        "word": "马天宇卖汤圆",
+        "onboard_time": 1739932280,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380283,
+        "num": 380283,
+        "word": "金赛纶今天出殡",
+        "onboard_time": 1739937502,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39030,
+        "num": 373557,
+        "word": "如何看待俄美会谈",
+        "onboard_time": 1739938243,
+        "rank": 18,
+        "category": "国际时政,议题讨论"
+      },
+      {
+        "raw_hot": 75880,
+        "num": 372806,
+        "word": "Grok3发布会坐C位的两个华人是谁",
+        "onboard_time": 1739928980,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 383477,
+        "num": 372806,
+        "word": "黄杨钿甜17岁演了33部戏",
+        "onboard_time": 1739935343,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 372801,
+        "num": 372801,
+        "word": "男鬼桑延",
+        "onboard_time": 1739932699,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 363099,
+        "num": 363099,
+        "word": "挖呀挖黄老师已成早教王者",
+        "onboard_time": 1739925562,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 343751,
+        "num": 343751,
+        "word": "女子被丈夫灌面汤呛死家属发声",
+        "onboard_time": 1739932880,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318291,
+        "num": 318291,
+        "word": "乌克兰",
+        "onboard_time": 1739922319,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 262087,
+        "num": 262087,
+        "word": "江苏一龙凤胎出生时自带结界",
+        "onboard_time": 1739938763,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251030,
+        "num": 251030,
+        "word": "陈晓陈妍希离婚博坚持打卡1370天",
+        "onboard_time": 1739890823,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47369,
+        "num": 250845,
+        "word": "乌克兰与欧洲相互甩锅",
+        "onboard_time": 1739938583,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 224869,
+        "num": 250785,
+        "word": "网友涂鸦申公豹老人称会吓到孩子",
+        "onboard_time": 1739938402,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219640,
+        "num": 250785,
+        "word": "乌尔善回应封神2遭滑铁卢",
+        "onboard_time": 1739937022,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 250785,
+        "num": 250784,
+        "word": "比白磷还易燃的生物出现了",
+        "onboard_time": 1739937443,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 241766,
+        "num": 241766,
+        "word": "四川一地坝坝宴将不得用四季豆",
+        "onboard_time": 1739931620,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241032,
+        "num": 241032,
+        "word": "张钧甯超大素颜特写",
+        "onboard_time": 1739935343,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235944,
+        "num": 235944,
+        "word": "儿子开会摸鱼被父亲眼神封印",
+        "onboard_time": 1739935882,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229991,
+        "num": 229991,
+        "word": "六姊妹二姐夫病逝",
+        "onboard_time": 1739935040,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45577,
+        "num": 224842,
+        "word": "WTA",
+        "onboard_time": 1739939122,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224782,
+        "num": 224782,
+        "word": "漫画难哄TOP级名场面还原",
+        "onboard_time": 1739935523,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 215920,
+        "num": 215920,
+        "word": "张馨予用AI变装敖闰",
+        "onboard_time": 1739936662,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114564,
+        "num": 215546,
+        "word": "于适称从没走过捷径",
+        "onboard_time": 1739939182,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215431,
+        "num": 215431,
+        "word": "陈晓陈妍希 1370天",
+        "onboard_time": 1739910311,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215047,
+        "num": 215047,
+        "word": "白敬亭谁教你们这么剪转场的",
+        "onboard_time": 1739937742,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38682,
+        "num": 211865,
+        "word": "守望先锋国服开服",
+        "onboard_time": 1739938222,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 211518,
+        "num": 211518,
+        "word": "被杀女幼师曾与凶手缠斗",
+        "onboard_time": 1739938642,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17765,
+        "num": 208616,
+        "word": "俄乌和谈欧洲上不了桌",
+        "onboard_time": 1739939243,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 207135,
+        "num": 207135,
+        "word": "女生坚持跑步30天瘦脸效果惊人",
+        "onboard_time": 1739926161,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204625,
+        "num": 204625,
+        "word": "孙颖莎vs简彤娟",
+        "onboard_time": 1739934620,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197623,
+        "num": 197623,
+        "word": "24岁有20年翻译工作经历",
+        "onboard_time": 1739939182,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190679,
+        "num": 190679,
+        "word": "冲着霸王茶姬投资几十万结果没关联",
+        "onboard_time": 1739928140,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186101,
+        "num": 186101,
+        "word": "难哄",
+        "onboard_time": 1739925801,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180494,
+        "num": 180494,
+        "word": "香椿120元一斤上架就被抢光",
+        "onboard_time": 1739935040,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#这些话说到民营企业家心坎上#"
+    }
+  }
+}
