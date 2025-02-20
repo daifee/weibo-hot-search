@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1740080163613,
+  "endTime": 1740083113901,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -15299,6 +15299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36609,
+      "num": 36609,
+      "word": "新娘回应小姑子代替新郎拜堂",
+      "onboard_time": 1740080111,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36571,
       "num": 93412,
       "word": "超43万条春节档电影侵权链接被查处",
@@ -16011,8 +16019,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 21683,
-      "num": 21683,
+      "raw_hot": 21690,
+      "num": 21690,
       "word": "陈丽君2024中国妇女时代人物",
       "onboard_time": 1740077292,
       "rank": 43,
@@ -16251,20 +16259,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 18058,
+      "num": 18058,
+      "word": "DeepSeek说真爱从来不是暧昧的细节",
+      "onboard_time": 1740082331,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 17990,
       "num": 392950,
       "word": "捧神毁神都值得哪吒2警惕",
       "onboard_time": 1740058221,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 17759,
-      "num": 17759,
-      "word": "新娘回应小姑子代替新郎拜堂",
-      "onboard_time": 1740080111,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17234,
@@ -16569,6 +16577,14 @@
       "onboard_time": 1739994131,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10830,
+      "num": 45079,
+      "word": "中方敦促美方不要动辄挥舞关税大棒",
+      "onboard_time": 1740081851,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 10741,
