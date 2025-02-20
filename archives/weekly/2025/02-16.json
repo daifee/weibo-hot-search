@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1740050368271,
+  "endTime": 1740051391666,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -905,6 +905,14 @@
       "onboard_time": 1739964320,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1267373,
+      "num": 1267373,
+      "word": "戚薇9年没去婆家了",
+      "onboard_time": 1740049581,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1263880,
@@ -2011,6 +2019,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 736292,
+      "num": 524588,
+      "word": "张百乔心态演崩了",
+      "onboard_time": 1740049821,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 731357,
       "num": 731357,
       "word": "iPhone16e发布",
@@ -2139,14 +2155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 688059,
-      "num": 383625,
-      "word": "戚薇9年没去婆家了",
-      "onboard_time": 1740049581,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 684789,
       "num": 567136,
       "word": "王大陆3月13日受入伍训",
@@ -2244,7 +2252,7 @@
     },
     {
       "raw_hot": 661296,
-      "num": 381049,
+      "num": 418571,
       "word": "林心如看新闻知道陈妍希离婚",
       "onboard_time": 1740043520,
       "rank": 22,
@@ -2916,7 +2924,7 @@
     },
     {
       "raw_hot": 524229,
-      "num": 379506,
+      "num": 494989,
       "word": "成都一妇产儿童医院医生罢工",
       "onboard_time": 1740047721,
       "rank": 43,
@@ -2993,6 +3001,14 @@
       "onboard_time": 1739867242,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 515797,
+      "num": 515797,
+      "word": "白敬亭表白微博",
+      "onboard_time": 1740046341,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 515012,
@@ -3081,6 +3097,14 @@
       "onboard_time": 1739694979,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 494805,
+      "num": 494805,
+      "word": "哪吒为救百姓毁坏建筑是正当防卫吗",
+      "onboard_time": 1740049401,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 494479,
@@ -3707,6 +3731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 421503,
+      "num": 373137,
+      "word": "买光线股票2分钟亏3成以为手机坏了",
+      "onboard_time": 1740047540,
+      "rank": 35,
+      "category": "财经,作品衍生"
+    },
+    {
       "raw_hot": 420482,
       "num": 420482,
       "word": "徐明浩的A来了",
@@ -4131,14 +4163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 376130,
-      "num": 376130,
-      "word": "张百乔心态演崩了",
-      "onboard_time": 1740049821,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 375935,
       "num": 375935,
       "word": "孟子义攒了几部剧没播",
@@ -4201,14 +4225,6 @@
       "onboard_time": 1739683698,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 373137,
-      "num": 373137,
-      "word": "买光线股票2分钟亏3成以为手机坏了",
-      "onboard_time": 1740047540,
-      "rank": 35,
-      "category": "财经,作品衍生"
     },
     {
       "raw_hot": 372469,
@@ -4497,14 +4513,6 @@
       "onboard_time": 1739773279,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 347099,
-      "num": 347099,
-      "word": "白敬亭表白微博",
-      "onboard_time": 1740046341,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 345557,
@@ -5899,6 +5907,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 254474,
+      "num": 254474,
+      "word": "怎么敢让孙丞潇和于佩尔搭戏的啊",
+      "onboard_time": 1740050541,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254041,
       "num": 186233,
       "word": "哪吒2距全球票房前10仅差3.5亿",
@@ -6227,6 +6243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 242517,
+      "num": 242517,
+      "word": "迪丽热巴录开推3",
+      "onboard_time": 1740049640,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242316,
       "num": 242316,
       "word": "乌方不承认美俄谈判达成协议",
@@ -6329,14 +6353,6 @@
       "onboard_time": 1739948960,
       "rank": 13,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 238658,
-      "num": 238658,
-      "word": "迪丽热巴录开推3",
-      "onboard_time": 1740049640,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 238339,
@@ -6449,6 +6465,14 @@
       "onboard_time": 1739682739,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 234402,
+      "num": 358812,
+      "word": "孙颖莎一眼选中没带麦的记者",
+      "onboard_time": 1740047240,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 234189,
@@ -6585,6 +6609,14 @@
       "onboard_time": 1739894061,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 228010,
+      "num": 228010,
+      "word": "温以凡 记者",
+      "onboard_time": 1740050182,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 227103,
@@ -7323,6 +7355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207098,
+      "num": 207098,
+      "word": "韩剧学习小组",
+      "onboard_time": 1740046281,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207040,
       "num": 207040,
       "word": "谢娜谁聚会想要听课啊",
@@ -7571,6 +7611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202275,
+      "num": 288859,
+      "word": "OPPOFindN5发布会",
+      "onboard_time": 1740049401,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 202053,
       "num": 260661,
       "word": "亚洲杯赛程",
@@ -7673,14 +7721,6 @@
       "onboard_time": 1739701038,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 200161,
-      "num": 200161,
-      "word": "韩剧学习小组",
-      "onboard_time": 1740046281,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 200006,
@@ -7897,6 +7937,14 @@
       "onboard_time": 1739711304,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 196961,
+      "num": 196961,
+      "word": "贺峻霖张真源 新加坡",
+      "onboard_time": 1740050841,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 196914,
@@ -8251,6 +8299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191029,
+      "num": 191029,
+      "word": "最邪门的敖闰变装来了",
+      "onboard_time": 1740050780,
+      "rank": 39,
+      "category": "动漫,电影"
+    },
+    {
       "raw_hot": 190950,
       "num": 190950,
       "word": "当农学生种出银环蛇甘蔗",
@@ -8321,6 +8377,22 @@
       "onboard_time": 1739669959,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188912,
+      "num": 285148,
+      "word": "王曼昱陈熠赛前对练",
+      "onboard_time": 1740050660,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 188683,
+      "num": 188683,
+      "word": "相柳美人鱼版",
+      "onboard_time": 1740050422,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 188620,
@@ -8563,14 +8635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 183688,
-      "num": 358812,
-      "word": "孙颖莎一眼选中没带麦的记者",
-      "onboard_time": 1740047240,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 183434,
       "num": 183434,
       "word": "U20",
@@ -8601,14 +8665,6 @@
       "onboard_time": 1739870123,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 182853,
-      "num": 216618,
-      "word": "OPPOFindN5发布会",
-      "onboard_time": 1740049401,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 182806,
@@ -8649,6 +8705,14 @@
       "onboard_time": 1739682079,
       "rank": 36,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 182033,
+      "num": 182033,
+      "word": "张元英红秀封面",
+      "onboard_time": 1740050660,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 181950,
@@ -9115,6 +9179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 170709,
+      "num": 291704,
+      "word": "传美国驻华大使馆最快周五大裁员",
+      "onboard_time": 1740047481,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 170620,
       "num": 373833,
       "word": "180天重启计划开播",
@@ -9571,14 +9643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 162261,
-      "num": 162261,
-      "word": "温以凡 记者",
-      "onboard_time": 1740050182,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 161783,
       "num": 161783,
       "word": "半个体育圈的人都在水立方",
@@ -9841,6 +9905,14 @@
       "onboard_time": 1739719041,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 156287,
+      "num": 156287,
+      "word": "杨晓培来整顿杨子了",
+      "onboard_time": 1740050541,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 156188,
@@ -10329,6 +10401,14 @@
       "onboard_time": 1739768721,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145967,
+      "num": 145967,
+      "word": "逆水寒手游",
+      "onboard_time": 1740051320,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 145256,
@@ -10884,7 +10964,7 @@
     },
     {
       "raw_hot": 133913,
-      "num": 133913,
+      "num": 286891,
       "word": "女子p图毛发一周碰瓷7家面包店",
       "onboard_time": 1740047721,
       "rank": 48,
@@ -10953,14 +11033,6 @@
       "onboard_time": 1739625681,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 132154,
-      "num": 224210,
-      "word": "传美国驻华大使馆最快周五大裁员",
-      "onboard_time": 1740047481,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 131979,
@@ -12243,6 +12315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 99817,
+      "num": 377584,
+      "word": "林高远vs赵大成",
+      "onboard_time": 1740050061,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99597,
       "num": 269669,
       "word": "官方回应网传杭州出台最严养犬新规",
@@ -12448,6 +12528,14 @@
       "word": "奥运冠军马龙被小学生逼出大招",
       "onboard_time": 1739771660,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 93578,
+      "num": 293330,
+      "word": "中国男篮vs日本男篮",
+      "onboard_time": 1740050901,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -13393,14 +13481,6 @@
       "onboard_time": 1740040821,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 62323,
-      "num": 382750,
-      "word": "哪吒为救百姓毁坏建筑是正当防卫吗",
-      "onboard_time": 1740049401,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 62150,
@@ -14571,14 +14651,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 29051,
-      "num": 377584,
-      "word": "林高远vs赵大成",
-      "onboard_time": 1740050061,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 28789,
       "num": 40258,
       "word": "YOASOBI上海演唱会",
@@ -14899,6 +14971,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 22439,
+      "num": 216571,
+      "word": "律师谈导演郑某峰涉嫌猥亵儿童",
+      "onboard_time": 1740046101,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22323,
       "num": 516973,
       "word": "上海超百家医院报名试点商保同步结算",
@@ -15185,14 +15265,6 @@
       "onboard_time": 1739873482,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 18649,
-      "num": 161893,
-      "word": "律师谈导演郑某峰涉嫌猥亵儿童",
-      "onboard_time": 1740046101,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18219,

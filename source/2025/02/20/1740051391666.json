@@ -1,0 +1,410 @@
+{
+  "runTime": 1740051391666,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2183526,
+        "num": 2183526,
+        "word": "多位演员自曝曾被导演郑某某侵害",
+        "onboard_time": 1740039083,
+        "rank": 0,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 1267373,
+        "num": 1267373,
+        "word": "戚薇9年没去婆家了",
+        "onboard_time": 1740049581,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 5187,
+        "num": 1162928,
+        "word": "中国式现代化的万千气象海南行",
+        "onboard_time": 1739782103,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1131911,
+        "num": 1131911,
+        "word": "郭艾伦谈捅伤自己的队友事后态度",
+        "onboard_time": 1740045861,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 987364,
+        "num": 987364,
+        "word": "难哄直播 尴尬",
+        "onboard_time": 1740039020,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 526495,
+        "num": 526495,
+        "word": "捐赠日军侵华照片的马库斯想去日本",
+        "onboard_time": 1740043940,
+        "rank": 5,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 736292,
+        "num": 524588,
+        "word": "张百乔心态演崩了",
+        "onboard_time": 1740049821,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 515797,
+        "num": 515797,
+        "word": "白敬亭表白微博",
+        "onboard_time": 1740046341,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 496027,
+        "num": 496027,
+        "word": "员工偷换理发店收款码3年窃取189万",
+        "onboard_time": 1740044721,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364898,
+        "num": 495094,
+        "word": "妙瓦底200名中国籍涉诈嫌犯押解回国",
+        "onboard_time": 1740043641,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 862876,
+        "num": 495038,
+        "word": "尤浩然说杨紫张一山联系多是正常",
+        "onboard_time": 1740044721,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514091,
+        "num": 494989,
+        "word": "成都一妇产儿童医院医生罢工",
+        "onboard_time": 1740047721,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 494805,
+        "num": 494805,
+        "word": "哪吒为救百姓毁坏建筑是正当防卫吗",
+        "onboard_time": 1740049401,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 418571,
+        "num": 418571,
+        "word": "林心如看新闻知道陈妍希离婚",
+        "onboard_time": 1740043520,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371745,
+        "num": 371745,
+        "word": "快递公司告知丢件顾客自己寻回",
+        "onboard_time": 1740047360,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305144,
+        "num": 305144,
+        "word": "难哄",
+        "onboard_time": 1740028703,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302310,
+        "num": 302310,
+        "word": "章若楠回应直播尴尬",
+        "onboard_time": 1740041842,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294988,
+        "num": 294988,
+        "word": "董力挨骂",
+        "onboard_time": 1740041481,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223106,
+        "num": 294851,
+        "word": "新郎被部队召回妹妹代哥哥拜堂",
+        "onboard_time": 1740039863,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93578,
+        "num": 293330,
+        "word": "中国男篮vs日本男篮",
+        "onboard_time": 1740050901,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170709,
+        "num": 291704,
+        "word": "传美国驻华大使馆最快周五大裁员",
+        "onboard_time": 1740047481,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 519944,
+        "num": 290006,
+        "word": "原来甲醛超标身体是有症状的",
+        "onboard_time": 1740048021,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 202275,
+        "num": 288859,
+        "word": "OPPOFindN5发布会",
+        "onboard_time": 1740049401,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 122859,
+        "num": 286891,
+        "word": "女子p图毛发一周碰瓷7家面包店",
+        "onboard_time": 1740047721,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188912,
+        "num": 285148,
+        "word": "王曼昱陈熠赛前对练",
+        "onboard_time": 1740050660,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 421503,
+        "num": 283599,
+        "word": "买光线股票2分钟亏3成以为手机坏了",
+        "onboard_time": 1740047540,
+        "rank": 25,
+        "category": "财经,作品衍生"
+      },
+      {
+        "raw_hot": 283382,
+        "num": 283382,
+        "word": "印度17岁举重冠军被杠铃压脖身亡",
+        "onboard_time": 1740039261,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 176776,
+        "num": 255136,
+        "word": "特朗普称乌克兰或将不复存在",
+        "onboard_time": 1740029962,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 233706,
+        "num": 254556,
+        "word": "原来拍吻戏真的会亲到肿",
+        "onboard_time": 1740041241,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29664,
+        "num": 254482,
+        "word": "李佳琦穿越短剧超前点映",
+        "onboard_time": 1740049401,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254474,
+        "num": 254474,
+        "word": "怎么敢让孙丞潇和于佩尔搭戏的啊",
+        "onboard_time": 1740050541,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247360,
+        "num": 247360,
+        "word": "黄多多盘发发量",
+        "onboard_time": 1740028882,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242517,
+        "num": 242517,
+        "word": "迪丽热巴录开推3",
+        "onboard_time": 1740049640,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234402,
+        "num": 234402,
+        "word": "孙颖莎一眼选中没带麦的记者",
+        "onboard_time": 1740047240,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228010,
+        "num": 228010,
+        "word": "温以凡 记者",
+        "onboard_time": 1740050182,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22439,
+        "num": 216571,
+        "word": "律师谈导演郑某峰涉嫌猥亵儿童",
+        "onboard_time": 1740046101,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207098,
+        "num": 207098,
+        "word": "韩剧学习小组",
+        "onboard_time": 1740046281,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202161,
+        "num": 202161,
+        "word": "胡静辟谣老公有四个老婆",
+        "onboard_time": 1740045800,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196961,
+        "num": 196961,
+        "word": "贺峻霖张真源 新加坡",
+        "onboard_time": 1740050841,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191029,
+        "num": 191029,
+        "word": "最邪门的敖闰变装来了",
+        "onboard_time": 1740050780,
+        "rank": 39,
+        "category": "动漫,电影"
+      },
+      {
+        "raw_hot": 188683,
+        "num": 188683,
+        "word": "相柳美人鱼版",
+        "onboard_time": 1740050422,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182033,
+        "num": 182033,
+        "word": "张元英红秀封面",
+        "onboard_time": 1740050660,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 180793,
+        "num": 180793,
+        "word": "树下有片红房子",
+        "onboard_time": 1740050960,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168293,
+        "num": 168293,
+        "word": "金敏喜挺孕肚出发柏林",
+        "onboard_time": 1740037641,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156287,
+        "num": 156287,
+        "word": "杨晓培来整顿杨子了",
+        "onboard_time": 1740050541,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153795,
+        "num": 153795,
+        "word": "半个体育圈的人都在水立方",
+        "onboard_time": 1740046462,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99817,
+        "num": 151336,
+        "word": "林高远vs赵大成",
+        "onboard_time": 1740050061,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149239,
+        "num": 149239,
+        "word": "抗癌博主小何日记去世",
+        "onboard_time": 1740031822,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147755,
+        "num": 147755,
+        "word": "女子网上晒娃公司撤销哺乳假被驳回",
+        "onboard_time": 1740040700,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145967,
+        "num": 145967,
+        "word": "逆水寒手游",
+        "onboard_time": 1740051320,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的科技情怀#"
+    }
+  }
+}
