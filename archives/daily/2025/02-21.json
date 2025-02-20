@@ -1,6 +1,6 @@
 {
   "startTime": 1740069014077,
-  "endTime": 1740091138155,
+  "endTime": 1740093733614,
   "band_list": [
     {
       "raw_hot": 6060617,
@@ -43,6 +43,14 @@
       "category": "艺人,艺人"
     },
     {
+      "raw_hot": 449391,
+      "num": 449391,
+      "word": "美国人口3.41亿社保却有3.98亿人",
+      "onboard_time": 1740069677,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 439802,
       "num": 439802,
       "word": "章子怡问杨子再见爱人是演的吗",
@@ -51,12 +59,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 361183,
-      "num": 361183,
-      "word": "美国人口3.41亿社保却有3.98亿人",
-      "onboard_time": 1740069677,
-      "rank": 49,
-      "category": "海外新闻"
+      "raw_hot": 404825,
+      "num": 404825,
+      "word": "导演郑某峰被曝曾说陪睡就让演主角",
+      "onboard_time": 1740066860,
+      "rank": 5,
+      "category": "民生新闻,电影"
+    },
+    {
+      "raw_hot": 352200,
+      "num": 352200,
+      "word": "张亮4部代表作都在3分之下",
+      "onboard_time": 1740053300,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 334057,
@@ -65,14 +81,6 @@
       "onboard_time": 1740062661,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 307081,
-      "num": 307081,
-      "word": "导演郑某峰被曝曾说陪睡就让演主角",
-      "onboard_time": 1740066860,
-      "rank": 5,
-      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 299658,
@@ -115,6 +123,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 236472,
+      "num": 236472,
+      "word": "河南一彩民花12元中了691万",
+      "onboard_time": 1740073213,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222082,
       "num": 222082,
       "word": "檀健次说再不拍猎罪3我就老了",
@@ -155,8 +171,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197581,
+      "num": 154353,
+      "word": "被房东多次猥亵女子男友发声",
+      "onboard_time": 1740054501,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187940,
-      "num": 87441,
+      "num": 98743,
       "word": "新娘回应小姑子代替新郎拜堂",
       "onboard_time": 1740080111,
       "rank": 48,
@@ -171,6 +195,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185680,
+      "num": 185680,
+      "word": "马库斯说照片在中国比在行李箱里好",
+      "onboard_time": 1740087431,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184056,
+      "num": 184056,
+      "word": "孕妇赴柬埔寨2个多月后离奇死亡",
+      "onboard_time": 1740066501,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180388,
       "num": 180388,
       "word": "原来甲醛超标身体是有症状的",
@@ -179,12 +219,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 179840,
+      "num": 179840,
+      "word": "章若楠你就这么追星李宇春的",
+      "onboard_time": 1740092836,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179220,
       "num": 179220,
       "word": "哪吒2已超127亿",
       "onboard_time": 1740060924,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 177390,
+      "num": 177390,
+      "word": "快乐家族滑雪惊动救援队",
+      "onboard_time": 1740085451,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 176477,
@@ -211,36 +267,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 154616,
-      "num": 154616,
-      "word": "河南一彩民花12元中了691万",
-      "onboard_time": 1740073213,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 154353,
-      "num": 154353,
-      "word": "被房东多次猥亵女子男友发声",
-      "onboard_time": 1740054501,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 152812,
       "num": 152812,
       "word": "制作人员做无量仙翁时以为是好人",
       "onboard_time": 1740051801,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 147121,
-      "num": 147121,
-      "word": "张亮4部代表作都在3分之下",
-      "onboard_time": 1740053300,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 145598,
@@ -267,14 +299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126556,
-      "num": 126556,
-      "word": "孕妇赴柬埔寨2个多月后离奇死亡",
-      "onboard_time": 1740066501,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125231,
       "num": 125231,
       "word": "尤浩然说杨紫张一山联系多是正常",
@@ -297,6 +321,14 @@
       "onboard_time": 1740065422,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114852,
+      "num": 114852,
+      "word": "怀孕主播直播时被设备砸成脑震荡",
+      "onboard_time": 1740052462,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110170,
@@ -371,14 +403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 91174,
-      "num": 91174,
-      "word": "快乐家族滑雪惊动救援队",
-      "onboard_time": 1740085451,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 88304,
       "num": 88304,
       "word": "反中乱港组织民主党宣布解散",
@@ -411,14 +435,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 84389,
-      "num": 84389,
-      "word": "怀孕主播直播时被设备砸成脑震荡",
-      "onboard_time": 1740052462,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 83450,
       "num": 180726,
       "word": "66年前老代码给美国挖坑",
@@ -443,14 +459,6 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 78046,
-      "num": 78046,
-      "word": "马库斯说照片在中国比在行李箱里好",
-      "onboard_time": 1740087431,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77172,
       "num": 165876,
       "word": "全场高喊王楚钦",
@@ -465,6 +473,30 @@
       "onboard_time": 1740074592,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58758,
+      "num": 58758,
+      "word": "陈丽君2024中国妇女时代人物",
+      "onboard_time": 1740077292,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 54268,
+      "num": 54268,
+      "word": "DeepSeek说真爱从来不是暧昧的细节",
+      "onboard_time": 1740082331,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 47847,
+      "num": 50672,
+      "word": "白敬亭长大了知道为艺术献身了",
+      "onboard_time": 1740072374,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 46600,
@@ -483,12 +515,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 43356,
-      "num": 43356,
-      "word": "白敬亭长大了知道为艺术献身了",
-      "onboard_time": 1740072374,
-      "rank": 42,
-      "category": "剧集"
+      "raw_hot": 36569,
+      "num": 50586,
+      "word": "陈凯歌看孙丞潇表演有种无力感",
+      "onboard_time": 1740093136,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 33727,
@@ -515,28 +547,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 28356,
-      "num": 28356,
-      "word": "DeepSeek说真爱从来不是暧昧的细节",
-      "onboard_time": 1740082331,
-      "rank": 37,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 27505,
       "num": 58588,
       "word": "1000余妙瓦底中国籍电诈嫌犯被抓",
       "onboard_time": 1740078251,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27128,
-      "num": 27128,
-      "word": "陈丽君2024中国妇女时代人物",
-      "onboard_time": 1740077292,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 25917,
@@ -633,6 +649,14 @@
       "onboard_time": 1740076991,
       "rank": 41,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 10260,
+      "num": 100801,
+      "word": "王楚钦谈亚洲杯第二场胜利",
+      "onboard_time": 1740093195,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 9445,

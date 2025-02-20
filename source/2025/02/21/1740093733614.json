@@ -1,0 +1,410 @@
+{
+  "runTime": 1740093733614,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 786374,
+        "num": 827226,
+        "word": "deepseek一两分钟干了我一两天的活",
+        "onboard_time": 1740058822,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 512772,
+        "num": 512772,
+        "word": "义乌老板利用DeepSeek卖空小商品",
+        "onboard_time": 1740062063,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27986,
+        "num": 455280,
+        "word": "我国首口超万米深井完钻",
+        "onboard_time": 1740037521,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 449391,
+        "num": 449391,
+        "word": "美国人口3.41亿社保却有3.98亿人",
+        "onboard_time": 1740069677,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 404825,
+        "num": 404825,
+        "word": "导演郑某峰被曝曾说陪睡就让演主角",
+        "onboard_time": 1740066860,
+        "rank": 4,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 352200,
+        "num": 352200,
+        "word": "张亮4部代表作都在3分之下",
+        "onboard_time": 1740053300,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246107,
+        "num": 246107,
+        "word": "章子怡问杨子再见爱人是演的吗",
+        "onboard_time": 1740057202,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236472,
+        "num": 236472,
+        "word": "河南一彩民花12元中了691万",
+        "onboard_time": 1740073213,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214110,
+        "num": 214110,
+        "word": "半岁孩子在母婴店摔至颅骨骨折",
+        "onboard_time": 1740066501,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185680,
+        "num": 185680,
+        "word": "马库斯说照片在中国比在行李箱里好",
+        "onboard_time": 1740087431,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1341280,
+        "num": 185313,
+        "word": "黄景瑜 女朋友",
+        "onboard_time": 1740064343,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 739860,
+        "num": 185240,
+        "word": "女子怀孕5个月被诊所当妇科病治疗",
+        "onboard_time": 1740064224,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 461374,
+        "num": 184801,
+        "word": "多位演员自曝曾被导演郑某某侵害",
+        "onboard_time": 1740039083,
+        "rank": 12,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 184056,
+        "num": 184056,
+        "word": "孕妇赴柬埔寨2个多月后离奇死亡",
+        "onboard_time": 1740066501,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179840,
+        "num": 179840,
+        "word": "章若楠你就这么追星李宇春的",
+        "onboard_time": 1740092836,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177390,
+        "num": 177390,
+        "word": "快乐家族滑雪惊动救援队",
+        "onboard_time": 1740085451,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145503,
+        "num": 145503,
+        "word": "拐卖王星的中国籍嫌犯押解回国现场",
+        "onboard_time": 1740053839,
+        "rank": 16,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 127550,
+        "num": 127550,
+        "word": "檀健次说再不拍猎罪3我就老了",
+        "onboard_time": 1740063503,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125651,
+        "num": 125651,
+        "word": "郭艾伦谈捅伤自己的队友事后态度",
+        "onboard_time": 1740045861,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123242,
+        "num": 123242,
+        "word": "制作人员做无量仙翁时以为是好人",
+        "onboard_time": 1740051801,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197581,
+        "num": 123069,
+        "word": "被房东多次猥亵女子男友发声",
+        "onboard_time": 1740054501,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140939,
+        "num": 120038,
+        "word": "戚薇9年没去婆家了",
+        "onboard_time": 1740049581,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114852,
+        "num": 114852,
+        "word": "怀孕主播直播时被设备砸成脑震荡",
+        "onboard_time": 1740052462,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110539,
+        "num": 110539,
+        "word": "万花世界 鞠婧祎",
+        "onboard_time": 1740058703,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10260,
+        "num": 100801,
+        "word": "王楚钦谈亚洲杯第二场胜利",
+        "onboard_time": 1740093195,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99721,
+        "num": 99721,
+        "word": "富国岛偶遇黄景瑜",
+        "onboard_time": 1740060083,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98743,
+        "num": 98743,
+        "word": "新娘回应小姑子代替新郎拜堂",
+        "onboard_time": 1740080111,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90962,
+        "num": 90962,
+        "word": "原来甲醛超标身体是有症状的",
+        "onboard_time": 1740048021,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 86498,
+        "num": 86498,
+        "word": "哪吒2已超127亿",
+        "onboard_time": 1740060924,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 85631,
+        "num": 85631,
+        "word": "锦绣芳华 暑期档",
+        "onboard_time": 1740060142,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82881,
+        "num": 82881,
+        "word": "乌克兰",
+        "onboard_time": 1740056301,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 82767,
+        "num": 82767,
+        "word": "万渣朝凰",
+        "onboard_time": 1740059543,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72883,
+        "num": 72883,
+        "word": "一念江南 虞书欣",
+        "onboard_time": 1740062661,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65013,
+        "num": 65013,
+        "word": "难哄直播 尴尬",
+        "onboard_time": 1740039020,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77293,
+        "num": 64841,
+        "word": "尤浩然说杨紫张一山联系多是正常",
+        "onboard_time": 1740044721,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61948,
+        "num": 61948,
+        "word": "华中农大多名学生称租房面临被赶",
+        "onboard_time": 1740074592,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60762,
+        "num": 60762,
+        "word": "倪妮出场听取好美声一片",
+        "onboard_time": 1740066920,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 58758,
+        "num": 58758,
+        "word": "陈丽君2024中国妇女时代人物",
+        "onboard_time": 1740077292,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57295,
+        "num": 57295,
+        "word": "惠英红 影后就是影后",
+        "onboard_time": 1740051620,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54355,
+        "num": 54355,
+        "word": "王楚钦的腹肌",
+        "onboard_time": 1740058286,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54268,
+        "num": 54268,
+        "word": "DeepSeek说真爱从来不是暧昧的细节",
+        "onboard_time": 1740082331,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 52466,
+        "num": 52466,
+        "word": "反中乱港组织民主党宣布解散",
+        "onboard_time": 1740061763,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 52185,
+        "num": 52185,
+        "word": "美国财长称乌克兰将签5000亿美元协议",
+        "onboard_time": 1740060623,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 50693,
+        "num": 50693,
+        "word": "66年前老代码给美国挖坑",
+        "onboard_time": 1740071055,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 48365,
+        "num": 50676,
+        "word": "方时赫减肥前后对比照",
+        "onboard_time": 1740069018,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47847,
+        "num": 50672,
+        "word": "白敬亭长大了知道为艺术献身了",
+        "onboard_time": 1740072374,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45725,
+        "num": 50649,
+        "word": "李敏镐否认与朴春恋爱",
+        "onboard_time": 1740058883,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42431,
+        "num": 50625,
+        "word": "易烊千玺朱一龙 合作",
+        "onboard_time": 1740051560,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38574,
+        "num": 50608,
+        "word": "董思成miumiu快闪",
+        "onboard_time": 1740070695,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 36569,
+        "num": 50586,
+        "word": "陈凯歌看孙丞潇表演有种无力感",
+        "onboard_time": 1740093136,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#保持爱拼会赢的精气神#"
+    }
+  }
+}
