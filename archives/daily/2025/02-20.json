@@ -1,7 +1,15 @@
 {
   "startTime": 1739982473012,
-  "endTime": 1740016791063,
+  "endTime": 1740020002130,
   "band_list": [
+    {
+      "raw_hot": 2963105,
+      "num": 361784,
+      "word": "刘诗诗将所持股权转让给吴奇隆",
+      "onboard_time": 1740015800,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1889517,
       "num": 260216,
@@ -9,14 +17,6 @@
       "onboard_time": 1740006555,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1556112,
-      "num": 357245,
-      "word": "刘诗诗将所持股权转让给吴奇隆",
-      "onboard_time": 1740015800,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1412108,
@@ -41,6 +41,14 @@
       "onboard_time": 1740008058,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1066792,
+      "num": 435170,
+      "word": "美方要求乌克兰交出50%矿产资源",
+      "onboard_time": 1740015078,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 864478,
@@ -115,6 +123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 612671,
+      "num": 433389,
+      "word": "DeepSeek引来悄无声息的职场地震",
+      "onboard_time": 1740012441,
+      "rank": 6,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 594639,
       "num": 393637,
       "word": "西安女子吐槽银行8个窗口6个不营业",
@@ -123,12 +139,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 587057,
-      "num": 433389,
-      "word": "DeepSeek引来悄无声息的职场地震",
-      "onboard_time": 1740012441,
-      "rank": 6,
-      "category": "议题讨论"
+      "raw_hot": 581807,
+      "num": 272089,
+      "word": "来殡仪馆吃米粉的人比献花的还多",
+      "onboard_time": 1740018919,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 540758,
@@ -148,7 +164,7 @@
     },
     {
       "raw_hot": 503417,
-      "num": 260206,
+      "num": 268660,
       "word": "上海一阿姨扫地踩穿楼板掉到楼下",
       "onboard_time": 1740010220,
       "rank": 21,
@@ -169,6 +185,14 @@
       "onboard_time": 1739982915,
       "rank": 16,
       "category": "数码"
+    },
+    {
+      "raw_hot": 483087,
+      "num": 483087,
+      "word": "郑某某曾执导儿童向电影评分2.2",
+      "onboard_time": 1740015979,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 448608,
@@ -203,6 +227,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 392538,
+      "num": 392538,
+      "word": "特朗普警告泽连斯基最好尽快行动",
+      "onboard_time": 1740018259,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 391311,
       "num": 391311,
       "word": "美国2架小飞机空中相撞",
@@ -219,11 +251,27 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 364348,
-      "num": 364348,
-      "word": "美方要求乌克兰交出50%矿产资源",
-      "onboard_time": 1740015078,
-      "rank": 37,
+      "raw_hot": 383546,
+      "num": 383546,
+      "word": "什么是个税年度汇算",
+      "onboard_time": 1740013579,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 380582,
+      "num": 380582,
+      "word": "楚后",
+      "onboard_time": 1740017238,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 370387,
+      "num": 370387,
+      "word": "特朗普用喜剧演员称呼泽连斯基",
+      "onboard_time": 1740015979,
+      "rank": 17,
       "category": "国际时政"
     },
     {
@@ -259,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 339886,
+      "num": 339886,
+      "word": "醉梦阵容官宣",
+      "onboard_time": 1740019039,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 335856,
       "num": 263638,
       "word": "朴春 李敏镐",
@@ -291,6 +347,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 296998,
+      "num": 296998,
+      "word": "王皓在场边急的坐立难安",
+      "onboard_time": 1740014181,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 293077,
+      "num": 271020,
+      "word": "刘国梁主动握手许昕表情亮了",
+      "onboard_time": 1740018861,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 290549,
       "num": 290549,
       "word": "警方通报导演郑某峰涉嫌猥亵儿童",
@@ -315,12 +387,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 267570,
-      "num": 267570,
-      "word": "特朗普用喜剧演员称呼泽连斯基",
-      "onboard_time": 1740015979,
-      "rank": 17,
-      "category": "国际时政"
+      "raw_hot": 265563,
+      "num": 369018,
+      "word": "三步走教你办理个税年度汇算",
+      "onboard_time": 1740019161,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 252772,
@@ -331,6 +403,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 248558,
+      "num": 248558,
+      "word": "监狱管理局回应截瘫男子狱中染HIV",
+      "onboard_time": 1740016580,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 248342,
+      "num": 286731,
+      "word": "彭高书单",
+      "onboard_time": 1740015918,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240378,
       "num": 291878,
       "word": "俄军已越过库尔斯克地区俄乌边界",
@@ -339,20 +427,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 237993,
-      "num": 237993,
-      "word": "什么是个税年度汇算",
-      "onboard_time": 1740013579,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 237691,
       "num": 237691,
       "word": "体育课不能说起来重要忙起来不要",
       "onboard_time": 1740004513,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 236270,
+      "num": 236270,
+      "word": "野生大熊猫用舌头给红外相机擦镜头",
+      "onboard_time": 1740018919,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 236159,
@@ -379,11 +467,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 219316,
-      "num": 204978,
-      "word": "监狱管理局回应截瘫男子狱中染HIV",
-      "onboard_time": 1740016580,
-      "rank": 30,
+      "raw_hot": 221070,
+      "num": 221070,
+      "word": "小伙没见到白富美喷保时捷红漆",
+      "onboard_time": 1740018919,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -411,12 +499,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 205207,
-      "num": 242642,
-      "word": "彭高书单",
-      "onboard_time": 1740015918,
-      "rank": 19,
+      "raw_hot": 206802,
+      "num": 196219,
+      "word": "妻旅2025四对夫妻出发路透",
+      "onboard_time": 1740018978,
+      "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206370,
+      "num": 206370,
+      "word": "跑步多久才能达到减肥目的",
+      "onboard_time": 1740015440,
+      "rank": 29,
+      "category": "运动健身"
     },
     {
       "raw_hot": 204959,
@@ -427,19 +523,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200316,
-      "num": 178310,
-      "word": "王皓在场边急的坐立难安",
-      "onboard_time": 1740014181,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 199121,
       "num": 169140,
       "word": "女子戴耳环不摘耳垂长出葡萄瘤",
       "onboard_time": 1739974523,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196375,
+      "num": 196375,
+      "word": "官方通报网传邢台一局长砸店伤人",
+      "onboard_time": 1740018861,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -459,6 +555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190666,
+      "num": 190666,
+      "word": "哪吒2全球动画第1",
+      "onboard_time": 1739879063,
+      "rank": 34,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 188019,
       "num": 188019,
       "word": "肖凯文回应借王楚钦衣服",
@@ -467,20 +571,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 179316,
-      "num": 179316,
-      "word": "哪吒2全球动画第1",
-      "onboard_time": 1739879063,
-      "rank": 34,
-      "category": "电影,动漫"
+      "raw_hot": 181593,
+      "num": 181593,
+      "word": "美国母鸡租赁公司火了",
+      "onboard_time": 1740018919,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
-      "raw_hot": 178488,
-      "num": 178488,
-      "word": "跑步多久才能达到减肥目的",
-      "onboard_time": 1740015440,
-      "rank": 29,
-      "category": "运动健身"
+      "raw_hot": 175991,
+      "num": 175991,
+      "word": "邢台一局长酒驾砸店伤人被停职",
+      "onboard_time": 1740019820,
+      "rank": 37,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 175511,
@@ -507,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164360,
+      "num": 164360,
+      "word": "王楚钦坦言一度感觉要输",
+      "onboard_time": 1740018919,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161579,
       "num": 204980,
       "word": "欧阳震华有哪吒2的票了",
@@ -531,12 +643,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156657,
+      "num": 156657,
+      "word": "花木兰导演点赞哪吒2",
+      "onboard_time": 1740019459,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 146865,
+      "num": 144580,
+      "word": "哪吒2",
+      "onboard_time": 1740018861,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 146717,
       "num": 146717,
       "word": "内耗的人适合培养输出型爱好",
       "onboard_time": 1739961260,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 145022,
+      "num": 145022,
+      "word": "马特说王楚钦打球太实在",
+      "onboard_time": 1740019820,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 141943,
@@ -619,12 +755,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 127919,
+      "num": 127919,
+      "word": "女生分享自己的上班通勤搭子",
+      "onboard_time": 1740019399,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127704,
       "num": 127704,
       "word": "王楚钦决胜局救起一颗精彩球",
       "onboard_time": 1739980820,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126246,
+      "num": 126246,
+      "word": "有人曾想用饺子名气空手套白狼",
+      "onboard_time": 1740014900,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123361,
@@ -715,14 +867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 101259,
-      "num": 359406,
-      "word": "郑某某曾执导儿童向电影评分2.2",
-      "onboard_time": 1740015979,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 94987,
       "num": 241614,
       "word": "国乒亚洲杯20日赛程表",
@@ -753,6 +897,14 @@
       "onboard_time": 1739973624,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83026,
+      "num": 273953,
+      "word": "涉嫌猥亵儿童导演名下多公司被吊销",
+      "onboard_time": 1740018681,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 82257,
@@ -819,12 +971,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 45672,
+      "num": 176514,
+      "word": "孙颖莎VS阿库拉",
+      "onboard_time": 1740019939,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45645,
       "num": 186338,
       "word": "宇树科技机器人爆火一度断货下架",
       "onboard_time": 1739985617,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43558,
+      "num": 165849,
+      "word": "自己熬酱做寿喜锅",
+      "onboard_time": 1740018919,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 40664,
@@ -928,6 +1096,14 @@
       "word": "张红力非法收受1.77亿余元被判死缓",
       "onboard_time": 1739999650,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 4484,
+      "num": 436274,
+      "word": "中国式现代化的万千气象海南行",
+      "onboard_time": 1739782103,
+      "rank": 2,
       "category": "民生新闻"
     }
   ],
