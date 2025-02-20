@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740056361975,
+  "endTime": 1740058164829,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1891,6 +1891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1729074,
+      "num": 1729074,
+      "word": "拐卖王星的中国籍嫌犯押解回国现场",
+      "onboard_time": 1740053839,
+      "rank": 8,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 1726780,
       "num": 591244,
       "word": "饺子",
@@ -2681,14 +2689,6 @@
       "onboard_time": 1738655964,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1425150,
-      "num": 1425150,
-      "word": "拐卖王星的中国籍嫌犯押解回国现场",
-      "onboard_time": 1740053839,
-      "rank": 8,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 1423984,
@@ -3969,6 +3969,14 @@
       "onboard_time": 1739422702,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1139501,
+      "num": 374655,
+      "word": "被房东多次猥亵女子男友发声",
+      "onboard_time": 1740054501,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1136939,
@@ -6971,6 +6979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 768646,
+      "num": 758274,
+      "word": "第一次见手拉手直播的",
+      "onboard_time": 1740054141,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 768562,
       "num": 768562,
       "word": "DeepSeek回答学什么不会被淘汰",
@@ -7025,6 +7041,14 @@
       "onboard_time": 1738562432,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 760327,
+      "num": 760327,
+      "word": "王楚钦VS宇田幸矢",
+      "onboard_time": 1740056062,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 759684,
@@ -10163,6 +10187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 560664,
+      "num": 411270,
+      "word": "章子怡问杨子再见爱人是演的吗",
+      "onboard_time": 1740057202,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 560585,
       "num": 560585,
       "word": "杨幂 皮裙甜妹",
@@ -10793,14 +10825,6 @@
       "onboard_time": 1739790381,
       "rank": 21,
       "category": "网红"
-    },
-    {
-      "raw_hot": 535378,
-      "num": 535378,
-      "word": "第一次见手拉手直播的",
-      "onboard_time": 1740054141,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 535236,
@@ -13164,7 +13188,7 @@
     },
     {
       "raw_hot": 446993,
-      "num": 320307,
+      "num": 332418,
       "word": "奎八cha了",
       "onboard_time": 1740053121,
       "rank": 21,
@@ -16163,6 +16187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 356645,
+      "num": 342723,
+      "word": "怀孕主播直播时被设备砸成脑震荡",
+      "onboard_time": 1740052462,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 356641,
       "num": 356641,
       "word": "浓眉",
@@ -17097,6 +17129,14 @@
       "onboard_time": 1738634123,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 336051,
+      "num": 336051,
+      "word": "cp31",
+      "onboard_time": 1740056421,
+      "rank": 25,
+      "category": "动漫"
     },
     {
       "raw_hot": 335864,
@@ -19531,6 +19571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 291409,
+      "num": 350600,
+      "word": "苹果电脑被OPPO折叠屏远程控制",
+      "onboard_time": 1740056541,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 291234,
       "num": 257574,
       "word": "杨子黄圣依新综没同框的原因",
@@ -19907,6 +19955,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 285947,
+      "num": 285947,
+      "word": "柳智敏出演权志龙打歌舞台",
+      "onboard_time": 1740056722,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 285875,
       "num": 310044,
       "word": "王者荣耀小蛇糕",
@@ -20265,14 +20321,6 @@
       "onboard_time": 1740042561,
       "rank": 13,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 279237,
-      "num": 279237,
-      "word": "怀孕主播直播时被设备砸成脑震荡",
-      "onboard_time": 1740052462,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 279090,
@@ -21185,14 +21233,6 @@
       "onboard_time": 1739244561,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 265004,
-      "num": 265004,
-      "word": "被房东多次猥亵女子男友发声",
-      "onboard_time": 1740054501,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 264833,
@@ -25515,14 +25555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 221256,
-      "num": 221256,
-      "word": "王楚钦VS宇田幸矢",
-      "onboard_time": 1740056062,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 221245,
       "num": 408265,
       "word": "菲律宾夺亚冬会首金韩国队被打懵",
@@ -28947,6 +28979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201112,
+      "num": 201112,
+      "word": "华农近50名学生陷入房租纠纷",
+      "onboard_time": 1740057082,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201086,
       "num": 201086,
       "word": "林孝埈出征亚冬会",
@@ -31771,6 +31811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188775,
+      "num": 188775,
+      "word": "朴志晟生日派对",
+      "onboard_time": 1740057443,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188728,
       "num": 188728,
       "word": "檀健次WDSF世界第三",
@@ -32073,6 +32121,14 @@
       "onboard_time": 1740031884,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187440,
+      "num": 201824,
+      "word": "赵睿猛虎下山",
+      "onboard_time": 1740056782,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 187427,
@@ -37683,6 +37739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159401,
+      "num": 293330,
+      "word": "中国男篮vs日本男篮",
+      "onboard_time": 1740050901,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159359,
       "num": 145940,
       "word": "哪吒2有望给光线传媒贡献近10亿利润",
@@ -37921,14 +37985,6 @@
       "onboard_time": 1739229735,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 158500,
-      "num": 293330,
-      "word": "中国男篮vs日本男篮",
-      "onboard_time": 1740050901,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 158436,
@@ -38785,6 +38841,14 @@
       "onboard_time": 1738826185,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154584,
+      "num": 308778,
+      "word": "各地高校上线满血版DeepSeek",
+      "onboard_time": 1740055943,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154566,
@@ -41259,6 +41323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143193,
+      "num": 660599,
+      "word": "OPPO打破全球最薄折叠旗舰纪录",
+      "onboard_time": 1740053722,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 143161,
       "num": 183536,
       "word": "王俊凯才是春节档最大彩蛋",
@@ -41729,14 +41801,6 @@
       "onboard_time": 1739978541,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140813,
-      "num": 660599,
-      "word": "OPPO打破全球最薄折叠旗舰纪录",
-      "onboard_time": 1740053722,
-      "rank": 13,
-      "category": "数码"
     },
     {
       "raw_hot": 140773,
@@ -44641,6 +44705,14 @@
       "onboard_time": 1739704219,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126163,
+      "num": 267540,
+      "word": "小孩姐对巴赫说最喜欢孙颖莎",
+      "onboard_time": 1740057983,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 126133,
@@ -48923,6 +48995,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 101888,
+      "num": 342341,
+      "word": "地下1万多米的颜色",
+      "onboard_time": 1740057921,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101839,
       "num": 234613,
       "word": "离开安嘉和后部部都是好老公",
@@ -52257,6 +52337,14 @@
       "onboard_time": 1738761864,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76169,
+      "num": 360242,
+      "word": "多方回应一公职人员疑酒驾肇事逃逸",
+      "onboard_time": 1740056901,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76133,
@@ -55763,6 +55851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50888,
+      "num": 345356,
+      "word": "中国男篮大胜日本队",
+      "onboard_time": 1740057862,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50824,
       "num": 220040,
       "word": "王大陆许光汉或将部队同台",
@@ -56537,6 +56633,14 @@
       "onboard_time": 1739974582,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 45446,
+      "num": 1090434,
+      "word": "中国造船乘风破浪驶过万重山",
+      "onboard_time": 1740056964,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 45380,
@@ -58067,14 +58171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 35979,
-      "num": 308778,
-      "word": "各地高校上线满血版DeepSeek",
-      "onboard_time": 1740055943,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 35978,
       "num": 240675,
       "word": "霍启刚亚冬会vlog",
@@ -58097,6 +58193,14 @@
       "onboard_time": 1739904072,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 35864,
+      "num": 282941,
+      "word": "进景区须买观光车票游客欲徒步遭拒",
+      "onboard_time": 1740056662,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35798,
@@ -63059,6 +63163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 7601,
+      "num": 226267,
+      "word": "29省份上线医保药品比价神器",
+      "onboard_time": 1740058042,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 7573,
       "num": 241810,
       "word": "东契奇说联手詹姆斯是梦想成真",
@@ -63387,6 +63499,9 @@
     },
     {
       "word": "#习近平的科技情怀#"
+    },
+    {
+      "word": "#专心致志做强做优做大企业#"
     }
   ]
 }
