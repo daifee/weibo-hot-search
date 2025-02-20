@@ -1,0 +1,410 @@
+{
+  "runTime": 1740025616479,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2166348,
+        "num": 2166348,
+        "word": "浪姐6站位",
+        "onboard_time": 1740024562,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 958521,
+        "num": 958521,
+        "word": "宝妈兼职配音4天被骗66万",
+        "onboard_time": 1740023782,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178414,
+        "num": 772167,
+        "word": "我国人形机器人又有突破",
+        "onboard_time": 1740021020,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 691264,
+        "num": 691264,
+        "word": "野生大熊猫用舌头给红外相机擦镜头",
+        "onboard_time": 1740018919,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 573707,
+        "num": 573707,
+        "word": "哪吒2海外票房破千万仅用4天",
+        "onboard_time": 1740021440,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 570381,
+        "num": 570381,
+        "word": "广西6死事故死伤者系修剪杂草工人",
+        "onboard_time": 1740020721,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 570333,
+        "num": 570333,
+        "word": "醉梦阵容官宣",
+        "onboard_time": 1740019039,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 538823,
+        "num": 538823,
+        "word": "骑手缴纳社保外卖会变贵吗",
+        "onboard_time": 1740022400,
+        "rank": 7,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 476297,
+        "num": 476297,
+        "word": "周星驰经纪人否认郑某峰投资换角色",
+        "onboard_time": 1740022100,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289189,
+        "num": 471128,
+        "word": "Deepseek开始抢情感咨询师饭碗了",
+        "onboard_time": 1740023061,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 2746122,
+        "num": 465585,
+        "word": "男子服刑期感染艾滋病监狱被判赔偿",
+        "onboard_time": 1740019700,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1678821,
+        "num": 448922,
+        "word": "刘诗诗将所持股权转让给吴奇隆",
+        "onboard_time": 1740015800,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1021594,
+        "num": 445944,
+        "word": "腾讯华为等接入DeepSeek每月亏超4亿",
+        "onboard_time": 1740021559,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 801907,
+        "num": 432013,
+        "word": "来殡仪馆吃米粉的人比献花的还多",
+        "onboard_time": 1740018919,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256322,
+        "num": 427447,
+        "word": "男子怕媳妇看到酒瓶直接从18楼抛出",
+        "onboard_time": 1740021921,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 753251,
+        "num": 414712,
+        "word": "网红越野唐僧去世",
+        "onboard_time": 1740024441,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 568478,
+        "num": 406052,
+        "word": "美方要求乌克兰交出50%矿产资源",
+        "onboard_time": 1740015078,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 402631,
+        "num": 402631,
+        "word": "iPhone16e XR",
+        "onboard_time": 1740024380,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 371024,
+        "num": 371024,
+        "word": "白敬亭三平台有四部破万剧",
+        "onboard_time": 1740014720,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51354,
+        "num": 333445,
+        "word": "王艺迪3比1平野美宇",
+        "onboard_time": 1740025342,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 390943,
+        "num": 323583,
+        "word": "董明珠只去用格力空调的餐厅",
+        "onboard_time": 1740023663,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 308885,
+        "num": 308885,
+        "word": "DeepSeek回答存款利率太低怎么办",
+        "onboard_time": 1740024982,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 281206,
+        "num": 281206,
+        "word": "郑州下雪",
+        "onboard_time": 1740024861,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290161,
+        "num": 272101,
+        "word": "白敬亭耍帅结果把后备箱打开了",
+        "onboard_time": 1740023602,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257357,
+        "num": 257357,
+        "word": "骑手缴纳社保增加的成本由谁承担",
+        "onboard_time": 1740024320,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 130044,
+        "num": 247366,
+        "word": "上汽奥迪A5L公告图发布",
+        "onboard_time": 1740021559,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 243689,
+        "num": 243689,
+        "word": "一批中国公民被从缅甸电诈园区遣送",
+        "onboard_time": 1740024441,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 252463,
+        "num": 242793,
+        "word": "韩东君一演戏想谈想撩又想离",
+        "onboard_time": 1740024802,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226836,
+        "num": 240948,
+        "word": "楚后",
+        "onboard_time": 1740017238,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240676,
+        "num": 240676,
+        "word": "上海一阿姨扫地踩穿楼板掉到楼下",
+        "onboard_time": 1740010220,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236843,
+        "num": 236843,
+        "word": "董明珠谈被很多员工背后骂",
+        "onboard_time": 1740025223,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 219363,
+        "num": 219363,
+        "word": "郑某某曾执导儿童向电影评分2.2",
+        "onboard_time": 1740015979,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214416,
+        "num": 214416,
+        "word": "肖战怼脸皮肤状态",
+        "onboard_time": 1740024562,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213616,
+        "num": 213616,
+        "word": "王耀庆虞书欣在王心凌的歌里联动了",
+        "onboard_time": 1740024502,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207789,
+        "num": 207789,
+        "word": "哪吒2全球动画第1",
+        "onboard_time": 1739879063,
+        "rank": 34,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 197266,
+        "num": 197266,
+        "word": "成毅应渊白月光又杀回年度角色了",
+        "onboard_time": 1740025041,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195485,
+        "num": 195485,
+        "word": "只此江湖梦定档",
+        "onboard_time": 1740021559,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179935,
+        "num": 179935,
+        "word": "哪吒2票房",
+        "onboard_time": 1740025402,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174463,
+        "num": 174463,
+        "word": "特朗普警告泽连斯基最好尽快行动",
+        "onboard_time": 1740018259,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 172920,
+        "num": 172920,
+        "word": "小伙没见到白富美喷保时捷红漆",
+        "onboard_time": 1740018919,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172650,
+        "num": 172650,
+        "word": "孙颖莎vs阿库拉",
+        "onboard_time": 1740021859,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172556,
+        "num": 172556,
+        "word": "邢台一局长酒驾砸店伤人被停职",
+        "onboard_time": 1740019820,
+        "rank": 41,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 168251,
+        "num": 168251,
+        "word": "马龙问巴赫向奥委会发展有何建议",
+        "onboard_time": 1740025282,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 396974,
+        "num": 168135,
+        "word": "特朗普用喜剧演员称呼泽连斯基",
+        "onboard_time": 1740015979,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162954,
+        "num": 162954,
+        "word": "特朗普下令未来5年每年削减8%国防预算",
+        "onboard_time": 1740023901,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162277,
+        "num": 162277,
+        "word": "王楚钦说拖场导致注意力精力下降",
+        "onboard_time": 1740024502,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162030,
+        "num": 162030,
+        "word": "iPhone16e两款配色",
+        "onboard_time": 1739983397,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 161326,
+        "num": 161326,
+        "word": "什么是个税年度汇算",
+        "onboard_time": 1740013579,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157960,
+        "num": 157960,
+        "word": "孙颖莎亚洲杯两连胜",
+        "onboard_time": 1740022762,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157723,
+        "num": 157723,
+        "word": "孙颖莎出场全场欢呼",
+        "onboard_time": 1740025583,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为民营企业鼓劲#"
+    }
+  }
+}
