@@ -1,6 +1,6 @@
 {
   "startTime": 1740069014077,
-  "endTime": 1740069014077,
+  "endTime": 1740069918870,
   "band_list": [
     {
       "raw_hot": 6060617,
@@ -67,20 +67,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 299459,
+      "num": 299459,
+      "word": "导演郑某峰被曝曾说陪睡就让演主角",
+      "onboard_time": 1740066860,
+      "rank": 5,
+      "category": "民生新闻,电影"
+    },
+    {
       "raw_hot": 295893,
       "num": 278289,
       "word": "锦绣芳华 暑期档",
       "onboard_time": 1740060142,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 280483,
-      "num": 280483,
-      "word": "导演郑某峰被曝曾说陪睡就让演主角",
-      "onboard_time": 1740066860,
-      "rank": 5,
-      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 265133,
@@ -107,6 +107,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 222082,
+      "num": 222082,
+      "word": "檀健次说再不拍猎罪3我就老了",
+      "onboard_time": 1740063503,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220053,
       "num": 209392,
       "word": "富国岛偶遇黄景瑜",
@@ -129,14 +137,6 @@
       "onboard_time": 1740045861,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 203312,
-      "num": 203312,
-      "word": "檀健次说再不拍猎罪3我就老了",
-      "onboard_time": 1740063503,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 187047,
@@ -203,6 +203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145598,
+      "num": 145598,
+      "word": "蔡徐坤妆容",
+      "onboard_time": 1740065902,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135084,
       "num": 135084,
       "word": "惠英红 影后就是影后",
@@ -211,11 +219,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 130220,
-      "num": 130220,
-      "word": "蔡徐坤妆容",
-      "onboard_time": 1740065902,
-      "rank": 30,
+      "raw_hot": 131059,
+      "num": 141594,
+      "word": "方时赫减肥前后对比照",
+      "onboard_time": 1740069018,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -299,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98216,
+      "num": 205457,
+      "word": "银川震感明显",
+      "onboard_time": 1740068657,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97495,
       "num": 130695,
       "word": "美国财长称乌克兰将签5000亿美元协议",
@@ -371,7 +387,7 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 76933,
+      "raw_hot": 77172,
       "num": 165876,
       "word": "全场高喊王楚钦",
       "onboard_time": 1740067820,
@@ -379,12 +395,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 51564,
-      "num": 205457,
-      "word": "银川震感明显",
-      "onboard_time": 1740068657,
-      "rank": 16,
-      "category": "民生新闻"
+      "raw_hot": 69760,
+      "num": 69760,
+      "word": "美国人口3.41亿社保却有3.98亿人",
+      "onboard_time": 1740069677,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 33727,
@@ -401,6 +417,22 @@
       "onboard_time": 1740037521,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 26997,
+      "num": 76500,
+      "word": "30多万元工伤理赔只拿到11.5万",
+      "onboard_time": 1740069856,
+      "rank": 41,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 13855,
+      "num": 141731,
+      "word": "杨某人祝狼队GG取得好成绩",
+      "onboard_time": 1740065063,
+      "rank": 23,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [

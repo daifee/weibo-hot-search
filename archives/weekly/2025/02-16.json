@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1740069014077,
+  "endTime": 1740069918870,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -5339,6 +5339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 299459,
+      "num": 299459,
+      "word": "导演郑某峰被曝曾说陪睡就让演主角",
+      "onboard_time": 1740066860,
+      "rank": 5,
+      "category": "民生新闻,电影"
+    },
+    {
       "raw_hot": 298837,
       "num": 382459,
       "word": "孙俪分享小花学瑜伽日常",
@@ -5713,14 +5721,6 @@
       "onboard_time": 1739946021,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 280483,
-      "num": 280483,
-      "word": "导演郑某峰被曝曾说陪睡就让演主角",
-      "onboard_time": 1740066860,
-      "rank": 5,
-      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 279764,
@@ -7075,6 +7075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222082,
+      "num": 222082,
+      "word": "檀健次说再不拍猎罪3我就老了",
+      "onboard_time": 1740063503,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222036,
       "num": 516212,
       "word": "脾胃虚弱会让人变丑",
@@ -7529,14 +7537,6 @@
       "onboard_time": 1740015440,
       "rank": 29,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 212320,
-      "num": 212320,
-      "word": "檀健次说再不拍猎罪3我就老了",
-      "onboard_time": 1740063503,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 212035,
@@ -10971,6 +10971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 145598,
+      "num": 145598,
+      "word": "蔡徐坤妆容",
+      "onboard_time": 1740065902,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145256,
       "num": 432534,
       "word": "教师被举报家暴及性骚扰学生后仍在职",
@@ -11683,6 +11691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131059,
+      "num": 141594,
+      "word": "方时赫减肥前后对比照",
+      "onboard_time": 1740069018,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130937,
       "num": 130937,
       "word": "女子8年前买黄金为儿子准备彩礼",
@@ -11729,14 +11745,6 @@
       "onboard_time": 1739672299,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 130220,
-      "num": 130220,
-      "word": "蔡徐坤妆容",
-      "onboard_time": 1740065902,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 130182,
@@ -13075,6 +13083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98216,
+      "num": 205457,
+      "word": "银川震感明显",
+      "onboard_time": 1740068657,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98083,
       "num": 389001,
       "word": "林诗栋王楚钦对练",
@@ -13731,20 +13747,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77172,
+      "num": 165876,
+      "word": "全场高喊王楚钦",
+      "onboard_time": 1740067820,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77005,
       "num": 239482,
       "word": "律师谈孕妇被箱子砸致孩子离世",
       "onboard_time": 1739949561,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 76933,
-      "num": 165876,
-      "word": "全场高喊王楚钦",
-      "onboard_time": 1740067820,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 76737,
@@ -13985,6 +14001,14 @@
       "onboard_time": 1739723657,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69760,
+      "num": 69760,
+      "word": "美国人口3.41亿社保却有3.98亿人",
+      "onboard_time": 1740069677,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 69751,
@@ -14609,14 +14633,6 @@
       "onboard_time": 1739944880,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 51564,
-      "num": 205457,
-      "word": "银川震感明显",
-      "onboard_time": 1740068657,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 51537,
@@ -15593,6 +15609,14 @@
       "onboard_time": 1739804302,
       "rank": 19,
       "category": "电影,民生新闻"
+    },
+    {
+      "raw_hot": 26997,
+      "num": 76500,
+      "word": "30多万元工伤理赔只拿到11.5万",
+      "onboard_time": 1740069856,
+      "rank": 41,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 26844,
