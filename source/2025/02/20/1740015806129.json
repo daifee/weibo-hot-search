@@ -1,0 +1,410 @@
+{
+  "runTime": 1740015806129,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 580527,
+        "num": 1092884,
+        "word": "外交部回应小特朗普涉华言论",
+        "onboard_time": 1740006616,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1073226,
+        "num": 1073226,
+        "word": "美甲师做敖闰穿戴甲忙疯了",
+        "onboard_time": 1740008058,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46348,
+        "num": 526505,
+        "word": "专家解读促进民营经济发展工作重点",
+        "onboard_time": 1739976024,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 461356,
+        "num": 461356,
+        "word": "白敬亭三平台有四部破万剧",
+        "onboard_time": 1740014720,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 448608,
+        "num": 448608,
+        "word": "DeepSeek测出理想伴侣仅存个位数",
+        "onboard_time": 1740007036,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 461521,
+        "num": 436654,
+        "word": "导演郑某峰涉嫌猥亵儿童被刑拘",
+        "onboard_time": 1739972602,
+        "rank": 5,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 574934,
+        "num": 433389,
+        "word": "DeepSeek引来悄无声息的职场地震",
+        "onboard_time": 1740012441,
+        "rank": 6,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 414566,
+        "num": 414566,
+        "word": "iPhone16e定价4499元起",
+        "onboard_time": 1739982915,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 365562,
+        "num": 401434,
+        "word": "我承认对难哄大声了一点",
+        "onboard_time": 1739969841,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203297,
+        "num": 395318,
+        "word": "马库斯揭露外祖父同事被日军强奸活埋",
+        "onboard_time": 1740013880,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 434790,
+        "num": 393637,
+        "word": "西安女子吐槽银行8个窗口6个不营业",
+        "onboard_time": 1740014181,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391311,
+        "num": 391311,
+        "word": "美国2架小飞机空中相撞",
+        "onboard_time": 1740007036,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 390039,
+        "num": 390039,
+        "word": "泽连斯基拒签后准备公开美矿产协议",
+        "onboard_time": 1740012141,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 385860,
+        "num": 385860,
+        "word": "iPhone16e两款配色",
+        "onboard_time": 1739983397,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 312841,
+        "num": 312841,
+        "word": "哪吒2爆火后西安团队求职数翻10倍",
+        "onboard_time": 1740008297,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 311609,
+        "num": 311609,
+        "word": "5万悬赏爱犬被两条流浪狗收养",
+        "onboard_time": 1740007036,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296580,
+        "num": 296580,
+        "word": "iPhone16e",
+        "onboard_time": 1739984235,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 276589,
+        "num": 276589,
+        "word": "七旬老人动迁分4套房卖了16次",
+        "onboard_time": 1739974942,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261513,
+        "num": 261513,
+        "word": "红房子13集 封神",
+        "onboard_time": 1739975241,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186112,
+        "num": 260236,
+        "word": "昀牵孟绕",
+        "onboard_time": 1739975603,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1531250,
+        "num": 260216,
+        "word": "男孩蛋蛋被同学踢碎成果冻",
+        "onboard_time": 1740006555,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 503417,
+        "num": 260206,
+        "word": "上海一阿姨扫地踩穿楼板掉到楼下",
+        "onboard_time": 1740010220,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260197,
+        "num": 260197,
+        "word": "哪吒创作团队停止所有对外采访",
+        "onboard_time": 1739967800,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 252772,
+        "num": 252772,
+        "word": "老板回应因顾客加5勺辣椒报警",
+        "onboard_time": 1739978960,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212659,
+        "num": 212659,
+        "word": "iPhone全面放弃home键",
+        "onboard_time": 1740012201,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 202180,
+        "num": 202180,
+        "word": "王皓对王楚钦说赢下来就非常好",
+        "onboard_time": 1740012141,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196061,
+        "num": 196061,
+        "word": "美国两小型飞机相撞2死",
+        "onboard_time": 1740011961,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 183618,
+        "num": 183618,
+        "word": "金价一夜暴涨12元",
+        "onboard_time": 1739974224,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 175511,
+        "num": 175511,
+        "word": "余烬之上",
+        "onboard_time": 1740015258,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73664,
+        "num": 174066,
+        "word": "跑步多久才能达到减肥目的",
+        "onboard_time": 1740015440,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 198658,
+        "num": 173677,
+        "word": "王皓在场边急的坐立难安",
+        "onboard_time": 1740014181,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176524,
+        "num": 173606,
+        "word": "哪吒2全球动画第1",
+        "onboard_time": 1739879063,
+        "rank": 31,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 172997,
+        "num": 172997,
+        "word": "宁艺卓 FILA",
+        "onboard_time": 1740015681,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169140,
+        "num": 169140,
+        "word": "女子戴耳环不摘耳垂长出葡萄瘤",
+        "onboard_time": 1739974523,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162468,
+        "num": 162468,
+        "word": "灌面汤呛死妻子案被告人当庭认罪认罚",
+        "onboard_time": 1739981420,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158041,
+        "num": 158041,
+        "word": "李行亮称节目带没带剧本很难自证",
+        "onboard_time": 1739988073,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157237,
+        "num": 157237,
+        "word": "俄军已越过库尔斯克地区俄乌边界",
+        "onboard_time": 1739978721,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146849,
+        "num": 146849,
+        "word": "美方要求乌克兰交出50%矿产资源",
+        "onboard_time": 1740015078,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146456,
+        "num": 146456,
+        "word": "欧阳震华有哪吒2的票了",
+        "onboard_time": 1740014301,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146368,
+        "num": 146368,
+        "word": "十年前的白梦妍嫩得掐出水来了",
+        "onboard_time": 1739978601,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146289,
+        "num": 146289,
+        "word": "哪吒2官方登顶海报",
+        "onboard_time": 1739974523,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143317,
+        "num": 143317,
+        "word": "BLACKPINK官宣2025世巡场次",
+        "onboard_time": 1739980221,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133250,
+        "num": 133250,
+        "word": "什么是个税年度汇算",
+        "onboard_time": 1740013579,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130182,
+        "num": 130182,
+        "word": "孟子义透露接下来的工作安排",
+        "onboard_time": 1740012560,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127103,
+        "num": 127103,
+        "word": "特朗普称美国是非常腐败的国家",
+        "onboard_time": 1740015379,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123361,
+        "num": 123361,
+        "word": "姆巴佩帽子戏法",
+        "onboard_time": 1740012141,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123135,
+        "num": 123135,
+        "word": "美方打劫乌克兰协议细节曝光",
+        "onboard_time": 1739979321,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122938,
+        "num": 122938,
+        "word": "网曝711店员熟食区做不雅行为",
+        "onboard_time": 1739959400,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120735,
+        "num": 120735,
+        "word": "姜广涛彩排",
+        "onboard_time": 1740015618,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120087,
+        "num": 120087,
+        "word": "哪吒2香港公映首日获九成影院排片",
+        "onboard_time": 1739981179,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#感悟总书记对民企发展的关怀#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1740008151074,
+  "endTime": 1740015806129,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -340,7 +340,7 @@
     },
     {
       "raw_hot": 1889517,
-      "num": 163392,
+      "num": 260216,
       "word": "男孩蛋蛋被同学踢碎成果冻",
       "onboard_time": 1740006555,
       "rank": 20,
@@ -1051,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1073226,
+      "num": 1073226,
+      "word": "美甲师做敖闰穿戴甲忙疯了",
+      "onboard_time": 1740008058,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1068558,
       "num": 1068558,
       "word": "中国已开始部署防御小行星撞击地球",
@@ -1572,7 +1580,7 @@
     },
     {
       "raw_hot": 803700,
-      "num": 803700,
+      "num": 1092884,
       "word": "外交部回应小特朗普涉华言论",
       "onboard_time": 1740006616,
       "rank": 3,
@@ -2251,6 +2259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 574934,
+      "num": 433389,
+      "word": "DeepSeek引来悄无声息的职场地震",
+      "onboard_time": 1740012441,
+      "rank": 6,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 569990,
       "num": 569990,
       "word": "胡歌称40岁已经进入人生倒计时了",
@@ -2587,6 +2603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 503417,
+      "num": 260206,
+      "word": "上海一阿姨扫地踩穿楼板掉到楼下",
+      "onboard_time": 1740010220,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 502190,
       "num": 649558,
       "word": "国际现货黄金价格已上涨63%",
@@ -2875,6 +2899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 461356,
+      "num": 461356,
+      "word": "白敬亭三平台有四部破万剧",
+      "onboard_time": 1740014720,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 461214,
       "num": 336433,
       "word": "国乒两位功勋教练之争实属罕见",
@@ -2969,6 +3001,14 @@
       "onboard_time": 1739713882,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 448608,
+      "num": 448608,
+      "word": "DeepSeek测出理想伴侣仅存个位数",
+      "onboard_time": 1740007036,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 448156,
@@ -3099,6 +3139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 434790,
+      "num": 393637,
+      "word": "西安女子吐槽银行8个窗口6个不营业",
+      "onboard_time": 1740014181,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 434446,
       "num": 376364,
       "word": "朴灿烈ins晒与张艺兴合照",
@@ -3217,6 +3265,14 @@
       "onboard_time": 1739867123,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 414566,
+      "num": 414566,
+      "word": "iPhone16e定价4499元起",
+      "onboard_time": 1739982915,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 411663,
@@ -3385,6 +3441,22 @@
       "onboard_time": 1739957540,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 391311,
+      "num": 391311,
+      "word": "美国2架小飞机空中相撞",
+      "onboard_time": 1740007036,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 390039,
+      "num": 390039,
+      "word": "泽连斯基拒签后准备公开美矿产协议",
+      "onboard_time": 1740012141,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 389631,
@@ -4171,12 +4243,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 312841,
+      "num": 312841,
+      "word": "哪吒2爆火后西安团队求职数翻10倍",
+      "onboard_time": 1740008297,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 312487,
       "num": 448849,
       "word": "余承恩不看好奇看了红温",
       "onboard_time": 1739945961,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 311609,
+      "num": 311609,
+      "word": "5万悬赏爱犬被两条流浪狗收养",
+      "onboard_time": 1740007036,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 310764,
@@ -5075,6 +5163,14 @@
       "category": "民生新闻,电影"
     },
     {
+      "raw_hot": 252772,
+      "num": 252772,
+      "word": "老板回应因顾客加5勺辣椒报警",
+      "onboard_time": 1739978960,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 252435,
       "num": 289710,
       "word": "土象星座最伤人的一点",
@@ -5089,14 +5185,6 @@
       "onboard_time": 1739767521,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 251484,
-      "num": 251484,
-      "word": "iPhone16e定价4499元起",
-      "onboard_time": 1739982915,
-      "rank": 16,
-      "category": "数码"
     },
     {
       "raw_hot": 251421,
@@ -5513,14 +5601,6 @@
       "onboard_time": 1739968880,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 234089,
-      "num": 162840,
-      "word": "老板回应因顾客加5勺辣椒报警",
-      "onboard_time": 1739978960,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 233706,
@@ -6107,6 +6187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212659,
+      "num": 212659,
+      "word": "iPhone全面放弃home键",
+      "onboard_time": 1740012201,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 212502,
       "num": 218922,
       "word": "王鹤棣显摆To签球衣",
@@ -6459,6 +6547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203297,
+      "num": 395318,
+      "word": "马库斯揭露外祖父同事被日军强奸活埋",
+      "onboard_time": 1740013880,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203159,
       "num": 203159,
       "word": "本周做什么都顺的星座",
@@ -6505,6 +6601,14 @@
       "onboard_time": 1739853324,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202180,
+      "num": 202180,
+      "word": "王皓对王楚钦说赢下来就非常好",
+      "onboard_time": 1740012141,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 202053,
@@ -6699,6 +6803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198658,
+      "num": 173677,
+      "word": "王皓在场边急的坐立难安",
+      "onboard_time": 1740014181,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198582,
       "num": 198582,
       "word": "成毅 蜜丝婷",
@@ -6817,6 +6929,14 @@
       "onboard_time": 1739798542,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196061,
+      "num": 196061,
+      "word": "美国两小型飞机相撞2死",
+      "onboard_time": 1740011961,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 195570,
@@ -7616,6 +7736,14 @@
       "word": "赵磊不办传统婚礼",
       "onboard_time": 1739661373,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 172997,
+      "num": 172997,
+      "word": "宁艺卓 FILA",
+      "onboard_time": 1740015681,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -8483,14 +8611,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 151480,
-      "num": 234751,
-      "word": "美国2架小飞机空中相撞",
-      "onboard_time": 1740007036,
-      "rank": 24,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 151463,
       "num": 151463,
       "word": "于正五年前买股王星越黄杨钿甜",
@@ -8683,12 +8803,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 146849,
+      "num": 146849,
+      "word": "美方要求乌克兰交出50%矿产资源",
+      "onboard_time": 1740015078,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 146800,
       "num": 146800,
       "word": "男子偷5万叮嘱老婆我进去后你自己走",
       "onboard_time": 1739630422,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146456,
+      "num": 146456,
+      "word": "欧阳震华有哪吒2的票了",
+      "onboard_time": 1740014301,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 146234,
@@ -9227,6 +9363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 133250,
+      "num": 133250,
+      "word": "什么是个税年度汇算",
+      "onboard_time": 1740013579,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132996,
       "num": 495190,
       "word": "多人表示面汤呛妻案中妻子被殴打",
@@ -9329,6 +9473,14 @@
       "onboard_time": 1739672299,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130182,
+      "num": 130182,
+      "word": "孟子义透露接下来的工作安排",
+      "onboard_time": 1740012560,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 130170,
@@ -9481,6 +9633,14 @@
       "onboard_time": 1739843719,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127103,
+      "num": 127103,
+      "word": "特朗普称美国是非常腐败的国家",
+      "onboard_time": 1740015379,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 126587,
@@ -9643,6 +9803,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 123361,
+      "num": 123361,
+      "word": "姆巴佩帽子戏法",
+      "onboard_time": 1740012141,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122527,
       "num": 801078,
       "word": "被杀女幼师将被申报见义勇为",
@@ -9697,6 +9865,14 @@
       "onboard_time": 1739678839,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 120735,
+      "num": 120735,
+      "word": "姜广涛彩排",
+      "onboard_time": 1740015618,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 120640,
@@ -10075,14 +10251,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 109438,
-      "num": 109438,
-      "word": "5万悬赏爱犬被两条流浪狗收养",
-      "onboard_time": 1740007036,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109048,
       "num": 434025,
       "word": "一张实名手机卡卖600至1000元不等",
@@ -10193,14 +10361,6 @@
       "onboard_time": 1739929880,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 105271,
-      "num": 234912,
-      "word": "DeepSeek测出理想伴侣仅存个位数",
-      "onboard_time": 1740007036,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 105270,
@@ -11179,6 +11339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 73664,
+      "num": 174066,
+      "word": "跑步多久才能达到减肥目的",
+      "onboard_time": 1740015440,
+      "rank": 29,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 72713,
       "num": 72713,
       "word": "李蠕蠕模仿哪吒2全明星",
@@ -11584,14 +11752,6 @@
       "word": "男子跳入冰河救起三名儿童默默离开",
       "onboard_time": 1739875642,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 59726,
-      "num": 59726,
-      "word": "美甲师做敖闰穿戴甲忙疯了",
-      "onboard_time": 1740008058,
-      "rank": 49,
       "category": "民生新闻"
     },
     {
