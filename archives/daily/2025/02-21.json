@@ -1,6 +1,6 @@
 {
   "startTime": 1740069014077,
-  "endTime": 1740076263662,
+  "endTime": 1740077061830,
   "band_list": [
     {
       "raw_hot": 6060617,
@@ -435,8 +435,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 59608,
-      "num": 59608,
+      "raw_hot": 66213,
+      "num": 66213,
       "word": "华中农大多名学生称租房面临被赶",
       "onboard_time": 1740074592,
       "rank": 19,
@@ -491,6 +491,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 24856,
+      "num": 77177,
+      "word": "美国近日7架飞机接连出事故",
+      "onboard_time": 1740075792,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 24478,
+      "num": 24478,
+      "word": "邓为帮苏易水找记忆",
+      "onboard_time": 1740076572,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 23709,
       "num": 27286,
       "word": "金树林绽放之夜",
@@ -499,20 +515,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 15314,
-      "num": 77177,
-      "word": "美国近日7架飞机接连出事故",
-      "onboard_time": 1740075792,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 13855,
       "num": 141731,
       "word": "杨某人祝狼队GG取得好成绩",
       "onboard_time": 1740065063,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 10287,
+      "num": 27665,
+      "word": "美人鱼回旋镖打脸郑总",
+      "onboard_time": 1740076991,
+      "rank": 41,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 8778,
