@@ -1,0 +1,410 @@
+{
+  "runTime": 1740044287730,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3333583,
+        "num": 3333583,
+        "word": "多位演员自曝曾被导演郑某某侵害",
+        "onboard_time": 1740039083,
+        "rank": 0,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 1972802,
+        "num": 1972802,
+        "word": "难哄直播 尴尬",
+        "onboard_time": 1740039020,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84373,
+        "num": 1442704,
+        "word": "为何再次强调支持民营经济发展",
+        "onboard_time": 1740042802,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 937946,
+        "num": 937946,
+        "word": "董力挨骂",
+        "onboard_time": 1740041481,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 667920,
+        "num": 667920,
+        "word": "广西县委书记要求干部必须要会用DeepSeek",
+        "onboard_time": 1740041001,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 394842,
+        "num": 394842,
+        "word": "特朗普称乌克兰或将不复存在",
+        "onboard_time": 1740029962,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 860631,
+        "num": 394208,
+        "word": "章若楠回应直播尴尬",
+        "onboard_time": 1740041842,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 551248,
+        "num": 393919,
+        "word": "胡静老公从事殡葬行业",
+        "onboard_time": 1740034223,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 389811,
+        "num": 389811,
+        "word": "千万网红毒角SHOW美国高速SUV自燃",
+        "onboard_time": 1740034281,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 263264,
+        "num": 389792,
+        "word": "妙瓦底200名中国籍涉诈嫌犯押解回国",
+        "onboard_time": 1740043641,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1541407,
+        "num": 389739,
+        "word": "新郎被部队召回妹妹代哥哥拜堂",
+        "onboard_time": 1740039863,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 449177,
+        "num": 389678,
+        "word": "金敏喜挺孕肚出发柏林",
+        "onboard_time": 1740037641,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 423072,
+        "num": 389582,
+        "word": "黄多多盘发发量",
+        "onboard_time": 1740028882,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262987,
+        "num": 389534,
+        "word": "中医专家回应DeepSeek开药方",
+        "onboard_time": 1740042561,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 419713,
+        "num": 389427,
+        "word": "女子网上晒娃公司撤销哺乳假被驳回",
+        "onboard_time": 1740040700,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389414,
+        "num": 389414,
+        "word": "39岁男子去世妻子捐出他全部器官",
+        "onboard_time": 1740040225,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332825,
+        "num": 332825,
+        "word": "韩庚对卢靖姗一见钟情",
+        "onboard_time": 1740037761,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288904,
+        "num": 288904,
+        "word": "佘诗曼被问王大陆逃兵役被抓的反应",
+        "onboard_time": 1740030381,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34334,
+        "num": 288614,
+        "word": "韶华杯省赛一等奖只要688元",
+        "onboard_time": 1740042742,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 148580,
+        "num": 287058,
+        "word": "起底涉嫌猥亵儿童导演投资版图",
+        "onboard_time": 1740040524,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 438657,
+        "num": 284135,
+        "word": "印度17岁举重冠军被杠铃压脖身亡",
+        "onboard_time": 1740039261,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 420917,
+        "num": 282410,
+        "word": "原来拍吻戏真的会亲到肿",
+        "onboard_time": 1740041241,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281816,
+        "num": 281816,
+        "word": "林心如看新闻知道陈妍希离婚",
+        "onboard_time": 1740043520,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117471,
+        "num": 265902,
+        "word": "尊界S800全球首发众多顶尖黑科技",
+        "onboard_time": 1740040763,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 261658,
+        "num": 261658,
+        "word": "2025年8省份将不再分文理科",
+        "onboard_time": 1740038422,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251180,
+        "num": 251180,
+        "word": "哪吒2破126亿",
+        "onboard_time": 1740040044,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 243936,
+        "num": 243936,
+        "word": "房东猥亵女生因年纪过大免于处罚",
+        "onboard_time": 1740028641,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220315,
+        "num": 220315,
+        "word": "桑延温以凡摩天轮吻",
+        "onboard_time": 1740035483,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220106,
+        "num": 220106,
+        "word": "何老师我们还是太熟了",
+        "onboard_time": 1740038481,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219251,
+        "num": 219251,
+        "word": "白敬亭在难哄直播间操碎了心",
+        "onboard_time": 1740042441,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234734,
+        "num": 216534,
+        "word": "榜1大哥称账号被封骗走主播24万5",
+        "onboard_time": 1740037401,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203900,
+        "num": 203900,
+        "word": "董力结婚5年了",
+        "onboard_time": 1740029424,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94308,
+        "num": 200988,
+        "word": "时尚芭莎三月刊预告",
+        "onboard_time": 1740044180,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 199308,
+        "num": 199308,
+        "word": "抗癌博主小何日记去世",
+        "onboard_time": 1740031822,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58915,
+        "num": 197812,
+        "word": "在最不懂的年纪吃了最细的糠",
+        "onboard_time": 1740044242,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 196481,
+        "num": 196481,
+        "word": "妻旅放了胡静12个角色",
+        "onboard_time": 1740043161,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74841,
+        "num": 196335,
+        "word": "光线传媒跳水股民称5分钟蒸发10万",
+        "onboard_time": 1740031461,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 196296,
+        "num": 196296,
+        "word": "05花",
+        "onboard_time": 1740032061,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191755,
+        "num": 191755,
+        "word": "Jennie开通抖音",
+        "onboard_time": 1740043161,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188294,
+        "num": 188294,
+        "word": "中国钻开5亿年前古老岩层",
+        "onboard_time": 1740042502,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186430,
+        "num": 186430,
+        "word": "难哄",
+        "onboard_time": 1740028703,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185651,
+        "num": 185651,
+        "word": "掌心 没有生离全是死别",
+        "onboard_time": 1740043401,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166747,
+        "num": 166747,
+        "word": "赵晴扫楼黑长直姐感",
+        "onboard_time": 1740044001,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163294,
+        "num": 163294,
+        "word": "两条流浪狗已被啾啾主人收养",
+        "onboard_time": 1740042982,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153308,
+        "num": 153308,
+        "word": "藏海传央视待播",
+        "onboard_time": 1740041183,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151300,
+        "num": 151300,
+        "word": "樊振东将出席启德体育园开幕典礼",
+        "onboard_time": 1740042621,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148182,
+        "num": 148182,
+        "word": "孙颖莎打了自己一巴掌",
+        "onboard_time": 1740030922,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146426,
+        "num": 146426,
+        "word": "捐赠日军侵华照片的马库斯想去日本",
+        "onboard_time": 1740043940,
+        "rank": 47,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 140353,
+        "num": 140353,
+        "word": "张婧仪烤火把衣服烧了",
+        "onboard_time": 1740038481,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128120,
+        "num": 137114,
+        "word": "郭艾伦再发声",
+        "onboard_time": 1740033502,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的科技情怀#"
+    }
+  }
+}
