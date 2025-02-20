@@ -1,0 +1,410 @@
+{
+  "runTime": 1740062456966,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1676260,
+        "num": 1676260,
+        "word": "deepseek一两分钟干了我一两天的活",
+        "onboard_time": 1740058822,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1620376,
+        "num": 1620376,
+        "word": "章子怡问杨子再见爱人是演的吗",
+        "onboard_time": 1740057202,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63000,
+        "num": 1038830,
+        "word": "我国首口超万米深井完钻",
+        "onboard_time": 1740037521,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2171782,
+        "num": 1033936,
+        "word": "富国岛偶遇黄景瑜",
+        "onboard_time": 1740060083,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 923411,
+        "num": 923411,
+        "word": "乌克兰",
+        "onboard_time": 1740056301,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 848326,
+        "num": 848326,
+        "word": "拐卖王星的中国籍嫌犯押解回国现场",
+        "onboard_time": 1740053839,
+        "rank": 5,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 1283301,
+        "num": 832729,
+        "word": "多位演员自曝曾被导演郑某某侵害",
+        "onboard_time": 1740039083,
+        "rank": 6,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 876354,
+        "num": 793963,
+        "word": "锦绣芳华 暑期档",
+        "onboard_time": 1740060142,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 706713,
+        "num": 706713,
+        "word": "在江苏生育一孩也将享50%社保补贴",
+        "onboard_time": 1740059424,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 506387,
+        "num": 506387,
+        "word": "郭艾伦谈捅伤自己的队友事后态度",
+        "onboard_time": 1740045861,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 946507,
+        "num": 504552,
+        "word": "王楚钦的腹肌",
+        "onboard_time": 1740058286,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 741148,
+        "num": 500594,
+        "word": "难哄直播 尴尬",
+        "onboard_time": 1740039020,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 687025,
+        "num": 492333,
+        "word": "万渣朝凰",
+        "onboard_time": 1740059543,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 552620,
+        "num": 486920,
+        "word": "惠英红 影后就是影后",
+        "onboard_time": 1740051620,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 528848,
+        "num": 478251,
+        "word": "李敏镐否认与朴春恋爱",
+        "onboard_time": 1740058883,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321334,
+        "num": 477023,
+        "word": "美国财长称乌克兰将签5000亿美元协议",
+        "onboard_time": 1740060623,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 472066,
+        "num": 472066,
+        "word": "华农近50名学生陷入房租纠纷",
+        "onboard_time": 1740057082,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316191,
+        "num": 316191,
+        "word": "cp31",
+        "onboard_time": 1740056421,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 233347,
+        "num": 314053,
+        "word": "怀孕主播直播时被设备砸成脑震荡",
+        "onboard_time": 1740052462,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74475,
+        "num": 313077,
+        "word": "反中乱港组织民主党宣布解散",
+        "onboard_time": 1740061763,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 729849,
+        "num": 310419,
+        "word": "戚薇9年没去婆家了",
+        "onboard_time": 1740049581,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 498460,
+        "num": 308649,
+        "word": "张淼怡直播状态",
+        "onboard_time": 1740059482,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 423485,
+        "num": 306136,
+        "word": "制作人员做无量仙翁时以为是好人",
+        "onboard_time": 1740051801,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 367647,
+        "num": 303330,
+        "word": "万花世界 鞠婧祎",
+        "onboard_time": 1740058703,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106467,
+        "num": 300812,
+        "word": "苹果换折叠屏至高补贴1800元",
+        "onboard_time": 1740058522,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 362548,
+        "num": 297925,
+        "word": "哪吒2已超127亿",
+        "onboard_time": 1740060924,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 297632,
+        "num": 297632,
+        "word": "原来甲醛超标身体是有症状的",
+        "onboard_time": 1740048021,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 296745,
+        "num": 296745,
+        "word": "被房东多次猥亵女子男友发声",
+        "onboard_time": 1740054501,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11736,
+        "num": 289604,
+        "word": "里夫斯被驱逐",
+        "onboard_time": 1740061464,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286222,
+        "num": 286222,
+        "word": "尤浩然说杨紫张一山联系多是正常",
+        "onboard_time": 1740044721,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130429,
+        "num": 266662,
+        "word": "极氪001被撞空翻车主安然无恙",
+        "onboard_time": 1740058403,
+        "rank": 30,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 50457,
+        "num": 256910,
+        "word": "广州一校园冲突20年后旧案重提",
+        "onboard_time": 1740060563,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256854,
+        "num": 256854,
+        "word": "怎么敢让孙丞潇和于佩尔搭戏的啊",
+        "onboard_time": 1740050541,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232356,
+        "num": 232356,
+        "word": "原来拍吻戏真的会亲到肿",
+        "onboard_time": 1740041241,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9744,
+        "num": 220335,
+        "word": "如鸢撒娇刘辩最好命",
+        "onboard_time": 1740056362,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 214571,
+        "num": 214571,
+        "word": "义乌老板利用DeepSeek卖空小商品",
+        "onboard_time": 1740062063,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211877,
+        "num": 211877,
+        "word": "孙丞潇向于佩尔道歉",
+        "onboard_time": 1740059543,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210986,
+        "num": 210986,
+        "word": "地下1万多米的颜色",
+        "onboard_time": 1740057921,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196448,
+        "num": 196448,
+        "word": "周雨彤韩东君拍戏7天结了生了离了",
+        "onboard_time": 1740061884,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195796,
+        "num": 195796,
+        "word": "王楚钦VS宇田幸矢",
+        "onboard_time": 1740056062,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193630,
+        "num": 193630,
+        "word": "易烊千玺朱一龙 合作",
+        "onboard_time": 1740051560,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187257,
+        "num": 187257,
+        "word": "张亮4部代表作都在3分之下",
+        "onboard_time": 1740053300,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185766,
+        "num": 185766,
+        "word": "张百乔心态演崩了",
+        "onboard_time": 1740049821,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183536,
+        "num": 183536,
+        "word": "柳智敏出演权志龙打歌舞台",
+        "onboard_time": 1740056722,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179475,
+        "num": 179475,
+        "word": "第一次见手拉手直播的",
+        "onboard_time": 1740054141,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176199,
+        "num": 176199,
+        "word": "钟辰乐去了朴志晟生日会",
+        "onboard_time": 1740061283,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158696,
+        "num": 158696,
+        "word": "中国男篮大胜日本队",
+        "onboard_time": 1740057862,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129066,
+        "num": 129066,
+        "word": "崔太洋 鼻子",
+        "onboard_time": 1740054681,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126960,
+        "num": 126960,
+        "word": "孟子义或将参加无限超越班",
+        "onboard_time": 1740055701,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47676,
+        "num": 126572,
+        "word": "亲眼目睹老板人不在工位却操控着一切",
+        "onboard_time": 1740058522,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#专心致志做强做优做大企业#"
+    }
+  }
+}

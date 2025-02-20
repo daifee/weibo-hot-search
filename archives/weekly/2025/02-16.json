@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1740061355280,
+  "endTime": 1740062456966,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -339,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2171782,
+      "num": 1033936,
+      "word": "富国岛偶遇黄景瑜",
+      "onboard_time": 1740060083,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2170134,
       "num": 368108,
       "word": "93岁老人犯强奸罪后看守所拒绝收押",
@@ -497,6 +505,14 @@
       "onboard_time": 1739802081,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1676260,
+      "num": 1676260,
+      "word": "deepseek一两分钟干了我一两天的活",
+      "onboard_time": 1740058822,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1667596,
@@ -856,14 +872,6 @@
       "word": "护士因拔针出血跪求患者原谅",
       "onboard_time": 1739866042,
       "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1338104,
-      "num": 1338104,
-      "word": "deepseek一两分钟干了我一两天的活",
-      "onboard_time": 1740058822,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -1627,14 +1635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 903411,
-      "num": 903411,
-      "word": "富国岛偶遇黄景瑜",
-      "onboard_time": 1740060083,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 896529,
       "num": 896529,
       "word": "妙瓦底200名中国籍涉诈嫌犯押解回国",
@@ -1664,6 +1664,14 @@
       "word": "咸鱼飞升女主换林允",
       "onboard_time": 1739788819,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 876354,
+      "num": 793963,
+      "word": "锦绣芳华 暑期档",
+      "onboard_time": 1740060142,
+      "rank": 13,
       "category": "剧集"
     },
     {
@@ -2219,6 +2227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 706713,
+      "num": 706713,
+      "word": "在江苏生育一孩也将享50%社保补贴",
+      "onboard_time": 1740059424,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 701504,
       "num": 678601,
       "word": "哪吒2破125亿",
@@ -2257,6 +2273,14 @@
       "onboard_time": 1739676319,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 687025,
+      "num": 594926,
+      "word": "万渣朝凰",
+      "onboard_time": 1740059543,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 684789,
@@ -2337,14 +2361,6 @@
       "onboard_time": 1740039261,
       "rank": 22,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 666303,
-      "num": 666303,
-      "word": "在江苏生育一孩也将享50%社保补贴",
-      "onboard_time": 1740059424,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 662428,
@@ -2675,14 +2691,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 594926,
-      "num": 594926,
-      "word": "万渣朝凰",
-      "onboard_time": 1740059543,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 594639,
       "num": 393637,
       "word": "西安女子吐槽银行8个窗口6个不营业",
@@ -2931,14 +2939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 546228,
-      "num": 546228,
-      "word": "锦绣芳华 暑期档",
-      "onboard_time": 1740060142,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 542742,
       "num": 405222,
       "word": "难哄全网登顶",
@@ -3041,6 +3041,14 @@
       "onboard_time": 1739694858,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 528848,
+      "num": 495874,
+      "word": "李敏镐否认与朴春恋爱",
+      "onboard_time": 1740058883,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 528142,
@@ -3227,20 +3235,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 498460,
+      "num": 318623,
+      "word": "张淼怡直播状态",
+      "onboard_time": 1740059482,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 497969,
       "num": 497969,
       "word": "他盛装出席她的毕业典礼",
       "onboard_time": 1739694979,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 495874,
-      "num": 495874,
-      "word": "李敏镐否认与朴春恋爱",
-      "onboard_time": 1740058883,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 494479,
@@ -3393,6 +3401,14 @@
       "onboard_time": 1739698878,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 472066,
+      "num": 516841,
+      "word": "华农近50名学生陷入房租纠纷",
+      "onboard_time": 1740057082,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 471786,
@@ -4267,14 +4283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 382951,
-      "num": 318623,
-      "word": "张淼怡直播状态",
-      "onboard_time": 1740059482,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 381458,
       "num": 381458,
       "word": "三步走教你办理个税年度汇算",
@@ -4443,6 +4451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 367647,
+      "num": 314910,
+      "word": "万花世界 鞠婧祎",
+      "onboard_time": 1740058703,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 367072,
       "num": 547522,
       "word": "Deepseek开始抢情感咨询师饭碗了",
@@ -4488,6 +4504,14 @@
       "word": "哪吒2在联合国特别放映",
       "onboard_time": 1739851585,
       "rank": 37,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 362548,
+      "num": 297925,
+      "word": "哪吒2已超127亿",
+      "onboard_time": 1740060924,
+      "rank": 44,
       "category": "电影"
     },
     {
@@ -4713,14 +4737,6 @@
       "onboard_time": 1739790319,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 345077,
-      "num": 314910,
-      "word": "万花世界 鞠婧祎",
-      "onboard_time": 1740058703,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 344312,
@@ -5017,6 +5033,14 @@
       "onboard_time": 1740018861,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 321334,
+      "num": 622212,
+      "word": "美国财长称乌克兰将签5000亿美元协议",
+      "onboard_time": 1740060623,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 320863,
@@ -6395,14 +6419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 245997,
-      "num": 622212,
-      "word": "美国财长称乌克兰将签5000亿美元协议",
-      "onboard_time": 1740060623,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 245847,
       "num": 245847,
       "word": "黄友政3比1张本智和",
@@ -7355,6 +7371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214571,
+      "num": 214571,
+      "word": "义乌老板利用DeepSeek卖空小商品",
+      "onboard_time": 1740062063,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 214416,
       "num": 214416,
       "word": "肖战怼脸皮肤状态",
@@ -7384,14 +7408,6 @@
       "word": "女子多次楼道烧香倒灰撒冥纸邻居崩溃",
       "onboard_time": 1739763561,
       "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 214247,
-      "num": 516841,
-      "word": "华农近50名学生陷入房租纠纷",
-      "onboard_time": 1740057082,
-      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -8323,6 +8339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196448,
+      "num": 196448,
+      "word": "周雨彤韩东君拍戏7天结了生了离了",
+      "onboard_time": 1740061884,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196430,
       "num": 196430,
       "word": "爱奇艺会员收入降13%",
@@ -8939,14 +8963,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 185308,
-      "num": 185308,
-      "word": "哪吒2已超127亿",
-      "onboard_time": 1740060924,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 185288,
       "num": 185288,
       "word": "中年雄竞的风吹到了国产剧",
@@ -9361,6 +9377,14 @@
       "onboard_time": 1740030381,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176199,
+      "num": 176199,
+      "word": "钟辰乐去了朴志晟生日会",
+      "onboard_time": 1740061283,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 175515,
@@ -10625,14 +10649,6 @@
       "onboard_time": 1739779762,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 149888,
-      "num": 149888,
-      "word": "钟辰乐去了朴志晟生日会",
-      "onboard_time": 1740061283,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 149649,
@@ -13627,6 +13643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74475,
+      "num": 313077,
+      "word": "反中乱港组织民主党宣布解散",
+      "onboard_time": 1740061763,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 74004,
       "num": 289431,
       "word": "守望先锋国服",
@@ -14409,6 +14433,14 @@
       "onboard_time": 1739648652,
       "rank": 29,
       "category": "民生新闻,电影"
+    },
+    {
+      "raw_hot": 50457,
+      "num": 327183,
+      "word": "广州一校园冲突20年后旧案重提",
+      "onboard_time": 1740060563,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50254,
@@ -15283,14 +15315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 27862,
-      "num": 327183,
-      "word": "广州一校园冲突20年后旧案重提",
-      "onboard_time": 1740060563,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 27570,
       "num": 329893,
       "word": "俄乌局势新进展",
@@ -16139,6 +16163,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 11736,
+      "num": 289604,
+      "word": "里夫斯被驱逐",
+      "onboard_time": 1740061464,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 11507,
       "num": 48300,
       "word": "对话谈判是解决危机的唯一可行出路",
@@ -16217,6 +16249,14 @@
       "onboard_time": 1739891423,
       "rank": 26,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 9744,
+      "num": 220335,
+      "word": "如鸢撒娇刘辩最好命",
+      "onboard_time": 1740056362,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 9712,
