@@ -1,6 +1,6 @@
 {
   "startTime": 1740069014077,
-  "endTime": 1740086456754,
+  "endTime": 1740087359505,
   "band_list": [
     {
       "raw_hot": 6060617,
@@ -348,7 +348,7 @@
     },
     {
       "raw_hot": 94121,
-      "num": 42549,
+      "num": 46924,
       "word": "新娘回应小姑子代替新郎拜堂",
       "onboard_time": 1740080111,
       "rank": 48,
@@ -539,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 22023,
+      "num": 22023,
+      "word": "DeepSeek说真爱从来不是暧昧的细节",
+      "onboard_time": 1740082331,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 21440,
       "num": 21440,
       "word": "男子把哪吒敖光申公豹画成巨幅墙绘",
@@ -547,15 +555,15 @@
       "category": "民生新闻,电影"
     },
     {
-      "raw_hot": 19559,
-      "num": 19559,
-      "word": "DeepSeek说真爱从来不是暧昧的细节",
-      "onboard_time": 1740082331,
-      "rank": 37,
-      "category": "互联网"
+      "raw_hot": 18437,
+      "num": 18437,
+      "word": "快乐家族滑雪惊动救援队",
+      "onboard_time": 1740085451,
+      "rank": 44,
+      "category": "综艺"
     },
     {
-      "raw_hot": 17939,
+      "raw_hot": 18254,
       "num": 42980,
       "word": "记者采访将特朗普名字念成普京",
       "onboard_time": 1740085030,
@@ -563,20 +571,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 16318,
-      "num": 16318,
+      "raw_hot": 16755,
+      "num": 16755,
       "word": "普京幽默回应何时与普京见面",
       "onboard_time": 1740083771,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 14679,
-      "num": 14679,
-      "word": "快乐家族滑雪惊动救援队",
-      "onboard_time": 1740085451,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 14552,
@@ -593,6 +593,14 @@
       "onboard_time": 1740065063,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 13603,
+      "num": 13927,
+      "word": "iPhone17屏幕尺寸或全线增大",
+      "onboard_time": 1740086471,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 11867,
@@ -633,6 +641,14 @@
       "onboard_time": 1740071116,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 8470,
+      "num": 47732,
+      "word": "国博上新了一大波高科技",
+      "onboard_time": 1740086711,
+      "rank": 9,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
