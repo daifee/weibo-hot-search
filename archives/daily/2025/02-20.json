@@ -1,6 +1,6 @@
 {
   "startTime": 1739982473012,
-  "endTime": 1740058164829,
+  "endTime": 1740058842764,
   "band_list": [
     {
       "raw_hot": 3789802,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 1139501,
-      "num": 374655,
+      "num": 610039,
       "word": "被房东多次猥亵女子男友发声",
       "onboard_time": 1740054501,
       "rank": 41,
@@ -201,6 +201,14 @@
       "onboard_time": 1740028761,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1090066,
+      "num": 1090066,
+      "word": "章子怡问杨子再见爱人是演的吗",
+      "onboard_time": 1740057202,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1086275,
@@ -267,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 931210,
+      "num": 931210,
+      "word": "王楚钦VS宇田幸矢",
+      "onboard_time": 1740056062,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 922759,
       "num": 922759,
       "word": "捐赠日军侵华照片的马库斯想去日本",
@@ -323,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 825814,
+      "num": 825814,
+      "word": "乌克兰",
+      "onboard_time": 1740056301,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 807511,
       "num": 807511,
       "word": "红房子13集 封神",
@@ -369,14 +393,6 @@
       "onboard_time": 1740054141,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 760327,
-      "num": 760327,
-      "word": "王楚钦VS宇田幸矢",
-      "onboard_time": 1740056062,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 757058,
@@ -603,14 +619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 560664,
-      "num": 411270,
-      "word": "章子怡问杨子再见爱人是演的吗",
-      "onboard_time": 1740057202,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 541900,
       "num": 541900,
       "word": "白敬亭耍帅结果把后备箱打开了",
@@ -636,7 +644,7 @@
     },
     {
       "raw_hot": 523362,
-      "num": 376930,
+      "num": 386758,
       "word": "原来甲醛超标身体是有症状的",
       "onboard_time": 1740048021,
       "rank": 45,
@@ -787,6 +795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 426011,
+      "num": 426011,
+      "word": "王楚钦的腹肌",
+      "onboard_time": 1740058286,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 422600,
       "num": 422600,
       "word": "特朗普警告泽连斯基最好尽快行动",
@@ -865,6 +881,14 @@
       "onboard_time": 1740025402,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 390657,
+      "num": 390657,
+      "word": "cp31",
+      "onboard_time": 1740056421,
+      "rank": 25,
+      "category": "动漫"
     },
     {
       "raw_hot": 390039,
@@ -955,14 +979,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 349822,
-      "num": 349822,
-      "word": "乌克兰",
-      "onboard_time": 1740056301,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 349560,
       "num": 349560,
       "word": "特朗普说美国有360岁老人还在领社保",
@@ -1017,14 +1033,6 @@
       "onboard_time": 1740027383,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 336051,
-      "num": 336051,
-      "word": "cp31",
-      "onboard_time": 1740056421,
-      "rank": 25,
-      "category": "动漫"
     },
     {
       "raw_hot": 335856,
@@ -1123,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 303882,
+      "num": 413065,
+      "word": "苹果电脑被OPPO折叠屏远程控制",
+      "onboard_time": 1740056541,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 302889,
       "num": 159024,
       "word": "哪吒2官方登顶海报",
@@ -1163,12 +1179,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 291409,
-      "num": 350600,
-      "word": "苹果电脑被OPPO折叠屏远程控制",
-      "onboard_time": 1740056541,
-      "rank": 16,
-      "category": "数码"
+      "raw_hot": 291132,
+      "num": 291132,
+      "word": "柳智敏出演权志龙打歌舞台",
+      "onboard_time": 1740056722,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 290549,
@@ -1193,14 +1209,6 @@
       "onboard_time": 1740042441,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 285947,
-      "num": 285947,
-      "word": "柳智敏出演权志龙打歌舞台",
-      "onboard_time": 1740056722,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 282386,
@@ -1313,6 +1321,14 @@
       "onboard_time": 1740051682,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 249247,
+      "num": 249247,
+      "word": "孟子义或将参加无限超越班",
+      "onboard_time": 1740055701,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 248943,
@@ -1459,14 +1475,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 219833,
-      "num": 219833,
-      "word": "孟子义或将参加无限超越班",
-      "onboard_time": 1740055701,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 218963,
       "num": 218963,
       "word": "虞书欣林一剧宣",
@@ -1483,12 +1491,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217704,
+      "num": 397619,
+      "word": "中国男篮大胜日本队",
+      "onboard_time": 1740057862,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 214416,
       "num": 214416,
       "word": "肖战怼脸皮肤状态",
       "onboard_time": 1740024562,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214357,
+      "num": 360242,
+      "word": "多方回应一公职人员疑酒驾肇事逃逸",
+      "onboard_time": 1740056901,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 213616,
@@ -1531,8 +1555,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 208893,
-      "num": 208893,
+      "raw_hot": 211559,
+      "num": 211559,
       "word": "崔太洋 鼻子",
       "onboard_time": 1740054681,
       "rank": 37,
@@ -1561,6 +1585,14 @@
       "onboard_time": 1739879063,
       "rank": 34,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 207724,
+      "num": 207724,
+      "word": "华农近50名学生陷入房租纠纷",
+      "onboard_time": 1740057082,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207176,
@@ -1603,6 +1635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204206,
+      "num": 204206,
+      "word": "万花世界 鞠婧祎",
+      "onboard_time": 1740058703,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204183,
       "num": 204183,
       "word": "蒯曼vs伊藤美诚",
@@ -1633,14 +1673,6 @@
       "onboard_time": 1740019939,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 201112,
-      "num": 201112,
-      "word": "华农近50名学生陷入房租纠纷",
-      "onboard_time": 1740057082,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 199754,
@@ -1817,6 +1849,14 @@
       "onboard_time": 1740050780,
       "rank": 39,
       "category": "动漫,电影"
+    },
+    {
+      "raw_hot": 190635,
+      "num": 343330,
+      "word": "崔永熙现场观战中国男篮比赛",
+      "onboard_time": 1740058162,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 188912,
@@ -2203,6 +2243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 161371,
+      "num": 235881,
+      "word": "极氪001被撞空翻车主安然无恙",
+      "onboard_time": 1740058403,
+      "rank": 35,
+      "category": "民生新闻,汽车"
+    },
+    {
       "raw_hot": 161149,
       "num": 161149,
       "word": "藏海传央视待播",
@@ -2313,6 +2361,14 @@
       "onboard_time": 1740019399,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152608,
+      "num": 615383,
+      "word": "地下1万多米的颜色",
+      "onboard_time": 1740057921,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151947,
@@ -2457,6 +2513,14 @@
       "onboard_time": 1739954961,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137219,
+      "num": 195945,
+      "word": "被孙颖莎选中记者发声",
+      "onboard_time": 1740056541,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 136620,
@@ -2715,20 +2779,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 101888,
-      "num": 342341,
-      "word": "地下1万多米的颜色",
-      "onboard_time": 1740057921,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 99817,
       "num": 377584,
       "word": "林高远vs赵大成",
       "onboard_time": 1740050061,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99799,
+      "num": 205828,
+      "word": "苹果换折叠屏至高补贴1800元",
+      "onboard_time": 1740058522,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 99458,
@@ -2867,14 +2931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 76169,
-      "num": 360242,
-      "word": "多方回应一公职人员疑酒驾肇事逃逸",
-      "onboard_time": 1740056901,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74841,
       "num": 196335,
       "word": "光线传媒跳水股民称5分钟蒸发10万",
@@ -2955,6 +3011,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 57767,
+      "num": 1247942,
+      "word": "中国造船乘风破浪驶过万重山",
+      "onboard_time": 1740056964,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 55153,
       "num": 381345,
       "word": "胡锡进问DeepSeek会不会抢饭碗",
@@ -2985,14 +3049,6 @@
       "onboard_time": 1740021559,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 50888,
-      "num": 345356,
-      "word": "中国男篮大胜日本队",
-      "onboard_time": 1740057862,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 50824,
@@ -3065,14 +3121,6 @@
       "onboard_time": 1739985617,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45446,
-      "num": 1090434,
-      "word": "中国造船乘风破浪驶过万重山",
-      "onboard_time": 1740056964,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 43558,
@@ -3259,6 +3307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26547,
+      "num": 196042,
+      "word": "亲眼目睹老板人不在工位却操控着一切",
+      "onboard_time": 1740058522,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 26246,
       "num": 26246,
       "word": "遇害女幼师父亲说女儿是个勇士",
@@ -3347,12 +3403,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 17990,
+      "num": 392950,
+      "word": "捧神毁神都值得哪吒2警惕",
+      "onboard_time": 1740058221,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 16980,
       "num": 274763,
       "word": "超闪亮的时尚单品",
       "onboard_time": 1740040401,
       "rank": 26,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 15009,
+      "num": 299886,
+      "word": "女演员当妈之后的市场遭遇",
+      "onboard_time": 1740058221,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 14762,
@@ -3368,6 +3440,14 @@
       "word": "周末雨雪天气正在加载中",
       "onboard_time": 1739996531,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13009,
+      "num": 310075,
+      "word": "29省份上线医保药品比价神器",
+      "onboard_time": 1740058042,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -3416,14 +3496,6 @@
       "word": "中国式现代化的万千气象海南行",
       "onboard_time": 1739782103,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 7601,
-      "num": 226267,
-      "word": "29省份上线医保药品比价神器",
-      "onboard_time": 1740058042,
-      "rank": 34,
       "category": "民生新闻"
     }
   ],
