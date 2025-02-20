@@ -1,6 +1,6 @@
 {
   "startTime": 1739982473012,
-  "endTime": 1740048116554,
+  "endTime": 1740050368271,
   "band_list": [
     {
       "raw_hot": 3789802,
@@ -99,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1413633,
+      "num": 1413633,
+      "word": "郭艾伦谈捅伤自己的队友事后态度",
+      "onboard_time": 1740045861,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1412108,
       "num": 1412108,
       "word": "导演郑某峰涉嫌猥亵儿童被刑拘",
@@ -193,14 +201,6 @@
       "onboard_time": 1740024441,
       "rank": 15,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1048696,
-      "num": 327398,
-      "word": "郭艾伦谈捅伤自己的队友事后态度",
-      "onboard_time": 1740045861,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 1047873,
@@ -339,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 688059,
+      "num": 383625,
+      "word": "戚薇9年没去婆家了",
+      "onboard_time": 1740049581,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 687766,
       "num": 340726,
       "word": "别再P图了好吗发博道歉",
@@ -380,7 +388,7 @@
     },
     {
       "raw_hot": 661296,
-      "num": 329048,
+      "num": 381049,
       "word": "林心如看新闻知道陈妍希离婚",
       "onboard_time": 1740043520,
       "rank": 22,
@@ -523,6 +531,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 524229,
+      "num": 379506,
+      "word": "成都一妇产儿童医院医生罢工",
+      "onboard_time": 1740047721,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 523362,
+      "num": 376930,
+      "word": "原来甲醛超标身体是有症状的",
+      "onboard_time": 1740048021,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 517767,
       "num": 517767,
       "word": "苹果发布会",
@@ -625,6 +649,14 @@
       "onboard_time": 1739988073,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 434795,
+      "num": 434795,
+      "word": "快递公司告知丢件顾客自己寻回",
+      "onboard_time": 1740047360,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 430164,
@@ -747,6 +779,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 376130,
+      "num": 376130,
+      "word": "张百乔心态演崩了",
+      "onboard_time": 1740049821,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 373137,
+      "num": 373137,
+      "word": "买光线股票2分钟亏3成以为手机坏了",
+      "onboard_time": 1740047540,
+      "rank": 35,
+      "category": "财经,作品衍生"
+    },
+    {
       "raw_hot": 369504,
       "num": 343828,
       "word": "董力已有一儿一女",
@@ -801,6 +849,14 @@
       "onboard_time": 1740032422,
       "rank": 16,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 347099,
+      "num": 347099,
+      "word": "白敬亭表白微博",
+      "onboard_time": 1740046341,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 344163,
@@ -907,6 +963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 308577,
+      "num": 308577,
+      "word": "胡静辟谣老公有四个老婆",
+      "onboard_time": 1740045800,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 304447,
       "num": 297419,
       "word": "何老师我们还是太熟了",
@@ -929,14 +993,6 @@
       "onboard_time": 1740014181,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 294372,
-      "num": 279092,
-      "word": "胡静辟谣老公有四个老婆",
-      "onboard_time": 1740045800,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 293565,
@@ -1121,6 +1177,14 @@
       "onboard_time": 1739978721,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 238658,
+      "num": 238658,
+      "word": "迪丽热巴录开推3",
+      "onboard_time": 1740049640,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 237904,
@@ -1315,11 +1379,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200405,
-      "num": 200405,
-      "word": "白敬亭表白微博",
-      "onboard_time": 1740046341,
-      "rank": 28,
+      "raw_hot": 200161,
+      "num": 200161,
+      "word": "韩剧学习小组",
+      "onboard_time": 1740046281,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -1379,6 +1443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196751,
+      "num": 196751,
+      "word": "演员请就位",
+      "onboard_time": 1740049281,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196375,
       "num": 196375,
       "word": "官方通报网传邢台一局长砸店伤人",
@@ -1417,14 +1489,6 @@
       "onboard_time": 1740030262,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 192942,
-      "num": 185598,
-      "word": "买光线股票2分钟亏3成以为手机坏了",
-      "onboard_time": 1740047540,
-      "rank": 35,
-      "category": "财经,作品衍生"
     },
     {
       "raw_hot": 192898,
@@ -1555,12 +1619,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 183688,
+      "num": 358812,
+      "word": "孙颖莎一眼选中没带麦的记者",
+      "onboard_time": 1740047240,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182960,
       "num": 332447,
       "word": "张婧仪粉色洞洞鞋",
       "onboard_time": 1740026663,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182853,
+      "num": 216618,
+      "word": "OPPOFindN5发布会",
+      "onboard_time": 1740049401,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 179964,
@@ -1593,14 +1673,6 @@
       "onboard_time": 1740029003,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 177805,
-      "num": 177805,
-      "word": "孙颖莎一眼选中没带麦的记者",
-      "onboard_time": 1740047240,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 177351,
@@ -1643,14 +1715,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 173125,
-      "num": 173125,
-      "word": "韩剧学习小组",
-      "onboard_time": 1740046281,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 172997,
       "num": 172997,
       "word": "宁艺卓 FILA",
@@ -1681,6 +1745,14 @@
       "onboard_time": 1740040225,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 168950,
+      "num": 263959,
+      "word": "春天犯困是正常的生理反应",
+      "onboard_time": 1740047300,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168383,
@@ -1771,6 +1843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162261,
+      "num": 162261,
+      "word": "温以凡 记者",
+      "onboard_time": 1740050182,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161783,
       "num": 161783,
       "word": "半个体育圈的人都在水立方",
@@ -1859,20 +1939,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152763,
+      "num": 152763,
+      "word": "PEL",
+      "onboard_time": 1740049340,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 152758,
       "num": 152758,
       "word": "女生分享自己的上班通勤搭子",
       "onboard_time": 1740019399,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 152562,
-      "num": 152562,
-      "word": "成都一妇产儿童医院医生罢工",
-      "onboard_time": 1740047721,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 151947,
@@ -1921,14 +2001,6 @@
       "onboard_time": 1739961260,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 145700,
-      "num": 141421,
-      "word": "原来甲醛超标身体是有症状的",
-      "onboard_time": 1740048021,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 143383,
@@ -2027,6 +2099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133985,
+      "num": 168858,
+      "word": "林心如陈意涵回应陈妍希离婚",
+      "onboard_time": 1740048680,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133913,
       "num": 133913,
       "word": "女子p图毛发一周碰瓷7家面包店",
@@ -2041,6 +2121,14 @@
       "onboard_time": 1739975962,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132154,
+      "num": 224210,
+      "word": "传美国驻华大使馆最快周五大裁员",
+      "onboard_time": 1740047481,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 130644,
@@ -2395,12 +2483,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 63292,
+      "num": 383001,
+      "word": "王曼昱3比1黄怡桦",
+      "onboard_time": 1740049700,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62448,
       "num": 269986,
       "word": "金饰价格较年初每克涨超90元",
       "onboard_time": 1740040821,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 62323,
+      "num": 382750,
+      "word": "哪吒为救百姓毁坏建筑是正当防卫吗",
+      "onboard_time": 1740049401,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 60658,
@@ -2427,6 +2531,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 55153,
+      "num": 381345,
+      "word": "胡锡进问DeepSeek会不会抢饭碗",
+      "onboard_time": 1740048680,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54274,
+      "num": 377976,
+      "word": "向涵之西山尬舞鼻祖",
+      "onboard_time": 1740049221,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 54046,
       "num": 218329,
       "word": "3个动作改善久坐尾巴骨疼",
@@ -2444,19 +2564,11 @@
     },
     {
       "raw_hot": 50824,
-      "num": 180744,
+      "num": 220040,
       "word": "王大陆许光汉或将部队同台",
       "onboard_time": 1740042323,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 48894,
-      "num": 263959,
-      "word": "春天犯困是正常的生理反应",
-      "onboard_time": 1740047300,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 47683,
@@ -2547,6 +2659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 40315,
+      "num": 306957,
+      "word": "李佳琦穿越短剧超前点映",
+      "onboard_time": 1740049401,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 40213,
       "num": 241442,
       "word": "奶牛靠激素增加产奶量纯属谣言",
@@ -2563,20 +2683,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 39633,
+      "num": 385347,
+      "word": "王曼昱亚洲杯两连胜",
+      "onboard_time": 1740049760,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 37751,
+      "num": 373521,
+      "word": "马库斯移交日军侵华照片静待鉴定",
+      "onboard_time": 1740049401,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37327,
       "num": 524050,
       "word": "石洵瑶vs大藤沙月",
       "onboard_time": 1740025762,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 36597,
-      "num": 264358,
-      "word": "快递公司告知丢件顾客自己寻回",
-      "onboard_time": 1740047360,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 36548,
@@ -2616,6 +2744,14 @@
       "word": "王楚钦说保守不是自己风格",
       "onboard_time": 1740032780,
       "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 29051,
+      "num": 377584,
+      "word": "林高远vs赵大成",
+      "onboard_time": 1740050061,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -2788,7 +2924,7 @@
     },
     {
       "raw_hot": 8163,
-      "num": 980496,
+      "num": 1138434,
       "word": "中国式现代化的万千气象海南行",
       "onboard_time": 1739782103,
       "rank": 2,

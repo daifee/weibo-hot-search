@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740048116554,
+  "endTime": 1740050368271,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -2715,6 +2715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1413633,
+      "num": 1413633,
+      "word": "郭艾伦谈捅伤自己的队友事后态度",
+      "onboard_time": 1740045861,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1411970,
       "num": 1411970,
       "word": "48岁李锋博士春节遭意外离世",
@@ -4481,14 +4489,6 @@
       "onboard_time": 1739258360,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1048696,
-      "num": 327398,
-      "word": "郭艾伦谈捅伤自己的队友事后态度",
-      "onboard_time": 1740045861,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 1047873,
@@ -7779,6 +7779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 688059,
+      "num": 383625,
+      "word": "戚薇9年没去婆家了",
+      "onboard_time": 1740049581,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 686462,
       "num": 458623,
       "word": "潘宏发哪吒2申公豹台词回应争议",
@@ -8164,7 +8172,7 @@
     },
     {
       "raw_hot": 661296,
-      "num": 329048,
+      "num": 381049,
       "word": "林心如看新闻知道陈妍希离婚",
       "onboard_time": 1740043520,
       "rank": 22,
@@ -10931,6 +10939,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 524229,
+      "num": 379506,
+      "word": "成都一妇产儿童医院医生罢工",
+      "onboard_time": 1740047721,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 523362,
+      "num": 376930,
+      "word": "原来甲醛超标身体是有症状的",
+      "onboard_time": 1740048021,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 523140,
       "num": 523140,
       "word": "李思思 浪姐6",
@@ -13379,6 +13403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 434795,
+      "num": 434795,
+      "word": "快递公司告知丢件顾客自己寻回",
+      "onboard_time": 1740047360,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 434693,
       "num": 434693,
       "word": "医生提醒重度干眼症可致失明",
@@ -15291,6 +15323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 376130,
+      "num": 376130,
+      "word": "张百乔心态演崩了",
+      "onboard_time": 1740049821,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 375935,
       "num": 375935,
       "word": "孟子义攒了几部剧没播",
@@ -15417,6 +15457,14 @@
       "onboard_time": 1739683698,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 373137,
+      "num": 373137,
+      "word": "买光线股票2分钟亏3成以为手机坏了",
+      "onboard_time": 1740047540,
+      "rank": 35,
+      "category": "财经,作品衍生"
     },
     {
       "raw_hot": 373091,
@@ -16425,6 +16473,14 @@
       "onboard_time": 1738486757,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 347099,
+      "num": 347099,
+      "word": "白敬亭表白微博",
+      "onboard_time": 1740046341,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 347044,
@@ -18339,6 +18395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 308577,
+      "num": 308577,
+      "word": "胡静辟谣老公有四个老婆",
+      "onboard_time": 1740045800,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 308505,
       "num": 416363,
       "word": "洒水车0℃以下洒水致路面结冰酿事故",
@@ -19121,14 +19185,6 @@
       "onboard_time": 1738628780,
       "rank": 20,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 294372,
-      "num": 279092,
-      "word": "胡静辟谣老公有四个老婆",
-      "onboard_time": 1740045800,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 294281,
@@ -23321,6 +23377,14 @@
       "onboard_time": 1738387637,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238658,
+      "num": 238658,
+      "word": "迪丽热巴录开推3",
+      "onboard_time": 1740049640,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 238437,
@@ -28803,14 +28867,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 200405,
-      "num": 200405,
-      "word": "白敬亭表白微博",
-      "onboard_time": 1740046341,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 200281,
       "num": 242199,
       "word": "又一名反华分子翻车",
@@ -28841,6 +28897,14 @@
       "onboard_time": 1739701038,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200161,
+      "num": 200161,
+      "word": "韩剧学习小组",
+      "onboard_time": 1740046281,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 200159,
@@ -30481,14 +30545,6 @@
       "onboard_time": 1739234481,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 192942,
-      "num": 185598,
-      "word": "买光线股票2分钟亏3成以为手机坏了",
-      "onboard_time": 1740047540,
-      "rank": 35,
-      "category": "财经,作品衍生"
     },
     {
       "raw_hot": 192923,
@@ -32523,6 +32579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183688,
+      "num": 358812,
+      "word": "孙颖莎一眼选中没带麦的记者",
+      "onboard_time": 1740047240,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183652,
       "num": 183652,
       "word": "湖勇大战",
@@ -32673,6 +32737,14 @@
       "onboard_time": 1739452943,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 182853,
+      "num": 216618,
+      "word": "OPPOFindN5发布会",
+      "onboard_time": 1740049401,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 182850,
@@ -33643,14 +33715,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 177805,
-      "num": 177805,
-      "word": "孙颖莎一眼选中没带麦的记者",
-      "onboard_time": 1740047240,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 177776,
       "num": 177776,
       "word": "黄景瑜现偶成绩",
@@ -34465,14 +34529,6 @@
       "onboard_time": 1739153899,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 173125,
-      "num": 173125,
-      "word": "韩剧学习小组",
-      "onboard_time": 1740046281,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 173095,
@@ -35297,6 +35353,14 @@
       "onboard_time": 1739671819,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168950,
+      "num": 263959,
+      "word": "春天犯困是正常的生理反应",
+      "onboard_time": 1740047300,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168946,
@@ -36721,6 +36785,14 @@
       "onboard_time": 1739452043,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162261,
+      "num": 162261,
+      "word": "温以凡 记者",
+      "onboard_time": 1740050182,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 162255,
@@ -38723,6 +38795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152763,
+      "num": 152763,
+      "word": "PEL",
+      "onboard_time": 1740049340,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 152758,
       "num": 152758,
       "word": "女生分享自己的上班通勤搭子",
@@ -38777,14 +38857,6 @@
       "onboard_time": 1739320820,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 152562,
-      "num": 152562,
-      "word": "成都一妇产儿童医院医生罢工",
-      "onboard_time": 1740047721,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 152445,
@@ -40241,14 +40313,6 @@
       "onboard_time": 1739427080,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 145700,
-      "num": 141421,
-      "word": "原来甲醛超标身体是有症状的",
-      "onboard_time": 1740048021,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 145651,
@@ -42675,6 +42739,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 133985,
+      "num": 168858,
+      "word": "林心如陈意涵回应陈妍希离婚",
+      "onboard_time": 1740048680,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133913,
       "num": 133913,
       "word": "女子p图毛发一周碰瓷7家面包店",
@@ -43001,6 +43073,14 @@
       "onboard_time": 1738812565,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132154,
+      "num": 224210,
+      "word": "传美国驻华大使馆最快周五大裁员",
+      "onboard_time": 1740047481,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 132080,
@@ -53347,6 +53427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63292,
+      "num": 383001,
+      "word": "王曼昱3比1黄怡桦",
+      "onboard_time": 1740049700,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63235,
       "num": 89294,
       "word": "男子跑动画公司问哪吒3多久上映",
@@ -53537,6 +53625,14 @@
       "onboard_time": 1739070199,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 62323,
+      "num": 382750,
+      "word": "哪吒为救百姓毁坏建筑是正当防卫吗",
+      "onboard_time": 1740049401,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 62291,
@@ -54587,6 +54683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55153,
+      "num": 381345,
+      "word": "胡锡进问DeepSeek会不会抢饭碗",
+      "onboard_time": 1740048680,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55138,
       "num": 375262,
       "word": "李锋博士曾完成几十项重大研究课题",
@@ -54745,6 +54849,14 @@
       "onboard_time": 1739860111,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54274,
+      "num": 377976,
+      "word": "向涵之西山尬舞鼻祖",
+      "onboard_time": 1740049221,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 54144,
@@ -55340,7 +55452,7 @@
     },
     {
       "raw_hot": 50824,
-      "num": 180744,
+      "num": 220040,
       "word": "王大陆许光汉或将部队同台",
       "onboard_time": 1740042323,
       "rank": 37,
@@ -55609,14 +55721,6 @@
       "onboard_time": 1739661253,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 48894,
-      "num": 263959,
-      "word": "春天犯困是正常的生理反应",
-      "onboard_time": 1740047300,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 48823,
@@ -56883,6 +56987,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 40315,
+      "num": 306957,
+      "word": "李佳琦穿越短剧超前点映",
+      "onboard_time": 1740049401,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 40312,
       "num": 53384,
       "word": "直播间买神药吃9个月结节更大了",
@@ -56985,6 +57097,14 @@
       "onboard_time": 1739294834,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39633,
+      "num": 385347,
+      "word": "王曼昱亚洲杯两连胜",
+      "onboard_time": 1740049760,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 39470,
@@ -57227,6 +57347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 37751,
+      "num": 373521,
+      "word": "马库斯移交日军侵华照片静待鉴定",
+      "onboard_time": 1740049401,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37729,
       "num": 250543,
       "word": "当地回应男子骑白马江中救人",
@@ -57441,14 +57569,6 @@
       "onboard_time": 1739516301,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 36597,
-      "num": 264358,
-      "word": "快递公司告知丢件顾客自己寻回",
-      "onboard_time": 1740047360,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 36573,
@@ -58673,6 +58793,14 @@
       "onboard_time": 1738902687,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 29051,
+      "num": 377584,
+      "word": "林高远vs赵大成",
+      "onboard_time": 1740050061,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 28922,
