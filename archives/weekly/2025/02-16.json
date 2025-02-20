@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1740058842764,
+  "endTime": 1740061355280,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -435,6 +435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1854994,
+      "num": 1854994,
+      "word": "章子怡问杨子再见爱人是演的吗",
+      "onboard_time": 1740057202,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1851322,
       "num": 516863,
       "word": "浙江妈妈早产生下双胞胎哪吒",
@@ -851,6 +859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1338104,
+      "num": 1338104,
+      "word": "deepseek一两分钟干了我一两天的活",
+      "onboard_time": 1740058822,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1331781,
       "num": 511549,
       "word": "建议饺子导演学学宫崎骏",
@@ -1179,14 +1195,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1090066,
-      "num": 1090066,
-      "word": "章子怡问杨子再见爱人是演的吗",
-      "onboard_time": 1740057202,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1086275,
       "num": 565409,
       "word": "抗癌博主小何日记去世",
@@ -1337,6 +1345,14 @@
       "onboard_time": 1739934080,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1030114,
+      "num": 612539,
+      "word": "王楚钦的腹肌",
+      "onboard_time": 1740058286,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 1028646,
@@ -1609,6 +1625,14 @@
       "onboard_time": 1740028641,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 903411,
+      "num": 903411,
+      "word": "富国岛偶遇黄景瑜",
+      "onboard_time": 1740060083,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 896529,
@@ -2315,6 +2339,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 666303,
+      "num": 666303,
+      "word": "在江苏生育一孩也将享50%社保补贴",
+      "onboard_time": 1740059424,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 662428,
       "num": 662428,
       "word": "iPhone16e两款配色",
@@ -2643,6 +2675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 594926,
+      "num": 594926,
+      "word": "万渣朝凰",
+      "onboard_time": 1740059543,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 594639,
       "num": 393637,
       "word": "西安女子吐槽银行8个窗口6个不营业",
@@ -2889,6 +2929,14 @@
       "onboard_time": 1739757378,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 546228,
+      "num": 546228,
+      "word": "锦绣芳华 暑期档",
+      "onboard_time": 1740060142,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 542742,
@@ -3185,6 +3233,14 @@
       "onboard_time": 1739694979,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 495874,
+      "num": 495874,
+      "word": "李敏镐否认与朴春恋爱",
+      "onboard_time": 1740058883,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 494479,
@@ -3811,14 +3867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 426011,
-      "num": 426011,
-      "word": "王楚钦的腹肌",
-      "onboard_time": 1740058286,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 423019,
       "num": 470298,
       "word": "官方通报孕妇被行李箱砸中致早产",
@@ -3979,6 +4027,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 402640,
+      "num": 402640,
+      "word": "cp31",
+      "onboard_time": 1740056421,
+      "rank": 25,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 401865,
       "num": 314670,
       "word": "谁家老公把老婆当员工啊",
@@ -4115,14 +4171,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 390657,
-      "num": 390657,
-      "word": "cp31",
-      "onboard_time": 1740056421,
-      "rank": 25,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 390039,
       "num": 390039,
       "word": "泽连斯基拒签后准备公开美矿产协议",
@@ -4216,6 +4264,14 @@
       "word": "难哄 重庆",
       "onboard_time": 1739855001,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 382951,
+      "num": 318623,
+      "word": "张淼怡直播状态",
+      "onboard_time": 1740059482,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -4657,6 +4713,14 @@
       "onboard_time": 1739790319,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 345077,
+      "num": 314910,
+      "word": "万花世界 鞠婧祎",
+      "onboard_time": 1740058703,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 344312,
@@ -5627,6 +5691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 278640,
+      "num": 278640,
+      "word": "孙丞潇向于佩尔道歉",
+      "onboard_time": 1740059543,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 278227,
       "num": 278227,
       "word": "魏大勋听不得马耳他三个字",
@@ -5737,6 +5809,14 @@
       "onboard_time": 1739889383,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 269655,
+      "num": 615383,
+      "word": "地下1万多米的颜色",
+      "onboard_time": 1740057921,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 269640,
@@ -6313,6 +6393,14 @@
       "onboard_time": 1740029783,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 245997,
+      "num": 622212,
+      "word": "美国财长称乌克兰将签5000亿美元协议",
+      "onboard_time": 1740060623,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 245847,
@@ -7299,6 +7387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 214247,
+      "num": 516841,
+      "word": "华农近50名学生陷入房租纠纷",
+      "onboard_time": 1740057082,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 214005,
       "num": 214005,
       "word": "人民网评重庆燃气屡次点燃群众火气",
@@ -7563,14 +7659,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 207724,
-      "num": 207724,
-      "word": "华农近50名学生陷入房租纠纷",
-      "onboard_time": 1740057082,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 207176,
       "num": 395318,
       "word": "马库斯揭露外祖父同事被日军强奸活埋",
@@ -7747,14 +7835,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 204206,
-      "num": 204206,
-      "word": "万花世界 鞠婧祎",
-      "onboard_time": 1740058703,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 204184,
       "num": 306552,
       "word": "中方回应俄美代表团举行会晤",
@@ -7913,6 +7993,14 @@
       "onboard_time": 1740047421,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 201531,
+      "num": 201531,
+      "word": "李嘉琦新剧爆改邪恶小卷毛",
+      "onboard_time": 1740060323,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 201284,
@@ -8849,6 +8937,14 @@
       "onboard_time": 1739973861,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 185308,
+      "num": 185308,
+      "word": "哪吒2已超127亿",
+      "onboard_time": 1740060924,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 185288,
@@ -9955,6 +10051,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 161671,
+      "num": 314005,
+      "word": "极氪001被撞空翻车主安然无恙",
+      "onboard_time": 1740058403,
+      "rank": 35,
+      "category": "民生新闻,汽车"
+    },
+    {
       "raw_hot": 161625,
       "num": 161625,
       "word": "肖战独家大片花絮",
@@ -9985,14 +10089,6 @@
       "onboard_time": 1739940622,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161371,
-      "num": 235881,
-      "word": "极氪001被撞空翻车主安然无恙",
-      "onboard_time": 1740058403,
-      "rank": 35,
-      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 161242,
@@ -10419,14 +10515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 152608,
-      "num": 615383,
-      "word": "地下1万多米的颜色",
-      "onboard_time": 1740057921,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 152224,
       "num": 152224,
       "word": "奥萨苏纳vs皇马",
@@ -10537,6 +10625,14 @@
       "onboard_time": 1739779762,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149888,
+      "num": 149888,
+      "word": "钟辰乐去了朴志晟生日会",
+      "onboard_time": 1740061283,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 149649,
@@ -10651,6 +10747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147843,
+      "num": 147843,
+      "word": "赵继伟状态",
+      "onboard_time": 1740060443,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147580,
       "num": 144854,
       "word": "谢娜李维嘉杜海涛熟人局就是敢说",
@@ -10692,7 +10796,7 @@
     },
     {
       "raw_hot": 147304,
-      "num": 147304,
+      "num": 1233973,
       "word": "我国首口超万米深井完钻",
       "onboard_time": 1740037521,
       "rank": 43,
@@ -10705,6 +10809,14 @@
       "onboard_time": 1739711907,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 146898,
+      "num": 146898,
+      "word": "OPPO全新系统ColorOS15",
+      "onboard_time": 1740060023,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 146850,
@@ -11611,6 +11723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127682,
+      "num": 321718,
+      "word": "小孩姐对巴赫说最喜欢孙颖莎",
+      "onboard_time": 1740057983,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127371,
       "num": 127371,
       "word": "一艺考生时间冲突计划25万包机赶考",
@@ -11657,14 +11777,6 @@
       "onboard_time": 1739704219,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 126163,
-      "num": 267540,
-      "word": "小孩姐对巴赫说最喜欢孙颖莎",
-      "onboard_time": 1740057983,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 125886,
@@ -12017,6 +12129,14 @@
       "onboard_time": 1739701878,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117502,
+      "num": 325740,
+      "word": "苹果换折叠屏至高补贴1800元",
+      "onboard_time": 1740058522,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 117471,
@@ -12697,14 +12817,6 @@
       "onboard_time": 1740050061,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 99799,
-      "num": 205828,
-      "word": "苹果换折叠屏至高补贴1800元",
-      "onboard_time": 1740058522,
-      "rank": 41,
-      "category": "数码"
     },
     {
       "raw_hot": 99597,
@@ -14227,6 +14339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 52673,
+      "num": 217884,
+      "word": "亲眼目睹老板人不在工位却操控着一切",
+      "onboard_time": 1740058522,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 52656,
       "num": 52656,
       "word": "女子高速路边停车打孩子",
@@ -15163,6 +15283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 27862,
+      "num": 327183,
+      "word": "广州一校园冲突20年后旧案重提",
+      "onboard_time": 1740060563,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27570,
       "num": 329893,
       "word": "俄乌局势新进展",
@@ -15201,14 +15329,6 @@
       "onboard_time": 1739777300,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26547,
-      "num": 196042,
-      "word": "亲眼目睹老板人不在工位却操控着一切",
-      "onboard_time": 1740058522,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 26353,
