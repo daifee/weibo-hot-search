@@ -1,6 +1,6 @@
 {
   "startTime": 1739982473012,
-  "endTime": 1740029943273,
+  "endTime": 1740033092793,
   "band_list": [
     {
       "raw_hot": 3560113,
@@ -43,12 +43,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1495961,
+      "num": 612364,
+      "word": "董力结婚5年了",
+      "onboard_time": 1740029424,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1412108,
       "num": 1412108,
       "word": "导演郑某峰涉嫌猥亵儿童被刑拘",
       "onboard_time": 1739972602,
       "rank": 0,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 1398670,
+      "num": 473483,
+      "word": "黄多多盘发发量",
+      "onboard_time": 1740028882,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 1390535,
@@ -83,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1123206,
+      "num": 1123206,
+      "word": "泽连斯基说美国给了1000亿让还5000亿",
+      "onboard_time": 1740028761,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1073226,
       "num": 1073226,
       "word": "美甲师做敖闰穿戴甲忙疯了",
@@ -115,14 +139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 931002,
-      "num": 475619,
-      "word": "董力结婚5年了",
-      "onboard_time": 1740029424,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 864478,
       "num": 1138316,
       "word": "白敬亭三平台有四部破万剧",
@@ -153,6 +169,22 @@
       "onboard_time": 1740006616,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 778130,
+      "num": 277586,
+      "word": "佘诗曼被问王大陆逃兵役被抓的反应",
+      "onboard_time": 1740030381,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 747301,
+      "num": 333394,
+      "word": "房东猥亵女生因年纪过大免于处罚",
+      "onboard_time": 1740028641,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 731357,
@@ -195,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 675671,
+      "num": 276246,
+      "word": "抗癌博主小何日记去世",
+      "onboard_time": 1740031822,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 669712,
       "num": 488534,
       "word": "我承认对难哄大声了一点",
@@ -209,6 +249,14 @@
       "onboard_time": 1739983397,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 645109,
+      "num": 269544,
+      "word": "孙颖莎打了自己一巴掌",
+      "onboard_time": 1740030922,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 644160,
@@ -275,12 +323,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 562473,
-      "num": 473483,
-      "word": "黄多多盘发发量",
-      "onboard_time": 1740028882,
-      "rank": 46,
-      "category": "艺人"
+      "raw_hot": 544600,
+      "num": 391228,
+      "word": "李行亮回应和麦琳床上拥抱聊天",
+      "onboard_time": 1740028942,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 541900,
@@ -305,6 +353,14 @@
       "onboard_time": 1739983575,
       "rank": 3,
       "category": "数码"
+    },
+    {
+      "raw_hot": 504980,
+      "num": 265124,
+      "word": "白鹿现在自拍很差吗",
+      "onboard_time": 1740030202,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 503417,
@@ -427,6 +483,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 397818,
+      "num": 259656,
+      "word": "05花",
+      "onboard_time": 1740032061,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 396030,
       "num": 396030,
       "word": "iPhone16e",
@@ -457,14 +521,6 @@
       "onboard_time": 1740007036,
       "rank": 24,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 391228,
-      "num": 391228,
-      "word": "李行亮回应和麦琳床上拥抱聊天",
-      "onboard_time": 1740028942,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 391091,
@@ -507,12 +563,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 369504,
+      "num": 256440,
+      "word": "董力已有一儿一女",
+      "onboard_time": 1740031762,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 367072,
       "num": 547522,
       "word": "Deepseek开始抢情感咨询师饭碗了",
       "onboard_time": 1740023061,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 359043,
+      "num": 251042,
+      "word": "时代峰峻招聘要求",
+      "onboard_time": 1740031221,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 355086,
@@ -563,14 +635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 330061,
-      "num": 475343,
-      "word": "泽连斯基说美国给了1000亿让还5000亿",
-      "onboard_time": 1740028761,
-      "rank": 26,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 326354,
       "num": 305848,
       "word": "韩东君一演戏想谈想撩又想离",
@@ -609,6 +673,14 @@
       "onboard_time": 1740007036,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 311576,
+      "num": 254399,
+      "word": "偷偷藏不住飙升榜第一",
+      "onboard_time": 1740030381,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 302889,
@@ -651,8 +723,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 282379,
+      "num": 282379,
+      "word": "特朗普称乌克兰或将不复存在",
+      "onboard_time": 1740029962,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 277989,
-      "num": 277989,
+      "num": 282130,
       "word": "一批中国公民被从缅甸电诈园区遣送",
       "onboard_time": 1740024441,
       "rank": 26,
@@ -715,12 +795,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 248468,
+      "num": 248468,
+      "word": "张杰和快乐家族的情结",
+      "onboard_time": 1740031341,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248342,
       "num": 324371,
       "word": "彭高书单",
       "onboard_time": 1740015918,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 246090,
+      "num": 246090,
+      "word": "顶着海王的脸搞纯爱",
+      "onboard_time": 1740029783,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 243649,
@@ -793,6 +889,14 @@
       "onboard_time": 1740020181,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 218853,
+      "num": 194163,
+      "word": "董力夸老婆拎得清",
+      "onboard_time": 1740032124,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 214416,
@@ -915,6 +1019,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 195327,
+      "num": 195327,
+      "word": "张本智和3比0吴晙诚",
+      "onboard_time": 1740030741,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 194363,
+      "num": 274507,
+      "word": "朴彩英退出韩国音著协",
+      "onboard_time": 1740030262,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192898,
       "num": 192898,
       "word": "恋与深空",
@@ -961,6 +1081,14 @@
       "onboard_time": 1740019459,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 187444,
+      "num": 187444,
+      "word": "虞书欣林一跳超滑热身操",
+      "onboard_time": 1740031884,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 187336,
@@ -1035,6 +1163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170585,
+      "num": 170585,
+      "word": "东契奇失误成灾",
+      "onboard_time": 1740030381,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168251,
       "num": 168251,
       "word": "马龙问巴赫向奥委会发展有何建议",
@@ -1081,14 +1217,6 @@
       "onboard_time": 1740024502,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161716,
-      "num": 161716,
-      "word": "顶着海王的脸搞纯爱",
-      "onboard_time": 1740029783,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 161579,
@@ -1139,14 +1267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155364,
-      "num": 333394,
-      "word": "房东猥亵女生因年纪过大免于处罚",
-      "onboard_time": 1740028641,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 155351,
       "num": 155351,
       "word": "难哄破万福利",
@@ -1161,6 +1281,14 @@
       "onboard_time": 1740026122,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153130,
+      "num": 181747,
+      "word": "北京三套房也逃不过教育内卷",
+      "onboard_time": 1740032483,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152758,
@@ -1193,6 +1321,22 @@
       "onboard_time": 1739961260,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 144716,
+      "num": 263321,
+      "word": "法国小伙捐的622张日本侵华照片",
+      "onboard_time": 1740032721,
+      "rank": 23,
+      "category": "国际时政,国际时政"
+    },
+    {
+      "raw_hot": 143983,
+      "num": 260393,
+      "word": "淞沪抗战纪念馆将开展照片评估工作",
+      "onboard_time": 1740032841,
+      "rank": 25,
+      "category": "国际时政,国际时政"
     },
     {
       "raw_hot": 141943,
@@ -1395,6 +1539,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 90864,
+      "num": 252489,
+      "word": "于正说男女都是一对对红的",
+      "onboard_time": 1740031523,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90736,
       "num": 308886,
       "word": "部分地区司法系统引入DeepSeek",
@@ -1416,6 +1568,14 @@
       "word": "为迎合受众微短剧付费节点加软色情",
       "onboard_time": 1739979561,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84258,
+      "num": 275042,
+      "word": "法国小伙所捐部分照片甚至带着血迹",
+      "onboard_time": 1740032483,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1459,6 +1619,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 68719,
+      "num": 248992,
+      "word": "阿信西装照幻视黑执事了",
+      "onboard_time": 1740032541,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 60658,
       "num": 60658,
       "word": "特朗普称美国给了乌克兰很多钱",
@@ -1473,6 +1641,14 @@
       "onboard_time": 1740021559,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 47936,
+      "num": 269228,
+      "word": "家属盼幸存室友为女儿见义勇为作证",
+      "onboard_time": 1740032662,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47683,
@@ -1579,6 +1755,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26755,
+      "num": 273048,
+      "word": "DeepSeek除了求姻缘还能干啥",
+      "onboard_time": 1740032422,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 26604,
+      "num": 255705,
+      "word": "媒体评导演郑某峰涉嫌猥亵儿童",
+      "onboard_time": 1740032124,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26246,
       "num": 26246,
       "word": "遇害女幼师父亲说女儿是个勇士",
@@ -1619,6 +1811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 17623,
+      "num": 251142,
+      "word": "陈幸同亚洲杯两连胜",
+      "onboard_time": 1740032901,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 14762,
       "num": 55942,
       "word": "2000多架无人机表演为哪吒2庆祝",
@@ -1657,6 +1857,14 @@
       "onboard_time": 1739998930,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9962,
+      "num": 270949,
+      "word": "王楚钦说保守不是自己风格",
+      "onboard_time": 1740032780,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 8812,
