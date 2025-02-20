@@ -1,6 +1,6 @@
 {
   "startTime": 1740069014077,
-  "endTime": 1740090107779,
+  "endTime": 1740091138155,
   "band_list": [
     {
       "raw_hot": 6060617,
@@ -155,6 +155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187940,
+      "num": 87441,
+      "word": "新娘回应小姑子代替新郎拜堂",
+      "onboard_time": 1740080111,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187047,
       "num": 187047,
       "word": "万花世界 鞠婧祎",
@@ -227,6 +235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 147121,
+      "num": 147121,
+      "word": "张亮4部代表作都在3分之下",
+      "onboard_time": 1740053300,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145598,
       "num": 145598,
       "word": "蔡徐坤妆容",
@@ -251,11 +267,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 127224,
-      "num": 54139,
-      "word": "新娘回应小姑子代替新郎拜堂",
-      "onboard_time": 1740080111,
-      "rank": 48,
+      "raw_hot": 126556,
+      "num": 126556,
+      "word": "孕妇赴柬埔寨2个多月后离奇死亡",
+      "onboard_time": 1740066501,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -283,28 +299,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122379,
-      "num": 122379,
-      "word": "孕妇赴柬埔寨2个多月后离奇死亡",
-      "onboard_time": 1740066501,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 110170,
       "num": 110170,
       "word": "倪妮出场听取好美声一片",
       "onboard_time": 1740066920,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 106104,
-      "num": 106104,
-      "word": "张亮4部代表作都在3分之下",
-      "onboard_time": 1740053300,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 105556,
@@ -371,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91174,
+      "num": 91174,
+      "word": "快乐家族滑雪惊动救援队",
+      "onboard_time": 1740085451,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 88304,
       "num": 88304,
       "word": "反中乱港组织民主党宣布解散",
@@ -435,6 +443,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 78046,
+      "num": 78046,
+      "word": "马库斯说照片在中国比在行李箱里好",
+      "onboard_time": 1740087431,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77172,
       "num": 165876,
       "word": "全场高喊王楚钦",
@@ -449,22 +465,6 @@
       "onboard_time": 1740074592,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 54524,
-      "num": 54524,
-      "word": "马库斯说照片在中国比在行李箱里好",
-      "onboard_time": 1740087431,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 54103,
-      "num": 54103,
-      "word": "快乐家族滑雪惊动救援队",
-      "onboard_time": 1740085451,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 46600,
@@ -515,12 +515,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 28356,
+      "num": 28356,
+      "word": "DeepSeek说真爱从来不是暧昧的细节",
+      "onboard_time": 1740082331,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 27505,
       "num": 58588,
       "word": "1000余妙瓦底中国籍电诈嫌犯被抓",
       "onboard_time": 1740078251,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27128,
+      "num": 27128,
+      "word": "陈丽君2024中国妇女时代人物",
+      "onboard_time": 1740077292,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 25917,
+      "num": 25917,
+      "word": "普京幽默回应何时与普京见面",
+      "onboard_time": 1740083771,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 24856,
@@ -539,14 +563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 24475,
-      "num": 24475,
-      "word": "DeepSeek说真爱从来不是暧昧的细节",
-      "onboard_time": 1740082331,
-      "rank": 37,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 23709,
       "num": 27286,
       "word": "金树林绽放之夜",
@@ -555,20 +571,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 22991,
-      "num": 22991,
-      "word": "普京幽默回应何时与普京见面",
-      "onboard_time": 1740083771,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 22569,
-      "num": 22569,
-      "word": "陈丽君2024中国妇女时代人物",
-      "onboard_time": 1740077292,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 22591,
+      "num": 25915,
+      "word": "iPhone17屏幕尺寸或全线增大",
+      "onboard_time": 1740086471,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 21440,
@@ -579,15 +587,7 @@
       "category": "民生新闻,电影"
     },
     {
-      "raw_hot": 18907,
-      "num": 22074,
-      "word": "iPhone17屏幕尺寸或全线增大",
-      "onboard_time": 1740086471,
-      "rank": 49,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 18254,
+      "raw_hot": 19711,
       "num": 42980,
       "word": "记者采访将特朗普名字念成普京",
       "onboard_time": 1740085030,
