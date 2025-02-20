@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740015806129,
+  "endTime": 1740016791063,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -2209,6 +2209,14 @@
       "onboard_time": 1738475118,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1556112,
+      "num": 357245,
+      "word": "刘诗诗将所持股权转让给吴奇隆",
+      "onboard_time": 1740015800,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1554834,
@@ -5635,6 +5643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 864478,
+      "num": 1138316,
+      "word": "白敬亭三平台有四部破万剧",
+      "onboard_time": 1740014720,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 864283,
       "num": 864283,
       "word": "黄金高位跳水",
@@ -9019,6 +9035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 594639,
+      "num": 393637,
+      "word": "西安女子吐槽银行8个窗口6个不营业",
+      "onboard_time": 1740014181,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 593622,
       "num": 516490,
       "word": "张凌赫首部男主现偶剧",
@@ -9137,6 +9161,14 @@
       "onboard_time": 1739199380,
       "rank": 16,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 587057,
+      "num": 433389,
+      "word": "DeepSeek引来悄无声息的职场地震",
+      "onboard_time": 1740012441,
+      "rank": 6,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 586504,
@@ -9377,14 +9409,6 @@
       "onboard_time": 1738496120,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 574934,
-      "num": 433389,
-      "word": "DeepSeek引来悄无声息的职场地震",
-      "onboard_time": 1740012441,
-      "rank": 6,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 574458,
@@ -11515,6 +11539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 486238,
+      "num": 486238,
+      "word": "iPhone16e定价4499元起",
+      "onboard_time": 1739982915,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 486060,
       "num": 328157,
       "word": "女生坚持跑步30天瘦脸效果惊人",
@@ -12185,14 +12217,6 @@
       "onboard_time": 1739928140,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 461356,
-      "num": 461356,
-      "word": "白敬亭三平台有四部破万剧",
-      "onboard_time": 1740014720,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 461331,
@@ -12931,14 +12955,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 434790,
-      "num": 393637,
-      "word": "西安女子吐槽银行8个窗口6个不营业",
-      "onboard_time": 1740014181,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 434693,
       "num": 434693,
       "word": "医生提醒重度干眼症可致失明",
@@ -13473,14 +13489,6 @@
       "onboard_time": 1738818388,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 414566,
-      "num": 414566,
-      "word": "iPhone16e定价4499元起",
-      "onboard_time": 1739982915,
-      "rank": 16,
-      "category": "数码"
     },
     {
       "raw_hot": 414392,
@@ -15225,6 +15233,14 @@
       "onboard_time": 1738326919,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 364348,
+      "num": 364348,
+      "word": "美方要求乌克兰交出50%矿产资源",
+      "onboard_time": 1740015078,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 364009,
@@ -20171,6 +20187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 267570,
+      "num": 267570,
+      "word": "特朗普用喜剧演员称呼泽连斯基",
+      "onboard_time": 1740015979,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 267426,
       "num": 267426,
       "word": "湖人交易惊呆NBA群星",
@@ -22563,6 +22587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237993,
+      "num": 237993,
+      "word": "什么是个税年度汇算",
+      "onboard_time": 1740013579,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 237930,
       "num": 237930,
       "word": "肖战射雕武汉路演",
@@ -24675,6 +24707,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 219316,
+      "num": 204978,
+      "word": "监狱管理局回应截瘫男子狱中染HIV",
+      "onboard_time": 1740016580,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 219295,
       "num": 210855,
       "word": "XYG",
@@ -26555,6 +26595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207176,
+      "num": 395318,
+      "word": "马库斯揭露外祖父同事被日军强奸活埋",
+      "onboard_time": 1740013880,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207040,
       "num": 207040,
       "word": "谢娜谁聚会想要听课啊",
@@ -26883,6 +26931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205207,
+      "num": 242642,
+      "word": "彭高书单",
+      "onboard_time": 1740015918,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205158,
       "num": 273219,
       "word": "徐梦桃夺冠后提极氪7X",
@@ -26921,6 +26977,14 @@
       "onboard_time": 1739106202,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 204959,
+      "num": 204959,
+      "word": "王皓对王楚钦说赢下来就非常好",
+      "onboard_time": 1740012141,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 204896,
@@ -27363,14 +27427,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 203297,
-      "num": 395318,
-      "word": "马库斯揭露外祖父同事被日军强奸活埋",
-      "onboard_time": 1740013880,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 203290,
       "num": 455111,
       "word": "2025春节档票房破95亿",
@@ -27569,14 +27625,6 @@
       "onboard_time": 1739354720,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 202180,
-      "num": 202180,
-      "word": "王皓对王楚钦说赢下来就非常好",
-      "onboard_time": 1740012141,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 202158,
@@ -27889,6 +27937,14 @@
       "onboard_time": 1739968880,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200316,
+      "num": 178310,
+      "word": "王皓在场边急的坐立难安",
+      "onboard_time": 1740014181,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 200281,
@@ -28289,14 +28345,6 @@
       "onboard_time": 1739356162,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 198658,
-      "num": 173677,
-      "word": "王皓在场边急的坐立难安",
-      "onboard_time": 1740014181,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 198600,
@@ -32411,6 +32459,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 178488,
+      "num": 178488,
+      "word": "跑步多久才能达到减肥目的",
+      "onboard_time": 1740015440,
+      "rank": 29,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 178376,
       "num": 178402,
       "word": "林诗栋说没想到4比0赢",
@@ -32889,6 +32945,14 @@
       "onboard_time": 1739628381,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175441,
+      "num": 175441,
+      "word": "特朗普称美国是非常腐败的国家",
+      "onboard_time": 1740015379,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 175407,
@@ -35569,6 +35633,14 @@
       "onboard_time": 1739682978,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 161579,
+      "num": 204980,
+      "word": "欧阳震华有哪吒2的票了",
+      "onboard_time": 1740014301,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 161527,
@@ -38555,14 +38627,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 146849,
-      "num": 146849,
-      "word": "美方要求乌克兰交出50%矿产资源",
-      "onboard_time": 1740015078,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 146848,
       "num": 146848,
       "word": "五福临门一集两场婚礼",
@@ -38681,14 +38745,6 @@
       "onboard_time": 1738661963,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 146456,
-      "num": 146456,
-      "word": "欧阳震华有哪吒2的票了",
-      "onboard_time": 1740014301,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 146436,
@@ -40283,6 +40339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139033,
+      "num": 139033,
+      "word": "间谍假扮网友诱导学生泄密",
+      "onboard_time": 1740016218,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 139014,
       "num": 139014,
       "word": "小孩一招救了妈妈继续玩游戏",
@@ -41337,14 +41401,6 @@
       "onboard_time": 1739013023,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 133250,
-      "num": 133250,
-      "word": "什么是个税年度汇算",
-      "onboard_time": 1740013579,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133241,
@@ -42657,14 +42713,6 @@
       "onboard_time": 1738939103,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127103,
-      "num": 127103,
-      "word": "特朗普称美国是非常腐败的国家",
-      "onboard_time": 1740015379,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 127062,
@@ -47131,6 +47179,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 101259,
+      "num": 359406,
+      "word": "郑某某曾执导儿童向电影评分2.2",
+      "onboard_time": 1740015979,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101243,
       "num": 141986,
       "word": "杜兰特争夺战打响了",
@@ -48065,6 +48121,14 @@
       "onboard_time": 1739721140,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94987,
+      "num": 241614,
+      "word": "国乒亚洲杯20日赛程表",
+      "onboard_time": 1740016461,
+      "rank": 20,
+      "category": "正能量"
     },
     {
       "raw_hot": 94905,
@@ -50489,14 +50553,6 @@
       "onboard_time": 1739897655,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 73664,
-      "num": 174066,
-      "word": "跑步多久才能达到减肥目的",
-      "onboard_time": 1740015440,
-      "rank": 29,
-      "category": "运动健身"
     },
     {
       "raw_hot": 73659,
