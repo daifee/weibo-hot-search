@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740026450190,
+  "endTime": 1740028939455,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -347,6 +347,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 3560113,
+      "num": 3560113,
+      "word": "刘泳希李嘉铭官宣离婚",
+      "onboard_time": 1740026782,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3533201,
       "num": 3533201,
       "word": "哪吒2票房破80亿",
@@ -556,7 +564,7 @@
     },
     {
       "raw_hot": 2963105,
-      "num": 540710,
+      "num": 545941,
       "word": "刘诗诗将所持股权转让给吴奇隆",
       "onboard_time": 1740015800,
       "rank": 10,
@@ -8499,6 +8507,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 636127,
+      "num": 567136,
+      "word": "王大陆3月13日受入伍训",
+      "onboard_time": 1740027142,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 636102,
       "num": 601446,
       "word": "谢广坤扮演者前妻替女儿道歉",
@@ -8993,6 +9009,14 @@
       "onboard_time": 1739077220,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 604031,
+      "num": 604031,
+      "word": "DeepSeek回答存款利率太低怎么办",
+      "onboard_time": 1740024982,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 603328,
@@ -9739,14 +9763,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 564597,
-      "num": 564597,
-      "word": "DeepSeek回答存款利率太低怎么办",
-      "onboard_time": 1740024982,
-      "rank": 21,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 564032,
       "num": 417241,
       "word": "祝绪丹配音小石矶娘娘",
@@ -10257,6 +10273,14 @@
       "onboard_time": 1739890823,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 541900,
+      "num": 541900,
+      "word": "白敬亭耍帅结果把后备箱打开了",
+      "onboard_time": 1740023602,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 541879,
@@ -12571,6 +12595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 453354,
+      "num": 577679,
+      "word": "郑州下雪",
+      "onboard_time": 1740024861,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 453291,
       "num": 360157,
       "word": "动画公司回应138家公司托举哪吒2",
@@ -12705,14 +12737,6 @@
       "onboard_time": 1739619500,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 448789,
-      "num": 537202,
-      "word": "白敬亭耍帅结果把后备箱打开了",
-      "onboard_time": 1740023602,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 448608,
@@ -14539,6 +14563,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 389578,
+      "num": 389578,
+      "word": "董明珠已找到格力接班人",
+      "onboard_time": 1740028522,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
       "raw_hot": 389167,
       "num": 389167,
       "word": "无量仙翁拐杖变木龙特效做了一年多",
@@ -14617,6 +14649,14 @@
       "onboard_time": 1739164641,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 386702,
+      "num": 386702,
+      "word": "叶童c位",
+      "onboard_time": 1740027562,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 386694,
@@ -14971,12 +15011,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 376485,
-      "num": 376485,
-      "word": "郑州下雪",
-      "onboard_time": 1740024861,
+      "raw_hot": 376667,
+      "num": 376667,
+      "word": "桑稚不语只是一味上榜年度角色",
+      "onboard_time": 1740027322,
       "rank": 22,
-      "category": "民生新闻"
+      "category": "剧集"
     },
     {
       "raw_hot": 375935,
@@ -16377,6 +16417,14 @@
       "onboard_time": 1739461520,
       "rank": 30,
       "category": "财经,电影"
+    },
+    {
+      "raw_hot": 341096,
+      "num": 341096,
+      "word": "董明珠回应未再婚",
+      "onboard_time": 1740027383,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 340935,
@@ -18875,6 +18923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 292590,
+      "num": 292590,
+      "word": "哪吒2在北美市场被严重低估",
+      "onboard_time": 1740026424,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 292354,
       "num": 240673,
       "word": "女子晒双胞胎儿子cos哪吒敖丙",
@@ -19729,6 +19785,14 @@
       "onboard_time": 1739159242,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 278456,
+      "num": 390212,
+      "word": "陈哲远微博互动榜前6都是韩国粉丝",
+      "onboard_time": 1740028163,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 278455,
@@ -22411,6 +22475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 243649,
+      "num": 242712,
+      "word": "薛之谦天外来物一般出演了难哄",
+      "onboard_time": 1740026483,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 243524,
       "num": 235163,
       "word": "张钧甯看了哪吒2",
@@ -22865,6 +22937,14 @@
       "onboard_time": 1738458616,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 237904,
+      "num": 237904,
+      "word": "黄杨钿甜观众缘",
+      "onboard_time": 1740026063,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 237875,
@@ -27787,14 +27867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203003,
-      "num": 203003,
-      "word": "黄杨钿甜观众缘",
-      "onboard_time": 1740026063,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 202998,
       "num": 202998,
       "word": "掌心王子和亲",
@@ -31683,6 +31755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 184392,
+      "num": 184392,
+      "word": "难哄第8集好嗑",
+      "onboard_time": 1740028522,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184363,
       "num": 184363,
       "word": "胡歌是有什么发博KPI吗",
@@ -31953,6 +32033,14 @@
       "onboard_time": 1738718780,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182960,
+      "num": 332447,
+      "word": "张婧仪粉色洞洞鞋",
+      "onboard_time": 1740026663,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 182932,
@@ -36331,6 +36419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160367,
+      "num": 160367,
+      "word": "黄多多盘发发量",
+      "onboard_time": 1740028882,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160328,
       "num": 160328,
       "word": "秦彻个人艺术展共创企划",
@@ -38881,14 +38977,6 @@
       "onboard_time": 1739165482,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 147857,
-      "num": 147857,
-      "word": "哪吒2在北美市场被严重低估",
-      "onboard_time": 1740026424,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 147665,
@@ -48001,6 +48089,14 @@
       "onboard_time": 1739199202,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99450,
+      "num": 328445,
+      "word": "美副总统警告泽连斯基别说特朗普坏话",
+      "onboard_time": 1740028703,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 99366,
@@ -57299,6 +57395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 30327,
+      "num": 336119,
+      "word": "泽连斯基说美国给了1000亿让还5000亿",
+      "onboard_time": 1740028761,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 30278,
       "num": 30278,
       "word": "电影哪吒之魔童闹海",
@@ -58835,6 +58939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 21873,
+      "num": 333394,
+      "word": "房东猥亵女生因年纪过大免于处罚",
+      "onboard_time": 1740028641,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21778,
       "num": 50338,
       "word": "武汉辅警韩靖回应抱娃狂奔500米送医",
@@ -58849,6 +58961,14 @@
       "onboard_time": 1738382837,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21713,
+      "num": 186389,
+      "word": "自制焦糖奶茶",
+      "onboard_time": 1740027743,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 21676,
@@ -60065,6 +60185,14 @@
       "onboard_time": 1739343679,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 14610,
+      "num": 389811,
+      "word": "学校食材配送公司将大批猪肉扔地上",
+      "onboard_time": 1740028522,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14594,
