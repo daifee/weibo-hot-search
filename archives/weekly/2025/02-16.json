@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1740022047275,
+  "endTime": 1740022955365,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -185,6 +185,14 @@
       "onboard_time": 1739927541,
       "rank": 0,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2820074,
+      "num": 1540415,
+      "word": "男子服刑期感染艾滋病监狱被判赔偿",
+      "onboard_time": 1740019700,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2716920,
@@ -521,14 +529,6 @@
       "onboard_time": 1739708306,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1540415,
-      "num": 1540415,
-      "word": "男子服刑期感染艾滋病监狱被判赔偿",
-      "onboard_time": 1740019700,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1534019,
@@ -963,6 +963,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1156326,
+      "num": 1185012,
+      "word": "腾讯华为等接入DeepSeek每月亏超4亿",
+      "onboard_time": 1740021559,
+      "rank": 12,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1147911,
       "num": 338626,
       "word": "来殡仪馆吃米粉的人比献花的还多",
@@ -1131,6 +1139,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1047873,
+      "num": 1047873,
+      "word": "醉梦阵容官宣",
+      "onboard_time": 1740019039,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1047087,
       "num": 384835,
       "word": "余承恩你还要亲成什么样",
@@ -1217,14 +1233,6 @@
       "onboard_time": 1739888663,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 987318,
-      "num": 987318,
-      "word": "醉梦阵容官宣",
-      "onboard_time": 1740019039,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 986898,
@@ -1915,14 +1923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 686208,
-      "num": 326879,
-      "word": "腾讯华为等接入DeepSeek每月亏超4亿",
-      "onboard_time": 1740021559,
-      "rank": 12,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 684013,
       "num": 540229,
       "word": "元斌在金赛纶灵堂擦眼泪",
@@ -2425,6 +2425,14 @@
       "onboard_time": 1739846899,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 555024,
+      "num": 555024,
+      "word": "野生大熊猫用舌头给红外相机擦镜头",
+      "onboard_time": 1740018919,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 554658,
@@ -2985,6 +2993,14 @@
       "onboard_time": 1739684178,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 461060,
+      "num": 461060,
+      "word": "广西6死事故死伤者系修剪杂草工人",
+      "onboard_time": 1740020721,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 461043,
@@ -3649,6 +3665,14 @@
       "onboard_time": 1739944820,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 379974,
+      "num": 379974,
+      "word": "哪吒2海外票房破千万仅用4天",
+      "onboard_time": 1740021440,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 379334,
@@ -4323,14 +4347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 315795,
-      "num": 315795,
-      "word": "广西6死事故死伤者系修剪杂草工人",
-      "onboard_time": 1740020721,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 315340,
       "num": 315340,
       "word": "你的吒儿埋了多少文物梗",
@@ -4731,14 +4747,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 285530,
-      "num": 353466,
-      "word": "野生大熊猫用舌头给红外相机擦镜头",
-      "onboard_time": 1740018919,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 285387,
       "num": 285387,
       "word": "专家称哪吒2被曝错别字值得重视",
@@ -4843,6 +4851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 278749,
+      "num": 278749,
+      "word": "周星驰经纪人否认郑某峰投资换角色",
+      "onboard_time": 1740022100,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 278227,
       "num": 278227,
       "word": "魏大勋听不得马耳他三个字",
@@ -4881,6 +4897,14 @@
       "onboard_time": 1739874202,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 272968,
+      "num": 272968,
+      "word": "只此江湖梦定档",
+      "onboard_time": 1740021559,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 272814,
@@ -6515,6 +6539,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 208507,
+      "num": 208507,
+      "word": "孙颖莎vs阿库拉",
+      "onboard_time": 1740021859,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208415,
       "num": 208415,
       "word": "朴春称表白李敏镐帖子是公司删的",
@@ -6843,6 +6875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201284,
+      "num": 322687,
+      "word": "孙颖莎VS阿库拉",
+      "onboard_time": 1740019939,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201256,
       "num": 201256,
       "word": "陶喆 抢票",
@@ -6913,14 +6953,6 @@
       "onboard_time": 1739693838,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199770,
-      "num": 322687,
-      "word": "孙颖莎VS阿库拉",
-      "onboard_time": 1740019939,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 199668,
@@ -7153,14 +7185,6 @@
       "onboard_time": 1739773639,
       "rank": 35,
       "category": "体育,电影"
-    },
-    {
-      "raw_hot": 195200,
-      "num": 195200,
-      "word": "只此江湖梦定档",
-      "onboard_time": 1740021559,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 194755,
@@ -7475,6 +7499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 187615,
+      "num": 187615,
+      "word": "男子怕媳妇看到酒瓶直接从18楼抛出",
+      "onboard_time": 1740021921,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187511,
       "num": 229377,
       "word": "花木兰导演点赞哪吒2",
@@ -7513,6 +7545,14 @@
       "onboard_time": 1739690237,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186815,
+      "num": 881893,
+      "word": "我国人形机器人又有突破",
+      "onboard_time": 1740021020,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186689,
@@ -7979,14 +8019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 172988,
-      "num": 282255,
-      "word": "哪吒2海外票房破千万仅用4天",
-      "onboard_time": 1740021440,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 172975,
       "num": 145446,
       "word": "李现微博之夜库存照",
@@ -8443,8 +8475,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 162291,
-      "num": 162291,
+      "raw_hot": 162308,
+      "num": 274339,
       "word": "上汽奥迪A5L公告图发布",
       "onboard_time": 1740021559,
       "rank": 37,
@@ -8825,6 +8857,14 @@
       "onboard_time": 1739953582,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152758,
+      "num": 152758,
+      "word": "女生分享自己的上班通勤搭子",
+      "onboard_time": 1740019399,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 152730,
@@ -9675,12 +9715,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132281,
-      "num": 132281,
-      "word": "男子怕媳妇看到酒瓶直接从18楼抛出",
-      "onboard_time": 1740021921,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 132318,
+      "num": 309443,
+      "word": "骑手缴纳社保外卖会变贵吗",
+      "onboard_time": 1740022400,
+      "rank": 14,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 131979,
@@ -9753,14 +9793,6 @@
       "onboard_time": 1739672299,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 130509,
-      "num": 130509,
-      "word": "女生分享自己的上班通勤搭子",
-      "onboard_time": 1740019399,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 130182,
@@ -9984,14 +10016,6 @@
       "word": "美加两国冰球队员9秒内3次互殴",
       "onboard_time": 1739717842,
       "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 125110,
-      "num": 125110,
-      "word": "孙颖莎vs阿库拉",
-      "onboard_time": 1740021859,
-      "rank": 46,
       "category": "体育"
     },
     {
@@ -10441,14 +10465,6 @@
       "onboard_time": 1739855853,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 113181,
-      "num": 881893,
-      "word": "我国人形机器人又有突破",
-      "onboard_time": 1740021020,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 112901,
@@ -11233,6 +11249,14 @@
       "onboard_time": 1739719402,
       "rank": 48,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 90736,
+      "num": 308886,
+      "word": "部分地区司法系统引入DeepSeek",
+      "onboard_time": 1740020779,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90649,
@@ -12283,6 +12307,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 51472,
+      "num": 209887,
+      "word": "乌方否认俄军越过俄乌边界",
+      "onboard_time": 1740021559,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 51374,
       "num": 288574,
       "word": "德约科维奇认为辛纳被袒护",
@@ -12297,14 +12329,6 @@
       "onboard_time": 1739648652,
       "rank": 29,
       "category": "民生新闻,电影"
-    },
-    {
-      "raw_hot": 50696,
-      "num": 308886,
-      "word": "部分地区司法系统引入DeepSeek",
-      "onboard_time": 1740020779,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 49837,
@@ -12659,12 +12683,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 39215,
-      "num": 195197,
-      "word": "乌方否认俄军越过俄乌边界",
-      "onboard_time": 1740021559,
-      "rank": 29,
-      "category": "国际时政"
+      "raw_hot": 39888,
+      "num": 238496,
+      "word": "孙颖莎亚洲杯两连胜",
+      "onboard_time": 1740022762,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 38934,

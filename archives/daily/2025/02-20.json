@@ -1,6 +1,6 @@
 {
   "startTime": 1739982473012,
-  "endTime": 1740022047275,
+  "endTime": 1740022955365,
   "band_list": [
     {
       "raw_hot": 2963105,
@@ -11,19 +11,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2820074,
+      "num": 1540415,
+      "word": "男子服刑期感染艾滋病监狱被判赔偿",
+      "onboard_time": 1740019700,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1889517,
       "num": 260216,
       "word": "男孩蛋蛋被同学踢碎成果冻",
       "onboard_time": 1740006555,
       "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1540415,
-      "num": 1540415,
-      "word": "男子服刑期感染艾滋病监狱被判赔偿",
-      "onboard_time": 1740019700,
-      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -41,6 +41,14 @@
       "onboard_time": 1739980221,
       "rank": 1,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1156326,
+      "num": 1185012,
+      "word": "腾讯华为等接入DeepSeek每月亏超4亿",
+      "onboard_time": 1740021559,
+      "rank": 12,
+      "category": "互联网"
     },
     {
       "raw_hot": 1147911,
@@ -67,8 +75,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 987318,
-      "num": 987318,
+      "raw_hot": 1047873,
+      "num": 1047873,
       "word": "醉梦阵容官宣",
       "onboard_time": 1740019039,
       "rank": 14,
@@ -123,14 +131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 686208,
-      "num": 326879,
-      "word": "腾讯华为等接入DeepSeek每月亏超4亿",
-      "onboard_time": 1740021559,
-      "rank": 12,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 669712,
       "num": 488534,
       "word": "我承认对难哄大声了一点",
@@ -179,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 555024,
+      "num": 555024,
+      "word": "野生大熊猫用舌头给红外相机擦镜头",
+      "onboard_time": 1740018919,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 540758,
       "num": 314893,
       "word": "网曝711店员熟食区做不雅行为",
@@ -217,6 +225,14 @@
       "onboard_time": 1739982915,
       "rank": 16,
       "category": "数码"
+    },
+    {
+      "raw_hot": 461060,
+      "num": 461060,
+      "word": "广西6死事故死伤者系修剪杂草工人",
+      "onboard_time": 1740020721,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 448608,
@@ -307,6 +323,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 379974,
+      "num": 379974,
+      "word": "哪吒2海外票房破千万仅用4天",
+      "onboard_time": 1740021440,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 355086,
       "num": 355086,
       "word": "美方打劫乌克兰协议细节曝光",
@@ -355,14 +379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 315795,
-      "num": 315795,
-      "word": "广西6死事故死伤者系修剪杂草工人",
-      "onboard_time": 1740020721,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 312841,
       "num": 312841,
       "word": "哪吒2爆火后西安团队求职数翻10倍",
@@ -403,20 +419,28 @@
       "category": "民生新闻,艺人"
     },
     {
-      "raw_hot": 285530,
-      "num": 353466,
-      "word": "野生大熊猫用舌头给红外相机擦镜头",
-      "onboard_time": 1740018919,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 282386,
       "num": 161835,
       "word": "十年前的白梦妍嫩得掐出水来了",
       "onboard_time": 1739978601,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 278749,
+      "num": 278749,
+      "word": "周星驰经纪人否认郑某峰投资换角色",
+      "onboard_time": 1740022100,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 272968,
+      "num": 272968,
+      "word": "只此江湖梦定档",
+      "onboard_time": 1740021559,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 272461,
@@ -539,6 +563,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 208507,
+      "num": 208507,
+      "word": "孙颖莎vs阿库拉",
+      "onboard_time": 1740021859,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207176,
       "num": 395318,
       "word": "马库斯揭露外祖父同事被日军强奸活埋",
@@ -563,7 +595,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199770,
+      "raw_hot": 201284,
       "num": 322687,
       "word": "孙颖莎VS阿库拉",
       "onboard_time": 1740019939,
@@ -593,14 +625,6 @@
       "onboard_time": 1740011961,
       "rank": 26,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 195200,
-      "num": 195200,
-      "word": "只此江湖梦定档",
-      "onboard_time": 1740021559,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 191835,
@@ -635,12 +659,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187615,
+      "num": 187615,
+      "word": "男子怕媳妇看到酒瓶直接从18楼抛出",
+      "onboard_time": 1740021921,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187511,
       "num": 229377,
       "word": "花木兰导演点赞哪吒2",
       "onboard_time": 1740019459,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 186815,
+      "num": 881893,
+      "word": "我国人形机器人又有突破",
+      "onboard_time": 1740021020,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 184172,
@@ -675,14 +715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 172988,
-      "num": 282255,
-      "word": "哪吒2海外票房破千万仅用4天",
-      "onboard_time": 1740021440,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 165085,
       "num": 165085,
       "word": "马特说王楚钦打球太实在",
@@ -699,8 +731,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 162291,
-      "num": 162291,
+      "raw_hot": 162308,
+      "num": 274339,
       "word": "上汽奥迪A5L公告图发布",
       "onboard_time": 1740021559,
       "rank": 37,
@@ -745,6 +777,14 @@
       "onboard_time": 1740020300,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152758,
+      "num": 152758,
+      "word": "女生分享自己的上班通勤搭子",
+      "onboard_time": 1740019399,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 146865,
@@ -827,20 +867,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 132281,
-      "num": 132281,
-      "word": "男子怕媳妇看到酒瓶直接从18楼抛出",
-      "onboard_time": 1740021921,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 130509,
-      "num": 130509,
-      "word": "女生分享自己的上班通勤搭子",
-      "onboard_time": 1740019399,
-      "rank": 48,
-      "category": "幽默"
+      "raw_hot": 132318,
+      "num": 309443,
+      "word": "骑手缴纳社保外卖会变贵吗",
+      "onboard_time": 1740022400,
+      "rank": 14,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 130182,
@@ -864,14 +896,6 @@
       "word": "王楚钦决胜局救起一颗精彩球",
       "onboard_time": 1739980820,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 125110,
-      "num": 125110,
-      "word": "孙颖莎vs阿库拉",
-      "onboard_time": 1740021859,
-      "rank": 46,
       "category": "体育"
     },
     {
@@ -931,14 +955,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 113181,
-      "num": 881893,
-      "word": "我国人形机器人又有突破",
-      "onboard_time": 1740021020,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 110400,
       "num": 110400,
       "word": "孟子义攒了几部剧没播",
@@ -977,6 +993,14 @@
       "onboard_time": 1740016461,
       "rank": 20,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 90736,
+      "num": 308886,
+      "word": "部分地区司法系统引入DeepSeek",
+      "onboard_time": 1740020779,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87653,
@@ -1035,12 +1059,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 50696,
-      "num": 308886,
-      "word": "部分地区司法系统引入DeepSeek",
-      "onboard_time": 1740020779,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 51472,
+      "num": 209887,
+      "word": "乌方否认俄军越过俄乌边界",
+      "onboard_time": 1740021559,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 47683,
@@ -1115,12 +1139,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 39215,
-      "num": 195197,
-      "word": "乌方否认俄军越过俄乌边界",
-      "onboard_time": 1740021559,
-      "rank": 29,
-      "category": "国际时政"
+      "raw_hot": 39888,
+      "num": 238496,
+      "word": "孙颖莎亚洲杯两连胜",
+      "onboard_time": 1740022762,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 34079,
