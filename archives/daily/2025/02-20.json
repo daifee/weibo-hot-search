@@ -1,10 +1,10 @@
 {
   "startTime": 1739982473012,
-  "endTime": 1740025616479,
+  "endTime": 1740026450190,
   "band_list": [
     {
       "raw_hot": 2963105,
-      "num": 448922,
+      "num": 540710,
       "word": "刘诗诗将所持股权转让给吴奇隆",
       "onboard_time": 1740015800,
       "rank": 10,
@@ -60,10 +60,18 @@
     },
     {
       "raw_hot": 1147911,
-      "num": 432013,
+      "num": 525235,
       "word": "来殡仪馆吃米粉的人比献花的还多",
       "onboard_time": 1740018919,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1135025,
+      "num": 1135025,
+      "word": "宝妈兼职配音4天被骗66万",
+      "onboard_time": 1740023782,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -83,20 +91,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1063645,
+      "num": 1063645,
+      "word": "网红越野唐僧去世",
+      "onboard_time": 1740024441,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1047873,
       "num": 1047873,
       "word": "醉梦阵容官宣",
       "onboard_time": 1740019039,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 958521,
-      "num": 958521,
-      "word": "宝妈兼职配音4天被骗66万",
-      "onboard_time": 1740023782,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 864478,
@@ -131,19 +139,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 753251,
-      "num": 414712,
-      "word": "网红越野唐僧去世",
-      "onboard_time": 1740024441,
-      "rank": 15,
-      "category": "网红"
-    },
-    {
       "raw_hot": 731357,
       "num": 731357,
       "word": "iPhone16e发布",
       "onboard_time": 1739982618,
       "rank": 3,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 696179,
+      "num": 696179,
+      "word": "iPhone16e XR",
+      "onboard_time": 1740024380,
+      "rank": 17,
       "category": "数码"
     },
     {
@@ -187,6 +195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 629860,
+      "num": 629860,
+      "word": "骑手缴纳社保外卖会变贵吗",
+      "onboard_time": 1740022400,
+      "rank": 14,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 617860,
       "num": 433389,
       "word": "DeepSeek引来悄无声息的职场地震",
@@ -219,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 564597,
+      "num": 564597,
+      "word": "DeepSeek回答存款利率太低怎么办",
+      "onboard_time": 1740024982,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 562630,
       "num": 562630,
       "word": "郑某某曾执导儿童向电影评分2.2",
@@ -233,14 +257,6 @@
       "onboard_time": 1739959400,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 538823,
-      "num": 538823,
-      "word": "骑手缴纳社保外卖会变贵吗",
-      "onboard_time": 1740022400,
-      "rank": 14,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 517767,
@@ -276,11 +292,27 @@
     },
     {
       "raw_hot": 476297,
-      "num": 476297,
+      "num": 531100,
       "word": "周星驰经纪人否认郑某峰投资换角色",
       "onboard_time": 1740022100,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 461380,
+      "num": 461380,
+      "word": "董明珠只去用格力空调的餐厅",
+      "onboard_time": 1740023663,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 448789,
+      "num": 537202,
+      "word": "白敬亭耍帅结果把后备箱打开了",
+      "onboard_time": 1740023602,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 448608,
@@ -323,14 +355,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 402631,
-      "num": 402631,
-      "word": "iPhone16e XR",
-      "onboard_time": 1740024380,
-      "rank": 17,
-      "category": "数码"
-    },
-    {
       "raw_hot": 396030,
       "num": 396030,
       "word": "iPhone16e",
@@ -347,20 +371,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 393216,
+      "num": 393216,
+      "word": "董明珠谈被很多员工背后骂",
+      "onboard_time": 1740025223,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 391311,
       "num": 391311,
       "word": "美国2架小飞机空中相撞",
       "onboard_time": 1740007036,
       "rank": 24,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 390943,
-      "num": 323583,
-      "word": "董明珠只去用格力空调的餐厅",
-      "onboard_time": 1740023663,
-      "rank": 20,
-      "category": "财经"
     },
     {
       "raw_hot": 390039,
@@ -385,6 +409,22 @@
       "onboard_time": 1740019161,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 376485,
+      "num": 376485,
+      "word": "郑州下雪",
+      "onboard_time": 1740024861,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 367072,
+      "num": 547522,
+      "word": "Deepseek开始抢情感咨询师饭碗了",
+      "onboard_time": 1740023061,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 355086,
@@ -419,12 +459,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 342010,
+      "num": 342010,
+      "word": "哪吒2票房",
+      "onboard_time": 1740025402,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 335856,
       "num": 263638,
       "word": "朴春 李敏镐",
       "onboard_time": 1739957721,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 326354,
+      "num": 305848,
+      "word": "韩东君一演戏想谈想撩又想离",
+      "onboard_time": 1740024802,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 322678,
@@ -443,20 +499,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 312663,
+      "num": 534843,
+      "word": "男子怕媳妇看到酒瓶直接从18楼抛出",
+      "onboard_time": 1740021921,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 311609,
       "num": 311609,
       "word": "5万悬赏爱犬被两条流浪狗收养",
       "onboard_time": 1740007036,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 308885,
-      "num": 308885,
-      "word": "DeepSeek回答存款利率太低怎么办",
-      "onboard_time": 1740024982,
-      "rank": 21,
-      "category": "互联网"
     },
     {
       "raw_hot": 302889,
@@ -483,22 +539,6 @@
       "category": "民生新闻,艺人"
     },
     {
-      "raw_hot": 290161,
-      "num": 272101,
-      "word": "白敬亭耍帅结果把后备箱打开了",
-      "onboard_time": 1740023602,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 289189,
-      "num": 471128,
-      "word": "Deepseek开始抢情感咨询师饭碗了",
-      "onboard_time": 1740023061,
-      "rank": 9,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 282386,
       "num": 161835,
       "word": "十年前的白梦妍嫩得掐出水来了",
@@ -507,12 +547,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 281206,
-      "num": 281206,
-      "word": "郑州下雪",
-      "onboard_time": 1740024861,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 277989,
+      "num": 277989,
+      "word": "一批中国公民被从缅甸电诈园区遣送",
+      "onboard_time": 1740024441,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 272968,
@@ -539,28 +579,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 256322,
-      "num": 427447,
-      "word": "男子怕媳妇看到酒瓶直接从18楼抛出",
-      "onboard_time": 1740021921,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 252772,
       "num": 252772,
       "word": "老板回应因顾客加5勺辣椒报警",
       "onboard_time": 1739978960,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 252463,
-      "num": 242793,
-      "word": "韩东君一演戏想谈想撩又想离",
-      "onboard_time": 1740024802,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 252182,
@@ -587,14 +611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 243689,
-      "num": 243689,
-      "word": "一批中国公民被从缅甸电诈园区遣送",
-      "onboard_time": 1740024441,
-      "rank": 26,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 240378,
       "num": 291878,
       "word": "俄军已越过库尔斯克地区俄乌边界",
@@ -609,14 +625,6 @@
       "onboard_time": 1740004513,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 236843,
-      "num": 236843,
-      "word": "董明珠谈被很多员工背后骂",
-      "onboard_time": 1740025223,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 236159,
@@ -731,12 +739,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205057,
+      "num": 205057,
+      "word": "成毅应渊白月光又杀回年度角色了",
+      "onboard_time": 1740025041,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204959,
       "num": 204959,
       "word": "王皓对王楚钦说赢下来就非常好",
       "onboard_time": 1740012141,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203003,
+      "num": 203003,
+      "word": "黄杨钿甜观众缘",
+      "onboard_time": 1740026063,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 201284,
@@ -753,14 +777,6 @@
       "onboard_time": 1739974523,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 197266,
-      "num": 197266,
-      "word": "成毅应渊白月光又杀回年度角色了",
-      "onboard_time": 1740025041,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 196375,
@@ -795,6 +811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188620,
+      "num": 188620,
+      "word": "孙颖莎一眨眼下班了",
+      "onboard_time": 1740026182,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188019,
       "num": 188019,
       "word": "肖凯文回应借王楚钦衣服",
@@ -811,8 +835,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 187336,
+      "num": 187336,
+      "word": "看个剧要产生信任危机了",
+      "onboard_time": 1740025643,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186815,
-      "num": 881893,
+      "num": 1079544,
       "word": "我国人形机器人又有突破",
       "onboard_time": 1740021020,
       "rank": 2,
@@ -824,14 +856,6 @@
       "word": "涉嫌猥亵儿童导演名下多公司被吊销",
       "onboard_time": 1740018681,
       "rank": 19,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 179935,
-      "num": 179935,
-      "word": "哪吒2票房",
-      "onboard_time": 1740025402,
-      "rank": 37,
       "category": "电影"
     },
     {
@@ -963,12 +987,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154843,
+      "num": 154843,
+      "word": "陈都灵李昀锐或主演楚后",
+      "onboard_time": 1740026122,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152758,
       "num": 152758,
       "word": "女生分享自己的上班通勤搭子",
       "onboard_time": 1740019399,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 147857,
+      "num": 147857,
+      "word": "哪吒2在北美市场被严重低估",
+      "onboard_time": 1740026424,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 146865,
@@ -1097,6 +1137,14 @@
       "onboard_time": 1740015618,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120078,
+      "num": 333445,
+      "word": "王艺迪3比1平野美宇",
+      "onboard_time": 1740025342,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 118485,
@@ -1243,14 +1291,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 51354,
-      "num": 333445,
-      "word": "王艺迪3比1平野美宇",
-      "onboard_time": 1740025342,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 47683,
       "num": 47683,
       "word": "iPhone14停售",
@@ -1323,6 +1363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 37327,
+      "num": 524050,
+      "word": "石洵瑶vs大藤沙月",
+      "onboard_time": 1740025762,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 34079,
       "num": 34079,
       "word": "哪吒2制片人和饺子合作20年了",
@@ -1360,6 +1408,22 @@
       "word": "180天重启计划",
       "onboard_time": 1739992272,
       "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 20247,
+      "num": 520189,
+      "word": "争议招聘要整改的首先是观念与成见",
+      "onboard_time": 1740025821,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19465,
+      "num": 191545,
+      "word": "翟潇闻又穿校服直播了",
+      "onboard_time": 1740025702,
+      "rank": 35,
       "category": "剧集"
     },
     {
