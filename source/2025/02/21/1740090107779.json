@@ -1,0 +1,410 @@
+{
+  "runTime": 1740090107779,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 190262,
+        "num": 375598,
+        "word": "deepseek一两分钟干了我一两天的活",
+        "onboard_time": 1740058822,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143211,
+        "num": 143211,
+        "word": "美国人口3.41亿社保却有3.98亿人",
+        "onboard_time": 1740069677,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 11521,
+        "num": 125997,
+        "word": "我国首口超万米深井完钻",
+        "onboard_time": 1740037521,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 125041,
+        "num": 125041,
+        "word": "导演郑某峰被曝曾说陪睡就让演主角",
+        "onboard_time": 1740066860,
+        "rank": 3,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 123963,
+        "num": 123963,
+        "word": "义乌老板利用DeepSeek卖空小商品",
+        "onboard_time": 1740062063,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98262,
+        "num": 98262,
+        "word": "孕妇赴柬埔寨2个多月后离奇死亡",
+        "onboard_time": 1740066501,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96088,
+        "num": 96088,
+        "word": "张亮4部代表作都在3分之下",
+        "onboard_time": 1740053300,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78576,
+        "num": 78576,
+        "word": "半岁孩子在母婴店摔至颅骨骨折",
+        "onboard_time": 1740066501,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59953,
+        "num": 59953,
+        "word": "章子怡问杨子再见爱人是演的吗",
+        "onboard_time": 1740057202,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54524,
+        "num": 54524,
+        "word": "马库斯说照片在中国比在行李箱里好",
+        "onboard_time": 1740087431,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 371529,
+        "num": 54427,
+        "word": "黄景瑜 女朋友",
+        "onboard_time": 1740064343,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181882,
+        "num": 54353,
+        "word": "女子怀孕5个月被诊所当妇科病治疗",
+        "onboard_time": 1740064224,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140369,
+        "num": 54213,
+        "word": "多位演员自曝曾被导演郑某某侵害",
+        "onboard_time": 1740039083,
+        "rank": 12,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 127224,
+        "num": 54139,
+        "word": "新娘回应小姑子代替新郎拜堂",
+        "onboard_time": 1740080111,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54103,
+        "num": 54103,
+        "word": "快乐家族滑雪惊动救援队",
+        "onboard_time": 1740085451,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53807,
+        "num": 53807,
+        "word": "拐卖王星的中国籍嫌犯押解回国现场",
+        "onboard_time": 1740053839,
+        "rank": 15,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 49189,
+        "num": 49189,
+        "word": "乌克兰",
+        "onboard_time": 1740056301,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 49103,
+        "num": 49103,
+        "word": "河南一彩民花12元中了691万",
+        "onboard_time": 1740073213,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38590,
+        "num": 38590,
+        "word": "制作人员做无量仙翁时以为是好人",
+        "onboard_time": 1740051801,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 36709,
+        "num": 38333,
+        "word": "惠英红 影后就是影后",
+        "onboard_time": 1740051620,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63692,
+        "num": 38135,
+        "word": "被房东多次猥亵女子男友发声",
+        "onboard_time": 1740054501,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51139,
+        "num": 38006,
+        "word": "戚薇9年没去婆家了",
+        "onboard_time": 1740049581,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42034,
+        "num": 37709,
+        "word": "富国岛偶遇黄景瑜",
+        "onboard_time": 1740060083,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37493,
+        "num": 37493,
+        "word": "郭艾伦谈捅伤自己的队友事后态度",
+        "onboard_time": 1740045861,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36093,
+        "num": 36093,
+        "word": "檀健次说再不拍猎罪3我就老了",
+        "onboard_time": 1740063503,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35372,
+        "num": 35372,
+        "word": "怀孕主播直播时被设备砸成脑震荡",
+        "onboard_time": 1740052462,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34584,
+        "num": 34584,
+        "word": "万花世界 鞠婧祎",
+        "onboard_time": 1740058703,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30515,
+        "num": 30515,
+        "word": "尤浩然说杨紫张一山联系多是正常",
+        "onboard_time": 1740044721,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30384,
+        "num": 30384,
+        "word": "原来甲醛超标身体是有症状的",
+        "onboard_time": 1740048021,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 30377,
+        "num": 30377,
+        "word": "哪吒2已超127亿",
+        "onboard_time": 1740060924,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 28426,
+        "num": 28426,
+        "word": "万渣朝凰",
+        "onboard_time": 1740059543,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27098,
+        "num": 27098,
+        "word": "难哄直播 尴尬",
+        "onboard_time": 1740039020,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27040,
+        "num": 27040,
+        "word": "倪妮出场听取好美声一片",
+        "onboard_time": 1740066920,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26910,
+        "num": 26910,
+        "word": "美国财长称乌克兰将签5000亿美元协议",
+        "onboard_time": 1740060623,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25783,
+        "num": 25783,
+        "word": "锦绣芳华 暑期档",
+        "onboard_time": 1740060142,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25573,
+        "num": 25573,
+        "word": "方时赫减肥前后对比照",
+        "onboard_time": 1740069018,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24482,
+        "num": 24482,
+        "word": "一念江南 虞书欣",
+        "onboard_time": 1740062661,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24475,
+        "num": 24475,
+        "word": "DeepSeek说真爱从来不是暧昧的细节",
+        "onboard_time": 1740082331,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 23137,
+        "num": 23137,
+        "word": "白敬亭长大了知道为艺术献身了",
+        "onboard_time": 1740072374,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22991,
+        "num": 22991,
+        "word": "普京幽默回应何时与普京见面",
+        "onboard_time": 1740083771,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22569,
+        "num": 22569,
+        "word": "陈丽君2024中国妇女时代人物",
+        "onboard_time": 1740077292,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22284,
+        "num": 22284,
+        "word": "反中乱港组织民主党宣布解散",
+        "onboard_time": 1740061763,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22093,
+        "num": 22093,
+        "word": "66年前老代码给美国挖坑",
+        "onboard_time": 1740071055,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21027,
+        "num": 22092,
+        "word": "蔡徐坤妆容",
+        "onboard_time": 1740065902,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20427,
+        "num": 22083,
+        "word": "王楚钦的腹肌",
+        "onboard_time": 1740058286,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20259,
+        "num": 22078,
+        "word": "华中农大多名学生称租房面临被赶",
+        "onboard_time": 1740074592,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18907,
+        "num": 22074,
+        "word": "iPhone17屏幕尺寸或全线增大",
+        "onboard_time": 1740086471,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 17504,
+        "num": 22068,
+        "word": "记者采访将特朗普名字念成普京",
+        "onboard_time": 1740085030,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17406,
+        "num": 22062,
+        "word": "易烊千玺朱一龙 合作",
+        "onboard_time": 1740051560,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16601,
+        "num": 22055,
+        "word": "1000余妙瓦底中国籍电诈嫌犯被抓",
+        "onboard_time": 1740078251,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#保持爱拼会赢的精气神#"
+    }
+  }
+}
