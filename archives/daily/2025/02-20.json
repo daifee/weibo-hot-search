@@ -1,6 +1,6 @@
 {
   "startTime": 1739982473012,
-  "endTime": 1740033858097,
+  "endTime": 1740036091676,
   "band_list": [
     {
       "raw_hot": 3560113,
@@ -43,6 +43,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1881587,
+      "num": 1881587,
+      "word": "胡静老公从事殡葬行业",
+      "onboard_time": 1740034223,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1496503,
+      "num": 701277,
+      "word": "05花",
+      "onboard_time": 1740032061,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1495961,
       "num": 612364,
       "word": "董力结婚5年了",
@@ -60,7 +76,7 @@
     },
     {
       "raw_hot": 1398670,
-      "num": 473483,
+      "num": 564960,
       "word": "黄多多盘发发量",
       "onboard_time": 1740028882,
       "rank": 46,
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 1086275,
-      "num": 374062,
+      "num": 565409,
       "word": "抗癌博主小何日记去世",
       "onboard_time": 1740031822,
       "rank": 13,
@@ -147,8 +163,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 982099,
+      "num": 982099,
+      "word": "千万网红毒角SHOW美国高速SUV自燃",
+      "onboard_time": 1740034281,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 906666,
-      "num": 373196,
+      "num": 560549,
       "word": "房东猥亵女生因年纪过大免于处罚",
       "onboard_time": 1740028641,
       "rank": 27,
@@ -156,7 +180,7 @@
     },
     {
       "raw_hot": 868423,
-      "num": 368905,
+      "num": 489441,
       "word": "佘诗曼被问王大陆逃兵役被抓的反应",
       "onboard_time": 1740030381,
       "rank": 12,
@@ -235,14 +259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 674141,
-      "num": 375903,
-      "word": "05花",
-      "onboard_time": 1740032061,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 669712,
       "num": 488534,
       "word": "我承认对难哄大声了一点",
@@ -260,7 +276,7 @@
     },
     {
       "raw_hot": 645109,
-      "num": 367819,
+      "num": 536890,
       "word": "孙颖莎打了自己一巴掌",
       "onboard_time": 1740030922,
       "rank": 18,
@@ -276,7 +292,7 @@
     },
     {
       "raw_hot": 638867,
-      "num": 368416,
+      "num": 456980,
       "word": "白鹿现在自拍很差吗",
       "onboard_time": 1740030202,
       "rank": 22,
@@ -331,12 +347,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 572200,
+      "num": 572200,
+      "word": "特朗普称乌克兰或将不复存在",
+      "onboard_time": 1740029962,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 570381,
       "num": 570381,
       "word": "广西6死事故死伤者系修剪杂草工人",
       "onboard_time": 1740020721,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 567934,
+      "num": 567934,
+      "word": "郭艾伦再发声",
+      "onboard_time": 1740033502,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 562630,
@@ -563,14 +595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 376105,
-      "num": 376105,
-      "word": "特朗普称乌克兰或将不复存在",
-      "onboard_time": 1740029962,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 369504,
       "num": 343828,
       "word": "董力已有一儿一女",
@@ -609,6 +633,14 @@
       "onboard_time": 1739964320,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 348030,
+      "num": 374425,
+      "word": "DeepSeek除了求姻缘还能干啥",
+      "onboard_time": 1740032422,
+      "rank": 16,
+      "category": "互联网"
     },
     {
       "raw_hot": 344163,
@@ -689,6 +721,14 @@
       "onboard_time": 1740007036,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 308857,
+      "num": 308857,
+      "word": "难哄直播",
+      "onboard_time": 1740035541,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 302889,
@@ -859,6 +899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 235150,
+      "num": 309391,
+      "word": "气血不足的人不要老躺着",
+      "onboard_time": 1740032124,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 234187,
       "num": 350149,
       "word": "闺蜜假反目舍身赴死揭露罪行",
@@ -883,6 +931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225293,
+      "num": 252329,
+      "word": "特朗普一天内两次威胁泽连斯基",
+      "onboard_time": 1740034521,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 224923,
       "num": 224923,
       "word": "小伙没见到白富美喷保时捷红漆",
@@ -897,14 +953,6 @@
       "onboard_time": 1740020181,
       "rank": 18,
       "category": "财经"
-    },
-    {
-      "raw_hot": 219233,
-      "num": 219233,
-      "word": "气血不足的人不要老躺着",
-      "onboard_time": 1740032124,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 218853,
@@ -1019,6 +1067,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199570,
+      "num": 199570,
+      "word": "开始推理吧",
+      "onboard_time": 1740035541,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 199147,
+      "num": 315519,
+      "word": "中方包机接回缅甸电诈园遣返人员",
+      "onboard_time": 1740035782,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 199121,
       "num": 169140,
       "word": "女子戴耳环不摘耳垂长出葡萄瘤",
@@ -1043,12 +1107,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 195596,
-      "num": 195596,
-      "word": "郭艾伦再发声",
-      "onboard_time": 1740033502,
-      "rank": 43,
-      "category": "体育"
+      "raw_hot": 195728,
+      "num": 195728,
+      "word": "桑延温以凡摩天轮吻",
+      "onboard_time": 1740035483,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 195327,
@@ -1163,6 +1227,14 @@
       "category": "国际时政,国际时政"
     },
     {
+      "raw_hot": 179210,
+      "num": 179210,
+      "word": "浪姐6 卡琳娜",
+      "onboard_time": 1740034701,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179177,
       "num": 179177,
       "word": "无限暖暖",
@@ -1177,6 +1249,14 @@
       "onboard_time": 1740029003,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 177351,
+      "num": 177351,
+      "word": "吴宗宪再说下去薛之谦就要哭了",
+      "onboard_time": 1740034521,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 176819,
@@ -1209,6 +1289,14 @@
       "onboard_time": 1740015681,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171766,
+      "num": 171766,
+      "word": "戚薇曾说绝对不会嫁给外国人",
+      "onboard_time": 1740034641,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 168251,
@@ -1379,6 +1467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 142155,
+      "num": 142155,
+      "word": "梅西零下14度仍交换球衣",
+      "onboard_time": 1740034403,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141943,
       "num": 141943,
       "word": "iPhone16e配置",
@@ -1433,6 +1529,14 @@
       "onboard_time": 1739961860,
       "rank": 32,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 134799,
+      "num": 370619,
+      "word": "家属盼幸存室友为女儿见义勇为作证",
+      "onboard_time": 1740032662,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133761,
@@ -1539,6 +1643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111171,
+      "num": 137230,
+      "word": "问DeepSeek会不会抢我饭碗",
+      "onboard_time": 1740034701,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 110400,
       "num": 110400,
       "word": "孟子义攒了几部剧没播",
@@ -1563,14 +1675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104904,
-      "num": 374425,
-      "word": "DeepSeek除了求姻缘还能干啥",
-      "onboard_time": 1740032422,
-      "rank": 16,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 102847,
       "num": 102847,
       "word": "好一个乖乖女",
@@ -1585,14 +1689,6 @@
       "onboard_time": 1740016461,
       "rank": 20,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 94365,
-      "num": 370619,
-      "word": "家属盼幸存室友为女儿见义勇为作证",
-      "onboard_time": 1740032662,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90864,
@@ -1657,6 +1753,14 @@
       "onboard_time": 1739978541,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80250,
+      "num": 361893,
+      "word": "为什么我的老公不是Deepseek",
+      "onboard_time": 1740035240,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 68926,
@@ -1739,6 +1843,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 42861,
+      "num": 134905,
+      "word": "林诗栋亚洲杯两连胜",
+      "onboard_time": 1740034761,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 42544,
       "num": 372669,
       "word": "林诗栋vs篠塚大登",
@@ -1761,6 +1873,14 @@
       "onboard_time": 1739986753,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 40213,
+      "num": 241442,
+      "word": "奶牛靠激素增加产奶量纯属谣言",
+      "onboard_time": 1740035722,
+      "rank": 29,
+      "category": "科学科普"
     },
     {
       "raw_hot": 40042,
@@ -1851,6 +1971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20390,
+      "num": 400917,
+      "word": "亚预赛中国男篮12人名单公布",
+      "onboard_time": 1740035061,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 20247,
       "num": 520189,
       "word": "争议招聘要整改的首先是观念与成见",
@@ -1916,7 +2044,7 @@
     },
     {
       "raw_hot": 4761,
-      "num": 436274,
+      "num": 745578,
       "word": "中国式现代化的万千气象海南行",
       "onboard_time": 1739782103,
       "rank": 2,

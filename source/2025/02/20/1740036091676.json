@@ -1,0 +1,410 @@
+{
+  "runTime": 1740036091676,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1881587,
+        "num": 1881587,
+        "word": "胡静老公从事殡葬行业",
+        "onboard_time": 1740034223,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 982099,
+        "num": 982099,
+        "word": "千万网红毒角SHOW美国高速SUV自燃",
+        "onboard_time": 1740034281,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 4386,
+        "num": 745578,
+        "word": "中国式现代化的万千气象海南行",
+        "onboard_time": 1739782103,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1496503,
+        "num": 701277,
+        "word": "05花",
+        "onboard_time": 1740032061,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 601718,
+        "num": 601718,
+        "word": "宝妈兼职配音4天被骗66万",
+        "onboard_time": 1740023782,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 715044,
+        "num": 590761,
+        "word": "泽连斯基说美国给了1000亿让还5000亿",
+        "onboard_time": 1740028761,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1254894,
+        "num": 586728,
+        "word": "刘泳希李嘉铭官宣离婚",
+        "onboard_time": 1740026782,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 791995,
+        "num": 583422,
+        "word": "董力结婚5年了",
+        "onboard_time": 1740029424,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 572200,
+        "num": 572200,
+        "word": "特朗普称乌克兰或将不复存在",
+        "onboard_time": 1740029962,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 567934,
+        "num": 567934,
+        "word": "郭艾伦再发声",
+        "onboard_time": 1740033502,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 847902,
+        "num": 565409,
+        "word": "抗癌博主小何日记去世",
+        "onboard_time": 1740031822,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 664108,
+        "num": 564960,
+        "word": "黄多多盘发发量",
+        "onboard_time": 1740028882,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 560549,
+        "num": 560549,
+        "word": "房东猥亵女生因年纪过大免于处罚",
+        "onboard_time": 1740028641,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 536890,
+        "num": 536890,
+        "word": "孙颖莎打了自己一巴掌",
+        "onboard_time": 1740030922,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 489441,
+        "num": 489441,
+        "word": "佘诗曼被问王大陆逃兵役被抓的反应",
+        "onboard_time": 1740030381,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483112,
+        "num": 483112,
+        "word": "男子服刑期感染艾滋病监狱被判赔偿",
+        "onboard_time": 1740019700,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 460868,
+        "num": 460868,
+        "word": "难哄",
+        "onboard_time": 1740028703,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 456980,
+        "num": 456980,
+        "word": "白鹿现在自拍很差吗",
+        "onboard_time": 1740030202,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20390,
+        "num": 400917,
+        "word": "亚预赛中国男篮12人名单公布",
+        "onboard_time": 1740035061,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80250,
+        "num": 361893,
+        "word": "为什么我的老公不是Deepseek",
+        "onboard_time": 1740035240,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 348030,
+        "num": 348030,
+        "word": "DeepSeek除了求姻缘还能干啥",
+        "onboard_time": 1740032422,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 368696,
+        "num": 346674,
+        "word": "李行亮回应和麦琳床上拥抱聊天",
+        "onboard_time": 1740028942,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332374,
+        "num": 332374,
+        "word": "刘诗诗将所持股权转让给吴奇隆",
+        "onboard_time": 1740015800,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199147,
+        "num": 315519,
+        "word": "中方包机接回缅甸电诈园遣返人员",
+        "onboard_time": 1740035782,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 235150,
+        "num": 309391,
+        "word": "气血不足的人不要老躺着",
+        "onboard_time": 1740032124,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 308857,
+        "num": 308857,
+        "word": "难哄直播",
+        "onboard_time": 1740035541,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268083,
+        "num": 268083,
+        "word": "偷偷藏不住飙升榜第一",
+        "onboard_time": 1740030381,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 225293,
+        "num": 252329,
+        "word": "特朗普一天内两次威胁泽连斯基",
+        "onboard_time": 1740034521,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 244230,
+        "num": 244230,
+        "word": "一批中国公民被从缅甸电诈园区遣送",
+        "onboard_time": 1740024441,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 40213,
+        "num": 241442,
+        "word": "奶牛靠激素增加产奶量纯属谣言",
+        "onboard_time": 1740035722,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 247325,
+        "num": 241262,
+        "word": "时代峰峻招聘要求",
+        "onboard_time": 1740031221,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240626,
+        "num": 240626,
+        "word": "董力已有一儿一女",
+        "onboard_time": 1740031762,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207836,
+        "num": 207836,
+        "word": "北京三套房也逃不过教育内卷",
+        "onboard_time": 1740032483,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200750,
+        "num": 200750,
+        "word": "张杰和快乐家族的情结",
+        "onboard_time": 1740031341,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199570,
+        "num": 199570,
+        "word": "开始推理吧",
+        "onboard_time": 1740035541,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195728,
+        "num": 195728,
+        "word": "桑延温以凡摩天轮吻",
+        "onboard_time": 1740035483,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181096,
+        "num": 181096,
+        "word": "王大陆3月13日受入伍训",
+        "onboard_time": 1740027142,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179210,
+        "num": 179210,
+        "word": "浪姐6 卡琳娜",
+        "onboard_time": 1740034701,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177351,
+        "num": 177351,
+        "word": "吴宗宪再说下去薛之谦就要哭了",
+        "onboard_time": 1740034521,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171766,
+        "num": 171766,
+        "word": "戚薇曾说绝对不会嫁给外国人",
+        "onboard_time": 1740034641,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168129,
+        "num": 168129,
+        "word": "叶童c位",
+        "onboard_time": 1740027562,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162305,
+        "num": 162305,
+        "word": "章若楠发量",
+        "onboard_time": 1740033681,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159218,
+        "num": 159218,
+        "word": "董力夸老婆拎得清",
+        "onboard_time": 1740032124,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155845,
+        "num": 155845,
+        "word": "浪姐6站位",
+        "onboard_time": 1740024562,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149567,
+        "num": 149567,
+        "word": "DeepSeek回答存款利率太低怎么办",
+        "onboard_time": 1740024982,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 143299,
+        "num": 143299,
+        "word": "董明珠已找到格力接班人",
+        "onboard_time": 1740028522,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 142155,
+        "num": 142155,
+        "word": "梅西零下14度仍交换球衣",
+        "onboard_time": 1740034403,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111171,
+        "num": 137230,
+        "word": "问DeepSeek会不会抢我饭碗",
+        "onboard_time": 1740034701,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 42861,
+        "num": 134905,
+        "word": "林诗栋亚洲杯两连胜",
+        "onboard_time": 1740034761,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134799,
+        "num": 134799,
+        "word": "家属盼幸存室友为女儿见义勇为作证",
+        "onboard_time": 1740032662,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#感悟总书记对民企发展的关怀#"
+    }
+  }
+}

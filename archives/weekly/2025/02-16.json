@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1740033858097,
+  "endTime": 1740036091676,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -395,6 +395,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1881587,
+      "num": 1881587,
+      "word": "胡静老公从事殡葬行业",
+      "onboard_time": 1740034223,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1880268,
       "num": 814324,
       "word": "难哄开播",
@@ -579,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1496503,
+      "num": 701277,
+      "word": "05花",
+      "onboard_time": 1740032061,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1495961,
       "num": 612364,
       "word": "董力结婚5年了",
@@ -676,7 +692,7 @@
     },
     {
       "raw_hot": 1398670,
-      "num": 473483,
+      "num": 564960,
       "word": "黄多多盘发发量",
       "onboard_time": 1740028882,
       "rank": 46,
@@ -1084,7 +1100,7 @@
     },
     {
       "raw_hot": 1086275,
-      "num": 374062,
+      "num": 565409,
       "word": "抗癌博主小何日记去世",
       "onboard_time": 1740031822,
       "rank": 13,
@@ -1315,6 +1331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 982099,
+      "num": 982099,
+      "word": "千万网红毒角SHOW美国高速SUV自燃",
+      "onboard_time": 1740034281,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 979532,
       "num": 899143,
       "word": "难哄导演为请何炅客串写了三页信",
@@ -1460,7 +1484,7 @@
     },
     {
       "raw_hot": 906666,
-      "num": 373196,
+      "num": 560549,
       "word": "房东猥亵女生因年纪过大免于处罚",
       "onboard_time": 1740028641,
       "rank": 27,
@@ -1492,7 +1516,7 @@
     },
     {
       "raw_hot": 868423,
-      "num": 368905,
+      "num": 489441,
       "word": "佘诗曼被问王大陆逃兵役被抓的反应",
       "onboard_time": 1740030381,
       "rank": 12,
@@ -2067,14 +2091,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 674141,
-      "num": 375903,
-      "word": "05花",
-      "onboard_time": 1740032061,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 673310,
       "num": 673310,
       "word": "专家称不必过于担忧AI抢人类铁饭碗",
@@ -2212,7 +2228,7 @@
     },
     {
       "raw_hot": 645109,
-      "num": 367819,
+      "num": 536890,
       "word": "孙颖莎打了自己一巴掌",
       "onboard_time": 1740030922,
       "rank": 18,
@@ -2236,7 +2252,7 @@
     },
     {
       "raw_hot": 638867,
-      "num": 368416,
+      "num": 456980,
       "word": "白鹿现在自拍很差吗",
       "onboard_time": 1740030202,
       "rank": 22,
@@ -2491,6 +2507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 572200,
+      "num": 572200,
+      "word": "特朗普称乌克兰或将不复存在",
+      "onboard_time": 1740029962,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 570381,
       "num": 570381,
       "word": "广西6死事故死伤者系修剪杂草工人",
@@ -2513,6 +2537,14 @@
       "onboard_time": 1739794220,
       "rank": 7,
       "category": "电影,民生新闻"
+    },
+    {
+      "raw_hot": 567934,
+      "num": 567934,
+      "word": "郭艾伦再发声",
+      "onboard_time": 1740033502,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 567353,
@@ -3915,14 +3947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 376105,
-      "num": 376105,
-      "word": "特朗普称乌克兰或将不复存在",
-      "onboard_time": 1740029962,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 375935,
       "num": 375935,
       "word": "孟子义攒了几部剧没播",
@@ -4241,6 +4265,14 @@
       "onboard_time": 1739859695,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 348030,
+      "num": 374425,
+      "word": "DeepSeek除了求姻缘还能干啥",
+      "onboard_time": 1740032422,
+      "rank": 16,
+      "category": "互联网"
     },
     {
       "raw_hot": 347410,
@@ -4681,6 +4713,14 @@
       "onboard_time": 1739962761,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 308857,
+      "num": 308857,
+      "word": "难哄直播",
+      "onboard_time": 1740035541,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 307930,
@@ -6091,6 +6131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 235150,
+      "num": 309391,
+      "word": "气血不足的人不要老躺着",
+      "onboard_time": 1740032124,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 235018,
       "num": 235018,
       "word": "印度首都火车站踩踏事件现场曝光",
@@ -6264,6 +6312,14 @@
       "word": "欧盟准备军援乌克兰",
       "onboard_time": 1739948421,
       "rank": 31,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 225293,
+      "num": 252329,
+      "word": "特朗普一天内两次威胁泽连斯基",
+      "onboard_time": 1740034521,
+      "rank": 27,
       "category": "国际时政"
     },
     {
@@ -6489,14 +6545,6 @@
       "onboard_time": 1739772980,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 219233,
-      "num": 219233,
-      "word": "气血不足的人不要老躺着",
-      "onboard_time": 1740032124,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 219211,
@@ -7355,6 +7403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199570,
+      "num": 199570,
+      "word": "开始推理吧",
+      "onboard_time": 1740035541,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199524,
       "num": 199524,
       "word": "敖光炼狱淬龙魂",
@@ -7385,6 +7441,14 @@
       "onboard_time": 1739939843,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199147,
+      "num": 315519,
+      "word": "中方包机接回缅甸电诈园遣返人员",
+      "onboard_time": 1740035782,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 199060,
@@ -7555,12 +7619,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 195596,
-      "num": 195596,
-      "word": "郭艾伦再发声",
-      "onboard_time": 1740033502,
-      "rank": 43,
-      "category": "体育"
+      "raw_hot": 195728,
+      "num": 195728,
+      "word": "桑延温以凡摩天轮吻",
+      "onboard_time": 1740035483,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 195570,
@@ -8323,6 +8387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179210,
+      "num": 179210,
+      "word": "浪姐6 卡琳娜",
+      "onboard_time": 1740034701,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179177,
       "num": 179177,
       "word": "无限暖暖",
@@ -8385,6 +8457,14 @@
       "onboard_time": 1739687657,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177351,
+      "num": 177351,
+      "word": "吴宗宪再说下去薛之谦就要哭了",
+      "onboard_time": 1740034521,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 177327,
@@ -8537,6 +8617,14 @@
       "onboard_time": 1739935401,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 171766,
+      "num": 171766,
+      "word": "戚薇曾说绝对不会嫁给外国人",
+      "onboard_time": 1740034641,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 171691,
@@ -9867,6 +9955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142155,
+      "num": 142155,
+      "word": "梅西零下14度仍交换球衣",
+      "onboard_time": 1740034403,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141999,
       "num": 141999,
       "word": "周雨采访林高远",
@@ -10201,6 +10297,14 @@
       "onboard_time": 1739955561,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134799,
+      "num": 370619,
+      "word": "家属盼幸存室友为女儿见义勇为作证",
+      "onboard_time": 1740032662,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134560,
@@ -11083,6 +11187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111171,
+      "num": 137230,
+      "word": "问DeepSeek会不会抢我饭碗",
+      "onboard_time": 1740034701,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 111037,
       "num": 111037,
       "word": "王家卫镜头下的张曼玉",
@@ -11265,14 +11377,6 @@
       "onboard_time": 1739942601,
       "rank": 2,
       "category": "国内时政,财经"
-    },
-    {
-      "raw_hot": 104904,
-      "num": 374425,
-      "word": "DeepSeek除了求姻缘还能干啥",
-      "onboard_time": 1740032422,
-      "rank": 16,
-      "category": "互联网"
     },
     {
       "raw_hot": 104841,
@@ -11683,14 +11787,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 94365,
-      "num": 370619,
-      "word": "家属盼幸存室友为女儿见义勇为作证",
-      "onboard_time": 1740032662,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 94201,
       "num": 242259,
       "word": "Doinb获得周最佳选手",
@@ -12041,6 +12137,14 @@
       "onboard_time": 1739779762,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80250,
+      "num": 361893,
+      "word": "为什么我的老公不是Deepseek",
+      "onboard_time": 1740035240,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 80076,
@@ -13227,6 +13331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 42861,
+      "num": 134905,
+      "word": "林诗栋亚洲杯两连胜",
+      "onboard_time": 1740034761,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 42773,
       "num": 240914,
       "word": "哪吒片尾字幕里藏着4000多名匠人",
@@ -13289,6 +13401,14 @@
       "onboard_time": 1739672060,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 40213,
+      "num": 241442,
+      "word": "奶牛靠激素增加产奶量纯属谣言",
+      "onboard_time": 1740035722,
+      "rank": 29,
+      "category": "科学科普"
     },
     {
       "raw_hot": 40042,
@@ -14081,6 +14201,14 @@
       "onboard_time": 1739902933,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 20390,
+      "num": 400917,
+      "word": "亚预赛中国男篮12人名单公布",
+      "onboard_time": 1740035061,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 20277,
