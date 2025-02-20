@@ -1,0 +1,410 @@
+{
+  "runTime": 1740055426833,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2115376,
+        "num": 2115376,
+        "word": "多位演员自曝曾被导演郑某某侵害",
+        "onboard_time": 1740039083,
+        "rank": 0,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 1132653,
+        "num": 1132653,
+        "word": "惠英红 影后就是影后",
+        "onboard_time": 1740051620,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4652,
+        "num": 886786,
+        "word": "中国式现代化的万千气象海南行",
+        "onboard_time": 1739782103,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 802469,
+        "num": 802469,
+        "word": "制作人员做无量仙翁时以为是好人",
+        "onboard_time": 1740051801,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 776857,
+        "num": 776857,
+        "word": "女演员称12岁时被郑某峰性骚扰",
+        "onboard_time": 1740052761,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 757058,
+        "num": 757058,
+        "word": "银川4.2级地震",
+        "onboard_time": 1740053660,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 783508,
+        "num": 739659,
+        "word": "怎么敢让孙丞潇和于佩尔搭戏的啊",
+        "onboard_time": 1740050541,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 783301,
+        "num": 726258,
+        "word": "难哄直播 尴尬",
+        "onboard_time": 1740039020,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 708244,
+        "num": 708244,
+        "word": "拐卖王星的中国籍嫌犯押解回国现场",
+        "onboard_time": 1740053839,
+        "rank": 8,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 45626,
+        "num": 702856,
+        "word": "尹锡悦弹劾案最终辩论下周进行",
+        "onboard_time": 1740054623,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 702099,
+        "num": 702099,
+        "word": "郭艾伦谈捅伤自己的队友事后态度",
+        "onboard_time": 1740045861,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 665719,
+        "num": 665719,
+        "word": "张百乔心态演崩了",
+        "onboard_time": 1740049821,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44579,
+        "num": 662621,
+        "word": "单亲妈妈寻被拐儿子32年终团圆",
+        "onboard_time": 1740054623,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140813,
+        "num": 660599,
+        "word": "OPPO打破全球最薄折叠旗舰纪录",
+        "onboard_time": 1740053722,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 62801,
+        "num": 660096,
+        "word": "梁靖崑3比1松岛辉空",
+        "onboard_time": 1740054741,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 659992,
+        "num": 659992,
+        "word": "哪吒为救百姓毁坏建筑是正当防卫吗",
+        "onboard_time": 1740049401,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 449703,
+        "num": 449703,
+        "word": "易烊千玺朱一龙 合作",
+        "onboard_time": 1740051560,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1260296,
+        "num": 417664,
+        "word": "戚薇9年没去婆家了",
+        "onboard_time": 1740049581,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335580,
+        "num": 335580,
+        "word": "民警收下锦旗却给了对方一副手铐",
+        "onboard_time": 1740053121,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323523,
+        "num": 323523,
+        "word": "妙瓦底200名中国籍涉诈嫌犯押解回国",
+        "onboard_time": 1740043641,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 448539,
+        "num": 322753,
+        "word": "尤浩然说杨紫张一山联系多是正常",
+        "onboard_time": 1740044721,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446993,
+        "num": 320307,
+        "word": "奎八cha了",
+        "onboard_time": 1740053121,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438752,
+        "num": 317938,
+        "word": "第一次见手拉手直播的",
+        "onboard_time": 1740054141,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 415299,
+        "num": 317023,
+        "word": "原来甲醛超标身体是有症状的",
+        "onboard_time": 1740048021,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 315947,
+        "num": 315947,
+        "word": "杨子哭到鼻涕拉丝",
+        "onboard_time": 1740053600,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301653,
+        "num": 301653,
+        "word": "捐赠日军侵华照片的马库斯想去日本",
+        "onboard_time": 1740043940,
+        "rank": 25,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 296668,
+        "num": 296668,
+        "word": "张亮4部代表作都在3分之下",
+        "onboard_time": 1740053300,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282946,
+        "num": 282946,
+        "word": "员工偷换理发店收款码3年窃取189万",
+        "onboard_time": 1740044721,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279237,
+        "num": 279237,
+        "word": "怀孕主播直播时被设备砸成脑震荡",
+        "onboard_time": 1740052462,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41144,
+        "num": 265526,
+        "word": "黑执事僵尸新娘风",
+        "onboard_time": 1740054681,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 40221,
+        "num": 265022,
+        "word": "恋与深空猫猫天使",
+        "onboard_time": 1740054202,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 229022,
+        "num": 265007,
+        "word": "OPPOFindN5发布会",
+        "onboard_time": 1740049401,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 264992,
+        "num": 264992,
+        "word": "买光线股票2分钟亏3成以为手机坏了",
+        "onboard_time": 1740047540,
+        "rank": 32,
+        "category": "财经,作品衍生"
+      },
+      {
+        "raw_hot": 250836,
+        "num": 250836,
+        "word": "多家影院回应阿凡达重映传闻",
+        "onboard_time": 1740051682,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 250450,
+        "num": 250450,
+        "word": "原来拍吻戏真的会亲到肿",
+        "onboard_time": 1740041241,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245003,
+        "num": 245003,
+        "word": "林高远14比16赵大成",
+        "onboard_time": 1740054202,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226093,
+        "num": 226093,
+        "word": "印度17岁举重冠军被杠铃压脖身亡",
+        "onboard_time": 1740039261,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 208893,
+        "num": 208893,
+        "word": "崔太洋 鼻子",
+        "onboard_time": 1740054681,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208813,
+        "num": 208813,
+        "word": "翟潇闻红房子哭戏大悲无声",
+        "onboard_time": 1740054562,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197447,
+        "num": 197447,
+        "word": "蒯曼vs伊藤美诚",
+        "onboard_time": 1740053241,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191644,
+        "num": 191644,
+        "word": "难哄剧宣直播最好笑的一段出现了",
+        "onboard_time": 1740054441,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182131,
+        "num": 182131,
+        "word": "被房东多次猥亵女子男友发声",
+        "onboard_time": 1740054501,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184376,
+        "num": 180965,
+        "word": "章若楠问白敬亭怎么办",
+        "onboard_time": 1740054501,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32330,
+        "num": 180098,
+        "word": "孙颖莎取得两连胜",
+        "onboard_time": 1740049099,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179577,
+        "num": 179577,
+        "word": "迪丽热巴录开推3",
+        "onboard_time": 1740049640,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179376,
+        "num": 179376,
+        "word": "难哄",
+        "onboard_time": 1740028703,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172138,
+        "num": 172138,
+        "word": "林心如看新闻知道陈妍希离婚",
+        "onboard_time": 1740043520,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46071,
+        "num": 171754,
+        "word": "漫画里顶级帅哥的脸",
+        "onboard_time": 1740054081,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 171647,
+        "num": 171647,
+        "word": "白敬亭表白微博",
+        "onboard_time": 1740046341,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158500,
+        "num": 158500,
+        "word": "中国男篮vs日本男篮",
+        "onboard_time": 1740050901,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的科技情怀#"
+    }
+  }
+}
