@@ -1,0 +1,410 @@
+{
+  "runTime": 1740047090612,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2706224,
+        "num": 2706224,
+        "word": "多位演员自曝曾被导演郑某某侵害",
+        "onboard_time": 1740039083,
+        "rank": 0,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 1496609,
+        "num": 1496609,
+        "word": "尤浩然说杨紫张一山联系多是正常",
+        "onboard_time": 1740044721,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92603,
+        "num": 1398557,
+        "word": "为何再次强调支持民营经济发展",
+        "onboard_time": 1740042802,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1325539,
+        "num": 1325539,
+        "word": "难哄直播 尴尬",
+        "onboard_time": 1740039020,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 896529,
+        "num": 896529,
+        "word": "妙瓦底200名中国籍涉诈嫌犯押解回国",
+        "onboard_time": 1740043641,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 811245,
+        "num": 811245,
+        "word": "捐赠日军侵华照片的马库斯想去日本",
+        "onboard_time": 1740043940,
+        "rank": 5,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 726235,
+        "num": 726235,
+        "word": "董力挨骂",
+        "onboard_time": 1740041481,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 618397,
+        "num": 618397,
+        "word": "章若楠回应直播尴尬",
+        "onboard_time": 1740041842,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 412659,
+        "num": 412659,
+        "word": "员工偷换理发店收款码3年窃取189万",
+        "onboard_time": 1740044721,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330261,
+        "num": 330261,
+        "word": "特朗普称乌克兰或将不复存在",
+        "onboard_time": 1740029962,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 742518,
+        "num": 329793,
+        "word": "新郎被部队召回妹妹代哥哥拜堂",
+        "onboard_time": 1740039863,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 661296,
+        "num": 329048,
+        "word": "林心如看新闻知道陈妍希离婚",
+        "onboard_time": 1740043520,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435126,
+        "num": 327398,
+        "word": "郭艾伦谈捅伤自己的队友事后态度",
+        "onboard_time": 1740045861,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 417777,
+        "num": 326514,
+        "word": "女子网上晒娃公司撤销哺乳假被驳回",
+        "onboard_time": 1740040700,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36548,
+        "num": 325490,
+        "word": "陈垣宇vs林昀儒",
+        "onboard_time": 1740046582,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 408033,
+        "num": 324977,
+        "word": "黄多多盘发发量",
+        "onboard_time": 1740028882,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324462,
+        "num": 324462,
+        "word": "金敏喜挺孕肚出发柏林",
+        "onboard_time": 1740037641,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144062,
+        "num": 319818,
+        "word": "地下1万米地震波变成声音太神奇",
+        "onboard_time": 1740046160,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315553,
+        "num": 315553,
+        "word": "千万网红毒角SHOW美国高速SUV自燃",
+        "onboard_time": 1740034281,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 245749,
+        "num": 299736,
+        "word": "白敬亭在难哄直播间操碎了心",
+        "onboard_time": 1740042441,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 337001,
+        "num": 299578,
+        "word": "印度17岁举重冠军被杠铃压脖身亡",
+        "onboard_time": 1740039261,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 298172,
+        "num": 298172,
+        "word": "胡静老公从事殡葬行业",
+        "onboard_time": 1740034223,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279482,
+        "num": 279482,
+        "word": "中医专家回应DeepSeek开药方",
+        "onboard_time": 1740042561,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 294372,
+        "num": 279092,
+        "word": "胡静辟谣老公有四个老婆",
+        "onboard_time": 1740045800,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156846,
+        "num": 270578,
+        "word": "樊振东将赴香港参加开幕典礼",
+        "onboard_time": 1740045261,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265069,
+        "num": 265069,
+        "word": "原来拍吻戏真的会亲到肿",
+        "onboard_time": 1740041241,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252498,
+        "num": 252498,
+        "word": "哪吒2破126亿",
+        "onboard_time": 1740040044,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 219014,
+        "num": 219014,
+        "word": "韩庚对卢靖姗一见钟情",
+        "onboard_time": 1740037761,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200405,
+        "num": 200405,
+        "word": "白敬亭表白微博",
+        "onboard_time": 1740046341,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198626,
+        "num": 198626,
+        "word": "以法之名定档",
+        "onboard_time": 1740046221,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188536,
+        "num": 188536,
+        "word": "广西县委书记要求干部会用DeepSeek",
+        "onboard_time": 1740041001,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182037,
+        "num": 182037,
+        "word": "难哄",
+        "onboard_time": 1740028703,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181531,
+        "num": 181531,
+        "word": "抗癌博主小何日记去世",
+        "onboard_time": 1740031822,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184309,
+        "num": 177452,
+        "word": "桑延温以凡摩天轮吻",
+        "onboard_time": 1740035483,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173125,
+        "num": 173125,
+        "word": "韩剧学习小组",
+        "onboard_time": 1740046281,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172935,
+        "num": 172935,
+        "word": "动起来的桑稚美了我一大跳",
+        "onboard_time": 1740045800,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162066,
+        "num": 162066,
+        "word": "妻旅放了胡静12个角色",
+        "onboard_time": 1740043161,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18649,
+        "num": 161893,
+        "word": "律师谈导演郑某峰涉嫌猥亵儿童",
+        "onboard_time": 1740046101,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161783,
+        "num": 161783,
+        "word": "半个体育圈的人都在水立方",
+        "onboard_time": 1740046462,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153423,
+        "num": 153423,
+        "word": "2025年8省份将不再分文理科",
+        "onboard_time": 1740038422,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144985,
+        "num": 144985,
+        "word": "房东猥亵女生因年纪过大免于处罚",
+        "onboard_time": 1740028641,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142473,
+        "num": 142473,
+        "word": "何老师我们还是太熟了",
+        "onboard_time": 1740038481,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139633,
+        "num": 139633,
+        "word": "浙江文旅欢迎王一博",
+        "onboard_time": 1740046761,
+        "rank": 42,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 133366,
+        "num": 133366,
+        "word": "佘诗曼被问王大陆逃兵役被抓的反应",
+        "onboard_time": 1740030381,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133334,
+        "num": 133334,
+        "word": "起底涉嫌猥亵儿童导演投资版图",
+        "onboard_time": 1740040524,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131227,
+        "num": 131227,
+        "word": "39岁男子去世妻子捐出他全部器官",
+        "onboard_time": 1740040225,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130520,
+        "num": 130520,
+        "word": "两条流浪狗已被啾啾主人收养",
+        "onboard_time": 1740042982,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126783,
+        "num": 126783,
+        "word": "孙颖莎打了自己一巴掌",
+        "onboard_time": 1740030922,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126414,
+        "num": 126414,
+        "word": "05花",
+        "onboard_time": 1740032061,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120831,
+        "num": 120831,
+        "word": "赵晴扫楼黑长直姐感",
+        "onboard_time": 1740044001,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的科技情怀#"
+    }
+  }
+}

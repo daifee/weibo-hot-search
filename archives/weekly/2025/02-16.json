@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1740044287730,
+  "endTime": 1740047090612,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -609,6 +609,14 @@
       "onboard_time": 1739751139,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1496609,
+      "num": 1496609,
+      "word": "尤浩然说杨紫张一山联系多是正常",
+      "onboard_time": 1740044721,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1496503,
@@ -1539,6 +1547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 896529,
+      "num": 896529,
+      "word": "妙瓦底200名中国籍涉诈嫌犯押解回国",
+      "onboard_time": 1740043641,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 895492,
       "num": 635131,
       "word": "贵州六盘水失踪6岁男孩已遇害",
@@ -1628,7 +1644,7 @@
     },
     {
       "raw_hot": 860631,
-      "num": 430847,
+      "num": 618397,
       "word": "章若楠回应直播尴尬",
       "onboard_time": 1740041842,
       "rank": 7,
@@ -1793,6 +1809,14 @@
       "onboard_time": 1739932880,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 811245,
+      "num": 811245,
+      "word": "捐赠日军侵华照片的马库斯想去日本",
+      "onboard_time": 1740043940,
+      "rank": 47,
+      "category": "民生新闻,国内时政"
     },
     {
       "raw_hot": 803700,
@@ -2200,6 +2224,14 @@
       "word": "金赛纶的人生",
       "onboard_time": 1739712324,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 661296,
+      "num": 329048,
+      "word": "林心如看新闻知道陈妍希离婚",
+      "onboard_time": 1740043520,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -3539,6 +3571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 435126,
+      "num": 327398,
+      "word": "郭艾伦谈捅伤自己的队友事后态度",
+      "onboard_time": 1740045861,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 434446,
       "num": 376364,
       "word": "朴灿烈ins晒与张艺兴合照",
@@ -3689,6 +3729,14 @@
       "onboard_time": 1739867123,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 412659,
+      "num": 412659,
+      "word": "员工偷换理发店收款码3年窃取189万",
+      "onboard_time": 1740044721,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 411663,
@@ -5003,6 +5051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 294372,
+      "num": 279092,
+      "word": "胡静辟谣老公有四个老婆",
+      "onboard_time": 1740045800,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 294281,
       "num": 376215,
       "word": "难哄 电视剧界汪峰",
@@ -5291,14 +5347,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 281816,
-      "num": 281816,
-      "word": "林心如看新闻知道陈妍希离婚",
-      "onboard_time": 1740043520,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 281296,
       "num": 281296,
       "word": "蔡徐坤亚洲最时尚大赏",
@@ -5321,6 +5369,14 @@
       "onboard_time": 1739933360,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 279482,
+      "num": 418524,
+      "word": "中医专家回应DeepSeek开药方",
+      "onboard_time": 1740042561,
+      "rank": 13,
+      "category": "互联网"
     },
     {
       "raw_hot": 279037,
@@ -5579,28 +5635,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 263264,
-      "num": 389792,
-      "word": "妙瓦底200名中国籍涉诈嫌犯押解回国",
-      "onboard_time": 1740043641,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 263151,
       "num": 363273,
       "word": "白敬亭在难哄直播间操碎了心",
       "onboard_time": 1740042441,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 262987,
-      "num": 418524,
-      "word": "中医专家回应DeepSeek开药方",
-      "onboard_time": 1740042561,
-      "rank": 13,
-      "category": "互联网"
     },
     {
       "raw_hot": 262758,
@@ -7547,6 +7587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200405,
+      "num": 200405,
+      "word": "白敬亭表白微博",
+      "onboard_time": 1740046341,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200273,
       "num": 200273,
       "word": "三线谜回杀青",
@@ -7680,6 +7728,14 @@
       "word": "白色橄榄树大结局",
       "onboard_time": 1739616560,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 198626,
+      "num": 198626,
+      "word": "以法之名定档",
+      "onboard_time": 1740046221,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -8185,6 +8241,14 @@
       "onboard_time": 1740026182,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188536,
+      "num": 188536,
+      "word": "广西县委书记要求干部会用DeepSeek",
+      "onboard_time": 1740041001,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 188342,
@@ -8827,6 +8891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173125,
+      "num": 173125,
+      "word": "韩剧学习小组",
+      "onboard_time": 1740046281,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172997,
       "num": 172997,
       "word": "宁艺卓 FILA",
@@ -8841,6 +8913,14 @@
       "onboard_time": 1739678539,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 172935,
+      "num": 172935,
+      "word": "动起来的桑稚美了我一大跳",
+      "onboard_time": 1740045800,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 172454,
@@ -9379,6 +9459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161783,
+      "num": 161783,
+      "word": "半个体育圈的人都在水立方",
+      "onboard_time": 1740046462,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161737,
       "num": 315411,
       "word": "王鹤棣全明星偶遇王嘉尔",
@@ -9601,6 +9689,14 @@
       "onboard_time": 1739963539,
       "rank": 29,
       "category": "民生新闻,电影"
+    },
+    {
+      "raw_hot": 156846,
+      "num": 270578,
+      "word": "樊振东将赴香港参加开幕典礼",
+      "onboard_time": 1740045261,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 156748,
@@ -10099,14 +10195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 146426,
-      "num": 146426,
-      "word": "捐赠日军侵华照片的马库斯想去日本",
-      "onboard_time": 1740043940,
-      "rank": 47,
-      "category": "民生新闻,国内时政"
-    },
-    {
       "raw_hot": 146234,
       "num": 146234,
       "word": "白敬亭演唱难哄OST",
@@ -10193,6 +10281,14 @@
       "onboard_time": 1739971823,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144062,
+      "num": 319818,
+      "word": "地下1万米地震波变成声音太神奇",
+      "onboard_time": 1740046160,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143645,
@@ -10409,6 +10505,14 @@
       "onboard_time": 1739932699,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 139633,
+      "num": 139633,
+      "word": "浙江文旅欢迎王一博",
+      "onboard_time": 1740046761,
+      "rank": 42,
+      "category": "艺人,旅游"
     },
     {
       "raw_hot": 139608,
@@ -12251,6 +12355,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 92603,
+      "num": 1442704,
+      "word": "为何再次强调支持民营经济发展",
+      "onboard_time": 1740042802,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 92532,
       "num": 92532,
       "word": "哪吒版书皮得馋哭多少孩子",
@@ -12489,14 +12601,6 @@
       "onboard_time": 1739936120,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 84373,
-      "num": 1442704,
-      "word": "为何再次强调支持民营经济发展",
-      "onboard_time": 1740042802,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 84024,
@@ -14019,6 +14123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36548,
+      "num": 325490,
+      "word": "陈垣宇vs林昀儒",
+      "onboard_time": 1740046582,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36516,
       "num": 243733,
       "word": "干饭哥阿条姐闷声拿金牌",
@@ -14849,6 +14961,14 @@
       "onboard_time": 1739873482,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 18649,
+      "num": 161893,
+      "word": "律师谈导演郑某峰涉嫌猥亵儿童",
+      "onboard_time": 1740046101,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18219,
