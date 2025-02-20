@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1740055426833,
+  "endTime": 1740056361975,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -713,6 +713,14 @@
       "onboard_time": 1739769560,
       "rank": 22,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1425150,
+      "num": 1425150,
+      "word": "拐卖王星的中国籍嫌犯押解回国现场",
+      "onboard_time": 1740053839,
+      "rank": 8,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 1413633,
@@ -2155,14 +2163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 708244,
-      "num": 708244,
-      "word": "拐卖王星的中国籍嫌犯押解回国现场",
-      "onboard_time": 1740053839,
-      "rank": 8,
-      "category": "民生新闻,艺人"
-    },
-    {
       "raw_hot": 701504,
       "num": 678601,
       "word": "哪吒2破125亿",
@@ -2955,6 +2955,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 535378,
+      "num": 535378,
+      "word": "第一次见手拉手直播的",
+      "onboard_time": 1740054141,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 533067,
       "num": 382399,
       "word": "林孝埈说我是中国人",
@@ -3681,14 +3689,6 @@
       "onboard_time": 1739988073,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 438752,
-      "num": 317938,
-      "word": "第一次见手拉手直播的",
-      "onboard_time": 1740054141,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 436897,
@@ -4515,6 +4515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 350965,
+      "num": 315947,
+      "word": "杨子哭到鼻涕拉丝",
+      "onboard_time": 1740053600,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 350872,
       "num": 250886,
       "word": "甄嬛传连门声都被开发出来了",
@@ -4971,14 +4979,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 315947,
-      "num": 315947,
-      "word": "杨子哭到鼻涕拉丝",
-      "onboard_time": 1740053600,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 315340,
       "num": 315340,
       "word": "你的吒儿埋了多少文物梗",
@@ -5171,6 +5171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 298813,
+      "num": 298813,
+      "word": "张亮4部代表作都在3分之下",
+      "onboard_time": 1740053300,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 297798,
       "num": 266130,
       "word": "张睿发寻物启事找眼镜",
@@ -5201,14 +5209,6 @@
       "onboard_time": 1740014181,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 296668,
-      "num": 296668,
-      "word": "张亮4部代表作都在3分之下",
-      "onboard_time": 1740053300,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 295273,
@@ -5763,6 +5763,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 265940,
+      "num": 265940,
+      "word": "林高远14比16赵大成",
+      "onboard_time": 1740054202,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 265903,
       "num": 265903,
       "word": "檀健次虐戏现偶vs古偶",
@@ -5777,6 +5785,14 @@
       "onboard_time": 1739797400,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 265004,
+      "num": 265004,
+      "word": "被房东多次猥亵女子男友发声",
+      "onboard_time": 1740054501,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 264662,
@@ -6281,14 +6297,6 @@
       "onboard_time": 1739710045,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 245003,
-      "num": 245003,
-      "word": "林高远14比16赵大成",
-      "onboard_time": 1740054202,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 244391,
@@ -6907,6 +6915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221256,
+      "num": 221256,
+      "word": "王楚钦VS宇田幸矢",
+      "onboard_time": 1740056062,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 221235,
       "num": 221235,
       "word": "脂肪肝少吃主食还是少吃肉",
@@ -6969,6 +6985,14 @@
       "onboard_time": 1739799560,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 219833,
+      "num": 219833,
+      "word": "孟子义或将参加无限超越班",
+      "onboard_time": 1740055701,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 219770,
@@ -7667,6 +7691,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 204183,
+      "num": 204183,
+      "word": "蒯曼vs伊藤美诚",
+      "onboard_time": 1740053241,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204103,
       "num": 204103,
       "word": "fayeyoko",
@@ -7753,6 +7785,14 @@
       "onboard_time": 1739873603,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201969,
+      "num": 201969,
+      "word": "鞠婧祎营业",
+      "onboard_time": 1740055460,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 201887,
@@ -8035,20 +8075,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 197852,
+      "num": 197852,
+      "word": "怎敌他一句多穿点",
+      "onboard_time": 1740055641,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197534,
       "num": 197534,
       "word": "谁家女主给一条鲫鱼送终",
       "onboard_time": 1739963001,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 197447,
-      "num": 197447,
-      "word": "蒯曼vs伊藤美诚",
-      "onboard_time": 1740053241,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 197376,
@@ -8193,6 +8233,14 @@
       "onboard_time": 1739773639,
       "rank": 35,
       "category": "体育,电影"
+    },
+    {
+      "raw_hot": 194807,
+      "num": 194807,
+      "word": "章若楠问白敬亭怎么办",
+      "onboard_time": 1740054501,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 194755,
@@ -8739,14 +8787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 184376,
-      "num": 180965,
-      "word": "章若楠问白敬亭怎么办",
-      "onboard_time": 1740054501,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 184252,
       "num": 184252,
       "word": "女生许愿男友永不出轨蜡烛吹不灭",
@@ -8857,14 +8897,6 @@
       "onboard_time": 1739682079,
       "rank": 36,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 182131,
-      "num": 182131,
-      "word": "被房东多次猥亵女子男友发声",
-      "onboard_time": 1740054501,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 182033,
@@ -9177,6 +9209,14 @@
       "onboard_time": 1739798001,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174135,
+      "num": 174135,
+      "word": "刘涛粤语好酥",
+      "onboard_time": 1740056062,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 173927,
@@ -10563,6 +10603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146651,
+      "num": 146651,
+      "word": "特朗普称可能与中国达成新贸易协议",
+      "onboard_time": 1740053421,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 146234,
       "num": 146234,
       "word": "白敬亭演唱难哄OST",
@@ -10664,6 +10712,14 @@
       "word": "女生花10个晚上缝制凤冠送朋友出嫁",
       "onboard_time": 1739928621,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143522,
+      "num": 662621,
+      "word": "单亲妈妈寻被拐儿子32年终团圆",
+      "onboard_time": 1740054623,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -12337,6 +12393,14 @@
       "onboard_time": 1740039382,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102995,
+      "num": 307653,
+      "word": "吴宇恒北海道旅游vlog",
+      "onboard_time": 1740055581,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 102819,
@@ -14075,6 +14139,14 @@
       "category": "民生新闻,电影"
     },
     {
+      "raw_hot": 50254,
+      "num": 702856,
+      "word": "尹锡悦弹劾案最终辩论下周进行",
+      "onboard_time": 1740054623,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 49837,
       "num": 208290,
       "word": "潜逃28年嫌犯给村民放羊漂白身份",
@@ -14283,14 +14355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 45626,
-      "num": 702856,
-      "word": "尹锡悦弹劾案最终辩论下周进行",
-      "onboard_time": 1740054623,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 45566,
       "num": 477936,
       "word": "加沙冲突等热点不应被边缘化",
@@ -14321,14 +14385,6 @@
       "onboard_time": 1739766261,
       "rank": 30,
       "category": "民生新闻,议题讨论"
-    },
-    {
-      "raw_hot": 44579,
-      "num": 662621,
-      "word": "单亲妈妈寻被拐儿子32年终团圆",
-      "onboard_time": 1740054623,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 44546,
@@ -14659,6 +14715,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 35979,
+      "num": 308778,
+      "word": "各地高校上线满血版DeepSeek",
+      "onboard_time": 1740055943,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35912,
       "num": 35912,
       "word": "哪吒现实世界冲破了鼎盖",
@@ -14723,6 +14787,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 34234,
+      "num": 250101,
+      "word": "孙颖莎取得两连胜",
+      "onboard_time": 1740049099,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 34079,
       "num": 34079,
       "word": "哪吒2制片人和饺子合作20年了",
@@ -14777,14 +14849,6 @@
       "onboard_time": 1739776160,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32330,
-      "num": 180098,
-      "word": "孙颖莎取得两连胜",
-      "onboard_time": 1740049099,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 32287,
@@ -15281,6 +15345,14 @@
       "onboard_time": 1740027743,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 21523,
+      "num": 303415,
+      "word": "蒯曼胜伊藤美诚",
+      "onboard_time": 1740056001,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 21497,

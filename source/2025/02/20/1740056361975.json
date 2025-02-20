@@ -1,0 +1,410 @@
+{
+  "runTime": 1740056361975,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2089029,
+        "num": 2089029,
+        "word": "多位演员自曝曾被导演郑某某侵害",
+        "onboard_time": 1740039083,
+        "rank": 0,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 1425150,
+        "num": 1425150,
+        "word": "拐卖王星的中国籍嫌犯押解回国现场",
+        "onboard_time": 1740053839,
+        "rank": 1,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 6306,
+        "num": 1120459,
+        "word": "中国式现代化的万千气象海南行",
+        "onboard_time": 1739782103,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1038068,
+        "num": 1038068,
+        "word": "惠英红 影后就是影后",
+        "onboard_time": 1740051620,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 806405,
+        "num": 806405,
+        "word": "难哄直播 尴尬",
+        "onboard_time": 1740039020,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 658685,
+        "num": 658685,
+        "word": "女演员称12岁时被郑某峰性骚扰",
+        "onboard_time": 1740052761,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 796543,
+        "num": 648752,
+        "word": "制作人员做无量仙翁时以为是好人",
+        "onboard_time": 1740051801,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 720250,
+        "num": 618582,
+        "word": "怎么敢让孙丞潇和于佩尔搭戏的啊",
+        "onboard_time": 1740050541,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 557364,
+        "num": 557364,
+        "word": "郭艾伦谈捅伤自己的队友事后态度",
+        "onboard_time": 1740045861,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50254,
+        "num": 536141,
+        "word": "尹锡悦弹劾案最终辩论下周进行",
+        "onboard_time": 1740054623,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 535378,
+        "num": 535378,
+        "word": "第一次见手拉手直播的",
+        "onboard_time": 1740054141,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 529410,
+        "num": 529410,
+        "word": "张百乔心态演崩了",
+        "onboard_time": 1740049821,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 527034,
+        "num": 527034,
+        "word": "哪吒为救百姓毁坏建筑是正当防卫吗",
+        "onboard_time": 1740049401,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 494045,
+        "num": 494045,
+        "word": "银川4.2级地震",
+        "onboard_time": 1740053660,
+        "rank": 13,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 143522,
+        "num": 437475,
+        "word": "单亲妈妈寻被拐儿子32年终团圆",
+        "onboard_time": 1740054623,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120280,
+        "num": 435875,
+        "word": "OPPO打破全球最薄折叠旗舰纪录",
+        "onboard_time": 1740053722,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 435138,
+        "num": 435138,
+        "word": "易烊千玺朱一龙 合作",
+        "onboard_time": 1740051560,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 309839,
+        "num": 309839,
+        "word": "妙瓦底200名中国籍涉诈嫌犯押解回国",
+        "onboard_time": 1740043641,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 35979,
+        "num": 308778,
+        "word": "各地高校上线满血版DeepSeek",
+        "onboard_time": 1740055943,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102995,
+        "num": 307653,
+        "word": "吴宇恒北海道旅游vlog",
+        "onboard_time": 1740055581,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1185916,
+        "num": 306002,
+        "word": "戚薇9年没去婆家了",
+        "onboard_time": 1740049581,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 434342,
+        "num": 304944,
+        "word": "原来甲醛超标身体是有症状的",
+        "onboard_time": 1740048021,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 21523,
+        "num": 303415,
+        "word": "蒯曼胜伊藤美诚",
+        "onboard_time": 1740056001,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 434160,
+        "num": 301716,
+        "word": "奎八cha了",
+        "onboard_time": 1740053121,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385248,
+        "num": 301229,
+        "word": "尤浩然说杨紫张一山联系多是正常",
+        "onboard_time": 1740044721,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350965,
+        "num": 300160,
+        "word": "杨子哭到鼻涕拉丝",
+        "onboard_time": 1740053600,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298813,
+        "num": 298813,
+        "word": "张亮4部代表作都在3分之下",
+        "onboard_time": 1740053300,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265940,
+        "num": 265940,
+        "word": "林高远14比16赵大成",
+        "onboard_time": 1740054202,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265004,
+        "num": 265004,
+        "word": "被房东多次猥亵女子男友发声",
+        "onboard_time": 1740054501,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260451,
+        "num": 260451,
+        "word": "原来拍吻戏真的会亲到肿",
+        "onboard_time": 1740041241,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46537,
+        "num": 259715,
+        "word": "王曼昱陈熠赛前对练",
+        "onboard_time": 1740050660,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259106,
+        "num": 259106,
+        "word": "民警收下锦旗却给了对方一副手铐",
+        "onboard_time": 1740053121,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253187,
+        "num": 253187,
+        "word": "怀孕主播直播时被设备砸成脑震荡",
+        "onboard_time": 1740052462,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34234,
+        "num": 250101,
+        "word": "孙颖莎取得两连胜",
+        "onboard_time": 1740049099,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247362,
+        "num": 247362,
+        "word": "捐赠日军侵华照片的马库斯想去日本",
+        "onboard_time": 1740043940,
+        "rank": 34,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 233726,
+        "num": 233726,
+        "word": "多家影院回应阿凡达重映传闻",
+        "onboard_time": 1740051682,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 222194,
+        "num": 222194,
+        "word": "印度17岁举重冠军被杠铃压脖身亡",
+        "onboard_time": 1740039261,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 221256,
+        "num": 221256,
+        "word": "王楚钦VS宇田幸矢",
+        "onboard_time": 1740056062,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219833,
+        "num": 219833,
+        "word": "孟子义或将参加无限超越班",
+        "onboard_time": 1740055701,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208331,
+        "num": 208331,
+        "word": "员工偷换理发店收款码3年窃取189万",
+        "onboard_time": 1740044721,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205749,
+        "num": 205749,
+        "word": "崔太洋 鼻子",
+        "onboard_time": 1740054681,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204183,
+        "num": 204183,
+        "word": "蒯曼vs伊藤美诚",
+        "onboard_time": 1740053241,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201969,
+        "num": 201969,
+        "word": "鞠婧祎营业",
+        "onboard_time": 1740055460,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197852,
+        "num": 197852,
+        "word": "怎敌他一句多穿点",
+        "onboard_time": 1740055641,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194807,
+        "num": 194807,
+        "word": "章若楠问白敬亭怎么办",
+        "onboard_time": 1740054501,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174135,
+        "num": 174135,
+        "word": "刘涛粤语好酥",
+        "onboard_time": 1740056062,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171103,
+        "num": 171103,
+        "word": "难哄",
+        "onboard_time": 1740028703,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163358,
+        "num": 163358,
+        "word": "迪丽热巴录开推3",
+        "onboard_time": 1740049640,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153847,
+        "num": 153847,
+        "word": "乌克兰",
+        "onboard_time": 1740056301,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146651,
+        "num": 146651,
+        "word": "特朗普称可能与中国达成新贸易协议",
+        "onboard_time": 1740053421,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的科技情怀#"
+    }
+  }
+}
